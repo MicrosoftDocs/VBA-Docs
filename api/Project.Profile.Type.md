@@ -1,21 +1,22 @@
 ---
-title: Profile.Type Property (Project)
+title: Profile.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.Type
 ms.assetid: ff5c3939-cfa6-c098-5fc4-180a4573ecb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Profile.Type Property (Project)
+# Profile.Type property (Project)
 
  Gets a value that specifies whether the account profile being used is a local profile or for Project Server. Read-only **PjProfileType**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
@@ -36,4 +37,4 @@ If the second account profile is a Project Server account, the following stateme
 Debug.Print Profiles(2).Type
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

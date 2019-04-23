@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedLinesMark Property (Word)
+title: Options.RevisedLinesMark property (Word)
 keywords: vbawd10.chm162988091
 f1_keywords:
 - vbawd10.chm162988091
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.RevisedLinesMark
 ms.assetid: ecc358f2-4bf6-7546-5400-938a3dae6b77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.RevisedLinesMark Property (Word)
+# Options.RevisedLinesMark property (Word)
 
-Returns or sets the placement of changed lines in a document with tracked changes. Read/write  **WdRevisedLinesMark** .
+Returns or sets the placement of changed lines in a document with tracked changes. Read/write  **WdRevisedLinesMark**.
 
 
 ## Syntax
 
- _expression_. `RevisedLinesMark`
+_expression_. `RevisedLinesMark`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -47,3 +48,4 @@ temp = Options.RevisedLinesMark
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

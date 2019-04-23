@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Rebind Method (Word)
+title: KeyBinding.Rebind method (Word)
 keywords: vbawd10.chm160956520
 f1_keywords:
 - vbawd10.chm160956520
@@ -8,19 +8,20 @@ api_name:
 - Word.KeyBinding.Rebind
 ms.assetid: edc938ff-5ee5-3134-5808-a861ef37a2da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.Rebind Method (Word)
+# KeyBinding.Rebind method (Word)
 
 Changes the command assigned to the specified key binding.
 
 
 ## Syntax
 
- _expression_. `Rebind`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
+_expression_. `Rebind`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
 
- _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
+_expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Next kbLoop
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

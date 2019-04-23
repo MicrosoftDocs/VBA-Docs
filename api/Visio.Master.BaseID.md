@@ -1,5 +1,5 @@
 ---
-title: Master.BaseID Property (Visio)
+title: Master.BaseID property (Visio)
 keywords: vis_sdr.chm10713135
 f1_keywords:
 - vis_sdr.chm10713135
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.BaseID
 ms.assetid: 85ca3c0d-5015-b303-7102-144768acb6a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.BaseID Property (Visio)
+# Master.BaseID property (Visio)
 
 Returns a base ID for a master. Read-only.
 
 
 ## Syntax
 
- _expression_. `BaseID`
+_expression_. `BaseID`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -63,4 +64,4 @@ Dim vsoMaster As Visio.Master
 Set vsoMaster = Visio.ActiveDocument.Masters("A{0478DA94-1315-9876-8E4C-006523ABC9B2}")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

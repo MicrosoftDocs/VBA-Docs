@@ -1,5 +1,5 @@
 ---
-title: Table.Restrict Method (Outlook)
+title: Table.Restrict method (Outlook)
 keywords: vbaol11.chm2234
 f1_keywords:
 - vbaol11.chm2234
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Table.Restrict
 ms.assetid: ecdd30f6-e12c-8025-3ded-592d2fad2bb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Restrict Method (Outlook)
+# Table.Restrict method (Outlook)
 
 Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a new **Table** object.
 
 
 ## Syntax
 
- _expression_. `Restrict`( `_Filter_` )
+_expression_. `Restrict`( `_Filter_` )
 
- _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Parameters
@@ -42,7 +43,7 @@ You can only use  **Table.Restrict** to apply another filter to that **Table** i
 
 Since the filter is applied to the rows in the  **Table** object, this is equivalent to applying a filter that is a logical **AND** of _Filter_ and all preceding filters applied to the same **Table** object.
 
- _Filter_ is a query on specified properties of items that are represented as rows in the parent **Table** . The query uses either the Microsoft Jet syntax or the DAV Searching and Locating (DASL) syntax. For example, the following Jet filter and DASL filter specify the same criteria for items with **LastModificationTime** earlier than 3:30pm of June 12, 2005:
+ _Filter_ is a query on specified properties of items that are represented as rows in the parent **Table**. The query uses either the Microsoft Jet syntax or the DAV Searching and Locating (DASL) syntax. For example, the following Jet filter and DASL filter specify the same criteria for items with **LastModificationTime** earlier than 3:30pm of June 12, 2005:
 
 
 
@@ -62,7 +63,7 @@ If  _Filter_ is a blank string, **Restrict** returns a **Table** object that is 
 
 ## Example
 
-The following code sample applies a Jet filter on items in the Inbox to obtain items with a  **LastModificationTime** greater than November 1, 2005. It then prints the values of the default properties for these items in the Inbox: **EntryID** , **Subject** , **CreationTime** , **LastModificationTime** , and **MessageClass** .
+The following code sample applies a Jet filter on items in the Inbox to obtain items with a  **LastModificationTime** greater than November 1, 2005. It then prints the values of the default properties for these items in the Inbox: **EntryID**, **Subject**, **CreationTime**, **LastModificationTime**, and **MessageClass**.
 
 
  **Note**  Since heterogeneous items can exist in the same folder in Outlook, the items returned from applying the filter to the Inbox may be of different types. In general, before accessing any properties that are not among the default properties for items in the Inbox, you should check the  **MessageClass** of the item.
@@ -102,3 +103,4 @@ End Sub
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

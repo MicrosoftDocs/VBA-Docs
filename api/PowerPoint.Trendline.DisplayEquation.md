@@ -1,5 +1,5 @@
 ---
-title: Trendline.DisplayEquation Property (PowerPoint)
+title: Trendline.DisplayEquation property (PowerPoint)
 keywords: vbapp10.chm65726
 f1_keywords:
 - vbapp10.chm65726
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Trendline.DisplayEquation
 ms.assetid: dad5ea14-3165-df06-33b6-b90ddedaab39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendline.DisplayEquation Property (PowerPoint)
+# Trendline.DisplayEquation property (PowerPoint)
 
  **True** if the equation for the trendline is displayed on the chart (in the same data label as the R-squared value). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayEquation`
+_expression_. `DisplayEquation`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 
@@ -35,7 +36,7 @@ Setting this property to  **True** automatically enables data labels.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example displays the R-squared value and equation for the first trendline of the first chart in the active document. You should run the example on a 2-D column chart that has a trendline for the first series.
+The following example displays the R-squared value and equation for the first trendline of the first chart in the active document. You should run the example on a 2D column chart that has a trendline for the first series.
 
 
 
@@ -64,3 +65,4 @@ End With
 
 [Trendline Object](PowerPoint.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

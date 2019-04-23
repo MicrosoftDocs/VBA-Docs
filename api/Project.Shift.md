@@ -1,14 +1,15 @@
 ---
-title: Shift Object (Project)
+title: Shift object (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift
 ms.assetid: bf224646-d1c6-bc4a-1cce-a08b2f4e417d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shift Object (Project)
+# Shift object (Project)
 
 
  
@@ -24,7 +25,7 @@ Use the  **Shift*n*** property to return a **Shift** object. The following examp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Project.Shift.Clear.md)|
 
@@ -32,7 +33,7 @@ Use the  **Shift*n*** property to return a **Shift** object. The following examp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Shift.Application.md)|
 |[Finish](Project.Shift.Finish.md)|
@@ -40,3 +41,4 @@ Use the  **Shift*n*** property to return a **Shift** object. The following examp
 |[Parent](Project.Shift.Parent.md)|
 |[Start](Project.Shift.Start.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

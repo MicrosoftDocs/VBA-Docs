@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWebControl Method (Publisher)
+title: Shapes.AddWebControl method (Publisher)
 keywords: vbapb10.chm2162722
 f1_keywords:
 - vbapb10.chm2162722
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddWebControl
 ms.assetid: 94b54939-9627-6b38-4375-f1c87fc8c4f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddWebControl Method (Publisher)
+# Shapes.AddWebControl method (Publisher)
 
 Adds a new  **Shape** object representing a Web form control to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddWebControl**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
+_expression_.**AddWebControl**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -53,7 +54,7 @@ The Type parameter can be one of the  **PbWebControlType** constants declared in
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbWebControlCheckBox**|Adds a check box.|
 | **pbWebControlCommandButton**|Adds a command button.|
@@ -126,4 +127,4 @@ With theDoc.Pages(4).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

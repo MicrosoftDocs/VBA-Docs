@@ -1,5 +1,5 @@
 ---
-title: Application.GetCustomListNum Method (Excel)
+title: Application.GetCustomListNum method (Excel)
 keywords: vbaxl10.chm133141
 f1_keywords:
 - vbaxl10.chm133141
@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.Application.GetCustomListNum
 ms.assetid: c4a97a96-333a-1021-7324-5cca4f0d9f3c
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
-# Application.GetCustomListNum Method (Excel)
+# Application.GetCustomListNum method (Excel)
 
 Returns the custom list number for an array of strings. You can use this method to match both built-in lists and custom-defined lists.
 
 
 ## Syntax
 
- _expression_. `GetCustomListNum`( `_ListArray_` )
+_expression_.**GetCustomListNum** (_ListArray_)
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -53,8 +52,6 @@ Application.DeleteCustomList n
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

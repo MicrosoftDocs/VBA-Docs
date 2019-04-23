@@ -5,6 +5,7 @@ api_name:
 - Visio.PageColor
 ms.assetid: afda33d5-461b-44d0-a611-df26c632ce12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets the color of the page in the current drawing that is open in Micros
 
 ## Syntax
 
- _expression_. **PageColor**
+_expression_.**PageColor**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -43,4 +44,4 @@ The following example sets the page color to red.
 vsoViewer.PageColor = 225
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

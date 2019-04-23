@@ -1,5 +1,5 @@
 ---
-title: Shapes.ObjectType Property (Visio)
+title: Shapes.ObjectType property (Visio)
 keywords: vis_sdr.chm11313960
 f1_keywords:
 - vis_sdr.chm11313960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shapes.ObjectType
 ms.assetid: a736ec18-5f78-7b96-3208-b40775d37c28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.ObjectType Property (Visio)
+# Shapes.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

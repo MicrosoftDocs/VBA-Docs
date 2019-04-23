@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.Separator
 ms.assetid: b71d6358-a296-1eaf-ae5c-21ba7c054900
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Sets or returns a  **Variant** representing the separator used for the data labe
 
 ## Syntax
 
- _expression_. `Separator`
+_expression_. `Separator`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

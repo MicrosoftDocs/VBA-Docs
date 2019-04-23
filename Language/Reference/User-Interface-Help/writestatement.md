@@ -1,15 +1,16 @@
 ---
-title: Write  Statement
+title: Write statement (VBA)
 keywords: vblr6.chm1009061
 f1_keywords:
 - vblr6.chm1009061
 ms.prod: office
 ms.assetid: b39df18a-4cdc-2aca-d941-35cffe8d0005
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
-# Write # Statement
+# Write # statement
 
 Writes data to a sequential file.
 
@@ -17,42 +18,45 @@ Writes data to a sequential file.
 
 **Write #**_filenumber_, [ _outputlist_ ]
 
-The  **Write #** statement syntax has these parts:
+<br/>
 
+The **Write #** statement syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _outputlist_|Optional. One or more comma-delimited [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) or [string expressions](../../Glossary/vbe-glossary.md#string-expression) to write to a file.|
 
 ## Remarks
 
-Data written with  **Write #** is usually read from a file with **Input #**.
-If you omit  _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.
-When  **Write #** is used to write data to a file, several universal assumptions are followed so the data can always be read and correctly interpreted using **Input #**, regardless of[locale](../../Glossary/vbe-glossary.md#locale):
+Data written with **Write #** is usually read from a file with **[Input #](inputstatement.md)**.
 
+If you omit _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.
 
-- Numeric data is always written using the period as the decimal separator.
+When **Write #** is used to write data to a file, several universal assumptions are followed so that the data can always be read and correctly interpreted by using **Input #**, regardless of [locale](../../Glossary/vbe-glossary.md#locale):
+
+- Numeric data is always written by using the period as the decimal separator.
     
-- For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False**[keywords](../../Glossary/vbe-glossary.md#keyword) are not translated, regardless of locale.
+- For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False** [keywords](../../Glossary/vbe-glossary.md#keyword) are not translated, regardless of locale.
     
-- [Date](../../Glossary/vbe-glossary.md#date-data-type) data is written to the file using the [universal date format](../../Glossary/vbe-glossary.md#universal-date-format). When either the date or the time component is missing or zero, only the part provided gets written to the file.
+- [Date](../../Glossary/vbe-glossary.md#date-data-type) data is written to the file by using the [universal date format](../../Glossary/vbe-glossary.md#universal-date-format). When either the date or the time component is missing or zero, only the part provided gets written to the file.
     
-- Nothing is written to the file if  _outputlist_ data is [Empty](../../Glossary/vbe-glossary.md#empty). However, for [Null](../../Glossary/vbe-glossary.md#null) data, `#NULL#` is written.
+- Nothing is written to the file if _outputlist_ data is [Empty](../../Glossary/vbe-glossary.md#empty). However, for [Null](../../Glossary/vbe-glossary.md#null) data, `#NULL#` is written.
     
-- If  _outputlist_ data is **Null** data, `#NULL#` is written to the file.
+- If _outputlist_ data is **Null** data, `#NULL#` is written to the file.
     
-- For  **Error** data, the output appears as `#ERROR errorcode#`. The  **Error** keyword is not translated, regardless of locale.
+- For **Error** data, the output appears as `#ERROR errorcode#`. The **Error** keyword is not translated, regardless of locale.
     
 
-Unlike the  **Print #** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**), after it has written the final character in _outputlist_ to the file.
+Unlike the **[Print #](printstatement.md)** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed (**Chr**(13) + **Chr**(10) ), after it has written the final character in _outputlist_ to the file.
 
- **Note**  You should not write strings that contain embedded quotation marks, for example, `"1,2""X"` for use with the **Input #** statement: **Input #** parses this string as two complete and separate strings.
+> [!NOTE] 
+> You should not write strings that contain embedded quotation marks, for example, `"1,2""X"` for use with the **Input #** statement; **Input #** parses this string as two complete and separate strings.
 
 
 ## Example
 
-This example uses the  **Write #** statement to write raw data to a sequential file.
+This example uses the **Write #** statement to write raw data to a sequential file.
 
 
 ```vb
@@ -76,4 +80,9 @@ Close #1    ' Close file.
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

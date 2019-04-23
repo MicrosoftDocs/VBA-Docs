@@ -1,5 +1,5 @@
 ---
-title: Application.Languages Property (Word)
+title: Application.Languages property (Word)
 keywords: vbawd10.chm158334990
 f1_keywords:
 - vbawd10.chm158334990
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Languages
 ms.assetid: f81cfcb6-33e2-bb8e-2ac4-b4f9df833946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Languages Property (Word)
+# Application.Languages property (Word)
 
 Returns a  **[Languages](Word.languages.md)** collection that represents the proofing languages listed in the **Language** dialog box.
 
 
 ## Syntax
 
- _expression_. `Languages`
+_expression_. `Languages`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -65,3 +66,4 @@ Next langLoop
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

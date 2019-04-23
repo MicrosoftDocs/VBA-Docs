@@ -1,5 +1,5 @@
 ---
-title: Document.SetPasswordEncryptionOptions Method (Word)
+title: Document.SetPasswordEncryptionOptions method (Word)
 keywords: vbawd10.chm158007657
 f1_keywords:
 - vbawd10.chm158007657
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SetPasswordEncryptionOptions
 ms.assetid: 4e7c2c0a-cac2-6fa3-f237-f02c897757a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SetPasswordEncryptionOptions Method (Word)
+# Document.SetPasswordEncryptionOptions method (Word)
 
 Sets the options Microsoft Word uses for encrypting documents with passwords.
 
 
 ## Syntax
 
- _expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_` , `_PasswordEncryptionAlgorithm_` , `_PasswordEncryptionKeyLength_` , `_PasswordEncryptionFileProperties_` )
+_expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_` , `_PasswordEncryptionAlgorithm_` , `_PasswordEncryptionKeyLength_` , `_PasswordEncryptionFileProperties_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -32,7 +33,7 @@ Sets the options Microsoft Word uses for encrypting documents with passwords.
 | _PasswordEncryptionProvider_|Required| **String**|The name of the encryption provider.|
 | _PasswordEncryptionAlgorithm_|Required| **String**|The name of the encryption algorithm. Word supports stream-encrypted algorithms.|
 | _PasswordEncryptionKeyLength_|Required| **Long**|The encryption key length. Must be a multiple of 8, starting at 40.|
-| _PasswordEncryptionFileProperties_|Optional| **Variant**| **True** for Word to encrypt file properties. Default is **True** .|
+| _PasswordEncryptionFileProperties_|Optional| **Variant**| **True** for Word to encrypt file properties. Default is **True**.|
 
 ## Remarks
 
@@ -67,3 +68,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

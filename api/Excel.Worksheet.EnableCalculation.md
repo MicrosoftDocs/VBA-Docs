@@ -8,24 +8,25 @@ api_name:
 - Excel.Worksheet.EnableCalculation
 ms.assetid: fc70ae97-b56b-3b57-6f7b-8438b78c424d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.EnableCalculation property (Excel)
 
- **True** if Microsoft Excel automatically recalculates the worksheet when necessary. **False** if Excel doesn't recalculate the sheet. Read/write **Boolean** .
+**True** if Microsoft Excel automatically recalculates the worksheet when necessary. **False** if Excel doesn't recalculate the sheet. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableCalculation`
+_expression_. `EnableCalculation`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
 
-When the value of this property is  **False** , you cannot request a recalculation. When you change the value from **False** to **True** , Excel recalculates the worksheet.
+When the value of this property is  **False**, you cannot request a recalculation. When you change the value from **False** to **True**, Excel recalculates the worksheet.
 
 
 ## Example
@@ -43,3 +44,4 @@ Worksheets(1).EnableCalculation = False
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

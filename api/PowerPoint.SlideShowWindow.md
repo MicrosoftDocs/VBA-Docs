@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow Object (PowerPoint)
+title: SlideShowWindow object (PowerPoint)
 keywords: vbapp10.chm507000
 f1_keywords:
 - vbapp10.chm507000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SlideShowWindow
 ms.assetid: 22468489-d4a2-ffea-7479-53ecb8d5da29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindow Object (PowerPoint)
+# SlideShowWindow object (PowerPoint)
 
 Represents a window in which a slide show runs.
 
@@ -69,7 +70,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DrawLine](./PowerPoint.SlideShowView.DrawLine.md)|
 |[EndNamedShow](./PowerPoint.SlideShowView.EndNamedShow.md)|
@@ -92,7 +93,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceleratorsEnabled](./PowerPoint.SlideShowView.AcceleratorsEnabled.md)|
 |[AdvanceMode](./PowerPoint.SlideShowView.AdvanceMode.md)|
@@ -119,4 +120,6 @@ MsgBox SlideShowWindows(1).Presentation.Name
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.RejectAllRevisionsShown Method (Word)
+title: Document.RejectAllRevisionsShown method (Word)
 keywords: vbawd10.chm158007669
 f1_keywords:
 - vbawd10.chm158007669
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.RejectAllRevisionsShown
 ms.assetid: 87b46681-dbc9-e38b-e20d-5da2a9a0456f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RejectAllRevisionsShown Method (Word)
+# Document.RejectAllRevisionsShown method (Word)
 
 Rejects all revisions in a document that are displayed on the screen.
 
 
 ## Syntax
 
- _expression_. `RejectAllRevisionsShown`
+_expression_. `RejectAllRevisionsShown`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -56,3 +57,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

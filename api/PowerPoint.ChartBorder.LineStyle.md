@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.LineStyle Property (PowerPoint)
+title: ChartBorder.LineStyle property (PowerPoint)
 keywords: vbapp10.chm685003
 f1_keywords:
 - vbapp10.chm685003
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.ChartBorder.LineStyle
 ms.assetid: 97ec4f20-72a4-b0a9-d875-c0ae0c492b1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartBorder.LineStyle Property (PowerPoint)
+# ChartBorder.LineStyle property (PowerPoint)
 
 Returns or sets the line style for the border. Read/write  **[XlLineStyle](PowerPoint.XlLineStyle.md)**, **xlGray25**, **xlGray50**, **xlGray75**, or **xlAutomatic**.
 
 
 ## Syntax
 
- _expression_. `LineStyle`
+_expression_.**LineStyle**
 
- _expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.md)' object.
+_expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.md)' object.
 
 
 ## Remarks
 
-The  **xlDouble** and **xlSlantDashDot** constants of the **XlLineStyle** enumeration do not apply to charts.
+The  **xlDouble** and **xlSlantDashDot** constants of the **xlLineStyle** enumeration do not apply to charts.
 
 
 ## Example
@@ -72,3 +73,4 @@ End With
 
 [ChartBorder Object](PowerPoint.ChartBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

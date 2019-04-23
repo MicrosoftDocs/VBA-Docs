@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumIf Method (Excel)
+title: WorksheetFunction.SumIf method (Excel)
 keywords: vbaxl10.chm137241
 f1_keywords:
 - vbaxl10.chm137241
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.SumIf
 ms.assetid: 2df06641-0307-339f-236e-674d0bf58a78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.SumIf Method (Excel)
+# WorksheetFunction.SumIf method (Excel)
 
 Adds the cells specified by a given criteria.
 
 
 ## Syntax
 
- _expression_. `SumIf`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `SumIf`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WeekDay Object (Project)
+title: WeekDay object (Project)
 ms.prod: project-server
 api_name:
 - Project.WeekDay
 ms.assetid: fc460e89-784b-6764-c22d-e1dcd8a9f297
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WeekDay Object (Project)
+# WeekDay object (Project)
 
 
  
@@ -30,7 +31,7 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.WeekDay.Default.md)|
 
@@ -38,7 +39,7 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WeekDay.Application.md)|
 |[Calendar](Project.WeekDay.Calendar.md)|
@@ -53,3 +54,4 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 |[Shift5](Project.WeekDay.Shift5.md)|
 |[Working](Project.WeekDay.Working.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

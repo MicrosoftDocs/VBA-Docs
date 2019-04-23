@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Visio)
+title: Selection object (Visio)
 keywords: vis_sdr.chm10220
 f1_keywords:
 - vis_sdr.chm10220
@@ -8,10 +8,11 @@ api_name:
 - Visio.Selection
 ms.assetid: e5734140-6dbe-7de8-9695-1a22fb4ac628
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection Object (Visio)
+# Selection object (Visio)
 
 Represents a subset of  **Shape** objects for a page or master to which an operation can be applied.
 
@@ -31,7 +32,7 @@ By default, the items reported by a  **Selection** object do not include subsele
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToContainers](./Visio.Selection.AddToContainers.md)|
 |[AddToGroup](./Visio.Selection.AddToGroup.md)|
@@ -99,7 +100,7 @@ By default, the items reported by a  **Selection** object do not include subsele
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Selection.Application.md)|
 |[ContainingMaster](./Visio.Selection.ContainingMaster.md)|
@@ -129,3 +130,4 @@ By default, the items reported by a  **Selection** object do not include subsele
 |[TextStyle](./Visio.Selection.TextStyle.md)|
 |[TextStyleKeepFmt](./Visio.Selection.TextStyleKeepFmt.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

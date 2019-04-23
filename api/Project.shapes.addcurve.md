@@ -1,17 +1,18 @@
 ---
-title: Shapes.AddCurve Method (Project)
+title: Shapes.AddCurve method (Project)
 ms.prod: project-server
 ms.assetid: 16ea0f55-268a-b224-cc94-3d7e74de6265
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddCurve Method (Project)
-Adds a B?zier curve to a report, and returns a  **Shape** object that represents the curve.
+# Shapes.AddCurve method (Project)
+Adds a Bézier curve to a report, and returns a  **Shape** object that represents the curve.
 
 ## Syntax
 
- _expression_. `AddCurve` _(SafeArrayOfPoints)_
+_expression_. `AddCurve` _(SafeArrayOfPoints)_
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -20,10 +21,10 @@ Adds a B?zier curve to a report, and returns a  **Shape** object that represents
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve.|
-| _SafeArrayOfPoints_|Required|VARIANT||
+| _SafeArrayOfPoints_|Required|**Variant**||
 
 ## Return value
 
@@ -32,7 +33,7 @@ Adds a B?zier curve to a report, and returns a  **Shape** object that represents
 
 ## Remarks
 
-For the  _SafeArrayOfPoints_ parameter, the first point you specify is the starting vertex, and the next two points are control points for the first B?zier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3 _n_ + 1 points, where _n_ is the number of segments in the curve.
+For the  _SafeArrayOfPoints_ parameter, the first point you specify is the starting vertex, and the next two points are control points for the first Bézier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3 _n_ + 1 points, where _n_ is the number of segments in the curve.
 
 
 ## Example
@@ -82,3 +83,5 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Line Property](Project.shape.line.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

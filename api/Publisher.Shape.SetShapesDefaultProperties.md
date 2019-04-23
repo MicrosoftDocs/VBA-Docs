@@ -1,5 +1,5 @@
 ---
-title: Shape.SetShapesDefaultProperties Method (Publisher)
+title: Shape.SetShapesDefaultProperties method (Publisher)
 keywords: vbapb10.chm2228264
 f1_keywords:
 - vbapb10.chm2228264
@@ -8,24 +8,25 @@ api_name:
 - Publisher.Shape.SetShapesDefaultProperties
 ms.assetid: 3f7d7143-3a08-6ff4-c28e-86598212a876
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SetShapesDefaultProperties Method (Publisher)
+# Shape.SetShapesDefaultProperties method (Publisher)
 
 Applies the formatting for the specified shape or shape range to the default shape. Shapes created after this method has been used will have this formatting applied to them by default.
 
 
 ## Syntax
 
- _expression_. **SetShapesDefaultProperties**
+_expression_.**SetShapesDefaultProperties**
 
  _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks
 
-The  **SetShapesDefaultProperties** method stores two different sets of default properties, one for a **Shape** object's ** [AutoShapeType Property](Publisher.Shape.AutoShapeType.md)**, and another for a  **TextFrame** object. In other words, if this method is called on an AutoShape, the default formatting of that object will apply only to new AutoShapes, and will not apply to new text boxes. If this method is called on a text box, the default formatting of that object will apply only to new text boxes, and will not apply to new AutoShapes.
+The  **SetShapesDefaultProperties** method stores two different sets of default properties, one for a **Shape** object's **[AutoShapeType Property](Publisher.Shape.AutoShapeType.md)**, and another for a  **TextFrame** object. In other words, if this method is called on an AutoShape, the default formatting of that object will apply only to new AutoShapes, and will not apply to new text boxes. If this method is called on a text box, the default formatting of that object will apply only to new text boxes, and will not apply to new AutoShapes.
 
 
 ## Example
@@ -53,4 +54,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

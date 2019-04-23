@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4c0eac95-5c34-4027-b4ec-db167216a7df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Trendline.Name Property (PowerPoint)](http://msdn.microsoft.com/library/6b3c1823-5f9a-ee5f-19ac-e19bc04b6434%28Office.15%29.aspx)
 [DataLabels.Name Property (PowerPoint)](http://msdn.microsoft.com/library/6f849f0d-4087-19a4-1cc2-eba9d83778e3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

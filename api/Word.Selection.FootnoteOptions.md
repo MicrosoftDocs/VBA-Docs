@@ -1,5 +1,5 @@
 ---
-title: Selection.FootnoteOptions Property (Word)
+title: Selection.FootnoteOptions property (Word)
 keywords: vbawd10.chm158663680
 f1_keywords:
 - vbawd10.chm158663680
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.FootnoteOptions
 ms.assetid: 064bb3c1-cbaa-9d8f-5b97-a4337b0cfeae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.FootnoteOptions Property (Word)
+# Selection.FootnoteOptions property (Word)
 
 Returns  **[FootnoteOptions](Word.FootnoteOptions.md)** object that represents the footnotes in a selection.
 
 
 ## Syntax
 
- _expression_. `FootnoteOptions`
+_expression_. `FootnoteOptions`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ End Sub
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

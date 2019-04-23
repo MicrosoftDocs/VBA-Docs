@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 214cbf96-957f-e677-cd0d-cf050b605f4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 ## Syntax
 
- _expression_. **WordWrap**
+_expression_.**WordWrap**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
 
  **True** to specify that the text wraps (default), **False** to specify that the text does not.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

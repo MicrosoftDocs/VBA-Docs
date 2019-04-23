@@ -1,21 +1,22 @@
 ---
-title: Filters.Item Property (Project)
+title: Filters.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Filters.Item
 ms.assetid: 7eb72f5e-968f-84a4-6359-8beda5feb07f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Filters.Item Property (Project)
+# Filters.Item property (Project)
 
 Gets a single  **Filter** object from the **Filters** collection. Read-only **Filter**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'Filters' object.
 
@@ -32,3 +33,5 @@ Gets a single  **Filter** object from the **Filters** collection. Read-only **Fi
 
 
 [Filters Collection Object](Project.filters.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

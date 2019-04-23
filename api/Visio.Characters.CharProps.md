@@ -1,5 +1,5 @@
 ---
-title: Characters.CharProps Property (Visio)
+title: Characters.CharProps property (Visio)
 keywords: vis_sdr.chm10213225
 f1_keywords:
 - vis_sdr.chm10213225
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.CharProps
 ms.assetid: 7c05633d-9e99-cee3-0d24-bff6d191ef24
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.CharProps Property (Visio)
+# Characters.CharProps property (Visio)
 
 Sets a character property of a  **Characters** object to a new value. Write-only.
 
 
 ## Syntax
 
- _expression_. `CharProps`( `_CellIndex_` )
+_expression_. `CharProps`( `_CellIndex_` )
 
  _expression_ An expression that returns a [Characters](./Visio.Characters.md) object.
 
@@ -44,7 +45,7 @@ The  **CharProps** property is a write-only property. To retrieve formatting pro
 
 The values of the CellIndex argument correspond to cells in the Character section of the ShapeSheet window, and the values of the  **CharProps** property correspond to the values that can be entered in those cells.
 
-Constants for CellIndex and for the  **CharProps** property value are declared in the Visio type library in **VisCellIndices** .
+Constants for CellIndex and for the  **CharProps** property value are declared in the Visio type library in **VisCellIndices**.
 
 
 
@@ -68,5 +69,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

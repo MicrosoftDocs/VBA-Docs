@@ -1,5 +1,5 @@
 ---
-title: Presentation.SharedWorkspace Property (PowerPoint)
+title: Presentation.SharedWorkspace property (PowerPoint)
 keywords: vbapp10.chm583083
 f1_keywords:
 - vbapp10.chm583083
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.SharedWorkspace
 ms.assetid: 79ba29b0-e51b-2644-60d7-6a044a9a7291
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.SharedWorkspace Property (PowerPoint)
+# Presentation.SharedWorkspace property (PowerPoint)
 
 Returns a  **SharedWorkspace** object that represents the Document Workspace in which a specified presentation is located. Read-only.
 
 
 ## Syntax
 
- _expression_. `SharedWorkspace`
+_expression_. `SharedWorkspace`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -81,3 +82,4 @@ Set objWorkspace = ActivePresentation.SharedWorkspace
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

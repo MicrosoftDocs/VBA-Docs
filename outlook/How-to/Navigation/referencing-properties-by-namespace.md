@@ -3,6 +3,7 @@ title: Referencing Properties by Namespace
 ms.prod: outlook
 ms.assetid: c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -190,3 +191,4 @@ These are some examples of properties being referenced by different DAV namespac
 - [Property Types](../../../api/overview/Outlook.md)<br>
 - [MAPI Named Properties](../../../api/overview/Outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

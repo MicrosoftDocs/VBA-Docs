@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListBulletText Property (Publisher)
+title: ParagraphFormat.ListBulletText property (Publisher)
 keywords: vbapb10.chm5439523
 f1_keywords:
 - vbapb10.chm5439523
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.ListBulletText
 ms.assetid: fa80957a-be91-398f-a24f-5a0449a9466f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListBulletText Property (Publisher)
+# ParagraphFormat.ListBulletText property (Publisher)
 
 Returns a  **String** representing the list bullet text from the specified paragraphs. Read-only.
 
 
 ## Syntax
 
- _expression_. **ListBulletText**
+_expression_.**ListBulletText**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -59,4 +60,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.State Property (Word)
+title: MailMerge.State property (Word)
 keywords: vbawd10.chm153092098
 f1_keywords:
 - vbawd10.chm153092098
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.State
 ms.assetid: eeee1112-91fb-ec32-a9ea-ab999f0c28e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.State Property (Word)
+# MailMerge.State property (Word)
 
-Returns the current state of a mail merge operation. Read-only  **WdMailMergeState** .
+Returns the current state of a mail merge operation. Read-only  **WdMailMergeState**.
 
 
 ## Syntax
 
- _expression_. `State`
+_expression_. `State`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example
@@ -39,3 +40,4 @@ If myMerge.State = wdMainAndDataSource Then myMerge.Execute
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

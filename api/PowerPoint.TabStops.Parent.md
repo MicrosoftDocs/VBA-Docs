@@ -1,5 +1,5 @@
 ---
-title: TabStops.Parent Property (PowerPoint)
+title: TabStops.Parent property (PowerPoint)
 keywords: vbapp10.chm573002
 f1_keywords:
 - vbapp10.chm573002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TabStops.Parent
 ms.assetid: 5697b2b3-e2ad-343a-b52d-ab3b0bfd7ada
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Parent Property (PowerPoint)
+# TabStops.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [TabStops Object](PowerPoint.TabStops.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

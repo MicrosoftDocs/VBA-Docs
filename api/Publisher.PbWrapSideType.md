@@ -1,5 +1,5 @@
 ---
-title: PbWrapSideType Enumeration (Publisher)
+title: PbWrapSideType enumeration (Publisher)
 keywords: vbapb10.chm65596
 f1_keywords:
 - vbapb10.chm65596
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbWrapSideType
 ms.assetid: 8b6082e2-d650-310d-7cfe-e2351a93226f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbWrapSideType Enumeration (Publisher)
+# PbWrapSideType enumeration (Publisher)
 
 Indicates whether text should wrap around a shape. 
 
@@ -26,3 +27,4 @@ Indicates whether text should wrap around a shape.
 | **pbWrapSideNeither**|4|Does not wrap the shape on the sides|
 | **pbWrapSideRight**|2|Wrap the right side of the shape|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

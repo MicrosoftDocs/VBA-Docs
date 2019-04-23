@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 407bb9ec-fb45-414f-ad0b-8d06d5a250bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.MailSystem Method (Project)](http://msdn.microsoft.com/library/4ee9011c-f5f5-d0aa-0cd6-aa90130af4af%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: JournalItem.LastModificationTime Property (Outlook)
+title: JournalItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1244
 f1_keywords:
 - vbaol11.chm1244
@@ -8,24 +8,25 @@ api_name:
 - Outlook.JournalItem.LastModificationTime
 ms.assetid: 8819609b-3cfb-d5bb-9a5c-469e05715e67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.LastModificationTime Property (Outlook)
+# JournalItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

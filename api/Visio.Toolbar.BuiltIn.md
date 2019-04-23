@@ -1,5 +1,5 @@
 ---
-title: Toolbar.BuiltIn Property (Visio)
+title: Toolbar.BuiltIn property (Visio)
 keywords: vis_sdr.chm13713155
 f1_keywords:
 - vis_sdr.chm13713155
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.BuiltIn
 ms.assetid: fd1b2a6d-0de9-6892-37c7-0bd96e8e8458
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.BuiltIn Property (Visio)
+# Toolbar.BuiltIn property (Visio)
 
 Determines whether an object is a default Microsoft Visio user interface object or a custom object. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_. `BuiltIn`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -27,4 +28,4 @@ Determines whether an object is a default Microsoft Visio user interface object 
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

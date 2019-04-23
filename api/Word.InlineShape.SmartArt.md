@@ -1,5 +1,5 @@
 ---
-title: InlineShape.SmartArt Property (Word)
+title: InlineShape.SmartArt property (Word)
 keywords: vbawd10.chm162005148
 f1_keywords:
 - vbawd10.chm162005148
@@ -8,17 +8,18 @@ api_name:
 - Word.InlineShape.SmartArt
 ms.assetid: fbc47fec-04c4-108c-3280-0931f77b4cb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.SmartArt Property (Word)
+# InlineShape.SmartArt property (Word)
 
-Returns a [SmartArt](./Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified inline shape. Read-only.
+Returns a [SmartArt](Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified inline shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArt`
+_expression_. `SmartArt`
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
@@ -50,3 +51,4 @@ Set mySmartArt = myShape.SmartArt
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,18 +1,19 @@
 ---
-title: MsoBarPosition Enumeration (Office)
+title: MsoBarPosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBarPosition
 ms.assetid: 8a1c553c-54ee-8638-2c2e-85888428bebe
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoBarPosition Enumeration (Office)
+# MsoBarPosition enumeration (Office)
 
 Specifies the position or behavior of a command bar.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -24,3 +25,4 @@ Specifies the position or behavior of a command bar.
 |**msoBarRight**|2|Command bar is docked on the right side of the application window.|
 |**msoBarTop**|1|Command bar is docked at the top of the application window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

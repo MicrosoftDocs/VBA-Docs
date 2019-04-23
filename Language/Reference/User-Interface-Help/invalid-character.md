@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 298d47e8-bae0-6c60-12ce-87b5a0114fd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ The character can't be used in the current context. This error has the following
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

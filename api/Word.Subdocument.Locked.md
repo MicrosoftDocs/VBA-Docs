@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Locked Property (Word)
+title: Subdocument.Locked property (Word)
 keywords: vbawd10.chm159973377
 f1_keywords:
 - vbawd10.chm159973377
@@ -8,19 +8,20 @@ api_name:
 - Word.Subdocument.Locked
 ms.assetid: 787f1a05-48a5-1a37-2eb3-ff2a725e2edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocument.Locked Property (Word)
+# Subdocument.Locked property (Word)
 
  **True** if a subdocument in a master document is locked. Read/write **Boolean.**
 
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_.**Locked**
 
- _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
+_expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
 
 ## Example
@@ -40,3 +41,4 @@ End If
 
 [Subdocument Object](Word.Subdocument.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

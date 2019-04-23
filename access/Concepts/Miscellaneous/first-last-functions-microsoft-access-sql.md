@@ -7,6 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 8ea0d390-bb37-003b-fb6c-e15bf2a50718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,7 +37,7 @@ This example uses the Employees table to return the values from the LastName fie
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
 
-```sql
+```vb
 Sub FirstLastX1() 
  
     Dim dbs As Database, rst As Recordset 
@@ -67,7 +68,7 @@ End Sub
 
 The next example compares using the **First** and **Last** functions with simply using the **Min** and **Max** functions to find the earliest and latest birth dates of Employees.
 
-```sql
+```vb
 Sub FirstLastX2() 
  
     Dim dbs As Database, rst As Recordset 
@@ -126,3 +127,5 @@ End Sub
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

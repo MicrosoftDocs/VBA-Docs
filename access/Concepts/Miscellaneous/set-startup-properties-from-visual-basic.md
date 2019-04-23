@@ -7,6 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 73a639d8-38db-cee3-5e16-0d6e1fb54358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,10 +24,10 @@ When you set startup properties from Visual Basic, you should include error-hand
 The names of the startup properties differ from the text that appears in the **Startup** dialog box. The following table provides the name of each startup property as it is used in Visual Basic code.
 
 
-|**Text in Startup dialog box**|**Property name**|
+|Text in Startup dialog box|Property name|
 |:-----|:-----|
-|Application Title|**[AppTitle](../../../api/Access.AppTitle.md)**|
-|Application Icon|**[AppIcon](../../../api/Access.AppIcon.md)**|
+|Application Title|**[AppTitle](../../../api/Access.Application.AppTitle.md)**|
+|Application Icon|**[AppIcon](../../../api/Access.Application.AppIcon.md)**|
 |Display Form/Page|**StartupForm**|
 |Display Database Window|**StartupShowDBWindow**|
 |Display Status Bar|**StartupShowStatusBar**|
@@ -47,3 +48,5 @@ The names of the startup properties differ from the text that appears in the **S
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

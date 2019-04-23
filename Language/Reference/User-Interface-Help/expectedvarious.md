@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 05deb22f-01c5-ff47-9f02-b31217740b95
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -50,3 +51,4 @@ An expected part of the syntax was not found. The error is usually located to th
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bd870302-7f40-7476-f1df-ce2bc3e4d567
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Some commands and actions cause Visual Basic to stop analyzing code. This error 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

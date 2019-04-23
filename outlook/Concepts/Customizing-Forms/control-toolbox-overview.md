@@ -3,6 +3,7 @@ title: Control Toolbox Overview
 ms.prod: outlook
 ms.assetid: 0dac9ed6-d9d5-1c3b-cfd2-ce564e5dc6e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,4 +26,4 @@ You can customize the  **Control Toolbox** in many ways including the following:
 
  **Note**  When you add a control to a form by using the  **Control Toolbox**, the control is not bound to a field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.SharePointURL
 ms.assetid: a5b19612-c8e8-4952-e15c-a60da10f65d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListObject.SharePointURL property (Excel)
 
- Returns a **String** representing the URL of the SharePoint list for a given **[ListObject](Excel.ListObject.md)** object. Read-only **String** .
+ Returns a **String** representing the URL of the SharePoint list for a given **[ListObject](Excel.ListObject.md)** object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `SharePointURL`
+_expression_. `SharePointURL`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

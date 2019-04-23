@@ -8,6 +8,7 @@ api_name:
 - Excel.Validation.Value
 ms.assetid: 8c1e3946-ea57-4aa7-5f1d-be9e6a2c8f77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

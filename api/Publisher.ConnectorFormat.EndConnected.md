@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnected Property (Publisher)
+title: ConnectorFormat.EndConnected property (Publisher)
 keywords: vbapb10.chm3211523
 f1_keywords:
 - vbapb10.chm3211523
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.EndConnected
 ms.assetid: ace997de-5a11-6b52-ac87-e914adb4212d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnected Property (Publisher)
+# ConnectorFormat.EndConnected property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the end of the specified connector is connected to a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. **EndConnected**
+_expression_.**EndConnected**
 
  _expression_ A variable that represents an  **ConnectorFormat** object.
 
@@ -36,7 +37,7 @@ The  **EndConnected** property value can be one of the **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The end of the specified connector is not connected to a shape.|
 | **msoTriStateMixed**|Return value only; indicates a combination of  **msoTrue** and **msoFalse** in the specified shape range.|
@@ -75,4 +76,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

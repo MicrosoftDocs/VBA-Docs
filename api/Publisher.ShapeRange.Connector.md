@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Connector Property (Publisher)
+title: ShapeRange.Connector property (Publisher)
 keywords: vbapb10.chm2293813
 f1_keywords:
 - vbapb10.chm2293813
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Connector
 ms.assetid: ce05006f-38b0-c04e-4a0f-dded72dfbc10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Connector Property (Publisher)
+# ShapeRange.Connector property (Publisher)
 
 Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
 
 
 ## Syntax
 
- _expression_. **Connector**
+_expression_.**Connector**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -29,7 +30,7 @@ The  **Connector** property value can be one of the **MsoTriState** constants de
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape is not a connector.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -52,4 +53,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

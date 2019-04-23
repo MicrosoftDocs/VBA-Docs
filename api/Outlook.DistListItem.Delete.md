@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Delete Method (Outlook)
+title: DistListItem.Delete method (Outlook)
 keywords: vbaol11.chm1142
 f1_keywords:
 - vbaol11.chm1142
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.Delete
 ms.assetid: f266321f-0259-c9c5-81bd-38c745feb859
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.Delete Method (Outlook)
+# DistListItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

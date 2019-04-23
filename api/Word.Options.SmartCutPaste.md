@@ -1,5 +1,5 @@
 ---
-title: Options.SmartCutPaste Property (Word)
+title: Options.SmartCutPaste property (Word)
 keywords: vbawd10.chm162988103
 f1_keywords:
 - vbawd10.chm162988103
@@ -8,24 +8,25 @@ api_name:
 - Word.Options.SmartCutPaste
 ms.assetid: 57e481b6-f3c4-8da4-2580-4abbbf21a95e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.SmartCutPaste Property (Word)
+# Options.SmartCutPaste property (Word)
 
- **True** if Microsoft Word automatically adjusts the spacing between words and punctuation when cutting and pasting occurs. Read/write **Boolean** .
+ **True** if Microsoft Word automatically adjusts the spacing between words and punctuation when cutting and pasting occurs. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SmartCutPaste`
+_expression_. `SmartCutPaste`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
 
 ## Example
 
-This example sets Word to automatically adjust the spacing between words and punctuation when cutting and pasting occurs, and then it deletes and pastes some text in a newly created document. If the  **SmartCutPaste** property were set to **False** , the second and third words would run together.
+This example sets Word to automatically adjust the spacing between words and punctuation when cutting and pasting occurs, and then it deletes and pastes some text in a newly created document. If the  **SmartCutPaste** property were set to **False**, the second and third words would run together.
 
 
 ```vb
@@ -53,3 +54,4 @@ temp = Options.SmartCutPaste
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

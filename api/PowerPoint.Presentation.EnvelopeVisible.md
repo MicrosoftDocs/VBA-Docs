@@ -1,5 +1,5 @@
 ---
-title: Presentation.EnvelopeVisible Property (PowerPoint)
+title: Presentation.EnvelopeVisible property (PowerPoint)
 keywords: vbapp10.chm583057
 f1_keywords:
 - vbapp10.chm583057
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.EnvelopeVisible
 ms.assetid: e2a58d05-df9b-0fc6-a1d4-3349b7efa111
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.EnvelopeVisible Property (PowerPoint)
+# Presentation.EnvelopeVisible property (PowerPoint)
 
-Determines whether the e-mail message header is visible in the document window. Read/write.
+Determines whether the email message header is visible in the document window. Read/write.
 
 
 ## Syntax
 
- _expression_. `EnvelopeVisible`
+_expression_. `EnvelopeVisible`
 
  _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -34,14 +35,14 @@ The value of the  **EnvelopeVisible** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
-|**msoFalse**| The e-mail message header is not visible in the document window. The default.|
-|**msoTrue**| The e-mail message header is visible in the document window.|
+|**msoFalse**| The email message header is not visible in the document window. The default.|
+|**msoTrue**| The email message header is visible in the document window.|
 
 ## Example
 
-This example displays the e-mail message header.
+This example displays the email message header.
 
 
 ```vb
@@ -54,3 +55,4 @@ ActivePresentation.EnvelopeVisible = msoTrue
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

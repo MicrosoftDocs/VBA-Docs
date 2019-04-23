@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (Publisher)
+title: Application.ProductCode property (Publisher)
 keywords: vbapb10.chm131105
 f1_keywords:
 - vbapb10.chm131105
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.ProductCode
 ms.assetid: aacd5ff6-dad1-af86-f4e0-af9012ae93f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProductCode Property (Publisher)
+# Application.ProductCode property (Publisher)
 
 Returns a  **String** indicating the Microsoft Publisher globally unique identifier (GUID). Read-only.
 
 
 ## Syntax
 
- _expression_. **ProductCode**
+_expression_.**ProductCode**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -44,3 +45,4 @@ MsgBox "The product code for Microsoft Publisher is " _
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

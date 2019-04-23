@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Binom_Dist Method (Excel)
+title: WorksheetFunction.Binom_Dist method (Excel)
 keywords: vbaxl10.chm137414
 f1_keywords:
 - vbaxl10.chm137414
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Binom_Dist
 ms.assetid: acd56b17-5304-0095-2696-11797df056ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Binom_Dist Method (Excel)
+# WorksheetFunction.Binom_Dist method (Excel)
 
 Returns the individual term binomial distribution probability.
 
 
 ## Syntax
 
- _expression_. `Binom_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Binom_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -32,7 +33,7 @@ Returns the individual term binomial distribution probability.
 | _Arg1_|Required| **Double**|Number_s - the number of successes in trials.|
 | _Arg2_|Required| **Double**|Trials - the number of independent trials.|
 | _Arg3_|Required| **Double**|Probability_s - the probability of success on each trial.|
-| _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is  **True** , then the **Binom_Dist** method returns the cumulative distribution function, which is the probability that there are at most number_s successes; if **False** , it returns the probability mass function, which is the probability that there are number_s successes.|
+| _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is  **True**, then the **Binom_Dist** method returns the cumulative distribution function, which is the probability that there are at most number_s successes; if **False**, it returns the probability mass function, which is the probability that there are number_s successes.|
 
 ## Return value
 
@@ -65,3 +66,4 @@ Use the  **Binom_Dist** method in problems with a fixed number of tests or trial
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

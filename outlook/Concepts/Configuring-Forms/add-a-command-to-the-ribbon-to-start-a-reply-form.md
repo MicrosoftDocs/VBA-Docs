@@ -3,6 +3,7 @@ title: Add a Command to the Ribbon to Start a Reply Form
 ms.prod: outlook
 ms.assetid: fedf64ec-6c4f-bc89-b144-f5105851c8fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Use this procedure to customize a Microsoft Outlook form page. To customize a fo
     
      **Note**  The  **Menu and Toolbar** and **Menu only** options apply only to forms displayed in versions of Outlook earlier than Microsoft Office Outlook 2007.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

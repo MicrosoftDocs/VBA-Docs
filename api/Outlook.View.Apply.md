@@ -1,5 +1,5 @@
 ---
-title: View.Apply Method (Outlook)
+title: View.Apply method (Outlook)
 keywords: vbaol11.chm2484
 f1_keywords:
 - vbaol11.chm2484
@@ -8,24 +8,25 @@ api_name:
 - Outlook.View.Apply
 ms.assetid: b121d1ce-24b7-4ace-8369-42e5c7becd0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Apply Method (Outlook)
+# View.Apply method (Outlook)
 
 Applies the view to the Microsoft Outlook user interface.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks
 
-To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **View.Apply** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **View.Apply**. The code sample below illustrates the order of the calls:
 
 
 ```vb
@@ -86,3 +87,4 @@ End Sub
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Module.Type
 ms.assetid: df30b007-5ce9-9de2-1013-747c47917288
-ms.date: 06/08/2017
+ms.date: 03/22/2019
+localization_priority: Normal
 ---
 
 
 # Module.Type property (Access)
 
-Indicates whether a module is a standard module or a class module. Read-only  **[AcModuleType](Access.AcModuleType.md)**.
+Indicates whether a module is a standard module or a class module. Read-only **[AcModuleType](Access.AcModuleType.md)**.
 
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
-_expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Example
 
-The following example determines whether a  **Module** object represents a standard module or a class module:
-
+The following example determines whether a **Module** object represents a standard module or a class module.
 
 ```vb
 Function CheckModuleType(strModuleName As String) As Integer 
@@ -50,8 +50,6 @@ End Function
 ```
 
 
-## See also
 
 
-[Module Object](Access.Module.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

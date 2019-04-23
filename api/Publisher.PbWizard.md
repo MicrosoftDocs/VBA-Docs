@@ -1,5 +1,5 @@
 ---
-title: PbWizard Enumeration (Publisher)
+title: PbWizard enumeration (Publisher)
 keywords: vbapb10.chm65601
 f1_keywords:
 - vbapb10.chm65601
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbWizard
 ms.assetid: 1fd5b0cb-5ee5-e113-0c3b-964ff741ef2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbWizard Enumeration (Publisher)
+# PbWizard enumeration (Publisher)
 
 The wizard to use to create the new publication.
 
@@ -28,13 +29,13 @@ The wizard to use to create the new publication.
 | **pbWizardCalendars**|13|Creates calendars|
 | **pbWizardCatalogs**|161|Creates catalogs|
 | **pbWizardCertificates**|62|Creates certificates|
-| **pbWizardEmailActivityEvent**|302|Creates e-mail activity events|
-| **pbWizardEmailAutomatic**|305|Creates e-mail messages automatically|
-| **pbWizardEmailFeaturedProduct**|304|Creates e-mail messages for featured products|
-| **pbWizardEmailLetter**|300|Creates e-mail letters|
-| **pbWizardEmailNewsletter**|39|Creates e-mail newsletters|
-| **pbWizardEmailProductList**|303|Creates e-mail product lists|
-| **pbWizardEmailSpeakerEvent**|301|Creates e-mail speaker event|
+| **pbWizardEmailActivityEvent**|302|Creates email activity events|
+| **pbWizardEmailAutomatic**|305|Creates email messages automatically|
+| **pbWizardEmailFeaturedProduct**|304|Creates email messages for featured products|
+| **pbWizardEmailLetter**|300|Creates email letters|
+| **pbWizardEmailNewsletter**|39|Creates email newsletters|
+| **pbWizardEmailProductList**|303|Creates email product lists|
+| **pbWizardEmailSpeakerEvent**|301|Creates email speaker event|
 | **pbWizardEnvelopes**|7|Creates envelopes|
 | **pbWizardFlyers**|16|Creates flyers|
 | **pbWizardGiftCertificates**|63|Creates gift certificates|
@@ -82,3 +83,4 @@ The wizard to use to create the new publication.
 | **pbWizardWithComplimentsCards**|73|Creates with compliments cards|
 | **pbWizardWordDocument**|189|Creates a Microsoft Office Word document|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: e7eabc36-c1d9-af61-d13a-3d4ac7a01658
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -71,4 +72,4 @@ Sub ShadeAllFirstRowsInTables()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Word)
+title: Application.ScreenUpdating property (Word)
 keywords: vbawd10.chm158335002
 f1_keywords:
 - vbawd10.chm158335002
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ScreenUpdating
 ms.assetid: 660284d1-2b00-eba0-28bc-36bc6400fcf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ScreenUpdating Property (Word)
+# Application.ScreenUpdating property (Word)
 
- **True** if screen updating is turned on. Read/write **Boolean** .
+ **True** if screen updating is turned on. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ScreenUpdating`
+_expression_. `ScreenUpdating`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -55,3 +56,4 @@ Application.ScreenUpdating = True
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

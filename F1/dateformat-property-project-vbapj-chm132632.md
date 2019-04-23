@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4b23976c-ca4e-4d10-86c6-56b3007cff53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.SpreadCostsToStatusDate Property (Project)](http://msdn.microsoft.com/library/e8e42269-3cba-46bd-d600-ea66b7b762c6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

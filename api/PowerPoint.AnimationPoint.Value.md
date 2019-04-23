@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint.Value Property (PowerPoint)
+title: AnimationPoint.Value property (PowerPoint)
 keywords: vbapp10.chm664005
 f1_keywords:
 - vbapp10.chm664005
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationPoint.Value
 ms.assetid: f16879c0-25cc-46fa-cfd3-7a6a770be371
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationPoint.Value Property (PowerPoint)
+# AnimationPoint.Value property (PowerPoint)
 
 Sets or returns the value of a property for an animation point. Read/write.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents an [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
+_expression_ A variable that represents an [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
 
 
 ## Return value
@@ -72,3 +73,4 @@ End Sub
 
 [AnimationPoint Object](PowerPoint.AnimationPoint.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

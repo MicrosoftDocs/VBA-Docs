@@ -1,5 +1,5 @@
 ---
-title: NoteItem.Delete Method (Outlook)
+title: NoteItem.Delete method (Outlook)
 keywords: vbaol11.chm1494
 f1_keywords:
 - vbaol11.chm1494
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NoteItem.Delete
 ms.assetid: 8af18879-a4e7-1ccf-bbc3-5140f506add1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NoteItem.Delete Method (Outlook)
+# NoteItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

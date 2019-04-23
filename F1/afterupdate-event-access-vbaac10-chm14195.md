@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3adb94df-2661-4e5e-88f3-6c61aead1d0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.AfterUpdate event (Access)](http://msdn.microsoft.com/library/ae34fff1-4521-4ec3-707a-f1f2c49f7946%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

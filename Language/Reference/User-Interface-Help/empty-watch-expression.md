@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0baf39b2-79ea-bbdb-4640-912fabdcfcd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ The  **Add Watch** dialog box requires entry of an [expression](../../Glossary/v
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

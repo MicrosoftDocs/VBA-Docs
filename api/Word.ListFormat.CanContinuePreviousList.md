@@ -1,5 +1,5 @@
 ---
-title: ListFormat.CanContinuePreviousList Method (Word)
+title: ListFormat.CanContinuePreviousList method (Word)
 keywords: vbawd10.chm163578040
 f1_keywords:
 - vbawd10.chm163578040
@@ -8,19 +8,20 @@ api_name:
 - Word.ListFormat.CanContinuePreviousList
 ms.assetid: 5c9a91e4-999e-d976-126d-673831f2ecaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.CanContinuePreviousList Method (Word)
+# ListFormat.CanContinuePreviousList method (Word)
 
-Returns a  **WdContinue** constant (**wdContinueDisabled** , **wdResetList** , or **wdContinueList**) that indicates whether the formatting from the previous list can be continued.
+Returns a  **WdContinue** constant (**wdContinueDisabled**, **wdResetList**, or **wdContinueList**) that indicates whether the formatting from the previous list can be continued.
 
 
 ## Syntax
 
- _expression_. `CanContinuePreviousList`( `_ListTemplate_` )
+_expression_. `CanContinuePreviousList`( `_ListTemplate_` )
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ End If
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

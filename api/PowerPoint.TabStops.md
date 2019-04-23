@@ -1,5 +1,5 @@
 ---
-title: TabStops Object (PowerPoint)
+title: TabStops object (PowerPoint)
 keywords: vbapp10.chm573000
 f1_keywords:
 - vbapp10.chm573000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TabStops
 ms.assetid: e23b36de-6a4d-84e5-bec1-8c3e0fd80c13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops Object (PowerPoint)
+# TabStops object (PowerPoint)
 
 A collection of all the  **[TabStop](PowerPoint.TabStop.md)** objects on one ruler.
 
@@ -46,3 +47,4 @@ ActivePresentation.SlideMaster _
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

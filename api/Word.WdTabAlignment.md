@@ -1,14 +1,15 @@
 ---
-title: WdTabAlignment Enumeration (Word)
+title: WdTabAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTabAlignment
 ms.assetid: 4fa9480e-6383-5326-c8b5-f49740392037
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTabAlignment Enumeration (Word)
+# WdTabAlignment enumeration (Word)
 
 Specifies the tab stop alignment to apply.
 
@@ -23,3 +24,4 @@ Specifies the tab stop alignment to apply.
 | **wdAlignTabList**|6|List-aligned.|
 | **wdAlignTabRight**|2|Right-aligned.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

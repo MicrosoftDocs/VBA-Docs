@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.FormulaR1C1Local
 ms.assetid: f2c9b73a-c1c0-65e1-eb9f-86e0b2838019
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 ## Syntax
 
- _expression_. `FormulaR1C1Local`
+_expression_.**FormulaR1C1Local**
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ String
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

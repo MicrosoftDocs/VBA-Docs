@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f43d3fc3-fbd6-ee48-46c4-6049555d9dc2
 ms.date: 09/17/2018
+localization_priority: Priority
 ---
 
 
@@ -15,7 +16,7 @@ The [keyword](../Glossary/vbe-glossary.md#keyword) you selected can't be found i
 
 The keyword you want help on may be contained within an [object library](../Glossary/vbe-glossary.md#object-library) that is not referenced. Make sure references are set to the appropriate object libraries for all objects used in your code.
 
-The easiest way to get help on a specific keyword is to position the insertion point anywhere within the keyword and press F1. You don't have to select the keyword. In fact, if you select only a portion of the keyword, or more than a single word, Help won't find what you're looking for.
+The easiest way to get help on a specific keyword is to position the insertion point anywhere within the keyword and press F1. You don't have to select the keyword. In fact, if you select only a portion of the keyword, or more than a single word, Help won't find what you are looking for.
 
 The **Value** property topic is displayed when you press F1 with the insertion point between the "a" and the "l" in the **Value** keyword as shown in the following example.
 
@@ -25,7 +26,6 @@ Worksheets(1).Range ("A2").value=3.14159
 
 ```
 
-To use the built-in Help  **Search**, select **Microsoft Visual Basic Help** on the **Help** menu.
+To use the built-in Help **Search**, select **Microsoft Visual Basic Help** on the **Help** menu.
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

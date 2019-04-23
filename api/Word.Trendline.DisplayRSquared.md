@@ -1,5 +1,5 @@
 ---
-title: Trendline.DisplayRSquared Property (Word)
+title: Trendline.DisplayRSquared property (Word)
 keywords: vbawd10.chm26345661
 f1_keywords:
 - vbawd10.chm26345661
@@ -8,17 +8,18 @@ api_name:
 - Word.Trendline.DisplayRSquared
 ms.assetid: 10f55d97-f9f2-953a-427b-b158abe268d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendline.DisplayRSquared Property (Word)
+# Trendline.DisplayRSquared property (Word)
 
- **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Read/write **Boolean** .
+ **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayRSquared`
+_expression_. `DisplayRSquared`
 
  _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' object.
 
@@ -30,7 +31,7 @@ Setting this property to  **True** automatically turns on data labels.
 
 ## Example
 
-The following example displays the R-squared value and equation for trendline one of the first chart in the active document. You should run the example on a 2-D column chart that has a trendline for the first series.
+The following example displays the R-squared value and equation for trendline one of the first chart in the active document. You should run the example on a 2D column chart that has a trendline for the first series.
 
 
 ```vb
@@ -51,3 +52,4 @@ End With
 
 [Trendline Object](Word.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

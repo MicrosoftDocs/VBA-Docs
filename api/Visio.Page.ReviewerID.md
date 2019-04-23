@@ -1,5 +1,5 @@
 ---
-title: Page.ReviewerID Property (Visio)
+title: Page.ReviewerID property (Visio)
 keywords: vis_sdr.chm10951670
 f1_keywords:
 - vis_sdr.chm10951670
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.ReviewerID
 ms.assetid: f3de7746-f1f7-4a94-6fcb-e3c2775ed748
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.ReviewerID Property (Visio)
+# Page.ReviewerID property (Visio)
 
 Gets the reviewer ID associated with the markup overlay. Read-only.
 
 
 ## Syntax
 
- _expression_. `ReviewerID`
+_expression_. `ReviewerID`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -73,4 +74,4 @@ Public Sub ReviewerID_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

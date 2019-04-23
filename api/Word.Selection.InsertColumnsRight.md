@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertColumnsRight Method (Word)
+title: Selection.InsertColumnsRight method (Word)
 keywords: vbawd10.chm158663194
 f1_keywords:
 - vbawd10.chm158663194
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertColumnsRight
 ms.assetid: 0367ae17-d5f0-90f6-7834-4856ff7a1530
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertColumnsRight Method (Word)
+# Selection.InsertColumnsRight method (Word)
 
 Inserts columns to the right of the current selection.
 
 
 ## Syntax
 
- _expression_. `InsertColumnsRight`
+_expression_. `InsertColumnsRight`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Selection.InsertColumnsRight
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

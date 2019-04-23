@@ -1,5 +1,5 @@
 ---
-title: VPageBreaks.Add Method (Excel)
+title: VPageBreaks.Add method (Excel)
 keywords: vbaxl10.chm168076
 f1_keywords:
 - vbaxl10.chm168076
@@ -8,19 +8,20 @@ api_name:
 - Excel.VPageBreaks.Add
 ms.assetid: 3196719d-c423-675b-6465-8ac0e9a1c302
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VPageBreaks.Add Method (Excel)
+# VPageBreaks.Add method (Excel)
 
 Adds a vertical page break.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Before_` )
+_expression_.**Add**( `_Before_` )
 
- _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) object.
+_expression_ A variable that represents a [VPageBreaks](Excel.VPageBreaks.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ End With
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

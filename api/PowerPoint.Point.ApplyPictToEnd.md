@@ -1,21 +1,22 @@
 ---
-title: Point.ApplyPictToEnd Property (PowerPoint)
+title: Point.ApplyPictToEnd property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ApplyPictToEnd
 ms.assetid: 5b1a3168-9a77-55e0-9d9c-edd66fd338d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.ApplyPictToEnd Property (PowerPoint)
+# Point.ApplyPictToEnd property (PowerPoint)
 
  **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToEnd`
+_expression_. `ApplyPictToEnd`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
@@ -50,3 +51,4 @@ End With
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

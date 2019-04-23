@@ -3,6 +3,7 @@ title: Custom Fields and Data Types Overview
 ms.prod: outlook
 ms.assetid: a85a7bc2-2b85-1782-04a3-0104e0df32aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,3 +40,4 @@ You can create and view custom fields in table views and card views. You can cre
 
 Each of the data types except  **Combination**,  **Formula**, and  **Keywords** has a series of standard formats that you can use to show the values of the fields.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

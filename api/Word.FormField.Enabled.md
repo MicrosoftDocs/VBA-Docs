@@ -1,5 +1,5 @@
 ---
-title: FormField.Enabled Property (Word)
+title: FormField.Enabled property (Word)
 keywords: vbawd10.chm153616393
 f1_keywords:
 - vbawd10.chm153616393
@@ -8,17 +8,18 @@ api_name:
 - Word.FormField.Enabled
 ms.assetid: 1002dfdd-387e-9c44-27aa-c855e78784bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormField.Enabled Property (Word)
+# FormField.Enabled property (Word)
 
- **True** if a form field is enabled. Read/write **Boolean** .
+ **True** if a form field is enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_.**Enabled**
 
  _expression_ An expression that represents a '[FormField](Word.FormField.md)' object.
 
@@ -49,3 +50,4 @@ End If
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

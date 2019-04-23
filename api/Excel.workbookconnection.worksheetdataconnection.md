@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 22fc991e-8b93-5a32-1063-3ed4b690bfea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns an object that contains information for a connection from the PowerPivot
 
 ## Syntax
 
- _expression_. `WorksheetDataConnection`
+_expression_. `WorksheetDataConnection`
 
- _expression_ A variable that represents a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ Returns an object that contains information for a connection from the PowerPivot
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

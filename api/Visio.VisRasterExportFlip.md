@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportFlip Enumeration (Visio)
+title: VisRasterExportFlip enumeration (Visio)
 keywords: vis_sdr.chm70745
 f1_keywords:
 - vis_sdr.chm70745
@@ -8,10 +8,11 @@ api_name:
 - Visio.VisRasterExportFlip
 ms.assetid: b79b3a0e-327b-a06f-25d0-4a530471530c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisRasterExportFlip Enumeration (Visio)
+# VisRasterExportFlip enumeration (Visio)
 
 
 
@@ -24,3 +25,4 @@ Specifies constants that define how to apply the raster export flip; passed to a
 | **visRasterFlipHorizontal**|1|Flip horizontally.|
 | **visRasterFlipVertical**|2|Flip vertically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

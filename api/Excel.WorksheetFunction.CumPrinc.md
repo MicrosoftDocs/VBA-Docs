@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CumPrinc Method (Excel)
+title: WorksheetFunction.CumPrinc method (Excel)
 keywords: vbaxl10.chm137323
 f1_keywords:
 - vbaxl10.chm137323
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CumPrinc
 ms.assetid: 6e561b97-97e2-11d8-0240-86fe374044ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CumPrinc Method (Excel)
+# WorksheetFunction.CumPrinc method (Excel)
 
 Returns the cumulative principal paid on a loan between start_period and end_period.
 
 
 ## Syntax
 
- _expression_. `CumPrinc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `CumPrinc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ The following tables lists values used in  _Arg6_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

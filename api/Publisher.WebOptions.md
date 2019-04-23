@@ -1,5 +1,5 @@
 ---
-title: WebOptions Object (Publisher)
+title: WebOptions object (Publisher)
 keywords: vbapb10.chm8323071
 f1_keywords:
 - vbapb10.chm8323071
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebOptions
 ms.assetid: 15358c46-f7ca-bc37-d7ef-7d4dbfee09a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions Object (Publisher)
+# WebOptions object (Publisher)
 
 Represents the properties of a Web publication, including options for saving and encoding the publication, and enabling Web-safe fonts and font schemes. The  **WebOptions** object is a member of the **[Application](Publisher.Application.md)** object.
  
@@ -46,7 +47,7 @@ Set theWO = Application.WebOptions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlwaysSaveInDefaultEncoding](Publisher.WebOptions.AlwaysSaveInDefaultEncoding.md)|
 |[Application](Publisher.WebOptions.Application.md)|
@@ -58,3 +59,4 @@ Set theWO = Application.WebOptions
 |[RelyOnVML](Publisher.WebOptions.RelyOnVML.md)|
 |[ShowOnlyWebFonts](Publisher.WebOptions.ShowOnlyWebFonts.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

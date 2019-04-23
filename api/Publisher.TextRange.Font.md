@@ -1,5 +1,5 @@
 ---
-title: TextRange.Font Property (Publisher)
+title: TextRange.Font property (Publisher)
 keywords: vbapb10.chm5308419
 f1_keywords:
 - vbapb10.chm5308419
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Font
 ms.assetid: c5795f33-4e7b-f765-9ba8-f5b6706561d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Font Property (Publisher)
+# TextRange.Font property (Publisher)
 
 Sets or returns a  **[Font](Publisher.Font.md)** object that represents character formatting attributes applied to the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Font**
+_expression_.**Font**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -38,4 +39,4 @@ Sub test2()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

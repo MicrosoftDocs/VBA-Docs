@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.CommandButton.PressedForeThemeColorIndex
 ms.assetid: 32ad73cd-3960-1516-c45d-175c7d642847
-ms.date: 06/08/2017
+ms.date: 03/05/2019
+localization_priority: Normal
 ---
 
 
 # CommandButton.PressedForeThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **PressedForeColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **PressedForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `PressedForeThemeColorIndex`
+_expression_.**PressedForeThemeColorIndex**
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks
 
-The  **PressedForeThemeColorIndex** uses one of the values listed in the following table.
+The **PressedForeThemeColorIndex** uses one of the values listed in the following table.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1 |Background 1|
@@ -44,13 +43,11 @@ The  **PressedForeThemeColorIndex** uses one of the values listed in the followi
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **PressedForeThemeColorIndex** property contains -1.
+If no theme is applied, the **PressedForeThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
 
 
-[CommandButton Object](Access.CommandButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

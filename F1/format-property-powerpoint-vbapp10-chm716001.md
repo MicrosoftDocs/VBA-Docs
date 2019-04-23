@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 24788ba3-3fb0-4128-980b-05afe927a3a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.Format Property (PowerPoint)](http://msdn.microsoft.com/library/2c1e7a2e-6f2e-7b18-c29b-cec3ba61f563%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

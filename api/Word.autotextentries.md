@@ -1,12 +1,13 @@
 ---
-title: AutoTextEntries Object (Word)
+title: AutoTextEntries object (Word)
 ms.prod: word
 ms.assetid: 4e4d92b3-d259-84b7-061f-82065e177c29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoTextEntries Object (Word)
+# AutoTextEntries object (Word)
 
 A collection of  **[AutoCorrectEntry](Word.AutoCorrectEntry.md)** objects that represent the AutoText entries in a template. The **AutoTextEntries** collection includes all the entries listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 
@@ -57,6 +58,6 @@ MsgBox "Name = " & myTemplate.AutoTextEntries(1).Name & vbCr _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

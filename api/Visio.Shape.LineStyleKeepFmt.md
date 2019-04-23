@@ -1,5 +1,5 @@
 ---
-title: Shape.LineStyleKeepFmt Property (Visio)
+title: Shape.LineStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11213850
 f1_keywords:
 - vis_sdr.chm11213850
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.LineStyleKeepFmt
 ms.assetid: 4dd4ee1e-5201-1602-39f1-bcda85f96bd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LineStyleKeepFmt Property (Visio)
+# Shape.LineStyleKeepFmt property (Visio)
 
 Applies a line style to an object while preserving local formatting. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineStyleKeepFmt`
+_expression_. `LineStyleKeepFmt`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -34,4 +35,4 @@ Setting a style to a nonexistent style generates an error. Setting one kind of s
 
 Beginning with Microsoft Visio 2002, setting  **LineStyleKeepFmt** to a zero-length string ("") will cause the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

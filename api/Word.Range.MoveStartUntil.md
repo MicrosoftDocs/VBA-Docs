@@ -1,5 +1,5 @@
 ---
-title: Range.MoveStartUntil Method (Word)
+title: Range.MoveStartUntil method (Word)
 keywords: vbawd10.chm157155444
 f1_keywords:
 - vbawd10.chm157155444
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.MoveStartUntil
 ms.assetid: 2506e3ec-593c-27ba-69b0-230351094f64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.MoveStartUntil Method (Word)
+# Range.MoveStartUntil method (Word)
 
 Moves the start position of the specified range until one of the specified characters is found in the document.
 
 
 ## Syntax
 
- _expression_. `MoveStartUntil`( `_Cset_` , `_Count_` )
+_expression_. `MoveStartUntil`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the start position of the specified range until one of the specified chara
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document. If it is a negative number, the range is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document. If it is a negative number, the range is moved backward. The default value is **wdForward**.|
 
 ## Remarks
 
@@ -57,3 +58,4 @@ myRange.MoveStartUntil Cset:="$", Count:=leng
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

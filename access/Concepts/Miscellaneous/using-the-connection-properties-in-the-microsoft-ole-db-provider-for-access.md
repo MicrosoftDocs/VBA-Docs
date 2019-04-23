@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7bf8c7d0-9185-d7b2-505a-6ddc449089b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,3 +40,5 @@ Jet OLEDB:Recycle Long-Valued Pages
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

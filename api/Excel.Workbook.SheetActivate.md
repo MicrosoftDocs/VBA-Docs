@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetActivate Event (Excel)
+title: Workbook.SheetActivate event (Excel)
 keywords: vbaxl10.chm503088
 f1_keywords:
 - vbaxl10.chm503088
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetActivate
 ms.assetid: 2a7c05c3-5b66-8012-5ac5-981dcfc7f947
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetActivate Event (Excel)
+# Workbook.SheetActivate event (Excel)
 
 Occurs when any sheet is activated.
 
 
 ## Syntax
 
- _expression_. `SheetActivate`( `_Sh_` )
+_expression_. `SheetActivate`( `_Sh_` )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

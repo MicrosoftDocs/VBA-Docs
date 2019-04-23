@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 32bd624c-2bc2-7f73-378b-a337579cde6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The specified file is currently being used by another user or session. Wait for 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

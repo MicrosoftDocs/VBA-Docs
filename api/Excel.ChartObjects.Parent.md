@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.ChartObjects.Parent
 ms.assetid: 4c5453db-8e90-1ae0-2fb2-990c1d336f20
-ms.date: 06/08/2017
+ms.date: 04/20/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 
 
-[ChartObjects Object](Excel.ChartObjects.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

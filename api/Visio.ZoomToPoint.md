@@ -5,19 +5,20 @@ api_name:
 - Visio.ZoomToPoint
 ms.assetid: 3eb5c8f9-ced0-a35b-172a-337f25a68d98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Viewer.ZoomToPoint Method (Visio Viewer)
 
-Resizes the drawing that is open in Microsoft Visio Viewer to the specified percentage of its previous size, and places the upper left corner of the drawing at the specified point in the Visio Viewer window, measured in pixels in the coordinate system of the window. 
+Resizes the drawing that is open in Microsoft Visio Viewer to the specified percentage of its previous size, and places the upper-left corner of the drawing at the specified point in the Visio Viewer window, measured in pixels in the coordinate system of the window. 
 
 
 ## Syntax
 
- _expression_. **ZoomToPoint**(**_X_**,  **_Y_**,  **_Percentage_**)
+_expression_.**ZoomToPoint**(**_X_**,  **_Y_**,  **_Percentage_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -26,8 +27,8 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|X|Required| **Long**|The x-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper left corner of the drawing.|
-|Y|Required| **Long**|The y-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper left corner of the drawing.|
+|X|Required| **Long**|The x-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper-left corner of the drawing.|
+|Y|Required| **Long**|The y-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper-left corner of the drawing.|
 |Percentage|Required| **Double**|The percentage of zoom.|
 
 ## Return value
@@ -44,11 +45,11 @@ The origin of the coordinate system of the Visio Viewer window is its upper left
 
 ## Example
 
-The following code displays the drawing at half its previous size, and places the upper left corner of the drawing at a point 200 pixels to the right and 200 pixels below the upper left corner of the Visio Viewer window.
+The following code displays the drawing at half its previous size, and places the upper-left corner of the drawing at a point 200 pixels to the right and 200 pixels below the upper-left corner of the Visio Viewer window.
 
 
 ```vb
 vsoViewer.ZoomToPoint 200, 200, 0.5
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

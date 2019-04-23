@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.MouseDown Event (Outlook)
+title: OlkTimeZoneControl.MouseDown event (Outlook)
 keywords: vbaol11.chm1000518
 f1_keywords:
 - vbaol11.chm1000518
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTimeZoneControl.MouseDown
 ms.assetid: 5c544113-46ef-ddb0-0926-ec0c089465c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.MouseDown Event (Outlook)
+# OlkTimeZoneControl.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Envelope.UpdateDocument Method (Word)
+title: Envelope.UpdateDocument method (Word)
 keywords: vbawd10.chm152567911
 f1_keywords:
 - vbawd10.chm152567911
@@ -8,19 +8,20 @@ api_name:
 - Word.Envelope.UpdateDocument
 ms.assetid: 6cca6549-58be-0b83-d52a-05fdccce0030
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.UpdateDocument Method (Word)
+# Envelope.UpdateDocument method (Word)
 
 Updates the envelope in the document with the current envelope settings.
 
 
 ## Syntax
 
- _expression_. `UpdateDocument`
+_expression_. `UpdateDocument`
 
- _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks
@@ -54,7 +55,7 @@ errhandler:
 End Sub
 ```
 
-This example adds an envelope to the active document, using predefined addresses. The default envelope bar code and Facing Identification Mark (FIM-A) settings are set to  **True** , and the envelope in the active document is updated.
+This example adds an envelope to the active document, using predefined addresses. The default envelope bar code and Facing Identification Mark (FIM-A) settings are set to  **True**, and the envelope in the active document is updated.
 
 
 
@@ -82,3 +83,4 @@ End With
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

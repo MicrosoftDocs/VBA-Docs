@@ -5,6 +5,7 @@ api_name:
 - Visio.Load
 ms.assetid: 8d33e759-793c-2e3c-3731-131fd51b415a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Loads a drawing file into Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **Load**(**_UrlOrFilename_**)
+_expression_.**Load**(**_UrlOrFilename_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -51,4 +52,4 @@ The following code loads a drawing named "Shapes.vsd" from the local drive into 
 vsoViewer.Load "C:\Users\User\Shapes.vsd"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

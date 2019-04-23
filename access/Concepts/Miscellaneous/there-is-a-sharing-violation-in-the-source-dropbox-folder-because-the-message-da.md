@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 0512447b-175e-c881-f824-b3784424fb2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Close the message database. Users must not open the message database directly.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

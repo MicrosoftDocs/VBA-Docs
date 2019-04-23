@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2e010e22-e66e-4341-83d4-f5904e8b7afa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ClearToMatchStyle Method (PowerPoint)](http://msdn.microsoft.com/library/fa85b905-6415-3ce9-4517-0a8dcedfbf14%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,26 +8,27 @@ api_name:
 - Excel.SpellingOptions.HebrewModes
 ms.assetid: b8ecfa29-7ec4-180b-fb37-6876ab6c0cc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SpellingOptions.HebrewModes property (Excel)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](Excel.XlHebrewModes.md)** .
+Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](Excel.XlHebrewModes.md)**.
 
 
 ## Syntax
 
- _expression_. `HebrewModes`
+_expression_. `HebrewModes`
 
- _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
 
 
 ## Remarks
 
 
 
-| **XlHebrewModes** can be one of these **XlHebrewModes** constants.|
+| **xlHebrewModes** can be one of these **xlHebrewModes** constants.|
 | **xlHebrewFullScript** (default) The conventional script type as required by the Hebrew Language Academy when writing non-diacritisized text.|
 | **xlHebrewMixedAuthorizedScript** The Hebrew traditional script.|
 | **xlHebrewMixedScript** In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any non-conventional spelling variation what is known to the speller.|
@@ -65,3 +66,4 @@ End Sub
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

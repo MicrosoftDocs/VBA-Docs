@@ -3,6 +3,7 @@ title: Invalid .inf file. (Error 3168)
 ms.prod: access
 ms.assetid: cd85694f-3b68-fe4b-5c49-048ceb91c677
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to access a dBASE table, but its associated .inf file is invalid or ha
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

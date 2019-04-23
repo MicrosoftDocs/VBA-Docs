@@ -5,6 +5,7 @@ api_name:
 - Visio.ParentShape
 ms.assetid: ee6dc52a-86c7-6a8c-c40e-aaad6a1100a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the index number of the parent shape of the specified shape in the drawing 
 
 ## Syntax
 
- _expression_. **ParentShape**(**_ShapeIndex_**)
+_expression_.**ParentShape**(**_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -49,4 +50,4 @@ The following code shows how to get the parent of the first shape on the current
 Debug.Print vsoViewer.ParentShape(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

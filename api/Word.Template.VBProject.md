@@ -1,5 +1,5 @@
 ---
-title: Template.VBProject Property (Word)
+title: Template.VBProject property (Word)
 keywords: vbawd10.chm157941859
 f1_keywords:
 - vbawd10.chm157941859
@@ -8,19 +8,20 @@ api_name:
 - Word.Template.VBProject
 ms.assetid: deea632d-239f-700d-7a89-fdc0fae916ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template.VBProject Property (Word)
+# Template.VBProject property (Word)
 
 Returns the  **VBProject** object for the specified template.
 
 
 ## Syntax
 
- _expression_. `VBProject`
+_expression_. `VBProject`
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ MsgBox normProj.Name
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

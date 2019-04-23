@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.SplitColumn
 ms.assetid: 699e2919-8786-4616-2363-78c3e01e4875
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.SplitColumn property (Excel)
 
-Returns or sets the column number where the window is split into panes (the number of columns to the left of the split line). Read/write  **Long** .
+Returns or sets the column number where the window is split into panes (the number of columns to the left of the split line). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SplitColumn`
+_expression_. `SplitColumn`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveWindow.SplitColumn = 1.5
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

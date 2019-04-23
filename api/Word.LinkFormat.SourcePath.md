@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SourcePath Property (Word)
+title: LinkFormat.SourcePath property (Word)
 keywords: vbawd10.chm154206213
 f1_keywords:
 - vbawd10.chm154206213
@@ -8,17 +8,18 @@ api_name:
 - Word.LinkFormat.SourcePath
 ms.assetid: c5aa7b91-7c65-b9d7-3e5e-8eb203340d08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.SourcePath Property (Word)
+# LinkFormat.SourcePath property (Word)
 
-Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only  **String** .
+Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `SourcePath`
+_expression_. `SourcePath`
 
  _expression_ An expression that returns a '[LinkFormat](Word.LinkFormat.md)' object.
 
@@ -48,3 +49,4 @@ Next s
 
 [LinkFormat Object](Word.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

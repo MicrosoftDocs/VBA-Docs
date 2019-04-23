@@ -8,24 +8,25 @@ api_name:
 - Excel.Trendline.Backward2
 ms.assetid: 28712c4d-7772-d61e-0151-22eea8ff6383
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Trendline.Backward2 property (Excel)
 
-Returns or sets the number of periods (or units on a scatter chart) that the trendline extends backward. Read/write  **Double** .
+Returns or sets the number of periods (or units on a scatter chart) that the trendline extends backward. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Backward2`
+_expression_. `Backward2`
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 
 
 ## Example
 
-This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb
@@ -42,3 +43,4 @@ End With
 
 [Trendline Object](Excel.Trendline(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

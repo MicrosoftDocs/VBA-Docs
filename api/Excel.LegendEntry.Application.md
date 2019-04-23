@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendEntry.Application
 ms.assetid: 54a896a3-f7c7-d3e2-da22-90812d8b0a2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
+_expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [LegendEntry Object](Excel.LegendEntry(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

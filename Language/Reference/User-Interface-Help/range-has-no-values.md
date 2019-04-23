@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5e74762b-e8b1-cf82-8185-227065bb5f8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ There are limitations on the way you can specify the number of elements in an [a
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

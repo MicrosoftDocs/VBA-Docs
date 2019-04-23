@@ -1,5 +1,5 @@
 ---
-title: Document.ClickAndTypeParagraphStyle Property (Word)
+title: Document.ClickAndTypeParagraphStyle property (Word)
 keywords: vbawd10.chm158007624
 f1_keywords:
 - vbawd10.chm158007624
@@ -8,26 +8,27 @@ api_name:
 - Word.Document.ClickAndTypeParagraphStyle
 ms.assetid: e53d3740-265f-b3ed-350a-24dd97d9f7ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ClickAndTypeParagraphStyle Property (Word)
+# Document.ClickAndTypeParagraphStyle property (Word)
 
-Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write  **Variant** .
+Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ClickAndTypeParagraphStyle`
+_expression_. `ClickAndTypeParagraphStyle`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
 
 To set the  **ClickAndTypeParagraphStyle** property, specify either the local name of the style, an integer, or a **WdBuiltinStyle** constant, or an object that represents the style. For a list of the **WdBuiltinStyle** constants, consult the Microsoft Visual Basic Object Browser.
 
-If the  **[InUse](Word.Style.InUse.md)** property for the specified style is set to **False** , an error occurs.
+If the  **[InUse](Word.Style.InUse.md)** property for the specified style is set to **False**, an error occurs.
 
 
 ## Example
@@ -52,3 +53,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

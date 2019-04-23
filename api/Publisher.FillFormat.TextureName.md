@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (Publisher)
+title: FillFormat.TextureName property (Publisher)
 keywords: vbapb10.chm2359561
 f1_keywords:
 - vbapb10.chm2359561
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.TextureName
 ms.assetid: 237a85ff-018d-f6b7-e94b-32e85fce65ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureName Property (Publisher)
+# FillFormat.TextureName property (Publisher)
 
 Returns a  **String** indicating the name of the custom texture file for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. **TextureName**
+_expression_.**TextureName**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -59,4 +60,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

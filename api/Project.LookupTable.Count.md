@@ -1,21 +1,22 @@
 ---
-title: LookupTable.Count Property (Project)
+title: LookupTable.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTable.Count
 ms.assetid: 8b00cad1-b49d-8365-46f9-3dd3d9e191cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LookupTable.Count Property (Project)
+# LookupTable.Count property (Project)
 
 Gets the number of items in the  **LookupTable** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a 'LookupTable' object.
 
@@ -57,4 +58,4 @@ Sub AssignResource()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

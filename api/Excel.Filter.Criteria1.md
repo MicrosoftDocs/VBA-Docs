@@ -8,19 +8,20 @@ api_name:
 - Excel.Filter.Criteria1
 ms.assetid: c1414fe3-92fd-e5cd-c60b-64e00cdf4973
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Filter.Criteria1 property (Excel)
 
-Returns the first filtered value for the specified column in a filtered range. Read-only  **Variant** .
+Returns the first filtered value for the specified column in a filtered range. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Criteria1`
+_expression_. `Criteria1`
 
- _expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End With
 
 [Filter Object](Excel.Filter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

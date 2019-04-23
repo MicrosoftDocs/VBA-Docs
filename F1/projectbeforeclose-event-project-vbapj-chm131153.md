@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 712eb912-f67e-4617-ad74-8c6b5c3875d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforePrint2 Event (Project)](http://msdn.microsoft.com/library/93e243b7-d765-e3d9-d061-dd98407010d1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

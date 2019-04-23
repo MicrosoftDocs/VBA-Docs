@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Parent Property (Word)
+title: LegendKey.Parent property (Word)
 keywords: vbawd10.chm266207382
 f1_keywords:
 - vbawd10.chm266207382
@@ -8,17 +8,18 @@ api_name:
 - Word.LegendKey.Parent
 ms.assetid: 538e092e-25cc-9a12-fa3c-a3f8646222e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendKey.Parent Property (Word)
+# LegendKey.Parent property (Word)
 
-Returns the parent for the specified object. Read-only  **Object** .
+Returns the parent for the specified object. Read-only  **Object**.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
@@ -28,3 +29,4 @@ Returns the parent for the specified object. Read-only  **Object** .
 
 [LegendKey Object](Word.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

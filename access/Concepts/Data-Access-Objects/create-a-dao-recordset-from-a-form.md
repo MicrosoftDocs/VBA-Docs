@@ -3,6 +3,7 @@ title: Create a DAO Recordset from a form
 ms.prod: access
 ms.assetid: d4bbe327-217d-ba7e-3d9f-3c89af1dcbc9
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -23,3 +24,4 @@ Set rstOrders = Forms!Orders.RecordsetClone
 
 This code always creates the type of **Recordset** being cloned (the type of **Recordset** on which the form is based); no other types are available. Note that the **Recordset** object is declared with the object library qualification. Because Access can use both DAO and ADO, it is better to fully qualify the data access variables by including the object library reference name.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

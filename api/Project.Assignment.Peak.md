@@ -1,21 +1,22 @@
 ---
-title: Assignment.Peak Property (Project)
+title: Assignment.Peak property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Peak
 ms.assetid: 52b5d301-6034-b207-c5ae-dfadb56ecd73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.Peak Property (Project)
+# Assignment.Peak property (Project)
 
 Gets the largest number of resource units for the assignment. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Peak`
+_expression_. `Peak`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -48,4 +49,4 @@ Sub FindOverassigned()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

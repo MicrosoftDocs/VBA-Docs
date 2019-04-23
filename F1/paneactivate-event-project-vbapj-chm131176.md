@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fa2e75cb-5a46-4448-a540-ada0bec1183e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.IsFunctionalitySupported Event (Project)](http://msdn.microsoft.com/library/f6462a3b-5a36-3b2e-79bd-78cce567aed8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.ItemLoad
 ms.assetid: aed0656d-4e5a-550a-1116-76773215a897
 ms.date: 09/19/2018
+localization_priority: Normal
 ---
 
 
@@ -20,7 +21,7 @@ Occurs when an Outlook item is loaded into memory.
 
 _expression_. ItemLoad( _Item_ )
 
-_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters
@@ -49,6 +50,5 @@ This event is not raised when the following conditions occur:
 - A reminder is triggered for an Outlook item.
     
 - A Desktop Alert is displayed for an Outlook item.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

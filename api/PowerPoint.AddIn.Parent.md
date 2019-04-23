@@ -1,5 +1,5 @@
 ---
-title: AddIn.Parent Property (PowerPoint)
+title: AddIn.Parent property (PowerPoint)
 keywords: vbapp10.chm521002
 f1_keywords:
 - vbapp10.chm521002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AddIn.Parent
 ms.assetid: db53e381-f2aa-86f6-4e24-6de2ef8bd511
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.Parent Property (PowerPoint)
+# AddIn.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [AddIn Object](PowerPoint.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

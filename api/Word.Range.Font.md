@@ -1,5 +1,5 @@
 ---
-title: Range.Font Property (Word)
+title: Range.Font property (Word)
 keywords: vbawd10.chm157155333
 f1_keywords:
 - vbawd10.chm157155333
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Font
 ms.assetid: 7582a7ed-0f16-e8f3-73f7-5d7b91193679
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Font Property (Word)
+# Range.Font property (Word)
 
-Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font** .
+Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font**.
 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -57,3 +58,4 @@ End If
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

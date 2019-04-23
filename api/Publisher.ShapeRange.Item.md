@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Item Method (Publisher)
+title: ShapeRange.Item method (Publisher)
 keywords: vbapb10.chm2293760
 f1_keywords:
 - vbapb10.chm2293760
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Item
 ms.assetid: f316bbac-b0be-0281-585b-c32dcb709b66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Item Method (Publisher)
+# ShapeRange.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -48,4 +49,4 @@ Set shpTemp = ActiveDocument.Pages(Index:=1) _
  .Shapes(1).GroupItems.Item(Index:=1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

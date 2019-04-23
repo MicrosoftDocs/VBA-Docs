@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveDocument Property (Visio)
+title: Application.ActiveDocument property (Visio)
 keywords: vis_sdr.chm10013025
 f1_keywords:
 - vis_sdr.chm10013025
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.ActiveDocument
 ms.assetid: 0dbc95b6-4920-4291-55c0-ec0128e7f006
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveDocument Property (Visio)
+# Application.ActiveDocument property (Visio)
 
 Returns the active  **Document** object, which is the document shown in the active window. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveDocument`
+_expression_. `ActiveDocument`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -74,4 +75,4 @@ Public Sub ActiveDocument_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

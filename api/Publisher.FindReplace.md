@@ -1,5 +1,5 @@
 ---
-title: FindReplace Object (Publisher)
+title: FindReplace object (Publisher)
 keywords: vbapb10.chm8388607
 f1_keywords:
 - vbapb10.chm8388607
@@ -8,10 +8,11 @@ api_name:
 - Publisher.FindReplace
 ms.assetid: 96dcf5fe-4f3e-07b7-c248-46edd370fc31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace Object (Publisher)
+# FindReplace object (Publisher)
 
 Represents the criteria for a find operation. The properties and methods of the  **FindReplace** object correspond to the options in the **Find and Replace** dialog box.
  
@@ -84,7 +85,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Publisher.FindReplace.Clear.md)|
 |[Execute](Publisher.FindReplace.Execute.md)|
@@ -93,7 +94,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.FindReplace.Application.md)|
 |[FindText](Publisher.FindReplace.FindText.md)|
@@ -109,3 +110,4 @@ End With
 |[ReplaceScope](Publisher.FindReplace.ReplaceScope.md)|
 |[ReplaceWithText](Publisher.FindReplace.ReplaceWithText.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

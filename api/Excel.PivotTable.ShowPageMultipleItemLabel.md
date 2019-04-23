@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ShowPageMultipleItemLabel
 ms.assetid: 2f816331-4017-a208-d1b2-fea219d2ca71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.ShowPageMultipleItemLabel property (Excel)
 
-When set to  **True** (default), "(Multiple Items)" will appear in the PivotTable cell on the worksheet whenever items are hidden and an aggregate of non-hidden items is shown in the PivotTable view. Read/write **Boolean** .
+When set to  **True** (default), "(Multiple Items)" will appear in the PivotTable cell on the worksheet whenever items are hidden and an aggregate of non-hidden items is shown in the PivotTable view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowPageMultipleItemLabel`
+_expression_. `ShowPageMultipleItemLabel`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

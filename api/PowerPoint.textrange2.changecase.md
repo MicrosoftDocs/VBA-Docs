@@ -1,19 +1,20 @@
 ---
-title: TextRange2.ChangeCase Method (PowerPoint)
+title: TextRange2.ChangeCase method (PowerPoint)
 ms.assetid: d8a3ae13-c328-4eaa-a548-520de13e5e5d
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# TextRange2.ChangeCase Method (PowerPoint)
+# TextRange2.ChangeCase method (PowerPoint)
 
 Changes the case of a  **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.
 
 
 ## Syntax
 
- _expression_. `ChangeCase`( `_Type_` )
+_expression_. `ChangeCase`( `_Type_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -34,6 +35,6 @@ Examples of the  **MsoTextChangeCase** enumeration include **msoCaseLower**, **m
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

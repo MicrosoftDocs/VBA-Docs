@@ -1,5 +1,5 @@
 ---
-title: Selection.CreateAutoTextEntry Method (Word)
+title: Selection.CreateAutoTextEntry method (Word)
 keywords: vbawd10.chm158663190
 f1_keywords:
 - vbawd10.chm158663190
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.CreateAutoTextEntry
 ms.assetid: def6f758-af70-eaf2-f15c-4a6a28c247b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.CreateAutoTextEntry Method (Word)
+# Selection.CreateAutoTextEntry method (Word)
 
 Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoTextEntries](Word.autotextentries.md)** collection, based on the current selection.
 
 
 ## Syntax
 
- _expression_. `CreateAutoTextEntry`( `_Name_` , `_StyleName_` )
+_expression_. `CreateAutoTextEntry`( `_Name_` , `_StyleName_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ Selection.CreateAutoTextEntry "handdel", _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

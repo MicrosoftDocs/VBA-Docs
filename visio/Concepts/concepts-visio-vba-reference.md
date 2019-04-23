@@ -3,6 +3,7 @@ title: Concepts (Visio VBA reference)
 ms.prod: visio
 ms.assetid: dd3742ff-6753-11b5-dbbc-cc6ff467146f
 ms.date: 10/10/2018
+localization_priority: Priority
 ---
 
 
@@ -25,4 +26,4 @@ This navigation page contains links to overview topics about programmability in 
 - [Visio Drawing control](about-the-visio-drawing-control.md)
 - [Visio Type Library](about-the-visio-type-library.md)
 
-    
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

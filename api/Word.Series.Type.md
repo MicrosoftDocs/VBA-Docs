@@ -1,5 +1,5 @@
 ---
-title: Series.Type Property (Word)
+title: Series.Type property (Word)
 keywords: vbawd10.chm123732076
 f1_keywords:
 - vbawd10.chm123732076
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.Type
 ms.assetid: 3f3ed60e-5c97-d1ca-fc32-d6c4ba7ab988
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Type Property (Word)
+# Series.Type property (Word)
 
-Returns or sets the series type. Read/write  **Long** .
+Returns or sets the series type. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -62,3 +63,4 @@ You can use the following  **[XlConstants](Word.XlConstants.md)** constants for 
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

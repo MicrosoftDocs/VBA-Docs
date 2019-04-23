@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: c91c493d-a340-8c94-04a2-17d2f75b5392
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ ms.date: 06/08/2017
 
  **Note**   If you have more than one Visio drawing open and the macro you want to run does not appear in the **Macros** dialog box, make sure that in the **Macros in** list, you have selected the Visio document in which the macro is stored.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

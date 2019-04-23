@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.ShowSelected Property (Publisher)
+title: WebNavigationBarSet.ShowSelected property (Publisher)
 keywords: vbapb10.chm8519696
 f1_keywords:
 - vbapb10.chm8519696
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.ShowSelected
 ms.assetid: c8229f03-a043-a280-84f9-f75a430c3903
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.ShowSelected Property (Publisher)
+# WebNavigationBarSet.ShowSelected property (Publisher)
 
  **True** if the selected button is highlighted for the specified **WebNavigationBarSet** object. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ShowSelected**
+_expression_.**ShowSelected**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -43,4 +44,4 @@ With objWebNav
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

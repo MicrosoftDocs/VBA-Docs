@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.KashidaPercentage Property (Publisher)
+title: ParagraphFormat.KashidaPercentage property (Publisher)
 keywords: vbapb10.chm5439513
 f1_keywords:
 - vbapb10.chm5439513
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.KashidaPercentage
 ms.assetid: d62aa512-cce6-2e78-657f-51ff1b2cbcf8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.KashidaPercentage Property (Publisher)
+# ParagraphFormat.KashidaPercentage property (Publisher)
 
 Returns or sets a  **Long** indicating the percentage by which kashidas are to be lengthened for the specified paragraphs. Valid values are from 0 to 100. Read/write.
 
 
 ## Syntax
 
- _expression_. **KashidaPercentage**
+_expression_.**KashidaPercentage**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -46,4 +47,4 @@ With ActiveDocument.Pages(1).Shapes(1) _
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

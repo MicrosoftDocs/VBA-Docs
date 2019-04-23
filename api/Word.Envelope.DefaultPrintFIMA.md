@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultPrintFIMA Property (Word)
+title: Envelope.DefaultPrintFIMA property (Word)
 keywords: vbawd10.chm152567813
 f1_keywords:
 - vbawd10.chm152567813
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.DefaultPrintFIMA
 ms.assetid: 13cba63f-dc2a-722e-1bc2-21db8c0e82cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.DefaultPrintFIMA Property (Word)
+# Envelope.DefaultPrintFIMA property (Word)
 
- **True** to add a Facing Identification Mark (FIM-A) to envelopes by default. Read/write **Boolean** .
+ **True** to add a Facing Identification Mark (FIM-A) to envelopes by default. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DefaultPrintFIMA`
+_expression_. `DefaultPrintFIMA`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -45,3 +46,4 @@ End With
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

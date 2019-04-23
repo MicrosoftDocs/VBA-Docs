@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.Item Method (Word)
+title: PageNumbers.Item method (Word)
 keywords: vbawd10.chm159776768
 f1_keywords:
 - vbawd10.chm159776768
@@ -8,19 +8,20 @@ api_name:
 - Word.PageNumbers.Item
 ms.assetid: dd39bc8f-ee56-f35c-0867-671f0951904d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumbers.Item Method (Word)
+# PageNumbers.Item method (Word)
 
 Returns an individual  **PageNumber** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[PageNumbers](Word.pagenumbers.md)' collection.
+_expression_ Required. A variable that represents a '[PageNumbers](Word.pagenumbers.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ PageNumber
 
 [PageNumbers Collection Object](Word.pagenumbers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

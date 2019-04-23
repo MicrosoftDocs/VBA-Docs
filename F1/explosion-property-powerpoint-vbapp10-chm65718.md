@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c49ec676-6e25-438a-a878-5208cd105450
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.Explosion Property (PowerPoint)](http://msdn.microsoft.com/library/c952b296-35c2-0215-228e-883a29e1b9d8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

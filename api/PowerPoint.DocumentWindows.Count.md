@@ -1,23 +1,24 @@
 ---
-title: DocumentWindows.Count Property (PowerPoint)
+title: DocumentWindows.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows.Count
 ms.assetid: d659a980-cc23-c805-6084-4c724c0bc6cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindows.Count Property (PowerPoint)
+# DocumentWindows.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
+_expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 
 
 ## Return value
@@ -53,3 +54,4 @@ End With
 
 [DocumentWindows Object](PowerPoint.DocumentWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

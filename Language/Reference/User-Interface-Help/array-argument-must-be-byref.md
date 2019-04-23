@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 30259938-07f7-0c89-ccfb-9b16c541e53c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ MyVar = OldArray()
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

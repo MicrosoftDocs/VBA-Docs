@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c7589acd-bb21-4ec3-8b50-6865a845d7bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AcPictureCaptionArrangement enumeration (Access)](http://msdn.microsoft.com/library/e77a758f-4139-343f-9f1c-5e29db3fe5a3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

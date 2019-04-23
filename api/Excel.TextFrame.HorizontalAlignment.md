@@ -8,19 +8,20 @@ api_name:
 - Excel.TextFrame.HorizontalAlignment
 ms.assetid: d27deba0-dce5-de76-5d1e-88529a0bf946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextFrame.HorizontalAlignment property (Excel)
 
-Returns or sets a  **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
+Returns or sets an **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
- _expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

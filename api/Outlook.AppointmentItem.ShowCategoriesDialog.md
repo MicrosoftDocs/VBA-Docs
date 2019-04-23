@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ShowCategoriesDialog Method (Outlook)
+title: AppointmentItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm915
 f1_keywords:
 - vbaol11.chm915
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.ShowCategoriesDialog
 ms.assetid: 5b79f252-ffce-a59d-873f-48efe467df3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.ShowCategoriesDialog Method (Outlook)
+# AppointmentItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax
 
- _expression_. `ShowCategoriesDialog`
+_expression_. `ShowCategoriesDialog`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example
@@ -66,3 +67,4 @@ End Sub
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

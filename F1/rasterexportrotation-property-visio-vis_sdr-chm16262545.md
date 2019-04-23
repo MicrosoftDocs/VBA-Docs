@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 14c8eba0-742a-44e3-a1a7-84997ef476f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportRotation Property (Visio)](http://msdn.microsoft.com/library/302c94e1-d5fa-b0fc-e875-67a944933f21.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

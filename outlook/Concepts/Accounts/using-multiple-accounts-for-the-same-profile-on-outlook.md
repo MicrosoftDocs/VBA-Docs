@@ -3,6 +3,7 @@ title: Using Multiple Accounts for the Same Profile on Outlook
 ms.prod: outlook
 ms.assetid: 9e06e076-d62a-37c8-4502-709da5a0b104
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,5 +46,5 @@ If you are operating with multiple accounts in the current profile, see the foll
 -  [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
     
 -  [How to: Identify a Global Address List or a Set of Address Lists with a Store](../Address-Book/identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7c67fa57-6c94-41cf-9eb4-31cd4a24c0e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.TaskFilters Property (Project)](http://msdn.microsoft.com/library/e1495c4e-65b7-c231-3b0c-5be3d3b19d40%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

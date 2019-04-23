@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Copy Method (Outlook)
+title: JournalItem.Copy method (Outlook)
 keywords: vbaol11.chm1258
 f1_keywords:
 - vbaol11.chm1258
@@ -8,24 +8,25 @@ api_name:
 - Outlook.JournalItem.Copy
 ms.assetid: 91a4124e-6fd4-b2bf-9860-a093ed760d6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.Copy Method (Outlook)
+# JournalItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Example
 
-This Visual Basic for Applications example creates an e-mail message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created e-mail folder named "Saved Mail" within the Inbox folder.
+This Visual Basic for Applications example creates an email message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created email folder named "Saved Mail" within the Inbox folder.
 
 
 ```vb
@@ -66,3 +67,4 @@ End Sub
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

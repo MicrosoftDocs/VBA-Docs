@@ -5,6 +5,7 @@ api_name:
 - Visio.InitSettings
 ms.assetid: 11f4d234-53ab-d49c-9c1c-3c8c6ff3f9eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Loads the Web page settings that were saved in the registry in an earlier instan
 
 ## Syntax
 
- _expression_. **InitSettings**
+_expression_.**InitSettings**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -56,4 +57,4 @@ Public Sub InitSettings_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Tags Property (PowerPoint)
+title: ShapeRange.Tags property (PowerPoint)
 keywords: vbapp10.chm548049
 f1_keywords:
 - vbapp10.chm548049
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Tags
 ms.assetid: 98620c36-50aa-a2a0-e6b6-125229dd87af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Tags Property (PowerPoint)
+# ShapeRange.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Tags`
+_expression_. `Tags`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -93,3 +94,4 @@ Next
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

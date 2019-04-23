@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: df411f02-7c44-4745-9da2-de43921fe40e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Assignment.WorkVariance Property (Project)](http://msdn.microsoft.com/library/e92fce82-213f-b412-cc4a-f3c93d11ad8f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: ReportItem.CustomPropertyChange Event (Outlook)
+title: ReportItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.CustomPropertyChange
 ms.assetid: 8b75f239-a3c2-01fc-1b94-84b2b680a420
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportItem.CustomPropertyChange Event (Outlook)
+# ReportItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 
 
 ## Syntax
 
- _expression_. `CustomPropertyChange`( `_Name_` )
+_expression_. `CustomPropertyChange`( `_Name_` )
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ The property name is passed to the procedure so that you can determine which cus
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange** event to enable a control when a Boolean field is set to **True** .
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange** event to enable a control when a Boolean field is set to **True**.
 
 For this example, create two custom fields on the second page of a form. The first, a  **Boolean** field, is named "RespondBy". The second field is named "DateToRespond".
 
@@ -80,3 +81,4 @@ End Sub
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

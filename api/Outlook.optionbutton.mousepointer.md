@@ -3,6 +3,7 @@ title: OptionButton.MousePointer Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 4123275c-6d9d-59ec-053e-074204e2bae0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the type of pointer displayed whe
 
 ## Syntax
 
- _expression_. **MousePointer**
+_expression_.**MousePointer**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -24,7 +25,7 @@ The settings for  **MousePointer** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Standard pointer. The image is determined by the object (default).|
 |1|Arrow.|
@@ -46,4 +47,4 @@ Use the  **MousePointer** property when you want to indicate changes in function
 
 Some icons vary depending on system settings, such as the icons associated with desktop themes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

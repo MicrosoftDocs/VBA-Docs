@@ -1,5 +1,5 @@
 ---
-title: Row.Parent Property (Publisher)
+title: Row.Parent property (Publisher)
 keywords: vbapb10.chm4849668
 f1_keywords:
 - vbapb10.chm4849668
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Row.Parent
 ms.assetid: 5a646044-cab0-b31d-94f8-fbfb6c8b044e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Parent Property (Publisher)
+# Row.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Row** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FileConverter.OpenFormat Property (Word)
+title: FileConverter.OpenFormat property (Word)
 keywords: vbawd10.chm161021955
 f1_keywords:
 - vbawd10.chm161021955
@@ -8,24 +8,25 @@ api_name:
 - Word.FileConverter.OpenFormat
 ms.assetid: d5a83e1f-bbf6-d0f5-8223-c2140850bc27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.OpenFormat Property (Word)
+# FileConverter.OpenFormat property (Word)
 
-Returns the file format of the specified file converter. Read-only  **Long** .
+Returns the file format of the specified file converter. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `OpenFormat`
+_expression_. `OpenFormat`
 
- _expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
+_expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## Remarks
 
-This property can be any vailid  **WdOpenFormat** constant, or it can be a unique number that represents an external file converter.
+This property can be any valid  **WdOpenFormat** constant, or it can be a unique number that represents an external file converter.
 
 
 ## Example
@@ -56,3 +57,4 @@ Documents.Open FileName:="C:\Data.wp", _
 
 [FileConverter Object](Word.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

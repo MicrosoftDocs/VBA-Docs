@@ -1,21 +1,22 @@
 ---
-title: GroupShapes.Application Property (PowerPoint)
+title: GroupShapes.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Application
 ms.assetid: 66ec102a-4c7d-aa61-6b05-8950f429468c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Application Property (PowerPoint)
+# GroupShapes.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

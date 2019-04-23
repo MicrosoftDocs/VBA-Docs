@@ -1,5 +1,5 @@
 ---
-title: Table.Cell Method (Word)
+title: Table.Cell method (Word)
 keywords: vbawd10.chm156303377
 f1_keywords:
 - vbawd10.chm156303377
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.Cell
 ms.assetid: 7dd91771-c72b-eefb-2492-1998c0d194bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Cell Method (Word)
+# Table.Cell method (Word)
 
 Returns a  **Cell** object that represents a cell in a table.
 
 
 ## Syntax
 
- _expression_. `Cell`( `_Row_` , `_Column_` )
+_expression_. `Cell`( `_Row_` , `_Column_` )
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Parameters
@@ -73,3 +74,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

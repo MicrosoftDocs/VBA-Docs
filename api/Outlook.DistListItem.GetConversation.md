@@ -1,5 +1,5 @@
 ---
-title: DistListItem.GetConversation Method (Outlook)
+title: DistListItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3505
 f1_keywords:
 - vbaol11.chm3505
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.GetConversation
 ms.assetid: 6f35b1f9-ae5c-411b-58c4-b06a74e29021
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.GetConversation Method (Outlook)
+# DistListItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[DistListItem](Outlook.DistListItem.md)' object.
+_expression_ A variable that represents a '[DistListItem](Outlook.DistListItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

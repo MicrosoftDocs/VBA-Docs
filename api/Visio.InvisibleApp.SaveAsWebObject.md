@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SaveAsWebObject Property (Visio)
+title: InvisibleApp.SaveAsWebObject property (Visio)
 keywords: vis_sdr.chm17551660
 f1_keywords:
 - vis_sdr.chm17551660
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.SaveAsWebObject
 ms.assetid: 9020e7db-b696-7484-c024-fd92906e486b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.SaveAsWebObject Property (Visio)
+# InvisibleApp.SaveAsWebObject property (Visio)
 
 Returns a reference to the  **IDispatch** interface of a **VisSaveAsWeb** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SaveAsWebObject`
+_expression_. `SaveAsWebObject`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -86,4 +87,4 @@ Public Sub SaveAsWeb (vsoApplication as Visio.Application)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

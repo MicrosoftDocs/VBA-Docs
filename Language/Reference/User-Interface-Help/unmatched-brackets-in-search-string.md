@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2350eb47-9490-0ad1-185c-bc6a4da6829d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ An opening bracket must be matched by a closing bracket. This error has the foll
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

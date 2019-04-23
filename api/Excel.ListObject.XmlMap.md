@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.XmlMap
 ms.assetid: 8bb623c7-84bc-5170-6afd-335853e716b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **XmlMap** object that represents the schema map used for the specif
 
 ## Syntax
 
- _expression_. `XmlMap`
+_expression_. `XmlMap`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns an  **XmlMap** object that represents the schema map used for the specif
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

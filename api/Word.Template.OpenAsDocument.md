@@ -1,5 +1,5 @@
 ---
-title: Template.OpenAsDocument Method (Word)
+title: Template.OpenAsDocument method (Word)
 keywords: vbawd10.chm157941860
 f1_keywords:
 - vbawd10.chm157941860
@@ -8,19 +8,20 @@ api_name:
 - Word.Template.OpenAsDocument
 ms.assetid: 3e73bddd-a5af-5c58-cd66-3271271633dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template.OpenAsDocument Method (Word)
+# Template.OpenAsDocument method (Word)
 
 Opens the specified template as a document and returns a  **Document** object.
 
 
 ## Syntax
 
- _expression_. `OpenAsDocument`
+_expression_. `OpenAsDocument`
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Return value
@@ -92,3 +93,4 @@ ActiveDocument.UpdateStyles
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

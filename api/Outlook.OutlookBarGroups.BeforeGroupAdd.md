@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.BeforeGroupAdd Event (Outlook)
+title: OutlookBarGroups.BeforeGroupAdd event (Outlook)
 keywords: vbaol11.chm356
 f1_keywords:
 - vbaol11.chm356
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarGroups.BeforeGroupAdd
 ms.assetid: 7bce246a-69fa-0dcd-4c43-fbfc43385864
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.BeforeGroupAdd Event (Outlook)
+# OutlookBarGroups.BeforeGroupAdd event (Outlook)
 
 Occurs before a new group is added to the  **Shortcuts** pane, either as a result of user action or through program code.
 
 
 ## Syntax
 
- _expression_. `BeforeGroupAdd`( `_Cancel_` )
+_expression_. `BeforeGroupAdd`( `_Cancel_` )
 
- _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs before a new group is added to the  **Shortcuts** pane, either as a resul
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the group is not added to the **Shortcuts** pane.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the group is not added to the **Shortcuts** pane.|
 
 ## Remarks
 
@@ -61,3 +62,4 @@ End Sub
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

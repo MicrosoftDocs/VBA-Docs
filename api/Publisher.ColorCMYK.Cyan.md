@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Cyan Property (Publisher)
+title: ColorCMYK.Cyan property (Publisher)
 keywords: vbapb10.chm2621443
 f1_keywords:
 - vbapb10.chm2621443
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorCMYK.Cyan
 ms.assetid: 47729474-40f4-e336-a92c-62f3ac19ed8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorCMYK.Cyan Property (Publisher)
+# ColorCMYK.Cyan property (Publisher)
 
 Sets or returns a  **Long** that represents the cyan component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 
 
 ## Syntax
 
- _expression_. **Cyan**
+_expression_.**Cyan**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 
@@ -64,4 +65,4 @@ Sub ReturnAndSetCMYK()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

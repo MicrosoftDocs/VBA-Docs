@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Details Method (Outlook)
+title: AddressEntry.Details method (Outlook)
 keywords: vbaol11.chm2051
 f1_keywords:
 - vbaol11.chm2051
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AddressEntry.Details
 ms.assetid: 85457da6-c97a-387d-6c7e-40eb005b25aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressEntry.Details Method (Outlook)
+# AddressEntry.Details method (Outlook)
 
 Displays a modeless dialog box that provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md)** object.
 
 
 ## Syntax
 
- _expression_. `Details`( `_HWnd_` )
+_expression_. `Details`( `_HWnd_` )
 
- _expression_ An expression that returns a [AddressEntry](./Outlook.AddressEntry.md) object.
+ _expression_ An expression that returns a [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ You must use error handling to handle run-time errors when the user clicks  **Ca
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

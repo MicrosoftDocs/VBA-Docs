@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5d0c4caa-9afd-4fa9-9daa-fd5aaebcd267
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DocumentSavedAs Event (Visio)](http://msdn.microsoft.com/library/f03e5fe2-04da-8324-fc0a-be16daf3ad30%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

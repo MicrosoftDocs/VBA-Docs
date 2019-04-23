@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 1185e08f-0e2c-2dcf-71c1-70c5bfe17337
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Unable to get a file from the internet server. Make sure the server is running a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

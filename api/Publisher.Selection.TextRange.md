@@ -1,5 +1,5 @@
 ---
-title: Selection.TextRange Property (Publisher)
+title: Selection.TextRange property (Publisher)
 keywords: vbapb10.chm851974
 f1_keywords:
 - vbapb10.chm851974
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Selection.TextRange
 ms.assetid: 7de96171-630a-40ae-9e21-92d681601cf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.TextRange Property (Publisher)
+# Selection.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 
 
 ## Syntax
 
- _expression_. **TextRange**
+_expression_.**TextRange**
 
  _expression_ A variable that represents a  **Selection** object.
 
@@ -55,4 +56,4 @@ Sub AddTextToShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

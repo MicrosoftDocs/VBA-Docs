@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition.Session Property (Outlook)
+title: ImportanceRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2334
 f1_keywords:
 - vbaol11.chm2334
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ImportanceRuleCondition.Session
 ms.assetid: 521d650f-8724-e8cb-6d20-1e7d730bf419
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition.Session Property (Outlook)
+# ImportanceRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
+_expression_ A variable that represents an [ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

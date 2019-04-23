@@ -1,5 +1,5 @@
 ---
-title: NavigationModule.Position Property (Outlook)
+title: NavigationModule.Position property (Outlook)
 keywords: vbaol11.chm2809
 f1_keywords:
 - vbaol11.chm2809
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NavigationModule.Position
 ms.assetid: cdf7eedb-18a4-028c-8663-eae70e466617
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NavigationModule.Position Property (Outlook)
+# NavigationModule.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationModule](Outlook.NavigationModule.md)** object when displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationModule](Outlook.NavigationModule.md)** object when displayed in the navigation pane. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
+ _expression_ An expression that returns a [NavigationModule](Outlook.NavigationModule.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ Changing the value of this property for a  **NavigationModule** object changes t
 
 [NavigationModule Object](Outlook.NavigationModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SeriesCollection.Application
 ms.assetid: 0dfb1098-384c-5065-6316-f7c4937372db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,5 +42,6 @@ End If
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

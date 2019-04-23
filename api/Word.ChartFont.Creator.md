@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Creator Property (Word)
+title: ChartFont.Creator property (Word)
 keywords: vbawd10.chm255918229
 f1_keywords:
 - vbawd10.chm255918229
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.Creator
 ms.assetid: d5be9856-817e-a03e-1f7d-43ef421f23f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.Creator Property (Word)
+# ChartFont.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

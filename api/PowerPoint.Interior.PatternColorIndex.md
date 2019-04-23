@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColorIndex Property (PowerPoint)
+title: Interior.PatternColorIndex property (PowerPoint)
 keywords: vbapp10.chm707006
 f1_keywords:
 - vbapp10.chm707006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Interior.PatternColorIndex
 ms.assetid: d7a42e0c-d3f4-85a1-009c-0b6d2385ee77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Interior.PatternColorIndex Property (PowerPoint)
+# Interior.PatternColorIndex property (PowerPoint)
 
 Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PatternColorIndex`
+_expression_. `PatternColorIndex`
 
  _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 
@@ -66,3 +67,4 @@ End With
 
 [Interior Object](PowerPoint.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: AutoCorrectEntries Object (Word)
+title: AutoCorrectEntries object (Word)
 ms.prod: word
 ms.assetid: 3823f96c-f600-d279-2592-253025ad63ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrectEntries Object (Word)
+# AutoCorrectEntries object (Word)
 
 A collection of  **AutoCorrectEntry** objects that represent all the AutoCorrect entries available to Word. The **AutoCorrectEntries** collection includes all the entries in the **AutoCorrect** dialog box.
 
@@ -38,7 +39,7 @@ The following example creates an AutoCorrect entry named "PMO" based on the text
 AutoCorrect.Entries.AddRichText Name:="PMO", Range:=Selection.Range
 ```
 
-Use  **Entries** ( _index_ ), where _index_ is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoCorrect entry named "teh."
+Use  **Entries** (_index_), where _index_ is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoCorrect entry named "teh."
 
 
 
@@ -61,6 +62,6 @@ MsgBox "Name = " & AutoCorrect.Entries(1).Name & vbCr & _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

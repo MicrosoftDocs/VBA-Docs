@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Group Method (Publisher)
+title: ShapeRange.Group method (Publisher)
 keywords: vbapb10.chm2294018
 f1_keywords:
 - vbapb10.chm2294018
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Group
 ms.assetid: ca3e011f-72ea-904e-da3f-cac7fe24341d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Group Method (Publisher)
+# ShapeRange.Group method (Publisher)
 
 Groups the shapes in the specified shape range. Returns the grouped shapes as a single  **[Shape](Publisher.Shape.md)** object.
 
 
 ## Syntax
 
- _expression_. **Group**
+_expression_.**Group**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -60,4 +61,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

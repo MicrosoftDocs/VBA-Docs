@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.SplitRow
 ms.assetid: a1b900c3-4152-8701-db1f-1b576249c686
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.SplitRow property (Excel)
 
-Returns or sets the row number where the window is split into panes (the number of rows above the split). Read/write  **Long** .
+Returns or sets the row number where the window is split into panes (the number of rows above the split). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SplitRow`
+_expression_. `SplitRow`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveWindow.SplitRow = 10
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

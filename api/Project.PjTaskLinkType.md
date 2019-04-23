@@ -1,14 +1,15 @@
 ---
-title: PjTaskLinkType Enumeration (Project)
+title: PjTaskLinkType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskLinkType
 ms.assetid: 141a1145-0eb5-3664-4755-394584aec8ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTaskLinkType Enumeration (Project)
+# PjTaskLinkType enumeration (Project)
 
 Contains constants that specify the type of links between tasks.
 
@@ -21,3 +22,4 @@ Contains constants that specify the type of links between tasks.
 |**pjStartToFinish**|2|Link tasks from start to finish.|
 |**pjStartToStart**|3|Link tasks from start to start.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

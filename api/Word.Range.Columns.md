@@ -1,5 +1,5 @@
 ---
-title: Range.Columns Property (Word)
+title: Range.Columns property (Word)
 keywords: vbawd10.chm157155630
 f1_keywords:
 - vbawd10.chm157155630
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Columns
 ms.assetid: 667b808a-e885-a7b7-0a68-5b2466ddd869
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Columns Property (Word)
+# Range.Columns property (Word)
 
 Returns a  **[Columns](Word.columns.md)** collection that represents all the table columns in the range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Columns`
+_expression_. `Columns`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -57,3 +58,4 @@ End If
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

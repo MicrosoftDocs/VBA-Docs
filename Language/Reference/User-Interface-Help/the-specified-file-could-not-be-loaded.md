@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9ad61d5c-d19c-8610-655b-4638c25442e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Not all files can be loaded in Visual Basic for Applications. This error has the
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

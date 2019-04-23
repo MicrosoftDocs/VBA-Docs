@@ -3,6 +3,7 @@ title: Log file path <pathname> is invalid. (Error 3591)
 ms.prod: access
 ms.assetid: cd92b9ca-924e-e47f-78fd-37e3c880f6f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,5 @@ To configure the Synchronizer
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

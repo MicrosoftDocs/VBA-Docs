@@ -8,6 +8,7 @@ api_name:
 - Excel.UpBars.Application
 ms.assetid: 28c188c6-1093-3dda-bb24-2d157e680248
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [UpBars](./Excel.UpBars-graph-property.md) object.
+_expression_ A variable that represents a [UpBars](Excel.UpBars-graph-property.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [UpBars Object](Excel.UpBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: d681d6e8-935b-f5f0-aaba-e5f63e7491bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Reverses the effect of the most recent  **Undo** action.
 
 ## Syntax
 
- _expression_. **RedoAction**
+_expression_.**RedoAction**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Return value
@@ -30,4 +31,4 @@ A  **Boolean** that specifies **True** if the method succeeds, **False** otherwi
 
 Redo reverses the last  **Undo**, which is not necessarily the last action taken. Not all actions can be undone.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

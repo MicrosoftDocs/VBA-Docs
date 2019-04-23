@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceWindowsAccount Method (Project)
+title: Application.ResourceWindowsAccount method (Project)
 keywords: vbapj.chm2394
 f1_keywords:
 - vbapj.chm2394
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ResourceWindowsAccount
 ms.assetid: f03e8445-10a6-d288-b6ae-9ea2eb46f532
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ResourceWindowsAccount Method (Project)
+# Application.ResourceWindowsAccount method (Project)
 
 Sets the security identifier for Microsoft Windows authentication for the selected resource(s), based upon a Microsoft Exchange Server Address Book.
 
 
 ## Syntax
 
- _expression_. `ResourceWindowsAccount`( ` _Name_`, ` _ShowDialog_` )
+_expression_. `ResourceWindowsAccount`( `_Name_`, `_ShowDialog_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Sets the security identifier for Microsoft Windows authentication for the select
 
 The  **ResourceWindowsAccount** method is only available in resource views. If the optional Security Identifier field in the Address Book is blank, the **ResourceWindowsAccount** method has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

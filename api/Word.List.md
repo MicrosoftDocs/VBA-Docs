@@ -1,5 +1,5 @@
 ---
-title: List Object (Word)
+title: List object (Word)
 keywords: vbawd10.chm2450
 f1_keywords:
 - vbawd10.chm2450
@@ -8,10 +8,11 @@ api_name:
 - Word.List
 ms.assetid: 2c3dae28-447a-af48-2966-e19ae75ab6c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# List Object (Word)
+# List object (Word)
 
 Represents a single list format that's been applied to specified paragraphs in a document. The  **List** object is a member of the **Lists** collection.
 
@@ -45,7 +46,7 @@ You can manipulate the individual  **List** objects within a document, but for m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyListTemplate](Word.List.ApplyListTemplate.md)|
 |[ApplyListTemplateWithLevel](Word.List.ApplyListTemplateWithLevel.md)|
@@ -58,7 +59,7 @@ You can manipulate the individual  **List** objects within a document, but for m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.List.Application.md)|
 |[Creator](Word.List.Creator.md)|
@@ -71,4 +72,6 @@ You can manipulate the individual  **List** objects within a document, but for m
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

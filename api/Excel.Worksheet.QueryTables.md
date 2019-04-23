@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.QueryTables
 ms.assetid: 1228c6e0-f8d9-87a3-2fbf-1526f5229f1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[QueryTables](Excel.QueryTables.md)** collection that represents 
 
 ## Syntax
 
- _expression_. `QueryTables`
+_expression_. `QueryTables`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -49,3 +50,4 @@ Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

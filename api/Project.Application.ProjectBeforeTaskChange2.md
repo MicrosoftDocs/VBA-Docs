@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeTaskChange2 Event (Project)
+title: Application.ProjectBeforeTaskChange2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskChange2
 ms.assetid: 00992e39-dcbd-3826-4ce6-e2be55dc9c2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskChange2 Event (Project)
+# Application.ProjectBeforeTaskChange2 event (Project)
 
 Occurs before the user changes the value of a task field. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
 
-_expression_. **ProjectBeforeTaskChange2** (**_tsk_**, **_Field_**, **_NewVal_**, **_Info_**)
+_expression_.**ProjectBeforeTaskChange2** (**_tsk_**, **_Field_**, **_NewVal_**, **_Info_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -31,7 +32,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### PjField constants
+### PjField constants
 
 |||
 |:-----|:-----|
@@ -133,4 +134,4 @@ Project events do not occur when the project is embedded in another document or 
 
 The **ProjectBeforeTaskChange2** event doesn't occur when timescaled data changes, when constraint data in the Task Details Form changes, when a task is split by manipulating its task bar on the Gantt Chart, when changes are made to outline level or outline number, when a baseline is saved, when a baseline is cleared, when an entire task row is pasted, during resource pool operations, when inserting or removing a subproject, or when changes have been made by using a custom form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

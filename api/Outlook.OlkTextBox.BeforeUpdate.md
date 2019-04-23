@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.BeforeUpdate Event (Outlook)
+title: OlkTextBox.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000083
 f1_keywords:
 - vbaol11.chm1000083
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTextBox.BeforeUpdate
 ms.assetid: bf65f754-abcd-8a0a-53de-2c2ee76d27f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox.BeforeUpdate Event (Outlook)
+# OlkTextBox.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`( `_Cancel_` )
+_expression_.**BeforeUpdate** (_Cancel_)
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when the data in the control is changed through the user interface and is
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation will not be completed and the property bound to the control will not be updated.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation will not be completed and the property bound to the control will not be updated.|
 
 ## Remarks
 
@@ -56,3 +57,4 @@ Canceling this property will revert the control to the current value of the prop
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

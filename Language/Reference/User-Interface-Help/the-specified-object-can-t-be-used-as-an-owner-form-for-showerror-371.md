@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f64e348c-428a-59a2-cae0-3bf16157965f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You must use an appropriate object with the  **Show** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

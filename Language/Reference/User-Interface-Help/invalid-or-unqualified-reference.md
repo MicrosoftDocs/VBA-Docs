@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1736db2c-b554-f11d-aa39-9978a0a09db6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ An [identifier](../../Glossary/vbe-glossary.md#identifier) beginning with a peri
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

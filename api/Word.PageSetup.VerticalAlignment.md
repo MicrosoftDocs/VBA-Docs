@@ -1,5 +1,5 @@
 ---
-title: PageSetup.VerticalAlignment Property (Word)
+title: PageSetup.VerticalAlignment property (Word)
 keywords: vbawd10.chm158400622
 f1_keywords:
 - vbawd10.chm158400622
@@ -8,19 +8,20 @@ api_name:
 - Word.PageSetup.VerticalAlignment
 ms.assetid: d21c70de-2f3a-3a33-df3d-e1b0a89314f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.VerticalAlignment Property (Word)
+# PageSetup.VerticalAlignment property (Word)
 
-Returns or sets the vertical alignment of text on each page in a document or section. Read/write  **[WdVerticalAlignment](Word.WdVerticalAlignment.md)** .
+Returns or sets the vertical alignment of text on each page in a document or section. Read/write  **[WdVerticalAlignment](Word.WdVerticalAlignment.md)**.
 
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Example
@@ -55,3 +56,4 @@ myDoc.PageSetup.VerticalAlignment = wdAlignVerticalJustify
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

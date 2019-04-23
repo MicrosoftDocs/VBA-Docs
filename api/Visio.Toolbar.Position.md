@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Position Property (Visio)
+title: Toolbar.Position property (Visio)
 keywords: vis_sdr.chm13714095
 f1_keywords:
 - vis_sdr.chm13714095
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Position
 ms.assetid: a1642793-7e72-332e-db3c-67438ac62675
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Position Property (Visio)
+# Toolbar.Position property (Visio)
 
 Gets or sets the position of an object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -33,7 +34,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Constants that represent possible  **Position** property values are listed below. They are also declared by the Visio type library in **VisUIBarPosition** .
+Constants that represent possible  **Position** property values are listed below. They are also declared by the Visio type library in **VisUIBarPosition**.
 
 
 
@@ -116,4 +117,4 @@ Sub Position_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

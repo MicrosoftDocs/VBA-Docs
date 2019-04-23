@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFormulas.Creator
 ms.assetid: 23be5a99-984e-1c8b-ceb3-17e101b442d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotFormulas.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
+_expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotFormulas Object](Excel.PivotFormulas.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

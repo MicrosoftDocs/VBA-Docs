@@ -1,5 +1,5 @@
 ---
-title: PresetTextured Method
+title: PresetTextured method (Excel Graph)
 keywords: vbagr10.chm3077629
 f1_keywords:
 - vbagr10.chm3077629
@@ -7,54 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.PresetTextured
 ms.assetid: 4f6abf8c-c09e-6ef8-abb1-0cc643e6458b
-ms.date: 06/08/2017
+ms.date: 04/09/2019
+localization_priority: Normal
 ---
 
 
-# PresetTextured Method
+# PresetTextured method (Excel Graph)
 
 Sets the format of the specified fill to a preset texture.
 
- _expression_. `PresetTextured`( `_PresetTexture_`)
+## Syntax
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+_expression_.**PresetTextured** (_PresetTexture_)
 
- **PresetTexture**Required 
- **MsoPresetTexture**
-. The preset texture for the specified fill.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
-|MsoPresetTexture can be one of these MsoPresetTexture constants.|
-| **msoPresetTextureMixed**|
-| **msoTextureBouquet**|
-| **msoTextureCanvas**|
-| **msoTextureDenim**|
-| **msoTextureGranite**|
-| **msoTextureMediumWood**|
-| **msoTextureOak**|
-| **msoTexturePapyrus**|
-| **msoTexturePinkTissuePaper**|
-| **msoTextureRecycledPaper**|
-| **msoTextureStationery**|
-| **msoTextureWaterDroplets**|
-| **msoTextureWovenMat**|
-| **msoTextureBlueTissuePaper**|
-| **msoTextureBrownMarble**|
-| **msoTextureCork**|
-| **msoTextureFishFossil**|
-| **msoTextureGreenMarble**|
-| **msoTextureNewsprint**|
-| **msoTexturePaperBag**|
-| **msoTextureParchment**|
-| **msoTexturePurpleMesh**|
-| **msoTextureSand**|
-| **msoTextureWalnut**|
-| **msoTextureWhiteMarble**|
+## Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_PresetTexture_ |Required |**[MsoPresetTexture](office.msopresettexture.md)**|The preset texture for the specified fill. Can be one of the **MsoPresetTexture** constants.|
 
 ## Example
 
 This example changes the chart's textured fill format from oak to walnut.
-
 
 ```vb
 With myChart.ChartArea.Fill 
@@ -68,4 +45,4 @@ With myChart.ChartArea.Fill
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

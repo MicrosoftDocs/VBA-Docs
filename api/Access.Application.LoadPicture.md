@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.Application.LoadPicture
 ms.assetid: d7e64367-c8f2-22c3-6e6e-18eaae9ed07a
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.LoadPicture method (Access)
 
-The  **LoadPicture** method loads a graphic into an ActiveX control.
+The **LoadPicture** method loads a graphic into an ActiveX control.
 
 
 ## Syntax
 
-_expression_. `LoadPicture`( ` _FileName_` )
+_expression_.**LoadPicture** (_FileName_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,7 +37,7 @@ Object
 
 ## Remarks
 
-Assign the return value of the  **LoadPicture** method to the **Picture** property of an ActiveX control to dynamically load a graphic into the control. The following example loads a bitmap into a control called OLECustomControl on an Orders form:
+Assign the return value of the **LoadPicture** method to the **Picture** property of an ActiveX control to dynamically load a graphic into the control. The following example loads a bitmap into a control called OLECustomControl on an Orders form:
 
 
 ```vb
@@ -46,12 +45,10 @@ Set Forms!Orders!OLECustomControl.Picture = _
  LoadPicture("Stars.bmp")
 ```
 
-
- **Note**  You can't use the  **LoadPicture** method to set the **Picture** property of an image control. This method works with ActiveX controls only. To set the **Picture** property of an image control, simply assign to it a string specifying the file name and path of the desired graphic.
-
-
-## See also
+> [!NOTE] 
+> You can't use the **LoadPicture** method to set the **Picture** property of an image control. This method works with ActiveX controls only. To set the **Picture** property of an image control, simply assign to it a string specifying the file name and path of the desired graphic.
 
 
-[Application Object](Access.Application.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

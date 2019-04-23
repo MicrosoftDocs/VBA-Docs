@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IntRate Method (Excel)
+title: WorksheetFunction.IntRate method (Excel)
 keywords: vbaxl10.chm137310
 f1_keywords:
 - vbaxl10.chm137310
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.IntRate
 ms.assetid: cf5c96e2-6f5e-dcaa-7682-fd925c76d2c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IntRate Method (Excel)
+# WorksheetFunction.IntRate method (Excel)
 
 Returns the interest rate for a fully invested security.
 
 
 ## Syntax
 
- _expression_. `IntRate`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `IntRate`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -76,3 +77,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Progress Event (Outlook)
+title: SyncObject.Progress event (Outlook)
 keywords: vbaol11.chm112
 f1_keywords:
 - vbaol11.chm112
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SyncObject.Progress
 ms.assetid: 605c0243-45c1-94d9-8356-b31bb1d0d3e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject.Progress Event (Outlook)
+# SyncObject.Progress event (Outlook)
 
 Occurs periodically while Microsoft Outlook is synchronizing a user?s folders using the specified  **Send\Receive** group.
 
 
 ## Syntax
 
- _expression_. `Progress`( `_State_` , `_Description_` , `_Value_` , `_Max_` )
+_expression_. `Progress`( `_State_` , `_Description_` , `_Value_` , `_Max_` )
 
- _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

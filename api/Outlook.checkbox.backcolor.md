@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: c0c3a00c-2679-68fb-6a4e-6f8bb9946694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -32,4 +33,4 @@ RGB(15,200,75)
 
 You can only see the background color of an object if the  **[BackStyle](Outlook.checkbox.backstyle.md)** property is set to 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

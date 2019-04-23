@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.PTCondition
 ms.assetid: 23639e6f-4f78-8061-cd61-9a70a12fd953
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 ## Syntax
 
- _expression_. `PTCondition`
+_expression_.**PTCondition**
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Player Method (PowerPoint)
+title: SlideShowView.Player method (PowerPoint)
 keywords: vbapp10.chm513032
 f1_keywords:
 - vbapp10.chm513032
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.Player
 ms.assetid: d7bb6b02-516b-07bb-42b4-ae245ce20262
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.Player Method (PowerPoint)
+# SlideShowView.Player method (PowerPoint)
 
 Allows access to playback controls for the associated view in the current window.
 
 
 ## Syntax
 
- _expression_. `Player`( `_ShapeId_` )
+_expression_. `Player`( `_ShapeId_` )
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -41,3 +42,4 @@ Player
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

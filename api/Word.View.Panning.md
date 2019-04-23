@@ -1,5 +1,5 @@
 ---
-title: View.Panning Property (Word)
+title: View.Panning property (Word)
 keywords: vbawd10.chm161808439
 f1_keywords:
 - vbawd10.chm161808439
@@ -8,17 +8,18 @@ api_name:
 - Word.View.Panning
 ms.assetid: 04625c86-146a-ece3-369a-bbe81af45aec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Panning Property (Word)
+# View.Panning property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word is in Panning mode. Read/write.
 
 
 ## Syntax
 
- _expression_. `Panning`
+_expression_. `Panning`
 
  _expression_ An expression that returns a [View](./Word.View.md) object.
 
@@ -33,3 +34,4 @@ Panning mode changes the mouse pointer to a hand and enables the user to press a
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

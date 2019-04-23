@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.XSLTransforms Property (Word)
+title: XMLNamespace.XSLTransforms property (Word)
 keywords: vbawd10.chm2293765
 f1_keywords:
 - vbawd10.chm2293765
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLNamespace.XSLTransforms
 ms.assetid: 854900ad-74cc-ee1f-5e64-c42a2a439698
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNamespace.XSLTransforms Property (Word)
+# XMLNamespace.XSLTransforms property (Word)
 
 Returns an XSLTransforms collection that represents the Extensible Stylesheet Language Transformation (XSLT) files specified for use with a schema.
 
 
 ## Syntax
 
- _expression_. `XSLTransforms`
+_expression_. `XSLTransforms`
 
  _expression_ An expression that returns an '[XMLNamespace](Word.XMLNamespace.md)' object.
 
@@ -46,3 +47,4 @@ Set objTransform = objSchema.XSLTransforms _
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

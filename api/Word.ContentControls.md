@@ -1,14 +1,15 @@
 ---
-title: ContentControls Object (Word)
+title: ContentControls object (Word)
 ms.prod: word
 api_name:
 - Word.ContentControls
 ms.assetid: 2595eea9-df68-edce-3a51-069cad14bb87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControls Object (Word)
+# ContentControls object (Word)
 
 A collection of  **[ContentControl](Word.ContentControl.md)** objects. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain content such as dates, lists, or paragraphs of formatted text.
 
@@ -76,7 +77,7 @@ Use the  **ContentControl** object to work with individual content controls. For
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.ContentControls.Add.md)|
 |[Item](Word.ContentControls.Item.md)|
@@ -85,7 +86,7 @@ Use the  **ContentControl** object to work with individual content controls. For
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ContentControls.Application.md)|
 |[Count](Word.ContentControls.Count.md)|
@@ -95,4 +96,6 @@ Use the  **ContentControl** object to work with individual content controls. For
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

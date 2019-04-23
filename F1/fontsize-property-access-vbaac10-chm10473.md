@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 823917a3-1907-4197-bb19-45f2702c5db6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.FontSize property (Access)](http://msdn.microsoft.com/library/3ceff45a-fe5d-f692-7ad3-ab20143e12fc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

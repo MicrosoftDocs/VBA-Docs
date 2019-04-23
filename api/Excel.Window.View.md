@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.View
 ms.assetid: 604ea4f4-8268-9939-cac3-2e082a2c4831
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.View property (Excel)
 
-Returns or sets the view showing in the window. Read/write  **[XlWindowView](Excel.XlWindowView.md)** .
+Returns or sets the view showing in the window. Read/write  **[XlWindowView](Excel.XlWindowView.md)**.
 
 
 ## Syntax
 
- _expression_. `View`
+_expression_. `View`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Returns or sets the view showing in the window. Read/write  **[XlWindowView](Exc
 
 
 
-| **XlWindowView** can be one of these **XlWindowView** constants.|
+| **xlWindowView** can be one of these **xlWindowView** constants.|
 | **xlNormalView**|
 | **xlPageBreakPreview**|
 | **xlPageLayoutView**|
@@ -49,3 +50,4 @@ ActiveWindow.View = xlPageBreakPreview
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

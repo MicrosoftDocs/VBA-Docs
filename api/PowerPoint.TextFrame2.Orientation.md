@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Orientation Property (PowerPoint)
+title: TextFrame2.Orientation property (PowerPoint)
 keywords: vbapp10.chm678006
 f1_keywords:
 - vbapp10.chm678006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame2.Orientation
 ms.assetid: 713ce09e-575a-c1be-b60b-67884cb76673
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.Orientation Property (PowerPoint)
+# TextFrame2.Orientation property (PowerPoint)
 
  Returns or sets text orientation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -73,3 +74,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

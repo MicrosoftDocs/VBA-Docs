@@ -1,5 +1,5 @@
 ---
-title: Font.Reset Method (Publisher)
+title: Font.Reset method (Publisher)
 keywords: vbapb10.chm5373993
 f1_keywords:
 - vbapb10.chm5373993
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Reset
 ms.assetid: 7a81d7f9-4db9-3ce1-188d-2b4719b57fff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Reset Method (Publisher)
+# Font.Reset method (Publisher)
 
 Removes manual paragraph or text formatting from the specified object and leaves only the formatting specified by the current text style.
 
 
 ## Syntax
 
- _expression_. **Reset**
+_expression_.**Reset**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -48,4 +49,4 @@ ActiveDocument.Pages(1).Shapes(1) _
  .TextFrame.TextRange.ParagraphFormat.Reset
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

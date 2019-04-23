@@ -1,5 +1,5 @@
 ---
-title: Cell.Stat Property (Visio)
+title: Cell.Stat property (Visio)
 keywords: vis_sdr.chm10114420
 f1_keywords:
 - vis_sdr.chm10114420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.Stat
 ms.assetid: 9421a8f1-8cc1-2e29-b145-958908a3efe9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Stat Property (Visio)
+# Cell.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

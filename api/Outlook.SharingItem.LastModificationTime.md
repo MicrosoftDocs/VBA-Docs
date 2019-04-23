@@ -1,5 +1,5 @@
 ---
-title: SharingItem.LastModificationTime Property (Outlook)
+title: SharingItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm610
 f1_keywords:
 - vbaol11.chm610
@@ -8,24 +8,25 @@ api_name:
 - Outlook.SharingItem.LastModificationTime
 ms.assetid: 32c8193a-3c40-40a7-08d1-b9e72f958999
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.LastModificationTime Property (Outlook)
+# SharingItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the **[SharingItem](Outlook.SharingItem.md)** was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

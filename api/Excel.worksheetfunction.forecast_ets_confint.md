@@ -1,24 +1,25 @@
 ---
-title: WorksheetFunction.Forecast_ETS_ConfInt Method (Excel)
+title: WorksheetFunction.Forecast_ETS_ConfInt method (Excel)
 keywords: vbaxl10.chm137469
 f1_keywords:
 - vbaxl10.chm137469
 ms.assetid: 23d6cb35-58c8-6ef0-ed4f-5c693974ccd2
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Forecast_ETS_ConfInt Method (Excel)
+# WorksheetFunction.Forecast_ETS_ConfInt method (Excel)
 
 Returns a confidence interval for the forecast value at the specified target date.
 
 
 ## Syntax
 
- _expression_. `Forecast_ETS_ConfInt`( _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_,  _Arg5_,  _Arg6_,  _Arg7_)
+_expression_. `Forecast_ETS_ConfInt`( _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_,  _Arg5_,  _Arg6_,  _Arg7_)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -27,12 +28,12 @@ Returns a confidence interval for the forecast value at the specified target dat
 
 |||||
 | _Arg1_|Required|DOUBLE|Target Date: the data point for which you want to predict a value. Target date can be date/time or numeric. See Remarks.|
-| _Arg2_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg3_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
-| _Arg4_|Optional|VARIANT|Confidence level: A numerical value between 0 and 1 (exclusive), indicating a confidence level for the calculated confidence interval. See Remarks.|
-| _Arg5_|Optional|VARIANT|Seasonality: A numeric value. See Remarks.|
-| _Arg6_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS_ConfInt** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
-| _Arg7_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS_ConfInt** aggregates multiple points that have the same time stamp. See Remarks.|
+| _Arg2_|Required|**Variant**|Values: the historical values, for which you want to forecast the next points.|
+| _Arg3_|Required|**Variant**|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg4_|Optional|**Variant**|Confidence level: A numerical value between 0 and 1 (exclusive), indicating a confidence level for the calculated confidence interval. See Remarks.|
+| _Arg5_|Optional|**Variant**|Seasonality: A numeric value. See Remarks.|
+| _Arg6_|Optional|**Variant**|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS_ConfInt** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
+| _Arg7_|Optional|**Variant**|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS_ConfInt** aggregates multiple points that have the same time stamp. See Remarks.|
 
 ## Return value
 
@@ -59,3 +60,4 @@ The aggregation parameter ( _Arg7_) is a numeric value specifying the method to 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

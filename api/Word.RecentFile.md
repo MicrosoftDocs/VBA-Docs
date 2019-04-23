@@ -1,5 +1,5 @@
 ---
-title: RecentFile Object (Word)
+title: RecentFile object (Word)
 keywords: vbawd10.chm2404
 f1_keywords:
 - vbawd10.chm2404
@@ -8,10 +8,11 @@ api_name:
 - Word.RecentFile
 ms.assetid: c8d7a06d-c340-2d35-d4a9-5d0cd4a07aab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFile Object (Word)
+# RecentFile object (Word)
 
 Represents a recently used file. The  **RecentFile** object is a member of the **[RecentFiles](Word.recentfiles.md)** collection.
 
@@ -47,6 +48,6 @@ The  **SaveAs** and **Open** methods include an AddToRecentFiles argument that c
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

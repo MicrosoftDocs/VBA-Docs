@@ -1,5 +1,5 @@
 ---
-title: CheckBox Object (Word)
+title: CheckBox object (Word)
 keywords: vbawd10.chm2342
 f1_keywords:
 - vbawd10.chm2342
@@ -8,10 +8,11 @@ api_name:
 - Word.CheckBox
 ms.assetid: e72b57b7-0328-9e78-94ca-ab7fb3c64afb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CheckBox Object (Word)
+# CheckBox object (Word)
 
 Represents a single check box form field.
 
@@ -69,7 +70,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.CheckBox.Application.md)|
 |[AutoSize](Word.CheckBox.AutoSize.md)|
@@ -83,4 +84,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

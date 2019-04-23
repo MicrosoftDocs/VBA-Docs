@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b03d5ffb-af9b-4199-9204-c11d272f8257
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.FontItalic property (Access)](http://msdn.microsoft.com/library/a82d5e83-b892-a006-e68a-cda3c2c82d1d%28Office.15%29.aspx)
 [Form.DatasheetFontItalic property (Access)](http://msdn.microsoft.com/library/32fe51fa-ee36-2fc3-bb72-e61a4b43c19c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

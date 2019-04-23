@@ -1,5 +1,5 @@
 ---
-title: Document.PublicationType Property (Publisher)
+title: Document.PublicationType property (Publisher)
 keywords: vbapb10.chm196736
 f1_keywords:
 - vbapb10.chm196736
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.PublicationType
 ms.assetid: 264c2769-2452-0009-4853-84a6a426db38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PublicationType Property (Publisher)
+# Document.PublicationType property (Publisher)
 
 Returns a  **PbPublicationType** constant that represents the type of the specified publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **PublicationType**
+_expression_.**PublicationType**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -52,4 +53,4 @@ Sub ChangePublicationType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

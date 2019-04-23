@@ -8,19 +8,20 @@ api_name:
 - Excel.ValueChange.Creator
 ms.assetid: a1d10479-e30d-c0b2-a521-8910c5b6256e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ValueChange.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

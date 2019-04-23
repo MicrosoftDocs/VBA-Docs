@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ShowCard
 ms.date: 09/12/2018
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ For a cell containing a Linked data type such as [Stocks or Geography](https://s
 
 ## Syntax
 
- _expression_. `ShowCard`
+_expression_. `ShowCard`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 ## Remarks
 
@@ -39,3 +40,5 @@ Range("E5").ShowCard
 - [Range.DataTypeToText](Excel.Range.DataTypeToText.md)
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

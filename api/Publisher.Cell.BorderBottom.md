@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderBottom Property (Publisher)
+title: Cell.BorderBottom property (Publisher)
 keywords: vbapb10.chm5111811
 f1_keywords:
 - vbapb10.chm5111811
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.BorderBottom
 ms.assetid: 78892893-a1c9-5151-fb7b-1449c01e0bd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.BorderBottom Property (Publisher)
+# Cell.BorderBottom property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the bottom border for a specified table cell.
 
 
 ## Syntax
 
- _expression_. **BorderBottom**
+_expression_.**BorderBottom**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -77,4 +78,4 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

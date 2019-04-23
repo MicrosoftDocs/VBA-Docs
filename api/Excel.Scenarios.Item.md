@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Item Method (Excel)
+title: Scenarios.Item method (Excel)
 keywords: vbaxl10.chm362076
 f1_keywords:
 - vbaxl10.chm362076
@@ -8,19 +8,20 @@ api_name:
 - Excel.Scenarios.Item
 ms.assetid: 6ed4b582-bd9c-5d18-f3ed-fc3b7b5a1580
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Scenarios.Item Method (Excel)
+# Scenarios.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
+_expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Worksheets("options").Scenarios.Item("typical").Show
 
 [Scenarios Object](Excel.Scenarios.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

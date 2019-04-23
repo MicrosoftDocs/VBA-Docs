@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Active Property (PowerPoint)
+title: DocumentWindow.Active property (PowerPoint)
 keywords: vbapp10.chm511008
 f1_keywords:
 - vbapp10.chm511008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.Active
 ms.assetid: bd68b587-0811-7f40-c0da-741e2305594b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.Active Property (PowerPoint)
+# DocumentWindow.Active property (PowerPoint)
 
 Returns whether the specified pane or window is active. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_.**Active**
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value returned by the  **Active** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified pane or window is inactive.|
 |**msoTrue**| The specified pane or window is active.|
@@ -65,3 +66,4 @@ End With
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

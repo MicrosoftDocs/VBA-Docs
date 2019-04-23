@@ -1,5 +1,5 @@
 ---
-title: Document.Styles Property (Word)
+title: Document.Styles property (Word)
 keywords: vbawd10.chm158007318
 f1_keywords:
 - vbawd10.chm158007318
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Styles
 ms.assetid: 30784574-92d1-a2fa-1032-6e1f8bb79ccf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Styles Property (Word)
+# Document.Styles property (Word)
 
 Returns a  **[Styles](Word.styles.md)** collection for the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Styles`
+_expression_. `Styles`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -62,3 +63,4 @@ ActiveDocument.UpdateStyles
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

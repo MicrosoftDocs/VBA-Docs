@@ -1,5 +1,5 @@
 ---
-title: Range.ShowAll Property (Word)
+title: Range.ShowAll property (Word)
 keywords: vbawd10.chm157155736
 f1_keywords:
 - vbawd10.chm157155736
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.ShowAll
 ms.assetid: 751077ec-5ea4-c60a-ac92-d8a5a3c13620
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ShowAll Property (Word)
+# Range.ShowAll property (Word)
 
- **True** if all nonprinting characters (such as hidden text, tab marks, space marks, and paragraph marks) are displayed. Read/write **Boolean** .
+ **True** if all nonprinting characters (such as hidden text, tab marks, space marks, and paragraph marks) are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowAll`
+_expression_. `ShowAll`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

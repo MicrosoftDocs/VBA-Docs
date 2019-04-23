@@ -3,6 +3,7 @@ title: How To
 ms.prod: outlook
 ms.assetid: e19b61d9-18c7-48df-9902-efee93c2da77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,5 +27,5 @@ ms.date: 06/08/2017
 -  [Search the Calendar for Appointments Within a Date Range that Contain a Specific Word in the Subject](../../How-to/Search-and-Filter/search-the-calendar-for-appointments-within-a-date-range-that-contain-a-specific.md)
     
 -  [Search and Obtain Items in an Aggregated View (Outlook)](../../How-to/Search-and-Filter/search-and-obtain-items-in-an-aggregated-view-outlook.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsCalculation Method (Project)
+title: Application.OptionsCalculation method (Project)
 keywords: vbapj.chm606
 f1_keywords:
 - vbapj.chm606
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.OptionsCalculation
 ms.assetid: 608d5bd2-eb6b-0e3c-789a-c376ee55816d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OptionsCalculation Method (Project)
+# Application.OptionsCalculation method (Project)
 
 Sets calculation options.
 
 
 ## Syntax
 
- _expression_. `OptionsCalculation`( ` _Automatic_`, ` _AutoTrack_`, ` _SpreadPercentToStatusDate_`, ` _SpreadCostsToStatusDate_`, ` _AutoCalcCosts_`, ` _FixedCostAccrual_`, ` _CalcMultipleCriticalPaths_`, ` _CriticalSlack_`, ` _SetDefaults_`, ` _CalcInsProjLikeSummTask_`, ` _MoveCompleted_`, ` _AndMoveRemaining_`, ` _MoveRemaining_`, ` _AndMoveCompleted_`, ` _EVMethod_`, ` _EVBaseline_` )
+_expression_. `OptionsCalculation`( `_Automatic_`, `_AutoTrack_`, `_SpreadPercentToStatusDate_`, `_SpreadCostsToStatusDate_`, `_AutoCalcCosts_`, `_FixedCostAccrual_`, `_CalcMultipleCriticalPaths_`, `_CriticalSlack_`, `_SetDefaults_`, `_CalcInsProjLikeSummTask_`, `_MoveCompleted_`, `_AndMoveRemaining_`, `_MoveRemaining_`, `_AndMoveCompleted_`, `_EVMethod_`, `_EVBaseline_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -57,6 +58,4 @@ If an argument is omitted, its default value is specified by the setting on the 
 
 Using the  **OptionsCalculation** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

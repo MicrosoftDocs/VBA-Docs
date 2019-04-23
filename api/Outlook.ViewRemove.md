@@ -1,5 +1,5 @@
 ---
-title: Views.ViewRemove Event (Outlook)
+title: Views.ViewRemove event (Outlook)
 keywords: vbaol11.chm552
 f1_keywords:
 - vbaol11.chm552
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewRemove
 ms.assetid: a0d405fd-aa57-c333-8e33-aa482019d9c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Views.ViewRemove Event (Outlook)
+# Views.ViewRemove event (Outlook)
 
 Occurs when a view has been removed from the specified collection.
 
 
 ## Syntax
 
- _expression_. `ViewRemove`( `_View_` )
+_expression_. `ViewRemove`( `_View_` )
 
- _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
+_expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 
 ## Parameters
@@ -50,4 +51,4 @@ Sub objViews_ViewRemove(ByVal View As View)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

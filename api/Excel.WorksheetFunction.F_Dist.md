@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.F_Dist Method (Excel)
+title: WorksheetFunction.F_Dist method (Excel)
 keywords: vbaxl10.chm137402
 f1_keywords:
 - vbaxl10.chm137402
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.F_Dist
 ms.assetid: 7b18fd63-120f-fddf-a20a-00d4182778a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.F_Dist Method (Excel)
+# WorksheetFunction.F_Dist method (Excel)
 
 Returns the F probability distribution.
 
 
 ## Syntax
 
- _expression_. `F_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `F_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

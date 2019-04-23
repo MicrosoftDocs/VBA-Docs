@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c115307b-fe7a-4dbc-a2a9-dbc0172e7408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.SizeToFit method (Access)](http://msdn.microsoft.com/library/17289703-1943-2499-48c5-f34f200fd304%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

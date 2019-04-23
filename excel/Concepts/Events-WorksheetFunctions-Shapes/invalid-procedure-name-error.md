@@ -1,23 +1,20 @@
 ---
-title: Invalid Procedure Name Error
+title: Invalid procedure name error
 keywords: vblr6.chm50096
 f1_keywords:
 - vblr6.chm50096
 ms.prod: excel
 ms.assetid: ee1e4570-7671-46c5-ba40-98c3f6953d48
-ms.date: 06/08/2017
+ms.date: 11/13/2018
+localization_priority: Normal
 ---
 
 
-# Invalid Procedure Name Error
-
-
-## Invalid Procedure Name error
+# Invalid procedure name error
 
 You have either specified an invalid procedure name or did not include a procedure name when you attempted to create the procedure.
 
 Valid macro names:
-
 
 - Must begin with a letter.
     
@@ -30,3 +27,8 @@ Valid macro names:
 - Cannot conflict with the reserved identifiers or keywords for a program, such as the word "print".
     
 
+## See also
+
+- [Excel functions (by category)](https://support.office.com/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

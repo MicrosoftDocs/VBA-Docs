@@ -1,20 +1,21 @@
 ---
-title: Application.CopyReport Method (Project)
+title: Application.CopyReport method (Project)
 keywords: vbapj.chm141
 f1_keywords:
 - vbapj.chm141
 ms.prod: project-server
 ms.assetid: 9f1e59d5-a2a5-4c8f-1c01-b1c63046558d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CopyReport Method (Project)
+# Application.CopyReport method (Project)
 Makes a copy of the active report to the clipboard.
 
 ## Syntax
 
- _expression_. `CopyReport`
+_expression_. `CopyReport`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -62,3 +63,5 @@ If you use the  **CopyReport** method on a view that is not supported, Project s
 
 
 [Reports.Item](Project.reports.item.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

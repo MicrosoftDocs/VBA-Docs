@@ -1,5 +1,5 @@
 ---
-title: Range.InsertParagraphAfter Method (Word)
+title: Range.InsertParagraphAfter method (Word)
 keywords: vbawd10.chm157155489
 f1_keywords:
 - vbawd10.chm157155489
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.InsertParagraphAfter
 ms.assetid: 87c0a373-e066-5e53-7b50-e059a1a81b7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InsertParagraphAfter Method (Word)
+# Range.InsertParagraphAfter method (Word)
 
 Inserts a paragraph mark after a range.
 
 
 ## Syntax
 
- _expression_. `InsertParagraphAfter`
+_expression_. `InsertParagraphAfter`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ ActiveDocument.Content.InsertParagraphAfter
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 1669a6be-11e6-e1fa-ed0a-fef554884342
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The GROUP BY clause of an SQL statement cannot include Memo or OLE Object fields
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

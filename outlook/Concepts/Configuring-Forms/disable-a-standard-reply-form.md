@@ -3,6 +3,7 @@ title: Disable a Standard Reply Form
 ms.prod: outlook
 ms.assetid: b1a3f8fc-6400-9ae8-dab2-a4875ccaf92b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,5 +17,5 @@ Use this procedure to customize a form page in Microsoft Outlook. To customize a
 2. Click the action that you want to modify, and then click  **Properties**. 
     
 3. Clear the  **Enabled** check box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

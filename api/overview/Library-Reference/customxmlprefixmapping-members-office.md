@@ -2,7 +2,8 @@
 title: CustomXMLPrefixMapping members (Office)
 ms.prod: office
 ms.assetid: c06ef133-3b0d-d1b3-f488-bc46a49018d4
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents a namespace prefix.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLPrefixMapping.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLPrefixMapping** object. Read-only.|
 |[Creator](../../Office.CustomXMLPrefixMapping.Creator.md)|Gets a 32-bit integer that indicates the application in which the **CustomXMLPrefixMapping** object was created. Read-only.|
@@ -21,3 +22,4 @@ Represents a namespace prefix.
 |[Parent](../../Office.CustomXMLPrefixMapping.Parent.md)|Gets the **Parent** object of the **CustomXMLPrefixMapping** object. Read-only.|
 |[Prefix](../../Office.CustomXMLPrefixMapping.Prefix.md)|Gets the prefix for a **CustomXMLPrefixMapping** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

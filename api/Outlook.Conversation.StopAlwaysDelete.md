@@ -1,5 +1,5 @@
 ---
-title: Conversation.StopAlwaysDelete Method (Outlook)
+title: Conversation.StopAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3432
 f1_keywords:
 - vbaol11.chm3432
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.StopAlwaysDelete
 ms.assetid: c759c9c8-bc43-ad5e-954c-88494c3dc4a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.StopAlwaysDelete Method (Outlook)
+# Conversation.StopAlwaysDelete method (Outlook)
 
 Stops the action of always moving conversation items in the specified store to the Deleted Items folder in that store.
 
 
 ## Syntax
 
- _expression_. `StopAlwaysDelete`( `_Store_` )
+_expression_. `StopAlwaysDelete`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -37,7 +38,7 @@ If the always-delete action has not been turned on,  **StopAlwaysDelete** does n
 
 If the always-delete action has been turned on (by calling the [SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md) method, **StopAlwaysDelete** moves existing conversation items in the Deleted Items folder to the Inbox.
 
-After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method on that conversation and store returns the constant **olDoNotDelete** .
+After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method on that conversation and store returns the constant **olDoNotDelete**.
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the stop-always-delete action is applied to conversation items in the default delivery store.
 
@@ -73,3 +74,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

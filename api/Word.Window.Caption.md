@@ -1,5 +1,5 @@
 ---
-title: Window.Caption Property (Word)
+title: Window.Caption property (Word)
 keywords: vbawd10.chm157417472
 f1_keywords:
 - vbawd10.chm157417472
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.Caption
 ms.assetid: 8d8df29a-7d32-65c8-a714-a356d06b0969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Caption Property (Word)
+# Window.Caption property (Word)
 
-Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write  **String** .
+Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
@@ -88,3 +89,4 @@ End If
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

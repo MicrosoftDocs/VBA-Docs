@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveToSubprocess Method (Visio)
+title: Selection.MoveToSubprocess method (Visio)
 keywords: vis_sdr.chm11162210
 f1_keywords:
 - vis_sdr.chm11162210
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.MoveToSubprocess
 ms.assetid: a61f1e93-06a3-6ddc-8cae-f92212078c96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveToSubprocess Method (Visio)
+# Selection.MoveToSubprocess method (Visio)
 
 Moves the selection to the specified page, and drops a replacement shape on the source page and links it to the target page. Returns the selection of moved shapes on the target page.
 
 
 ## Syntax
 
- _expression_. `MoveToSubprocess`( `_Page_` , `_ObjectToDrop_` , `_NewShape_` )
+_expression_. `MoveToSubprocess`( `_Page_` , `_ObjectToDrop_` , `_NewShape_` )
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
@@ -42,4 +43,4 @@ Moves the selection to the specified page, and drops a replacement shape on the 
 
 The  _ObjectToDrop_ parameter is typically a Microsoft Visio object, such as a **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object. However, it can be any OLE object that provides an **IDataObject** interface. If _ObjectToDrop_ is null, Visio drops a default shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

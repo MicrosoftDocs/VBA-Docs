@@ -1,5 +1,5 @@
 ---
-title: Workbook.LinkSources Method (Excel)
+title: Workbook.LinkSources method (Excel)
 keywords: vbaxl10.chm199109
 f1_keywords:
 - vbaxl10.chm199109
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.LinkSources
 ms.assetid: 6466bea0-5af8-7af0-e9d7-7595133073ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.LinkSources Method (Excel)
+# Workbook.LinkSources method (Excel)
 
 Returns an array of links in the workbook. The names in the array are the names of the linked documents, editions, or DDE or OLE servers. Returns  **Empty** if there are no links.
 
 
 ## Syntax
 
- _expression_. `LinkSources`( `_Type_` )
+_expression_. `LinkSources`( `_Type_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

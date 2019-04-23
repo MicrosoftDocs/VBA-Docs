@@ -1,5 +1,5 @@
 ---
-title: Project.GetWinprojURLs Method (Project)
+title: Project.GetWinprojURLs method (Project)
 keywords: vbapj.chm131098
 f1_keywords:
 - vbapj.chm131098
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.GetWinprojURLs
 ms.assetid: 4ea8b044-9397-d17f-b057-d39105d83cf8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.GetWinprojURLs Method (Project)
+# Project.GetWinprojURLs method (Project)
 
 Returns the various URLs associated with the active enterprise project as an XML string.
 
 
 ## Syntax
 
- _expression_. `GetWinprojURLs`
+_expression_. `GetWinprojURLs`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -116,4 +117,4 @@ The following is an example of the XML schema definition.
 </xs:schema>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

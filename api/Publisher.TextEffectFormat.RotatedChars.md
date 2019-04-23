@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.RotatedChars Property (Publisher)
+title: TextEffectFormat.RotatedChars property (Publisher)
 keywords: vbapb10.chm3735817
 f1_keywords:
 - vbapb10.chm3735817
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextEffectFormat.RotatedChars
 ms.assetid: 47566497-7b78-65dc-48d9-26b2e4245d31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.RotatedChars Property (Publisher)
+# TextEffectFormat.RotatedChars property (Publisher)
 
  **msoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **msoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **RotatedChars**
+_expression_.**RotatedChars**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
@@ -51,4 +52,4 @@ Sub CreateFormatWordArt()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

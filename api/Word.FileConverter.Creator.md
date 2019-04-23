@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Creator Property (Word)
+title: FileConverter.Creator property (Word)
 keywords: vbawd10.chm161022953
 f1_keywords:
 - vbawd10.chm161022953
@@ -8,19 +8,20 @@ api_name:
 - Word.FileConverter.Creator
 ms.assetid: c8015ff2-a16a-19c9-25b7-dd16fcf7220b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.Creator Property (Word)
+# FileConverter.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
+_expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [FileConverter Object](Word.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

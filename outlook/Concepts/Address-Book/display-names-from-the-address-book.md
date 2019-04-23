@@ -3,6 +3,7 @@ title: Display Names from the Address Book
 ms.prod: outlook
 ms.assetid: 32e7179c-8133-ee20-ecf6-52c9275f205f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -14,7 +15,7 @@ Outlook maintains a hierarchy of address books for a session. In order for the t
 
 An address book contains one or more address lists. Each address list is composed of users, distribution lists, or other types of address entries. An example of an address list is the Exchange Global Address List. In the Outlook user interface, you can open the Address Book dialog box to view and select names in an address list. When you create a mail item or appointment item, or when you assign a task item, you can use the Address Book to help you select recipients. 
 
-The Outlook Address Book is an address list or a set of address lists that Outlook creates automatically. By default, it contains one address list for the contacts in your Contacts folder that have at least one e-mail address or fax number entry. As you create other folders in the Contacts module, by default, each folder will also become an address list in the Outlook Address Book. In the  **Outlook Address Book** tab of the **Properties** dialog box for the folder, you can select or de-select **Show this folder as an e-mail address book**.
+The Outlook Address Book is an address list or a set of address lists that Outlook creates automatically. By default, it contains one address list for the contacts in your Contacts folder that have at least one email address or fax number entry. As you create other folders in the Contacts module, by default, each folder will also become an address list in the Outlook Address Book. In the  **Outlook Address Book** tab of the **Properties** dialog box for the folder, you can select or de-select **Show this folder as an email address book**.
 
 From the programmability perspective, Outlook maintains a collection of  **[AddressLists](../../../api/Outlook.AddressLists.md)** for the current session. Each **[AddressList](../../../api/Outlook.AddressList.md)** consists of a collection of **[AddressEntries](../../../api/Outlook.AddressEntries.md)**. There are different types of address lists (as enumerated by  **[OlAddressListType](../../../api/Outlook.OlAddressListType.md)**) and different types of address entries (as enumerated by  **[OlAddressEntryUserType](../../../api/Outlook.OlAddressEntryUserType.md)**). When you add a folder to the Contacts module, you can use  **[Folder.ShowAsOutlookAB](../../../api/Outlook.Folder.ShowAsOutlookAB.md)** to specify whether that folder will be displayed as an address list in the Outlook Address Book.
 
@@ -66,3 +67,4 @@ To display the dialog box with names from an address list:
 
  [How to: Identify the Global Address List or a Set of Address Lists with a Store](identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

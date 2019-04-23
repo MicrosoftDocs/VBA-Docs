@@ -1,5 +1,5 @@
 ---
-title: Account.AutoDiscoverXml Property (Outlook)
+title: Account.AutoDiscoverXml property (Outlook)
 keywords: vbaol11.chm3422
 f1_keywords:
 - vbaol11.chm3422
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Account.AutoDiscoverXml
 ms.assetid: 201c5aba-5cff-0934-a750-b4ac0cb30860
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Account.AutoDiscoverXml Property (Outlook)
+# Account.AutoDiscoverXml property (Outlook)
 
 Returns a  **String** that represents information in XML retrieved from the auto-discovery service of the Microsoft Exchange Server that is associated with the account. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoDiscoverXml`
+_expression_. `AutoDiscoverXml`
 
- _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
+_expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ An error is returned if the account is not associated with an Exchange Server th
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

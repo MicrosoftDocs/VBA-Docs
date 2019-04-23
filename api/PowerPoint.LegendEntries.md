@@ -1,5 +1,5 @@
 ---
-title: LegendEntries Object (PowerPoint)
+title: LegendEntries object (PowerPoint)
 keywords: vbapp10.chm710000
 f1_keywords:
 - vbapp10.chm710000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.LegendEntries
 ms.assetid: ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendEntries Object (PowerPoint)
+# LegendEntries object (PowerPoint)
 
 A collection of all the  **[LegendEntry](PowerPoint.LegendEntry.md)** objects in the specified chart legend.
 
@@ -71,7 +72,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[LegendEntries](PowerPoint.Legend.LegendEntries.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **[LegendEntries](PowerPoint.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend; `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font style for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document to italic.
 
@@ -98,3 +99,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

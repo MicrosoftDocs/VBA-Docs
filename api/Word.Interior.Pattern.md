@@ -1,5 +1,5 @@
 ---
-title: Interior.Pattern Property (Word)
+title: Interior.Pattern property (Word)
 keywords: vbawd10.chm2818054
 f1_keywords:
 - vbawd10.chm2818054
@@ -8,17 +8,18 @@ api_name:
 - Word.Interior.Pattern
 ms.assetid: 5910e6a3-9aaa-7908-aa7d-345bdbabc4de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Interior.Pattern Property (Word)
+# Interior.Pattern property (Word)
 
 Returns or sets a  **Variant** value, containing an **[XlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Interior Object](Word.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PbWizardTag Enumeration (Publisher)
+title: PbWizardTag enumeration (Publisher)
 keywords: vbapb10.chm65604
 f1_keywords:
 - vbapb10.chm65604
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbWizardTag
 ms.assetid: 7fbfdb61-e546-ab6f-3a75-6c5a5c30614f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbWizardTag Enumeration (Publisher)
+# PbWizardTag enumeration (Publisher)
 
 Indicates the function of a specified shape with respect to its publication design. 
 
@@ -52,8 +53,8 @@ Indicates the function of a specified shape with respect to its publication desi
 | **pbWizardTagPageNumber**|1346|Page Number|
 | **pbWizardTagPersonalName**|8|Personal Name|
 | **pbWizardTagPersonalNameGroup**|116|Personal Name Group|
-| **pbWizardTagPhoneFaxEmail**|113|Phone/Fax/E-mail|
-| **pbWizardTagPhoneFaxEmailGroup**|120|Phone/Fax/E-mail Group|
+| **pbWizardTagPhoneFaxEmail**|113|Phone/Fax/Email|
+| **pbWizardTagPhoneFaxEmailGroup**|120|Phone/Fax/Email Group|
 | **pbWizardTagPhoneNumber**|114|Phone Number|
 | **pbWizardTagPhotoPlaceholderFrame**|1134|Photo Placeholder Frame|
 | **pbWizardTagPhotoPlaceholderText**|1135|Photo Placeholder Text|
@@ -77,3 +78,4 @@ Indicates the function of a specified shape with respect to its publication desi
 | **pbWizardTagTagLineGroup**|119|Tag Line Group|
 | **pbWizardTagTime**|1836|Tag Time|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

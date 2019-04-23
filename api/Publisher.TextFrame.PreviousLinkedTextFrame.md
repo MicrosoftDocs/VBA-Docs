@@ -1,5 +1,5 @@
 ---
-title: TextFrame.PreviousLinkedTextFrame Property (Publisher)
+title: TextFrame.PreviousLinkedTextFrame property (Publisher)
 keywords: vbapb10.chm3866656
 f1_keywords:
 - vbapb10.chm3866656
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.PreviousLinkedTextFrame
 ms.assetid: 00947ec3-fcff-4451-491b-5b7748ccb74e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.PreviousLinkedTextFrame Property (Publisher)
+# TextFrame.PreviousLinkedTextFrame property (Publisher)
 
 Returns a  **[TextFrame](Publisher.TextFrame.md)** object representing the text frame from which text flows to the specified text frame.
 
 
 ## Syntax
 
- _expression_. **PreviousLinkedTextFrame**
+_expression_.**PreviousLinkedTextFrame**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -47,4 +48,4 @@ Set txtFrame = ActiveDocument.Pages(1) _
 txtFrame.TextRange.Font = "Times New Roman"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

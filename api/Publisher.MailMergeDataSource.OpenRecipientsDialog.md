@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.OpenRecipientsDialog Method (Publisher)
+title: MailMergeDataSource.OpenRecipientsDialog method (Publisher)
 keywords: vbapb10.chm6291490
 f1_keywords:
 - vbapb10.chm6291490
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.OpenRecipientsDialog
 ms.assetid: 5a0a2b4a-ce23-435c-6e18-f778d6e14fd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.OpenRecipientsDialog Method (Publisher)
+# MailMergeDataSource.OpenRecipientsDialog method (Publisher)
 
 Displays the  **Recipients** dialog box for a mail merge publication.
 
 
 ## Syntax
 
- _expression_. **OpenRecipientsDialog**
+_expression_.**OpenRecipientsDialog**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -34,4 +35,4 @@ Sub ShowRecipientsDialog()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

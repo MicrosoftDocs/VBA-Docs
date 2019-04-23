@@ -1,5 +1,5 @@
 ---
-title: CalendarView.SelectedStartTime Property (Outlook)
+title: CalendarView.SelectedStartTime property (Outlook)
 keywords: vbaol11.chm3313
 f1_keywords:
 - vbaol11.chm3313
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CalendarView.SelectedStartTime
 ms.assetid: e1e376de-606a-83cb-680f-cdbf7a714b73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarView.SelectedStartTime Property (Outlook)
+# CalendarView.SelectedStartTime property (Outlook)
 
 Returns a **Date** that represents the start time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SelectedStartTime`
+_expression_. `SelectedStartTime`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks
@@ -114,3 +115,4 @@ private void CreateAppointmentUsingSelectedTime()
 
 [CalendarView Object](Outlook.CalendarView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

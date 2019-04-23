@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectTaskNew Event (Project)
+title: Application.ProjectTaskNew event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectTaskNew
 ms.assetid: 40e9d8da-f863-a73e-56e9-bb89327142fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectTaskNew Event (Project)
+# Application.ProjectTaskNew event (Project)
 
 Occurs when a new task is created.
 
 
 ## Syntax
 
- _expression_. `ProjectTaskNew`( ` _pj_`, ` _ID_` )
+_expression_. `ProjectTaskNew`( `_pj_`, `_ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -109,7 +110,5 @@ End Sub
 3. Run the  **Initialize_App** procedure to start listening to the events.
     
 4. Create a task. The event handler shows a message box every time a new task is added.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

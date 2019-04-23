@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConnectorFormat Property (Publisher)
+title: ShapeRange.ConnectorFormat property (Publisher)
 keywords: vbapb10.chm2293814
 f1_keywords:
 - vbapb10.chm2293814
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.ConnectorFormat
 ms.assetid: 1a1516bd-ef27-0b37-09dd-45af8a531a76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ConnectorFormat Property (Publisher)
+# ShapeRange.ConnectorFormat property (Publisher)
 
 Returns a  **[ConnectorFormat](Publisher.ConnectorFormat.md)** object that contains connector formatting properties. Applies to  **Shape** or **ShapeRange** objects that represent connectors.
 
 
 ## Syntax
 
- _expression_. **ConnectorFormat**
+_expression_.**ConnectorFormat**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -57,4 +58,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

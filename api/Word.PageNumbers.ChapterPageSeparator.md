@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.ChapterPageSeparator Property (Word)
+title: PageNumbers.ChapterPageSeparator property (Word)
 keywords: vbawd10.chm159776773
 f1_keywords:
 - vbawd10.chm159776773
@@ -8,17 +8,18 @@ api_name:
 - Word.PageNumbers.ChapterPageSeparator
 ms.assetid: f7bd5275-2bb3-fa5f-3a1b-09affa027daf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumbers.ChapterPageSeparator Property (Word)
+# PageNumbers.ChapterPageSeparator property (Word)
 
-Returns or sets the separator character used between the chapter number and the page number. Read/write  **[WdSeparatorType](Word.WdSeparatorType.md)** .
+Returns or sets the separator character used between the chapter number and the page number. Read/write  **[WdSeparatorType](Word.WdSeparatorType.md)**.
 
 
 ## Syntax
 
- _expression_. `ChapterPageSeparator`
+_expression_. `ChapterPageSeparator`
 
  _expression_ An expression that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 
@@ -66,3 +67,4 @@ End With
 
 [PageNumbers Collection Object](Word.pagenumbers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

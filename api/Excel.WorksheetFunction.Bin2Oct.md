@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bin2Oct Method (Excel)
+title: WorksheetFunction.Bin2Oct method (Excel)
 keywords: vbaxl10.chm137271
 f1_keywords:
 - vbaxl10.chm137271
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Bin2Oct
 ms.assetid: 402e5aa3-19a5-4401-c9b0-cf2d231d02bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Bin2Oct Method (Excel)
+# WorksheetFunction.Bin2Oct method (Excel)
 
 Converts a binary number to octal.
 
 
 ## Syntax
 
- _expression_. `Bin2Oct`( `_Arg1_` , `_Arg2_` )
+_expression_. `Bin2Oct`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

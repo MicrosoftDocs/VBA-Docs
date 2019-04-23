@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 11ac8eec-c754-d4e9-373c-84f04355d198
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -67,4 +68,4 @@ Sub FindMultiple()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

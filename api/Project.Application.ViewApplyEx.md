@@ -1,5 +1,5 @@
 ---
-title: Application.ViewApplyEx Method (Project)
+title: Application.ViewApplyEx method (Project)
 keywords: vbapj.chm311
 f1_keywords:
 - vbapj.chm311
@@ -8,16 +8,17 @@ api_name:
 - Project.Application.ViewApplyEx
 ms.assetid: 437ec3b5-d42d-ed79-e8c7-220f797023b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewApplyEx Method (Project)
+# Application.ViewApplyEx method (Project)
 
 Applies a view to the active window, where the change can be one of the built-in views and can be applied to a specified pane in a split view.
 
 ## Syntax
 
-_expression_. **ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_ApplyTo_**, **_BuiltInView_**)
+_expression_.**ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_ApplyTo_**, **_BuiltInView_**)
 
 _expression_ An expression that returns an **Application** object.
 
@@ -34,11 +35,11 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-#### ApplyTo values
+### ApplyTo values
 
 |||
 |:-----|:-----|
-|**Value**|**Description**|
+|Value|Description|
 |0|Primary (usually the top) pane of a split view|
 |1|Secondary (usually the bottom) pane of a split view|
 |4|Active pane|
@@ -75,3 +76,4 @@ Sub ChangeSecondaryToTaskForm()
 End sub
 ```
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeDoubleClick Event (PowerPoint)
+title: Application.WindowBeforeDoubleClick event (PowerPoint)
 keywords: vbapp10.chm621003
 f1_keywords:
 - vbapp10.chm621003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.WindowBeforeDoubleClick
 ms.assetid: 9b270238-1658-df56-4208-9cb98666519c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeDoubleClick Event (PowerPoint)
+# Application.WindowBeforeDoubleClick event (PowerPoint)
 
 Occurs when you double-click the items in the views listed in the following table.
 
 
 ## Syntax
 
- _expression_. `WindowBeforeDoubleClick`( `_Sel_`, `_Cancel_` )
+_expression_. `WindowBeforeDoubleClick`( `_Sel_`, `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
@@ -76,3 +77,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

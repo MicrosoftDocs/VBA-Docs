@@ -1,5 +1,5 @@
 ---
-title: Shape.LayoutInCell Property (Word)
+title: Shape.LayoutInCell property (Word)
 keywords: vbawd10.chm161480849
 f1_keywords:
 - vbawd10.chm161480849
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.LayoutInCell
 ms.assetid: 6a80b806-2a7b-aced-4601-774d8937ee2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LayoutInCell Property (Word)
+# Shape.LayoutInCell property (Word)
 
 Returns a  **Long** that represents whether a shape in a table is displayed inside or outside the table.
 
 
 ## Syntax
 
- _expression_. `LayoutInCell`
+_expression_. `LayoutInCell`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ Returns a  **Long** that represents whether a shape in a table is displayed insi
 The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting.
 
 
- **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone** .
+ **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone**.
 
 
 ## Example
@@ -48,3 +49,4 @@ ActiveDocument.Shapes(1).LayoutInCell = False
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

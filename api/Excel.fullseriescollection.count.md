@@ -6,29 +6,26 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: f871c6fd-6acb-015d-4745-d5b46af7085d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FullSeriesCollection.Count property (Excel)
 
-Returns a  **Long** value that represents the number of[Series Object (Excel)](Excel.Series(object).md) objects in the [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object. Read-only.
+Returns a **Long** value that represents the number of **[Series](Excel.Series(object).md)** objects in the **FullSeriesCollection** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md)object.
+_expression_ A variable that represents a **[FullSeriesCollection](Excel.fullseriescollection.md)** object.
 
 
 ## Property value
 
- **INT32**
-
-
-## See also
+**INT32**
 
 
 
-[FullSeriesCollection Object](Excel.fullseriescollection.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

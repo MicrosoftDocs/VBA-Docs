@@ -1,15 +1,17 @@
 ---
-title: Input and Output Keyword Summary
+title: Input and output keyword summary
 ms.prod: office
 ms.assetid: 5ac43791-945d-3deb-47ff-b970fc9dec15
-ms.date: 06/08/2017
+ms.date: 11/29/2018
+localization_priority: Normal
 ---
 
 
-# Input and Output Keyword Summary
+# Input and output keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Access or create a file.|[Open](open-statement.md)|
 |Close files.|[Close](close-statement.md), [Reset](reset-statement.md)|
@@ -23,3 +25,8 @@ ms.date: 06/08/2017
 |Set read-write position in a file.|[Seek](seek-statement.md)|
 |Write to a file.|[Print #](printstatement.md), [Put](put-statement.md), [Write #](writestatement.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

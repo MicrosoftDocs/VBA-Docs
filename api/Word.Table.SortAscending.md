@@ -1,5 +1,5 @@
 ---
-title: Table.SortAscending Method (Word)
+title: Table.SortAscending method (Word)
 keywords: vbawd10.chm156303372
 f1_keywords:
 - vbawd10.chm156303372
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.SortAscending
 ms.assetid: 5a73ac7a-917d-7559-99c1-cb20f39b864d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.SortAscending Method (Word)
+# Table.SortAscending method (Word)
 
 Sorts paragraphs or table rows in ascending alphanumeric order.
 
 
 ## Syntax
 
- _expression_. `SortAscending`
+_expression_. `SortAscending`
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

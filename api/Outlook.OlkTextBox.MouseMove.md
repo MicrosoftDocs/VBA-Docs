@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.MouseMove Event (Outlook)
+title: OlkTextBox.MouseMove event (Outlook)
 keywords: vbaol11.chm1000074
 f1_keywords:
 - vbaol11.chm1000074
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTextBox.MouseMove
 ms.assetid: 431bf2ee-6c9f-6dd9-5c9a-dde84acd87db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox.MouseMove Event (Outlook)
+# OlkTextBox.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Show or Hide the Navigation Pane
 ms.prod: outlook
 ms.assetid: ef4ad7b9-6475-7b28-ce79-fbefe29b193c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -50,4 +51,4 @@ Private Sub objPane_ModuleSwitch(ByVal CurrentModule As NavigationModule)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,42 +1,35 @@
 ---
-title: MouseIcon, MousePointer Properties Example
+title: MouseIcon, MousePointer properties example
 keywords: fm20.chm5225143
 f1_keywords:
 - fm20.chm5225143
 ms.prod: office
 ms.assetid: 8abdcd9b-3199-4e06-490f-3f945d8f6013
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# MouseIcon, MousePointer Properties Example
+# MouseIcon, MousePointer properties example
 
-The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. You can assign one of several available mouse pointers using the  **MousePointer** property; or, you can assign a custom icon using the **MousePointer** and **MouseIcon** properties.
+The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. You can assign one of several available mouse pointers by using the **[MousePointer](mousepointer-property.md)** property; or, you can assign a custom icon by using the **MousePointer** and **[MouseIcon](mouseicon-property.md)** properties.
 
 This example works in the following ways:
 
-
-
-
-- Choose a mouse pointer from the  **ListBox** to change the mouse pointer associated with the first **CommandButton**.
+- Choose a mouse pointer from the **[ListBox](listbox-control.md)** to change the mouse pointer associated with the first **[CommandButton](commandbutton-control.md)**.
     
-- Click the first  **CommandButton** to associate its mouse pointer with the second **CommandButton**.
+- Click the first **CommandButton** to associate its mouse pointer with the second **CommandButton**.
     
-- Click the second  **CommandButton** to load a custom icon for its mouse pointer.
+- Click the second **CommandButton** to load a custom icon for its mouse pointer.
     
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.   
+- A **ListBox** named ListBox1.
     
-- A  **ListBox** named ListBox1.
-    
-
-
- **Note**  This example uses two icon files (identified by the .ico file extention in Windows) that are loaded using the  **LoadPicture** function. You should edit each **LoadPicture** function call to specify an icon file that resides on your system.
-
-
+> [!NOTE] 
+> This example uses two icon files (identified by the .ico file extention in Windows) that are loaded by using the **LoadPicture** function. You should edit each **LoadPicture** function call to specify an icon file that resides on your system.
 
 
 ```vb
@@ -113,4 +106,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

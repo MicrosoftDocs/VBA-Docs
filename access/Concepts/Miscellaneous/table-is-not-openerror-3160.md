@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e4a94bc0-ef30-2578-2841-12262ca17747
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You tried to perform an operation on a table that has not been opened. Open the 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

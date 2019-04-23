@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterSRC Method (Visio)
+title: Event.SetFilterSRC method (Visio)
 keywords: vis_sdr.chm12650840
 f1_keywords:
 - vis_sdr.chm12650840
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.SetFilterSRC
 ms.assetid: 06ba59d2-57a4-7686-3250-388e499bfc76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.SetFilterSRC Method (Visio)
+# Event.SetFilterSRC method (Visio)
 
 Specifies an array of cell ranges and a  **True** or **False** value indicating how to filter events for each cell range.
 
 
 ## Syntax
 
- _expression_. `SetFilterSRC`( `_SRCStream()_` )
+_expression_. `SetFilterSRC`( `_SRCStream()_` )
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
@@ -62,15 +63,15 @@ For an event to successfully pass through a cell range filter, it must satisfy t
 
 - It must be a valid section, row, cell reference.
     
-- If all filters are  **True** , the event must match at least one filter.
+- If all filters are  **True**, the event must match at least one filter.
     
-- If all filters are  **False** , the event must not match any filter.
+- If all filters are  **False**, the event must not match any filter.
     
-- If the filters are a mixture of  **True** and **False** , the event must match at least one **True** filter and not match any **False** filters.
+- If the filters are a mixture of  **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For example, if you want to listen for any changes in the Value cell of the second row in the Shape Data section, use the following:
 
@@ -90,4 +91,4 @@ For example, if you want to listen for any changes in the Value cell of the seco
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

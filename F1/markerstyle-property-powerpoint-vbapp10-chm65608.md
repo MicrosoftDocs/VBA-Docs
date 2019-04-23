@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8d9f7100-f9ee-43c1-8168-9c4c1367e6a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.MarkerStyle Property (PowerPoint)](http://msdn.microsoft.com/library/e985978e-f0cf-b809-ebe1-f5504e9e8df6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.AvailablePageSizes Property (Publisher)
+title: PageSetup.AvailablePageSizes property (Publisher)
 keywords: vbapb10.chm6946849
 f1_keywords:
 - vbapb10.chm6946849
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PageSetup.AvailablePageSizes
 ms.assetid: 5ad79ee6-6d32-6c46-c02e-a9ab252267cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.AvailablePageSizes Property (Publisher)
+# PageSetup.AvailablePageSizes property (Publisher)
 
 Returns the  **PageSizes** collection that contains all the **[PageSize](Publisher.PageSize.md)** objects available in the current publication.
 
 
 ## Syntax
 
- _expression_. **AvailablePageSizes**
+_expression_.**AvailablePageSizes**
 
  _expression_ A variable that represents a  **PageSetup** object.
 
@@ -67,4 +68,4 @@ Public Sub AvailablePageSizes_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

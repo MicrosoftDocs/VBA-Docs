@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings Object (PowerPoint)
+title: AnimationSettings object (PowerPoint)
 keywords: vbapp10.chm565000
 f1_keywords:
 - vbapp10.chm565000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AnimationSettings
 ms.assetid: ebbe4257-236b-35b4-bdf1-e92a1b4b417b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationSettings Object (PowerPoint)
+# AnimationSettings object (PowerPoint)
 
 Represents the special effects applied to the animation for the specified shape during a slide show.
 
@@ -54,7 +55,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvanceMode](./PowerPoint.AnimationSettings.AdvanceMode.md)|
 |[AdvanceTime](./PowerPoint.AnimationSettings.AdvanceTime.md)|
@@ -76,4 +77,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

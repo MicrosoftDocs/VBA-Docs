@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatColor.ThemeColor
 ms.assetid: 5e4750b3-14a3-ca31-ef61-1be32be3ef38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets one of the constants of the  **[XlThemeColor](Excel.XlThemeColor
 
 ## Syntax
 
- _expression_. `ThemeColor`
+_expression_.**ThemeColor**
 
- _expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
+_expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets one of the constants of the  **[XlThemeColor](Excel.XlThemeColor
 
 [FormatColor Object](Excel.FormatColor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

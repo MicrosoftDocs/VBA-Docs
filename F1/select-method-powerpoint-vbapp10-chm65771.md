@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 71ed61d1-4fe6-40c6-b4e3-93d4b25e64a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,3 +34,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [LegendEntry.Select Method (PowerPoint)](http://msdn.microsoft.com/library/86b3cbf7-d491-1e43-0ae6-f6527109653d%28Office.15%29.aspx)
 [DataLabel.Select Method (PowerPoint)](http://msdn.microsoft.com/library/10a8d96c-8646-c65c-76aa-fc80a963c544%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.PrintHeadings
 ms.assetid: 027441c6-da40-f518-a166-adb54da02a27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.PrintHeadings property (Excel)
 
- **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean** .
+ **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintHeadings`
+_expression_. `PrintHeadings`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").PageSetup.PrintHeadings = False
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

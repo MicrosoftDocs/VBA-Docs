@@ -1,5 +1,5 @@
 ---
-title: OlActionResponseStyle Enumeration (Outlook)
+title: OlActionResponseStyle enumeration (Outlook)
 keywords: vbaol11.chm3050
 f1_keywords:
 - vbaol11.chm3050
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlActionResponseStyle
 ms.assetid: 9981a41c-57e4-b981-e245-075811a10cdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlActionResponseStyle Enumeration (Outlook)
+# OlActionResponseStyle enumeration (Outlook)
 
 Specifies the response style.
 
@@ -27,4 +28,4 @@ Specifies the response style.
 
 Used by the [ResponseStyle](Outlook.Action.ResponseStyle.md) property of an [Action](Outlook.Action.md) to specify the response style that will be used when the **Action** is executed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

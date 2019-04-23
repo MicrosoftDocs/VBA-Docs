@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e8fad3b1-3684-41f3-aa6c-6a01554e9df7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You are attempting to use a feature that is no longer supported in the current v
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

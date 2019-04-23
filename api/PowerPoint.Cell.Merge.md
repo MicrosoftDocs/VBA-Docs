@@ -1,5 +1,5 @@
 ---
-title: Cell.Merge Method (PowerPoint)
+title: Cell.Merge method (PowerPoint)
 keywords: vbapp10.chm628005
 f1_keywords:
 - vbapp10.chm628005
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Cell.Merge
 ms.assetid: e4830df1-4db9-f1e0-a4c6-d4ed2d99b9fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Merge Method (PowerPoint)
+# Cell.Merge method (PowerPoint)
 
 Merges one table cell with another. The result is a single table cell.
 
 
 ## Syntax
 
- _expression_. `Merge`( `_MergeTo_` )
+_expression_. `Merge`( `_MergeTo_` )
 
- _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
+_expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End With
 [Presentation Object](PowerPoint.Presentation.md)
 [Cell Object](PowerPoint.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TimeLine.Parent Property (PowerPoint)
+title: TimeLine.Parent property (PowerPoint)
 keywords: vbapp10.chm649002
 f1_keywords:
 - vbapp10.chm649002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TimeLine.Parent
 ms.assetid: 7c38d6ba-928c-5770-a6f5-9f948a1a50e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeLine.Parent Property (PowerPoint)
+# TimeLine.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [TimeLine](./PowerPoint.TimeLine.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [TimeLine Object](PowerPoint.TimeLine.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

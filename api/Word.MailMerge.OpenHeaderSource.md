@@ -1,5 +1,5 @@
 ---
-title: MailMerge.OpenHeaderSource Method (Word)
+title: MailMerge.OpenHeaderSource method (Word)
 keywords: vbawd10.chm153092209
 f1_keywords:
 - vbawd10.chm153092209
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.OpenHeaderSource
 ms.assetid: 0cf1102f-716b-4302-6d64-85fba29822ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.OpenHeaderSource Method (Word)
+# MailMerge.OpenHeaderSource method (Word)
 
 Attaches a mail merge header source to the specified document.
 
 
 ## Syntax
 
- _expression_. `OpenHeaderSource`( `_Name_` , `_Format_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_OpenExclusive_` )
+_expression_. `OpenHeaderSource`( `_Name_` , `_Format_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_OpenExclusive_` )
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ End With
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

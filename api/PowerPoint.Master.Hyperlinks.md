@@ -1,5 +1,5 @@
 ---
-title: Master.Hyperlinks Property (PowerPoint)
+title: Master.Hyperlinks property (PowerPoint)
 keywords: vbapp10.chm533012
 f1_keywords:
 - vbapp10.chm533012
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Master.Hyperlinks
 ms.assetid: 5d9af48b-49e2-4253-a431-4341a697437b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Hyperlinks Property (PowerPoint)
+# Master.Hyperlinks property (PowerPoint)
 
 Returns a  **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents all the hyperlinks on the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlinks`
+_expression_.**Hyperlinks**
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
@@ -55,3 +56,4 @@ Next
 
 [Master Object](PowerPoint.Master.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.Application
 ms.assetid: 93260275-5e17-883e-58e2-b67ac0a7c5f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

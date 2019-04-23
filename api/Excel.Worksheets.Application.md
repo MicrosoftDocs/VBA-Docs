@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheets.Application
 ms.assetid: dcedaaf2-280e-9661-9576-0bf90df8d9a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

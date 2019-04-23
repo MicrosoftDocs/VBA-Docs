@@ -3,6 +3,7 @@ title: Find All the Sparklines on a Sheet
 ms.prod: excel
 ms.assetid: 39739eaf-638d-41b1-80f2-c4513fc42317
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -64,3 +65,4 @@ End Sub
  <br>
  [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

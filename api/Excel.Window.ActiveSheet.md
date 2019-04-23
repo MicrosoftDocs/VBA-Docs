@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.ActiveSheet
 ms.assetid: 44e4fd8d-45bd-5626-66db-107fb451b73f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents the active sheet (the sheet on top) in the act
 
 ## Syntax
 
- _expression_. `ActiveSheet`
+_expression_. `ActiveSheet`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ MsgBox "The name of the active sheet is " & ActiveSheet.Name
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

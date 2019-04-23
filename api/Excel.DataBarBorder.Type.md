@@ -8,6 +8,7 @@ api_name:
 - Excel.DataBarBorder.Type
 ms.assetid: 9364fadd-5dba-d8a2-a704-a4876173e4a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the type of border for data bars specified by a conditional form
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
+_expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End With
 
 [DataBarBorder Object](Excel.DataBarBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

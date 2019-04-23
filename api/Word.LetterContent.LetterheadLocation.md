@@ -1,5 +1,5 @@
 ---
-title: LetterContent.LetterheadLocation Property (Word)
+title: LetterContent.LetterheadLocation property (Word)
 keywords: vbawd10.chm161546346
 f1_keywords:
 - vbawd10.chm161546346
@@ -8,19 +8,20 @@ api_name:
 - Word.LetterContent.LetterheadLocation
 ms.assetid: 5e8271fa-23bc-fcf5-ca5c-9139120711e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.LetterheadLocation Property (Word)
+# LetterContent.LetterheadLocation property (Word)
 
-Returns or sets the location of the preprinted letterhead in a letter created by the Letter Wizard. Read/write  **WdLetterheadLocation** .
+Returns or sets the location of the preprinted letterhead in a letter created by the Letter Wizard. Read/write  **WdLetterheadLocation**.
 
 
 ## Syntax
 
- _expression_. `LetterheadLocation`
+_expression_. `LetterheadLocation`
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example
@@ -48,3 +49,4 @@ ActiveDocument.RunLetterWizard LetterContent:=lcNew
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Display a Dialog Box for Selecting Entries from the Contacts Folder
 ms.prod: outlook
 ms.assetid: 6d31ad3e-8930-d571-3bfd-349efbf69232
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -50,4 +51,4 @@ Sub ShowContactsInDialog()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

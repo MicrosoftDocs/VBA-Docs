@@ -1,5 +1,5 @@
 ---
-title: TextRange.MajorityFont Property (Publisher)
+title: TextRange.MajorityFont property (Publisher)
 keywords: vbapb10.chm5308467
 f1_keywords:
 - vbapb10.chm5308467
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.MajorityFont
 ms.assetid: b0007ebc-ed0b-aab8-49fe-76353efbc1d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.MajorityFont Property (Publisher)
+# TextRange.MajorityFont property (Publisher)
 
 Returns a  **[Font](Publisher.Font.md)** object that represents the font name most in use in a text range.
 
 
 ## Syntax
 
- _expression_. **MajorityFont**
+_expression_.**MajorityFont**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -49,4 +50,4 @@ Sub SetFontName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.LayoutPageBreak
 ms.assetid: 3b513f5c-353b-ecb9-16c4-6e1d4bd0848a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.LayoutPageBreak property (Excel)
 
- **True** if a page break is inserted after each field. The default value is **False** . Read/write **Boolean** .
+ **True** if a page break is inserted after each field. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LayoutPageBreak`
+_expression_. `LayoutPageBreak`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

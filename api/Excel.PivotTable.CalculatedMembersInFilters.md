@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.CalculatedMembersInFilters
 ms.assetid: 1f28b21d-d079-e37a-563e-473e6b57bccd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether to evaluate calculated members from OLAP servers in filt
 
 ## Syntax
 
- _expression_. `CalculatedMembersInFilters`
+_expression_. `CalculatedMembersInFilters`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets whether to evaluate calculated members from OLAP servers in filt
 
 ## Remarks
 
- **True** if calculated members are evaluated in filters; otherwise **False** .
+ **True** if calculated members are evaluated in filters; otherwise **False**.
 
 The value of this property corresponds to the setting of the  **Evaluate calculated members from OLAP servers in filters** check box on the **Totals & Filters** tab of the **PivotTable Options** dialog box for a PivotTable report based on an OLAP data source.
 
@@ -40,3 +41,4 @@ The value of this property corresponds to the setting of the  **Evaluate calcula
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

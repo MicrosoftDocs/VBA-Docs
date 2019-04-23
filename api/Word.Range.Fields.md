@@ -1,5 +1,5 @@
 ---
-title: Range.Fields Property (Word)
+title: Range.Fields property (Word)
 keywords: vbawd10.chm157155392
 f1_keywords:
 - vbawd10.chm157155392
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Fields
 ms.assetid: 106c1cb4-0836-3ff3-3138-223356a4a42c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Fields Property (Word)
+# Range.Fields property (Word)
 
 Returns a  **[Fields](Word.fields.md)** collection that represents all the fields in the range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Fields`
+_expression_. `Fields`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example
@@ -45,3 +46,4 @@ Next aField
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

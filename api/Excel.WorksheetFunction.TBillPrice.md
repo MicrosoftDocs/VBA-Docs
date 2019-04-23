@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TBillPrice Method (Excel)
+title: WorksheetFunction.TBillPrice method (Excel)
 keywords: vbaxl10.chm137316
 f1_keywords:
 - vbaxl10.chm137316
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.TBillPrice
 ms.assetid: ab67c60b-d612-9f96-4c64-00ae7344ff9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.TBillPrice Method (Excel)
+# WorksheetFunction.TBillPrice method (Excel)
 
 Returns the price per $100 face value for a Treasury bill.
 
 
 ## Syntax
 
- _expression_. `TBillPrice`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `TBillPrice`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: View Object (Outlook)
+title: View object (Outlook)
 keywords: vbaol11.chm2479
 f1_keywords:
 - vbaol11.chm2479
@@ -8,10 +8,11 @@ api_name:
 - Outlook.View
 ms.assetid: 41c8d149-9912-1685-4c8b-3c849cc6f1ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View Object (Outlook)
+# View object (Outlook)
 
 Represents a customizable view used to sort, group, and view data.
 
@@ -31,13 +32,13 @@ The  **View** object allows you to create customizable views that allow you to b
     
 - The timeline view type (**olTimelineView**) allows you to view data as it is received in a customizable linear time line.
     
-Views are defined and customized using the  **View** object's **[XML](./Outlook.View.XML.md)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
+Views are defined and customized using the  **View** object's **[XML](Outlook.View.XML.md)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
 
-Use  **Views** ( _index_ ), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
+Use  **Views** (_index_), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
 
-Use the  **[Add](./Outlook.Views.Add.md)** method of the **Views** collection to create a new view.
+Use the  **[Add](Outlook.Views.Add.md)** method of the **Views** collection to create a new view.
 
-Always use  **[Save](./Outlook.View.Save.md)** to save a view after you change any property of the view.
+Always use  **[Save](Outlook.View.Save.md)** to save a view after you change any property of the view.
 
 
 ## Example
@@ -103,36 +104,38 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Apply](./Outlook.View.Apply.md)|
-|[Copy](./Outlook.View.Copy.md)|
-|[Delete](./Outlook.View.Delete.md)|
-|[GoToDate](./Outlook.View.GoToDate.md)|
-|[Reset](./Outlook.View.Reset.md)|
-|[Save](./Outlook.View.Save.md)|
+|[Apply](Outlook.View.Apply.md)|
+|[Copy](Outlook.View.Copy.md)|
+|[Delete](Outlook.View.Delete.md)|
+|[GoToDate](Outlook.View.GoToDate.md)|
+|[Reset](Outlook.View.Reset.md)|
+|[Save](Outlook.View.Save.md)|
 
 ## Properties
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Application](./Outlook.View.Application.md)|
-|[Class](./Outlook.View.Class.md)|
-|[Filter](./Outlook.View.Filter.md)|
-|[Language](./Outlook.View.Language.md)|
-|[LockUserChanges](./Outlook.View.LockUserChanges.md)|
-|[Name](./Outlook.View.Name.md)|
-|[Parent](./Outlook.View.Parent.md)|
-|[SaveOption](./Outlook.View.SaveOption.md)|
-|[Session](./Outlook.View.Session.md)|
-|[Standard](./Outlook.View.Standard.md)|
-|[ViewType](./Outlook.View.ViewType.md)|
-|[XML](./Outlook.View.XML.md)|
+|[Application](Outlook.View.Application.md)|
+|[Class](Outlook.View.Class.md)|
+|[Filter](Outlook.View.Filter.md)|
+|[Language](Outlook.View.Language.md)|
+|[LockUserChanges](Outlook.View.LockUserChanges.md)|
+|[Name](Outlook.View.Name.md)|
+|[Parent](Outlook.View.Parent.md)|
+|[SaveOption](Outlook.View.SaveOption.md)|
+|[Session](Outlook.View.Session.md)|
+|[Standard](Outlook.View.Standard.md)|
+|[ViewType](Outlook.View.ViewType.md)|
+|[XML](Outlook.View.XML.md)|
 
 ## See also
 
 
-[View Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[View Object Members](overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

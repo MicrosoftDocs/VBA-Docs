@@ -1,5 +1,5 @@
 ---
-title: Font.Embeddable Property (PowerPoint)
+title: Font.Embeddable property (PowerPoint)
 keywords: vbapp10.chm575013
 f1_keywords:
 - vbapp10.chm575013
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.Embeddable
 ms.assetid: 50824587-0371-e7eb-8885-370f97b8bf0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Embeddable Property (PowerPoint)
+# Font.Embeddable property (PowerPoint)
 
 Determines whether the specified font can be embedded in the presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `Embeddable`
+_expression_. `Embeddable`
 
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **Embeddable** property can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified font cannot be embedded in the presentation.|
 |**msoTrue**| The specified font can be embedded in the presentation.|
@@ -66,3 +67,4 @@ Next usedFont
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

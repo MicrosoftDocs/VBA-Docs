@@ -3,6 +3,7 @@ title: CommandButton Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c2c1b19d-fe22-4d98-88bb-0fdb31da7bc2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Starts, ends, or interrupts an action or series of actions.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.commandbutton.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [AutoSize](Outlook.commandbutton.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
@@ -38,9 +39,8 @@ Starts, ends, or interrupts an action or series of actions.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.commandbutton.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

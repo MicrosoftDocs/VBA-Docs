@@ -3,6 +3,7 @@ title: Make bulk changes to a DAO Recordset
 ms.prod: access
 ms.assetid: b66c857a-42ed-15c9-e01d-99c451651f3b
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -67,4 +68,4 @@ Dim strNew As String
 > [!NOTE] 
 > A delete query is much more efficient than code that loops through a **Recordset**, modifying or deleting one record at a time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

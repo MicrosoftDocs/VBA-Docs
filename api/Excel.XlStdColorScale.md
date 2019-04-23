@@ -1,14 +1,15 @@
 ---
-title: xlStdColorScale enumeration (Excel)
+title: XlStdColorScale enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlStdColorScale
 ms.assetid: 6c08f3dc-3677-ad94-3664-d1874d84aadc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlStdColorScale enumeration (Excel)
+# XlStdColorScale enumeration (Excel)
 
 Specifies the standard color scale.
 
@@ -21,3 +22,4 @@ Specifies the standard color scale.
 | **ColorScaleRYG**|1|RYG.|
 | **ColorScaleWhiteBlack**|4|White over Black.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.WebNavigationBarSetName Property (Publisher)
+title: Shape.WebNavigationBarSetName property (Publisher)
 keywords: vbapb10.chm5308677
 f1_keywords:
 - vbapb10.chm5308677
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.WebNavigationBarSetName
 ms.assetid: 0d9abe17-6936-562b-9210-5f092d13f215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.WebNavigationBarSetName Property (Publisher)
+# Shape.WebNavigationBarSetName property (Publisher)
 
 Returns a  **String** that represents the name of the Web navigation bar set the specified shape is an instance of. Read-only.
 
 
 ## Syntax
 
- _expression_. **WebNavigationBarSetName**
+_expression_.**WebNavigationBarSetName**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -60,4 +61,4 @@ Next
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

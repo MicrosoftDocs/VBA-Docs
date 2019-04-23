@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (Publisher)
+title: PictureFormat object (Publisher)
 keywords: vbapb10.chm3670015
 f1_keywords:
 - vbapb10.chm3670015
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PictureFormat
 ms.assetid: aa30ea9d-b91f-acdf-2e60-8a9f506f28b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat Object (Publisher)
+# PictureFormat object (Publisher)
 
 Contains properties and methods that apply to pictures.
 
@@ -37,7 +38,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearCrop](./Publisher.PictureFormat.ClearCrop.md)|
 |[FillFrame](./Publisher.PictureFormat.FillFrame.md)|
@@ -54,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PictureFormat.Application.md)|
 |[Brightness](./Publisher.PictureFormat.Brightness.md)|
@@ -97,3 +98,4 @@ End Sub
 |[VerticalScale](./Publisher.PictureFormat.VerticalScale.md)|
 |[Width](./Publisher.PictureFormat.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

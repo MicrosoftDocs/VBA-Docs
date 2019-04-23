@@ -1,14 +1,15 @@
 ---
-title: WdTextureIndex Enumeration (Word)
+title: WdTextureIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextureIndex
 ms.assetid: b9f758d2-0fb5-c373-9f2a-b581cf4c8196
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTextureIndex Enumeration (Word)
+# WdTextureIndex enumeration (Word)
 
 Specifies the shading texture to use for a selected item.
 
@@ -70,3 +71,4 @@ Specifies the shading texture to use for a selected item.
 | **wdTextureSolid**|1000|Solid shading.|
 | **wdTextureVertical**|-8|Vertical shading.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

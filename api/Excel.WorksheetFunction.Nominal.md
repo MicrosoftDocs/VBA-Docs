@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Nominal Method (Excel)
+title: WorksheetFunction.Nominal method (Excel)
 keywords: vbaxl10.chm137321
 f1_keywords:
 - vbaxl10.chm137321
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Nominal
 ms.assetid: 4ba61f10-233b-400b-76e1-90147fd7f503
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Nominal Method (Excel)
+# WorksheetFunction.Nominal method (Excel)
 
 Returns the nominal annual interest rate, given the effective rate and the number of compounding periods per year.
 
 
 ## Syntax
 
- _expression_. `Nominal`( `_Arg1_` , `_Arg2_` )
+_expression_. `Nominal`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

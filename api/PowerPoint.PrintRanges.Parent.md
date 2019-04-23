@@ -1,5 +1,5 @@
 ---
-title: PrintRanges.Parent Property (PowerPoint)
+title: PrintRanges.Parent property (PowerPoint)
 keywords: vbapp10.chm518005
 f1_keywords:
 - vbapp10.chm518005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintRanges.Parent
 ms.assetid: 95bacc46-413d-2694-6ac2-7883609e26c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintRanges.Parent Property (PowerPoint)
+# PrintRanges.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [PrintRanges Object](PowerPoint.PrintRanges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

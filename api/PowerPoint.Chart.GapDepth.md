@@ -1,5 +1,5 @@
 ---
-title: Chart.GapDepth Property (PowerPoint)
+title: Chart.GapDepth property (PowerPoint)
 keywords: vbapp10.chm684030
 f1_keywords:
 - vbapp10.chm684030
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.GapDepth
 ms.assetid: e25fdb39-735f-6158-2628-b0696c08b733
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.GapDepth Property (PowerPoint)
+# Chart.GapDepth property (PowerPoint)
 
-Returns or sets the distance, as a percentage of the marker width, between the data series in a 3-D chart. Read/write  **Long**.
+Returns or sets the distance, as a percentage of the marker width, between the data series in a 3D chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GapDepth`
+_expression_.**GapDepth**
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Remarks
@@ -28,7 +29,7 @@ Returns or sets the distance, as a percentage of the marker width, between the d
 The value of this property must be between 0 and 500. 
 
 
- **Note**  This property applies only to 3-D charts.
+ **Note**  This property applies only to 3D charts.
 
 
 ## Example
@@ -38,7 +39,7 @@ The value of this property must be between 0 and 500.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the distance between the data series for the first chart in the active document to 200 percent of the marker width. You should run the example on a 3-D chart (the  **GapDepth** property fails on 2-D charts).
+The following example sets the distance between the data series for the first chart in the active document to 200 percent of the marker width. You should run the example on a 3D chart (the  **GapDepth** property fails on 2D charts).
 
 
 
@@ -61,3 +62,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

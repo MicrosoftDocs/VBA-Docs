@@ -1,5 +1,5 @@
 ---
-title: Presentation.ApplyTheme Method (PowerPoint)
+title: Presentation.ApplyTheme method (PowerPoint)
 keywords: vbapp10.chm583105
 f1_keywords:
 - vbapp10.chm583105
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.ApplyTheme
 ms.assetid: e403614b-fc39-98e0-e707-501394aacfa1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.ApplyTheme Method (PowerPoint)
+# Presentation.ApplyTheme method (PowerPoint)
 
 Applies a theme or design template to the specified presentation.
 
 
 ## Syntax
 
- _expression_. `ApplyTheme`( `_themeName_` )
+_expression_. `ApplyTheme`( `_themeName_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -55,3 +56,4 @@ ActivePresentation.ApplyTheme "C:\Program Files\Microsoft Office\Templates\MyThe
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

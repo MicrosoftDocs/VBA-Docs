@@ -1,5 +1,5 @@
 ---
-title: CodeMask.Add Method (Project)
+title: CodeMask.Add method (Project)
 keywords: vbapj.chm131648
 f1_keywords:
 - vbapj.chm131648
@@ -8,17 +8,18 @@ api_name:
 - Project.CodeMask.Add
 ms.assetid: 78a7afaa-1a19-6d64-1341-63955aaff7e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CodeMask.Add Method (Project)
+# CodeMask.Add method (Project)
 
-Returns a  **[CodeMaskLevel ](Project.CodeMaskLevel.md)** object.
+Returns a  **[CodeMaskLevel](Project.CodeMaskLevel.md)** object.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _Sequence_`, ` _Length_`, ` _Separator_` )
+_expression_.**Add**( `_Sequence_`, `_Length_`, `_Separator_` )
 
  _expression_ A variable that represents a 'CodeMask' object.
 
@@ -37,4 +38,4 @@ Returns a  **[CodeMaskLevel ](Project.CodeMaskLevel.md)** object.
 
  **CodeMaskLevel**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

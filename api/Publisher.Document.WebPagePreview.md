@@ -1,5 +1,5 @@
 ---
-title: Document.WebPagePreview Method (Publisher)
+title: Document.WebPagePreview method (Publisher)
 keywords: vbapb10.chm196724
 f1_keywords:
 - vbapb10.chm196724
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.WebPagePreview
 ms.assetid: 44083fae-d21d-9cd3-3553-a4d4346141f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.WebPagePreview Method (Publisher)
+# Document.WebPagePreview method (Publisher)
 
 Generates a Web page preview of the specified publication in Internet Explorer.
 
 
 ## Syntax
 
- _expression_. **WebPagePreview**
+_expression_.**WebPagePreview**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -47,4 +48,4 @@ With ActiveDocument
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

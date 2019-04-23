@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.PlaceholderFormat Property (PowerPoint)
+title: ShapeRange.PlaceholderFormat property (PowerPoint)
 keywords: vbapp10.chm548046
 f1_keywords:
 - vbapp10.chm548046
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.PlaceholderFormat
 ms.assetid: 3c3c344f-aa02-29b2-5ef5-d090f3e32a2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.PlaceholderFormat Property (PowerPoint)
+# ShapeRange.PlaceholderFormat property (PowerPoint)
 
 Returns a  **[PlaceholderFormat](PowerPoint.PlaceholderFormat.md)** object that contains the properties that are unique to placeholders. Read-only.
 
 
 ## Syntax
 
- _expression_. `PlaceholderFormat`
+_expression_. `PlaceholderFormat`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -63,3 +64,4 @@ End With
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

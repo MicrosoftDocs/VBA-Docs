@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 01ce5640-9f19-3c0e-1aa4-96d87074bf8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,4 +25,4 @@ The default property of a  **ToggleButton** is the **[Value](Outlook.togglebutto
 
 The only event for a  **ToggleButton** is the **[Click](Outlook.togglebutton.click.md)** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

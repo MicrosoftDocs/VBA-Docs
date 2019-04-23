@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Publisher)
+title: Pages object (Publisher)
 keywords: vbapb10.chm524287
 f1_keywords:
 - vbapb10.chm524287
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Pages
 ms.assetid: d6b7262c-015c-dcf3-bff4-0091dd32b78f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages Object (Publisher)
+# Pages object (Publisher)
 
 Represents all the pages in a publication. The  **Pages** collection contains all the **[Page](Publisher.Page.md)** objects in a publication.
  
@@ -42,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Pages.Add.md)|
 |[AddWizardPage](Publisher.Pages.AddWizardPage.md)|
@@ -52,10 +53,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Pages.Application.md)|
 |[Count](Publisher.Pages.Count.md)|
 |[Item](Publisher.Pages.Item.md)|
 |[Parent](Publisher.Pages.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

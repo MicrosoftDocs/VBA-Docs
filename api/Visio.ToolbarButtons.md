@@ -5,6 +5,7 @@ api_name:
 - Visio.ToolbarButtons
 ms.assetid: 7663e0b1-6022-39c3-0268-fba3b287f868
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets the buttons that are available in the toolbar in Microsoft Visio Vi
 
 ## Syntax
 
- _expression_. **ToolbarButtons**
+_expression_.**ToolbarButtons**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -63,4 +64,4 @@ The following code shows how to display the names of the current toolbar buttons
 Debug.Print vsoViewer.ToolbarButtons
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

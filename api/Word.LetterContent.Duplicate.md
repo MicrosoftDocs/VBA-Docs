@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Duplicate Property (Word)
+title: LetterContent.Duplicate property (Word)
 keywords: vbawd10.chm161546250
 f1_keywords:
 - vbawd10.chm161546250
@@ -8,19 +8,20 @@ api_name:
 - Word.LetterContent.Duplicate
 ms.assetid: 925ba556-4a7e-36da-2fbb-a32684f23fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.Duplicate Property (Word)
+# LetterContent.Duplicate property (Word)
 
 Returns a read-only  **LetterContent** object that represents the contents of a letter created by the Letter Wizard.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use the  **Duplicate** property to pick up the settings of all the prope
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

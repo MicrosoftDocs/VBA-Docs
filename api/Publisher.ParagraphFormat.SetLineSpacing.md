@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SetLineSpacing Method (Publisher)
+title: ParagraphFormat.SetLineSpacing method (Publisher)
 keywords: vbapb10.chm5439511
 f1_keywords:
 - vbapb10.chm5439511
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.SetLineSpacing
 ms.assetid: 32e5b233-8415-2373-7423-18b66df3a5ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SetLineSpacing Method (Publisher)
+# ParagraphFormat.SetLineSpacing method (Publisher)
 
 Formats the line spacing of specified paragraphs.
 
 
 ## Syntax
 
- _expression_. **SetLineSpacing**(**_Rule_**,  **_Spacing_**)
+_expression_.**SetLineSpacing**(**_Rule_**,  **_Spacing_**)
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -38,7 +39,7 @@ The Rule parameter can be one of the  **PbLineSpacingRule** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbLineSpacing1pt5**|Sets the spacing for specified paragraphs to one-and-a-half lines.|
 | **pbLineSpacingDouble**| Double-spaces the specified paragraphs.|
@@ -59,4 +60,4 @@ Sub SetLineSpacingForSelection()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

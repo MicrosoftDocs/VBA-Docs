@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementBrightness Method (Word)
+title: PictureFormat.IncrementBrightness method (Word)
 keywords: vbawd10.chm164298762
 f1_keywords:
 - vbawd10.chm164298762
@@ -8,19 +8,20 @@ api_name:
 - Word.PictureFormat.IncrementBrightness
 ms.assetid: 2bce8316-c15c-e5b9-9f04-1095ccaa7126
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementBrightness Method (Word)
+# PictureFormat.IncrementBrightness method (Word)
 
 Changes the brightness of the picture by the specified amount.
 
 
 ## Syntax
 
- _expression_. `IncrementBrightness`( `_Increment_` )
+_expression_. `IncrementBrightness`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
+_expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ End With
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

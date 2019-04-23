@@ -1,5 +1,5 @@
 ---
-title: TextRange.LanguageID Property (PowerPoint)
+title: TextRange.LanguageID property (PowerPoint)
 keywords: vbapp10.chm569037
 f1_keywords:
 - vbapp10.chm569037
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.LanguageID
 ms.assetid: f6744845-5125-239e-65d1-7db8dacdaecd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.LanguageID Property (PowerPoint)
+# TextRange.LanguageID property (PowerPoint)
 
 Returns or sets the language for the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. `LanguageID`
+_expression_. `LanguageID`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -230,3 +231,4 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.LanguageID = msoLangu
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

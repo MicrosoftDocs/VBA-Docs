@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.ComboBox.RowSource
 ms.assetid: 1225e566-24e0-244d-09ae-e036c87f3141
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ You can use the **RowSource** property (along with the **RowSourceType** propert
 
 ## Syntax
 
-_expression_. `RowSource`
+_expression_.**RowSource**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
@@ -36,11 +37,9 @@ The **RowSource** property setting depends on the **RowSourceType** property set
 
 If the **RowSourceType** property is set to a user-defined function, the **RowSource** property can be left blank.
 
-For table fields, you can set these properties on the **Lookup** tab in the Field Properties section of table **Design** view for fields with the **DisplayControl** property set to Combo Box or List Box.
+For table fields, you can set these properties on the **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box. Microsoft Access sets these properties automatically when you select Lookup Wizard as the data type for a field in table Design view.
 
-Microsoft Access sets these properties automatically when you select Lookup Wizard as the data type for a field in table **Design** view.
-
-In Visual Basic, set the **RowSourceType** property by using a string expression with one of these values: `"Table/Query"`, `"Value List"`, or `"Field List"`. You also use a string expression to set the value of the **RowSource** property. To set the **RowSourceType** property to a user-defined function, enter the name of the function.
+In Visual Basic, set the **RowSourceType** property by using a string expression with one of these values: "Table/Query", "Value List", or "Field List". You also use a string expression to set the value of the **RowSource** property. To set the **RowSourceType** property to a user-defined function, enter the name of the function.
 
 When you have a limited number of values that don't change, you can set the **RowSourceType** property to Value List and then enter the values that make up the list in the **RowSource** property.
 
@@ -57,8 +56,6 @@ Forms!Employees!cmboNames.RowSource = "EmployeeList"
 
 The following example shows how to set the **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
 
-**Sample code provided by** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
-
 ```vb
 Private Sub Form_Load()
     Me.Caption = "Today is " & Format$(Date, "dddd mmm-d-yyyy")
@@ -71,9 +68,6 @@ Private Sub Form_Load()
 End Sub
 ```
 
-### About the contributors
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

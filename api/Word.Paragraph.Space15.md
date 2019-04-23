@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Space15 Method (Word)
+title: Paragraph.Space15 method (Word)
 keywords: vbawd10.chm156696890
 f1_keywords:
 - vbawd10.chm156696890
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Space15
 ms.assetid: c7978808-2a02-609d-1640-b0fef3d24d2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Space15 Method (Word)
+# Paragraph.Space15 method (Word)
 
 Formats the specified paragraphs with 1.5-line spacing.
 
 
 ## Syntax
 
- _expression_. `Space15`
+_expression_. `Space15`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ ActiveDocument.Paragraphs(1).Space15
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

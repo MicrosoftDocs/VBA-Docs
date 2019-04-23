@@ -1,5 +1,5 @@
 ---
-title: Signature.ShowDetails Method (Office)
+title: Signature.ShowDetails method (Office)
 keywords: vbaof11.chm248014
 f1_keywords:
 - vbaof11.chm248014
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.Signature.ShowDetails
 ms.assetid: 278b84b3-c500-6357-310b-537355ad20fd
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# Signature.ShowDetails Method (Office)
+# Signature.ShowDetails method (Office)
 
 Displays details related to a signature packet.
 
 
 ## Syntax
 
- _expression_. `ShowDetails`
+_expression_.**ShowDetails**
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+_expression_ An expression that returns a **[Signature](Office.Signature.md)** object.
 
 
 ## Example
 
-The following example calls the  **ShowDetails** method to show details of the **Signature** object.
+The following example calls the **ShowDetails** method to show details of the **Signature** object.
 
 
 ```vb
@@ -41,10 +42,8 @@ End Sub
 
 ## See also
 
-
-[Signature Object](Office.Signature.md)
-
+- [Signature object members](overview/Library-Reference/signature-members-office.md)
 
 
-[Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

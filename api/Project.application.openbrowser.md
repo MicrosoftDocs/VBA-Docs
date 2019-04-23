@@ -1,20 +1,21 @@
 ---
-title: Application.OpenBrowser Method (Project)
+title: Application.OpenBrowser method (Project)
 keywords: vbapj.chm144
 f1_keywords:
 - vbapj.chm144
 ms.prod: project-server
 ms.assetid: 92691162-1c5f-43b6-57f2-8d56fa3f7bb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OpenBrowser Method (Project)
+# Application.OpenBrowser method (Project)
 Opens the default web browser to a specified URL or the Windows Explorer to a specified directory or project file.
 
 ## Syntax
 
- _expression_. `OpenBrowser` _(URL)_
+_expression_. `OpenBrowser` _(URL)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -23,7 +24,7 @@ Opens the default web browser to a specified URL or the Windows Explorer to a sp
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _URL_|Optional|**String**|The URL to use for the browser address.|
 
@@ -63,3 +64,5 @@ The following examples are valid, if the specified  _URL_ location exists:
 
 
 [Application Object](Project.Application.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

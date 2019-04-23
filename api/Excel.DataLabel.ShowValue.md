@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.ShowValue
 ms.assetid: 83d4ead9-3539-d420-d4bd-2b474e174e10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** corresponding to a specified chart's data label v
 
 ## Syntax
 
- _expression_. `ShowValue`
+_expression_. `ShowValue`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End Sub
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

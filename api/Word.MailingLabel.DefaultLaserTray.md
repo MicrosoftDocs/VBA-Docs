@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.DefaultLaserTray Property (Word)
+title: MailingLabel.DefaultLaserTray property (Word)
 keywords: vbawd10.chm152502276
 f1_keywords:
 - vbawd10.chm152502276
@@ -8,19 +8,20 @@ api_name:
 - Word.MailingLabel.DefaultLaserTray
 ms.assetid: 0bc82fb0-abc3-7b46-c00b-8c009f2a6d91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel.DefaultLaserTray Property (Word)
+# MailingLabel.DefaultLaserTray property (Word)
 
-Returns or sets the default paper tray that contains sheets of mailing labels. Read/write  **WdPaperTray** .
+Returns or sets the default paper tray that contains sheets of mailing labels. Read/write  **WdPaperTray**.
 
 
 ## Syntax
 
- _expression_. `DefaultLaserTray`
+_expression_. `DefaultLaserTray`
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Example
@@ -52,3 +53,4 @@ Application.MailingLabel.DefaultLaserTray = wdPrinterUpperBin
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

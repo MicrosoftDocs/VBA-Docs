@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Form.HelpFile
 ms.assetid: 72b416b1-5257-9560-ebc0-625abc3f7e85
-ms.date: 06/08/2017
+ms.date: 03/12/2019
+localization_priority: Normal
 ---
 
 
 # Form.HelpFile property (Access)
 
-The name of a help file associated with a form. Read/write  **String**.
+The name of a help file associated with a form. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `HelpFile`
+_expression_.**HelpFile**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Example
 
-This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses SHIFT+F1.
-
+This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses Shift+F1.
 
 ```vb
 Set myBar = CommandBars _ 
@@ -49,8 +49,6 @@ End With
 ```
 
 
-## See also
 
 
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

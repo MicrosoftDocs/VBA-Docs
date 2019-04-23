@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7a191ce4-d1d1-67de-0f7f-e8bfe3fc96d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ The query being used as a record source is an action query or a data-definition 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

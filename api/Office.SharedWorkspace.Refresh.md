@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Refresh Method (Office)
+title: SharedWorkspace.Refresh method (Office)
 keywords: vbaof11.chm276007
 f1_keywords:
 - vbaof11.chm276007
@@ -7,13 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspace.Refresh
 ms.assetid: 62059fb9-b695-78e7-ad44-c3b918c9d423
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspace.Refresh Method (Office)
+# SharedWorkspace.Refresh method (Office)
 
-Refreshes the local cache of the [SharedWorkspace](Office.SharedWorkspace.md) object's files, folders, links, members, and tasks from the server.
+Refreshes the local cache of the **SharedWorkspace** object's files, folders, links, members, and tasks from the server.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,14 +22,14 @@ Refreshes the local cache of the [SharedWorkspace](Office.SharedWorkspace.md) ob
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_.**Refresh**
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a **[SharedWorkspace](Office.SharedWorkspace.md)** object.
 
 
 ## Remarks
 
-Use the  **Refresh** method to ensure that you are working with the most up-to-date list of objects and their properties from the shared workspace.
+Use the **Refresh** method to ensure that you are working with the most up-to-date list of objects and their properties from the shared workspace.
 
 
 ## Example
@@ -51,10 +52,8 @@ err_NeverRefreshed:
 
 ## See also
 
-
-[SharedWorkspace Object](Office.SharedWorkspace.md)
-
+- [SharedWorkspace object members](overview/Library-Reference/sharedworkspace-members-office.md)
 
 
-[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

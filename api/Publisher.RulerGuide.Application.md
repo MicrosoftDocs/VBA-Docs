@@ -1,5 +1,5 @@
 ---
-title: RulerGuide.Application Property (Publisher)
+title: RulerGuide.Application property (Publisher)
 keywords: vbapb10.chm655361
 f1_keywords:
 - vbapb10.chm655361
@@ -8,17 +8,18 @@ api_name:
 - Publisher.RulerGuide.Application
 ms.assetid: 8a57e2ad-ffbc-c2f7-a29a-0980278061d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerGuide.Application Property (Publisher)
+# RulerGuide.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **RulerGuide** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

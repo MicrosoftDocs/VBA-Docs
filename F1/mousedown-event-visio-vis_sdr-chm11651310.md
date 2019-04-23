@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b093de32-fa5f-4949-9f7a-0ff971d19cdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.MouseDown Event (Visio)](http://msdn.microsoft.com/library/66136634-ddb3-54fd-c6d4-f32550689d28%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

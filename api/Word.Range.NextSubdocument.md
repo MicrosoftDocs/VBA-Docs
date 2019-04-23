@@ -1,5 +1,5 @@
 ---
-title: Range.NextSubdocument Method (Word)
+title: Range.NextSubdocument method (Word)
 keywords: vbawd10.chm157155547
 f1_keywords:
 - vbawd10.chm157155547
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.NextSubdocument
 ms.assetid: 4c048cc7-a2f6-38b1-e675-4d8870947130
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.NextSubdocument Method (Word)
+# Range.NextSubdocument method (Word)
 
 Moves the range to the next subdocument.
 
 
 ## Syntax
 
- _expression_. `NextSubdocument`
+_expression_. `NextSubdocument`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

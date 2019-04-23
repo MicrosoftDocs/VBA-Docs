@@ -1,5 +1,5 @@
 ---
-title: RuleActions Object (Outlook)
+title: RuleActions object (Outlook)
 keywords: vbaol11.chm3162
 f1_keywords:
 - vbaol11.chm3162
@@ -8,10 +8,11 @@ api_name:
 - Outlook.RuleActions
 ms.assetid: 82ba76cd-86a4-3372-cb51-2df1d58c8b71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RuleActions Object (Outlook)
+# RuleActions object (Outlook)
 
 The  **RuleActions** object contains a set of **[RuleAction](Outlook.RuleAction.md)** objects or objects derived from **RuleAction**, representing the actions that are executed on a **[Rule](Outlook.Rule.md)** object.
 
@@ -22,14 +23,14 @@ The  **RuleActions** object is a fixed collection. **RuleAction** objects or typ
 
 The Rules object model provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. It supports the most commonly used rule actions and conditions. Although it does not support creating rules with any rule action or rule condition that the Wizard supports, you can still enumerate and enable these rule actions and conditions in existing rules. 
 
-For more information on rule actions, see [Specifying Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md) and [How to: Create a Rule to Move Specific E-mails to a Folder](../outlook/How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md).
+For more information on rule actions, see [Specifying Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md) and [How to: Create a Rule to Move Specific Emails to a Folder](../outlook/How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md).
 
 
 ## Methods
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.RuleActions.Item.md)|
 
@@ -37,7 +38,7 @@ For more information on rule actions, see [Specifying Rule Actions](../outlook/H
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.RuleActions.Application.md)|
 |[AssignToCategory](Outlook.RuleActions.AssignToCategory.md)|
@@ -65,4 +66,6 @@ For more information on rule actions, see [Specifying Rule Actions](../outlook/H
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

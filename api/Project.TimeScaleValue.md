@@ -1,14 +1,15 @@
 ---
-title: TimeScaleValue Object (Project)
+title: TimeScaleValue object (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue
 ms.assetid: bea0ad82-a3de-30d8-f191-dc2248c32653
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeScaleValue Object (Project)
+# TimeScaleValue object (Project)
 
 Represents a timescaled data item. The  **TimeScaleValue** object is a member of the **[TimeScaleValues](Project.timescalevalues.md)** collection.
 
@@ -17,7 +18,7 @@ Represents a timescaled data item. The  **TimeScaleValue** object is a member of
 
  **Using the TimeScaleValue Object**
 
-Use  **TimeScaleValues** ( _Index_ ), where _Index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
+Use  **TimeScaleValues** (_index_), where _index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
 
 
 
@@ -64,7 +65,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](./Project.TimeScaleValue.Clear.md)|
 |[Delete](./Project.TimeScaleValue.Delete.md)|
@@ -73,7 +74,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.TimeScaleValue.Application.md)|
 |[EndDate](./Project.TimeScaleValue.EndDate.md)|
@@ -82,3 +83,4 @@ TSV.Add 480, 2
 |[StartDate](./Project.TimeScaleValue.StartDate.md)|
 |[Value](./Project.TimeScaleValue.Value.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

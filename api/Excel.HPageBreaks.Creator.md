@@ -8,19 +8,20 @@ api_name:
 - Excel.HPageBreaks.Creator
 ms.assetid: 9f783dd5-fd32-2360-642b-40c781f48cbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # HPageBreaks.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
+_expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [HPageBreaks Object](Excel.HPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

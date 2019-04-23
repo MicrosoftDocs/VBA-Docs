@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Application
 ms.assetid: 6d86a0a4-b9ed-0ba1-22c3-30e2f100901b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlFormatDuration Enumeration (Outlook)
+title: OlFormatDuration enumeration (Outlook)
 keywords: vbaol11.chm3134
 f1_keywords:
 - vbaol11.chm3134
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlFormatDuration
 ms.assetid: f33355da-3e85-5f69-b928-ae04fdb28a18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlFormatDuration Enumeration (Outlook)
+# OlFormatDuration enumeration (Outlook)
 
 Indicates the format used to display duration Outlook item properties.
 
@@ -28,4 +29,4 @@ Indicates the format used to display duration Outlook item properties.
 
 Used by the [FieldFormat](Outlook.ColumnFormat.FieldFormat.md) property of the [ColumnFormat](Outlook.ColumnFormat.md) object, and the [DisplayFormat](Outlook.UserDefinedProperty.DisplayFormat.md) property of the [UserDefinedProperty](Outlook.UserDefinedProperty.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: ListBox.BoundColumn Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1ff447f0-7ae5-c90e-2fb9-0e4c280a7564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Variant** that identifies the source of data in a multicolu
 
 ## Syntax
 
- _expression_. **BoundColumn**
+_expression_.**BoundColumn**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -30,4 +31,4 @@ The  **ListIndex** value retrieves the number of the selected row. For example, 
 
 The  **[Column](Outlook.listbox.column.md)**,  **[List](Outlook.listbox.list.md)**, and  **ListIndex** properties all use zero-based numbering. That is, the value of the first item (column or row) is zero; the value of the second item is one, and so on. This means that if **BoundColumn** is set to 3, you could access the value stored in that column using the expression `Column(2)`.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

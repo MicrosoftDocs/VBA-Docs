@@ -8,12 +8,13 @@ api_name:
 - Excel.Font.Size
 ms.assetid: 45f409cd-768b-0794-4fe9-ef002fa69606
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.Size property (Excel)
 
-Returns or sets the size of the font. Read/write **Variant** .
+Returns or sets the size of the font. Read/write **Variant**.
 
 ## Syntax
 
@@ -37,3 +38,4 @@ End With
 
 - [Font object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

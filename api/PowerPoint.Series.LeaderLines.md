@@ -1,5 +1,5 @@
 ---
-title: Series.LeaderLines Property (PowerPoint)
+title: Series.LeaderLines property (PowerPoint)
 keywords: vbapp10.chm67202
 f1_keywords:
 - vbapp10.chm67202
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.LeaderLines
 ms.assetid: f5c706e0-c6df-ae45-9f34-b7f6b4200326
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.LeaderLines Property (PowerPoint)
+# Series.LeaderLines property (PowerPoint)
 
 Returns the leader lines for the series. Read-only  **[LeaderLines](PowerPoint.LeaderLines.md)**.
 
 
 ## Syntax
 
- _expression_. `LeaderLines`
+_expression_. `LeaderLines`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -70,3 +71,4 @@ End With
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

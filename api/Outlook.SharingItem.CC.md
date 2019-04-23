@@ -1,5 +1,5 @@
 ---
-title: SharingItem.CC Property (Outlook)
+title: SharingItem.CC property (Outlook)
 keywords: vbaol11.chm634
 f1_keywords:
 - vbaol11.chm634
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.CC
 ms.assetid: ac3e12ea-6e3d-71c8-ecb4-c7d54d669cee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.CC Property (Outlook)
+# SharingItem.CC property (Outlook)
 
-Returns a  **String** representing the display list of carbon copy (CC) names for a **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns a  **String** representing the display list of carbon copy (CC) names for a **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `CC`
+_expression_. `CC`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ This property contains only the display names, delimited by semicolon (;) charac
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

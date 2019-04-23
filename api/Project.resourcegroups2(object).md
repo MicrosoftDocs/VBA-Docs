@@ -1,12 +1,13 @@
 ---
-title: ResourceGroups2 Object (Project)
+title: ResourceGroups2 object (Project)
 ms.prod: project-server
 ms.assetid: b1328c39-42bc-4e9b-e268-1f308cd7ebb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ResourceGroups2 Object (Project)
+# ResourceGroups2 object (Project)
 
 Represents all of the resource-based group definitions, where group hierarchy can be maintained.  **ResourceGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
  
@@ -53,7 +54,7 @@ ActiveProject.ResourceGroups2("Resources by Rate").GroupCriteria(1).Ascending = 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ResourceGroups2.Add.md)|
 |[Copy](Project.ResourceGroups2.Copy.md)|
@@ -62,7 +63,7 @@ ActiveProject.ResourceGroups2("Resources by Rate").GroupCriteria(1).Ascending = 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ResourceGroups2.Application.md)|
 |[Count](Project.ResourceGroups2.Count.md)|
@@ -74,3 +75,5 @@ ActiveProject.ResourceGroups2("Resources by Rate").GroupCriteria(1).Ascending = 
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

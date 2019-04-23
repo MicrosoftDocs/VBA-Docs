@@ -1,5 +1,5 @@
 ---
-title: TextRuleCondition Object (Outlook)
+title: TextRuleCondition object (Outlook)
 keywords: vbaol11.chm3183
 f1_keywords:
 - vbaol11.chm3183
@@ -8,10 +8,11 @@ api_name:
 - Outlook.TextRuleCondition
 ms.assetid: 87e9ca00-7577-02c2-fb6f-a5dc2054ad8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRuleCondition Object (Outlook)
+# TextRuleCondition object (Outlook)
 
 Represents a rule condition that the part of the message, which can be the body, header, or subject, as specified by  **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)**, contains the words specified in **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)**.
 
@@ -27,7 +28,7 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TextRuleCondition.Application.md)|
 |[Class](Outlook.TextRuleCondition.Class.md)|
@@ -40,4 +41,6 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

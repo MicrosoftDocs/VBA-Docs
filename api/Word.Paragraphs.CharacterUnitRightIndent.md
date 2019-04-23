@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.CharacterUnitRightIndent Property (Word)
+title: Paragraphs.CharacterUnitRightIndent property (Word)
 keywords: vbawd10.chm156762238
 f1_keywords:
 - vbawd10.chm156762238
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.CharacterUnitRightIndent
 ms.assetid: dbbb903b-924b-1f36-3e56-9489f544f601
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.CharacterUnitRightIndent Property (Word)
+# Paragraphs.CharacterUnitRightIndent property (Word)
 
-Returns or sets the right indent value (in characters) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the right indent value (in characters) for the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CharacterUnitRightIndent`
+_expression_. `CharacterUnitRightIndent`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveDocument.Paragraphs _
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

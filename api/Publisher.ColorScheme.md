@@ -1,5 +1,5 @@
 ---
-title: ColorScheme Object (Publisher)
+title: ColorScheme object (Publisher)
 keywords: vbapb10.chm2752511
 f1_keywords:
 - vbapb10.chm2752511
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ColorScheme
 ms.assetid: b4e554ef-f043-c963-e175-b7d5ba95c636
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorScheme Object (Publisher)
+# ColorScheme object (Publisher)
 
 Represents a color scheme, which is a set of eight colors used for the different elements of a publication. Each color is represented by a  **[ColorFormat](Publisher.ColorFormat.md)** object. The **ColorScheme** object is a member of the **[ColorSchemes](Publisher.ColorSchemes.md)** collection. The **ColorSchemes** collection contains all the color schemes available to Microsoft Publisher.
  
@@ -75,10 +76,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorScheme.Application.md)|
 |[Colors](Publisher.ColorScheme.Colors.md)|
 |[Name](Publisher.ColorScheme.Name.md)|
 |[Parent](Publisher.ColorScheme.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

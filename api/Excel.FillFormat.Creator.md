@@ -5,19 +5,20 @@ api_name:
 - Excel.FillFormat.Creator
 ms.assetid: f4e02d6c-49b7-d837-c090-096975d8efb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FillFormat.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -30,3 +31,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

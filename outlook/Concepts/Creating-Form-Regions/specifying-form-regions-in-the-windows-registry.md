@@ -3,6 +3,7 @@ title: Specifying Form Regions in the Windows Registry
 ms.prod: outlook
 ms.assetid: 0de3fcb1-b357-8300-c943-9a5a788d4976
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -110,4 +111,4 @@ The following lists the content of map.xml:
 
 The form region is added to the form as a page following the last non-hidden built-in page in the Contact form (normally, this would follow the **All Fields** page). The page is titled **Directions** and has an internal programmatic name "MapTab". Map.xml specifies a layout file and an icon file. Note that all file paths in the xml file can be specified as full file paths, or paths relative to the location of the form region XML manifest file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: ComboBox.Click Event (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 43286138-766d-ffe3-9de3-fcea3808f8cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Occurs when the user definitively selects a value for the control that has more 
 
 ## Syntax
 
- _expression_. **Click**
+_expression_.**Click**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -54,4 +55,4 @@ End Select
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

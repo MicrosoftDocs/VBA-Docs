@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Weight Property (Publisher)
+title: LineFormat.Weight property (Publisher)
 keywords: vbapb10.chm3408147
 f1_keywords:
 - vbapb10.chm3408147
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.Weight
 ms.assetid: 854928ca-5f38-3cc9-50d5-2473a0885a0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Weight Property (Publisher)
+# LineFormat.Weight property (Publisher)
 
 Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
 
 
 ## Syntax
 
- _expression_. **Weight**
+_expression_.**Weight**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -44,4 +45,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

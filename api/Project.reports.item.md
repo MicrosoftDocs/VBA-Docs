@@ -1,17 +1,18 @@
 ---
-title: Reports.Item Property (Project)
+title: Reports.Item property (Project)
 ms.prod: project-server
 ms.assetid: d8202579-71de-c606-5a28-af285bca0a05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reports.Item Property (Project)
+# Reports.Item property (Project)
 Gets a single  **Report** object from the **Reports** collection. Read-only **Report**.
 
 ## Syntax
 
- _expression_. `Item`
+_expression_. `Item`
 
  _expression_ A variable that represents a 'Reports' object.
 
@@ -20,7 +21,7 @@ Gets a single  **Report** object from the **Reports** collection. Read-only **Re
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Name of the report or index number of the report.|
 
@@ -52,3 +53,5 @@ To get the index number of a report, you can use the [Report.Index](Project.repo
 
 
 [Reports Object](Project.reports.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

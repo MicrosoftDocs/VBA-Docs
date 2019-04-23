@@ -3,6 +3,7 @@ title: Could not rename installable ISAM file. (Error 3013)
 ms.prod: access
 ms.assetid: 94fef3c9-2190-092f-a6b6-09fdba63acd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,5 @@ Possible causes:
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.Align Method (Visio)
+title: Selection.Align method (Visio)
 keywords: vis_sdr.chm11151435
 f1_keywords:
 - vis_sdr.chm11151435
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Align
 ms.assetid: 4a73dfee-2a78-f459-4481-5f722feb7204
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Align Method (Visio)
+# Selection.Align method (Visio)
 
 Aligns two or more selected shapes.
 
 
 ## Syntax
 
- _expression_. `Align`( `_AlignHorizontal_` , `_AlignVertical_` , `_GlueToGuide_` )
+_expression_. `Align`( `_AlignHorizontal_` , `_AlignVertical_` , `_GlueToGuide_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -31,7 +32,7 @@ Aligns two or more selected shapes.
 |:-----|:-----|:-----|:-----|
 | _AlignHorizontal_|Required| **VisHorizontalAlignTypes**|Aligns selected shapes along a horizontal axis. See Remarks for possible values.|
 | _AlignVertical_|Required| **VisVerticalAlignTypes**|Aligns selected shapes along a vertical axis. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates a guide and glues selected shapes to it; if **False** , it does not. The default is **False** .|
+| _GlueToGuide_|Optional| **Boolean**|If  **True**, creates a guide and glues selected shapes to it; if **False**, it does not. The default is **False**.|
 
 ## Return value
 
@@ -94,4 +95,4 @@ Public Sub Align_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

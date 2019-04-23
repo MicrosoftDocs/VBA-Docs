@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ForwardAsBusinessCard Method (Outlook)
+title: ContactItem.ForwardAsBusinessCard method (Outlook)
 keywords: vbaol11.chm1094
 f1_keywords:
 - vbaol11.chm1094
@@ -8,24 +8,25 @@ api_name:
 - Outlook.ContactItem.ForwardAsBusinessCard
 ms.assetid: 2f1a74c3-86f0-a054-75e2-272dbb261fb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.ForwardAsBusinessCard Method (Outlook)
+# ContactItem.ForwardAsBusinessCard method (Outlook)
 
 Creates a new  **[MailItem](Outlook.MailItem.md)** object containing contact information and, optionally, an Electronic Business Card (EBC) image based on the specified **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax
 
- _expression_. `ForwardAsBusinessCard`
+_expression_. `ForwardAsBusinessCard`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Return value
 
-A  **MailItem** object that represents the new e-mail item containing the business card information.
+A  **MailItem** object that represents the new email item containing the business card information.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ This method creates a new Outlook mail item based on the information stored in t
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

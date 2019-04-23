@@ -3,6 +3,7 @@ title: Protected Properties and Methods
 ms.prod: outlook
 ms.assetid: 8522d350-a257-2924-2260-3cc02b6ebbca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -69,4 +70,4 @@ For more information on security warnings, see  [Outlook Object Model Security P
 > [!NOTE] 
 > **[UserProperties.Find](../../../api/Outlook.UserProperties.Find.md)** is protected if the property being requested is one of the built-in properties that contains address information. If you ask for a custom property or a property like **Subject** that doesn't contain address information, a prompt will not be displayed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 866e62ab-888e-46a1-89f8-7f8f43ca90a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.RecordSource property (Access)](http://msdn.microsoft.com/library/aa3b31cc-21a6-5d56-8361-9fc232ffae97%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

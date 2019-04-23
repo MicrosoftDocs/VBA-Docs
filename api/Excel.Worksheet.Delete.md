@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Delete Method (Excel)
+title: Worksheet.Delete method (Excel)
 keywords: vbaxl10.chm174075
 f1_keywords:
 - vbaxl10.chm174075
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Delete
 ms.assetid: a51e1673-e09d-824f-1acc-dda18c120204
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
-# Worksheet.Delete Method (Excel)
+# Worksheet.Delete method (Excel)
 
 Deletes the object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ To delete a worksheet without displaying a dialog box, set the **[Application.Di
 
 - [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

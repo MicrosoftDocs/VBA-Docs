@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.AcceleratorsEnabled Property (PowerPoint)
+title: SlideShowView.AcceleratorsEnabled property (PowerPoint)
 keywords: vbapp10.chm513007
 f1_keywords:
 - vbapp10.chm513007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.AcceleratorsEnabled
 ms.assetid: 04db702f-af30-1868-0cab-17e692892e82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.AcceleratorsEnabled Property (PowerPoint)
+# SlideShowView.AcceleratorsEnabled property (PowerPoint)
 
 Determines whether shortcut keys are enabled during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `AcceleratorsEnabled`
+_expression_. `AcceleratorsEnabled`
 
  _expression_ A variable that represents an [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -36,7 +37,7 @@ The value of the  **AcceleratorsEnabled** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Shortcut keys are disabled during a slide show.|
 |**msoTrue**| The default. Shortcut keys are enabled during a slide show.|
@@ -57,3 +58,4 @@ ActivePresentation.SlideShowSettings.Run _
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

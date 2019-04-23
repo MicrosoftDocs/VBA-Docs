@@ -8,6 +8,7 @@ api_name:
 - Excel.VPageBreaks.Application
 ms.assetid: b4f28f23-182a-00f5-b8d9-beeec89667b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) object.
+_expression_ A variable that represents a [VPageBreaks](Excel.VPageBreaks.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

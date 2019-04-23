@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.WrapText
 ms.assetid: 5e61b704-af16-7bad-5eeb-f163e3035513
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that indicates if Microsoft Excel wraps the
 
 ## Syntax
 
- _expression_. `WrapText`
+_expression_.**WrapText**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ Worksheets("Sheet1").Range("B2").WrapText = True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

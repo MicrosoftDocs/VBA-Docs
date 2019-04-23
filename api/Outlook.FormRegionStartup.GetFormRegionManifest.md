@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.GetFormRegionManifest Method (Outlook)
+title: FormRegionStartup.GetFormRegionManifest method (Outlook)
 keywords: vbaol11.chm3305
 f1_keywords:
 - vbaol11.chm3305
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormRegionStartup.GetFormRegionManifest
 ms.assetid: de752c6f-423a-ee2f-aa7e-d1107cf406a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegionStartup.GetFormRegionManifest Method (Outlook)
+# FormRegionStartup.GetFormRegionManifest method (Outlook)
 
 Obtains the XML manifest for a form region.
 
 
 ## Syntax
 
- _expression_. `GetFormRegionManifest`( `_FormRegionName_` , `_LCID_` )
+_expression_. `GetFormRegionManifest`( `_FormRegionName_` , `_LCID_` )
 
- _expression_ A variable that represents a 'FormRegionStartup' object.
+_expression_ A variable that represents a 'FormRegionStartup' object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ Outlook ignores the following elements when the add-in provides the XML manifest
 
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

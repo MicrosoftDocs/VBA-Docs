@@ -1,5 +1,5 @@
 ---
-title: LetterContent.LetterStyle Property (Word)
+title: LetterContent.LetterStyle property (Word)
 keywords: vbawd10.chm161546344
 f1_keywords:
 - vbawd10.chm161546344
@@ -8,19 +8,20 @@ api_name:
 - Word.LetterContent.LetterStyle
 ms.assetid: fdb8e106-bb80-468d-4330-e601d3a52938
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.LetterStyle Property (Word)
+# LetterContent.LetterStyle property (Word)
 
-Returns or sets the layout of a letter created by the Letter Wizard. Read/write  **WdLetterStyle** .
+Returns or sets the layout of a letter created by the Letter Wizard. Read/write  **WdLetterStyle**.
 
 
 ## Syntax
 
- _expression_. `LetterStyle`
+_expression_. `LetterStyle`
 
- _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
+_expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ ActiveDocument.RunLetterWizard _
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

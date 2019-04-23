@@ -1,5 +1,5 @@
 ---
-title: NavigationModules.Session Property (Outlook)
+title: NavigationModules.Session property (Outlook)
 keywords: vbaol11.chm2797
 f1_keywords:
 - vbaol11.chm2797
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NavigationModules.Session
 ms.assetid: ce7f293c-cce6-5471-fd41-3387c2f0195e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NavigationModules.Session Property (Outlook)
+# NavigationModules.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
+ _expression_ An expression that returns a [NavigationModules](Outlook.NavigationModules.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [NavigationModules Object](Outlook.NavigationModules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

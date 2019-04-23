@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.BeforeUpdate Event (Outlook)
+title: OlkCheckBox.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000161
 f1_keywords:
 - vbaol11.chm1000161
@@ -8,17 +8,18 @@ api_name:
 - Outlook.OlkCheckBox.BeforeUpdate
 ms.assetid: e12072d3-cd24-ce5d-0738-80d44a9c9154
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCheckBox.BeforeUpdate Event (Outlook)
+# OlkCheckBox.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 
 
 ## Syntax
 
-_expression_. **BeforeUpdate** (**_Cancel_**)
+_expression_.**BeforeUpdate** (**_Cancel_**)
 
 _expression_ A variable that represents an **OlkCheckBox** object.
 
@@ -52,3 +53,4 @@ Canceling this property will revert the control to the current value of the prop
 
 - [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.SlideSelectionChanged Event (PowerPoint)
+title: Application.SlideSelectionChanged event (PowerPoint)
 keywords: vbapp10.chm621016
 f1_keywords:
 - vbapp10.chm621016
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.SlideSelectionChanged
 ms.assetid: a7bbdc4c-31e3-2072-8590-bced8bff6517
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SlideSelectionChanged Event (PowerPoint)
+# Application.SlideSelectionChanged event (PowerPoint)
 
 Occurs at different times depending on the current view.
 
 
 ## Syntax
 
- _expression_. `SlideSelectionChanged`( `_SldRange_` )
+_expression_. `SlideSelectionChanged`( `_SldRange_` )
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

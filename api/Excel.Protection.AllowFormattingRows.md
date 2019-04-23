@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowFormattingRows
 ms.assetid: c58f9511-b6f5-a911-d20d-90dbb46248b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowFormattingRows property (Excel)
 
-Returns  **True** if the formatting of rows is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the formatting of rows is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowFormattingRows`
+_expression_. `AllowFormattingRows`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

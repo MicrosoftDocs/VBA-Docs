@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5637c0a4-dacb-4bae-bd8d-d5ba42af775b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Click event (Access)](http://msdn.microsoft.com/library/d102a526-2051-3a36-0f7a-fc234f126c47%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

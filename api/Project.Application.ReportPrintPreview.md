@@ -1,5 +1,5 @@
 ---
-title: Application.ReportPrintPreview Method (Project)
+title: Application.ReportPrintPreview method (Project)
 keywords: vbapj.chm112
 f1_keywords:
 - vbapj.chm112
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ReportPrintPreview
 ms.assetid: f93003ee-c25e-9581-191e-478bb30314f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ReportPrintPreview Method (Project)
+# Application.ReportPrintPreview method (Project)
 
 Deprecated in Project. Shows an on-screen preview of a printed report.
 
 
 ## Syntax
 
- _expression_. `ReportPrintPreview`( ` _Name_` )
+_expression_. `ReportPrintPreview`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Deprecated in Project. Shows an on-screen preview of a printed report.
 
 In Project, the  **ReportPrintPreview** method returns error 1100, "The method is not available in this situation." In Project, if you execute the **ReportPrintPreview** method with no argument, it displays the **Custom Reports** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

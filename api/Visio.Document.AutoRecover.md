@@ -1,5 +1,5 @@
 ---
-title: Document.AutoRecover Property (Visio)
+title: Document.AutoRecover property (Visio)
 keywords: vis_sdr.chm10514710
 f1_keywords:
 - vis_sdr.chm10514710
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.AutoRecover
 ms.assetid: 23b09910-35a8-93bc-71f0-4618b1c48523
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.AutoRecover Property (Visio)
+# Document.AutoRecover property (Visio)
 
 Determines whether an open document that has unsaved changes is copied when automatic recovery is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoRecover`
+_expression_. `AutoRecover`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -30,7 +31,7 @@ Boolean
 
 ## Remarks
 
-If automatic recovery is enabled (if the  **Application.AutoRecoverInterval** property is greater than 0), all documents that are open and have unsaved changes are copied into temporary files. If you do not want a document to be recovered, set its **AutoRecover** property to **False** . The **AutoRecover** property is not saved with a document and must be set each time the document opens.
+If automatic recovery is enabled (if the  **Application.AutoRecoverInterval** property is greater than 0), all documents that are open and have unsaved changes are copied into temporary files. If you do not want a document to be recovered, set its **AutoRecover** property to **False**. The **AutoRecover** property is not saved with a document and must be set each time the document opens.
 
 When Microsoft Visio is launched after an abnormal termination and determines that automatic recovery was enabled, it attempts to open all files that were open at termination.
 
@@ -61,4 +62,4 @@ Private Sub Document_DocumentOpened(ByValdoc As IVDocument)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

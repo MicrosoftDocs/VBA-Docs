@@ -1,5 +1,5 @@
 ---
-title: Application.DDEInitiate Method (Word)
+title: Application.DDEInitiate method (Word)
 keywords: vbawd10.chm158335287
 f1_keywords:
 - vbawd10.chm158335287
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DDEInitiate
 ms.assetid: b9f7e0d9-e31f-370d-dec1-52721a4b712f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DDEInitiate Method (Word)
+# Application.DDEInitiate method (Word)
 
 Opens a dynamic data exchange (DDE) channel to another application, and returns the channel number.
 
 
 ## Syntax
 
- _expression_. `DDEInitiate`( `_App_` , `_Topic_` )
+_expression_. `DDEInitiate`( `_App_` , `_Topic_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -65,3 +66,4 @@ DDETerminate Channel:=lngChannel
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

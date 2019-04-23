@@ -2,6 +2,7 @@
 title: Differentiate between Office for Mac versions at compile time
 ms.prod: office
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 # Differentiate between Office for Mac versions at compile time
 
@@ -29,4 +30,6 @@ You can use **MAC_OFFICE_VERSION** to determine which version of VBA the user is
     End Sub
 ```
 
-**Note:** The "#If Mac" conditional is the same in Office for Mac 2011. 
+**Note:** The "#If Mac" conditional is the same in Office for Mac 2011.
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

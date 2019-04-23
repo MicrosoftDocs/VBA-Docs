@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.ScaleHeight Method (Project)
+title: ShapeRange.ScaleHeight method (Project)
 ms.prod: project-server
 ms.assetid: 5f6f353d-6045-2a50-3a55-b0c380dafd2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleHeight Method (Project)
+# ShapeRange.ScaleHeight method (Project)
 Scales the height of the range of shapes by a specified factor.
 
 ## Syntax
 
- _expression_. `ScaleHeight` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+_expression_. `ScaleHeight` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -75,3 +76,5 @@ End Sub
 [ShapeRange Object](Project.shaperange.md)
 [MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
 [MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

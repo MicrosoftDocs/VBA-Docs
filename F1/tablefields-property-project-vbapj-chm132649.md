@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8c03f47a-91b3-4382-8a65-d7ab134fff4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.StartSlack Property (Project)](http://msdn.microsoft.com/library/0a777363-9535-31b3-c24b-729a53b83190%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

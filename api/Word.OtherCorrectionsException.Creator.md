@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsException.Creator Property (Word)
+title: OtherCorrectionsException.Creator property (Word)
 keywords: vbawd10.chm165741545
 f1_keywords:
 - vbawd10.chm165741545
@@ -8,19 +8,20 @@ api_name:
 - Word.OtherCorrectionsException.Creator
 ms.assetid: fdb43573-28a7-6652-9d37-1cc76ccc12fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OtherCorrectionsException.Creator Property (Word)
+# OtherCorrectionsException.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[OtherCorrectionsException](Word.OtherCorrectionsException.md)' object.
+_expression_ Required. A variable that represents an '[OtherCorrectionsException](Word.OtherCorrectionsException.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OtherCorrectionsException Object](Word.OtherCorrectionsException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

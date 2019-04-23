@@ -1,5 +1,5 @@
 ---
-title: MailItem.Conflicts Property (Outlook)
+title: MailItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1382
 f1_keywords:
 - vbaol11.chm1382
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.Conflicts
 ms.assetid: 2c93c2a2-4f2f-17af-cba3-91620b3d9c0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Conflicts Property (Outlook)
+# MailItem.Conflicts property (Outlook)
 
 Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Conflicts`
+_expression_. `Conflicts`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Example
@@ -60,3 +61,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

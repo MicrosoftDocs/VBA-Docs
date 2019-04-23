@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.DataRetrievalMethod Property (Publisher)
+title: WebCommandButton.DataRetrievalMethod property (Publisher)
 keywords: vbapb10.chm3932166
 f1_keywords:
 - vbapb10.chm3932166
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCommandButton.DataRetrievalMethod
 ms.assetid: 81b89a3b-dcc5-c2b5-fbc4-6e02b587bc42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCommandButton.DataRetrievalMethod Property (Publisher)
+# WebCommandButton.DataRetrievalMethod property (Publisher)
 
 Sets or returns a  **PbSubmitDataRetrievalMethodType** that represents the way data from a Web form is processed. Read/write.
 
 
 ## Syntax
 
- _expression_. **DataRetrievalMethod**
+_expression_.**DataRetrievalMethod**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 
@@ -35,7 +36,7 @@ The  **DataRetrievalMethod** property value can be one of the **[PbSubmitDataRet
 
 ## Example
 
-This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an e-mail message to a specified e-mail address.
+This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an email message to a specified email address.
 
 
 ```vb
@@ -48,4 +49,4 @@ Sub WebFormData()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

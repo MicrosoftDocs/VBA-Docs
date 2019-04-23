@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBErrors.Creator
 ms.assetid: c2143d28-5e66-5207-7d8d-82333d9de724
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBErrors.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
+_expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [OLEDBErrors Object](Excel.OLEDBErrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

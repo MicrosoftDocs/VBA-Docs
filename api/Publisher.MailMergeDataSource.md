@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource Object (Publisher)
+title: MailMergeDataSource object (Publisher)
 keywords: vbapb10.chm6356991
 f1_keywords:
 - vbapb10.chm6356991
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MailMergeDataSource
 ms.assetid: a02eb4fb-7db7-e533-c3ca-95bc4ca68e82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource Object (Publisher)
+# MailMergeDataSource object (Publisher)
 
 Represents the data source in a mail merge or catalog merge operation.
  
@@ -54,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyFilter](Publisher.MailMergeDataSource.ApplyFilter.md)|
 |[Close](Publisher.MailMergeDataSource.Close.md)|
@@ -69,7 +70,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveRecord](Publisher.MailMergeDataSource.ActiveRecord.md)|
 |[Application](Publisher.MailMergeDataSource.Application.md)|
@@ -92,3 +93,4 @@ End Sub
 |[Type](Publisher.MailMergeDataSource.Type.md)|
 |[ValidatedClean](Publisher.MailMergeDataSource.ValidatedClean.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

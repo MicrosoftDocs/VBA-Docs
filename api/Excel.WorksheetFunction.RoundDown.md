@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RoundDown Method (Excel)
+title: WorksheetFunction.RoundDown method (Excel)
 keywords: vbaxl10.chm137158
 f1_keywords:
 - vbaxl10.chm137158
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.RoundDown
 ms.assetid: 44b334b1-39cf-3be1-bc57-02864c29a995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.RoundDown Method (Excel)
+# WorksheetFunction.RoundDown method (Excel)
 
 Rounds a number down, toward zero.
 
 
 ## Syntax
 
- _expression_. `RoundDown`( `_Arg1_` , `_Arg2_` )
+_expression_. `RoundDown`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Inspector.CurrentItem Property (Outlook)
+title: Inspector.CurrentItem property (Outlook)
 keywords: vbaol11.chm2962
 f1_keywords:
 - vbaol11.chm2962
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Inspector.CurrentItem
 ms.assetid: eaaf0192-a169-c107-95a6-b8e759a3b873
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Inspector.CurrentItem Property (Outlook)
+# Inspector.CurrentItem property (Outlook)
 
 Returns an  **Object** representing the current item being displayed in the inspector. Read-only.
 
 
 ## Syntax
 
- _expression_. `CurrentItem`
+_expression_. `CurrentItem`
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

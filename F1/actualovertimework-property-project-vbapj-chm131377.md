@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: af79974c-1eed-4287-a6e0-7b9715dbc290
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.ActualOvertimeWork Property (Project)](http://msdn.microsoft.com/library/bbd2c42a-f6bb-1e0f-7e23-a76f78fe3a2e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

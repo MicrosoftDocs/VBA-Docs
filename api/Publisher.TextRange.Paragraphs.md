@@ -1,5 +1,5 @@
 ---
-title: TextRange.Paragraphs Method (Publisher)
+title: TextRange.Paragraphs method (Publisher)
 keywords: vbapb10.chm5308454
 f1_keywords:
 - vbapb10.chm5308454
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Paragraphs
 ms.assetid: 895c32cf-cdbe-74b0-ab47-6ae63d1bdea0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Paragraphs Method (Publisher)
+# TextRange.Paragraphs method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. **Paragraphs**(**_Start_**,  **_Length_**)
+_expression_.**Paragraphs**(**_Start_**,  **_Length_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -57,4 +58,4 @@ Sub FormatCurrentParagraph()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

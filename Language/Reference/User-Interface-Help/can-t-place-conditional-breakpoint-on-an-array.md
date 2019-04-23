@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b4bc0e60-0eea-caef-045a-79634f31a080
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ An [array](../../Glossary/vbe-glossary.md#array) has no single value associated 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

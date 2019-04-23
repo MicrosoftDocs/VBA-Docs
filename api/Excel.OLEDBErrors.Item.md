@@ -1,5 +1,5 @@
 ---
-title: OLEDBErrors.Item Method (Excel)
+title: OLEDBErrors.Item method (Excel)
 keywords: vbaxl10.chm656074
 f1_keywords:
 - vbaxl10.chm656074
@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBErrors.Item
 ms.assetid: b5635b91-19ac-7915-ccb5-3bcb3d5d208a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEDBErrors.Item Method (Excel)
+# OLEDBErrors.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
+_expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ MsgBox "The following error occurred:" & _
 
 [OLEDBErrors Object](Excel.OLEDBErrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

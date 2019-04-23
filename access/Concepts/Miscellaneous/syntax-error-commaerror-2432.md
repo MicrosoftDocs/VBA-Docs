@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 08e93c34-4775-0cb2-6f83-ddcd1201d9ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The expression or statement uses a comma where it does not belong or is missing 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

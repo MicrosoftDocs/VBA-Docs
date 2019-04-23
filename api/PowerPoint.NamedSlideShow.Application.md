@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow.Application Property (PowerPoint)
+title: NamedSlideShow.Application property (PowerPoint)
 keywords: vbapp10.chm516001
 f1_keywords:
 - vbapp10.chm516001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.NamedSlideShow.Application
 ms.assetid: 7e8220b0-a010-a0b0-5baf-cc54cf0df233
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NamedSlideShow.Application Property (PowerPoint)
+# NamedSlideShow.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [NamedSlideShow Object](PowerPoint.NamedSlideShow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

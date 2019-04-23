@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.ReturnDataLabel Property (Publisher)
+title: WebTextBox.ReturnDataLabel property (Publisher)
 keywords: vbapb10.chm4194311
 f1_keywords:
 - vbapb10.chm4194311
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebTextBox.ReturnDataLabel
 ms.assetid: 83beba69-3d04-2010-0656-d6a27c08951c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox.ReturnDataLabel Property (Publisher)
+# WebTextBox.ReturnDataLabel property (Publisher)
 
 Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
 
 
 ## Syntax
 
- _expression_. **ReturnDataLabel**
+_expression_.**ReturnDataLabel**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 
@@ -41,4 +42,4 @@ Sub LabelWebTextBoxControl()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

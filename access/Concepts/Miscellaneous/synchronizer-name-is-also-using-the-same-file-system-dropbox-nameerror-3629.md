@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 35176e9b-ac23-fb7d-ba88-b837792cf818
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ Unable to create the signal file, it is already opened by another transporter.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

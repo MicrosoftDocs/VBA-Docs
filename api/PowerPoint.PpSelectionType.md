@@ -1,14 +1,15 @@
 ---
-title: PpSelectionType Enumeration (PowerPoint)
+title: PpSelectionType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSelectionType
 ms.assetid: 0e18d698-0c6e-ea47-213c-539037d844e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpSelectionType Enumeration (PowerPoint)
+# PpSelectionType enumeration (PowerPoint)
 
 Constants that specify the type of selection, returned by the  **Type** property of the **Selection** object.
 
@@ -21,3 +22,4 @@ Constants that specify the type of selection, returned by the  **Type** property
 |**ppSelectionSlides**|1|Slides|
 |**ppSelectionText**|3|Text|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

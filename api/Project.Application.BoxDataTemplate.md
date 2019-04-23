@@ -1,5 +1,5 @@
 ---
-title: Application.BoxDataTemplate Method (Project)
+title: Application.BoxDataTemplate method (Project)
 keywords: vbapj.chm2391
 f1_keywords:
 - vbapj.chm2391
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxDataTemplate
 ms.assetid: ce3530d5-6218-b0db-a890-9a80bca5e3db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxDataTemplate Method (Project)
+# Application.BoxDataTemplate method (Project)
 
 Creates, copies, renames, or deletes a data template for a Network Diagram view.
 
 
 ## Syntax
 
- _expression_. `BoxDataTemplate`( ` _Name_`, ` _Action_`, ` _NewName_`, ` _Overwrite_` )
+_expression_. `BoxDataTemplate`( `_Name_`, `_Action_`, `_NewName_`, `_Overwrite_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -38,4 +39,4 @@ Creates, copies, renames, or deletes a data template for a Network Diagram view.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

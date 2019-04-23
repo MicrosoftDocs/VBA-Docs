@@ -1,5 +1,5 @@
 ---
-title: WebOptions.PixelsPerInch Property (Word)
+title: WebOptions.PixelsPerInch property (Word)
 keywords: vbawd10.chm165937161
 f1_keywords:
 - vbawd10.chm165937161
@@ -8,19 +8,20 @@ api_name:
 - Word.WebOptions.PixelsPerInch
 ms.assetid: b5f8db0d-b3f9-4834-8228-1b2ad1b8e180
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.PixelsPerInch Property (Word)
+# WebOptions.PixelsPerInch property (Word)
 
-Returns or sets the density (pixels per inch) of graphics images and table cells on a Web page. Read/write  **Long** .
+Returns or sets the density (pixels per inch) of graphics images and table cells on a Web page. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PixelsPerInch`
+_expression_. `PixelsPerInch`
 
- _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End With
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

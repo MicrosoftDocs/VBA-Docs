@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HorizontalPictureLocking Property (Publisher)
+title: PictureFormat.HorizontalPictureLocking property (Publisher)
 keywords: vbapb10.chm3604752
 f1_keywords:
 - vbapb10.chm3604752
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.HorizontalPictureLocking
 ms.assetid: 9a8cb8ec-24d1-4a21-d662-bcdfd26821df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.HorizontalPictureLocking Property (Publisher)
+# PictureFormat.HorizontalPictureLocking property (Publisher)
 
 Returns or sets a  **PbHorizontalPictureLocking** constant indicating where newly inserted pictures appear in relation to the specified frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **HorizontalPictureLocking**
+_expression_.**HorizontalPictureLocking**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -45,4 +46,4 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.Vertical Property (Word)
+title: MailingLabel.Vertical property (Word)
 keywords: vbawd10.chm152502282
 f1_keywords:
 - vbawd10.chm152502282
@@ -8,19 +8,20 @@ api_name:
 - Word.MailingLabel.Vertical
 ms.assetid: 9dac957c-d2be-addd-81f2-4dd6b134051d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel.Vertical Property (Word)
+# MailingLabel.Vertical property (Word)
 
- **True** vertically orients text on Asian mailing labels. Read/write **Boolean** .
+ **True** vertically orients text on Asian mailing labels. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Vertical`
+_expression_. `Vertical`
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End Sub
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

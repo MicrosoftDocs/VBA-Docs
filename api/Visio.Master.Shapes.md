@@ -1,5 +1,5 @@
 ---
-title: Master.Shapes Property (Visio)
+title: Master.Shapes property (Visio)
 keywords: vis_sdr.chm10714330
 f1_keywords:
 - vis_sdr.chm10714330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Shapes
 ms.assetid: 56db5c02-9b55-dfe1-993b-c23e93e84577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Shapes Property (Visio)
+# Master.Shapes property (Visio)
 
 Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -64,4 +65,4 @@ Public Sub Shapes_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

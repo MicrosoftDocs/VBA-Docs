@@ -3,6 +3,7 @@ title: Assign a control a value from a table
 ms.prod: access
 ms.assetid: d9bba7e3-bca0-00df-3753-dc99ae767759
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ End Sub
 
 The **DLookup** function has three arguments. The first specifies the field you are looking up (UnitPrice); the second specifies the table (Products); and the third specifies which value to find (the value for the record where the ProductID is the same as the ProductID on the current record in the Orders subform).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

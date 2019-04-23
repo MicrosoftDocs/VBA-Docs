@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Insert Method (Outlook)
+title: ViewFields.Insert method (Outlook)
 keywords: vbaol11.chm2553
 f1_keywords:
 - vbaol11.chm2553
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewFields.Insert
 ms.assetid: a975a030-76c9-e877-8df7-601094998fd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFields.Insert Method (Outlook)
+# ViewFields.Insert method (Outlook)
 
 Creates a new  **[ViewField](Outlook.ViewField.md)** object and inserts it at the specified index within the **[ViewFields](Outlook.ViewFields.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_PropertyName_` , `_Index_` )
+_expression_.**Insert** (_PropertyName_, _Index_)
 
- _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ A  **ViewField** object that represents the new view field.
 
 [ViewFields Object](Outlook.ViewFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

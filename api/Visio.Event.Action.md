@@ -1,5 +1,5 @@
 ---
-title: Event.Action Property (Visio)
+title: Event.Action property (Visio)
 keywords: vis_sdr.chm12613010
 f1_keywords:
 - vis_sdr.chm12613010
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.Action
 ms.assetid: dd776f54-051c-13c3-433e-299687203381
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.Action Property (Visio)
+# Event.Action property (Visio)
 
 Gets or sets the action code of an  **Event** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Action`
+_expression_.**Action**
 
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 
@@ -41,3 +42,4 @@ Microsoft Visio supports the following action codes.
 | **visActCodeRunAddon**|1 |
 | **visActCodeAdvise**|2 |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

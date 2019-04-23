@@ -1,5 +1,5 @@
 ---
-title: Style.NextParagraphStyle Property (Word)
+title: Style.NextParagraphStyle property (Word)
 keywords: vbawd10.chm153878533
 f1_keywords:
 - vbawd10.chm153878533
@@ -8,17 +8,18 @@ api_name:
 - Word.Style.NextParagraphStyle
 ms.assetid: f8326275-bb81-4a0e-f790-32b34ef71f78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.NextParagraphStyle Property (Word)
+# Style.NextParagraphStyle property (Word)
 
-Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write  **Variant** .
+Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `NextParagraphStyle`
+_expression_. `NextParagraphStyle`
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
@@ -60,3 +61,4 @@ Set myStyle = myDoc.Styles.Add(Name:= "MyStyle")
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

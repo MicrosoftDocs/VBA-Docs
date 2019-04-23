@@ -1,5 +1,5 @@
 ---
-title: TextRange.Length Property (PowerPoint)
+title: TextRange.Length property (PowerPoint)
 keywords: vbapp10.chm569005
 f1_keywords:
 - vbapp10.chm569005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Length
 ms.assetid: 4eb64830-f8e4-5226-57c1-80df7f4bd39f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Length Property (PowerPoint)
+# TextRange.Length property (PowerPoint)
 
 Returns the length of the specified text range, in characters. Read-only.
 
 
 ## Syntax
 
- _expression_. `Length`
+_expression_.**Length**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -59,3 +60,4 @@ End With
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

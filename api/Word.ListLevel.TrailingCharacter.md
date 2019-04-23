@@ -1,5 +1,5 @@
 ---
-title: ListLevel.TrailingCharacter Property (Word)
+title: ListLevel.TrailingCharacter property (Word)
 keywords: vbawd10.chm160235523
 f1_keywords:
 - vbawd10.chm160235523
@@ -8,19 +8,20 @@ api_name:
 - Word.ListLevel.TrailingCharacter
 ms.assetid: 9f64d28c-4409-6278-e20e-baaea1d03ce7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.TrailingCharacter Property (Word)
+# ListLevel.TrailingCharacter property (Word)
 
-Returns or sets the character inserted after the number for the specified list level. Read/write  **WdTrailingCharacter** .
+Returns or sets the character inserted after the number for the specified list level. Read/write  **WdTrailingCharacter**.
 
 
 ## Syntax
 
- _expression_. `TrailingCharacter`
+_expression_. `TrailingCharacter`
 
- _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
+_expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Example
@@ -46,3 +47,4 @@ Next lev
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

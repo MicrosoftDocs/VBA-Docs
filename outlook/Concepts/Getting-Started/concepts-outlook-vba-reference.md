@@ -3,6 +3,7 @@ title: Concepts (Outlook)
 ms.prod: outlook
 ms.assetid: 98b66ea0-ef43-fda8-8893-b49cef9c28da
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 
@@ -27,5 +28,4 @@ This section provides important concepts for developing custom Outlook solutions
 - [Basic control tasks](../Specifying-Form-Behavior/basic-control-tasks.md)
 - [Secondary control tasks](../Specifying-Form-Behavior/secondary-control-tasks.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

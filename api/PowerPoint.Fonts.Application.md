@@ -1,5 +1,5 @@
 ---
-title: Fonts.Application Property (PowerPoint)
+title: Fonts.Application property (PowerPoint)
 keywords: vbapp10.chm528001
 f1_keywords:
 - vbapp10.chm528001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Fonts.Application
 ms.assetid: 8e40626a-d64c-4a5e-4a4b-b2bac22d931f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fonts.Application Property (PowerPoint)
+# Fonts.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Fonts](./PowerPoint.Fonts.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Fonts Object](PowerPoint.Fonts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

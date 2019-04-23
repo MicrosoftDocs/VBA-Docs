@@ -1,5 +1,5 @@
 ---
-title: Document.SaveSubsetFonts Property (Word)
+title: Document.SaveSubsetFonts property (Word)
 keywords: vbawd10.chm158007349
 f1_keywords:
 - vbawd10.chm158007349
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SaveSubsetFonts
 ms.assetid: 01210b29-f346-e513-6876-3dab30b940e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SaveSubsetFonts Property (Word)
+# Document.SaveSubsetFonts property (Word)
 
- **True** if Microsoft Word saves a subset of the embedded TrueType fonts with the document. Read/write **Boolean** .
+ **True** if Microsoft Word saves a subset of the embedded TrueType fonts with the document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SaveSubsetFonts`
+_expression_. `SaveSubsetFonts`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

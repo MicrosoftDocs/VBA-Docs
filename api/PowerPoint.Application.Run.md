@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (PowerPoint)
+title: Application.Run method (PowerPoint)
 keywords: vbapp10.chm502023
 f1_keywords:
 - vbapp10.chm502023
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.Run
 ms.assetid: 21b8a0c4-10c8-d8c3-9214-adffad35f7d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Run Method (PowerPoint)
+# Application.Run method (PowerPoint)
 
 Runs a Visual Basic procedure.
 
 
 ## Syntax
 
- _expression_. `Run`( `_MacroName_`, `_safeArrayOfParams_` )
+_expression_. `Run`( `_MacroName_`, `_safeArrayOfParams_` )
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
@@ -72,3 +73,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

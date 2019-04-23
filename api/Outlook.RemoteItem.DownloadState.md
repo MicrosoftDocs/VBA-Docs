@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.DownloadState Property (Outlook)
+title: RemoteItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1625
 f1_keywords:
 - vbaol11.chm1625
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RemoteItem.DownloadState
 ms.assetid: 30e87940-f365-113c-dad4-c17775db7cdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RemoteItem.DownloadState Property (Outlook)
+# RemoteItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

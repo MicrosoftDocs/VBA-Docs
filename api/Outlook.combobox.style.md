@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 270554c3-0417-c261-4ccc-4bc28d4dfb5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies how the user can choose or set th
 
 ## Syntax
 
- _expression_. **Style**
+_expression_.**Style**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -27,8 +28,9 @@ The settings of the  **Style** property are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The  **ComboBox** behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default).|
 |2|The  **ComboBox** behaves as a list box. The user must choose a value from the list.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.MouseUp Event (Outlook)
+title: OlkTextBox.MouseUp event (Outlook)
 keywords: vbaol11.chm1000075
 f1_keywords:
 - vbaol11.chm1000075
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTextBox.MouseUp
 ms.assetid: 6dfa9337-2c66-f542-a78f-e9da849db6fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox.MouseUp Event (Outlook)
+# OlkTextBox.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

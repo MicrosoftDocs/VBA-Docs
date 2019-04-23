@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0891d1db-fcef-486c-92e2-d4ad66915c4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.OutlineShowAllTasks Method (Project)](http://msdn.microsoft.com/library/eb6bd9f7-52e4-fb57-b8da-b64f7615c072%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

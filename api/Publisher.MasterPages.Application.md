@@ -1,5 +1,5 @@
 ---
-title: MasterPages.Application Property (Publisher)
+title: MasterPages.Application property (Publisher)
 keywords: vbapb10.chm589825
 f1_keywords:
 - vbapb10.chm589825
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MasterPages.Application
 ms.assetid: 746b57d2-7694-787a-325c-e0b4ea7c0a85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterPages.Application Property (Publisher)
+# MasterPages.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **MasterPages** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

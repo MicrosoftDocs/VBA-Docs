@@ -3,6 +3,7 @@ title: Move through a DAO Recordset
 ms.prod: access
 ms.assetid: 7d788b60-c6e8-dea7-68fe-01b893fc3374
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -75,4 +76,4 @@ End Sub
 > [!NOTE] 
 > The previous example is provided only for the purposes of illustrating the **Update** and **MoveNext** methods. For optimal performance, it is recommended that you perform this bulk operation with a SQL UPDATE query.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

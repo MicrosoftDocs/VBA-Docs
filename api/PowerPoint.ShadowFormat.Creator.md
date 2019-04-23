@@ -1,21 +1,22 @@
 ---
-title: ShadowFormat.Creator Property (PowerPoint)
+title: ShadowFormat.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Creator
 ms.assetid: bd222db3-f0f1-725e-0023-ab10cabd1d0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Creator Property (PowerPoint)
+# ShadowFormat.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

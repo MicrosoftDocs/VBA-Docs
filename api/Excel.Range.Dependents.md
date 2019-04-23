@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Dependents
 ms.assetid: 47813412-306a-0f99-3ca5-d354b16af468
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `Dependents`
+_expression_. `Dependents`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Range("A1").Dependents.Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

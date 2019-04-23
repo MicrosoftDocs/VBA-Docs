@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddTop10 Method (Excel)
+title: FormatConditions.AddTop10 method (Excel)
 keywords: vbaxl10.chm510082
 f1_keywords:
 - vbaxl10.chm510082
@@ -8,19 +8,20 @@ api_name:
 - Excel.FormatConditions.AddTop10
 ms.assetid: e6998652-fb2c-201e-5334-298297d4b41e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormatConditions.AddTop10 Method (Excel)
+# FormatConditions.AddTop10 method (Excel)
 
 Returns a  **[Top10](Excel.Top10.md)** object representing a conditional formatting rule for the specified range.
 
 
 ## Syntax
 
- _expression_. `AddTop10`
+_expression_. `AddTop10`
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Using the  **Top10** object, you can find the highest and lowest values in a ran
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Excel)
+title: Window.Activate method (Excel)
 keywords: vbaxl10.chm356073
 f1_keywords:
 - vbaxl10.chm356073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.Activate
 ms.assetid: 7e0fdc4e-6399-62a8-f706-1653eb9217a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Activate Method (Excel)
+# Window.Activate method (Excel)
 
 Brings the window to the front of the z-order. 
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ This won't run any Auto_Activate or Auto_Deactivate macros that might be attache
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

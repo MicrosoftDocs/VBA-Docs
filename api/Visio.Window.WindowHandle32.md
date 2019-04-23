@@ -1,5 +1,5 @@
 ---
-title: Window.WindowHandle32 Property (Visio)
+title: Window.WindowHandle32 property (Visio)
 keywords: vis_sdr.chm11614660
 f1_keywords:
 - vis_sdr.chm11614660
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.WindowHandle32
 ms.assetid: e766aaab-4b6b-2c8b-3ca2-832fae7e38b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.WindowHandle32 Property (Visio)
+# Window.WindowHandle32 property (Visio)
 
 Returns the 32-bit handle of a Microsoft Visio window. Read-only.
 
 
 ## Syntax
 
- _expression_. `WindowHandle32`
+_expression_. `WindowHandle32`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -75,4 +76,4 @@ Public Sub WindowHandle32_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

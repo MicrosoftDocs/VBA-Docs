@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyTables Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyTables property (Word)
 keywords: vbawd10.chm165347618
 f1_keywords:
 - vbawd10.chm165347618
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyTables
 ms.assetid: e7435efc-b4a1-97a3-a7b1-d6e1fabfd0c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyTables Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyTables property (Word)
 
- **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. Read/write **Boolean** .
+ **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyTables`
+_expression_. `AutoFormatAsYouTypeApplyTables`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -54,3 +55,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyTables
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

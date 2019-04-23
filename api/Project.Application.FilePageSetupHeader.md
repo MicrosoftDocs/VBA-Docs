@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupHeader Method (Project)
+title: Application.FilePageSetupHeader method (Project)
 keywords: vbapj.chm2357
 f1_keywords:
 - vbapj.chm2357
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupHeader
 ms.assetid: e41ff9e1-d656-14fe-3d81-deef3065d11d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupHeader Method (Project)
+# Application.FilePageSetupHeader method (Project)
 
 Sets up headers for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupHeader`( ` _Name_`, ` _Alignment_`, ` _Text_` )
+_expression_. `FilePageSetupHeader`( `_Name_`, `_Alignment_`, `_Text_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -96,4 +97,4 @@ Public Function GetFontFormatCode(strFontName As String) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

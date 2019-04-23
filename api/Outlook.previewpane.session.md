@@ -1,24 +1,25 @@
 ---
-title: PreviewPane.Session Property (Outlook)
+title: PreviewPane.Session property (Outlook)
 keywords: vbaol11.chm3636
 f1_keywords:
 - vbaol11.chm3636
 ms.assetid: 54509e05-d255-b96e-f037-14282791ea55
 ms.date: 06/08/2017
 ms.prod: outlook
+localization_priority: Normal
 ---
 
 
-# PreviewPane.Session Property (Outlook)
+# PreviewPane.Session property (Outlook)
 
 Returns the [NameSpace](Outlook.NameSpace.md) for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a 'PreviewPane' object.
+_expression_ A variable that represents a 'PreviewPane' object.
 
 
 ## Remarks
@@ -33,6 +34,6 @@ The  **Session** property and the [GetNamespace](Outlook.Application.GetNamespac
 ## See also
 
 
-[PreviewPane Object (Outlook)](Outlook.previewpane.md)
+[PreviewPane object (Outlook)](Outlook.previewpane.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

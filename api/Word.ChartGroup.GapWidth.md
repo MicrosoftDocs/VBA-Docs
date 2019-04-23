@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.GapWidth Property (Word)
+title: ChartGroup.GapWidth property (Word)
 keywords: vbawd10.chm263454728
 f1_keywords:
 - vbawd10.chm263454728
@@ -8,19 +8,20 @@ api_name:
 - Word.ChartGroup.GapWidth
 ms.assetid: 7f8d7f6b-9086-19c2-c4f4-d947491631ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.GapWidth Property (Word)
+# ChartGroup.GapWidth property (Word)
 
-For bar and column charts, returns or sets the space, as a percentage of the bar or column width, between bar or column clusters. For pie-of-pie and bar-of-pie charts, returns or sets the space between the primary and secondary sections of the chart. Read/write  **Long** .
+For bar and column charts, returns or sets the space, as a percentage of the bar or column width, between bar or column clusters. For pie-of-pie and bar-of-pie charts, returns or sets the space between the primary and secondary sections of the chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GapWidth`
+_expression_.**GapWidth**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

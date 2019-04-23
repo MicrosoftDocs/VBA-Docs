@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Event (Word)
+title: Application.NewDocument event (Word)
 keywords: vbawd10.chm400008
 f1_keywords:
 - vbawd10.chm400008
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.NewDocument
 ms.assetid: afe5b924-3067-69e7-4331-a9ea2b30b9b5
 ms.date: 08/20/2018
+localization_priority: Normal
 ---
 
 
-# Application.NewDocument Event (Word)
+# Application.NewDocument event (Word)
 
 Occurs when a new document is created.
 
@@ -69,3 +70,4 @@ End Sub
 
 - [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

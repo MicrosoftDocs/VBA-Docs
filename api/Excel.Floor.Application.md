@@ -8,6 +8,7 @@ api_name:
 - Excel.Floor.Application
 ms.assetid: a700b313-c760-5626-aecf-2e06d6904152
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
+_expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Floor Object](Excel.Floor(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

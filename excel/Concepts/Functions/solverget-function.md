@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 3daf519c-06be-b200-7615-926e30fd2474
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,7 +34,7 @@ Returns information about current settings for Solver. The settings are specifie
 |7|An array of numbers corresponding to the relationships between the left and right sides of the constraints: 1 represents <=, 2 represents =, 3 represents >=, 4 represents int, and 5 represents bin.|
 |8|An array of the right sides of the constraints, in text form.|
 |13| **True** if the **Simple LP Solving** method is selected; **False** if another Solving method is selected.|
-|20| **True** if the ** Make Unconstrained Variables Non-Negative** check box is selected; **False** if it is cleared.|
+|20| **True** if the **Make Unconstrained Variables Non-Negative** check box is selected; **False** if it is cleared.|
 
 The following settings are specified in the  **Solver Options** dialog box.
 
@@ -52,7 +53,7 @@ The following settings are specified in the  **Solver Options** dialog box.
 |19|The  **Convergence** tolerance (GRG Nonlinear tab and Evolutionary tab).|
 |21|The  **Population Size** option (GRG Nonlinear tab and Evolutionary tab).|
 |22|The  **Random Seed** option(GRG Nonlinear tab and Evolutionary tab).|
-|23| **True** if the Use ** Multistart** check box is selected; **False** if it is cleared (GRG Nonlinear tab).|
+|23| **True** if the Use **Multistart** check box is selected; **False** if it is cleared (GRG Nonlinear tab).|
 |24| **True** if the **Require Bounds on Variables** check box is selected; **False** if it is cleared (GRG Nonlinear tab and Evolutionary tab).|
 |25|The  **Mutation Rate** option (Evolutionary tab).|
 |26|The  **Max Subproblems** option (All Methods tab).|
@@ -75,4 +76,4 @@ If IsError(State) Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

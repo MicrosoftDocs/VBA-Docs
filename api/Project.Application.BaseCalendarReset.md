@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarReset Method (Project)
+title: Application.BaseCalendarReset method (Project)
 keywords: vbapj.chm617
 f1_keywords:
 - vbapj.chm617
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BaseCalendarReset
 ms.assetid: 43c842b2-146b-f080-f88b-c1e0ef5526d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarReset Method (Project)
+# Application.BaseCalendarReset method (Project)
 
 Resets a base calendar.
 
 
 ## Syntax
 
- _expression_. `BaseCalendarReset`( ` _Name_` )
+_expression_. `BaseCalendarReset`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -61,4 +62,4 @@ Sub RestoreBaseCalendar()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

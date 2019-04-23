@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.CreateNewDocument Method (Word)
+title: MailingLabel.CreateNewDocument method (Word)
 keywords: vbawd10.chm152502376
 f1_keywords:
 - vbawd10.chm152502376
@@ -8,19 +8,20 @@ api_name:
 - Word.MailingLabel.CreateNewDocument
 ms.assetid: a52831c0-42cb-e970-14e7-2c71bcc5c2f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel.CreateNewDocument Method (Word)
+# MailingLabel.CreateNewDocument method (Word)
 
 Creates a new label document using either the default label options or ones that you specify. Returns a  **Document** object that represents the new document.
 
 
 ## Syntax
 
- _expression_. `CreateNewDocument`( `_Name_` , `_Address_` , `_AutoText_` , `_ExtractAddress_` , `_LaserTray_` , `_PrintEPostageLabel_` , `_Vertical_` )
+_expression_. `CreateNewDocument`( `_Name_` , `_Address_` , `_AutoText_` , `_ExtractAddress_` , `_LaserTray_` , `_PrintEPostageLabel_` , `_Vertical_` )
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Parameters
@@ -84,3 +85,4 @@ End If
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

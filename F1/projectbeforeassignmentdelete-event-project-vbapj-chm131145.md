@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1107a4f4-de01-46cc-a239-34d1523d5cbb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.WorkpaneDisplayChange Event (Project)](http://msdn.microsoft.com/library/8fad51ed-57f5-a34d-6ef6-f699b605c10c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

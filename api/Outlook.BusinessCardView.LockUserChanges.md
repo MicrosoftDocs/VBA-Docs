@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.LockUserChanges Property (Outlook)
+title: BusinessCardView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2927
 f1_keywords:
 - vbaol11.chm2927
@@ -8,29 +8,30 @@ api_name:
 - Outlook.BusinessCardView.LockUserChanges
 ms.assetid: 61867505-136e-49d8-f3be-8178b5d53860
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView.LockUserChanges Property (Outlook)
+# BusinessCardView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the current view. Read/write.
 
 
 ## Syntax
 
- _expression_. `LockUserChanges`
+_expression_. `LockUserChanges`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks
 
-If  **True** , the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If  **True**, the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
+The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True**.
 
 
 ```vb
@@ -115,3 +116,4 @@ End Sub
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

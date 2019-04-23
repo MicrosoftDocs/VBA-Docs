@@ -8,28 +8,29 @@ api_name:
 - Excel.CubeField.LayoutForm
 ms.assetid: a9077651-214f-6926-89fc-c29a1ff35682
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # CubeField.LayoutForm property (Excel)
 
-Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)** .
+Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)**.
 
 
 ## Syntax
 
- _expression_. `LayoutForm`
+_expression_. `LayoutForm`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks
 
 
 
-| **XlLayoutFormType** can be one of these **XlLayoutFormType** constants.|
-| **xlTabular** . Default.|
-| **xlOutline** . The **[LayoutSubtotalLocation](Excel.CubeField.LayoutSubtotalLocation.md)** property specifies where the subtotal appears in the PivotTable report.|
+| **xlLayoutFormType** can be one of these **xlLayoutFormType** constants.|
+| **xlTabular**. Default.|
+| **xlOutline**. The **[LayoutSubtotalLocation](Excel.CubeField.LayoutSubtotalLocation.md)** property specifies where the subtotal appears in the PivotTable report.|
 
 You can set this property for any PivotTable field; however, the formatting appears only if the specified field is a row field other than the innermost (lowest-level) row field. For non-OLAP data sources, the value of this property doesn't change when the field is rearranged or when it is added to or removed from the PivotTable report.
 
@@ -53,3 +54,4 @@ End With
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

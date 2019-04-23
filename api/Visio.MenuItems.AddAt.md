@@ -1,5 +1,5 @@
 ---
-title: MenuItems.AddAt Method (Visio)
+title: MenuItems.AddAt method (Visio)
 keywords: vis_sdr.chm13016015
 f1_keywords:
 - vis_sdr.chm13016015
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItems.AddAt
 ms.assetid: 1a987305-29f9-4f58-758b-a89d1e1911ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItems.AddAt Method (Visio)
+# MenuItems.AddAt method (Visio)
 
 Creates a new  **MenuItem** object at a specified index in the **MenuItems** collection.
 
 
 ## Syntax
 
- _expression_. `AddAt`( `_lIndex_` )
+_expression_. `AddAt`( `_lIndex_` )
 
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) object.
 
@@ -98,4 +99,4 @@ Public Sub AddAt_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowFiltering
 ms.assetid: dc0b8ab3-ea28-0692-9474-8f81cc395599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowFiltering property (Excel)
 
-Returns  **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean** .
+Returns  **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowFiltering`
+_expression_. `AllowFiltering`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

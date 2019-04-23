@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties Object (Visio)
+title: ContainerProperties object (Visio)
 keywords: vis_sdr.chm61040
 f1_keywords:
 - vis_sdr.chm61040
@@ -8,10 +8,11 @@ api_name:
 - Visio.ContainerProperties
 ms.assetid: b94f758f-58f7-f1ef-c03b-761e26c11017
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContainerProperties Object (Visio)
+# ContainerProperties object (Visio)
 
 Represents the set of properties that are specific to a container.
 
@@ -29,7 +30,7 @@ To create an instance of a container shape on the drawing page, use the  **[Page
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddMember](./Visio.ContainerProperties.AddMember.md)|
 |[Disband](./Visio.ContainerProperties.Disband.md)|
@@ -51,7 +52,7 @@ To create an instance of a container shape on the drawing page, use the  **[Page
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.ContainerProperties.Application.md)|
 |[ContainerStyle](./Visio.ContainerProperties.ContainerStyle.md)|
@@ -67,3 +68,4 @@ To create an instance of a container shape on the drawing page, use the  **[Page
 |[Shape](./Visio.ContainerProperties.Shape.md)|
 |[Stat](./Visio.ContainerProperties.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

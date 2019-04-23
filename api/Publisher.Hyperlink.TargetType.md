@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TargetType Property (Publisher)
+title: Hyperlink.TargetType property (Publisher)
 keywords: vbapb10.chm4587529
 f1_keywords:
 - vbapb10.chm4587529
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlink.TargetType
 ms.assetid: 1cbc8c36-563c-4464-4f0d-2836682ce532
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.TargetType Property (Publisher)
+# Hyperlink.TargetType property (Publisher)
 
 Returns a  **PbHlinkTargetType** constant that represents the type of hyperlink. Read-only.
 
 
 ## Syntax
 
- _expression_. **TargetType**
+_expression_.**TargetType**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 
@@ -60,4 +61,4 @@ Sub SetHyperlinkTextToDisplay()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Font.ColorIndex
 ms.assetid: e5fa27eb-b905-dd5d-a3b5-69a94492a6c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the color of the font.
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ Worksheets("Sheet1").Range("A1").Font.ColorIndex = 3
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

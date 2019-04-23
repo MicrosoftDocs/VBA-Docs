@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c7d6ad72-b02a-4d33-963a-32d90a0890c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.QueryCancelDocumentClose Event (Visio)](http://msdn.microsoft.com/library/5d58168d-ed84-943e-26b6-16246c907e52%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Form Name and Message Class Overview
 ms.prod: outlook
 ms.assetid: 8f72a998-b0c8-86ba-072b-5326ea785578
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,4 +28,4 @@ When you search in the  **Choose Form** dialog box, locate "This is my Form" dis
 
 Outlook automatically generates a message class from the form name and assigns it to the form. Then, when a form with that message class is selected, Outlook loads and displays an instance of that form. For example, Outlook uses the message class, "IPM.Note.MyForm" to locate the form with the display name, "This is my Form".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

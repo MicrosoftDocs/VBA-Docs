@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5215ce59-01d2-473b-a815-0057ef515eb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.BeforeMasterDelete Event (Visio)](http://msdn.microsoft.com/library/7a4a99f1-a3e6-af6c-b563-ca65877eb980%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

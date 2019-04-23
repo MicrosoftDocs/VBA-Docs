@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Parent Property (PowerPoint)
+title: LinkFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm563002
 f1_keywords:
 - vbapp10.chm563002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.LinkFormat.Parent
 ms.assetid: 49bc1179-6fc4-c11f-c0a2-e35d95704622
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.Parent Property (PowerPoint)
+# LinkFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [LinkFormat](./PowerPoint.LinkFormat.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [LinkFormat Object](PowerPoint.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

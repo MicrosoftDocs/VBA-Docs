@@ -1,17 +1,18 @@
 ---
-title: Shapes.AddLabel Method (Project)
+title: Shapes.AddLabel method (Project)
 ms.prod: project-server
 ms.assetid: 3fd21dbc-51b7-0e22-8c8a-359b1717932f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLabel Method (Project)
+# Shapes.AddLabel method (Project)
 Creates a label in a report, and returns a  **Shape** object that represents the new label.
 
 ## Syntax
 
- _expression_. `AddLabel` _(Orientation,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_. `AddLabel` _(Orientation,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -20,7 +21,7 @@ Creates a label in a report, and returns a  **Shape** object that represents the
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|**MsoTextOrientation**|The text orientation within the label.|
 | _Left_|Required|**Single**|The position (in points) of the left edge of the label relative to the left side of the report.|
@@ -80,3 +81,5 @@ End Sub
 
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

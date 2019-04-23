@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CommandBars Property (Visio)
+title: InvisibleApp.CommandBars property (Visio)
 keywords: vis_sdr.chm17550540
 f1_keywords:
 - vis_sdr.chm17550540
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.CommandBars
 ms.assetid: e26f5345-a8bd-5583-1475-fe9c4221c6a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.CommandBars Property (Visio)
+# InvisibleApp.CommandBars property (Visio)
 
 Returns a reference to the  **CommandBars** collection that represents the command bars in the container application. Read-only.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -35,7 +36,7 @@ CommandBars
 
 Beginning with Microsoft Visio 2002, a program can manipulate menus and toolbars in the Visio user interface by manipulating the  **CommandBars** collection returned by the **CommandBars** property. The **CommandBars** collection has an interface identical to the **CommandBars** collection exposed by the suite of Microsoft Office applications such as Microsoft Word and Microsoft Excel.
 
-Alternatively, since Visio version 4.0, Visio has exposed application and document properties that return a  **UIObject** object that provides similar functionality to **CommandBars** . Consequently, programs can use either the **CommandBars** collection or **UIObject** objects to manipulate the Visio menus and toolbars.
+Alternatively, since Visio version 4.0, Visio has exposed application and document properties that return a  **UIObject** object that provides similar functionality to **CommandBars**. Consequently, programs can use either the **CommandBars** collection or **UIObject** objects to manipulate the Visio menus and toolbars.
 
 To get information about the object returned by the  **CommandBars** property:
 
@@ -50,7 +51,7 @@ To get information about the object returned by the  **CommandBars** property:
     
 4. If you do not see the Office type library in the  **Project/Library** list, on the **Tools** menu, click **References**, select the  **Microsoft Office 14.0 Object Library** check box, and then click **OK**.
     
-5. Under  **Classes**, examine the class named  **CommandBars** .
+5. Under  **Classes**, examine the class named  **CommandBars**.
     
 
 
@@ -95,4 +96,4 @@ Public Sub CommandBars_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

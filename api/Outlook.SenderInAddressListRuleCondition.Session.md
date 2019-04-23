@@ -1,5 +1,5 @@
 ---
-title: SenderInAddressListRuleCondition.Session Property (Outlook)
+title: SenderInAddressListRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2466
 f1_keywords:
 - vbaol11.chm2466
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SenderInAddressListRuleCondition.Session
 ms.assetid: ec6ac5e8-9e21-a073-c179-7050e5a9b6c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SenderInAddressListRuleCondition.Session Property (Outlook)
+# SenderInAddressListRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
+_expression_ A variable that represents a [SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

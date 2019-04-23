@@ -1,5 +1,5 @@
 ---
-title: Workbook.UpdateLink Method (Excel)
+title: Workbook.UpdateLink method (Excel)
 keywords: vbaxl10.chm199160
 f1_keywords:
 - vbaxl10.chm199160
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.UpdateLink
 ms.assetid: 2aef72cc-a820-3e91-1f46-50c739faf2bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.UpdateLink Method (Excel)
+# Workbook.UpdateLink method (Excel)
 
 Updates a Microsoft Excel, DDE, or OLE link (or links).
 
 
 ## Syntax
 
- _expression_. `UpdateLink`( `_Name_` , `_Type_` )
+_expression_. `UpdateLink`( `_Name_` , `_Type_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveWorkbook.UpdateLink Name:=ActiveWorkbook.LinkSources
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

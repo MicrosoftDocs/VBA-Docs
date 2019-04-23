@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email2EntryID Property (Outlook)
+title: ContactItem.Email2EntryID property (Outlook)
 keywords: vbaol11.chm998
 f1_keywords:
 - vbaol11.chm998
@@ -8,26 +8,27 @@ api_name:
 - Outlook.ContactItem.Email2EntryID
 ms.assetid: 0c5691bb-e112-763b-d126-2bcc2c52ccce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.Email2EntryID Property (Outlook)
+# ContactItem.Email2EntryID property (Outlook)
 
-Returns a  **String** representing the entry ID of the second e-mail entry for the contact. Read-only.
+Returns a  **String** representing the entry ID of the second email entry for the contact. Read-only.
 
 
 ## Syntax
 
- _expression_. `Email2EntryID`
+_expression_. `Email2EntryID`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI named property  **dispidEmail2OriginalEntryID** .
+This property corresponds to the MAPI named property  **dispidEmail2OriginalEntryID**.
 
-If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **Email2EntryID** , you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[ContactItem.PropertyAccessor](Outlook.ContactItem.PropertyAccessor.md)** property, specifying the MAPI property **PidLidEmail2OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
+If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **Email2EntryID**, you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[ContactItem.PropertyAccessor](Outlook.ContactItem.PropertyAccessor.md)** property, specifying the MAPI property **PidLidEmail2OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
 
 
 
@@ -90,3 +91,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

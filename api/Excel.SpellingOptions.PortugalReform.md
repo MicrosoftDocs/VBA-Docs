@@ -8,6 +8,7 @@ api_name:
 - Excel.SpellingOptions.PortugalReform
 ms.assetid: 6ab330e3-16ea-777b-0cfa-74c1627b52af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the mode for checking the spelling of European Portuguese. Read/
 
 ## Syntax
 
- _expression_. `PortugalReform`
+_expression_. `PortugalReform`
 
- _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
+_expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
 ## Return value
@@ -41,3 +42,4 @@ Returns or sets the mode for checking the spelling of European Portuguese. Read/
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

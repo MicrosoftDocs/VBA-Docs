@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Odd Method (Excel)
+title: WorksheetFunction.Odd method (Excel)
 keywords: vbaxl10.chm137202
 f1_keywords:
 - vbaxl10.chm137202
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Odd
 ms.assetid: 28a30d51-ba7b-f7b4-55a5-39b85f7f4cd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Odd Method (Excel)
+# WorksheetFunction.Odd method (Excel)
 
 Returns number rounded up to the nearest odd integer.
 
 
 ## Syntax
 
- _expression_. `Odd`( `_Arg1_` )
+_expression_. `Odd`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

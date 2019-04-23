@@ -3,6 +3,7 @@ title: Name a Form Region
 ms.prod: outlook
 ms.assetid: 9e5009db-8230-3a82-60a6-d62cb5b0cc3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -41,5 +42,5 @@ For more information, see  [Specifying Form Regions in the Windows Registry](spe
 
 
 - In the form region manifest XML file, specify a string identifier for the form region as a value of the  **formRegionName** element. The value of the **formRegionName** element identifies the form region in the **Show** group of the ribbon in the default locale. If the form region is an adjoining form region, the value is also used in the header that separates the beginning of an adjoining form region from the preceding portion of the form. This value can be overridden with a locale-specific value according to the regional settings and any form region localization manifest. The following example specifies Additional Information as the form region identifier of a separate form region: `<formRegionName>Additional Information</formRegionName>`If the  **formRegionName** element is not specified in the form region manifest XML file, then the value for **title**, if it is defined, will be used. If no value has been specified for  **title**, then the internal name will be used.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

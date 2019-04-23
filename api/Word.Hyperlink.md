@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Word)
+title: Hyperlink object (Word)
 keywords: vbawd10.chm2461
 f1_keywords:
 - vbawd10.chm2461
@@ -8,10 +8,11 @@ api_name:
 - Word.Hyperlink
 ms.assetid: af785a9e-081a-e359-705f-04f490304e2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink Object (Word)
+# Hyperlink object (Word)
 
 Represents a hyperlink. The  **Hyperlink** object is a member of the **Hyperlinks** collection.
 
@@ -41,7 +42,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToFavorites](Word.Hyperlink.AddToFavorites.md)|
 |[CreateNewDocument](Word.Hyperlink.CreateNewDocument.md)|
@@ -52,7 +53,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Word.Hyperlink.Address.md)|
 |[Application](Word.Hyperlink.Application.md)|
@@ -72,4 +73,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

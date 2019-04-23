@@ -1,5 +1,5 @@
 ---
-title: Selection.ObjectType Property (Visio)
+title: Selection.ObjectType property (Visio)
 keywords: vis_sdr.chm11113960
 f1_keywords:
 - vis_sdr.chm11113960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.ObjectType
 ms.assetid: b21e23b1-8ff3-ec9e-f92d-230f0ea250a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ObjectType Property (Visio)
+# Selection.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

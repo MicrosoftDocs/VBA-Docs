@@ -3,6 +3,7 @@ title: Project object model
 ms.prod: project-server
 ms.assetid: 900b167b-88ec-ea88-15b7-27bb90c22ac6
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -19,5 +20,5 @@ You can use the table of contents to navigate through the documentation. For dia
 -  **[Resources Object Map](resources-object-map-project.md)**
     
 -  **[Tasks Object Map](tasks-object-map-project.md)**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

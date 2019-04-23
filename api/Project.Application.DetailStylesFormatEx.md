@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesFormatEx Method (Project)
+title: Application.DetailStylesFormatEx method (Project)
 keywords: vbapj.chm2164
 f1_keywords:
 - vbapj.chm2164
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DetailStylesFormatEx
 ms.assetid: 3e460e76-ff7b-f07b-058c-1e37c53e453e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DetailStylesFormatEx Method (Project)
+# Application.DetailStylesFormatEx method (Project)
 
 Sets the format of timescaled data fields in a Resource Usage view or Task Usage view, where colors can be hexadecimal values.
 
 
 ## Syntax
 
- _expression_. `DetailStylesFormatEx`( ` _Item_`, ` _Font_`, ` _Size_`, ` _Bold_`, ` _Italic_`, ` _Underline_`, ` _Color_`, ` _CellColor_`, ` _Pattern_`, ` _ShowInMenu_`, ` _Strikethrough_` )
+_expression_. `DetailStylesFormatEx`( `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_CellColor_`, `_Pattern_`, `_ShowInMenu_`, `_Strikethrough_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -67,4 +68,4 @@ End Sub
 
  **Note**  If you use any of the  **PjColor** enumeration constants for the _Color_ or _CellColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **DetailStylesFormatEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[DetailStylesFormat](Project.Application.DetailStylesFormat.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

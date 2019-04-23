@@ -1,5 +1,5 @@
 ---
-title: Options.AutoHyphenate Property (Publisher)
+title: Options.AutoHyphenate property (Publisher)
 keywords: vbapb10.chm1048580
 f1_keywords:
 - vbapb10.chm1048580
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.AutoHyphenate
 ms.assetid: 821d0540-80ec-9f9d-777e-4d2596baf7d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoHyphenate Property (Publisher)
+# Options.AutoHyphenate property (Publisher)
 
  **True** (default) for Microsoft Publisher to automatically hyphenate text in text frames. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AutoHyphenate**
+_expression_.**AutoHyphenate**
 
  _expression_ A variable that represents an  **Options** object.
 
@@ -42,4 +43,4 @@ Sub SetHyphenationZone()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

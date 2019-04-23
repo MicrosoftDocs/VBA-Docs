@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 93b2bc7c-8195-47e3-af81-f27f8e74152f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Parent property (Access)](http://msdn.microsoft.com/library/288169cc-0934-43b0-a7b4-18445844519b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

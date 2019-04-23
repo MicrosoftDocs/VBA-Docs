@@ -1,5 +1,5 @@
 ---
-title: Row.Parent Property (PowerPoint)
+title: Row.Parent property (PowerPoint)
 keywords: vbapp10.chm626002
 f1_keywords:
 - vbapp10.chm626002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Row.Parent
 ms.assetid: 7ba988f9-08df-d74a-0771-30174c4ed6c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Parent Property (PowerPoint)
+# Row.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Row](./PowerPoint.Row.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [Row Object](PowerPoint.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

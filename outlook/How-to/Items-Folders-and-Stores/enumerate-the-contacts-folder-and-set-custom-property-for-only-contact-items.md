@@ -3,6 +3,7 @@ title: Enumerate the Contacts Folder and Set Custom Property for only Contact It
 ms.prod: outlook
 ms.assetid: 6a4cd2e4-a5ec-e55c-0d47-ff618c186c8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -55,4 +56,4 @@ Sub SetAffiliationForContacts()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.ReadOnly
 ms.assetid: 978c9dc4-fc82-fb26-11f0-e333e43393b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.ReadOnly property (Excel)
 
- Returns **True** if the object has been opened as read-only. Read-only **Boolean** .
+ Returns **True** if the object has been opened as read-only. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ReadOnly`
+_expression_. `ReadOnly`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ The following example displays the setting of the  **ReadOnly** property for the
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

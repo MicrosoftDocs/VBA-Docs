@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Verb Method (Excel)
+title: OLEFormat.Verb method (Excel)
 keywords: vbaxl10.chm632076
 f1_keywords:
 - vbaxl10.chm632076
@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEFormat.Verb
 ms.assetid: bf5736e8-1909-ed0a-aaab-297ccde9ffef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Verb Method (Excel)
+# OLEFormat.Verb method (Excel)
 
 Sends a verb to the server of the specified OLE object.
 
 
 ## Syntax
 
- _expression_. `Verb`( `_Verb_` )
+_expression_.**Verb** (_Verb_)
 
- _expression_ A variable that represents an [OLEFormat](Excel.OLEFormat.md) object.
+_expression_ A variable that represents an [OLEFormat](Excel.OLEFormat.md) object.
 
 
 ## Parameters
@@ -29,10 +30,11 @@ Sends a verb to the server of the specified OLE object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **XlOLEVerb** constants **xlOpen** and **xlPrimary**).|
+| _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **xlOLEVerb** constants **xlOpen** and **xlPrimary**).|
 
 ## See also
 
 
 [OLEFormat Object](Excel.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cf423e16-6f6c-4663-ac59-940bec8ae003
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Application.ShapeAdded Event (Visio)](http://msdn.microsoft.com/library/55024b4a-44f1-512e-7739-d1258960e988%28Office.15%29.aspx)
 [InvisibleApp.ShapeAdded Event (Visio)](http://msdn.microsoft.com/library/a762dafe-47c3-302b-6445-d5455871f073%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

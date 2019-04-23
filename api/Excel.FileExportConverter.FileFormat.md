@@ -8,6 +8,7 @@ api_name:
 - Excel.FileExportConverter.FileFormat
 ms.assetid: cdf0a922-ae9e-76b1-c8e5-228298920373
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an integer that identifies the file format associated with the specified
 
 ## Syntax
 
- _expression_. `FileFormat`
+_expression_. `FileFormat`
 
- _expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
+_expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
 
 
 ## Example
@@ -53,3 +54,4 @@ ActiveWorkbook.SaveAs _
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

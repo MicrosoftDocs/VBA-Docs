@@ -1,5 +1,5 @@
 ---
-title: Worksheet.SetBackgroundPicture Method (Excel)
+title: Worksheet.SetBackgroundPicture method (Excel)
 keywords: vbaxl10.chm175076
 f1_keywords:
 - vbaxl10.chm175076
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.SetBackgroundPicture
 ms.assetid: 5cff4730-24ba-6147-76c9-e1f9eb970989
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.SetBackgroundPicture Method (Excel)
+# Worksheet.SetBackgroundPicture method (Excel)
 
 Sets the background graphic for a worksheet.
 
 
 ## Syntax
 
- _expression_. `SetBackgroundPicture`( `_Filename_` )
+_expression_.**SetBackgroundPicture** (_FileName_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Sets the background graphic for a worksheet.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the graphic file.|
+| _FileName_|Required| **String**|The name of the graphic file.|
 
 ## Example
 
@@ -46,3 +47,4 @@ Worksheets(1).SetBackgroundPicture "c:\graphics\watermark.gif"
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

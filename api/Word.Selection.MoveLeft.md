@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveLeft Method (Word)
+title: Selection.MoveLeft method (Word)
 keywords: vbawd10.chm158663156
 f1_keywords:
 - vbawd10.chm158663156
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveLeft
 ms.assetid: 23c22588-e774-f70f-28ea-81b1a54c0dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveLeft Method (Word)
+# Selection.MoveLeft method (Word)
 
 Moves the selection to the left and returns the number of units it has been moved.
 
 
 ## Syntax
 
- _expression_. `MoveLeft`( `_Unit_` , `_Count_` , `_Extend_` )
+_expression_. `MoveLeft`( `_Unit_` , `_Count_` , `_Extend_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,13 +30,13 @@ Moves the selection to the left and returns the number of units it has been move
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which the selection is to be moved.The default value is  **wdCharacter** .|
+| _Unit_|Optional| **WdUnits**|The unit by which the selection is to be moved.The default value is  **wdCharacter**.|
 | _Count_|Optional| **Variant**|The number of units the selection is to be moved. The default value is 1.|
-| _Extend_|Optional| **Variant**|Can be either  **wdMove** or **wdExtend** . If **wdMove** is used, the selection is collapsed to the endpoint and moved to the left. If **wdExtend** is used, the selection is extended to the left. The default value is **wdMove** .|
+| _Extend_|Optional| **Variant**|Can be either  **wdMove** or **wdExtend**. If **wdMove** is used, the selection is collapsed to the endpoint and moved to the left. If **wdExtend** is used, the selection is extended to the left. The default value is **wdMove**.|
 
 ## Remarks
 
-When the Unit is  **wdCell** , the Extend argument will only be **wdMove** .
+When the Unit is  **wdCell**, the Extend argument will only be **wdMove**.
 
 
 ## Example
@@ -78,3 +79,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

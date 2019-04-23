@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ab95a71c-b368-ed4b-de0c-06a2fb41382f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ An event [procedure](../../Glossary/vbe-glossary.md#procedure) must correspond t
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

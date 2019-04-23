@@ -1,18 +1,19 @@
 ---
-title: MsoBevelType Enumeration (Office)
+title: MsoBevelType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBevelType
 ms.assetid: 2404d6cf-0c64-fca5-59bc-098847018f99
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoBevelType Enumeration (Office)
+# MsoBevelType enumeration (Office)
 
-Indicates the bevel type of a  **ThreeDFormat** object.
+Indicates the bevel type of a **ThreeDFormat** object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -31,3 +32,4 @@ Indicates the bevel type of a  **ThreeDFormat** object.
 |**msoBevelSoftRound**|7|Specifies a SoftRound bevel.|
 |**msoBevelTypeMixed**|-2|Specifies a mixed type bevel.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

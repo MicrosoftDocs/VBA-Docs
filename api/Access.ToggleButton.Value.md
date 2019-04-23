@@ -7,34 +7,33 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.Value
 ms.assetid: ab21bb39-e6ed-068e-85b6-16674a9638aa
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.Value property (Access)
 
-Determines or specifies whether or not the specified toggle button control is selected. Read/write  **Variant**.
+Determines or specifies whether the specified toggle button control is selected. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `Value`
+_expression_.**Value**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-When the  **Value** proprty is set to **True**, the toggle button is pressed in.
+When the **Value** property is set to **True**, the toggle button is pressed in.
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
-
- **Note**   The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.
-
-
-## See also
+> [!NOTE] 
+> The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.
 
 
-[ToggleButton Object](Access.ToggleButton.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

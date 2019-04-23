@@ -1,5 +1,5 @@
 ---
-title: CustomView.Show Method (Excel)
+title: CustomView.Show method (Excel)
 keywords: vbaxl10.chm508076
 f1_keywords:
 - vbaxl10.chm508076
@@ -8,19 +8,20 @@ api_name:
 - Excel.CustomView.Show
 ms.assetid: 822d77c1-e7ab-2bd9-bec5-a7921f80f706
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomView.Show Method (Excel)
+# CustomView.Show method (Excel)
 
 Displays the object.
 
 
 ## Syntax
 
- _expression_. `Show`
+_expression_.**Show**
 
- _expression_ A variable that represents a [CustomView](Excel.CustomView.md) object.
+_expression_ A variable that represents a **[CustomView](Excel.CustomView.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Displays the object.
 
 [CustomView Object](Excel.CustomView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

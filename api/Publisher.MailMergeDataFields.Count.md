@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields.Count Property (Publisher)
+title: MailMergeDataFields.Count property (Publisher)
 keywords: vbapb10.chm6356993
 f1_keywords:
 - vbapb10.chm6356993
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataFields.Count
 ms.assetid: f46da7b1-acd8-f2d2-a6aa-71cc3c8eca99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataFields.Count Property (Publisher)
+# MailMergeDataFields.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **MailMergeDataFields** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumns.Application
 ms.assetid: e20a7ddb-b42d-1ce5-74d8-619eb436786c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
+_expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [ListColumns Object](Excel.ListColumns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

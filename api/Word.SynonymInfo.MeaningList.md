@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.MeaningList Property (Word)
+title: SynonymInfo.MeaningList property (Word)
 keywords: vbawd10.chm161153028
 f1_keywords:
 - vbawd10.chm161153028
@@ -8,17 +8,18 @@ api_name:
 - Word.SynonymInfo.MeaningList
 ms.assetid: 43eec397-41e6-7b13-f267-ae3b4914ec02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SynonymInfo.MeaningList Property (Word)
+# SynonymInfo.MeaningList property (Word)
 
-Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
+Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `MeaningList`
+_expression_. `MeaningList`
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
@@ -51,3 +52,4 @@ End If
 
 [SynonymInfo Object](Word.SynonymInfo.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

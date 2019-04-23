@@ -3,6 +3,7 @@ title: Specify Icons to be Displayed for a Form Region
 ms.prod: outlook
 ms.assetid: 9ffb9f46-a3b9-d90c-6771-9cd9f9b2e04a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -74,4 +75,4 @@ The four custom icons include:
 
  **Note**  The value of the child element can be expressed either as a file path to an icon file or a resource file, or as  `addin`. The file path can be expressed as a full path or a path relative to the location of the form region manifest XML file, and can involve system variables. For more information on specifying an icon using an add-in, see  [How to: Use an Add-in to Specify Icons for a Form Region](../Specifying-Form-Behavior/use-an-add-in-to-specify-icons-for-a-form-region.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

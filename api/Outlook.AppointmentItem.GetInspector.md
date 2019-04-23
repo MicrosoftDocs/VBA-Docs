@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GetInspector Property (Outlook)
+title: AppointmentItem.GetInspector property (Outlook)
 keywords: vbaol11.chm853
 f1_keywords:
 - vbaol11.chm853
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.GetInspector
 ms.assetid: 6d0dc447-80f3-ab00-4bb9-7bbda34745aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.GetInspector Property (Outlook)
+# AppointmentItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
 
 ## Syntax
 
- _expression_. `GetInspector`
+_expression_. `GetInspector`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is useful for returning an  **Inspector** object in which to displ
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

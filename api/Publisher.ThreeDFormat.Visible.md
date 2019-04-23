@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Visible Property (Publisher)
+title: ThreeDFormat.Visible property (Publisher)
 keywords: vbapb10.chm3801361
 f1_keywords:
 - vbapb10.chm3801361
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.Visible
 ms.assetid: dbda23fe-de06-cc17-c3bc-2bfb780d3184
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Visible Property (Publisher)
+# ThreeDFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_.**Visible**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -29,11 +30,11 @@ The  **Visible** property value can be one of the **MsoTriState** constants decl
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified object or formatting is not visible.|
 | **msoTriStateMixed**|Return value only. The specified shape range contains both objects with visible formatting and objects with invisible formatting.|
-| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisble.|
+| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisible.|
 | **msoTrue**|The specified object or formatting is visible.|
 
 ## Example
@@ -49,4 +50,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

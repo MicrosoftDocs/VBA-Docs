@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (Word)
+title: PageSetup object (Word)
 keywords: vbawd10.chm2417
 f1_keywords:
 - vbawd10.chm2417
@@ -8,10 +8,11 @@ api_name:
 - Word.PageSetup
 ms.assetid: 1879d601-80ad-4fc0-1a87-92e999b59f88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup Object (Word)
+# PageSetup object (Word)
 
 Represents the page setup description. The  **PageSetup** object contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties.
 
@@ -45,6 +46,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.TextStyleKeepFmt Property (Visio)
+title: Selection.TextStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11114535
 f1_keywords:
 - vis_sdr.chm11114535
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.TextStyleKeepFmt
 ms.assetid: d9900f73-dc39-e717-d923-78a9b275271e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.TextStyleKeepFmt Property (Visio)
+# Selection.TextStyleKeepFmt property (Visio)
 
 Applies a text style to an object while preserving local formatting. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextStyleKeepFmt`
+_expression_. `TextStyleKeepFmt`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -34,4 +35,4 @@ Setting a style to a nonexistent style generates an error. Setting one kind of s
 
 Beginning with Visio 2002, setting  **TextStyleKeepFmt** to an empty string ("") will cause the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,34 +1,26 @@
 ---
-title: Max, Min, MaxLength Properties Example
+title: Max, Min, MaxLength properties example
 keywords: fm20.chm5225135
 f1_keywords:
 - fm20.chm5225135
 ms.prod: office
 ms.assetid: 17886973-605e-3fc6-5df4-677355932c14
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Max, Min, MaxLength Properties Example
+# Max, Min, MaxLength properties example
 
-The following example demonstrates the  **Max** and **Min** properties when used with a stand-alone **ScrollBar**. The user can set the **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the **MaxLength** property to restrict the number of characters entered for the **Max** and **Min** values.
+The following example demonstrates the **[Max and Min](max-min-properties.md)** properties when used with a stand-alone **[ScrollBar](scrollbar-control.md)**. The user can set the **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the **[MaxLength](maxlength-property.md)** property to restrict the number of characters entered for the **Max** and **Min** values.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **Label** named Label1 and a **TextBox** named TextBox1.
+- A **[Label](label-control.md)** named Label1 and a **[TextBox](textbox-control.md)** named TextBox1.    
+- A **Label** named Label2 and a **TextBox** named TextBox2.    
+- A **ScrollBar** named ScrollBar1.   
+- A **Label** named Label3.
     
-- A  **Label** named Label2 and a **TextBox** named TextBox2.
-    
-- A  **ScrollBar** named ScrollBar1.
-    
-- A  **Label** named Label3.
-    
-
-
-
 
 ```vb
 Dim TempNum As Integer 
@@ -81,4 +73,4 @@ Label3.Caption = ScrollBar1.Value
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

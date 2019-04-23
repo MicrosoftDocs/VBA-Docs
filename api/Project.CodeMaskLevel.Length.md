@@ -1,5 +1,5 @@
 ---
-title: CodeMaskLevel.Length Property (Project)
+title: CodeMaskLevel.Length property (Project)
 keywords: vbapj.chm131651
 f1_keywords:
 - vbapj.chm131651
@@ -8,18 +8,19 @@ api_name:
 - Project.CodeMaskLevel.Length
 ms.assetid: 64c89e59-dc8e-9ed0-f0a6-b7d7db23cb78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CodeMaskLevel.Length Property (Project)
+# CodeMaskLevel.Length property (Project)
 
 Specifies the length for a given level in the code mask. Can be the string "Any" or an integer value between 1 and 255. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Length`
+_expression_.**Length**
 
  _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

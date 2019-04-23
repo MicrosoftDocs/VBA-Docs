@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarLayout Method (Project)
+title: Application.CalendarLayout method (Project)
 keywords: vbapj.chm2346
 f1_keywords:
 - vbapj.chm2346
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CalendarLayout
 ms.assetid: c948c118-c50f-493d-ba3a-e43ee0d50fa3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CalendarLayout Method (Project)
+# Application.CalendarLayout method (Project)
 
 Changes how task bars are arranged on the Calendar.
 
 
 ## Syntax
 
- _expression_. `CalendarLayout`( ` _SortOrder_`, ` _AutoLayout_` )
+_expression_. `CalendarLayout`( `_SortOrder_`, `_AutoLayout_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Changes how task bars are arranged on the Calendar.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

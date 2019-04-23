@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultStrU Property (Visio)
+title: Cell.ResultStrU property (Visio)
 keywords: vis_sdr.chm10160065
 f1_keywords:
 - vis_sdr.chm10160065
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.ResultStrU
 ms.assetid: 2a2fc8c9-eb2c-6c49-9af6-abc120bbd610
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.ResultStrU Property (Visio)
+# Cell.ResultStrU property (Visio)
 
 Gets the value of a ShapeSheet cell expressed as a universal string. Read-only.
 
 
 ## Syntax
 
- _expression_. `ResultStrU`( `_UnitsNameOrCode_` )
+_expression_. `ResultStrU`( `_UnitsNameOrCode_` )
 
  _expression_ An expression that returns a [Cell](./Visio.Cell.md) object.
 
@@ -50,7 +51,7 @@ You can specify  _UnitsNameOrCode_ as an integer or a string value. If the strin
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes ](Visio.visunitcodes.md)** .
+Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
 
 Passing a zero (0) is sufficient for getting the value of text string cells.
 
@@ -147,4 +148,4 @@ Public Sub ResultStrU_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

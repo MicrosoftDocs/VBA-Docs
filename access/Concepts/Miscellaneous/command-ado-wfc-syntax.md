@@ -3,6 +3,7 @@ title: Command (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: fd244794-8831-883a-7892-3ad04d732790
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -66,3 +67,5 @@ public AdoProperties Invalid DDUE based on source, error:link not allowed in cod
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

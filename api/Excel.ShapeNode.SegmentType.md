@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeNode.SegmentType
 ms.assetid: 716e8171-1fd6-941e-209f-e48f5468940f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeNode.SegmentType property (Excel)
 
-Returns a value that indicates whether the segment associated with the specified node is straight or curved. If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve** . Read-only **MsoSegmentType** .
+Returns a value that indicates whether the segment associated with the specified node is straight or curved. If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**. Read-only **MsoSegmentType**.
 
 
 ## Syntax
 
- _expression_. `SegmentType`
+_expression_. `SegmentType`
 
- _expression_ A variable that represents a [ShapeNode](./Excel.ShapeNode.md) object.
+_expression_ A variable that represents a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Remarks
@@ -36,7 +37,7 @@ Use the  **[SetSegmentType](Excel.ShapeNodes.SetSegmentType.md)** method to set 
 
 ## Example
 
-This example changes all straight segments to curved segments in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all straight segments to curved segments in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb
@@ -58,3 +59,4 @@ End With
 
 [ShapeNode Object](Excel.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Words Method (Publisher)
+title: TextRange.Words method (Publisher)
 keywords: vbapb10.chm5308456
 f1_keywords:
 - vbapb10.chm5308456
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Words
 ms.assetid: df812db2-98ca-848b-7922-6905cb71124c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Words Method (Publisher)
+# TextRange.Words method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified subset of text words.
 
 
 ## Syntax
 
- _expression_. **Words**(**_Start_**,  **_Length_**)
+_expression_.**Words**(**_Start_**,  **_Length_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -57,4 +58,4 @@ Application.ActiveDocument.Pages(1).Shapes(2) _
  .Font.Bold = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

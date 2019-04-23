@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.HighlightChangesOnScreen
 ms.assetid: 146f9a16-d32b-cc8f-fece-03864f0e13a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.HighlightChangesOnScreen property (Excel)
 
- **True** if changes to the shared workbook are highlighted on-screen. Read/write **Boolean** .
+ **True** if changes to the shared workbook are highlighted on-screen. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HighlightChangesOnScreen`
+_expression_. `HighlightChangesOnScreen`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ThisWorkbook.HighlightChangesOnScreen
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

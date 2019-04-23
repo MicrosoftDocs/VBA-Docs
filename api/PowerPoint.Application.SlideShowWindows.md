@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowWindows Property (PowerPoint)
+title: Application.SlideShowWindows property (PowerPoint)
 keywords: vbapp10.chm502006
 f1_keywords:
 - vbapp10.chm502006
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.SlideShowWindows
 ms.assetid: 4beed51c-bb67-6208-c2b1-f1d5b6425d9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SlideShowWindows Property (PowerPoint)
+# Application.SlideShowWindows property (PowerPoint)
 
 Returns a  **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection that represents all open slide show windows. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideShowWindows`
+_expression_. `SlideShowWindows`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -60,3 +61,4 @@ End With
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

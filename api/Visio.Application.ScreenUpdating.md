@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Visio)
+title: Application.ScreenUpdating property (Visio)
 keywords: vis_sdr.chm10014295
 f1_keywords:
 - vis_sdr.chm10014295
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.ScreenUpdating
 ms.assetid: 934e697f-da6c-5793-433b-dddb5d806920
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ScreenUpdating Property (Visio)
+# Application.ScreenUpdating property (Visio)
 
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 
 
 ## Syntax
 
- _expression_. `ScreenUpdating`
+_expression_. `ScreenUpdating`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -60,4 +61,4 @@ Visio.Application.ScreenUpdating = True
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

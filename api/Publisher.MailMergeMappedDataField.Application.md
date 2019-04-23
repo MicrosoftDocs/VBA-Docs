@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataField.Application Property (Publisher)
+title: MailMergeMappedDataField.Application property (Publisher)
 keywords: vbapb10.chm6553601
 f1_keywords:
 - vbapb10.chm6553601
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeMappedDataField.Application
 ms.assetid: 6ac91046-d66d-8e76-c322-a13ea3f1d6c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataField.Application Property (Publisher)
+# MailMergeMappedDataField.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **MailMergeMappedDataField** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

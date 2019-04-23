@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b5b15a22-bb25-411d-95c3-2146a2cdf09a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Presentation.DisableDraftModeAllCharts Method (PowerPoint)](http://msdn.microsoft.com/library/15f13261-85b3-c277-e220-e8d820d4712d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

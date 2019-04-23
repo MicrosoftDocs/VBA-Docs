@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat Object (PowerPoint)
+title: ParagraphFormat object (PowerPoint)
 keywords: vbapp10.chm576000
 f1_keywords:
 - vbapp10.chm576000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ParagraphFormat
 ms.assetid: 15d495cf-16e2-5cfb-e99c-a551876e3a8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat Object (PowerPoint)
+# ParagraphFormat object (PowerPoint)
 
 Represents the paragraph formatting of a text range.
 
@@ -32,7 +33,7 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](./PowerPoint.ParagraphFormat.Alignment.md)|
 |[Application](./PowerPoint.ParagraphFormat.Application.md)|
@@ -53,4 +54,6 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

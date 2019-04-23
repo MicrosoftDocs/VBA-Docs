@@ -1,5 +1,5 @@
 ---
-title: Application.MouseAvailable Property (Word)
+title: Application.MouseAvailable property (Word)
 keywords: vbawd10.chm158335013
 f1_keywords:
 - vbawd10.chm158335013
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.MouseAvailable
 ms.assetid: 25ad78ad-c267-35ec-9124-0496c034fa50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MouseAvailable Property (Word)
+# Application.MouseAvailable property (Word)
 
- **True** if there is a mouse available for the system. Read-only **Boolean** .
+ **True** if there is a mouse available for the system. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MouseAvailable`
+_expression_. `MouseAvailable`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -42,3 +43,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

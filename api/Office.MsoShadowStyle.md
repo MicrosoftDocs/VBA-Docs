@@ -1,18 +1,19 @@
 ---
-title: MsoShadowStyle Enumeration (Office)
+title: MsoShadowStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoShadowStyle
 ms.assetid: 98bbf0a7-03f5-449e-b469-3652d7642b4a
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoShadowStyle Enumeration (Office)
+# MsoShadowStyle enumeration (Office)
 
 Specifies the type of shadowing effect.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -20,3 +21,4 @@ Specifies the type of shadowing effect.
 |**msoShadowStyleMixed**|-2|Specifies a combination of inner and outer shadow effects.|
 |**msoShadowStyleOuterShadow**|2|Specifies the outer shadow effect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3e24b11a-8946-5f04-2356-7d70beb45797
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -30,3 +31,5 @@ For information about how to compact and repair Access databases, see the follow
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

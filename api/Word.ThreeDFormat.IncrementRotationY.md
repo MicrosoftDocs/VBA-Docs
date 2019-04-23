@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Word)
+title: ThreeDFormat.IncrementRotationY method (Word)
 keywords: vbawd10.chm164626443
 f1_keywords:
 - vbawd10.chm164626443
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.IncrementRotationY
 ms.assetid: 924559dd-1e64-d5f4-c462-5d5fb931cd57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (Word)
+# ThreeDFormat.IncrementRotationY method (Word)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. `IncrementRotationY`( `_Increment_` )
+_expression_. `IncrementRotationY`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ ActiveDocument.Shapes(1).ThreeD.IncrementRotationY -10
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

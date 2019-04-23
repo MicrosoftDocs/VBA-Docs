@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TInv Method (Excel)
+title: WorksheetFunction.TInv method (Excel)
 keywords: vbaxl10.chm137236
 f1_keywords:
 - vbaxl10.chm137236
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.TInv
 ms.assetid: a336dfb7-cc7c-5e67-dd36-9e4d5e96f850
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.TInv Method (Excel)
+# WorksheetFunction.TInv method (Excel)
 
 Returns the t-value of the Student's t-distribution as a function of the probability and the degrees of freedom.
 
@@ -24,9 +25,9 @@ Returns the t-value of the Student's t-distribution as a function of the probabi
 
 ## Syntax
 
- _expression_. `TInv`( `_Arg1_` , `_Arg2_` )
+_expression_. `TInv`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

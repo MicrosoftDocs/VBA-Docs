@@ -1,5 +1,5 @@
 ---
-title: Application.BackgroundPrintingStatus Property (Word)
+title: Application.BackgroundPrintingStatus property (Word)
 keywords: vbawd10.chm158335062
 f1_keywords:
 - vbawd10.chm158335062
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.BackgroundPrintingStatus
 ms.assetid: 74fabdd0-55d8-63c6-4608-36af8138b3c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BackgroundPrintingStatus Property (Word)
+# Application.BackgroundPrintingStatus property (Word)
 
-Returns the number of print jobs in the background printing queue. Read-only  **Long** .
+Returns the number of print jobs in the background printing queue. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackgroundPrintingStatus`
+_expression_. `BackgroundPrintingStatus`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -54,3 +55,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

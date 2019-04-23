@@ -1,5 +1,5 @@
 ---
-title: AddIns.Item Method (Word)
+title: AddIns.Item method (Word)
 keywords: vbawd10.chm159318016
 f1_keywords:
 - vbawd10.chm159318016
@@ -8,19 +8,20 @@ api_name:
 - Word.AddIns.Item
 ms.assetid: 13ecdb61-eb5d-ac2c-8899-c423dd41ae06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIns.Item Method (Word)
+# AddIns.Item method (Word)
 
 Returns an individual object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents an '[AddIns](Word.addins.md)' collection.
+_expression_ Required. A variable that represents an '[AddIns](Word.addins.md)' collection.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns an individual object in a collection.
 
 [AddIns Collection Object](Word.addins.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

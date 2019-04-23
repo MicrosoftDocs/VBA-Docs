@@ -1,5 +1,5 @@
 ---
-title: Application.DDEExecute Method (Excel)
+title: Application.DDEExecute method (Excel)
 keywords: vbaxl10.chm132089
 f1_keywords:
 - vbaxl10.chm132089
@@ -7,40 +7,39 @@ ms.prod: excel
 api_name:
 - Excel.Application.DDEExecute
 ms.assetid: 18cd97e6-4dff-2386-84bf-25e8c85b5277
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
-# Application.DDEExecute Method (Excel)
+# Application.DDEExecute method (Excel)
 
 Runs a command or performs some other action or actions in another application by way of the specified DDE channel.
 
 
 ## Syntax
 
- _expression_. `DDEExecute`( `_Channel_` , `_String_` )
+_expression_.**DDEExecute** (_Channel_, _String_)
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
 | _String_|Required| **String**|The message defined in the receiving application.|
 
 ## Remarks
 
-The  **DDEExecute** method is designed to send commands to another application. You can also use it to send keystrokes to another application, although the **[SendKeys](Excel.Application.SendKeys.md)** method is the preferred way to send keystrokes. The _String_ argument can specify any single key combined with ALT, CTRL, or SHIFT, or any combination of those keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the ENTER key.
+The **DDEExecute** method is designed to send commands to another application. You can also use it to send keystrokes to another application, although the **[SendKeys](Excel.Application.SendKeys.md)** method is the preferred way to send keystrokes. 
 
-To specify characters that aren't displayed when you press the corresponding key (for example, ENTER or TAB), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
+The _String_ argument can specify any single key combined with Alt, Ctrl, or Shift, or any combination of those keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the Enter key.
 
+To specify characters that aren't displayed when you press the corresponding key (for example, Enter or Tab), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
 
-
-|**Key**|**Code**|
+|Key|Code|
 |:-----|:-----|
 |BACKSPACE| `{BACKSPACE}` or `{BS}`|
 |BREAK| `{BREAK}`|
@@ -66,20 +65,19 @@ To specify characters that aren't displayed when you press the corresponding key
 |UP ARROW| `{UP}`|
 |F1 through F15| `{F1}` through `{F15}`|
 
-You can also specify keys combined with SHIFT and/or CTRL and/or ALT. To specify a key combined with one or more of the keys just mentioned, use the following table.
+<br/>
 
+You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify a key combined with one or more of the keys just mentioned, use the following table.
 
-
-|**To combine a key with**|**Precede the key code with**|
+|To combine a key with|Precede the key code with|
 |:-----|:-----|
-|SHIFT| `+` (plus sign)|
-|CTRL| `^` (caret)|
-|ALT| `%` (percent sign)|
+|Shift| `+` (plus sign)|
+|Ctrl| `^` (caret)|
+|Alt| `%` (percent sign)|
 
 ## Example
 
-This example opens a channel to Word, opens the Word document Formletr.doc, and then sends the FilePrint command to WordBasic.
-
+This example opens a channel to Word, opens the Word document Formletr.doc, and then sends the **FilePrint** command to WordBasic.
 
 ```vb
 channelNumber = Application.DDEInitiate( _ 
@@ -90,8 +88,6 @@ Application.DDETerminate channelNumber
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

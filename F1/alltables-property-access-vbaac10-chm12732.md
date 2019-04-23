@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6b8d627e-c1f7-4119-b2dc-4dc641eae024
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeData.AllTables property (Access)](http://msdn.microsoft.com/library/d7feab36-aa71-6085-f395-a23571460d25%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

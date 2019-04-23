@@ -1,21 +1,22 @@
 ---
-title: Resource.Notes Property (Project)
+title: Resource.Notes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Notes
 ms.assetid: 63916a17-8ac0-e921-a29f-4d315c6cbc79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Notes Property (Project)
+# Resource.Notes property (Project)
 
 Gets or sets the notes for a resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Notes`
+_expression_. `Notes`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -48,4 +49,4 @@ Sub AddStatusNote()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Explorer.Session Property (Outlook)
+title: Explorer.Session property (Outlook)
 keywords: vbaol11.chm2759
 f1_keywords:
 - vbaol11.chm2759
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.Session
 ms.assetid: 47752d87-6ef5-4838-4c08-0325c0b613f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.Session Property (Outlook)
+# Explorer.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

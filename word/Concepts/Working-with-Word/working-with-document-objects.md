@@ -3,27 +3,12 @@ title: Working with Document Objects
 ms.prod: word
 ms.assetid: af304f65-6cdd-ff7d-a81f-cce0161f2b47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Working with Document Objects
 
-In Visual Basic, the methods for modifying files are methods of the **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the following tasks:
-
-
--  [Creating a new document](#Creating)
-    
--  [Opening a document](#Opening)
-    
--  [Saving an existing document](#Saving1)
-    
--  [Saving a new document](#Saving2)
-    
--  [Activating a document](#Activating)
-    
--  [Determining if a document is open](#Determining)
-    
--  [Referring to the active document](#Referring)
-    
+In Visual Basic, the methods for modifying files are methods of the **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the tasks identified in the following sections.
 
 ## Creating a new document
 
@@ -181,3 +166,5 @@ Sub ActiveDocumentName()
     End If 
 End Sub
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

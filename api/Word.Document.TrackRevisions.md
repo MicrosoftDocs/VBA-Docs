@@ -1,5 +1,5 @@
 ---
-title: Document.TrackRevisions Property (Word)
+title: Document.TrackRevisions property (Word)
 keywords: vbawd10.chm158007610
 f1_keywords:
 - vbawd10.chm158007610
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.TrackRevisions
 ms.assetid: c6ff8462-805d-2494-cebb-ace6fe536f40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TrackRevisions Property (Word)
+# Document.TrackRevisions property (Word)
 
- **True** if changes are tracked in the specified document. Read/write **Boolean** .
+ **True** if changes are tracked in the specified document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TrackRevisions`
+_expression_. `TrackRevisions`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -52,3 +53,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

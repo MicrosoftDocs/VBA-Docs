@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ColumnGrand
 ms.assetid: aa012e55-c944-22f1-13da-7ad76ae72c5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.ColumnGrand property (Excel)
 
- **True** if the PivotTable report shows grand totals for columns. Read/write **Boolean** .
+ **True** if the PivotTable report shows grand totals for columns. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ColumnGrand`
+_expression_. `ColumnGrand`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ pvtTable.ColumnGrand = True
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

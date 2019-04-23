@@ -6,11 +6,12 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 1bdc55f5-8fc7-7257-03d5-c049eceb29ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Run Visio in Developer Mode
 
 - Click the  **File** tab, click **Options**, click **Advanced**, and then, under  **General**, select  **Run in developer mode**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

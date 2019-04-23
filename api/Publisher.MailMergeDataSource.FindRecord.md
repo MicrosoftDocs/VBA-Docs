@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FindRecord Method (Publisher)
+title: MailMergeDataSource.FindRecord method (Publisher)
 keywords: vbapb10.chm6291480
 f1_keywords:
 - vbapb10.chm6291480
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.FindRecord
 ms.assetid: a4b37255-bdff-ac61-6d18-05a4fe008beb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.FindRecord Method (Publisher)
+# MailMergeDataSource.FindRecord method (Publisher)
 
 Searches the contents of the specified mail merge data source for text in a particular field. Returns a  **Boolean** indicating whether the search text is found; **True** if the search text is found.
 
 
 ## Syntax
 
- _expression_. **FindRecord**(**_FindText_**,  **_Field_**)
+_expression_.**FindRecord**(**_FindText_**,  **_Field_**)
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -60,4 +61,4 @@ Sub FindDataSourceRecord()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

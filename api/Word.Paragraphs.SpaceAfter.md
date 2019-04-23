@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.SpaceAfter Property (Word)
+title: Paragraphs.SpaceAfter property (Word)
 keywords: vbawd10.chm156762224
 f1_keywords:
 - vbawd10.chm156762224
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.SpaceAfter
 ms.assetid: 78a75278-acca-a588-0fef-01511cf67a20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.SpaceAfter Property (Word)
+# Paragraphs.SpaceAfter property (Word)
 
-Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write  **Single** .
+Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `SpaceAfter`
+_expression_. `SpaceAfter`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.Paragraphs.SpaceAfter = 12
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

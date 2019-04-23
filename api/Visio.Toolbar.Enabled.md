@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Enabled Property (Visio)
+title: Toolbar.Enabled property (Visio)
 keywords: vis_sdr.chm13713455
 f1_keywords:
 - vis_sdr.chm13713455
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Enabled
 ms.assetid: 976dc702-e8dd-f39c-58b3-ee0d0127a1cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Enabled Property (Visio)
+# Toolbar.Enabled property (Visio)
 
 Determines whether or not an object is currently enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_.**Enabled**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -104,11 +105,11 @@ Sub Enabled_Example()
  
  End With 
  
- 'Tell Visio to use the new UIOjbect object while 
+ 'Tell Visio to use the new UIObject object while 
  'this document is active. 
  ThisDocument.SetCustomToolbars vsoUIObject 
  
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

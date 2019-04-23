@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.SourceDataFile
 ms.assetid: 1b90ee17-45c1-3c96-33e3-ec6c5515d9ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that indicates the source data file for the cache of
 
 ## Syntax
 
- _expression_. `SourceDataFile`
+_expression_. `SourceDataFile`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

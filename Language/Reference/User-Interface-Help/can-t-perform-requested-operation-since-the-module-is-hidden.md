@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c19df6f0-eaa3-ea06-9cfd-a6b2db2f7605
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ This error pertains to the Visual Basic extensibility (add-in) object model. Thi
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

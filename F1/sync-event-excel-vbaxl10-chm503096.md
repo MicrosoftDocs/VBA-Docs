@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a699c62c-3070-433c-ac42-45a34d13212d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Sync Event](http://msdn.microsoft.com/library/96653fd2-43c0-f958-8d51-da9fa2bfdd9d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

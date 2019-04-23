@@ -1,5 +1,5 @@
 ---
-title: Columns.Session Property (Outlook)
+title: Columns.Session property (Outlook)
 keywords: vbaol11.chm2737
 f1_keywords:
 - vbaol11.chm2737
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Columns.Session
 ms.assetid: 999b39d6-ed92-021c-ed29-96227f91fce3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Session Property (Outlook)
+# Columns.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
+_expression_ A variable that represents a [Columns](Outlook.Columns.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Columns Object](Outlook.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

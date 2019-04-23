@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ConnectionsDisabled
 ms.assetid: afd53cc5-12d8-4b22-3186-1359c14f662e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Disables the external connections or links in the workbook. Read-only
 
 ## Syntax
 
- _expression_. `ConnectionsDisabled`
+_expression_. `ConnectionsDisabled`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value
@@ -45,3 +46,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 4fc1de50-1eeb-f848-884b-894ab63afc14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You are trying to start the Synchronizer and the file Mstran40.exe cannot be fou
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

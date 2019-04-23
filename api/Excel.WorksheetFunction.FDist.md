@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FDist Method (Excel)
+title: WorksheetFunction.FDist method (Excel)
 keywords: vbaxl10.chm137185
 f1_keywords:
 - vbaxl10.chm137185
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.FDist
 ms.assetid: ddbcd66e-d85c-4f69-1ba9-138c30a3f7d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.FDist Method (Excel)
+# WorksheetFunction.FDist method (Excel)
 
 Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity. For example, you can examine the test scores of men and women entering high school and determine if the variability in the females is different from that found in the males.
 
@@ -22,9 +23,9 @@ For more information about the new functions, see the [F_Dist_RT](Excel.Workshee
 
 ## Syntax
 
- _expression_. `FDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `FDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,11 +1,12 @@
 ---
-title: Mid statement
+title: Mid statement (VBA)
 keywords: vblr6.chm1011353
 f1_keywords:
 - vblr6.chm1011353
 ms.prod: office
 ms.assetid: a9923853-55d5-5b50-d422-57cba84d9f47
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
@@ -15,11 +16,13 @@ Replaces a specified number of characters in a **Variant** (**String**) [variabl
 
 ## Syntax
 
-**Mid** ( _stringvar_, _start_ [, _length_ ]) **=**_string_
+**Mid**(_stringvar_, _start_, [ _length_ ] ) **=** _string_
 
-The **Mid** statement syntax has these parts.
+<br/>
 
-|**Part**|**Description**|
+The **Mid** statement syntax has these parts:
+
+|Part|Description|
 |:-----|:-----|
 | _stringvar_|Required. Name of string variable to modify.|
 | _start_|Required; **Variant** (**Long**). Character position in _stringvar_ where the replacement of text begins.|
@@ -28,10 +31,10 @@ The **Mid** statement syntax has these parts.
 
 ## Remarks
 
-The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.
+The number of characters replaced is always less than or equal to the number of characters in _stringvar_.
 
 > [!NOTE] 
-> Use the **MidB** statement with byte data contained in a string. In the **MidB** statement, _start_ specifies the byte position within _stringvar_ where replacement begins and _length_ specifies the numbers of bytes to replace.
+> Use the **MidB** statement with byte data contained in a string. In the **MidB** statement, _start_ specifies the byte position within _stringvar_ where replacement begins, and _length_ specifies the numbers of bytes to replace.
 
 
 ## Example
@@ -49,4 +52,9 @@ Mid(MyString, 5, 3) = "duck" ' MyString = "The duc jumpe".
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

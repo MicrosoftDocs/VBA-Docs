@@ -1,5 +1,5 @@
 ---
-title: Menu.Caption Property (Visio)
+title: Menu.Caption property (Visio)
 keywords: vis_sdr.chm13113170
 f1_keywords:
 - vis_sdr.chm13113170
@@ -8,17 +8,18 @@ api_name:
 - Visio.Menu.Caption
 ms.assetid: e89db3a6-59cc-a87a-dfbd-f8c18e7c4c58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menu.Caption Property (Visio)
+# Menu.Caption property (Visio)
 
 Gets or sets the caption for a menu. Read/write.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
@@ -97,4 +98,4 @@ Public Sub Caption_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

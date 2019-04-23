@@ -7,6 +7,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: cff53f53-5848-72f7-82b0-e600e82bd3de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,14 +22,11 @@ When you install the Microsoft Access database engine database driver, the Setup
 
 The **Access Connectivity Engine\Engines** folder includes initialization settings for the msjet40.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
 
+    SystemDB = <path>\System.mdb
 
-```
-SystemDB = <path>\System.mdb 
+    CompactBYPkey = 1
 
-CompactBYPkey = 1 
-
-PrevFormatCompactWithUNICODECompression=1
-```
+    PrevFormatCompactWithUNICODECompression=1
 
 The Microsoft Access database engine uses the following entries.
 
@@ -38,37 +36,35 @@ The Microsoft Access database engine uses the following entries.
 |:-----|:-----|
 |SystemDB|Specifies the full path and file name of the workgroup information file. The default is the appropriate path followed by the file name System.mdb. Values are of type REG_SZ.|
 |CompactByPKey|Specifies that when you compact tables they are copied in primary-key order, if a primary key exists on the table. If no primary key exists on a table, the tables are copied in base-table order. A value of 0 indicates that tables should be compacted in base-table order; a non-zero value indicates that tables should be compacted in primary-key order, if a primary key exists. The default value is non-zero. Values are of type REG_DWORD.|
-|PrevFormatCompactWithUNICODECompression|Microsoft Access database engine databases use the Unicode character set to store textual data. Compressing the Unicode data can significantly improve the performance of the database because of the reduced number of page read/write operations that are needed afterwards. This key determines if databases created by the Microsoft Jet database engine version 3.x or earlier should be created with compressed Unicode or un-compressed Unicode.<br/><br/>**NOTE**  This setting does not apply to compacting Microsoft Access database engine databases databases. Microsoft Access database engine databases databases will default to keep the compression settings with which they were created.|
+|PrevFormatCompactWithUNICODECompression|Microsoft Access database engine databases use the Unicode character set to store textual data. Compressing the Unicode data can significantly improve the performance of the database because of the reduced number of page read/write operations that are needed afterwards. This key determines if databases created by the Microsoft Jet database engine version 3.x or earlier should be created with compressed Unicode or un-compressed Unicode.<br/><br/>**NOTE**  This setting does not apply to compacting Microsoft Access database engine databases. Microsoft Access database engine databases will default to keep the compression settings with which they were created.|
 
 The **Access Connectivity Engine\Engines\ACE** folder includes initialization settings for the Ace.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
 
-```
-FlushTransactionTimeout=500 
+    FlushTransactionTimeout=500
 
-LockDelay=100 
+    LockDelay=100
 
-LockRetry=20 
+    LockRetry=20
 
-MaxBufferSize= 0 
+    MaxBufferSize= 0
 
-MaxLocksPerFile= 9500 
+    MaxLocksPerFile= 9500
 
-PageTimeout=5000 
+    PageTimeout=5000
 
-Threads=3 
+    Threads=3
 
-UserCommitSync=Yes 
+    UserCommitSync=Yes
 
-ImplicitCommitSync=No 
+    ImplicitCommitSync=No
 
-ExclusiveAsyncDelay=2000 
+    ExclusiveAsyncDelay=2000
 
-SharedAsyncDelay=0 
+    SharedAsyncDelay=0
 
-RecycleLVs=0 
+    RecycleLVs=0
 
-PagesLockedToTableLock=0
-```
+    PagesLockedToTableLock=0
 
 <br/>
 
@@ -107,3 +103,4 @@ The Microsoft Access database engine uses the following entries.
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

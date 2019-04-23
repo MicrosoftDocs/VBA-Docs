@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderVertical Property (PowerPoint)
+title: DataTable.HasBorderVertical property (PowerPoint)
 keywords: vbapp10.chm698003
 f1_keywords:
 - vbapp10.chm698003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DataTable.HasBorderVertical
 ms.assetid: 943d7af7-e1fe-e7fe-408b-154fa2ad3705
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable.HasBorderVertical Property (PowerPoint)
+# DataTable.HasBorderVertical property (PowerPoint)
 
  **True** if the chart data table has vertical cell borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderVertical`
+_expression_. `HasBorderVertical`
 
- _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
+_expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
 
 
 ## Example
@@ -67,3 +68,4 @@ End With
 
 [DataTable Object](PowerPoint.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

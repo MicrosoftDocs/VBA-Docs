@@ -1,23 +1,24 @@
 ---
-title: DistListItem.BeforeAttachmentAdd Event (Outlook)
+title: DistListItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentAdd
 ms.assetid: 96e8cd2d-fabb-f026-c442-483f46414a21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.BeforeAttachmentAdd Event (Outlook)
+# DistListItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment is added to an instance of the parent object.
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

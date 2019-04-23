@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetTable Method (Outlook)
+title: Conversation.GetTable method (Outlook)
 keywords: vbaol11.chm3382
 f1_keywords:
 - vbaol11.chm3382
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.GetTable
 ms.assetid: 6c5a4ef5-c31d-6684-722a-f6f3b3fe6b55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.GetTable Method (Outlook)
+# Conversation.GetTable method (Outlook)
 
 Returns a  **[Table](Outlook.Table.md)** object that contains rows that represent all items in the conversation.
 
 
 ## Syntax
 
- _expression_. `GetTable`
+_expression_. `GetTable`
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Return value
@@ -44,7 +45,7 @@ The  **GetTable** method returns a **Table** that has all items of the conversat
 
 By default, the rows in the table are sorted by the  **ConversationIndex** property of the items.
 
-To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)** , **[Remove](Outlook.Columns.Remove.md)** , or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
+To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)**, **[Remove](Outlook.Columns.Remove.md)**, or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
 
 The  **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
 
@@ -97,3 +98,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

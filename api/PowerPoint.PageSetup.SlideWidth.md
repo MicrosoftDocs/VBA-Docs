@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SlideWidth Property (PowerPoint)
+title: PageSetup.SlideWidth property (PowerPoint)
 keywords: vbapp10.chm527005
 f1_keywords:
 - vbapp10.chm527005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PageSetup.SlideWidth
 ms.assetid: 671d3962-a4d0-fcca-009e-784abaedbd8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.SlideWidth Property (PowerPoint)
+# PageSetup.SlideWidth property (PowerPoint)
 
 Returns or sets the slide width, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `SlideWidth`
+_expression_. `SlideWidth`
 
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [PageSetup Object](PowerPoint.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

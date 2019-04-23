@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceValidate Event (Word)
+title: Application.MailMergeDataSourceValidate event (Word)
 keywords: vbawd10.chm4000021
 f1_keywords:
 - vbawd10.chm4000021
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.MailMergeDataSourceValidate
 ms.assetid: 31e03b87-b76c-9cfe-afb0-c9ee5cbcd13b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceValidate Event (Word)
+# Application.MailMergeDataSourceValidate event (Word)
 
 Occurs when a user validates mail merge recipients by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'MailMergeDataSourceValidate'(**_ByVal Doc As Document_** , **_Handled As Boolean_**)
+Private Sub  _expression_ _'MailMergeDataSourceValidate'(**_ByVal Doc As Document_**, **_Handled As Boolean_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
 
@@ -47,3 +48,4 @@ For information about using events with the  **Application** object, see [Using 
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

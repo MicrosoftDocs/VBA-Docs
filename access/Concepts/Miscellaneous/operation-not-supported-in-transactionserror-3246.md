@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: bc69ec6a-0f3c-adaa-3cf6-fb0a5d8e8bdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You tried to perform an operation that is not valid within a transaction. A tran
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

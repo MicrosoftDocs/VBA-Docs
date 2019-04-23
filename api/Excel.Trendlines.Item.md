@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Item Method (Excel)
+title: Trendlines.Item method (Excel)
 keywords: vbaxl10.chm592076
 f1_keywords:
 - vbaxl10.chm592076
@@ -8,19 +8,20 @@ api_name:
 - Excel.Trendlines.Item
 ms.assetid: e2bbc0fc-a618-8c84-f001-c77c0206cbf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines.Item Method (Excel)
+# Trendlines.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Trendlines](./Excel.Trendlines(object).md) object.
+_expression_ A variable that represents a [Trendlines](Excel.Trendlines(object).md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ A  **[Trendline](Excel.Trendline(object).md)** object contained by the collectio
 
 ## Example
 
-This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2-D column chart that contains a single series with a trendline.
+This example sets the number of units that the trendline on Chart1 extends forward and backward. The example should be run on a 2D column chart that contains a single series with a trendline.
 
 
 ```vb
@@ -54,3 +55,4 @@ End With
 
 [Trendlines Object](Excel.Trendlines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.Session Property (Outlook)
+title: AssignToCategoryRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2265
 f1_keywords:
 - vbaol11.chm2265
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AssignToCategoryRuleAction.Session
 ms.assetid: 4ee91dde-9f5d-101f-f259-98192e45a76d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.Session Property (Outlook)
+# AssignToCategoryRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

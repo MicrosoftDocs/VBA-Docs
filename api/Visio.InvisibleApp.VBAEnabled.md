@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.VBAEnabled Property (Visio)
+title: InvisibleApp.VBAEnabled property (Visio)
 keywords: vis_sdr.chm17552085
 f1_keywords:
 - vis_sdr.chm17552085
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.VBAEnabled
 ms.assetid: d95a7957-50f2-9eaa-a493-bfa55d5c6cb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.VBAEnabled Property (Visio)
+# InvisibleApp.VBAEnabled property (Visio)
 
 Specifies whether Microsoft Visual Basic for Applications (VBA) is enabled in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `VBAEnabled`
+_expression_. `VBAEnabled`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -52,7 +53,7 @@ If a document that contains a VBA project is opened with VBA disabled, and then 
     
 
 
-The  **VBAEnabled** property is set to **True** if the **Trust access to the VBA project object model** check box is selected under **Developer Macro Settings** on the **Macro Settings** page of the **Trust Center** (click the **BackstageButton** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**). If it is not selected, the property reports  **False** .
+The  **VBAEnabled** property is set to **True** if the **Trust access to the VBA project object model** check box is selected under **Developer Macro Settings** on the **Macro Settings** page of the **Trust Center** (click the **BackstageButton** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**). If it is not selected, the property reports  **False**.
 
 
 ## Example
@@ -85,4 +86,4 @@ Public Sub VBAEnabled_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

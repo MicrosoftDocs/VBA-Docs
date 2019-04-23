@@ -1,5 +1,5 @@
 ---
-title: LetterContent.RecipientAddress Property (Word)
+title: LetterContent.RecipientAddress property (Word)
 keywords: vbawd10.chm161546349
 f1_keywords:
 - vbawd10.chm161546349
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.RecipientAddress
 ms.assetid: bcfbc400-0db7-0c86-5cb7-2a67a8ef9513
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.RecipientAddress Property (Word)
+# LetterContent.RecipientAddress property (Word)
 
-Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `RecipientAddress`
+_expression_. `RecipientAddress`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -44,3 +45,4 @@ Documents.Add.RunLetterWizard LetterContent:=oLC, WizardMode:=True
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

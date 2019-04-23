@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.AddNodes Method (Word)
+title: FreeformBuilder.AddNodes method (Word)
 keywords: vbawd10.chm164167690
 f1_keywords:
 - vbawd10.chm164167690
@@ -8,19 +8,20 @@ api_name:
 - Word.FreeformBuilder.AddNodes
 ms.assetid: 793e869f-2365-1ef0-f2e4-d764f67f0cb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.AddNodes Method (Word)
+# FreeformBuilder.AddNodes method (Word)
 
 Inserts a new segment at the end of the freeform that's being created, and adds the nodes that define the segment.
 
 
 ## Syntax
 
- _expression_. `AddNodes`( `_SegmentType_` , `_EditingType_` , `_X1_` , `_Y1_` , `_X2_` , `_Y2_` , `_X3_` , `_Y3_` )
+_expression_. `AddNodes`( `_SegmentType_` , `_EditingType_` , `_X1_` , `_Y1_` , `_X2_` , `_Y2_` , `_X3_` , `_Y3_` )
 
- _expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
+_expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
 
 
 ## Parameters
@@ -30,13 +31,13 @@ Inserts a new segment at the end of the freeform that's being created, and adds 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SegmentType_|Required| **MsoSegmentType**|The type of segment to be added.|
-| _EditingType_|Required| **MsoEditingType**|The editing property of the vertex. If SegmentType is  **msoSegmentLine** , EditingType must be **msoEditingAuto** .|
-| _X1_|Required| **Single**|If the EditingType of the new segment is  **msoEditingAuto** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new node is **msoEditingCorner** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the first control point for the new segment.|
-| _Y1_|Required| **Single**|If the EditingType of the new segment is  **msoEditingAuto** , this argument specifies the vertical distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new node is **msoEditingCorner** , this argument specifies the vertical distance (in points) from the upper-left corner of the document to the first control point for the new segment.|
-| _X2_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the second control point for the new segment. If the EditingType of the new segment is **msoEditingAuto** , don't specify a value for this argument.|
-| _Y2_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner** , this argument specifies the vertical distance (in points) from the upper-left corner of the document to the second control point for the new segment. If the EditingType of the new segment is **msoEditingAuto** , do not specify a value for this argument.|
-| _X3_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new segment is **msoEditingAuto** , don't specify a value for this argument.|
-| _Y3_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner** , this argument specifies the vertical distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new segment is **msoEditingAuto** , don't specify a value for this argument.|
+| _EditingType_|Required| **MsoEditingType**|The editing property of the vertex. If SegmentType is  **msoSegmentLine**, EditingType must be **msoEditingAuto**.|
+| _X1_|Required| **Single**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new node is **msoEditingCorner**, this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the first control point for the new segment.|
+| _Y1_|Required| **Single**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new node is **msoEditingCorner**, this argument specifies the vertical distance (in points) from the upper-left corner of the document to the first control point for the new segment.|
+| _X2_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the second control point for the new segment. If the EditingType of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
+| _Y2_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance (in points) from the upper-left corner of the document to the second control point for the new segment. If the EditingType of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+| _X3_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
+| _Y3_|Optional| **Single**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance (in points) from the upper-left corner of the document to the endpoint of the new segment. If the EditingType of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
 
 ## Remarks
 
@@ -69,3 +70,4 @@ End With
 
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

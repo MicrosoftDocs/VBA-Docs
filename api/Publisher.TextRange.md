@@ -1,5 +1,5 @@
 ---
-title: TextRange Object (Publisher)
+title: TextRange object (Publisher)
 keywords: vbapb10.chm5373951
 f1_keywords:
 - vbapb10.chm5373951
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TextRange
 ms.assetid: 566f240b-d2a6-8cb3-9eb7-68328d6c28bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange Object (Publisher)
+# TextRange object (Publisher)
 
 Contains the text that is attached to a shape, in addition to properties and methods for manipulating the text. This topic describes how to: 
 
@@ -105,7 +106,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Characters](./Publisher.TextRange.Characters.md)|
 |[Collapse](./Publisher.TextRange.Collapse.md)|
@@ -133,7 +134,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.TextRange.Application.md)|
 |[BoundHeight](./Publisher.TextRange.BoundHeight.md)|
@@ -163,3 +164,4 @@ End Sub
 |[Text](./Publisher.TextRange.Text.md)|
 |[WordsCount](./Publisher.TextRange.WordsCount.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

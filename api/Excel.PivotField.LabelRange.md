@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.LabelRange
 ms.assetid: be06bf39-d970-316e-6833-65efde85ddc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell (
 
 ## Syntax
 
- _expression_. `LabelRange`
+_expression_. `LabelRange`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -41,3 +42,4 @@ pvtField.LabelRange.Select
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TabStop.Position Property (Word)
+title: TabStop.Position property (Word)
 keywords: vbawd10.chm156500070
 f1_keywords:
 - vbawd10.chm156500070
@@ -8,19 +8,20 @@ api_name:
 - Word.TabStop.Position
 ms.assetid: f44ce39b-34e6-992b-fe50-be53bd6f53bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop.Position Property (Word)
+# TabStop.Position property (Word)
 
-Returns or sets the position of a tab stop relative to the left margin. Read/write  **Single** .
+Returns or sets the position of a tab stop relative to the left margin. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
+_expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End With
 
 [TabStop Object](Word.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

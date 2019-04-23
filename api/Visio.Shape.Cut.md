@@ -1,5 +1,5 @@
 ---
-title: Shape.Cut Method (Visio)
+title: Shape.Cut method (Visio)
 keywords: vis_sdr.chm11216160
 f1_keywords:
 - vis_sdr.chm11216160
@@ -8,19 +8,20 @@ api_name:
 - Visio.Shape.Cut
 ms.assetid: fda7a58c-233b-5864-880e-cfa17f20c175
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Cut Method (Visio)
+# Shape.Cut method (Visio)
 
 Deletes an object or selection and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`( `_Flags_` )
+_expression_.**Cut** (_Flags_)
 
- _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ## Parameters
@@ -38,11 +39,11 @@ Nothing
 
 ## Remarks
 
-Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes** , and are described in the following table.
+Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes**, and are described in the following table.
 
 
 
-|**Flag**|**Value**|**Description**|
+|**Flag**|Value|Description|
 |:-----|:-----|:-----|
 | **visCopyPasteNormal**|&H0|Follow default copying behavior.|
 | **visCopyPasteNoTranslate**|&H1|Copy shapes to their original coordinate locations.|
@@ -75,4 +76,4 @@ Public Sub Cut_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlSparkScale enumeration (Excel)
+title: XlSparkScale enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSparkScale
 ms.assetid: 6fe94fa8-1d81-e177-332f-7a85120d0e44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlSparkScale enumeration (Excel)
+# XlSparkScale enumeration (Excel)
 
 Specifies how the minimum or maximum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group.
 
@@ -22,6 +23,6 @@ Specifies how the minimum or maximum value of the vertical axis of the sparkline
 
 ## Remarks
 
-The constants of the  **XlSparkScale** enumeration correspond to the settings of the **Vertical Axis Minimum Value Options** and the **Vertical Axis Maximum Value Options** on the **Axis** drop-down list on the **Sparkline Tools Design** tab of the ribbon.
+The constants of the  **xlSparkScale** enumeration correspond to the settings of the **Vertical Axis Minimum Value Options** and the **Vertical Axis Maximum Value Options** on the **Axis** drop-down list on the **Sparkline Tools Design** tab of the ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.TableID Property (Word)
+title: TableOfContents.TableID property (Word)
 keywords: vbawd10.chm152240133
 f1_keywords:
 - vbawd10.chm152240133
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfContents.TableID
 ms.assetid: d95186f5-b6ee-20cd-840e-e55ec3f06d04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfContents.TableID Property (Word)
+# TableOfContents.TableID property (Word)
 
-Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write  **String** .
+Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `TableID`
+_expression_. `TableID`
 
- _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End With
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

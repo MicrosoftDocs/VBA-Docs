@@ -1,23 +1,24 @@
 ---
-title: TaskRequestAcceptItem.BeforeAttachmentAdd Event (Outlook)
+title: TaskRequestAcceptItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.BeforeAttachmentAdd
 ms.assetid: 843a4fee-6ce1-09cc-9b01-30729ccd99ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.BeforeAttachmentAdd Event (Outlook)
+# TaskRequestAcceptItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment is added to an instance of the parent object.
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

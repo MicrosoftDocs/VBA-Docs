@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (Publisher)
+title: Shapes.Count property (Publisher)
 keywords: vbapb10.chm2162691
 f1_keywords:
 - vbapb10.chm2162691
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.Count
 ms.assetid: 43052c93-461c-ca6a-3c8c-7142bd6d9ea1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Count Property (Publisher)
+# Shapes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

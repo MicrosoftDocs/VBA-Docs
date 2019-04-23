@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 66c6867e-d634-4377-ad44-cc009a50c6c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [VisTypeSelectionTypes Enumeration (Visio)](http://msdn.microsoft.com/library/c1b3c65f-e46d-593a-2228-9cff17687913.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

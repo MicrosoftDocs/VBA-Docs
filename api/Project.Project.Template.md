@@ -1,5 +1,5 @@
 ---
-title: Project.Template Property (Project)
+title: Project.Template property (Project)
 keywords: vbapj.chm132720
 f1_keywords:
 - vbapj.chm132720
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.Template
 ms.assetid: 8f73cf7a-e900-2951-6491-edc0ef78c0f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.Template Property (Project)
+# Project.Template property (Project)
 
 Gets the name of the template associated with a project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Template`
+_expression_. `Template`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -39,4 +40,4 @@ Sub CreateNewProject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

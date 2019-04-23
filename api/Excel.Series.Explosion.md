@@ -8,19 +8,20 @@ api_name:
 - Excel.Series.Explosion
 ms.assetid: e70678f5-ee1a-f5c2-7e5f-0c26f5282be4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Series.Explosion property (Excel)
 
-Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Returns 0 (zero) if there's no explosion (the tip of the slice is in the center of the pie). Read/write  **Long** .
+Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Returns 0 (zero) if there's no explosion (the tip of the slice is in the center of the pie). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Explosion`
+_expression_. `Explosion`
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Ret
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

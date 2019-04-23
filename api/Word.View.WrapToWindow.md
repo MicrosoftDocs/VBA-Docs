@@ -1,5 +1,5 @@
 ---
-title: View.WrapToWindow Property (Word)
+title: View.WrapToWindow property (Word)
 keywords: vbawd10.chm161808404
 f1_keywords:
 - vbawd10.chm161808404
@@ -8,17 +8,18 @@ api_name:
 - Word.View.WrapToWindow
 ms.assetid: f596f4e6-c404-3b58-93a8-8aca79b60b66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.WrapToWindow Property (Word)
+# View.WrapToWindow property (Word)
 
- **True** if lines wrap at the right edge of the document window rather than at the right margin or the right column boundary. Read/write **Boolean** .
+ **True** if lines wrap at the right edge of the document window rather than at the right margin or the right column boundary. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `WrapToWindow`
+_expression_. `WrapToWindow`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

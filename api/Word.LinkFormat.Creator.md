@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Creator Property (Word)
+title: LinkFormat.Creator property (Word)
 keywords: vbawd10.chm154207209
 f1_keywords:
 - vbawd10.chm154207209
@@ -8,19 +8,20 @@ api_name:
 - Word.LinkFormat.Creator
 ms.assetid: ced64f38-9d62-d83c-1d4c-3e12c67b70b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.Creator Property (Word)
+# LinkFormat.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
+_expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LinkFormat Object](Word.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

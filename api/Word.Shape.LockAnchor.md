@@ -1,5 +1,5 @@
 ---
-title: Shape.LockAnchor Property (Word)
+title: Shape.LockAnchor property (Word)
 keywords: vbawd10.chm161481006
 f1_keywords:
 - vbawd10.chm161481006
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.LockAnchor
 ms.assetid: dc153260-5e5d-75f6-c776-481020778cc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LockAnchor Property (Word)
+# Shape.LockAnchor property (Word)
 
- **True** if the anchor of a **Shape** object is locked to the anchoring range. Read/write **Long** .
+ **True** if the anchor of a **Shape** object is locked to the anchoring range. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `LockAnchor`
+_expression_. `LockAnchor`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ Next x
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

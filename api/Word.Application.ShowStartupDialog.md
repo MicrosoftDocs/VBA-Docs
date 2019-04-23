@@ -1,5 +1,5 @@
 ---
-title: Application.ShowStartupDialog Property (Word)
+title: Application.ShowStartupDialog property (Word)
 keywords: vbawd10.chm158335431
 f1_keywords:
 - vbawd10.chm158335431
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ShowStartupDialog
 ms.assetid: ecee5bb2-271b-f1fc-c25c-a77a59f5df03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ShowStartupDialog Property (Word)
+# Application.ShowStartupDialog property (Word)
 
- **True** to display the **Task Pane** when starting Microsoft Word. Read/write **Boolean** .
+ **True** to display the **Task Pane** when starting Microsoft Word. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowStartupDialog`
+_expression_. `ShowStartupDialog`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -45,3 +46,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

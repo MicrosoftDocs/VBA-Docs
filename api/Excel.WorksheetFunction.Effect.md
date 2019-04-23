@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Effect Method (Excel)
+title: WorksheetFunction.Effect method (Excel)
 keywords: vbaxl10.chm137322
 f1_keywords:
 - vbaxl10.chm137322
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Effect
 ms.assetid: cbd5be5b-a1ee-addf-f0d9-01c4e4e0273b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Effect Method (Excel)
+# WorksheetFunction.Effect method (Excel)
 
 Returns the effective annual interest rate, given the nominal annual interest rate and the number of compounding periods per year.
 
 
 ## Syntax
 
- _expression_. `Effect`( `_Arg1_` , `_Arg2_` )
+_expression_. `Effect`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

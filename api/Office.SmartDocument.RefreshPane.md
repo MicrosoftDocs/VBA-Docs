@@ -1,5 +1,5 @@
 ---
-title: SmartDocument.RefreshPane Method (Office)
+title: SmartDocument.RefreshPane method (Office)
 keywords: vbaof11.chm262004
 f1_keywords:
 - vbaof11.chm262004
@@ -7,30 +7,31 @@ ms.prod: office
 api_name:
 - Office.SmartDocument.RefreshPane
 ms.assetid: c37de2c2-f24a-0db2-fda8-cfe7d0b464fb
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# SmartDocument.RefreshPane Method (Office)
+# SmartDocument.RefreshPane method (Office)
 
-Refreshes the  **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.
+Refreshes the **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.
 
 
 ## Syntax
 
- _expression_. `RefreshPane`
+_expression_.**RefreshPane**
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+_expression_ A variable that represents a **[SmartDocument](Office.SmartDocument.md)** object.
 
 
 ## Remarks
 
-The  **RefreshPane** method raises an error if the active document does not have an XML expansion pack attached.
+The **RefreshPane** method raises an error if the active document does not have an XML expansion pack attached.
 
 
 ## Example
 
-The following example determines whether the active Excel workbook has an XML expansion pack attached. If so, it refreshes the smart document's  **Document Actions** task pane.
+The following example determines whether the active Excel workbook has an XML expansion pack attached. If so, it refreshes the smart document's **Document Actions** task pane.
 
 
 ```vb
@@ -47,10 +48,8 @@ The following example determines whether the active Excel workbook has an XML ex
 
 ## See also
 
-
-[SmartDocument Object](Office.SmartDocument.md)
-
+- [SmartDocument object members](overview/Library-Reference/smartdocument-members-office.md)
 
 
-[SmartDocument Object Members](./overview/Library-Reference/smartdocument-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

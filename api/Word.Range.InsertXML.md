@@ -1,5 +1,5 @@
 ---
-title: Range.InsertXML Method (Word)
+title: Range.InsertXML method (Word)
 keywords: vbawd10.chm157155744
 f1_keywords:
 - vbawd10.chm157155744
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.InsertXML
 ms.assetid: daee0fee-01cb-5ad7-f61d-ea6ebec1d04a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InsertXML Method (Word)
+# Range.InsertXML method (Word)
 
 Inserts the specified XML into the document at the specified range, replacing any text contained within the range.
 
 
 ## Syntax
 
- _expression_. `InsertXML`( `_XML_` , `_Transform_` )
+_expression_. `InsertXML`( `_XML_` , `_Transform_` )
 
  _expression_ An expression that returns a [Range](./Word.Range.md) object.
 
@@ -65,3 +66,4 @@ ActiveDocument.Paragraphs(5).Range.InsertXML strXML
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

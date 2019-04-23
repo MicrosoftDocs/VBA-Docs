@@ -1,5 +1,5 @@
 ---
-title: Application.FilterShowSummaryRows Method (Project)
+title: Application.FilterShowSummaryRows method (Project)
 keywords: vbapj.chm2297
 f1_keywords:
 - vbapj.chm2297
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilterShowSummaryRows
 ms.assetid: 173bf591-7579-505f-3cbd-42eaddb231ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilterShowSummaryRows Method (Project)
+# Application.FilterShowSummaryRows method (Project)
 
 Shows or hides the related summary rows.
 
 
 ## Syntax
 
- _expression_. `FilterShowSummaryRows`( ` _On_` )
+_expression_. `FilterShowSummaryRows`( `_On_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ If the current filter shows only completed tasks, for example, the following com
 FilterShowSummaryRows (true)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

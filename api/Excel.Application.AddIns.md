@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.Application.AddIns
 ms.assetid: 0798690a-910a-b832-e143-df51d7c061ca
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
@@ -18,19 +19,19 @@ Returns an **[AddIns](Excel.AddIns.md)** collection that represents all the add-
 
 ## Syntax
 
-_expression_. `AddIns`
+_expression_.**AddIns**
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
-Using this method without an object qualifier is equivalent to `Application.Addins`.
+Using this method without an object qualifier is equivalent to Application.Addins.
 
 
 ## Example
 
-This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the  **AddIns** collection is the title of the add-in, not the add-in's file name.
+This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the **AddIns** collection is the title of the add-in, not the add-in's file name.
 
 
 ```vb
@@ -42,7 +43,6 @@ End If
 ```
 
 
-## See also
 
-- [Application object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

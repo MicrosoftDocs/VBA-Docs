@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SetCustomMenus Method (Visio)
+title: InvisibleApp.SetCustomMenus method (Visio)
 keywords: vis_sdr.chm17516560
 f1_keywords:
 - vis_sdr.chm17516560
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.SetCustomMenus
 ms.assetid: 5538c47c-fe24-e00b-b7c4-64ccf2100d84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.SetCustomMenus Method (Visio)
+# InvisibleApp.SetCustomMenus method (Visio)
 
 Replaces the current built-in or custom menus of an application or document.
 
 
 ## Syntax
 
- _expression_. `SetCustomMenus`( `_MenusObject_` )
+_expression_. `SetCustomMenus`( `_MenusObject_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -97,4 +98,4 @@ Public Sub SetCustomMenus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.RepeatItemsOnEachPrintedPage
 ms.assetid: 96e5e2d8-44ff-8d6f-6bba-f009dbc769a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.RepeatItemsOnEachPrintedPage property (Excel)
 
- **True** if row, column, and item labels appear on the first row of each page when the specified PivotTable report is printed. **False** if labels are printed only on the first page. The default value is **True** . Read/write **Boolean** .
+ **True** if row, column, and item labels appear on the first row of each page when the specified PivotTable report is printed. **False** if labels are printed only on the first page. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RepeatItemsOnEachPrintedPage`
+_expression_. `RepeatItemsOnEachPrintedPage`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveSheet.PivotTables("PivotTable4") _
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

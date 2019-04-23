@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9c43a2e1-7338-48e7-8521-4208df7dfb8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.GroupInterval Property (Project)](http://msdn.microsoft.com/library/1944776c-0150-d901-79f1-cfb7c0c698f7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

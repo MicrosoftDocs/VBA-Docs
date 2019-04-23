@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: c9d4c686-4f93-8734-0905-762e03ffc91f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTableNames.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableNames Object (Excel)](Excel.modeltablenames.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [ModelTableNames](Excel.modeltablenames.md) object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) object.
+_expression_ A variable that represents a [ModelTableNames](Excel.modeltablenames.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
 [ModelTableNames Object](Excel.modeltablenames.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,28 +1,27 @@
 ---
-title: GradientStops.Insert Method (Office)
+title: GradientStops.Insert method (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Insert
 ms.assetid: 98aec7ed-44f9-c9b4-7a1a-e5b9a1d26d95
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
-# GradientStops.Insert Method (Office)
+# GradientStops.Insert method (Office)
 
 Adds a stop to a gradient.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_` )
+_expression_.**Insert** (_RGB_, _Position_, _Transparency_, _Index_)
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+_expression_ An expression that returns a **[GradientStops](Office.GradientStops.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -59,10 +58,6 @@ End Sub
 
 ## See also
 
+- [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
 
-[GradientStops Object](Office.GradientStops.md)
-
-
-
-[GradientStops Object Members](./overview/Library-Reference/gradientstops-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

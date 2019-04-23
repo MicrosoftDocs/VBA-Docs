@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CreateSharingItem Method (Outlook)
+title: NameSpace.CreateSharingItem method (Outlook)
 keywords: vbaol11.chm790
 f1_keywords:
 - vbaol11.chm790
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.CreateSharingItem
 ms.assetid: 4c93d347-cc39-eb5d-bf08-125b69f91eb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.CreateSharingItem Method (Outlook)
+# NameSpace.CreateSharingItem method (Outlook)
 
 Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 ## Syntax
 
- _expression_. `CreateSharingItem`( `_Context_` , `_Provider_` )
+_expression_. `CreateSharingItem`( `_Context_` , `_Provider_` )
 
- _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
+ _expression_ An expression that returns a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ If  _Provider_ is not specified, the method attempts to use the appropriate shar
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

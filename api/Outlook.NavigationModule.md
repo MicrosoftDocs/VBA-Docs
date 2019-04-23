@@ -1,5 +1,5 @@
 ---
-title: NavigationModule Object (Outlook)
+title: NavigationModule object (Outlook)
 keywords: vbaol11.chm3211
 f1_keywords:
 - vbaol11.chm3211
@@ -8,12 +8,13 @@ api_name:
 - Outlook.NavigationModule
 ms.assetid: 76565eaf-1e64-f5d4-b90f-ba156863802c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NavigationModule Object (Outlook)
+# NavigationModule object (Outlook)
 
-Represents a navigation module in the Navigation Pane.
+Represents a navigation module in the navigation pane.
 
 
 ## Remarks
@@ -39,14 +40,14 @@ The  **NavigationModule** object provides access to the various navigation modul
 
 The  **Shortcuts** and **Folder List** navigation modules do not have a corresponding object, such as **MailModule**, because they do not support programmatic access to navigation groups or navigation folders. You can use the **NavigationModule** object to access the properties of the **Shortcuts** and **Folder List** modules.
 
-You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to determine whether the navigation module is visible, and use the **[Position](Outlook.NavigationModule.Position.md)** property to return or set the display position of the navigation module within the Navigation Pane. You can also use the **[Name](Outlook.NavigationModule.Name.md)** property to return the display name of the navigation module in the Navigation Pane.
+You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to determine whether the navigation module is visible, and use the **[Position](Outlook.NavigationModule.Position.md)** property to return or set the display position of the navigation module within the navigation pane. You can also use the **[Name](Outlook.NavigationModule.Name.md)** property to return the display name of the navigation module in the navigation pane.
 
 
 ## Properties
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationModule.Application.md)|
 |[Class](Outlook.NavigationModule.Class.md)|
@@ -60,4 +61,6 @@ You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

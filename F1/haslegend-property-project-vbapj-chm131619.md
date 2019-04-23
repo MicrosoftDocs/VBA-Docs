@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 51fc2793-edb3-4970-88c9-affa0c8cb6da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.Copy Method (Project)](http://msdn.microsoft.com/library/92627648-016a-0a69-52b8-bb24b1ea22d3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

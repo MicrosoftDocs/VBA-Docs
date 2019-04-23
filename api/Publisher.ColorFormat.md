@@ -1,5 +1,5 @@
 ---
-title: ColorFormat Object (Publisher)
+title: ColorFormat object (Publisher)
 keywords: vbapb10.chm2621439
 f1_keywords:
 - vbapb10.chm2621439
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ColorFormat
 ms.assetid: 659069e1-e359-94d7-de06-a1d98378193b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat Object (Publisher)
+# ColorFormat object (Publisher)
 
 Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the  **[RGB](Publisher.ColorFormat.RGB.md)** property.
  
@@ -58,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorFormat.Application.md)|
 |[BaseCMYK](Publisher.ColorFormat.BaseCMYK.md)|
@@ -72,3 +73,4 @@ End Sub
 |[Transparency](Publisher.ColorFormat.Transparency.md)|
 |[Type](Publisher.ColorFormat.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

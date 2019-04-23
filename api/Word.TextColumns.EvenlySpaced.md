@@ -1,5 +1,5 @@
 ---
-title: TextColumns.EvenlySpaced Property (Word)
+title: TextColumns.EvenlySpaced property (Word)
 keywords: vbawd10.chm158531684
 f1_keywords:
 - vbawd10.chm158531684
@@ -8,26 +8,27 @@ api_name:
 - Word.TextColumns.EvenlySpaced
 ms.assetid: 9498889e-0f61-ddad-df6b-6defb11dc566
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextColumns.EvenlySpaced Property (Word)
+# TextColumns.EvenlySpaced property (Word)
 
- **True** if text columns are evenly spaced. Read/write **Long** .
+ **True** if text columns are evenly spaced. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `EvenlySpaced`
+_expression_. `EvenlySpaced`
 
  _expression_ A variable that represents a '[TextColumns](Word(textcolumns).md)' object.
 
 
 ## Remarks
 
-The  **EvenlySpaced** property can be **True** , **False** , or **wdUndefined** .
+The  **EvenlySpaced** property can be **True**, **False**, or **wdUndefined**.
 
-If you set the  **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True** . Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
+If you set the  **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True**. Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
 
 
 ## Example
@@ -62,3 +63,4 @@ lngSpaced = ActiveDocument.PageSetup.TextColumns.EvenlySpaced
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

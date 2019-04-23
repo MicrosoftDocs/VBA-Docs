@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.Shadow
 ms.assetid: b5bbbb48-a061-d9c3-84e8-5bbe05b86007
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a read-only  **[ShadowFormat](Excel.ShadowFormat.md)** object that conta
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_.**Shadow**
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a read-only  **[ShadowFormat](Excel.ShadowFormat.md)** object that conta
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

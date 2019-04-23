@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 553ea1c1-3f74-869d-f1d3-2cc7d585dc07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Many Microsoft Outlook/Exchange folders and address books are system-wide compon
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

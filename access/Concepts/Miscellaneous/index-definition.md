@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 67b93637-afba-f20a-b135-149a92ee9d99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,5 @@ An index is a Microsoft Access feature that speeds up searching and sorting in a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

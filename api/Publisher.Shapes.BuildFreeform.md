@@ -1,5 +1,5 @@
 ---
-title: Shapes.BuildFreeform Method (Publisher)
+title: Shapes.BuildFreeform method (Publisher)
 keywords: vbapb10.chm2162723
 f1_keywords:
 - vbapb10.chm2162723
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.BuildFreeform
 ms.assetid: ea24a9a2-e72c-beb3-b17d-161ea41fff1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.BuildFreeform Method (Publisher)
+# Shapes.BuildFreeform method (Publisher)
 
 Builds a freeform object. Returns a  [FreeformBuilder](Publisher.FreeformBuilder.md)object that represents the freeform as it is being built.
 
 
 ## Syntax
 
- _expression_. **BuildFreeform**(**_EditingType_**,  **_X1_**,  **_Y1_**)
+_expression_.**BuildFreeform**(**_EditingType_**,  **_X1_**,  **_Y1_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -82,4 +83,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

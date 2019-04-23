@@ -1,5 +1,5 @@
 ---
-title: Presentation.SaveCopyAs Method (PowerPoint)
+title: Presentation.SaveCopyAs method (PowerPoint)
 keywords: vbapp10.chm583037
 f1_keywords:
 - vbapp10.chm583037
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.SaveCopyAs
 ms.assetid: 456415d1-845a-9e9b-45ce-98985e94aee5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.SaveCopyAs Method (PowerPoint)
+# Presentation.SaveCopyAs method (PowerPoint)
 
 Saves a copy of the specified presentation to a file without modifying the original.
 
 
 ## Syntax
 
- _expression_. `SaveCopyAs`( `_FileName_`, `_FileFormat_`, `_EmbedTrueTypeFonts_` )
+_expression_. `SaveCopyAs`( `_FileName_`, `_FileFormat_`, `_EmbedTrueTypeFonts_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -65,7 +66,7 @@ The  _EmbedTrueTypeFonts_ parameter value can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|TrueType fonts are not embedded.|
 |**msoTriStateMixed**|Embedded fonts are a mixture of TrueType and non-TrueType. The default. |
@@ -92,3 +93,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

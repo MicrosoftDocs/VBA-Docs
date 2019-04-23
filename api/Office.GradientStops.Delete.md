@@ -1,28 +1,27 @@
 ---
-title: GradientStops.Delete Method (Office)
+title: GradientStops.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Delete
 ms.assetid: 3f31656a-498d-57d1-1464-b2439718ef89
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
-# GradientStops.Delete Method (Office)
+# GradientStops.Delete method (Office)
 
 Removes a gradient stop.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_Index_` )
+_expression_.**Delete** (_Index_)
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+_expression_ An expression that returns a **[GradientStops](Office.GradientStops.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -56,10 +55,6 @@ End Sub
 
 ## See also
 
+- [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
 
-[GradientStops Object](Office.GradientStops.md)
-
-
-
-[GradientStops Object Members](./overview/Library-Reference/gradientstops-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

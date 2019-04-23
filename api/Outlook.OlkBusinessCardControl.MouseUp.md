@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MouseUp Event (Outlook)
+title: OlkBusinessCardControl.MouseUp event (Outlook)
 keywords: vbaol11.chm1000332
 f1_keywords:
 - vbaol11.chm1000332
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkBusinessCardControl.MouseUp
 ms.assetid: 877e7ab8-6b5e-f06a-db9a-9e9079110e9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MouseUp Event (Outlook)
+# OlkBusinessCardControl.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkBusinessCardControl](./Outlook.OlkBusinessCardControl.md) object.
+_expression_ A variable that represents an [OlkBusinessCardControl](Outlook.OlkBusinessCardControl.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkBusinessCardControl Object](Outlook.OlkBusinessCardControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

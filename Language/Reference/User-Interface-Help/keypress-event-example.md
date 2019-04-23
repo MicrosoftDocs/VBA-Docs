@@ -1,28 +1,23 @@
 ---
-title: KeyPress Event Example
+title: KeyPress event example
 keywords: fm20.chm5225133
 f1_keywords:
 - fm20.chm5225133
 ms.prod: office
 ms.assetid: a41bc663-9be3-fc6a-87b6-baa5c0a4a526
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# KeyPress Event Example
+# KeyPress event example
 
-The following example uses the  **KeyPress** event to copy keystrokes from one **TextBox** to a second **TextBox**. The user types into the appropriately marked **TextBox**.
+The following example uses the **[KeyPress](keypress-event.md)** event to copy keystrokes from one **[TextBox](textbox-control.md)** to a second **TextBox**. The user types into the appropriately marked **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-
-
-
 
 ```vb
 Private Sub TextBox1_KeyPress(ByVal KeyAscii As _ 
@@ -52,4 +47,4 @@ Private Sub UserForm_Initialize()
  End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

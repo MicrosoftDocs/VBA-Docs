@@ -1,5 +1,5 @@
 ---
-title: Global.FileConverters Property (Word)
+title: Global.FileConverters property (Word)
 keywords: vbawd10.chm163119121
 f1_keywords:
 - vbawd10.chm163119121
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.FileConverters
 ms.assetid: 1112fe8e-5a32-bbef-d02f-f17f0603f539
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.FileConverters Property (Word)
+# Global.FileConverters property (Word)
 
 Returns a  **[FileConverters](Word.fileconverters.md)** collection that represents all the file converters available to Microsoft Word. Read-only.
 
 
 ## Syntax
 
- _expression_. `FileConverters`
+_expression_. `FileConverters`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -69,3 +70,4 @@ MsgBox "The file name extensions for " & fcTemp.FormatName & _
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

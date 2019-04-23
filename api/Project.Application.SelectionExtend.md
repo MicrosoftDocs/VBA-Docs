@@ -1,5 +1,5 @@
 ---
-title: Application.SelectionExtend Method (Project)
+title: Application.SelectionExtend method (Project)
 keywords: vbapj.chm2051
 f1_keywords:
 - vbapj.chm2051
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectionExtend
 ms.assetid: cffc56a0-0b25-2afa-427c-840aa2053921
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectionExtend Method (Project)
+# Application.SelectionExtend method (Project)
 
 Turns selection extension on or off.
 
 
 ## Syntax
 
- _expression_. `SelectionExtend`( ` _Extend_`, ` _Add_` )
+_expression_. `SelectionExtend`( `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub Selection_Extend()
  End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

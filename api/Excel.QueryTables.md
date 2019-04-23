@@ -1,5 +1,5 @@
 ---
-title: QueryTables Object (Excel)
+title: QueryTables object (Excel)
 keywords: vbaxl10.chm520072
 f1_keywords:
 - vbaxl10.chm520072
@@ -7,33 +7,34 @@ ms.prod: excel
 api_name:
 - Excel.QueryTables
 ms.assetid: 93511da3-598e-0aa3-fbc3-14bebff8838f
-ms.date: 06/08/2017
+ms.date: 04/02/2019
+localization_priority: Normal
 ---
 
 
-# QueryTables Object (Excel)
+# QueryTables object (Excel)
 
-A collection of  **[QueryTable](Excel.QueryTable.md)** objects.
+A collection of **[QueryTable](Excel.QueryTable.md)** objects.
 
 
 ## Remarks
 
- Each **QueryTable** object represents a worksheet table built from data returned from an external data source.
+Each **QueryTable** object represents a worksheet table built from data returned from an external data source.
 
 
 ## Example
 
-Use the  **[QueryTables](Excel.Worksheet.QueryTables.md)** property to return the **[QueryTables](Excel.QueryTables.md)** collection. The following example displays the number of query tables on the active worksheet.
+Use the **[QueryTables](Excel.Worksheet.QueryTables.md)** property of the **Worksheet** object to return the **QueryTables** collection. 
 
+The following example displays the number of query tables on the active worksheet.
 
 ```vb
 MsgBox ActiveSheet.QueryTables.Count
 ```
 
-Use the  **[Add](Excel.QueryTables.Add.md)** method to create a new query table and add it to the **QueryTables** collection. The following example creates a new query table.
+<br/>
 
-
-
+Use the **Add** method to create a new query table and add it to the **QueryTables** collection. The following example creates a new query table.
 
 ```vb
 Dim qt As QueryTable 
@@ -49,25 +50,19 @@ End With
 
 ## Methods
 
-
-
-|**Name**|
-|:-----|
-|[Add](Excel.QueryTables.Add.md)|
-|[Item](Excel.QueryTables.Item.md)|
+- [Add](Excel.QueryTables.Add.md)
+- [Item](Excel.QueryTables.Item.md)
 
 ## Properties
 
+- [Application](Excel.QueryTables.Application.md)
+- [Count](Excel.QueryTables.Count.md)
+- [Creator](Excel.QueryTables.Creator.md)
+- [Parent](Excel.QueryTables.Parent.md)
 
-
-|**Name**|
-|:-----|
-|[Application](Excel.QueryTables.Application.md)|
-|[Count](Excel.QueryTables.Count.md)|
-|[Creator](Excel.QueryTables.Creator.md)|
-|[Parent](Excel.QueryTables.Parent.md)|
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

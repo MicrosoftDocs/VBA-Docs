@@ -1,5 +1,5 @@
 ---
-title: OlMailRecipientType Enumeration (Outlook)
+title: OlMailRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3067
 f1_keywords:
 - vbaol11.chm3067
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMailRecipientType
 ms.assetid: 5f3f584b-c188-5c93-20c3-4dde6f2cfc3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMailRecipientType Enumeration (Outlook)
+# OlMailRecipientType enumeration (Outlook)
 
 Indicates the recipient type for the  **Item**.
 
@@ -26,6 +27,6 @@ Indicates the recipient type for the  **Item**.
 
 ## Remarks
 
-Used by the [Recipient.Type Property (Outlook)](Outlook.Recipient.Type.md) of an **Item**.
+Used by the [Recipient.Type property (Outlook)](Outlook.Recipient.Type.md) of an **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

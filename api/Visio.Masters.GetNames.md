@@ -1,5 +1,5 @@
 ---
-title: Masters.GetNames Method (Visio)
+title: Masters.GetNames method (Visio)
 keywords: vis_sdr.chm10816315
 f1_keywords:
 - vis_sdr.chm10816315
@@ -8,17 +8,18 @@ api_name:
 - Visio.Masters.GetNames
 ms.assetid: 3cdea9a5-97da-4f59-2a93-7a1d15c29e54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters.GetNames Method (Visio)
+# Masters.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
@@ -29,7 +30,7 @@ Returns the names of all items in a collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _localeSpecificNameArray()_|Required| **STring**|Out parameter. An array that receives names of members of the indicated object.|
+| _localeSpecificNameArray()_|Required| **String**|Out parameter. An array that receives names of members of the indicated object.|
 
 ## Return value
 
@@ -74,4 +75,4 @@ Public Sub GetNames_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

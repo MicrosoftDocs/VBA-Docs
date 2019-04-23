@@ -1,14 +1,15 @@
 ---
-title: xlSaveAsAccessMode enumeration (Excel)
+title: XlSaveAsAccessMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSaveAsAccessMode
 ms.assetid: 245c910e-4a23-6a4d-40a1-68528f06150c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlSaveAsAccessMode enumeration (Excel)
+# XlSaveAsAccessMode enumeration (Excel)
 
 Specifies the access mode for the Save As function.
 
@@ -20,3 +21,4 @@ Specifies the access mode for the Save As function.
 | **xlNoChange**|1|Default (does not change the access mode)|
 | **xlShared**|2|Share list|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

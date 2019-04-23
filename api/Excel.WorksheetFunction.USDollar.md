@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.USDollar Method (Excel)
+title: WorksheetFunction.USDollar method (Excel)
 keywords: vbaxl10.chm137153
 f1_keywords:
 - vbaxl10.chm137153
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.USDollar
 ms.assetid: d09c7356-d6c1-0290-5ed8-ed9c3732a21b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.USDollar Method (Excel)
+# WorksheetFunction.USDollar method (Excel)
 
 Converts a number to text format and applies a currency symbol. The name of the method (and the symbol that it applies) depends upon the language settings.
 
 
 ## Syntax
 
- _expression_. `USDollar`( `_Arg1_` , `_Arg2_` )
+_expression_. `USDollar`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ The following example displays the first number in a currency format, two digits
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

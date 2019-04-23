@@ -1,5 +1,5 @@
 ---
-title: Presentation.Permission Property (PowerPoint)
+title: Presentation.Permission property (PowerPoint)
 keywords: vbapp10.chm583082
 f1_keywords:
 - vbapp10.chm583082
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Presentation.Permission
 ms.assetid: 3f7633a8-bdab-b08d-0cf8-8df52c35865a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Permission Property (PowerPoint)
+# Presentation.Permission property (PowerPoint)
 
 
 
@@ -19,7 +20,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Permission`
+_expression_. `Permission`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -46,7 +47,7 @@ The  **Permission** object model is available whether permissions are restricted
 
 ## Example
 
-The following example creates a new presentation and assigns the user with e-mail address "someone@example.com" read permission on the new presentation. The example will display the permissions of the owner and the new user.
+The following example creates a new presentation and assigns the user with email address "someone@example.com" read permission on the new presentation. The example will display the permissions of the owner and the new user.
 
 
 ```vb
@@ -79,3 +80,4 @@ End Sub
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

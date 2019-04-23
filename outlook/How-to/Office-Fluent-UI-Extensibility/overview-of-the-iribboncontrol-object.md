@@ -3,6 +3,7 @@ title: Overview of the IRibbonControl Object
 ms.prod: outlook
 ms.assetid: 32a0ae0b-26d9-673b-d609-b86696538435
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ When you write managed code, try to cast the object represented by  **IRibbonCon
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

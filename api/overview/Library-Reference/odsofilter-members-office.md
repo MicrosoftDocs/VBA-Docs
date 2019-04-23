@@ -2,7 +2,8 @@
 title: ODSOFilter members (Office)
 ms.prod: office
 ms.assetid: 2c4eeced-e51f-fbf9-65e5-93c06f099d58
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents a filter to be applied to an attached mail merge data source. The **O
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ODSOFilter.Application.md)|Gets an **Application** object that represents the container application for the **ODSOFilter** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Column](../../Office.ODSOFilter.Column.md)|Gets or sets a **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.|
@@ -24,3 +25,4 @@ Represents a filter to be applied to an attached mail merge data source. The **O
 |[Index](../../Office.ODSOFilter.Index.md)|Gets a **Long** representing the index number for an **ODSOFilter** object in the collection. Read-only.|
 |[Parent](../../Office.ODSOFilter.Parent.md)|Gets the **Parent** object for the **ODSOFilter** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

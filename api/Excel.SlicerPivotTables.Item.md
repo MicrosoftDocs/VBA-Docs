@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerPivotTables.Item
 ms.assetid: d63d4a9e-cd6c-bb4c-8f6b-cbb604e1727b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single  **[PivotTable](Excel.PivotTable.md)** object from the collecti
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[SlicerPivotTables](Excel.SlicerPivotTables.md)' object.
+_expression_ A variable that represents a '[SlicerPivotTables](Excel.SlicerPivotTables.md)' object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a single  **[PivotTable](Excel.PivotTable.md)** object from the collecti
 
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

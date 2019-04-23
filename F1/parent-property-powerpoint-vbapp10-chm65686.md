@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 12b4b1d8-2565-42bd-ae56-83f2a9795680
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -47,3 +48,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Floor.Parent Property (PowerPoint)](http://msdn.microsoft.com/library/9c84009a-4166-1c42-0df0-f449c9dcc783%28Office.15%29.aspx)
 [SeriesCollection.Parent Property (PowerPoint)](http://msdn.microsoft.com/library/f5d40a16-5a35-3560-1f59-ffdba6d95807%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

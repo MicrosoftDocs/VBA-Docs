@@ -1,14 +1,15 @@
 ---
-title: WdSortFieldType Enumeration (Word)
+title: WdSortFieldType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSortFieldType
 ms.assetid: b1608991-736f-bcf0-bb7d-4ab08818833b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSortFieldType Enumeration (Word)
+# WdSortFieldType enumeration (Word)
 
 Specifies the sort type to apply when sorting a column.
 
@@ -24,3 +25,4 @@ Specifies the sort type to apply when sorting a column.
 | **wdSortFieldStroke**|5|Stroke order.|
 | **wdSortFieldSyllable**|3|Syllable order.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

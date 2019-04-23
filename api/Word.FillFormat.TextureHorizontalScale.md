@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureHorizontalScale Property (Word)
+title: FillFormat.TextureHorizontalScale property (Word)
 keywords: vbawd10.chm164102262
 f1_keywords:
 - vbawd10.chm164102262
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.TextureHorizontalScale
 ms.assetid: 95673ba4-db72-957a-9873-6a77029d578d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureHorizontalScale Property (Word)
+# FillFormat.TextureHorizontalScale property (Word)
 
 Returns or sets a  **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureHorizontalScale`
+_expression_. `TextureHorizontalScale`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -33,3 +34,4 @@ The setting of the  **TextureHorizontalScale** property corresponds to the setti
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

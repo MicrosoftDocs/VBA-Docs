@@ -1,5 +1,5 @@
 ---
-title: Global.KeyBindings Property (Word)
+title: Global.KeyBindings property (Word)
 keywords: vbawd10.chm163119173
 f1_keywords:
 - vbawd10.chm163119173
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.KeyBindings
 ms.assetid: 76b3fb80-9169-06b6-8aa6-d70d960ea2f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.KeyBindings Property (Word)
+# Global.KeyBindings property (Word)
 
 Returns a  **KeyBindings** collection that represents customized key assignments, which include a key code, a key category, and a command.
 
 
 ## Syntax
 
- _expression_. `KeyBindings`
+_expression_. `KeyBindings`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example
@@ -57,3 +58,4 @@ Next kbLoop
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

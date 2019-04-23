@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetAllIncludedFlags Method (Publisher)
+title: MailMergeDataSource.SetAllIncludedFlags method (Publisher)
 keywords: vbapb10.chm6291481
 f1_keywords:
 - vbapb10.chm6291481
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.SetAllIncludedFlags
 ms.assetid: ab668e95-55ac-fcbd-19c9-3c13fe3aa995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.SetAllIncludedFlags Method (Publisher)
+# MailMergeDataSource.SetAllIncludedFlags method (Publisher)
 
  **True** to include all data source records in a mail merge.
 
 
 ## Syntax
 
- _expression_. **SetAllIncludedFlags**(**_Included_**)
+_expression_.**SetAllIncludedFlags**(**_Included_**)
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -52,4 +53,4 @@ Sub FlagAllRecords()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

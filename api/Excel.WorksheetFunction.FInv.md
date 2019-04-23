@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FInv Method (Excel)
+title: WorksheetFunction.FInv method (Excel)
 keywords: vbaxl10.chm137186
 f1_keywords:
 - vbaxl10.chm137186
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.FInv
 ms.assetid: 4194c2ca-a9c7-ba96-2f17-b24bcb6f4a36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.FInv Method (Excel)
+# WorksheetFunction.FInv method (Excel)
 
 Returns the inverse of the F probability distribution. If p = FDIST(x,...), then FINV(p,...) = x.
 
@@ -22,9 +23,9 @@ For more information about the new functions, see the [F_Inv_RT](Excel.Worksheet
 
 ## Syntax
 
- _expression_. `FInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `FInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ Given a value for probability, FINV seeks that value x such that FDIST(x, degree
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

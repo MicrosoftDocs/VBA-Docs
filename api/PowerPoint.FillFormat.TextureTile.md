@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureTile Property (PowerPoint)
+title: FillFormat.TextureTile property (PowerPoint)
 keywords: vbapp10.chm552031
 f1_keywords:
 - vbapp10.chm552031
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.TextureTile
 ms.assetid: 14d1b329-8d06-b4d6-1ade-aea80f5427ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureTile Property (PowerPoint)
+# FillFormat.TextureTile property (PowerPoint)
 
  Returns or sets whether the texture fill is tiled or centered. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureTile`
+_expression_. `TextureTile`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -34,7 +35,7 @@ The value returned by the  **TextureTile** property can be one of these **MsoTri
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The texture fill is centered.|
 |**msoTrue**| The texture fill is tiled.|
@@ -47,3 +48,4 @@ The setting of the  **TextureTile** property corresponds to the setting of the *
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Formula
 ms.assetid: c5be8952-fc3f-bdb3-d4a6-abf9d94eab1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the object's formula in A1-
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -75,4 +76,4 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

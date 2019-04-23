@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Delete Method (Excel)
+title: ShapeNodes.Delete method (Excel)
 keywords: vbaxl10.chm112007
 f1_keywords:
 - vbaxl10.chm112007
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeNodes.Delete
 ms.assetid: 985a1bed-4c40-e169-42de-fce59eca8b79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Delete Method (Excel)
+# ShapeNodes.Delete method (Excel)
 
 Deletes the object.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_Index_` )
+_expression_.**Delete** (_Index_)
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Deletes the object.
 
 [ShapeNodes Object](Excel.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

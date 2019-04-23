@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousRevision Method (Word)
+title: Selection.PreviousRevision method (Word)
 keywords: vbawd10.chm158663188
 f1_keywords:
 - vbawd10.chm158663188
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.PreviousRevision
 ms.assetid: e516037f-047d-5cd2-19b4-3b7870a14b5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.PreviousRevision Method (Word)
+# Selection.PreviousRevision method (Word)
 
 Locates and returns the previous tracked change as a  **Revision** object.
 
 
 ## Syntax
 
- _expression_. `PreviousRevision`( `_Wrap_` )
+_expression_. `PreviousRevision`( `_Wrap_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Locates and returns the previous tracked change as a  **Revision** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Wrap_|Optional| **Variant**| **True** to continue searching for a revision at the end of the document when the beginning of the document is reached. The default value is **False** .|
+| _Wrap_|Optional| **Variant**| **True** to continue searching for a revision at the end of the document when the beginning of the document is reached. The default value is **False**.|
 
 ## Return value
 
@@ -72,3 +73,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

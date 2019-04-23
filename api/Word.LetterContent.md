@@ -1,5 +1,5 @@
 ---
-title: LetterContent Object (Word)
+title: LetterContent object (Word)
 keywords: vbawd10.chm2465
 f1_keywords:
 - vbawd10.chm2465
@@ -8,10 +8,11 @@ api_name:
 - Word.LetterContent
 ms.assetid: 62a4e17a-6598-c904-f27d-817c19c04981
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent Object (Word)
+# LetterContent object (Word)
 
 Represents the elements of a letter created by the Letter Wizard.
 
@@ -103,6 +104,6 @@ ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Failed to load control 'item1' from 'item2'. Your version of 'item2' may 
 ms.prod: office
 ms.assetid: c9bbdce6-db1e-5fde-e052-1110273b4437
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,3 +18,4 @@ This error has the following causes and solutions:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

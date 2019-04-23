@@ -8,6 +8,7 @@ api_name:
 - Excel.VPageBreaks.Item
 ms.assetid: 88e9cc81-409b-52ca-3d4e-54d3d28f186c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) object.
+_expression_ A variable that represents a [VPageBreaks](Excel.VPageBreaks.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ Worksheets(1).VPageBreaks.Item(1).Location = .Range("e5")
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

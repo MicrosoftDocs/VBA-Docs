@@ -1,5 +1,5 @@
 ---
-title: PageSetup.MirrorMargins Property (Word)
+title: PageSetup.MirrorMargins property (Word)
 keywords: vbawd10.chm158400623
 f1_keywords:
 - vbawd10.chm158400623
@@ -8,24 +8,25 @@ api_name:
 - Word.PageSetup.MirrorMargins
 ms.assetid: ae7c53d9-7669-fb22-323f-2ad3984e2dfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.MirrorMargins Property (Word)
+# PageSetup.MirrorMargins property (Word)
 
- **True** if the inside and outside margins of facing pages are the same width. Read/write **Long** .
+ **True** if the inside and outside margins of facing pages are the same width. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `MirrorMargins`
+_expression_. `MirrorMargins`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Remarks
 
-The  **MirrorMargins** property can be **True** , **False** , or **wdUndefined** . If the **MirrorMargins** property is set to **True** , the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
+The  **MirrorMargins** property can be **True**, **False**, or **wdUndefined**. If the **MirrorMargins** property is set to **True**, the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
 
 
 ## Example
@@ -47,3 +48,4 @@ End With
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

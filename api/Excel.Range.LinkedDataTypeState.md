@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.LinkedDataTypeState
 ms.date: 09/12/2018
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ Returns information about the state of any Linked data types, such as [Stocks or
 
 ## Syntax
 
- _expression_. `LinkedDataTypeState`
+_expression_. `LinkedDataTypeState`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ For ranges that contains cells in different states, it will return `null`.
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

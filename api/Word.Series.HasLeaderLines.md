@@ -1,5 +1,5 @@
 ---
-title: Series.HasLeaderLines Property (Word)
+title: Series.HasLeaderLines property (Word)
 keywords: vbawd10.chm123733362
 f1_keywords:
 - vbawd10.chm123733362
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.HasLeaderLines
 ms.assetid: c558ffc3-939b-a237-3c6e-e10549f3c8d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.HasLeaderLines Property (Word)
+# Series.HasLeaderLines property (Word)
 
- **True** if the series has leader lines. Read/write **Boolean** .
+ **True** if the series has leader lines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasLeaderLines`
+_expression_. `HasLeaderLines`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -53,3 +54,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

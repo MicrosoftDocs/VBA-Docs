@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFile Object (Office)
+title: SharedWorkspaceFile object (Office)
 keywords: vbaof11.chm266000
 f1_keywords:
 - vbaof11.chm266000
@@ -7,13 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile
 ms.assetid: 44e0bbfa-145d-df71-928f-2333b54f1829
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceFile Object (Office)
+# SharedWorkspaceFile object (Office)
 
-The  **SharedWorkspaceFile** object represents a file saved in a shared document workspace.
+The **SharedWorkspaceFile** object represents a file saved in a shared document workspace.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,12 +22,12 @@ The  **SharedWorkspaceFile** object represents a file saved in a shared document
 
 ## Remarks
 
-Use the  **SharedWorkspaceFile** object to manage documents and files saved in a shared workspace.
+Use the **SharedWorkspaceFile** object to manage documents and files saved in a shared workspace.
 
 
 ## Example
 
-Although the  **SharedWorkspaceFile** object has a **URL** property that returns the file's complete path and filename, it does not have a **FileName** property. Use a simple function to extract the filename from the file's URL as in the following example. An additional supporting function decodes escaped space characters in the URL.
+Although the **SharedWorkspaceFile** object has a **URL** property that returns the file's complete path and filename, it does not have a **FileName** property. Use a simple function to extract the file name from the file's URL as in the following example. An additional supporting function decodes escaped space characters in the URL.
 
 
 ```vb
@@ -43,10 +44,9 @@ End Function
 
 ```
 
-Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collection to return a specific **SharedWorkspaceFile** object. Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each file. The following example returns the number of files in the shared workspace and information about each file, using the supporting functions shown above.
+<br/>
 
-
-
+Use the **Item** (_index_) property of the **SharedWorkspaceFiles** collection to return a specific **SharedWorkspaceFile** object. Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each file. The following example returns the number of files in the shared workspace and information about each file, by using the supporting functions shown earlier.
 
 ```vb
     Dim swsFile As Office.SharedWorkspaceFile 
@@ -68,33 +68,11 @@ Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collectio
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Delete](Office.SharedWorkspaceFile.Delete.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.SharedWorkspaceFile.Application.md)|
-|[CreatedBy](Office.SharedWorkspaceFile.CreatedBy.md)|
-|[CreatedDate](Office.SharedWorkspaceFile.CreatedDate.md)|
-|[Creator](Office.SharedWorkspaceFile.Creator.md)|
-|[ModifiedBy](Office.SharedWorkspaceFile.ModifiedBy.md)|
-|[ModifiedDate](Office.SharedWorkspaceFile.ModifiedDate.md)|
-|[Parent](Office.SharedWorkspaceFile.Parent.md)|
-|[URL](Office.SharedWorkspaceFile.URL.md)|
-
 ## See also
 
+- [SharedWorkspaceFile object members](overview/Library-Reference/sharedworkspacefile-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

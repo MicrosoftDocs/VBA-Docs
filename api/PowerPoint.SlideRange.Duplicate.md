@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Duplicate Method (PowerPoint)
+title: SlideRange.Duplicate method (PowerPoint)
 keywords: vbapp10.chm532015
 f1_keywords:
 - vbapp10.chm532015
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.Duplicate
 ms.assetid: 054b5be1-adbb-be83-1c25-e8585dbbdfe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.Duplicate Method (PowerPoint)
+# SlideRange.Duplicate method (PowerPoint)
 
 Creates a duplicate of the specified  **SlideRange** object, adds the new range of slides to the **Slides** collection immediately after the slide range specified originally, and then returns a **SlideRange** object that represents the duplicate slides.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -53,3 +54,4 @@ End With
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

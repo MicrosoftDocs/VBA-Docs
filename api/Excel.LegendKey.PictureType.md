@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendKey.PictureType
 ms.assetid: f911bbaf-6130-0a41-4245-75745470687b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value t
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
+_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value t
 
 [LegendKey Object](Excel.LegendKey(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

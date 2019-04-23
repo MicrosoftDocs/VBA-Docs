@@ -1,5 +1,5 @@
 ---
-title: Explorer.ShowPane Method (Outlook)
+title: Explorer.ShowPane method (Outlook)
 keywords: vbaol11.chm2776
 f1_keywords:
 - vbaol11.chm2776
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.ShowPane
 ms.assetid: 3d2c9dd5-b660-e160-36db-73c23f95a7a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.ShowPane Method (Outlook)
+# Explorer.ShowPane method (Outlook)
 
 Displays or hides a specific pane in the explorer.
 
 
 ## Syntax
 
- _expression_. `ShowPane`( `_Pane_` , `_Visible_` )
+_expression_. `ShowPane`( `_Pane_` , `_Visible_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

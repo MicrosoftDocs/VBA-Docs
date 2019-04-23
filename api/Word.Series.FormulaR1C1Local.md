@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaR1C1Local Property (Word)
+title: Series.FormulaR1C1Local property (Word)
 keywords: vbawd10.chm123732233
 f1_keywords:
 - vbawd10.chm123732233
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.FormulaR1C1Local
 ms.assetid: 06dc1ffa-78fb-948d-ac5a-5151f2f0784c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.FormulaR1C1Local Property (Word)
+# Series.FormulaR1C1Local property (Word)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String** .
+Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaR1C1Local`
+_expression_.**FormulaR1C1Local**
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

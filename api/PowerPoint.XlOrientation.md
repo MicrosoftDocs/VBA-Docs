@@ -1,14 +1,15 @@
 ---
-title: xlOrientation Enumeration (PowerPoint)
+title: XlOrientation enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlOrientation
 ms.assetid: df963ba0-dc15-689a-4922-8b0b0ec6f147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlOrientation Enumeration (PowerPoint)
+# XlOrientation enumeration (PowerPoint)
 
 Specifies the text orientation.
 
@@ -21,3 +22,4 @@ Specifies the text orientation.
 |**xlUpward**|-4171|Text runs upward.|
 |**xlVertical**|-4166|Text runs downward and is centered in the cell.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTable.PostText
 ms.assetid: f89c21bb-2b51-49b2-b986-8c3aca2038c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.PostText property (Excel)
 
-Returns or sets the string used with the post method of inputting data into a Web server to return data from a Web query. Read/write  **String** .
+Returns or sets the string used with the post method of inputting data into a Web server to return data from a Web query. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PostText`
+_expression_. `PostText`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Microsoft Excel includes sample Web queries that you can modify by changing the 
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **PostText** property applies only to **QueryTable** objects.
 
@@ -39,3 +40,4 @@ The  **PostText** property applies only to **QueryTable** objects.
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

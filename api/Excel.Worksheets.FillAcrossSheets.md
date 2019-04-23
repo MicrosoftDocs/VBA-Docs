@@ -1,5 +1,5 @@
 ---
-title: Worksheets.FillAcrossSheets Method (Excel)
+title: Worksheets.FillAcrossSheets method (Excel)
 keywords: vbaxl10.chm470077
 f1_keywords:
 - vbaxl10.chm470077
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheets.FillAcrossSheets
 ms.assetid: c006cee2-67a1-2f24-3061-a2eb32ee9ecf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheets.FillAcrossSheets Method (Excel)
+# Worksheets.FillAcrossSheets method (Excel)
 
 Copies a range to the same area on all other worksheets in a collection.
 
 
 ## Syntax
 
- _expression_. `FillAcrossSheets`( `_Range_` , `_Type_` )
+_expression_. `FillAcrossSheets`( `_Range_` , `_Type_` )
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ Sheets(x).FillAcrossSheets _
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

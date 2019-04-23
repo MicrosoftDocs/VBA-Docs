@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.EchoAsterisks Property (Publisher)
+title: WebTextBox.EchoAsterisks property (Publisher)
 keywords: vbapb10.chm4194308
 f1_keywords:
 - vbapb10.chm4194308
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebTextBox.EchoAsterisks
 ms.assetid: eefab42f-9fe7-e77e-50cd-c4b1b35548f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox.EchoAsterisks Property (Publisher)
+# WebTextBox.EchoAsterisks property (Publisher)
 
 Specifies whether asterisks should be displayed in place of text that is entered into a Web text box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **EchoAsterisks**
+_expression_.**EchoAsterisks**
 
  _expression_ A variable that represents an  **WebTextBox** object.
 
@@ -34,7 +35,7 @@ The  **EchoAsterisks** property value can be one of the **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Displays the text entered into a Web text box control.|
 | **msoTrue**| Displays asterisks in place of text entered into a Web text box control.|
@@ -59,4 +60,4 @@ Sub AddPasswordTextBox()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Explorer.HTMLDocument Property (Outlook)
+title: Explorer.HTMLDocument property (Outlook)
 keywords: vbaol11.chm2778
 f1_keywords:
 - vbaol11.chm2778
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Explorer.HTMLDocument
 ms.assetid: dd9ff575-37f5-1b64-5ebf-f17998586d28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.HTMLDocument Property (Outlook)
+# Explorer.HTMLDocument property (Outlook)
 
 Returns an  **HTMLDocument** object that specifies the HTML object model associated with the HTML document in the current view (assuming one exists). Read-only.
 
 
 ## Syntax
 
- _expression_. `HTMLDocument`
+_expression_. `HTMLDocument`
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks
 
-In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object to a Web page.
+In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object to a web page.
 
 
 ## Example
@@ -81,3 +82,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TasksModule.Position Property (Outlook)
+title: TasksModule.Position property (Outlook)
 keywords: vbaol11.chm2848
 f1_keywords:
 - vbaol11.chm2848
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TasksModule.Position
 ms.assetid: a4166776-dc7a-07d3-b9a2-b187c7a3d821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TasksModule.Position Property (Outlook)
+# TasksModule.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[TasksModule](Outlook.TasksModule.md)** object when it is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[TasksModule](Outlook.TasksModule.md)** object when it is displayed in the navigation pane. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [TasksModule](./Outlook.TasksModule.md) object.
+_expression_ A variable that represents a [TasksModule](Outlook.TasksModule.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ Changing the value of this property for a given  **TasksModule** object changes 
 
 [TasksModule Object](Outlook.TasksModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

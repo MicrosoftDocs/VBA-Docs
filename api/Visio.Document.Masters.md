@@ -1,5 +1,5 @@
 ---
-title: Document.Masters Property (Visio)
+title: Document.Masters property (Visio)
 keywords: vis_sdr.chm10513875
 f1_keywords:
 - vis_sdr.chm10513875
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Masters
 ms.assetid: b139014c-6d7c-ba76-8366-bcacecc5c639
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Masters Property (Visio)
+# Document.Masters property (Visio)
 
 Returns the  **Masters** collection for a document's stencil. Read-only.
 
 
 ## Syntax
 
- _expression_. `Masters`
+_expression_. `Masters`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -88,4 +89,4 @@ Public Sub Masters_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

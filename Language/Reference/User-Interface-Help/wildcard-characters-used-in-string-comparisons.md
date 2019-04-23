@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 351a346d-95ee-1801-1e59-fb17befdb65f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,6 +37,5 @@ Other important rules for pattern matching include the following:
 - When a range of characters is specified, they must appear in ascending sort order (A-Z or 0-100). [A-Z] is a valid pattern, but [Z-A] isn't.
     
 - The character sequence [ ] is ignored; it's considered to be a zero-length string ("").
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

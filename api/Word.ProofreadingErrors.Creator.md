@@ -1,5 +1,5 @@
 ---
-title: ProofreadingErrors.Creator Property (Word)
+title: ProofreadingErrors.Creator property (Word)
 keywords: vbawd10.chm163251177
 f1_keywords:
 - vbawd10.chm163251177
@@ -8,19 +8,20 @@ api_name:
 - Word.ProofreadingErrors.Creator
 ms.assetid: 230d4232-3171-0029-52ed-c8724e666fa8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProofreadingErrors.Creator Property (Word)
+# ProofreadingErrors.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ProofreadingErrors](Word.proofreadingerrors.md)' collection.
+_expression_ Required. A variable that represents a '[ProofreadingErrors](Word.proofreadingerrors.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

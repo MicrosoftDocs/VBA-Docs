@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.MarkForDownload Property (Outlook)
+title: TaskRequestDeclineItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1862
 f1_keywords:
 - vbaol11.chm1862
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestDeclineItem.MarkForDownload
 ms.assetid: ff80763a-74be-b6ac-9084-70466ee3f981
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.MarkForDownload Property (Outlook)
+# TaskRequestDeclineItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 
 
 ## Syntax
 
- _expression_. `MarkForDownload`
+_expression_. `MarkForDownload`
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

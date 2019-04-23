@@ -1,5 +1,5 @@
 ---
-title: PropertyPages Object (Outlook)
+title: PropertyPages object (Outlook)
 keywords: vbaol11.chm160
 f1_keywords:
 - vbaol11.chm160
@@ -8,10 +8,11 @@ api_name:
 - Outlook.PropertyPages
 ms.assetid: 9850ae7b-f167-d3b2-2e9b-f1df1e4922ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyPages Object (Outlook)
+# PropertyPages object (Outlook)
 
 Contains the custom property pages that have been added to the Microsoft Outlook **Options** dialog box or to the folder **Properties** dialog box.
 
@@ -28,7 +29,7 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.PropertyPages.Add.md)|
 |[Item](Outlook.PropertyPages.Item.md)|
@@ -38,7 +39,7 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.PropertyPages.Application.md)|
 |[Class](Outlook.PropertyPages.Class.md)|
@@ -49,4 +50,6 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

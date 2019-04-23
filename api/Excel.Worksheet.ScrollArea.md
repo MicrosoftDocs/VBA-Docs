@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ScrollArea
 ms.assetid: 7421676d-3a98-3826-31f9-80e7c8946777
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.ScrollArea property (Excel)
 
-Returns or sets the range where scrolling is allowed, as an A1-style range reference. Cells outside the scroll area cannot be selected. Read/write  **String** .
+Returns or sets the range where scrolling is allowed, as an A1-style range reference. Cells outside the scroll area cannot be selected. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ScrollArea`
+_expression_. `ScrollArea`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets(1).ScrollArea = "a1:f10"
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

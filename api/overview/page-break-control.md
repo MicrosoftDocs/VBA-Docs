@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 351b9de2-e2ff-c85f-193b-d5d8b3870d64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,7 +32,8 @@ Position page breaks above or below other controls. Placing a page break on the 
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Series Object (PowerPoint)
+title: Series object (PowerPoint)
 keywords: vbapp10.chm716000
 f1_keywords:
 - vbapp10.chm716000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Series
 ms.assetid: 5c8c2d92-d8ca-4d21-e213-c374292275d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series Object (PowerPoint)
+# Series object (PowerPoint)
 
 Represents a series in a chart.
 
@@ -28,7 +29,7 @@ Represents a series in a chart.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[SeriesCollection](./PowerPoint.Chart.SeriesCollection.md)** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series of the first chart in the active document.
+Use  **[SeriesCollection](./PowerPoint.Chart.SeriesCollection.md)** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series of the first chart in the active document.
 
 The series index number indicates the order in which the series were added to the chart.  `SeriesCollection(1)` is the first series added to the chart, and `SeriesCollection(SeriesCollection.Count)` is the last one added.
 
@@ -52,7 +53,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyDataLabels](./PowerPoint.Series.ApplyDataLabels.md)|
 |[ClearFormats](./PowerPoint.Series.ClearFormats.md)|
@@ -69,7 +70,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Series.Application.md)|
 |[ApplyPictToEnd](./PowerPoint.Series.ApplyPictToEnd.md)|
@@ -120,4 +121,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

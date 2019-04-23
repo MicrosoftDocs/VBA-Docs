@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.MaxPoint
 ms.assetid: d4b149f8-c245-40fa-bb89-a32d07354679
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[ConditionValue](Excel.ConditionValue.md)** object that specifies h
 
 ## Syntax
 
- _expression_. `MaxPoint`
+_expression_. `MaxPoint`
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can specify the type and value of the evaluation by using the  **[Type](Exce
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

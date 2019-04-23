@@ -1,5 +1,5 @@
 ---
-title: Event.ObjectType Property (Visio)
+title: Event.ObjectType property (Visio)
 keywords: vis_sdr.chm12613960
 f1_keywords:
 - vis_sdr.chm12613960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.ObjectType
 ms.assetid: f391f85f-8ef1-a7d5-22aa-d60bae7eb18b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.ObjectType Property (Visio)
+# Event.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

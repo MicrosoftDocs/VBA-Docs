@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Index Property (Word)
+title: ContentControlListEntry.Index property (Word)
 keywords: vbawd10.chm147456105
 f1_keywords:
 - vbawd10.chm147456105
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControlListEntry.Index
 ms.assetid: 3c7b139b-cd50-3df8-0347-d002774c2239
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControlListEntry.Index Property (Word)
+# ContentControlListEntry.Index property (Word)
 
 Returns or sets a  **Long** that represents the ordinal position of a content control list item in the collection of list items. Read/write.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
  _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
@@ -33,3 +34,4 @@ You can set the  **Index** property to any numeric value to change the ordinal p
 
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

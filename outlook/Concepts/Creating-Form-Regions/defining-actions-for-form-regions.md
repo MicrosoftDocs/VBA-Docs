@@ -3,6 +3,7 @@ title: Defining Actions for Form Regions
 ms.prod: outlook
 ms.assetid: 07789a5f-26d1-4cdd-9a0b-96b523f42e22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,5 +23,5 @@ ms.date: 06/08/2017
 -  [Specify the Way Outlook Responds When Executing an Action](specify-the-way-outlook-responds-when-executing-an-action.md)
     
 -  [Specify a Subject Prefix of an Item Resulting from an Action](specify-a-subject-prefix-of-an-item-resulting-from-an-action.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

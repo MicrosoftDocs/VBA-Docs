@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 03e05158-296a-41ef-903a-ca1cfc629004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SetFocus Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/408bf4f7-5b76-e9dc-de60-c076470f88f4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Project.DisplayProjectSummaryTask Property (Project)
+title: Project.DisplayProjectSummaryTask property (Project)
 keywords: vbapj.chm131748
 f1_keywords:
 - vbapj.chm131748
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.DisplayProjectSummaryTask
 ms.assetid: 4b04ec4a-a050-8038-c549-bc8942fbadd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.DisplayProjectSummaryTask Property (Project)
+# Project.DisplayProjectSummaryTask property (Project)
 
  **True** if the summary task for a project is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayProjectSummaryTask`
+_expression_. `DisplayProjectSummaryTask`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -37,4 +38,4 @@ Sub NewProject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

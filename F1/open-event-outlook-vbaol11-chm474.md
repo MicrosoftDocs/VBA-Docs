@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: eb8a2b06-eca7-4495-8d0f-9999c25c0398
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [AppointmentItem.Open Event (Outlook)](http://msdn.microsoft.com/library/08a0d07b-6fd0-690e-6745-f5ad92bb3ff1%28Office.15%29.aspx)
 [DocumentItem.Open Event (Outlook)](http://msdn.microsoft.com/library/e7d95148-9fa2-3f0f-cbfc-f835c9017c3b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

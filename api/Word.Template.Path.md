@@ -1,5 +1,5 @@
 ---
-title: Template.Path Property (Word)
+title: Template.Path property (Word)
 keywords: vbawd10.chm157941761
 f1_keywords:
 - vbawd10.chm157941761
@@ -8,19 +8,20 @@ api_name:
 - Word.Template.Path
 ms.assetid: 9b84e053-b806-d43d-2c3c-b8ce56cf7d15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template.Path Property (Word)
+# Template.Path property (Word)
 
-Returns the path to the specified document template. Read-only  **String** .
+Returns the path to the specified document template. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The path doesn't include a trailing character — for example, "C:\MSOffice" or 
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

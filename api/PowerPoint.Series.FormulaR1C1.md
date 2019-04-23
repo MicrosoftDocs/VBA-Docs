@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaR1C1 Property (PowerPoint)
+title: Series.FormulaR1C1 property (PowerPoint)
 keywords: vbapp10.chm65800
 f1_keywords:
 - vbapp10.chm65800
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.FormulaR1C1
 ms.assetid: 26b5e5e1-bcc2-a9f6-1767-dec6959901a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.FormulaR1C1 Property (PowerPoint)
+# Series.FormulaR1C1 property (PowerPoint)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaR1C1`
+_expression_.**FormulaR1C1**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

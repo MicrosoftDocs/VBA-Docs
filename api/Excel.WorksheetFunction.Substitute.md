@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Substitute Method (Excel)
+title: WorksheetFunction.Substitute method (Excel)
 keywords: vbaxl10.chm137128
 f1_keywords:
 - vbaxl10.chm137128
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Substitute
 ms.assetid: 1e02eb86-6902-0073-33ea-8d9f08b4eb14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Substitute Method (Excel)
+# WorksheetFunction.Substitute method (Excel)
 
 Substitutes new_text for old_text in a text string. Use SUBSTITUTE when you want to replace specific text in a text string; use REPLACE when you want to replace any text that occurs in a specific location in a text string.
 
 
 ## Syntax
 
- _expression_. `Substitute`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Substitute`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

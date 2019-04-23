@@ -1,5 +1,5 @@
 ---
-title: Pane.SmallScroll Method (Excel)
+title: Pane.SmallScroll method (Excel)
 keywords: vbaxl10.chm360078
 f1_keywords:
 - vbaxl10.chm360078
@@ -8,19 +8,20 @@ api_name:
 - Excel.Pane.SmallScroll
 ms.assetid: d41345f6-1b46-0772-afba-81d377acc90f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.SmallScroll Method (Excel)
+# Pane.SmallScroll method (Excel)
 
 Scrolls the contents of the window by rows or columns.
 
 
 ## Syntax
 
- _expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Any of these arguments can be a negative number.
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

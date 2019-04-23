@@ -1,21 +1,22 @@
 ---
-title: ShadowFormat.Application Property (PowerPoint)
+title: ShadowFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Application
 ms.assetid: 87e6066a-e7b5-8f4c-3ab9-f1d474097d15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Application Property (PowerPoint)
+# ShadowFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Range.FormFields Property (Word)
+title: Range.FormFields property (Word)
 keywords: vbawd10.chm157155393
 f1_keywords:
 - vbawd10.chm157155393
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.FormFields
 ms.assetid: 9777dc22-1fe5-c442-a4bf-e3dae4549168
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.FormFields Property (Word)
+# Range.FormFields property (Word)
 
 Returns a  **[FormFields](Word.formfields.md)** collection that represents all the form fields in the range. Read-only.
 
 
 ## Syntax
 
- _expression_. `FormFields`
+_expression_. `FormFields`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -51,3 +52,4 @@ End Select
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

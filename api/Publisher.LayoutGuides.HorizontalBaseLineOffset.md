@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
+title: LayoutGuides.HorizontalBaseLineOffset property (Publisher)
 keywords: vbapb10.chm1114131
 f1_keywords:
 - vbapb10.chm1114131
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.HorizontalBaseLineOffset
 ms.assetid: b80d2114-8132-db13-a50d-ce904dbe5919
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
+# LayoutGuides.HorizontalBaseLineOffset property (Publisher)
 
 Returns a  **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/Write.
 
 
 ## Syntax
 
- _expression_. **HorizontalBaseLineOffset**
+_expression_.**HorizontalBaseLineOffset**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -45,4 +46,4 @@ objLayout.HorizontalBaseLineSpacing = 12
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

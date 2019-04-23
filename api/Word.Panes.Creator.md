@@ -1,5 +1,5 @@
 ---
-title: Panes.Creator Property (Word)
+title: Panes.Creator property (Word)
 keywords: vbawd10.chm157221865
 f1_keywords:
 - vbawd10.chm157221865
@@ -8,19 +8,20 @@ api_name:
 - Word.Panes.Creator
 ms.assetid: f216dd76-c210-7bd3-af2e-041a602e6458
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Panes.Creator Property (Word)
+# Panes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
+_expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Panes Collection Object](Word.panes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

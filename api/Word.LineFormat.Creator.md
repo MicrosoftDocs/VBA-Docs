@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Creator Property (Word)
+title: LineFormat.Creator property (Word)
 keywords: vbawd10.chm164234217
 f1_keywords:
 - vbawd10.chm164234217
@@ -8,19 +8,20 @@ api_name:
 - Word.LineFormat.Creator
 ms.assetid: 6602d5e5-6747-020d-cbbc-45caae348910
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Creator Property (Word)
+# LineFormat.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.TypelibMajorVersion Property (Visio)
+title: InvisibleApp.TypelibMajorVersion property (Visio)
 keywords: vis_sdr.chm17514695
 f1_keywords:
 - vis_sdr.chm17514695
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.TypelibMajorVersion
 ms.assetid: 22dd9c3f-3c52-29c3-7d99-2230ac3ce90f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.TypelibMajorVersion Property (Visio)
+# InvisibleApp.TypelibMajorVersion property (Visio)
 
 Returns the major version number of the Microsoft Visio type library. Read-only.
 
 
 ## Syntax
 
- _expression_. `TypelibMajorVersion`
+_expression_. `TypelibMajorVersion`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -34,4 +35,4 @@ The major and/or minor version number of the Visio type library will increase wh
 
 Small changes to the Visio type library do not affect the  **Application** object's **Version** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

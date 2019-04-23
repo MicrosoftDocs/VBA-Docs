@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Separator Property (Word)
+title: TableOfAuthorities.Separator property (Word)
 keywords: vbawd10.chm152109061
 f1_keywords:
 - vbawd10.chm152109061
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfAuthorities.Separator
 ms.assetid: 4da467e9-77df-c656-ed37-f3388ba92b7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.Separator Property (Word)
+# TableOfAuthorities.Separator property (Word)
 
-Returns or sets up to five characters that appear between the sequence number and the page number in a table of authorities. Read/write  **String** .
+Returns or sets up to five characters that appear between the sequence number and the page number in a table of authorities. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Separator`
+_expression_. `Separator`
 
- _expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

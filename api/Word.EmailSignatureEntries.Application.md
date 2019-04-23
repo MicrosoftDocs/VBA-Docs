@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntries.Application Property (Word)
+title: EmailSignatureEntries.Application property (Word)
 keywords: vbawd10.chm166003688
 f1_keywords:
 - vbawd10.chm166003688
@@ -8,19 +8,20 @@ api_name:
 - Word.EmailSignatureEntries.Application
 ms.assetid: 76608d4b-770f-cb94-d80b-723df51431cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailSignatureEntries.Application Property (Word)
+# EmailSignatureEntries.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
+_expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

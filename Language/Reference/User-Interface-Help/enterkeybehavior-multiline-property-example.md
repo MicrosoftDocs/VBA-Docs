@@ -1,30 +1,24 @@
 ---
-title: EnterKeyBehavior, MultiLine Property Example
+title: EnterKeyBehavior, MultiLine properties example
 keywords: fm20.chm5225144
 f1_keywords:
 - fm20.chm5225144
 ms.prod: office
 ms.assetid: 06f7eb5f-cb91-6231-ccf5-1dcdf57fb3c1
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# EnterKeyBehavior, MultiLine Property Example
+# EnterKeyBehavior, MultiLine properties example
 
-The following example uses the  **EnterKeyBehavior** property to control the effect of ENTER in a **TextBox**. In this example, the user can specify either a single-line or multiline **TextBox**.
+The following example uses the **[EnterKeyBehavior](enterkeybehavior-property.md)** property to control the effect of Enter in a **[TextBox](textbox-control.md)**. In this example, the user can specify either a single-line or multiline **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.    
+- Two **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 and ToggleButton2.
     
-- Two  **ToggleButton** controls named ToggleButton1 and ToggleButton2.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -68,4 +62,4 @@ Private Sub ToggleButton2_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

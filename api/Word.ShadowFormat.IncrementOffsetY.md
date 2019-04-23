@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetY Method (Word)
+title: ShadowFormat.IncrementOffsetY method (Word)
 keywords: vbawd10.chm164364299
 f1_keywords:
 - vbawd10.chm164364299
@@ -8,19 +8,20 @@ api_name:
 - Word.ShadowFormat.IncrementOffsetY
 ms.assetid: e0859dd3-9058-32ec-37d8-d14187b69666
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.IncrementOffsetY Method (Word)
+# ShadowFormat.IncrementOffsetY method (Word)
 
 Changes the vertical offset of the shadow by the specified number of points.
 
 
 ## Syntax
 
- _expression_. `IncrementOffsetY`( `_Increment_` )
+_expression_. `IncrementOffsetY`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
+_expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ ActiveDocument.Shapes(3).Shadow.IncrementOffsetY -3
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

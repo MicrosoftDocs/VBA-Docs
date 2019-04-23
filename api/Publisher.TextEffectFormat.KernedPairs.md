@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.KernedPairs Property (Publisher)
+title: TextEffectFormat.KernedPairs property (Publisher)
 keywords: vbapb10.chm3735813
 f1_keywords:
 - vbapb10.chm3735813
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextEffectFormat.KernedPairs
 ms.assetid: 1382ae7a-250f-ca08-a57f-f7132078e3f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.KernedPairs Property (Publisher)
+# TextEffectFormat.KernedPairs property (Publisher)
 
 Sets or returns an  **MsoTriState** constant that indicates whether character pairs in a WordArt object have been kerned. Read/write.
 
 
 ## Syntax
 
- _expression_. **KernedPairs**
+_expression_.**KernedPairs**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
@@ -34,7 +35,7 @@ The  **KernedPairs** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Character pairs in the specified WordArt object have not been kerned.|
 | **msoTriStateToggle**|Switches between  **msoTrue** and **msoFalse**.|
@@ -59,4 +60,4 @@ Sub KernedWordArt()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

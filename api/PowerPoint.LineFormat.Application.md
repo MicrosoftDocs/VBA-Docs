@@ -1,21 +1,22 @@
 ---
-title: LineFormat.Application Property (PowerPoint)
+title: LineFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Application
 ms.assetid: e1f2c525-54c7-80f3-5f80-bca0a9e0a63c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Application Property (PowerPoint)
+# LineFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [LineFormat Object](PowerPoint.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

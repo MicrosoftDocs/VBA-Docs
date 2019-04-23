@@ -1,14 +1,15 @@
 ---
-title: LegendEntries Object (Word)
+title: LegendEntries object (Word)
 ms.prod: word
 api_name:
 - Word.LegendEntries
 ms.assetid: 3d130934-8a2d-a2f5-b609-3ab34f406dc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendEntries Object (Word)
+# LegendEntries object (Word)
 
 A collection of all the  **[LegendEntry](Word.LegendEntry.md)** objects in the specified chart legend.
 
@@ -47,7 +48,7 @@ End With
 
 ```
 
-Use  **[LegendEntries](Word.Legend.LegendEntries.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **[LegendEntries](Word.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend; `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font style for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document to italic.
 
@@ -67,6 +68,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

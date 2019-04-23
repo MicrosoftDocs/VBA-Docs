@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.MouseMove Event (Outlook)
+title: OlkLabel.MouseMove event (Outlook)
 keywords: vbaol11.chm1000105
 f1_keywords:
 - vbaol11.chm1000105
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkLabel.MouseMove
 ms.assetid: b956ea54-96cb-d5d1-e542-ea9f464117c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkLabel.MouseMove Event (Outlook)
+# OlkLabel.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkLabel Object](Outlook.OlkLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

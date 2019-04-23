@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Floor Method (Excel)
+title: WorksheetFunction.Floor method (Excel)
 keywords: vbaxl10.chm137189
 f1_keywords:
 - vbaxl10.chm137189
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Floor
 ms.assetid: c35733d5-34b9-8475-197f-4f13ae1e6c1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Floor Method (Excel)
+# WorksheetFunction.Floor method (Excel)
 
 Rounds number down, toward zero, to the nearest multiple of significance.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [Floor_Precise](Excel.Works
 
 ## Syntax
 
- _expression_. `Floor`( `_Arg1_` , `_Arg2_` )
+_expression_.**Floor** (_Arg1_, _Arg2_)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

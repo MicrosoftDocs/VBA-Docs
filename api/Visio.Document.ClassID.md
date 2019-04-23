@@ -1,5 +1,5 @@
 ---
-title: Document.ClassID Property (Visio)
+title: Document.ClassID property (Visio)
 keywords: vis_sdr.chm10513240
 f1_keywords:
 - vis_sdr.chm10513240
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.ClassID
 ms.assetid: 668fec9a-eadf-a496-5db3-b91e30237c11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ClassID Property (Visio)
+# Document.ClassID property (Visio)
 
 Returns the class ID string of the container application in which the document is embedded. Read-only.
 
 
 ## Syntax
 
- _expression_. `ClassID`
+_expression_. `ClassID`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -43,4 +44,4 @@ If the class ID of the container application in which the document is embedded c
 
 This string identifies the application that contains the document. It might, for example, identify the document's container as a Microsoft Excel object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

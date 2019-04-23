@@ -1,5 +1,5 @@
 ---
-title: Presentation.AutoSaveOn Property (PowerPoint)
+title: Presentation.AutoSaveOn property (PowerPoint)
 keywords: vbapp10.chm583129
 f1_keywords:
 - vbapp10.chm583129
@@ -7,10 +7,11 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.AutoSaveOn
 ms.date: 07/28/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.AutoSaveOn Property (PowerPoint)
+# Presentation.AutoSaveOn property (PowerPoint)
 
 **True** if the edits in the presentation are automatically saved. Read/write **Boolean**.
 
@@ -47,3 +48,5 @@ End Sub
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 [Presentation Object](PowerPoint.Presentation.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

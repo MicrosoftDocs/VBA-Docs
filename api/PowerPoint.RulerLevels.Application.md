@@ -1,5 +1,5 @@
 ---
-title: RulerLevels.Application Property (PowerPoint)
+title: RulerLevels.Application property (PowerPoint)
 keywords: vbapp10.chm571001
 f1_keywords:
 - vbapp10.chm571001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RulerLevels.Application
 ms.assetid: 0e87f610-98d7-0e3d-b578-0f2819f372d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerLevels.Application Property (PowerPoint)
+# RulerLevels.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [RulerLevels](./PowerPoint.RulerLevels.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [RulerLevels Object](PowerPoint.RulerLevels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.Allocation
 ms.assetid: ac7bd537-97f0-f643-3e34-dd13e49ac149
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is ed
 
 ## Syntax
 
- _expression_. `Allocation`
+_expression_. `Allocation`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is ed
 
 ## Remarks
 
-The  **Allocation** property corresponds to the **Calculate with changes** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlManualAllocation** , which corresponds to the **Manually (when selecting calculate PivotTable with changes)** setting.
+The  **Allocation** property corresponds to the **Calculate with changes** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlManualAllocation**, which corresponds to the **Manually (when selecting calculate PivotTable with changes)** setting.
 
 
 ## See also
@@ -38,3 +39,4 @@ The  **Allocation** property corresponds to the **Calculate with changes** setti
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

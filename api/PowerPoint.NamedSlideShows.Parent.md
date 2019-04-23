@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShows.Parent Property (PowerPoint)
+title: NamedSlideShows.Parent property (PowerPoint)
 keywords: vbapp10.chm515002
 f1_keywords:
 - vbapp10.chm515002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.NamedSlideShows.Parent
 ms.assetid: 934b3013-1d73-adbb-0c8d-ea1e230315c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NamedSlideShows.Parent Property (PowerPoint)
+# NamedSlideShows.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [NamedSlideShows](./PowerPoint.NamedSlideShows.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [NamedSlideShows Object](PowerPoint.NamedSlideShows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportDataCompression Property (Visio)
+title: ApplicationSettings.RasterExportDataCompression property (Visio)
 keywords: vis_sdr.chm16262525
 f1_keywords:
 - vis_sdr.chm16262525
@@ -8,17 +8,18 @@ api_name:
 - Visio.RasterExportDataCompression
 ms.assetid: cec938db-1368-7c05-a264-b69ae334a249
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportDataCompression Property (Visio)
+# ApplicationSettings.RasterExportDataCompression property (Visio)
 
-Determines the data compression algorithm that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP or TIFF file. Read/write.
+Determines the data compression algorithm that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP or TIFF file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportDataCompression`
+_expression_. `RasterExportDataCompression`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
@@ -34,7 +35,7 @@ The value of the  **RasterExportDataCompression** property must be one of the fo
 
 
 
-|**Constant**|**Value**|**Description**|**Applicable File Format**|
+|Constant|Value|Description|**Applicable File Format**|
 |:-----|:-----|:-----|:-----|
 | **visRasterNone**|0|No compression, the default for BMP.|BMP|
 | **visRasterRLE**|1|RLE compression.|BMP|
@@ -48,4 +49,4 @@ For any given session of Microsoft Visio, when the  **RasterExportDataCompressio
 
 The setting of the  **RasterExportDataCompression** property corresponds to the **Data compression** setting in the **BMP Output Options** or **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)** or **Tag Image File Format (*.tif)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtQuickStyles Property (Word)
+title: Application.SmartArtQuickStyles property (Word)
 keywords: vbawd10.chm158335458
 f1_keywords:
 - vbawd10.chm158335458
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.SmartArtQuickStyles
 ms.assetid: 47cca923-fc88-6973-926c-2fa69c2f0f10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SmartArtQuickStyles Property (Word)
+# Application.SmartArtQuickStyles property (Word)
 
-Returns a [SmartArtQuickStyles](./Office.SmartArtQuickStyles.md) object that represents the set of SmartArt styles that are currently loaded in the application. Read-only.
+Returns a [SmartArtQuickStyles](Office.SmartArtQuickStyles.md) object that represents the set of SmartArt styles that are currently loaded in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArtQuickStyles`
+_expression_. `SmartArtQuickStyles`
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
@@ -49,3 +50,4 @@ mySmartArt.QuickStyle = Application.SmartArtQuickStyles.Item(6)
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

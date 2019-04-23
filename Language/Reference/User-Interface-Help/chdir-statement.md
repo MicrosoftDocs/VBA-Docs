@@ -1,15 +1,16 @@
 ---
-title: ChDir Statement
+title: ChDir statement (VBA)
 keywords: vblr6.chm1008864
 f1_keywords:
 - vblr6.chm1008864
 ms.prod: office
 ms.assetid: a2ad61c8-5b69-8096-3176-52e7670f58ab
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
-# ChDir Statement
+# ChDir statement
 
 Changes the current directory or folder.
 
@@ -18,12 +19,12 @@ Changes the current directory or folder.
 
 **ChDir** _path_
 
-The required  _path_ [argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that identifies which directory or folder becomes the new default directory or folder. The _path_ may include the drive. If no drive is specified, **ChDir** changes the default directory or folder on the current drive.
+The required _path_ [argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that identifies which directory or folder becomes the new default directory or folder. The _path_ may include the drive. If no drive is specified, **ChDir** changes the default directory or folder on the current drive.
 
 
 ## Remarks
 
-The  **ChDir** statement changes the default directory or folder but does not change the default drive. A different statement, **[ChDrive](chdrive-statement.md)**, changes the default drive. 
+The **ChDir** statement changes the default directory or folder but does not change the default drive. A different statement, **[ChDrive](chdrive-statement.md)**, changes the default drive. 
 
 
 ```vb
@@ -34,7 +35,7 @@ ChDrive "D"    ' Make "D" the current drive.
 ```
 
 
-On the Power Macintosh, the default drive always changes to the drive specified in  _path_. Full path specifications begin with the volume name, and relative paths begin with a colon (**:**). **ChDir** resolves any aliases specified in the path:
+On the Power Macintosh, the default drive always changes to the drive specified in _path_. Full path specifications begin with the volume name, and relative paths begin with a colon (**:**). **ChDir** resolves any aliases specified in the path:
 
 
 ```vb
@@ -57,7 +58,7 @@ On the Macintosh, the default drive name is "HD" and portions of the pathname ar
 
 ## Example
 
-This example uses the  **ChDir** statement to change the current directory or folder. If the default drive is C, then default drive remains C, even though the default folder changes to a folder on drive D:
+This example uses the **ChDir** statement to change the current directory or folder. If the default drive is C, default drive remains C, even though the default folder changes to a folder on drive D:
 
 ```vb
 ' Assume "C:" is the current drive. The following statement changes 
@@ -69,15 +70,10 @@ ChDir "D:\WINDOWS\SYSTEM"
 
 ## See also
 
+- [CurDir function](curdir-function.md)
+- [MkDir statement](mkdir-statement.md)
+- [RmDir statement](rmdir-statement.md)
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
 
-#### Reference
-
-
-[ChDrive](chdrive-statement.md)
-
-[CurDir](curdir-function.md)
-
-[MkDir](mkdir-statement.md)
-
-[RmDir](rmdir-statement.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

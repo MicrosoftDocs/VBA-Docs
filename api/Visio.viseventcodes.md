@@ -1,21 +1,22 @@
 ---
-title: VisEventCodes Enumeration (Visio)
+title: VisEventCodes enumeration (Visio)
 keywords: vis_sdr.chm70125
 f1_keywords:
 - vis_sdr.chm70125
 ms.prod: visio
 ms.assetid: e6f205ab-803a-4d91-fa8a-0952bb9753cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisEventCodes Enumeration (Visio)
+# VisEventCodes enumeration (Visio)
 
 Codes for Microsoft Visio events, event actions, and event IDs.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visActCodeAdvise**|2| **AddAdvise** action code|
 | **visActCodeRunAddon**|1| **RunAddon** action code|
@@ -27,7 +28,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 | **visEvtBeforeModal**|32| **BeforeModal** event|
 | **visEvtBeforeQuit**|16| **BeforeQuit** event|
 | **visEvtCell**|2048| **Cell** object|
-| **visEvtCodeAfter CoauthMerge**|14| **AfterCoautjMerge** event code|
+| **visEvtCodeAfterCoauthMerge**|14| **AfterCoauthMerge** event code|
 | **visEvtCodeAfterForcedFlush**|201| **AfterForcedFlush** event code|
 | **visEvtCodeAfterResume**|209| **AfterResume** event code|
 | **visEvtCodeAfterResumeEvents**|213| **AfterResumeEvents** event code|
@@ -125,3 +126,4 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 | **visEvtWindow**|1| **Window** object|
 | **visScopeIDInval**|-1|An ID no event scope can have.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

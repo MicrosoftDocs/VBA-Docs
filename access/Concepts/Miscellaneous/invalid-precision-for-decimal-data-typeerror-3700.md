@@ -3,6 +3,7 @@ title: Invalid precision for decimal data type. (Error 3700)
 ms.prod: access
 ms.assetid: 74d04222-2ed3-1552-4b56-f205633efd7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The precision and scale for a DECIMAL data type must be between 0 and 28. For ex
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

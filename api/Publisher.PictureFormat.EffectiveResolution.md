@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.EffectiveResolution Property (Publisher)
+title: PictureFormat.EffectiveResolution property (Publisher)
 keywords: vbapb10.chm3604755
 f1_keywords:
 - vbapb10.chm3604755
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.EffectiveResolution
 ms.assetid: 33e5323f-5e10-b2ed-62eb-03ecbbb1e893
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.EffectiveResolution Property (Publisher)
+# PictureFormat.EffectiveResolution property (Publisher)
 
 Returns a  **Long** that represents, in dots per inch (dpi), the effective resolution of the picture. Read-only.
 
 
 ## Syntax
 
- _expression_. **EffectiveResolution**
+_expression_.**EffectiveResolution**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -68,4 +69,4 @@ Sub ListLowResolutionPictures()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox Object (Outlook)
+title: OlkTextBox object (Outlook)
 keywords: vbaol11.chm1000084
 f1_keywords:
 - vbaol11.chm1000084
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkTextBox
 ms.assetid: 8c9438bf-e20a-2f70-90ac-097cf09594ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox Object (Outlook)
+# OlkTextBox object (Outlook)
 
 A control that supports a single or multiple-line data entry.
 
@@ -34,7 +35,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkTextBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkTextBox.BeforeUpdate.md)|
@@ -54,7 +55,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Outlook.OlkTextBox.Clear.md)|
 |[Copy](Outlook.OlkTextBox.Copy.md)|
@@ -65,7 +66,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkTextBox.AutoSize.md)|
 |[AutoTab](Outlook.OlkTextBox.AutoTab.md)|
@@ -100,4 +101,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

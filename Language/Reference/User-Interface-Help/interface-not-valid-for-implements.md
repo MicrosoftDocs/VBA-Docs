@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 944e5139-44df-b07f-d594-c1d869a4c125
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Not all interfaces can be implemented in Visual Basic. This error has the follow
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.ReviewerCount
 ms.assetid: 5ab6cae5-ea59-bb72-1fb2-04aebc5ae5cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the count of reviewers in the current document open in Microsoft Visio View
 
 ## Syntax
 
- _expression_. **ReviewerCount**
+_expression_.**ReviewerCount**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code gets the number of reviewers in the drawing open in Visio Vie
 Debug.Print vsoViewer.ReviewerCount
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

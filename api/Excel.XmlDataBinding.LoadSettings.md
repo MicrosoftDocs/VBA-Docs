@@ -1,5 +1,5 @@
 ---
-title: XmlDataBinding.LoadSettings Method (Excel)
+title: XmlDataBinding.LoadSettings method (Excel)
 keywords: vbaxl10.chm748075
 f1_keywords:
 - vbaxl10.chm748075
@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlDataBinding.LoadSettings
 ms.assetid: 218026ec-829b-048d-2429-6983ecfc26fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XmlDataBinding.LoadSettings Method (Excel)
+# XmlDataBinding.LoadSettings method (Excel)
 
 Initializes the specified data binding with settings from an XML data file or a Data Retrieval Service Connection (.uxdc) file.
 
 
 ## Syntax
 
- _expression_. `LoadSettings`( `_Url_` )
+_expression_. `LoadSettings`( `_Url_` )
 
- _expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBinding.md) object.
+_expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Initializes the specified data binding with settings from an XML data file or a 
 
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

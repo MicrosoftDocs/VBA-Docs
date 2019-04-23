@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.FormulaR1C1
 ms.assetid: 76f41bf6-94e2-2e6a-30e4-012a735a3374
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
 # Range.FormulaR1C1 property (Excel)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **Variant** .
+Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `FormulaR1C1`
+_expression_.**FormulaR1C1**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ Worksheets("Sheet1").Range("B1").FormulaR1C1 = "=SQRT(R1C1)"
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

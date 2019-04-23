@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AlertResponse Property (Visio)
+title: InvisibleApp.AlertResponse property (Visio)
 keywords: vis_sdr.chm17513070
 f1_keywords:
 - vis_sdr.chm17513070
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.AlertResponse
 ms.assetid: eb0fabb1-809e-b952-da99-e18eda0f6970
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.AlertResponse Property (Visio)
+# InvisibleApp.AlertResponse property (Visio)
 
 Determines whether Microsoft Visio shows alerts and modal dialog boxes to the user. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlertResponse`( `_lpi2Ret_` )
+_expression_. `AlertResponse`( `_lpi2Ret_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -48,3 +49,4 @@ The values you supply for the  **AlertResponse** property correspond to the stan
 |IDYES|6|
 |IDNO|7|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

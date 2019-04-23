@@ -1,5 +1,5 @@
 ---
-title: EventList.Count Property (Visio)
+title: EventList.Count property (Visio)
 keywords: vis_sdr.chm12713330
 f1_keywords:
 - vis_sdr.chm12713330
@@ -8,17 +8,18 @@ api_name:
 - Visio.EventList.Count
 ms.assetid: c35bd4d3-7b80-71aa-45a7-91e78a51e6eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EventList.Count Property (Visio)
+# EventList.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

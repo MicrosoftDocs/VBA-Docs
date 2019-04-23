@@ -1,5 +1,5 @@
 ---
-title: Slides.Paste Method (PowerPoint)
+title: Slides.Paste method (PowerPoint)
 keywords: vbapp10.chm530008
 f1_keywords:
 - vbapp10.chm530008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slides.Paste
 ms.assetid: 313027d1-6f8b-9964-f0bd-4ba33c973743
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slides.Paste Method (PowerPoint)
+# Slides.Paste method (PowerPoint)
 
 Pastes the slides on the Clipboard into the  **Slides** collection for the presentation. Specify where you want to insert the slides with the **Index** argument. Returns a **[SlideRange](PowerPoint.SlideRange.md)** object that represents the pasted objects. Each pasted slide becomes a member of the specified **Slides** collection.
 
 
 ## Syntax
 
- _expression_. `Paste`( `_Index_` )
+_expression_.**Paste** (_Index_)
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
@@ -65,3 +66,4 @@ ActivePresentation.Slides.Paste 4
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

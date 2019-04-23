@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.ScopeType
 ms.assetid: 48beed57-26f0-3846-65f0-3d8edd44a8a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlP
 
 ## Syntax
 
- _expression_. `ScopeType`
+_expression_.**ScopeType**
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
 
-The default value is  **xlSelectionScope** , which sets the scope using the **AppliesTo** property.
+The default value is  **xlSelectionScope**, which sets the scope using the **AppliesTo** property.
 
 
 ## See also
@@ -33,3 +34,4 @@ The default value is  **xlSelectionScope** , which sets the scope using the **Ap
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

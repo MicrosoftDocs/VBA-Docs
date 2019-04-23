@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: cac57d13-5705-c67a-2621-8076346a70a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,3 +38,5 @@ You are trying to append a **Relation** object to a **Relations** collection, bu
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

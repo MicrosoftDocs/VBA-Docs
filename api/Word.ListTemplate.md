@@ -1,5 +1,5 @@
-﻿---
-title: ListTemplate Object (Word)
+---
+title: ListTemplate object (Word)
 keywords: vbawd10.chm2447
 f1_keywords:
 - vbawd10.chm2447
@@ -8,10 +8,11 @@ api_name:
 - Word.ListTemplate
 ms.assetid: d5e339f7-5798-305b-a6b0-6b572d9112f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListTemplate Object (Word)
+# ListTemplate object (Word)
 
 Represents a single list template that includes all the formatting that defines a list. The  **ListTemplate** object is a member of the **ListTemplates** collection.
 
@@ -55,7 +56,7 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Convert](Word.ListTemplate.Convert.md)|
 
@@ -63,7 +64,7 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListTemplate.Application.md)|
 |[Creator](Word.ListTemplate.Creator.md)|
@@ -75,4 +76,6 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

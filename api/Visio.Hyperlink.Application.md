@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Application Property (Visio)
+title: Hyperlink.Application property (Visio)
 keywords: vis_sdr.chm15013090
 f1_keywords:
 - vis_sdr.chm15013090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlink.Application
 ms.assetid: e966d22e-7041-8dde-1bca-7d890d3cc982
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Application Property (Visio)
+# Hyperlink.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

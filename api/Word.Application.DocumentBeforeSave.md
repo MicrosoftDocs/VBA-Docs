@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentBeforeSave Event (Word)
+title: Application.DocumentBeforeSave event (Word)
 keywords: vbawd10.chm400007
 f1_keywords:
 - vbawd10.chm400007
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DocumentBeforeSave
 ms.assetid: cc1c6ec3-0e9e-5147-78a5-3a0c47fd5e90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocumentBeforeSave Event (Word)
+# Application.DocumentBeforeSave event (Word)
 
 Occurs before any open document is saved.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentBeforeSave'(**_ByVal DocAs Document_** , **_SaveAsUIAs Boolean_** , **_CancelAs Boolean_**)
+Private Sub  _expression_ _'DocumentBeforeSave'(**_ByVal DocAs Document_**, **_SaveAsUIAs Boolean_**, **_CancelAs Boolean_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 
@@ -31,7 +32,7 @@ Private Sub  _expression_ _'DocumentBeforeSave'(**_ByVal DocAs Document_** , **_
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document that is being saved.|
 | _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box is displayed, whether to save a new document, in response to the **Save** command; or in response to the **Save As** command; or in response to the **SaveAs** or **SaveAs2** method.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the document is not saved when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document is not saved when the procedure is finished.|
 
 ## Remarks
 
@@ -68,3 +69,5 @@ End Sub
 [Application Object](Word.Application.md)
 
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

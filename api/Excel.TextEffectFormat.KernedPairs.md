@@ -8,19 +8,20 @@ api_name:
 - Excel.TextEffectFormat.KernedPairs
 ms.assetid: 107889be-57eb-7fcf-17a1-6a1393009701
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextEffectFormat.KernedPairs property (Excel)
 
- **True** if character pairs in the specified WordArt are kerned. Read/write **MsoTriState** .
+ **True** if character pairs in the specified WordArt are kerned. Read/write **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `KernedPairs`
+_expression_. `KernedPairs`
 
- _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -38,7 +39,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example turns on character pair kerning for shape three on  `myDocument` if the shape is WordArt.
+This example turns on character pair kerning for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

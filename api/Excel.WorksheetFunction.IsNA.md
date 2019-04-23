@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsNA Method (Excel)
+title: WorksheetFunction.IsNA method (Excel)
 keywords: vbaxl10.chm137075
 f1_keywords:
 - vbaxl10.chm137075
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.IsNA
 ms.assetid: db315cb6-cf6d-eaf6-7ffa-2b8ce18c2a09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IsNA Method (Excel)
+# WorksheetFunction.IsNA method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to the #N/A (value not available) error value.
 
 
 ## Syntax
 
- _expression_. `IsNA`( `_Arg1_` )
+_expression_. `IsNA`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Boolean
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

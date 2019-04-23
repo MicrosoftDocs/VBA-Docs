@@ -1,15 +1,16 @@
 ---
-title: VisAutoLinkBehaviors Enumeration (Visio)
+title: VisAutoLinkBehaviors enumeration (Visio)
 keywords: vis_sdr.chm70535
 f1_keywords:
 - vis_sdr.chm70535
 ms.prod: visio
 ms.assetid: a1aae16f-0855-6f31-3450-f67f2e9cd681
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisAutoLinkBehaviors Enumeration (Visio)
+# VisAutoLinkBehaviors enumeration (Visio)
 
 Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** method.
 
@@ -28,3 +29,4 @@ Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Sele
 | **visAutoLinkReplaceExistingLinks**|8|Replace existing links.|
 | **visAutoLinkSelectedShapesOnly**|1|Link selected shapes only, not sub-shapes of selected shapes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

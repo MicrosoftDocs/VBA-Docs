@@ -1,5 +1,5 @@
 ---
-title: Application.Top Property (PowerPoint)
+title: Application.Top property (PowerPoint)
 keywords: vbapp10.chm502027
 f1_keywords:
 - vbapp10.chm502027
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.Top
 ms.assetid: d8c70fc9-e0f1-ed53-7a22-150838599719
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Top Property (PowerPoint)
+# Application.Top property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance in points from the top edge of the document, application, and slide show window to the top edge of the application window's client area. Read/write.
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -74,3 +75,4 @@ End With
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

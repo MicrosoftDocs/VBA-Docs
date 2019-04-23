@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 59add4f9-d15a-7342-e7fc-4b21420a5e41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ Not all types are supported in Visual Basic. This error has the following cause 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

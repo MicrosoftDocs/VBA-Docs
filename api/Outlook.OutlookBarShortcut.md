@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut Object (Outlook)
+title: OutlookBarShortcut object (Outlook)
 keywords: vbaol11.chm337
 f1_keywords:
 - vbaol11.chm337
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OutlookBarShortcut
 ms.assetid: fae05770-1b06-1ddd-e2db-8428e64bd1e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut Object (Outlook)
+# OutlookBarShortcut object (Outlook)
 
 Represents a shortcut in a group in the  **Shortcuts** pane.
 
@@ -35,7 +36,7 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetIcon](Outlook.OutlookBarShortcut.SetIcon.md)|
 
@@ -43,7 +44,7 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarShortcut.Application.md)|
 |[Class](Outlook.OutlookBarShortcut.Class.md)|
@@ -55,4 +56,6 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

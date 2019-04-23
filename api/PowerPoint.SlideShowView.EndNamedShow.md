@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.EndNamedShow Method (PowerPoint)
+title: SlideShowView.EndNamedShow method (PowerPoint)
 keywords: vbapp10.chm513023
 f1_keywords:
 - vbapp10.chm513023
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.EndNamedShow
 ms.assetid: 1b829558-a729-8aa1-c260-8b7410501153
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.EndNamedShow Method (PowerPoint)
+# SlideShowView.EndNamedShow method (PowerPoint)
 
 Switches from running a custom, or named, slide show to running the entire presentation of which the custom show is a subset. When the slide show advances from the current slide, the next slide displayed will be the next one in the entire presentation, not the next one in the custom slide show.
 
 
 ## Syntax
 
- _expression_. `EndNamedShow`
+_expression_. `EndNamedShow`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -38,3 +39,4 @@ SlideShowWindows(1).View.EndNamedShow
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

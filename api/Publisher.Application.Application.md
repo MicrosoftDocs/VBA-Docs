@@ -1,5 +1,5 @@
 ---
-title: Application.Application Property (Publisher)
+title: Application.Application property (Publisher)
 keywords: vbapb10.chm131076
 f1_keywords:
 - vbapb10.chm131076
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Application
 ms.assetid: f3ed5997-b8ef-4729-4537-ae21424d2007
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Application Property (Publisher)
+# Application.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -56,3 +57,4 @@ Next
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Hyperlinks.Item
 ms.assetid: c3650cd1-1788-549a-e203-4d7bd6f049c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
+_expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ Worksheets(1).Range("E5").Hyperlinks.Item(1).Follow
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerForegroundColor Property (Word)
+title: Point.MarkerForegroundColor property (Word)
 keywords: vbawd10.chm262144075
 f1_keywords:
 - vbawd10.chm262144075
@@ -8,17 +8,18 @@ api_name:
 - Word.Point.MarkerForegroundColor
 ms.assetid: 34b02aba-f7ea-05b6-c2ef-1e8003943e81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.MarkerForegroundColor Property (Word)
+# Point.MarkerForegroundColor property (Word)
 
-Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long** .
+Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerForegroundColor`
+_expression_. `MarkerForegroundColor`
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
@@ -54,3 +55,4 @@ End With
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

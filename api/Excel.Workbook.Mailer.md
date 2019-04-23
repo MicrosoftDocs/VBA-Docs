@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Mailer
 ms.assetid: b020d3f6-7120-d03c-bc42-c297bcfbebf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
- _expression_. `Mailer`
+_expression_. `Mailer`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

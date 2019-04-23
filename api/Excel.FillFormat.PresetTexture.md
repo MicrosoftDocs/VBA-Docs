@@ -8,19 +8,20 @@ api_name:
 - Excel.FillFormat.PresetTexture
 ms.assetid: 3ed8dc1b-f816-ece8-6238-44d5d8f51378
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FillFormat.PresetTexture property (Excel)
 
-Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](Office.MsoPresetTexture.md)** .
+Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](Office.MsoPresetTexture.md)**.
 
 
 ## Syntax
 
- _expression_. `PresetTexture`
+_expression_. `PresetTexture`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

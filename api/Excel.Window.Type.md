@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.Type
 ms.assetid: 3dd7ba52-78c4-abfe-6fe6-0a4c5a26603f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlWindowType](Excel.XlWindowType.md)** value that represen
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[XlWindowType](Excel.XlWindowType.md)** value that represen
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

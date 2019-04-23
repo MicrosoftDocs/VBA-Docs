@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Item Method (Publisher)
+title: InlineShapes.Item method (Publisher)
 keywords: vbapb10.chm5767168
 f1_keywords:
 - vbapb10.chm5767168
@@ -8,17 +8,18 @@ api_name:
 - Publisher.InlineShapes.Item
 ms.assetid: 7cc4bb2a-e7d8-68c1-7d09-9b81a9d6b87a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShapes.Item Method (Publisher)
+# InlineShapes.Item method (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents an inline shape contained in a text range. This method is the default member of the **InlineShapes** collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents an  **InlineShapes** object.
 
@@ -53,4 +54,4 @@ With theShape.TextFrame.Story.TextRange
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

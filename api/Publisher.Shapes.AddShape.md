@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (Publisher)
+title: Shapes.AddShape method (Publisher)
 keywords: vbapb10.chm2162712
 f1_keywords:
 - vbapb10.chm2162712
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddShape
 ms.assetid: 500d8cb3-f066-fdb6-09ac-b03c7822e8bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddShape Method (Publisher)
+# Shapes.AddShape method (Publisher)
 
 Adds a new  **Shape** object representing an AutoShape to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddShape**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddShape**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -60,4 +61,4 @@ Set shpShape = ActiveDocument.Pages(1).Shapes.AddShape _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

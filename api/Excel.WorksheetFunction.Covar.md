@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Covar Method (Excel)
+title: WorksheetFunction.Covar method (Excel)
 keywords: vbaxl10.chm137212
 f1_keywords:
 - vbaxl10.chm137212
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Covar
 ms.assetid: 8e08c1c6-c4c4-9088-bd2e-3ab0edc831e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Covar Method (Excel)
+# WorksheetFunction.Covar method (Excel)
 
 Returns covariance, the average of the products of deviations for each data point pair.
 
@@ -22,9 +23,9 @@ For more information about the new functions, see the [Covariance_P](Excel.Works
 
 ## Syntax
 
- _expression_. `Covar`( `_Arg1_` , `_Arg2_` )
+_expression_. `Covar`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

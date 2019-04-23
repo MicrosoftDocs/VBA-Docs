@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: bdcf764e-771f-9efe-d24f-ce03b047959c
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'ModelFormatPercentageNumber' object.
+_expression_ A variable that represents a 'ModelFormatPercentageNumber' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,4 +42,4 @@ End If
 
 [ModelFormatPercentageNumber Object](Excel.modelformatpercentagenumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

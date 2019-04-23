@@ -1,5 +1,5 @@
 ---
-title: Page.Footer Property (Publisher)
+title: Page.Footer property (Publisher)
 keywords: vbapb10.chm393248
 f1_keywords:
 - vbapb10.chm393248
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Footer
 ms.assetid: 8ab5a59b-c8d5-6217-098c-c53336ee5311
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Footer Property (Publisher)
+# Page.Footer property (Publisher)
 
 Returns a  **HeaderFooter** object representing the footer of the specified **Page** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Footer**
+_expression_.**Footer**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -65,4 +66,4 @@ With ActiveDocument.masterPages(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

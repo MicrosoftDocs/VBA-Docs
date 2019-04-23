@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Add Method (Word)
+title: CaptionLabels.Add method (Word)
 keywords: vbawd10.chm158859364
 f1_keywords:
 - vbawd10.chm158859364
@@ -8,19 +8,20 @@ api_name:
 - Word.CaptionLabels.Add
 ms.assetid: f74af8c0-fa16-8ea2-3012-ac207d187502
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionLabels.Add Method (Word)
+# CaptionLabels.Add method (Word)
 
 Returns a  **CaptionLabel** object that represents a custom caption label.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
+_expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ End Sub
 
 [CaptionLabels Collection Object](Word.captionlabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

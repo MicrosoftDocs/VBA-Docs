@@ -1,20 +1,21 @@
 ---
-title: Application.ZoomReport Method (Project)
+title: Application.ZoomReport method (Project)
 keywords: vbapj.chm2196
 f1_keywords:
 - vbapj.chm2196
 ms.prod: project-server
 ms.assetid: 05a0ec6e-1329-2545-df89-5d87af88a454
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ZoomReport Method (Project)
+# Application.ZoomReport method (Project)
 Zooms (enlarges or shrinks) the active report to the specified percentage of its original size.
 
 ## Syntax
 
- _expression_. `ZoomReport` _(Percent,_ _Entire)_
+_expression_. `ZoomReport` _(Percent,_ _Entire)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,8 +28,8 @@ Zooms (enlarges or shrinks) the active report to the specified percentage of its
 |:-----|:-----|:-----|:-----|
 | _Percent_|Optional|**Variant**|The percent of the original size.|
 | _Entire_|Optional|**Variant**|The  _Entire_ parameter has no effect.|
-| _Percent_|Optional|VARIANT||
-| _Entire_|Optional|VARIANT||
+| _Percent_|Optional|**Variant**||
+| _Entire_|Optional|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value
@@ -62,4 +63,4 @@ Sub ReportZoom()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

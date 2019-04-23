@@ -3,6 +3,7 @@ title: About Connecting to Data in Visio
 ms.prod: visio
 ms.assetid: 2057123f-faeb-f705-5fe7-75d3b76fa1a5
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -158,4 +159,4 @@ Public Sub GetDataRecords(vsoDataRecordset As Visio.DataRecordset)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

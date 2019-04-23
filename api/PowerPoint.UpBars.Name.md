@@ -1,21 +1,22 @@
 ---
-title: UpBars.Name Property (PowerPoint)
+title: UpBars.Name property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Name
 ms.assetid: 756dc379-ce00-7417-9ab0-1ca44a82f5a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UpBars.Name Property (PowerPoint)
+# UpBars.Name property (PowerPoint)
 
 Returns the name of the object. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents an '[UpBars](PowerPoint.UpBars.md)' object.
 
@@ -25,3 +26,4 @@ Returns the name of the object. Read-only  **String**.
 
 [UpBars Object](PowerPoint.UpBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowFormattingCells
 ms.assetid: 6e3d6fd1-a1f5-95c1-0ef2-795eba31b904
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowFormattingCells property (Excel)
 
-Returns  **True** if the formatting of cells is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the formatting of cells is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowFormattingCells`
+_expression_. `AllowFormattingCells`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

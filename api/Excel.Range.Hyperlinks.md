@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Hyperlinks
 ms.assetid: d77f695a-faf2-ce9c-1464-f54b76ee52c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the 
 
 ## Syntax
 
- _expression_. `Hyperlinks`
+_expression_.**Hyperlinks**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the 
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

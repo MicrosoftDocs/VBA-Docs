@@ -1,5 +1,5 @@
 ---
-title: Table.ConvertToText Method (Word)
+title: Table.ConvertToText method (Word)
 keywords: vbawd10.chm156303379
 f1_keywords:
 - vbawd10.chm156303379
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.ConvertToText
 ms.assetid: 750db54e-faca-f1eb-8eb8-3a5c0dbb2c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ConvertToText Method (Word)
+# Table.ConvertToText method (Word)
 
 Converts a table to text and returns a  **Range** object that represents the delimited text.
 
 
 ## Syntax
 
- _expression_. `ConvertToText`( `_Separator_` , `_NestedTables_` )
+_expression_. `ConvertToText`( `_Separator_` , `_NestedTables_` )
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Converts a table to text and returns a  **Range** object that represents the del
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Separator_|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any  **WdTableFieldSeparator** constants.|
-| _NestedTables_|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs** . The default value is **True** .|
+| _NestedTables_|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs**. The default value is **True**.|
 
 ## Remarks
 
@@ -97,3 +98,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

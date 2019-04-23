@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetic.Alignment
 ms.assetid: 728075ec-889a-4d76-c4e0-508dd10c8fe9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Long** value that represents the alignment for the specifie
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
- _expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
+_expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Long** value that represents the alignment for the specifie
 
 [Phonetic Object](Excel.Phonetic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

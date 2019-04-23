@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Gap Property (Word)
+title: CalloutFormat.Gap property (Word)
 keywords: vbawd10.chm163905643
 f1_keywords:
 - vbawd10.chm163905643
@@ -8,17 +8,18 @@ api_name:
 - Word.CalloutFormat.Gap
 ms.assetid: 0541a8a6-7eac-d03b-8438-c6d2918237fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Gap Property (Word)
+# CalloutFormat.Gap property (Word)
 
-Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write  **Single** .
+Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Gap`
+_expression_.**Gap**
 
  _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
@@ -41,3 +42,4 @@ docActive.Shapes(1).Callout.Gap = 3
 
 [CalloutFormat Object](Word.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

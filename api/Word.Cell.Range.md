@@ -1,5 +1,5 @@
 ---
-title: Cell.Range Property (Word)
+title: Cell.Range property (Word)
 keywords: vbawd10.chm156106752
 f1_keywords:
 - vbawd10.chm156106752
@@ -7,26 +7,26 @@ ms.prod: word
 api_name:
 - Word.Cell.Range
 ms.assetid: 579a25ad-91fa-a7c9-7eb8-4307521aeddd
-ms.date: 06/08/2017
+ms.date: 03/26/2019
+localization_priority: Normal
 ---
 
 
-# Cell.Range Property (Word)
+# Cell.Range property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
+Returns a **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
- _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ A variable that represents a **[Cell](Word.Cell.md)** object.
 
 
 ## Example
 
-This example copies thecontents of the first cell in the first row in the first table.
-
+This example copies the contents of the first cell in the first row in the first table.
 
 ```vb
 If ActiveDocument.Tables.Count >= 1 Then _ 
@@ -34,8 +34,6 @@ If ActiveDocument.Tables.Count >= 1 Then _
 ```
 
 
-## See also
 
 
-[Cell Object](Word.Cell.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

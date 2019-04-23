@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 4f45ecee-ac02-d26b-7ae5-eac9a75df83e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ This error occurs if a CASCADE action is defined on a column that already has an
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

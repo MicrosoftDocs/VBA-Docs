@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 25e56ea6-7214-278b-6547-7fb771b6309c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ You don't have the necessary permissions for the specified object. This error ha
 
 
 - You don't currently have the authority to access this object. To change your permission assignments, see your system administrator or the object's creator.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

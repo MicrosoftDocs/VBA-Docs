@@ -3,6 +3,7 @@ title: ADO for Visual C++ syntax index for COM
 ms.prod: access
 ms.assetid: e016746e-07a8-10a1-b8e4-7dbb7f6cdaf2
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -36,3 +37,5 @@ Method and property syntax in Visual C++ is listed for the following elements:
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

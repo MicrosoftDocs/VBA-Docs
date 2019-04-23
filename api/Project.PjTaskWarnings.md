@@ -1,14 +1,15 @@
 ---
-title: PjTaskWarnings Enumeration (Project)
+title: PjTaskWarnings enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskWarnings
 ms.assetid: 02bff43f-4459-3c34-5e8f-c441ffefe954
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTaskWarnings Enumeration (Project)
+# PjTaskWarnings enumeration (Project)
 
 Contains constants that specify warnings for tasks or assignments.
 
@@ -32,3 +33,4 @@ Contains constants that specify warnings for tasks or assignments.
 |**pjTaskWarningTaskFinishingInNonWorkingTime**|8192|The finish date of the task is in non-working time.|
 |**pjTaskWarningTaskStartingInNonWorkingTime**|4096|The start date of the task is in non-working time.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

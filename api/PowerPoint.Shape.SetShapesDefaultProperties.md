@@ -1,5 +1,5 @@
 ---
-title: Shape.SetShapesDefaultProperties Method (PowerPoint)
+title: Shape.SetShapesDefaultProperties method (PowerPoint)
 keywords: vbapp10.chm547012
 f1_keywords:
 - vbapp10.chm547012
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.Shape.SetShapesDefaultProperties
 ms.assetid: 4974cc1b-28af-94da-0821-76ffb698e2c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SetShapesDefaultProperties Method (PowerPoint)
+# Shape.SetShapesDefaultProperties method (PowerPoint)
 
 Applies the formatting for the specified shape to the default shape. Shapes created after this method has been used will have this formatting applied to them by default.
 
 
 ## Syntax
 
- _expression_. `SetShapesDefaultProperties`
+_expression_. `SetShapesDefaultProperties`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Example
 
-This example adds a rectangle to  `myDocument`, formats the rectangle's fill, applies the rectangle's formatting to the default shape, and then adds another smaller rectangle to the document. The second rectangle has the same fill as the first one.
+This example adds a rectangle to  _myDocument_, formats the rectangle's fill, applies the rectangle's formatting to the default shape, and then adds another smaller rectangle to the document. The second rectangle has the same fill as the first one.
 
 
 ```vb
@@ -64,3 +65,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

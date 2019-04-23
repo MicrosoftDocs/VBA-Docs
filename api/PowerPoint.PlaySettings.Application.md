@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.Application Property (PowerPoint)
+title: PlaySettings.Application property (PowerPoint)
 keywords: vbapp10.chm568001
 f1_keywords:
 - vbapp10.chm568001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaySettings.Application
 ms.assetid: 740e7607-d3a0-b9f6-e13d-9ba3319ecceb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaySettings.Application Property (PowerPoint)
+# PlaySettings.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

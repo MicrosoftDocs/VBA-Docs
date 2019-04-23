@@ -8,19 +8,20 @@ api_name:
 - Excel.ListColumns.Creator
 ms.assetid: ef3305a9-c284-c008-d65f-68c7272da801
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListColumns.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
+_expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ListColumns Object](Excel.ListColumns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

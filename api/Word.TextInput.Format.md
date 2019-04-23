@@ -1,5 +1,5 @@
 ---
-title: TextInput.Format Property (Word)
+title: TextInput.Format property (Word)
 keywords: vbawd10.chm153550851
 f1_keywords:
 - vbawd10.chm153550851
@@ -8,19 +8,20 @@ api_name:
 - Word.TextInput.Format
 ms.assetid: 5950cabb-dfd3-0107-6a51-efe8813a297f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextInput.Format Property (Word)
+# TextInput.Format property (Word)
 
-Returns the text formatting for the specified text box. Read-only  **String** .
+Returns the text formatting for the specified text box. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_.**Format**
 
- _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
+_expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End If
 
 [TextInput Object](Word.TextInput.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

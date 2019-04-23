@@ -8,26 +8,27 @@ api_name:
 - Excel.QueryTable.TextFileTextQualifier
 ms.assetid: a8e6e8cd-4625-1538-b3cd-bf46395943f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.TextFileTextQualifier property (Excel)
 
-Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write  **[XlTextQualifier](Excel.XlTextQualifier.md)** .
+Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write  **[XlTextQualifier](Excel.XlTextQualifier.md)**.
 
 
 ## Syntax
 
- _expression_. `TextFileTextQualifier`
+_expression_. `TextFileTextQualifier`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
 
 
 
-| **XlTextQualifier** can be one of these **XlTextQualifier** constants.|
+| **xlTextQualifier** can be one of these **xlTextQualifier** constants.|
 | **xlTextQualifierNone**|
 | **xlTextQualifierDoubleQuote**_default_|
 | **xlTextQualifierSingleQuote**|
@@ -36,7 +37,7 @@ Use this property only when your query table is based on data from a text file (
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFileTextQualifier** property applies only to **QueryTable** objects.
 
@@ -64,3 +65,4 @@ End With
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

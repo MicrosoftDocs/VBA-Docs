@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (Publisher)
+title: TextEffectFormat.ToggleVerticalText method (Publisher)
 keywords: vbapb10.chm3735568
 f1_keywords:
 - vbapb10.chm3735568
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextEffectFormat.ToggleVerticalText
 ms.assetid: 627ddbcc-5951-70c6-4e54-de0e9a4bebec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.ToggleVerticalText Method (Publisher)
+# TextEffectFormat.ToggleVerticalText method (Publisher)
 
 Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
 
 
 ## Syntax
 
- _expression_. **ToggleVerticalText**
+_expression_.**ToggleVerticalText**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
@@ -46,4 +47,4 @@ Set shpTextEffect = ActiveDocument.Pages(1).Shapes.AddTextEffect _
 shpTextEffect.TextEffect.ToggleVerticalText
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

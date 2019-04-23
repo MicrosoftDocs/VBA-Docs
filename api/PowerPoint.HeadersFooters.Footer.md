@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Footer Property (PowerPoint)
+title: HeadersFooters.Footer property (PowerPoint)
 keywords: vbapp10.chm542006
 f1_keywords:
 - vbapp10.chm542006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.HeadersFooters.Footer
 ms.assetid: a684ae25-7174-50e5-095e-0073873628e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeadersFooters.Footer Property (PowerPoint)
+# HeadersFooters.Footer property (PowerPoint)
 
 Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents the footer that appears at the bottom of a slide or in the lower-left corner of a notes page, handout, or outline. Read-only.
 
 
 ## Syntax
 
- _expression_. `Footer`
+_expression_. `Footer`
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

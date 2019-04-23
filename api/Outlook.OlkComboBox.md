@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox Object (Outlook)
+title: OlkComboBox object (Outlook)
 keywords: vbaol11.chm1000249
 f1_keywords:
 - vbaol11.chm1000249
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkComboBox
 ms.assetid: 8d5e2f25-2962-af28-2523-b7b82473ea0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkComboBox Object (Outlook)
+# OlkComboBox object (Outlook)
 
 A control that supports the display of a selection from a drop-down list of all choices.
 
@@ -36,7 +37,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkComboBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkComboBox.BeforeUpdate.md)|
@@ -57,7 +58,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddItem](Outlook.OlkComboBox.AddItem.md)|
 |[Clear](Outlook.OlkComboBox.Clear.md)|
@@ -73,7 +74,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkComboBox.AutoSize.md)|
 |[AutoTab](Outlook.OlkComboBox.AutoTab.md)|
@@ -105,4 +106,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

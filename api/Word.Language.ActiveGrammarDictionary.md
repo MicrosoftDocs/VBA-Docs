@@ -1,5 +1,5 @@
 ---
-title: Language.ActiveGrammarDictionary Property (Word)
+title: Language.ActiveGrammarDictionary property (Word)
 keywords: vbawd10.chm158138381
 f1_keywords:
 - vbawd10.chm158138381
@@ -8,24 +8,25 @@ api_name:
 - Word.Language.ActiveGrammarDictionary
 ms.assetid: 6cded20a-78e3-f01b-9ea8-42134ca5d7c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Language.ActiveGrammarDictionary Property (Word)
+# Language.ActiveGrammarDictionary property (Word)
 
 Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active grammar dictionary for the specified language. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveGrammarDictionary`
+_expression_. `ActiveGrammarDictionary`
 
  _expression_ A variable that represents a '[Language](Word.Language.md)' object.
 
 
 ## Remarks
 
-If there is no grammar dictionary installed for the specified language, this property returns  **Nothing** .
+If there is no grammar dictionary installed for the specified language, this property returns  **Nothing**.
 
 
 ## Example
@@ -48,3 +49,4 @@ MsgBox dicGrammar.Path & Application.PathSeparator & dicGrammar.Name
 
 [Language Object](Word.Language.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

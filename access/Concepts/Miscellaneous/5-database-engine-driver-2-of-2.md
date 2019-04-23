@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 4d72622b-b956-4dd2-64cf-c0b17da0196e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,27 +23,25 @@ When you install the Microsoft Jet version 2.5 Engine database driver, the Setup
 The **Access Connectivity Engine\Engines\Jet 2.x** folder includes initialization settings for the Acer2x.dll driver, used for access to Microsoft Access 2.0 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
 
 
-```
-win32=<path>\ACER2X.DLL 
+    win32=<path>\ACER2X.DLL
 
-PageTimeout=5 
+    PageTimeout=5
 
-LockedPageTimeout=5 
+    LockedPageTimeout=5
 
-CursorTimeout=5 
+    CursorTimeout=5
 
-LockRetry=20 
+    LockRetry=20
 
-CommitLockRetry=20 
+    CommitLockRetry=20
 
-MaxBufferSize=512 
+    MaxBufferSize=512
 
-ReadAheadPages=16 
+    ReadAheadPages=16
 
-IdleFrequency=10 
+    IdleFrequency=10
 
-ForceOsFlush = 0
-```
+    ForceOsFlush = 0
 
 The following entries are used to configure the Microsoft Access database engine.
 
@@ -85,3 +84,4 @@ The **Access Connectivity Engine\ISAM Formats\Jet 2.x** folder contains the foll
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

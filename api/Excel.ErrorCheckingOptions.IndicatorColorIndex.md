@@ -8,26 +8,27 @@ api_name:
 - Excel.ErrorCheckingOptions.IndicatorColorIndex
 ms.assetid: 4818c6b6-8cb9-705a-a441-e35159b4ffa8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ErrorCheckingOptions.IndicatorColorIndex property (Excel)
 
-Returns or sets the color of the indicator for error checking options. Read/write  **[XlColorIndex](Excel.XlColorIndex.md)** .
+Returns or sets the color of the indicator for error checking options. Read/write  **[XlColorIndex](Excel.XlColorIndex.md)**.
 
 
 ## Syntax
 
- _expression_. `IndicatorColorIndex`
+_expression_. `IndicatorColorIndex`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## Remarks
 
 
 
-| **XlColorIndex** can be one of these **XlColorIndex** constants.|
+| **xlColorIndex** can be one of these **xlColorIndex** constants.|
 | **xlColorIndexAutomatic** The default system color.|
 | **xlColorIndexNone** Not used with this property.|
 
@@ -57,3 +58,4 @@ End Sub
 
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

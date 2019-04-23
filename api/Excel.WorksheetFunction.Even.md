@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Even Method (Excel)
+title: WorksheetFunction.Even method (Excel)
 keywords: vbaxl10.chm137183
 f1_keywords:
 - vbaxl10.chm137183
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Even
 ms.assetid: f67f74fd-f3af-69d1-1b42-8295fbdb1ec3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Even Method (Excel)
+# WorksheetFunction.Even method (Excel)
 
 Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.
 
 
 ## Syntax
 
- _expression_. `Even`( `_Arg1_` )
+_expression_. `Even`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

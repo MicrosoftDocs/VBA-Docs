@@ -3,6 +3,7 @@ title: Understanding the Forms Cache
 ms.prod: outlook
 ms.assetid: 0d3baca5-4808-ab86-1ba4-2c676afff5d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,6 +34,6 @@ Since Microsoft Office Outlook 2007, Outlook looks for forms in the following or
 
 Because Outlook caches forms, avoid having more than one form with the same name or publishing the same form to more than one forms library. Forms that are used in a folder-based solution should be published only in the folder. If you are developing a solution based on mail message forms, you can temporarily publish the forms in your Personal Forms Library. After you finalize a form, publish it to the Organizational Forms Library on the Microsoft Exchange Server. Make a backup copy of the form, and then delete it from your Personal Forms Library. If you need to publish a form in more than one location, make sure that you keep all forms libraries up-to-date with the current version of the form.
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

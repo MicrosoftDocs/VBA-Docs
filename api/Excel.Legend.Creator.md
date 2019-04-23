@@ -8,19 +8,20 @@ api_name:
 - Excel.Legend.Creator
 ms.assetid: 44976293-1229-e226-0b59-27563c59f6ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Legend.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Legend Object](Excel.Legend(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

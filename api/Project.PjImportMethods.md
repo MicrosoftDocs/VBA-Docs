@@ -1,14 +1,15 @@
 ---
-title: PjImportMethods Enumeration (Project)
+title: PjImportMethods enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjImportMethods
 ms.assetid: 9e2787b4-48c3-7257-d737-8eae6abca873
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjImportMethods Enumeration (Project)
+# PjImportMethods enumeration (Project)
 
 Contains constants that specify the method to use when importing data.
 
@@ -20,3 +21,4 @@ Contains constants that specify the method to use when importing data.
 |**pjImportMerge**|2|Imported data is merged into the active project.|
 |**pjImportNew**|0|Imported data is placed in a new project.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e8162622-e0e5-32e6-53ec-99b4b2265c5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Type and object information is contained in libraries. This error has the follow
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

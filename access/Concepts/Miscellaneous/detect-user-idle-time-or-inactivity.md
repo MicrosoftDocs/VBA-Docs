@@ -4,6 +4,7 @@ ms.prod: access
 ms.assetid: 40e9c4ef-a81b-074b-0be0-8247b4ea525b
 ROBOTS: INDEX
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -99,3 +100,4 @@ Then, create the following procedure in the form module:
 
 To hide the **DetectIdleTime** form as it opens, set the _WindowMode_ argument of the **[OpenForm](../../../api/Access.DoCmd.OpenForm.md)** method to **acHidden**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

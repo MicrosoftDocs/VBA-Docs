@@ -1,5 +1,5 @@
 ---
-title: Actions.Item Method (Outlook)
+title: Actions.Item method (Outlook)
 keywords: vbaol11.chm150
 f1_keywords:
 - vbaol11.chm150
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Actions.Item
 ms.assetid: e4c10f5e-014f-46d5-e5a9-2a70c9399d5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Actions.Item Method (Outlook)
+# Actions.Item method (Outlook)
 
 Returns an  **[Action](Outlook.Action.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
+_expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ An  **Action** object that represents the specified object.
 
 [Actions Object](Outlook.Actions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

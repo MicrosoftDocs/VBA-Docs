@@ -1,5 +1,5 @@
 ---
-title: Shape.WidthRelative Property (Word)
+title: Shape.WidthRelative property (Word)
 keywords: vbawd10.chm161480906
 f1_keywords:
 - vbawd10.chm161480906
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.WidthRelative
 ms.assetid: db076311-7ecf-3564-9cf4-400663ae400b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.WidthRelative Property (Word)
+# Shape.WidthRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative width of a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `WidthRelative`
+_expression_. `WidthRelative`
 
  _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 
@@ -33,3 +34,4 @@ Use this property with the  **[RelativeVerticalSize](Word.Shape.RelativeVertical
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

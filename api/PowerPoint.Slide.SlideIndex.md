@@ -1,5 +1,5 @@
 ---
-title: Slide.SlideIndex Property (PowerPoint)
+title: Slide.SlideIndex property (PowerPoint)
 keywords: vbapp10.chm531018
 f1_keywords:
 - vbapp10.chm531018
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.SlideIndex
 ms.assetid: 8a046547-9655-7281-a406-1533f41016aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.SlideIndex Property (PowerPoint)
+# Slide.SlideIndex property (PowerPoint)
 
 Returns the index number of the specified slide within the  **Slides** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideIndex`
+_expression_. `SlideIndex`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -48,3 +49,4 @@ MsgBox SlideShowWindows(1).View.Slide.SlideIndex
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

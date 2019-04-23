@@ -1,5 +1,5 @@
 ---
-title: Application.AfterPrint Event (Publisher)
+title: Application.AfterPrint event (Publisher)
 keywords: vbapb10.chm268435492
 f1_keywords:
 - vbapb10.chm268435492
@@ -8,19 +8,20 @@ api_name:
 - Publisher.Application.AfterPrint
 ms.assetid: ddd5a1a4-8130-9e75-039c-e069a37390e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AfterPrint Event (Publisher)
+# Application.AfterPrint event (Publisher)
 
 Fires after all variables and fields print.
 
 
 ## Syntax
 
- _expression_. **AfterPrint**(**_Doc_**)
+_expression_.**AfterPrint**(**_Doc_**)
 
- _expression_An expression that returns an  **Application** object.
+ _expression_ An expression that returns an  **Application** object.
 
 
 ## Parameters
@@ -75,3 +76,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

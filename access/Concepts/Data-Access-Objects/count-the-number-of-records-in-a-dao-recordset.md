@@ -3,6 +3,7 @@ title: Count the number of records in a DAO Recordset
 ms.prod: access
 ms.assetid: ea524046-4d04-b595-1a45-13b399745f44
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -59,3 +60,4 @@ Using the **[Requery](../../../api/overview/Access.md)** method on a **Recordset
 
 A snapshot-type **Recordset** object is static and the value of its **RecordCount** property does not change when you add or delete records in the snapshot's underlying table.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFormula.StandardFormula
 ms.assetid: 795273e3-e9c8-853d-2328-dddce0e6a72e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** specifying formulas with standard English (United 
 
 ## Syntax
 
- _expression_. `StandardFormula`
+_expression_. `StandardFormula`
 
- _expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
+_expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
 
 
 ## Remarks
@@ -36,7 +37,7 @@ This example adds 10 to the Decimals field and displays it as a calculated item 
 
 
 ```vb
-Sub UseStandardFomula() 
+Sub UseStandardFormula() 
  
  Dim pvtTable As PivotTable 
  Set pvtTable = ActiveSheet.PivotTables(1) 
@@ -53,3 +54,4 @@ End Sub
 
 [PivotFormula Object](Excel.PivotFormula.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

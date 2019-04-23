@@ -1,21 +1,22 @@
 ---
-title: Application.Caption Property (Project)
+title: Application.Caption property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Caption
 ms.assetid: e43c55ea-d239-a6e5-42ce-35da5b47aa01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Caption Property (Project)
+# Application.Caption property (Project)
 
 Gets or sets the text in the title bar of the main window. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -57,4 +58,4 @@ Sub ChangeWindowCaption()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

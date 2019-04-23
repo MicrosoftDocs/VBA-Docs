@@ -1,23 +1,24 @@
 ---
-title: TaskRequestDeclineItem.Unload Event (Outlook)
+title: TaskRequestDeclineItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Unload
 ms.assetid: 2c6ac3e9-33d3-761a-be30-1963da1a73e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Unload Event (Outlook)
+# TaskRequestDeclineItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

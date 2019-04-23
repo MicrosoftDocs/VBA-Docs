@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleLastRow Property (Word)
+title: Table.ApplyStyleLastRow property (Word)
 keywords: vbawd10.chm156303563
 f1_keywords:
 - vbawd10.chm156303563
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.ApplyStyleLastRow
 ms.assetid: 007ac0c4-bec8-9c48-99e2-017567415193
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ApplyStyleLastRow Property (Word)
+# Table.ApplyStyleLastRow property (Word)
 
- **True** for Microsoft Word to apply last-row formatting to the last row of the specified table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply last-row formatting to the last row of the specified table. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyStyleLastRow`
+_expression_. `ApplyStyleLastRow`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
@@ -51,3 +52,4 @@ End Sub
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

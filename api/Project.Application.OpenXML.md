@@ -1,21 +1,22 @@
 ---
-title: Application.OpenXML Method (Project)
+title: Application.OpenXML method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.OpenXML
 ms.assetid: dcf3dd0e-78ec-b95c-b890-dca5507acd92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OpenXML Method (Project)
+# Application.OpenXML method (Project)
 
 Opens a project from an XML string.
 
 
 ## Syntax
 
- _expression_. `OpenXML`( ` _XML_` )
+_expression_. `OpenXML`( `_XML_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -72,4 +73,4 @@ Sub ImportXMLProject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

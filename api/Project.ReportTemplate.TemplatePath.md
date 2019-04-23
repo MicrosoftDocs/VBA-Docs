@@ -1,21 +1,22 @@
 ---
-title: ReportTemplate.TemplatePath Property (Project)
+title: ReportTemplate.TemplatePath property (Project)
 ms.prod: project-server
 api_name:
 - Project.ReportTemplate.TemplatePath
 ms.assetid: be8381a8-f19e-76f0-32c8-c85f29ba93cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportTemplate.TemplatePath Property (Project)
+# ReportTemplate.TemplatePath property (Project)
 
 Gets the path and file name of the Visual Report template. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `TemplatePath`
+_expression_. `TemplatePath`
 
  _expression_ A variable that represents a [ReportTemplate](./Project.ReportTemplate.md) object.
 
@@ -83,3 +84,5 @@ End Sub
 
 
 [ReportTemplate Object](Project.ReportTemplate.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

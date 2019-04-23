@@ -1,5 +1,5 @@
 ---
-title: Application.CompareProjectVersions Method (Project)
+title: Application.CompareProjectVersions method (Project)
 keywords: vbapj.chm2183
 f1_keywords:
 - vbapj.chm2183
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CompareProjectVersions
 ms.assetid: 82af9450-0cec-f7b4-df5c-81ecea3b662f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CompareProjectVersions Method (Project)
+# Application.CompareProjectVersions method (Project)
 
 Displays the  **Compare Project Versions** dialog box to compare two versions of a project.
 
 
 ## Syntax
 
- _expression_. `CompareProjectVersions`
+_expression_. `CompareProjectVersions`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -57,4 +58,4 @@ Sub CompareVersions ()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

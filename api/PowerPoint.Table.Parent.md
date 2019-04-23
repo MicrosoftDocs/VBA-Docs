@@ -1,5 +1,5 @@
 ---
-title: Table.Parent Property (PowerPoint)
+title: Table.Parent property (PowerPoint)
 keywords: vbapp10.chm622002
 f1_keywords:
 - vbapp10.chm622002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Table.Parent
 ms.assetid: 1c873300-6a8d-bdd7-ff69-aa0ffc9aa157
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Parent Property (PowerPoint)
+# Table.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [Table Object](PowerPoint.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

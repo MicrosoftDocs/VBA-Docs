@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 896c6980-14a4-4588-b5d5-b072252e2a33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.DataModelConnection property (Excel)](http://msdn.microsoft.com/library/07143535-fb4f-6c66-a31c-c0613ce4c3cd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

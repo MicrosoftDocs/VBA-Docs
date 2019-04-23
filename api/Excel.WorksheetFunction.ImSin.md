@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSin Method (Excel)
+title: WorksheetFunction.ImSin method (Excel)
 keywords: vbaxl10.chm137281
 f1_keywords:
 - vbaxl10.chm137281
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImSin
 ms.assetid: 1c9d4442-954e-3943-747f-647f49b4257c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImSin Method (Excel)
+# WorksheetFunction.ImSin method (Excel)
 
 Returns the sine of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImSin`( `_Arg1_` )
+_expression_. `ImSin`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

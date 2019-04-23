@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.Count
 ms.assetid: 143e99c0-68a6-c142-75c0-6f9b726c5d7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the number of  **[SlicerItem](Excel.SlicerItem.md)** objects in the spec
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
+_expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the number of  **[SlicerItem](Excel.SlicerItem.md)** objects in the spec
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Table.Uniform Property (Word)
+title: Table.Uniform property (Word)
 keywords: vbawd10.chm156303465
 f1_keywords:
 - vbawd10.chm156303465
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.Uniform
 ms.assetid: a156bedf-5426-be4c-b961-84a038f9bfd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Uniform Property (Word)
+# Table.Uniform property (Word)
 
- **True** if all the rows in a table have the same number of columns. Read-only **Boolean** .
+ **True** if all the rows in a table have the same number of columns. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Uniform`
+_expression_. `Uniform`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
@@ -52,3 +53,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

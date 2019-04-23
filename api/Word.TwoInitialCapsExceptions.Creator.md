@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsExceptions.Creator Property (Word)
+title: TwoInitialCapsExceptions.Creator property (Word)
 keywords: vbawd10.chm155452393
 f1_keywords:
 - vbawd10.chm155452393
@@ -8,19 +8,20 @@ api_name:
 - Word.TwoInitialCapsExceptions.Creator
 ms.assetid: b3a43d7e-0deb-f15e-7faa-7de37c90d5b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TwoInitialCapsExceptions.Creator Property (Word)
+# TwoInitialCapsExceptions.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
+_expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TwoInitialCapsExceptions Collection Object](Word.twoinitialcapsexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

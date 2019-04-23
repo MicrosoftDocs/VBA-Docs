@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules Object (Outlook)
+title: AutoFormatRules object (Outlook)
 keywords: vbaol11.chm3210
 f1_keywords:
 - vbaol11.chm3210
@@ -8,10 +8,11 @@ api_name:
 - Outlook.AutoFormatRules
 ms.assetid: 74514b71-964c-f17b-4df6-e1a5c5ed2b52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoFormatRules Object (Outlook)
+# AutoFormatRules object (Outlook)
 
 Represents the collection of  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in a view.
 
@@ -98,7 +99,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.AutoFormatRules.Add.md)|
 |[Insert](Outlook.AutoFormatRules.Insert.md)|
@@ -111,7 +112,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AutoFormatRules.Application.md)|
 |[Class](Outlook.AutoFormatRules.Class.md)|
@@ -122,4 +123,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

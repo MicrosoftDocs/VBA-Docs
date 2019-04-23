@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.End Property (Outlook)
+title: AppointmentItem.End property (Outlook)
 keywords: vbaol11.chm879
 f1_keywords:
 - vbaol11.chm879
@@ -8,24 +8,25 @@ api_name:
 - Outlook.AppointmentItem.End
 ms.assetid: ce40f8ef-224e-2a64-fe78-cf4ae42be822
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.End Property (Outlook)
+# AppointmentItem.End property (Outlook)
 
-Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)** . Read/write.
+Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an **AppointmentItem** object. The **[RecurrencePattern](Outlook.RecurrencePattern.md)** is obtained for this item using the **[AppointmentItem.GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method. By setting the **RecurrencePattern** properties, **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** , **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** , and **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** , the appointments are now a recurring series that occur on a daily basis for the period of one year.
+This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an **AppointmentItem** object. The **[RecurrencePattern](Outlook.RecurrencePattern.md)** is obtained for this item using the **[AppointmentItem.GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method. By setting the **RecurrencePattern** properties, **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)**, **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)**, and **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)**, the appointments are now a recurring series that occur on a daily basis for the period of one year.
 
 An  **[Exception](Outlook.Exception.md)** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](Outlook.RecurrencePattern.GetOccurrence.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](Outlook.Exceptions.md)** collection associated with this series. Message boxes display the original **[AppointmentItem.Subject](Outlook.AppointmentItem.Subject.md)** and **[Exception.OriginalDate](Outlook.Exception.OriginalDate.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
 
@@ -172,4 +173,4 @@ End Sub
 
 [How to: Import Appointment XML Data into Outlook Appointment Objects](../outlook/How-to/Items-Folders-and-Stores/import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

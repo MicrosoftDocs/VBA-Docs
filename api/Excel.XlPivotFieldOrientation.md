@@ -1,14 +1,15 @@
 ---
-title: xlPivotFieldOrientation enumeration (Excel)
+title: XlPivotFieldOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFieldOrientation
 ms.assetid: 8dd82d0c-370a-464f-e666-5bc8cbcdacb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPivotFieldOrientation enumeration (Excel)
+# XlPivotFieldOrientation enumeration (Excel)
 
 Specifies the location of the field in a PivotTable report.
 
@@ -22,3 +23,4 @@ Specifies the location of the field in a PivotTable report.
 | **xlPageField**|3|Page|
 | **xlRowField**|1|Row|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

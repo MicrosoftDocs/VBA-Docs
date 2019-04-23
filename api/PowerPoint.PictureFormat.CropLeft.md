@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropLeft Property (PowerPoint)
+title: PictureFormat.CropLeft property (PowerPoint)
 keywords: vbapp10.chm551008
 f1_keywords:
 - vbapp10.chm551008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PictureFormat.CropLeft
 ms.assetid: 401a863f-9162-a8d8-825c-f615e6d25907
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropLeft Property (PowerPoint)
+# PictureFormat.CropLeft property (PowerPoint)
 
 Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write.
 
 
 ## Syntax
 
- _expression_. `CropLeft`
+_expression_. `CropLeft`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
@@ -35,7 +36,7 @@ Cropping is calculated relative to the original size of the picture. For example
 
 ## Example
 
-This example crops 20 points off the left side of shape three on  `myDocument`. For the example to work, shape three must be either a picture or an OLE object.
+This example crops 20 points off the left side of shape three on  _myDocument_. For the example to work, shape three must be either a picture or an OLE object.
 
 
 ```vb
@@ -71,3 +72,4 @@ shapeToCrop.PictureFormat.CropLeft = cropPoints
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

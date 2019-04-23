@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.PickUp Method (Project)
+title: ShapeRange.PickUp method (Project)
 ms.prod: project-server
 ms.assetid: 622e3c4d-b155-b1ae-c4c2-62b4e730d392
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.PickUp Method (Project)
+# ShapeRange.PickUp method (Project)
 Copies the formatting of the shape range.
 
 ## Syntax
 
- _expression_. `PickUp`
+_expression_. `PickUp`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -67,3 +68,5 @@ End Sub
 [ShapeRange Object](Project.shaperange.md)
 [Apply Method](Project.shaperange.apply.md)
 [Shape.PickUp Method](Project.shape.pickup.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

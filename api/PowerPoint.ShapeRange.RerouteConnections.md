@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RerouteConnections Method (PowerPoint)
+title: ShapeRange.RerouteConnections method (PowerPoint)
 keywords: vbapp10.chm548009
 f1_keywords:
 - vbapp10.chm548009
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.RerouteConnections
 ms.assetid: 61db5f5d-74cd-1b9d-1b37-9d33e320cca8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.RerouteConnections Method (PowerPoint)
+# ShapeRange.RerouteConnections method (PowerPoint)
 
 Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 
 
 ## Syntax
 
- _expression_. `RerouteConnections`
+_expression_. `RerouteConnections`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ If this method is applied to a connector, only that connector will be rerouted. 
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, connects them with a curved connector, and then reroutes the connector so that it takes the shortest possible path between the two rectangles. Note that the  **RerouteConnections** method adjusts the size and position of the connector and determines which connecting sites it attaches to, so the values you initially specify for the ConnectionSite arguments used with the **BeginConnect** and **EndConnect** methods are irrelevant.
+This example adds two rectangles to  _myDocument_, connects them with a curved connector, and then reroutes the connector so that it takes the shortest possible path between the two rectangles. Note that the  **RerouteConnections** method adjusts the size and position of the connector and determines which connecting sites it attaches to, so the values you initially specify for the ConnectionSite arguments used with the **BeginConnect** and **EndConnect** methods are irrelevant.
 
 
 ```vb
@@ -59,3 +60,4 @@ newConnector.RerouteConnections
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Task.PercentComplete Property (Project)
+title: Task.PercentComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.PercentComplete
 ms.assetid: fc698d7f-2dd9-9cbc-67ba-ff62e6db455c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.PercentComplete Property (Project)
+# Task.PercentComplete property (Project)
 
 Gets or sets the percent complete of a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PercentComplete`
+_expression_. `PercentComplete`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -48,4 +49,4 @@ Sub ReallocateResource()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

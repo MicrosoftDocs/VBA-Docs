@@ -1,5 +1,5 @@
 ---
-title: DataConnection.FileName Property (Visio)
+title: DataConnection.FileName property (Visio)
 keywords: vis_sdr.chm16560380
 f1_keywords:
 - vis_sdr.chm16560380
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataConnection.FileName
 ms.assetid: fd8fb240-e9b8-05d9-fb59-8e9d412ca346
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataConnection.FileName Property (Visio)
+# DataConnection.FileName property (Visio)
 
 Gets the name of the Office Data Connection (ODC) file that contains the connection string and query command string for the data connection. Read-only.
 
@@ -21,7 +22,7 @@ Gets the name of the Office Data Connection (ODC) file that contains the connect
 
 ## Syntax
 
- _expression_. `FileName`
+_expression_. `FileName`
 
  _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
 
@@ -39,4 +40,4 @@ When you use the  **[DataRecordsets.AddFromConnectionFile](Visio.DataRecordsets.
 
 You can use the  **Data Connection Wizard** in Microsoft Access or Microsoft Excel to create an ODC file that will connect to and retrieve the data you want.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

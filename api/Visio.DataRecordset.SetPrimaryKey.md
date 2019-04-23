@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.SetPrimaryKey Method (Visio)
+title: DataRecordset.SetPrimaryKey method (Visio)
 keywords: vis_sdr.chm16460295
 f1_keywords:
 - vis_sdr.chm16460295
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.SetPrimaryKey
 ms.assetid: 5ec125ff-b4a8-abcb-0d9d-140e97de6db2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.SetPrimaryKey Method (Visio)
+# DataRecordset.SetPrimaryKey method (Visio)
 
 Sets the primary key setting value and the name of the primary key column or columns for the data recordset.
 
@@ -21,7 +22,7 @@ Sets the primary key setting value and the name of the primary key column or col
 
 ## Syntax
 
- _expression_. `SetPrimaryKey`( `_PrimaryKeySettings_` , `_PrimaryKey()_` )
+_expression_. `SetPrimaryKey`( `_PrimaryKeySettings_` , `_PrimaryKey()_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -42,13 +43,13 @@ Nothing
 
 ## Remarks
 
-You can use the  **SetPrimaryKey** method to specify the primary key setting and the name of the primary key column or columns for the data recordset. You specify the primary key setting for the data recordset by passing a value from the **VisPrimaryKeySettings** enumeration for the PrimaryKeySettings parameter. The default (when you don't specify a primary key) is **visKeyRowOrder** , which means that Visio identifies data recordset rows by row order.
+You can use the  **SetPrimaryKey** method to specify the primary key setting and the name of the primary key column or columns for the data recordset. You specify the primary key setting for the data recordset by passing a value from the **VisPrimaryKeySettings** enumeration for the PrimaryKeySettings parameter. The default (when you don't specify a primary key) is **visKeyRowOrder**, which means that Visio identifies data recordset rows by row order.
 
 You can specify that the data recordset have either a single-column or a composite primary key. A single-column primary key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely. Possible values for PrimaryKeySettings are shown in this table.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visKeyRowOrder**|1|Use row order as the primary key.|
 | **visKeySingle**|2|Use a single column as the primary key column.|
@@ -61,7 +62,7 @@ You can use the  **[GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)** metho
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **SetPrimaryKey** method to specify the primary key setting for a data recordset as well as the name of the primary key column. The macro finds the most recently created data recordset associated with the document, specifies the primary key setting (**visKeySingle** , to indicate a single-column primary key), and sets the name of the primary key column.
+This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **SetPrimaryKey** method to specify the primary key setting for a data recordset as well as the name of the primary key column. The macro finds the most recently created data recordset associated with the document, specifies the primary key setting (**visKeySingle**, to indicate a single-column primary key), and sets the name of the primary key column.
 
 Before running this macro, create at least one data recordset in the current document, and replace the variable  _columnName_ in the code with the name of the column in the data recordset that you want to specify as the primary key column.
 
@@ -83,4 +84,4 @@ Public Sub SetPrimaryKey_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

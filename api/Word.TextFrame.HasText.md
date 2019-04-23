@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasText Property (Word)
+title: TextFrame.HasText property (Word)
 keywords: vbawd10.chm162665360
 f1_keywords:
 - vbawd10.chm162665360
@@ -8,17 +8,18 @@ api_name:
 - Word.TextFrame.HasText
 ms.assetid: eb3d99ed-b65f-e0d3-b18f-388cec86bd3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.HasText Property (Word)
+# TextFrame.HasText property (Word)
 
- **True** if the specified shape has text associated with it. Read-only **Boolean** .
+ **True** if the specified shape has text associated with it. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasText`
+_expression_. `HasText`
 
  _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.Creator Property (Word)
+title: EmailOptions.Creator property (Word)
 keywords: vbawd10.chm165347429
 f1_keywords:
 - vbawd10.chm165347429
@@ -8,19 +8,20 @@ api_name:
 - Word.EmailOptions.Creator
 ms.assetid: 177aec79-5da3-e761-317c-32a7b2ecc23d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.Creator Property (Word)
+# EmailOptions.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
+_expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

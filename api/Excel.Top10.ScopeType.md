@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.ScopeType
 ms.assetid: d1326cab-7852-747e-d810-9f7c07a0b11f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlP
 
 ## Syntax
 
- _expression_. `ScopeType`
+_expression_.**ScopeType**
 
- _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Remarks
 
-The default value is  **xlSelectionScope** , which sets the scope using the **AppliesTo** property.
+The default value is  **xlSelectionScope**, which sets the scope using the **AppliesTo** property.
 
 
 ## See also
@@ -33,3 +34,4 @@ The default value is  **xlSelectionScope** , which sets the scope using the **Ap
 
 [Top10 Object](Excel.Top10.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

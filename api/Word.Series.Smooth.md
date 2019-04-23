@@ -1,5 +1,5 @@
 ---
-title: Series.Smooth Property (Word)
+title: Series.Smooth property (Word)
 keywords: vbawd10.chm123732131
 f1_keywords:
 - vbawd10.chm123732131
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.Smooth
 ms.assetid: 9360e311-566f-e173-b5e3-ed3790c007fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Smooth Property (Word)
+# Series.Smooth property (Word)
 
- **True** if curve smoothing is enabled for the line chart or scatter chart. Read/write **Boolean** .
+ **True** if curve smoothing is enabled for the line chart or scatter chart. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Smooth`
+_expression_. `Smooth`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -30,7 +31,7 @@ This property applies only to line and scatter charts.
 
 ## Example
 
-The following example enables curve smoothing for series one for the first chart in the active document. You should run the example on a 2-D line chart.
+The following example enables curve smoothing for series one for the first chart in the active document. You should run the example on a 2D line chart.
 
 
 ```vb
@@ -47,3 +48,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

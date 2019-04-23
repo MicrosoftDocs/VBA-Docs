@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertXML Method (Word)
+title: Selection.InsertXML method (Word)
 keywords: vbawd10.chm158663684
 f1_keywords:
 - vbawd10.chm158663684
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.InsertXML
 ms.assetid: 7a9e52b5-9b05-f939-6fd0-33a923989f48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertXML Method (Word)
+# Selection.InsertXML method (Word)
 
 Inserts the specified XML into the document at the cursor, replacing any selected text.
 
 
 ## Syntax
 
- _expression_. `InsertXML`( `_XML_` , `_Transform_` )
+_expression_. `InsertXML`( `_XML_` , `_Transform_` )
 
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
@@ -65,3 +66,4 @@ Selection.InsertXML strXML
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,26 +1,27 @@
 ---
-title: CommandBarButton.SetFocus Method (Office)
+title: CommandBarButton.SetFocus method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.SetFocus
 ms.assetid: f6719533-1958-05d4-5f9c-7b09cb33b1c8
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarButton.SetFocus Method (Office)
+# CommandBarButton.SetFocus method (Office)
 
-Moves the keyboard focus to the specified  **CommandBarButton** control. If the button is disabled or isn't visible, this method will fail.
+Moves the keyboard focus to the specified **CommandBarButton** control. If the button is disabled or isn't visible, this method will fail.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_.**SetFocus**
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ The focus on the control is subtle. After you use this method, you will notice a
 
 ## Example
 
-This example creates a command bar named "Custom" and adds a  **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
+This example creates a command bar named **Custom** and adds a **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
 
 
 ```vb
@@ -56,10 +57,6 @@ testComboBox.SetFocus
 
 ## See also
 
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

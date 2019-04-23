@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.Shadow
 ms.assetid: 4a25cab6-9190-dc20-843b-f05a8e5626df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_.**Shadow**
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.SetUncheckedSymbol Method (Word)
+title: ContentControl.SetUncheckedSymbol method (Word)
 keywords: vbawd10.chm266534942
 f1_keywords:
 - vbawd10.chm266534942
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.SetUncheckedSymbol
 ms.assetid: b563d0cd-e504-7aea-9c91-5c6daf257c35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.SetUncheckedSymbol Method (Word)
+# ContentControl.SetUncheckedSymbol method (Word)
 
 Sets the symbol used to represent the unchecked state of a check box content control.
 
 
 ## Syntax
 
- _expression_. `SetCheckedSymbol`( `_CharacterNumber_` , `_Font_` )
+_expression_. `SetCheckedSymbol`( `_CharacterNumber_` , `_Font_` )
 
  _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 
@@ -51,3 +52,4 @@ objCC.SetUncheckedSymbol CharacterNumber:=&H2610, Font:="MS Gothic"
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

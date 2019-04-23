@@ -1,5 +1,5 @@
 ---
-title: DropCap.Size Property (Publisher)
+title: DropCap.Size property (Publisher)
 keywords: vbapb10.chm5505032
 f1_keywords:
 - vbapb10.chm5505032
@@ -8,17 +8,18 @@ api_name:
 - Publisher.DropCap.Size
 ms.assetid: c8111c4f-7b70-76ba-5c8e-acaeb4c90be7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap.Size Property (Publisher)
+# DropCap.Size property (Publisher)
 
 Returns or sets a  **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
 
 
 ## Syntax
 
- _expression_. **Size**
+_expression_.**Size**
 
  _expression_ A variable that represents a  **DropCap** object.
 
@@ -46,4 +47,4 @@ Sub RaisedDropCap()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

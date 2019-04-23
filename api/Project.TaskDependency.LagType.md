@@ -1,21 +1,22 @@
 ---
-title: TaskDependency.LagType Property (Project)
+title: TaskDependency.LagType property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependency.LagType
 ms.assetid: 0c055a94-ea5f-1267-0b61-d3a50c6bc9b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskDependency.LagType Property (Project)
+# TaskDependency.LagType property (Project)
 
 Gets the unit of lag time between linked tasks. Read-only  **[PjFormatUnit](Project.PjFormatUnit.md)**.
 
 
 ## Syntax
 
- _expression_. `LagType`
+_expression_. `LagType`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 
@@ -42,4 +43,4 @@ Sub SetLagWeeks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

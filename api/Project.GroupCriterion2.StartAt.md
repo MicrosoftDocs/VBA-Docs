@@ -1,21 +1,22 @@
 ---
-title: GroupCriterion2.StartAt Property (Project)
+title: GroupCriterion2.StartAt property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.StartAt
 ms.assetid: c895eae0-9f21-a504-f1e7-8fd53588878c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriterion2.StartAt Property (Project)
+# GroupCriterion2.StartAt property (Project)
 
 Gets or sets the start point of the intervals for a field used as a criterion in a group definition. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `StartAt`
+_expression_. `StartAt`
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
@@ -25,3 +26,4 @@ Gets or sets the start point of the intervals for a field used as a criterion in
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

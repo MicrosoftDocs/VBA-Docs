@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Add Method (Outlook)
+title: UserProperties.Add method (Outlook)
 keywords: vbaol11.chm209
 f1_keywords:
 - vbaol11.chm209
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserProperties.Add
 ms.assetid: 88b86622-2234-77be-41e7-b76b0b3a75ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperties.Add Method (Outlook)
+# UserProperties.Add method (Outlook)
 
 Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
+_expression_.**Add**( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
 
- _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
+_expression_ A variable that represents an [UserProperties](Outlook.UserProperties.md) object.
 
 
 ## Parameters
@@ -31,7 +32,7 @@ Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the property. The maximum length is 64 characters. The characters, '[', ']', '_' and '#', are not permitted in the name.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new property.|
-| _AddToFolderFields_|Optional| **Boolean**| **True** if the property will be added as a custom field to the folder that the item is in. This field can be displayed in the folder's view. **False** if the property will be added as a custom field to the item but not to the folder. The default value is **True** .|
+| _AddToFolderFields_|Optional| **Boolean**| **True** if the property will be added as a custom field to the folder that the item is in. This field can be displayed in the folder's view. **False** if the property will be added as a custom field to the item but not to the folder. The default value is **True**.|
 | _DisplayFormat_|Optional| **Long**|Specifies how the property will be displayed in the Outlook user interface. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see [DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
 
 ## Return value
@@ -93,3 +94,4 @@ End Sub
 
 [UserProperties Object](Outlook.UserProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

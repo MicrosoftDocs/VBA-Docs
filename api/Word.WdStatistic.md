@@ -1,14 +1,15 @@
 ---
-title: WdStatistic Enumeration (Word)
+title: WdStatistic enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStatistic
 ms.assetid: 27ff627e-8f40-c9da-385b-5f3eddca5082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdStatistic Enumeration (Word)
+# WdStatistic enumeration (Word)
 
 Specifies a statistic to return from a selection or item.
 
@@ -24,3 +25,4 @@ Specifies a statistic to return from a selection or item.
 | **wdStatisticParagraphs**|4|Count of paragraphs.|
 | **wdStatisticWords**|0|Count of words.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

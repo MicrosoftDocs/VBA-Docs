@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d7f17957-db8d-c8dc-f4e2-88858e15621d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,6 +21,5 @@ There is some problem that prevents getting printer information from the system.
 - Your printer isn't online. Physically switch the printer online.
     
 - Your printer is jammed or out of paper. Physically correct the problem.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

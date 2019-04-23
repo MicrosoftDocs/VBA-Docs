@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.SetIcon Method (Outlook)
+title: OutlookBarShortcut.SetIcon method (Outlook)
 keywords: vbaol11.chm344
 f1_keywords:
 - vbaol11.chm344
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarShortcut.SetIcon
 ms.assetid: d54a60b5-e667-e030-0724-d61be3ad3745
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.SetIcon Method (Outlook)
+# OutlookBarShortcut.SetIcon method (Outlook)
 
 Sets the icon for the specified shortcut on the  **Shortcuts** pane.
 
 
 ## Syntax
 
- _expression_. `SetIcon`( `_Icon_` )
+_expression_. `SetIcon`( `_Icon_` )
 
- _expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Sets the icon for the specified shortcut on the  **Shortcuts** pane.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a group called MicrosoftSites and adds a shortcut to the Microsoft Network Web page. Then it sets the icon of the shortcut to the icon image MSN.ico located on the user's computer. The example assumes that this icon exists in the specified location.
+The following Microsoft Visual Basic for Applications (VBA) example creates a group called MicrosoftSites and adds a shortcut to the Microsoft Network web page. Then it sets the icon of the shortcut to the icon image MSN.ico located on the user's computer. The example assumes that this icon exists in the specified location.
 
 
 ```vb
@@ -82,3 +83,4 @@ End Sub
 
 [OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

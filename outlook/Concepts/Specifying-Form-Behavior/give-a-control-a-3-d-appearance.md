@@ -3,6 +3,7 @@ title: Give a Control a 3-D Appearance
 ms.prod: outlook
 ms.assetid: 57442e6b-d124-5651-90f6-e469cbf4b108
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -14,5 +15,5 @@ ms.date: 06/08/2017
     
      **Note**  The  **SpecialEffect** property is not available for all controls.
 3. Click  **Apply**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

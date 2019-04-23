@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9b06f323-4ed8-4a5d-b141-e9702c99412c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.ShowValue Property (PowerPoint)](http://msdn.microsoft.com/library/e0c739f6-286b-1267-49c0-484b7d1bca16%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

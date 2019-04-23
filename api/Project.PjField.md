@@ -1,14 +1,15 @@
 ---
-title: PjField Enumeration (Project)
+title: PjField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjField
 ms.assetid: f0df0929-921c-1f33-ab42-192efdaeb64d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjField Enumeration (Project)
+# PjField enumeration (Project)
 
 Contains constants that specify a resource or task field in Project.
 
@@ -1361,5 +1362,4 @@ Many properties, methods, and events use the  **PjField** enumeration. For examp
 
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.Speed Property (PowerPoint)
+title: SlideShowTransition.Speed property (PowerPoint)
 keywords: vbapp10.chm539010
 f1_keywords:
 - vbapp10.chm539010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowTransition.Speed
 ms.assetid: 7c5b9dd2-88d3-5e34-619a-b35c3937a276
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowTransition.Speed Property (PowerPoint)
+# SlideShowTransition.Speed property (PowerPoint)
 
 Represents the speed of the transition to the specified slide. Read/write.
 
 
 ## Syntax
 
- _expression_. `Speed`
+_expression_. `Speed`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
@@ -61,3 +62,4 @@ End With
 
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

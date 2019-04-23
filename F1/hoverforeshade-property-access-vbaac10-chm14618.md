@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6eedd20d-c755-4b72-9627-c32e82ff15d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ToggleButton.HoverForeShade property (Access)](http://msdn.microsoft.com/library/67e4c9bf-0bcc-f79f-491c-93cb32133012%28Office.15%29.aspx)
 [NavigationButton.HoverForeShade property (Access)](http://msdn.microsoft.com/library/cc98ba4b-1237-cfd7-fb44-983f0d56e512%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

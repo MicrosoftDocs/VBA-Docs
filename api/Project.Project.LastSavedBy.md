@@ -1,21 +1,22 @@
 ---
-title: Project.LastSavedBy Property (Project)
+title: Project.LastSavedBy property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LastSavedBy
 ms.assetid: bc0d7330-1d58-5cc4-998c-b070450a7832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.LastSavedBy Property (Project)
+# Project.LastSavedBy property (Project)
 
 Gets the name of the user who last saved a project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `LastSavedBy`
+_expression_. `LastSavedBy`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -31,4 +32,4 @@ Sub AddSaveInfoToNotes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

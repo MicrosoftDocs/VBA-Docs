@@ -1,5 +1,5 @@
 ---
-title: Rows.HeadingFormat Property (Word)
+title: Rows.HeadingFormat property (Word)
 keywords: vbawd10.chm155975685
 f1_keywords:
 - vbawd10.chm155975685
@@ -8,24 +8,25 @@ api_name:
 - Word.Rows.HeadingFormat
 ms.assetid: 225464d2-cb93-f347-6f02-ace23c4177eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.HeadingFormat Property (Word)
+# Rows.HeadingFormat property (Word)
 
- **True** if the specified row or rows are formatted as a table heading. Read/write **Long** .
+ **True** if the specified row or rows are formatted as a table heading. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HeadingFormat`
+_expression_. `HeadingFormat`
 
  _expression_ A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Remarks
 
-Rows formatted as table headings are repeated when a table spans more than one page. Can be  **True** , **False** or **wdUndefined** .
+Rows formatted as table headings are repeated when a table spans more than one page. Can be  **True**, **False** or **wdUndefined**.
 
 
 ## Example
@@ -63,3 +64,4 @@ End If
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

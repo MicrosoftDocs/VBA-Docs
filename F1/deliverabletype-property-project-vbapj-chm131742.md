@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9eec2a07-9461-49ab-8260-406a6597f8d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayWizardUsage Property (Project)](http://msdn.microsoft.com/library/3b4362ca-c748-3da8-0e1d-8d0baa1c3d69%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

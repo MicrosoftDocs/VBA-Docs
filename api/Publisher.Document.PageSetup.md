@@ -1,5 +1,5 @@
 ---
-title: Document.PageSetup Property (Publisher)
+title: Document.PageSetup property (Publisher)
 keywords: vbapb10.chm196632
 f1_keywords:
 - vbapb10.chm196632
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.PageSetup
 ms.assetid: 1dac39f0-2507-a85b-8c71-cd1980022fb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PageSetup Property (Publisher)
+# Document.PageSetup property (Publisher)
 
 Returns a  **[PageSetup](Publisher.PageSetup.md)** object representing a publication's page size, page layout and paper settings. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageSetup**
+_expression_.**PageSetup**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -50,4 +51,4 @@ Sub SetTopMargin()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9d1d06e1-e234-4c33-a534-e67ef211b8c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.GridX property (Access)](http://msdn.microsoft.com/library/ebc6a4d9-2f73-cf55-504f-a83aff1fecd4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

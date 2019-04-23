@@ -1,5 +1,5 @@
 ---
-title: JournalItem.GetConversation Method (Outlook)
+title: JournalItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3405
 f1_keywords:
 - vbaol11.chm3405
@@ -8,19 +8,20 @@ api_name:
 - Outlook.JournalItem.GetConversation
 ms.assetid: 46879e76-46e1-0553-3c55-9b7eaf13fdb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.GetConversation Method (Outlook)
+# JournalItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[JournalItem](Outlook.JournalItem.md)' object.
+_expression_ A variable that represents a '[JournalItem](Outlook.JournalItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

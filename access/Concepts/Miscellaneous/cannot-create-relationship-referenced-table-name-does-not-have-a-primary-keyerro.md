@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e5f5383f-c127-5300-eb2a-60804a75d524
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The table you have referenced in the CONSTRAINT clause does not have a primary k
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

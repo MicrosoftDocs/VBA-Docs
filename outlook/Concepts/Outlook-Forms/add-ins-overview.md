@@ -3,6 +3,7 @@ title: Add-ins Overview
 ms.prod: outlook
 ms.assetid: 510a5bba-4bb0-7475-813c-93bf6de3906f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -14,4 +15,4 @@ You can use add-ins to customize your Microsoft Outlook form pages and form regi
 
 For more information, see [How to: Add or Remove an Add-in](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/add-or-remove-an-add-in.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

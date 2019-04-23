@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 1cf93c7f-ebb3-a340-3f48-fbc95abbf330
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The Outlook object browser displays the classes, properties, methods, events, and constants available from the Outlook object library. The object browser lets you view and use objects in the Script Editor and obtain information about the syntax for using the object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

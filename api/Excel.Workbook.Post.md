@@ -1,5 +1,5 @@
 ---
-title: Workbook.Post Method (Excel)
+title: Workbook.Post method (Excel)
 keywords: vbaxl10.chm199125
 f1_keywords:
 - vbaxl10.chm199125
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Post
 ms.assetid: 62ecf3bc-c551-8f06-64cc-a6c141bdf172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.Post Method (Excel)
+# Workbook.Post method (Excel)
 
 Posts the specified workbook to a public folder. This method works only with a Microsoft Exchange client connected to a Microsoft Exchange server.
 
 
 ## Syntax
 
- _expression_. `Post`( `_DestName_` )
+_expression_. `Post`( `_DestName_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ ActiveWorkbook.Post
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

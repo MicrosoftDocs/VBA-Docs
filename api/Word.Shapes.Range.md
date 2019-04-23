@@ -1,5 +1,5 @@
 ---
-title: Shapes.Range Method (Word)
+title: Shapes.Range method (Word)
 keywords: vbawd10.chm161415189
 f1_keywords:
 - vbawd10.chm161415189
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.Range
 ms.assetid: 277b5e9c-1bec-9e0c-b022-32cef4c5e38e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Range Method (Word)
+# Shapes.Range method (Word)
 
 Returns a  **ShapeRange** object that represents the shapes within a range.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -119,3 +120,4 @@ End Sub
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

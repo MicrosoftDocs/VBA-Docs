@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AddPicture Method (Outlook)
+title: ContactItem.AddPicture method (Outlook)
 keywords: vbaol11.chm1090
 f1_keywords:
 - vbaol11.chm1090
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.AddPicture
 ms.assetid: aa02c3b2-bb4c-fde9-3dbf-f871cbc200b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.AddPicture Method (Outlook)
+# ContactItem.AddPicture method (Outlook)
 
 Adds a picture to a contact item.
 
 
 ## Syntax
 
- _expression_. `AddPicture`( `_Path_` )
+_expression_. `AddPicture`( `_Path_` )
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds a picture to a contact item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Path_|Required| **String**|A string containing the complete path and filename of the picture to be added to the contact item.|
+| _Path_|Required| **String**|A string containing the complete path and file name of the picture to be added to the contact item.|
 
 ## Remarks
 
@@ -97,3 +98,4 @@ Sub AddPictureToAContact()
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

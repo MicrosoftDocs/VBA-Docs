@@ -1,14 +1,15 @@
 ---
-title: xlContainsOperator enumeration (Excel)
+title: XlContainsOperator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlContainsOperator
 ms.assetid: 644304da-c475-4220-f767-5bca330c043b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlContainsOperator enumeration (Excel)
+# XlContainsOperator enumeration (Excel)
 
 Specifies the operator used in a function.
 
@@ -21,3 +22,4 @@ Specifies the operator used in a function.
 | **xlDoesNotContain**|1|Does not contain the specified value.|
 | **xlEndsWith**|3|Endswith the specified value|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Space1 Method (Word)
+title: Paragraphs.Space1 method (Word)
 keywords: vbawd10.chm156762425
 f1_keywords:
 - vbawd10.chm156762425
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.Space1
 ms.assetid: fe426595-427a-51bd-3e65-48d3b3e4c78d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.Space1 Method (Word)
+# Paragraphs.Space1 method (Word)
 
 Single-spaces the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. `Space1`
+_expression_. `Space1`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ ActiveDocument.Paragraphs.Space1
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

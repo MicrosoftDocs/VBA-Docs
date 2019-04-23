@@ -3,6 +3,7 @@ title: Factors Affecting Property Value Representation in the Table and View Cla
 ms.prod: outlook
 ms.assetid: 13cf9945-a9e0-bb32-a2cb-74366a365ae1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,10 +27,10 @@ The type and format of a binary, date, or multi-valued property are affected by 
 |**Type of Property**|**Type/Format Stored**|**Type/Format Stored**|
 |:-----|:-----|:-----|
 ||(if Property Added by Referencing an Explicit Built-in Name)|(if Property Added by Referencing a Namespace)|
-|Binary|String|Byte array|
+|Binary|**String**|Byte array|
 |Date|Local time|Coordinated Universal Time (UTC)|
 |Multi-valued|String containing comma-separated values|1-dimensional array containing one element for each keyword|
 
  **Note**  For more information on referencing properties by namespace, see  [Referencing Properties by Namespace](../Navigation/referencing-properties-by-namespace.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

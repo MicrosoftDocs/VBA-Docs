@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: cd41b71f-567b-d156-1d5e-973e276f27fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,4 +44,4 @@ End Sub
 
 You can, however, modify the recorded macro to work with  **[Range](../../../api/Word.Range.md)** objects. For more information, see [Revising Recorded Visual Basic Macros](../Customizing-Word/revising-recorded-visual-basic-macros.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

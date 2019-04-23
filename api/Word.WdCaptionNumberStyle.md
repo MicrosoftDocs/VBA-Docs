@@ -1,14 +1,15 @@
 ---
-title: WdCaptionNumberStyle Enumeration (Word)
+title: WdCaptionNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCaptionNumberStyle
 ms.assetid: da18fb6a-e8fb-a215-5cbf-de5e46c4d1d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCaptionNumberStyle Enumeration (Word)
+# WdCaptionNumberStyle enumeration (Word)
 
 Specifies the number style to be used with the  **CaptionLabel** object.
 
@@ -49,3 +50,4 @@ Specifies the number style to be used with the  **CaptionLabel** object.
 | **wdCaptionNumberStyleZodiac1**|30|Zodiac style 1.|
 | **wdCaptionNumberStyleZodiac2**|31|Zodiac style 2.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

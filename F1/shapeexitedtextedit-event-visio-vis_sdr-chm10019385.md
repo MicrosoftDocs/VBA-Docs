@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9d360a3d-05f4-4eb0-b0bb-445aff5a87d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.ShapeExitedTextEdit Event (Visio)](http://msdn.microsoft.com/library/54e52c06-b7ab-f6c3-9c0d-6ee05da0e1f3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

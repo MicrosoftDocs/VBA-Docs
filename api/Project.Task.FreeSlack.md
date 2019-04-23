@@ -1,5 +1,5 @@
 ---
-title: Task.FreeSlack Property (Project)
+title: Task.FreeSlack property (Project)
 keywords: vbapj.chm132289
 f1_keywords:
 - vbapj.chm132289
@@ -8,17 +8,18 @@ api_name:
 - Project.Task.FreeSlack
 ms.assetid: 714f6c83-bb4c-4a29-d9ea-e3f259d40c77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.FreeSlack Property (Project)
+# Task.FreeSlack property (Project)
 
 Gets the free slack for a task in minutes. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `FreeSlack`
+_expression_. `FreeSlack`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -42,4 +43,4 @@ Sub EliminateFreeSlack()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

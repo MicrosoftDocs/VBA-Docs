@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5d6fb3f2-161e-eeb6-1d0c-dc4d4670214b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Swap Columns of a Multicolumn List Box
+# Swap Columns of a Multicolumn List Box
 
 The following example swaps columns of a multicolumn  **[ListBox](../../../api/Outlook.listbox.md)**. The sample uses the  **[List](../../../api/Outlook.listbox.list.md)** property in two ways:
 
@@ -54,4 +55,4 @@ Sub CommandButton1_Click
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

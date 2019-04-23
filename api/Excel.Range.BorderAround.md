@@ -1,5 +1,5 @@
 ---
-title: Range.BorderAround Method (Excel)
+title: Range.BorderAround method (Excel)
 keywords: vbaxl10.chm144252
 f1_keywords:
 - vbaxl10.chm144252
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.BorderAround
 ms.assetid: 3ffeb131-45f7-7799-e04a-11577fedaa16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.BorderAround Method (Excel)
+# Range.BorderAround method (Excel)
 
-Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[LineStyle](Excel.Border.LineStyle.md)** , and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant** .
+Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)**, **[LineStyle](Excel.Border.LineStyle.md)**, and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant**.
 
 
 ## Syntax
 
- _expression_. `BorderAround`( `_LineStyle_` , `_Weight_` , `_ColorIndex_` , `_Color_` , `_ThemeColor_` )
+_expression_. `BorderAround`( `_LineStyle_` , `_Weight_` , `_ColorIndex_` , `_Color_` , `_ThemeColor_` )
 
- _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
+_expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Parameters
@@ -31,7 +32,7 @@ Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[L
 |:-----|:-----|:-----|:-----|
 | _LineStyle_|Optional| **Variant**|One of the constants of  **[XlLineStyle](Excel.XlLineStyle.md)** specifying the line style for the border.|
 | _Weight_|Optional| **[XlBorderWeight](Excel.XlBorderWeight.md)**|The border weight.|
-| _ColorIndex_|Optional| **[XlColorIndex](Excel.XlColorIndex.md)**|The border color, as an index into the current color palette or as an  **XlColorIndex** constant.|
+| _ColorIndex_|Optional| **[XlColorIndex](Excel.XlColorIndex.md)**|The border color, as an index into the current color palette or as an  **xlColorIndex** constant.|
 | _Color_|Optional| **Variant**|The border color, as an RGB value.|
 | _ThemeColor_|Optional| **Variant**|The theme color, as an index into the current color theme or as an  **[XlThemeColor](Excel.XlThemeColor.md)** value.|
 
@@ -46,7 +47,7 @@ You must specify only one of the following:  _ColorIndex_,  _Color_, or  _ThemeC
 
 You can specify either  _LineStyle_ or _Weight_, but not both. If you don't specify either argument, Microsoft Excel uses the default line style and weight.
 
-This method outlines the entire range without filling it in. To set the borders of all the cells, you must set the  **Color** , **LineStyle** , and **Weight** properties for the **[Borders](Excel.Borders.md)** collection. To clear the border, you must set the **LineStyle** property to **xlLineStyleNone** for all the cells in the range.
+This method outlines the entire range without filling it in. To set the borders of all the cells, you must set the  **Color**, **LineStyle**, and **Weight** properties for the **[Borders](Excel.Borders.md)** collection. To clear the border, you must set the **LineStyle** property to **xlLineStyleNone** for all the cells in the range.
 
 
 ## Example
@@ -65,3 +66,4 @@ Worksheets("Sheet1").Range("A1:D4").BorderAround _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

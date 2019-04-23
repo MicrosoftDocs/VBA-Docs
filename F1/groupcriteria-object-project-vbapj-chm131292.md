@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fc4186d3-f02c-40a2-9fc9-e6de9009a320
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LookupTableEntry Object (Project)](http://msdn.microsoft.com/library/5be081fa-6f4e-9571-e1e2-c4652871b756%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.IconCriteria.Item
 ms.assetid: 82ed280b-e89e-f75d-246a-cacb57f2b4b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single  **[IconCriterion](Excel.IconCriterion.md)** object from the **
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [IconCriteria](Excel.IconCriteria.md) object.
+_expression_ A variable that represents an [IconCriteria](Excel.IconCriteria.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ The value of the  _Index_ parameter cannot be greater than the number of criteri
 
 [IconCriteria Collection](Excel.IconCriteria.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

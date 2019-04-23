@@ -1,5 +1,5 @@
 ---
-title: Shape.Child Property (Word)
+title: Shape.Child property (Word)
 keywords: vbawd10.chm161480840
 f1_keywords:
 - vbawd10.chm161480840
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.Child
 ms.assetid: 86102bd1-3df1-384e-589b-c37ba07b4afe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Child Property (Word)
+# Shape.Child property (Word)
 
- **True** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **MsoTriState** .
+ **True** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `Child`
+_expression_. `Child`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Example
@@ -54,3 +55,4 @@ End Sub
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

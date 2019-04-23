@@ -1,5 +1,5 @@
 ---
-title: Shapes.SelectAll Method (Word)
+title: Shapes.SelectAll method (Word)
 keywords: vbawd10.chm161415190
 f1_keywords:
 - vbawd10.chm161415190
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.SelectAll
 ms.assetid: 2d907cfd-75ad-c29f-8ef8-85f810915ba8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.SelectAll Method (Word)
+# Shapes.SelectAll method (Word)
 
 Selects all the shapes in a collection of shapes.
 
 
 ## Syntax
 
- _expression_. `SelectAll`
+_expression_. `SelectAll`
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Remarks
@@ -66,3 +67,4 @@ End Sub
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

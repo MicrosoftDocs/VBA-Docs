@@ -1,5 +1,5 @@
 ---
-title: TextColumn.Creator Property (Word)
+title: TextColumn.Creator property (Word)
 keywords: vbawd10.chm158598121
 f1_keywords:
 - vbawd10.chm158598121
@@ -8,19 +8,20 @@ api_name:
 - Word.TextColumn.Creator
 ms.assetid: 212586eb-93ac-e892-9890-310f18e2e6ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextColumn.Creator Property (Word)
+# TextColumn.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TextColumn](Word.TextColumn.md)' object.
+_expression_ Required. A variable that represents a '[TextColumn](Word.TextColumn.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TextColumn Object](Word.TextColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

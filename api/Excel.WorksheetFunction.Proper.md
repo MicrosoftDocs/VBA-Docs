@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Proper Method (Excel)
+title: WorksheetFunction.Proper method (Excel)
 keywords: vbaxl10.chm137125
 f1_keywords:
 - vbaxl10.chm137125
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Proper
 ms.assetid: b90b6fbd-dab0-2ef3-77a8-e39f22b61414
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Proper Method (Excel)
+# WorksheetFunction.Proper method (Excel)
 
 Capitalizes the first letter in a text string and any other letters in text that follow any character other than a letter. Converts all other letters to lowercase letters.
 
 
 ## Syntax
 
- _expression_. `Proper`( `_Arg1_` )
+_expression_. `Proper`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

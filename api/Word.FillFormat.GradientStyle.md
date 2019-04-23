@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStyle Property (Word)
+title: FillFormat.GradientStyle property (Word)
 keywords: vbawd10.chm164102248
 f1_keywords:
 - vbawd10.chm164102248
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.GradientStyle
 ms.assetid: f5342153-6160-c1cd-c02f-708c7c08a902
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientStyle Property (Word)
+# FillFormat.GradientStyle property (Word)
 
-Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle** .
+Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle**.
 
 
 ## Syntax
 
- _expression_. `GradientStyle`
+_expression_. `GradientStyle`
 
  _expression_ An expression that represents a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

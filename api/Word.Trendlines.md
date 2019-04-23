@@ -1,5 +1,5 @@
 ---
-title: Trendlines Object (Word)
+title: Trendlines object (Word)
 keywords: vbawd10.chm1562
 f1_keywords:
 - vbawd10.chm1562
@@ -8,10 +8,11 @@ api_name:
 - Word.Trendlines
 ms.assetid: 06c20a75-4afc-03f5-1eec-eee1559d3f52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines Object (Word)
+# Trendlines object (Word)
 
 Represents a collection of all the  **[Trendline](Word.Trendline.md)** objects for the specified series.
 
@@ -67,6 +68,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

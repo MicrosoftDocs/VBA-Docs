@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MInverse Method (Excel)
+title: WorksheetFunction.MInverse method (Excel)
 keywords: vbaxl10.chm137138
 f1_keywords:
 - vbaxl10.chm137138
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.MInverse
 ms.assetid: ff41fb08-8c25-f84c-dbca-ecfe4687359e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.MInverse Method (Excel)
+# WorksheetFunction.MInverse method (Excel)
 
 Returns the inverse matrix for the matrix stored in an array.
 
 
 ## Syntax
 
- _expression_. `MInverse`( `_Arg1_` )
+_expression_. `MInverse`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Variant
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

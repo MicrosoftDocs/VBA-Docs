@@ -1,18 +1,19 @@
 ---
-title: MsoShapeStyleIndex Enumeration (Office)
+title: MsoShapeStyleIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoShapeStyleIndex
 ms.assetid: 61f34054-28e7-6891-5442-3598d64284a0
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoShapeStyleIndex Enumeration (Office)
+# MsoShapeStyleIndex enumeration (Office)
 
 Indicates the line and shape style.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -59,3 +60,4 @@ Indicates the line and shape style.
 |**msoShapeStyleMixed**|-2|A mix of shape styles.|
 |**msoShapeStyleNone**|0|No shape style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

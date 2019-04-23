@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldSetFormula Method (Project)
+title: Application.CustomFieldSetFormula method (Project)
 keywords: vbapj.chm36
 f1_keywords:
 - vbapj.chm36
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomFieldSetFormula
 ms.assetid: d6d5a5d5-c948-07c9-3f5e-b4607df6538c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomFieldSetFormula Method (Project)
+# Application.CustomFieldSetFormula method (Project)
 
 Specifies a formula to use when assigning a value to a custom field.
 
 
 ## Syntax
 
- _expression_. `CustomFieldSetFormula`( ` _FieldID_`, ` _Formula_` )
+_expression_. `CustomFieldSetFormula`( `_FieldID_`, `_Formula_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Specifies a formula to use when assigning a value to a custom field.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

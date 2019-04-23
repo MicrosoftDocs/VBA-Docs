@@ -1,5 +1,5 @@
 ---
-title: Placeholders Object (PowerPoint)
+title: Placeholders object (PowerPoint)
 keywords: vbapp10.chm544000
 f1_keywords:
 - vbapp10.chm544000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Placeholders
 ms.assetid: d16e06e4-185a-1b99-52a7-4787a4990684
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Placeholders Object (PowerPoint)
+# Placeholders object (PowerPoint)
 
 A collection of all the  **Shape** objects that represent placeholders on the specified slide.
 
@@ -41,3 +42,4 @@ sObj.Placeholders(2).TextFrame.TextRange.Text = _
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

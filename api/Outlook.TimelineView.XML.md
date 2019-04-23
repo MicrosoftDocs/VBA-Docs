@@ -1,5 +1,5 @@
 ---
-title: TimelineView.XML Property (Outlook)
+title: TimelineView.XML property (Outlook)
 keywords: vbaol11.chm2657
 f1_keywords:
 - vbaol11.chm2657
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TimelineView.XML
 ms.assetid: 34dee7f8-ee8f-1194-f421-e43fd7815ffe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimelineView.XML Property (Outlook)
+# TimelineView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ To determine how the XML should be structured when creating views, you can creat
 
 [TimelineView Object](Outlook.TimelineView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

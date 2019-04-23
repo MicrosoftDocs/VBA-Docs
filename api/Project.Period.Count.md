@@ -1,21 +1,22 @@
 ---
-title: Period.Count Property (Project)
+title: Period.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Period.Count
 ms.assetid: 8b1caae6-2ae1-12c4-1f94-b52dcececd45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Period.Count Property (Project)
+# Period.Count property (Project)
 
 Gets the number of days in the  **Period** object. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Period](./Project.Period.md) object.
 
@@ -57,4 +58,4 @@ Sub AssignResource()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

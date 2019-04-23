@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Alignment Property (Word)
+title: Paragraph.Alignment property (Word)
 keywords: vbawd10.chm156696677
 f1_keywords:
 - vbawd10.chm156696677
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Alignment
 ms.assetid: 0142adc2-624c-eb9b-7eca-b24a2f16573f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Alignment Property (Word)
+# Paragraph.Alignment property (Word)
 
 Returns or sets a  **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End Sub
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

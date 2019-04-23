@@ -1,19 +1,20 @@
 ---
-title: Chart.ChartArea Property (Project)
+title: Chart.ChartArea property (Project)
 ms.prod: project-server
 ms.assetid: 384eb030-741d-e69d-cd27-d4e414d7da8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartArea Property (Project)
+# Chart.ChartArea property (Project)
 Gets an  **Office.IMsoChartArea** object that represents the complete chart area for the chart. Read-only **IMsoChartArea**.
 
 ## Syntax
 
- _expression_. `ChartArea`
+_expression_. `ChartArea`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

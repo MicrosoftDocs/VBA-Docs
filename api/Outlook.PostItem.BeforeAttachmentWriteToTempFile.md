@@ -1,23 +1,24 @@
 ---
-title: PostItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: PostItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAttachmentWriteToTempFile
 ms.assetid: c05d420d-8abe-2539-c8e6-64372828ec5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# PostItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

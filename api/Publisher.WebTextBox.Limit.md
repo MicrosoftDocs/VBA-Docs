@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.Limit Property (Publisher)
+title: WebTextBox.Limit property (Publisher)
 keywords: vbapb10.chm4194309
 f1_keywords:
 - vbapb10.chm4194309
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebTextBox.Limit
 ms.assetid: b6bf334e-a610-492a-b316-e8b52d223176
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox.Limit Property (Publisher)
+# WebTextBox.Limit property (Publisher)
 
 Returns or sets a  **Long** that represents the maximum number of characters that can be entered into a Web text box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **Limit**
+_expression_.**Limit**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 
@@ -50,4 +51,4 @@ Sub AddWebTextBoxControl()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

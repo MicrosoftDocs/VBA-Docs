@@ -3,6 +3,7 @@ title: Invalid use of base class name
 ms.prod: office
 ms.assetid: 67c2bc6c-5717-450c-b80a-3217fee436ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ You cannot use the name of a base class by itself. This error has the following 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

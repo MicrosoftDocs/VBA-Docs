@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListNumberStart Property (Publisher)
+title: ParagraphFormat.ListNumberStart property (Publisher)
 keywords: vbapb10.chm5439527
 f1_keywords:
 - vbapb10.chm5439527
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.ListNumberStart
 ms.assetid: 8e17fdaa-f53e-26c4-d92b-8ead65c28555
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListNumberStart Property (Publisher)
+# ParagraphFormat.ListNumberStart property (Publisher)
 
 Sets or retrieves a  **Long** that represents the starting number of a list. Read/write.
 
 
 ## Syntax
 
- _expression_. **ListNumberStart**
+_expression_.**ListNumberStart**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -52,4 +53,4 @@ Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

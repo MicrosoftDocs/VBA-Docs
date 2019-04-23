@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.RotationY
 ms.assetid: 71d6e255-eb1c-62bc-61f2-8b4f8be3ad6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ThreeDFormat.RotationY property (Excel)
 
-Returns or sets the rotation of the extruded shape around the y-axis in degrees. Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right. Read/write  **Single** .
+Returns or sets the rotation of the extruded shape around the y-axis in degrees. Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RotationY`
+_expression_. `RotationY`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ To set the rotation of the extruded shape around the x-axis, use the  **[Rotatio
 
 ## Example
 
-This example adds three identical extruded ovals to  `myDocument` and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
+This example adds three identical extruded ovals to  _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
 
 
 ```vb
@@ -57,3 +58,4 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

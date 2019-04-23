@@ -1,5 +1,5 @@
 ---
-title: Sections.Add Method (Word)
+title: Sections.Add method (Word)
 keywords: vbawd10.chm156893189
 f1_keywords:
 - vbawd10.chm156893189
@@ -8,19 +8,20 @@ api_name:
 - Word.Sections.Add
 ms.assetid: 85063c54-fcd6-8421-2de1-e7fc90289336
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sections.Add Method (Word)
+# Sections.Add method (Word)
 
 Returns a  **Section** object that represents a new section added to a document.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Range_` , `_Start_` )
+_expression_.**Add**( `_Range_` , `_Start_` )
 
- _expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
+_expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ ActiveDocument.Sections.Add
 
 [Sections Collection Object](Word.sections.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

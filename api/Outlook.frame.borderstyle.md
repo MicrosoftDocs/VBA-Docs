@@ -3,6 +3,7 @@ title: Frame.BorderStyle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: f2e84e06-4b53-87d9-fe06-14505f38a0df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the type of border of the control
 
 ## Syntax
 
- _expression_. **BorderStyle**
+_expression_.**BorderStyle**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -30,4 +31,4 @@ You can use either  **BorderStyle** or **SpecialEffect** to specify the border f
 
  **BorderStyle** uses **[BorderColor](Outlook.frame.bordercolor.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

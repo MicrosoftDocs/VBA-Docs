@@ -1,5 +1,5 @@
 ---
-title: View.ShowTabs Property (Word)
+title: View.ShowTabs property (Word)
 keywords: vbawd10.chm161808399
 f1_keywords:
 - vbawd10.chm161808399
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowTabs
 ms.assetid: eca4147b-323f-10f3-e604-b3d9394bbbef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowTabs Property (Word)
+# View.ShowTabs property (Word)
 
- **True** if tab characters are displayed. Read/write **Boolean** .
+ **True** if tab characters are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowTabs`
+_expression_. `ShowTabs`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -56,3 +57,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

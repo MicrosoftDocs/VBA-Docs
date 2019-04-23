@@ -1,5 +1,5 @@
 ---
-title: Cells.Borders Property (Word)
+title: Cells.Borders property (Word)
 keywords: vbawd10.chm155845708
 f1_keywords:
 - vbawd10.chm155845708
@@ -8,17 +8,18 @@ api_name:
 - Word.Cells.Borders
 ms.assetid: df873357-9474-8f69-ae71-6df5859cbf93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cells.Borders Property (Word)
+# Cells.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 
 
 ## Syntax
 
- _expression_. `Borders`
+_expression_.**Borders**
 
  _expression_ A variable that represents a '[Cells](Word.cells.md)' object.
 
@@ -48,3 +49,4 @@ End With
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ActionSettings Object (PowerPoint)
+title: ActionSettings object (PowerPoint)
 keywords: vbapp10.chm566000
 f1_keywords:
 - vbapp10.chm566000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ActionSettings
 ms.assetid: 8914c203-6b8d-fa80-16ad-7015595657b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActionSettings Object (PowerPoint)
+# ActionSettings object (PowerPoint)
 
 A collection that contains the two  **[ActionSetting](PowerPoint.ActionSetting.md)** objects for a shape or text range. One **ActionSetting** object represents how the specified object reacts when the user clicks it during a slide show, and the other **ActionSetting** object represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
 
@@ -36,3 +37,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

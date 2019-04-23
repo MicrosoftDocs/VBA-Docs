@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b400380a-4dda-306e-b086-af201e5f2835
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ Visual Basic permits you to use very large strings. However, the requirements of
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleTPAutoExpand Method (Project)
+title: Application.ToggleTPAutoExpand method (Project)
 keywords: vbapj.chm1502
 f1_keywords:
 - vbapj.chm1502
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ToggleTPAutoExpand
 ms.assetid: 17520aa8-b364-22be-cdc3-62850e77a228
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ToggleTPAutoExpand Method (Project)
+# Application.ToggleTPAutoExpand method (Project)
 
 Expands or collapses resource rows in the Team Planner view, where there is more than one assignment within the same time span for a resource.
 
 
 ## Syntax
 
- _expression_. `ToggleTPAutoExpand`
+_expression_. `ToggleTPAutoExpand`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -51,4 +52,4 @@ Sub ToggleResourceRows()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

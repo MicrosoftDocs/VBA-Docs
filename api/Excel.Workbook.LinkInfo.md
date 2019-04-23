@@ -1,5 +1,5 @@
 ---
-title: Workbook.LinkInfo Method (Excel)
+title: Workbook.LinkInfo method (Excel)
 keywords: vbaxl10.chm199108
 f1_keywords:
 - vbaxl10.chm199108
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.LinkInfo
 ms.assetid: 016295a3-72c1-95b3-c259-8f286b12b73c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.LinkInfo Method (Excel)
+# Workbook.LinkInfo method (Excel)
 
 Returns the link date and update status.
 
 
 ## Syntax
 
- _expression_. `LinkInfo`( `_Name_` , `_LinkInfo_` , `_Type_` , `_EditionRef_` )
+_expression_. `LinkInfo`( `_Name_` , `_LinkInfo_` , `_Type_` , `_EditionRef_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

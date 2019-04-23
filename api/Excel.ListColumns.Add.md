@@ -1,5 +1,5 @@
 ---
-title: ListColumns.Add Method (Excel)
+title: ListColumns.Add method (Excel)
 keywords: vbaxl10.chm736073
 f1_keywords:
 - vbaxl10.chm736073
@@ -8,19 +8,20 @@ api_name:
 - Excel.ListColumns.Add
 ms.assetid: a1127989-f1e0-3c0a-e2c9-24b166c5e001
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListColumns.Add Method (Excel)
+# ListColumns.Add method (Excel)
 
 Adds a new column to the list object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Position_` )
+_expression_.**Add** (_Position_)
 
- _expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
+_expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds a new column to the list object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Position_|Optional| **Variant**| **Integer** . Specifies the relative position of the new column that starts at 1. The previous column at this position is shifted outward.|
+| _Position_|Optional| **Variant**| **Integer**. Specifies the relative position of the new column that starts at 1. The previous column at this position is shifted outward.|
 
 ## Return value
 
@@ -56,3 +57,4 @@ Set myNewColumn = ActiveWorkbook.Worksheets(1).ListObjects(1).ListColumns.Add
 
 [ListColumns Object](Excel.ListColumns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

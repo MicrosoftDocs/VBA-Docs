@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 11148a1b-96f5-4421-97ab-a72e409944af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataColumns Object (Visio)](http://msdn.microsoft.com/library/4741b6df-8613-9fda-1087-dba1a9a0fb5b.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

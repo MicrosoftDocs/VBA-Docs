@@ -1,5 +1,5 @@
 ---
-title: Documents.CanCheckOut Method (Visio)
+title: Documents.CanCheckOut method (Visio)
 keywords: vis_sdr.chm10652025
 f1_keywords:
 - vis_sdr.chm10652025
@@ -8,17 +8,18 @@ api_name:
 - Visio.Documents.CanCheckOut
 ms.assetid: b16fec91-fe8d-3967-7bb2-67ddde44681c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.CanCheckOut Method (Visio)
+# Documents.CanCheckOut method (Visio)
 
 Specifies whether a document can be checked out from a Microsoft SharePoint Server computer.
 
 
 ## Syntax
 
- _expression_. `CanCheckOut`( `_FileName_` )
+_expression_. `CanCheckOut`( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
@@ -71,4 +72,4 @@ Sub DocOut()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

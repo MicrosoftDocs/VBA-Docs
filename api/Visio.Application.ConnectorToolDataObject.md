@@ -1,5 +1,5 @@
 ---
-title: Application.ConnectorToolDataObject Property (Visio)
+title: Application.ConnectorToolDataObject property (Visio)
 keywords: vis_sdr.chm10051835
 f1_keywords:
 - vis_sdr.chm10051835
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.ConnectorToolDataObject
 ms.assetid: 7b1eedad-3d62-c2a1-5ba7-200a594ba32f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ConnectorToolDataObject Property (Visio)
+# Application.ConnectorToolDataObject property (Visio)
 
 Returns an  **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
 
 
 ## Syntax
 
- _expression_. `ConnectorToolDataObject`
+_expression_. `ConnectorToolDataObject`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -30,7 +31,7 @@ IDataObject
 
 ## Remarks
 
- By default, **ConnectorToolDataObject** returns the built-in Visio **Connector** tool. If a master from a stencil is the active connector, **ConnectorToolDataObject** returns a data object for that master. If Visio fails to retrieve the internal **IDataObject** , it raises an exception.
+ By default, **ConnectorToolDataObject** returns the built-in Visio **Connector** tool. If a master from a stencil is the active connector, **ConnectorToolDataObject** returns a data object for that master. If Visio fails to retrieve the internal **IDataObject**, it raises an exception.
 
 
 ## Example
@@ -66,4 +67,4 @@ Public Sub ConnectorToolDataObject_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

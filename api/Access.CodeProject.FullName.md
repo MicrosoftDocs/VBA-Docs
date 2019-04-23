@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.CodeProject.FullName
 ms.assetid: 33361e38-631f-3427-12a9-24bb45086dc1
-ms.date: 06/08/2017
+ms.date: 02/27/2019
+localization_priority: Normal
 ---
 
 
 # CodeProject.FullName property (Access)
 
-Sets or returns the full path (including file name) of a specific object. Read-only  **String**.
+Sets or returns the full path (including the file name) of a specific object. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `FullName`
+_expression_.**FullName**
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
-[CodeProject Object](Access.CodeProject.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

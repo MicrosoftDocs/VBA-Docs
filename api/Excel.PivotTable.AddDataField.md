@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AddDataField Method (Excel)
+title: PivotTable.AddDataField method (Excel)
 keywords: vbaxl10.chm235142
 f1_keywords:
 - vbaxl10.chm235142
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.AddDataField
 ms.assetid: 768b1eb7-80ea-fb0f-0de5-803ec19bbe18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.AddDataField Method (Excel)
+# PivotTable.AddDataField method (Excel)
 
 Adds a data field to a PivotTable report. Returns a  **[PivotField](Excel.PivotField.md)** object that represents the new data field.
 
 
 ## Syntax
 
- _expression_. `AddDataField`( `_Field_` , `_Caption_` , `_Function_` )
+_expression_. `AddDataField`( `_Field_` , `_Caption_` , `_Function_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -40,7 +41,7 @@ PivotField
 
 ## Example
 
-This example adds a data field titled "Total Score" to a pivot table called "PivotTable1".
+This example adds a data field titled "Total Score" to a PivotTable called "PivotTable1".
 
 
  **Note**   This example assumes a table exists in which one of the columns contains a column titled "Score".
@@ -63,3 +64,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

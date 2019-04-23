@@ -7,20 +7,21 @@ ms.prod: access
 api_name:
 - Access.Attachment.InSelection
 ms.assetid: e17586b5-0619-e713-e1fa-f27c9e26b561
-ms.date: 06/08/2017
+ms.date: 02/07/2019
+localization_priority: Normal
 ---
 
 
 # Attachment.InSelection property (Access)
 
-You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
+You can use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `InSelection`
+_expression_.**InSelection**
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
@@ -30,12 +31,9 @@ When a control is selected, its sizing handles are visible and it can be resized
 
 ## Example
 
-The following function uses the  **InSelection** property to determine whether the **strControlName** control on a form is selected.
+The following function uses the **InSelection** property to determine whether the **strControlName** control on a form is selected.
 
-To test this code, paste the IsControlSelected function code in the Declarations section of a code module in the Northwind sample database, open the Customers form in Design view, and select the CompanyName control. Then enter the following line in the Debug window:
-
-
-
+To test this code, paste the **IsControlSelected** function code in the Declarations section of a code module in the Northwind sample database, open the **Customers** form in Design view, and select the **CompanyName** control. You can then enter the following line in the Debug window.
 
 ```vb
 ? IsControlSelected (Forms!Customers, "CompanyName") 
@@ -64,8 +62,6 @@ End Function
 ```
 
 
-## See also
 
 
-[Attachment Object](Access.Attachment.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

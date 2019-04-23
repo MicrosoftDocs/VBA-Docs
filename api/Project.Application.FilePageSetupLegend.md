@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupLegend Method (Project)
+title: Application.FilePageSetupLegend method (Project)
 keywords: vbapj.chm2359
 f1_keywords:
 - vbapj.chm2359
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupLegend
 ms.assetid: b4118a37-f777-b806-9bb4-3f7e6766eda7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupLegend Method (Project)
+# Application.FilePageSetupLegend method (Project)
 
 Creates a legend for printing views of task data.
 
 
 ## Syntax
 
-_expression_. **FilePageSetupLegend** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
+_expression_.**FilePageSetupLegend** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -41,7 +42,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### Format codes
+### Format codes
 
 |**Format code**|**Description**|
 |:-----|:-----|
@@ -74,7 +75,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### PjColor constants
+### PjColor constants
 
 |||
 |:-----|:-----|
@@ -124,4 +125,4 @@ Public Function GetFontFormatCode(strFontName As String) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

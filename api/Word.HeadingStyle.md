@@ -1,5 +1,5 @@
 ---
-title: HeadingStyle Object (Word)
+title: HeadingStyle object (Word)
 keywords: vbawd10.chm2443
 f1_keywords:
 - vbawd10.chm2443
@@ -8,10 +8,11 @@ api_name:
 - Word.HeadingStyle
 ms.assetid: d57e68ce-4c8b-0063-5077-82462451f336
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeadingStyle Object (Word)
+# HeadingStyle object (Word)
 
 Represents a style used to build a table of contents or figures. The  **HeadingStyle** object is a member of the **[HeadingStyles](Word.headingstyles.md)** collection.
 
@@ -44,5 +45,6 @@ myToc.HeadingStyles.Add Style:="Title", Level:=2
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

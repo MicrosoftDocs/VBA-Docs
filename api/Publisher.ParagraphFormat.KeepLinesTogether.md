@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.KeepLinesTogether Property (Publisher)
+title: ParagraphFormat.KeepLinesTogether property (Publisher)
 keywords: vbapb10.chm5439537
 f1_keywords:
 - vbapb10.chm5439537
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.KeepLinesTogether
 ms.assetid: a0f3f2f0-d986-4928-3c4f-0665711a6876
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.KeepLinesTogether Property (Publisher)
+# ParagraphFormat.KeepLinesTogether property (Publisher)
 
 Sets or returns an  **MsoTriState** that indicates whether all lines in the specified paragraph will remain in the same text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **KeepLinesTogether**
+_expression_.**KeepLinesTogether**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -48,4 +49,4 @@ objParaForm.KeepLinesTogether = msoTrue
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

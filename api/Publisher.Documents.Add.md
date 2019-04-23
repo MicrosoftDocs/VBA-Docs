@@ -1,5 +1,5 @@
 ---
-title: Documents.Add Method (Publisher)
+title: Documents.Add method (Publisher)
 keywords: vbapb10.chm8650756
 f1_keywords:
 - vbapb10.chm8650756
@@ -8,19 +8,20 @@ api_name:
 - Publisher.Documents.Add
 ms.assetid: 1e3536c8-8fc0-8c95-3a4c-b16fe8a99098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.Add Method (Publisher)
+# Documents.Add method (Publisher)
 
 Adds a new  **Document** object that represents a new publication to the **Documents** collection.
 
 
 ## Syntax
 
- _expression_. **Add**(**_PbWizard_**,  **_desid_**)
+_expression_.**Add**(**_PbWizard_**,  **_desid_**)
 
- _expression_An expression that returns a  **Documents** object.
+ _expression_ An expression that returns a  **Documents** object.
 
 
 ## Parameters
@@ -60,4 +61,4 @@ Public Sub FindDesignID()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

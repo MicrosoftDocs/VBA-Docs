@@ -5,6 +5,7 @@ api_name:
 - Visio.ShapeAtPoint
 ms.assetid: 0b9562f2-aa9e-5ca2-b3d3-6d6f0f65f5a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the ID of the shape in the drawing that is open in Microsoft Visio Viewer, 
 
 ## Syntax
 
- _expression_. **ShapeAtPoint**(**_X_**,  **_Y_**)
+_expression_.**ShapeAtPoint**(**_X_**,  **_Y_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -36,7 +37,7 @@ Gets the ID of the shape in the drawing that is open in Microsoft Visio Viewer, 
 
 ## Remarks
 
-The origin of the coordinate system of the Visio Viewer window is the upper left corner. The positive x-direction is to the right, and the positive y-direction is down.
+The origin of the coordinate system of the Visio Viewer window is the upper-left corner. The positive x-direction is to the right, and the positive y-direction is down.
 
 If there is no shape at the specified point, the  **ShapeAtPoint** property returns 0.
 
@@ -50,4 +51,4 @@ The following code gets the ID of the shape at point (200, 200) in the drawing t
 Debug.Print vsoViewer.ShapeAtPoint (200, 200)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

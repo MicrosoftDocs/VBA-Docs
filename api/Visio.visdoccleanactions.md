@@ -1,21 +1,22 @@
 ---
-title: VisDocCleanActions Enumeration (Visio)
+title: VisDocCleanActions enumeration (Visio)
 keywords: vis_sdr.chm70310
 f1_keywords:
 - vis_sdr.chm70310
 ms.prod: visio
 ms.assetid: 78189c36-976b-6bcc-95fd-b38e2a74a285
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDocCleanActions Enumeration (Visio)
+# VisDocCleanActions enumeration (Visio)
 
 Flags passed to the  **Document.Clean** method that indicate which document conditions to detect, report, and fix.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocCleanActAll**|&H3FFF|Perform all actions.|
 | **visDocCleanActBadDisplayLists**|&H100|Detect invalid display list linkages.|
@@ -35,3 +36,4 @@ Flags passed to the  **Document.Clean** method that indicate which document cond
 | **visDocCleanAlertDefault**|&H0|Default conditions to report.|
 | **visDocCleanFixDefault**|&H3D8|Default conditions to fix.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

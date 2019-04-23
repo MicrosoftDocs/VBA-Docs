@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cbc7e902-b468-c335-5620-1ff9a2026b9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -52,3 +53,4 @@ Visual Basic is able to convert and coerce many values to accomplish [data type]
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

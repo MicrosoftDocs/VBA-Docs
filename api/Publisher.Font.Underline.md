@@ -1,5 +1,5 @@
 ---
-title: Font.Underline Property (Publisher)
+title: Font.Underline property (Publisher)
 keywords: vbapb10.chm5373987
 f1_keywords:
 - vbapb10.chm5373987
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Underline
 ms.assetid: a01a943e-274d-725e-3f78-aa76c51d5c46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Underline Property (Publisher)
+# Font.Underline property (Publisher)
 
 Returns or sets an  **PbUnderlineType** constant that indicates the type of underline for the selected characters in the specified font in a text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Underline**
+_expression_.**Underline**
 
  _expression_ A variable that represents an  **Font** object.
 
@@ -46,4 +47,4 @@ Sub DashHeavy()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

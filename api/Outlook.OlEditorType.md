@@ -1,5 +1,5 @@
 ---
-title: OlEditorType Enumeration (Outlook)
+title: OlEditorType enumeration (Outlook)
 keywords: vbaol11.chm3057
 f1_keywords:
 - vbaol11.chm3057
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlEditorType
 ms.assetid: aea1c575-ff64-0d67-a0e8-184aa7244821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlEditorType Enumeration (Outlook)
+# OlEditorType enumeration (Outlook)
 
 Specifies the editor type.
 
@@ -28,4 +29,4 @@ Specifies the editor type.
 
 Used by the [EditorType](Outlook.Inspector.EditorType.md) property of[Inspector](Outlook.Inspector.md) objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Database already exists. (Error 3204)
 ms.prod: access
 ms.assetid: 38352c2c-777d-584b-f921-fb71eeac0a4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to create or rename a database using a name that already exists. Enter
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

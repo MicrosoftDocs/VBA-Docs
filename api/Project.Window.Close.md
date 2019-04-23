@@ -1,21 +1,22 @@
 ---
-title: Window.Close Method (Project)
+title: Window.Close method (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Close
 ms.assetid: 820f202b-d609-02e6-eff4-3368b9f93dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Close Method (Project)
+# Window.Close method (Project)
 
 Closes a pane or window.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
@@ -39,4 +40,4 @@ Sub CloseWindowsOfActiveProject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

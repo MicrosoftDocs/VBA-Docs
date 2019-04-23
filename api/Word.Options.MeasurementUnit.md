@@ -1,5 +1,5 @@
 ---
-title: Options.MeasurementUnit Property (Word)
+title: Options.MeasurementUnit property (Word)
 keywords: vbawd10.chm162988058
 f1_keywords:
 - vbawd10.chm162988058
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.MeasurementUnit
 ms.assetid: 7d5b1c89-eedd-9818-2137-d94e6f80d629
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.MeasurementUnit Property (Word)
+# Options.MeasurementUnit property (Word)
 
-Returns or sets the standard measurement unit for Microsoft Word. Read/write  **WdMeasurementUnits** .
+Returns or sets the standard measurement unit for Microsoft Word. Read/write  **WdMeasurementUnits**.
 
 
 ## Syntax
 
- _expression_. `MeasurementUnit`
+_expression_. `MeasurementUnit`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -47,3 +48,4 @@ CurrUnit = Options.MeasurementUnit
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

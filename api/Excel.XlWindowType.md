@@ -1,14 +1,15 @@
 ---
-title: xlWindowType enumeration (Excel)
+title: XlWindowType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowType
 ms.assetid: eca25770-feb6-3723-9bbd-4d2186b8eafa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlWindowType enumeration (Excel)
+# XlWindowType enumeration (Excel)
 
 Specifies how the chart is displayed.
 
@@ -22,3 +23,4 @@ Specifies how the chart is displayed.
 | **xlInfo**|-4129|This constant has been deprecated.|
 | **xlWorkbook**|1|This constant applies to Macintosh only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 4903a9aa-6923-da80-fcc0-f0e2defcb77a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,3 +35,4 @@ End Sub
 
 After using the  **InsertBefore** method or the **InsertAfter** method, the **Range** or **Selection** expands to include the new text. Use the **Collapse**method to collapse a  **Selection** or **Range** to the beginning or ending point.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

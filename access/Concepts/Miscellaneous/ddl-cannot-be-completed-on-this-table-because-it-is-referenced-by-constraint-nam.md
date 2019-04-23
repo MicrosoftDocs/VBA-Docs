@@ -3,6 +3,7 @@ title: DDL cannot be completed on this table because it is referenced by constra
 ms.prod: access
 ms.assetid: a572fab0-a33d-3bdc-aa9e-eb63a349a2a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This is an unexpected error. Please contact Microsoft Product Support Services f
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

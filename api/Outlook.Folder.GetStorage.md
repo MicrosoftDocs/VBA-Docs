@@ -1,5 +1,5 @@
 ---
-title: Folder.GetStorage Method (Outlook)
+title: Folder.GetStorage method (Outlook)
 keywords: vbaol11.chm2017
 f1_keywords:
 - vbaol11.chm2017
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.GetStorage
 ms.assetid: cc5ee63b-7d11-6340-8392-8b35a689a28c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.GetStorage Method (Outlook)
+# Folder.GetStorage method (Outlook)
 
 Gets a  **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder](Outlook.Folder.md)** to store data for an Outlook solution.
 
 
 ## Syntax
 
- _expression_. `GetStorage`( `_StorageIdentifier_` , `_StorageIdentifierType_` )
+_expression_. `GetStorage`( `_StorageIdentifier_` , `_StorageIdentifierType_` )
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Parameters
@@ -39,13 +40,13 @@ A  **StorageItem** object that is used to store data for a solution.
 
 ## Remarks
 
-The  **GetStorage** method obtains a **StorageItem** on a **Folder** object using the identifier specified by _StorageIdentifier_ and has the identifier type specified by _StorageIdentifierType_ . The **StorageItem** is a hidden item in the **Folder** , which roams with the account and is available online and offline.
+The  **GetStorage** method obtains a **StorageItem** on a **Folder** object using the identifier specified by _StorageIdentifier_ and has the identifier type specified by _StorageIdentifierType_ . The **StorageItem** is a hidden item in the **Folder**, which roams with the account and is available online and offline.
 
-If you specify the  **[EntryID](Outlook.StorageItem.EntryID.md)** for the **StorageItem** by using the **olIdentifyByEntryID** value for _StorageIdentifierType_ , then the **GetStorage** method will return the **StorageItem** with the specified **EntryID** . If no **StorageItem** can be found using that **EntryID** or if the **StorageItem** does not exist, then the **GetStorage** method will raise an error.
+If you specify the  **[EntryID](Outlook.StorageItem.EntryID.md)** for the **StorageItem** by using the **olIdentifyByEntryID** value for _StorageIdentifierType_ , then the **GetStorage** method will return the **StorageItem** with the specified **EntryID**. If no **StorageItem** can be found using that **EntryID** or if the **StorageItem** does not exist, then the **GetStorage** method will raise an error.
 
-If you specify the message class for the  **StorageItem** by using the **olIdentifyByMessageClass** value for _StorageIdentifierType_ , then the **GetStorage** method will return the **StorageItem** with the specified message class. If there are multiple items with the same message class, then the **GetStorage** method returns the item with the most recent **PR_LAST_MODIFICATION_TIME** . If no **StorageItem** exists with the specified message class, then the **GetStorage** method creates a new **StorageItem** with the message class specified by _StorageIdentifier_ .
+If you specify the message class for the  **StorageItem** by using the **olIdentifyByMessageClass** value for _StorageIdentifierType_ , then the **GetStorage** method will return the **StorageItem** with the specified message class. If there are multiple items with the same message class, then the **GetStorage** method returns the item with the most recent **PR_LAST_MODIFICATION_TIME**. If no **StorageItem** exists with the specified message class, then the **GetStorage** method creates a new **StorageItem** with the message class specified by _StorageIdentifier_ .
 
-If you specify the  **[Subject](Outlook.StorageItem.Subject.md)** of the **StorageItem** , then the **GetStorage** method will return the **StorageItem** with the **Subject** specified in the **GetStorage** call. If there are multiple items with the same **Subject** , then the **GetStorage** method will return the item with the most recent **PR_LAST_MODIFICATION_TIME** . If no **StorageItem** exists with the specified **Subject** , then the **GetStorage** method will create a new **StorageItem** with the **Subject** specified by _StorageIdentifier_ .
+If you specify the  **[Subject](Outlook.StorageItem.Subject.md)** of the **StorageItem**, then the **GetStorage** method will return the **StorageItem** with the **Subject** specified in the **GetStorage** call. If there are multiple items with the same **Subject**, then the **GetStorage** method will return the item with the most recent **PR_LAST_MODIFICATION_TIME**. If no **StorageItem** exists with the specified **Subject**, then the **GetStorage** method will create a new **StorageItem** with the **Subject** specified by _StorageIdentifier_ .
 
  **GetStorage** returns an error if the store type of the folder is not supported. The following stores return an error when **GetStorage** is called:
 
@@ -105,3 +106,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

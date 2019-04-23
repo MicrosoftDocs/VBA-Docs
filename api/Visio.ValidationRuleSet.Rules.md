@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.Rules Property (Visio)
+title: ValidationRuleSet.Rules property (Visio)
 keywords: vis_sdr.chm18262645
 f1_keywords:
 - vis_sdr.chm18262645
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRuleSet.Rules
 ms.assetid: 7890ca86-74b3-1dd6-8322-f3fbde235115
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.Rules Property (Visio)
+# ValidationRuleSet.Rules property (Visio)
 
 Returns the collection of validation rules in the validation rule set. Read-only.
 
 
 ## Syntax
 
- _expression_. `Rules`
+_expression_. `Rules`
 
  _expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
 
@@ -56,4 +57,4 @@ Public Sub Rules_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultSize Property (Word)
+title: Envelope.DefaultSize property (Word)
 keywords: vbawd10.chm152567808
 f1_keywords:
 - vbawd10.chm152567808
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.DefaultSize
 ms.assetid: 2365a10b-229c-141b-49ab-7d6a0e2247b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.DefaultSize Property (Word)
+# Envelope.DefaultSize property (Word)
 
-Returns or sets the default envelope size. Read/write  **String** .
+Returns or sets the default envelope size. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultSize`
+_expression_. `DefaultSize`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -71,3 +72,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

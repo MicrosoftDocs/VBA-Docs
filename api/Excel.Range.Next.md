@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Next
 ms.assetid: 10712827-9abd-6b8a-49e5-65e3554fcd87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the next c
 
 ## Syntax
 
- _expression_. `Next`
+_expression_.**Next**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ On a protected sheet, this property returns the next unlocked cell. On an unprot
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

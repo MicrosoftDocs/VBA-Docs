@@ -1,5 +1,5 @@
 ---
-title: WebOptions.RelyOnVML Property (Word)
+title: WebOptions.RelyOnVML property (Word)
 keywords: vbawd10.chm165937158
 f1_keywords:
 - vbawd10.chm165937158
@@ -8,19 +8,20 @@ api_name:
 - Word.WebOptions.RelyOnVML
 ms.assetid: f8d817ee-c5f0-d11a-7156-95bd078e8633
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.RelyOnVML Property (Word)
+# WebOptions.RelyOnVML property (Word)
 
- **True** if image files are not generated from drawing objects when you save a document as a Web page. **False** if images are generated. The default value is **False** . Read/write **Boolean** .
+ **True** if image files are not generated from drawing objects when you save a document as a Web page. **False** if images are generated. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RelyOnVML`
+_expression_. `RelyOnVML`
 
- _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ActiveDocument.WebOptions.RelyOnVML = False
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

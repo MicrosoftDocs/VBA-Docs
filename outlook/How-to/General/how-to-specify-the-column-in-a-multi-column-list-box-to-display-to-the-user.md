@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f56b48b4-8ea7-8b77-99a1-0b522f0c9db3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Specify the Column in a Multi-Column List Box to Display to the User
+# Specify the Column in a Multi-Column List Box to Display to the User
 
 The following example uses the  **[TextColumn](../../../api/Outlook.listbox.textcolumn.md)** property to identify the column of data in a **[ListBox](../../../api/Outlook.listbox.md)** that supplies data for its **[Text](../../../api/Outlook.listbox.text.md)** property. This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the  **TextColumn** will be displayed in the **[TextBox](../../../api/Outlook.textbox.md)**.
 
@@ -56,4 +57,4 @@ Sub ListBox1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

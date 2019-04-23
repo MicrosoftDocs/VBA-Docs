@@ -1,5 +1,5 @@
 ---
-title: Range.Creator Property (Word)
+title: Range.Creator property (Word)
 keywords: vbawd10.chm157156329
 f1_keywords:
 - vbawd10.chm157156329
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Creator
 ms.assetid: df19ebef-edb2-ac75-e878-bce9e35794b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Creator Property (Word)
+# Range.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

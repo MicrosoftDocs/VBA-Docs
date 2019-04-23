@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: a0932f28-60a5-34ce-a678-78cb72b33b31
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'ModelFormatDate' object.
+_expression_ A variable that represents a 'ModelFormatDate' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,4 +42,4 @@ End If
 
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

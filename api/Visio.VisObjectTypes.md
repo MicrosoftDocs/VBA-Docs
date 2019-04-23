@@ -1,5 +1,5 @@
 ---
-title: VisObjectTypes Enumeration (Visio)
+title: VisObjectTypes enumeration (Visio)
 keywords: vis_sdr.chm70130
 f1_keywords:
 - vis_sdr.chm70130
@@ -8,16 +8,17 @@ api_name:
 - Visio.VisObjectTypes
 ms.assetid: 47d8b8f5-e402-7305-69d7-79d55d5c7f9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisObjectTypes Enumeration (Visio)
+# VisObjectTypes enumeration (Visio)
 
 Specifies codes returned by the  **ObjectType** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visObjTypeAddon**|31|[Addon](Visio.Addon.md) object|
 | **visObjTypeAddons**|32|[Addons](Visio.Addons.md) collection|
@@ -87,3 +88,4 @@ Specifies codes returned by the  **ObjectType** property.
 | **visObjTypeWindow**|21|[Window](Visio.Window.md) object|
 | **visObjTypeWindows**|22|[Windows](Visio.Windows.md) collection|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

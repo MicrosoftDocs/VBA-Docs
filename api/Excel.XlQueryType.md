@@ -1,14 +1,15 @@
 ---
-title: xlQueryType enumeration (Excel)
+title: XlQueryType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlQueryType
 ms.assetid: 8a0f70d4-5536-3125-cd75-d23212c91868
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlQueryType enumeration (Excel)
+# XlQueryType enumeration (Excel)
 
 Specifies the type of query used by Microsoft Excel to populate the query table or PivotTable cache.
 
@@ -21,5 +22,6 @@ Specifies the type of query used by Microsoft Excel to populate the query table 
 | **xlODBCQuery**|1|Based on an ODBC data source|
 | **xlOLEDBQuery**|5|Based on an OLE DB query, including OLAP data sources|
 | **xlTextImport**|6|Based on a text file, for query tables only|
-| **xlWebQuery**|4|Based on a Web page, for query tables only|
+| **xlWebQuery**|4|Based on a web page, for query tables only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

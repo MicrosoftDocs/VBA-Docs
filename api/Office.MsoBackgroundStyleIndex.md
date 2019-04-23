@@ -1,18 +1,19 @@
 ---
-title: MsoBackgroundStyleIndex Enumeration (Office)
+title: MsoBackgroundStyleIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBackgroundStyleIndex
 ms.assetid: 76a4589b-404b-0e8e-3b75-d72d65ba2987
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoBackgroundStyleIndex Enumeration (Office)
+# MsoBackgroundStyleIndex enumeration (Office)
 
 Indicates the background style for an object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -31,3 +32,4 @@ Indicates the background style for an object.
 |**msoBackgroundStyleMixed**|-2|Specifies a combination of styles.|
 |**msoBackgroundStyleNone**|0|Specifies no styles.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeInsertBarcode Event (Publisher)
+title: Application.MailMergeInsertBarcode event (Publisher)
 keywords: vbapb10.chm268435481
 f1_keywords:
 - vbapb10.chm268435481
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeInsertBarcode
 ms.assetid: 6b901953-eaff-0189-1d33-678e935a2f7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeInsertBarcode Event (Publisher)
+# Application.MailMergeInsertBarcode event (Publisher)
 
 Occurs when the user issues the command to insert postal barcodes into a mail-merge publication, either in the Microsoft Publisher user interface (UI), or programmatically.
 
 
 ## Syntax
 
- _expression_. **MailMergeInsertBarcode**(**_Doc_**,  **_OkToInsert_**)
+_expression_.**MailMergeInsertBarcode**(**_Doc_**,  **_OkToInsert_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -36,7 +37,7 @@ Occurs when the user issues the command to insert postal barcodes into a mail-me
 
 You can use the  **[InsertBarcode](Publisher.TextRange.InsertBarcode.md)** method to insert barcodes into a mail merge publication.
 
-Third-party add-ins that validate mail-merge addresses can use the  **MailMergeInsertBarcode** event to listen for user actions requesting that barcodes be inserted. In this situation, when the add-in receives notification that the **MailMergeInsertBarcode** event fired, it checks the validity of the addresses in the mail-merge list, and if the addreses are valid, it attempts to generate barcodes. If this attempt is successful, the add-in should return **True** for the OkToInsert parameter. If the attempt fails, the add-in should return **False**.
+Third-party add-ins that validate mail-merge addresses can use the  **MailMergeInsertBarcode** event to listen for user actions requesting that barcodes be inserted. In this situation, when the add-in receives notification that the **MailMergeInsertBarcode** event fired, it checks the validity of the addresses in the mail-merge list, and if the addresses are valid, it attempts to generate barcodes. If this attempt is successful, the add-in should return **True** for the OkToInsert parameter. If the attempt fails, the add-in should return **False**.
 
 Actual barcode data is provided to Publisher by the  **[MailMergeGenerateBarcode](Publisher.Application.MailMergeGenerateBarcode.md)** event.
 
@@ -88,3 +89,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

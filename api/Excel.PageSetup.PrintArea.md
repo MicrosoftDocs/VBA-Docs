@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.PrintArea
 ms.assetid: da4d5231-cc74-5940-ffd4-224b78e5244c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.PrintArea property (Excel)
 
-Returns or sets the range to be printed, as a string using A1-style references in the language of the macro. Read/write  **String** .
+Returns or sets the range to be printed, as a string using A1-style references in the language of the macro. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PrintArea`
+_expression_. `PrintArea`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ ActiveSheet.PageSetup.PrintArea = _
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

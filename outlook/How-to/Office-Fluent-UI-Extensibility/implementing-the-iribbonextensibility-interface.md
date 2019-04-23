@@ -3,6 +3,7 @@ title: Implementing the IRibbonExtensibility Interface
 ms.prod: outlook
 ms.assetid: ad798afe-b3a9-4d03-86b3-b1226d9b55c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -85,3 +86,4 @@ For more information, including examples, about customizing explorer and inspect
  [Detecting Errors](detecting-errors.md)<br>
  [Overview of the IRibbonControl Object](overview-of-the-iribboncontrol-object.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

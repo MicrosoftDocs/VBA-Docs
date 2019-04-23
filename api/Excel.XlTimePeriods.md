@@ -1,14 +1,15 @@
 ---
-title: xlTimePeriods enumeration (Excel)
+title: XlTimePeriods enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTimePeriods
 ms.assetid: 11bb49fe-7807-5a61-cd61-9bb69d7052c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlTimePeriods enumeration (Excel)
+# XlTimePeriods enumeration (Excel)
 
 Specifies the time period.
 
@@ -27,3 +28,4 @@ Specifies the time period.
 | **xlTomorrow**|6|Tomorrow|
 | **xlYesterday**|1|Yesterday|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

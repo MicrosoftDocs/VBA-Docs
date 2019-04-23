@@ -1,5 +1,5 @@
 ---
-title: CustomViews.Add Method (Excel)
+title: CustomViews.Add method (Excel)
 keywords: vbaxl10.chm506075
 f1_keywords:
 - vbaxl10.chm506075
@@ -8,24 +8,23 @@ api_name:
 - Excel.CustomViews.Add
 ms.assetid: 134d9969-048b-6a53-4f2c-cc83589c5a70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomViews.Add Method (Excel)
+# CustomViews.Add method (Excel)
 
 Creates a new custom view.
 
 
 ## Syntax
 
- _expression_. `Add`( `_ViewName_` , `_PrintSettings_` , `_RowColSettings_` )
+_expression_.**Add** (_ViewName_, _PrintSettings_, _RowColSettings_)
 
- _expression_ A variable that represents a [CustomViews](Excel.CustomViews.md) object.
+_expression_ A variable that represents a **[CustomViews](Excel.CustomViews.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -53,3 +52,4 @@ ActiveWorkbook.CustomViews.Add "Summary", True, True
 
 [CustomViews Object](Excel.CustomViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

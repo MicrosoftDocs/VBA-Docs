@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 12204272-3840-4999-84a7-b0afb137f99a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationControl.ScrollBarAlign property (Access)](http://msdn.microsoft.com/library/b685e196-513e-fe57-d993-d1e2f4051a4c%28Office.15%29.aspx)
 [ListBox.ScrollBarAlign property (Access)](http://msdn.microsoft.com/library/6eb9b2d1-e306-5980-7ad0-ff0b9c1cd0c6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Recordset (ADO for Visual C++ syntax)
 ms.prod: access
 ms.assetid: 9abd27de-9794-eb50-9744-1c0dfc13c98b
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 # Recordset (ADO for Visual C++ syntax) 
@@ -88,3 +89,5 @@ ms.date: 10/12/2018
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

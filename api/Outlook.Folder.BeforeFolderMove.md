@@ -1,5 +1,5 @@
 ---
-title: Folder.BeforeFolderMove Event (Outlook)
+title: Folder.BeforeFolderMove event (Outlook)
 keywords: vbaol11.chm2751
 f1_keywords:
 - vbaol11.chm2751
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.BeforeFolderMove
 ms.assetid: c085f0cf-3d91-db84-aab9-18c7b46a04d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.BeforeFolderMove Event (Outlook)
+# Folder.BeforeFolderMove event (Outlook)
 
 Occurs when a folder is about to be moved or deleted, either as a result of user action or through program code. 
 
 
 ## Syntax
 
- _expression_. `BeforeFolderMove`( `_MoveTo_` , `_Cancel_` )
+_expression_. `BeforeFolderMove`( `_MoveTo_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ If the action is a permanent delete, the  _MoveTo_ folder returned in the event 
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

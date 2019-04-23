@@ -1,5 +1,5 @@
 ---
-title: Document.FooterLeft Property (Visio)
+title: Document.FooterLeft property (Visio)
 keywords: vis_sdr.chm10550585
 f1_keywords:
 - vis_sdr.chm10550585
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.FooterLeft
 ms.assetid: e832c09d-3ddb-4351-43ad-e1c5633b7bc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FooterLeft Property (Visio)
+# Document.FooterLeft property (Visio)
 
 Gets or sets the text string that appears on the left side of a document's footer. Read/write.
 
 
 ## Syntax
 
- _expression_. `FooterLeft`
+_expression_. `FooterLeft`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -70,4 +71,4 @@ Sub FooterLeft_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

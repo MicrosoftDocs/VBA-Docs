@@ -1,5 +1,5 @@
 ---
-title: Document.Saved Property (Publisher)
+title: Document.Saved property (Publisher)
 keywords: vbapb10.chm196649
 f1_keywords:
 - vbapb10.chm196649
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Saved
 ms.assetid: d1f4357a-103c-2227-d1bd-50706e1f241c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Saved Property (Publisher)
+# Document.Saved property (Publisher)
 
 Returns  **True** if no changes have been made to a publication since it was last saved. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Saved**
+_expression_.**Saved**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -48,4 +49,4 @@ Sub Saver()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

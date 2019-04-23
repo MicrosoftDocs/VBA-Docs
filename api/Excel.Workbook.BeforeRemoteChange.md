@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeRemoteChange Event (Excel)
+title: Workbook.BeforeRemoteChange event (Excel)
 keywords: vbaxl10.chm504120
 f1_keywords:
 - vbaxl10.chm504120
@@ -7,10 +7,11 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.BeforeRemoteChange
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BeforeRemoteChange Event (Excel)
+# Workbook.BeforeRemoteChange event (Excel)
 
 Occurs before a remote user's edits to the workbook are merged.
 
@@ -47,3 +48,5 @@ End Sub
 [co authoring](../excel/Concepts/about-coauthoring-in-excel.md)
 
 [Workbook Object](Excel.Workbook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

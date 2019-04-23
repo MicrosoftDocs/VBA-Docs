@@ -1,5 +1,5 @@
 ---
-title: ListGallery.Modified Property (Word)
+title: ListGallery.Modified property (Word)
 keywords: vbawd10.chm160694373
 f1_keywords:
 - vbawd10.chm160694373
@@ -8,17 +8,18 @@ api_name:
 - Word.ListGallery.Modified
 ms.assetid: c5acfd0e-5a6f-237e-0a9e-962525fd17d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListGallery.Modified Property (Word)
+# ListGallery.Modified property (Word)
 
- **True** if the specified list template is not the built-in list template for that position in the list gallery. Read-only **Boolean** .
+ **True** if the specified list template is not the built-in list template for that position in the list gallery. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Modified`( `_Index_` )
+_expression_. `Modified` (_Index_)
 
  _expression_ An expression that returns a '[ListGallery](Word.ListGallery.md)' object.
 
@@ -48,3 +49,4 @@ End If
 
 [ListGallery Object](Word.ListGallery.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

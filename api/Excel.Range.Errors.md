@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Errors
 ms.assetid: 88dcc606-d412-a9ce-82bc-5fbba8baae87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Allows the user to access error checking options.
 
 ## Syntax
 
- _expression_. `Errors`
+_expression_. `Errors`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

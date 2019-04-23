@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 20b98c1b-10d6-4712-b72a-a2faecbbe629
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.WindowOpened Event (Visio)](http://msdn.microsoft.com/library/90fef7c3-17a1-5e96-112a-de01d4e24fc4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

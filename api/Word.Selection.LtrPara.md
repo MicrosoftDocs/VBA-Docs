@@ -1,5 +1,5 @@
 ---
-title: Selection.LtrPara Method (Word)
+title: Selection.LtrPara method (Word)
 keywords: vbawd10.chm158663262
 f1_keywords:
 - vbawd10.chm158663262
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.LtrPara
 ms.assetid: 992886b8-44e3-3b1f-cc6d-7b16e1c58aef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.LtrPara Method (Word)
+# Selection.LtrPara method (Word)
 
 Sets the reading order and alignment of the specified paragraphs to left-to-right.
 
 
 ## Syntax
 
- _expression_. `LtrPara`
+_expression_. `LtrPara`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If Selection.Style = "Normal" Then _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Type Property (PowerPoint)
+title: FilterEffect.Type property (PowerPoint)
 keywords: vbapp10.chm669003
 f1_keywords:
 - vbapp10.chm669003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FilterEffect.Type
 ms.assetid: c1c96a3e-8755-dd68-a45b-b046de000225
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FilterEffect.Type Property (PowerPoint)
+# FilterEffect.Type property (PowerPoint)
 
 Represents the type of animation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
@@ -40,7 +41,7 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 |**MsoAnimTypeMotion**|
 |**MsoAnimTypeNone**|
 |**MsoAnimTypeProperty**|
-|**MsoAnimTypeRoatation**|
+|**MsoAnimTypeRotation**|
 |**MsoAnimTypeScale**|
 |**MsoAnimTypeTransition**|
 
@@ -49,3 +50,4 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

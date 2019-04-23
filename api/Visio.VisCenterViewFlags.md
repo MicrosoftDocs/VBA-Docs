@@ -1,5 +1,5 @@
 ---
-title: VisCenterViewFlags Enumeration (Visio)
+title: VisCenterViewFlags enumeration (Visio)
 keywords: vis_sdr.chm70690
 f1_keywords:
 - vis_sdr.chm70690
@@ -8,10 +8,11 @@ api_name:
 - Visio.VisCenterViewFlags
 ms.assetid: 89dafefc-4bba-f1ca-63a4-9704f5131b42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisCenterViewFlags Enumeration (Visio)
+# VisCenterViewFlags enumeration (Visio)
 
 Specifies constants that define the different ways to center the view; passed to the  **[Windows.CenterViewOnShape](Visio.Window.CenterViewOnShape.md)** method.
 
@@ -23,3 +24,4 @@ Specifies constants that define the different ways to center the view; passed to
 | **visCenterViewIfOffScreen**|1|Center the view only if the shape is currently off screen.|
 | **visCenterViewSelectShape**|2|Display the page that contains the specified shape, center the view on the shape, and select the shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

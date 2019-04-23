@@ -3,6 +3,7 @@ title: Set Properties for Controls
 ms.prod: outlook
 ms.assetid: e7f3c8a5-c446-d1f3-339d-1a15df9c06c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,5 +27,5 @@ Outlook properties are set in the  **Properties** dialog box and must be set ind
 1. Select the control(s) that you want to modify, right-click one of the controls, and then click  **Advanced Properties**. 
     
 2. Select the options that you want.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

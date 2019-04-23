@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat.FieldFormat Property (Outlook)
+title: ColumnFormat.FieldFormat property (Outlook)
 keywords: vbaol11.chm2729
 f1_keywords:
 - vbaol11.chm2729
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ColumnFormat.FieldFormat
 ms.assetid: 14064b56-65c2-1c7d-1e74-3bfa2d2ccaa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColumnFormat.FieldFormat Property (Outlook)
+# ColumnFormat.FieldFormat property (Outlook)
 
 Returns or sets a  **Long** value that represents the display format of the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read/write.
 
 
 ## Syntax
 
- _expression_. `FieldFormat`
+_expression_. `FieldFormat`
 
- _expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
+_expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ For field types not listed in the above table, the value of this property is ign
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

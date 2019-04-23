@@ -1,5 +1,5 @@
 ---
-title: Slides.AddSlide Method (PowerPoint)
+title: Slides.AddSlide method (PowerPoint)
 keywords: vbapp10.chm530009
 f1_keywords:
 - vbapp10.chm530009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slides.AddSlide
 ms.assetid: e8981122-325b-f1c3-c8d5-8e44427961ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slides.AddSlide Method (PowerPoint)
+# Slides.AddSlide method (PowerPoint)
 
 Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collection, and returns the slide.
 
 
 ## Syntax
 
- _expression_. `AddSlide`( `_Index_`, `_pCustomLayout_` )
+_expression_. `AddSlide`( `_Index_`, `_pCustomLayout_` )
 
  _expression_ An expression that returns a [Slides](./PowerPoint.Slides.md) object.
 
@@ -70,3 +71,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

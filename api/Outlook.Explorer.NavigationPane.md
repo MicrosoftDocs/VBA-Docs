@@ -1,5 +1,5 @@
 ---
-title: Explorer.NavigationPane Property (Outlook)
+title: Explorer.NavigationPane property (Outlook)
 keywords: vbaol11.chm2782
 f1_keywords:
 - vbaol11.chm2782
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.NavigationPane
 ms.assetid: 9ff92a76-d1cd-e338-2f45-e3e5c79c136e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.NavigationPane Property (Outlook)
+# Explorer.NavigationPane property (Outlook)
 
-Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represents the Navigation Pane for an **[Explorer](Outlook.Explorer.md)** object. Read-only.
+Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represents the navigation pane for an **[Explorer](Outlook.Explorer.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `NavigationPane`
+_expression_. `NavigationPane`
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks
@@ -73,3 +74,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3e18e1f4-f607-f4e7-d3ed-44f76ab345f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,6 +19,5 @@ The specified Clipboard format is incompatible with the method being executed. T
 - You tried to use the  **GetText** method or **SetText** method with a Clipboard format other than **vbCFText** or **vbCFLink**. Before using these methods, use the **GetFormat** method to test whether the current contents of the Clipboard matches the specified format.
     
 - You tried to use the  **GetData** method or **SetData** method with a Clipboard format other than **vbCFBitmap**, **vbCFDIB**, or **vbCFMetafile**. Before using these methods, use the **GetFormat** method to test whether the current contents of the Clipboard matches the specified graphics format.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

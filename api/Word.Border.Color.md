@@ -1,5 +1,5 @@
 ---
-title: Border.Color Property (Word)
+title: Border.Color property (Word)
 keywords: vbawd10.chm154861575
 f1_keywords:
 - vbawd10.chm154861575
@@ -8,19 +8,20 @@ api_name:
 - Word.Border.Color
 ms.assetid: ac9d1db8-ab9a-04b9-fa07-491b14bccabd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Border.Color Property (Word)
+# Border.Color property (Word)
 
 Returns or sets the 24-bit color for the specified  **Border** object.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
- _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End If
 
 [Border Object](Word.Border.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

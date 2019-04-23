@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (Publisher)
+title: Shapes object (Publisher)
 keywords: vbapb10.chm2228223
 f1_keywords:
 - vbapb10.chm2228223
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Shapes
 ms.assetid: 52e069a6-d54b-a11a-1cba-96174329cb02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes Object (Publisher)
+# Shapes object (Publisher)
 
 A collection of  **[Shape](./Publisher.Shape.md)** objects that represent all the shapes on a page of a publication. Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
@@ -63,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddBuildingBlock](./Publisher.shapes.addbuildingblock.md)|
 |[AddCallout](./Publisher.Shapes.AddCallout.md)|
@@ -96,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Shapes.Application.md)|
 |[CanvasArrangementType](./Publisher.Shapes.CanvasArrangementType.md)|
@@ -104,3 +105,4 @@ End Sub
 |[Count](./Publisher.Shapes.Count.md)|
 |[Parent](./Publisher.Shapes.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

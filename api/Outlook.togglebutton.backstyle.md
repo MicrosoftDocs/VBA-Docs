@@ -3,6 +3,7 @@ title: ToggleButton.BackStyle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8113f2ac-91e5-2037-7ae8-ad0c2a6a7718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the background style for an objec
 
 ## Syntax
 
- _expression_. **BackStyle**
+_expression_.**BackStyle**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ The  **BackStyle** property determines whether a control is transparent. If **Ba
 
  **BackStyle** does not affect the transparency of bitmaps. You must use a picture editor such as Paintbrush to make a bitmap transparent. Not all controls support transparent bitmaps.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

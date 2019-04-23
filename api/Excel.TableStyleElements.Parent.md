@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElements.Parent
 ms.assetid: 4c7acb7d-52d2-25d9-769a-265e0cfcb648
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [TableStyleElements](./Excel.TableStyleElements.md) object.
+_expression_ A variable that represents a [TableStyleElements](Excel.TableStyleElements.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [TableStyleElements Object](Excel.TableStyleElements.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

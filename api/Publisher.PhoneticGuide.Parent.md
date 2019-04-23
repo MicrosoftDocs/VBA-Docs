@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.Parent Property (Publisher)
+title: PhoneticGuide.Parent property (Publisher)
 keywords: vbapb10.chm6160386
 f1_keywords:
 - vbapb10.chm6160386
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PhoneticGuide.Parent
 ms.assetid: ea90594f-9f89-1e84-96e3-034b0016ef18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PhoneticGuide.Parent Property (Publisher)
+# PhoneticGuide.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

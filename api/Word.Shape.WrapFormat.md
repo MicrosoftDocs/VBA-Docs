@@ -1,5 +1,5 @@
 ---
-title: Shape.WrapFormat Property (Word)
+title: Shape.WrapFormat property (Word)
 keywords: vbawd10.chm161481007
 f1_keywords:
 - vbawd10.chm161481007
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.WrapFormat
 ms.assetid: 7ed0561f-7dcd-a9bd-3524-880237ebf1cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.WrapFormat Property (Word)
+# Shape.WrapFormat property (Word)
 
 Returns a  **WrapFormat** object that contains the properties for wrapping text around the specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `WrapFormat`
+_expression_. `WrapFormat`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

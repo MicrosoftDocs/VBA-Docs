@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (Word)
+title: Shape.Apply method (Word)
 keywords: vbawd10.chm161480714
 f1_keywords:
 - vbawd10.chm161480714
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.Apply
 ms.assetid: 3a42c1a6-7037-2649-c079-68f1391521a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Apply Method (Word)
+# Shape.Apply method (Word)
 
 Applies to the specified shape formatting that has been copied using the  **PickUp** method.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.AutoUpdateFrequency
 ms.assetid: dfded5c8-94d6-8a0f-24c1-248bd502850b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.AutoUpdateFrequency property (Excel)
 
-Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write  **Long** .
+Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `AutoUpdateFrequency`
+_expression_. `AutoUpdateFrequency`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ ActiveWorkbook.AutoUpdateFrequency = 5
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Final Property (PowerPoint)
+title: Presentation.Final property (PowerPoint)
 keywords: vbapp10.chm583104
 f1_keywords:
 - vbapp10.chm583104
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.Final
 ms.assetid: 03b16954-2f23-905b-8392-d88070e86e9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Final Property (PowerPoint)
+# Presentation.Final property (PowerPoint)
 
 Determines whether the presentation is marked as final (read-only). Read/write.
 
 
 ## Syntax
 
- _expression_. `Final`
+_expression_. `Final`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -47,3 +48,4 @@ Marking a presentation as final makes the presentation read-only and prevents ch
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

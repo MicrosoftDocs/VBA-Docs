@@ -3,6 +3,7 @@ title: ScrollBar Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 708caa00-5c41-42b4-abf4-1ad416d8dd67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,5 +37,5 @@ ms.date: 06/08/2017
 -  [ScrollBar.SmallChange Property (Outlook Forms Script)](Outlook.scrollbar.smallchange.md)
     
 -  [ScrollBar.Value Property (Outlook Forms Script)](Outlook.scrollbar.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

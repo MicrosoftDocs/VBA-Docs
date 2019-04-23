@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.Calculation
 ms.assetid: abdf0109-da46-1cf6-6f09-c4ba7a3baebd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlPivotFieldCalculation](Excel.XlPivotFieldCalculation.md)
 
 ## Syntax
 
- _expression_. `Calculation`
+_expression_. `Calculation`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

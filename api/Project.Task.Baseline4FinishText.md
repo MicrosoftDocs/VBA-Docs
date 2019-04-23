@@ -1,5 +1,5 @@
 ---
-title: Task.Baseline4FinishText Property (Project)
+title: Task.Baseline4FinishText property (Project)
 keywords: vbapj.chm131488
 f1_keywords:
 - vbapj.chm131488
@@ -8,17 +8,18 @@ api_name:
 - Project.Task.Baseline4FinishText
 ms.assetid: 9065f145-228b-5599-93fb-759da481a2a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Baseline4FinishText Property (Project)
+# Task.Baseline4FinishText property (Project)
 
 Gets or sets a string representation of the baseline finish date of a task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Baseline4FinishText`
+_expression_. `Baseline4FinishText`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
@@ -27,4 +28,4 @@ Gets or sets a string representation of the baseline finish date of a task. Read
 
 The  **Baseline4FinishText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline4FinishText** has any value, you should convert the value to a date for the **Baseline4Finish** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

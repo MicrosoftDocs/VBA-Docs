@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5ebf37ef-4cec-ec42-d42f-ab886b86e913
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Variant** that identifies the column in a **[ComboBox](Outl
 
 ## Syntax
 
- _expression_. **TextColumn**
+_expression_.**TextColumn**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ When the user selects a row from a  **ComboBox**, the column referenced by  **Te
 
 When the  **Text** property of a **ComboBox** changes (such as when a user types an entry into the control), the new text is compared to the column of data specified by **TextColumn**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: df737198-a6c3-4517-9f4c-2d38e1f080d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/3ddb399d-0b28-9ec7-4059-f8d3011a98c0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

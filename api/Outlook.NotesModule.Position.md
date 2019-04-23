@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Position Property (Outlook)
+title: NotesModule.Position property (Outlook)
 keywords: vbaol11.chm2878
 f1_keywords:
 - vbaol11.chm2878
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NotesModule.Position
 ms.assetid: 156677b0-2b18-e82a-69c1-4903fac8a47c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NotesModule.Position Property (Outlook)
+# NotesModule.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[NotesModule](Outlook.NotesModule.md)** object when it is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[NotesModule](Outlook.NotesModule.md)** object when it is displayed in the navigation pane. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
+_expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ Changing the value of this property for a given  **NotesModule** object changes 
 
 [NotesModule Object](Outlook.NotesModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

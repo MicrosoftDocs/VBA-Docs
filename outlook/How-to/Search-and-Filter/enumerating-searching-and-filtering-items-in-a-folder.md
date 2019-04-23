@@ -3,6 +3,7 @@ title: Enumerating, Searching, and Filtering Items in a Folder
 ms.prod: outlook
 ms.assetid: d786d292-7a0e-0e1a-e132-affbfde37744
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -40,8 +41,7 @@ The  **Items**,  **Table**,  **[Application](../../../api/Outlook.Application.md
 | **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)**|Filters given set of items based on specified restrictions and returns another  **Items** collection.|Folder|Yes|Yes|Certain properties are not supported in the filter, for example,  **Body**. For more information, see  **Items.Restrict**.|
 | **Search.GetTable**|Returns a  **Table** of items in a search folder based on any filter derived from **Application.AdvancedSearch**.|Search folder|No|Yes| **Search.GetTable** derives its filter from the **Search** object (specifically the **[Search.Filter](../../../api/Outlook.Search.Filter.md)** property) returned from **Application.AdvancedSearch**.|
 | **[Table.Restrict](../../../api/Outlook.Table.Restrict.md)**|Filters rows in the given table based on a specified filter and returns another  **Table** object.|Folder|Yes|Yes|Certain properties are not supported in the  **Table** filter, including binary properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](unsupported-properties-in-a-table-object-or-table-filter.md).|
-| **[View.Filter](../../../api/Outlook.View.Filter.md)**|Sets a view's filter without changing the view's XML. Setting the filter for a view only changes the view in the user interface and does not result in a filtered  **Items** collecton.|Folder|No|Yes||
-| **[View.XML](../../../api/Outlook.View.XML.md)**|Gets or sets the XML for a view. Modifying the <Filter> node changes the view's filter. Setting the XML for a view only changes the view in the user interface and does not result in a filtered  **Items** collecton.|Folder|No|Yes|View XML is being deprecated. Use the View object model to program views.|
+| **[View.Filter](../../../api/Outlook.View.Filter.md)**|Sets a view's filter without changing the view's XML. Setting the filter for a view only changes the view in the user interface and does not result in a filtered  **Items** collection.|Folder|No|Yes||
+| **[View.XML](../../../api/Outlook.View.XML.md)**|Gets or sets the XML for a view. Modifying the <Filter> node changes the view's filter. Setting the XML for a view only changes the view in the user interface and does not result in a filtered  **Items** collection.|Folder|No|Yes|View XML is being deprecated. Use the View object model to program views.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

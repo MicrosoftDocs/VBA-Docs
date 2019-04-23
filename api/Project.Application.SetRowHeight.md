@@ -1,5 +1,5 @@
 ---
-title: Application.SetRowHeight Method (Project)
+title: Application.SetRowHeight method (Project)
 keywords: vbapj.chm2118
 f1_keywords:
 - vbapj.chm2118
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetRowHeight
 ms.assetid: bfa4a87b-9e9f-9937-4b9d-a7b26576a5da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetRowHeight Method (Project)
+# Application.SetRowHeight method (Project)
 
 Sets the height of the specified rows.
 
 
 ## Syntax
 
- _expression_. `SetRowHeight`( ` _Unit_`, ` _Rows_`, ` _UseUniqueID_` )
+_expression_. `SetRowHeight`( `_Unit_`, `_Rows_`, `_UseUniqueID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -37,4 +38,4 @@ Sets the height of the specified rows.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

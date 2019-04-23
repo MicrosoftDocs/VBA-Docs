@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Form.Query
 ms.assetid: f3070a6f-3064-b496-ff9f-4da165205f90
-ms.date: 06/08/2017
+ms.date: 03/08/2019
+localization_priority: Normal
 ---
 
 
@@ -18,15 +19,14 @@ Occurs whenever the specified PivotTable view query becomes necessary. The query
 
 ## Syntax
 
-_expression_. `Query`
+_expression_.**Query**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **Query** event.
-
+The following example demonstrates the syntax for a subroutine that traps the **Query** event.
 
 ```vb
 Private Sub Form_Query() 
@@ -35,8 +35,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rank_Avg Method (Excel)
+title: WorksheetFunction.Rank_Avg method (Excel)
 keywords: vbaxl10.chm137379
 f1_keywords:
 - vbaxl10.chm137379
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Rank_Avg
 ms.assetid: fd1c60c7-9a37-95b8-12d9-d1d7a42c650a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Rank_Avg Method (Excel)
+# WorksheetFunction.Rank_Avg method (Excel)
 
 Returns the rank of a number in a list of numbers; that is its size relative to other values in the list. If more than one value has the same rank, the average rank is returned.
 
 
 ## Syntax
 
- _expression_. `Rank_Avg`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Rank_Avg`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

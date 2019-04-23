@@ -5,6 +5,7 @@ api_name:
 - Visio.SelectedShapeIndex
 ms.assetid: dbf6c737-e8b5-8768-533f-2625d99a1717
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the index in the collection of shapes of the selected shape in the drawing 
 
 ## Syntax
 
- _expression_. **SelectedShapeIndex**
+_expression_.**SelectedShapeIndex**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -57,4 +58,4 @@ For intShapeCounter = 1 To vsoViewer.ShapeCount
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

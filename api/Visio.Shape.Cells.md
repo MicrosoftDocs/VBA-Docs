@@ -1,5 +1,5 @@
 ---
-title: Shape.Cells Property (Visio)
+title: Shape.Cells property (Visio)
 keywords: vis_sdr.chm11213190
 f1_keywords:
 - vis_sdr.chm11213190
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Cells
 ms.assetid: 2d90b848-ee2c-d69c-e44e-9c30b04bf776
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Cells Property (Visio)
+# Shape.Cells property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `Cells`( `_localeSpecificCellName_` )
+_expression_.**Cells** (_localeSpecificCellName_)
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -140,4 +141,4 @@ Public Sub Cells_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

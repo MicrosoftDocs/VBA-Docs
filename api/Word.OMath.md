@@ -1,5 +1,5 @@
 ---
-title: OMath Object (Word)
+title: OMath object (Word)
 keywords: vbawd10.chm2691
 f1_keywords:
 - vbawd10.chm2691
@@ -8,10 +8,11 @@ api_name:
 - Word.OMath
 ms.assetid: 82f2f81b-e2d5-140f-bdcc-8b52b821b24d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OMath Object (Word)
+# OMath object (Word)
 
 Represents an equation.  **OMath** objects are members of the **OMaths** collection.
 
@@ -37,7 +38,7 @@ objEq.BuildUp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BuildUp](Word.OMath.BuildUp.md)|
 |[ConvertToLiteralText](Word.OMath.ConvertToLiteralText.md)|
@@ -50,7 +51,7 @@ objEq.BuildUp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlignPoint](Word.OMath.AlignPoint.md)|
 |[Application](Word.OMath.Application.md)|
@@ -73,4 +74,6 @@ objEq.BuildUp
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

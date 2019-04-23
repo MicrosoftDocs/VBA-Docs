@@ -1,19 +1,20 @@
 ---
-title: InvisibleApp.ReplaceShapesCanceled Event (Visio)
+title: InvisibleApp.ReplaceShapesCanceled event (Visio)
 ms.prod: visio
 ms.assetid: 17e43497-c7a8-8546-595c-4630afb301a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ReplaceShapesCanceled Event (Visio)
+# InvisibleApp.ReplaceShapesCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelReplaceShapes** event.
 
 
 ## Syntax
 
- _expression_. `ReplaceShapesCanceled`_(replaceShapes)_
+_expression_. `ReplaceShapesCanceled`_(replaceShapes)_
 
  _expression_ A variable that represents a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -22,7 +23,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _replaceShapes_|Required|REPLACESHAPESEVENT|An object whose properties return information about the shape-replacement operation.|
@@ -32,3 +33,4 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 [InvisibleApp Object](Visio.InvisibleApp.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 109f2097-b517-45dd-9d2c-47b965fc9a32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.WBS Property (Project)](http://msdn.microsoft.com/library/21268405-15da-f12f-2beb-a8e757ed5752%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

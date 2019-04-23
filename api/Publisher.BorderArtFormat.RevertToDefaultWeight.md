@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.RevertToDefaultWeight Method (Publisher)
+title: BorderArtFormat.RevertToDefaultWeight method (Publisher)
 keywords: vbapb10.chm7602180
 f1_keywords:
 - vbapb10.chm7602180
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArtFormat.RevertToDefaultWeight
 ms.assetid: 3e46637f-3fce-3346-9193-063be40844bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat.RevertToDefaultWeight Method (Publisher)
+# BorderArtFormat.RevertToDefaultWeight method (Publisher)
 
 Sets the BorderArt on the specified shape back to its default thickness.
 
 
 ## Syntax
 
- _expression_. **RevertToDefaultWeight**
+_expression_.**RevertToDefaultWeight**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
@@ -60,3 +61,4 @@ End Sub
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Resource.MaterialLabel Property (Project)
+title: Resource.MaterialLabel property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.MaterialLabel
 ms.assetid: 802fd00b-3f0e-9ecf-6cb9-a8858f0137a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.MaterialLabel Property (Project)
+# Resource.MaterialLabel property (Project)
 
 Gets or sets the label for a material resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `MaterialLabel`
+_expression_. `MaterialLabel`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -61,4 +62,4 @@ ErrTrap:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

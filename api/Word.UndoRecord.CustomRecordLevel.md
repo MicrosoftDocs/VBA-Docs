@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.CustomRecordLevel Property (Word)
+title: UndoRecord.CustomRecordLevel property (Word)
 keywords: vbawd10.chm56098821
 f1_keywords:
 - vbawd10.chm56098821
@@ -8,19 +8,20 @@ api_name:
 - Word.UndoRecord.CustomRecordLevel
 ms.assetid: e0636c02-b1fb-2f88-c8a5-b52c88b65530
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UndoRecord.CustomRecordLevel Property (Word)
+# UndoRecord.CustomRecordLevel property (Word)
 
 Returns a  **Long** that specifies the number of custom undo action calls that are currently active. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomRecordLevel`
+_expression_. `CustomRecordLevel`
 
- _expression_ A variable that represents a '[UndoRecord](Word.UndoRecord.md)' object.
+ _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [UndoRecord Object](Word.UndoRecord.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

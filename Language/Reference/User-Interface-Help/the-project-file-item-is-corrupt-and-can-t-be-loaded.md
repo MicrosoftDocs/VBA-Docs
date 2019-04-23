@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: af54c65d-2d49-1e53-2d88-2d73c629e4c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Visual Basic can't read the [project](../../Glossary/vbe-glossary.md#project) file. This can occur if the file has been modified by an editor outside of Visual Basic. To fix the problem, undo any changes made to the file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

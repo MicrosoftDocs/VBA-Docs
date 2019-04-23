@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.PickerDialog.Title
 ms.assetid: 76531e47-91a4-4d82-7825-ab900c5bf8e2
-ms.date: 11/12/2018
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
 # PickerDialog.Title property (Office)
 
-Set or returns the title of a picker dialog displayed in the Picker Dialog. Read/write.
+Sets or returns the title of a **PickerDialog** displayed in the **PickerDialog**. Read/write.
 
 
 ## Syntax
 
-_expression_. `Title`
+_expression_.**Title**
 
-_expression_ An expression that returns a [PickerDialog](Office.PickerDialog.md) object.
+_expression_ An expression that returns a **[PickerDialog](Office.PickerDialog.md)** object.
 
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker Dialog.
+The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -55,3 +56,5 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 - [PickerDialog object members](overview/Library-Reference/pickerdialog-members-office.md)
 - [PickerDialog interface](https://docs.microsoft.com/dotnet/api/microsoft.office.core.pickerdialog?view=office-pia)
 - [Object Picker dialog box interfaces](https://docs.microsoft.com/windows/desktop/ad/object-picker-dialog-box-interfaces)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

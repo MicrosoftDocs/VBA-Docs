@@ -3,6 +3,7 @@ title: Export data, schema, and related tables to XML
 ms.prod: access
 ms.assetid: 4f84813a-bc39-ac03-f04f-624f74eed190
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -10,7 +11,7 @@ ms.date: 09/26/2018
 
 The **[ExportXML](../../../api/Access.Application.ExportXML.md)** method can be used to export the data and formatting contained in a table, along with any additional data that you specify.
 
-To specify the additional data to export, you must must use the **[CreateAdditionalData](../../../api/Access.Application.CreateAdditionalData.md)** method to create an **[AdditionalData](../../../api/Access.AdditionalData.md)** object. Then, use the **[Add](../../../api/Access.AdditionalData.Add.md)** method to add additional tables to export along with the main table.
+To specify the additional data to export, you must use the **[CreateAdditionalData](../../../api/Access.Application.CreateAdditionalData.md)** method to create an **[AdditionalData](../../../api/Access.AdditionalData.md)** object. Then, use the **[Add](../../../api/Access.AdditionalData.Add.md)** method to add additional tables to export along with the main table.
 
 The following procedure illustrates how to include additional data when exporting a table to XML. The Orders table is exported along with several other tables. The schema and the formatting are also exported as separate .xsd and .xsl files, respectively.
 
@@ -47,4 +48,4 @@ Private Sub ExportRelTables()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

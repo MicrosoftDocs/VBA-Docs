@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (Word)
+title: LineFormat.InsetPen property (Word)
 keywords: vbawd10.chm164233330
 f1_keywords:
 - vbawd10.chm164233330
@@ -8,19 +8,20 @@ api_name:
 - Word.LineFormat.InsetPen
 ms.assetid: 6dd5a7b7-bb43-2781-98cc-137537346390
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.InsetPen Property (Word)
+# LineFormat.InsetPen property (Word)
 
- **MsoTrue** to draw lines inside a specified shape. Read/write **MsoTriState** .
+ **MsoTrue** to draw lines inside a specified shape. Read/write **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `InsetPen`
+_expression_. `InsetPen`
 
- _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End Sub
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

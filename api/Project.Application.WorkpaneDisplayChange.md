@@ -1,21 +1,22 @@
 ---
-title: Application.WorkpaneDisplayChange Event (Project)
+title: Application.WorkpaneDisplayChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WorkpaneDisplayChange
 ms.assetid: 8fad51ed-57f5-a34d-6ef6-f699b605c10c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WorkpaneDisplayChange Event (Project)
+# Application.WorkpaneDisplayChange event (Project)
 
 Occurs when the Project Guide is hidden or shown.
 
 
 ## Syntax
 
- _expression_. `WorkpaneDisplayChange`( ` _DisplayState_`, )
+_expression_. `WorkpaneDisplayChange`( `_DisplayState_`, )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ nothing
 
 Project events do not occur when the project is embedded in another document or application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

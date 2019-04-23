@@ -1,5 +1,5 @@
 ---
-title: RulerLevel Object (PowerPoint)
+title: RulerLevel object (PowerPoint)
 keywords: vbapp10.chm572000
 f1_keywords:
 - vbapp10.chm572000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.RulerLevel
 ms.assetid: 601fa2ef-8d8d-1e1d-e349-034d3c2842a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerLevel Object (PowerPoint)
+# RulerLevel object (PowerPoint)
 
 Contains first-line indent and hanging indent information for an outline level. 
 
@@ -53,3 +54,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

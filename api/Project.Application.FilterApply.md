@@ -1,5 +1,5 @@
 ---
-title: Application.FilterApply Method (Project)
+title: Application.FilterApply method (Project)
 keywords: vbapj.chm502
 f1_keywords:
 - vbapj.chm502
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilterApply
 ms.assetid: d270862e-0577-a9db-e63b-9dcf1dc68b4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilterApply Method (Project)
+# Application.FilterApply method (Project)
 
 Sets the current filter.
 
 
 ## Syntax
 
- _expression_. `FilterApply`( ` _Name_`, ` _Highlight_`, ` _Value1_`, ` _Value2_` )
+_expression_. `FilterApply`( `_Name_`, `_Highlight_`, `_Value1_`, `_Value2_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub HighlightCriticalTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeDataRecordsetDelete Event (Visio)
+title: Document.BeforeDataRecordsetDelete event (Visio)
 keywords: vis_sdr.chm10562030
 f1_keywords:
 - vis_sdr.chm10562030
@@ -8,10 +8,11 @@ api_name:
 - Visio.Document.BeforeDataRecordsetDelete
 ms.assetid: 6d9d8570-bdfd-0762-4531-116589203bed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.BeforeDataRecordsetDelete Event (Visio)
+# Document.BeforeDataRecordsetDelete event (Visio)
 
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 
@@ -36,8 +37,8 @@ Private Sub  _expression_ _'BeforeDataRecordsetDelete'(**_ByVal DataRecordset As
 
 ## Remarks
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

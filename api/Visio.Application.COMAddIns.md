@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Visio)
+title: Application.COMAddIns property (Visio)
 keywords: vis_sdr.chm10050535
 f1_keywords:
 - vis_sdr.chm10050535
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.COMAddIns
 ms.assetid: 182ea1e1-f896-f619-1bf0-df4a57b39abf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.COMAddIns Property (Visio)
+# Application.COMAddIns property (Visio)
 
 Returns a reference to the  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently registered in Microsoft Visio. Read-only.
 
 
 ## Syntax
 
- _expression_. `COMAddIns`
+_expression_. `COMAddIns`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -41,7 +42,7 @@ To get information about the object returned by the  **COMAddIns** property:
     
 3. In the  **Project/Library** list, click **Office**.
     
-4. Under  **Classes**, examine the class named  **COMAddIns** .
+4. Under  **Classes**, examine the class named  **COMAddIns**.
     
 
 ## Example
@@ -67,4 +68,4 @@ Public Sub COMAddIns_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

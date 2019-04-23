@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 043bcc68-de98-45da-9711-7dea8af3b568
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CalendarDrivers Object (Project)](http://msdn.microsoft.com/library/86fcfb21-a6d2-68a5-0cb0-d9a57f9028da%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

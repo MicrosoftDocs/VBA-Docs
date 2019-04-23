@@ -1,14 +1,15 @@
 ---
-title: Shape.TextChanged Event (Visio)
+title: Shape.TextChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Shape.TextChanged
 ms.assetid: e6516896-de9e-e90f-679b-541c15ab26db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.TextChanged Event (Visio)
+# Shape.TextChanged event (Visio)
 
 Occurs after the text of a shape is changed in a document.
 
@@ -49,4 +50,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 For performance considerations, the  **Document** object's event set does not include the **TextChanged** event. To sink the **TextChanged** event from a **Document** object (and from the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

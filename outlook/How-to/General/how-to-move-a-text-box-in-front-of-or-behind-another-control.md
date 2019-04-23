@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 43e00491-39e4-5608-dc51-794be11ac721
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Move a Text Box in Front of or Behind Another Control
+# Move a Text Box in Front of or Behind Another Control
 
 The following example sets the z-order of a  **[TextBox](../../../api/Outlook.textbox.md)**, so the user can display the entire  **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
 
@@ -80,4 +81,4 @@ End If
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

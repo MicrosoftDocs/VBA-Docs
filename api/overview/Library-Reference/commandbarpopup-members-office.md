@@ -2,7 +2,8 @@
 title: CommandBarPopup members (Office)
 ms.prod: office
 ms.assetid: 8ec16deb-bb74-2871-d837-f706c7a58f2b
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents a pop-up control on a command bar.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Copy](../../Office.CommandBarPopup.Copy.md)|Copies a command bar popup control to an existing command bar.|
 |[Delete](../../Office.CommandBarPopup.Delete.md)|Deletes the **CommandBarPopup** object from its collection.|
@@ -25,7 +26,7 @@ Represents a pop-up control on a command bar.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarPopup.Application.md)|Gets an **Application** object that represents the container application for the **CommandBarPopup** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[BeginGroup](../../Office.CommandBarPopup.BeginGroup.md)|Gets **True** if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|
@@ -56,3 +57,4 @@ Represents a pop-up control on a command bar.
 |[Visible](../../Office.CommandBarPopup.Visible.md)|Gets or sets the **Visible** property of the **CommandBarPopup** control. Read/write.|
 |[Width](../../Office.CommandBarPopup.Width.md)|Gets or sets the width (in pixels) of the specified **CommandBarPopup** control. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.GammaLn_Precise Method (Excel)
+title: WorksheetFunction.GammaLn_Precise method (Excel)
 keywords: vbaxl10.chm137418
 f1_keywords:
 - vbaxl10.chm137418
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.GammaLn_Precise
 ms.assetid: a428c7a2-452e-575d-7d16-fd9f5023755d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.GammaLn_Precise Method (Excel)
+# WorksheetFunction.GammaLn_Precise method (Excel)
 
 Returns the natural logarithm of the gamma function, ?(x).
 
 
 ## Syntax
 
- _expression_. `GammaLn_Precise`( `_Arg1_` )
+_expression_. `GammaLn_Precise`( `_Arg1_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

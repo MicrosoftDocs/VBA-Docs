@@ -1,22 +1,23 @@
 ---
-title: Range.TextVisibleOnScreen Property (Word)
+title: Range.TextVisibleOnScreen property (Word)
 keywords: vbawd10.chm157155835
 f1_keywords:
 - vbawd10.chm157155835
 ms.prod: word
 ms.assetid: ced8fc7c-61a2-b0dd-20ba-ee6a4281d44d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.TextVisibleOnScreen Property (Word)
+# Range.TextVisibleOnScreen property (Word)
 
 Returns a  **Long** that indicates whether the text in the specified range is visible on the screen. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextVisibleOnScreen`
+_expression_. `TextVisibleOnScreen`
 
  _expression_ A variable that represents a [Range](./Word.Range.md) object.
 
@@ -36,3 +37,4 @@ The  **TextVisibleOnScreen** property returns 1 if all text in the range is visi
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

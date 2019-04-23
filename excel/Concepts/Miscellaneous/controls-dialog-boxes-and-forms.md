@@ -3,6 +3,7 @@ title: Controls, Dialog Boxes, and Forms
 ms.prod: excel
 ms.assetid: f4c5062b-13f8-46dc-b9cb-a782d2930da4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,5 +43,5 @@ This topic links to programming tasks (how-to and walkthrough topics) for common
 -  [How to: Create a User Form](../Controls-DialogBoxes-Forms/create-a-user-form.md)
     
       - Describes how to create a user form.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

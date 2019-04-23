@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Redo Method (Visio)
+title: InvisibleApp.Redo method (Visio)
 keywords: vis_sdr.chm17516465
 f1_keywords:
 - vis_sdr.chm17516465
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.Redo
 ms.assetid: a72c916c-cf52-d9f3-b2ee-e0225f4b6940
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.Redo Method (Visio)
+# InvisibleApp.Redo method (Visio)
 
 Reverses the most recent undo unit.
 
 
 ## Syntax
 
- _expression_. `Redo`
+_expression_. `Redo`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -47,7 +48,7 @@ You cannot invoke the  **Redo** method from code that is executing inside the sc
 
 The  **Redo** method also raises an exception if the Visio instance is presently performing an undo or redo. To determine whether the Visio instance is undoing or redoing use the **IsUndoingOrRedoing** property.
 
-You can call the  **Redo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False** . You can also call the **Redo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
+You can call the  **Redo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False**. You can also call the **Redo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
 
 
 ## Example
@@ -74,4 +75,4 @@ Public Sub Redo_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

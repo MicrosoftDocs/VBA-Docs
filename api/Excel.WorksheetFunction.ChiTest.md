@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiTest Method (Excel)
+title: WorksheetFunction.ChiTest method (Excel)
 keywords: vbaxl10.chm137210
 f1_keywords:
 - vbaxl10.chm137210
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.ChiTest
 ms.assetid: a4447d0d-f1f9-9d09-9ab3-c7974471a9ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ChiTest Method (Excel)
+# WorksheetFunction.ChiTest method (Excel)
 
 Returns the test for independence. 
 
@@ -20,9 +21,9 @@ For more information about the new function, see the [ChiSq_Test](Excel.Workshee
 
 ## Syntax
 
- _expression_. `ChiTest`( `_Arg1_` , `_Arg2_` )
+_expression_. `ChiTest`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ ChiTest returns the value from the chi-squared ( 2 ) distribution for the statis
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

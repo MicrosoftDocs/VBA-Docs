@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b213e698-e3ef-4a2f-97ba-399ceed435a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.SharedWorkspace Property (Project)](http://msdn.microsoft.com/library/b3255086-628f-8c62-dff8-1ec61009351b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

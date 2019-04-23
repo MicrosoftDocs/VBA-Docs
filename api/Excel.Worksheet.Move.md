@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Move Method (Excel)
+title: Worksheet.Move method (Excel)
 keywords: vbaxl10.chm174079
 f1_keywords:
 - vbaxl10.chm174079
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Move
 ms.assetid: 808e6eb8-7811-6f72-5acc-b3779587aa52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Move Method (Excel)
+# Worksheet.Move method (Excel)
 
 Moves the sheet to another location in the workbook.
 
 
 ## Syntax
 
- _expression_. `Move`( `_Before_` , `_After_` )
+_expression_.**Move** (_Before_, _After_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Worksheets("Sheet1").Move _
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

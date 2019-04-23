@@ -1,5 +1,5 @@
 ---
-title: AllowEditRanges.Add Method (Excel)
+title: AllowEditRanges.Add method (Excel)
 keywords: vbaxl10.chm724075
 f1_keywords:
 - vbaxl10.chm724075
@@ -7,40 +7,39 @@ ms.prod: excel
 api_name:
 - Excel.AllowEditRanges.Add
 ms.assetid: f88d900d-4974-4d8d-6279-0be6376fc232
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
-# AllowEditRanges.Add Method (Excel)
+# AllowEditRanges.Add method (Excel)
 
-Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEditRange](Excel.AllowEditRange.md)** object.
+Adds a range that can be edited on a protected worksheet. Returns an **[AllowEditRange](Excel.AllowEditRange.md)** object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Title_` , `_Range_` , `_Password_` )
+_expression_.**Add** (_Title_, _Range_, _Password_)
 
- _expression_ A variable that represents an [AllowEditRanges](Excel.AllowEditRanges.md) object.
+_expression_ A variable that represents an **[AllowEditRanges](Excel.AllowEditRanges.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Title_|Required| **String**|The title of range.|
-| _Range_|Required| **Range**| **Range** object. The range allowed to be edited.|
+| _Title_|Required| **String**|The title of the range.|
+| _Range_|Required| **Range**| **[Range](Excel.Range(object).md)** object. The range allowed to be edited.|
 | _Password_|Optional| **Variant**|The password for the range.|
 
 ## Return value
 
-An  **AllowEditRange** object that represents the range.
+An **AllowEditRange** object that represents the range.
 
 
 ## Example
 
-This example allows edits to range "A1:A4" on the active worksheet, notifies the user, then changes the password for this specified range and notifies the user of this change.
+This example allows edits to range A1:A4 on the active worksheet, notifies the user, changes the password for this specified range, and then notifies the user of this change.
 
 
 ```vb
@@ -72,8 +71,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[AllowEditRanges Collection](Excel.AllowEditRanges.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PublishObjects Object (PowerPoint)
+title: PublishObjects object (PowerPoint)
 keywords: vbapp10.chm634000
 f1_keywords:
 - vbapp10.chm634000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.PublishObjects
 ms.assetid: 7f32fe4e-2345-ce6c-77c9-9fabdf9c5a23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObjects Object (PowerPoint)
+# PublishObjects object (PowerPoint)
 
 A collection of  **[PublishObject](PowerPoint.PublishObject.md)** objects representing the set of complete or partial loaded presentations that are available for publishing to HTML.
 
@@ -61,3 +62,4 @@ ActivePresentation.PublishObjects.Item(1).SourceType = ppPublishAll
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

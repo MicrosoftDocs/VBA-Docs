@@ -1,21 +1,22 @@
 ---
-title: Application.MailLogon Method (Project)
+title: Application.MailLogon method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.MailLogon
 ms.assetid: 0047a6ea-ea36-498c-e744-c4c88a08baae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailLogon Method (Project)
+# Application.MailLogon method (Project)
 
 Logs on to a MAPI mail system and establishes a mail session. A mail session must be established before mail or document routing methods can be used.
 
 
 ## Syntax
 
- _expression_. `MailLogon`( ` _Name_`, ` _Password_`, ` _DownloadNewMail_` )
+_expression_. `MailLogon`( `_Name_`, `_Password_`, `_DownloadNewMail_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub SessionLogon()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

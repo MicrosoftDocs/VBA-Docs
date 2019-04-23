@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8b682248-6c3d-4301-a09b-f08411f29687
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -40,3 +41,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Exception.Name Property (Project)](http://msdn.microsoft.com/library/ef3e1418-e297-d0c5-4423-f53497a6031b%28Office.15%29.aspx)
 [Exception.Period Property (Project)](http://msdn.microsoft.com/library/357d1a65-a5c4-3ddb-d42a-f7c2e26298a3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

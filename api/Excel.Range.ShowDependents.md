@@ -1,5 +1,5 @@
 ---
-title: Range.ShowDependents Method (Excel)
+title: Range.ShowDependents method (Excel)
 keywords: vbaxl10.chm144195
 f1_keywords:
 - vbaxl10.chm144195
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.ShowDependents
 ms.assetid: f2e062b2-733b-d0e5-b5ed-9587b104bbc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ShowDependents Method (Excel)
+# Range.ShowDependents method (Excel)
 
 Draws tracer arrows to the direct dependents of the range.
 
 
 ## Syntax
 
- _expression_. `ShowDependents`( `_Remove_` )
+_expression_. `ShowDependents`( `_Remove_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Draws tracer arrows to the direct dependents of the range.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Remove_|Optional| **Variant**| **True** to remove one level of tracer arrows to direct dependents. **False** to expand one level of tracer arrows. The default value is **False** .|
+| _Remove_|Optional| **Variant**| **True** to remove one level of tracer arrows to direct dependents. **False** to expand one level of tracer arrows. The default value is **False**.|
 
 ## Return value
 
@@ -62,3 +63,4 @@ ActiveCell.ShowDependents Remove:=True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

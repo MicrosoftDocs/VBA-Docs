@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLinks.Add Method (Office)
+title: SharedWorkspaceLinks.Add method (Office)
 keywords: vbaof11.chm271003
 f1_keywords:
 - vbaof11.chm271003
@@ -7,11 +7,12 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks.Add
 ms.assetid: 76c1fe99-14de-7276-0c5c-fd54f6d0a6ce
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceLinks.Add Method (Office)
+# SharedWorkspaceLinks.Add method (Office)
 
 Adds a link to the list of links in a shared workspace.
 
@@ -21,18 +22,16 @@ Adds a link to the list of links in a shared workspace.
 
 ## Syntax
 
- _expression_. `Add`( `_URL_`, `_Description_`, `_Notes_` )
+_expression_.**Add** (_URL_, _Description_, _Notes_)
 
- _expression_ Required. A variable that represents a '[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)' object.
+_expression_ Required. A variable that represents a **[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _URL_|Required|**String**|The address of the Web site to which a link is being added.|
+| _URL_|Required|**String**|The address of the website to which a link is being added.|
 | _Description_|Optional|**String**|Description of the link.|
 | _Notes_|Optional|**String**|Notes about the link.|
 
@@ -62,10 +61,8 @@ The following example adds a new link to the links collection of the shared work
 
 ## See also
 
-
-[SharedWorkspaceLinks Object](Office.SharedWorkspaceLinks.md)
-
+- [SharedWorkspaceLinks object members](overview/Library-Reference/sharedworkspacelinks-members-office.md)
 
 
-[SharedWorkspaceLinks Object Members](./overview/Library-Reference/sharedworkspacelinks-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

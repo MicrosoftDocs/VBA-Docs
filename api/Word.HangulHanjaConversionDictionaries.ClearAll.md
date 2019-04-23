@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.ClearAll Method (Word)
+title: HangulHanjaConversionDictionaries.ClearAll method (Word)
 keywords: vbawd10.chm165675110
 f1_keywords:
 - vbawd10.chm165675110
@@ -8,19 +8,20 @@ api_name:
 - Word.HangulHanjaConversionDictionaries.ClearAll
 ms.assetid: 920a8b08-0475-131a-28cc-58cbeb8b6a9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HangulHanjaConversionDictionaries.ClearAll Method (Word)
+# HangulHanjaConversionDictionaries.ClearAll method (Word)
 
 Unloads all of the custom or conversion dictionaries.
 
 
 ## Syntax
 
- _expression_. `ClearAll`
+_expression_. `ClearAll`
 
- _expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
+_expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ HangulHanjaDictionaries.ClearAll
 
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

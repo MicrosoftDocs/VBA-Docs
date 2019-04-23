@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GetConversation Method (Outlook)
+title: AppointmentItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3403
 f1_keywords:
 - vbaol11.chm3403
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.GetConversation
 ms.assetid: 661386aa-c357-8437-36a4-c0a910573b90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.GetConversation Method (Outlook)
+# AppointmentItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
+_expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

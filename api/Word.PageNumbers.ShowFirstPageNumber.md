@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.ShowFirstPageNumber Property (Word)
+title: PageNumbers.ShowFirstPageNumber property (Word)
 keywords: vbawd10.chm159776776
 f1_keywords:
 - vbawd10.chm159776776
@@ -8,17 +8,18 @@ api_name:
 - Word.PageNumbers.ShowFirstPageNumber
 ms.assetid: 5f7c88cc-ddb7-08d6-880d-f55a9591fdea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumbers.ShowFirstPageNumber Property (Word)
+# PageNumbers.ShowFirstPageNumber property (Word)
 
- **True** if the page number appears on the first page in the section. Read/write **Boolean** .
+ **True** if the page number appears on the first page in the section. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowFirstPageNumber`
+_expression_. `ShowFirstPageNumber`
 
  _expression_ An expression that returns a '[PageNumbers](Word.pagenumbers.md)' collection object.
 
@@ -57,3 +58,4 @@ ActiveDocument.Sections(1) _
 
 [PageNumbers Collection Object](Word.pagenumbers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

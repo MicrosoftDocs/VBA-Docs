@@ -8,19 +8,20 @@ api_name:
 - Excel.HiLoLines.Creator
 ms.assetid: d3bf194a-a25b-ad11-5614-0c8a34c6cf68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # HiLoLines.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [HiLoLines](Excel.HiLoLines-graph-property.md) object.
+_expression_ A variable that represents a [HiLoLines](Excel.HiLoLines-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [HiLoLines Object](Excel.HiLoLines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

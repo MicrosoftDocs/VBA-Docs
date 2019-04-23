@@ -1,5 +1,5 @@
 ---
-title: Cell.AutoSum Method (Word)
+title: Cell.AutoSum method (Word)
 keywords: vbawd10.chm156106958
 f1_keywords:
 - vbawd10.chm156106958
@@ -8,19 +8,20 @@ api_name:
 - Word.Cell.AutoSum
 ms.assetid: 5f8c36c3-2e26-8e5f-16c4-49d4c04144c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.AutoSum Method (Word)
+# Cell.AutoSum method (Word)
 
 Inserts an = (Formula) field that calculates and displays the sum of the values in table cells above or to the left of the cell specified in the expression.
 
 
 ## Syntax
 
- _expression_. `AutoSum`
+_expression_. `AutoSum`
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Remarks
@@ -67,3 +68,4 @@ End If
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

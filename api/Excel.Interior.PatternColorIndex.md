@@ -8,19 +8,20 @@ api_name:
 - Excel.Interior.PatternColorIndex
 ms.assetid: e7e89281-e179-bea9-58bf-110f7a4aab8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Interior.PatternColorIndex property (Excel)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PatternColorIndex`
+_expression_. `PatternColorIndex`
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [Interior Object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

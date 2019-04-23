@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenarios.Application
 ms.assetid: dc2257ff-19d4-db52-7d06-3f802f9dbcb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
+_expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Scenarios Object](Excel.Scenarios.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

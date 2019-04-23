@@ -1,5 +1,5 @@
 ---
-title: Template Object (Word)
+title: Template object (Word)
 keywords: vbawd10.chm2410
 f1_keywords:
 - vbawd10.chm2410
@@ -8,10 +8,11 @@ api_name:
 - Word.Template
 ms.assetid: 47d1d92d-bba9-3f2a-9c71-22ac43159bd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template Object (Word)
+# Template object (Word)
 
 Represents a document template. The  **Template** object is a member of the **[Templates](Word.templates.md)** collection. The **Templates** collection includes all the available **Template** objects.
 
@@ -63,7 +64,7 @@ MsgBox Options.DefaultFilePath(wdUserTemplatesPath)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OpenAsDocument](Word.Template.OpenAsDocument.md)|
 |[Save](Word.Template.Save.md)|
@@ -72,7 +73,7 @@ MsgBox Options.DefaultFilePath(wdUserTemplatesPath)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Template.Application.md)|
 |[BuildingBlockEntries](Word.Template.BuildingBlockEntries.md)|
@@ -101,4 +102,6 @@ MsgBox Options.DefaultFilePath(wdUserTemplatesPath)
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

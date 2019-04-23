@@ -1,5 +1,5 @@
 ---
-title: Application.FullBuild Property (Visio)
+title: Application.FullBuild property (Visio)
 keywords: vis_sdr.chm10051220
 f1_keywords:
 - vis_sdr.chm10051220
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.FullBuild
 ms.assetid: 608b99df-027b-7878-e519-311b57dc86bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FullBuild Property (Visio)
+# Application.FullBuild property (Visio)
 
 Returns the full build number of the running instance. Read-only. 
 
 
 ## Syntax
 
- _expression_. `FullBuild`
+_expression_. `FullBuild`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -98,4 +99,4 @@ Public Sub ParseFullBuildProperty(ByRef lngFullBuild As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

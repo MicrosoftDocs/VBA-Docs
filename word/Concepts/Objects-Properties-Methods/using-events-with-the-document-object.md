@@ -3,6 +3,7 @@ title: Using Events with the Document Object
 ms.prod: word
 ms.assetid: 2b043342-436a-5421-e8af-3c2c49684960
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -48,4 +49,4 @@ If an auto macro exists in a document and the attached template, only the auto m
 
 For information about creating event procedures for the  **[Application](../../../api/Word.Application.md)** object, see  [Using Events with the Application Object](../../../api/Word.Application.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

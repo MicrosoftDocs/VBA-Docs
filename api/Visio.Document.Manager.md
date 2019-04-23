@@ -1,5 +1,5 @@
 ---
-title: Document.Manager Property (Visio)
+title: Document.Manager property (Visio)
 keywords: vis_sdr.chm10513865
 f1_keywords:
 - vis_sdr.chm10513865
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Manager
 ms.assetid: 6aa5bcfc-55b5-88ce-a9a8-d0f6a73ee69f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Manager Property (Visio)
+# Document.Manager property (Visio)
 
 Gets or sets the value of the  **Manager** box in a document's **Properties** dialog box. Read/write.
 
 
 ## Syntax
 
- _expression_. `Manager`
+_expression_. `Manager`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -67,4 +68,4 @@ Public Sub Manager_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

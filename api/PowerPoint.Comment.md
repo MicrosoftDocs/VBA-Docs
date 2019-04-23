@@ -1,5 +1,5 @@
 ---
-title: Comment Object (PowerPoint)
+title: Comment object (PowerPoint)
 keywords: vbapp10.chm642000
 f1_keywords:
 - vbapp10.chm642000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Comment
 ms.assetid: c1071b54-eeaa-0cec-13f0-b635da9511d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comment Object (PowerPoint)
+# Comment object (PowerPoint)
 
 Represents a comment on a given slide or slide range. The  **Comment** object is a member of the **[Comments](PowerPoint.Comments.md)** collection object.
 
@@ -88,3 +89,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

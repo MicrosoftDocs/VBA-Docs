@@ -1,5 +1,5 @@
 ---
-title: Timing.Application Property (PowerPoint)
+title: Timing.Application property (PowerPoint)
 keywords: vbapp10.chm653001
 f1_keywords:
 - vbapp10.chm653001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Timing.Application
 ms.assetid: 887bbfbd-c9fd-bc10-03ec-ddcd7dd52656
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Timing.Application Property (PowerPoint)
+# Timing.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Timing Object](PowerPoint.Timing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

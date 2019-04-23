@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.DisplayNullString
 ms.assetid: ad2ce480-9fc9-d069-5526-4f819e236967
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.DisplayNullString property (Excel)
 
- **True** if the PivotTable report displays a custom string in cells that contain null values. The default value is **True** . Read/write **Boolean** .
+ **True** if the PivotTable report displays a custom string in cells that contain null values. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayNullString`
+_expression_. `DisplayNullString`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ Worksheets(1).PivotTables("Pivot1").DisplayNullString = False
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

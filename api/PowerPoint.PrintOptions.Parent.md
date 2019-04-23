@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.Parent Property (PowerPoint)
+title: PrintOptions.Parent property (PowerPoint)
 keywords: vbapp10.chm517008
 f1_keywords:
 - vbapp10.chm517008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.Parent
 ms.assetid: d93f28db-9198-2edb-d6d0-77484bc54c13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.Parent Property (PowerPoint)
+# PrintOptions.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

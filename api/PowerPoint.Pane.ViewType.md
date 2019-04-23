@@ -1,5 +1,5 @@
 ---
-title: Pane.ViewType Property (PowerPoint)
+title: Pane.ViewType property (PowerPoint)
 keywords: vbapp10.chm631005
 f1_keywords:
 - vbapp10.chm631005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Pane.ViewType
 ms.assetid: 6114b581-a9f5-a4b7-827e-99004fea4e58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.ViewType Property (PowerPoint)
+# Pane.ViewType property (PowerPoint)
 
 Returns the type of view for the specified pane. Read-only.
 
 
 ## Syntax
 
- _expression_. `ViewType`
+_expression_. `ViewType`
 
  _expression_ A variable that represents a [Pane](./PowerPoint.Pane.md) object.
 
@@ -71,3 +72,4 @@ End With
 
 [Pane Object](PowerPoint.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

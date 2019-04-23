@@ -1,5 +1,5 @@
 ---
-title: Editor.Range Property (Word)
+title: Editor.Range property (Word)
 keywords: vbawd10.chm225575014
 f1_keywords:
 - vbawd10.chm225575014
@@ -8,19 +8,20 @@ api_name:
 - Word.Editor.Range
 ms.assetid: a09abe23-cc64-2fda-682d-7d2825a9e5fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Editor.Range Property (Word)
+# Editor.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
- _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
+_expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
 
 
 ## Remarks
@@ -80,3 +81,4 @@ End With
 
 [Editor Object](Word.Editor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

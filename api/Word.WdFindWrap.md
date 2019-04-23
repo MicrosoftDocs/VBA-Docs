@@ -1,14 +1,15 @@
 ---
-title: WdFindWrap Enumeration (Word)
+title: WdFindWrap enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFindWrap
 ms.assetid: 7baf9a4e-e4e1-cd71-ac03-3e23ff2e1f63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdFindWrap Enumeration (Word)
+# WdFindWrap enumeration (Word)
 
 Specifies wrap behavior if a selection or range is specified for a find operation and the search text isn't found in the selection or range.
 
@@ -20,3 +21,4 @@ Specifies wrap behavior if a selection or range is specified for a find operatio
 | **wdFindContinue**|1|The find operation continues if the beginning or end of the search range is reached.|
 | **wdFindStop**|0|The find operation ends if the beginning or end of the search range is reached.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

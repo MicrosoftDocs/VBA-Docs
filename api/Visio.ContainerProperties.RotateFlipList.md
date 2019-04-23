@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.RotateFlipList Method (Visio)
+title: ContainerProperties.RotateFlipList method (Visio)
 keywords: vis_sdr.chm17662360
 f1_keywords:
 - vis_sdr.chm17662360
@@ -8,17 +8,18 @@ api_name:
 - Visio.ContainerProperties.RotateFlipList
 ms.assetid: 0402f4e3-e494-b915-e6c3-a09a7fc12845
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContainerProperties.RotateFlipList Method (Visio)
+# ContainerProperties.RotateFlipList method (Visio)
 
 Rotates or flips the list direction for a list of shapes.
 
 
 ## Syntax
 
- _expression_. `RotateFlipList`( `_Direction_` )
+_expression_. `RotateFlipList`( `_Direction_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
@@ -48,4 +49,4 @@ You can also use this method on lists that are paired in an overlapped list rela
 
 If the container is not a list, Microsoft Visio returns an Invalid Source error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

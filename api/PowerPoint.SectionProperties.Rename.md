@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.Rename Method (PowerPoint)
+title: SectionProperties.Rename method (PowerPoint)
 keywords: vbapp10.chm725005
 f1_keywords:
 - vbapp10.chm725005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SectionProperties.Rename
 ms.assetid: b1e7428e-c7ee-04b8-1f09-246fe3e7fe6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SectionProperties.Rename Method (PowerPoint)
+# SectionProperties.Rename method (PowerPoint)
 
 Renames the specified section with the specified name.
 
 
 ## Syntax
 
- _expression_. `Rename`( `_sectionIndex_`, `_sectionName_` )
+_expression_. `Rename`( `_sectionIndex_`, `_sectionName_` )
 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
@@ -42,3 +43,4 @@ If sectionName is empty, the section is assigned the default section name.
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

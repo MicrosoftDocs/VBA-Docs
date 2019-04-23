@@ -1,5 +1,5 @@
 ---
-title: Application.NewWindow Method (Word)
+title: Application.NewWindow method (Word)
 keywords: vbawd10.chm158335321
 f1_keywords:
 - vbawd10.chm158335321
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.NewWindow
 ms.assetid: 0af15be1-7002-bd73-13da-19635d09b034
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.NewWindow Method (Word)
+# Application.NewWindow method (Word)
 
 Opens a new window with the same document as the specified window. Returns a  **Window** object.
 
 
 ## Syntax
 
- _expression_. `NewWindow`
+_expression_. `NewWindow`
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Return value
@@ -68,3 +69,4 @@ Windows.Arrange ArrangeStyle:=wdTiled
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

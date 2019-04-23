@@ -1,5 +1,5 @@
 ---
-title: DataColumn.DisplayName Property (Visio)
+title: DataColumn.DisplayName property (Visio)
 keywords: vis_sdr.chm16760395
 f1_keywords:
 - vis_sdr.chm16760395
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataColumn.DisplayName
 ms.assetid: eddfba36-836b-97c4-2b34-a5a930d85d03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataColumn.DisplayName Property (Visio)
+# DataColumn.DisplayName property (Visio)
 
 Specifies the name that appears for the data column on the tab of the parent data recordset in the  **External Data** window in the Microsoft Visio user interface. Read/write.
 
@@ -21,7 +22,7 @@ Specifies the name that appears for the data column on the tab of the parent dat
 
 ## Syntax
 
- _expression_. `DisplayName`
+_expression_. `DisplayName`
 
  _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
@@ -40,4 +41,4 @@ The value of the  **DisplayName** property corresponds to the value in the Label
 
  **Note**  In some previous versions of Visio, Shape Data were called Custom Properties.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

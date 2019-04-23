@@ -1,5 +1,5 @@
 ---
-title: Document.InlineShapes Property (Word)
+title: Document.InlineShapes property (Word)
 keywords: vbawd10.chm158007364
 f1_keywords:
 - vbawd10.chm158007364
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.InlineShapes
 ms.assetid: 049510b5-cdb3-74e8-783a-4c8fa809b876
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.InlineShapes Property (Word)
+# Document.InlineShapes property (Word)
 
 Returns an  **[InlineShapes](Word.Document.InlineShapes.md)** collection that represents all the **[InlineShape](Word.InlineShape.md)** objects in a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `InlineShapes`
+_expression_. `InlineShapes`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ Msgbox "InlineShape = " & doc.InlineShapes.Count & _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

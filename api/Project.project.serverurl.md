@@ -1,12 +1,13 @@
 ---
-title: Project.ServerURL Property (Project)
+title: Project.ServerURL property (Project)
 ms.prod: project-server
 ms.assetid: 444dd91d-a449-db8c-3863-d85bc6e77ca1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.ServerURL Property (Project)
+# Project.ServerURL property (Project)
 Gets the URL of the Project Web App instance with which Project Professional is connected. For a synchronized SharePoint task list, gets or sets an arbitrary value that has no effect on the project. Read/write  **String**.
 
 ## Version Information
@@ -16,7 +17,7 @@ Version added: Project
 
 ## Syntax
 
- _expression_. `ServerURL`
+_expression_. `ServerURL`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -48,3 +49,5 @@ For an enterprise project that Project Server manages, if you try to set the val
 
 
 [Project Object](Project.Project.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

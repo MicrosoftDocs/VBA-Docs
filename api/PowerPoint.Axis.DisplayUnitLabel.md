@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnitLabel Property (PowerPoint)
+title: Axis.DisplayUnitLabel property (PowerPoint)
 keywords: vbapp10.chm682045
 f1_keywords:
 - vbapp10.chm682045
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.DisplayUnitLabel
 ms.assetid: 75b01ce4-8edd-bbaa-d0fb-2d36c96b4da6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.DisplayUnitLabel Property (PowerPoint)
+# Axis.DisplayUnitLabel property (PowerPoint)
 
 Returns the  **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](PowerPoint.Axis.HasDisplayUnitLabel.md)** property is set to **False**. Read-only.
 
 
 ## Syntax
 
- _expression_. `DisplayUnitLabel`
+_expression_.**DisplayUnitLabel**
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

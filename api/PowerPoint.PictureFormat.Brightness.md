@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Brightness Property (PowerPoint)
+title: PictureFormat.Brightness property (PowerPoint)
 keywords: vbapp10.chm551004
 f1_keywords:
 - vbapp10.chm551004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PictureFormat.Brightness
 ms.assetid: 11c01089-a69a-4ad0-ec01-b8d47a9f63f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Brightness Property (PowerPoint)
+# PictureFormat.Brightness property (PowerPoint)
 
 Returns or sets the brightness of the specified picture or OLE object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Brightness`
+_expression_. `Brightness`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
@@ -35,7 +36,7 @@ The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightes
 
 ## Example
 
-This example sets the brightness for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the brightness for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb
@@ -50,3 +51,4 @@ myDocument.Shapes(1).PictureFormat.Brightness = 0.3
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

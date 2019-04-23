@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicVerticalPosition Property (Visio)
+title: Master.DataGraphicVerticalPosition property (Visio)
 keywords: vis_sdr.chm10760130
 f1_keywords:
 - vis_sdr.chm10760130
@@ -8,12 +8,13 @@ api_name:
 - Visio.Master.DataGraphicVerticalPosition
 ms.assetid: 779f360e-7529-7fe6-87e7-f41cc9334c83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.DataGraphicVerticalPosition Property (Visio)
+# Master.DataGraphicVerticalPosition property (Visio)
 
-Gets or sets the default vertical callout position for members of the  **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic** . Read/write.
+Gets or sets the default vertical callout position for members of the  **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic**. Read/write.
 
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -21,7 +22,7 @@ Gets or sets the default vertical callout position for members of the  **Graphic
 
 ## Syntax
 
- _expression_. `DataGraphicVerticalPosition`
+_expression_. `DataGraphicVerticalPosition`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
@@ -33,7 +34,7 @@ VisGraphicPositionVertical
 
 ## Remarks
 
-The default vertical callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** , commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicVerticalPosition** property. If **GraphicItem.UseDataGraphicPosition** is **True** , the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False** , its vertical position is determined by the settings of the **GraphicItem.VerticalPosition** property.
+The default vertical callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**, commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicVerticalPosition** property. If **GraphicItem.UseDataGraphicPosition** is **True**, the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False**, its vertical position is determined by the settings of the **GraphicItem.VerticalPosition** property.
 
 Note, however, that users can manually re-position a data graphic that was applied to a shape by using the control handle of the data graphic. A position set in this manner takes precedence over the position specified by property settings.
 
@@ -43,7 +44,7 @@ The following possible values for the  **DataGraphicVerticalPosition** property 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicBelow**|0|The top edge of the graphic item's alignment box is aligned with the bottom edge of the shape or container's alignment box.|
 | **visGraphicBottomEdge**|1|The horizontal centerline of the graphic item's alignment box is aligned with the bottom edge of the shape or container's alignment box.|
@@ -56,4 +57,4 @@ The following possible values for the  **DataGraphicVerticalPosition** property 
 > [!NOTE] 
 > Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open for editing a copy of the data graphic master whose **GraphicItems** collection the graphic item belongs to. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

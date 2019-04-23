@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a362a898-f34e-8d75-c2dd-40cac5b95b3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ During remote access (that is, when accessing an object that is part of another 
     
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MenuItems.Item Property (Visio)
+title: MenuItems.Item property (Visio)
 keywords: vis_sdr.chm13013765
 f1_keywords:
 - vis_sdr.chm13013765
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItems.Item
 ms.assetid: 1324184f-5eee-460a-e0a9-7d714a8f561c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItems.Item Property (Visio)
+# MenuItems.Item property (Visio)
 
 Returns a  **MenuItem** object from the **MenuItems** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) collection.
 
@@ -48,4 +49,4 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 objRet = object(index )
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddNext Method (Word)
+title: MailMergeFields.AddNext method (Word)
 keywords: vbawd10.chm153026667
 f1_keywords:
 - vbawd10.chm153026667
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.AddNext
 ms.assetid: c267f484-b9b0-44a0-c519-ca6624057223
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.AddNext Method (Word)
+# MailMergeFields.AddNext method (Word)
 
 Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** object.
 
 
 ## Syntax
 
- _expression_. `AddNext`( `_Range_` )
+_expression_. `AddNext`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Documents("Main.doc").MailMerge.Fields.AddNext _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

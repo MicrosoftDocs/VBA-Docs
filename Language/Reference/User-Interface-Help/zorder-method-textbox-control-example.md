@@ -1,30 +1,24 @@
 ---
-title: ZOrder Method, TextBox Control Example
+title: ZOrder method, TextBox control example
 keywords: fm20.chm5225179
 f1_keywords:
 - fm20.chm5225179
 ms.prod: office
 ms.assetid: 54449312-f49f-20b9-05bb-6d8751d20e04
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ZOrder Method, TextBox Control Example
+# ZOrder method, TextBox control example
 
-The following example sets the z-order of a  **TextBox**, so the user can display the entire **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
+The following example sets the [z-order](zorder-method.md) of a **[TextBox](textbox-control.md)** so that the user can display the entire **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Three  **TextBox** controls named TextBox1 through TextBox3.
+- Three **TextBox** controls named TextBox1 through TextBox3.   
+- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
-- A  **ToggleButton** named ToggleButton1.
-    
-
-
-
 
 ```vb
 Private Sub ToggleButton1_Click() 
@@ -44,7 +38,7 @@ End If
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -81,4 +75,4 @@ ToggleButton1.Height = 50
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle Object (PowerPoint)
+title: ChartTitle object (PowerPoint)
 keywords: vbapp10.chm694000
 f1_keywords:
 - vbapp10.chm694000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ChartTitle
 ms.assetid: 21305a3b-1c77-d420-2156-79083189df03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle Object (PowerPoint)
+# ChartTitle object (PowerPoint)
 
 Represents the chart title.
 
@@ -51,3 +52,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

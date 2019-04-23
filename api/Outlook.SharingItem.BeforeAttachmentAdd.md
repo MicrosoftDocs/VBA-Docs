@@ -1,23 +1,24 @@
 ---
-title: SharingItem.BeforeAttachmentAdd Event (Outlook)
+title: SharingItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentAdd
 ms.assetid: 84c14b49-a410-5e85-159d-b3f24a1dcad9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.BeforeAttachmentAdd Event (Outlook)
+# SharingItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment is added to an instance of the parent object.
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

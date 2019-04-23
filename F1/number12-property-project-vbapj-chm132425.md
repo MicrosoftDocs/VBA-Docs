@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: feefe65b-18be-46df-8d4c-000280fcb8dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [OutlineCode.LinkedFieldID Property (Project)](http://msdn.microsoft.com/library/310202bc-6db7-11b8-d380-af26ef12ad11%28Office.15%29.aspx)
 [Resource.Number12 Property (Project)](http://msdn.microsoft.com/library/bb69b663-b951-719f-8351-bcbdc3e561a1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

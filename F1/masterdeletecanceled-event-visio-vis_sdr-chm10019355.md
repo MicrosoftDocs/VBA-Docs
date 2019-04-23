@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8c45447b-59a0-455c-a208-00f26e552c37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.MasterDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/a62cc5d8-c229-3c73-29f8-a41fb96dd5ea%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

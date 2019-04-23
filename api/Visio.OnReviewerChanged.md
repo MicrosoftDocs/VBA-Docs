@@ -5,6 +5,7 @@ api_name:
 - Visio.OnReviewerChanged
 ms.assetid: a705878b-cb2e-5b5c-01ae-e0fca790c0d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs when the visibility of a particular reviewer's markup (comments) is chang
 
 ## Syntax
 
- _expression_. **OnReviewerChanged**(**_ReviewerIndex_**,  **_ReviewerVisible_**)
+_expression_.**OnReviewerChanged**(**_ReviewerIndex_**,  **_ReviewerVisible_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -68,4 +69,4 @@ Private Sub vsoViewer_OnReviewerChanged(ByVal ReviewerIndex As Long, ByVal Revie
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarDateShading Method (Project)
+title: Application.CalendarDateShading method (Project)
 keywords: vbapj.chm2344
 f1_keywords:
 - vbapj.chm2344
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CalendarDateShading
 ms.assetid: fedb04c6-e9a4-9289-aedd-042f3751e27d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CalendarDateShading Method (Project)
+# Application.CalendarDateShading method (Project)
 
 Determines which calendar is used when determining when and how dates are shaded in the Calendar view.
 
 
 ## Syntax
 
- _expression_. `CalendarDateShading`( ` _BaseCalendarName_`, ` _ResourceUniqueID_`, ` _ProjectIndex_` )
+_expression_. `CalendarDateShading`( `_BaseCalendarName_`, `_ResourceUniqueID_`, `_ProjectIndex_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Determines which calendar is used when determining when and how dates are shaded
 
 When the Calendar view is active, using the  **CalendarDateShading** method with no arguments displays the **Timescale** dialog box with the **Date Shading** tab selected. You must specify either **BaseCalendarName** or **ResourceUniqueID**, but you cannot specify both.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

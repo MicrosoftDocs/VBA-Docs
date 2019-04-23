@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5457a862-fee7-14d1-b9a9-0967cdabec28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,5 @@ If the member is the Design Master, compare the structure of the replica with an
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

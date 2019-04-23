@@ -1,5 +1,5 @@
 ---
-title: ReportItem.GetConversation Method (Outlook)
+title: ReportItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3492
 f1_keywords:
 - vbaol11.chm3492
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ReportItem.GetConversation
 ms.assetid: 1e8d3031-1a14-25b0-997f-ef27c42e2e61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportItem.GetConversation Method (Outlook)
+# ReportItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[ReportItem](Outlook.ReportItem.md)' object.
+_expression_ A variable that represents a '[ReportItem](Outlook.ReportItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

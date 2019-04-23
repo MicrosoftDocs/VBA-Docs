@@ -1,5 +1,5 @@
 ---
-title: PbWizardGroup Enumeration (Publisher)
+title: PbWizardGroup enumeration (Publisher)
 keywords: vbapb10.chm65602
 f1_keywords:
 - vbapb10.chm65602
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbWizardGroup
 ms.assetid: e033ffde-0124-8c46-9ffc-3eefdfcdd436
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbWizardGroup Enumeration (Publisher)
+# PbWizardGroup enumeration (Publisher)
 
 The type of Design Gallery object to add to the publication.
 
@@ -44,7 +45,7 @@ The type of Design Gallery object to add to the publication.
 | **pbWizardGroupJapaneseReplyForms**|137|Japanese Reply Forms|
 | **pbWizardGroupJapaneseSidebars**|143|Japanese Sidebars|
 | **pbWizardGroupJapaneseTableOfContents**|142|Japanese Table Of Contents|
-| **pbWizardGroupJapaneseWebButtonEmail**|182|Japanese Web Button E-mail|
+| **pbWizardGroupJapaneseWebButtonEmail**|182|Japanese Web Button Email|
 | **pbWizardGroupJapaneseWebButtonHome**|183|Japanese Web Button Home|
 | **pbWizardGroupJapaneseWebButtonLink**|184|Japanese Web Button Link|
 | **pbWizardGroupJapaneseWebMastheads**|138|Japanese Web Mastheads|
@@ -62,7 +63,7 @@ The type of Design Gallery object to add to the publication.
 | **pbWizardGroupReplyForms**|79|Reply Forms|
 | **pbWizardGroupSidebars**|107|Sidebars|
 | **pbWizardGroupTableOfContents**|106|Table of Contents|
-| **pbWizardGroupWebButtonsEmail**|133|Web Buttons E-mail|
+| **pbWizardGroupWebButtonsEmail**|133|Web Buttons Email|
 | **pbWizardGroupWebButtonsHome**|134|Web Buttons Home|
 | **pbWizardGroupWebButtonsLink**|136|Web Buttons Link|
 | **pbWizardGroupWebCalendars**|35|Web Calendars|
@@ -71,3 +72,4 @@ The type of Design Gallery object to add to the publication.
 | **pbWizardGroupWebSidebars**|104|Group Web Sidebars|
 | **pbWizardGroupWellPullQuotes**|103|Group Well Pull Quotes|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

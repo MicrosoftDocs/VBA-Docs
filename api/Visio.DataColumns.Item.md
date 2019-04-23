@@ -1,5 +1,5 @@
 ---
-title: DataColumns.Item Property (Visio)
+title: DataColumns.Item property (Visio)
 keywords: vis_sdr.chm16613765
 f1_keywords:
 - vis_sdr.chm16613765
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataColumns.Item
 ms.assetid: c61db4d2-a802-9e02-991e-af0fb9783989
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataColumns.Item Property (Visio)
+# DataColumns.Item property (Visio)
 
 Returns the  **DataColumn** object at the specified index position, or of the specified name, in the **DataColumns** collection. Read-only.
 
@@ -21,7 +22,7 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
 
 ## Syntax
 
- _expression_. `Item`( `_IndexOrName_` )
+_expression_. `Item`( `_IndexOrName_` )
 
  _expression_ A variable that represents a [DataColumns](./Visio.DataColumns.md) object.
 
@@ -56,4 +57,4 @@ objectReturned = expression(Name)
 
  The **DataColumns** collection is indexed starting with 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

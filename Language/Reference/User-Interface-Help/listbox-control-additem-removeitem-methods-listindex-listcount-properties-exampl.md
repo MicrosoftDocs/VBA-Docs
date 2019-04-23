@@ -1,30 +1,24 @@
 ---
-title: ListBox Control, AddItem, RemoveItem Methods, ListIndex, ListCount Properties Example
+title: ListBox control, AddItem, RemoveItem methods, ListIndex, ListCount properties example
 keywords: fm20.chm5225178
 f1_keywords:
 - fm20.chm5225178
 ms.prod: office
 ms.assetid: 70bc2f0c-79a5-89f2-e987-84f673d4bf97
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ListBox Control, AddItem, RemoveItem Methods, ListIndex, ListCount Properties Example
+# ListBox control, AddItem, RemoveItem methods, ListIndex, ListCount properties example
 
-The following example adds and deletes the contents of a  **ListBox** using the **AddItem** and **RemoveItem** methods, and the **ListIndex** and **ListCount** properties.
+The following example adds and deletes the contents of a **[ListBox](listbox-control.md)** using the **[AddItem](additem-method.md)** and **[RemoveItem](removeitem-method.md)** methods, and the **[ListIndex](listindex-property.md)** and **[ListCount](listcount-property.md)** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.   
+- Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
-    
-
-
-
 
 ```vb
 Dim EntryCount As Single 
@@ -35,8 +29,7 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub CommandButton2_Click() 
@@ -52,8 +45,7 @@ Private Sub CommandButton2_Click()
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -63,4 +55,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

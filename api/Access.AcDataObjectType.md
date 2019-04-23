@@ -8,14 +8,15 @@ api_name:
 - Access.AcDataObjectType
 ms.assetid: 0e9f8481-ef01-2415-414a-64788c18e6ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcDataObjectType enumeration (Access)
 
-Used with the  **GoToRecord** method to specify the type of object that contains the record to make current.
+Used with the **GoToRecord** method to specify the type of object that contains the record to make current.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -28,3 +29,4 @@ Used with the  **GoToRecord** method to specify the type of object that contains
 |**acDataStoredProcedure**|9|A stored procedure contains the record (Microsoft Access project only).|
 |**acDataTable**|0|A table contains the record.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

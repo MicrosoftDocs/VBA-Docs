@@ -1,5 +1,5 @@
 ---
-title: TimeLine.InteractiveSequences Property (PowerPoint)
+title: TimeLine.InteractiveSequences property (PowerPoint)
 keywords: vbapp10.chm649004
 f1_keywords:
 - vbapp10.chm649004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TimeLine.InteractiveSequences
 ms.assetid: 6dbd6b26-6715-e66c-747f-12f1a16416c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeLine.InteractiveSequences Property (PowerPoint)
+# TimeLine.InteractiveSequences property (PowerPoint)
 
 Returns a  **[Sequences](PowerPoint.Sequences.md)** object that represents animations that are triggered by click a specified shape.
 
 
 ## Syntax
 
- _expression_. `InteractiveSequences`
+_expression_. `InteractiveSequences`
 
  _expression_ A variable that represents an [TimeLine](./PowerPoint.TimeLine.md) object.
 
@@ -39,7 +40,7 @@ The following example adds an interactive sequence to the first slide and sets t
 
 
 ```vb
-Sub NewInteractiveSeqence()
+Sub NewInteractiveSequence()
 
     Dim seqInteractive As Sequence
     Dim shpText As Shape
@@ -67,3 +68,4 @@ End Sub
 
 [TimeLine Object](PowerPoint.TimeLine.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

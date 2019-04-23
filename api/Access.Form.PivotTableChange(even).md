@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Form.PivotTableChange
 ms.assetid: 8b4a8c9a-c8a3-648d-968d-edcb7cb94956
-ms.date: 06/08/2017
+ms.date: 03/08/2019
+localization_priority: Normal
 ---
 
 
@@ -18,23 +19,20 @@ Occurs whenever the specified PivotTable view field, field set, or total is adde
 
 ## Syntax
 
-_expression_. `PivotTableChange`( ` _Reason_` )
+_expression_.**PivotTableChange** (_Reason_)
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Reason_|Required|**Long**|A  **PivotTableReasonEnum** constant that indicates how the PivotTable list changed.|
+| _Reason_|Required|**Long**|A **PivotTableReasonEnum** constant that indicates how the PivotTable list changed.|
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **PivotTableChange** event.
-
+The following example demonstrates the syntax for a subroutine that traps the **PivotTableChange** event.
 
 ```vb
 Private Sub Form_PivotTableChange(Reason As Long) 
@@ -50,8 +48,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

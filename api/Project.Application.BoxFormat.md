@@ -1,5 +1,5 @@
 ---
-title: Application.BoxFormat Method (Project)
+title: Application.BoxFormat method (Project)
 keywords: vbapj.chm2388
 f1_keywords:
 - vbapj.chm2388
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxFormat
 ms.assetid: bc2c0b19-c030-3063-4842-cf1bb146f73f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxFormat Method (Project)
+# Application.BoxFormat method (Project)
 
 Formats individual boxes in the Network Diagram view (PERT chart).
 
 
 ## Syntax
 
- _expression_. `BoxFormat`( ` _ProjectName_`, ` _TaskID_`, ` _DataTemplate_`, ` _HorizontalGridlines_`, ` _VerticalGridlines_`, ` _BorderShape_`, ` _BorderColor_`, ` _BorderWidth_`, ` _BackgroundColor_`, ` _BackgroundPattern_`, ` _Reset_` )
+_expression_. `BoxFormat`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,7 +51,7 @@ Formats individual boxes in the Network Diagram view (PERT chart).
 
 If  **TaskID** is specified, the associated task cannot be hidden due to application of a filter or a collapsed outline structure.
 
-Using the  **BoxFormat** method without specifying any arguments displays the ** Format Box** dialog box for the selected tasks. If no tasks are selected, the **BoxFormat** method has no effect.
+Using the  **BoxFormat** method without specifying any arguments displays the **Format Box** dialog box for the selected tasks. If no tasks are selected, the **BoxFormat** method has no effect.
 
 Use the  **BoxFormat** method to change the formatting of boxes from their default styles. To define the default styles, use the **BoxStylesEdit** or **BoxStylesEditEx** method.
 
@@ -72,4 +73,4 @@ Sub BoxFormat_Color()
  Backgroundcolor:=pjBlue, BorderColor:=pjRed
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

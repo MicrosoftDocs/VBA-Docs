@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.GetContact Method (Outlook)
+title: AddressEntry.GetContact method (Outlook)
 keywords: vbaol11.chm2055
 f1_keywords:
 - vbaol11.chm2055
@@ -8,24 +8,25 @@ api_name:
 - Outlook.AddressEntry.GetContact
 ms.assetid: 2364f180-475d-aff1-01e8-30a54e870404
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressEntry.GetContact Method (Outlook)
+# AddressEntry.GetContact method (Outlook)
 
-Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** , if the **AddressEntry** corresponds to a contact in an Outlook Contacts Address Book (CAB).
+Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)**, if the **AddressEntry** corresponds to a contact in an Outlook Contacts Address Book (CAB).
 
 
 ## Syntax
 
- _expression_. `GetContact`
+_expression_. `GetContact`
 
- _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Return value
 
-A  **ContactItem** object that corresponds to the **AddressEntry** . Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
+A  **ContactItem** object that corresponds to the **AddressEntry**. Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## See also
@@ -33,3 +34,4 @@ A  **ContactItem** object that corresponds to the **AddressEntry** . Returns **N
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

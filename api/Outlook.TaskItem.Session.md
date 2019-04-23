@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Session Property (Outlook)
+title: TaskItem.Session property (Outlook)
 keywords: vbaol11.chm1684
 f1_keywords:
 - vbaol11.chm1684
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.Session
 ms.assetid: f2c0a916-b654-98de-c134-d9736d482cea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.Session Property (Outlook)
+# TaskItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Label.BorderColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c32a24cb-8cb9-509f-4cb5-8cd753d60f07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the border color of an object. Read/w
 
 ## Syntax
 
- _expression_. **BorderColor**
+_expression_.**BorderColor**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ To use the  **BorderColor** property, the **[BorderStyle](Outlook.label.borderst
 
  **BorderStyle** uses **BorderColor** to define the border colors. The **[SpecialEffect](Outlook.label.specialeffect.md)** property uses system colors exclusively to define its border colors. For Windows operating systems, system color settings are set using the **Display** icon in Control Panel.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

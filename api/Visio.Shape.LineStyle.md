@@ -1,5 +1,5 @@
 ---
-title: Shape.LineStyle Property (Visio)
+title: Shape.LineStyle property (Visio)
 keywords: vis_sdr.chm11213845
 f1_keywords:
 - vis_sdr.chm11213845
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.LineStyle
 ms.assetid: 1d1f2b2e-705d-6547-f6d6-0c5693e426d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LineStyle Property (Visio)
+# Shape.LineStyle property (Visio)
 
 Specifies the line style for an object. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineStyle`
+_expression_.**LineStyle**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -54,4 +55,4 @@ Public Sub LineStyle_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

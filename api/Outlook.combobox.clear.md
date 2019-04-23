@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 9c388fe1-afeb-d5ca-20b7-79a3b47438b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Removes all entries in the list in a  **[ComboBox](Outlook.combobox.md)**.
 
 ## Syntax
 
- _expression_. **Clear**
+_expression_.**Clear**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
 
 If the control is bound to data, the  **Clear** method fails.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

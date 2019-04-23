@@ -1,5 +1,5 @@
 ---
-title: Selection.ReadingModeGrowFont Method (Word)
+title: Selection.ReadingModeGrowFont method (Word)
 keywords: vbawd10.chm158663693
 f1_keywords:
 - vbawd10.chm158663693
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.ReadingModeGrowFont
 ms.assetid: 5a23b50e-073f-1cbd-e1df-6ee846cb1ecf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ReadingModeGrowFont Method (Word)
+# Selection.ReadingModeGrowFont method (Word)
 
 Increases the size of the displayed text one point size when the document is displayed in Reading mode.
 
 
 ## Syntax
 
- _expression_. `ReadingModeGrowFont`
+_expression_. `ReadingModeGrowFont`
 
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
@@ -41,3 +42,4 @@ Use the  **[ReadingModeShrinkFont](Word.Selection.ReadingModeShrinkFont.md)** me
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

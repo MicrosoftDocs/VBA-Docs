@@ -1,5 +1,5 @@
 ---
-title: Application.Message Method (Project)
+title: Application.Message method (Project)
 keywords: vbapj.chm2
 f1_keywords:
 - vbapj.chm2
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.Message
 ms.assetid: d601b101-5338-f404-e63e-6d1ce926a3d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Message Method (Project)
+# Application.Message method (Project)
 
 Displays a message in a message box.
 
 
 ## Syntax
 
- _expression_. `Message`( ` _Message_`, ` _Type_`, ` _YesText_`, ` _NoText_` )
+_expression_. `Message`( `_Message_`, `_Type_`, `_YesText_`, `_NoText_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -43,4 +44,4 @@ Displays a message in a message box.
 
 The  **Message** method provides compatibility with the macro language used in Microsoft Project version 3. _x_. The **MsgBox** method in the VBA library should be used in new macros.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,46 +7,45 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.ColumnWidth
 ms.assetid: ac3f6bd8-22ae-5a3d-2646-2350a7e3be85
-ms.date: 06/08/2017
+ms.date: 02/21/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.ColumnWidth property (Access)
 
-You can use the  **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
+You can use the **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `ColumnWidth`
+_expression_.**ColumnWidth**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-In Visual Basic , the  **ColumnWidth** property setting is an **Integer** value that represents the column width in twips. You can specify a width or use one of the following predefined settings.
+In Visual Basic, the **ColumnWidth** property setting is an **Integer** value that represents the column width in [twips](../language/glossary/vbe-glossary.md#twip). You can specify a width or use one of the following predefined settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|Hides the column.|
-|?1|(Default) Sizes the column to the default width.|
+|1|(Default) Sizes the column to the default width.|
 
- **Note**  The  **ColumnWidth** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-Setting this property to 0, or resizing the field to a zero width in Datasheet view, sets the field's  **ColumnHidden** property to **True** (?1) and hides the field in Datasheet view.
+The **ColumnWidth** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-Setting a field's  **ColumnHidden** property to **False** (0) restores the field's **ColumnWidth** property to the value it had before the field was hidden. For example, if the **ColumnWidth** property was ?1 prior to the field being hidden by setting the property to 0, changing the field's **ColumnHidden** property to **False** resets the **ColumnWidth** to ?1.
+Setting this property to 0, or resizing the field to a zero width in Datasheet view, sets the field's **ColumnHidden** property to **True** (1) and hides the field in Datasheet view.
 
-The  **ColumnWidth** property for a field isn't available when the field's **ColumnHidden** property is set to **True**.
+Setting a field's **ColumnHidden** property to **False** (0) restores the field's **ColumnWidth** property to the value it had before the field was hidden. For example, if the **ColumnWidth** property was 1 prior to the field being hidden by setting the property to 0, changing the field's **ColumnHidden** property to **False** resets the **ColumnWidth** to 1.
+
+The **ColumnWidth** property for a field isn't available when the field's **ColumnHidden** property is set to **True**.
 
 
 ## Example
 
-This example takes effect in Datasheet view of the open Customers form. It sets the row height to 450 twips and sizes the column to fit the size of the visible text.
-
+This example takes effect in Datasheet view of the open **Customers** form. It sets the row height to 450 twips and sizes the column to fit the size of the visible text.
 
 ```vb
 Forms![Customers].RowHeight = 450 
@@ -54,8 +53,5 @@ Forms![Customers]![Address].ColumnWidth = -2
 ```
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f099fe1b-a7ef-473a-982c-ef0997732478
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Workbook.PivotTableCloseConnection Event (Excel)](http://msdn.microsoft.com/library/e267ab5b-382e-b270-18c8-f643e03e4604%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

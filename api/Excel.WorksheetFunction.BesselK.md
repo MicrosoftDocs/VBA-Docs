@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselK Method (Excel)
+title: WorksheetFunction.BesselK method (Excel)
 keywords: vbaxl10.chm137303
 f1_keywords:
 - vbaxl10.chm137303
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.BesselK
 ms.assetid: 9b2eb52e-2b8a-3608-6410-52abccc886b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.BesselK Method (Excel)
+# WorksheetFunction.BesselK method (Excel)
 
 Returns the modified Bessel function, which is equivalent to the Bessel functions evaluated for purely imaginary arguments.
 
 
 ## Syntax
 
- _expression_. `BesselK`( `_Arg1_` , `_Arg2_` )
+_expression_. `BesselK`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

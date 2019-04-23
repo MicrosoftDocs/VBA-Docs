@@ -1,14 +1,15 @@
 ---
-title: WdExportRange Enumeration (Word)
+title: WdExportRange enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdExportRange
 ms.assetid: 45b45e2d-7eb8-897b-9167-9695000e8ebb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdExportRange Enumeration (Word)
+# WdExportRange enumeration (Word)
 
 Specifies how much of the document to export.
 
@@ -21,3 +22,4 @@ Specifies how much of the document to export.
 | **wdExportFromTo**|3|Exports the contents of a range using the starting and ending positions.|
 | **wdExportSelection**|1|Exports the contents of the current selection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

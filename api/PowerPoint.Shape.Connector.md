@@ -1,5 +1,5 @@
 ---
-title: Shape.Connector Property (PowerPoint)
+title: Shape.Connector property (PowerPoint)
 keywords: vbapp10.chm547020
 f1_keywords:
 - vbapp10.chm547020
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Connector
 ms.assetid: 3e8cc3be-30a6-4e4e-32ca-bfd55ae973c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Connector Property (PowerPoint)
+# Shape.Connector property (PowerPoint)
 
 Determines whether the specified shape is a connector. Read-only.
 
 
 ## Syntax
 
- _expression_. `Connector`
+_expression_. `Connector`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -34,14 +35,14 @@ The value of the  **Connector** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not a connector.|
 |**msoTrue**| The specified shape is a connector.|
 
 ## Example
 
-This example deletes all connectors on  `myDocument`.
+This example deletes all connectors on  _myDocument_.
 
 
 ```vb
@@ -68,3 +69,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

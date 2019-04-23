@@ -8,24 +8,25 @@ api_name:
 - Excel.PivotTable.SaveData
 ms.assetid: f8f788cf-b8a2-4694-1a52-f48e00e6471c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.SaveData property (Excel)
 
- **True** if data for the PivotTable report is saved with the workbook. **False** if only the report definition is saved. Read/write **Boolean** .
+ **True** if data for the PivotTable report is saved with the workbook. **False** if only the report definition is saved. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SaveData`
+_expression_. `SaveData`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
 
-For OLAP data sources, this property is always set to  **False** .
+For OLAP data sources, this property is always set to  **False**.
 
 
 ## Example
@@ -44,3 +45,4 @@ pvtTable.SaveData = True
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

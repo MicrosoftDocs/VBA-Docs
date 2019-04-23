@@ -5,6 +5,7 @@ api_name:
 - Visio.ReviewerColor
 ms.assetid: 6ec6b962-fc19-1fec-2482-836ab71ece90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 
 ## Syntax
 
- _expression_. **ReviewerColor**(**_ReviewerIndex_**)
+_expression_.**ReviewerColor**(**_ReviewerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -26,7 +27,7 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reveiwers.|
+|ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
 ## Return value
 
@@ -51,4 +52,4 @@ The following code gets the color of the markup overlay of the reviewer at index
 Debug.Print vsoViewer.ReviewerColor(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

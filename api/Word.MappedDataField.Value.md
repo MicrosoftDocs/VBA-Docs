@@ -1,5 +1,5 @@
 ---
-title: MappedDataField.Value Property (Word)
+title: MappedDataField.Value property (Word)
 keywords: vbawd10.chm107544580
 f1_keywords:
 - vbawd10.chm107544580
@@ -8,19 +8,20 @@ api_name:
 - Word.MappedDataField.Value
 ms.assetid: 08567167-2aa7-ccd0-0eea-30bae7439b6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MappedDataField.Value Property (Word)
+# MappedDataField.Value property (Word)
 
-Returns the contents of the mail merge data field or mapped data field for the current record. Read-only  **String** .
+Returns the contents of the mail merge data field or mapped data field for the current record. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ Required. A variable that represents a '[MappedDataField](Word.MappedDataField.md)' object.
+_expression_ Required. A variable that represents a '[MappedDataField](Word.MappedDataField.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ MsgBox dRecord
 
 [MappedDataField Object](Word.MappedDataField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

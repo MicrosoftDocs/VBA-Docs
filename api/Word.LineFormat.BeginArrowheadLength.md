@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadLength Property (Word)
+title: LineFormat.BeginArrowheadLength property (Word)
 keywords: vbawd10.chm164233317
 f1_keywords:
 - vbawd10.chm164233317
@@ -8,19 +8,20 @@ api_name:
 - Word.LineFormat.BeginArrowheadLength
 ms.assetid: e2bcb274-001e-69a8-35de-009193dcc117
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.BeginArrowheadLength Property (Word)
+# LineFormat.BeginArrowheadLength property (Word)
 
-Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write  **MsoArrowheadLength** .
+Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write  **MsoArrowheadLength**.
 
 
 ## Syntax
 
- _expression_. `BeginArrowheadLength`
+_expression_. `BeginArrowheadLength`
 
- _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
 
 ## Example
@@ -49,3 +50,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

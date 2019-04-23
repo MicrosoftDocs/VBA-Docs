@@ -1,5 +1,5 @@
 ---
-title: Menu.AddOnName Property (Visio)
+title: Menu.AddOnName property (Visio)
 keywords: vis_sdr.chm13113050
 f1_keywords:
 - vis_sdr.chm13113050
@@ -8,17 +8,18 @@ api_name:
 - Visio.Menu.AddOnName
 ms.assetid: fadff930-6e17-8755-d51d-a81dcd153514
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menu.AddOnName Property (Visio)
+# Menu.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated menu is selected. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
@@ -48,4 +49,4 @@ If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** pro
 
  **Note**  Beginning with Visio 2002, the  **AddOnName** property cannot execute a string that contains arbitrary VBA code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move the code to a procedure in a document's VBA project that is called from the **AddOnName** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

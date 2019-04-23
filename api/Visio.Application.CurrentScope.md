@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentScope Property (Visio)
+title: Application.CurrentScope property (Visio)
 keywords: vis_sdr.chm10013340
 f1_keywords:
 - vis_sdr.chm10013340
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.CurrentScope
 ms.assetid: a45fd841-efb4-90b6-65fb-21f9f8e8ea0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CurrentScope Property (Visio)
+# Application.CurrentScope property (Visio)
 
 Determines the ID of the scope that causes an event to fire. Read-only.
 
 
 ## Syntax
 
- _expression_. `CurrentScope`
+_expression_. `CurrentScope`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -106,4 +107,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

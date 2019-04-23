@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomLength Method (Publisher)
+title: CalloutFormat.CustomLength method (Publisher)
 keywords: vbapb10.chm2490386
 f1_keywords:
 - vbapb10.chm2490386
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.CustomLength
 ms.assetid: 855df4af-a02f-fff3-9b12-af886a9788bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.CustomLength Method (Publisher)
+# CalloutFormat.CustomLength method (Publisher)
 
 Specifies that the first segment of the callout line (the segment attached to the text callout box) retain a fixed length whenever the callout is moved.
 
 
 ## Syntax
 
- _expression_. **CustomLength**(**_Length_**)
+_expression_.**CustomLength**(**_Length_**)
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -53,4 +54,4 @@ With ActiveDocument.Pages(1).Shapes(1).Callout
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

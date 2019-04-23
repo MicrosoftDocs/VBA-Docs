@@ -1,5 +1,5 @@
 ---
-title: FileConverter Object (Word)
+title: FileConverter object (Word)
 keywords: vbawd10.chm2457
 f1_keywords:
 - vbawd10.chm2457
@@ -8,10 +8,11 @@ api_name:
 - Word.FileConverter
 ms.assetid: 41af2a9b-75cc-253d-4954-4fb42c88530f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter Object (Word)
+# FileConverter object (Word)
 
 Represents a file converter that's used to open or save files. The  **FileConverter** object is a member of the **FileConverters** collection. The **[FileConverters](Word.fileconverters.md)** collection contains all the installed file converters for opening and saving files.
 
@@ -43,7 +44,7 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.FileConverter.Application.md)|
 |[CanOpen](Word.FileConverter.CanOpen.md)|
@@ -61,4 +62,6 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

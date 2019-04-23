@@ -1,5 +1,5 @@
 ---
-title: Task.Resize Method (Word)
+title: Task.Resize method (Word)
 keywords: vbawd10.chm159514637
 f1_keywords:
 - vbawd10.chm159514637
@@ -8,19 +8,20 @@ api_name:
 - Word.Task.Resize
 ms.assetid: e4176266-c511-3f4c-f22c-ec5617cd41d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Resize Method (Word)
+# Task.Resize method (Word)
 
 Sizes the specified task window.
 
 
 ## Syntax
 
- _expression_. `Resize`( `_Width_` , `_Height_` )
+_expression_.**Resize** (_Width_, _Height_)
 
- _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
+_expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ End If
 
 [Task Object](Word.Task.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

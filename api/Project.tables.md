@@ -1,12 +1,13 @@
 ---
-title: Tables Object (Project)
+title: Tables object (Project)
 ms.prod: project-server
 ms.assetid: 0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tables Object (Project)
+# Tables object (Project)
 
 Contains a collection of  **[Table](Project.Table.md)** objects.
 
@@ -15,7 +16,7 @@ Contains a collection of  **[Table](Project.Table.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Tables.Add.md)|
 |[Copy](./Project.Tables.Copy.md)|
@@ -24,7 +25,7 @@ Contains a collection of  **[Table](Project.Table.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Tables.Application.md)|
 |[Count](./Project.Tables.Count.md)|
@@ -35,3 +36,5 @@ Contains a collection of  **[Table](Project.Table.md)** objects.
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

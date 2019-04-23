@@ -1,5 +1,5 @@
 ---
-title: TextStyle.BaseStyle Property (Publisher)
+title: TextStyle.BaseStyle property (Publisher)
 keywords: vbapb10.chm5963783
 f1_keywords:
 - vbapb10.chm5963783
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyle.BaseStyle
 ms.assetid: c8d1665c-c232-ecdf-3c1c-f614c7374c1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyle.BaseStyle Property (Publisher)
+# TextStyle.BaseStyle property (Publisher)
 
 Returns or sets a  **String** that represents the style upon which the formatting of another style is based. Read/write.
 
 
 ## Syntax
 
- _expression_. **BaseStyle**
+_expression_.**BaseStyle**
 
  _expression_ A variable that represents a  **TextStyle** object.
 
@@ -42,4 +43,4 @@ Sub SetBaseStyle()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

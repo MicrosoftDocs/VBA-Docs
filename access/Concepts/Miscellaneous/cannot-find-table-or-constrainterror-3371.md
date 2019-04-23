@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: ef7f482f-b4b5-8d99-29d5-ccb7402d8183
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The table or relationship you specified does not exist. Specify a valid table or
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

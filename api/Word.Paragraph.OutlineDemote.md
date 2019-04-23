@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OutlineDemote Method (Word)
+title: Paragraph.OutlineDemote method (Word)
 keywords: vbawd10.chm156696903
 f1_keywords:
 - vbawd10.chm156696903
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.OutlineDemote
 ms.assetid: 02e65a97-6334-5205-b69e-a38f7aaeb8fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.OutlineDemote Method (Word)
+# Paragraph.OutlineDemote method (Word)
 
 Applies the next heading level style (Heading 1 through Heading 8) to the specified paragraph or paragraphs.
 
 
 ## Syntax
 
- _expression_. `OutlineDemote`
+_expression_. `OutlineDemote`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ ActiveDocument.Paragraphs(3).OutlineDemote
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

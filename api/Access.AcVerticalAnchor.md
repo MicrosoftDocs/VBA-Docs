@@ -8,14 +8,15 @@ api_name:
 - Access.AcVerticalAnchor
 ms.assetid: 08f16c8b-1566-cfad-795a-cb65a91c4e52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcVerticalAnchor enumeration (Access)
 
-Used with the  **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
+Used with the **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Used with the  **VerticalAnchor** property to specify how a control is anchored 
 |**acVerticalAnchorBottom**|1|The control is anchored at the bottom of its layout.|
 |**acVerticalAnchorTop**|0|The control is anchored at the top of its layout.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

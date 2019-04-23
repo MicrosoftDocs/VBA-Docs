@@ -1,5 +1,5 @@
 ---
-title: MailMerge.SuppressBlankLines Property (Word)
+title: MailMerge.SuppressBlankLines property (Word)
 keywords: vbawd10.chm153092103
 f1_keywords:
 - vbawd10.chm153092103
@@ -8,17 +8,18 @@ api_name:
 - Word.MailMerge.SuppressBlankLines
 ms.assetid: 27faf7f7-5d7b-2377-0775-80ce6d13eb64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.SuppressBlankLines Property (Word)
+# MailMerge.SuppressBlankLines property (Word)
 
- **True** if blank lines are suppressed when mail merge fields in a mail merge main document are empty. Read/write **Boolean** .
+ **True** if blank lines are suppressed when mail merge fields in a mail merge main document are empty. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SuppressBlankLines`
+_expression_. `SuppressBlankLines`
 
  _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

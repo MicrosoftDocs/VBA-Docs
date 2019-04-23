@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Count Property (Publisher)
+title: ObjectVerbs.Count property (Publisher)
 keywords: vbapb10.chm4521987
 f1_keywords:
 - vbapb10.chm4521987
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ObjectVerbs.Count
 ms.assetid: 0d868be0-f46d-d8bb-2af1-47e2d1a3a388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Count Property (Publisher)
+# ObjectVerbs.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents an  **ObjectVerbs** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

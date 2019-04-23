@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultBorderLineStyle Property (Word)
+title: Options.DefaultBorderLineStyle property (Word)
 keywords: vbawd10.chm162988307
 f1_keywords:
 - vbawd10.chm162988307
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DefaultBorderLineStyle
 ms.assetid: 677ffe8a-ca89-fd4e-158e-158bd4c98f0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultBorderLineStyle Property (Word)
+# Options.DefaultBorderLineStyle property (Word)
 
-Returns or sets the default border line style. Read/write  **WdLineStyle** .
+Returns or sets the default border line style. Read/write  **WdLineStyle**.
 
 
 ## Syntax
 
- _expression_. `DefaultBorderLineStyle`
+_expression_. `DefaultBorderLineStyle`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -49,3 +50,4 @@ lngTemp= Options.DefaultBorderLineStyle
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

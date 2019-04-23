@@ -1,5 +1,5 @@
 ---
-title: Presentation.DefaultLanguageID Property (PowerPoint)
+title: Presentation.DefaultLanguageID property (PowerPoint)
 keywords: vbapp10.chm583050
 f1_keywords:
 - vbapp10.chm583050
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.DefaultLanguageID
 ms.assetid: 8568c96c-b997-6a92-e93b-0f3d091383e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.DefaultLanguageID Property (PowerPoint)
+# Presentation.DefaultLanguageID property (PowerPoint)
 
 Returns or sets the default language of a presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultLanguageID`
+_expression_. `DefaultLanguageID`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -230,3 +231,4 @@ ActivePresentation.DefaultLanguageID = msoLanguageIDGerman
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

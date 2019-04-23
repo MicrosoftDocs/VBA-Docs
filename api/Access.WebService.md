@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.WebService
 ms.assetid: d197a825-12da-fd66-7881-7211a59d6bc9
-ms.date: 06/08/2017
+ms.date: 03/21/2019
+localization_priority: Normal
 ---
 
 
@@ -18,22 +19,20 @@ Represents a Data Service data connection.
 
 ## Remarks
 
-Use the [Item](Access.WebServices.Item.md) property of the [WebServices](Access.WebServices.md) collection to return a **WebService** object.
+Use the **[Item](Access.WebServices.Item.md)** property of the **WebServices** collection to return a **WebService** object.
 
-A Data Service data connection may contain one or more entities. Each entity specifies an external content type. Used throughout the functionality and services offered by Business Connectivity Services, external content types are reusable metadata descriptions of connectivity information and data definitions plus the behaviors you want to apply to a certain category of external data. Use the [Entities](Access.WebService.Entities.md) property to return the entities defined for a Data Service data connection.
+A Data Service data connection may contain one or more entities. Each entity specifies an external content type. Used throughout the functionality and services offered by Business Connectivity Services, external content types are reusable metadata descriptions of connectivity information and data definitions plus the behaviors that you want to apply to a certain category of external data. Use the **Entities** property to return the entities defined for a Data Service data connection.
 
 
 ## Properties
 
-
-
-|**Name**|
-|:-----|
-|[Entities](Access.WebService.Entities.md)|
-|[Name](Access.WebService.Name.md)|
-|[Parent](Access.webservice.parent.md)|
+- [Entities](Access.WebService.Entities.md)
+- [Name](Access.WebService.Name.md)
+- [Parent](Access.WebService.Parent.md)
 
 ## See also
 
+- [Access Object Model Reference](overview/Access/object-model.md)
 
-[Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

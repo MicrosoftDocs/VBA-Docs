@@ -1,5 +1,5 @@
 ---
-title: SimpleItems.Session Property (Outlook)
+title: SimpleItems.Session property (Outlook)
 keywords: vbaol11.chm3395
 f1_keywords:
 - vbaol11.chm3395
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SimpleItems.Session
 ms.assetid: 5445d76f-658c-babf-87cf-44efd75a208a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SimpleItems.Session Property (Outlook)
+# SimpleItems.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a '[SimpleItems](Outlook.SimpleItems.md)' object.
+_expression_ A variable that represents a '[SimpleItems](Outlook.SimpleItems.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ Set objSession = Application.Session
 
 [SimpleItems Object](Outlook.SimpleItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

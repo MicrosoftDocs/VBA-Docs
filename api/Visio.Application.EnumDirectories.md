@@ -1,5 +1,5 @@
 ---
-title: Application.EnumDirectories Method (Visio)
+title: Application.EnumDirectories method (Visio)
 keywords: vis_sdr.chm10016255
 f1_keywords:
 - vis_sdr.chm10016255
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.EnumDirectories
 ms.assetid: 71ed7f7f-3428-5c50-2ab9-5452188dcfe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EnumDirectories Method (Visio)
+# Application.EnumDirectories method (Visio)
 
 Returns an array naming the folders Microsoft Visio would search, given a list of paths.
 
 
 ## Syntax
 
- _expression_. `EnumDirectories`( `_PathsString_` , `_NameArray()_` )
+_expression_. `EnumDirectories`( `_PathsString_` , `_NameArray()_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -74,4 +75,4 @@ Public Sub EnumDirectories_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 32ad8b08-dac2-d817-3aa4-025d4bca3abb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You defined (or are attempting to define) more than one version of a [procedure](../../Glossary/vbe-glossary.md#procedure) with the same name. Rename one of the procedures. Ensure duplicate **Declare** statements for the same procedure have the same **Alias** clause.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

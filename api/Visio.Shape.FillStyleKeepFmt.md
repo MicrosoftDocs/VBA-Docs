@@ -1,5 +1,5 @@
 ---
-title: Shape.FillStyleKeepFmt Property (Visio)
+title: Shape.FillStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11213530
 f1_keywords:
 - vis_sdr.chm11213530
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.FillStyleKeepFmt
 ms.assetid: 39fc0329-322e-fd96-2c42-43bdcd170c02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.FillStyleKeepFmt Property (Visio)
+# Shape.FillStyleKeepFmt property (Visio)
 
 Applies a fill style to an object while preserving local formatting. Read/write.
 
 
 ## Syntax
 
- _expression_. `FillStyleKeepFmt`
+_expression_. `FillStyleKeepFmt`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -34,4 +35,4 @@ Setting a style to a nonexistent style generates an error. Setting one type of s
 
 Beginning with Microsoft Visio 2002, setting  **FillStyleKeepFmt** to an empty string ("") causes the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

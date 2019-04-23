@@ -1,5 +1,5 @@
 ---
-title: Shape.Copy Method (Visio)
+title: Shape.Copy method (Visio)
 keywords: vis_sdr.chm11251005
 f1_keywords:
 - vis_sdr.chm11251005
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Copy
 ms.assetid: 2579682b-1dd3-7579-271d-a9994b91a933
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Copy Method (Visio)
+# Shape.Copy method (Visio)
 
 Copies a shape to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Flags_` )
+_expression_.**Copy** (_Flags_)
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -38,11 +39,11 @@ Nothing
 
 ## Remarks
 
-Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes** , and are described in the following table.
+Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes**, and are described in the following table.
 
 
 
-|**Flag**|**Value**|**Description**|
+|**Flag**|Value|Description|
 |:-----|:-----|:-----|
 | **visCopyPasteNormal**|&H0|Follow default copying behavior.|
 | **visCopyPasteNoTranslate**|&H1|Copy shapes to their original coordinate locations.|
@@ -77,4 +78,4 @@ Public Sub Copy_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

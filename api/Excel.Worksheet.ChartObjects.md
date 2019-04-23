@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ChartObjects Method (Excel)
+title: Worksheet.ChartObjects method (Excel)
 keywords: vbaxl10.chm175081
 f1_keywords:
 - vbaxl10.chm175081
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ChartObjects
 ms.assetid: 234cab0e-a8a2-2174-8881-39b5fb37c743
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.ChartObjects Method (Excel)
+# Worksheet.ChartObjects method (Excel)
 
 Returns an object that represents either a single embedded chart (a  **[ChartObject](Excel.ChartObject.md)** object) or a collection of all the embedded charts (a **[ChartObjects](Excel.ChartObjects.md)** object) on the sheet.
 
 
 ## Syntax
 
- _expression_. `ChartObjects`( `_Index_` )
+_expression_. `ChartObjects` (_Index_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -79,3 +80,4 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ffa7794f-2b1b-4d54-a9dd-3b2b0da08654
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PickerFields.Item Property (Office)](http://msdn.microsoft.com/library/f4336206-b8d0-d329-96a5-e9c4c210796f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

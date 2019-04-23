@@ -1,5 +1,5 @@
 ---
-title: Selection.DrawRegion Method (Visio)
+title: Selection.DrawRegion method (Visio)
 keywords: vis_sdr.chm11116225
 f1_keywords:
 - vis_sdr.chm11116225
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.DrawRegion
 ms.assetid: 3c3a04d9-a275-a73e-8325-eadd3cae1999
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.DrawRegion Method (Visio)
+# Selection.DrawRegion method (Visio)
 
 Draws a new shape that represents the region containing a given point.
 
 
 ## Syntax
 
- _expression_. `DrawRegion`( `_Tolerance_` , `_Flags_` , `_x_` , `_y_` , `_ResultsMaster_` )
+_expression_. `DrawRegion`( `_Tolerance_` , `_Flags_` , `_x_` , `_y_` , `_ResultsMaster_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -55,11 +56,11 @@ The  **DrawRegion** method creates a new **Shape** object from pieces of the pat
     
 
 
-The  _Flags_ argument can be one or a combination of the following constants declared by the Visio type library in **VisDrawRegionFlags** .
+The  _Flags_ argument can be one or a combination of the following constants declared by the Visio type library in **VisDrawRegionFlags**.
 
 
 
-|**Name **|**Value**|**Description**|
+|**Name **|Value|Description|
 |:-----|:-----|:-----|
 | **visDrawRegionDeleteInput**|&H4 |Delete items in selection. |
 | **visDrawRegionIgnoreVisible**|&H20 |Exclude visible geometry. |
@@ -72,4 +73,4 @@ If the  **DrawRegion** method is passed a reference to a **Master** object in _R
 
 The new  **Shape** object has no text other than text already in _ResultsMaster_.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

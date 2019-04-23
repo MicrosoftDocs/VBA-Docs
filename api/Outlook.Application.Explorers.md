@@ -1,5 +1,5 @@
 ---
-title: Application.Explorers Property (Outlook)
+title: Application.Explorers property (Outlook)
 keywords: vbaol11.chm720
 f1_keywords:
 - vbaol11.chm720
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.Explorers
 ms.assetid: bbbdbd6e-a238-8108-fbbd-5f7d7821aaa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Explorers Property (Outlook)
+# Application.Explorers property (Outlook)
 
 Returns an  **[Explorers](Outlook.Explorers.md)** collection object that contains the **[Explorer](Outlook.Explorer.md)** objects representing all open explorers. Read-only.
 
 
 ## Syntax
 
- _expression_. `Explorers`
+_expression_. `Explorers`
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Example
@@ -83,3 +84,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

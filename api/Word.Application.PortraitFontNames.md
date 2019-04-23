@@ -1,5 +1,5 @@
 ---
-title: Application.PortraitFontNames Property (Word)
+title: Application.PortraitFontNames property (Word)
 keywords: vbawd10.chm158334989
 f1_keywords:
 - vbawd10.chm158334989
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.PortraitFontNames
 ms.assetid: 21c3802b-43ad-3d8f-34de-af9af4d29bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PortraitFontNames Property (Word)
+# Application.PortraitFontNames property (Word)
 
 Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available portrait fonts.
 
 
 ## Syntax
 
- _expression_. `PortraitFontNames`
+_expression_. `PortraitFontNames`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -45,3 +46,4 @@ Next aFont
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

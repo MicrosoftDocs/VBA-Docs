@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 35b78437-cde0-43e2-b9ee-84eb320582e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.ConstraintDate Property (Project)](http://msdn.microsoft.com/library/6985581b-82a1-6ab2-02ce-94d33e6d0336%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

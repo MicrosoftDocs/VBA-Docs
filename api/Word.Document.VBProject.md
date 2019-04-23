@@ -1,5 +1,5 @@
 ---
-title: Document.VBProject Property (Word)
+title: Document.VBProject property (Word)
 keywords: vbawd10.chm158007395
 f1_keywords:
 - vbawd10.chm158007395
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.VBProject
 ms.assetid: bf9d4c60-8e7a-b076-b20c-0021e9352273
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.VBProject Property (Word)
+# Document.VBProject property (Word)
 
 Returns the  **VBProject** object for the specified template or document.
 
 
 ## Syntax
 
- _expression_. `VBProject`
+_expression_. `VBProject`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ NewModule.Name = "MyModule"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

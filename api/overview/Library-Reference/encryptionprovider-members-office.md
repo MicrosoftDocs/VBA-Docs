@@ -2,7 +2,8 @@
 title: EncryptionProvider members (Office)
 ms.prod: office
 ms.assetid: 48bed5b8-b284-4b52-4143-153ae1c751a4
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Provides the methods for setting up permissions, applying the cryptography of th
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Authenticate](../../Office.EncryptionProvider.Authenticate.md)|Used to determine whether the user has the proper permissions to open the encrypted document.|
 |[CloneSession](../../Office.EncryptionProvider.CloneSession.md)|Creates a second, working copy of the **EncryptionProvider** object's encryption session for a file that is about to be saved.|
@@ -25,3 +26,4 @@ Provides the methods for setting up permissions, applying the cryptography of th
 |[Save](../../Office.EncryptionProvider.Save.md)|Saves an encrypted document.|
 |[ShowSettings](../../Office.EncryptionProvider.ShowSettings.md)|Used to display a dialog of the encryption settings for the current document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.CubeField.LayoutSubtotalLocation
 ms.assetid: b4388c3a-d9e1-47b8-9a4c-f94b29712ff1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # CubeField.LayoutSubtotalLocation property (Excel)
 
-Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)** .
+Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)**.
 
 
 ## Syntax
 
- _expression_. `LayoutSubtotalLocation`
+_expression_. `LayoutSubtotalLocation`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End With
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

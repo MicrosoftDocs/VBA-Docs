@@ -1,5 +1,5 @@
 ---
-title: Table Object (PowerPoint)
+title: Table object (PowerPoint)
 keywords: vbapp10.chm622000
 f1_keywords:
 - vbapp10.chm622000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Table
 ms.assetid: ebbbca9f-4591-10ce-3c74-33b46a3b7cdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table Object (PowerPoint)
+# Table object (PowerPoint)
 
 Represents a table shape on a slide. The  **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](./PowerPoint.Columns.md)** collection and the **[Rows](PowerPoint.Rows.md)** collection.
 
@@ -66,7 +67,7 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyStyle](./PowerPoint.Table.ApplyStyle.md)|
 |[Cell](./PowerPoint.Table.Cell.md)|
@@ -76,7 +77,7 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlternativeText](./PowerPoint.Table.AlternativeText.md)|
 |[Application](./PowerPoint.Table.Application.md)|
@@ -97,4 +98,6 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

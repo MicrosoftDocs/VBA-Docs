@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.AddFromConnectionFile Method (Visio)
+title: DataRecordsets.AddFromConnectionFile method (Visio)
 keywords: vis_sdr.chm16360275
 f1_keywords:
 - vis_sdr.chm16360275
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsets.AddFromConnectionFile
 ms.assetid: 7118bd4d-484b-dc22-e6f8-925376a5a67a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets.AddFromConnectionFile Method (Visio)
+# DataRecordsets.AddFromConnectionFile method (Visio)
 
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection by using the connection and query information contained in an Office Data Connection (ODC) file to connect to and retrieve data from an OLEDB or ODBC data source.
 
@@ -21,7 +22,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 ## Syntax
 
- _expression_. `AddFromConnectionFile`( `_FileName_` , `_AddOptions_` , `_Name_` )
+_expression_. `AddFromConnectionFile`( `_FileName_` , `_AddOptions_` , `_Name_` )
 
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
@@ -33,7 +34,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the ODC connection file to use. |
-| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to be added. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)** . For more information, see Remarks.|
+| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to be added. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)**. For more information, see Remarks.|
 | _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
 
 ## Return value
@@ -51,7 +52,7 @@ The AddOptions parameter can be a combination of one or more of the following va
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the  **External Data** window.|
 | **visDataRecordsetNoRefreshUI**|2|Prevents the data recordset from being included in the refresh operation and displayed in the  **Refresh Data** dialog box.|
@@ -70,7 +71,7 @@ If the  **AddFromConnectionFile** method succeeds, it performs the following act
     
 - Associates a new or existing  **DataConnection** object with the **DataRecordset** object.
     
-- Executes the query string specified in the command string within the ODC file and retreives the resulting data.
+- Executes the query string specified in the command string within the ODC file and retrieves the resulting data.
     
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. 
     
@@ -103,4 +104,4 @@ Public Sub AddFromConnectionFile_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbooks.Close Method (Excel)
+title: Workbooks.Close method (Excel)
 keywords: vbaxl10.chm203074
 f1_keywords:
 - vbaxl10.chm203074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbooks.Close
 ms.assetid: d798166c-6b27-16a1-0b64-8f547978e371
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbooks.Close Method (Excel)
+# Workbooks.Close method (Excel)
 
 Closes the object.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
- _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Workbooks.Close
 
 [Workbooks Object](Excel.Workbooks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

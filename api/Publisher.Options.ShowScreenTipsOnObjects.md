@@ -1,5 +1,5 @@
 ---
-title: Options.ShowScreenTipsOnObjects Property (Publisher)
+title: Options.ShowScreenTipsOnObjects property (Publisher)
 keywords: vbapb10.chm1048608
 f1_keywords:
 - vbapb10.chm1048608
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.ShowScreenTipsOnObjects
 ms.assetid: b5503200-31fd-72ac-de28-ace55a7123b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.ShowScreenTipsOnObjects Property (Publisher)
+# Options.ShowScreenTipsOnObjects property (Publisher)
 
  **True** for Microsoft Publisher to display ScreenTips when the mouse pointer hovers over a text box, shape or other object. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ShowScreenTipsOnObjects**
+_expression_.**ShowScreenTipsOnObjects**
 
  _expression_ A variable that represents a  **Options** object.
 
@@ -39,4 +40,4 @@ Sub DisableScreenTips()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

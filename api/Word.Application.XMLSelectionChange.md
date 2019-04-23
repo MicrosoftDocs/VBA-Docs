@@ -1,5 +1,5 @@
 ---
-title: Application.XMLSelectionChange Event (Word)
+title: Application.XMLSelectionChange event (Word)
 keywords: vbawd10.chm4000025
 f1_keywords:
 - vbawd10.chm4000025
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.XMLSelectionChange
 ms.assetid: a25d4e87-9b29-77b4-ddea-7692a0b56a8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.XMLSelectionChange Event (Word)
+# Application.XMLSelectionChange event (Word)
 
 Occurs when the parent XML node of the current selection changes.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'XMLSelectionChange'(**_Sel_** , **_OldXMLNode_** , **_NewXMLNode_** , **_Reason_**)
+Private Sub  _expression_ _'XMLSelectionChange'(**_Sel_**, **_OldXMLNode_**, **_NewXMLNode_**, **_Reason_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared in a class module by using the **WithEvents** keyword. For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
@@ -60,3 +61,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

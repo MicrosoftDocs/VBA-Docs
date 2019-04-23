@@ -1,17 +1,18 @@
 ---
-title: Shape.Duplicate Method (Project)
+title: Shape.Duplicate method (Project)
 ms.prod: project-server
 ms.assetid: 19917b35-589e-1cd3-e9eb-5efa13e02793
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Duplicate Method (Project)
+# Shape.Duplicate method (Project)
 Duplicates a shape and returns a reference to the copy.
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a 'Shape' object.
 
@@ -61,3 +62,5 @@ End Sub
 
 [Shape Object](Project.shape.md)
 [ShapeRange.Duplicate Method](Project.shaperange.duplicate.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

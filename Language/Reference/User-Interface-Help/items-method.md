@@ -1,5 +1,5 @@
 ---
-title: Items Method
+title: Items method (Visual Basic for Applications)
 keywords: vblr6.chm2181950
 f1_keywords:
 - vblr6.chm2181950
@@ -7,27 +7,24 @@ ms.prod: office
 api_name:
 - Office.Items
 ms.assetid: ba058f8d-d0b1-c93f-95fc-7d2e8744808c
-ms.date: 06/08/2017
+ms.date: 12/14/2018
+localization_priority: Normal
 ---
 
 
-# Items Method
+# Items method
 
-
-
- **Description**
-Returns an array containing all the items in a  **Dictionary** object.
+Returns an array containing all the items in a **[Dictionary](dictionary-object.md)** object.
 
 ## Syntax
 
-_object_. **Items**
-The  _object_ is always the name of a **Dictionary** object.
+_object_.**Items**
+
+The _object_ is always the name of a **Dictionary** object.
 
 ## Remarks
 
-The following code illustrates use of the  **Items** method:
-
-
+The following code illustrates use of the **Items** method:
 
 ```vb
 Dim a, d, i             'Create some variables
@@ -43,4 +40,8 @@ Next
 
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

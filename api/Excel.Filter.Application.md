@@ -8,6 +8,7 @@ api_name:
 - Excel.Filter.Application
 ms.assetid: 92bb8fa0-ba2a-1dd5-c497-8e4a6d351365
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Filter Object](Excel.Filter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

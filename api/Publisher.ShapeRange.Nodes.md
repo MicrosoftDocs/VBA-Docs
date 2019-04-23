@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Nodes Property (Publisher)
+title: ShapeRange.Nodes property (Publisher)
 keywords: vbapb10.chm2293829
 f1_keywords:
 - vbapb10.chm2293829
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Nodes
 ms.assetid: 513be66c-558c-f5f3-ed89-0ef4bc5a0101
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Nodes Property (Publisher)
+# ShapeRange.Nodes property (Publisher)
 
 Returns a  **[ShapeNodes](Publisher.ShapeNodes.md)** collection that represents the geometric description of the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent freeform drawings.
 
 
 ## Syntax
 
- _expression_. **Nodes**
+_expression_.**Nodes**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -36,4 +37,4 @@ With ActiveDocument.Pages(1) _
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DropLines.Format Property (Word)
+title: DropLines.Format property (Word)
 keywords: vbawd10.chm104988677
 f1_keywords:
 - vbawd10.chm104988677
@@ -8,17 +8,18 @@ api_name:
 - Word.DropLines.Format
 ms.assetid: b21d3b20-eb9d-a604-f4e9-1f395f43d44e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropLines.Format Property (Word)
+# DropLines.Format property (Word)
 
-Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
+Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_.**Format**
 
  _expression_ A variable that represents a '[DropLines](Word.DropLines.md)' object.
 
@@ -28,3 +29,4 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 [DropLines Object](Word.DropLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

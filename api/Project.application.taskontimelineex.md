@@ -1,22 +1,23 @@
 ---
-title: Application.TaskOnTimelineEx Method (Project)
+title: Application.TaskOnTimelineEx method (Project)
 keywords: vbapj.chm159
 f1_keywords:
 - vbapj.chm159
 ms.assetid: 4307f842-0ccc-d7ac-f386-ec8d259011c6
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 
-# Application.TaskOnTimelineEx Method (Project)
+# Application.TaskOnTimelineEx method (Project)
 
 Manages tasks on the Timeline pane or for a specified custom timeline, including specifying the bar that you want to add or remove. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `TaskOnTimelineEx`( _TaskID_,  _TaskID_,  _Remove_,  _TimelineViewName_,  _ShowDialog_,  _BarIndex_)
+_expression_. `TaskOnTimelineEx`( _TaskID_,  _TaskID_,  _Remove_,  _TimelineViewName_,  _ShowDialog_,  _BarIndex_)
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
@@ -37,4 +38,4 @@ Manages tasks on the Timeline pane or for a specified custom timeline, including
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e0b9bcc2-2395-44a2-8cb6-2930d00c8005
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DocumentChanged Event (Visio)](http://msdn.microsoft.com/library/bed6b530-8d95-10f1-2239-ae7fa940db76%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

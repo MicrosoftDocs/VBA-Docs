@@ -1,5 +1,5 @@
 ---
-title: Row Object (Word)
+title: Row object (Word)
 keywords: vbawd10.chm2384
 f1_keywords:
 - vbawd10.chm2384
@@ -8,10 +8,11 @@ api_name:
 - Word.Row
 ms.assetid: 38a05858-829a-ea5c-ce63-7f7343bf7b88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row Object (Word)
+# Row object (Word)
 
 Represents a row in a table. The  **Row** object is a member of the **[Rows](Word.rows.md)** collection. The **Rows** collection includes all the rows in the specified selection, range, or table.
 
@@ -58,6 +59,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

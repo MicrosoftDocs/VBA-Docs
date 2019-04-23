@@ -1,21 +1,22 @@
 ---
-title: Resource.GetField Method (Project)
+title: Resource.GetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.GetField
 ms.assetid: 36fbbc13-272e-72f4-ebbe-2c13f67abbe7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.GetField Method (Project)
+# Resource.GetField method (Project)
 
 Returns the value of the specified resource custom field.
 
 
 ## Syntax
 
- _expression_. `GetField`( ` _FieldID_` )
+_expression_. `GetField`( `_FieldID_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -63,4 +64,4 @@ End Sub
 
 For an example that uses an enterprise resource custom field, see the  **[SetField](Project.Resource.SetField.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

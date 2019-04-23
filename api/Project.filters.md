@@ -1,12 +1,13 @@
 ---
-title: Filters Object (Project)
+title: Filters object (Project)
 ms.prod: project-server
 ms.assetid: 13b58540-decc-17c5-6de6-bbb8e05eb6d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Filters Object (Project)
+# Filters object (Project)
 
 Contains a collection of  **[Filter](Project.Filter.md)** objects.
  
@@ -34,7 +35,7 @@ ActiveProject.TaskFilters("Critical").Apply
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](Project.Filters.Copy.md)|
 
@@ -42,7 +43,7 @@ ActiveProject.TaskFilters("Critical").Apply
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Filters.Application.md)|
 |[Count](Project.Filters.Count.md)|
@@ -54,3 +55,5 @@ ActiveProject.TaskFilters("Critical").Apply
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

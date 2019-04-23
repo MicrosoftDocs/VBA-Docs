@@ -3,6 +3,7 @@ title: A property or method call cannot include a reference to a private object,
 ms.prod: office
 ms.assetid: 1f4e72f6-1972-4337-a56a-adc366264954
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Private objects should never be passed outside a project. The following, all of 
 Note that although Visual Basic prevents you from passing references to nonvisual private objects across processes, there are some cases in which Visual Basic can't detect this error and thus can't prevent it. Private objects are not designed to be used outside your project. If you pass them to a client, you may jeopardize program stability and cause incompatibility with future versions of Visual Basic. If you need to pass a private class of your own to a client, set the  **Instancing** property to a value other than **Private**.
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

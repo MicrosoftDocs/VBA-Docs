@@ -1,5 +1,5 @@
 ---
-title: Cell.Select Method (PowerPoint)
+title: Cell.Select method (PowerPoint)
 keywords: vbapp10.chm628007
 f1_keywords:
 - vbapp10.chm628007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Cell.Select
 ms.assetid: 8eef42ab-b3d1-5460-95bb-f14cbce9f434
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Select Method (PowerPoint)
+# Cell.Select method (PowerPoint)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. `Select`
+_expression_.**Select**
 
- _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
+_expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Remarks
@@ -66,3 +67,4 @@ End With
 
 [Cell Object](PowerPoint.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

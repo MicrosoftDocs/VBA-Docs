@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Parent Property (Publisher)
+title: OLEFormat.Parent property (Publisher)
 keywords: vbapb10.chm4456450
 f1_keywords:
 - vbapb10.chm4456450
@@ -8,17 +8,18 @@ api_name:
 - Publisher.OLEFormat.Parent
 ms.assetid: 2ac5f8d6-336a-e8ce-cfa0-460955ed62e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Parent Property (Publisher)
+# OLEFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

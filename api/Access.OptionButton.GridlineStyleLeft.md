@@ -7,35 +7,38 @@ ms.prod: access
 api_name:
 - Access.OptionButton.GridlineStyleLeft
 ms.assetid: 075ad462-4004-0e2c-e1af-dd79de4a9a1d
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # OptionButton.GridlineStyleLeft property (Access)
 
-Gets or sets the width of the bottom gridline for the specified option button. Read/write  **Byte**.
-
+Gets or sets the left gridline style of the specified option button. Read/write **Byte**.
 
 ## Syntax
 
-_expression_. `GridlineStyleLeft`
+_expression_.**GridlineStyleLeft**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineStyleLeft** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Gridline type|
 |:-----|:-----|
-|0| Hairline. This is the narrowest border possible on your system.|
-|1 to 6|The width as indicated in points. The default setting is 1 point.|
+|0 (default)|Transparent|
+|1|Solid|
+|2|Dashes|
+|3|Short dashes|
+|4|Dots|
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
-## See also
 
 
-[OptionButton Object](Access.OptionButton.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
 

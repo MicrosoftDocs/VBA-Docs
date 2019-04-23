@@ -1,31 +1,32 @@
 ---
-title: CommandBarComboBox.Execute Method (Office)
+title: CommandBarComboBox.Execute method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Execute
 ms.assetid: 13ec7924-2420-c0c0-750f-4dae8b8e1503
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarComboBox.Execute Method (Office)
+# CommandBarComboBox.Execute method (Office)
 
-Runs the procedure or built-in command assigned to the specified  **CommandBarComboBox** control.
+Runs the procedure or built-in command assigned to the specified **CommandBarComboBox** control.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Execute`
+_expression_.**Execute**
 
- _expression_ Required. A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
+_expression_ Required. A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Example
 
-This Microsoft Excel example creates a command bar and then adds a built-in command bar button control to it. The button executes the Excel  **AutoSum** function. This example uses the **Execute** method to total the selected range of cells when the command bar appears.
+This Microsoft Excel example creates a command bar and then adds a built-in command bar button control to it. The button executes the Excel **AutoSum** function. This example uses the **Execute** method to total the selected range of cells when the command bar appears.
 
 
 ```vb
@@ -42,10 +43,6 @@ ctlAutoSum.Execute
 
 ## See also
 
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
 
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

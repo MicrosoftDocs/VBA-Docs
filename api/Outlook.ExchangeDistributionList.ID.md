@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.ID Property (Outlook)
+title: ExchangeDistributionList.ID property (Outlook)
 keywords: vbaol11.chm2114
 f1_keywords:
 - vbaol11.chm2114
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeDistributionList.ID
 ms.assetid: 20ace2a3-7475-9b81-a55c-92a1b28e8c18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.ID Property (Outlook)
+# ExchangeDistributionList.ID property (Outlook)
 
-Returns a  **String** representing the unique identifier for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** . Read-only.
+Returns a  **String** representing the unique identifier for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Returns a  **String** representing the unique identifier for the **[ExchangeDist
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.StyleAreaWidth Property (Word)
+title: Window.StyleAreaWidth property (Word)
 keywords: vbawd10.chm157417493
 f1_keywords:
 - vbawd10.chm157417493
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.StyleAreaWidth
 ms.assetid: 2256deb8-1682-3c09-ac64-0557185c3d39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.StyleAreaWidth Property (Word)
+# Window.StyleAreaWidth property (Word)
 
-Returns or sets the width of the style area in points. Read/write  **Single** .
+Returns or sets the width of the style area in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `StyleAreaWidth`
+_expression_. `StyleAreaWidth`
 
  _expression_ An expression that returns a '[Window](Word.Window.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

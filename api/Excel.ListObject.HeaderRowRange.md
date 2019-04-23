@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.HeaderRowRange
 ms.assetid: af7ca1d5-f72f-f369-9946-c64eb0cf9da0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListObject.HeaderRowRange property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the range of the header row for a list. Read-only **Range** .
+Returns a  **[Range](Excel.Range(object).md)** object that represents the range of the header row for a list. Read-only **Range**.
 
 
 ## Syntax
 
- _expression_. `HeaderRowRange`
+_expression_. `HeaderRowRange`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example
@@ -48,3 +49,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,34 +1,35 @@
 ---
-title: Application.OpenThemeFile Method (PowerPoint)
+title: Application.OpenThemeFile method (PowerPoint)
 keywords: vbapp10.chm502070
 f1_keywords:
 - vbapp10.chm502070
 ms.assetid: b34d5a6f-8cf8-ce6a-3c0c-c1ed43c413c6
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Application.OpenThemeFile Method (PowerPoint)
+# Application.OpenThemeFile method (PowerPoint)
 
 Opens the specified theme file (*thmx).
 
 
 ## Syntax
 
- _expression_. `OpenThemeFile`_(themeFileName)_
+_expression_. `OpenThemeFile`_(themeFileName)_
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _themeFileName_|Required|**String**|The path of the theme file (*.thmx) to open.|
-| _themeFileName_|Required|STRING||
+| _themeFileName_|Required|**String**||
 
 ## Return value
 
@@ -62,4 +63,4 @@ Sub ChangeThemeVariant()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

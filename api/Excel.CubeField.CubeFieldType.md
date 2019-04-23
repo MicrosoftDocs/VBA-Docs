@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.CubeFieldType
 ms.assetid: 86847717-2906-6f92-36f4-668f932d2237
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Indicates whether the OLAP cube field is a hierarchy field or a measure field. C
 
 ## Syntax
 
- _expression_. `CubeFieldType`
+_expression_. `CubeFieldType`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Example
@@ -46,3 +47,4 @@ Next objCubeFld
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

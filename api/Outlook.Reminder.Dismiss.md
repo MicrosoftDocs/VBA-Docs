@@ -1,5 +1,5 @@
 ---
-title: Reminder.Dismiss Method (Outlook)
+title: Reminder.Dismiss method (Outlook)
 keywords: vbaol11.chm558
 f1_keywords:
 - vbaol11.chm558
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Reminder.Dismiss
 ms.assetid: cc757453-5eab-4e9f-5dd2-2b7620506d11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminder.Dismiss Method (Outlook)
+# Reminder.Dismiss method (Outlook)
 
 Dismisses the current reminder.
 
 
 ## Syntax
 
- _expression_. `Dismiss`
+_expression_. `Dismiss`
 
- _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ The  **Dismiss** method will fail if there is no visible reminder.
 
 ## Example
 
-The following example dismisses all active reminders. A reminder is active if its  **[IsVisible](Outlook.Reminder.IsVisible.md)** property is set to **True** .
+The following example dismisses all active reminders. A reminder is active if its  **[IsVisible](Outlook.Reminder.IsVisible.md)** property is set to **True**.
 
 
 ```vb
@@ -77,3 +78,4 @@ End Sub
 
 [Reminder Object](Outlook.Reminder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

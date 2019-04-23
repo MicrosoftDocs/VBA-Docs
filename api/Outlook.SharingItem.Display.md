@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Display Method (Outlook)
+title: SharingItem.Display method (Outlook)
 keywords: vbaol11.chm626
 f1_keywords:
 - vbaol11.chm626
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.Display
 ms.assetid: f243424e-06d7-8953-a19d-13f4f44dcabe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.Display Method (Outlook)
+# SharingItem.Display method (Outlook)
 
-Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingItem](Outlook.SharingItem.md)** .
+Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingI
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

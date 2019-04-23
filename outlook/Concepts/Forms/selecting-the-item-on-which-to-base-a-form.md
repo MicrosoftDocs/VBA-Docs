@@ -3,6 +3,7 @@ title: Selecting the Item on Which to Base a Form
 ms.prod: outlook
 ms.assetid: c5d69afb-adf3-bd9c-d9fb-da1ed16d2244
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,13 +16,14 @@ Each Microsoft Outlook item is a collection of fields. These collections of fiel
 |**Form**|**What the form is used for**|
 |:-----|:-----|
 |Contact|Keeping track of information about a person or organization.|
-|Distribution List|Creating a list of contacts and e-mail addresses that can be used as a single e-mail address.|
+|Distribution List|Creating a list of contacts and email addresses that can be used as a single email address.|
 |Task|Tracking information about a task.|
 |Message|Sending information to someone in a specific format, or providing a means to enter data so that it can be shared electronically. |
 |Post|Facilitating a threaded conversation that is saved in a folder, or for attaching files to a folder.|
 |Appointment|Representing a meeting or scheduled event.|
 |Journal Entry|Logging information about an item or event.|
 |Meeting Request|Sending specifically formatted meeting requests and requesting a response.|
-|Task Request|Sending information about a task to others and requestiong a response.|
+|Task Request|Sending information about a task to others and requesting a response.|
 |RSS Article|Representing a blog post or other item from an RSS feed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

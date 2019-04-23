@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFilter.Active
 ms.assetid: 9fdbab3b-96e1-d821-5dc3-77a8a02c850a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotFilter.Active property (Excel)
 
-Returns whether the specified PivotFilter is active. Read-only  **Boolean** .
+Returns whether the specified PivotFilter is active. Read-only  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_.**Active**
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property returns **True** when the PivotField of the filter is in the Pivot
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

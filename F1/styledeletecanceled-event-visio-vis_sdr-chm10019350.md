@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 061a8727-9986-4cc7-9854-e3ea4b2fad85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.StyleDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/c5d2960f-1fd2-0371-93c0-566ab541dc97%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

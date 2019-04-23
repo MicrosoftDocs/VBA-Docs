@@ -1,5 +1,5 @@
 ---
-title: Application.DontResetInsertionPointProperties Property (Word)
+title: Application.DontResetInsertionPointProperties property (Word)
 keywords: vbawd10.chm158335456
 f1_keywords:
 - vbawd10.chm158335456
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DontResetInsertionPointProperties
 ms.assetid: 3e6dfd03-9ab9-43c2-378c-0d97c69e14b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DontResetInsertionPointProperties Property (Word)
+# Application.DontResetInsertionPointProperties property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word maintains the formatting properties of the text at that position of the Insertion Point after running other code. Read/write.
 
 
 ## Syntax
 
- _expression_. `DontResetInsertionPointProperties`
+_expression_. `DontResetInsertionPointProperties`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -36,3 +37,4 @@ In some cases, Word loses the formatting at the Insertion Point after running ot
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

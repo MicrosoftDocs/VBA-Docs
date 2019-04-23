@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineFormat Method (Project)
+title: Application.TimelineFormat method (Project)
 keywords: vbapj.chm64
 f1_keywords:
 - vbapj.chm64
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TimelineFormat
 ms.assetid: 96f936a1-15be-8df4-4683-cd876c8a69ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TimelineFormat Method (Project)
+# Application.TimelineFormat method (Project)
 
 Formats the  **Timeline** view to specify the number of text lines in timeline tasks and whether to show or hide details.
 
 
 ## Syntax
 
- _expression_. `TimelineFormat`( ` _NumLines_`, ` _Minimized_` )
+_expression_. `TimelineFormat`( `_NumLines_`, `_Minimized_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sub FormatTimeline()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

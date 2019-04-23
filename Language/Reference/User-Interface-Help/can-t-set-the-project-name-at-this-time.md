@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b4b76831-1f5e-517b-b33f-487b7b906733
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The [project](../../Glossary/vbe-glossary.md#project) name can't be set at this time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

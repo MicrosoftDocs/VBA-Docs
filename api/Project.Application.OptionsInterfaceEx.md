@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsInterfaceEx Method (Project)
+title: Application.OptionsInterfaceEx method (Project)
 keywords: vbapj.chm651
 f1_keywords:
 - vbapj.chm651
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.OptionsInterfaceEx
 ms.assetid: da4dc69c-021f-7ecb-22f6-aebf1d9252dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OptionsInterfaceEx Method (Project)
+# Application.OptionsInterfaceEx method (Project)
 
 Sets some display options and Project Guide options.
 
 
 ## Syntax
 
- _expression_. `OptionsInterfaceEx`( ` _ShowResourceAssignmentIndicators_`, ` _ShowEditToStartFinishDates_`, ` _ShowEditsToWorkUnitsDurationIndicators_`, ` _ShowDeletionInNameColumn_`, ` _DisplayProjectGuide_`, ` _ProjectGuideUseDefaultFunctionalLayoutPage_`, ` _ProjectGuideFunctionalLayoutPage_`, ` _ProjectGuideUseDefaultContent_`, ` _ProjectGuideContent_`, ` _SetAsDefaults_`, ` _UseOMIDs_` )
+_expression_. `OptionsInterfaceEx`( `_ShowResourceAssignmentIndicators_`, `_ShowEditToStartFinishDates_`, `_ShowEditsToWorkUnitsDurationIndicators_`, `_ShowDeletionInNameColumn_`, `_DisplayProjectGuide_`, `_ProjectGuideUseDefaultFunctionalLayoutPage_`, `_ProjectGuideFunctionalLayoutPage_`, `_ProjectGuideUseDefaultContent_`, `_ProjectGuideContent_`, `_SetAsDefaults_`, `_UseOMIDs_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ If an argument is omitted, the default value is specified by the setting on the 
 
 Using the  **OptionsInterfaceEx** method with no arguments displays the **Project Options** dialog box with the **General** tab selected. The **OptionsInterfaceEx** method is not available when a report view is active.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

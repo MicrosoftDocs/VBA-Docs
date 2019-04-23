@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: c20e0a78-113e-254f-428f-0dc1bdc817c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -63,4 +64,4 @@ SolverSolve userFinish:=False
 SolverSave saveArea:=Range("A33")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

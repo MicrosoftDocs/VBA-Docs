@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.PressedThemeColorIndex
 ms.assetid: 85609290-6641-001c-7bc2-0f14443b326f
-ms.date: 06/08/2017
+ms.date: 03/05/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.PressedThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **PressedColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **PressedColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `PressedThemeColorIndex`
+_expression_.**PressedThemeColorIndex**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The  **PressedThemeColorIndex** uses one of the values listed in the following table.
+The **PressedThemeColorIndex** uses one of the values listed in the following table.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1 |Background 1|
@@ -44,13 +43,10 @@ The  **PressedThemeColorIndex** uses one of the values listed in the following t
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **PressedThemeColorIndex** property contains -1.
+If no theme is applied, the **PressedThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

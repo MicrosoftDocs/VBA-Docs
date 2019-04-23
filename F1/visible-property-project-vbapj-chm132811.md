@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8b5c6002-4f52-4dc9-952c-b2002ccc655b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Window.Visible Property (Project)](http://msdn.microsoft.com/library/470b7c57-3a5c-73da-d584-d757e6071001%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 313f3b77-23ae-3079-cc61-dd0c03a58480
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,4 +38,4 @@ A version of Visio that supports the Visio Drawing Control must be installed on 
 
 To obtain support for issues that you encounter while integrating the Visio Drawing Control into your application, contact Microsoft Product Support Services. For contact information, see the documentation that comes with the Visio product.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

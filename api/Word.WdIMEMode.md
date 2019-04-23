@@ -1,14 +1,15 @@
 ---
-title: WdIMEMode Enumeration (Word)
+title: WdIMEMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdIMEMode
 ms.assetid: c163ecb3-6876-3fa2-10db-a06d6803154b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdIMEMode Enumeration (Word)
+# WdIMEMode enumeration (Word)
 
 Specifies the default start-up mode for the Japanese Input Method Editor (IME).
 
@@ -27,3 +28,4 @@ Specifies the default start-up mode for the Japanese Input Method Editor (IME).
 | **wdIMEModeOff**|2|Disables the IME and activates Latin text entry.|
 | **wdIMEModeOn**|1|Activates the IME.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

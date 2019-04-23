@@ -1,5 +1,5 @@
 ---
-title: Action.Execute Method (Outlook)
+title: Action.Execute method (Outlook)
 keywords: vbaol11.chm23
 f1_keywords:
 - vbaol11.chm23
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Action.Execute
 ms.assetid: 29dd0c5c-ed5f-b2cc-45b0-1c8c348239bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Action.Execute Method (Outlook)
+# Action.Execute method (Outlook)
 
 Executes the action for the specified item.
 
 
 ## Syntax
 
- _expression_. `Execute`
+_expression_. `Execute`
 
- _expression_ An expression that returns a [Action](./Outlook.Action.md) object.
+ _expression_ An expression that returns a [Action](Outlook.Action.md) object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ An  **Object** value that represents the Outlook item created by the action upon
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Execute** method to look through all the actions for the given e-mail message and executes the action called "Reply."
+This Visual Basic for Applications (VBA) example uses the  **Execute** method to look through all the actions for the given email message and executes the action called "Reply."
 
 
 ```vb
@@ -81,3 +82,4 @@ End Sub
 
 [Action Object](Outlook.Action.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

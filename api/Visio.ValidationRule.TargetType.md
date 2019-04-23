@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.TargetType Property (Visio)
+title: ValidationRule.TargetType property (Visio)
 keywords: vis_sdr.chm18462660
 f1_keywords:
 - vis_sdr.chm18462660
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRule.TargetType
 ms.assetid: 818e47b6-7832-e9a3-9e29-34bd50d466b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRule.TargetType Property (Visio)
+# ValidationRule.TargetType property (Visio)
 
 Determines the type of object to which the validation rule applies. Read/write.
 
 
 ## Syntax
 
- _expression_. `TargetType`
+_expression_. `TargetType`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
@@ -34,7 +35,7 @@ Valid validation-rule targets include documents, pages, and shapes. The  **Targe
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRuleTargetShape**|0|The rule applies to shapes in the document.|
 | **visRuleTargetPage**|1|The rule applies to pages in the document.|
@@ -53,4 +54,4 @@ Set vsoValidationRule = vsoValidationRuleSet.Rules.Add("Unglued2DShape")
 vsoValidationRule.TargetType = Visio.VisRuleTargets.visRuleTargetShape
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

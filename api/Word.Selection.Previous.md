@@ -1,5 +1,5 @@
 ---
-title: Selection.Previous Method (Word)
+title: Selection.Previous method (Word)
 keywords: vbawd10.chm158662762
 f1_keywords:
 - vbawd10.chm158662762
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Previous
 ms.assetid: 85679323-fe2c-f37a-5373-2c9e6d8494eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Previous Method (Word)
+# Selection.Previous method (Word)
 
 Moves the selected text by the specified number of units, and returns a  **Range** object relative to the collapsed selection.
 
 
 ## Syntax
 
- _expression_. `Previous`( `_Unit_` , `_Count_` )
+_expression_.**Previous** (_Unit_, _Count_)
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Selection.Previous(Unit:=wdWord, Count:=1).Select
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

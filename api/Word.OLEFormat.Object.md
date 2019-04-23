@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Object Property (Word)
+title: OLEFormat.Object property (Word)
 keywords: vbawd10.chm154337294
 f1_keywords:
 - vbawd10.chm154337294
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.Object
 ms.assetid: 6f6a1c22-487a-d125-a759-43e9d659eaba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Object Property (Word)
+# OLEFormat.Object property (Word)
 
 Returns an  **Object** that represents the specified OLE object's top-level interface. .
 
 
 ## Syntax
 
- _expression_. `Object`
+_expression_.**Object**
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -66,3 +67,4 @@ End With
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

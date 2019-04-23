@@ -1,5 +1,5 @@
 ---
-title: OlDownloadState Enumeration (Outlook)
+title: OlDownloadState enumeration (Outlook)
 keywords: vbaol11.chm3093
 f1_keywords:
 - vbaol11.chm3093
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlDownloadState
 ms.assetid: ff5e00db-ad06-ddf1-6e3a-536c0ae4ef34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlDownloadState Enumeration (Outlook)
+# OlDownloadState enumeration (Outlook)
 
 Indicates the download state.
 
@@ -26,4 +27,4 @@ Indicates the download state.
 
 Used by the  **DownLoadState** property of an item to indicate the download state.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

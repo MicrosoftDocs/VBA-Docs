@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.DisplayHeadings
 ms.assetid: 7105f3a4-2322-c796-5ca6-59ea46d2e248
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.DisplayHeadings property (Excel)
 
- **True** if both row and column headings are displayed; **False** if no headings are displayed. Read/write **Boolean** .
+ **True** if both row and column headings are displayed; **False** if no headings are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayHeadings`
+_expression_. `DisplayHeadings`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ ActiveWindow.DisplayHeadings = False
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

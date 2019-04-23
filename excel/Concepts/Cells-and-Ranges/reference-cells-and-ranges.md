@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: a16caa8d-21c9-ff33-347b-ce671248a92d
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 
@@ -25,7 +26,6 @@ A **Range** object in Visual Basic can be either a single cell or a range of cel
 - [Refer to cells relative to other cells](refer-to-cells-relative-to-other-cells.md) 
 - [Refer to multiple ranges](refer-to-multiple-ranges.md)
 - [Refer to named ranges](refer-to-named-ranges.md) 
-- [Refer to rows and columns](refer-to-rows-and-columns.md) 
+- [Refer to rows and columns](refer-to-rows-and-columns.md)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

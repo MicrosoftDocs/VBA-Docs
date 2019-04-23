@@ -7,24 +7,24 @@ ms.prod: access
 api_name:
 - Access.TempVars.Parent
 ms.assetid: 0dfb9feb-54ef-e15d-2569-1261f2ae3358
-ms.date: 06/08/2017
+ms.date: 02/23/2019
+localization_priority: Normal
 ---
 
 
 # TempVars.Parent property (Access)
 
-Returns the parent object for the specified object. Read-only  **Object**.
+Returns the parent object for the specified object. Read-only **Object**.
 
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[TempVars](Access.TempVars.md)** object.
 
 
-[TempVars Collection](Access.TempVars.md)
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousField Method (Word)
+title: Selection.PreviousField method (Word)
 keywords: vbawd10.chm158662833
 f1_keywords:
 - vbawd10.chm158662833
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.PreviousField
 ms.assetid: 9361a318-9ee2-fd72-9d52-106abfd8d44e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.PreviousField Method (Word)
+# Selection.PreviousField method (Word)
 
 Selects and returns the previous field.
 
 
 ## Syntax
 
- _expression_. `PreviousField`
+_expression_. `PreviousField`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Field
 
 ## Remarks
 
- If this method finds a field, it returns a **Field** object; if not, it returns **Nothing** .
+ If this method finds a field, it returns a **Field** object; if not, it returns **Nothing**.
 
 
 ## Example
@@ -60,3 +61,4 @@ If Not (myField Is Nothing) Then StatusBar = "Field found"
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

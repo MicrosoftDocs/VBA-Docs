@@ -1,15 +1,16 @@
 ---
-title: PreviewPane Object (Outlook)
+title: PreviewPane object (Outlook)
 keywords: vbaol11.chm3638
 f1_keywords:
 - vbaol11.chm3638
 ms.assetid: fd4f497b-7085-6e0f-018b-17845f4dfe61
 ms.date: 06/08/2017
 ms.prod: outlook
+localization_priority: Normal
 ---
 
 
-# PreviewPane Object (Outlook)
+# PreviewPane object (Outlook)
 
 Displays content in a "single pane mode" by showing only the Preview Pane view. 
 
@@ -17,5 +18,7 @@ Microsoft Outlook utilizes responsive design by enabling this auto-resizing feat
 
 ## See also
 
-- [PreviewPane Members (Outlook)](./overview/Outlook.md)
-- [Object model (Outlook)](./overview/Outlook/object-model.md)
+- [PreviewPane Members (Outlook)](overview/Outlook.md)
+- [Object model (Outlook)](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

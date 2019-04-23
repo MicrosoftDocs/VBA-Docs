@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Parent Property (PowerPoint)
+title: PageSetup.Parent property (PowerPoint)
 keywords: vbapp10.chm527002
 f1_keywords:
 - vbapp10.chm527002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PageSetup.Parent
 ms.assetid: 58f34a76-6ae8-c861-f4e7-0290931fb736
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.Parent Property (PowerPoint)
+# PageSetup.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [PageSetup Object](PowerPoint.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

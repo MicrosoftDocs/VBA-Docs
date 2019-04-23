@@ -3,6 +3,7 @@ title: ListBox.IMEMode Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c4e863d8-a581-2c45-92cc-1f6304692f76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the default run-time mode of the 
 
 ## Syntax
 
- _expression_. **IMEMode**
+_expression_.**IMEMode**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -26,7 +27,7 @@ The settings for fmIMEMode are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Does not control IME (default).|
 |1|IME on.|
@@ -42,4 +43,4 @@ The settings for fmIMEMode are:
 
 A setting of 0 indicates that the mode of the IME does not change when the control receives focus at run time. For any other value, the mode of the IME is set to the value specified by the  **IMEMode** property when the control receives focus at run time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

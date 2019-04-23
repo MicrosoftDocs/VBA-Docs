@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
+title: ThreeDFormat.PresetThreeDFormat property (PowerPoint)
 keywords: vbapp10.chm557015
 f1_keywords:
 - vbapp10.chm557015
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.PresetThreeDFormat
 ms.assetid: fcae7d2f-4d6d-6dfd-1693-fa46a85d1df2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
+# ThreeDFormat.PresetThreeDFormat property (PowerPoint)
 
 Returns the preset extrusion format. Read-only.
 
 
 ## Syntax
 
- _expression_. `PresetThreeDFormat`
+_expression_. `PresetThreeDFormat`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -32,7 +33,7 @@ MsoPresetThreeDFormat
 
 This property is read-only. To set the preset extrusion format, use the  **[SetThreeDFormat](PowerPoint.ThreeDFormat.SetThreeDFormat.md)** method.
 
-Each preset extrusion format contains a set of preset values for the various properties of the extrusion. The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3-D Rotation** submenu on the **Shape Effects** menu.
+Each preset extrusion format contains a set of preset values for the various properties of the extrusion. The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3D Rotation** submenu on the **Shape Effects** menu.
 
 The value of the  **PresetThreeDFormat** property can be one of these **MsoPresetThreeDFormat** constants. If the value is **msoPresetThreeDFormatMixed**, the extrusion has a custom format rather than a preset format.
 
@@ -63,7 +64,7 @@ The value of the  **PresetThreeDFormat** property can be one of these **MsoPrese
 
 ## Example
 
-This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
+This example sets the extrusion format for shape one on  _myDocument_ to 3D Style 12 if the shape initially has a custom extrusion format.
 
 
 ```vb
@@ -86,3 +87,4 @@ End With
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

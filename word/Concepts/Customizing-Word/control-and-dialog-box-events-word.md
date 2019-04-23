@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 7884bae3-caa5-79a9-a4a2-c58a6ccb42d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,8 +20,9 @@ To write a control or form event procedure, open a module by double-clicking the
 
 Event procedures include the name of the control. For example, the name of the  **Click** event procedure for a command button named Command1 is Command1_Click.
 If you add code to an event procedure and then change the name of the control, your code remains in procedures with the previous name.
-For example, assume you add code to the  **Click** event for Commmand1 and then rename the control to Command2. 
+For example, assume you add code to the  **Click** event for Command1 and then rename the control to Command2. 
 
 When you double-click Command2, you will not see any code in the **Click** event procedure. You will need to move code from Command1_Click to Command2_Click.
 To simplify development, it is a good practice to name your controls before writing code.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

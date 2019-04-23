@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 3cc10ca8-4c9a-93e5-da88-460198c48c48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Set the Input Style for a Combo Box
+# Set the Input Style for a Combo Box
 
 The following example uses the  **[Style](../../../api/Outlook.combobox.style.md)** property to change the style of user input of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user chooses a style by selecting an  **[OptionButton](../../../api/Outlook.optionbutton.md)** control and then types into the **ComboBox** to select an item. When **Style** is _StyleDropDownList_, the user must choose an item from the drop-down list. When  **Style** is _StyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
 
@@ -50,4 +51,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

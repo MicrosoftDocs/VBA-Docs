@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: df186bf6-213e-271a-2fa2-c11d870a99cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You have reached the maximum number of replicas (32,768) allowed in a replica se
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

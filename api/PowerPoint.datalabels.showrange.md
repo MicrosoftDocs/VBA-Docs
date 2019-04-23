@@ -1,28 +1,29 @@
 ---
-title: DataLabels.ShowRange Property (PowerPoint)
+title: DataLabels.ShowRange property (PowerPoint)
 keywords: vbapp10.chm697004
 f1_keywords:
 - vbapp10.chm697004
 ms.assetid: 1c87bc9c-b5b2-a3c2-8843-41fbc8f58f09
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# DataLabels.ShowRange Property (PowerPoint)
+# DataLabels.ShowRange property (PowerPoint)
 
 Set to  **True** to display the **Value From Cells** range field in all the chart data labels for a specified chart. Set to **False** to hide that field. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowRange`
+_expression_. `ShowRange`
 
- _expression_ A variable that represents a [DataLabels](./PowerPoint.DataLabels.md) object.
+_expression_ A variable that represents a [DataLabels](./PowerPoint.DataLabels.md) object.
 
 
 ## Property value
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

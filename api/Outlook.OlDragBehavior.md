@@ -1,5 +1,5 @@
 ---
-title: OlDragBehavior Enumeration (Outlook)
+title: OlDragBehavior enumeration (Outlook)
 keywords: vbaol11.chm1000024
 f1_keywords:
 - vbaol11.chm1000024
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlDragBehavior
 ms.assetid: 1e8c29d4-7800-663f-fb5f-aebc2a6b89fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlDragBehavior Enumeration (Outlook)
+# OlDragBehavior enumeration (Outlook)
 
 Specifies the drag behavior of a control.
 
@@ -22,3 +23,4 @@ Specifies the drag behavior of a control.
 | **olDragBehaviorDisabled**|0|The control does not support drag-and-drop activities. It will always display the "no" cursor when an item is dragged over the control.|
 | **olDragBehaviorEnabled**|1|The control can support drag-and-drop activities. Use the drag and drop events to control this behavior.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

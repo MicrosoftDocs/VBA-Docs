@@ -1,12 +1,13 @@
 ---
-title: KeyBindings Object (Word)
+title: KeyBindings object (Word)
 ms.prod: word
 ms.assetid: d2e38b04-b7e1-b35c-e511-5988d132b074
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBindings Object (Word)
+# KeyBindings object (Word)
 
 A collection of  **[KeyBinding](Word.KeyBinding.md)** objects that represent the custom key assignments in the current context. Custom key assignments are made in the **Customize Keyboard** dialog box.
 
@@ -50,6 +51,6 @@ MsgBox KeyBindings(1).Command
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

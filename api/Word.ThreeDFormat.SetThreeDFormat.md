@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (Word)
+title: ThreeDFormat.SetThreeDFormat method (Word)
 keywords: vbawd10.chm164626445
 f1_keywords:
 - vbawd10.chm164626445
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.SetThreeDFormat
 ms.assetid: 1fff9c23-0f40-ef9a-ca15-331caa61a107
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (Word)
+# ThreeDFormat.SetThreeDFormat method (Word)
 
 Sets the preset extrusion format.
 
 
 ## Syntax
 
- _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
+_expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Sets the preset extrusion format.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+| _PresetThreeDFormat_|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, top to bottom) displayed when you click the  **3D** button on the **Drawing** toolbar.|
 
 ## Remarks
 
@@ -58,3 +59,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

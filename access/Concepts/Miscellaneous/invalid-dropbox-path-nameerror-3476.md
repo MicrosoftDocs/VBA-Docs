@@ -3,6 +3,7 @@ title: Invalid dropbox path <name>. (Error 3476)
 ms.prod: access
 ms.assetid: 69f6736c-3e99-be0f-e033-7d03ab992193
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ Make sure the dropbox path is correct.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

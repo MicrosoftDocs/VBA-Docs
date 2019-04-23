@@ -8,6 +8,7 @@ api_name:
 - Excel.RoutingSlip.Message
 ms.assetid: 45ad0ca4-549a-26c1-895c-62de13cdc534
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ This object or member has been deprecated, but it remains part of the object mod
 
 [RoutingSlip Object](Excel.RoutingSlip.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

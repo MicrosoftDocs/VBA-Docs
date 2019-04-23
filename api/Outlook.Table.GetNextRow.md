@@ -1,5 +1,5 @@
 ---
-title: Table.GetNextRow Method (Outlook)
+title: Table.GetNextRow method (Outlook)
 keywords: vbaol11.chm2231
 f1_keywords:
 - vbaol11.chm2231
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Table.GetNextRow
 ms.assetid: e01ddaa0-a869-2f52-5e46-84d4d4090e61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.GetNextRow Method (Outlook)
+# Table.GetNextRow method (Outlook)
 
-Moves the current row to the next row in the  **[Table](Outlook.Table.md)** and obtains that row in the **Table** .
+Moves the current row to the next row in the  **[Table](Outlook.Table.md)** and obtains that row in the **Table**.
 
 
 ## Syntax
 
- _expression_. `GetNextRow`
+_expression_. `GetNextRow`
 
- _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ A  **[Row](Outlook.Row.md)** object that represents the next valid row in the **
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

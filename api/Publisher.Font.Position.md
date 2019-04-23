@@ -1,5 +1,5 @@
 ---
-title: Font.Position Property (Publisher)
+title: Font.Position property (Publisher)
 keywords: vbapb10.chm5373988
 f1_keywords:
 - vbapb10.chm5373988
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Position
 ms.assetid: 24573faf-1627-3b10-5a8e-2f76a9f8831d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Position Property (Publisher)
+# Font.Position property (Publisher)
 
 Returns or sets a  **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
 
 
 ## Syntax
 
- _expression_. **Position**
+_expression_.**Position**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -36,4 +37,4 @@ Sub Position()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

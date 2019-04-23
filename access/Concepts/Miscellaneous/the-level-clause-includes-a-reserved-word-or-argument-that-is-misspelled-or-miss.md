@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7d886d02-5aaf-b66e-c529-49b5b91d4745
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,3 +34,4 @@ Possible causes:
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PivotField.DrillTo Method (Excel)
+title: PivotField.DrillTo method (Excel)
 keywords: vbaxl10.chm240138
 f1_keywords:
 - vbaxl10.chm240138
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.DrillTo
 ms.assetid: a00fe83a-136d-45a3-d3aa-f7ea4d434001
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotField.DrillTo Method (Excel)
+# PivotField.DrillTo method (Excel)
 
 The  **DrillTo** method supports drilling to a specified PivotField from another PivotField.
 
 
 ## Syntax
 
- _expression_. `DrillTo`( `_PivotFieldName_` )
+_expression_. `DrillTo`( `_PivotFieldName_` )
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ This operation can only be performed on fields that are actually on the PivotTab
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

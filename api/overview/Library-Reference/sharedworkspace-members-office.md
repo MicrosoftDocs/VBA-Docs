@@ -2,29 +2,30 @@
 title: SharedWorkspace members (Office)
 ms.prod: office
 ms.assetid: e4c2b518-d955-27e1-3e73-173d3c4f961d
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
 # SharedWorkspace members (Office)
 
-The **SharedWorkspace** property of a **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **SharedWorkspace** object which allows the developer to add the active document to a SharePoint site and to manage other objects in the shared workspace site.
+The **SharedWorkspace** property of a **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **SharedWorkspace** object that allows the developer to add the active document to a SharePoint site and to manage other objects in the shared workspace site.
 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CreateNew](../../Office.SharedWorkspace.CreateNew.md)|Creates a document workspace site on the server and adds the active document to the new shared workspace site.|
 |[Delete](../../Office.SharedWorkspace.Delete.md)|Deletes the current shared workspace and all data within it.|
 |[Disconnect](../../Office.SharedWorkspace.Disconnect.md)|Disconnects the local copy of the active document from the shared workspace site.|
-|[Refresh](../../Office.SharedWorkspace.Refresh.md)|Refreshes the local cache of the [SharedWorkspace](../../Office.SharedWorkspace.md) object's files, folders, links, members, and tasks from the server.|
+|[Refresh](../../Office.SharedWorkspace.Refresh.md)|Refreshes the local cache of the **[SharedWorkspace](../../Office.SharedWorkspace.md)** object's files, folders, links, members, and tasks from the server.|
 |[RemoveDocument](../../Office.SharedWorkspace.RemoveDocument.md)|Removes the active document from the shared workspace site.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspace.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspace** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Connected](../../Office.SharedWorkspace.Connected.md)|Gets a **Boolean** value that indicates whether or not the active document is currently saved in and connected to a shared workspace. Read-only.|
@@ -40,3 +41,4 @@ The **SharedWorkspace** property of a **Document** object in Microsoft Word, a *
 |[Tasks](../../Office.SharedWorkspace.Tasks.md)|Gets a **[SharedWorkspaceTasks](../../Office.SharedWorkspaceTasks.md)** collection that represents the list of tasks in the current shared workspace. Read-only.|
 |[URL](../../Office.SharedWorkspace.URL.md)|Gets the top-level Uniform Resource Locator (URL) of the shared workspace. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

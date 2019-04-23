@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Session Property (Outlook)
+title: AttachmentSelection.Session property (Outlook)
 keywords: vbaol11.chm2941
 f1_keywords:
 - vbaol11.chm2941
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AttachmentSelection.Session
 ms.assetid: cd03fab6-60bd-5e71-3053-b6cc61fda58f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Session Property (Outlook)
+# AttachmentSelection.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [AttachmentSelection](./Outlook.AttachmentSelection.md) object.
+_expression_ A variable that represents an [AttachmentSelection](Outlook.AttachmentSelection.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

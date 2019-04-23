@@ -1,5 +1,5 @@
 ---
-title: Master.GraphicItems Property (Visio)
+title: Master.GraphicItems property (Visio)
 keywords: vis_sdr.chm10760135
 f1_keywords:
 - vis_sdr.chm10760135
@@ -8,10 +8,11 @@ api_name:
 - Visio.Master.GraphicItems
 ms.assetid: 615b4909-c248-3ebd-c7c1-53151464cee9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.GraphicItems Property (Visio)
+# Master.GraphicItems property (Visio)
 
 Returns the  **GraphicItems** collection that the master contains. Read-only.
 
@@ -21,7 +22,7 @@ Returns the  **GraphicItems** collection that the master contains. Read-only.
 
 ## Syntax
 
- _expression_. `GraphicItems`
+_expression_. `GraphicItems`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
@@ -33,6 +34,6 @@ GraphicItems
 
 ## Remarks
 
-The master must be of type  **visTypeDataGraphic** .
+The master must be of type  **visTypeDataGraphic**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

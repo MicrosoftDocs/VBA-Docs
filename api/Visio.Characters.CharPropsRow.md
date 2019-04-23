@@ -1,5 +1,5 @@
 ---
-title: Characters.CharPropsRow Property (Visio)
+title: Characters.CharPropsRow property (Visio)
 keywords: vis_sdr.chm10213230
 f1_keywords:
 - vis_sdr.chm10213230
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.CharPropsRow
 ms.assetid: 55ea568a-7dfc-faed-e4c2-23fa76aac16d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.CharPropsRow Property (Visio)
+# Characters.CharPropsRow property (Visio)
 
 Returns the index of the row in the Character section of a ShapeSheet window that contains character formatting information for a  **Characters** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CharPropsRow`( `_BiasLorR_` )
+_expression_. `CharPropsRow`( `_BiasLorR_` )
 
  _expression_ An expression that returns a [Characters](./Visio.Characters.md) object.
 
@@ -54,9 +55,9 @@ If the  **Characters** object represents an insertion point rather than a sequen
 
 Specify  **visBiasLeft** for the row that covers character formatting for the character to the left of the insertion point, or **visBiasRight** for the row that covers character formatting for the character to the right of the insertion point.
 
-If you specify  **visBiasLetVisioChoose** , Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the character formatting of the character to the left of the insertion point to the new text, so **CharPropsRow** will return the same value it would if passed **visBiasLeft** . (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **CharPropsRow** returns the value it would return if passed **visBiasRight** .
+If you specify  **visBiasLetVisioChoose**, Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the character formatting of the character to the left of the insertion point to the new text, so **CharPropsRow** will return the same value it would if passed **visBiasLeft**. (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **CharPropsRow** returns the value it would return if passed **visBiasRight**.
 
 > [!NOTE] 
 > In the context of a  **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

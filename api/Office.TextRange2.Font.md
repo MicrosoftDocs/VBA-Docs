@@ -1,23 +1,24 @@
 ---
-title: TextRange2.Font Property (Office)
+title: TextRange2.Font property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Font
 ms.assetid: 005fa6bf-2dd5-32ec-18e8-30ff6260e55d
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextRange2.Font Property (Office)
+# TextRange2.Font property (Office)
 
-Returns a  **Font** object that represents character formatting for the **TextRange2** object. Read-only.
+Returns a **Font** object that represents character formatting for the **TextRange2** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+_expression_ An expression that returns a **[TextRange2](Office.TextRange2.md)** object.
 
 
 ## Return value
@@ -44,10 +45,8 @@ End With
 
 ## See also
 
-
-[TextRange2 Object](Office.TextRange2.md)
-
+- [TextRange2 object members](overview/Library-Reference/textrange2-members-office.md)
 
 
-[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

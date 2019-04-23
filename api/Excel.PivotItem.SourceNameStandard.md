@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.SourceNameStandard
 ms.assetid: f8e25ad0-7a97-c19c-85b5-bf25e3553ca8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** that represents the PivotTable items' source name in stand
 
 ## Syntax
 
- _expression_. `SourceNameStandard`
+_expression_. `SourceNameStandard`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ End Sub
 [SlicerItem Object](Excel.SlicerItem.md)
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

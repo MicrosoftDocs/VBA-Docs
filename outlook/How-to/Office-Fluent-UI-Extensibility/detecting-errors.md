@@ -3,6 +3,7 @@ title: Detecting Errors
 ms.prod: outlook
 ms.assetid: 73778714-906c-a57a-00d8-6450bfc9a6d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ To view any errors that your XML markup generates when it is loaded, follow thes
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

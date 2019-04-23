@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Value Property (Outlook)
+title: UserProperty.Value property (Outlook)
 keywords: vbaol11.chm222
 f1_keywords:
 - vbaol11.chm222
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserProperty.Value
 ms.assetid: 9f313262-ffd4-3245-f516-bc2d62d6f33a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperty.Value Property (Outlook)
+# UserProperty.Value property (Outlook)
 
 Returns or sets a  **Variant** indicating the value for the specified custom property. Read/write.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ For more information on accessing properties in Outlook, see [Properties Overvie
 
 [UserProperty Object](Outlook.UserProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.TotalsRowRange
 ms.assetid: 80f22712-5113-30d9-a0ea-1158a563d17b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `TotalsRowRange`
+_expression_. `TotalsRowRange`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

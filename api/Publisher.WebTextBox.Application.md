@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.Application Property (Publisher)
+title: WebTextBox.Application property (Publisher)
 keywords: vbapb10.chm4194305
 f1_keywords:
 - vbapb10.chm4194305
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebTextBox.Application
 ms.assetid: 50081f4b-1edd-5c24-2aed-4eeed9399713
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox.Application Property (Publisher)
+# WebTextBox.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

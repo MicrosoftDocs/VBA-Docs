@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.DistanceFromText Property (Word)
+title: LineNumbering.DistanceFromText property (Word)
 keywords: vbawd10.chm158466150
 f1_keywords:
 - vbawd10.chm158466150
@@ -8,17 +8,18 @@ api_name:
 - Word.LineNumbering.DistanceFromText
 ms.assetid: cc541a06-5216-1a7a-9db1-172c94272d31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineNumbering.DistanceFromText Property (Word)
+# LineNumbering.DistanceFromText property (Word)
 
-Returns or sets the distance (in points) between the right edge of line numbers and the left edge of the document text. Read/write  **Single** .
+Returns or sets the distance (in points) between the right edge of line numbers and the left edge of the document text. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `DistanceFromText`
+_expression_. `DistanceFromText`
 
  _expression_ A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [LineNumbering Object](Word.LineNumbering.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

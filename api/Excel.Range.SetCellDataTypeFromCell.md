@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.SetCellDataTypeFromCell
 ms.date: 09/12/2018
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Creates another instance of a Linked data type such as [Stocks or Geography](htt
 
 ## Syntax
 
- _expression_. `SetCellDataTypeFromCell`( `Range`, `LanguageCulture` )
+_expression_. `SetCellDataTypeFromCell`( `Range`, `LanguageCulture` )
 
- _expression_ A variable that represents the [Range](Excel.Range(Object).md) _to_ which you want to copy the Linked data type.
+_expression_ A variable that represents the [Range](Excel.Range(Object).md) _to_ which you want to copy the Linked data type.
 
 
 ## Parameters
@@ -44,3 +45,5 @@ After it runs, cells `A1` and `B2` will have a "Seattle" data type in them, and 
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

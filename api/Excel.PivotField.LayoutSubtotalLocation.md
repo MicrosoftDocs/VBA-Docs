@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.LayoutSubtotalLocation
 ms.assetid: 77f250da-7bc3-430d-c6ef-53f79588ecf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.LayoutSubtotalLocation property (Excel)
 
-Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)** .
+Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)**.
 
 
 ## Syntax
 
- _expression_. `LayoutSubtotalLocation`
+_expression_. `LayoutSubtotalLocation`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End With
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

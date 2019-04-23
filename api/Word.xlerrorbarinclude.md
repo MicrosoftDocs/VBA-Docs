@@ -1,12 +1,13 @@
 ---
-title: xlErrorBarInclude Enumeration (Word)
+title: XlErrorBarInclude enumeration (Word)
 ms.prod: word
 ms.assetid: 76de90d9-df64-0abb-d517-ef18867a0f1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorBarInclude Enumeration (Word)
+# XlErrorBarInclude enumeration (Word)
 
 Specifies which error-bar parts to include.
 
@@ -19,3 +20,4 @@ Specifies which error-bar parts to include.
 | **xlErrorBarIncludeNone**|-4142|No error bar range.|
 | **xlErrorBarIncludePlusValues**|2|Only the positive error range.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

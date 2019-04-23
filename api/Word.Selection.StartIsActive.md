@@ -1,5 +1,5 @@
 ---
-title: Selection.StartIsActive Property (Word)
+title: Selection.StartIsActive property (Word)
 keywords: vbawd10.chm158663060
 f1_keywords:
 - vbawd10.chm158663060
@@ -8,24 +8,25 @@ api_name:
 - Word.Selection.StartIsActive
 ms.assetid: 734e5368-dd6e-d84a-b445-30540948ac7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.StartIsActive Property (Word)
+# Selection.StartIsActive property (Word)
 
- **True** if the beginning of the selection is active. Read/write **Boolean** .
+ **True** if the beginning of the selection is active. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `StartIsActive`
+_expression_. `StartIsActive`
 
  _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
 
-If the selection is not collapsed to an insertion point, either the beginning or the end of the selection is active. The active end of the selection moves when you call the following methods:  **[EndKey](Word.Selection.EndKey.md)** , **[Extend](Word.Selection.Extend.md)** (with the Characters argument), **[HomeKey](Word.Selection.HomeKey.md)** , **[MoveDown](Word.Selection.MoveDown.md)** , **[MoveLeft](Word.Selection.MoveLeft.md)** , **[MoveRight](Word.Selection.MoveRight.md)** , and **[MoveUp](Word.Selection.MoveUp.md)** .
+If the selection is not collapsed to an insertion point, either the beginning or the end of the selection is active. The active end of the selection moves when you call the following methods:  **[EndKey](Word.Selection.EndKey.md)**, **[Extend](Word.Selection.Extend.md)** (with the Characters argument), **[HomeKey](Word.Selection.HomeKey.md)**, **[MoveDown](Word.Selection.MoveDown.md)**, **[MoveLeft](Word.Selection.MoveLeft.md)**, **[MoveRight](Word.Selection.MoveRight.md)**, and **[MoveUp](Word.Selection.MoveUp.md)**.
 
 This property is equivalent to using the  **[Flags](Word.Selection.Flags.md)** property with the **wdSelStartActive** constant. However, using the **Flags** property requires binary operations, which are more complicated than using the **StartIsActive** property.
 
@@ -72,3 +73,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

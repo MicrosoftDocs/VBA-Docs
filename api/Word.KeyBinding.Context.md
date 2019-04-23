@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Context Property (Word)
+title: KeyBinding.Context property (Word)
 keywords: vbawd10.chm160956426
 f1_keywords:
 - vbawd10.chm160956426
@@ -8,24 +8,25 @@ api_name:
 - Word.KeyBinding.Context
 ms.assetid: 39612af3-b8b4-ab4d-3c83-35d1cf76f418
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.Context Property (Word)
+# KeyBinding.Context property (Word)
 
 Returns an  **Object** that represents the storage location of the specified key binding. Read-only.
 
 
 ## Syntax
 
- _expression_. `Context`
+_expression_. `Context`
 
  _expression_ A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Remarks
 
-This property can return a  **Document** , **Template** , or **Application** object. Built-in key assignments (for example, CTRL+I for **Italic**) return the **Application** object as the context. Any key bindings you add will return a **Document** or **Template** object, depending on the customization context in effect when the **KeyBinding** object was added.
+This property can return a  **Document**, **Template**, or **Application** object. Built-in key assignments (for example, CTRL+I for **Italic**) return the **Application** object as the context. Any key bindings you add will return a **Document** or **Template** object, depending on the customization context in effect when the **KeyBinding** object was added.
 
 
 ## Example
@@ -52,3 +53,4 @@ Next kbLoop
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,22 +1,23 @@
 ---
-title: Options.PreferCloudSaveLocations Property (Word)
+title: Options.PreferCloudSaveLocations property (Word)
 keywords: vbawd10.chm162988544
 f1_keywords:
 - vbawd10.chm162988544
 ms.prod: word
 ms.assetid: 358dc6ed-aea6-c2e0-7649-188cc66ded73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PreferCloudSaveLocations Property (Word)
+# Options.PreferCloudSaveLocations property (Word)
 
  **True** to save new documents in web locations by default. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PreferCloudSaveLocations`
+_expression_. `PreferCloudSaveLocations`
 
  _expression_ A variable that represents an [Options](./Word.Options.md) object.
 
@@ -36,3 +37,4 @@ The setting of the  **PreferCloudSaveLocations** property is the reverse of that
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

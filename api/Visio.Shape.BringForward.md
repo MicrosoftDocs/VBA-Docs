@@ -1,5 +1,5 @@
 ---
-title: Shape.BringForward Method (Visio)
+title: Shape.BringForward method (Visio)
 keywords: vis_sdr.chm11216095
 f1_keywords:
 - vis_sdr.chm11216095
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.BringForward
 ms.assetid: 88e5c746-e7f2-eddd-35c9-2d9c09c1a602
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.BringForward Method (Visio)
+# Shape.BringForward method (Visio)
 
 Brings the shape or selected shapes forward one position in the z-order.
 
 
 ## Syntax
 
- _expression_. `BringForward`
+_expression_. `BringForward`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -55,4 +56,4 @@ Public Sub BringForward_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

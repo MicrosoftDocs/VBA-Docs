@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.Display Method (Outlook)
+title: RemoteItem.Display method (Outlook)
 keywords: vbaol11.chm1615
 f1_keywords:
 - vbaol11.chm1615
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RemoteItem.Display
 ms.assetid: 87352a30-cd34-8daa-bdb0-fb1eb45f835a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RemoteItem.Display Method (Outlook)
+# RemoteItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

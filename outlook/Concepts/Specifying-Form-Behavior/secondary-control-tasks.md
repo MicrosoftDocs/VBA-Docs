@@ -3,6 +3,7 @@ title: Secondary Control Tasks
 ms.prod: outlook
 ms.assetid: 03bd5108-dab6-4555-869e-5219471f5f93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -68,5 +69,5 @@ ms.date: 06/08/2017
 -  [Use a Custom Color for the Background or Foreground of a Control](use-a-custom-color-for-the-background-or-foreground-of-a-control.md)
     
 -  [Use a System Color for a Background or Foreground](use-a-system-color-for-a-background-or-foreground.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

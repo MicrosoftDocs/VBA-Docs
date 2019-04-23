@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.RestartMode Property (Word)
+title: LineNumbering.RestartMode property (Word)
 keywords: vbawd10.chm158466148
 f1_keywords:
 - vbawd10.chm158466148
@@ -8,19 +8,20 @@ api_name:
 - Word.LineNumbering.RestartMode
 ms.assetid: f812d5ab-4921-5d6e-a2f8-51d324c29333
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineNumbering.RestartMode Property (Word)
+# LineNumbering.RestartMode property (Word)
 
-Returns or sets the way line numbering runs — that is, whether it starts over at the beginning of a new page or section or runs continuously. Read/write  **WdNumberingRule** .
+Returns or sets the way line numbering runs — that is, whether it starts over at the beginning of a new page or section or runs continuously. Read/write  **WdNumberingRule**.
 
 
 ## Syntax
 
- _expression_. `RestartMode`
+_expression_. `RestartMode`
 
- _expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
+_expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End With
 
 [LineNumbering Object](Word.LineNumbering.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

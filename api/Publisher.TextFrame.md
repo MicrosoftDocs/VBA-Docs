@@ -1,5 +1,5 @@
 ---
-title: TextFrame Object (Publisher)
+title: TextFrame object (Publisher)
 keywords: vbapb10.chm3932159
 f1_keywords:
 - vbapb10.chm3932159
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TextFrame
 ms.assetid: 95e88f5a-b3dc-272e-7c1d-5282c97ae11e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame Object (Publisher)
+# TextFrame object (Publisher)
 
 Represents the text frame in a  **[Shape](./Publisher.Shape.md)** object. Contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 
@@ -83,7 +84,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BreakForwardLink](./Publisher.TextFrame.BreakForwardLink.md)|
 |[ValidLinkTarget](./Publisher.TextFrame.ValidLinkTarget.md)|
@@ -92,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.TextFrame.Application.md)|
 |[AutoFitText](./Publisher.TextFrame.AutoFitText.md)|
@@ -116,3 +117,4 @@ End Sub
 |[TextRange](./Publisher.TextFrame.TextRange.md)|
 |[VerticalTextAlignment](./Publisher.TextFrame.VerticalTextAlignment.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

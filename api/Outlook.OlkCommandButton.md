@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton Object (Outlook)
+title: OlkCommandButton object (Outlook)
 keywords: vbaol11.chm1000132
 f1_keywords:
 - vbaol11.chm1000132
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkCommandButton
 ms.assetid: bb150211-d50a-130b-91f0-1129dba8f378
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCommandButton Object (Outlook)
+# OlkCommandButton object (Outlook)
 
 A control that supports a user action specified as a command.
 
@@ -34,7 +35,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkCommandButton.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkCommandButton.BeforeUpdate.md)|
@@ -53,7 +54,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accelerator](Outlook.OlkCommandButton.Accelerator.md)|
 |[AutoSize](Outlook.OlkCommandButton.AutoSize.md)|
@@ -71,4 +72,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

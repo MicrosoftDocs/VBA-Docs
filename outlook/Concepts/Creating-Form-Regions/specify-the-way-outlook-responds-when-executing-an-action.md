@@ -3,6 +3,7 @@ title: Specify the Way Outlook Responds When Executing an Action
 ms.prod: outlook
 ms.assetid: a2ea8dc3-728c-141b-42af-9b0a3c764a4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,3 +39,4 @@ Note that the child  **method** element of the **action** element can contain on
 | **prompt**|Outlook will prompt the user whether to open the resulting item now or send it immediately.|
 | **send**|Outlook will send the resulting item automatically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

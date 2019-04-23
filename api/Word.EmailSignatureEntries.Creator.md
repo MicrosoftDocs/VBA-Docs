@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntries.Creator Property (Word)
+title: EmailSignatureEntries.Creator property (Word)
 keywords: vbawd10.chm166003689
 f1_keywords:
 - vbawd10.chm166003689
@@ -8,19 +8,20 @@ api_name:
 - Word.EmailSignatureEntries.Creator
 ms.assetid: cca4c109-d018-50bf-72d0-0d84b1436aad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailSignatureEntries.Creator Property (Word)
+# EmailSignatureEntries.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
+_expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

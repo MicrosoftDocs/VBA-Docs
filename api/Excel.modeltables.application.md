@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 8d44b48b-47ed-02db-161f-449a166be50e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ModelTables Object (Excel)](Excel.modeltables.md) object.
+_expression_ A variable that represents a [ModelTables](Excel.modeltables.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -47,3 +48,4 @@ End If
 
 [ModelTables Object](Excel.modeltables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

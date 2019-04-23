@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.LargeChange
 ms.assetid: 2e47bd4f-59dc-d620-14f0-e4ecdfb4eb78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.LargeChange property (Excel)
 
-Returns or sets the amount that the scroll box increments or decrements for a page scroll (when the user clicks in the scroll bar body region). Read/write  **Long** .
+Returns or sets the amount that the scroll box increments or decrements for a page scroll (when the user clicks in the scroll bar body region). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `LargeChange`
+_expression_. `LargeChange`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

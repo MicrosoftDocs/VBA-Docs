@@ -5,20 +5,21 @@ f1_keywords:
 - vbaxl10.chm149195
 ms.prod: excel
 ms.assetid: b3a54685-18d7-8c24-b2e8-f3bfb03fc69e
-ms.date: 06/08/2017
+ms.date: 04/16/2019
+localization_priority: Normal
 ---
 
 
 # Chart.CategoryLabelLevel property (Excel)
 
-Returns a  **[xlCategoryLabelLevel enumeration (Excel)](Excel.xlcategorylabellevel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
+Returns an **[XlCategoryLabelLevel](Excel.xlcategorylabellevel.md)** constant referring to the level of where the category labels are being sourced from. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `CategoryLabelLevel`
+_expression_.**CategoryLabelLevel**
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Remarks
@@ -26,10 +27,14 @@ Returns a  **[xlCategoryLabelLevel enumeration (Excel)](Excel.xlcategorylabellev
 If there is a hierarchy, 0 refers to the most parent level, 1 refers to its children, and so on. So, 0 equals the first level, 1 equals the second level, 2 equals the third level, and so on. 
 
 
+## Property value
+
+**XLCATEGORYLABELLEVEL**
+
+
 ## Example
 
-The following sample code uses the  **CategoryNameLevel** property to set the chart categories names from previously created row.
-
+The following sample code uses the **CategoryNameLevel** property to set the chart category names from the previously created row.
 
 ```vb
     Sheets(1).Range("C1:E1").Value2 = "Sample_Row1"
@@ -51,13 +56,6 @@ The following sample code uses the  **CategoryNameLevel** property to set the ch
 ```
 
 
-## Property value
-
- **XLCATEGORYLABELLEVEL**
 
 
-## See also
-
-
-[Chart Object](Excel.Chart(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

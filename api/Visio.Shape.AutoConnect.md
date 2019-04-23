@@ -1,5 +1,5 @@
 ---
-title: Shape.AutoConnect Method (Visio)
+title: Shape.AutoConnect method (Visio)
 keywords: vis_sdr.chm11260240
 f1_keywords:
 - vis_sdr.chm11260240
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.AutoConnect
 ms.assetid: 36b634be-9943-1aec-f8e0-70467b82eed1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.AutoConnect Method (Visio)
+# Shape.AutoConnect method (Visio)
 
 Automatically draws a connection in the specified direction between the shape and another shape on the drawing page.
 
 
 ## Syntax
 
- _expression_. `AutoConnect`( `_ToShape_` , `_PlacementDir_` , `_Connector_` )
+_expression_. `AutoConnect`( `_ToShape_` , `_PlacementDir_` , `_Connector_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
@@ -48,7 +49,7 @@ For the PlacementDir parameter, pass a value from the  **VisAutoConnectDir** enu
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |visAutoConnectDirDown|2|Connect down.|
 |visAutoConnectDirLeft|3|Connect to the left.|
@@ -87,4 +88,4 @@ Public Sub AutoConnect_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

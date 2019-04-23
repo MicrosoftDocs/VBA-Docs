@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.Add Method (Word)
+title: Dictionaries.Add method (Word)
 keywords: vbawd10.chm162267237
 f1_keywords:
 - vbawd10.chm162267237
@@ -8,19 +8,20 @@ api_name:
 - Word.Dictionaries.Add
 ms.assetid: aacd7041-e34f-b6e4-d895-925dad575d40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionaries.Add Method (Word)
+# Dictionaries.Add method (Word)
 
 Returns a  **Dictionary** object that represents a new custom spelling or conversion dictionary added to the collection of active custom spelling or conversion dictionaries.
 
 
 ## Syntax
 
- _expression_. `Add`( `_FileName_` )
+_expression_.**Add**( `_FileName_` )
 
- _expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
+_expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
 
 
 ## Parameters
@@ -40,7 +41,7 @@ Dictionary
 
 If a file with the name specified by the FileName parameter doesn't exist, Microsoft Word creates one.
 
-The  **Dictionaries** collection includes only the active custom spelling dictionaries. **Dictionary** objects that are derived from the **Languages** collection don't have an **Add** method. These include the **Dictionary** objects returned by the **ActiveSpellingDictionary** , **ActiveGrammarDictionary** , **ActiveThesaurusDictionary** , and **ActiveHyphenationDictionary** properties.
+The  **Dictionaries** collection includes only the active custom spelling dictionaries. **Dictionary** objects that are derived from the **Languages** collection don't have an **Add** method. These include the **Dictionary** objects returned by the **ActiveSpellingDictionary**, **ActiveGrammarDictionary**, **ActiveThesaurusDictionary**, and **ActiveHyphenationDictionary** properties.
 
 Use the  **HangulHanjaDictionaries** property to return the collection of custom conversion dictionaries. The **HangulHanjaConversionDictionaries** collection includes only the active custom conversion dictionaries.
 
@@ -94,3 +95,4 @@ End With
 
 [Dictionaries Collection Object](Word.dictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

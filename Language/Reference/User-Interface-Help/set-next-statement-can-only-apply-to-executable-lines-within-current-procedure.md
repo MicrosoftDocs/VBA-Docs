@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4e5c0a9d-95ec-ee89-499f-42af2b9d44ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,6 +21,5 @@ You can choose the  **Set Next Statement** command to indicate where a suspended
 - When you chose the command, the cursor was on a line outside the currently executing [procedure](../../Glossary/vbe-glossary.md#procedure).
     
     Place the cursor on a line within the currently executing procedure.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

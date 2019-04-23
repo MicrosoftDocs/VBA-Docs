@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ClearCustomMenus Method (Visio)
+title: InvisibleApp.ClearCustomMenus method (Visio)
 keywords: vis_sdr.chm17516110
 f1_keywords:
 - vis_sdr.chm17516110
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.ClearCustomMenus
 ms.assetid: bf075a03-4b3f-4f38-a6b4-6fbc2cc95fe1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ClearCustomMenus Method (Visio)
+# InvisibleApp.ClearCustomMenus method (Visio)
 
 Restores the built-in Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `ClearCustomMenus`
+_expression_. `ClearCustomMenus`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -52,4 +53,4 @@ Public Sub ClearCustomMenus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HasTransparencyColor Property (Publisher)
+title: PictureFormat.HasTransparencyColor property (Publisher)
 keywords: vbapb10.chm3604789
 f1_keywords:
 - vbapb10.chm3604789
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.HasTransparencyColor
 ms.assetid: 2e6066e8-60b0-c33e-0bb0-1b6f83208fd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.HasTransparencyColor Property (Publisher)
+# PictureFormat.HasTransparencyColor property (Publisher)
 
 Returns a  **Boolean** that indicates whether a transparency color has been applied to the specified picture. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasTransparencyColor**
+_expression_.**HasTransparencyColor**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -59,4 +60,4 @@ Dim shpLoop As Shape
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsCalendar Method (Project)
+title: Application.OptionsCalendar method (Project)
 keywords: vbapj.chm649
 f1_keywords:
 - vbapj.chm649
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.OptionsCalendar
 ms.assetid: bde3b645-3417-ee45-57b5-0109bc7b17ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OptionsCalendar Method (Project)
+# Application.OptionsCalendar method (Project)
 
 Sets options for the calendar of the active project.
 
 
 ## Syntax
 
- _expression_. `OptionsCalendar`( ` _StartWeekOnMonday_`, ` _StartYearIn_`, ` _StartTime_`, ` _FinishTime_`, ` _HoursPerDay_`, ` _HoursPerWeek_`, ` _SetDefaults_`, ` _StartWeekOn_`, ` _UseFYStartYear_`, ` _DaysPerMonth_` )
+_expression_. `OptionsCalendar`( `_StartWeekOnMonday_`, `_StartYearIn_`, `_StartTime_`, `_FinishTime_`, `_HoursPerDay_`, `_HoursPerWeek_`, `_SetDefaults_`, `_StartWeekOn_`, `_UseFYStartYear_`, `_DaysPerMonth_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -69,4 +70,4 @@ Sub Options_Calendar()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

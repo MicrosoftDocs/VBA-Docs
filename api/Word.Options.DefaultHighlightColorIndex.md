@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultHighlightColorIndex Property (Word)
+title: Options.DefaultHighlightColorIndex property (Word)
 keywords: vbawd10.chm162988306
 f1_keywords:
 - vbawd10.chm162988306
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DefaultHighlightColorIndex
 ms.assetid: 1171cc44-54c9-0a39-c90f-ebdebebdde26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultHighlightColorIndex Property (Word)
+# Options.DefaultHighlightColorIndex property (Word)
 
-Returns or sets the color used to highlight text formatted with the  **Highlight** button (**Formatting** toolbar). Read/write **WdColorIndex** .
+Returns or sets the color used to highlight text formatted with the  **Highlight** button (**Formatting** toolbar). Read/write **WdColorIndex**.
 
 
 ## Syntax
 
- _expression_. `DefaultHighlightColorIndex`
+_expression_. `DefaultHighlightColorIndex`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -49,3 +50,4 @@ lngTemp = Options.DefaultHighlightColorIndex
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

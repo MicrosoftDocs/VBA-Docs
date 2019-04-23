@@ -1,5 +1,5 @@
 ---
-title: StorageItem Object (Outlook)
+title: StorageItem object (Outlook)
 keywords: vbaol11.chm3017
 f1_keywords:
 - vbaol11.chm3017
@@ -8,10 +8,11 @@ api_name:
 - Outlook.StorageItem
 ms.assetid: 41776bc3-b838-2755-fd6b-3b5012fb9ae5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StorageItem Object (Outlook)
+# StorageItem object (Outlook)
 
 A message object in MAPI that is always saved as a hidden item in the parent folder and stores private data for Outlook solutions.
 
@@ -95,7 +96,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Outlook.StorageItem.Delete.md)|
 |[Save](Outlook.StorageItem.Save.md)|
@@ -104,7 +105,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.StorageItem.Application.md)|
 |[Attachments](Outlook.StorageItem.Attachments.md)|
@@ -124,4 +125,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

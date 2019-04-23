@@ -8,19 +8,20 @@ api_name:
 - Excel.DefaultWebOptions.CheckIfOfficeIsHTMLEditor
 ms.assetid: 29b77ad1-11ea-f930-a4ab-6bb957287eea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Excel)
 
- **True** if Microsoft Excel checks to see whether an Office application is the default HTML editor when you start Excel. **False** if Excel does not perform this check. The default value is **True** . Read/write **Boolean** .
+**True** if Microsoft Excel checks to see whether an Office application is the default HTML editor when you start Excel. **False** if Excel does not perform this check. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CheckIfOfficeIsHTMLEditor`
+_expression_. `CheckIfOfficeIsHTMLEditor`
 
- _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ Application.DefaultWebOptions.CheckIfOfficeIsHTMLEditor = False
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

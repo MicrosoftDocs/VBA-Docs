@@ -1,5 +1,5 @@
 ---
-title: Explorer.ViewSwitch Event (Outlook)
+title: Explorer.ViewSwitch event (Outlook)
 keywords: vbaol11.chm452
 f1_keywords:
 - vbaol11.chm452
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.ViewSwitch
 ms.assetid: ab981f42-d429-ccd7-a25c-142e52683020
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.ViewSwitch Event (Outlook)
+# Explorer.ViewSwitch event (Outlook)
 
 Occurs when the view in the explorer changes, either as a result of user action or through program code. 
 
 
 ## Syntax
 
- _expression_. `ViewSwitch`
+_expression_. `ViewSwitch`
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

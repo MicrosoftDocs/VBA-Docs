@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b013d6ca-2e99-f2c9-d64b-87ef0990493d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Not every [procedure](../../Glossary/vbe-glossary.md#procedure) that appears in 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

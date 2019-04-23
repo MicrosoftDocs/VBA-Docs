@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: fa7a2efc-ee6b-afe3-a6ae-dac8c542fa0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,5 @@ The INTO keyword is used in these contexts:
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

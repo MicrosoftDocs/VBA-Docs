@@ -8,19 +8,20 @@ api_name:
 - Excel.LegendKey.MarkerSize
 ms.assetid: 4c90aa34-9720-00b6-5149-9b7c2d1b56d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # LegendKey.MarkerSize property (Excel)
 
-Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write  **Long** .
+Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerSize`
+_expression_. `MarkerSize`
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
+_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the data-marker size, in points. Can be a value from 2 through 7
 
 [LegendKey Object](Excel.LegendKey(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

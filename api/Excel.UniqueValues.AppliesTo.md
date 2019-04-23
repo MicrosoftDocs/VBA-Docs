@@ -8,6 +8,7 @@ api_name:
 - Excel.UniqueValues.AppliesTo
 ms.assetid: 6ac8233d-eda7-820e-ce76-bd0dfb93114d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 ## Syntax
 
- _expression_. `AppliesTo`
+_expression_.**AppliesTo**
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

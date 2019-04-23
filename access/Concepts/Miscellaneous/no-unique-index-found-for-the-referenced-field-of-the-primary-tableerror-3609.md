@@ -3,6 +3,7 @@ title: No unique index found for the referenced field of the primary table. (Err
 ms.prod: access
 ms.assetid: 5400c6f5-c473-7128-d208-0f89b3ae323d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ When you create a relationship between tables, the referenced field in the prima
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

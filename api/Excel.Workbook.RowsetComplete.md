@@ -1,5 +1,5 @@
 ---
-title: Workbook.RowsetComplete Event (Excel)
+title: Workbook.RowsetComplete event (Excel)
 keywords: vbaxl10.chm503101
 f1_keywords:
 - vbaxl10.chm503101
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.RowsetComplete
 ms.assetid: 05bdddba-6716-4bba-01b6-863f27623821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.RowsetComplete Event (Excel)
+# Workbook.RowsetComplete event (Excel)
 
 The event is raised when the user either drills through the recordset or invokes the rowset action on an OLAP PivotTable.
 
 
 ## Syntax
 
- _expression_. `RowsetComplete`( `_Description_` , `_Sheet_` , `_Success_` )
+_expression_. `RowsetComplete`( `_Description_` , `_Sheet_` , `_Success_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ Because the recordset is created asynchronously, the event allows automation to 
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

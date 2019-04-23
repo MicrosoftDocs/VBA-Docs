@@ -1,14 +1,15 @@
 ---
-title: xlPageBreak enumeration (Excel)
+title: XlPageBreak enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPageBreak
 ms.assetid: 8e8f88fd-d12d-077d-bf36-a9084771fa41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPageBreak enumeration (Excel)
+# XlPageBreak enumeration (Excel)
 
 Specifies page break location in the worksheet.
 
@@ -20,3 +21,4 @@ Specifies page break location in the worksheet.
 | **xlPageBreakManual**|-4135|Page breaks are manually inserted.|
 | **xlPageBreakNone**|-4142|Page breaks are not inserted in the worksheet.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Name.Value
 ms.assetid: 26732c54-3519-885d-e40d-69c6b1795318
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the formula that the name is
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value that represents the formula that the name is
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Master.DrawArcByThreePoints Method (Visio)
+title: Master.DrawArcByThreePoints method (Visio)
 keywords: vis_sdr.chm10751415
 f1_keywords:
 - vis_sdr.chm10751415
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.DrawArcByThreePoints
 ms.assetid: d2df1c41-8164-d941-21a8-2e1b00de6199
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.DrawArcByThreePoints Method (Visio)
+# Master.DrawArcByThreePoints method (Visio)
 
 Creates a shape whose path consists of an arc defined by the three points passed as parameters.
 
 
 ## Syntax
 
- _expression_. `DrawArcByThreePoints`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_xControl_` , `_yControl_` )
+_expression_. `DrawArcByThreePoints`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_xControl_` , `_yControl_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -60,4 +61,4 @@ Public Sub DrawArcByThreePoints_Example
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.Master Property (Visio)
+title: Window.Master property (Visio)
 keywords: vis_sdr.chm11613870
 f1_keywords:
 - vis_sdr.chm11613870
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.Master
 ms.assetid: caf28e17-797a-91b2-c685-27ad0addddfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Master Property (Visio)
+# Window.Master property (Visio)
 
 Gets the master that is displayed in a window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Master`
+_expression_. `Master`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -34,4 +35,4 @@ You can use the  **SubType** property of the **Window** object to determine whet
 
 If the  **Window** object shows a master that is open for editing, the master returned is the temporary master being edited, not the original master that was opened for editing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

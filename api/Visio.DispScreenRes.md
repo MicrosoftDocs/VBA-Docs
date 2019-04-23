@@ -5,6 +5,7 @@ api_name:
 - Visio.DispScreenRes
 ms.assetid: ec62976a-4a92-f904-b7de-1e9470dc5411
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Specifies the screen resolution for your Web page. Read/write.
 
 ## Syntax
 
- _expression_. **DispScreenRes**
+_expression_.**DispScreenRes**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -33,4 +34,4 @@ The  **DispScreenRes** property affects only how raster-based formats (for examp
 
 The  **DispScreenRes** property value corresponds to the value in the **Target monitor** box on the **Advanced** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

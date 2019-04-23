@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Item Method (Excel)
+title: DataLabels.Item method (Excel)
 keywords: vbaxl10.chm584106
 f1_keywords:
 - vbaxl10.chm584106
@@ -8,19 +8,20 @@ api_name:
 - Excel.DataLabels.Item
 ms.assetid: bc45ebcc-00f0-c253-0d68-002d8f20d750
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.Item Method (Excel)
+# DataLabels.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Worksheets(1).ChartObjects(1).Chart _
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

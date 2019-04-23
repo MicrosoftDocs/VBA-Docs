@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.SetLastPriority Method (Excel)
+title: FormatCondition.SetLastPriority method (Excel)
 keywords: vbaxl10.chm512092
 f1_keywords:
 - vbaxl10.chm512092
@@ -8,19 +8,20 @@ api_name:
 - Excel.FormatCondition.SetLastPriority
 ms.assetid: fd6263a1-e67f-f4e8-2423-1601f73bdd5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormatCondition.SetLastPriority Method (Excel)
+# FormatCondition.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 
 
 ## Syntax
 
- _expression_. `SetLastPriority`
+_expression_.**SetLastPriority**
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupDays Method (Excel)
+title: WorksheetFunction.CoupDays method (Excel)
 keywords: vbaxl10.chm137329
 f1_keywords:
 - vbaxl10.chm137329
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CoupDays
 ms.assetid: 74749ba5-884c-2c13-30ab-fe9b6fb456ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CoupDays Method (Excel)
+# WorksheetFunction.CoupDays method (Excel)
 
 Returns the number of days in the coupon period that contains the settlement date.
 
 
 ## Syntax
 
- _expression_. `CoupDays`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `CoupDays`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ The following table contains the values used in  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

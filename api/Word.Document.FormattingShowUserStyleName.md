@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowUserStyleName Property (Word)
+title: Document.FormattingShowUserStyleName property (Word)
 keywords: vbawd10.chm158007819
 f1_keywords:
 - vbawd10.chm158007819
@@ -8,17 +8,18 @@ api_name:
 - Word.Document.FormattingShowUserStyleName
 ms.assetid: 16bdfdcd-f550-9b15-d405-20bd391aa0e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FormattingShowUserStyleName Property (Word)
+# Document.FormattingShowUserStyleName property (Word)
 
 Returns or sets a  **Boolean** that represents whether to show user-defined styles. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormattingShowUserStyleName`
+_expression_. `FormattingShowUserStyleName`
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
@@ -33,3 +34,4 @@ This property corresponds to the  **Hide built-in name when alternate names exis
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

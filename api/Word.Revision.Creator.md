@@ -1,5 +1,5 @@
 ---
-title: Revision.Creator Property (Word)
+title: Revision.Creator property (Word)
 keywords: vbawd10.chm159450089
 f1_keywords:
 - vbawd10.chm159450089
@@ -8,19 +8,20 @@ api_name:
 - Word.Revision.Creator
 ms.assetid: c08f2907-3b79-de50-56f7-0bef9044ca89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Revision.Creator Property (Word)
+# Revision.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
+_expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Revision Object](Word.Revision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

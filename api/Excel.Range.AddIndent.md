@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.AddIndent
 ms.assetid: 47cfb2a4-9050-354f-08f6-e86f0164be02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Returns or sets a  **Variant** value that indicates if text is automatically ind
 
 ## Syntax
 
- _expression_. `AddIndent`
+_expression_.**AddIndent**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
 
-Set the value of this property to  **True** to autmatically indent text when the text alignment in the cell is set, either horizontally or vertically, to equal distribution.
+Set the value of this property to  **True** to automatically indent text when the text alignment in the cell is set, either horizontally or vertically, to equal distribution.
 
-To set text alignment to equal distribution, you can set the  **[VerticalAlignment](Excel.Range.VerticalAlignment.md)** property to **xlVAlignDistributed** when the value of the **[Orientation](Excel.Range.Orientation.md)** property is **xlVertical** , and you can set the **[HorizontalAlignment](Excel.Range.HorizontalAlignment.md)** property to **xlHAlignDistributed** when the value of the **Orientation** property is **xlHorizontal** .
+To set text alignment to equal distribution, you can set the  **[VerticalAlignment](Excel.Range.VerticalAlignment.md)** property to **xlVAlignDistributed** when the value of the **[Orientation](Excel.Range.Orientation.md)** property is **xlVertical**, and you can set the **[HorizontalAlignment](Excel.Range.HorizontalAlignment.md)** property to **xlHAlignDistributed** when the value of the **Orientation** property is **xlHorizontal**.
 
 
 ## Example
@@ -48,3 +49,4 @@ End With
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

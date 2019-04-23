@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.BarColor
 ms.assetid: 68c823f7-93ca-a64a-43ea-bc5bcffa7bb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to mo
 
 ## Syntax
 
- _expression_. `BarColor`
+_expression_. `BarColor`
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to mo
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,16 +1,17 @@
 ---
-title: xlChartSplitType enumeration (Excel)
+title: XlChartSplitType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartSplitType
 ms.assetid: 29100967-2415-1e53-4125-4837ee4ecbad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlChartSplitType enumeration (Excel)
+# XlChartSplitType enumeration (Excel)
 
-Specifies the values displayed in the second chart in a pie chart or a bar of pie chart.
+Specifies the values displayed in the second chart in a pie chart or a Bar of Pie chart.
 
 
 
@@ -21,3 +22,4 @@ Specifies the values displayed in the second chart in a pie chart or a bar of pi
 | **xlSplitByPosition**|1|Second chart displays the smallest values in the data series. The number of values to display is specified by the  **SplitValue** property.|
 | **xlSplitByValue**|2|Second chart displays values less than the value specified by the  **SplitValue** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

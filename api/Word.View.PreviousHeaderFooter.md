@@ -1,5 +1,5 @@
 ---
-title: View.PreviousHeaderFooter Method (Word)
+title: View.PreviousHeaderFooter method (Word)
 keywords: vbawd10.chm161808489
 f1_keywords:
 - vbawd10.chm161808489
@@ -8,19 +8,20 @@ api_name:
 - Word.View.PreviousHeaderFooter
 ms.assetid: fee57f18-348d-a671-2fb2-1f9797c39727
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.PreviousHeaderFooter Method (Word)
+# View.PreviousHeaderFooter method (Word)
 
 Moves to the previous header or footer, depending on whether a header or footer is displayed in the view.
 
 
 ## Syntax
 
- _expression_. `PreviousHeaderFooter`
+_expression_. `PreviousHeaderFooter`
 
- _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
+_expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

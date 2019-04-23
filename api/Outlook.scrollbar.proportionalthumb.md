@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 3238c848-3279-9a3b-a576-136d9f1ddf28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether the size of the scroll box
 
 ## Syntax
 
- _expression_. **ProportionalThumb**
+_expression_.**ProportionalThumb**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The size of a proportional scroll box graphically represents the percentage of t
 
 If the scroll box is a fixed size, the system determines its size based on the height and width of the scroll bar.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

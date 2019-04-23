@@ -1,5 +1,5 @@
 ---
-title: OMath.Justification Property (Word)
+title: OMath.Justification property (Word)
 keywords: vbawd10.chm176357491
 f1_keywords:
 - vbawd10.chm176357491
@@ -8,17 +8,18 @@ api_name:
 - Word.OMath.Justification
 ms.assetid: 6e5d2221-bbfb-b108-159f-d705b900c25e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OMath.Justification Property (Word)
+# OMath.Justification property (Word)
 
 Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justification for an equation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Justification`
+_expression_. `Justification`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 
@@ -28,3 +29,4 @@ Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justif
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

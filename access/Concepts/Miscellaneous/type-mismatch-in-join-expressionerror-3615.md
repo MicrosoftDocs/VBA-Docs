@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 05fbb6e2-6055-2114-4729-20722c0c94bf
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -25,3 +26,5 @@ A JOIN expression is attempting to join two tables on fields of incompatible dat
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

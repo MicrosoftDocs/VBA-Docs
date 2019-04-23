@@ -1,5 +1,5 @@
 ---
-title: Store.IsConversationEnabled Property (Outlook)
+title: Store.IsConversationEnabled property (Outlook)
 keywords: vbaol11.chm3518
 f1_keywords:
 - vbaol11.chm3518
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Store.IsConversationEnabled
 ms.assetid: ce333881-a5f3-2115-0ae4-296d15c4bead
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Store.IsConversationEnabled Property (Outlook)
+# Store.IsConversationEnabled property (Outlook)
 
 Returns a  **Boolean** value that is **True** if the store supports Conversation view. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsConversationEnabled`
+_expression_. `IsConversationEnabled`
 
- _expression_ A variable that represents a '[Store](Outlook.Store.md)' object.
+_expression_ A variable that represents a '[Store](Outlook.Store.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ If a store supports conversations, calling the  **GetConversation** method of an
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

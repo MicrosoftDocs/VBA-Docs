@@ -3,6 +3,7 @@ title: ToggleButton Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 62b4a042-546b-40b6-bd23-629d0c0306ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Shows the selection state of an item.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.togglebutton.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [Alignment](Outlook.togglebutton.alignment.md)|Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.|
@@ -43,9 +44,8 @@ Shows the selection state of an item.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.togglebutton.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

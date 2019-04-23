@@ -1,5 +1,5 @@
 ---
-title: Sync.WorkspaceLastChangedBy Property (Office)
+title: Sync.WorkspaceLastChangedBy property (Office)
 keywords: vbaof11.chm277002
 f1_keywords:
 - vbaof11.chm277002
@@ -7,11 +7,12 @@ ms.prod: office
 api_name:
 - Office.Sync.WorkspaceLastChangedBy
 ms.assetid: f2eac8a6-5e94-44a9-3d2f-1ca04cf54361
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# Sync.WorkspaceLastChangedBy Property (Office)
+# Sync.WorkspaceLastChangedBy property (Office)
 
 Displays the display name of the user who last saved changes to the server copy of a shared document. Read-only.
 
@@ -21,14 +22,14 @@ Displays the display name of the user who last saved changes to the server copy 
 
 ## Syntax
 
- _expression_. `WorkspaceLastChangedBy`
+_expression_.**WorkspaceLastChangedBy**
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+_expression_ A variable that represents a **[Sync](Office.Sync.md)** object.
 
 
 ## Remarks
 
-If the active document is not configured for synchronization between the local copy and the server copy, the  **WorkspaceLastChangedBy** property raises a run-time error.
+If the active document is not configured for synchronization between the local copy and the server copy, the **WorkspaceLastChangedBy** property raises a run-time error.
 
 
 ## Example
@@ -53,10 +54,8 @@ The following example checks for a conflict between the local and the server cop
 
 ## See also
 
-
-[Sync Object](Office.Sync.md)
-
+- [Sync object members](overview/Library-Reference/sync-members-office.md)
 
 
-[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6e63d2ee-5977-e8f3-d18c-074f2c5f0fbc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You may have tried to load a form with controls whose names conflict with forms already in the [project](../../Glossary/vbe-glossary.md#project). For example, loading Form2 that contains a Form1 control triggers this error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

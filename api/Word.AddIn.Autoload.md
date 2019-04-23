@@ -1,5 +1,5 @@
 ---
-title: AddIn.Autoload Property (Word)
+title: AddIn.Autoload property (Word)
 keywords: vbawd10.chm159252486
 f1_keywords:
 - vbawd10.chm159252486
@@ -8,17 +8,18 @@ api_name:
 - Word.AddIn.Autoload
 ms.assetid: 320b5624-2b00-991c-18ac-568c87caff42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.Autoload Property (Word)
+# AddIn.Autoload property (Word)
 
- **True** if the specified add-in is automatically loaded when Word is started. Add-ins located in the Startup folder in the Word program folder are automatically loaded. Read-only **Boolean** .
+ **True** if the specified add-in is automatically loaded when Word is started. Add-ins located in the Startup folder in the Word program folder are automatically loaded. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Autoload`
+_expression_. `Autoload`
 
  _expression_ A variable that represents a '[AddIn](Word.AddIn.md)' object.
 
@@ -68,3 +69,4 @@ Next addinLoop
 
 [AddIn Object](Word.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

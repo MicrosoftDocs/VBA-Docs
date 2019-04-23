@@ -8,6 +8,7 @@ api_name:
 - Excel.ShadowFormat.ForeColor
 ms.assetid: af89408d-a354-d277-c8f3-4e10213ce563
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

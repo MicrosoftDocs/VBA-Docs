@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: b244c5e1-2cc9-472a-573d-69404e2a259d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a collection of relationships between Data Model tables. Read-only
 
 ## Syntax
 
- _expression_. `ModelRelationships`
+_expression_. `ModelRelationships`
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Property value
@@ -31,4 +32,4 @@ Returns a collection of relationships between Data Model tables. Read-only
 
 [Model Object Members](overview/Excel.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: FreeformBuilder.Creator Property (PowerPoint)
+title: FreeformBuilder.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.Creator
 ms.assetid: 27b13b1e-eca5-90c1-c4ac-fbe56dd1cd30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Creator Property (PowerPoint)
+# FreeformBuilder.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [FreeformBuilder](./PowerPoint.FreeformBuilder.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [FreeformBuilder Object](PowerPoint.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

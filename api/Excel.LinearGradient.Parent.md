@@ -8,6 +8,7 @@ api_name:
 - Excel.LinearGradient.Parent
 ms.assetid: adf215eb-a22c-e94d-35b1-355c0be4d98e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Object
 
 [LinearGradient Object](Excel.LinearGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

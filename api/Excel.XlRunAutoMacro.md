@@ -1,14 +1,15 @@
 ---
-title: xlRunAutoMacro enumeration (Excel)
+title: XlRunAutoMacro enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRunAutoMacro
 ms.assetid: 03724ab8-23dd-1bbd-6a47-719309a17648
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlRunAutoMacro enumeration (Excel)
+# XlRunAutoMacro enumeration (Excel)
 
 Specifies the automatic macro to run.
 
@@ -21,3 +22,4 @@ Specifies the automatic macro to run.
 | **xlAutoDeactivate**|4|Auto_Deactivate macros|
 | **xlAutoOpen**|1|Auto_Open macros|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

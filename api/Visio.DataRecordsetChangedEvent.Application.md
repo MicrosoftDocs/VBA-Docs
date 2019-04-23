@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.Application Property (Visio)
+title: DataRecordsetChangedEvent.Application property (Visio)
 keywords: vis_sdr.chm17213090
 f1_keywords:
 - vis_sdr.chm17213090
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsetChangedEvent.Application
 ms.assetid: 1dd9eeb9-64d1-538f-55e2-3d3f9465b34a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.Application Property (Visio)
+# DataRecordsetChangedEvent.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with a  **DataRecordsetChangedEvent** object. Read-only.
 
@@ -21,7 +22,7 @@ Returns the instance of Microsoft Visio associated with a  **DataRecordsetChange
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
@@ -30,4 +31,4 @@ Returns the instance of Microsoft Visio associated with a  **DataRecordsetChange
 
 Application
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

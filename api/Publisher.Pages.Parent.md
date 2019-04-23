@@ -1,5 +1,5 @@
 ---
-title: Pages.Parent Property (Publisher)
+title: Pages.Parent property (Publisher)
 keywords: vbapb10.chm458754
 f1_keywords:
 - vbapb10.chm458754
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Pages.Parent
 ms.assetid: 30de36f1-c65c-1549-c054-a20987a61ca7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.Parent Property (Publisher)
+# Pages.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Pages** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

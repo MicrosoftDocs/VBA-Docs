@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 062f0a53-b483-402e-b960-ebd009571a77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Day Object (Project)](http://msdn.microsoft.com/library/411fe04f-b68d-08c2-8b6c-f2c1e9927a34%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

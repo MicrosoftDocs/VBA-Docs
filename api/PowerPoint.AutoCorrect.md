@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object (PowerPoint)
+title: AutoCorrect object (PowerPoint)
 keywords: vbapp10.chm666000
 f1_keywords:
 - vbapp10.chm666000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AutoCorrect
 ms.assetid: c7d0c7a5-220e-6290-b326-cb5cf17c458b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrect Object (PowerPoint)
+# AutoCorrect object (PowerPoint)
 
 Represents the AutoCorrect functionality in Microsoft PowerPoint.
 
@@ -41,3 +42,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

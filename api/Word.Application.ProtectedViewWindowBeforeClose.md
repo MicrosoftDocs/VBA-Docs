@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeClose Event (Word)
+title: Application.ProtectedViewWindowBeforeClose event (Word)
 keywords: vbawd10.chm4000033
 f1_keywords:
 - vbawd10.chm4000033
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ProtectedViewWindowBeforeClose
 ms.assetid: 4557dd3d-b795-94d9-ee53-5e83dcdd03d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeClose Event (Word)
+# Application.ProtectedViewWindowBeforeClose event (Word)
 
 Occurs immediately before a protected view window or a document in a protected view window closes.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowBeforeClose`( `_PvWindow_` , `_CloseReason_` , `_Cancel_` )
+_expression_. `ProtectedViewWindowBeforeClose`( `_PvWindow_` , `_CloseReason_` , `_Cancel_` )
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -31,7 +32,7 @@ Occurs immediately before a protected view window or a document in a protected v
 |:-----|:-----|:-----|:-----|
 | _PvWindow_|Required| **ProtectedViewWindow**|The protected view window that is closed.|
 | _CloseReason_|Required| **[INT]**|A constant in the [WdProtectedViewCloseReason](Word.WdProtectedViewCloseReason.md) enumeration that specifies the reason the protected view window is closed.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the window does not close when the procedure is finished.
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the window does not close when the procedure is finished.
  **Note**  If the  **ProtectedViewWindowsBeforeClose** event is called as part of the [ProtectedView.Edit](Word.ProtectedViewWindow.Edit.md) method, setting _Cancel_ to **True** produces no action.
 
 |
@@ -64,3 +65,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

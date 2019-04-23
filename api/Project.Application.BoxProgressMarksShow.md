@@ -1,5 +1,5 @@
 ---
-title: Application.BoxProgressMarksShow Method (Project)
+title: Application.BoxProgressMarksShow method (Project)
 keywords: vbapj.chm46
 f1_keywords:
 - vbapj.chm46
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxProgressMarksShow
 ms.assetid: fd0ff0bd-7069-5e41-fa50-a47a4b09e9f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxProgressMarksShow Method (Project)
+# Application.BoxProgressMarksShow method (Project)
 
 Shows or hides progress marks in the active Network Diagram.
 
 
 ## Syntax
 
- _expression_. `BoxProgressMarksShow`( ` _Show_` )
+_expression_. `BoxProgressMarksShow`( `_Show_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sub BoxProgress_MarksShow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

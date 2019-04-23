@@ -8,19 +8,20 @@ api_name:
 - Excel.SlicerCacheLevel.Creator
 ms.assetid: 9d590acb-150d-3573-534d-436778fdc61b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SlicerCacheLevel.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
+_expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

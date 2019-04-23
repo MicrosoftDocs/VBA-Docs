@@ -3,6 +3,7 @@ title: Image Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 92e8b1ef-f853-4b66-8c91-d715210abb5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Displays a picture on a form.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [AutoSize](Outlook.Image.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
 | [BackColor](Outlook.Image.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
@@ -37,9 +38,8 @@ Displays a picture on a form.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.Image.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

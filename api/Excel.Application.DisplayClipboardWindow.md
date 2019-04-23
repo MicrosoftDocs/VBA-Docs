@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Application.DisplayClipboardWindow
 ms.assetid: 16686caf-39ed-90fa-4a61-92b3f825cc6c
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
 # Application.DisplayClipboardWindow property (Excel)
 
-Returns  **True** if the Microsoft Office Clipboard can be displayed. Read/write **Boolean** .
+Returns **True** if the Microsoft Office Clipboard can be displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayClipboardWindow`
+_expression_.**DisplayClipboardWindow**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
 
-In this example, Microsoft Excel determines if the Office Clipboard can be displayed and notifies the user.
-
+In this example, Microsoft Excel determines if the Office Clipboard can be displayed, and notifies the user.
 
 ```vb
 Sub SeeClipboard() 
@@ -42,8 +42,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

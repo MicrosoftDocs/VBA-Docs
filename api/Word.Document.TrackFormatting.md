@@ -1,5 +1,5 @@
 ---
-title: Document.TrackFormatting Property (Word)
+title: Document.TrackFormatting property (Word)
 keywords: vbawd10.chm158007798
 f1_keywords:
 - vbawd10.chm158007798
@@ -8,17 +8,18 @@ api_name:
 - Word.Document.TrackFormatting
 ms.assetid: b3c39567-5aed-016b-2d43-d72be55c6ebd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TrackFormatting Property (Word)
+# Document.TrackFormatting property (Word)
 
-Returns or sets a ** Boolean** that represents whether to track formatting changes when change tracking is turned on. Read/write.
+Returns or sets a **Boolean** that represents whether to track formatting changes when change tracking is turned on. Read/write.
 
 
 ## Syntax
 
- _expression_. `TrackFormatting`
+_expression_. `TrackFormatting`
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
@@ -28,3 +29,4 @@ Returns or sets a ** Boolean** that represents whether to track formatting chang
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

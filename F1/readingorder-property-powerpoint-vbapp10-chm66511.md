@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 54516370-e95e-41ce-bb0a-cee85f1a2ca0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.ReadingOrder Property (PowerPoint)](http://msdn.microsoft.com/library/8c2880ab-b479-31fa-7cc6-663d1b0fc147%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

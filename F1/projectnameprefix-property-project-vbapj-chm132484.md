@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7fa3455b-432c-4645-a422-1b6111f52a2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.PanZoomStart Property (Project)](http://msdn.microsoft.com/library/7e5ff081-c5fb-165e-8ded-bad1c3cdc72a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

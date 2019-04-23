@@ -8,14 +8,15 @@ api_name:
 - Access.AcPrintRange
 ms.assetid: 78d5a3d5-a94d-fb8c-45dd-5ba757576194
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcPrintRange enumeration (Access)
 
-Used with the  **PrintOut** method to specify the range to print.
+Used with the **PrintOut** method to specify the range to print.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Used with the  **PrintOut** method to specify the range to print.
 |**acPrintAll**|0|Prints all of the object.|
 |**acSelection**|1|Prints the selected part of the object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

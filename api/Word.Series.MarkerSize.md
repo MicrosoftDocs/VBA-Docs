@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerSize Property (Word)
+title: Series.MarkerSize property (Word)
 keywords: vbawd10.chm123732199
 f1_keywords:
 - vbawd10.chm123732199
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.MarkerSize
 ms.assetid: fbda4404-b067-94fe-4202-a736a246e949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.MarkerSize Property (Word)
+# Series.MarkerSize property (Word)
 
-Returns or sets the data-marker size, in points. Read/write  **Long** .
+Returns or sets the data-marker size, in points. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerSize`
+_expression_. `MarkerSize`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -48,3 +49,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

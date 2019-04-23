@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.ConnectorFormat
 ms.assetid: cc2c9559-a7f5-8e32-1976-c81e400fb9dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains 
 
 ## Syntax
 
- _expression_. `ConnectorFormat`
+_expression_. `ConnectorFormat`
 
- _expression_ An expression that returns a [ShapeRange](./Excel.ShapeRange.md) object.
+ _expression_ An expression that returns a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
+This example adds two rectangles to  _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 
 ```vb
@@ -49,3 +50,4 @@ End With
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

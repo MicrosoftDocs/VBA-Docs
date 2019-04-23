@@ -1,12 +1,13 @@
 ---
-title: Indexes Object (Word)
+title: Indexes object (Word)
 ms.prod: word
 ms.assetid: 0441446a-c1b5-d333-5950-906fe463b61d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Indexes Object (Word)
+# Indexes object (Word)
 
 A collection of  **[Index](Word.Index.md)** objects that represents all the indexes in the specified document.
 
@@ -47,5 +48,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

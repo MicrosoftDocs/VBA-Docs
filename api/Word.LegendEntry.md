@@ -1,5 +1,5 @@
 ---
-title: LegendEntry Object (Word)
+title: LegendEntry object (Word)
 keywords: vbawd10.chm73
 f1_keywords:
 - vbawd10.chm73
@@ -8,10 +8,11 @@ api_name:
 - Word.LegendEntry
 ms.assetid: 9f793578-cb9b-faa1-f0a1-ea0f9e90dc6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendEntry Object (Word)
+# LegendEntry object (Word)
 
 Represents a legend entry in a chart legend.
 
@@ -37,12 +38,12 @@ The text of a legend entry cannot be changed.  **LegendEntry** objects support f
 
 There is no direct way to return the series or trendline that corresponds to the legend entry.
 
-After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](Word.Chart.HasLegend.md)** property for the chart to **False** and then back to **True** .
+After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](Word.Chart.HasLegend.md)** property for the chart to **False** and then back to **True**.
 
 
 ## Example
 
-Use  **[LegendEntries](Word.Legend.LegendEntries.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **[LegendEntries](Word.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend, and `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document.
 
@@ -61,6 +62,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

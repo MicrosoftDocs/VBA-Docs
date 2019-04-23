@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFormula.Value
 ms.assetid: a82beff5-d8ee-9d93-7ec9-4e3ecc05f624
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the name of the specified fo
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
+_expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value that represents the name of the specified fo
 
 [PivotFormula Object](Excel.PivotFormula.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8f2a1708-e3a0-4b76-8548-e908d1f66570
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.DisplayWhen property (Access)](http://msdn.microsoft.com/library/3775036c-c483-1c2d-6845-cd999104925d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

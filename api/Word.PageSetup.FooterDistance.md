@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FooterDistance Property (Word)
+title: PageSetup.FooterDistance property (Word)
 keywords: vbawd10.chm158400625
 f1_keywords:
 - vbawd10.chm158400625
@@ -8,17 +8,18 @@ api_name:
 - Word.PageSetup.FooterDistance
 ms.assetid: 0c3fda7d-be19-982c-b54e-34905be189d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.FooterDistance Property (Word)
+# PageSetup.FooterDistance property (Word)
 
-Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write  **Single** .
+Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `FooterDistance`
+_expression_. `FooterDistance`
 
  _expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
@@ -47,3 +48,4 @@ Selection.Range.PageSetup.FooterDistance = 72
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

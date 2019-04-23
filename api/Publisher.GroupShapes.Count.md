@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Count Property (Publisher)
+title: GroupShapes.Count property (Publisher)
 keywords: vbapb10.chm3342339
 f1_keywords:
 - vbapb10.chm3342339
@@ -8,17 +8,18 @@ api_name:
 - Publisher.GroupShapes.Count
 ms.assetid: 718802f3-a23f-fdbe-253f-bfd27189359e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Count Property (Publisher)
+# GroupShapes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **GroupShapes** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

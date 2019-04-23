@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Norm_S_Dist Method (Excel)
+title: WorksheetFunction.Norm_S_Dist method (Excel)
 keywords: vbaxl10.chm137410
 f1_keywords:
 - vbaxl10.chm137410
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Norm_S_Dist
 ms.assetid: ea17ac4a-82dc-ce24-0b3f-dc0452d805c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Norm_S_Dist Method (Excel)
+# WorksheetFunction.Norm_S_Dist method (Excel)
 
 Returns the standard normal cumulative distribution function. The distribution has a mean of 0 (zero) and a standard deviation of one. Use this function in place of a table of standard normal curve areas.
 
 
 ## Syntax
 
- _expression_. `Norm_S_Dist`( `_Arg1_` )
+_expression_. `Norm_S_Dist`( `_Arg1_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

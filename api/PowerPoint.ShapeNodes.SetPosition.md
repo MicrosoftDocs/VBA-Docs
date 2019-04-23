@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (PowerPoint)
+title: ShapeNodes.SetPosition method (PowerPoint)
 keywords: vbapp10.chm560008
 f1_keywords:
 - vbapp10.chm560008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShapeNodes.SetPosition
 ms.assetid: 8defcf80-84d8-538a-2dce-d3ffe5e8dfb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetPosition Method (PowerPoint)
+# ShapeNodes.SetPosition method (PowerPoint)
 
 Sets the location of the node specified by  **Index**. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
- _expression_. `SetPosition`( `_Index_`, `_X1_`, `_Y1_` )
+_expression_. `SetPosition`( `_Index_`, `_X1_`, `_Y1_` )
 
  _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
@@ -35,7 +36,7 @@ Sets the location of the node specified by  **Index**. Note that, depending on t
 
 ## Example
 
-This example moves node two in shape three on  `myDocument` to the right 200 points and down 300 points. Shape three must be a freeform drawing.
+This example moves node two in shape three on  _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
 
 
 ```vb
@@ -60,3 +61,4 @@ End With
 
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

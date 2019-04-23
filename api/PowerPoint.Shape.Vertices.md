@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (PowerPoint)
+title: Shape.Vertices property (PowerPoint)
 keywords: vbapp10.chm547040
 f1_keywords:
 - vbapp10.chm547040
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Vertices
 ms.assetid: b9ce441c-b305-4224-3fe8-3f947199a4d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Vertices Property (PowerPoint)
+# Shape.Vertices property (PowerPoint)
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. Read-only.
+Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only.
 
 
 ## Syntax
 
- _expression_. `Vertices`
+_expression_. `Vertices`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -47,7 +48,7 @@ The following table shows how the  **Vertices** property associates the values i
 
 ## Example
 
-This example assigns the vertex coordinates for shape one on  `myDocument` to the array variable `vertArray()` and displays the coordinates for the first vertex.
+This example assigns the vertex coordinates for shape one on  _myDocument_ to the array variable `vertArray()` and displays the coordinates for the first vertex.
 
 
 ```vb
@@ -66,7 +67,7 @@ With myDocument.Shapes(1)
 End With
 ```
 
-This example creates a curve that has the same geometric description as shape one on  `myDocument`. Shape one must contain 3 _n_ +1 vertices for this example to succeed.
+This example creates a curve that has the same geometric description as shape one on  _myDocument_. Shape one must contain 3 _n_ +1 vertices for this example to succeed.
 
 
 
@@ -87,3 +88,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

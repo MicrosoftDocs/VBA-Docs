@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TDist Method (Excel)
+title: WorksheetFunction.TDist method (Excel)
 keywords: vbaxl10.chm137205
 f1_keywords:
 - vbaxl10.chm137205
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.TDist
 ms.assetid: fb2165bc-0643-9046-13c7-0bfbd56cde93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.TDist Method (Excel)
+# WorksheetFunction.TDist method (Excel)
 
 Returns the Percentage Points (probability) for the Student t-distribution where a numeric value (x) is a calculated value of t for which the Percentage Points are to be computed. The t-distribution is used in the hypothesis testing of small sample data sets. Use this function in place of a table of critical values for the t-distribution.
 
@@ -26,9 +27,9 @@ For more information about the new functions, see the [T_Dist_RT](Excel.Workshee
 
 ## Syntax
 
- _expression_. `TDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `TDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

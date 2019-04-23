@@ -1,12 +1,13 @@
 ---
-title: CoAuthUpdates Object (Word)
+title: CoAuthUpdates object (Word)
 ms.assetid: afd0abeb-276e-96f4-ee8a-01f263e69121
 ms.prod: word
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthUpdates Object (Word)
+# CoAuthUpdates object (Word)
 
 A collection of [CoAuthUpdate](Word.CoAuthUpdate.md) objects that represent the updates that were merged into the document at the last explicit save.
 
@@ -36,5 +37,6 @@ MsgBox "The number of updates is " & countOfUpdates
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

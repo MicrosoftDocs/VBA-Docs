@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.HasPassword
 ms.assetid: e3cfdc90-1e82-5556-0064-e8269ba92539
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.HasPassword property (Excel)
 
- **True** if the workbook has a protection password. Read-only **Boolean** .
+ **True** if the workbook has a protection password. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasPassword`
+_expression_. `HasPassword`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

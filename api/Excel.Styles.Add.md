@@ -1,5 +1,5 @@
 ---
-title: Styles.Add Method (Excel)
+title: Styles.Add method (Excel)
 keywords: vbaxl10.chm179073
 f1_keywords:
 - vbaxl10.chm179073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Styles.Add
 ms.assetid: 623ed34e-d79d-2f16-475a-0c58aef04aa4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles.Add Method (Excel)
+# Styles.Add method (Excel)
 
 Creates a new style and adds it to the list of styles that are available for the current workbook.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ A variable that represents a [Styles](./Excel.Styles.md) object.
+_expression_ A variable that represents a [Styles](Excel.Styles.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ End With
 
 [Styles Object](Excel.Styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

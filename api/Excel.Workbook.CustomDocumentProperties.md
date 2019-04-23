@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.CustomDocumentProperties
 ms.assetid: 8470adbb-5b10-96ba-71f7-c667c33b6707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.CustomDocumentProperties property (Excel)
 
-Returns or sets a  **[DocumentProperties](./Office.DocumentProperties.md)** collection that represents all the custom document properties for the specified workbook.
+Returns or sets a  **[DocumentProperties](Office.DocumentProperties.md)** collection that represents all the custom document properties for the specified workbook.
 
 
 ## Syntax
 
- _expression_. `CustomDocumentProperties`
+_expression_. `CustomDocumentProperties`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ Next
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

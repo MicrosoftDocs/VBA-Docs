@@ -1,21 +1,22 @@
 ---
-title: Resource.Level Method (Project)
+title: Resource.Level method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Level
 ms.assetid: b6c7f694-0854-2ec0-48ec-91721cef993c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Level Method (Project)
+# Resource.Level method (Project)
 
 Levels the resource.
 
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -40,4 +41,4 @@ Sub LevelResourcesInSelectedTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

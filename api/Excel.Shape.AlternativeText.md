@@ -8,19 +8,20 @@ api_name:
 - Excel.Shape.AlternativeText
 ms.assetid: 40b53b31-c4e2-0fd8-1a37-fa1e88ccd2be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Shape.AlternativeText property (Excel)
 
-Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel.Shape.md)** object when the object is saved to a Web page. Read/write **String** .
+Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel.Shape.md)** object when the object is saved to a web page. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets(1).Shapes(1).AlternativeText = "Concentric circles"
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

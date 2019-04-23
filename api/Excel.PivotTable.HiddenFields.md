@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.HiddenFields
 ms.assetid: f59f471f-5ce9-fa81-ab37-91eb78666870
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 ## Syntax
 
- _expression_. `HiddenFields`( `_Index_` )
+_expression_. `HiddenFields` (_Index_)
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Next pvtField
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

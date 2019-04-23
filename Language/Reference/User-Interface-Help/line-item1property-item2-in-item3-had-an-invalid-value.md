@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 110f394e-f421-9972-d9cc-3b406513fcbb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a [property](../../Glossary/vbe-glossary.md#property) with a value that isn't correct for this[control](../../Glossary/vbe-glossary.md#control). The property is set with its default value.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

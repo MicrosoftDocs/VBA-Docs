@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (Word)
+title: Hyperlink.SubAddress property (Word)
 keywords: vbawd10.chm161285197
 f1_keywords:
 - vbawd10.chm161285197
@@ -8,17 +8,18 @@ api_name:
 - Word.Hyperlink.SubAddress
 ms.assetid: 9dff8453-c7e5-fd1a-89f8-869f762b0bdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.SubAddress Property (Word)
+# Hyperlink.SubAddress property (Word)
 
-Returns or sets a named location in the destination of the specified hyperlink. Read/write  **String** .
+Returns or sets a named location in the destination of the specified hyperlink. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `SubAddress`
+_expression_. `SubAddress`
 
  _expression_ An expression that returns a '[Hyperlink](Word.Hyperlink.md)' object.
 
@@ -57,3 +58,4 @@ MsgBox "The hyperlink goes to " & SCut.SubAddress
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

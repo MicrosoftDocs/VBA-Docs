@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerVisible
 ms.assetid: b62ce57e-a1a0-06b2-ade5-71e1c11b0596
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the specified layer is visible in th
 
 ## Syntax
 
- _expression_. **LayerVisible**(**_LayerIndex_**)
+_expression_.**LayerVisible**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code gets a value that indicates whether the layer at index positi
 Debug.Print vsoViewer.LayerVisible(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

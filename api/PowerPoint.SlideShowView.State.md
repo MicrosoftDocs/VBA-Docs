@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.State Property (PowerPoint)
+title: SlideShowView.State property (PowerPoint)
 keywords: vbapp10.chm513006
 f1_keywords:
 - vbapp10.chm513006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.State
 ms.assetid: 749fe106-fed4-6ccc-f127-2e8a80196309
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.State Property (PowerPoint)
+# SlideShowView.State property (PowerPoint)
 
 Returns or sets the state of the slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `State`
+_expression_. `State`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -56,3 +57,4 @@ SlideShowWindows(1).View.State = ppSlideShowBlackScreen
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

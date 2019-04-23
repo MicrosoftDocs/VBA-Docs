@@ -1,15 +1,16 @@
 ---
-title: KeysBoundTo Object (Word)
+title: KeysBoundTo object (Word)
 keywords: vbawd10.chm2455
 f1_keywords:
 - vbawd10.chm2455
 ms.prod: word
 ms.assetid: 63ed40e5-8223-78d6-c90a-bf6be8a2fbf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeysBoundTo Object (Word)
+# KeysBoundTo object (Word)
 
 A collection of  **[KeyBinding](Word.KeyBinding.md)** objects assigned to a command, style, macro, or other item in the current context.
 
@@ -43,6 +44,6 @@ MsgBox kb.Context.Name
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

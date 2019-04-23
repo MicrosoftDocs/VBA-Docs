@@ -1,14 +1,15 @@
 ---
-title: Month Object (Project)
+title: Month object (Project)
 ms.prod: project-server
 api_name:
 - Project.Month
 ms.assetid: 5ee32f12-72aa-fa16-ead2-97949005cd7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Month Object (Project)
+# Month object (Project)
 
 Represents a month in a year. The  **Month** object is a member of the **[Months](Project.months.md)** collection.
  
@@ -70,7 +71,7 @@ ActiveProject.Calendar.Years(2012).Months.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Month.Default.md)|
 
@@ -78,7 +79,7 @@ ActiveProject.Calendar.Years(2012).Months.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Month.Application.md)|
 |[Calendar](Project.Month.Calendar.md)|
@@ -94,3 +95,4 @@ ActiveProject.Calendar.Years(2012).Months.Count
 |[Shift5](Project.Month.Shift5.md)|
 |[Working](Project.Month.Working.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

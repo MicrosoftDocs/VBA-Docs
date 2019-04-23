@@ -1,14 +1,15 @@
 ---
-title: PjListOrder Enumeration (Project)
+title: PjListOrder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjListOrder
 ms.assetid: 925b0e86-5f77-995c-18a9-96786f46bfcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjListOrder Enumeration (Project)
+# PjListOrder enumeration (Project)
 
 Contains constants that specify the order in which the items in a list are displayed.
 
@@ -20,3 +21,4 @@ Contains constants that specify the order in which the items in a list are displ
 |**pjListOrderDefault**|0|Default.|
 |**pjListOrderDescending**|2|Descending.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

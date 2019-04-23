@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartArea Property (PowerPoint)
+title: Chart.ChartArea property (PowerPoint)
 keywords: vbapp10.chm684017
 f1_keywords:
 - vbapp10.chm684017
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.ChartArea
 ms.assetid: 2b3a7b7f-c27d-7f79-7625-7d9b20c049c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartArea Property (PowerPoint)
+# Chart.ChartArea property (PowerPoint)
 
 Returns the complete chart area for the chart. Read-only  **[ChartArea](PowerPoint.ChartArea.md)**.
 
 
 ## Syntax
 
- _expression_. `ChartArea`
+_expression_. `ChartArea`
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.OLAP
 ms.assetid: 621ca936-5b60-98be-45a2-ea15ef5297ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns whether the slicer associated with the specified slicer cache is based o
 
 ## Syntax
 
- _expression_. `OLAP`
+_expression_. `OLAP`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns whether the slicer associated with the specified slicer cache is based o
 
 ## Remarks
 
- **True** , if the slicer is based on an OLAP data source; otherwise **False** .
+ **True**, if the slicer is based on an OLAP data source; otherwise **False**.
 
 
 ## See also
@@ -38,3 +39,4 @@ Returns whether the slicer associated with the specified slicer cache is based o
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

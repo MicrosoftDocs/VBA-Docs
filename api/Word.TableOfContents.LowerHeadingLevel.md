@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.LowerHeadingLevel Property (Word)
+title: TableOfContents.LowerHeadingLevel property (Word)
 keywords: vbawd10.chm152240132
 f1_keywords:
 - vbawd10.chm152240132
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfContents.LowerHeadingLevel
 ms.assetid: 02bd1965-b3a1-e09a-fb08-62862e87536b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfContents.LowerHeadingLevel Property (Word)
+# TableOfContents.LowerHeadingLevel property (Word)
 
-Returns or sets the ending heading level for a table of contents or table of figures. Read/write  **Long** .
+Returns or sets the ending heading level for a table of contents or table of figures. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `LowerHeadingLevel`
+_expression_. `LowerHeadingLevel`
 
- _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End If
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Project.LevelFromDate Property (Project)
+title: Project.LevelFromDate property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.LevelFromDate
 ms.assetid: 19e29259-de9d-9e8a-b724-129839dca23b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.LevelFromDate Property (Project)
+# Project.LevelFromDate property (Project)
 
 Gets or sets the starting date of a range in which overallocated resources are leveled. The default is the project start date or the last entered date value. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `LevelFromDate`
+_expression_. `LevelFromDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -62,4 +63,4 @@ Sub ChangeLevelingDates()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

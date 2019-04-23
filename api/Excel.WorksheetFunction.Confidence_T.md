@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Confidence_T Method (Excel)
+title: WorksheetFunction.Confidence_T method (Excel)
 keywords: vbaxl10.chm137360
 f1_keywords:
 - vbaxl10.chm137360
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Confidence_T
 ms.assetid: b4e497b6-bf5a-5630-3092-d806012e0c97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Confidence_T Method (Excel)
+# WorksheetFunction.Confidence_T method (Excel)
 
 Returns the confidence interval for a population mean, using a Student's t distribution.
 
 
 ## Syntax
 
- _expression_. `Confidence_T`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Confidence_T`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

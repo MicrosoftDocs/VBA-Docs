@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.Creator Property (Word)
+title: ListTemplate.Creator property (Word)
 keywords: vbawd10.chm160367593
 f1_keywords:
 - vbawd10.chm160367593
@@ -8,19 +8,20 @@ api_name:
 - Word.ListTemplate.Creator
 ms.assetid: b51fca66-16cd-9b4c-a5c3-18936414e9b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListTemplate.Creator Property (Word)
+# ListTemplate.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ListTemplate](Word.ListTemplate.md)' object.
+_expression_ Required. A variable that represents a '[ListTemplate](Word.ListTemplate.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ListTemplate Object](Word.ListTemplate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

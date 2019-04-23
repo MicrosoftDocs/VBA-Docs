@@ -8,6 +8,7 @@ api_name:
 - Excel.Tab.TintAndShade
 ms.assetid: be8ee335-fcf0-2091-89c1-973f54aba2c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Single** that lightens or darkens a color.
 
 ## Syntax
 
- _expression_. `TintAndShade`
+_expression_.**TintAndShade**
 
- _expression_ A variable that represents a [Tab](./Excel.Tab.md) object.
+_expression_ A variable that represents a [Tab](Excel.Tab.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ Attempting to set this property to a value less than -1 or more than 1, is not r
 
 [Tab Object](Excel.Tab.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

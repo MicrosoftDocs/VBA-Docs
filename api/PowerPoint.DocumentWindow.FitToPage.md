@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.FitToPage Method (PowerPoint)
+title: DocumentWindow.FitToPage method (PowerPoint)
 keywords: vbapp10.chm511015
 f1_keywords:
 - vbapp10.chm511015
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.FitToPage
 ms.assetid: 91ea2102-df12-20fe-cd16-e664832f9eb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.FitToPage Method (PowerPoint)
+# DocumentWindow.FitToPage method (PowerPoint)
 
 Adjusts the size of the specified document window to accommodate the information that's currently displayed.
 
 
 ## Syntax
 
- _expression_. `FitToPage`
+_expression_. `FitToPage`
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End With
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

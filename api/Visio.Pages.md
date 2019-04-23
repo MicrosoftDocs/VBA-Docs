@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Visio)
+title: Pages object (Visio)
 keywords: vis_sdr.chm10195
 f1_keywords:
 - vis_sdr.chm10195
@@ -8,10 +8,11 @@ api_name:
 - Visio.Pages
 ms.assetid: 45eec568-b5cc-5e80-ff5c-4dfa567efb5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages Object (Visio)
+# Pages object (Visio)
 
 Includes a  **Page** object for each drawing page in a document.
 
@@ -34,7 +35,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterReplaceShapes](./Visio.pages.afterreplaceshapes.md)|
 |[BeforePageDelete](./Visio.Pages.BeforePageDelete.md)|
@@ -78,7 +79,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Visio.Pages.Add.md)|
 |[GetNames](./Visio.Pages.GetNames.md)|
@@ -88,7 +89,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Pages.Application.md)|
 |[Count](./Visio.Pages.Count.md)|
@@ -101,3 +102,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[PersistsEvents](./Visio.Pages.PersistsEvents.md)|
 |[Stat](./Visio.Pages.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

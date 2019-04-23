@@ -3,6 +3,7 @@ title: Create a Scheduling Calendar Workbook
 ms.prod: excel
 ms.assetid: 0f0f4946-c04c-4866-a6dd-79101df7bafb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -217,7 +218,7 @@ Private Sub SansWH(ByVal iMonth As Integer)
       If WorksheetFunction.Weekday(datDay, 2) < 6 Then
          var = Application.Match(CDbl(datDay), ThisWorkbook.Worksheets("Holidays").Columns(1), 0)
          
-         'If the day is not a weekend or a holiday, put it on the calender.
+         'If the day is not a weekend or a holiday, put it on the calendar.
          If IsError(var) Then
             iCol = iCol + 1
             Cells(1, iCol).Value = datDay
@@ -231,6 +232,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
+Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PrintableRect Object (Publisher)
+title: PrintableRect object (Publisher)
 keywords: vbapb10.chm7602175
 f1_keywords:
 - vbapb10.chm7602175
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PrintableRect
 ms.assetid: fd99e9d4-81d9-63ae-78ca-f7a16b031239
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintableRect Object (Publisher)
+# PrintableRect object (Publisher)
 
 Represents the sheet area within which the specified printer will print. The printable rectangle is determined by the printer based on the sheet size specified. The printable rectangle of the printer sheet should not be confused with the area within the margins of the publication page; it may be larger or smaller than the publication page.
  
@@ -59,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.PrintableRect.Application.md)|
 |[Height](Publisher.PrintableRect.Height.md)|
@@ -68,3 +69,4 @@ End Sub
 |[Top](Publisher.PrintableRect.Top.md)|
 |[Width](Publisher.PrintableRect.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.PictureEditor Property (Word)
+title: Options.PictureEditor property (Word)
 keywords: vbawd10.chm162988105
 f1_keywords:
 - vbawd10.chm162988105
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PictureEditor
 ms.assetid: bdf0435b-c0dc-d299-a745-1102e4c46801
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PictureEditor Property (Word)
+# Options.PictureEditor property (Word)
 
-Returns or sets the name of the application to use to edit pictures. Read/write  **String** .
+Returns or sets the name of the application to use to edit pictures. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PictureEditor`
+_expression_. `PictureEditor`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -54,3 +55,4 @@ MsgBox Options.PictureEditor
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

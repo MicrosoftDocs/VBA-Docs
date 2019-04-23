@@ -8,6 +8,7 @@ api_name:
 - Excel.HPageBreaks.Item
 ms.assetid: 2c216336-ed46-382b-e408-3de708afb3c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
+_expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ Worksheets(1).HPageBreaks.Item(1).Location = .Range("e5")
 
 [HPageBreaks Object](Excel.HPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

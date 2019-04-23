@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkPoints.Lastpoint
 ms.assetid: 33ad7c29-1538-1825-b94a-55fd65d7610e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
- _expression_. `Lastpoint`
+_expression_. `Lastpoint`
 
- _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Remarks
 
-The  **Lastpoint** property corresponds to the setting of the **Last Point**, check box in the  **Show** section, and of the **Last Point** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+The  **Lastpoint** property corresponds to the setting of the **Last Point**, check box in the  **Show** section, and of the **Last Point** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also
@@ -38,3 +39,4 @@ The  **Lastpoint** property corresponds to the setting of the **Last Point**, ch
 
 [SparkPoints Object](Excel.SparkPoints.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

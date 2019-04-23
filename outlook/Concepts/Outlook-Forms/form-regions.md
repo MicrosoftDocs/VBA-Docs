@@ -3,6 +3,7 @@ title: Form Regions
 ms.prod: outlook
 ms.assetid: 66e80f83-60db-e3b1-47e9-097f855f6512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,6 +38,5 @@ Form regions allow greater flexibility in customizing and extending a standard O
 - Multiple add-ins can add form regions to the same form.
     
 - Administrators can more conveniently deploy a form customized with form regions by installing and running an add-in. For more information, see the Office Resource Kit Web site.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Workbooks and Worksheets
 ms.prod: excel
 ms.assetid: 63179019-ca24-4c7f-9ac4-970300121cab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,5 +19,5 @@ ms.date: 06/08/2017
 -  [Formatting and VBA Codes for Headers and Footers](../Workbooks-and-Worksheets/formatting-and-vba-codes-for-headers-and-footers.md)
     
 -  [Returning an Object from a Collection (Excel)](../Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

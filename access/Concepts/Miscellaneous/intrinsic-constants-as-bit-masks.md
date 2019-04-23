@@ -7,6 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 2f339b2c-d078-aedd-0ebd-8d04877cbf9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -46,3 +47,5 @@ You can use the constants to test for any combination of buttons and keys withou
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

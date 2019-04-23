@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Document Property (Visio)
+title: DataColumn.Document property (Visio)
 keywords: vis_sdr.chm16713430
 f1_keywords:
 - vis_sdr.chm16713430
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataColumn.Document
 ms.assetid: c61bcd20-eeed-37c4-666c-604e27c95ed6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataColumn.Document Property (Visio)
+# DataColumn.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataColumn** object. Read-only.
 
@@ -21,7 +22,7 @@ Gets the  **Document** object that contains the **DataColumn** object. Read-only
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
@@ -30,4 +31,4 @@ Gets the  **Document** object that contains the **DataColumn** object. Read-only
 
 Document
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

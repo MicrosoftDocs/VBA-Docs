@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a1e31636-f8cf-4f5e-92b6-610bc65cb73c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.LostFocus event (Access)](http://msdn.microsoft.com/library/a8c29b13-5757-7be9-7111-81f847c8ec32%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

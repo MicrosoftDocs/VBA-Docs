@@ -1,5 +1,5 @@
 ---
-title: Document.Sync Event (Word)
+title: Document.Sync event (Word)
 keywords: vbawd10.chm4001007
 f1_keywords:
 - vbawd10.chm4001007
@@ -8,10 +8,11 @@ api_name:
 - Word.Document.Sync
 ms.assetid: cc46cfdf-ae26-9bba-7084-64349859d304
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Sync Event (Word)
+# Document.Sync event (Word)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
@@ -57,3 +58,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

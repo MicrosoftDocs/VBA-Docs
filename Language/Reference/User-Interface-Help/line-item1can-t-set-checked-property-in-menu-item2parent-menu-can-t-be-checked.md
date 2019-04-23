@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 22ebcc07-8d21-9d6c-b5cf-e7937de8ab34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 A top-level  **Menu** control appeared in the ASCII form file with its **Checked** property set to **True**. Top-level menus can't be checked. The **Menu** control will be loaded, but its **Checked** property won't be set.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

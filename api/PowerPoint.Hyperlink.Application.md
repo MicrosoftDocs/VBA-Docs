@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Application Property (PowerPoint)
+title: Hyperlink.Application property (PowerPoint)
 keywords: vbapp10.chm526001
 f1_keywords:
 - vbapp10.chm526001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Hyperlink.Application
 ms.assetid: 10191a9a-5103-f024-62dc-5fd129a56bf8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Application Property (PowerPoint)
+# Hyperlink.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

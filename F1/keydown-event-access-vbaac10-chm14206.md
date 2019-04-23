@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 365a2433-7408-4da2-a29c-fd0f252987d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.KeyDown event (Access)](http://msdn.microsoft.com/library/00324700-f101-48a0-242f-bdabf4f2d70d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

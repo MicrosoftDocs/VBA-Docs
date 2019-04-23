@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FTest Method (Excel)
+title: WorksheetFunction.FTest method (Excel)
 keywords: vbaxl10.chm137214
 f1_keywords:
 - vbaxl10.chm137214
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.FTest
 ms.assetid: e1f01a38-2957-a97c-d84b-f6efdec88631
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.FTest Method (Excel)
+# WorksheetFunction.FTest method (Excel)
 
 Returns the result of an F-test. An F-test returns the two-tailed probability that the variances in array1 and array2 are not significantly different. Use this function to determine whether two samples have different variances. For example, given test scores from public and private schools, you can test whether these schools have different levels of test score diversity.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [F_Test](Excel.WorksheetFun
 
 ## Syntax
 
- _expression_. `FTest`( `_Arg1_` , `_Arg2_` )
+_expression_. `FTest`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

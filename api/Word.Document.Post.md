@@ -1,5 +1,5 @@
 ---
-title: Document.Post Method (Word)
+title: Document.Post method (Word)
 keywords: vbawd10.chm158007439
 f1_keywords:
 - vbawd10.chm158007439
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Post
 ms.assetid: 1ff97561-ed82-fcf3-6615-ee7ed27814fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Post Method (Word)
+# Document.Post method (Word)
 
 Posts the specified document to a public folder in Microsoft Exchange. .
 
 
 ## Syntax
 
- _expression_. `Post`
+_expression_. `Post`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.Post
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

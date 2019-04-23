@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Object (PowerPoint)
+title: SeriesCollection object (PowerPoint)
 keywords: vbapp10.chm717000
 f1_keywords:
 - vbapp10.chm717000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SeriesCollection
 ms.assetid: 6277f9e0-0198-0773-9c54-f2d009c0ba7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection Object (PowerPoint)
+# SeriesCollection object (PowerPoint)
 
 Represents a collection of all the  **[Series](PowerPoint.Series.md)** objects in the specified chart or chart group.
 
@@ -72,7 +73,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **SeriesCollection** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one the active document.
+Use  **SeriesCollection** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one the active document.
 
 
 
@@ -94,7 +95,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./PowerPoint.SeriesCollection.Add.md)|
 |[Extend](./PowerPoint.SeriesCollection.Extend.md)|
@@ -105,7 +106,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.SeriesCollection.Application.md)|
 |[Count](./PowerPoint.SeriesCollection.Count.md)|
@@ -115,4 +116,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

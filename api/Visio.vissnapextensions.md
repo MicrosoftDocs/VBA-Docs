@@ -1,15 +1,16 @@
 ---
-title: VisSnapExtensions Enumeration (Visio)
+title: VisSnapExtensions enumeration (Visio)
 keywords: vis_sdr.chm70325
 f1_keywords:
 - vis_sdr.chm70325
 ms.prod: visio
 ms.assetid: 6d5ee226-abdf-b513-22ef-78c9063acadf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisSnapExtensions Enumeration (Visio)
+# VisSnapExtensions enumeration (Visio)
 
 Flags passed to or returned by the  **Document.SnapExtensions** property.
 
@@ -20,7 +21,7 @@ The  **VisSnapExtensions** constants specify the snap extensions currently activ
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSnapExtAlignmentBoxExtension**|&H1|Show alignment box extensions.|
 | **visSnapExtCenterAxes**|&H2|Show center alignment axes.|
@@ -37,3 +38,4 @@ The  **VisSnapExtensions** constants specify the snap extensions currently activ
 | **visSnapExtMidpoint**|&H10|Show segment midpoints.|
 | **visSnapExtNone**|&H0|Show no extentions.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

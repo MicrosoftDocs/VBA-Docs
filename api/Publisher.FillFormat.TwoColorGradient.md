@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TwoColorGradient Method (Publisher)
+title: FillFormat.TwoColorGradient method (Publisher)
 keywords: vbapb10.chm2359318
 f1_keywords:
 - vbapb10.chm2359318
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.TwoColorGradient
 ms.assetid: 7b0d1b19-a7bf-7b3d-66f4-60dfc588abfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TwoColorGradient Method (Publisher)
+# FillFormat.TwoColorGradient method (Publisher)
 
 Sets the specified fill to a two-color gradient. The two fill colors are specified by the  **[ForeColor](Publisher.FillFormat.ForeColor.md)** and **[BackColor](Publisher.FillFormat.BackColor.md)** properties.
 
 
 ## Syntax
 
- _expression_. **TwoColorGradient**(**_Style_**,  **_Variant_**)
+_expression_.**TwoColorGradient**(**_Style_**,  **_Variant_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -30,7 +31,7 @@ Sets the specified fill to a two-color gradient. The two fill colors are specifi
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The gradient style.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|**Variant**|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 
 ## Remarks
 
@@ -62,4 +63,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

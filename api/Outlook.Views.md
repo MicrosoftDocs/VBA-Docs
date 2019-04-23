@@ -1,5 +1,5 @@
 ---
-title: Views Object (Outlook)
+title: Views object (Outlook)
 keywords: vbaol11.chm3013
 f1_keywords:
 - vbaol11.chm3013
@@ -8,17 +8,18 @@ api_name:
 - Outlook.Views
 ms.assetid: 5dd7edc2-12a2-f4c2-d158-8053d80e8dc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Views Object (Outlook)
+# Views object (Outlook)
 
 Contains a collection of all  **[View](Outlook.View.md)** objects in the current folder.
 
 
 ## Remarks
 
-Use the  **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** ( _index_ ),where _index_ is the object's name or position within the collection, to return a single **View** object.
+Use the  **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** (_index_),where _index_ is the object's name or position within the collection, to return a single **View** object.
 
 Use the  **[Add](Outlook.Views.Add.md)** method of the views collection to add a new view to the collection.
 
@@ -120,7 +121,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ViewAdd](Outlook.Views.ViewAdd.md)|
 |[ViewRemove](Outlook.ViewRemove.md)|
@@ -129,7 +130,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Views.Add.md)|
 |[Item](Outlook.Views.Item.md)|
@@ -139,7 +140,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Views.Application.md)|
 |[Class](Outlook.Views.Class.md)|
@@ -150,4 +151,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

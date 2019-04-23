@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Mileage Property (Outlook)
+title: AppointmentItem.Mileage property (Outlook)
 keywords: vbaol11.chm858
 f1_keywords:
 - vbaol11.chm858
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.Mileage
 ms.assetid: 4562097b-3489-768c-f808-84249e030aab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.Mileage Property (Outlook)
+# AppointmentItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Mileage`
+_expression_. `Mileage`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This is a free-form string field and can be used to store mileage information as
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

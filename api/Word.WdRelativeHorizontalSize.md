@@ -1,14 +1,15 @@
 ---
-title: WdRelativeHorizontalSize Enumeration (Word)
+title: WdRelativeHorizontalSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeHorizontalSize
 ms.assetid: 954f0b82-bf0b-72b9-2203-e38a5897c767
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRelativeHorizontalSize Enumeration (Word)
+# WdRelativeHorizontalSize enumeration (Word)
 
 Specifies the relative width of a shape using the value specified in the  **WidthRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object.
 
@@ -23,3 +24,4 @@ Specifies the relative width of a shape using the value specified in the  **Widt
 | **wdRelativeHorizontalSizePage**|1|Width is relative to the width of the page.|
 | **wdRelativeHorizontalSizeRightMarginArea**|3|Width is relative to the width of the right margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

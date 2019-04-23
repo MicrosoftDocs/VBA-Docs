@@ -1,5 +1,5 @@
 ---
-title: Presentation.Saved Property (PowerPoint)
+title: Presentation.Saved property (PowerPoint)
 keywords: vbapp10.chm583027
 f1_keywords:
 - vbapp10.chm583027
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.Saved
 ms.assetid: 52798ca6-e181-cf82-d397-647404235cb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Saved Property (PowerPoint)
+# Presentation.Saved property (PowerPoint)
 
 Determines whether changes have been made to a presentation since it was last saved. Read/write.
 
 
 ## Syntax
 
- _expression_. `Saved`
+_expression_. `Saved`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -36,7 +37,7 @@ The value of the  **Saved** property can be one of these **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Changes have been made to a presentation since it was last saved.|
 |**msoTrue**| No changes have been made to a presentation since it was last saved.|
@@ -60,3 +61,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

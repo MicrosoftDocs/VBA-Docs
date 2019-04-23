@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolder.Parent Property (Office)
+title: SharedWorkspaceFolder.Parent property (Office)
 keywords: vbaof11.chm268007
 f1_keywords:
 - vbaof11.chm268007
@@ -7,13 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolder.Parent
 ms.assetid: bdebe4de-c521-eae9-46e6-7c06dfe60581
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceFolder.Parent Property (Office)
+# SharedWorkspaceFolder.Parent property (Office)
 
-Gets the  **Parent** object for the **SharedWorkspaceFolder** object. Read-only.
+Gets the **Parent** object for the **SharedWorkspaceFolder** object. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,9 +22,9 @@ Gets the  **Parent** object for the **SharedWorkspaceFolder** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [SharedWorkspaceFolder](./Office.SharedWorkspaceFolder.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md)** object.
 
 
 ## Return value
@@ -33,10 +34,8 @@ Object
 
 ## See also
 
-
-[SharedWorkspaceFolder Object](Office.SharedWorkspaceFolder.md)
-
+- [SharedWorkspaceFolder object members](overview/Library-Reference/sharedworkspacefolder-members-office.md)
 
 
-[SharedWorkspaceFolder Object Members](./overview/Library-Reference/sharedworkspacefolder-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

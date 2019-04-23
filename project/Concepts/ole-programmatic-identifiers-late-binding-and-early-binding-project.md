@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: project-server
 ms.assetid: c72f3f22-3628-1379-8c6b-79c7984c728d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -125,9 +126,9 @@ To create the Excel objects listed in the following table, use one of the corres
 |Workbook|Excel.Chart, Excel.Chart.8|Returns a workbook containing two worksheets: one for the chart, and one for its data. The chart worksheet is the active worksheet.|
 |Workbook|Excel.Sheet, Excel.Sheet.12|Returns a workbook with one worksheet.|
 
- **Microsoft Graph**
+ **Graph**
 
-To create the Microsoft Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Graph 15.0 Object Library**.
+To create the Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running. For early binding, set a reference to  **Graph 15.0 Object Library**.
 
 
 
@@ -172,3 +173,4 @@ To create the Microsoft Word objects listed in the following table, use one of t
 |Application|Word.Application, Word.Application.14|
 |Document|Word.Document, Word.Document.8, Word.Template.8, Word.Document.12, Word.Template.12|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

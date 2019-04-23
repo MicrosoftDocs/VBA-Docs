@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Creator Property (Word)
+title: ChartCharacters.Creator property (Word)
 keywords: vbawd10.chm250740885
 f1_keywords:
 - vbawd10.chm250740885
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartCharacters.Creator
 ms.assetid: 3b354698-560c-cae4-34ae-b4814c9ef83b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartCharacters.Creator Property (Word)
+# ChartCharacters.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartCharacters Object](Word.ChartCharacters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

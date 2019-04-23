@@ -1,5 +1,5 @@
 ---
-title: Application.Reminder Event (Outlook)
+title: Application.Reminder event (Outlook)
 keywords: vbaol11.chm431
 f1_keywords:
 - vbaol11.chm431
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.Reminder
 ms.assetid: f8c9fa87-3daa-58e1-7b8d-3c819cd4cab2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Reminder Event (Outlook)
+# Application.Reminder event (Outlook)
 
 Occurs immediately before a reminder is displayed.
 
 
 ## Syntax
 
- _expression_. `Reminder`( `_Item_` )
+_expression_. `Reminder`( `_Item_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs immediately before a reminder is displayed.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required| **Object**|The  **[AppointmentItem](Outlook.AppointmentItem.md)** , **[MailItem](Outlook.MailItem.md)** , **[ContactItem](Outlook.ContactItem.md)** , or **[TaskItem](Outlook.TaskItem.md)** associated with the reminder. If the appointment associated with the reminder is a recurring appointment, _Item_ is the specific occurrence of the appointment that displayed the reminder, not the master appointment.|
+| _Item_|Required| **Object**|The  **[AppointmentItem](Outlook.AppointmentItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[ContactItem](Outlook.ContactItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** associated with the reminder. If the appointment associated with the reminder is a recurring appointment, _Item_ is the specific occurrence of the appointment that displayed the reminder, not the master appointment.|
 
 ## Example
 
@@ -62,3 +63,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

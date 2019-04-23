@@ -1,5 +1,5 @@
 ---
-title: CustomLabels.Creator Property (Word)
+title: CustomLabels.Creator property (Word)
 keywords: vbawd10.chm152437737
 f1_keywords:
 - vbawd10.chm152437737
@@ -8,19 +8,20 @@ api_name:
 - Word.CustomLabels.Creator
 ms.assetid: 8ae625ca-61a4-d63b-dfe8-f9eadccbd69d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabels.Creator Property (Word)
+# CustomLabels.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[CustomLabels](Word.customlabels.md)' collection.
+_expression_ Required. A variable that represents a '[CustomLabels](Word.customlabels.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CustomLabels Collection Object](Word.customlabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

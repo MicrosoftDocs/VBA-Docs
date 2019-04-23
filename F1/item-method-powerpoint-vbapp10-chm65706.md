@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1b8f7f68-1f76-4d52-a51e-04500fa41d03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [FullSeriesCollection.Item Method (PowerPoint)](http://msdn.microsoft.com/library/fda36191-71f4-1f75-fa27-e09a38385e68%28Office.15%29.aspx)
 [DataLabels.Item Method (PowerPoint)](http://msdn.microsoft.com/library/233cb110-f20c-4e68-9033-f9c2073ac061%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

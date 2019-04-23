@@ -2,7 +2,8 @@
 title: CustomXMLValidationError members (Office)
 ms.prod: office
 ms.assetid: b84777a9-ffea-f6e2-022e-aaeabfac49e0
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,14 +14,14 @@ Represents a single validation error in a **CustomXMLValidationErrors** collecti
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.CustomXMLValidationError.Delete.md)|Deletes the **CustomXMLValidationError** object representing a data validation error.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLValidationError.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLValidationError** object. Read-only.|
 |[Creator](../../Office.CustomXMLValidationError.Creator.md)|Gets a 32-bit integer that indicates the application in which the **CustomXMLValidationError** object was created. Read-only.|
@@ -31,3 +32,4 @@ Represents a single validation error in a **CustomXMLValidationErrors** collecti
 |[Text](../../Office.CustomXMLValidationError.Text.md)|Gets the text in the **CustomXMLValidationError** object. Read-only.|
 |[Type](../../Office.CustomXMLValidationError.Type.md)|Gets the type of error generated from the **CustomXMLValidationError** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

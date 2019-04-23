@@ -7,25 +7,26 @@ ms.prod: access
 api_name:
 - Access.Controls.Count
 ms.assetid: 531c1674-4782-aa8f-64f5-0493a29886e3
-ms.date: 06/08/2017
+ms.date: 03/06/2019
+localization_priority: Normal
 ---
 
 
 # Controls.Count property (Access)
 
-You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
-_expression_ A variable that represents a [Controls](Access.Controls.md) object.
+_expression_ A variable that represents a **[Controls](Access.Controls.md)** object.
 
 
 ## Example
 
-The following example uses the  **Count** property to control a loop that prints information about all open forms and their controls.
+The following example uses the **Count** property to control a loop that prints information about all open forms and their controls.
 
 
 ```vb
@@ -54,8 +55,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Controls Collection](Access.Controls.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroup.Shortcuts Property (Outlook)
+title: OutlookBarGroup.Shortcuts property (Outlook)
 keywords: vbaol11.chm326
 f1_keywords:
 - vbaol11.chm326
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarGroup.Shortcuts
 ms.assetid: a6a5031e-4ca2-4b4f-00b3-298af2361cec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarGroup.Shortcuts Property (Outlook)
+# OutlookBarGroup.Shortcuts property (Outlook)
 
 Returns an  **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shortcuts`
+_expression_. `Shortcuts`
 
- _expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
+_expression_ A variable that represents an [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 
 ## Example
@@ -50,3 +51,4 @@ End Sub
 
 [OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

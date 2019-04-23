@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.BackgroundQuery
 ms.assetid: d7bd7700-791e-a414-3e4b-e05e6646589f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCConnection.BackgroundQuery property (Excel)
 
- **True** if queries for the ODBC connection are performed asynchronously (in the background). Read/write **Boolean** .
+ **True** if queries for the ODBC connection are performed asynchronously (in the background). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BackgroundQuery`
+_expression_. `BackgroundQuery`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

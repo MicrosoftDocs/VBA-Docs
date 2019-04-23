@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.DecreaseSpacing Method (Word)
+title: Paragraphs.DecreaseSpacing method (Word)
 keywords: vbawd10.chm156762448
 f1_keywords:
 - vbawd10.chm156762448
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.DecreaseSpacing
 ms.assetid: 9d1dfab7-87a0-21c0-f023-0b1368aa9773
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.DecreaseSpacing Method (Word)
+# Paragraphs.DecreaseSpacing method (Word)
 
 Decreases the spacing before and after paragraphs in six-point increments.
 
 
 ## Syntax
 
- _expression_. `DecreaseSpacing`
+_expression_. `DecreaseSpacing`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example
@@ -40,3 +41,4 @@ End Sub
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

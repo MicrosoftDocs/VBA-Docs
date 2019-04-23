@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat Object (Publisher)
+title: ParagraphFormat object (Publisher)
 keywords: vbapb10.chm5505023
 f1_keywords:
 - vbapb10.chm5505023
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ParagraphFormat
 ms.assetid: 0e5b1c20-564e-ef5c-f24d-1143dcaadcd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat Object (Publisher)
+# ParagraphFormat object (Publisher)
 
 Represents all the formatting for a paragraph.
 
@@ -61,7 +62,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Duplicate](./Publisher.ParagraphFormat.Duplicate.md)|
 |[Reset](./Publisher.ParagraphFormat.Reset.md)|
@@ -72,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](./Publisher.ParagraphFormat.Alignment.md)|
 |[Application](./Publisher.ParagraphFormat.Application.md)|
@@ -104,3 +105,4 @@ End Sub
 |[UseCharBasedFirstLineIndent](./Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)|
 |[WidowControl](./Publisher.ParagraphFormat.WidowControl.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Page.CenterHeader
 ms.assetid: e8f9ab4e-4f25-0378-0959-97a8cfefc7b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Specifies a picture or text to be center aligned in the page header.
 
 ## Syntax
 
- _expression_. `CenterHeader`
+_expression_. `CenterHeader`
 
- _expression_ A variable that represents a [Page](Excel.Page.md) object.
+_expression_ A variable that represents a [Page](Excel.Page.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Specifies a picture or text to be center aligned in the page header.
 
 [Page Object](Excel.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

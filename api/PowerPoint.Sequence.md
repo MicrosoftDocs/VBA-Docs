@@ -1,5 +1,5 @@
 ---
-title: Sequence Object (PowerPoint)
+title: Sequence object (PowerPoint)
 keywords: vbapp10.chm651000
 f1_keywords:
 - vbapp10.chm651000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Sequence
 ms.assetid: 37a5224f-2461-b575-acb6-6905bbb5136d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sequence Object (PowerPoint)
+# Sequence object (PowerPoint)
 
 Represents a collection of  **[Effect](PowerPoint.Effect.md)** objects for a slide's interactive animation sequences. The **Sequence** collection is a member of the **[Sequences](PowerPoint.Sequences.md)** collection.
 
@@ -45,3 +46,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

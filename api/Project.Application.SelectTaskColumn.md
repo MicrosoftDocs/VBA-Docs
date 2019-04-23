@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskColumn Method (Project)
+title: Application.SelectTaskColumn method (Project)
 keywords: vbapj.chm2065
 f1_keywords:
 - vbapj.chm2065
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectTaskColumn
 ms.assetid: f4269749-de44-d7dd-de74-c95a046411fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectTaskColumn Method (Project)
+# Application.SelectTaskColumn method (Project)
 
 Selects a column containing task information.
 
 
 ## Syntax
 
- _expression_. `SelectTaskColumn`( ` _Column_`, ` _Additional_`, ` _Extend_`, ` _Add_` )
+_expression_. `SelectTaskColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -43,4 +44,4 @@ Selects a column containing task information.
 
 The  **SelectTaskColumn** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

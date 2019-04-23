@@ -1,5 +1,5 @@
 ---
-title: TaskItem.DownloadState Property (Outlook)
+title: TaskItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1759
 f1_keywords:
 - vbaol11.chm1759
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.DownloadState
 ms.assetid: 65aa9f55-8b53-4c39-e560-c091d397e5ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.DownloadState Property (Outlook)
+# TaskItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

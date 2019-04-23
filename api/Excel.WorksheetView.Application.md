@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetView.Application
 ms.assetid: 6cfdce2e-9a70-c91b-5528-134963efbd36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
+_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,12 +7,13 @@ f1_keywords:
 ms.prod: access
 ms.assetid: ed696038-e77f-ce01-a139-d100d17212e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Create a portion in your application's registry tree to manage settings
 
-**Applies to:** Access 2013 | Access 2016
+**Applies to**: Access 2013 | Access 2016
 
 To customize the Microsoft Windows Registry settings, you can create a Microsoft Access database engine portion in your application's registry tree to manage the settings for the Microsoft Access database engine. 
 
@@ -31,3 +32,5 @@ For your application to load the appropriate portion of the Windows Registry key
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

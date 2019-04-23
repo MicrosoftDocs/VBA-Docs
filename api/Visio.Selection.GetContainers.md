@@ -1,5 +1,5 @@
 ---
-title: Selection.GetContainers Method (Visio)
+title: Selection.GetContainers method (Visio)
 keywords: vis_sdr.chm11162165
 f1_keywords:
 - vis_sdr.chm11162165
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.GetContainers
 ms.assetid: 8e04bed5-f9ef-04bf-3013-c6dd623f9f63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.GetContainers Method (Visio)
+# Selection.GetContainers method (Visio)
 
 Returns an array of shape identifiers (IDs) of the container shapes in the selection.
 
 
 ## Syntax
 
- _expression_. `GetContainers`( `_NestedOptions_` )
+_expression_. `GetContainers`( `_NestedOptions_` )
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
@@ -42,11 +43,11 @@ The  _NestedOptions_ parameter must be one of the following **VisContainerNested
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerIncludeNested**|0|Include shapes that are in nested containers.|
 | **visContainerExcludeNested**|1|Exclude shapes that are in nested containers..|
 
-You can use the  **[Shapes.ItemFromID](Visio.Shapes.ItemFromID.md)** property to get the actual shapes from the IDs returned by **GetContainers** .
+You can use the  **[Shapes.ItemFromID](Visio.Shapes.ItemFromID.md)** property to get the actual shapes from the IDs returned by **GetContainers**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

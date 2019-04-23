@@ -1,5 +1,5 @@
 ---
-title: Frame.HorizontalPosition Property (Word)
+title: Frame.HorizontalPosition property (Word)
 keywords: vbawd10.chm153747461
 f1_keywords:
 - vbawd10.chm153747461
@@ -8,17 +8,18 @@ api_name:
 - Word.Frame.HorizontalPosition
 ms.assetid: e71b0df4-53c0-d917-b1b7-32b0ee5205aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.HorizontalPosition Property (Word)
+# Frame.HorizontalPosition property (Word)
 
-Returns or sets the horizontal distance between the edge of the frame and the item specified by the  **[RelativeHorizontalPosition](Word.Frame.RelativeHorizontalPosition.md)** property. Read/write **Single** .
+Returns or sets the horizontal distance between the edge of the frame and the item specified by the  **[RelativeHorizontalPosition](Word.Frame.RelativeHorizontalPosition.md)** property. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HorizontalPosition`
+_expression_. `HorizontalPosition`
 
  _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 
@@ -49,3 +50,4 @@ End If
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

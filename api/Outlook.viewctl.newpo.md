@@ -3,6 +3,7 @@ title: ViewCtl.NewPost Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 69a11cf3-608a-4cea-6d93-be2e44aeab00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Creates and displays a new post item.
 
 ## Syntax
 
- _expression_. **NewPost**
+_expression_.**NewPost**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ When the user posts the message, it is posted to the folder that is displayed in
 
 This method has no effect if the folder displayed in the control does not support messages.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Stores.BeforeStoreRemove Event (Outlook)
+title: Stores.BeforeStoreRemove event (Outlook)
 keywords: vbaol11.chm2754
 f1_keywords:
 - vbaol11.chm2754
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Stores.BeforeStoreRemove
 ms.assetid: b21d4854-3da5-5c01-cbc1-098bb505466e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Stores.BeforeStoreRemove Event (Outlook)
+# Stores.BeforeStoreRemove event (Outlook)
 
 Occurs when a  **[Store](Outlook.Store.md)** is about to be removed from the current session either programmatically or through user action.
 
 
 ## Syntax
 
- _expression_. `BeforeStoreRemove`( `_Store_` , `_Cancel_` )
+_expression_. `BeforeStoreRemove`( `_Store_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
+_expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 
 ## Parameters
@@ -39,7 +40,7 @@ Outlook must be running in order for this event to fire. This event will fire wh
 
 - A store is removed by the user clicking the  **Close** command on the Shortcut menu.
     
-- A store is removed programmatically by calling  **[Namespace.RemoveStore](Outlook.NameSpace.RemoveStore.md)** .
+- A store is removed programmatically by calling  **[Namespace.RemoveStore](Outlook.NameSpace.RemoveStore.md)**.
     
 
 
@@ -66,3 +67,4 @@ You can use this event to determine that a store has been removed, and take appr
 
 [Stores Object](Outlook.Stores.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

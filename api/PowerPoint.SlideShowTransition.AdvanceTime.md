@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.AdvanceTime Property (PowerPoint)
+title: SlideShowTransition.AdvanceTime property (PowerPoint)
 keywords: vbapp10.chm539005
 f1_keywords:
 - vbapp10.chm539005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowTransition.AdvanceTime
 ms.assetid: 79a120d2-5777-5eaa-a522-36e7d3bd539a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowTransition.AdvanceTime Property (PowerPoint)
+# SlideShowTransition.AdvanceTime property (PowerPoint)
 
 Returns or sets the amount of time, in seconds, after which the specified slide transition will occur. Read/write.
 
 
 ## Syntax
 
- _expression_. `AdvanceTime`
+_expression_. `AdvanceTime`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
@@ -58,3 +59,4 @@ End With
 
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

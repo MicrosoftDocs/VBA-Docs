@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions Object (Word)
+title: HTMLDivisions object (Word)
 keywords: vbawd10.chm2536
 f1_keywords:
 - vbawd10.chm2536
@@ -8,10 +8,11 @@ api_name:
 - Word.HTMLDivisions
 ms.assetid: fe896440-817f-5485-794c-c5e9700cd062
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HTMLDivisions Object (Word)
+# HTMLDivisions object (Word)
 
 A collection of  **HTMLDivision** objects that represents the HTML DIV elements that exist in a Web document.
 
@@ -58,6 +59,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

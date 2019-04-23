@@ -1,33 +1,32 @@
 ---
-title: PictureEffects.Insert Method (Office)
+title: PictureEffects.Insert method (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects.Insert
 ms.assetid: 589c38d7-1d0a-ad87-a84c-72147b6b07cf
-ms.date: 06/08/2017
+ms.date: 01/23/2019
+localization_priority: Normal
 ---
 
 
-# PictureEffects.Insert Method (Office)
+# PictureEffects.Insert method (Office)
 
-Inserts a Picture Effect in a chain of composite effects.
+Inserts a picture effect in a chain of composite effects.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_EffectType_`, `_Position_` )
+_expression_.**Insert**(_EffectType_, _Position_)
 
- _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
+_expression_ An expression that returns a **[PictureEffects](Office.PictureEffects.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EffectType_|Required|**MsoPictureEffectType**|An enumeration specifying the type of Picture Effect.|
-| _Position_|Optional|**Integer**|The position of the effect in the composite chain of Picture Effects.|
+| _EffectType_|Required|**[MsoPictureEffectType](office.msopictureeffecttype.md)**|An enumeration specifying the type of picture effect.|
+| _Position_|Optional|**Integer**|The position of the effect in the composite chain of picture effects.|
 
 ## Return value
 
@@ -36,12 +35,12 @@ PictureEffect
 
 ## Remarks
 
-Picture Effects are processed as a chain composed of individual items which are applied in sequence to create the final composited image. An Effects chain will allow an effect to be added to the chain, reordered, or removed from the chain.
+Picture effects are processed as a chain composed of individual items that are applied in sequence to create the final composited image. An effects chain will allow an effect to be added to the chain, reordered, or removed from the chain.
 
 
 ## Example
 
-The following code sets several Picture Effect fill properties on a shape in a Microsoft PowerPoint slide.
+The following code sets several **PictureEffect** fill properties on a shape in a Microsoft PowerPoint slide.
 
 
 ```vb
@@ -70,10 +69,8 @@ End Sub
 
 ## See also
 
-
-[PictureEffects Object](Office.PictureEffects.md)
-
+- [PictureEffects object members](overview/Library-Reference/pictureeffects-members-office.md)
 
 
-[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

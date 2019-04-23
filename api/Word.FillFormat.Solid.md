@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Solid Method (Word)
+title: FillFormat.Solid method (Word)
 keywords: vbawd10.chm164102159
 f1_keywords:
 - vbawd10.chm164102159
@@ -8,19 +8,20 @@ api_name:
 - Word.FillFormat.Solid
 ms.assetid: 320f5475-7283-c394-0987-3eba3e1d0447
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Solid Method (Word)
+# FillFormat.Solid method (Word)
 
 Sets the specified fill to a uniform color. .
 
 
 ## Syntax
 
- _expression_. `Solid`
+_expression_. `Solid`
 
- _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ Next
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

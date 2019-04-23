@@ -1,5 +1,5 @@
 ---
-title: ColorEffect.Application Property (PowerPoint)
+title: ColorEffect.Application property (PowerPoint)
 keywords: vbapp10.chm659001
 f1_keywords:
 - vbapp10.chm659001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorEffect.Application
 ms.assetid: 4183d3f5-8f45-11e0-3895-860951decab9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorEffect.Application Property (PowerPoint)
+# ColorEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
+_expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [ColorEffect Object](PowerPoint.ColorEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

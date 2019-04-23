@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnitScale Property (PowerPoint)
+title: Axis.MajorUnitScale property (PowerPoint)
 keywords: vbapp10.chm682035
 f1_keywords:
 - vbapp10.chm682035
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.Axis.MajorUnitScale
 ms.assetid: 42fe928b-de99-02d5-b56e-1e735ba5f0da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MajorUnitScale Property (PowerPoint)
+# Axis.MajorUnitScale property (PowerPoint)
 
 Returns or sets the major unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax
 
- _expression_. `MajorUnitScale`
+_expression_. `MajorUnitScale`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
 
- **MajorUnitScale** can be one of the following **XlTimeUnit** constants:
+ **MajorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
 -  **xlMonths**
@@ -79,3 +80,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

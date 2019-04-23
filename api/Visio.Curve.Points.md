@@ -1,5 +1,5 @@
 ---
-title: Curve.Points Method (Visio)
+title: Curve.Points method (Visio)
 keywords: vis_sdr.chm15514090
 f1_keywords:
 - vis_sdr.chm15514090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Curve.Points
 ms.assetid: 2dbd66cd-cc63-4635-3caf-29c8ae45c08e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Curve.Points Method (Visio)
+# Curve.Points method (Visio)
 
 Returns an array of points that defines a polyline that approximates a  **Path** or **Curve** object within a given tolerance.
 
 
 ## Syntax
 
- _expression_. `Points`( `_Tolerance_` , `_xyArray()_` )
+_expression_. `Points`( `_Tolerance_` , `_xyArray()_` )
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
@@ -79,4 +80,4 @@ Public Sub Points_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Using Visual Basic to Automate Outlook
 ms.prod: outlook
 ms.assetid: f1914894-d828-46bc-9f94-097a55f69c3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,5 +33,5 @@ ms.date: 06/08/2017
 -  [Support for Folder Synchronization](support-for-folder-synchronization.md)
     
 -  [Verify Whether Outlook Is a Click-to-Run Application on a Computer](verify-if-outlook-is-a-click-to-run-application-on-a-computer.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

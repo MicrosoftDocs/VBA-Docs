@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: be9c1b8e-8238-4fd5-9c1d-522e32eea9ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.WindowGoalAreaChange Event (Project)](http://msdn.microsoft.com/library/1ae33d11-f8aa-e1a2-b59d-9736ce4a6283%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

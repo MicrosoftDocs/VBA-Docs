@@ -1,14 +1,15 @@
 ---
-title: PjFilterViewType Enumeration (Project)
+title: PjFilterViewType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFilterViewType
 ms.assetid: 07a8673c-cfe4-38bd-2827-460ed9b2026d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjFilterViewType Enumeration (Project)
+# PjFilterViewType enumeration (Project)
 
 Contains constants that specify the type of filter for a view.
 
@@ -20,3 +21,4 @@ Contains constants that specify the type of filter for a view.
 |**pjFilterViewTypeTask**|0|Task view type.|
 |**pjFilterViewTypeUseView**|65535|The filter matches the view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

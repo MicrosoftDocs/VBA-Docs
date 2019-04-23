@@ -8,24 +8,25 @@ api_name:
 - Excel.PivotTable.SubtotalHiddenPageItems
 ms.assetid: bb3c7e54-1894-a1b6-e2d0-cf6097bd4875
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.SubtotalHiddenPageItems property (Excel)
 
- **True** if hidden page field items in the PivotTable report are included in row and column subtotals, block totals, and grand totals. The default value is **False** . Read/write **Boolean** .
+ **True** if hidden page field items in the PivotTable report are included in row and column subtotals, block totals, and grand totals. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SubtotalHiddenPageItems`
+_expression_. `SubtotalHiddenPageItems`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
 
-For OLAP data sources, the value is always  **True** .
+For OLAP data sources, the value is always  **True**.
 
 
 ## Example
@@ -43,3 +44,4 @@ Worksheets(1).PivotTables("Pivot1").SubtotalHiddenPageItems = True
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

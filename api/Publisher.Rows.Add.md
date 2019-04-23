@@ -1,5 +1,5 @@
 ---
-title: Rows.Add Method (Publisher)
+title: Rows.Add method (Publisher)
 keywords: vbapb10.chm4915204
 f1_keywords:
 - vbapb10.chm4915204
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Rows.Add
 ms.assetid: 34d72709-92f7-ddc6-5be6-e74693466e61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.Add Method (Publisher)
+# Rows.Add method (Publisher)
 
 Adds a new  **Row** object to the specified **Rows** collection and returns the new **Row** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_BeforeRow_**)
+_expression_.**Add**(**_BeforeRow_**)
 
  _expression_ A variable that represents a  **Rows** object.
 
@@ -48,4 +49,4 @@ Set rowNew = ActiveDocument.Pages(1).Shapes(1) _
  .Table.Rows.Add(BeforeRow:=3)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

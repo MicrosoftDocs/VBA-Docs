@@ -1,5 +1,5 @@
 ---
-title: Application.PrintOut Method (Word)
+title: Application.PrintOut method (Word)
 keywords: vbawd10.chm158335424
 f1_keywords:
 - vbawd10.chm158335424
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.PrintOut
 ms.assetid: f795218e-cd49-f3ac-c03d-9a9424361392
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PrintOut Method (Word)
+# Application.PrintOut method (Word)
 
 Prints all or part of the specified document.
 
 
 ## Syntax
 
- _expression_. `PrintOut`( `_Background_` , `_Append_` , `_Range_` , `_OutputFileName_` , `_From_` , `_To_` , `_Item_` , `_Copies_` , `_Pages_` , `_PageType_` , `_PrintToFile_` , `_Collate_` , `_FileName_` , `_ActivePrinterMacGX_` , `_ManualDuplexPrint_` , `_PrintZoomColumn_` , `_PrintZoomRow_` , `_PrintZoomPaperWidth_` , `_PrintZoomPaperHeight_` )
+_expression_. `PrintOut`( `_Background_` , `_Append_` , `_Range_` , `_OutputFileName_` , `_From_` , `_To_` , `_Item_` , `_Copies_` , `_Pages_` , `_PageType_` , `_PrintToFile_` , `_Collate_` , `_FileName_` , `_ActivePrinterMacGX_` , `_ManualDuplexPrint_` , `_PrintZoomColumn_` , `_PrintZoomRow_` , `_PrintZoomPaperWidth_` , `_PrintZoomPaperHeight_` )
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Parameters
@@ -32,9 +33,9 @@ Prints all or part of the specified document.
 | _Background_|Optional| **Variant**|Set to  **True** to have the macro continue while Microsoft Word prints the document.|
 | _Append_|Optional| **Variant**|Set to  **True** to append the specified document to the file name specified by the OutputFileName argument. **False** to overwrite the contents of OutputFileName.|
 | _Range_|Optional| **Variant**|The page range. Can be any  **WdPrintOutRange** constant.|
-| _OutputFileName_|Optional| **Variant**|If PrintToFile is  **True** , this argument specifies the path and file name of the output file.|
-| _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo** .|
-| _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo** .|
+| _OutputFileName_|Optional| **Variant**|If PrintToFile is  **True**, this argument specifies the path and file name of the output file.|
+| _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo**.|
+| _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo**.|
 | _Item_|Optional| **Variant**|The item to be printed. Can be any  **WdPrintOutItem** constant.|
 | _Copies_|Optional| **Variant**|The number of copies to be printed.|
 | _Pages_|Optional| **Variant**|The page numbers and page ranges to be printed, separated by commas. For example, "2, 6-10" prints page 2 and pages 6 through 10.|
@@ -43,11 +44,11 @@ Prints all or part of the specified document.
 | _Collate_|Optional| **Variant**|When printing multiple copies of a document,  **True** to print all pages of the document before printing the next copy.|
 | _FileName_|Optional| **Variant**|The path and file name of the document to be printed. If this argument is omitted, Word prints the active document. (Available only with the  **Application** object.)|
 | _ActivePrinterMacGX_|Optional| **Variant**|This argument is available only in Microsoft Office Macintosh Edition. For additional information about this argument, consult the language reference Help included with Microsoft Office Macintosh Edition.|
-| _ManualDuplexPrint_|Optional| **Variant**| **True** to print a two-sided document on a printer without a duplex printing kit. If this argument is **True** , the **PrintBackground** and **PrintReverse** properties are ignored. Use the **PrintOddPagesInAscendingOrder** and **PrintEvenPagesInAscendingOrder** properties to control the output during manual duplex printing. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _ManualDuplexPrint_|Optional| **Variant**| **True** to print a two-sided document on a printer without a duplex printing kit. If this argument is **True**, the **PrintBackground** and **PrintReverse** properties are ignored. Use the **PrintOddPagesInAscendingOrder** and **PrintEvenPagesInAscendingOrder** properties to control the output during manual duplex printing. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _PrintZoomColumn_|Optional| **Variant**|The number of pages you want Word to fit horizontally on one page. Can be 1, 2, 3, or 4. Use with the PrintZoomRow argument to print multiple pages on a single sheet.|
 | _PrintZoomRow_|Optional| **Variant**|The number of pages you want Word to fit vertically on one page. Can be 1, 2, or 4. Use with the PrintZoomColumn argument to print multiple pages on a single sheet.|
-| _PrintZoomPaperWidth_|Optional| **Variant**|The width to which you want Word to scale printed pages, in twips (20 twips = 1 point; 72 points = 1 inch).|
-| _PrintZoomPaperHeight_|Optional| **Variant**|The height to which you want Word to scale printed pages, in twips (20 twips = 1 point; 72 points = 1 inch).|
+| _PrintZoomPaperWidth_|Optional| **Variant**|The width to which you want Word to scale printed pages, in [twips](../language/glossary/vbe-glossary.md#twip) (20 [twips](../language/glossary/vbe-glossary.md#twip) = 1 point; 72 points = 1 inch).|
+| _PrintZoomPaperHeight_|Optional| **Variant**|The height to which you want Word to scale printed pages, in [twips](../language/glossary/vbe-glossary.md#twip) (20 [twips](../language/glossary/vbe-glossary.md#twip) = 1 point; 72 points = 1 inch).|
 
 ## Example
 
@@ -119,3 +120,4 @@ ActiveDocument.PrintOut _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

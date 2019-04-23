@@ -3,6 +3,7 @@ title: Items, Folders, and Stores
 ms.prod: outlook
 ms.assetid: 964898a5-4c96-45a7-90c0-81069b957ed5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,8 +40,8 @@ ms.date: 06/08/2017
     
 -  [Obtain a Folder Object from a Folder Path](../../How-to/Items-Folders-and-Stores/obtain-a-folder-object-from-a-folder-path.md)
     
--  [Send an E-mail Given the SMTP Address of an Account (Outlook)](../../How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+-  [Send an Email Given the SMTP Address of an Account (Outlook)](../../How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
     
 -  [Specify an Internet Encoding Scheme for the Body and Attachments of a Message](../../How-to/Items-Folders-and-Stores/specify-an-internet-encoding-scheme-for-the-body-and-attachments-of-a-message.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

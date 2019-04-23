@@ -1,5 +1,5 @@
 ---
-title: Document.Name Property (Word)
+title: Document.Name property (Word)
 keywords: vbawd10.chm158007296
 f1_keywords:
 - vbawd10.chm158007296
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Name
 ms.assetid: 5f5f8938-4dab-19fa-f339-83099c442ec4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Name Property (Word)
+# Document.Name property (Word)
 
-Returns the name of the specified object. Read-only  **String** .
+Returns the name of the specified object. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ abook = Documents("Hello.doc").Bookmarks(1).Name
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Name
 ms.assetid: cc8508d3-82fc-365b-c632-2565fd0071c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the name of the specified slicer. Read/write.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The name must be unique across all slicers within a workbook. The default name u
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

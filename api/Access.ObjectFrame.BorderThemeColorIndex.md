@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.BorderThemeColorIndex
 ms.assetid: 8070f9c7-bee5-a702-f874-c96af9fb71d3
-ms.date: 06/08/2017
+ms.date: 02/20/2019
+localization_priority: Normal
 ---
 
 
 # ObjectFrame.BorderThemeColorIndex property (Access)
 
-Gets or sets a value that represents a color in the applied color theme associated with the  **BorderColor** property of the specified object. Read/write **Long**.
+Gets or sets a value that represents a color in the applied color theme associated with the **BorderColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `BorderThemeColorIndex`
+_expression_.**BorderThemeColorIndex**
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **BorderThemeColorIndex** property contains one of the index values listed in the following table.
+The **BorderThemeColorIndex** property contains one of the index values listed in the following table.
 
-
-
-|**Index Value**|**Description**|
+|Index value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1|Background 1|
@@ -44,14 +43,14 @@ The  **BorderThemeColorIndex** property contains one of the index values listed 
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **BorderThemeColorIndex** property contains -1.
+If no theme is applied, the **BorderThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example sets the Border Color to the Text 2 color by setting the  **BorderThemeColorIndex** property.
+The following code example sets the border color to the Text 2 color by setting the **BorderThemeColorIndex** property.
 
 
 ```vb
@@ -59,8 +58,6 @@ Me.ctl.BorderThemeColorIndex=2
 ```
 
 
-## See also
 
 
-[ObjectFrame Object](Access.ObjectFrame.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

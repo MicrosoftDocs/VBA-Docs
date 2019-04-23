@@ -1,5 +1,5 @@
 ---
-title: LegendKey Object (Word)
+title: LegendKey object (Word)
 keywords: vbawd10.chm4062
 f1_keywords:
 - vbawd10.chm4062
@@ -8,10 +8,11 @@ api_name:
 - Word.LegendKey
 ms.assetid: 07578528-3e73-7898-47dc-296aefb854f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendKey Object (Word)
+# LegendKey object (Word)
 
 Represents a legend key in a chart legend.
 
@@ -40,6 +41,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

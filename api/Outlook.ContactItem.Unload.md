@@ -1,23 +1,24 @@
 ---
-title: ContactItem.Unload Event (Outlook)
+title: ContactItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Unload
 ms.assetid: 16a3d7ce-0843-5eb5-bbea-df6557ceda05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.Unload Event (Outlook)
+# ContactItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

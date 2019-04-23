@@ -1,5 +1,5 @@
 ---
-title: OlFormatEnumeration Enumeration (Outlook)
+title: OlFormatEnumeration enumeration (Outlook)
 keywords: vbaol11.chm3140
 f1_keywords:
 - vbaol11.chm3140
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlFormatEnumeration
 ms.assetid: e47b6c54-ef21-4a5b-6ab1-b26a9aafffa2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlFormatEnumeration Enumeration (Outlook)
+# OlFormatEnumeration enumeration (Outlook)
 
 Indicates the format used to display enumeration Outlook item properties.
 
@@ -22,3 +23,4 @@ Indicates the format used to display enumeration Outlook item properties.
 | **olFormatEnumBitmap**|1|Display as a bitmap with a pop-up list.|
 | **olFormatEnumText**|2|Display as text with a pop-up list.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

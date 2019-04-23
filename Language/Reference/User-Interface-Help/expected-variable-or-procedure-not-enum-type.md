@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e87a2297-58b5-5bf5-326c-efdeefcd9e83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ The name of an  **Enum** type only appears in a statement declaring an enumerati
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

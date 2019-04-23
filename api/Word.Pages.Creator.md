@@ -1,5 +1,5 @@
 ---
-title: Pages.Creator Property (Word)
+title: Pages.Creator property (Word)
 keywords: vbawd10.chm67240937
 f1_keywords:
 - vbawd10.chm67240937
@@ -8,19 +8,20 @@ api_name:
 - Word.Pages.Creator
 ms.assetid: 0f449de7-653d-34fb-20be-cb9bf089ce88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.Creator Property (Word)
+# Pages.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Pages](Word.pages.md)' collection.
+_expression_ Required. A variable that represents a '[Pages](Word.pages.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Pages Collection](Word.pages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

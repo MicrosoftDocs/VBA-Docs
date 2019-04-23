@@ -1,5 +1,5 @@
 ---
-title: MenuItem.AddOnName Property (Visio)
+title: MenuItem.AddOnName property (Visio)
 keywords: vis_sdr.chm12913050
 f1_keywords:
 - vis_sdr.chm12913050
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItem.AddOnName
 ms.assetid: dfe65141-f5e4-77b3-8113-4650a602ea34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItem.AddOnName Property (Visio)
+# MenuItem.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated menu item is selected. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
@@ -51,7 +52,7 @@ If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** pro
 
 ## Example
 
-This VBA macro shows how to set the  **AddOnName** property of a menu item. It also shows how to add a menu and menu item to the **Add-ins** tab, and how to set some of the menu item's other properties, such as **Caption** , **AddOnArgs** , and **ActionText** .
+This VBA macro shows how to set the  **AddOnName** property of a menu item. It also shows how to add a menu and menu item to the **Add-ins** tab, and how to set some of the menu item's other properties, such as **Caption**, **AddOnArgs**, and **ActionText**.
 
 This example assumes that you already have a macro named  _macroname_ in the project of the active document, and that the macro takes an argument called "Arg1." Before running this example, replace _macroname_ with the name of your macro.
 
@@ -106,4 +107,4 @@ Public Sub AddOnName_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

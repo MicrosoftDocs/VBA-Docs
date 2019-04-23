@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.HasRichDataType
 ms.date: 09/12/2018
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ ms.date: 09/12/2018
 
 ## Syntax
 
- _expression_. `HasRichDataType`
+_expression_. `HasRichDataType`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 
 ## Remarks
@@ -51,3 +52,5 @@ End If
 - [Range.SetCellDataTypeFromCell](Excel.Range.SetCellDataTypeFromCell.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

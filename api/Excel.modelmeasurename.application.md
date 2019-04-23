@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 2a93826c-7d6d-030c-e0e3-1c9b85be9c4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) object.
+_expression_ A variable that represents a **[ModelMeasureName](Excel.modelmeasurename.md)** object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -47,3 +48,4 @@ End If
 
 [ModelMeasureName Object](Excel.modelmeasurename.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

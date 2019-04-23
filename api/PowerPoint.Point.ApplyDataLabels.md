@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyDataLabels Method (PowerPoint)
+title: Point.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm714004
 f1_keywords:
 - vbapp10.chm714004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Point.ApplyDataLabels
 ms.assetid: 49bd00ab-d1d1-563f-b5ce-e0a575a97a5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.ApplyDataLabels Method (PowerPoint)
+# Point.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to a point.
 
 
 ## Syntax
 
- _expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
+_expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
@@ -42,7 +43,7 @@ Applies data labels to a point.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following  **xlDataLabelsType** constants:
 
 
 -  **xlDataLabelsShowLabelAndPercent** ?The percentage of the total, and the category for the point. Available only for pie charts and doughnut charts.
@@ -83,3 +84,4 @@ End With
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

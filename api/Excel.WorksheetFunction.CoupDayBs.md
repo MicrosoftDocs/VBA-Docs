@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupDayBs Method (Excel)
+title: WorksheetFunction.CoupDayBs method (Excel)
 keywords: vbaxl10.chm137328
 f1_keywords:
 - vbaxl10.chm137328
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CoupDayBs
 ms.assetid: 8a7dec08-dac1-5bff-ba68-017b5a018cdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CoupDayBs Method (Excel)
+# WorksheetFunction.CoupDayBs method (Excel)
 
 Returns the number of days from the beginning of the coupon period to the settlement date.
 
 
 ## Syntax
 
- _expression_. `CoupDayBs`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `CoupDayBs`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -74,3 +75,4 @@ The following table contains the list of values for  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

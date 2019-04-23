@@ -1,21 +1,22 @@
 ---
-title: TaskGroups2.Item Property (Project)
+title: TaskGroups2.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskGroups2.Item
 ms.assetid: 62a5a8d4-e72d-075b-a80d-07539f2a3ca8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskGroups2.Item Property (Project)
+# TaskGroups2.Item property (Project)
 
 Gets a single item from a collection. Read-only  **Object**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a 'TaskGroups2' object.
 
@@ -33,3 +34,4 @@ Gets a single item from a collection. Read-only  **Object**.
 
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

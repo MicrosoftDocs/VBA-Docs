@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Next Method (Word)
+title: Paragraph.Next method (Word)
 keywords: vbawd10.chm156696900
 f1_keywords:
 - vbawd10.chm156696900
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Next
 ms.assetid: 5ada0da7-a579-b728-0483-b698a09eb41c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Next Method (Word)
+# Paragraph.Next method (Word)
 
 Returns a  **Paragraph** object that represents the next paragraph.
 
 
 ## Syntax
 
- _expression_. `Next`( `_Count_` )
+_expression_.**Next** (_Count_)
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ Next n
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

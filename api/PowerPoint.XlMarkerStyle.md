@@ -1,14 +1,15 @@
 ---
-title: xlMarkerStyle Enumeration (PowerPoint)
+title: XlMarkerStyle enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlMarkerStyle
 ms.assetid: ec213196-0993-526a-48ca-80f92385a0bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlMarkerStyle Enumeration (PowerPoint)
+# XlMarkerStyle enumeration (PowerPoint)
 
 Specifies the marker style for a point or series in a line chart, scatter chart, or radar chart.
 
@@ -29,3 +30,4 @@ Specifies the marker style for a point or series in a line chart, scatter chart,
 |**xlMarkerStyleTriangle**|3|Triangular markers.|
 |**xlMarkerStyleX**|-4168|Square markers with an X.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

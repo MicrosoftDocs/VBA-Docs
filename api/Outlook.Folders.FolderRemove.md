@@ -1,5 +1,5 @@
 ---
-title: Folders.FolderRemove Event (Outlook)
+title: Folders.FolderRemove event (Outlook)
 keywords: vbaol11.chm310
 f1_keywords:
 - vbaol11.chm310
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folders.FolderRemove
 ms.assetid: 9113c4b9-9a18-76a8-3726-7b55fa6e6365
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folders.FolderRemove Event (Outlook)
+# Folders.FolderRemove event (Outlook)
 
 Occurs when a folder is removed from the specified  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
 
- _expression_. `FolderRemove`
+_expression_. `FolderRemove`
 
- _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ End Sub
 
 [Folders Object](Outlook.Folders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

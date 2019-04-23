@@ -1,14 +1,15 @@
 ---
-title: WdCalendarType Enumeration (Word)
+title: WdCalendarType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCalendarType
 ms.assetid: 437bf659-98fa-5a5b-bb74-7c956572db17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCalendarType Enumeration (Word)
+# WdCalendarType enumeration (Word)
 
 Specifies a calendar type.
 
@@ -28,3 +29,4 @@ Specifies a calendar type.
 | **wdCalendarUmalqura**|13|Um-al-Qura calendar.|
 | **wdCalendarWestern**|0|Western. Corresponds to the Gregorian calendar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

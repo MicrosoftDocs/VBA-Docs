@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.RowFields
 ms.assetid: 3976d5ec-b248-55f5-659d-2671af3f3bfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single field in a PivotTable report (
 
 ## Syntax
 
- _expression_. `RowFields`( `_Index_` )
+_expression_. `RowFields` (_Index_)
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Next pvtField
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

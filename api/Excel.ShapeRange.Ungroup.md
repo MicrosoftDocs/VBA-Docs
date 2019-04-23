@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Ungroup Method (Excel)
+title: ShapeRange.Ungroup method (Excel)
 keywords: vbaxl10.chm640094
 f1_keywords:
 - vbaxl10.chm640094
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.Ungroup
 ms.assetid: d7794250-e4b4-6998-e43d-4b41475ac6c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Ungroup Method (Excel)
+# ShapeRange.Ungroup method (Excel)
 
 Ungroups any grouped shapes in the specified shape or range of shapes. Disassembles pictures and OLE objects within the specified shape or range of shapes.
 
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Return value
@@ -35,7 +36,7 @@ Because a group of shapes is treated as a single object, grouping and ungrouping
 
 ## Example
 
-This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  `myDocument`.
+This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  _myDocument_.
 
 
 ```vb
@@ -45,7 +46,7 @@ For Each s In myDocument.Shapes
 Next
 ```
 
-This example ungroups any grouped shapes on  `myDocument` without disassembling pictures or OLE objects on the document.
+This example ungroups any grouped shapes on  _myDocument_ without disassembling pictures or OLE objects on the document.
 
 
 
@@ -62,3 +63,4 @@ For Each s In myDocument.Shapes
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

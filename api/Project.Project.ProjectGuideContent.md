@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideContent Property (Project)
+title: Project.ProjectGuideContent property (Project)
 keywords: vbapj.chm131091
 f1_keywords:
 - vbapj.chm131091
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.ProjectGuideContent
 ms.assetid: 26ae4b6c-2541-b175-62d8-a4d4c015c6f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideContent Property (Project)
+# Project.ProjectGuideContent property (Project)
 
 Gets or sets the name of the XML schema being used by the Project Guide. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ProjectGuideContent`
+_expression_. `ProjectGuideContent`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -65,4 +66,4 @@ Sub UseCustomProjectGuide()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

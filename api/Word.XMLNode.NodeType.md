@@ -1,5 +1,5 @@
 ---
-title: XMLNode.NodeType Property (Word)
+title: XMLNode.NodeType property (Word)
 keywords: vbawd10.chm37748748
 f1_keywords:
 - vbawd10.chm37748748
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLNode.NodeType
 ms.assetid: 0df07d30-e7ae-44e6-3372-ccece783a3fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.NodeType Property (Word)
+# XMLNode.NodeType property (Word)
 
-Returns a  **[WdXMLNodeType](./overview/Word.md)** constant that represents the type of node.
+Returns a  **[WdXMLNodeType](overview/Word.md)** constant that represents the type of node.
 
 
 ## Syntax
 
- _expression_. `NodeType`
+_expression_. `NodeType`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
@@ -60,3 +61,4 @@ End Sub
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

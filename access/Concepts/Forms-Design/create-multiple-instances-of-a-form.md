@@ -3,6 +3,7 @@ title: Create multiple instances of a form
 ms.prod: access
 ms.assetid: 1e59bcce-f65f-8632-d96c-9e93af419d05
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ You should declare the variable that represents the new instance of a form class
 
 Any properties that you set will affect this instance of the form's class, but will not be saved with the form. Also, a new instance of the form's class cannot be created if the form is open in Design view.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

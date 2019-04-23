@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.ChildField
 ms.assetid: 97e246de-208f-5932-a553-525da17b0d4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that represents the chil
 
 ## Syntax
 
- _expression_. `ChildField`
+_expression_. `ChildField`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ MsgBox "The name of the child field is " & _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

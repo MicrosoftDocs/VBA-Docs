@@ -1,21 +1,22 @@
 ---
-title: Resource.Hyperlink Property (Project)
+title: Resource.Hyperlink property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Hyperlink
 ms.assetid: 6ca08bee-46a8-9da3-29db-54d05cfe33ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Hyperlink Property (Project)
+# Resource.Hyperlink property (Project)
 
 Gets or sets a friendly name representing a hyperlink address. The name may also be a URL or UNC path. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_.**Hyperlink**
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -39,4 +40,4 @@ Sub AddHyperlink()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

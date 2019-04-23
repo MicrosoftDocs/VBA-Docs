@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Charts
 ms.assetid: 582d9a78-d86f-ab69-0c22-85f8a59412d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the char
 
 ## Syntax
 
- _expression_. `Charts`
+_expression_. `Charts`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -45,3 +46,4 @@ ActiveWorkbook.Charts.Delete
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

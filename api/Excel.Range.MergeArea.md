@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.MergeArea
 ms.assetid: 68586bba-fa9c-e0d4-0eae-a08613551a2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.MergeArea property (Excel)
 
-Returns a  **Range** object that represents the merged range containing the specified cell. If the specified cell isn't in a merged range, this property returns the specified cell. Read-only **Variant** .
+Returns a  **Range** object that represents the merged range containing the specified cell. If the specified cell isn't in a merged range, this property returns the specified cell. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `MergeArea`
+_expression_. `MergeArea`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End If
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

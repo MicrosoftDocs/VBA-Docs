@@ -3,6 +3,7 @@ title: Disk failure while accessing log file <name>. (Error 3473)
 ms.prod: access
 ms.assetid: 3aa4c00d-4ba7-965e-618a-c45299bab7ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The disk drive for the log file may have a bad sector.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

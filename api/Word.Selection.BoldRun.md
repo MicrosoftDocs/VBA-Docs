@@ -1,5 +1,5 @@
 ---
-title: Selection.BoldRun Method (Word)
+title: Selection.BoldRun method (Word)
 keywords: vbawd10.chm158663258
 f1_keywords:
 - vbawd10.chm158663258
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.BoldRun
 ms.assetid: 0998afe2-dcd9-c1e4-9614-a1af4c6bbeaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.BoldRun Method (Word)
+# Selection.BoldRun method (Word)
 
 Adds the bold character format to or removes it from the current run.
 
 
 ## Syntax
 
- _expression_. `BoldRun`
+_expression_. `BoldRun`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Selection.BoldRun
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

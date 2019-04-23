@@ -1,34 +1,35 @@
 ---
-title: PivotTable.DrillDown Method (Excel)
+title: PivotTable.DrillDown method (Excel)
 keywords: vbaxl10.chm235206
 f1_keywords:
 - vbaxl10.chm235206
 ms.prod: excel
 ms.assetid: 01824849-6c03-d263-aeb5-68b6c331bf0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.DrillDown Method (Excel)
+# PivotTable.DrillDown method (Excel)
 
 Enables you to drill down into the data within an OLAP or PowerPivot based cube hierarchy.
 
 
 ## Syntax
 
- _expression_. `DrillDown`_(PivotItem,_ _PivotLine)_
+_expression_. `DrillDown`_(PivotItem,_ _PivotLine)_
 
- _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotItem_|Required|PIVOTITEM|The member from which the drill down is performed.|
-| _PivotLine_|Optional|VARIANT|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
+| _PivotLine_|Optional|**Variant**|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
 
 ## Return value
 
@@ -65,3 +66,4 @@ ActiveChart.PivotLayout.PivotTable.DrillDown ActiveChart.PivotLayout.PivotTable 
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

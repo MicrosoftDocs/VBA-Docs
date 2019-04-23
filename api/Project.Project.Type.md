@@ -1,21 +1,22 @@
 ---
-title: Project.Type Property (Project)
+title: Project.Type property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Type
 ms.assetid: 13393b8e-283d-d816-283e-f363b83eac91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.Type Property (Project)
+# Project.Type property (Project)
 
 Gets the type of a project. Read-only  **PjProjectType**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -65,3 +66,5 @@ End Sub
 
 [CheckoutProject Method](Project.project.checkoutproject.md)
 [Application.IsCheckedOut Property](Project.application.ischeckedout.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

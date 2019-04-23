@@ -1,22 +1,23 @@
 ---
-title: Guides.Add Method (PowerPoint)
+title: Guides.Add method (PowerPoint)
 keywords: vbapp10.chm742004
 f1_keywords:
 - vbapp10.chm742004
 ms.assetid: 225ed31f-897e-a2bf-fecd-a915f8e1865f
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Guides.Add Method (PowerPoint)
+# Guides.Add method (PowerPoint)
 
 Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 
 ## Syntax
 
- _expression_. `Add`_(Orientation,_ _Position)_
+_expression_.**Add**_(Orientation,_ _Position)_
 
  _expression_ A variable that represents a 'Guides' object.
 
@@ -25,7 +26,7 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|[PpGuideOrientation](PowerPoint.ppguideorientation.md)|Specifies the orientation of a drawing guide, either horizontal or vertical.|
 | _Position_|Required|**Float**|The position of the guide along the specified axis.|
@@ -36,4 +37,4 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 [Guide](PowerPoint.guide.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 469a7dd2-2498-4d92-aa15-523bd6018aa2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.DayLabelDisplay Property (Project)](http://msdn.microsoft.com/library/6888b00a-3589-1e39-1394-c5089ec38521%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

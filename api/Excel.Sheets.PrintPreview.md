@@ -1,5 +1,5 @@
 ---
-title: Sheets.PrintPreview Method (Excel)
+title: Sheets.PrintPreview method (Excel)
 keywords: vbaxl10.chm152082
 f1_keywords:
 - vbaxl10.chm152082
@@ -8,19 +8,20 @@ api_name:
 - Excel.Sheets.PrintPreview
 ms.assetid: 0e8c0e01-16e3-5d84-7b84-39049186fd7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sheets.PrintPreview Method (Excel)
+# Sheets.PrintPreview method (Excel)
 
 Shows a preview of the object as it would look when printed.
 
 
 ## Syntax
 
- _expression_. `PrintPreview`( `_EnableChanges_` )
+_expression_.**PrintPreview** (_EnableChanges_)
 
- _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
+_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ Worksheets("Sheet1").PrintPreview
 
 [Sheets Object](Excel.Sheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

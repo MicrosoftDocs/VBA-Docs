@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AutoDiscoverComplete Event (Outlook)
+title: NameSpace.AutoDiscoverComplete event (Outlook)
 keywords: vbaol11.chm3301
 f1_keywords:
 - vbaol11.chm3301
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.AutoDiscoverComplete
 ms.assetid: b7cac212-4d38-660e-0caf-48f97035f14a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.AutoDiscoverComplete Event (Outlook)
+# NameSpace.AutoDiscoverComplete event (Outlook)
 
-Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange server that hosts the primary Exchange account and has the related information available in  **[NameSpace.AutoDiscoverXml](Outlook.NameSpace.AutoDiscoverXml.md)** .
+Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange server that hosts the primary Exchange account and has the related information available in  **[NameSpace.AutoDiscoverXml](Outlook.NameSpace.AutoDiscoverXml.md)**.
 
 
 ## Syntax
 
- _expression_. `AutoDiscoverComplete`
+_expression_. `AutoDiscoverComplete`
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks
@@ -116,3 +117,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

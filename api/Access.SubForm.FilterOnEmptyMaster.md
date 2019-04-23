@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.SubForm.FilterOnEmptyMaster
 ms.assetid: 5f9dade2-75a4-aa77-f208-4cb80b9d3020
-ms.date: 06/08/2017
+ms.date: 03/26/2019
+localization_priority: Normal
 ---
 
 
 # SubForm.FilterOnEmptyMaster property (Access)
 
-Gets or sets whether all records are displayed when the subform's master field is  **Null**. Read/write **Boolean**.
+Gets or sets whether all records are displayed when the subform's master field is **Null**. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `FilterOnEmptyMaster`
+_expression_.**FilterOnEmptyMaster**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
-[SubForm Object](Access.SubForm.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

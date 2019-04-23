@@ -1,23 +1,24 @@
 ---
-title: AppointmentItem.BeforeAttachmentRead Event (Outlook)
+title: AppointmentItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentRead
 ms.assetid: db38a11b-c9bc-ebda-5900-00391cdf080f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.BeforeAttachmentRead Event (Outlook)
+# AppointmentItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

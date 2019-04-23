@@ -1,5 +1,5 @@
 ---
-title: Application.FindKey Property (Word)
+title: Application.FindKey property (Word)
 keywords: vbawd10.chm158335047
 f1_keywords:
 - vbawd10.chm158335047
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.FindKey
 ms.assetid: f648e9a5-626b-3923-46e4-a0c9c1dfc815
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FindKey Property (Word)
+# Application.FindKey property (Word)
 
 Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the specified key combination. Read-only.
 
 
 ## Syntax
 
- _expression_. `FindKey`( `_KeyCode_` , `_ KeyCode2_` )
+_expression_. `FindKey`( `_KeyCode_` , `_ KeyCode2_` )
 
  _expression_ Optional. An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -64,3 +65,4 @@ MsgBox FindKey(KeyCode:=wdKeyF1).Command
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

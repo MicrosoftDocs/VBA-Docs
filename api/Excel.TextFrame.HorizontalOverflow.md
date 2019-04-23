@@ -8,6 +8,7 @@ api_name:
 - Excel.TextFrame.HorizontalOverflow
 ms.assetid: 363f7e44-1f2e-78fb-38f6-5b89cd0d707d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the horizontal overflow setting for the specified object. Read/w
 
 ## Syntax
 
- _expression_. `HorizontalOverflow`
+_expression_. `HorizontalOverflow`
 
- _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ This property only has an effect when the  **[WordWrap](Excel.TextFrame2.WordWra
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

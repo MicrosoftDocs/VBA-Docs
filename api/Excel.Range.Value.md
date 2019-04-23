@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Value
 ms.assetid: 23f28b24-430a-6ea4-4895-0afff8dff218
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the value of the specified 
 
 ## Syntax
 
- _expression_. `Value`( `_RangeValueDataType_` )
+_expression_.**Value**( `_RangeValueDataType_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Returns or sets a  **Variant** value that represents the value of the specified 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a  **[xlRangeValueDataType](Excel.XlRangeValueDataType.md)** constant.|
+| _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a  **[XlRangeValueDataType](Excel.XlRangeValueDataType.md)** constant.|
 
 ## Remarks
 
@@ -64,3 +65,4 @@ Next c
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

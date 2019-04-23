@@ -1,5 +1,5 @@
 ---
-title: UIObject.ToolbarSets Property (Visio)
+title: UIObject.ToolbarSets property (Visio)
 keywords: vis_sdr.chm14914560
 f1_keywords:
 - vis_sdr.chm14914560
@@ -8,17 +8,18 @@ api_name:
 - Visio.UIObject.ToolbarSets
 ms.assetid: 5fd4551c-3e23-920b-9dbc-76b2a79671f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UIObject.ToolbarSets Property (Visio)
+# UIObject.ToolbarSets property (Visio)
 
 Returns the  **ToolbarSets** collection of a **UIObject** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToolbarSets`
+_expression_. `ToolbarSets`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
@@ -87,4 +88,4 @@ Public Sub ToolbarSets_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

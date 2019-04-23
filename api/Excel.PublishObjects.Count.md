@@ -8,6 +8,7 @@ api_name:
 - Excel.PublishObjects.Count
 ms.assetid: ac794ba3-1514-2a42-ed18-96ee0a9a2832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
+_expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [PublishObjects Object](Excel.PublishObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

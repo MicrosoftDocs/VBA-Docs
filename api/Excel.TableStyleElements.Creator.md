@@ -8,19 +8,20 @@ api_name:
 - Excel.TableStyleElements.Creator
 ms.assetid: ef8ca78a-248a-a226-b641-c9917d84236a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TableStyleElements.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [TableStyleElements](./Excel.TableStyleElements.md) object.
+_expression_ A variable that represents a [TableStyleElements](Excel.TableStyleElements.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [TableStyleElements Object](Excel.TableStyleElements.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

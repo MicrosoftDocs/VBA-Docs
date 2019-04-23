@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertMailMergeField Method (Publisher)
+title: TextRange.InsertMailMergeField method (Publisher)
 keywords: vbapb10.chm5308483
 f1_keywords:
 - vbapb10.chm5308483
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.InsertMailMergeField
 ms.assetid: 97bce07d-b831-3ad6-2436-f85590c3bcd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.InsertMailMergeField Method (Publisher)
+# TextRange.InsertMailMergeField method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a text data field for a mail merge or catalog merge.
 
 
 ## Syntax
 
- _expression_. **InsertMailMergeField**(**_varIndex_**)
+_expression_.**InsertMailMergeField**(**_varIndex_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -68,4 +69,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Assignment to constant not permitted
 ms.prod: office
 ms.assetid: 9fb23a16-79b2-4862-b31f-4c31ca2a29a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ A constant represents a read-only value. This error has the following causes and
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

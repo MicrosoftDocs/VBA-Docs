@@ -1,5 +1,5 @@
 ---
-title: Editor.NextRange Property (Word)
+title: Editor.NextRange property (Word)
 keywords: vbawd10.chm225575015
 f1_keywords:
 - vbawd10.chm225575015
@@ -8,17 +8,18 @@ api_name:
 - Word.Editor.NextRange
 ms.assetid: 64c34fd4-2ce8-7d86-0981-1266fe0c7d56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Editor.NextRange Property (Word)
+# Editor.NextRange property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the next range for which a user has permissions to modify.
 
 
 ## Syntax
 
- _expression_. `NextRange`
+_expression_. `NextRange`
 
  _expression_ An expression that returns an '[Editor](Word.Editor.md)' object.
 
@@ -47,3 +48,4 @@ Set objRange = objEditor.NextRange
 
 [Editor Object](Word.Editor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

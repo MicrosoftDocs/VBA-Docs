@@ -1,5 +1,5 @@
 ---
-title: TickLabels Object (PowerPoint)
+title: TickLabels object (PowerPoint)
 keywords: vbapp10.chm719000
 f1_keywords:
 - vbapp10.chm719000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TickLabels
 ms.assetid: 2ba878bf-3a76-1350-2bd4-615c2520f042
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TickLabels Object (PowerPoint)
+# TickLabels object (PowerPoint)
 
 Represents the tick-mark labels associated with tick marks on a chart axis.
 
@@ -55,3 +56,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: ToggleButton.Accelerator Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d4a436a0-d294-68e8-720b-5f8c76cb9d05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets the accelerator key for a control. Read/write.
 
 ## Syntax
 
- _expression_. **Accelerator**
+_expression_.**Accelerator**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ To designate an accelerator key, enter a single character for the  **Accelerator
 
 When an accelerator key is used, there is no visual feedback (other than focus) to indicate that the control initiated the  **[Click](Outlook.togglebutton.click.md)** event. For example, if the accelerator key applies to a **[CommandButton](Outlook.commandbutton.md)**, the user will not see the button pressed in the interface. The button receives the focus, however, when the user presses the accelerator key.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

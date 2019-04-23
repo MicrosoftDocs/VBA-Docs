@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.BuildFreeform Method (Word)
+title: CanvasShapes.BuildFreeform method (Word)
 keywords: vbawd10.chm7536660
 f1_keywords:
 - vbawd10.chm7536660
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.BuildFreeform
 ms.assetid: eb960023-aeda-d272-c9c8-5474fb5867b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.BuildFreeform Method (Word)
+# CanvasShapes.BuildFreeform method (Word)
 
 Builds a freeform object. Returns a  **[FreeformBuilder](Word.FreeformBuilder.md)** object that represents the freeform as it is being built. .
 
 
 ## Syntax
 
- _expression_. `BuildFreeform`( `_EditingType_` , `_X1_` , `_Y1_` )
+_expression_. `BuildFreeform`( `_EditingType_` , `_X1_` , `_Y1_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' object.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](Word.FreeformBuilder.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditingType_|Required| **MsoEditingType**|The EditingType parameter can be either  **msoEditingAuto** or **msoEditingCorner** ; cannot be **msoEditingSmooth** or **msoEditingSymmetric** .|
+| _EditingType_|Required| **MsoEditingType**|The EditingType parameter can be either  **msoEditingAuto** or **msoEditingCorner**; cannot be **msoEditingSmooth** or **msoEditingSymmetric**.|
 | _X1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the left edge of the document.|
 | _Y1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the top of the document.|
 
@@ -63,3 +64,4 @@ End With
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

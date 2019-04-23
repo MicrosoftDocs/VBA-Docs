@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Copy Method (Outlook)
+title: ContactItem.Copy method (Outlook)
 keywords: vbaol11.chm957
 f1_keywords:
 - vbaol11.chm957
@@ -8,24 +8,25 @@ api_name:
 - Outlook.ContactItem.Copy
 ms.assetid: 0e99dbcb-95f0-b1a2-e709-165a09035354
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.Copy Method (Outlook)
+# ContactItem.Copy method (Outlook)
 
 Creates another instance of an object.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
 
-This Visual Basic for Applications example creates an e-mail message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created e-mail folder named "Saved Mail" within the Inbox folder.
+This Visual Basic for Applications example creates an email message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created email folder named "Saved Mail" within the Inbox folder.
 
 
 ```vb
@@ -66,3 +67,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

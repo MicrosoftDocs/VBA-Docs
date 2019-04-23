@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetSelectionChange Event (Excel)
+title: Workbook.SheetSelectionChange event (Excel)
 keywords: vbaxl10.chm503085
 f1_keywords:
 - vbaxl10.chm503085
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetSelectionChange
 ms.assetid: a3829af1-2917-9526-1d64-91eeb6c198ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetSelectionChange Event (Excel)
+# Workbook.SheetSelectionChange event (Excel)
 
 Occurs when the selection changes on any worksheet (doesn't occur if the selection is on a chart sheet).
 
 
 ## Syntax
 
- _expression_. `SheetSelectionChange`( `_Sh_` , `_Target_` )
+_expression_. `SheetSelectionChange`( `_Sh_` , `_Target_` )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

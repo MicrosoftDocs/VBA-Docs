@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.Borders.Parent
 ms.assetid: 43a8a82d-d2b9-59d3-36b2-97ffffea6cdb
-ms.date: 06/08/2017
+ms.date: 04/13/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Borders](Excel.Borders.md)** object.
 
 
-[Borders Collection](Excel.Borders.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

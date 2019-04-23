@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a919be67-84ee-e9de-1cfd-17a456f4d929
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -23,5 +24,4 @@ You can set a reference from a Visual Basic project in one Access database to a 
 > - You can set a reference to a project only in another Access 2002 or later database. To set a reference to a project in a database created in an earlier version of Access, first convert that database to Access 2002 or later.
 > - If you set a reference to a project or type library from Access and then move the file that contains that project or type library to a different folder, Access will attempt to locate the file and reestablish the reference. If the RefLibPaths key exists in the registry, Access will first search there. If there's no matching entry, Access will search for the file first in the current folder, then in all the folders on the drive. You can create the RefLibPaths key by using the Registry Editor in Windows, under the registry key \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\version\Access. For more information about using the Registry Editor, see your Windows documentation.
 
- 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

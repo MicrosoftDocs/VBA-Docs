@@ -1,11 +1,12 @@
 ---
-title: NPer function
+title: NPer function (Visual Basic for Applications)
 keywords: vblr6.chm1009446
 f1_keywords:
 - vblr6.chm1009446
 ms.prod: office
 ms.assetid: c4043308-390e-f8bd-800b-ca00e99214d1
-ms.date: 06/08/2017
+ms.date: 12/13/2018
+localization_priority: Normal
 ---
 
 
@@ -15,17 +16,19 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 ## Syntax
 
-**NPer( _rate_**, **_pmt_**, **_pv_**, [ **_fv_**, [ **_type_** ]] **)**
+**NPer**(_rate_, _pmt_, _pv_, [ _fv_, [ _type_ ]])
+
+<br/>
 
 The **NPer** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
-|**_rate_**|Required. **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
-|**_pmt_**|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
-|**_pv_**|Required. **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.|
-|**_fv_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying future value or cash balance you want after you've made the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, then $50,000 is the future value. If omitted, 0 is assumed.|
-|**_type_**|Optional. **Variant** specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
+|_rate_|Required. **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
+|_pmt_|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
+|_pv_|Required. **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.|
+|_fv_|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying future value or cash balance you want after you've made the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, $50,000 is the future value. If omitted, 0 is assumed.|
+|_type_|Optional. **Variant** specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
 
 ## Remarks
 
@@ -52,4 +55,8 @@ If Int(TotPmts) <> TotPmts Then TotPmts = Int(TotPmts) + 1
 MsgBox "It will take you " & TotPmts & " months to pay off your loan."
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

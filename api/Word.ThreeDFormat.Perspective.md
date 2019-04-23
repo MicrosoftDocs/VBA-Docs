@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (Word)
+title: ThreeDFormat.Perspective property (Word)
 keywords: vbawd10.chm164626535
 f1_keywords:
 - vbawd10.chm164626535
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.Perspective
 ms.assetid: 89d627c6-43d8-35d3-ad01-e6fc7f3e5142
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Perspective Property (Word)
+# ThreeDFormat.Perspective property (Word)
 
- **MsoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **MsoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write **MsoTriState** .
+ **MsoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **MsoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `Perspective`
+_expression_.**Perspective**
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Page.Breaks Property (Word)
+title: Page.Breaks property (Word)
 keywords: vbawd10.chm11075591
 f1_keywords:
 - vbawd10.chm11075591
@@ -8,19 +8,20 @@ api_name:
 - Word.Page.Breaks
 ms.assetid: 13aed7c7-cf67-1456-7842-d113dfc00b31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Breaks Property (Word)
+# Page.Breaks property (Word)
 
 Returns a  **Breaks** collection that represents the breaks on a page. .
 
 
 ## Syntax
 
- _expression_. `Breaks`
+_expression_. `Breaks`
 
- _expression_ Required. A variable that represents a '[Page](Word.Page.md)' object.
+_expression_ Required. A variable that represents a '[Page](Word.Page.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Set objBreaks = ActiveDocument.ActiveWindow _
 
 [Page Object](Word.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

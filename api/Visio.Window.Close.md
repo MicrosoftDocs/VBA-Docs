@@ -1,5 +1,5 @@
 ---
-title: Window.Close Method (Visio)
+title: Window.Close method (Visio)
 keywords: vis_sdr.chm11616125
 f1_keywords:
 - vis_sdr.chm11616125
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.Close
 ms.assetid: 43cb221f-ea65-c12a-e664-0f0fb35685e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Close Method (Visio)
+# Window.Close method (Visio)
 
 Closes a window.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -58,4 +59,4 @@ Public Sub Close_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

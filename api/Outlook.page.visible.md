@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 2023a10d-72d3-893a-9044-9f39f6cd0539
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether a **[Page](Outlook.page.md
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_.**Visible**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ Use the  **Visible** property to control access to information without displayin
 
 All pages are visible at design time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

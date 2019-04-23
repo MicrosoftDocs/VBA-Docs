@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItemList.Application
 ms.assetid: 980c64e7-89ed-57ce-e913-7bc1b036ce3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotItemList](Excel.PivotItemList.md) object.
+_expression_ A variable that represents a [PivotItemList](Excel.PivotItemList.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [PivotItemList Object](Excel.PivotItemList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

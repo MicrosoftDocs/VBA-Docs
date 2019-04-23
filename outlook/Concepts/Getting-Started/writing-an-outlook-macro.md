@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 60bfec1f-4cf2-a919-0985-6f071404eb70
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -30,3 +31,4 @@ A macro is any public subroutine in a code module. A function or a private subro
 For more information about using the Visual Basic Editor, see the Visual Basic Editor Help.
 Once you've created a macro, you can create a menu item or toolbar button that will run the macro when you click it.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

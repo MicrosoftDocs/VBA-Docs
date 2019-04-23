@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.SelectedAccount Property (Outlook)
+title: AccountSelector.SelectedAccount property (Outlook)
 keywords: vbaol11.chm3453
 f1_keywords:
 - vbaol11.chm3453
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AccountSelector.SelectedAccount
 ms.assetid: ecb0990b-16d6-51fb-bfc9-038b8dcca383
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccountSelector.SelectedAccount Property (Outlook)
+# AccountSelector.SelectedAccount property (Outlook)
 
 Returns an  **[Account](Outlook.Account.md)** object that represents the selected account in the Microsoft Office Backstage view in Microsoft Outlook. Read-only.
 
 
 ## Syntax
 
- _expression_. `SelectedAccount`
+_expression_. `SelectedAccount`
 
- _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSelector.md)' object.
+_expression_ A variable that represents an '[AccountSelector](Outlook.AccountSelector.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ This property returns  **Null** (**Nothing** in Visual Basic) if no accounts are
 
 [AccountSelector Object](Outlook.AccountSelector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

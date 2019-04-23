@@ -1,5 +1,5 @@
 ---
-title: Pane Object (PowerPoint)
+title: Pane object (PowerPoint)
 keywords: vbapp10.chm631000
 f1_keywords:
 - vbapp10.chm631000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Pane
 ms.assetid: 27862fd6-897d-893d-d5a8-b1e40b1b9d48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane Object (PowerPoint)
+# Pane object (PowerPoint)
 
 An object representing one of the three panes in normal view or the single pane of any other view in the document window.
 
@@ -60,3 +61,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

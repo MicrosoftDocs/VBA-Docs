@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.BeforeUpdate Event (Outlook)
+title: OlkCommandButton.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000131
 f1_keywords:
 - vbaol11.chm1000131
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCommandButton.BeforeUpdate
 ms.assetid: 5d3cd45b-2f27-f162-a198-bcabf766591e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCommandButton.BeforeUpdate Event (Outlook)
+# OlkCommandButton.BeforeUpdate event (Outlook)
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`( `_Cancel_` )
+_expression_.**BeforeUpdate** (_Cancel_)
 
- _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when the data in the control is changed through the user interface and is
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation will not be completed and the property bound to the control will not be updated.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation will not be completed and the property bound to the control will not be updated.|
 
 ## Remarks
 
@@ -56,3 +57,4 @@ Canceling this property will revert the control to the current value of the prop
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

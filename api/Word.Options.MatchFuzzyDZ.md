@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyDZ Property (Word)
+title: Options.MatchFuzzyDZ property (Word)
 keywords: vbawd10.chm162988350
 f1_keywords:
 - vbawd10.chm162988350
@@ -8,21 +8,22 @@ api_name:
 - Word.Options.MatchFuzzyDZ
 ms.assetid: 4594528b-3855-512d-9738-878ce68c4bf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.MatchFuzzyDZ Property (Word)
+# Options.MatchFuzzyDZ property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe274_ZA06051753.gif)" and "
 ![Symbol](../images/fe275_ZA06051754.gif)" and between "
 ![Symbol](../images/fe276_ZA06051755.gif)" and "
-![Symbol](../images/fe277_ZA06051756.gif)" during a search. Read/write  **Boolean** .
+![Symbol](../images/fe277_ZA06051756.gif)" during a search. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MatchFuzzyDZ`
+_expression_. `MatchFuzzyDZ`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -46,3 +47,4 @@ Options.MatchFuzzyDZ = True
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

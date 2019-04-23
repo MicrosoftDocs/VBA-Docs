@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Delete Method (Outlook)
+title: DocumentItem.Delete method (Outlook)
 keywords: vbaol11.chm1211
 f1_keywords:
 - vbaol11.chm1211
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DocumentItem.Delete
 ms.assetid: b9c2c20c-2e3e-5f2f-9a40-10c5a64bcd35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentItem.Delete Method (Outlook)
+# DocumentItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

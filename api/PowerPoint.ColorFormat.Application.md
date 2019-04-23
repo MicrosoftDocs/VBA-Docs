@@ -1,23 +1,24 @@
 ---
-title: ColorFormat.Application Property (PowerPoint)
+title: ColorFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Application
 ms.assetid: b911e512-fae0-990d-36b1-85e8f9d74e08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.Application Property (PowerPoint)
+# ColorFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
+_expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
 
 ## Return value
@@ -63,3 +64,4 @@ Next
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

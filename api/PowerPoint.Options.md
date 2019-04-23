@@ -1,5 +1,5 @@
 ---
-title: Options Object (PowerPoint)
+title: Options object (PowerPoint)
 keywords: vbapp10.chm667000
 f1_keywords:
 - vbapp10.chm667000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Options
 ms.assetid: c129bafc-9927-0171-769e-21649ead7dca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options Object (PowerPoint)
+# Options object (PowerPoint)
 
 Represents application options in Microsoft PowerPoint.
 
@@ -43,3 +44,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

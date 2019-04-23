@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 14d526cf-1149-465f-9f8a-17fefb1dd014
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.Pattern Property (Project)](http://msdn.microsoft.com/library/51553308-48a9-16cf-7bb9-0f142fd535f4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

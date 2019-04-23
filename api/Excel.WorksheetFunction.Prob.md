@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Prob Method (Excel)
+title: WorksheetFunction.Prob method (Excel)
 keywords: vbaxl10.chm137221
 f1_keywords:
 - vbaxl10.chm137221
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Prob
 ms.assetid: 7715295d-90da-53fc-ef66-8422e829e05c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Prob Method (Excel)
+# WorksheetFunction.Prob method (Excel)
 
 Returns the probability that values in a range are between two limits. If upper_limit is not supplied, returns the probability that values in x_range are equal to lower_limit.
 
 
 ## Syntax
 
- _expression_. `Prob`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Prob`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

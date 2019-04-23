@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.MouseUp Event (Outlook)
+title: OlkDateControl.MouseUp event (Outlook)
 keywords: vbaol11.chm1000366
 f1_keywords:
 - vbaol11.chm1000366
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkDateControl.MouseUp
 ms.assetid: abe4afac-3afd-7f08-3128-650f847c692c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkDateControl.MouseUp Event (Outlook)
+# OlkDateControl.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

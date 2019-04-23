@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveUp Method (Word)
+title: Selection.MoveUp method (Word)
 keywords: vbawd10.chm158663158
 f1_keywords:
 - vbawd10.chm158663158
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveUp
 ms.assetid: 46993371-c916-06b5-a644-960f8a283536
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveUp Method (Word)
+# Selection.MoveUp method (Word)
 
 Moves the selection up and returns the number of units that it has been moved.
 
 
 ## Syntax
 
- _expression_. `MoveUp`( `_Unit_` , `_Count_` , `_Extend_` )
+_expression_. `MoveUp`( `_Unit_` , `_Count_` , `_Extend_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,9 +30,9 @@ Moves the selection up and returns the number of units that it has been moved.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which to move the selection. Can be one of the following  **WdUnits** constants: **wdLine** , **wdParagraph** , **wdWindow** or **wdScreen** . The default value is **wdLine** . You can use the **wdWindow** constant for the Unit argument to move to the top or bottom of the active window. Regardless of the value of Count (greater than 1 or less than ? 1), the **wdWindow** constant moves only one unit. Use the **wdScreen** constant to move more than one screen.|
+| _Unit_|Optional| **Variant**|The unit by which to move the selection. Can be one of the following  **WdUnits** constants: **wdLine**, **wdParagraph**, **wdWindow** or **wdScreen**. The default value is **wdLine**. You can use the **wdWindow** constant for the Unit argument to move to the top or bottom of the active window. Regardless of the value of Count (greater than 1 or less than ? 1), the **wdWindow** constant moves only one unit. Use the **wdScreen** constant to move more than one screen.|
 | _Count_|Optional| **Variant**|The number of units the selection is to be moved. The default value is 1.|
-| _Extend_|Optional| **Variant**|Specifies whether the selection is moved or extended. Can be either  **wdMove** or **wdExtend** . If **wdMove** is used, the selection is collapsed to the endpoint and moved up. If **wdExtend** is used, the selection is extended up. The default value is **wdMove** .|
+| _Extend_|Optional| **Variant**|Specifies whether the selection is moved or extended. Can be either  **wdMove** or **wdExtend**. If **wdMove** is used, the selection is collapsed to the endpoint and moved up. If **wdExtend** is used, the selection is extended up. The default value is **wdMove**.|
 
 ## Return value
 
@@ -65,3 +66,4 @@ MsgBox "Line " & Selection.Information(wdFirstCharacterLineNumber)
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldValueListAdd Method (Project)
+title: Application.CustomFieldValueListAdd method (Project)
 keywords: vbapj.chm41
 f1_keywords:
 - vbapj.chm41
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomFieldValueListAdd
 ms.assetid: 6ef6c528-dc7a-00e8-a770-70b3b9ab86ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomFieldValueListAdd Method (Project)
+# Application.CustomFieldValueListAdd method (Project)
 
 Adds an item to the value list for a custom field.
 
 
 ## Syntax
 
- _expression_. `CustomFieldValueListAdd`( ` _FieldID_`, ` _Value_`, ` _Description_`, ` _Phonetic_`, ` _Index_`, ` _FieldDefault_` )
+_expression_. `CustomFieldValueListAdd`( `_FieldID_`, `_Value_`, `_Description_`, `_Phonetic_`, `_Index_`, `_FieldDefault_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Adds an item to the value list for a custom field.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

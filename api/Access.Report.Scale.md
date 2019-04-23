@@ -7,31 +7,30 @@ ms.prod: access
 api_name:
 - Access.Report.Scale
 ms.assetid: 6a261d1d-9474-7374-f399-4d46e404058b
-ms.date: 06/08/2017
+ms.date: 03/09/2019
+localization_priority: Normal
 ---
 
 
 # Report.Scale method (Access)
 
-The  **Scale** method defines the coordinate system for a **[Report](Access.Report.md)** object.
+The **Scale** method defines the coordinate system for a **[Report](Access.Report.md)** object.
 
 
 ## Syntax
 
-_expression_. `Scale`( ` _flags_`, ` _x1_`, ` _y1_`, ` _x2_`, ` _y2_` )
+_expression_.**Scale** (_Flags_, _x1_, _y1_, _x2_, _y2_)
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _flags_|Required|**Integer**||
+| _Flags_|Required|**Integer**||
 | _x1_|Required|**Single**| A value for the horizontal coordinate that defines the position of the upper-left corner of the object.|
-| _y1_|Required|**Single**| A value for the horizontal coordinate that defines the position of the upper-left corner of the object.|
+| _y1_|Required|**Single**| A value for the vertical coordinate that defines the position of the upper-left corner of the object.|
 | _x2_|Required|**Single**|A value for the horizontal coordinate that defines the position of the lower-right corner of the object.|
 | _y2_|Required|**Single**|A value for the vertical coordinate that defines the position of the lower-right corner of the object.|
 
@@ -42,15 +41,14 @@ Nothing
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the  **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
+You can use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
 
-You can use the  **Scale** method to reset the coordinate system to any scale you choose. Using the **Scale** method with no arguments resets the coordinate system to twips. The **Scale** method affects the coordinate system for the **Print** method and the report graphics methods, which include the **Circle**, **Line**, and **PSet** methods.
+You can use the **Scale** method to reset the coordinate system to any scale that you choose. Using the **Scale** method with no arguments resets the coordinate system to [twips](../language/glossary/vbe-glossary.md#twip). The **Scale** method affects the coordinate system for the **Print** method and the report graphics methods, which include the **Circle**, **Line**, and **PSet** methods.
 
 
 ## Example
 
-The following example draws a circle with one scale, then uses the  **Scale** method to change the scale and draw another circle with the new scale.
-
+The following example draws a circle with one scale, and then uses the **Scale** method to change the scale and draw another circle with the new scale.
 
 ```vb
 Private Sub Detail_Print(Cancel As Integer, PrintCount As Integer) 
@@ -80,8 +78,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Report Object](Access.Report.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

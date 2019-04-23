@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowDeactivate Event (PowerPoint)
+title: Application.ProtectedViewWindowDeactivate event (PowerPoint)
 keywords: vbapp10.chm621030
 f1_keywords:
 - vbapp10.chm621030
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.ProtectedViewWindowDeactivate
 ms.assetid: c8d647f3-2f45-7811-9f99-d37c3c999c60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowDeactivate Event (PowerPoint)
+# Application.ProtectedViewWindowDeactivate event (PowerPoint)
 
 Occurs when a protected view window is deactivated.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowDeactivate`( `_ProtViewWindow_`, )
+_expression_. `ProtectedViewWindowDeactivate`( `_ProtViewWindow_`, )
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Nothing
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

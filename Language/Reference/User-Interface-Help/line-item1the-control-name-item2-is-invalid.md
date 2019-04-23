@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7a6cebe5-8091-0531-5259-9cb9b04fcc80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a control name that isn't a valid string in Visual Basic. The control isn't loaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

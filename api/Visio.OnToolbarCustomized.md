@@ -5,6 +5,7 @@ api_name:
 - Visio.OnToolbarCustomized
 ms.assetid: 02796238-7773-309b-a136-1ded2c09f93f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs when the user customizes the Microsoft Visio Viewer toolbar by adding or 
 
 ## Syntax
 
- _expression_. **OnToolbarCustomized**
+_expression_.**OnToolbarCustomized**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -45,4 +46,4 @@ Private Sub vsoViewer_OnToolbarCustomized()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

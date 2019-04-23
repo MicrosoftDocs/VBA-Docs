@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: aab25fbe-8ec3-5c45-dd70-a0e8c885406a
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -39,10 +40,10 @@ To work around this problem, convert the spreadsheets to a later version of Exce
 
 ### TransferText and TransferSpreadsheet actions
 
-In Access, you can't use a SQL statement to specify data to export when you're using the TransferText action or the TransferSpreadsheet action. Instead of using a SQL statement, you must first create a query and then specify the name of the query in the Table Name argument.
+In Access, you can't use a SQL statement to specify data to export when you are using the TransferText action or the TransferSpreadsheet action. Instead of using a SQL statement, you must first create a query and then specify the name of the query in the Table Name argument.
 
 ### Comparisons involving Null values
 
 In Access versions 1.x and 2.0, if you compare two expressions within a macro condition by using a comparison operator and one of the expressions is **Null**, Access Basic will return **True** or **False** for the comparison, depending on which comparison operator you use. In Access 2000 and later, Visual Basic returns **Null** for a comparison in which one expression is **Null**. To determine whether the comparison evaluates to **Null**, use the **IsNull** function to check the result of the comparison.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

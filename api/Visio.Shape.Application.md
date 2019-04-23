@@ -1,5 +1,5 @@
 ---
-title: Shape.Application Property (Visio)
+title: Shape.Application property (Visio)
 keywords: vis_sdr.chm11213090
 f1_keywords:
 - vis_sdr.chm11213090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Application
 ms.assetid: 01ad1b62-5a69-9c70-3735-f678a6fa537d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Application Property (Visio)
+# Shape.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -57,4 +58,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

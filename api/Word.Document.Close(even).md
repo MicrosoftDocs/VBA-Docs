@@ -1,5 +1,5 @@
 ---
-title: Document.Close Event (Word)
+title: Document.Close event (Word)
 keywords: vbawd10.chm4001006
 f1_keywords:
 - vbawd10.chm4001006
@@ -8,10 +8,11 @@ api_name:
 - Word.Document.Close
 ms.assetid: 7758dbae-b624-d3b0-f42c-1404d40ecc78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Close Event (Word)
+# Document.Close event (Word)
 
 Occurs when a document is closed.
 
@@ -20,7 +21,7 @@ Occurs when a document is closed.
 
 Private Sub  _expression_ _'Close'()
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TabStop.Creator Property (Word)
+title: TabStop.Creator property (Word)
 keywords: vbawd10.chm156500969
 f1_keywords:
 - vbawd10.chm156500969
@@ -8,19 +8,20 @@ api_name:
 - Word.TabStop.Creator
 ms.assetid: 5a8f0108-92d2-a6de-fb05-86da24bd157c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop.Creator Property (Word)
+# TabStop.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
+_expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TabStop Object](Word.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

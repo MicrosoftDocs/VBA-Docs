@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddEmptyPictureFrame Method (Publisher)
+title: Shapes.AddEmptyPictureFrame method (Publisher)
 keywords: vbapb10.chm2162757
 f1_keywords:
 - vbapb10.chm2162757
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddEmptyPictureFrame
 ms.assetid: e473dea8-6d94-e9e4-ddb6-27c1fc8930e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddEmptyPictureFrame Method (Publisher)
+# Shapes.AddEmptyPictureFrame method (Publisher)
 
 Returns a  **Shape** object that represents an empty picture frame inserted at the specified coordinates.
 
 
 ## Syntax
 
- _expression_. **AddEmptyPictureFrame**(**_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddEmptyPictureFrame**(**_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -66,4 +67,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

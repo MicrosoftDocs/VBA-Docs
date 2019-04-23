@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DGet Method (Excel)
+title: WorksheetFunction.DGet method (Excel)
 keywords: vbaxl10.chm137170
 f1_keywords:
 - vbaxl10.chm137170
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DGet
 ms.assetid: 71c12527-19a6-7fb7-b1c1-f2b5478c14b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DGet Method (Excel)
+# WorksheetFunction.DGet method (Excel)
 
 Extracts a single value from a column of a list or database that matches conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DGet`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DGet`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Variant
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

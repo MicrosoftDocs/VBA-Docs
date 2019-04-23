@@ -1,5 +1,5 @@
 ---
-title: Range.Scripts Property (Word)
+title: Range.Scripts property (Word)
 keywords: vbawd10.chm157155653
 f1_keywords:
 - vbawd10.chm157155653
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Scripts
 ms.assetid: 233acf3a-3151-f4f2-e5df-815edeca1dd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Scripts Property (Word)
+# Range.Scripts property (Word)
 
 Returns a  **Scripts** collection that represents the collection of HTML scripts in the specified object.
 
 
 ## Syntax
 
- _expression_. `Scripts`
+_expression_. `Scripts`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End Select
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

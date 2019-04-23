@@ -1,30 +1,24 @@
 ---
-title: Copy, GetFromClipboard, GetText Methods, DataObject Object Example
+title: Copy, GetFromClipboard, GetText methods, DataObject object example
 keywords: fm20.chm5225163
 f1_keywords:
 - fm20.chm5225163
 ms.prod: office
 ms.assetid: 6be27a7e-58f2-5cad-5ed0-570520fd61f1
-ms.date: 06/08/2017
+ms.date: 11/14/2018 
+localization_priority: Normal
 ---
 
 
-# Copy, GetFromClipboard, GetText Methods, DataObject Object Example
+# Copy, GetFromClipboard, GetText methods, DataObject object example
 
-The following example demonstrates data movement from a  **TextBox** to the Clipboard, from the Clipboard to a **DataObject**, and from a **DataObject** into another **TextBox**. The **GetFromClipboard** method transfers the data from the Clipboard to a **DataObject**. The **Copy** and **GetText** methods are also used.
+The following example demonstrates data movement from a **[TextBox](textbox-control.md)** to the Clipboard, from the Clipboard to a **[DataObject](dataobject-object.md)**, and from a **DataObject** into another **TextBox**. The **[GetFromClipboard](getfromclipboard-method.md)** method transfers the data from the Clipboard to a **DataObject**. The **[Copy](copy-method-microsoft-forms.md)** and **[GetText](gettext-method-microsoft-forms.md)** methods are also used.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.   
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
-- A  **CommandButton** named CommandButton1.
-    
-
-
-
 
 ```vb
 Dim MyData as DataObject 
@@ -47,4 +41,4 @@ Private Sub UserForm_Initialize()
 End Sub 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

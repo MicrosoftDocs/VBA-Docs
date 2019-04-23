@@ -3,6 +3,7 @@ title: Using source code control in your development environment
 ms.prod: access
 ms.assetid: 3d5d4d78-d569-28ce-6e6d-1c8dcdc8fbda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -51,3 +52,5 @@ When you have your development projects under Visual SourceSafe control, the con
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Ranges.Item
 ms.assetid: 808d7bd4-81b7-3290-bbe4-758844e7eb85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Range** object that represents a range of items in a workbook. Read
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Ranges](Excel.Ranges.md) object.
+_expression_ A variable that represents a [Ranges](Excel.Ranges.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a  **Range** object that represents a range of items in a workbook. Read
 
 [Ranges Object](Excel.Ranges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

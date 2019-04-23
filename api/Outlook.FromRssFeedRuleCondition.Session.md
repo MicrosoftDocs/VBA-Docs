@@ -1,5 +1,5 @@
 ---
-title: FromRssFeedRuleCondition.Session Property (Outlook)
+title: FromRssFeedRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm3255
 f1_keywords:
 - vbaol11.chm3255
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FromRssFeedRuleCondition.Session
 ms.assetid: 72939751-3012-fdc9-dfb7-60306bc522cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FromRssFeedRuleCondition.Session Property (Outlook)
+# FromRssFeedRuleCondition.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
+_expression_ A variable that represents a [FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

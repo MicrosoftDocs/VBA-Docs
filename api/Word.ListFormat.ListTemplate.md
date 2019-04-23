@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListTemplate Property (Word)
+title: ListFormat.ListTemplate property (Word)
 keywords: vbawd10.chm163577926
 f1_keywords:
 - vbawd10.chm163577926
@@ -8,26 +8,27 @@ api_name:
 - Word.ListFormat.ListTemplate
 ms.assetid: 778f4b21-575c-b6b1-768a-735c4730ae13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ListTemplate Property (Word)
+# ListFormat.ListTemplate property (Word)
 
 Returns a  **ListTemplate** object that represents the list formatting for the specified **ListFormat** object.
 
 
 ## Syntax
 
- _expression_. `ListTemplate`
+_expression_. `ListTemplate`
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Remarks
 
 A list template includes all the formatting that defines a particular list. Each of the seven formats (excluding  **None**) found on each of the tabs in the  **Bullets and Numbering** dialog box corresponds to a list template. Documents and templates can also contain collections of list templates.
 
-If the first paragraph in the range for the  **ListFormat** object is not formatted as a list, the **ListTemplate** property returns **Nothing** .
+If the first paragraph in the range for the  **ListFormat** object is not formatted as a list, the **ListTemplate** property returns **Nothing**.
 
 
 ## Example
@@ -47,3 +48,4 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=myltemp
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

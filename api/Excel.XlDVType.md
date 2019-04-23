@@ -1,14 +1,15 @@
 ---
-title: xlDVType enumeration (Excel)
+title: XlDVType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDVType
 ms.assetid: ef454aba-4c36-1431-fcb0-eb2ee679ac2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDVType enumeration (Excel)
+# XlDVType enumeration (Excel)
 
 Specifies the type of validation test to be performed in conjunction with values.
 
@@ -25,3 +26,4 @@ Specifies the type of validation test to be performed in conjunction with values
 | **xlValidateTime**|5|Time values.|
 | **xlValidateWholeNumber**|1|Whole numeric values.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

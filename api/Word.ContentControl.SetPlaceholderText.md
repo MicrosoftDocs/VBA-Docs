@@ -1,5 +1,5 @@
 ---
-title: ContentControl.SetPlaceholderText Method (Word)
+title: ContentControl.SetPlaceholderText method (Word)
 keywords: vbawd10.chm266534923
 f1_keywords:
 - vbawd10.chm266534923
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.SetPlaceholderText
 ms.assetid: d2684e44-61f0-e0bf-36bc-6a5eabed1b82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.SetPlaceholderText Method (Word)
+# ContentControl.SetPlaceholderText method (Word)
 
 Sets the placeholder text that displays in the content control until a user enters their own text.
 
 
 ## Syntax
 
- _expression_. `SetPlaceholderText`( `_BuildingBlock_` , `_Range_` , `_Text_` )
+_expression_. `SetPlaceholderText`( `_BuildingBlock_` , `_Range_` , `_Text_` )
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -66,3 +67,4 @@ objCC.DropdownListEntries.Add "Other"
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

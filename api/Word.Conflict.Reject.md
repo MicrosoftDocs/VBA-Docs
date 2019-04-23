@@ -1,5 +1,5 @@
 ---
-title: Conflict.Reject Method (Word)
+title: Conflict.Reject method (Word)
 keywords: vbawd10.chm78708838
 f1_keywords:
 - vbawd10.chm78708838
@@ -8,17 +8,18 @@ api_name:
 - Word.Conflict.Reject
 ms.assetid: 9bd4fa93-4bae-e2a8-ef6e-b3116542cad4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conflict.Reject Method (Word)
+# Conflict.Reject method (Word)
 
 Rejects the user change, removes the conflict, and accepts the server copy of the change for the conflict.
 
 
 ## Syntax
 
- _expression_. `Reject`
+_expression_. `Reject`
 
  _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 
@@ -61,3 +62,4 @@ ActiveDocument.CoAuthoring.Conflicts.RejectAll
 
 [Conflict Object](Word.Conflict.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

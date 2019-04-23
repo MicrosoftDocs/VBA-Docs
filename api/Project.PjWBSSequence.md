@@ -1,14 +1,15 @@
 ---
-title: PjWBSSequence Enumeration (Project)
+title: PjWBSSequence enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWBSSequence
 ms.assetid: 4110c7a4-e9d9-9f48-1340-20f0ddf86139
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjWBSSequence Enumeration (Project)
+# PjWBSSequence enumeration (Project)
 
 Contains constants that specify the work breakdown structure (WBS) sequence.
 
@@ -21,3 +22,4 @@ Contains constants that specify the work breakdown structure (WBS) sequence.
 |**pjWBSOrderedUppercaseLetters**|1|Uppercase letters.|
 |**pjWBSUnorderedCharacters**|3|Unordered characters.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

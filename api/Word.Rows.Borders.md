@@ -1,5 +1,5 @@
 ---
-title: Rows.Borders Property (Word)
+title: Rows.Borders property (Word)
 keywords: vbawd10.chm155976780
 f1_keywords:
 - vbawd10.chm155976780
@@ -8,19 +8,20 @@ api_name:
 - Word.Rows.Borders
 ms.assetid: 4c251987-5bbb-bfdb-d90f-861838f1b59d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.Borders Property (Word)
+# Rows.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 
 
 ## Syntax
 
- _expression_. `Borders`
+_expression_.**Borders**
 
- _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End With
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

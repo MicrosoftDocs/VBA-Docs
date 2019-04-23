@@ -3,6 +3,7 @@ title: Sharing
 ms.prod: outlook
 ms.assetid: 1b514d6f-7d94-4180-9c43-36e9b6258385
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,5 +23,5 @@ ms.date: 06/08/2017
 -  [Send a Sharing Invitation for a Calendar](../../How-to/Sharing/send-a-sharing-invitation-for-a-calendar.md)
     
 -  [Send a Sharing Invitation for an RSS Feed](../../How-to/Sharing/send-a-sharing-invitation-for-an-rss-feed.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

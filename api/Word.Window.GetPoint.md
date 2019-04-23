@@ -1,5 +1,5 @@
 ---
-title: Window.GetPoint Method (Word)
+title: Window.GetPoint method (Word)
 keywords: vbawd10.chm157417584
 f1_keywords:
 - vbawd10.chm157417584
@@ -8,19 +8,20 @@ api_name:
 - Word.Window.GetPoint
 ms.assetid: b0f2b558-0dfc-96f8-5177-3771f6fbb69b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.GetPoint Method (Word)
+# Window.GetPoint method (Word)
 
 Returns the screen coordinates of the specified range or shape.
 
 
 ## Syntax
 
- _expression_. `GetPoint`( `_ScreenPixelsLeft_` , `_ScreenPixelsTop_` , `_ScreenPixelsWidth_` , `_ScreenPixelsHeight_` , `_obj_` )
+_expression_. `GetPoint`( `_ScreenPixelsLeft_` , `_ScreenPixelsTop_` , `_ScreenPixelsWidth_` , `_ScreenPixelsHeight_` , `_obj_` )
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ MsgBox "Left = " & pLeft & vbLf _
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

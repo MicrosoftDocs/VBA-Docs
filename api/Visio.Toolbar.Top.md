@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Top Property (Visio)
+title: Toolbar.Top property (Visio)
 keywords: vis_sdr.chm13714570
 f1_keywords:
 - vis_sdr.chm13714570
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Top
 ms.assetid: 63adeae5-c962-4e83-67de-d89035ee9bce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Top Property (Visio)
+# Toolbar.Top property (Visio)
 
 Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a  **Toolbar** object and the top of the screen. Read/write.
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -92,4 +93,4 @@ Public Sub Top_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

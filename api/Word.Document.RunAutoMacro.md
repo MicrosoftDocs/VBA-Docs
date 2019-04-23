@@ -1,5 +1,5 @@
 ---
-title: Document.RunAutoMacro Method (Word)
+title: Document.RunAutoMacro method (Word)
 keywords: vbawd10.chm158007408
 f1_keywords:
 - vbawd10.chm158007408
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.RunAutoMacro
 ms.assetid: 8eee80a6-e347-2fbb-ec86-65d09e09c764
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RunAutoMacro Method (Word)
+# Document.RunAutoMacro method (Word)
 
 Runs an auto macro that's stored in the specified document. If the specified auto macro doesn't exist, nothing happens.
 
 
 ## Syntax
 
- _expression_. `RunAutoMacro`( `_Which_` )
+_expression_. `RunAutoMacro`( `_Which_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ ActiveDocument.RunAutoMacro Which:=wdAutoOpen
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

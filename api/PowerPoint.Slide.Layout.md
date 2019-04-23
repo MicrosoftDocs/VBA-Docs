@@ -1,5 +1,5 @@
 ---
-title: Slide.Layout Property (PowerPoint)
+title: Slide.Layout property (PowerPoint)
 keywords: vbapp10.chm531014
 f1_keywords:
 - vbapp10.chm531014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.Layout
 ms.assetid: 681819b8-327e-fb6f-e9d2-0f8feb48ec36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.Layout Property (PowerPoint)
+# Slide.Layout property (PowerPoint)
 
 Returns or sets a  **PpSlideLayout** constant that represents the slide layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_.**Layout**
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -83,3 +84,4 @@ End With
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

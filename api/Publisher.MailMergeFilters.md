@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters Object (Publisher)
+title: MailMergeFilters object (Publisher)
 keywords: vbapb10.chm6815743
 f1_keywords:
 - vbapb10.chm6815743
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MailMergeFilters
 ms.assetid: 3a91c67f-6cc2-1d67-3382-04ead84f6f09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilters Object (Publisher)
+# MailMergeFilters object (Publisher)
 
 Represents all the filters to apply to the data source attached to the mail merge or catalog merge publication. The  **MailMergeFilters** object is composed of **MailMergeFilterCriterion** objects.
  
@@ -64,7 +65,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.MailMergeFilters.Add.md)|
 |[Delete](Publisher.MailMergeFilters.Delete.md)|
@@ -74,10 +75,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeFilters.Application.md)|
 |[Count](Publisher.MailMergeFilters.Count.md)|
 |[Creator](Publisher.MailMergeFilters.Creator.md)|
 |[Parent](Publisher.MailMergeFilters.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

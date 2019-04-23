@@ -5,6 +5,7 @@ api_name:
 - Visio.CustomPropertyValue
 ms.assetid: 6e7b87bf-8c2f-3fb6-84a2-a56ee9e59fd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the value of the shape data item (custom property) at the specified index p
 
 ## Syntax
 
- _expression_. **CustomPropertyValue**(**_ShapeIndex_**,  **_PropertyIndex_**)
+_expression_.**CustomPropertyValue**(**_ShapeIndex_**,  **_PropertyIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -62,4 +63,4 @@ End If
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

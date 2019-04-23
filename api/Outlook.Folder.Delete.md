@@ -1,5 +1,5 @@
 ---
-title: Folder.Delete Method (Outlook)
+title: Folder.Delete method (Outlook)
 keywords: vbaol11.chm1995
 f1_keywords:
 - vbaol11.chm1995
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.Delete
 ms.assetid: 3df0f063-3f41-e3b7-d1e3-7ea08970c56d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.Delete Method (Outlook)
+# Folder.Delete method (Outlook)
 
 Deletes an object from the collection.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ In general, deleting a folder does not require first deleting the items in the f
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Item Method (Word)
+title: HeadersFooters.Item method (Word)
 keywords: vbawd10.chm159645696
 f1_keywords:
 - vbawd10.chm159645696
@@ -8,19 +8,20 @@ api_name:
 - Word.HeadersFooters.Item
 ms.assetid: b6449c22-d528-acce-4308-28fa81e596c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeadersFooters.Item Method (Word)
+# HeadersFooters.Item method (Word)
 
 Returns a  **HeaderFooter** object that represents a header or footer in a range or section.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[HeadersFooters](Word.headersfooters.md)' collection.
+_expression_ Required. A variable that represents a '[HeadersFooters](Word.headersfooters.md)' collection.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End Sub
 
 [HeadersFooters Collection Object](Word.headersfooters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

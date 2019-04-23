@@ -1,5 +1,5 @@
 ---
-title: Workbook.SetLinkOnData Method (Excel)
+title: Workbook.SetLinkOnData method (Excel)
 keywords: vbaxl10.chm199151
 f1_keywords:
 - vbaxl10.chm199151
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SetLinkOnData
 ms.assetid: b500a579-6e4c-5712-05cf-27c6393b3bcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SetLinkOnData Method (Excel)
+# Workbook.SetLinkOnData method (Excel)
 
 Sets the name of a procedure that runs whenever a DDE link is updated.
 
 
 ## Syntax
 
- _expression_. `SetLinkOnData`( `_Name_` , `_Procedure_` )
+_expression_. `SetLinkOnData`( `_Name_` , `_Procedure_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ ActiveWorkbook.SetLinkOnData _
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

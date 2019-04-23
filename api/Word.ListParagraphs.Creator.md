@@ -1,5 +1,5 @@
 ---
-title: ListParagraphs.Creator Property (Word)
+title: ListParagraphs.Creator property (Word)
 keywords: vbawd10.chm160498665
 f1_keywords:
 - vbawd10.chm160498665
@@ -8,19 +8,20 @@ api_name:
 - Word.ListParagraphs.Creator
 ms.assetid: 55780a9a-646f-6e8c-0535-7521f60882b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListParagraphs.Creator Property (Word)
+# ListParagraphs.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ListParagraphs](Word.listparagraphs.md)' collection.
+_expression_ Required. A variable that represents a '[ListParagraphs](Word.listparagraphs.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ListParagraphs Collection Object](Word.listparagraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

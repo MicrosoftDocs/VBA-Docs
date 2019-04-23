@@ -3,6 +3,7 @@ title: ViewCtl Members (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 32df30fd-d02c-30c4-7474-0dc359f99f46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,7 +39,7 @@ The Microsoft Outlook View Control displays information about a specific folder 
 | **[NewForm](../../../api/Outlook.viewctl.newfo.md)**|Displays the Microsoft Outlook  **Choose Form** dialog box.|
 | **[NewJournalEntry](../../../api/Outlook.viewctl.newjournalent.md)**|Creates and displays a new journal entry.|
 | **[NewMeetingRequest](../../../api/Outlook.viewctl.newmeetingreque.md)**|Creates and displays a new meeting request.|
-| **[NewMessage](../../../api/Outlook.viewctl.newmessa.md)**|Creates and displays a new e-mail message.|
+| **[NewMessage](../../../api/Outlook.viewctl.newmessa.md)**|Creates and displays a new email message.|
 | **[NewNote](../../../api/Outlook.viewctl.newno.md)**|Creates and displays a new note item.|
 | **[NewPost](../../../api/Outlook.viewctl.newpo.md)**|Creates and displays a new post item.|
 | **[NewTask](../../../api/Outlook.viewctl.newta.md)**|Creates and displays a new task.|
@@ -87,3 +88,4 @@ The Microsoft Outlook View Control displays information about a specific folder 
 | **[SelectionChange](../../../api/Outlook.viewctl.selectionchan.md)**|Occurs when the selection of the current view changes. |
 | **[ViewSwitch](../../../api/Outlook.viewctl.viewswit.md)**|Occurs when Microsoft Outlook changes the view that is applied to the folder displayed in the View Control element, either as a result of user action or through program code.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

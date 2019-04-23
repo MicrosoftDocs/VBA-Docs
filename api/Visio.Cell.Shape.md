@@ -1,5 +1,5 @@
 ---
-title: Cell.Shape Property (Visio)
+title: Cell.Shape property (Visio)
 keywords: vis_sdr.chm10114320
 f1_keywords:
 - vis_sdr.chm10114320
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.Shape
 ms.assetid: 4929ea4e-6498-8ddc-1c38-1276043aaa4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Shape Property (Visio)
+# Cell.Shape property (Visio)
 
-Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
+Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -68,4 +69,4 @@ Public Sub Shape_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.DeleteAllCommentsShown Method (Word)
+title: Document.DeleteAllCommentsShown method (Word)
 keywords: vbawd10.chm158007670
 f1_keywords:
 - vbawd10.chm158007670
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.DeleteAllCommentsShown
 ms.assetid: b0cdbc8e-973c-1921-a646-d2f5ef091ce9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DeleteAllCommentsShown Method (Word)
+# Document.DeleteAllCommentsShown method (Word)
 
 Deletes all revisions in a specified document that are displayed on the screen.
 
 
 ## Syntax
 
- _expression_. `DeleteAllCommentsShown`
+_expression_. `DeleteAllCommentsShown`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -57,3 +58,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

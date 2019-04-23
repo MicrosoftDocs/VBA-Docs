@@ -1,31 +1,24 @@
 ---
-title: BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect Properties Example
+title: BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect properties example
 keywords: fm20.chm5225183
 f1_keywords:
 - fm20.chm5225183
 ms.prod: office
 ms.assetid: c081b726-c942-b3d3-d863-808d96b11a34
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect Properties Example
+# BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect properties example
 
-The following example demonstrates the  **BorderStyle** and **SpecialEffect** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **BackColor**, **BackStyle**, **BorderColor**, and **ForeColor** properties.
+The following example demonstrates the **[BorderStyle](borderstyle-property.md)** and **[SpecialEffect](specialeffect-property.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](backcolor-property-microsoft-forms.md)**, **[BackStyle](backstyle-property-microsoft-forms.md)**, **[BorderColor](bordercolor-property.md)**, and **[ForeColor](forecolor-property-microsoft-forms.md)** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Six  **TextBox** controls named TextBox1 through TextBox6.
+- Six **[TextBox](textbox-control.md)** controls named TextBox1 through TextBox6.    
+- Two **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 and ToggleButton2.
     
-- Two  **ToggleButton** controls named ToggleButton1 and ToggleButton2.
-    
-
-
-
-
 ```vb
 Private Sub UserForm_Initialize() 
 'Initialize each TextBox with a border style or special effect, 
@@ -113,7 +106,7 @@ End If
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -129,4 +122,4 @@ End If
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

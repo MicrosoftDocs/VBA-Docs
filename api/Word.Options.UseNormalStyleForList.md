@@ -1,5 +1,5 @@
 ---
-title: Options.UseNormalStyleForList Property (Word)
+title: Options.UseNormalStyleForList property (Word)
 keywords: vbawd10.chm162988521
 f1_keywords:
 - vbawd10.chm162988521
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.UseNormalStyleForList
 ms.assetid: 715ed2b9-f5de-987d-c9f0-9172bdd5ea5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.UseNormalStyleForList Property (Word)
+# Options.UseNormalStyleForList property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.
 
 
 ## Syntax
 
- _expression_. `UseNormalStyleForList`
+_expression_. `UseNormalStyleForList`
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 
@@ -33,3 +34,4 @@ Corresponds to the  **Use Normal style for bulleted and numbered lists** check b
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

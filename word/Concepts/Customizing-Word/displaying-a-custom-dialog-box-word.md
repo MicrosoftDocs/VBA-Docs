@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: edda05bb-092c-1352-671a-1349b58d5ba4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ End Sub
 
  **Note**  Use the  **Unload** method in an event procedure, such as the Click event procedure for a command button, to close a dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

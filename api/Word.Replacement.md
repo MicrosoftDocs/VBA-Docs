@@ -1,5 +1,5 @@
 ---
-title: Replacement Object (Word)
+title: Replacement object (Word)
 keywords: vbawd10.chm2481
 f1_keywords:
 - vbawd10.chm2481
@@ -8,10 +8,11 @@ api_name:
 - Word.Replacement
 ms.assetid: 5d9615e4-f6ef-af5f-6e45-c382a88395c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Replacement Object (Word)
+# Replacement object (Word)
 
 Represents the replace criteria for a find-and-replace operation. The properties and methods of the  **Replacement** object correspond to the options in the **Find and Replace** dialog box.
 
@@ -55,7 +56,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearFormatting](Word.Replacement.ClearFormatting.md)|
 
@@ -63,7 +64,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Replacement.Application.md)|
 |[Creator](Word.Replacement.Creator.md)|
@@ -81,4 +82,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

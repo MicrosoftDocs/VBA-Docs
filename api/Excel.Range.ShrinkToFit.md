@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.ShrinkToFit
 ms.assetid: fc9aed64-1000-3419-ceb7-a95c15f8a2d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that indicates if text automatically shrink
 
 ## Syntax
 
- _expression_. `ShrinkToFit`
+_expression_.**ShrinkToFit**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Rows(1).ShrinkToFit = True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

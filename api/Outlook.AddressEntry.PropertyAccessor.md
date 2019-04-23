@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.PropertyAccessor Property (Outlook)
+title: AddressEntry.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2059
 f1_keywords:
 - vbaol11.chm2059
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AddressEntry.PropertyAccessor
 ms.assetid: 6fc091ac-ee82-a246-952c-6a7e75051e9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressEntry.PropertyAccessor Property (Outlook)
+# AddressEntry.PropertyAccessor property (Outlook)
 
 Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[AddressEntry](Outlook.AddressEntry.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `PropertyAccessor`
+_expression_. `PropertyAccessor`
 
- _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

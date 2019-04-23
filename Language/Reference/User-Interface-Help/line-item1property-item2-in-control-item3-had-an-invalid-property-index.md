@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: aa1fc07e-4dce-e50e-cf02-d77586359057
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a property name with a property index greater than 255.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

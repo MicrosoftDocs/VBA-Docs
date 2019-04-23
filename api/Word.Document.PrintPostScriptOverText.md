@@ -1,5 +1,5 @@
 ---
-title: Document.PrintPostScriptOverText Property (Word)
+title: Document.PrintPostScriptOverText property (Word)
 keywords: vbawd10.chm158007376
 f1_keywords:
 - vbawd10.chm158007376
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.PrintPostScriptOverText
 ms.assetid: 614e3776-c3e7-a4ca-3148-2f285229ecb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PrintPostScriptOverText Property (Word)
+# Document.PrintPostScriptOverText property (Word)
 
- **True** if PRINT field instructions (such as PostScript commands) in a document are to be printed on top of text and graphics when a PostScript printer is used. Read/write **Boolean** .
+ **True** if PRINT field instructions (such as PostScript commands) in a document are to be printed on top of text and graphics when a PostScript printer is used. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintPostScriptOverText`
+_expression_. `PrintPostScriptOverText`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ currSet = ActiveDocument.PrintPostScriptOverText
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

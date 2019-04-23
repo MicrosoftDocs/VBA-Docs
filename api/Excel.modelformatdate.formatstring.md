@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 2752f9be-4bb1-5bb6-7bee-eecaecafe0d9
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ Specifies the date format, for example, " _dd/mm/yy_ ". Read/write **String**.
 
 ## Syntax
 
- _expression_. `FormatString`
+_expression_. `FormatString`
 
- _expression_ A variable that represents a 'ModelFormatDate' object.
+_expression_ A variable that represents a 'ModelFormatDate' object.
 
 
 ## See also
@@ -27,4 +28,4 @@ Specifies the date format, for example, " _dd/mm/yy_ ". Read/write **String**.
 
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindows Object (PowerPoint)
+title: SlideShowWindows object (PowerPoint)
 keywords: vbapp10.chm510000
 f1_keywords:
 - vbapp10.chm510000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SlideShowWindows
 ms.assetid: aa4c7a38-32ea-c206-ce1f-d78094410f52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindows Object (PowerPoint)
+# SlideShowWindows object (PowerPoint)
 
 A collection of all the  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** objects that represent the open slide shows in Microsoft PowerPoint.
 
@@ -48,3 +49,4 @@ ActivePresentation.SlideShowSettings.Run
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

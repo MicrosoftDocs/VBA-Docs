@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.ShowOnlyInitialAddressList Property (Outlook)
+title: SelectNamesDialog.ShowOnlyInitialAddressList property (Outlook)
 keywords: vbaol11.chm833
 f1_keywords:
 - vbaol11.chm833
@@ -8,26 +8,27 @@ api_name:
 - Outlook.SelectNamesDialog.ShowOnlyInitialAddressList
 ms.assetid: 4159aa09-e790-523a-fd27-262d477599e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.ShowOnlyInitialAddressList Property (Outlook)
+# SelectNamesDialog.ShowOnlyInitialAddressList property (Outlook)
 
 Returns or sets a  **Boolean** that determines if the **[AddressList](Outlook.AddressList.md)** represented by **[SelectNamesDialog.InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** is the only **AddressList** available in the drop-down list for **Address Book** in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowOnlyInitialAddressList`
+_expression_. `ShowOnlyInitialAddressList`
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks
 
-The default value of this property is  **False** , meaning that all address lists are displayed. To restrict the drop-down list for **Address Book** to the one indicated by **InitialAddressList** , set **ShowOnlyInitialAddressList** to **True** .
+The default value of this property is  **False**, meaning that all address lists are displayed. To restrict the drop-down list for **Address Book** to the one indicated by **InitialAddressList**, set **ShowOnlyInitialAddressList** to **True**.
 
-If you do not set the  **InitialAddressList** property and then set **ShowOnlyInitialAddressList** to **True** , then the **AddressList** with **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** equal to **True** will be the only address list available in the drop-down list for **Address Book**.
+If you do not set the  **InitialAddressList** property and then set **ShowOnlyInitialAddressList** to **True**, then the **AddressList** with **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** equal to **True** will be the only address list available in the drop-down list for **Address Book**.
 
 
 ## Example
@@ -95,3 +96,4 @@ End Sub
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

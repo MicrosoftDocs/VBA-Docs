@@ -1,21 +1,22 @@
 ---
-title: Task.Name Property (Project)
+title: Task.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Name
 ms.assetid: 2df034b0-13bc-f912-abbc-6b97b8c8d5ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Name Property (Project)
+# Task.Name property (Project)
 
 Gets or sets the name of a  **Task** object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -49,4 +50,4 @@ Sub NameExample()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

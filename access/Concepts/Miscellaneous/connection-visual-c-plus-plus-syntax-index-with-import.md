@@ -3,6 +3,7 @@ title: Connection (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 3217a7d7-1c70-89f7-74a4-172371521358
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -100,3 +101,5 @@ __declspec(property(get=GetState)) long Invalid DDUE based on source, error:link
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

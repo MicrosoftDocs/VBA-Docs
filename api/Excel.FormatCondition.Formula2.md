@@ -8,19 +8,20 @@ api_name:
 - Excel.FormatCondition.Formula2
 ms.assetid: 2909d42d-7665-3406-8732-4a51034474c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FormatCondition.Formula2 property (Excel)
 
-Returns the value or expression associated with the second part of a conditional format or data validation. Used only when the data validation conditional format  **[Operator](Excel.FormatCondition.Operator.md)** property is **xlBetween** or **xlNotBetween** . Can be a constant value, a string value, a cell reference, or a formula. Read-only **String** .
+Returns the value or expression associated with the second part of a conditional format or data validation. Used only when the data validation conditional format  **[Operator](Excel.FormatCondition.Operator.md)** property is **xlBetween** or **xlNotBetween**. Can be a constant value, a string value, a cell reference, or a formula. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Formula2`
+_expression_. `Formula2`
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End With
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

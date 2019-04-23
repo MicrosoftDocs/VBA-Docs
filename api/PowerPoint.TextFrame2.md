@@ -1,5 +1,5 @@
 ---
-title: TextFrame2 Object (PowerPoint)
+title: TextFrame2 object (PowerPoint)
 keywords: vbapp10.chm678000
 f1_keywords:
 - vbapp10.chm678000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TextFrame2
 ms.assetid: ae017598-8330-4673-db1a-53b284acb709
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2 Object (PowerPoint)
+# TextFrame2 object (PowerPoint)
 
 Represents the text frame in a  **[Shape](PowerPoint.Shape.md)** or **[ShapeRange](PowerPoint.ShapeRange.md)** object. Contains the text in the text frame and exposes properties and methods that control the alignment and anchoring of the text frame.
 
@@ -91,3 +92,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

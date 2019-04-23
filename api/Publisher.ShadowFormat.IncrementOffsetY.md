@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetY Method (Publisher)
+title: ShadowFormat.IncrementOffsetY method (Publisher)
 keywords: vbapb10.chm3670033
 f1_keywords:
 - vbapb10.chm3670033
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShadowFormat.IncrementOffsetY
 ms.assetid: fca7a688-adf8-d8cd-8e14-9d1988c8d9f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.IncrementOffsetY Method (Publisher)
+# ShadowFormat.IncrementOffsetY method (Publisher)
 
 Incrementally changes the vertical offset of the shadow by the specified distance.
 
 
 ## Syntax
 
- _expression_. **IncrementOffsetY**(**_Increment_**)
+_expression_.**IncrementOffsetY**(**_Increment_**)
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 
@@ -49,4 +50,4 @@ ActiveDocument.Pages(1).Shapes(3).Shadow _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (PowerPoint)
+title: Shape.ScaleHeight method (PowerPoint)
 keywords: vbapp10.chm547010
 f1_keywords:
 - vbapp10.chm547010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.ScaleHeight
 ms.assetid: 0324449a-535c-e5ec-a9c3-0913f66057c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleHeight Method (PowerPoint)
+# Shape.ScaleHeight method (PowerPoint)
 
 Scales the height of the shape by a specified factor.
 
 
 ## Syntax
 
- _expression_. `ScaleHeight`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
+_expression_. `ScaleHeight`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -41,7 +42,7 @@ The  _RelativeToOriginalSize_ parameter value can be one of the following **MsoT
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Scales the shape relative to its current size. |
 |**msoTrue**|Scales the shape relative to its original size. |
@@ -57,7 +58,7 @@ The  _fScale_ parameter value can be one of the following **MsoTriState** consta
 
 ## Example
 
-This example scales all pictures and OLE objects on  `myDocument` to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
+This example scales all pictures and OLE objects on  _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
 ```vb
@@ -89,3 +90,4 @@ Next
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.AllocationWeightExpression
 ms.assetid: 4a40be04-c978-bb74-5453-e42fa6b210e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the MDX weight expression to use for this value when performing what-if 
 
 ## Syntax
 
- _expression_. `AllocationWeightExpression`
+_expression_. `AllocationWeightExpression`
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **AllocationWeightExpression** property corresponds to the **Weight Express
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

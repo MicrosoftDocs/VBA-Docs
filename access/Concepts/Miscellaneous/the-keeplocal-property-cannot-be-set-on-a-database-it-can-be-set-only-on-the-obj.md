@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5dfad53d-f80a-9b48-799c-dde65512e829
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ The  **KeepLocal** property is set to "T" for objects in a database that you do 
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

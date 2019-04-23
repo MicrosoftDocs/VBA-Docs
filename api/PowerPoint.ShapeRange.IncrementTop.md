@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementTop Method (PowerPoint)
+title: ShapeRange.IncrementTop method (PowerPoint)
 keywords: vbapp10.chm548007
 f1_keywords:
 - vbapp10.chm548007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.IncrementTop
 ms.assetid: 55c18051-97a8-beab-c354-48256daff762
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementTop Method (PowerPoint)
+# ShapeRange.IncrementTop method (PowerPoint)
 
 Moves the specified shape range vertically by the specified number of points.
 
 
 ## Syntax
 
- _expression_. `IncrementTop`( `_Increment_` )
+_expression_. `IncrementTop`( `_Increment_` )
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Moves the specified shape range vertically by the specified number of points.
 
 ## Example
 
-This example duplicates shape one on  `myDocument`, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
+This example duplicates shape one on  _myDocument_, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
 
 
 ```vb
@@ -58,3 +59,4 @@ End With
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

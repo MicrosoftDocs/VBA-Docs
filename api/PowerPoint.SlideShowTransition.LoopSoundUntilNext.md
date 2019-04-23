@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.LoopSoundUntilNext Property (PowerPoint)
+title: SlideShowTransition.LoopSoundUntilNext property (PowerPoint)
 keywords: vbapp10.chm539008
 f1_keywords:
 - vbapp10.chm539008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowTransition.LoopSoundUntilNext
 ms.assetid: 64555d1a-20d2-cb4f-6168-dc9e9594e059
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowTransition.LoopSoundUntilNext Property (PowerPoint)
+# SlideShowTransition.LoopSoundUntilNext property (PowerPoint)
 
 Specifies whether the sound that's been set for the specified slide transition loops until the next sound starts. Read/write.
 
 
 ## Syntax
 
- _expression_. `LoopSoundUntilNext`
+_expression_. `LoopSoundUntilNext`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **LoopSoundUntilNext** property can be one of these **MsoTriSt
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The sound that's been set for the specified slide transition does not loop.|
 |**msoTrue**| The sound that's been set for the specified slide transition loops until the next sound starts.|
@@ -60,3 +61,4 @@ End With
 
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

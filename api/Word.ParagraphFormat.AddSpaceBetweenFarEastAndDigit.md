@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.AddSpaceBetweenFarEastAndDigit Property (Word)
+title: ParagraphFormat.AddSpaceBetweenFarEastAndDigit property (Word)
 keywords: vbawd10.chm156434554
 f1_keywords:
 - vbawd10.chm156434554
@@ -8,17 +8,18 @@ api_name:
 - Word.ParagraphFormat.AddSpaceBetweenFarEastAndDigit
 ms.assetid: 9792aa0e-bb31-463b-ef7c-99847f587c19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.AddSpaceBetweenFarEastAndDigit Property (Word)
+# ParagraphFormat.AddSpaceBetweenFarEastAndDigit property (Word)
 
- **True** if Microsoft Word is set to automatically add spaces between Japanese text and numbers for the specified paragraphs. This property returns **wdUndefined** if it's set to **True** for only some of the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word is set to automatically add spaces between Japanese text and numbers for the specified paragraphs. This property returns **wdUndefined** if it's set to **True** for only some of the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `AddSpaceBetweenFarEastAndDigit`
+_expression_. `AddSpaceBetweenFarEastAndDigit`
 
  _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
@@ -38,3 +39,4 @@ ActiveDocument.Paragraphs(1).AddSpaceBetweenFarEastAndDigit = True
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

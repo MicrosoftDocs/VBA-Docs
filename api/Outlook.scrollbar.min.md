@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ddff3579-3af5-f246-b6b6-679d96908e0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that specifies the maximum and minimum acceptable va
 
 ## Syntax
 
- _expression_. **Min**
+_expression_.**Min**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ Any integer is an acceptable setting for this property. The recommended range of
 
 Min and  **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of  **Max** could be less than the value of **[Min](Outlook.scrollbar.min.md)**. If this is the case, moving toward the  **Max** (bottom) position means decreasing **Value**; moving toward the  **Min** (top) position means increasing **Value**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

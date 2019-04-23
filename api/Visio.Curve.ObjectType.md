@@ -1,5 +1,5 @@
 ---
-title: Curve.ObjectType Property (Visio)
+title: Curve.ObjectType property (Visio)
 keywords: vis_sdr.chm15513960
 f1_keywords:
 - vis_sdr.chm15513960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Curve.ObjectType
 ms.assetid: df2c3f5d-255b-10b5-4c29-49b9f45d18d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Curve.ObjectType Property (Visio)
+# Curve.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

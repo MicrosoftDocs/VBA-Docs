@@ -1,5 +1,5 @@
 ---
-title: Window.NewWindow Method (Word)
+title: Window.NewWindow method (Word)
 keywords: vbawd10.chm157417577
 f1_keywords:
 - vbawd10.chm157417577
@@ -8,19 +8,20 @@ api_name:
 - Word.Window.NewWindow
 ms.assetid: f0a1b56a-2e6e-9849-24a2-2078424aa30a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.NewWindow Method (Word)
+# Window.NewWindow method (Word)
 
 Opens a new window with the same document as the specified window. Returns a  **Window** object.
 
 
 ## Syntax
 
- _expression_. `NewWindow`
+_expression_. `NewWindow`
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Return value
@@ -56,3 +57,4 @@ MsgBox Windows.Count & " windows open"
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

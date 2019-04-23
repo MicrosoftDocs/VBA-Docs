@@ -1,5 +1,5 @@
 ---
-title: Scenario.ChangeScenario Method (Excel)
+title: Scenario.ChangeScenario method (Excel)
 keywords: vbaxl10.chm364073
 f1_keywords:
 - vbaxl10.chm364073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Scenario.ChangeScenario
 ms.assetid: a982a903-d62c-5289-8192-67f5069a1d11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Scenario.ChangeScenario Method (Excel)
+# Scenario.ChangeScenario method (Excel)
 
 Changes the scenario to have a new set of changing cells and (optionally) scenario values.
 
 
 ## Syntax
 
- _expression_. `ChangeScenario`( `_ChangingCells_` , `_Values_` )
+_expression_. `ChangeScenario`( `_ChangingCells_` , `_Values_` )
 
- _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
+_expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Worksheets("Sheet1").Scenarios(1).ChangeScenario _
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

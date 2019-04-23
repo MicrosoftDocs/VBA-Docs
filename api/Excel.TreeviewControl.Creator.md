@@ -8,19 +8,20 @@ api_name:
 - Excel.TreeviewControl.Creator
 ms.assetid: b8956992-0bc3-f98a-1155-5c1f3a0f3ec6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TreeviewControl.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [TreeviewControl](./Excel.TreeviewControl.md) object.
+_expression_ A variable that represents a [TreeviewControl](Excel.TreeviewControl.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [TreeviewControl Object](Excel.TreeviewControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

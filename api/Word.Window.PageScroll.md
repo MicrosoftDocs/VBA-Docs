@@ -1,5 +1,5 @@
 ---
-title: Window.PageScroll Method (Word)
+title: Window.PageScroll method (Word)
 keywords: vbawd10.chm157417580
 f1_keywords:
 - vbawd10.chm157417580
@@ -8,19 +8,20 @@ api_name:
 - Word.Window.PageScroll
 ms.assetid: e3287c43-b759-e72f-5dd5-ec7f1af2bebc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.PageScroll Method (Word)
+# Window.PageScroll method (Word)
 
 Scrolls through the specified pane or window page by page.
 
 
 ## Syntax
 
- _expression_. `PageScroll`( `_Down_` , `_Up_` )
+_expression_. `PageScroll`( `_Down_` , `_Up_` )
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ ActiveDocument.ActiveWindow.PageScroll
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

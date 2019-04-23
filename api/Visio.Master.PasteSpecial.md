@@ -1,5 +1,5 @@
 ---
-title: Master.PasteSpecial Method (Visio)
+title: Master.PasteSpecial method (Visio)
 keywords: vis_sdr.chm10751020
 f1_keywords:
 - vis_sdr.chm10751020
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.PasteSpecial
 ms.assetid: 6ca1994b-feb4-6b0d-c2c4-8a134eb284f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.PasteSpecial Method (Visio)
+# Master.PasteSpecial method (Visio)
 
 Inserts the contents of the Clipboard, allowing you to control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Word document).
 
 
 ## Syntax
 
- _expression_. `PasteSpecial`( `_Format_` , `_Link_` , `_DisplayAsIcon_` )
+_expression_. `PasteSpecial`( `_Format_` , `_Link_` , `_DisplayAsIcon_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -64,7 +65,7 @@ Possible values for  _Format_ declared by the Visio type library in **VisPasteSp
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPasteBitmap**|2|Paste bitmap.|
 | **visPasteDIB**|8|Paste device-independent bitmap.|
@@ -85,3 +86,4 @@ Possible values for  _Format_ declared by the Visio type library in **VisPasteSp
 | **visPasteVisioShapes**|65540|Paste Visio shapes.|
 | **visPasteVisioText**|65542|Paste Visio text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

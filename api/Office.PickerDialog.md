@@ -7,7 +7,8 @@ ms.prod: office
 api_name:
 - Office.PickerDialog
 ms.assetid: 279b1a6a-f09d-a0e7-89c9-aac6c581439f
-ms.date: 11/12/2018
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
@@ -17,12 +18,12 @@ Provides dialog user interface functionality for picking people or picking data.
 
 ## Remarks
 
-Get the **PickerDialog** object through the **PickerDialog** property in **Application** object.
+Get the **PickerDialog** object through the **PickerDialog** property in the **Application** object.
 
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker Dialog.
+The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -47,26 +48,13 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ```
 
 
-## Methods
-
-|Name|Description|
-|:---|:----------|
-|[CreatePickerResults](Office.PickerDialog.CreatePickerResults.md)|Creates an empty **PickerResults** object.|
-|[Resolve](Office.PickerDialog.Resolve.md)|Resolves the token using the Picker Dialog and retrieves the results. |
-|[Show](Office.PickerDialog.Show.md)|Displays the Picker Dialog with already specified data handler and given options. |
-
-## Properties
-
-|Name|Description|
-|:---|:----------|
-|[Application](Office.PickerDialog.Application.md)|Gets an **Application** object that represents the container application for the **PickerDialog** object. Read-only. |
-|[Creator](Office.PickerDialog.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerDialog** object was created. Read-only. |
-|[DataHandlerId](Office.PickerDialog.DataHandlerId.md)|Sets or gets the GUID of the Picker Dialog data handler component. Read/write. |
-|[Properties](Office.PickerDialog.Properties.md)|Returns the **PickerProperties** object to specify custom properties for data handler component. Read-only. |
-|[Title](Office.PickerDialog.Title.md)|Sets or returns the title of a picker dialog displayed in the Picker Dialog. Read/write. |
 
 ## See also
 
-- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [PickerDialog object members](overview/Library-Reference/pickerdialog-members-office.md)
 - [PickerDialog interface](https://docs.microsoft.com/dotnet/api/microsoft.office.core.pickerdialog?view=office-pia)
 - [Object Picker dialog box interfaces](https://docs.microsoft.com/windows/desktop/ad/object-picker-dialog-box-interfaces)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

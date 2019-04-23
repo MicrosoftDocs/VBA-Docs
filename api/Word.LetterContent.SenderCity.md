@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderCity Property (Word)
+title: LetterContent.SenderCity property (Word)
 keywords: vbawd10.chm161546369
 f1_keywords:
 - vbawd10.chm161546369
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.SenderCity
 ms.assetid: 13a101c2-c149-2e70-a8ec-0b6eaecb57ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.SenderCity Property (Word)
+# LetterContent.SenderCity property (Word)
 
-Returns or sets the sender's city. Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
+Returns or sets the sender's city. Not used in the U.S. English version of Microsoft Word. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `SenderCity`
+_expression_. `SenderCity`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -33,3 +34,4 @@ This property may not be available to you, depending on the language support (U.
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

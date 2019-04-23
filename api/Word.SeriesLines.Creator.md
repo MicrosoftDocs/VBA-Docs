@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Creator Property (Word)
+title: SeriesLines.Creator property (Word)
 keywords: vbawd10.chm202702997
 f1_keywords:
 - vbawd10.chm202702997
@@ -8,17 +8,18 @@ api_name:
 - Word.SeriesLines.Creator
 ms.assetid: d4c590c8-8c3e-e0d7-49d6-593fb2d60383
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesLines.Creator Property (Word)
+# SeriesLines.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[SeriesLines](Word.SeriesLines.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [SeriesLines Object](Word.SeriesLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

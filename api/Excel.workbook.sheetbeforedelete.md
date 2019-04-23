@@ -1,24 +1,25 @@
 ---
-title: Workbook.SheetBeforeDelete Event (Excel)
+title: Workbook.SheetBeforeDelete event (Excel)
 keywords: vbaxl10.chm503112
 f1_keywords:
 - vbaxl10.chm503112
 ms.assetid: 42406738-0fcd-4ef7-9bd6-abcc05f5e922
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetBeforeDelete Event (Excel)
+# Workbook.SheetBeforeDelete event (Excel)
 
 Occurs when any sheet is deleted.
 
 
 ## Syntax
 
- _expression_. `SheetBeforeDelete`( `_Sh_` , )
+_expression_. `SheetBeforeDelete`( `_Sh_` , )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

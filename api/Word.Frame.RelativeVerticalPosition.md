@@ -1,5 +1,5 @@
 ---
-title: Frame.RelativeVerticalPosition Property (Word)
+title: Frame.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm153747464
 f1_keywords:
 - vbawd10.chm153747464
@@ -8,17 +8,18 @@ api_name:
 - Word.Frame.RelativeVerticalPosition
 ms.assetid: 70da43d6-602b-3afc-3353-a4ac53a48534
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.RelativeVerticalPosition Property (Word)
+# Frame.RelativeVerticalPosition property (Word)
 
-Specifies the relative vertical position of a frame. Read/write  **[WdRelativeVerticalPosition](Word.WdRelativeVerticalPosition.md)** .
+Specifies the relative vertical position of a frame. Read/write  **[WdRelativeVerticalPosition](Word.WdRelativeVerticalPosition.md)**.
 
 
 ## Syntax
 
- _expression_. `RelativeVerticalPosition`
+_expression_. `RelativeVerticalPosition`
 
  _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

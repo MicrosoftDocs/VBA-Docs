@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.ModifySourceData Method (Excel)
+title: SparklineGroup.ModifySourceData method (Excel)
 keywords: vbaxl10.chm871080
 f1_keywords:
 - vbaxl10.chm871080
@@ -8,19 +8,20 @@ api_name:
 - Excel.SparklineGroup.ModifySourceData
 ms.assetid: 35c1c1ed-b61d-2412-961f-8eb74b5563a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SparklineGroup.ModifySourceData Method (Excel)
+# SparklineGroup.ModifySourceData method (Excel)
 
 Sets the range that represents the source data for the sparkline group.
 
 
 ## Syntax
 
- _expression_. `ModifySourceData`( `_SourceData_` )
+_expression_. `ModifySourceData`( `_SourceData_` )
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveCell.SparklineGroups.Item(1).ModifySourceData "B1:D4"
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

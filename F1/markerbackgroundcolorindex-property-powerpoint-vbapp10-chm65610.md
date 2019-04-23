@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 69721426-9b7c-42c4-b443-47adcb0266ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.MarkerBackgroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/18640945-ac4a-c661-46fa-804a66f57502%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f9f80fb8-3c93-86fa-c717-e3bf4bde29fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Returns or sets a  **String** that specifies a placeholder character to be displ
 
 ## Syntax
 
- _expression_. **PasswordChar**
+_expression_.**PasswordChar**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
 
 You can use the  **PasswordChar** property to protect sensitive information, such as passwords or security codes. The value of **PasswordChar** is the character (usually an asterisk) that appears in a control instead of the actual characters that the user types. If you don't specify a character, the control displays the characters that the user types.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRows.Application
 ms.assetid: 556e3016-4cfb-9e15-a2b4-7fc651e10859
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
+_expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [ListRows Object](Excel.ListRows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

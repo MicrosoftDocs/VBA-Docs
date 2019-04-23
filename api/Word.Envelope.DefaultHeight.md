@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultHeight Property (Word)
+title: Envelope.DefaultHeight property (Word)
 keywords: vbawd10.chm152567814
 f1_keywords:
 - vbawd10.chm152567814
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.DefaultHeight
 ms.assetid: 4c13a3b2-4236-defa-3682-ccef1700901f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.DefaultHeight Property (Word)
+# Envelope.DefaultHeight property (Word)
 
-Returns or sets the default envelope height, in points. Read/write  **Single** .
+Returns or sets the default envelope height, in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `DefaultHeight`
+_expression_. `DefaultHeight`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

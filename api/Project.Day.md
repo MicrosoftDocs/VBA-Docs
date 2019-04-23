@@ -1,14 +1,15 @@
 ---
-title: Day Object (Project)
+title: Day object (Project)
 ms.prod: project-server
 api_name:
 - Project.Day
 ms.assetid: 411fe04f-b68d-08c2-8b6c-f2c1e9927a34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Day Object (Project)
+# Day object (Project)
 
 Represents a day in a month. The  **Day** object is a member of the **[Days](Project.days.md)** collection.
  
@@ -64,7 +65,7 @@ ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Day.Default.md)|
 
@@ -72,7 +73,7 @@ ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Day.Application.md)|
 |[Calendar](Project.Day.Calendar.md)|
@@ -87,3 +88,4 @@ ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 |[Shift5](Project.Day.Shift5.md)|
 |[Working](Project.Day.Working.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

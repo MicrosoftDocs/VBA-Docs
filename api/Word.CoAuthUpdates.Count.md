@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdates.Count Property (Word)
+title: CoAuthUpdates.Count property (Word)
 keywords: vbawd10.chm217841665
 f1_keywords:
 - vbawd10.chm217841665
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthUpdates.Count
 ms.assetid: a0918742-9fbf-2a57-8efd-1487dd56d451
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthUpdates.Count Property (Word)
+# CoAuthUpdates.Count property (Word)
 
-Returns the number of items in the [CoAuthUpdates](./overview/Word.md) collection. Read-only.
+Returns the number of items in the [CoAuthUpdates](overview/Word.md) collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ An expression that returns a 'CoAuthUpdates' object.
 
@@ -37,6 +38,6 @@ MsgBox "The active document contains " & _
 ## See also
 
 
-[CoAuthUpdates Object](./overview/Word.md)
+[CoAuthUpdates Object](overview/Word.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

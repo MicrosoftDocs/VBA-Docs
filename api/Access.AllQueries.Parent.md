@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.AllQueries.Parent
 ms.assetid: 6ecf7fa6-f150-fa1d-94b5-2c2c48480367
-ms.date: 06/08/2017
+ms.date: 02/01/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents an [AllQueries](Access.AllQueries.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[AllQueries](Access.AllQueries.md)** object.
 
 
-[AllQueries Collection](Access.AllQueries.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

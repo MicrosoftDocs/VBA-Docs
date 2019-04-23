@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Attributes Property (Word)
+title: XMLNode.Attributes property (Word)
 keywords: vbawd10.chm37748751
 f1_keywords:
 - vbawd10.chm37748751
@@ -8,24 +8,25 @@ api_name:
 - Word.XMLNode.Attributes
 ms.assetid: 64731b03-12cb-1f48-30f5-0a1c5329ac47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.Attributes Property (Word)
+# XMLNode.Attributes property (Word)
 
 Returns an  **XMLNodes** collection that represents the attributes for the specified element.
 
 
 ## Syntax
 
- _expression_. `Attributes`
+_expression_. `Attributes`
 
- _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Remarks
 
-All  **XMLNode** objects in the **XMLNodes** collection returned by using the **Attributes** property have a **NodeType** property value of **wdXMLNodeAttribute** .
+All  **XMLNode** objects in the **XMLNodes** collection returned by using the **Attributes** property have a **NodeType** property value of **wdXMLNodeAttribute**.
 
 
 ## Example
@@ -60,3 +61,4 @@ End Sub
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

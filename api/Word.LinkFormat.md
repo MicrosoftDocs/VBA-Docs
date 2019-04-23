@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (Word)
+title: LinkFormat object (Word)
 keywords: vbawd10.chm2353
 f1_keywords:
 - vbawd10.chm2353
@@ -8,10 +8,11 @@ api_name:
 - Word.LinkFormat
 ms.assetid: ca37d4e2-e978-8e6a-1e7a-7e43cf41e6c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat Object (Word)
+# LinkFormat object (Word)
 
 Represents the linking characteristics for an OLE object or picture.
 
@@ -34,5 +35,6 @@ You can use both the  **Update** method and the **AutoUpdate** property to updat
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

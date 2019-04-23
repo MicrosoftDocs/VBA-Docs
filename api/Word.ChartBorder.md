@@ -1,5 +1,5 @@
 ---
-title: ChartBorder Object (Word)
+title: ChartBorder object (Word)
 keywords: vbawd10.chm931
 f1_keywords:
 - vbawd10.chm931
@@ -8,10 +8,11 @@ api_name:
 - Word.ChartBorder
 ms.assetid: eea90670-c599-2ec8-5b7b-c946a4bcd638
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartBorder Object (Word)
+# ChartBorder object (Word)
 
 Represents the border of an object.
 
@@ -37,6 +38,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

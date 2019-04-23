@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.Index Property (Publisher)
+title: MailMergeDataField.Index property (Publisher)
 keywords: vbapb10.chm6422529
 f1_keywords:
 - vbapb10.chm6422529
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataField.Index
 ms.assetid: f70d0266-0527-6871-632d-b45b617d75d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataField.Index Property (Publisher)
+# MailMergeDataField.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular item in a specified collection. .
 
 
 ## Syntax
 
- _expression_. **Index**
+_expression_.**Index**
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 
@@ -61,4 +62,4 @@ Else
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

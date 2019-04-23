@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeNode.Points
 ms.assetid: fe09c78f-44c9-4e66-df7b-c23720216ec5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeNode.Points property (Excel)
 
-Returns the position of the specified node as a coordinate pair. Each coordinate is expressed in points. Read-only  **Variant** .
+Returns the position of the specified node as a coordinate pair. Each coordinate is expressed in points. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Points`
+_expression_. `Points`
 
- _expression_ An expression that returns a [ShapeNode](./Excel.ShapeNode.md) object.
+ _expression_ An expression that returns a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Return value
@@ -35,7 +36,7 @@ This property is read-only. Use the  **[SetPosition](Excel.ShapeNodes.SetPositio
 
 ## Example
 
-This example moves node two in shape three on  `myDocument` to the right 200 points and down 300 points. Shape three must be a freeform drawing.
+This example moves node two in shape three on  _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
 
 
 ```vb
@@ -55,3 +56,4 @@ End With
 [SparklineGroup Object](Excel.SparklineGroup.md)
 [ShapeNode Object](Excel.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

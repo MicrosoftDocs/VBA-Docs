@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.SplitHorizontal
 ms.assetid: 71f5aaaf-c519-dd51-410a-8f9039b11e65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.SplitHorizontal property (Excel)
 
-Returns or sets the location of the horizontal window split, in points. Read/write  **Double** .
+Returns or sets the location of the horizontal window split, in points. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `SplitHorizontal`
+_expression_. `SplitHorizontal`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveWindow.SplitHorizontal = 216
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

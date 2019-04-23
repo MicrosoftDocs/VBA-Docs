@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Add Method (Excel)
+title: Phonetics.Add method (Excel)
 keywords: vbaxl10.chm658082
 f1_keywords:
 - vbaxl10.chm658082
@@ -8,19 +8,20 @@ api_name:
 - Excel.Phonetics.Add
 ms.assetid: 2a60a1cd-e15e-1341-2de8-953aa999ac07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Phonetics.Add Method (Excel)
+# Phonetics.Add method (Excel)
 
 Adds phonetic text to the specified cell.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Start_` , `_Length_` , `_Text_` )
+_expression_.**Add**( `_Start_` , `_Length_` , `_Text_` )
 
- _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
+_expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ ActiveCell.Phonetics.Visible = True
 
 [Phonetics Object](Excel.Phonetics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

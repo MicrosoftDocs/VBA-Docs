@@ -1,5 +1,5 @@
 ---
-title: Range.Sections Property (Word)
+title: Range.Sections property (Word)
 keywords: vbawd10.chm157155386
 f1_keywords:
 - vbawd10.chm157155386
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Sections
 ms.assetid: 98340968-d810-1e9c-0989-c1d03e614c14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Sections Property (Word)
+# Range.Sections property (Word)
 
 Returns a  **Sections** collection that represents the sections in the specified range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Sections`
+_expression_. `Sections`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -33,3 +34,4 @@ For information about returning a single member of a collection, see [Returning 
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

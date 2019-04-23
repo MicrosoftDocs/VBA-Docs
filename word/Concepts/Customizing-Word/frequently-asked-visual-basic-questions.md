@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: c098ea88-676f-5532-75f9-a40f2bd78562
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -59,4 +60,4 @@ ms.date: 06/08/2017
 
  [How do I find the Visual Basic equivalent for a WordBasic command or function?](https://msdn.microsoft.com/library/office/aa158432%28v=office.10%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

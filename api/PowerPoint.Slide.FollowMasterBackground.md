@@ -1,5 +1,5 @@
 ---
-title: Slide.FollowMasterBackground Property (PowerPoint)
+title: Slide.FollowMasterBackground property (PowerPoint)
 keywords: vbapp10.chm531021
 f1_keywords:
 - vbapp10.chm531021
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.FollowMasterBackground
 ms.assetid: 252c1893-f877-082a-8778-4ee9cc1d9c72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.FollowMasterBackground Property (PowerPoint)
+# Slide.FollowMasterBackground property (PowerPoint)
 
 Determines whether the slide follows the slide master background. Read/write.
 
 
 ## Syntax
 
- _expression_. `FollowMasterBackground`
+_expression_. `FollowMasterBackground`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **FollowMasterBackground** property can be one of these **MsoT
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide or range of slides has a custom background.|
 |**msoTrue**| The specified slide or range of slides follows the slide master background.|
@@ -69,3 +70,4 @@ End With
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

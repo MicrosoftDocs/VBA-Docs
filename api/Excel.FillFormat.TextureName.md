@@ -8,19 +8,20 @@ api_name:
 - Excel.FillFormat.TextureName
 ms.assetid: 9ef98f75-6407-010c-5c8f-44f3d236c04f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FillFormat.TextureName property (Excel)
 
-Returns the name of the custom texture file for the specified fill. Read-only  **String** .
+Returns the name of the custom texture file for the specified fill. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `TextureName`
+_expression_. `TextureName`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ShowWizardCatalog Method (Publisher)
+title: Application.ShowWizardCatalog method (Publisher)
 keywords: vbapb10.chm131189
 f1_keywords:
 - vbapb10.chm131189
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.ShowWizardCatalog
 ms.assetid: a8307ff9-a6c1-7655-8127-284f3781dae9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ShowWizardCatalog Method (Publisher)
+# Application.ShowWizardCatalog method (Publisher)
 
 Displays the  **Publication Types** catalog for the wizard of the specified type.
 
 
 ## Syntax
 
- _expression_. **ShowWizardCatalog**(**_Wizard_**)
+_expression_.**ShowWizardCatalog**(**_Wizard_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -48,3 +49,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

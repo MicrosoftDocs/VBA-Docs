@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.AddIndent
 ms.assetid: 65574daf-b102-341b-9bac-43cf72c3b94c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that indicates if Microsoft Excel automatically indents text of 
 
 ## Syntax
 
- _expression_. `AddIndent`
+_expression_.**AddIndent**
 
- _expression_ A variable that represents a [DisplayFormat](Excel.DisplayFormat.md) object.
+_expression_ A variable that represents a [DisplayFormat](Excel.DisplayFormat.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Returns  **True** if text is automatically indented when the text alignment in t
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

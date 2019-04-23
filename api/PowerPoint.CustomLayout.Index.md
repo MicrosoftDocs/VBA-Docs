@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Index Property (PowerPoint)
+title: CustomLayout.Index property (PowerPoint)
 keywords: vbapp10.chm672016
 f1_keywords:
 - vbapp10.chm672016
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CustomLayout.Index
 ms.assetid: bdbb922f-db6d-034e-b08b-08c9dd500a3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLayout.Index Property (PowerPoint)
+# CustomLayout.Index property (PowerPoint)
 
 Returns the index position of the specified custom layout in the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Long
 
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

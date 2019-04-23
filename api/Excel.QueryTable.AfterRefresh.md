@@ -1,5 +1,5 @@
 ---
-title: QueryTable.AfterRefresh Event (Excel)
+title: QueryTable.AfterRefresh event (Excel)
 keywords: vbaxl10.chm519074
 f1_keywords:
 - vbaxl10.chm519074
@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTable.AfterRefresh
 ms.assetid: 91d930e3-4360-4ec2-8772-dcd67c9e8c41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# QueryTable.AfterRefresh Event (Excel)
+# QueryTable.AfterRefresh event (Excel)
 
 Occurs after a query is completed or canceled.
 
 
 ## Syntax
 
- _expression_. `AfterRefresh`( `_Success_` )
+_expression_. `AfterRefresh`( `_Success_` )
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ End Sub
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBErrors.Count
 ms.assetid: 79c3afe1-bb75-b58b-c3c6-3e9faa561a98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
+_expression_ A variable that represents an [OLEDBErrors](Excel.OLEDBErrors.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [OLEDBErrors Object](Excel.OLEDBErrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

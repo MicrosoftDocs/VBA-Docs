@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.TextBox.RightPadding
 ms.assetid: 7f9e2e21-1e36-01c1-f4e7-b3373644f9e5
-ms.date: 06/08/2017
+ms.date: 02/23/2019
+localization_priority: Normal
 ---
 
 
 # TextBox.RightPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `RightPadding`
+_expression_.**RightPadding**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
-[TextBox Object](Access.TextBox.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

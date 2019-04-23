@@ -1,5 +1,5 @@
 ---
-title: Master.Export Method (Visio)
+title: Master.Export method (Visio)
 keywords: vis_sdr.chm10716265
 f1_keywords:
 - vis_sdr.chm10716265
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Export
 ms.assetid: 212bcc8e-646c-37df-9387-4605b72b6edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Export Method (Visio)
+# Master.Export method (Visio)
 
 Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg, .dxf, .emf, .emz, .gif, .htm, .jpg, .png, .svg, .svgz, .tif, or .wmf.
 
 
 ## Syntax
 
- _expression_. `Export`( `_FileName_` )
+_expression_.**Export** (_FileName_)
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -60,4 +61,4 @@ Public Sub Export_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

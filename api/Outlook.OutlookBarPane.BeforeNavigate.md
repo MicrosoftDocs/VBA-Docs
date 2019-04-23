@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.BeforeNavigate Event (Outlook)
+title: OutlookBarPane.BeforeNavigate event (Outlook)
 keywords: vbaol11.chm374
 f1_keywords:
 - vbaol11.chm374
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarPane.BeforeNavigate
 ms.assetid: f632928b-01a9-b467-1cee-0a86e0023f4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarPane.BeforeNavigate Event (Outlook)
+# OutlookBarPane.BeforeNavigate event (Outlook)
 
 Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to a different folder.
 
 
 ## Syntax
 
- _expression_. `BeforeNavigate`( `_Shortcut_` , `_Cancel_` )
+_expression_. `BeforeNavigate`( `_Shortcut_` , `_Cancel_` )
 
- _expression_ A variable that represents an '[OutlookBarPane](Outlook.OutlookBarPane.md)' object.
+_expression_ A variable that represents an '[OutlookBarPane](Outlook.OutlookBarPane.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The shortcut that the user clicked.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the current folder is not changed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the current folder is not changed.|
 
 ## Remarks
 
@@ -74,3 +75,4 @@ End Sub
 
 [OutlookBarPane Object](Outlook.OutlookBarPane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: c30d4ea5-27de-1c6e-6e2c-f16ab0abd5f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -274,3 +275,4 @@ ms.date: 06/08/2017
 |xlDialogWorkspace|fixed, decimals, r1c1, scroll, status, formula, menu_key, remote, entermove, underlines, tools, notes, nav_keys, menu_key_action, drag_drop, show_info|
 |xlDialogZoom|magnification|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

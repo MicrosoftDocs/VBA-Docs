@@ -1,5 +1,5 @@
 ---
-title: PivotTableChangeList.Add Method (Excel)
+title: PivotTableChangeList.Add method (Excel)
 keywords: vbaxl10.chm891077
 f1_keywords:
 - vbaxl10.chm891077
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTableChangeList.Add
 ms.assetid: d871f244-a669-9508-a006-bb36e693a288
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTableChangeList.Add Method (Excel)
+# PivotTableChangeList.Add method (Excel)
 
 Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Tuple_` , `_Value_` , `_AllocationValue_` , `_AllocationMethod_` , `_AllocationWeightExpression_` )
+_expression_.**Add**( `_Tuple_` , `_Value_` , `_AllocationValue_` , `_AllocationMethod_` , `_AllocationWeightExpression_` )
 
- _expression_ A variable that represents a '[PivotTableChangeList](Excel.PivotTableChangeList.md)' object.
+_expression_ A variable that represents a '[PivotTableChangeList](Excel.PivotTableChangeList.md)' object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ The  **Add** method enables you to add **ValueChange** objects that represent ch
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Create a Combination Field for a Folder
 ms.prod: outlook
 ms.assetid: e5d421c7-8ffd-6c15-0b9d-56e3b5899bbf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,7 +34,5 @@ ms.date: 06/08/2017
 12. To position the field between the other fields in the view, click the field, and then click **Move Up** or **Move Down**. 
     
 13. To remove the field from the view, click **Remove**.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

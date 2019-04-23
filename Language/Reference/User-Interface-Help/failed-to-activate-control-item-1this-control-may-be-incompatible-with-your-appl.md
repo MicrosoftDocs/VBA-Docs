@@ -3,6 +3,7 @@ title: Failed to activate control 'item 1'. This control may be incompatible wit
 ms.prod: office
 ms.assetid: db66f91f-10d2-4825-9b3c-48bddf60b1c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,3 +18,4 @@ This error has the following causes and solutions:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

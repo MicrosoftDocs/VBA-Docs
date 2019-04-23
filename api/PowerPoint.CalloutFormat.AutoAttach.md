@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoAttach Property (PowerPoint)
+title: CalloutFormat.AutoAttach property (PowerPoint)
 keywords: vbapp10.chm559008
 f1_keywords:
 - vbapp10.chm559008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CalloutFormat.AutoAttach
 ms.assetid: bb11ebc3-c84b-9bc0-0bb2-ae30690c7828
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutoAttach Property (PowerPoint)
+# CalloutFormat.AutoAttach property (PowerPoint)
 
 Determines whether the place where the callout line attaches to the callout text box changes, depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoAttach`
+_expression_.**AutoAttach**
 
- _expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value
@@ -38,7 +39,7 @@ The value of the  **AutoAttach** property can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The place where the callout line attaches to the callout text box does not change depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box.|
 |**msoTrue**| The place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box.|
@@ -78,3 +79,4 @@ End With
 
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

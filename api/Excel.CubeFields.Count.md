@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeFields.Count
 ms.assetid: 9ce370be-99dc-e27f-45dc-0d1e17230953
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) object.
+_expression_ A variable that represents a **[CubeFields](Excel.CubeFields.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [CubeFields Object](Excel.CubeFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

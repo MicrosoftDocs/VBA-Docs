@@ -9,6 +9,7 @@ api_name:
 - Access.UniqueValues
 ms.assetid: 41e403b9-a94a-252c-7561-51ac2df4cf0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,7 +27,7 @@ You can use the **UniqueValues** property when you want to omit records that con
 
 The **UniqueValues** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Yes|Displays only the records in which the values of all fields displayed in Datasheet view are unique.|
 |No|(Default) Displays all records.|
@@ -85,3 +86,5 @@ FROM Customers;
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

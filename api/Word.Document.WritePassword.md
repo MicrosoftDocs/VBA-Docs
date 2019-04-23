@@ -1,5 +1,5 @@
 ---
-title: Document.WritePassword Property (Word)
+title: Document.WritePassword property (Word)
 keywords: vbawd10.chm158007382
 f1_keywords:
 - vbawd10.chm158007382
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.WritePassword
 ms.assetid: e3353e68-1196-d896-d978-2c49ceca2940
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.WritePassword Property (Word)
+# Document.WritePassword property (Word)
 
-Sets a password for saving changes to the specified document. Write-only  **String** .
+Sets a password for saving changes to the specified document. Write-only  **String**.
 
 
 ## Syntax
 
- _expression_. `WritePassword`
+_expression_. `WritePassword`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ If myDoc.WriteReserved = False Then myDoc.WritePassword = "secret"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

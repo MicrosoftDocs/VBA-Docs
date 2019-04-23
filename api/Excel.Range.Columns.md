@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Columns
 ms.assetid: a1a23288-e911-909d-0bc0-48bdce2ccbac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a **[Range](Excel.Range(object).md)** object that represents the columns
 
 ## Syntax
 
- _expression_. `Columns`
+_expression_. `Columns`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -70,3 +71,4 @@ End If
 
 [Worksheet.Columns Property](excel.worksheet.columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

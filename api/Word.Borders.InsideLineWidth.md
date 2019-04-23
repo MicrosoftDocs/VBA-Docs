@@ -1,5 +1,5 @@
 ---
-title: Borders.InsideLineWidth Property (Word)
+title: Borders.InsideLineWidth property (Word)
 keywords: vbawd10.chm154927112
 f1_keywords:
 - vbawd10.chm154927112
@@ -8,24 +8,25 @@ api_name:
 - Word.Borders.InsideLineWidth
 ms.assetid: 7feabfc0-cb32-8b56-5f23-3db9c9dadc89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.InsideLineWidth Property (Word)
+# Borders.InsideLineWidth property (Word)
 
 Returns or sets the line width of the inside border of an object. .
 
 
 ## Syntax
 
- _expression_. `InsideLineWidth`
+_expression_. `InsideLineWidth`
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Remarks
 
-This property returns  **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True** , **False** , or one of the following **WdLineWidth** constants.
+This property returns  **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True**, **False**, or one of the following **WdLineWidth** constants.
 
 
 ## Example
@@ -67,3 +68,4 @@ rngTemp.Borders.InsideLineWidth = wdLineWidth075pt
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Page.Background Property (Publisher)
+title: Page.Background property (Publisher)
 keywords: vbapb10.chm393249
 f1_keywords:
 - vbapb10.chm393249
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Background
 ms.assetid: 1bba32dc-0e7e-40ca-0f29-b67be6be518d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Background Property (Publisher)
+# Page.Background property (Publisher)
 
 Sets or returns a  **PageBackground** object representing the background of the specified page.
 
 
 ## Syntax
 
- _expression_. **Background**
+_expression_.**Background**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -44,4 +45,4 @@ Set objPageBackground = ActiveDocument.Pages(1).Background
  
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

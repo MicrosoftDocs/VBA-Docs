@@ -1,5 +1,5 @@
 ---
-title: DistListItem.LastModificationTime Property (Outlook)
+title: DistListItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1127
 f1_keywords:
 - vbaol11.chm1127
@@ -8,24 +8,25 @@ api_name:
 - Outlook.DistListItem.LastModificationTime
 ms.assetid: cab45494-4410-bbee-1f09-12cc057b99bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.LastModificationTime Property (Outlook)
+# DistListItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.DragToData
 ms.assetid: 3149f842-83de-7cd2-2f53-2d15164ee1af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.DragToData property (Excel)
 
- **True** if the specified field can be dragged to the data position. The default value is **True** . Read/write **Boolean**
+ **True** if the specified field can be dragged to the data position. The default value is **True**. Read/write **Boolean**
 
 
 ## Syntax
 
- _expression_. `DragToData`
+_expression_. `DragToData`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Worksheets(1).PivotTables("Pivot1") _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

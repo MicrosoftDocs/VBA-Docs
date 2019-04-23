@@ -1,5 +1,5 @@
 ---
-title: Fields Object (Publisher)
+title: Fields object (Publisher)
 keywords: vbapb10.chm6094847
 f1_keywords:
 - vbapb10.chm6094847
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Fields
 ms.assetid: fd7c95d9-bc34-95ee-180d-b99f3629eb33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields Object (Publisher)
+# Fields object (Publisher)
 
 A collection of  **[Field](Publisher.Field.md)** objects that represent all the fields in a text range.
  
@@ -56,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddHorizontalInVertical](Publisher.Fields.AddHorizontalInVertical.md)|
 |[AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)|
@@ -67,9 +68,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Fields.Application.md)|
 |[Count](Publisher.Fields.Count.md)|
 |[Parent](Publisher.Fields.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

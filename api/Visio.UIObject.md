@@ -1,5 +1,5 @@
 ---
-title: UIObject Object (Visio)
+title: UIObject object (Visio)
 keywords: vis_sdr.chm10300
 f1_keywords:
 - vis_sdr.chm10300
@@ -8,10 +8,11 @@ api_name:
 - Visio.UIObject
 ms.assetid: 2d842398-df53-0d59-6ee5-89d411440863
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UIObject Object (Visio)
+# UIObject object (Visio)
 
 Represents a set of Microsoft Visio menus, toolbars, and accelerators, from either the built-in Visio user interface or a customized version of it. 
 
@@ -38,4 +39,4 @@ A  **UIObject** object can be stored in a file and loaded into Visio. Use the **
 
 Beginning with Visio 2002, a program can manipulate menus and toolbars in the Visio user interface by manipulating the  **CommandBars** collection returned by the **CommandBars** property. The **CommandBars** collection has an interface identical to the **CommandBars** collection exposed by the suite of Microsoft System applications such as Microsoft Word and Microsoft Excel. Consequently, programs can manipulate the Visio menus and toolbars by using either the **CommandBars** collection or **UIObject** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

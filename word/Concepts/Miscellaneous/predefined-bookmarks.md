@@ -3,6 +3,7 @@ title: Predefined Bookmarks
 ms.prod: word
 ms.assetid: aa1c6d85-fe70-8f73-5682-ae6ada65be7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -40,3 +41,4 @@ The following table describes the predefined bookmarks available in Word.
 |\Table|Current table, which is the table containing the insertion point or selection. If the selection includes more than one table, the "\Table" bookmark is the entire first table of the selection, even if the entire table is not selected.|
 |\HeadingLevel|The heading that contains the insertion point or selection, plus any subordinate headings and text. If the current selection is body text, the "\HeadingLevel" bookmark includes the preceding heading, plus any headings and text subordinate to that heading.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

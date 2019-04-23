@@ -8,26 +8,27 @@ api_name:
 - Excel.PivotCell.CustomSubtotalFunction
 ms.assetid: 35c031a2-7ad4-9cbb-c57b-1f529368d307
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCell.CustomSubtotalFunction property (Excel)
 
-Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** .
+Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
 
 
 ## Syntax
 
- _expression_. `CustomSubtotalFunction`
+_expression_. `CustomSubtotalFunction`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks
 
 
 
-| **XlConsolidationFunction** can be one of these **XlConsolidationFunction** constants.|
+| **xlConsolidationFunction** can be one of these **xlConsolidationFunction** constants.|
 | **xlAverage**|
 | **xlCount**|
 | **xlCountNums**|
@@ -74,3 +75,4 @@ End Sub
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TimeZone.Name Property (Outlook)
+title: TimeZone.Name property (Outlook)
 keywords: vbaol11.chm3282
 f1_keywords:
 - vbaol11.chm3282
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TimeZone.Name
 ms.assetid: e75bf2af-ae74-4d8f-7246-99a0daa17cb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeZone.Name Property (Outlook)
+# TimeZone.Name property (Outlook)
 
 Returns a  **String** that represents the identifier of the time zone. Read-only.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **Name** usually includes the offset value from Coordinated Universal Time 
 
 [TimeZone Object](Outlook.TimeZone.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Brightness Property (Publisher)
+title: PictureFormat.Brightness property (Publisher)
 keywords: vbapb10.chm3604736
 f1_keywords:
 - vbapb10.chm3604736
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.Brightness
 ms.assetid: bed1cd25-faee-6fb9-4bb3-5bdaf148b62e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Brightness Property (Publisher)
+# PictureFormat.Brightness property (Publisher)
 
 Returns or sets a  **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
 
 
 ## Syntax
 
- _expression_. **Brightness**
+_expression_.**Brightness**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -43,4 +44,4 @@ ActiveDocument.Pages(1).Shapes(1).PictureFormat _
  .Brightness = 0.3
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

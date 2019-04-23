@@ -3,6 +3,7 @@ title: Enumerate Folders on All Stores
 ms.prod: outlook
 ms.assetid: 9c78ecee-7b9b-bec0-5510-3224cd9aa1fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -56,4 +57,4 @@ Private Sub EnumerateFolders(ByVal oFolder As Outlook.Folder)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

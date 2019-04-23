@@ -1,5 +1,5 @@
 ---
-title: Presentation.SetPasswordEncryptionOptions Method (PowerPoint)
+title: Presentation.SetPasswordEncryptionOptions method (PowerPoint)
 keywords: vbapp10.chm583079
 f1_keywords:
 - vbapp10.chm583079
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.SetPasswordEncryptionOptions
 ms.assetid: 03c07952-784b-eba6-af71-57d3d1414f81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.SetPasswordEncryptionOptions Method (PowerPoint)
+# Presentation.SetPasswordEncryptionOptions method (PowerPoint)
 
 Sets the options Microsoft PowerPoint uses for encrypting presentations with passwords.
 
 
 ## Syntax
 
- _expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_`, `_PasswordEncryptionAlgorithm_`, `_PasswordEncryptionKeyLength_`, `_PasswordEncryptionFileProperties_` )
+_expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_`, `_PasswordEncryptionAlgorithm_`, `_PasswordEncryptionKeyLength_`, `_PasswordEncryptionFileProperties_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -71,3 +72,4 @@ End Sub
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

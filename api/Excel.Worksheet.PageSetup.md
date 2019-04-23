@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.PageSetup
 ms.assetid: 50310e49-49d0-c8c6-ed23-0eacae6355b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 
 ## Syntax
 
- _expression_. `PageSetup`
+_expression_.**PageSetup**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

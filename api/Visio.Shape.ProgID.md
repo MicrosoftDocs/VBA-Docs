@@ -1,5 +1,5 @@
 ---
-title: Shape.ProgID Property (Visio)
+title: Shape.ProgID property (Visio)
 keywords: vis_sdr.chm11214160
 f1_keywords:
 - vis_sdr.chm11214160
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.ProgID
 ms.assetid: 2cd96dd5-7d73-77ea-9e7e-3d1dcd98a21a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ProgID Property (Visio)
+# Shape.ProgID property (Visio)
 
 Returns the programmatic identifier of a shape that represents an ActiveX control, an embedded object, or linked object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProgID`
+_expression_. `ProgID`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -73,4 +74,4 @@ Public Sub ProgID_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

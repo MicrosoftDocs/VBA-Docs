@@ -3,6 +3,7 @@ title: ToggleButton.SpecialEffect Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: a123389c-3bf4-843f-763c-76e8fff18c6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the visual appearance of an objec
 
 ## Syntax
 
- _expression_. **SpecialEffect**
+_expression_.**SpecialEffect**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -24,7 +25,7 @@ The settings for SpecialEffect are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both.|
 |2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **[ToggleButton](Outlook.togglebutton.md)**.|
@@ -33,4 +34,4 @@ The settings for SpecialEffect are:
 
 Although the  **SpecialEffect** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the  **ToggleButton** **ToggleButton**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

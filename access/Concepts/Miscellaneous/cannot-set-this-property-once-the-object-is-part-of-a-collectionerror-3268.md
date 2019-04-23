@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: dda6984b-ee7e-4838-ee30-904171f4de2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ An attempt was made to change the value of a property of an object ( **TableDef*
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

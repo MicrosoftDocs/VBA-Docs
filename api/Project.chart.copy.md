@@ -1,22 +1,23 @@
 ---
-title: Chart.Copy Method (Project)
+title: Chart.Copy method (Project)
 keywords: vbapj.chm131611
 f1_keywords:
 - vbapj.chm131611
 ms.prod: project-server
 ms.assetid: 92627648-016a-0a69-52b8-bb24b1ea22d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.Copy Method (Project)
+# Chart.Copy method (Project)
 Copies a chart.
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Return value
@@ -49,3 +50,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [CopyPicture Method](Project.chart.copypicture.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,24 +1,25 @@
 ---
-title: WorksheetFunction.Forecast_Linear Method (Excel)
+title: WorksheetFunction.Forecast_Linear method (Excel)
 keywords: vbaxl10.chm137471
 f1_keywords:
 - vbaxl10.chm137471
 ms.assetid: 71b85d12-0c81-f82d-99fe-ad712f2530e5
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Forecast_Linear Method (Excel)
+# WorksheetFunction.Forecast_Linear method (Excel)
 
 Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value. The known values are existing x-values and y-values, and the new value is predicted by using linear regression. You can use this function to predict future sales, inventory requirements, or consumer trends.
 
 
 ## Syntax
 
- _expression_. `Forecast_Linear`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Forecast_Linear`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ returnValue = instance.Forecast_Linear(Arg1, Arg2, Arg3)
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

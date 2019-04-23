@@ -1,5 +1,5 @@
 ---
-title: FindReplace.Execute Method (Publisher)
+title: FindReplace.Execute method (Publisher)
 keywords: vbapb10.chm8323086
 f1_keywords:
 - vbapb10.chm8323086
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.Execute
 ms.assetid: 351a64ab-3c6c-c9c9-7ffe-b60b73d390ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.Execute Method (Publisher)
+# FindReplace.Execute method (Publisher)
 
 Performs the specified Find or Replace operation.
 
 
 ## Syntax
 
- _expression_. **Execute**
+_expression_.**Execute**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -45,4 +46,4 @@ Sub ExecuteFindReplace()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

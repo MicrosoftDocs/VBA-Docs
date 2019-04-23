@@ -1,18 +1,19 @@
 ---
-title: CertificateDetail Enumeration (Office)
+title: CertificateDetail enumeration (Office)
 ms.prod: office
 api_name:
 - Office.CertificateDetail
 ms.assetid: a9e0d03a-9ab9-375f-4f2d-a0c3ebcfbdc6
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# CertificateDetail Enumeration (Office)
+# CertificateDetail enumeration (Office)
 
 Provides information about the digital certificate.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -22,3 +23,4 @@ Provides information about the digital certificate.
 |**certdetSubject**|1|The holder of a Private Key corresponding to a Public Key.|
 |**certdetThumbprint**|4|A hash of the certificate's complete contents.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

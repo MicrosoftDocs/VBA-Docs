@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertBefore Method (Word)
+title: Selection.InsertBefore method (Word)
 keywords: vbawd10.chm158662758
 f1_keywords:
 - vbawd10.chm158662758
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertBefore
 ms.assetid: 05dfc75f-9bb3-e090-9b31-aeb48b6c2ed8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertBefore Method (Word)
+# Selection.InsertBefore method (Word)
 
 Inserts the specified text before the specified selection. .
 
 
 ## Syntax
 
- _expression_. `InsertBefore`( `_Text_` )
+_expression_. `InsertBefore`( `_Text_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ Inserts the specified text before the specified selection. .
 
 After using this method to insert text, the selection is expanded to include the new text. If the selection is a bookmark, the bookmark is also expanded to include the next text.
 
-You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic  **Chr** function with the **InsertBefore** method. You can also use the following Visual Basic constants: **vbCr** , **vbLf** , **vbCrLf** and **vbTab** .
+You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic  **Chr** function with the **InsertBefore** method. You can also use the following Visual Basic constants: **vbCr**, **vbLf**, **vbCrLf** and **vbTab**.
 
 
 ## Example
@@ -56,3 +57,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 064b3651-ad76-c8fd-1250-b25fa669cf92
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a 'ModelFormatDate' object.
+_expression_ A variable that represents a 'ModelFormatDate' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ Returns the parent object for the specified object. Read-only.
 
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

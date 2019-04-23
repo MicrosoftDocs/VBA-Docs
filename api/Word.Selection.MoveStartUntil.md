@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveStartUntil Method (Word)
+title: Selection.MoveStartUntil method (Word)
 keywords: vbawd10.chm158662772
 f1_keywords:
 - vbawd10.chm158662772
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveStartUntil
 ms.assetid: a461cf49-1ed9-425b-5417-0a882c17d792
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveStartUntil Method (Word)
+# Selection.MoveStartUntil method (Word)
 
 Moves the start position of the specified selection until one of the specified characters is found in the document. If the movement is backward through the document, the selection is expanded.
 
 
 ## Syntax
 
- _expression_. `MoveStartUntil`( `_Cset_` , `_Count_` )
+_expression_. `MoveStartUntil`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the start position of the specified selection until one of the specified c
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
 
 ## Remarks
 
@@ -52,3 +53,4 @@ Selection.MoveStartUntil Cset:="I", Count:=wdBackward
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

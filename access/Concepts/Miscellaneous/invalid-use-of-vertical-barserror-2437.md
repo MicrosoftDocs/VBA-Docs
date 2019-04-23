@@ -3,6 +3,7 @@ title: Invalid use of vertical bars. (Error 2437)
 ms.prod: access
 ms.assetid: cf4d0633-e218-2892-99cf-932d29cdab7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You entered an expression that has invalid vertical bars (|). Check the expressi
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

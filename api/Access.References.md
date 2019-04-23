@@ -7,71 +7,47 @@ ms.prod: access
 api_name:
 - Access.References
 ms.assetid: ac020382-4ece-f138-d1b9-d05b0fe0f523
-ms.date: 06/08/2017
+ms.date: 03/21/2019
+localization_priority: Normal
 ---
 
 
 # References object (Access)
 
-The  **References** collection contains **Reference** objects representing each reference that's currently set.
+The **References** collection contains **[Reference](access.reference.md)** objects representing each reference that's currently set.
 
 
 ## Remarks
 
-The  **Reference** objects in the **References** collection correspond to the list of references in the **References** dialog box, available by clicking **References** on the **Tools** menu. Each **Reference** object represents one selected reference in the list. References that appear in the **References** dialog box but haven't been selected aren't in the **References** collection.
+The **Reference** objects in the **References** collection correspond to the list of references in the **References** dialog box, available by choosing **References** on the **Tools** menu. Each **Reference** object represents one selected reference in the list. References that appear in the **References** dialog box but haven't been selected aren't in the **References** collection.
 
-You can enumerate through the  **References** collection by using the **For Each...Next** statement.
+You can enumerate through the **References** collection by using the **For Each...Next** statement.
 
-The  **References** collection belongs to the Microsoft Access **Application** object.
+The **References** collection belongs to the Microsoft Access **Application** object.
 
-Individual  **Reference** objects in the **References** collection are indexed beginning with 1.
-
- **Link provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
-
-
-- [Display List of References - Both Good and Broken](https://www.utteraccess.com/forum/Display-List-References-t126939.html)
-    
+Individual **Reference** objects in the **References** collection are indexed beginning with 1.
 
 ## Events
 
-
-
-|**Name**|
-|:-----|
-|[ItemAdded](Access.References.ItemAdded.md)|
-|[ItemRemoved](Access.References.ItemRemoved.md)|
+- [ItemAdded](Access.References.ItemAdded.md)
+- [ItemRemoved](Access.References.ItemRemoved.md)
 
 ## Methods
 
-
-
-|**Name**|
-|:-----|
-|[AddFromFile](Access.References.AddFromFile.md)|
-|[AddFromGuid](Access.References.AddFromGuid.md)|
-|[Item](Access.References.Item.md)|
-|[Remove](Access.References.Remove.md)|
+- [AddFromFile](Access.References.AddFromFile.md)
+- [AddFromGuid](Access.References.AddFromGuid.md)
+- [Item](Access.References.Item.md)
+- [Remove](Access.References.Remove.md)
 
 ## Properties
 
-
-
-|**Name**|
-|:-----|
-|[Count](Access.References.Count.md)|
-|[Parent](Access.References.Parent.md)|
-
-### About the contributors
-
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+- [Count](Access.References.Count.md)
+- [Parent](Access.References.Parent.md)
 
 
 ## See also
 
+- [Access Object Model Reference](overview/Access/object-model.md)
 
 
-
-
-[Access Object Model Reference](overview/Access/object-model.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

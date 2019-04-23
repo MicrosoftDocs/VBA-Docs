@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks.Count Property (Publisher)
+title: WebNavigationBarHyperlinks.Count property (Publisher)
 keywords: vbapb10.chm8585219
 f1_keywords:
 - vbapb10.chm8585219
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Count
 ms.assetid: 55e62f9b-7d7e-50bd-bd3b-0c2fdae903df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks.Count Property (Publisher)
+# WebNavigationBarHyperlinks.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

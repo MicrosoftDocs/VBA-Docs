@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 596913de-8f53-9643-484b-e28dabd9019f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,6 +23,8 @@ Text boxes on a form or report display data from a record source. This type of t
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

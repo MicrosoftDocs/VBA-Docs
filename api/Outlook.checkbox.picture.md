@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 2110dbf6-19d7-5ce8-2ff3-f2622a2cf949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a  **String** that specifies the full path name of a bitmap to display o
 
 ## Syntax
 
- _expression_. **Picture**
+_expression_.**Picture**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ For controls with captions, use the  **[PicturePosition](Outlook.checkbox.pictur
 
 Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.  **[Image](Outlook.image.md)** supports opaque images.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

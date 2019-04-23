@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImExp Method (Excel)
+title: WorksheetFunction.ImExp method (Excel)
 keywords: vbaxl10.chm137283
 f1_keywords:
 - vbaxl10.chm137283
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImExp
 ms.assetid: 38072c27-dbd3-cdc6-a69a-f1782af7eb9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImExp Method (Excel)
+# WorksheetFunction.ImExp method (Excel)
 
 Returns the exponential of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImExp`( `_Arg1_` )
+_expression_. `ImExp`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

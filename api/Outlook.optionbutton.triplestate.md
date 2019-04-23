@@ -3,6 +3,7 @@ title: OptionButton.TripleState Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 7643b4e7-1743-befd-9894-bee351296b79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that determines whether the **[OptionButton](Outl
 
 ## Syntax
 
- _expression_. **TripleState**
+_expression_.**TripleState**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -32,4 +33,4 @@ When  **TripleState** is **False**, the user can choose either  **True** or **Fa
 
 A control set to  **Null** does not initiate the **[Click](Outlook.optionbutton.click.md)** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

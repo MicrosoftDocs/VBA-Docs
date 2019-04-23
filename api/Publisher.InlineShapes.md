@@ -1,5 +1,5 @@
 ---
-title: InlineShapes Object (Publisher)
+title: InlineShapes object (Publisher)
 keywords: vbapb10.chm5832703
 f1_keywords:
 - vbapb10.chm5832703
@@ -8,10 +8,11 @@ api_name:
 - Publisher.InlineShapes
 ms.assetid: 1a6d1e8f-0be0-102e-af6c-a1cee53eae02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShapes Object (Publisher)
+# InlineShapes object (Publisher)
 
 Contains a collection of  **[Shape](Publisher.Shape.md)** objects, which represent objects in the drawing layer, where **Shape.IsInline** is **True**. The collection of shapes is limited to shapes within a given text range.
  
@@ -95,7 +96,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.InlineShapes.Item.md)|
 
@@ -103,10 +104,11 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.InlineShapes.Application.md)|
 |[Count](Publisher.InlineShapes.Count.md)|
 |[Parent](Publisher.InlineShapes.Parent.md)|
 |[Range](Publisher.InlineShapes.Range.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

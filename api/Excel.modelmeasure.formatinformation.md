@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 26ad6641-c4fe-ae9d-b8dd-d429f5806790
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ The format of the model measure. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `FormatInformation`
+_expression_. `FormatInformation`
 
- _expression_ A variable that represents a 'ModelMeasure' object.
+_expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ The formatting of the model measure can be of type [ModelFormatBoolean](Excel.mo
 
 [ModelMeasure Object](Excel.modelmeasure.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

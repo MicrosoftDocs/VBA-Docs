@@ -1,5 +1,5 @@
 ---
-title: Master.DataGraphicDelete Method (Visio)
+title: Master.DataGraphicDelete method (Visio)
 keywords: vis_sdr.chm10760140
 f1_keywords:
 - vis_sdr.chm10760140
@@ -8,10 +8,11 @@ api_name:
 - Visio.Master.DataGraphicDelete
 ms.assetid: aa84af70-975c-3747-1976-b872a6c2fa36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.DataGraphicDelete Method (Visio)
+# Master.DataGraphicDelete method (Visio)
 
 Deletes the  **Master** of type **visTypeDataGraphic** from the **Masters** collection of the document.
 
@@ -21,7 +22,7 @@ Deletes the  **Master** of type **visTypeDataGraphic** from the **Masters** coll
 
 ## Syntax
 
- _expression_. `DataGraphicDelete`
+_expression_. `DataGraphicDelete`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
@@ -54,4 +55,4 @@ Public Sub DataGraphicDelete_example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

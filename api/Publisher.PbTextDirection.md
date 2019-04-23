@@ -1,5 +1,5 @@
 ---
-title: PbTextDirection Enumeration (Publisher)
+title: PbTextDirection enumeration (Publisher)
 keywords: vbapb10.chm65554
 f1_keywords:
 - vbapb10.chm65554
@@ -8,12 +8,13 @@ api_name:
 - Publisher.PbTextDirection
 ms.assetid: 8a9ce32b-5dbb-6f11-5783-f6fdd190dab6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbTextDirection Enumeration (Publisher)
+# PbTextDirection enumeration (Publisher)
 
-Indicats the direction in which text flows in the specified paragraph.
+Indicates the direction in which text flows in the specified paragraph.
 
 
 
@@ -23,3 +24,4 @@ Indicats the direction in which text flows in the specified paragraph.
 | **pbTextDirectionMixed**|-9999999|Return value indicating a range containing some left-to-right text and some right-to-left text.|
 | **pbTextDirectionRightToLeft**|2|Text flows from right to left.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

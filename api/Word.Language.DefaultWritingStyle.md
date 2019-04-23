@@ -1,5 +1,5 @@
 ---
-title: Language.DefaultWritingStyle Property (Word)
+title: Language.DefaultWritingStyle property (Word)
 keywords: vbawd10.chm158138385
 f1_keywords:
 - vbawd10.chm158138385
@@ -8,17 +8,18 @@ api_name:
 - Word.Language.DefaultWritingStyle
 ms.assetid: 89eae276-8439-35d1-19bf-92c8ba69575c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Language.DefaultWritingStyle Property (Word)
+# Language.DefaultWritingStyle property (Word)
 
-Returns or sets the default writing style used by the grammar checker for the specified language. Read/write  **String** .
+Returns or sets the default writing style used by the grammar checker for the specified language. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultWritingStyle`
+_expression_. `DefaultWritingStyle`
 
  _expression_ A variable that represents a '[Language](Word.Language.md)' object.
 
@@ -58,3 +59,4 @@ ActiveDocument.CheckGrammar
 
 [Language Object](Word.Language.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

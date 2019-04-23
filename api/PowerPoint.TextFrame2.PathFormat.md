@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.PathFormat Property (PowerPoint)
+title: TextFrame2.PathFormat property (PowerPoint)
 keywords: vbapp10.chm678009
 f1_keywords:
 - vbapp10.chm678009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame2.PathFormat
 ms.assetid: 43c83e42-4439-8806-0fbe-688359521426
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.PathFormat Property (PowerPoint)
+# TextFrame2.PathFormat property (PowerPoint)
 
  Returns or sets the path type for the specified text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. `PathFormat`
+_expression_. `PathFormat`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -47,3 +48,4 @@ The value of the  **PathFormat** property can be one of these **MsoPathType** co
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

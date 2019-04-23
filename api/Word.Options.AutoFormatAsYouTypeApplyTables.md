@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyTables Property (Word)
+title: Options.AutoFormatAsYouTypeApplyTables property (Word)
 keywords: vbawd10.chm162988322
 f1_keywords:
 - vbawd10.chm162988322
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyTables
 ms.assetid: 171da8ca-5754-b5fb-12b2-1fcb1461a8fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyTables Property (Word)
+# Options.AutoFormatAsYouTypeApplyTables property (Word)
 
- **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. The plus signs become the column borders, and the hyphens become the column widths. Read/write **Boolean** .
+ **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. The plus signs become the column borders, and the hyphens become the column widths. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyTables`
+_expression_. `AutoFormatAsYouTypeApplyTables`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyTables
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Global.IsObjectValid Property (Word)
+title: Global.IsObjectValid property (Word)
 keywords: vbawd10.chm163119213
 f1_keywords:
 - vbawd10.chm163119213
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.IsObjectValid
 ms.assetid: 73115443-ad95-8e58-cd35-b9a34c6e641d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.IsObjectValid Property (Word)
+# Global.IsObjectValid property (Word)
 
- **True** if the specified variable that references an object is valid. Read-only **Boolean** .
+ **True** if the specified variable that references an object is valid. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsObjectValid`( `_Object_` )
+_expression_. `IsObjectValid`( `_Object_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -58,3 +59,4 @@ If IsObjectValid(aTable) = True Then _
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

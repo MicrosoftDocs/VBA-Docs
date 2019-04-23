@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d9ece6d5-3291-409e-a0ed-650db9d1f2cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ListBox.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/9338e883-4a8d-c2b9-e4ea-dc654dd86f40%28Office.15%29.aspx)
 [NavigationButton.ForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/f0d04d84-338a-c45e-6f26-debc1a402796%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

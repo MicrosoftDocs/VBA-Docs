@@ -1,5 +1,5 @@
 ---
-title: Application.Help Method (Publisher)
+title: Application.Help method (Publisher)
 keywords: vbapb10.chm131125
 f1_keywords:
 - vbapb10.chm131125
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Help
 ms.assetid: 37b51399-5897-4003-a0a9-9829a8adf8ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Help Method (Publisher)
+# Application.Help method (Publisher)
 
 Displays online Help information.
 
 
 ## Syntax
 
- _expression_. **Help**(**_HelpType_**)
+_expression_.**Help**(**_HelpType_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -37,7 +38,7 @@ The HelpType parameter can be one of the following  **PbHelpType** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbHelp**|Displays the  **Help Topics** dialog box.|
 | **pbHelpActiveWindow**|Displays Help describing the command associated with the active view or pane.|
@@ -63,3 +64,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Font.BoldBi Property (Publisher)
+title: Font.BoldBi property (Publisher)
 keywords: vbapb10.chm5373956
 f1_keywords:
 - vbapb10.chm5373956
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.BoldBi
 ms.assetid: f3a9fa27-6c9c-4d77-0f0d-962afa211d9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.BoldBi Property (Publisher)
+# Font.BoldBi property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the font is bold; used with text in a right-to-left language. Read/write.
 
 
 ## Syntax
 
- _expression_. **BoldBi**
+_expression_.**BoldBi**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -34,7 +35,7 @@ The  **BoldBi** property value can be one of the following **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as bold.|
 | **msoTriStateMixed**|Return value indicating that the range contains some text formatted as bold and some text not formatted as bold.|
@@ -65,4 +66,4 @@ Sub BoldRtoL()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

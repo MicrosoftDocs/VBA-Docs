@@ -3,6 +3,7 @@ title: Using Visual Basic Scripting Edition
 ms.prod: outlook
 ms.assetid: 86737508-e2bf-40c9-be0c-ebe64f3e9c64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,5 +23,5 @@ ms.date: 06/08/2017
 -  [Form Events](form-events.md)
     
 -  [Test Tips for Using Visual Basic Scripting Edition in Outlook](test-tips-for-using-visual-basic-scripting-edition-in-outlook.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

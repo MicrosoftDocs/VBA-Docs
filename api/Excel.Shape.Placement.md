@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Placement
 ms.assetid: 485bc798-c9a2-ddf6-99ea-5f3fcd46e74b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represent
 
 ## Syntax
 
- _expression_. `Placement`
+_expression_.**Placement**
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represent
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropRight Property (Publisher)
+title: PictureFormat.CropRight property (Publisher)
 keywords: vbapb10.chm3604741
 f1_keywords:
 - vbapb10.chm3604741
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.CropRight
 ms.assetid: b1c20de2-e2cf-708f-ddae-194c8b1b01c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropRight Property (Publisher)
+# PictureFormat.CropRight property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the right edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. **CropRight**
+_expression_.**CropRight**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -79,4 +80,4 @@ shpCrop.PictureFormat.CropRight = sngPoints
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

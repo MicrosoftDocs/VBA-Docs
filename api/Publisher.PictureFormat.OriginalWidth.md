@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalWidth Property (Publisher)
+title: PictureFormat.OriginalWidth property (Publisher)
 keywords: vbapb10.chm3604777
 f1_keywords:
 - vbapb10.chm3604777
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.OriginalWidth
 ms.assetid: 3c418f3f-b2af-3176-9a37-a548b15fb4bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalWidth Property (Publisher)
+# PictureFormat.OriginalWidth property (Publisher)
 
-Returns a  **Variant** that represents, in points, the width of the specified linked picture or OLE object. Read-only.
+Returns a  **Variant** that represents, in [points](../language/glossary/vbe-glossary.md#point), the width of the specified linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **OriginalWidth**
+_expression_.**OriginalWidth**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -62,4 +63,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

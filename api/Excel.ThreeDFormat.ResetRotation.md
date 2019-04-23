@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ResetRotation Method (Excel)
+title: ThreeDFormat.ResetRotation method (Excel)
 keywords: vbaxl10.chm119002
 f1_keywords:
 - vbaxl10.chm119002
@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.ResetRotation
 ms.assetid: 55173d20-2d13-d3a8-39db-6b1a161c6ea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ResetRotation Method (Excel)
+# ThreeDFormat.ResetRotation method (Excel)
 
 Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so that the front of the extrusion faces forward. This method doesn't reset the rotation around the z-axis.
 
 
 ## Syntax
 
- _expression_. `ResetRotation`
+_expression_. `ResetRotation`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ To set the extrusion rotation around the x-axis and the y-axis to anything other
 
 ## Example
 
-This example resets the rotation around the x-axis and the y-axis to 0 (zero) for the extrusion of shape one on  `myDocument`.
+This example resets the rotation around the x-axis and the y-axis to 0 (zero) for the extrusion of shape one on  _myDocument_.
 
 
 ```vb
@@ -44,3 +45,4 @@ myDocument.Shapes(1).ThreeD.ResetRotation
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

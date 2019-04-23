@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c9bdb7e3-4f5c-48fc-aa80-e666152da6a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.TopPadding property (Access)](http://msdn.microsoft.com/library/05088d34-eae7-bc0e-314b-cd8640c9ed0b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

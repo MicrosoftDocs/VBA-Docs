@@ -1,5 +1,5 @@
 ---
-title: CustomLayout.Name Property (PowerPoint)
+title: CustomLayout.Name property (PowerPoint)
 keywords: vbapp10.chm672006
 f1_keywords:
 - vbapp10.chm672006
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CustomLayout.Name
 ms.assetid: 3ad36d6e-1b85-8ff2-9b76-f50a372e0f07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLayout.Name Property (PowerPoint)
+# CustomLayout.Name property (PowerPoint)
 
 Represents the display name of the specified custom layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ String
 
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

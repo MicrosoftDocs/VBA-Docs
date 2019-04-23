@@ -3,6 +3,7 @@ title: Office Fluent User Interface Extensibility for Outlook
 ms.prod: outlook
 ms.assetid: 8496c52e-1f9d-16ef-2fd8-c1bca1a96816
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,3 +37,4 @@ For more information and examples of different ways to customize the Outlook UI,
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
  [Overview of Customizing the Ribbon](overview-of-customizing-the-ribbon.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

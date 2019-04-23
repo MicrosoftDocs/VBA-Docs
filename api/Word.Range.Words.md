@@ -1,5 +1,5 @@
 ---
-title: Range.Words Property (Word)
+title: Range.Words property (Word)
 keywords: vbawd10.chm157155379
 f1_keywords:
 - vbawd10.chm157155379
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Words
 ms.assetid: ada98916-b87c-7592-ee2d-561ed7067f39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Words Property (Word)
+# Range.Words property (Word)
 
 Returns a  **Words** collection that represents all the words in a range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Words`
+_expression_. `Words`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -57,3 +58,4 @@ Next aWord
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

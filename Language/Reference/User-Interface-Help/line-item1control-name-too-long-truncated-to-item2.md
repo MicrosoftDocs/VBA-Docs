@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bc119dca-5e8f-53b9-d604-651bf7c3c290
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a control name longer than 40 characters. The [control](../../Glossary/vbe-glossary.md#control) will be loaded with the name truncated to 40 characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

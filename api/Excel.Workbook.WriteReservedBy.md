@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.WriteReservedBy
 ms.assetid: f053c197-3af3-9ab7-bee1-f72ee311a5b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.WriteReservedBy property (Excel)
 
-Returns the name of the user who currently has write permission for the workbook. Read-only  **String** .
+Returns the name of the user who currently has write permission for the workbook. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `WriteReservedBy`
+_expression_. `WriteReservedBy`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End With
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

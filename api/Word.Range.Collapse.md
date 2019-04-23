@@ -1,5 +1,5 @@
 ---
-title: Range.Collapse Method (Word)
+title: Range.Collapse method (Word)
 keywords: vbawd10.chm157155429
 f1_keywords:
 - vbawd10.chm157155429
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Collapse
 ms.assetid: fa5cae70-f047-e300-52f7-bd75d9c613da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Collapse Method (Word)
+# Range.Collapse method (Word)
 
 Collapses a range or selection to the starting or ending position. After a range or selection is collapsed, the starting and ending points are equal.
 
 
 ## Syntax
 
- _expression_. `Collapse`( `_Direction_` )
+_expression_. `Collapse`( `_Direction_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Collapses a range or selection to the starting or ending position. After a range
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Optional| **Variant**|The direction in which to collapse the range or selection. Can be either of the following  **WdCollapseDirection** constants: **wdCollapseEnd** or **wdCollapseStart** . The default value is **wdCollapseStart** .|
+| _Direction_|Optional| **Variant**|The direction in which to collapse the range or selection. Can be either of the following  **WdCollapseDirection** constants: **wdCollapseEnd** or **wdCollapseStart**. The default value is **wdCollapseStart**.|
 
 ## Remarks
 
@@ -60,3 +61,4 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=2, NumColumns:=2
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,12 +6,13 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: cc4ccabf-37f0-b33d-c03f-13763b85e440
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Cell Error Values
 
-You can insert a cell error value into a cell or test the value of a cell for an error value by using the  **CVErr** function. The cell error values can be one of the following **XlCVError** constants.
+You can insert a cell error value into a cell or test the value of a cell for an error value by using the  **CVErr** function. The cell error values can be one of the following **xlCVError** constants.
 
 
 
@@ -68,4 +69,4 @@ If IsError(ActiveCell.Value) Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

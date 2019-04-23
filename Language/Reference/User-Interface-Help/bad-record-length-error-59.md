@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4fd56cfa-a45c-1ac9-5ef0-3ccec2004d48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ The length of a record [variable](../../Glossary/vbe-glossary.md#variable) in a 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

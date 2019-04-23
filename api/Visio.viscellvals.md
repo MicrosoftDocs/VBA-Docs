@@ -1,15 +1,16 @@
 ---
-title: VisCellVals Enumeration (Visio)
+title: VisCellVals enumeration (Visio)
 keywords: vis_sdr.chm70035
 f1_keywords:
 - vis_sdr.chm70035
 ms.prod: visio
 ms.assetid: c9ce51a1-b657-5193-bd3b-23e26c85d531
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisCellVals Enumeration (Visio)
+# VisCellVals enumeration (Visio)
 
 Symbolic values for certain cells.
 
@@ -324,3 +325,4 @@ Symbolic values for certain cells.
 | **visXFormResizeScale**|2|
 | **visXFormResizeSpread**|1|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

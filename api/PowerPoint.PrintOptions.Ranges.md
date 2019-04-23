@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.Ranges Property (PowerPoint)
+title: PrintOptions.Ranges property (PowerPoint)
 keywords: vbapp10.chm517012
 f1_keywords:
 - vbapp10.chm517012
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.Ranges
 ms.assetid: d0011261-a663-534d-204f-af2cd02f72be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.Ranges Property (PowerPoint)
+# PrintOptions.Ranges property (PowerPoint)
 
 Returns the  **[PrintRanges](PowerPoint.PrintRanges.md)** object, which represents the ranges of slides in the presentation to be printed. Read-only.
 
 
 ## Syntax
 
- _expression_. `Ranges`
+_expression_. `Ranges`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -74,3 +75,4 @@ End With
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

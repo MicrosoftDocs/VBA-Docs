@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: caf4643e-3595-4a1f-9119-39a43d71be3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BoundObjectFrame.AutoActivate property (Access)](http://msdn.microsoft.com/library/162dcc86-818c-dc84-48cd-97fbfb85b77c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

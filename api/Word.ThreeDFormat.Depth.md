@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (Word)
+title: ThreeDFormat.Depth property (Word)
 keywords: vbawd10.chm164626532
 f1_keywords:
 - vbawd10.chm164626532
@@ -8,17 +8,18 @@ api_name:
 - Word.ThreeDFormat.Depth
 ms.assetid: 45fbea95-7685-d244-19b8-ef4c4560a26f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Depth Property (Word)
+# ThreeDFormat.Depth property (Word)
 
-Returns or sets the depth of the shape's extrusion. Read/write  **Single** .
+Returns or sets the depth of the shape's extrusion. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Depth`
+_expression_. `Depth`
 
  _expression_ A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

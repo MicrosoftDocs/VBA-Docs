@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeClearBaseline Event (Project)
+title: Application.ProjectBeforeClearBaseline event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeClearBaseline
 ms.assetid: 4aa11658-7962-a46f-c914-5ed3bebd15a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeClearBaseline Event (Project)
+# Application.ProjectBeforeClearBaseline event (Project)
 
 Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeClearBaseline`( ` _pj_`, ` _Interim_`, ` _bl_`, ` _InterimFrom_`, ` _AllTasks_`, ` _Info_` )
+_expression_. `ProjectBeforeClearBaseline`( `_pj_`, `_Interim_`, `_bl_`, `_InterimFrom_`, `_AllTasks_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -84,7 +85,5 @@ End Sub
 3. Run the RunMacros procedure to start listening to the events.
     
 4. On the  **Tools** menu, point to **Tracking** and click **Clear Baseline**.The event causes a message box to pop up every time a baseline is cleared.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

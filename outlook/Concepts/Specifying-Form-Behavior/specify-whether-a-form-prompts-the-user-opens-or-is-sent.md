@@ -3,6 +3,7 @@ title: Specify Whether a Form Prompts the User, Opens, or is Sent
 ms.prod: outlook
 ms.assetid: 37026f13-322d-d435-48b0-ec488c346215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,4 +31,4 @@ ms.date: 06/08/2017
 
  **Note**  If you click  **Send the form immediately**, you must  [pre-address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md) the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

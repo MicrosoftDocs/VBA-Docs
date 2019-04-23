@@ -1,5 +1,5 @@
 ---
-title: Ruler.Application Property (PowerPoint)
+title: Ruler.Application property (PowerPoint)
 keywords: vbapp10.chm570001
 f1_keywords:
 - vbapp10.chm570001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Ruler.Application
 ms.assetid: 381c4106-933b-b66f-adf7-efda62d29027
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Ruler.Application Property (PowerPoint)
+# Ruler.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Ruler](./PowerPoint.Ruler.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Ruler Object](PowerPoint.Ruler.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

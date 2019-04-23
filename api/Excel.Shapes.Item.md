@@ -1,5 +1,5 @@
 ---
-title: Shapes.Item Method (Excel)
+title: Shapes.Item method (Excel)
 keywords: vbaxl10.chm638074
 f1_keywords:
 - vbaxl10.chm638074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shapes.Item
 ms.assetid: efd7e247-5976-95b1-3365-34997feb323f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Item Method (Excel)
+# Shapes.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -43,7 +44,7 @@ The text name of the object is the value of the  **[Name](Excel.Shape.Name.md)**
 
 ## Example
 
-This example sets the  **OnAction** property for shape two in a **Shapes** collection. If the ss variable doesn?t represent a **Shapes** object, this example fails.
+This example sets the  **OnAction** property for shape two in a **Shapes** collection. If the ss variable doesn't represent a **Shapes** object, this example fails.
 
 
 ```vb
@@ -57,3 +58,4 @@ ss.Item(2).OnAction = "ShapeAction"
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

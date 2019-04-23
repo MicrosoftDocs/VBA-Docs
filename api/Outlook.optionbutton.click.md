@@ -3,6 +3,7 @@ title: OptionButton.Click Event (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 96bb2ed3-ded1-86e2-f39d-2d651f160ce4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Occurs when the user definitively selects a value for the control that has more 
 
 ## Syntax
 
- _expression_. **Click**
+_expression_.**Click**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -54,4 +55,4 @@ End Select
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

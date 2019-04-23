@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Index Property (Publisher)
+title: MailMergeFilterCriterion.Index property (Publisher)
 keywords: vbapb10.chm6815745
 f1_keywords:
 - vbapb10.chm6815745
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilterCriterion.Index
 ms.assetid: e66e5afd-db28-cd00-9692-3b1a6d557198
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Index Property (Publisher)
+# MailMergeFilterCriterion.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular item in a specified collection. .
 
 
 ## Syntax
 
- _expression_. **Index**
+_expression_.**Index**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
@@ -61,4 +62,4 @@ Else
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

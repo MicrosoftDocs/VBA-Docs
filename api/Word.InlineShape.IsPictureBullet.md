@@ -1,5 +1,5 @@
 ---
-title: InlineShape.IsPictureBullet Property (Word)
+title: InlineShape.IsPictureBullet property (Word)
 keywords: vbawd10.chm162005124
 f1_keywords:
 - vbawd10.chm162005124
@@ -8,17 +8,18 @@ api_name:
 - Word.InlineShape.IsPictureBullet
 ms.assetid: c53c7269-b6ab-beaa-41d6-105033c077b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.IsPictureBullet Property (Word)
+# InlineShape.IsPictureBullet property (Word)
 
- **True** indicates that an **InlineShape** object is a picture bullet. Read-only **Boolean** .
+ **True** indicates that an **InlineShape** object is a picture bullet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsPictureBullet`
+_expression_. `IsPictureBullet`
 
  _expression_ An expression that returns a '[InlineShape](Word.InlineShape.md)' object.
 
@@ -65,3 +66,4 @@ End Sub
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

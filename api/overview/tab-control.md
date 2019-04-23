@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 07b7f765-1c74-073e-4c0d-b1b300b898c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,6 +25,8 @@ With the tab control, you can construct a single form or dialog box that contain
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

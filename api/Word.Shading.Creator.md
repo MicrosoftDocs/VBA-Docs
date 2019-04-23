@@ -1,5 +1,5 @@
 ---
-title: Shading.Creator Property (Word)
+title: Shading.Creator property (Word)
 keywords: vbawd10.chm154797033
 f1_keywords:
 - vbawd10.chm154797033
@@ -8,19 +8,20 @@ api_name:
 - Word.Shading.Creator
 ms.assetid: e9986a66-a8e9-04ff-d1e1-dfb4872483d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shading.Creator Property (Word)
+# Shading.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Shading](Word.Shading.md)' object.
+_expression_ Required. A variable that represents a '[Shading](Word.Shading.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Shading Object](Word.Shading.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

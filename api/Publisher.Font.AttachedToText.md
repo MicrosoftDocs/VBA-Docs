@@ -1,5 +1,5 @@
 ---
-title: Font.AttachedToText Property (Publisher)
+title: Font.AttachedToText property (Publisher)
 keywords: vbapb10.chm5373989
 f1_keywords:
 - vbapb10.chm5373989
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.AttachedToText
 ms.assetid: 23b0519a-9f35-fa25-752a-4942e8161edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.AttachedToText Property (Publisher)
+# Font.AttachedToText property (Publisher)
 
  **True** if the **Font** or **ParagraphFormat** object is attached to a **TextRange** object. If the object is attached to a **TextRange** object, the document will be updated when properties of the object are changed. If the object is not attached, nothing in the document will be changed until the object is applied to a **TextRange** or **Style** object. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AttachedToText**
+_expression_.**AttachedToText**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -40,4 +41,4 @@ Sub DuplicateText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

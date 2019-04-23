@@ -1,5 +1,5 @@
 ---
-title: Global.DDERequest Method (Word)
+title: Global.DDERequest method (Word)
 keywords: vbawd10.chm163119417
 f1_keywords:
 - vbawd10.chm163119417
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.DDERequest
 ms.assetid: be540a7b-9a38-633a-cf48-2a15a3159a51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.DDERequest Method (Word)
+# Global.DDERequest method (Word)
 
 Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a string.
 
 
 ## Syntax
 
- _expression_. `DDERequest`( `_Channel_` , `_Item_` )
+_expression_. `DDERequest`( `_Channel_` , `_Item_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -89,3 +90,4 @@ DDETerminate Channel:=lngChannel
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeBeforeMerge Event (Word)
+title: Application.MailMergeBeforeMerge event (Word)
 keywords: vbawd10.chm4000018
 f1_keywords:
 - vbawd10.chm4000018
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.MailMergeBeforeMerge
 ms.assetid: 968cf799-255f-b6fc-f576-7aec093ab1cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeBeforeMerge Event (Word)
+# Application.MailMergeBeforeMerge event (Word)
 
 Occurs when a merge is executed before any records merge.
 
 
 ## Syntax
 
- _expression_. `Private Sub object_MailMergeBeforeMerge`( `_ByVal Doc As Document_` , `_ByVal StartRecord As Long_` , `_ByVal EndRecord As Long_` , `_Cancel As Boolean_` )
+_expression_. `Private Sub object_MailMergeBeforeMerge`( `_ByVal Doc As Document_` , `_ByVal StartRecord As Long_` , `_ByVal EndRecord As Long_` , `_Cancel As Boolean_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
@@ -68,3 +69,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

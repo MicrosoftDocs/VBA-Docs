@@ -1,36 +1,29 @@
 ---
-title: Layout Event, LayoutEffect Property, Move Method Example
+title: Layout event, LayoutEffect property, Move method example
 keywords: fm20.chm5225128
 f1_keywords:
 - fm20.chm5225128
 ms.prod: office
 ms.assetid: c3585b29-d100-89a8-8e64-3afe5dbae8b2
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Layout Event, LayoutEffect Property, Move Method Example
+# Layout event, LayoutEffect property, Move method example
 
-The following example moves a selected control on a form with the  **Move** method, and uses the **Layout** event and **LayoutEffect** property to identify the control that moved (and changed the layout of the **UserForm**). The user clicks a control to move and then clicks the **CommandButton**. A message box displays the name of the control that is moving.
+The following example moves a selected control on a form with the **[Move](move-method.md)** method, and uses the **[Layout](layout-event.md)** event and **[LayoutEffect](layouteffect-property.md)** property to identify the control that moved (and changed the layout of the **[UserForm](userform-window.md)**). 
+
+The user clicks a control to move and then clicks the **[CommandButton](commandbutton-control.md)**. A message box displays the name of the control that is moving.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **TextBox** named TextBox1.
+- A **[TextBox](textbox-control.md)** named TextBox1.    
+- A **[ComboBox](combobox-control.md)** named ComboBox1.    
+- An **[OptionButton](optionbutton-control.md)** named OptionButton1.    
+- A **CommandButton** named CommandButton1.    
+- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
-- A  **ComboBox** named ComboBox1.
-    
-- An  **OptionButton** named OptionButton1.
-    
-- A  **CommandButton** named CommandButton1.
-    
-- A  **ToggleButton** named ToggleButton1.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -77,4 +70,4 @@ Private Sub ToggleButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

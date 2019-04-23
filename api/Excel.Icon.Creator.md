@@ -8,19 +8,20 @@ api_name:
 - Excel.Icon.Creator
 ms.assetid: 5cdaa402-b79a-735e-0413-b48fb037b510
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Icon.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents an [Icon](Excel.Icon.md) object.
+_expression_ A variable that represents an [Icon](Excel.Icon.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Icon Object](Excel.Icon.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

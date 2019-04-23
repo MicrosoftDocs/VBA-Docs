@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 62374921-ae1d-3f56-7ffa-25dea3e3c86e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ An indexed Paradox table has a maximum record length of 1350 bytes. Try reducing
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

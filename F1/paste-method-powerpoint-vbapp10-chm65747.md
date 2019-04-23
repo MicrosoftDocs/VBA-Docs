@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a527630a-b9bc-4d5c-96ef-27ee78b5de62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Series.Paste Method (PowerPoint)](http://msdn.microsoft.com/library/3f74aabb-f9c0-c76d-eaaa-c08c21daef48%28Office.15%29.aspx)
 [Floor.Paste Method (PowerPoint)](http://msdn.microsoft.com/library/60838aa7-39ea-408e-f47a-cb76144dee30%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

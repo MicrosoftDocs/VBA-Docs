@@ -1,5 +1,5 @@
 ---
-title: Range.Revisions Property (Word)
+title: Range.Revisions property (Word)
 keywords: vbawd10.chm157155478
 f1_keywords:
 - vbawd10.chm157155478
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Revisions
 ms.assetid: cf71b684-991a-fb6d-09bc-eeecb16edec5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Revisions Property (Word)
+# Range.Revisions property (Word)
 
 Returns a  **Revisions** collection that represents the tracked changes in the range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Revisions`
+_expression_. `Revisions`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -53,3 +54,4 @@ myRange.Revisions.AcceptAll
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

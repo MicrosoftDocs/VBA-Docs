@@ -1,14 +1,15 @@
 ---
-title: PjSpellingField Enumeration (Project)
+title: PjSpellingField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSpellingField
 ms.assetid: d3fc331d-f24d-84c4-d03c-6fcc06757718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjSpellingField Enumeration (Project)
+# PjSpellingField enumeration (Project)
 
 Contains constants that specify the field for spelling check.
 
@@ -274,3 +275,4 @@ Contains constants that specify the field for spelling check.
 |**pjSpellTaskText8**|188743748|Text8 (Task) field.|
 |**pjSpellTaskText9**|188743749|Text9 (Task) field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

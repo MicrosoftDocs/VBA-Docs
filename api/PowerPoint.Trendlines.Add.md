@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Add Method (PowerPoint)
+title: Trendlines.Add method (PowerPoint)
 keywords: vbapp10.chm65717
 f1_keywords:
 - vbapp10.chm65717
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Trendlines.Add
 ms.assetid: d7bd5d75-233f-bdc7-87a4-297b69031838
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines.Add Method (PowerPoint)
+# Trendlines.Add method (PowerPoint)
 
 Creates a new trendline.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Type_`, `_Order_`, `_Period_`, `_Forward_`, `_Backward_`, `_Intercept_`, `_DisplayEquation_`, `_DisplayRSquared_`, `_Name_` )
+_expression_.**Add**( `_Type_`, `_Order_`, `_Period_`, `_Forward_`, `_Backward_`, `_Intercept_`, `_DisplayEquation_`, `_DisplayRSquared_`, `_Name_` )
 
  _expression_ A variable that represents a '[Trendlines](PowerPoint.Trendlines.md)' object.
 
@@ -73,3 +74,4 @@ End With
 
 [Trendlines Object](PowerPoint.Trendlines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

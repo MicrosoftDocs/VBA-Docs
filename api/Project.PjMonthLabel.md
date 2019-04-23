@@ -1,14 +1,15 @@
 ---
-title: PjMonthLabel Enumeration (Project)
+title: PjMonthLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMonthLabel
 ms.assetid: 5d49cf70-e15e-3734-ae1c-267f5ae0f917
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjMonthLabel Enumeration (Project)
+# PjMonthLabel enumeration (Project)
 
 Contains constants that specify the display format for months in a timescale. The following table shows the months of September and October displayed with different formats.
 
@@ -32,3 +33,4 @@ Contains constants that specify the display format for months in a timescale. Th
 |**pjMonthLabelMonthFromStart_Month_mm**|44|Examples: Month1, Month2 (months from start date of project)|
 |**pjMonthLabelNoDateFormat**|35|No date is displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

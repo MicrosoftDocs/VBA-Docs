@@ -8,19 +8,20 @@ api_name:
 - Excel.Hyperlinks.Creator
 ms.assetid: cba56d55-0e00-ce21-932b-e7520c50c002
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Hyperlinks.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
+_expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Valid Property (Word)
+title: CustomLabel.Valid property (Word)
 keywords: vbawd10.chm152371213
 f1_keywords:
 - vbawd10.chm152371213
@@ -8,17 +8,18 @@ api_name:
 - Word.CustomLabel.Valid
 ms.assetid: dbc744fc-bf6d-bc1e-5cd2-a5dd97619593
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel.Valid Property (Word)
+# CustomLabel.Valid property (Word)
 
- **True** if the various properties (for example, **Height** , **Width** , and **NumberDown**) for the specified custom label work together to produce a valid mailing label. Read-only **Boolean** .
+ **True** if the various properties (for example, **Height**, **Width**, and **NumberDown**) for the specified custom label work together to produce a valid mailing label. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Valid`
+_expression_. `Valid`
 
  _expression_ A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 
@@ -43,3 +44,4 @@ End If
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

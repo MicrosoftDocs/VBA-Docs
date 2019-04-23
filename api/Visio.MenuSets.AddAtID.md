@@ -1,5 +1,5 @@
 ---
-title: MenuSets.AddAtID Method (Visio)
+title: MenuSets.AddAtID method (Visio)
 keywords: vis_sdr.chm13416020
 f1_keywords:
 - vis_sdr.chm13416020
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuSets.AddAtID
 ms.assetid: fab8fb43-961d-e184-0904-b57a036e62ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuSets.AddAtID Method (Visio)
+# MenuSets.AddAtID method (Visio)
 
 Creates a new object with a specified ID in a collection.
 
 
 ## Syntax
 
- _expression_. `AddAtID`( `_lID_` )
+_expression_. `AddAtID`( `_lID_` )
 
  _expression_ A variable that represents a [MenuSets](./Visio.MenuSets.md) object.
 
@@ -43,6 +44,6 @@ MenuSet
 
 The ID corresponds to a window or context menu. If the collection already contains an object at the specified ID, the  **AddAtID** method returns an error.
 
-Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](Visio.visuiobjsets.md)** . Not all collections include an object for every possible ID.
+Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](Visio.visuiobjsets.md)**. Not all collections include an object for every possible ID.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

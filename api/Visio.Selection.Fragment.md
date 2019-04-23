@@ -1,5 +1,5 @@
 ---
-title: Selection.Fragment Method (Visio)
+title: Selection.Fragment method (Visio)
 keywords: vis_sdr.chm11116305
 f1_keywords:
 - vis_sdr.chm11116305
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Fragment
 ms.assetid: e648675f-e60a-6a21-182e-32aa913df335
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Fragment Method (Visio)
+# Selection.Fragment method (Visio)
 
 Breaks selected shapes into smaller shapes.
 
 
 ## Syntax
 
- _expression_. `Fragment`
+_expression_. `Fragment`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -34,4 +35,4 @@ Calling the  **Fragment** method is equivalent to clicking **Fragment** in the M
 
 The original shapes are deleted and there aren't any shapes selected when the operation is complete.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

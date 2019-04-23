@@ -1,5 +1,5 @@
 ---
-title: Document.EmbedTrueTypeFonts Property (Word)
+title: Document.EmbedTrueTypeFonts property (Word)
 keywords: vbawd10.chm158007346
 f1_keywords:
 - vbawd10.chm158007346
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.EmbedTrueTypeFonts
 ms.assetid: ac8fb6a1-584a-2ddb-4216-53e30473ff65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.EmbedTrueTypeFonts Property (Word)
+# Document.EmbedTrueTypeFonts property (Word)
 
- **True** if Microsoft Word embeds TrueType fonts in a document when it is saved. Read/write **Boolean** .
+ **True** if Microsoft Word embeds TrueType fonts in a document when it is saved. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EmbedTrueTypeFonts`
+_expression_. `EmbedTrueTypeFonts`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ temp = ActiveDocument.EmbedTrueTypeFonts
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

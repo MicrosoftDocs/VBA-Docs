@@ -1,5 +1,5 @@
 ---
-title: SharingItem.GetConversation Method (Outlook)
+title: SharingItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3496
 f1_keywords:
 - vbaol11.chm3496
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.GetConversation
 ms.assetid: 20e0b147-b963-3be3-55a2-7075675bb727
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.GetConversation Method (Outlook)
+# SharingItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[SharingItem](Outlook.SharingItem.md)' object.
+_expression_ A variable that represents a '[SharingItem](Outlook.SharingItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

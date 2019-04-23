@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: db1b443a-6136-f7c2-cac2-3fb810b910a5
 ms.date: 11/12/2018
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,5 @@ An unexpected error occurred. The specified code identifies the conditions under
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

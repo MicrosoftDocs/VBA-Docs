@@ -1,5 +1,5 @@
 ---
-title: Range.FormattedText Property (Word)
+title: Range.FormattedText property (Word)
 keywords: vbawd10.chm157155330
 f1_keywords:
 - vbawd10.chm157155330
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.FormattedText
 ms.assetid: 26221da8-e3d7-4da5-f23a-cd678d8ab2f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.FormattedText Property (Word)
+# Range.FormattedText property (Word)
 
 Returns or sets a  **Range** object that includes the formatted text in the specified range or selection. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormattedText`
+_expression_. `FormattedText`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -35,3 +36,4 @@ When you set this property, the text in the range is replaced with formatted tex
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

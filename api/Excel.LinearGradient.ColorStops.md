@@ -8,6 +8,7 @@ api_name:
 - Excel.LinearGradient.ColorStops
 ms.assetid: 99db35d4-f2ae-b1e4-6fed-98e3ecd49cfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[ColorStops](Excel.ColorStops.md)** for the **LinearGradient** ob
 
 ## Syntax
 
- _expression_. `ColorStops`
+_expression_. `ColorStops`
 
- _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ ColorStops
 
 [LinearGradient Object](Excel.LinearGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

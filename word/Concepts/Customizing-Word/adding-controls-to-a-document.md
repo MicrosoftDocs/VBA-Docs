@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 9cf47c7e-c768-0ea9-bbb9-f5a4770eea79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,4 +17,4 @@ You can add  [ActiveX controls](../../../api/overview/Word.md) to a document's d
 
  **Note**  Dragging a control (or a number of "grouped" controls) from the form back to the  **Control Toolbox** creates a template of that control, which can be reused. This is a useful feature for implementing a standard interface for your applications.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

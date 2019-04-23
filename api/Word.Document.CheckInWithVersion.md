@@ -1,5 +1,5 @@
 ---
-title: Document.CheckInWithVersion Method (Word)
+title: Document.CheckInWithVersion method (Word)
 keywords: vbawd10.chm158007797
 f1_keywords:
 - vbawd10.chm158007797
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CheckInWithVersion
 ms.assetid: fc041188-438e-6fab-d096-7883074a6879
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CheckInWithVersion Method (Word)
+# Document.CheckInWithVersion method (Word)
 
 Saves a document to a server from a local computer, and sets the local document to read-only so that it cannot be edited locally.
 
 
 ## Syntax
 
- _expression_. `CheckInWithVersion`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` , `_VersionType_` )
+_expression_. `CheckInWithVersion`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` , `_VersionType_` )
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Saves a document to a server from a local computer, and sets the local document 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Boolean**| **True** to save the document to the server location. The default is **True** .|
+| _SaveChanges_|Optional| **Boolean**| **True** to save the document to the server location. The default is **True**.|
 | _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (applies only if SaveChanges is set to  **True**).|
 | _MakePublic_|Optional| **Boolean**| **True** to allow the user to publish the document after it is checked in.|
 | _VersionType_|Optional| **Variant**|Specifies versioning information for the document. |
@@ -70,3 +71,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

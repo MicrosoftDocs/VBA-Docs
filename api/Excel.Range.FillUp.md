@@ -1,5 +1,5 @@
 ---
-title: Range.FillUp Method (Excel)
+title: Range.FillUp method (Excel)
 keywords: vbaxl10.chm144127
 f1_keywords:
 - vbaxl10.chm144127
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.FillUp
 ms.assetid: 52498f52-95f9-5993-7c44-76cd8b696074
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.FillUp Method (Excel)
+# Range.FillUp method (Excel)
 
 Fills up from the bottom cell or cells in the specified range to the top of the range. The contents and formatting of the cell or cells in the bottom row of a range are copied into the rest of the rows in the range.
 
 
 ## Syntax
 
- _expression_. `FillUp`
+_expression_. `FillUp`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Range("A1:A10").FillUp
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.TimeRefreshed Property (Visio)
+title: DataRecordset.TimeRefreshed property (Visio)
 keywords: vis_sdr.chm16460335
 f1_keywords:
 - vis_sdr.chm16460335
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.TimeRefreshed
 ms.assetid: ebdf1acd-81f9-bd5e-48ba-d34100a8f702
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.TimeRefreshed Property (Visio)
+# DataRecordset.TimeRefreshed property (Visio)
 
 Returns the date and time the data recordset was last refreshed. Read-only.
 
@@ -21,7 +22,7 @@ Returns the date and time the data recordset was last refreshed. Read-only.
 
 ## Syntax
 
- _expression_. `TimeRefreshed`
+_expression_. `TimeRefreshed`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -39,4 +40,4 @@ If you successfully create a data recordset but it fails to retrieve any data fr
 
 The first time you execute a query against a data recordset,  **TimeRefreshed** is set to the time the query is executed. If, subsequently, the **[Refresh](Visio.DataRecordset.Refresh.md)** method is called, **TimeRefreshed** is set to the time the data recordset is refreshed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

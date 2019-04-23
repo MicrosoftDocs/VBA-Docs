@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.DataField
 ms.assetid: d5373236-ba29-301a-2c49-ccda89c69328
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that corresponds to the 
 
 ## Syntax
 
- _expression_. `DataField`
+_expression_. `DataField`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks
 
-This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[XlPivotCellType](Excel.XlPivotCellType.md)** : **xlPivotCellTypeDataField** , **xlPivotCellTypeSubtotal** , or **xlPivotCellTypeGrandTotal** .
+This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[XlPivotCellType](Excel.XlPivotCellType.md)** : **xlPivotCellTypeDataField**, **xlPivotCellTypeSubtotal**, or **xlPivotCellTypeGrandTotal**.
 
 
 ## Example
@@ -53,3 +54,4 @@ End Sub
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

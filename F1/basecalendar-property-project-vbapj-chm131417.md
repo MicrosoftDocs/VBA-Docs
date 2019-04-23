@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fb338237-e3e7-436c-92de-9bd956386971
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline10DurationEstimated Property (Project)](http://msdn.microsoft.com/library/8482cd80-093f-1280-96bc-cd6f0d8af6cc%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

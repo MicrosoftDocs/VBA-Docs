@@ -1,5 +1,5 @@
 ---
-title: ChartData.Activate Method (Word)
+title: ChartData.Activate method (Word)
 keywords: vbawd10.chm190382081
 f1_keywords:
 - vbawd10.chm190382081
@@ -8,24 +8,25 @@ api_name:
 - Word.ChartData.Activate
 ms.assetid: 08f4a657-41c2-52ea-b31c-976549ace8c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartData.Activate Method (Word)
+# ChartData.Activate method (Word)
 
 Activates the first window of the workbook associated with the chart.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
  _expression_ A variable that represents a '[ChartData](Word.ChartData.md)' object.
 
 
 ## Remarks
 
-If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](./Excel.Workbook.RunAutoMacros.md)** method to run those macros).
+If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](Excel.Workbook.RunAutoMacros.md)** method to run those macros).
 
 
  **Note**  You must call this method before referencing the  **[Workbook](Word.ChartData.Workbook.md)** property.
@@ -54,3 +55,4 @@ End With
 
 [ChartData Object](Word.ChartData.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

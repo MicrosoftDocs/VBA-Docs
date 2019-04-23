@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Activate Method (Publisher)
+title: OLEFormat.Activate method (Publisher)
 keywords: vbapb10.chm4456454
 f1_keywords:
 - vbapb10.chm4456454
@@ -8,17 +8,18 @@ api_name:
 - Publisher.OLEFormat.Activate
 ms.assetid: 43c01633-f624-c5ef-ba2c-d1ff62e91ec5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Activate Method (Publisher)
+# OLEFormat.Activate method (Publisher)
 
 Activates a window or OLE object.
 
 
 ## Syntax
 
- _expression_. **Activate**
+_expression_.**Activate**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 
@@ -50,4 +51,4 @@ Set shpSheet = ActiveDocument.Pages(1).Shapes.AddOLEObject (Left:=72, Top:=72, C
 shpSheet.OLEFormat.Activate
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

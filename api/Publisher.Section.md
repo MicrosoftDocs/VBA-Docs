@@ -1,5 +1,5 @@
 ---
-title: Section Object (Publisher)
+title: Section object (Publisher)
 keywords: vbapb10.chm7471103
 f1_keywords:
 - vbapb10.chm7471103
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Section
 ms.assetid: 7e92a8de-ed66-564b-2657-cef0fc2392b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section Object (Publisher)
+# Section object (Publisher)
 
 Represents a Section of a publication or document.
  
@@ -46,7 +47,7 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Section.Delete.md)|
 
@@ -54,7 +55,7 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Section.Application.md)|
 |[ContinueNumbersFromPreviousSection](Publisher.Section.ContinueNumbersFromPreviousSection.md)|
@@ -64,3 +65,4 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 |[ShowHeaderFooterOnFirstPage](Publisher.Section.ShowHeaderFooterOnFirstPage.md)|
 |[StartPageIndex](Publisher.Section.StartPageIndex.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

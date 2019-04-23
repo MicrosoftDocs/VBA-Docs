@@ -3,7 +3,8 @@ title: SignatureSetup members (Office)
 description: Represents the information used to set up a signature packet.
 ms.prod: office
 ms.assetid: 30bec290-276c-6a64-ca46-dc9dd145e3dd
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -14,7 +15,7 @@ Represents the information used to set up a signature packet.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AdditionalXml](../../Office.SignatureSetup.AdditionalXml.md)|Gets or sets any additional XML information added to the signature during setup. Read/write.|
 |[AllowComments](../../Office.SignatureSetup.AllowComments.md)|Gets or sets a **Boolean** value specifying whether the signer can enter comments in the **Sign** dialog box. Read/write.|
@@ -26,6 +27,7 @@ Represents the information used to set up a signature packet.
 |[SignatureProvider](../../Office.SignatureSetup.SignatureProvider.md)|Gets a value identifying an installed signature provider add-in. Read-only.|
 |[SigningInstructions](../../Office.SignatureSetup.SigningInstructions.md)|Gets or sets the instructions for signing the document. Read/write.|
 |[SuggestedSigner](../../Office.SignatureSetup.SuggestedSigner.md)|Gets or sets the name of the principle signer of the document. Read/write.|
-|[SuggestedSignerEmail](../../Office.SignatureSetup.SuggestedSignerEmail.md)|Gets or sets the e-mail address of the signer of the document. Read/write.|
+|[SuggestedSignerEmail](../../Office.SignatureSetup.SuggestedSignerEmail.md)|Gets or sets the email address of the signer of the document. Read/write.|
 |[SuggestedSignerLine2](../../Office.SignatureSetup.SuggestedSignerLine2.md)|Gets or sets the second line of suggested signer information (for example, title). Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

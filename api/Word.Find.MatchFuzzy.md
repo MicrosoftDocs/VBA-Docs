@@ -1,5 +1,5 @@
 ---
-title: Find.MatchFuzzy Property (Word)
+title: Find.MatchFuzzy property (Word)
 keywords: vbawd10.chm162529320
 f1_keywords:
 - vbawd10.chm162529320
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.MatchFuzzy
 ms.assetid: 7f3e2fb7-1485-a945-7161-e4ccc62e25e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.MatchFuzzy Property (Word)
+# Find.MatchFuzzy property (Word)
 
- **True** if Microsoft Word uses the nonspecific search options for Japanese text during a search. Read/write **Boolean** .
+ **True** if Microsoft Word uses the nonspecific search options for Japanese text during a search. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MatchFuzzy`
+_expression_. `MatchFuzzy`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

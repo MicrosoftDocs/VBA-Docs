@@ -1,5 +1,5 @@
 ---
-title: MailMerge.WizardState Property (Publisher)
+title: MailMerge.WizardState property (Publisher)
 keywords: vbapb10.chm6225929
 f1_keywords:
 - vbapb10.chm6225929
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMerge.WizardState
 ms.assetid: a237cb3f-2c03-5f62-fa67-d4aa7703389d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.WizardState Property (Publisher)
+# MailMerge.WizardState property (Publisher)
 
 Returns or sets a  **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
 
 
 ## Syntax
 
- _expression_. **WizardState**
+_expression_.**WizardState**
 
  _expression_ A variable that represents a  **MailMerge** object.
 
@@ -43,4 +44,4 @@ Sub ShowMergeWizard()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

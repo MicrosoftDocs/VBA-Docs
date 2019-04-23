@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowSeriesName Property (Word)
+title: DataLabels.ShowSeriesName property (Word)
 keywords: vbawd10.chm207488998
 f1_keywords:
 - vbawd10.chm207488998
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabels.ShowSeriesName
 ms.assetid: 51064a11-512b-d49d-86c1-1839da0576a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.ShowSeriesName Property (Word)
+# DataLabels.ShowSeriesName property (Word)
 
- **True** to show the series name for the data labels on a chart. **False** to hide the name. Read/write **Boolean** .
+ **True** to show the series name for the data labels on a chart. **False** to hide the name. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowSeriesName`
+_expression_. `ShowSeriesName`
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

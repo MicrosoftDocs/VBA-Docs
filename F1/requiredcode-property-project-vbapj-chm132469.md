@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 377c10bd-2767-45f3-80c0-aa91074ba260
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.PreleveledStart Property (Project)](http://msdn.microsoft.com/library/fad95da3-0112-b023-3b9e-ef587a168a6f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

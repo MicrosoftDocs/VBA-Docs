@@ -1,5 +1,5 @@
 ---
-title: GraphicItem Object (Visio)
+title: GraphicItem object (Visio)
 keywords: vis_sdr.chm61035
 f1_keywords:
 - vis_sdr.chm61035
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItem
 ms.assetid: 80b4b4da-9ed2-dcbc-8f96-70f1b07c2b20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem Object (Visio)
+# GraphicItem object (Visio)
 
 Represents a single component part of a data graphic master (a  **[Master](Visio.Master.md)** object of type **visTypeDataGraphic**) that is responsible for a specific graphical adornment of the master.
 
@@ -21,7 +22,7 @@ Represents a single component part of a data graphic master (a  **[Master](Visio
 
 ## Remarks
 
-The default property of a  **GraphicItem** object is **[ID](Visio.GraphicItem.ID.md)** .
+The default property of a  **GraphicItem** object is **[ID](Visio.GraphicItem.ID.md)**.
 
  **GraphicItem** objects can be of four types:
 
@@ -54,6 +55,6 @@ Use the  **[HorizontalPosition](Visio.GraphicItem.HorizontalPosition.md)** prope
 
 Use the  **[VerticalPosition](Visio.GraphicItem.VerticalPosition.md)** property to get or set thevertical position of the graphic item relative to the shape or selection that it's associated with.
 
-Use the  **[UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)** property to get or set whether a **GraphicItem** object inherits the settings of the **[DataGraphicHorizontalPosition](Visio.Master.DataGraphicHorizontalPosition.md)** and **[DataGraphicVerticalPosition](Visio.Master.DataGraphicVerticalPosition.md)** properties of the data graphic master it belongs to (when set to **True)** , or whether the **GraphicItem** object's own **HorizontalPosition** and **Vertical Position** settings are applied (when set to **False**).
+Use the  **[UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)** property to get or set whether a **GraphicItem** object inherits the settings of the **[DataGraphicHorizontalPosition](Visio.Master.DataGraphicHorizontalPosition.md)** and **[DataGraphicVerticalPosition](Visio.Master.DataGraphicVerticalPosition.md)** properties of the data graphic master it belongs to (when set to **True)**, or whether the **GraphicItem** object's own **HorizontalPosition** and **Vertical Position** settings are applied (when set to **False**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

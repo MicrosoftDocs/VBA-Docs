@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1a07b48c-661e-49e0-b3f4-917ea4ab78e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.SPI Property (Project)](http://msdn.microsoft.com/library/aeb99805-b293-e94c-1c68-b73cafef658b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

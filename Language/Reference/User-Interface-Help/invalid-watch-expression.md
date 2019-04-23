@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0eb4ebd1-e35d-d775-ebb3-1ce131dd81b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The specified [watch expression](../../Glossary/vbe-glossary.md#watch-expression
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

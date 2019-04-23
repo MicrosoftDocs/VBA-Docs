@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 445f37a1-4608-4a70-bf3b-6f031f306e7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BoundObjectFrame.Class property (Access)](http://msdn.microsoft.com/library/0938d124-efd2-63c1-4282-a06fb412185a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

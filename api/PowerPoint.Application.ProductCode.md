@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (PowerPoint)
+title: Application.ProductCode property (PowerPoint)
 keywords: vbapp10.chm502037
 f1_keywords:
 - vbapp10.chm502037
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.ProductCode
 ms.assetid: 27376e9f-47c6-7373-af34-4ce71723e6a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProductCode Property (PowerPoint)
+# Application.ProductCode property (PowerPoint)
 
 Returns the Microsoft PowerPoint globally unique identifier (GUID). Read-only.
 
 
 ## Syntax
 
- _expression_. `ProductCode`
+_expression_. `ProductCode`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -50,3 +51,4 @@ pptGUID = Application.ProductCode
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Pages.ObjectType Property (Visio)
+title: Pages.ObjectType property (Visio)
 keywords: vis_sdr.chm11013960
 f1_keywords:
 - vis_sdr.chm11013960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Pages.ObjectType
 ms.assetid: b36f235d-2c04-8d11-e50a-59c245c2fc0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.ObjectType Property (Visio)
+# Pages.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

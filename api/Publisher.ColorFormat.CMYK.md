@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.CMYK Property (Publisher)
+title: ColorFormat.CMYK property (Publisher)
 keywords: vbapb10.chm2555907
 f1_keywords:
 - vbapb10.chm2555907
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorFormat.CMYK
 ms.assetid: 28d7ad65-c63c-3b11-3ecc-c77a1a586b84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.CMYK Property (Publisher)
+# ColorFormat.CMYK property (Publisher)
 
 Returns a  **ColorCMYK** object that represents CMYK color properties.
 
 
 ## Syntax
 
- _expression_. **CMYK**
+_expression_.**CMYK**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 
@@ -64,4 +65,4 @@ Sub ReturnAndSetCMYK()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

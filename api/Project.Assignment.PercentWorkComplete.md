@@ -1,21 +1,22 @@
 ---
-title: Assignment.PercentWorkComplete Property (Project)
+title: Assignment.PercentWorkComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.PercentWorkComplete
 ms.assetid: 9535e887-e15c-ebd7-c65f-a3e8d80b8f99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.PercentWorkComplete Property (Project)
+# Assignment.PercentWorkComplete property (Project)
 
 Gets or sets the percentage of work complete for an assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PercentWorkComplete`
+_expression_. `PercentWorkComplete`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -54,4 +55,4 @@ Sub MarkTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

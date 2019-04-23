@@ -3,6 +3,7 @@ title: TextBox.HideSelection Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 7d59098a-88c3-8086-f8ee-1d9a090865e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether selected text remains high
 
 ## Syntax
 
- _expression_. **HideSelection**
+_expression_.**HideSelection**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ Returns or sets a  **Boolean** that specifies whether selected text remains high
 
 You can use the  **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

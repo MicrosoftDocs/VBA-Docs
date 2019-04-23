@@ -1,5 +1,5 @@
 ---
-title: Pane.LargeScroll Method (Word)
+title: Pane.LargeScroll method (Word)
 keywords: vbawd10.chm157286502
 f1_keywords:
 - vbawd10.chm157286502
@@ -8,19 +8,20 @@ api_name:
 - Word.Pane.LargeScroll
 ms.assetid: 669093ef-105f-5dc2-19d6-5f8ab11f6d50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.LargeScroll Method (Word)
+# Pane.LargeScroll method (Word)
 
 Scrolls a window or pane by the specified number of screens.
 
 
 ## Syntax
 
- _expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ Any of these arguments can be a negative number. If no arguments are specified, 
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

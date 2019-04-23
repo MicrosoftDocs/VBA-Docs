@@ -1,5 +1,5 @@
 ---
-title: Table.DateFormat Property (Project)
+title: Table.DateFormat property (Project)
 keywords: vbapj.chm132681
 f1_keywords:
 - vbapj.chm132681
@@ -8,17 +8,18 @@ api_name:
 - Project.Table.DateFormat
 ms.assetid: 69e0d08b-698e-8354-a583-b08122762f3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.DateFormat Property (Project)
+# Table.DateFormat property (Project)
 
 Gets or sets the date format of the table. Read/write  **PjDateFormat**.
 
 
 ## Syntax
 
- _expression_. `DateFormat`
+_expression_. `DateFormat`
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
@@ -54,3 +55,4 @@ The  **DateFormat** property can be one of the following **[PjDateFormat](Projec
 |**pjDate_Www_dd**|W41/2|
 |**pjDate_Www_dd_yy_hh_mmAM**|W41/2/02 12:33 PM|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

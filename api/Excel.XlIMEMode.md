@@ -1,14 +1,15 @@
 ---
-title: xlIMEMode enumeration (Excel)
+title: XlIMEMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlIMEMode
 ms.assetid: 846620f7-6d41-5b53-cc5b-1985a95c173d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlIMEMode enumeration (Excel)
+# XlIMEMode enumeration (Excel)
 
 Specifies the description of the Japanese input rules.
 
@@ -28,3 +29,4 @@ Specifies the description of the Japanese input rules.
 | **xlIMEModeOff**|2|Off (English mode).|
 | **xlIMEModeOn**|1|Mode on.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

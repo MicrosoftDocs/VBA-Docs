@@ -1,48 +1,47 @@
 ---
-title: TextRange2.RotatedBounds Method (Office)
+title: TextRange2.RotatedBounds method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.RotatedBounds
 ms.assetid: e8e1b0dc-426f-c804-e91a-8cd5345186de
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextRange2.RotatedBounds Method (Office)
+# TextRange2.RotatedBounds method (Office)
 
 Gets the coordinates of the vertices of the text bounding box for the specified text range. Read-only.
 
 
 ## Syntax
 
- _expression_. `RotatedBounds`( `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_`, `_x4_`, `_y4_` )
+_expression_.**RotatedBounds** (_X1_, _Y1_, _X2_, _Y2_, _X3_, _Y3_, _x4_, _y4_)
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+_expression_ An expression that returns a **[TextRange2](Office.TextRange2.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _X1_|Required|**Single**|Returns the position (in points) of the X coordinate of the first vertex of the bounding box for the text within the specified text range.|
-| _Y1_|Required|**Single**|Returns the position (in points) of the Y coordinate of the first vertex of the bounding box for the text within the specified text range.|
-| _X2_|Required|**Single**|Returns the position (in points) of the X coordinate of the second vertex of the bounding box for the text within the specified text range.|
-| _Y2_|Required|**Single**|Returns the position (in points) of the Y coordinate of the second vertex of the bounding box for the text within the specified text range.|
-| _X3_|Required|**Single**|Returns the position (in points) of the X coordinate of the third vertex of the bounding box for the text within the specified text range.|
-| _Y3_|Required|**Single**|Returns the position (in points) of the Y coordinate of the third vertex of the bounding box for the text within the specified text range.|
-| _x4_|Required|**Single**|Returns the position (in points) of the X coordinate of the fourth vertex of the bounding box for the text within the specified text range.|
-| _y4_|Required|**Single**|Returns the position (in points) of the Y coordinate of the fourth vertex of the bounding box for the text within the specified text range.|
+| _X1_|Required|**Single**|Returns the position (in points) of the _X_ coordinate of the first vertex of the bounding box for the text within the specified text range.|
+| _Y1_|Required|**Single**|Returns the position (in points) of the _Y_ coordinate of the first vertex of the bounding box for the text within the specified text range.|
+| _X2_|Required|**Single**|Returns the position (in points) of the _X_ coordinate of the second vertex of the bounding box for the text within the specified text range.|
+| _Y2_|Required|**Single**|Returns the position (in points) of the _Y_ coordinate of the second vertex of the bounding box for the text within the specified text range.|
+| _X3_|Required|**Single**|Returns the position (in points) of the _X_ coordinate of the third vertex of the bounding box for the text within the specified text range.|
+| _Y3_|Required|**Single**|Returns the position (in points) of the _Y_ coordinate of the third vertex of the bounding box for the text within the specified text range.|
+| _x4_|Required|**Single**|Returns the position (in points) of the _X_ coordinate of the fourth vertex of the bounding box for the text within the specified text range.|
+| _y4_|Required|**Single**|Returns the position (in points) of the _Y_ coordinate of the fourth vertex of the bounding box for the text within the specified text range.|
 
 ## Remarks
 
-The text bounding box is not the same as the  **TextFrame2** object. The **TextFrame2** object represents the container in which the text can reside. The text bounding box represents the perimeter immediately surrounding the text.
+The text bounding box is not the same as the **TextFrame2** object. The **TextFrame2** object represents the container in which the text can reside. The text bounding box represents the perimeter immediately surrounding the text.
 
 
 ## Example
 
-This example uses the values returned by the arguments of the  **RotatedBounds** method to draw a freeform that has the dimensions of the text bounding box for the third word in the text range in shape one on slide one in the active presentation.
+This example uses the values returned by the arguments of the **RotatedBounds** method to draw a freeform that has the dimensions of the text bounding box for the third word in the text range in shape one on slide one in the active presentation.
 
 
 ```vb
@@ -68,10 +67,8 @@ End With
 
 ## See also
 
-
-[TextRange2 Object](Office.TextRange2.md)
-
+- [TextRange2 object members](overview/Library-Reference/textrange2-members-office.md)
 
 
-[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

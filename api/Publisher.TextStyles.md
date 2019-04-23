@@ -1,5 +1,5 @@
 ---
-title: TextStyles Object (Publisher)
+title: TextStyles object (Publisher)
 keywords: vbapb10.chm5963775
 f1_keywords:
 - vbapb10.chm5963775
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TextStyles
 ms.assetid: 8a250160-0400-62e7-8301-5a5743fb2485
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyles Object (Publisher)
+# TextStyles object (Publisher)
 
 A collection of  **[TextStyle](Publisher.TextStyle.md)** objects that represent both the built-in and user-defined styles in a document.
  
@@ -80,7 +81,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.TextStyles.Add.md)|
 |[Item](Publisher.TextStyles.Item.md)|
@@ -89,9 +90,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.TextStyles.Application.md)|
 |[Count](Publisher.TextStyles.Count.md)|
 |[Parent](Publisher.TextStyles.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ecd78eb7-2ccf-29c3-00c2-641c1f5a4c78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that represents the current horizontal position of t
 
 ## Syntax
 
- _expression_. **CurX**
+_expression_.**CurX**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ The  **CurX** property applies to a multiline **ComboBox**. The return value is 
 
 You can use  **[CurTargetX](Outlook.combobox.curtargetx.md)** and **CurX** to position the insertion point as the user scrolls through the contents of a multiline **ComboBox**. When the user moves the insertion point to another line of text by scrolling the content of the object,  **CurTargetX** specifies the preferred position for the insertion point. **CurX** is set to this value if the line of text is longer than the value of **CurTargetX**. Otherwise,  **CurX** is set to the end of the line of text.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

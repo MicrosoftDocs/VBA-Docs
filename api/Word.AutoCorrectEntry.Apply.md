@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.Apply Method (Word)
+title: AutoCorrectEntry.Apply method (Word)
 keywords: vbawd10.chm155648102
 f1_keywords:
 - vbawd10.chm155648102
@@ -8,19 +8,20 @@ api_name:
 - Word.AutoCorrectEntry.Apply
 ms.assetid: 9427d4a3-e955-7fc6-eec2-d4580e95b13f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrectEntry.Apply Method (Word)
+# AutoCorrectEntry.Apply method (Word)
 
 Replaces a range with the value of the specified AutoCorrect entry.
 
 
 ## Syntax
 
- _expression_. `Apply`( `_Range_` )
+_expression_.**Apply** (_Range_)
 
- _expression_ Required. A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
+_expression_ Required. A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ AutoCorrect.Entries("sr").Apply ActiveDocument.Words(1)
 
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

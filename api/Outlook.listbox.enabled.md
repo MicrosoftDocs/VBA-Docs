@@ -3,6 +3,7 @@ title: ListBox.Enabled Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: e1c27c6c-147a-08ab-9d63-cfb6655e6386
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 ## Syntax
 
- _expression_. **Enabled**
+_expression_.**Enabled**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -39,4 +40,4 @@ The  **Enabled** and **[Locked](Outlook.listbox.locked.md)** properties work tog
 
 Clicking a disabled  **[ListBox](Outlook.listbox.md)** does not initiate the **[Click](Outlook.listbox.click.md)** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

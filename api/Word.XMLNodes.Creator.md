@@ -1,5 +1,5 @@
 ---
-title: XMLNodes.Creator Property (Word)
+title: XMLNodes.Creator property (Word)
 keywords: vbawd10.chm255984617
 f1_keywords:
 - vbawd10.chm255984617
@@ -8,19 +8,20 @@ api_name:
 - Word.XMLNodes.Creator
 ms.assetid: 4e4a0dff-e6bb-3074-348e-4b6e80ce4a74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNodes.Creator Property (Word)
+# XMLNodes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[XMLNodes](Word.XMLNodes.md)' collection.
+_expression_ Required. A variable that represents a '[XMLNodes](Word.XMLNodes.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [XMLNodes Collection](Word.XMLNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

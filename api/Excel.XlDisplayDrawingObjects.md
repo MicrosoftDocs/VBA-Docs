@@ -1,14 +1,15 @@
 ---
-title: xlDisplayDrawingObjects enumeration (Excel)
+title: XlDisplayDrawingObjects enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDisplayDrawingObjects
 ms.assetid: 7b7b8ef6-8cd9-db48-661f-877ed47e57f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDisplayDrawingObjects enumeration (Excel)
+# XlDisplayDrawingObjects enumeration (Excel)
 
 Specifies how shapes are displayed.
 
@@ -20,3 +21,4 @@ Specifies how shapes are displayed.
 | **xlHide**|3|Hide all shapes.|
 | **xlPlaceholders**|2|Show only placeholders.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Import Outlook Contacts to a Worksheet
 ms.prod: excel
 ms.assetid: f45979f9-0a3a-4c58-b1fe-ac9d33a2984d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -48,7 +49,7 @@ Sub Import_Contacts()
         .Cells(1, 3).Value = "Postal Code"
         .Cells(1, 4).Value = "City"
         .Cells(1, 5).Value = "Contact Person"
-        .Cells(1, 6).Value = "E-mail"
+        .Cells(1, 6).Value = "Email"
         With .Range("A1:F1")
             .Font.Bold = True
             .Font.ColorIndex = 10
@@ -58,7 +59,7 @@ Sub Import_Contacts()
     
     wsSheet.Activate
     
-    'Initalize the Outlook variables with the MAPI namespace and the default Outlook folder of the current user.
+    'Initialize the Outlook variables with the MAPI namespace and the default Outlook folder of the current user.
     Set olApp = New Outlook.Application
     Set olNamespace = olApp.GetNamespace("MAPI")
     Set olFolder = olNamespace.GetDefaultFolder(10)
@@ -120,6 +121,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes Object (Publisher)
+title: CatalogMergeShapes object (Publisher)
 keywords: vbapb10.chm8454143
 f1_keywords:
 - vbapb10.chm8454143
@@ -8,10 +8,11 @@ api_name:
 - Publisher.CatalogMergeShapes
 ms.assetid: 1108e9a4-57ef-2b1a-0998-54b6fad838da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes Object (Publisher)
+# CatalogMergeShapes object (Publisher)
 
 Represents the shapes contained in the catalog merge area of the specified publication.
  
@@ -27,7 +28,7 @@ Shapes inside the catalog merge area are automatically resized or repositioned i
  
 
  
-The catalog merge area can contain picture and text data fields you have inserted, in addtion to other design elements you choose. 
+The catalog merge area can contain picture and text data fields you have inserted, in addition to other design elements you choose. 
  
 
  
@@ -131,7 +132,7 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.CatalogMergeShapes.Item.md)|
 |[Range](Publisher.CatalogMergeShapes.Range.md)|
@@ -140,7 +141,7 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CatalogMergeShapes.Application.md)|
 |[Count](Publisher.CatalogMergeShapes.Count.md)|
@@ -148,3 +149,4 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 |[Parent](Publisher.CatalogMergeShapes.Parent.md)|
 |[VerticalRepeat](Publisher.CatalogMergeShapes.VerticalRepeat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

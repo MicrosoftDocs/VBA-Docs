@@ -1,21 +1,22 @@
 ---
-title: Task.Priority Property (Project)
+title: Task.Priority property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Priority
 ms.assetid: 8680e903-a03e-cf83-70e7-fc856297dae2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Priority Property (Project)
+# Task.Priority property (Project)
 
 Gets or sets the priority for the task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_.**Priority**
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -63,4 +64,4 @@ Sub SetPriorityOfCriticalTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

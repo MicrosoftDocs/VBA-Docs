@@ -1,37 +1,33 @@
 ---
-title: DblClick Event, CanPaste Property, Paste, Copy Methods Example
+title: DblClick event, CanPaste property, Paste, Copy methods example
 keywords: fm20.chm5225167
 f1_keywords:
 - fm20.chm5225167
 ms.prod: office
 ms.assetid: 318cfadf-5e97-0a42-5491-0dbbe077efd4
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# DblClick Event, CanPaste Property, Paste, Copy Methods Example
+# DblClick event, CanPaste property, Paste, Copy methods example
 
-The following example uses the  **CanPaste** property and the **Paste** method to paste a **ComboBox** from the Clipboard to a **Page** of a **MultiPage**. This sample also uses the **SetFocus** and **Copy** methods to copy a control from the form to the Clipboard.
+The following example uses the **[CanPaste](canpaste-property.md)** property and the **[Paste](paste-method-microsoft-forms.md)** method to paste a **[ComboBox](combobox-control.md)** from the Clipboard to a **[Page](page-object.md)** of a **[MultiPage](multipage-control.md)**. 
 
-The user clicks CommandButton1 to copy the  **ComboBox** to the Clipboard. The user double-clicks (using the DblClick event) CommandButton1 to paste the **ComboBox** to the **MultiPage**.
+This sample also uses the **[SetFocus](setfocus-method.md)** and **[Copy](copy-method-microsoft-forms.md)** methods to copy a control from the form to the Clipboard.
+
+The user clicks CommandButton1 to copy the **ComboBox** to the Clipboard. The user double-clicks (using the DblClick event) CommandButton1 to paste the **ComboBox** to the **MultiPage**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- A  **TextBox** named TextBox1.
-    
-- A  **ComboBox** named ComboBox1.
-    
-- A  **MultiPage** named MultiPage1.
-    
-- A  **CommandButton** named CommandButton1.
+- A **[TextBox](textbox-control.md)** named TextBox1.   
+- A **ComboBox** named ComboBox1.    
+- A **MultiPage** named MultiPage1.    
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 
-
- **Note**  This example also includes a subroutine to illustrate pasting text into a control.
-
-
+> [!NOTE] 
+> This example also includes a subroutine to illustrate pasting text into a control.
 
 
 ```vb
@@ -70,4 +66,4 @@ End Sub
 'End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

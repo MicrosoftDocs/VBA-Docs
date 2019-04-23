@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PageWidth Property (Publisher)
+title: PageSetup.PageWidth property (Publisher)
 keywords: vbapb10.chm6946822
 f1_keywords:
 - vbapb10.chm6946822
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PageSetup.PageWidth
 ms.assetid: 547f2881-d9fa-fa5f-1643-ab08084fb423
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.PageWidth Property (Publisher)
+# PageSetup.PageWidth property (Publisher)
 
 Returns or sets a  **Variant** that represents the width of the pages in a publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageWidth**
+_expression_.**PageWidth**
 
  _expression_ A variable that represents a  **PageSetup** object.
 
@@ -44,4 +45,4 @@ Public Sub PageWidth_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

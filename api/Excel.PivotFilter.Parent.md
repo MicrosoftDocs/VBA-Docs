@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilter.Parent
 ms.assetid: 9e121b88-7c41-93fa-8019-e744a5701de3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified  **PivotFilter** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified  **PivotFilter** object. Read-only.
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.BrazilReform Property (Word)
+title: Options.BrazilReform property (Word)
 keywords: vbawd10.chm162988534
 f1_keywords:
 - vbawd10.chm162988534
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.BrazilReform
 ms.assetid: aaab4a4b-bf22-7447-8056-4c05c1bddae4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.BrazilReform Property (Word)
+# Options.BrazilReform property (Word)
 
 Returns or sets the mode for the Brazilian Portuguese speller. Read/write [WdPortugueseReform](Word.WdPortugueseReform.md).
 
 
 ## Syntax
 
- _expression_. `BrazilReform`
+_expression_. `BrazilReform`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -36,3 +37,4 @@ Setting this property has the same effect as selecting an item in the dropdown b
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

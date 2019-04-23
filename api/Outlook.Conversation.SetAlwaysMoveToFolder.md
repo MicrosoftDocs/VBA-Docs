@@ -1,5 +1,5 @@
 ---
-title: Conversation.SetAlwaysMoveToFolder Method (Outlook)
+title: Conversation.SetAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3430
 f1_keywords:
 - vbaol11.chm3430
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.SetAlwaysMoveToFolder
 ms.assetid: 52658b6d-c22c-a0e4-3743-4fe742bfbf9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.SetAlwaysMoveToFolder Method (Outlook)
+# Conversation.SetAlwaysMoveToFolder method (Outlook)
 
 Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
 
 
 ## Syntax
 
- _expression_. `SetAlwaysMoveToFolder`( `_MoveToFolder_` , `_Store_` )
+_expression_. `SetAlwaysMoveToFolder`( `_MoveToFolder_` , `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -43,9 +44,9 @@ To stop the always-move-to-folder action for conversations items in a store, cal
 
 
 
- **Note**  Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method returning the value **olDoNotDelete** .
+ **Note**  Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method returning the value **olDoNotDelete**.
 
-The  **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder** .
+The  **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder**.
 
 
 ## Example
@@ -81,3 +82,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

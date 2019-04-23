@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Index
 ms.assetid: 970065b3-f9bd-d518-261a-f5f704c350df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the index number of the object within 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End Sub
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

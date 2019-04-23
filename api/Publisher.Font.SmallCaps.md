@@ -1,5 +1,5 @@
 ---
-title: Font.SmallCaps Property (Publisher)
+title: Font.SmallCaps property (Publisher)
 keywords: vbapb10.chm5373971
 f1_keywords:
 - vbapb10.chm5373971
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.SmallCaps
 ms.assetid: ab50b850-f371-7d8e-0c19-00ad68e700f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.SmallCaps Property (Publisher)
+# Font.SmallCaps property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as small caps. Read/write.
 
 
 ## Syntax
 
- _expression_. **SmallCaps**
+_expression_.**SmallCaps**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -34,7 +35,7 @@ The  **SmallCaps** property value can be one of the **MsoTriState** constants de
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as small caps.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -66,4 +67,4 @@ Sub SmallCap()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

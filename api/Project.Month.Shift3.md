@@ -1,21 +1,22 @@
 ---
-title: Month.Shift3 Property (Project)
+title: Month.Shift3 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Shift3
 ms.assetid: a7329e45-c9e0-0e70-0ead-3a3f914ed352
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Month.Shift3 Property (Project)
+# Month.Shift3 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the third work shift in a month. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift3`
+_expression_. `Shift3`
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 
@@ -38,4 +39,4 @@ Sub HalfDayFridays()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

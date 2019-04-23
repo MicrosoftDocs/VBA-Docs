@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Session Property (Outlook)
+title: SharingItem.Session property (Outlook)
 keywords: vbaol11.chm595
 f1_keywords:
 - vbaol11.chm595
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.Session
 ms.assetid: 0563b8e1-6b5b-2c1f-9cc7-3c69ccb80346
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.Session Property (Outlook)
+# SharingItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

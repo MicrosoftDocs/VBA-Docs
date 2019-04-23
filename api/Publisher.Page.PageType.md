@@ -1,5 +1,5 @@
 ---
-title: Page.PageType Property (Publisher)
+title: Page.PageType property (Publisher)
 keywords: vbapb10.chm393221
 f1_keywords:
 - vbapb10.chm393221
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.PageType
 ms.assetid: 0bb34de5-ac3e-386c-3b9f-814a476c9695
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.PageType Property (Publisher)
+# Page.PageType property (Publisher)
 
 Returns a  **PbPageType** constant that represents the page type. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageType**
+_expression_.**PageType**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -59,4 +60,4 @@ Sub GetPageType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

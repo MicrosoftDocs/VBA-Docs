@@ -1,5 +1,5 @@
 ---
-title: Application.DocMove Method (Project)
+title: Application.DocMove method (Project)
 keywords: vbapj.chm2015
 f1_keywords:
 - vbapj.chm2015
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DocMove
 ms.assetid: defa6ea7-5d1a-d3c4-6486-39192d1da99c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocMove Method (Project)
+# Application.DocMove method (Project)
 
 Moves the active window within the application window.
 
 
 ## Syntax
 
- _expression_. `DocMove`( ` _XPosition_`, ` _YPosition_`, ` _Points_` )
+_expression_. `DocMove`( `_XPosition_`, `_YPosition_`, `_Points_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ Sub MoveProjectWindowToCorner()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Identify the Global Address List or a Set of Address Lists with a Store
 ms.prod: outlook
 ms.assetid: 2cca6dc2-883d-b8cf-cd60-98614d2fb673
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -59,7 +60,7 @@ public Outlook.AddressList GetGlobalAddressList(Outlook.Store store)
         throw new ArgumentNullException(); 
     } 
  
-    // Obtain the store UID using the proprety string and  
+    // Obtain the store UID using the property string and  
     // property accessor on the store. 
     Outlook.PropertyAccessor oPAStore = store.PropertyAccessor; 
  
@@ -165,4 +166,4 @@ public List<Outlook.AddressList> GetAddressLists(Outlook.Store store)
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

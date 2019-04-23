@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.FormatResultEx Method (Visio)
+title: InvisibleApp.FormatResultEx method (Visio)
 keywords: vis_sdr.chm17551375
 f1_keywords:
 - vis_sdr.chm17551375
@@ -8,10 +8,11 @@ api_name:
 - Visio.InvisibleApp.FormatResultEx
 ms.assetid: 8a6fe08f-06f2-f9d5-5699-aa40fec6bde8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.FormatResultEx Method (Visio)
+# InvisibleApp.FormatResultEx method (Visio)
 
 Formats a string or number into a string according to a format picture, using specified units for scaling and formatting. Optionally, for date or time strings, sets the language and calendar type of the string.
 
@@ -80,7 +81,7 @@ The _CalendarID_ argument should be one of the following values, which are decla
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCalWestern**|0|Western|
 | **visCalArabicHijri**|1|Arabic Hijiri|
@@ -112,4 +113,4 @@ Public Sub FormatResultEx_Example
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

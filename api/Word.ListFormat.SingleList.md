@@ -1,5 +1,5 @@
 ---
-title: ListFormat.SingleList Property (Word)
+title: ListFormat.SingleList property (Word)
 keywords: vbawd10.chm163577928
 f1_keywords:
 - vbawd10.chm163577928
@@ -8,17 +8,18 @@ api_name:
 - Word.ListFormat.SingleList
 ms.assetid: b2ec4d04-bc2b-b369-b213-f7e25ca894a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.SingleList Property (Word)
+# ListFormat.SingleList property (Word)
 
- **True** if the specified **ListFormat** object contains only one list. Read-only **Boolean** .
+ **True** if the specified **ListFormat** object contains only one list. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SingleList`
+_expression_. `SingleList`
 
  _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
@@ -41,3 +42,4 @@ End If
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraph.SpaceBeforeAuto Property (Word)
+title: Paragraph.SpaceBeforeAuto property (Word)
 keywords: vbawd10.chm156696708
 f1_keywords:
 - vbawd10.chm156696708
@@ -8,26 +8,27 @@ api_name:
 - Word.Paragraph.SpaceBeforeAuto
 ms.assetid: 4c69088a-fcc2-ee0f-dfb5-74491d0b1737
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.SpaceBeforeAuto Property (Word)
+# Paragraph.SpaceBeforeAuto property (Word)
 
- **True** if Microsoft Word automatically sets the amount of spacing before the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word automatically sets the amount of spacing before the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `SpaceBeforeAuto`
+_expression_. `SpaceBeforeAuto`
 
  _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
 
-This property returns  **wdUndefined** if the **SpaceBeforeAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False** .
+This property returns  **wdUndefined** if the **SpaceBeforeAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
 
-If  **SpaceBeforeAuto** is set to **True** , the **SpaceBefore** property is ignored.
+If  **SpaceBeforeAuto** is set to **True**, the **SpaceBefore** property is ignored.
 
 
 ## Example
@@ -56,3 +57,4 @@ End Select
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

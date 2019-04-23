@@ -1,5 +1,5 @@
 ---
-title: Workbook.ChangeLink Method (Excel)
+title: Workbook.ChangeLink method (Excel)
 keywords: vbaxl10.chm199083
 f1_keywords:
 - vbaxl10.chm199083
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.ChangeLink
 ms.assetid: 9b2c0b82-73ff-3bdb-63df-82c0708cb703
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.ChangeLink Method (Excel)
+# Workbook.ChangeLink method (Excel)
 
 Changes a link from one document to another.
 
 
 ## Syntax
 
- _expression_. `ChangeLink`( `_Name_` , `_NewName_` , `_Type_` )
+_expression_. `ChangeLink`( `_Name_` , `_NewName_` , `_Type_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ ActiveWorkbook.ChangeLink "c:\excel\book1.xls", _
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.TransitionFormEntry
 ms.assetid: ec17c4db-d94e-2fd9-39eb-7c1e0ea40a49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.TransitionFormEntry property (Excel)
 
- **True** if Microsoft Excel uses Lotus 1-2-3 formula entry rules for the worksheet. Read/write **Boolean** .
+**True** if Microsoft Excel uses Lotus 1-2-3 formula entry rules for the worksheet. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TransitionFormEntry`
+_expression_. `TransitionFormEntry`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").TransitionFormEntry = True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Printer.PrintableRect Property (Publisher)
+title: Printer.PrintableRect property (Publisher)
 keywords: vbapb10.chm8978450
 f1_keywords:
 - vbapb10.chm8978450
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Printer.PrintableRect
 ms.assetid: 9d5b8264-9213-3d89-0613-421a4872c158
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Printer.PrintableRect Property (Publisher)
+# Printer.PrintableRect property (Publisher)
 
 Returns a  **[PrintableRect](Publisher.PrintableRect.md)** object that represents the printer sheet area within which the specified printer will print. Read-only.
 
 
 ## Syntax
 
- _expression_. **PrintableRect**
+_expression_.**PrintableRect**
 
  _expression_ A variable that represents a  **Printer** object.
 
@@ -66,4 +67,4 @@ Public Sub PrintableRect_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.Rows Property (Word)
+title: Selection.Rows property (Word)
 keywords: vbawd10.chm158662959
 f1_keywords:
 - vbawd10.chm158662959
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Rows
 ms.assetid: 800edca7-fc0f-ed73-ae3a-400eadcccf8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Rows Property (Word)
+# Selection.Rows property (Word)
 
 Returns a  **[Rows](Word.rows.md)** collection that represents all the table rows in a range, selection, or table. Read-only.
 
 
 ## Syntax
 
- _expression_. `Rows`
+_expression_. `Rows`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

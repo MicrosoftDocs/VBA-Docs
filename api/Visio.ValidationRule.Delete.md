@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Delete Method (Visio)
+title: ValidationRule.Delete method (Visio)
 keywords: vis_sdr.chm18416165
 f1_keywords:
 - vis_sdr.chm18416165
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRule.Delete
 ms.assetid: 3727bddb-57b9-23c3-d12d-f47d43260087
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRule.Delete Method (Visio)
+# ValidationRule.Delete method (Visio)
 
 Deletes the  **[ValidationRule](Visio.ValidationRule.md)** object from the document.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
 
@@ -61,4 +62,4 @@ Public Sub Delete_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

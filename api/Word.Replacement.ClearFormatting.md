@@ -1,5 +1,5 @@
 ---
-title: Replacement.ClearFormatting Method (Word)
+title: Replacement.ClearFormatting method (Word)
 keywords: vbawd10.chm162594836
 f1_keywords:
 - vbawd10.chm162594836
@@ -8,17 +8,18 @@ api_name:
 - Word.Replacement.ClearFormatting
 ms.assetid: 3229f741-91f0-1175-5652-96047547d811
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Replacement.ClearFormatting Method (Word)
+# Replacement.ClearFormatting method (Word)
 
 Removes text and paragraph formatting from the text specified in a replace operation.
 
 
 ## Syntax
 
- _expression_. `ClearFormatting`
+_expression_.**ClearFormatting**
 
  _expression_ A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
@@ -48,3 +49,4 @@ End Sub
 
 [Replacement Object](Word.Replacement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

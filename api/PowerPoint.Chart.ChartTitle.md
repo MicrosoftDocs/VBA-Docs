@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartTitle Property (PowerPoint)
+title: Chart.ChartTitle property (PowerPoint)
 keywords: vbapp10.chm684019
 f1_keywords:
 - vbapp10.chm684019
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.ChartTitle
 ms.assetid: 0b03a4d7-ce86-dc24-d65e-5f9b5f088e11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartTitle Property (PowerPoint)
+# Chart.ChartTitle property (PowerPoint)
 
 Returns the title of the specified chart. Read-only  **[ChartTitle](PowerPoint.ChartTitle.md)**.
 
 
 ## Syntax
 
- _expression_. `ChartTitle`
+_expression_. `ChartTitle`
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

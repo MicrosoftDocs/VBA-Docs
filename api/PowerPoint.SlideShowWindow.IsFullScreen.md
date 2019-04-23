@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.IsFullScreen Property (PowerPoint)
+title: SlideShowWindow.IsFullScreen property (PowerPoint)
 keywords: vbapp10.chm507005
 f1_keywords:
 - vbapp10.chm507005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowWindow.IsFullScreen
 ms.assetid: 1ba5d587-8ea3-b243-efdb-83e47acfc894
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindow.IsFullScreen Property (PowerPoint)
+# SlideShowWindow.IsFullScreen property (PowerPoint)
 
 Returns whether the specified slide show window occupies the entire screen. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsFullScreen`
+_expression_. `IsFullScreen`
 
  _expression_ A variable that represents an [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **IsFullScreen** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide show window does not occupy the entire screen. |
 |**msoTrue**| The specified slide show window occupies the entire screen.|
@@ -62,3 +63,4 @@ End With
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Column Property (PowerPoint)
+title: TextFrame2.Column property (PowerPoint)
 keywords: vbapp10.chm678017
 f1_keywords:
 - vbapp10.chm678017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame2.Column
 ms.assetid: d265fd2c-1e96-984d-9b2c-0a792cbf7671
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.Column Property (PowerPoint)
+# TextFrame2.Column property (PowerPoint)
 
 Returns the  **[Column](PowerPoint.Column.md)** object that represents the columns of the specified text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. `Column`
+_expression_. `Column`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -42,3 +43,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

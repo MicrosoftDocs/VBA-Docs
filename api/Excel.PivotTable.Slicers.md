@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.Slicers
 ms.assetid: d87bfcf0-8989-e9f4-5bc3-fb7cdf681e86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[Slicers](Excel.Slicers.md)** collection for the specified PivotT
 
 ## Syntax
 
- _expression_. `Slicers`
+_expression_. `Slicers`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Slicers can be used to filter data in PivotTable reports. The  **Slicers** colle
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

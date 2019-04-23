@@ -1,5 +1,5 @@
 ---
-title: Row.Next Property (Word)
+title: Row.Next property (Word)
 keywords: vbawd10.chm156237928
 f1_keywords:
 - vbawd10.chm156237928
@@ -8,17 +8,18 @@ api_name:
 - Word.Row.Next
 ms.assetid: d74be2bd-5b12-8478-1a09-744571b0bd66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Next Property (Word)
+# Row.Next property (Word)
 
 Returns a  **Row** object that represents the table row that is next in the collection of rows in a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[Row](Word.Row.md)' object.
 
@@ -40,3 +41,4 @@ End If
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

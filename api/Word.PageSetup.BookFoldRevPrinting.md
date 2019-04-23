@@ -1,5 +1,5 @@
 ---
-title: PageSetup.BookFoldRevPrinting Property (Word)
+title: PageSetup.BookFoldRevPrinting property (Word)
 keywords: vbawd10.chm158401736
 f1_keywords:
 - vbawd10.chm158401736
@@ -8,17 +8,18 @@ api_name:
 - Word.PageSetup.BookFoldRevPrinting
 ms.assetid: 3d6db95a-1c2d-424f-f704-ed7d1c05895c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.BookFoldRevPrinting Property (Word)
+# PageSetup.BookFoldRevPrinting property (Word)
 
- **True** for Microsoft Word to reverse the printing order for book fold printing of bidirectional or Asian language documents. Read/write **Boolean** .
+ **True** for Microsoft Word to reverse the printing order for book fold printing of bidirectional or Asian language documents. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BookFoldRevPrinting`
+_expression_. `BookFoldRevPrinting`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 
@@ -43,3 +44,4 @@ End Sub
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

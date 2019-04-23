@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 2a443602-40f7-6f56-0626-479fcd0efd38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies whether a control has vertical sc
 
 ## Syntax
 
- _expression_. **ScrollBars**
+_expression_.**ScrollBars**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **ScrollBars** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays no scroll bars (default).|
 |1|Displays a horizontal scroll bar.|
@@ -40,4 +41,4 @@ If visible, a scroll bar constrains its scroll box to the visible region of the 
 
 If a scroll bar is not visible, then you can set its scroll position to any value. Negative values and values greater than the scroll size are both valid.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.GetCrossReferenceItems Method (Word)
+title: Document.GetCrossReferenceItems method (Word)
 keywords: vbawd10.chm158007443
 f1_keywords:
 - vbawd10.chm158007443
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.GetCrossReferenceItems
 ms.assetid: 380e3019-2574-f50b-d871-dcebb564b06e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.GetCrossReferenceItems Method (Word)
+# Document.GetCrossReferenceItems method (Word)
 
 Returns an array of items that can be cross-referenced based on the specified cross-reference type.
 
 
 ## Syntax
 
- _expression_. `GetCrossReferenceItems`( `_ReferenceType_` )
+_expression_. `GetCrossReferenceItems`( `_ReferenceType_` )
 
- _expression_ An expression that represents a '[Document](Word.Document.md)' object.
+ _expression_ An expression that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -73,3 +74,4 @@ Next i
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

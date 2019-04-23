@@ -3,6 +3,7 @@ title: Office Fluent UI Extensibility
 ms.prod: outlook
 ms.assetid: 362129ef-9ff2-48f6-a5ee-d899939aea34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,5 +25,5 @@ ms.date: 06/08/2017
 -  [Overview of the IRibbonUI Object](../../How-to/Office-Fluent-UI-Extensibility/overview-of-the-iribbonui-object.md)
     
 -  [Overview of the IRibbonControl Object](../../How-to/Office-Fluent-UI-Extensibility/overview-of-the-iribboncontrol-object.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

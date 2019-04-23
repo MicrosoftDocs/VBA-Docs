@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.AddItem Method (Outlook)
+title: OlkListBox.AddItem method (Outlook)
 keywords: vbaol11.chm1000276
 f1_keywords:
 - vbaol11.chm1000276
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkListBox.AddItem
 ms.assetid: 0249eacc-746a-52bd-dcd3-fd25c96a5512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkListBox.AddItem Method (Outlook)
+# OlkListBox.AddItem method (Outlook)
 
 Adds an item to the list, optionally specifying an index for the new item to appear in the list.
 
 
 ## Syntax
 
- _expression_. `AddItem`( `_ItemText_` , `_Index_` )
+_expression_. `AddItem`( `_ItemText_` , `_Index_` )
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ If the value of  _Index_ is equal to or larger than the number of elements in th
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdBorderType Enumeration (Word)
+title: WdBorderType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBorderType
 ms.assetid: 7d62d139-430b-0dea-aa7f-31d1b4fee10d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdBorderType Enumeration (Word)
+# WdBorderType enumeration (Word)
 
 Specifies the type of border to be used.
 
@@ -25,3 +26,4 @@ Specifies the type of border to be used.
 | **wdBorderTop**|-1|A top border.|
 | **wdBorderVertical**|-6|Vertical borders.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

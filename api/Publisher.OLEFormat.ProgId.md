@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ProgId Property (Publisher)
+title: OLEFormat.ProgId property (Publisher)
 keywords: vbapb10.chm4456452
 f1_keywords:
 - vbapb10.chm4456452
@@ -8,17 +8,18 @@ api_name:
 - Publisher.OLEFormat.ProgId
 ms.assetid: dae7e591-65d2-b956-e598-8746955c4182
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.ProgId Property (Publisher)
+# OLEFormat.ProgId property (Publisher)
 
 Returns a  **String** that represents the programmatic identifier (ProgID) for the specified OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **ProgId**
+_expression_.**ProgId**
 
  _expression_ A variable that represents an  **OLEFormat** object.
 
@@ -46,4 +47,4 @@ Sub UpdateLinkedOLEObject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

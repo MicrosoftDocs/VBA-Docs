@@ -7,6 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5bca25c0-cd00-140f-79b8-80cd2d0c190b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,17 +19,17 @@ Identifies tables in any external database to which the Microsoft Access databas
 
 ## Syntax
 
-**To identify a destination table**:
+**To identify a destination table**
 
 [SELECT | INSERT] INTO  _destination_ IN { _path_ | [" _path_ " " _type_ "] | ["" [ _type_; DATABASE = _path_ ]]}
 
-**To identify a source table**:
+**To identify a source table**
 
 FROM  _tableexpression_ IN { _path_ | [" _path_ " " _type_ "] | ["" [ _type_; DATABASE = _path_ ]]}
 
 A SELECT statement containing an IN clause has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _destination_|The name of the external table into which data is inserted.|
 | _tableexpression_|The name of the table or tables from which data is retrieved. This argument can be a single table name, a saved query, or a compound resulting from an [INNER JOIN](https://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN](https://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx), or [RIGHT JOIN](https://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
@@ -56,7 +57,7 @@ You can also use the DATABASE reserved word to specify the external database. Fo
 
 The following example shows how you can use the IN clause to retrieve data from an external database. In each example, assume the hypothetical Customers table is stored in an external database.
 
-#### Microsoft Access database engine database
+### Microsoft Access database engine database
 
 ```sql
 SELECT CustomerID
@@ -65,7 +66,7 @@ IN OtherDB.mdb
 WHERE CustomerID Like "A*";
 ```
 
-#### dBASE III or IV
+### dBASE III or IV
 
 To retrieve data from a dBASE III table, substitute "dBASE III;" for "dBASE IV;".
 
@@ -76,7 +77,7 @@ IN "C:\DBASE\DATA\SALES" "dBASE IV;"
 WHERE CustomerID Like "A*";
 ```
 
-#### dBASE III or IV using database syntax
+### dBASE III or IV using database syntax
 
 ```sql
 SELECT CustomerID
@@ -85,7 +86,7 @@ IN "" [dBASE IV; Database=C:\DBASE\DATA\SALES;]
 WHERE CustomerID Like "A*";
 ```
 
-#### Paradox 3.x or 4.x
+### Paradox 3.x or 4.x
 
 To retrieve data from a Paradox version 3.x table, substitute "Paradox 3.x;" for "Paradox 4.x;".
 
@@ -96,7 +97,7 @@ IN "C:\PARADOX\DATA\SALES" "Paradox 4.x;"
 WHERE CustomerID Like "A*";
 ```
 
-#### Paradox 3.x or 4.x using Database syntax
+### Paradox 3.x or 4.x using Database syntax
 
 ```sql
 SELECT CustomerID
@@ -105,7 +106,7 @@ IN "" [Paradox 4.x;Database=C:\PARADOX\DATA\SALES;]
 WHERE CustomerID Like "A*";
 ```
 
-#### A Microsoft Excel worksheet
+### A Microsoft Excel worksheet
 
 ```sql
 SELECT CustomerID, CompanyName
@@ -115,7 +116,7 @@ WHERE CustomerID Like "A*"
 ORDER BY CustomerID;
 ```
 
-#### A named range in a worksheet
+### A named range in a worksheet
 
 ```sql
 SELECT CustomerID, CompanyName
@@ -134,3 +135,5 @@ ORDER BY CustomerID;
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

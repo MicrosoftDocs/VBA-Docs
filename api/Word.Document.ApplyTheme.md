@@ -1,5 +1,5 @@
 ---
-title: Document.ApplyTheme Method (Word)
+title: Document.ApplyTheme method (Word)
 keywords: vbawd10.chm158007618
 f1_keywords:
 - vbawd10.chm158007618
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ApplyTheme
 ms.assetid: a4b9180e-5128-6a19-a629-47c20837f84b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ApplyTheme Method (Word)
+# Document.ApplyTheme method (Word)
 
 Applies a theme to an open document.
 
 
 ## Syntax
 
- _expression_. `ApplyTheme`( `_Name_` )
+_expression_. `ApplyTheme`( `_Name_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveDocument.ApplyTheme "artsy 100"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

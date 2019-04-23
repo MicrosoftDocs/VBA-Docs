@@ -1,5 +1,5 @@
 ---
-title: CrossesAt Property
+title: CrossesAt property (Excel Graph)
 keywords: vbagr10.chm65579
 f1_keywords:
 - vbagr10.chm65579
@@ -7,26 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.CrossesAt
 ms.assetid: aca86ee9-cb90-5982-b1cf-312829d9cc40
-ms.date: 06/08/2017
+ms.date: 04/10/2019
+localization_priority: Normal
 ---
 
 
-# CrossesAt Property
+# CrossesAt property (Excel Graph)
 
-Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double**.
+Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write **Double**.
 
+## Syntax
+
+_expression_.**CrossesAt**
+
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 
-Setting this property causes the  **[Crosses](Excel.Crosses.md)** property to change to  **xlAxisCrossesCustom**.
+Setting this property causes the **[Crosses](Excel.Crosses.md)** property to change to **xlAxisCrossesCustom**.
 
-This property cannot be used on 3-D charts or radar charts.
+This property cannot be used on 3D charts or radar charts.
 
 
 ## Example
 
 This example sets the category axis in the ActiveChart to cross the value axis at value 3.
-
 
 ```vb
 Sub Chart() 
@@ -50,4 +55,4 @@ Sub Chart()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

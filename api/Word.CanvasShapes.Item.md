@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Item Method (Word)
+title: CanvasShapes.Item method (Word)
 keywords: vbawd10.chm7536640
 f1_keywords:
 - vbawd10.chm7536640
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.Item
 ms.assetid: 8a985058-b2ea-7011-274e-a3b336af72f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.Item Method (Word)
+# CanvasShapes.Item method (Word)
 
 Returns an individual  **Shape** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Shape
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.RunAutoMacros Method (Excel)
+title: Workbook.RunAutoMacros method (Excel)
 keywords: vbaxl10.chm199143
 f1_keywords:
 - vbaxl10.chm199143
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.RunAutoMacros
 ms.assetid: 85dfdadf-75e6-437d-fb7a-e17681a69b35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.RunAutoMacros Method (Excel)
+# Workbook.RunAutoMacros method (Excel)
 
 Runs the Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro attached to the workbook. This method is included for backward compatibility. For new Visual Basic code, you should use the Open, Close, Activate and Deactivate events instead of these macros.
 
 
 ## Syntax
 
- _expression_. `RunAutoMacros`( `_Which_` )
+_expression_. `RunAutoMacros`( `_Which_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -37,11 +38,11 @@ Runs the Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro attached
 
 
 
-| **XlRunAutoMacro** can be one of these **XlRunAutoMacro** constants.|
-| **xlAutoActivate** . Auto_Activate macros|
-| **xlAutoClose** . Auto_Close macros|
-| **xlAutoDeactivate** . Auto_Deactivate macros|
-| **xlAutoOpen** . Auto_Open macros|
+| **xlRunAutoMacro** can be one of these **xlRunAutoMacro** constants.|
+| **xlAutoActivate**. Auto_Activate macros|
+| **xlAutoClose**. Auto_Close macros|
+| **xlAutoDeactivate**. Auto_Deactivate macros|
+| **xlAutoOpen**. Auto_Open macros|
 
 ## Example
 
@@ -71,3 +72,4 @@ End With
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,25 +7,25 @@ ms.prod: excel
 api_name:
 - Excel.Application.DisplayDocumentInformationPanel
 ms.assetid: 01810dbf-eab4-db5b-cb76-3196542f6e7b
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
 # Application.DisplayDocumentInformationPanel property (Excel)
 
-Returns or sets a  **Boolean** that represents whether the document properties panel is displayed. Read/write **Boolean** .
+Returns or sets a **Boolean** that represents whether the document properties panel is displayed. Read/write **Boolean**.
 
-This property has been deprecated in Office 2016, but it remains part of the object model for backward compatibility. You should not use it in new applications.
+> [!NOTE] 
+> This property has been deprecated in Office 2016, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
 ## Syntax
 
- _expression_. `DisplayDocumentInformationPanel`
+_expression_.**DisplayDocumentInformationPanel**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-[Application Object](Excel.Application(object).md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

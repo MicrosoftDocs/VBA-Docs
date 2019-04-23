@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSet.ID
 ms.assetid: 1e77457d-2d0f-0360-a69b-39444ba66694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns one of the constants of the  **[XlIconSet](Excel.XlIconSet.md)** enumera
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
- _expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
+_expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns one of the constants of the  **[XlIconSet](Excel.XlIconSet.md)** enumera
 
 [IconSet Object](Excel.IconSet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

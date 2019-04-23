@@ -1,35 +1,34 @@
 ---
-title: Sin Function
+title: Sin function (Visual Basic for Applications)
 keywords: vblr6.chm1009024
 f1_keywords:
 - vblr6.chm1009024
 ms.prod: office
 ms.assetid: 94829038-6b78-3dbf-cfe0-558caf343ff1
-ms.date: 06/08/2017
+ms.date: 12/13/2018
+localization_priority: Normal
 ---
 
 
-# Sin Function
+# Sin function
 
-
-
-Returns a  **Double** specifying the sine of an angle.
+Returns a **Double** specifying the sine of an angle.
 
 ## Syntax
 
-**Sin(**_number_**)**
-The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that expresses an angle in radians.
+**Sin**(_number_)
+
+The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that expresses an angle in radians.
 
 ## Remarks
 
-The  **Sin** function takes an angle and returns the ratio of two sides of a right triangle. The ratio is the length of the side opposite the angle divided by the length of the hypotenuse.
-The result lies in the range -1 to 1.
+The **Sin** function takes an angle and returns the ratio of two sides of a right triangle. The ratio is the length of the side opposite the angle divided by the length of the hypotenuse. The result lies in the range -1 to 1.
+
 To convert degrees to radians, multiply degrees by [pi](../../Glossary/vbe-glossary.md#pi)/180. To convert radians to degrees, multiply radians by 180/pi.
 
 ## Example
 
-This example uses the  **Sin** function to return the sine of an angle.
-
+This example uses the **Sin** function to return the sine of an angle.
 
 ```vb
 Dim MyAngle, MyCosecant
@@ -38,4 +37,8 @@ MyCosecant = 1 / Sin(MyAngle)    ' Calculate cosecant.
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

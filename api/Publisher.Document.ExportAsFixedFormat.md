@@ -1,5 +1,5 @@
 ---
-title: Document.ExportAsFixedFormat Method (Publisher)
+title: Document.ExportAsFixedFormat method (Publisher)
 keywords: vbapb10.chm196758
 f1_keywords:
 - vbapb10.chm196758
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ExportAsFixedFormat
 ms.assetid: 8bb5b64f-57b2-cf87-344c-be1e2741a59c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ExportAsFixedFormat Method (Publisher)
+# Document.ExportAsFixedFormat method (Publisher)
 
 Saves a Microsoft Publisher publication in PDF or XPS format. The conversion readies the document to be sent to commercial presses, to copy shops, for desktop printing, or for electronic distribution.
 
 
 ## Syntax
 
- _expression_. **ExportAsFixedFormat**(**_Format_**,  **_Filename_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
+_expression_.**ExportAsFixedFormat**(**_Format_**,  **_FileName_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -55,7 +56,7 @@ Possible values for the Format parameter are shown in the following table and de
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbFixedFormatTypePDF**|2|PDF format|
 | **pbFixedFormatTypeXPS**|1|XPS format|
@@ -64,10 +65,10 @@ Possible values for the Intent parameter are shown in the following table and de
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbIntentMinimum**|1|Squeeze the publication to the smallest file size. This satisfies the on-screen viewing scenario where the publication is viewed on a computer monitor.|
-| **pbIntentStandard**|2 |Distribute the publication as an e-mail message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
+| **pbIntentStandard**|2 |Distribute the publication as an email message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
 | **pbIntentPrinting**|3|Print the publication on a desktop printer or at a copy store.|
 | **pbIntentCommercial **|4|Submit the publication to a commercial press.|
 
@@ -91,4 +92,4 @@ Public Sub ExportAsFixedFormat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

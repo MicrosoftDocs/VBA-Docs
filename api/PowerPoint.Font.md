@@ -1,5 +1,5 @@
 ---
-title: Font Object (PowerPoint)
+title: Font object (PowerPoint)
 keywords: vbapp10.chm575000
 f1_keywords:
 - vbapp10.chm575000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Font
 ms.assetid: ad62daaa-01a5-36cc-5451-e0da0134ac95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font Object (PowerPoint)
+# Font object (PowerPoint)
 
 Represents character formatting for text or a bullet. The  **Font** object is a member of the **[Fonts](./PowerPoint.Fonts.md)** collection. The **Fonts** collection contains all the fonts used in a presentation.
 
@@ -66,7 +67,7 @@ If ActivePresentation.Fonts(1).Embedded = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Font.Application.md)|
 |[AutoRotateNumbers](./PowerPoint.Font.AutoRotateNumbers.md)|
@@ -92,4 +93,6 @@ If ActivePresentation.Fonts(1).Embedded = _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

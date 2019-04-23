@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Parent Property (Publisher)
+title: FreeformBuilder.Parent property (Publisher)
 keywords: vbapb10.chm3276802
 f1_keywords:
 - vbapb10.chm3276802
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FreeformBuilder.Parent
 ms.assetid: 7c227dff-52e8-d38e-6504-d2a605bb2a08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Parent Property (Publisher)
+# FreeformBuilder.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **FreeformBuilder** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

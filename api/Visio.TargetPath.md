@@ -5,6 +5,7 @@ api_name:
 - Visio.TargetPath
 ms.assetid: 8e8edcea-56cf-876f-ce88-6adcc59f69ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Specifies the path where the Web page and its supporting files are placed. Read/
 
 ## Syntax
 
- _expression_. **TargetPath**
+_expression_.**TargetPath**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -54,4 +55,4 @@ Public Sub TargetPath_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

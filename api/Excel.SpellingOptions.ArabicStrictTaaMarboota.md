@@ -8,6 +8,7 @@ api_name:
 - Excel.SpellingOptions.ArabicStrictTaaMarboota
 ms.assetid: f8d66794-84b0-6e5e-b83a-fe462dd60bfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether the spelling checker uses rules to flag Arabic words end
 
 ## Syntax
 
- _expression_. `ArabicStrictTaaMarboota`
+_expression_. `ArabicStrictTaaMarboota`
 
- _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
+_expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets whether the spelling checker uses rules to flag Arabic words end
 
 ## Remarks
 
- **True** if the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota; otherwise **False** .
+ **True** if the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota; otherwise **False**.
 
 
 ## See also
@@ -38,3 +39,4 @@ Returns or sets whether the spelling checker uses rules to flag Arabic words end
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

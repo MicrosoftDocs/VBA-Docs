@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Weight Property (Word)
+title: LineFormat.Weight property (Word)
 keywords: vbawd10.chm164233329
 f1_keywords:
 - vbawd10.chm164233329
@@ -8,17 +8,18 @@ api_name:
 - Word.LineFormat.Weight
 ms.assetid: 81439a12-175e-9ea6-7fd8-ee4207a23752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Weight Property (Word)
+# LineFormat.Weight property (Word)
 
-Returns or sets the thickness of the specified line in points. Read/write  **Single** .
+Returns or sets the thickness of the specified line in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Weight`
+_expression_.**Weight**
 
  _expression_ An expression that returns a '[LineFormat](Word.LineFormat.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

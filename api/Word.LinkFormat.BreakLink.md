@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.BreakLink Method (Word)
+title: LinkFormat.BreakLink method (Word)
 keywords: vbawd10.chm154206312
 f1_keywords:
 - vbawd10.chm154206312
@@ -8,19 +8,20 @@ api_name:
 - Word.LinkFormat.BreakLink
 ms.assetid: 19f5f0b5-2536-b6d1-4476-4d46f3d7484e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.BreakLink Method (Word)
+# LinkFormat.BreakLink method (Word)
 
 Breaks the link between the source file and the specified OLE object, picture, or linked field.
 
 
 ## Syntax
 
- _expression_. `BreakLink`
+_expression_. `BreakLink`
 
- _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
+_expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ Next shapeLoop
 
 [LinkFormat Object](Word.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

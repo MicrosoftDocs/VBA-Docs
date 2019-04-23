@@ -1,5 +1,5 @@
 ---
-title: Range.InsertAutoText Method (Word)
+title: Range.InsertAutoText method (Word)
 keywords: vbawd10.chm157155511
 f1_keywords:
 - vbawd10.chm157155511
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.InsertAutoText
 ms.assetid: d87ae18c-e527-bcf4-4939-5512a6fdaaf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InsertAutoText Method (Word)
+# Range.InsertAutoText method (Word)
 
 Attempts to match the text in the specified range or the text surrounding the range with an existing AutoText entry name.
 
 
 ## Syntax
 
- _expression_. `InsertAutoText`
+_expression_. `InsertAutoText`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ myRange.InsertAutoText
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

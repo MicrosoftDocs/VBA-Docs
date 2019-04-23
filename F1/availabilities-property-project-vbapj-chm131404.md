@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8a0a97a6-d51c-4a53-a8fc-832399cd8a0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.AutoFilter Property (Project)](http://msdn.microsoft.com/library/3e6960f7-8a8a-6300-d74b-4e009fbcfca2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Restore Method (Office)
+title: DocumentLibraryVersion.Restore method (Office)
 keywords: vbaof11.chm277024
 f1_keywords:
 - vbaof11.chm277024
@@ -7,20 +7,21 @@ ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Restore
 ms.assetid: 1f6bb17f-a6b7-c52b-7880-9b3f2ed7ff13
-ms.date: 06/08/2017
+ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 
-# DocumentLibraryVersion.Restore Method (Office)
+# DocumentLibraryVersion.Restore method (Office)
 
-Restores a previous saved version of a shared document from the  **DocumentLibraryVersions** collection.
+Restores a previous saved version of a shared document from the **DocumentLibraryVersions** collection.
 
 
 ## Syntax
 
- _expression_. `Restore`
+_expression_.**Restore**
 
- _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
+_expression_ A variable that represents a **[DocumentLibraryVersion](Office.DocumentLibraryVersion.md)** object.
 
 
 ## Return value
@@ -30,8 +31,7 @@ Object
 
 ## Remarks
 
-Use the  **Restore** method to return to an earlier saved version of the active document. The **Restore** method does several things:
-
+Use the **Restore** method to return to an earlier saved version of the active document. The **Restore** method does several things:
 
 1. It changes the open version of the shared document to read-only mode but leaves it open.
     
@@ -39,15 +39,12 @@ Use the  **Restore** method to return to an earlier saved version of the active 
     
 3. It saves the restored version to the server as a new document version, making the restored version the latest version.
     
-
-
-The  **Restore** method raises a run-time error if the active document has changes that have not been saved.
+The **Restore** method raises a run-time error if the active document has changes that have not been saved.
 
 
 ## Example
 
 The following example restores the previous version of the active document.
-
 
 ```vb
  Dim dlvVersions As Office.DocumentLibraryVersions 
@@ -60,10 +57,6 @@ The following example restores the previous version of the active document.
 
 ## See also
 
+- [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
-[DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-
-
-
-[DocumentLibraryVersion Object Members](./overview/Library-Reference/documentlibraryversion-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

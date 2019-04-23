@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.PivotCell
 ms.assetid: 976f6393-db3b-d52a-0cbc-88a73bb7c070
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotCell](Excel.PivotCell.md)** object that represents a cell in 
 
 ## Syntax
 
- _expression_. `PivotCell`
+_expression_. `PivotCell`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -45,3 +46,4 @@ End Sub
 [Range Object](Excel.Range(object).md)
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

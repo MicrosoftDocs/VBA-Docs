@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 149e5621-324c-4a2c-8675-d0a88390125f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarComboBox.Parent Property (Office)](http://msdn.microsoft.com/library/a4dc7231-5366-2504-f9b0-af6dd1728bfa%28Office.15%29.aspx)
 [CommandBarControl.Parent Property (Office)](http://msdn.microsoft.com/library/d6727c3d-7666-2339-1271-d44e4545b97c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

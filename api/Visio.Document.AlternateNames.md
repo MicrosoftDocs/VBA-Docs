@@ -1,5 +1,5 @@
 ---
-title: Document.AlternateNames Property (Visio)
+title: Document.AlternateNames property (Visio)
 keywords: vis_sdr.chm10513085
 f1_keywords:
 - vis_sdr.chm10513085
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.AlternateNames
 ms.assetid: 2d0a3f45-e9b4-385b-23c9-2a0a70375202
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.AlternateNames Property (Visio)
+# Document.AlternateNames property (Visio)
 
 Gets or sets the alternate names for a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlternateNames`
+_expression_. `AlternateNames`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -37,7 +38,7 @@ The application stores document names in the following situations:
     
 - Master shortcuts store stencil names. For example, a shortcut for the  **Data** shape stores the name of the stencil on which the **Data** shape is stored— **Basic Flowchart Shapes.vss**.
     
-When the application opens a document or accesses the  **Document** object's collection, it uses the document name. If Microsoft Visio can't find the document name, it looks for alternate names for those stencils that are in the correct path. (To add a path, click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) For example, suppose you created the stencil named "New Shapes 2008.vss." The following year you revised the stencil and renamed it "New Shapes 2009.vss." Any templates that opened  **New Shapes 2008.vss** should now open **New Shapes 2009.vss**. To do this, set the  **AlternateNames** property of **New Shapes 2009.vss** to "New Shapes 2008.vss." The following Microsoft Visual Basic code shows one way to do this:
+When the application opens a document or accesses the  **Document** object's collection, it uses the document name. If Microsoft Visio can't find the document name, it looks for alternate names for those stencils that are in the correct path. (To add a path, click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click **File Locations**.) For example, suppose you created the stencil named "New Shapes 2008.vss." The following year you revised the stencil and renamed it "New Shapes 2009.vss." Any templates that opened  **New Shapes 2008.vss** should now open **New Shapes 2009.vss**. To do this, set the  **AlternateNames** property of **New Shapes 2009.vss** to "New Shapes 2008.vss." The following Microsoft Visual Basic code shows one way to do this:
 
 
 
@@ -75,4 +76,4 @@ Public Sub AlternateNames_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

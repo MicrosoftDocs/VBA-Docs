@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Parent Property (PowerPoint)
+title: ShapeNodes.Parent property (PowerPoint)
 keywords: vbapp10.chm560001
 f1_keywords:
 - vbapp10.chm560001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShapeNodes.Parent
 ms.assetid: 726e80d7-c8f4-918f-cb01-96b26c0afb59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Parent Property (PowerPoint)
+# ShapeNodes.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

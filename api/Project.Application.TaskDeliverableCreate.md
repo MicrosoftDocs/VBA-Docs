@@ -1,5 +1,5 @@
 ---
-title: Application.TaskDeliverableCreate Method (Project)
+title: Application.TaskDeliverableCreate method (Project)
 keywords: vbapj.chm92
 f1_keywords:
 - vbapj.chm92
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TaskDeliverableCreate
 ms.assetid: 61bd8608-8a5f-3555-b769-5ee951f8ebd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TaskDeliverableCreate Method (Project)
+# Application.TaskDeliverableCreate method (Project)
 
 Creates or removes a deliverable for the selected task. Available only in Project Professional.
 
 
 ## Syntax
 
- _expression_. `TaskDeliverableCreate`( ` _Create_` )
+_expression_. `TaskDeliverableCreate`( `_Create_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -81,4 +82,4 @@ Sub ToggleDeliverable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

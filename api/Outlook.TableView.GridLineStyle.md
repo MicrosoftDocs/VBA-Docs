@@ -1,5 +1,5 @@
 ---
-title: TableView.GridLineStyle Property (Outlook)
+title: TableView.GridLineStyle property (Outlook)
 keywords: vbaol11.chm2528
 f1_keywords:
 - vbaol11.chm2528
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.GridLineStyle
 ms.assetid: b3a95e34-4d22-e208-255d-43fc2456f0e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.GridLineStyle Property (Outlook)
+# TableView.GridLineStyle property (Outlook)
 
 Returns or sets an  **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant that represents the line style used for grid lines in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `GridLineStyle`
+_expression_. `GridLineStyle`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

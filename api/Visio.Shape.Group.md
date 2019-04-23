@@ -1,5 +1,5 @@
 ---
-title: Shape.Group Method (Visio)
+title: Shape.Group method (Visio)
 keywords: vis_sdr.chm11216345
 f1_keywords:
 - vis_sdr.chm11216345
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Group
 ms.assetid: fe19f27f-47ad-93ef-1d82-4010d8cb6e47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Group Method (Visio)
+# Shape.Group method (Visio)
 
 Groups the objects that are selected in a selection, or it converts a shape into a group.
 
 
 ## Syntax
 
- _expression_. `Group`
+_expression_. `Group`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -57,4 +58,4 @@ Public Sub Group_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

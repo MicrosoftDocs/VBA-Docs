@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c2a322c2-3f2f-f5da-3cc2-06e2c168f836
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The version signature was not found, or the specified version isn't recognized. Make sure that the first line that is not blank or a [comment](../../Glossary/vbe-glossary.md#comment) in the ASCII form specifies the correct version.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

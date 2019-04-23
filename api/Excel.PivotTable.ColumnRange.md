@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.ColumnRange
 ms.assetid: 7f54b908-b0cb-80c8-e16f-25c7ff536e43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `ColumnRange`
+_expression_. `ColumnRange`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -40,3 +41,4 @@ ActiveCell.PivotTable.ColumnRange.Select
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

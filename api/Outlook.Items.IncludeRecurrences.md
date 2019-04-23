@@ -1,5 +1,5 @@
 ---
-title: Items.IncludeRecurrences Property (Outlook)
+title: Items.IncludeRecurrences property (Outlook)
 keywords: vbaol11.chm60
 f1_keywords:
 - vbaol11.chm60
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Items.IncludeRecurrences
 ms.assetid: 7d192112-889c-56ce-aab2-107d751c80c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.IncludeRecurrences Property (Outlook)
+# Items.IncludeRecurrences property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the **[Items](Outlook.Items.md)** collection should include recurrence patterns. Read/write.
 
 
 ## Syntax
 
- _expression_. `IncludeRecurrences`
+_expression_. `IncludeRecurrences`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Remarks
 
-This property only has an effect if the  **Items** collection contains appointments and is not sorted by any property other than **[Start](Outlook.AppointmentItem.Start.md)** in ascending order. The default value is **False** . Use this property when you want to retrieve all appointments for a given date, where recurring appointments would not normally appear because they are not associated with any specific date. If you need to sort and filter on appointment items that contain recurring appointments, you must do so in this order: sort the items in ascending order, set **IncludeRecurrences** to **True** , and then filter the items. For a code sample showing this order, see the second example below. If the collection includes recurring appointments with no end date, setting the property to **True** may cause the collection to be of infinite count. Be sure to include a test for this in any loop. You should not use **Count** property of **Items** collection when iterating **Items** collection with **IncludeRecurrence** property set to **True** . The value of **Count** will be an undefined value.
+This property only has an effect if the  **Items** collection contains appointments and is not sorted by any property other than **[Start](Outlook.AppointmentItem.Start.md)** in ascending order. The default value is **False**. Use this property when you want to retrieve all appointments for a given date, where recurring appointments would not normally appear because they are not associated with any specific date. If you need to sort and filter on appointment items that contain recurring appointments, you must do so in this order: sort the items in ascending order, set **IncludeRecurrences** to **True**, and then filter the items. For a code sample showing this order, see the second example below. If the collection includes recurring appointments with no end date, setting the property to **True** may cause the collection to be of infinite count. Be sure to include a test for this in any loop. You should not use **Count** property of **Items** collection when iterating **Items** collection with **IncludeRecurrence** property set to **True**. The value of **Count** will be an undefined value.
 
 
  **Caution**  Filtering on a sorted list of occurrences will cause the  **IncludeRecurrences** property not to work as expected. For example, the following sequence will return all appointment occurrences; recurring and non-recurring: (1) Sort by Start property (2) Set property to **false** (3) call **Restrict** (i.e., filter).
@@ -111,3 +112,4 @@ End Sub
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Recover tables deleted from a database
 ms.prod: access
 ms.assetid: 4d370adb-741f-269d-8def-bccec1f335f1
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -61,4 +62,4 @@ ErrorHandler:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

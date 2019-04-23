@@ -1,5 +1,5 @@
 ---
-title: Document.SetLetterContent Method (Word)
+title: Document.SetLetterContent method (Word)
 keywords: vbawd10.chm158007421
 f1_keywords:
 - vbawd10.chm158007421
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SetLetterContent
 ms.assetid: 8c9b2f6e-34a7-41a3-761d-c1a5da141aba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SetLetterContent Method (Word)
+# Document.SetLetterContent method (Word)
 
 Inserts the contents of the specified  **LetterContent** object into a document.
 
 
 ## Syntax
 
- _expression_. `SetLetterContent`( `_LetterContent_` )
+_expression_. `SetLetterContent`( `_LetterContent_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

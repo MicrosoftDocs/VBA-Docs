@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Application Property (PowerPoint)
+title: Trendlines.Application property (PowerPoint)
 keywords: vbapp10.chm721001
 f1_keywords:
 - vbapp10.chm721001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Trendlines.Application
 ms.assetid: 3ae91490-a646-1f9b-3b72-a24591f897d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines.Application Property (PowerPoint)
+# Trendlines.Application property (PowerPoint)
 
 When used without an object qualifier, returns an  **[Application](PowerPoint.Application.md)** object that represents the Microsoft PowerPoint application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a '[Trendlines](PowerPoint.Trendlines.md)' object.
 
@@ -28,3 +29,4 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 [Trendlines Object](PowerPoint.Trendlines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListObject.Unlink Method (Excel)
+title: ListObject.Unlink method (Excel)
 keywords: vbaxl10.chm734076
 f1_keywords:
 - vbaxl10.chm734076
@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.Unlink
 ms.assetid: 37e70576-e577-cfbb-f5ee-63ba830e174e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListObject.Unlink Method (Excel)
+# ListObject.Unlink method (Excel)
 
-Removes the link to a Microsoft SharePoint Foundation site from a list. Returns  **Nothing** .
+Removes the link to a Microsoft SharePoint Foundation site from a list. Returns  **Nothing**.
 
 
 ## Syntax
 
- _expression_. `Unlink`
+_expression_. `Unlink`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

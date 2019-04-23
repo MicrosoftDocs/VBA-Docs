@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.Order
 ms.assetid: f64f8739-212b-6aca-3ddc-09c68c44978c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that indicates the order in which this change was performed rela
 
 ## Syntax
 
- _expression_. `Order`
+_expression_. `Order`
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The value of the  **Order** property is automatically assigned by Excel based on
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

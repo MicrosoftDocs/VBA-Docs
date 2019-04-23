@@ -1,19 +1,20 @@
 ---
-title: Shape.SetQuickStyle Method (Visio)
+title: Shape.SetQuickStyle method (Visio)
 ms.prod: visio
 ms.assetid: aebe80cb-fae9-0be7-e903-882f6eb58b63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SetQuickStyle Method (Visio)
+# Shape.SetQuickStyle method (Visio)
 
 Sets the quick style of the specified shape.
 
 
 ## Syntax
 
- _expression_. `SetQuickStyle`_(lineMatrix,_ _fillMatrix,_ _effectsMatrix,_ _fontMatrix,_ _lineColor,_ _fillColor,_ _shadowColor,_ _fontColor)_
+_expression_. `SetQuickStyle`_(lineMatrix,_ _fillMatrix,_ _effectsMatrix,_ _fontMatrix,_ _lineColor,_ _fillColor,_ _shadowColor,_ _fontColor)_
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -22,7 +23,7 @@ Sets the quick style of the specified shape.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _lineMatrix_|Required|[VISQUICKSTYLEMATRIXINDICES](Visio.visquickstylematrixindices.md)|Specifies the shape style index that determines the line-formatting properties (for example, dash type or weight) to retrieve from the active theme and variant.|
@@ -49,3 +50,4 @@ Calling the  **SetQuickStyle** method corresponds to setting a quick style in th
 
 [Shape Object](Visio.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

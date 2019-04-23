@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Activate Method (PowerPoint)
+title: DocumentWindow.Activate method (PowerPoint)
 keywords: vbapp10.chm511016
 f1_keywords:
 - vbapp10.chm511016
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.Activate
 ms.assetid: 8b6c5ede-edaf-72f2-b0f5-de2418a5e0a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.Activate Method (PowerPoint)
+# DocumentWindow.Activate method (PowerPoint)
 
 Activates the specified object.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Example
@@ -38,4 +39,4 @@ Windows(2).Activate
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

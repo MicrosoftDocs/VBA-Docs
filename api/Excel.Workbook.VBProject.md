@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.VBProject
 ms.assetid: 1bef5b7e-e169-fa4b-9810-6cd87ecd0a8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **VBProject** object that represents the Visual Basic project in the 
 
 ## Syntax
 
- _expression_. `VBProject`
+_expression_. `VBProject`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ThisWorkbook.VBProject.Name = "TestProject"
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

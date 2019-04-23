@@ -1,5 +1,5 @@
 ---
-title: Shapes Object (Visio)
+title: Shapes object (Visio)
 keywords: vis_sdr.chm10230
 f1_keywords:
 - vis_sdr.chm10230
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shapes
 ms.assetid: 9ec3c379-54c2-50d8-4f6b-79a95b8d12f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes Object (Visio)
+# Shapes object (Visio)
 
 Includes a  **Shape** object for each basic shape, group, guide, or object from another application (linked or embedded in Microsoft Visio) on a drawing page, master, or group.
 
@@ -34,7 +35,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CenterDrawing](./Visio.Shapes.CenterDrawing.md)|
 
@@ -42,7 +43,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Shapes.Application.md)|
 |[ContainingMaster](./Visio.Shapes.ContainingMaster.md)|
@@ -59,3 +60,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[PersistsEvents](./Visio.Shapes.PersistsEvents.md)|
 |[Stat](./Visio.Shapes.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

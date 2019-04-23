@@ -5,6 +5,7 @@ api_name:
 - Visio.OpenBrowser
 ms.assetid: 701defdf-9f1c-b136-0af5-48605d255f88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether the Web page opens in the browser after the drawing is export
 
 ## Syntax
 
- _expression_. **OpenBrowser**
+_expression_.**OpenBrowser**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -33,4 +34,4 @@ Set  **OpenBrowser** to a non-zero value (**True**) to open a Web page in the br
 
 The  **OpenBrowser** property corresponds to the **Automatically open Web page in browser** check box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

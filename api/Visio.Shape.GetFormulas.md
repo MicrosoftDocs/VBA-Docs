@@ -1,5 +1,5 @@
 ---
-title: Shape.GetFormulas Method (Visio)
+title: Shape.GetFormulas method (Visio)
 keywords: vis_sdr.chm11216310
 f1_keywords:
 - vis_sdr.chm11216310
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.GetFormulas
 ms.assetid: 51ff9731-802c-2001-c5e6-6f7aeb9d6839
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GetFormulas Method (Visio)
+# Shape.GetFormulas method (Visio)
 
 Returns the formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
+_expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -54,7 +55,7 @@ For  **Shape** objects, you can use the **GetFormulas** method to get formulas o
 
 where  _sectionIdx_ is the section index of the desired cell, _rowIdx_ is its row index and _cellIdx_ is its cell index.
 
-If the  **GetFormulas** method succeeds, _formulaArray()_ returns a one-dimensional array of _n_ variants indexed from 0 to _n_ - 1. Each variant returns a formula as a string. _formulaArray()_ is an out parameter that is allocated by the **GetFormulas** method, which passes ownership back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. Note that the **SafeArrayDestroy** procedure has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetFormulas** method returns. (Microsoft Visual Basic and Visual Basic for Applications take care of this for you.) The **GetFormulas** method fails if _formulaArray()_ is **Null** .
+If the  **GetFormulas** method succeeds, _formulaArray()_ returns a one-dimensional array of _n_ variants indexed from 0 to _n_ - 1. Each variant returns a formula as a string. _formulaArray()_ is an out parameter that is allocated by the **GetFormulas** method, which passes ownership back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. Note that the **SafeArrayDestroy** procedure has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetFormulas** method returns. (Microsoft Visual Basic and Visual Basic for Applications take care of this for you.) The **GetFormulas** method fails if _formulaArray()_ is **Null**.
 
 
  **Note**  Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
@@ -112,4 +113,4 @@ Exit Sub
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

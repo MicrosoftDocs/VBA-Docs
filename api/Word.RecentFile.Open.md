@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Open Method (Word)
+title: RecentFile.Open method (Word)
 keywords: vbawd10.chm157548548
 f1_keywords:
 - vbawd10.chm157548548
@@ -8,19 +8,20 @@ api_name:
 - Word.RecentFile.Open
 ms.assetid: bdcc49b7-3511-d625-be46-72dc26a927d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFile.Open Method (Word)
+# RecentFile.Open method (Word)
 
 Opens the specified object. Returns a  **Document** object representing the opened document.
 
 
 ## Syntax
 
- _expression_. `Open`
+_expression_. `Open`
 
- _expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
+_expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
 
 
 ## Return value
@@ -48,3 +49,4 @@ End Sub
 
 [RecentFile Object](Word.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

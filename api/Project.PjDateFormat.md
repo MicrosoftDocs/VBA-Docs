@@ -1,14 +1,15 @@
 ---
-title: PjDateFormat Enumeration (Project)
+title: PjDateFormat enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDateFormat
 ms.assetid: d6bae7cd-4be0-b4eb-bbb1-5d82d7120bb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjDateFormat Enumeration (Project)
+# PjDateFormat enumeration (Project)
 
 Contains constants that specify the date format. The following table shows various formats applied to 9/30/02 (12:33 PM). 
 
@@ -39,3 +40,4 @@ Contains constants that specify the date format. The following table shows vario
 |**pjDate_Www_dd_yy_hh_mmAM**|19|W41/2/02 12:33 PM|
 |**pjDateDefault**|255|The default format, as specified on the  **View** tab of the **Options** dialog box. (To open the **Options** dialog box, click **Options** on the **Tools** menu.)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

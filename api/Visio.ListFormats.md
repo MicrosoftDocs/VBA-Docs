@@ -5,6 +5,7 @@ api_name:
 - Visio.ListFormats
 ms.assetid: 76495f43-a8f0-3159-f594-37af9fabcee2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,13 +16,13 @@ Displays a message box in the user interface that lists the output format types 
 
 ## Syntax
 
- _expression_. **ListFormats**
+_expression_.**ListFormats**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
 
  **Nothing**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

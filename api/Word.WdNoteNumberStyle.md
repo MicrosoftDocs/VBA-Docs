@@ -1,14 +1,15 @@
 ---
-title: WdNoteNumberStyle Enumeration (Word)
+title: WdNoteNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNoteNumberStyle
 ms.assetid: ec02d397-6a63-b695-8f14-593350a15d33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdNoteNumberStyle Enumeration (Word)
+# WdNoteNumberStyle enumeration (Word)
 
 Specifies the number style to apply to endnotes, endnote options, footnotes, or footnote options.
 
@@ -46,3 +47,4 @@ Specifies the number style to apply to endnotes, endnote options, footnotes, or 
 | **wdNoteNumberStyleUppercaseRoman**|1|Uppercase Roman number style.|
 | **wdNoteNumberStyleVietCardinalText**|56|Vietnamese Cardinal text style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

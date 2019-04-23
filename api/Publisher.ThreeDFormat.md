@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat Object (Publisher)
+title: ThreeDFormat object (Publisher)
 keywords: vbapb10.chm3866623
 f1_keywords:
 - vbapb10.chm3866623
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ThreeDFormat
 ms.assetid: 11d57330-c99e-5aa9-d47c-2c5d2846ed4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat Object (Publisher)
+# ThreeDFormat object (Publisher)
 
 Represents a shape's three-dimensional formatting.
  
@@ -26,7 +27,7 @@ You cannot apply three-dimensional formatting to some kinds of shapes, such as b
 
 ## Example
 
-Use the  **[ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
+Use the  **[ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one in the active publication.
  
 
  
@@ -54,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementRotationX](Publisher.ThreeDFormat.IncrementRotationX.md)|
 |[IncrementRotationY](Publisher.ThreeDFormat.IncrementRotationY.md)|
@@ -66,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ThreeDFormat.Application.md)|
 |[BevelBottomDepth](Publisher.threedformat.bevelbottomdepth.md)|
@@ -92,3 +93,4 @@ End Sub
 |[RotationY](Publisher.ThreeDFormat.RotationY.md)|
 |[Visible](Publisher.ThreeDFormat.Visible.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

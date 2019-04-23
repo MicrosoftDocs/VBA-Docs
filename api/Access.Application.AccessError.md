@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.Application.AccessError
 ms.assetid: 811ef090-bdd4-5d1d-afc5-782470f57483
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.AccessError method (Access)
 
-You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error.
+You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or Data Access Objects (DAO) error.
 
 
 ## Syntax
 
-_expression_. `AccessError`( ` _ErrorNumber_` )
+_expression_.**AccessError** (_ErrorNumber_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,7 +39,7 @@ Variant
 
 You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error when the error hasn't actually occurred, but you cannot use it for ADO errors.
 
-You can use the Visual Basic **Raise** method to raise a Visual Basic error. Once you've raised the error, you can determine its associated descriptive string by reading the **Description** property of the **Err** object.
+You can use the Visual Basic **Raise** method to raise a Visual Basic error. After you've raised the error, you can determine its associated descriptive string by reading the **Description** property of the **Err** object.
 
 You can't use the **Raise** method to raise a Microsoft Access or DAO error. However, you can use the **AccessError** method to return the descriptive string associated with these errors, without having to generate the error.
 
@@ -51,10 +50,10 @@ If the Microsoft Access error has occurred, you can return the descriptive strin
 
 ## Example
 
-The following function returns an error string for any valid error number:
+The following function returns an error string for any valid error number.
 
-
- **Note**  You must have your error trapping options set to Break on Unhandled Errors for the code to run in the VBA IDE. You can set this option on the General tab of the Options dialog found on the VBA Tools menu.
+> [!NOTE] 
+> You must have your error trapping options set to **Break on Unhandled Errors** for the code to run in the VBA IDE. You can set this option on the **General** tab of the **Options** dialog box found on the VBA Tools menu.
 
 
 ```vb
@@ -78,8 +77,5 @@ End Function
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

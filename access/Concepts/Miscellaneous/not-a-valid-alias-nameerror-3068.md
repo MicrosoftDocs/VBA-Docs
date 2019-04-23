@@ -3,6 +3,7 @@ title: Not a valid alias name. (Error 3068)
 ms.prod: access
 ms.assetid: 22e5d7d7-89ec-afa5-94c7-978f2e1b03de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The alias you entered does not follow standard naming conventions. Enter a new n
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

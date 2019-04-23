@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Creator Property (Word)
+title: ShapeRange.Creator property (Word)
 keywords: vbawd10.chm162864961
 f1_keywords:
 - vbawd10.chm162864961
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.Creator
 ms.assetid: 2b478bed-85df-720e-033c-e31327077800
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Creator Property (Word)
+# ShapeRange.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Connects Object (Visio)
+title: Connects object (Visio)
 keywords: vis_sdr.chm10070
 f1_keywords:
 - vis_sdr.chm10070
@@ -8,10 +8,11 @@ api_name:
 - Visio.Connects
 ms.assetid: 8ac06fd8-0bbb-e9df-a08c-d697c4ac238e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connects Object (Visio)
+# Connects object (Visio)
 
  Includes a **Connect** object for each connection between two shapes in a drawing, such as a line and a box in an organization chart.
 
@@ -38,7 +39,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Connects.Application.md)|
 |[Count](./Visio.Connects.Count.md)|
@@ -49,3 +50,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[Stat](./Visio.Connects.Stat.md)|
 |[ToSheet](./Visio.Connects.ToSheet.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

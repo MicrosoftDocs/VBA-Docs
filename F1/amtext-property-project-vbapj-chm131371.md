@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 31019c01-4507-416c-9306-6d2d062bb575
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ActiveSelection Property (Project)](http://msdn.microsoft.com/library/aa72b337-4031-a970-0921-d1d60f66096e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailItem.AutoResolvedWinner Property (Outlook)
+title: MailItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1381
 f1_keywords:
 - vbaol11.chm1381
@@ -8,31 +8,32 @@ api_name:
 - Outlook.MailItem.AutoResolvedWinner
 ms.assetid: 3c0ccbd5-47a6-7a0c-a488-037c48fc1958
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.AutoResolvedWinner Property (Outlook)
+# MailItem.AutoResolvedWinner property (Outlook)
 
 Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoResolvedWinner`
+_expression_. `AutoResolvedWinner`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
 
 A value of  **False** does not necessarily indicate that the item is a loser of an automatic conflict resolution. The item could be in conflict with another item.
 
-If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[MailItem.Conflicts](Outlook.MailItem.Conflicts.md)** property greater than zero and if its **AutoResolvedWinner** property is **True** , it is a winner of an automatic conflict resolution. On the other hand, if the item is in conflict and has its **AutoResolvedWinner** property as **False** , it is a loser in an automatic conflict resolution.
+If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[MailItem.Conflicts](Outlook.MailItem.Conflicts.md)** property greater than zero and if its **AutoResolvedWinner** property is **True**, it is a winner of an automatic conflict resolution. On the other hand, if the item is in conflict and has its **AutoResolvedWinner** property as **False**, it is a loser in an automatic conflict resolution.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example used the  **AutoResolvedWinner** property to determine if an item is a winner or loser in an automatic conflict resolution. To run this example, make sure an e-mail item is open in the active window.
+The following Microsoft Visual Basic for Applications (VBA) example used the  **AutoResolvedWinner** property to determine if an item is a winner or loser in an automatic conflict resolution. To run this example, make sure an email item is open in the active window.
 
 
 ```vb
@@ -69,3 +70,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

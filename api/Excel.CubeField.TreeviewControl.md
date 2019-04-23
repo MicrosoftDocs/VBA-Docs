@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.TreeviewControl
 ms.assetid: 54f44b41-cde8-aa06-af98-c7d79fc85c12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[TreeviewControl](Excel.TreeviewControl.md)** object of the **[Cu
 
 ## Syntax
 
- _expression_. `TreeviewControl`
+_expression_. `TreeviewControl`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ ActiveSheet.PivotTables("PivotTable2") _
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

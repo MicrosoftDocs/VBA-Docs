@@ -1,5 +1,5 @@
 ---
-title: Document.Password Property (Word)
+title: Document.Password property (Word)
 keywords: vbawd10.chm158007381
 f1_keywords:
 - vbawd10.chm158007381
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Password
 ms.assetid: 243f1735-5367-4ac9-5643-624ccf501abe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Password Property (Word)
+# Document.Password property (Word)
 
-Sets a password that must be supplied to open the specified document. Write-only  **String** .
+Sets a password that must be supplied to open the specified document. Write-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Password`
+_expression_. `Password`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ myDoc.Close
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.Orientation
 ms.assetid: e60e9ee7-814e-9649-7eb4-fb7847eaa008
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that represents the text orientation of the associated  **[Range
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

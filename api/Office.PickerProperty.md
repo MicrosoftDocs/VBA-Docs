@@ -1,5 +1,5 @@
 ---
-title: PickerProperty Object (Office)
+title: PickerProperty object (Office)
 keywords: vbaof11.chm336000
 f1_keywords:
 - vbaof11.chm336000
@@ -7,18 +7,19 @@ ms.prod: office
 api_name:
 - Office.PickerProperty
 ms.assetid: fd3702fe-bf03-f22c-78c2-ac6c47a1d028
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerProperty Object (Office)
+# PickerProperty object (Office)
 
-Represents an object for passing a custom property. p
+Represents an object for passing a custom property.
 
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker dialog.
+The following code sets the **[PickerDialog](Office.PickerDialog.md)** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -45,22 +46,11 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ```
 
 
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.PickerProperty.Application.md)|
-|[Creator](Office.PickerProperty.Creator.md)|
-|[Id](Office.PickerProperty.Id.md)|
-|[Type](Office.PickerProperty.Type.md)|
-|[Value](Office.PickerProperty.Value.md)|
-
 ## See also
 
+- [PickerProperty object members](overview/Library-Reference/pickerproperty-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

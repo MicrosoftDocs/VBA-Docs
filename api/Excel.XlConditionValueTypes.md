@@ -1,14 +1,15 @@
 ---
-title: xlConditionValueTypes enumeration (Excel)
+title: XlConditionValueTypes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlConditionValueTypes
 ms.assetid: aa9ebfb2-ea85-7e8c-1b99-2117e00b9f4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlConditionValueTypes enumeration (Excel)
+# XlConditionValueTypes enumeration (Excel)
 
 Specifies the types of condition values that can be used.
 
@@ -26,3 +27,4 @@ Specifies the types of condition values that can be used.
 | **xlConditionValuePercent**|3|Percentage is used.|
 | **xlConditionValuePercentile**|5|Percentile is used.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

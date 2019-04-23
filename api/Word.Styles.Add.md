@@ -1,5 +1,5 @@
 ---
-title: Styles.Add Method (Word)
+title: Styles.Add method (Word)
 keywords: vbawd10.chm153944164
 f1_keywords:
 - vbawd10.chm153944164
@@ -8,19 +8,20 @@ api_name:
 - Word.Styles.Add
 ms.assetid: b576d8a0-923b-f0dd-0f5f-6a243392d134
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles.Add Method (Word)
+# Styles.Add method (Word)
 
 Returns a  **HeadingStyle** object that represents a new heading style added to a document.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Style_` , `_Level_` )
+_expression_.**Add**( `_Style_` , `_Level_` )
 
- _expression_ Required. A variable that represents a '[Styles](Word.styles.md)' collection.
+_expression_ Required. A variable that represents a '[Styles](Word.styles.md)' collection.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ myToc.HeadingStyles.Add Style:="Title", Level:=2
 
 [Styles Collection Object](Word.styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

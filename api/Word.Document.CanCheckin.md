@@ -1,5 +1,5 @@
 ---
-title: Document.CanCheckin Method (Word)
+title: Document.CanCheckin method (Word)
 keywords: vbawd10.chm158007647
 f1_keywords:
 - vbawd10.chm158007647
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CanCheckin
 ms.assetid: 7021b14b-3e45-9850-bc59-d76c267f2934
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CanCheckin Method (Word)
+# Document.CanCheckin method (Word)
 
- **True** if Microsoft Word can check in a specified document to a server. Read/write **Boolean** .
+ **True** if Microsoft Word can check in a specified document to a server. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanCheckin`
+_expression_. `CanCheckin`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Return value
@@ -67,3 +68,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

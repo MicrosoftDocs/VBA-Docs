@@ -8,26 +8,27 @@ api_name:
 - Excel.Range.PageBreak
 ms.assetid: 0bec0bba-c2c3-33cd-b39e-55971177c2c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.PageBreak property (Excel)
 
-Returns or sets the location of a page break. Can be one of the following  **[XlPageBreak](Excel.XlPageBreak.md)** constants: **xlPageBreakAutomatic** , **xlPageBreakManual** , or **xlPageBreakNone** . Read/write **Long** .
+Returns or sets the location of a page break. Can be one of the following  **[XlPageBreak](Excel.XlPageBreak.md)** constants: **xlPageBreakAutomatic**, **xlPageBreakManual**, or **xlPageBreakNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PageBreak`
+_expression_. `PageBreak`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
 
 This property can return the location of either automatic or manual page breaks, but it can only set the location of manual breaks (it can only be set to  **xlPageBreakManual** or **xlPageBreakNone**).
 
-To remove all manual page breaks on a worksheet, set  `Cells.PageBreak` to **xlPageBreakNone** .
+To remove all manual page breaks on a worksheet, set  `Cells.PageBreak` to **xlPageBreakNone**.
 
 
 ## Example
@@ -64,3 +65,4 @@ Worksheets("Sheet1").Columns("J").PageBreak = xlNone
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

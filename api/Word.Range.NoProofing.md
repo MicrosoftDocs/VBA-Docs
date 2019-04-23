@@ -1,5 +1,5 @@
 ---
-title: Range.NoProofing Property (Word)
+title: Range.NoProofing property (Word)
 keywords: vbawd10.chm157155651
 f1_keywords:
 - vbawd10.chm157155651
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.NoProofing
 ms.assetid: 0344239d-10bc-0e3e-9601-41c3c3bb6227
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.NoProofing Property (Word)
+# Range.NoProofing property (Word)
 
- **True** if the spelling and grammar checker ignores the specified text. Read/write **Long** .
+ **True** if the spelling and grammar checker ignores the specified text. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `NoProofing`
+_expression_. `NoProofing`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -43,3 +44,4 @@ Selection.Range.NoProofing = True
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

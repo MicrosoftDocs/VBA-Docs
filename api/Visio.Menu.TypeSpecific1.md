@@ -1,5 +1,5 @@
 ---
-title: Menu.TypeSpecific1 Property (Visio)
+title: Menu.TypeSpecific1 property (Visio)
 keywords: vis_sdr.chm13114600
 f1_keywords:
 - vis_sdr.chm13114600
@@ -8,17 +8,18 @@ api_name:
 - Visio.Menu.TypeSpecific1
 ms.assetid: 49a71b4e-f55c-3708-e90d-7aeed64346a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menu.TypeSpecific1 Property (Visio)
+# Menu.TypeSpecific1 property (Visio)
 
 Gets or sets the type of a menu. Read/write.
 
 
 ## Syntax
 
- _expression_. `TypeSpecific1`
+_expression_. `TypeSpecific1`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
@@ -44,3 +45,4 @@ The value of an object's  **TypeSpecific1** property depends on the value of its
 | **visCtrlTypeEDITBOX**|Zero (0).|
 | **visCtrlTypeLABEL**|The  **TypeSpecific1** property is not used.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

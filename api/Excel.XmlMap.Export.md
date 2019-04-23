@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Export Method (Excel)
+title: XmlMap.Export method (Excel)
 keywords: vbaxl10.chm754089
 f1_keywords:
 - vbaxl10.chm754089
@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMap.Export
 ms.assetid: 174f902f-7244-866d-b16c-6a6bcf0ae58b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XmlMap.Export Method (Excel)
+# XmlMap.Export method (Excel)
 
 Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.md)** object to an XML data file.
 
 
 ## Syntax
 
- _expression_. `Export`( `_Url_` , `_Overwrite_` )
+_expression_.**Export** (_Url_, _Overwrite_)
 
- _expression_ An expression that returns an [XmlMap](./Excel.XmlMap.md) object.
+ _expression_ An expression that returns an [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path and file name of the XML data file to export to.|
-| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite the file specified in the _URL_ parameter if the file exists. The default value is **False** .|
+| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite the file specified in the _URL_ parameter if the file exists. The default value is **False**.|
 
 ## Return value
 
@@ -47,3 +48,4 @@ Use the  **[ExportXml](Excel.XmlMap.ExportXml.md)** method to export the content
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

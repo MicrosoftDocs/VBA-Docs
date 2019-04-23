@@ -1,5 +1,5 @@
 ---
-title: Document.Stat Property (Visio)
+title: Document.Stat property (Visio)
 keywords: vis_sdr.chm10514420
 f1_keywords:
 - vis_sdr.chm10514420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Stat
 ms.assetid: 4121b945-ab6c-ce15-9441-78e031907004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Stat Property (Visio)
+# Document.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

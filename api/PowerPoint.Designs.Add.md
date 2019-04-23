@@ -1,5 +1,5 @@
 ---
-title: Designs.Add Method (PowerPoint)
+title: Designs.Add method (PowerPoint)
 keywords: vbapp10.chm643004
 f1_keywords:
 - vbapp10.chm643004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Designs.Add
 ms.assetid: 00608390-a12b-d698-36a6-ded2df3cc26a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Designs.Add Method (PowerPoint)
+# Designs.Add method (PowerPoint)
 
 Returns a  **[Design](PowerPoint.Design.md)** object that represents a new slide design.
 
 
 ## Syntax
 
- _expression_. `Add`( `_designName_`, `_Index_` )
+_expression_.**Add**( `_designName_`, `_Index_` )
 
- _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
+_expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ Design
 
 [Designs Object](PowerPoint.Designs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

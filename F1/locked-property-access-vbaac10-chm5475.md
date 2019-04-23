@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 051075b4-97cf-48bb-a463-2e540e11e59c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [SubForm.Locked property (Access)](http://msdn.microsoft.com/library/30e0f94d-2a45-7185-1aa9-f0c6f42904c3%28Office.15%29.aspx)
 [ToggleButton.Locked property (Access)](http://msdn.microsoft.com/library/1fb9951a-e531-0423-38bf-f7e4c922acc6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

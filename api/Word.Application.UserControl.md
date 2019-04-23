@@ -1,5 +1,5 @@
 ---
-title: Application.UserControl Property (Word)
+title: Application.UserControl property (Word)
 keywords: vbawd10.chm158335077
 f1_keywords:
 - vbawd10.chm158335077
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.UserControl
 ms.assetid: 65cf8ccc-f846-cd86-a8d6-0b2951bad604
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UserControl Property (Word)
+# Application.UserControl property (Word)
 
- **True** if the document or application was created or opened by the user. Read-only **Boolean** .
+ **True** if the document or application was created or opened by the user. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UserControl`
+_expression_. `UserControl`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -28,7 +29,7 @@ ms.date: 06/08/2017
 The  **UserControl** property returns **False** if the application was created or opened programmatically from another Microsoft Office application with the **Open** method or the **CreateObject** or **GetObject** method.
 
 
- **Note**  If Word is visible to the user, or if you call the  **UserControl** property of an **Application** object from within a code module, this property will always return **True** .
+ **Note**  If Word is visible to the user, or if you call the  **UserControl** property of an **Application** object from within a code module, this property will always return **True**.
 
 
 ## Example
@@ -53,3 +54,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

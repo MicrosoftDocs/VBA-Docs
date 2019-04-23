@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.pty Property (Visio)
+title: MSGWrap.pty property (Visio)
 keywords: vis_sdr.chm16150805
 f1_keywords:
 - vis_sdr.chm16150805
@@ -8,17 +8,18 @@ api_name:
 - Visio.MSGWrap.pty
 ms.assetid: 1f3ecb54-db9c-4d07-fbe2-a63b2e4be083
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MSGWrap.pty Property (Visio)
+# MSGWrap.pty property (Visio)
 
 Gets or sets the  **pt.y** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `pty`
+_expression_. `pty`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
@@ -34,4 +35,4 @@ The  **pty** property corresponds to the **pt.y** member in the **MSG** structur
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

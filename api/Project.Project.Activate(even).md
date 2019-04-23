@@ -1,28 +1,27 @@
 ---
-title: Project.Activate Event (Project)
+title: Project.Activate event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Activate
 ms.assetid: fd3b89be-ea9a-5574-be1e-01e3d042a4a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.Activate Event (Project)
+# Project.Activate event (Project)
 
 Occurs when switching to the project from another project, including when the project is opened or created.
 
 
 ## Syntax
 
- _expression_. `Activate`( ` _pj_` )
+_expression_.**Activate** (_pj_)
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -48,4 +47,4 @@ Private Sub Project_Activate(ByVal pj As MSProject.Project)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

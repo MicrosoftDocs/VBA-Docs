@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.IconIndex Property (Word)
+title: OLEFormat.IconIndex property (Word)
 keywords: vbawd10.chm154337289
 f1_keywords:
 - vbawd10.chm154337289
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.IconIndex
 ms.assetid: 091bd36d-75f6-b31b-ca8f-668a23f215d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.IconIndex Property (Word)
+# OLEFormat.IconIndex property (Word)
 
-Returns or sets the icon that is used when the  **[DisplayAsIcon](Word.OLEFormat.DisplayAsIcon.md)** property is **True** . Read/write **Long** .
+Returns or sets the icon that is used when the  **[DisplayAsIcon](Word.OLEFormat.DisplayAsIcon.md)** property is **True**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `IconIndex`
+_expression_. `IconIndex`
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -50,3 +51,4 @@ End If
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

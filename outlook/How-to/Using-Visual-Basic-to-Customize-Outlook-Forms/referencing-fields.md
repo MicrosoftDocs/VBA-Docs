@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 2ddf0f1d-f889-d631-caf2-af5d80c6b9ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ ms.date: 06/08/2017
 
 When you need to access the fields in an item, the method you use depends on whether the field is a standard built-in Outlook field, or a custom field.
 
-In either case, you do not access the field directly. Instead, you refer to the field as a property of the item you're working with.
+In either case, you do not access the field directly. Instead, you refer to the field as a property of the item you are working with.
 
 For example, to retrieve the text from the Subject field of a mail message, you use the  **Subject** property of the item, as shown in the following VBScript example.
 
@@ -32,4 +33,4 @@ If the field is a custom (user-defined) field, you access it using the  **UserPr
 MyReferral = Item.UserProperties("ReferredBy")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Item Property (Publisher)
+title: Hyperlinks.Item property (Publisher)
 keywords: vbapb10.chm6881280
 f1_keywords:
 - vbapb10.chm6881280
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlinks.Item
 ms.assetid: 8d288fc6-9ded-5732-b972-6fa366ef31c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks.Item Property (Publisher)
+# Hyperlinks.Item property (Publisher)
 
 Returns an individual object from a specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Hyperlinks** object.
 
@@ -42,4 +43,4 @@ MsgBox "Address of first hyperlink: " _
  .TextFrame.TextRange.Hyperlinks.Item(1).Address
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 5ddad9f9-c875-e37f-4424-d2a11b7355cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SlicerCache.RequireManualUpdate property (Excel)
 
- **True** when manual updates of the slicer cache required. **Boolean** Read/Write
+ **True** when manual updates of the slicer cache required. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RequireManualUpdate`
+_expression_. `RequireManualUpdate`
 
- _expression_ A variable that represents a [SlicerCache](./Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ ms.date: 06/08/2017
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

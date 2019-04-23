@@ -1,28 +1,27 @@
 ---
-title: ThemeFontScheme.Load Method (Office)
+title: ThemeFontScheme.Load method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Load
 ms.assetid: a9ac928e-904f-70bd-1e96-932243204d73
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# ThemeFontScheme.Load Method (Office)
+# ThemeFontScheme.Load method (Office)
 
 Loads the font scheme of a Microsoft Office theme from a file.
 
 
 ## Syntax
 
- _expression_. `Load`( `_FileName_` )
+_expression_.**Load** (_FileName_)
 
- _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
+_expression_ An expression that returns a **[ThemeFontScheme](Office.ThemeFontScheme.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,10 +39,8 @@ ThemeFontScheme.Load ("C:\myThemeFontScheme.xml")
 
 ## See also
 
-
-[ThemeFontScheme Object](Office.ThemeFontScheme.md)
-
+- [ThemeFontScheme object members](overview/Library-Reference/themefontscheme-members-office.md)
 
 
-[ThemeFontScheme Object Members](./overview/Library-Reference/themefontscheme-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

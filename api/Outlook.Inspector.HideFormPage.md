@@ -1,5 +1,5 @@
 ---
-title: Inspector.HideFormPage Method (Outlook)
+title: Inspector.HideFormPage method (Outlook)
 keywords: vbaol11.chm2967
 f1_keywords:
 - vbaol11.chm2967
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Inspector.HideFormPage
 ms.assetid: fbb0fec9-5a23-50f8-0be6-3d264859f327
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Inspector.HideFormPage Method (Outlook)
+# Inspector.HideFormPage method (Outlook)
 
 Hides a form page or a form region in the inspector.
 
 
 ## Syntax
 
- _expression_. `HideFormPage`( `_PageName_` )
+_expression_. `HideFormPage`( `_PageName_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters
@@ -73,3 +74,4 @@ End Sub
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

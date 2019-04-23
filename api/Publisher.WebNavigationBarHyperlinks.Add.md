@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks.Add Method (Publisher)
+title: WebNavigationBarHyperlinks.Add method (Publisher)
 keywords: vbapb10.chm8585220
 f1_keywords:
 - vbapb10.chm8585220
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Add
 ms.assetid: 6cd0c43a-fec1-c9b8-dc86-00e1cc314087
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks.Add Method (Publisher)
+# WebNavigationBarHyperlinks.Add method (Publisher)
 
 Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks** collection and returns the new **Hyperlink** object. .
 
 
 ## Syntax
 
- _expression_. **Add**(**_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**,  **_Index_**)
+_expression_.**Add**(**_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**,  **_Index_**)
 
  _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
@@ -54,3 +55,4 @@ RelativePage can be one of these  [PbHlinkTargetType](Publisher.PbHlinkTargetTyp
 | **pbHlinkTargetTypePreviousPage**|
 | **pbHlinkTargetTypeURL**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

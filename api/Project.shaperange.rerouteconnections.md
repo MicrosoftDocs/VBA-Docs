@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.RerouteConnections Method (Project)
+title: ShapeRange.RerouteConnections method (Project)
 ms.prod: project-server
 ms.assetid: fac10082-a7e3-9d7d-af75-536a35e7b3ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.RerouteConnections Method (Project)
+# ShapeRange.RerouteConnections method (Project)
 The  **RerouteConnections** method is not implemented in Project.
 
 ## Syntax
 
- _expression_. `RerouteConnections`
+_expression_. `RerouteConnections`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -30,3 +31,5 @@ In general for applications that implement Office Art, the  **RerouteConnections
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: beb40e9f-527e-3c14-39ac-7bc8563826f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTableNameChanges.Count property (Excel)
 
-Returns a  **Long** value that represents the number of a [ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) objects in a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) collection. Read-only.
+Returns a  **Long** value that represents the number of [ModelTableNameChange](Excel.modeltablenamechange.md) objects in a **ModelTableNameChanges** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object.
+_expression_ A variable that represents a **[ModelTableNameChanges](Excel.modeltablenamechanges.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns a  **Long** value that represents the number of a [ModelTableNameChange 
 
 [ModelTableNameChanges Object](Excel.modeltablenamechanges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

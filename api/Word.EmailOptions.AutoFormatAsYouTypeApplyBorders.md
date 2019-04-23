@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyBorders Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyBorders property (Word)
 keywords: vbawd10.chm165347589
 f1_keywords:
 - vbawd10.chm165347589
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyBorders
 ms.assetid: 24e0f74e-b57e-d81c-2e36-c08adb59bf5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyBorders Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyBorders property (Word)
 
- **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean** .
+ **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyBorders`
+_expression_. `AutoFormatAsYouTypeApplyBorders`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -52,3 +53,4 @@ MsgBox Options.AutoFormatAsYouTypeApplyBorders
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

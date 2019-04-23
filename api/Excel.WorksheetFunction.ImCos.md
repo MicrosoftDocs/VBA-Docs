@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImCos Method (Excel)
+title: WorksheetFunction.ImCos method (Excel)
 keywords: vbaxl10.chm137282
 f1_keywords:
 - vbaxl10.chm137282
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImCos
 ms.assetid: 959ac671-64e4-ac72-9421-d7074bd5d4a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImCos Method (Excel)
+# WorksheetFunction.ImCos method (Excel)
 
 Returns the cosine of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImCos`( `_Arg1_` )
+_expression_. `ImCos`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

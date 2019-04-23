@@ -1,5 +1,5 @@
 ---
-title: Find.Replacement Property (Word)
+title: Find.Replacement property (Word)
 keywords: vbawd10.chm162529305
 f1_keywords:
 - vbawd10.chm162529305
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.Replacement
 ms.assetid: b0c728d6-4f2e-6c01-da95-ab59c79ce752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.Replacement Property (Word)
+# Find.Replacement property (Word)
 
 Returns a  **[Replacement](Word.Replacement.md)** object that contains the criteria for a replace operation.
 
 
 ## Syntax
 
- _expression_. `Replacement`
+_expression_. `Replacement`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
@@ -67,3 +68,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

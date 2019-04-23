@@ -8,19 +8,20 @@ api_name:
 - Excel.PublishObject.AutoRepublish
 ms.assetid: edf5579f-eb70-85d3-de5d-1ae229359898
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PublishObject.AutoRepublish property (Excel)
 
-When a workbook is saved, Microsoft Excel determines if any item in the  **[PublishObjects](Excel.PublishObjects.md)** collection has the **AutoRepublish** property set to **True** and, if so, republishes it. The default value is **False** . Read/write **Boolean** .
+When a workbook is saved, Microsoft Excel determines if any item in the  **[PublishObjects](Excel.PublishObjects.md)** collection has the **AutoRepublish** property set to **True** and, if so, republishes it. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoRepublish`
+_expression_. `AutoRepublish`
 
- _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End Sub
 
 [PublishObject Object](Excel.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SpellingOptions.ArabicStrictAlefHamza
 ms.assetid: 0e144aee-eb66-173f-2ee0-69ad433fcd25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words b
 
 ## Syntax
 
- _expression_. `ArabicStrictAlefHamza`
+_expression_. `ArabicStrictAlefHamza`
 
- _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
+_expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words b
 
 ## Remarks
 
- **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza; otherwise **False** .
+ **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza; otherwise **False**.
 
 
 ## See also
@@ -38,3 +39,4 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words b
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

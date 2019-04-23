@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (PowerPoint)
+title: Hyperlink object (PowerPoint)
 keywords: vbapp10.chm526000
 f1_keywords:
 - vbapp10.chm526000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Hyperlink
 ms.assetid: c8d53079-b280-c93c-a3c9-b865d09abe1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink Object (PowerPoint)
+# Hyperlink object (PowerPoint)
 
 Represents a hyperlink associated with a non-placeholder shape or text. 
 
@@ -57,7 +58,7 @@ ActivePresentation.Slides(1).Shapes(3) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToFavorites](./PowerPoint.Hyperlink.AddToFavorites.md)|
 |[CreateNewDocument](./PowerPoint.Hyperlink.CreateNewDocument.md)|
@@ -68,7 +69,7 @@ ActivePresentation.Slides(1).Shapes(3) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](./PowerPoint.Hyperlink.Address.md)|
 |[Application](./PowerPoint.Hyperlink.Application.md)|
@@ -83,4 +84,6 @@ ActivePresentation.Slides(1).Shapes(3) _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

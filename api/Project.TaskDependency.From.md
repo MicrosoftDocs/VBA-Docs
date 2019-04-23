@@ -1,5 +1,5 @@
 ---
-title: TaskDependency.From Property (Project)
+title: TaskDependency.From property (Project)
 keywords: vbapj.chm132290
 f1_keywords:
 - vbapj.chm132290
@@ -8,17 +8,18 @@ api_name:
 - Project.TaskDependency.From
 ms.assetid: 76127fff-e8c0-f5b4-da5b-510a5f2222fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskDependency.From Property (Project)
+# TaskDependency.From property (Project)
 
 Gets a  **[Task](Project.Task.md)** object that is the predecessor in a task dependency. Read-only **Task**.
 
 
 ## Syntax
 
- _expression_. `From`
+_expression_. `From`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 
@@ -47,4 +48,4 @@ Sub TestDependenciesFrom()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

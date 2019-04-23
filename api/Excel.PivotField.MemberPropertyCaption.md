@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.MemberPropertyCaption
 ms.assetid: 66f2ad5f-cd37-74ef-e9df-cd4793212026
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.MemberPropertyCaption property (Excel)
 
-Setting the  **MemberPropertyCaption** property controls which member property is used as caption for a given level. Read/write **Boolean** .
+Setting the  **MemberPropertyCaption** property controls which member property is used as caption for a given level. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MemberPropertyCaption`
+_expression_. `MemberPropertyCaption`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ When  **MemberPropertyCaption** is set, the setting is remembered while toggling
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

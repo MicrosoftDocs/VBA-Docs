@@ -1,5 +1,5 @@
 ---
-title: OlPermission Enumeration (Outlook)
+title: OlPermission enumeration (Outlook)
 keywords: vbaol11.chm3101
 f1_keywords:
 - vbaol11.chm3101
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlPermission
 ms.assetid: 11126d37-33da-53f7-f5b6-ea8603998651
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlPermission Enumeration (Outlook)
+# OlPermission enumeration (Outlook)
 
 Indicates the permission restrictions on an  **Item**.
 
@@ -25,6 +26,6 @@ Indicates the permission restrictions on an  **Item**.
 
 ## Remarks
 
-Used by the [SharingItem.Permission Property (Outlook)](Outlook.SharingItem.Permission.md) and [MailItem.Permission Property (Outlook)](Outlook.MailItem.Permission.md) to specify the permissions that the recipients will have on the item.
+Used by the [SharingItem.Permission property (Outlook)](Outlook.SharingItem.Permission.md) and [MailItem.Permission property (Outlook)](Outlook.MailItem.Permission.md) to specify the permissions that the recipients will have on the item.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

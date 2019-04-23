@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d6494cfd-f05b-42f2-bace-8cc200444ec4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.QueryCancelWindowClose Event (Visio)](http://msdn.microsoft.com/library/78fb3502-4827-5add-1ff1-5dd3e3b6f143%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

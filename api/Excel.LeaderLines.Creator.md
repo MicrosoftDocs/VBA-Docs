@@ -8,19 +8,20 @@ api_name:
 - Excel.LeaderLines.Creator
 ms.assetid: 6b2769a0-b54d-e75d-2ada-aa220809e238
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # LeaderLines.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [LeaderLines](Excel.LeaderLines-graph-property.md) object.
+_expression_ A variable that represents a [LeaderLines](Excel.LeaderLines-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [LeaderLines Object](Excel.LeaderLines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

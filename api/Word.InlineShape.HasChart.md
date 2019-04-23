@@ -1,5 +1,5 @@
 ---
-title: InlineShape.HasChart Property (Word)
+title: InlineShape.HasChart property (Word)
 keywords: vbawd10.chm162005140
 f1_keywords:
 - vbawd10.chm162005140
@@ -8,17 +8,18 @@ api_name:
 - Word.InlineShape.HasChart
 ms.assetid: f8b88eef-ec41-fc03-f58b-e346d240a121
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.HasChart Property (Word)
+# InlineShape.HasChart property (Word)
 
  **True** if the specified shape is a chart. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasChart`
+_expression_. `HasChart`
 
  _expression_ An expression that returns an [InlineShape](./Word.InlineShape.md) object.
 
@@ -33,3 +34,4 @@ This property always returns false for OLE charts. For OLE charts, use  `InlineS
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

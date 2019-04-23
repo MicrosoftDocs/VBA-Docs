@@ -1,5 +1,5 @@
 ---
-title: Results Object (Outlook)
+title: Results object (Outlook)
 keywords: vbaol11.chm3012
 f1_keywords:
 - vbaol11.chm3012
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Results
 ms.assetid: 59057f6f-8f6d-eed0-c945-240b9593b7ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Results Object (Outlook)
+# Results object (Outlook)
 
 Contains data and results returned by the  **[Search](Outlook.Search.md)** object and the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
 
@@ -67,7 +68,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ItemAdd](Outlook.Results.ItemAdd.md)|
 |[ItemChange](Outlook.Results.ItemChange.md)|
@@ -77,7 +78,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetFirst](Outlook.Results.GetFirst.md)|
 |[GetLast](Outlook.Results.GetLast.md)|
@@ -92,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Results.Application.md)|
 |[Class](Outlook.Results.Class.md)|
@@ -104,4 +105,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

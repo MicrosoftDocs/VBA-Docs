@@ -1,5 +1,5 @@
 ---
-title: DropCap Object (Publisher)
+title: DropCap object (Publisher)
 keywords: vbapb10.chm5570559
 f1_keywords:
 - vbapb10.chm5570559
@@ -8,10 +8,11 @@ api_name:
 - Publisher.DropCap
 ms.assetid: 7c6aeffe-cf25-a834-52de-5966df5e21d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap Object (Publisher)
+# DropCap object (Publisher)
 
 Represents a dropped capital letter at the beginning of a paragraph.
  
@@ -36,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyCustomDropCap](Publisher.DropCap.ApplyCustomDropCap.md)|
 |[Clear](Publisher.DropCap.Clear.md)|
@@ -45,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.DropCap.Application.md)|
 |[FontBold](Publisher.DropCap.FontBold.md)|
@@ -57,3 +58,4 @@ End Sub
 |[Size](Publisher.DropCap.Size.md)|
 |[Span](Publisher.DropCap.Span.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 82f08fba-d54b-8f20-6d29-9c95bdca0230
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The process of breaking execution is useful, but if left unhandled, it results i
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

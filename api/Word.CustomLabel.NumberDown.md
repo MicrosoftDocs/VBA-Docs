@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.NumberDown Property (Word)
+title: CustomLabel.NumberDown property (Word)
 keywords: vbawd10.chm152371210
 f1_keywords:
 - vbawd10.chm152371210
@@ -8,17 +8,18 @@ api_name:
 - Word.CustomLabel.NumberDown
 ms.assetid: d2257e2f-2641-764c-d5a1-72a1fddb6f22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel.NumberDown Property (Word)
+# CustomLabel.NumberDown property (Word)
 
-Returns or sets the number of custom mailing labels down the length of a page. Read/write  **Long** .
+Returns or sets the number of custom mailing labels down the length of a page. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `NumberDown`
+_expression_. `NumberDown`
 
  _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
@@ -47,3 +48,4 @@ MsgBox Prompt:= "Number of labels across " & numAcr & vbCr _
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

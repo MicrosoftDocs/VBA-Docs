@@ -1,14 +1,15 @@
 ---
-title: WdLinkType Enumeration (Word)
+title: WdLinkType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLinkType
 ms.assetid: d9d2c0ba-47a9-e88c-b4ab-cf8b449a5981
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdLinkType Enumeration (Word)
+# WdLinkType enumeration (Word)
 
 Specifies the type of link.
 
@@ -26,3 +27,4 @@ Specifies the type of link.
 | **wdLinkTypeReference**|3|Reference library.|
 | **wdLinkTypeText**|2|Text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0f2a805a-303a-43b4-6578-6c7ba3bb2627
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,4 @@ In earlier versions, when you started an application that uses Visual Basic for 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

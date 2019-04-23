@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Select Method (Word)
+title: ContentControlListEntry.Select method (Word)
 keywords: vbawd10.chm147456109
 f1_keywords:
 - vbawd10.chm147456109
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControlListEntry.Select
 ms.assetid: f600e267-39d9-238d-c6d2-9efba6b4044d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControlListEntry.Select Method (Word)
+# ContentControlListEntry.Select method (Word)
 
 Selects the list entry in a drop-down list or combo box content control and sets the text of the content control to the value of the item.
 
 
 ## Syntax
 
- _expression_. `Select`
+_expression_.**Select**
 
  _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
@@ -55,3 +56,4 @@ objCE.Select
 
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

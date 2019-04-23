@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (PowerPoint)
+title: ShapeRange.Select method (PowerPoint)
 keywords: vbapp10.chm548052
 f1_keywords:
 - vbapp10.chm548052
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Select
 ms.assetid: 475f035e-a266-c263-eb62-542c51bb4087
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Select Method (PowerPoint)
+# ShapeRange.Select method (PowerPoint)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_.**Select** (_Replace_)
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Parameters
@@ -39,7 +40,7 @@ The  _Replace_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The selection is added to the previous selection.|
 |**msoTrue**|The default. The selection replaces any previous selection.|
@@ -68,3 +69,4 @@ ActivePresentation.Slides(1).Shapes.Range(Array(2, 4)).Select
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

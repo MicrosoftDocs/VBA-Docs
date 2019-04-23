@@ -7,38 +7,35 @@ ms.prod: access
 api_name:
 - Access.Section.HasContinued
 ms.assetid: 843cb415-5cab-f380-f6f9-854f91393576
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Section.HasContinued property (Access)
 
-You can use the  **HasContinued** property to determine if part of the current section begins on the previous page. Read/write **Boolean**.
+You can use the **HasContinued** property to determine if part of the current section begins on the previous page. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `HasContinued`
+_expression_.**HasContinued**
 
-_expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a **[Section](Access.Section.md)** object.
 
 
 ## Remarks
 
-The  **HasContinued** property is set by Microsoft Access and is read-only in all views.
+The **HasContinued** property is set by Microsoft Access and is read-only in all views.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Part of the current section has been printed on the previous page.|
 |**False**|Part of the current section hasn't been printed on the previous page.|
 
-You can use this property to determine whether to show or hide certain controls depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued from previous page". If the value of the  **HasContinued** property is **True**, you can make the hidden label visible.
+You can use this property to determine whether to show or hide certain controls depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued from previous page." If the value of the **HasContinued** property is **True**, you can make the hidden label visible.
 
 
-## See also
 
 
-[Section Object](Access.Section.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

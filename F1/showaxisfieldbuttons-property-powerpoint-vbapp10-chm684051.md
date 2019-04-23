@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8e217cd9-0cf8-4a74-a500-92034d2ee130
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ShowReportFilterFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/a254a18b-466a-bee4-772e-3352dc27249b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

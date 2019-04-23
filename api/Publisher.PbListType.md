@@ -1,5 +1,5 @@
 ---
-title: PbListType Enumeration (Publisher)
+title: PbListType enumeration (Publisher)
 keywords: vbapb10.chm65609
 f1_keywords:
 - vbapb10.chm65609
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbListType
 ms.assetid: 2190e95a-a649-5b04-d5a4-1fc53786b152
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbListType Enumeration (Publisher)
+# PbListType enumeration (Publisher)
 
 Constants specifying the list type of a  **ParagraphFormat** object, passed to the **SetListType** method.
 
@@ -67,3 +68,4 @@ Constants specifying the list type of a  **ParagraphFormat** object, passed to t
 | **pbListTypeZodiac1**|30|Zodiac1|
 | **pbListTypeZodiac2**|31|Zodiac2|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

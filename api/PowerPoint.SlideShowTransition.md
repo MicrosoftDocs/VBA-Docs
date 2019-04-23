@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition Object (PowerPoint)
+title: SlideShowTransition object (PowerPoint)
 keywords: vbapp10.chm539000
 f1_keywords:
 - vbapp10.chm539000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SlideShowTransition
 ms.assetid: 60707d0d-62a8-0366-c22f-c5c5635fd762
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowTransition Object (PowerPoint)
+# SlideShowTransition object (PowerPoint)
 
 Contains information about how the specified slide advances during a slide show.
 
@@ -46,7 +47,7 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvanceOnClick](./PowerPoint.SlideShowTransition.AdvanceOnClick.md)|
 |[AdvanceOnTime](./PowerPoint.SlideShowTransition.AdvanceOnTime.md)|
@@ -63,4 +64,6 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

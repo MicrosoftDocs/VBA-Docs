@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkFormat Property (PowerPoint)
+title: Shape.LinkFormat property (PowerPoint)
 keywords: vbapp10.chm547045
 f1_keywords:
 - vbapp10.chm547045
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.LinkFormat
 ms.assetid: b742d78a-2fd3-1eb9-76d1-f2a2263cc68a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LinkFormat Property (PowerPoint)
+# Shape.LinkFormat property (PowerPoint)
 
 Returns a  **[LinkFormat](PowerPoint.LinkFormat.md)** object that contains the properties that are unique to linked OLE objects. Read-only.
 
 
 ## Syntax
 
- _expression_. `LinkFormat`
+_expression_. `LinkFormat`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -55,3 +56,4 @@ Next
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

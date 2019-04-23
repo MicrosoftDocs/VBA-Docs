@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.NegativeImage Property (Publisher)
+title: AdvancedPrintOptions.NegativeImage property (Publisher)
 keywords: vbapb10.chm7077893
 f1_keywords:
 - vbapb10.chm7077893
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.NegativeImage
 ms.assetid: 32a524ce-da31-8dfa-3286-c5d9c74367ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.NegativeImage Property (Publisher)
+# AdvancedPrintOptions.NegativeImage property (Publisher)
 
  **True** to print a negative image of the specified publication. The default is **False**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **NegativeImage**
+_expression_.**NegativeImage**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
@@ -62,3 +63,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

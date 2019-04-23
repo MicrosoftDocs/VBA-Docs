@@ -1,5 +1,5 @@
 ---
-title: Document.DisableFeatures Property (Word)
+title: Document.DisableFeatures property (Word)
 keywords: vbawd10.chm158007633
 f1_keywords:
 - vbawd10.chm158007633
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.DisableFeatures
 ms.assetid: 40a62de3-f74e-d604-d3fc-dfb26abeb313
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DisableFeatures Property (Word)
+# Document.DisableFeatures property (Word)
 
- **True** disables all features introduced after the version specified in the **[DisableFeaturesIntroducedAfter](Word.Document.DisableFeaturesIntroducedAfter.md)** property. The default value is **False** . Read/write **Boolean** .
+ **True** disables all features introduced after the version specified in the **[DisableFeaturesIntroducedAfter](Word.Document.DisableFeaturesIntroducedAfter.md)** property. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisableFeatures`
+_expression_. `DisableFeatures`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

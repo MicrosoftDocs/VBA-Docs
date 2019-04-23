@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EditDataSource Method (Word)
+title: MailMerge.EditDataSource method (Word)
 keywords: vbawd10.chm153092203
 f1_keywords:
 - vbawd10.chm153092203
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.EditDataSource
 ms.assetid: 2d1c681e-b8de-4692-288c-7a5b9f501288
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.EditDataSource Method (Word)
+# MailMerge.EditDataSource method (Word)
 
 Opens or switches to the mail merge data source.
 
 
 ## Syntax
 
- _expression_. `EditDataSource`
+_expression_. `EditDataSource`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks
@@ -66,3 +67,4 @@ End If
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

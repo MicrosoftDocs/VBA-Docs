@@ -8,6 +8,7 @@ api_name:
 - Excel.Sort.Rng
 ms.assetid: 5767a84c-ee1b-fc2b-a391-97ca318c455b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Return the range of values on which the sort is performed. Read-only.
 
 ## Syntax
 
- _expression_. `Rng`
+_expression_. `Rng`
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Return the range of values on which the sort is performed. Read-only.
 
 [Sort Object](Excel.Sort.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

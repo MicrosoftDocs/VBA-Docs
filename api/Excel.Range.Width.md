@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Width
 ms.assetid: 75c3aff6-25a0-2f64-2c25-da213b87393b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ Returns a **Double** value that represents the width of a range in points. Read-
 
 ## Syntax
 
-_expression_. `Width`
+_expression_.**Width**
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 ## Remarks
 
@@ -29,3 +30,4 @@ To set the width, use the **[ColumnWidth](excel.range.columnwidth.md)** property
 
 - [Range object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

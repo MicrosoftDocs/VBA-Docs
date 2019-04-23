@@ -1,5 +1,5 @@
 ---
-title: Shape.Copy Method (Publisher)
+title: Shape.Copy method (Publisher)
 keywords: vbapb10.chm2228242
 f1_keywords:
 - vbapb10.chm2228242
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Copy
 ms.assetid: cfec06d8-9f9b-4d88-eb28-e9e29fb1aed1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Copy Method (Publisher)
+# Shape.Copy method (Publisher)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. **Copy**
+_expression_.**Copy**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -60,4 +61,4 @@ This example copies the text in shape one on page one of the active publication 
 ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange.Copy
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

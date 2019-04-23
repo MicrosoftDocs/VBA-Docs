@@ -3,6 +3,7 @@ title: Adding Solution-Specific Folders to the Solutions Module
 ms.prod: outlook
 ms.assetid: 2180c3e3-b83b-7977-1bf6-61ae7cc64905
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ A solution root folder and its subfolders must reside on the same store. If the 
 
  [Customizing the Navigation Pane](customizing-the-navigation-pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

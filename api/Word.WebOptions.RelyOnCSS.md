@@ -1,5 +1,5 @@
 ---
-title: WebOptions.RelyOnCSS Property (Word)
+title: WebOptions.RelyOnCSS property (Word)
 keywords: vbawd10.chm165937155
 f1_keywords:
 - vbawd10.chm165937155
@@ -8,19 +8,20 @@ api_name:
 - Word.WebOptions.RelyOnCSS
 ms.assetid: 7d203567-e4a8-ac5a-4307-739d07996c2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.RelyOnCSS Property (Word)
+# WebOptions.RelyOnCSS property (Word)
 
- **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. The default value is **True** . Read/write **Boolean** .
+ **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RelyOnCSS`
+_expression_. `RelyOnCSS`
 
- _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ Application.DefaultWebOptions.RelyOnCSS = True
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: How Outlook Forms and Items Work Together
 ms.prod: outlook
 ms.assetid: e9b96721-3835-532e-990c-b11bf3affd6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,3 +17,4 @@ Every item contains a  **Message Class** field; this field contains the name of 
 
 If you are creating custom forms by using form regions, the message class must be specified in the Windows Registry. For more information, see  [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

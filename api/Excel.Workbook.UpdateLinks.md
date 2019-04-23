@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.UpdateLinks
 ms.assetid: c8d374d7-0b32-eb32-fa29-ab496d6786e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets an  **[XlUpdateLink](Excel.XlUpdateLinks.md)** constant indicati
 
 ## Syntax
 
- _expression_. `UpdateLinks`
+_expression_. `UpdateLinks`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Returns or sets an  **[XlUpdateLink](Excel.XlUpdateLinks.md)** constant indicati
 
 
 
-| **XlUpdateLinks** can be one of these **XlUpdateLinks** constants.|
+| **xlUpdateLinks** can be one of these **xlUpdateLinks** constants.|
 | **xlUpdateLinksAlways** Embedded OLE links are always updated for the specified workbook.|
 | **xlUpdateLinksNever** Embedded OLE links are never updated for the specified workbook.|
 | **xlUpdateLinksUserSetting** Embedded OLE links are updated according to the user's settings for the specified workbook.|
@@ -67,3 +68,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

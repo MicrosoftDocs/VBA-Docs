@@ -1,14 +1,15 @@
 ---
-title: WdHelpType Enumeration (Word)
+title: WdHelpType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHelpType
 ms.assetid: 798a78ec-73cc-62aa-32fd-19f08c4c556f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdHelpType Enumeration (Word)
+# WdHelpType enumeration (Word)
 
 Specifies the type of Help topic or window to display.
 
@@ -31,3 +32,4 @@ Specifies the type of Help topic or window to display.
 | **wdHelpSearch**|9|Displays the  **Help Topics** dialog box.|
 | **wdHelpUsingHelp**|10|Displays a list of Help topics that describe how to use Help.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

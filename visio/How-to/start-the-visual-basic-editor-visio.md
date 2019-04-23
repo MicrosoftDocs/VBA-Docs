@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 37db4db8-4c9b-6053-a99a-a7ed72ec7e72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 In the  **Code** group on the [Developer](run-visio-in-developer-mode.md) tab, click **Visual Basic**. Or press ALT+F11.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

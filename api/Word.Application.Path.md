@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (Word)
+title: Application.Path property (Word)
 keywords: vbawd10.chm158335057
 f1_keywords:
 - vbawd10.chm158335057
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Path
 ms.assetid: 224b4c66-f49c-55f1-8b6b-74f5ed979a3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Path Property (Word)
+# Application.Path property (Word)
 
-Returns the disk or Web path to the specified object. Read-only  **String** .
+Returns the disk or Web path to the specified object. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -65,3 +66,4 @@ If AddIns.Count >= 1 Then MsgBox AddIns(1).Path
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

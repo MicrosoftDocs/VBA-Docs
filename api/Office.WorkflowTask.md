@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask Object (Office)
+title: WorkflowTask object (Office)
 keywords: vbaof11.chm280000
 f1_keywords:
 - vbaof11.chm280000
@@ -7,18 +7,19 @@ ms.prod: office
 api_name:
 - Office.WorkflowTask
 ms.assetid: 9d17947e-f12a-2f97-7888-8d5ec9f85011
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# WorkflowTask Object (Office)
+# WorkflowTask object (Office)
 
-Represents a single workflow task in a  **WorkflowTasks** collection.
+Represents a single workflow task in a **WorkflowTasks** collection.
 
 
 ## Example
 
-The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the  **GetWorkflowTasks** method involves a round-trip to the server.
+The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the **GetWorkflowTasks** method involves a round-trip to the server.
 
 
 ```vb
@@ -41,36 +42,10 @@ End Sub
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Show](Office.WorkflowTask.Show.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.WorkflowTask.Application.md)|
-|[AssignedTo](Office.WorkflowTask.AssignedTo.md)|
-|[CreatedBy](Office.WorkflowTask.CreatedBy.md)|
-|[CreatedDate](Office.WorkflowTask.CreatedDate.md)|
-|[Creator](Office.WorkflowTask.Creator.md)|
-|[Description](Office.WorkflowTask.Description.md)|
-|[DueDate](Office.WorkflowTask.DueDate.md)|
-|[Id](Office.WorkflowTask.Id.md)|
-|[ListID](Office.WorkflowTask.ListID.md)|
-|[Name](Office.WorkflowTask.Name.md)|
-|[WorkflowID](Office.WorkflowTask.WorkflowID.md)|
-
 ## See also
 
+- [WorkflowTask object members](overview/Library-Reference/workflowtask-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

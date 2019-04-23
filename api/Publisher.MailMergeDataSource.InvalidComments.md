@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.InvalidComments Property (Publisher)
+title: MailMergeDataSource.InvalidComments property (Publisher)
 keywords: vbapb10.chm6291473
 f1_keywords:
 - vbapb10.chm6291473
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.InvalidComments
 ms.assetid: ee08b03a-57e2-d79c-ee9f-a6f9231c8d6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.InvalidComments Property (Publisher)
+# MailMergeDataSource.InvalidComments property (Publisher)
 
 If the  **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** property is **True**, this property returns or sets a  **String** that describes invalid data in a mail merge record. Read/write.
 
 
 ## Syntax
 
- _expression_. **InvalidComments**
+_expression_.**InvalidComments**
 
  _expression_ A variable that represents an  **MailMergeDataSource** object.
 
@@ -58,4 +59,4 @@ Sub ExcludeRecords()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

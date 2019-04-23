@@ -1,5 +1,5 @@
 ---
-title: PageSetup.GutterStyle Property (Word)
+title: PageSetup.GutterStyle property (Word)
 keywords: vbawd10.chm158400641
 f1_keywords:
 - vbawd10.chm158400641
@@ -8,19 +8,20 @@ api_name:
 - Word.PageSetup.GutterStyle
 ms.assetid: cf2dafc3-1f08-d60d-830b-80ee921ee4cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.GutterStyle Property (Word)
+# PageSetup.GutterStyle property (Word)
 
-Returns or sets whether Microsoft Word uses gutters for the current document based on a right-to-left language or a left-to-right language. Read/write  **WdGutterStyleOld** .
+Returns or sets whether Microsoft Word uses gutters for the current document based on a right-to-left language or a left-to-right language. Read/write  **WdGutterStyleOld**.
 
 
 ## Syntax
 
- _expression_. `GutterStyle`
+_expression_. `GutterStyle`
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.PageSetup.GutterStyle = wdGutterStyleBidi
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

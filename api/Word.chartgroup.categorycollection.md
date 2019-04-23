@@ -1,22 +1,23 @@
 ---
-title: ChartGroup.CategoryCollection Method (Word)
+title: ChartGroup.CategoryCollection method (Word)
 keywords: vbawd10.chm263454871
 f1_keywords:
 - vbawd10.chm263454871
 ms.prod: word
 ms.assetid: 63bd5ac0-15dc-16a3-843f-0b082bb81ea0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.CategoryCollection Method (Word)
+# ChartGroup.CategoryCollection method (Word)
 
 Returns all the visible categories in the chart group, or the specified visible category.
 
 
 ## Syntax
 
- _expression_. `CategoryCollection`_(Index)_
+_expression_. `CategoryCollection`_(Index)_
 
  _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
@@ -25,10 +26,10 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Index_|Optional|VARIANT|The index number in the visible category collection of the category to return.|
+| _Index_|Optional|**Variant**|The index number in the visible category collection of the category to return.|
 
 ## Return value
 
@@ -40,3 +41,4 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

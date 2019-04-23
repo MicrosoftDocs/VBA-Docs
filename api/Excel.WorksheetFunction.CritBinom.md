@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CritBinom Method (Excel)
+title: WorksheetFunction.CritBinom method (Excel)
 keywords: vbaxl10.chm137182
 f1_keywords:
 - vbaxl10.chm137182
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CritBinom
 ms.assetid: df9bb77f-b3b5-3e2b-d0b1-f42aabe9c14a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CritBinom Method (Excel)
+# WorksheetFunction.CritBinom method (Excel)
 
 Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.
 
 
 ## Syntax
 
- _expression_. `CritBinom`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `CritBinom`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Display Address Entry Details for the Sender of a Message
 ms.prod: outlook
 ms.assetid: 6d8224a6-b565-699a-7e05-f0f9331bf089
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ The recipient of each mail message deliverable by a transport provider has an ad
     
 3. Use the  **[AddressEntry.AddressEntryUserType](../../../api/Outlook.AddressEntry.AddressEntryUserType.md)** property to determine the type of the **AddressEntry**, and then display the details accordingly: 
     
-      - If the address entry is a contact item in the Outlook Contacts folder, or if the SMTP address of the sender matches an e-mail address of one contact item in the default Contacts folder, then display the address entry information in a Contacts inspector. To match e-mail addresses in the Contacts folder, use the Table object to do a quick filter on the  **[ContactItem.Email1Address](../../../api/Outlook.ContactItem.Email1Address.md)**,  **[ContactItem.Email2Address](../../../api/Outlook.ContactItem.Email2Address.md)**, and  **[ContactItem.Email3Address](../../../api/Outlook.ContactItem.Email3Address.md)** properties of items in that folder.
+      - If the address entry is a contact item in the Outlook Contacts folder, or if the SMTP address of the sender matches an email address of one contact item in the default Contacts folder, then display the address entry information in a Contacts inspector. To match email addresses in the Contacts folder, use the Table object to do a quick filter on the  **[ContactItem.Email1Address](../../../api/Outlook.ContactItem.Email1Address.md)**,  **[ContactItem.Email2Address](../../../api/Outlook.ContactItem.Email2Address.md)**, and  **[ContactItem.Email3Address](../../../api/Outlook.ContactItem.Email3Address.md)** properties of items in that folder.
     
-  - In all other cases, display the address entry information in the  **E-mail Properties** dialog box.
+  - In all other cases, display the address entry information in the  **Email Properties** dialog box.
     
 
 ## Remarks
@@ -75,4 +76,4 @@ Sub DisplayAddressEntryDetails(oM As MailItem)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

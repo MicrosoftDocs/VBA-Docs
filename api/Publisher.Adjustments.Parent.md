@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Parent Property (Publisher)
+title: Adjustments.Parent property (Publisher)
 keywords: vbapb10.chm2424834
 f1_keywords:
 - vbapb10.chm2424834
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Adjustments.Parent
 ms.assetid: 2114d703-194b-d6fa-08e9-53637a8a2010
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Adjustments.Parent Property (Publisher)
+# Adjustments.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents an  **Adjustments** object.
 
@@ -60,3 +61,4 @@ End Sub
 
  [Adjustments Object](Publisher.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6bd758ad-e40b-87f8-ed97-1f1c9cbadcfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Something unexpected appeared in the ASCII form file. Visual Basic created a log file to provide more detail about the errors. You should examine the log file to determine the severity of the problem. Sometimes you can safely ignore the errors (for example,  `Version number missing or invalid...`). Other times, however, the errors could cause the form not to run as expected (for example,  `Class MyClass in control MyControl was not a loaded control class.`).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

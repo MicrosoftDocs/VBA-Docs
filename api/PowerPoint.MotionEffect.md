@@ -1,5 +1,5 @@
 ---
-title: MotionEffect Object (PowerPoint)
+title: MotionEffect object (PowerPoint)
 keywords: vbapp10.chm658000
 f1_keywords:
 - vbapp10.chm658000
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect
 ms.assetid: 77a34f68-8806-22b8-149f-c28e0457e7e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect Object (PowerPoint)
+# MotionEffect object (PowerPoint)
 
 Represents a motion effect for an  **AnimationBehavior** object.
 
 
 ## Example
 
-Use the [MotionEffect](PowerPoint.AnimationBehavior.MotionEffect.md)propety of the  **AnimationBehavior** object to return a **MotionEffect** object. The following example refers to the motion effect for a given animation behavior.
+Use the [MotionEffect](PowerPoint.AnimationBehavior.MotionEffect.md) property of the  **AnimationBehavior** object to return a **MotionEffect** object. The following example refers to the motion effect for a given animation behavior.
 
 
 ```vb
@@ -63,3 +64,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

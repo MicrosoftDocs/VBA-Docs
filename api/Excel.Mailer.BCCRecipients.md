@@ -8,6 +8,7 @@ api_name:
 - Excel.Mailer.BCCRecipients
 ms.assetid: 68ddc18b-d96e-4e88-1123-8b3d94fb9209
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
- _expression_. `BCCRecipients`
+_expression_. `BCCRecipients`
 
- _expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
+_expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 [Mailer Object](Excel.Mailer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

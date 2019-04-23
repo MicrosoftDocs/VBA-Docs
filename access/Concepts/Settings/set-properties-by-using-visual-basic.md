@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3fa3677b-a779-3bc7-0f0f-827c252b3292
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ The following topics outline the steps involved for setting properties of each t
 
 - [Set properties of Data Access Objects in Visual Basic](../Data-Access-Objects/set-properties-of-data-access-objects-in-visual-basic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

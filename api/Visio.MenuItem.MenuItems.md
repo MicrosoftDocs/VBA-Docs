@@ -1,5 +1,5 @@
 ---
-title: MenuItem.MenuItems Property (Visio)
+title: MenuItem.MenuItems property (Visio)
 keywords: vis_sdr.chm12913905
 f1_keywords:
 - vis_sdr.chm12913905
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItem.MenuItems
 ms.assetid: eee46c53-4b9e-806d-c0be-7a4f907ee314
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItem.MenuItems Property (Visio)
+# MenuItem.MenuItems property (Visio)
 
 Returns the  **MenuItems** collection of a **MenuItem** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `MenuItems`
+_expression_. `MenuItems`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
@@ -88,4 +89,4 @@ Public Sub Menus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

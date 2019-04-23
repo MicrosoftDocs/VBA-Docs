@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.AddCopy Method (Visio)
+title: ValidationRuleSets.AddCopy method (Visio)
 keywords: vis_sdr.chm18160420
 f1_keywords:
 - vis_sdr.chm18160420
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRuleSets.AddCopy
 ms.assetid: a9510a97-7a85-3e68-6493-2a43840ef934
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.AddCopy Method (Visio)
+# ValidationRuleSets.AddCopy method (Visio)
 
 Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
 
 
 ## Syntax
 
- _expression_. `AddCopy`( `_RuleSet_` , `_NameU_` )
+_expression_. `AddCopy`( `_RuleSet_` , `_NameU_` )
 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
@@ -45,4 +46,4 @@ Similarly, if the value that you pass for the  _NameU_ matches the universal nam
 
 If the  _NameU_ parameter is not a valid string, Visio returns an Invalid Parameter error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

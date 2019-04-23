@@ -8,19 +8,20 @@ api_name:
 - Excel.Speech.SpeakCellOnEnter
 ms.assetid: a176820a-85ef-338c-b507-9ffb9d744631
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Speech.SpeakCellOnEnter property (Excel)
 
-Microsoft Excel supports a mode where the active cell will be spoken when the ENTER key is pressed or when the active cell is finished being edited. Setting the  **SpeakCellOnEnter** property to **True** will turn this mode on. **False** turns this mode off. Read/write **Boolean** .
+Microsoft Excel supports a mode where the active cell will be spoken when the ENTER key is pressed or when the active cell is finished being edited. Setting the  **SpeakCellOnEnter** property to **True** will turn this mode on. **False** turns this mode off. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SpeakCellOnEnter`
+_expression_. `SpeakCellOnEnter`
 
- _expression_ A variable that represents a [Speech](./Excel.Speech.md) object.
+_expression_ A variable that represents a [Speech](Excel.Speech.md) object.
 
 
 ## Example
@@ -49,3 +50,4 @@ End Sub
 
 [Speech Object](Excel.Speech.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

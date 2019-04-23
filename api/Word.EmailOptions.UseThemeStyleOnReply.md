@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.UseThemeStyleOnReply Property (Word)
+title: EmailOptions.UseThemeStyleOnReply property (Word)
 keywords: vbawd10.chm165347446
 f1_keywords:
 - vbawd10.chm165347446
@@ -8,24 +8,25 @@ api_name:
 - Word.EmailOptions.UseThemeStyleOnReply
 ms.assetid: 0d194a90-4977-bae3-29dc-2f69a7d40395
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.UseThemeStyleOnReply Property (Word)
+# EmailOptions.UseThemeStyleOnReply property (Word)
 
- **True** for Microsoft Word to use a theme when replying to e-mail. Read/write **Boolean** .
+ **True** for Microsoft Word to use a theme when replying to email. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UseThemeStyleOnReply`
+_expression_. `UseThemeStyleOnReply`
 
  _expression_ An expression that returns an '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Example
 
-This example tells Word to use a theme when replying to e-mail if Word uses a theme for new messages.
+This example tells Word to use a theme when replying to email if Word uses a theme for new messages.
 
 
 ```vb
@@ -44,3 +45,4 @@ End Sub
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

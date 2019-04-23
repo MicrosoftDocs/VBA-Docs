@@ -1,5 +1,5 @@
 ---
-title: Document.CreateLetterContent Method (Word)
+title: Document.CreateLetterContent method (Word)
 keywords: vbawd10.chm158007556
 f1_keywords:
 - vbawd10.chm158007556
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CreateLetterContent
 ms.assetid: 33f47344-31d2-4099-45fc-91af2d79dc7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CreateLetterContent Method (Word)
+# Document.CreateLetterContent method (Word)
 
 Creates and returns a  **LetterContent** object based on the specified letter elements. **LetterContent** object.
 
 
 ## Syntax
 
- _expression_. `CreateLetterContent`( `_DateFormat_` , `_IncludeHeaderFooter_` , `_PageDesign_` , `_LetterStyle_` , `_Letterhead_` , `_LetterheadLocation_` , `_LetterheadSize_` , `_RecipientName_` , `_RecipientAddress_` , `_Salutation_` , `_SalutationType_` , `_RecipientReference_` , `_MailingInstructions_` , `_AttentionLine_` , `_Subject_` , `_CCList_` , `_ReturnAddress_` , `_SenderName_` , `_Closing_` , `_SenderCompany_` , `_SenderJobTitle_` , `_SenderInitials_` , `_EnclosureNumber_` , `_InfoBlock_` , `_RecipientCode_` , `_RecipientGender_` , `_ReturnAddressShortForm_` , `_SenderCity_` , `_SenderCode_` , `_SenderGender_` , `_SenderReference_` )
+_expression_. `CreateLetterContent`( `_DateFormat_` , `_IncludeHeaderFooter_` , `_PageDesign_` , `_LetterStyle_` , `_Letterhead_` , `_LetterheadLocation_` , `_LetterheadSize_` , `_RecipientName_` , `_RecipientAddress_` , `_Salutation_` , `_SalutationType_` , `_RecipientReference_` , `_MailingInstructions_` , `_AttentionLine_` , `_Subject_` , `_CCList_` , `_ReturnAddress_` , `_SenderName_` , `_Closing_` , `_SenderCompany_` , `_SenderJobTitle_` , `_SenderInitials_` , `_EnclosureNumber_` , `_InfoBlock_` , `_RecipientCode_` , `_RecipientGender_` , `_ReturnAddressShortForm_` , `_SenderCity_` , `_SenderCode_` , `_SenderGender_` , `_SenderReference_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -52,14 +53,14 @@ Creates and returns a  **LetterContent** object based on the specified letter el
 | _SenderJobTitle_|Required| **String**|The job title of the person creating the letter.|
 | _SenderInitials_|Required| **String**|The initials of the person creating the letter.|
 | _EnclosureNumber_|Required| **Long**|The number of enclosures for the letter.|
-| _InfoBlock_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _RecipientCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _RecipientGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _ReturnAddressShortForm_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderCity_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderReference_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _InfoBlock_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _RecipientCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _RecipientGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _ReturnAddressShortForm_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SenderCity_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SenderCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SenderGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SenderReference_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Return value
 
@@ -98,3 +99,4 @@ ActiveDocument.RunLetterWizard LetterContent:=myLetter
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Sort.Orientation
 ms.assetid: 58c6264f-0c0c-f2d7-da2a-83277fdd0698
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Sort.Orientation property (Excel)
 
-Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.XlSortOrientation.md)** .
+Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.XlSortOrientation.md)**.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.
 
 
 
-|XlSortOrientation can be one of these  **XlSortOrientation** constants.|
+|XlSortOrientation can be one of these  **xlSortOrientation** constants.|
 | **xlSortColumns**|
 | **xlSortRows**|
 
@@ -38,3 +39,4 @@ Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.
 
 [Sort Object](Excel.Sort.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

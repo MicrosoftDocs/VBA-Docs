@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ReorderListMember Method (Visio)
+title: ContainerProperties.ReorderListMember method (Visio)
 keywords: vis_sdr.chm17662340
 f1_keywords:
 - vis_sdr.chm17662340
@@ -8,17 +8,18 @@ api_name:
 - Visio.ContainerProperties.ReorderListMember
 ms.assetid: 6bcb8928-750d-bea6-bee8-1a4f18cfd08e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContainerProperties.ReorderListMember Method (Visio)
+# ContainerProperties.ReorderListMember method (Visio)
 
 Moves a shape or a set of shapes up or down in the list.
 
 
 ## Syntax
 
- _expression_. `ReorderListMember`( `_ObjectToReorder_` , `_Position_` )
+_expression_. `ReorderListMember`( `_ObjectToReorder_` , `_Position_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
@@ -49,7 +50,7 @@ To insert after the final item in the list, set  _Position_ greater than or equa
 
 If you pass an out-of-range value for  _Position_, Visio uses the nearest valid position.
 
-If you pass a non-contiguous selection of list members for  _ObjectToReorder_, Visio makes the selection contiguous in the resulting reordered list, while maintaining relative position. For example, in a list ordered A,B,C,D, if you move B and D to position 1, the resutling list order is B,D,A,C.
+If you pass a non-contiguous selection of list members for  _ObjectToReorder_, Visio makes the selection contiguous in the resulting reordered list, while maintaining relative position. For example, in a list ordered A,B,C,D, if you move B and D to position 1, the resulting list order is B,D,A,C.
 
 
 ## Example
@@ -61,4 +62,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 vsoListShape.ContainerProperties.ReorderListMember vsoShape, 2
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

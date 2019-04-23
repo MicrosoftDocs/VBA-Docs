@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0ead6a8d-ac8c-4fb3-82c2-930d3486eb66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Use3DLook Property (Project)](http://msdn.microsoft.com/library/df4fce68-5ce1-5a99-3001-597a19871b1c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

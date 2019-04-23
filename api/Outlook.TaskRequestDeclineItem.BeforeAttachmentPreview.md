@@ -1,23 +1,24 @@
 ---
-title: TaskRequestDeclineItem.BeforeAttachmentPreview Event (Outlook)
+title: TaskRequestDeclineItem.BeforeAttachmentPreview event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentPreview
 ms.assetid: 339c65e6-cc14-338b-9946-01172b2e5a40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.BeforeAttachmentPreview Event (Outlook)
+# TaskRequestDeclineItem.BeforeAttachmentPreview event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is previewed.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ This event occurs before an attachment is previewed, either from the attachment 
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

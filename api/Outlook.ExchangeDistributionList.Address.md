@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Address Property (Outlook)
+title: ExchangeDistributionList.Address property (Outlook)
 keywords: vbaol11.chm2112
 f1_keywords:
 - vbaol11.chm2112
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeDistributionList.Address
 ms.assetid: 9bfb7b5c-02ec-febc-c411-574efaa52c55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Address Property (Outlook)
+# ExchangeDistributionList.Address property (Outlook)
 
-Returns or sets a  **String** representing the X400 e-mail address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** . Read/write.
+Returns or sets a  **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The  **Address** property must be set before calling the **[ExchangeDistribution
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

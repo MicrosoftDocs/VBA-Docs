@@ -1,5 +1,5 @@
 ---
-title: Document.PageSetup Property (Word)
+title: Document.PageSetup property (Word)
 keywords: vbawd10.chm158008397
 f1_keywords:
 - vbawd10.chm158008397
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.PageSetup
 ms.assetid: ddc90b56-f18b-3a30-23d3-24f95d9af8a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PageSetup Property (Word)
+# Document.PageSetup property (Word)
 
 Returns a  **PageSetup** object that is associated with the specified document.
 
 
 ## Syntax
 
- _expression_. `PageSetup`
+_expression_.**PageSetup**
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -48,3 +49,4 @@ MsgBox PointsToInches(ActiveDocument.PageSetup.LeftMargin) _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

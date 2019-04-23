@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 47bebd10-cd02-680f-f158-39c199e8ecf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotValueCell.Value property (Excel)
 
-Returns the value at the location. The value is the value after  **ShowAs** and other calculations have been applied. Variant can be **Empty** , **Number** , **Date** , **String** , or **Error** value.
+Returns the value at the location. The value is the value after  **ShowAs** and other calculations have been applied. Variant can be **Empty**, **Number**, **Date**, **String**, or **Error** value.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
+_expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End Sub
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

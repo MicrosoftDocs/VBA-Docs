@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Save Method (Outlook)
+title: AppointmentItem.Save method (Outlook)
 keywords: vbaol11.chm874
 f1_keywords:
 - vbaol11.chm874
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.Save
 ms.assetid: 177980e8-96cc-a72e-ede3-7aad3a98cf68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.Save Method (Outlook)
+# AppointmentItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example
@@ -53,3 +54,4 @@ End Sub
 
 [How to: Import Appointment XML Data into Outlook Appointment Objects](../outlook/How-to/Items-Folders-and-Stores/import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

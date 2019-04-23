@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilter.Description Property (Office)
+title: FileDialogFilter.Description property (Office)
 keywords: vbaof11.chm254003
 f1_keywords:
 - vbaof11.chm254003
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilter.Description
 ms.assetid: ae3c17d7-62e7-21f5-b543-ee498b7f4d23
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialogFilter.Description Property (Office)
+# FileDialogFilter.Description property (Office)
 
-Gets the description of each  **Filter** object as a **String** value. The description is the text that is displayed in a file dialog box. Read-only.
+Gets the description of each **Filter** object as a **String** value. The description is the text that is displayed in a file dialog box. Read-only.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_.**Description**
 
- _expression_ Required. A variable that represents a '[FileDialogFilter](Office.FileDialogFilter.md)' object.
+_expression_ Required. A variable that represents a **[FileDialogFilter](Office.FileDialogFilter.md)** object.
 
 
 ## Example
 
-The following example iterates through the default filters of the  **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file. The Extensions property is used to find the appropriate filter objects.
+The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file. The **Extensions** property is used to find the appropriate filter objects.
 
 
 ```vb
@@ -56,12 +57,8 @@ End Sub
 ```
 
 
-## See also
+# See also
 
+- [FileDialogFilter object members](overview/library-reference/filedialogfilter-members-office.md)
 
-[FileDialogFilter Object](Office.FileDialogFilter.md)
-
-
-
-[FileDialogFilter Object Members](./overview/Library-Reference/filedialogfilter-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

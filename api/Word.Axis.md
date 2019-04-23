@@ -1,5 +1,5 @@
 ---
-title: Axis Object (Word)
+title: Axis object (Word)
 keywords: vbawd10.chm1725
 f1_keywords:
 - vbawd10.chm1725
@@ -8,10 +8,11 @@ api_name:
 - Word.Axis
 ms.assetid: 3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis Object (Word)
+# Axis object (Word)
 
 Represents a single axis in a chart.
 
@@ -20,7 +21,7 @@ Represents a single axis in a chart.
 
 The  **Axis** object is a member of the **[Axes](Word.Axes.md)** collection.
 
-Use  **Axes** ( _Type_ , _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Word.xlaxistype.md)** constants: **xlCategory** , **xlSeries** , or **xlValue** . _AxisGroup_ can be one of the following **[XlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary** . For more information, see the **[Axes](Word.Chart.Axes.md)** method.
+Use  **Axes** ( _Type_ , _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Word.Chart.Axes.md)** method.
 
 
 ## Example
@@ -44,5 +45,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

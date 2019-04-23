@@ -1,5 +1,5 @@
 ---
-title: Chart.SaveChartTemplate Method (PowerPoint)
+title: Chart.SaveChartTemplate method (PowerPoint)
 keywords: vbapp10.chm684008
 f1_keywords:
 - vbapp10.chm684008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.SaveChartTemplate
 ms.assetid: 568abe18-27d3-4944-7bca-186faa534959
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.SaveChartTemplate Method (PowerPoint)
+# Chart.SaveChartTemplate method (PowerPoint)
 
 Saves a custom chart template to the list of available chart templates.
 
 
 ## Syntax
 
- _expression_. `SaveChartTemplate`( `_FileName_` )
+_expression_.**SaveChartTemplate** (_FileName_)
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

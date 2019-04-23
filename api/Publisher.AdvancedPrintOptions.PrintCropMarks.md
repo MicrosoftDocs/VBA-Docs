@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintCropMarks Property (Publisher)
+title: AdvancedPrintOptions.PrintCropMarks property (Publisher)
 keywords: vbapb10.chm7077895
 f1_keywords:
 - vbapb10.chm7077895
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.PrintCropMarks
 ms.assetid: 0b777632-572c-7080-8f4d-b97a284d04e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintCropMarks Property (Publisher)
+# AdvancedPrintOptions.PrintCropMarks property (Publisher)
 
  **True** to print crop marks for the specified publication. The default is **True**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **PrintCropMarks**
+_expression_.**PrintCropMarks**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
@@ -62,3 +63,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

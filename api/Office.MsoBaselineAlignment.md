@@ -1,18 +1,19 @@
 ---
-title: MsoBaselineAlignment Enumeration (Office)
+title: MsoBaselineAlignment enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBaselineAlignment
 ms.assetid: 5e764318-c398-19c0-2bc6-dbb97eac1c43
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoBaselineAlignment Enumeration (Office)
+# MsoBaselineAlignment enumeration (Office)
 
 Specifies baseline text alignment.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Specifies baseline text alignment.
 |**msoBaselineAlignMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoBaselineAlignTop**|2|Top alignment.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

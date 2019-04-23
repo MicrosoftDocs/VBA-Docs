@@ -1,5 +1,5 @@
 ---
-title: Year Object (Project)
+title: Year object (Project)
 keywords: vbapj.chm131361
 f1_keywords:
 - vbapj.chm131361
@@ -8,10 +8,11 @@ api_name:
 - Project.Year
 ms.assetid: 060e541f-f709-65dd-c955-5d04c1554373
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Year Object (Project)
+# Year object (Project)
 
 Represents a year in a project calendar. The  **Year** object is a member of the **[Years](Project.years.md)** collection.
  
@@ -101,7 +102,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Year.Default.md)|
 
@@ -109,7 +110,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Year.Application.md)|
 |[Calendar](Project.Year.Calendar.md)|
@@ -125,3 +126,4 @@ Figure 1 shows the results of the  **CountYears** macro.
 |[Shift5](Project.Year.Shift5.md)|
 |[Working](Project.Year.Working.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

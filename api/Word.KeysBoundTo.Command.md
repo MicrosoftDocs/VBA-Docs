@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Command Property (Word)
+title: KeysBoundTo.Command property (Word)
 keywords: vbawd10.chm160890884
 f1_keywords:
 - vbawd10.chm160890884
@@ -8,17 +8,18 @@ api_name:
 - Word.KeysBoundTo.Command
 ms.assetid: a8c8a12b-5dce-5103-9309-b0cb36042b80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeysBoundTo.Command Property (Word)
+# KeysBoundTo.Command property (Word)
 
 Returns a  **String** that represents the command assigned to the specified key combination. Read-only.
 
 
 ## Syntax
 
- _expression_. `Command`
+_expression_. `Command`
 
  _expression_ A variable that represents a '[KeysBoundTo](Word.keysboundto.md)' object.
 
@@ -47,3 +48,4 @@ If Count = 0 Then MsgBox "Keys haven't been assigned to fonts"
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.Chart
 ms.assetid: 35ef1be3-f8ff-d0df-e6de-2860e953c36d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart 
 
 ## Syntax
 
- _expression_. `Chart`
+_expression_.**Chart**
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart 
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

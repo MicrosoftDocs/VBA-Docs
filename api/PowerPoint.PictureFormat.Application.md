@@ -1,21 +1,22 @@
 ---
-title: PictureFormat.Application Property (PowerPoint)
+title: PictureFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.Application
 ms.assetid: 1fe92d27-cc82-60be-b9b2-d1dbded71d5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Application Property (PowerPoint)
+# PictureFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

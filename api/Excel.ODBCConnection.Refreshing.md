@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.Refreshing
 ms.assetid: 572bec20-9952-9985-09f1-ba328c56c321
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCConnection.Refreshing property (Excel)
 
- **True** if a background ODBC query is in progress for the specified ODBC connection. Read/write **Boolean** .
+ **True** if a background ODBC query is in progress for the specified ODBC connection. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Refreshing`
+_expression_. `Refreshing`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Use the  **[CancelRefresh](Excel.ODBCConnection.CancelRefresh.md)** method to ca
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

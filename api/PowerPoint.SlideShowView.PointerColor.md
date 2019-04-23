@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.PointerColor Property (PowerPoint)
+title: SlideShowView.PointerColor property (PowerPoint)
 keywords: vbapp10.chm513012
 f1_keywords:
 - vbapp10.chm513012
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.PointerColor
 ms.assetid: 29f4c5e0-0927-1dbb-7bc9-b147ae38ff88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.PointerColor Property (PowerPoint)
+# SlideShowView.PointerColor property (PowerPoint)
 
 Returns a  **ColorFormat** object that represents the pointer color for the specified presentation during one slide show. Read-only.
 
 
 ## Syntax
 
- _expression_. `PointerColor`
+_expression_. `PointerColor`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -40,3 +41,4 @@ To change the pointer to a pen, set the  **[PointerType](PowerPoint.SlideShowVie
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

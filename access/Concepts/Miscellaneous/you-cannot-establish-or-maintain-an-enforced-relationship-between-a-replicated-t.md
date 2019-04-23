@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 1bd3124e-452f-4cd7-8c71-dbc3267e63a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,3 +37,5 @@ Delete the relationship between the two tables before proceeding.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

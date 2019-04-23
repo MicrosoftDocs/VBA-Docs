@@ -3,6 +3,7 @@ title: DataFactory object, Query method, and CreateObject method example (VBScri
 ms.prod: access
 ms.assetid: 0753f100-43b9-b018-eec6-ff34c3f951ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -137,3 +138,5 @@ End Sub
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

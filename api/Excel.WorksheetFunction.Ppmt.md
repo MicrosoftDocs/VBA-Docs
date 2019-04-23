@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ppmt Method (Excel)
+title: WorksheetFunction.Ppmt method (Excel)
 keywords: vbaxl10.chm137141
 f1_keywords:
 - vbaxl10.chm137141
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Ppmt
 ms.assetid: 9b088c90-9db6-b043-ee3e-0f9709a06475
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Ppmt Method (Excel)
+# WorksheetFunction.Ppmt method (Excel)
 
 Returns the payment on the principal for a given period for an investment based on periodic, constant payments and a constant interest rate.
 
 
 ## Syntax
 
- _expression_. `Ppmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `Ppmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Make sure that you are consistent about the units you use for specifying rate an
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

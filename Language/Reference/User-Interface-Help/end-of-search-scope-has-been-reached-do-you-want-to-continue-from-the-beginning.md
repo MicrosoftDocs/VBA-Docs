@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 62314543-a54f-d0dc-d88f-52f3cbe77499
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ Your search was unsuccessful. This error has the following cause and solution:
 
 
 - Your downward search has reached the end of the specified scope. You can continue searching from the beginning of the search scope, or cancel and change the scope of the search.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

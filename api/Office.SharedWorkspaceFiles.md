@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFiles Object (Office)
+title: SharedWorkspaceFiles object (Office)
 keywords: vbaof11.chm267000
 f1_keywords:
 - vbaof11.chm267000
@@ -7,13 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles
 ms.assetid: 5e2937f7-f794-dffb-a1ec-69ea9a9e3546
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceFiles Object (Office)
+# SharedWorkspaceFiles object (Office)
 
-A collection of the  **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** objects in the current shared workspace.
+A collection of the **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** objects in the current shared workspace.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,7 +22,7 @@ A collection of the  **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** ob
 
 ## Example
 
-Use the  **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedWorkspace](Office.SharedWorkspace.md)** object to return a **SharedWorkspaceFiles** collection.
+Use the **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedWorkspace](Office.SharedWorkspace.md)** object to return a **SharedWorkspaceFiles** collection.
 
 
 ```vb
@@ -36,31 +37,11 @@ Use the  **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedW
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Add](Office.SharedWorkspaceFiles.Add.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.SharedWorkspaceFiles.Application.md)|
-|[Count](Office.SharedWorkspaceFiles.Count.md)|
-|[Creator](Office.SharedWorkspaceFiles.Creator.md)|
-|[Item](Office.SharedWorkspaceFiles.Item.md)|
-|[ItemCountExceeded](Office.SharedWorkspaceFiles.ItemCountExceeded.md)|
-|[Parent](Office.SharedWorkspaceFiles.Parent.md)|
-
 ## See also
 
+- [SharedWorkspaceFiles object members](overview/Library-Reference/sharedworkspacefiles-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

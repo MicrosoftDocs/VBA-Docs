@@ -3,6 +3,7 @@ title: Persisting Save as Web Page Settings
 ms.prod: visio
 ms.assetid: 3646a841-f99c-2906-856b-0fd5a642d499
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -50,3 +51,4 @@ For information regarding default values, see the table describing command-line 
 
 Serious problems might occur if you modify the registry incorrectly by using Registry Editor or by using another method. These problems might require that you reinstall the operating system. Microsoft cannot guarantee that these problems can be solved. Modify the registry at your own risk.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

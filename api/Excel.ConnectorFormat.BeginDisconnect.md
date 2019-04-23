@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginDisconnect Method (Excel)
+title: ConnectorFormat.BeginDisconnect method (Excel)
 keywords: vbaxl10.chm646074
 f1_keywords:
 - vbaxl10.chm646074
@@ -7,26 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.BeginDisconnect
 ms.assetid: 1edd106a-9f02-3916-401c-1b026e40d75a
-ms.date: 06/08/2017
+ms.date: 04/23/2019
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginDisconnect Method (Excel)
+# ConnectorFormat.BeginDisconnect method (Excel)
 
-Detaches the beginning of the specified connector from the shape it's attached to. This method doesn't alter the size or position of the connector: the beginning of the connector remains positioned at a connection site but is no longer connected. Use the  **[EndDisconnect](Excel.ConnectorFormat.EndDisconnect.md)** method to detach the end of the connector from a shape.
+Detaches the beginning of the specified connector from the shape it's attached to. This method doesn't alter the size or position of the connector; the beginning of the connector remains positioned at a connection site but is no longer connected. 
+
+Use the **[EndDisconnect](Excel.ConnectorFormat.EndDisconnect.md)** method to detach the end of the connector from a shape.
 
 
 ## Syntax
 
- _expression_. `BeginDisconnect`
+_expression_.**BeginDisconnect**
 
- _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
+_expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
-
+This example adds two rectangles to _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -44,8 +46,6 @@ End With
 ```
 
 
-## See also
 
 
-[ConnectorFormat Object](Excel.ConnectorFormat.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

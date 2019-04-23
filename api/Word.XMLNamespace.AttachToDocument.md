@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.AttachToDocument Method (Word)
+title: XMLNamespace.AttachToDocument method (Word)
 keywords: vbawd10.chm2293860
 f1_keywords:
 - vbawd10.chm2293860
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLNamespace.AttachToDocument
 ms.assetid: 18af2ed2-2806-401a-4cca-9d8746f25082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNamespace.AttachToDocument Method (Word)
+# XMLNamespace.AttachToDocument method (Word)
 
 Attaches an XML schema to a document.
 
 
 ## Syntax
 
- _expression_. `AttachToDocument`( `_Document_` )
+_expression_. `AttachToDocument`( `_Document_` )
 
  _expression_ An expression that represents a '[XMLNamespace](Word.XMLNamespace.md)' object.
 
@@ -54,3 +55,4 @@ objSchema.AttachToDocument ActiveDocument
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

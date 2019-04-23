@@ -1,5 +1,5 @@
 ---
-title: Selection.Item Method (Outlook)
+title: Selection.Item method (Outlook)
 keywords: vbaol11.chm86
 f1_keywords:
 - vbaol11.chm86
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Selection.Item
 ms.assetid: 981b107a-14d7-2dd3-6449-2737b2801c3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Item Method (Outlook)
+# Selection.Item method (Outlook)
 
 Returns a Microsoft Outlook item or conversation header from the selection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
+_expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ An  **Object** that represents the specified item or conversation header.
 
 ## Remarks
 
-Do not make any assumptions about the  **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](Outlook.ConversationHeader.md)** object. For example, the **Item** method can return an **[AppointmentItem](Outlook.AppointmentItem.md)** , **[MailItem](Outlook.MailItem.md)** , **[MeetingItem](Outlook.MeetingItem.md)** , or **[TaskItem](Outlook.TaskItem.md)** in the Inbox folder, depending on the value of the **[Selection.Location](Outlook.Selection.Location.md)** property.
+Do not make any assumptions about the  **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](Outlook.ConversationHeader.md)** object. For example, the **Item** method can return an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** in the Inbox folder, depending on the value of the **[Selection.Location](Outlook.Selection.Location.md)** property.
 
 The  **[Selection](Outlook.Selection.md)** collection contains **ConversationHeader** objects only if you specify **olConversationHeaders** in the **[GetSelection](Outlook.Selection.GetSelection.md)** method of the **Selection** object.
 
@@ -93,3 +94,4 @@ End Sub
 
 [Selection Object](Outlook.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

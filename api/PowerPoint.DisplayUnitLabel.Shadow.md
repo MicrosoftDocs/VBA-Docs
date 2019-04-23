@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Shadow Property (PowerPoint)
+title: DisplayUnitLabel.Shadow property (PowerPoint)
 keywords: vbapp10.chm699007
 f1_keywords:
 - vbapp10.chm699007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Shadow
 ms.assetid: 99be31f5-fb42-f39a-0a4c-199f1b9d5992
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Shadow Property (PowerPoint)
+# DisplayUnitLabel.Shadow property (PowerPoint)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_.**Shadow**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a value that indicates whether the object has a shadow. Read/wri
 
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

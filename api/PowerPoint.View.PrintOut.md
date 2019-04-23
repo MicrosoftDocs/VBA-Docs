@@ -1,5 +1,5 @@
 ---
-title: View.PrintOut Method (PowerPoint)
+title: View.PrintOut method (PowerPoint)
 keywords: vbapp10.chm512012
 f1_keywords:
 - vbapp10.chm512012
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.View.PrintOut
 ms.assetid: 244da3c5-ddb2-f79c-b8fc-cad4a293defe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.PrintOut Method (PowerPoint)
+# View.PrintOut method (PowerPoint)
 
 Prints the specified presentation.
 
 
 ## Syntax
 
- _expression_. `PrintOut`( `_From_`, `_To_`, `_PrintToFile_`, `_Copies_`, `_Collate_` )
+_expression_. `PrintOut`( `_From_`, `_To_`, `_PrintToFile_`, `_Copies_`, `_Collate_` )
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
@@ -41,7 +42,7 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Prints all copies of one page before printing the first copy of the next page.|
 |**msoTrue**|Prints a complete copy of the presentation before the first page of the next copy is printed.|
@@ -51,3 +52,4 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 
 [View Object](PowerPoint.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

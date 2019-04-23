@@ -5,6 +5,7 @@ api_name:
 - Visio.MarkupOverlaysVisible
 ms.assetid: 5e9f83b1-9c92-73b0-fa45-adf6b3ab612a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether markup overlays are visible in the c
 
 ## Syntax
 
- _expression_. **MarkupOverlaysVisible**
+_expression_.**MarkupOverlaysVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -32,11 +33,11 @@ A markup overlay is a layer that shows all the shapes, ink shapes, and comments 
 
 ## Example
 
-The following code shows how to turn off visiblity of markup overlays in Visio Viewer.
+The following code shows how to turn off visibility of markup overlays in Visio Viewer.
 
 
 ```vb
-vsoViewer.MarkupOverlaysVisble = False
+vsoViewer.MarkupOverlaysVisible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Creator Property (Word)
+title: DataLabel.Creator property (Word)
 keywords: vbawd10.chm233898133
 f1_keywords:
 - vbawd10.chm233898133
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabel.Creator
 ms.assetid: 3e261a34-9826-9c8e-5f5f-6fdd1101e9db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabel.Creator Property (Word)
+# DataLabel.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

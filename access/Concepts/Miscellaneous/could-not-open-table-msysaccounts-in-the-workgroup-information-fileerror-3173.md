@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a3f5372f-88e4-ecee-3ee5-fe2f2ba9037c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ This operation requires the System.mdw file, which contains the security and opt
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.OddLYield Method (Excel)
+title: WorksheetFunction.OddLYield method (Excel)
 keywords: vbaxl10.chm137337
 f1_keywords:
 - vbaxl10.chm137337
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.OddLYield
 ms.assetid: a87c0300-e63f-6e57-4f95-0f1a22622dfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.OddLYield Method (Excel)
+# WorksheetFunction.OddLYield method (Excel)
 
 Returns the yield of a security that has an odd (short or long) last period.
 
 
 ## Syntax
 
- _expression_. `OddLYield`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` )
+_expression_. `OddLYield`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -82,3 +83,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

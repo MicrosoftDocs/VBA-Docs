@@ -3,6 +3,7 @@ title: Save a Form with the Item (One-off Forms)
 ms.prod: outlook
 ms.assetid: 0983163c-6ae0-a391-ae31-afd7ec796d4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,12 +31,12 @@ In this typical scenario, information about the form (the form definition) is no
 
 However, it is possible to have Outlook store the form definition within individual items in a folder. These items are called one-off items and always use the form definition that is stored within the item instead of the published form.
 
-In most situations, the form definition should not be stored within the item. The most common exception to this is a custom e-mail message form. If you use Microsoft Exchange Server, you can publish a custom e-mail message form to the Organizational Forms Library so that it is always available to everyone in the organization. This way, you do not have to store the form definition in the item. 
+In most situations, the form definition should not be stored within the item. The most common exception to this is a custom email message form. If you use Microsoft Exchange Server, you can publish a custom email message form to the Organizational Forms Library so that it is always available to everyone in the organization. This way, you do not have to store the form definition in the item. 
 
-If you do not use Exchange Server, or if you are sending the form to another organization where the form is not available, select the **Send form definition with item** check box on the **Properties** page of the form when in design mode. Depending on security restrictions, this might enable the recipient to view the e-mail message with the custom form.
+If you do not use Exchange Server, or if you are sending the form to another organization where the form is not available, select the **Send form definition with item** check box on the **Properties** page of the form when in design mode. Depending on security restrictions, this might enable the recipient to view the email message with the custom form.
 
 > [!NOTE] 
-> If the recipient still cannot view your custom form, make sure that you customized or disabled the **Read** page of the custom e-mail form.
+> If the recipient still cannot view your custom form, make sure that you customized or disabled the **Read** page of the custom email form.
 
 If the custom form contains Microsoft Visual Basic Scripting Edition (VBScript), Outlook displays the macro virus warning unless the form is published in the Exchange Server Organizational Forms Library.
 
@@ -74,5 +75,5 @@ Although solutions and situations vary greatly, the following might indicate tha
 - The size of an item increases unexpectedly.
     
 - An item's icon changes unexpectedly.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

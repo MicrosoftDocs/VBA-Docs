@@ -1,5 +1,5 @@
 ---
-title: PbColorScheme Enumeration (Publisher)
+title: PbColorScheme enumeration (Publisher)
 keywords: vbapb10.chm65580
 f1_keywords:
 - vbapb10.chm65580
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbColorScheme
 ms.assetid: c6b745c0-2233-0dce-fb58-57c42f90b918
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbColorScheme Enumeration (Publisher)
+# PbColorScheme enumeration (Publisher)
 
 Represents a color scheme returned by the  **Item** property. It is a set of coordinated colors used collectively in a publication to provide consistent color.
 
@@ -89,3 +90,4 @@ Represents a color scheme returned by the  **Item** property. It is a set of coo
 | **pbColorSchemeWaterfall**|-56|Waterfall|
 | **pbColorSchemeWildflower**|-57|Wildflower|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

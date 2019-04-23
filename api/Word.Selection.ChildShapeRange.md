@@ -1,5 +1,5 @@
 ---
-title: Selection.ChildShapeRange Property (Word)
+title: Selection.ChildShapeRange property (Word)
 keywords: vbawd10.chm158663677
 f1_keywords:
 - vbawd10.chm158663677
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.ChildShapeRange
 ms.assetid: 1b7c1010-19e1-e849-0040-70e231aac133
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ChildShapeRange Property (Word)
+# Selection.ChildShapeRange property (Word)
 
 Returns a  **[ShapeRange](Word.shaperange.md)** collection representing the child shapes contained within a selection.
 
 
 ## Syntax
 
- _expression_. `ChildShapeRange`
+_expression_. `ChildShapeRange`
 
  _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 
@@ -63,3 +64,4 @@ End Sub
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

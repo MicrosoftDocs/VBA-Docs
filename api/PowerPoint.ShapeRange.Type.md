@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Type Property (PowerPoint)
+title: ShapeRange.Type property (PowerPoint)
 keywords: vbapp10.chm548038
 f1_keywords:
 - vbapp10.chm548038
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Type
 ms.assetid: bad9a4a8-267a-cfb5-e990-66bf751e5814
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Type Property (PowerPoint)
+# ShapeRange.Type property (PowerPoint)
 
 Represents the type of shape or shapes in a range of shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -63,3 +64,4 @@ The value of the  **Type** property can be one of these **MsoShapeType** constan
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

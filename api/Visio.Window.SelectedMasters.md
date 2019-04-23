@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedMasters Property (Visio)
+title: Window.SelectedMasters property (Visio)
 keywords: vis_sdr.chm11651645
 f1_keywords:
 - vis_sdr.chm11651645
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.SelectedMasters
 ms.assetid: 8a4546b4-4930-8c69-9df6-84e6b5a1bce0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.SelectedMasters Property (Visio)
+# Window.SelectedMasters property (Visio)
 
  Returns an array of the masters or master shortcuts selected in a Microsoft Visio stencil window. Read-only.
 
 
 ## Syntax
 
- _expression_. `SelectedMasters`
+_expression_. `SelectedMasters`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -92,4 +93,4 @@ Sub SelectedMasters_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

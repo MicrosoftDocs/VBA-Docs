@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4c1ea0e8-e6f6-a960-eb13-b4dfc2bf96fe
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -36,3 +37,4 @@ Such code still lists all the Visual Basic for Applications error messages, but 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

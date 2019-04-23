@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5390dbec-90d1-4408-b80e-25372f239889
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.MustFlushScopeBeginning Event (Visio)](http://msdn.microsoft.com/library/cb176106-b67a-134f-e171-6c454a47d3b2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

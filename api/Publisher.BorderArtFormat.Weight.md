@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Weight Property (Publisher)
+title: BorderArtFormat.Weight property (Publisher)
 keywords: vbapb10.chm7602182
 f1_keywords:
 - vbapb10.chm7602182
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArtFormat.Weight
 ms.assetid: 8ff67c8b-be41-a02e-5433-624baa0d888e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Weight Property (Publisher)
+# BorderArtFormat.Weight property (Publisher)
 
 Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
 
 
 ## Syntax
 
- _expression_. **Weight**
+_expression_.**Weight**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
@@ -50,3 +51,4 @@ End With
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

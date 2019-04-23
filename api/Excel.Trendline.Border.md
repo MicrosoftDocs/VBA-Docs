@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendline.Border
 ms.assetid: 5b253b40-e9c1-031d-305c-bfe4a600427c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 ## Syntax
 
- _expression_. `Border`
+_expression_.**Border**
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 [Trendline Object](Excel.Trendline(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

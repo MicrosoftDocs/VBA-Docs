@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.DisableLineHeightGrid Property (Word)
+title: Paragraphs.DisableLineHeightGrid property (Word)
 keywords: vbawd10.chm156762237
 f1_keywords:
 - vbawd10.chm156762237
@@ -8,17 +8,18 @@ api_name:
 - Word.Paragraphs.DisableLineHeightGrid
 ms.assetid: 287370a2-bf08-0104-ec28-ba9e934a8848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.DisableLineHeightGrid Property (Word)
+# Paragraphs.DisableLineHeightGrid property (Word)
 
- **True** if Microsoft Word aligns characters in the specified paragraphs to the line grid when a set number of lines per page is specified. Returns **wdUndefined** if the **DisableLineHeightGrid** property is set to **True** for only some of the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word aligns characters in the specified paragraphs to the line grid when a set number of lines per page is specified. Returns **wdUndefined** if the **DisableLineHeightGrid** property is set to **True** for only some of the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `DisableLineHeightGrid`
+_expression_. `DisableLineHeightGrid`
 
  _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
@@ -40,3 +41,4 @@ End With
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 45312fc9-6c40-2dcc-175c-2a64ea635cc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Set the Maximum and Minimum Values for a Scroll Bar
+# Set the Maximum and Minimum Values for a Scroll Bar
 
 The following example demonstrates the  **[Max](../../../api/Outlook.scrollbar.max.md)** and **[Min](../../../api/Outlook.scrollbar.min.md)** properties when used with a stand-alone **[ScrollBar](../../../api/Outlook.scrollbar.md)**. The user can set the  **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the ** [TextBox.MaxLength](../../../api/Outlook.textbox.maxlength.md)** property to restrict the number of characters entered for the **Max** and **Min** values.
 
@@ -92,4 +93,4 @@ Sub Item_CustomPropertyChange(byval pname)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

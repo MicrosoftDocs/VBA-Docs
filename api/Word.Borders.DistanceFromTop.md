@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFromTop Property (Word)
+title: Borders.DistanceFromTop property (Word)
 keywords: vbawd10.chm154927108
 f1_keywords:
 - vbawd10.chm154927108
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.DistanceFromTop
 ms.assetid: 4e657225-0428-5d9f-582f-e2263fcd0437
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.DistanceFromTop Property (Word)
+# Borders.DistanceFromTop property (Word)
 
-Returns or sets the space (in points) between the text and the top border. Read/write  **Long** .
+Returns or sets the space (in points) between the text and the top border. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `DistanceFromTop`
+_expression_. `DistanceFromTop`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -69,3 +70,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

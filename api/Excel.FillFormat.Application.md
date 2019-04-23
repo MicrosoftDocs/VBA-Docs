@@ -5,6 +5,7 @@ api_name:
 - Excel.FillFormat.Application
 ms.assetid: 845678ab-b55a-9d69-2d18-64b085d221f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,14 +16,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -40,3 +41,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

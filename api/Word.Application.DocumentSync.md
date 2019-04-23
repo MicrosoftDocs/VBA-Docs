@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentSync Event (Word)
+title: Application.DocumentSync event (Word)
 keywords: vbawd10.chm4000027
 f1_keywords:
 - vbawd10.chm4000027
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DocumentSync
 ms.assetid: 9c83f692-8d05-2c52-11ef-46ac0ff69431
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocumentSync Event (Word)
+# Application.DocumentSync event (Word)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
 
 ## Syntax
 
-Private Sub_**DocumentSync**(**_Doc_** , **_SyncEventType_**)
+Private Sub_**DocumentSync**(**_Doc_**, **_SyncEventType_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object declared using the **WithEvents** keyword in a class module.
 
@@ -64,3 +65,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

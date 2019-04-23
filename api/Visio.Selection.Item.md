@@ -1,5 +1,5 @@
 ---
-title: Selection.Item Property (Visio)
+title: Selection.Item property (Visio)
 keywords: vis_sdr.chm11113765
 f1_keywords:
 - vis_sdr.chm11113765
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Item
 ms.assetid: 3f09566d-eec6-0c20-87bc-60db45d3e23f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Item Property (Visio)
+# Selection.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections, and for the **Path** and **Selection** objects. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -45,4 +46,4 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 objRet = object(index )
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

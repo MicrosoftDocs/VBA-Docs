@@ -1,5 +1,5 @@
 ---
-title: Font.NumberSpacing Property (Word)
+title: Font.NumberSpacing property (Word)
 keywords: vbawd10.chm156369072
 f1_keywords:
 - vbawd10.chm156369072
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.NumberSpacing
 ms.assetid: 468d47e9-9bda-dd6e-5a55-4a11b8ce351e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.NumberSpacing Property (Word)
+# Font.NumberSpacing property (Word)
 
 Returns or sets the number spacing setting for a font. Read/write [WdNumberSpacing](Word.WdNumberSpacing.md).
 
 
 ## Syntax
 
- _expression_. `NumberSpacing`
+_expression_. `NumberSpacing`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -43,3 +44,4 @@ ActiveDocument.Range.Font.NumberSpacing = wdNumberSpacingProportional
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

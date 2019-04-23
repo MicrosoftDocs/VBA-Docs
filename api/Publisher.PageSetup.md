@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (Publisher)
+title: PageSetup object (Publisher)
 keywords: vbapb10.chm7012351
 f1_keywords:
 - vbapb10.chm7012351
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PageSetup
 ms.assetid: 23fe3235-88ea-ac93-6d7d-850298263046
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup Object (Publisher)
+# PageSetup object (Publisher)
 
 Contains information about the page setup for the pages in a publication.
 
@@ -35,7 +36,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PageSetup.Application.md)|
 |[AvailablePageSizes](./Publisher.PageSetup.AvailablePageSizes.md)|
@@ -49,3 +50,4 @@ End Sub
 |[TopMargin](./Publisher.PageSetup.TopMargin.md)|
 |[VerticalGap](./Publisher.PageSetup.VerticalGap.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

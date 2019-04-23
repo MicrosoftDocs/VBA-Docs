@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 327133c3-b465-4f1a-8153-1583a858c065
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.Alignment property (Access)](http://msdn.microsoft.com/library/1104aa67-38dc-d7b2-3b9a-9e31e11744cc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

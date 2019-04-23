@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 864f9e6a-6c81-4048-a0d9-d0857dd7a431
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TextBox.RightMargin property (Access)](http://msdn.microsoft.com/library/13f3fe1f-d5c3-33ac-9b9b-897df8ff5ba9%28Office.15%29.aspx)
 [Label.RightMargin property (Access)](http://msdn.microsoft.com/library/03a7e1fa-bf05-dc29-be2f-f79f761d870d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

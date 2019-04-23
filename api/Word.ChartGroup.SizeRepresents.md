@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SizeRepresents Property (Word)
+title: ChartGroup.SizeRepresents property (Word)
 keywords: vbawd10.chm263454754
 f1_keywords:
 - vbawd10.chm263454754
@@ -8,19 +8,20 @@ api_name:
 - Word.ChartGroup.SizeRepresents
 ms.assetid: 9611e92a-725c-fbe8-41bf-ef57d2166e4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.SizeRepresents Property (Word)
+# ChartGroup.SizeRepresents property (Word)
 
-Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long** .
+Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SizeRepresents`
+_expression_.**SizeRepresents**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End With
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

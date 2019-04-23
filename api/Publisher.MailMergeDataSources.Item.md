@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources.Item Method (Publisher)
+title: MailMergeDataSources.Item method (Publisher)
 keywords: vbapb10.chm7143427
 f1_keywords:
 - vbapb10.chm7143427
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSources.Item
 ms.assetid: a65fedf6-aae5-64ef-e7d0-6bbc3d5b733c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSources.Item Method (Publisher)
+# MailMergeDataSources.Item method (Publisher)
 
 Returns the  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object at the specified index position in the **MailMergeDataSources** collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_varIndex_**)
+_expression_.**Item**(**_varIndex_**)
 
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 
@@ -92,4 +93,4 @@ Public Sub Item_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

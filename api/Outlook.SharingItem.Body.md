@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Body Property (Outlook)
+title: SharingItem.Body property (Outlook)
 keywords: vbaol11.chm600
 f1_keywords:
 - vbaol11.chm600
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.Body
 ms.assetid: 116b133a-b8fd-3752-d8ec-6d906a4a64eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.Body Property (Outlook)
+# SharingItem.Body property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns or sets a  **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `Body`
+_expression_. `Body`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** representing the clear-text body of the **[Sharing
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

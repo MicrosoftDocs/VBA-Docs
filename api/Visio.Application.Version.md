@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Visio)
+title: Application.Version property (Visio)
 keywords: vis_sdr.chm10014640
 f1_keywords:
 - vis_sdr.chm10014640
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Version
 ms.assetid: c2e3b022-507d-c73c-6fa4-9689cc5600f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Version Property (Visio)
+# Application.Version property (Visio)
 
 Returns the version of a running Microsoft Visio instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -56,4 +57,4 @@ Public Sub Version_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

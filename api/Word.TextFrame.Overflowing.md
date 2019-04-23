@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Overflowing Property (Word)
+title: TextFrame.Overflowing property (Word)
 keywords: vbawd10.chm162665355
 f1_keywords:
 - vbawd10.chm162665355
@@ -8,17 +8,18 @@ api_name:
 - Word.TextFrame.Overflowing
 ms.assetid: 299020e0-0c26-e5cb-c47c-2aa3651aac36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Overflowing Property (Word)
+# TextFrame.Overflowing property (Word)
 
- **True** if the text inside the specified text frame doesn't all fit within the frame. Read-only **Boolean** .
+ **True** if the text inside the specified text frame doesn't all fit within the frame. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Overflowing`
+_expression_. `Overflowing`
 
  _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
 
@@ -43,3 +44,4 @@ End If
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

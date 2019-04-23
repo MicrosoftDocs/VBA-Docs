@@ -1,5 +1,5 @@
 ---
-title: Shape.HasChart Property (Word)
+title: Shape.HasChart property (Word)
 keywords: vbawd10.chm161480852
 f1_keywords:
 - vbawd10.chm161480852
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.HasChart
 ms.assetid: 5fd4bc0b-153a-f30b-dd81-81a4b348770c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.HasChart Property (Word)
+# Shape.HasChart property (Word)
 
  **True** if the specified shape has a chart. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasChart`
+_expression_. `HasChart`
 
  _expression_ An expression that returns a [Shape](./Word.Shape.md) object.
 
@@ -33,3 +34,4 @@ This property always returns false for OLE charts. For OLE charts, use  `InlineS
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

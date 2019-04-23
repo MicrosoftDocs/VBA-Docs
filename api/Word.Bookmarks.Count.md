@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Count Property (Word)
+title: Bookmarks.Count property (Word)
 keywords: vbawd10.chm157745154
 f1_keywords:
 - vbawd10.chm157745154
@@ -8,17 +8,18 @@ api_name:
 - Word.Bookmarks.Count
 ms.assetid: 2a399e4d-19b6-fd32-8c17-e63941972e4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmarks.Count Property (Word)
+# Bookmarks.Count property (Word)
 
-Returns the number of items in the  **Bookmarks** collection. Read-only **Long** .
+Returns the number of items in the  **Bookmarks** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a '[Bookmarks](Word.bookmarks.md)' object.
 
@@ -28,3 +29,4 @@ Returns the number of items in the  **Bookmarks** collection. Read-only **Long**
 
 [Bookmarks Collection Object](Word.bookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

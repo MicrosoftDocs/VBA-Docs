@@ -1,5 +1,5 @@
 ---
-title: Window.Left Property (Publisher)
+title: Window.Left property (Publisher)
 keywords: vbapb10.chm262149
 f1_keywords:
 - vbapb10.chm262149
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Window.Left
 ms.assetid: 8d61331a-a70f-4a8a-8dc7-12d93ec51bfc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Left Property (Publisher)
+# Window.Left property (Publisher)
 
 Returns or sets a  **Long** indicating the position (in points) of the left edge of the application window relative to the left edge of the screen. Read/write.
 
 
 ## Syntax
 
- _expression_. **Left**
+_expression_.**Left**
 
  _expression_ A variable that represents a  **Window** object.
 
@@ -36,4 +37,4 @@ With ActiveDocument.ActiveWindow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

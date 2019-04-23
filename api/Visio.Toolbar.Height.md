@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Height Property (Visio)
+title: Toolbar.Height property (Visio)
 keywords: vis_sdr.chm13713615
 f1_keywords:
 - vis_sdr.chm13713615
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Height
 ms.assetid: 566ec5d0-6eb7-abf4-8547-80b941e6b54c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Height Property (Visio)
+# Toolbar.Height property (Visio)
 
 Gets or sets the height of a toolbar. Read/write.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_.**Height**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -35,4 +36,4 @@ Integer
 
 If the object is docked or protected from resizing, the application returns an error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilters.Item
 ms.assetid: 7dccd3e9-523b-d260-ff52-4674e874f134
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a specific element of the  **PivotFilters** collection object by its pos
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a specific element of the  **PivotFilters** collection object by its pos
 
 [PivotFilters Object](Excel.PivotFilters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

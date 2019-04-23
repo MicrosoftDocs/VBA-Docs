@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 20b22269-8ae2-46fb-bca7-6e5d82aba899
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.SizeToFit method (Access)](http://msdn.microsoft.com/library/b8ca4ed4-4092-3996-b26a-d3ec561906e9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

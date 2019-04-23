@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleWidth Method (Word)
+title: ShapeRange.ScaleWidth method (Word)
 keywords: vbawd10.chm162856984
 f1_keywords:
 - vbawd10.chm162856984
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.ScaleWidth
 ms.assetid: 3742c9a7-7a97-9e24-299c-b7567eedb9d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleWidth Method (Word)
+# ShapeRange.ScaleWidth method (Word)
 
 Scales the width of a shape by a specified factor.
 
 
 ## Syntax
 
- _expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ For pictures and OLE objects, you can indicate whether you want to scale the ran
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

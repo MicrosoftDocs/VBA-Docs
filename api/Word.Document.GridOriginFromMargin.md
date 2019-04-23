@@ -1,5 +1,5 @@
 ---
-title: Document.GridOriginFromMargin Property (Word)
+title: Document.GridOriginFromMargin property (Word)
 keywords: vbawd10.chm158007604
 f1_keywords:
 - vbawd10.chm158007604
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.GridOriginFromMargin
 ms.assetid: 137b250a-31d6-89c7-365b-285f14ae3dac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.GridOriginFromMargin Property (Word)
+# Document.GridOriginFromMargin property (Word)
 
- **True** if Microsoft Word starts the character grid from the upper-left corner of the page. Read/write **Boolean** .
+ **True** if Microsoft Word starts the character grid from the upper-left corner of the page. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `GridOriginFromMargin`
+_expression_. `GridOriginFromMargin`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.GridOriginFromMargin = True
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

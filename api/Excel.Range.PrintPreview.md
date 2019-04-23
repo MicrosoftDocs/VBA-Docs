@@ -1,5 +1,5 @@
 ---
-title: Range.PrintPreview Method (Excel)
+title: Range.PrintPreview method (Excel)
 keywords: vbaxl10.chm144182
 f1_keywords:
 - vbaxl10.chm144182
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.PrintPreview
 ms.assetid: b429a45c-864f-1c48-0775-1cf240f6e7ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.PrintPreview Method (Excel)
+# Range.PrintPreview method (Excel)
 
 Shows a preview of the object as it would look when printed.
 
 
 ## Syntax
 
- _expression_. `PrintPreview`( `_EnableChanges_` )
+_expression_.**PrintPreview** (_EnableChanges_)
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Worksheets("Sheet1").PrintPreview
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

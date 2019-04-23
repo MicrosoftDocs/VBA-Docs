@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.Offset
 ms.assetid: a353b803-34a3-0ff9-83d2-3318c308ec35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Long** value that represents the distance between the level
 
 ## Syntax
 
- _expression_. `Offset`
+_expression_. `Offset`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Erf_Precise Method (Excel)
+title: WorksheetFunction.Erf_Precise method (Excel)
 keywords: vbaxl10.chm137416
 f1_keywords:
 - vbaxl10.chm137416
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Erf_Precise
 ms.assetid: 1a34f60c-b5e9-f18f-2d0e-4ebe770edd59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Erf_Precise Method (Excel)
+# WorksheetFunction.Erf_Precise method (Excel)
 
 Returns the error function integrated between zero and lower_limit.
 
 
 ## Syntax
 
- _expression_. `Erf_Precise`( `_Arg1_` )
+_expression_. `Erf_Precise`( `_Arg1_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

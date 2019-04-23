@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 41d8de92-55ed-8537-eb31-6d72ba69c165
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -44,3 +45,4 @@ The **Raise** method of the **Err** object generates the specified error. The **
 >  
 > - If you wish to return the descriptive string associated with a Access error or a Data Access Objects (DAO) error, but the error has not actually occurred in your code, you can use the AccessError method to return the string.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

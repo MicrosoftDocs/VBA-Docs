@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.GetFormRegionStorage Method (Outlook)
+title: FormRegionStartup.GetFormRegionStorage method (Outlook)
 keywords: vbaol11.chm2946
 f1_keywords:
 - vbaol11.chm2946
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormRegionStartup.GetFormRegionStorage
 ms.assetid: 685b5ed7-dd19-9040-664f-5deff6e738c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegionStartup.GetFormRegionStorage Method (Outlook)
+# FormRegionStartup.GetFormRegionStorage method (Outlook)
 
 Obtains appropriate storage for a form region based on the specified information.
 
 
 ## Syntax
 
- _expression_. `GetFormRegionStorage`( `_FormRegionName_` , `_Item_` , `_LCID_` , `_FormRegionMode_` , `_FormRegionSize_` )
+_expression_. `GetFormRegionStorage`( `_FormRegionName_` , `_Item_` , `_LCID_` , `_FormRegionMode_` , `_FormRegionSize_` )
 
- _expression_ A variable that represents an object that implements the 'FormRegionStartup' interface.
+_expression_ A variable that represents an object that implements the 'FormRegionStartup' interface.
 
 
 ## Parameters
@@ -37,12 +38,12 @@ Obtains appropriate storage for a form region based on the specified information
 
 ## Return value
 
-A  **Variant** object representing the storage that Outlook has allocated for the form region. The type of the return value can be: **String** representing that the return value is a local path to an Outlook Form Storage (.OFS) file; **Byte()** representing that the return value is an array of bytes that contains the contents of the .OFS file; **IStorage** representing that the return value is a COM storage object **IStorage** (for C++ only); **Nothing** or **Null** , representing that Outlook could not allocate storage for this form region and will not load the form region.
+A  **Variant** object representing the storage that Outlook has allocated for the form region. The type of the return value can be: **String** representing that the return value is a local path to an Outlook Form Storage (.OFS) file; **Byte()** representing that the return value is an array of bytes that contains the contents of the .OFS file; **IStorage** representing that the return value is a COM storage object **IStorage** (for C++ only); **Nothing** or **Null**, representing that Outlook could not allocate storage for this form region and will not load the form region.
 
 
 ## Remarks
 
-The add-in must check for the return value of  **GetFormRegionStorage** . A form region will not load if any of the following is true of the returned storage:
+The add-in must check for the return value of  **GetFormRegionStorage**. A form region will not load if any of the following is true of the returned storage:
 
 
 - The returned storage is a .OFS file specified with a non-local path.
@@ -59,3 +60,4 @@ For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormR
 
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

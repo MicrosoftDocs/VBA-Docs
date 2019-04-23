@@ -1,30 +1,24 @@
 ---
-title: Cut, Paste Methods, TextBox Control Example
+title: Cut, Paste methods, TextBox control example
 keywords: fm20.chm5225154
 f1_keywords:
 - fm20.chm5225154
 ms.prod: office
 ms.assetid: 38f39c6b-ff99-a5ca-596a-e2ddace29324
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Cut, Paste Methods, TextBox Control Example
+# Cut, Paste methods, TextBox control example
 
-The following example uses the  **Cut** and **Paste** methods to cut text from one **TextBox** and paste it into another **TextBox**.
+The following example uses the **[Cut](cut-method-microsoft-forms.md)** and **[Paste](paste-method-microsoft-forms.md)** methods to cut text from one **[TextBox](textbox-control.md)** and paste it into another **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.    
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
-- A  **CommandButton** named CommandButton1.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -48,4 +42,4 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

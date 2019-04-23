@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.TableStyle
 ms.assetid: e9c2d152-e060-3132-d27c-35020d3380ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListObject.TableStyle property (Excel)
 
-Gets or sets the table style for the specified  **ListObject** object. Read/write **Variant** .
+Gets or sets the table style for the specified  **ListObject** object. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `TableStyle`
+_expression_. `TableStyle`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Gets or sets the table style for the specified  **ListObject** object. Read/writ
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

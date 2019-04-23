@@ -1,5 +1,5 @@
 ---
-title: Shape.Adjustments Property (Publisher)
+title: Shape.Adjustments property (Publisher)
 keywords: vbapb10.chm2228273
 f1_keywords:
 - vbapb10.chm2228273
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Adjustments
 ms.assetid: 14794cba-c671-51e3-0aac-52e885a4ba7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Adjustments Property (Publisher)
+# Shape.Adjustments property (Publisher)
 
 Returns an  **[Adjustments](Publisher.Adjustments.md)** collection representing all adjustment handles for the specified **Shape** or **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. **Adjustments**
+_expression_.**Adjustments**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -45,4 +46,4 @@ Public Sub Counter()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

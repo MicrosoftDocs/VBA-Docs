@@ -3,6 +3,7 @@ title: Pages Methods (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1fac245c-05c1-4248-8741-33b0b006b2c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,5 +19,5 @@ ms.date: 06/08/2017
 -  [Pages.Item Method (Outlook Forms Script)](Outlook.Pages.item.md)
     
 -  [Pages.Remove Method (Outlook Forms Script)](Outlook.Pages.remove.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,30 +1,24 @@
 ---
-title: ScrollBar Control, Scroll Event Example
+title: ScrollBar control, Scroll event example
 keywords: fm20.chm5225168
 f1_keywords:
 - fm20.chm5225168
 ms.prod: office
 ms.assetid: e4180c7f-d14e-b76e-fd7a-b1cf354b0fd0
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ScrollBar Control, Scroll Event Example
+# ScrollBar control, Scroll event example
 
-The following example demonstrates the stand-alone  **ScrollBar** and reports the change in its value as the user moves the scroll box. The user can move the scroll box by clicking on either arrow at the ends of the control, by clicking in the region between scroll box and either arrow, or by dragging the scroll box. When the user drags the scroll box, the Scroll event displays a message indicating that the user scrolled to obtain the new value.
+The following example demonstrates the stand-alone **[ScrollBar](scrollbar-control.md)** and reports the change in its value as the user moves the scroll box. The user can move the scroll box by clicking on either arrow at the ends of the control, by clicking in the region between the scroll box and either arrow, or by dragging the scroll box. When the user drags the scroll box, the [Scroll](scroll-event.md) event displays a message indicating that the user scrolled to obtain the new value.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **ScrollBar** named ScrollBar1.
+- A **ScrollBar** named ScrollBar1.   
+- Two **[Label](label-control.md)** controls named Label1 and Label2. Label1 contains scaling information for the user. Label2 reports the delta value.
     
-- Two  **Label** controls named Label1 and Label2. Label1 contains scaling information for the user. Label2 reports the delta value.
-    
-
-
-
 
 ```vb
 Dim ScrollSaved As Integer 
@@ -58,4 +52,4 @@ Private Sub ScrollBar1_Scroll()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

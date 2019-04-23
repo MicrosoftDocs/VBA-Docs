@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPolyline Method (Excel)
+title: Shapes.AddPolyline method (Excel)
 keywords: vbaxl10.chm638083
 f1_keywords:
 - vbaxl10.chm638083
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shapes.AddPolyline
 ms.assetid: b9caacf9-c87c-224e-c948-a96aceb3a0ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddPolyline Method (Excel)
+# Shapes.AddPolyline method (Excel)
 
 Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](Excel.Shape.md)** object that represents the new polyline or polygon.
 
 
 ## Syntax
 
- _expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
+_expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -43,7 +44,7 @@ To form a closed polygon, assign the same coordinates to the first and last vert
 
 ## Example
 
-This example adds a triangle to  `myDocument`. Because the first and last points have the same coordinates, the polygon is closed and filled. The color of the triangle's interior will be the same as the default shape's fill color.
+This example adds a triangle to  _myDocument_. Because the first and last points have the same coordinates, the polygon is closed and filled. The color of the triangle's interior will be the same as the default shape's fill color.
 
 
 ```vb
@@ -66,3 +67,4 @@ myDocument.Shapes.AddPolyline triArray
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

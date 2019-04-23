@@ -1,5 +1,5 @@
 ---
-title: Window.Move Method (Publisher)
+title: Window.Move method (Publisher)
 keywords: vbapb10.chm262163
 f1_keywords:
 - vbapb10.chm262163
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Window.Move
 ms.assetid: a33b213b-6549-abf7-0217-041b469b798a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Move Method (Publisher)
+# Window.Move method (Publisher)
 
 Moves the active document window.
 
 
 ## Syntax
 
- _expression_. **Move**(**_Left_**,  **_Top_**)
+_expression_.**Move**(**_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Window** object.
 
@@ -39,7 +40,7 @@ If the application window is either maximized or minimized, this method will ret
 
 ## Example
 
-This example checks the state of the application window, and if it is neither maximized nor minimized, moves the window to the upper left corner of the screen.
+This example checks the state of the application window, and if it is neither maximized nor minimized, moves the window to the upper-left corner of the screen.
 
 
 ```vb
@@ -52,4 +53,4 @@ Sub MoveWindow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

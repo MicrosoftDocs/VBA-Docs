@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.DataLabel
 ms.assetid: 2f860d46-c6b5-50cf-b0af-4c46d9f7b2ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents th
 
 ## Syntax
 
- _expression_. `DataLabel`
+_expression_. `DataLabel`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

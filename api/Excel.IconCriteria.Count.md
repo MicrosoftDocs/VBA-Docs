@@ -8,6 +8,7 @@ api_name:
 - Excel.IconCriteria.Count
 ms.assetid: 1a4db597-70fa-b12a-4755-7cb71009d8a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that specifies the number of criteria for an icon set 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents an [IconCriteria](Excel.IconCriteria.md) object.
+_expression_ A variable that represents an [IconCriteria](Excel.IconCriteria.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The number of criteria is equivalent to the number of threshold values assigned 
 
 [IconCriteria Collection](Excel.IconCriteria.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

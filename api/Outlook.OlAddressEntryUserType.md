@@ -1,5 +1,5 @@
 ---
-title: OlAddressEntryUserType Enumeration (Outlook)
+title: OlAddressEntryUserType enumeration (Outlook)
 keywords: vbaol11.chm3110
 f1_keywords:
 - vbaol11.chm3110
@@ -8,12 +8,13 @@ api_name:
 - Outlook.OlAddressEntryUserType
 ms.assetid: 9f128fe4-9981-e06a-d69c-ca7cf9107fe9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlAddressEntryUserType Enumeration (Outlook)
+# OlAddressEntryUserType enumeration (Outlook)
 
-Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry** .
+Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry**.
 
 
 
@@ -31,3 +32,4 @@ Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)**
 | **olOutlookDistributionListAddressEntry**|11|An address entry that is an Outlook distribution list.|
 | **olSmtpAddressEntry**|30|An address entry that uses the Simple Mail Transfer Protocol (SMTP).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

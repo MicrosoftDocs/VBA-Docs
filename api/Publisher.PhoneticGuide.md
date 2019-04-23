@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide Object (Publisher)
+title: PhoneticGuide object (Publisher)
 keywords: vbapb10.chm6225919
 f1_keywords:
 - vbapb10.chm6225919
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PhoneticGuide
 ms.assetid: 164e8b54-4bad-4de9-bf6e-52c5687dfbc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PhoneticGuide Object (Publisher)
+# PhoneticGuide object (Publisher)
 
 Represents base text with supplementary text appearing above it as a guide to pronunciation.
  
@@ -46,7 +47,7 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Publisher.PhoneticGuide.Clear.md)|
 
@@ -54,7 +55,7 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Publisher.PhoneticGuide.Alignment.md)|
 |[Application](Publisher.PhoneticGuide.Application.md)|
@@ -65,3 +66,4 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 |[Raise](Publisher.PhoneticGuide.Raise.md)|
 |[Text](Publisher.PhoneticGuide.Text.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

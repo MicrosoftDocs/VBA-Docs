@@ -7,32 +7,29 @@ ms.prod: access
 api_name:
 - Access.Attachment.FileType
 ms.assetid: 0e22ddf6-695a-f6bc-58c8-f6af77912306
-ms.date: 06/08/2017
+ms.date: 02/07/2019
+localization_priority: Normal
 ---
 
 
 # Attachment.FileType property (Access)
 
-Returns the file extension of the specifed attachment. Read-only  **String**.
+Returns the file extension of the specified attachment. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `FileType`( ` _var_` )
+_expression_.**FileType** (_var_)
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _var_|Optional|**Variant**|An expression that specifies the position of a member of the collection referred to by the _expression_ argument. If a numeric expression, the _index_ argument must be a number from 0 to the value of the collection's 'Count' property minus 1. If a string expression, the _index_ argument must be the name of a member of the collection.|
-
-## See also
+| _var_|Optional|**Variant**|An expression that specifies the position of a member of the collection referred to by the _expression_ argument. If a numeric expression, the _index_ argument must be a number from 0 to the value of the collection's **Count** property minus 1. If a string expression, the _index_ argument must be the name of a member of the collection.|
 
 
-[Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

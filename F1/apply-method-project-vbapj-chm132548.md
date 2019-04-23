@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 28e22394-f254-4dce-8514-e20e732b9754
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.DocumentLibraryVersions Property (Project)](http://msdn.microsoft.com/library/62203de2-cff4-0af7-944c-9df79710dbc8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

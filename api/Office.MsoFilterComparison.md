@@ -1,18 +1,19 @@
 ---
-title: MsoFilterComparison Enumeration (Office)
+title: MsoFilterComparison enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFilterComparison
 ms.assetid: 12650101-777b-2142-e985-cc34d5e2fb16
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoFilterComparison Enumeration (Office)
+# MsoFilterComparison enumeration (Office)
 
-Specifies how the  **Column** and **CompareTo** properties are compared for an **ODSOFilter** object.
+Specifies how the **Column** and **CompareTo** properties are compared for an **ODSOFilter** object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -27,3 +28,4 @@ Specifies how the  **Column** and **CompareTo** properties are compared for an *
 |**msoFilterComparisonNotContains**|9|Column matches CompareTo if any part of the CompareTo string is not contained in the Column value.|
 |**msoFilterComparisonNotEqual**|1|Column matches CompareTo if the CompareTo value is not equal to the Column value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

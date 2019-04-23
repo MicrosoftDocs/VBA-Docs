@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Code Property (Word)
+title: MailMergeField.Code property (Word)
 keywords: vbawd10.chm152961029
 f1_keywords:
 - vbawd10.chm152961029
@@ -8,17 +8,18 @@ api_name:
 - Word.MailMergeField.Code
 ms.assetid: 65dcf765-318b-cfc3-37e5-2a9b2a606204
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeField.Code Property (Word)
+# MailMergeField.Code property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents a field's code. Read/write.
 
 
 ## Syntax
 
- _expression_. `Code`
+_expression_. `Code`
 
  _expression_ A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
@@ -75,3 +76,4 @@ Next fieldLoop
 
 [MailMergeField Object](Word.MailMergeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Recipients.Add Method (Outlook)
+title: Recipients.Add method (Outlook)
 keywords: vbaol11.chm232
 f1_keywords:
 - vbaol11.chm232
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Recipients.Add
 ms.assetid: 7c285291-0f92-ca8d-1c7b-a71ace83ac84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Recipients.Add Method (Outlook)
+# Recipients.Add method (Outlook)
 
 Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
+_expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collecti
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP e-mail address of the recipient.|
+| _Name_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP email address of the recipient.|
 
 ## Return value
 
@@ -67,3 +68,4 @@ End Sub
 
 [Recipients Object](Outlook.Recipients.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

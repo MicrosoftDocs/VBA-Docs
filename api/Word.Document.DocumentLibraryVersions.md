@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentLibraryVersions Property (Word)
+title: Document.DocumentLibraryVersions property (Word)
 keywords: vbawd10.chm158007772
 f1_keywords:
 - vbawd10.chm158007772
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.DocumentLibraryVersions
 ms.assetid: 1be5fae8-0ea1-115f-3786-6979a473448b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DocumentLibraryVersions Property (Word)
+# Document.DocumentLibraryVersions property (Word)
 
 Returns a  **DocumentLibraryVersions** collection that represents the collection of versions of a shared document that has versioning enabled and that is stored in a document library on a server.
 
 
 ## Syntax
 
- _expression_. `DocumentLibraryVersions`
+_expression_. `DocumentLibraryVersions`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ Set objVersions = ActiveDocument.DocumentLibraryVersions
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PjTimelineInsertTaskType Enumeration (Project)
+title: PjTimelineInsertTaskType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTimelineInsertTaskType
 ms.assetid: cbb0c320-e9ef-3b3e-5b60-3c97940083ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTimelineInsertTaskType Enumeration (Project)
+# PjTimelineInsertTaskType enumeration (Project)
 
 Contains constants that specify the type of task to insert on the Timeline view in Project.
 
@@ -20,3 +21,4 @@ Contains constants that specify the type of task to insert on the Timeline view 
 |**pjTimelineInsertMilestone**|1|Insert a milestone (a task with 0 days duration).|
 |**pjTimelineInsertTask**|0|Insert a task.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

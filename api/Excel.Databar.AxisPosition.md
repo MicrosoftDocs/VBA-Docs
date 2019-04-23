@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.AxisPosition
 ms.assetid: 0e239fd1-8bdf-2355-10ae-b7766b9befaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the position of the axis of the data bars specified by a conditi
 
 ## Syntax
 
- _expression_. `AxisPosition`
+_expression_. `AxisPosition`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets the position of the axis of the data bars specified by a conditi
 
 ## Remarks
 
-The axis for data bars is displayed only when the  **AxisPosition** property is either **xlDataBarAxisAutomatic** or **xlDataBarAxisMidpoint** , and when there are negative values in the range of values specified with a data bar conditional formatting rule. If the conditional formatting rule is created programmatically, the default value for the **AxisPosition** property is **xlDataBarAxisNone** . If the conditional formatting rule is created using the user interface, the default value for the **AxisPosition** property is **xlDataBarAxisAutomatic** .
+The axis for data bars is displayed only when the  **AxisPosition** property is either **xlDataBarAxisAutomatic** or **xlDataBarAxisMidpoint**, and when there are negative values in the range of values specified with a data bar conditional formatting rule. If the conditional formatting rule is created programmatically, the default value for the **AxisPosition** property is **xlDataBarAxisNone**. If the conditional formatting rule is created using the user interface, the default value for the **AxisPosition** property is **xlDataBarAxisAutomatic**.
 
 
 ## Example
@@ -52,3 +53,4 @@ myDataBar.AxisPosition = xlDataBarAxisMidpoint
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

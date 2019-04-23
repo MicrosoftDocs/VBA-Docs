@@ -1,5 +1,5 @@
 ---
-title: PivotItem.DrillTo Method (Excel)
+title: PivotItem.DrillTo method (Excel)
 keywords: vbaxl10.chm246094
 f1_keywords:
 - vbaxl10.chm246094
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotItem.DrillTo
 ms.assetid: 627806c2-834f-d217-1439-1e17bedd15c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotItem.DrillTo Method (Excel)
+# PivotItem.DrillTo method (Excel)
 
 The  **DrillTo** method supports drilling to a specified PivotField from a PivotItem.
 
 
 ## Syntax
 
- _expression_. `DrillTo`( `_PivotItemName_` )
+_expression_. `DrillTo`( `_PivotItemName_` )
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ For OLAP data sources, the PivotField being drilled to has to be in the same hie
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

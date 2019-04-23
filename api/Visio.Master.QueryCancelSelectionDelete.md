@@ -1,5 +1,5 @@
 ---
-title: Master.QueryCancelSelectionDelete Event (Visio)
+title: Master.QueryCancelSelectionDelete event (Visio)
 keywords: vis_sdr.chm10719320
 f1_keywords:
 - vis_sdr.chm10719320
@@ -8,12 +8,13 @@ api_name:
 - Visio.Master.QueryCancelSelectionDelete
 ms.assetid: c85569ca-b802-7a7e-6b24-d89852d2d0bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.QueryCancelSelectionDelete Event (Visio)
+# Master.QueryCancelSelectionDelete event (Visio)
 
-Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True** , the operation is canceled.
+Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 
 
 ## Syntax
@@ -46,8 +47,8 @@ A Microsoft Visio instance fires  **QueryCancelSelectionDelete** after the user 
 
 While a Visio instance is firing a query or cancel event, it responds to inquiries from client code but refuses to perform operations. Client code can show forms or message boxes while responding to a query or cancel event.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

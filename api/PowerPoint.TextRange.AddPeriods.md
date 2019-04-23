@@ -1,5 +1,5 @@
 ---
-title: TextRange.AddPeriods Method (PowerPoint)
+title: TextRange.AddPeriods method (PowerPoint)
 keywords: vbapp10.chm569032
 f1_keywords:
 - vbapp10.chm569032
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.AddPeriods
 ms.assetid: 597592ba-6c26-7645-33b8-19ccb375a098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.AddPeriods Method (PowerPoint)
+# TextRange.AddPeriods method (PowerPoint)
 
 Adds a period at the end of each paragraph in the specified text.
 
 
 ## Syntax
 
- _expression_. **AddPeriods**
+_expression_.**AddPeriods**
 
 
 
@@ -43,3 +44,4 @@ Application.ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange.AddPeriod
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

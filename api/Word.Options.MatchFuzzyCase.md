@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyCase Property (Word)
+title: Options.MatchFuzzyCase property (Word)
 keywords: vbawd10.chm162988341
 f1_keywords:
 - vbawd10.chm162988341
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.MatchFuzzyCase
 ms.assetid: 2fa5cf3f-01d5-c47a-cc99-ce9249ea59bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.MatchFuzzyCase Property (Word)
+# Options.MatchFuzzyCase property (Word)
 
- **True** if Microsoft Word ignores the distinction between uppercase and lowercase letters during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between uppercase and lowercase letters during a search. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MatchFuzzyCase`
+_expression_. `MatchFuzzyCase`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -38,3 +39,4 @@ Options.MatchFuzzyCase = True
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

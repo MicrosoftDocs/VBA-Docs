@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderInitials Property (Word)
+title: LetterContent.SenderInitials property (Word)
 keywords: vbawd10.chm161546364
 f1_keywords:
 - vbawd10.chm161546364
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.SenderInitials
 ms.assetid: 8c2bdb64-840f-c442-a7b6-28c756701c30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.SenderInitials Property (Word)
+# LetterContent.SenderInitials property (Word)
 
-Returns or sets the initials of the person creating a letter with the Letter Wizard. Read/write  **String** .
+Returns or sets the initials of the person creating a letter with the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `SenderInitials`
+_expression_. `SenderInitials`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -44,3 +45,4 @@ Documents.Add.RunLetterWizard _
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

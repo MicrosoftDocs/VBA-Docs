@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeBeforeMerge Event (Publisher)
+title: Application.MailMergeBeforeMerge event (Publisher)
 keywords: vbapb10.chm268435473
 f1_keywords:
 - vbapb10.chm268435473
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeBeforeMerge
 ms.assetid: 735ef282-e99f-b3f2-c509-b180bea30d36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeBeforeMerge Event (Publisher)
+# Application.MailMergeBeforeMerge event (Publisher)
 
 Occurs when a merge is executed before any records in a mail merge have merged.
 
 
 ## Syntax
 
- _expression_. **MailMergeBeforeMerge**(**_Doc_**,  **_StartRecord_**,  **_EndRecord_**,  **_Cancel_**)
+_expression_.**MailMergeBeforeMerge**(**_Doc_**,  **_StartRecord_**,  **_EndRecord_**,  **_Cancel_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -75,3 +76,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Vertices Property (Publisher)
+title: ShapeRange.Vertices property (Publisher)
 keywords: vbapb10.chm2293845
 f1_keywords:
 - vbapb10.chm2293845
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Vertices
 ms.assetid: 0beb2323-8db6-c8c2-2f34-4c1ffde7fddc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Vertices Property (Publisher)
+# ShapeRange.Vertices property (Publisher)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. **Vertices**
+_expression_.**Vertices**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -70,4 +71,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

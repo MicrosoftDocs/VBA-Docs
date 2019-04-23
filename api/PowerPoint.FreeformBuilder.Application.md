@@ -1,21 +1,22 @@
 ---
-title: FreeformBuilder.Application Property (PowerPoint)
+title: FreeformBuilder.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.Application
 ms.assetid: 837adf41-9d67-8bfc-9169-5654a65e477e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Application Property (PowerPoint)
+# FreeformBuilder.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [FreeformBuilder](./PowerPoint.FreeformBuilder.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [FreeformBuilder Object](PowerPoint.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

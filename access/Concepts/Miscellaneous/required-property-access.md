@@ -9,6 +9,7 @@ api_name:
 - Access.Required
 ms.assetid: 4aa6d0bb-4a07-9efc-4d2e-414bcc11e42e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,7 +29,7 @@ For example, you might want to be sure that a LastName control has a value for e
 
 The **Required** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|The field requires a value.|
 |No|**False** (0)|(Default) The field doesn't require a value.|
@@ -74,3 +75,5 @@ If you set the **Required** property to Yes for a field in a table that already 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

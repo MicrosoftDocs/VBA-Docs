@@ -1,5 +1,5 @@
 ---
-title: Application.FillAcross Method (Project)
+title: Application.FillAcross method (Project)
 keywords: vbapj.chm244
 f1_keywords:
 - vbapj.chm244
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FillAcross
 ms.assetid: 9ab6a32a-84b4-e9c5-2632-b02205275e82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FillAcross Method (Project)
+# Application.FillAcross method (Project)
 
 Fills the selected cells or columns with the values in the specified cell or column of the selection.
 
 
 ## Syntax
 
- _expression_. `FillAcross`( ` _Right_` )
+_expression_. `FillAcross`( `_Right_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Fills the selected cells or columns with the values in the specified cell or col
 
 The  **FillAcross** method is only available in timephased cells of usage views.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

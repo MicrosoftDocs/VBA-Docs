@@ -1,5 +1,5 @@
 ---
-title: Application.WindowDeactivate Event (Publisher)
+title: Application.WindowDeactivate event (Publisher)
 keywords: vbapb10.chm268435458
 f1_keywords:
 - vbapb10.chm268435458
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.WindowDeactivate
 ms.assetid: 84473784-7c03-4c9e-3e1b-9bf6ec7e1fbc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowDeactivate Event (Publisher)
+# Application.WindowDeactivate event (Publisher)
 
 Occurs when the application window is deactivated.
 
 
 ## Syntax
 
- _expression_. **WindowDeactivate**(**_Wn_**, )
+_expression_.**WindowDeactivate**(**_Wn_**, )
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -56,3 +57,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Style.VerticalAlignment
 ms.assetid: 6c47e6f1-6e86-a5ac-a57d-4bfec12becf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Style.VerticalAlignment property (Excel)
 
-Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
+Returns or sets an **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

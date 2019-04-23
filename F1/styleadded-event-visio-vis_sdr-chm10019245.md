@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 824a19c9-2359-40f3-b814-b972fa2e4ec6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.StyleAdded Event (Visio)](http://msdn.microsoft.com/library/a966cbc6-529e-5525-5fc2-ed9cd3250dfa%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

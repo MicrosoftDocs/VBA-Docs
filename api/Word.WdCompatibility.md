@@ -1,14 +1,15 @@
 ---
-title: WdCompatibility Enumeration (Word)
+title: WdCompatibility enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompatibility
 ms.assetid: d9541795-2d77-dfc6-5b1c-d3b0755cf8ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCompatibility Enumeration (Word)
+# WdCompatibility enumeration (Word)
 
 Specifies a compatibility option.
 
@@ -61,7 +62,7 @@ Specifies a compatibility option.
 | **wdTruncateFontHeight**|24|Truncate font height.|
 | **wdUsePrinterMetrics**|26|Use printer metrics to lay out document.|
 | **wdUseWord2002TableStyleRules**|49|Use Microsoft Word 2002 table style rules.|
-| **wdUseWord2010TableStyleRules**||Use Microsoft Word 2010 table style rules.|
+| **wdUseWord2010TableStyleRules**|69|Use Microsoft Word 2010 table style rules.|
 | **wdUseWord97LineBreakingRules**|42|Use Microsoft Word 97 line breaking rules for Asian text.|
 | **wdWPJustification**|31|Do full justification like WordPerfect 6.x for Windows.|
 | **wdWPSpaceWidth**|30|Set the width of a space like WordPerfect 5.x.|
@@ -71,10 +72,11 @@ Specifies a compatibility option.
 | **wdAutofitLikeWW11**|57|Use Microsoft Word 2003 table autofit rules.|
 | **wdDontAutofitConstrainedTables**|56|Do not autofit tables next to wrapped objects.|
 | **wdDontUseIndentAsNumberingTabStop**|52|Do not use hanging indent as tab stop for bullets and numbering.|
-| **wdFELineBreak11**|53|Use Word 2003 hanging-punctuation rules in Asian langauges.|
+| **wdFELineBreak11**|53|Use Word 2003 hanging-punctuation rules in Asian languages.|
 | **wdHangulWidthLikeWW11**|59|Do not use proportional width for Korean characters.|
 | **wdSplitPgBreakAndParaMark**|60|Split apart page break and paragraph mark.|
 | **wdUnderlineTabInNumList**|58|Underline the tab character between the number and the text in numbered lists.|
 | **wdUseNormalStyleForList**|51|Use the Normal style instead of the List Paragraph style for bulleted or numbered lists.|
 | **wdWW11IndentRules**|55|Use Word 2003 indent rules for text next to wrapped objects.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

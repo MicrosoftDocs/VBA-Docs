@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2799c34f-54d1-439f-a602-6b230ecbfa7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.FileValidation Property (PowerPoint)](http://msdn.microsoft.com/library/90cc8bff-df3b-7a57-adcc-bbfb9c677468%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

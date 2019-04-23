@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.DropDownLines
 ms.assetid: e2e12163-c247-6518-2d2f-701d27266a1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.DropDownLines property (Excel)
 
-Returns or sets the number of list lines displayed in the drop-down portion of a combo box. Read/write  **Long** .
+Returns or sets the number of list lines displayed in the drop-down portion of a combo box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `DropDownLines`
+_expression_. `DropDownLines`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

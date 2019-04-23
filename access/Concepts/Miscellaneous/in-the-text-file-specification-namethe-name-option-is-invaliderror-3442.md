@@ -3,6 +3,7 @@ title: In the text file specification <name>, the <name> option is invalid. (Err
 ms.prod: access
 ms.assetid: b1dc1d03-3d1c-ad74-6b66-f089d42f54eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ One of the options in the text file specification for the Text ISAM is invalid. 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: e71c5e64-534b-d6b3-697a-6f78a1c7508c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,5 +23,5 @@ For more information, see the following topics:
 -  [Set Global Variables for a Form](set-global-variables-for-a-form.md)
     
 -  [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

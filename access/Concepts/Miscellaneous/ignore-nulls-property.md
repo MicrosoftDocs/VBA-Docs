@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 87d95ca8-ea29-f0ca-366a-56527c500f13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,7 +18,7 @@ You can use the IgnoreNulls property to specify that records with Null values in
 
 ## Settings
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Records that contain Null values in the indexed fields aren't included in the index.|
 |No|**False**|(Default) Records that contain Null values in the indexed fields are included in the index.|
@@ -35,3 +36,5 @@ You can define an index for a field to facilitate faster searches for records in
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

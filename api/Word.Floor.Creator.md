@@ -1,5 +1,5 @@
 ---
-title: Floor.Creator Property (Word)
+title: Floor.Creator property (Word)
 keywords: vbawd10.chm46006421
 f1_keywords:
 - vbawd10.chm46006421
@@ -8,17 +8,18 @@ api_name:
 - Word.Floor.Creator
 ms.assetid: e3ef282c-5510-2816-7803-3ae5b31c665d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Floor.Creator Property (Word)
+# Floor.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[Floor](Word.Floor.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Floor Object](Word.Floor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

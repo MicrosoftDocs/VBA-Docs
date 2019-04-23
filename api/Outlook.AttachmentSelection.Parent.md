@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Parent Property (Outlook)
+title: AttachmentSelection.Parent property (Outlook)
 keywords: vbaol11.chm2942
 f1_keywords:
 - vbaol11.chm2942
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AttachmentSelection.Parent
 ms.assetid: 1c80c1fd-b7bd-288c-d017-8159ddcbd037
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Parent Property (Outlook)
+# AttachmentSelection.Parent property (Outlook)
 
 Returns the parent  **Object** of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an '[AttachmentSelection](Outlook.AttachmentSelection.md)' object.
+_expression_ A variable that represents an '[AttachmentSelection](Outlook.AttachmentSelection.md)' object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ If the item is in an inspector, the value of the  **Parent** property is the sam
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

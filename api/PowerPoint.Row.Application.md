@@ -1,5 +1,5 @@
 ---
-title: Row.Application Property (PowerPoint)
+title: Row.Application property (PowerPoint)
 keywords: vbapp10.chm626001
 f1_keywords:
 - vbapp10.chm626001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Row.Application
 ms.assetid: 852e12e7-1923-4946-ab79-37ebcad77d97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Application Property (PowerPoint)
+# Row.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Row](./PowerPoint.Row.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Row Object](PowerPoint.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

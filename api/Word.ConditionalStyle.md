@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle Object (Word)
+title: ConditionalStyle object (Word)
 keywords: vbawd10.chm1389
 f1_keywords:
 - vbawd10.chm1389
@@ -8,10 +8,11 @@ api_name:
 - Word.ConditionalStyle
 ms.assetid: 2380494e-09e9-8494-a93c-8bbaf621aad1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConditionalStyle Object (Word)
+# ConditionalStyle object (Word)
 
 Represents special formatting applied to specified areas of a table when the selected table is formatted with a specified table style.
 
@@ -60,6 +61,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

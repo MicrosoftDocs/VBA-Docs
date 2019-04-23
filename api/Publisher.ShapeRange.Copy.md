@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Copy Method (Publisher)
+title: ShapeRange.Copy method (Publisher)
 keywords: vbapb10.chm2293778
 f1_keywords:
 - vbapb10.chm2293778
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Copy
 ms.assetid: 11b9da00-85e4-fc7a-fa93-4a451b7bd15a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Copy Method (Publisher)
+# ShapeRange.Copy method (Publisher)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. **Copy**
+_expression_.**Copy**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -65,4 +66,4 @@ This example copies the text in shape one on page one of the active publication 
 ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange.Copy
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

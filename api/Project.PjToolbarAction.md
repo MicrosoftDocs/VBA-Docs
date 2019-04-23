@@ -1,14 +1,15 @@
 ---
-title: PjToolbarAction Enumeration (Project)
+title: PjToolbarAction enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjToolbarAction
 ms.assetid: 36ace776-5c15-643a-a82b-a2347c20ffc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjToolbarAction Enumeration (Project)
+# PjToolbarAction enumeration (Project)
 
 Contains constants that specify toolbar actions.
 
@@ -25,3 +26,4 @@ Contains constants that specify toolbar actions.
 |**pjShow**|6|Show.|
 |**pjToggle**|1|Toggle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.UpperHeadingLevel Property (Word)
+title: TableOfFigures.UpperHeadingLevel property (Word)
 keywords: vbawd10.chm153157638
 f1_keywords:
 - vbawd10.chm153157638
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfFigures.UpperHeadingLevel
 ms.assetid: bfda7885-8aec-96d7-2bdf-93ddd2804385
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfFigures.UpperHeadingLevel Property (Word)
+# TableOfFigures.UpperHeadingLevel property (Word)
 
-Returns or sets the starting heading level for a table of figures. Read/write  **Long** .
+Returns or sets the starting heading level for a table of figures. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `UpperHeadingLevel`
+_expression_. `UpperHeadingLevel`
 
- _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End If
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

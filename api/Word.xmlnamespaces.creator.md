@@ -1,24 +1,25 @@
 ---
-title: XMLNamespaces.Creator Property (Word)
+title: XMLNamespaces.Creator property (Word)
 keywords: vbawd10.chm248972265
 f1_keywords:
 - vbawd10.chm248972265
 ms.prod: word
 ms.assetid: acf3b4c0-02f6-6ad8-0a79-77d61e9d4245
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNamespaces.Creator Property (Word)
+# XMLNamespaces.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '' collection.
+_expression_ Required. A variable that represents a '' collection.
 
 
 ## Remarks
@@ -28,6 +29,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 ## See also
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

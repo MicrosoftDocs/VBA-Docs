@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarEditDays Method (Project)
+title: Application.BaseCalendarEditDays method (Project)
 keywords: vbapj.chm615
 f1_keywords:
 - vbapj.chm615
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BaseCalendarEditDays
 ms.assetid: 3a65015e-c174-985a-5235-099db363c003
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarEditDays Method (Project)
+# Application.BaseCalendarEditDays method (Project)
 
 Changes one or more days in a base calendar.
 
 
 ## Syntax
 
- _expression_. `BaseCalendarEditDays`( ` _Name_`, ` _StartDate_`, ` _EndDate_`, ` _WeekDay_`, ` _Working_`, ` _From1_`, ` _To1_`, ` _From2_`, ` _To2_`, ` _From3_`, ` _To3_`, ` _Default_`, ` _From4_`, ` _To4_`, ` _From5_`, ` _To5_` )
+_expression_. `BaseCalendarEditDays`( `_Name_`, `_StartDate_`, `_EndDate_`, `_WeekDay_`, `_Working_`, `_From1_`, `_To1_`, `_From2_`, `_To2_`, `_From3_`, `_To3_`, `_Default_`, `_From4_`, `_To4_`, `_From5_`, `_To5_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -73,4 +74,4 @@ Sub MakeSelectedDaysNonWorking()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

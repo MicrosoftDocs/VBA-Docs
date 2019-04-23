@@ -1,5 +1,5 @@
 ---
-title: Worksheet.XmlDataQuery Method (Excel)
+title: Worksheet.XmlDataQuery method (Excel)
 keywords: vbaxl10.chm175158
 f1_keywords:
 - vbaxl10.chm175158
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.XmlDataQuery
 ms.assetid: de728702-962f-a047-a58d-3e2fa9c86acd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.XmlDataQuery Method (Excel)
+# Worksheet.XmlDataQuery method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cells mapped to a particular XPath. Returns **Nothing** if the specified XPath has not been mapped to the worksheet, or if the mapped range is empty.
 
 
 ## Syntax
 
- _expression_. `XmlDataQuery`( `_XPath_` , `_SelectionNamespaces_` , `_Map_` )
+_expression_. `XmlDataQuery`( `_XPath_` , `_SelectionNamespaces_` , `_Map_` )
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ This method returns  **Nothing** if the XPath location path is not mapped into t
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

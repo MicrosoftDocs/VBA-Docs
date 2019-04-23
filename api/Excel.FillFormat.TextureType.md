@@ -8,19 +8,20 @@ api_name:
 - Excel.FillFormat.TextureType
 ms.assetid: 9a39c34e-c19c-5539-b5ac-b624fe71e2e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FillFormat.TextureType property (Excel)
 
-Returns the texture type for the specified fill. Read-only  **[MsoTextureType](Office.MsoTextureType.md)** .
+Returns the texture type for the specified fill. Read-only  **[MsoTextureType](Office.MsoTextureType.md)**.
 
 
 ## Syntax
 
- _expression_. `TextureType`
+_expression_. `TextureType`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

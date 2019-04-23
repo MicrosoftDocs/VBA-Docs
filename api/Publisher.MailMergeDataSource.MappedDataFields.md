@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.MappedDataFields Property (Publisher)
+title: MailMergeDataSource.MappedDataFields property (Publisher)
 keywords: vbapb10.chm6291475
 f1_keywords:
 - vbapb10.chm6291475
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.MappedDataFields
 ms.assetid: 9f2a15a7-41b0-6025-73d6-eb70a412b830
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.MappedDataFields Property (Publisher)
+# MailMergeDataSource.MappedDataFields property (Publisher)
 
 Returns a  **[MailMergeMappedDataFields](Publisher.MailMergeMappedDataFields.md)** object that represents the mapped data fields available in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **MappedDataFields**
+_expression_.**MappedDataFields**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -77,4 +78,4 @@ Sub MappedFields()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

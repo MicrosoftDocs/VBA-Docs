@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.QueryTable
 ms.assetid: 6370d43c-74b5-1bb9-f849-c70006432504
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the quer
 
 ## Syntax
 
- _expression_. `QueryTable`
+_expression_. `QueryTable`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).Range("a10").QueryTable.Refresh
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

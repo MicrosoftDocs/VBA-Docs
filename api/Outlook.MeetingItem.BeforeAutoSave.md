@@ -1,23 +1,24 @@
 ---
-title: MeetingItem.BeforeAutoSave Event (Outlook)
+title: MeetingItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAutoSave
 ms.assetid: 59de272e-a36a-e842-a962-03ebe2befa26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.BeforeAutoSave Event (Outlook)
+# MeetingItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 
 
 ## Syntax
 
- _expression_. `BeforeAutoSave`( `_Cancel_` )
+_expression_. `BeforeAutoSave`( `_Cancel_` )
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Parameters
@@ -33,3 +34,4 @@ Occurs before the item is automatically saved by Outlook.
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

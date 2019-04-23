@@ -1,5 +1,5 @@
 ---
-title: Application.DateSeparator Property (Project)
+title: Application.DateSeparator property (Project)
 keywords: vbapj.chm131716
 f1_keywords:
 - vbapj.chm131716
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DateSeparator
 ms.assetid: ff89ed80-4839-4195-09a7-f1d6ab4ad88a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DateSeparator Property (Project)
+# Application.DateSeparator property (Project)
 
 Gets the date separator character. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `DateSeparator`
+_expression_. `DateSeparator`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,4 +28,4 @@ Gets the date separator character. Read-only  **String**.
 
 Project sets the  **DateSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the  **DateSeparator** property value is "/".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

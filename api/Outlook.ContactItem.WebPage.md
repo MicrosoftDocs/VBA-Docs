@@ -1,5 +1,5 @@
 ---
-title: ContactItem.WebPage Property (Outlook)
+title: ContactItem.WebPage property (Outlook)
 keywords: vbaol11.chm1075
 f1_keywords:
 - vbaol11.chm1075
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.WebPage
 ms.assetid: 0914b59d-64f3-2c6f-fc83-25d5f0e91abb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.WebPage Property (Outlook)
+# ContactItem.WebPage property (Outlook)
 
-Returns or sets a  **String** indicating the URL of the Web page for the contact. Read/write.
+Returns or sets a  **String** indicating the URL of the web page for the contact. Read/write.
 
 
 ## Syntax
 
- _expression_. `WebPage`
+_expression_. `WebPage`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** indicating the URL of the Web page for the contact
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

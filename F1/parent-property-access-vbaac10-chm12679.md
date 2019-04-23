@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d4c21253-74d3-4c78-afa0-38c42cdac71a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [AllFunctions.Parent property (Access)](http://msdn.microsoft.com/library/2e148328-476b-055c-6b29-d332dd0a0764%28Office.15%29.aspx)
 [AllTables.Parent property (Access)](http://msdn.microsoft.com/library/41801b04-da13-c917-8692-d6d56bd45516%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

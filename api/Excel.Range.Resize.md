@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Resize
 ms.assetid: 05af0539-8aa3-c83c-1972-dfac618929b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** obje
 
 ## Syntax
 
- _expression_. `Resize`( `_RowSize_` , `_ColumnSize_` )
+_expression_.**Resize** (_RowSize_, _ColumnSize_)
 
- _expression_ An expression that returns a [Range](excel.range-graph-property.md) object.
+ _expression_ An expression that returns a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

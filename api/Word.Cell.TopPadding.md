@@ -1,5 +1,5 @@
 ---
-title: Cell.TopPadding Property (Word)
+title: Cell.TopPadding property (Word)
 keywords: vbawd10.chm156106863
 f1_keywords:
 - vbawd10.chm156106863
@@ -8,17 +8,18 @@ api_name:
 - Word.Cell.TopPadding
 ms.assetid: 03c8bd07-dde2-6ad3-1291-7b0c0ada424a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.TopPadding Property (Word)
+# Cell.TopPadding property (Word)
 
-Returns or sets the amount of space (in points) to add above the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add above the contents of a single cell or all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_.**TopPadding**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).TopPadding = _
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

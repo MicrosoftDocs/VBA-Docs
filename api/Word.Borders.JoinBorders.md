@@ -1,5 +1,5 @@
 ---
-title: Borders.JoinBorders Property (Word)
+title: Borders.JoinBorders property (Word)
 keywords: vbawd10.chm154927130
 f1_keywords:
 - vbawd10.chm154927130
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.JoinBorders
 ms.assetid: e25f3192-469e-ef65-e412-098d5cfb6173
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.JoinBorders Property (Word)
+# Borders.JoinBorders property (Word)
 
- **True** if vertical borders at the edges of paragraphs and tables are removed so that the horizontal borders can connect to the page border. Read/write **Boolean** .
+ **True** if vertical borders at the edges of paragraphs and tables are removed so that the horizontal borders can connect to the page border. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `JoinBorders`
+_expression_. `JoinBorders`
 
  _expression_ An expression that returns a '[Borders](Word.borders.md)' object.
 
@@ -51,3 +52,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

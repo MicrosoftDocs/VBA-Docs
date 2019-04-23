@@ -1,5 +1,5 @@
 ---
-title: AddIn Object (PowerPoint)
+title: AddIn object (PowerPoint)
 keywords: vbapp10.chm521000
 f1_keywords:
 - vbapp10.chm521000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AddIn
 ms.assetid: e98b609e-97ef-b471-f047-b647bff1e9af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn Object (PowerPoint)
+# AddIn object (PowerPoint)
 
 Represents a single add-in, either loaded or not loaded. 
 
@@ -75,3 +76,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

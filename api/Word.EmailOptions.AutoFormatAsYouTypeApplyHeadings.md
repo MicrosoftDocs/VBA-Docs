@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyHeadings Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyHeadings property (Word)
 keywords: vbawd10.chm165347588
 f1_keywords:
 - vbawd10.chm165347588
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyHeadings
 ms.assetid: 299897d1-1132-4ba2-d3e6-47d34a4c38ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyHeadings Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyHeadings property (Word)
 
- **True** if styles are automatically applied to headings as you type. Read/write **Boolean** .
+ **True** if styles are automatically applied to headings as you type. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyHeadings`
+_expression_. `AutoFormatAsYouTypeApplyHeadings`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyHeadings
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

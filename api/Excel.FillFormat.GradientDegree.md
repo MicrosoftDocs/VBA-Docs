@@ -8,19 +8,20 @@ api_name:
 - Excel.FillFormat.GradientDegree
 ms.assetid: 46529845-6ee0-def7-8dac-bb459d6ed2f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FillFormat.GradientDegree property (Excel)
 
-Returns the gradient degree of the specified one-color shaded fill as a floating-point value from 0.0 (dark) through 1.0 (light). Read-only  **Single** .
+Returns the gradient degree of the specified one-color shaded fill as a floating-point value from 0.0 (dark) through 1.0 (light). Read-only  **Single**.
 
 
 ## Syntax
 
- _expression_. `GradientDegree`
+_expression_. `GradientDegree`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

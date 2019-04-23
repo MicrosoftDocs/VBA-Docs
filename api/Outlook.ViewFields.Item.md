@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Item Method (Outlook)
+title: ViewFields.Item method (Outlook)
 keywords: vbaol11.chm2551
 f1_keywords:
 - vbaol11.chm2551
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewFields.Item
 ms.assetid: 5b7072b7-5f5e-2a39-1001-0b103a287a78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFields.Item Method (Outlook)
+# ViewFields.Item method (Outlook)
 
 Returns a  **[ViewField](Outlook.ViewField.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ A  **ViewField** object that represents the specified object.
 
 [ViewFields Object](Outlook.ViewFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Groups.Count Property (Project)
+title: Groups.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Count
 ms.assetid: 24a7b49c-b3bb-d8c5-1ea2-60078444c532
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Groups.Count Property (Project)
+# Groups.Count property (Project)
 
 Gets the number of items in the  **Groups** collection. Read-only **Long**. .
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a 'Groups' object.
 
@@ -90,3 +91,5 @@ End Sub
 
 
 [Groups Collection Object](Project.groups.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

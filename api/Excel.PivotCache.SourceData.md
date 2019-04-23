@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.SourceData
 ms.assetid: 5a172543-3a06-9db0-7edc-0cf2aa7af114
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.SourceData property (Excel)
 
-Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant** .
+Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SourceData`
+_expression_. `SourceData`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ Next i
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

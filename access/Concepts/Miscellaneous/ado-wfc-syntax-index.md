@@ -3,6 +3,7 @@ title: ADO/WFC syntax index
 ms.prod: access
 ms.assetid: d49edfb1-bd76-b6cc-d023-753f4655ff11
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -37,3 +38,5 @@ Method and property syntax are listed for the following elements:
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

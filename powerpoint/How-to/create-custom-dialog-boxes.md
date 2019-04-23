@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: 1c176634-3f75-84de-9d30-14ba53da3d00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -41,5 +42,5 @@ Use the following procedure to create a custom dialog box:
 7. [Use control values while code is running](use-control-values-while-code-is-running.md)
     
     Some properties can be set at run time. Changes made to the dialog box by the user are lost when the dialog box is closed.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

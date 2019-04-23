@@ -1,5 +1,5 @@
 ---
-title: Font.NameBi Property (Word)
+title: Font.NameBi property (Word)
 keywords: vbawd10.chm156369059
 f1_keywords:
 - vbawd10.chm156369059
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.NameBi
 ms.assetid: 436dd5c5-a79d-265e-9929-f30c5a05e85e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.NameBi Property (Word)
+# Font.NameBi property (Word)
 
-Returns or sets the name of the font in a right-to-left language document. Read/write  **String** .
+Returns or sets the name of the font in a right-to-left language document. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `NameBi`
+_expression_. `NameBi`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -40,3 +41,4 @@ End With
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

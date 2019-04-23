@@ -1,5 +1,5 @@
 ---
-title: Window.SetViewRect Method (Visio)
+title: Window.SetViewRect method (Visio)
 keywords: vis_sdr.chm11616585
 f1_keywords:
 - vis_sdr.chm11616585
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.SetViewRect
 ms.assetid: ab2da074-6e55-3aa7-9c4a-ae299b65a9c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.SetViewRect Method (Visio)
+# Window.SetViewRect method (Visio)
 
 Sets the page coordinates of a window's borders by adjusting the zoom level and center scroll position.
 
 
 ## Syntax
 
- _expression_. `SetViewRect`( `_dLeft_` , `_dTop_` , `_dWidth_` , `_dHeight_` )
+_expression_. `SetViewRect`( `_dLeft_` , `_dTop_` , `_dWidth_` , `_dHeight_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -43,4 +44,4 @@ Nothing
 
 If the  **Window** object is not a **visDrawing** type, the **SetViewRect** method raises an exception.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

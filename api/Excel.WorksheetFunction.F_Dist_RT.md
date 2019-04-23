@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.F_Dist_RT Method (Excel)
+title: WorksheetFunction.F_Dist_RT method (Excel)
 keywords: vbaxl10.chm137403
 f1_keywords:
 - vbaxl10.chm137403
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.F_Dist_RT
 ms.assetid: 307f9afa-3e15-edce-cabb-dd96b351cdab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.F_Dist_RT Method (Excel)
+# WorksheetFunction.F_Dist_RT method (Excel)
 
 Returns the right-tailed F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity. For example, you can examine the test scores of men and women entering high school and determine if the variability in the females is different from that found in the males.
 
 
 ## Syntax
 
- _expression_. `F_Dist_RT`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `F_Dist_RT`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

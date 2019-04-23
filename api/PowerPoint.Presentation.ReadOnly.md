@@ -1,5 +1,5 @@
 ---
-title: Presentation.ReadOnly Property (PowerPoint)
+title: Presentation.ReadOnly property (PowerPoint)
 keywords: vbapp10.chm583023
 f1_keywords:
 - vbapp10.chm583023
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.ReadOnly
 ms.assetid: d0d69c81-baa0-9b33-5ee3-d8e581508a88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.ReadOnly Property (PowerPoint)
+# Presentation.ReadOnly property (PowerPoint)
 
 Returns whether the specified presentation is read-only. Read-only.
 
 
 ## Syntax
 
- _expression_. `ReadOnly`
+_expression_. `ReadOnly`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **ReadOnly** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The specified presentation is not read-only.|
 |**msoTrue**| The specified presentation is read-only.|
@@ -58,3 +59,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: About Programming Visio Viewer
 ms.prod: visio
 ms.assetid: b9bf841f-c5e5-c737-b8c0-86bd171144c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -183,4 +184,4 @@ In your Visual Studio project, in the Form1.cs file, add the following code to i
 </code>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthoritiesCategory Object (Word)
+title: TableOfAuthoritiesCategory object (Word)
 keywords: vbawd10.chm2423
 f1_keywords:
 - vbawd10.chm2423
@@ -8,10 +8,11 @@ api_name:
 - Word.TableOfAuthoritiesCategory
 ms.assetid: ce481ec8-5d5f-fcb8-1d04-5b796accdd3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthoritiesCategory Object (Word)
+# TableOfAuthoritiesCategory object (Word)
 
 Represents a single table of authorities category. The  **TableOfAuthoritiesCategories** object is a member of the **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection.
 
@@ -46,5 +47,6 @@ The  **Add** method isn't available for the **TablesOfAuthoritiesCategories** co
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

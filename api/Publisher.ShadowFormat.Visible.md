@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Visible Property (Publisher)
+title: ShadowFormat.Visible property (Publisher)
 keywords: vbapb10.chm3670278
 f1_keywords:
 - vbapb10.chm3670278
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShadowFormat.Visible
 ms.assetid: aac38753-320b-7c09-548c-318c8562e393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Visible Property (Publisher)
+# ShadowFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_.**Visible**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 
@@ -29,11 +30,11 @@ The  **Visible** property value can be one of the **MsoTriState** constants decl
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified object or formatting is not visible.|
 | **msoTriStateMixed**|Return value only. The specified shape range contains both objects with visible formatting and objects with invisible formatting.|
-| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisble.|
+| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisible.|
 | **msoTrue**|The specified object or formatting is visible.|
 
 ## Example
@@ -49,4 +50,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

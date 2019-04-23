@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.AfterUpdate Event (Outlook)
+title: OlkDateControl.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000374
 f1_keywords:
 - vbaol11.chm1000374
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkDateControl.AfterUpdate
 ms.assetid: 7086c185-99a2-94e1-6041-64c58869067f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkDateControl.AfterUpdate Event (Outlook)
+# OlkDateControl.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Occurs after the data in the control has been changed through the user interface
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

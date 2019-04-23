@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Evaluate Method (Excel)
+title: Worksheet.Evaluate method (Excel)
 keywords: vbaxl10.chm175098
 f1_keywords:
 - vbaxl10.chm175098
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Evaluate
 ms.assetid: babe18c6-d0ee-62d9-2443-2927cc48a09c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Evaluate Method (Excel)
+# Worksheet.Evaluate method (Excel)
 
 Converts a Microsoft Excel name to an object or a value.
 
 
 ## Syntax
 
- _expression_. `Evaluate`( `_Name_` )
+_expression_.**Evaluate** (_Name_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -87,3 +88,4 @@ Application.Evaluate(boldCell).Font.Bold = True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

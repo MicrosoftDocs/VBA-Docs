@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColorType Property (Word)
+title: ThreeDFormat.ExtrusionColorType property (Word)
 keywords: vbawd10.chm164626534
 f1_keywords:
 - vbawd10.chm164626534
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.ExtrusionColorType
 ms.assetid: cddfbdac-601b-1786-fe41-5d155114d539
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColorType Property (Word)
+# ThreeDFormat.ExtrusionColorType property (Word)
 
-Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write  **MsoExtrusionColorType** .
+Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write  **MsoExtrusionColorType**.
 
 
 ## Syntax
 
- _expression_. `ExtrusionColorType`
+_expression_. `ExtrusionColorType`
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

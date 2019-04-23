@@ -1,14 +1,15 @@
 ---
-title: PjBarItem Enumeration (Project)
+title: PjBarItem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarItem
 ms.assetid: f00c9e4d-fed3-3de8-e672-fb64e871f0d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjBarItem Enumeration (Project)
+# PjBarItem enumeration (Project)
 
 Contains constants that specify a bar item type.
 
@@ -28,3 +29,4 @@ Contains constants that specify a bar item type.
 |**pjBarProjectSummary**|7|Project summary bar item.|
 |**pjBarSummary**|2|Summary bar item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

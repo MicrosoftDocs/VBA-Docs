@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.SlicerItems
 ms.assetid: 3e1ae3f3-3c47-fae2-ef85-8404d95f2f81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 ## Syntax
 
- _expression_. `SlicerItems`
+_expression_. `SlicerItems`
 
- _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
+_expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

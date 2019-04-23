@@ -1,5 +1,5 @@
 ---
-title: Shape.CellExistsU Property (Visio)
+title: Shape.CellExistsU property (Visio)
 keywords: vis_sdr.chm11251945
 f1_keywords:
 - vis_sdr.chm11251945
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.CellExistsU
 ms.assetid: da26e913-39c5-7af5-194d-3bb5dca76678
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.CellExistsU Property (Visio)
+# Shape.CellExistsU property (Visio)
 
 Determines whether a particular ShapeSheet cell exists in the scope of the search. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellExistsU`( `_localeIndependentCellName_` , `_fExistsLocally_` )
+_expression_. `CellExistsU`( `_localeIndependentCellName_` , `_fExistsLocally_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -46,13 +47,13 @@ The  _fExistsLocally_ argument specifies the scope of the search.
 
 
 
-- If  _fExistsLocally_ is non-zero (**True**), the **CellExistsU** property value is **True** only if the object contains the cell locally; if the cell is inherited, the **CellExistsU** property value is **False** .
+- If  _fExistsLocally_ is non-zero (**True**), the **CellExistsU** property value is **True** only if the object contains the cell locally; if the cell is inherited, the **CellExistsU** property value is **False**.
     
 - If  _fExistsLocally_ is zero (**False**), the **CellExistsU** property value is **True** if the object either contains or inherits the cell.
     
 
 
-For a list of cell index values, view the Visio type library for the members of class  **[VisCellIndices](Visio.viscellindices.md)** .
+For a list of cell index values, view the Visio type library for the members of class  **[VisCellIndices](Visio.viscellindices.md)**.
 
 
 
@@ -61,4 +62,4 @@ For a list of cell index values, view the Visio type library for the members of 
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **CellExists** property to determine if a cell exists by passing either the cell's local name or its universal name. Use the **CellExistsU** property to determine if a cell exists by passing the cell's universal name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

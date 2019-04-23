@@ -8,6 +8,7 @@ api_name:
 - Office.Drives
 ms.assetid: 729c2d39-5b4e-44f2-a9ed-4f06ba7ac1b7
 ms.date: 11/12/2018
+localization_priority: Normal
 ---
 
 
@@ -19,7 +20,7 @@ Read-only collection of all available drives.
 
 Removable-media drives need not have media inserted for them to appear in the **Drives** collection.
 
-The following code illustrates how to get the **Drives** collection and iterate the collection by using the **For Each...Next** statement:
+The following code illustrates how to get the **Drives** collection and iterate the collection by using the **[For Each...Next](for-eachnext-statement.md)** statement:
 
 ```vb
 Sub ShowDriveList
@@ -41,5 +42,8 @@ End Sub
 
 ## See also
 
+- [Drive object](drive-object.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

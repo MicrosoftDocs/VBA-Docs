@@ -1,5 +1,5 @@
 ---
-title: Rule.Execute Method (Outlook)
+title: Rule.Execute method (Outlook)
 keywords: vbaol11.chm2173
 f1_keywords:
 - vbaol11.chm2173
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Rule.Execute
 ms.assetid: 487abb6f-9003-04a4-f4e2-3f66b3ba5a52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rule.Execute Method (Outlook)
+# Rule.Execute method (Outlook)
 
 Applies a rule as a one-off operation.
 
 
 ## Syntax
 
- _expression_. `Execute`( `_ShowProgress_` , `_Folder_` , `_IncludeSubfolders_` , `_RuleExecuteOption_` )
+_expression_. `Execute`( `_ShowProgress_` , `_Folder_` , `_IncludeSubfolders_` , `_RuleExecuteOption_` )
 
- _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Parameters
@@ -36,7 +37,7 @@ Applies a rule as a one-off operation.
 
 ## Remarks
 
-Use  **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](Outlook.Rule.Enabled.md)** is **True** . Use **Rule.Enabled** and then **[Rules.Save](Outlook.Rules.Save.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
+Use  **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](Outlook.Rule.Enabled.md)** is **True**. Use **Rule.Enabled** and then **[Rules.Save](Outlook.Rules.Save.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
 
 The parameters to the  **Execute** method are optional. If you do not specify any parameters, the rule will be applied to all messages in the Inbox but not to the subfolders of the Inbox. The default values for the optional arguments are as follows:
 
@@ -58,3 +59,4 @@ If you plan to show a custom progress user interface instead of using the progre
 
 [Rule Object](Outlook.Rule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

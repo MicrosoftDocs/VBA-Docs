@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTableChangeList.Count
 ms.assetid: 0eb7476d-3fdf-3905-2819-0670eb199a53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that returns a [PivotTableChangeList](Excel.PivotTableChangeList.md) object.
+_expression_ A variable that returns a [PivotTableChangeList](Excel.PivotTableChangeList.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

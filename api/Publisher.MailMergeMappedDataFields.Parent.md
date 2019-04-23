@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataFields.Parent Property (Publisher)
+title: MailMergeMappedDataFields.Parent property (Publisher)
 keywords: vbapb10.chm6488066
 f1_keywords:
 - vbapb10.chm6488066
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeMappedDataFields.Parent
 ms.assetid: 555385db-2a8a-d5bc-5914-aaf080665d5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataFields.Parent Property (Publisher)
+# MailMergeMappedDataFields.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **MailMergeMappedDataFields** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

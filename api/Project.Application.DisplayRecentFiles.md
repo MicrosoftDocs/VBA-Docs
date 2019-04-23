@@ -1,21 +1,22 @@
 ---
-title: Application.DisplayRecentFiles Property (Project)
+title: Application.DisplayRecentFiles property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayRecentFiles
 ms.assetid: 99c60109-676f-41ee-3ed0-76d0b0c4ee99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DisplayRecentFiles Property (Project)
+# Application.DisplayRecentFiles property (Project)
 
  **True** if a list of recently used files appears on the **Recent** tab of the Microsoft Office Backstage view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayRecentFiles`
+_expression_. `DisplayRecentFiles`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -24,4 +25,4 @@ ms.date: 06/08/2017
 
 Setting  **DisplayRecentFiles** to **False** removes the list of recent projects, but the **Recent** tab still shows in the BackStage view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

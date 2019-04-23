@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.MarkCitation Method (Word)
+title: TablesOfAuthorities.MarkCitation method (Word)
 keywords: vbawd10.chm152174693
 f1_keywords:
 - vbawd10.chm152174693
@@ -8,19 +8,20 @@ api_name:
 - Word.TablesOfAuthorities.MarkCitation
 ms.assetid: 6dbbd99e-11c2-803a-fb31-e486ba530585
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TablesOfAuthorities.MarkCitation Method (Word)
+# TablesOfAuthorities.MarkCitation method (Word)
 
 Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Field** object.
 
 
 ## Syntax
 
- _expression_. `MarkCitation`( `_Range_` , `_ShortCitation_` , `_LongCitation_` , `_LongCitationAutoText_` , `_Category_` )
+_expression_. `MarkCitation`( `_Range_` , `_ShortCitation_` , `_LongCitation_` , `_LongCitationAutoText_` , `_Category_` )
 
- _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ ActiveDocument.TablesOfAuthorities.MarkCitation _
 
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Font.Underline Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d24a6e56-bcb7-7cf4-c31c-d8a2920fbd86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether text is underlined. Read/w
 
 ## Syntax
 
- _expression_. **Underline**
+_expression_.**Underline**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ Returns or sets a  **Boolean** that specifies whether text is underlined. Read/w
 
 The font's appearance on screen and in print may differ, depending on your computer and printer. If you select a font that your system can't display with the specified attribute or that isn't installed, Windows substitutes a similar font. The substitute font will be as similar as possible to the font originally requested.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

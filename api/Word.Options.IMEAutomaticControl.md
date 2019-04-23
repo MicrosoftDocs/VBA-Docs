@@ -1,5 +1,5 @@
 ---
-title: Options.IMEAutomaticControl Property (Word)
+title: Options.IMEAutomaticControl property (Word)
 keywords: vbawd10.chm162988119
 f1_keywords:
 - vbawd10.chm162988119
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.IMEAutomaticControl
 ms.assetid: 149a6ac6-e1f6-362d-8df9-05a2f159b1b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.IMEAutomaticControl Property (Word)
+# Options.IMEAutomaticControl property (Word)
 
- **True** if Microsoft Word is set to automatically open and close the Japanese Input Method Editor (IME). Read/write **Boolean** .
+ **True** if Microsoft Word is set to automatically open and close the Japanese Input Method Editor (IME). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IMEAutomaticControl`
+_expression_. `IMEAutomaticControl`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -38,3 +39,4 @@ Options.IMEAutomaticControl = True
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

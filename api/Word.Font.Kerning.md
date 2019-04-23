@@ -1,5 +1,5 @@
 ---
-title: Font.Kerning Property (Word)
+title: Font.Kerning property (Word)
 keywords: vbawd10.chm156369045
 f1_keywords:
 - vbawd10.chm156369045
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.Kerning
 ms.assetid: 1fddf3d7-6750-dcac-2da6-f9da795a8d64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Kerning Property (Word)
+# Font.Kerning property (Word)
 
-Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write  **Single** .
+Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Kerning`
+_expression_. `Kerning`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -51,3 +52,4 @@ End If
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

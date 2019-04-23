@@ -3,6 +3,7 @@ title: Create and delete tables and indexes using Access SQL
 ms.prod: access
 ms.assetid: 44c9e6a7-ac29-7a88-e0c6-b7eaec1e95ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -122,3 +123,4 @@ DROP INDEX idxName
 
 ```
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

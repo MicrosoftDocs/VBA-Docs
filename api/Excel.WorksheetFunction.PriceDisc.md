@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PriceDisc Method (Excel)
+title: WorksheetFunction.PriceDisc method (Excel)
 keywords: vbaxl10.chm137313
 f1_keywords:
 - vbaxl10.chm137313
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.PriceDisc
 ms.assetid: 973cf0b8-4bb5-bc0b-f32b-59d46b8474ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.PriceDisc Method (Excel)
+# WorksheetFunction.PriceDisc method (Excel)
 
 Returns the price per $100 face value of a discounted security.
 
 
 ## Syntax
 
- _expression_. `PriceDisc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `PriceDisc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -79,3 +80,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

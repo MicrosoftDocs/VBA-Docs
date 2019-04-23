@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.TransitionExpEval
 ms.assetid: a92d8efb-5f19-4b41-11b2-a20b3ad5bf1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.TransitionExpEval property (Excel)
 
- **True** if Microsoft Excel uses Lotus 1-2-3 expression evaluation rules for the worksheet. Read/write **Boolean** .
+**True** if Microsoft Excel uses Lotus 1-2-3 expression evaluation rules for the worksheet. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TransitionExpEval`
+_expression_. `TransitionExpEval`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").TransitionExpEval = True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Build SQL statements that include variables and controls
 ms.prod: access
 ms.assetid: e902199f-ed00-e885-3671-0705aa2b058a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -94,4 +95,4 @@ strSQL = "SELECT * FROM Orders WHERE OrderDate" _
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

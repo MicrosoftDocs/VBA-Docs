@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.RTFBody Property (Outlook)
+title: TaskRequestUpdateItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3539
 f1_keywords:
 - vbaol11.chm3539
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestUpdateItem.RTFBody
 ms.assetid: 59683caa-a702-920f-cbae-c309328bda5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.RTFBody Property (Outlook)
+# TaskRequestUpdateItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 
 
 ## Syntax
 
- _expression_. `RTFBody`
+_expression_. `RTFBody`
 
- _expression_ A variable that represents a '[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)' object.
+_expression_ A variable that represents a '[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

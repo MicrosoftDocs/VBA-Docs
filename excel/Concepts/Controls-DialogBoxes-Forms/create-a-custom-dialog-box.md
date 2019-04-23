@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: ee156753-b6f8-3394-0a4c-a3940026579d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -41,5 +42,5 @@ Use the following procedure to create a custom dialog box:
 7.  [Using Control Values While Code Is Running](using-control-values-while-code-is-running.md)
     
     Some properties can be set at run time. Changes made to the dialog box by the user are lost when the dialog box is closed.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

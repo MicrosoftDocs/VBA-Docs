@@ -1,21 +1,22 @@
 ---
-title: Exceptions.Count Property (Project)
+title: Exceptions.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exceptions.Count
 ms.assetid: 33103731-ed2b-48b7-2952-522c366abc0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exceptions.Count Property (Project)
+# Exceptions.Count property (Project)
 
 Gets the number of  **[Exception](Project.exceptions.md)** objects in the calendar **Exceptions** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents an 'Exceptions' object.
 
@@ -29,3 +30,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [Exceptions Collection Object](Project.exceptions.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

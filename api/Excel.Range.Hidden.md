@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Hidden
 ms.assetid: 7e785c38-a8ae-3810-a88a-0bfb7b74e2d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that indicates if the rows or columns are h
 
 ## Syntax
 
- _expression_. `Hidden`
+_expression_. `Hidden`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ Worksheets("Sheet1").Columns("C").Hidden = True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

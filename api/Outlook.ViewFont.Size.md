@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Size Property (Outlook)
+title: ViewFont.Size property (Outlook)
 keywords: vbaol11.chm2698
 f1_keywords:
 - vbaol11.chm2698
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewFont.Size
 ms.assetid: 3eecba24-6e4e-637f-bffb-21def66127d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFont.Size Property (Outlook)
+# ViewFont.Size property (Outlook)
 
 Returns or sets a  **Long** value that represents the size (in points) of the font in the view. Read-only.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
- _expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The default value for this property is determined by the operating system.
 
 [ViewFont Object](Outlook.ViewFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

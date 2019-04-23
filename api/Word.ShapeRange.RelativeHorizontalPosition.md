@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RelativeHorizontalPosition Property (Word)
+title: ShapeRange.RelativeHorizontalPosition property (Word)
 keywords: vbawd10.chm162857260
 f1_keywords:
 - vbawd10.chm162857260
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.RelativeHorizontalPosition
 ms.assetid: f1150705-3004-3987-3826-70f402105a99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.RelativeHorizontalPosition Property (Word)
+# ShapeRange.RelativeHorizontalPosition property (Word)
 
-Specifies the relative horizontal position of a range of shapes. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
+Specifies the relative horizontal position of a range of shapes. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax
 
- _expression_. `RelativeHorizontalPosition`
+_expression_. `RelativeHorizontalPosition`
 
- _expression_ An expression that represents a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End With
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

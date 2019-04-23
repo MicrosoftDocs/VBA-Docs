@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowResize Event (Excel)
+title: Application.ProtectedViewWindowResize event (Excel)
 keywords: vbaxl10.chm504111
 f1_keywords:
 - vbaxl10.chm504111
@@ -7,29 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowResize
 ms.assetid: 9ecac960-8ed3-f0be-9e93-3793c49d2b76
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowResize Event (Excel)
+# Application.ProtectedViewWindowResize event (Excel)
 
-Occurs when any  **Protected View** window is resized.
+Occurs when any Protected View window is resized.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowResize`( `_Pvw_` , )
+_expression_.**ProtectedViewWindowResize** (_Pvw_)
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the resized  **Protected View** window.|
+| _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the resized Protected View window.|
 
 ## Return value
 
@@ -38,11 +37,9 @@ Nothing
 
 ## Remarks
 
-For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+For more information about how to use event procedures with the **Application** object, see [Using events with the Application object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

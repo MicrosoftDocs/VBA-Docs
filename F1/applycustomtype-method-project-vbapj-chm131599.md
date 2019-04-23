@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bfb1bbd8-6ab5-436d-b8a9-a766e687ab94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.CanLevel Property (Project)](http://msdn.microsoft.com/library/21d1f14d-4d53-21b4-a164-cf6ab9e2cf98%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

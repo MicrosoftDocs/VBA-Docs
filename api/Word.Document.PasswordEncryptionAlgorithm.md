@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionAlgorithm Property (Word)
+title: Document.PasswordEncryptionAlgorithm property (Word)
 keywords: vbawd10.chm158007664
 f1_keywords:
 - vbawd10.chm158007664
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.PasswordEncryptionAlgorithm
 ms.assetid: 5317832f-936b-5c3b-5acc-6c067563acd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PasswordEncryptionAlgorithm Property (Word)
+# Document.PasswordEncryptionAlgorithm property (Word)
 
 Returns a  **String** indicating the algorithm Microsoft Word uses for encrypting documents with passwords. Read-only.
 
 
 ## Syntax
 
- _expression_. `PasswordEncryptionAlgorithm`
+_expression_. `PasswordEncryptionAlgorithm`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

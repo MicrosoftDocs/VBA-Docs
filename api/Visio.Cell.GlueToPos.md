@@ -1,5 +1,5 @@
 ---
-title: Cell.GlueToPos Method (Visio)
+title: Cell.GlueToPos method (Visio)
 keywords: vis_sdr.chm10116340
 f1_keywords:
 - vis_sdr.chm10116340
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.GlueToPos
 ms.assetid: 9f9e10f2-030f-f7ad-be04-ea2804c20cb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.GlueToPos Method (Visio)
+# Cell.GlueToPos method (Visio)
 
 Glues one shape to another from a cell in the first shape to an  _x_, _y_ position in the second shape.
 
 
 ## Syntax
 
- _expression_. `GlueToPos`( `_SheetObject_` , `_xPercent_` , `_yPercent_` )
+_expression_. `GlueToPos`( `_SheetObject_` , `_xPercent_` , `_yPercent_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -75,15 +76,15 @@ Public Sub GlueToPos_Example()
  Set vsoCellGlueFromBegin = vso1DShape.Cells("BeginX") 
  Set vsoCellGlueFromEnd = vso1DShape.Cells("EndX") 
  
- 'Use the GlueToPos method to glue the begin point of the 1-D shape 
- 'to the top center of the lower 2-D shape. 
+ 'Use the GlueToPos method to glue the begin point of the 1D shape 
+ 'to the top center of the lower 2D shape. 
  vsoCellGlueFromBegin.GlueToPos vso2DShape1, 0.5, 1 
  
- 'Use the GlueToPos method to glue the endpoint of the 1-D shape 
- 'to the bottom center of the upper 2-D shape. 
+ 'Use the GlueToPos method to glue the endpoint of the 1D shape 
+ 'to the bottom center of the upper 2D shape. 
  vsoCellGlueFromEnd.GlueToPos vso2DShape2, 0.5, 0 
  
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

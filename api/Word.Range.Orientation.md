@@ -1,5 +1,5 @@
 ---
-title: Range.Orientation Property (Word)
+title: Range.Orientation property (Word)
 keywords: vbawd10.chm157155645
 f1_keywords:
 - vbawd10.chm157155645
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Orientation
 ms.assetid: 52fde061-7ae9-61a4-c66d-7ffe691e1f97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Orientation Property (Word)
+# Range.Orientation property (Word)
 
-Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write  **WdTextOrientation** .
+Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write  **WdTextOrientation**.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ You can set the orientation for a text frame or for a range that happens to occu
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

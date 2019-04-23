@@ -1,5 +1,5 @@
 ---
-title: Masters.GetNamesU Method (Visio)
+title: Masters.GetNamesU method (Visio)
 keywords: vis_sdr.chm10851940
 f1_keywords:
 - vis_sdr.chm10851940
@@ -8,17 +8,18 @@ api_name:
 - Visio.Masters.GetNamesU
 ms.assetid: bf797a6a-1018-eda6-41e8-c8533638a034
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters.GetNamesU Method (Visio)
+# Masters.GetNamesU method (Visio)
 
 Returns the universal names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
+_expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) collection.
 
@@ -74,4 +75,4 @@ Public Sub GetNamesU_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

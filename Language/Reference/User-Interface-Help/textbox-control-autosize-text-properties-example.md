@@ -1,30 +1,26 @@
 ---
-title: TextBox Control, AutoSize, Text Properties Example
+title: TextBox control, AutoSize, Text properties example
 keywords: fm20.chm5225181
 f1_keywords:
 - fm20.chm5225181
 ms.prod: office
 ms.assetid: a54a63a4-7428-2067-3eaa-aecf20d64428
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# TextBox Control, AutoSize, Text Properties Example
+# TextBox control, AutoSize, Text properties example
 
-The following example demonstrates the effects of the  **AutoSize** property with a single-line **TextBox** and a multiline **TextBox**. The user can enter text into either **TextBox** and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the **Text** property.
+The following example demonstrates the effects of the **[AutoSize](autosize-property.md)** property with a single-line **[TextBox](textbox-control.md)** and a multiline **TextBox**. 
+
+The user can enter text into either **TextBox** and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the **[Text](text-property-microsoft-forms.md)** property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.   
+- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
-- A  **ToggleButton** named ToggleButton1.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -55,4 +51,4 @@ Private Sub ToggleButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

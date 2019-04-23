@@ -1,21 +1,22 @@
 ---
-title: GroupCriterion.GroupInterval Property (Project)
+title: GroupCriterion.GroupInterval property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.GroupInterval
 ms.assetid: 1944776c-0150-d901-79f1-cfb7c0c698f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriterion.GroupInterval Property (Project)
+# GroupCriterion.GroupInterval property (Project)
 
 Gets or sets the interval for a field used as a criterion in a group definition. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `GroupInterval`
+_expression_. `GroupInterval`
 
  _expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
 
@@ -32,4 +33,4 @@ Sub AddCriterionWithInterval()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

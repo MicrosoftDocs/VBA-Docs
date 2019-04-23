@@ -3,6 +3,7 @@ title: Tab.ControlTipText Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 13403824-7899-0494-3836-3a09d1804fad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns and sets a  **String** that specifies text that appears when the user br
 
 ## Syntax
 
- _expression_. **ControlTipText**
+_expression_.**ControlTipText**
 
- _expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ The  **ControlTipText** property lets you give users tips about a control in a r
 
 The default value of  **ControlTipText** is an empty string. When the value of **ControlTipText** is set to an empty string, no tip is available for that control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

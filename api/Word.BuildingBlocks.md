@@ -1,14 +1,15 @@
 ---
-title: BuildingBlocks Object (Word)
+title: BuildingBlocks object (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks
 ms.assetid: be5bba4a-b06c-0074-20bd-bbeb40e03d1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlocks Object (Word)
+# BuildingBlocks object (Word)
 
 Represents a collection of  **[BuildingBlock](Word.BuildingBlock.md)** objects for a specific building block type and category in a template.
 
@@ -40,5 +41,6 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

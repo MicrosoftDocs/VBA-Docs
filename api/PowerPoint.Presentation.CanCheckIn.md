@@ -1,5 +1,5 @@
 ---
-title: Presentation.CanCheckIn Method (PowerPoint)
+title: Presentation.CanCheckIn method (PowerPoint)
 keywords: vbapp10.chm583066
 f1_keywords:
 - vbapp10.chm583066
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.CanCheckIn
 ms.assetid: 26d76ca4-4fd3-2037-e193-0d2d39f59361
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.CanCheckIn Method (PowerPoint)
+# Presentation.CanCheckIn method (PowerPoint)
 
 Returns  **True** if Microsoft PowerPoint can check in a specified presentation to a server.
 
 
 ## Syntax
 
- _expression_. `CanCheckIn`
+_expression_. `CanCheckIn`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -70,3 +71,4 @@ End Sub
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

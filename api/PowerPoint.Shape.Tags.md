@@ -1,5 +1,5 @@
 ---
-title: Shape.Tags Property (PowerPoint)
+title: Shape.Tags property (PowerPoint)
 keywords: vbapp10.chm547049
 f1_keywords:
 - vbapp10.chm547049
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Tags
 ms.assetid: 23104a05-c2f0-21ea-f7ef-3bdc5587ce18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Tags Property (PowerPoint)
+# Shape.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Tags`
+_expression_. `Tags`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -93,3 +94,4 @@ Next
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

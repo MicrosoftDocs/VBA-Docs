@@ -1,5 +1,5 @@
 ---
-title: OLEFormat Object (Word)
+title: OLEFormat object (Word)
 keywords: vbawd10.chm2355
 f1_keywords:
 - vbawd10.chm2355
@@ -8,10 +8,11 @@ api_name:
 - Word.OLEFormat
 ms.assetid: d4c7aa65-5d3a-0b79-914b-6f908b506f63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat Object (Word)
+# OLEFormat object (Word)
 
 Represents the OLE characteristics (other than linking) for an OLE object, ActiveX control, or field.
 
@@ -36,7 +37,7 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Word.OLEFormat.Activate.md)|
 |[ActivateAs](Word.OLEFormat.ActivateAs.md)|
@@ -49,7 +50,7 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.OLEFormat.Application.md)|
 |[ClassType](Word.OLEFormat.ClassType.md)|
@@ -68,4 +69,6 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

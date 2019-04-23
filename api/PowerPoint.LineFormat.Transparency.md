@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Transparency Property (PowerPoint)
+title: LineFormat.Transparency property (PowerPoint)
 keywords: vbapp10.chm553013
 f1_keywords:
 - vbapp10.chm553013
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.LineFormat.Transparency
 ms.assetid: 7d9e3a3c-479a-1a7a-45b2-4245b8444c21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Transparency Property (PowerPoint)
+# LineFormat.Transparency property (PowerPoint)
 
 Returns or sets the degree of transparency of the specified fill, shadow, or line as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
 
 
 ## Syntax
 
- _expression_. `Transparency`
+_expression_. `Transparency`
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -35,7 +36,7 @@ The value of this property affects the appearance of solid-colored fills and lin
 
 ## Example
 
-This example sets the shadow for shape three on  `myDocument` to semitransparent red. If the shape doesn't already have a shadow, this example adds one to it.
+This example sets the shadow for shape three on  _myDocument_ to semitransparent red. If the shape doesn't already have a shadow, this example adds one to it.
 
 
 ```vb
@@ -58,3 +59,4 @@ End With
 
 [LineFormat Object](PowerPoint.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

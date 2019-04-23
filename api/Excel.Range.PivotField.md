@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.PivotField
 ms.assetid: 56003d2d-60cd-abd2-455e-4a4d3616a615
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that represents the Pivo
 
 ## Syntax
 
- _expression_. `PivotField`
+_expression_. `PivotField`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ MsgBox "The active cell is in the field " & _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

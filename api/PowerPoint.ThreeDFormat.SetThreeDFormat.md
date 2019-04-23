@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (PowerPoint)
+title: ThreeDFormat.SetThreeDFormat method (PowerPoint)
 keywords: vbapp10.chm557005
 f1_keywords:
 - vbapp10.chm557005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.SetThreeDFormat
 ms.assetid: 9685d3f9-467a-8b11-144a-c4260bdbbddd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (PowerPoint)
+# ThreeDFormat.SetThreeDFormat method (PowerPoint)
 
 Sets the preset extrusion format.
 
 
 ## Syntax
 
- _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
+_expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -29,7 +30,7 @@ Sets the preset extrusion format.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required|**MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D Rotation** submenu on the **Shape Effects** menu.|
+| _PresetThreeDFormat_|Required|**MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3D Rotation** submenu on the **Shape Effects** menu.|
 
 ## Remarks
 
@@ -65,7 +66,7 @@ The value of the PresetThreeDFormat parameter can be one of these  **MsoPresetTh
 
 ## Example
 
-This example adds an oval to  `myDocument` and sets its extrusion format to 3D Style 12.
+This example adds an oval to  _myDocument_ and sets its extrusion format to 3D Style 12.
 
 
 ```vb
@@ -84,3 +85,4 @@ End With
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 92ad7619-746a-4083-8fc9-363ab040768d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.OutlineCode1 Property (Project)](http://msdn.microsoft.com/library/7ae60245-8135-45cc-a609-fb2df1dfdd11%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

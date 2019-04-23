@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderRemove Event (Outlook)
+title: Reminders.ReminderRemove event (Outlook)
 keywords: vbaol11.chm579
 f1_keywords:
 - vbaol11.chm579
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Reminders.ReminderRemove
 ms.assetid: f217cd33-84c0-223b-ad4e-9ceb0f7e894c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminders.ReminderRemove Event (Outlook)
+# Reminders.ReminderRemove event (Outlook)
 
 Occurs when a  **[Reminder](Outlook.Reminder.md)** object has been removed from the collection.
 
 
 ## Syntax
 
- _expression_. `ReminderRemove`
+_expression_. `ReminderRemove`
 
- _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Remarks
@@ -78,3 +79,4 @@ End Sub
 
 [Reminders Object](Outlook.Reminders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

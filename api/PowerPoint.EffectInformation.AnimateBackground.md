@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.AnimateBackground Property (PowerPoint)
+title: EffectInformation.AnimateBackground property (PowerPoint)
 keywords: vbapp10.chm655004
 f1_keywords:
 - vbapp10.chm655004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.EffectInformation.AnimateBackground
 ms.assetid: 37e9bfb5-3661-a3eb-d148-90d504f0e450
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectInformation.AnimateBackground Property (PowerPoint)
+# EffectInformation.AnimateBackground property (PowerPoint)
 
 Returns  **msoTrue** if the specified effect is a background animation. Read-only.
 
 
 ## Syntax
 
- _expression_. `AnimateBackground`
+_expression_. `AnimateBackground`
 
- _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
+_expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 
 
 ## Remarks
@@ -35,7 +36,7 @@ The value returned by the  **AnimateBackground** property can be one of these **
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified effect is not a background animation.|
 |**msoTrue**| The specified effect is a background animation.|
@@ -67,4 +68,4 @@ End Sub
 
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

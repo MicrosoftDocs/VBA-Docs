@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Status Property (Outlook)
+title: TaskItem.Status property (Outlook)
 keywords: vbaol11.chm1744
 f1_keywords:
 - vbaol11.chm1744
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.Status
 ms.assetid: fc575f57-0651-f620-89df-3bbaa89e019d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.Status Property (Outlook)
+# TaskItem.Status property (Outlook)
 
-Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](Outlook.TaskItem.md)** . Read/write.
+Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](Outlook.TaskItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `Status`
+_expression_. `Status`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specify
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

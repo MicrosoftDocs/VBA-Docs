@@ -3,6 +3,7 @@ title: Prompt a user before saving a record
 ms.prod: access
 ms.assetid: 4b47967c-a043-cc8a-774f-1df0b529f29b
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -35,4 +36,4 @@ Private Sub Form_BeforeUpdate(Cancel As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

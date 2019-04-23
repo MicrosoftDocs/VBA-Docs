@@ -1,5 +1,5 @@
 ---
-title: Pane.Zooms Property (Word)
+title: Pane.Zooms property (Word)
 keywords: vbawd10.chm157286407
 f1_keywords:
 - vbawd10.chm157286407
@@ -8,17 +8,18 @@ api_name:
 - Word.Pane.Zooms
 ms.assetid: 6a09981c-cc68-2468-f750-18cb8524767c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.Zooms Property (Word)
+# Pane.Zooms property (Word)
 
 Returns a  **[Zooms](Word.zooms.md)** collection that represents the magnification options for each view (such as normal view, outline view or print layout view).
 
 
 ## Syntax
 
- _expression_. `Zooms`
+_expression_. `Zooms`
 
  _expression_ An expression that returns a '[Pane](Word.Pane.md)' object.
 
@@ -57,3 +58,4 @@ ActiveDocument.ActiveWindow.Panes(1).Zooms(wdPrintView).PageFit = _
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

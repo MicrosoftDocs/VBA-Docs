@@ -1,14 +1,15 @@
 ---
-title: Create a Rule to Move Specific E-mails to a Folder
+title: Create a Rule to Move Specific Emails to a Folder
 ms.prod: outlook
 ms.assetid: e72fa307-8224-c2d2-1318-a18cd8e9f22f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Create a Rule to Move Specific E-mails to a Folder
+# Create a Rule to Move Specific Emails to a Folder
 
-This topic shows a code sample in Visual Basic for Applicatons (VBA) that uses the  **Rules** object model to create a rule. The code sample uses the **[RuleAction](../../../api/Outlook.RuleAction.md)** and **[RuleCondition](../../../api/Outlook.RuleCondition.md)** objects to specify a rule that moves messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder named "Dan" under the Inbox.
+This topic shows a code sample in Visual Basic for Applications (VBA) that uses the  **Rules** object model to create a rule. The code sample uses the **[RuleAction](../../../api/Outlook.RuleAction.md)** and **[RuleCondition](../../../api/Outlook.RuleCondition.md)** objects to specify a rule that moves messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder named "Dan" under the Inbox.
 
 The following describes the steps used to create the rule:
 
@@ -82,4 +83,4 @@ Sub CreateRule()
 End Sub 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

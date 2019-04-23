@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: e6dc50c5-8766-21c5-3b4f-bd0b92882128
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether an automatic tab occurs wh
 
 ## Syntax
 
- _expression_. **AutoTab**
+_expression_.**AutoTab**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **[MaxLength](Outlook.combobox.maxlength.md)** property specifies the maxim
 
 You can specify the  **AutoTab** property for a **ComboBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the focus automatically moves to the next control in the tab order. For example, if a **ComboBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **ComboBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

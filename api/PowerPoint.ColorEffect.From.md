@@ -1,5 +1,5 @@
 ---
-title: ColorEffect.From Property (PowerPoint)
+title: ColorEffect.From property (PowerPoint)
 keywords: vbapp10.chm659004
 f1_keywords:
 - vbapp10.chm659004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorEffect.From
 ms.assetid: 177d8282-e374-3601-f0ab-63c9e48f5415
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorEffect.From Property (PowerPoint)
+# ColorEffect.From property (PowerPoint)
 
 Sets or returns a  **ColorFormat** object that represents the starting RGB color value of an animation behavior.
 
 
 ## Syntax
 
- _expression_. `From`
+_expression_. `From`
 
- _expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
+_expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
 
 
 ## Remarks
@@ -65,3 +66,4 @@ End Sub
 
 [ColorEffect Object](PowerPoint.ColorEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

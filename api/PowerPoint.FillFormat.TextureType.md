@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureType Property (PowerPoint)
+title: FillFormat.TextureType property (PowerPoint)
 keywords: vbapp10.chm552021
 f1_keywords:
 - vbapp10.chm552021
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.TextureType
 ms.assetid: 318e5b2f-7baa-296b-c7ea-0feddb70414c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureType Property (PowerPoint)
+# FillFormat.TextureType property (PowerPoint)
 
 Returns the texture type for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextureType`
+_expression_. `TextureType`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -72,3 +73,4 @@ Next
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollWorkbookTabs Method (Excel)
+title: Window.ScrollWorkbookTabs method (Excel)
 keywords: vbaxl10.chm356107
 f1_keywords:
 - vbaxl10.chm356107
@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.ScrollWorkbookTabs
 ms.assetid: 5c7c4d74-f125-d67e-2196-14a740afe947
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.ScrollWorkbookTabs Method (Excel)
+# Window.ScrollWorkbookTabs method (Excel)
 
 Scrolls through the workbook tabs at the bottom of the window. Doesn't affect the active sheet in the workbook.
 
 
 ## Syntax
 
- _expression_. `ScrollWorkbookTabs`( `_Sheets_` , `_Position_` )
+_expression_. `ScrollWorkbookTabs`( `_Sheets_` , `_Position_` )
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveWindow.ScrollWorkbookTabs position:=xlLast
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

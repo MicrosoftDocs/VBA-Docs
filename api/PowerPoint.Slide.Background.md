@@ -1,5 +1,5 @@
 ---
-title: Slide.Background Property (PowerPoint)
+title: Slide.Background property (PowerPoint)
 keywords: vbapp10.chm531007
 f1_keywords:
 - vbapp10.chm531007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.Background
 ms.assetid: 8af622b9-029a-6839-7a44-fdf96fe75dc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.Background Property (PowerPoint)
+# Slide.Background property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -63,3 +64,4 @@ End With
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

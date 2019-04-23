@@ -1,5 +1,5 @@
 ---
-title: SetEffect.Application Property (PowerPoint)
+title: SetEffect.Application property (PowerPoint)
 keywords: vbapp10.chm670001
 f1_keywords:
 - vbapp10.chm670001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SetEffect.Application
 ms.assetid: f3050f93-46a2-bc6f-d984-53807350281b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SetEffect.Application Property (PowerPoint)
+# SetEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [SetEffect](./PowerPoint.SetEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [SetEffect Object](PowerPoint.SetEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

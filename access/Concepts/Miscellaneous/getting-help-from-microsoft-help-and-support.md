@@ -3,6 +3,7 @@ title: Getting Help from Microsoft Help and Support
 ms.prod: access
 ms.assetid: d5abcd89-3fdf-5ce4-164c-fb4545f89717
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,5 @@ For additional technical resources and information about developing with Microso
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdRevisionsMode Enumeration (Word)
+title: WdRevisionsMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsMode
 ms.assetid: eb6663f0-a043-2ded-28d1-d54c73fa2813
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRevisionsMode Enumeration (Word)
+# WdRevisionsMode enumeration (Word)
 
 Specifies whether Microsoft Word displays balloons in the margin or inline with the document's text.
 
@@ -20,3 +21,4 @@ Specifies whether Microsoft Word displays balloons in the margin or inline with 
 | **wdInLineRevisions**|1|Displays revisions within the text using strikethrough for deletions and underlining for insertions. This is the default setting for prior versions of Word.|
 | **wdMixedRevisions**|2|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.SnapSettings Property (Visio)
+title: Document.SnapSettings property (Visio)
 keywords: vis_sdr.chm10550890
 f1_keywords:
 - vis_sdr.chm10550890
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.SnapSettings
 ms.assetid: c3ced586-d9c7-01bd-6b32-99fedda3c2b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SnapSettings Property (Visio)
+# Document.SnapSettings property (Visio)
 
 Determines the objects that shapes snap to when snap is active in the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapSettings`
+_expression_. `SnapSettings`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -36,7 +37,7 @@ The  **SnapSettings** property can be any combination of the following **VisSnap
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSnapToNone**|&H0 |Snap to nothing. |
 | **visSnapToRulerSubdivisions**|&H1 |Snap to tick marks on the ruler. |
@@ -51,3 +52,4 @@ The  **SnapSettings** property can be any combination of the following **VisSnap
 | **visSnapToDisabled**|&H8000 |Disable snap. |
 | **visSnapToIntersections**|&H10000 |Snap to intersections. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

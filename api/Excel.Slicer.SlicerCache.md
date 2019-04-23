@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.SlicerCache
 ms.assetid: c7805cf2-646b-0221-4d9d-0bbf7fa03207
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object associated with the 
 
 ## Syntax
 
- _expression_. `SlicerCache`
+_expression_. `SlicerCache`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ SlicerCache
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.Callout Property (Word)
+title: Shape.Callout property (Word)
 keywords: vbawd10.chm161480807
 f1_keywords:
 - vbawd10.chm161480807
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.Callout
 ms.assetid: 191ba6c5-20e5-458f-b3e3-751a4e566f4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Callout Property (Word)
+# Shape.Callout property (Word)
 
 Returns a  **[CalloutFormat](Word.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `Callout`
+_expression_. `Callout`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -53,3 +54,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

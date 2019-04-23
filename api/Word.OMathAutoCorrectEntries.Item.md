@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrectEntries.Item Method (Word)
+title: OMathAutoCorrectEntries.Item method (Word)
 keywords: vbawd10.chm247988224
 f1_keywords:
 - vbawd10.chm247988224
@@ -8,17 +8,18 @@ api_name:
 - Word.OMathAutoCorrectEntries.Item
 ms.assetid: 775e876d-8bce-b882-9a58-c7f16f722848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OMathAutoCorrectEntries.Item Method (Word)
+# OMathAutoCorrectEntries.Item method (Word)
 
 Returns an  **OMathAutoCorrectEntry** object that represents the specified item in the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns an '[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)' object.
 
@@ -41,3 +42,4 @@ OMathAutoCorrectEntry
 
 [OMathAutoCorrectEntries Collection](Word.OMathAutoCorrectEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

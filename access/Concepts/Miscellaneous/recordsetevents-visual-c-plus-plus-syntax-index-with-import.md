@@ -3,6 +3,7 @@ title: RecordsetEvents (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: aa99a006-3968-3853-030d-ef143c4ef7b0
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -62,3 +63,5 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

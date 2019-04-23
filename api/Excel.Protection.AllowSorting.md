@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowSorting
 ms.assetid: cffdb62d-2fbb-111a-ed06-e295b722ee75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowSorting property (Excel)
 
-Returns  **True** if the sorting option is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the sorting option is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowSorting`
+_expression_. `AllowSorting`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

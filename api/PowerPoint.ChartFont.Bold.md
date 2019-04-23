@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Bold Property (PowerPoint)
+title: ChartFont.Bold property (PowerPoint)
 keywords: vbapp10.chm704002
 f1_keywords:
 - vbapp10.chm704002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ChartFont.Bold
 ms.assetid: 5d5a0b2e-5aab-f197-79da-e9bb8d219af9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.Bold Property (PowerPoint)
+# ChartFont.Bold property (PowerPoint)
 
  **True** if the font is bold. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Bold`
+_expression_. `Bold`
 
- _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
+_expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 
 
 ## Example
@@ -53,3 +54,4 @@ End With
 
 [ChartFont Object](PowerPoint.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

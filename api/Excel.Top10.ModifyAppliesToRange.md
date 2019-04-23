@@ -1,5 +1,5 @@
 ---
-title: Top10.ModifyAppliesToRange Method (Excel)
+title: Top10.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm822087
 f1_keywords:
 - vbaxl10.chm822087
@@ -8,19 +8,20 @@ api_name:
 - Excel.Top10.ModifyAppliesToRange
 ms.assetid: 3baf8e16-4bb7-ec97-da0a-17187500f1f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Top10.ModifyAppliesToRange Method (Excel)
+# Top10.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 
 
 ## Syntax
 
- _expression_. `ModifyAppliesToRange`( `_Range_` )
+_expression_.**ModifyAppliesToRange** (_Range_)
 
- _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ You can also use a local defined name in any part of the range, but the name mus
 
 [Top10 Object](Excel.Top10.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

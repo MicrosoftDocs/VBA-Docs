@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Activate Method (Excel)
+title: Worksheet.Activate method (Excel)
 keywords: vbaxl10.chm174073
 f1_keywords:
 - vbaxl10.chm174073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Activate
 ms.assetid: b198dc36-99d0-42db-6cbb-7f68396fd2f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Activate Method (Excel)
+# Worksheet.Activate method (Excel)
 
 Makes the current sheet the active sheet. 
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Activate
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdPaperSize Enumeration (Word)
+title: WdPaperSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPaperSize
 ms.assetid: 531f075d-9807-5b40-dd53-63dd223e9ae4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPaperSize Enumeration (Word)
+# WdPaperSize enumeration (Word)
 
 Specifies a paper size.
 
@@ -59,3 +60,4 @@ Specifies a paper size.
 | **wdPaperStatement**|22|Statement dimensions.|
 | **wdPaperTabloid**|23|Tabloid dimensions.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

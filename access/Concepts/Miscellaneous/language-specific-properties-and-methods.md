@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7c7cc1dc-7674-fd13-85bb-a24ee4b51775
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,3 +38,5 @@ Properties and methods that are available only in Asian or right-to-left languag
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

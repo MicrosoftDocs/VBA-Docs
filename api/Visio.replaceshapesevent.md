@@ -1,12 +1,13 @@
 ---
-title: ReplaceShapesEvent Object (Visio)
+title: ReplaceShapesEvent object (Visio)
 ms.prod: visio
 ms.assetid: 26c4e7cb-6618-6d2f-a4be-515584f8cd10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReplaceShapesEvent Object (Visio)
+# ReplaceShapesEvent object (Visio)
 
 Represents a shape-replacement operation initiated by the [Selection.ReplaceShape](Visio.selection.replaceshape.md) or the [Shape.ReplaceShape](Visio.shape.replaceshape.md) method.
 
@@ -18,5 +19,4 @@ Properties of the  **ReplaceShapesEvent** object return information about variou
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

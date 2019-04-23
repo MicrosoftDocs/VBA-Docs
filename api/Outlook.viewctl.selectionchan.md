@@ -3,6 +3,7 @@ title: ViewCtl.SelectionChange Event (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 4f637ff7-4b0d-c66e-ae51-bfd38b6e7f3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Occurs when the selection of the current view changes.
 
 ## Syntax
 
- _expression_. **SelectionChange**
+_expression_.**SelectionChange**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ This event does not occur if the current folder is a file system folder or if  *
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

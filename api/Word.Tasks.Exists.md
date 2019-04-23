@@ -1,5 +1,5 @@
 ---
-title: Tasks.Exists Method (Word)
+title: Tasks.Exists method (Word)
 keywords: vbawd10.chm159580162
 f1_keywords:
 - vbawd10.chm159580162
@@ -8,17 +8,18 @@ api_name:
 - Word.Tasks.Exists
 ms.assetid: 421a5ff6-25b5-3255-ae81-32f5decbfe93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tasks.Exists Method (Word)
+# Tasks.Exists method (Word)
 
 Determines whether the specified task exists. Returns  **True** if the task exists.
 
 
 ## Syntax
 
- _expression_. `Exists`( `_Name_` )
+_expression_. `Exists`( `_Name_` )
 
  _expression_ A variable that represents a '[Tasks](Word.tasks.md)' collection.
 
@@ -56,3 +57,4 @@ Tasks("Calculator").WindowState = wdWindowStateNormal
 
 [Tasks Collection Object](Word.tasks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Shading Property (Word)
+title: Paragraphs.Shading property (Word)
 keywords: vbawd10.chm156762228
 f1_keywords:
 - vbawd10.chm156762228
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.Shading
 ms.assetid: b732c59d-d861-00d8-fd00-6940449480a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.Shading Property (Word)
+# Paragraphs.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. `Shading`
+_expression_. `Shading`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

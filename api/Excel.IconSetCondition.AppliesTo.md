@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.AppliesTo
 ms.assetid: f8a3b01b-8b4f-124c-6eb7-060625ef6e70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 ## Syntax
 
- _expression_. `AppliesTo`
+_expression_.**AppliesTo**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Parameter.DataType
 ms.assetid: c5f6fe14-9c4c-16ae-0fdb-28142ed5327c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlParameterDataType](Excel.XlParameterDataType.md)** value
 
 ## Syntax
 
- _expression_. `DataType`
+_expression_. `DataType`
 
- _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[XlParameterDataType](Excel.XlParameterDataType.md)** value
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.CurrentPageIndex
 ms.assetid: 2a7950cf-c079-da63-676d-cf6a7e8a3600
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets the index of the page displayed when a drawing opens in Microsoft V
 
 ## Syntax
 
- _expression_. **CurrentPageIndex**
+_expression_.**CurrentPageIndex**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -43,4 +44,4 @@ The following code gets the index of the page displayed in Visio Viewer when a d
  Debug.Print vsoViewer.CurrentPageIndex
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

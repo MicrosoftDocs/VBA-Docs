@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4f8df4e3-76d5-4412-b4ec-41fdb9fe4f8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.IgnoreWarnings Property (Project)](http://msdn.microsoft.com/library/066439e9-c100-80fc-cba3-f9cadc0ef563%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

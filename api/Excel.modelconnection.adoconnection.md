@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 36922296-6971-c42c-7d00-8d43ac1f328b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ The ADO Connection Object is used to create an open connection to a data source.
 
 ## Syntax
 
- _expression_. `ADOConnection`
+_expression_. `ADOConnection`
 
- _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+_expression_ A variable that represents a **[ModelConnection](Excel.modelconnection.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ The ADO Connection Object is used to create an open connection to a data source.
 
 [ModelConnection Object](Excel.modelconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

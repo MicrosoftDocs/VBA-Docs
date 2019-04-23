@@ -1,27 +1,28 @@
 ---
-title: MsoPresetTextEffectShape Enumeration (Office)
+title: MsoPresetTextEffectShape enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetTextEffectShape
 ms.assetid: d8b21a00-54af-b2cf-6a1d-4bbaef2aac78
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoPresetTextEffectShape Enumeration (Office)
+# MsoPresetTextEffectShape enumeration (Office)
 
-Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting  **WordArt Shape** in the **WordArt** toolbar.
+Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting **WordArt Shape** in the **WordArt** toolbar.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextEffectShapeArchDownCurve**|10|Text is an arch that curves down.|
-|**msoTextEffectShapeArchDownPour**|14|Text is a 3-D arch that curves down.|
+|**msoTextEffectShapeArchDownPour**|14|Text is a 3D arch that curves down.|
 |**msoTextEffectShapeArchUpCurve**|9|Text is an arch that curves up.|
-|**msoTextEffectShapeArchUpPour**|13|Text is a 3-D arch that curves up.|
+|**msoTextEffectShapeArchUpPour**|13|Text is a 3D arch that curves up.|
 |**msoTextEffectShapeButtonCurve**|12|Text is curved around a center "button."|
-|**msoTextEffectShapeButtonPour**|16|Text is seen in 3-D, curved around a center "button."|
+|**msoTextEffectShapeButtonPour**|16|Text is seen in 3D, curved around a center "button."|
 |**msoTextEffectShapeCanDown**|20|Text is stretched to fill the height of the shape, with only a slight curve down.|
 |**msoTextEffectShapeCanUp**|19|Text is stretched to fill the height of the shape, with only a slight curve up.|
 |**msoTextEffectShapeCascadeDown**|40|Text slants up and to the right as font size decreases.|
@@ -29,7 +30,7 @@ Specifies shape of WordArt text. You can see a preview of each text effect shape
 |**msoTextEffectShapeChevronDown**|6|Text slants up to its center point and then slants down.|
 |**msoTextEffectShapeChevronUp**|5|Text slants down to its center point and then slants up.|
 |**msoTextEffectShapeCircleCurve**|11|Text follows a circle, reading clockwise.|
-|**msoTextEffectShapeCirclePour**|15|Text has a 3-D effect and follows a circle, reading clockwise.|
+|**msoTextEffectShapeCirclePour**|15|Text has a 3D effect and follows a circle, reading clockwise.|
 |**msoTextEffectShapeCurveDown**|18|Text curves down and to the right as font size decreases.|
 |**msoTextEffectShapeCurveUp**|17|Text curves down and to the right as font size increases.|
 |**msoTextEffectShapeDeflate**|26|Font size decreases to the text's midpoint, then increases to the starting size.|
@@ -48,8 +49,8 @@ Specifies shape of WordArt text. You can see a preview of each text effect shape
 |**msoTextEffectShapeInflateTop**|29|Font size of text increases to its center point, then decreases. Center point of each letter follows an arch that curves upward.|
 |**msoTextEffectShapeMixed**|-2|Not used.|
 |**msoTextEffectShapePlainText**|1|No shape applied.|
-|**msoTextEffectShapeRingInside**|7|Text appears to be written inside a 3-D ring.|
-|**msoTextEffectShapeRingOutside**|8|Text appears to be written outside a 3-D ring.|
+|**msoTextEffectShapeRingInside**|7|Text appears to be written inside a 3D ring.|
+|**msoTextEffectShapeRingOutside**|8|Text appears to be written outside a 3D ring.|
 |**msoTextEffectShapeSlantDown**|38|Text slants down and to the right.|
 |**msoTextEffectShapeSlantUp**|37|Text slants up and to the right.|
 |**msoTextEffectShapeStop**|2|Text follows the shape of a stop sign.|
@@ -58,3 +59,4 @@ Specifies shape of WordArt text. You can see a preview of each text effect shape
 |**msoTextEffectShapeWave1**|21|Text follows a wave up, then down and up again.|
 |**msoTextEffectShapeWave2**|22|Text follows a wave down, then up and down again.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

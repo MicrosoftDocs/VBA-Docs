@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5c4470e5-f08e-291c-3f32-147ba74dd3b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that represents the current line of a control. Read/
 
 ## Syntax
 
- _expression_. **CurLine**
+_expression_.**CurLine**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ The current line of a control is the line that contains the insertion point. The
 
 The  **CurLine** property is valid when the control has focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

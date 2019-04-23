@@ -1,28 +1,28 @@
 ---
-title: CurDir Function
+title: CurDir function (Visual Basic for Applications)
 keywords: vblr6.chm1008881
 f1_keywords:
 - vblr6.chm1008881
 ms.prod: office
 ms.assetid: 5abad447-9c6b-8e9c-d6bb-f43f23dc45ad
-ms.date: 06/08/2017
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
-# CurDir Function
+# CurDir function
 
-
-
-Returns a  **Variant** (**String**) representing the current path.
+Returns a **Variant** (**String**) representing the current path.
 
 ## Syntax
 
-**CurDir** [ **(**_drive_**)** ]
-The optional  _drive_ [argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies an existing drive. If no drive is specified or if _drive_ is a zero-length string (""), **CurDir** returns the path for the current drive. On the Macintosh, **CurDir** ignores any _drive_ specified and simply returns the path for the current drive.
+**CurDir** [ (_drive_) ]
+
+The optional _drive_ [argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies an existing drive. If no drive is specified or if _drive_ is a zero-length string (""), **CurDir** returns the path for the current drive. On the Macintosh, **CurDir** ignores any _drive_ specified and simply returns the path for the current drive.
 
 ## Example
 
-This example uses the  **CurDir** function to return the current path. On the Macintosh, _drive_ specifications given to **CurDir** are ignored. The default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes. Similarly, you would specify Macintosh folders instead of \Windows.
+This example uses the **CurDir** function to return the current path. On the Macintosh, _drive_ specifications given to **CurDir** are ignored. The default drive name is **HD**, and portions of the pathname are separated by colons instead of backslashes. Similarly, you would specify Macintosh folders instead of \Windows.
 
 
 ```vb
@@ -36,4 +36,8 @@ MyPath = CurDir("D")    ' Returns "D:\EXCEL".
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

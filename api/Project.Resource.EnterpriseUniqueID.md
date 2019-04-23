@@ -1,5 +1,5 @@
 ---
-title: Resource.EnterpriseUniqueID Property (Project)
+title: Resource.EnterpriseUniqueID property (Project)
 keywords: vbapj.chm132200
 f1_keywords:
 - vbapj.chm132200
@@ -8,17 +8,18 @@ api_name:
 - Project.Resource.EnterpriseUniqueID
 ms.assetid: ad5bdf09-a1e0-c9fd-c3ae-ba1639177a95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.EnterpriseUniqueID Property (Project)
+# Resource.EnterpriseUniqueID property (Project)
 
 Gets the enterprise unique identification number for a resource. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseUniqueID`
+_expression_. `EnterpriseUniqueID`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -29,4 +30,4 @@ The enterprise unique ID is a unique number for the enterprise resource within a
 
 The  **EnterpriseUniqueID** property is available only in Project Professional.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

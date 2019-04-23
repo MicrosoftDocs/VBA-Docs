@@ -1,5 +1,5 @@
 ---
-title: CalendarView.DaysInMultiDayMode Property (Outlook)
+title: CalendarView.DaysInMultiDayMode property (Outlook)
 keywords: vbaol11.chm2640
 f1_keywords:
 - vbaol11.chm2640
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CalendarView.DaysInMultiDayMode
 ms.assetid: 1dcb2a69-93b9-432e-56ca-7e39b040dc6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarView.DaysInMultiDayMode Property (Outlook)
+# CalendarView.DaysInMultiDayMode property (Outlook)
 
 Returns or sets a  **Long** value that represents the number of consecutive days displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write
 
 
 ## Syntax
 
- _expression_. `DaysInMultiDayMode`
+_expression_. `DaysInMultiDayMode`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks
@@ -103,3 +104,4 @@ End Sub
 
 [CalendarView Object](Outlook.CalendarView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

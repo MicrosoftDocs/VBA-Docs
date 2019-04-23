@@ -7,48 +7,45 @@ ms.prod: access
 api_name:
 - Access.Application.CurrentObjectName
 ms.assetid: 85b32556-96ed-ed3c-dc5b-4c2570639f50
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.CurrentObjectName property (Access)
 
-You can use the  **CurrentObjectName** property with the **[Application](Access.Application.md)** object to determine the name of the active database object. The active database object is the object that has the focus or in which code is running. Read-only **String**.
+You can use the **CurrentObjectName** property with the **Application** object to determine the name of the active database object. The active database object is the object that has the focus or in which code is running. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `CurrentObjectName`
+_expression_.**CurrentObjectName**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
 
-The  **CurrentObjectName** property is set by Microsoft Access to a string expression containing the name of the active object.
+The **CurrentObjectName** property is set by Microsoft Access to a string expression containing the name of the active object.
 
 The following conditions determine which object is considered the active object:
 
-
-- If the active object is a property sheet, command bar, menu, palette, or field list of an object, the  **CurrentObjectName** property returns the name of the underlying object.
+- If the active object is a property sheet, command bar, menu, palette, or field list of an object, the **CurrentObjectName** property returns the name of the underlying object.
     
-- If the active object is a pop-up form, the  **CurrentObjectName** property refers to the pop-up form itself, not the form from which it was opened.
+- If the active object is a pop-up form, the **CurrentObjectName** property refers to the pop-up form itself, not the form from which it was opened.
     
-- If the active object is the Database window, the  **CurrentObjectName** property returns the item selected in the Database window.
+- If the active object is the Database window, the **CurrentObjectName** property returns the item selected in the Database window.
     
-- If no object is selected, the  **CurrentObjectName** property returns a zero-length string (" ").
+- If no object is selected, the **CurrentObjectName** property returns a zero-length string (" ").
     
-- If the current state is ambiguous (the active object isn't a table, query, form, report, macro, or module) for example, if a dialog box has the focus the  **CurrentObjectName** property returns the dialog box name.
+- If the current state is ambiguous (the active object isn't a table, query, form, report, macro, or module), for example, if a dialog box has the focus, the **CurrentObjectName** property returns the dialog box name.
     
 
 ## Example
 
-You can use this property with the  **[SysCmd](Access.Application.SysCmd.md)** method to determine the active object and its state (for example, if the object is open, new, or has been changed but not saved).
+You can use this property with the **[SysCmd](Access.Application.SysCmd.md)** method to determine the active object and its state (for example, if the object is open, new, or has been changed but not saved).
 
-The following example uses the  **CurrentObjectType** and **CurrentObjectName** properties with the **SysCmd** function to determine if the active object is the Products form and if this form is open and has been changed but not saved. If these conditions are true, the form is saved and then closed.
-
-
-
+The following example uses the **CurrentObjectType** and **CurrentObjectName** properties with the **SysCmd** function to determine if the active object is the Products form and if this form is open and has been changed but not saved. If these conditions are true, the form is saved and then closed.
 
 ```vb
 Public Sub CheckProducts() 
@@ -75,8 +72,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: KeepScrollBarsVisible Property
+title: KeepScrollBarsVisible property
 keywords: fm20.chm5225048
 f1_keywords:
 - fm20.chm5225048
@@ -7,32 +7,31 @@ ms.prod: office
 api_name:
 - Office.KeepScrollBarsVisible
 ms.assetid: e138df9f-5a8f-efcb-48db-9c8d22a7951f
-ms.date: 06/08/2017
+ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 
-# KeepScrollBarsVisible Property
-
-
+# KeepScrollBarsVisible property
 
 Specifies whether scroll bars remain visible when not required.
 
 ## Syntax
 
-_object_. **KeepScrollBarsVisible** [= _fmScrollBars_ ]
-The  **KeepScrollBarsVisible** property syntax has these parts:
+_object_.**KeepScrollBarsVisible** [= _fmScrollBars_ ]
 
+The **KeepScrollBarsVisible** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmScrollBars_|Optional. Where scroll bars are displayed.|
 
 ## Settings
-The settings for  _fmScrollBars_ are:
 
+The settings for _fmScrollBars_ are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmScrollBarsNone_|0|Displays no scroll bars.|
 | _fmScrollBarsHorizontal_|1|Displays a horizontal scroll bar.|
@@ -41,6 +40,14 @@ The settings for  _fmScrollBars_ are:
 
 ## Remarks
 
-If the visible region is large enough to display all the controls on an object such as a  **Page** object or a form, scroll bars are not required. The **KeepScrollBarsVisible** property determines whether the scroll bars remain visible when they are not required.
+If the visible region is large enough to display all the controls on an object such as a **Page** object or a form, scroll bars are not required. The **KeepScrollBarsVisible** property determines whether the scroll bars remain visible when they are not required.
+
 If the scroll bars are visible when they are not required, they appear normal in size, and the scroll box fills the entire width or height of the scroll bar.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

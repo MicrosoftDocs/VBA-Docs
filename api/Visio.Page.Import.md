@@ -1,5 +1,5 @@
 ---
-title: Page.Import Method (Visio)
+title: Page.Import method (Visio)
 keywords: vis_sdr.chm10916355
 f1_keywords:
 - vis_sdr.chm10916355
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Import
 ms.assetid: a84086c3-694d-8cf3-e6f7-ba84e182dd4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Import Method (Visio)
+# Page.Import method (Visio)
 
 Imports a file into the current document.
 
 
 ## Syntax
 
- _expression_. `Import`( `_FileName_` )
+_expression_. `Import`( `_FileName_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -58,4 +59,4 @@ Public Sub Import_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

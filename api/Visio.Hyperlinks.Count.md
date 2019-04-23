@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Count Property (Visio)
+title: Hyperlinks.Count property (Visio)
 keywords: vis_sdr.chm15613330
 f1_keywords:
 - vis_sdr.chm15613330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlinks.Count
 ms.assetid: c460e4ee-679c-b6ed-3c60-e0735bc81815
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks.Count Property (Visio)
+# Hyperlinks.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 85e87428-6774-501d-8e86-b84ef1010313
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Check the error log for more descriptive information.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

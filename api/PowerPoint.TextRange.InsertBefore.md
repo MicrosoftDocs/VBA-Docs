@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertBefore Method (PowerPoint)
+title: TextRange.InsertBefore method (PowerPoint)
 keywords: vbapp10.chm569019
 f1_keywords:
 - vbapp10.chm569019
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.InsertBefore
 ms.assetid: fbadcecd-a31b-8c8d-3281-63d70286bcff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.InsertBefore Method (PowerPoint)
+# TextRange.InsertBefore method (PowerPoint)
 
 Appends a string to the beginning of the specified text range. Returns a  **TextRange** object that represents the appended text. When used without an argument, this method returns a zero-length string at the end of the specified range.
 
 
 ## Syntax
 
- _expression_. `InsertBefore`( `_NewText_` )
+_expression_. `InsertBefore`( `_NewText_` )
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -60,3 +61,4 @@ Application.ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

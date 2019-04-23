@@ -1,5 +1,5 @@
 ---
-title: Documents.Open Method (Visio)
+title: Documents.Open method (Visio)
 keywords: vis_sdr.chm10616395
 f1_keywords:
 - vis_sdr.chm10616395
@@ -8,17 +8,18 @@ api_name:
 - Visio.Documents.Open
 ms.assetid: 0d5e3c3f-d1bc-c7d8-0167-bb9514ede0e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.Open Method (Visio)
+# Documents.Open method (Visio)
 
 Opens an existing file so that it can be edited.
 
 
 ## Syntax
 
- _expression_. `Open`( `_FileName_` )
+_expression_. `Open`( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
@@ -72,4 +73,4 @@ Public Sub OpenDocument_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

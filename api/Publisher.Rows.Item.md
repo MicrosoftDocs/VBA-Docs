@@ -1,5 +1,5 @@
 ---
-title: Rows.Item Method (Publisher)
+title: Rows.Item method (Publisher)
 keywords: vbapb10.chm4915200
 f1_keywords:
 - vbapb10.chm4915200
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Rows.Item
 ms.assetid: c91a6253-6130-be2f-4e93-29de44b5055c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.Item Method (Publisher)
+# Rows.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Rows** object.
 
@@ -35,4 +36,4 @@ Returns an individual object in a specified collection.
 
 Row
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

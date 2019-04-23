@@ -1,5 +1,5 @@
 ---
-title: Borders.EnableFirstPageInSection Property (Word)
+title: Borders.EnableFirstPageInSection property (Word)
 keywords: vbawd10.chm154927134
 f1_keywords:
 - vbawd10.chm154927134
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.EnableFirstPageInSection
 ms.assetid: 89eae9eb-25ef-f068-1098-f00389b10a22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.EnableFirstPageInSection Property (Word)
+# Borders.EnableFirstPageInSection property (Word)
 
- **True** if page borders are enabled for the first page in the section. Read/write **Boolean** .
+ **True** if page borders are enabled for the first page in the section. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableFirstPageInSection`
+_expression_. `EnableFirstPageInSection`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

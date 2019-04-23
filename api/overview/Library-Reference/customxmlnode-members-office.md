@@ -2,7 +2,8 @@
 title: CustomXMLNode members (Office)
 ms.prod: office
 ms.assetid: fbf957c8-40b8-2f75-fcc8-db0ed6e18438
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents an XML node in a tree in a document. The **CustomXMLNode** object is 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AppendChildNode](../../Office.CustomXMLNode.AppendChildNode.md)|Appends a single node as the last child under the context element node in the tree. |
 |[AppendChildSubtree](../../Office.CustomXMLNode.AppendChildSubtree.md)|Adds a subtree as the last child under the context element node in the tree.|
@@ -30,7 +31,7 @@ Represents an XML node in a tree in a document. The **CustomXMLNode** object is 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLNode.Application.md)|Gets an **Application** object that represents the container application for a **CustomXMLNode**. Read-only.|
 |[Attributes](../../Office.CustomXMLNode.Attributes.md)|Gets a **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.|
@@ -52,3 +53,4 @@ Represents an XML node in a tree in a document. The **CustomXMLNode** object is 
 |[XML](../../Office.CustomXMLNode.XML.md)|Gets the XML representation of the current node and its children, if any exist. Read-only.|
 |[XPath](../../Office.CustomXMLNode.XPath.md)|Gets a **String** with the canonicalized XPath for the current node. If the node is no longer in the Document Object Model (DOM), the property returns an error message. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

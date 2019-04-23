@@ -3,6 +3,7 @@ title: Make a Control Transparent
 ms.prod: outlook
 ms.assetid: dc6abbe8-1c28-080b-bd20-80e13b04bdad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,4 +17,4 @@ ms.date: 06/08/2017
 
  **Note**  When you make a control transparent, the background color does not appear, so the  **BackColor** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

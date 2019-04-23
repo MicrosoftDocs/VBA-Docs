@@ -8,6 +8,7 @@ api_name:
 - Excel.Errors.Item
 ms.assetid: e7182924-48cb-d97d-93b4-b4f53542013e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single member of the  **[Error](Excel.Error.md)** object.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [Errors](Excel.Errors.md) object.
+_expression_ A variable that represents an [Errors](Excel.Errors.md) object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ Returns a single member of the  **[Error](Excel.Error.md)** object.
 
 [Errors Object](Excel.Errors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

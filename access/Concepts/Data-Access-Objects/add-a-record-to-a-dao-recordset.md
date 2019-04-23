@@ -3,6 +3,7 @@ title: Add a record to a DAO Recordset
 ms.prod: access
 ms.assetid: b6366906-4b37-0d35-cfd5-d38e7717131c
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -11,7 +12,7 @@ ms.date: 09/21/2018
 You can add a new record to a table-type or dynaset-type **[Recordset](../../../api/overview/Access.md)** object by using the **[AddNew](../../../api/overview/Access.md)** method.
 
 
-### To add a record to a table-type or dynaset-type Recordset object:
+**To add a record to a table-type or dynaset-type Recordset object**
 
 1. Use the **AddNew** method to create a record you can edit.
     
@@ -47,4 +48,4 @@ If you add a record to a table-type Recordset, the record appears positioned acc
 > [!NOTE] 
 > If you use the **AddNew** method to add a record, and then move to another record or close the **Recordset** object without first using the **Update** method, your changes are lost without warning. For example, omitting the **Update** method from the preceding example results in no changes being made to the Shippers table.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: ListBox Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 29209459-9b73-4fc4-8866-23ac28ea8e9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Displays a list of values and lets you select one or more.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [AddItem](Outlook.ListBox.additem.md)|For a single-column  [ListBox](Outlook.ListBox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ListBox**, this method adds a row to the list.|
 | [Clear](Outlook.ListBox.clear.md)|Removes all entries in the list in a  **ListBox**.|
@@ -27,7 +28,7 @@ Displays a list of values and lets you select one or more.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.ListBox.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [BorderColor](Outlook.ListBox.bordercolor.md)|Returns or sets a  **Long** that specifies the border color of an object. Read/write.|
@@ -64,9 +65,8 @@ Displays a list of values and lets you select one or more.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.ListBox.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

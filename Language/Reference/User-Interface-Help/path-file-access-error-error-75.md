@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5c1e151a-facd-6e55-d075-f7faef4a2793
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ During a file-access or disk-access operation, for example,  **Open**, **MkDir**
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

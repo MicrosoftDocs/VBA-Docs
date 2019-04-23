@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 931a367f-87bd-4680-ad64-42f90536a064
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.KeyUp Event (Visio)](http://msdn.microsoft.com/library/497a8c56-7571-2bca-0a79-fc1adf458fe5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

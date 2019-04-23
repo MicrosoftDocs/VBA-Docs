@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceValidate Event (Publisher)
+title: Application.MailMergeDataSourceValidate event (Publisher)
 keywords: vbapb10.chm268435480
 f1_keywords:
 - vbapb10.chm268435480
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeDataSourceValidate
 ms.assetid: 8e18b0a0-8fe8-f72e-8a75-1585367cc796
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceValidate Event (Publisher)
+# Application.MailMergeDataSourceValidate event (Publisher)
 
 Occurs when a user performs address verification by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax
 
- _expression_. **MailMergeDataSourceValidate**(**_Doc_**,  **_Handled_**)
+_expression_.**MailMergeDataSourceValidate**(**_Doc_**,  **_Handled_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -111,3 +112,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

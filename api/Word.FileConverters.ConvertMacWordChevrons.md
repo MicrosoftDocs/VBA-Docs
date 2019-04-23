@@ -1,5 +1,5 @@
 ---
-title: FileConverters.ConvertMacWordChevrons Property (Word)
+title: FileConverters.ConvertMacWordChevrons property (Word)
 keywords: vbawd10.chm161087490
 f1_keywords:
 - vbawd10.chm161087490
@@ -8,17 +8,18 @@ api_name:
 - Word.FileConverters.ConvertMacWordChevrons
 ms.assetid: c0a1f60c-f3aa-a091-2088-ff571f653ed1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverters.ConvertMacWordChevrons Property (Word)
+# FileConverters.ConvertMacWordChevrons property (Word)
 
-Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write  **Long** . .
+Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write  **Long**. .
 
 
 ## Syntax
 
- _expression_. `ConvertMacWordChevrons`
+_expression_. `ConvertMacWordChevrons`
 
  _expression_ A variable that represents a '[FileConverters](Word.fileconverters.md)' collection.
 
@@ -46,3 +47,4 @@ Documents.Open FileName:="C:\Documents\Mac Word Document"
 
 [FileConverters Collection Object](Word.fileconverters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

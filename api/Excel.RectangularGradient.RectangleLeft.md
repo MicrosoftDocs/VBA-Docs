@@ -8,6 +8,7 @@ api_name:
 - Excel.RectangularGradient.RectangleLeft
 ms.assetid: 5c9f5843-5ba2-4fdf-7180-4c836c372c1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Represents the point or vector that the gradient fill converges to. Read/write
 
 ## Syntax
 
- _expression_. `RectangleLeft`
+_expression_. `RectangleLeft`
 
- _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
+_expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
 ## Return value
@@ -46,3 +47,4 @@ Works with RectangleRight, RectangleTop, and RectangleBottom. Valid values are l
 
 [RectangularGradient Object](Excel.RectangularGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

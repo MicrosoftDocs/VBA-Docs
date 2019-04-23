@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.Parent Property (PowerPoint)
+title: PlaceholderFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm545002
 f1_keywords:
 - vbapp10.chm545002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaceholderFormat.Parent
 ms.assetid: 40f4d254-a350-9ad0-5e10-e571d92aaa06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.Parent Property (PowerPoint)
+# PlaceholderFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [PlaceholderFormat](./PowerPoint.PlaceholderFormat.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

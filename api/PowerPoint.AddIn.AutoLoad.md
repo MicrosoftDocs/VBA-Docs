@@ -1,5 +1,5 @@
 ---
-title: AddIn.AutoLoad Property (PowerPoint)
+title: AddIn.AutoLoad property (PowerPoint)
 keywords: vbapp10.chm521007
 f1_keywords:
 - vbapp10.chm521007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AddIn.AutoLoad
 ms.assetid: ba8eca66-6d94-62ca-0270-85f2a508299f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.AutoLoad Property (PowerPoint)
+# AddIn.AutoLoad property (PowerPoint)
 
 Determines whether the specified add-in is automatically loaded each time PowerPoint is started. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoLoad`
+_expression_. `AutoLoad`
 
- _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
 ## Return value
@@ -36,7 +37,7 @@ The value of the  **AutoLoad** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified add-in is not automatically loaded each time PowerPoint is started. |
 |**msoTrue**| The specified add-in is automatically loaded each time PowerPoint is started.|
@@ -81,3 +82,4 @@ Application.AddIns("mytools").AutoLoad = msoTrue
 
 [AddIn Object](PowerPoint.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

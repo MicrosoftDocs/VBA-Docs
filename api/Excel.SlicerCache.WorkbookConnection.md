@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.WorkbookConnection
 ms.assetid: ffe4fcbc-025e-6349-aaee-39a938b61e1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Gets or sets the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object t
 
 ## Syntax
 
- _expression_. `WorkbookConnection`
+_expression_. `WorkbookConnection`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Gets or sets the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object t
 
 ## Remarks
 
-The  **WorkbookConnection** property only applies to slicers that are based on external data sources (**SlicerCache** . **SourceType** = **xlExternal**). Attempting to access the **WorkbookConnection** property for slicers that are connected to PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase**) generates a run-time error.
+The  **WorkbookConnection** property only applies to slicers that are based on external data sources (**SlicerCache**. **SourceType** = **xlExternal**). Attempting to access the **WorkbookConnection** property for slicers that are connected to PivotTables based on workbook ranges or lists (**SlicerCache**. **SourceType** = **xlDatabase**) generates a run-time error.
 
 The workbook connection value must be unique. Setting the workbook connection to a value that already exists generates a run-time error. 
 
@@ -40,3 +41,4 @@ The workbook connection value must be unique. Setting the workbook connection to
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

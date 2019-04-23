@@ -1,5 +1,5 @@
 ---
-title: Words.Creator Property (Word)
+title: Words.Creator property (Word)
 keywords: vbawd10.chm157025257
 f1_keywords:
 - vbawd10.chm157025257
@@ -8,19 +8,20 @@ api_name:
 - Word.Words.Creator
 ms.assetid: 9958b2f2-6adc-13e3-9067-d31131b88186
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Words.Creator Property (Word)
+# Words.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Words](Word.words.md)' collection.
+_expression_ Required. A variable that represents a '[Words](Word.words.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Words Collection Object](Word.words.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

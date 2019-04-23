@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.KeyDown Event (Outlook)
+title: OlkCategory.KeyDown event (Outlook)
 keywords: vbaol11.chm1000456
 f1_keywords:
 - vbaol11.chm1000456
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCategory.KeyDown
 ms.assetid: dcaaff84-eb0a-77a7-998d-3327cc7d02bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCategory.KeyDown Event (Outlook)
+# OlkCategory.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 
 
 ## Syntax
 
- _expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

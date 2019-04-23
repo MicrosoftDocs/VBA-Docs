@@ -3,6 +3,7 @@ title: Test a Form in Run Time
 ms.prod: outlook
 ms.assetid: 9e3626c2-5100-1740-f07b-2fe6da35c8ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,5 +24,5 @@ You cannot test forms that you customize with form regions from inside Outlook. 
     
      **Note**  You can test the form outside the Microsoft Outlook design environment by opening a new instance of the form. 
 2. Type information in the form, send or post it, and then open the form to make sure that it behaves as expected.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

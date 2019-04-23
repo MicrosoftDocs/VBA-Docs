@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Characters.Font
 ms.assetid: 0e6ff63c-ba3e-eae2-85c6-a1e56ac61317
-ms.date: 06/08/2017
+ms.date: 04/16/2019
+localization_priority: Normal
 ---
 
 
 # Characters.Font property (Excel)
 
-Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
+Returns a **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
- _expression_ A variable that represents a [Characters](Excel.Characters.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Characters](Excel.Characters.md)** object.
 
 
-[Characters Object](Excel.Characters.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

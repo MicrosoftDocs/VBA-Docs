@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 9974e4bb-4b66-24f5-bf17-3e835863847f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -41,4 +42,4 @@ You can move a control to a specific location relative to the edges of the form 
 
 You can use named arguments, or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you do not specify. Any unspecified arguments remain unchanged.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

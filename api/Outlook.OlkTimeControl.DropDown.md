@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.DropDown Method (Outlook)
+title: OlkTimeControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000398
 f1_keywords:
 - vbaol11.chm1000398
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTimeControl.DropDown
 ms.assetid: 88a5aeb6-31d7-83d3-ca4c-f4efbda7ac90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeControl.DropDown Method (Outlook)
+# OlkTimeControl.DropDown method (Outlook)
 
 Expands the time drop-down list of the time control.
 
 
 ## Syntax
 
- _expression_. `DropDown`
+_expression_. `DropDown`
 
- _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Expands the time drop-down list of the time control.
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

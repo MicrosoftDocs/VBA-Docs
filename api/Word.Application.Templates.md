@@ -1,5 +1,5 @@
 ---
-title: Application.Templates Property (Word)
+title: Application.Templates property (Word)
 keywords: vbawd10.chm158335043
 f1_keywords:
 - vbawd10.chm158335043
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Templates
 ms.assetid: 816e50d1-32b9-c8ff-6d2c-ad1113c952fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Templates Property (Word)
+# Application.Templates property (Word)
 
 Returns a  **[Templates](Word.templates.md)** collection that represents all the available templates—global templates and those attached to open documents.
 
 
 ## Syntax
 
- _expression_. `Templates`
+_expression_. `Templates`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -60,3 +61,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

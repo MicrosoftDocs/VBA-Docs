@@ -1,5 +1,5 @@
 ---
-title: Page Object (Visio)
+title: Page object (Visio)
 keywords: vis_sdr.chm10190
 f1_keywords:
 - vis_sdr.chm10190
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page
 ms.assetid: 7a7f37ab-b448-eb70-b4f1-c185dfbd511e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page Object (Visio)
+# Page object (Visio)
 
 Represents a drawing page, which can be either a foreground page or a background page.
 
@@ -29,7 +30,7 @@ The members of a  **Document** object's **Pages** collection represent the pages
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterReplaceShapes](./Visio.page.afterreplaceshapes.md)|
 |[BeforePageDelete](./Visio.Page.BeforePageDelete.md)|
@@ -72,7 +73,7 @@ The members of a  **Document** object's **Pages** collection represent the pages
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddGuide](./Visio.Page.AddGuide.md)|
 |[AutoConnectMany](./Visio.Page.AutoConnectMany.md)|
@@ -140,7 +141,7 @@ The members of a  **Document** object's **Pages** collection represent the pages
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Page.Application.md)|
 |[AutoSize](./Visio.page.autosize.md)|
@@ -172,3 +173,4 @@ The members of a  **Document** object's **Pages** collection represent the pages
 |[ThemeEffects](./Visio.Page.ThemeEffects.md)|
 |[Type](./Visio.Page.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

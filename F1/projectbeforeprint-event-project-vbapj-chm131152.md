@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2529ddae-dc91-482e-a5f5-e345dcf2fa92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeClearBaseline Event (Project)](http://msdn.microsoft.com/library/4aa11658-7962-a46f-c914-5ed3bebd15a3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

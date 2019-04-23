@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 623f91af-cd50-1ff0-9519-5a39cbcf5d18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -80,4 +81,4 @@ Sub CreateAnotherNewDefaultOutlookTask()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

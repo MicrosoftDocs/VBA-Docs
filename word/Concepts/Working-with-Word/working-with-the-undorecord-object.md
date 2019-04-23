@@ -3,6 +3,7 @@ title: Working with the UndoRecord Object
 ms.prod: word
 ms.assetid: e9df1047-5a1a-91da-3673-7e64b668552d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -143,5 +144,5 @@ End Sub
 When this code is run, Word terminates the custom undo record when the code begins to write to the second document. When the procedure is finished, only the first document will have a custom undo record with the name "New Paragraph."
     
 - Avoid using Breaks when running code that contains custom undo records in Debug mode. When code that contains undo records is run in Debug mode in the Visual Basic editor and the code encounters a breakpoint, Word automatically ends all custom records that are currently in progress.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.WordWrap Property (Word)
+title: TextFrame.WordWrap property (Word)
 keywords: vbawd10.chm162665362
 f1_keywords:
 - vbawd10.chm162665362
@@ -8,19 +8,20 @@ api_name:
 - Word.TextFrame.WordWrap
 ms.assetid: 70bef68b-3c37-9b4e-4cfe-ed0832a7934c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.WordWrap Property (Word)
+# TextFrame.WordWrap property (Word)
 
- **True** if Microsoft Word wraps Latin text in the middle of a word in the specified text frames. Read/write **Long** . .
+ **True** if Microsoft Word wraps Latin text in the middle of a word in the specified text frames. Read/write **Long**. .
 
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
- _expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ This property returns  **wdUndefined** if it's set to **True** for some of the s
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

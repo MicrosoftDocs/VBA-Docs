@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.PaperBin
 ms.assetid: d3e33714-0aa5-aa9e-2b66-86afca3b38ee
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.PaperBin property (Access)
 
-Returns or sets an  **[AcPrintPaperBin](Access.AcPrintPaperBin.md)** constant indicating which paper bin the specified printer should use. Read/write.
+Returns or sets an **[AcPrintPaperBin](Access.AcPrintPaperBin.md)** constant indicating which paper bin the specified printer should use. Read/write.
 
 
 ## Syntax
 
-_expression_. `PaperBin`
+_expression_.**PaperBin**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -69,8 +69,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

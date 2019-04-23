@@ -3,6 +3,7 @@ title: Align Controls
 ms.prod: outlook
 ms.assetid: ceb1004d-afd8-9f16-dc43-a18e94de57cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -10,7 +11,7 @@ ms.date: 06/08/2017
 
 1. Select the controls that you want to align to part of the dominant control. For more information, see  [Selecting Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md).
     
-2. On the  **Developer** tab, in the ** Arrange** group, click ** Align**, and then choose one of the following:
+2. On the  **Developer** tab, in the **Arrange** group, click **Align**, and then choose one of the following:
     
 
 |**Click**|**To**|
@@ -27,3 +28,4 @@ ms.date: 06/08/2017
 | **Align to Grid**|Align the center of the controls with the center of each grid. Note that this option is not based on the position of the dominant control.|
 | **Center in Form**|Align the controls with the center of the form.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

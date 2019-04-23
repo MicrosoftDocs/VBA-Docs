@@ -8,19 +8,20 @@ api_name:
 - Excel.Series.BubbleSizes
 ms.assetid: 41e56271-ec4c-7f9e-9642-174c8435e7d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Series.BubbleSizes property (Excel)
 
-Returns or sets a string that refers to the worksheet cells containing the x-value, y-value and size data for the bubble chart. When you return the cell reference, it will return a string describing the cells in A1-style notation. To set the size data for the bubble chart, you must use R1C1-style notation. Applies only to bubble charts. Read/write  **Variant** .
+Returns or sets a string that refers to the worksheet cells containing the x-value, y-value and size data for the bubble chart. When you return the cell reference, it will return a string describing the cells in A1-style notation. To set the size data for the bubble chart, you must use R1C1-style notation. Applies only to bubble charts. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BubbleSizes`
+_expression_. `BubbleSizes`
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Example
@@ -49,3 +50,4 @@ Worksheets(1).ChartObjects(1).Chart _
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

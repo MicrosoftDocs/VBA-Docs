@@ -1,5 +1,5 @@
 ---
-title: Shape.SpatialNeighbors Property (Visio)
+title: Shape.SpatialNeighbors property (Visio)
 keywords: vis_sdr.chm11214395
 f1_keywords:
 - vis_sdr.chm11214395
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.SpatialNeighbors
 ms.assetid: 98069519-d788-c34f-ac25-64bda73324d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SpatialNeighbors Property (Visio)
+# Shape.SpatialNeighbors property (Visio)
 
 Returns a  **Selection** object that represents the shapes that meet certain criteria in relation to a specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `SpatialNeighbors`( `_Relation_` , `_Tolerance_` , `_Flags_` , `_ResultRoot_` )
+_expression_. `SpatialNeighbors`( `_Relation_` , `_Tolerance_` , `_Flags_` , `_ResultRoot_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -61,11 +62,11 @@ Use the NoShow cell to determine whether a Geometry section is hidden or visible
 
 If  _Relation_ is not specified, the **SpatialNeighbors** property uses all the possible relationships as criteria.
 
-Beginning with Visio 2002, if  _Flags_ contains **VisSpatialFrontToBack** , items in the **Selection** object returned by the **SpatialNeighbors** property are ordered front to back. If **visSpatialBackToFront** is set, the items returned are ordered back to front. If this flag is not set, or if you are running an earlier version of Visio, the order is unpredictable. You can determine the order by using the **Index** property of the shapes identified in the **Selection** object.
+Beginning with Visio 2002, if  _Flags_ contains **VisSpatialFrontToBack**, items in the **Selection** object returned by the **SpatialNeighbors** property are ordered front to back. If **visSpatialBackToFront** is set, the items returned are ordered back to front. If this flag is not set, or if you are running an earlier version of Visio, the order is unpredictable. You can determine the order by using the **Index** property of the shapes identified in the **Selection** object.
 
 If you don't specify  _ResultRoot_, this property returns a  **Selection** object that represents the shapes that meet certain criteria in relation to the specified shape. If you specify _ResultRoot_, this property returns a  **Selection** object that represents all the shapes in the **Shape** object specified by _ResultRoot_ that meet certain criteria in relation to the specified shape. For example, specify _ResultRoot_ to find all shapes within a group that are near a specified shape.
 
-If  _ResultRoot_ is specified but isn't on the same page or in the same master as the **Shape** object to which you are comparing it, the **SpatialNeighbors** property raises an exception and returns **Nothing** .
+If  _ResultRoot_ is specified but isn't on the same page or in the same master as the **Shape** object to which you are comparing it, the **SpatialNeighbors** property raises an exception and returns **Nothing**.
 
 When it compares two shapes, the  **SpatialNeighbors** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points.
 
@@ -132,4 +133,4 @@ Public Sub Document_ShapeAdded(ByVal Shape As IVShape)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

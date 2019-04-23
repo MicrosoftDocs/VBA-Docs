@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings Object (Visio)
+title: ApplicationSettings object (Visio)
 keywords: vis_sdr.chm60000
 f1_keywords:
 - vis_sdr.chm60000
@@ -8,10 +8,11 @@ api_name:
 - Visio.ApplicationSettings
 ms.assetid: f2e24211-ecc6-e0f5-4c00-fc50f98a3505
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings Object (Visio)
+# ApplicationSettings object (Visio)
 
 Represents various application settings for Microsoft Visio.
 
@@ -22,4 +23,4 @@ Use the  **Settings** property of the **Application** object to get an **Applica
 
 The  **ApplicationSettings** object has no default property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

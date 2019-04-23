@@ -1,5 +1,5 @@
 ---
-title: Range.ClearFormats Method (Excel)
+title: Range.ClearFormats method (Excel)
 keywords: vbaxl10.chm144096
 f1_keywords:
 - vbaxl10.chm144096
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.ClearFormats
 ms.assetid: 37777379-857a-f4c7-86aa-b109d5f25757
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ClearFormats Method (Excel)
+# Range.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 
 
 ## Syntax
 
- _expression_. `ClearFormats`
+_expression_. `ClearFormats`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

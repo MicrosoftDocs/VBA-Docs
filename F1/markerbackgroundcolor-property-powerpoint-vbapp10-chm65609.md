@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 78e39cd9-582c-4ac0-96ed-c71b533217c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LegendKey.MarkerBackgroundColor Property (PowerPoint)](http://msdn.microsoft.com/library/46553e06-6468-1b6c-03ae-6930c0700565%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Word.ApplyDocumentTheme
 ms.assetid: fd376134-f6d4-b6da-8eae-671e7e3b05e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Applies a document theme to a document.
 
 ## Syntax
 
- _expression_. `ApplyDocumentTheme`( `_FileName_` )
+_expression_. `ApplyDocumentTheme`( `_FileName_` )
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -42,4 +43,4 @@ ActiveDocument.ApplyDocumentTheme _
  "Document Themes 12\Verve.thmx"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

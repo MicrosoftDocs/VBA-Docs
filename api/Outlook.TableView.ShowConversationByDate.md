@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowConversationByDate Property (Outlook)
+title: TableView.ShowConversationByDate property (Outlook)
 keywords: vbaol11.chm3515
 f1_keywords:
 - vbaol11.chm3515
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.ShowConversationByDate
 ms.assetid: b568d714-93ce-e4a4-c84c-b0870dd565dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.ShowConversationByDate Property (Outlook)
+# TableView.ShowConversationByDate property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether items in a conversation are organized vertically left-aligned and ordered by the received date and time, with the most recent item on top. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowConversationByDate`
+_expression_. `ShowConversationByDate`
 
- _expression_ A variable that represents a '[TableView](Outlook.TableView.md)' object.
+_expression_ A variable that represents a '[TableView](Outlook.TableView.md)' object.
 
 
 ## Remarks
@@ -69,3 +70,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

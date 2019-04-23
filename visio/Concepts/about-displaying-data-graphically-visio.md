@@ -3,6 +3,7 @@ title: About Displaying Data Graphically (Visio)
 ms.prod: visio
 ms.assetid: 48acb79c-44b8-c63b-f7fb-409b5aa9b0cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -175,4 +176,4 @@ For intCounter = 1 To (vsoMaster_Old.GraphicItems.Count)
 
 To see a code sample that shows how to customize data graphics programmatically, download the Visio SDK and refer to the Code Samples Library.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

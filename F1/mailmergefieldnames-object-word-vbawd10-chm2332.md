@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 822d9b4f-d26f-4eb2-bcfd-784d423ca3e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,8 +14,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[MailMergeFieldNames Object (Word)](http://msdn.microsoft.com/library/5a3752da-63b2-f0f9-7456-01a31bac5f62%28Office.15%29.aspx)
+[MailMergeFieldNames object (Word)](http://msdn.microsoft.com/library/5a3752da-63b2-f0f9-7456-01a31bac5f62%28Office.15%29.aspx)
 
-[MailMergeFieldNames Object (Word)70233e3d-6960-486a-6715-069d5c939373](http://msdn.microsoft.com/library/70233e3d-6960-486a-6715-069d5c939373%28Office.15%29.aspx)
+[MailMergeFieldNames object (Word)70233e3d-6960-486a-6715-069d5c939373](http://msdn.microsoft.com/library/70233e3d-6960-486a-6715-069d5c939373%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

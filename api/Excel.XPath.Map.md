@@ -8,6 +8,7 @@ api_name:
 - Excel.XPath.Map
 ms.assetid: 4750694e-24b3-4a4b-3e43-d5838821d459
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[XmlMap](Excel.XmlMap.md)** object that represents the schema map 
 
 ## Syntax
 
- _expression_. `Map`
+_expression_. `Map`
 
- _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns an  **[XmlMap](Excel.XmlMap.md)** object that represents the schema map 
 
 [XPath Object](Excel.XPath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

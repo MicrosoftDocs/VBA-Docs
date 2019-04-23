@@ -1,5 +1,5 @@
 ---
-title: Comment.AuthorIndex Property (PowerPoint)
+title: Comment.AuthorIndex property (PowerPoint)
 keywords: vbapp10.chm642007
 f1_keywords:
 - vbapp10.chm642007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Comment.AuthorIndex
 ms.assetid: a004167b-a564-651e-1769-9e1a8947e385
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comment.AuthorIndex Property (PowerPoint)
+# Comment.AuthorIndex property (PowerPoint)
 
 Returns a  **Long** representing the index number of a comment for a given author. The first comment for a given author has an index number of 1, their second comment has an index number of 2. Read-only.
 
 
 ## Syntax
 
- _expression_. `AuthorIndex`
+_expression_. `AuthorIndex`
 
- _expression_ A variable that represents an [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents an [Comment](./PowerPoint.Comment.md) object.
 
 
 ## Return value
@@ -62,3 +63,4 @@ End Sub
 
 [Comment Object](PowerPoint.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

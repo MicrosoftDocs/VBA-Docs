@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (Publisher)
+title: ShadowFormat object (Publisher)
 keywords: vbapb10.chm3735551
 f1_keywords:
 - vbapb10.chm3735551
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ShadowFormat
 ms.assetid: b23ab92e-5e49-8d8d-69d5-93d391a9edb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat Object (Publisher)
+# ShadowFormat object (Publisher)
 
 Represents shadow formatting for a shape.
  
@@ -43,7 +44,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementOffsetX](Publisher.ShadowFormat.IncrementOffsetX.md)|
 |[IncrementOffsetY](Publisher.ShadowFormat.IncrementOffsetY.md)|
@@ -52,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ShadowFormat.Application.md)|
 |[Blur](Publisher.shadowformat.blur.md)|
@@ -66,3 +67,4 @@ End Sub
 |[Type](Publisher.ShadowFormat.Type.md)|
 |[Visible](Publisher.ShadowFormat.Visible.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

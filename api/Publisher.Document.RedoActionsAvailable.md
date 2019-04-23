@@ -1,5 +1,5 @@
 ---
-title: Document.RedoActionsAvailable Property (Publisher)
+title: Document.RedoActionsAvailable property (Publisher)
 keywords: vbapb10.chm196727
 f1_keywords:
 - vbapb10.chm196727
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.RedoActionsAvailable
 ms.assetid: 9af11772-e807-730a-89a0-da06e979f834
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RedoActionsAvailable Property (Publisher)
+# Document.RedoActionsAvailable property (Publisher)
 
 Returns the number of actions available on the redo stack. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. **RedoActionsAvailable**
+_expression_.**RedoActionsAvailable**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -74,4 +75,4 @@ With theDoc
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

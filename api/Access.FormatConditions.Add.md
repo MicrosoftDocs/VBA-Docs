@@ -7,30 +7,29 @@ ms.prod: access
 api_name:
 - Access.FormatConditions.Add
 ms.assetid: 6066d3ee-7e47-b090-ea64-ccf95e4ecc89
-ms.date: 06/08/2017
+ms.date: 03/20/2019
+localization_priority: Normal
 ---
 
 
 # FormatConditions.Add method (Access)
 
-You can use the  **Add** method to add a conditional format as a **[FormatCondition](Access.FormatCondition.md)** object to the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
+You can use the **Add** method to add a conditional format as a **[FormatCondition](Access.FormatCondition.md)** object to the **FormatConditions** collection of a combo box or text box control.
 
 
 ## Syntax
 
-_expression_. `Add`( ` _Type_`, ` _Operator_`, ` _Expression1_`, ` _Expression2_` )
+_expression_.**Add** (_Type_, _Operator_, _Expression1_, _Expression2_)
 
-_expression_ A variable that represents a [FormatConditions](Access.FormatConditions.md) object.
+_expression_ A variable that represents a **[FormatConditions](Access.FormatConditions.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**AcFormatConditionType**|An  **[AcFormatConditionType](Access.AcFormatConditionType.md)** constant that specifies the type of format condition to be added.|
-| _Operator_|Optional|**AcFormatConditionOperator**|An  **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)** constant that specified the operator. If the _Type_ argument is **acExpression**, the _Operator_ argument is ignored. If you leave this argument blank, the default constant (**acBetween**) is assumed.|
+| _Type_|Required|**[AcFormatConditionType](Access.AcFormatConditionType.md)**|An **AcFormatConditionType** constant that specifies the type of format condition to be added.|
+| _Operator_|Optional|**[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)**|An **AcFormatConditionOperator** constant that specifies the operator. If the _Type_ argument is **acExpression**, the _Operator_ argument is ignored. If you leave this argument blank, the default constant (**acBetween**) is assumed.|
 | _Expression1_|Optional|**Variant**|A value or expression associated with the first part of the conditional format. Can be a constant or a string value.|
 | _Expression2_|Optional|**Variant**|A value or expression associated with the second part of the conditional format when the  _Operator_ argument is **acBetween** or **acNotBetween** (otherwise, this argument is ignored). Can be a constant or a string value.|
 
@@ -41,11 +40,8 @@ FormatCondition
 
 ## Remarks
 
-You can use the  **Delete** method of the **FormatConditions** collection to delete an existing **FormatConditions** collection from a combo box or text box control.
+You can use the **Delete** method of the **FormatConditions** collection to delete an existing **FormatConditions** collection from a combo box or text box control.
 
 
-## See also
 
-
-[FormatConditions Collection](Access.FormatConditions.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

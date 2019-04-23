@@ -1,5 +1,5 @@
 ---
-title: Shape.InsertObject Method (Visio)
+title: Shape.InsertObject method (Visio)
 keywords: vis_sdr.chm11216370
 f1_keywords:
 - vis_sdr.chm11216370
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.InsertObject
 ms.assetid: 7abc6e96-6822-7237-b695-36f297a076fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.InsertObject Method (Visio)
+# Shape.InsertObject method (Visio)
 
 Adds a new embedded object or ActiveX control to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
+_expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -56,7 +57,7 @@ The  _Flags_ argument is a bitmask that can include one of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visInsertIcon**|&H10|Displays the new shape as an icon.|
 | **visInsertDontShow**|&H1000|Does not execute the new object's show verb.|
@@ -82,4 +83,4 @@ In rare cases, Visio 5.0 or later versions may insert a control whereas earlier 
 > [!CAUTION] 
 > Modifying the registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

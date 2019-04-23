@@ -1,5 +1,5 @@
 ---
-title: Slides.Item Method (PowerPoint)
+title: Slides.Item method (PowerPoint)
 keywords: vbapp10.chm530003
 f1_keywords:
 - vbapp10.chm530003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slides.Item
 ms.assetid: db4c884a-d4ca-21a4-1f17-a2a06c9861a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slides.Item Method (PowerPoint)
+# Slides.Item method (PowerPoint)
 
 Returns a single  **Slide** object from the specified **Slides** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
@@ -41,3 +42,4 @@ Slide
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

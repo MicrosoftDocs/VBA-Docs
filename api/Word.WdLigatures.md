@@ -1,14 +1,15 @@
 ---
-title: WdLigatures Enumeration (Word)
+title: WdLigatures enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLigatures
 ms.assetid: 7441f3c4-a5cc-7ec4-cc57-2b1b0e05eb35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdLigatures Enumeration (Word)
+# WdLigatures enumeration (Word)
 
 Specifies the type of ligatures applied to a font. 
 
@@ -35,9 +36,9 @@ Specifies the type of ligatures applied to a font.
 
 ## Remarks
 
-A glyph is a visual representation of a character. Ligatures are two or more glyphs that are represented by what appears to the reader as a single character in order to create more readable or attractive text. Use the [Font.Ligatures Property (Word)](Word.Font.Ligatures.md) property to specify the ligatures to apply to a font in Word.
+A glyph is a visual representation of a character. Ligatures are two or more glyphs that are represented by what appears to the reader as a single character in order to create more readable or attractive text. Use the [Font.Ligatures property (Word)](Word.Font.Ligatures.md) property to specify the ligatures to apply to a font in Word.
 
 
  **Note**  The order of preference when a combination of ligature types are applied differs by font and is not controlled by the Word application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

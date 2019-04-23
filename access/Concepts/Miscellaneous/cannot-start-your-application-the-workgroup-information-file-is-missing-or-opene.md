@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 213c8493-3578-9e2e-e8b7-384132af9d19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ To ensure referential integrity in databases created by the Microsoft Access dat
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

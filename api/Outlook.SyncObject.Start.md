@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Start Method (Outlook)
+title: SyncObject.Start method (Outlook)
 keywords: vbaol11.chm108
 f1_keywords:
 - vbaol11.chm108
@@ -8,17 +8,18 @@ api_name:
 - Outlook.SyncObject.Start
 ms.assetid: 3e826228-b8a4-42df-1757-3248acd26a2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject.Start Method (Outlook)
+# SyncObject.Start method (Outlook)
 
 Begins synchronizing a user's folders using the specified  **Send\Receive** group.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ An expression that returns a '[SyncObject](Outlook.SyncObject.md)' object.
 
@@ -54,3 +55,4 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Creating Custom Forms by Using Visual Basic Scripting Edition
 ms.prod: outlook
 ms.assetid: b3e31db1-299f-ddbc-4bb1-fdf4c9ea8313
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,3 +18,4 @@ You can choose the Outlook item on which to base your custom form. For more info
 You can extend Outlook forms by using custom controls from the  [Control Toolbox](control-toolbox-overview.md). Outlook forms can use most of the properties and methods that come with the controls. Since controls cannot store values, you must bind the control to an Outlook field to store the value. For more information, see  [Binding](../Forms/binding-a-control-to-a-field.md).
 The Outlook object browser displays the classes, properties, methods, events, and  [constants](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/constants-and-variables-in-vbscript.md)that are available from the Outlook object library. Open the object browser to view and use objects, and to obtain information about the syntax for using the object. For more information, see  [Viewing and Using the Object Browser](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/use-the-outlook-object-browser-in-the-script-editor.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.DetailsPaneToggle Method (Project)
+title: Application.DetailsPaneToggle method (Project)
 keywords: vbapj.chm85
 f1_keywords:
 - vbapj.chm85
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DetailsPaneToggle
 ms.assetid: f62a42b2-397f-45c0-f2c1-f0468b8d489b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DetailsPaneToggle Method (Project)
+# Application.DetailsPaneToggle method (Project)
 
 Shows or hides the task or resource  **Details** pane for the selected item.
 
 
 ## Syntax
 
- _expression_. `DetailsPaneToggle`( ` _Timeline_` )
+_expression_. `DetailsPaneToggle`( `_Timeline_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ If the current view is a Calendar view where one task is selected, the following
 DetailsPaneToggleDetailsPaneToggle Timeline:=True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.HorizontalAlignment Property (Publisher)
+title: WebNavigationBarSet.HorizontalAlignment property (Publisher)
 keywords: vbapb10.chm8519688
 f1_keywords:
 - vbapb10.chm8519688
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.HorizontalAlignment
 ms.assetid: 7d615a5a-793c-fd78-3dca-a268740b67aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.HorizontalAlignment Property (Publisher)
+# WebNavigationBarSet.HorizontalAlignment property (Publisher)
 
 Sets or returns a  **PbWizardNavBarAlignment** constant that represents the horizontal alignment of the buttons in a Web navigation bar set. Read/write.
 
 
 ## Syntax
 
- _expression_. **HorizontalAlignment**
+_expression_.**HorizontalAlignment**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -52,4 +53,4 @@ With ActiveDocument.WebNavigationBarSets(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

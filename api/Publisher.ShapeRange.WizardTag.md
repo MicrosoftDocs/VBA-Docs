@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.WizardTag Property (Publisher)
+title: ShapeRange.WizardTag property (Publisher)
 keywords: vbapb10.chm2293860
 f1_keywords:
 - vbapb10.chm2293860
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.WizardTag
 ms.assetid: 49bdeff9-fec4-2b40-1650-cd78c9bce0d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.WizardTag Property (Publisher)
+# ShapeRange.WizardTag property (Publisher)
 
 Returns or sets a  **PbWizardTag**constant indicating the function of a specified shape with respect to its publication design. Read/write.
 
 
 ## Syntax
 
- _expression_. **WizardTag**
+_expression_.**WizardTag**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -48,4 +49,4 @@ For Each shpLoop In ActiveDocument.Pages(1).Shapes
 Next shpLoop
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

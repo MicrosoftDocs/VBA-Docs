@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineShowHide Method (Project)
+title: Application.TimelineShowHide method (Project)
 keywords: vbapj.chm62
 f1_keywords:
 - vbapj.chm62
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TimelineShowHide
 ms.assetid: 237052c0-445b-db78-9a74-10e8742a493d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TimelineShowHide Method (Project)
+# Application.TimelineShowHide method (Project)
 
 Shows or hides the specified feature in the Timeline view.
 
 
 ## Syntax
 
- _expression_. `TimelineShowHide`( ` _Item_`, ` _Show_` )
+_expression_. `TimelineShowHide`( `_Item_`, `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -51,4 +52,4 @@ The following statement hides the time scale on the timeline.
 Application.TimelineShowHide Item:=pjTimelineShowHideTimescale, Show:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.FontNames Property (Word)
+title: Application.FontNames property (Word)
 keywords: vbawd10.chm158334987
 f1_keywords:
 - vbawd10.chm158334987
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.FontNames
 ms.assetid: 6aeadf51-79c7-1123-ea64-582ceee26443
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FontNames Property (Word)
+# Application.FontNames property (Word)
 
 Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available fonts. Read-only.
 
 
 ## Syntax
 
- _expression_. `FontNames`
+_expression_. `FontNames`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -44,3 +45,4 @@ Next strFont
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

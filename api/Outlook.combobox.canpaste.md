@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 36b1909a-fe23-77f9-4072-0264a6be02c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a  **Boolean** that specifies whether the Clipboard contains data that t
 
 ## Syntax
 
- _expression_. **CanPaste**
+_expression_.**CanPaste**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ Returns a  **Boolean** that specifies whether the Clipboard contains data that t
 
 If the Clipboard data is in a format that the object does not support, the  **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text,  **CanPaste** will be **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

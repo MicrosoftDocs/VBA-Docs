@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.UndoLevels Property (Visio)
+title: ApplicationSettings.UndoLevels property (Visio)
 keywords: vis_sdr.chm16251490
 f1_keywords:
 - vis_sdr.chm16251490
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.UndoLevels
 ms.assetid: 5d4ad370-254d-3b99-21d9-2cbdf60842a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.UndoLevels Property (Visio)
+# ApplicationSettings.UndoLevels property (Visio)
 
 Determines the number of consecutive actions the user can undo in Microsoft Visio. Read/write.
 
 
 ## Syntax
 
- _expression_. `UndoLevels`
+_expression_. `UndoLevels`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -34,7 +35,7 @@ Setting the  **UndoLevels** property is equivalent to setting the **Undo levels*
 
 The minimum possible value for  **UndoLevels** is 0 (zero); the maximum is 99. The default value is 20.
 
-The higher the value of  **UndoLevels** , the more memory is required to store the actions.
+The higher the value of  **UndoLevels**, the more memory is required to store the actions.
 
 
 ## Example
@@ -56,4 +57,4 @@ Public Sub UndoLevels_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

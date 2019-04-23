@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 6305af2d-d26c-024f-945a-8eaa773bab85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -55,3 +56,4 @@ While the  **MultiPage** control itself does not support the **Click** event, an
 To detect a change in a  **TextBox** control, bind the control to a field and then handle the appropriate field event.
 If you have to further extend controls in a custom form, customize a form with Outlook controls in a form region instead of Forms 2.0 controls in a form page. For more information, see  [Controls in a Custom Form](../../Concepts/Forms/controls-in-a-custom-form.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

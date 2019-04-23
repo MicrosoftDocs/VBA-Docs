@@ -1,5 +1,5 @@
 ---
-title: Story.Type Property (Publisher)
+title: Story.Type property (Publisher)
 keywords: vbapb10.chm5832711
 f1_keywords:
 - vbapb10.chm5832711
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Story.Type
 ms.assetid: 71e6548d-f54a-b4df-d878-d86a85c1332b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Story.Type Property (Publisher)
+# Story.Type property (Publisher)
 
 Specifies the type of story. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **Story** object.
 
@@ -34,3 +35,4 @@ The  **Type** property value can be one of these **PbStoryType** constants
 | **pbStoryTable**|
 | **pbStoryTextFrame**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

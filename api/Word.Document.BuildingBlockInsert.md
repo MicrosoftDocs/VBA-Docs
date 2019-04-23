@@ -1,5 +1,5 @@
 ---
-title: Document.BuildingBlockInsert Event (Word)
+title: Document.BuildingBlockInsert event (Word)
 keywords: vbawd10.chm4001016
 f1_keywords:
 - vbawd10.chm4001016
@@ -8,17 +8,18 @@ api_name:
 - Word.Document.BuildingBlockInsert
 ms.assetid: 6c4b1f1f-da22-63b9-a3d9-21d7bedb4b5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.BuildingBlockInsert Event (Word)
+# Document.BuildingBlockInsert event (Word)
 
 Occurs when you insert a building block into a document. .
 
 
 ## Syntax
 
-Private Sub  _expression_ _'BuildingBlockInsert'(**_Range_** , **_Name_** , **_Category_** , **_Type_** , **_Template_**)
+Private Sub  _expression_ _'BuildingBlockInsert'(**_Range_**, **_Name_**, **_Category_**, **_Type_**, **_Template_**)
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
@@ -45,3 +46,4 @@ For information about using events with a  **Document** object, see [Using Event
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

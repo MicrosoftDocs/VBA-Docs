@@ -1,5 +1,5 @@
 ---
-title: Project.ShowTaskWarnings Property (Project)
+title: Project.ShowTaskWarnings property (Project)
 keywords: vbapj.chm131123
 f1_keywords:
 - vbapj.chm131123
@@ -8,18 +8,19 @@ api_name:
 - Project.Project.ShowTaskWarnings
 ms.assetid: 36b74b7e-4d81-e01f-d011-9325bef6bc43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.ShowTaskWarnings Property (Project)
+# Project.ShowTaskWarnings property (Project)
 
  **True** if task warnings in the active project are displayed; otherwise, **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowTaskWarnings`
+_expression_. `ShowTaskWarnings`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

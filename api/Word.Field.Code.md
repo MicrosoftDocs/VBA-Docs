@@ -1,5 +1,5 @@
 ---
-title: Field.Code Property (Word)
+title: Field.Code property (Word)
 keywords: vbawd10.chm154075136
 f1_keywords:
 - vbawd10.chm154075136
@@ -8,17 +8,18 @@ api_name:
 - Word.Field.Code
 ms.assetid: 4273619f-184c-a964-6c0d-14fec927ec01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Code Property (Word)
+# Field.Code property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents a field's code. Read/write.
 
 
 ## Syntax
 
- _expression_. `Code`
+_expression_. `Code`
 
  _expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
@@ -75,3 +76,4 @@ Next fieldLoop
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

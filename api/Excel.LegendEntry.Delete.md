@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Delete Method (Excel)
+title: LegendEntry.Delete method (Excel)
 keywords: vbaxl10.chm586074
 f1_keywords:
 - vbaxl10.chm586074
@@ -8,19 +8,20 @@ api_name:
 - Excel.LegendEntry.Delete
 ms.assetid: 1967ac14-e375-9308-bd53-fbfd1e71ac69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendEntry.Delete Method (Excel)
+# LegendEntry.Delete method (Excel)
 
 Deletes the object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
+_expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [LegendEntry Object](Excel.LegendEntry(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

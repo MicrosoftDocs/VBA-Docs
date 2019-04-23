@@ -1,21 +1,22 @@
 ---
-title: Assignments.Add Method (Project)
+title: Assignments.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignments.Add
 ms.assetid: c135a80e-1fb9-32e3-864e-f701c1947ca4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignments.Add Method (Project)
+# Assignments.Add method (Project)
 
 Adds an  **Assignment** object to an **Assignments** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _TaskID_`, ` _ResourceID_`, ` _Units_` )
+_expression_.**Add**( `_TaskID_`, `_ResourceID_`, `_Units_` )
 
  _expression_ A variable that represents an 'Assignments' object.
 
@@ -39,3 +40,5 @@ Adds an  **Assignment** object to an **Assignments** collection.
 
 
 [Assignments Collection Object](Project.assignments.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

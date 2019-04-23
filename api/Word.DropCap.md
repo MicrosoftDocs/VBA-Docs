@@ -1,5 +1,5 @@
 ---
-title: DropCap Object (Word)
+title: DropCap object (Word)
 keywords: vbawd10.chm2390
 f1_keywords:
 - vbawd10.chm2390
@@ -8,10 +8,11 @@ api_name:
 - Word.DropCap
 ms.assetid: 79daea90-657b-43db-34e3-08f7aed74591
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap Object (Word)
+# DropCap object (Word)
 
 Represents a dropped capital letter at the beginning of a paragraph. There is no  **DropCaps** collection; each **[Paragraph](Word.Paragraph.md)** object contains only one **DropCap** object.
 
@@ -33,5 +34,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

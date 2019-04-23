@@ -1,44 +1,40 @@
 ---
-title: Model.CreateModelWorkbookConnection Method (Excel)
+title: Model.CreateModelWorkbookConnection method (Excel)
 ms.prod: excel
 ms.assetid: cd8c35e6-91ee-5d46-cc98-199b8916ecdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Model.CreateModelWorkbookConnection Method (Excel)
+# Model.CreateModelWorkbookConnection method (Excel)
 
-Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object of type[ModelConnection Object (Excel)](Excel.modelconnection.md). 
+Returns a **[WorkbookConnection](Excel.WorkbookConnection.md)** object of type **[ModelConnection](Excel.modelconnection.md)**. 
 
 
 ## Syntax
 
- _expression_. `CreateModelWorkbookConnection`_(ModelTable)_
+_expression_.**CreateModelWorkbookConnection** (_ModelTable_)
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents an object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ModelTable_|Required|VARIANT|Either a model table name or a model table object.|
+| _ModelTable_|Required|**Variant**|Either a model table name or a model table object.|
 
 ## Return value
 
- **WORKBOOKCONNECTION**
+**WORKBOOKCONNECTION**
 
 
 ## Remarks
 
-This type of connection can only be used by query tables in Excel
+This type of connection can only be used by query tables in Excel.
 
 
-## See also
 
 
-[Model Object Members](overview/Excel.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

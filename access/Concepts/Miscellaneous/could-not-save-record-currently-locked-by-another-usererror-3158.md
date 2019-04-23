@@ -3,6 +3,7 @@ title: Could not save record; currently locked by another user. (Error 3158)
 ms.prod: access
 ms.assetid: faa4f94f-b072-1920-569d-421f25f71a4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to save a record that is on a database page currently locked by anothe
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

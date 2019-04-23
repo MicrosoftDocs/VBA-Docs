@@ -1,14 +1,15 @@
 ---
-title: Application.BeforeDocumentClose Event (Visio)
+title: Application.BeforeDocumentClose event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeDocumentClose
 ms.assetid: c0d7815e-25bb-7b7e-f80b-81472edc47ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BeforeDocumentClose Event (Visio)
+# Application.BeforeDocumentClose event (Visio)
 
 Occurs before a document is closed.
 
@@ -30,7 +31,7 @@ Private Sub  _expression_ _'BeforeDocumentClose'(**_ByVal doc As [IVDOCUMENT]_**
 
 ## Remarks
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
@@ -40,5 +41,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.EApplication_BeforeDocumentCloseEventHandler** (the **BeforeDocumentClose** delegate.)
     
 -  **Microsoft.Office.Interop.Visio.EApplication_Event.BeforeDocumentClose**(the  **BeforeDocumentClose** event.)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

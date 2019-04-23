@@ -1,5 +1,5 @@
 ---
-title: Application.Tasks Property (Word)
+title: Application.Tasks property (Word)
 keywords: vbawd10.chm158335004
 f1_keywords:
 - vbawd10.chm158335004
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Tasks
 ms.assetid: e78150fd-8c79-948b-7a46-5e560194aa48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Tasks Property (Word)
+# Application.Tasks property (Word)
 
 Returns a  **[Tasks](Word.tasks.md)** collection that represents all the applications that are running.
 
 
 ## Syntax
 
- _expression_. `Tasks`
+_expression_. `Tasks`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -67,3 +68,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevels Object (PowerPoint)
+title: TextStyleLevels object (PowerPoint)
 keywords: vbapp10.chm580000
 f1_keywords:
 - vbapp10.chm580000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TextStyleLevels
 ms.assetid: dc61e97f-e92e-d214-47af-5830c14b1b09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyleLevels Object (PowerPoint)
+# TextStyleLevels object (PowerPoint)
 
 A collection of all the outline text levels. This collection always contains five members, each of which is represented by a  **[TextStyleLevel](PowerPoint.TextStyleLevel.md)** object.
 
@@ -58,3 +59,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CommandEffect.Application Property (PowerPoint)
+title: CommandEffect.Application property (PowerPoint)
 keywords: vbapp10.chm668001
 f1_keywords:
 - vbapp10.chm668001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CommandEffect.Application
 ms.assetid: c3b54f4d-5761-9606-b675-9258d5f0faee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CommandEffect.Application Property (PowerPoint)
+# CommandEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
+_expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

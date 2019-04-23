@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Height
 ms.assetid: 00eb1b27-7a0c-4edb-dc66-dc80d62ea60c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the height of the specified slicer, in points. Read/write.
 
 ## Syntax
 
- _expression_. `Height`
+_expression_.**Height**
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Double
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

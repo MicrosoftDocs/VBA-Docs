@@ -1,5 +1,5 @@
 ---
-title: LineFormat Object (Word)
+title: LineFormat object (Word)
 keywords: vbawd10.chm2506
 f1_keywords:
 - vbawd10.chm2506
@@ -8,10 +8,11 @@ api_name:
 - Word.LineFormat
 ms.assetid: 28fabccb-d03f-3466-9d07-ea3ebc4cdd11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat Object (Word)
+# LineFormat object (Word)
 
 Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
 
@@ -39,5 +40,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

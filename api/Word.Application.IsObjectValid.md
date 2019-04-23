@@ -1,5 +1,5 @@
 ---
-title: Application.IsObjectValid Property (Word)
+title: Application.IsObjectValid property (Word)
 keywords: vbawd10.chm158335085
 f1_keywords:
 - vbawd10.chm158335085
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.IsObjectValid
 ms.assetid: 94cb08e4-2a4f-5ebf-25b8-6492e35f5695
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.IsObjectValid Property (Word)
+# Application.IsObjectValid property (Word)
 
- **True** if the specified variable that references an object is valid. Read-only **Boolean** .
+ **True** if the specified variable that references an object is valid. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsObjectValid`( `_Object_` )
+_expression_. `IsObjectValid`( `_Object_` )
 
  _expression_ Optional. A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -50,3 +51,4 @@ If IsObjectValid(aTable) = True Then _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

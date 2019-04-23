@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 660967ca-abdf-4e64-9bf9-6eafd9b26939
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CustomXMLPrefixMapping.NamespaceURI Property (Office)](http://msdn.microsoft.com/library/f7f26169-3f29-2706-9a29-7e79ad123b53%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

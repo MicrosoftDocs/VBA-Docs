@@ -1,5 +1,5 @@
 ---
-title: Slides Object (PowerPoint)
+title: Slides object (PowerPoint)
 keywords: vbapp10.chm530000
 f1_keywords:
 - vbapp10.chm530000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Slides
 ms.assetid: ba7f514c-8f6d-d5ef-333f-c1da0f2ab767
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slides Object (PowerPoint)
+# Slides object (PowerPoint)
 
 A collection of all the  **[Slide](PowerPoint.Slide.md)** objects in the specified presentation.
 
@@ -94,3 +95,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

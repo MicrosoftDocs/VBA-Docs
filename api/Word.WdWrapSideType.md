@@ -1,14 +1,15 @@
 ---
-title: WdWrapSideType Enumeration (Word)
+title: WdWrapSideType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWrapSideType
 ms.assetid: a14dc2fc-687e-8732-1b51-895511b2ab9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdWrapSideType Enumeration (Word)
+# WdWrapSideType enumeration (Word)
 
 Specifies whether the document text should wrap on both sides of the specified shape, on either the left or right side only, or on the side of the shape that is farthest from the page margin.
 
@@ -21,3 +22,4 @@ Specifies whether the document text should wrap on both sides of the specified s
 | **wdWrapLeft**|1|Left side of shape only.|
 | **wdWrapRight**|2|Right side of shape only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

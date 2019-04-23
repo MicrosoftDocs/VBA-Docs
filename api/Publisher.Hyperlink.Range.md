@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Range Property (Publisher)
+title: Hyperlink.Range property (Publisher)
 keywords: vbapb10.chm4587526
 f1_keywords:
 - vbapb10.chm4587526
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlink.Range
 ms.assetid: ff105ffe-cb48-0f6a-99ff-eaac0500938f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Range Property (Publisher)
+# Hyperlink.Range property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object representing the base text to which the specified hyperlink has been applied.
 
 
 ## Syntax
 
- _expression_. **Range**
+_expression_.**Range**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 
@@ -42,4 +43,4 @@ txtHyperlink = ActiveDocument.Pages(1) _
 txtHyperlink.Text = "Go here"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,29 +7,26 @@ ms.prod: access
 api_name:
 - Access.EmptyCell.HorizontalAnchor
 ms.assetid: 3daacb95-68cc-159e-425d-154063c852d4
-ms.date: 06/08/2017
+ms.date: 02/21/2019
+localization_priority: Normal
 ---
 
 
 # EmptyCell.HorizontalAnchor property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the cell is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
-_expression_. `HorizontalAnchor`
+_expression_.**HorizontalAnchor**
 
-_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an **[EmptyCell](Access.EmptyCell.md)** object.
 
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
 
-## See also
-
-
-[EmptyCell Object](Access.EmptyCell.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

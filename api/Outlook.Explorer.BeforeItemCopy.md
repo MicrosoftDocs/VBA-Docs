@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeItemCopy Event (Outlook)
+title: Explorer.BeforeItemCopy event (Outlook)
 keywords: vbaol11.chm461
 f1_keywords:
 - vbaol11.chm461
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeItemCopy
 ms.assetid: 05ae7be8-5528-5560-f8ce-73f0afbf4cde
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeItemCopy Event (Outlook)
+# Explorer.BeforeItemCopy event (Outlook)
 
 Occurs when an Outlook item is copied.
 
 
 ## Syntax
 
- _expression_. `BeforeItemCopy`( `_Cancel_` )
+_expression_. `BeforeItemCopy`( `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when an Outlook item is copied.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the item is not copied.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the item is not copied.|
 
 ## Remarks
 
@@ -46,7 +47,7 @@ Public WithEvents myOlExp As Outlook.Explorer
  
  
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
  
 Set myOlExp = Application.ActiveExplorer 
  
@@ -89,3 +90,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

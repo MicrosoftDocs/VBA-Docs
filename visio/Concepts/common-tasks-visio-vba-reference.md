@@ -4,6 +4,7 @@ ms.prod: visio
 ms.assetid: f17c4b87-fdfc-74f1-ccdb-6d56056fb3d8
 ROBOTS: NOINDEX
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,5 +26,5 @@ This navigation page contains links to topics describing common automation tasks
 -  [Start the Visual Basic Editor](../How-to/start-the-visual-basic-editor-visio.md)
     
 -  [View Visio Object, Property, Method, Event, and Constant Descriptions](../How-to/view-visio-object-property-method-event-and-constant-descriptions.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

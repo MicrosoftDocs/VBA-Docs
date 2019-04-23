@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.PresetDrop Method (Publisher)
+title: CalloutFormat.PresetDrop method (Publisher)
 keywords: vbapb10.chm2490387
 f1_keywords:
 - vbapb10.chm2490387
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.PresetDrop
 ms.assetid: a709e54a-d08a-f83c-a0bf-bcdcfe6434cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.PresetDrop Method (Publisher)
+# CalloutFormat.PresetDrop method (Publisher)
 
 Specifies whether the callout line attaches to the top, bottom, or center of the callout text box or whether it attaches at a point that is a specified distance from the top or bottom of the text box.
 
 
 ## Syntax
 
- _expression_. **PresetDrop**(**_DropType_**)
+_expression_.**PresetDrop**(**_DropType_**)
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -68,4 +69,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

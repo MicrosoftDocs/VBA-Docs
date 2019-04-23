@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a085b3c7-12b6-4995-af41-dbd0c1048f34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CustomControl object (Access)](http://msdn.microsoft.com/library/a6ded8cf-4cf8-26ff-bade-f37a7ac52b02%28Office.15%29.aspx)
 [CustomControl.Enter event (Access)](http://msdn.microsoft.com/library/f62c7d3b-c5af-58a5-f65f-fbcafef724f8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

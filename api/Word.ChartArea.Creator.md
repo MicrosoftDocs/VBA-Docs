@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Creator Property (Word)
+title: ChartArea.Creator property (Word)
 keywords: vbawd10.chm160039061
 f1_keywords:
 - vbawd10.chm160039061
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartArea.Creator
 ms.assetid: dd2c0557-336b-ec22-fed4-dfa263d9fb52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartArea.Creator Property (Word)
+# ChartArea.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartArea Object](Word.ChartArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

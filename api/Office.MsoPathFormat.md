@@ -1,18 +1,19 @@
 ---
-title: MsoPathFormat Enumeration (Office)
+title: MsoPathFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPathFormat
 ms.assetid: 744f8ecf-7a08-4bd3-eb8d-1dde193d71b4
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoPathFormat Enumeration (Office)
+# MsoPathFormat enumeration (Office)
 
 Specifies the format of a file or folder path.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -28,3 +29,4 @@ Specifies the format of a file or folder path.
 |**msoPathTypeMixed**|-2|Represents a mixed format.|
 |**msoPathTypeNone**|0|Represents no format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

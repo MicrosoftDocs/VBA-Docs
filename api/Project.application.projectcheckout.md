@@ -1,20 +1,21 @@
 ---
-title: Application.ProjectCheckOut Method (Project)
+title: Application.ProjectCheckOut method (Project)
 keywords: vbapj.chm2160
 f1_keywords:
 - vbapj.chm2160
 ms.prod: project-server
 ms.assetid: 4c6f065f-a853-8f42-e948-be7a76435c0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectCheckOut Method (Project)
+# Application.ProjectCheckOut method (Project)
 Checks out an open project if it is the active project.
 
 ## Syntax
 
- _expression_. `ProjectCheckOut` _(Name)_
+_expression_. `ProjectCheckOut` _(Name)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -23,7 +24,7 @@ Checks out an open project if it is the active project.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the project|
 
@@ -79,3 +80,5 @@ End Sub
 
 [IsCheckedOut Property](Project.application.ischeckedout.md)
 [Project.CheckoutProject Method](Project.project.checkoutproject.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

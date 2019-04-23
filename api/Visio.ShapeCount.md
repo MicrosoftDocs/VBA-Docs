@@ -5,6 +5,7 @@ api_name:
 - Visio.ShapeCount
 ms.assetid: b1a8a4a8-5140-4586-fc4d-be64b47d0158
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the count of shapes in the drawing that is open in Microsoft Visio Viewer. 
 
 ## Syntax
 
- _expression_. **ShapeCount**
+_expression_.**ShapeCount**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code gets the count of shapes in the drawing that is open in Visio
 Debug.Print vsoViewer.ShapeCount
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

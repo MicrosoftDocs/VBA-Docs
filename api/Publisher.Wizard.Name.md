@@ -1,5 +1,5 @@
 ---
-title: Wizard.Name Property (Publisher)
+title: Wizard.Name property (Publisher)
 keywords: vbapb10.chm1441796
 f1_keywords:
 - vbapb10.chm1441796
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Wizard.Name
 ms.assetid: 1e0a7ec6-87ee-7c26-cf98-e849c5617e58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Wizard.Name Property (Publisher)
+# Wizard.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **Wizard** object.
 
@@ -29,4 +30,4 @@ You can use an object's name in conjunction with the  **Item** method or **Item*
 
 The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

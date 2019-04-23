@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.Report.DrawStyle
 ms.assetid: 0dd2afb9-d310-3637-6ed7-e66c9ad3460d
-ms.date: 06/08/2017
+ms.date: 03/15/2019
+localization_priority: Normal
 ---
 
 
 # Report.DrawStyle property (Access)
 
-You can use the  **DrawStyle** property to specify the line style when using the **[Line](Access.Report.Line.md)** and **[Circle](Access.Report.Circle.md)** methods to print lines on reports. Read/write **Integer**.
+You can use the **DrawStyle** property to specify the line style when using the **[Line](Access.Report.Line.md)** and **[Circle](Access.Report.Circle.md)** methods to print lines on reports. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `DrawStyle`
+_expression_.**DrawStyle**
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks
 
-The  **DrawStyle** property uses the following settings.
+The **DrawStyle** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|(Default) Solid line, transparent interior|
 |1|Dash, transparent interior|
@@ -39,13 +38,11 @@ The  **DrawStyle** property uses the following settings.
 |5|Invisible line, transparent interior|
 |6|Invisible line, solid interior|
 
- **Note**  You can set this property in an event procedure specified by a section's **OnPrint** property setting.
+> [!NOTE] 
+> You can set this property in an event procedure specified by a section's **OnPrint** property setting.
 
-The  **DrawStyle** property produces the results described in the preceding table if the **[DrawWidth](Access.Report.DrawWidth.md)** property is set to 1. If the **DrawWidth** property setting is greater than 3, the **DrawStyle** property settings 1 through 4 produce a solid line (the **DrawStyle** property value isn't changed).
-
-
-## See also
+The **DrawStyle** property produces the results described in the preceding table if the **[DrawWidth](Access.Report.DrawWidth.md)** property is set to 1. If the **DrawWidth** property setting is greater than 3, the **DrawStyle** property settings 1 through 4 produce a solid line (the **DrawStyle** property value isn't changed).
 
 
-[Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

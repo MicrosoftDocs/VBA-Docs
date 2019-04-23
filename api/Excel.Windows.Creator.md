@@ -8,19 +8,20 @@ api_name:
 - Excel.Windows.Creator
 ms.assetid: f27724b1-4ce1-1b90-9aa3-704e491575f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Windows.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
+_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Windows Object](Excel.Windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataFields.Item Method (Publisher)
+title: MailMergeMappedDataFields.Item method (Publisher)
 keywords: vbapb10.chm6488064
 f1_keywords:
 - vbapb10.chm6488064
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeMappedDataFields.Item
 ms.assetid: c1c9acde-d1e5-25d3-1b59-3e848f3881b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataFields.Item Method (Publisher)
+# MailMergeMappedDataFields.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **MailMergeMappedDataFields** object.
 
@@ -48,4 +49,4 @@ Set mmfTemp = ActiveDocument.MailMerge _
  .DataSource.MappedDataFields.Item(Index:="City")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

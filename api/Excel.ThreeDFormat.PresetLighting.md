@@ -5,19 +5,20 @@ api_name:
 - Excel.ThreeDFormat.PresetLighting
 ms.assetid: 68ff6d02-167c-8be0-c785-879431f5ef5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ThreeDFormat.PresetLighting property (Excel)
 
-Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Read-only **[MsoLightRigType](./Office.MsoLightRigType.md)** .
+Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Read-only **[MsoLightRigType](Office.MsoLightRigType.md)**.
 
 
 ## Syntax
 
- _expression_. `PresetLighting`
+_expression_. `PresetLighting`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -34,7 +35,7 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 | **msoLightRigFlat**|
 | **msoLightRigFlood**|
 | **msoLightRigFreezing**|
-| ** msoLightRigGlow**|
+| **msoLightRigGlow**|
 | **msoLightRigHarsh**|
 | **msoLightRigLegacyFlat1**|
 | **msoLightRigLegacyFlat2**|
@@ -54,10 +55,11 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 | **msoLightRigSunrise**|
 | **msoLightRigSunset**|
 | **msoLightRigThreePoint**|
-| ** msoLightRigTwoPoint**|
+| **msoLightRigTwoPoint**|
 
 ## See also
 
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

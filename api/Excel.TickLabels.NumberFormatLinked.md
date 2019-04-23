@@ -8,19 +8,20 @@ api_name:
 - Excel.TickLabels.NumberFormatLinked
 ms.assetid: 8ca8dc6c-b061-503e-f874-cd506242ea07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TickLabels.NumberFormatLinked property (Excel)
 
- **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
+ **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `NumberFormatLinked`
+_expression_. `NumberFormatLinked`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Charts("Chart1").Axes(xlValue).TickLabels.NumberFormatLinked = True
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

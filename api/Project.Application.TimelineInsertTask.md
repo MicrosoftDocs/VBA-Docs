@@ -1,5 +1,5 @@
 ---
-title: Application.TimelineInsertTask Method (Project)
+title: Application.TimelineInsertTask method (Project)
 keywords: vbapj.chm65
 f1_keywords:
 - vbapj.chm65
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TimelineInsertTask
 ms.assetid: 4a1833a4-ddbb-577d-fe58-5907644fd127
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TimelineInsertTask Method (Project)
+# Application.TimelineInsertTask method (Project)
 
 When the Timeline view is selected, displays the  **Task Information** dialog box, and then inserts a new task into the project and adds the task to the Timeline view.
 
 
 ## Syntax
 
- _expression_. `TimelineInsertTask`( ` _Type_` )
+_expression_. `TimelineInsertTask`( `_Type_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -43,7 +44,7 @@ The  **TimelineInsertTask** method shows a manually scheduled or automatically s
 If the user cancels the  **Task Information** dialog box, **TimelineInsertTask** returns **False**.
 
 
- **Note**  The  ** Display on Timeline** check box in the **Task Information** dialog box is clear. The **TimelineInsertTask** method adds a task to the timeline whether the check box is checked or clear.
+ **Note**  The  **Display on Timeline** check box in the **Task Information** dialog box is clear. The **TimelineInsertTask** method adds a task to the timeline whether the check box is checked or clear.
 
 The  **TimelineInsertTask** method corresponds to the **Task**,  **Callout Task**, and  **Milestone** commands in the **Insert** group on the **Format** tab on the ribbon. The **Format** tab displays the **Insert** group when the Timeline view is selected. If the Timeline view is not selected, the **TimelineInsertTask** method results in error 1100, "The method is not available in this situation."
 
@@ -57,4 +58,4 @@ If the Project status bar shows  **New Tasks: Manually Scheduled**, the followin
 Application.TimelineInsertTask Type:=pjTimelineInsertCalloutTask
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

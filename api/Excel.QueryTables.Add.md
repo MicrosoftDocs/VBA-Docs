@@ -1,5 +1,5 @@
 ---
-title: QueryTables.Add Method (Excel)
+title: QueryTables.Add method (Excel)
 keywords: vbaxl10.chm521074
 f1_keywords:
 - vbaxl10.chm521074
@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTables.Add
 ms.assetid: ac6cd03e-31aa-cd8c-aa67-a551894c6eb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# QueryTables.Add Method (Excel)
+# QueryTables.Add method (Excel)
 
 Creates a new query table.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Connection_` , `_Destination_` , `_Sql_` )
+_expression_.**Add**( `_Connection_` , `_Destination_` , `_Sql_` )
 
- _expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
+_expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
 
 
 ## Parameters
@@ -31,7 +32,7 @@ Creates a new query table.
 |:-----|:-----|:-----|:-----|
 | _Connection_|Required| **Variant**|The data source for the query table. Can be one of the following:<ul><li><p>A string containing an OLE DB or ODBC connection string. The ODBC connection string has the form "ODBC;<connection string>".</p></li><li><p>A <b>QueryTable</b>  object from which the query information is initially copied, including the connection string and the SQL text, but not including the <b>Destination</b>  range. Specifying a <b>QueryTable</b>  object causes the <b>Sql</b>  argument to be ignored.</p></li><li><p>An ADO or DAO <b>Recordset</b>  object. Data is read from the ADO or DAO recordset. Microsoft Excel retains the recordset until the query table is deleted or the connection is changed. The resulting query table cannot be edited.</p></li><li><p>A Web query. A string in the form "URL;<url>", where "URL;" is required but not localized and the rest of the string is used for the URL of the Web query.</p></li><li><p>Data Finder. A string in the form "FINDER;<data finder file path>" where "FINDER;" is required but not localized. The rest of the string is the path and file name of a Data Finder file (*.dqy or *.iqy). The file is read when the <b>Add</b>  method is run; subsequent calls to the <b><a href="Excel.QueryTable.Connection.md">Connection</a></b>  property of the query table will return strings beginning with "ODBC;" or "URL;" as appropriate.</p></li><li><p>A text file. A string in the form "TEXT;<text file path and name>", where TEXT is required but not localized.</p></li></ul>|
 | _Destination_|Required| **Range**|The cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the  **QueryTables** object specified by expression.|
-| _Sql_|Optional| **Variant**|The SQL query string to be run on the ODBC data source. This argument is optional when you're using an ODBC data source (if you don't specify it here, you should set it by using the  **Sql** property of the query table before the table is refreshed). You cannot use this argument when a **QueryTable** object, text file, or ADO or DAO **Recordset** object is specified as the data source.|
+| _Sql_|Optional| **Variant**|The SQL query string to be run on the ODBC data source. This argument is optional when you are using an ODBC data source (if you don't specify it here, you should set it by using the  **Sql** property of the query table before the table is refreshed). You cannot use this argument when a **QueryTable** object, text file, or ADO or DAO **Recordset** object is specified as the data source.|
 
 ## Return value
 
@@ -125,3 +126,4 @@ End With
 
 [QueryTables Object](Excel.QueryTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

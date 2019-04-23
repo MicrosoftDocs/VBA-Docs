@@ -1,5 +1,5 @@
 ---
-title: Document.SnapToGrid Property (Word)
+title: Document.SnapToGrid property (Word)
 keywords: vbawd10.chm158007596
 f1_keywords:
 - vbawd10.chm158007596
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SnapToGrid
 ms.assetid: 7aa03a0d-65f2-725b-37fe-8a421fb1e9f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SnapToGrid Property (Word)
+# Document.SnapToGrid property (Word)
 
- **True** if AutoShapes or East Asian characters are automatically aligned with an invisible grid when they are drawn, moved, or resized in the specified document. Read/write **Boolean** .
+ **True** if AutoShapes or East Asian characters are automatically aligned with an invisible grid when they are drawn, moved, or resized in the specified document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SnapToGrid`
+_expression_. `SnapToGrid`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.SnapToGrid = True
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

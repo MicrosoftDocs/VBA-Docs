@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 84a4f616-3ace-0139-57d5-f0c070064ab2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,18 +46,16 @@ The following example shows the contents of a sample registry-editor (.reg) file
 
 
 
-```text
-[HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace] 
-"FriendlyName"="Sample Add-in" 
-"Description"="Sample Outlook Add-In" 
-"LoadBehavior"=dword:00000008
-```
+    [HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace]
+    "FriendlyName"="Sample Add-in"
+    "Description"="Sample Outlook Add-In"
+    "LoadBehavior"=dword:00000008
 
 When the COM add-in is first registered,  **LoadBehavior** can be set to any of the following flags.
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |2|Load at startup. The COM add-in is to be loaded and connected when Outlook starts.|
 |8|Load on demand. The COM add-in is to be loaded and connected only when the user requests it, such as by using the  **COM Add-ins** dialog box.|
@@ -75,4 +74,4 @@ To connect the COM add-in, set the Connected flag in  **LoadBehavior**; clear th
 
 The  **FriendlyName** value specifies the name of the COM add-in as it's displayed in the **COM Add-in** dialog box. The **Description** value provides additional information about the COM add-in.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

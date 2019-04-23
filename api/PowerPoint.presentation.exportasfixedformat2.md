@@ -1,31 +1,30 @@
 ---
-title: Presentation.ExportAsFixedFormat2 Method (PowerPoint)
+title: Presentation.ExportAsFixedFormat2 method (PowerPoint)
 keywords: vbapp10.chm583126
 f1_keywords:
 - vbapp10.chm583126
 ms.assetid: b1101e58-e6a8-9dd4-7071-1325ba71edb1
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Presentation.ExportAsFixedFormat2 Method (PowerPoint)
+# Presentation.ExportAsFixedFormat2 method (PowerPoint)
 
 Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed format, either PDF or XPS.
 
 
 ## Syntax
 
- _expression_. `ExportAsFixedFormat2`_(Path,_ _FixedFormatType,_ _Intent,_ _FrameSlides,_ _HandoutOrder,_ _OutputType,_ _PrintHiddenSlides,_ _PrintRange,_ _RangeType,_ _SlideShowName,_ _IncludeDocProperties,_ _KeepIRMSettings,_ _DocStructureTags,_ _BitmapMissingFonts,_ _UseISO19005_1,_ _IncludeMarkup,_ _ExternalExporter)_
+_expression_.**ExportAsFixedFormat2** (_Path_, _FixedFormatType_, _Intent_, _FrameSlides_, _HandoutOrder_, _OutputType_, _PrintHiddenSlides_, _PrintRange_, _RangeType_, _SlideShowName_, _IncludeDocProperties_, _KeepIRMSettings_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005_1_, _IncludeMarkup_, _ExternalExporter_)
 
- _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
+_expression_ A variable that represents a **[Presentation](PowerPoint.Presentation.md)** object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path for the export.|
 | _FixedFormatType_|Required|**PpFixedFormatType**|The format to which the slides should be exported.|
@@ -44,26 +43,28 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 | _UseISO19005_1_|Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is  **False**.|
 | _IncludeMarkup_|Optional|**Boolean**|Whether the resulting document should include associated pen marks.|
 | _ExternalExporter_|Optional|**Variant**|A pointer to an Office add-in that implements the  **IMsoDocExporter** COM interface and allows calls to an alternate implementation of code. The default is a null pointer.|
-| _Path_|Required|STRING||
+| _Path_|Required|**String**||
 | _FixedFormatType_|Required|PPFIXEDFORMATTYPE||
 | _Intent_|Optional|PPFIXEDFORMATINTENT||
-| _FrameSlides_|Optional|<unknown||
+| _FrameSlides_|Optional|unknown||
 | _HandoutOrder_|Optional|PPPRINTHANDOUTORDER||
 | _OutputType_|Optional|PPPRINTOUTPUTTYPE||
-| _PrintHiddenSlides_|Optional|<unknown||
+| _PrintHiddenSlides_|Optional|unknown||
 | _PrintRange_|Optional|PRINTRANGE||
 | _RangeType_|Optional|PPPRINTRANGETYPE||
-| _SlideShowName_|Optional|STRING||
+| _SlideShowName_|Optional|**String**||
 | _IncludeDocProperties_|Optional|BOOL||
 | _KeepIRMSettings_|Optional|BOOL||
 | _DocStructureTags_|Optional|BOOL||
 | _BitmapMissingFonts_|Optional|BOOL||
 | _UseISO19005_1_|Optional|BOOL||
 | _IncludeMarkup_|Optional|BOOL||
-| _ExternalExporter_|Optional|VARIANT||
+| _ExternalExporter_|Optional|**Variant**||
 
 ## Return value
 
- **VOID**
+**VOID**
 
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

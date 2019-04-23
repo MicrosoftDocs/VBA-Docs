@@ -1,21 +1,22 @@
 ---
-title: Application.GlobalOutlineCodes Property (Project)
+title: Application.GlobalOutlineCodes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GlobalOutlineCodes
 ms.assetid: a63d1a87-5c87-a2d6-c4da-70ab9526eaae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GlobalOutlineCodes Property (Project)
+# Application.GlobalOutlineCodes property (Project)
 
 Gets or sets an  **[OutlineCodes](Project.outlinecodes(object).md)** collection in the Global.mpt file, along with enterprise text custom fields that use a lookup table. Read/write **OutlineCodes**.
 
 
 ## Syntax
 
- _expression_. `GlobalOutlineCodes`
+_expression_. `GlobalOutlineCodes`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -59,5 +60,5 @@ In Project Server 2013 , the default text custom fields that have a lookup table
 - Resource Departments
     
 - RBS
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

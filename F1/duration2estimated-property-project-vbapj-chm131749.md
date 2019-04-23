@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e3bb1350-64e6-491c-a080-bd6e12411342
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayRecentFiles Property (Project)](http://msdn.microsoft.com/library/99c60109-676f-41ee-3ed0-76d0b0c4ee99%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 8ea1e997-470f-1336-5a72-ce66ece1f292
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Returns a  **Long** that represents the number of list entries in a control. Rea
 
 ## Syntax
 
- _expression_. **ListCount**
+_expression_.**ListCount**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
 
  **ListCount** is the number of rows over which you can scroll. **ListCount** is always one greater than the largest value for the **[ListIndex](Outlook.combobox.listindex.md)** property, because index numbers begin with 0 and the count of items begins with 1. If no item is selected, **ListCount** is 0 and **ListIndex** is -1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

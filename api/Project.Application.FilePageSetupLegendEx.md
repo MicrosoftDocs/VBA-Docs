@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupLegendEx Method (Project)
+title: Application.FilePageSetupLegendEx method (Project)
 keywords: vbapj.chm2161
 f1_keywords:
 - vbapj.chm2161
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupLegendEx
 ms.assetid: 5cc6c6c1-2228-9c12-3ba6-fd124852a7aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupLegendEx Method (Project)
+# Application.FilePageSetupLegendEx method (Project)
 
 Creates a legend for printing views of task data, where color can be a hexadecimal value.
 
 
 ## Syntax
 
-_expression_. **FilePageSetupLegendEx** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
+_expression_.**FilePageSetupLegendEx** (**_Name_**, **_TextWidth_**, **_LegendOn_**, **_Alignment_**, **_Text_**, **_LabelFontName_**, **_LabelFontSize_**, **_LabelFontBold_**, **_LabelFontItalic_**, **_LabelFontUnderline_**, **_LabelFontColor_**)
 
 _expression_ An expression that returns an **Application** object.
 
@@ -40,7 +41,7 @@ _expression_ An expression that returns an **Application** object.
 | _LabelFontColor_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &H01FFFF is yellow.|
 
 
-#### Format codes
+### Format codes
 
 |**Format code**|**Description**|
 |:-----|:-----|
@@ -104,4 +105,4 @@ Public Function GetFontFormatCode(strFontName As String) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

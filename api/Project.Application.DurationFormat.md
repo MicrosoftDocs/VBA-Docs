@@ -1,5 +1,5 @@
 ---
-title: Application.DurationFormat Method (Project)
+title: Application.DurationFormat method (Project)
 keywords: vbapj.chm131212
 f1_keywords:
 - vbapj.chm131212
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DurationFormat
 ms.assetid: 37970edc-c6f9-66b7-7c0d-b22beb8a36c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DurationFormat Method (Project)
+# Application.DurationFormat method (Project)
 
 Returns a duration in the specified units.
 
 
 ## Syntax
 
- _expression_. `DurationFormat`( ` _Duration_`, ` _Units_` )
+_expression_. `DurationFormat`( `_Duration_`, `_Units_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sub DurationInWeeks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

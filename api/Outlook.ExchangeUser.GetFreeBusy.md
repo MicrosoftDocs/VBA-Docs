@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetFreeBusy Method (Outlook)
+title: ExchangeUser.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2075
 f1_keywords:
 - vbaol11.chm2075
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeUser.GetFreeBusy
 ms.assetid: 0dcd36af-e9d7-ca1e-334f-c540c46254f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetFreeBusy Method (Outlook)
+# ExchangeUser.GetFreeBusy method (Outlook)
 
 Obtains a  **String** representing the availability of the **[ExchangeUser](Outlook.ExchangeUser.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
 
 
 ## Syntax
 
- _expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
+_expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Parameters
@@ -91,3 +92,4 @@ End Sub
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Function is not available in expressions. (Error 2426)
 ms.prod: access
 ms.assetid: 0779017b-1039-f358-9ed7-3cbc180320c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You have entered a function that cannot be used in this expression. The function
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

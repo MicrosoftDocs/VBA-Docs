@@ -1,5 +1,5 @@
 ---
-title: Dictionary.LanguageSpecific Property (Word)
+title: Dictionary.LanguageSpecific property (Word)
 keywords: vbawd10.chm162332677
 f1_keywords:
 - vbawd10.chm162332677
@@ -8,17 +8,18 @@ api_name:
 - Word.Dictionary.LanguageSpecific
 ms.assetid: 479eefb9-bd50-298b-635d-945ee7848600
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionary.LanguageSpecific Property (Word)
+# Dictionary.LanguageSpecific property (Word)
 
- **True** if the custom dictionary is to be used only with text formatted for a specific language. Read/write **Boolean** .
+ **True** if the custom dictionary is to be used only with text formatted for a specific language. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LanguageSpecific`
+_expression_. `LanguageSpecific`
 
  _expression_ A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
@@ -55,3 +56,4 @@ dicNew.LanguageID = wdGerman
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

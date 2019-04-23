@@ -1,5 +1,5 @@
 ---
-title: Paragraph.IsStyleSeparator Property (Word)
+title: Paragraph.IsStyleSeparator property (Word)
 keywords: vbawd10.chm156696710
 f1_keywords:
 - vbawd10.chm156696710
@@ -8,17 +8,18 @@ api_name:
 - Word.Paragraph.IsStyleSeparator
 ms.assetid: 7143ac54-0de8-ed70-e212-5d48b5718302
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.IsStyleSeparator Property (Word)
+# Paragraph.IsStyleSeparator property (Word)
 
- **True** if a paragraph contains a special hidden paragraph mark that allows Microsoft Word to appear to join paragraphs of different paragraph styles. Read-only **Boolean** .
+ **True** if a paragraph contains a special hidden paragraph mark that allows Microsoft Word to appear to join paragraphs of different paragraph styles. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsStyleSeparator`
+_expression_. `IsStyleSeparator`
 
  _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 
@@ -72,3 +73,4 @@ End Sub
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

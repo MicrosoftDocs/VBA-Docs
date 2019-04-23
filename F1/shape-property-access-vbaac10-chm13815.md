@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 700508f5-4885-48ff-8f5b-534ce541e929
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Shape property (Access) Reference](http://msdn.microsoft.com/library/a22ca4ec-584d-46c8-2a11-aeb1503ec07f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

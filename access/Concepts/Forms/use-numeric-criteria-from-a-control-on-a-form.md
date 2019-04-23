@@ -3,6 +3,7 @@ title: Use numeric criteria from a control on a form
 ms.prod: access
 ms.assetid: d3455b78-9ab3-9a85-14c9-895e0d0b96d2
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -41,4 +42,4 @@ varResult = DLookup("[LastName]", "Employees", _
     "[EmployeeID] = " & intNum)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBError.Stage
 ms.assetid: 71dd6495-3d03-307d-a7cd-816779f25754
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBError.Stage property (Excel)
 
-Returns a numeric value specifying the stage of an error that resulted after the most recent OLE DB query. Read-only  **Long** .
+Returns a numeric value specifying the stage of an error that resulted after the most recent OLE DB query. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Stage`
+_expression_. `Stage`
 
- _expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
+_expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
 
 
 ## Example
@@ -42,3 +43,4 @@ MsgBox "The following error occurred:" & _
 
 [OLEDBError Object](Excel.OLEDBError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.MakeConnection Method (Excel)
+title: PivotCache.MakeConnection method (Excel)
 keywords: vbaxl10.chm227099
 f1_keywords:
 - vbaxl10.chm227099
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.MakeConnection
 ms.assetid: d0b29374-4d5a-7d9e-630a-500b505da1bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotCache.MakeConnection Method (Excel)
+# PivotCache.MakeConnection method (Excel)
 
 Establishes a connection for the specified PivotTable cache.
 
 
 ## Syntax
 
- _expression_. `MakeConnection`
+_expression_. `MakeConnection`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ The  **MakeConnection** method can be used after the cache drops a connection an
 
 Various objects and methods might return a run-time error if the cache is not connected. Use of this method assures a connection before executing other objects or methods.
 
-This method will result in a run-time error if the  **MaintainConnection** property of the specified PivotTable cache has been set to **False** , the **SourceType** property of the specified PivotTable cache has not been set to xlExternal, or if the connection is not to an OLE DB data source.
+This method will result in a run-time error if the  **MaintainConnection** property of the specified PivotTable cache has been set to **False**, the **SourceType** property of the specified PivotTable cache has not been set to xlExternal, or if the connection is not to an OLE DB data source.
 
 
  **Note**  Microsoft Excel might drop a connection temporarily in the course of a session (unknown to the VBA programmer), so this method proves useful.
@@ -71,3 +72,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: WorkWeeks.Item Property (Project)
+title: WorkWeeks.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeeks.Item
 ms.assetid: 0d6d0d68-b930-20c9-06cf-da96f247d218
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorkWeeks.Item Property (Project)
+# WorkWeeks.Item property (Project)
 
 Gets a single  **WorkWeek** object from the **WorkWeeks** collection. Read-only **WorkWeek**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a 'WorkWeeks' object.
 
@@ -32,3 +33,5 @@ Gets a single  **WorkWeek** object from the **WorkWeeks** collection. Read-only 
 
 
 [WorkWeeks Collection Object](Project.workweeks.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.PostFormData Property (Publisher)
+title: WebCommandButton.PostFormData property (Publisher)
 keywords: vbapb10.chm3932176
 f1_keywords:
 - vbapb10.chm3932176
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCommandButton.PostFormData
 ms.assetid: d04e3172-0d96-856f-af63-341031d92291
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCommandButton.PostFormData Property (Publisher)
+# WebCommandButton.PostFormData property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified Web command button control uses the Microsoft Visual Basic **Get** or **Post** method when submitting form data to a Web server. Read/write.
 
 
 ## Syntax
 
- _expression_. **PostFormData**
+_expression_.**PostFormData**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 
@@ -34,7 +35,7 @@ The property value can be one of the  **MsoTriState** constants declared in the 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The control uses the Visual Basic  **Get** method to submit form data.|
 | **msoTrue**|The control uses the Visual Basic  **Post** method to submit form data. The default value.|
@@ -63,4 +64,4 @@ With shpNew.WebCommandButton
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

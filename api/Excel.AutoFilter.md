@@ -1,5 +1,5 @@
 ---
-title: AutoFilter Object (Excel)
+title: AutoFilter object (Excel)
 keywords: vbaxl10.chm537072
 f1_keywords:
 - vbaxl10.chm537072
@@ -7,25 +7,27 @@ ms.prod: excel
 api_name:
 - Excel.AutoFilter
 ms.assetid: 1a6fcf3b-52be-b599-029b-a3c53d12f85e
-ms.date: 06/08/2017
+ms.date: 03/29/2019
+localization_priority: Normal
 ---
 
 
-# AutoFilter Object (Excel)
+# AutoFilter object (Excel)
 
 Represents autofiltering for the specified worksheet.
 
+> [!NOTE] 
+> When using **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
 
- **Note**  When using  **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
-
-
- **Note**  Working with objects (e g  **Interior** Object) requires adding a reference to an object. You will find more information about assigning an Object reference to a variable or property in the [Set Statement](../language/reference/User-Interface-Help/set-statement.md).
+> [!NOTE] 
+> Working with objects (for example, the **Interior** object) requires adding a reference to an object. You will find more information about assigning an object reference to a variable or property in the **[Set](../language/reference/User-Interface-Help/set-statement.md)** statement.
 
 
 ## Example
 
-Use the  **[AutoFilter](Excel.Worksheet.AutoFilter.md)** property to return the **AutoFilter** object. Use the **[Filters](Excel.AutoFilter.Filters.md)** property to return a collection of individual column filters. Use the **[Range](Excel.AutoFilter.Range.md)** property to return the **Range** object that represents the entire filtered range. The following example stores the address and filtering criteria for the current filtering and then applies new filters.
+Use the **[AutoFilter](Excel.Worksheet.AutoFilter.md)** property of the **Worksheet** object to return the **AutoFilter** object. Use the **Filters** property to return a collection of individual column filters. Use the **Range** property to return the **Range** object that represents the entire filtered range. 
 
+The following example stores the address and filtering criteria for the current filtering, and then applies new filters.
 
 ```vb
 Dim w As Worksheet 
@@ -59,10 +61,9 @@ w.Range("A1").AutoFilter field:=1, Criteria1:="S"
 End Sub
 ```
 
-To create an  **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **[Range](Excel.Range(object).md)** object. The following example uses the values stored in module-level variables in the previous example to restore the original autofiltering to the Crew worksheet.
+<br/>
 
-
-
+To create an **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or by using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **Range** object. The following example uses the values stored in module-level variables in the previous example to restore the original autofiltering to the Crew worksheet.
 
 ```vb
 Sub RestoreFilters() 
@@ -86,33 +87,25 @@ End Sub
 ```
 
 
- **Note**  When using  **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
 
 
 ## Methods
 
-
-
-|**Name**|
-|:-----|
-|[ApplyFilter](Excel.AutoFilter.ApplyFilter.md)|
-|[ShowAllData](Excel.AutoFilter.ShowAllData.md)|
+- [ApplyFilter](Excel.AutoFilter.ApplyFilter.md)
+- [ShowAllData](Excel.AutoFilter.ShowAllData.md)
 
 ## Properties
 
-
-
-|**Name**|
-|:-----|
-|[Application](Excel.AutoFilter.Application.md)|
-|[Creator](Excel.AutoFilter.Creator.md)|
-|[FilterMode](Excel.AutoFilter.FilterMode.md)|
-|[Filters](Excel.AutoFilter.Filters.md)|
-|[Parent](Excel.AutoFilter.Parent.md)|
-|[Range](Excel.AutoFilter.Range.md)|
-|[Sort](Excel.AutoFilter.Sort.md)|
+- [Application](Excel.AutoFilter.Application.md)
+- [Creator](Excel.AutoFilter.Creator.md)
+- [FilterMode](Excel.AutoFilter.FilterMode.md)
+- [Filters](Excel.AutoFilter.Filters.md)
+- [Parent](Excel.AutoFilter.Parent.md)
+- [Range](Excel.AutoFilter.Range.md)
+- [Sort](Excel.AutoFilter.Sort.md)
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.ShowType Property (PowerPoint)
+title: SlideShowSettings.ShowType property (PowerPoint)
 keywords: vbapp10.chm514010
 f1_keywords:
 - vbapp10.chm514010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowSettings.ShowType
 ms.assetid: 6537dd4c-8029-3e95-7073-7701ba12a627
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowSettings.ShowType Property (PowerPoint)
+# SlideShowSettings.ShowType property (PowerPoint)
 
 Returns or sets the show type for the specified slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowType`
+_expression_. `ShowType`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
@@ -76,3 +77,4 @@ End With
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

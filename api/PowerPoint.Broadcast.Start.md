@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Start Method (PowerPoint)
+title: Broadcast.Start method (PowerPoint)
 keywords: vbapp10.chm732003
 f1_keywords:
 - vbapp10.chm732003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Broadcast.Start
 ms.assetid: bd43dd94-8010-6e3d-ac9a-4406c6404e04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Broadcast.Start Method (PowerPoint)
+# Broadcast.Start method (PowerPoint)
 
 Returns a list of supported functionality and the maximum allowed file size. 
 
 
 ## Syntax
 
- _expression_. `Start`( `_serverUrl_` )
+_expression_. `Start`( `_serverUrl_` )
 
- _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
+_expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a list of supported functionality and the maximum allowed file size.
 
 [Broadcast Object](PowerPoint.Broadcast.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

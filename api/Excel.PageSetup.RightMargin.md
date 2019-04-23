@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.RightMargin
 ms.assetid: 9c392522-2a06-c76f-2f7a-0fb93c947d39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.RightMargin property (Excel)
 
-Returns or sets the size of the right margin, in points. Read/write  **Double** .
+Returns or sets the size of the right margin, in points. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `RightMargin`
+_expression_.**RightMargin**
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -65,3 +66,4 @@ MsgBox "The current right margin is " & marginInches & " inches"
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

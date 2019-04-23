@@ -1,5 +1,5 @@
 ---
-title: PostItem.BodyFormat Property (Outlook)
+title: PostItem.BodyFormat property (Outlook)
 keywords: vbaol11.chm1558
 f1_keywords:
 - vbaol11.chm1558
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.BodyFormat
 ms.assetid: 4d60e71c-d492-5ba4-b9d2-e61fb608abcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.BodyFormat Property (Outlook)
+# PostItem.BodyFormat property (Outlook)
 
 Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
 
 
 ## Syntax
 
- _expression_. `BodyFormat`
+_expression_. `BodyFormat`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ All text formatting will be lost when the  **BodyFormat** property is switched f
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7fd498e4-f195-4151-ac90-be16d8ae6f4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DocumentWindows.Item Method (PowerPoint)](http://msdn.microsoft.com/library/71e8ae25-8ef8-3495-c864-f8c0ea774f5e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

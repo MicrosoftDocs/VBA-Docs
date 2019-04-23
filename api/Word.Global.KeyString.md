@@ -1,5 +1,5 @@
 ---
-title: Global.KeyString Method (Word)
+title: Global.KeyString method (Word)
 keywords: vbawd10.chm163119421
 f1_keywords:
 - vbawd10.chm163119421
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.KeyString
 ms.assetid: 4ad72e74-d26d-093e-8404-b3dc10ebe1f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.KeyString Method (Word)
+# Global.KeyString method (Word)
 
 Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A).
 
 
 ## Syntax
 
- _expression_. `KeyString`( `_KeyCode_` , `_KeyCode2_` )
+_expression_. `KeyString`( `_KeyCode_` , `_KeyCode2_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -44,7 +45,7 @@ You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argum
 
 ## Example
 
-This example displays the key combination string (CTRL+SHIFT+A) for the following  **WdKey** constants: **wdKeyControl** , **wdKeyShift** , and **wdKeyA** .
+This example displays the key combination string (CTRL+SHIFT+A) for the following  **WdKey** constants: **wdKeyControl**, **wdKeyShift**, and **wdKeyA**.
 
 
 ```vb
@@ -59,3 +60,4 @@ MsgBox KeyString(KeyCode:=BuildKeyCode(wdKeyControl, _
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

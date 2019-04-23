@@ -1,5 +1,5 @@
 ---
-title: Shape Object (Publisher)
+title: Shape object (Publisher)
 keywords: vbapb10.chm2293759
 f1_keywords:
 - vbapb10.chm2293759
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Shape
 ms.assetid: 666cb7f0-62a8-f419-9838-007ef29506ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape Object (Publisher)
+# Shape object (Publisher)
 
 Represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture. The  **Shape** object is a member of the **[Shapes](./Publisher.Shapes.md)** collection, which includes all the shapes on a page or in a selection.
 
@@ -138,7 +139,7 @@ Sub WorkWithGroupShapes()
 End Sub
 ```
 
-Use the  **[Fill](./Publisher.Shape.Fill.md)** property to return the **[FillFormat](./Publisher.FillFormat.md)** object, which contains all the properties and methods for formatting the fill of a closed shape. The **[Shadow](./Publisher.Shape.Shadow.md)** property returns the **[ShadowFormat](./Publisher.ShadowFormat.md)** object, which you use to format a shadow. Use the **[Line](./Publisher.Shape.Line.md)** property to return a **[LineFormat](./Publisher.LineFormat.md)** object, which contains properties and methods for formatting lines and arrows. The **[TextEffect](./Publisher.Shape.TextEffect.md)** property returns the **[TextEffectFormat](./Publisher.TextEffectFormat.md)** object, which you use to format WordArt. The **[Callout](./Publisher.Shape.Callout.md)** property returns the **[CalloutFormat](./Publisher.CalloutFormat.md)** object, which you use to format line callouts. The **[TextWrap](./Publisher.Shape.TextWrap.md)** property returns the **[WrapFormat](./Publisher.WrapFormat.md)** object, which you use to define how text wraps around shapes. The **[ThreeD](./Publisher.Shape.ThreeD.md)** property returns the **[ThreeDFormat](./Publisher.ThreeDFormat.md)** object, which you use to create 3-D shapes. You can use the **[PickUp](./Publisher.Shape.PickUp.md)** and **[Apply](./Publisher.Shape.Apply.md)** methods to transfer formatting from one shape to another.
+Use the  **[Fill](./Publisher.Shape.Fill.md)** property to return the **[FillFormat](./Publisher.FillFormat.md)** object, which contains all the properties and methods for formatting the fill of a closed shape. The **[Shadow](./Publisher.Shape.Shadow.md)** property returns the **[ShadowFormat](./Publisher.ShadowFormat.md)** object, which you use to format a shadow. Use the **[Line](./Publisher.Shape.Line.md)** property to return a **[LineFormat](./Publisher.LineFormat.md)** object, which contains properties and methods for formatting lines and arrows. The **[TextEffect](./Publisher.Shape.TextEffect.md)** property returns the **[TextEffectFormat](./Publisher.TextEffectFormat.md)** object, which you use to format WordArt. The **[Callout](./Publisher.Shape.Callout.md)** property returns the **[CalloutFormat](./Publisher.CalloutFormat.md)** object, which you use to format line callouts. The **[TextWrap](./Publisher.Shape.TextWrap.md)** property returns the **[WrapFormat](./Publisher.WrapFormat.md)** object, which you use to define how text wraps around shapes. The **[ThreeD](./Publisher.Shape.ThreeD.md)** property returns the **[ThreeDFormat](./Publisher.ThreeDFormat.md)** object, which you use to create 3D shapes. You can use the **[PickUp](./Publisher.Shape.PickUp.md)** and **[Apply](./Publisher.Shape.Apply.md)** methods to transfer formatting from one shape to another.
 
 
 
@@ -177,7 +178,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToCatalogMergeArea](./Publisher.Shape.AddToCatalogMergeArea.md)|
 |[Apply](./Publisher.Shape.Apply.md)|
@@ -214,7 +215,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](./Publisher.Shape.Adjustments.md)|
 |[AlternativeText](./Publisher.Shape.AlternativeText.md)|
@@ -277,3 +278,4 @@ End Sub
 |[WizardTagInstance](./Publisher.Shape.WizardTagInstance.md)|
 |[ZOrderPosition](./Publisher.Shape.ZOrderPosition.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

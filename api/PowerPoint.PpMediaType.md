@@ -1,14 +1,15 @@
 ---
-title: PpMediaType Enumeration (PowerPoint)
+title: PpMediaType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpMediaType
 ms.assetid: b54efec4-42c0-8f72-4f44-b82b5629d1be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpMediaType Enumeration (PowerPoint)
+# PpMediaType enumeration (PowerPoint)
 
 Indicates the OLE media type.
 
@@ -21,3 +22,4 @@ Indicates the OLE media type.
 |**ppMediaTypeOther**|1|Others|
 |**ppMediaTypeSound**|2|Sound|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

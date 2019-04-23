@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.Value
 ms.assetid: 928efc98-0420-e4b9-46fe-1b7124669b9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the value that the user entered in the cell or that the formula in the c
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the value that the user entered in the cell or that the formula in the c
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

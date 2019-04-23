@@ -1,12 +1,13 @@
 ---
-title: CustomLabels Object (Word)
+title: CustomLabels object (Word)
 ms.prod: word
 ms.assetid: 407e75b5-4116-fdc7-f0c1-dfd3809cdb41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabels Object (Word)
+# CustomLabels object (Word)
 
 A collection of  **CustomLabel** objects available in the **Label Options** dialog box. This collection includes custom labels of all printer types (dot-matrix, laser, and ink-jet printers).
 
@@ -62,5 +63,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

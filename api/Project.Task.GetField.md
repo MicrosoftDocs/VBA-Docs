@@ -1,21 +1,22 @@
 ---
-title: Task.GetField Method (Project)
+title: Task.GetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.GetField
 ms.assetid: 1e5442d1-e36a-bb1c-253c-a2222a6a2fb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.GetField Method (Project)
+# Task.GetField method (Project)
 
 Returns the value of the specified task custom field.
 
 
 ## Syntax
 
- _expression_. `GetField`( ` _FieldID_` )
+_expression_. `GetField`( `_FieldID_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -83,4 +84,4 @@ Sub TestEnterpriseProjectCF()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

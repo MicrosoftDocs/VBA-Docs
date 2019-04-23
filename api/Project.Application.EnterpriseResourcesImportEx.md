@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResourcesImportEx Method (Project)
+title: Application.EnterpriseResourcesImportEx method (Project)
 keywords: vbapj.chm2090
 f1_keywords:
 - vbapj.chm2090
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EnterpriseResourcesImportEx
 ms.assetid: 58b92ff5-da61-07cc-daca-b56e4270a8a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResourcesImportEx Method (Project)
+# Application.EnterpriseResourcesImportEx method (Project)
 
 Imports local resources to the enterprise resource pool, or starts the  **Resource Import Wizard**.
 
 
 ## Syntax
 
- _expression_. `EnterpriseResourcesImportEx`( ` _LocalRUIDs_`, ` _UseImportColumn_` )
+_expression_. `EnterpriseResourcesImportEx`( `_LocalRUIDs_`, `_UseImportColumn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -46,4 +47,4 @@ Using the  **EnterpriseResourcesImportEx** method with no arguments starts the *
 
 The  **EnterpriseResourcesImportEx** method is available in Project Professional only and requires a connection with Project Server.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

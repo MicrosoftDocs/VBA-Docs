@@ -1,5 +1,5 @@
 ---
-title: Selection.TypeBackspace Method (Word)
+title: Selection.TypeBackspace method (Word)
 keywords: vbawd10.chm158663169
 f1_keywords:
 - vbawd10.chm158663169
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.TypeBackspace
 ms.assetid: 479f2e0e-06d6-cd62-dc3e-09a5fafafbfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.TypeBackspace Method (Word)
+# Selection.TypeBackspace method (Word)
 
 Deletes the character preceding a collapsed selection (an insertion point).
 
 
 ## Syntax
 
- _expression_. `TypeBackspace`
+_expression_. `TypeBackspace`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

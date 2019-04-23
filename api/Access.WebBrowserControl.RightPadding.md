@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.RightPadding
 ms.assetid: ac784983-260e-2ac1-4377-23a7920b038a
-ms.date: 06/08/2017
+ms.date: 02/23/2019
+localization_priority: Normal
 ---
 
 
 # WebBrowserControl.RightPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the control and its right gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `RightPadding`
+_expression_.**RightPadding**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

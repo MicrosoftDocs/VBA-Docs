@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5edb515c-d035-e8a3-8c0b-f2ddc74378fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Undo and Redo an Action in a Text Box or a Combo Box
+# Undo and Redo an Action in a Text Box or a Combo Box
 
 The following example demonstrates how to undo or redo text editing within a  **[TextBox](../../../api/Outlook.textbox.md)** or within the text area of a **[ComboBox](../../../api/Outlook.combobox.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the  **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
 
@@ -64,4 +65,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

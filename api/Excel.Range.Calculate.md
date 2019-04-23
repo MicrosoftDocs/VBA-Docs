@@ -1,5 +1,5 @@
 ---
-title: Range.Calculate Method (Excel)
+title: Range.Calculate method (Excel)
 keywords: vbaxl10.chm144090
 f1_keywords:
 - vbaxl10.chm144090
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Calculate
 ms.assetid: 7c29afda-4980-6992-fc8d-b4caf2f74660
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Calculate Method (Excel)
+# Range.Calculate method (Excel)
 
 Calculates all open workbooks, a specific worksheet in a workbook, or a specified range of cells on a worksheet, as shown in the following table.
 
 
 ## Syntax
 
- _expression_. `Calculate`
+_expression_.**Calculate**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -55,3 +56,4 @@ Worksheets("Sheet1").UsedRange.Columns("A:C").Calculate
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

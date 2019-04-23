@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTableChangeList.Creator
 ms.assetid: e843c050-3fe0-8aaa-85e3-7ca3b925ba8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTableChangeList.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[PivotTableChangeList](Excel.PivotTableChangeList.md)' object.
+_expression_ A variable that represents a '[PivotTableChangeList](Excel.PivotTableChangeList.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceAuto Property (Publisher)
+title: WrapFormat.DistanceAuto property (Publisher)
 keywords: vbapb10.chm786437
 f1_keywords:
 - vbapb10.chm786437
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WrapFormat.DistanceAuto
 ms.assetid: 8b4e6b93-6e68-5c4a-2164-1a88ca0a633e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceAuto Property (Publisher)
+# WrapFormat.DistanceAuto property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether an appropriate distance between an inline shape and any surrounding text is automatically calculated. Read/write.
 
 
 ## Syntax
 
- _expression_. **DistanceAuto**
+_expression_.**DistanceAuto**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 
@@ -34,7 +35,7 @@ The  **DistanceAuto** property value can be one of the **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape's edges are not adjusted depending on the margins of the text box it overlaps.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -55,4 +56,4 @@ Sub SetDistanceAutoProperty()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

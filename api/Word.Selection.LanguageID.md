@@ -1,5 +1,5 @@
 ---
-title: Selection.LanguageID Property (Word)
+title: Selection.LanguageID property (Word)
 keywords: vbawd10.chm158662809
 f1_keywords:
 - vbawd10.chm158662809
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.LanguageID
 ms.assetid: d92be532-99db-8b46-3e64-8a3fca65004e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.LanguageID Property (Word)
+# Selection.LanguageID property (Word)
 
 Returns or sets the language for the specified object. Read/write .
 
 
 ## Syntax
 
- _expression_. `LanguageID`
+_expression_. `LanguageID`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ Some of the constants listed above may not be available to you, depending on the
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

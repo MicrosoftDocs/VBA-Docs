@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.ScrollIntoView Method (PowerPoint)
+title: DocumentWindow.ScrollIntoView method (PowerPoint)
 keywords: vbapp10.chm511029
 f1_keywords:
 - vbapp10.chm511029
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.ScrollIntoView
 ms.assetid: 1eee6b36-9f01-5204-dd75-1172f2e00577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.ScrollIntoView Method (PowerPoint)
+# DocumentWindow.ScrollIntoView method (PowerPoint)
 
 Scrolls the document window so that items within a specified rectangular area are displayed in the document window or pane.
 
 
 ## Syntax
 
- _expression_. `ScrollIntoView`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_Start_` )
+_expression_. `ScrollIntoView`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_Start_` )
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Parameters
@@ -43,14 +44,14 @@ The  _Start_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The bottom right of the rectangle is to appear at the bottom right of the document window.|
-|**msoTrue**|The default. The upper left of the rectangle is to appear at the upper left of the document window.|
+|**msoTrue**|The default. the upper-left of the rectangle is to appear at the upper-left of the document window.|
 
 ## Example
 
-This example brings into view a 100x200 point area beginning 50 points from the left edge of the slide, and 20 points from the upper part of the slide. The upper left corner of the rectangle is positioned at the upper left corner of the active document window.
+This example brings into view a 100x200 point area beginning 50 points from the left edge of the slide, and 20 points from the upper part of the slide. the upper-left corner of the rectangle is positioned at the upper-left corner of the active document window.
 
 
 ```vb
@@ -64,4 +65,4 @@ ActiveWindow.ScrollIntoView Left:=50, Top:=20, _
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

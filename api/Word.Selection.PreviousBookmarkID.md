@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousBookmarkID Property (Word)
+title: Selection.PreviousBookmarkID property (Word)
 keywords: vbawd10.chm158662965
 f1_keywords:
 - vbawd10.chm158662965
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.PreviousBookmarkID
 ms.assetid: 33d7490d-1b48-81a1-a7d5-9154c1d92230
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.PreviousBookmarkID Property (Word)
+# Selection.PreviousBookmarkID property (Word)
 
-Returns the number of the last bookmark that starts before or at the same place as the specified selection or range; returns 0 (zero) if there is no corresponding bookmark. Read-only  **Long** .
+Returns the number of the last bookmark that starts before or at the same place as the specified selection or range; returns 0 (zero) if there is no corresponding bookmark. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `PreviousBookmarkID`
+_expression_. `PreviousBookmarkID`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ If num <> 0 Then ActiveDocument.Content.Bookmarks(num).Select
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

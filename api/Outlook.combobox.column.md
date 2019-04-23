@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f00c388f-fe1f-5458-281f-4bfa549291d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Variant** that represents a single value, a column of value
 
 ## Syntax
 
- _expression_. **Column**(**_pvargColumn_**,  **_pvargIndex_**)
+_expression_.**Column**(**_pvargColumn_**,  **_pvargIndex_**)
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Parameters
@@ -46,4 +47,4 @@ You can also use  **Column** to copy an entire two-dimensional array of values t
 
 When copying data from a two-dimensional array,  **Column** transposes the contents of the array in the control so that the contents of `ComboBox1.Column(X, Y)` is the same as `MyArray(Y, X)`. You can also use the  **[List](Outlook.combobox.list.md)** property to copy an array without transposing it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

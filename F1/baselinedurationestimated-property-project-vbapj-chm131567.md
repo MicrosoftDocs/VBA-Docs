@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bb95cc19-f35a-4e6e-bdf8-45d2fca5e6b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline9StartText Property (Project)](http://msdn.microsoft.com/library/fc4280f5-69b1-627d-a894-c052de3be122%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

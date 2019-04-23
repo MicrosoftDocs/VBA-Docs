@@ -1,14 +1,15 @@
 ---
-title: PjYesNoAutomatic Enumeration (Project)
+title: PjYesNoAutomatic enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjYesNoAutomatic
 ms.assetid: 4ffbee27-56d7-abe1-38fb-288e1716913e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjYesNoAutomatic Enumeration (Project)
+# PjYesNoAutomatic enumeration (Project)
 
 Contains constants that specify Yes, No, or Automatic.
 
@@ -20,3 +21,4 @@ Contains constants that specify Yes, No, or Automatic.
 |**pjNo**|0|No.|
 |**pjYes**|1|Yes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Parent
 ms.assetid: 7133181b-313e-1942-0e68-fc7db67c0ced
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[Worksheet](Excel.Worksheet.md)** object that represents the shee
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Slicer](./Excel.Slicer.md) object.
+_expression_ A variable that represents a [Slicer](Excel.Slicer.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the  **[Worksheet](Excel.Worksheet.md)** object that represents the shee
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

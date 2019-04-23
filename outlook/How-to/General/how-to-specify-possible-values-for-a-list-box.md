@@ -3,10 +3,11 @@ title: "How to: Specify Possible Values for a List Box"
 ms.prod: outlook
 ms.assetid: 25ced223-0a3c-162a-127f-6b2f3ee9c5bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Specify Possible Values for a List Box
+# Specify Possible Values for a List Box
 
 The following example fills a  **[ListBox](../../../api/Outlook.listbox.md)** control with the values "Test1", "Test2", and "Test3" when you open the form.
 
@@ -27,4 +28,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentDate Property (Project)
+title: Project.CurrentDate property (Project)
 keywords: vbapj.chm131699
 f1_keywords:
 - vbapj.chm131699
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.CurrentDate
 ms.assetid: 008da48d-2bc8-f69c-c0d1-1b44a57c1c69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CurrentDate Property (Project)
+# Project.CurrentDate property (Project)
 
 Gets or sets the current date for a project. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CurrentDate`
+_expression_. `CurrentDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -46,4 +47,4 @@ Sub SetCurrentDateToPreviousMonday()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

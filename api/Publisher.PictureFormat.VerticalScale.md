@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.VerticalScale Property (Publisher)
+title: PictureFormat.VerticalScale property (Publisher)
 keywords: vbapb10.chm3604784
 f1_keywords:
 - vbapb10.chm3604784
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.VerticalScale
 ms.assetid: ff83d1bc-798b-5b42-7087-9b45f3ff573d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.VerticalScale Property (Publisher)
+# PictureFormat.VerticalScale property (Publisher)
 
 Returns a  **Long** that represents the scaling of the picture along its vertical axis. The scaling is expressed as a percentage (for example, 200 equals 200 percent scaling). Read-only.
 
 
 ## Syntax
 
- _expression_. **VerticalScale**
+_expression_.**VerticalScale**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -67,4 +68,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

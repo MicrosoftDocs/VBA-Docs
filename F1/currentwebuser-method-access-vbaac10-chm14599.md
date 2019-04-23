@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8330f510-f964-4953-93b7-65aa9d3e7a51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AcWebUserDisplay enumeration (Access)](http://msdn.microsoft.com/library/4723ddf2-ceab-9313-b713-4654a2e83297%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

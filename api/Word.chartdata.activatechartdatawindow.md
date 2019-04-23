@@ -1,22 +1,23 @@
 ---
-title: ChartData.ActivateChartDataWindow Method (Word)
+title: ChartData.ActivateChartDataWindow method (Word)
 keywords: vbawd10.chm190382084
 f1_keywords:
 - vbawd10.chm190382084
 ms.prod: word
 ms.assetid: dd84d89c-4c6f-27be-5e70-7ff209981cd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartData.ActivateChartDataWindow Method (Word)
+# ChartData.ActivateChartDataWindow method (Word)
 
 Opens a Excel data grid window that contains the full source data for the specified chart.
 
 
 ## Syntax
 
- _expression_. `ActivateChartDataWindow`
+_expression_. `ActivateChartDataWindow`
 
  _expression_ A variable that represents a [ChartData](./Word.ChartData.md) object.
 
@@ -47,4 +48,4 @@ Public Sub ActivateChartDataWindow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

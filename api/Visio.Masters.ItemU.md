@@ -1,5 +1,5 @@
 ---
-title: Masters.ItemU Property (Visio)
+title: Masters.ItemU property (Visio)
 keywords: vis_sdr.chm10851980
 f1_keywords:
 - vis_sdr.chm10851980
@@ -8,17 +8,18 @@ api_name:
 - Visio.Masters.ItemU
 ms.assetid: fa4e26a1-21d1-04bf-4fd8-83049cc0a5df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters.ItemU Property (Visio)
+# Masters.ItemU property (Visio)
 
 Returns an object from a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemU`( `_NameUIDOrIndex_` )
+_expression_. `ItemU`( `_NameUIDOrIndex_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
@@ -38,7 +39,7 @@ Master
 
 ## Remarks
 
-You can retrieve an object in an  **Addons** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .
+You can retrieve an object in an  **Addons**, **Hyperlinks**, **Layers**, **Masters**, **MasterShortcuts**, **Pages**, **Shapes**, or **Styles** collection by passing the object's name as a string expression in a **Variant**.
 
 If you retrieve a  **Shape** object by name, the **ItemU** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **ItemU** property can be a shape that is not in the **Shapes** collection.
 
@@ -68,7 +69,7 @@ objRet = vsoShapes.ItemU("*{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 
 ## Example
 
-This Microsoft Visual Basic macro shows how to use the  **ItemU** property of the **Pages** collection to get the **Shapes** collection. Then it uses the **ItemU** property of the **Shapes** collection to print the universal names of all shapes on Page-1 in the Immediate window.
+This Microsoft Visual Basic macro shows how to use the  **ItemU** property of the **Pages** collection to get the **Shapes** collection. It then uses the **ItemU** property of the **Shapes** collection to print the universal names of all shapes on Page-1 in the Immediate window.
 
 To run this macro, make sure the active document has shapes on Page-1.
 
@@ -105,4 +106,4 @@ Public Sub ItemU_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

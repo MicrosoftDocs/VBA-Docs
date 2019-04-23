@@ -1,5 +1,5 @@
 ---
-title: PbPublicationType Enumeration (Publisher)
+title: PbPublicationType enumeration (Publisher)
 keywords: vbapb10.chm65612
 f1_keywords:
 - vbapb10.chm65612
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbPublicationType
 ms.assetid: e759900e-531d-0ec1-583d-ddc961b5e6f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbPublicationType Enumeration (Publisher)
+# PbPublicationType enumeration (Publisher)
 
 Represents the type of the specified publication. 
 
@@ -22,3 +23,4 @@ Represents the type of the specified publication.
 | **pbTypePrint**|1|Print publication|
 | **pbTypeWeb**|2|Web publication|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

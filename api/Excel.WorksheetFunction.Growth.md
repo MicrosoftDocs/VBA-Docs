@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Growth Method (Excel)
+title: WorksheetFunction.Growth method (Excel)
 keywords: vbaxl10.chm137106
 f1_keywords:
 - vbaxl10.chm137106
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Growth
 ms.assetid: ecc3ffcc-9739-860a-60a6-366ef7133a33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Growth Method (Excel)
+# WorksheetFunction.Growth method (Excel)
 
 Calculates predicted exponential growth by using existing data. GROWTH returns the y-values for a series of new x-values that you specify by using existing x-values and y-values. You can also use the GROWTH worksheet function to fit an exponential curve to existing x-values and y-values.
 
 
 ## Syntax
 
- _expression_. `Growth`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Growth`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -78,3 +79,4 @@ Variant
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

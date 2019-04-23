@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Application Property (Publisher)
+title: CalloutFormat.Application property (Publisher)
 keywords: vbapb10.chm2490369
 f1_keywords:
 - vbapb10.chm2490369
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.Application
 ms.assetid: 72ae672f-3234-fbab-274e-6f9d4edcadf1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Application Property (Publisher)
+# CalloutFormat.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

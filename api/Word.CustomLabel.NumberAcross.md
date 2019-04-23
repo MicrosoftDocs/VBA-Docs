@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.NumberAcross Property (Word)
+title: CustomLabel.NumberAcross property (Word)
 keywords: vbawd10.chm152371209
 f1_keywords:
 - vbawd10.chm152371209
@@ -8,17 +8,18 @@ api_name:
 - Word.CustomLabel.NumberAcross
 ms.assetid: 3e4d9751-c33b-1780-1e4c-95f9202f4fe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel.NumberAcross Property (Word)
+# CustomLabel.NumberAcross property (Word)
 
-Returns or sets the number of custom mailing labels across a page. Read/write  **Long** .
+Returns or sets the number of custom mailing labels across a page. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `NumberAcross`
+_expression_. `NumberAcross`
 
  _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

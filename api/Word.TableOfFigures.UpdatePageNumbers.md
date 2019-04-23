@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.UpdatePageNumbers Method (Word)
+title: TableOfFigures.UpdatePageNumbers method (Word)
 keywords: vbawd10.chm153157733
 f1_keywords:
 - vbawd10.chm153157733
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfFigures.UpdatePageNumbers
 ms.assetid: d6817167-916d-81f0-c507-16492819b0f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfFigures.UpdatePageNumbers Method (Word)
+# TableOfFigures.UpdatePageNumbers method (Word)
 
 Updates the page numbers for items in a table of figures.
 
 
 ## Syntax
 
- _expression_. `UpdatePageNumbers`
+_expression_. `UpdatePageNumbers`
 
- _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Example
@@ -42,3 +43,4 @@ Next tofLoop
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

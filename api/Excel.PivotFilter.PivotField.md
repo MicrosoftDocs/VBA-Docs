@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilter.PivotField
 ms.assetid: 70f63d44-e397-f98c-c044-5406a0609ef0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Specifies the PivotField to which the filter is applied. Read-only.
 
 ## Syntax
 
- _expression_. `PivotField`
+_expression_. `PivotField`
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Specifies the PivotField to which the filter is applied. Read-only.
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

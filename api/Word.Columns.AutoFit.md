@@ -1,5 +1,5 @@
 ---
-title: Columns.AutoFit Method (Word)
+title: Columns.AutoFit method (Word)
 keywords: vbawd10.chm155910346
 f1_keywords:
 - vbawd10.chm155910346
@@ -8,19 +8,20 @@ api_name:
 - Word.Columns.AutoFit
 ms.assetid: e6a62b02-56e6-55af-9a01-12665fca3dcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.AutoFit Method (Word)
+# Columns.AutoFit method (Word)
 
 Changes the width of a table column to accommodate the width of the text without changing the way text wraps in the cells.
 
 
 ## Syntax
 
- _expression_. `AutoFit`
+_expression_. `AutoFit`
 
- _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
+_expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## Remarks
@@ -71,3 +72,4 @@ End With
 
 [Columns Collection Object](Word.columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

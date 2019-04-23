@@ -1,5 +1,5 @@
 ---
-title: Application.CustomOutlineCodeEditEx Method (Project)
+title: Application.CustomOutlineCodeEditEx method (Project)
 keywords: vbapj.chm631
 f1_keywords:
 - vbapj.chm631
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomOutlineCodeEditEx
 ms.assetid: fc0f60a6-18bf-a8e6-9376-1222a126a64a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomOutlineCodeEditEx Method (Project)
+# Application.CustomOutlineCodeEditEx method (Project)
 
 Edits a local outline code custom field definition.
 
 
 ## Syntax
 
- _expression_. `CustomOutlineCodeEditEx`( ` _FieldID_`, ` _Level_`, ` _Sequence_`, ` _Length_`, ` _Separator_`, ` _OnlyLookUpTableCodes_`, ` _OnlyCompleteCodes_`, ` _OnlyLeaves_`, ` _MatchGeneric_`, ` _RequiredCode_`, ` _LookupDefault_`, ` _DefaultValue_`, ` _SortOrder_` )
+_expression_. `CustomOutlineCodeEditEx`( `_FieldID_`, `_Level_`, `_Sequence_`, `_Length_`, `_Separator_`, `_OnlyLookUpTableCodes_`, `_OnlyCompleteCodes_`, `_OnlyLeaves_`, `_MatchGeneric_`, `_RequiredCode_`, `_LookupDefault_`, `_DefaultValue_`, `_SortOrder_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -90,4 +91,4 @@ Sub ChangeOCDefaults()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d1ef7ab6-a99d-02ab-61ac-1743b95897f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ There is a limit to the number of disk files that can be open at one time. This 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

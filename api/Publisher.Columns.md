@@ -1,5 +1,5 @@
 ---
-title: Columns Object (Publisher)
+title: Columns object (Publisher)
 keywords: vbapb10.chm5111807
 f1_keywords:
 - vbapb10.chm5111807
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Columns
 ms.assetid: 3fe6ddce-a598-a967-fc89-7296c18a6a55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns Object (Publisher)
+# Columns object (Publisher)
 
 A collection of  **[Column](Publisher.Column.md)** objects that represent the columns in a table.
  
@@ -102,7 +103,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Columns.Add.md)|
 |[Item](Publisher.Columns.Item.md)|
@@ -111,9 +112,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Columns.Application.md)|
 |[Count](Publisher.Columns.Count.md)|
 |[Parent](Publisher.Columns.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

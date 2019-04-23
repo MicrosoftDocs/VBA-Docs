@@ -1,12 +1,13 @@
 ---
-title: HeadersFooters Object (Word)
+title: HeadersFooters object (Word)
 ms.prod: word
 ms.assetid: 41dbbaa7-f139-3d3c-54d4-03a57ab8417a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeadersFooters Object (Word)
+# HeadersFooters object (Word)
 
 A collection of  **[HeaderFooter](Word.HeaderFooter.md)** objects that represent the headers or footers in the specified section of a document.
 
@@ -29,7 +30,7 @@ End With
 
  **Note**  You cannot add  **HeaderFooter** objects to the **HeadersFooters** collection.
 
-Use  **Headers** (Index) or **Footers** (Index), where index is one of the **WdHeaderFooterIndex** constants (**wdHeaderFooterEvenPages** , **wdHeaderFooterFirstPage** , or **wdHeaderFooterPrimary**), to return a single **HeaderFooter** object. The following example changes the text of both the primary header and the primary footer the first section of the active document.
+Use  **Headers** (Index) or **Footers** (Index), where index is one of the **WdHeaderFooterIndex** constants (**wdHeaderFooterEvenPages**, **wdHeaderFooterFirstPage**, or **wdHeaderFooterPrimary**), to return a single **HeaderFooter** object. The following example changes the text of both the primary header and the primary footer the first section of the active document.
 
 
 
@@ -57,7 +58,7 @@ With ActiveDocument
 End With
 ```
 
-Use the  **OddAndEvenPagesHeaderFooter** property with the **PageSetup** object to specify different odd and even page headers and footers. If the **OddAndEvenPagesHeaderFooter** property is **True** , you can return an odd header or footer by using **wdHeaderFooterPrimary** , and you can return an even header or footer by using **wdHeaderFooterEvenPages** .
+Use the  **OddAndEvenPagesHeaderFooter** property with the **PageSetup** object to specify different odd and even page headers and footers. If the **OddAndEvenPagesHeaderFooter** property is **True**, you can return an odd header or footer by using **wdHeaderFooterPrimary**, and you can return an even header or footer by using **wdHeaderFooterEvenPages**.
 
 Use the  **Add** method with the **PageNumbers** object to add a page number to a header or footer. The following example adds page numbers to the first page footer in the first section in the active document.
 
@@ -76,6 +77,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

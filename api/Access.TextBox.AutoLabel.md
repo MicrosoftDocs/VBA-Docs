@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.TextBox.AutoLabel
 ms.assetid: a5e6e68c-eadc-a242-ef83-8b388f6ca41f
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # TextBox.AutoLabel property (Access)
 
-Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
+Specifies whether labels are automatically created and attached to new controls. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AutoLabel`
+_expression_.**AutoLabel**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
-[TextBox Object](Access.TextBox.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

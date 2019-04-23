@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Parent Property (Publisher)
+title: ReaderSpread.Parent property (Publisher)
 keywords: vbapb10.chm524290
 f1_keywords:
 - vbapb10.chm524290
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ReaderSpread.Parent
 ms.assetid: 2c435040-e64e-88bf-b6ce-2df2dc4dc51a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReaderSpread.Parent Property (Publisher)
+# ReaderSpread.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

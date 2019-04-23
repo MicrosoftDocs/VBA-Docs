@@ -5,6 +5,7 @@ api_name:
 - Visio.FollowHyperlink
 ms.assetid: eafbba6d-6429-744a-facd-e3412916a4bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Follows the hyperlink at the specified index in the specified shape in Microsoft
 
 ## Syntax
 
- _expression_. **FollowHyperlink**(**_ShapeIndex_**,  **_HyperlinkIndex_**)
+_expression_.**FollowHyperlink**(**_ShapeIndex_**,  **_HyperlinkIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -48,4 +49,4 @@ The following code follows the hyperlink in the first index position in the coll
 vsoViewer.FollowHyperlink 1, 1
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

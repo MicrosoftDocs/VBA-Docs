@@ -3,6 +3,7 @@ title: Highlight the Active Cell, Row, or Column
 ms.prod: excel
 ms.assetid: 51a30ffb-77f2-4bd7-8eb6-b6781dc55d43
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -74,6 +75,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
+MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

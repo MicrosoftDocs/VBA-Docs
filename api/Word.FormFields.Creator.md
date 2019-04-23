@@ -1,5 +1,5 @@
 ---
-title: FormFields.Creator Property (Word)
+title: FormFields.Creator property (Word)
 keywords: vbawd10.chm153682921
 f1_keywords:
 - vbawd10.chm153682921
@@ -8,19 +8,20 @@ api_name:
 - Word.FormFields.Creator
 ms.assetid: 32fa2979-4542-a1eb-3753-c38c3edffc35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormFields.Creator Property (Word)
+# FormFields.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[FormFields](Word.formfields.md)' collection.
+_expression_ Required. A variable that represents a '[FormFields](Word.formfields.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [FormFields Collection Object](Word.formfields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

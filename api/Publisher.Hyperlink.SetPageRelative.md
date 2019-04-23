@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SetPageRelative Method (Publisher)
+title: Hyperlink.SetPageRelative method (Publisher)
 keywords: vbapb10.chm4587542
 f1_keywords:
 - vbapb10.chm4587542
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlink.SetPageRelative
 ms.assetid: 4b2f2e84-09ce-cef6-6f22-b82642cc71fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.SetPageRelative Method (Publisher)
+# Hyperlink.SetPageRelative method (Publisher)
 
 Sets the target type for the specified hyperlink.
 
 
 ## Syntax
 
- _expression_. **SetPageRelative**(**_RelativePage_**)
+_expression_.**SetPageRelative**(**_RelativePage_**)
 
  _expression_ A variable that represents a  **Hyperlink** object.
 
@@ -100,4 +101,4 @@ Sub SetHyperlinkRelativeTarget()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

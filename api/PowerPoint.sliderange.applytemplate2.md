@@ -1,22 +1,23 @@
 ---
-title: SlideRange.ApplyTemplate2 Method (PowerPoint)
+title: SlideRange.ApplyTemplate2 method (PowerPoint)
 keywords: vbapp10.chm532048
 f1_keywords:
 - vbapp10.chm532048
 ms.assetid: e8d0dcae-d311-a9bd-4cf9-ac171ec15cbb
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# SlideRange.ApplyTemplate2 Method (PowerPoint)
+# SlideRange.ApplyTemplate2 method (PowerPoint)
 
 Applies a design template and theme variant to the slide range.
 
 
 ## Syntax
 
- _expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
+_expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -25,13 +26,13 @@ Applies a design template and theme variant to the slide range.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the name of the design template.|
 | _Variant_|Required|**String**|Specifies the name of the variant to apply.|
-| _FileName_|Required|STRING||
-| _Variant_|Required|STRING||
-| _VariantGUID_|Required|STRING||
+| _FileName_|Required|**String**||
+| _Variant_|Required|**String**||
+| _VariantGUID_|Required|**String**||
 
 ## Return value
 
@@ -68,4 +69,4 @@ Sub ChangeThemeVariant()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

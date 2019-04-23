@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 356d3c98-498e-b5df-993a-ac17ba7c9139
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Cells with values were encountered while attempting to add rows to a Microsoft E
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

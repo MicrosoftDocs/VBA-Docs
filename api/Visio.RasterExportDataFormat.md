@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportDataFormat Property (Visio)
+title: ApplicationSettings.RasterExportDataFormat property (Visio)
 keywords: vis_sdr.chm16262520
 f1_keywords:
 - vis_sdr.chm16262520
@@ -8,17 +8,18 @@ api_name:
 - Visio.RasterExportDataFormat
 ms.assetid: e07c3f2e-469e-33bc-cd6d-0261cf7ec267
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportDataFormat Property (Visio)
+# ApplicationSettings.RasterExportDataFormat property (Visio)
 
-Determines whether the exported raster image is interlaced or non-interlaced when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a GIF or PNG file. Read/write.
+Determines whether the exported raster image is interlaced or non-interlaced when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a GIF or PNG file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportDataFormat`
+_expression_. `RasterExportDataFormat`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
@@ -34,7 +35,7 @@ The value of the  **RasterExportDataFormat** property must be one of the followi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterInterlace**|0|Interlace format, the default.|
 | **visRasterNonInterlace**|1|Non-interlace format.|
@@ -43,4 +44,4 @@ For any given session of Microsoft Visio, when the  **RasterExportDataFormat** p
 
 The setting of the  **RasterExportDataFormat** property corresponds to the **Data format** setting in the **GIF Output Options** or **PNG Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Graphics Interchange Format (*.gif)** or **Portable Network Graphics (*.png)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

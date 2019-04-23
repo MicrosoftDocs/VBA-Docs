@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntries.Add Method (Word)
+title: AutoTextEntries.Add method (Word)
 keywords: vbawd10.chm154599525
 f1_keywords:
 - vbawd10.chm154599525
@@ -8,19 +8,20 @@ api_name:
 - Word.AutoTextEntries.Add
 ms.assetid: 7ffa87f9-a23c-1847-3907-84c95f2b7f73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoTextEntries.Add Method (Word)
+# AutoTextEntries.Add method (Word)
 
 Returns an  **AutoTextEntry** object that represents an AutoText entry added to the list of available AutoText entries.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Range_` )
+_expression_.**Add**( `_Name_` , `_Range_` )
 
- _expression_ Required. A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
+_expression_ Required. A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ End Sub
 
 [AutoTextEntries Collection Object](Word.autotextentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

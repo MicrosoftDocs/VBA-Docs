@@ -1,14 +1,15 @@
 ---
-title: PjOverallocationType Enumeration (Project)
+title: PjOverallocationType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjOverallocationType
 ms.assetid: b2eaea51-6884-194c-9a68-75669fcc8283
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjOverallocationType Enumeration (Project)
+# PjOverallocationType enumeration (Project)
 
 Contains constants that specify the type of resource overallocation.
 
@@ -21,3 +22,4 @@ Contains constants that specify the type of resource overallocation.
 |**pjOverallocationTypeWorkingInNonWorkingTime**|2|The resource is allocated in nonworking time.|
 |**pjOverallocationTypeWorkingOnOtherTasks**|3|The resource is working on other tasks.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

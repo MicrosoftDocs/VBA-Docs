@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (PowerPoint)
+title: Application.Path property (PowerPoint)
 keywords: vbapp10.chm502008
 f1_keywords:
 - vbapp10.chm502008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.Path
 ms.assetid: aae10b96-e0e4-d055-f398-d26f4cab572d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Path Property (PowerPoint)
+# Application.Path property (PowerPoint)
 
 Returns a  **String** that represents the path to the specified **[Application](PowerPoint.Application.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -54,3 +55,4 @@ End With
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

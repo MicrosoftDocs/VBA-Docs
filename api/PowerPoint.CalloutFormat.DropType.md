@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (PowerPoint)
+title: CalloutFormat.DropType property (PowerPoint)
 keywords: vbapp10.chm559012
 f1_keywords:
 - vbapp10.chm559012
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CalloutFormat.DropType
 ms.assetid: 993a7cb5-afc6-0683-d8f1-5b71633f07bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.DropType Property (PowerPoint)
+# CalloutFormat.DropType property (PowerPoint)
 
 Returns a value that indicates where the callout line attaches to the callout text box. Read-only.
 
 
 ## Syntax
 
- _expression_. `DropType`
+_expression_.**DropType**
 
- _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value
@@ -47,7 +48,7 @@ The value returned by the  **DropType** property can be one of these **MsoCallou
 
 ## Example
 
-This example checks to determine whether shape three on  `myDocument` is a callout with a custom drop. If it is, the code replaces the custom drop with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box.
+This example checks to determine whether shape three on  _myDocument_ is a callout with a custom drop. If it is, the code replaces the custom drop with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box.
 
 
 ```vb
@@ -86,3 +87,4 @@ End With
 
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.ToY Property (PowerPoint)
+title: MotionEffect.ToY property (PowerPoint)
 keywords: vbapp10.chm658008
 f1_keywords:
 - vbapp10.chm658008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect.ToY
 ms.assetid: e6f7a6ca-0eca-4698-512e-2e0339513bc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect.ToY Property (PowerPoint)
+# MotionEffect.ToY property (PowerPoint)
 
 Returns or sets a  **Single** that represents the vertical position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `ToY`
+_expression_. `ToY`
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
@@ -76,3 +77,4 @@ End Sub
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

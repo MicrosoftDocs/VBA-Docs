@@ -1,5 +1,5 @@
 ---
-title: UserPermission.UserId Property (Office)
+title: UserPermission.UserId property (Office)
 keywords: vbaof11.chm260001
 f1_keywords:
 - vbaof11.chm260001
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.UserPermission.UserId
 ms.assetid: 63c7f01b-3b41-6245-7d3f-5c6440703ccf
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# UserPermission.UserId Property (Office)
+# UserPermission.UserId property (Office)
 
-Gets the e-mail name of the user whose permissions on the active document are determined by the specified  **[UserPermission](Office.UserPermission.md)** object. Read-only.
+Gets the email name of the user whose permissions on the active document are determined by the specified **UserPermission** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `UserId`
+_expression_.**UserId**
 
- _expression_ A variable that represents a [UserPermission](./Office.UserPermission.md) object.
+_expression_ A variable that represents a **[UserPermission](Office.UserPermission.md)** object.
 
 
 ## Remarks
 
-The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **UserID** property returns the name in e-mail form of the user whose permissions are determined by the specified **UserPermission** object.
+The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **UserID** property returns the name in email form of the user whose permissions are determined by the specified **UserPermission** object.
 
 
 ## Example
@@ -56,10 +57,7 @@ The following example lists the users who have permissions on the active documen
 
 ## See also
 
-
-[UserPermission Object](Office.UserPermission.md)
-
+- [UserPermission object members](overview/Library-Reference/userpermission-members-office.md)
 
 
-[UserPermission Object Members](./overview/Library-Reference/userpermission-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

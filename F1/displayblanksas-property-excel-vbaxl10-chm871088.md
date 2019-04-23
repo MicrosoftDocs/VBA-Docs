@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6e9552f1-f0fd-4e0d-94bc-1ffffd21eb2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [SparklineGroup.DisplayBlankAs property (Excel)](http://msdn.microsoft.com/library/5f2157dc-3615-1a6c-f391-922974f862e6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,28 +7,29 @@ ms.prod: excel
 api_name:
 - Excel.AddIns.Add
 ms.assetid: 7e4f100d-6ea1-94e4-83d3-fda63a7815e1
-ms.date: 06/08/2017
+ms.date: 04/03/2019
+localization_priority: Normal
 ---
 
 
 # AddIns.Add method (Excel)
 
-Adds a new add-in file to the list of add-ins. Returns an **[AddIn](Excel.AddIn.md)** object.
+Adds a new add-in file to the list of add-ins. Returns an **[AddIn](Excel.AddIn.md)** object. 
 
 
 ## Syntax
 
-_expression_. `Add`( _FileName_ , _CopyFile_ )
+_expression_.**Add** (_FileName_, _CopyFile_)
 
-_expression_ A variable that represents an [AddIns](Excel.AddIns.md) object.
+_expression_ A variable that represents an **[AddIns](Excel.AddIns.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the file that contains the add-in or the ProgID of the automation add-in that you want to add to the list in the add-in manager.|
-| _CopyFile_|Optional| **Variant**|Ignored if the add-in file is on a hard disk. **True** to copy the add-in to your hard disk, if the add-in is on a removable medium (a floppy disk or compact disc). **False** to have the add-in remain on the removable medium. If this argument is omitted, Microsoft Excel displays a dialog box and asks you to choose.|
+| _FileName_|Required| **String**|The name of the file that contains the add-in or the ProgID of the automation add-in that you want to add to the list in the add-in manager.|
+| _CopyFile_|Optional| **Variant**|Ignored if the add-in file is on a hard disk. **True** to copy the add-in to your hard disk, if the add-in is on a removable medium (such as a compact disc). **False** to have the add-in remain on the removable medium. If this argument is omitted, Microsoft Excel displays a dialog box and asks you to choose.|
 
 ## Return value
 
@@ -44,7 +45,6 @@ This method does not install the new add-in. You must set the **[Installed](Exce
 
 This example inserts the add-in Myaddin.xla from drive A. When you run this example, Microsoft Excel copies the file A:\Myaddin.xla to the Library folder on your hard disk and adds the add-in title to the list in the **Add-Ins** dialog box.
 
-
 ```vb
 Sub UseAddIn() 
  
@@ -56,7 +56,6 @@ End Sub
 ```
 
 
-## See also
 
-- [AddIns collection](Excel.AddIns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

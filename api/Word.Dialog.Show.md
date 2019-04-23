@@ -1,5 +1,5 @@
 ---
-title: Dialog.Show Method (Word)
+title: Dialog.Show method (Word)
 keywords: vbawd10.chm163053904
 f1_keywords:
 - vbawd10.chm163053904
@@ -8,19 +8,20 @@ api_name:
 - Word.Dialog.Show
 ms.assetid: 6b236493-342d-934b-f360-00b7846789e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dialog.Show Method (Word)
+# Dialog.Show method (Word)
 
 Displays and carries out actions initiated in the specified built-in Word dialog box. Returns a  **Long** that indicates which button was clicked to close the dialog box.
 
 
 ## Syntax
 
- _expression_. `Show`( `_TimeOut_` )
+_expression_.**Show**( `_TimeOut_` )
 
- _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
+_expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## Parameters
@@ -88,3 +89,4 @@ Dialogs(wdDialogViewZoom).Show TimeOut:=9000
 
 [Dialog Object](Word.Dialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.WorkbookConnection
 ms.assetid: cb4de0b8-6706-f1e3-4e2d-42b38b93c601
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Establishes a connection between the current workbook and the  **PivotCache** ob
 
 ## Syntax
 
- _expression_. `WorkbookConnection`
+_expression_. `WorkbookConnection`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **WorkbookConnection** object represents a connection to an external data s
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.ComboBox.GridlineThemeColorIndex
 ms.assetid: 5ff8140e-4c6a-b719-3fe5-a9a64bb04771
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # ComboBox.GridlineThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **GridlineColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **[GridlineColor](access.ComboBox.gridlinecolor.md)** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `GridlineThemeColorIndex`
+_expression_.**GridlineThemeColorIndex**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
-The  **GridlineThemeColorIndex** property uses one of the values listed in the following table.
+The **GridlineThemeColorIndex** property uses one of the values listed in the following table.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0 |Text 1|
 |1 (Default)|Background 1|
@@ -44,13 +43,11 @@ The  **GridlineThemeColorIndex** property uses one of the values listed in the f
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **GridlineThemeColorIndex** property contains -1.
+If no theme is applied, the **GridlineThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet. 
 
 
-## See also
 
 
-[ComboBox Object](Access.ComboBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

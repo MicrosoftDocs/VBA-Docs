@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEObject.ZOrder
 ms.assetid: dd7c2c81-6582-5de9-d254-66061d4345ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEObject.ZOrder property (Excel)
 
-Returns the z-order position of the object. Read-only  **Long** .
+Returns the z-order position of the object. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `ZOrder`
+_expression_.**ZOrder**
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ MsgBox "The chart's z-order position is " & _
 
 [OLEObject Object](Excel.OLEObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

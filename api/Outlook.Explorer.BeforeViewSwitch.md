@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeViewSwitch Event (Outlook)
+title: Explorer.BeforeViewSwitch event (Outlook)
 keywords: vbaol11.chm453
 f1_keywords:
 - vbaol11.chm453
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeViewSwitch
 ms.assetid: 5b7ac070-ba4d-6fa8-94e5-20370efe7343
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeViewSwitch Event (Outlook)
+# Explorer.BeforeViewSwitch event (Outlook)
 
 Occurs before the explorer changes to a new view, either as a result of user action or through program code. 
 
 
 ## Syntax
 
- _expression_. `BeforeViewSwitch`( `_NewView_` , `_Cancel_` )
+_expression_. `BeforeViewSwitch`( `_NewView_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Occurs before the explorer changes to a new view, either as a result of user act
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewView_|Required| **Variant**|The name of the view the explorer is switching to.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the switch is cancelled and the current view is not changed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the switch is cancelled and the current view is not changed.|
 
 ## Remarks
 
@@ -74,3 +75,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

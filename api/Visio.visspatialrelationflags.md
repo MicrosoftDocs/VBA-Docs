@@ -1,21 +1,22 @@
 ---
-title: VisSpatialRelationFlags Enumeration (Visio)
+title: VisSpatialRelationFlags enumeration (Visio)
 keywords: vis_sdr.chm70230
 f1_keywords:
 - vis_sdr.chm70230
 ms.prod: visio
 ms.assetid: 38e44579-2e2c-cdb9-524b-e2b864901c13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisSpatialRelationFlags Enumeration (Visio)
+# VisSpatialRelationFlags enumeration (Visio)
 
-Flags passed to various properties of the  **Shape** object, including the **DistanceFrom** , **DistanceFromPoint** , **SpatialNeighbors** , **SpatialRelation** , and **SpatialSearch** properties.
+Flags passed to various properties of the  **Shape** object, including the **DistanceFrom**, **DistanceFromPoint**, **SpatialNeighbors**, **SpatialRelation**, and **SpatialSearch** properties.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSpatialBackToFront**|&H8|Order items back to front.|
 | **visSpatialFrontToBack**|&H4|Order items front to back.|
@@ -25,3 +26,4 @@ Flags passed to various properties of the  **Shape** object, including the **Dis
 | **visSpatialIncludeGuides**|&H2|Consider a guide's Geometry section. By default, guides do not influence the result.|
 | **visSpatialIncludeHidden**|&H10|Consider hidden Geometry sections. By default, hidden Geometry sections do not influence the result.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

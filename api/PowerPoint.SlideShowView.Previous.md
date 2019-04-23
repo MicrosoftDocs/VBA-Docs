@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Previous Method (PowerPoint)
+title: SlideShowView.Previous method (PowerPoint)
 keywords: vbapp10.chm513020
 f1_keywords:
 - vbapp10.chm513020
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.Previous
 ms.assetid: a53741b0-8325-696c-51e5-ffd3f9358ca8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.Previous Method (PowerPoint)
+# SlideShowView.Previous method (PowerPoint)
 
 Shows the slide immediately preceding the slide that's currently displayed. 
 
 
 ## Syntax
 
- _expression_. `Previous`
+_expression_.**Previous**
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -43,3 +44,4 @@ SlideShowWindows(1).View.Previous
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

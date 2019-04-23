@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Section.Paint
 ms.assetid: f68d981d-8371-cf0d-9da4-063aaa0f0907
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
@@ -18,20 +19,14 @@ Occurs when the specified section is redrawn.
 
 ## Syntax
 
-_expression_. `Paint`
+_expression_.**Paint**
 
-_expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a **[Section](Access.Section.md)** object.
 
 
 ## Example
 
-The following example shows how to set the  **BackColor** property of a control based on its value.
-
- **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
-
-
-
-
+The following example shows how to set the **BackColor** property of a control based on its value.
 
 ```vb
 Private Sub SetControlFormatting()
@@ -61,14 +56,6 @@ End Sub
 ```
 
 
-### About the contributors
-
-Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
-## See also
-
-
-[Section Object](Access.Section.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetException Object (Word)
+title: HangulAndAlphabetException object (Word)
 keywords: vbawd10.chm2514
 f1_keywords:
 - vbawd10.chm2514
@@ -8,10 +8,11 @@ api_name:
 - Word.HangulAndAlphabetException
 ms.assetid: f383505b-1f98-117c-e170-606403ad1508
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HangulAndAlphabetException Object (Word)
+# HangulAndAlphabetException object (Word)
 
 Represents a single Hangul or alphabet AutoCorrect exception. The  **HangulAndAlphabetException** object is a member of the **HangulAndAlphabetExceptions** collection.
 
@@ -34,7 +35,7 @@ The index number represents the position of the Hangul or alphabet AutoCorrect e
 MsgBox AutoCorrect.HangulAndAlphabetExceptions(1).Name
 ```
 
-If the value of the  **HangulAndAlphabetAutoAdd** property is **True** , words are automatically added to the list of Hangul and alphabet AutoCorrect exceptions. Use the **Add** method to add an item to the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection. The following example adds "goodbye" to the list of alphabet AutoCorrect exceptions.
+If the value of the  **HangulAndAlphabetAutoAdd** property is **True**, words are automatically added to the list of Hangul and alphabet AutoCorrect exceptions. Use the **Add** method to add an item to the **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection. The following example adds "goodbye" to the list of alphabet AutoCorrect exceptions.
 
 
 
@@ -51,5 +52,6 @@ AutoCorrect.HangulAndAlphabetExceptions.Add Name:="goodbye"
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

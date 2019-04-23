@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e3a44dc4-7d01-4cc8-8230-562573e57c97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.LoadWebPane Event (Project)](http://msdn.microsoft.com/library/b9fefabb-3d0b-9aa7-6d3b-b8fd8000571d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

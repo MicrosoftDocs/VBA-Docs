@@ -1,5 +1,5 @@
 ---
-title: MailMerge.OpenDataSource Method (Word)
+title: MailMerge.OpenDataSource method (Word)
 keywords: vbawd10.chm153092208
 f1_keywords:
 - vbawd10.chm153092208
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.OpenDataSource
 ms.assetid: fea43151-bb56-34ad-090c-24d9e47aeaac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.OpenDataSource Method (Word)
+# MailMerge.OpenDataSource method (Word)
 
 Attaches a data source to the specified document, which becomes a main document if it is not one already.
 
 
 ## Syntax
 
- _expression_. `OpenDataSource`( `_Name_` , `_Format_` , `_ConfirmConversions_` , `_ReadOnly_` , `_LinkToSource_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Connection_` , `_SQLStatement_` , `_SQLStatement1_` , `_OpenExclusive_` , `_SubType_` )
+_expression_. `OpenDataSource`( `_Name_` , `_Format_` , `_ConfirmConversions_` , `_ReadOnly_` , `_LinkToSource_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Connection_` , `_SQLStatement_` , `_SQLStatement1_` , `_OpenExclusive_` , `_SubType_` )
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Parameters
@@ -150,3 +151,4 @@ End With
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

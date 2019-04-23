@@ -1,5 +1,5 @@
 ---
-title: Borders.OutsideColorIndex Property (Word)
+title: Borders.OutsideColorIndex property (Word)
 keywords: vbawd10.chm154927115
 f1_keywords:
 - vbawd10.chm154927115
@@ -8,24 +8,25 @@ api_name:
 - Word.Borders.OutsideColorIndex
 ms.assetid: e9d0a00d-d2c0-1a97-a484-e6da2ecef60a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.OutsideColorIndex Property (Word)
+# Borders.OutsideColorIndex property (Word)
 
-Returns or sets the color of the outside borders. Read/write  **WdColorIndex** .
+Returns or sets the color of the outside borders. Read/write  **WdColorIndex**.
 
 
 ## Syntax
 
- _expression_. `OutsideColorIndex`
+_expression_. `OutsideColorIndex`
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Remarks
 
-If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
+If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
 
 
 ## Example
@@ -63,3 +64,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

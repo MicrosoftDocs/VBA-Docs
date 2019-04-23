@@ -1,5 +1,5 @@
 ---
-title: OlkLabel Object (Outlook)
+title: OlkLabel object (Outlook)
 keywords: vbaol11.chm1000107
 f1_keywords:
 - vbaol11.chm1000107
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkLabel
 ms.assetid: 52e5bbb2-4b22-f308-d5d4-1a1eafad2f48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkLabel Object (Outlook)
+# OlkLabel object (Outlook)
 
 The basic label control, used for displaying text for read-only purposes.
 
@@ -36,7 +37,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Outlook.OlkLabel.Click.md)|
 |[DoubleClick](Outlook.OlkLabel.DoubleClick.md)|
@@ -48,7 +49,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accelerator](Outlook.OlkLabel.Accelerator.md)|
 |[AutoSize](Outlook.OlkLabel.AutoSize.md)|
@@ -68,4 +69,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

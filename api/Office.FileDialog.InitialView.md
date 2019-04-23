@@ -1,5 +1,5 @@
 ---
-title: FileDialog.InitialView Property (Office)
+title: FileDialog.InitialView property (Office)
 keywords: vbaof11.chm256007
 f1_keywords:
 - vbaof11.chm256007
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.FileDialog.InitialView
 ms.assetid: 17950503-6511-8159-7f9f-406dd22e4fca
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialog.InitialView Property (Office)
+# FileDialog.InitialView property (Office)
 
-Gets or sets an  **MsoFileDialogView** constant representing the initial presentation of files and folders in a file dialog box. Read/write.
+Gets or sets an **[MsoFileDialogView](office.msofiledialogview.md)** constant representing the initial presentation of files and folders in a file dialog box. Read/write.
 
 
 ## Syntax
 
- _expression_. `InitialView`
+_expression_.**InitialView**
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+_expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box in details view using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box in details view by using the **FileDialog** object, and displays each selected file in a message box.
 
 
 ```vb
@@ -76,10 +77,6 @@ End Sub
 
 ## See also
 
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

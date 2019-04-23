@@ -3,6 +3,7 @@ title: Difference between a Field and a Column
 ms.prod: outlook
 ms.assetid: 726f6b83-02cf-e32c-b4c4-eb87357fe18b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,5 +16,5 @@ For more information, see the following topics:
 -  [How to: Create a Combination Field for a Folder](../Specifying-Form-Behavior/create-a-combination-field-for-a-folder.md)
     
 -  [How to: Create a Formula Field for a Folder](../Specifying-Form-Behavior/create-a-formula-field-for-a-folder.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

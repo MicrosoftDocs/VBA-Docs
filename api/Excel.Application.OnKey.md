@@ -1,5 +1,5 @@
 ---
-title: Application.OnKey Method (Excel)
+title: Application.OnKey method (Excel)
 keywords: vbaxl10.chm133180
 f1_keywords:
 - vbaxl10.chm133180
@@ -7,40 +7,37 @@ ms.prod: excel
 api_name:
 - Excel.Application.OnKey
 ms.assetid: 43662d8b-19e2-2b4a-4c3a-c64be4007643
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
-# Application.OnKey Method (Excel)
+# Application.OnKey method (Excel)
 
 Runs a specified procedure when a particular key or key combination is pressed.
 
 
 ## Syntax
 
- _expression_. `OnKey`( `_Key_` , `_Procedure_` )
+_expression_.**OnKey** (_Key_, _Procedure_)
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key_|Required| **String**|A string indicating the key to be pressed.|
-| _Procedure_|Optional| **Variant**|A string indicating the name of the procedure to be run. If  _Procedure_ is "" (empty text), nothing happens when _Key_ is pressed. This form of **OnKey** changes the normal result of keystrokes in Microsoft Excel. If _Procedure_ is omitted, _Key_ reverts to its normal result in Microsoft Excel, and any special key assignments made with previous **OnKey** methods are cleared.|
+| _Procedure_|Optional| **Variant**|A string indicating the name of the procedure to be run. If _Procedure_ is "" (empty text), nothing happens when _Key_ is pressed. This form of **OnKey** changes the normal result of keystrokes in Microsoft Excel.<br/><br/>If _Procedure_ is omitted, _Key_ reverts to its normal result in Microsoft Excel, and any special key assignments made with previous **OnKey** methods are cleared.|
 
 ## Remarks
 
-The  _Key_ argument can specify any single key combined with ALT, CTRL, or SHIFT, or any combination of these keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the ENTER key.
+The _Key_ argument can specify any single key combined with Alt, Ctrl, or Shift, or any combination of these keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the Enter key.
 
-To specify characters that aren't displayed when you press the corresponding key (for example: ENTER or TAB), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
+To specify characters that aren't displayed when you press the corresponding key (for example: Enter or Tab), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
 
-
-
-|**Key**|**Code**|
+|Key|Code|
 |:-----|:-----|
 |BACKSPACE| `{BACKSPACE}` or `{BS}`|
 |BREAK| `{BREAK}`|
@@ -66,50 +63,45 @@ To specify characters that aren't displayed when you press the corresponding key
 |UP ARROW| `{UP}`|
 |F1 through F15| `{F1}` through `{F15}`|
 
-You can also specify keys combined with SHIFT and/or CTRL and/or ALT. To specify a key combined with another key or keys, use the following table.
+<br/>
 
+You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify a key combined with another key or keys, use the following table.
 
-
-|**To combine keys with**|**Precede the key code by**|
+|To combine keys with|Precede the key code by|
 |:-----|:-----|
-|SHIFT| `+` (plus sign)|
-|CTRL| `^` (caret)|
-|ALT| `%` (percent sign)|
+|Shift| `+` (plus sign)|
+|Ctrl| `^` (caret)|
+|Alt| `%` (percent sign)|
 
 To assign a procedure to one of the special characters (+, ^, %, and so on), enclose the character in braces. For details, see the example.
 
 
 ## Example
 
-This example assigns "InsertProc" to the key sequence CTRL+PLUS SIGN and assigns "SpecialPrintProc" to the key sequence SHIFT+CTRL+RIGHT ARROW.
-
+This example assigns InsertProc to the key sequence Ctrl+Plus Sign, and assigns SpecialPrintProc to the key sequence Shift+Ctrl+Right Arrow.
 
 ```vb
 Application.OnKey "^{+}", "InsertProc" 
 Application.OnKey "+^{RIGHT}", "SpecialPrintProc"
 ```
 
-This example returns SHIFT+CTRL+RIGHT ARROW to its normal meaning.
+<br/>
 
-
-
+This example returns Shift+Ctrl+Right Arrow to its normal meaning.
 
 ```vb
 Application.OnKey "+^{RIGHT}"
 ```
 
-This example disables the SHIFT+CTRL+RIGHT ARROW key sequence.
+<br/>
 
-
-
+This example disables the Shift+Ctrl+Right Arrow key sequence.
 
 ```vb
 Application.OnKey "+^{RIGHT}", ""
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

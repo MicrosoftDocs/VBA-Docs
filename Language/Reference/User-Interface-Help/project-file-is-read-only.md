@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bd6f01ea-47c0-a867-8f53-6b5707df0bd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The [project](../../Glossary/vbe-glossary.md#project) file is not writable. To change it, you must save it under a different name or remove the read-only attribute.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Returning Text from a Document
 ms.prod: word
 ms.assetid: bacf3de8-ae60-2f27-fa28-e53518e04be2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -63,4 +64,4 @@ Sub ShowFirstBookmark()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

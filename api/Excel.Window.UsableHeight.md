@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.UsableHeight
 ms.assetid: e1cbcaa1-779a-1757-0a95-9e53e374ef7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.UsableHeight property (Excel)
 
-Returns the maximum height of the space that a window can occupy in the application window area, in points. Read-only  **Double** .
+Returns the maximum height of the space that a window can occupy in the application window area, in points. Read-only  **Double**.
 
 
 ## Syntax
 
- _expression_. `UsableHeight`
+_expression_. `UsableHeight`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End With
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

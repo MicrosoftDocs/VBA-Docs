@@ -1,14 +1,15 @@
 ---
-title: xlDataLabelPosition Enumeration (PowerPoint)
+title: XlDataLabelPosition enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDataLabelPosition
 ms.assetid: 642e24a4-614b-a489-1ea3-6cec3e9e30a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDataLabelPosition Enumeration (PowerPoint)
+# XlDataLabelPosition enumeration (PowerPoint)
 
 Specifies where the data label is positioned.
 
@@ -28,3 +29,4 @@ Specifies where the data label is positioned.
 |**xlLabelPositionOutsideEnd**|2|The data label is positioned outside the data point at the top edge.|
 |**xlLabelPositionRight**|-4152|The data label is positioned to the right of the data point.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

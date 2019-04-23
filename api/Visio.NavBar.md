@@ -5,6 +5,7 @@ api_name:
 - Visio.NavBar
 ms.assetid: 5a3245df-d0b6-40c6-5ed9-6d7700e835c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether the  **Go to Page** navigation control is displayed in a Web 
 
 ## Syntax
 
- _expression_. **NavBar**
+_expression_.**NavBar**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -37,5 +38,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio.Sa
 
 
 -  **Microsoft.Office.Interop.Visio.SaveAsWeb.IVisWebPageSettings.NavBar**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

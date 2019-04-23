@@ -3,6 +3,7 @@ title: Excel performance - Improving calculation performance
 description: Discover how to improve workbook performance by focusing on calculation improvements in Excel 2016.
 ms.date: 10/06/2017 
 author: FastExcel
+localization_priority: Priority
 ---
 
 # Excel performance: Improving calculation performance
@@ -507,10 +508,10 @@ The better use you make of smart recalculation and multithreaded calculation in 
   - CUBEKPIMEMBER
   - CUBESETCOUNT
   - ADDRESS where the fifth parameter (the sheet_name) is given
-  - Any database function (DSUM, DAVERAGE, and so on) that refers to a pivot table
+  - Any database function (DSUM, DAVERAGE, and so on) that refers to a PivotTable
   - ERROR.TYPE
   - HYPERLINK
-  - VBA and COM add-in user defined functions
+  - VBA and COM add-in user-defined functions
 
 - Avoid iterative use of data tables and circular references: both of these always calculate single-threaded.
 
@@ -655,6 +656,5 @@ By using a straightforward set of techniques, you can speed up most slow-calcula
 -  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)      
 -  [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)    
 -  [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
-    
-    
-  
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

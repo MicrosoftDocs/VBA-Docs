@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4d49aba3-6cbb-d553-1478-62f549a7f109
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Each object specifies the maximum number of simultaneous recipients to which it 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

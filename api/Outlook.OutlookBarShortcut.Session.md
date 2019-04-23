@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcut.Session Property (Outlook)
+title: OutlookBarShortcut.Session property (Outlook)
 keywords: vbaol11.chm340
 f1_keywords:
 - vbaol11.chm340
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarShortcut.Session
 ms.assetid: aee32453-1650-1d28-10ae-a125fa4c4394
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarShortcut.Session Property (Outlook)
+# OutlookBarShortcut.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
+_expression_ A variable that represents an [OutlookBarShortcut](Outlook.OutlookBarShortcut.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

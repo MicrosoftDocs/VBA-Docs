@@ -1,28 +1,29 @@
 ---
-title: TextFrame2.VerticalAnchor Property (Office)
+title: TextFrame2.VerticalAnchor property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.VerticalAnchor
 ms.assetid: b61506d6-05d9-84af-dd1c-3e7ebd2ea92b
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextFrame2.VerticalAnchor Property (Office)
+# TextFrame2.VerticalAnchor property (Office)
 
-Returns or sets the vertical alignment of text in a text frame. Read/write
+Returns or sets the vertical alignment of text in a text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_.**VerticalAnchor**
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+_expression_ An expression that returns a **[TextFrame2](Office.TextFrame2.md)** object.
 
 
 ## Remarks
 
-The value of the VerticalAnchor property can be one of these MsoVerticalAnchor constants.
+The value of the **VerticalAnchor** property can be one of the **[MsoVerticalAnchor](office.msoverticalanchor.md)** constants.
 
 
 ## Example
@@ -40,10 +41,8 @@ End With
 
 ## See also
 
-
-[TextFrame2 Object](Office.TextFrame2.md)
-
+- [TextFrame2 object members](overview/Library-Reference/textframe2-members-office.md)
 
 
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

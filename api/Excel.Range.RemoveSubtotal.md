@@ -1,5 +1,5 @@
 ---
-title: Range.RemoveSubtotal Method (Excel)
+title: Range.RemoveSubtotal method (Excel)
 keywords: vbaxl10.chm144185
 f1_keywords:
 - vbaxl10.chm144185
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.RemoveSubtotal
 ms.assetid: ec1fd131-551d-009f-1eea-033d805bb34d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.RemoveSubtotal Method (Excel)
+# Range.RemoveSubtotal method (Excel)
 
 Removes subtotals from a list.
 
 
 ## Syntax
 
- _expression_. `RemoveSubtotal`
+_expression_. `RemoveSubtotal`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Range("A1:G37").RemoveSubtotal
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

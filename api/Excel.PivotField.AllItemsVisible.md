@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.AllItemsVisible
 ms.assetid: 8e821b17-d9e9-5c39-c087-3e9dd7bf3922
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Used to retrieve a Boolean value that indicates whether or not any manual filter
 
 ## Syntax
 
- _expression_. `AllItemsVisible`
+_expression_. `AllItemsVisible`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -31,9 +32,9 @@ For OLAP PivotTables, this property is available only for the  **CubeField** obj
 
 For PivotTables, this property is available for the  **PivotField** object.
 
-The default value is  **True** . This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**).
+The default value is  **True**. This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**).
 
-This property directly reflects the state of the  **Select All** check box in the filter drop-down lislt for the PivotField or CubeField.
+This property directly reflects the state of the  **Select All** check box in the filter drop-down list for the PivotField or CubeField.
 
 
 ## See also
@@ -41,3 +42,4 @@ This property directly reflects the state of the  **Select All** check box in th
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,6 +4,7 @@ ms.prod: visio
 ms.assetid: 2a5387ae-5c35-4679-9cc3-61f1887a1708
 ROBOTS: NOINDEX
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,5 +40,5 @@ ms.date: 06/08/2017
 -  [Viewer.ZoomToPoint Method (Visio Viewer)](../../api/Visio.ZoomToPoint.md)
     
 -  [Viewer.ZoomToRect Method (Visio Viewer)](../../api/Visio.ZoomToRect.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

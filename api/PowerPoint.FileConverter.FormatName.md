@@ -1,5 +1,5 @@
 ---
-title: FileConverter.FormatName Property (PowerPoint)
+title: FileConverter.FormatName property (PowerPoint)
 keywords: vbapp10.chm680007
 f1_keywords:
 - vbapp10.chm680007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FileConverter.FormatName
 ms.assetid: 50d92230-05a5-7dc1-115c-0e32ba0a76f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.FormatName Property (PowerPoint)
+# FileConverter.FormatName property (PowerPoint)
 
 Returns the name of the specified file converter. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FormatName`
+_expression_. `FormatName`
 
  _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 
@@ -81,3 +82,4 @@ Next fcLoop
 
 [FileConverter Object](PowerPoint.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

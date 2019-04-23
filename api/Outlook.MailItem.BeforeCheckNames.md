@@ -1,23 +1,24 @@
 ---
-title: MailItem.BeforeCheckNames Event (Outlook)
+title: MailItem.BeforeCheckNames event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeCheckNames
 ms.assetid: fac2b9c3-e662-d2d7-7b30-cd912b9ca891
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.BeforeCheckNames Event (Outlook)
+# MailItem.BeforeCheckNames event (Outlook)
 
 Occurs just before Microsoft Outlook starts resolving names in the recipient collection for an item (which is an instance of the parent object).
 
 
 ## Syntax
 
- _expression_. `BeforeCheckNames`( `_Cancel_` )
+_expression_. `BeforeCheckNames`( `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -26,11 +27,11 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the name resolution process is not completed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the name resolution process is not completed.|
 
 ## Remarks
 
-You use the  **BeforeCheckNames** event in VBScript, but the event does not fire when an e-mail name is resolved on the form.
+You use the  **BeforeCheckNames** event in VBScript, but the event does not fire when an email name is resolved on the form.
 
 The event does not fire under the following circumstances:
 
@@ -89,3 +90,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.KeyString Method (Word)
+title: Application.KeyString method (Word)
 keywords: vbawd10.chm158335293
 f1_keywords:
 - vbawd10.chm158335293
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.KeyString
 ms.assetid: 20525053-3cf8-bdf8-cb67-cca39bf2b30c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.KeyString Method (Word)
+# Application.KeyString method (Word)
 
 Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A).
 
 
 ## Syntax
 
- _expression_. `KeyString`( `_KeyCode_` , `_KeyCode2_` )
+_expression_. `KeyString`( `_KeyCode_` , `_KeyCode2_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -44,7 +45,7 @@ You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argum
 
 ## Example
 
-This example displays the key combination string (CTRL+SHIFT+A) for the following  **WdKey** constants: **wdKeyControl** , **wdKeyShift** , and **wdKeyA** .
+This example displays the key combination string (CTRL+SHIFT+A) for the following  **WdKey** constants: **wdKeyControl**, **wdKeyShift**, and **wdKeyA**.
 
 
 ```vb
@@ -59,3 +60,4 @@ MsgBox KeyString(KeyCode:=BuildKeyCode(wdKeyControl, _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

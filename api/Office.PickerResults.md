@@ -1,5 +1,5 @@
 ---
-title: PickerResults Object (Office)
+title: PickerResults object (Office)
 keywords: vbaof11.chm339000
 f1_keywords:
 - vbaof11.chm339000
@@ -7,23 +7,24 @@ ms.prod: office
 api_name:
 - Office.PickerResults
 ms.assetid: c0e2e097-021b-7ed4-2f94-8204c849bc17
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerResults Object (Office)
+# PickerResults object (Office)
 
-A collection of  **PickerResult** objects.
+A collection of **[PickerResult](Office.PickerResult.md)** objects.
 
 
 ## Remarks
 
-Each  **PickerResult** object represents a resolved or selected item data.
+Each **PickerResult** object represents a resolved or selected item data.
 
 
 ## Example
 
-The following code displays the Picker Dialog, gets results, and then enumerates those results.
+The following code displays the **PickerDialog**, gets results, and then enumerates those results.
 
 
 ```vb
@@ -59,9 +60,10 @@ Next
 
 ## See also
 
+- [PickerResults object members](overview/Library-Reference/pickerresults-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-[PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

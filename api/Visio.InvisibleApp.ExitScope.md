@@ -1,21 +1,22 @@
 ---
-title: InvisibleApp.ExitScope Event (Visio)
+title: InvisibleApp.ExitScope event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ExitScope
 ms.assetid: c035f0c2-af15-8557-6cac-0c3cd14d3599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ExitScope Event (Visio)
+# InvisibleApp.ExitScope event (Visio)
 
 Queued when an internal command ends, or when an automation client exits a scope by using the  **EndUndoScope** method.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_** , **_ByVal bErrOrCancelled As Boolean_**)
+Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal nScopeID As Long_**, **_ByVal bstrDescription As String_**, **_ByVal bErrOrCancelled As Boolean_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -33,7 +34,7 @@ Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_** , **_B
 
 ## Remarks
 
-The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd*** .
+The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd***.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -43,7 +44,7 @@ If you are handling this event from a program that receives a notification over 
 
 The  **EventInfo** property returns _bstrDescription_, as described previously. In addition, the  _varMoreInfo_ argument to **VisEventProc** contains a string formatted as follows: [<nScopeID>;<bErrOrCancelled>;<bstrDescription>;<nHwndContext>], where _nHwndContext_ is the window handle (HWND) of the window that is the context for the command. _nHwndContext_ could be 0.
 
-For  **ExitScope** , _bErrOrCancelled_ is non-zero if the operation failed or was canceled.
+For  **ExitScope**, _bErrOrCancelled_ is non-zero if the operation failed or was canceled.
 
 
 ## Example
@@ -116,4 +117,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

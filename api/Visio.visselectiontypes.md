@@ -1,21 +1,22 @@
 ---
-title: VisSelectionTypes Enumeration (Visio)
+title: VisSelectionTypes enumeration (Visio)
 keywords: vis_sdr.chm70370
 f1_keywords:
 - vis_sdr.chm70370
 ms.prod: visio
 ms.assetid: f8e4b32b-a37c-d1a3-a1bb-9202a2555470
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisSelectionTypes Enumeration (Visio)
+# VisSelectionTypes enumeration (Visio)
 
-Selection types to be passed to the  **CreateSelection** method of the **Master** , **Page** , and **Shape** objects.
+Selection types to be passed to the  **CreateSelection** method of the **Master**, **Page**, and **Shape** objects.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSelTypeAll**|1|A selection that initially contains all shapes. |
 | **visSelTypeByDataGraphic**|6|A selection that initially contains all shapes that have a given type of data graphic appled.|
@@ -26,3 +27,4 @@ Selection types to be passed to the  **CreateSelection** method of the **Master*
 | **visSelTypeEmpty**|0|A selection that initially contains no shapes. |
 | **visSelTypeSingle**|2|A selection that initially contains one shape. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

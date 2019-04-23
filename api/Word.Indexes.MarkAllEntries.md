@@ -1,5 +1,5 @@
 ---
-title: Indexes.MarkAllEntries Method (Word)
+title: Indexes.MarkAllEntries method (Word)
 keywords: vbawd10.chm159121510
 f1_keywords:
 - vbawd10.chm159121510
@@ -8,19 +8,20 @@ api_name:
 - Word.Indexes.MarkAllEntries
 ms.assetid: bd2fb9b9-7a10-6f35-b691-f8c11542a711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Indexes.MarkAllEntries Method (Word)
+# Indexes.MarkAllEntries method (Word)
 
-Inserts an XE (Index Entry) field after all instances of the text in  **Range** .
+Inserts an XE (Index Entry) field after all instances of the text in  **Range**.
 
 
 ## Syntax
 
- _expression_. `MarkAllEntries`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` )
+_expression_. `MarkAllEntries`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` )
 
- _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
+_expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End If
 
 [Indexes Collection Object](Word.indexes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

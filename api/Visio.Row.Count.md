@@ -1,5 +1,5 @@
 ---
-title: Row.Count Property (Visio)
+title: Row.Count property (Visio)
 keywords: vis_sdr.chm15813330
 f1_keywords:
 - vis_sdr.chm15813330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Row.Count
 ms.assetid: 0fb1c315-3e65-3397-c047-2a59dfaa4e31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Count Property (Visio)
+# Row.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

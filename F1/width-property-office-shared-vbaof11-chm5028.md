@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f84af559-e9ab-4def-8830-e280bef5bb08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarPopup.Width Property (Office)](http://msdn.microsoft.com/library/a80aaeb8-c633-215b-bd28-8d25fa97dcc9%28Office.15%29.aspx)
 [CommandBarComboBox.Width Property (Office)](http://msdn.microsoft.com/library/5efb8c56-f896-c5e7-d457-f8862e655d1c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

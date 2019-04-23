@@ -1,5 +1,5 @@
 ---
-title: Font.Italic Property (Word)
+title: Font.Italic property (Word)
 keywords: vbawd10.chm156369027
 f1_keywords:
 - vbawd10.chm156369027
@@ -8,24 +8,25 @@ api_name:
 - Word.Font.Italic
 ms.assetid: adba2e3c-d904-d835-5a1c-c8762d319106
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Italic Property (Word)
+# Font.Italic property (Word)
 
- **True** if the font or range is formatted as italic. Read/write **Long** .
+ **True** if the font or range is formatted as italic. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Italic`
+_expression_. `Italic`
 
  _expression_ A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
 
-This property returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** .
+This property returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
 
 ## Example
@@ -54,3 +55,4 @@ End If
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

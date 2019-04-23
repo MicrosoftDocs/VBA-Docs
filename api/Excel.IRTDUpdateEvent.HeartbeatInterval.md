@@ -8,6 +8,7 @@ api_name:
 - Excel.IRTDUpdateEvent.HeartbeatInterval
 ms.assetid: 45a3df85-59c1-fedb-e94b-8f011601fc72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Long** for the interval between updates for real-time data.
 
 ## Syntax
 
- _expression_. `HeartbeatInterval`
+_expression_. `HeartbeatInterval`
 
- _expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
+_expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ Setting the  **HeartbeatInterval** property to -1 will result in the **[Heartbea
 
 [IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4427c8c1-9990-0761-5f5b-2c58ba6eb329
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,4 +22,4 @@ The reference couldn't be added. This error has the following cause and solution
     
      **Note**  When Visual Basic is the host application, it isn't possible to change a project's language setting. Any object libraries used must be compatible with the English/U.S. setting.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

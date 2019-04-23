@@ -1,5 +1,5 @@
 ---
-title: Characters.FieldCategory Property (Visio)
+title: Characters.FieldCategory property (Visio)
 keywords: vis_sdr.chm10213500
 f1_keywords:
 - vis_sdr.chm10213500
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.FieldCategory
 ms.assetid: b9c1ecca-ae27-83b8-862d-e8677f8c4c9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.FieldCategory Property (Visio)
+# Characters.FieldCategory property (Visio)
 
 Returns the field category for a field represented by an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `FieldCategory`
+_expression_. `FieldCategory`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -36,7 +37,7 @@ Field categories correspond to those in the  **Category** list in the **Field** 
 
 To add a custom field, use the  **AddCustomField** method.
 
-The following constants for field categories are declared by the Visio type library in  **VisFieldCategories** .
+The following constants for field categories are declared by the Visio type library in  **VisFieldCategories**.
 
 
 
@@ -49,3 +50,4 @@ The following constants for field categories are declared by the Visio type libr
 | **visFCatObject**|4 |
 | **visFCatPage**|5 |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

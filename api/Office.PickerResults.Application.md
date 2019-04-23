@@ -1,31 +1,30 @@
 ---
-title: PickerResults.Application Property (Office)
+title: PickerResults.Application property (Office)
 ms.prod: office
 api_name:
 - Office.PickerResults.Application
 ms.assetid: bf1b5b3a-f430-9c2e-cd51-dc0eab0ed26c
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerResults.Application Property (Office)
+# PickerResults.Application property (Office)
 
-Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only
+Gets an **Application** object that represents the container application for the **PickerResults** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+_expression_ An expression that returns a **[PickerResults](Office.PickerResults.md)** object.
 
 
 ## See also
 
-
-[PickerResults Object](Office.PickerResults.md)
-
+- [PickerResults object members](overview/Library-Reference/pickerresults-members-office.md)
 
 
-[PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

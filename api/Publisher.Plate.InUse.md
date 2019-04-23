@@ -1,5 +1,5 @@
 ---
-title: Plate.InUse Property (Publisher)
+title: Plate.InUse property (Publisher)
 keywords: vbapb10.chm2883602
 f1_keywords:
 - vbapb10.chm2883602
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Plate.InUse
 ms.assetid: 6c98ada2-ff05-30c9-0043-afbe892dab3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Plate.InUse Property (Publisher)
+# Plate.InUse property (Publisher)
 
 Returns  **True** if the specified ink (represented by the plate) is used in the publication. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **InUse**
+_expression_.**InUse**
 
  _expression_ A variable that represents an  **Plate** object.
 
@@ -57,4 +58,4 @@ End With
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

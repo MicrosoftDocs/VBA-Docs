@@ -1,5 +1,5 @@
 ---
-title: TabStops.Application Property (PowerPoint)
+title: TabStops.Application property (PowerPoint)
 keywords: vbapp10.chm573001
 f1_keywords:
 - vbapp10.chm573001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TabStops.Application
 ms.assetid: 00245a30-0468-4c6e-aa0a-28c1c6aa2b2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Application Property (PowerPoint)
+# TabStops.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [TabStops Object](PowerPoint.TabStops.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

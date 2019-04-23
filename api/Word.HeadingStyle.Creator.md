@@ -1,5 +1,5 @@
 ---
-title: HeadingStyle.Creator Property (Word)
+title: HeadingStyle.Creator property (Word)
 keywords: vbawd10.chm160105449
 f1_keywords:
 - vbawd10.chm160105449
@@ -8,19 +8,20 @@ api_name:
 - Word.HeadingStyle.Creator
 ms.assetid: 2ae0b124-49ff-03b7-d11b-91b2115da057
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeadingStyle.Creator Property (Word)
+# HeadingStyle.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[HeadingStyle](Word.HeadingStyle.md)' object.
+_expression_ Required. A variable that represents a '[HeadingStyle](Word.HeadingStyle.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [HeadingStyle Object](Word.HeadingStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.FileFormat
 ms.assetid: ef722c3c-90ea-9810-b853-a3fff19d5c60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.FileFormat property (Excel)
 
-Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat](Excel.XlFileFormat.md)** .
+Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat](Excel.XlFileFormat.md)**.
 
 
 ## Syntax
 
- _expression_. `FileFormat`
+_expression_. `FileFormat`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

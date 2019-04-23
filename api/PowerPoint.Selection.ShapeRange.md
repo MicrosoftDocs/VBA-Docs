@@ -1,5 +1,5 @@
 ---
-title: Selection.ShapeRange Property (PowerPoint)
+title: Selection.ShapeRange property (PowerPoint)
 keywords: vbapp10.chm508009
 f1_keywords:
 - vbapp10.chm508009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Selection.ShapeRange
 ms.assetid: 3fd7aed0-ab63-adaa-1a46-c745b6c3e245
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ShapeRange Property (PowerPoint)
+# Selection.ShapeRange property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents all the slide objects that have been selected on the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
@@ -51,3 +52,4 @@ Windows(1).Selection.ShapeRange.Fill _
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: InvisibleApp.MarkerEvent Event (Visio)
+title: InvisibleApp.MarkerEvent event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MarkerEvent
 ms.assetid: 264b9682-2979-3ddb-a110-2f4d88847d85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.MarkerEvent Event (Visio)
+# InvisibleApp.MarkerEvent event (Visio)
 
 Caused by calling the  **QueueMarkerEvent** method.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'MarkerEvent'(**_ByVal app As [IVAPPLICATION]_** , **_ByVal SequenceNum As Long_** , **_ByVal ContextString As String_**)
+Private Sub  _expression_ _'MarkerEvent'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal SequenceNum As Long_**, **_ByVal ContextString As String_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -81,7 +82,7 @@ Private Sub vsoObject_CellChanged (ByVal Cell As Visio.IVCell)
 End Sub
 ```
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
@@ -94,7 +95,7 @@ The  **EventInfo** property returns _ContextString_ as described above. The _var
 
 This example shows how to use the  **MarkerEvent** event to mark an event in the event queue.
 
-Paste this example code into the  **ThisDocument** code window and then run **UseMarker** . The output will be displayed in the Immediate window.
+Paste this example code into the  **ThisDocument** code window and then run **UseMarker**. The output will be displayed in the Immediate window.
 
 
 
@@ -135,4 +136,4 @@ ShapeAdded: Sheet.1
 
 Marker: I am finished...
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Legend.Position
 ms.assetid: 6256617d-d78f-8b2e-dd27-96c71cd2a84f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlLegendPosition](Excel.XlLegendPosition.md)** value that 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Charts(1).Legend.Position = xlLegendPositionBottom
 
 [Legend Object](Excel.Legend(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

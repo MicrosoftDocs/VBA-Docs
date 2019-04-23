@@ -7,34 +7,33 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.InSelection
 ms.assetid: 8212bebc-0d9c-6476-a8f6-f1bbd3c26066
-ms.date: 06/08/2017
+ms.date: 02/08/2019
+localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.InSelection property (Access)
 
-You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
+You can use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `InSelection`
+_expression_.**InSelection**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-When a control is selected, its sizing handles are visible and it can be resized by the user. More than one control can be selected at a time.
+When a control is selected, its sizing handles are visible, and it can be resized by the user. More than one control can be selected at a time.
 
 
 ## Example
 
-The following function uses the  **InSelection** property to determine whether the `strControlName` control on a form is selected.
+The following function uses the **InSelection** property to determine whether the **strControlName** control on a form is selected.
 
-To test this code, paste the IsControlSelected function code in the Declarations section of a code module in the Northwind sample database, open the Customers form in Design view, and select the CompanyName control. Then enter the following line in the Debug window:
-
-
+To test this code, paste the **IsControlSelected** function code in the Declarations section of a code module in the Northwind sample database, open the **Customers** form in Design view, and select the **CompanyName** control. Enter the following line in the Debug window.
 
 
 ```vb
@@ -64,8 +63,4 @@ End Function
 ```
 
 
-## See also
-
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

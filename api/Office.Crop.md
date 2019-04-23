@@ -1,21 +1,22 @@
 ---
-title: Crop Object (Office)
+title: Crop object (Office)
 ms.prod: office
 api_name:
 - Office.Crop
 ms.assetid: 21ac150e-0a8f-c77b-717f-bf38fbced5a3
-ms.date: 06/08/2017
+ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 
-# Crop Object (Office)
+# Crop object (Office)
 
 An object used to remove a portion of an image.
 
 
 ## Example
 
-The following example inserts a 200 x 200 image into a PowerPoint presentation approximately in the center of the slide. It then resizes the image inside the frame to 100 x 100. The image frame stays at 200 x 200. The code then adds a square (the default shape) just above and to the right of the image, essentially cropping the lower left corner of the image.
+The following example inserts a 200 x 200 image into a PowerPoint presentation approximately in the center of the slide. It then resizes the image inside the frame to 100 x 100. The image frame stays at 200 x 200. The code then adds a square (the default shape) just above and to the right of the image, essentially cropping the lower-left corner of the image.
 
 
 ```vb
@@ -32,28 +33,9 @@ Sub CropImage()
 End Sub
 ```
 
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.Crop.Application.md)|
-|[Creator](Office.Crop.Creator.md)|
-|[PictureHeight](Office.Crop.PictureHeight.md)|
-|[PictureOffsetX](Office.Crop.PictureOffsetX.md)|
-|[PictureOffsetY](Office.Crop.PictureOffsetY.md)|
-|[PictureWidth](Office.Crop.PictureWidth.md)|
-|[ShapeHeight](Office.Crop.ShapeHeight.md)|
-|[ShapeLeft](Office.Crop.ShapeLeft.md)|
-|[ShapeTop](Office.Crop.ShapeTop.md)|
-|[ShapeWidth](Office.Crop.ShapeWidth.md)|
-
 ## See also
 
+- [Crop object members](overview/library-reference/crop-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

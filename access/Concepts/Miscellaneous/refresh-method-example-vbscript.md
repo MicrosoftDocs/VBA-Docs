@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: b1e78418-9770-b0b4-1f24-f8ef866b7b42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -75,9 +76,9 @@ End Sub
 ' Set parameters of RDS.DataControl at Run TimeSub Run_OnClick
 RDC.Server = txtServer.ValueRDC.SQL = txtSQL.Value
 RDC.Connect = txtConnect.ValueIf EO = "adcExecSync" Then 'Determine which ExecuteOption chosen
-RDC.ExecuteOptions = adcExecSyncMsgBox "Recordset brought in on current calling thread Syncronously"
+RDC.ExecuteOptions = adcExecSyncMsgBox "Recordset brought in on current calling thread Synchronously"
 ElseRDC.ExecuteOptions = adcExecAsync
-MsgBox "Recordset brought in on another thread Asyncronously"End If 
+MsgBox "Recordset brought in on another thread Asynchronously"End If 
 If FO = "adcFetchBackground" Then 'Determine 'which FetchOption chosenRDC.FetchOptions = adcFetchBackground
 MsgBox "Control goes back to user after first batch of records returned"ElseIf FO = " adcFetchUpFront" Then
 RDC.FetchOptions = adcFetchUpFrontMsgBox "All records returned before control goes back to user"
@@ -98,3 +99,5 @@ RDC.RefreshEnd Sub
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

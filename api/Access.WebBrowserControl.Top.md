@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.Top
 ms.assetid: af18145b-aa73-2ebe-f387-e2cce62a1051
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # WebBrowserControl.Top property (Access)
 
-You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**.
+You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `Top`
+_expression_.**Top**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks
 
-In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in twips.
+In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in [twips](../language/glossary/vbe-glossary.md#twip).
 
 
-## See also
 
 
-[WebBrowserControl Object](Access.WebBrowserControl.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

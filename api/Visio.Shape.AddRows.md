@@ -1,5 +1,5 @@
 ---
-title: Shape.AddRows Method (Visio)
+title: Shape.AddRows method (Visio)
 keywords: vis_sdr.chm11216055
 f1_keywords:
 - vis_sdr.chm11216055
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.AddRows
 ms.assetid: 8b267f98-e077-0854-a1aa-a0ce8719a2c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.AddRows Method (Visio)
+# Shape.AddRows method (Visio)
 
 Adds the specified number of rows to a ShapeSheet section at a specified position.
 
 
 ## Syntax
 
- _expression_. `AddRows`( `_Section_` , `_Row_` , `_RowTag_` , `_RowCount_` )
+_expression_. `AddRows`( `_Section_` , `_Row_` , `_RowTag_` , `_RowCount_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -43,7 +44,7 @@ Integer
 
 If the ShapeSheet section does not exist, the  **AddRows** method creates a section that has blank rows. New cells in new rows are initialized with default formulas, if applicable. Otherwise, a program must include statements to set the formulas for the new cells. An error occurs if the row cannot be added.
 
-The Visio type library declares the constants for  _RowTag_ in **[VisRowIndices](Visio.visrowindices.md)** .
+The Visio type library declares the constants for  _RowTag_ in **[VisRowIndices](Visio.visrowindices.md)**.
 
 The row constants declared by the Visio type library serve as base positions at which a section's rows begin. Add offsets to these constants to specify the first row and beyond, for example,  **visRowFirst** +0, **visRowFirst** +1, and so on. To add rows at the end of a section, pass the constant **visRowLast** for the _Row_ argument. The value returned is the actual row index.
 
@@ -55,4 +56,4 @@ The  **AddRows** method cannot add named rows. To add named rows, use the **AddN
 
 If you add rows to a section that has nameable rows (for example, the Connection Points or Controls section), the  _Row_ argument is ignored. By default, named rows are named in the order added, for example, Row_1, Row_2, and so forth. Naming order is influenced, however, by any existing rows or previously deleted rows.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

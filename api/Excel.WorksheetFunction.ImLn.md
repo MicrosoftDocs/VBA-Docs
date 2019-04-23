@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImLn Method (Excel)
+title: WorksheetFunction.ImLn method (Excel)
 keywords: vbaxl10.chm137278
 f1_keywords:
 - vbaxl10.chm137278
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImLn
 ms.assetid: a2542e7d-f46b-bb01-67a6-655a92f782c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImLn Method (Excel)
+# WorksheetFunction.ImLn method (Excel)
 
 Returns the natural logarithm of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImLn`( `_Arg1_` )
+_expression_. `ImLn`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

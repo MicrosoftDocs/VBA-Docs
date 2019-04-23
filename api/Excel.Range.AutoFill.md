@@ -1,5 +1,5 @@
 ---
-title: Range.AutoFill Method (Excel)
+title: Range.AutoFill method (Excel)
 keywords: vbaxl10.chm144083
 f1_keywords:
 - vbaxl10.chm144083
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.AutoFill
 ms.assetid: 257f6608-9211-86f9-79de-e3c44df8f3fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.AutoFill Method (Excel)
+# Range.AutoFill method (Excel)
 
 Performs an autofill on the cells in the specified range.
 
 
 ## Syntax
 
- _expression_. `AutoFill`( `_Destination_` , `_Type_` )
+_expression_. `AutoFill`( `_Destination_` , `_Type_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ sourceRange.AutoFill Destination:=fillRange
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

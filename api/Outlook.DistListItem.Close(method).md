@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Close Method (Outlook)
+title: DistListItem.Close method (Outlook)
 keywords: vbaol11.chm1140
 f1_keywords:
 - vbaol11.chm1140
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.Close
 ms.assetid: 6e56d716-ec8b-4a4c-1b1a-061f659f5c08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.Close Method (Outlook)
+# DistListItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
 
 ## Syntax
 
- _expression_. `Close`( `_SaveMode_` )
+_expression_. `Close`( `_SaveMode_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Closes and optionally saves changes to the Outlook item.
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

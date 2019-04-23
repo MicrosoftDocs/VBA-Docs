@@ -1,5 +1,5 @@
 ---
-title: TableStyle.LeftIndent Property (Word)
+title: TableStyle.LeftIndent property (Word)
 keywords: vbawd10.chm244776974
 f1_keywords:
 - vbawd10.chm244776974
@@ -8,17 +8,18 @@ api_name:
 - Word.TableStyle.LeftIndent
 ms.assetid: 5dc6a39f-ed73-8492-7ef5-b02f0290ddbc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableStyle.LeftIndent Property (Word)
+# TableStyle.LeftIndent property (Word)
 
 Returns or sets a  **Single** that represents the left indent value (in points) for the rows in the specified table style. Read/write.
 
 
 ## Syntax
 
- _expression_. `LeftIndent`
+_expression_. `LeftIndent`
 
  _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 
@@ -47,3 +48,4 @@ ActiveDocument.Tables(1).Rows.LeftIndent = InchesToPoints(1)
 
 [TableStyle Object](Word.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

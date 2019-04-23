@@ -1,5 +1,5 @@
 ---
-title: IconView.Language Property (Outlook)
+title: IconView.Language property (Outlook)
 keywords: vbaol11.chm2566
 f1_keywords:
 - vbaol11.chm2566
@@ -8,19 +8,20 @@ api_name:
 - Outlook.IconView.Language
 ms.assetid: 7b35d1ce-991f-00c6-c225-a5fcf3b7f888
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconView.Language Property (Outlook)
+# IconView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [IconView Object](Outlook.IconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.DisplayPropertyDialog
 ms.assetid: 92578d7a-53a1-0597-e4b6-21444db0dad8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Displays the  **Properties and Settings** dialog box at the specified screen coo
 
 ## Syntax
 
- _expression_. **DisplayPropertyDialog**(**_ScreenX_**,  **_ScreenY_**)
+_expression_.**DisplayPropertyDialog**(**_ScreenX_**,  **_ScreenY_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -36,7 +37,7 @@ Nothing
 
 ## Remarks
 
-Use the optional screenXand screenY parameters to specify the coordinates of the point where you want the dialog box to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper left corner. If you do not specify coordinates, the dialog box appears in its default position, at the lower right corner of the Visio Viewer control.
+Use the optional screenXand screenY parameters to specify the coordinates of the point where you want the dialog box to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner. If you do not specify coordinates, the dialog box appears in its default position, at the lower-right corner of the Visio Viewer control.
 
 
 ## Example
@@ -60,4 +61,4 @@ vsoViewer.DisplayPropertyDialog lngScreenPosX, lngScreenPosY
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

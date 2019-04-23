@@ -1,5 +1,5 @@
 ---
-title: Workbook.CheckIn Method (Excel)
+title: Workbook.CheckIn method (Excel)
 keywords: vbaxl10.chm199204
 f1_keywords:
 - vbaxl10.chm199204
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.CheckIn
 ms.assetid: f9750086-aaa6-3b04-6b51-ebcadf6b1911
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.CheckIn Method (Excel)
+# Workbook.CheckIn method (Excel)
 
 Returns a workbook from a local computer to a server, and sets the local workbook to read-only so that it cannot be edited locally. Calling this method will also close the workbook.
 
 
 ## Syntax
 
- _expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdTofFormat Enumeration (Word)
+title: WdTofFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTofFormat
 ms.assetid: 743699c6-2b33-fc5a-d43e-d63a6cc3e64d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTofFormat Enumeration (Word)
+# WdTofFormat enumeration (Word)
 
 Specifies the type of formatting to apply to the table of figures in the active document.
 
@@ -23,3 +24,4 @@ Specifies the type of formatting to apply to the table of figures in the active 
 | **wdTOFSimple**|5|Simple formatting.|
 | **wdTOFTemplate**|0|Template formatting.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

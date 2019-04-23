@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8f244710-451c-4bc8-b222-c37455c34608
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextFrame2.Application property (Excel)](http://msdn.microsoft.com/library/bb5aeb3a-f8d7-3752-27a5-ff1eedd7d4db%28Office.15%29.aspx)
 - [ThreeDFormat.Application property (Excel)](http://msdn.microsoft.com/library/3921f7fa-7ce8-3a70-acb2-45c8913dd909%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

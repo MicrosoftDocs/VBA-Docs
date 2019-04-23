@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.OldBorderStyle
 ms.assetid: e3676f02-337b-d347-478d-9ae8fa03c343
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # ObjectFrame.OldBorderStyle property (Access)
 
-You can use this property to set or returns the unedited value of the  **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
+You can use this property to set or return the unedited value of the **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `OldBorderStyle`
+_expression_.**OldBorderStyle** 
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **OldBorderStyle** property uses the following settings.
+The **OldBorderStyle** property uses the following settings.
 
-
-
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Transparent|0|(Default only for label, chart, and subreport) Transparent|
 |Solid|1|(Default) Solid line|
@@ -41,12 +40,10 @@ The  **OldBorderStyle** property uses the following settings.
 |Dash dot dot|7|Line with a dash-dot-dot combination|
 |Double solid|8|Double solid lines|
 
- **Note**  
-
 
 ## Example
 
-The following example demonstrates the effect of changing a control's  **BorderStyle** property, while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
+The following example demonstrates the effect of changing a control's **BorderStyle** property while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
 
 
 ```vb
@@ -69,8 +66,4 @@ End With
 ```
 
 
-## See also
-
-
-[ObjectFrame Object](Access.ObjectFrame.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

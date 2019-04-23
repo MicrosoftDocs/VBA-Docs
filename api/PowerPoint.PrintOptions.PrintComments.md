@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.PrintComments Property (PowerPoint)
+title: PrintOptions.PrintComments property (PowerPoint)
 keywords: vbapp10.chm517017
 f1_keywords:
 - vbapp10.chm517017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.PrintComments
 ms.assetid: 3c908a66-1db7-ef43-48a4-153f6095d041
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.PrintComments Property (PowerPoint)
+# PrintOptions.PrintComments property (PowerPoint)
 
 Sets or returns whether comments will be printed. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintComments`
+_expression_. `PrintComments`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **PrintComments** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Comments will not be printed.|
 |**msoTrue**| Comments will be printed.|
@@ -58,3 +59,4 @@ End Sub
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RowAxisLayout Method (Excel)
+title: PivotTable.RowAxisLayout method (Excel)
 keywords: vbaxl10.chm235166
 f1_keywords:
 - vbaxl10.chm235166
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.RowAxisLayout
 ms.assetid: 41a8a3bb-252a-7598-b559-d75dc1e10bc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.RowAxisLayout Method (Excel)
+# PivotTable.RowAxisLayout method (Excel)
 
 This method is used for simultaneously setting layout options for all existing PivotFields.
 
 
 ## Syntax
 
- _expression_. `RowAxisLayout`( `_RowLayout_` )
+_expression_. `RowAxisLayout`( `_RowLayout_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ This method is used for simultaneously setting layout options for all existing P
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _RowLayout_|Required| **XlLayoutRowType**|Can be  **xlCompactRow** , **xlTabularRow** , or **xlOutlineRow** .|
+| _RowLayout_|Required| **xlLayoutRowType**|Can be  **xlCompactRow**, **xlTabularRow**, or **xlOutlineRow**.|
 
 ## Remarks
 
@@ -41,3 +42,4 @@ This method is atomic so it makes sure that if layout options cannot be set on a
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

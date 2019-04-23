@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 85b4c0bf-3654-af39-413e-8c22c00626f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotValueCell.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+_expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

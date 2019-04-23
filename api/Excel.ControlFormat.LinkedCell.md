@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.LinkedCell
 ms.assetid: 398f46f0-593a-6020-6832-5aebe8c8cd68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.LinkedCell property (Excel)
 
-Returns or sets the worksheet range linked to the control's value. If you place a value in the cell, the control takes this value. Likewise, if you change the value of the control, that value is also placed in the cell. Read/write  **String** .
+Returns or sets the worksheet range linked to the control's value. If you place a value in the cell, the control takes this value. Likewise, if you change the value of the control, that value is also placed in the cell. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `LinkedCell`
+_expression_. `LinkedCell`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

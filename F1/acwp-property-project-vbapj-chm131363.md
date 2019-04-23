@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4165ef12-c66a-45d4-9e43-6e0f2fa4f87c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.ACWP Property (Project)](http://msdn.microsoft.com/library/ca3ae77d-f31f-6992-55ca-920072a5ddf2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

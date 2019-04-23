@@ -1,5 +1,5 @@
 ---
-title: AddIn.Loaded Property (PowerPoint)
+title: AddIn.Loaded property (PowerPoint)
 keywords: vbapp10.chm521008
 f1_keywords:
 - vbapp10.chm521008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AddIn.Loaded
 ms.assetid: 8becb17d-dbe4-b151-e66b-3463f3a862f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.Loaded Property (PowerPoint)
+# AddIn.Loaded property (PowerPoint)
 
 Determines whether the specified add-in is loaded. Read/write.
 
 
 ## Syntax
 
- _expression_. `Loaded`
+_expression_. `Loaded`
 
- _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **Loaded** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|TThe specified add-in is not loaded. |
 |**msoTrue**| The specified add-in is loaded.|
@@ -63,3 +64,4 @@ Application.Addins("mytools").Loaded = msoFalse
 
 [AddIn Object](PowerPoint.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

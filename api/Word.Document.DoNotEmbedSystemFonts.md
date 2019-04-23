@@ -1,5 +1,5 @@
 ---
-title: Document.DoNotEmbedSystemFonts Property (Word)
+title: Document.DoNotEmbedSystemFonts property (Word)
 keywords: vbawd10.chm158007634
 f1_keywords:
 - vbawd10.chm158007634
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.DoNotEmbedSystemFonts
 ms.assetid: 435054c0-f7e3-e206-146d-7e29cce2c71d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DoNotEmbedSystemFonts Property (Word)
+# Document.DoNotEmbedSystemFonts property (Word)
 
- **True** for Microsoft Word to not embed common system fonts. Read/write **Boolean** .
+ **True** for Microsoft Word to not embed common system fonts. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DoNotEmbedSystemFonts`
+_expression_. `DoNotEmbedSystemFonts`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

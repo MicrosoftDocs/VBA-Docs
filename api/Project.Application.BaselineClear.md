@@ -1,5 +1,5 @@
 ---
-title: Application.BaselineClear Method (Project)
+title: Application.BaselineClear method (Project)
 keywords: vbapj.chm2384
 f1_keywords:
 - vbapj.chm2384
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BaselineClear
 ms.assetid: a319fc88-2421-eafa-e498-4a0a5f173394
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BaselineClear Method (Project)
+# Application.BaselineClear method (Project)
 
 Clears the baseline data from the baseline fields or clears the data from a  **Start _n_** / **Finish _n_** pair of dates.
 
 
 ## Syntax
 
- _expression_. `BaselineClear`( ` _All_`, ` _From_` )
+_expression_. `BaselineClear`( `_All_`, `_From_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ Sub Baseline_Clear()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

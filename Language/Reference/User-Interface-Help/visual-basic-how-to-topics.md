@@ -2,19 +2,22 @@
 title: Visual Basic how-to topics
 ms.prod: office
 ms.assetid: ca0cc8c7-69eb-45a3-aefc-5df69d64cd22
-ms.date: 09/17/2018
+ms.date: 11/21/2018
+localization_priority: Normal
 ---
 
 
 # Visual Basic how-to topics
 
-- [Add a Watch expression](../../Concepts/Forms/add-a-watch-expression.md)
+Describes useful common procedures (for example, how to use the **Object Browser** or how to set Visual Basic Environment options).
+
+- [Add a watch expression](../../Concepts/Forms/add-a-watch-expression.md)
 - [Check or add an Object Library Reference](../../How-to/check-or-add-an-object-library-reference.md)
 - [Continue code execution](../../How-to/continue-code-execution.md)
 - [Copy example code from Help](../../How-to/copy-example-code-from-help.md)
 - [Create a procedure](../../How-to/create-a-procedure.md)
-- [Delete a Watch expression](../../How-to/delete-a-watch-expression.md)
-- [Edit a Watch expression](../../How-to/edit-a-watch-expression.md)
+- [Delete a watch expression](../../How-to/delete-a-watch-expression.md)
+- [Edit a watch expression](../../How-to/edit-a-watch-expression.md)
 - [Enter a declaration in code](../../How-to/enter-a-declaration-in-code.md)
 - [Execute a specific statement](../../How-to/execute-a-specific-statement.md)
 - [Find a procedure](../../How-to/find-a-procedure.md)
@@ -38,5 +41,4 @@ ms.date: 09/17/2018
 - [Use the Project Explorer](use-the-project-explorer.md)
 - [Use the Properties window](use-the-properties-window.md)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

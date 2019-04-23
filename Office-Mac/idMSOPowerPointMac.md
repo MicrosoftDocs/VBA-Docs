@@ -2,6 +2,7 @@
 title: idMSOs supported in PowerPoint for Mac
 ms.prod: office
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 # idMSOs supported in PowerPoint for Mac
 
@@ -32,7 +33,7 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |AlignLeft|toggleButton|
 |AlignRight|toggleButton|
 |AnimationAutoPreview|toggleButton|
-|AnimationChangeGallery|galler|
+|AnimationChangeGallery|gallery|
 |AnimationDuration|control|
 |AnimationPainter|control|
 |AnimationPreview|button|
@@ -69,7 +70,7 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |BorderTop|toggleButton|
 |BrightnessLess|button|
 |BrightnessMore|button|
-|BuildOrderChangeGallery|galler|
+|BuildOrderChangeGallery|gallery|
 |BulletsAndNumberingBulletsDialog|button|
 |BulletsAndNumberingNumberingDialog|button|
 |BulletsGallery|gallery|
@@ -135,8 +136,8 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |Cut|button|
 |DateAndTimeInsert|button|
 |DuplicateSelectedSlides|button|
-|EffectOptionsColorsGallery|galler|
-|EffectOptionsGallery|galler|
+|EffectOptionsColorsGallery|gallery|
+|EffectOptionsGallery|gallery|
 |EffectOptionsMenu|menu|
 |EquationAccentGallery|gallery|
 |EquationDelimiterGallery|gallery|
@@ -379,12 +380,12 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |PickUpStyle|button|
 |PictureArtisticEffectsGallery|gallery|
 |PictureBackgroundRemoval|toggleButton|
-|PictureBrightnessAndContrastGallery|galler|
+|PictureBrightnessAndContrastGallery|gallery|
 |PictureChange|button|
 |PictureColorDialog|button|
 |PictureColorMenu|menu|
 |PictureColorReset|button|
-|PictureColorTempertatureGallery|galler|
+|PictureColorTempertatureGallery|gallery|
 |PictureCorrectionsDialog|button|
 |PictureCorrectionsMenu|menu|
 |PictureCorrectionsReset|button|
@@ -412,18 +413,18 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |PictureFitCrop|button|
 |PictureInsertFromFile|button|
 |PictureInsertFromFilePowerPoint|menu|
-|PictureRecolorGallery|galler|
+|PictureRecolorGallery|gallery|
 |PictureRecolorMoreColorsDialog|button|
 |PictureReflectionGallery|gallery|
 |PictureReset|button|
 |PictureResetAndSize|button|
 |PictureResetSplitButton|splitButton|
 |PictureRotationGallery|gallery|
-|PictureSaturationGallery|galler|
+|PictureSaturationGallery|gallery|
 |PicturesCompress|button|
 |PictureSetTransparentColor|toggleButton|
 |PictureShapeGallery|gallery|
-|PictureSharpenSoftenGallery|galler|
+|PictureSharpenSoftenGallery|gallery|
 |PictureStylesGallery|gallery|
 |PictureTransparencyGallery|gallery|
 |PowerPointPageSetup|gallery|
@@ -711,3 +712,5 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |ZoomClassic|gallery|
 |ZoomDialog|button|
 |ZoomFitToWindow|button|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

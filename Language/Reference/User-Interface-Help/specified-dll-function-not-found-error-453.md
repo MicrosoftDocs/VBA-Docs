@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5065c4a8-e5fb-2c47-0c8b-25afcbe2c2f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-lib
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

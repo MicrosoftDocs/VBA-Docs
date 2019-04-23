@@ -1,5 +1,5 @@
 ---
-title: ColorStop Object (Excel)
+title: ColorStop object (Excel)
 keywords: vbaxl10.chm850072
 f1_keywords:
 - vbaxl10.chm850072
@@ -7,28 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ColorStop
 ms.assetid: 43c4d024-8213-5f93-dfa9-229f37e09d9a
-ms.date: 06/08/2017
+ms.date: 03/29/2019
+localization_priority: Normal
 ---
 
 
-# ColorStop Object (Excel)
+# ColorStop object (Excel)
 
 Represents the color stop point for a gradient fill in a range or selection.
 
 
 ## Remarks
 
-The  **ColorStop** object enables you to set properties for the cell fill including the **[Color](Excel.Border.Color.md)** , **[ThemeColor](Excel.Border.ThemeColor.md)** , and **[TintAndShade](Excel.Border.TintAndShade.md)** properties.
+The **ColorStop** object enables you to set properties for the cell fill, including the **Color**, **ThemeColor**, and **TintAndShade** properties.
 
 
 ## Example
 
-The following example shows how to apply properties to a  **ColorStop** object.
-
-.
-
-
-
+The following example shows how to apply properties to a **ColorStop** object.
 
 ```vb
 With Selection.Interior 
@@ -54,9 +50,22 @@ End With
 ```
 
 
+## Methods
+
+- [Delete](Excel.ColorStop.Delete.md)
+
+## Properties
+
+- [Application](Excel.ColorStop.Application.md)
+- [Color](Excel.ColorStop.Color.md)
+- [Creator](Excel.ColorStop.Creator.md)
+- [Parent](Excel.ColorStop.Parent.md)
+- [Position](Excel.ColorStop.Position.md)
+- [ThemeColor](Excel.ColorStop.ThemeColor.md)
+- [TintAndShade](Excel.ColorStop.TintAndShade.md)
+
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

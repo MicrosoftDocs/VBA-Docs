@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b7e303d6-9018-448a-8532-3c14dfbd4f35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.RemainingOvertimeCost Property (Project)](http://msdn.microsoft.com/library/6e8d72fd-efac-ed22-9549-950bba1cfc84%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdLineStyle Enumeration (Word)
+title: WdLineStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineStyle
 ms.assetid: adeec7b4-6def-8d23-07f1-ee0117736322
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdLineStyle Enumeration (Word)
+# WdLineStyle enumeration (Word)
 
 Specifies the border style for an object.
 
@@ -24,8 +25,8 @@ Specifies the border style for an object.
 | **wdLineStyleDot**|2|Dots.|
 | **wdLineStyleDouble**|7|Double solid lines.|
 | **wdLineStyleDoubleWavy**|19|Double wavy solid lines.|
-| **wdLineStyleEmboss3D**|21|The border appears to have a 3-D embossed look.|
-| **wdLineStyleEngrave3D**|22|The border appears to have a 3-D engraved look.|
+| **wdLineStyleEmboss3D**|21|The border appears to have a 3D embossed look.|
+| **wdLineStyleEngrave3D**|22|The border appears to have a 3D engraved look.|
 | **wdLineStyleInset**|24|The border appears to be inset.|
 | **wdLineStyleNone**|0|No border.|
 | **wdLineStyleOutset**|23|The border appears to be outset.|
@@ -42,3 +43,4 @@ Specifies the border style for an object.
 | **wdLineStyleThinThickThinSmallGap**|11|An internal single thin solid line surrounded by a single thick solid line surrounded by a single thin solid line with a small gap between all lines.|
 | **wdLineStyleTriple**|8|Three solid thin lines.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

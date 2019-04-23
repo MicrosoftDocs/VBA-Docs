@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 12f1b60a-d9de-746f-2926-9d565dd902e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 An [ActiveX control](../../Glossary/vbe-glossary.md#activex-control) could not be created while loading a form, User Control, User Document, or Property Page from a text file. The control may be missing or corrupted. Reinstall the control and try again. This message is written to the error log file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

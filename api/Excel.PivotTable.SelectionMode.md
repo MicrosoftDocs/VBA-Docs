@@ -8,26 +8,27 @@ api_name:
 - Excel.PivotTable.SelectionMode
 ms.assetid: 692c31b9-01a4-2a49-65c9-66c14ab6aa7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.SelectionMode property (Excel)
 
-Returns or sets the PivotTable report structured selection mode. Read/write  **[XlPTSelectionMode](Excel.XlPTSelectionMode.md)** .
+Returns or sets the PivotTable report structured selection mode. Read/write  **[XlPTSelectionMode](Excel.XlPTSelectionMode.md)**.
 
 
 ## Syntax
 
- _expression_. `SelectionMode`
+_expression_. `SelectionMode`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
 
 
 
-| **XlPTSelectionMode** can be one of these **XlPTSelectionMode** constants.|
+| **xlPTSelectionMode** can be one of these **xlPTSelectionMode** constants.|
 | **xlBlanks**|
 | **xlButton**|
 | **xlDataAndLabel**|
@@ -66,3 +67,4 @@ Worksheets(1).PivotTables(1).SelectionMode = _
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

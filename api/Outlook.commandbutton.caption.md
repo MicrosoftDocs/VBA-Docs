@@ -3,6 +3,7 @@ title: CommandButton.Caption Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 80dfbd73-6315-cb39-ad64-e87cf9083277
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that appears on the button to describe what it doe
 
 ## Syntax
 
- _expression_. **Caption**
+_expression_.**Caption**
 
- _expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ The  **[ForeColor](Outlook.commandbutton.forecolor.md)** property of the control
 
 Setting  **[AutoSize](Outlook.commandbutton.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

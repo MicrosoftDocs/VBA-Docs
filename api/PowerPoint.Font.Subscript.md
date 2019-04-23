@@ -1,5 +1,5 @@
 ---
-title: Font.Subscript Property (PowerPoint)
+title: Font.Subscript property (PowerPoint)
 keywords: vbapp10.chm575009
 f1_keywords:
 - vbapp10.chm575009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.Subscript
 ms.assetid: ad23433b-b14b-9b2a-3bf6-772de41995f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Subscript Property (PowerPoint)
+# Font.Subscript property (PowerPoint)
 
 Determines whether the specified text is subscript. Read/write.
 
 
 ## Syntax
 
- _expression_. `Subscript`
+_expression_. `Subscript`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -40,7 +41,7 @@ The value of the  **Subscript** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text is not subscript. The default.|
 |**msoTriStateMixed**|Some characters are subscript and some aren't.|
@@ -69,3 +70,4 @@ End With
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

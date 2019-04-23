@@ -7,35 +7,40 @@ ms.prod: access
 api_name:
 - Access.Control.GridlineStyleLeft
 ms.assetid: fe8829f8-bad9-2b34-f613-22b65b3325d4
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # Control.GridlineStyleLeft property (Access)
 
-Gets or sets the width of the bottom gridline for the specified control. Read/write  **Byte**.
+Gets or sets the left gridline style of the specified control. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleLeft`
+_expression_.**GridlineStyleLeft**
 
-_expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a **[Control](Access.Control.md)** object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineStyleLeft** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Gridline type|
 |:-----|:-----|
-|0| Hairline. This is the narrowest border possible on your system.|
-|1 to 6|The width as indicated in points. The default setting is 1 point.|
+|0 (default)|Transparent|
+|1|Solid|
+|2|Dashes|
+|3|Short dashes|
+|4|Dots|
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
-## See also
 
 
-[Control Object](Access.Control.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
 

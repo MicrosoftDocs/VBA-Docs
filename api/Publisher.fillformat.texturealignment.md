@@ -1,22 +1,23 @@
 ---
-title: FillFormat.TextureAlignment Property (Publisher)
+title: FillFormat.TextureAlignment property (Publisher)
 keywords: vbapb10.chm2359575
 f1_keywords:
 - vbapb10.chm2359575
 ms.prod: publisher
 ms.assetid: 39fed9f2-f624-f978-3297-6b89a2dc3789
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureAlignment Property (Publisher)
+# FillFormat.TextureAlignment property (Publisher)
 
 Returns or sets the alignment (the origin of the coordinate grid) for the tiling of the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextureAlignment**
+_expression_.**TextureAlignment**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -57,3 +58,4 @@ The setting of the  **TextureAlignment** property corresponds to the **Alignment
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

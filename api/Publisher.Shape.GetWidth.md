@@ -1,5 +1,5 @@
 ---
-title: Shape.GetWidth Method (Publisher)
+title: Shape.GetWidth method (Publisher)
 keywords: vbapb10.chm2228249
 f1_keywords:
 - vbapb10.chm2228249
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.GetWidth
 ms.assetid: 9df33329-c37b-82f5-93b4-fc4752ee907e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GetWidth Method (Publisher)
+# Shape.GetWidth method (Publisher)
 
 Returns the width of the shape or shape range as a  **Single** in the specified units.
 
 
 ## Syntax
 
- _expression_. **GetWidth**(**_Unit_**)
+_expression_.**GetWidth**(**_Unit_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -59,4 +60,4 @@ With ActiveDocument.Pages(1).Shapes.Range
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

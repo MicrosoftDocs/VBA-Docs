@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7713be84-dcba-429a-8285-9ace8790eee7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.EnableChangeHighlighting Property (Project)](http://msdn.microsoft.com/library/68365e16-6746-9ee6-9462-f9b076f986c6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

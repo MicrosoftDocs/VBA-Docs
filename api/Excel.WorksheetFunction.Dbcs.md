@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dbcs Method (Excel)
+title: WorksheetFunction.Dbcs method (Excel)
 keywords: vbaxl10.chm137247
 f1_keywords:
 - vbaxl10.chm137247
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Dbcs
 ms.assetid: 4fb2604f-2533-bb62-23e4-7aecd4d08b83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Dbcs Method (Excel)
+# WorksheetFunction.Dbcs method (Excel)
 
-Converts half-width (single-byte) letters within a character string to full-width (double-byte) characters. The name of the function (and the characters that it converts) depends upon the language settings. Read/write  **String** .
+Converts half-width (single-byte) letters within a character string to full-width (double-byte) characters. The name of the function (and the characters that it converts) depends upon the language settings. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Dbcs`( `_Arg1_` )
+_expression_. `Dbcs`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

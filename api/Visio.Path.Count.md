@@ -1,5 +1,5 @@
 ---
-title: Path.Count Property (Visio)
+title: Path.Count property (Visio)
 keywords: vis_sdr.chm15413330
 f1_keywords:
 - vis_sdr.chm15413330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Path.Count
 ms.assetid: 15c9f099-8ad9-b38f-0cc3-64dc62769b29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Path.Count Property (Visio)
+# Path.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Path](./Visio.Path.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

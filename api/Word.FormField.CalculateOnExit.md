@@ -1,5 +1,5 @@
 ---
-title: FormField.CalculateOnExit Property (Word)
+title: FormField.CalculateOnExit property (Word)
 keywords: vbawd10.chm153616400
 f1_keywords:
 - vbawd10.chm153616400
@@ -8,17 +8,18 @@ api_name:
 - Word.FormField.CalculateOnExit
 ms.assetid: d92a165b-3138-9aae-bb98-08b7b01e52f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormField.CalculateOnExit Property (Word)
+# FormField.CalculateOnExit property (Word)
 
- **True** if references to the specified form field are automatically updated whenever the field is exited. Read/write **Boolean** .
+ **True** if references to the specified form field are automatically updated whenever the field is exited. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CalculateOnExit`
+_expression_. `CalculateOnExit`
 
  _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 
@@ -63,3 +64,4 @@ End With
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

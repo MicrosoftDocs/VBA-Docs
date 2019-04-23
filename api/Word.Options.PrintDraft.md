@@ -1,5 +1,5 @@
 ---
-title: Options.PrintDraft Property (Word)
+title: Options.PrintDraft property (Word)
 keywords: vbawd10.chm162988319
 f1_keywords:
 - vbawd10.chm162988319
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PrintDraft
 ms.assetid: 23be1e0a-784b-5b0f-107c-78e200e31159
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PrintDraft Property (Word)
+# Options.PrintDraft property (Word)
 
- **True** if Microsoft Word prints using minimal formatting. Read/write **Boolean** .
+ **True** if Microsoft Word prints using minimal formatting. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintDraft`
+_expression_. `PrintDraft`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -53,3 +54,4 @@ temp = Options.PrintDraft
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

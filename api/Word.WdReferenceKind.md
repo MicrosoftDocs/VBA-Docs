@@ -1,14 +1,15 @@
 ---
-title: WdReferenceKind Enumeration (Word)
+title: WdReferenceKind enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdReferenceKind
 ms.assetid: 8986d370-23b2-acfe-f60f-ca9c16d9a8e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdReferenceKind Enumeration (Word)
+# WdReferenceKind enumeration (Word)
 
 Specifies the information to include in a cross-reference.
 
@@ -30,3 +31,4 @@ Specifies the information to include in a cross-reference.
 | **wdPageNumber**|7|Insert page number of specified item.|
 | **wdPosition**|15|Insert the word "Above" or the word "Below" as appropriate.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

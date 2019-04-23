@@ -1,14 +1,15 @@
 ---
-title: xlPieSliceIndex enumeration (Excel)
+title: XlPieSliceIndex enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPieSliceIndex
 ms.assetid: 04cfc5f3-2a8a-fbd7-e512-4bcd9f524f32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPieSliceIndex enumeration (Excel)
+# XlPieSliceIndex enumeration (Excel)
 
 Specifies which position on the slice to return the coordinate of.
 
@@ -26,3 +27,4 @@ Specifies which position on the slice to return the coordinate of.
 | **xlOuterClockwisePoint**|3|The outermost clockwise point of the circumference of a slice.|
 | **xlOuterCounterClockwisePoint**|1|The outermost counterclockwise point of the circumference of a slice.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

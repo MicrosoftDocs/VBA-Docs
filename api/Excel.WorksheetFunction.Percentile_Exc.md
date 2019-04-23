@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Percentile_Exc Method (Excel)
+title: WorksheetFunction.Percentile_Exc method (Excel)
 keywords: vbaxl10.chm137372
 f1_keywords:
 - vbaxl10.chm137372
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Percentile_Exc
 ms.assetid: 56a7f7eb-c69c-0baa-c64b-68fb128c4861
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Percentile_Exc Method (Excel)
+# WorksheetFunction.Percentile_Exc method (Excel)
 
 Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive.
 
 
 ## Syntax
 
- _expression_. `Percentile_Exc`( `_Arg1_` , `_Arg2_` )
+_expression_. `Percentile_Exc`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

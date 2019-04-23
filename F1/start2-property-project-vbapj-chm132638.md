@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 883ddad4-cac1-4122-81d5-51da81588531
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Start2 Property (Project)](http://msdn.microsoft.com/library/7ce47332-963f-125e-8759-d881b056c0b7%28Office.15%29.aspx)
 [TableField.Field Property (Project)](http://msdn.microsoft.com/library/faeb3521-d25b-7474-cb35-e22cd2daffc7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

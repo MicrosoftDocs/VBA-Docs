@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 394d69a5-371c-4e0f-6671-c4da9227dfcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ You can set section properties which are attributes of a form that affect the ap
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.Draft
 ms.assetid: 133d474c-2058-7dd9-d10b-0e45d9b2f972
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.Draft property (Excel)
 
- **True** if the sheet will be printed without graphics. Read/write **Boolean** .
+ **True** if the sheet will be printed without graphics. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Draft`
+_expression_. `Draft`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").PageSetup.Draft = True
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

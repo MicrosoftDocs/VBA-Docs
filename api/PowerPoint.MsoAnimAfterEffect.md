@@ -1,14 +1,15 @@
 ---
-title: MsoAnimAfterEffect Enumeration (PowerPoint)
+title: MsoAnimAfterEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimAfterEffect
 ms.assetid: f256ae08-29a4-efe5-2402-c212b6fca9a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MsoAnimAfterEffect Enumeration (PowerPoint)
+# MsoAnimAfterEffect enumeration (PowerPoint)
 
 Indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. 
 
@@ -22,3 +23,4 @@ Indicates whether an after effect appears dimmed, hidden, or unchanged after it 
 |**msoAnimAfterEffectMixed**|-1|Mixed|
 |**msoAnimAfterEffectNone**|0|Unchanged|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

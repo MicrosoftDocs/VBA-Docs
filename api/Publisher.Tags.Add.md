@@ -1,5 +1,5 @@
 ---
-title: Tags.Add Method (Publisher)
+title: Tags.Add method (Publisher)
 keywords: vbapb10.chm4653060
 f1_keywords:
 - vbapb10.chm4653060
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Tags.Add
 ms.assetid: 78602ccc-8198-1183-4775-fe626eb8b5af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tags.Add Method (Publisher)
+# Tags.Add method (Publisher)
 
 Adds a new  **Tag** object to the specified **Tags** object and returns the new **Tag** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Name_**,  **_Value_**)
+_expression_.**Add**(**_Name_**,  **_Value_**)
 
  _expression_ A variable that represents a  **Tags** object.
 
@@ -49,4 +50,4 @@ Set tagNew = ActiveDocument.Pages(1).Shapes(1).Tags _
  .Add(Name:="required", Value:="yes")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

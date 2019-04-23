@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OutlineLevel Property (Word)
+title: Paragraph.OutlineLevel property (Word)
 keywords: vbawd10.chm156696778
 f1_keywords:
 - vbawd10.chm156696778
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.OutlineLevel
 ms.assetid: 657141b2-c02c-b3f5-5cf3-f92c5720bb28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.OutlineLevel Property (Word)
+# Paragraph.OutlineLevel property (Word)
 
-Returns or sets the outline level for the specified paragraph. Read/write  **[WdOutlineLevel](Word.WdOutlineLevel.md)** .
+Returns or sets the outline level for the specified paragraph. Read/write  **[WdOutlineLevel](Word.WdOutlineLevel.md)**.
 
 
 ## Syntax
 
- _expression_. `OutlineLevel`
+_expression_. `OutlineLevel`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ ActiveDocument.ActiveWindow.View.Type = wdOutlineView
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

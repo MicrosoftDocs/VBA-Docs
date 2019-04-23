@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadWidth Property (Publisher)
+title: LineFormat.EndArrowheadWidth property (Publisher)
 keywords: vbapb10.chm3408135
 f1_keywords:
 - vbapb10.chm3408135
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.EndArrowheadWidth
 ms.assetid: 20284d2d-e733-ee26-3c1c-53fd60012a75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.EndArrowheadWidth Property (Publisher)
+# LineFormat.EndArrowheadWidth property (Publisher)
 
 Returns or sets an  **MsoArrowheadWidth** constant indicating the width of the arrowhead at the end of the specified line. Read/write.
 
 
 ## Syntax
 
- _expression_. **EndArrowheadWidth**
+_expression_.**EndArrowheadWidth**
 
  _expression_ A variable that represents an  **LineFormat** object.
 
@@ -32,7 +33,7 @@ MsoArrowheadWidth
 
 Use the  **[BeginArrowheadWidth](Publisher.LineFormat.BeginArrowheadWidth.md)** property to return or set the width of the arrowhead at the beginning of the line.
 
-The  **EndArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](./Office.MsoArrowheadWidth.md)** constants declared in the Microsoft Office type library.
+The  **EndArrowheadWidth** property value can be one of the **[MsoArrowheadWidth](Office.MsoArrowheadWidth.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -54,4 +55,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

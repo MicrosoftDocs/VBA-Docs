@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut Object (Visio)
+title: MasterShortcut object (Visio)
 keywords: vis_sdr.chm10140
 f1_keywords:
 - vis_sdr.chm10140
@@ -8,16 +8,17 @@ api_name:
 - Visio.MasterShortcut
 ms.assetid: ada22e59-5bda-2dd7-33bc-1e26e95adc31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut Object (Visio)
+# MasterShortcut object (Visio)
 
 Represents a master shortcut in a stencil. A master shortcut references a master in a stencil.
 
 
 ## Remarks
 
-The default property of a  **MasterShortcut** object is **Name** .
+The default property of a  **MasterShortcut** object is **Name**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

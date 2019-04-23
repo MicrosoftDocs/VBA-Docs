@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetView.Parent
 ms.assetid: fc7f2258-0b36-c18f-e324-1eaac5b99494
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
+_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

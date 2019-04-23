@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 16991cb5-546d-4a6c-94fd-308b78dab206
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.LevelFreeformTasks Property (Project)](http://msdn.microsoft.com/library/d9a9abca-0efa-ea38-3665-7f7b7ecccc9e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

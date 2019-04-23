@@ -1,24 +1,25 @@
 ---
-title: Application.ChartDataPointTrack Property (PowerPoint)
+title: Application.ChartDataPointTrack property (PowerPoint)
 keywords: vbapp10.chm502071
 f1_keywords:
 - vbapp10.chm502071
 ms.assetid: c31b3771-d7b1-7559-4480-75f91f1d1f52
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Application.ChartDataPointTrack Property (PowerPoint)
+# Application.ChartDataPointTrack property (PowerPoint)
 
 Returns or sets a  **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
 
 
 ## Syntax
 
- _expression_. `ChartDataPointTrack`
+_expression_. `ChartDataPointTrack`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -35,4 +36,4 @@ In cell-reference data-point tracking, data labels track the cell reference that
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

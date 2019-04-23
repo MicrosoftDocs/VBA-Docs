@@ -1,14 +1,15 @@
 ---
-title: WdThemeColorIndex Enumeration (Word)
+title: WdThemeColorIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdThemeColorIndex
 ms.assetid: 53155d76-428a-20c2-66d4-241788e3377a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdThemeColorIndex Enumeration (Word)
+# WdThemeColorIndex enumeration (Word)
 
 Specifies the theme colors for document themes.
 
@@ -34,3 +35,4 @@ Specifies the theme colors for document themes.
 | **wdThemeColorText1**|13|Text color 1.|
 | **wdThemeColorText2**|15|Text color 2.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

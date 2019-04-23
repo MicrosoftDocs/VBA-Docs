@@ -1,5 +1,5 @@
 ---
-title: MouseEvent.KeyButtonState Property (Visio)
+title: MouseEvent.KeyButtonState property (Visio)
 keywords: vis_sdr.chm17151715
 f1_keywords:
 - vis_sdr.chm17151715
@@ -8,17 +8,18 @@ api_name:
 - Visio.MouseEvent.KeyButtonState
 ms.assetid: d4a408af-38a4-6e3f-3dfc-6ebf342c6bb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MouseEvent.KeyButtonState Property (Visio)
+# MouseEvent.KeyButtonState property (Visio)
 
 Returns the state of mouse buttons and the SHIFT and CTRL keys associated with a mouse event. Read-only.
 
 
 ## Syntax
 
- _expression_. `KeyButtonState`
+_expression_. `KeyButtonState`
 
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 
@@ -46,7 +47,7 @@ Possible values for  **KeyButtonState** can be a combination of any of the value
 
 This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains an event handler for the **MouseDown** event that prints to the Immediate window the state of the mouse buttons and CTRL and SHIFT keys when the event fired.
 
-To run this example, insert a new class module in your VBA project, name it  **MouseListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it  **MouseListener**, and insert the following code in the module.
 
 
 
@@ -96,4 +97,4 @@ End Sub
 
 Save the document to initialize the class, and then click anywhere in the active window (optionally, while pressing SHIFT and/or CTRL) to fire a  **MouseDown** event. In the Immediate window, the handler prints the name of the mouse button that was clicked to fire the event. If you pressed either or both of the keys, the name of the key or keys you pressed will print as well.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 888f57c3-8c73-4bb8-b25f-3d8df512eba7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape.RowType Property (Visio)](http://msdn.microsoft.com/library/416b77f1-6cec-de5b-c2b8-c6e5b239c54c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

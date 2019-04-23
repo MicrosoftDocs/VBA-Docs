@@ -1,5 +1,5 @@
 ---
-title: Application.DeferRecalc Property (Visio)
+title: Application.DeferRecalc property (Visio)
 keywords: vis_sdr.chm10013400
 f1_keywords:
 - vis_sdr.chm10013400
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.DeferRecalc
 ms.assetid: 25f7ee2e-8987-f03e-5dee-74550bc19f83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DeferRecalc Property (Visio)
+# Application.DeferRecalc property (Visio)
 
 Determines whether the application recalculates cell formulas during a series of actions. Read/write.
 
 
 ## Syntax
 
- _expression_. `DeferRecalc`
+_expression_. `DeferRecalc`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -68,4 +69,4 @@ Application.DeferRecalc = blsDeferCalcOriginalValue
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

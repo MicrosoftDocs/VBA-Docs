@@ -1,15 +1,16 @@
 ---
-title: Variables Object (Word)
+title: Variables object (Word)
 keywords: vbawd10.chm2405
 f1_keywords:
 - vbawd10.chm2405
 ms.prod: word
 ms.assetid: 9719d0d4-319d-c710-d243-12a9dee45880
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Variables Object (Word)
+# Variables object (Word)
 
 A collection of  **[Variable](Word.Variable.md)** objects that represent the variables added to a document or template. Document variables are used to preserve macro settings in between macro sessions.
 
@@ -83,6 +84,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

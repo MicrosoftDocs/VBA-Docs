@@ -1,14 +1,15 @@
 ---
-title: Cell Object (Project)
+title: Cell object (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell
 ms.assetid: 553c50f1-1288-72b8-e2d2-74b3aee988c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell Object (Project)
+# Cell object (Project)
 
 
 
@@ -20,7 +21,7 @@ Use the  **ActiveCell** property to return a **Cell** object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Cell.Application.md)|
 |[Assignment](./Project.Cell.Assignment.md)|
@@ -37,3 +38,4 @@ Use the  **ActiveCell** property to return a **Cell** object.
 |[Text](./Project.Cell.Text.md)|
 |[Engagement](./Project.cell.engagement.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

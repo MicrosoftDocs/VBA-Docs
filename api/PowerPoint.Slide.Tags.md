@@ -1,5 +1,5 @@
 ---
-title: Slide.Tags Property (PowerPoint)
+title: Slide.Tags property (PowerPoint)
 keywords: vbapp10.chm531017
 f1_keywords:
 - vbapp10.chm531017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.Tags
 ms.assetid: 2869e5db-3355-0747-633b-2da430667e5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.Tags Property (PowerPoint)
+# Slide.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Tags`
+_expression_. `Tags`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -93,3 +94,4 @@ Next
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

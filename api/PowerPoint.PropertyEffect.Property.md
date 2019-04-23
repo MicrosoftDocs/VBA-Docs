@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect.Property Property (PowerPoint)
+title: PropertyEffect.Property property (PowerPoint)
 keywords: vbapp10.chm662003
 f1_keywords:
 - vbapp10.chm662003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PropertyEffect.Property
 ms.assetid: bb0ef094-0edd-3bc4-c02a-70fc8646017e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyEffect.Property Property (PowerPoint)
+# PropertyEffect.Property property (PowerPoint)
 
 Sets or returns an  **[MsoAnimProperty](PowerPoint.MsoAnimProperty.md)** constant that represents an animation property. Read/write.
 
 
 ## Syntax
 
- _expression_. `Property`
+_expression_. `Property`
 
  _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 
@@ -65,3 +66,4 @@ End Sub
 
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

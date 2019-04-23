@@ -1,5 +1,5 @@
 ---
-title: Sequence.Application Property (PowerPoint)
+title: Sequence.Application property (PowerPoint)
 keywords: vbapp10.chm651001
 f1_keywords:
 - vbapp10.chm651001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Sequence.Application
 ms.assetid: af83a8ca-d6b9-8aa2-2468-d43f4650a101
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sequence.Application Property (PowerPoint)
+# Sequence.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Sequence Object](PowerPoint.Sequence.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

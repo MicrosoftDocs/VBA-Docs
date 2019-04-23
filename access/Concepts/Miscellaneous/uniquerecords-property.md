@@ -9,6 +9,7 @@ api_name:
 - Access.UniqueRecords
 ms.assetid: 05ab9d9b-d23f-2da3-9ba4-fa917e013dec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,7 +27,7 @@ You can use the **UniqueRecords** property to specify whether to return only uni
 
 The **UniqueRecords** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Yes|Doesn't return duplicate records.|
 |No|(Default) Returns duplicate records.|
@@ -93,3 +94,5 @@ ON Customers.CustomerID = Orders.CustomerID;
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

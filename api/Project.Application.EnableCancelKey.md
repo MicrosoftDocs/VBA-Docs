@@ -1,5 +1,5 @@
 ---
-title: Application.EnableCancelKey Property (Project)
+title: Application.EnableCancelKey property (Project)
 keywords: vbapj.chm131792
 f1_keywords:
 - vbapj.chm131792
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EnableCancelKey
 ms.assetid: 9b5f4f90-3ef3-139b-5f76-f48d3d7710a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EnableCancelKey Property (Project)
+# Application.EnableCancelKey property (Project)
 
 Gets or sets a value that controls how the CTRL + BREAK key combination is handled when a macro is running. Read/write  **PjEnableCancelKey**.
 
 
 ## Syntax
 
- _expression_. `EnableCancelKey`
+_expression_. `EnableCancelKey`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ handleCancel:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: RDS Code Examples
 ms.prod: access
 ms.assetid: 0800fec6-5078-3ef7-1e2c-33d10d8a9ebd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,3 +35,5 @@ Use the following code examples to learn how to use the RDS objects, methods, pr
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddMergeRec Method (Word)
+title: MailMergeFields.AddMergeRec method (Word)
 keywords: vbawd10.chm153026665
 f1_keywords:
 - vbawd10.chm153026665
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.AddMergeRec
 ms.assetid: 50146076-696e-9a78-5e58-4ecb0f32607f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.AddMergeRec Method (Word)
+# MailMergeFields.AddMergeRec method (Word)
 
 Adds a MERGEREC field to a mail merge main document. Returns a  **MailMergeField** object.
 
 
 ## Syntax
 
- _expression_. `AddMergeRec`( `_Range_` )
+_expression_. `AddMergeRec`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ rngTemp.InsertAfter "Record Number: "
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

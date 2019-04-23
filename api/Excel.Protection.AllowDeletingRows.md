@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowDeletingRows
 ms.assetid: da418f4e-ca3e-b0f2-4b12-fe578b0bf20b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowDeletingRows property (Excel)
 
-Returns  **True** if the deletion of rows is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the deletion of rows is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowDeletingRows`
+_expression_. `AllowDeletingRows`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

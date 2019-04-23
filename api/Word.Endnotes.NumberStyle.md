@@ -1,5 +1,5 @@
 ---
-title: Endnotes.NumberStyle Property (Word)
+title: Endnotes.NumberStyle property (Word)
 keywords: vbawd10.chm155254885
 f1_keywords:
 - vbawd10.chm155254885
@@ -8,17 +8,18 @@ api_name:
 - Word.Endnotes.NumberStyle
 ms.assetid: 9157acf1-6452-ec85-5032-66cf960b94f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnotes.NumberStyle Property (Word)
+# Endnotes.NumberStyle property (Word)
 
-Returns or sets the number style. Read/write  **WdNoteNumberStyle** .
+Returns or sets the number style. Read/write  **WdNoteNumberStyle**.
 
 
 ## Syntax
 
- _expression_. `NumberStyle`
+_expression_. `NumberStyle`
 
  _expression_ An expression that represents a '[Endnotes](Word.endnotes.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Endnotes Collection Object](Word.endnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

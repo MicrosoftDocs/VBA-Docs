@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 857f9df9-c80d-e998-b8db-0ed7b9167e0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,8 +16,9 @@ You must have an [expression](../../Glossary/vbe-glossary.md#expression) selecte
 
 
 
-- You didn't select an expression to watch before choosing  **Instant Watch**. Highlight the [watch expression](../../Glossary/vbe-glossary.md#watch-expression) in the **Code** window before choosing **Instant Watch**.
+- You didn't select an expression to watch before choosing  **Instant Watch**. Highlight the [watch expression](../../Glossary/vbe-glossary.md#watch-expression) in the Code window before choosing **Instant Watch**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

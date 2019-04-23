@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 72e3b0e0-c709-451d-8809-3cc33eb2afae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.BeforeDataRecordsetDelete Event (Visio)](http://msdn.microsoft.com/library/0d007a29-b7a9-5355-b3d4-dca8600ddc9f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

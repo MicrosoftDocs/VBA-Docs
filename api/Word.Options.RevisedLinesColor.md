@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedLinesColor Property (Word)
+title: Options.RevisedLinesColor property (Word)
 keywords: vbawd10.chm162988094
 f1_keywords:
 - vbawd10.chm162988094
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.RevisedLinesColor
 ms.assetid: bc8cd36f-49ac-119a-4f9f-f2e9b20f9bd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.RevisedLinesColor Property (Word)
+# Options.RevisedLinesColor property (Word)
 
-Returns or sets the color of changed lines in a document with tracked changes. Read/write  **WdColorIndex** .
+Returns or sets the color of changed lines in a document with tracked changes. Read/write  **WdColorIndex**.
 
 
 ## Syntax
 
- _expression_. `RevisedLinesColor`
+_expression_. `RevisedLinesColor`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -47,3 +48,4 @@ temp = Options.RevisedLinesColor
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

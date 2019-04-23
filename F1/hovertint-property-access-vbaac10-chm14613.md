@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a5e162df-b935-4979-b479-5276de380d93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.HoverTint property (Access)](http://msdn.microsoft.com/library/0eac99ff-c693-d456-c319-ec1ce60ba05d%28Office.15%29.aspx)
 [TabControl.HoverTint property (Access)](http://msdn.microsoft.com/library/24de8049-121d-e8c2-ecce-f88b1651cee0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

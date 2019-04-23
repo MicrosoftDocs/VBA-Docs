@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.RangeSelection
 ms.assetid: 1290970f-4a7a-ce68-da5a-d1a90dacf19f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the select
 
 ## Syntax
 
- _expression_. `RangeSelection`
+_expression_. `RangeSelection`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ MsgBox ActiveWindow.RangeSelection.Address
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.ListIndex
 ms.assetid: 34df9efc-e53b-58fd-31b1-4ae592d3d9a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.ListIndex property (Excel)
 
-Returns or sets the index number of the currently selected item in a list box or combo box. Read/write  **Long** .
+Returns or sets the index number of the currently selected item in a list box or combo box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `ListIndex`
+_expression_. `ListIndex`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ lbcf.RemoveItem lbcf.ListIndex
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,12 +4,15 @@ ms.prod: access
 ms.assetid: 56fe8923-053f-e04d-78d6-c4dd814b6499
 ROBOTS: INDEX
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Create a shortcut menu for a form, form control, or report
 
-When you're designing a form or report, you may want to provide a method for a user to easily use a command that applies only to the current context. One way to do this is to create a custom shortcut menu and apply it to a form report, or control. The shortcut menu appears when the user right-clicks the object to which the shortcut menu is applied.
+**Applies to**: Access 2013
+
+When you are designing a form or report, you may want to provide a method for a user to easily use a command that applies only to the current context. One way to do this is to create a custom shortcut menu and apply it to a form report, or control. The shortcut menu appears when the user right-clicks the object to which the shortcut menu is applied.
 
 In earlier versions of **Access**, you could use the **Customize** dialog box to create custom shortcut menus. In Access 2013, you must use Visual Basic for Applications (VBA) code to create a shortcut menu. This article describes you how to create a shortcut menu using VBA.
 
@@ -38,7 +41,7 @@ Sub CreateSimpleShortcutMenu()
 End Sub
 ```
 
-Once you've run the code, the shortcut menu is saved as part of the database. You don't have to run the same code to re-create the shortcut menu every time that you open the database.
+After you've run the code, the shortcut menu is saved as part of the database. You don't have to run the same code to re-create the shortcut menu every time that you open the database.
 
 To assign the shortcut menu to a form, form control, or report, set the **Shortcut Menu** property of the object to **Yes** and set the **Shortcut Menu Bar** property of the object to the name of the shortcut menu. For this example, set the **Shortcut Menu Bar** property to **SimpleShortcutMenu**.
 
@@ -77,6 +80,8 @@ Sub CreateShortcutMenuWithGroups()
 Set cmbRightClick = Nothing 
 End Sub
 ```
+
+<br/>
 
 The following example creates a shortcut menu named **cmdReportRightClick** that contains commands that are useful to use with a report. This example shows how to change the **Caption** property of each control as they're added to the shortcut menu.
 
@@ -136,4 +141,4 @@ End Sub
 
 Sample code provided by Edwin Blancovitch, president of [Advanced Developers.net](https://advdev.net/), creators of [Easy Payroll](https://www.easypayroll.net/), a software package to manage your human resources, payroll, scheduling, time, and attendance needs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

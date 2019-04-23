@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsEdit Method (Project)
+title: Application.VisualReportsEdit method (Project)
 keywords: vbapj.chm2143
 f1_keywords:
 - vbapj.chm2143
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.VisualReportsEdit
 ms.assetid: ba439985-f18b-f9a3-23d5-3d5ae39c50dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.VisualReportsEdit Method (Project)
+# Application.VisualReportsEdit method (Project)
 
 Opens the default or a specified Visual Reports template for editing.
 
 
 ## Syntax
 
- _expression_. `VisualReportsEdit`( ` _strVisualReportTemplateFile_`, ` _PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsEdit`( `_strVisualReportTemplateFile_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -51,4 +52,4 @@ The following example opens the "MyTemplate.xlt" template, with a data level of 
 Application.VisualReportsEdit("C:\MyTemplate.xlt", pjMonths)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

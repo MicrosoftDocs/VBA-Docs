@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Add Method (PowerPoint)
+title: CustomerData.Add method (PowerPoint)
 keywords: vbapp10.chm675004
 f1_keywords:
 - vbapp10.chm675004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.CustomerData.Add
 ms.assetid: f39bc83a-4c3b-6803-12d1-9ae72e601b49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomerData.Add Method (PowerPoint)
+# CustomerData.Add method (PowerPoint)
 
- Adds a **[CustomXMLPart](./Office.CustomXMLPart.md)** to the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object and returns the **CustomXMLPart** object created.
+ Adds a **[CustomXMLPart](Office.CustomXMLPart.md)** to the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object and returns the **CustomXMLPart** object created.
 
 
 ## Syntax
 
- _expression_. `Add`
+_expression_.**Add**
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 
@@ -72,3 +73,4 @@ End Sub
 
 [CustomerData Collection](PowerPoint.CustomerData.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

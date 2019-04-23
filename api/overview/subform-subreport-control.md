@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a010e499-7ea6-56c2-5159-5a7df1562ca5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,6 +28,8 @@ For example, you can use a form with a subform to present one-to-many relationsh
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraph.KeepTogether Property (Word)
+title: Paragraph.KeepTogether property (Word)
 keywords: vbawd10.chm156696678
 f1_keywords:
 - vbawd10.chm156696678
@@ -8,24 +8,25 @@ api_name:
 - Word.Paragraph.KeepTogether
 ms.assetid: 9f97bd22-29ef-fb5e-3b9b-43fd085f494e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.KeepTogether Property (Word)
+# Paragraph.KeepTogether property (Word)
 
- **True** if all lines in the specified paragraph remain on the same page when Microsoft Word repaginates the document. Read/write **Long** .
+ **True** if all lines in the specified paragraph remain on the same page when Microsoft Word repaginates the document. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `KeepTogether`
+_expression_. `KeepTogether`
 
  _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** .
+This property can be  **True**, **False**, or **wdUndefined**.
 
 
 ## Example
@@ -43,3 +44,4 @@ ActiveDocument.Paragraphs(1).KeepTogether = True
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

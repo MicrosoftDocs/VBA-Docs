@@ -1,33 +1,31 @@
 ---
-title: Application.AfterDragDropOnSlide Event (PowerPoint)
+title: Application.AfterDragDropOnSlide event (PowerPoint)
 keywords: vbapp10.chm621032
 f1_keywords:
 - vbapp10.chm621032
 ms.assetid: 1de9f2a4-565b-152a-452a-cb0c1a135c35
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Application.AfterDragDropOnSlide Event (PowerPoint)
+# Application.AfterDragDropOnSlide event (PowerPoint)
 
 Occurs after a shape has been dropped onto a slide in an open presentation.
 
 
 ## Syntax
 
- _expression_. `AfterDragDropOnSlide`_(Sld,_ _X,_ _Y)_
+_expression_. `AfterDragDropOnSlide`(_Sld_, _X_, _Y_)
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](PowerPoint.Application.md) object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|||||
 | _Sld_|Required|[Slide](PowerPoint.Slide.md)|The slide that raised the event (that is, had a shape added to it).|
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
@@ -35,3 +33,4 @@ Occurs after a shape has been dropped onto a slide in an open presentation.
 | _X_|Required|FLOAT||
 | _Y_|Required|FLOAT||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

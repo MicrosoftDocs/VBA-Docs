@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: f9baf243-88e1-08f5-079b-878bc520098f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns the previous name of the table.  **String** Read-only
 
 ## Syntax
 
- _expression_. `TableNameOld`
+_expression_. `TableNameOld`
 
- _expression_ A variable that represents a [ModelTableNameChange](Excel.modeltablenamechange.md) object.
+_expression_ A variable that represents a [ModelTableNameChange](Excel.modeltablenamechange.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns the previous name of the table.  **String** Read-only
 
 [ModelTableNameChange Object](Excel.modeltablenamechange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

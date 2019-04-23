@@ -1,5 +1,5 @@
 ---
-title: Shape.AddSection Method (Visio)
+title: Shape.AddSection method (Visio)
 keywords: vis_sdr.chm11216060
 f1_keywords:
 - vis_sdr.chm11216060
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.AddSection
 ms.assetid: 64396db4-8361-ece9-b029-24d62ba0a290
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.AddSection Method (Visio)
+# Shape.AddSection method (Visio)
 
 Adds a new section to a ShapeSheet spreadsheet.
 
 
 ## Syntax
 
- _expression_. `AddSection`( `_Section_` )
+_expression_. `AddSection`( `_Section_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -56,12 +57,12 @@ Shape.AddSection(visSectionFirstComponent + i)
 
 ```
 
- where 0 <= i < **visSectionLastComponent** - **visSectionFirstComponent** .
+ where 0 <= i < **visSectionLastComponent** - **visSectionFirstComponent**.
 
 
-- When 0 <= i <  **Shape.GeometryCount** , the new section precedes the present i'th Geometry section.
+- When 0 <= i <  **Shape.GeometryCount**, the new section precedes the present i'th Geometry section.
     
-- When  **Shape.GeometryCount** <= i < **visSectionLastComponent** - **visSectionFirstComponent** , the new section is the last section.
+- When  **Shape.GeometryCount** <= i < **visSectionLastComponent** - **visSectionFirstComponent**, the new section is the last section.
     
 
 
@@ -90,4 +91,4 @@ Public Sub AddSection_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

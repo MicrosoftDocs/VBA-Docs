@@ -1,5 +1,5 @@
 ---
-title: Document.SaveAs Method (Visio)
+title: Document.SaveAs method (Visio)
 keywords: vis_sdr.chm10516500
 f1_keywords:
 - vis_sdr.chm10516500
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.SaveAs
 ms.assetid: 308e92b1-de61-9ce3-19be-b7f9126247a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SaveAs Method (Visio)
+# Document.SaveAs method (Visio)
 
 Saves a document and gives it a file name.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_FileName_` )
+_expression_. `SaveAs`( `_FileName_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -63,4 +64,4 @@ Public Sub SaveAs_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

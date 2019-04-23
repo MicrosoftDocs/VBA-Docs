@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Areas
 ms.assetid: 31fc03b4-25b6-27ae-2350-b34c6c6ba255
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[Areas](Excel.Areas.md)** collection that represents all the range
 
 ## Syntax
 
- _expression_. `Areas`
+_expression_. `Areas`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End If
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

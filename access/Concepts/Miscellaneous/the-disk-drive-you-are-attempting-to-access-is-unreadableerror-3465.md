@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: daf2bfe3-8e1f-860e-fbb9-eb7f87032352
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ If you are attempting to access a floppy disk, make sure the door to the disk dr
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

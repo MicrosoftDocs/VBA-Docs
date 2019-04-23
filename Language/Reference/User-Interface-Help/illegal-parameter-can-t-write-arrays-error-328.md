@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2c6082d4-a747-a50c-7d09-d26e0be98e9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,6 +19,5 @@ An illegal [parameter](../../Glossary/vbe-glossary.md#parameter) was passed to t
 - In the  **WriteProperties** event of your User Control, you tried to do a **PropBag.WriteProperty** X, where X is an [array](../../Glossary/vbe-glossary.md#array). This isn't supported.
     
     You must write out each element of the array individually.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

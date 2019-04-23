@@ -1,5 +1,5 @@
 ---
-title: Cell.VerticalTextAlignment Property (Publisher)
+title: Cell.VerticalTextAlignment property (Publisher)
 keywords: vbapb10.chm5111840
 f1_keywords:
 - vbapb10.chm5111840
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.VerticalTextAlignment
 ms.assetid: 793bf932-15d0-cce9-1d5d-aee5d260e1a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.VerticalTextAlignment Property (Publisher)
+# Cell.VerticalTextAlignment property (Publisher)
 
 Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalTextAlignment**
+_expression_.**VerticalTextAlignment**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -45,4 +46,4 @@ Sub SetVerticalAlignment()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

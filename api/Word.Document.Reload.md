@@ -1,5 +1,5 @@
 ---
-title: Document.Reload Method (Word)
+title: Document.Reload method (Word)
 keywords: vbawd10.chm158007433
 f1_keywords:
 - vbawd10.chm158007433
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Reload
 ms.assetid: 4feda9b6-dd7b-2e3c-b822-04684638e9d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Reload Method (Word)
+# Document.Reload method (Word)
 
 Reloads a cached document by resolving the hyperlink to the document and downloading it.
 
 
 ## Syntax
 
- _expression_. `Reload`
+_expression_. `Reload`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

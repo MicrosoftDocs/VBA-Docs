@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: df114dd7-0e19-521b-d17c-e1e0dc8f4599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a collection of OLAP Action name objects which will represent OLAP-defin
 
 ## Syntax
 
- _expression_. `ServerActions`
+_expression_. `ServerActions`
 
- _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+_expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ A server action is an optional feature that an OLAP cube administrator can defin
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

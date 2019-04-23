@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6b068d4f-4bd7-b93b-40d5-f8aa1dc262d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You are trying to execute an invalid operation, such as deleting a system table,
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: SmartArtNode.Level Property (Office)
+title: SmartArtNode.Level property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Level
 ms.assetid: 63143dbc-ecd2-240c-f4c1-2b32cd47872d
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# SmartArtNode.Level Property (Office)
+# SmartArtNode.Level property (Office)
 
 Retrieves the node's level in the hierarchy. Read-only.
 
 
 ## Syntax
 
-_expression_. `Level`
+_expression_.**Level**
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a **[SmartArtNode](Office.SmartArtNode.md)** object.
 
 
 ## Remarks
@@ -34,6 +35,8 @@ The levels start at 1 and increment upward. If a node has no level, a 0 is retur
 
 ## See also
 
-- [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
+- [SmartArtNode object members](overview/Library-Reference/smartartnode-members-office.md)
 
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

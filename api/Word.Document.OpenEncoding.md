@@ -1,5 +1,5 @@
 ---
-title: Document.OpenEncoding Property (Word)
+title: Document.OpenEncoding property (Word)
 keywords: vbawd10.chm158007628
 f1_keywords:
 - vbawd10.chm158007628
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.OpenEncoding
 ms.assetid: a147f531-de42-47c5-1a74-12ea65e64b8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.OpenEncoding Property (Word)
+# Document.OpenEncoding property (Word)
 
-Returns the encoding used to open the specified document. Read-only  **MsoEncoding** .
+Returns the encoding used to open the specified document. Read-only  **MsoEncoding**.
 
 
 ## Syntax
 
- _expression_. `OpenEncoding`
+_expression_. `OpenEncoding`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

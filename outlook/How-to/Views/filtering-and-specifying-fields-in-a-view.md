@@ -3,6 +3,7 @@ title: Filtering and Specifying Fields in a View
 ms.prod: outlook
 ms.assetid: 99cef6bf-1bf6-706f-9972-22005a255416
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,4 +26,4 @@ A  **ViewField** object not only identifies an Outlook item property to display 
 
 Outlook items can be filtered in any view derived from the  **[View](../../../api/Outlook.View.md)** object by specifying a DAV Searching and Locating (DASL) filter expression in the **[Filter](../../../api/Outlook.View.Filter.md)** property of the **View** object. For more information about creating a DASL filter expression with which to filter Outlook items, see [Filtering Items](../Search-and-Filter/filtering-items.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

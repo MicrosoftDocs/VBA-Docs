@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Document Property (Word)
+title: ProtectedViewWindow.Document property (Word)
 keywords: vbawd10.chm231735297
 f1_keywords:
 - vbawd10.chm231735297
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindow.Document
 ms.assetid: a4a3e32e-a697-9d9a-f4ea-a07daa1ea238
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Document Property (Word)
+# ProtectedViewWindow.Document property (Word)
 
 Returns a [Document](Word.Document.md) object associated with the protected view window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 
@@ -46,3 +47,4 @@ MsgBox myDoc.Name
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

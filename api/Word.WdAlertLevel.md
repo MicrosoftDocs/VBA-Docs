@@ -1,5 +1,5 @@
 ---
-title: WdAlertLevel Enumeration (Word)
+title: WdAlertLevel enumeration (Word)
 keywords: vbawd10.chm0
 f1_keywords:
 - vbawd10.chm0
@@ -8,10 +8,11 @@ api_name:
 - Word.WdAlertLevel
 ms.assetid: ecfcfb35-0fdc-0881-53aa-3c2e3f5350bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdAlertLevel Enumeration (Word)
+# WdAlertLevel enumeration (Word)
 
 Specifies the way certain alerts and messages are handled while a macro is running.
 
@@ -23,3 +24,4 @@ Specifies the way certain alerts and messages are handled while a macro is runni
 | **wdAlertsMessageBox**|-2|Only message boxes are displayed; errors are trapped and returned to the macro.|
 | **wdAlertsNone**|0|No alerts or message boxes are displayed. If a macro encounters a message box, the default value is chosen and the macro continues.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

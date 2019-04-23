@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: d50e7b95-016d-9ee7-533a-4a101e2316eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Move Controls on a Page
+# Move Controls on a Page
 
 The following example demonstrates moving all the controls on a form by using the  **Move** method with the Microsoft Forms 2.0 **Controls** collection. The user clicks on the **[CommandButton](../../../api/Outlook.commandbutton.md)** to move the controls.
 
@@ -25,4 +26,4 @@ Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

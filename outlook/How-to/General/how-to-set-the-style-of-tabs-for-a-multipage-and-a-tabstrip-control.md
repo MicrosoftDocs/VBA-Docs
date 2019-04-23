@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: abaeceb2-d8fd-92a5-8d54-eab94d9de394
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Set the Style of Tabs for a MultiPage and a TabStrip Control
+# Set the Style of Tabs for a MultiPage and a TabStrip Control
 
 The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. This example also demonstrates using a  **[Label](../../../api/Outlook.label.md)**. The user chooses a style by selecting an  **[OptionButton](../../../api/Outlook.optionbutton.md)**.
 
@@ -74,4 +75,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

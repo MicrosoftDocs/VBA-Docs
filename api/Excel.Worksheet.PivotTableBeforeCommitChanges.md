@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PivotTableBeforeCommitChanges Event (Excel)
+title: Worksheet.PivotTableBeforeCommitChanges event (Excel)
 keywords: vbaxl10.chm502084
 f1_keywords:
 - vbaxl10.chm502084
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.PivotTableBeforeCommitChanges
 ms.assetid: 4dfcfd60-9249-4eed-1bb3-183b5c567125
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.PivotTableBeforeCommitChanges Event (Excel)
+# Worksheet.PivotTableBeforeCommitChanges event (Excel)
 
 Occurs before changes are committed against the OLAP data source for a PivotTable.
 
 
 ## Syntax
 
- _expression_. `PivotTableBeforeCommitChanges`( `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
+_expression_. `PivotTableBeforeCommitChanges`( `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
 
- _expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' object.
+_expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' object.
 
 
 ## Parameters
@@ -32,7 +33,7 @@ Occurs before changes are committed against the OLAP data source for a PivotTabl
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the changes to commit.|
 | _ValueChangeStart_|Required| **Long**|The index to the first change in the associated  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** object. The index is specified by the **[Order](Excel.ValueChange.Order.md)** property of the **[ValueChange](Excel.ValueChange.md)** object in the **PivotTableChangeList** collection.|
 | _ValueChangeEnd_|Required| **Long**|The index to the last change in the associated  **PivotTableChangeList** object. The index is specified by the **Order** property of the **ValueChange** object in the **PivotTableChangeList** collection.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the changes are not committed against the OLAP data source of the PivotTable.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the changes are not committed against the OLAP data source of the PivotTable.|
 
 ## Return value
 
@@ -46,7 +47,7 @@ The  **PivotTableBeforeCommitChanges** event occurs immediately before Excel exe
 
 ## Example
 
-The following code example prompts the user before changes are commited to the PivotTable's OLAP data source.
+The following code example prompts the user before changes are committed to the PivotTable's OLAP data source.
 
 
 ```vb
@@ -66,3 +67,4 @@ End Sub
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

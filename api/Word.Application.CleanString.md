@@ -1,5 +1,5 @@
 ---
-title: Application.CleanString Method (Word)
+title: Application.CleanString method (Word)
 keywords: vbawd10.chm158335330
 f1_keywords:
 - vbawd10.chm158335330
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.CleanString
 ms.assetid: 00fd8b33-77b0-d17a-b4f2-52b3892ed912
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CleanString Method (Word)
+# Application.CleanString method (Word)
 
-Removes nonprinting characters (character codes 1 ? 29) and special Word characters from the specified string or changes them to spaces (character code 32). Returns the result as a  **String** .
+Removes nonprinting characters (character codes 1 ? 29) and special Word characters from the specified string or changes them to spaces (character code 32). Returns the result as a  **String**.
 
 
 ## Syntax
 
- _expression_. `CleanString`( `_String_` )
+_expression_. `CleanString`( `_String_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -82,3 +83,4 @@ MsgBox Application.CleanString(Selection.Text)
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

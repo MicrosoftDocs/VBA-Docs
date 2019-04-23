@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetDirectReports Method (Outlook)
+title: ExchangeUser.GetDirectReports method (Outlook)
 keywords: vbaol11.chm2083
 f1_keywords:
 - vbaol11.chm2083
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeUser.GetDirectReports
 ms.assetid: 753201ad-8001-3185-7d68-fda15907099d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetDirectReports Method (Outlook)
+# ExchangeUser.GetDirectReports method (Outlook)
 
 Obtains an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the users directly reporting to the Exchange user.
 
 
 ## Syntax
 
- _expression_. `GetDirectReports`
+_expression_. `GetDirectReports`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ An  **AddressEntries** collection object that contains the users directly report
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

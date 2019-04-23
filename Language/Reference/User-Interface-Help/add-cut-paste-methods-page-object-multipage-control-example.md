@@ -1,31 +1,25 @@
 ---
-title: Add, Cut, Paste Methods, Page Object, MultiPage Control Example
+title: Add, Cut, Paste methods, Page object, MultiPage control example
 keywords: fm20.chm5225155
 f1_keywords:
 - fm20.chm5225155
 ms.prod: office
 ms.assetid: 938475c8-b6cb-88b0-379d-398f52e5c51d
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Add, Cut, Paste Methods, Page Object, MultiPage Control Example
+# Add, Cut, Paste methods, Page object, MultiPage control example
 
-The following example uses the  **Add**, **Cut**, and **Paste** methods to cut and paste a control from a **Page** of a **MultiPage**. The control involved in the cut and paste operations is dynamically added to the form.
+The following example uses the **[Add](add-method-microsoft-forms.md)**, **[Cut](cut-method-microsoft-forms.md)**, and **[Paste](paste-method-microsoft-forms.md)** methods to cut and paste a control from a **[Page](page-object.md)** of a **[MultiPage](multipage-control.md)**. The control involved in the cut and paste operations is dynamically added to the form.
 
-This example assumes the user will add, then cut, then paste the new control.
+This example assumes that the user will add, cut, and then paste the new control.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- Three  **CommandButton** controls named CommandButton1 through CommandButton3.
-    
-- A  **MultiPage** named MultiPage1.
-    
-
-
-
+- Three **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.   
+- A **MultiPage** named MultiPage1.
 
 ```vb
 Dim MyTextBox As Control 
@@ -63,4 +57,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

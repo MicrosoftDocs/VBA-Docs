@@ -8,6 +8,7 @@ api_name:
 - Excel.Parameter.SourceRange
 ms.assetid: 243ac075-24cc-549a-58fb-195d71dc6e68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Range** object that represents the cell that contains the value of 
 
 ## Syntax
 
- _expression_. `SourceRange`
+_expression_. `SourceRange`
 
- _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
 ## Example
@@ -42,3 +43,4 @@ qt.Refresh
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

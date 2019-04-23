@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.Caption
 ms.assetid: 7cd928bf-3f69-0950-5b51-9168192c349e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the label text for the pivot field.
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ When using the  **Item** property to reference a specific member of a collection
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

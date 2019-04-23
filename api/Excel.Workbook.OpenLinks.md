@@ -1,5 +1,5 @@
 ---
-title: Workbook.OpenLinks Method (Excel)
+title: Workbook.OpenLinks method (Excel)
 keywords: vbaxl10.chm199120
 f1_keywords:
 - vbaxl10.chm199120
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.OpenLinks
 ms.assetid: cae33bab-892e-0861-e4ec-8a334097e0d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.OpenLinks Method (Excel)
+# Workbook.OpenLinks method (Excel)
 
 Opens the supporting documents for a link or links.
 
 
 ## Syntax
 
- _expression_. `OpenLinks`( `_Name_` , `_ReadOnly_` , `_Type_` )
+_expression_. `OpenLinks`( `_Name_` , `_ReadOnly_` , `_Type_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Opens the supporting documents for a link or links.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
-| _ReadOnly_|Optional| **Variant**| **True** to open documents as read-only. The default value is **False** .|
+| _ReadOnly_|Optional| **Variant**| **True** to open documents as read-only. The default value is **False**.|
 | _Type_|Optional| **Variant**|One of the constants of  **[XlLink](Excel.XlLink.md)** that specifies the link type.|
 
 ## Example
@@ -70,3 +71,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Shape
 ms.assetid: 60fd5911-592e-a12a-8244-b6eaddd248ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[Shape](Excel.Shape.md)** object associated with the specified sl
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Some properties of the slicer, such as the  **[AlternativeText](Excel.Shape.Alte
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

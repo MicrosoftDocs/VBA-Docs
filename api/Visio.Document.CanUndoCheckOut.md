@@ -1,5 +1,5 @@
 ---
-title: Document.CanUndoCheckOut Method (Visio)
+title: Document.CanUndoCheckOut method (Visio)
 keywords: vis_sdr.chm10560085
 f1_keywords:
 - vis_sdr.chm10560085
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.CanUndoCheckOut
 ms.assetid: aa271635-73ef-b681-364c-49d515fd54cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CanUndoCheckOut Method (Visio)
+# Document.CanUndoCheckOut method (Visio)
 
 Determines whether a Microsoft Visio document is checked out from a Microsoft SharePoint Server site, so that if it is, the check-out can be subsequently undone.
 
 
 ## Syntax
 
- _expression_. `CanUndoCheckOut`
+_expression_. `CanUndoCheckOut`
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
@@ -49,4 +50,4 @@ Public Sub CanUndoCheckOut_Example
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Global.DDEPoke Method (Word)
+title: Global.DDEPoke method (Word)
 keywords: vbawd10.chm163119416
 f1_keywords:
 - vbawd10.chm163119416
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.DDEPoke
 ms.assetid: d92a84af-d1c2-4082-2e6d-993493ff1ab5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.DDEPoke Method (Word)
+# Global.DDEPoke method (Word)
 
 Uses an open dynamic data exchange (DDE) channel to send data to an application.
 
 
 ## Syntax
 
- _expression_. `DDEPoke`( `_Channel_` , `_Item_` , `_Data_` )
+_expression_. `DDEPoke`( `_Channel_` , `_Item_` , `_Data_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -66,3 +67,4 @@ DDETerminate Channel:=lngChannel
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

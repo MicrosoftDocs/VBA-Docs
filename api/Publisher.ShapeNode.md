@@ -1,5 +1,5 @@
 ---
-title: ShapeNode Object (Publisher)
+title: ShapeNode object (Publisher)
 keywords: vbapb10.chm3604479
 f1_keywords:
 - vbapb10.chm3604479
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ShapeNode
 ms.assetid: 8246e1fd-2477-91f4-490b-2d2b6032fccd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNode Object (Publisher)
+# ShapeNode object (Publisher)
 
 Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The  **ShapeNode** object is a member of the **[ShapeNodes](Publisher.ShapeNodes.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
  
@@ -39,7 +40,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ShapeNode.Application.md)|
 |[EditingType](Publisher.ShapeNode.EditingType.md)|
@@ -47,3 +48,4 @@ End Sub
 |[Points](Publisher.ShapeNode.Points.md)|
 |[SegmentType](Publisher.ShapeNode.SegmentType.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

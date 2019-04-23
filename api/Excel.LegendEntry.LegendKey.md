@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendEntry.LegendKey
 ms.assetid: 727de973-636f-1018-5fc0-809a6af3a6f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[LegendKey](Excel.LegendKey(object).md)** object that represents th
 
 ## Syntax
 
- _expression_. `LegendKey`
+_expression_. `LegendKey`
 
- _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
+_expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
 
 
 ## Example
 
-This example sets the legend key for legend entry one on Chart1 to be a triangle. The example should be run on a 2-D line chart.
+This example sets the legend key for legend entry one on Chart1 to be a triangle. The example should be run on a 2D line chart.
 
 
 ```vb
@@ -39,3 +40,4 @@ Charts("Chart1").Legend.LegendEntries(1).LegendKey _
 
 [LegendEntry Object](Excel.LegendEntry(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

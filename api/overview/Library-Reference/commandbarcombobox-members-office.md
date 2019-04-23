@@ -2,7 +2,8 @@
 title: CommandBarComboBox members (Office)
 ms.prod: office
 ms.assetid: 223c51c0-4564-d14a-a8bf-d315a6a50b32
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,19 +14,19 @@ Represents a combo box control on a command bar.
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Change](../../Office.CommandBarComboBox.Change.md)|Occurs when the end user changes the selection in a **CommandBar** combo box.|
 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddItem](../../Office.CommandBarComboBox.AddItem.md)|Adds a list item to the specified command bar combo box control. The combo box control must be a custom control and must be a drop-down list box or a combo box.|
 |[Clear](../../Office.CommandBarComboBox.Clear.md)|Removes all list items from a command bar combo box control (a drop-down list box or a combo box).|
 |[Copy](../../Office.CommandBarComboBox.Copy.md)|Copies a command bar combo box control to an existing command bar.|
-|[Delete](../../Office.CommandBarComboBox.Delete.md)|Deletes **CommandBarCombo** control object from its collection.|
+|[Delete](../../Office.CommandBarComboBox.Delete.md)|Deletes a **CommandBarCombo** control object from its collection.|
 |[Execute](../../Office.CommandBarComboBox.Execute.md)|Runs the procedure or built-in command assigned to the specified **CommandBarComboBox** control.|
 |[Move](../../Office.CommandBarComboBox.Move.md)|Moves the specified control to an existing command bar.|
 |[RemoveItem](../../Office.CommandBarComboBox.RemoveItem.md)|Removes an item from a **CommandBarComboBox** control.|
@@ -35,10 +36,10 @@ Represents a combo box control on a command bar.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarComboBox.Application.md)|Gets an **Application** object that represents the container application for the **CommandBarComboBox** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
-|[BeginGroup](../../Office.CommandBarComboBox.BeginGroup.md)|Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|
+|[BeginGroup](../../Office.CommandBarComboBox.BeginGroup.md)|Gets **True** if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|
 |[BuiltIn](../../Office.CommandBarComboBox.BuiltIn.md)|Gets **True** if the specified command bar control is a built-in control of the container application. Returns **False** if it's a custom control, or if it's a built-in control whose **OnAction** property has been set. Read-only.|
 |[Caption](../../Office.CommandBarComboBox.Caption.md)|Gets or sets the caption text for a command bar control. Read/write.|
 |[Creator](../../Office.CommandBarComboBox.Creator.md)|Gets a 32-bit integer that indicates the application in which the **CommandBarComboBox** object was created. Read-only.|
@@ -71,3 +72,4 @@ Represents a combo box control on a command bar.
 |[Visible](../../Office.CommandBarComboBox.Visible.md)|Gets or sets the **Visible** property for the **CommandBarComboBox** control. **True** if the **CommandBarControl** is visible. Read/write.|
 |[Width](../../Office.CommandBarComboBox.Width.md)|Gets or sets the width (in pixels) of the specified **CommandBarComboBox** control. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

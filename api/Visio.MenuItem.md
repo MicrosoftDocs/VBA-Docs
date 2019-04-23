@@ -1,5 +1,5 @@
 ---
-title: MenuItem Object (Visio)
+title: MenuItem object (Visio)
 keywords: vis_sdr.chm10155
 f1_keywords:
 - vis_sdr.chm10155
@@ -8,10 +8,11 @@ api_name:
 - Visio.MenuItem
 ms.assetid: 7161bf25-fde8-09d6-0c10-52a65f86feba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItem Object (Visio)
+# MenuItem object (Visio)
 
 Represents a single menu item on a Microsoft Visio menu.
 
@@ -26,7 +27,7 @@ Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces th
 
  **Note**  
 
-The default property of  **MenuItem** is **Caption** .
+The default property of  **MenuItem** is **Caption**.
 
 A  **MenuItem** object contains all the information it needs to display the menu item and launch the appropriate Visio command or add-on. It also contains text for the **Undo**,  **Redo**, and  **Repeat** menu items and error messages.
 
@@ -34,4 +35,4 @@ The index of a  **MenuItem** object within the **MenuItems** collection correspo
 
 If the menu item displays a submenu, the  **MenuItem** object has a **MenuItems** collection that represents items on the submenu. The **MenuItem** object's **Caption** property contains the submenu title. Most of the other properties of the **MenuItem** object are ignored, because this object serves much the same role as a **Menu** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e2f313ac-40ea-911e-b1cb-c4ccd8745b2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ You tried to add a form to the  **UserForms** collection using the **Add** metho
 
  **Note**  Make sure that the class name is available to your [project](../../Glossary/vbe-glossary.md#project).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d4da8cd8-bb2f-d536-7d4a-b7bf701bd361
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,3 +34,4 @@ The necessity of using [type-declaration characters](../../Glossary/vbe-glossary
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

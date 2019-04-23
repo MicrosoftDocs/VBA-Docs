@@ -3,6 +3,7 @@ title: Using ActiveX Controls on Word Documents
 ms.prod: word
 ms.assetid: 529119ff-9108-70cf-d692-ec1fbb37e157
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -60,4 +61,4 @@ Private Sub cmdChangeView_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

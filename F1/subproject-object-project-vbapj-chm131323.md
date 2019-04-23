@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4721e85e-21eb-46a5-b921-373e96ad1144
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape Object (Project)](http://msdn.microsoft.com/library/d2b32bcd-5595-a4a7-9772-feb25fd0103a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

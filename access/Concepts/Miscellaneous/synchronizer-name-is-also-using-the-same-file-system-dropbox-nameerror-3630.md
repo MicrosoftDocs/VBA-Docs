@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 84981243-cd0d-c22f-3e05-f5c66098b1e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-Each Synchronizer should have a unique file system dropbox. Using the same dropbox location for multiple Synchronizers can result in lost messages and incomplete exchanges. The applicatin is unable to create the signal file because it is already opened by another transporter.
+Each Synchronizer should have a unique file system dropbox. Using the same dropbox location for multiple Synchronizers can result in lost messages and incomplete exchanges. The application is unable to create the signal file because it is already opened by another transporter.
 
 ## See also
 
@@ -25,3 +26,5 @@ Each Synchronizer should have a unique file system dropbox. Using the same dropb
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

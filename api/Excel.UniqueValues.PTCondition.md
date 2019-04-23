@@ -8,6 +8,7 @@ api_name:
 - Excel.UniqueValues.PTCondition
 ms.assetid: eec0e953-7fc8-f701-0cae-79c566bf5ead
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 ## Syntax
 
- _expression_. `PTCondition`
+_expression_.**PTCondition**
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

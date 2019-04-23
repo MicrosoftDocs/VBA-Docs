@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 33e7473b-aadd-4812-b923-2f45f95716d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.MouseUp Event (Visio)](http://msdn.microsoft.com/library/34f7d931-5f4d-523e-b4d8-9096c4a634c3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

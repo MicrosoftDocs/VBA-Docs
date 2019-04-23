@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: fe7d5e27-a47a-1229-232c-cf6a0cbad761
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # GROUP BY clause (Microsoft Access SQL)
@@ -20,7 +21,7 @@ SELECT  _fieldlist_ FROM _table_ WHERE _criteria_ [GROUP BY _groupfieldlist_ ]
 
 A SELECT statement containing a GROUP BY clause has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, SQL aggregate functions, selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
 | _table_|The name of the table from which records are retrieved. For more information, see the [FROM](from-clause-microsoft-access-sql.md) clause.|
@@ -117,3 +118,5 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

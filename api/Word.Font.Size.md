@@ -1,5 +1,5 @@
 ---
-title: Font.Size Property (Word)
+title: Font.Size property (Word)
 keywords: vbawd10.chm156369037
 f1_keywords:
 - vbawd10.chm156369037
@@ -8,19 +8,20 @@ api_name:
 - Word.Font.Size
 ms.assetid: 95041c0a-43d0-368c-1c75-e2d6c1821119
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Size Property (Word)
+# Font.Size property (Word)
 
-Returns or sets the font size, in points. Read/write  **Single** .
+Returns or sets the font size, in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
- _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Example
@@ -57,3 +58,4 @@ End If
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

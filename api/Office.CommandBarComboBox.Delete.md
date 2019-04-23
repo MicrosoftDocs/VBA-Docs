@@ -1,28 +1,27 @@
 ---
-title: CommandBarComboBox.Delete Method (Office)
+title: CommandBarComboBox.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Delete
 ms.assetid: 7b84c512-24e2-f159-100b-5234fc78fcf0
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarComboBox.Delete Method (Office)
+# CommandBarComboBox.Delete method (Office)
 
-Deletes  **CommandBarCombo** control object from its collection.
+Deletes a **CommandBarCombo** control object from its collection.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_Temporary_` )
+_expression_.**Delete** (_Temporary_)
 
- _expression_ Required. A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
+_expression_ Required. A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -30,10 +29,6 @@ Deletes  **CommandBarCombo** control object from its collection.
 
 ## See also
 
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
 
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

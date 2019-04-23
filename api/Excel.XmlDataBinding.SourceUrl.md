@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlDataBinding.SourceUrl
 ms.assetid: 0c6f07c8-43db-eca4-ada2-5919f1e3160e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `SourceUrl`
+_expression_. `SourceUrl`
 
- _expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBinding.md) object.
+_expression_ A variable that represents a [XmlDataBinding](Excel.XmlDataBinding.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,18 +1,19 @@
 ---
-title: MsoThemeColorSchemeIndex Enumeration (Office)
+title: MsoThemeColorSchemeIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoThemeColorSchemeIndex
 ms.assetid: a5382465-5552-c131-fad4-d6851f9c0f3e
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoThemeColorSchemeIndex Enumeration (Office)
+# MsoThemeColorSchemeIndex enumeration (Office)
 
 Indicates the color scheme for an Office theme.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -29,3 +30,4 @@ Indicates the color scheme for an Office theme.
 |**msoThemeLight1**|2|Specifies color scheme Light 1.|
 |**msoThemeLight2**|4|Specifies color scheme Light 2.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

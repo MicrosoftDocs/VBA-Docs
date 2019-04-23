@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b1815bbd-3309-4667-af8f-e44f03ae8a17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PayRate Object (Project)](http://msdn.microsoft.com/library/4c8ba1f3-bf18-2179-5f50-c090c63e46b9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

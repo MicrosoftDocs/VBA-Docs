@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationX Property (Word)
+title: ThreeDFormat.RotationX property (Word)
 keywords: vbawd10.chm164626541
 f1_keywords:
 - vbawd10.chm164626541
@@ -8,17 +8,18 @@ api_name:
 - Word.ThreeDFormat.RotationX
 ms.assetid: 8ed5e2de-8a1b-e75e-da7d-10b6d1d1a988
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationX Property (Word)
+# ThreeDFormat.RotationX property (Word)
 
-Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write  **Single** .
+Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RotationX`
+_expression_. `RotationX`
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
@@ -58,3 +59,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

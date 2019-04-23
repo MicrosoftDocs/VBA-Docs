@@ -1,5 +1,5 @@
 ---
-title: EventInfo Object (Project)
+title: EventInfo object (Project)
 keywords: vbapj.chm131286
 f1_keywords:
 - vbapj.chm131286
@@ -8,10 +8,11 @@ api_name:
 - Project.EventInfo
 ms.assetid: 97a51ee0-f7eb-5215-0686-1944c537e8fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EventInfo Object (Project)
+# EventInfo object (Project)
 
 Represents cancellation information for an event.
  
@@ -47,7 +48,8 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Cancel](Project.EventInfo.Cancel.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

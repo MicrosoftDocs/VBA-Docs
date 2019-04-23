@@ -1,21 +1,22 @@
 ---
-title: Assignment.Notes Property (Project)
+title: Assignment.Notes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Notes
 ms.assetid: 91915e62-bd93-3671-a232-05cb99836428
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.Notes Property (Project)
+# Assignment.Notes property (Project)
 
 Gets or sets the notes for an assignment. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Notes`
+_expression_. `Notes`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -47,4 +48,4 @@ Sub AddStatusNote()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

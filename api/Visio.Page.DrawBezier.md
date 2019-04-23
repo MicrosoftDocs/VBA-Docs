@@ -1,5 +1,5 @@
 ---
-title: Page.DrawBezier Method (Visio)
+title: Page.DrawBezier method (Visio)
 keywords: vis_sdr.chm10916195
 f1_keywords:
 - vis_sdr.chm10916195
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.DrawBezier
 ms.assetid: 49cf1bfb-5b88-ca8d-4451-a9884768f780
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.DrawBezier Method (Visio)
+# Page.DrawBezier method (Visio)
 
 Creates a shape whose path is defined by the supplied sequence of Bezier control points.
 
 
 ## Syntax
 
- _expression_. `DrawBezier`( `_xyArray()_` , `_degree_` , `_Flags_` )
+_expression_. `DrawBezier`( `_xyArray()_` , `_degree_` , `_Flags_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -44,7 +45,7 @@ The  _xyArray()_ and _degree_ parameters must meet the following conditions:
 
 1 <=  _degree_ <= 9
 
-The number of points must be _ k * degree_ + 1, where _k_ is a positive integer. If the first point is called _p0_ , for any integer _m_ between 1 and _k_ , _p(m * degree)_ is assumed to be the last control point of a Bezier segment, as well as the first control point of the next.
+The number of points must be _k * degree_ + 1, where _k_ is a positive integer. If the first point is called _p0_ , for any integer _m_ between 1 and _k_ , _p(m * degree)_ is assumed to be the last control point of a Bezier segment, as well as the first control point of the next.
 
 The result is a composite curve that consists of  _k_ Bezier segments. The input points from _xyArray()_ define the curve's control points. If you want a smooth curve, make sure the points _p(n - 1)_ , _pn_ , and _p(n + 1)_ are co-linear whenever _n = m * degree_ with an integer _m_ . The composite Bezier curve is represented in the application as a B-spline with integer _knots_ of _multiplicity = degree_ .
 
@@ -52,7 +53,7 @@ The control points should be in internal drawing units (inches) with respect to 
 
 The  _Flags_ argument is a bitmask that specifies options for drawing the new shape. Its value should be zero (0) or **visSpline1D** (8).
 
-If  _Flags_ is **visSpline1D** and the first and last points in _xyArray()_ don't coincide, the **DrawBezier** method produces a shape with one-dimensional (1-D) behavior; otherwise, it produces a shape with two-dimensional (2-D) behavior.
+If  _Flags_ is **visSpline1D** and the first and last points in _xyArray()_ don't coincide, the **DrawBezier** method produces a shape with one-dimensional (1D) behavior; otherwise, it produces a shape with two-dimensional (2D) behavior.
 
 If the first and last points in  _xyArray()_ do coincide, the **DrawBezier** method produces a filled shape.
 
@@ -85,4 +86,4 @@ Public Sub DrawBezier_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

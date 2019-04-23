@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.AfterUpdate Event (Outlook)
+title: OlkTextBox.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000082
 f1_keywords:
 - vbaol11.chm1000082
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTextBox.AfterUpdate
 ms.assetid: f61b5a19-4f3d-9287-d681-d5ac7b8979a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox.AfterUpdate Event (Outlook)
+# OlkTextBox.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Occurs after the data in the control has been changed through the user interface
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

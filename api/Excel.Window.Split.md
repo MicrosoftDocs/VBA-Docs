@@ -8,31 +8,32 @@ api_name:
 - Excel.Window.Split
 ms.assetid: 7fcc304f-8a42-f997-2c32-5a9793683bd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.Split property (Excel)
 
- **True** if the window is split. Read/write **Boolean** .
+ **True** if the window is split. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Split`
+_expression_. `Split`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
 
-It's possible for  **[FreezePanes](Excel.Window.FreezePanes.md)** to be **True** and **Split** to be **False** , or vice versa.
+It's possible for  **[FreezePanes](Excel.Window.FreezePanes.md)** to be **True** and **Split** to be **False**, or vice versa.
 
 This property applies only to worksheets and macro sheets.
 
 
 ## Example
 
-This example splits the active window in Book1.xls at cell B2, without freezing panes. This causes the  **Split** property to return **True** .
+This example splits the active window in Book1.xls at cell B2, without freezing panes. This causes the  **Split** property to return **True**.
 
 
 ```vb
@@ -75,3 +76,4 @@ End With
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

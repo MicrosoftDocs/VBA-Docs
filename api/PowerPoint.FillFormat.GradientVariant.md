@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientVariant Property (PowerPoint)
+title: FillFormat.GradientVariant property (PowerPoint)
 keywords: vbapp10.chm552016
 f1_keywords:
 - vbapp10.chm552016
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.GradientVariant
 ms.assetid: 32a8a1fd-84aa-fbee-35c5-5bd83b0790c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientVariant Property (PowerPoint)
+# FillFormat.GradientVariant property (PowerPoint)
 
 Returns the gradient variant for the specified fill as an integer value from 1 to 4 for most gradient fills. Read-only.
 
 
 ## Syntax
 
- _expression_. `GradientVariant`
+_expression_. `GradientVariant`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -39,7 +40,7 @@ This property is read-only. Use the [OneColorGradient](PowerPoint.FillFormat.One
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and sets its fill gradient variant to match that of the shape named "rect1." For the example to work, rect1 must have a gradient fill.
+This example adds a rectangle to  _myDocument_ and sets its fill gradient variant to match that of the shape named "rect1." For the example to work, rect1 must have a gradient fill.
 
 
 ```vb
@@ -66,3 +67,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

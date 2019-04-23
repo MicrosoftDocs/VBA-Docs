@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.First Method (PowerPoint)
+title: SlideShowView.First method (PowerPoint)
 keywords: vbapp10.chm513017
 f1_keywords:
 - vbapp10.chm513017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.First
 ms.assetid: 5f360832-2deb-b3df-7b55-5a3c964d0057
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.First Method (PowerPoint)
+# SlideShowView.First method (PowerPoint)
 
 Sets the specified slide show view to display the first slide in the presentation.
 
 
 ## Syntax
 
- _expression_. `First`
+_expression_. `First`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -48,3 +49,4 @@ SlideShowWindows(1).View.First
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

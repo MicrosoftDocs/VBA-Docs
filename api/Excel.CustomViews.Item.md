@@ -1,5 +1,5 @@
 ---
-title: CustomViews.Item Method (Excel)
+title: CustomViews.Item method (Excel)
 keywords: vbaxl10.chm506074
 f1_keywords:
 - vbaxl10.chm506074
@@ -8,19 +8,20 @@ api_name:
 - Excel.CustomViews.Item
 ms.assetid: 542a3838-c499-5aa1-735e-5fe0c9c852a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomViews.Item Method (Excel)
+# CustomViews.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [CustomViews](Excel.CustomViews.md) object.
+_expression_ A variable that represents a **[CustomViews](Excel.CustomViews.md)** object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ThisWorkbook.CustomViews.Item("Current Inventory") _
 
 [CustomViews Object](Excel.CustomViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

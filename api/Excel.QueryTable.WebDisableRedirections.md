@@ -8,26 +8,27 @@ api_name:
 - Excel.QueryTable.WebDisableRedirections
 ms.assetid: 36aec986-de9c-2c7e-a07c-ae77d75d4c7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.WebDisableRedirections property (Excel)
 
- **True** if Web query redirections are disabled for a **QueryTable** object. The default value is **False** . Read/write **Boolean** .
+ **True** if Web query redirections are disabled for a **QueryTable** object. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `WebDisableRedirections`
+_expression_. `WebDisableRedirections`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **WebDisableRedirections** property applies only to **QueryTable** objects.
 
@@ -51,3 +52,4 @@ End Sub
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

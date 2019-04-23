@@ -1,5 +1,5 @@
 ---
-title: Font.Scaling Property (Word)
+title: Font.Scaling property (Word)
 keywords: vbawd10.chm156369041
 f1_keywords:
 - vbawd10.chm156369041
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.Scaling
 ms.assetid: 53f162cf-6de0-a142-50a5-fbdece3e7d16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Scaling Property (Word)
+# Font.Scaling property (Word)
 
-Returns or sets the scaling percentage applied to the font. Read/write  **Long** .
+Returns or sets the scaling percentage applied to the font. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Scaling`
+_expression_.**Scaling**
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateNewDocument Method (Excel)
+title: Hyperlink.CreateNewDocument method (Excel)
 keywords: vbaxl10.chm536086
 f1_keywords:
 - vbaxl10.chm536086
@@ -8,19 +8,20 @@ api_name:
 - Excel.Hyperlink.CreateNewDocument
 ms.assetid: 902914b7-08ea-0839-13e1-8fc7e7192675
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.CreateNewDocument Method (Excel)
+# Hyperlink.CreateNewDocument method (Excel)
 
 Creates a new document linked to the specified hyperlink.
 
 
 ## Syntax
 
- _expression_. `CreateNewDocument`( `_Filename_` , `_EditNow_` , `_Overwrite_` )
+_expression_. `CreateNewDocument`( `_FileName_` , `_EditNow_` , `_Overwrite_` )
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Parameters
@@ -29,9 +30,9 @@ Creates a new document linked to the specified hyperlink.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The file name of the specified document.|
-| _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment.. The default value is **True** .|
-| _Overwrite_|Required| **Boolean**| **True** to overwrite any existing file of the same name in the same folder. **False** if any existing file of the same name is preserved and the _Filename_ argument specifies a new file name. The default value is **False** .|
+| _FileName_|Required| **String**|The file name of the specified document.|
+| _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment.. The default value is **True**.|
+| _Overwrite_|Required| **Boolean**| **True** to overwrite any existing file of the same name in the same folder. **False** if any existing file of the same name is preserved and the _FileName_ argument specifies a new file name. The default value is **False**.|
 
 ## Example
 
@@ -55,3 +56,4 @@ End With
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

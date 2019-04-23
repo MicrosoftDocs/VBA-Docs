@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 8f72da76-4fd2-9fbb-baa3-d23e6edb50fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The ODBC server does not support the same SQL data types as the database engine 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

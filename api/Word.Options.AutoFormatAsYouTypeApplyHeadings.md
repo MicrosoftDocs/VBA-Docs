@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyHeadings Property (Word)
+title: Options.AutoFormatAsYouTypeApplyHeadings property (Word)
 keywords: vbawd10.chm162988292
 f1_keywords:
 - vbawd10.chm162988292
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyHeadings
 ms.assetid: 19dfb55e-8a5c-4e6e-a909-02adcb5a76e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyHeadings Property (Word)
+# Options.AutoFormatAsYouTypeApplyHeadings property (Word)
 
- **True** if styles are automatically applied to headings as you type. Read/write **Boolean** .
+ **True** if styles are automatically applied to headings as you type. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyHeadings`
+_expression_. `AutoFormatAsYouTypeApplyHeadings`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyHeadings
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

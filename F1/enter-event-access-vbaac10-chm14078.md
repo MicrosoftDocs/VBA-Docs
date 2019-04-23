@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: dafe177e-1392-4d1b-8cc4-640a0d1bb06a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.Enter event (Access)](http://msdn.microsoft.com/library/bd1599bb-d57e-d1cd-58d6-fef9650b9ab5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

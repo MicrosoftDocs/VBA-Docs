@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLayoutEx Method (Project)
+title: Application.BoxLayoutEx method (Project)
 keywords: vbapj.chm2157
 f1_keywords:
 - vbapj.chm2157
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxLayoutEx
 ms.assetid: 40c80e1c-6763-172d-c48a-0ec7c1fa2412
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxLayoutEx Method (Project)
+# Application.BoxLayoutEx method (Project)
 
 Specifies the layout of boxes in the active Network Diagram view (PERT chart), where the background color can be specified as a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `BoxLayoutEx`( ` _LayoutMode_`, ` _LayoutScheme_`, ` _SummaryPrecedence_`, ` _RowAlignment_`, ` _ColumnAlignment_`, ` _RowSpacing_`, ` _ColumnSpacing_`, ` _RowHeight_`, ` _ColumnWidth_`, ` _AdjustForPageBreaks_`, ` _ShowSummaryTasks_`, ` _ViewBackgroundColor_`, ` _ViewBackgroundPattern_`, ` _ShowProgressMarks_`, ` _ShowPageBreaks_`, ` _ShowIDOnly_` )
+_expression_. `BoxLayoutEx`( `_LayoutMode_`, `_LayoutScheme_`, `_SummaryPrecedence_`, `_RowAlignment_`, `_ColumnAlignment_`, `_RowSpacing_`, `_ColumnSpacing_`, `_RowHeight_`, `_ColumnWidth_`, `_AdjustForPageBreaks_`, `_ShowSummaryTasks_`, `_ViewBackgroundColor_`, `_ViewBackgroundPattern_`, `_ShowProgressMarks_`, `_ShowPageBreaks_`, `_ShowIDOnly_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -74,4 +75,4 @@ End Sub
 
  **Note**  If you use any of the **PjColor** constants for the _ViewBackgroundColor_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLayoutEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[BoxLayout](Project.Application.BoxLayout.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

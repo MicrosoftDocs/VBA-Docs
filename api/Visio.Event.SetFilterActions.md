@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterActions Method (Visio)
+title: Event.SetFilterActions method (Visio)
 keywords: vis_sdr.chm12660260
 f1_keywords:
 - vis_sdr.chm12660260
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.SetFilterActions
 ms.assetid: 8a0f7b5c-466b-7b98-a34f-6a639fded39c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.SetFilterActions Method (Visio)
+# Event.SetFilterActions method (Visio)
 
 Specifies the extensions to the  **MouseMove** event that Visio reports.
 
 
 ## Syntax
 
- _expression_. `SetFilterActions`( `_filterActionStream()_` )
+_expression_. `SetFilterActions`( `_filterActionStream()_` )
 
  _expression_ An expression that returns a [Event](./Visio.Event.md) object.
 
@@ -53,7 +54,7 @@ The filter actions that you can place in the first and second array elements of 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFilterMouseMoveDragBegin**|1|Filter the  **DragBegin** extension of the **MouseMove** event.|
 | **visFilterMouseMoveDragDrop**|5|Filter the  **DragDrop** extension of the **MouseMove** event.|
@@ -103,4 +104,4 @@ Dim alngFilterActions(1 To (3 * 3)) As Long
 
 Note that mouse actions that occupy the second position in an array-element triplet must always be later in the sequence (that is, higher in value) than those that occupy the first position in an array-element triplet.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

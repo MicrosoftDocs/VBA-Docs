@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 434b2e52-fe2c-78ff-2fc6-1c0b9b858ebc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **String** that specifies the width of each column in a multi
 
 ## Syntax
 
- _expression_. **ColumnWidths**
+_expression_.**ColumnWidths**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -49,4 +50,4 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 
 In a  **ComboBox**, the system displays the column designated by the  **[TextColumn](Outlook.combobox.textcolumn.md)** property in the text box portion of the control. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

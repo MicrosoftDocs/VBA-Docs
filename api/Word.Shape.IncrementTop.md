@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementTop Method (Word)
+title: Shape.IncrementTop method (Word)
 keywords: vbawd10.chm161480720
 f1_keywords:
 - vbawd10.chm161480720
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.IncrementTop
 ms.assetid: 9aa5edb1-192f-5ccf-7513-3b9f660826ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IncrementTop Method (Word)
+# Shape.IncrementTop method (Word)
 
 Moves the specified shape vertically by the specified number of points.
 
 
 ## Syntax
 
- _expression_. `IncrementTop`( `_Increment_` )
+_expression_. `IncrementTop`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,33 +1,32 @@
 ---
-title: Chart.Export Method (Project)
+title: Chart.Export method (Project)
 ms.prod: project-server
 ms.assetid: 4f0ed821-f1c1-0e0b-0583-51b660ffad90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.Export Method (Project)
+# Chart.Export method (Project)
 Exports a chart in a graphic file format.
 
 ## Syntax
 
- _expression_. `Export` _(bstr,_? _varFilterName,_? _varInteractive)_
+_expression_.**Export** (_bstr_, _varFilterName_, _varInteractive_)
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstr_|Required|**String**|The path and name of the exported file.|
 | _varFilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry ( `HKLM\\SOFTWARE\Wow6432Node\Microsoft\Shared Tools\Graphics Filters`).|
 | _varInteractive_|Optional|**Variant**|**True** to display the dialog box that contains the filter-specific options, if any. If _varInteractive_ is **False**, Project uses the default values for the filter. The default value is  **False**.|
-| _bstr_|Required|STRING||
-| _varFilterName_|Optional|VARIANT||
-| _varInteractive_|Optional|VARIANT||
+| _bstr_|Required|**String**||
+| _varFilterName_|Optional|**Variant**||
+| _varInteractive_|Optional|**Variant**||
 
 ## Return value
 
@@ -49,10 +48,10 @@ Sub ExportChart()
     Dim chartShape As Shape
     Dim reportName As String
     Dim fileFormat As String
-    Dim filename As String
+    Dim fileName As String
     
     fileFormat = "PNG"
-    filename = "C:\Project\VBA\Samples\SimpleChart.png"
+    fileName = "C:\Project\VBA\Samples\SimpleChart.png"
     
     reportName = "Simple scalar chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
@@ -68,3 +67,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

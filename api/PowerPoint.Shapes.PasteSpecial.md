@@ -1,5 +1,5 @@
 ---
-title: Shapes.PasteSpecial Method (PowerPoint)
+title: Shapes.PasteSpecial method (PowerPoint)
 keywords: vbapp10.chm543028
 f1_keywords:
 - vbapp10.chm543028
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shapes.PasteSpecial
 ms.assetid: 6a1e5b6d-da09-fae8-7165-0c9bf71d525c
 ms.date: 11/24/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.PasteSpecial Method (PowerPoint)
+# Shapes.PasteSpecial method (PowerPoint)
 
 Pastes the contents of the Clipboard, using a special format.
 
 
 ## Syntax
 
- _expression_. `PasteSpecial`(`_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_`)
+_expression_. `PasteSpecial`(`_DataType_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_`)
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -61,7 +62,7 @@ The _DataType_ parameter value can be one of these **PpPasteDataType** constants
 
 The _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constants.
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|
@@ -73,3 +74,4 @@ An error occurs if there is no data on the Clipboard when the **PasteSpecial** m
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DMin Method (Excel)
+title: WorksheetFunction.DMin method (Excel)
 keywords: vbaxl10.chm137097
 f1_keywords:
 - vbaxl10.chm137097
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DMin
 ms.assetid: 1f5794f3-befd-339c-d178-66568fce354f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DMin Method (Excel)
+# WorksheetFunction.DMin method (Excel)
 
 Returns the smallest number in a column of a list or database that matches conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DMin`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DMin`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

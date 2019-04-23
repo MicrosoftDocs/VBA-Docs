@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.GetMemberOfList Method (Outlook)
+title: ExchangeDistributionList.GetMemberOfList method (Outlook)
 keywords: vbaol11.chm2130
 f1_keywords:
 - vbaol11.chm2130
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeDistributionList.GetMemberOfList
 ms.assetid: daacad93-1cf4-3455-54ff-919dc4a9935e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.GetMemberOfList Method (Outlook)
+# ExchangeDistributionList.GetMemberOfList method (Outlook)
 
 Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the **[AddressEntry](Outlook.AddressEntry.md)** objects representing Exchange Distribution Lists of which the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** is a member.
 
 
 ## Syntax
 
- _expression_. `GetMemberOfList`
+_expression_. `GetMemberOfList`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ An  **AddressEntries** collection object that represents the distribution lists 
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

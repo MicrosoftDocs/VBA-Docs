@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: ba86d954-7442-5023-e663-eea3626588e6
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Specifies the parent data label option (banner, overlapping, or none) for the sp
 
 ## Syntax
 
- _expression_. `ParentDataLabelOption`
+_expression_. `ParentDataLabelOption`
 
- _expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also
@@ -26,3 +27,4 @@ Specifies the parent data label option (banner, overlapping, or none) for the sp
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: b657ab62-67fa-4eeb-736c-86e31a026c73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -57,4 +58,4 @@ End Sub
 
 Run the InitializeApp procedure. After the procedure is run, the App object in the class module points to the Microsoft Office PowerPoint **Application** object, and the event procedures in the class module will run when the events occur.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

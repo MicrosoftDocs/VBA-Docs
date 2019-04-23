@@ -8,19 +8,20 @@ api_name:
 - Excel.UniqueValues.NumberFormat
 ms.assetid: 35025881-e26a-e87e-eab5-b60a1321f97f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # UniqueValues.NumberFormat property (Excel)
 
-Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to  **True** . Read/write **Variant** .
+Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to  **True**. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
- _expression_ A variable that represents a '[UniqueValues](Excel.UniqueValues.md)' object.
+_expression_ A variable that represents a '[UniqueValues](Excel.UniqueValues.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The number format is specified using the same format codes displayed on the  **N
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

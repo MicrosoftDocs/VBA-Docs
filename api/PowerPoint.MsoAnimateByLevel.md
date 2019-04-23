@@ -1,14 +1,15 @@
 ---
-title: MsoAnimateByLevel Enumeration (PowerPoint)
+title: MsoAnimateByLevel enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimateByLevel
 ms.assetid: 4a025c85-a01c-fd3a-f4f7-1322c4619ffa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MsoAnimateByLevel Enumeration (PowerPoint)
+# MsoAnimateByLevel enumeration (PowerPoint)
 
 Specifies for charts, diagrams, or text, the level to which the animation effect will be applied. The default value is  **msoAnimationLevelNone**.
 
@@ -45,3 +46,4 @@ Specifies for charts, diagrams, or text, the level to which the animation effect
 |**msoAnimateTextBySecondLevel**|3|Animate text by second level|
 |**msoAnimateTextByThirdLevel**|4|Animate text by third level|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

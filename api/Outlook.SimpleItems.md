@@ -1,5 +1,5 @@
 ---
-title: SimpleItems Object (Outlook)
+title: SimpleItems object (Outlook)
 keywords: vbaol11.chm3400
 f1_keywords:
 - vbaol11.chm3400
@@ -8,10 +8,11 @@ api_name:
 - Outlook.SimpleItems
 ms.assetid: b929ae28-fe5f-607e-37b5-ed6a304d4896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SimpleItems Object (Outlook)
+# SimpleItems object (Outlook)
 
 Represents a set of possibly heterogeneous Microsoft Outlook items, with each member in the set tracking only a small, common set of properties that apply to Outlook items in general.
 
@@ -136,7 +137,7 @@ void EnumerateConversation(object item,
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.SimpleItems.Item.md)|
 
@@ -144,7 +145,7 @@ void EnumerateConversation(object item,
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.SimpleItems.Application.md)|
 |[Class](Outlook.SimpleItems.Class.md)|
@@ -155,5 +156,7 @@ void EnumerateConversation(object item,
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 [How to: Obtain and Enumerate Selected Conversations](../outlook/Concepts/Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.Selection
 ms.assetid: 852ca473-28c6-6315-f793-1a12e7f239a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the specified window, for a  **[Windows](Excel.Windows.md)** object.
 
 ## Syntax
 
- _expression_. `Selection`
+_expression_.**Selection**
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ MsgBox "The selection object type is " & TypeName(Selection)
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 53486763-8dbf-dddf-7108-fe187f06b593
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Specify the Number of Rows in a Combo Box
+# Specify the Number of Rows in a Combo Box
 
 The following example uses a  **[SpinButton](../../../api/Outlook.spinbutton.md)** to control the number of rows in the drop-down list of a **[ComboBox](../../../api/Outlook.combobox.md)**. The user changes the value of the  **SpinButton**, then clicks on the drop-down arrow of the  **ComboBox** to display the list.
 
@@ -52,4 +53,4 @@ Sub Item_CustomPropertyChange(byval pname)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

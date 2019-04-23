@@ -1,21 +1,22 @@
 ---
-title: Shape.Application Property (PowerPoint)
+title: Shape.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Application
 ms.assetid: e4e8fb64-0bb0-90c4-579c-f19c45030dfc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Application Property (PowerPoint)
+# Shape.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Font Object (Publisher)
+title: Font object (Publisher)
 keywords: vbapb10.chm5439487
 f1_keywords:
 - vbapb10.chm5439487
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Font
 ms.assetid: 992fda94-2820-d665-0d78-efd4b5434731
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font Object (Publisher)
+# Font object (Publisher)
 
 Contains font attributes (font name, font size, color, and so on) for an object.
 
@@ -78,7 +79,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Duplicate](./Publisher.Font.Duplicate.md)|
 |[GetScriptName](./Publisher.Font.GetScriptName.md)|
@@ -91,7 +92,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllCaps](./Publisher.Font.AllCaps.md)|
 |[Application](./Publisher.Font.Application.md)|
@@ -131,3 +132,4 @@ End Sub
 |[Underline](./Publisher.Font.Underline.md)|
 |[UseDiacriticColor](./Publisher.Font.UseDiacriticColor.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

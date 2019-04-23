@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Add Method (Word)
+title: CustomProperties.Add method (Word)
 keywords: vbawd10.chm232849413
 f1_keywords:
 - vbawd10.chm232849413
@@ -8,19 +8,20 @@ api_name:
 - Word.CustomProperties.Add
 ms.assetid: d4240861-d58c-783d-a441-d20f66881fd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomProperties.Add Method (Word)
+# CustomProperties.Add method (Word)
 
 Returns a  **CustomProperty** object that represents s custom property added to a smart tag.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Value_` )
+_expression_.**Add** (_Name_, _Value_)
 
- _expression_ Required. A variable that represents a '[CustomProperties](Word.CustomProperties.md)' collection.
+_expression_ Required. A variable that represents a '[CustomProperties](Word.CustomProperties.md)' collection.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ CustomProperty
 
 [CustomProperties Collection](Word.CustomProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

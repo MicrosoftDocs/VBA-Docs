@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 02c0a0a4-9394-415e-9948-3d6aced3bcbf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,3 +35,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CheckBox.GridlineThemeColorIndex property (Access)](http://msdn.microsoft.com/library/85f36c8d-e62e-8d41-331f-ec8abd509992%28Office.15%29.aspx)
 [BoundObjectFrame.GridlineThemeColorIndex property (Access)](http://msdn.microsoft.com/library/1d527006-46f3-fc31-a579-ff2b32a104cc%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

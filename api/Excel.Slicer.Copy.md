@@ -1,5 +1,5 @@
 ---
-title: Slicer.Copy Method (Excel)
+title: Slicer.Copy method (Excel)
 keywords: vbaxl10.chm905091
 f1_keywords:
 - vbaxl10.chm905091
@@ -8,19 +8,20 @@ api_name:
 - Excel.Slicer.Copy
 ms.assetid: 265e7819-db8b-deab-5ab1-2cc9782cd800
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slicer.Copy Method (Excel)
+# Slicer.Copy method (Excel)
 
 Copies the specified slicer to the clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Example
@@ -52,3 +53,4 @@ ActiveSheet.Paste
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

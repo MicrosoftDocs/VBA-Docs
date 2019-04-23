@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Column
 ms.assetid: 4f540fae-fc9f-30de-5d71-f6496b78930b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.Column property (Excel)
 
-Returns the number of the first column in the first area in the specified range. Read-only  **Long** .
+Returns the number of the first column in the first area in the specified range. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Column`
+_expression_. `Column`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -106,4 +107,4 @@ Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .N
 
 [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

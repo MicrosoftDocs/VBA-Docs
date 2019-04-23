@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 304e3277-d3f9-62fe-8f7a-3af750635b6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ A control [variable](../../Glossary/vbe-glossary.md#variable) is the _element_ p
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

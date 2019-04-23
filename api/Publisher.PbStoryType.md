@@ -1,5 +1,5 @@
 ---
-title: PbStoryType Enumeration (Publisher)
+title: PbStoryType enumeration (Publisher)
 keywords: vbapb10.chm65542
 f1_keywords:
 - vbapb10.chm65542
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbStoryType
 ms.assetid: 67fe5d3b-ad38-18fe-1e16-18af060a4536
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbStoryType Enumeration (Publisher)
+# PbStoryType enumeration (Publisher)
 
 Represents the type of story. 
 
@@ -24,3 +25,4 @@ Represents the type of story.
 | **pbStoryTable**|0|Story table.|
 | **pbStoryTextFrame**|1|Story text frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

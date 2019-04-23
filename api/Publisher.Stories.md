@@ -1,5 +1,5 @@
 ---
-title: Stories Object (Publisher)
+title: Stories object (Publisher)
 keywords: vbapb10.chm5767167
 f1_keywords:
 - vbapb10.chm5767167
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Stories
 ms.assetid: 694a0376-fa41-3097-180b-40b8a005ddf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Stories Object (Publisher)
+# Stories object (Publisher)
 
 Represents all the text in a publication.
  
@@ -61,7 +62,7 @@ stFirst = Application.ActiveDocument.Stories(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.Stories.Item.md)|
 
@@ -69,9 +70,10 @@ stFirst = Application.ActiveDocument.Stories(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Stories.Application.md)|
 |[Count](Publisher.Stories.Count.md)|
 |[Parent](Publisher.Stories.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

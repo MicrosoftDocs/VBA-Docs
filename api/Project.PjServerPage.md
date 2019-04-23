@@ -1,14 +1,15 @@
 ---
-title: PjServerPage Enumeration (Project)
+title: PjServerPage enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjServerPage
 ms.assetid: a3f0939a-9e7a-fd6f-092b-eece92717b2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjServerPage Enumeration (Project)
+# PjServerPage enumeration (Project)
 
 Contains constants that specify the page to show in Project Web App or in a project site.
 
@@ -28,3 +29,4 @@ Contains constants that specify the page to show in Project Web App or in a proj
 |**pjServerPageStatusReports**|4|Show the Status Reports page.|
 |**pjServerPageWorkspace**|10|Show the Project Site page.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

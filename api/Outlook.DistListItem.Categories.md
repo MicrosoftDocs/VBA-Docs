@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Categories Property (Outlook)
+title: DistListItem.Categories property (Outlook)
 keywords: vbaol11.chm1118
 f1_keywords:
 - vbaol11.chm1118
@@ -8,24 +8,25 @@ api_name:
 - Outlook.DistListItem.Categories
 ms.assetid: b608ce9d-8419-cf70-716e-0c4cdca2fa98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.Categories Property (Outlook)
+# DistListItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Categories`
+_expression_. `Categories`
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks
 
- **Categories** is a delimited string of category names that have been assigned to an Outlook item. This property uses the character specified in the value name, **sList** , under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories. To convert the string of category names to an array of category names, use the Microsoft Visual Basic function **Split** .
+ **Categories** is a delimited string of category names that have been assigned to an Outlook item. This property uses the character specified in the value name, **sList**, under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories. To convert the string of category names to an array of category names, use the Microsoft Visual Basic function **Split**.
 
 
 ## See also
@@ -33,3 +34,4 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

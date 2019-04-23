@@ -1,5 +1,5 @@
 ---
-title: Application.LoadWebPaneControl Method (Project)
+title: Application.LoadWebPaneControl method (Project)
 keywords: vbapj.chm56
 f1_keywords:
 - vbapj.chm56
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.LoadWebPaneControl
 ms.assetid: b807a6e0-5a85-14a0-a87f-e4b6181c9648
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.LoadWebPaneControl Method (Project)
+# Application.LoadWebPaneControl method (Project)
 
 Supports the Web pane that hosts the  **Task Drivers**,  **Project/Resource Import Wizard**, and  **Deliverables** features.
 
 
 ## Syntax
 
- _expression_. `LoadWebPaneControl`( ` _TargetPage_`, ` _WrapperPage_` )
+_expression_. `LoadWebPaneControl`( `_TargetPage_`, `_WrapperPage_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Supports the Web pane that hosts the  **Task Drivers**,  **Project/Resource Impo
 
  The **LoadWebPaneControl** method is similar to the **LoadWebBrowserControl** method for the **Project Guide**, except TargetPage is a URL and the method generates an  **Application.LoadWebPane** event. The default WrapperPage is Mainpage_wp.htm.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

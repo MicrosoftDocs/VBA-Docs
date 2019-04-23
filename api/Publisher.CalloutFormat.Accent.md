@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Accent Property (Publisher)
+title: CalloutFormat.Accent property (Publisher)
 keywords: vbapb10.chm2490624
 f1_keywords:
 - vbapb10.chm2490624
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.Accent
 ms.assetid: 8e31544c-79ed-3882-98d1-42fc88f58115
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Accent Property (Publisher)
+# CalloutFormat.Accent property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether a vertical accent bar separates the callout text from the callout line. Read/write.
 
 
 ## Syntax
 
- _expression_. **Accent**
+_expression_.**Accent**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -34,7 +35,7 @@ The  **Accent** property value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoCTrue**|Not used with this property.|
 | **msoFalse**|A vertical accent bar does not separate the callout text from the callout line.|
@@ -70,4 +71,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

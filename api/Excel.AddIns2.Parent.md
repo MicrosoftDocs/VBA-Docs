@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.AddIns2.Parent
 ms.assetid: 50c49516-8bb9-b010-4dfb-29c5425dff29
-ms.date: 06/08/2017
+ms.date: 04/03/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [AddIns2](Excel.AddIns2.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[AddIns2](Excel.AddIns2.md)** object.
 
 
-[AddIns2 Object](Excel.AddIns2.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

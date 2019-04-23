@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserPicture Method (Word)
+title: FillFormat.UserPicture method (Word)
 keywords: vbawd10.chm164102161
 f1_keywords:
 - vbawd10.chm164102161
@@ -8,19 +8,20 @@ api_name:
 - Word.FillFormat.UserPicture
 ms.assetid: 09ddb55f-7ba0-9345-c366-23ac5ce6945a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.UserPicture Method (Word)
+# FillFormat.UserPicture method (Word)
 
 Fills the specified shape with one large image. .
 
 
 ## Syntax
 
- _expression_. `UserPicture`( `_PictureFile_` )
+_expression_. `UserPicture`( `_PictureFile_` )
 
- _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End Sub
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

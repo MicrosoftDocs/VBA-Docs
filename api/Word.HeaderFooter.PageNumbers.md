@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.PageNumbers Property (Word)
+title: HeaderFooter.PageNumbers property (Word)
 keywords: vbawd10.chm159711237
 f1_keywords:
 - vbawd10.chm159711237
@@ -8,17 +8,18 @@ api_name:
 - Word.HeaderFooter.PageNumbers
 ms.assetid: 2e36c668-f696-e09e-dd04-ae77e7524232
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.PageNumbers Property (Word)
+# HeaderFooter.PageNumbers property (Word)
 
 Returns a  **[PageNumbers](Word.pagenumbers.md)** collection that represents all the page number fields included in the specified header or footer.
 
 
 ## Syntax
 
- _expression_. `PageNumbers`
+_expression_. `PageNumbers`
 
  _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

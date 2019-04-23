@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceSymbols Property (Word)
+title: Options.AutoFormatReplaceSymbols property (Word)
 keywords: vbawd10.chm162988287
 f1_keywords:
 - vbawd10.chm162988287
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatReplaceSymbols
 ms.assetid: 58a1c811-2fd8-92a9-1f85-6d9beb4223ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatReplaceSymbols Property (Word)
+# Options.AutoFormatReplaceSymbols property (Word)
 
- **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (—) when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (—) when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatReplaceSymbols`
+_expression_. `AutoFormatReplaceSymbols`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnAutoFormat = Options.AutoFormatReplaceSymbols
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

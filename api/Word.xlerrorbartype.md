@@ -1,12 +1,13 @@
 ---
-title: xlErrorBarType Enumeration (Word)
+title: XlErrorBarType enumeration (Word)
 ms.prod: word
 ms.assetid: 52ad9b53-5dc0-fc7d-b08b-92d89e9c59f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorBarType Enumeration (Word)
+# XlErrorBarType enumeration (Word)
 
 Specifies the range marked by error bars.
 
@@ -20,3 +21,4 @@ Specifies the range marked by error bars.
 | **xlErrorBarTypeStDev**|-4155|Shows the range for a specified number of standard deviations.|
 | **xlErrorBarTypeStError**|4|Shows the standard error range.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

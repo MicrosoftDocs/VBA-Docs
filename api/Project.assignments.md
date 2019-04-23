@@ -1,21 +1,22 @@
 ---
-title: Assignments Object (Project)
+title: Assignments object (Project)
 ms.prod: project-server
 ms.assetid: 83661095-030c-0488-5763-320b6de6f381
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignments Object (Project)
+# Assignments object (Project)
 
-Contains a collection of  **[Assignment](Project.Assignment.md)** objects for a task or resource.
+Contains a collection of **[Assignment](Project.Assignment.md)** objects for a task or resource.
 
 
 ## Example
 
  **Using the Assignment Object**
 
-Use  **Assignments(** _Index_ **)**, where _Index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
+Use **Assignments** (_index_), where _index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
 
 
 
@@ -26,7 +27,7 @@ MsgBox ActiveProject.Tasks(1).Assignments(1).ResourceName
 
  **Using the Assignments Collection**
 
-Use the  **[Assignments](./Project.Task.Assignments.md)** property to return an **Assignments** collection. The following example displays all the resources assigned to the specified task.
+Use the **[Assignments](./Project.Task.Assignments.md)** property to return an **Assignments** collection. The following example displays all the resources assigned to the specified task.
 
 
 
@@ -43,7 +44,7 @@ For Each A In ActiveProject.Tasks(1).Assignments
 Next A
 ```
 
-Use the  **[Add](./Project.Assignments.Add.md)** method to add an **Assignment** object to the **Assignments** collection. The following example adds a resource identified by the number 212 as a new assignment for the specified task.
+Use the **[Add](./Project.Assignments.Add.md)** method to add an **Assignment** object to the **Assignments** collection. The following example adds a resource identified by the number 212 as a new assignment for the specified task.
 
 
 
@@ -57,7 +58,7 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppendNotes](./Project.Assignment.AppendNotes.md)|
 |[Delete](./Project.Assignment.Delete.md)|
@@ -69,7 +70,7 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActualCost](./Project.Assignment.ActualCost.md)|
 |[ActualFinish](./Project.Assignment.ActualFinish.md)|
@@ -337,3 +338,5 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

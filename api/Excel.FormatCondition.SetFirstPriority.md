@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.SetFirstPriority Method (Excel)
+title: FormatCondition.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm512091
 f1_keywords:
 - vbaxl10.chm512091
@@ -8,19 +8,20 @@ api_name:
 - Excel.FormatCondition.SetFirstPriority
 ms.assetid: 53870387-996e-48e3-5159-7d5bb4614bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormatCondition.SetFirstPriority Method (Excel)
+# FormatCondition.SetFirstPriority method (Excel)
 
 Sets the priority value for this conditional formatting rule to "1" so that it will be evaluated before all other rules on the worksheet.
 
 
 ## Syntax
 
- _expression_. `SetFirstPriority`
+_expression_.**SetFirstPriority**
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ When you have multiple conditional formatting rules in a worksheet, if the rule 
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

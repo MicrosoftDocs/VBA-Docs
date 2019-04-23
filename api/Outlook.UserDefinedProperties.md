@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties Object (Outlook)
+title: UserDefinedProperties object (Outlook)
 keywords: vbaol11.chm3152
 f1_keywords:
 - vbaol11.chm3152
@@ -8,10 +8,11 @@ api_name:
 - Outlook.UserDefinedProperties
 ms.assetid: 196e5d4c-22be-02d3-95e0-3ea7594c2e4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserDefinedProperties Object (Outlook)
+# UserDefinedProperties object (Outlook)
 
 Contains a set of  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** objects representing the user-defined properties defined for a **[Folder](Outlook.Folder.md)** object.
 
@@ -81,7 +82,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.UserDefinedProperties.Add.md)|
 |[Find](Outlook.UserDefinedProperties.Find.md)|
@@ -93,7 +94,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.UserDefinedProperties.Application.md)|
 |[Class](Outlook.UserDefinedProperties.Class.md)|
@@ -104,4 +105,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

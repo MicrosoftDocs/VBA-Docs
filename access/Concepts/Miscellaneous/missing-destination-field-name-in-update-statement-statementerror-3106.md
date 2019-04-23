@@ -3,6 +3,7 @@ title: Missing destination field name in UPDATE statement <statement>. (Error 31
 ms.prod: access
 ms.assetid: e7bca22f-e192-95bf-f53b-06f46c1476e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ Enter a destination field name in the specified statement, and then try the oper
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

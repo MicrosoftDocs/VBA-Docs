@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 370ce19c-d0d7-3445-9e20-4f6120c40a44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ The value assigned to  **Height** or **Width** must be greater than or equal to 
 
 For most systems, the recommended range of values for  **Left** and **Top** is from -32,767 to +32,767. Other values may also work depending on your system configuration. For an **[OlkComboBox](../../../api/Outlook.OlkComboBox.md)** control, values of **Left** and **Top** apply to the text box portion of the control, not to the list portion. When you move or size a control, its new **Left** setting is automatically entered in the property sheet.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 1ad6e645-58ea-00d8-37a7-aac91a3badb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Sets the  **TabIndex** property of each control on a frame or page, using a defa
 
 ## Syntax
 
- _expression_. **SetDefaultTabOrder**
+_expression_.**SetDefaultTabOrder**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
 
 The  **TabIndex** property of a control is a Microsoft Forms 2.0 property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

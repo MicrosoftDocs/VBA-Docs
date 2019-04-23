@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.IncludeInLayout Property (Word)
+title: DisplayUnitLabel.IncludeInLayout property (Word)
 keywords: vbawd10.chm94570866
 f1_keywords:
 - vbawd10.chm94570866
@@ -8,17 +8,18 @@ api_name:
 - Word.DisplayUnitLabel.IncludeInLayout
 ms.assetid: 05f119fe-d0b1-9309-f6d2-86abdd81c548
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.IncludeInLayout Property (Word)
+# DisplayUnitLabel.IncludeInLayout property (Word)
 
- **True** if a display unit label will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
+ **True** if a display unit label will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ An expression that returns a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
@@ -33,3 +34,4 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

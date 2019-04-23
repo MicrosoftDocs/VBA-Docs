@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d21bb198-7d4b-4526-98b2-7a976f2a8fcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.CellChanged Event (Visio)](http://msdn.microsoft.com/library/8c07be33-8d0d-4957-7f08-daef8b798f28%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

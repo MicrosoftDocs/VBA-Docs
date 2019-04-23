@@ -1,14 +1,15 @@
 ---
-title: PjResourceGraphStyle Enumeration (Project)
+title: PjResourceGraphStyle enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceGraphStyle
 ms.assetid: 04e035ee-2f46-ca0c-5699-cd8fe721920a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjResourceGraphStyle Enumeration (Project)
+# PjResourceGraphStyle enumeration (Project)
 
 Contains constants that specify the resource graph style.
 
@@ -23,3 +24,4 @@ Contains constants that specify the resource graph style.
 |**pjStep**|2|Step.|
 |**pjStepLine**|4|Step line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

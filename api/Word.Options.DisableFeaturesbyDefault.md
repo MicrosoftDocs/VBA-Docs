@@ -1,5 +1,5 @@
 ---
-title: Options.DisableFeaturesbyDefault Property (Word)
+title: Options.DisableFeaturesbyDefault property (Word)
 keywords: vbawd10.chm162988460
 f1_keywords:
 - vbawd10.chm162988460
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.DisableFeaturesbyDefault
 ms.assetid: 58afcc8b-1d40-eebc-24ff-cb6bfdb5956d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DisableFeaturesbyDefault Property (Word)
+# Options.DisableFeaturesbyDefault property (Word)
 
- **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](Word.Options.DisableFeaturesIntroducedAfterbyDefault.md)** . The default value is **False** . Read/write **Boolean** .
+ **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](Word.Options.DisableFeaturesIntroducedAfterbyDefault.md)**. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisableFeaturesbyDefault`
+_expression_. `DisableFeaturesbyDefault`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -59,3 +60,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

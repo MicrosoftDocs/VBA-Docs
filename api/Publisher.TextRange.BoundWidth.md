@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundWidth Property (Publisher)
+title: TextRange.BoundWidth property (Publisher)
 keywords: vbapb10.chm5308438
 f1_keywords:
 - vbapb10.chm5308438
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.BoundWidth
 ms.assetid: bab5053f-958b-9264-9a1e-6f81b5a860b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.BoundWidth Property (Publisher)
+# TextRange.BoundWidth property (Publisher)
 
-Returns a  **Single** indicating the width, in points, of the bounding box for the specified text range. Read-only.
+Returns a  **Single** indicating the width, in [points](../language/glossary/vbe-glossary.md#point), of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **BoundWidth**
+_expression_.**BoundWidth**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -53,4 +54,4 @@ End With
 MsgBox strMessage
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

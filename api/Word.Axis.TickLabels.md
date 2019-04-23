@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabels Property (Word)
+title: Axis.TickLabels property (Word)
 keywords: vbawd10.chm113049650
 f1_keywords:
 - vbawd10.chm113049650
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.TickLabels
 ms.assetid: 5c363e25-71e3-4f89-bcd3-612855000f53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.TickLabels Property (Word)
+# Axis.TickLabels property (Word)
 
-Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](Word.TickLabels.md)** .
+Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](Word.TickLabels.md)**.
 
 
 ## Syntax
 
- _expression_. `TickLabels`
+_expression_. `TickLabels`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

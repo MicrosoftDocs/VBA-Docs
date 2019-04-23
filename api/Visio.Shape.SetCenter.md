@@ -1,5 +1,5 @@
 ---
-title: Shape.SetCenter Method (Visio)
+title: Shape.SetCenter method (Visio)
 keywords: vis_sdr.chm11216555
 f1_keywords:
 - vis_sdr.chm11216555
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.SetCenter
 ms.assetid: 9a3c0597-c255-44ab-9268-938acd3c5a69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SetCenter Method (Visio)
+# Shape.SetCenter method (Visio)
 
 Moves a shape so that its pin is positioned at the coordinates represented by  _xPos_ and _yPos_. .
 
 
 ## Syntax
 
- _expression_. `SetCenter`( `_xPos_` , `_yPos_` )
+_expression_. `SetCenter`( `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -43,4 +44,4 @@ The coordinates represented by the  _xPos_ and _yPos_ arguments are parent coord
 
 The  **SetCenter** method only moves the point, in parent coordinates, about which the shape rotates. It does not change the point, in local coordinates, about which the shape rotates. The overall effect is to move the shape with respect to its parent shape (or the page).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

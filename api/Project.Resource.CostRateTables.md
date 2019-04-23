@@ -1,21 +1,22 @@
 ---
-title: Resource.CostRateTables Property (Project)
+title: Resource.CostRateTables property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.CostRateTables
 ms.assetid: 604d89ee-a16e-812e-0459-b93ed096340e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.CostRateTables Property (Project)
+# Resource.CostRateTables property (Project)
 
 Gets a  **[CostRateTables](Project.CostRateTable.md)** collection representing the cost rate tables for the resource. Read-only **CostRateTables**.
 
 
 ## Syntax
 
- _expression_. `CostRateTables`
+_expression_. `CostRateTables`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -43,4 +44,4 @@ Sub ListPayRates()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

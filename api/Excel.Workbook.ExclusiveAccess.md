@@ -1,5 +1,5 @@
 ---
-title: Workbook.ExclusiveAccess Method (Excel)
+title: Workbook.ExclusiveAccess method (Excel)
 keywords: vbaxl10.chm199099
 f1_keywords:
 - vbaxl10.chm199099
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.ExclusiveAccess
 ms.assetid: 9b92ec4f-e256-7e01-6cd7-759a0d022813
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.ExclusiveAccess Method (Excel)
+# Workbook.ExclusiveAccess method (Excel)
 
 Assigns the current user exclusive access to the workbook that's open as a shared list.
 
 
 ## Syntax
 
- _expression_. `ExclusiveAccess`
+_expression_. `ExclusiveAccess`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

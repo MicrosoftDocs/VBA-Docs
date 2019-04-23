@@ -1,21 +1,22 @@
 ---
-title: Year.Shift1 Property (Project)
+title: Year.Shift1 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Year.Shift1
 ms.assetid: 4c352439-21c1-e369-7a33-d8e92ba23f2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Year.Shift1 Property (Project)
+# Year.Shift1 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the first work shift throughout a year. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift1`
+_expression_. `Shift1`
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 
@@ -38,4 +39,4 @@ Sub HalfDayFridays()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

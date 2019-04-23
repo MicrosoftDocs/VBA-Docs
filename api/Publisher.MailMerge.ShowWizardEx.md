@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ShowWizardEx Method (Publisher)
+title: MailMerge.ShowWizardEx method (Publisher)
 keywords: vbapb10.chm6225944
 f1_keywords:
 - vbapb10.chm6225944
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMerge.ShowWizardEx
 ms.assetid: 3815204f-5f09-5a25-a2e4-5de4889c9919
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.ShowWizardEx Method (Publisher)
+# MailMerge.ShowWizardEx method (Publisher)
 
 Displays the specified catalog or mail merge wizard in a document.
 
 
 ## Syntax
 
- _expression_. **ShowWizardEx**(**_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
+_expression_.**ShowWizardEx**(**_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
 
  _expression_ A variable that represents a  **MailMerge** object.
 
@@ -64,4 +65,4 @@ Public Sub ShowWizardEx_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Insert Method (Publisher)
+title: ShapeNodes.Insert method (Publisher)
 keywords: vbapb10.chm3473426
 f1_keywords:
 - vbapb10.chm3473426
@@ -8,24 +8,23 @@ api_name:
 - Publisher.ShapeNodes.Insert
 ms.assetid: c78ceefe-db9f-4af0-2e76-2ab1e4dc74b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Insert Method (Publisher)
+# ShapeNodes.Insert method (Publisher)
 
 Inserts a new segment after the specified node of the freeform drawing.
 
 
 ## Syntax
 
- _expression_. **Insert**(**_Index_**,  **_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
+_expression_.**Insert** (_Index_, _SegmentType_, _EditingType_, _X1_, _Y1_, _X2_, _Y2_, _X3_, _Y3_)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -72,4 +71,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

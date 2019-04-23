@@ -1,5 +1,5 @@
 ---
-title: Rules.Save Method (Outlook)
+title: Rules.Save method (Outlook)
 keywords: vbaol11.chm2161
 f1_keywords:
 - vbaol11.chm2161
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Rules.Save
 ms.assetid: d838eca0-4ec5-ab43-a031-fd65ab7d9f3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rules.Save Method (Outlook)
+# Rules.Save method (Outlook)
 
 Saves all rules in the  **[Rules](Outlook.Rules.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Save`( `_ShowProgress_` )
+_expression_. `Save`( `_ShowProgress_` )
 
- _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
+_expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ The Exchange server limits the maximum number of rules that can be supported by 
 
 [Rules Object](Outlook.Rules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

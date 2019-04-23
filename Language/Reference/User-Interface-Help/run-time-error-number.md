@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2ab42a36-2a83-e092-c6ec-11679af0f4b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ This error is user-defined, and has the following cause and solution:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

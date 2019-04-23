@@ -8,6 +8,7 @@ api_name:
 - Excel.UniqueValues.DupeUnique
 ms.assetid: 428d6416-ae3f-8ddd-72a9-2a627466a946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets one of the constants of the  **[XlDupeUnique](Excel.XlDupeUnique
 
 ## Syntax
 
- _expression_. `DupeUnique`
+_expression_. `DupeUnique`
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets one of the constants of the  **[XlDupeUnique](Excel.XlDupeUnique
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

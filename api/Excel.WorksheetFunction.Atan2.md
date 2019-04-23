@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Atan2 Method (Excel)
+title: WorksheetFunction.Atan2 method (Excel)
 keywords: vbaxl10.chm137118
 f1_keywords:
 - vbaxl10.chm137118
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Atan2
 ms.assetid: d6a6597d-9d46-fdad-3bf1-05cee4cf9e20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Atan2 Method (Excel)
+# WorksheetFunction.Atan2 method (Excel)
 
 Returns the arctangent, or inverse tangent, of the specified x- and y-coordinates. The arctangent is the angle from the x-axis to a line containing the origin (0, 0) and a point with coordinates (x_num, y_num). The angle is given in radians between -pi and pi, excluding -pi.
 
@@ -20,7 +21,7 @@ Returns the arctangent, or inverse tangent, of the specified x- and y-coordinate
 
 _expression_. `Atan2`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Double
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

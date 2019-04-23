@@ -1,5 +1,5 @@
 ---
-title: Application.DDEPoke Method (Excel)
+title: Application.DDEPoke method (Excel)
 keywords: vbaxl10.chm132091
 f1_keywords:
 - vbaxl10.chm132091
@@ -7,29 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Application.DDEPoke
 ms.assetid: 5d00e0da-e041-7a9e-3b55-f5edd3f2a4a0
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
-# Application.DDEPoke Method (Excel)
+# Application.DDEPoke method (Excel)
 
 Sends data to an application.
 
 
 ## Syntax
 
- _expression_. `DDEPoke`( `_Channel_` , `_Item_` , `_Data_` )
+_expression_.**DDEPoke** (_Channel_, _Item_, _Data_)
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
 | _Item_|Required| **Variant**|The item to which the data is to be sent.|
 | _Data_|Required| **Variant**|The data to be sent to the application.|
 
@@ -42,7 +41,6 @@ An error occurs if the method call doesn't succeed.
 
 This example opens a channel to Word, opens the Word document Sales.doc, and then inserts the contents of cell A1 (on Sheet1) at the beginning of the document.
 
-
 ```vb
 channelNumber = Application.DDEInitiate( _ 
  app:="WinWord", _ 
@@ -53,8 +51,6 @@ Application.DDETerminate channelNumber
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

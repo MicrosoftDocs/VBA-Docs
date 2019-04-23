@@ -5,6 +5,7 @@ api_name:
 - Visio.ToolbarCustomizable
 ms.assetid: d49d690c-7c6d-0fab-4295-9540708eaf5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether it is possible to customize the tool
 
 ## Syntax
 
- _expression_. **ToolbarCustomizable**
+_expression_.**ToolbarCustomizable**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code makes the toolbar non-customizable in Visio Viewer.
 vsoViewer.ToolbarCustomizable = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Delete Method (Excel)
+title: SparklineGroup.Delete method (Excel)
 keywords: vbaxl10.chm871083
 f1_keywords:
 - vbaxl10.chm871083
@@ -8,19 +8,20 @@ api_name:
 - Excel.SparklineGroup.Delete
 ms.assetid: 8b1369a6-5106-f400-ca8b-41e6ebf8ad4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SparklineGroup.Delete Method (Excel)
+# SparklineGroup.Delete method (Excel)
 
 Deletes the sparkline group.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Nothing
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

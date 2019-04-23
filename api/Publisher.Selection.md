@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Publisher)
+title: Selection object (Publisher)
 keywords: vbapb10.chm917503
 f1_keywords:
 - vbapb10.chm917503
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Selection
 ms.assetid: 1ebee88b-a39e-ea3a-48b0-6205621853af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection Object (Publisher)
+# Selection object (Publisher)
 
 Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one  **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
  
@@ -30,7 +31,7 @@ Sub CopySelection()
 End Sub
 ```
 
-The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes there is at least one item selected in the active pubication.
+The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes there is at least one item selected in the active publication.
  
 
  
@@ -69,7 +70,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Unselect](Publisher.Selection.Unselect.md)|
 
@@ -77,7 +78,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Selection.Application.md)|
 |[ChildShapeRange](Publisher.Selection.ChildShapeRange.md)|
@@ -87,3 +88,4 @@ End Sub
 |[TextRange](Publisher.Selection.TextRange.md)|
 |[Type](Publisher.Selection.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

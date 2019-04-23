@@ -1,5 +1,5 @@
 ---
-title: RulerGuides.Count Property (Publisher)
+title: RulerGuides.Count property (Publisher)
 keywords: vbapb10.chm720899
 f1_keywords:
 - vbapb10.chm720899
@@ -8,17 +8,18 @@ api_name:
 - Publisher.RulerGuides.Count
 ms.assetid: 92a93b1a-80c1-7a41-cb94-ac0859a4a470
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerGuides.Count Property (Publisher)
+# RulerGuides.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **RulerGuides** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

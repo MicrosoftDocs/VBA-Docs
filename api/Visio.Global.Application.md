@@ -1,5 +1,5 @@
 ---
-title: Global.Application Property (Visio)
+title: Global.Application property (Visio)
 keywords: vis_sdr.chm12813090
 f1_keywords:
 - vis_sdr.chm12813090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Global.Application
 ms.assetid: cafd474b-9ab7-08a4-2ffa-79b4e6ab6fd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.Application Property (Visio)
+# Global.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Global](./Visio.Global.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

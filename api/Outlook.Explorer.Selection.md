@@ -1,5 +1,5 @@
 ---
-title: Explorer.Selection Property (Outlook)
+title: Explorer.Selection property (Outlook)
 keywords: vbaol11.chm2770
 f1_keywords:
 - vbaol11.chm2770
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.Selection
 ms.assetid: 11002043-9dab-a5ad-b36e-52ddb04c1859
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.Selection Property (Outlook)
+# Explorer.Selection property (Outlook)
 
 Returns a  **[Selection](Outlook.Selection.md)** object that contains the item or items that are selected in the explorer window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Selection`
+_expression_.**Selection**
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks
@@ -88,7 +89,7 @@ Sub GetSelectedItems()
  
  ElseIf myOlSel.Item(x).Class = OlObjectClass.olAppointment Then 
  
- ' For appointment item, use the Organizser property. 
+ ' For appointment item, use the Organizer property. 
  
  Set oAppt = myOlSel.Item(x) 
  
@@ -123,3 +124,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

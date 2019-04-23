@@ -1,5 +1,5 @@
 ---
-title: Selection.ChildShapeRange Property (PowerPoint)
+title: Selection.ChildShapeRange property (PowerPoint)
 keywords: vbapp10.chm508011
 f1_keywords:
 - vbapp10.chm508011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Selection.ChildShapeRange
 ms.assetid: f7458e07-47ec-c832-0731-94f4ba94ca89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ChildShapeRange Property (PowerPoint)
+# Selection.ChildShapeRange property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the child shapes of a selection.
 
 
 ## Syntax
 
- _expression_. `ChildShapeRange`
+_expression_. `ChildShapeRange`
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
@@ -76,3 +77,4 @@ End Sub
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

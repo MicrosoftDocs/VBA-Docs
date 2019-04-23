@@ -1,5 +1,5 @@
 ---
-title: View.FullScreen Property (Word)
+title: View.FullScreen property (Word)
 keywords: vbawd10.chm161808385
 f1_keywords:
 - vbawd10.chm161808385
@@ -8,17 +8,18 @@ api_name:
 - Word.View.FullScreen
 ms.assetid: f26be86f-be78-84f7-8222-187040d61a40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.FullScreen Property (Word)
+# View.FullScreen property (Word)
 
- **True** if the window is in full-screen view. Read/write **Boolean** .
+ **True** if the window is in full-screen view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `FullScreen`
+_expression_. `FullScreen`
 
  _expression_ A variable that represents a '[View](Word.View.md)' object.
 
@@ -50,3 +51,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

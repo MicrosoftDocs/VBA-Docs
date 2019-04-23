@@ -1,21 +1,22 @@
 ---
-title: Task.Flag5 Property (Project)
+title: Task.Flag5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Flag5
 ms.assetid: 9e4f565d-7e1d-2ce2-98b4-1e9108d734bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Flag5 Property (Project)
+# Task.Flag5 property (Project)
 
 Gets or sets the value of a task flag custom field. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag5`
+_expression_. `Flag5`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -40,4 +41,4 @@ Sub DeleteNonEssentialTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

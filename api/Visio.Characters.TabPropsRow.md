@@ -1,5 +1,5 @@
 ---
-title: Characters.TabPropsRow Property (Visio)
+title: Characters.TabPropsRow property (Visio)
 keywords: vis_sdr.chm10214480
 f1_keywords:
 - vis_sdr.chm10214480
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.TabPropsRow
 ms.assetid: 83002645-df6c-5565-b62a-983960a8a8a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.TabPropsRow Property (Visio)
+# Characters.TabPropsRow property (Visio)
 
 Returns the index of the row in the Tabs section of the ShapeSheet that contains tab formatting information for a  **Characters** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `TabPropsRow`( `_BiasLorR_` )
+_expression_. `TabPropsRow`( `_BiasLorR_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -56,10 +57,10 @@ If the  **Characters** object represents an insertion point rather than a sequen
 
 Specify  **visBiasLeft** for the row that covers tab formatting for the character to the left of the insertion point. Use **visBiasRight** for the row that covers tab formatting for the character to the right of the insertion point.
 
-If you specify  **visBiasLetVisioChoose** , Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the tab formatting of the character to the left of the insertion point to the new text, so **TabPropsRow** will return the same value it would if passed **visBiasLeft** . (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **TabPropsRow** returns the value it would return if passed **visBiasRight** .
+If you specify  **visBiasLetVisioChoose**, Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the tab formatting of the character to the left of the insertion point to the new text, so **TabPropsRow** will return the same value it would if passed **visBiasLeft**. (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **TabPropsRow** returns the value it would return if passed **visBiasRight**.
 
 
 > [!NOTE] 
 > In the context of a  **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

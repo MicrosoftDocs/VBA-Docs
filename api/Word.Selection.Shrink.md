@@ -1,5 +1,5 @@
 ---
-title: Selection.Shrink Method (Word)
+title: Selection.Shrink method (Word)
 keywords: vbawd10.chm158662957
 f1_keywords:
 - vbawd10.chm158662957
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Shrink
 ms.assetid: ed364c95-3b9d-44dc-b120-db23aedfeaed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Shrink Method (Word)
+# Selection.Shrink method (Word)
 
 Shrinks the selection to the next smaller unit of text.
 
 
 ## Syntax
 
- _expression_. `Shrink`
+_expression_. `Shrink`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

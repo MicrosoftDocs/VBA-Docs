@@ -1,5 +1,5 @@
 ---
-title: Field.TextRange Property (Publisher)
+title: Field.TextRange property (Publisher)
 keywords: vbapb10.chm6094852
 f1_keywords:
 - vbapb10.chm6094852
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Field.TextRange
 ms.assetid: 09279cc7-3911-3b8d-51f2-b26494220c68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.TextRange Property (Publisher)
+# Field.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 
 
 ## Syntax
 
- _expression_. **TextRange**
+_expression_.**TextRange**
 
  _expression_ A variable that represents a  **Field** object.
 
@@ -55,4 +56,4 @@ Sub AddTextToShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

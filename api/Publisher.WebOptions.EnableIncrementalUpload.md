@@ -1,5 +1,5 @@
 ---
-title: WebOptions.EnableIncrementalUpload Property (Publisher)
+title: WebOptions.EnableIncrementalUpload property (Publisher)
 keywords: vbapb10.chm8257541
 f1_keywords:
 - vbapb10.chm8257541
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebOptions.EnableIncrementalUpload
 ms.assetid: 42d5e22e-7e39-848e-a7e7-5d2019f7e71c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.EnableIncrementalUpload Property (Publisher)
+# WebOptions.EnableIncrementalUpload property (Publisher)
 
 Returns or sets a  **Boolean** value that specifies whether changes made to a Web publication can be uploaded to a Web server independent of the entire publication. If **True**, only changes made to a publication will be uploaded to the Web server when published. If  **False**, the entire publication will be uploaded to the Web server. The default value is  **True**. Read/write.
 
 
 ## Syntax
 
- _expression_. **EnableIncrementalUpload**
+_expression_.**EnableIncrementalUpload**
 
  _expression_ A variable that represents an  **WebOptions** object.
 
@@ -50,4 +51,4 @@ With theWO
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

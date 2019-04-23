@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.Formula
 ms.assetid: 3ede7311-fef4-eb8f-5776-25e492980593
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** representing a formula, which determines the value
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is useful to limit the range of values that will display the condi
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

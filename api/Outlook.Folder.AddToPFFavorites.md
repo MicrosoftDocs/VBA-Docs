@@ -1,5 +1,5 @@
 ---
-title: Folder.AddToPFFavorites Method (Outlook)
+title: Folder.AddToPFFavorites method (Outlook)
 keywords: vbaol11.chm2003
 f1_keywords:
 - vbaol11.chm2003
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.AddToPFFavorites
 ms.assetid: d3926957-bf6d-ad4d-9c24-bfc5037ba9fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.AddToPFFavorites Method (Outlook)
+# Folder.AddToPFFavorites method (Outlook)
 
 Adds a Microsoft Exchange public folder to the public folder's Favorites folder.
 
 
 ## Syntax
 
- _expression_. `AddToPFFavorites`
+_expression_. `AddToPFFavorites`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Example
@@ -50,3 +51,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

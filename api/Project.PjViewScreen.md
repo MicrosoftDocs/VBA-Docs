@@ -1,14 +1,15 @@
 ---
-title: PjViewScreen Enumeration (Project)
+title: PjViewScreen enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjViewScreen
 ms.assetid: a345e016-ef13-0605-7b2a-5e91c748743e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjViewScreen Enumeration (Project)
+# PjViewScreen enumeration (Project)
 
 Contains constants that specify the screen type for a view in Project.
 
@@ -34,3 +35,4 @@ Contains constants that specify the screen type for a view in Project.
 |**pjTaskUsage**|14|**Task Usage** view.|
 |**pjTimeline**|16|**Timeline** view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

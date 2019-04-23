@@ -1,5 +1,5 @@
 ---
-title: ContentControls.Add Method (Word)
+title: ContentControls.Add method (Word)
 keywords: vbawd10.chm157745153
 f1_keywords:
 - vbawd10.chm157745153
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControls.Add
 ms.assetid: a9b612a6-6dcb-a74a-0b87-c112f51e2dcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControls.Add Method (Word)
+# ContentControls.Add method (Word)
 
 Adds a new content control, of the type specified, into the active document and returns a  **[ContentControl](Word.ContentControl.md)** object that represents the new content control.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Type_` , `_Range_` )
+_expression_.**Add**( `_Type_` , `_Range_` )
 
  _expression_ An expression that returns a [ContentControls](./Word.ContentControls.md) object.
 
@@ -70,3 +71,4 @@ objCC.DropdownListEntries.Add "Other"
 
 [ContentControls Collection](Word.ContentControls.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

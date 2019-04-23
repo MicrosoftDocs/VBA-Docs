@@ -1,5 +1,5 @@
 ---
-title: Page.PageNumber Property (Publisher)
+title: Page.PageNumber property (Publisher)
 keywords: vbapb10.chm393220
 f1_keywords:
 - vbapb10.chm393220
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.PageNumber
 ms.assetid: 670e3f46-9cad-b85e-b627-3be8c7c4e577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.PageNumber Property (Publisher)
+# Page.PageNumber property (Publisher)
 
 Returns a  **String** that represents the current page number. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageNumber**
+_expression_.**PageNumber**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -46,4 +47,4 @@ Sub GetPageNumber()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

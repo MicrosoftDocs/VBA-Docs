@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharingPoolUpdate Method (Project)
+title: Application.ResourceSharingPoolUpdate method (Project)
 keywords: vbapj.chm248
 f1_keywords:
 - vbapj.chm248
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ResourceSharingPoolUpdate
 ms.assetid: 1ebcf06f-fce3-7403-2adb-56f60ab73259
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ResourceSharingPoolUpdate Method (Project)
+# Application.ResourceSharingPoolUpdate method (Project)
 
 Synchronizes the information in the sharer project with the information in the local resource pool project.
 
 
 ## Syntax
 
- _expression_. `ResourceSharingPoolUpdate`( ` _allSharers_` )
+_expression_. `ResourceSharingPoolUpdate`( `_allSharers_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -53,4 +54,4 @@ In the following example, the project that contains the resources to share is na
 Application.ResourceSharingPoolUpdate
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

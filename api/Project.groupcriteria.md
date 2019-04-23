@@ -1,12 +1,13 @@
 ---
-title: GroupCriteria Object (Project)
+title: GroupCriteria object (Project)
 ms.prod: project-server
 ms.assetid: b19beefb-bfe2-54ba-0835-11624e92bafc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriteria Object (Project)
+# GroupCriteria object (Project)
 
 Contains a collection of  **[GroupCriterion](Project.GroupCriterion.md)** objects.
  
@@ -89,7 +90,7 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.GroupCriteria.Add.md)|
 
@@ -97,7 +98,7 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.GroupCriteria.Application.md)|
 |[Count](Project.GroupCriteria.Count.md)|
@@ -109,3 +110,5 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Correl Method (Excel)
+title: WorksheetFunction.Correl method (Excel)
 keywords: vbaxl10.chm137211
 f1_keywords:
 - vbaxl10.chm137211
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Correl
 ms.assetid: 8baf1d16-ab3e-918f-ad90-90b6758ae3d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Correl Method (Excel)
+# WorksheetFunction.Correl method (Excel)
 
 Returns the correlation coefficient of the  _Arg1_ and _Arg2_ cell ranges.
 
 
 ## Syntax
 
- _expression_. `Correl`( `_Arg1_` , `_Arg2_` )
+_expression_. `Correl`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

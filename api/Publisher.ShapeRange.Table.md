@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Table Property (Publisher)
+title: ShapeRange.Table property (Publisher)
 keywords: vbapb10.chm2293864
 f1_keywords:
 - vbapb10.chm2293864
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Table
 ms.assetid: 68221d37-505a-4701-8c9d-b8e695c8eb8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Table Property (Publisher)
+# ShapeRange.Table property (Publisher)
 
 Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **Table**
+_expression_.**Table**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -54,4 +55,4 @@ Sub SelectTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

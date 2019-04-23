@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MMult Method (Excel)
+title: WorksheetFunction.MMult method (Excel)
 keywords: vbaxl10.chm137139
 f1_keywords:
 - vbaxl10.chm137139
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.MMult
 ms.assetid: 8f410152-5682-2d71-007a-5fba5f884860
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.MMult Method (Excel)
+# WorksheetFunction.MMult method (Excel)
 
 Returns the matrix product of two arrays. The result is an array with the same number of rows as array1 and the same number of columns as array2.
 
@@ -19,7 +20,7 @@ Returns the matrix product of two arrays. The result is an array with the same n
 
 _expression_. `MMult`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Variant
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

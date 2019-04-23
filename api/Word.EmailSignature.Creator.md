@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.Creator Property (Word)
+title: EmailSignature.Creator property (Word)
 keywords: vbawd10.chm165412965
 f1_keywords:
 - vbawd10.chm165412965
@@ -8,19 +8,20 @@ api_name:
 - Word.EmailSignature.Creator
 ms.assetid: 8a068616-b3ed-caf9-8fc7-0ee42a8b2015
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailSignature.Creator Property (Word)
+# EmailSignature.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[EmailSignature](Word.EmailSignature.md)' object.
+_expression_ Required. A variable that represents an '[EmailSignature](Word.EmailSignature.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [EmailSignature Object](Word.EmailSignature.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

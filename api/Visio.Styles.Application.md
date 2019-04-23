@@ -1,5 +1,5 @@
 ---
-title: Styles.Application Property (Visio)
+title: Styles.Application property (Visio)
 keywords: vis_sdr.chm11513090
 f1_keywords:
 - vis_sdr.chm11513090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Styles.Application
 ms.assetid: 57986be2-ccb6-3a90-11df-7e92849f659d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles.Application Property (Visio)
+# Styles.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

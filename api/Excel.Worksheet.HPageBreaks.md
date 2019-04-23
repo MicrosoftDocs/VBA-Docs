@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.HPageBreaks
 ms.assetid: 0d26aa71-714f-a6a0-8a10-4ea6bd7d852d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents t
 
 ## Syntax
 
- _expression_. `HPageBreaks`
+_expression_.**HPageBreaks**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -80,4 +81,4 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 [Worksheet Object](Excel.Worksheet.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

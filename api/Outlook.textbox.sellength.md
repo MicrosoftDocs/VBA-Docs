@@ -3,6 +3,7 @@ title: TextBox.SelLength Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 97d11d04-a1d9-4251-01fc-a64f6d1293ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that represents the number of characters selected in
 
 ## Syntax
 
- _expression_. **SelLength**
+_expression_.**SelLength**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ Changing the value of the  **SelStart** property cancels any existing selection 
 
 The default value, zero, means that no text is currently selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

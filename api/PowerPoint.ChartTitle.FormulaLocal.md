@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.FormulaLocal Property (PowerPoint)
+title: ChartTitle.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm694026
 f1_keywords:
 - vbapp10.chm694026
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ChartTitle.FormulaLocal
 ms.assetid: 8ae6b4f9-37cf-9ec4-f63b-273f547ecc9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle.FormulaLocal Property (PowerPoint)
+# ChartTitle.FormulaLocal property (PowerPoint)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
- _expression_ A variable that represents a [ChartTitle](./PowerPoint.ChartTitle.md) object.
+_expression_ A variable that represents a [ChartTitle](./PowerPoint.ChartTitle.md) object.
 
 
 ## Remarks
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

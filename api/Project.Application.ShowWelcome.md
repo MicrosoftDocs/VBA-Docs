@@ -1,5 +1,5 @@
 ---
-title: Application.ShowWelcome Property (Project)
+title: Application.ShowWelcome property (Project)
 keywords: vbapj.chm132583
 f1_keywords:
 - vbapj.chm132583
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ShowWelcome
 ms.assetid: 083e38b0-7cfe-027a-882d-05c98f8de3b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ShowWelcome Property (Project)
+# Application.ShowWelcome property (Project)
 
  **True** if the **Welcome** dialog box appears when Project is started. Obsolete in Project. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowWelcome`
+_expression_. `ShowWelcome`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,4 +28,4 @@ ms.date: 06/08/2017
 
 Due to changes in the Project object model, the  **ShowWelcome** property no longer has an effect. It has been retained for backward compatibility.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

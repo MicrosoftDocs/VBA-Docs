@@ -1,5 +1,5 @@
 ---
-title: Document.Endnotes Property (Word)
+title: Document.Endnotes property (Word)
 keywords: vbawd10.chm158007304
 f1_keywords:
 - vbawd10.chm158007304
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Endnotes
 ms.assetid: 3c3e87c0-ea76-8bc4-0b2e-755bff6aa14c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Endnotes Property (Word)
+# Document.Endnotes property (Word)
 
 Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes in a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Endnotes`
+_expression_. `Endnotes`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

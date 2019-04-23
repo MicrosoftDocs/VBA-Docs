@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fee3a55e-9598-3c71-f855-8f272cb19d96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,7 +24,8 @@ ms.date: 06/08/2017
     
   - Any line in a hidden [module](../../Glossary/vbe-glossary.md#module).
     
-  - Any line in the **Immediate** window.
+  - Any line in the Immediate window.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

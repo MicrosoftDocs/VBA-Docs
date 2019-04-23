@@ -1,5 +1,5 @@
 ---
-title: Application.WebOpenHyperlink Method (Project)
+title: Application.WebOpenHyperlink method (Project)
 keywords: vbapj.chm1311
 f1_keywords:
 - vbapj.chm1311
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WebOpenHyperlink
 ms.assetid: f1da5d5f-45a1-02e0-8783-7f919578e3fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WebOpenHyperlink Method (Project)
+# Application.WebOpenHyperlink method (Project)
 
 Opens the document specified by a hyperlink address. 
 
 
 ## Syntax
 
- _expression_. `WebOpenHyperlink`( ` _Address_`, ` _SubAddress_`, ` _AddHistory_`, ` _NewWindow_` )
+_expression_. `WebOpenHyperlink`( `_Address_`, `_SubAddress_`, `_AddHistory_`, `_NewWindow_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -62,4 +63,4 @@ Sub WebOpen_Hyperlink()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

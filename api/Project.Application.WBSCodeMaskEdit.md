@@ -1,5 +1,5 @@
 ---
-title: Application.WBSCodeMaskEdit Method (Project)
+title: Application.WBSCodeMaskEdit method (Project)
 keywords: vbapj.chm630
 f1_keywords:
 - vbapj.chm630
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WBSCodeMaskEdit
 ms.assetid: 37ade035-5235-54ab-92fa-962c4172dcdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WBSCodeMaskEdit Method (Project)
+# Application.WBSCodeMaskEdit method (Project)
 
 Edits the work breakdown structure (WBS) code mask.
 
 
 ## Syntax
 
- _expression_. `WBSCodeMaskEdit`( ` _CodePrefix_`, ` _Level_`, ` _Sequence_`, ` _Length_`, ` _Separator_`, ` _CodeGenerate_`, ` _VerifyUniqueness_` )
+_expression_. `WBSCodeMaskEdit`( `_CodePrefix_`, `_Level_`, `_Sequence_`, `_Length_`, `_Separator_`, `_CodeGenerate_`, `_VerifyUniqueness_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -63,4 +64,4 @@ Sub SetNewWBSCode()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

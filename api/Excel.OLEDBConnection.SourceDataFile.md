@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.SourceDataFile
 ms.assetid: ddadf399-3f93-bd20-22cf-5f9303704218
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** indicating the source data file for an OLE DB conn
 
 ## Syntax
 
- _expression_. `SourceDataFile`
+_expression_. `SourceDataFile`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ For file-based data sources (for example, Access) the  **SourceDataFile** proper
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Add Method (PowerPoint)
+title: SeriesCollection.Add method (PowerPoint)
 keywords: vbapp10.chm717002
 f1_keywords:
 - vbapp10.chm717002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SeriesCollection.Add
 ms.assetid: 29dd05a7-a707-78ff-fc06-1085e065eb3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection.Add Method (PowerPoint)
+# SeriesCollection.Add method (PowerPoint)
 
 Adds one or more new series to the collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Source_`, `_Rowcol_`, `_SeriesLabels_`, `_CategoryLabels_`, `_Replace_` )
+_expression_.**Add**( `_Source_`, `_Rowcol_`, `_SeriesLabels_`, `_CategoryLabels_`, `_Replace_` )
 
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
@@ -72,3 +73,4 @@ End With
 
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

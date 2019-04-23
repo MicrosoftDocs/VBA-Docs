@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPolyline Method (Word)
+title: Shapes.AddPolyline method (Word)
 keywords: vbawd10.chm161415184
 f1_keywords:
 - vbawd10.chm161415184
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.AddPolyline
 ms.assetid: a9e25bec-095d-e088-246a-34b813ab0328
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddPolyline Method (Word)
+# Shapes.AddPolyline method (Word)
 
 Adds an open or closed polygon to a drawing canvas. Returns a  **Shape** object that represents the polygon and adds it to the **CanvasShapes** collection.
 
 
 ## Syntax
 
- _expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
+_expression_. `AddPolyline`( `_SafeArrayOfPoints_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ End Sub
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

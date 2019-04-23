@@ -1,5 +1,5 @@
 ---
-title: Cell.FormulaForceU Property (Visio)
+title: Cell.FormulaForceU property (Visio)
 keywords: vis_sdr.chm10151970
 f1_keywords:
 - vis_sdr.chm10151970
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.FormulaForceU
 ms.assetid: 386003e3-b9e9-4c35-ac14-55bdb8da4375
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.FormulaForceU Property (Visio)
+# Cell.FormulaForceU property (Visio)
 
 Sets the universal syntax formula in a  **Cell** object, even if the formula is protected with a GUARD function. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormulaForceU`
+_expression_. `FormulaForceU`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -39,4 +40,4 @@ Many of the SmartShapes symbols provided with Microsoft Visio have guarded cells
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **FormulaForce** property when you want to use local syntax in the formula. Use the **FormulaForceU** property when you want to use universal syntax in the formula.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

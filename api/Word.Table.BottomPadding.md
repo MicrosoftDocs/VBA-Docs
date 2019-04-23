@@ -1,5 +1,5 @@
 ---
-title: Table.BottomPadding Property (Word)
+title: Table.BottomPadding property (Word)
 keywords: vbawd10.chm156303474
 f1_keywords:
 - vbawd10.chm156303474
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.BottomPadding
 ms.assetid: d4e37a85-d194-8d19-c43f-09d30187e007
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.BottomPadding Property (Word)
+# Table.BottomPadding property (Word)
 
-Returns or sets the amount of space (in points) to add below the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add below the contents of a single cell or all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_.**BottomPadding**
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).BottomPadding = _
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Global.Dialogs Property (Word)
+title: Global.Dialogs property (Word)
 keywords: vbawd10.chm163119123
 f1_keywords:
 - vbawd10.chm163119123
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.Dialogs
 ms.assetid: 7eea3680-b232-c18a-d99a-d7c2a5b29cd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.Dialogs Property (Word)
+# Global.Dialogs property (Word)
 
 Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 
 
 ## Syntax
 
- _expression_. `Dialogs`
+_expression_. `Dialogs`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -71,3 +72,4 @@ Dialogs(wdDialogFilePrint).Execute
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

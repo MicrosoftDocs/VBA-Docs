@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4b42f304-12a9-4164-8ca7-a22147443bb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportTransparencyColor Property (Visio)](http://msdn.microsoft.com/library/82596a7b-508d-315e-a6df-f60f9d6daf28.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

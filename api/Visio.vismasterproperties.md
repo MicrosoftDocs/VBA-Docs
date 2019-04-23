@@ -1,21 +1,22 @@
 ---
-title: VisMasterProperties Enumeration (Visio)
+title: VisMasterProperties enumeration (Visio)
 keywords: vis_sdr.chm70155
 f1_keywords:
 - vis_sdr.chm70155
 ms.prod: visio
 ms.assetid: 569ce922-4dc8-469e-3eb9-0e9ddd61657c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisMasterProperties Enumeration (Visio)
+# VisMasterProperties enumeration (Visio)
 
 Values for various properties of a Microsoft Visio master.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAutomatic**|1|Generate icon automatically from shape data.|
 | **visCenter**|2|Master name center-aligned.|
@@ -44,3 +45,4 @@ Values for various properties of a Microsoft Visio master.
 | **visTall**|2|Icon size is tall (32 x 64 pixels).|
 | **visWide**|3|Icon size is wide (64 x 32 pixels)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

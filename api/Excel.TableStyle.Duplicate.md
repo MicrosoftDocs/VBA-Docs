@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Duplicate Method (Excel)
+title: TableStyle.Duplicate method (Excel)
 keywords: vbaxl10.chm839081
 f1_keywords:
 - vbaxl10.chm839081
@@ -8,24 +8,23 @@ api_name:
 - Excel.TableStyle.Duplicate
 ms.assetid: 60f807ff-2f4f-137d-54d7-37b168dbc8c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableStyle.Duplicate Method (Excel)
+# TableStyle.Duplicate method (Excel)
 
 Duplicates the  **TableStyle** object and returns a reference to the new copy.
 
 
 ## Syntax
 
- _expression_. `Duplicate`( `_NewTableStyleName_` )
+_expression_.**Duplicate** (_NewTableStyleName_)
 
- _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
+_expression_ A variable that represents a [TableStyle](Excel.TableStyle.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -46,3 +45,4 @@ If no name is specified, the  **Duplicate** method uses the same default name as
 
 [TableStyle Object](Excel.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PjBarShape Enumeration (Project)
+title: PjBarShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarShape
 ms.assetid: 057356dc-9cab-fbdc-563e-f81cc54a2c33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjBarShape Enumeration (Project)
+# PjBarShape enumeration (Project)
 
 Contains constants that specify the middle shape of a bar.
 
@@ -25,3 +26,4 @@ Contains constants that specify the middle shape of a bar.
 |**pjRectangleMiddle**|3|Rectangle middle.|
 |**pjRectangleTop**|2|Rectangle top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

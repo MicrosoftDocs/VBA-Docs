@@ -1,5 +1,5 @@
 ---
-title: Cell.Fill Property (Publisher)
+title: Cell.Fill property (Publisher)
 keywords: vbapb10.chm5111817
 f1_keywords:
 - vbapb10.chm5111817
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.Fill
 ms.assetid: 3ff3fda8-aca7-534e-6a56-99d6a3d9e9e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Fill Property (Publisher)
+# Cell.Fill property (Publisher)
 
  Returns a **[FillFormat](Publisher.FillFormat.md)** object representing the fill for the specified shape or table cell.
 
 
 ## Syntax
 
- _expression_. **Fill**
+_expression_.**Fill**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -41,4 +42,4 @@ Sub NewShapeItem()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSet.Description Property (Visio)
+title: ValidationRuleSet.Description property (Visio)
 keywords: vis_sdr.chm18213405
 f1_keywords:
 - vis_sdr.chm18213405
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRuleSet.Description
 ms.assetid: 65083a0d-66bf-0395-6ecb-db8de13a766e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRuleSet.Description Property (Visio)
+# ValidationRuleSet.Description property (Visio)
 
 Specifies the description of the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that appears in the user interface. Read/write.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
@@ -44,4 +45,4 @@ Set vsoValidationRuleSet = vsoDocument.Validation.RuleSets.Add("Connectivity")
 vsoValidationRuleSet.Description = "Verify that shapes are correctly connected in the document."
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

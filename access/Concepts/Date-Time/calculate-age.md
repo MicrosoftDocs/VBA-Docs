@@ -3,6 +3,7 @@ title: Calculate age
 ms.prod: access
 ms.assetid: 4afca7f2-9864-6300-79c4-c4e251b0b66d
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -46,4 +47,4 @@ The following function calculates the number of months that have transpired sinc
  End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

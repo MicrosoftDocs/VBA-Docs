@@ -1,12 +1,13 @@
 ---
-title: Endnotes Object (Word)
+title: Endnotes object (Word)
 ms.prod: word
 ms.assetid: 32676579-dd41-e83d-a305-fcc2b7cb4f64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnotes Object (Word)
+# Endnotes object (Word)
 
 A collection of  **Endnote** objects that represents all the endnotes in a selection, range, or document.
 
@@ -46,6 +47,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

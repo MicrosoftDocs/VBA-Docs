@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ValidLinkTarget Method (Word)
+title: TextFrame.ValidLinkTarget method (Word)
 keywords: vbawd10.chm162665358
 f1_keywords:
 - vbawd10.chm162665358
@@ -8,19 +8,20 @@ api_name:
 - Word.TextFrame.ValidLinkTarget
 ms.assetid: 09e900c9-30d8-0098-6ad1-d8c4fbaeb3cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.ValidLinkTarget Method (Word)
+# TextFrame.ValidLinkTarget method (Word)
 
 Determines whether the text frame of one shape can be linked to the text frame of another shape. .
 
 
 ## Syntax
 
- _expression_. `ValidLinkTarget`( `_TargetTextFrame_` )
+_expression_. `ValidLinkTarget`( `_TargetTextFrame_` )
 
- _expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End If
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

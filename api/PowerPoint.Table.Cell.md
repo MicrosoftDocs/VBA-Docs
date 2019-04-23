@@ -1,5 +1,5 @@
 ---
-title: Table.Cell Method (PowerPoint)
+title: Table.Cell method (PowerPoint)
 keywords: vbapp10.chm622005
 f1_keywords:
 - vbapp10.chm622005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Table.Cell
 ms.assetid: 31a2908b-7a33-994d-860a-e01da62729e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Cell Method (PowerPoint)
+# Table.Cell method (PowerPoint)
 
 Returns a  **[Cell](PowerPoint.Cell.md)** object that represents a cell in a table.
 
 
 ## Syntax
 
- _expression_. `Cell`( `_Row_`, `_Column_` )
+_expression_. `Cell`( `_Row_`, `_Column_` )
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
@@ -68,3 +69,4 @@ ActivePresentation.Slides(2).Shapes(5).Table _
 
 [Table Object](PowerPoint.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

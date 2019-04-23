@@ -1,5 +1,5 @@
 ---
-title: Global.PixelsToPoints Method (Word)
+title: Global.PixelsToPoints method (Word)
 keywords: vbawd10.chm163119490
 f1_keywords:
 - vbawd10.chm163119490
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.PixelsToPoints
 ms.assetid: 671b06c5-c54f-417f-557b-53ea9fee1480
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.PixelsToPoints Method (Word)
+# Global.PixelsToPoints method (Word)
 
-Converts a measurement from pixels to points. Returns the converted measurement as a  **Single** .
+Converts a measurement from pixels to points. Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `PixelsToPoints`( `_Pixels_` , `_fVertical_` )
+_expression_. `PixelsToPoints`( `_Pixels_` , `_fVertical_` )
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ MsgBox "320x240 pixels is equivalent to " _
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

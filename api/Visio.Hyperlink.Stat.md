@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Stat Property (Visio)
+title: Hyperlink.Stat property (Visio)
 keywords: vis_sdr.chm15014420
 f1_keywords:
 - vis_sdr.chm15014420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlink.Stat
 ms.assetid: fe8f4832-79cb-2b43-36dc-bc067d7a0e01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Stat Property (Visio)
+# Hyperlink.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

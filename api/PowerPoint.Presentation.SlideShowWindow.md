@@ -1,5 +1,5 @@
 ---
-title: Presentation.SlideShowWindow Property (PowerPoint)
+title: Presentation.SlideShowWindow property (PowerPoint)
 keywords: vbapp10.chm583047
 f1_keywords:
 - vbapp10.chm583047
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.SlideShowWindow
 ms.assetid: 9cef9c42-7a65-bd2e-3277-0145cd2cd3b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.SlideShowWindow Property (PowerPoint)
+# Presentation.SlideShowWindow property (PowerPoint)
 
 Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideShowWindow`
+_expression_. `SlideShowWindow`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -60,3 +61,4 @@ End Sub
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

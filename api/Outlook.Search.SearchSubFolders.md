@@ -1,5 +1,5 @@
 ---
-title: Search.SearchSubFolders Property (Outlook)
+title: Search.SearchSubFolders property (Outlook)
 keywords: vbaol11.chm2256
 f1_keywords:
 - vbaol11.chm2256
@@ -8,29 +8,30 @@ api_name:
 - Outlook.Search.SearchSubFolders
 ms.assetid: 26dd1970-ba59-9f6a-8cf6-3dba0f9668b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Search.SearchSubFolders Property (Outlook)
+# Search.SearchSubFolders property (Outlook)
 
 Returns a  **Boolean** indicating whether the scope of the specified search included the subfolders of any folders searched. Read-only.
 
 
 ## Syntax
 
- _expression_. `SearchSubFolders`
+_expression_. `SearchSubFolders`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks
 
-This property is determined by the  _SearchSubfolders_ argument of the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method and is specified when the search is initiated. If **True** , the **Search** object searches through any subfolders in the specified filter path.
+This property is determined by the  _SearchSubfolders_ argument of the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method and is specified when the search is initiated. If **True**, the **Search** object searches through any subfolders in the specified filter path.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a  **Search** object. The user's **Inbox** is specified as the scope of the search and the **SearchSubFolders** property is set to **True** . The event subroutine fires when the search has completed and displays the **Tag** and **Scope** properties for the new object as well as the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a  **Search** object. The user's **Inbox** is specified as the scope of the search and the **SearchSubFolders** property is set to **True**. The event subroutine fires when the search has completed and displays the **Tag** and **Scope** properties for the new object as well as the results of the search.
 
 
 ```vb
@@ -99,3 +100,4 @@ End Sub
 
 [Search Object](Outlook.Search.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

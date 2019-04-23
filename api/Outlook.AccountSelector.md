@@ -1,5 +1,5 @@
 ---
-title: AccountSelector Object (Outlook)
+title: AccountSelector object (Outlook)
 keywords: vbaol11.chm3456
 f1_keywords:
 - vbaol11.chm3456
@@ -8,10 +8,11 @@ api_name:
 - Outlook.AccountSelector
 ms.assetid: 846f176e-5680-a214-7624-75f3a524c989
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccountSelector Object (Outlook)
+# AccountSelector object (Outlook)
 
 Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent  **[Explorer](Outlook.Explorer.md)** object.
 
@@ -27,7 +28,7 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SelectedAccountChange](Outlook.AccountSelector.SelectedAccountChange.md)|
 
@@ -35,7 +36,7 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AccountSelector.Application.md)|
 |[Class](Outlook.AccountSelector.Class.md)|
@@ -46,4 +47,6 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

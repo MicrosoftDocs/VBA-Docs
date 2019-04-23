@@ -1,21 +1,22 @@
 ---
-title: Task.ActualOvertimeCost Property (Project)
+title: Task.ActualOvertimeCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ActualOvertimeCost
 ms.assetid: 7e3b409e-3249-4fe1-b5a1-1b65646519b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.ActualOvertimeCost Property (Project)
+# Task.ActualOvertimeCost property (Project)
 
 Gets the actual overtime cost for a task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualOvertimeCost`
+_expression_. `ActualOvertimeCost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -49,4 +50,4 @@ Sub PriceOfOvertime()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

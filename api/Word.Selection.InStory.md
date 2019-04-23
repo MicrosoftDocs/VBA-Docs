@@ -1,5 +1,5 @@
 ---
-title: Selection.InStory Method (Word)
+title: Selection.InStory method (Word)
 keywords: vbawd10.chm158662781
 f1_keywords:
 - vbawd10.chm158662781
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InStory
 ms.assetid: 29dae109-4361-f1ee-eb71-76f57ae186a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InStory Method (Word)
+# Selection.InStory method (Word)
 
  **True** if the selection to which this method is applied is in the same story as the range specified by the Range argument.
 
 
 ## Syntax
 
- _expression_. `InStory`( `_Range_` )
+_expression_. `InStory`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ MsgBox same
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

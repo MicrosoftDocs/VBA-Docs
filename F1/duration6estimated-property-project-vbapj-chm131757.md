@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c091d706-b947-40ff-b484-abe20374f87d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Engagement.DraftFinish Property (Project)](http://msdn.microsoft.com/library/ae298776-46f2-c39a-5fa4-9b56499526d5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

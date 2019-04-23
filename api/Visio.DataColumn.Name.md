@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Name Property (Visio)
+title: DataColumn.Name property (Visio)
 keywords: vis_sdr.chm16713930
 f1_keywords:
 - vis_sdr.chm16713930
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataColumn.Name
 ms.assetid: 9b66e7b1-f3e7-af3a-8a64-59ab90fd6119
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataColumn.Name Property (Visio)
+# DataColumn.Name property (Visio)
 
 Gets the unique name of the data column in its parent data recordset. Read-only.
 
@@ -21,7 +22,7 @@ Gets the unique name of the data column in its parent data recordset. Read-only.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a [DataColumn](./Visio.DataColumn.md) object.
 
@@ -37,4 +38,4 @@ The  **Name** property is the default property of the **DataColumn** object. The
 
 For a given column, the value of the  **Name** property is not necessarily the same as that of the **[DisplayName](Visio.DataColumn.DisplayName.md)** property, which specifies the name of the column in the **External Data** window in the Visio user interface, and which is read/write.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

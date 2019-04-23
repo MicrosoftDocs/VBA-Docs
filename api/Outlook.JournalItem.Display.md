@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Display Method (Outlook)
+title: JournalItem.Display method (Outlook)
 keywords: vbaol11.chm1260
 f1_keywords:
 - vbaol11.chm1260
@@ -8,19 +8,20 @@ api_name:
 - Outlook.JournalItem.Display
 ms.assetid: f04572b2-ca5f-cbae-71cc-6986e0fc5dca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.Display Method (Outlook)
+# JournalItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Duplicate Property (Publisher)
+title: TextRange.Duplicate property (Publisher)
 keywords: vbapb10.chm5308466
 f1_keywords:
 - vbapb10.chm5308466
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Duplicate
 ms.assetid: 545dbfdb-4cd5-99b1-1ba3-b723e8d7b827
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Duplicate Property (Publisher)
+# TextRange.Duplicate property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a duplicate of the specified text range.
 
 
 ## Syntax
 
- _expression_. **Duplicate**
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -50,4 +51,4 @@ Sub DuplicateTextBoxContents()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

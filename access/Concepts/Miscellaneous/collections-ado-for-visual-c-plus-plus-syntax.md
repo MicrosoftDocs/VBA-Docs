@@ -3,6 +3,7 @@ title: Collections (ADO for Visual C++ syntax)
 ms.prod: access
 ms.assetid: 3f5897d9-e618-7582-bb60-95f690c64cbb
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -78,3 +79,5 @@ ms.date: 10/12/2018
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

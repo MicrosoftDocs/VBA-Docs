@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 44a0581e-8611-c19a-2dce-edd6e34f9a46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ActiveX component has not been properly registered in the system [registry](../../Glossary/vbe-glossary.md#registry).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

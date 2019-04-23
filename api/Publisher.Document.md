@@ -1,5 +1,5 @@
 ---
-title: Document Object (Publisher)
+title: Document object (Publisher)
 keywords: vbapb10.chm553713663
 f1_keywords:
 - vbapb10.chm553713663
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Document
 ms.assetid: 44f02255-ff5b-bcfe-900f-61c8fdf61ef3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document Object (Publisher)
+# Document object (Publisher)
 
 Represents a publication. 
 
@@ -59,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeClose](./Publisher.Document.BeforeClose.md)|
 |[Open](./Publisher.Document.Open.md)|
@@ -73,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeginCustomUndoAction](./Publisher.Document.BeginCustomUndoAction.md)|
 |[ChangeDocument](./Publisher.Document.ChangeDocument.md)|
@@ -97,7 +98,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveView](./Publisher.Document.ActiveView.md)|
 |[ActiveWindow](./Publisher.Document.ActiveWindow.md)|
@@ -146,3 +147,4 @@ End Sub
 |[WebNavigationBarSets](./Publisher.Document.WebNavigationBarSets.md)|
 |[Wizard](./Publisher.Document.Wizard.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

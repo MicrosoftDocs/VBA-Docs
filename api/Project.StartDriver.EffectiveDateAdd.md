@@ -1,21 +1,22 @@
 ---
-title: StartDriver.EffectiveDateAdd Property (Project)
+title: StartDriver.EffectiveDateAdd property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.EffectiveDateAdd
 ms.assetid: 5b2e2c6e-06b9-ebf4-efdb-4ca2e944b7ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StartDriver.EffectiveDateAdd Property (Project)
+# StartDriver.EffectiveDateAdd property (Project)
 
 Gets the date and time that follows another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `EffectiveDateAdd`( ` _Date_`, ` _Duration_` )
+_expression_. `EffectiveDateAdd`( `_Date_`, `_Duration_` )
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 
@@ -47,4 +48,4 @@ The following statement returns the value "7/9/2009 5:00:00 PM", which is six da
 Debug.Print ActiveProject.Tasks(3).StartDriver.EffectiveDateAdd("7/2/2009", "6d")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

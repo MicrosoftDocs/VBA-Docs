@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e0b26dd3-c0b2-4f32-9963-317a252bb407
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ReportTemplate Object (Project)](http://msdn.microsoft.com/library/bea2838c-60b1-f33d-1b3d-a12382bbeca6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

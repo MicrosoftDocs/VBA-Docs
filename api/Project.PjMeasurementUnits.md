@@ -1,14 +1,15 @@
 ---
-title: PjMeasurementUnits Enumeration (Project)
+title: PjMeasurementUnits enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMeasurementUnits
 ms.assetid: 8e6d4b6b-b94c-b4a0-b922-d36564e32c88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjMeasurementUnits Enumeration (Project)
+# PjMeasurementUnits enumeration (Project)
 
 Contains constants that specify the units of measurement.
 
@@ -20,3 +21,4 @@ Contains constants that specify the units of measurement.
 |**pjDefault**|2|The  **MaxImageWidth** and **MaxImageHeight** values are in the default system measurement units. The default **Measurement System** is selected in the **Regional and Language Options** of the **Windows Control Panel**.|
 |**pjInches**|0|The  **MaxImageWidth** and **MaxImageHeight** values are in inches.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

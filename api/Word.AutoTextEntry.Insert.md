@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Insert Method (Word)
+title: AutoTextEntry.Insert method (Word)
 keywords: vbawd10.chm154533990
 f1_keywords:
 - vbawd10.chm154533990
@@ -8,24 +8,23 @@ api_name:
 - Word.AutoTextEntry.Insert
 ms.assetid: 381e69fa-10c8-5951-e890-3fe8c508e047
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoTextEntry.Insert Method (Word)
+# AutoTextEntry.Insert method (Word)
 
 Inserts the AutoText entry in place of the specified range. Returns a  **Range** object that represents the AutoText entry.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_Where_` , `_RichText_` )
+_expression_.**Insert** (_Where_, _RichText_)
 
- _expression_ Required. A variable that represents an '[AutoTextEntry](Word.AutoTextEntry.md)' object.
+_expression_ Required. A variable that represents an '[AutoTextEntry](Word.AutoTextEntry.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -62,3 +61,4 @@ End Sub
 
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRow.Index
 ms.assetid: 701262e9-1c24-0117-023e-8f11ef26ed6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the index number of the **[ListRow](Ex
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
+_expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the index number of the **[ListRow](Ex
 
 [ListRow Object](Excel.ListRow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.Value Property (Outlook)
+title: ItemProperty.Value property (Outlook)
 keywords: vbaol11.chm527
 f1_keywords:
 - vbaol11.chm527
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ItemProperty.Value
 ms.assetid: 81144bd5-15d5-a233-6001-f8c80392850f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ItemProperty.Value Property (Outlook)
+# ItemProperty.Value property (Outlook)
 
 Returns or sets a  **Variant** indicating the value for the specified custom or explicit built-in property. Read/write.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
+_expression_ A variable that represents an [ItemProperty](Outlook.ItemProperty.md) object.
 
 
 ## Remarks
@@ -67,3 +68,4 @@ End Sub
 
 [ItemProperty Object](Outlook.ItemProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

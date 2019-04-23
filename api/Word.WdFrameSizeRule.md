@@ -1,14 +1,15 @@
 ---
-title: WdFrameSizeRule Enumeration (Word)
+title: WdFrameSizeRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFrameSizeRule
 ms.assetid: a61cf5e0-019c-71d2-3218-eb3a65ed4995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdFrameSizeRule Enumeration (Word)
+# WdFrameSizeRule enumeration (Word)
 
 Specifies how Word interprets the rule used to determine the height or width of a frame.
 
@@ -20,3 +21,4 @@ Specifies how Word interprets the rule used to determine the height or width of 
 | **wdFrameAuto**|0|Sets the height or width according to the height or width of the item in the frame.|
 | **wdFrameExact**|2|Sets the height or width to an exact value specified by the  **Height** property or **Width** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

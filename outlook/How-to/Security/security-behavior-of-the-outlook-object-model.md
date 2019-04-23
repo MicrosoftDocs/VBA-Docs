@@ -3,14 +3,15 @@ title: Security Behavior of the Outlook Object Model
 ms.prod: outlook
 ms.assetid: 4aa3b7c7-5f3f-41ce-bbf3-75d8ecbd6d4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Security Behavior of the Outlook Object Model
 
-The Outlook object model includes entry points to access Outlook data, save data to specified locations, and send e-mails. These entry points are available to legitimate and malicious application developers alike. Versions of Outlook 98 and Outlook 2000 applied with the Outlook E-mail Security Update, and all subsequent versions starting from Outlook 2000 SP2 use the Object Model Guard to help protect users. 
+The Outlook object model includes entry points to access Outlook data, save data to specified locations, and send emails. These entry points are available to legitimate and malicious application developers alike. Versions of Outlook 98 and Outlook 2000 applied with the Outlook Email Security Update, and all subsequent versions starting from Outlook 2000 SP2 use the Object Model Guard to help protect users. 
 
-The Object Model Guard warns users and prompts users for confirmation when untrusted applications attempt to use the object model to obtain e-mail address information, store data outside of Outlook, execute certain actions, and send e-mail messages. Although the Object Model Guard succeeds in identifying and protecting these entry points, two main issues exist that render the Object Model Guard rather unpractical:
+The Object Model Guard warns users and prompts users for confirmation when untrusted applications attempt to use the object model to obtain email address information, store data outside of Outlook, execute certain actions, and send email messages. Although the Object Model Guard succeeds in identifying and protecting these entry points, two main issues exist that render the Object Model Guard rather unpractical:
 
 - The default circumstances that applications invoke the Object Model Guard in earlier versions of Outlook can result in excessive security prompting for legitimate applications.
     
@@ -21,7 +22,7 @@ For more information on the various security prompts of the Object Model Guard, 
 
 ## Default Security Behavior
 
-Versions of Outlook prior to Outlook 2007 have relied on the Object Model Guard to protect Outlook address book data and avoid untrusted applications from sending e-mail. Although Outlook continues to use the Object Model Guard to provide similar protection, it has defined new default circumstances when the Object Model Guard generates warnings, reducing excessive security warnings under appropriate conditions while maintaining a reasonable degree of security for Outlook clients.
+Versions of Outlook prior to Outlook 2007 have relied on the Object Model Guard to protect Outlook address book data and avoid untrusted applications from sending email. Although Outlook continues to use the Object Model Guard to provide similar protection, it has defined new default circumstances when the Object Model Guard generates warnings, reducing excessive security warnings under appropriate conditions while maintaining a reasonable degree of security for Outlook clients.
 
 ### In-Process Add-ins
 
@@ -72,4 +73,4 @@ Administrators can configure Outlook to locate the Outlook security form in a pu
 
 To take advantage of the new code security behavior based on the status of antivirus software, administrators must use either the default Outlook security settings or configure Outlook to use Group Policy settings to override this behavior.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

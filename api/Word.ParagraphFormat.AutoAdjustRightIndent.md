@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.AutoAdjustRightIndent Property (Word)
+title: ParagraphFormat.AutoAdjustRightIndent property (Word)
 keywords: vbawd10.chm156434556
 f1_keywords:
 - vbawd10.chm156434556
@@ -8,17 +8,18 @@ api_name:
 - Word.ParagraphFormat.AutoAdjustRightIndent
 ms.assetid: 7897e1c5-9bc8-93af-878e-c1670f066b33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.AutoAdjustRightIndent Property (Word)
+# ParagraphFormat.AutoAdjustRightIndent property (Word)
 
- **True** if Microsoft Word is set to automatically adjust the right indent for the specified paragraphs if you've specified a set number of characters per line. Returns **wdUndefined** if the **AutoAdjustRightIndent** property is set to **True** for only some of the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word is set to automatically adjust the right indent for the specified paragraphs if you've specified a set number of characters per line. Returns **wdUndefined** if the **AutoAdjustRightIndent** property is set to **True** for only some of the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `AutoAdjustRightIndent`
+_expression_. `AutoAdjustRightIndent`
 
  _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
@@ -40,3 +41,4 @@ End With
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

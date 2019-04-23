@@ -1,5 +1,5 @@
 ---
-title: Folder.StoreID Property (Outlook)
+title: Folder.StoreID property (Outlook)
 keywords: vbaol11.chm1992
 f1_keywords:
 - vbaol11.chm1992
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.StoreID
 ms.assetid: 8b2657b7-0c69-d8ad-147b-482303ebd10f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.StoreID Property (Outlook)
+# Folder.StoreID property (Outlook)
 
 Returns a  **String** indicating the store ID for the folder. Read-only.
 
 
 ## Syntax
 
- _expression_. `StoreID`
+_expression_. `StoreID`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Example
@@ -60,3 +61,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

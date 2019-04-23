@@ -1,21 +1,22 @@
 ---
-title: Assignment.Flag6 Property (Project)
+title: Assignment.Flag6 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Flag6
 ms.assetid: 7acf802a-94e5-f0ec-cfc7-5cc861987872
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.Flag6 Property (Project)
+# Assignment.Flag6 property (Project)
 
  **True** if the flag associated with an **Assignment** is set. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag6`
+_expression_. `Flag6`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -40,4 +41,4 @@ Sub DeleteNonEssentialTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

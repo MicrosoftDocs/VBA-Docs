@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.ReadOnlyRecommended
 ms.assetid: 3cae84e4-d5f0-f01c-64d9-ec586ffdf79c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.ReadOnlyRecommended property (Excel)
 
- **True** if the workbook was saved as read-only recommended. Read-only **Boolean** .
+ **True** if the workbook was saved as read-only recommended. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ReadOnlyRecommended`
+_expression_. `ReadOnlyRecommended`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

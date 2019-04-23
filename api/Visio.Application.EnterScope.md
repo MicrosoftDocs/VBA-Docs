@@ -1,21 +1,22 @@
 ---
-title: Application.EnterScope Event (Visio)
+title: Application.EnterScope event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.EnterScope
 ms.assetid: f7935021-2458-cc8e-dd25-d8d2eb16fa6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EnterScope Event (Visio)
+# Application.EnterScope event (Visio)
 
 Queued when an internal command begins, or when an Automation client opens a scope by using the  **BeginUndoScope** method.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_**)
+Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal nScopeID As Long_**, **_ByVal bstrDescription As String_**)
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -32,7 +33,7 @@ Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_** , **_
 
 ## Remarks
 
-The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd*** .
+The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd***.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -42,7 +43,7 @@ If you are handling this event from a program that receives a notification over 
 
 The  **EventInfo** property returns _bstrDescription_, as described above. In addition, the  _varMoreInfo_ argument to **VisEventProc** contains a string formatted as follows: [<nScopeID>;<bErrOrCancelled>;<bstrDescription>;<nHwndContext>], where _nHwndContext_ is the window handle (HWND) of the window that is the context for the command. _nHwndContext_ could be 0.
 
-For  **EnterScope** , _bErrOrCancelled_ always equals zero.
+For  **EnterScope**, _bErrOrCancelled_ always equals zero.
 
 
 ## Example
@@ -115,4 +116,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

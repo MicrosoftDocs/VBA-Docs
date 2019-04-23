@@ -1,14 +1,15 @@
 ---
-title: DefaultWebOptions Object (Word)
+title: DefaultWebOptions object (Word)
 ms.prod: word
 api_name:
 - Word.DefaultWebOptions
 ms.assetid: 7459af1e-c495-f84f-929c-f7a611ec49b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DefaultWebOptions Object (Word)
+# DefaultWebOptions object (Word)
 
 Contains global application-level attributes used by Microsoft Word when you open a Web page or save a document as a Web page.
 
@@ -37,6 +38,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

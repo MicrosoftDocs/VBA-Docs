@@ -1,5 +1,5 @@
 ---
-title: NavigationModule.Visible Property (Outlook)
+title: NavigationModule.Visible property (Outlook)
 keywords: vbaol11.chm2810
 f1_keywords:
 - vbaol11.chm2810
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NavigationModule.Visible
 ms.assetid: d0c15353-5e29-5ff6-ac1d-e139b46f2adb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NavigationModule.Visible Property (Outlook)
+# NavigationModule.Visible property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[NavigationModule](Outlook.NavigationModule.md)** object is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Boolean** value that determines whether the **[NavigationModule](Outlook.NavigationModule.md)** object is displayed in the navigation pane. Read/write.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
+ _expression_ An expression that returns a [NavigationModule](Outlook.NavigationModule.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that determines whether the **[NavigationMo
 
 [NavigationModule Object](Outlook.NavigationModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

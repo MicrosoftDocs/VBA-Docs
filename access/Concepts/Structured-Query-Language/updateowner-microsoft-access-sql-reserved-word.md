@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 51b7fab4-d8dc-69cd-7f0c-e548407619a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,5 @@ The UPDATEOWNER keyword is used in these contexts:
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

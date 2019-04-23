@@ -5,19 +5,20 @@ api_name:
 - Visio.WebPageSettings
 ms.assetid: a026cbcb-1156-89f9-429a-3d1b23c78065
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # VisSaveAsWeb.WebPageSettings Property (Visio Save As Web)
 
-Returns a  ** [VisWebPageSettings](./overview/Visio.md)** object that represents the Web page settings that will be used for the Save as Web Page operation. Read-only.
+Returns a  **[VisWebPageSettings](overview/Visio.md)** object that represents the Web page settings that will be used for the Save as Web Page operation. Read-only.
 
 
 ## Syntax
 
- _expression_. **WebPageSettings** **VisWebPageSettings**
+_expression_.**WebPageSettings** **VisWebPageSettings**
 
- _expression_An expression that returns a  ** [VisSaveAsWeb](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisSaveAsWeb](overview/Visio.md)** object.
 
 
 ## Remarks
@@ -48,4 +49,4 @@ Public Sub WebPageSettings_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

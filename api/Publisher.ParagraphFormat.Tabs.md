@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Tabs Property (Publisher)
+title: ParagraphFormat.Tabs property (Publisher)
 keywords: vbapb10.chm5439506
 f1_keywords:
 - vbapb10.chm5439506
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.Tabs
 ms.assetid: c42ba898-b84f-7215-129d-8134670f75ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Tabs Property (Publisher)
+# ParagraphFormat.Tabs property (Publisher)
 
 Returns a  **[TabStops](Publisher.TabStops.md)** object representing the custom and default tabs for a paragraph or group of paragraphs.
 
 
 ## Syntax
 
- _expression_. **Tabs**
+_expression_.**Tabs**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -46,4 +47,4 @@ With tabsAll
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

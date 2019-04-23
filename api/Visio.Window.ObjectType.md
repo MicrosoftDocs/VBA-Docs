@@ -1,5 +1,5 @@
 ---
-title: Window.ObjectType Property (Visio)
+title: Window.ObjectType property (Visio)
 keywords: vis_sdr.chm11613960
 f1_keywords:
 - vis_sdr.chm11613960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.ObjectType
 ms.assetid: 0c557bcd-ee1f-a094-4248-71fed3dffd58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.ObjectType Property (Visio)
+# Window.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Excel performance - Tips for optimizing performance obstructions
 description: Learn about ways to optimize Excel functionality such as links, lookups, formulas, functions, and VBA code to avoid common obstructions and improve performance.
 ms.date: 10/06/2017 
 author: FastExcel
+localization_priority: Normal
 ---
 
 # Excel performance: Tips for optimizing performance obstructions
@@ -428,7 +429,7 @@ Most native Excel functions work well with multi-threaded calculation. However, 
 - CUBEKPIMEMBER
 - CUBESETCOUNT
 - ADDRESS where the fifth parameter (the `sheet_name`) is given
-- Any database function (DSUM, DAVERAGE, and so on) that refers to a pivot table
+- Any database function (DSUM, DAVERAGE, and so on) that refers to a PivotTable
 - ERROR.TYPE
 - HYPERLINK
 
@@ -826,3 +827,4 @@ This article covered ways to optimize Excel functionality such as links, lookups
 -  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)   
 -  [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

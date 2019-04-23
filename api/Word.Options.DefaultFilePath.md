@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultFilePath Property (Word)
+title: Options.DefaultFilePath property (Word)
 keywords: vbawd10.chm162988097
 f1_keywords:
 - vbawd10.chm162988097
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DefaultFilePath
 ms.assetid: 39c90157-1824-55ee-c7e1-3687f132131f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultFilePath Property (Word)
+# Options.DefaultFilePath property (Word)
 
-Returns or sets default folders for items such as documents, templates, and graphics. Read/write  **String** .
+Returns or sets default folders for items such as documents, templates, and graphics. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultFilePath`( `_Path_` )
+_expression_. `DefaultFilePath`( `_Path_` )
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ strPath = Options.DefaultFilePath(wdUserTemplatesPath)
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: View.XML Property (Outlook)
+title: View.XML property (Outlook)
 keywords: vbaol11.chm2495
 f1_keywords:
 - vbaol11.chm2495
@@ -8,19 +8,20 @@ api_name:
 - Outlook.View.XML
 ms.assetid: a933daaa-370f-2ed3-0a59-86f766a1f2c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.XML Property (Outlook)
+# View.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the current view. Read/write.
 
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks
@@ -84,3 +85,4 @@ The following are the modified properties that are visible in the following XML 
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

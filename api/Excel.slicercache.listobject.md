@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 914bb00c-e96c-c241-db9b-aa108856a98b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SlicerCache.ListObject property (Excel)
 
-Returns a  **ListObject** object for the [QueryTable Object (Excel)](Excel.QueryTable.md) object. Read-only
+Returns a  **ListObject** object for the [QueryTable](Excel.QueryTable.md) object. Read-only
 
 
 ## Syntax
 
- _expression_. `ListObject`
+_expression_. `ListObject`
 
- _expression_ A variable that represents a [SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ Returns a  **ListObject** object for the [QueryTable Object (Excel)](Excel.Query
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

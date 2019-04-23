@@ -1,5 +1,5 @@
 ---
-title: Range.DetectLanguage Method (Word)
+title: Range.DetectLanguage method (Word)
 keywords: vbawd10.chm157155531
 f1_keywords:
 - vbawd10.chm157155531
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.DetectLanguage
 ms.assetid: 4b4149fa-011a-2489-8779-66d75897174f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.DetectLanguage Method (Word)
+# Range.DetectLanguage method (Word)
 
 Analyzes the specified text to determine the language that it is written in.
 
 
 ## Syntax
 
- _expression_. `DetectLanguage`
+_expression_. `DetectLanguage`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -33,7 +34,7 @@ When applied to a  **Document** object, the **DetectLanguage** method checks all
 
 
 
-If the  **DetectLanguage** method has already been applied to the specified text, the **LanguageDetected** property is set to **True** . To reevaulate the language of the specified text, you must first set the **[LanguageDetected](Word.Document.LanguageDetected.md)** property to **False** .
+If the  **DetectLanguage** method has already been applied to the specified text, the **LanguageDetected** property is set to **True**. To reevaluate the language of the specified text, you must first set the **[LanguageDetected](Word.Document.LanguageDetected.md)** property to **False**.
 
 
 
@@ -74,3 +75,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

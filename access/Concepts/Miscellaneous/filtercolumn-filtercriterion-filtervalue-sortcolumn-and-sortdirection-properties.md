@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: bc22a6c4-b9d4-ad38-d802-4790ff3262a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -107,3 +108,5 @@ RDS.Reset(FALSE)End Sub
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

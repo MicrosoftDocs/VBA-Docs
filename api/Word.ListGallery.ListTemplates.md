@@ -1,5 +1,5 @@
 ---
-title: ListGallery.ListTemplates Property (Word)
+title: ListGallery.ListTemplates property (Word)
 keywords: vbawd10.chm160694273
 f1_keywords:
 - vbawd10.chm160694273
@@ -8,17 +8,18 @@ api_name:
 - Word.ListGallery.ListTemplates
 ms.assetid: 459297de-c2b6-23f8-8670-7c81d8f577c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListGallery.ListTemplates Property (Word)
+# ListGallery.ListTemplates property (Word)
 
 Returns a  **ListTemplates** collection that represents all the list formats for the specified list gallery. Read-only.
 
 
 ## Syntax
 
- _expression_. `ListTemplates`
+_expression_. `ListTemplates`
 
  _expression_ A variable that represents a '[ListGallery](Word.ListGallery.md)' object.
 
@@ -47,3 +48,4 @@ ActiveDocument.Lists(2).ApplyListTemplate ListTemplate:=mytemp
 
 [ListGallery Object](Word.ListGallery.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

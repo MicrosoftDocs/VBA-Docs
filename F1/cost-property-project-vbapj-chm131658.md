@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 78944552-88cc-448b-84f9-34d97e2864cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Cost Property (Project)](http://msdn.microsoft.com/library/3b285665-f01a-fc05-2bdd-a15d51ec8f4e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

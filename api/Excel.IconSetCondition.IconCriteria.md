@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.IconCriteria
 ms.assetid: d1e8b186-2f84-3160-9a57-be7d1a38889d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[IconCriteria](Excel.IconCriteria.md)** collection, which represen
 
 ## Syntax
 
- _expression_. `IconCriteria`
+_expression_. `IconCriteria`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ After you have the  **IconCriteria** collection, you can use the **[Item](Excel.
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ChartFont.FontStyle Property (Word)
+title: ChartFont.FontStyle property (Word)
 keywords: vbawd10.chm255918088
 f1_keywords:
 - vbawd10.chm255918088
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.FontStyle
 ms.assetid: dc877dd3-6f58-08f9-719c-2fb9edbb868f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.FontStyle Property (Word)
+# ChartFont.FontStyle property (Word)
 
-Returns or sets the font style. Read/write  **String** .
+Returns or sets the font style. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FontStyle`
+_expression_. `FontStyle`
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

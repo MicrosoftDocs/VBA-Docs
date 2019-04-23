@@ -3,6 +3,7 @@ title: Customizing Shortcut Menus
 ms.prod: outlook
 ms.assetid: ed6a98a3-243b-80ee-51ae-57dba6d8715a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -59,3 +60,4 @@ For more information about customizing shortcut menus, including examples, see  
 
 - [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

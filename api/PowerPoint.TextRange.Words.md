@@ -1,5 +1,5 @@
 ---
-title: TextRange.Words Method (PowerPoint)
+title: TextRange.Words method (PowerPoint)
 keywords: vbapp10.chm569012
 f1_keywords:
 - vbapp10.chm569012
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Words
 ms.assetid: b8cd8dca-bf10-1041-dd9e-adc04b2df42d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Words Method (PowerPoint)
+# TextRange.Words method (PowerPoint)
 
 Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text words.
 
 
 ## Syntax
 
- _expression_. `Words`( `_Start_`, `_Length_` )
+_expression_. `Words`( `_Start_`, `_Length_` )
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -69,3 +70,4 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.Stat Property (Visio)
+title: Window.Stat property (Visio)
 keywords: vis_sdr.chm11614420
 f1_keywords:
 - vis_sdr.chm11614420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.Stat
 ms.assetid: 4b83c5ab-8c3d-6477-7127-d1a3ec179c2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Stat Property (Visio)
+# Window.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

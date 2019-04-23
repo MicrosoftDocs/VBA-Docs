@@ -1,15 +1,16 @@
 ---
-title: StoryRanges Object (Word)
+title: StoryRanges object (Word)
 keywords: vbawd10.chm2444
 f1_keywords:
 - vbawd10.chm2444
 ms.prod: word
 ms.assetid: 131b04b0-e4a8-8969-0a4b-e5b3793af03d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StoryRanges Object (Word)
+# StoryRanges object (Word)
 
 A collection of  **Range** objects that represent stories in a document.
 
@@ -94,7 +95,7 @@ Next myStoryRange
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.StoryRanges.Item.md)|
 
@@ -102,7 +103,7 @@ Next myStoryRange
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.StoryRanges.Application.md)|
 |[Count](Word.StoryRanges.Count.md)|
@@ -112,4 +113,6 @@ Next myStoryRange
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

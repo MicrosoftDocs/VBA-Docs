@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.LastModificationTime Property (Outlook)
+title: MeetingItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1415
 f1_keywords:
 - vbaol11.chm1415
@@ -8,24 +8,25 @@ api_name:
 - Outlook.MeetingItem.LastModificationTime
 ms.assetid: 175726cb-b1fa-83ab-8e14-684611fab02b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.LastModificationTime Property (Outlook)
+# MeetingItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

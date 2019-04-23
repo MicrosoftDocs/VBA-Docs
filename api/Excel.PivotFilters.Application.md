@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilters.Application
 ms.assetid: 9874e0fc-fb59-698d-e8b6-b38115272261
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [PivotFilters Object](Excel.PivotFilters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

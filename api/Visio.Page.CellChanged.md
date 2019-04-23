@@ -1,5 +1,5 @@
 ---
-title: Page.CellChanged Event (Visio)
+title: Page.CellChanged event (Visio)
 keywords: vis_sdr.chm10919090
 f1_keywords:
 - vis_sdr.chm10919090
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.CellChanged
 ms.assetid: 78c9bc15-6d4b-1580-3d36-2109364a4a1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.CellChanged Event (Visio)
+# Page.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 
@@ -76,4 +77,4 @@ Private Sub vsoApplication_CellChanged(ByVal vsoCell As IVCell)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

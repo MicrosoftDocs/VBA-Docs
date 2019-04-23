@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.PlotColorIndex
 ms.assetid: 45bf641a-7b1e-1f0f-9662-5a903c08c2a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an index value that is used internally to associate series formatting wi
 
 ## Syntax
 
- _expression_. `PlotColorIndex`
+_expression_. `PlotColorIndex`
 
- _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
+_expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ This property is used internally by Excel and is not intended to be called from 
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

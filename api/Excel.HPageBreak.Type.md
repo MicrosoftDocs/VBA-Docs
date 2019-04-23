@@ -8,6 +8,7 @@ api_name:
 - Excel.HPageBreak.Type
 ms.assetid: 89e57427-f319-e14d-16dc-04048c7cce35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents
 
 [HPageBreak Object](Excel.HPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

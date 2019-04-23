@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 0f110700-2fef-2278-1208-e3547f37cf93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ This error occurs when, using the ALTER TABLE ALTER COLUMN syntax, you try to us
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

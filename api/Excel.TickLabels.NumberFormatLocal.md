@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.NumberFormatLocal
 ms.assetid: 0637816f-7737-5201-96a0-53389d24e8ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the format code for the obj
 
 ## Syntax
 
- _expression_. `NumberFormatLocal`
+_expression_.**NumberFormatLocal**
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **Format** function uses different format code strings than do the **[Numbe
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

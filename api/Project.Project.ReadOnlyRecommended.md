@@ -1,21 +1,22 @@
 ---
-title: Project.ReadOnlyRecommended Property (Project)
+title: Project.ReadOnlyRecommended property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.ReadOnlyRecommended
 ms.assetid: f35003bc-97fb-3acd-f629-7bb8addc5261
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.ReadOnlyRecommended Property (Project)
+# Project.ReadOnlyRecommended property (Project)
 
  **True** if the project should be opened with read-only access. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ReadOnlyRecommended`
+_expression_. `ReadOnlyRecommended`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -42,4 +43,4 @@ Sub DisplayAccessType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

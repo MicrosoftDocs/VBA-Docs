@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideWidth Property (PowerPoint)
+title: PlotArea.InsideWidth property (PowerPoint)
 keywords: vbapp10.chm67205
 f1_keywords:
 - vbapp10.chm67205
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlotArea.InsideWidth
 ms.assetid: 99136fb4-4ee9-55e8-3c3b-bf03b95188d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlotArea.InsideWidth Property (PowerPoint)
+# PlotArea.InsideWidth property (PowerPoint)
 
-Returns or sets the inside width, in points, of the plot area. Read/write  **Double**.
+Returns or sets the inside width, in [points](../language/glossary/vbe-glossary.md#point), of the plot area. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideWidth`
+_expression_. `InsideWidth`
 
  _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
@@ -62,3 +63,4 @@ End With
 
 [PlotArea Object](PowerPoint.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

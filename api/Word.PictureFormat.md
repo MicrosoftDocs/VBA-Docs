@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (Word)
+title: PictureFormat object (Word)
 keywords: vbawd10.chm2507
 f1_keywords:
 - vbawd10.chm2507
@@ -8,10 +8,11 @@ api_name:
 - Word.PictureFormat
 ms.assetid: 79556e36-81bb-f8df-45ef-c040df709497
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat Object (Word)
+# PictureFormat object (Word)
 
 Contains properties and methods that apply to pictures and OLE objects. The  **LinkFormat** object contains properties and methods that apply to linked OLE objects only. The **OLEFormat** object contains properties and methods that apply to OLE objects whether or not they're linked.
 
@@ -35,7 +36,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementBrightness](Word.PictureFormat.IncrementBrightness.md)|
 |[IncrementContrast](Word.PictureFormat.IncrementContrast.md)|
@@ -44,7 +45,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.PictureFormat.Application.md)|
 |[Brightness](Word.PictureFormat.Brightness.md)|
@@ -63,4 +64,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

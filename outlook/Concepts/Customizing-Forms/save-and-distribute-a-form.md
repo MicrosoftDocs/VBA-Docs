@@ -3,6 +3,7 @@ title: Save and Distribute a Form
 ms.prod: outlook
 ms.assetid: 265eb79c-ea22-a864-c1b5-9c7e3c269025
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,5 +44,5 @@ For more information, see the following topics:
 - [How to: Save a Form in a Forms Library](save-a-form-in-a-forms-library.md)
     
 - [How to: Save a Form as a File](save-a-form-as-a-file.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

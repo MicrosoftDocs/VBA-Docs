@@ -1,21 +1,22 @@
 ---
-title: GroupCriterion2.FontColor Property (Project)
+title: GroupCriterion2.FontColor property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontColor
 ms.assetid: 9a6d763b-b31a-4dc2-0eb2-a94ae2f15d04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriterion2.FontColor Property (Project)
+# GroupCriterion2.FontColor property (Project)
 
 Gets or sets the color of the font for a field used as a criterion in a group definition. Read/write  **PjColor**.
 
 
 ## Syntax
 
- _expression_. `FontColor`
+_expression_. `FontColor`
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
@@ -45,3 +46,4 @@ To use a hexadecimal RGB value, see the  **[FontColorEx](Project.GroupCriterion2
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

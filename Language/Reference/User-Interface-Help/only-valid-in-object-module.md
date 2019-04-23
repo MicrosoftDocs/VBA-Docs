@@ -3,6 +3,7 @@ title: Only valid in object module
 ms.prod: office
 ms.assetid: 033ac42e-8ac9-47f8-8a5e-b9d316647001
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Some Visual Basic statements or constructs are valid only in object modules (for
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

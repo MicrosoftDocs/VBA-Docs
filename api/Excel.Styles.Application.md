@@ -8,6 +8,7 @@ api_name:
 - Excel.Styles.Application
 ms.assetid: 4926c689-1328-ceb8-520d-74f029e45c98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Styles](./Excel.Styles.md) object.
+_expression_ A variable that represents a [Styles](Excel.Styles.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Styles Object](Excel.Styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

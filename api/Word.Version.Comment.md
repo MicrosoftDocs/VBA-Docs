@@ -1,5 +1,5 @@
 ---
-title: Version.Comment Property (Word)
+title: Version.Comment property (Word)
 keywords: vbawd10.chm162792428
 f1_keywords:
 - vbawd10.chm162792428
@@ -8,17 +8,18 @@ api_name:
 - Word.Version.Comment
 ms.assetid: 52ca9077-0295-3059-b699-6fa97ad45991
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Version.Comment Property (Word)
+# Version.Comment property (Word)
 
-Returns the comment associated with the specified version of a document. Read-only  **String** .
+Returns the comment associated with the specified version of a document. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Comment`
+_expression_. `Comment`
 
  _expression_ A variable that represents a '[Version](Word.Version.md)' object.
 
@@ -60,3 +61,4 @@ MsgBox Prompt:=verTemp(lngCount).Comment, _
 
 [Version Object](Word.Version.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

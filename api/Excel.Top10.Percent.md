@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.Percent
 ms.assetid: 7c5073e3-f7dd-82ec-88c6-7af2b21c72e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value, specifying if the rank is determined by a 
 
 ## Syntax
 
- _expression_. `Percent`
+_expression_. `Percent`
 
- _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value, specifying if the rank is determined by a 
 
 [Top10 Object](Excel.Top10.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

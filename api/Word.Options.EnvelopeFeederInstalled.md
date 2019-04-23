@@ -1,5 +1,5 @@
 ---
-title: Options.EnvelopeFeederInstalled Property (Word)
+title: Options.EnvelopeFeederInstalled property (Word)
 keywords: vbawd10.chm162988067
 f1_keywords:
 - vbawd10.chm162988067
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.EnvelopeFeederInstalled
 ms.assetid: 9b614965-d1e2-21df-a6f5-b595d48c6227
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.EnvelopeFeederInstalled Property (Word)
+# Options.EnvelopeFeederInstalled property (Word)
 
- **True** if the current printer has a special feeder for envelopes. Read-only **Boolean** .
+ **True** if the current printer has a special feeder for envelopes. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnvelopeFeederInstalled`
+_expression_. `EnvelopeFeederInstalled`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -44,3 +45,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Navigation
 ms.prod: outlook
 ms.assetid: 62b69124-db41-4af7-8fb2-1fb90cc37402
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,5 +29,5 @@ ms.date: 06/08/2017
 -  [Enumerate Active Folders in the Calendar View](../../How-to/Navigation/enumerate-active-folders-in-the-calendar-view.md)
     
 -  [Add a Custom Folder to a Group and Display it in Overlay Mode by Default](../../How-to/Navigation/add-a-custom-folder-to-a-group-and-display-it-in-overlay-mode-by-default.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

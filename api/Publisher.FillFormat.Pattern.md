@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (Publisher)
+title: FillFormat.Pattern property (Publisher)
 keywords: vbapb10.chm2359558
 f1_keywords:
 - vbapb10.chm2359558
@@ -8,24 +8,25 @@ api_name:
 - Publisher.FillFormat.Pattern
 ms.assetid: 5b63c81e-b692-92e0-5d72-99c8d4376aff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Pattern Property (Publisher)
+# FillFormat.Pattern property (Publisher)
 
 Returns an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
 
 
 ## Syntax
 
- _expression_. **Pattern**
+_expression_.**Pattern**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Remarks
 
-The  **Pattern** property value can be one of the ** [MsoPatternType](./Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
+The  **Pattern** property value can be one of the **[MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -43,4 +44,4 @@ Sub ChangeFillPattern()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

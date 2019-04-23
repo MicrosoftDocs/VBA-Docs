@@ -1,35 +1,30 @@
 ---
-title: CheckBox Control, Enabled, Locked Properties Example
+title: CheckBox control, Enabled, Locked properties example
 keywords: fm20.chm5225146
 f1_keywords:
 - fm20.chm5225146
 ms.prod: office
 ms.assetid: 0733a3d8-4057-b308-4c25-0f5ef529b668
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# CheckBox Control, Enabled, Locked Properties Example
+# CheckBox control, Enabled, Locked properties example
 
-The following example demonstrates the  **Enabled** and **Locked** properties and how they complement each other. This example exposes each property independently with a **CheckBox**, so you observe the settings individually and combined. This example also includes a second **TextBox** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
+The following example demonstrates the **[Enabled](enabled-property-microsoft-forms.md)** and **[Locked](locked-property.md)** properties and how they complement each other. This example exposes each property independently with a **[CheckBox](checkbox-control.md)**, so you observe the settings individually and combined. 
 
+This example also includes a second **[TextBox](textbox-control.md)** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
 
- **Note**  You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
-
+> [!NOTE] 
+> You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.    
+- Two **CheckBox** controls named CheckBox1 and CheckBox2.    
+- A second **TextBox** named TextBox2.
     
-- Two  **CheckBox** controls named CheckBox1 and CheckBox2.
-    
-- A second  **TextBox** named TextBox2.
-    
-
-
-
 
 ```vb
 Private Sub CheckBox1_Change() 
@@ -57,4 +52,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

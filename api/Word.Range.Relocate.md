@@ -1,5 +1,5 @@
 ---
-title: Range.Relocate Method (Word)
+title: Range.Relocate method (Word)
 keywords: vbawd10.chm157155507
 f1_keywords:
 - vbawd10.chm157155507
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Relocate
 ms.assetid: 2df77535-627f-d8ba-6ea2-15676b24221c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Relocate Method (Word)
+# Range.Relocate method (Word)
 
 In outline view, moves the paragraphs within the specified range after the next visible paragraph or before the previous visible paragraph.
 
 
 ## Syntax
 
- _expression_. `Relocate`( `_Direction_` )
+_expression_. `Relocate`( `_Direction_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Selection.Paragraphs(1).Range.Relocate Direction:=wdRelocateUp
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

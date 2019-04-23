@@ -1,5 +1,5 @@
 ---
-title: Application.ViewEditCombination Method (Project)
+title: Application.ViewEditCombination method (Project)
 keywords: vbapj.chm304
 f1_keywords:
 - vbapj.chm304
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewEditCombination
 ms.assetid: f5d49a1d-7ead-e704-7be2-8d06e54e221f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewEditCombination Method (Project)
+# Application.ViewEditCombination method (Project)
 
 Creates, edits, or copies a combination view.
 
 
 ## Syntax
 
- _expression_. `ViewEditCombination`( ` _Name_`, ` _Create_`, ` _NewName_`, ` _TopView_`, ` _BottomView_`, ` _ShowInMenu_` )
+_expression_. `ViewEditCombination`( `_Name_`, `_Create_`, `_NewName_`, `_TopView_`, `_BottomView_`, `_ShowInMenu_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -53,4 +54,4 @@ Sub CheckResourcesView()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

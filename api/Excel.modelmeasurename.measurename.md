@@ -6,29 +6,27 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: d4188566-1a64-9ebe-43ea-865c4dbc7d64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelMeasureName.MeasureName property (Excel)
 
- **String** representing the new name a measure which was added to the [ModelTable Object (Excel)](Excel.modeltable.md) identified by the [ModelMeasureName.TableName property (Excel)](Excel.modelmeasurename.tablename.md) property. Read-only.
+A **String** representing the new name of a measure that was added to the **[ModelTable](Excel.modeltable.md)** object identified by the **[TableName](Excel.modelmeasurename.tablename.md)** property. Read-only.
 
 
 ## Syntax
 
- _expression_. `MeasureName`
+_expression_.**MeasureName**
 
- _expression_ A variable that represents a [ModelMeasureName](Excel.modelmeasurename.md) object.
+_expression_ A variable that represents a **[ModelMeasureName](Excel.modelmeasurename.md)** object.
 
 
 ## Property value
 
- **STRING**
-
-
-## See also
+**STRING**
 
 
 
-[ModelMeasureName Object](Excel.modelmeasurename.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

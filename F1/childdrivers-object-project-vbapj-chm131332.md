@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: eeb580ed-542d-4873-b98c-3e9e43d98d4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TableField Object (Project)](http://msdn.microsoft.com/library/7f749404-0723-7a17-b83f-f43725c45fc5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

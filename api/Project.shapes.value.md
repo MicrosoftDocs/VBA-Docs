@@ -1,17 +1,18 @@
 ---
-title: Shapes.Value Property (Project)
+title: Shapes.Value property (Project)
 ms.prod: project-server
 ms.assetid: f10fef14-baee-ddd3-fb39-81fef0bc132d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Value Property (Project)
+# Shapes.Value property (Project)
 Gets an individual  **Shape** object in the **Shapes** collection. Read-only **Shape**.
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -20,7 +21,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 
@@ -62,3 +63,5 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 
 [Shapes Object](Project.shapes.md)
 [Item Method](Project.shapes.item.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

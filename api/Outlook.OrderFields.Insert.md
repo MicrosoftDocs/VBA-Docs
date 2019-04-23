@@ -1,5 +1,5 @@
 ---
-title: OrderFields.Insert Method (Outlook)
+title: OrderFields.Insert method (Outlook)
 keywords: vbaol11.chm2681
 f1_keywords:
 - vbaol11.chm2681
@@ -8,24 +8,23 @@ api_name:
 - Outlook.OrderFields.Insert
 ms.assetid: b866034d-4999-ebab-7f18-5fd63f169564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OrderFields.Insert Method (Outlook)
+# OrderFields.Insert method (Outlook)
 
 Creates a new  **[OrderField](Outlook.OrderField.md)** object and inserts it at the specified index within the **[OrderFields](Outlook.OrderFields.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_PropertyName_` , `_Index_` , `_IsDescending_` )
+_expression_.**Insert** (_PropertyName_, _Index_, _IsDescending_)
 
- _expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](Outlook.OrderFields.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,3 +42,4 @@ An  **OrderField** object that represents the new order field.
 
 [OrderFields Object](Outlook.OrderFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

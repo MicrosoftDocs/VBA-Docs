@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.SoundEffect Property (PowerPoint)
+title: SlideShowTransition.SoundEffect property (PowerPoint)
 keywords: vbapp10.chm539009
 f1_keywords:
 - vbapp10.chm539009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowTransition.SoundEffect
 ms.assetid: 69cff9a7-777a-57a0-d897-f132ba028bdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowTransition.SoundEffect Property (PowerPoint)
+# SlideShowTransition.SoundEffect property (PowerPoint)
 
 Returns a  **SoundEffect** object that represents the sound to be played during the transition to the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `SoundEffect`
+_expression_. `SoundEffect`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

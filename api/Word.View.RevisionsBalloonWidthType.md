@@ -1,5 +1,5 @@
 ---
-title: View.RevisionsBalloonWidthType Property (Word)
+title: View.RevisionsBalloonWidthType property (Word)
 keywords: vbawd10.chm161808425
 f1_keywords:
 - vbawd10.chm161808425
@@ -8,19 +8,20 @@ api_name:
 - Word.View.RevisionsBalloonWidthType
 ms.assetid: f300fc90-df18-cef4-bc00-dce76f2feff8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.RevisionsBalloonWidthType Property (Word)
+# View.RevisionsBalloonWidthType property (Word)
 
 Sets or returns a  **WdRevisionsBalloonWidthType** constant representing the global setting that specifies how Microsoft Word measures the width of revision balloons. Read/write.
 
 
 ## Syntax
 
- _expression_. `RevisionsBalloonWidthType`
+_expression_. `RevisionsBalloonWidthType`
 
- _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
+_expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End Sub
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

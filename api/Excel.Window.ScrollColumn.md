@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.ScrollColumn
 ms.assetid: 3068b3f9-0e5e-b841-4241-7f0c060a5c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.ScrollColumn property (Excel)
 
-Returns or sets the number of the leftmost column in the pane or window. Read/write  **Long** .
+Returns or sets the number of the leftmost column in the pane or window. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `ScrollColumn`
+_expression_. `ScrollColumn`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveWindow.ScrollColumn = 3
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

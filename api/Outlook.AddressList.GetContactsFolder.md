@@ -1,5 +1,5 @@
 ---
-title: AddressList.GetContactsFolder Method (Outlook)
+title: AddressList.GetContactsFolder method (Outlook)
 keywords: vbaol11.chm2032
 f1_keywords:
 - vbaol11.chm2032
@@ -8,24 +8,25 @@ api_name:
 - Outlook.AddressList.GetContactsFolder
 ms.assetid: 9ea91624-bd7d-af64-7220-a2d9b659787a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressList.GetContactsFolder Method (Outlook)
+# AddressList.GetContactsFolder method (Outlook)
 
 Obtains a  **[Folder](Outlook.Folder.md)** object that represents the Contacts folder for the **[AddressList](Outlook.AddressList.md)** object.
 
 
 ## Syntax
 
- _expression_. `GetContactsFolder`
+_expression_. `GetContactsFolder`
 
- _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## Return value
 
-A  **Folder** object that represents the Outlook Contacts folder for the **AddressList** . Returns **Null** (**Nothing** in Visual Basic) if no Outlook contacts folder is found.
+A  **Folder** object that represents the Outlook Contacts folder for the **AddressList**. Returns **Null** (**Nothing** in Visual Basic) if no Outlook contacts folder is found.
 
 
 ## Remarks
@@ -35,7 +36,7 @@ This method allows you to match an  **AddressList** for the Contacts folder that
 
 ## Example
 
-The following code sample shows you how to initialize the  **Select Names** dialog box with the **AddressList** for the default Contacts folder. It first obtains the **Folder** object for the default Contacts folder, and looks for its **AddressList** by comparing the Entry ID of this **Folder** object with the Entry ID of the **Folder** object assoicated with each **AddressList** in the current session until it finds a match. It then sets the **[InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** property and displays the **Select Names** dialog box.
+The following code sample shows you how to initialize the  **Select Names** dialog box with the **AddressList** for the default Contacts folder. It first obtains the **Folder** object for the default Contacts folder, and looks for its **AddressList** by comparing the Entry ID of this **Folder** object with the Entry ID of the **Folder** object associated with each **AddressList** in the current session until it finds a match. It then sets the **[InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** property and displays the **Select Names** dialog box.
 
 
 ```vb
@@ -122,3 +123,4 @@ End Sub
 
 [AddressList Object](Outlook.AddressList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

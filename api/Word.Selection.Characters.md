@@ -1,5 +1,5 @@
 ---
-title: Selection.Characters Property (Word)
+title: Selection.Characters property (Word)
 keywords: vbawd10.chm158662709
 f1_keywords:
 - vbawd10.chm158662709
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Characters
 ms.assetid: 605c0fc5-f5b9-6782-9fdd-54589040d243
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Characters Property (Word)
+# Selection.Characters property (Word)
 
 Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a document, range, or selection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Characters`
+_expression_. `Characters`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ MsgBox "The first character is... " & char
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

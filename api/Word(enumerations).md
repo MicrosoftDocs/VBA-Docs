@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the VBA Word object model.
 ms.prod: word
 ms.assetid: 22173213-5004-4e53-874c-0b60962d58d6
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 # Enumerations (Word)
@@ -363,7 +364,8 @@ This section contains documentation for the enumerations in the Word object mode
 - [XlVAlign](Word.xlvalign.md)
 
 
- ## See also
+## See also
  
  - [Visual Basic constants](../language/reference/user-interface-help/visual-basic-constants.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

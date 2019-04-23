@@ -1,5 +1,5 @@
 ---
-title: Walls.Creator Property (Word)
+title: Walls.Creator property (Word)
 keywords: vbawd10.chm25165973
 f1_keywords:
 - vbawd10.chm25165973
@@ -8,17 +8,18 @@ api_name:
 - Word.Walls.Creator
 ms.assetid: 1d47046e-3552-43d9-79f0-2317f8df380e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Walls.Creator Property (Word)
+# Walls.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[Walls](Word.Walls.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Walls Object](Word.Walls.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

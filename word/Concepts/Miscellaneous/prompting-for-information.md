@@ -3,6 +3,7 @@ title: Prompting for Information
 ms.prod: word
 ms.assetid: 71705429-c672-95b6-e552-4af471f33580
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,5 +19,5 @@ There are several different ways you can prompt for information from a user.
 - Use a  [built-in Microsoft Word dialog box](../Customizing-Word/displaying-built-in-word-dialog-boxes.md)to get user input for a specific Word feature.
     
 - Use a custom form to get user input. For information about adding controls to a form, see  [Add a control to a form](../Customizing-Word/adding-controls-to-a-document.md).
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

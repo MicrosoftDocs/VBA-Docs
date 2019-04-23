@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 558313b1-a088-433d-83fa-050d8c0be2a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationControl.SmartTags property (Access)](http://msdn.microsoft.com/library/e4c3553a-7ce3-291e-b83a-c88e20685b4d%28Office.15%29.aspx)
 [ListBox.SmartTags property (Access)](http://msdn.microsoft.com/library/1f35ca6b-fde1-6dc8-4b1b-f3089eee9204%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

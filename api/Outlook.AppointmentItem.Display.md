@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Display Method (Outlook)
+title: AppointmentItem.Display method (Outlook)
 keywords: vbaol11.chm871
 f1_keywords:
 - vbaol11.chm871
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.Display
 ms.assetid: 24706404-d646-a3ac-b7b1-64a6a1c697a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.Display Method (Outlook)
+# AppointmentItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

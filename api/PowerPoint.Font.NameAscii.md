@@ -1,5 +1,5 @@
 ---
-title: Font.NameAscii Property (PowerPoint)
+title: Font.NameAscii property (PowerPoint)
 keywords: vbapp10.chm575017
 f1_keywords:
 - vbapp10.chm575017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.NameAscii
 ms.assetid: 06db0f5b-71ac-704d-eef2-1be8a96fb7a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.NameAscii Property (PowerPoint)
+# Font.NameAscii property (PowerPoint)
 
 Returns or sets the font used for ASCII characters (characters with character set numbers within the range of 0 to 127). Read/write.
 
 
 ## Syntax
 
- _expression_. `NameAscii`
+_expression_. `NameAscii`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -49,3 +50,4 @@ Application.ActivePresentation.Slides(1).Shapes.Title _
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

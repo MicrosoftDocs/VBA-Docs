@@ -1,5 +1,5 @@
 ---
-title: Shape.ID Property (Visio)
+title: Shape.ID property (Visio)
 keywords: vis_sdr.chm11213675
 f1_keywords:
 - vis_sdr.chm11213675
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.ID
 ms.assetid: 948982c0-a872-802f-a2d3-69c6539ca3f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ID Property (Visio)
+# Shape.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -40,5 +41,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVShape.ID**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

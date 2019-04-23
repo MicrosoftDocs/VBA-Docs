@@ -1,5 +1,5 @@
 ---
-title: Page.CalloutRelationshipAdded Event (Visio)
+title: Page.CalloutRelationshipAdded event (Visio)
 keywords: vis_sdr.chm10962075
 f1_keywords:
 - vis_sdr.chm10962075
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.CalloutRelationshipAdded
 ms.assetid: b5181cd5-e763-a25c-abdc-3b32d2c902a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.CalloutRelationshipAdded Event (Visio)
+# Page.CalloutRelationshipAdded event (Visio)
 
 Occurs when a new callout relationship is added to the page.
 
@@ -39,4 +40,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **[Event](Visio.Event.md)** objects, use the **[EventList.Add](Visio.EventList.Add.md)** or **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method. To create an **Event** object that runs an add-on, use the **EventList.Add** method. To create an **Event** object that receives notification, use the **EventList.AddAdvise** method. To find an event code for the event you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Point.Paste Method (Word)
+title: Point.Paste method (Word)
 keywords: vbawd10.chm262144211
 f1_keywords:
 - vbawd10.chm262144211
@@ -8,24 +8,25 @@ api_name:
 - Word.Point.Paste
 ms.assetid: 88a215df-a271-2d09-8ffe-765fcb990163
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.Paste Method (Word)
+# Point.Paste method (Word)
 
 Pastes a picture from the Clipboard as the marker on the selected point.
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_.**Paste**
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
 
 ## Remarks
 
-You can use this method on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](Word.Point.MarkerStyle.md)** property to **xlMarkerStylePicture** .
+You can use this method on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](Word.Point.MarkerStyle.md)** property to **xlMarkerStylePicture**.
 
 
 ## Example
@@ -48,3 +49,4 @@ End With
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

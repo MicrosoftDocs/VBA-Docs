@@ -1,5 +1,5 @@
 ---
-title: Table.RightPadding Property (Word)
+title: Table.RightPadding property (Word)
 keywords: vbawd10.chm156303476
 f1_keywords:
 - vbawd10.chm156303476
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.RightPadding
 ms.assetid: a41681da-9a11-9b45-fcff-495208a3ab25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.RightPadding Property (Word)
+# Table.RightPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the right of the contents of all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the right of the contents of all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_.**RightPadding**
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).RightPadding = _
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

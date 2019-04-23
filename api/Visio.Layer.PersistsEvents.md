@@ -1,5 +1,5 @@
 ---
-title: Layer.PersistsEvents Property (Visio)
+title: Layer.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11814080
 f1_keywords:
 - vis_sdr.chm11814080
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layer.PersistsEvents
 ms.assetid: aa50ce5b-1f53-981b-7a1f-d6a1a6ee05d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layer.PersistsEvents Property (Visio)
+# Layer.PersistsEvents property (Visio)
 
 Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `PersistsEvents`
+_expression_. `PersistsEvents`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
@@ -30,14 +31,14 @@ Integer
 
 ## Remarks
 
-Every object that has an  **EventList** property also has a **PersistsEvents** property. To be persistable, an event's action code must be **visActCodeRunAddon** , but it must also be in the **EventList** collection of an object whose **PersistsEvents** property is **True** . The only objects that currently persist events are **Document** , **Master** , and **Page** objects.
+Every object that has an  **EventList** property also has a **PersistsEvents** property. To be persistable, an event's action code must be **visActCodeRunAddon**, but it must also be in the **EventList** collection of an object whose **PersistsEvents** property is **True**. The only objects that currently persist events are **Document**, **Master**, and **Page** objects.
 
 Whether a persistable event actually does persist depends on the value of its  **Persistent** property.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PersistsEvents** property to determine if an object is capable of containing persistent events. Executing the macro prints 1 (**True**), 1 (**True**), and 0 (**False**) in the **Immediate** window for the **Document** , **Page** , and **Window** objects, respectively.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PersistsEvents** property to determine if an object is capable of containing persistent events. Executing the macro prints 1 (**True**), 1 (**True**), and 0 (**False**) in the **Immediate** window for the **Document**, **Page**, and **Window** objects, respectively.
 
 
 ```vb
@@ -54,4 +55,4 @@ Public Sub PersistsEvents_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

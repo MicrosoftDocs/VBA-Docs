@@ -1,16 +1,17 @@
 ---
-title: InvisibleApp.QueryCancelSuspend Event (Visio)
+title: InvisibleApp.QueryCancelSuspend event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelSuspend
 ms.assetid: 49e6dbe2-f1d9-5743-11d2-c64e1d98475d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueryCancelSuspend Event (Visio)
+# InvisibleApp.QueryCancelSuspend event (Visio)
 
-Occurs before the operating system enters a suspended state. If any event handler returns  **True** , the Microsoft Visio instance will deny the operating system's request.
+Occurs before the operating system enters a suspended state. If any event handler returns  **True**, the Microsoft Visio instance will deny the operating system's request.
 
 
 ## Syntax
@@ -68,4 +69,4 @@ Private Function vsoApplication_QueryCancelSuspend(ByVal _
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

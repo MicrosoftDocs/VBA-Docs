@@ -1,5 +1,5 @@
 ---
-title: RuleActions.ForwardAsAttachment Property (Outlook)
+title: RuleActions.ForwardAsAttachment property (Outlook)
 keywords: vbaol11.chm2194
 f1_keywords:
 - vbaol11.chm2194
@@ -8,26 +8,27 @@ api_name:
 - Outlook.RuleActions.ForwardAsAttachment
 ms.assetid: 9e2eb736-35d9-b17e-8d6d-c5105388f513
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RuleActions.ForwardAsAttachment Property (Outlook)
+# RuleActions.ForwardAsAttachment property (Outlook)
 
-Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForwardAsAttachment** . Read-only.
+Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForwardAsAttachment**. Read-only.
 
 
 ## Syntax
 
- _expression_. `ForwardAsAttachment`
+_expression_. `ForwardAsAttachment`
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks
 
 Use the returned  **SendRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies forwarding a message as an attachment to specific recipients as an action.
 
-This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **SendRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[SendRuleAction.Enabled](Outlook.SendRuleAction.Enabled.md)** will be **True** .
+This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **SendRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[SendRuleAction.Enabled](Outlook.SendRuleAction.Enabled.md)** will be **True**.
 
 
 ## See also
@@ -35,3 +36,4 @@ This property of the  **[RuleActions](Outlook.RuleActions.md)** collection alway
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

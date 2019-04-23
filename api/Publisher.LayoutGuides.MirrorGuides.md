@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.MirrorGuides Property (Publisher)
+title: LayoutGuides.MirrorGuides property (Publisher)
 keywords: vbapb10.chm1114119
 f1_keywords:
 - vbapb10.chm1114119
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.MirrorGuides
 ms.assetid: 8e6ff709-21e0-2286-5d75-c7ebea05fd26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.MirrorGuides Property (Publisher)
+# LayoutGuides.MirrorGuides property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether Microsoft Publisher creates mirror guide positions for a book fold publication. **True** if Publisher creates mirror guide positions for separate left and right pages in a book fold publication; **False** if the same margin, row, and column guides are applied to all pages in the publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **MirrorGuides**
+_expression_.**MirrorGuides**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -46,4 +47,4 @@ With ActiveDocument.LayoutGuides
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

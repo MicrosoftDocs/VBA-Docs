@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.PublishFileName Property (Publisher)
+title: WebPageOptions.PublishFileName property (Publisher)
 keywords: vbapb10.chm544784
 f1_keywords:
 - vbapb10.chm544784
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebPageOptions.PublishFileName
 ms.assetid: d3f52a82-8876-303a-2a73-fdb6dd1ff1cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebPageOptions.PublishFileName Property (Publisher)
+# WebPageOptions.PublishFileName property (Publisher)
 
 Returns or sets a  **String** that represents the file name of a Web page (within a Web publication) that is being saved as filtered HTML.
 
 
 ## Syntax
 
- _expression_. **PublishFileName**
+_expression_.**PublishFileName**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 
@@ -62,4 +63,4 @@ With ActiveDocument.Pages(2).WebPageOptions
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

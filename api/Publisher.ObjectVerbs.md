@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs Object (Publisher)
+title: ObjectVerbs object (Publisher)
 keywords: vbapb10.chm4587519
 f1_keywords:
 - vbapb10.chm4587519
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ObjectVerbs
 ms.assetid: e04cf7db-ee56-7d95-9f5c-7ecee1844866
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ObjectVerbs Object (Publisher)
+# ObjectVerbs object (Publisher)
 
 Represents the collection of OLE verbs for the specified OLE object. OLE verbs are the operations supported by an OLE object. Commonly used OLE verbs are play and edit.
  
@@ -41,7 +42,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.ObjectVerbs.Item.md)|
 
@@ -49,9 +50,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ObjectVerbs.Application.md)|
 |[Count](Publisher.ObjectVerbs.Count.md)|
 |[Parent](Publisher.ObjectVerbs.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Range.ListNames Method (Excel)
+title: Range.ListNames method (Excel)
 keywords: vbaxl10.chm144155
 f1_keywords:
 - vbaxl10.chm144155
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.ListNames
 ms.assetid: 0523f9b3-d422-76b6-889c-75619cb5b9a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ListNames Method (Excel)
+# Range.ListNames method (Excel)
 
 Pastes a list of all nonhidden names onto the worksheet, beginning with the first cell in the range.
 
 
 ## Syntax
 
- _expression_. `ListNames`
+_expression_. `ListNames`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -48,3 +49,4 @@ Worksheets("Sheet1").Range("A1").ListNames
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

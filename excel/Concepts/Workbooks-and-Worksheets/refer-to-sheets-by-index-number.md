@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: dc947b43-8e96-733a-72e8-3487a4ad9e96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,4 +36,4 @@ End Sub
 
  **Note**  The index order can change if you move, add, or delete sheets.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

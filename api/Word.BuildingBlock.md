@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock Object (Word)
+title: BuildingBlock object (Word)
 keywords: vbawd10.chm3107
 f1_keywords:
 - vbawd10.chm3107
@@ -8,10 +8,11 @@ api_name:
 - Word.BuildingBlock
 ms.assetid: 2558b89f-8552-bb71-fa40-101cab2635ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlock Object (Word)
+# BuildingBlock object (Word)
 
 Represents a building block in a template. A building block is pre-built content, similar to autotext, that may contain text, images, and formatting.
 
@@ -82,7 +83,7 @@ Set objTemplate = Templates(1)
 objTemplate.BuildingBlockEntries(1).Delete
 ```
 
- Building blocks are organized by category and type. Use the **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection to access individual **[BuildingBlockType](Word.BuildingBlockType.md)** objects. Use the **[Categories](Word.Categories.md)** collection to access individual **[Category](Word.BuildingBlock.Category.md)** objects. Then use the **BuildingBlocks** propery to access the **BuildingBlocks** collection for a **Category** object. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
+ Building blocks are organized by category and type. Use the **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection to access individual **[BuildingBlockType](Word.BuildingBlockType.md)** objects. Use the **[Categories](Word.Categories.md)** collection to access individual **[Category](Word.BuildingBlock.Category.md)** objects. Then use the **BuildingBlocks** property to access the **BuildingBlocks** collection for a **Category** object. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 
@@ -117,7 +118,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.BuildingBlock.Delete.md)|
 |[Insert](Word.BuildingBlock.Insert.md)|
@@ -126,7 +127,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.BuildingBlock.Application.md)|
 |[Category](Word.BuildingBlock.Category.md)|
@@ -143,4 +144,6 @@ For more information about building blocks, see [Working with Building Blocks](.
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

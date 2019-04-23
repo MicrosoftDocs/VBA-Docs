@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextbox Method (Word)
+title: Shapes.AddTextbox method (Word)
 keywords: vbawd10.chm161415187
 f1_keywords:
 - vbawd10.chm161415187
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.AddTextbox
 ms.assetid: 7b5c766e-40b3-a390-561f-cd1a53eb93a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddTextbox Method (Word)
+# Shapes.AddTextbox method (Word)
 
 Adds a text box to a drawing canvas.
 
 
 ## Syntax
 
- _expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds a text box to a drawing canvas.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the text box.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the text box.|
 | _Width_|Required| **Single**|The width, measured in points, of the text box.|
@@ -68,3 +69,4 @@ End Sub
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Row.SpaceBetweenColumns Property (Word)
+title: Row.SpaceBetweenColumns property (Word)
 keywords: vbawd10.chm156237830
 f1_keywords:
 - vbawd10.chm156237830
@@ -8,19 +8,20 @@ api_name:
 - Word.Row.SpaceBetweenColumns
 ms.assetid: 22b81246-e158-ace7-dbca-9fc277584c6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.SpaceBetweenColumns Property (Word)
+# Row.SpaceBetweenColumns property (Word)
 
-Returns or sets the distance (in points) between text in adjacent columns of the specified row or rows. Read/write  **Single** .
+Returns or sets the distance (in points) between text in adjacent columns of the specified row or rows. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `SpaceBetweenColumns`
+_expression_. `SpaceBetweenColumns`
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Example
@@ -40,3 +41,4 @@ myTable.Rows(1).SpaceBetweenColumns = InchesToPoints(0.5)
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

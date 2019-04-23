@@ -1,5 +1,5 @@
 ---
-title: Layer.Delete Method (Visio)
+title: Layer.Delete method (Visio)
 keywords: vis_sdr.chm11851200
 f1_keywords:
 - vis_sdr.chm11851200
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layer.Delete
 ms.assetid: 817a06fd-f249-d17a-3f8c-6c132ec38823
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layer.Delete Method (Visio)
+# Layer.Delete method (Visio)
 
 Deletes a  **Layer** object. Can also delete shapes assigned to the deleted layer.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_fDeleteShapes_` )
+_expression_.**Delete**( `_fDeleteShapes_` )
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
@@ -40,4 +41,4 @@ Nothing
 
 When  _fDeleteShapes_ is non-zero, shapes assigned only to the deleted layer are deleted. Otherwise, the shapes are simply no longer assigned to that layer.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Project Visual Basic for Applications (VBA) reference
 ms.prod: project
 description: Conceptual overviews, programming tasks, samples, and references to help you develop Project solutions.
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 # Project VBA reference
@@ -21,3 +22,5 @@ Use the table of contents in the navigation on the left to view the topics in th
 ## See also
 
 - [Project (Office client development)](https://docs.microsoft.com/office/client-developer/project/project-home)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

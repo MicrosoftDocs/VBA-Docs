@@ -1,14 +1,15 @@
 ---
-title: PjVisualReportsCubeType Enumeration (Project)
+title: PjVisualReportsCubeType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjVisualReportsCubeType
 ms.assetid: dd05c192-8213-e6fc-0060-c32c761ec5d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjVisualReportsCubeType Enumeration (Project)
+# PjVisualReportsCubeType enumeration (Project)
 
 Contains constants that specify the type of report cube on which to operate.
 
@@ -23,3 +24,4 @@ Contains constants that specify the type of report cube on which to operate.
 |**pjTaskNTP**|4|Nontimephased task cube.|
 |**pjTaskTP**|1|Timephased task cube.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

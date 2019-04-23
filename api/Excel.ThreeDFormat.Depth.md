@@ -8,6 +8,7 @@ api_name:
 - Excel.ThreeDFormat.Depth
 ms.assetid: 1fce69d1-6813-1f92-d457-6a6c36de7dba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Single** value that represents the depth of the shape's ext
 
 ## Syntax
 
- _expression_. `Depth`
+_expression_. `Depth`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

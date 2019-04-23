@@ -3,6 +3,7 @@ title: Identify a Folder with an Account
 ms.prod: outlook
 ms.assetid: 64dfbe81-933a-0929-e18c-a927156e50d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,7 +40,7 @@ Outlook.Account GetAccountForFolder(Outlook.Folder folder)
     foreach (Outlook.Account account in Application.Session.Accounts) 
     { 
         // Match the DefaultStore.StoreID of the account 
-        // with the Store.StoreID for the currect folder. 
+        // with the Store.StoreID for the correct folder. 
         if (account.DeliveryStore.StoreID  == store.StoreID) 
         { 
             // Return the account whose default delivery store 
@@ -52,4 +53,4 @@ Outlook.Account GetAccountForFolder(Outlook.Folder folder)
 }
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

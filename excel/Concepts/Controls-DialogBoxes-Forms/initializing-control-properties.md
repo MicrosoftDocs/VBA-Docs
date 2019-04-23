@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 7d9d256c-c9e5-b45a-4da9-745d58cb666b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,4 +44,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

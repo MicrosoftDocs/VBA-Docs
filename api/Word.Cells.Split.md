@@ -1,5 +1,5 @@
 ---
-title: Cells.Split Method (Word)
+title: Cells.Split method (Word)
 keywords: vbawd10.chm155844813
 f1_keywords:
 - vbawd10.chm155844813
@@ -8,19 +8,20 @@ api_name:
 - Word.Cells.Split
 ms.assetid: ed0b2594-a328-20d9-b352-5a59b8ef9d3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cells.Split Method (Word)
+# Cells.Split method (Word)
 
 Splits a range of table cells.
 
 
 ## Syntax
 
- _expression_. `Split`( `_NumRows_` , `_NumColumns_` , `_MergeBeforeSplit_` )
+_expression_. `Split`( `_NumRows_` , `_NumColumns_` , `_MergeBeforeSplit_` )
 
- _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
+_expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ End If
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

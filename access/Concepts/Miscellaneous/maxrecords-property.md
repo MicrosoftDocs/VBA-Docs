@@ -9,6 +9,7 @@ api_name:
 - Access.MaxRecords
 ms.assetid: 30ea62b8-9304-2cdf-ff2f-d8ed665b16b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -46,3 +47,5 @@ You can use the **MaxRecords** property in situations where limited system resou
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

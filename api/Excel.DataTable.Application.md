@@ -8,6 +8,7 @@ api_name:
 - Excel.DataTable.Application
 ms.assetid: 0bc376d3-bf52-5b23-c737-60dc5b3bf899
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
+_expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [DataTable Object](Excel.DataTable(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

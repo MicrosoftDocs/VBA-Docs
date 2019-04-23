@@ -1,5 +1,5 @@
 ---
-title: Document.GrammaticalErrors Property (Word)
+title: Document.GrammaticalErrors property (Word)
 keywords: vbawd10.chm158007393
 f1_keywords:
 - vbawd10.chm158007393
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.GrammaticalErrors
 ms.assetid: 24e708e3-6417-f105-43d3-9be8e450f189
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.GrammaticalErrors Property (Word)
+# Document.GrammaticalErrors property (Word)
 
 Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `GrammaticalErrors`
+_expression_. `GrammaticalErrors`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

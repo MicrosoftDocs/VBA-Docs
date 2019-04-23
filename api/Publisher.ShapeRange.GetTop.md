@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GetTop Method (Publisher)
+title: ShapeRange.GetTop method (Publisher)
 keywords: vbapb10.chm2293783
 f1_keywords:
 - vbapb10.chm2293783
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.GetTop
 ms.assetid: bbee5dec-78fd-efd9-1368-2089a44d9bff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.GetTop Method (Publisher)
+# ShapeRange.GetTop method (Publisher)
 
 Returns the distance of the shape's or shape range's top edge from the top edge of the leftmost page in the current view as a  **Single** in the specified units.
 
 
 ## Syntax
 
- _expression_. **GetTop**(**_Unit_**)
+_expression_.**GetTop**(**_Unit_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -59,4 +60,4 @@ With ActiveDocument.Pages(1).Shapes.Range
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Obscured Property (PowerPoint)
+title: ShadowFormat.Obscured property (PowerPoint)
 keywords: vbapp10.chm554005
 f1_keywords:
 - vbapp10.chm554005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShadowFormat.Obscured
 ms.assetid: 18f029de-cfaf-61d2-6fec-f9fdc53f8d1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Obscured Property (PowerPoint)
+# ShadowFormat.Obscured property (PowerPoint)
 
 Determines whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `Obscured`
+_expression_. `Obscured`
 
  _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -34,14 +35,14 @@ The value of the  **Obscured** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The shadow has no fill and the outline of the shadow is visible through the shape if the shape has no fill.|
 |**msoTrue**| The shadow of the specified shape appears filled in and is obscured by the shape, even if the shape has no fill.|
 
 ## Example
 
-This example sets the horizontal and vertical offsets of the shadow for shape three on  `myDocument`. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
+This example sets the horizontal and vertical offsets of the shadow for shape three on  _myDocument_. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
 
 
 ```vb
@@ -66,3 +67,4 @@ End With
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

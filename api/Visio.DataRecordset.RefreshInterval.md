@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.RefreshInterval Property (Visio)
+title: DataRecordset.RefreshInterval property (Visio)
 keywords: vis_sdr.chm16460340
 f1_keywords:
 - vis_sdr.chm16460340
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.RefreshInterval
 ms.assetid: 3d108e6e-65af-05ea-77d2-a19d96f82c1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.RefreshInterval Property (Visio)
+# DataRecordset.RefreshInterval property (Visio)
 
 Gets or sets how often Microsoft Visio automatically refreshes the data recordset. Read/write.
 
@@ -21,7 +22,7 @@ Gets or sets how often Microsoft Visio automatically refreshes the data recordse
 
 ## Syntax
 
- _expression_. `RefreshInterval`
+_expression_. `RefreshInterval`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -39,4 +40,4 @@ By setting  **RefreshInterval** to a positive **Long** value, you can specify th
 
 This setting corresponds to the value a user can set in the  **Configure Refresh** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

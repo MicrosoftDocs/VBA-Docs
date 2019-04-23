@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 13bba14e-527d-ec6a-0efa-15816fde703a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a  **String** value that represents the name of the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object.
+_expression_ A variable that represents a **[ModelTableColumn](Excel.modeltablecolumn.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns a  **String** value that represents the name of the object.
 
 [ModelTableColumn Object](Excel.modeltablecolumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

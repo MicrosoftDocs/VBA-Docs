@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PivotTableBeforeDiscardChanges Event (Excel)
+title: Worksheet.PivotTableBeforeDiscardChanges event (Excel)
 keywords: vbaxl10.chm502085
 f1_keywords:
 - vbaxl10.chm502085
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.PivotTableBeforeDiscardChanges
 ms.assetid: 94a480fa-ce06-e7d7-d4b4-ac21be0525ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.PivotTableBeforeDiscardChanges Event (Excel)
+# Worksheet.PivotTableBeforeDiscardChanges event (Excel)
 
 Occurs before changes to a PivotTable are discarded.
 
 
 ## Syntax
 
- _expression_. `PivotTableBeforeDiscardChanges`( `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` )
+_expression_. `PivotTableBeforeDiscardChanges`( `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` )
 
- _expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' object.
+_expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ Occurs immediately before Excel executes a  **ROLLBACK TRANSACTION** statement a
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

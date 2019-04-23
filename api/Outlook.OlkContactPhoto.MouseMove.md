@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.MouseMove Event (Outlook)
+title: OlkContactPhoto.MouseMove event (Outlook)
 keywords: vbaol11.chm1000314
 f1_keywords:
 - vbaol11.chm1000314
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkContactPhoto.MouseMove
 ms.assetid: d2f0b94b-4825-c3be-d2b6-070e0fb2ff44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.MouseMove Event (Outlook)
+# OlkContactPhoto.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 63d3d9ba-3521-af29-9484-7c8aa6e65364
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,4 +35,4 @@ You tried to use an object in an incorrect way. This error has the following cau
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

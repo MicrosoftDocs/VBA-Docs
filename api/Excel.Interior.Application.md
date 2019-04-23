@@ -8,6 +8,7 @@ api_name:
 - Excel.Interior.Application
 ms.assetid: d278fe57-7082-131d-6f14-34def9fd1838
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Interior Object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

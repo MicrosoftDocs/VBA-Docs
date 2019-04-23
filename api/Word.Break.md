@@ -1,5 +1,5 @@
 ---
-title: Break Object (Word)
+title: Break object (Word)
 keywords: vbawd10.chm3057
 f1_keywords:
 - vbawd10.chm3057
@@ -8,10 +8,11 @@ api_name:
 - Word.Break
 ms.assetid: 771ba998-c22e-3cf0-fab7-af9329793855
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Break Object (Word)
+# Break object (Word)
 
 Represents individual page, column, and section breaks in a page. Use the  **Break** object and the related methods and properties for programmatically defining page layout in a document.
 
@@ -32,6 +33,6 @@ Set objBreak = ActiveDocument.ActiveWindow _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

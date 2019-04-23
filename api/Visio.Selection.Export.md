@@ -1,5 +1,5 @@
 ---
-title: Selection.Export Method (Visio)
+title: Selection.Export method (Visio)
 keywords: vis_sdr.chm11116265
 f1_keywords:
 - vis_sdr.chm11116265
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Export
 ms.assetid: 41ecd499-358d-804a-3311-43d0041a5562
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Export Method (Visio)
+# Selection.Export method (Visio)
 
 Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg, .dxf, .emf, .emz, .gif, .htm, .jpg, .png, .svg, .svgz, .tif, or .wmf.
 
 
 ## Syntax
 
- _expression_. `Export`( `_FileName_` )
+_expression_.**Export** (_FileName_)
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -60,4 +61,4 @@ Public Sub Export_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

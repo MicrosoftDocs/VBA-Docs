@@ -8,19 +8,20 @@ api_name:
 - Excel.Name.RefersToLocal
 ms.assetid: e079e8c9-44f9-494e-97aa-2a38c0ec157b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Name.RefersToLocal property (Excel)
 
-Returns or sets the formula that the name refers to. The formula is in the language of the user, and it's in A1-style notation, beginning with an equal sign. Read/write  **String** .
+Returns or sets the formula that the name refers to. The formula is in the language of the user, and it's in A1-style notation, beginning with an equal sign. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `RefersToLocal`
+_expression_. `RefersToLocal`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ Next
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

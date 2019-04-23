@@ -1,14 +1,15 @@
 ---
-title: PjComparison Enumeration (Project)
+title: PjComparison enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjComparison
 ms.assetid: 80a06c71-4cb7-a83c-16bb-36fb97bbc495
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjComparison Enumeration (Project)
+# PjComparison enumeration (Project)
 
 Contains constants that specify the type of comparsion.
 
@@ -29,3 +30,4 @@ Contains constants that specify the type of comparsion.
 |**pjCompareNotWithin**|8|The custom field's value is not within  **Value**.|
 |**pjCompareWithin**|0|The custom field's value is within  **Value**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

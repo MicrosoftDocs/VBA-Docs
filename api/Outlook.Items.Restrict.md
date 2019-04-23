@@ -1,5 +1,5 @@
 ---
-title: Items.Restrict Method (Outlook)
+title: Items.Restrict method (Outlook)
 keywords: vbaol11.chm70
 f1_keywords:
 - vbaol11.chm70
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Items.Restrict
 ms.assetid: e3b0cda1-e43d-cc5e-2942-0f54935d9dab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.Restrict Method (Outlook)
+# Items.Restrict method (Outlook)
 
 Applies a filter to the  **[Items](Outlook.Items.md)** collection, returning a new collection containing all of the items from the original that match the filter.
 
 
 ## Syntax
 
- _expression_. `Restrict`( `_Filter_` )
+_expression_. `Restrict`( `_Filter_` )
 
- _expression_ An expression that returns a [Items](./Outlook.Items.md) object.
+ _expression_ An expression that returns a [Items](Outlook.Items.md) object.
 
 
 ## Parameters
@@ -59,7 +60,7 @@ This method cannot be used and will cause an error with the following properties
 | **ConversationIndex**| **NetMeetingType**|
 | **DLName**| **RecurrenceState**|
 | **Email1EntryID**| **ReceivedByEntryID**|
-| **Email2EntryID**| **RecevedOnBehalfOfEntryID**|
+| **Email2EntryID**| **ReceivedOnBehalfOfEntryID**|
 | **Email3EntryID**| **ReplyRecipients**|
 | **EntryID**| **ResponseState**|
 | **HTMLBody**| **Saved**|
@@ -149,7 +150,7 @@ sFilter = "[Journal] = True"
 ```
 
 
- **Note**  If you use quotation marks as delimiters with  **Boolean** fields, then an empty string will find items whose fields are **False** and all non-empty strings will find items whose fields are **True** .
+ **Note**  If you use quotation marks as delimiters with  **Boolean** fields, then an empty string will find items whose fields are **False** and all non-empty strings will find items whose fields are **True**.
 
 
 ### Keywords (or Categories)
@@ -306,3 +307,4 @@ End Sub
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

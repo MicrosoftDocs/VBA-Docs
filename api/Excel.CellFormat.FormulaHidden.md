@@ -7,31 +7,30 @@ ms.prod: excel
 api_name:
 - Excel.CellFormat.FormulaHidden
 ms.assetid: 5e1b6875-f66a-568a-e0e5-af88e64edfe6
-ms.date: 06/08/2017
+ms.date: 04/16/2019
+localization_priority: Normal
 ---
 
 
 # CellFormat.FormulaHidden property (Excel)
 
-Returns or sets a  **Variant** value that indicates if the formula will be hidden when the worksheet is protected.
+Returns or sets a **Variant** value that indicates if the formula will be hidden when the worksheet is protected.
 
 
 ## Syntax
 
- _expression_. `FormulaHidden`
+_expression_.**FormulaHidden**
 
- _expression_ A variable that represents a [CellFormat](Excel.CellFormat.md) object.
+_expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** object.
 
 
 ## Remarks
 
-This property returns  **True** if the formula will be hidden when the worksheet is protected, **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False** .
+This property returns **True** if the formula will be hidden when the worksheet is protected. It returns **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False**.
 
-Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
-
-
-## See also
+Don't confuse this property with the **[Hidden](Excel.Range.Hidden.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
 
 
-[CellFormat Object](Excel.CellFormat.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

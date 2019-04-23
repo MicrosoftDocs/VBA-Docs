@@ -1,5 +1,5 @@
 ---
-title: Options.MultipleWordConversionsMode Property (Word)
+title: Options.MultipleWordConversionsMode property (Word)
 keywords: vbawd10.chm162988375
 f1_keywords:
 - vbawd10.chm162988375
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.MultipleWordConversionsMode
 ms.assetid: 4200229d-9a37-4b51-6cdc-e24e241aceff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.MultipleWordConversionsMode Property (Word)
+# Options.MultipleWordConversionsMode property (Word)
 
-Returns or sets the direction for conversion between Hangul and Hanja. Read/write  **WdMultipleWordConversionsMode** .
+Returns or sets the direction for conversion between Hangul and Hanja. Read/write  **WdMultipleWordConversionsMode**.
 
 
 ## Syntax
 
- _expression_. `MultipleWordConversionsMode`
+_expression_. `MultipleWordConversionsMode`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -38,3 +39,4 @@ Options.MultipleWordConversionsMode = wdHangulToHanja
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: f3310e1f-9987-785a-9ae2-a2eb375a35c2
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -43,3 +44,4 @@ The following list of topics outlines the different ways in which you can specif
 - [Change date and time criteria from a control on a form](date-and-time-criteria-from-a-control-on-a-form.md)
 - [Multiple fields in criteria expressions](multiple-fields-in-criteria-expressions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

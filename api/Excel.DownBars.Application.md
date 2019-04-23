@@ -8,6 +8,7 @@ api_name:
 - Excel.DownBars.Application
 ms.assetid: 888bb560-9c2f-d09f-4537-9240804d9e0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
+_expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [DownBars Object](Excel.DownBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: Columns Object (Word)
+title: Columns object (Word)
 ms.prod: word
 ms.assetid: 7c2d1353-cbc4-a162-83a1-6cac1300266f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns Object (Word)
+# Columns object (Word)
 
 A collection of  **[Column](Word.Column.md)** objects that represent the columns in a table.
 
@@ -61,7 +62,7 @@ ActiveDocument.Tables(1).Columns(1).Select
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Columns.Add.md)|
 |[AutoFit](Word.Columns.AutoFit.md)|
@@ -75,7 +76,7 @@ ActiveDocument.Tables(1).Columns(1).Select
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Columns.Application.md)|
 |[Borders](Word.Columns.Borders.md)|
@@ -93,4 +94,6 @@ ActiveDocument.Tables(1).Columns(1).Select
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

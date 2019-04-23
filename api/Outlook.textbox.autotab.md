@@ -3,6 +3,7 @@ title: TextBox.AutoTab Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 4c7d917b-178b-04f2-9d9c-bf736eb9ad37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether an automatic tab occurs wh
 
 ## Syntax
 
- _expression_. **AutoTab**
+_expression_.**AutoTab**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ The  **[MaxLength](Outlook.textbox.maxlength.md)** property specifies the maximu
 
 You can specify the  **AutoTab** property for a **TextBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the focus automatically moves to the next control in the tab order. For example, if a **TextBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **TextBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Copy Method (Publisher)
+title: TextRange.Copy method (Publisher)
 keywords: vbapb10.chm5308480
 f1_keywords:
 - vbapb10.chm5308480
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Copy
 ms.assetid: e0d92492-fa0e-9424-471d-09866402702c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Copy Method (Publisher)
+# TextRange.Copy method (Publisher)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. **Copy**
+_expression_.**Copy**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -65,4 +66,4 @@ This example copies the text in shape one on page one of the active publication 
 ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange.Copy
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

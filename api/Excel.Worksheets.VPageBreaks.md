@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheets.VPageBreaks
 ms.assetid: 09c097f5-6344-ea88-2ce4-a582f84f2fe5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheets.VPageBreaks property (Excel)
 
-Returns a  **[VPageBreaks](Excel.Worksheets.VPageBreaks.md)** collection that represents the vertical page breaks on the sheet. Read-only.
+Returns a **[VPageBreaks](excel.vpagebreaks.md)** collection that represents the vertical page breaks on the sheet. Read-only.
 
 
 ## Syntax
 
- _expression_. `VPageBreaks`
+_expression_.**VPageBreaks**
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

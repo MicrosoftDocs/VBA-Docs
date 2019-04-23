@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0941b221-cd6b-40a7-805d-1d92509f7c65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.MaxUnits Property (Project)](http://msdn.microsoft.com/library/1c698f41-9bd2-8673-af5c-6dce48a75511%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.FirstLineIndent Property (Word)
+title: Paragraphs.FirstLineIndent property (Word)
 keywords: vbawd10.chm156762220
 f1_keywords:
 - vbawd10.chm156762220
@@ -8,17 +8,18 @@ api_name:
 - Word.Paragraphs.FirstLineIndent
 ms.assetid: e882f2da-dc5f-a96d-e18c-39335bd95540
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.FirstLineIndent Property (Word)
+# Paragraphs.FirstLineIndent property (Word)
 
-Returns or sets the value (in points) for a first line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write  **Single** .
+Returns or sets the value (in points) for a first line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `FirstLineIndent`
+_expression_. `FirstLineIndent`
 
  _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
@@ -49,3 +50,4 @@ ActiveDocument.Paragraphs.FirstLineIndent = _
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

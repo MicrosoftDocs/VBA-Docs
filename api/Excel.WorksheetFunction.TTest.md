@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TTest Method (Excel)
+title: WorksheetFunction.TTest method (Excel)
 keywords: vbaxl10.chm137220
 f1_keywords:
 - vbaxl10.chm137220
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.TTest
 ms.assetid: 3153c88c-aa22-230f-e602-03b902830c54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.TTest Method (Excel)
+# WorksheetFunction.TTest method (Excel)
 
 Returns the probability associated with a Student's t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.
 
@@ -24,9 +25,9 @@ Returns the probability associated with a Student's t-Test. Use TTEST to determi
 
 ## Syntax
 
- _expression_. `TTest`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `TTest`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

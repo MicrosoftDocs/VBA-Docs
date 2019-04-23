@@ -9,6 +9,7 @@ api_name:
 - Access.SubdatasheetName
 ms.assetid: 6114c6de-fdcd-9d97-c5ad-0742ca75a1ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,3 +43,5 @@ To set the **SubdatasheetName** property by using Visual Basic, you must first e
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

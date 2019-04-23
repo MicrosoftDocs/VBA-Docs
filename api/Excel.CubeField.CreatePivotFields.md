@@ -1,5 +1,5 @@
 ---
-title: CubeField.CreatePivotFields Method (Excel)
+title: CubeField.CreatePivotFields method (Excel)
 keywords: vbaxl10.chm668099
 f1_keywords:
 - vbaxl10.chm668099
@@ -8,19 +8,20 @@ api_name:
 - Excel.CubeField.CreatePivotFields
 ms.assetid: 87d868d7-8836-5a0b-a4b6-1ca3165b96e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CubeField.CreatePivotFields Method (Excel)
+# CubeField.CreatePivotFields method (Excel)
 
  The **CreatePivotFields** method enables users to apply a filter to PivotFields not yet added to the PivotTable by creating the corresponding **PivotField** object.
 
 
 ## Syntax
 
- _expression_. `CreatePivotFields`
+_expression_. `CreatePivotFields`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

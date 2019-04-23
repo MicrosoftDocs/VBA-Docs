@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTable.RowNumbers
 ms.assetid: e0e91e2a-f7b6-ef5b-8046-9e93a51395db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.RowNumbers property (Excel)
 
- **True** if row numbers are added as the first column of the specified query table. Read/write **Boolean** .
+ **True** if row numbers are added as the first column of the specified query table. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RowNumbers`
+_expression_. `RowNumbers`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Setting this property to  **True** doesn't immediately cause row numbers to appe
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **RowNumbers** property.
 
@@ -53,3 +54,4 @@ End With
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

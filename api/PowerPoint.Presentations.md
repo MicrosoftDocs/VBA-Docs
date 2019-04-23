@@ -1,5 +1,5 @@
 ---
-title: Presentations Object (PowerPoint)
+title: Presentations object (PowerPoint)
 keywords: vbapp10.chm522000
 f1_keywords:
 - vbapp10.chm522000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Presentations
 ms.assetid: 0b952edc-8628-71ef-e854-3bcefbb3bc61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentations Object (PowerPoint)
+# Presentations object (PowerPoint)
 
 A collection of all the  **[Presentation](PowerPoint.Presentation.md)** objects in Microsoft PowerPoint. Each **Presentation** object represents a presentation that's currently open in PowerPoint.
 
@@ -60,7 +61,7 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./PowerPoint.Presentations.Add.md)|
 |[CanCheckOut](./PowerPoint.Presentations.CanCheckOut.md)|
@@ -73,7 +74,7 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Presentations.Application.md)|
 |[Count](./PowerPoint.Presentations.Count.md)|
@@ -82,4 +83,6 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

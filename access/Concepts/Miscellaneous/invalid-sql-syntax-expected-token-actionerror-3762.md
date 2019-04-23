@@ -3,6 +3,7 @@ title: "Invalid SQL Syntax: expected token: ACTION. (Error 3762)"
 ms.prod: access
 ms.assetid: 73122947-9db6-f417-7e34-96bc4108bab3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,5 @@ CREATE TABLE OrderDetail (OrderId LONG CONSTRAINT fkOrdersOrderId REFERENCES Ord
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

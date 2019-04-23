@@ -1,5 +1,5 @@
 ---
-title: Shape.Picture Property (Visio)
+title: Shape.Picture property (Visio)
 keywords: vis_sdr.chm11250765
 f1_keywords:
 - vis_sdr.chm11250765
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Picture
 ms.assetid: 0ccd2df9-fd84-dee0-0d89-5b7115e418d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Picture Property (Visio)
+# Shape.Picture property (Visio)
 
 Returns a picture that represents an enhanced metafile (EMF) contained in a master, shape, selection, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -48,8 +49,8 @@ Currently, only in-process solutions can use the  **Picture** property because t
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdPicture** .
+4. Under  **Classes**, examine the class named  **StdPicture**.
     
 For details about the  **IPictureDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

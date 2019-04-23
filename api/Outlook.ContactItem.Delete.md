@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Delete Method (Outlook)
+title: ContactItem.Delete method (Outlook)
 keywords: vbaol11.chm958
 f1_keywords:
 - vbaol11.chm958
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.Delete
 ms.assetid: 229d4c37-4659-01ae-0623-3e1095b13048
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.Delete Method (Outlook)
+# ContactItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

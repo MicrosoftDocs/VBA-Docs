@@ -1,5 +1,5 @@
 ---
-title: Shape.OLEFormat Property (Word)
+title: Shape.OLEFormat property (Word)
 keywords: vbawd10.chm161481204
 f1_keywords:
 - vbawd10.chm161481204
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.OLEFormat
 ms.assetid: d558bd26-207c-c308-889e-7316f5027c7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.OLEFormat Property (Word)
+# Shape.OLEFormat property (Word)
 
 Returns an  **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified shape, inline shape, or field. Read-only.
 
 
 ## Syntax
 
- _expression_. `OLEFormat`
+_expression_. `OLEFormat`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -44,3 +45,4 @@ Next
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

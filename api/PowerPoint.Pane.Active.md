@@ -1,5 +1,5 @@
 ---
-title: Pane.Active Property (PowerPoint)
+title: Pane.Active property (PowerPoint)
 keywords: vbapp10.chm631003
 f1_keywords:
 - vbapp10.chm631003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Pane.Active
 ms.assetid: 7928a964-f775-a658-1246-88c6c07e6172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.Active Property (PowerPoint)
+# Pane.Active property (PowerPoint)
 
 Returns whether the specified pane or window is active. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_.**Active**
 
  _expression_ A variable that represents a [Pane](./PowerPoint.Pane.md) object.
 
@@ -34,7 +35,7 @@ The value returned by the  **Active** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified pane or window is inactive.|
 |**msoTrue**| The specified pane or window is active.|
@@ -64,3 +65,4 @@ End With
 
 [Pane Object](PowerPoint.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

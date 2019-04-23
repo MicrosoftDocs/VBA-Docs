@@ -1,18 +1,19 @@
 ---
-title: MsoLightRigType Enumeration (Office)
+title: MsoLightRigType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoLightRigType
 ms.assetid: 54a42ee8-a029-0580-eddc-adc305f34d0d
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoLightRigType Enumeration (Office)
+# MsoLightRigType enumeration (Office)
 
 Indicates the effects lighting for an object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -45,3 +46,4 @@ Indicates the effects lighting for an object.
 |**msoLightRigThreePoint**|13|Specifies the ThreePoint effect.|
 |**msoLightRigTwoPoint**|25|Specifies the TwoPoint effect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

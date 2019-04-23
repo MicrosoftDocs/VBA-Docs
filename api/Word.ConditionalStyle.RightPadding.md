@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.RightPadding Property (Word)
+title: ConditionalStyle.RightPadding property (Word)
 keywords: vbawd10.chm91029510
 f1_keywords:
 - vbawd10.chm91029510
@@ -8,19 +8,20 @@ api_name:
 - Word.ConditionalStyle.RightPadding
 ms.assetid: ebdaeb98-9d4b-039f-0ef0-4e0c7a611f1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConditionalStyle.RightPadding Property (Word)
+# ConditionalStyle.RightPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the right of the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the right of the contents of a single cell or all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_.**RightPadding**
 
- _expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
+_expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).RightPadding = _
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the VBA Outlook object model.
 ms.prod: outlook
 ms.assetid: 0ce0e2b8-0db5-4c49-bc21-bd7bae1bad4a
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 
@@ -143,3 +144,4 @@ This section contains documentation for the enumerations in the Outlook object m
 - [OlWindowState enumeration](Outlook.OlWindowState.md)
 - [OlxDefaultFolders enumeration](Outlook.olxdefaultfolde.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

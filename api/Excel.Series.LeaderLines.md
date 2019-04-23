@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.LeaderLines
 ms.assetid: d08a982c-8ac0-3f72-3f94-d72b3081f013
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **LeaderLines** object that represents the leader lines for the serie
 
 ## Syntax
 
- _expression_. `LeaderLines`
+_expression_. `LeaderLines`
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End With
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

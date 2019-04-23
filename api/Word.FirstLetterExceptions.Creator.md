@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Creator Property (Word)
+title: FirstLetterExceptions.Creator property (Word)
 keywords: vbawd10.chm155583465
 f1_keywords:
 - vbawd10.chm155583465
@@ -8,19 +8,20 @@ api_name:
 - Word.FirstLetterExceptions.Creator
 ms.assetid: 776e2ae5-6de8-ecaa-bd83-9698ebf04882
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FirstLetterExceptions.Creator Property (Word)
+# FirstLetterExceptions.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
+_expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [FirstLetterExceptions Collection Object](Word.firstletterexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Series.Values Property (PowerPoint)
+title: Series.Values property (PowerPoint)
 keywords: vbapp10.chm65700
 f1_keywords:
 - vbapp10.chm65700
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.Values
 ms.assetid: ff6ceb5c-e7c3-6b75-8225-d18dd3baa2b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Values Property (PowerPoint)
+# Series.Values property (PowerPoint)
 
 Returns or sets a collection of all the values in the series. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Values`
+_expression_. `Values`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -77,3 +78,4 @@ End With
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

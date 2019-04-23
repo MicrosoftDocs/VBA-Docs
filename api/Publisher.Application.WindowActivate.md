@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (Publisher)
+title: Application.WindowActivate event (Publisher)
 keywords: vbapb10.chm268435457
 f1_keywords:
 - vbapb10.chm268435457
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.WindowActivate
 ms.assetid: a7e4e396-9661-763c-8e41-dc279757af94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (Publisher)
+# Application.WindowActivate event (Publisher)
 
 Occurs when the application window is activated.
 
 
 ## Syntax
 
- _expression_. **WindowActivate**(**_Wn_**, )
+_expression_.**WindowActivate**(**_Wn_**, )
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -56,3 +57,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

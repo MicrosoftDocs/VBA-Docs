@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Characters Property (Word)
+title: DisplayUnitLabel.Characters property (Word)
 keywords: vbawd10.chm94568450
 f1_keywords:
 - vbawd10.chm94568450
@@ -8,17 +8,18 @@ api_name:
 - Word.DisplayUnitLabel.Characters
 ms.assetid: 9557eeff-306c-8f12-98c0-9a6e633b9511
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Characters Property (Word)
+# DisplayUnitLabel.Characters property (Word)
 
 Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
  _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
@@ -42,3 +43,4 @@ The  **ChartCharacters** object is not a collection.
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AlternativeText Property (Publisher)
+title: ShapeRange.AlternativeText property (Publisher)
 keywords: vbapb10.chm2293856
 f1_keywords:
 - vbapb10.chm2293856
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.AlternativeText
 ms.assetid: 94cbb99b-3b35-76bb-e269-db8295b84f2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.AlternativeText Property (Publisher)
+# ShapeRange.AlternativeText property (Publisher)
 
 Returns or sets a  **String** representing the text displayed by a Web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
 
 
 ## Syntax
 
- _expression_. **AlternativeText**
+_expression_.**AlternativeText**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -43,4 +44,4 @@ Public Sub Alternative_Text()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

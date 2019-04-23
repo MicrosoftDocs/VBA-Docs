@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 34fcc867-145d-802f-baa4-a81090ba5547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You attempted to set the  **Grid Width** or **Grid Height** beyond the permitted range. A number between 2 and 60 (inclusive) is acceptable for this field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

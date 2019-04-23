@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5938932d-f508-4b28-8e25-087d4b1a3f98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,3 +40,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.LevelingCanSplit Property (Project)](http://msdn.microsoft.com/library/493c8e67-08c1-ccf9-6887-8f7315358f67%28Office.15%29.aspx)
 [Application.LevelingCanSplit Property (Project)](http://msdn.microsoft.com/library/3c3c523d-5a5f-3b12-f411-97c95793b4c7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

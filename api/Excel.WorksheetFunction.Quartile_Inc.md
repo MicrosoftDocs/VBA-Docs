@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Quartile_Inc Method (Excel)
+title: WorksheetFunction.Quartile_Inc method (Excel)
 keywords: vbaxl10.chm137378
 f1_keywords:
 - vbaxl10.chm137378
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Quartile_Inc
 ms.assetid: 7febaae3-28f7-5bdb-0c20-f47dfd3c4227
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Quartile_Inc Method (Excel)
+# WorksheetFunction.Quartile_Inc method (Excel)
 
 Returns the quartile of a data set based on percentile values from 0..1, inclusive. Quartiles often are used in sales and survey data to divide populations into groups. For example, you can use QUARTILE_INC to find the top 25 percent of incomes in a population.
 
 
 ## Syntax
 
- _expression_. `Quartile_Inc`( `_Arg1_` , `_Arg2_` )
+_expression_. `Quartile_Inc`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

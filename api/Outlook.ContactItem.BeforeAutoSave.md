@@ -1,23 +1,24 @@
 ---
-title: ContactItem.BeforeAutoSave Event (Outlook)
+title: ContactItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAutoSave
 ms.assetid: c9fe9c4d-3c00-455c-3e89-9ac584597117
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.BeforeAutoSave Event (Outlook)
+# ContactItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 
 
 ## Syntax
 
- _expression_. `BeforeAutoSave`( `_Cancel_` , )
+_expression_. `BeforeAutoSave`( `_Cancel_` , )
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters
@@ -33,3 +34,4 @@ Occurs before the item is automatically saved by Outlook.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

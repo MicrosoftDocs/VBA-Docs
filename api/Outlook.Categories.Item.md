@@ -1,5 +1,5 @@
 ---
-title: Categories.Item Method (Outlook)
+title: Categories.Item method (Outlook)
 keywords: vbaol11.chm2436
 f1_keywords:
 - vbaol11.chm2436
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Categories.Item
 ms.assetid: 7bdf22ec-7c77-1f1f-e4fd-77bdcc0ea288
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Categories.Item Method (Outlook)
+# Categories.Item method (Outlook)
 
 Returns a  **[Category](Outlook.Category.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Categories](./Outlook.Categories.md) object.
+_expression_ A variable that represents a [Categories](Outlook.Categories.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ If the name of a category is specified in  _Index_, this method returns the firs
 
 [Categories Object](Outlook.Categories.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.XPath Property (Word)
+title: XMLMapping.XPath property (Word)
 keywords: vbawd10.chm199688198
 f1_keywords:
 - vbawd10.chm199688198
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLMapping.XPath
 ms.assetid: 131234f2-ea3c-5b67-d10d-27c08aa94101
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLMapping.XPath Property (Word)
+# XMLMapping.XPath property (Word)
 
 Returns a  **String** that represents the XPath for the XML mapping, which evaluates to the currently mapped XML node. Read-only.
 
 
 ## Syntax
 
- _expression_. `XPath`
+_expression_. `XPath`
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
@@ -57,3 +58,4 @@ End If
 
 [XMLMapping Object](Word.XMLMapping.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Image.Parent
 ms.assetid: f6fb685a-1934-a2f5-ce58-f2a9e46dc90b
-ms.date: 06/08/2017
+ms.date: 02/23/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
-[Image Object](Access.Image.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

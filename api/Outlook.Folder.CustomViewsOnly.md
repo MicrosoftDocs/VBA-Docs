@@ -1,5 +1,5 @@
 ---
-title: Folder.CustomViewsOnly Property (Outlook)
+title: Folder.CustomViewsOnly property (Outlook)
 keywords: vbaol11.chm2010
 f1_keywords:
 - vbaol11.chm2010
@@ -8,31 +8,32 @@ api_name:
 - Outlook.Folder.CustomViewsOnly
 ms.assetid: b94b60f3-acd8-a968-f333-cb6d4bae8683
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.CustomViewsOnly Property (Outlook)
+# Folder.CustomViewsOnly property (Outlook)
 
 Returns or sets a  **Boolean** that determines which views are displayed on the **View** menu for a given folder. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomViewsOnly`
+_expression_. `CustomViewsOnly`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks
 
-If set to the  **True** , only user-created views will appear on the menu.
+If set to the  **True**, only user-created views will appear on the menu.
 
-This property has an effect only on the  **View** menu. It does not affect the display of views in the Navigation Pane.
+This property has an effect only on the  **View** menu. It does not affect the display of views in the navigation pane.
 
 
 ## Example
 
-The following example prompts the user to select a view option. If the user chooses to view all views, the  **CustomViewsOnly** property is set to **False** . If the user chooses to view only custom views, the **CustomViewsOnly** property is set to **True** . Once the property is changed, the outcome of the change can be seen in the user interface.
+The following example prompts the user to select a view option. If the user chooses to view all views, the  **CustomViewsOnly** property is set to **False**. If the user chooses to view only custom views, the **CustomViewsOnly** property is set to **True**. Once the property is changed, the outcome of the change can be seen in the user interface.
 
 
 ```vb
@@ -105,3 +106,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

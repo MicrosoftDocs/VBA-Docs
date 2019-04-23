@@ -1,5 +1,5 @@
 ---
-title: Effect.Parent Property (PowerPoint)
+title: Effect.Parent property (PowerPoint)
 keywords: vbapp10.chm652002
 f1_keywords:
 - vbapp10.chm652002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Effect.Parent
 ms.assetid: 254fa25b-ef29-c2fe-313d-daadba3e8db4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect.Parent Property (PowerPoint)
+# Effect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End With
 
 [Effect Object](PowerPoint.Effect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ClearCustomToolbars Method (Visio)
+title: Application.ClearCustomToolbars method (Visio)
 keywords: vis_sdr.chm10016115
 f1_keywords:
 - vis_sdr.chm10016115
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.ClearCustomToolbars
 ms.assetid: fa9ad39a-2765-b172-a7ad-140f9bb845b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ClearCustomToolbars Method (Visio)
+# Application.ClearCustomToolbars method (Visio)
 
 Restores the built-in Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `ClearCustomToolbars`
+_expression_. `ClearCustomToolbars`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -52,4 +53,4 @@ Public Sub ClearCustomToolbars_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

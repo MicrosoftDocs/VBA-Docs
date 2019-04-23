@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.StartingNumber Property (Word)
+title: LineNumbering.StartingNumber property (Word)
 keywords: vbawd10.chm158466149
 f1_keywords:
 - vbawd10.chm158466149
@@ -8,19 +8,20 @@ api_name:
 - Word.LineNumbering.StartingNumber
 ms.assetid: 115d4c0a-d895-a404-84bb-7ffe17706a98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineNumbering.StartingNumber Property (Word)
+# LineNumbering.StartingNumber property (Word)
 
-Returns or sets the starting line number. Read/write  **Long** .
+Returns or sets the starting line number. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `StartingNumber`
+_expression_. `StartingNumber`
 
- _expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
+_expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 
 
 ## Remarks
@@ -78,3 +79,4 @@ End With
 
 [LineNumbering Object](Word.LineNumbering.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

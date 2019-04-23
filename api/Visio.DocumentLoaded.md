@@ -5,6 +5,7 @@ api_name:
 - Visio.DocumentLoaded
 ms.assetid: 2d7c86fa-a154-dd8f-3a8c-6c433103d6a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets a value that indicates whether a document is loaded in Microsoft Visio View
 
 ## Syntax
 
- _expression_. **DocumentLoaded**
+_expression_.**DocumentLoaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code gets a value that indicates whether a document is loaded in V
 Debug.Print vsoViewer.DocumentLoaded
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

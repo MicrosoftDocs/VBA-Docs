@@ -1,22 +1,23 @@
 ---
-title: Broadcast.End Method (Word)
+title: Broadcast.End method (Word)
 keywords: vbawd10.chm36438120
 f1_keywords:
 - vbawd10.chm36438120
 ms.prod: word
 ms.assetid: dca52c1c-c337-f9ee-6c82-ef05da5cdf45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Broadcast.End Method (Word)
+# Broadcast.End method (Word)
 
 Ends the specified broadcast session.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
  _expression_ A variable that represents a 'Broadcast' object.
 
@@ -38,4 +39,4 @@ If the document is not being broadcast, the method returns runtime error 4702.
 
 [Broadcast Object](Word.broadcast.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

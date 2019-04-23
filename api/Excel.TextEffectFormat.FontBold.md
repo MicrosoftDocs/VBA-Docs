@@ -8,19 +8,20 @@ api_name:
 - Excel.TextEffectFormat.FontBold
 ms.assetid: 19773cce-32d3-b07f-4650-5a19a4aa469a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextEffectFormat.FontBold property (Excel)
 
- **True** if the font in the specified WordArt is bold. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
+ **True** if the font in the specified WordArt is bold. Read/write **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
 
- _expression_. `FontBold`
+_expression_.**FontBold**
 
- _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -38,7 +39,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example sets the font to bold for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font to bold for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveView Property (Publisher)
+title: Document.ActiveView property (Publisher)
 keywords: vbapb10.chm196707
 f1_keywords:
 - vbapb10.chm196707
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ActiveView
 ms.assetid: 1448c8c6-30e5-2e2a-f124-ebf544d8f297
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ActiveView Property (Publisher)
+# Document.ActiveView property (Publisher)
 
 Returns a  **[View](Publisher.View.md)** object representing the view attributes for the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. **ActiveView**
+_expression_.**ActiveView**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -44,4 +45,4 @@ Sub SetActiveZoom()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

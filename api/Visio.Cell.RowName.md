@@ -1,5 +1,5 @@
 ---
-title: Cell.RowName Property (Visio)
+title: Cell.RowName property (Visio)
 keywords: vis_sdr.chm10114260
 f1_keywords:
 - vis_sdr.chm10114260
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.RowName
 ms.assetid: 4f5f57f9-c147-5991-c3f0-2caad2993d77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.RowName Property (Visio)
+# Cell.RowName property (Visio)
 
 Gets or sets the name of the row that contains the  **Cell** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `RowName`
+_expression_. `RowName`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -41,4 +42,4 @@ When you change a row name, any cell objects referring to cells in that row beco
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **RowName** property to get or set an object's local row name. Use the **RowNameU** property to get or set an object's universal row name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

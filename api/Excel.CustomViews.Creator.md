@@ -8,19 +8,20 @@ api_name:
 - Excel.CustomViews.Creator
 ms.assetid: c0d96d50-e126-09cc-3660-e2f0dc1fb566
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # CustomViews.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [CustomViews](Excel.CustomViews.md) object.
+_expression_ A variable that represents a **[CustomViews](Excel.CustomViews.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [CustomViews Object](Excel.CustomViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

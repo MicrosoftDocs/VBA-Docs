@@ -3,6 +3,7 @@ title: Invalid event name
 ms.prod: office
 ms.assetid: 1d11c27f-fb53-44aa-98b4-1b72365ad15b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Since an event procedure names are constructed by joining the object name to the
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

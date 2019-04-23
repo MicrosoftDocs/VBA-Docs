@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ecf72f77-585b-c493-bcc4-35eb4f11e62a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Group Option Buttons
+# Group Option Buttons
 
 The following example uses the  **[GroupName](../../../api/Outlook.optionbutton.groupname.md)** property to create two groups of **[OptionButton](../../../api/Outlook.optionbutton.md)** controls on the same form.
 
@@ -39,4 +40,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdCountry Enumeration (Word)
+title: WdCountry enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCountry
 ms.assetid: 04161e7e-bc11-0fc4-5778-6dc933324d7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCountry Enumeration (Word)
+# WdCountry enumeration (Word)
 
 Specifies the country/region setting of the current system.
 
@@ -41,3 +42,4 @@ Specifies the country/region setting of the current system.
 | **wdUS**|1|United States|
 | **wdVenezuela**|58|Venezuela|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

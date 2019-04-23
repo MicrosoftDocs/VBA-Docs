@@ -1,15 +1,16 @@
 ---
-title: VisUICmds Enumeration (Visio)
+title: VisUICmds enumeration (Visio)
 keywords: vis_sdr.chm70175
 f1_keywords:
 - vis_sdr.chm70175
 ms.prod: visio
 ms.assetid: b956d178-eb19-5b64-189f-8bc774860758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisUICmds Enumeration (Visio)
+# VisUICmds enumeration (Visio)
 
 UI command ID constants, to be used in conjunction with the  **CmdNum** property of various objects. These constants also correspond to scope IDs passed with the **EnterScope** and **ExitScope** events, and to command ranges passed to the **Event.GetFilterCommands** and **Event.SetFilterCommands** methods, as well as to commands passed to the **Application.DoCmd** method.
 
@@ -697,3 +698,4 @@ UI command ID constants, to be used in conjunction with the  **CmdNum** property
 | **visCmdZoomPt**|1215|
 | **visCmdZoomSingleTile**|1512|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.StoreInFolder
 ms.assetid: ed0cf76a-a68d-cfa7-538c-91df5234a0d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether supporting files for the Web page to be created are placed in
 
 ## Syntax
 
- _expression_. **StoreInFolder**
+_expression_.**StoreInFolder**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -62,4 +63,4 @@ Public Sub StoreInFolder_Example()
  End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

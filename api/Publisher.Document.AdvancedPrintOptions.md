@@ -1,5 +1,5 @@
 ---
-title: Document.AdvancedPrintOptions Property (Publisher)
+title: Document.AdvancedPrintOptions property (Publisher)
 keywords: vbapb10.chm196713
 f1_keywords:
 - vbapb10.chm196713
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.AdvancedPrintOptions
 ms.assetid: 33c075e0-f813-9bb4-e199-96e5e9ed4ba8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.AdvancedPrintOptions Property (Publisher)
+# Document.AdvancedPrintOptions property (Publisher)
 
 Returns an  **[AdvancedPrintOptions](Publisher.AdvancedPrintOptions.md)** object that represents the advanced print settings for a publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **AdvancedPrintOptions**
+_expression_.**AdvancedPrintOptions**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -49,4 +50,4 @@ Sub PrintOnlyInksUsed
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

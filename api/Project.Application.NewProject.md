@@ -1,21 +1,22 @@
 ---
-title: Application.NewProject Event (Project)
+title: Application.NewProject event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.NewProject
 ms.assetid: de3c9e06-405a-8f63-6210-013f5d292c20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.NewProject Event (Project)
+# Application.NewProject event (Project)
 
 Occurs when a new project is created, including the default project that is created each time Project starts.
 
 
 ## Syntax
 
- _expression_. `NewProject`( ` _pj_`, )
+_expression_. `NewProject`( `_pj_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -44,4 +45,4 @@ Private Sub App_NewProject(ByVal pj As MSProject.Project)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

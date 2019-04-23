@@ -1,5 +1,5 @@
 ---
-title: WebOptionButton.ReturnDataLabel Property (Publisher)
+title: WebOptionButton.ReturnDataLabel property (Publisher)
 keywords: vbapb10.chm4259843
 f1_keywords:
 - vbapb10.chm4259843
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebOptionButton.ReturnDataLabel
 ms.assetid: 22b4a4d6-1068-2b35-d054-42bbea3f9098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptionButton.ReturnDataLabel Property (Publisher)
+# WebOptionButton.ReturnDataLabel property (Publisher)
 
 Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
 
 
 ## Syntax
 
- _expression_. **ReturnDataLabel**
+_expression_.**ReturnDataLabel**
 
  _expression_ A variable that represents a  **WebOptionButton** object.
 
@@ -41,4 +42,4 @@ Sub LabelWebTextBoxControl()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

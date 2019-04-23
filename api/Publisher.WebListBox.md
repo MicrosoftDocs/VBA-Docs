@@ -1,5 +1,5 @@
 ---
-title: WebListBox Object (Publisher)
+title: WebListBox object (Publisher)
 keywords: vbapb10.chm4128767
 f1_keywords:
 - vbapb10.chm4128767
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebListBox
 ms.assetid: 0ba881f8-95cf-c536-7fa8-05714348577d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebListBox Object (Publisher)
+# WebListBox object (Publisher)
 
 Represents a Web list box control. The  **WebListBox** object is a member of the **Shape** object.
  
@@ -60,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebListBox.Application.md)|
 |[ListBoxItems](Publisher.WebListBox.ListBoxItems.md)|
@@ -68,3 +69,4 @@ End Sub
 |[Parent](Publisher.WebListBox.Parent.md)|
 |[ReturnDataLabel](Publisher.WebListBox.ReturnDataLabel.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Pane Object (Word)
+title: Pane object (Word)
 keywords: vbawd10.chm2400
 f1_keywords:
 - vbawd10.chm2400
@@ -8,10 +8,11 @@ api_name:
 - Word.Pane
 ms.assetid: 4a0c2690-d9d2-4e34-fef4-cc41365f5251
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane Object (Word)
+# Pane object (Word)
 
 Represents a window pane. The  **Pane** object is a member of the **Panes** collection. The **[Panes](Word.panes.md)** collection includes all the window panes for a single window.
 
@@ -66,6 +67,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

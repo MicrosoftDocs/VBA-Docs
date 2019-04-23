@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Parent Property (Publisher)
+title: MailMergeDataSource.Parent property (Publisher)
 keywords: vbapb10.chm6291458
 f1_keywords:
 - vbapb10.chm6291458
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.Parent
 ms.assetid: e3e421ad-7c13-7b1a-363b-8e0fb659cb4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Parent Property (Publisher)
+# MailMergeDataSource.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

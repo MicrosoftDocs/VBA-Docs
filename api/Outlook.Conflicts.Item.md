@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Item Method (Outlook)
+title: Conflicts.Item method (Outlook)
 keywords: vbaol11.chm405
 f1_keywords:
 - vbaol11.chm405
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conflicts.Item
 ms.assetid: efd74c23-31fb-1a3c-aebc-27ce22f1c3bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conflicts.Item Method (Outlook)
+# Conflicts.Item method (Outlook)
 
 Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
+_expression_ A variable that represents a [Conflicts](Outlook.Conflicts.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ A  **Conflict** object that represents the specified object.
 
 [Conflicts Object](Outlook.Conflicts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

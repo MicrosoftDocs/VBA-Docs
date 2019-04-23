@@ -1,5 +1,5 @@
 ---
-title: TabStops.Application Property (Publisher)
+title: TabStops.Application property (Publisher)
 keywords: vbapb10.chm5570561
 f1_keywords:
 - vbapb10.chm5570561
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TabStops.Application
 ms.assetid: 2b972ae8-f69b-1f3d-fafc-4fc4c96a0f8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Application Property (Publisher)
+# TabStops.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **TabStops** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

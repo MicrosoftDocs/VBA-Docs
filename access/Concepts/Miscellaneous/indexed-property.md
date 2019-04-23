@@ -9,6 +9,7 @@ api_name:
 - Access.Indexed
 ms.assetid: d410da7f-eb9d-5e03-06fa-b5756da357f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,7 +23,7 @@ You can use the **Indexed** property to set a single-field index. An index speed
 
 The **Indexed** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |No|(Default) No index.|
 |Yes (Duplicates OK)|The index allows duplicates.|
@@ -59,3 +60,5 @@ If you want to create multiple-field indexes, use the Indexes window.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

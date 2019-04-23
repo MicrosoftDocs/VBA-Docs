@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListType Property (Word)
+title: ListFormat.ListType property (Word)
 keywords: vbawd10.chm163577930
 f1_keywords:
 - vbawd10.chm163577930
@@ -8,19 +8,20 @@ api_name:
 - Word.ListFormat.ListType
 ms.assetid: 6a6cf33b-d1a7-25f8-2fe0-ab98760c424e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ListType Property (Word)
+# ListFormat.ListType property (Word)
 
-Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType** .
+Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType**.
 
 
 ## Syntax
 
- _expression_. `ListType`
+_expression_. `ListType`
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End If
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

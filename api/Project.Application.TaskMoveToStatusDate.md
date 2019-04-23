@@ -1,5 +1,5 @@
 ---
-title: Application.TaskMoveToStatusDate Method (Project)
+title: Application.TaskMoveToStatusDate method (Project)
 keywords: vbapj.chm2290
 f1_keywords:
 - vbapj.chm2290
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TaskMoveToStatusDate
 ms.assetid: 100ec970-ca52-2ac8-f367-c346c40e4c61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TaskMoveToStatusDate Method (Project)
+# Application.TaskMoveToStatusDate method (Project)
 
 Moves completed or incomplete parts of one or more selected tasks to the status date. 
 
 
 ## Syntax
 
- _expression_. `TaskMoveToStatusDate`( ` _MoveCompleted_`, ` _MoveIncomplete_` )
+_expression_. `TaskMoveToStatusDate`( `_MoveCompleted_`, `_MoveIncomplete_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -30,7 +31,7 @@ Moves completed or incomplete parts of one or more selected tasks to the status 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveCompleted_|Optional|**Boolean**|**True** if the completed parts of tasks are moved to the status date; otherwise, **False**. The default is **False**.|
-| _MoveIncomplete_|Optional|**Boolean**|**True** if the incomple parts of tasks are moved to the status date; otherwise, **False**. The default is **True**.|
+| _MoveIncomplete_|Optional|**Boolean**|**True** if the incomplete parts of tasks are moved to the status date; otherwise, **False**. The default is **True**.|
 
 ## Return value
 
@@ -45,4 +46,4 @@ If both the  _MoveCompleted_ and _MoveIncomplete_ arguments are **False**, **Tas
 
 The  **TaskMoveToStatusDate** method corresponds to the **Incomplete Parts to Status Date** or **Completed Parts to Status Date** commands in the **Move Task** drop-down menu on the **TASK** ribbon. The **[TaskMove](Project.Application.TaskMove.md)** method corresponds to other commands on the **Move Task** drop-down menu.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

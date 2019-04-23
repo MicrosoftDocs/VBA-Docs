@@ -1,5 +1,5 @@
 ---
-title: Story.HasTable Property (Publisher)
+title: Story.HasTable property (Publisher)
 keywords: vbapb10.chm5832707
 f1_keywords:
 - vbapb10.chm5832707
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Story.HasTable
 ms.assetid: bc4912e2-f521-c6b5-b5a6-a49952014966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Story.HasTable Property (Publisher)
+# Story.HasTable property (Publisher)
 
 Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasTable**
+_expression_.**HasTable**
 
  _expression_ A variable that represents a  **Story** object.
 
@@ -40,4 +41,4 @@ Sub IsTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.Sync Property (Visio)
+title: Document.Sync property (Visio)
 keywords: vis_sdr.chm10560137
 f1_keywords:
 - vis_sdr.chm10560137
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Sync
 ms.assetid: 1e5ef6da-a665-024f-5e35-e8518f4d1054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Sync Property (Visio)
+# Document.Sync property (Visio)
 
 Returns a Microsoft Office  **Sync** object that provides information about the status of the active document in a shared workspace and the ability to perform a set of actions. Read-only.
 
 
 ## Syntax
 
- _expression_. `Sync`
+_expression_. `Sync`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -60,4 +61,4 @@ Public Sub Sync_Example
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

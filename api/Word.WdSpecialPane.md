@@ -1,14 +1,15 @@
 ---
-title: WdSpecialPane Enumeration (Word)
+title: WdSpecialPane enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSpecialPane
 ms.assetid: bd1a3500-775d-04fc-218d-c7a47dde8b2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSpecialPane Enumeration (Word)
+# WdSpecialPane enumeration (Word)
 
 Specifies an item to display in the active window pane.
 
@@ -38,3 +39,4 @@ Specifies an item to display in the active window pane.
 | **wdPaneRevisionsHoriz**|19|The revisions pane displays along the bottom of the document window.|
 | **wdPaneRevisionsVert**|20|The revisions pane displays along the left side of the document window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

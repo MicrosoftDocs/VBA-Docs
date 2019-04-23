@@ -1,32 +1,27 @@
 ---
-title: MultiSelect, Selected Properties Example
+title: MultiSelect, Selected properties example
 keywords: fm20.chm5225122
 f1_keywords:
 - fm20.chm5225122
 ms.prod: office
 ms.assetid: 643b50df-51b2-bf19-7f18-4429a3f363f2
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# MultiSelect, Selected Properties Example
+# MultiSelect, Selected properties example
 
-The following example uses the  **MultiSelect** and **Selected** properties to demonstate how the user can select one or more items in a **ListBox**. The user specifies a selection method by choosing an option button and then selects an item(s) from the **ListBox**. The user can display the selected items in a second **ListBox** by clicking the **CommandButton**.
+The following example uses the **[MultiSelect](multiselect-property-microsoft-forms.md)** and **[Selected](selected-property.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](listbox-control.md)**. 
+
+The user specifies a selection method by choosing an option button, and then selects an item(s) from the **ListBox**. The user can display the selected items in a second **ListBox** by clicking the **[CommandButton](commandbutton-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **ListBox** controls named ListBox1 and ListBox2.
+- Two **ListBox** controls named ListBox1 and ListBox2.   
+- A **CommandButton** named CommandButton1.   
+- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
     
-- A  **CommandButton** named CommandButton1.
-    
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
-    
-
-
-
 
 ```vb
 Dim i As Integer 
@@ -71,4 +66,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTables.Creator
 ms.assetid: 7af2b706-9464-765b-2653-f275ab485fe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTables.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [PivotTables](Excel.PivotTables.md) object.
+_expression_ A variable that represents a [PivotTables](Excel.PivotTables.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotTables Object](Excel.PivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

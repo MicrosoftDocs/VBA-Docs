@@ -1,21 +1,22 @@
 ---
-title: TaskDependencies.Add Method (Project)
+title: TaskDependencies.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Add
 ms.assetid: 37e67ab2-ca7b-26c2-50e7-8a933b746489
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskDependencies.Add Method (Project)
+# TaskDependencies.Add method (Project)
 
 Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _From_`, ` _Type_`, ` _Lag_` )
+_expression_.**Add**( `_From_`, `_Type_`, `_Lag_` )
 
  _expression_ A variable that represents a 'TaskDependencies' object.
 
@@ -39,3 +40,5 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 
 
 [TaskDependencies Collection Object](Project.taskdependencies.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

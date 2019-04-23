@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.AllowBleeds Property (Publisher)
+title: AdvancedPrintOptions.AllowBleeds property (Publisher)
 keywords: vbapb10.chm7077906
 f1_keywords:
 - vbapb10.chm7077906
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.AllowBleeds
 ms.assetid: 0c12a611-4e1e-468b-ada2-f07d01fd4445
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.AllowBleeds Property (Publisher)
+# AdvancedPrintOptions.AllowBleeds property (Publisher)
 
  **True** to allow bleeds to print for the specified publication. The default is **True**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AllowBleeds**
+_expression_.**AllowBleeds**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
@@ -57,3 +58,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

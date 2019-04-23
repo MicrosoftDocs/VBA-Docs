@@ -1,5 +1,5 @@
 ---
-title: Application.ReportPrint Method (Project)
+title: Application.ReportPrint method (Project)
 keywords: vbapj.chm110
 f1_keywords:
 - vbapj.chm110
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ReportPrint
 ms.assetid: 4117b555-2985-f129-65aa-9f6804ebf221
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ReportPrint Method (Project)
+# Application.ReportPrint method (Project)
 
 Deprecated in Project. Prints a report.
 
 
 ## Syntax
 
- _expression_. `ReportPrint`( ` _Name_`, ` _FromPage_`, ` _ToPage_`, ` _PageBreaks_`, ` _Draft_`, ` _Copies_`, ` _FromDate_`, ` _ToDate_`, ` _Preview_`, ` _Color_` )
+_expression_. `ReportPrint`( `_Name_`, `_FromPage_`, `_ToPage_`, `_PageBreaks_`, `_Draft_`, `_Copies_`, `_FromDate_`, `_ToDate_`, `_Preview_`, `_Color_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -63,4 +64,4 @@ Sub ConsolidatedReport()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionKeyLength Property (Word)
+title: Document.PasswordEncryptionKeyLength property (Word)
 keywords: vbawd10.chm158007665
 f1_keywords:
 - vbawd10.chm158007665
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.PasswordEncryptionKeyLength
 ms.assetid: 3144a2e8-f787-e38e-4322-66c6e6ac7523
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PasswordEncryptionKeyLength Property (Word)
+# Document.PasswordEncryptionKeyLength property (Word)
 
 Returns a  **Long** indicating the key length of the algorithm Microsoft Word uses when encrypting documents with passwords. Read-only.
 
 
 ## Syntax
 
- _expression_. `PasswordEncryptionKeyLength`
+_expression_. `PasswordEncryptionKeyLength`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

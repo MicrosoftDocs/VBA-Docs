@@ -1,5 +1,5 @@
 ---
-title: Document.IsDataSourceConnected Property (Publisher)
+title: Document.IsDataSourceConnected property (Publisher)
 keywords: vbapb10.chm196722
 f1_keywords:
 - vbapb10.chm196722
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.IsDataSourceConnected
 ms.assetid: b62422ab-12f7-1151-d8d1-1cb32de18160
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.IsDataSourceConnected Property (Publisher)
+# Document.IsDataSourceConnected property (Publisher)
 
  **True** if the specified publication is connected to a data source. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsDataSourceConnected**
+_expression_.**IsDataSourceConnected**
 
  _expression_ A variable that represents an  **Document** object.
 
@@ -53,4 +54,4 @@ Dim strDataSourceTable As String
  End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

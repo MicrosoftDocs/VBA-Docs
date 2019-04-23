@@ -1,5 +1,5 @@
 ---
-title: RotationEffect Object (PowerPoint)
+title: RotationEffect object (PowerPoint)
 keywords: vbapp10.chm661000
 f1_keywords:
 - vbapp10.chm661000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.RotationEffect
 ms.assetid: d0fc5520-dbbd-a44a-b811-51fd299c4587
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RotationEffect Object (PowerPoint)
+# RotationEffect object (PowerPoint)
 
 Represents a rotation effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 
@@ -59,3 +60,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

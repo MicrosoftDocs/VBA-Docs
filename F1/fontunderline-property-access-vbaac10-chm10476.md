@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4a322970-8b5d-4142-b3ee-b924b35a1c73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.FontUnderline property (Access)](http://msdn.microsoft.com/library/e5839cc1-d600-d46b-0433-d50aaadd79ca%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

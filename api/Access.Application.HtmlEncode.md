@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Application.HtmlEncode
 ms.assetid: 294a99f1-9b26-c9ee-0560-8bd54287ebb7
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,12 @@ Converts a string to an HTML-encoded string.
 
 ## Syntax
 
-_expression_. `HtmlEncode`( ` _PlainText_`, ` _Length_` )
+_expression_.**HtmlEncode** (_PlainText_, _Length_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,8 +36,6 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 String
 
 
-## See also
 
 
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

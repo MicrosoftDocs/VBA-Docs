@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 83778da5-1c09-1465-f651-88eb00179da3
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'Queries' object.
+_expression_ A variable that represents a 'Queries' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,4 +42,4 @@ End If
 
 [Queries Object](Excel.queries.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

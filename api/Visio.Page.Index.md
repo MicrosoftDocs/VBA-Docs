@@ -1,5 +1,5 @@
 ---
-title: Page.Index Property (Visio)
+title: Page.Index property (Visio)
 keywords: vis_sdr.chm10913695
 f1_keywords:
 - vis_sdr.chm10913695
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Index
 ms.assetid: 00bc8738-ad54-a5ae-a6aa-bfb762ee0fa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Index Property (Visio)
+# Page.Index property (Visio)
 
 Gets or sets the ordinal position of a page in a  **Pages** collection. Read/write.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -38,4 +39,4 @@ You may only assign a new index to a foreground page. Background pages are unord
 
 Use the  **BackPage** property to assign a background page to a foreground page or to another background page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

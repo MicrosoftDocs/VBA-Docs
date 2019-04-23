@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectionSite Property (Publisher)
+title: ConnectorFormat.BeginConnectionSite property (Publisher)
 keywords: vbapb10.chm3211522
 f1_keywords:
 - vbapb10.chm3211522
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.BeginConnectionSite
 ms.assetid: 24a9246e-270f-7289-971d-8763acfaf02d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnectionSite Property (Publisher)
+# ConnectorFormat.BeginConnectionSite property (Publisher)
 
 Returns a  **Long** indicating the connection site to which the beginning of a connector is connected. Read-only.
 
 
 ## Syntax
 
- _expression_. **BeginConnectionSite**
+_expression_.**BeginConnectionSite**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -73,4 +74,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

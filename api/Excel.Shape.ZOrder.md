@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrder Method (Excel)
+title: Shape.ZOrder method (Excel)
 keywords: vbaxl10.chm636088
 f1_keywords:
 - vbaxl10.chm636088
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shape.ZOrder
 ms.assetid: e2eede8f-6e8f-2219-2cb2-47db93e9f90a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ZOrder Method (Excel)
+# Shape.ZOrder method (Excel)
 
 Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 
 
 ## Syntax
 
- _expression_. `ZOrder`( `_ZOrderCmd_` )
+_expression_.**ZOrder** (_ZOrderCmd_)
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ZOrderCmd_|Required| **[MsoZOrderCmd](./Office.MsoZOrderCmd.md)**|Specifies where to move the specified shape relative to the other shapes.|
+| _ZOrderCmd_|Required| **[MsoZOrderCmd](Office.MsoZOrderCmd.md)**|Specifies where to move the specified shape relative to the other shapes.|
 
 ## Remarks
 
@@ -37,10 +38,10 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 | **MsoZOrderCmd** can be one of these **MsoZOrderCmd** constants.|
 | **msoBringForward**|
-| **msoBringInFrontOfText** . Used only in Microsoft Word.|
+| **msoBringInFrontOfText**. Used only in Microsoft Word.|
 | **msoBringToFront**|
 | **msoSendBackward**|
-| **msoSendBehindText** . Used only in Microsoft Word.|
+| **msoSendBehindText**. Used only in Microsoft Word.|
 | **msoSendToBack**|
 
 Use the  **[ZOrderPosition](Excel.Shape.ZOrderPosition.md)** property to determine a shape's current position in the z-order.
@@ -48,7 +49,7 @@ Use the  **[ZOrderPosition](Excel.Shape.ZOrderPosition.md)** property to determi
 
 ## Example
 
-This example adds an oval to  `myDocument` and then places the oval second from the back in the z-order if there is at least one other shape on the document.
+This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the document.
 
 
 ```vb
@@ -66,3 +67,4 @@ End With
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 1f95e7a1-ed82-b904-dfd9-4e2c2f3df5ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You are trying to synchronize with a partner replica that is not being managed b
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

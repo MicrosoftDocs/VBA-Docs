@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 38f3adab-0faf-4677-8e11-5cb354ec7f98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.TabStop property (Access)](http://msdn.microsoft.com/library/615492c6-d953-3c0d-21c4-b9f233743aa6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

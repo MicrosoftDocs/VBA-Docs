@@ -1,21 +1,22 @@
 ---
-title: Profile.UserName Property (Project)
+title: Profile.UserName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile.UserName
 ms.assetid: 8af2fe46-7218-39be-efd0-c7dd91f25ac7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Profile.UserName Property (Project)
+# Profile.UserName property (Project)
 
 Gets or sets the logon name of the current account profile. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `UserName`
+_expression_. `UserName`
 
  _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
@@ -35,4 +36,4 @@ Debug.Print Profiles(2).UserName
 Debug.Print UserName
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

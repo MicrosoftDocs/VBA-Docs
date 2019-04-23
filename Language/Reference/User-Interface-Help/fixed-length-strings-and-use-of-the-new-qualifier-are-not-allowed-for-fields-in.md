@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 52458cdf-f2ff-9d66-cb2e-1f6f98e78548
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ This error has the following cause and solution:
 
 
 - Fixed-length strings and the use of the 'new' qualifier are not allowed for fields in a public user defined type defined in an object module.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

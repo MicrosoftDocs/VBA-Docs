@@ -1,5 +1,5 @@
 ---
-title: Effect.Behaviors Property (PowerPoint)
+title: Effect.Behaviors property (PowerPoint)
 keywords: vbapp10.chm652017
 f1_keywords:
 - vbapp10.chm652017
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Effect.Behaviors
 ms.assetid: e5335758-2f92-ccbc-a665-b6d5947e79f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect.Behaviors Property (PowerPoint)
+# Effect.Behaviors property (PowerPoint)
 
 Returns a specified slide animation behavior as an  **[AnimationBehaviors](PowerPoint.AnimationBehaviors.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Behaviors`
+_expression_. `Behaviors`
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End Sub
 
 [Effect Object](PowerPoint.Effect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

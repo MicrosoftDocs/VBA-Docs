@@ -1,5 +1,5 @@
 ---
-title: TableView.Reset Method (Outlook)
+title: TableView.Reset method (Outlook)
 keywords: vbaol11.chm2506
 f1_keywords:
 - vbaol11.chm2506
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.Reset
 ms.assetid: bb164b86-804c-8b4f-4dd7-505d400e8b08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.Reset Method (Outlook)
+# TableView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks
@@ -81,3 +82,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

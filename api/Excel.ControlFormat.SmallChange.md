@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.SmallChange
 ms.assetid: 5c2c668a-3d4d-ac01-e08b-0db6278ddffd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.SmallChange property (Excel)
 
-Returns or sets the amount that the scroll bar or spinner is incremented or decremented for a line scroll (when the user clicks an arrow). Read/write  **Long** .
+Returns or sets the amount that the scroll bar or spinner is incremented or decremented for a line scroll (when the user clicks an arrow). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SmallChange`
+_expression_. `SmallChange`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

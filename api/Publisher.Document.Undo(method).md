@@ -1,5 +1,5 @@
 ---
-title: Document.Undo Method (Publisher)
+title: Document.Undo method (Publisher)
 keywords: vbapb10.chm196704
 f1_keywords:
 - vbapb10.chm196704
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Undo
 ms.assetid: 8cfd09a0-8a0d-2870-f833-a35ff1fc21b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Undo Method (Publisher)
+# Document.Undo method (Publisher)
 
 Undoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar.
 
 
 ## Syntax
 
- _expression_. **Undo**(**_Count_**)
+_expression_.**Undo**(**_Count_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -86,4 +87,4 @@ With theDoc
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

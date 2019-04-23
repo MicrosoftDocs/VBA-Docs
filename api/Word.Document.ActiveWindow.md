@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveWindow Property (Word)
+title: Document.ActiveWindow property (Word)
 keywords: vbawd10.chm158007338
 f1_keywords:
 - vbawd10.chm158007338
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ActiveWindow
 ms.assetid: 707fe9e8-16de-c4aa-a0f7-6a4570d16cdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ActiveWindow Property (Word)
+# Document.ActiveWindow property (Word)
 
 Returns a  **[Window](Word.Window.md)** object that represents the active window (the window with the focus). Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveWindow`
+_expression_. `ActiveWindow`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -70,3 +71,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

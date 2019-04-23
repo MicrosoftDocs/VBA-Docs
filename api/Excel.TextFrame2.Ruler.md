@@ -5,6 +5,7 @@ api_name:
 - Excel.TextFrame2.Ruler
 ms.assetid: c5bcd6ec-6135-5589-c3b5-643e50273144
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
 ## Syntax
 
- _expression_. `Ruler`
+_expression_. `Ruler`
 
- _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](Excel.TextFrame2.md) object.
 
 
 ## See also
@@ -25,3 +26,4 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
 [TextFrame2 Object](Excel.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

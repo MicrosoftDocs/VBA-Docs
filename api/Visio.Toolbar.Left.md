@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Left Property (Visio)
+title: Toolbar.Left property (Visio)
 keywords: vis_sdr.chm13713825
 f1_keywords:
 - vis_sdr.chm13713825
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Left
 ms.assetid: 2929fef2-0855-dae1-9c60-0208d1de4dee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Left Property (Visio)
+# Toolbar.Left property (Visio)
 
 Gets the distance in pixels between the left edge of the object and the left side of the docking area. Sets the distance in pixels between the left edge of an object and the left edge of the screen. Read/write.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_.**Left**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -101,4 +102,4 @@ Sub Left_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

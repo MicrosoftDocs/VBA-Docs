@@ -6,19 +6,20 @@ f1_keywords:
 ms.assetid: 82f16ccb-6f50-273e-5ed4-e16db1262ecc
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
 # ModelFormatWholeNumber.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a 'ModelFormatWholeNumber' object.
+_expression_ A variable that represents a 'ModelFormatWholeNumber' object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ModelFormatWholeNumber Object](Excel.modelformatwholenumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

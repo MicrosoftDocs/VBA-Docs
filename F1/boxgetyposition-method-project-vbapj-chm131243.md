@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4f48acfb-be7b-4f40-938d-72df42891ee2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.OutlineOutdent Method (Project)](http://msdn.microsoft.com/library/fb7af00b-f802-5991-9cd6-35ba3dc6bcc5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

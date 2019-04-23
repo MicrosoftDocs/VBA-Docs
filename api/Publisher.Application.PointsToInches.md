@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToInches Method (Publisher)
+title: Application.PointsToInches method (Publisher)
 keywords: vbapb10.chm131157
 f1_keywords:
 - vbapb10.chm131157
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.PointsToInches
 ms.assetid: 58bfd9ce-dee7-0a14-8ec1-7e16a5e967d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PointsToInches Method (Publisher)
+# Application.PointsToInches method (Publisher)
 
 Converts a measurement from points to inches (1 in = 72 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PointsToInches**(**_Value_**)
+_expression_.**PointsToInches**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -76,3 +77,4 @@ Loop
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

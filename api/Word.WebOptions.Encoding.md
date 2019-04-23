@@ -1,5 +1,5 @@
 ---
-title: WebOptions.Encoding Property (Word)
+title: WebOptions.Encoding property (Word)
 keywords: vbawd10.chm165937162
 f1_keywords:
 - vbawd10.chm165937162
@@ -8,19 +8,20 @@ api_name:
 - Word.WebOptions.Encoding
 ms.assetid: 4156a3cc-744f-5a62-5961-a26e0e155567
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.Encoding Property (Word)
+# WebOptions.Encoding property (Word)
 
-Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write  **MsoEncoding** .
+Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write  **MsoEncoding**.
 
 
 ## Syntax
 
- _expression_. `Encoding`
+_expression_. `Encoding`
 
- _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Example
@@ -45,3 +46,4 @@ End If
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

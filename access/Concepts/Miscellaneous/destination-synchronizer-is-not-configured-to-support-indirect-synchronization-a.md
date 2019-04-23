@@ -3,6 +3,7 @@ title: Destination synchronizer is not configured to support indirect synchroniz
 ms.prod: access
 ms.assetid: 8abd2568-77e0-8b56-93f8-3a8dd6574293
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This is an unexpected error. Please contact Microsoft Product Support Services f
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

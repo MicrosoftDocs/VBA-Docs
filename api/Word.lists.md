@@ -1,12 +1,13 @@
 ---
-title: Lists Object (Word)
+title: Lists object (Word)
 ms.prod: word
 ms.assetid: 1fd927c5-6186-5ca0-80ae-c2ab225d092c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Lists Object (Word)
+# Lists object (Word)
 
 A collection of  **List** objects that represent all the lists in the specified document.
 
@@ -55,7 +56,7 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Lists.Item.md)|
 
@@ -63,7 +64,7 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Lists.Application.md)|
 |[Count](Word.Lists.Count.md)|
@@ -73,4 +74,6 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

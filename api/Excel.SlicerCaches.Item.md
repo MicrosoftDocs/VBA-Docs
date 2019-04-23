@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCaches.Item
 ms.assetid: 92776918-c597-98ed-a73e-0ab2ef9271a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single  **[SlicerCache](Excel.SlicerCache.md)** object from the collec
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
+_expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Returns a single  **[SlicerCache](Excel.SlicerCache.md)** object from the collec
 
 [SlicerCaches Object](Excel.SlicerCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

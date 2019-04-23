@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Update Method (Outlook)
+title: ExchangeDistributionList.Update method (Outlook)
 keywords: vbaol11.chm2123
 f1_keywords:
 - vbaol11.chm2123
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeDistributionList.Update
 ms.assetid: 3009e641-81ea-ed51-9ad0-512af9367e79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Update Method (Outlook)
+# ExchangeDistributionList.Update method (Outlook)
 
 Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object in the messaging system.
 
 
 ## Syntax
 
- _expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
+_expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ To flush the cache and then reload the values from the address book, call  **Upd
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

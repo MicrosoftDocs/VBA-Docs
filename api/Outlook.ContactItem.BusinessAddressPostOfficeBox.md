@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressPostOfficeBox Property (Outlook)
+title: ContactItem.BusinessAddressPostOfficeBox property (Outlook)
 keywords: vbaol11.chm974
 f1_keywords:
 - vbaol11.chm974
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.BusinessAddressPostOfficeBox
 ms.assetid: 447b3e5d-7f8f-372f-d5a6-843ba65a72b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressPostOfficeBox Property (Outlook)
+# ContactItem.BusinessAddressPostOfficeBox property (Outlook)
 
 Returns or sets a  **String** representing the post office box number portion of the business address for the contact. Read/write.
 
 
 ## Syntax
 
- _expression_. `BusinessAddressPostOfficeBox`
+_expression_. `BusinessAddressPostOfficeBox`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is parsed from the  **[BusinessAddress](Outlook.ContactItem.Busine
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

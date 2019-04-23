@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.Creator Property (Word)
+title: TablesOfContents.Creator property (Word)
 keywords: vbawd10.chm152306665
 f1_keywords:
 - vbawd10.chm152306665
@@ -8,19 +8,20 @@ api_name:
 - Word.TablesOfContents.Creator
 ms.assetid: 6ab6dab7-bc24-bae2-c1b6-a3b2f23f23f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TablesOfContents.Creator Property (Word)
+# TablesOfContents.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

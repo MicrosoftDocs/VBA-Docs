@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Item Method (Excel)
+title: LegendEntries.Item method (Excel)
 keywords: vbaxl10.chm588075
 f1_keywords:
 - vbaxl10.chm588075
@@ -8,19 +8,20 @@ api_name:
 - Excel.LegendEntries.Item
 ms.assetid: 8f7250b8-1c52-3e8a-4b09-906e917fdcac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendEntries.Item Method (Excel)
+# LegendEntries.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [LegendEntries](Excel.LegendEntries(object).md) object.
+_expression_ A variable that represents a [LegendEntries](Excel.LegendEntries(object).md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 [LegendEntries Object](Excel.LegendEntries(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

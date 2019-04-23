@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6353ab2c-5f45-4306-804b-1979cf0326d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.AfterResumeEvents Event (Visio)](http://msdn.microsoft.com/library/c4a662a9-575f-c9db-05b8-d71b4459793b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

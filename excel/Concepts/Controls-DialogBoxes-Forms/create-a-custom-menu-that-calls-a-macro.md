@@ -3,6 +3,7 @@ title: Create a Custom Menu That Calls a Macro
 ms.prod: excel
 ms.assetid: 925976ab-e2ef-4b71-aa06-62fe6ac8a4c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -182,6 +183,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
+Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

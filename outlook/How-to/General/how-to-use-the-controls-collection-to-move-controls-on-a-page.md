@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 19170632-76c6-3ca9-d7ea-f68323d878a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Use the Controls Collection to Move Controls on a Page
+# Use the Controls Collection to Move Controls on a Page
 
 The following example accesses individual controls from the Microsoft Forms 2.0  **Controls** collection using a `For Each...Next` loop. When the user presses CommandButton1, the other controls are placed in a column along the left edge of the form using the **Move** method of the control.
 
@@ -58,4 +59,4 @@ Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

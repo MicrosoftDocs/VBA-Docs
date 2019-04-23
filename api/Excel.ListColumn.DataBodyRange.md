@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.DataBodyRange
 ms.assetid: 04999c13-f70b-8692-a304-ed693d5bee26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Range** object that is the size of the data portion of a column. Re
 
 ## Syntax
 
- _expression_. `DataBodyRange`
+_expression_. `DataBodyRange`
 
- _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The returned object excludes the Header and Totals cell.
 
 [ListColumn Object](Excel.ListColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

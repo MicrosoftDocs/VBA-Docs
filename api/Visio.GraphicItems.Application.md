@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.Application Property (Visio)
+title: GraphicItems.Application property (Visio)
 keywords: vis_sdr.chm16813090
 f1_keywords:
 - vis_sdr.chm16813090
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItems.Application
 ms.assetid: dba8c3fc-2f23-8070-6603-5e956a56e956
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItems.Application Property (Visio)
+# GraphicItems.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with the  **GraphicItems** collection. Read-only.
 
@@ -21,7 +22,7 @@ Returns the instance of Microsoft Visio associated with the  **GraphicItems** co
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
@@ -30,4 +31,4 @@ Returns the instance of Microsoft Visio associated with the  **GraphicItems** co
 
 Application
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

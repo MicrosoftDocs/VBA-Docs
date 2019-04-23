@@ -8,6 +8,7 @@ api_name:
 - Excel.Error.Application
 ms.assetid: baa1fcf7-3919-cef5-b280-3c1d64cf3093
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [Error](Excel.Error.md) object.
+_expression_ A variable that represents an [Error](Excel.Error.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Error Object](Excel.Error.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

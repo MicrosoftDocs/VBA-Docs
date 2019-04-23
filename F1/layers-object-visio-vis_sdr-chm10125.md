@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 863b32de-b00d-423d-9dbc-ba495d581e3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Layers Object (Visio)](http://msdn.microsoft.com/library/6dd2ed40-5496-677b-6a32-9df80cd364d9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

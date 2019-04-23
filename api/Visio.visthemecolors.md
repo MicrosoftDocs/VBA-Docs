@@ -1,15 +1,16 @@
 ---
-title: VisThemeColors Enumeration (Visio)
+title: VisThemeColors enumeration (Visio)
 keywords: vis_sdr.chm70525
 f1_keywords:
 - vis_sdr.chm70525
 ms.prod: visio
 ms.assetid: 8afb9823-8721-894d-0478-5e720264852e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisThemeColors Enumeration (Visio)
+# VisThemeColors enumeration (Visio)
 
 Specifies theme color constants that are passed to and returned by the  **[Page.ThemeColors](Visio.Page.ThemeColors.md)** property.
 
@@ -75,3 +76,4 @@ Specifies theme color constants that are passed to and returned by the  **[Page.
 | **visThemeColorsThatch**|55|Thatch|
 | **visThemeColorsWaveform**|56|Waveform|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

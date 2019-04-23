@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar.MouseMove Event (Outlook)
+title: OlkInfoBar.MouseMove event (Outlook)
 keywords: vbaol11.chm1000302
 f1_keywords:
 - vbaol11.chm1000302
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkInfoBar.MouseMove
 ms.assetid: a82e3703-27cf-7aa4-1106-614803ea599c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkInfoBar.MouseMove Event (Outlook)
+# OlkInfoBar.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkInfoBar](./Outlook.OlkInfoBar.md) object.
+_expression_ A variable that represents an [OlkInfoBar](Outlook.OlkInfoBar.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkInfoBar Object](Outlook.OlkInfoBar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

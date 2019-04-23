@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AccrInt Method (Excel)
+title: WorksheetFunction.AccrInt method (Excel)
 keywords: vbaxl10.chm137345
 f1_keywords:
 - vbaxl10.chm137345
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.AccrInt
 ms.assetid: 17444208-5141-3ffe-1802-b19be0defc52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.AccrInt Method (Excel)
+# WorksheetFunction.AccrInt method (Excel)
 
 Returns the accrued interest for a security that pays periodic interest.
 
 
 ## Syntax
 
- _expression_. `AccrInt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
+_expression_. `AccrInt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ The following table describes the values that can be used for  _Arg5_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: d73b960d-bf78-1917-fc54-7b9b7cc7ca10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -49,4 +50,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

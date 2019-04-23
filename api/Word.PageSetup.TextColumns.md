@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TextColumns Property (Word)
+title: PageSetup.TextColumns property (Word)
 keywords: vbawd10.chm158400631
 f1_keywords:
 - vbawd10.chm158400631
@@ -8,17 +8,18 @@ api_name:
 - Word.PageSetup.TextColumns
 ms.assetid: 85fb6b50-1c2e-a96e-e56d-3a1caacaabc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.TextColumns Property (Word)
+# PageSetup.TextColumns property (Word)
 
 Returns a  **[TextColumns](Word(textcolumns).md)** collection that represents the set of text columns for the specified **PageSetup** object.
 
 
 ## Syntax
 
- _expression_. `TextColumns`
+_expression_. `TextColumns`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 
@@ -65,3 +66,4 @@ End With
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

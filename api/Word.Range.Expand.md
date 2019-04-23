@@ -1,5 +1,5 @@
 ---
-title: Range.Expand Method (Word)
+title: Range.Expand method (Word)
 keywords: vbawd10.chm157155457
 f1_keywords:
 - vbawd10.chm157155457
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Expand
 ms.assetid: cf4a5705-ebda-fedb-4929-3e115d42a432
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Expand Method (Word)
+# Range.Expand method (Word)
 
-Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long** .
+Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long**.
 
 
 ## Syntax
 
- _expression_. `Expand`( `_Unit_` )
+_expression_. `Expand`( `_Unit_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Expands the specified range or selection. Returns the number of characters added
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which to expand the range. Can be one of the following  **WdUnits** constants: **wdCharacter** , **wdWord** , **wdSentence** , **wdParagraph** , **wdSection** , **wdStory** , **wdCell** **wdColumn** , **wdRow** , or **wdTable** .|
+| _Unit_|Optional| **Variant**|The unit by which to expand the range. Can be one of the following  **WdUnits** constants: **wdCharacter**, **wdWord**, **wdSentence**, **wdParagraph**, **wdSection**, **wdStory**, **wdCell** **wdColumn**, **wdRow**, or **wdTable**.|
 
 ## Example
 
@@ -59,3 +60,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

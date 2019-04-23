@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (PowerPoint)
+title: Shape.Delete method (PowerPoint)
 keywords: vbapp10.chm547003
 f1_keywords:
 - vbapp10.chm547003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Delete
 ms.assetid: 998a345f-31e3-1270-7826-17d84d60634b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Delete Method (PowerPoint)
+# Shape.Delete method (PowerPoint)
 
 Deletes the specified  **Shape** object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -50,3 +51,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

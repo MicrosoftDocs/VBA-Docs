@@ -1,21 +1,22 @@
 ---
-title: Window.WindowState Property (Project)
+title: Window.WindowState property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.WindowState
 ms.assetid: b1c0616c-7377-356e-446d-ee2d2f490e15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.WindowState Property (Project)
+# Window.WindowState property (Project)
 
 Gets or sets the state the window, where the state is maximized or normal. Read/write  **PjWindowState**.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
@@ -38,4 +39,4 @@ Sub MaximizeProjectWindow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

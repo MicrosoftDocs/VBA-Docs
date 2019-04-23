@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSub Method (Excel)
+title: WorksheetFunction.ImSub method (Excel)
 keywords: vbaxl10.chm137273
 f1_keywords:
 - vbaxl10.chm137273
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImSub
 ms.assetid: bf3d6ea1-46e2-b6d3-66e0-40576db5be2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImSub Method (Excel)
+# WorksheetFunction.ImSub method (Excel)
 
 Returns the difference of two complex numbers in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImSub`( `_Arg1_` , `_Arg2_` )
+_expression_. `ImSub`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

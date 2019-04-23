@@ -1,23 +1,24 @@
 ---
-title: TextFrame2.MarginBottom Property (Office)
+title: TextFrame2.MarginBottom property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.MarginBottom
 ms.assetid: c8fadba2-4e9e-4d54-b2ba-7637024ba0d6
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextFrame2.MarginBottom Property (Office)
+# TextFrame2.MarginBottom property (Office)
 
-Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write
+Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write.
 
 
 ## Syntax
 
- _expression_. `MarginBottom`
+_expression_.**MarginBottom**
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+_expression_ An expression that returns a **[TextFrame2](Office.TextFrame2.md)** object.
 
 
 ## Example
@@ -39,10 +40,8 @@ End With
 
 ## See also
 
-
-[TextFrame2 Object](Office.TextFrame2.md)
-
+- [TextFrame2 object members](overview/Library-Reference/textframe2-members-office.md)
 
 
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

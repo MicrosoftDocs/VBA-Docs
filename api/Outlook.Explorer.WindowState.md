@@ -1,5 +1,5 @@
 ---
-title: Explorer.WindowState Property (Outlook)
+title: Explorer.WindowState property (Outlook)
 keywords: vbaol11.chm2773
 f1_keywords:
 - vbaol11.chm2773
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.WindowState
 ms.assetid: 787b6339-eb92-3ab6-df9f-82f6122facc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.WindowState Property (Outlook)
+# Explorer.WindowState property (Outlook)
 
 Returns or sets the property with a constant in the  **[OlWindowState](Outlook.OlWindowState.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Example
@@ -54,3 +55,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

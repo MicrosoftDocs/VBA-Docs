@@ -1,5 +1,5 @@
 ---
-title: SyncObject.OnError Event (Outlook)
+title: SyncObject.OnError event (Outlook)
 keywords: vbaol11.chm113
 f1_keywords:
 - vbaol11.chm113
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SyncObject.OnError
 ms.assetid: 1faa9708-959c-735b-b6ba-5a78e5fb2690
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject.OnError Event (Outlook)
+# SyncObject.OnError event (Outlook)
 
 Occurs when Microsoft Outlook encounters an error while synchronizing a user?s folders using the specified  **Send\Receive** group.
 
 
 ## Syntax
 
- _expression_. `OnError`( `_Code_` , `_Description_` )
+_expression_. `OnError`( `_Code_` , `_Description_` )
 
- _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

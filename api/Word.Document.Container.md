@@ -1,5 +1,5 @@
 ---
-title: Document.Container Property (Word)
+title: Document.Container property (Word)
 keywords: vbawd10.chm158007378
 f1_keywords:
 - vbawd10.chm158007378
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Container
 ms.assetid: f2a0ebbe-98dc-dfc4-5879-da2b79e75b7d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Container Property (Word)
+# Document.Container property (Word)
 
-Returns the object that represents the container application for the specified document. Read-only  **Object** .
+Returns the object that represents the container application for the specified document. Read-only  **Object**.
 
 
 ## Syntax
 
- _expression_. `Container`
+_expression_. `Container`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Msgbox ActiveDocument.Shapes(1).OLEFormat.Object.Container.Name
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PbSelectionType Enumeration (Publisher)
+title: PbSelectionType enumeration (Publisher)
 keywords: vbapb10.chm65567
 f1_keywords:
 - vbapb10.chm65567
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbSelectionType
 ms.assetid: 21e266e0-bbce-b953-aa30-65fe4389c67d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbSelectionType Enumeration (Publisher)
+# PbSelectionType enumeration (Publisher)
 
 Represents the selection type. 
 
@@ -25,3 +26,4 @@ Represents the selection type.
 | **pbSelectionTableCells**|3|Selection type table cells.|
 | **pbSelectionText**|2|Selection type text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

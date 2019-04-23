@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Active Property (PowerPoint)
+title: SlideShowWindow.Active property (PowerPoint)
 keywords: vbapp10.chm507011
 f1_keywords:
 - vbapp10.chm507011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowWindow.Active
 ms.assetid: b0832de7-0379-dfc1-b904-6e1de4110e38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Active Property (PowerPoint)
+# SlideShowWindow.Active property (PowerPoint)
 
 Returns whether the specified pane or window is active. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_.**Active**
 
  _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
@@ -34,7 +35,7 @@ The value returned by the  **Active** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified pane or window is inactive.|
 |**msoTrue**| The specified pane or window is active.|
@@ -64,3 +65,4 @@ End With
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

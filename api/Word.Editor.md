@@ -1,5 +1,5 @@
 ---
-title: Editor Object (Word)
+title: Editor object (Word)
 keywords: vbawd10.chm3442
 f1_keywords:
 - vbawd10.chm3442
@@ -8,10 +8,11 @@ api_name:
 - Word.Editor
 ms.assetid: af0c80f5-8c8a-be0e-4475-d3b3b3bacd0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Editor Object (Word)
+# Editor object (Word)
 
 Represents a single user who has been given specific permissions to edit portions of a document. 
 
@@ -37,6 +38,6 @@ Set objEditor = Selection.Editors.Add(wdEditorCurrent)
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

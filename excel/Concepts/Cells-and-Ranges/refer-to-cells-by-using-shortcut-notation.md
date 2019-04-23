@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 32426c8d-a2f6-dae5-7507-ff19582fa170
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,4 +25,4 @@ Sub SetValue()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

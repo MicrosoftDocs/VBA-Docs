@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 55254936-517b-49b8-9882-fd6659d32e59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Calendars Object (Project)](http://msdn.microsoft.com/library/a96c7b96-f0ab-5ec3-3d16-facea61b8ee5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

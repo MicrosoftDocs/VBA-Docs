@@ -1,5 +1,5 @@
 ---
-title: TimeLine.Application Property (PowerPoint)
+title: TimeLine.Application property (PowerPoint)
 keywords: vbapp10.chm649001
 f1_keywords:
 - vbapp10.chm649001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TimeLine.Application
 ms.assetid: ca619c2e-5a15-810f-9441-cf3b17f11ca1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeLine.Application Property (PowerPoint)
+# TimeLine.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [TimeLine](./PowerPoint.TimeLine.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [TimeLine Object](PowerPoint.TimeLine.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

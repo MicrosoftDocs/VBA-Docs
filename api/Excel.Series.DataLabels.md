@@ -1,5 +1,5 @@
 ---
-title: Series.DataLabels Method (Excel)
+title: Series.DataLabels method (Excel)
 keywords: vbaxl10.chm578079
 f1_keywords:
 - vbaxl10.chm578079
@@ -8,19 +8,20 @@ api_name:
 - Excel.Series.DataLabels
 ms.assetid: bde8faa1-269c-1dbe-e39e-3701a634f214
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.DataLabels Method (Excel)
+# Series.DataLabels method (Excel)
 
 Returns an object that represents either a single data label (a  **[DataLabel](Excel.DataLabel(object).md)** object) or a collection of all the data labels for the series (a **[DataLabels](Excel.DataLabels(object).md)** collection).
 
 
 ## Syntax
 
- _expression_. `DataLabels`( `_Index_` )
+_expression_. `DataLabels` (_Index_)
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ End With
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

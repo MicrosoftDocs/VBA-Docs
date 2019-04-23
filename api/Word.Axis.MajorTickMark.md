@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorTickMark Property (Word)
+title: Axis.MajorTickMark property (Word)
 keywords: vbawd10.chm113049618
 f1_keywords:
 - vbawd10.chm113049618
@@ -8,24 +8,25 @@ api_name:
 - Word.Axis.MajorTickMark
 ms.assetid: f2e4c509-0736-44bd-249b-1963ac697ee4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MajorTickMark Property (Word)
+# Axis.MajorTickMark property (Word)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)** .
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)**.
 
 
 ## Syntax
 
- _expression_. `MajorTickMark`
+_expression_. `MajorTickMark`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
 
- **MajorTickMark** can be set to one of the following **XlTickMark** constants:
+ **MajorTickMark** can be set to one of the following **xlTickMark** constants:
 
 
 -  **xlTickMarkInside**
@@ -57,3 +58,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

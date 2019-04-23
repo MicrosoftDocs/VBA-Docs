@@ -1,5 +1,5 @@
 ---
-title: Frame.HorizontalDistanceFromText Property (Word)
+title: Frame.HorizontalDistanceFromText property (Word)
 keywords: vbawd10.chm153747459
 f1_keywords:
 - vbawd10.chm153747459
@@ -8,17 +8,18 @@ api_name:
 - Word.Frame.HorizontalDistanceFromText
 ms.assetid: 40672084-cced-8807-8843-0750ef5a48b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.HorizontalDistanceFromText Property (Word)
+# Frame.HorizontalDistanceFromText property (Word)
 
-Returns or sets the horizontal distance between a frame and the surrounding text, in points. Read/write  **Single** .
+Returns or sets the horizontal distance between a frame and the surrounding text, in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `HorizontalDistanceFromText`
+_expression_. `HorizontalDistanceFromText`
 
  _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 
@@ -61,3 +62,4 @@ End With
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

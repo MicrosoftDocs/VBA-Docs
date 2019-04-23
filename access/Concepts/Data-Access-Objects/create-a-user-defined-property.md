@@ -3,6 +3,7 @@ title: Create a user-defined property
 ms.prod: access
 ms.assetid: 49d2fede-2fb5-0b1b-42cd-6147756ea1ca
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -76,4 +77,4 @@ Err_Property:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

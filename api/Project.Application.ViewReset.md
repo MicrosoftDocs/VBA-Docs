@@ -1,5 +1,5 @@
 ---
-title: Application.ViewReset Method (Project)
+title: Application.ViewReset method (Project)
 keywords: vbapj.chm309
 f1_keywords:
 - vbapj.chm309
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewReset
 ms.assetid: ea972480-6417-55a7-9b8e-6cc9944df6c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewReset Method (Project)
+# Application.ViewReset method (Project)
 
 Resets the current view back to the global view definition. 
 
 
 ## Syntax
 
- _expression_. `ViewReset`
+_expression_. `ViewReset`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -34,4 +35,4 @@ The  **ViewReset** method displays a dialog box that asks if you are sure you wa
 
 The  **ViewReset** method has the same effect as the **Reset to Default** command in the drop-down list of views on the ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

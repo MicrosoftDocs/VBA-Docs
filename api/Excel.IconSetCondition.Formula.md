@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.Formula
 ms.assetid: c09e8f84-a01c-4ffd-46b1-5efaae0849a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** representing a formula, which determines the value
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is useful to limit the range of values that will display the condi
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

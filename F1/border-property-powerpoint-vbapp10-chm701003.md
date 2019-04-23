@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5939c8dd-cdb1-49cf-a449-59e70e6148bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DropLines.Format Property (PowerPoint)](http://msdn.microsoft.com/library/ea123388-c397-c6a9-fbe0-a2dae18e21a6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

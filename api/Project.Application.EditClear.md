@@ -1,5 +1,5 @@
 ---
-title: Application.EditClear Method (Project)
+title: Application.EditClear method (Project)
 keywords: vbapj.chm205
 f1_keywords:
 - vbapj.chm205
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EditClear
 ms.assetid: 0f87ca1c-c87c-774a-e8dd-2f4d29a40e28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EditClear Method (Project)
+# Application.EditClear method (Project)
 
 Clears the selected cells.
 
 
 ## Syntax
 
- _expression_. `EditClear`( ` _Contents_`, ` _Formats_`, ` _Notes_`, ` _Hyperlinks_` )
+_expression_. `EditClear`( `_Contents_`, `_Formats_`, `_Notes_`, `_Hyperlinks_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub ClearAll()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

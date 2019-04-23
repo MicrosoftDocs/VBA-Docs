@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.StartupPaths Property (Visio)
+title: InvisibleApp.StartupPaths property (Visio)
 keywords: vis_sdr.chm17514415
 f1_keywords:
 - vis_sdr.chm17514415
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.StartupPaths
 ms.assetid: 0951fcb7-c40a-4d63-8f8b-dda2bd1ea853
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.StartupPaths Property (Visio)
+# InvisibleApp.StartupPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for third-party and user add-ons to run when the application is started. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartupPaths`
+_expression_. `StartupPaths`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -32,7 +33,7 @@ String
 
 The  **StartupPaths** property is set to an empty string ("") by default.
 
-The string passed to and received from the  **StartupPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\StartupPath** subkey.
+The string passed to and received from the  **StartupPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click **File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\StartupPath** subkey.
 
 When the application looks for third-party and user startup add-on files, it looks in all paths named in the  **StartupPaths** property, as well as at the paths of any startup add-ons installed at setup, and all the subfolders of those paths. If you pass the **StartupPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 
@@ -97,4 +98,4 @@ Public Sub StartupPaths_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

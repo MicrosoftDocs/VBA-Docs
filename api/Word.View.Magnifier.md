@@ -1,5 +1,5 @@
 ---
-title: View.Magnifier Property (Word)
+title: View.Magnifier property (Word)
 keywords: vbawd10.chm161808391
 f1_keywords:
 - vbawd10.chm161808391
@@ -8,17 +8,18 @@ api_name:
 - Word.View.Magnifier
 ms.assetid: a195490b-a84d-78cb-f834-f154063c1021
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Magnifier Property (Word)
+# View.Magnifier property (Word)
 
- **True** if the pointer is displayed as a magnifying glass in print preview, indicating that the user can click to zoom in on a particular area of the page or zoom out to see an entire page or spread of pages. Read/write **Boolean** .
+ **True** if the pointer is displayed as a magnifying glass in print preview, indicating that the user can click to zoom in on a particular area of the page or zoom out to see an entire page or spread of pages. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Magnifier`
+_expression_. `Magnifier`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -44,3 +45,4 @@ ActiveDocument.ActiveWindow.View.Magnifier = False
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

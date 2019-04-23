@@ -1,32 +1,25 @@
 ---
-title: ListWidth Property Example
+title: ListWidth property example
 keywords: fm20.chm5225141
 f1_keywords:
 - fm20.chm5225141
 ms.prod: office
 ms.assetid: c0247082-8767-be2a-9713-40942d0a0afd
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ListWidth Property Example
+# ListWidth property example
 
-The following example uses a  **SpinButton** to control the width of the drop-down list of a **ComboBox**. The user changes the value of the **SpinButton**, then clicks on the drop-down arrow of the **ComboBox** to display the list.
+The following example uses a **[SpinButton](spinbutton-control.md)** to control the width of the drop-down list of a **[ComboBox](combobox-control.md)**. The user changes the value of the **SpinButton**, and then clicks on the drop-down arrow of the **ComboBox** to display the list.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.    
+- A **SpinButton** named SpinButton1.   
+- A **[Label](label-control.md)** named Label1.
     
-- A  **SpinButton** named SpinButton1.
-    
-- A  **Label** named Label1.
-    
-
-
-
 
 ```vb
 Private Sub SpinButton1_Change() 
@@ -52,4 +45,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

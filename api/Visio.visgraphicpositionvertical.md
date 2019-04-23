@@ -1,15 +1,16 @@
 ---
-title: VisGraphicPositionVertical Enumeration (Visio)
+title: VisGraphicPositionVertical enumeration (Visio)
 keywords: vis_sdr.chm70515
 f1_keywords:
 - vis_sdr.chm70515
 ms.prod: visio
 ms.assetid: 75bd2994-1ab6-27fd-560a-c19c5d62a98e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisGraphicPositionVertical Enumeration (Visio)
+# VisGraphicPositionVertical enumeration (Visio)
 
 Constants passed to and returned by the  **GraphicItem.VerticalPosition** property. Used to determine the vertical position of a graphic item relative to its container or to a shape.
 
@@ -28,3 +29,4 @@ Constants passed to and returned by the  **GraphicItem.VerticalPosition** proper
 | **visGraphicTopEdge**|5|The horizontal centerline of the graphic item's alignment box is aligned with the top edge of the shape or container's alignment box.|
 | **visGraphicAbove**|6|The bottom edge of the graphic item's alignment box is aligned with the top edge of the shape or container's alignment box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

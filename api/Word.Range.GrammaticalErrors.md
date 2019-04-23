@@ -1,5 +1,5 @@
 ---
-title: Range.GrammaticalErrors Property (Word)
+title: Range.GrammaticalErrors property (Word)
 keywords: vbawd10.chm157155643
 f1_keywords:
 - vbawd10.chm157155643
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.GrammaticalErrors
 ms.assetid: 2535ba4d-1c5c-3dc2-2ddc-14c8a5625f41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.GrammaticalErrors Property (Word)
+# Range.GrammaticalErrors property (Word)
 
 Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check on the specified document or range. Read-only.
 
 
 ## Syntax
 
- _expression_. `GrammaticalErrors`
+_expression_. `GrammaticalErrors`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -48,3 +49,4 @@ Next myerr
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

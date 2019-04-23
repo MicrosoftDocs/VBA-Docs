@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 70d2ecef-90d7-aff9-398e-8703fb7dfc6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,7 +22,7 @@ _expression_ **Like** "_pattern_"
 
 The **Like** operator syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expression_|SQL expression used in a [WHERE clause](where-clause-microsoft-access-sql.md).|
 | _pattern_|String or character string literal against which  _expression_ is compared.|
@@ -93,3 +94,5 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

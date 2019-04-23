@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 40f81c84-00b3-406e-a2ce-5cf6a056a4ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.QuitCanceled Event (Visio)](http://msdn.microsoft.com/library/48e46a44-581f-cd79-dbeb-6ee70c6b391b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

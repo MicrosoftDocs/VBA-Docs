@@ -1,5 +1,5 @@
-﻿---
-title: Shapes Object (PowerPoint)
+---
+title: Shapes object (PowerPoint)
 keywords: vbapp10.chm543000
 f1_keywords:
 - vbapp10.chm543000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Shapes
 ms.assetid: eb208855-254e-1a0f-884b-4a5edcfd584d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes Object (PowerPoint)
+# Shapes object (PowerPoint)
 
 A collection of all the  **[Shape](./PowerPoint.Shape.md)** objects on the specified slide.
 
@@ -36,7 +37,7 @@ ActivePresentation.Slides(1).Shapes.SelectAll
 
  **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](./PowerPoint.Shapes.Range.md)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use the [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](./overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](./PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
+Use the [AddCallout](./PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](./PowerPoint.Shapes.AddConnector.md), [AddCurve](./PowerPoint.Shapes.AddCurve.md), [AddLabel](./PowerPoint.Shapes.AddLabel.md), [AddLine](./PowerPoint.Shapes.AddLine.md), [AddMediaObject](./PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](./PowerPoint.Shapes.AddOLEObject.md), [AddPicture](./PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](./PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](./PowerPoint.Shapes.AddPolyline.md), [AddShape](./PowerPoint.Shapes.AddShape.md), [AddTable](./PowerPoint.Shapes.AddTable.md), [AddTextbox](./PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](./PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](./PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
 
 
 
@@ -91,7 +92,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCallout](./PowerPoint.Shapes.AddCallout.md)|
 |[AddChart2](./PowerPoint.shapes.addchart2.md)|
@@ -112,6 +113,7 @@ End With
 |[AddTable](./PowerPoint.Shapes.AddTable.md)|
 |[AddTextbox](./PowerPoint.Shapes.AddTextbox.md)|
 |[AddTextEffect](./PowerPoint.Shapes.AddTextEffect.md)|
+|[Add3DModel](PowerPoint.Shapes.Add3DModel.md)|
 |[AddTitle](./PowerPoint.Shapes.AddTitle.md)|
 |[BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)|
 |[Item](./PowerPoint.Shapes.Item.md)|
@@ -124,7 +126,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Shapes.Application.md)|
 |[Count](./PowerPoint.Shapes.Count.md)|
@@ -137,4 +139,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

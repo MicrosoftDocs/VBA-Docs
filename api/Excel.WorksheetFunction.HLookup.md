@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.HLookup Method (Excel)
+title: WorksheetFunction.HLookup method (Excel)
 keywords: vbaxl10.chm137122
 f1_keywords:
 - vbaxl10.chm137122
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.HLookup
 ms.assetid: 6e7b5ad0-3f70-d7a8-b161-ce418107d2a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.HLookup Method (Excel)
+# WorksheetFunction.HLookup method (Excel)
 
 Searches for a value in the top row of a table or an array of values, and then returns a value in the same column from a row you specify in the table or array. Use HLOOKUP when your comparison values are located in a row across the top of a table of data, and you want to look down a specified number of rows. Use VLOOKUP when your comparison values are located in a column to the left of the data you want to find.
 
 
 ## Syntax
 
- _expression_. `HLookup`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `HLookup`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Variant
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7a1af0b6-59f3-79c6-3167-3d94405ba23d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ The number of [arguments](../../Glossary/vbe-glossary.md#argument) to a procedur
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TabStop.Leader Property (Word)
+title: TabStop.Leader property (Word)
 keywords: vbawd10.chm156500069
 f1_keywords:
 - vbawd10.chm156500069
@@ -8,19 +8,20 @@ api_name:
 - Word.TabStop.Leader
 ms.assetid: 3e483648-b48f-c8e0-93c0-e83771c48299
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop.Leader Property (Word)
+# TabStop.Leader property (Word)
 
-Returns or sets the leader for the specified  **TabStop** object. Read/write **WdTabLeader** .
+Returns or sets the leader for the specified  **TabStop** object. Read/write **WdTabLeader**.
 
 
 ## Syntax
 
- _expression_. `Leader`
+_expression_. `Leader`
 
- _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
+_expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 
 
 ## Example
@@ -44,3 +45,4 @@ Next tsLoop
 
 [TabStop Object](Word.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

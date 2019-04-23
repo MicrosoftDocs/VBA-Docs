@@ -1,5 +1,5 @@
 ---
-title: ParentFolder Property
+title: ParentFolder property (Visual Basic for Applications)
 keywords: vblr6.chm2181999
 f1_keywords:
 - vblr6.chm2181999
@@ -7,27 +7,24 @@ ms.prod: office
 api_name:
 - Office.ParentFolder
 ms.assetid: 980e6bf3-fdc2-4335-7587-e5e932aee0a2
-ms.date: 06/08/2017
+ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 
-# ParentFolder Property
+# ParentFolder property
 
-
-
- **Description**
 Returns the folder object for the parent of the specified file or folder. Read-only.
 
 ## Syntax
 
-_object_. **ParentFolder**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**ParentFolder**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **ParentFolder** property with a file:
-
-
+The following code illustrates the use of the **ParentFolder** property with a file.
 
 ```vb
 Sub ShowFileAccessInfo(filespec)
@@ -42,4 +39,9 @@ Sub ShowFileAccessInfo(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

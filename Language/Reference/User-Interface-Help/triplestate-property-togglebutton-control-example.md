@@ -1,32 +1,27 @@
 ---
-title: TripleState Property, ToggleButton Control Example
+title: TripleState property, ToggleButton control example
 keywords: fm20.chm5225131
 f1_keywords:
 - fm20.chm5225131
 ms.prod: office
 ms.assetid: f3f464c6-3bf2-2aae-ee6a-ead74c6b1289
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# TripleState Property, ToggleButton Control Example
+# TripleState property, ToggleButton control example
 
-The following example uses the  **TripleState** property to allow **Null** as a legal value of a **CheckBox** and a **ToggleButton**. The user controls the value of **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**.
+The following example uses the **[TripleState](triplestate-property.md)** property to allow **Null** as a legal value of a **[CheckBox](checkbox-control.md)** and a **[ToggleButton](togglebutton-control.md)**. 
+
+The user controls the value of **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **CheckBox** named CheckBox1.
+- A **CheckBox** named CheckBox1.    
+- A **ToggleButton** named ToggleButton1.   
+- A **ToggleButton** named ToggleButton2.
     
-- A  **ToggleButton** named ToggleButton1.
-    
-- A  **ToggleButton** named ToggleButton2.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -75,4 +70,4 @@ Private Sub ToggleButton1_Change()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.FollowHyperlink Method (PowerPoint)
+title: Presentation.FollowHyperlink method (PowerPoint)
 keywords: vbapp10.chm583030
 f1_keywords:
 - vbapp10.chm583030
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.FollowHyperlink
 ms.assetid: 411863be-0bd9-c939-1309-9f537b47f30b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.FollowHyperlink Method (PowerPoint)
+# Presentation.FollowHyperlink method (PowerPoint)
 
 Displays a cached document, if it has already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document and displays it in the appropriate application.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Address_`, `_SubAddress_`, `_NewWindow_`, `_AddHistory_`, `_ExtraInfo_`, `_Method_`, `_HeaderInfo_` )
+_expression_. `FollowHyperlink`( `_Address_`, `_SubAddress_`, `_NewWindow_`, `_AddHistory_`, `_ExtraInfo_`, `_Method_`, `_HeaderInfo_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -48,7 +49,7 @@ ExtraInfo can be one of these **MsoExtraInfoMethod** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoMethodGet**|The default. ExtraInfo is a **String** that is appended to the address.|
 |**msoMethodPost**|ExtraInfo is posted as a **String** or byte array.|
@@ -70,3 +71,4 @@ ActivePresentation.FollowHyperlink _
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

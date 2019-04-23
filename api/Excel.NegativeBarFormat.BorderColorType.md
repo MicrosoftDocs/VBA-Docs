@@ -8,6 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.BorderColorType
 ms.assetid: 014d8bc9-6c9d-df2d-2152-09f206400388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `BorderColorType`
+_expression_. `BorderColorType`
 
- _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
+_expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you set the  **BorderColorType** property to **xlDataBarColor** , use the **[BorderColor](Excel.NegativeBarFormat.BorderColor.md)** of the **NegativeBarFormat** to return a **[FormatColor](Excel.FormatColor.md)** object that you can use to specify the border color.
+If you set the  **BorderColorType** property to **xlDataBarColor**, use the **[BorderColor](Excel.NegativeBarFormat.BorderColor.md)** of the **NegativeBarFormat** to return a **[FormatColor](Excel.FormatColor.md)** object that you can use to specify the border color.
 
 
 ## See also
@@ -38,3 +39,4 @@ If you set the  **BorderColorType** property to **xlDataBarColor** , use the **[
 
 [NegativeBarFormat Object](Excel.NegativeBarFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

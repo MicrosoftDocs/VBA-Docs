@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 52fd5406-2664-8cbe-f1ac-f37c3cb7ad5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ If the retention period expires for a replica, you cannot synchronize changes be
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

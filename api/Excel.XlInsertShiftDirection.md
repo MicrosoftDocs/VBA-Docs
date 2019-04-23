@@ -1,14 +1,15 @@
 ---
-title: xlInsertShiftDirection enumeration (Excel)
+title: XlInsertShiftDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlInsertShiftDirection
 ms.assetid: aa30a7b2-25a9-5c32-04f5-2b417e67ac45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlInsertShiftDirection enumeration (Excel)
+# XlInsertShiftDirection enumeration (Excel)
 
 Specifies the direction in which to shift cells during an insertion.
 
@@ -19,3 +20,4 @@ Specifies the direction in which to shift cells during an insertion.
 | **xlShiftDown**|-4121|Shift cells down.|
 | **xlShiftToRight**|-4161|Shift cells to the right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

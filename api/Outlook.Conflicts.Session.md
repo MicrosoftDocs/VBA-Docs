@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Session Property (Outlook)
+title: Conflicts.Session property (Outlook)
 keywords: vbaol11.chm402
 f1_keywords:
 - vbaol11.chm402
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conflicts.Session
 ms.assetid: 4f707a23-5687-7076-9297-3fc14c98731a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conflicts.Session Property (Outlook)
+# Conflicts.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
+_expression_ A variable that represents a [Conflicts](Outlook.Conflicts.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Conflicts Object](Outlook.Conflicts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

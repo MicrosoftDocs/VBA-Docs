@@ -1,5 +1,5 @@
 ---
-title: DataTable.Creator Property (Word)
+title: DataTable.Creator property (Word)
 keywords: vbawd10.chm46399637
 f1_keywords:
 - vbawd10.chm46399637
@@ -8,17 +8,18 @@ api_name:
 - Word.DataTable.Creator
 ms.assetid: 15f5bb8c-ac5a-5e51-45bb-1b163245e283
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable.Creator Property (Word)
+# DataTable.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[DataTable](Word.DataTable.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [DataTable Object](Word.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

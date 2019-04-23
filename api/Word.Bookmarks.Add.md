@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Add Method (Word)
+title: Bookmarks.Add method (Word)
 keywords: vbawd10.chm157745157
 f1_keywords:
 - vbawd10.chm157745157
@@ -8,19 +8,20 @@ api_name:
 - Word.Bookmarks.Add
 ms.assetid: 647795da-d7e2-7b6f-c412-5b684ec962a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmarks.Add Method (Word)
+# Bookmarks.Add method (Word)
 
 Returns a  **Bookmark** object that represents a bookmark added to a range.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Range_` )
+_expression_.**Add**( `_Name_` , `_Range_` )
 
- _expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.md)' collection.
+_expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.md)' collection.
 
 
 ## Parameters
@@ -87,3 +88,4 @@ End Sub
 
 [Bookmarks Collection Object](Word.bookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

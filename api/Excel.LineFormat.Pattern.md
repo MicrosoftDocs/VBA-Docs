@@ -8,6 +8,7 @@ api_name:
 - Excel.LineFormat.Pattern
 ms.assetid: 2485a32b-422c-fc99-df19-05e23925579c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets an  **[MsoPatternType](Excel.LineFormat.Pattern.md)** value that
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets an  **[MsoPatternType](Excel.LineFormat.Pattern.md)** value that
 
 [LineFormat Object](Excel.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextStyle.ParagraphFormat Property (Publisher)
+title: TextStyle.ParagraphFormat property (Publisher)
 keywords: vbapb10.chm5963781
 f1_keywords:
 - vbapb10.chm5963781
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyle.ParagraphFormat
 ms.assetid: 5ab0a2ec-d7a9-f3af-29e7-5421427ee783
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyle.ParagraphFormat Property (Publisher)
+# TextStyle.ParagraphFormat property (Publisher)
 
 Returns a  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object representing the paragraph formatting for the specified text range or text style.
 
 
 ## Syntax
 
- _expression_. **ParagraphFormat**
+_expression_.**ParagraphFormat**
 
  _expression_ A variable that represents a  **TextStyle** object.
 
@@ -37,4 +38,4 @@ Set pfTemp = ActiveDocument.Pages(1).Shapes(1) _
 pfTemp.Tabs.ClearAll
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

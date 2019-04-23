@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.Version
 ms.assetid: 357f61a1-7401-46c1-2a47-4172fb045cd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the version of Microsoft Excel in which the PivotCache was created. Read
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property returns the version of the PivotTable. Default settings and behavi
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

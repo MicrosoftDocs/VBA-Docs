@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel Object (Word)
+title: DisplayUnitLabel object (Word)
 keywords: vbawd10.chm1443
 f1_keywords:
 - vbawd10.chm1443
@@ -8,10 +8,11 @@ api_name:
 - Word.DisplayUnitLabel
 ms.assetid: 9b028f6c-fd66-f767-f3d1-09de0fbdc148
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel Object (Word)
+# DisplayUnitLabel object (Word)
 
 Represents a unit label on an axis in the specified chart.
 
@@ -45,6 +46,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,24 +1,25 @@
 ---
-title: XSLTransforms.Item Method (Word)
+title: XSLTransforms.Item method (Word)
 keywords: vbawd10.chm99221504
 f1_keywords:
 - vbawd10.chm99221504
 ms.prod: word
 ms.assetid: 67b7b73a-9884-b22a-3326-dbb93a10c8e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XSLTransforms.Item Method (Word)
+# XSLTransforms.Item method (Word)
 
 Returns an  **XSLTransform** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '' collection.
+_expression_ Required. A variable that represents a '' collection.
 
 
 ## Parameters
@@ -36,6 +37,4 @@ XSLTransform
 
 ## See also
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

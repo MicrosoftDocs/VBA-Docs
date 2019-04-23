@@ -1,5 +1,5 @@
 ---
-title: PrintRange Object (PowerPoint)
+title: PrintRange object (PowerPoint)
 keywords: vbapp10.chm519000
 f1_keywords:
 - vbapp10.chm519000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.PrintRange
 ms.assetid: 62f098b3-5e67-8fa4-3af9-4507160fa1ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintRange Object (PowerPoint)
+# PrintRange object (PowerPoint)
 
 Represents a single range of consecutive slides or pages to be printed.
 
@@ -72,3 +73,4 @@ ActivePresentation.PrintOut
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.EnableFieldDialog
 ms.assetid: 4b6b4bc5-9b87-efa2-c6d1-4ab0c11f5966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.EnableFieldDialog property (Excel)
 
- **True** if the **PivotTable Field** dialog box is available when the user double-clicks the PivotTable field. The default value is **True** . Read/write **Boolean** .
+ **True** if the **PivotTable Field** dialog box is available when the user double-clicks the PivotTable field. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableFieldDialog`
+_expression_. `EnableFieldDialog`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Worksheets(1).PivotTables("Pivot1") _
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

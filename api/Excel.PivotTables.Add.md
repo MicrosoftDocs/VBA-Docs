@@ -1,5 +1,5 @@
 ---
-title: PivotTables.Add Method (Excel)
+title: PivotTables.Add method (Excel)
 keywords: vbaxl10.chm238076
 f1_keywords:
 - vbaxl10.chm238076
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTables.Add
 ms.assetid: 3b830532-e834-81c8-dd5e-a43ed2efc269
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTables.Add Method (Excel)
+# PivotTables.Add method (Excel)
 
 Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_PivotCache_` , `_TableDestination_` , `_TableName_` , `_ReadData_` , `_DefaultVersion_` )
+_expression_.**Add**( `_PivotCache_` , `_TableDestination_` , `_TableName_` , `_ReadData_` , `_DefaultVersion_` )
 
- _expression_ A variable that represents a [PivotTables](Excel.PivotTables.md) object.
+_expression_ A variable that represents a [PivotTables](Excel.PivotTables.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** o
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotCache_|Required| **[PivotCache](Excel.PivotCache.md)**|The PivotTable cache on which the new PivotTable report is based. The cache provides data for the report.|
-| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the  **PivotTables** object specified by _expression_.|
+| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the  **PivotTables** object specified by_expression_.|
 | _TableName_|Optional| **Variant**|The name of the new PivotTable report.|
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
 | _DefaultVersion_|Optional| **Variant**|The version of Microsoft Excel the PivotTable was originally created in.|
@@ -111,3 +112,4 @@ Set cnnConn = Nothing
 
 [PivotTables Object](Excel.PivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.CustomPropertyCount
 ms.assetid: d036b187-5cb7-87da-b136-fdaa6624b2d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the count of shape data items (custom properties) assigned to the specified
 
 ## Syntax
 
- _expression_. **CustomPropertyCount**(**_ShapeIndex_**)
+_expression_.**CustomPropertyCount**(**_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -53,4 +54,4 @@ Debug.Print intShapeData
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

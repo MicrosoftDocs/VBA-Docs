@@ -1,5 +1,5 @@
 ---
-title: ListLevel.LinkedStyle Property (Word)
+title: ListLevel.LinkedStyle property (Word)
 keywords: vbawd10.chm160235531
 f1_keywords:
 - vbawd10.chm160235531
@@ -8,17 +8,18 @@ api_name:
 - Word.ListLevel.LinkedStyle
 ms.assetid: 11a48d9a-87fa-6cc6-8614-deb35775d6b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.LinkedStyle Property (Word)
+# ListLevel.LinkedStyle property (Word)
 
-Returns or sets the name of the style that's linked to the specified  **ListLevel** object. Read/write **String** .
+Returns or sets the name of the style that's linked to the specified  **ListLevel** object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `LinkedStyle`
+_expression_. `LinkedStyle`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
@@ -42,3 +43,4 @@ Next mylevel
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

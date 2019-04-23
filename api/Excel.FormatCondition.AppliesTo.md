@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.AppliesTo
 ms.assetid: d8a5363c-d0b7-fc26-dcff-16a3b561474d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 ## Syntax
 
- _expression_. `AppliesTo`
+_expression_.**AppliesTo**
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

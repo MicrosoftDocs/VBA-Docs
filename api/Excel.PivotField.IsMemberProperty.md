@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.IsMemberProperty
 ms.assetid: e24e6e84-2c27-5d33-78c4-b48e96d48e5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.IsMemberProperty property (Excel)
 
-Returns  **True** when the PivotField contains member properties. Read-only **Boolean** .
+Returns  **True** when the PivotField contains member properties. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsMemberProperty`
+_expression_. `IsMemberProperty`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ End Sub
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

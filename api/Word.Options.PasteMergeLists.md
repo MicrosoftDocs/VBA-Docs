@@ -1,5 +1,5 @@
 ---
-title: Options.PasteMergeLists Property (Word)
+title: Options.PasteMergeLists property (Word)
 keywords: vbawd10.chm162988482
 f1_keywords:
 - vbawd10.chm162988482
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PasteMergeLists
 ms.assetid: 82989419-32c6-6a70-685f-eae11de50cae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PasteMergeLists Property (Word)
+# Options.PasteMergeLists property (Word)
 
- **True** to merge the formatting of pasted lists with surrounding lists. Read/write **Boolean** .
+ **True** to merge the formatting of pasted lists with surrounding lists. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PasteMergeLists`
+_expression_. `PasteMergeLists`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -44,3 +45,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

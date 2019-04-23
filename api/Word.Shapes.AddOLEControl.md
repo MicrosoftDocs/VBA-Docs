@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEControl Method (Word)
+title: Shapes.AddOLEControl method (Word)
 keywords: vbawd10.chm161415270
 f1_keywords:
 - vbawd10.chm161415270
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.AddOLEControl
 ms.assetid: f0f5d8cb-ea31-58a9-f266-eff38610cf3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddOLEControl Method (Word)
+# Shapes.AddOLEControl method (Word)
 
 Creates an ActiveX control (formerly known as an OLE control). Returns the  **InlineShape** object that represents the new ActiveX control.
 
 
 ## Syntax
 
- _expression_. `AddOLEControl`( `_ClassType_` , `_Range_` )
+_expression_. `AddOLEControl`( `_ClassType_` , `_Range_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -41,7 +42,7 @@ InlineShape
 
 ActiveX controls are represented as either  **Shape** objects or **InlineShape** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
 
-For information about available ActiveX control class types, see [OLE Programmatic Identifiers](./overview/Word.md).
+For information about available ActiveX control class types, see [OLE Programmatic Identifiers](overview/Word.md).
 
 
 ## See also
@@ -49,3 +50,4 @@ For information about available ActiveX control class types, see [OLE Programmat
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

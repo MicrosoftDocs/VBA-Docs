@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheets.Item
 ms.assetid: 66099ca2-54a0-f8ae-58ab-07791bbf5e7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveWorkbook.Worksheets(1)
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

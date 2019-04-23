@@ -3,6 +3,7 @@ title: Use date and time criteria from a control on a form
 ms.prod: access
 ms.assetid: 65ea2c4c-f714-a34a-7430-b2b11fddf1a6
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -51,4 +52,4 @@ Forms!Employees.Filter = "[HireDate] >= #" _
  &     datHireDate & "#"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

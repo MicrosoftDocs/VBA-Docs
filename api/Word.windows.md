@@ -1,15 +1,16 @@
 ---
-title: Windows Object (Word)
+title: Windows object (Word)
 keywords: vbawd10.chm2401
 f1_keywords:
 - vbawd10.chm2401
 ms.prod: word
 ms.assetid: 377b493b-e73c-0132-869c-3876c3beaef7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows Object (Word)
+# Windows object (Word)
 
 A collection of  **[Window](Word.Window.md)** objects that represent all the available windows. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Document** object contains only the windows that display the specified document.
 
@@ -61,5 +62,6 @@ When you switch the view to print preview, a new window is created. This window 
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

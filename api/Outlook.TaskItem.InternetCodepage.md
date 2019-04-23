@@ -1,5 +1,5 @@
 ---
-title: TaskItem.InternetCodepage Property (Outlook)
+title: TaskItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1762
 f1_keywords:
 - vbaol11.chm1762
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.InternetCodepage
 ms.assetid: a9186d58-a6b3-8269-56ab-105456883283
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.InternetCodepage Property (Outlook)
+# TaskItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 
 
 ## Syntax
 
- _expression_. `InternetCodepage`
+_expression_. `InternetCodepage`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks
@@ -67,7 +68,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 |Western European (ISO)|iso-8859-1|28591|
 |Western European (Windows) |Windows-1252|1252|
 
-The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
+The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
 
 
@@ -95,3 +96,4 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

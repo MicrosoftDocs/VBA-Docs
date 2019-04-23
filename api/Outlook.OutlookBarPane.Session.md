@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane.Session Property (Outlook)
+title: OutlookBarPane.Session property (Outlook)
 keywords: vbaol11.chm361
 f1_keywords:
 - vbaol11.chm361
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarPane.Session
 ms.assetid: 8aa3d36b-2044-85a7-2b79-86c6b161c4df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarPane.Session Property (Outlook)
+# OutlookBarPane.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPane.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [OutlookBarPane Object](Outlook.OutlookBarPane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Page Object (Publisher)
+title: Page object (Publisher)
 keywords: vbapb10.chm458751
 f1_keywords:
 - vbapb10.chm458751
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Page
 ms.assetid: 9b2e8f29-26c3-1008-0ffd-eea2147abca4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page Object (Publisher)
+# Page object (Publisher)
 
 Represents a page in a publication. The  **[Pages](./Publisher.Pages.md)** collection contains all the **Page** objects in a publication.
 
@@ -30,7 +31,7 @@ Sub AddPageNumberField()
 End Sub
 ```
 
-Use the  **[FindBypageID](./Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](./Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
+Use the  **[FindByPageID](./Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](./Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
 
 
 
@@ -55,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Publisher.Page.Delete.md)|
 |[Duplicate](./Publisher.Page.Duplicate.md)|
@@ -67,7 +68,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Page.Application.md)|
 |[Background](./Publisher.Page.Background.md)|
@@ -97,3 +98,4 @@ End Sub
 |[XOffsetWithinReaderSpread](./Publisher.Page.XOffsetWithinReaderSpread.md)|
 |[YOffsetWithinReaderSpread](./Publisher.Page.YOffsetWithinReaderSpread.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

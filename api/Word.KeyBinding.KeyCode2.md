@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.KeyCode2 Property (Word)
+title: KeyBinding.KeyCode2 property (Word)
 keywords: vbawd10.chm160956423
 f1_keywords:
 - vbawd10.chm160956423
@@ -8,17 +8,18 @@ api_name:
 - Word.KeyBinding.KeyCode2
 ms.assetid: b041fb3f-1777-f56a-4808-f96e570f5440
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.KeyCode2 Property (Word)
+# KeyBinding.KeyCode2 property (Word)
 
-Returns a unique number for the second key in the specified key binding. Read-only  **Long** .
+Returns a unique number for the second key in the specified key binding. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `KeyCode2`
+_expression_. `KeyCode2`
 
  _expression_ An expression that returns a '[KeyBinding](Word.KeyBinding.md)' object.
 
@@ -50,3 +51,4 @@ Next aKey
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

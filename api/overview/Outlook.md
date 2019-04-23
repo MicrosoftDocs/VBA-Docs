@@ -3,6 +3,7 @@ title: Outlook Visual Basic for Applications (VBA) reference
 ms.prod: outlook
 description: Conceptual overviews, programming tasks, samples, and references to help you develop Outlook solutions.
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 # Outlook VBA reference
@@ -21,9 +22,11 @@ Use the table of contents in the navigation on the left to view the topics in th
 - [Object model reference](outlook/object-model.md): Provides reference materials for the Outlook object model.
 
 > [!NOTE] 
-> The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the [Visual Basic for Applications language reference](https://docs.microsoft.com/office/vba/api/overview/language-reference).
+> The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the [Visual Basic for Applications language reference](language-reference.md).
 
 
 ## See also
 
 - [Outlook (Office client development)](https://docs.microsoft.com/office/client-developer/outlook/outlook-home)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

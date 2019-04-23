@@ -1,5 +1,5 @@
 ---
-title: Application.AutomationSecurity Property (PowerPoint)
+title: Application.AutomationSecurity property (PowerPoint)
 keywords: vbapp10.chm502048
 f1_keywords:
 - vbapp10.chm502048
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.AutomationSecurity
 ms.assetid: 942341fe-5290-2903-db70-4e7cff0d75c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AutomationSecurity Property (PowerPoint)
+# Application.AutomationSecurity property (PowerPoint)
 
 Represents the security mode that Microsoft PowerPoint uses when it opens files programmatically. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutomationSecurity`
+_expression_. `AutomationSecurity`
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -38,7 +39,7 @@ The value of the  **AutomationSecurity** property can be one of these **MsoAutom
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAutomationSecurityByUI**|Uses the security setting specified in the  **Trust Center** dialog box.|
 |**msoAutomationSecurityForceDisable**| Disables all macros in all files opened programmatically without showing any security alerts.|
@@ -79,3 +80,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

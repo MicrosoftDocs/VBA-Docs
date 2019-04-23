@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Column Property (Publisher)
+title: MailMergeFilterCriterion.Column property (Publisher)
 keywords: vbapb10.chm6815747
 f1_keywords:
 - vbapb10.chm6815747
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilterCriterion.Column
 ms.assetid: 000b4b4c-73a1-ea9f-6f44-bc6eac15cb4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Column Property (Publisher)
+# MailMergeFilterCriterion.Column property (Publisher)
 
 Returns a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 
 
 ## Syntax
 
- _expression_. **Column**
+_expression_.**Column**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
@@ -45,4 +46,4 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

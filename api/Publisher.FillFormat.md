@@ -1,5 +1,5 @@
 ---
-title: FillFormat Object (Publisher)
+title: FillFormat object (Publisher)
 keywords: vbapb10.chm2424831
 f1_keywords:
 - vbapb10.chm2424831
@@ -8,10 +8,11 @@ api_name:
 - Publisher.FillFormat
 ms.assetid: 0a5d4f7a-c42a-28ad-c86d-ac9828a3b874
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat Object (Publisher)
+# FillFormat object (Publisher)
 
 Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semitransparent fill.
  
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OneColorGradient](Publisher.FillFormat.OneColorGradient.md)|
 |[Patterned](Publisher.FillFormat.Patterned.md)|
@@ -62,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.FillFormat.Application.md)|
 |[BackColor](Publisher.FillFormat.BackColor.md)|
@@ -88,3 +89,4 @@ End Sub
 |[Type](Publisher.FillFormat.Type.md)|
 |[Visible](Publisher.FillFormat.Visible.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

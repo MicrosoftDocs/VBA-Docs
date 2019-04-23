@@ -1,20 +1,21 @@
 ---
-title: Report.Delete Method (Project)
+title: Report.Delete method (Project)
 keywords: vbapj.chm132549
 f1_keywords:
 - vbapj.chm132549
 ms.prod: project-server
 ms.assetid: 8a6b35c1-8552-b1be-2823-913790825a82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Report.Delete Method (Project)
+# Report.Delete method (Project)
 Deletes the report.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents a 'Report' object.
 
@@ -51,3 +52,5 @@ End Sub
 
 
 [Report Object](Project.report.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

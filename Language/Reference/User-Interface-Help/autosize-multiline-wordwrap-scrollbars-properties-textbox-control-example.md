@@ -1,33 +1,27 @@
 ---
-title: AutoSize, MultiLine, WordWrap, ScrollBars Properties, TextBox Control Example
+title: AutoSize, MultiLine, WordWrap, ScrollBars properties, TextBox control example
 keywords: fm20.chm5225173
 f1_keywords:
 - fm20.chm5225173
 ms.prod: office
 ms.assetid: aeac8985-2fe9-9fe8-6ad1-74e5322bc180
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# AutoSize, MultiLine, WordWrap, ScrollBars Properties, TextBox Control Example
+# AutoSize, MultiLine, WordWrap, ScrollBars properties, TextBox control example
 
-The following example demonstrates the  **MultiLine**, **WordWrap**, and **ScrollBars** properties on a **TextBox**.
+The following example demonstrates the **[MultiLine](multiline-property.md)**, **[WordWrap](wordwrap-property.md)**, and **[ScrollBars](scrollbars-property.md)** properties on a **[TextBox](textbox-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.    
+- Four **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 through ToggleButton4.
     
-- Four  **ToggleButton** controls named ToggleButton1 through ToggleButton4.
-    
+To see the entire text placed in the **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
 
-To see the entire text placed in the  **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
-When  **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
- **ScrollBars** appears when you manually change the content of the **TextBox**.
-
-
+When **MultiLine** is **True**, you can enter new lines of text by pressing Shift+Enter. **ScrollBars** appears when you manually change the content of the **TextBox**.
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -70,8 +64,7 @@ Private Sub ToggleButton1_Click()
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub ToggleButton2_Click() 
@@ -87,8 +80,7 @@ Private Sub ToggleButton2_Click()
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub ToggleButton3_Click() 
@@ -104,8 +96,7 @@ Private Sub ToggleButton3_Click()
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub ToggleButton4_Click() 
@@ -121,4 +112,4 @@ Private Sub ToggleButton4_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

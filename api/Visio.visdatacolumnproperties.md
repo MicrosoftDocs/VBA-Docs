@@ -1,15 +1,16 @@
 ---
-title: VisDataColumnProperties Enumeration (Visio)
+title: VisDataColumnProperties enumeration (Visio)
 keywords: vis_sdr.chm70500
 f1_keywords:
 - vis_sdr.chm70500
 ms.prod: visio
 ms.assetid: b2cf84b8-fa84-7084-520c-3c01b9ef6cf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDataColumnProperties Enumeration (Visio)
+# VisDataColumnProperties enumeration (Visio)
 
 Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** and **[DataColumns.SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** methods and returned by the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** method.
 
@@ -29,3 +30,4 @@ Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.D
 | **visDataColumnPropertyUnits**|4|Units property of the data column.|
 | **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI, and therefore if the data column participates in data linking. For shapes linked to data rows in a data recordset, only visible columns populate shape data items in the shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

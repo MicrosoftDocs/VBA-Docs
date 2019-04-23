@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3d8a04dd-fae2-4404-aedc-45429e612f7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeProject.RemovePersonalInformation property (Access)](http://msdn.microsoft.com/library/e5332cce-31a9-6aed-11d3-9aa1329123a8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

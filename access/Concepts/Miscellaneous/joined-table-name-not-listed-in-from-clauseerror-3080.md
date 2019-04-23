@@ -3,6 +3,7 @@ title: Joined table <name> not listed in FROM clause. (Error 3080)
 ms.prod: access
 ms.assetid: 186fecef-75b1-d7db-3133-c3b9c90bcd9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ Add the specified table name to the FROM clause of the query, and then try the o
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

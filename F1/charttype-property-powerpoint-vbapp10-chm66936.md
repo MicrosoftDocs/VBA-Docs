@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0373e8e3-56bd-4d90-9006-bd6602f1e545
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ChartType Property (PowerPoint)](http://msdn.microsoft.com/library/5a806b77-1efd-fd3a-132f-f6e3afd7315d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

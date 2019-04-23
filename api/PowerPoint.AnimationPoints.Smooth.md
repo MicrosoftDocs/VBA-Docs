@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints.Smooth Property (PowerPoint)
+title: AnimationPoints.Smooth property (PowerPoint)
 keywords: vbapp10.chm663005
 f1_keywords:
 - vbapp10.chm663005
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationPoints.Smooth
 ms.assetid: cf41b527-91cc-81ac-ebb8-8fdf40bee5df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationPoints.Smooth Property (PowerPoint)
+# AnimationPoints.Smooth property (PowerPoint)
 
 Determines whether the transition from one animation point to another is smoothed. Read/write.
 
 
 ## Syntax
 
- _expression_. `Smooth`
+_expression_. `Smooth`
 
- _expression_ A variable that represents a [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
+_expression_ A variable that represents a [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **Smooth** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The animation point should not be smoothed.|
 |**msoTrue**| The default. The animation should be smoothed.|
@@ -60,3 +61,4 @@ End Sub
 [LegendKey Object](PowerPoint.LegendKey.md)
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

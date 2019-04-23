@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetEditingType Method (Publisher)
+title: ShapeNodes.SetEditingType method (Publisher)
 keywords: vbapb10.chm3473427
 f1_keywords:
 - vbapb10.chm3473427
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeNodes.SetEditingType
 ms.assetid: f90b1323-d682-1b2b-6747-cea5f2cead3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetEditingType Method (Publisher)
+# ShapeNodes.SetEditingType method (Publisher)
 
 Sets the editing type of the specified node. If the node is a control point for a curved segment, this method sets the editing type of the node adjacent to it that joins two segments. Depending on the editing type, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
- _expression_. **SetEditingType**(**_Index_**,  **_EditingType_**)
+_expression_.**SetEditingType**(**_Index_**,  **_EditingType_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 
@@ -38,7 +39,7 @@ The EditingType parameter can be one of the  **MsoEditingType** constants declar
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoEditingAuto**|Changes the node to a type appropriate to the segments being connected.|
 | **msoEditingCorner**| Changes the node to a corner node.|
@@ -64,4 +65,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

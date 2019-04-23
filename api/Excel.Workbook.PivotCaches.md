@@ -1,5 +1,5 @@
 ---
-title: Workbook.PivotCaches Method (Excel)
+title: Workbook.PivotCaches method (Excel)
 keywords: vbaxl10.chm199124
 f1_keywords:
 - vbaxl10.chm199124
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.PivotCaches
 ms.assetid: 0a2e7f10-c123-5c98-fb71-56868b9f8bde
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.PivotCaches Method (Excel)
+# Workbook.PivotCaches method (Excel)
 
 Returns a  **[PivotCaches](Excel.PivotCaches.md)** collection that represents all the PivotTable caches in the specified workbook. Read-only.
 
 
 ## Syntax
 
- _expression_. `PivotCaches`
+_expression_. `PivotCaches`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

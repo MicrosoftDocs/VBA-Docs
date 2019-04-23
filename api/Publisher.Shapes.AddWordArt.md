@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWordArt Method (Publisher)
+title: Shapes.AddWordArt method (Publisher)
 keywords: vbapb10.chm2162761
 f1_keywords:
 - vbapb10.chm2162761
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddWordArt
 ms.assetid: 8ff83baa-5d88-5f80-3a69-5f712ba5e583
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddWordArt Method (Publisher)
+# Shapes.AddWordArt method (Publisher)
 
 Returns a  **Shape** object that represents the WordArt to be added to the publication.
 
 
 ## Syntax
 
- _expression_. **AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+_expression_.**AddWordArt**(**_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -49,7 +50,7 @@ The  **FontBold** parameter value can be one of the following **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the WordArt are formatted as bold.|
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as bold and some text not formatted as bold.|
@@ -60,10 +61,11 @@ The  **FontItalic** parameter value can be one of the following **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the WordArt are formatted as italic.|
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as italic and some text not formatted as italic.|
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the WordArt are formatted as italic.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

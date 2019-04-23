@@ -1,5 +1,5 @@
 ---
-title: Options.InsertedTextMark Property (Word)
+title: Options.InsertedTextMark property (Word)
 keywords: vbawd10.chm162988089
 f1_keywords:
 - vbawd10.chm162988089
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.InsertedTextMark
 ms.assetid: 6c17aa01-2dcb-cf0e-6e8d-bd7f0b254fe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.InsertedTextMark Property (Word)
+# Options.InsertedTextMark property (Word)
 
-Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark** .
+Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark**.
 
 
 ## Syntax
 
- _expression_. `InsertedTextMark`
+_expression_. `InsertedTextMark`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

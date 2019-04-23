@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.MouseUp Event (Outlook)
+title: OlkComboBox.MouseUp event (Outlook)
 keywords: vbaol11.chm1000239
 f1_keywords:
 - vbaol11.chm1000239
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkComboBox.MouseUp
 ms.assetid: 6ed2b75b-10e7-48a1-6cf6-8a6ec98ec923
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkComboBox.MouseUp Event (Outlook)
+# OlkComboBox.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

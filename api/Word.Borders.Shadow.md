@@ -1,5 +1,5 @@
 ---
-title: Borders.Shadow Property (Word)
+title: Borders.Shadow property (Word)
 keywords: vbawd10.chm154927109
 f1_keywords:
 - vbawd10.chm154927109
@@ -8,19 +8,20 @@ api_name:
 - Word.Borders.Shadow
 ms.assetid: 13f8b3b9-58e1-f28b-c99b-fa6bcdf39338
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.Shadow Property (Word)
+# Borders.Shadow property (Word)
 
- **True** if the specified border is formatted as shadowed. Read/write **Boolean** .
+ **True** if the specified border is formatted as shadowed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_.**Shadow**
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Example
@@ -48,3 +49,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

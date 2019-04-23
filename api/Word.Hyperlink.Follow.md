@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (Word)
+title: Hyperlink.Follow method (Word)
 keywords: vbawd10.chm161284200
 f1_keywords:
 - vbawd10.chm161284200
@@ -8,19 +8,20 @@ api_name:
 - Word.Hyperlink.Follow
 ms.assetid: ff8553f3-9da7-245f-75fc-77013b5b1e9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Follow Method (Word)
+# Hyperlink.Follow method (Word)
 
 Displays a cached document associated with the specified  **Hyperlink** object, if it has already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 
 
 ## Syntax
 
- _expression_. `Follow`( `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
+_expression_. `Follow`( `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
 
- _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
+_expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a cached document associated with the specified  **Hyperlink** object, 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _NewWindow_|Optional| **Variant**| **True** to display the target document in a new window. The default value is **False** .|
+| _NewWindow_|Optional| **Variant**| **True** to display the target document in a new window. The default value is **False**.|
 | _AddHistory_|Optional| **Variant**|This argument is reserved for future use.|
 | _ExtraInfo_|Optional| **Variant**|A string or byte array that specifies additional information for HTTP to use to resolve the hyperlink. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name. The string is either posted or appended, depending on the value of Method. Use the  **ExtraInfoRequired** property to determine whether extra information is required.|
 | _Method_|Optional| **Variant**|Specifies the way additional information for HTTP is handled. Can be any  **MsoExtraInfoMethod** constant.|
@@ -75,3 +76,4 @@ hypTemp.Follow NewWindow:=False, AddHistory:=True
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

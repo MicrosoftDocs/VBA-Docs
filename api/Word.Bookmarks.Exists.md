@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Exists Method (Word)
+title: Bookmarks.Exists method (Word)
 keywords: vbawd10.chm157745158
 f1_keywords:
 - vbawd10.chm157745158
@@ -8,17 +8,18 @@ api_name:
 - Word.Bookmarks.Exists
 ms.assetid: 7a9df80d-1a52-022f-f234-336369b73fca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmarks.Exists Method (Word)
+# Bookmarks.Exists method (Word)
 
 Determines whether the specified bookmark exists. Returns  **True** if the bookmark exists.
 
 
 ## Syntax
 
- _expression_. `Exists`( `_Name_` )
+_expression_. `Exists`( `_Name_` )
 
  _expression_ A variable that represents a '[Bookmarks](Word.bookmarks.md)' object.
 
@@ -48,3 +49,4 @@ End If
 
 [Bookmarks Collection Object](Word.bookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

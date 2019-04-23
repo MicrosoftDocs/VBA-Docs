@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (PowerPoint)
+title: Shapes.Count property (PowerPoint)
 keywords: vbapp10.chm543002
 f1_keywords:
 - vbapp10.chm543002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shapes.Count
 ms.assetid: bc313541-1e87-cc85-e489-80d53f18abe5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Count Property (PowerPoint)
+# Shapes.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

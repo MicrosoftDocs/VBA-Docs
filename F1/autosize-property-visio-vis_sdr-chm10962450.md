@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f0410363-031c-4868-9f24-78ade0a152e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Page.AutoSize Property (Visio)](http://msdn.microsoft.com/library/77223a08-61a8-85d5-439e-6dac7e291452.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

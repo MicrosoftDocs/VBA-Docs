@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Outlook)
+title: Pages object (Outlook)
 keywords: vbaol11.chm390
 f1_keywords:
 - vbaol11.chm390
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Pages
 ms.assetid: ed4dd77e-b339-7f43-d036-c02daa69d5b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages Object (Outlook)
+# Pages object (Outlook)
 
 Contains pages that represent the pages of an Inspector window.
 
@@ -24,7 +25,7 @@ Use the  **[ModifiedFormPages](Outlook.Inspector.ModifiedFormPages.md)** propert
 
 Use the  **[Add](Outlook.Pages.Add.md)** method to create a custom page (you can add as many as 5 customizable pages). Use the ** _Name_** argument of the **Add** method to set the display name of the returned page. In addition to adding custom pages, you can use the _Name_ argument to return the main page of an **Inspector** object for modification.
 
-Use  **ModifiedFormPages** ( _index_ ), where _index_ is the name or index number, to return a single page from a **Pages** object.
+Use  **ModifiedFormPages** (_index_), where _index_ is the name or index number, to return a single page from a **Pages** object.
 
 
 ## Example
@@ -83,7 +84,7 @@ Set myPage = myPages.Add("General")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Pages.Add.md)|
 |[Item](Outlook.Pages.Item.md)|
@@ -93,7 +94,7 @@ Set myPage = myPages.Add("General")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Pages.Application.md)|
 |[Class](Outlook.Pages.Class.md)|
@@ -103,4 +104,6 @@ Set myPage = myPages.Add("General")
 
 ## See also
 
-- [Object model (Outlook)](./overview/Outlook/object-model.md)
+- [Object model (Outlook)](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

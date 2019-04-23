@@ -1,5 +1,5 @@
 ---
-title: Range.CheckSpelling Method (Excel)
+title: Range.CheckSpelling method (Excel)
 keywords: vbaxl10.chm144093
 f1_keywords:
 - vbaxl10.chm144093
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.CheckSpelling
 ms.assetid: 22540515-0b0f-ce3c-0145-e46d477d1b5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.CheckSpelling Method (Excel)
+# Range.CheckSpelling method (Excel)
 
 Checks the spelling of an object.
 
 
 ## Syntax
 
- _expression_. `CheckSpelling`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_AlwaysSuggest_` , `_SpellLang_` )
+_expression_. `CheckSpelling`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_AlwaysSuggest_` , `_SpellLang_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ To check only cells and notes, use this method with the object returned by the  
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

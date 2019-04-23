@@ -5,6 +5,7 @@ api_name:
 - Visio.SilentMode
 ms.assetid: 93161e3b-3469-3b86-5143-3ea42229eeea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether any component of the user interface (either that of Microsoft
 
 ## Syntax
 
- _expression_. **SilentMode**
+_expression_.**SilentMode**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -35,4 +36,4 @@ To control only the display of dialog boxes in the Visio user interface, use the
 
 If both the  **QuietMode** and **SilentMode** properties are set to **True**, the  **SilentMode** property takes precedence and no user interface components are displayed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

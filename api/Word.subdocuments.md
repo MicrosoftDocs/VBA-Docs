@@ -1,15 +1,16 @@
 ---
-title: Subdocuments Object (Word)
+title: Subdocuments object (Word)
 keywords: vbawd10.chm2440
 f1_keywords:
 - vbawd10.chm2440
 ms.prod: word
 ms.assetid: 8e14fced-19b3-2794-39a3-9e5ec15dd0ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocuments Object (Word)
+# Subdocuments object (Word)
 
 A collection of  **[Subdocument](Word.Subdocument.md)** objects that represent the subdocuments in a range or document.
 
@@ -66,5 +67,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

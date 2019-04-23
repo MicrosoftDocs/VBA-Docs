@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeEdit Event (Word)
+title: Application.ProtectedViewWindowBeforeEdit event (Word)
 keywords: vbawd10.chm4000031
 f1_keywords:
 - vbawd10.chm4000031
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: 1ea33944-1b2f-f914-f04a-81751cc750f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeEdit Event (Word)
+# Application.ProtectedViewWindowBeforeEdit event (Word)
 
 Occurs immediately before editing is enabled on the document in the specified protected view window.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowBeforeEdit`( `_PvWindow_` , `_Cancel_` )
+_expression_. `ProtectedViewWindowBeforeEdit`( `_PvWindow_` , `_Cancel_` )
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -30,7 +31,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The protected view window that contains the document that is enabled for editing.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , editing is not enabled on the document.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, editing is not enabled on the document.|
 
 ## Example
 
@@ -59,3 +60,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

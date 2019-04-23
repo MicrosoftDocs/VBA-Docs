@@ -1,14 +1,15 @@
 ---
-title: PpFrameColors Enumeration (PowerPoint)
+title: PpFrameColors enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFrameColors
 ms.assetid: 549f586d-4201-09c0-cd29-c4ab681fed8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpFrameColors Enumeration (PowerPoint)
+# PpFrameColors enumeration (PowerPoint)
 
 Specifies the text color for the outline pane and the background color for the outline and slide panes for Web presentations.
 
@@ -22,3 +23,4 @@ Specifies the text color for the outline pane and the background color for the o
 |**ppFrameColorsPresentationSchemeTextColor**|2|Use the Presentation Scheme Text Color.|
 |**ppFrameColorsWhiteTextOnBlack**|4|Use Black text on a White frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

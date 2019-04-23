@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4963a9fa-cfd6-480f-8b57-d1d9d2cefdfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PredecessorDrivers Object (Project)](http://msdn.microsoft.com/library/a55a655c-3f43-77db-a861-dba8059e3a21%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

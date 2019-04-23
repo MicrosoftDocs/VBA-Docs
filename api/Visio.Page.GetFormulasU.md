@@ -1,5 +1,5 @@
 ---
-title: Page.GetFormulasU Method (Visio)
+title: Page.GetFormulasU method (Visio)
 keywords: vis_sdr.chm10951935
 f1_keywords:
 - vis_sdr.chm10951935
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.GetFormulasU
 ms.assetid: 8d7ba7d3-51e6-cd65-78ad-27640188e348
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.GetFormulasU Method (Visio)
+# Page.GetFormulasU method (Visio)
 
 Returns the formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetFormulasU`( `_SID_SRCStream()_` , `_formulaArray()_` )
+_expression_. `GetFormulasU`( `_SID_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -57,9 +58,9 @@ You can use the  **GetFormulasU** method to get formulas in universal syntax of 
 
 
 
- **Note**   If the _sheetID_ in an entry is **visInvalShapeID** (-1) or if the bottom byte of _sectionIdx_ is **visSectionInval** (255), the entry will be ignored and an empty variant will be returned in the corresponding results array entry. The reason for this is that the same _SID_SRCStream()_ array can be used on several calls to **GetFormulasU** , **SetFormulas** , and similar methods with the caller only needing to make minor changes to the stream between calls.
+ **Note**   If the _sheetID_ in an entry is **visInvalShapeID** (-1) or if the bottom byte of _sectionIdx_ is **visSectionInval** (255), the entry will be ignored and an empty variant will be returned in the corresponding results array entry. The reason for this is that the same _SID_SRCStream()_ array can be used on several calls to **GetFormulasU**, **SetFormulas**, and similar methods with the caller only needing to make minor changes to the stream between calls.
 
-If the  **GetFormulasU** method succeeds, _formulaArray()_ returns a one-dimensional array of _n_ variants indexed from 0 to _n_ - 1. Each variant returns a formula as a string. _formulaArray()_ is an out parameter that is allocated by the **GetFormulasU** method, which passes ownership back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. Note that the **SafeArrayDestroy** procedure has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetFormulasU** method returns. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.) The **GetFormulasU** method fails if _formulaArray()_ is **Null** .
+If the  **GetFormulasU** method succeeds, _formulaArray()_ returns a one-dimensional array of _n_ variants indexed from 0 to _n_ - 1. Each variant returns a formula as a string. _formulaArray()_ is an out parameter that is allocated by the **GetFormulasU** method, which passes ownership back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. Note that the **SafeArrayDestroy** procedure has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetFormulasU** method returns. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.) The **GetFormulasU** method fails if _formulaArray()_ is **Null**.
 
 
  **Note**  Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
@@ -117,4 +118,4 @@ Exit Sub
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

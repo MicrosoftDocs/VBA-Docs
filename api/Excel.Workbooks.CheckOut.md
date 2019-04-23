@@ -1,5 +1,5 @@
 ---
-title: Workbooks.CheckOut Method (Excel)
+title: Workbooks.CheckOut method (Excel)
 keywords: vbaxl10.chm203085
 f1_keywords:
 - vbaxl10.chm203085
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbooks.CheckOut
 ms.assetid: 11b9eb2a-8c9a-6e61-63e2-554030243388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbooks.CheckOut Method (Excel)
+# Workbooks.CheckOut method (Excel)
 
 Returns a  **String** representing a specified workbook from a server to a local computer for editing.
 
 
 ## Syntax
 
- _expression_. `CheckOut`( `_Filename_` )
+_expression_. `CheckOut`( `_FileName_` )
 
- _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Returns a  **String** representing a specified workbook from a server to a local
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the file to check out.|
+| _FileName_|Required| **String**|The name of the file to check out.|
 
 ## Example
 
@@ -55,3 +56,4 @@ End Sub
 
 [Workbooks Object](Excel.Workbooks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.DocumentUpdating Property (Publisher)
+title: MailMerge.DocumentUpdating property (Publisher)
 keywords: vbapb10.chm6225925
 f1_keywords:
 - vbapb10.chm6225925
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMerge.DocumentUpdating
 ms.assetid: c65ca4a0-e5eb-d97e-9126-4af86f4e805f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.DocumentUpdating Property (Publisher)
+# MailMerge.DocumentUpdating property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether the screen is updated while mail merge code is running. Default is **True** (the screen is updated). Read/write.
 
 
 ## Syntax
 
- _expression_. **DocumentUpdating**
+_expression_.**DocumentUpdating**
 
  _expression_ A variable that represents a  **MailMerge** object.
 
@@ -45,4 +46,4 @@ ActiveDocument.MailMerge.DocumentUpdating = True
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

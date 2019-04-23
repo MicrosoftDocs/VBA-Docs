@@ -3,6 +3,7 @@ title: Outlook Object Model Security Warnings
 ms.prod: outlook
 ms.assetid: 7e0cd805-5104-73af-d74f-b00480db91c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,4 +44,4 @@ If the user clicks **Deny**, Outlook blocks the call to the **[Execute](../../..
 
 If the user clicks **Allow**, the call that invoked the warning, and only that call, is allowed. Subsequent calls from an untrusted solution to execute an action will continue to invoke warnings.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

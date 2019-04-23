@@ -3,6 +3,7 @@ title: Assign a Picture to a Control
 ms.prod: outlook
 ms.assetid: 5372bdcb-71fc-56fe-94a3-39e33d76f913
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,6 +37,5 @@ For more information about the  **Picture** property to set for a specific contr
 - The  **[Picture](../../../api/Outlook.page.picture.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
 - The  **[Picture](../../../api/Outlook.togglebutton.picture.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

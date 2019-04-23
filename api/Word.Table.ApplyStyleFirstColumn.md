@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleFirstColumn Property (Word)
+title: Table.ApplyStyleFirstColumn property (Word)
 keywords: vbawd10.chm156303564
 f1_keywords:
 - vbawd10.chm156303564
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.ApplyStyleFirstColumn
 ms.assetid: 9802ff74-321d-a44c-2cac-9f17b91210d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ApplyStyleFirstColumn Property (Word)
+# Table.ApplyStyleFirstColumn property (Word)
 
- **True** for Microsoft Word to apply first-column formatting to the first column of the specified table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply first-column formatting to the first column of the specified table. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyStyleFirstColumn`
+_expression_. `ApplyStyleFirstColumn`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
@@ -51,3 +52,4 @@ End Sub
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

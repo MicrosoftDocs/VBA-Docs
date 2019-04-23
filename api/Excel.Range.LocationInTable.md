@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.LocationInTable
 ms.assetid: 7a86a0fe-cd46-331e-595b-6be168091d0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.LocationInTable property (Excel)
 
-Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTable.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[XlLocationInTable](Excel.XlLocationInTable.md)** . constants. Read-only **Long** .
+Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTable.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[XlLocationInTable](Excel.XlLocationInTable.md)**. constants. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `LocationInTable`
+_expression_. `LocationInTable`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTab
 
 
 
-| **XlLocationInTable** can be one of these **XlLocationInTable** constants.|
+| **xlLocationInTable** can be one of these **xlLocationInTable** constants.|
 | **xlRowHeader**|
 | **xlColumnHeader**|
 | **xlPageHeader**|
@@ -75,3 +76,4 @@ End Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

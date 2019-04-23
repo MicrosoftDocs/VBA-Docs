@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomViews.Application
 ms.assetid: ef0fb9aa-fad7-7480-0d59-eb374e0ef332
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [CustomViews](Excel.CustomViews.md) object.
+_expression_ A variable that represents a **[CustomViews](Excel.CustomViews.md)** object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [CustomViews Object](Excel.CustomViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

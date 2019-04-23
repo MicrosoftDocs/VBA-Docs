@@ -3,6 +3,7 @@ title: Page.Cycle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 729e72fa-5d2b-a754-481b-a9557d5d3c87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies whether cycling includes controls
 
 ## Syntax
 
- _expression_. **Cycle**
+_expression_.**Cycle**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -30,4 +31,4 @@ The 0 setting transfers the focus to the first control of the next  **MultiPage*
 
 The 2 setting transfers the focus to the first control of the same form or the  **MultiPage** when the user tabs from the last control in the tab order.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

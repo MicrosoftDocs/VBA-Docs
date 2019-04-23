@@ -1,5 +1,5 @@
 ---
-title: Application.HangulHanjaDictionaries Property (Word)
+title: Application.HangulHanjaDictionaries property (Word)
 keywords: vbawd10.chm158335086
 f1_keywords:
 - vbawd10.chm158335086
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.HangulHanjaDictionaries
 ms.assetid: 453e2a77-f363-5afc-d9a3-26f8b6516b4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.HangulHanjaDictionaries Property (Word)
+# Application.HangulHanjaDictionaries property (Word)
 
 Returns a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection that represents all the active custom conversion dictionaries.
 
 
 ## Syntax
 
- _expression_. `HangulHanjaDictionaries`
+_expression_. `HangulHanjaDictionaries`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -68,3 +69,4 @@ Next di
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

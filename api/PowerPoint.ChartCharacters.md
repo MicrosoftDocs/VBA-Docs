@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters Object (PowerPoint)
+title: ChartCharacters object (PowerPoint)
 keywords: vbapp10.chm686000
 f1_keywords:
 - vbapp10.chm686000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ChartCharacters
 ms.assetid: 2f659f71-f277-dab4-f2bd-631c7a2424de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartCharacters Object (PowerPoint)
+# ChartCharacters object (PowerPoint)
 
 Represents characters in an object that contains text. 
 
@@ -49,3 +50,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

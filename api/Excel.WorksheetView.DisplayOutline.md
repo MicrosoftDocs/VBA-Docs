@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetView.DisplayOutline
 ms.assetid: a1f75888-bc95-7aea-a34b-e75d73c406db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # WorksheetView.DisplayOutline property (Excel)
 
- **True** if outline symbols are displayed. Read/write **Boolean** .
+ **True** if outline symbols are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayOutline`
+_expression_. `DisplayOutline`
 
- _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
+_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property applies only to worksheets and macro sheets.
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

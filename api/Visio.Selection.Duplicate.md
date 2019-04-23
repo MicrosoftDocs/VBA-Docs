@@ -1,5 +1,5 @@
 ---
-title: Selection.Duplicate Method (Visio)
+title: Selection.Duplicate method (Visio)
 keywords: vis_sdr.chm11116245
 f1_keywords:
 - vis_sdr.chm11116245
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Duplicate
 ms.assetid: 515b522c-8b99-ea51-822f-47f0de24d330
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Duplicate Method (Visio)
+# Selection.Duplicate method (Visio)
 
 Duplicates a selection.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -61,4 +62,4 @@ Public Sub Duplicate_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

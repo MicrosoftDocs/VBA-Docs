@@ -1,5 +1,5 @@
 ---
-title: Documents.Open Method (Word)
+title: Documents.Open method (Word)
 keywords: vbawd10.chm158072851
 f1_keywords:
 - vbawd10.chm158072851
@@ -8,19 +8,20 @@ api_name:
 - Word.Documents.Open
 ms.assetid: 9e61e9d5-58d1-833a-5f93-b87299deb400
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.Open Method (Word)
+# Documents.Open method (Word)
 
 Opens the specified document and adds it to the  **Documents** collection. Returns a **Document** object.
 
 
 ## Syntax
 
- _expression_. `Open`( `_FileName_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Format_` , `_Encoding_` , `_Visible_` , `_OpenConflictDocument_` , `_OpenAndRepair_` , `_DocumentDirection_` , `_NoEncodingDialog_` )
+_expression_. `Open`( `_FileName_` , `_ConfirmConversions_` , `_ReadOnly_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_Format_` , `_Encoding_` , `_Visible_` , `_OpenConflictDocument_` , `_OpenAndRepair_` , `_DocumentDirection_` , `_NoEncodingDialog_` )
 
- _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
+_expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
 ## Parameters
@@ -38,13 +39,13 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 | _Revert_|Optional| **Variant**|Controls what happens if FileName is the name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file. **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password for saving changes to the document.|
 | _WritePasswordTemplate_|Optional| **Variant**|The password for saving changes to the template.|
-| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **WdOpenFormat** constants. The default value is **wdOpenFormatAuto** . To specify an external file format, apply the **OpenFormat** property to a **FileConverter** object to determine the value to use with this argument.|
+| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **WdOpenFormat** constants. The default value is **wdOpenFormatAuto**. To specify an external file format, apply the **OpenFormat** property to a **FileConverter** object to determine the value to use with this argument.|
 | _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Microsoft Word when you view the saved document. Can be any valid  **MsoEncoding** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default value is the system code page.|
-| _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True** .|
+| _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True**.|
 | _OpenConflictDocument_|Optional| **Variant**|Specifies whether to open the conflict file for a document with an offline conflict.|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
-| _DocumentDirection_|Optional| **WdDocumentDirection**|Indicates the horizontal flow of text in a document. The default value is  **wdLeftToRight** .|
-| _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the Encoding dialog box that Word displays if the text encoding cannot be recognized. The default value is **False** .|
+| _DocumentDirection_|Optional| **WdDocumentDirection**|Indicates the horizontal flow of text in a document. The default value is  **wdLeftToRight**.|
+| _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the Encoding dialog box that Word displays if the text encoding cannot be recognized. The default value is **False**.|
 
 ## Return value
 
@@ -86,3 +87,4 @@ End Sub
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

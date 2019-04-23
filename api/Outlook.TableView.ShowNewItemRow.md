@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowNewItemRow Property (Outlook)
+title: TableView.ShowNewItemRow property (Outlook)
 keywords: vbaol11.chm2527
 f1_keywords:
 - vbaol11.chm2527
@@ -8,24 +8,25 @@ api_name:
 - Outlook.TableView.ShowNewItemRow
 ms.assetid: 2e389bb6-9d1f-6c9d-0cdc-b177705d620b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.ShowNewItemRow Property (Outlook)
+# TableView.ShowNewItemRow property (Outlook)
 
 Returns or sets a  **Boolean** value that determines if the new item row is displayed in the **[TableView](Outlook.TableView.md)** object. Read/write
 
 
 ## Syntax
 
- _expression_. `ShowNewItemRow`
+_expression_. `ShowNewItemRow`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks
 
-The value of this property applies only if the  **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True** .
+The value of this property applies only if the  **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True**.
 
 
 ## Example
@@ -93,3 +94,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

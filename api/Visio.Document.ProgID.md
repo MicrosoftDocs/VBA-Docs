@@ -1,5 +1,5 @@
 ---
-title: Document.ProgID Property (Visio)
+title: Document.ProgID property (Visio)
 keywords: vis_sdr.chm10514160
 f1_keywords:
 - vis_sdr.chm10514160
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.ProgID
 ms.assetid: a3ae063b-8054-a5c7-4afd-2dac64ea6537
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ProgID Property (Visio)
+# Document.ProgID property (Visio)
 
 Returns the programmatic identifier of a shape that represents an ActiveX control, an embedded object, or linked object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProgID`
+_expression_. `ProgID`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -73,4 +74,4 @@ Public Sub ProgID_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

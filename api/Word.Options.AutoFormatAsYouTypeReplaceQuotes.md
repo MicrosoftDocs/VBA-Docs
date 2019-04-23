@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeReplaceQuotes Property (Word)
+title: Options.AutoFormatAsYouTypeReplaceQuotes property (Word)
 keywords: vbawd10.chm162988296
 f1_keywords:
 - vbawd10.chm162988296
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeReplaceQuotes
 ms.assetid: d0e2010c-efc3-f944-4daf-48f4ed36004b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeReplaceQuotes Property (Word)
+# Options.AutoFormatAsYouTypeReplaceQuotes property (Word)
 
- **True** if straight quotation marks are automatically changed to smart (curly) quotation marks as you type. Read/write **Boolean** .
+ **True** if straight quotation marks are automatically changed to smart (curly) quotation marks as you type. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeReplaceQuotes`
+_expression_. `AutoFormatAsYouTypeReplaceQuotes`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatReplaceQuotes
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

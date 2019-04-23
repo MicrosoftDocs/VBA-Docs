@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationHorizontal Method (PowerPoint)
+title: ThreeDFormat.IncrementRotationHorizontal method (PowerPoint)
 keywords: vbapp10.chm557021
 f1_keywords:
 - vbapp10.chm557021
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationHorizontal
 ms.assetid: 69ee3a3a-8ba3-a9c2-1c28-17ed54ba1c1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationHorizontal Method (PowerPoint)
+# ThreeDFormat.IncrementRotationHorizontal method (PowerPoint)
 
 Rotates the  **ThreeDFormat** object along the horizontal axis by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. `IncrementRotationHorizontal`( `_Increment_` )
+_expression_. `IncrementRotationHorizontal`( `_Increment_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -36,3 +37,4 @@ Rotates the  **ThreeDFormat** object along the horizontal axis by the specified 
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

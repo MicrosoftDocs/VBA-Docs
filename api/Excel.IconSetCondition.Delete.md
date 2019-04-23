@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.Delete Method (Excel)
+title: IconSetCondition.Delete method (Excel)
 keywords: vbaxl10.chm812082
 f1_keywords:
 - vbaxl10.chm812082
@@ -8,19 +8,20 @@ api_name:
 - Excel.IconSetCondition.Delete
 ms.assetid: cd9d4874-8d2c-3423-2264-95b335078c2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconSetCondition.Delete Method (Excel)
+# IconSetCondition.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Deletes the specified conditional formatting rule object.
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

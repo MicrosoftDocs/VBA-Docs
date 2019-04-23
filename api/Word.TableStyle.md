@@ -1,5 +1,5 @@
 ---
-title: TableStyle Object (Word)
+title: TableStyle object (Word)
 keywords: vbawd10.chm3735
 f1_keywords:
 - vbawd10.chm3735
@@ -8,10 +8,11 @@ api_name:
 - Word.TableStyle
 ms.assetid: 4f1f4489-0ef7-dff0-8f2a-77f87937f3ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableStyle Object (Word)
+# TableStyle object (Word)
 
 Represents a single style that can be applied to a table.
 
@@ -58,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Condition](Word.TableStyle.Condition.md)|
 
@@ -66,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Word.TableStyle.Alignment.md)|
 |[AllowBreakAcrossPage](Word.TableStyle.AllowBreakAcrossPage.md)|
@@ -89,4 +90,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

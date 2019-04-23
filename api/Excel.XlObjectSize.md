@@ -1,14 +1,15 @@
 ---
-title: xlObjectSize enumeration (Excel)
+title: XlObjectSize enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlObjectSize
 ms.assetid: a79fdba9-7f6b-8181-4202-a2ea5052bc52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlObjectSize enumeration (Excel)
+# XlObjectSize enumeration (Excel)
 
 Specifies the way a chart is scaled to fit on a page.
 
@@ -20,3 +21,4 @@ Specifies the way a chart is scaled to fit on a page.
 | **xlFullPage**|3|Print the chart to fit the page, adjusting the height-to-width ratio as necessary.|
 | **xlScreenSize**|1|Print the chart the same size as it appears on the screen.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

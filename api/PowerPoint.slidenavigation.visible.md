@@ -1,22 +1,23 @@
 ---
-title: SlideNavigation.Visible Property (PowerPoint)
+title: SlideNavigation.Visible property (PowerPoint)
 keywords: vbapp10.chm741002
 f1_keywords:
 - vbapp10.chm741002
 ms.assetid: 76b526a1-2720-e6e6-9b94-07abed30e7ef
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# SlideNavigation.Visible Property (PowerPoint)
+# SlideNavigation.Visible property (PowerPoint)
 
 Specifies whether the slide navigation screen is displayed during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
  _expression_ A variable that represents a 'SlideNavigation' object.
 
@@ -43,4 +44,4 @@ End Sub
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

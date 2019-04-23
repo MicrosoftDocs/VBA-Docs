@@ -3,6 +3,7 @@ title: Attachments (Outlook)
 ms.prod: outlook
 ms.assetid: 3712d56c-18d8-421f-afe6-c2cd0cffcb40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,5 +19,5 @@ ms.date: 06/08/2017
 -  [Limit the Size of an Attachment to an Outlook Email Message](../Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
     
 -  [Modify an Attachment of an Outlook Email Message](../Attachments/modify-an-attachment-of-an-outlook-email-message.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

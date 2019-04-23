@@ -8,19 +8,20 @@ api_name:
 - Excel.CustomView.PrintSettings
 ms.assetid: 6ad51940-134c-f522-42f3-3d94da2ac21c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # CustomView.PrintSettings property (Excel)
 
- **True** if print settings are included in the custom view. Read-only **Boolean** .
+ **True** if print settings are included in the custom view. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintSettings`
+_expression_. `PrintSettings`
 
- _expression_ A variable that represents a [CustomView](Excel.CustomView.md) object.
+_expression_ A variable that represents a **[CustomView](Excel.CustomView.md)** object.
 
 
 ## Example
@@ -49,3 +50,4 @@ End With
 
 [CustomView Object](Excel.CustomView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

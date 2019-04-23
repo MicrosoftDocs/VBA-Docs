@@ -1,26 +1,24 @@
 ---
-title: ListBox Control, List Property Example
+title: ListBox control, List property example
 keywords: fm20.chm5225171
 f1_keywords:
 - fm20.chm5225171
 ms.prod: office
 ms.assetid: 14396c81-9137-7352-906c-acf70e9e77b0
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ListBox Control, List Property Example
+# ListBox control, List property example
 
-The following example swaps columns of a multicolumn  **ListBox**. The sample uses the **List** property in two ways:
+The following example swaps columns of a multicolumn **[ListBox](listbox-control.md)**. The sample uses the **[List](list-property-microsoft-forms.md)** property in two ways:
 
-
-
-1. To access and exchange individual values in the  **ListBox**. In this usage, **List** has subscripts to designate the row and column of a specified value.
+- To access and exchange individual values in the **ListBox**. In this usage, **List** has subscripts to designate the row and column of a specified value.
     
-2. To initially load the  **ListBox** with values from an array. In this usage, **List** has no subscripts.
+- To initially load the **ListBox** with values from an array. In this usage, **List** has no subscripts.
     
-
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **ListBox** named ListBox1 and a **CommandButton** named CommandButton1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **ListBox** named ListBox1 and a **[CommandButton](commandbutton-control.md)** named CommandButton1.
 
 
 
@@ -47,7 +45,7 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -65,4 +63,4 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

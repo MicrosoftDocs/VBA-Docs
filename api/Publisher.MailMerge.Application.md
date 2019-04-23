@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Application Property (Publisher)
+title: MailMerge.Application property (Publisher)
 keywords: vbapb10.chm6225921
 f1_keywords:
 - vbapb10.chm6225921
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMerge.Application
 ms.assetid: 44a89300-ff8a-ccc6-5646-6ef7e4cb8138
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.Application Property (Publisher)
+# MailMerge.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **MailMerge** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

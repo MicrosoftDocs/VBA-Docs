@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.Pages Property (Publisher)
+title: ReaderSpread.Pages property (Publisher)
 keywords: vbapb10.chm524293
 f1_keywords:
 - vbapb10.chm524293
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ReaderSpread.Pages
 ms.assetid: 181c37b2-ed3f-826a-5718-ae6aff120eb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReaderSpread.Pages Property (Publisher)
+# ReaderSpread.Pages property (Publisher)
 
 Returns a  **[Page](Publisher.Page.md)** object representing one of the pages that compose the specified reader spread.
 
 
 ## Syntax
 
- _expression_. **Pages**(**_Index_**)
+_expression_.**Pages**(**_Index_**)
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 
@@ -55,4 +56,4 @@ With ActiveDocument.Pages(5).ReaderSpread
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

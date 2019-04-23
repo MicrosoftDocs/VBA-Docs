@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddHorizontalLineStandard Method (Word)
+title: InlineShapes.AddHorizontalLineStandard method (Word)
 keywords: vbawd10.chm162070633
 f1_keywords:
 - vbawd10.chm162070633
@@ -8,19 +8,20 @@ api_name:
 - Word.InlineShapes.AddHorizontalLineStandard
 ms.assetid: de9d4613-4e64-9df8-aa9a-890335eb648d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShapes.AddHorizontalLineStandard Method (Word)
+# InlineShapes.AddHorizontalLineStandard method (Word)
 
 Adds a horizontal line to the current document.
 
 
 ## Syntax
 
- _expression_. `AddHorizontalLineStandard`( `_Range_` )
+_expression_. `AddHorizontalLineStandard`( `_Range_` )
 
- _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
+_expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveDocument.Paragraphs(5).Range _
 
 [InlineShapes Collection Object](Word.inlineshapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

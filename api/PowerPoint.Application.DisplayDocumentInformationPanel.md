@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayDocumentInformationPanel Property (PowerPoint)
+title: Application.DisplayDocumentInformationPanel property (PowerPoint)
 keywords: vbapp10.chm502057
 f1_keywords:
 - vbapp10.chm502057
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Application.DisplayDocumentInformationPanel
 ms.assetid: 473f5e46-2615-b456-12ca-440afda0e642
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DisplayDocumentInformationPanel Property (PowerPoint)
+# Application.DisplayDocumentInformationPanel property (PowerPoint)
 
 Returns or sets whether the  **Document Properties** panel is displayed in the Microsoft PowerPoint user interface. Read/write.
 
@@ -19,7 +20,7 @@ This property has been deprecated in Office 2016, but it remains part of the obj
 
 ## Syntax
 
- _expression_. `DisplayDocumentInformationPanel`
+_expression_. `DisplayDocumentInformationPanel`
 
  _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
 
@@ -34,3 +35,4 @@ Boolean
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

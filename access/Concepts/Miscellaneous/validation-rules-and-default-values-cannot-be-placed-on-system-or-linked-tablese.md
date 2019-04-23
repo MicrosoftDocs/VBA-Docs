@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: d1d818fe-14cb-052a-40d9-e038a1d193f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You are trying to set the  **DefaultValue**, **ValidationRule**, **ValidationTex
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

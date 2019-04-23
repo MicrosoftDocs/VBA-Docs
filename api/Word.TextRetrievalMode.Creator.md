@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.Creator Property (Word)
+title: TextRetrievalMode.Creator property (Word)
 keywords: vbawd10.chm154731497
 f1_keywords:
 - vbawd10.chm154731497
@@ -8,19 +8,20 @@ api_name:
 - Word.TextRetrievalMode.Creator
 ms.assetid: 5b83173f-2544-7a22-f189-11111faae807
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRetrievalMode.Creator Property (Word)
+# TextRetrievalMode.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
+_expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

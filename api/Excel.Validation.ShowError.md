@@ -8,19 +8,20 @@ api_name:
 - Excel.Validation.ShowError
 ms.assetid: 19f7e431-6a6a-d8ed-98fe-c931cfb95498
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Validation.ShowError property (Excel)
 
- **True** if the data validation error message will be displayed whenever the user enters invalid data. Read/write **Boolean** .
+ **True** if the data validation error message will be displayed whenever the user enters invalid data. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowError`
+_expression_. `ShowError`
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

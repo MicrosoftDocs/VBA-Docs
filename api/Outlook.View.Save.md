@@ -1,5 +1,5 @@
 ---
-title: View.Save Method (Outlook)
+title: View.Save method (Outlook)
 keywords: vbaol11.chm2488
 f1_keywords:
 - vbaol11.chm2488
@@ -8,19 +8,20 @@ api_name:
 - Outlook.View.Save
 ms.assetid: effc4046-2e9c-3898-e37f-c4de817ddde7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Save Method (Outlook)
+# View.Save method (Outlook)
 
 Saves the view, or saves the changes to a view.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks
@@ -67,3 +68,4 @@ End Sub
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

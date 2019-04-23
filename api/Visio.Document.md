@@ -1,5 +1,5 @@
 ---
-title: Document Object (Visio)
+title: Document object (Visio)
 keywords: vis_sdr.chm10080
 f1_keywords:
 - vis_sdr.chm10080
@@ -8,10 +8,11 @@ api_name:
 - Visio.Document
 ms.assetid: 21640062-13a2-a2b2-7c61-7e707671207c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document Object (Visio)
+# Document object (Visio)
 
 Represents a drawing file (.vsd or .vdx), stencil file (.vss or .vsx), or template file (.vst or .vtx) that is open in an instance of Microsoft Visio. A  **Document** object is a member of the **Documents** collection of an **Application** object.
 
@@ -53,7 +54,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterDocumentMerge](./Visio.document.afterdocumentmerge.md)|
 |[AfterRemoveHiddenInformation](./Visio.Document.AfterRemoveHiddenInformation.md)|
@@ -106,7 +107,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddUndoUnit](./Visio.Document.AddUndoUnit.md)|
 |[BeginUndoScope](./Visio.Document.BeginUndoScope.md)|
@@ -145,7 +146,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlternateNames](./Visio.Document.AlternateNames.md)|
 |[Application](./Visio.Document.Application.md)|
@@ -267,3 +268,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[ZoomBehavior](./Visio.Document.ZoomBehavior.md)|
 |[Permission](./Visio.document.permission.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

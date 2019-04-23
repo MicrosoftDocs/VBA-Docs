@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: ce08d6d6-5bad-a8c7-655f-f6e9ef4acae5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The database was stored in an earlier version of the Microsoft Access database e
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

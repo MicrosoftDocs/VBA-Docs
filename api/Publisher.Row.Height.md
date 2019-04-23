@@ -1,5 +1,5 @@
 ---
-title: Row.Height Property (Publisher)
+title: Row.Height property (Publisher)
 keywords: vbapb10.chm4849667
 f1_keywords:
 - vbapb10.chm4849667
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Row.Height
 ms.assetid: fd243edc-1521-bd67-a365-2c4685ee5037
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Height Property (Publisher)
+# Row.Height property (Publisher)
 
 Returns or sets a  **Variant** that represents the height (in points) of a specified table row or shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Height**
+_expression_.**Height**
 
  _expression_ A variable that represents a  **Row** object.
 
@@ -43,4 +44,4 @@ Sub SetRowHeightColumnWidth()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

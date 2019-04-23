@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.FormulaLocal
 ms.assetid: 245aee23-4d88-aa08-7166-658f044f6d26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

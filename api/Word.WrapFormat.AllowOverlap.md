@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.AllowOverlap Property (Word)
+title: WrapFormat.AllowOverlap property (Word)
 keywords: vbawd10.chm163774570
 f1_keywords:
 - vbawd10.chm163774570
@@ -8,24 +8,25 @@ api_name:
 - Word.WrapFormat.AllowOverlap
 ms.assetid: b224d70d-0128-cfec-39f2-97fd12b0c5ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.AllowOverlap Property (Word)
+# WrapFormat.AllowOverlap property (Word)
 
-Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write  **Long** .
+Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `AllowOverlap`
+_expression_. `AllowOverlap`
 
  _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## Remarks
 
-This property can be set to either  **True** or **False** . Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in Web layout view.
+This property can be set to either  **True** or **False**. Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in Web layout view.
 
 
 ## Example
@@ -43,3 +44,4 @@ ActiveDocument.Shapes(1).WrapFormat.AllowOverlap = True
 
 [WrapFormat Object](Word.WrapFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

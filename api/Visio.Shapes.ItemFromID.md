@@ -1,5 +1,5 @@
 ---
-title: Shapes.ItemFromID Property (Visio)
+title: Shapes.ItemFromID property (Visio)
 keywords: vis_sdr.chm11313775
 f1_keywords:
 - vis_sdr.chm11313775
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shapes.ItemFromID
 ms.assetid: 0e8e80a2-94f0-f451-b914-f8d8a56a3ef2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.ItemFromID Property (Visio)
+# Shapes.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) collection.
 
@@ -50,5 +51,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVShapes.get_ItemFromID**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

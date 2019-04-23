@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.GetConversation Method (Outlook)
+title: TaskRequestDeclineItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3502
 f1_keywords:
 - vbaol11.chm3502
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestDeclineItem.GetConversation
 ms.assetid: 2c6cdc44-3fb0-5cbc-dae4-a14ae2ed1fda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.GetConversation Method (Outlook)
+# TaskRequestDeclineItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)' object.
+_expression_ A variable that represents a '[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

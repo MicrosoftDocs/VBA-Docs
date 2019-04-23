@@ -1,14 +1,15 @@
 ---
-title: WdBorderDistanceFrom Enumeration (Word)
+title: WdBorderDistanceFrom enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBorderDistanceFrom
 ms.assetid: 5ab27988-44c2-a601-45b0-265821b01c15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdBorderDistanceFrom Enumeration (Word)
+# WdBorderDistanceFrom enumeration (Word)
 
 Specifies whether a page border is measured from the edge of the page or from the text it surrounds.
 
@@ -19,3 +20,4 @@ Specifies whether a page border is measured from the edge of the page or from th
 | **wdBorderDistanceFromPageEdge**|1|From the edge of the page.|
 | **wdBorderDistanceFromText**|0|From the text it surrounds.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

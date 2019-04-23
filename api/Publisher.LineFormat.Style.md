@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Style Property (Publisher)
+title: LineFormat.Style property (Publisher)
 keywords: vbapb10.chm3408144
 f1_keywords:
 - vbapb10.chm3408144
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.Style
 ms.assetid: 3826eb43-b90e-e24b-31d5-8d9eddd3ed4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Style Property (Publisher)
+# LineFormat.Style property (Publisher)
 
 Returns or sets an  **MsoLineStyle** constant that represents the style of line to apply to a shape or border. Read/write.
 
 
 ## Syntax
 
- _expression_. **Style**
+_expression_.**Style**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -60,4 +61,4 @@ Sub SetLineStyle()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

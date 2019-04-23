@@ -1,5 +1,5 @@
 ---
-title: Explorers.Add Method (Outlook)
+title: Explorers.Add method (Outlook)
 keywords: vbaol11.chm122
 f1_keywords:
 - vbaol11.chm122
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorers.Add
 ms.assetid: c3db3c6f-6441-c23e-06f2-afb5b61e5662
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorers.Add Method (Outlook)
+# Explorers.Add method (Outlook)
 
 Creates a new instance of the explorer window.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Folder_` , `_DisplayMode_` )
+_expression_.**Add**( `_Folder_` , `_DisplayMode_` )
 
- _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
+_expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 
 
 ## Parameters
@@ -81,3 +82,4 @@ End Sub
 
 [Explorers Object](Outlook.Explorers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

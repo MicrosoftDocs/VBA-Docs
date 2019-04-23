@@ -1,5 +1,5 @@
 ---
-title: TabStops.Parent Property (Publisher)
+title: TabStops.Parent property (Publisher)
 keywords: vbapb10.chm5570562
 f1_keywords:
 - vbapb10.chm5570562
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TabStops.Parent
 ms.assetid: 229e5cc5-9bc2-beaf-56d3-b615c157b0a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Parent Property (Publisher)
+# TabStops.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **TabStops** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

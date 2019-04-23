@@ -1,5 +1,5 @@
 ---
-title: Inspector.Display Method (Outlook)
+title: Inspector.Display method (Outlook)
 keywords: vbaol11.chm2966
 f1_keywords:
 - vbaol11.chm2966
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Inspector.Display
 ms.assetid: 49d97f21-ab8c-de1b-1fbd-9bbabe618d98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Inspector.Display Method (Outlook)
+# Inspector.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

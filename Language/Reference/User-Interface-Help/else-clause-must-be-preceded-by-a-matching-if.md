@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4054aec1-ef5d-a939-3c7e-715d4dcde19f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,3 +18,4 @@ An `#else` clause was detected that isn't preceded by a matching `#if` or `#else
     
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Database has reached maximum size. (Error 3036)
 ms.prod: access
 ms.assetid: 6c8f9a2f-aa7a-ea01-18d8-dc5e0f0f9ec0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ To add data to this database, you must first reduce its size by deleting data. T
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

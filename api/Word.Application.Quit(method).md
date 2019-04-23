@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Word)
+title: Application.Quit method (Word)
 keywords: vbawd10.chm158336081
 f1_keywords:
 - vbawd10.chm158336081
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.Quit
 ms.assetid: 0279d848-a8b7-dac7-1e84-a55c72789e3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Quit Method (Word)
+# Application.Quit method (Word)
 
 Quits Microsoft Word and optionally saves or routes the open documents.
 
 
 ## Syntax
 
- _expression_. `Quit`( `_SaveChanges_` , `_Format_` , `_RouteDocument_` )
+_expression_. `Quit`( `_SaveChanges_` , `_Format_` , `_RouteDocument_` )
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ If intResponse = vbYes Then Application.Quit _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

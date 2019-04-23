@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a201707b-439a-8ba9-4645-f6eee42a273c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The specified [project](../../Glossary/vbe-glossary.md#project) file has one or more invalid property settings. This error occurs only in regard to a project file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

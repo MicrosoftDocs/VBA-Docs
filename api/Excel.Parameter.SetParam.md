@@ -1,5 +1,5 @@
 ---
-title: Parameter.SetParam Method (Excel)
+title: Parameter.SetParam method (Excel)
 keywords: vbaxl10.chm523079
 f1_keywords:
 - vbaxl10.chm523079
@@ -8,19 +8,20 @@ api_name:
 - Excel.Parameter.SetParam
 ms.assetid: af1f5b0a-75a1-ae85-b291-cc3ab514b0a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Parameter.SetParam Method (Excel)
+# Parameter.SetParam method (Excel)
 
 Defines a parameter for the specified query table.
 
 
 ## Syntax
 
- _expression_. `SetParam`( `_Type_` , `_Value_` )
+_expression_. `SetParam`( `_Type_` , `_Value_` )
 
- _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Defines a parameter for the specified query table.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlParameterType](Excel.XlParameterType.md)**|One of the constants of  **XlParameterType** which specifies the parameter type.|
+| _Type_|Required| **[XlParameterType](Excel.XlParameterType.md)**|One of the constants of  **xlParameterType** which specifies the parameter type.|
 | _Value_|Required| **Variant**|The value of the specified parameter, as shown in the description of the  _Type_ argument.|
 
 ## Remarks
@@ -38,17 +39,17 @@ Defines a parameter for the specified query table.
 
 
 
-| **XlParameterType** can be one of these **XlParameterType** constants.|
-| **xlConstant** . Uses the value specified by the _Value_ argument.|
-| **xlPrompt** . Displays a dialog box that prompts the user for the value. The _Value_ argument specifies the text shown in the dialog box.|
-| **xlRange** . Uses the value of the cell in the upper-left corner of the range. The _Value_ argument specifies a **[Range](Excel.Range(object).md)** object|
+| **xlParameterType** can be one of these **xlParameterType** constants.|
+| **xlConstant**. Uses the value specified by the _Value_ argument.|
+| **xlPrompt**. Displays a dialog box that prompts the user for the value. The _Value_ argument specifies the text shown in the dialog box.|
+| **xlRange**. Uses the value of the cell in the upper-left corner of the range. The _Value_ argument specifies a **[Range](Excel.Range(object).md)** object|
 
 ## Example
 
 This example changes the SQL statement for query table one. The clause ?(city=?)? indicates that the query is a parameter query, and the example sets the value of city to the constant ?Oakland.?
 
 
-```sql
+```vb
 Set qt = Sheets("sheet1").QueryTables(1) 
 qt.Sql = "SELECT * FROM authors WHERE (city=?)" 
 Set param1 = qt.Parameters.Add("City Parameter", _ 
@@ -63,3 +64,4 @@ qt.Refresh
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

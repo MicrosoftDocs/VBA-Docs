@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeAssignmentDelete Event (Project)
+title: Application.ProjectBeforeAssignmentDelete event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentDelete
 ms.assetid: f0db513e-3dec-e9d6-8385-ac0117e8f28e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentDelete Event (Project)
+# Application.ProjectBeforeAssignmentDelete event (Project)
 
 Occurs before an assignment is removed or replaced.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeAssignmentDelete`( ` _asg_`, ` _Cancel_` )
+_expression_. `ProjectBeforeAssignmentDelete`( `_asg_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Project events do not occur when the project is embedded in another document or 
 
 The  **ProjectBeforeAssignmentDelete** event doesn't occur when an assignment is deleted as the result of a drag-and-drop operation in the **Resource Usage** view, or when changes have been made using a custom form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

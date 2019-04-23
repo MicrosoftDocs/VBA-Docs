@@ -1,5 +1,5 @@
 ---
-title: Effect.TextRangeStart Property (PowerPoint)
+title: Effect.TextRangeStart property (PowerPoint)
 keywords: vbapp10.chm652012
 f1_keywords:
 - vbapp10.chm652012
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Effect.TextRangeStart
 ms.assetid: b6da1565-84e2-acc4-4a06-166c5fda7071
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect.TextRangeStart Property (PowerPoint)
+# Effect.TextRangeStart property (PowerPoint)
 
 Returns or sets the start of a text range. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextRangeStart`
+_expression_. `TextRangeStart`
 
- _expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value
@@ -69,3 +70,4 @@ End Sub
 
 [Effect Object](PowerPoint.Effect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

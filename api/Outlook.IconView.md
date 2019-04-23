@@ -1,5 +1,5 @@
 ---
-title: IconView Object (Outlook)
+title: IconView object (Outlook)
 keywords: vbaol11.chm3206
 f1_keywords:
 - vbaol11.chm3206
@@ -8,10 +8,11 @@ api_name:
 - Outlook.IconView
 ms.assetid: dc2efa6c-4752-f713-f77e-378036f358dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconView Object (Outlook)
+# IconView object (Outlook)
 
 Represents a view that displays Outlook items as a series of labeled icons.
 
@@ -37,7 +38,7 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.IconView.Apply.md)|
 |[Copy](Outlook.IconView.Copy.md)|
@@ -50,7 +51,7 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.IconView.Application.md)|
 |[Class](Outlook.IconView.Class.md)|
@@ -71,4 +72,6 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

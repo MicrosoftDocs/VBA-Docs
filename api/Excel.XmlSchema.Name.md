@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlSchema.Name
 ms.assetid: 8cd91dd5-f8d0-4972-cc35-f3ea4171acd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the friendly name used to identify a
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [XmlSchema](./Excel.XmlSchema.md) object.
+_expression_ A variable that represents a [XmlSchema](Excel.XmlSchema.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** value that represents the friendly name used to identify a
 
 [XmlSchema Object](Excel.XmlSchema.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

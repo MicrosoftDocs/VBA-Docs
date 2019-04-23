@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceLeft Property (Publisher)
+title: WrapFormat.DistanceLeft property (Publisher)
 keywords: vbapb10.chm786439
 f1_keywords:
 - vbapb10.chm786439
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WrapFormat.DistanceLeft
 ms.assetid: 4d05ac86-f4a2-8a5e-bc7c-e303fee67e18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceLeft Property (Publisher)
+# WrapFormat.DistanceLeft property (Publisher)
 
 When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the left edge of the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **DistanceLeft**
+_expression_.**DistanceLeft**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 
@@ -47,4 +48,4 @@ Sub AddNewShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

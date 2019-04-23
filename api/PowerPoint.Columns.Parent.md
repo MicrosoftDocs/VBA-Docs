@@ -1,5 +1,5 @@
 ---
-title: Columns.Parent Property (PowerPoint)
+title: Columns.Parent property (PowerPoint)
 keywords: vbapp10.chm623002
 f1_keywords:
 - vbapp10.chm623002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Columns.Parent
 ms.assetid: 997abbd6-9a36-e80d-d1d8-543c182ca51a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Parent Property (PowerPoint)
+# Columns.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
+_expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [Columns Object](PowerPoint.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

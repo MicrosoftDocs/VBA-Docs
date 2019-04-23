@@ -1,12 +1,13 @@
 ---
-title: Shape Object (Project)
+title: Shape object (Project)
 ms.prod: project-server
 ms.assetid: d2b32bcd-5595-a4a7-9772-feb25fd0103a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape Object (Project)
+# Shape object (Project)
 Represents an object in a Project report, such as a chart, report table, text box, freeform drawing, or picture.
  
 
@@ -116,7 +117,7 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Project.shape.apply.md)|
 |[Copy](Project.shape.copy.md)|
@@ -140,7 +141,7 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Project.shape.adjustments.md)|
 |[AlternativeText](Project.shape.alternativetext.md)|
@@ -195,3 +196,5 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 [Report Object](Project.report.md)
  
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

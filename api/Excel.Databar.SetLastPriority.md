@@ -1,5 +1,5 @@
 ---
-title: Databar.SetLastPriority Method (Excel)
+title: Databar.SetLastPriority method (Excel)
 keywords: vbaxl10.chm810085
 f1_keywords:
 - vbaxl10.chm810085
@@ -8,19 +8,20 @@ api_name:
 - Excel.Databar.SetLastPriority
 ms.assetid: 985b1225-6816-fe3b-e973-5fd90aa1fe47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Databar.SetLastPriority Method (Excel)
+# Databar.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 
 
 ## Syntax
 
- _expression_. `SetLastPriority`
+_expression_.**SetLastPriority**
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

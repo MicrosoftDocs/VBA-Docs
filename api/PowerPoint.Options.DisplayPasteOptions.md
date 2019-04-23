@@ -1,5 +1,5 @@
 ---
-title: Options.DisplayPasteOptions Property (PowerPoint)
+title: Options.DisplayPasteOptions property (PowerPoint)
 keywords: vbapp10.chm667001
 f1_keywords:
 - vbapp10.chm667001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Options.DisplayPasteOptions
 ms.assetid: 4c5f0851-585c-e4c6-a6c7-c3bfd3666883
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DisplayPasteOptions Property (PowerPoint)
+# Options.DisplayPasteOptions property (PowerPoint)
 
 Determines whether Microsoft PowerPoint displays the  **Paste Options** button, which appears directly under newly pasted text. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayPasteOptions`
+_expression_. `DisplayPasteOptions`
 
  _expression_ A variable that represents a [Options](./PowerPoint.Options.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **DisplayPasteOptions** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The  **PasteOptions** button is not displayed.|
 |**msoTrue**| The **PasteOptions** button is displayed.|
@@ -66,3 +67,4 @@ End Sub
 
 [Options Object](PowerPoint.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

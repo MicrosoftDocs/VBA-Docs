@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.ParentItems
 ms.assetid: 361db264-aa5a-9547-5405-41203fe3df0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
 ## Syntax
 
- _expression_. `ParentItems`( `_Index_` )
+_expression_. `ParentItems` (_Index_)
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
 ## Remarks
 
-This property isn?t available for OLAP data sources.
+This property isn't available for OLAP data sources.
 
 
 ## Example
@@ -58,3 +59,4 @@ Next pvtItem
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

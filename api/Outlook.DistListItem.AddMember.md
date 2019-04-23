@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AddMember Method (Outlook)
+title: DistListItem.AddMember method (Outlook)
 keywords: vbaol11.chm1159
 f1_keywords:
 - vbaol11.chm1159
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.AddMember
 ms.assetid: 4c9b1310-1bbe-a5a1-9088-85efd18a7bf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.AddMember Method (Outlook)
+# DistListItem.AddMember method (Outlook)
 
-Adds a new member to the specified distribution list. The distribution list contains  **[Recipient](Outlook.Recipient.md)** objects that represent valid e-mail addresses.
+Adds a new member to the specified distribution list. The distribution list contains  **[Recipient](Outlook.Recipient.md)** objects that represent valid email addresses.
 
 
 ## Syntax
 
- _expression_. `AddMember`( `_Recipient_` )
+_expression_. `AddMember`( `_Recipient_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -89,3 +90,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebOptions.UseDefaultFolderSuffix Method (Word)
+title: WebOptions.UseDefaultFolderSuffix method (Word)
 keywords: vbawd10.chm165937253
 f1_keywords:
 - vbawd10.chm165937253
@@ -8,19 +8,20 @@ api_name:
 - Word.WebOptions.UseDefaultFolderSuffix
 ms.assetid: f31703d4-0020-ec34-bc70-a737e978c666
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.UseDefaultFolderSuffix Method (Word)
+# WebOptions.UseDefaultFolderSuffix method (Word)
 
 Sets the folder suffix for the specified document to the default suffix for the language support you have selected or installed.
 
 
 ## Syntax
 
- _expression_. `UseDefaultFolderSuffix`
+_expression_. `UseDefaultFolderSuffix`
 
- _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ActiveDocument.WebOptions.UseDefaultFolderSuffix
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

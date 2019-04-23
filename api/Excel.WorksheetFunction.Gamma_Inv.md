@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Gamma_Inv Method (Excel)
+title: WorksheetFunction.Gamma_Inv method (Excel)
 keywords: vbaxl10.chm137367
 f1_keywords:
 - vbaxl10.chm137367
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Gamma_Inv
 ms.assetid: a13d812f-9e27-e5e0-0226-7b0f5c666a91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Gamma_Inv Method (Excel)
+# WorksheetFunction.Gamma_Inv method (Excel)
 
 Returns the inverse of the gamma cumulative distribution. If p = GAMMA_DIST(x,...), then GAMMA_INV(p,...) = x.
 
 
 ## Syntax
 
- _expression_. `Gamma_Inv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Gamma_Inv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Given a value for probability, GAMMA_INV seeks that value x such that GAMMA_DIST
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

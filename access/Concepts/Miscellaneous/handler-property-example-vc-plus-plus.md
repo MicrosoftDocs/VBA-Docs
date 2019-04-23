@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 9dcdb181-d4d9-36f9-ca64-153076af7205
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ This example demonstrates the [RDS DataControl](https://msdn.microsoft.com/libra
 
 Assume that the following sections in the parameter file, Msdfmap.ini, are located on the server:
 
-```sql
+```ini
 [connect AuthorDataBase] 
 Access=ReadWrite 
 Connect="DSN=Pubs" 
@@ -89,3 +90,5 @@ printf("\tSource = %s\n", (LPCSTR) bstrSource);printf("\tDescription = %s\n", (L
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

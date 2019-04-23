@@ -1,5 +1,5 @@
 ---
-title: Styles.GetNames Method (Visio)
+title: Styles.GetNames method (Visio)
 keywords: vis_sdr.chm11516315
 f1_keywords:
 - vis_sdr.chm11516315
@@ -8,17 +8,18 @@ api_name:
 - Visio.Styles.GetNames
 ms.assetid: f0bf6bd1-77a4-4dbe-83d7-6fbd4adbbf0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles.GetNames Method (Visio)
+# Styles.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
@@ -45,4 +46,4 @@ If the  **GetNames** method succeeds, _localeSpecificNameArray()_ returns a one-
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **GetNames** method to get the local name of more than one object. Use the **GetNamesU** method to get the universal name of more than one object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

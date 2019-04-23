@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.MDX
 ms.assetid: 637dd366-5f83-e862-bab5-cf78db04a34e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a tuple that provides the full MDX coordinates of the specified value ce
 
 ## Syntax
 
- _expression_. `MDX`
+_expression_. `MDX`
 
- _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The dimensions returned in the tuple by the  **MDX** property include row and co
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: Years Object (Project)
+title: Years object (Project)
 ms.prod: project-server
 ms.assetid: 3aa139cf-2fc2-7039-5659-8e2d833b5a4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Years Object (Project)
+# Years object (Project)
 
 Contains a collection of  **[Year](Project.Year.md)** objects.
  
@@ -96,7 +97,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Years.Application.md)|
 |[Count](Project.Years.Count.md)|
@@ -108,3 +109,5 @@ Figure 1 shows the results of the  **CountYears** macro.
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

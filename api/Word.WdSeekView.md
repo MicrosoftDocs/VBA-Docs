@@ -1,14 +1,15 @@
 ---
-title: WdSeekView Enumeration (Word)
+title: WdSeekView enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSeekView
 ms.assetid: 6a26e72c-fee8-c29b-db00-053c64466491
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSeekView Enumeration (Word)
+# WdSeekView enumeration (Word)
 
 Specifies the document element to display in the print layout view.
 
@@ -28,3 +29,4 @@ Specifies the document element to display in the print layout view.
 | **wdSeekPrimaryFooter**|4|The primary footer.|
 | **wdSeekPrimaryHeader**|1|The primary header.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

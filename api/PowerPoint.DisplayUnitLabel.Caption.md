@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Caption Property (PowerPoint)
+title: DisplayUnitLabel.Caption property (PowerPoint)
 keywords: vbapp10.chm699001
 f1_keywords:
 - vbapp10.chm699001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Caption
 ms.assetid: ac560738-7ab5-3b5c-92b6-c46c1f28e483
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Caption Property (PowerPoint)
+# DisplayUnitLabel.Caption property (PowerPoint)
 
 Returns or sets the display unit label text. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the display unit label text. Read/write  **String**.
 
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropLeft Property (Publisher)
+title: PictureFormat.CropLeft property (Publisher)
 keywords: vbapb10.chm3604740
 f1_keywords:
 - vbapb10.chm3604740
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.CropLeft
 ms.assetid: f9fd2031-83f7-ea81-84eb-4f1ac6d65082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropLeft Property (Publisher)
+# PictureFormat.CropLeft property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the left edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. **CropLeft**
+_expression_.**CropLeft**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -79,4 +80,4 @@ shpCrop.PictureFormat.CropLeft = sngPoints
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

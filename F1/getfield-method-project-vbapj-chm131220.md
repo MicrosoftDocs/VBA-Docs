@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 79bdb2ba-1a0b-40c8-be53-84b2c873e8e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.GetField Method (Project)](http://msdn.microsoft.com/library/1e5442d1-e36a-bb1c-253c-a2222a6a2fb5%28Office.15%29.aspx)
 [Engagement.GetField Method (Project)](http://msdn.microsoft.com/library/2c16e270-d7ad-e085-437f-a401cd10f26e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

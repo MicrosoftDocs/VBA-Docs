@@ -1,5 +1,5 @@
 ---
-title: Cell.Next Property (Word)
+title: Cell.Next property (Word)
 keywords: vbawd10.chm156106855
 f1_keywords:
 - vbawd10.chm156106855
@@ -8,17 +8,18 @@ api_name:
 - Word.Cell.Next
 ms.assetid: b4171c7c-6703-9cdf-a964-09e32874fbb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Next Property (Word)
+# Cell.Next property (Word)
 
 Returns a  **Cell** object that represents the next table cell in the **Cells** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
@@ -40,3 +41,4 @@ End If
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

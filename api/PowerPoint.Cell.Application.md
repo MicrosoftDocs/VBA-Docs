@@ -1,5 +1,5 @@
 ---
-title: Cell.Application Property (PowerPoint)
+title: Cell.Application property (PowerPoint)
 keywords: vbapp10.chm628001
 f1_keywords:
 - vbapp10.chm628001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Cell.Application
 ms.assetid: d91a9508-33a3-1b95-1786-2ab84a14ee43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Application Property (PowerPoint)
+# Cell.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
+_expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [Cell Object](PowerPoint.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

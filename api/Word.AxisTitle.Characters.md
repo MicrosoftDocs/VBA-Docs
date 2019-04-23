@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Characters Property (Word)
+title: AxisTitle.Characters property (Word)
 keywords: vbawd10.chm98238466
 f1_keywords:
 - vbawd10.chm98238466
@@ -8,17 +8,18 @@ api_name:
 - Word.AxisTitle.Characters
 ms.assetid: a53ea4c6-a742-17b0-8120-1c16484c5995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.Characters Property (Word)
+# AxisTitle.Characters property (Word)
 
 Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
@@ -42,3 +43,4 @@ The  **ChartCharacters** object is not a collection.
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

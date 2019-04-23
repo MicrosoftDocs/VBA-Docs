@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Type Property (Publisher)
+title: FillFormat.Type property (Publisher)
 keywords: vbapb10.chm2359570
 f1_keywords:
 - vbapb10.chm2359570
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.Type
 ms.assetid: 7b388ff6-302c-e6b9-8491-4d604f1a12a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Type Property (Publisher)
+# FillFormat.Type property (Publisher)
 
 Returns an  **MsoFillType** constant that represents the fill format type of a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -37,3 +38,4 @@ The  **Type** property value can be one of these **MsoFillType** constants.
 | **msoFillSolid**|
 | **msoFillTextured**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

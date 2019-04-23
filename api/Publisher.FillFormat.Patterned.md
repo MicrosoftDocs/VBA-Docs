@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Patterned Method (Publisher)
+title: FillFormat.Patterned method (Publisher)
 keywords: vbapb10.chm2359314
 f1_keywords:
 - vbapb10.chm2359314
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.Patterned
 ms.assetid: 10e363b7-1160-55d3-5c97-733b7742b619
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Patterned Method (Publisher)
+# FillFormat.Patterned method (Publisher)
 
 Sets the specified fill to a pattern.
 
 
 ## Syntax
 
- _expression_. **Patterned**(**_Pattern_**)
+_expression_.**Patterned**(**_Pattern_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -105,4 +106,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

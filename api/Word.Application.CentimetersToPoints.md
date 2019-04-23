@@ -1,5 +1,5 @@
 ---
-title: Application.CentimetersToPoints Method (Word)
+title: Application.CentimetersToPoints method (Word)
 keywords: vbawd10.chm158335347
 f1_keywords:
 - vbawd10.chm158335347
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.CentimetersToPoints
 ms.assetid: ca57a957-cc39-49ff-5e51-608e7985fd51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CentimetersToPoints Method (Word)
+# Application.CentimetersToPoints method (Word)
 
-Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `CentimetersToPoints`( `_Centimeters_` )
+_expression_. `CentimetersToPoints`( `_Centimeters_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -58,3 +59,4 @@ ActiveDocument.Paragraphs(1).FirstLineIndent = _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

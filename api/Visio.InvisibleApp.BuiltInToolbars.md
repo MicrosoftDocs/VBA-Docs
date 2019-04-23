@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BuiltInToolbars Property (Visio)
+title: InvisibleApp.BuiltInToolbars property (Visio)
 keywords: vis_sdr.chm17513165
 f1_keywords:
 - vis_sdr.chm17513165
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.BuiltInToolbars
 ms.assetid: b28f212c-b5ab-0d43-1f7a-a91a7c62043d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.BuiltInToolbars Property (Visio)
+# InvisibleApp.BuiltInToolbars property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio toolbars. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltInToolbars`( `_fIgnored_` )
+_expression_. `BuiltInToolbars`( `_fIgnored_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -97,4 +98,4 @@ Public Sub BuiltInToolbars_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Names.Count
 ms.assetid: f33046db-1912-5047-a205-e87d01427dfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [Names](Excel.Names.md) object.
+_expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [Names Object](Excel.Names.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelSpacing Property (PowerPoint)
+title: Axis.TickLabelSpacing property (PowerPoint)
 keywords: vbapp10.chm682030
 f1_keywords:
 - vbapp10.chm682030
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.TickLabelSpacing
 ms.assetid: 9a6694cb-bb6c-fc5d-a2a3-656327121581
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.TickLabelSpacing Property (PowerPoint)
+# Axis.TickLabelSpacing property (PowerPoint)
 
 Returns or sets the number of categories or series between tick-mark labels. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `TickLabelSpacing`
+_expression_. `TickLabelSpacing`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ColumnBestFit Method (Project)
+title: Application.ColumnBestFit method (Project)
 keywords: vbapj.chm2037
 f1_keywords:
 - vbapj.chm2037
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ColumnBestFit
 ms.assetid: 51f96761-33ab-d2e3-7a1e-c8266bdaa7a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ColumnBestFit Method (Project)
+# Application.ColumnBestFit method (Project)
 
 Sets the width of a column to the width of its widest item.
 
 
 ## Syntax
 
- _expression_. `ColumnBestFit`( ` _Column_` )
+_expression_. `ColumnBestFit`( `_Column_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -52,4 +53,4 @@ Sub BestFitFirstFiveCols()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.GeometryCount Property (Visio)
+title: Shape.GeometryCount property (Visio)
 keywords: vis_sdr.chm11213600
 f1_keywords:
 - vis_sdr.chm11213600
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.GeometryCount
 ms.assetid: 4dffe649-3629-6e3e-bcc0-d860eb1efdbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GeometryCount Property (Visio)
+# Shape.GeometryCount property (Visio)
 
 Returns the number of Geometry sections for a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `GeometryCount`
+_expression_. `GeometryCount`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -34,7 +35,7 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 
 
-To run this macro, first insert into your project a user form that contains a list box. Use the default names for the form and the list box. In the  **Properties** window, set the width of the form to 400 and the width of the list box to 300. This macro also assumes that you have one or more shapes on the active page.
+To run this macro, first insert into your project a user form that contains a list box. Use the default names for the form and the list box. In the  Properties window, set the width of the form to 400 and the width of the list box to 300. This macro also assumes that you have one or more shapes on the active page.
 
 
 
@@ -99,4 +100,4 @@ Public Sub GeometryCount_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

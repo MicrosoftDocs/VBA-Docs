@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Item Method (Outlook)
+title: TimeZones.Item method (Outlook)
 keywords: vbaol11.chm3296
 f1_keywords:
 - vbaol11.chm3296
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TimeZones.Item
 ms.assetid: 5514ff4e-0d01-71b3-3715-5d840cbde043
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeZones.Item Method (Outlook)
+# TimeZones.Item method (Outlook)
 
 Returns a  **[TimeZone](Outlook.TimeZone.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
+_expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ A  **TimeZone** object that represents the specified object in the collection.
 
 [TimeZones Object](Outlook.TimeZones.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

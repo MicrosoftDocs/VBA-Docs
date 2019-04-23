@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.Display Method (Outlook)
+title: SelectNamesDialog.Display method (Outlook)
 keywords: vbaol11.chm826
 f1_keywords:
 - vbaol11.chm826
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SelectNamesDialog.Display
 ms.assetid: a689dfca-e4f7-f1c0-03a1-71e7d7e310b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.Display Method (Outlook)
+# SelectNamesDialog.Display method (Outlook)
 
 Displays the  **Select Names** dialog box.
 
 
 ## Syntax
 
- _expression_. `Display`
+_expression_. `Display`
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Return value
@@ -67,3 +68,4 @@ End Sub
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

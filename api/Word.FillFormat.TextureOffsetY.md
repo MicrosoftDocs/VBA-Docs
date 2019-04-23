@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetY Property (Word)
+title: FillFormat.TextureOffsetY property (Word)
 keywords: vbawd10.chm164102260
 f1_keywords:
 - vbawd10.chm164102260
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.TextureOffsetY
 ms.assetid: 39d2448a-2de8-f3f7-168d-62dd3eb0ee3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureOffsetY Property (Word)
+# FillFormat.TextureOffsetY property (Word)
 
 Returns or sets a  **Long** that specifies the vertical offset of the texture from the origin in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureOffsetY`
+_expression_. `TextureOffsetY`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -35,3 +36,4 @@ The setting of the  **TextureOffsetY** property corresponds to the setting of th
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

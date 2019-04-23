@@ -1,5 +1,5 @@
 ---
-title: Global.KeysBoundTo Property (Word)
+title: Global.KeysBoundTo property (Word)
 keywords: vbawd10.chm163119174
 f1_keywords:
 - vbawd10.chm163119174
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.KeysBoundTo
 ms.assetid: 6347357b-1c63-eea2-d236-2c5f182eb676
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.KeysBoundTo Property (Word)
+# Global.KeysBoundTo property (Word)
 
 Returns a  **KeysBoundTo** object that represents all the key combinations assigned to the specified item.
 
 
 ## Syntax
 
- _expression_. `KeysBoundTo`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
+_expression_. `KeysBoundTo`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -75,3 +76,4 @@ Next aKey
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

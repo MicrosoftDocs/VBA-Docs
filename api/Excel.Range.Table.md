@@ -1,5 +1,5 @@
 ---
-title: Range.Table Method (Excel)
+title: Range.Table method (Excel)
 keywords: vbaxl10.chm144208
 f1_keywords:
 - vbaxl10.chm144208
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Table
 ms.assetid: 804b0e1d-e92d-387d-1054-90643bfd16ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Table Method (Excel)
+# Range.Table method (Excel)
 
 Creates a data table based on input values and formulas that you define on a worksheet.
 
 
 ## Syntax
 
- _expression_. `Table`( `_RowInput_` , `_ColumnInput_` )
+_expression_. `Table`( `_RowInput_` , `_ColumnInput_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ End With
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

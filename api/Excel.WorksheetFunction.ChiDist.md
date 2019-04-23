@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiDist Method (Excel)
+title: WorksheetFunction.ChiDist method (Excel)
 keywords: vbaxl10.chm137178
 f1_keywords:
 - vbaxl10.chm137178
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.ChiDist
 ms.assetid: e5d6c267-b9d6-75d9-5d6f-81b616652b74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ChiDist Method (Excel)
+# WorksheetFunction.ChiDist method (Excel)
 
 Returns the one-tailed probability of the chi-squared distribution. 
 
@@ -22,9 +23,9 @@ For more information about the new functions, see the [ChiSq_Dist_RT](Excel.Work
 
 ## Syntax
 
- _expression_. `ChiDist`( `_Arg1_` , `_Arg2_` )
+_expression_. `ChiDist`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ The ? 2 distribution is associated with a ?2 test. Use the ?2 test to compare ob
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

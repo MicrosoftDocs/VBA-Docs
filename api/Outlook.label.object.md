@@ -3,6 +3,7 @@ title: Label Object Reference (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 4c51362a-1509-4754-8fc1-10c33014b187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,5 +19,5 @@ ms.date: 06/08/2017
 -  [Label Properties (Outlook Forms Script)](Outlook.label(properties).md)
     
 -  [Label Events (Outlook Forms Script)](Outlook.label(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

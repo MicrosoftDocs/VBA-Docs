@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ce545397-aa04-47b5-95cc-65b97c835f1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Masters Object (Visio)](http://msdn.microsoft.com/library/07c80948-8cee-34d2-dbc9-89ca031343df%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

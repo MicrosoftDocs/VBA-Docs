@@ -1,5 +1,5 @@
 ---
-title: Application.AutoFilter Method (Project)
+title: Application.AutoFilter method (Project)
 keywords: vbapj.chm22
 f1_keywords:
 - vbapj.chm22
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.AutoFilter
 ms.assetid: 391d5a61-cba3-9e28-c448-d0befcc456c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AutoFilter Method (Project)
+# Application.AutoFilter method (Project)
 
 Activates or deactivates the AutoFilter feature for the active project.
 
 
 ## Syntax
 
- _expression_. `AutoFilter`
+_expression_. `AutoFilter`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -34,4 +35,4 @@ The  **AutoFilter** method toggles the AutoFilter feature on and off. It has the
 
 To set an AutoFilter, see the  **[SetAutoFilter](Project.Application.SetAutoFilter.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

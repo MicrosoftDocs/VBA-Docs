@@ -1,26 +1,27 @@
 ---
-title: CommandBarButton.Tag Property (Office)
+title: CommandBarButton.Tag property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Tag
 ms.assetid: c73a12a8-8b20-1e32-ad98-ae0bb3b1daed
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarButton.Tag Property (Office)
+# CommandBarButton.Tag property (Office)
 
-Gets or sets information about the  **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
+Gets or sets information about the **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_.**Tag**
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ String
 
 ## Example
 
-To avoid duplicate calls of the same class when tiggered with events, define the  **Tag** property unique to the events. The following example demonstrates this concept with two modules.
+To avoid duplicate calls of the same class when triggered with events, define the **Tag** property unique to the events. The following example demonstrates this concept with two modules.
 
 
 ```vb
@@ -62,10 +63,9 @@ Sub Use_Tag()
 End Sub
 ```
 
-This example sets the tag for the button on the custom command bar to "Spelling Button" and displays the tag in a message box.
+<br/>
 
-
-
+This example sets the tag for the button on the custom command bar to **Spelling Button** and displays the tag in a message box.
 
 ```vb
 CommandBars("Custom").Controls(1).Tag = "Spelling Button" 
@@ -75,10 +75,6 @@ MsgBox (CommandBars("Custom").Controls(1).Tag)
 
 ## See also
 
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

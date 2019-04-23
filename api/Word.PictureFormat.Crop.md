@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Crop Property (Word)
+title: PictureFormat.Crop property (Word)
 keywords: vbawd10.chm164298861
 f1_keywords:
 - vbawd10.chm164298861
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.Crop
 ms.assetid: 431cc1a8-dd05-d813-6ba6-a6a78ee2472b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Crop Property (Word)
+# PictureFormat.Crop property (Word)
 
-Returns or sets a [Crop](./Office.Crop.md) object that represents an image cropping. Read/write.
+Returns or sets a [Crop](Office.Crop.md) object that represents an image cropping. Read/write.
 
 
 ## Syntax
 
- _expression_. `Crop`
+_expression_. `Crop`
 
  _expression_ An expression that returns a [PictureFormat](./Word.PictureFormat.md) object.
 
@@ -49,3 +50,4 @@ myCrop.ShapeHeight = 100
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

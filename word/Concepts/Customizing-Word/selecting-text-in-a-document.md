@@ -3,6 +3,7 @@ title: Selecting Text in a Document
 ms.prod: word
 ms.assetid: 1684b81f-caed-ea76-1378-580f6e34a1db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,3 +46,4 @@ End Sub
 
 For more information, see  [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

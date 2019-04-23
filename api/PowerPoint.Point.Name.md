@@ -1,5 +1,5 @@
 ---
-title: Point.Name Property (PowerPoint)
+title: Point.Name property (PowerPoint)
 keywords: vbapp10.chm714006
 f1_keywords:
 - vbapp10.chm714006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Point.Name
 ms.assetid: 11f8d0f2-e82a-6b61-e696-b003e5fa52dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.Name Property (PowerPoint)
+# Point.Name property (PowerPoint)
 
 Returns the object name. Read-only.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a [Point](./PowerPoint.Point.md) object.
 
@@ -38,3 +39,4 @@ This property corresponds to the name of a data point on a chart. The name is re
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

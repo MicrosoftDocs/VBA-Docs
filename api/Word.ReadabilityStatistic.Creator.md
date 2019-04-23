@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistic.Creator Property (Word)
+title: ReadabilityStatistic.Creator property (Word)
 keywords: vbawd10.chm162464745
 f1_keywords:
 - vbawd10.chm162464745
@@ -8,19 +8,20 @@ api_name:
 - Word.ReadabilityStatistic.Creator
 ms.assetid: 903372f9-55e6-e2b3-5d3d-3faab81a7613
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReadabilityStatistic.Creator Property (Word)
+# ReadabilityStatistic.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ReadabilityStatistic](Word.ReadabilityStatistic.md)' object.
+_expression_ Required. A variable that represents a '[ReadabilityStatistic](Word.ReadabilityStatistic.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ReadabilityStatistic Object](Word.ReadabilityStatistic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

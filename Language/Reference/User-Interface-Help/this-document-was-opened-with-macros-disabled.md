@@ -5,7 +5,8 @@ f1_keywords:
 - vblr6.chm1057123
 ms.prod: office
 ms.assetid: 1a28f6be-9bb8-641f-b6d8-74c8e3df2d59
-ms.date: 06/08/2017
+ms.date: 01/18/2019
+localization_priority: Normal
 ---
 
 
@@ -13,10 +14,10 @@ ms.date: 06/08/2017
 
 A host application may disable or enable macros. This error has the following causes and solutions:
 
-- You opened a document with disabled macros. You can enable macros using the instructions in the following articles:
-    
-  - [Enable or disable macros in Office documents (2007 and 2010)](https://support.office.com/article/Enable-or-disable-macros-in-Office-documents-7B4FDD2E-174F-47E2-9611-9EFE4F860B12 %28Office.15%29.aspx)
-    
-  - [Enable or disable macros in Office files (2013)](https://support.office.com/article/Enable-or-disable-macros-in-Office-files-12B036FD-D140-4E74-B45E-16FED1A7E5C6%28Office.15%29.aspx)
-    
+- You opened a document with disabled macros. You can enable macros by using the instructions in the following article:
+  
+  - [Enable or disable macros in Office files (2007, 2010, and 2013)](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
 
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

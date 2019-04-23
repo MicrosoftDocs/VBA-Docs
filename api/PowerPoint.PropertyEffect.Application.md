@@ -1,5 +1,5 @@
 ---
-title: PropertyEffect.Application Property (PowerPoint)
+title: PropertyEffect.Application property (PowerPoint)
 keywords: vbapp10.chm662001
 f1_keywords:
 - vbapp10.chm662001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PropertyEffect.Application
 ms.assetid: ffc1925d-c27b-bddb-2546-2f0957812943
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyEffect.Application Property (PowerPoint)
+# PropertyEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

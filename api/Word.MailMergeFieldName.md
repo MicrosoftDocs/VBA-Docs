@@ -1,5 +1,5 @@
 ---
-title: MailMergeFieldName Object (Word)
+title: MailMergeFieldName object (Word)
 keywords: vbawd10.chm2331
 f1_keywords:
 - vbawd10.chm2331
@@ -8,10 +8,11 @@ api_name:
 - Word.MailMergeFieldName
 ms.assetid: f4e09d1e-0da2-2f0f-1747-566a4ae443b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFieldName Object (Word)
+# MailMergeFieldName object (Word)
 
 Represents a mail merge field name in a data source. The  **MailMergeFieldName** object is a member of the **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection. The **MailMergeFieldNames** collection includes all the data field names in a mail merge data source.
 
@@ -34,5 +35,6 @@ You cannot add fields to the  **MailMergeFieldNames** collection. Field names in
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

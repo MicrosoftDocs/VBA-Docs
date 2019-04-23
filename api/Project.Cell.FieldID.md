@@ -1,5 +1,5 @@
 ---
-title: Cell.FieldID Property (Project)
+title: Cell.FieldID property (Project)
 keywords: vbapj.chm132205
 f1_keywords:
 - vbapj.chm132205
@@ -8,17 +8,18 @@ api_name:
 - Project.Cell.FieldID
 ms.assetid: fe7d7a7a-ebc8-4423-31de-48977cc248e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.FieldID Property (Project)
+# Cell.FieldID property (Project)
 
 Gets the identification number of the task or resource field in the active cell. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `FieldID`
+_expression_. `FieldID`
 
  _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
@@ -178,3 +179,4 @@ If the active cell contains a resource, can be one of the following  **PjField**
 |**pjResourceEnterpriseTeamMember**|**pjResourceWorkVariance**|
 |**pjResourceEnterpriseText1-40**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

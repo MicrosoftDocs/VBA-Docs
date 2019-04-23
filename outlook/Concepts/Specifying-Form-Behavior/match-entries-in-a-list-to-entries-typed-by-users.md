@@ -3,6 +3,7 @@ title: Match Entries in a List to Entries Typed by Users
 ms.prod: outlook
 ms.assetid: 629c3c16-e132-b062-c733-7ecb4a856694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,6 +29,6 @@ ms.date: 06/08/2017
 | **First letter**|Compare the most recently typed letter to the first letter of each entry in the list (the first match in the list is selected).|
 | **Complete**|Compare the user's entry and an exact match in an entry from the list.|
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

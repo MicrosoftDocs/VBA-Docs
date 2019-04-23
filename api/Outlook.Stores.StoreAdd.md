@@ -1,5 +1,5 @@
 ---
-title: Stores.StoreAdd Event (Outlook)
+title: Stores.StoreAdd event (Outlook)
 keywords: vbaol11.chm2755
 f1_keywords:
 - vbaol11.chm2755
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Stores.StoreAdd
 ms.assetid: 26e7eddc-9c5a-ffff-d574-afa48e5953d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Stores.StoreAdd Event (Outlook)
+# Stores.StoreAdd event (Outlook)
 
 Occurs when a  **[Store](Outlook.Store.md)** has been added to the current session either programmatically or through user action.
 
 
 ## Syntax
 
- _expression_. `StoreAdd`( `_Store_` )
+_expression_. `StoreAdd`( `_Store_` )
 
- _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
+_expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ You can use this event to determine whether a store has been added and take appr
 
 [Stores Object](Outlook.Stores.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

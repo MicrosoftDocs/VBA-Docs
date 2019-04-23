@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.ConvertToShape Method (Excel)
+title: FreeformBuilder.ConvertToShape method (Excel)
 keywords: vbaxl10.chm648074
 f1_keywords:
 - vbaxl10.chm648074
@@ -8,19 +8,20 @@ api_name:
 - Excel.FreeformBuilder.ConvertToShape
 ms.assetid: 2084277d-7e6a-5675-8e46-17522c3228eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.ConvertToShape Method (Excel)
+# FreeformBuilder.ConvertToShape method (Excel)
 
 Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](Excel.FreeformBuilder.md)** object. Returns a **[Shape](Excel.Shape.md)** object that represents the new shape.
 
 
 ## Syntax
 
- _expression_. `ConvertToShape`
+_expression_. `ConvertToShape`
 
- _expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilder.md) object.
+_expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilder.md) object.
 
 
 ## Return value
@@ -35,7 +36,7 @@ Shape
 
 ## Example
 
-This example adds a freeform with five vertices to  `myDocument`.
+This example adds a freeform with five vertices to  _myDocument_.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [FreeformBuilder Object](Excel.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

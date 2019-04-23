@@ -8,19 +8,20 @@ api_name:
 - Excel.Filter.Criteria2
 ms.assetid: 73bd97f8-8ee7-b2a0-8f9c-6a20e3e11d09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Filter.Criteria2 property (Excel)
 
-Returns the second filtered value for the specified column in a filtered range. Read-only  **Variant** .
+Returns the second filtered value for the specified column in a filtered range. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Criteria2`
+_expression_. `Criteria2`
 
- _expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End With
 
 [Filter Object](Excel.Filter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

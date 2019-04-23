@@ -1,21 +1,22 @@
 ---
-title: Period.Shift5 Property (Project)
+title: Period.Shift5 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Period.Shift5
 ms.assetid: 4e3e363f-cd36-77b0-4572-4e43e8b58bd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Period.Shift5 Property (Project)
+# Period.Shift5 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the fifth work shift in a time period. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift5`
+_expression_. `Shift5`
 
  _expression_ A variable that represents a [Period](./Project.Period.md) object.
 
@@ -38,4 +39,4 @@ Sub HalfDayFridays()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

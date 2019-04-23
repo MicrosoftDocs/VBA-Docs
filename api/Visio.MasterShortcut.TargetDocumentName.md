@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.TargetDocumentName Property (Visio)
+title: MasterShortcut.TargetDocumentName property (Visio)
 keywords: vis_sdr.chm16014495
 f1_keywords:
 - vis_sdr.chm16014495
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.TargetDocumentName
 ms.assetid: 0f4ede53-403c-f88e-b76f-fbf620ff54d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.TargetDocumentName Property (Visio)
+# MasterShortcut.TargetDocumentName property (Visio)
 
 Gets and sets the path and file name of a Microsoft Visio document (usually a stencil) that contains the master to which a master shortcut refers. Read/write.
 
 
 ## Syntax
 
- _expression_. `TargetDocumentName`
+_expression_. `TargetDocumentName`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -36,4 +37,4 @@ If the  **TargetDocumentName** property contains a file name but no path, the ap
 
 The  **TargetDocumentName** property does not support file names that have relative paths.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

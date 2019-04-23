@@ -1,5 +1,5 @@
 ---
-title: Document.FitToPages Method (Word)
+title: Document.FitToPages method (Word)
 keywords: vbawd10.chm158007400
 f1_keywords:
 - vbawd10.chm158007400
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.FitToPages
 ms.assetid: 8935d286-61b7-432e-ed79-b85708dd1a01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FitToPages Method (Word)
+# Document.FitToPages method (Word)
 
 Decreases the font size of text just enough so that the document will fit on one fewer pages.
 
 
 ## Syntax
 
- _expression_. `FitToPages`
+_expression_. `FitToPages`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ Next doc
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

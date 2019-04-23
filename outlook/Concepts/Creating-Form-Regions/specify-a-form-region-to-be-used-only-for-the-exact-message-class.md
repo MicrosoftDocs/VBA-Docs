@@ -3,6 +3,7 @@ title: Specify a Form Region to be Used Only for the Exact Message Class
 ms.prod: outlook
 ms.assetid: cf08e1da-bc82-8f8f-0790-09bbf24bc8cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ The following example disables a form region from being modified in the Forms De
 
  **Note**  You can assign  **exactMessageClass** either a string value or an integer value. The default value is **false** or **0**. To allow a form region to be used for only the exact message class, assign either  **true** or **1**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

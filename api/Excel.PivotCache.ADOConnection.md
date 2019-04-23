@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.ADOConnection
 ms.assetid: 410a3eee-0dda-4be1-45c4-809893de624e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **ADO Connection** object if the PivotTable cache is connected to an
 
 ## Syntax
 
- _expression_. `ADOConnection`
+_expression_. `ADOConnection`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -91,3 +92,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

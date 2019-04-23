@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.GetMatchingRowsForRefreshConflict Method (Visio)
+title: DataRecordset.GetMatchingRowsForRefreshConflict method (Visio)
 keywords: vis_sdr.chm16460360
 f1_keywords:
 - vis_sdr.chm16460360
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.GetMatchingRowsForRefreshConflict
 ms.assetid: 07526278-19db-ccbc-6785-095c73128879
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.GetMatchingRowsForRefreshConflict Method (Visio)
+# DataRecordset.GetMatchingRowsForRefreshConflict method (Visio)
 
 Returns an array of the row IDs of data-recordset rows linked to a shape that are in conflict after the data recordset is refreshed.
 
@@ -21,7 +22,7 @@ Returns an array of the row IDs of data-recordset rows linked to a shape that ar
 
 ## Syntax
 
- _expression_. `GetMatchingRowsForRefreshConflict`( `_ShapeInConflict_` )
+_expression_. `GetMatchingRowsForRefreshConflict`( `_ShapeInConflict_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -102,4 +103,4 @@ Public Sub GetMatchingRowsForRefreshConflict_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

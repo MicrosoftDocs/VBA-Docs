@@ -1,5 +1,5 @@
 ---
-title: Menu Object (Visio)
+title: Menu object (Visio)
 keywords: vis_sdr.chm10150
 f1_keywords:
 - vis_sdr.chm10150
@@ -8,10 +8,11 @@ api_name:
 - Visio.Menu
 ms.assetid: ea66b61d-4d93-13a4-1446-968fe9727c05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menu Object (Visio)
+# Menu object (Visio)
 
  Represents a single menu on a Microsoft Visio menu bar.
 
@@ -23,4 +24,4 @@ ms.date: 06/08/2017
 
 The index of a  **Menu** object within the **Menus** collection corresponds to the menu's position from left to right on the menu bar, starting with zero (0) for the menu farthest to the left if the menus are arranged horizontally.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

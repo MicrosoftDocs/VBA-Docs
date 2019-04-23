@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressPostalCode Property (Outlook)
+title: ContactItem.BusinessAddressPostalCode property (Outlook)
 keywords: vbaol11.chm973
 f1_keywords:
 - vbaol11.chm973
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.BusinessAddressPostalCode
 ms.assetid: 0c9f643a-c29e-4ae5-cea7-f54b3e98b543
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressPostalCode Property (Outlook)
+# ContactItem.BusinessAddressPostalCode property (Outlook)
 
 Returns or sets a  **String** representing the postal code (zip code) portion of the business address for the contact. Read/write.
 
 
 ## Syntax
 
- _expression_. `BusinessAddressPostalCode`
+_expression_. `BusinessAddressPostalCode`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is parsed from the  **[BusinessAddress](Outlook.ContactItem.Busine
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.FillStyle Property (Visio)
+title: Shape.FillStyle property (Visio)
 keywords: vis_sdr.chm11213525
 f1_keywords:
 - vis_sdr.chm11213525
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.FillStyle
 ms.assetid: f674da21-deac-4636-608c-c26241a7b125
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.FillStyle Property (Visio)
+# Shape.FillStyle property (Visio)
 
 Returns or sets the fill style for a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `FillStyle`
+_expression_. `FillStyle`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -56,4 +57,4 @@ Public Sub FillStyle_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

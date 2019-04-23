@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.BarFillType
 ms.assetid: c83fc8d3-63aa-4989-8099-74bcad7d6fce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets how a data bar is filled with color. Read/write
 
 ## Syntax
 
- _expression_. `BarFillType`
+_expression_. `BarFillType`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets how a data bar is filled with color. Read/write
 
 ## Remarks
 
-The default value of the  **BarFillType** property is **xlDataBarFillGradient** .
+The default value of the  **BarFillType** property is **xlDataBarFillGradient**.
 
 
 ## Example
@@ -52,3 +53,4 @@ myDataBar.BarFillType = xlDataBarFillSolid
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

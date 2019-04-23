@@ -1,5 +1,5 @@
 ---
-title: Shape.HasTable Property (Publisher)
+title: Shape.HasTable property (Publisher)
 keywords: vbapb10.chm2228321
 f1_keywords:
 - vbapb10.chm2228321
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.HasTable
 ms.assetid: 6f544d9c-00a4-3047-fbfb-6f1835bbe2c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.HasTable Property (Publisher)
+# Shape.HasTable property (Publisher)
 
 Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasTable**
+_expression_.**HasTable**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -29,7 +30,7 @@ The  **HasTable** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The shapes in the range do not represent a **TableFrame** object.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -52,4 +53,4 @@ Sub IsTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

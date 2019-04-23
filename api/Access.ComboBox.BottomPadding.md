@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.ComboBox.BottomPadding
 ms.assetid: 1e65383f-3928-7cbe-e4e3-e244d877043b
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # ComboBox.BottomPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the combo box and its bottom gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the combo box and its bottom gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `BottomPadding`
+_expression_.**BottomPadding**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
-[ComboBox Object](Access.ComboBox.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

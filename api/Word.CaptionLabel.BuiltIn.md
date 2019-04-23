@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.BuiltIn Property (Word)
+title: CaptionLabel.BuiltIn property (Word)
 keywords: vbawd10.chm158924801
 f1_keywords:
 - vbawd10.chm158924801
@@ -8,17 +8,18 @@ api_name:
 - Word.CaptionLabel.BuiltIn
 ms.assetid: 1df0a271-2792-0813-f45d-2b076afa0a3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionLabel.BuiltIn Property (Word)
+# CaptionLabel.BuiltIn property (Word)
 
- **True** if the specified caption label is one of the built-in caption labels in Word. Read-only **Boolean** .
+ **True** if the specified caption label is one of the built-in caption labels in Word. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_. `BuiltIn`
 
  _expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
@@ -70,3 +71,4 @@ Next clLoop
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

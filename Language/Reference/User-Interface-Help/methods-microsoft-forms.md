@@ -3,6 +3,7 @@ title: Methods (Microsoft Forms)
 ms.prod: office
 ms.assetid: 808a998e-ef9f-4848-b03c-1d48cb355b5e
 ms.date: 09/17/2018
+localization_priority: Normal
 ---
 
 
@@ -34,4 +35,10 @@ ms.date: 09/17/2018
 - [ZOrder](zorder-method.md)
 
     
+## See also
 
+- [Methods (Visual Basic Add-In Model)](../visual-basic-add-in-model/methods-visual-basic-add-in-model.md)
+- [Objects, methods, and properties (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Microsoft Forms](reference-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

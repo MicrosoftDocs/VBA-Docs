@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks property (Word)
 keywords: vbawd10.chm165347600
 f1_keywords:
 - vbawd10.chm165347600
@@ -8,24 +8,25 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks
 ms.assetid: 902775b4-f89e-f5bd-879b-6dd3fe6f2d06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks property (Word)
 
- **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically changed to hyperlinks as you type. Read/write **Boolean** .
+ **True** if email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically changed to hyperlinks as you type. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeReplaceHyperlinks`
+_expression_. `AutoFormatAsYouTypeReplaceHyperlinks`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
 
 ## Remarks
 
-Word changes any text that looks like an e-mail address, UNC, or URL to a hyperlink. However, Word does not check the validity of the hyperlink.
+Word changes any text that looks like an email address, UNC, or URL to a hyperlink. However, Word does not check the validity of the hyperlink.
 
 
 ## Example
@@ -54,3 +55,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeReplaceHyperlinks
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

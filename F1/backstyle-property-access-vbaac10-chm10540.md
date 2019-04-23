@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ee7dfda6-3e6f-4f3b-ac84-20412fc2fed6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.BackStyle property (Access)](http://msdn.microsoft.com/library/941456b8-df23-2811-ff93-21d007eb9a2e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

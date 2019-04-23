@@ -1,5 +1,5 @@
 ---
-title: Workbook.Save Method (Excel)
+title: Workbook.Save method (Excel)
 keywords: vbaxl10.chm199144
 f1_keywords:
 - vbaxl10.chm199144
@@ -8,26 +8,27 @@ api_name:
 - Excel.Workbook.Save
 ms.assetid: 466d891d-fb4c-fb0a-474b-dedb3c4ea7a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.Save Method (Excel)
+# Workbook.Save method (Excel)
 
 Saves changes to the specified workbook.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
 
 To open a workbook file, use the  **[Open](Excel.Workbooks.Open.md)** method.
 
-To mark a workbook as saved without writing it to a disk, set its  **[Saved](Excel.Workbook.Saved.md)** property to **True** .
+To mark a workbook as saved without writing it to a disk, set its  **[Saved](Excel.Workbook.Saved.md)** property to **True**.
 
 The first time you save a workbook, use the  **[SaveAs](Excel.Workbook.SaveAs.md)** method to specify a name for the file.
 
@@ -83,4 +84,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Workbook Object](Excel.Workbook.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

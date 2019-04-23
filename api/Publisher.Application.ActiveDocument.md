@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveDocument Property (Publisher)
+title: Application.ActiveDocument property (Publisher)
 keywords: vbapb10.chm131073
 f1_keywords:
 - vbapb10.chm131073
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.ActiveDocument
 ms.assetid: c6293fa6-291c-d8ce-be54-f8a997b95d2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveDocument Property (Publisher)
+# Application.ActiveDocument property (Publisher)
 
 Returns a  **[Document](Publisher.Document.md)** object that represents the active publication. If there are no documents open, an error occurs.
 
 
 ## Syntax
 
- _expression_. **ActiveDocument**
+_expression_.**ActiveDocument**
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -56,3 +57,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

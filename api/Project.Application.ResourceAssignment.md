@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceAssignment Method (Project)
+title: Application.ResourceAssignment method (Project)
 keywords: vbapj.chm212
 f1_keywords:
 - vbapj.chm212
@@ -8,16 +8,17 @@ api_name:
 - Project.Application.ResourceAssignment
 ms.assetid: aceb1802-4b5f-0ad3-bd14-ce77c24705fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ResourceAssignment Method (Project)
+# Application.ResourceAssignment method (Project)
 
 Assigns, removes, or replaces the resources of the selected tasks, or changes the number of units for a resource.
 
 ## Syntax
 
-_expression_. **ResourceAssignment** (**_Resources_**, **_Operation_**, **_With_**)
+_expression_.**ResourceAssignment** (**_Resources_**, **_Operation_**, **_With_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -32,9 +33,9 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### PjResAssignOperation constants
+### PjResAssignOperation constants
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**pjAssign**|Assigns the specified resources to the selected tasks.|
 |**pjRemove**|Removes the specified resources from the selected tasks.|
@@ -97,4 +98,4 @@ Sub AssignResourceToSelectedTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

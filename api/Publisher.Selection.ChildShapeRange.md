@@ -1,5 +1,5 @@
 ---
-title: Selection.ChildShapeRange Property (Publisher)
+title: Selection.ChildShapeRange property (Publisher)
 keywords: vbapb10.chm851973
 f1_keywords:
 - vbapb10.chm851973
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Selection.ChildShapeRange
 ms.assetid: 8ef96e85-2f25-7b3a-4465-7e22fdbbaa9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ChildShapeRange Property (Publisher)
+# Selection.ChildShapeRange property (Publisher)
 
 Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object representing the child shapes of a selection.
 
 
 ## Syntax
 
- _expression_. **ChildShapeRange**
+_expression_.**ChildShapeRange**
 
  _expression_ A variable that represents a  **Selection** object.
 
@@ -53,4 +54,4 @@ Sub ChangeFillToChildShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

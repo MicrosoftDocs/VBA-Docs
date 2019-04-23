@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ShowBusinessCardEditor Method (Outlook)
+title: ContactItem.ShowBusinessCardEditor method (Outlook)
 keywords: vbaol11.chm1095
 f1_keywords:
 - vbaol11.chm1095
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.ShowBusinessCardEditor
 ms.assetid: 96db2b87-02b2-f97e-cff4-9d852fc875d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.ShowBusinessCardEditor Method (Outlook)
+# ContactItem.ShowBusinessCardEditor method (Outlook)
 
 Displays the electronic business card (EBC) editor dialog box for the  **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax
 
- _expression_. `ShowBusinessCardEditor`
+_expression_. `ShowBusinessCardEditor`
 
- _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
+ _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Calling this method retrieves the data for the specified  **ContactItem** object
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

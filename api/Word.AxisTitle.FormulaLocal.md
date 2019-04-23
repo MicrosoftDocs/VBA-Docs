@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.FormulaLocal Property (Word)
+title: AxisTitle.FormulaLocal property (Word)
 keywords: vbawd10.chm98238506
 f1_keywords:
 - vbawd10.chm98238506
@@ -8,17 +8,18 @@ api_name:
 - Word.AxisTitle.FormulaLocal
 ms.assetid: 05995afc-63a6-58b8-e5e1-380476dfe8ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.FormulaLocal Property (Word)
+# AxisTitle.FormulaLocal property (Word)
 
-Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
+Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

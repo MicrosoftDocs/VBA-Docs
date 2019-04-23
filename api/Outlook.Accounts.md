@@ -1,5 +1,5 @@
 ---
-title: Accounts Object (Outlook)
+title: Accounts object (Outlook)
 keywords: vbaol11.chm3154
 f1_keywords:
 - vbaol11.chm3154
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Accounts
 ms.assetid: 2510b7d7-5062-8ea3-dda4-b544d2882a2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Accounts Object (Outlook)
+# Accounts object (Outlook)
 
 The  **Accounts** collection object contains a set of **[Account](Outlook.Account.md)** objects representing the accounts available for the current profile.
 
@@ -25,33 +26,34 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[AutoDiscoverComplete](./Outlook.Accounts.AutoDiscoverComplete.md)|
+|[AutoDiscoverComplete](Outlook.Accounts.AutoDiscoverComplete.md)|
 
 ## Methods
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Item](./Outlook.Accounts.Item.md)|
+|[Item](Outlook.Accounts.Item.md)|
 
 ## Properties
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Application](./Outlook.Accounts.Application.md)|
-|[Class](./Outlook.Accounts.Class.md)|
-|[Count](./Outlook.Accounts.Count.md)|
-|[Parent](./Outlook.Accounts.Parent.md)|
-|[Session](./Outlook.Accounts.Session.md)|
+|[Application](Outlook.Accounts.Application.md)|
+|[Class](Outlook.Accounts.Class.md)|
+|[Count](Outlook.Accounts.Count.md)|
+|[Parent](Outlook.Accounts.Parent.md)|
+|[Session](Outlook.Accounts.Session.md)|
 
 ## See also
 
+- [Outlook Object Model reference](overview/Outlook/object-model.md)
+- [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+- [Accounts object members](overview/Outlook.md)
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
-[Accounts Object Members](./overview/Outlook.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

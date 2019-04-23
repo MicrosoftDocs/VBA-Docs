@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObject.Index
 ms.assetid: f16982ee-7ca3-372e-b77f-273e0328ec4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the index number of the object within 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the index number of the object within 
 
 [OLEObject Object](Excel.OLEObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

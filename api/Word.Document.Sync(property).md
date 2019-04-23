@@ -1,5 +1,5 @@
 ---
-title: Document.Sync Property (Word)
+title: Document.Sync property (Word)
 keywords: vbawd10.chm158007762
 f1_keywords:
 - vbawd10.chm158007762
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Sync
 ms.assetid: c48b0b07-84c6-0097-509c-ee6fb9b3784e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Sync Property (Word)
+# Document.Sync property (Word)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
 
 ## Syntax
 
- _expression_. `Sync`
+_expression_. `Sync`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

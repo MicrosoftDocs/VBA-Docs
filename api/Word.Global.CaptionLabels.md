@@ -1,5 +1,5 @@
 ---
-title: Global.CaptionLabels Property (Word)
+title: Global.CaptionLabels property (Word)
 keywords: vbawd10.chm163119124
 f1_keywords:
 - vbawd10.chm163119124
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.CaptionLabels
 ms.assetid: 619ae4eb-56fb-ec1d-d2b2-4962e6e4fa5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.CaptionLabels Property (Word)
+# Global.CaptionLabels property (Word)
 
 Returns a  **[CaptionLabels](Word.captionlabels.md)** collection that represents all the available caption labels. Read-only.
 
 
 ## Syntax
 
- _expression_. `CaptionLabels`
+_expression_. `CaptionLabels`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -57,3 +58,4 @@ End With
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

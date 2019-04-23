@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5e4cbf20-bbef-43fe-bfc6-e195ac9d805a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeSuspendEvents Event (Visio)](http://msdn.microsoft.com/library/a6879424-40d8-e517-aad0-f31aa84a49f6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

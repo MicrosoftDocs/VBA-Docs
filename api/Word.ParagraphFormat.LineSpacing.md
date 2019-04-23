@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineSpacing Property (Word)
+title: ParagraphFormat.LineSpacing property (Word)
 keywords: vbawd10.chm156434541
 f1_keywords:
 - vbawd10.chm156434541
@@ -8,17 +8,18 @@ api_name:
 - Word.ParagraphFormat.LineSpacing
 ms.assetid: 30d067e2-9802-f119-bc4c-bd31bfe187f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineSpacing Property (Word)
+# ParagraphFormat.LineSpacing property (Word)
 
-Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `LineSpacing`
+_expression_. `LineSpacing`
 
  _expression_ An expression that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

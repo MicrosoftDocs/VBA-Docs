@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.TextRange Property (Publisher)
+title: HeaderFooter.TextRange property (Publisher)
 keywords: vbapb10.chm7471108
 f1_keywords:
 - vbapb10.chm7471108
@@ -8,17 +8,18 @@ api_name:
 - Publisher.HeaderFooter.TextRange
 ms.assetid: 4bc5004e-6516-d6d3-222a-4960716c6845
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.TextRange Property (Publisher)
+# HeaderFooter.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 
 
 ## Syntax
 
- _expression_. **TextRange**
+_expression_.**TextRange**
 
  _expression_ A variable that represents a  **HeaderFooter** object.
 
@@ -55,4 +56,4 @@ Sub AddTextToShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

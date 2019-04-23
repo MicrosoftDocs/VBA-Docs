@@ -3,6 +3,7 @@ title: Resources object map (Project)
 ms.prod: project-server
 ms.assetid: a98ea473-b3e0-1968-5718-0f4834d8449b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ For an overview of the  **Application** and **Project** objects, and for details
 ![Resources object map](../../images/44e5a9ca-12f7-4e24-921b-6fa1943bfd80.jpg)
 ![Legend for the VBA object maps](../../images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

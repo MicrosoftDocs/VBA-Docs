@@ -1,5 +1,5 @@
 ---
-title: TextStyle Object (Publisher)
+title: TextStyle object (Publisher)
 keywords: vbapb10.chm6029311
 f1_keywords:
 - vbapb10.chm6029311
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TextStyle
 ms.assetid: 163ab726-ac44-07d1-ab7b-50061037cc77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyle Object (Publisher)
+# TextStyle object (Publisher)
 
 Represents a single built-in or user-defined style. The  **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. The **TextStyle** object is a member of the **[TextStyles](Publisher.TextStyles.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
  
@@ -79,7 +80,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.TextStyle.Delete.md)|
 
@@ -87,7 +88,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.TextStyle.Application.md)|
 |[BaseStyle](Publisher.TextStyle.BaseStyle.md)|
@@ -98,3 +99,4 @@ End Sub
 |[ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)|
 |[Parent](Publisher.TextStyle.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

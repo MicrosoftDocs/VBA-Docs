@@ -1,14 +1,15 @@
 ---
-title: XMLNodes Object (Word)
+title: XMLNodes object (Word)
 ms.prod: word
 api_name:
 - Word.XMLNodes
 ms.assetid: c29850f2-8db2-aef6-57ee-fed1b625616c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNodes Object (Word)
+# XMLNodes object (Word)
 
 A collection of  **XMLNode** objects that represents the nodes in the tree view of the **XML Structure** task pane, which indicates the elements that a user has applied to a document. Each node in the tree view is an instance of an **XMLNode** object. The hierarchy in the tree view indicates whether a node contains child nodes.Y
 
@@ -63,5 +64,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

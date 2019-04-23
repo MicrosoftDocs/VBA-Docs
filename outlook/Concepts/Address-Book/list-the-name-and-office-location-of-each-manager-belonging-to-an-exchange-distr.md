@@ -3,6 +3,7 @@ title: List the Name and Office Location of Each Manager Belonging to an Exchang
 ms.prod: outlook
 ms.assetid: abc26854-62db-be7f-4025-46acbcb42541
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -11,7 +12,7 @@ ms.date: 06/08/2017
 This topic describes how to allow a user to select an Exchange distribution list and display the name and office location of each member who is a manager belonging to that distribution list. The major steps of this procedure are as follows:
 
 
-1. The code sample below displays a  **Select Distribition List** dialog box for the user to select a distribution list.
+1. The code sample below displays a  **Select Distribution List** dialog box for the user to select a distribution list.
     
     It uses the  **[SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md)** object to display the dialog box and obtain user selection. The sample then obtains the user selection through the **[SelectNamesDialog.Recipients](../../../api/Outlook.SelectNamesDialog.Recipients.md)** property.
     
@@ -96,4 +97,4 @@ Sub EnumerateDLManagers(oAddress As AddressEntry)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

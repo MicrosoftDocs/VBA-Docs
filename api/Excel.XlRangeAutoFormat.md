@@ -1,14 +1,15 @@
 ---
-title: xlRangeAutoFormat enumeration (Excel)
+title: XlRangeAutoFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRangeAutoFormat
 ms.assetid: d151846e-9e0a-126f-6c20-a81e54519550
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlRangeAutoFormat enumeration (Excel)
+# XlRangeAutoFormat enumeration (Excel)
 
 Specifies the predefined format when a range is automatically formatted.
 
@@ -16,8 +17,8 @@ Specifies the predefined format when a range is automatically formatted.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **xlRangeAutoFormat3DEffects1**|13|3-D effects 1.|
-| **xlRangeAutoFormat3DEffects2**|14|3-D effects 2.|
+| **xlRangeAutoFormat3DEffects1**|13|3D effects 1.|
+| **xlRangeAutoFormat3DEffects2**|14|3D effects 2.|
 | **xlRangeAutoFormatAccounting1**|4|Accounting 1.|
 | **xlRangeAutoFormatAccounting2**|5|Accounting 2.|
 | **xlRangeAutoFormatAccounting3**|6|Accounting 3.|
@@ -25,7 +26,7 @@ Specifies the predefined format when a range is automatically formatted.
 | **xlRangeAutoFormatClassic1**|1|Classic 1.|
 | **xlRangeAutoFormatClassic2**|2|Classic 2.|
 | **xlRangeAutoFormatClassic3**|3|Classic 3.|
-| **xlRangeAutoFormatClassicPivotTable**|31|Classic pivot table.|
+| **xlRangeAutoFormatClassicPivotTable**|31|Classic PivotTable.|
 | **xlRangeAutoFormatColor1**|7|Color 1.|
 | **xlRangeAutoFormatColor2**|8|Color 2.|
 | **xlRangeAutoFormatColor3**|9|Color 3.|
@@ -37,7 +38,7 @@ Specifies the predefined format when a range is automatically formatted.
 | **xlRangeAutoFormatLocalFormat3**|19|Local Format 3.|
 | **xlRangeAutoFormatLocalFormat4**|20|Local Format 4.|
 | **xlRangeAutoFormatNone**|-4142|No specified format.|
-| **xlRangeAutoFormatPTNone**|42|No specified pivot table format.|
+| **xlRangeAutoFormatPTNone**|42|No specified PivotTable format.|
 | **xlRangeAutoFormatReport1**|21|Report 1.|
 | **xlRangeAutoFormatReport10**|30|Report 10.|
 | **xlRangeAutoFormatReport2**|22|Report 2.|
@@ -60,3 +61,4 @@ Specifies the predefined format when a range is automatically formatted.
 | **xlRangeAutoFormatTable8**|39|Table 8.|
 | **xlRangeAutoFormatTable9**|40|Table 9.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

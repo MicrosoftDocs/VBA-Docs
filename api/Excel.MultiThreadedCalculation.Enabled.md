@@ -8,6 +8,7 @@ api_name:
 - Excel.MultiThreadedCalculation.Enabled
 ms.assetid: 6c976581-6512-23cb-5acc-6742556a0897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ The  **Enabled** property allows **MultiThreadedCalculation** objects to be enab
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_.**Enabled**
 
- _expression_ A variable that represents a [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md) object.
+_expression_ A variable that represents a [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ The  **Enabled** property allows **MultiThreadedCalculation** objects to be enab
 
 [MultiThreadedCalculation Object](Excel.MultiThreadedCalculation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

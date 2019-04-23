@@ -1,5 +1,5 @@
 ---
-title: InlineShape.ConvertToShape Method (Word)
+title: InlineShape.ConvertToShape method (Word)
 keywords: vbawd10.chm162005096
 f1_keywords:
 - vbawd10.chm162005096
@@ -8,19 +8,20 @@ api_name:
 - Word.InlineShape.ConvertToShape
 ms.assetid: 374aea2c-8ff5-d017-4b46-957fafd1bc0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.ConvertToShape Method (Word)
+# InlineShape.ConvertToShape method (Word)
 
 Converts an inline shape to a free-floating shape. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
 
 
 ## Syntax
 
- _expression_. `ConvertToShape`
+_expression_. `ConvertToShape`
 
- _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.InlineShapes(1).ConvertToShape
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

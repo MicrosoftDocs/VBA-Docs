@@ -1,5 +1,5 @@
 ---
-title: CellRange.Column Property (Publisher)
+title: CellRange.Column property (Publisher)
 keywords: vbapb10.chm5177346
 f1_keywords:
 - vbapb10.chm5177346
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CellRange.Column
 ms.assetid: 77925e68-c8ff-9732-32c4-4f082eb3fd1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellRange.Column Property (Publisher)
+# CellRange.Column property (Publisher)
 
 Returns a  **Long** that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax
 
- _expression_. **Column**
+_expression_.**Column**
 
  _expression_ A variable that represents a  **CellRange** object.
 
@@ -55,4 +56,4 @@ Sub CreateNewTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

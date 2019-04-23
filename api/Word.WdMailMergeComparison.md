@@ -1,14 +1,15 @@
 ---
-title: WdMailMergeComparison Enumeration (Word)
+title: WdMailMergeComparison enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeComparison
 ms.assetid: 2c1712ac-b9fb-d42a-79d7-70ca8383820c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMailMergeComparison Enumeration (Word)
+# WdMailMergeComparison enumeration (Word)
 
 Specifies the type of comparison to use when a condition is added to a mail merge process.
 
@@ -25,3 +26,4 @@ Specifies the type of comparison to use when a condition is added to a mail merg
 | **wdMergeIfLessThanOrEqual**|4|A value is output if the mail merge field is less than or equal to a value.|
 | **wdMergeIfNotEqual**|1|A value is output if the mail merge field is not equal to a value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

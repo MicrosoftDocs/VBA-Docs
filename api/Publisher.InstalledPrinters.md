@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters Object (Publisher)
+title: InstalledPrinters object (Publisher)
 keywords: vbapb10.chm8978431
 f1_keywords:
 - vbapb10.chm8978431
@@ -8,10 +8,11 @@ api_name:
 - Publisher.InstalledPrinters
 ms.assetid: 8cf9b194-70bc-7963-6a08-d08401d4b6f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InstalledPrinters Object (Publisher)
+# InstalledPrinters object (Publisher)
 
 Represents the collection of all  **Printer** objects, each of which represents one of the printers installed on the computer.
  
@@ -61,10 +62,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.InstalledPrinters.Application.md)|
 |[Count](Publisher.InstalledPrinters.Count.md)|
 |[Item](Publisher.InstalledPrinters.Item.md)|
 |[Parent](Publisher.InstalledPrinters.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

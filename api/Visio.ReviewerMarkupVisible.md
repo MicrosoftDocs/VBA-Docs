@@ -5,6 +5,7 @@ api_name:
 - Visio.ReviewerMarkupVisible
 ms.assetid: 3c365da2-1eac-0462-607b-be9923f62942
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether markup of the specified reviewer is 
 
 ## Syntax
 
- _expression_. **ReviewerMarkupVisible**(**_ReviewerIndex_**)
+_expression_.**ReviewerMarkupVisible**(**_ReviewerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code shows how display the markup of the first reviewer in the col
 vsoViewer.ReviewerMarkupVisible(1)  = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlTableStyleElementType enumeration (Excel)
+title: XlTableStyleElementType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTableStyleElementType
 ms.assetid: 3b3da46a-b71c-1254-a4ae-ed573f6a891b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlTableStyleElementType enumeration (Excel)
+# XlTableStyleElementType enumeration (Excel)
 
 Specifies the table style element used.
 
@@ -62,3 +63,4 @@ Specifies the table style element used.
 | **xlTotalRow**|2|Total Row|
 | **xlWholeTable**|0|Whole Table|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

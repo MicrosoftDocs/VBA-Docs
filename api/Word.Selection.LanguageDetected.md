@@ -1,5 +1,5 @@
 ---
-title: Selection.LanguageDetected Property (Word)
+title: Selection.LanguageDetected property (Word)
 keywords: vbawd10.chm158663663
 f1_keywords:
 - vbawd10.chm158663663
@@ -8,26 +8,27 @@ api_name:
 - Word.Selection.LanguageDetected
 ms.assetid: 289e6a01-1945-a17f-f6a0-e472cfa263eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.LanguageDetected Property (Word)
+# Selection.LanguageDetected property (Word)
 
 Returns or sets a  **Boolean** that specifies whether Microsoft Word has detected the language of the selected text.
 
 
 ## Syntax
 
- _expression_. `LanguageDetected`
+_expression_. `LanguageDetected`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
 
 Check the  **LanguageID** property for the results of any previous language detection.
 
-The  **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False** .
+The  **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False**.
 
 
 ## Example
@@ -62,3 +63,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Ruler Property (PowerPoint)
+title: TextFrame2.Ruler property (PowerPoint)
 keywords: vbapp10.chm678018
 f1_keywords:
 - vbapp10.chm678018
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame2.Ruler
 ms.assetid: 2fcf6db9-e34f-0dac-de6f-3b470d325ee0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.Ruler Property (PowerPoint)
+# TextFrame2.Ruler property (PowerPoint)
 
 Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only.
 
 
 ## Syntax
 
- _expression_. `Ruler`
+_expression_. `Ruler`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -49,3 +50,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Cut Method (PowerPoint)
+title: TextRange.Cut method (PowerPoint)
 keywords: vbapp10.chm569027
 f1_keywords:
 - vbapp10.chm569027
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Cut
 ms.assetid: 9be71668-1486-0466-f87b-47792d402102
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Cut Method (PowerPoint)
+# TextRange.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_.**Cut**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -38,3 +39,4 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.Cut
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

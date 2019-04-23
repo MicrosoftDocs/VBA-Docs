@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields.Item Method (Publisher)
+title: MailMergeDataFields.Item method (Publisher)
 keywords: vbapb10.chm6356995
 f1_keywords:
 - vbapb10.chm6356995
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataFields.Item
 ms.assetid: d0305807-90a2-87eb-60cb-cd45925c5ed0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataFields.Item Method (Publisher)
+# MailMergeDataFields.Item method (Publisher)
 
 Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from the specified **MailMergeDataFields** object.
 
 
 ## Syntax
 
- _expression_. **Item**(**_varIndex_**)
+_expression_.**Item**(**_varIndex_**)
 
  _expression_ A variable that represents a  **MailMergeDataFields** object.
 
@@ -35,4 +36,4 @@ Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from
 
 MailMergeDataField
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.Port
 ms.assetid: 0fef85fb-fbe7-eada-1629-d56b6008e039
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.Port property (Access)
 
-Returns a  **String** indicating the port name of the specified printer. Read-only.
+Returns a **String** indicating the port name of the specified printer. Read-only.
 
 
 ## Syntax
 
-_expression_. `Port`
+_expression_.**Port**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
 The following example displays information about all the printers available to the system.
-
 
 ```vb
 Dim prtLoop As Printer 
@@ -41,8 +41,6 @@ Next prtLoop
 ```
 
 
-## See also
 
 
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.PointsToScreenPixelsY Method (Excel)
+title: Window.PointsToScreenPixelsY method (Excel)
 keywords: vbaxl10.chm356130
 f1_keywords:
 - vbaxl10.chm356130
@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.PointsToScreenPixelsY
 ms.assetid: ec25e6d4-22c1-2444-9582-37187901ae02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.PointsToScreenPixelsY Method (Excel)
+# Window.PointsToScreenPixelsY method (Excel)
 
 Converts a vertical measurement from points (document coordinates) to screen pixels (screen coordinates). Returns the converted measurement as a  **Long** value.
 
 
 ## Syntax
 
- _expression_. `PointsToScreenPixelsY`( `_Points_` )
+_expression_. `PointsToScreenPixelsY`( `_Points_` )
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ End With
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

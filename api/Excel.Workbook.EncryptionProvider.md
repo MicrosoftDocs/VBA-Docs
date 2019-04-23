@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.EncryptionProvider
 ms.assetid: 13047af7-2e6e-6b64-05f1-8b4bd7a734ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 
 ## Syntax
 
- _expression_. `EncryptionProvider`
+_expression_. `EncryptionProvider`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

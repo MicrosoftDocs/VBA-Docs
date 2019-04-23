@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 51ed2963-ee7f-4bcf-856b-717af2451882
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.NumberFormat Property (PowerPoint)](http://msdn.microsoft.com/library/5007f141-9ed1-1337-d8b9-9d28903db7ce%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

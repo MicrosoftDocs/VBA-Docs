@@ -1,14 +1,15 @@
 ---
-title: InvisibleApp.ShapeLinkDeleted Event (Visio)
+title: InvisibleApp.ShapeLinkDeleted event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeLinkDeleted
 ms.assetid: 01b968ce-ec8b-0dc3-f804-318b57fa0635
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShapeLinkDeleted Event (Visio)
+# InvisibleApp.ShapeLinkDeleted event (Visio)
 
 Occurs after the link between a shape and a data row is deleted.
 
@@ -18,7 +19,7 @@ Occurs after the link between a shape and a data row is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeLinkDeleted'(**_ByVal Shape As [IVSHAPE]_** , **_ByVal DataRecordsetID As Long_** , **_ByVal DataRowID As Long_**)
+Private Sub  _expression_ _'ShapeLinkDeleted'(**_ByVal Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
 
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -43,8 +44,8 @@ When the  **ShapeLinkDeleted** event is fired, the **EventInfo** property return
 
 where  _n_ and _m_ represent the IDs of the data recordset and data row, respectively, associated with the event.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: b1e954f8-e407-ae13-e3d9-a24d3502290a
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -36,7 +37,7 @@ The following table compares the five sets of data types that correspond to each
 |OLE Object|OLE Object|**String**|**adLongVarBinary**|<p>LONGBINARY</p><p>(Synonyms: GENERAL, OLEOBJECT)</p>|
 |Memo|Memo|**String**|**adLongVarWChar**|<p>LONGTEXT</p><p>(Synonyms: LONGCHAR, MEMO, NOTE)</p>|
 |<p>Number</p><p>(**FieldSize** = Single)</p>|Single|**Single**|**adSingle**|<p>SINGLE</p><p>(Synonyms: FLOAT4, IEEESINGLE, REAL)</p>|
-|<p>Number</p><p>(**FieldSize** = Integer)</p>|Integer|**Integer**|**adSmallInt**|<p>SHORT (See Notes)</p><p>(Synonyms: INTEGER2, SMALLINT)</p>|
+|<p>Number</p><p>(**FieldSize** = Integer)</p>|**Integer**|**Integer**|**adSmallInt**|<p>SHORT (See Notes)</p><p>(Synonyms: INTEGER2, SMALLINT)</p>|
 |Text|Text|**String**|**adVarWChar**|<p>TEXT</p><p>(Synonyms: ALPHANUMERIC, CHAR, CHARACTER, STRING, VARCHAR)</p>|
 |Hyperlink|Memo|**String**|**adLongVarWChar**|<p>LONGTEXT</p><p>(Synonyms: LONGCHAR, MEMO, NOTE)</p>|
 | _Not supported_|Value|**Variant**|**adVariant**|VALUE (See Notes)|
@@ -48,3 +49,4 @@ The following table compares the five sets of data types that correspond to each
 > - The VALUE reserved word doesn't represent a data type defined by the Access database engine. However, in Access or SQL queries, the VALUE reserved word can be considered a valid synonym for the Visual Basic **Variant** data type.
 > - If you are setting the data type for a DAO object in Visual Basic code, you must set the object's **Type** property.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

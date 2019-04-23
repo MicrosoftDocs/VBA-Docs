@@ -1,5 +1,5 @@
 ---
-title: Task.Top Property (Word)
+title: Task.Top property (Word)
 keywords: vbawd10.chm159514626
 f1_keywords:
 - vbawd10.chm159514626
@@ -8,19 +8,20 @@ api_name:
 - Word.Task.Top
 ms.assetid: d6777e38-ce29-da8b-5bab-52cf3f022703
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Top Property (Word)
+# Task.Top property (Word)
 
-Returns or sets the vertical position, in points, of the specified window. Read/write  **Long** .
+Returns or sets the vertical position, in [points](../language/glossary/vbe-glossary.md#point), of the specified window. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
- _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
+_expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Task Object](Word.Task.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

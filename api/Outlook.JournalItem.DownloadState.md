@@ -1,5 +1,5 @@
 ---
-title: JournalItem.DownloadState Property (Outlook)
+title: JournalItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1281
 f1_keywords:
 - vbaol11.chm1281
@@ -8,19 +8,20 @@ api_name:
 - Outlook.JournalItem.DownloadState
 ms.assetid: 15e33864-45fc-4c92-2a73-fc2b2956337d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.DownloadState Property (Outlook)
+# JournalItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

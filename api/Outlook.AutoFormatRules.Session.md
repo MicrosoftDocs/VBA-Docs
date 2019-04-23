@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Session Property (Outlook)
+title: AutoFormatRules.Session property (Outlook)
 keywords: vbaol11.chm2715
 f1_keywords:
 - vbaol11.chm2715
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AutoFormatRules.Session
 ms.assetid: 725f7311-29bd-8536-4625-896cc9baffcb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Session Property (Outlook)
+# AutoFormatRules.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

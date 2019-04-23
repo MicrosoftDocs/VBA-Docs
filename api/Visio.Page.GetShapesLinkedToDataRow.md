@@ -1,5 +1,5 @@
 ---
-title: Page.GetShapesLinkedToDataRow Method (Visio)
+title: Page.GetShapesLinkedToDataRow method (Visio)
 keywords: vis_sdr.chm10960150
 f1_keywords:
 - vis_sdr.chm10960150
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.GetShapesLinkedToDataRow
 ms.assetid: d305eccc-4121-be3a-a389-f50234e526f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.GetShapesLinkedToDataRow Method (Visio)
+# Page.GetShapesLinkedToDataRow method (Visio)
 
 Returns an array of all shapes on the active page linked to data in the specified data row in the specified data recordset.
 
@@ -21,7 +22,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 
 ## Syntax
 
- _expression_. `GetShapesLinkedToDataRow`( `_DataRecordsetID_` , `_DataRowID_` , `_ShapeIDs()_` )
+_expression_. `GetShapesLinkedToDataRow`( `_DataRecordsetID_` , `_DataRowID_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -43,7 +44,7 @@ Nothing
 
 ## Remarks
 
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . If there are no shapes on the page linked to the data row specified by DataRowID in the data recordset specified by DataRecordsetID, **GetShapesLinkedToDataRow** will return an empty array.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. If there are no shapes on the page linked to the data row specified by DataRowID in the data recordset specified by DataRecordsetID, **GetShapesLinkedToDataRow** will return an empty array.
 
 To determine the IDs of all the data rows in a data recordset, use the  **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** method. Note that data row IDs do not necessarily always correspond to the logical position of the data rows in the data recordset.
 
@@ -80,4 +81,4 @@ Public Sub GetShapesLinkedToDataRow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

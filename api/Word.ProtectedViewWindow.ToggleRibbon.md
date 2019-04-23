@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.ToggleRibbon Method (Word)
+title: ProtectedViewWindow.ToggleRibbon method (Word)
 keywords: vbawd10.chm231735399
 f1_keywords:
 - vbawd10.chm231735399
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindow.ToggleRibbon
 ms.assetid: 767f3efb-2dfe-c202-c544-f09486c660d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.ToggleRibbon Method (Word)
+# ProtectedViewWindow.ToggleRibbon method (Word)
 
 Shows or hides the ribbon.
 
 
 ## Syntax
 
- _expression_. `ToggleRibbon`
+_expression_. `ToggleRibbon`
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 
@@ -43,3 +44,4 @@ ActiveProtectedViewWindow.ToggleRibbon
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

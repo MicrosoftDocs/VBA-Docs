@@ -1,5 +1,5 @@
 ---
-title: Global.Selection Property (Word)
+title: Global.Selection property (Word)
 keywords: vbawd10.chm163119109
 f1_keywords:
 - vbawd10.chm163119109
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.Selection
 ms.assetid: 71938a78-36ae-07ba-496b-911bef746444
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.Selection Property (Word)
+# Global.Selection property (Word)
 
 Returns a  **Selection** object that represents a selected range or the insertion point. Read-only.
 
 
 ## Syntax
 
- _expression_. `Selection`
+_expression_.**Selection**
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -62,3 +63,4 @@ End If
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

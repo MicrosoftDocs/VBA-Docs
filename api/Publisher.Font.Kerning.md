@@ -1,5 +1,5 @@
 ---
-title: Font.Kerning Property (Publisher)
+title: Font.Kerning property (Publisher)
 keywords: vbapb10.chm5373976
 f1_keywords:
 - vbapb10.chm5373976
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Kerning
 ms.assetid: 756fe3fa-9bf3-be16-2dd1-5b8fb0ec6496
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Kerning Property (Publisher)
+# Font.Kerning property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount of horizontal spacing Microsoft Publisher applies to the characters in the text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Kerning**
+_expression_.**Kerning**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -45,4 +46,4 @@ Application.ActiveDocument.Stories(1).TextRange.Font.Kerning = 6
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Getting the Value of a Property
 ms.prod: outlook
 ms.assetid: fbdda3e8-4089-c68c-ab27-9529cc6fd163
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,3 +19,4 @@ Outlook provides several ways to get the value of a property.
 |**Security**|On a client computer running Microsoft Office Outlook 2007 or later, without an appropriately set up antivirus software, untrusted code attempting to access protected properties will, by default, get the address book security warning.|Trusted and untrusted code can use the **[UserProperty](../../../api/Outlook.UserProperty.md)** object. On a client computer running Office Outlook 2007 or later without an appropriately set up antivirus software, untrusted code attempting to use the **UserProperty** object to access a protected property will, by default, get the address book security warning.|Trusted and untrusted code can use the **[ItemProperty](../../../api/Outlook.ItemProperty.md)** object. On a client computer running Office Outlook 2007 or later without an appropriately set up antivirus software, untrusted code attempting to use the **ItemProperty** object to access a protected property will, by default, get the address book security warning.|On a client computer without an appropriately set up antivirus software, untrusted code attempting to access the **PropertyAccessor** property of an item object will by default invoke the address book security warning.|Same security considerations as in the **GetProperty** column.|
 |**Performance**|No performance overhead. Use this whenever the property is an explicit built-in property.|No performance overhead. Use this object whenever the property is a custom property at the item-level.|No performance overhead. Use this object whenever the property is a custom item-level property.|Using the **PropertyAccessor** to access properties incurs performance overhead. For getting multiple properties, use **PropertyAccessor.GetProperties** as opposed to repeated **PropertyAccessor.GetProperty**.|Using the  **PropertyAccessor** to access properties incurs performance overhead. For getting multiple properties, use **GetProperties** as opposed to repeated **GetProperty**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

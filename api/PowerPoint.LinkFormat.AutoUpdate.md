@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.AutoUpdate Property (PowerPoint)
+title: LinkFormat.AutoUpdate property (PowerPoint)
 keywords: vbapp10.chm563004
 f1_keywords:
 - vbapp10.chm563004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.LinkFormat.AutoUpdate
 ms.assetid: de142aa6-2414-61c3-62d1-1226a0f9209f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.AutoUpdate Property (PowerPoint)
+# LinkFormat.AutoUpdate property (PowerPoint)
 
 Returns or sets the way the link will be updated. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoUpdate`
+_expression_. `AutoUpdate`
 
  _expression_ A variable that represents an [LinkFormat](./PowerPoint.LinkFormat.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **AutoUpdate** property can be one of these **PpUpdateOption**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppUpdateOptionAutomatic**|The link is updated each time the presentation is opened or the source file changes.|
 |**ppUpdateOptionManual**| The link is updated only when the user specifically asks to update the presentation.|
@@ -71,3 +72,4 @@ Next
 
 [LinkFormat Object](PowerPoint.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

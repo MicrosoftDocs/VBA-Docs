@@ -1,5 +1,5 @@
 ---
-title: Column.Select Method (PowerPoint)
+title: Column.Select method (PowerPoint)
 keywords: vbapp10.chm624004
 f1_keywords:
 - vbapp10.chm624004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Column.Select
 ms.assetid: cf50565f-3f7f-3630-aa66-ab1a01d414bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Column.Select Method (PowerPoint)
+# Column.Select method (PowerPoint)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. `Select`
+_expression_.**Select**
 
- _expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
+_expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
 
 
 ## Remarks
@@ -66,3 +67,4 @@ End With
 
 [Column Object](PowerPoint.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

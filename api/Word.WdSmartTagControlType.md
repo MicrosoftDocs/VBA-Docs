@@ -1,14 +1,15 @@
 ---
-title: WdSmartTagControlType Enumeration (Word)
+title: WdSmartTagControlType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSmartTagControlType
 ms.assetid: 2abac1ad-8097-0384-8c75-67ffdffab1f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSmartTagControlType Enumeration (Word)
+# WdSmartTagControlType enumeration (Word)
 
 Specifies the type of control associated with a  **SmartTagAction** object.
 
@@ -33,3 +34,4 @@ Specifies the type of control associated with a  **SmartTagAction** object.
 | **wdControlSmartTag**|1|Smart tag.|
 | **wdControlTextbox**|10|Text box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

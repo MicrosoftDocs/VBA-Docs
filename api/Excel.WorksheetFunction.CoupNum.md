@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupNum Method (Excel)
+title: WorksheetFunction.CoupNum method (Excel)
 keywords: vbaxl10.chm137332
 f1_keywords:
 - vbaxl10.chm137332
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CoupNum
 ms.assetid: 6859fd93-9616-6330-e77b-0135d9d90c1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CoupNum Method (Excel)
+# WorksheetFunction.CoupNum method (Excel)
 
 Returns the number of coupons payable between the settlement date and maturity date, rounded up to the nearest whole coupon.
 
 
 ## Syntax
 
- _expression_. `CoupNum`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `CoupNum`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ The following table contains the values used in  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

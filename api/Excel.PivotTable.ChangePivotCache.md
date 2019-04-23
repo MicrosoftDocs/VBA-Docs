@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ChangePivotCache Method (Excel)
+title: PivotTable.ChangePivotCache method (Excel)
 keywords: vbaxl10.chm235184
 f1_keywords:
 - vbaxl10.chm235184
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ChangePivotCache
 ms.assetid: 1b1ee1b4-0ed6-641a-3e1d-739461fa0466
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.ChangePivotCache Method (Excel)
+# PivotTable.ChangePivotCache method (Excel)
 
-Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTable](Excel.PivotTable.md)** .
+Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTable](Excel.PivotTable.md)**.
 
 
 ## Syntax
 
- _expression_. `ChangePivotCache`( `_bstr_` )
+_expression_. `ChangePivotCache`( `_bstr_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTabl
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _bstr_|Required| **String**|A  **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specfied **PivotTable** .|
+| _bstr_|Required| **String**|A  **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specified **PivotTable**.|
 
 ## Remarks
 
@@ -41,3 +42,4 @@ The  **ChangePivotCache** method can only be used with a **PivotTable** that use
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

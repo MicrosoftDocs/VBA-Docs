@@ -8,6 +8,7 @@ api_name:
 - Excel.ProtectedViewWindows.Item
 ms.assetid: 615c5695-4086-b1de-475e-e9f208c7fe37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ProtectedViewWindows](Excel.ProtectedViewWindows.md) object.
+_expression_ A variable that represents a [ProtectedViewWindows](Excel.ProtectedViewWindows.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a single object from a collection.
 
 [ProtectedViewWindows Object](Excel.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

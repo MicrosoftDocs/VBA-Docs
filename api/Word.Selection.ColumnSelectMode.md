@@ -1,5 +1,5 @@
 ---
-title: Selection.ColumnSelectMode Property (Word)
+title: Selection.ColumnSelectMode property (Word)
 keywords: vbawd10.chm158663063
 f1_keywords:
 - vbawd10.chm158663063
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.ColumnSelectMode
 ms.assetid: de146d32-63aa-3a17-6eeb-32cccf3f8bfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ColumnSelectMode Property (Word)
+# Selection.ColumnSelectMode property (Word)
 
- **True** if column selection mode is active. Read/write **Boolean** .
+ **True** if column selection mode is active. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ColumnSelectMode`
+_expression_. `ColumnSelectMode`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

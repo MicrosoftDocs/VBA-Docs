@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Parent Property (PowerPoint)
+title: ThreeDFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm557001
 f1_keywords:
 - vbapp10.chm557001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.Parent
 ms.assetid: 558d1ae3-6d40-a13b-406e-d5e322938316
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Parent Property (PowerPoint)
+# ThreeDFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

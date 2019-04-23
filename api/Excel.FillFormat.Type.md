@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.Type
 ms.assetid: 6542e486-e461-7b1d-fb2c-213bae93b279
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[MsoFillType](Office.MsoFillType.md)** value that represents the fi
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
 
-This property can also return  **xlAutomatic** or **xlNone** .
+This property can also return  **xlAutomatic** or **xlNone**.
 
 The  **msoFillBackground** constant is not used in Microsoft Excel.
 
@@ -35,3 +36,4 @@ The  **msoFillBackground** constant is not used in Microsoft Excel.
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

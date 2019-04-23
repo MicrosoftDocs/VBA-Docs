@@ -1,5 +1,5 @@
 ---
-title: DocumentItem Object (Outlook)
+title: DocumentItem object (Outlook)
 keywords: vbaol11.chm2994
 f1_keywords:
 - vbaol11.chm2994
@@ -8,10 +8,11 @@ api_name:
 - Outlook.DocumentItem
 ms.assetid: 7b0a6af0-6632-3ff6-841f-5b081d0d68d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentItem Object (Outlook)
+# DocumentItem object (Outlook)
 
 Represents any document other than a Microsoft Outlook item as an item in an Outlook folder. 
 
@@ -30,7 +31,7 @@ Unlike other Outlook objects, you cannot create this object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.DocumentItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.DocumentItem.AttachmentAdd.md)|
@@ -63,7 +64,7 @@ Unlike other Outlook objects, you cannot create this object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.DocumentItem.Close(method).md)|
 |[Copy](Outlook.DocumentItem.Copy.md)|
@@ -79,7 +80,7 @@ Unlike other Outlook objects, you cannot create this object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.DocumentItem.Actions.md)|
 |[Application](Outlook.DocumentItem.Application.md)|
@@ -121,4 +122,6 @@ Unlike other Outlook objects, you cannot create this object.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

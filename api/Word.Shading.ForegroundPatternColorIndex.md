@@ -1,5 +1,5 @@
 ---
-title: Shading.ForegroundPatternColorIndex Property (Word)
+title: Shading.ForegroundPatternColorIndex property (Word)
 keywords: vbawd10.chm154796033
 f1_keywords:
 - vbawd10.chm154796033
@@ -8,19 +8,20 @@ api_name:
 - Word.Shading.ForegroundPatternColorIndex
 ms.assetid: 9a6e7647-b034-7ae3-55ca-9d0e1956b76f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shading.ForegroundPatternColorIndex Property (Word)
+# Shading.ForegroundPatternColorIndex property (Word)
 
-Returns or sets the color that's applied to the foreground of the  **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write **WdColorIndex** .
+Returns or sets the color that's applied to the foreground of the  **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write **WdColorIndex**.
 
 
 ## Syntax
 
- _expression_. `ForegroundPatternColorIndex`
+_expression_. `ForegroundPatternColorIndex`
 
- _expression_ Required. A variable that represents a '[Shading](Word.Shading.md)' object.
+_expression_ Required. A variable that represents a '[Shading](Word.Shading.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Shading Object](Word.Shading.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

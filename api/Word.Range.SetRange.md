@@ -1,5 +1,5 @@
 ---
-title: Range.SetRange Method (Word)
+title: Range.SetRange method (Word)
 keywords: vbawd10.chm157155428
 f1_keywords:
 - vbawd10.chm157155428
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.SetRange
 ms.assetid: 91097079-406c-98f4-d37c-cca8dab7aef0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.SetRange Method (Word)
+# Range.SetRange method (Word)
 
 Sets the starting and ending character positions for an existing range.
 
 
 ## Syntax
 
- _expression_. `SetRange`( `_Start_` , `_End_` )
+_expression_. `SetRange`( `_Start_` , `_End_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ myRange.SetRange Start:=myRange.Start, End:=Selection.End
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

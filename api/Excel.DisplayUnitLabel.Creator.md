@@ -8,19 +8,20 @@ api_name:
 - Excel.DisplayUnitLabel.Creator
 ms.assetid: 8150429a-3533-6681-36cf-22db6196610f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DisplayUnitLabel.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

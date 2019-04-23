@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.IndentLevel
 ms.assetid: 4b7cdb95-c613-799f-7bfd-667506018722
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that represents the indent level of the associated  **[Range](Ex
 
 ## Syntax
 
- _expression_. `IndentLevel`
+_expression_.**IndentLevel**
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

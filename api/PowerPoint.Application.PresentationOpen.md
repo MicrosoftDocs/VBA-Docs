@@ -1,5 +1,5 @@
 ---
-title: Application.PresentationOpen Event (PowerPoint)
+title: Application.PresentationOpen event (PowerPoint)
 keywords: vbapp10.chm621006
 f1_keywords:
 - vbapp10.chm621006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Application.PresentationOpen
 ms.assetid: 1739cee9-cfc1-0650-de24-be699bafe910
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PresentationOpen Event (PowerPoint)
+# Application.PresentationOpen event (PowerPoint)
 
 Occurs after an existing presentation is opened, as it is added to the  **[Presentations](PowerPoint.Presentations.md)** collection.
 
 
 ## Syntax
 
- _expression_. `PresentationOpen`( `_Pres_` )
+_expression_. `PresentationOpen`( `_Pres_` )
 
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
@@ -67,3 +68,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

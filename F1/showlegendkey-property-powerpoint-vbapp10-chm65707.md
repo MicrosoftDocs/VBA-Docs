@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d48cca9d-fe51-44b8-87be-cc233dfb82f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabel.ShowLegendKey Property (PowerPoint)](http://msdn.microsoft.com/library/1cd5f3a4-056d-ccb6-140f-08ec1e416eda%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

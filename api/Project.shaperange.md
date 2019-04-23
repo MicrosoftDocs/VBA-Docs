@@ -1,12 +1,13 @@
 ---
-title: ShapeRange Object (Project)
+title: ShapeRange object (Project)
 ms.prod: project-server
 ms.assetid: 315031aa-4b8c-424b-26e7-ce15897beb05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange Object (Project)
+# ShapeRange object (Project)
 Represents a shape range, which is a collection of one or more shapes in a report.
  
 
@@ -27,7 +28,7 @@ Most operations that you can do with a  **Shape** object, you can also do with a
 
 ## Examples
 
-You can return a set of shapes that are specified by the index number or by the shape name. Use  `Shapes.Range(index)`, where  _index_ is an array of index numbers or names. For example, both of the following statements are valid:
+You can return a set of shapes that are specified by the index number or by the shape name. Use  `Shapes.Range(index)`, where _index_ is an array of index numbers or names. For example, both of the following statements are valid:
  
 
  
@@ -118,7 +119,7 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Project.shaperange.adjustments.md)|
 |[AlternativeText](Project.shaperange.alternativetext.md)|
@@ -176,3 +177,5 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 [Shapes Object](Project.shapes.md)
  
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

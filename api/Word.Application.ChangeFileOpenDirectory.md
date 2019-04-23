@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeFileOpenDirectory Method (Word)
+title: Application.ChangeFileOpenDirectory method (Word)
 keywords: vbawd10.chm158335333
 f1_keywords:
 - vbawd10.chm158335333
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ChangeFileOpenDirectory
 ms.assetid: 9f044713-6e97-7219-8083-7d7d2cbb1b0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ChangeFileOpenDirectory Method (Word)
+# Application.ChangeFileOpenDirectory method (Word)
 
 Sets the folder in which Word searches for documents.
 
 
 ## Syntax
 
- _expression_. `ChangeFileOpenDirectory`( `_Path_` )
+_expression_. `ChangeFileOpenDirectory`( `_Path_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -62,3 +63,4 @@ Dialogs(wdDialogFileOpen).Show
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

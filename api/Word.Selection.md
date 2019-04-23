@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Word)
+title: Selection object (Word)
 keywords: vbawd10.chm2421
 f1_keywords:
 - vbawd10.chm2421
@@ -8,10 +8,11 @@ api_name:
 - Word.Selection
 ms.assetid: 7b574a91-c33e-ecfd-6783-6b7528b2ed8f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
-# Selection Object (Word)
+# Selection object (Word)
 
 Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the document, or it represents the insertion point if nothing in the document is selected. There can be only one  **Selection** object per document window pane, and only one **Selection** object in the entire application can be active.
 
@@ -140,7 +141,7 @@ Because  **Range** objects share many of the same methods and properties as **Se
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BoldRun](./Word.Selection.BoldRun.md)|
 |[Calculate](./Word.Selection.Calculate.md)|
@@ -260,7 +261,7 @@ Because  **Range** objects share many of the same methods and properties as **Se
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./Word.Selection.Active.md)|
 |[Application](./Word.Selection.Application.md)|
@@ -333,5 +334,6 @@ Because  **Range** objects share many of the same methods and properties as **Se
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

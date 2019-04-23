@@ -1,5 +1,5 @@
 ---
-title: Application.FileSaveWorkspace Method (Project)
+title: Application.FileSaveWorkspace method (Project)
 keywords: vbapj.chm108
 f1_keywords:
 - vbapj.chm108
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FileSaveWorkspace
 ms.assetid: f7c524e5-aa9e-e1a2-6f32-defb7cc23f04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileSaveWorkspace Method (Project)
+# Application.FileSaveWorkspace method (Project)
 
 Saves a list of open files and the current settings in the  **Options** dialog box.
 
 
 ## Syntax
 
- _expression_. `FileSaveWorkspace`( ` _Name_` )
+_expression_. `FileSaveWorkspace`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -56,4 +57,4 @@ Sub SaveWorkspaceByProjectName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

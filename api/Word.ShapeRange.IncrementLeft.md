@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementLeft Method (Word)
+title: ShapeRange.IncrementLeft method (Word)
 keywords: vbawd10.chm162856976
 f1_keywords:
 - vbawd10.chm162856976
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.IncrementLeft
 ms.assetid: 05d6b6c0-7265-453b-620d-728c6a659da3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementLeft Method (Word)
+# ShapeRange.IncrementLeft method (Word)
 
 Moves the specified shape horizontally by the specified number of points.
 
 
 ## Syntax
 
- _expression_. `IncrementLeft`( `_Increment_` )
+_expression_. `IncrementLeft`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Moves the specified shape horizontally by the specified number of points.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

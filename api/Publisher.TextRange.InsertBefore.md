@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertBefore Method (Publisher)
+title: TextRange.InsertBefore method (Publisher)
 keywords: vbapb10.chm5308449
 f1_keywords:
 - vbapb10.chm5308449
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.InsertBefore
 ms.assetid: b0e4355b-b1bc-ae78-08ad-000d577fd7db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.InsertBefore Method (Publisher)
+# TextRange.InsertBefore method (Publisher)
 
 Appends a string to the beginning of the specified text range. Returns a  **TextRange** object that represents the appended text. When used without an argument, this method returns a zero-length string at the end of the specified range.
 
 
 ## Syntax
 
- _expression_. **InsertBefore**(**_NewText_**)
+_expression_.**InsertBefore**(**_NewText_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -50,4 +51,4 @@ Sub InsertTextBefore()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

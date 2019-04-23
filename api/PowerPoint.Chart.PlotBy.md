@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotBy Property (PowerPoint)
+title: Chart.PlotBy property (PowerPoint)
 keywords: vbapp10.chm65738
 f1_keywords:
 - vbapp10.chm65738
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.PlotBy
 ms.assetid: 14b696d7-148c-267f-4294-4dddc9fba4e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.PlotBy Property (PowerPoint)
+# Chart.PlotBy property (PowerPoint)
 
 Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PlotBy`
+_expression_.**PlotBy**
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Remarks
@@ -67,3 +68,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

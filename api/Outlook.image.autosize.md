@@ -3,6 +3,7 @@ title: Image.AutoSize Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 053d8d6f-37d1-98e0-0ef8-e409d9ecaa78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
 ## Syntax
 
- _expression_. **AutoSize**
+_expression_.**AutoSize**
 
- _expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ For controls without captions, this property specifies whether the control autom
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

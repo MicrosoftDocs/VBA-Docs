@@ -1,5 +1,5 @@
 ---
-title: Shape.GetLinkedDataRow Method (Visio)
+title: Shape.GetLinkedDataRow method (Visio)
 keywords: vis_sdr.chm11260215
 f1_keywords:
 - vis_sdr.chm11260215
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shape.GetLinkedDataRow
 ms.assetid: 55e578a5-da95-9a5c-3d1d-5cc5edeb57a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GetLinkedDataRow Method (Visio)
+# Shape.GetLinkedDataRow method (Visio)
 
 Gets the ID of the data row in the specified data recordset linked to the shape.
 
@@ -21,7 +22,7 @@ Gets the ID of the data row in the specified data recordset linked to the shape.
 
 ## Syntax
 
- _expression_. `GetLinkedDataRow`( `_DataRecordsetID_` )
+_expression_. `GetLinkedDataRow`( `_DataRecordsetID_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
@@ -74,4 +75,4 @@ Public Sub GetLinkedDataRow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

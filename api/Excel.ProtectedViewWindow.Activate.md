@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Activate Method (Excel)
+title: ProtectedViewWindow.Activate method (Excel)
 keywords: vbaxl10.chm914085
 f1_keywords:
 - vbaxl10.chm914085
@@ -8,19 +8,20 @@ api_name:
 - Excel.ProtectedViewWindow.Activate
 ms.assetid: 1dac3a2b-c00f-d032-b089-6f89e83bc52d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Activate Method (Excel)
+# ProtectedViewWindow.Activate method (Excel)
 
-Brings the  **Protected View** window to the front of the z-order.
+Brings the Protected View window to the front of the z-order.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Nothing
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

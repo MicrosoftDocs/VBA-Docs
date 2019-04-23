@@ -1,5 +1,5 @@
 ---
-title: Range.LanguageDetected Property (Word)
+title: Range.LanguageDetected property (Word)
 keywords: vbawd10.chm157155591
 f1_keywords:
 - vbawd10.chm157155591
@@ -8,26 +8,27 @@ api_name:
 - Word.Range.LanguageDetected
 ms.assetid: dfe307e5-ad87-9a6b-ecbe-521c6354b349
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.LanguageDetected Property (Word)
+# Range.LanguageDetected property (Word)
 
-Returns or sets a value that specifies whether Microsoft Word has detected the language of the specified text. Read/write  **Boolean** .
+Returns or sets a value that specifies whether Microsoft Word has detected the language of the specified text. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LanguageDetected`
+_expression_. `LanguageDetected`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
 
 Check the  **LanguageID** property for the results of any previous language detection.
 
-The  **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False** .
+The  **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False**.
 
 
 ## Example
@@ -62,3 +63,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

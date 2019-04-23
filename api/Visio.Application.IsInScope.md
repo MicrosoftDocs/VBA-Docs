@@ -1,5 +1,5 @@
 ---
-title: Application.IsInScope Property (Visio)
+title: Application.IsInScope property (Visio)
 keywords: vis_sdr.chm10013750
 f1_keywords:
 - vis_sdr.chm10013750
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.IsInScope
 ms.assetid: adb9a52f-8e62-9d92-d8bf-81bed48b2cc3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.IsInScope Property (Visio)
+# Application.IsInScope property (Visio)
 
 Determines whether a call to an event handler is between an  **EnterScope** event and an **ExitScope** event for a scope. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsInScope`( `_nCmdID_` )
+_expression_. `IsInScope`( `_nCmdID_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -113,4 +114,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.WindowHide Method (Project)
+title: Application.WindowHide method (Project)
 keywords: vbapj.chm703
 f1_keywords:
 - vbapj.chm703
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WindowHide
 ms.assetid: 37219d9d-1e50-3341-7618-9827d077d4d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowHide Method (Project)
+# Application.WindowHide method (Project)
 
 Hides a window.
 
 
 ## Syntax
 
- _expression_. `WindowHide`( ` _Name_` )
+_expression_. `WindowHide`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -56,4 +57,4 @@ Sub HideAllWindowsExceptActive()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Parent Property (PowerPoint)
+title: ConnectorFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm555001
 f1_keywords:
 - vbapp10.chm555001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ConnectorFormat.Parent
 ms.assetid: fad56311-c3b3-4ce4-aede-1f3182250895
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.Parent Property (PowerPoint)
+# ConnectorFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

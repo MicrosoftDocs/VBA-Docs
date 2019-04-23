@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.RefreshUsingXML Method (Visio)
+title: DataRecordset.RefreshUsingXML method (Visio)
 keywords: vis_sdr.chm16460325
 f1_keywords:
 - vis_sdr.chm16460325
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.RefreshUsingXML
 ms.assetid: 345935ab-b269-61dd-9ebe-e1f87b89bb11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.RefreshUsingXML Method (Visio)
+# DataRecordset.RefreshUsingXML method (Visio)
 
 Updates linked shapes with data contained in the string that conforms to the ADO classic XML schema passed to the method as a parameter.
 
@@ -21,7 +22,7 @@ Updates linked shapes with data contained in the string that conforms to the ADO
 
 ## Syntax
 
- _expression_. `RefreshUsingXML`( `_NewDataAsXML_` )
+_expression_. `RefreshUsingXML`( `_NewDataAsXML_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -47,7 +48,7 @@ The data in the XML string you pass to the  **RefreshUsingXML** method should be
 
 When you create a data recordset, Microsoft Visio assigns row IDs to all the rows in the recordset based on the existing order of the rows in the data source. 
 
-If the XML string you pass to the  **RefreshUsingXML** method contains a column consisting of Visio row IDs (as it would, for example, if you exported it from Visio by getting the **[DataAsXML ](Visio.DataRecordset.DataAsXML.md)** property value of the data recordset), the **RefreshUsingXML** method attempts to validate the row IDs in the string. If the method finds the row IDs to be valid, it reuses them in the updated data recordset. If it finds them to be invalid, it returns an error.
+If the XML string you pass to the  **RefreshUsingXML** method contains a column consisting of Visio row IDs (as it would, for example, if you exported it from Visio by getting the **[DataAsXML](Visio.DataRecordset.DataAsXML.md)** property value of the data recordset), the **RefreshUsingXML** method attempts to validate the row IDs in the string. If the method finds the row IDs to be valid, it reuses them in the updated data recordset. If it finds them to be invalid, it returns an error.
 
 
 ## Example
@@ -120,4 +121,4 @@ intCount = ThisDocument.DataRecordsets.Count
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

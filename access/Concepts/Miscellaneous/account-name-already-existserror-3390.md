@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6dfb2f67-e61f-8685-f711-d8f342c8e6a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,5 @@ This is a security problem. You tried to establish a user account using a name t
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

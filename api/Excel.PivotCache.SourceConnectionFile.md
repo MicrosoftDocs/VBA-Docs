@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.SourceConnectionFile
 ms.assetid: 87755bde-3c43-3520-24f7-2c778a225b18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
 ## Syntax
 
- _expression_. `SourceConnectionFile`
+_expression_. `SourceConnectionFile`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Example
@@ -52,3 +53,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

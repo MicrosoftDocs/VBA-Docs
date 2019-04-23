@@ -1,5 +1,5 @@
 ---
-title: Comment.Scope Property (Word)
+title: Comment.Scope property (Word)
 keywords: vbawd10.chm154993645
 f1_keywords:
 - vbawd10.chm154993645
@@ -8,17 +8,18 @@ api_name:
 - Word.Comment.Scope
 ms.assetid: 07ef4a30-9a3a-aed1-5c38-7f091ea3150b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comment.Scope Property (Word)
+# Comment.Scope property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the range of text marked by the specified comment.
 
 
 ## Syntax
 
- _expression_. `Scope`
+_expression_. `Scope`
 
  _expression_ An expression that returns a '[Comment](Word.Comment.md)' object.
 
@@ -51,3 +52,4 @@ If total >= 1 Then ActiveDocument.Comments(total).Scope.Copy
 
 [Comment Object](Word.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

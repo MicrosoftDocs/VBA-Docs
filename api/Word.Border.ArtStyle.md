@@ -1,5 +1,5 @@
 ---
-title: Border.ArtStyle Property (Word)
+title: Border.ArtStyle property (Word)
 keywords: vbawd10.chm154861573
 f1_keywords:
 - vbawd10.chm154861573
@@ -8,19 +8,20 @@ api_name:
 - Word.Border.ArtStyle
 ms.assetid: 999569c0-96de-0c6c-462c-ec32804f8801
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Border.ArtStyle Property (Word)
+# Border.ArtStyle property (Word)
 
-Returns or sets the graphical page-border design for a document. Read/write  **WdPageBorderArt** .
+Returns or sets the graphical page-border design for a document. Read/write  **WdPageBorderArt**.
 
 
 ## Syntax
 
- _expression_. `ArtStyle`
+_expression_. `ArtStyle`
 
- _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Example
@@ -64,3 +65,4 @@ End With
 
 [Border Object](Word.Border.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

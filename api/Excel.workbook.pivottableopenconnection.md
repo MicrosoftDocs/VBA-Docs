@@ -1,24 +1,25 @@
 ---
-title: Workbook.PivotTableOpenConnection Event (Excel)
+title: Workbook.PivotTableOpenConnection event (Excel)
 keywords: vbaxl10.chm503095
 f1_keywords:
 - vbaxl10.chm503095
 ms.prod: excel
 ms.assetid: b6ce12f7-7bc6-bfcc-33f4-2e8ea6e53bae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.PivotTableOpenConnection Event (Excel)
+# Workbook.PivotTableOpenConnection event (Excel)
 
 Occurs after a PivotTable report opens the connection to its data source.
 
 
 ## Syntax
 
- _expression_. `PivotTableOpenConnection`( `_Target_` )
+_expression_. `PivotTableOpenConnection`( `_Target_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

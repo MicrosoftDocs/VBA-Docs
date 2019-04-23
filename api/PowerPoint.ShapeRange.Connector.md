@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Connector Property (PowerPoint)
+title: ShapeRange.Connector property (PowerPoint)
 keywords: vbapp10.chm548020
 f1_keywords:
 - vbapp10.chm548020
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Connector
 ms.assetid: 04871183-d9d0-f0ba-f801-4f1f6564f0d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Connector Property (PowerPoint)
+# ShapeRange.Connector property (PowerPoint)
 
 Determines whether the specified shape is a connector. Read-only.
 
 
 ## Syntax
 
- _expression_. `Connector`
+_expression_. `Connector`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -34,14 +35,14 @@ The value of the  **Connector** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not a connector.|
 |**msoTrue**| The specified shape is a connector.|
 
 ## Example
 
-This example deletes all connectors on  `myDocument`.
+This example deletes all connectors on  _myDocument_.
 
 
 ```vb
@@ -68,3 +69,4 @@ End With
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

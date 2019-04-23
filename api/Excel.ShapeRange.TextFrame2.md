@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.TextFrame2
 ms.assetid: ffda1364-f67c-ea64-6755-e92ba53ce2b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text forma
 
 ## Syntax
 
- _expression_. `TextFrame2`
+_expression_. `TextFrame2`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text forma
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

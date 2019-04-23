@@ -1,5 +1,5 @@
 ---
-title: Language Object (Word)
+title: Language object (Word)
 keywords: vbawd10.chm2413
 f1_keywords:
 - vbawd10.chm2413
@@ -8,10 +8,11 @@ api_name:
 - Word.Language
 ms.assetid: 0acc4a42-b4c2-a415-0e38-a049b085dc86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Language Object (Word)
+# Language object (Word)
 
 Represents a language used for proofing or formatting in Microsoft Word. The  **Language** object is a member of the **Languages** collection.
 
@@ -32,7 +33,7 @@ Sub ShowItalianNames()
 End Sub
 ```
 
-For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary** , **ActiveHyphenationDictionary** , **ActiveSpellingDictionary** , and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** object. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
+For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** object. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
 
 
 
@@ -82,15 +83,15 @@ Sub SetWritingStyle()
 End Sub
 ```
 
-If you mark text as  **wdNoProofing** , Word skips the marked text when running a spelling or grammar check.
+If you mark text as  **wdNoProofing**, Word skips the marked text when running a spelling or grammar check.
 
 
- **Note**  You must have the proofing tools installed for each language you intend to check. For more information on working in other languages, see [Language-specific information](./overview/Word.md).
+ **Note**  You must have the proofing tools installed for each language you intend to check. For more information on working in other languages, see [Language-specific information](overview/Word.md).
 
 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

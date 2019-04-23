@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3bfc6120-d31a-4a1b-9bae-be2f93323c27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.GetChartElement Method (Project)](http://msdn.microsoft.com/library/f2705f1d-7252-41ec-848b-f7f9cc26663e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

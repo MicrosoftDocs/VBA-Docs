@@ -8,14 +8,15 @@ api_name:
 - Access.AcDefView
 ms.assetid: e5652293-65b0-6eaa-c533-1e0912a0df25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcDefView enumeration (Access)
 
-Use with the  **DefaultView** property to set or return the opening view of a form.
+Use with the **DefaultView** property to set or return the opening view of a form.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -26,3 +27,4 @@ Use with the  **DefaultView** property to set or return the opening view of a fo
 |**acDefViewSingle**|0|(Default) Displays one record at a time.|
 |**acDefViewSplitForm**|5|Displays the form in Split Form view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

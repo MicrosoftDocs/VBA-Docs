@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCError.Creator
 ms.assetid: 0c565d02-2e5e-e997-f3ea-0775121eb545
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCError.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
+_expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ODBCError Object](Excel.ODBCError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

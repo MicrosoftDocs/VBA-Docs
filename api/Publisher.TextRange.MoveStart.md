@@ -1,5 +1,5 @@
 ---
-title: TextRange.MoveStart Method (Publisher)
+title: TextRange.MoveStart method (Publisher)
 keywords: vbapb10.chm5308423
 f1_keywords:
 - vbapb10.chm5308423
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.MoveStart
 ms.assetid: 5a9c480b-3cb7-0fd8-59c0-e2f93a925164
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.MoveStart Method (Publisher)
+# TextRange.MoveStart method (Publisher)
 
 Moves the start position of the specified range. This method returns a  **Long** that indicates the number of units by which the start position or the range or selection actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. **MoveStart**(**_Unit_**,  **_Size_**)
+_expression_.**MoveStart**(**_Unit_**,  **_Size_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -85,4 +86,4 @@ Sub MoveStartEnd()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

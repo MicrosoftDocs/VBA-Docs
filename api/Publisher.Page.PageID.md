@@ -1,5 +1,5 @@
 ---
-title: Page.PageID Property (Publisher)
+title: Page.PageID property (Publisher)
 keywords: vbapb10.chm393223
 f1_keywords:
 - vbapb10.chm393223
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.PageID
 ms.assetid: 07a87780-fb97-93ff-6f7d-1f1b72d3cb6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.PageID Property (Publisher)
+# Page.PageID property (Publisher)
 
 Returns a  **Long** indicating the unique identifier for a page in a publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageID**
+_expression_.**PageID**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -47,4 +48,4 @@ With ActiveDocument.Pages
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

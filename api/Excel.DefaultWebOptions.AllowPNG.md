@@ -8,19 +8,20 @@ api_name:
 - Excel.DefaultWebOptions.AllowPNG
 ms.assetid: b4cdab42-25ed-e313-ebf2-fc9abd68474b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DefaultWebOptions.AllowPNG property (Excel)
 
- **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a Web page. **False** if PNG is not allowed as an output format. The default value is **False** . Read/write **Boolean** .
+ **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a web page. **False** if PNG is not allowed as an output format. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowPNG`
+_expression_. `AllowPNG`
 
- _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Application.DefaultWebOptions.AllowPNG = True
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

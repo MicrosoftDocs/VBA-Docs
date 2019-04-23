@@ -1,14 +1,15 @@
 ---
-title: PjExceptionType Enumeration (Project)
+title: PjExceptionType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjExceptionType
 ms.assetid: 416764be-d734-e5cd-f269-2f21551a7599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjExceptionType Enumeration (Project)
+# PjExceptionType enumeration (Project)
 
 Contains constants that specify a type of calendar exception.
 
@@ -25,3 +26,4 @@ Contains constants that specify a type of calendar exception.
 |**pjYearlyMonthDay**|2|The exception recurrence pattern is yearly on a specified day of a month, for example on December 24.|
 |**pjYearlyPositional**|3|The exception recurrence pattern is yearly on a specified position of a day in a month, for example the fourth Friday of every month.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

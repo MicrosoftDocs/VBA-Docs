@@ -1,5 +1,5 @@
 ---
-title: Presentation.CheckIn Method (PowerPoint)
+title: Presentation.CheckIn method (PowerPoint)
 keywords: vbapp10.chm583065
 f1_keywords:
 - vbapp10.chm583065
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.CheckIn
 ms.assetid: 63621199-7cda-c464-527f-f55130753f08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.CheckIn Method (PowerPoint)
+# Presentation.CheckIn method (PowerPoint)
 
 Returns a presentation from a local computer to a server, and sets the local file to read-only so that it cannot be edited locally.
 
 
 ## Syntax
 
- _expression_. `CheckIn`( `_SaveChanges_`, `_Comments_`, `_MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_`, `_Comments_`, `_MakePublic_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -80,3 +81,4 @@ End Sub
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

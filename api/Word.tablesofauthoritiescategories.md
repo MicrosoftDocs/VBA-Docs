@@ -1,15 +1,16 @@
 ---
-title: TablesOfAuthoritiesCategories Object (Word)
+title: TablesOfAuthoritiesCategories object (Word)
 keywords: vbawd10.chm2422
 f1_keywords:
 - vbawd10.chm2422
 ms.prod: word
 ms.assetid: 344b9c42-01d1-805c-6af6-c8301e24b97e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TablesOfAuthoritiesCategories Object (Word)
+# TablesOfAuthoritiesCategories object (Word)
 
 A collection of  **[TableOfAuthoritiesCategory](Word.TableOfAuthoritiesCategory.md)** objects that represent the table of authorities categories, such as Cases and Statutes. The **TablesOfAuthoritiesCategories** collection includes all 16 categories listed in the **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box.
 
@@ -52,5 +53,6 @@ MsgBox ActiveDocument.TablesOfAuthoritiesCategories(1).Name
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

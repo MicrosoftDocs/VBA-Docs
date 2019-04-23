@@ -1,5 +1,5 @@
 ---
-title: Slide.MoveTo Method (PowerPoint)
+title: Slide.MoveTo method (PowerPoint)
 keywords: vbapp10.chm531030
 f1_keywords:
 - vbapp10.chm531030
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.MoveTo
 ms.assetid: b044a6fe-b6af-0f7f-ca4a-69d8a6f146e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.MoveTo Method (PowerPoint)
+# Slide.MoveTo method (PowerPoint)
 
 Moves the specified object to a specific location within the same collection, renumbering all other items in the collection appropriately.
 
 
 ## Syntax
 
- _expression_. `MoveTo`( `_toPos_` )
+_expression_. `MoveTo`( `_toPos_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -73,3 +74,4 @@ End Sub
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

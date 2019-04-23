@@ -1,5 +1,5 @@
 ---
-title: Document.RunLetterWizard Method (Word)
+title: Document.RunLetterWizard method (Word)
 keywords: vbawd10.chm158007419
 f1_keywords:
 - vbawd10.chm158007419
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.RunLetterWizard
 ms.assetid: 7da6e2b9-607a-0d3e-7d0d-762a8900a486
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RunLetterWizard Method (Word)
+# Document.RunLetterWizard method (Word)
 
 Runs the Letter Wizard on the specified document.
 
 
 ## Syntax
 
- _expression_. `RunLetterWizard`( `_LetterContent_` , `_WizardMode_` )
+_expression_. `RunLetterWizard`( `_LetterContent_` , `_WizardMode_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Runs the Letter Wizard on the specified document.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LetterContent_|Optional| **Variant**|A  **[LetterContent](Word.LetterContent.md)** object. Any filled properties in the **LetterContent** object show up as prefilled elements in the Letter Wizard dialog boxes. If this argument is omitted, the **GetLetterContent** method is automatically used to get a **LetterContent** object from the specified document.|
-| _WizardMode_|Optional| **Variant**| **True** to display the **Letter Wizard** dialog box as a series of steps with a **Next**,  **Back**, and  **Finish** button. **False** to display the **Letter Wizard** dialog box as if it were opened from the **Tools** menu (a properties dialog box with an **OK** button and a **Cancel** button). The default value is **True** .|
+| _WizardMode_|Optional| **Variant**| **True** to display the **Letter Wizard** dialog box as a series of steps with a **Next**,  **Back**, and  **Finish** button. **False** to display the **Letter Wizard** dialog box as if it were opened from the **Tools** menu (a properties dialog box with an **OK** button and a **Cancel** button). The default value is **True**.|
 
 ## Remarks
 
@@ -88,3 +89,4 @@ ActiveDocument.RunLetterWizard LetterContent:=myLetter
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

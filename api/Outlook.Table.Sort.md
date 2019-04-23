@@ -1,5 +1,5 @@
 ---
-title: Table.Sort Method (Outlook)
+title: Table.Sort method (Outlook)
 keywords: vbaol11.chm2235
 f1_keywords:
 - vbaol11.chm2235
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Table.Sort
 ms.assetid: 4e4867c2-27b8-f920-59ce-b60116d22054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Sort Method (Outlook)
+# Table.Sort method (Outlook)
 
-Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table** .
+Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table**.
 
 
 ## Syntax
 
- _expression_. `Sort`( `_SortProperty_` , `_Descending_` )
+_expression_.**Sort** (_SortProperty_, _Descending_)
 
- _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified i
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SortProperty_|Required| **String**|Specifies the property to use to sort the rows of the  **Table** .|
+| _SortProperty_|Required| **String**|Specifies the property to use to sort the rows of the  **Table**.|
 | _Descending_|Optional| **Boolean**|Whether to sort the  **Table** in descending order.|
 
 ## Remarks
@@ -88,3 +89,4 @@ End Sub
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

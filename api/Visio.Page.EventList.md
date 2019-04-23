@@ -1,5 +1,5 @@
 ---
-title: Page.EventList Property (Visio)
+title: Page.EventList property (Visio)
 keywords: vis_sdr.chm10913480
 f1_keywords:
 - vis_sdr.chm10913480
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.EventList
 ms.assetid: 7841962e-c2c5-0cf3-2073-fc97a050e32e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.EventList Property (Visio)
+# Page.EventList property (Visio)
 
 Returns the  **EventList** collection of an object or the **EventList** collection that contains an **Event** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventList`
+_expression_. `EventList`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -54,7 +55,7 @@ Public Sub EventList_Example()
  Set vsoAddon = vsoAddons.Add ("fullpath\filename ") 
  
  'Add a ShapeAdded event to the EventList collection 
- 'of the document. The event will start the specifed add-on, which 
+ 'of the document. The event will start the specified add-on, which 
  'should take no arguments. 
  Set vsoEventList = ThisDocument.EventList 
  Set vsoEvent = vsoEventList.Add(visEvtAdd + visEvtShape, visActCodeRunAddon, _ 
@@ -63,4 +64,4 @@ Public Sub EventList_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

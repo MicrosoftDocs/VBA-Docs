@@ -1,22 +1,23 @@
 ---
-title: Broadcast.AddMeetingNotes Method (Word)
+title: Broadcast.AddMeetingNotes method (Word)
 keywords: vbawd10.chm36438121
 f1_keywords:
 - vbawd10.chm36438121
 ms.prod: word
 ms.assetid: e13a52fd-d0a4-bc32-2d0a-f01f9218bfa2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Broadcast.AddMeetingNotes Method (Word)
+# Broadcast.AddMeetingNotes method (Word)
 
 Adds shared meeting notes for the specified broadcast that are accessible to attendees who use either Microsoft OneNote 2013 rich client or web app.
 
 
 ## Syntax
 
- _expression_. `AddMeetingNotes`_(notesUrl,_ _notesWacUrl)_
+_expression_. `AddMeetingNotes`_(notesUrl,_ _notesWacUrl)_
 
  _expression_ A variable that represents a 'Broadcast' object.
 
@@ -25,11 +26,11 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _notesUrl_|Required|STRING|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 rich client.|
-| _notesWacUrl_|Required|STRING|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 web access client.|
+| _notesUrl_|Required|**String**|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 rich client.|
+| _notesWacUrl_|Required|**String**|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 web access client.|
 
 ## Return value
 
@@ -46,4 +47,4 @@ If you fail to pass a string for either of the two parameters, the  **AddMeeting
 
 [Broadcast Object](Word.broadcast.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

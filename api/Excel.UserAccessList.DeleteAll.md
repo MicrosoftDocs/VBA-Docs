@@ -1,5 +1,5 @@
 ---
-title: UserAccessList.DeleteAll Method (Excel)
+title: UserAccessList.DeleteAll method (Excel)
 keywords: vbaxl10.chm726076
 f1_keywords:
 - vbaxl10.chm726076
@@ -8,19 +8,20 @@ api_name:
 - Excel.UserAccessList.DeleteAll
 ms.assetid: c162c9cf-8257-e97a-ebe8-ab1d700924ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserAccessList.DeleteAll Method (Excel)
+# UserAccessList.DeleteAll method (Excel)
 
 Removes all users who have access to a protected range on a worksheet.
 
 
 ## Syntax
 
- _expression_. `DeleteAll`
+_expression_. `DeleteAll`
 
- _expression_ A variable that represents a [UserAccessList](./Excel.UserAccessList.md) object.
+_expression_ A variable that represents a [UserAccessList](Excel.UserAccessList.md) object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End Sub
 
 [UserAccessList Object](Excel.UserAccessList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

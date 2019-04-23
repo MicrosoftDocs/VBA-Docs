@@ -1,12 +1,13 @@
 ---
-title: Panes Object (Word)
+title: Panes object (Word)
 ms.prod: word
 ms.assetid: 6ed6353c-9134-f47d-a108-13e84eced8ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Panes Object (Word)
+# Panes object (Word)
 
 A collection of  **Pane** objects that represent the window panes for a single window.
 
@@ -64,5 +65,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

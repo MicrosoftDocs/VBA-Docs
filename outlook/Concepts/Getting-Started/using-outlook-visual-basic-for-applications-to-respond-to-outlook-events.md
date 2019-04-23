@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 560bb264-05d0-dbc6-39c2-b95b12f50ed9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -48,4 +49,4 @@ Private Sub Application_Startup()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

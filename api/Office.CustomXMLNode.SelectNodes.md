@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.SelectNodes Method (Office)
+title: CustomXMLNode.SelectNodes method (Office)
 keywords: vbaof11.chm294028
 f1_keywords:
 - vbaof11.chm294028
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.SelectNodes
 ms.assetid: 443592af-a684-ee5e-98af-3e157f0f135e
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLNode.SelectNodes Method (Office)
+# CustomXMLNode.SelectNodes method (Office)
 
-Selects a collection of nodes matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectNodes** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
+Selects a collection of nodes matching an XPath expression. This method differs from the **[CustomXMLPart.SelectNodes](office.customxmlpart.selectnodes.md)** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
 
 
 ## Syntax
 
- _expression_. `SelectNodes`( `_XPath_` )
+_expression_.**SelectNodes**(_XPath_)
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -58,10 +57,6 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 ## See also
 
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)
 
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

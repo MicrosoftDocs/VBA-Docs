@@ -8,19 +8,20 @@ api_name:
 - Excel.Filter.Creator
 ms.assetid: 648b0917-011b-ec4f-4a7a-7a56b070a8cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Filter.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Filter Object](Excel.Filter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

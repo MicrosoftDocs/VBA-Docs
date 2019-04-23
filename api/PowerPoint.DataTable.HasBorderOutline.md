@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderOutline Property (PowerPoint)
+title: DataTable.HasBorderOutline property (PowerPoint)
 keywords: vbapp10.chm698004
 f1_keywords:
 - vbapp10.chm698004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DataTable.HasBorderOutline
 ms.assetid: 16d6da74-b2a3-814c-e6d5-5686f8a36935
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable.HasBorderOutline Property (PowerPoint)
+# DataTable.HasBorderOutline property (PowerPoint)
 
  **True** if the chart data table has outline borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderOutline`
+_expression_. `HasBorderOutline`
 
- _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
+_expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
 
 
 ## Example
@@ -67,3 +68,4 @@ End With
 
 [DataTable Object](PowerPoint.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

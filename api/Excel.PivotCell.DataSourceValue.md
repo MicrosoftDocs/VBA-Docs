@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.DataSourceValue
 ms.assetid: 99cd270c-775c-3cca-99dd-1a2864b872b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the value last retrieved from the data source for edited cells in a Pivo
 
 ## Syntax
 
- _expression_. `DataSourceValue`
+_expression_. `DataSourceValue`
 
- _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns the value last retrieved from the data source for edited cells in a Pivo
 
 ## Remarks
 
-Whenever a cell in the values area of a PivotTable report is edited, the  **DataSourceValue** property will hold the value that was last retrieved from the data source before editing took place. For PivotTable report value cells that have not been edited, or for which the data source value has not been explicitly retrieved, this property will return **NULL** . For PivotTable reports with OLAP data sources, the value of the **DataSourceValue** property is retrieved from a separate connection to ensure that it does not contain the value of any writeback operations that the user might have made.
+Whenever a cell in the values area of a PivotTable report is edited, the  **DataSourceValue** property will hold the value that was last retrieved from the data source before editing took place. For PivotTable report value cells that have not been edited, or for which the data source value has not been explicitly retrieved, this property will return **NULL**. For PivotTable reports with OLAP data sources, the value of the **DataSourceValue** property is retrieved from a separate connection to ensure that it does not contain the value of any writeback operations that the user might have made.
 
 Reading the  **DataSourceValue** property for cells that are outside of the values area of a PivotTable report generates a run-time error.
 
@@ -40,3 +41,4 @@ Reading the  **DataSourceValue** property for cells that are outside of the valu
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

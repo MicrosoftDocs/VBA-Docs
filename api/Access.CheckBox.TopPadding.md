@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.CheckBox.TopPadding
 ms.assetid: e3fc7819-8cb1-44b9-dc13-6e5c75bff62b
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # CheckBox.TopPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the check box and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the check box and its top gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `TopPadding`
+_expression_.**TopPadding**
 
-_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
-[CheckBox Object](Access.CheckBox.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

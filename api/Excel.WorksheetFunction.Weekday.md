@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Weekday Method (Excel)
+title: WorksheetFunction.Weekday method (Excel)
 keywords: vbaxl10.chm137115
 f1_keywords:
 - vbaxl10.chm137115
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Weekday
 ms.assetid: dc3140ba-98bf-8e56-5440-5eba914b30bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Weekday Method (Excel)
+# WorksheetFunction.Weekday method (Excel)
 
 Returns the day of the week corresponding to a date. The day is given as an integer, ranging from 1 (Sunday) to 7 (Saturday), by default.
 
 
 ## Syntax
 
- _expression_. `Weekday`( `_Arg1_` , `_Arg2_` )
+_expression_. `Weekday`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Microsoft Excel stores dates as sequential serial numbers so they can be used in
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

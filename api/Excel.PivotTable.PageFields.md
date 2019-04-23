@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.PageFields
 ms.assetid: eff7a772-0472-41ec-412f-9a56f0a0de16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 ## Syntax
 
- _expression_. `PageFields`( `_Index_` )
+_expression_. `PageFields` (_Index_)
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 A hierarchy can contain only one page field.
 
-For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that?s returned reflects what?s currently in the cache.
+For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that's returned reflects what?s currently in the cache.
 
 
 ## Example
@@ -61,3 +62,4 @@ Next pvtField
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

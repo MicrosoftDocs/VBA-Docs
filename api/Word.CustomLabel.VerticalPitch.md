@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.VerticalPitch Property (Word)
+title: CustomLabel.VerticalPitch property (Word)
 keywords: vbawd10.chm152371207
 f1_keywords:
 - vbawd10.chm152371207
@@ -8,17 +8,18 @@ api_name:
 - Word.CustomLabel.VerticalPitch
 ms.assetid: 5f1107b7-e521-f022-579c-00f14d93d5f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel.VerticalPitch Property (Word)
+# CustomLabel.VerticalPitch property (Word)
 
-Returns or sets the vertical distance between the top of one mailing label and the top of the next mailing label. Read/write  **Single** .
+Returns or sets the vertical distance between the top of one mailing label and the top of the next mailing label. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `VerticalPitch`
+_expression_. `VerticalPitch`
 
  _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

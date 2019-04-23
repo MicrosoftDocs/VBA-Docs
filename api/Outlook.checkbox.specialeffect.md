@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 98b61ff8-95c9-42cb-aa71-25053f0e6644
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the visual appearance of an objec
 
 ## Syntax
 
- _expression_. **SpecialEffect**
+_expression_.**SpecialEffect**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -27,11 +28,11 @@ The settings for  **SpecialEffect** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both.|
 |2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **[CheckBox](Outlook.checkbox.md)**.|
 
  **SpecialEffect** uses the system colors to define its borders.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

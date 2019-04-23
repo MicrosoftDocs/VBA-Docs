@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Log Method (Excel)
+title: WorksheetFunction.Log method (Excel)
 keywords: vbaxl10.chm137124
 f1_keywords:
 - vbaxl10.chm137124
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Log
 ms.assetid: baf9306b-0bb4-85d1-6509-6b510dbf4949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Log Method (Excel)
+# WorksheetFunction.Log method (Excel)
 
 Returns the logarithm of a number to the base you specify.
 
 
 ## Syntax
 
- _expression_. `Log`( `_Arg1_` , `_Arg2_` )
+_expression_. `Log`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1b85b921-b455-4e17-b8d0-dc62a48e6773
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TextBox.NumeralShapes property (Access)](http://msdn.microsoft.com/library/f0fda4bb-2522-622c-24ab-d3324a4b8dca%28Office.15%29.aspx)
 [Label.NumeralShapes property (Access)](http://msdn.microsoft.com/library/3da2f917-a257-b9aa-3517-f4d65bc3af18%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

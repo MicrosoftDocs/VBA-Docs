@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerName
 ms.assetid: ebf2b8da-7c4d-b67c-9f8c-17629f1d8214
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the name of the layer at the specified index in the drawing open in Microso
 
 ## Syntax
 
- _expression_. **LayerName**(**_LayerIndex_**)
+_expression_.**LayerName**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -53,4 +54,4 @@ For intCounter = 1 To vsoViewer.LayerCount
 Next intCounter
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

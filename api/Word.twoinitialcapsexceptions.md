@@ -1,15 +1,16 @@
 ---
-title: TwoInitialCapsExceptions Object (Word)
+title: TwoInitialCapsExceptions object (Word)
 keywords: vbawd10.chm2372
 f1_keywords:
 - vbawd10.chm2372
 ms.prod: word
 ms.assetid: 21af2d69-8d76-026d-2002-8d69b4ab8aef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TwoInitialCapsExceptions Object (Word)
+# TwoInitialCapsExceptions object (Word)
 
 A collection of  **[TwoInitialCapsException](Word.TwoInitialCapsException.md)** objects that represent all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 
@@ -25,7 +26,7 @@ For Each aCap In AutoCorrect.TwoInitialCapsExceptions
 Next aCap
 ```
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
+If the  **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
 
 
 
@@ -56,6 +57,6 @@ MsgBox AutoCorrect.TwoInitialCapsExceptions(1).Name
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

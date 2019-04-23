@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMove Event (Outlook)
+title: Explorer.BeforeMove event (Outlook)
 keywords: vbaol11.chm459
 f1_keywords:
 - vbaol11.chm459
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeMove
 ms.assetid: bce617d3-3bf8-2a59-ab0a-4ef1e7759c75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMove Event (Outlook)
+# Explorer.BeforeMove event (Outlook)
 
 Occurs when the  **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
 
 ## Syntax
 
- _expression_. `BeforeMove`( `_Cancel_` )
+_expression_. `BeforeMove`( `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when the  **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the explorer or inspector is not moved.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the explorer or inspector is not moved.|
 
 ## Remarks
 
@@ -46,7 +47,7 @@ Public WithEvents myOlExp As Outlook.Explorer
  
  
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
  
  Set myOlExp = Application.ActiveExplorer 
  
@@ -87,3 +88,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

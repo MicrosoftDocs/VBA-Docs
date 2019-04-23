@@ -1,5 +1,5 @@
 ---
-title: View Object (Project)
+title: View object (Project)
 keywords: vbapj.chm131348
 f1_keywords:
 - vbapj.chm131348
@@ -8,10 +8,11 @@ api_name:
 - Project.View
 ms.assetid: 39d793f4-2e31-d07b-a563-b213cced0c28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View Object (Project)
+# View object (Project)
 
 Represents a view in Project. The  **View** object is a member of the **[Views](Project.views(object).md)** collection.
 
@@ -25,7 +26,7 @@ The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.View.Apply.md)|
 |[Delete](./Project.View.Delete.md)|
@@ -34,7 +35,7 @@ The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.View.Application.md)|
 |[Index](./Project.View.Index.md)|
@@ -45,3 +46,4 @@ The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 |[Single](./Project.View.Single.md)|
 |[Type](./Project.View.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

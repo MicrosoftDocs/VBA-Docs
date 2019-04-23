@@ -3,6 +3,7 @@ title: Attach a File to a Mail Item
 ms.prod: outlook
 ms.assetid: 1d94629b-e713-92cb-32de-c8910612e861
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,4 +25,4 @@ Sub AddAttachment()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Keycode Constants
+title: Keycode constants
 keywords: vblr6.chm1106124
 f1_keywords:
 - vblr6.chm1106124
 ms.prod: office
 ms.assetid: 9014afdc-a5ab-8f25-529f-45c9adf27eef
-ms.date: 06/08/2017
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
-# Keycode Constants
+# Keycode constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
+<br/>
 
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyLButton**|0x1|Left mouse button|
 |**vbKeyRButton**|0x2|Right mouse button|
@@ -49,11 +50,11 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbKeyHelp**|0x2F|HELP key|
 |**vbKeyNumlock**|0x90|NUM LOCK key|
 
-The A key through the Z key are the same as the ASCII equivalents A - Z:
+<br/>
 
+The A key through the Z key are the same as the ASCII equivalents A&ndash;Z.
 
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyA**|65|A key|
 |**vbKeyB**|66|B key|
@@ -82,10 +83,11 @@ The A key through the Z key are the same as the ASCII equivalents A - Z:
 |**vbKeyY**|89|Y key|
 |**vbKeyZ**|90|Z key|
 
-The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
+<br/>
 
+The 0 key through 9 key are the same as their ASCII equivalents 0&ndash;9.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKey0**|48|0 key|
 |**vbKey1**|49|1 key|
@@ -98,10 +100,11 @@ The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
 |**vbKey8**|56|8 key|
 |**vbKey9**|57|9 key|
 
-The following constants represent keys on the numeric keypad:
+<br/>
 
+The following constants represent keys on the numeric keypad.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyNumpad0**|0x60|0 key|
 |**vbKeyNumpad1**|0x61|1 key|
@@ -120,10 +123,11 @@ The following constants represent keys on the numeric keypad:
 |**vbKeyDecimal**|0x6E|DECIMAL POINT (**.**) key|
 |**vbKeyDivide**|0x6F|DIVISION SIGN (**/**) key|
 
-The following constants represent function keys:
+<br/>
 
+The following constants represent function keys.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyF1**|0x70|F1 key|
 |**vbKeyF2**|0x71|F2 key|
@@ -142,3 +146,8 @@ The following constants represent function keys:
 |**vbKeyF15**|0x7E|F15 key|
 |**vbKeyF16**|0x7F|F16 key|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

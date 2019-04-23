@@ -1,5 +1,5 @@
 ---
-title: Options.AutoSelectWord Property (Publisher)
+title: Options.AutoSelectWord property (Publisher)
 keywords: vbapb10.chm1048581
 f1_keywords:
 - vbapb10.chm1048581
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.AutoSelectWord
 ms.assetid: 2b36f0d2-3260-aa3d-13b2-ae08b8d631d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoSelectWord Property (Publisher)
+# Options.AutoSelectWord property (Publisher)
 
  **True** for Microsoft Publisher to automatically select the entire word when selecting text. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **AutoSelectWord**
+_expression_.**AutoSelectWord**
 
  _expression_ A variable that represents an  **Options** object.
 
@@ -46,4 +47,4 @@ Sub SetGlobalOptions()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

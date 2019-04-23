@@ -1,5 +1,5 @@
 ---
-title: Application.FileSaveOffline Method (Project)
+title: Application.FileSaveOffline method (Project)
 keywords: vbapj.chm136
 f1_keywords:
 - vbapj.chm136
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FileSaveOffline
 ms.assetid: 109f95d5-be49-549f-fa39-3231207d61de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileSaveOffline Method (Project)
+# Application.FileSaveOffline method (Project)
 
 Saves the file for viewing offline.
 
 
 ## Syntax
 
- _expression_. `FileSaveOffline`( ` _Save_` )
+_expression_. `FileSaveOffline`( `_Save_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -35,4 +36,4 @@ Saves the file for viewing offline.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

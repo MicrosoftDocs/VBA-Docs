@@ -1,5 +1,5 @@
 ---
-title: Slide Object (PowerPoint)
+title: Slide object (PowerPoint)
 keywords: vbapp10.chm535000
 f1_keywords:
 - vbapp10.chm535000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Slide
 ms.assetid: afe42344-6898-00d2-ecc1-b0ed23a71fe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide Object (PowerPoint)
+# Slide object (PowerPoint)
 
 Represents a slide. The  **[Slides](./PowerPoint.Slides.md)** collection contains all the **Slide** objects in a presentation.
 
@@ -19,7 +20,7 @@ Represents a slide. The  **[Slides](./PowerPoint.Slides.md)** collection contain
 ## Remarks
 
 
- **Note**  Don't be confused if you're trying to return a reference to a single slide but you end up with a  **[SlideRange](./PowerPoint.SlideRange.md)** object. A single slide can be represented either by a **Slide** object or by a [SlideRange](./PowerPoint.SlideRange.md)collection that contains only one slide, depending on how you return a reference to the slide. For example, if you create and return a reference to a slide by using the  **[Add](./PowerPoint.Presentations.Add.md)** method, the slide is represented by a **Slide** object. However, if you create and return a reference to a slide by using the **[Duplicate](./PowerPoint.Slide.Duplicate.md)** method, the slide is represented by a **SlideRange** collection that contains a single slide. Because all the properties and methods that apply to a **Slide** object also apply to a **SlideRange** collection that contains a single slide, you can work with the returned slide in the same way, regardless of whether it is represented by a **Slide** object or a **SlideRange** collection.
+ **Note**  Don't be confused if you are trying to return a reference to a single slide but you end up with a  **[SlideRange](./PowerPoint.SlideRange.md)** object. A single slide can be represented either by a **Slide** object or by a [SlideRange](./PowerPoint.SlideRange.md)collection that contains only one slide, depending on how you return a reference to the slide. For example, if you create and return a reference to a slide by using the  **[Add](./PowerPoint.Presentations.Add.md)** method, the slide is represented by a **Slide** object. However, if you create and return a reference to a slide by using the **[Duplicate](./PowerPoint.Slide.Duplicate.md)** method, the slide is represented by a **SlideRange** collection that contains a single slide. Because all the properties and methods that apply to a **Slide** object also apply to a **SlideRange** collection that contains a single slide, you can work with the returned slide in the same way, regardless of whether it is represented by a **Slide** object or a **SlideRange** collection.
 
 The following examples describe how to:
 
@@ -92,7 +93,7 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyTemplate](./PowerPoint.Slide.ApplyTemplate.md)|
 |[ApplyTemplate2](./PowerPoint.slide.applytemplate2.md)|
@@ -112,7 +113,7 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Slide.Application.md)|
 |[Background](./PowerPoint.Slide.Background.md)|
@@ -146,4 +147,6 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

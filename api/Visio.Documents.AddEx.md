@@ -1,5 +1,5 @@
 ---
-title: Documents.AddEx Method (Visio)
+title: Documents.AddEx method (Visio)
 keywords: vis_sdr.chm10651450
 f1_keywords:
 - vis_sdr.chm10651450
@@ -8,17 +8,18 @@ api_name:
 - Visio.Documents.AddEx
 ms.assetid: 4c287668-04b4-fb6c-2b1a-869d9d366991
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.AddEx Method (Visio)
+# Documents.AddEx method (Visio)
 
 Adds a new stencil or drawing to the  **Documents** collection, while permitting extra information to be passed in an argument.
 
 
 ## Syntax
 
- _expression_. `AddEx`( `_FileName_` , `_MeasurementSystem_` , `_Flags_` , `_LangID_` )
+_expression_. `AddEx`( `_FileName_` , `_MeasurementSystem_` , `_Flags_` , `_LangID_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
@@ -29,7 +30,7 @@ Adds a new stencil or drawing to the  **Documents** collection, while permitting
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required| **String**|The type or file name of the document to add; if you do not include a path, Microsoft Visio searches the folder or folders designated in the ** Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
+| _FileName_|Required| **String**|The type or file name of the document to add; if you do not include a path, Microsoft Visio searches the folder or folders designated in the **Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
 | _MeasurementSystem_|Optional| **VisMeasurementSystem**|The measurement units to use in the new document. See Remarks for possible values.|
 | _Flags_|Optional| **Long**|Flags that indicate how to open the new document. See Remarks for possible values.|
 | _LangID_|Optional| **Long**|The language ID for the document. See Remarks.|
@@ -43,21 +44,21 @@ Document
 
 The  **AddEx** method is similar to the **Add** method as it applies to the **Documents** collection, except that **AddEx** provides several additional arguments in which the caller can specify how the document is created.
 
-The  _MeasurementSystem_ argument should be one of the following members of **VisMeasurementSystem** , which is declared in the Visio type library.
+The  _MeasurementSystem_ argument should be one of the following members of **VisMeasurementSystem**, which is declared in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMSDefault**|0|Choose metric or US depending on regional options set in Control Panel.|
 | **visMSMetric**|1|Metric measurement system.|
 | **visMSUS**|2|US units measurement system.|
 
-The  _Flags_ argument should be a combination of one or more of the following members of **VisOpenSaveArgs** , which is declared in the Visio type library.
+The  _Flags_ argument should be a combination of one or more of the following members of **VisOpenSaveArgs**, which is declared in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAddDocked**|4|Adds a document in a docked window.|
 | **visAddHidden**|64|Adds a document in a hidden window.|
@@ -97,4 +98,4 @@ Public Sub AddEx_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SecondPlotSize Property (PowerPoint)
+title: ChartGroup.SecondPlotSize property (PowerPoint)
 keywords: vbapp10.chm692017
 f1_keywords:
 - vbapp10.chm692017
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ChartGroup.SecondPlotSize
 ms.assetid: c272c36e-53c8-6f91-ea53-35445a03d06e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.SecondPlotSize Property (PowerPoint)
+# ChartGroup.SecondPlotSize property (PowerPoint)
 
 Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SecondPlotSize`
+_expression_.**SecondPlotSize**
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -68,3 +69,4 @@ End With
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

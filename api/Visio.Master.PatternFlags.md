@@ -1,5 +1,5 @@
 ---
-title: Master.PatternFlags Property (Visio)
+title: Master.PatternFlags property (Visio)
 keywords: vis_sdr.chm10714065
 f1_keywords:
 - vis_sdr.chm10714065
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.PatternFlags
 ms.assetid: cf7d5e0e-802e-c65b-6260-eaf68dfe6eb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.PatternFlags Property (Visio)
+# Master.PatternFlags property (Visio)
 
 Determines whether a master behaves as a custom pattern. Read/write.
 
 
 ## Syntax
 
- _expression_. `PatternFlags`
+_expression_. `PatternFlags`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -38,7 +39,7 @@ If you can use the **PatternFlags** property as a pattern (non-zero), the proper
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMasIsLinePat**|&H1 |Line pattern |
 | **visMasIsLineEnd**|&H2 |Line end pattern |
@@ -80,4 +81,4 @@ If **visMasIsFillPat** is selected, the pattern mode should be one of the follow
 
 In addition, **visMasFPScale** (&H4000) can optionally be included in the **PatternFlags** property value.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 61e029a5-2e3c-457a-9c93-b345c023e269
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Width property (Access)](http://msdn.microsoft.com/library/03729218-4c70-8312-ab61-be3cf4b7a029%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

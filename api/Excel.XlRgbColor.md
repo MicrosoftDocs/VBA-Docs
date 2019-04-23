@@ -1,14 +1,15 @@
 ---
-title: xlRgbColor enumeration (Excel)
+title: XlRgbColor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRgbColor
 ms.assetid: 435ec542-c5d4-5b27-f87b-f1d589081312
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlRgbColor enumeration (Excel)
+# XlRgbColor enumeration (Excel)
 
 Specifies the RGB color.
 
@@ -159,3 +160,4 @@ Specifies the RGB color.
 | **rgbYellow**|65535|Yellow|
 | **rgbYellowGreen**|3329434|Yellow Green|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Start Property (Word)
+title: Bookmark.Start property (Word)
 keywords: vbawd10.chm157810691
 f1_keywords:
 - vbawd10.chm157810691
@@ -8,17 +8,18 @@ api_name:
 - Word.Bookmark.Start
 ms.assetid: 42b44a7c-0d2a-daa6-a5ec-ef54d01cb5c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmark.Start Property (Word)
+# Bookmark.Start property (Word)
 
-Returns or sets the starting character position of a bookmark. Read/write  **Long** .
+Returns or sets the starting character position of a bookmark. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
@@ -49,3 +50,4 @@ If Book2.End > Book1.Start Then Book1.Select
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

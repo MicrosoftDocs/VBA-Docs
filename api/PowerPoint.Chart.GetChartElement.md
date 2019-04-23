@@ -1,5 +1,5 @@
 ---
-title: Chart.GetChartElement Method (PowerPoint)
+title: Chart.GetChartElement method (PowerPoint)
 keywords: vbapp10.chm66945
 f1_keywords:
 - vbapp10.chm66945
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.GetChartElement
 ms.assetid: c0764342-dcd3-fdc6-6661-bbeed20f6e5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.GetChartElement Method (PowerPoint)
+# Chart.GetChartElement method (PowerPoint)
 
 Returns information about the chart element at the specified x-coordinate and y-coordinate. 
 
 
 ## Syntax
 
- _expression_. `GetChartElement`( `_x_`, `_y_`, `_ElementID_`, `_Arg1_`, `_Arg2_` )
+_expression_. `GetChartElement`( `_x_`, `_y_`, `_ElementID_`, `_Arg1_`, `_Arg2_` )
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -88,7 +89,7 @@ The following table describes the meaning of Arg1 and Arg2 after the method retu
 |AxisType|Specifies the axis type. Can be one of the following  **[XlAxisType](PowerPoint.XlAxisType.md)** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
 |DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[XlPivotFieldOrientation](PowerPoint.XlPivotFieldOrientation.md)** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **[ChartGroups](PowerPoint.ChartGroups.md)** collection for a specific chart group.|
-|PointIndex|Specifies the offset within the  **[Points](PowerPoint.Points.md)** collection for a specific point within a series. A value of ?1 indicates that all data points are selected.|
+|PointIndex|Specifies the offset within the  **[Points](PowerPoint.Points.md)** collection for a specific point within a series. A value of 1 indicates that all data points are selected.|
 |SeriesIndex|Specifies the offset within the  **[Series](PowerPoint.Series.md)** collection for a specific series.|
 |ShapeIndex|Specifies the offset within the  **[Shapes](PowerPoint.Shapes.md)** collection for a specific shape.|
 |TrendlineIndex|Specifies the offset within the  **[Trendlines](PowerPoint.Trendlines.md)** collection for a specific trendline within a series.|
@@ -98,3 +99,4 @@ The following table describes the meaning of Arg1 and Arg2 after the method retu
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

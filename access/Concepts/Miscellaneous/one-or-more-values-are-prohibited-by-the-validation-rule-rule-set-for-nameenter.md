@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3b8155bd-a007-21b1-0c50-25b6bae89e62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # One or more values are prohibited by the validation rule <rule> set for <name>. Enter a value that the expression for this field can accept. (Error 3317)
@@ -20,3 +21,5 @@ The  **ValidationRule** property for this field contains an expression that limi
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

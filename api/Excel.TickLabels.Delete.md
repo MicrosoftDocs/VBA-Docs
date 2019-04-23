@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Delete Method (Excel)
+title: TickLabels.Delete method (Excel)
 keywords: vbaxl10.chm616074
 f1_keywords:
 - vbaxl10.chm616074
@@ -8,19 +8,20 @@ api_name:
 - Excel.TickLabels.Delete
 ms.assetid: 2aa1ec7a-ecf7-e377-ed1f-de97c5efd3e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TickLabels.Delete Method (Excel)
+# TickLabels.Delete method (Excel)
 
 Deletes the object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

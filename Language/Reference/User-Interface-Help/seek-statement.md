@@ -1,39 +1,41 @@
 ---
-title: Seek Statement
+title: Seek statement (VBA)
 keywords: vblr6.chm1009013
 f1_keywords:
 - vblr6.chm1009013
 ms.prod: office
 ms.assetid: 08fff310-85a2-d860-2198-3a0b032c77bc
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
-# Seek Statement
+# Seek statement
 
-Sets the position for the next read/write operation within a file opened using the  **Open** statement.
+Sets the position for the next read/write operation within a file opened by using the **[Open](open-statement.md)** statement.
 
 ## Syntax
 
 **Seek** [ **#** ] _filenumber_, _position_
 
-The  **Seek** statement syntax has these parts:
+<br/>
 
+The **Seek** statement syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
-| _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
+| _position_|Required. Number in the range 1 &ndash; 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
 
 ## Remarks
 
-Record numbers specified in  **Get** and **Put** statements override file positioning performed by **Seek**.
-Performing a file-write operation after a  **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.
+Record numbers specified in **[Get](get-statement.md)** and **[Put](put-statement.md)** statements override file positioning performed by **Seek**.
+
+Performing a file-write operation after a **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.
 
 ## Example
 
-This example uses the  **Seek** statement to set the position for the next read or write within a file. This example assumes `TESTFILE` is a file containing records of the user-defined type is a file containing records of the user-defined type `Record`.
-
+This example uses the **Seek** statement to set the position for the next read or write within a file. This example assumes that `TESTFILE` is a file containing records of the user-defined type `Record`.
 
 ```vb
 Type Record ' Define user-defined type. 
@@ -43,10 +45,9 @@ End Type
 
 ```
 
-For files opened in Random mode,  **Seek** sets the next record.
+<br/>
 
-
-
+For files opened in Random mode, **Seek** sets the next record.
 
 ```vb
 Dim MyRecord As Record, MaxSize, RecordNumber ' Declare variables. 
@@ -62,10 +63,9 @@ Close #1 ' Close file.
 
 ```
 
-For files opened in modes other than Random mode,  **Seek** sets the byte position at which the next operation takes place. Assume is a file containing a few lines of text.
+<br/>
 
-
-
+For files opened in modes other than Random mode, **Seek** sets the byte position at which the next operation takes place. This example assumes that `TESTFILE` is a file containing a few lines of text.
 
 ```vb
 Dim MaxSize, NextChar, MyChar 
@@ -81,3 +81,9 @@ Close #1 ' Close file.
 ```
 
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

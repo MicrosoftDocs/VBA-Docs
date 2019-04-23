@@ -1,5 +1,5 @@
 ---
-title: Document.UserControl Property (Word)
+title: Document.UserControl property (Word)
 keywords: vbawd10.chm158007388
 f1_keywords:
 - vbawd10.chm158007388
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.UserControl
 ms.assetid: 34ab71eb-397e-4c14-dfbe-d3f29f84c753
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.UserControl Property (Word)
+# Document.UserControl property (Word)
 
- **True** if the document was created or opened by the user. Read/write **Boolean** .
+ **True** if the document was created or opened by the user. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UserControl`
+_expression_. `UserControl`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -28,7 +29,7 @@ ms.date: 06/08/2017
 This property returns  **False** if the document was created or opened programmatically from another Microsoft Office application with the **Open** method or the Visual Basic **CreateObject** or **GetObject** command.
 
 
- **Note**  If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True** .
+ **Note**  If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True**.
 
 
 ## Example
@@ -53,3 +54,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

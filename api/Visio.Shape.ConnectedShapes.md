@@ -1,5 +1,5 @@
 ---
-title: Shape.ConnectedShapes Method (Visio)
+title: Shape.ConnectedShapes method (Visio)
 keywords: vis_sdr.chm11262240
 f1_keywords:
 - vis_sdr.chm11262240
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.ConnectedShapes
 ms.assetid: 7f5a0ac9-d0a7-d9fe-9ecb-8e8070ab5951
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ConnectedShapes Method (Visio)
+# Shape.ConnectedShapes method (Visio)
 
 Returns an array that contains the identifiers (IDs) of the shapes that are connected to the shape.
 
 
 ## Syntax
 
- _expression_. `ConnectedShapes`( `_Flags_` , `_CategoryFilter_` )
+_expression_. `ConnectedShapes`( `_Flags_` , `_CategoryFilter_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
@@ -43,7 +44,7 @@ The  _Flags_ value must be one of the following **VisConnectedShapesFlags** cons
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visConnectedShapesAllNodes**|0|Return IDs of shapes that are associated with both incoming and outgoing connections.|
 | **visConnectedShapesIncomingNodes**|1|Return IDs of shapes that are associated with incoming connections.|
@@ -51,7 +52,7 @@ The  _Flags_ value must be one of the following **VisConnectedShapesFlags** cons
 
 Categories are user-defined strings that you can use to categorize shapes and thereby to restrict membership in a container. You can define categories in the User.msvShapeCategories cell in the ShapeSheet for a shape. You can define multiple categories for a shape by separating the categories with semi-colons.
 
-If the source object is a 1-D shape or part of a master, the  **ConnectedShapes** method returns an Invalid Source error.
+If the source object is a 1D shape or part of a master, the  **ConnectedShapes** method returns an Invalid Source error.
 
 If no qualifying connected shapes exist, the  **ConnectedShapes** method returns an empty array.
 
@@ -122,4 +123,4 @@ Public Sub ConnectedShapes_Incoming_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

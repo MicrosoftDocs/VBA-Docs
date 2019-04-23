@@ -1,5 +1,5 @@
 ---
-title: Document.DisableFeaturesIntroducedAfter Property (Word)
+title: Document.DisableFeaturesIntroducedAfter property (Word)
 keywords: vbawd10.chm158007639
 f1_keywords:
 - vbawd10.chm158007639
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.DisableFeaturesIntroducedAfter
 ms.assetid: 5714062c-ffca-8feb-6b25-52f71568ae12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DisableFeaturesIntroducedAfter Property (Word)
+# Document.DisableFeaturesIntroducedAfter property (Word)
 
-Disables all features introduced after a specified version of Microsoft Word in the document only. Read/write  **WdDisableFeaturesIntroducedAfter** .
+Disables all features introduced after a specified version of Microsoft Word in the document only. Read/write  **WdDisableFeaturesIntroducedAfter**.
 
 
 ## Syntax
 
- _expression_. `DisableFeaturesIntroducedAfter`
+_expression_. `DisableFeaturesIntroducedAfter`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

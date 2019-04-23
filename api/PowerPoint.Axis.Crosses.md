@@ -1,5 +1,5 @@
 ---
-title: Axis.Crosses Property (PowerPoint)
+title: Axis.Crosses property (PowerPoint)
 keywords: vbapp10.chm682005
 f1_keywords:
 - vbapp10.chm682005
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.Axis.Crosses
 ms.assetid: 93390bc6-8d94-4bf3-257e-c20fce2a2c62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.Crosses Property (PowerPoint)
+# Axis.Crosses property (PowerPoint)
 
 Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Crosses`
+_expression_.**Crosses**
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
 
-This property is not available for radar charts. For 3-D charts, this property can be applied only to the value axis and indicates where the plane defined by the category axes crosses the value axis.
+This property is not available for radar charts. For 3D charts, this property can be applied only to the value axis and indicates where the plane defined by the category axes crosses the value axis.
 
 You can use this property for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
 
@@ -62,3 +63,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

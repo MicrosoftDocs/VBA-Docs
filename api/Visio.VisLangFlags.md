@@ -1,5 +1,5 @@
 ---
-title: VisLangFlags Enumeration (Visio)
+title: VisLangFlags enumeration (Visio)
 keywords: vis_sdr.chm70705
 f1_keywords:
 - vis_sdr.chm70705
@@ -8,10 +8,11 @@ api_name:
 - Visio.VisLangFlags
 ms.assetid: 9654b6db-072a-6bcb-929d-05d18cb96009
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisLangFlags Enumeration (Visio)
+# VisLangFlags enumeration (Visio)
 
 
 
@@ -23,3 +24,4 @@ Specifies the language of the page name as local or universal; passed to the var
 | **visLangLocal**|0|The page name is a local name.|
 | **visLangUniversal**|1|The page name is a universal name.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

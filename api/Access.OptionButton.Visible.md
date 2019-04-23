@@ -7,31 +7,30 @@ ms.prod: access
 api_name:
 - Access.OptionButton.Visible
 ms.assetid: f5481b70-82a3-d2ee-d886-e952a091a9fe
-ms.date: 06/08/2017
+ms.date: 02/27/2019
+localization_priority: Normal
 ---
 
 
 # OptionButton.Visible property (Access)
 
-Returns or sets whether the object is visible. Read/write  **Boolean**.
+Returns or sets whether the object is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `Visible`
+_expression_.**Visible**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks
 
-To hide an object when printing, use the  **DisplayWhen** property.
+To hide an object when printing, use the **DisplayWhen** property.
 
-You can use the  **Visible** property to hide a control on a form or report by including the property in a macro or event procedure that runs when the **Current** event occurs. For example, you can show or hide a congratulatory message next to a salesperson's monthly sales total in a sales report, depending on the sales total.
-
-
-## See also
+You can use the **Visible** property to hide a control on a form or report by including the property in a macro or event procedure that runs when the **Current** event occurs. For example, you can show or hide a congratulatory message next to a salesperson's monthly sales total in a sales report, depending on the sales total.
 
 
-[OptionButton Object](Access.OptionButton.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

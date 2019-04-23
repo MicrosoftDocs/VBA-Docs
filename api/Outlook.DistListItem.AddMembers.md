@@ -1,5 +1,5 @@
 ---
-title: DistListItem.AddMembers Method (Outlook)
+title: DistListItem.AddMembers method (Outlook)
 keywords: vbaol11.chm1154
 f1_keywords:
 - vbaol11.chm1154
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.AddMembers
 ms.assetid: 42e3e9f2-0c73-f612-049a-aa477add03fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.AddMembers Method (Outlook)
+# DistListItem.AddMembers method (Outlook)
 
 Adds new members to a distribution list.
 
 
 ## Syntax
 
- _expression_. `AddMembers`( `_Recipients_` )
+_expression_. `AddMembers`( `_Recipients_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -82,3 +83,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

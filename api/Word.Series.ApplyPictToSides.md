@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToSides Property (Word)
+title: Series.ApplyPictToSides property (Word)
 keywords: vbawd10.chm123733627
 f1_keywords:
 - vbawd10.chm123733627
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.ApplyPictToSides
 ms.assetid: b8277abd-64c6-2b1c-23e6-5ff8c21619fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.ApplyPictToSides Property (Word)
+# Series.ApplyPictToSides property (Word)
 
- **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean** .
+ **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToSides`
+_expression_. `ApplyPictToSides`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

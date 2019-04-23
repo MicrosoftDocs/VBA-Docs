@@ -1,5 +1,5 @@
 ---
-title: ColorsInUse Object (Publisher)
+title: ColorsInUse object (Publisher)
 keywords: vbapb10.chm3014655
 f1_keywords:
 - vbapb10.chm3014655
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ColorsInUse
 ms.assetid: ced0028a-8ab5-d9b1-b28c-24b794bdcbfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorsInUse Object (Publisher)
+# ColorsInUse object (Publisher)
 
 A collection of  **[ColorFormat](Publisher.ColorFormat.md)** objects that represent the colors present in the specified publication.
  
@@ -30,7 +31,7 @@ For process color and spot color publications, colors are based on inks. For a g
 
 ## Example
 
-Use the  **[ColorsInUse](./overview/Publisher.md)** property of the **[Document](Publisher.Document.md)** object to return the **ColorsInUse** collection.
+Use the  **[ColorsInUse](overview/Publisher.md)** property of the **[Document](Publisher.Document.md)** object to return the **ColorsInUse** collection.
  
 
  
@@ -86,10 +87,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorsInUse.Application.md)|
 |[Count](Publisher.ColorsInUse.Count.md)|
 |[Item](Publisher.ColorsInUse.Item.md)|
 |[Parent](Publisher.ColorsInUse.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

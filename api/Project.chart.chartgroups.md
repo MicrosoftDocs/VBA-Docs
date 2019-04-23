@@ -1,22 +1,23 @@
 ---
-title: Chart.ChartGroups Property (Project)
+title: Chart.ChartGroups property (Project)
 keywords: vbapj.chm131625
 f1_keywords:
 - vbapj.chm131625
 ms.prod: project-server
 ms.assetid: 49e50578-3b97-4bc5-6037-3d32f0f321a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartGroups Property (Project)
+# Chart.ChartGroups property (Project)
 Gets an object that represents either a single chart group or a collection of chart groups, where a chart group represents one or more series of data points that are plotted with the same format. Read-only  **Object**.
 
 ## Syntax
 
- _expression_. `ChartGroups`
+_expression_. `ChartGroups`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks
@@ -59,3 +60,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

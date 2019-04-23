@@ -1,5 +1,5 @@
 ---
-title: Application.SetMatchingField Method (Project)
+title: Application.SetMatchingField method (Project)
 keywords: vbapj.chm11
 f1_keywords:
 - vbapj.chm11
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetMatchingField
 ms.assetid: fcd57c26-6463-8821-481f-0c38d072118a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetMatchingField Method (Project)
+# Application.SetMatchingField method (Project)
 
 Sets the value in the field of selected tasks or resources that meet the specified criteria.
 
 
 ## Syntax
 
-_expression_. **SetMatchingField** (**_Field_**, **_Value_**, **_CheckField_**, **_CheckValue_**, **_CheckTest_**, **_CheckOperation_**, **_CheckField2_**, **_CheckValue2_**, **_CheckTest2_**)
+_expression_.**SetMatchingField** (**_Field_**, **_Value_**, **_CheckField_**, **_CheckValue_**, **_CheckTest_**, **_CheckOperation_**, **_CheckField2_**, **_CheckValue2_**, **_CheckTest2_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -39,7 +40,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### Comparison strings
+### Comparison strings
 
 |**Comparison string**|**Description**|
 |:-----|:-----|
@@ -84,4 +85,4 @@ Sub Set_MatchingField()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

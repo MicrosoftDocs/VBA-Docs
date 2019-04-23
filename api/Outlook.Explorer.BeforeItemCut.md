@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeItemCut Event (Outlook)
+title: Explorer.BeforeItemCut event (Outlook)
 keywords: vbaol11.chm462
 f1_keywords:
 - vbaol11.chm462
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeItemCut
 ms.assetid: 82861e5e-e990-aed9-4134-db9cbe63d47c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeItemCut Event (Outlook)
+# Explorer.BeforeItemCut event (Outlook)
 
 Occurs when an Outlook item is cut from a folder.
 
 
 ## Syntax
 
- _expression_. `BeforeItemCut`( `_Cancel_` )
+_expression_. `BeforeItemCut`( `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when an Outlook item is cut from a folder.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the item is not deleted.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the item is not deleted.|
 
 ## Remarks
 
@@ -44,7 +45,7 @@ The following Microsoft Visual Basic for Applications (VBA) example prompts the 
 ```vb
 Public WithEvents myOlExp As Outlook.Explorer 
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
 Set myOlExp = Application.ActiveExplorer 
 End Sub 
  
@@ -70,3 +71,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

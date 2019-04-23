@@ -1,5 +1,5 @@
 ---
-title: Row.Select Method (Word)
+title: Row.Select method (Word)
 keywords: vbawd10.chm156303359
 f1_keywords:
 - vbawd10.chm156303359
@@ -8,19 +8,20 @@ api_name:
 - Word.Row.Select
 ms.assetid: f3c31e32-b316-abf2-fec6-b76e8950b1b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Select Method (Word)
+# Row.Select method (Word)
 
 Selects the specified table row.
 
 
 ## Syntax
 
- _expression_. `Select`
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Documents("Report.doc").Tables(1).Rows(1).Select
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

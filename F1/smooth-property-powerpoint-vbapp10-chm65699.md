@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 76ec8f1c-1b47-468d-b149-86d1fadea865
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.Smooth Property (PowerPoint)](http://msdn.microsoft.com/library/fff72f72-25f3-801c-67eb-b801102c8aed%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

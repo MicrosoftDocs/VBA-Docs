@@ -1,5 +1,5 @@
 ---
-title: Borders.Application Property (PowerPoint)
+title: Borders.Application property (PowerPoint)
 keywords: vbapp10.chm629001
 f1_keywords:
 - vbapp10.chm629001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Borders.Application
 ms.assetid: 85842c3f-dca3-48e5-31c9-4614ffaf2a59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.Application Property (PowerPoint)
+# Borders.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Borders](./PowerPoint.Borders.md) object.
+_expression_ A variable that represents a [Borders](./PowerPoint.Borders.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [Borders Object](PowerPoint.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

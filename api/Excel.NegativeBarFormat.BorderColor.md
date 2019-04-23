@@ -8,6 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.BorderColor
 ms.assetid: debe910b-db4a-8e6c-b3c0-3d6eb61fb4a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_.**BorderColor**
 
- _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
+_expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ ms.date: 06/08/2017
 
 [NegativeBarFormat Object](Excel.NegativeBarFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

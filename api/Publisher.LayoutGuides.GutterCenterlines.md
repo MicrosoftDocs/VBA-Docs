@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.GutterCenterlines Property (Publisher)
+title: LayoutGuides.GutterCenterlines property (Publisher)
 keywords: vbapb10.chm1114130
 f1_keywords:
 - vbapb10.chm1114130
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.GutterCenterlines
 ms.assetid: 7a5b1aef-85c7-548f-15e9-2c3b7327b439
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.GutterCenterlines Property (Publisher)
+# LayoutGuides.GutterCenterlines property (Publisher)
 
 Returns or sets a value that specifies whether to add a center line between the columns and rows of the gutter guides in a master page. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **GutterCenterlines**
+_expression_.**GutterCenterlines**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -30,7 +31,7 @@ Boolean
 
 ## Remarks
 
-The  **GutterCenterlines** property can only be used if the ** [LayoutGuides.Rows](Publisher.LayoutGuides.Rows.md)** property or the ** [LayoutGuides.Columns](Publisher.LayoutGuides.Columns.md)** property is greater than 1.
+The  **GutterCenterlines** property can only be used if the **[LayoutGuides.Rows](Publisher.LayoutGuides.Rows.md)** property or the **[LayoutGuides.Columns](Publisher.LayoutGuides.Columns.md)** property is greater than 1.
 
 If  **True**, a red line appears in the center of the gutter guides. If  **False**, no line appears in the center of the gutter guides. The default value is  **False**.
 
@@ -54,4 +55,4 @@ With theLayoutGuides
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

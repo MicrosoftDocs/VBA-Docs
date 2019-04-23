@@ -1,12 +1,13 @@
 ---
-title: xlRgbColor Enumeration (Word)
+title: XlRgbColor enumeration (Word)
 ms.prod: word
 ms.assetid: aa95f9b1-55ad-091c-2700-fd75c953cdea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlRgbColor Enumeration (Word)
+# XlRgbColor enumeration (Word)
 
 Specifies the RGB color.
 
@@ -159,3 +160,4 @@ Specifies the RGB color.
 | **xlYellow**|65535|Yellow|
 | **xlYellowGreen**|3329434|Yellow Green|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

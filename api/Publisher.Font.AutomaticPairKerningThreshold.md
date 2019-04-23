@@ -1,5 +1,5 @@
 ---
-title: Font.AutomaticPairKerningThreshold Property (Publisher)
+title: Font.AutomaticPairKerningThreshold property (Publisher)
 keywords: vbapb10.chm5373975
 f1_keywords:
 - vbapb10.chm5373975
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.AutomaticPairKerningThreshold
 ms.assetid: f5f43a19-7227-b25d-9322-84a79596c525
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.AutomaticPairKerningThreshold Property (Publisher)
+# Font.AutomaticPairKerningThreshold property (Publisher)
 
 Returns or sets a  **Variant** value that represents the point size above which kerning is automatically adjusted for characters in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **AutomaticPairKerningThreshold**
+_expression_.**AutomaticPairKerningThreshold**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -47,4 +48,4 @@ Sub Threshold()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

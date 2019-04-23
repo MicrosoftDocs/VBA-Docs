@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 56ec24ee-ae89-61e5-9107-8ead4aaf98a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a property name that isn't a valid [property](../../Glossary/vbe-glossary.md#property) for that control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

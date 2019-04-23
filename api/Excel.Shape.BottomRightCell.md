@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.BottomRightCell
 ms.assetid: 351b78a1-7e46-dba4-ae5e-cbd32f9785eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell t
 
 ## Syntax
 
- _expression_. `BottomRightCell`
+_expression_.**BottomRightCell**
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell t
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,19 +1,18 @@
 ---
-title: Timer Function
+title: Timer function (Visual Basic for Applications)
 keywords: vblr6.chm1009043
 f1_keywords:
 - vblr6.chm1009043
 ms.prod: office
 ms.assetid: a39cf81a-a90c-5833-75e8-9ac4605e3b02
-ms.date: 06/08/2017
+ms.date: 12/13/2018
+localization_priority: Normal
 ---
 
 
-# Timer Function
+# Timer function
 
-
-
-Returns a  **Single** representing the number of seconds elapsed since midnight.
+Returns a **Single** representing the number of seconds elapsed since midnight.
 
 ## Syntax
 
@@ -21,11 +20,11 @@ Returns a  **Single** representing the number of seconds elapsed since midnight.
 
 ## Remarks
 
-In Microsoft Windows the  **Timer** function returns fractional portions of a second. On the Macintosh, timer resolution is one second.
+In Windows, the **Timer** function returns fractional portions of a second. On the Macintosh, timer resolution is one second.
 
 ## Example
 
-This example uses the  **Timer** function to pause the application. The example also uses **DoEvents** to yield to other processes during the pause.
+This example uses the **Timer** function to pause the application. The example also uses **[DoEvents](doevents-function.md)** to yield to other processes during the pause.
 
 
 ```vb
@@ -45,4 +44,8 @@ End If
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

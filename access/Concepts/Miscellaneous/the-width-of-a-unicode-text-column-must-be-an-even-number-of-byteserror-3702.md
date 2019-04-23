@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 029d1aa7-3a75-8aa6-3255-c39c5a62d358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,5 @@ The database stores data using the Unicode character set, in which each characte
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Style.NameLocal Property (Word)
+title: Style.NameLocal property (Word)
 keywords: vbawd10.chm153878528
 f1_keywords:
 - vbawd10.chm153878528
@@ -8,19 +8,20 @@ api_name:
 - Word.Style.NameLocal
 ms.assetid: 49d5d7d7-65b5-2861-171b-3badfe055568
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.NameLocal Property (Word)
+# Style.NameLocal property (Word)
 
-Returns the name of a built-in style in the language of the user. Read/write  **String** .
+Returns the name of a built-in style in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `NameLocal`
+_expression_. `NameLocal`
 
- _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ ActiveDocument.Styles("Test").NameLocal = "Intro"
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

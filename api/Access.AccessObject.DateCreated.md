@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.AccessObject.DateCreated
 ms.assetid: 68a6fd13-2831-386f-0328-274e43219578
-ms.date: 09/26/2018
+ms.date: 02/01/2019
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a **Date** indicating the date and time when the design of the specified
 
 ## Syntax
 
-_expression_. `DateCreated`
+_expression_.**DateCreated**
 
-_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Example
@@ -39,4 +40,4 @@ For Each acobjLoop In CurrentProject.AllReports
 Next acobjLoop
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

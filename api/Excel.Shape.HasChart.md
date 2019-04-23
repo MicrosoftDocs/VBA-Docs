@@ -8,19 +8,20 @@ api_name:
 - Excel.Shape.HasChart
 ms.assetid: fa795ef7-78a4-15f2-f745-94163f9dcf08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Shape.HasChart property (Excel)
 
- Returns whether a shape contains a chart. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
+ Returns whether a shape contains a chart. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
 
- _expression_. `HasChart`
+_expression_. `HasChart`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

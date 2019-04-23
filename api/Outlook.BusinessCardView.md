@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView Object (Outlook)
+title: BusinessCardView object (Outlook)
 keywords: vbaol11.chm3212
 f1_keywords:
 - vbaol11.chm3212
@@ -8,10 +8,11 @@ api_name:
 - Outlook.BusinessCardView
 ms.assetid: 83706cf8-080c-fbf0-9381-5801a2dd4dfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView Object (Outlook)
+# BusinessCardView object (Outlook)
 
 Represents a view that displays data as a series of Electronic Business Card (EBC) images.
 
@@ -79,7 +80,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.BusinessCardView.Apply.md)|
 |[Copy](Outlook.BusinessCardView.Copy.md)|
@@ -92,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.BusinessCardView.Application.md)|
 |[CardSize](Outlook.BusinessCardView.CardSize.md)|
@@ -113,4 +114,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

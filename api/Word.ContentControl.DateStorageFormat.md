@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DateStorageFormat Property (Word)
+title: ContentControl.DateStorageFormat property (Word)
 keywords: vbawd10.chm266534932
 f1_keywords:
 - vbawd10.chm266534932
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.DateStorageFormat
 ms.assetid: c69d3f01-725e-8b64-147b-ca8a146b7419
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.DateStorageFormat Property (Word)
+# ContentControl.DateStorageFormat property (Word)
 
 Returns or sets a  **[WdContentControlDateStorageFormat](Word.WdContentControlDateStorageFormat.md)** that represents the format for storage and retrieval of dates when a date content control is bound to the XML data store of the active document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DateStorageFormat`
+_expression_. `DateStorageFormat`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -50,3 +51,4 @@ objCC.Range.Text = "January 1, 2007"
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PbColorType Enumeration (Publisher)
+title: PbColorType enumeration (Publisher)
 keywords: vbapb10.chm65565
 f1_keywords:
 - vbapb10.chm65565
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbColorType
 ms.assetid: 434758c9-d401-0a85-efff-e16d53c024b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbColorType Enumeration (Publisher)
+# PbColorType enumeration (Publisher)
 
 Represents the shape color type.
 
@@ -26,3 +27,4 @@ Represents the shape color type.
 | **pbColorTypeRGB**|1|RGB|
 | **pbColorTypeScheme**|2|Scheme|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK Object (Publisher)
+title: ColorCMYK object (Publisher)
 keywords: vbapb10.chm2686975
 f1_keywords:
 - vbapb10.chm2686975
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ColorCMYK
 ms.assetid: e1a39f6f-f440-e375-4f8c-e81093e5a451
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorCMYK Object (Publisher)
+# ColorCMYK object (Publisher)
 
 Represents a cyan-magenta-yellow-black (CMYK) color value.
  
@@ -43,7 +44,7 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetCMYK](Publisher.ColorCMYK.SetCMYK.md)|
 
@@ -51,7 +52,7 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorCMYK.Application.md)|
 |[Black](Publisher.ColorCMYK.Black.md)|
@@ -60,3 +61,4 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 |[Parent](Publisher.ColorCMYK.Parent.md)|
 |[Yellow](Publisher.ColorCMYK.Yellow.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

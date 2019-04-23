@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cd86a735-910f-5922-3a53-6b9963bb71ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Sometimes a file must be closed before another  **Open** or other operation can 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

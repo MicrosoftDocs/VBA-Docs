@@ -8,6 +8,7 @@ api_name:
 - Excel.Interior.ColorIndex
 ms.assetid: 6d1a5bc9-7157-61e0-1e1d-b44974002c78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,3 +34,4 @@ The color is specified as an index value into the current color palette, or as o
 
 - [Interior object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: OptionButton.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 034dad2e-9eb7-8943-eb3c-1750fe9f3051
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ RGB(15,200,75)
 
 You can only see the background color of an object if the  **[BackStyle](Outlook.optionbutton.backstyle.md)** property is set to 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

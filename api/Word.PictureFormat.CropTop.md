@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropTop Property (Word)
+title: PictureFormat.CropTop property (Word)
 keywords: vbawd10.chm164298858
 f1_keywords:
 - vbawd10.chm164298858
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.CropTop
 ms.assetid: 724fbcad-20e9-896f-c832-1105b4e4d4d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropTop Property (Word)
+# PictureFormat.CropTop property (Word)
 
-Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CropTop`
+_expression_. `CropTop`
 
  _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
@@ -71,3 +72,4 @@ shapeCrop.PictureFormat.CropTop = sngCrop
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.HPageBreak.Location
 ms.assetid: 7f0ce2ba-21e6-4dc9-8957-ade679aeeabb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the cell (a **Range** object) that defines the page-break locati
 
 ## Syntax
 
- _expression_. `Location`
+_expression_.**Location** 
 
- _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Set Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
 
 [HPageBreak Object](Excel.HPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

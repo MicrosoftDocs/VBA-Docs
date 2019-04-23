@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c7fa92dd-4a6c-4b71-a258-fc060d4263c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ComboBox.ListItemsEditForm property (Access)](http://msdn.microsoft.com/library/5db884d4-4d9f-23b5-9e3a-f6de953a4800%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

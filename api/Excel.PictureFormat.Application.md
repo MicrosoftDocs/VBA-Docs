@@ -5,6 +5,7 @@ api_name:
 - Excel.PictureFormat.Application
 ms.assetid: afc9ab72-cf23-a4de-1c21-4d4e28bd623b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,14 +16,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -40,3 +41,4 @@ End If
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

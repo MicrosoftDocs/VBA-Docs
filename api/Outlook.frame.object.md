@@ -3,6 +3,7 @@ title: Frame Object Reference (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8d9aa5df-aab0-40c1-b6ee-1957e1b76307
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,5 +21,5 @@ ms.date: 06/08/2017
 -  [Frame Methods (Outlook Forms Script)](Outlook.frame(methods).md)
     
 -  [Frame Events (Outlook Forms Script)](Outlook.frame(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

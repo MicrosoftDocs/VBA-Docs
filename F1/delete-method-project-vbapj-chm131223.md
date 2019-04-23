@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5b836bac-4db6-4eb1-b46c-5bc76af0ef38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.Delete Method (Project)](http://msdn.microsoft.com/library/e1daa3ae-aa1d-ccfe-a670-97e821fa10ff%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: MailItem.BeforeAttachmentAdd Event (Outlook)
+title: MailItem.BeforeAttachmentAdd event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeAttachmentAdd
 ms.assetid: d053d72c-07fa-275e-6e1a-8d54e23119ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.BeforeAttachmentAdd Event (Outlook)
+# MailItem.BeforeAttachmentAdd event (Outlook)
 
 Occurs before an attachment is added to an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment is added to an instance of the parent object.
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerItems.Item
 ms.assetid: f024839a-5b5f-887d-9452-096e85d9fd08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object from a collection. Read-
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
+_expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ SlicerItem
 
 [SlicerItems Object](Excel.SlicerItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

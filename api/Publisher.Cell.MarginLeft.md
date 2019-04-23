@@ -1,5 +1,5 @@
 ---
-title: Cell.MarginLeft Property (Publisher)
+title: Cell.MarginLeft property (Publisher)
 keywords: vbapb10.chm5111827
 f1_keywords:
 - vbapb10.chm5111827
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.MarginLeft
 ms.assetid: 1b665a3b-6958-0548-ece1-9d3a7045eaac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.MarginLeft Property (Publisher)
+# Cell.MarginLeft property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the left edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
- _expression_. **MarginLeft**
+_expression_.**MarginLeft**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -41,4 +42,4 @@ Sub SetPageMargins()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

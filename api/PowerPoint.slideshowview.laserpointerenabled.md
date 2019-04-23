@@ -1,15 +1,16 @@
 ---
-title: SlideShowView.LaserPointerEnabled Property (PowerPoint)
+title: SlideShowView.LaserPointerEnabled property (PowerPoint)
 keywords: vbapp10.chm513038
 f1_keywords:
 - vbapp10.chm513038
 ms.assetid: 9ba56542-a2bf-28d2-9609-50f9a4144c91
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# SlideShowView.LaserPointerEnabled Property (PowerPoint)
+# SlideShowView.LaserPointerEnabled property (PowerPoint)
 
 Returns  **true** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write.
 
@@ -17,7 +18,7 @@ This property allows a user to programmatically query and set the state of the p
 
 ## Syntax
 
- _expression_. `LaserPointerEnabled`
+_expression_. `LaserPointerEnabled`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -32,3 +33,4 @@ Boolean
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

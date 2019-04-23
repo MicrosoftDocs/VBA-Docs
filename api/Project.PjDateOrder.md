@@ -1,14 +1,15 @@
 ---
-title: PjDateOrder Enumeration (Project)
+title: PjDateOrder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDateOrder
 ms.assetid: 99946a59-559d-439a-ff14-38c7be671c3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjDateOrder Enumeration (Project)
+# PjDateOrder enumeration (Project)
 
 Contains constants that specify the order of a date value.
 
@@ -20,3 +21,4 @@ Contains constants that specify the order of a date value.
 |**pjMonthDayYear**|1|Order is the month, the day, and then the year.|
 |**pjYearMonthDay**|2|Order is the year, the month, and then the day.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

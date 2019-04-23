@@ -1,14 +1,15 @@
 ---
-title: ChartArea Object (Word)
+title: ChartArea object (Word)
 ms.prod: word
 api_name:
 - Word.ChartArea
 ms.assetid: 7b3384df-f331-033d-4dfa-ee2ff26111c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartArea Object (Word)
+# ChartArea object (Word)
 
 Represents the chart area of a chart. 
 
@@ -36,5 +37,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

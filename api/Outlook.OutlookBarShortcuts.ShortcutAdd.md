@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.ShortcutAdd Event (Outlook)
+title: OutlookBarShortcuts.ShortcutAdd event (Outlook)
 keywords: vbaol11.chm377
 f1_keywords:
 - vbaol11.chm377
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarShortcuts.ShortcutAdd
 ms.assetid: d5ddf2ad-0a82-39cb-5bb0-0de389d5c427
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.ShortcutAdd Event (Outlook)
+# OutlookBarShortcuts.ShortcutAdd event (Outlook)
 
 Occurs when a new shortcut is added to a  **Shortcuts** pane group.
 
 
 ## Syntax
 
- _expression_. `ShortcutAdd`( `_NewShortcut_` )
+_expression_. `ShortcutAdd`( `_NewShortcut_` )
 
- _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
+_expression_ A variable that represents an [OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md) object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ End Sub
 
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

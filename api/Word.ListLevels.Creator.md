@@ -1,5 +1,5 @@
 ---
-title: ListLevels.Creator Property (Word)
+title: ListLevels.Creator property (Word)
 keywords: vbawd10.chm160302057
 f1_keywords:
 - vbawd10.chm160302057
@@ -8,19 +8,20 @@ api_name:
 - Word.ListLevels.Creator
 ms.assetid: b349e652-b3fa-1a0c-ba81-7331f185c26b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevels.Creator Property (Word)
+# ListLevels.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ListLevels](Word.listlevels.md)' collection.
+_expression_ Required. A variable that represents a '[ListLevels](Word.listlevels.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ListLevels Collection Object](Word.listlevels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cdd701d0-4d7c-22ba-8f0c-23679688c1fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The specified control is referenced by more than one [project](../../Glossary/vbe-glossary.md#project). Updating it for one project might invalidate it for another.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

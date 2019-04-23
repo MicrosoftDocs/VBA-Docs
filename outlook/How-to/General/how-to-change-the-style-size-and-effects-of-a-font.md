@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 17225340-8da2-69b8-3255-d6c925f16aaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Change the Style, Size, and Effects of a Font
+# Change the Style, Size, and Effects of a Font
 
 The following example demonstrates a  **[Font](../../../api/Outlook.font.md)** object and the **[Bold](../../../api/Outlook.font.bold.md)**,  **[Italic](../../../api/Outlook.font.italic.md)**,  **[Size](../../../api/Outlook.font.size.md)**,  **[Strikethrough](../../../api/Outlook.font.strikethrough.md)**,  **[Underline](../../../api/Outlook.font.underline.md)**, and  **[Weight](../../../api/Outlook.font.weight.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
 
@@ -111,4 +112,4 @@ Sub ToggleButton4_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

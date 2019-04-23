@@ -3,6 +3,7 @@ title: Enumerate, Show, Hide, and Position Modules in the Navigation Pane
 ms.prod: outlook
 ms.assetid: 3e510798-3a31-6ec6-6c45-8e0d1759ca1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -60,4 +61,4 @@ Private Sub MakeAllModulesVisible()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

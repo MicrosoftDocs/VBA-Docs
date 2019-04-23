@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Application Property (PowerPoint)
+title: TextStyle.Application property (PowerPoint)
 keywords: vbapp10.chm579001
 f1_keywords:
 - vbapp10.chm579001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextStyle.Application
 ms.assetid: 348c8173-7527-2b69-4b2d-2b5136784bea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyle.Application Property (PowerPoint)
+# TextStyle.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [TextStyle](./PowerPoint.TextStyle.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [TextStyle Object](PowerPoint.TextStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

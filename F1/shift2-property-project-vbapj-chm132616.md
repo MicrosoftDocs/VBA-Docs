@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2557cd74-8c15-4d7c-ac8f-240af9fb3748
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Period.Shift2 Property (Project)](http://msdn.microsoft.com/library/48c0defc-ff50-42b8-5b63-e002709077bc%28Office.15%29.aspx)
 [Subproject.InsertedProjectSummary Property (Project)](http://msdn.microsoft.com/library/a98d0c9c-2c9d-d15e-2716-ed27ee9273c2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

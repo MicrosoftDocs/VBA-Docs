@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlSchema.Application
 ms.assetid: c9a4dd13-acb4-b841-3099-70872547156e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [XmlSchema](./Excel.XmlSchema.md) object.
+_expression_ A variable that represents a [XmlSchema](Excel.XmlSchema.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [XmlSchema Object](Excel.XmlSchema.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

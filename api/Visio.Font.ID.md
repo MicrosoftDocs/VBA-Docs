@@ -1,5 +1,5 @@
 ---
-title: Font.ID Property (Visio)
+title: Font.ID property (Visio)
 keywords: vis_sdr.chm12013675
 f1_keywords:
 - vis_sdr.chm12013675
@@ -8,17 +8,18 @@ api_name:
 - Visio.Font.ID
 ms.assetid: 2ffce82a-7002-584e-3fb2-6482757e33db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.ID Property (Visio)
+# Font.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
@@ -34,4 +35,4 @@ For  **Font** objects, the **ID** property corresponds to the number stored in t
 
 The ID associated with a particular font varies from system to system or as fonts are installed and removed on a given system.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

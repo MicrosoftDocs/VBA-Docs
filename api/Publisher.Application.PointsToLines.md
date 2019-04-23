@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToLines Method (Publisher)
+title: Application.PointsToLines method (Publisher)
 keywords: vbapb10.chm131158
 f1_keywords:
 - vbapb10.chm131158
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.PointsToLines
 ms.assetid: beab39fe-9458-6878-ae45-487a8b2271df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PointsToLines Method (Publisher)
+# Application.PointsToLines method (Publisher)
 
 Converts a measurement from points to lines (1 line = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PointsToLines**(**_Value_**)
+_expression_.**PointsToLines**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -67,3 +68,4 @@ strOutput = "12 points = " _
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddTextbox Method (Word)
+title: CanvasShapes.AddTextbox method (Word)
 keywords: vbawd10.chm7536659
 f1_keywords:
 - vbawd10.chm7536659
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.AddTextbox
 ms.assetid: b8688f8f-db7e-7cf6-12ea-d0712b4ce26b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.AddTextbox Method (Word)
+# CanvasShapes.AddTextbox method (Word)
 
 Adds a text box to a drawing canvas. Returns a  **Shape** object that represents the text box.
 
 
 ## Syntax
 
- _expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddTextbox`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds a text box to a drawing canvas. Returns a  **Shape** object that represents
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the  **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the  **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the text box.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the text box.|
 | _Width_|Required| **Single**|The width, measured in points, of the text box.|
@@ -63,3 +64,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

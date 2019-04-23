@@ -1,5 +1,5 @@
 ---
-title: OlTaskRecipientType Enumeration (Outlook)
+title: OlTaskRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3085
 f1_keywords:
 - vbaol11.chm3085
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlTaskRecipientType
 ms.assetid: 8f1678ba-f11a-1e70-816f-57b8a348a190
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlTaskRecipientType Enumeration (Outlook)
+# OlTaskRecipientType enumeration (Outlook)
 
 Indicates the task recipient type.
 
@@ -24,6 +25,6 @@ Indicates the task recipient type.
 
 ## Remarks
 
-Used by the [Recipient.Type Property (Outlook)](Outlook.Recipient.Type.md) for[TaskItem](Outlook.TaskItem.md) recipients.
+Used by the [Recipient.Type property (Outlook)](Outlook.Recipient.Type.md) for[TaskItem](Outlook.TaskItem.md) recipients.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

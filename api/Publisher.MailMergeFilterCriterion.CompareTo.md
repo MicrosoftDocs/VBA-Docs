@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.CompareTo Property (Publisher)
+title: MailMergeFilterCriterion.CompareTo property (Publisher)
 keywords: vbapb10.chm6815749
 f1_keywords:
 - vbapb10.chm6815749
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilterCriterion.CompareTo
 ms.assetid: 6e81fa38-a5d7-8421-6722-a18c5e9a8229
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.CompareTo Property (Publisher)
+# MailMergeFilterCriterion.CompareTo property (Publisher)
 
 Returns or sets a  **String** that represents the text to compare in the query filter criterion. Read/write.
 
 
 ## Syntax
 
- _expression_. **CompareTo**
+_expression_.**CompareTo**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
@@ -50,4 +51,4 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

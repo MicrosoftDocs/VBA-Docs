@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: 5f7037a5-9abf-1074-e8a6-98967f2516d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,5 +34,5 @@ Just as you can add ActiveX controls to custom dialog boxes, you can add control
 5. Use control values while code is running
     
     Some properties can be set at run time.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

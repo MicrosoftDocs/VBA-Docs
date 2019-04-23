@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendKey.Smooth
 ms.assetid: 0de38d26-5f23-8a7b-54ca-7af20f51d45c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Smooth`
+_expression_. `Smooth`
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
+_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [LegendKey Object](Excel.LegendKey(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

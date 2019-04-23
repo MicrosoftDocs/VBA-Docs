@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Erf Method (Excel)
+title: WorksheetFunction.Erf method (Excel)
 keywords: vbaxl10.chm137300
 f1_keywords:
 - vbaxl10.chm137300
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Erf
 ms.assetid: 1c40c49d-6866-084e-7b35-4caf3d97971e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Erf Method (Excel)
+# WorksheetFunction.Erf method (Excel)
 
 Returns the error function integrated between lower_limit and upper_limit.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [Erf_Precise](Excel.Workshe
 
 ## Syntax
 
- _expression_. `Erf`( `_Arg1_` , `_Arg2_` )
+_expression_. `Erf`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

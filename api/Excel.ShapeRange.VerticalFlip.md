@@ -8,24 +8,25 @@ api_name:
 - Excel.ShapeRange.VerticalFlip
 ms.assetid: 43ecbc06-a16b-821f-b7c9-c66fcfad7a79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeRange.VerticalFlip property (Excel)
 
- **True** if the specified shape is flipped around the vertical axis. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
+ **True** if the specified shape is flipped around the vertical axis. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
 
- _expression_. `VerticalFlip`
+_expression_. `VerticalFlip`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
 
-This example restores each shape on  `myDocument` to its original state if it's been flipped horizontally or vertically.
+This example restores each shape on  _myDocument_ to its original state if it's been flipped horizontally or vertically.
 
 
 ```vb
@@ -42,3 +43,4 @@ Next
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

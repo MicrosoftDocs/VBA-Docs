@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule Object (Outlook)
+title: AutoFormatRule object (Outlook)
 keywords: vbaol11.chm3209
 f1_keywords:
 - vbaol11.chm3209
@@ -8,10 +8,11 @@ api_name:
 - Outlook.AutoFormatRule
 ms.assetid: 6d295c41-17f9-8e67-4595-4330fd3cec99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoFormatRule Object (Outlook)
+# AutoFormatRule object (Outlook)
 
 Represents a formatting rule used by a  **[View](Outlook.View.md)** object to determine how to format Outlook items displayed within that view.
 
@@ -100,7 +101,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AutoFormatRule.Application.md)|
 |[Class](Outlook.AutoFormatRule.Class.md)|
@@ -115,4 +116,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

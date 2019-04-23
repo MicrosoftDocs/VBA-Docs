@@ -3,6 +3,7 @@ title: Record (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 87c6d242-4977-2e81-c829-227e6dd326e5
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -74,3 +75,5 @@ __declspec(property(get=GetState)) enum ObjectStateEnum Invalid DDUE based on so
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeGenerateBarcode Event (Publisher)
+title: Application.MailMergeGenerateBarcode event (Publisher)
 keywords: vbapb10.chm268435489
 f1_keywords:
 - vbapb10.chm268435489
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeGenerateBarcode
 ms.assetid: 5da4ec65-32b6-ea05-09ad-d2224eafee30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeGenerateBarcode Event (Publisher)
+# Application.MailMergeGenerateBarcode event (Publisher)
 
 Occurs when Microsoft Publisher requires data to generate barcodes in a mail-merge publication, in particular when the mail-merge recipient list changes.
 
 
 ## Syntax
 
- _expression_. **MailMergeGenerateBarcode**(**_Doc_**,  **_bstrString_**)
+_expression_.**MailMergeGenerateBarcode**(**_Doc_**,  **_bstrString_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -34,7 +35,7 @@ Occurs when Microsoft Publisher requires data to generate barcodes in a mail-mer
 
 ## Remarks
 
-Third-party add-ins that validate mail-merge addresses can use the  **MailMergeGenerateBarcode** event to listen for user actions requesting that barcodes be generated. In this situation, when the add-in receives notification that the **MailMergeGenerateBarcode** event fired, and if the active document is connected to a data source, the add-in can use the ** [MailMergeDataSource.ActiveRecord](Publisher.MailMergeDataSource.ActiveRecord.md)** property to determine the record for which to generate the barcode. If the active document is not connected to a data source, the add-in uses the address text directly.
+Third-party add-ins that validate mail-merge addresses can use the  **MailMergeGenerateBarcode** event to listen for user actions requesting that barcodes be generated. In this situation, when the add-in receives notification that the **MailMergeGenerateBarcode** event fired, and if the active document is connected to a data source, the add-in can use the **[MailMergeDataSource.ActiveRecord](Publisher.MailMergeDataSource.ActiveRecord.md)** property to determine the record for which to generate the barcode. If the active document is not connected to a data source, the add-in uses the address text directly.
 
 If the add-in can use the address text directly, it returns a string representation of the barcode for the bstrString output parameter. If the add-in cannot use the address text directly, it returns an empty string.
 
@@ -80,3 +81,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

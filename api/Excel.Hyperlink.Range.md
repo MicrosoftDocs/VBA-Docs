@@ -8,6 +8,7 @@ api_name:
 - Excel.Hyperlink.Range
 ms.assetid: 0fdc49ba-fd3f-1125-fe3c-481828b7319e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Example
@@ -50,3 +51,4 @@ ActiveWindow.ScrollColumn = hr.Column
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

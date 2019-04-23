@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.SideMargin Property (Word)
+title: CustomLabel.SideMargin property (Word)
 keywords: vbawd10.chm152371204
 f1_keywords:
 - vbawd10.chm152371204
@@ -8,17 +8,18 @@ api_name:
 - Word.CustomLabel.SideMargin
 ms.assetid: bd511d0e-36fc-0fd1-57a2-47d9f0a911dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel.SideMargin Property (Word)
+# CustomLabel.SideMargin property (Word)
 
-Returns or sets the side margin widths (in points) for the specified custom mailing label. Read/write  **Single** .
+Returns or sets the side margin widths (in points) for the specified custom mailing label. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `SideMargin`
+_expression_. `SideMargin`
 
  _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

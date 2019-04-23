@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardFollowUpCustom Event (Publisher)
+title: Application.MailMergeWizardFollowUpCustom event (Publisher)
 keywords: vbapb10.chm268435490
 f1_keywords:
 - vbapb10.chm268435490
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeWizardFollowUpCustom
 ms.assetid: ac8cb695-69a4-83f7-8e13-66762f52f611
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardFollowUpCustom Event (Publisher)
+# Application.MailMergeWizardFollowUpCustom event (Publisher)
 
 Fires when the string that appears as the fourth item under  **Prepare to follow-up on this mailing** on the third **Mail Merge** task pane in the Microsoft Publisher user interface is clicked.
 
 
 ## Syntax
 
- _expression_. **MailMergeWizardFollowUpCustom**(**_Doc_**)
+_expression_.**MailMergeWizardFollowUpCustom**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -75,3 +76,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

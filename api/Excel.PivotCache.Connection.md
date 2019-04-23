@@ -8,17 +8,18 @@ api_name:
 - Excel.PivotCache.Connection
 ms.assetid: 5d4b07f2-dad9-4c90-ec92-094dac95a086
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.Connection property (Excel)
 
-Returns or sets a string that contains one of the following: OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source; ODBC settings that enable Microsoft Excel to connect to an ODBC data source; a URL that enables Microsoft Excel to connect to a Web data source; the path to and file name of a text file, or the path to and file name of a file that specifies a database or Web query. Read/write  **Variant** .
+Returns or sets a string that contains one of the following: OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source; ODBC settings that enable Microsoft Excel to connect to an ODBC data source; a URL that enables Microsoft Excel to connect to a Web data source; the path to and file name of a text file, or the path to and file name of a file that specifies a database or Web query. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Connection`
+_expression_. `Connection`
 
  _expression_ An expression that returns a [PivotCache](Excel.PivotCache.md) object.
 
@@ -63,3 +64,4 @@ End With
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

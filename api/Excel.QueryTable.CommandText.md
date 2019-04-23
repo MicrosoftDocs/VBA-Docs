@@ -8,17 +8,18 @@ api_name:
 - Excel.QueryTable.CommandText
 ms.assetid: 5f1f84f2-d613-17be-7b2e-3b6a3cc56002
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.CommandText property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant** .
+Returns or sets the command string for the specified data source. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CommandText`
+_expression_. `CommandText`
 
  _expression_ An expression that returns a [QueryTable](Excel.QueryTable.md) object.
 
@@ -31,7 +32,7 @@ For ODBC sources, setting the  **CommandText** causes the data to be refreshed.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **CommandText** property.
 
@@ -60,3 +61,4 @@ End With
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

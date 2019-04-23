@@ -1,5 +1,5 @@
 ---
-title: SyncObjects.AppFolders Property (Outlook)
+title: SyncObjects.AppFolders property (Outlook)
 keywords: vbaol11.chm101
 f1_keywords:
 - vbaol11.chm101
@@ -8,24 +8,25 @@ api_name:
 - Outlook.SyncObjects.AppFolders
 ms.assetid: 711ebc16-12ac-9df3-31af-a883f438814f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObjects.AppFolders Property (Outlook)
+# SyncObjects.AppFolders property (Outlook)
 
 This property returns the  **SyncObject** object for application folders. Read-only.
 
 
 ## Syntax
 
- _expression_. `AppFolders`
+_expression_. `AppFolders`
 
- _expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
+_expression_ A variable that represents a [SyncObjects](Outlook.SyncObjects.md) object.
 
 
 ## Remarks
 
-The  **SyncObject** is where folders are automatically added when the **InAppFolderSyncObject** property of the **Folder** object is set to **True** . The **SyncObject** allows users to synchronize Microsoft Outlook folders, address books, and folder home pages for offline use.
+The  **SyncObject** is where folders are automatically added when the **InAppFolderSyncObject** property of the **Folder** object is set to **True**. The **SyncObject** allows users to synchronize Microsoft Outlook folders, address books, and folder home pages for offline use.
 
 
 ## Example
@@ -67,3 +68,4 @@ End Sub
 
 [SyncObjects Object](Outlook.SyncObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

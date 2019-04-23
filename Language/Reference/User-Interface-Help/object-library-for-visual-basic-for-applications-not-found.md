@@ -3,10 +3,12 @@ title: Object library for Visual Basic for Applications not found
 ms.prod: office
 ms.assetid: 1776826f-0842-4a7c-8e05-6dd4d777eca3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Object library for Visual Basic for Applications not found
+
 The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) is no longer a standalone file; it is integrated into the [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll).
 Under unusual circumstances a previous version of the object library (vaxxx.olb or vaxxxx.olb) corresponding to the language of the [project](../../Glossary/vbe-glossary.md#project) might be needed, but not found. This error has the following causes and solutions:
 
@@ -35,3 +37,4 @@ If you can't find a missing project or object library on your system, contact th
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

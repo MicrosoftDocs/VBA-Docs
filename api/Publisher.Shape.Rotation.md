@@ -1,5 +1,5 @@
 ---
-title: Shape.Rotation Property (Publisher)
+title: Shape.Rotation property (Publisher)
 keywords: vbapb10.chm2228294
 f1_keywords:
 - vbapb10.chm2228294
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Rotation
 ms.assetid: 3cb55e8c-83fa-2f20-caac-a1e897e9a369
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Rotation Property (Publisher)
+# Shape.Rotation property (Publisher)
 
 Returns or sets a  **Single** that represents the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 
 
 ## Syntax
 
- _expression_. **Rotation**
+_expression_.**Rotation**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -46,4 +47,4 @@ Sub SetShapeRotation()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.Creator Property (Visio)
+title: Document.Creator property (Visio)
 keywords: vis_sdr.chm10513335
 f1_keywords:
 - vis_sdr.chm10513335
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Creator
 ms.assetid: c1dea222-796c-1231-bb9b-9d258450b142
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Creator Property (Visio)
+# Document.Creator property (Visio)
 
 Gets or sets the value of a document's author—one of the document's properties. Read/write.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -67,4 +68,4 @@ Public Sub Creator_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

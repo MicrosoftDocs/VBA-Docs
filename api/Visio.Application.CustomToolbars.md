@@ -1,5 +1,5 @@
 ---
-title: Application.CustomToolbars Property (Visio)
+title: Application.CustomToolbars property (Visio)
 keywords: vis_sdr.chm10013355
 f1_keywords:
 - vis_sdr.chm10013355
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.CustomToolbars
 ms.assetid: 1c945955-af48-5dd1-f186-d7d0cf02e6d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomToolbars Property (Visio)
+# Application.CustomToolbars property (Visio)
 
 Gets a  **UIObject** object that represents the current custom toolbars and status bars of an **Application** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomToolbars`
+_expression_. `CustomToolbars`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -33,7 +34,7 @@ UIObject
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If Microsoft Visio toolbars and status bars have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomToolbars** property returns **Nothing** .
+If Microsoft Visio toolbars and status bars have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomToolbars** property returns **Nothing**.
 
 
 ## Example
@@ -75,4 +76,4 @@ Sub CustomToolbars_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

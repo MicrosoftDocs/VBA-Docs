@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 64fb232d-76b3-4df2-8683-b6cdb449c075
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Attachment.OnChange property (Access)](http://msdn.microsoft.com/library/c2c12032-463a-2e3e-f434-defce71c8138%28Office.15%29.aspx)
 [ComboBox.OnChange property (Access)](http://msdn.microsoft.com/library/e3c26738-a14f-e379-d909-f4919bb37a20%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

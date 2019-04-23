@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.PivotTables
 ms.assetid: 73fc8935-3c88-0a79-b0a1-05af99f14bc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection that c
 
 ## Syntax
 
- _expression_. `PivotTables`
+_expression_. `PivotTables`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **SlicerPivotTables** collection returned by the **PivotTables** property w
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

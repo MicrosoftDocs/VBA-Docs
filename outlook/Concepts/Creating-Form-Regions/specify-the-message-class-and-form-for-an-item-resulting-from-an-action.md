@@ -3,6 +3,7 @@ title: Specify the Message Class and Form for an Item Resulting from an Action
 ms.prod: outlook
 ms.assetid: 89cb6501-3d48-3bcb-c29d-e2e56274f6cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,4 +33,4 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
  **Note**  You can specify  `this` as the value of the **targetForm** element to use the same message class and same form as those that the form region is defined on.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

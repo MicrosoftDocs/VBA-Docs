@@ -1,5 +1,5 @@
 ---
-title: Style.SetResults Method (Visio)
+title: Style.SetResults method (Visio)
 keywords: vis_sdr.chm11416580
 f1_keywords:
 - vis_sdr.chm11416580
@@ -8,17 +8,18 @@ api_name:
 - Visio.Style.SetResults
 ms.assetid: f03b627b-7b54-0190-96d5-c95eddf44ceb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.SetResults Method (Visio)
+# Style.SetResults method (Visio)
 
 Sets the results or formulas of one or more cells.
 
 
 ## Syntax
 
- _expression_. `SetResults`( `_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
+_expression_. `SetResults`( `_SRCStream()_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` , `_Flags_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
@@ -32,7 +33,7 @@ Sets the results or formulas of one or more cells.
 | _SID_SRCStream()_|Required| **Integer**|An array identifying cells to be modified.|
 | _UnitsNamesOrCodes()_|Required| **Variant**|An array of measurement units to be attributed to entries in the results array.|
 | _resultArray()_|Required| **Variant**|Results or formulas to be assigned to identified cells.|
-| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetResults** .|
+| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetResults**.|
 
 ## Return value
 
@@ -56,17 +57,17 @@ For  **Style** objects, _SID_SRCStream()_ should be a one-dimensional array of 3
 
 where  _sectionIdx_ is the section index of the desired cell, _rowIdx_ is its row index, and _cellIdx_ is its cell index.
 
-The  _UnitsNamesOrCodes()_ array controls what measurement units individual entries in results are in. Each entry in the array can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also indicate desired units with integer constants (**visCentimeters** , **visInches** , and so on) declared by the Visio type library in **VisUnitCodes** . For a list of constants used for units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md). Note that the values specified in the  _UnitsNamesOrCodes()_ array have no effect if **visSetFormulas** is set in _Flags_.
+The  _UnitsNamesOrCodes()_ array controls what measurement units individual entries in results are in. Each entry in the array can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also indicate desired units with integer constants (**visCentimeters**, **visInches**, and so on) declared by the Visio type library in **VisUnitCodes**. For a list of constants used for units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md). Note that the values specified in the  _UnitsNamesOrCodes()_ array have no effect if **visSetFormulas** is set in _Flags_.
 
 If  _UnitsNamesOrCodes()_ is not empty, we expect it to be a one-dimensional array of 1 <= _u_ variants. Each entry can be a string or integer code, or empty (nothing). If the _i_ 'th entry is empty, the _i_ 'th entry in _resultArray()_ is in the units designated by _units(j)_ , where _j_ is the most recent prior entry that is not empty. Thus, if you want all entries in _resultArray()_ to be interpreted in the same units, you need only pass a _UnitsNamesOrCodes()_ array that has one entry. If there is no prior entry that is not empty, or if no _units_ array is supplied, **visNumber** (0x20) will be used. This causes the application to default to internal units (as does the **ResultIU** property of a **Cell** object).
 
-The  _resultArray()_ parameter should be a one-dimensional array of 1 <= _m_ variants. A result can be passed as **Double** , **Integer** , **String** , or a reference to a **String** . Strings are accepted only if **visSetFormulas** is set in _Flags_, in which case strings are interpreted as formulas. If  _resultArray(i)_ is empty, the _i_ 'th cell will be set to the value in _resultArray(j)_, where  _j_ is the index of the most recent prior entry that is not empty. If there is no prior entry that is not empty, the corresponding cell is not altered. If fewer results than cells are specified (if _m < n_ ), the _i_ 'th cell, _i < m_ , will be set to the same value as the _m_ 'th cell. Thus, to set many cells to the same value, you need only pass one copy of the value.
+The  _resultArray()_ parameter should be a one-dimensional array of 1 <= _m_ variants. A result can be passed as **Double**, **Integer**, **String**, or a reference to a **String**. Strings are accepted only if **visSetFormulas** is set in _Flags_, in which case strings are interpreted as formulas. If  _resultArray(i)_ is empty, the _i_ 'th cell will be set to the value in _resultArray(j)_, where  _j_ is the index of the most recent prior entry that is not empty. If there is no prior entry that is not empty, the corresponding cell is not altered. If fewer results than cells are specified (if _m < n_ ), the _i_ 'th cell, _i < m_ , will be set to the same value as the _m_ 'th cell. Thus, to set many cells to the same value, you need only pass one copy of the value.
 
 The  _Flags_ parameter should be a bitmask of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSetFormulas**|&H1|Treat strings in results as formulas.|
 | **visSetBlastGuards**|&H2|Override present cell values even if they're guarded.|
@@ -155,4 +156,4 @@ HandleError:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: e4b453a2-a0e2-63f0-3d93-a46e842fbbd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Specify Tab Support for a Control
+# Specify Tab Support for a Control
 
 The following example uses the  **TabStop** property to control whether a user can press TAB to move the focus to a particular control. The **TabIndex** property is a Microsoft Forms 2.0 property that applies to every control that supports tabbing. The user presses TAB to move the focus among the controls on the form, and then clicks the **[ToggleButton](../../../api/Outlook.togglebutton.md)** to change **TabStop** for CommandButton1. When **TabStop** is **False**, CommandButton1 will not receive the focus by using TAB.
 
@@ -55,4 +56,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

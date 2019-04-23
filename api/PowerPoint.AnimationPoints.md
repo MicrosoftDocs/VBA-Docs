@@ -1,5 +1,5 @@
 ---
-title: AnimationPoints Object (PowerPoint)
+title: AnimationPoints object (PowerPoint)
 keywords: vbapp10.chm663000
 f1_keywords:
 - vbapp10.chm663000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AnimationPoints
 ms.assetid: 6ea9ebc4-791c-9781-38c3-8b0973e0d152
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationPoints Object (PowerPoint)
+# AnimationPoints object (PowerPoint)
 
 Represents a collection of animation points for a  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object.
 
@@ -28,7 +29,7 @@ Sub AddPoint()
 End Sub
 ```
 
-Transitions from one animation point to another can sometimes be abrupt or choppy. Use the [Smooth](PowerPoint.AnimationPoints.Smooth.md)property to make transitions smoother. This example smoothes the transitions between animation points.
+Transitions from one animation point to another can sometimes be abrupt or choppy. Use the [Smooth](PowerPoint.AnimationPoints.Smooth.md)property to make transitions smoother. This example smooths the transitions between animation points.
 
 
 
@@ -46,3 +47,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

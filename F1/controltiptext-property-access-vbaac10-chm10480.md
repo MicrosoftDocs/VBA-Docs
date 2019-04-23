@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a8224f2d-fde2-41c9-ac5d-6033b12524ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.ControlTipText property (Access)](http://msdn.microsoft.com/library/394aecbe-0053-d114-1804-c4ee6a9749d0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

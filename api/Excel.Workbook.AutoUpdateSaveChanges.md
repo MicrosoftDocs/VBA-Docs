@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.AutoUpdateSaveChanges
 ms.assetid: 06f9951d-a17a-bf88-4f6e-65835eb112f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.AutoUpdateSaveChanges property (Excel)
 
- **True** if current changes to the shared workbook are posted to other users whenever the workbook is automatically updated. **False** if changes aren't posted (this workbook is still synchronized with changes made by other users). The default value is **True** . Read/write **Boolean** .
+ **True** if current changes to the shared workbook are posted to other users whenever the workbook is automatically updated. **False** if changes aren't posted (this workbook is still synchronized with changes made by other users). The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoUpdateSaveChanges`
+_expression_. `AutoUpdateSaveChanges`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveWorkbook.AutoUpdateSaveChanges = True
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

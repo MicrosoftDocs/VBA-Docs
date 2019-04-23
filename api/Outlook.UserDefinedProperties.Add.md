@@ -1,5 +1,5 @@
 ---
-title: UserDefinedProperties.Add Method (Outlook)
+title: UserDefinedProperties.Add method (Outlook)
 keywords: vbaol11.chm588
 f1_keywords:
 - vbaol11.chm588
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserDefinedProperties.Add
 ms.assetid: e033b27e-101d-4ef8-ed84-790fd9e6107a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserDefinedProperties.Add Method (Outlook)
+# UserDefinedProperties.Add method (Outlook)
 
 Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object and appends it to the collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Type_` , `_DisplayFormat_` , `_Formula_` )
+_expression_.**Add**( `_Name_` , `_Type_` , `_DisplayFormat_` , `_Formula_` )
 
- _expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
+_expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDefinedProperties.md) object.
 
 
 ## Parameters
@@ -32,7 +33,7 @@ Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object 
 | _Name_|Required| **String**|The name of the new user-defined property.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new user-defined property.|
 | _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see [DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
-| _Formula_|Optional| **Variant**|The formula used to calculate values for the new user-defined property. This parameter is ignored if the  _Type_ parameter is set to any value other than **olCombination** or **olFormula** .|
+| _Formula_|Optional| **Variant**|The formula used to calculate values for the new user-defined property. This parameter is ignored if the  _Type_ parameter is set to any value other than **olCombination** or **olFormula**.|
 
 ## Return value
 
@@ -78,3 +79,4 @@ End Sub
 
 [UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

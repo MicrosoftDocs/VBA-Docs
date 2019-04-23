@@ -1,5 +1,5 @@
 ---
-title: Application.KeysBoundTo Property (Word)
+title: Application.KeysBoundTo property (Word)
 keywords: vbawd10.chm158335046
 f1_keywords:
 - vbawd10.chm158335046
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.KeysBoundTo
 ms.assetid: 55967f9f-a2e0-eaae-a371-0fed82100138
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.KeysBoundTo Property (Word)
+# Application.KeysBoundTo property (Word)
 
 Returns a  **[KeysBoundTo](Word.keysboundto.md)** object that represents all the key combinations assigned to the specified item.
 
 
 ## Syntax
 
- _expression_. `KeysBoundTo`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
+_expression_. `KeysBoundTo`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -75,3 +76,4 @@ Next aKey
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

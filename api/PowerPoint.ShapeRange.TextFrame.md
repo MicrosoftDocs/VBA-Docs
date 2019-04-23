@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame Property (PowerPoint)
+title: ShapeRange.TextFrame property (PowerPoint)
 keywords: vbapp10.chm548035
 f1_keywords:
 - vbapp10.chm548035
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.TextFrame
 ms.assetid: ec6093f2-232b-361b-b85d-7a99fafd8878
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.TextFrame Property (PowerPoint)
+# ShapeRange.TextFrame property (PowerPoint)
 
 Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape or master text style. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextFrame`
+_expression_. `TextFrame`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -37,7 +38,7 @@ Use the  **HasTextFrame** property to determine whether a shape contains a text 
 
 ## Example
 
-This example adds a rectangle to  `myDocument`, adds text to the rectangle, and sets the top margin for the text frame.
+This example adds a rectangle to  _myDocument_, adds text to the rectangle, and sets the top margin for the text frame.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

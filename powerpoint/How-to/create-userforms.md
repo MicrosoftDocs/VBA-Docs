@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: 1ada0ef7-c238-32d6-3733-a006524fa618
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ To create a custom dialog box, you must create a UserForm. To create a UserForm,
 
 Use the Properties window to change the name, behavior, and appearance of the form. For example, to change the caption on a form, set the **Caption** property.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

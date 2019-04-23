@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.Name
 ms.assetid: eaad75d7-943a-87cb-f933-7f7e141eedd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the MDX unique name of OLAP hierarchy level represented by the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
+_expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the MDX unique name of OLAP hierarchy level represented by the object.
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

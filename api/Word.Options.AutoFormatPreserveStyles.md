@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatPreserveStyles Property (Word)
+title: Options.AutoFormatPreserveStyles property (Word)
 keywords: vbawd10.chm162988291
 f1_keywords:
 - vbawd10.chm162988291
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatPreserveStyles
 ms.assetid: cbde64c7-4a82-f33f-c337-bbc24c32ab40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatPreserveStyles Property (Word)
+# Options.AutoFormatPreserveStyles property (Word)
 
- **True** if previously applied styles are preserved when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if previously applied styles are preserved when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatPreserveStyles`
+_expression_. `AutoFormatPreserveStyles`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -55,3 +56,4 @@ blnAutoFormat = Options.AutoFormatPreserveStyles
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Class Property (Outlook)
+title: BusinessCardView.Class property (Outlook)
 keywords: vbaol11.chm2918
 f1_keywords:
 - vbaol11.chm2918
@@ -8,19 +8,20 @@ api_name:
 - Outlook.BusinessCardView.Class
 ms.assetid: 761ee3a5-1a56-db31-52e6-4408f8c2a0f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView.Class Property (Outlook)
+# BusinessCardView.Class property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
 
- _expression_. `Class`
+_expression_.**Class**
 
- _expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+_expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property returns  **olBusinessCardView** for the **[BusinessCardView](Outlo
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

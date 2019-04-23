@@ -1,5 +1,5 @@
 ---
-title: Global.PointsToPixels Method (Word)
+title: Global.PointsToPixels method (Word)
 keywords: vbawd10.chm163119489
 f1_keywords:
 - vbawd10.chm163119489
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.PointsToPixels
 ms.assetid: e119ddf1-851c-2870-73f4-52da1d17c035
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.PointsToPixels Method (Word)
+# Global.PointsToPixels method (Word)
 
-Converts a measurement from points to pixels. Returns the converted measurement as a  **Single** .
+Converts a measurement from points to pixels. Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `PointsToPixels`( `_Points_` , `_fVertical_` )
+_expression_. `PointsToPixels`( `_Points_` , `_fVertical_` )
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ MsgBox "180x120 points is equivalent to " _
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListLevel Object (Word)
+title: ListLevel object (Word)
 keywords: vbawd10.chm2445
 f1_keywords:
 - vbawd10.chm2445
@@ -8,10 +8,11 @@ api_name:
 - Word.ListLevel
 ms.assetid: 0cd152cb-6c25-50cb-7c1d-8b6d9734505b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel Object (Word)
+# ListLevel object (Word)
 
 Represents a single list level, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list. The  **ListLevel** object is a member of the **ListLevels** collection.
 
@@ -34,7 +35,7 @@ To apply a list level, first identify the range or list, and then use the  **App
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyPictureBullet](Word.ListLevel.ApplyPictureBullet.md)|
 
@@ -42,7 +43,7 @@ To apply a list level, first identify the range or list, and then use the  **App
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Word.ListLevel.Alignment.md)|
 |[Application](Word.ListLevel.Application.md)|
@@ -64,4 +65,6 @@ To apply a list level, first identify the range or list, and then use the  **App
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

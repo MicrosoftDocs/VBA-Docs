@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 18ae617c-6d51-ae79-be3c-1493ce4f6ef3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -49,4 +50,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

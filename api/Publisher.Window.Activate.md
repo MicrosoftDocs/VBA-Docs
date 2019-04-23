@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Publisher)
+title: Window.Activate method (Publisher)
 keywords: vbapb10.chm262162
 f1_keywords:
 - vbapb10.chm262162
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Window.Activate
 ms.assetid: 9bd17970-d038-33de-18ad-139bd9fdb8e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Activate Method (Publisher)
+# Window.Activate method (Publisher)
 
 Activates a window or OLE object.
 
 
 ## Syntax
 
- _expression_. **Activate**
+_expression_.**Activate**
 
  _expression_ A variable that represents a  **Window** object.
 
@@ -56,4 +57,4 @@ Set shpSheet = ActiveDocument.Pages(1).Shapes.AddOLEObject _
 shpSheet.OLEFormat.Activate
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

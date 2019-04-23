@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8c06abf1-ea93-4ea9-9eed-f17df7eb235e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline9FixedCostAccrual Property (Project)](http://msdn.microsoft.com/library/2c29a5df-ff2e-3e48-361d-9f84366cebfd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

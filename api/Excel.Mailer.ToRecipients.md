@@ -8,6 +8,7 @@ api_name:
 - Excel.Mailer.ToRecipients
 ms.assetid: 725ba114-e5d9-de48-39e7-3f5f9b33783e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
- _expression_. `ToRecipients`
+_expression_. `ToRecipients`
 
- _expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
+_expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 [Mailer Object](Excel.Mailer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

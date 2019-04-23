@@ -1,23 +1,24 @@
 ---
-title: ChartGroup.HasRadarAxisLabels Property (PowerPoint)
+title: ChartGroup.HasRadarAxisLabels property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasRadarAxisLabels
 ms.assetid: ae8102a3-db43-410e-06fe-ab9f7f7ab6ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.HasRadarAxisLabels Property (PowerPoint)
+# ChartGroup.HasRadarAxisLabels property (PowerPoint)
 
  **True** if a radar chart has axis labels. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasRadarAxisLabels`
+_expression_.**HasRadarAxisLabels**
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ End With
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

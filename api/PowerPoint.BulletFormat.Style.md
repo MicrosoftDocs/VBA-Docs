@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Style Property (PowerPoint)
+title: BulletFormat.Style property (PowerPoint)
 keywords: vbapp10.chm577010
 f1_keywords:
 - vbapp10.chm577010
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.Style
 ms.assetid: 2cc49660-bcf7-f965-f3cb-80e6d06ba789
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.Style Property (PowerPoint)
+# BulletFormat.Style property (PowerPoint)
 
 Returns or sets the bullet style. Read/write. 
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -50,3 +51,4 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

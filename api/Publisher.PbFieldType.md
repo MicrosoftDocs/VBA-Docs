@@ -1,5 +1,5 @@
 ---
-title: PbFieldType Enumeration (Publisher)
+title: PbFieldType enumeration (Publisher)
 keywords: vbapb10.chm65559
 f1_keywords:
 - vbapb10.chm65559
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbFieldType
 ms.assetid: 24fd37d5-a9ae-7098-a19a-a0ce7eee1b5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbFieldType Enumeration (Publisher)
+# PbFieldType enumeration (Publisher)
 
 Represents the field type. 
 
@@ -21,7 +22,7 @@ Represents the field type.
 |:-----|:-----|:-----|
 | **pbFieldDateTime**|4|Date and time|
 | **pbFieldHyperlinkAbsolutePage**|11| Absolute page hyperlink|
-| **pbFieldHyperlinkEmail**|12|E-mail hyperlink|
+| **pbFieldHyperlinkEmail**|12|Email hyperlink|
 | **pbFieldHyperlinkFile**|13|File hyperlink|
 | **pbFieldHyperlinkRelativePage**|10|Relative page hyperlink|
 | **pbFieldHyperlinkURL**|9|URL hyperlink|
@@ -35,3 +36,4 @@ Represents the field type.
 | **pbFieldPhoneticGuide**|7|Phonetic guide|
 | **pbFieldWizardSampleText**|8|Wizard sample text|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

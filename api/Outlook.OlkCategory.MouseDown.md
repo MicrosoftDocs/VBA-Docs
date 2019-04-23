@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.MouseDown Event (Outlook)
+title: OlkCategory.MouseDown event (Outlook)
 keywords: vbaol11.chm1000451
 f1_keywords:
 - vbaol11.chm1000451
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCategory.MouseDown
 ms.assetid: c75c2b05-3f85-0f6d-a5d0-59ff43b5653c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCategory.MouseDown Event (Outlook)
+# OlkCategory.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

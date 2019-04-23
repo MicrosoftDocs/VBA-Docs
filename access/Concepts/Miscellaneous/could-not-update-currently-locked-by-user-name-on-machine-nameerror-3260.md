@@ -3,6 +3,7 @@ title: Could not update; currently locked by user <name> on machine <name>. (Err
 ms.prod: access
 ms.assetid: e316600b-9904-1bf0-779e-af84e185474f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,5 @@ Possible causes:
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

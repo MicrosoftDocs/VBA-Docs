@@ -1,5 +1,5 @@
 ---
-title: AddIn.Application Property (PowerPoint)
+title: AddIn.Application property (PowerPoint)
 keywords: vbapp10.chm521001
 f1_keywords:
 - vbapp10.chm521001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AddIn.Application
 ms.assetid: e46f6242-5c8f-6c7d-c6aa-cd98123fe684
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.Application Property (PowerPoint)
+# AddIn.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [AddIn Object](PowerPoint.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

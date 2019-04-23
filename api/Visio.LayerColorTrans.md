@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerColorTrans
 ms.assetid: b081bc59-701f-3ac5-6324-9eb055185c09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets the transparency of the color of the layer at the specified index i
 
 ## Syntax
 
- _expression_. **LayerColorTrans**(**_LayerIndex_**)
+_expression_.**LayerColorTrans**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -49,4 +50,4 @@ The following code gets the transparency of the layer at index position 1.
 Debug.Print vsoViewer.LayerColorTrans(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 83618967-a027-13f7-4963-8656093074e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,4 +46,4 @@ Item.GetInspector.SetControlItemProperty("Textbox1", "Business Address")
 
  **Note**  If you create a control by dragging a plain text field to a form, you cannot bind the control to a field of a different type. For example, you cannot drag a Subject field to a form and then bind it to a field containing an Email type (such as the To field).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

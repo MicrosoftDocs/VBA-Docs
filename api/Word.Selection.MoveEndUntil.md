@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveEndUntil Method (Word)
+title: Selection.MoveEndUntil method (Word)
 keywords: vbawd10.chm158662773
 f1_keywords:
 - vbawd10.chm158662773
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveEndUntil
 ms.assetid: e8f7532a-6a5a-3173-3e5e-db46aec44170
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveEndUntil Method (Word)
+# Selection.MoveEndUntil method (Word)
 
 Moves the end position of the specified selection until any of the specified characters are found in the document.
 
 
 ## Syntax
 
- _expression_. `MoveEndUntil`( `_Cset_` , `_Count_` )
+_expression_. `MoveEndUntil`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the end position of the specified selection until any of the specified cha
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either  **wdForward** or **wdBackward** . If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either  **wdForward** or **wdBackward**. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
 
 ## Return value
 
@@ -72,3 +73,4 @@ If char = 0 Then StatusBar = "Selection not moved"
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

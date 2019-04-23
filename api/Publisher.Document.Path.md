@@ -1,5 +1,5 @@
 ---
-title: Document.Path Property (Publisher)
+title: Document.Path property (Publisher)
 keywords: vbapb10.chm196644
 f1_keywords:
 - vbapb10.chm196644
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Path
 ms.assetid: 01926d63-e59e-5aad-3cb9-143166d253a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Path Property (Publisher)
+# Document.Path property (Publisher)
 
 Returns a  **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
 
 
 ## Syntax
 
- _expression_. **Path**
+_expression_.**Path**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -53,4 +54,4 @@ Sub PathNames()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

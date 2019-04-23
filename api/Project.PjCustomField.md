@@ -1,14 +1,15 @@
 ---
-title: PjCustomField Enumeration (Project)
+title: PjCustomField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCustomField
 ms.assetid: eed248af-bde2-8299-3737-253cf96411e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjCustomField Enumeration (Project)
+# PjCustomField enumeration (Project)
 
 Contains constants that specify a custom field in Project.
 
@@ -796,3 +797,4 @@ Contains constants that specify a custom field in Project.
 |**pjCustomTaskText8**|188743748|Represents the Custom Text8 (Task) field.|
 |**pjCustomTaskText9**|188743749|Represents the Custom Text9 (Task) field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

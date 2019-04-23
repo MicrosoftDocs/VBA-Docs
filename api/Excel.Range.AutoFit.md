@@ -1,5 +1,5 @@
 ---
-title: Range.AutoFit Method (Excel)
+title: Range.AutoFit method (Excel)
 keywords: vbaxl10.chm144085
 f1_keywords:
 - vbaxl10.chm144085
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.AutoFit
 ms.assetid: 53a35cd3-00e7-f9f5-2cd2-8492d7814a11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.AutoFit Method (Excel)
+# Range.AutoFit method (Excel)
 
 Changes the width of the columns in the range or the height of the rows in the range to achieve the best fit.
 
 
 ## Syntax
 
- _expression_. `AutoFit`
+_expression_. `AutoFit`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -59,3 +60,4 @@ Worksheets("Sheet1").Range("A1:E1").Columns.AutoFit
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

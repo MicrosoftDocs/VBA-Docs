@@ -1,5 +1,5 @@
 ---
-title: Document.TextEncoding Property (Word)
+title: Document.TextEncoding property (Word)
 keywords: vbawd10.chm158007653
 f1_keywords:
 - vbawd10.chm158007653
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.TextEncoding
 ms.assetid: a11b45c1-1829-0df0-3403-e92268d9ec81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TextEncoding Property (Word)
+# Document.TextEncoding property (Word)
 
-Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write  **MsoEncoding** .
+Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write  **MsoEncoding**.
 
 
 ## Syntax
 
- _expression_. `TextEncoding`
+_expression_. `TextEncoding`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

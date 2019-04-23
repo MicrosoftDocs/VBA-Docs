@@ -3,6 +3,7 @@ title: Best Practices to Migrate Outlook 97-2003 Custom Forms
 ms.prod: outlook
 ms.assetid: dd1170f1-ff20-12ab-7bf8-81df434ef143
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -14,4 +15,4 @@ If you want to further customize your Outlook 97-2003 custom form to take advant
 
 However, if for some reason, you cannot implement some existing functionality using form regions, you should keep the existing custom form pages together with any of their custom actions as intact as possible, and implement only new functionality using form regions. In this case, you should add new actions as custom actions only to the form regions.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

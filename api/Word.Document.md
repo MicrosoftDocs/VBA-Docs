@@ -1,5 +1,5 @@
 ---
-title: Document Object (Word)
+title: Document object (Word)
 keywords: vbawd10.chm2411
 f1_keywords:
 - vbawd10.chm2411
@@ -8,10 +8,11 @@ api_name:
 - Word.Document
 ms.assetid: 8d83487a-2345-a036-a916-971c9db5b7fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document Object (Word)
+# Document object (Word)
 
 Represents a document. The  **Document** object is a member of the **[Documents](https://msdn.microsoft.com/vba/word-vba/articles/documents-object-word)** collection. The **Documents** collection contains all the **Document** objects that are currently open in Word.
 
@@ -55,7 +56,7 @@ ActiveDocument.PrintOut
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BuildingBlockInsert](./Word.Document.BuildingBlockInsert.md)|
 |[Close](./Word.Document.Close(even).md)|
@@ -75,7 +76,7 @@ ActiveDocument.PrintOut
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptAllRevisions](./Word.Document.AcceptAllRevisions.md)|
 |[AcceptAllRevisionsShown](./Word.Document.AcceptAllRevisionsShown.md)|
@@ -177,7 +178,7 @@ ActiveDocument.PrintOut
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveTheme](./Word.Document.ActiveTheme.md)|
 |[ActiveThemeDisplayName](./Word.Document.ActiveThemeDisplayName.md)|
@@ -371,5 +372,6 @@ ActiveDocument.PrintOut
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

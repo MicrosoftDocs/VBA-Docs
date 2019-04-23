@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.BrowserLevel Property (Word)
+title: DefaultWebOptions.BrowserLevel property (Word)
 keywords: vbawd10.chm165871618
 f1_keywords:
 - vbawd10.chm165871618
@@ -8,19 +8,20 @@ api_name:
 - Word.DefaultWebOptions.BrowserLevel
 ms.assetid: 15817831-8921-df0b-43fc-43bad18116d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DefaultWebOptions.BrowserLevel Property (Word)
+# DefaultWebOptions.BrowserLevel property (Word)
 
 Returns or sets a  **WdBrowserLevel** constant that represents the level of the Web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
 
 
 ## Syntax
 
- _expression_. `BrowserLevel`
+_expression_. `BrowserLevel`
 
- _expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ Documents.Add DocumentType:=wdNewWebPage
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

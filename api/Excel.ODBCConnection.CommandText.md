@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.CommandText
 ms.assetid: f76073fd-5052-5813-ee9a-631c795e9b76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCConnection.CommandText property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant** .
+Returns or sets the command string for the specified data source. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CommandText`
+_expression_. `CommandText`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End With
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

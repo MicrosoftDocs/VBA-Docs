@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.DataFileFormat Property (Publisher)
+title: WebCommandButton.DataFileFormat property (Publisher)
 keywords: vbapb10.chm3932169
 f1_keywords:
 - vbapb10.chm3932169
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCommandButton.DataFileFormat
 ms.assetid: 7594b575-b39f-3cd4-d0b9-c13c04299345
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCommandButton.DataFileFormat Property (Publisher)
+# WebCommandButton.DataFileFormat property (Publisher)
 
 Sets or returns a  **PbSubmitDataFormatType** constant that represents the format to use when saving Web form data to a file. Read/write.
 
 
 ## Syntax
 
- _expression_. **DataFileFormat**
+_expression_.**DataFileFormat**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 
@@ -48,4 +49,4 @@ Sub WebDataFile()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

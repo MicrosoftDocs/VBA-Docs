@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Font Property (PowerPoint)
+title: BulletFormat.Font property (PowerPoint)
 keywords: vbapp10.chm577008
 f1_keywords:
 - vbapp10.chm577008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.Font
 ms.assetid: 4b5b6495-9e02-d8d3-c952-016561dc3f6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.Font Property (PowerPoint)
+# BulletFormat.Font property (PowerPoint)
 
 Returns a  **[Font](PowerPoint.Font.md)** object that represents character formatting. Read-only.
 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
- _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -82,3 +83,4 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

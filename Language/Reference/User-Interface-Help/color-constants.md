@@ -5,7 +5,8 @@ f1_keywords:
 - vblr6.chm1106125
 ms.prod: office
 ms.assetid: f0740df2-8835-0f5b-932d-8eefc9bc0000
-ms.date: 08/24/2018
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,9 @@ ms.date: 08/24/2018
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
-|**Constant**|**Value**|**Description**|
+<br/>
+
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbBlack**|0x0|Black|
 |**vbRed**|0xFF|Red|
@@ -27,3 +30,6 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 ## See also
 
 - [RGB function](rgb-function.md)
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

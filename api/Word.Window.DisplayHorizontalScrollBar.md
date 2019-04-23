@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayHorizontalScrollBar Property (Word)
+title: Window.DisplayHorizontalScrollBar property (Word)
 keywords: vbawd10.chm157417492
 f1_keywords:
 - vbawd10.chm157417492
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.DisplayHorizontalScrollBar
 ms.assetid: c52d2cc8-d7ce-0b95-e97c-e41e449e4be6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.DisplayHorizontalScrollBar Property (Word)
+# Window.DisplayHorizontalScrollBar property (Word)
 
- **True** if a horizontal scroll bar is displayed for the specified window. Read/write **Boolean** .
+ **True** if a horizontal scroll bar is displayed for the specified window. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayHorizontalScrollBar`
+_expression_. `DisplayHorizontalScrollBar`
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
@@ -55,3 +56,4 @@ winTemp.DisplayHorizontalScrollBar = _
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

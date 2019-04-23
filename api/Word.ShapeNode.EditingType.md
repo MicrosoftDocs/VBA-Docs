@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.EditingType Property (Word)
+title: ShapeNode.EditingType property (Word)
 keywords: vbawd10.chm164429924
 f1_keywords:
 - vbawd10.chm164429924
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeNode.EditingType
 ms.assetid: ac490e3c-3938-a1db-50b5-ec667061f711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNode.EditingType Property (Word)
+# ShapeNode.EditingType property (Word)
 
-If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **MsoEditingType** . .
+If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **MsoEditingType**. .
 
 
 ## Syntax
 
- _expression_. `EditingType`
+_expression_. `EditingType`
 
- _expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
+_expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End With
 
 [ShapeNode Object](Word.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

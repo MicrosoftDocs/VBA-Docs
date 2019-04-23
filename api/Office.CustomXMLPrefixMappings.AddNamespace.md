@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.AddNamespace Method (Office)
+title: CustomXMLPrefixMappings.AddNamespace method (Office)
 keywords: vbaof11.chm290004
 f1_keywords:
 - vbaof11.chm290004
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.AddNamespace
 ms.assetid: a4a58a81-3fdc-f808-ac19-0eb27e944f29
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLPrefixMappings.AddNamespace Method (Office)
+# CustomXMLPrefixMappings.AddNamespace method (Office)
 
 Allows you to add a custom namespace/prefix mapping to use when querying an item.
 
 
 ## Syntax
 
- _expression_. `AddNamespace`( `_Prefix_`, `_NamespaceURI_` )
+_expression_.**AddNamespace**(_Prefix_, _NamespaceURI_)
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+_expression_ An expression that returns a **[CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,12 +33,12 @@ Allows you to add a custom namespace/prefix mapping to use when querying an item
 
 ## Remarks
 
-If the prefix already exists in the Namespace Manager, this method will overwrite the meaning of that prefix except when the prefix is one added or used by the data store (**IXMLDataStore** interface) internally, in which case it will return an error.
+If the prefix already exists in the **Namespace Manager**, this method will overwrite the meaning of that prefix except when the prefix is one added or used by the data store (**IXMLDataStore** interface) internally, in which case it will return an error.
 
 
 ## Example
 
-The following example adds a prefix and namespace to a  **CustomPrefixMappings** object.
+The following example adds a prefix and namespace to a **CustomPrefixMappings** object.
 
 
 ```vb
@@ -57,10 +56,6 @@ End Sub
 
 ## See also
 
+- [CustomXMLPrefixMappings object members](overview/library-reference/customxmlprefixmappings-members-office.md)
 
-[CustomXMLPrefixMappings Object](Office.CustomXMLPrefixMappings.md)
-
-
-
-[CustomXMLPrefixMappings Object Members](./overview/Library-Reference/customxmlprefixmappings-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideRange.SlideNumber Property (PowerPoint)
+title: SlideRange.SlideNumber property (PowerPoint)
 keywords: vbapp10.chm532019
 f1_keywords:
 - vbapp10.chm532019
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.SlideNumber
 ms.assetid: 2fee7966-26b8-4ed1-adb4-cff9ce6ba37f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.SlideNumber Property (PowerPoint)
+# SlideRange.SlideNumber property (PowerPoint)
 
 Returns the slide number. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideNumber`
+_expression_. `SlideNumber`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -60,3 +61,4 @@ End With
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

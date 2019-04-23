@@ -8,6 +8,7 @@ api_name:
 - Excel.Name.RefersToRange
 ms.assetid: 81c0e2fe-8ce6-0df9-9ffa-0931b87487e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[Range](Excel.Range(object).md)** object referred to by a **Name*
 
 ## Syntax
 
- _expression_. `RefersToRange`
+_expression_. `RefersToRange`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ MsgBox "Print_Area: " & UBound(p, 1) & " rows, " & _
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

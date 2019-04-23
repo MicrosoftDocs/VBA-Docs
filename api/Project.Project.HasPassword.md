@@ -1,21 +1,22 @@
 ---
-title: Project.HasPassword Property (Project)
+title: Project.HasPassword property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.HasPassword
 ms.assetid: 2c00e008-94d9-5d0a-d3b9-dcb57af04a19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.HasPassword Property (Project)
+# Project.HasPassword property (Project)
 
  **True** if a project has a password. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasPassword`
+_expression_. `HasPassword`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -55,4 +56,4 @@ Sub ListProjectsWithPasswords()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

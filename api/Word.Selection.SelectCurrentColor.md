@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentColor Method (Word)
+title: Selection.SelectCurrentColor method (Word)
 keywords: vbawd10.chm158663178
 f1_keywords:
 - vbawd10.chm158663178
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.SelectCurrentColor
 ms.assetid: f7d23b80-7e1a-40a5-b292-820c3db500a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SelectCurrentColor Method (Word)
+# Selection.SelectCurrentColor method (Word)
 
 Extends the selection forward until text with a different color is encountered.
 
 
 ## Syntax
 
- _expression_. `SelectCurrentColor`
+_expression_. `SelectCurrentColor`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ MsgBox "Contiguous characters with the same color: " & n
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

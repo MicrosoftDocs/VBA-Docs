@@ -3,6 +3,7 @@ title: Viewer.BackColor Property (Visio Viewer)
 ms.prod: visio
 ms.assetid: 8718d3b6-9521-85d3-64fc-32feeb118274
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Gets or sets the background color of Microsoft Visio Viewer. Read/write.
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -41,4 +42,4 @@ The following code sets the value of the  **BackColor** property to the default 
  vsoViewer.BackColor = &H8000000F
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.ShowSeriesName
 ms.assetid: 95fd3b99-1ea5-5b51-7048-1dfba228aaa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** to indicate the series name display behavior for 
 
 ## Syntax
 
- _expression_. `ShowSeriesName`
+_expression_. `ShowSeriesName`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End Sub
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

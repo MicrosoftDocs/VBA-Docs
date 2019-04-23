@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: decedcf5-cdfc-48d1-99b6-3e60d5e576d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TaskRequestDeclineItem.ReplyAll Event (Outlook)](http://msdn.microsoft.com/library/bc98249a-ad2d-043e-cbf8-ceb9d020443d%28Office.15%29.aspx)
 [PostItem.ReplyAll Event (Outlook)](http://msdn.microsoft.com/library/423f182a-4839-9aa7-14c1-f79fc366678d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

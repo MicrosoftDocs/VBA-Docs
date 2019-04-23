@@ -1,5 +1,5 @@
 ---
-title: Application.PixelsToPoints Method (Word)
+title: Application.PixelsToPoints method (Word)
 keywords: vbawd10.chm158335364
 f1_keywords:
 - vbawd10.chm158335364
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.PixelsToPoints
 ms.assetid: f5e2e3f2-1e58-d84f-c73a-f6414fa48c3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PixelsToPoints Method (Word)
+# Application.PixelsToPoints method (Word)
 
-Converts a measurement from pixels to points. Returns the converted measurement as a  **Single** .
+Converts a measurement from pixels to points. Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `PixelsToPoints`( `_Pixels_` , `_fVertical_` )
+_expression_. `PixelsToPoints`( `_Pixels_` , `_fVertical_` )
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ MsgBox "320x240 pixels is equivalent to " _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

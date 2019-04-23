@@ -1,5 +1,5 @@
 ---
-title: Calendar.WeekDays Property (Project)
+title: Calendar.WeekDays property (Project)
 keywords: vbapj.chm132819
 f1_keywords:
 - vbapj.chm132819
@@ -8,17 +8,18 @@ api_name:
 - Project.Calendar.WeekDays
 ms.assetid: 4495a739-156b-8cda-d3d0-acbc56b767ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Calendar.WeekDays Property (Project)
+# Calendar.WeekDays property (Project)
 
 Gets a  **[Weekdays](Project.WeekDay.md)** collection representing the weekdays in the calendar. Read-only **Weekdays**.
 
 
 ## Syntax
 
- _expression_. `WeekDays`
+_expression_. `WeekDays`
 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
@@ -34,4 +35,4 @@ Sub MakeFridaysNonworking()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

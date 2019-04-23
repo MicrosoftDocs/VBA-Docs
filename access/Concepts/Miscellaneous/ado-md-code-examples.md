@@ -3,6 +3,7 @@ title: ADO MD Code Examples
 ms.prod: access
 ms.assetid: fa3baeda-9ecc-6fdd-219f-ae2f76222e70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,5 @@ These examples use the MSOLAP OLE DB provider, and run against a Microsoft SQL S
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

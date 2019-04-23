@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 24fc2e67-273d-2ef3-1040-e5fa9161bd81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[C
 
 ## Syntax
 
- _expression_. **GroupName**
+_expression_.**GroupName**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -40,4 +41,4 @@ Regardless of which method you use to create the group of check boxes, clicking 
 
 For example, assume your form includes some check boxes and a  **[MultiPage](Outlook.multipage.md)** that also includes option buttons. The check boxes on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a check box on the **MultiPage** does not affect the check boxes on the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

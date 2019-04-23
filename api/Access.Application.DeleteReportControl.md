@@ -7,30 +7,29 @@ ms.prod: access
 api_name:
 - Access.Application.DeleteReportControl
 ms.assetid: 26e30033-ab56-9cfa-3c35-f6d47caf8bd7
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.DeleteReportControl method (Access)
 
-The  **DeleteReportControl** method deletes a specified control from a report.
+The **DeleteReportControl** method deletes a specified control from a report.
 
 
 ## Syntax
 
-_expression_. `DeleteReportControl`( ` _ReportName_`, ` _ControlName_` )
+_expression_.**DeleteReportControl** (_ReportName_, _ControlName_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReportName_|Required|**String**|The name of the report containing the control you want to delete.|
-| _ControlName_|Required|**String**|The name of the control you want to delete.|
+| _ReportName_|Required|**String**|The name of the report containing the control that you want to delete.|
+| _ControlName_|Required|**String**|The name of the control that you want to delete.|
 
 ## Return value
 
@@ -39,16 +38,15 @@ Nothing
 
 ## Remarks
 
-The  **DeleteReportControl** method is available only in form Design view or report Design view, respectively.
+The **DeleteReportControl** method is available only in form Design view or report Design view, respectively.
 
-
- **Note**  If you are building a wizard that deletes a control from a form or report, your wizard must open the form or report in Design view before it can delete the control.
+> [!NOTE] 
+> If you are building a wizard that deletes a control from a form or report, your wizard must open the form or report in Design view before it can delete the control.
 
 
 ## Example
 
-The following example creates a form with a command button and displays a message that asks if the user wants to delete the command button. If the user clicks Yes, the command button is deleted.
-
+The following example creates a form with a command button and displays a message that asks if the user wants to delete the command button. If the user chooses **Yes**, the command button is deleted.
 
 ```vb
 Sub DeleteCommandButton() 
@@ -79,8 +77,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

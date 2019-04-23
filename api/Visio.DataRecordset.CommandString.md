@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.CommandString Property (Visio)
+title: DataRecordset.CommandString property (Visio)
 keywords: vis_sdr.chm16460300
 f1_keywords:
 - vis_sdr.chm16460300
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.CommandString
 ms.assetid: 7d9151b0-db8c-a8ce-edea-7ef25d241e98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.CommandString Property (Visio)
+# DataRecordset.CommandString property (Visio)
 
 Gets or sets the command string used to query the data source to create a data recordset or refresh an existing one. Read/write.
 
@@ -21,7 +22,7 @@ Gets or sets the command string used to query the data source to create a data r
 
 ## Syntax
 
- _expression_. `CommandString`
+_expression_. `CommandString`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -41,4 +42,4 @@ The  **CommandString** property does not apply to data recordsets created by usi
 
 The following sample command string directs Visio to retrieve all data from an Excel worksheet named Sheet1:  `"SELECT * FROM [Sheet1$]"`.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

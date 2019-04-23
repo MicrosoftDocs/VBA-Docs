@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Item Method (Word)
+title: DataLabels.Item method (Word)
 keywords: vbawd10.chm207486976
 f1_keywords:
 - vbawd10.chm207486976
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabels.Item
 ms.assetid: 792b63a5-e4e9-c026-e94d-0f0349d113dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.Item Method (Word)
+# DataLabels.Item method (Word)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 
@@ -57,3 +58,4 @@ End With
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

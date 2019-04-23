@@ -3,6 +3,7 @@ title: CheckBox Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: ef95f051-70b6-471e-8476-12984b73f7d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -48,5 +49,5 @@ ms.date: 06/08/2017
 -  [CheckBox.Value Property (Outlook Forms Script)](Outlook.checkbox.value.md)
     
 -  [CheckBox.WordWrap Property (Outlook Forms Script)](Outlook.checkbox.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

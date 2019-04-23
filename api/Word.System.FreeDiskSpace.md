@@ -1,5 +1,5 @@
 ---
-title: System.FreeDiskSpace Property (Word)
+title: System.FreeDiskSpace property (Word)
 keywords: vbawd10.chm154468356
 f1_keywords:
 - vbawd10.chm154468356
@@ -8,17 +8,18 @@ api_name:
 - Word.System.FreeDiskSpace
 ms.assetid: 739db138-37f3-821b-8214-013153b20fa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# System.FreeDiskSpace Property (Word)
+# System.FreeDiskSpace property (Word)
 
-Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only  **Long** .
+Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `FreeDiskSpace`
+_expression_. `FreeDiskSpace`
 
  _expression_ A variable that represents a '[System](Word.System.md)' object.
 
@@ -44,3 +45,4 @@ If (System.FreeDiskSpace \ 1048576) < 10 Then _
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

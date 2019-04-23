@@ -1,5 +1,5 @@
 ---
-title: Designs.Item Method (PowerPoint)
+title: Designs.Item method (PowerPoint)
 keywords: vbapp10.chm643003
 f1_keywords:
 - vbapp10.chm643003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Designs.Item
 ms.assetid: 62843698-605b-50b1-8de4-d5b6fa5e1df8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Designs.Item Method (PowerPoint)
+# Designs.Item method (PowerPoint)
 
 Returns a single  **Design** object from the specified **Designs** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
+_expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Design
 
 [Designs Object](PowerPoint.Designs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

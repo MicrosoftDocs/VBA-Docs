@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetSharedDefaultFolder Method (Outlook)
+title: NameSpace.GetSharedDefaultFolder method (Outlook)
 keywords: vbaol11.chm765
 f1_keywords:
 - vbaol11.chm765
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.GetSharedDefaultFolder
 ms.assetid: e2196423-e4f2-2797-c16c-dc54e2c0f7d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.GetSharedDefaultFolder Method (Outlook)
+# NameSpace.GetSharedDefaultFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified default folder for the specified user.
 
 
 ## Syntax
 
- _expression_. `GetSharedDefaultFolder`( `_Recipient_` , `_FolderType_` )
+_expression_. `GetSharedDefaultFolder`( `_Recipient_` , `_FolderType_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -41,7 +42,7 @@ A  **Folder** object that represents the specified default folder for the specif
 
 This method is used in a delegation scenario, where one user has delegated access to another user for one or more of their default folders (for example, their shared  **Calendar** folder).
 
- _FolderType_ can be one of the following **OlDefaultFolders** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . (The constants **olFolderDeletedItems** , **olFolderOutbox** , **olFolderJunk** , **olFolderConflicts** , **olFolderLocalFailures** , **olFolderServerFailures** , **olFolderSyncIssues** , **olPublicFoldersAllPublicFolders** , **olFolderRssSubscriptions** , **olFolderToDo** , **olFolderManagedEmail** , and **olFolderSentMail** cannot be specified for this argument.)
+ _FolderType_ can be one of the following **OlDefaultFolders** constants: **olFolderCalendar**, **olFolderContacts**, **olFolderDrafts**, **olFolderInbox**, **olFolderJournal**, **olFolderNotes**, or **olFolderTasks**. (The constants **olFolderDeletedItems**, **olFolderOutbox**, **olFolderJunk**, **olFolderConflicts**, **olFolderLocalFailures**, **olFolderServerFailures**, **olFolderSyncIssues**, **olPublicFoldersAllPublicFolders**, **olFolderRssSubscriptions**, **olFolderToDo**, **olFolderManagedEmail**, and **olFolderSentMail** cannot be specified for this argument.)
 
 
 ## Example
@@ -99,3 +100,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

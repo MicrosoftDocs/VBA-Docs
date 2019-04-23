@@ -1,5 +1,5 @@
 ---
-title: Pane.SmallScroll Method (Word)
+title: Pane.SmallScroll method (Word)
 keywords: vbawd10.chm157286503
 f1_keywords:
 - vbawd10.chm157286503
@@ -8,19 +8,20 @@ api_name:
 - Word.Pane.SmallScroll
 ms.assetid: e4d82e4b-ed4e-0050-c6d9-67fb580dde6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.SmallScroll Method (Word)
+# Pane.SmallScroll method (Word)
 
 Scrolls a window by the specified number of lines.
 
 
 ## Syntax
 
- _expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ Any of these arguments can be a negative number. If no arguments are specified, 
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

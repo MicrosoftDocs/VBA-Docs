@@ -1,5 +1,5 @@
 ---
-title: IconView.Reset Method (Outlook)
+title: IconView.Reset method (Outlook)
 keywords: vbaol11.chm2564
 f1_keywords:
 - vbaol11.chm2564
@@ -8,19 +8,20 @@ api_name:
 - Outlook.IconView.Reset
 ms.assetid: 0cb48612-db32-19e4-1478-694898775752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconView.Reset Method (Outlook)
+# IconView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks
@@ -81,3 +82,4 @@ End Sub
 
 [IconView Object](Outlook.IconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

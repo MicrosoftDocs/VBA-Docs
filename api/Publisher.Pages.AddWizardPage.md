@@ -1,5 +1,5 @@
 ---
-title: Pages.AddWizardPage Method (Publisher)
+title: Pages.AddWizardPage method (Publisher)
 keywords: vbapb10.chm458758
 f1_keywords:
 - vbapb10.chm458758
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Pages.AddWizardPage
 ms.assetid: c56db218-d0f4-4f13-dfde-6198dc63cc81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.AddWizardPage Method (Publisher)
+# Pages.AddWizardPage method (Publisher)
 
 Adds the specified new wizard page to a specified location in a publication.
 
 
 ## Syntax
 
- _expression_. **AddWizardPage**(**_After_**,  **_PageType_**,  **_AddHyperlinkToWebNavBar_**)
+_expression_.**AddWizardPage**(**_After_**,  **_PageType_**,  **_AddHyperlinkToWebNavBar_**)
 
  _expression_ A variable that represents a  **Pages** object.
 
@@ -76,4 +77,4 @@ Sub InsertCatalogWizardPage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailItem.Send Method (Outlook)
+title: MailItem.Send method (Outlook)
 keywords: vbaol11.chm1369
 f1_keywords:
 - vbaol11.chm1369
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.Send
 ms.assetid: 78c85013-523e-447b-c47d-2da0705f1fe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Send Method (Outlook)
+# MailItem.Send method (Outlook)
 
-Sends the e-mail message.
+Sends the email message.
 
 
 ## Syntax
 
- _expression_. `Send`
+_expression_. `Send`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -46,12 +47,6 @@ End Sub
 
 ## See also
 
+- [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 
-[MailItem Object](Outlook.MailItem.md)
-
-
-
-[Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

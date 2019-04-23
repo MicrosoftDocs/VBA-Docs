@@ -1,34 +1,35 @@
 ---
-title: Chart.ApplyLayout Method (Project)
+title: Chart.ApplyLayout method (Project)
 keywords: vbapj.chm131609
 f1_keywords:
 - vbapj.chm131609
 ms.prod: project-server
 ms.assetid: 943ca7d6-aa2e-9058-f33b-4efd4138b497
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ApplyLayout Method (Project)
+# Chart.ApplyLayout method (Project)
 Applies the specified chart layout and chart type to a selected chart.
 
 ## Syntax
 
- _expression_. `ApplyLayout` _(Layout,_ _varChartType)_
+_expression_. `ApplyLayout` _(Layout,_ _varChartType)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**Long**|Specifies the type of layout, where the value corresponds to a  **Quick Layout** item on the ribbon.|
 | _varChartType_|Optional|**Variant**|Can be one of the  **Office.XlChartType** constants.|
 | _Layout_|Required|INT32||
-| _varChartType_|Optional|VARIANT||
+| _varChartType_|Optional|**Variant**||
 
 ## Return value
 
@@ -64,3 +65,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

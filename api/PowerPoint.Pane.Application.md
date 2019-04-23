@@ -1,5 +1,5 @@
 ---
-title: Pane.Application Property (PowerPoint)
+title: Pane.Application property (PowerPoint)
 keywords: vbapp10.chm631004
 f1_keywords:
 - vbapp10.chm631004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Pane.Application
 ms.assetid: dc40ba0a-23cd-cf07-d59b-dbe5f7d700d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.Application Property (PowerPoint)
+# Pane.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Pane](./PowerPoint.Pane.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Pane Object](PowerPoint.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

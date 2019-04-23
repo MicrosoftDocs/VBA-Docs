@@ -1,5 +1,5 @@
 ---
-title: Range.LookupNameProperties Method (Word)
+title: Range.LookupNameProperties method (Word)
 keywords: vbawd10.chm157155505
 f1_keywords:
 - vbawd10.chm157155505
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.LookupNameProperties
 ms.assetid: a3a0facf-898a-d8c9-033a-b48416b53266
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.LookupNameProperties Method (Word)
+# Range.LookupNameProperties method (Word)
 
 Looks up a name in the global address book list and displays the  **Properties** dialog box, which includes information about the specified name.
 
 
 ## Syntax
 
- _expression_. `LookupNameProperties`
+_expression_. `LookupNameProperties`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Selection.Range.LookupNameProperties
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

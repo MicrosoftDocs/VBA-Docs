@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 19b87999-4c51-4489-a367-63e9ac4f3623
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabel.Orientation Property (PowerPoint)](http://msdn.microsoft.com/library/2e7c4976-0549-9e03-6564-fb5db8667d64%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

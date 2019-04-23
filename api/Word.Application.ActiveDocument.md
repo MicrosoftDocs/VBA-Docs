@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveDocument Property (Word)
+title: Application.ActiveDocument property (Word)
 keywords: vbawd10.chm158334979
 f1_keywords:
 - vbawd10.chm158334979
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.ActiveDocument
 ms.assetid: c20a7c9f-f8a4-7913-f53f-10baa6807def
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveDocument Property (Word)
+# Application.ActiveDocument property (Word)
 
 Returns a  **[Document](Word.Document.md)** object that represents the active document (the document with the focus). If there are no documents open, an error occurs. Read-only.
 
@@ -21,7 +22,7 @@ Returns a  **[Document](Word.Document.md)** object that represents the active do
 
 ## Syntax
 
- _expression_. `ActiveDocument`
+_expression_. `ActiveDocument`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -77,3 +78,4 @@ ActiveDocument.PrintOut
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

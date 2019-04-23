@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: c54b9e38-941f-e861-ff94-3a29490ae56e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -89,3 +90,4 @@ If an application does not support Automation, DDE may be an alternative. DDE is
 |Close DDE channel| **[DDETerminate](../../../api/Word.Application.DDETerminate.md)**|
 |Close all DDE channels| **[DDETerminateAll](../../../api/Word.Application.DDETerminateAll.md)**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

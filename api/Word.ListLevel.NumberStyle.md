@@ -1,5 +1,5 @@
 ---
-title: ListLevel.NumberStyle Property (Word)
+title: ListLevel.NumberStyle property (Word)
 keywords: vbawd10.chm160235524
 f1_keywords:
 - vbawd10.chm160235524
@@ -8,19 +8,20 @@ api_name:
 - Word.ListLevel.NumberStyle
 ms.assetid: 1118eb25-3b57-3a9b-6323-ba8233636f3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.NumberStyle Property (Word)
+# ListLevel.NumberStyle property (Word)
 
-Returns or sets the number style for the  **ListLevel** object. Read/write **WdListNumberStyle** .
+Returns or sets the number style for the  **ListLevel** object. Read/write **WdListNumberStyle**.
 
 
 ## Syntax
 
- _expression_. `NumberStyle`
+_expression_. `NumberStyle`
 
- _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
+_expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Remarks
@@ -65,3 +66,4 @@ Next lt
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

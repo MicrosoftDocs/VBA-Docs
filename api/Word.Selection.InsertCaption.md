@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertCaption Method (Word)
+title: Selection.InsertCaption method (Word)
 keywords: vbawd10.chm158663073
 f1_keywords:
 - vbawd10.chm158663073
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertCaption
 ms.assetid: 848c1686-ca8c-d022-68f1-74a2f3d46498
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertCaption Method (Word)
+# Selection.InsertCaption method (Word)
 
 Inserts a caption immediately preceding or following the specified selection.
 
 
 ## Syntax
 
- _expression_. `InsertCaption`( `_Label_` , `_Title_` , `_TitleAutoText_` , `_Position_` , `_ExcludeLabel_` )
+_expression_. `InsertCaption`( `_Label_` , `_Title_` , `_TitleAutoText_` , `_Position_` , `_ExcludeLabel_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Selection.InsertCaption Label:="Figure", _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

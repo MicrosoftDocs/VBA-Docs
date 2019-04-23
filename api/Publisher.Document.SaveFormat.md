@@ -1,5 +1,5 @@
 ---
-title: Document.SaveFormat Property (Publisher)
+title: Document.SaveFormat property (Publisher)
 keywords: vbapb10.chm196656
 f1_keywords:
 - vbapb10.chm196656
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.SaveFormat
 ms.assetid: 545f0411-899f-ffe3-e844-8c2922a357f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SaveFormat Property (Publisher)
+# Document.SaveFormat property (Publisher)
 
 Indicates the file format of the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. **SaveFormat**
+_expression_.**SaveFormat**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -48,4 +49,4 @@ Sub SaveAsRTF()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

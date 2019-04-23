@@ -1,14 +1,15 @@
 ---
-title: WdCustomLabelPageSize Enumeration (Word)
+title: WdCustomLabelPageSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCustomLabelPageSize
 ms.assetid: 3d12994c-6576-1741-b9ba-cce264e538d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCustomLabelPageSize Enumeration (Word)
+# WdCustomLabelPageSize enumeration (Word)
 
 Specifies the page size for a custom mailing label.
 
@@ -31,3 +32,4 @@ Specifies the page size for a custom mailing label.
 | **wdCustomLabelVertHalfSheet**|9|Half-sheet portrait label dimensions.|
 | **wdCustomLabelVertHalfSheetLS**|10|Half-sheet landscape label dimensions.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

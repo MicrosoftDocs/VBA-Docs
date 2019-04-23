@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 201e79d9-8e9b-0ff4-5f6e-dcdd3911b08a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -46,4 +47,4 @@ End If
 
 [Model Object Members](overview/Excel.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideRange.SlideID Property (PowerPoint)
+title: SlideRange.SlideID property (PowerPoint)
 keywords: vbapp10.chm532009
 f1_keywords:
 - vbapp10.chm532009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.SlideID
 ms.assetid: e634a278-c7ff-bff1-d66c-7e12d2063af6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.SlideID Property (PowerPoint)
+# SlideRange.SlideID property (PowerPoint)
 
 Returns a unique ID number for the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideID`
+_expression_. `SlideID`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -55,3 +56,4 @@ gslides.FindBySlideID(graphSlideID) _
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

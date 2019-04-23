@@ -8,6 +8,7 @@ api_name:
 - Excel.Sort.Application
 ms.assetid: 1aac5249-48ef-7706-80f7-a8a377072c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [Sort Object](Excel.Sort.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

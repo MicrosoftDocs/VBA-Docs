@@ -9,6 +9,7 @@ api_name:
 - Access.LogMessages
 ms.assetid: 848f215b-50aa-22f4-264c-ff7d00347aa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,7 +27,7 @@ You can use the **LogMessages** property in an SQL pass-through query to specify
 
 The **LogMessages** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|Microsoft Access stores messages returned from the SQL database in a messages table.|
 |No|**False** (0)|(Default) Microsoft Access doesn't store messages returned from the SQL database.|
@@ -49,3 +50,5 @@ The name of the messages table where the returned messages are stored is  _usern
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

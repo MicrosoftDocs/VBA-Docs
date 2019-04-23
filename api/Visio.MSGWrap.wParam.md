@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.wParam Property (Visio)
+title: MSGWrap.wParam property (Visio)
 keywords: vis_sdr.chm16150930
 f1_keywords:
 - vis_sdr.chm16150930
@@ -8,17 +8,18 @@ api_name:
 - Visio.MSGWrap.wParam
 ms.assetid: 1f0e1aa9-63ea-e73e-2e51-8eb3e4bd8393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MSGWrap.wParam Property (Visio)
+# MSGWrap.wParam property (Visio)
 
 Gets or sets the  **wParam** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `wParam`
+_expression_. `wParam`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
@@ -34,4 +35,4 @@ The  **wParam** property corresponds to the **wParam** member ofn the **MSG** st
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

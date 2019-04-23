@@ -1,5 +1,5 @@
 ---
-title: Shape.Script Property (Word)
+title: Shape.Script property (Word)
 keywords: vbawd10.chm161481207
 f1_keywords:
 - vbawd10.chm161481207
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.Script
 ms.assetid: d98f64f8-e097-fb56-736f-1247dcbdd3af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Script Property (Word)
+# Shape.Script property (Word)
 
 Returns a  **Script** object, which represents a block of script or code for an image on a Web page.
 
 
 ## Syntax
 
- _expression_. `Script`
+_expression_. `Script`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End If
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: eed3b78e-310a-98fa-5cf9-32edaab0402f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,7 +17,7 @@ To successfully launch a custom business object (.dll or .exe) through the Web s
 > [!NOTE] 
 > For MDAC 2.0 and later, the default business object **RDSServer.DataFactory** is not registered by default during MDAC installation. However, if **RDSServer.DataFactory** was registered as safe for execution on the computer prior to the installation, the registry entry is maintained for the new installation.
 
-### To register a custom business object
+**To register a custom business object**
 
 1. Click **Start**, and then click **Run**.
     
@@ -36,3 +37,5 @@ To successfully launch a custom business object (.dll or .exe) through the Web s
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

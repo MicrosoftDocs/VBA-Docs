@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMap.Creator
 ms.assetid: a66d485c-8d92-edee-63dc-13c70d5faa53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # XmlMap.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

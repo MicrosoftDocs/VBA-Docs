@@ -1,5 +1,5 @@
 ---
-title: PostItem.GetConversation Method (Outlook)
+title: PostItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3407
 f1_keywords:
 - vbaol11.chm3407
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.GetConversation
 ms.assetid: f5912703-d064-5e4a-b3ae-5091d791cb87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.GetConversation Method (Outlook)
+# PostItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[PostItem](Outlook.PostItem.md)' object.
+_expression_ A variable that represents a '[PostItem](Outlook.PostItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

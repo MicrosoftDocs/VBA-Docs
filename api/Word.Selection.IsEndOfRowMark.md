@@ -1,5 +1,5 @@
 ---
-title: Selection.IsEndOfRowMark Property (Word)
+title: Selection.IsEndOfRowMark property (Word)
 keywords: vbawd10.chm158662963
 f1_keywords:
 - vbawd10.chm158662963
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.IsEndOfRowMark
 ms.assetid: 0729a8f2-628c-902b-fca1-488742234873
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.IsEndOfRowMark Property (Word)
+# Selection.IsEndOfRowMark property (Word)
 
- **True** if the specified selection or range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean** .
+ **True** if the specified selection or range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsEndOfRowMark`
+_expression_. `IsEndOfRowMark`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

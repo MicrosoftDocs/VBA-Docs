@@ -1,5 +1,5 @@
 ---
-title: Field.Next Property (Word)
+title: Field.Next property (Word)
 keywords: vbawd10.chm154075142
 f1_keywords:
 - vbawd10.chm154075142
@@ -8,17 +8,18 @@ api_name:
 - Word.Field.Next
 ms.assetid: be828737-6ac4-9986-4b57-187a7198898d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Next Property (Word)
+# Field.Next property (Word)
 
 Returns the next object in the collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Next`
+_expression_.**Next**
 
  _expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
@@ -44,3 +45,4 @@ End If
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Table Object (Word)
+title: Table object (Word)
 keywords: vbawd10.chm2385
 f1_keywords:
 - vbawd10.chm2385
@@ -8,10 +8,11 @@ api_name:
 - Word.Table
 ms.assetid: 996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table Object (Word)
+# Table object (Word)
 
 Represents a single table. The  **Table** object is a member of the **[Tables](./Word.tables.md)** collection. The **Tables** collection includes all the tables in the specified selection, range, or document.
 
@@ -40,7 +41,7 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyStyleDirectFormatting](./Word.Table.ApplyStyleDirectFormatting.md)|
 |[AutoFitBehavior](./Word.Table.AutoFitBehavior.md)|
@@ -59,7 +60,7 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowAutoFit](./Word.Table.AllowAutoFit.md)|
 |[Application](./Word.Table.Application.md)|
@@ -96,5 +97,6 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

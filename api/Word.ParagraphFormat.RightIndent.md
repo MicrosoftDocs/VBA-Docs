@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.RightIndent Property (Word)
+title: ParagraphFormat.RightIndent property (Word)
 keywords: vbawd10.chm156434538
 f1_keywords:
 - vbawd10.chm156434538
@@ -8,19 +8,20 @@ api_name:
 - Word.ParagraphFormat.RightIndent
 ms.assetid: de69209e-d88d-d367-9d84-94faa07a30bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.RightIndent Property (Word)
+# ParagraphFormat.RightIndent property (Word)
 
-Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RightIndent`
+_expression_. `RightIndent`
 
- _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.Paragraphs.RightIndent = InchesToPoints(1)
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

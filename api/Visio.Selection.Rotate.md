@@ -1,5 +1,5 @@
 ---
-title: Selection.Rotate Method (Visio)
+title: Selection.Rotate method (Visio)
 keywords: vis_sdr.chm11151330
 f1_keywords:
 - vis_sdr.chm11151330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Rotate
 ms.assetid: 3c0a1a4d-a172-131a-9fb4-d215a5b9b2af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Rotate Method (Visio)
+# Selection.Rotate method (Visio)
 
 Rotates selected shapes either as a group or individually about their pins.
 
 
 ## Syntax
 
- _expression_. `Rotate`( `_Angle_` , `_AngleUnitsNameOrCode_` , `_BlastGuards_` , `_RotationType_` , `_PinX_` , `_PinY_` , `_PinUnitsNameOrCode_` )
+_expression_. `Rotate`( `_Angle_` , `_AngleUnitsNameOrCode_` , `_BlastGuards_` , `_RotationType_` , `_PinX_` , `_PinY_` , `_PinUnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -31,10 +32,10 @@ Rotates selected shapes either as a group or individually about their pins.
 |:-----|:-----|:-----|:-----|
 | _Angle_|Required| **Double**|Specifies the angle to rotate the selection. See Remarks for possible values.|
 | _AngleUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _Angle_. See Remarks for possible values. The default is degrees.|
-| _BlastGuards_|Optional| **Boolean**| **True** to override formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied; **False** to leave guarded formulas unchanged. The default is **False** .|
-| _RotationType_|Optional| **VisRotationTypes**|Specifes how the selection is to be rotated. See Remarks for possible values.|
-| _PinX_|Optional| **Double**|When  _RotationType_ is **visRotateSelectionWithPin** , specifies the X-position of the pin about which the selection is to be rotated.|
-| _PinY_|Optional| **Double**| When _RotationType_ is **visRotateSelectionWithPin** , specifies the Y-position of the pin about which the selection is to be rotated.|
+| _BlastGuards_|Optional| **Boolean**| **True** to override formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied; **False** to leave guarded formulas unchanged. The default is **False**.|
+| _RotationType_|Optional| **VisRotationTypes**|Specifies how the selection is to be rotated. See Remarks for possible values.|
+| _PinX_|Optional| **Double**|When  _RotationType_ is **visRotateSelectionWithPin**, specifies the X-position of the pin about which the selection is to be rotated.|
+| _PinY_|Optional| **Double**| When _RotationType_ is **visRotateSelectionWithPin**, specifies the Y-position of the pin about which the selection is to be rotated.|
 | _PinUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _PinX_ and _PinY_. See Remarks for possible values. The default is inches.|
 
 ## Return value
@@ -48,7 +49,7 @@ The following possible values for  _RotationType_ are declared in **VisRotationT
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRotateSelectionWithPin**|1|Rotates the selection around a pin.|
 | **visRotateSelection**|0|Rotates the selection relative to the center of the selection.|
@@ -56,7 +57,7 @@ The following possible values for  _RotationType_ are declared in **VisRotationT
 
 Passing  **True** for the optional _BlastGuards_ argument overrides formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied.
 
-The default value for  _RotationType_ is **visRotateSelection** .
+The default value for  _RotationType_ is **visRotateSelection**.
 
 You can specify  _AngleUnitsNameOrCode_ or _PinUnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)**) or a string value such as "radians" or "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
 
@@ -87,4 +88,4 @@ Public Sub Rotate_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

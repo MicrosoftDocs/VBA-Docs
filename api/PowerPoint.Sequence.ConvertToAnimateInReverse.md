@@ -1,5 +1,5 @@
 ---
-title: Sequence.ConvertToAnimateInReverse Method (PowerPoint)
+title: Sequence.ConvertToAnimateInReverse method (PowerPoint)
 keywords: vbapp10.chm651011
 f1_keywords:
 - vbapp10.chm651011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Sequence.ConvertToAnimateInReverse
 ms.assetid: dabea9a8-1ac5-6e2a-1932-7051efb9577d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sequence.ConvertToAnimateInReverse Method (PowerPoint)
+# Sequence.ConvertToAnimateInReverse method (PowerPoint)
 
 Determines whether text will be animated in reverse order. Returns an  **[Effect](PowerPoint.Effect.md)** object representing the text animation.
 
 
 ## Syntax
 
- _expression_. `ConvertToAnimateInReverse`( `_Effect_`, `_animateInReverse_` )
+_expression_. `ConvertToAnimateInReverse`( `_Effect_`, `_animateInReverse_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
@@ -30,7 +31,7 @@ Determines whether text will be animated in reverse order. Returns an  **[Effect
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**|The animation effect to which the reversal will apply.|
-| _animateInReverse_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines the text animation order.|
+| _animateInReverse_|Required|**[MsoTriState](Office.MsoTriState.md)**|Determines the text animation order.|
 
 ## Return value
 
@@ -77,3 +78,4 @@ End Sub
 
 [Sequence Object](PowerPoint.Sequence.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

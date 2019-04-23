@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.HangulAndAlphabetExceptions Property (Word)
+title: AutoCorrect.HangulAndAlphabetExceptions property (Word)
 keywords: vbawd10.chm155779085
 f1_keywords:
 - vbawd10.chm155779085
@@ -8,17 +8,18 @@ api_name:
 - Word.AutoCorrect.HangulAndAlphabetExceptions
 ms.assetid: afb525ff-be41-c260-5210-f6ef930b8b04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrect.HangulAndAlphabetExceptions Property (Word)
+# AutoCorrect.HangulAndAlphabetExceptions property (Word)
 
 Returns a  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection that represents the list of Hangul and alphabet AutoCorrect exceptions.
 
 
 ## Syntax
 
- _expression_. `HangulAndAlphabetExceptions`
+_expression_. `HangulAndAlphabetExceptions`
 
  _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
@@ -54,3 +55,4 @@ Next anEntry
 
 [AutoCorrect Object](Word.AutoCorrect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

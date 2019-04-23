@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveStartWhile Method (Word)
+title: Selection.MoveStartWhile method (Word)
 keywords: vbawd10.chm158662769
 f1_keywords:
 - vbawd10.chm158662769
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveStartWhile
 ms.assetid: b6e33ffc-a07f-2ef9-0e35-55aaf256f098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveStartWhile Method (Word)
+# Selection.MoveStartWhile method (Word)
 
 Moves the start position of the specified selection while any of the specified characters are found in the document.
 
 
 ## Syntax
 
- _expression_. `MoveStartWhile`( `_Cset_` , `_Count_` )
+_expression_. `MoveStartWhile`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the start position of the specified selection while any of the specified c
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
 
 ## Remarks
 
@@ -61,3 +62,4 @@ Selection.MoveStartWhile Cset:="abcdefgh", Count:=-10
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

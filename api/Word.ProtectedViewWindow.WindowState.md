@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.WindowState Property (Word)
+title: ProtectedViewWindow.WindowState property (Word)
 keywords: vbawd10.chm231735302
 f1_keywords:
 - vbawd10.chm231735302
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindow.WindowState
 ms.assetid: 858036ac-b0f2-f312-81f2-d02ace00b2fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.WindowState Property (Word)
+# ProtectedViewWindow.WindowState property (Word)
 
 Returns or sets the state of the specified protected view window. Read/write [WdWindowState](Word.WdWindowState.md).
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 
@@ -43,3 +44,4 @@ ActiveProtectedViewWindow.WindowState = wdWindowStateMinimize
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

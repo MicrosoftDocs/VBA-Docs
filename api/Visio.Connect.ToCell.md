@@ -1,5 +1,5 @@
 ---
-title: Connect.ToCell Property (Visio)
+title: Connect.ToCell property (Visio)
 keywords: vis_sdr.chm10314545
 f1_keywords:
 - vis_sdr.chm10314545
@@ -8,17 +8,18 @@ api_name:
 - Visio.Connect.ToCell
 ms.assetid: 2210e427-132d-d713-02bf-0fd19ce225b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect.ToCell Property (Visio)
+# Connect.ToCell property (Visio)
 
 Gets the cell to which a connection is made. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToCell`
+_expression_. `ToCell`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
@@ -34,30 +35,30 @@ A connection is defined by a reference in a cell in the shape from which the con
 
 Following is a list of possible connections and their related  **ToCell** property values.
 
- **From the begin or end cell of a 1-D shape to...**
+ **From the begin or end cell of a 1D shape to...**
 
 
 
 
 -  **A connection point cell:** The **ToCell** property returns the Connection.X _i_ cell.
     
--  **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and the other from the endpoint's Y cell to the guide's Angle cell. The **ToCell** property of both **Connect** objects returns the Angle cell.
+-  **A cell of a guide or guide point:** When the begin or end cell of a 1D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and the other from the endpoint's Y cell to the guide's Angle cell. The **ToCell** property of both **Connect** objects returns the Angle cell.
     
--  **The pin of a 2-D shape (creates dynamic glue):** The **ToCell** property returns the PinX cell.
+-  **The pin of a 2D shape (creates dynamic glue):** The **ToCell** property returns the PinX cell.
     
 -  **Any cell of a vertex row in a Geometry section:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
--  **The begin or end cell of a 1-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+-  **The begin or end cell of a 1D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+-  **The edge (a cell in the Alignment section) of a 2D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
 
 
- **From the edge (a cell in the Alignment section) of a 2-D shape to acell of a guide or guide point:** The **ToCell** property returns the Angle cell.
+ **From the edge (a cell in the Alignment section) of a 2D shape to acell of a guide or guide point:** The **ToCell** property returns the Angle cell.
 
- **From an outward or inward/outward connection point cell of a 1-D shape to An inward or inward/outward connection point cell that is not a cell of a guide or guide point:** When these cells are glued, two connections are created—one from the BeginX cell of the 1-D shape to the Connections.X _i_ cell, and the other from the EndX cell of the 1-D shape to the Connections.Y _i_ cell. The **ToCell** property returns Connections.X _i_ for the first **Connect** object and Connections.Y _i_ for the other.
+ **From an outward or inward/outward connection point cell of a 1D shape to An inward or inward/outward connection point cell that is not a cell of a guide or guide point:** When these cells are glued, two connections are created—one from the BeginX cell of the 1D shape to the Connections.X _i_ cell, and the other from the EndX cell of the 1D shape to the Connections.Y _i_ cell. The **ToCell** property returns Connections.X _i_ for the first **Connect** object and Connections.Y _i_ for the other.
 
- **From an outward or inward/outward connection point cell of a 2-D shape that is not a guide or guide point to an inward or inward/outward type connection point cell that is not a cell of a guide or guide point:** If the outward connection point is directionless, the **ToCell** property returns the Connections.X _i_ cell. If the outward connection point has a direction, two connection points are created. The **ToCell** property returns the Connections.X _i_ cell for both **Connect** objects.
+ **From an outward or inward/outward connection point cell of a 2D shape that is not a guide or guide point to an inward or inward/outward type connection point cell that is not a cell of a guide or guide point:** If the outward connection point is directionless, the **ToCell** property returns the Connections.X _i_ cell. If the outward connection point has a direction, two connection points are created. The **ToCell** property returns the Connections.X _i_ cell for both **Connect** objects.
 
  **From a control handle to...**
 
@@ -70,9 +71,9 @@ Following is a list of possible connections and their related  **ToCell** proper
     
 -  **Any cell of a vertex row in a Geometry section:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
     
--  **The begin or end cell of a 1-D shape:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
+-  **The begin or end cell of a 1D shape:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+-  **The edge (a cell in the Alignment section) of a 2D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
 
 
@@ -123,12 +124,12 @@ Public Sub ToCell_Example()
  Set vsoCellGlueToObject = vso2DShape1.Cells("Geometry1.X3") 
  Set vsoCellGlueToObject2 = vso2DShape2.Cells("Geometry1.X1") 
  
- 'Use the GlueTo method to glue the begin point of the 1-D shape 
- 'to the top right vertex (Geometry1.X3) of the lower 2-D shape. 
+ 'Use the GlueTo method to glue the begin point of the 1D shape 
+ 'to the top right vertex (Geometry1.X3) of the lower 2D shape. 
  vsoCellGlueFromBegin.GlueTo vsoCellGlueToObject 
  
- 'Use the GlueTo method to glue the endpoint of the 1-D shape 
- 'to the bottom left vertex (Geometry1.X1) of the upper 2-D shape. 
+ 'Use the GlueTo method to glue the endpoint of the 1D shape 
+ 'to the bottom left vertex (Geometry1.X1) of the upper 2D shape. 
  vsoCellGlueFromEnd.GlueTo vsoCellGlueToObject2 
  
  Set vsoShapes = ActivePage.Shapes 
@@ -155,4 +156,4 @@ Public Sub ToCell_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

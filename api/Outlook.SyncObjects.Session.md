@@ -1,5 +1,5 @@
 ---
-title: SyncObjects.Session Property (Outlook)
+title: SyncObjects.Session property (Outlook)
 keywords: vbaol11.chm97
 f1_keywords:
 - vbaol11.chm97
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SyncObjects.Session
 ms.assetid: 443c2e6d-fda7-8230-b3b1-bd87cccafe23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObjects.Session Property (Outlook)
+# SyncObjects.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
+_expression_ A variable that represents a [SyncObjects](Outlook.SyncObjects.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [SyncObjects Object](Outlook.SyncObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

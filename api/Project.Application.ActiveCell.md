@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveCell Property (Project)
+title: Application.ActiveCell property (Project)
 keywords: vbapj.chm131368
 f1_keywords:
 - vbapj.chm131368
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ActiveCell
 ms.assetid: 880931d8-fc23-7938-e4fe-bd800eeae318
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveCell Property (Project)
+# Application.ActiveCell property (Project)
 
 Gets a  **[Cell](Project.Cell.md)** object that represents the active cell. Read-only **Cell**.
 
 
 ## Syntax
 
- _expression_. `ActiveCell`
+_expression_. `ActiveCell`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Sub ResourceNames()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

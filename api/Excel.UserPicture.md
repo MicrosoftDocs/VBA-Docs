@@ -1,5 +1,5 @@
 ---
-title: UserPicture Method
+title: UserPicture method (Excel Graph)
 keywords: vbagr10.chm67165
 f1_keywords:
 - vbagr10.chm67165
@@ -7,42 +7,34 @@ ms.prod: excel
 api_name:
 - Excel.UserPicture
 ms.assetid: ad8e3079-c063-2bb6-e462-11a0e8ecfba6
-ms.date: 06/08/2017
+ms.date: 04/09/2019
+localization_priority: Normal
 ---
 
 
-# UserPicture Method
+# UserPicture method (Excel Graph)
 
 Fills the specified shape with an image.
 
- _expression_. `UserPicture`( `_PictureFile_`,  `_PictureFormat_`,  `_PictureStackUnit_`,  `_PicturePlacement_`)
+## Syntax
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+_expression_.**UserPicture** (_PictureFile_, _PictureFormat_, _PictureStackUnit_, _PicturePlacement_)
 
- **PictureFile** Required **Variant**. The name of the specified picture file.
- **PictureFormat** Optional
- **XlChartPictureType**
-. The format of the specified picture.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
-|XlChartPictureType can be one of these XlChartPictureType constants.|
-| **xlScale**|
-| **xlStackScale** **xlStack** **xlStretch**|
+## Parameters
 
- **PictureStackUnit** Optional **Variant**. The stack or scale unit for the specified picture (depends on the  **_PictureFormat_** argument).
- **PicturePlacement** Optional
- **XlChartPicturePlacement**
-. The placement of the specified picture.
-
-
-|XlChartPicturePlacement can be one of these XlChartPicturePlacement constants.|
-| **xlSides**|
-| **xlEnd** **xlEndSides** **xlFront** **xlFrontSides** **xlFrontEnd** **xlAllFaces**|
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_PictureFile_ |Required |**Variant**|The name of the specified picture file.|
+|_PictureFormat_ |Optional|**[XlChartPictureType](excel.xlchartpicturetype.md)**|The format of the specified picture. Can be one of the **XlChartPictureType** constants.|
+|_PictureStackUnit_ |Optional |**Variant**|The stack or scale unit for the specified picture (depends on the _PictureFormat_ argument).|
+|_PicturePlacement_ |Optional|**[XlChartPicturePlacement](excel.xlchartpictureplacement.md)**|The placement of the specified picture. Can be one of the **XlChartPicturePlacement** constants.|
 
 ## Example
 
 This example sets the chart's fill format so that it's based on a user-supplied picture.
-
 
 ```vb
 With myChart.ChartArea.Fill 
@@ -51,4 +43,4 @@ With myChart.ChartArea.Fill
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

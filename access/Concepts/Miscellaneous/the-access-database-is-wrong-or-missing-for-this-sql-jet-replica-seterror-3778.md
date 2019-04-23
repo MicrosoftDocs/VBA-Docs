@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 21c104f6-06cb-f3b5-aa9e-098dca92c223
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,7 +27,7 @@ The Microsoft Access database specified is wrong or missing because:
 - The database specified is not replicable.
     
 
-The solution is to re-initailize your Jet Subscriber using the Re-Initialize tools on the SQL Server.
+The solution is to re-initialize your Jet Subscriber using the Re-Initialize tools on the SQL Server.
 
 ## See also
 
@@ -36,3 +37,5 @@ The solution is to re-initailize your Jet Subscriber using the Re-Initialize too
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

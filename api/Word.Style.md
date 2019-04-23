@@ -1,5 +1,5 @@
 ---
-title: Style Object (Word)
+title: Style object (Word)
 keywords: vbawd10.chm2348
 f1_keywords:
 - vbawd10.chm2348
@@ -8,10 +8,11 @@ api_name:
 - Word.Style
 ms.assetid: 473f8f41-2cba-769e-c0da-441d9d85b009
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style Object (Word)
+# Style object (Word)
 
 Represents a single built-in or user-defined style. The  **Style** object includes style attributes (such as font, font style, and paragraph spacing) as properties of the **Style** object. The **Style** object is a member of the **Styles** collection. The **[Styles](Word.styles.md)** collection includes all the styles in the specified document.
 
@@ -84,6 +85,6 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.Priority
 ms.assetid: 27d0a82a-b69b-de94-ff90-dbd3bd5a02fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_.**Priority**
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

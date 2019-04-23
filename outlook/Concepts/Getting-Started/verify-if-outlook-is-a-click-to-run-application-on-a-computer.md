@@ -3,6 +3,7 @@ title: Verify Whether Outlook Is a Click-to-Run Application on a Computer
 ms.prod: outlook
 ms.assetid: 4cdf9767-19b2-3976-460a-9470f5abac23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,11 +19,8 @@ To check whether Outlook was delivered by Click-to-Run on a client computer:
 
 - Verify if the  `VirtualOutlook` key exists in the following location in the Windows registry:
     
-```text
-HKEY_LOCAL_MACHINE\Software\Microsoft\Office\15.0\Common\InstallRoot\Virtual\VirtualOutlook
-```
+    HKEY_LOCAL_MACHINE\Software\Microsoft\Office\15.0\Common\InstallRoot\Virtual\VirtualOutlook
 
 -  The `VirtualOutlook` key is a REG_SZ value that contains the culture tag of the installed product language, such as "en-us".
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

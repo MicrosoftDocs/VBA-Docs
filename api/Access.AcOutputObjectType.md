@@ -8,14 +8,15 @@ api_name:
 - Access.AcOutputObjectType
 ms.assetid: 07352409-f01a-84d0-495d-87c318223e5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcOutputObjectType enumeration (Access)
 
-Specifies the type of object to output when using the  **OutputTo** method.
+Specifies the type of object to output when using the **OutputTo** method.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -28,3 +29,4 @@ Specifies the type of object to output when using the  **OutputTo** method.
 |**acOutputStoredProcedure**|9|Stored Procedure|
 |**acOutputTable**|0|Table|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

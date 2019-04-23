@@ -1,5 +1,5 @@
 ---
-title: Application.ZoomOut Method (Project)
+title: Application.ZoomOut method (Project)
 keywords: vbapj.chm2035
 f1_keywords:
 - vbapj.chm2035
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ZoomOut
 ms.assetid: d72dae84-638c-76c7-2de1-4b02b0a0a731
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ZoomOut Method (Project)
+# Application.ZoomOut method (Project)
 
 Zooms out from the active view. Not available on the Resource Sheet, Task Sheet, or any of the form views.
 
 
 ## Syntax
 
- _expression_. `ZoomOut`
+_expression_. `ZoomOut`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,4 +28,4 @@ Zooms out from the active view. Not available on the Resource Sheet, Task Sheet,
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

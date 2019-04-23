@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTableChangeList.Parent
 ms.assetid: 27a1c04f-91d3-77f6-0efb-8262c7816f6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent  **[PivotTable](Excel.PivotTable.md)** object for the specifi
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [PivotTableChangeList](Excel.PivotTableChangeList.md) object.
+_expression_ A variable that represents a [PivotTableChangeList](Excel.PivotTableChangeList.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent  **[PivotTable](Excel.PivotTable.md)** object for the specifi
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

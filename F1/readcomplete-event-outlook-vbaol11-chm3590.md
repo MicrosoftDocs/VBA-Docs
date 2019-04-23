@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 806b65fc-795e-4eca-a877-f40933acfae1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [DistListItem.ReadComplete Event (Outlook)](http://msdn.microsoft.com/library/0135661c-ed4d-406d-5771-dbcaf160ffc4%28Office.15%29.aspx)
 [TaskRequestAcceptItem.ReadComplete Event (Outlook)](http://msdn.microsoft.com/library/95718369-d2f8-31b9-145a-f53f242c0bfa%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

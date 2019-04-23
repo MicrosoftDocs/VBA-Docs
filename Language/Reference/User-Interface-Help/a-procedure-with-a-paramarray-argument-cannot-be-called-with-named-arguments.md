@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 59cbcba9-b3bf-5e5d-1002-5529fa6226ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,4 +30,4 @@ All [arguments](../../Glossary/vbe-glossary.md#argument) in a call to a [procedu
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotLineCells.Creator
 ms.assetid: c57dddd7-1ea3-6ba6-c8de-ebc2d68f7697
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotLineCells.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
+_expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotLineCells Object](Excel.PivotLineCells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

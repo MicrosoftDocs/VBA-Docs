@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.ChildItems
 ms.assetid: c05a0e29-86a2-d71f-c2f0-f5395f6897fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
 ## Syntax
 
- _expression_. `ChildItems`( `_Index_` )
+_expression_. `ChildItems` (_Index_)
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Next pvtItem
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

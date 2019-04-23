@@ -1,23 +1,24 @@
 ---
-title: Columns.Count Property (PowerPoint)
+title: Columns.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Columns.Count
 ms.assetid: d23ac7d2-080f-9981-b502-16ba11d811e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Count Property (PowerPoint)
+# Columns.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
+_expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 
 
 ## Return value
@@ -48,3 +49,4 @@ End With
 
 [Columns Object](PowerPoint.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

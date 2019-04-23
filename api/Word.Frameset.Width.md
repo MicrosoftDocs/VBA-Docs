@@ -1,5 +1,5 @@
 ---
-title: Frameset.Width Property (Word)
+title: Frameset.Width property (Word)
 keywords: vbawd10.chm165806083
 f1_keywords:
 - vbawd10.chm165806083
@@ -8,17 +8,18 @@ api_name:
 - Word.Frameset.Width
 ms.assetid: 08c2c81a-119f-18ab-fa6e-5a21ab673cba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frameset.Width Property (Word)
+# Frameset.Width property (Word)
 
-Returns or sets the width (in points) of the specified  **Frameset** object. Read/write **Long** .
+Returns or sets the width (in points) of the specified  **Frameset** object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

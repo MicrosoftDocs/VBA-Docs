@@ -1,5 +1,5 @@
 ---
-title: Window.Select Method (Visio)
+title: Window.Select method (Visio)
 keywords: vis_sdr.chm11616530
 f1_keywords:
 - vis_sdr.chm11616530
@@ -8,19 +8,20 @@ api_name:
 - Visio.Window.Select
 ms.assetid: 04394905-0b6b-a07d-4085-a46cecf8afe3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Select Method (Visio)
+# Window.Select method (Visio)
 
 Selects or clears an object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_SheetObject_` , `_SelectAction_` )
+_expression_.**Select** (_SheetObject_, _SelectAction_)
 
- _expression_ A variable that represents a [Window](./Visio.Window.md) object.
+_expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ## Parameters
@@ -53,13 +54,13 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 | **visSelectAll**|4|Selects a shape and all its peers.|
 | **visDeselectAll**|256|Cancels the selection of a shape and all its peers.|
 
-If SelectAction is  **visSubSelect** , the parent shape of SheetObject must already be selected.
+If SelectAction is  **visSubSelect**, the parent shape of SheetObject must already be selected.
 
 You can combine  **visDeselectAll** with **visSelect** and **visSubSelect** to clear all shapes prior to selecting or subselecting other shapes.
 
 If the object being operated on is a  **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
 
-If the object being operated on is a  **Window** object, and if SelectAction is not **visSubSelect** , the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
+If the object being operated on is a  **Window** object, and if SelectAction is not **visSubSelect**, the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
@@ -140,4 +141,4 @@ Public Sub Select_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

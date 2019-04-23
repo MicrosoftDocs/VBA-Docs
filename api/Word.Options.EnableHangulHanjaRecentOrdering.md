@@ -1,5 +1,5 @@
 ---
-title: Options.EnableHangulHanjaRecentOrdering Property (Word)
+title: Options.EnableHangulHanjaRecentOrdering property (Word)
 keywords: vbawd10.chm162988374
 f1_keywords:
 - vbawd10.chm162988374
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.EnableHangulHanjaRecentOrdering
 ms.assetid: 2b34789f-2bbb-b062-c3da-157f5d51cce8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.EnableHangulHanjaRecentOrdering Property (Word)
+# Options.EnableHangulHanjaRecentOrdering property (Word)
 
- **True** if Microsoft Word displays the most recently used words at the top of the suggestions list during conversion between Hangul and Hanja. Read/write **Boolean** .
+ **True** if Microsoft Word displays the most recently used words at the top of the suggestions list during conversion between Hangul and Hanja. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableHangulHanjaRecentOrdering`
+_expression_. `EnableHangulHanjaRecentOrdering`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -44,3 +45,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.FilterEffect Property (PowerPoint)
+title: AnimationBehavior.FilterEffect property (PowerPoint)
 keywords: vbapp10.chm657014
 f1_keywords:
 - vbapp10.chm657014
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.FilterEffect
 ms.assetid: e661aea9-f83d-db2e-6988-4bc1f9e15287
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.FilterEffect Property (PowerPoint)
+# AnimationBehavior.FilterEffect property (PowerPoint)
 
 Returns a  **FilterEffect** object that represents a filter effect for an animation behavior. Read-only.
 
 
 ## Syntax
 
- _expression_. `FilterEffect`
+_expression_. `FilterEffect`
 
- _expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -64,3 +65,4 @@ End Sub
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Task.ActualCost Property (Project)
+title: Task.ActualCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.ActualCost
 ms.assetid: 92ddad12-a95e-ac73-e57e-fc1f30e81be8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.ActualCost Property (Project)
+# Task.ActualCost property (Project)
 
 Gets or sets the actual cost for the task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualCost`
+_expression_. `ActualCost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -66,4 +67,4 @@ Sub GetActualCostsForTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

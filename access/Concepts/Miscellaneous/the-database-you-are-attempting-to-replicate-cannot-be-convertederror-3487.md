@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e6116662-4802-2b26-6aa3-80fd1b27a0f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Only databases created with version 3.0 or later of the Microsoft Jet database e
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

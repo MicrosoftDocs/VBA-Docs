@@ -1,5 +1,5 @@
 ---
-title: Page.ExportEmailHTML Method (Publisher)
+title: Page.ExportEmailHTML method (Publisher)
 keywords: vbapb10.chm393273
 f1_keywords:
 - vbapb10.chm393273
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.ExportEmailHTML
 ms.assetid: 6257e9b5-26b5-73ae-7d40-50dd0a764488
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.ExportEmailHTML Method (Publisher)
+# Page.ExportEmailHTML method (Publisher)
 
 Exports the active page of the publication as an HTML file.
 
 
 ## Syntax
 
- _expression_. **ExportEmailHTML**(**_Filename_**)
+_expression_.**ExportEmailHTML**(**_FileName_**)
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -55,4 +56,4 @@ Sub ExportEmail()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

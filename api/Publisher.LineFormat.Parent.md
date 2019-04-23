@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Parent Property (Publisher)
+title: LineFormat.Parent property (Publisher)
 keywords: vbapb10.chm3407874
 f1_keywords:
 - vbapb10.chm3407874
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.Parent
 ms.assetid: 08fdf1b4-cfda-989d-faa4-0614aa15d157
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Parent Property (Publisher)
+# LineFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

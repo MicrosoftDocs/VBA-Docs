@@ -3,6 +3,7 @@ title: Frame.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 65b9ece4-bac7-dcb6-5f96-e321a11bfc94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ You can use any integer that represents a valid color. You can also specify a co
 RGB(15,200,75)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

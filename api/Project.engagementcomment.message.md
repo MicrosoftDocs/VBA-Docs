@@ -1,19 +1,20 @@
 ---
-title: EngagementComment.Message Property (Project)
+title: EngagementComment.Message property (Project)
 ms.assetid: b54430ec-7d99-76eb-2895-7c54abea6bc2
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 
-# EngagementComment.Message Property (Project)
+# EngagementComment.Message property (Project)
 
 The Message property for the EngagementComment object. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `Message`
+_expression_. `Message`
 
  _expression_ A variable that represents a 'EngagementComment' object.
 
@@ -21,5 +22,6 @@ The Message property for the EngagementComment object. Introduced in Office 2016
 ## See also
 
 
-[EngagementComment Object (Project)](Project.engagementcomment.md)
+[EngagementComment object (Project)](Project.engagementcomment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

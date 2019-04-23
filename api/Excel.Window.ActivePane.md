@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.ActivePane
 ms.assetid: f518802d-8624-6e61-d76a-d318149e0142
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Pane](Excel.Pane.md)** object that represents the active pane in t
 
 ## Syntax
 
- _expression_. `ActivePane`
+_expression_. `ActivePane`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End If
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

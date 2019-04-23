@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GroupItems Property (Publisher)
+title: ShapeRange.GroupItems property (Publisher)
 keywords: vbapb10.chm2293816
 f1_keywords:
 - vbapb10.chm2293816
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.GroupItems
 ms.assetid: d37c75cd-a651-51d1-42c7-59879ccbbf1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.GroupItems Property (Publisher)
+# ShapeRange.GroupItems property (Publisher)
 
 Returns a  **[GroupShapes](Publisher.GroupShapes.md)** collection if the specified shape is a group.
 
 
 ## Syntax
 
- _expression_. **GroupItems**
+_expression_.**GroupItems**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -57,4 +58,4 @@ Sub Grouper()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

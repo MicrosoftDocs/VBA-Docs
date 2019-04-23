@@ -8,19 +8,20 @@ api_name:
 - Excel.DataLabels.Creator
 ms.assetid: 86b4beaa-9a5f-ca3e-7e4f-78b905e94bae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataLabels.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

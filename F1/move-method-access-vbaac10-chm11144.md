@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3fa42c78-986f-4973-ae61-edf98bb79b53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Move method (Access)](http://msdn.microsoft.com/library/50b25305-0b91-378d-514f-d35b8d7aed6e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

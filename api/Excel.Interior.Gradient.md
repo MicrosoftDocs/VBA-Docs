@@ -8,6 +8,7 @@ api_name:
 - Excel.Interior.Gradient
 ms.assetid: 23e55b1c-2fc8-af37-d674-0bb8dd2b1af7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the **Gradient** property of an **Interior** object of a selecti
 
 ## Syntax
 
- _expression_. `Gradient`
+_expression_. `Gradient`
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Uses either LinearGradient or RectangularGradient.
 
 [Interior Object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

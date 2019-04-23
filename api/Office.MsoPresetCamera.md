@@ -1,18 +1,19 @@
 ---
-title: MsoPresetCamera Enumeration (Office)
+title: MsoPresetCamera enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetCamera
 ms.assetid: b7495803-a2f1-1dca-da3a-714d6fe9ba56
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoPresetCamera Enumeration (Office)
+# MsoPresetCamera enumeration (Office)
 
 Indicates the effects camera type used by the specified object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -80,3 +81,4 @@ Indicates the effects camera type used by the specified object.
 |**msoCameraPerspectiveRight**|50|Specifies Perspective Right.|
 |**msoPresetCameraMixed**|-2|Specifies a mixed effect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Clean Method (Excel)
+title: WorksheetFunction.Clean method (Excel)
 keywords: vbaxl10.chm137136
 f1_keywords:
 - vbaxl10.chm137136
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Clean
 ms.assetid: ac5de21a-b087-ebd7-764b-1644475cd2a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Clean Method (Excel)
+# WorksheetFunction.Clean method (Excel)
 
 Removes all nonprintable characters from text.
 
 
 ## Syntax
 
- _expression_. `Clean`( `_Arg1_` )
+_expression_. `Clean`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ Use Clean on text imported from other applications that contains characters that
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

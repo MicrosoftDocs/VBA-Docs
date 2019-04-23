@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Orientation Property (Word)
+title: ChartTitle.Orientation property (Word)
 keywords: vbawd10.chm65273864
 f1_keywords:
 - vbawd10.chm65273864
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartTitle.Orientation
 ms.assetid: 85c82225-9036-d993-bd76-e44199b859be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle.Orientation Property (Word)
+# ChartTitle.Orientation property (Word)
 
-Returns or sets the text orientation. Read/write  **Long** .
+Returns or sets the text orientation. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
  _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
@@ -33,3 +34,4 @@ The value of this property can be an integer from -90 through 90 degrees or one 
 
 [ChartTitle Object](Word.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

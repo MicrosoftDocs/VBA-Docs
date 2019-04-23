@@ -1,5 +1,5 @@
 ---
-title: Selection.Flags Property (Word)
+title: Selection.Flags property (Word)
 keywords: vbawd10.chm158663058
 f1_keywords:
 - vbawd10.chm158663058
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Flags
 ms.assetid: bca92e77-077c-57d0-3012-8c064e93f112
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Flags Property (Word)
+# Selection.Flags property (Word)
 
-Returns or sets properties of the selection. Read/write  **WdSelectionFlags** .
+Returns or sets properties of the selection. Read/write  **WdSelectionFlags**.
 
 
 ## Syntax
 
- _expression_. `Flags`
+_expression_. `Flags`
 
- _expression_ Required. An expression that returns a '[Selection](Word.Selection.md)' object.
+_expression_ Required. An expression that returns a '[Selection](Word.Selection.md)' object.
 
 
 ## Example
@@ -50,3 +51,4 @@ Selection.Flags = wdSelStartActive
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFrom Property (Word)
+title: Borders.DistanceFrom property (Word)
 keywords: vbawd10.chm154927133
 f1_keywords:
 - vbawd10.chm154927133
@@ -8,19 +8,20 @@ api_name:
 - Word.Borders.DistanceFrom
 ms.assetid: 316858c5-51b0-1cc0-407f-0bee7d48aaae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.DistanceFrom Property (Word)
+# Borders.DistanceFrom property (Word)
 
-Returns or sets a value that indicates whether the specified page border is measured from the edge of the page or from the text it surrounds. Read/write  **WdBorderDistanceFrom** .
+Returns or sets a value that indicates whether the specified page border is measured from the edge of the page or from the text it surrounds. Read/write  **WdBorderDistanceFrom**.
 
 
 ## Syntax
 
- _expression_. `DistanceFrom`
+_expression_. `DistanceFrom`
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Example
@@ -75,3 +76,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

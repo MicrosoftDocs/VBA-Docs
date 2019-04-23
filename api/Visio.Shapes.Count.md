@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (Visio)
+title: Shapes.Count property (Visio)
 keywords: vis_sdr.chm11313330
 f1_keywords:
 - vis_sdr.chm11313330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shapes.Count
 ms.assetid: 7e3246ec-f339-89b7-6e25-86217de86382
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Count Property (Visio)
+# Shapes.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

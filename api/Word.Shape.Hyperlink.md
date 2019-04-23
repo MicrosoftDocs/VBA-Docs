@@ -1,5 +1,5 @@
 ---
-title: Shape.Hyperlink Property (Word)
+title: Shape.Hyperlink property (Word)
 keywords: vbawd10.chm161481705
 f1_keywords:
 - vbawd10.chm161481705
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.Hyperlink
 ms.assetid: bd69df23-a1b0-cdce-64a4-b0b6046e96d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Hyperlink Property (Word)
+# Shape.Hyperlink property (Word)
 
 Returns a  **Hyperlink** object that represents the hyperlink associated with a **Shape** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_.**Hyperlink**
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -48,3 +49,4 @@ MsgBox ActiveDocument.Shapes(1).Hyperlink.Address
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

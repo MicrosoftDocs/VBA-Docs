@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bf4997f7-fb67-46eb-8c28-5c8cd8812954
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.StatusBarText property (Access)](http://msdn.microsoft.com/library/ebfeaa64-b614-11a7-c385-53fe24745a77%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

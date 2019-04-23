@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.EnableFieldList
 ms.assetid: 3f078d19-d2ec-1c1a-e039-69e8d7e21e95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.EnableFieldList property (Excel)
 
- **False** to disable the ability to display the field list for the PivotTable. If the field list was already being displayed it disappears. The default value is **True** . Read/write **Boolean** .
+ **False** to disable the ability to display the field list for the PivotTable. If the field list was already being displayed it disappears. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableFieldList`
+_expression_. `EnableFieldList`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

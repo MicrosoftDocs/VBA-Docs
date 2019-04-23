@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Categories Property (Outlook)
+title: NameSpace.Categories property (Outlook)
 keywords: vbaol11.chm787
 f1_keywords:
 - vbaol11.chm787
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.Categories
 ms.assetid: 3963afca-3a7e-38d7-1347-7e1467be3a10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.Categories Property (Outlook)
+# NameSpace.Categories property (Outlook)
 
 Returns or sets a  **[Categories](Outlook.Categories.md)** object that represents the set of **[Category](Outlook.Category.md)** objects that are available to the namespace. Read/write.
 
 
 ## Syntax
 
- _expression_. `Categories`
+_expression_. `Categories`
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks
@@ -103,3 +104,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

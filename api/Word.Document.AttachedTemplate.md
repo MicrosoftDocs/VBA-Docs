@@ -1,5 +1,5 @@
 ---
-title: Document.AttachedTemplate Property (Word)
+title: Document.AttachedTemplate property (Word)
 keywords: vbawd10.chm158007363
 f1_keywords:
 - vbawd10.chm158007363
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.AttachedTemplate
 ms.assetid: e7489e88-ec82-ff16-558b-1dd5470f83c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.AttachedTemplate Property (Word)
+# Document.AttachedTemplate property (Word)
 
-Returns a  **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant** .
+Returns a  **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `AttachedTemplate`
+_expression_. `AttachedTemplate`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -65,3 +66,4 @@ ActiveDocument.AttachedTemplate = "C:\Templates\Letter.dot"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

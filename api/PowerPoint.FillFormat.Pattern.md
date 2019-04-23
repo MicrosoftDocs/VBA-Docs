@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (PowerPoint)
+title: FillFormat.Pattern property (PowerPoint)
 keywords: vbapp10.chm552017
 f1_keywords:
 - vbapp10.chm552017
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.FillFormat.Pattern
 ms.assetid: 843504d6-d9a5-f732-89eb-d2d3d1ea4477
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Pattern Property (PowerPoint)
+# FillFormat.Pattern property (PowerPoint)
 
 Sets or returns a value that represents the pattern applied to the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ## Return value
 
-[MsoPatternType](./Office.MsoPatternType.md)
+[MsoPatternType](Office.MsoPatternType.md)
 
 
 ## Remarks
@@ -35,7 +36,7 @@ Use the  **[BackColor](PowerPoint.FillFormat.BackColor.md)** and **[ForeColor](P
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and sets its fill pattern to match that of the shape named "rect1." The new rectangle has the same pattern as rect1, but not necessarily the same colors. The colors used in the pattern are set with the **BackColor** and **ForeColor** properties.
+This example adds a rectangle to  _myDocument_ and sets its fill pattern to match that of the shape named "rect1." The new rectangle has the same pattern as rect1, but not necessarily the same colors. The colors used in the pattern are set with the **BackColor** and **ForeColor** properties.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

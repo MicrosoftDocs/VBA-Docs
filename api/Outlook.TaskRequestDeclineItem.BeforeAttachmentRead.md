@@ -1,23 +1,24 @@
 ---
-title: TaskRequestDeclineItem.BeforeAttachmentRead Event (Outlook)
+title: TaskRequestDeclineItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentRead
 ms.assetid: e8fc3729-b079-8dbb-1b41-94c9f67ca9d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.BeforeAttachmentRead Event (Outlook)
+# TaskRequestDeclineItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

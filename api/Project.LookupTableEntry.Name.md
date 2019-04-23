@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.Name Property (Project)
+title: LookupTableEntry.Name property (Project)
 keywords: vbapj.chm132396
 f1_keywords:
 - vbapj.chm132396
@@ -8,17 +8,18 @@ api_name:
 - Project.LookupTableEntry.Name
 ms.assetid: 4418fc98-d230-a897-a250-fef86fdf3512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LookupTableEntry.Name Property (Project)
+# LookupTableEntry.Name property (Project)
 
 Gets the name of a  **LookupTableEntry** object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
@@ -29,4 +30,4 @@ Gets the name of a  **LookupTableEntry** object. Read/write **String**.
 
 For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

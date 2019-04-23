@@ -3,6 +3,7 @@ title: Cancel an event
 ms.prod: access
 ms.assetid: f91f4f8a-99fa-dca7-576a-11c76d6ddc93
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,4 @@ You can cancel the following events:
 
 You cancel an event by setting an event procedure's  _Cancel_ argument to **True**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

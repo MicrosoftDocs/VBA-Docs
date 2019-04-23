@@ -1,14 +1,15 @@
 ---
-title: LookupTableEntry Object (Project)
+title: LookupTableEntry object (Project)
 ms.prod: project-server
 api_name:
 - Project.LookupTableEntry
 ms.assetid: 5be081fa-6f4e-9571-e1e2-c4652871b756
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LookupTableEntry Object (Project)
+# LookupTableEntry object (Project)
 
 
  
@@ -24,7 +25,7 @@ The following example adds three level entries to a lookup table, where the thir
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.LookupTableEntry.Delete.md)|
 
@@ -32,7 +33,7 @@ The following example adds three level entries to a lookup table, where the thir
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.LookupTableEntry.Application.md)|
 |[Cookie](Project.LookupTableEntry.Cookie.md)|
@@ -47,3 +48,4 @@ The following example adds three level entries to a lookup table, where the thir
 |[ParentEntry](Project.LookupTableEntry.ParentEntry.md)|
 |[UniqueID](Project.LookupTableEntry.UniqueID.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

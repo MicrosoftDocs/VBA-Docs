@@ -3,6 +3,7 @@ title: Field <name> is based on an expression and cannot be edited. (Error 3327)
 ms.prod: access
 ms.assetid: 7d7c1e1f-645e-b111-60c3-666640d8bde1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ For example, if a stored query or view with a column made up of an expression wa
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

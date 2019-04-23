@@ -1,5 +1,5 @@
 ---
-title: Workbook.SendMailer Method (Excel)
+title: Workbook.SendMailer method (Excel)
 keywords: vbaxl10.chm199150
 f1_keywords:
 - vbaxl10.chm199150
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SendMailer
 ms.assetid: e44955e1-e250-7279-19e5-e13db80ceddc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SendMailer Method (Excel)
+# Workbook.SendMailer method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
 
 ## Syntax
 
- _expression_. `SendMailer`( `_FileFormat_` , `_Priority_` )
+_expression_. `SendMailer`( `_FileFormat_` , `_Priority_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -30,10 +31,11 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileFormat_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
-| _Priority_|Optional| **XlPriority**|See help included with Microsoft Office Macintosh Edition.|
+| _Priority_|Optional| **xlPriority**|See help included with Microsoft Office Macintosh Edition.|
 
 ## See also
 
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

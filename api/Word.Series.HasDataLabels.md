@@ -1,5 +1,5 @@
 ---
-title: Series.HasDataLabels Property (Word)
+title: Series.HasDataLabels property (Word)
 keywords: vbawd10.chm123732046
 f1_keywords:
 - vbawd10.chm123732046
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.HasDataLabels
 ms.assetid: 2e5ffc2d-11ae-2ab3-a642-fc0349ff356b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.HasDataLabels Property (Word)
+# Series.HasDataLabels property (Word)
 
- **True** if the series has data labels. Read/write **Boolean** .
+ **True** if the series has data labels. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDataLabels`
+_expression_. `HasDataLabels`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -45,3 +46,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

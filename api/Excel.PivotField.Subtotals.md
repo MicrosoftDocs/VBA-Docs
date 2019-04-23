@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.Subtotals
 ms.assetid: 1086c36f-e792-b2a5-848a-efd2c7e49d46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.Subtotals property (Excel)
 
-Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write  **Variant** .
+Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Subtotals`( `_Index_` )
+_expression_.**Subtotals** (_Index_)
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Returns or sets subtotals displayed with the specified field. Valid only for non
 
 ## Remarks
 
-If an index is  **True** , the field shows that subtotal. If index 1 (Automatic) is **True** , all other values are set to **False** .
+If an index is  **True**, the field shows that subtotal. If index 1 (Automatic) is **True**, all other values are set to **False**.
 
 
 
@@ -71,3 +72,4 @@ ActiveCell.PivotField.Subtotals(2) = True
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

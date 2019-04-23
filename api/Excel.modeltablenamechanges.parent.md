@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: fec29415-2108-44eb-a9ad-cb1e8546c6c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTableNameChanges.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified **ModelTableNameChanges** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object.
+_expression_ A variable that represents a **[ModelTableNameChanges](Excel.modeltablenamechanges.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
 [ModelTableNameChanges Object](Excel.modeltablenamechanges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

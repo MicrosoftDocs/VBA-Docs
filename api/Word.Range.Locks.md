@@ -1,5 +1,5 @@
 ---
-title: Range.Locks Property (Word)
+title: Range.Locks property (Word)
 keywords: vbawd10.chm157155832
 f1_keywords:
 - vbawd10.chm157155832
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Locks
 ms.assetid: 102673f2-8cb0-d235-c158-c65759592d56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Locks Property (Word)
+# Range.Locks property (Word)
 
 Returns a  **[CoAuthLocks](Word.CoAuthLocks.md)** collection object that represents all the locks in the range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Locks`
+_expression_. `Locks`
 
  _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 
@@ -46,3 +47,4 @@ MsgBox ActiveDocument.Paragraphs(1).Range.Locks.Count
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

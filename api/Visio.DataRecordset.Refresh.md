@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Refresh Method (Visio)
+title: DataRecordset.Refresh method (Visio)
 keywords: vis_sdr.chm16460320
 f1_keywords:
 - vis_sdr.chm16460320
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.Refresh
 ms.assetid: 0a871f32-f24e-07c0-3cc6-a76f2a4ba2e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.Refresh Method (Visio)
+# DataRecordset.Refresh method (Visio)
 
 Executes the query string associated with the connected (non-XML-based)  **[DataRecordset](Visio.DataRecordset.md)** and updates linked shapes with new data from the data source returned by the query.
 
@@ -21,7 +22,7 @@ Executes the query string associated with the connected (non-XML-based)  **[Data
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_.**Refresh**
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -33,7 +34,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Refresh** method on a particular **DataRecordset** object results in refreshing all other **DataRecordset** objects associated with the same **[DataConnection](Visio.DataConnection.md)** object (that is, having the same value for their **[DataConnection](Visio.DataRecordset.DataConnection.md)** property). **DataRecordset** objects sharing the same **DataConnection** property value are called _transacted_ data recordsets. The **Refresh** method must be called on a data recordset that is associated with a **DataConnection** objecct.
+Calling the  **Refresh** method on a particular **DataRecordset** object results in refreshing all other **DataRecordset** objects associated with the same **[DataConnection](Visio.DataConnection.md)** object (that is, having the same value for their **[DataConnection](Visio.DataRecordset.DataConnection.md)** property). **DataRecordset** objects sharing the same **DataConnection** property value are called _transacted_ data recordsets. The **Refresh** method must be called on a data recordset that is associated with a **DataConnection** object.
 
 If you call  **Refresh** on a data recordset not associated with a **DataConnection** object (one that was created by using the **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method), the **Refresh** method will return an error.
 
@@ -66,4 +67,4 @@ Public Sub Refresh_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

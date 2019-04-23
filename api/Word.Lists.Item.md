@@ -1,5 +1,5 @@
 ---
-title: Lists.Item Method (Word)
+title: Lists.Item method (Word)
 keywords: vbawd10.chm160628736
 f1_keywords:
 - vbawd10.chm160628736
@@ -8,19 +8,20 @@ api_name:
 - Word.Lists.Item
 ms.assetid: b4151fcc-b23d-e113-f417-b08efb1533be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Lists.Item Method (Word)
+# Lists.Item method (Word)
 
 Returns an individual  **List** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[Lists](Word.lists.md)' collection.
+_expression_ Required. A variable that represents a '[Lists](Word.lists.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ List
 
 [Lists Collection Object](Word.lists.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.SourceType
 ms.assetid: 197da621-7407-e95a-2f5b-1cbe0ec403b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value t
 
 ## Syntax
 
- _expression_. `SourceType`
+_expression_. `SourceType`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value t
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

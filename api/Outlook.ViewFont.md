@@ -1,5 +1,5 @@
 ---
-title: ViewFont Object (Outlook)
+title: ViewFont object (Outlook)
 keywords: vbaol11.chm3188
 f1_keywords:
 - vbaol11.chm3188
@@ -8,10 +8,11 @@ api_name:
 - Outlook.ViewFont
 ms.assetid: cbd7c6ce-f49a-1627-0ad9-a019911fb47b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFont Object (Outlook)
+# ViewFont object (Outlook)
 
 Represents the font used when formatting text in various portions of a view.
 
@@ -23,7 +24,7 @@ The  **ViewFont** object is used by the following objects to represent font form
 
 - The  **[HeadingsFont](Outlook.businessCardView.HeadingsFont.md)** property of the **[BusinessCardView](Outlook.businessCardView.md)** object.
     
-- The  **[DayWeekFont](./overview/Outlook.md)**, **[DayWeekTimeFont](./overview/Outlook.md)**, and **[MonthFont](./overview/Outlook.md)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
+- The  **[DayWeekFont](overview/Outlook.md)**, **[DayWeekTimeFont](overview/Outlook.md)**, and **[MonthFont](overview/Outlook.md)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
     
 - The  **[BodyFont](Outlook.CardView.BodyFont.md)** and **[HeadingsFont](Outlook.CardView.HeadingsFont.md)** properties of the **[CardView](Outlook.CardView.md)** object.
     
@@ -96,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ViewFont.Application.md)|
 |[Bold](Outlook.ViewFont.Bold.md)|
@@ -114,4 +115,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

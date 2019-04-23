@@ -1,21 +1,22 @@
 ---
-title: GroupCriterion2.Index Property (Project)
+title: GroupCriterion2.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Index
 ms.assetid: 61f13c7e-4833-45d1-362a-91ea99b63505
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriterion2.Index Property (Project)
+# GroupCriterion2.Index property (Project)
 
 Gets the index of an object in its containing collection. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
@@ -30,3 +31,4 @@ If you always put a Gantt chart in the same index of a project's  **Windows** co
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

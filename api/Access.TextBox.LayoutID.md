@@ -7,29 +7,26 @@ ms.prod: access
 api_name:
 - Access.TextBox.LayoutID
 ms.assetid: b77ccc32-fbaf-e574-b0ae-293d6f999879
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # TextBox.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified text box. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `LayoutID`
+_expression_.**LayoutID**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
 
-## See also
-
-
-[TextBox Object](Access.TextBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

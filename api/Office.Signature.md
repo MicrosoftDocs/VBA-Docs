@@ -1,5 +1,5 @@
 ---
-title: Signature Object (Office)
+title: Signature object (Office)
 keywords: vbaof11.chm248000
 f1_keywords:
 - vbaof11.chm248000
@@ -7,23 +7,26 @@ ms.prod: office
 api_name:
 - Office.Signature
 ms.assetid: 574d246b-95cd-e4da-081b-4540387662a0
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# Signature Object (Office)
+# Signature object (Office)
 
-Represents a digital signature attached to a document.  **Signature** objects are contained in the **SignatureSet** collection of the **Document** object.
+Represents a digital signature attached to a document. **Signature** objects are contained in the **[SignatureSet](office.signatureset.md)** collection of the **Document** object.
 
 
 ## Remarks
 
-You can add a  **Signature** object to a **SignatureSet** collection using the **Add** method and you can return an existing member using the **Item** method. To remove a **Signature** from a **SignatureSet** collection, use the **Delete** method of the **Signature** object.
+You can add a **Signature** object to a **SignatureSet** collection by using the **Add** method, and you can return an existing member by using the **Item** method. To remove a **Signature** from a **SignatureSet** collection, use the **Delete** method of the **Signature** object.
 
 
 ## Example
 
-The following example prompts the user to select a digital signature with which to sign the active document in Microsoft Word. To use this example, open a document in Word and pass this function the name of a certificate issuer and the name of a certificate signer that match the  **Issued By** and **Issued To** fields of a digital certificate in the **Digital Certificates** dialog box. This example will test to make sure that the digital signature that the user selects meets certain criteria, such as not having expired, before the new signature is committed to the disk.
+The following example prompts the user to select a digital signature with which to sign the active document in Microsoft Word. To use this example, open a document in Word and pass this function the name of a certificate issuer and the name of a certificate signer that match the **Issued By** and **Issued To** fields of a digital certificate in the **Digital Certificates** dialog box. 
+
+This example will test to make sure that the digital signature that the user selects meets certain criteria, such as not having expired, before the new signature is committed to the disk.
 
 
 ```vb
@@ -71,9 +74,8 @@ End Function
 
 ## See also
 
+- [Signature object members](overview/Library-Reference/signature-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-[Signature Object Members](./overview/Library-Reference/signature-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

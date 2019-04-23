@@ -1,5 +1,5 @@
 ---
-title: Recipient.Type Property (Outlook)
+title: Recipient.Type property (Outlook)
 keywords: vbaol11.chm2355
 f1_keywords:
 - vbaol11.chm2355
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Recipient.Type
 ms.assetid: 3bdc616c-f008-ec95-0a92-0f704eedee34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Recipient.Type Property (Outlook)
+# Recipient.Type property (Outlook)
 
 Returns or sets a **Long** representing the type of recipient. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Remarks
@@ -28,19 +29,19 @@ Returns or sets a **Long** representing the type of recipient. Read/write.
 Depending on the type of recipient, this property returns or sets a **Long** corresponding to the numeric equivalent of one of the following constants:
 
 
-- **[JournalItem](Outlook.JournalItem.md)** recipient: the **[OlJournalRecipientType](Outlook.OlJournalRecipientType.md)** constant **olAssociatedContact** .
+- **[JournalItem](Outlook.JournalItem.md)** recipient: the **[OlJournalRecipientType](Outlook.OlJournalRecipientType.md)** constant **olAssociatedContact**.
     
-- **[MailItem](Outlook.MailItem.md)** recipient: one of the following **[OlMailRecipientType](Outlook.OlMailRecipientType.md)** constants: **olBCC** , **olCC** , **olOriginator** , or **olTo** .
+- **[MailItem](Outlook.MailItem.md)** recipient: one of the following **[OlMailRecipientType](Outlook.OlMailRecipientType.md)** constants: **olBCC**, **olCC**, **olOriginator**, or **olTo**.
     
-- **[MeetingItem](Outlook.MeetingItem.md)** recipient: one of the following **[OlMeetingRecipientType](Outlook.OlMeetingRecipientType.md)** constants: **olOptional** , **olOrganizer** , **olRequired** , or **olResource** .
+- **[MeetingItem](Outlook.MeetingItem.md)** recipient: one of the following **[OlMeetingRecipientType](Outlook.OlMeetingRecipientType.md)** constants: **olOptional**, **olOrganizer**, **olRequired**, or **olResource**.
     
-- **[TaskItem](Outlook.TaskItem.md)** recipient: either of the following **[OlTaskRecipientType](Outlook.OlTaskRecipientType.md)** constants: **olFinalStatus** , or **olUpdate** .
+- **[TaskItem](Outlook.TaskItem.md)** recipient: either of the following **[OlTaskRecipientType](Outlook.OlTaskRecipientType.md)** constants: **olFinalStatus**, or **olUpdate**.
     
 
 
 This property may not always return the appropriate recipient type for a conference room. For instance, a conference room may be specified as a required recipient in a meeting request, in which case this property will not return **olResource** for that conference room.
 
-To reliably determine if a recipient is a conference room, use the Messaging API (MAPI) property, **[PidTagDisplayTypeEx](./overview/Outlook.md)** , of the **[Recipient](Outlook.Recipient.md)** object. You can access this property using the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object in the Outlook object model. The **PidTagDisplayTypeEx** property is represented as "http://schemas.microsoft.com/mapi/proptag/0x39050003" in the MAPI proptag namespace. Note that the **PidTagDisplayTypeEx** property is not available in versions of Microsoft Exchange Server earlier than Microsoft Exchange Server 2007; in such earlier versions of Exchange Server, you can use the **Recipient.Type** property and assume that a recipient having a type other than **olResource** is not a conference room.
+To reliably determine if a recipient is a conference room, use the Messaging API (MAPI) property, **[PidTagDisplayTypeEx](overview/Outlook.md)**, of the **[Recipient](Outlook.Recipient.md)** object. You can access this property using the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object in the Outlook object model. The **PidTagDisplayTypeEx** property is represented as "http://schemas.microsoft.com/mapi/proptag/0x39050003" in the MAPI proptag namespace. Note that the **PidTagDisplayTypeEx** property is not available in versions of Microsoft Exchange Server earlier than Microsoft Exchange Server 2007; in such earlier versions of Exchange Server, you can use the **Recipient.Type** property and assume that a recipient having a type other than **olResource** is not a conference room.
 
 
 ## Example
@@ -107,3 +108,4 @@ End Sub
 
 [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

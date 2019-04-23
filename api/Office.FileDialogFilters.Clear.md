@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Clear Method (Office)
+title: FileDialogFilters.Clear method (Office)
 keywords: vbaof11.chm255005
 f1_keywords:
 - vbaof11.chm255005
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilters.Clear
 ms.assetid: 1d5fa55e-6a61-d808-51a4-86116420f89f
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialogFilters.Clear Method (Office)
+# FileDialogFilters.Clear method (Office)
 
 Removes all filters currently applied in a file dialog box.
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_.**Clear**
 
- _expression_ A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
+_expression_ A variable that represents a **[FileDialogFilters](Office.FileDialogFilters.md)** object.
 
 
 ## Example
 
-The following example iterates through the default filters of the  **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
+The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
 
 
 ```vb
@@ -58,10 +59,6 @@ End Sub
 
 ## See also
 
+- [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 
-[FileDialogFilters Object](Office.FileDialogFilters.md)
-
-
-
-[FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

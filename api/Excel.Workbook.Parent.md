@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Parent
 ms.assetid: 4c039b5b-050f-8f4d-bc90-7982e92fb17c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

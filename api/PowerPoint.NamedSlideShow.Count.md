@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow.Count Property (PowerPoint)
+title: NamedSlideShow.Count property (PowerPoint)
 keywords: vbapp10.chm516006
 f1_keywords:
 - vbapp10.chm516006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.NamedSlideShow.Count
 ms.assetid: 09aeed71-dfc6-2ee6-1430-c5e7f0ed2bc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NamedSlideShow.Count Property (PowerPoint)
+# NamedSlideShow.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [NamedSlideShow Object](PowerPoint.NamedSlideShow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

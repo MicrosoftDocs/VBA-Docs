@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a7287746-d3a1-08d7-483a-f5f1569b5269
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,6 +21,5 @@ A Visual Basic form file is damaged. This error has the following causes and sol
     Try replacing the ActiveX control on the form.
     
 - The number of properties in the current version of the ActiveX control doesn't match the expected number of properties. Try replacing the ActiveX control with an earlier version or later version.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

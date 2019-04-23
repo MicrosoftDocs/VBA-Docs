@@ -1,5 +1,5 @@
 ---
-title: Document.WebNavigationBarSets Property (Publisher)
+title: Document.WebNavigationBarSets property (Publisher)
 keywords: vbapb10.chm196741
 f1_keywords:
 - vbapb10.chm196741
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.WebNavigationBarSets
 ms.assetid: 4193dbce-a2e3-2587-5282-43b4c3cec921
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.WebNavigationBarSets Property (Publisher)
+# Document.WebNavigationBarSets property (Publisher)
 
 Returns a  **WebNavigationBarSets** object representing a collection of all **WebNavigationBarSet** objects in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. **WebNavigationBarSets**
+_expression_.**WebNavigationBarSets**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -44,4 +45,4 @@ objWebNavBarSets.AddSet _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

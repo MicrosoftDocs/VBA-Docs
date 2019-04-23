@@ -1,5 +1,5 @@
 ---
-title: Task.ConstraintType Property (Project)
+title: Task.ConstraintType property (Project)
 keywords: vbapj.chm131667
 f1_keywords:
 - vbapj.chm131667
@@ -8,17 +8,18 @@ api_name:
 - Project.Task.ConstraintType
 ms.assetid: cdcd6a0d-a996-646d-130e-1a5ed2c93705
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.ConstraintType Property (Project)
+# Task.ConstraintType property (Project)
 
 Gets or sets a constraint type for a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ConstraintType`
+_expression_. `ConstraintType`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -49,4 +50,4 @@ Sub ChangeConstraintTypes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

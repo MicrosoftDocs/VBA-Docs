@@ -3,6 +3,7 @@ title: Create an Outlook Form
 ms.prod: outlook
 ms.assetid: c2674dd0-f033-ecea-3262-8b591acab784
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -14,11 +15,11 @@ There are a few things to consider when you select the standard Outlook form for
 
 - Routing versus folder-based solutions
     
-  If you plan to distribute the custom form by e-mail, choose the standard mail message form. If you plan to post the custom form in a public folder, choose the standard post form.
+  If you plan to distribute the custom form by email, choose the standard mail message form. If you plan to post the custom form in a public folder, choose the standard post form.
     
 - Built-in fields on the standard form
     
-  Select the form for the type of item that has fields best suited to the needs of your custom solution. Each type of Outlook item has a set of fields built into it. For example, to see all of the fields that are available in an e-mail message, click **All Mail Fields** in the **Field Chooser**. For more information, see  [Using the Field Chooser](../Forms/using-the-field-chooser.md).
+  Select the form for the type of item that has fields best suited to the needs of your custom solution. Each type of Outlook item has a set of fields built into it. For example, to see all of the fields that are available in an email message, click **All Mail Fields** in the **Field Chooser**. For more information, see  [Using the Field Chooser](../Forms/using-the-field-chooser.md).
     
 - Extent of customization
     
@@ -46,6 +47,4 @@ There are a few things to consider when you select the standard Outlook form for
 > - To make the custom form available so that you or other users can create new items in a folder, you must publish the form to the folder. If you want the form to be available to other users, publish the form to a public folder so that it is available to users who have permissions to that folder. If you want the form to be available only to you, publish it in a personal folder.
 > - Form regions cannot be published to the server; you must deploy them by using an add-in. For more information, see [Extending a Form Region with an Add-in](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md ).
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

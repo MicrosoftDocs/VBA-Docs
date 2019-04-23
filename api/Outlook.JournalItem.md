@@ -1,5 +1,5 @@
 ---
-title: JournalItem Object (Outlook)
+title: JournalItem object (Outlook)
 keywords: vbaol11.chm2999
 f1_keywords:
 - vbaol11.chm2999
@@ -8,10 +8,11 @@ api_name:
 - Outlook.JournalItem
 ms.assetid: 6e850295-39f9-47b8-e866-9622e9958c69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem Object (Outlook)
+# JournalItem object (Outlook)
 
 Represents a journal entry in a Journal folder. 
 
@@ -22,7 +23,7 @@ A journal entry represents a record of all Outlook-moderated transactions for an
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **JournalItem** object that represents a new journal entry.
 
-Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the index number of a journal entry or a value used to match the default property of a journal entry, to return a single **JournalItem** object from a Journal folder.
+Use  **[Items](Outlook.Folder.Items.md)** (_index_), where _index_ is the index number of a journal entry or a value used to match the default property of a journal entry, to return a single **JournalItem** object from a Journal folder.
 
 
 ## Example
@@ -39,7 +40,7 @@ Set myItem = Application.CreateItem(olJournalItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.JournalItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.JournalItem.AttachmentAdd.md)|
@@ -72,7 +73,7 @@ Set myItem = Application.CreateItem(olJournalItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.JournalItem.Close(method).md)|
 |[Copy](Outlook.JournalItem.Copy.md)|
@@ -94,7 +95,7 @@ Set myItem = Application.CreateItem(olJournalItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.JournalItem.Actions.md)|
 |[Application](Outlook.JournalItem.Application.md)|
@@ -147,4 +148,6 @@ Set myItem = Application.CreateItem(olJournalItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Troubleshooting Custom Fields
 ms.prod: outlook
 ms.assetid: 0867a1a9-595b-4dd0-becc-e1ba744a76c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,5 +37,5 @@ For more information, see [Extending a Form Region with an Add-in](../Specifying
 ## When I try to sort, group, or filter a formula field or combination field, I receive an error message
 
 You cannot sort, group, or filter a formula field or a combination field in Microsoft Outlook.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

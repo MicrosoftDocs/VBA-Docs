@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.Attachment.OldBorderStyle
 ms.assetid: abbc1a8d-d9cc-b917-026d-a1847739c362
-ms.date: 06/08/2017
+ms.date: 02/07/2019
+localization_priority: Normal
 ---
 
 
 # Attachment.OldBorderStyle property (Access)
 
-You can use this property to set or return the unedited value of the  **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
+You can use this property to set or return the unedited value of the **[BorderStyle](access.attachment.borderstyle.md)** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `OldBorderStyle`
+_expression_.**OldBorderStyle**
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **OldBorderStyle** property uses the following settings.
+The **OldBorderStyle** property uses the following settings.
 
-
-
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Transparent|0|Transparent|
 |Solid|1|(Default) Solid line|
@@ -41,11 +40,6 @@ The  **OldBorderStyle** property uses the following settings.
 |Dash dot dot|7|Line with a dash-dot-dot combination|
 |Double solid|8|Double solid lines|
 
- **Note**  
 
 
-## See also
-
-
-[Attachment Object](Access.Attachment.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

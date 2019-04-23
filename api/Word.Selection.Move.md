@@ -1,5 +1,5 @@
 ---
-title: Selection.Move Method (Word)
+title: Selection.Move method (Word)
 keywords: vbawd10.chm158662765
 f1_keywords:
 - vbawd10.chm158662765
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Move
 ms.assetid: 8bd36cf4-ca05-6412-2145-31d07367730e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Move Method (Word)
+# Selection.Move method (Word)
 
 Collapses the specified selection to its start or end position and then moves the collapsed object by the specified number of units. This method returns a  **Long** value that represents the number of units by which the selection was moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. `Move`( `_Unit_` , `_Count_` )
+_expression_. `Move`( `_Unit_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -78,3 +79,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

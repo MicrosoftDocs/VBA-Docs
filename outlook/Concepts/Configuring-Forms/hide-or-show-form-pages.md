@@ -3,6 +3,7 @@ title: Hide or Show Form Pages
 ms.prod: outlook
 ms.assetid: 7efb2561-27f6-002e-8b7f-f1cffc0c8a4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,6 +25,6 @@ The  [GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegion
 2. On the  **Developer** tab, in the **Form** group, click **Page**, and then click  **Display This Page**.
     
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextInput Object (Word)
+title: TextInput object (Word)
 keywords: vbawd10.chm2343
 f1_keywords:
 - vbawd10.chm2343
@@ -8,10 +8,11 @@ api_name:
 - Word.TextInput
 ms.assetid: d7f6531a-4da2-ccc4-29b3-ad79ca7b18de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextInput Object (Word)
+# TextInput object (Word)
 
 Represents a single text form field.
 
@@ -66,6 +67,6 @@ ffield.Name = "FirstName"
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 34bea2c9-0cc2-49bc-8fff-08c1844698e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.InDraftMode Property (PowerPoint)](http://msdn.microsoft.com/library/be234117-a63e-dd10-3bdb-50f2c5692f65%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Subprojects object (Project)
 ms.prod: project-server
 ms.assetid: 15688529-6d9c-6429-0d22-a5a16c033dcc
 ms.date: 11/09/2018
+localization_priority: Normal
 ---
 
 
@@ -12,7 +13,7 @@ Contains a collection of **[Subproject](Project.Subproject.md)** objects.
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Subprojects.Application.md)|
 |[Count](./Project.Subprojects.Count.md)|
@@ -23,7 +24,7 @@ Contains a collection of **[Subproject](Project.Subproject.md)** objects.
 
 ### Using the Subprojects collection object
 
-Use **Subprojects** ( _Index_ ), where _Index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
+Use **Subprojects** (_index_), where _index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
 
 ```vb
 ActiveProject.Subprojects("Arcadia Bay Online Catalog Plan").LinkToSource = False
@@ -57,3 +58,5 @@ Next SubProj
 ## See also
 
 - [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

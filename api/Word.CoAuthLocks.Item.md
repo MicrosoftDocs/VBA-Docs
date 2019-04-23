@@ -1,5 +1,5 @@
 ---
-title: CoAuthLocks.Item Method (Word)
+title: CoAuthLocks.Item method (Word)
 keywords: vbawd10.chm180486144
 f1_keywords:
 - vbawd10.chm180486144
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthLocks.Item
 ms.assetid: 1cdcfb33-3fe4-974a-760c-5d62dea0081e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthLocks.Item Method (Word)
+# CoAuthLocks.Item method (Word)
 
 Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 
@@ -41,3 +42,4 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 
 [CoAuthLocks Object](Word.CoAuthLocks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

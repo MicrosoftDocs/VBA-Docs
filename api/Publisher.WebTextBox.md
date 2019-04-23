@@ -1,5 +1,5 @@
 ---
-title: WebTextBox Object (Publisher)
+title: WebTextBox object (Publisher)
 keywords: vbapb10.chm4259839
 f1_keywords:
 - vbapb10.chm4259839
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebTextBox
 ms.assetid: 74fde391-734c-6672-dadb-59bc58232c0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox Object (Publisher)
+# WebTextBox object (Publisher)
 
 Represents a Web text box control. The  **WebTextBox** object is a member of the **Shape** object.
  
@@ -42,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebTextBox.Application.md)|
 |[DefaultText](Publisher.WebTextBox.DefaultText.md)|
@@ -52,3 +53,4 @@ End Sub
 |[RequiredControl](Publisher.WebTextBox.RequiredControl.md)|
 |[ReturnDataLabel](Publisher.WebTextBox.ReturnDataLabel.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

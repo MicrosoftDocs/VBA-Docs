@@ -1,5 +1,5 @@
 ---
-title: Options.PromptUpdateStyle Property (Word)
+title: Options.PromptUpdateStyle property (Word)
 keywords: vbawd10.chm162988473
 f1_keywords:
 - vbawd10.chm162988473
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PromptUpdateStyle
 ms.assetid: 0646e8e2-3462-14c7-7e73-d35ad9a20724
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PromptUpdateStyle Property (Word)
+# Options.PromptUpdateStyle property (Word)
 
- **True** displays a message asking the user to verify whether they want to reformat a style or reapply the original style formatting when changing the formatting of styles. Read/write **Boolean** .
+ **True** displays a message asking the user to verify whether they want to reformat a style or reapply the original style formatting when changing the formatting of styles. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PromptUpdateStyle`
+_expression_. `PromptUpdateStyle`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -49,3 +50,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdRelocate Enumeration (Word)
+title: WdRelocate enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelocate
 ms.assetid: 8b4f6d84-31fc-c406-a1ec-f35c9ce08751
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRelocate Enumeration (Word)
+# WdRelocate enumeration (Word)
 
 Specifies where a paragraph should be relocated in relation to its current position.
 
@@ -19,3 +20,4 @@ Specifies where a paragraph should be relocated in relation to its current posit
 | **wdRelocateDown**|1|Below the next visible paragraph.|
 | **wdRelocateUp**|0|Above the previous visible paragraph.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.DiagramServicesEnabled Property (Visio)
+title: Document.DiagramServicesEnabled property (Visio)
 keywords: vis_sdr.chm10562435
 f1_keywords:
 - vis_sdr.chm10562435
@@ -8,17 +8,18 @@ api_name:
 - Visio.DiagramServicesEnabled
 ms.assetid: 1a492029-31c8-85bb-0843-31c0a1200055
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DiagramServicesEnabled Property (Visio)
+# Document.DiagramServicesEnabled property (Visio)
 
 Determines which, if any, diagram services are enabled for the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DiagramServicesEnabled`
+_expression_. `DiagramServicesEnabled`
 
  _expression_ An expression that returns a '[Document](Visio.Document.md)' object.
 
@@ -38,7 +39,7 @@ The value of the  **DiagramServicesEnabled** property setting must be one or a b
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visServiceNone**|0|No diagram services.|
 | **visServiceAll**|-1|All diagram services.|
@@ -48,10 +49,10 @@ The value of the  **DiagramServicesEnabled** property setting must be one or a b
 | **visServiceVersion140**|7|All diagram services that exist in Visio.|
 | **visServiceVersion150**|8|All diagram services that exist in Visio.|
 
- If you combine **visServiceStructureBasic** and **visServiceStructureFull** , the latter overrides the former. However, you can combine **visServiceAutoSizePage** with either **visServiceStructureBasic** (3) or **visServiceStructureFull** (5) and assign either of those values to the property.
+ If you combine **visServiceStructureBasic** and **visServiceStructureFull**, the latter overrides the former. However, you can combine **visServiceAutoSizePage** with either **visServiceStructureBasic** (3) or **visServiceStructureFull** (5) and assign either of those values to the property.
 
 Diagram services apply only to solutions that manipulate Visio programmatically (by Automation). They do not have any effect on the behaviors that are exposed in the UI. UI settings that disable these behaviors have no effect on behaviors that are triggered programmatically.
 
 By default, diagram services are disabled for a document. You must enable any services you want to take advantage of before your solution modifies the diagram. Diagram service settings are not persisted from one session of Visio to the next.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

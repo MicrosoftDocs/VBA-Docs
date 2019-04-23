@@ -1,5 +1,5 @@
 ---
-title: OlDefaultFolders Enumeration (Outlook)
+title: OlDefaultFolders enumeration (Outlook)
 keywords: vbaol11.chm3055
 f1_keywords:
 - vbaol11.chm3055
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlDefaultFolders
 ms.assetid: 1a17abd8-09b9-d3e1-2d93-0a4d5580a950
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlDefaultFolders Enumeration (Outlook)
+# OlDefaultFolders enumeration (Outlook)
 
 Specifies the folder type for a specified folder.
 
@@ -44,4 +45,4 @@ Specifies the folder type for a specified folder.
 
 Used as a parameter to the [NameSpace.GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md), [NameSpace.GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md), [Store.GetDefaultFolder](Outlook.Store.GetDefaultFolder.md), and [Folder.Add](Outlook.Folders.Add.md) methods. Also used by the [SharingItem.RequestFolder](Outlook.SharingItem.RequestedFolder.md) property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

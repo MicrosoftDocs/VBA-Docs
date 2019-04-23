@@ -3,6 +3,7 @@ title: Tab.Caption Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 62291fb8-8f56-4465-0afa-9085abeeaa72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that specifies the text that appears on the tab. R
 
 ## Syntax
 
- _expression_. **Caption**
+_expression_.**Caption**
 
- _expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ The default caption for an object is a unique name based on the type of object. 
 
 If an object's caption is too long, the caption is truncated. If a form's caption is too long for the title bar, the title is displayed with an ellipsis.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

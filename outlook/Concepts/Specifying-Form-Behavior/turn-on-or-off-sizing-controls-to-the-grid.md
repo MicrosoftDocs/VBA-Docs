@@ -3,6 +3,7 @@ title: Turn On or Off Sizing Controls to the Grid
 ms.prod: outlook
 ms.assetid: ea48a0d8-b739-254d-2c8c-19d9a0a57a0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -12,3 +13,4 @@ ms.date: 06/08/2017
     
      **Note**  When  **Snap to Grid** is selected, the sizing controls to the grid turns on.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

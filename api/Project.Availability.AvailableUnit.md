@@ -1,21 +1,22 @@
 ---
-title: Availability.AvailableUnit Property (Project)
+title: Availability.AvailableUnit property (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability.AvailableUnit
 ms.assetid: a22d2325-e512-08c5-608f-0fadce9d33e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Availability.AvailableUnit Property (Project)
+# Availability.AvailableUnit property (Project)
 
 Gets or sets the percentage of time the resource is available during the availability period. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `AvailableUnit`
+_expression_. `AvailableUnit`
 
  _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 
@@ -36,4 +37,4 @@ The following line of code prints the percentage of time the resource is availab
 Debug.Print ActiveProject.Resources(1).Availabilities(2).AvailableUnit
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetY Property (PowerPoint)
+title: FillFormat.TextureOffsetY property (PowerPoint)
 keywords: vbapp10.chm552027
 f1_keywords:
 - vbapp10.chm552027
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.TextureOffsetY
 ms.assetid: f1ba83a3-65ca-dd4c-cb70-f6cb453b824c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureOffsetY Property (PowerPoint)
+# FillFormat.TextureOffsetY property (PowerPoint)
 
  Returns or sets the vertical offset of the texture from the origin in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureOffsetY`
+_expression_. `TextureOffsetY`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -35,3 +36,4 @@ The setting of the  **TextureHorizontalScale** property corresponds to the setti
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

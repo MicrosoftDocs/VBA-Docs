@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Properties.Count
 ms.assetid: 00a6039e-82bf-7cfe-d7b2-9e9bdb12aa44
-ms.date: 06/08/2017
+ms.date: 03/06/2019
+localization_priority: Normal
 ---
 
 
@@ -18,15 +19,17 @@ Returns the number of objects in the specified collection. Read-only.
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
-_expression_ A variable that represents a [Properties](Access.Properties.md) object.
+_expression_ A variable that represents a **[Properties](Access.Properties.md)** object.
 
 
 ## Remarks
 
-Because members of a collection begin with 0, you should always code loops starting with the 0 member and ending with the value of the  **Count** property minus 1. If you want to loop through the members of a collection without checking the **Count** property, you can use a **For Each...Next** command.
+Because members of a collection begin with 0, you should always code loops starting with the 0 member and ending with the value of the **Count** property minus 1. If you want to loop through the members of a collection without checking the **Count** property, you can use a **For Each...Next** command.
 
-The  **Count** property setting is never Null. If its value is 0, there are no objects in the collection.
+The **Count** property setting is never **Null**. If its value is 0, there are no objects in the collection.
 
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

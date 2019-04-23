@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Transparency Property (Word)
+title: ShadowFormat.Transparency property (Word)
 keywords: vbawd10.chm164364392
 f1_keywords:
 - vbawd10.chm164364392
@@ -8,19 +8,20 @@ api_name:
 - Word.ShadowFormat.Transparency
 ms.assetid: 0bcfcbd7-ffde-4dc0-628a-203c322cf573
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Transparency Property (Word)
+# ShadowFormat.Transparency property (Word)
 
-Returns or sets the degree of transparency of the specified shadow as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single** .
+Returns or sets the degree of transparency of the specified shadow as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Transparency`
+_expression_. `Transparency`
 
- _expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
+_expression_ Required. A variable that represents a '[ShadowFormat](Word.ShadowFormat.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

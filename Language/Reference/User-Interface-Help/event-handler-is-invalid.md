@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 98127960-e85a-0d89-ac7c-8e0f6bff8adf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,4 @@ The [parameter](../../Glossary/vbe-glossary.md#parameter) list of an event-handl
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

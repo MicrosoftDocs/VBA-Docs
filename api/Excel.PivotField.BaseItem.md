@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.BaseItem
 ms.assetid: 11561507-043a-2b64-1b60-3cdbd93a656c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.BaseItem property (Excel)
 
-Returns or sets the item in the base field for a custom calculation. Valid only for data fields. Read/write  **Variant** .
+Returns or sets the item in the base field for a custom calculation. Valid only for data fields. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BaseItem`
+_expression_. `BaseItem`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

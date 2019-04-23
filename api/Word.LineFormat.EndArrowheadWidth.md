@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadWidth Property (Word)
+title: LineFormat.EndArrowheadWidth property (Word)
 keywords: vbawd10.chm164233323
 f1_keywords:
 - vbawd10.chm164233323
@@ -8,19 +8,20 @@ api_name:
 - Word.LineFormat.EndArrowheadWidth
 ms.assetid: 01d77438-aa35-983b-7d93-a88e135d1820
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.EndArrowheadWidth Property (Word)
+# LineFormat.EndArrowheadWidth property (Word)
 
-Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **MsoArrowheadWidth** .
+Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **MsoArrowheadWidth**.
 
 
 ## Syntax
 
- _expression_. `EndArrowheadWidth`
+_expression_. `EndArrowheadWidth`
 
- _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
 
 ## Example
@@ -49,3 +50,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

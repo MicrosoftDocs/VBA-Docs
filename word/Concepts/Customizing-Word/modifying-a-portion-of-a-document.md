@@ -3,6 +3,7 @@ title: Modifying a Portion of a Document
 ms.prod: word
 ms.assetid: e664871f-4499-421e-deb7-e064cdeba0f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -119,4 +120,4 @@ End Sub
 
 For more information about defining  **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

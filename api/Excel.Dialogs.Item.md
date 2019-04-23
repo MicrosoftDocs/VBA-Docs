@@ -8,6 +8,7 @@ api_name:
 - Excel.Dialogs.Item
 ms.assetid: f9200ca3-711b-92ee-81b2-7c9cf1d104af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
+_expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Returns a single object from a collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **XlBuiltInDialog**| **Variant** . The name or index number of the object.|
+| _Index_|Required| **xlBuiltInDialog**| **Variant**. The name or index number of the object.|
 
 ## Example
 
@@ -46,3 +47,4 @@ Application.Dialogs.Item(xlDialogOpen).Show arg3:=True
 
 [Dialogs Object](Excel.Dialogs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

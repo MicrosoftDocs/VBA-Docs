@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 349691d7-eba9-0b5b-b32d-24f17a682a01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,4 +28,4 @@ If setting the focus fails, the focus reverts to the previous object and an erro
 
 By default, setting the focus to a control does not activate the control's window or place it on top of other controls.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.ThemeName
 ms.assetid: 9efd26b1-7426-1ff4-0b51-5463a2beb822
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Assigns a Web page theme to the page you are creating. Read/write.
 
 ## Syntax
 
- _expression_. **ThemeName**
+_expression_.**ThemeName**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -67,4 +68,4 @@ Public Sub ThemeName_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

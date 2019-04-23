@@ -1,14 +1,15 @@
 ---
-title: WdCharacterCase Enumeration (Word)
+title: WdCharacterCase enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCharacterCase
 ms.assetid: 596b5eb5-3ea4-ed23-99ba-2cf6052d3dc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCharacterCase Enumeration (Word)
+# WdCharacterCase enumeration (Word)
 
 Specifies the case of the text in the specified range.
 
@@ -27,3 +28,4 @@ Specifies the case of the text in the specified range.
 | **wdToggleCase**|5|Switches uppercase characters to lowercase, and lowercase characters to uppercase.|
 | **wdUpperCase**|1|Uppercase.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.ControlFormat
 ms.assetid: e874098f-ea8c-93ff-f746-a0d568bec5b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[ControlFormat](Excel.ControlFormat.md)** object that contains Micr
 
 ## Syntax
 
- _expression_. `ControlFormat`
+_expression_. `ControlFormat`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ lbcf.RemoveItem lbcf.ListIndex
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

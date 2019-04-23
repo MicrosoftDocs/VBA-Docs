@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: beb29a93-7477-8202-6acc-7d26d7589c89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ An entry point is the name of a DLL (Windows) or code resource (Macintosh) proce
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

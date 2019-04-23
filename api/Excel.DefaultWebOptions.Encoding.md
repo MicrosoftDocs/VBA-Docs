@@ -8,24 +8,25 @@ api_name:
 - Excel.DefaultWebOptions.Encoding
 ms.assetid: 53164ab3-b0f5-ed8e-76f8-840cbd8e23bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DefaultWebOptions.Encoding property (Excel)
 
-Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write  **[MsoEncoding](Office.MsoEncoding.md)** .
+Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write  **[MsoEncoding](Office.MsoEncoding.md)**.
 
 
 ## Syntax
 
- _expression_. `Encoding`
+_expression_. `Encoding`
 
- _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks
 
-You cannot use any of the constants that have the suffix  **AutoDetect** . These constants are used by the **[ReloadAs](Excel.Workbook.ReloadAs.md)** method.
+You cannot use any of the constants that have the suffix  **AutoDetect**. These constants are used by the **[ReloadAs](Excel.Workbook.ReloadAs.md)** method.
 
 
 ## Example
@@ -47,3 +48,4 @@ End If
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

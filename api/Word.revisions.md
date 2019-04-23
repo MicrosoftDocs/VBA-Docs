@@ -1,12 +1,13 @@
 ---
-title: Revisions Object (Word)
+title: Revisions object (Word)
 ms.prod: word
 ms.assetid: 7f267a64-885a-cb4c-008a-e8545cea94d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Revisions Object (Word)
+# Revisions object (Word)
 
 A collection of  **[Revision](Word.Revision.md)** objects that represent the changes marked with revision marks in a range or document.
 
@@ -67,7 +68,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptAll](Word.Revisions.AcceptAll.md)|
 |[Item](Word.Revisions.Item.md)|
@@ -77,7 +78,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Revisions.Application.md)|
 |[Count](Word.Revisions.Count.md)|
@@ -87,4 +88,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

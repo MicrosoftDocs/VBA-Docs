@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Scenarios Method (Excel)
+title: Worksheet.Scenarios method (Excel)
 keywords: vbaxl10.chm175123
 f1_keywords:
 - vbaxl10.chm175123
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Scenarios
 ms.assetid: 52e60b55-9316-4c0b-4cb7-ef4605bd31eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Scenarios Method (Excel)
+# Worksheet.Scenarios method (Excel)
 
 Returns an object that represents either a single scenario (a  **[Scenario](Excel.Scenario.md)** object) or a collection of scenarios (a **[Scenarios](Excel.Scenarios.md)** object) on the worksheet.
 
 
 ## Syntax
 
- _expression_. `Scenarios`( `_Index_` )
+_expression_. `Scenarios` (_Index_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Worksheets("Sheet1").Scenarios(1).Comment = _
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

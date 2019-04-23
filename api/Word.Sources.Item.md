@@ -1,5 +1,5 @@
 ---
-title: Sources.Item Method (Word)
+title: Sources.Item method (Word)
 keywords: vbawd10.chm40566784
 f1_keywords:
 - vbawd10.chm40566784
@@ -8,17 +8,18 @@ api_name:
 - Word.Sources.Item
 ms.assetid: 350313b6-3646-b4ad-44a0-03a276a14bfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sources.Item Method (Word)
+# Sources.Item method (Word)
 
 Returns a  **Source** object that represents the specified item in the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a '[Sources](Word.Sources.md)' object.
 
@@ -41,3 +42,4 @@ Source
 
 [Sources Collection](Word.Sources.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

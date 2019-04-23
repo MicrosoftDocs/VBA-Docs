@@ -1,29 +1,23 @@
 ---
-title: AddControl Event, Add Method Example
+title: AddControl event, Add method example
 keywords: fm20.chm5225176
 f1_keywords:
 - fm20.chm5225176
 ms.prod: office
 ms.assetid: 6a57bc57-7971-c6b1-72a1-78d5c835b380
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# AddControl Event, Add Method Example
+# AddControl event, Add method example
 
-The following example uses the  **Add** method to add a control to a form at run time and uses the **AddControl** event as confirmation that the control was added.
+The following example uses the **[Add](add-method-microsoft-forms.md)** method to add a control to a form at run time, and uses the **[AddControl](addcontrol-event.md)** event as confirmation that the control was added.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **CommandButton** named CommandButton1.
-    
-- A  **Label** named Label1.
-    
-
-
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.   
+- A **[Label](label-control.md)** named Label1.
 
 
 ```vb
@@ -45,4 +39,4 @@ Private Sub UserForm_AddControl(ByVal Control As _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

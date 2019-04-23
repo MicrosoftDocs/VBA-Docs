@@ -1,15 +1,16 @@
 ---
-title: Tables Object (Word)
+title: Tables object (Word)
 keywords: vbawd10.chm2381
 f1_keywords:
 - vbawd10.chm2381
 ms.prod: word
 ms.assetid: 068a3d0f-0b19-3927-cb0a-7fb0d0fd8e52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tables Object (Word)
+# Tables object (Word)
 
 A collection of  **[Table](Word.Table.md)** objects that represent the tables in a selection, range, or document.
 
@@ -52,6 +53,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

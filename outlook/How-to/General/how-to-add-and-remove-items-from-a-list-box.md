@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 4cff205b-4a15-d528-6ebd-adca6711a4d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Add and Remove Items from a List Box
+# Add and Remove Items from a List Box
 
 The following example adds and deletes the contents of a  **[ListBox](../../../api/Outlook.listbox.md)** using the **[AddItem](../../../api/Outlook.listbox.additem.md)**,  **[RemoveItem](../../../api/Outlook.listbox.removeitem.md)**, and  **SetFocus** methods, and the **[ListIndex](../../../api/Outlook.listbox.listindex.md)** and **[ListCount](../../../api/Outlook.listbox.listcount.md)** properties.
 
@@ -60,4 +61,4 @@ Sub CommandButton2_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

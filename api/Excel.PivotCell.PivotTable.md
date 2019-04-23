@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.PivotTable
 ms.assetid: ac34eb5b-be2f-a58c-484b-d53cc82afa81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the Pivo
 
 ## Syntax
 
- _expression_. `PivotTable`
+_expression_. `PivotTable`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Example
@@ -50,3 +51,4 @@ objPT.PivotFields("State").CurrentPageName = "Oregon"
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

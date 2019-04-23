@@ -1,5 +1,5 @@
 ---
-title: Project.CurrentFilter Property (Project)
+title: Project.CurrentFilter property (Project)
 keywords: vbapj.chm131700
 f1_keywords:
 - vbapj.chm131700
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.CurrentFilter
 ms.assetid: b97e43ac-2167-80f0-bf5e-609a08f42fd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CurrentFilter Property (Project)
+# Project.CurrentFilter property (Project)
 
 Gets the name of the active filter for a project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `CurrentFilter`
+_expression_. `CurrentFilter`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -40,4 +41,4 @@ Sub ViewDetails()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

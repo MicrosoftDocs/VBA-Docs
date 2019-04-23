@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObjects.Application
 ms.assetid: 7b1a3c94-8446-9f4c-98fb-3fd1f99360f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ListObjects](Excel.ListObjects.md) object.
+_expression_ A variable that represents a [ListObjects](Excel.ListObjects.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [ListObjects Object](Excel.ListObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

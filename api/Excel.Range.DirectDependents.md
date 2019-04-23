@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.DirectDependents
 ms.assetid: 266b054e-6838-ffe7-14e2-e712a149e5be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `DirectDependents`
+_expression_. `DirectDependents`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Range("A1").DirectDependents.Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

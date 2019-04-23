@@ -1,5 +1,5 @@
 ---
-title: WebOptions Object (Word)
+title: WebOptions object (Word)
 keywords: vbawd10.chm2532
 f1_keywords:
 - vbawd10.chm2532
@@ -8,10 +8,11 @@ api_name:
 - Word.WebOptions
 ms.assetid: 658ae89d-3f92-067b-1309-7fc90b257111
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions Object (Word)
+# WebOptions object (Word)
 
 Contains document-level attributes used by Microsoft Word when you save a document as a Web page or open a Web page.
 
@@ -41,5 +42,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

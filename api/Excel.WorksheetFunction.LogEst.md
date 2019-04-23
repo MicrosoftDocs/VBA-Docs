@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LogEst Method (Excel)
+title: WorksheetFunction.LogEst method (Excel)
 keywords: vbaxl10.chm137105
 f1_keywords:
 - vbaxl10.chm137105
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.LogEst
 ms.assetid: 1730086d-5d14-4d9f-dc0e-5186cf932099
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.LogEst Method (Excel)
+# WorksheetFunction.LogEst method (Excel)
 
 In regression analysis, calculates an exponential curve that fits your data and returns an array of values that describes the curve. Because this function returns an array of values, it must be entered as an array formula.
 
@@ -20,7 +21,7 @@ In regression analysis, calculates an exponential curve that fits your data and 
 
 _expression_. `LogEst`(`Arg1`, `Arg2`, `Arg3`, `Arg4`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -79,3 +80,4 @@ where the dependent y-value is a function of the independent x-values. The m-val
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

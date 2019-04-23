@@ -1,5 +1,5 @@
 ---
-title: Endnote.Creator Property (Word)
+title: Endnote.Creator property (Word)
 keywords: vbawd10.chm155059177
 f1_keywords:
 - vbawd10.chm155059177
@@ -8,19 +8,20 @@ api_name:
 - Word.Endnote.Creator
 ms.assetid: 673d007e-fe72-cc7d-e0eb-25e533b43f98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnote.Creator Property (Word)
+# Endnote.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[Endnote](Word.Endnote.md)' object.
+_expression_ Required. A variable that represents an '[Endnote](Word.Endnote.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Endnote Object](Word.Endnote.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.NumberFormat
 ms.assetid: 1be10810-da25-588c-9c04-ce572069cf42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the format code for the obje
 
 ## Syntax
 
- _expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The format code is the same string as the  **Format Codes** option in the **Form
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

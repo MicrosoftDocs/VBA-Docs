@@ -1,14 +1,15 @@
 ---
-title: WdGoToItem Enumeration (Word)
+title: WdGoToItem enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdGoToItem
 ms.assetid: 14b60456-ee96-e845-2686-79e9810a2af5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdGoToItem Enumeration (Word)
+# WdGoToItem enumeration (Word)
 
 Specifies the type of item to move the insertion point or selection just prior to.
 
@@ -34,3 +35,4 @@ Specifies the type of item to move the insertion point or selection just prior t
 | **wdGoToSpellingError**|13|A spelling error.|
 | **wdGoToTable**|2|A table.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

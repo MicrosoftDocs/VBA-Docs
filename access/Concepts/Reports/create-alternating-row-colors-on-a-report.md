@@ -3,6 +3,7 @@ title: Create alternating row colors on a report
 ms.prod: access
 ms.assetid: ea37a0cb-9057-e268-28a7-183751c8a1b8
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -20,4 +21,4 @@ Private Sub Detail_Print(Cancel As Integer, PrintCount As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

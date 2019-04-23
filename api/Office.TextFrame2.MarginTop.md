@@ -1,23 +1,24 @@
 ---
-title: TextFrame2.MarginTop Property (Office)
+title: TextFrame2.MarginTop property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.MarginTop
 ms.assetid: d42e148d-8a92-3331-b179-3a3af4447328
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextFrame2.MarginTop Property (Office)
+# TextFrame2.MarginTop property (Office)
 
-Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write
+Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write.
 
 
 ## Syntax
 
- _expression_. `MarginTop`
+_expression_.**MarginTop**
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+_expression_ An expression that returns a **[TextFrame2](Office.TextFrame2.md)** object.
 
 
 ## Example
@@ -40,10 +41,8 @@ End With
 
 ## See also
 
-
-[TextFrame2 Object](Office.TextFrame2.md)
-
+- [TextFrame2 object members](overview/Library-Reference/textframe2-members-office.md)
 
 
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

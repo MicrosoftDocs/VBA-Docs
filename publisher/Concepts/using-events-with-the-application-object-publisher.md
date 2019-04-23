@@ -3,19 +3,19 @@ title: Using Events with the Application Object (Publisher)
 ms.prod: publisher
 ms.assetid: 29b60d3c-3049-2ba9-8688-e46c4323e9ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Using Events with the Application Object (Publisher)
 
-To create an event handler for an event of the  **Application** object, you need to complete the following three steps:
+To create an event handler for an event of the **Application** object, you need to complete the following three steps:
 
-
-1.  [Declare an object variable in a class module to respond to the events.](#declare)
+1. Declare an object variable in a class module to respond to the events.
     
-2.  [Write the specific event procedures.](#write)
+2. Write the specific event procedures.
     
-3.  [Initialize the declared object from another module.](#initialize)
+3. Initialize the declared object from another module.
     
 
 ## Declare the Object Variable
@@ -57,4 +57,4 @@ Run the Register_Event_Handler procedure. After the running procedure, the App o
 
  **Note**  For information on creating event procedures for the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

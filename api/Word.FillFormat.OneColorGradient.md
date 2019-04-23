@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (Word)
+title: FillFormat.OneColorGradient method (Word)
 keywords: vbawd10.chm164102155
 f1_keywords:
 - vbawd10.chm164102155
@@ -8,19 +8,20 @@ api_name:
 - Word.FillFormat.OneColorGradient
 ms.assetid: 993ae539-0051-cbf1-390b-4852aa97f5fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.OneColorGradient Method (Word)
+# FillFormat.OneColorGradient method (Word)
 
 Sets the specified fill to a one-color gradient.
 
 
 ## Syntax
 
- _expression_. `OneColorGradient`( `_Style_` , `_Variant_` , `_Degree_` )
+_expression_. `OneColorGradient`( `_Style_` , `_Variant_` , `_Degree_` )
 
- _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Sets the specified fill to a one-color gradient.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **MsoGradientStyle**|The gradient style. Can be any  **MsoGradientStyle** constant except **msoGradientFromTitle** which applies only to Microsoft PowerPoint.|
-| _Variant_|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromCenter** , this argument can be either 1 or 2.|
+| _Variant_|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromCenter**, this argument can be either 1 or 2.|
 | _Degree_|Required| **Single**|The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light).|
 
 ## Example
@@ -57,3 +58,4 @@ With ActiveDocument
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

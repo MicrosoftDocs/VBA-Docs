@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ForceUpdateToAllAttendees Property (Outlook)
+title: AppointmentItem.ForceUpdateToAllAttendees property (Outlook)
 keywords: vbaol11.chm3226
 f1_keywords:
 - vbaol11.chm3226
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.ForceUpdateToAllAttendees
 ms.assetid: fe926820-2694-9aa3-8359-cc2ed3ac2f32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.ForceUpdateToAllAttendees Property (Outlook)
+# AppointmentItem.ForceUpdateToAllAttendees property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether updates to the [AppointmentItem](Outlook.AppointmentItem.md) object should be sent to all attendees. Read/write.
 
 
 ## Syntax
 
- _expression_. `ForceUpdateToAllAttendees`
+_expression_. `ForceUpdateToAllAttendees`
 
- _expression_ An expression that returns an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+ _expression_ An expression that returns an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Normally, updates are sent to attendees only if the time or location of an appoi
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

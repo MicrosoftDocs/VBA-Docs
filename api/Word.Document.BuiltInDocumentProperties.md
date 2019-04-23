@@ -1,5 +1,5 @@
 ---
-title: Document.BuiltInDocumentProperties Property (Word)
+title: Document.BuiltInDocumentProperties property (Word)
 keywords: vbawd10.chm158008296
 f1_keywords:
 - vbawd10.chm158008296
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.BuiltInDocumentProperties
 ms.assetid: 5e9a17dd-75b3-50e5-359e-dc0d0a59c46f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.BuiltInDocumentProperties Property (Word)
+# Document.BuiltInDocumentProperties property (Word)
 
 Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified document.
 
 
 ## Syntax
 
- _expression_. `BuiltInDocumentProperties`
+_expression_. `BuiltInDocumentProperties`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -76,3 +77,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

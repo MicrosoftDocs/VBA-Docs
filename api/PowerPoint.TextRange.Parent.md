@@ -1,5 +1,5 @@
 ---
-title: TextRange.Parent Property (PowerPoint)
+title: TextRange.Parent property (PowerPoint)
 keywords: vbapp10.chm569002
 f1_keywords:
 - vbapp10.chm569002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Parent
 ms.assetid: 303cc0cf-8c1c-60af-648e-fea4d25abb36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Parent Property (PowerPoint)
+# TextRange.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

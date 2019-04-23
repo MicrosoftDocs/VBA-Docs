@@ -1,5 +1,5 @@
 ---
-title: Application.BeforePrint Event (Publisher)
+title: Application.BeforePrint event (Publisher)
 keywords: vbapb10.chm268435491
 f1_keywords:
 - vbapb10.chm268435491
@@ -8,19 +8,20 @@ api_name:
 - Publisher.Application.BeforePrint
 ms.assetid: 4d819aab-726e-ab00-89e0-aedcb62d834e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BeforePrint Event (Publisher)
+# Application.BeforePrint event (Publisher)
 
 Occurs before the publication is printed or previewed. .
 
 
 ## Syntax
 
- _expression_. **BeforePrint**(**_Doc_**,  **_Cancel_**)
+_expression_.**BeforePrint**(**_Doc_**,  **_Cancel_**)
 
- _expression_An expression that returns an  **Application** object.
+ _expression_ An expression that returns an  **Application** object.
 
 
 ## Parameters
@@ -76,3 +77,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

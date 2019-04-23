@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7ce501fb-cf7f-4a08-b33e-9a10f7a524bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.GetDisplayNameFromObjectMatchingID Method (Project)](http://msdn.microsoft.com/library/5e535f7b-fbd9-2989-57ed-583f491a448b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

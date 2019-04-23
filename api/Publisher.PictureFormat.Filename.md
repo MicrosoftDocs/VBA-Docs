@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Filename Property (Publisher)
+title: PictureFormat.Filename property (Publisher)
 keywords: vbapb10.chm3604756
 f1_keywords:
 - vbapb10.chm3604756
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.Filename
 ms.assetid: 73e2a224-f15a-50cc-462e-10ccf9478122
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Filename Property (Publisher)
+# PictureFormat.Filename property (Publisher)
 
 Returns a  **String** that represents the file name of the specified picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Filename**
+_expression_.**Filename**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -65,4 +66,4 @@ For Each pgLoop In ActiveDocument.Pages
 Next pgLoop
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

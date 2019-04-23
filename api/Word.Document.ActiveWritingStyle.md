@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveWritingStyle Property (Word)
+title: Document.ActiveWritingStyle property (Word)
 keywords: vbawd10.chm158007386
 f1_keywords:
 - vbawd10.chm158007386
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ActiveWritingStyle
 ms.assetid: 035c0872-8c0b-c95f-dd0c-893982304e0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ActiveWritingStyle Property (Word)
+# Document.ActiveWritingStyle property (Word)
 
-Returns or sets the writing style for a specified language in the specified document. Read/write  **String** .
+Returns or sets the writing style for a specified language in the specified document. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ActiveWritingStyle`( `_LanguageID_` )
+_expression_. `ActiveWritingStyle`( `_LanguageID_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -69,3 +70,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

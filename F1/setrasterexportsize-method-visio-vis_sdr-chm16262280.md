@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 064383c7-f15e-498e-8089-36c067c4a2da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SetRasterExportSize Method](http://msdn.microsoft.com/library/7642ac36-b642-ce76-1da7-f34331d47478%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

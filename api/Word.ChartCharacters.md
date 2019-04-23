@@ -1,14 +1,15 @@
 ---
-title: ChartCharacters Object (Word)
+title: ChartCharacters object (Word)
 ms.prod: word
 api_name:
 - Word.ChartCharacters
 ms.assetid: cffe50a7-3fdc-75ad-2e32-081ba2310c1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartCharacters Object (Word)
+# ChartCharacters object (Word)
 
 Represents characters in an object that contains text. 
 
@@ -36,5 +37,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

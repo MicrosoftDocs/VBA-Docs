@@ -1,5 +1,5 @@
 ---
-title: Pages.ItemFromID Property (Visio)
+title: Pages.ItemFromID property (Visio)
 keywords: vis_sdr.chm11013775
 f1_keywords:
 - vis_sdr.chm11013775
@@ -8,17 +8,18 @@ api_name:
 - Visio.Pages.ItemFromID
 ms.assetid: 0355a186-b7bf-51e5-bb2c-433417cf2d33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.ItemFromID Property (Visio)
+# Pages.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) collection.
 
@@ -46,4 +47,4 @@ The ID of a  **Font** object corresponds to the number stored in the Font cell o
 
 The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

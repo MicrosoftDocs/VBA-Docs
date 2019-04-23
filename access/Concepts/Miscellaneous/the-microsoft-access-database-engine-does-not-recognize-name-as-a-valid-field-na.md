@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 8866f9ea-4c2b-45f6-9ec7-8e23596efbf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,3 +43,5 @@ Possible causes with Microsoft Access:
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

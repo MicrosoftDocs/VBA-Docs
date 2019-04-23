@@ -1,5 +1,5 @@
 ---
-title: Window.GetWindowRect Method (Visio)
+title: Window.GetWindowRect method (Visio)
 keywords: vis_sdr.chm11616330
 f1_keywords:
 - vis_sdr.chm11616330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.GetWindowRect
 ms.assetid: 272714c6-3502-4baa-5006-2dcec8c0dfbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.GetWindowRect Method (Visio)
+# Window.GetWindowRect method (Visio)
 
 Gets the size and position of the client area of a window.
 
 
 ## Syntax
 
- _expression_. `GetWindowRect`( `_pnLeft_` , `_pnTop_` , `_pnWidth_` , `_pnHeight_` )
+_expression_. `GetWindowRect`( `_pnLeft_` , `_pnTop_` , `_pnWidth_` , `_pnHeight_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -74,4 +75,4 @@ Public Sub GetWindowRect_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMembers.Count
 ms.assetid: d784b90b-3d89-4c73-43c5-f5d5861e8269
-ms.date: 06/08/2017
+ms.date: 04/13/2019
+localization_priority: Normal
 ---
 
 
 # CalculatedMembers.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMembers.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[CalculatedMembers](Excel.CalculatedMembers.md)** object.
 
 
-[CalculatedMembers Collection](Excel.CalculatedMembers.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

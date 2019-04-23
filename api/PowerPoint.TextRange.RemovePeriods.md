@@ -1,5 +1,5 @@
 ---
-title: TextRange.RemovePeriods Method (PowerPoint)
+title: TextRange.RemovePeriods method (PowerPoint)
 keywords: vbapp10.chm569033
 f1_keywords:
 - vbapp10.chm569033
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.RemovePeriods
 ms.assetid: 66562cc7-e25b-e110-000e-c01b62caf761
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.RemovePeriods Method (PowerPoint)
+# TextRange.RemovePeriods method (PowerPoint)
 
 Removes the period at the end of each paragraph in the specified text.
 
 
 ## Syntax
 
- _expression_. `RemovePeriods`
+_expression_. `RemovePeriods`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -40,3 +41,4 @@ Application.ActivePresentation.Slides(1) _
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

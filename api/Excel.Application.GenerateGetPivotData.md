@@ -7,20 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Application.GenerateGetPivotData
 ms.assetid: 83effd5f-5101-ba1b-ab45-722e26074ea7
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
 # Application.GenerateGetPivotData property (Excel)
 
-Returns  **True** when Microsoft Excel can get PivotTable report data. Read/write **Boolean** .
+Returns **True** when Microsoft Excel can get PivotTable report data. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `GenerateGetPivotData`
+_expression_.**GenerateGetPivotData**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
@@ -42,8 +43,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

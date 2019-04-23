@@ -1,5 +1,5 @@
 ---
-title: Plate Object (Publisher)
+title: Plate object (Publisher)
 keywords: vbapb10.chm2949119
 f1_keywords:
 - vbapb10.chm2949119
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Plate
 ms.assetid: f7d7dbb1-a6a4-780f-814e-8e95aaaeeeea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Plate Object (Publisher)
+# Plate object (Publisher)
 
 Represents a single printer's plate. The  **Plate** object is a member of the **[Plates](Publisher.Plates.md)** collection.
  
@@ -45,7 +46,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ConvertToProcess](Publisher.Plate.ConvertToProcess.md)|
 |[Delete](Publisher.Plate.Delete.md)|
@@ -54,7 +55,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Plate.Application.md)|
 |[Color](Publisher.Plate.Color.md)|
@@ -65,3 +66,4 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 |[Name](Publisher.Plate.Name.md)|
 |[Parent](Publisher.Plate.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

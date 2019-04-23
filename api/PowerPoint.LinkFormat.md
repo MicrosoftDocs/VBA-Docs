@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (PowerPoint)
+title: LinkFormat object (PowerPoint)
 keywords: vbapp10.chm563000
 f1_keywords:
 - vbapp10.chm563000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.LinkFormat
 ms.assetid: e89ee344-4197-ac0d-dd53-966e4672a3ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat Object (PowerPoint)
+# LinkFormat object (PowerPoint)
 
 Contains properties and methods that apply to linked OLE objects, linked pictures, and IIRC media objects. 
 
@@ -46,7 +47,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BreakLink](./PowerPoint.LinkFormat.BreakLink.md)|
 |[Update](./PowerPoint.LinkFormat.Update.md)|
@@ -55,7 +56,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.LinkFormat.Application.md)|
 |[AutoUpdate](./PowerPoint.LinkFormat.AutoUpdate.md)|
@@ -65,4 +66,6 @@ Next
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

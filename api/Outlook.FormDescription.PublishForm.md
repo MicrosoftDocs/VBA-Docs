@@ -1,5 +1,5 @@
 ---
-title: FormDescription.PublishForm Method (Outlook)
+title: FormDescription.PublishForm method (Outlook)
 keywords: vbaol11.chm201
 f1_keywords:
 - vbaol11.chm201
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormDescription.PublishForm
 ms.assetid: 2040736a-4be0-90c4-0dfc-20c6ee4eb305
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormDescription.PublishForm Method (Outlook)
+# FormDescription.PublishForm method (Outlook)
 
 Saves the definition of the  **[FormDescription](Outlook.FormDescription.md)** object in the specified form registry (library).
 
 
 ## Syntax
 
- _expression_. `PublishForm`( `_Registry_` , `_Folder_` )
+_expression_. `PublishForm`( `_Registry_` , `_Folder_` )
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Parameters
@@ -82,7 +83,7 @@ This VBA example creates an appointment, obtains its  **FormDescription** object
 
 
 
-To view the form after you have published it, on the  **File** menu, point to **New**, and click  **Choose Form** . In the **Look in** box, click **Personal Forms Library** . To open your new form, double-click **Interview Scheduler**.
+To view the form after you have published it, on the  **File** menu, point to **New**, and click  **Choose Form**. In the **Look in** box, click **Personal Forms Library**. To open your new form, double-click **Interview Scheduler**.
 
 
 
@@ -103,3 +104,4 @@ myForm.PublishForm olPersonalRegistry
 
 [FormDescription Object](Outlook.FormDescription.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Conflict.Type Property (Word)
+title: Conflict.Type property (Word)
 keywords: vbawd10.chm78708740
 f1_keywords:
 - vbawd10.chm78708740
@@ -8,17 +8,18 @@ api_name:
 - Word.Conflict.Type
 ms.assetid: d2e5ad43-4b4b-8ce2-3aeb-453012759d9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conflict.Type Property (Word)
+# Conflict.Type property (Word)
 
 Returns the [WdRevisionType](Word.WdRevisionType.md)for the [Conflict](Word.Conflict.md) object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ An expression that returns a '[Conflict](Word.Conflict.md)' object.
 
@@ -42,3 +43,4 @@ Next con
 
 [Conflict Object](Word.Conflict.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

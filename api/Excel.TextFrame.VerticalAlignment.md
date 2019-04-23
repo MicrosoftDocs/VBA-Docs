@@ -8,19 +8,20 @@ api_name:
 - Excel.TextFrame.VerticalAlignment
 ms.assetid: 72cb4110-ec7a-876e-b347-de1c2a83c0e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextFrame.VerticalAlignment property (Excel)
 
-Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
+Returns or sets an **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
- _expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

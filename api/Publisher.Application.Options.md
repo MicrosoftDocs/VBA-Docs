@@ -1,5 +1,5 @@
 ---
-title: Application.Options Property (Publisher)
+title: Application.Options property (Publisher)
 keywords: vbapb10.chm131095
 f1_keywords:
 - vbapb10.chm131095
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Options
 ms.assetid: 999f208a-02e6-49fb-c9a0-42aa97c5e37e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Options Property (Publisher)
+# Application.Options property (Publisher)
 
 Returns an  **[Options](Publisher.Options.md)** object that represents application settings you can set in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **Options**
+_expression_.**Options**
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -51,3 +52,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

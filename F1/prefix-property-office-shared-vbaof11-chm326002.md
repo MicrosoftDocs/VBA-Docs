@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e55bc5dc-818f-472d-8bc6-d6b15367fa90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [IAssistance.SearchHelp Method (Office)](http://msdn.microsoft.com/library/807128e9-5125-1650-d53f-cbd50d3e318a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

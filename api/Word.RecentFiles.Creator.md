@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Creator Property (Word)
+title: RecentFiles.Creator property (Word)
 keywords: vbawd10.chm157484009
 f1_keywords:
 - vbawd10.chm157484009
@@ -8,19 +8,20 @@ api_name:
 - Word.RecentFiles.Creator
 ms.assetid: ecceac10-8c08-2930-96ea-db6c28d936f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFiles.Creator Property (Word)
+# RecentFiles.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
+_expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [RecentFiles Collection Object](Word.recentfiles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 7d4e4355-51cd-36cc-3e3c-18928f8cc03c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Allow a Command Button to Take Focus Upon Clicking
+# Allow a Command Button to Take Focus Upon Clicking
 
 The following example uses the  **[TakeFocusOnClick](../../../api/Outlook.commandbutton.takefocusonclick.md)** property to control whether a **[CommandButton](../../../api/Outlook.commandbutton.md)** receives the focus when the user clicks on it. The user clicks a control other than CommandButton1 and then clicks CommandButton1. If **TakeFocusOnClick** is **True**, CommandButton1 receives the focus after it is clicked. The user can change the value of  **TakeFocusOnClick** by clicking the **[ToggleButton](../../../api/Outlook.togglebutton.md)**.
 
@@ -54,4 +55,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

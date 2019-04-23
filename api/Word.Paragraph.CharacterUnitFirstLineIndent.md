@@ -1,5 +1,5 @@
 ---
-title: Paragraph.CharacterUnitFirstLineIndent Property (Word)
+title: Paragraph.CharacterUnitFirstLineIndent property (Word)
 keywords: vbawd10.chm156696704
 f1_keywords:
 - vbawd10.chm156696704
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.CharacterUnitFirstLineIndent
 ms.assetid: 013bb6e1-4327-fa20-184f-cde8726e0171
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.CharacterUnitFirstLineIndent Property (Word)
+# Paragraph.CharacterUnitFirstLineIndent property (Word)
 
-Returns or sets the value (in characters) for a first-line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write  **Single** .
+Returns or sets the value (in characters) for a first-line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CharacterUnitFirstLineIndent`
+_expression_. `CharacterUnitFirstLineIndent`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example
@@ -49,3 +50,4 @@ ActiveDocument.Paragraphs(2) _
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

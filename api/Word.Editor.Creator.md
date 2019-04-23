@@ -1,5 +1,5 @@
 ---
-title: Editor.Creator Property (Word)
+title: Editor.Creator property (Word)
 keywords: vbawd10.chm225575913
 f1_keywords:
 - vbawd10.chm225575913
@@ -8,19 +8,20 @@ api_name:
 - Word.Editor.Creator
 ms.assetid: 53a7bbca-98ff-18f1-8e9c-7c738aa1d493
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Editor.Creator Property (Word)
+# Editor.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
+_expression_ Required. A variable that represents an '[Editor](Word.Editor.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Editor Object](Word.Editor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

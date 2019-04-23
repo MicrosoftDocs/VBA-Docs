@@ -8,6 +8,7 @@ api_name:
 - Access.Constants
 ms.assetid: 4fa47253-5cfb-a8aa-c3f4-e402465efbc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -253,3 +254,5 @@ ms.date: 06/08/2017
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

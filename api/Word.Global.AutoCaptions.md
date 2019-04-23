@@ -1,5 +1,5 @@
 ---
-title: Global.AutoCaptions Property (Word)
+title: Global.AutoCaptions property (Word)
 keywords: vbawd10.chm163119125
 f1_keywords:
 - vbawd10.chm163119125
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.AutoCaptions
 ms.assetid: 88fac2d9-ac54-6f8a-aefd-100438a0ae1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.AutoCaptions Property (Word)
+# Global.AutoCaptions property (Word)
 
 Returns an  **[AutoCaptions](Word.autocaptions.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoCaptions`
+_expression_. `AutoCaptions`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -47,3 +48,4 @@ Next captionLoop
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

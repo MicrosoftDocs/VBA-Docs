@@ -1,5 +1,5 @@
 ---
-title: Application.EPostagePropertyDialog Event (Word)
+title: Application.EPostagePropertyDialog event (Word)
 keywords: vbawd10.chm4000014
 f1_keywords:
 - vbawd10.chm4000014
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.EPostagePropertyDialog
 ms.assetid: 6d48fb9b-7826-2897-4deb-bde202fbd05b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EPostagePropertyDialog Event (Word)
+# Application.EPostagePropertyDialog event (Word)
 
 Occurs when a user clicks the  **E-postage Properties** (**Labels and Envelopes** dialog box) button or **Print Electronic Postage** button.
 
 
 ## Syntax
 
- _expression_. `Private Sub object_EPostagePropertyDialog`( `_ByVal Doc As Document_` )
+_expression_. `Private Sub object_EPostagePropertyDialog`( `_ByVal Doc As Document_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
@@ -54,3 +55,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

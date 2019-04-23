@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HorizontalFlip Property (PowerPoint)
+title: ShapeRange.HorizontalFlip property (PowerPoint)
 keywords: vbapp10.chm548025
 f1_keywords:
 - vbapp10.chm548025
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.HorizontalFlip
 ms.assetid: 4c41e250-2a8f-3eab-3244-0910fb43362e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.HorizontalFlip Property (PowerPoint)
+# ShapeRange.HorizontalFlip property (PowerPoint)
 
 Returns whether the specified shape is flipped around the horizontal axis. Read-only.
 
 
 ## Syntax
 
- _expression_. `HorizontalFlip`
+_expression_. `HorizontalFlip`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -34,14 +35,14 @@ The value of the  **HorizontalFlip** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The specified shape is not flipped around the horizontal axis.|
 |**msoTrue**| The specified shape is flipped around the horizontal axis.|
 
 ## Example
 
-This example restores each shape on  `myDocument` to its original state, if it is been flipped horizontally or vertically.
+This example restores each shape on  _myDocument_ to its original state, if it is been flipped horizontally or vertically.
 
 
 ```vb
@@ -62,3 +63,4 @@ Next
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

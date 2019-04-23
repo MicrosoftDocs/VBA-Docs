@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: c0b0f9bb-5ad4-69c1-9553-2caf420870f1
 ms.date: 06/08/2017
 ms.prod: access
+localization_priority: Normal
 ---
 
 
@@ -18,10 +19,11 @@ Returns  **true** if the code project was created in Access 2013 and onwards and
 
 _expression_. `IsSQLBackend`
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## See also
 
 - [CodeProject Object](Access.CodeProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

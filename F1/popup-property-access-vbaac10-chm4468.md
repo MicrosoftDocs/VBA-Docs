@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5f88695e-3dd3-4860-9e9e-5ac5a4d4bccb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.PopUp property (Access)](http://msdn.microsoft.com/library/76e82181-c5d5-01b2-c7ce-b2c78f237a75%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

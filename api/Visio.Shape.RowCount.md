@@ -1,5 +1,5 @@
 ---
-title: Shape.RowCount Property (Visio)
+title: Shape.RowCount property (Visio)
 keywords: vis_sdr.chm11214245
 f1_keywords:
 - vis_sdr.chm11214245
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.RowCount
 ms.assetid: 358f07c8-f72a-134a-53d8-9b70f2400484
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.RowCount Property (Visio)
+# Shape.RowCount property (Visio)
 
 Returns the number of rows in a ShapeSheet section. Read-only.
 
 
 ## Syntax
 
- _expression_. `RowCount`( `_Section_` )
+_expression_. `RowCount`( `_Section_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -123,4 +124,4 @@ Public Sub RowCount_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3319c374-ac25-4934-aee6-9bc824810eb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Window.MouseMove Event (Visio)](http://msdn.microsoft.com/library/97f6aece-2d09-b0cc-3197-c16b7cc976a7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

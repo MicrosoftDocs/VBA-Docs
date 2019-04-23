@@ -1,5 +1,5 @@
 ---
-title: Shading Object (Word)
+title: Shading object (Word)
 keywords: vbawd10.chm2362
 f1_keywords:
 - vbawd10.chm2362
@@ -8,10 +8,11 @@ api_name:
 - Word.Shading
 ms.assetid: e136509a-1be1-29e4-7b37-1faf659e37ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shading Object (Word)
+# Shading object (Word)
 
 Contains shading attributes for an object.
 
@@ -53,7 +54,7 @@ ActiveDocument.Tables(1).Rows(1).Shading.Texture = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Shading.Application.md)|
 |[BackgroundPatternColor](Word.Shading.BackgroundPatternColor.md)|
@@ -67,4 +68,6 @@ ActiveDocument.Tables(1).Rows(1).Shading.Texture = _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

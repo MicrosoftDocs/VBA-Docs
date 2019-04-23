@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlSchemas.Creator
 ms.assetid: c9000e23-0426-9571-8104-6b4542f661fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # XmlSchemas.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [XmlSchemas](./Excel.XmlSchemas.md) object.
+_expression_ A variable that represents a [XmlSchemas](Excel.XmlSchemas.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [XmlSchemas Object](Excel.XmlSchemas.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Programmatically Change the Display Format for All Contacts
 ms.prod: outlook
 ms.assetid: 3cf2408e-4d9d-4b41-5cd0-1f3c12784fd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,4 +44,4 @@ Private Sub ReFileContacts()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

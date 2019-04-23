@@ -1,14 +1,15 @@
 ---
-title: PjWeekday Enumeration (Project)
+title: PjWeekday enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWeekday
 ms.assetid: 02572463-5e6d-e62e-6776-2e24359980aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjWeekday Enumeration (Project)
+# PjWeekday enumeration (Project)
 
 Contains constants that specify the day of the week.
 
@@ -24,3 +25,4 @@ Contains constants that specify the day of the week.
 |**pjTuesday**|3|Tuesday.|
 |**pjWednesday**|4|Wednesday.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

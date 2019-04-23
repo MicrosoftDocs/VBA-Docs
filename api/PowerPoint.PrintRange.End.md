@@ -1,5 +1,5 @@
 ---
-title: PrintRange.End Property (PowerPoint)
+title: PrintRange.End property (PowerPoint)
 keywords: vbapp10.chm519004
 f1_keywords:
 - vbapp10.chm519004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintRange.End
 ms.assetid: 39f470c1-b469-3411-95e4-c6701487c498
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintRange.End Property (PowerPoint)
+# PrintRange.End property (PowerPoint)
 
 Returns the number of the last slide in the specified print range. Read-only.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
  _expression_ A variable that represents an [PrintRange](./PowerPoint.PrintRange.md) object.
 
@@ -52,3 +53,4 @@ End With
 
 [PrintRange Object](PowerPoint.PrintRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

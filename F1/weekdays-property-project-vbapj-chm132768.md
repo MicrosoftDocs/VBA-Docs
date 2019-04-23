@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 87a23325-394b-4a52-9e07-6d26521ab22b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.UnderlineHyperlinks Property (Project)](http://msdn.microsoft.com/library/218e1425-5198-eedd-22f4-ffa7eb069999%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

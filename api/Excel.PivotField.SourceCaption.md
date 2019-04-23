@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.SourceCaption
 ms.assetid: a430eda8-5e05-fea9-69ba-d05b369a9859
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ The  **SourceCaption** property is applicable only for OLAP PivotTables, and ret
 
 ## Syntax
 
- _expression_. `SourceCaption`
+_expression_. `SourceCaption`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
- You can use the **PivotField** . **Name** or the **PivotField** . **SourceName** for non-OLAP PivotTables.
+ You can use the **PivotField**. **Name** or the **PivotField**. **SourceName** for non-OLAP PivotTables.
 
 
 ## See also
@@ -33,3 +34,4 @@ The  **SourceCaption** property is applicable only for OLAP PivotTables, and ret
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

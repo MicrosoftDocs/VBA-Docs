@@ -3,6 +3,7 @@ title: Tab.Name Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 270b9d06-fdba-44a4-ba4c-b6b1a57a80d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that specifies the name of a control. Read/write.
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
- _expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ You can set the  **Name** property for a control from the control's property she
 
 Each control added to a form at design time must have a unique name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

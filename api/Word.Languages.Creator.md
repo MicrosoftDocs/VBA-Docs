@@ -1,5 +1,5 @@
 ---
-title: Languages.Creator Property (Word)
+title: Languages.Creator property (Word)
 keywords: vbawd10.chm158204905
 f1_keywords:
 - vbawd10.chm158204905
@@ -8,19 +8,20 @@ api_name:
 - Word.Languages.Creator
 ms.assetid: ef63da8d-146f-9e62-3179-dc070580a68a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Languages.Creator Property (Word)
+# Languages.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Languages](Word.languages.md)' collection.
+_expression_ Required. A variable that represents a '[Languages](Word.languages.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Languages Collection Object](Word.languages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

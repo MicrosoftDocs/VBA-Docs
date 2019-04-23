@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.ChapterStyleLevel Property (Word)
+title: CaptionLabel.ChapterStyleLevel property (Word)
 keywords: vbawd10.chm158924805
 f1_keywords:
 - vbawd10.chm158924805
@@ -8,17 +8,18 @@ api_name:
 - Word.CaptionLabel.ChapterStyleLevel
 ms.assetid: c0824b64-8709-009a-53cd-353238289e88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionLabel.ChapterStyleLevel Property (Word)
+# CaptionLabel.ChapterStyleLevel property (Word)
 
-Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write  **Long** .
+Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `ChapterStyleLevel`
+_expression_. `ChapterStyleLevel`
 
  _expression_ A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

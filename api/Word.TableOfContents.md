@@ -1,14 +1,15 @@
 ---
-title: TableOfContents Object (Word)
+title: TableOfContents object (Word)
 ms.prod: word
 api_name:
 - Word.TableOfContents
 ms.assetid: 629a03c1-ae97-649d-7ec4-25210b4b9ecd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfContents Object (Word)
+# TableOfContents object (Word)
 
 Represents a single table of contents in a document. The  **TableOfContents** object is a member of the **[TablesOfContents](Word.tablesofcontents.md)** collection. The **TablesOfContents** collection includes all the tables of contents in a document.
 
@@ -40,7 +41,7 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.TableOfContents.Delete.md)|
 |[Update](Word.TableOfContents.Update.md)|
@@ -50,7 +51,7 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.TableOfContents.Application.md)|
 |[Creator](Word.TableOfContents.Creator.md)|
@@ -71,4 +72,6 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

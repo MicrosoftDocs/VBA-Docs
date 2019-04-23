@@ -1,5 +1,5 @@
 ---
-title: ListObject.ExportToVisio Method (Excel)
+title: ListObject.ExportToVisio method (Excel)
 keywords: vbaxl10.chm734107
 f1_keywords:
 - vbaxl10.chm734107
@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.ExportToVisio
 ms.assetid: 2f4f1079-9971-d7ac-5bf5-3bcc4e68e804
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListObject.ExportToVisio Method (Excel)
+# ListObject.ExportToVisio method (Excel)
 
 Exports a  **ListObject** object to Visio.
 
 
 ## Syntax
 
- _expression_. `ExportToVisio`
+_expression_. `ExportToVisio`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Exports a  **ListObject** object to Visio.
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

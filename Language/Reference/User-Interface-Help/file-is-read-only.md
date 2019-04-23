@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fb987a93-8e45-41a0-4bd2-6c75357bcbc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The file is not writable. To change it, you must save it under a different name or remove the read-only attribute.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d68d3e33-9c82-46d0-b216-d7276393012f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentProject.IsSQLBackend property (Access)](http://msdn.microsoft.com/library/39e312e0-9b58-e1fe-7a98-be5e225a3c0c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

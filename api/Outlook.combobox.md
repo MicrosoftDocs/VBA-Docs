@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 31e7c1de-ee4e-b3d9-4579-7fc6b215bad3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ The default property of a  **ComboBox** is the **[Value](Outlook.combobox.value.
 
 If you want more than a single line of the list to appear at all times, you might want to use a  **ListBox** instead of a **ComboBox**. If you want to use a  **ComboBox** and limit values to those in the list, you can set the **[Style](Outlook.combobox.style.md)** property of the **ComboBox** so the control looks like a drop-down list box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

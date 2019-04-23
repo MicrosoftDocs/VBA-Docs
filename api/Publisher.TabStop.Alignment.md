@@ -1,5 +1,5 @@
 ---
-title: TabStop.Alignment Property (Publisher)
+title: TabStop.Alignment property (Publisher)
 keywords: vbapb10.chm5636100
 f1_keywords:
 - vbapb10.chm5636100
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TabStop.Alignment
 ms.assetid: 59b35d9a-d53b-88cd-952b-6324d1ee7c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop.Alignment Property (Publisher)
+# TabStop.Alignment property (Publisher)
 
 Returns or sets a  **PbTabAlignmentType** constant that represents the alignment for the specified tab stop. Read/write.
 
 
 ## Syntax
 
- _expression_. **Alignment**
+_expression_.**Alignment**
 
  _expression_ A variable that represents a  **TabStop** object.
 
@@ -53,4 +54,4 @@ Sub CustomDecimalTabStop()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

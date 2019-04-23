@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentAlignment Method (Word)
+title: Selection.SelectCurrentAlignment method (Word)
 keywords: vbawd10.chm158663174
 f1_keywords:
 - vbawd10.chm158663174
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.SelectCurrentAlignment
 ms.assetid: 89d76005-c75a-7548-c1da-da292183d5ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SelectCurrentAlignment Method (Word)
+# Selection.SelectCurrentAlignment method (Word)
 
 Extends the selection forward until text with a different paragraph alignment is encountered.
 
 
 ## Syntax
 
- _expression_. `SelectCurrentAlignment`
+_expression_. `SelectCurrentAlignment`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

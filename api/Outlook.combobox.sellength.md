@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 0fda7952-032c-1b2d-03aa-870fe3afc757
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that represents the number of characters selected in
 
 ## Syntax
 
- _expression_. **SelLength**
+_expression_.**SelLength**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ Changing the value of the  **SelStart** property cancels any existing selection 
 
 The default value, zero, means that no text is currently selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

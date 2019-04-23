@@ -1,5 +1,5 @@
 ---
-title: DownBars Object (PowerPoint)
+title: DownBars object (PowerPoint)
 keywords: vbapp10.chm700000
 f1_keywords:
 - vbapp10.chm700000
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.DownBars
 ms.assetid: ce479049-2e58-2dad-f4bb-2dd27a223753
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DownBars Object (PowerPoint)
+# DownBars object (PowerPoint)
 
 Represents the down bars in a chart group.
 
 
 ## Remarks
 
- Down bars connect points on the first series in the chart group with lower values on the last series (the lines go down from the first series). Only 2-D line groups that contain at least two series can have down bars. This object is not a collection. There is no object that represents a single down bar; you either enable up bars and down bars for all points in a chart group or you disable them.
+ Down bars connect points on the first series in the chart group with lower values on the last series (the lines go down from the first series). Only 2D line groups that contain at least two series can have down bars. This object is not a collection. There is no object that represents a single down bar; you either enable up bars and down bars for all points in a chart group or you disable them.
 
 If the  **[HasUpDownBars](PowerPoint.ChartGroup.HasUpDownBars.md)** property is **False**, most properties of the **DownBars** object are disabled.
 
@@ -63,4 +64,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

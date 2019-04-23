@@ -1,5 +1,5 @@
 ---
-title: Application.ViewShowResourcesPredecessors Method (Project)
+title: Application.ViewShowResourcesPredecessors method (Project)
 keywords: vbapj.chm915
 f1_keywords:
 - vbapj.chm915
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewShowResourcesPredecessors
 ms.assetid: 3f7d0a36-cc1b-f3f2-8e25-d6b898d19afe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewShowResourcesPredecessors Method (Project)
+# Application.ViewShowResourcesPredecessors method (Project)
 
 Displays information about resource assignments and predecessor tasks in the active task details view.
 
 
 ## Syntax
 
- _expression_. `ViewShowResourcesPredecessors`
+_expression_. `ViewShowResourcesPredecessors`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,4 +28,4 @@ Displays information about resource assignments and predecessor tasks in the act
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

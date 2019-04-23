@@ -1,22 +1,23 @@
 ---
-title: FillFormat.Transparency Property (Publisher)
+title: FillFormat.Transparency property (Publisher)
 keywords: vbapb10.chm2359569
 f1_keywords:
 - vbapb10.chm2359569
 ms.prod: publisher
 ms.assetid: f7f8e0e9-2f44-269d-6cad-29521612ab2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Transparency Property (Publisher)
+# FillFormat.Transparency property (Publisher)
 
 Returns or sets the degree of transparency of the specified fill for a shape as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
 
 
 ## Syntax
 
- _expression_. **Transparency**
+_expression_.**Transparency**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -38,3 +39,4 @@ The value of this property affects the appearance of solid-colored fills only. I
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

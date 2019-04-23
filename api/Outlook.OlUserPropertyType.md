@@ -1,5 +1,5 @@
 ---
-title: OlUserPropertyType Enumeration (Outlook)
+title: OlUserPropertyType enumeration (Outlook)
 keywords: vbaol11.chm3089
 f1_keywords:
 - vbaol11.chm3089
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlUserPropertyType
 ms.assetid: 24a4517a-3e6c-67be-33a3-fc9c2fb3f1d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlUserPropertyType Enumeration (Outlook)
+# OlUserPropertyType enumeration (Outlook)
 
 Indicates the user property type.
 
@@ -38,4 +39,4 @@ Indicates the user property type.
 
 Used by the [ItemProperties.Add](Outlook.ItemProperties.Add.md), [UserDefinedProperties.Add](Outlook.UserDefinedProperties.Add.md), and [UserProperties.Add](Outlook.UserProperties.Add.md) methods, and [ColumnFormat.FieldType](Outlook.ColumnFormat.FieldType.md), [ItemProperty.Type](Outlook.ItemProperty.Type.md), and [UserDefinedProperty.Type](Outlook.UserDefinedProperty.Type.md) properties.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

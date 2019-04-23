@@ -1,5 +1,5 @@
 ---
-title: DataColumn.GetProperty Method (Visio)
+title: DataColumn.GetProperty method (Visio)
 keywords: vis_sdr.chm16760400
 f1_keywords:
 - vis_sdr.chm16760400
@@ -7,32 +7,31 @@ ms.prod: visio
 api_name:
 - Visio.DataColumn.GetProperty
 ms.assetid: 8fa134e8-320d-546b-1de1-e19607a60c49
-ms.date: 06/08/2017
+ms.date: 02/16/2019
+localization_priority: Normal
 ---
 
 
-# DataColumn.GetProperty Method (Visio)
+# DataColumn.GetProperty method (Visio)
 
 Gets the value of the specified data-column property.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
 
- _expression_. `GetProperty`( `_Property_` )
+_expression_.**GetProperty** (_Property_)
 
- _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
+_expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Property_|Required| **VisDataColumnProperties**|The data column property to get. See Remarks for possible values.|
+| _Property_|Required| **VisDataColumnProperties**|The data column property to get. See **Remarks** for possible values.|
 
 ## Return value
 
@@ -43,18 +42,16 @@ Variant
 
 When you link shapes in a Microsoft Visio drawing to data in a data recordset, Visio maps columns in the data recordset to rows in the Shape Data section of the ShapeSheet spreadsheet, each of which corresponds to a shape-data item. 
 
+> [!NOTE] 
+> In some previous versions of Visio, shape data were called custom properties.
 
- **Note**  In some previous versions of Visio, shape data were called custom properties.
+Data-column properties map data columns to certain cells in the Shape Data section of the ShapeSheet. For example, by passing the **GetProperty** method the **DisplayName** property, which is represented by the enumerated value **visDataColumnPropertyDisplayName**, you can get the value of the Label cell in the Shape Data section of the ShapeSheet for a particular shape data item. In addition, that property sets the label of the shape data item in the **Shape Data** dialog box, as well as the name of the data column that is displayed in the **External Data** window in the Visio user interface.
 
-Data-column properties map data columns to certain cells in the Shape Data section of the ShapeSheet. For example, by passing the  **GetProperty** method the DisplayName property, which is represented by the enumerated value **visDataColumnPropertyDisplayName** , you can get the value of the Label cell in the Shape Data section of the ShapeSheet for a particular shape data item. In addition, that property sets the label of the shape data item in the **Shape Data** dialog box, as well as the name of the data column that is displayed in the **External Data** window in the Visio user interface.
+Possible values for the _Property_ parameter are declared in **VisDataColumnProperties**, and are shown in the following table.
 
-Possible values for the Property parameter are declared in  **VisDataColumnProperties** , and are shown in the following table.
-
-
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
-| ** visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
+| **visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
 | **visDataColumnPropertyCurrency**|5|Currency of the data-column property.|
 | **visDataColumnPropertyDisplayName**|6|Display name of the data-column property in the UI.|
 | **visDataColumnPropertyHyperlink**|8|Whether the data-column value becomes a hyperlink in the Visio UI when it is linked to a shape.|
@@ -65,14 +62,11 @@ Possible values for the Property parameter are declared in  **VisDataColumnPrope
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetProperty** method to get the value of the Label cell in the Shape Data section for the first column in the data recordset passed to the method and display it in the **Immediate** window. Then it uses the **SetProperty** method to set the value and displays the new value. Changing this value changes the label of the shape data item in the **Shape Data** dialog box for all shapes linked to rows in the data recordset.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetProperty** method to get the value of the Label cell in the Shape Data section for the first column in the data recordset passed to the method, and display it in the Immediate window. It then uses the **SetProperty** method to set the value and displays the new value. Changing this value changes the label of the shape data item in the **Shape Data** dialog box for all shapes linked to rows in the data recordset.
 
-To get and set the Label cell value, the macro passes the  **visDataColumnPropertyDisplayName** value from the **VisDataColumnProperties** enumeration to the **DataColumn.GetProperty** and **DataColumn.SetProperty** methods.
+To get and set the Label cell value, the macro passes the **visDataColumnPropertyDisplayName** value from the **VisDataColumnProperties** enumeration to the **DataColumn.GetProperty** and **DataColumn.SetProperty** methods.
 
 Before running this macro, create at least one data recordset in your VBA project to pass to the macro.
-
-
-
 
 ```vb
  
@@ -94,3 +88,4 @@ End Sub
 ```
 
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

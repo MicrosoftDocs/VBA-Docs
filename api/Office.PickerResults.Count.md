@@ -1,5 +1,5 @@
 ---
-title: PickerResults.Count Property (Office)
+title: PickerResults.Count property (Office)
 keywords: vbaof11.chm339002
 f1_keywords:
 - vbaof11.chm339002
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.PickerResults.Count
 ms.assetid: e5085585-9f4d-938c-0b0c-895e11d7f44c
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerResults.Count Property (Office)
+# PickerResults.Count property (Office)
 
-Retrieves the count of the number of  **PickerResult** objects contained within the **PickerResults** collection. Read-only
+Retrieves the count of the number of **[PickerResult](Office.PickerResult.md)** objects contained within the **PickerResults** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+_expression_ An expression that returns a **[PickerResults](Office.PickerResults.md)** object.
 
 
 ## Example
 
-The following code displays the Picker Dialog user interface, gets results, and then enumerates those results.
+The following code displays the **PickerDialog** user interface, gets results, and then enumerates those results.
 
 
 ```vb
@@ -60,10 +61,8 @@ Next
 
 ## See also
 
-
-[PickerResults Object](Office.PickerResults.md)
-
+- [PickerResults object members](overview/Library-Reference/pickerresults-members-office.md)
 
 
-[PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

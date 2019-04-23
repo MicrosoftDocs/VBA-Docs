@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (Visio)
+title: Application.LanguageSettings property (Visio)
 keywords: vis_sdr.chm10060035
 f1_keywords:
 - vis_sdr.chm10060035
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.LanguageSettings
 ms.assetid: 3fa0c4a4-3a1c-b035-9f9d-e4358917ebee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.LanguageSettings Property (Visio)
+# Application.LanguageSettings property (Visio)
 
 Returns a reference to the Microsoft Office (MSO)  **LanguageSettings** interface. Read-only.
 
 
 ## Syntax
 
- _expression_. `LanguageSettings`
+_expression_. `LanguageSettings`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -52,4 +53,4 @@ Public Sub LanguageSettings_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Wizard.SetId Method (Publisher)
+title: Wizard.SetId method (Publisher)
 keywords: vbapb10.chm1441798
 f1_keywords:
 - vbapb10.chm1441798
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Wizard.SetId
 ms.assetid: d2278716-514b-0858-d68e-868d0daf86b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Wizard.SetId Method (Publisher)
+# Wizard.SetId method (Publisher)
 
 Specifies the type of the wizard (template) to which to convert the current publication type.
 
 
 ## Syntax
 
- _expression_. **SetId**(**_ID_**)
+_expression_.**SetId**(**_ID_**)
 
  _expression_ A variable that represents a  **Wizard** object.
 
@@ -49,4 +50,4 @@ Public Sub SetId_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

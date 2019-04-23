@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: c0b7ba20-7b1a-a6de-b2e0-8ec095a0e448
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -48,3 +49,5 @@ To delete the data, close the database, resolve the read-only condition, and the
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

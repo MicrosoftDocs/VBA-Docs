@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.SourceType
 ms.assetid: 4e23b50d-5b9f-3272-3e14-1ce0b95f8dc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the kind of data source the slicer is connected to. Read-only
 
 ## Syntax
 
- _expression_. `SourceType`
+_expression_. `SourceType`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Only the  **xlDatabase** and **xlExternal** data source types are supported.
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

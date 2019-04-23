@@ -5,19 +5,20 @@ api_name:
 - Excel.ThreeDFormat.ContourColor
 ms.assetid: 9941bad6-ab7d-1d51-a766-dda2ddf97f27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ThreeDFormat.ContourColor property (Excel)
 
-Returns the contour color for a  **ThreeDFormat** object. Read-only **ColorFormat** .
+Returns the contour color for a  **ThreeDFormat** object. Read-only **ColorFormat**.
 
 
 ## Syntax
 
- _expression_. `ContourColor`
+_expression_. `ContourColor`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## See also
@@ -25,3 +26,4 @@ Returns the contour color for a  **ThreeDFormat** object. Read-only **ColorForma
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

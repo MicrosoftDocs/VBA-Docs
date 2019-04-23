@@ -1,5 +1,5 @@
 ---
-title: Row.Session Property (Outlook)
+title: Row.Session property (Outlook)
 keywords: vbaol11.chm2241
 f1_keywords:
 - vbaol11.chm2241
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Row.Session
 ms.assetid: a9773e62-0091-50b4-f64c-dab4217035cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Session Property (Outlook)
+# Row.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Row Object](Outlook.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

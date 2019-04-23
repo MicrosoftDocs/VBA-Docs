@@ -1,5 +1,5 @@
 ---
-title: ChartFont.StrikeThrough Property (Word)
+title: ChartFont.StrikeThrough property (Word)
 keywords: vbawd10.chm255918100
 f1_keywords:
 - vbawd10.chm255918100
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.StrikeThrough
 ms.assetid: 8dbdd698-989f-5066-a64e-75556b145391
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.StrikeThrough Property (Word)
+# ChartFont.StrikeThrough property (Word)
 
- **True** if the font is struck through with a horizontal line. Read/write **Boolean** .
+ **True** if the font is struck through with a horizontal line. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `StrikeThrough`
+_expression_. `StrikeThrough`
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

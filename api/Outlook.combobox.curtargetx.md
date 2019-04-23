@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: a12c1ba9-eca1-4a3f-89e4-1559b5e4b00c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a  **Long** that represents the preferred horizontal position of the ins
 
 ## Syntax
 
- _expression_. **CurTargetX**
+_expression_.**CurTargetX**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ The return value is valid when the object has focus.
 
 You can use  **CurTargetX** and **CurX** to move the insertion point as the user scrolls through the contents of a multiline **ComboBox**. When the user moves the insertion point to another line of text by scrolling the content of the object,  **CurTargetX** specifies the preferred position for the insertion point. **CurX** is set to this value if the line of text is longer than the value of **CurTargetX**. Otherwise,  **CurX** is set to the end of the line of text.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

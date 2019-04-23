@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Visible
 ms.assetid: 48860564-6079-932e-2cae-0802235be61e
 ms.date: 08/29/2018
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets an **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value tha
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -69,3 +70,4 @@ newSheet.Range("A1:D4").Formula = "=RAND()"
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

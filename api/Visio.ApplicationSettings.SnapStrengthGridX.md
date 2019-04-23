@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthGridX Property (Visio)
+title: ApplicationSettings.SnapStrengthGridX property (Visio)
 keywords: vis_sdr.chm16251575
 f1_keywords:
 - vis_sdr.chm16251575
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.SnapStrengthGridX
 ms.assetid: ebe2489d-6643-4303-30fd-720446a4e19d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthGridX Property (Visio)
+# ApplicationSettings.SnapStrengthGridX property (Visio)
 
 Specifies the distance in pixels along the x-axis that gridlines pull when snapping is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapStrengthGridX`
+_expression_. `SnapStrengthGridX`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -54,4 +55,4 @@ Public Sub SnapStrengthGridX_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

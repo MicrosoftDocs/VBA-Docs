@@ -8,6 +8,7 @@ api_name:
 - Access.AcFormatBarLimits
 ms.assetid: 15cc7bb2-ef78-1b55-910c-fbc8b9f95c61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies how the threshold values for a Data Bar is determined.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Specifies how the threshold values for a Data Bar is determined.
 |**acNumber**|1|A number is used.|
 |**acPercent**|2|A percentage is used.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

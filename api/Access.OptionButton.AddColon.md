@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.OptionButton.AddColon
 ms.assetid: c5908dac-412f-c779-56d3-3b75c790c17f
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # OptionButton.AddColon property (Access)
 
-Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
+Specifies whether a colon follows the text in labels for new controls. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AddColon`
+_expression_.**AddColon**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
-[OptionButton Object](Access.OptionButton.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

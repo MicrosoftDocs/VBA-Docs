@@ -1,5 +1,5 @@
 ---
-title: Cell.MarginBottom Property (Publisher)
+title: Cell.MarginBottom property (Publisher)
 keywords: vbapb10.chm5111826
 f1_keywords:
 - vbapb10.chm5111826
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.MarginBottom
 ms.assetid: a05fd3a4-f4d5-232a-1f5d-0fa1bce136bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.MarginBottom Property (Publisher)
+# Cell.MarginBottom property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the bottom edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
- _expression_. **MarginBottom**
+_expression_.**MarginBottom**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -41,4 +42,4 @@ Sub SetPageMargins()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

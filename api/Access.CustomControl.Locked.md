@@ -7,33 +7,33 @@ ms.prod: access
 api_name:
 - Access.CustomControl.Locked
 ms.assetid: e6b42627-6560-2fab-ecb0-e9ff32d3fe4e
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # CustomControl.Locked property (Access)
 
-The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
+The **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `Locked`
+_expression_.**Locked**
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks
 
-The default setting of the  **Locked** property is **True**. This setting allows editing, adding, and deleting data.
+The default setting of the **Locked** property is **True**. This setting allows editing, adding, and deleting data.
 
-Use the  **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
+Use the **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
 
 
 ## Example
 
-The following example toggles the  **Enabled** property of a command button and the **Enabled** and **Locked** properties of a control, depending on the type of employee displayed in the current record. If the employee is a manager, then the SalaryDetails button is enabled and the PersonalInfo control is unlocked and enabled.
-
+The following example toggles the **Enabled** property of a command button and the **Enabled** and **Locked** properties of a control, depending on the type of employee displayed in the current record. If the employee is a manager, the **SalaryDetails** button is enabled and the **PersonalInfo** control is unlocked and enabled.
 
 ```vb
 Sub Form_Current() 
@@ -50,8 +50,4 @@ End Sub
 ```
 
 
-## See also
-
-
-[CustomControl Object](Access.CustomControl.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

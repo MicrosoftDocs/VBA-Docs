@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (Word)
+title: Chart.HasAxis property (Word)
 keywords: vbawd10.chm79364150
 f1_keywords:
 - vbawd10.chm79364150
@@ -8,19 +8,20 @@ api_name:
 - Word.Chart.HasAxis
 ms.assetid: b5b7effe-48c6-75d9-fdc4-7a9ff148f0e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasAxis Property (Word)
+# Chart.HasAxis property (Word)
 
-Returns or sets which axes exist on the chart. Read/write  **Variant** .
+Returns or sets which axes exist on the chart. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `HasAxis`( `_Index1_` , `_Index2_` )
+_expression_.**HasAxis** (_Index1_, _Index2_)
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Returns or sets which axes exist on the chart. Read/write  **Variant** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Optional| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[XlAxisType](Word.xlaxistype.md)** constants.|
-| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[XlAxisGroup](Word.xlaxisgroup.md)** constants.|
+| _Index1_|Optional| **Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **[XlAxisType](Word.xlaxistype.md)** constants.|
+| _Index2_|Optional| **Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **[XlAxisGroup](Word.xlaxisgroup.md)** constants.|
 
 ## Remarks
 
@@ -59,3 +60,4 @@ End With
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

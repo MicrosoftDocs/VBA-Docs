@@ -1,5 +1,5 @@
 ---
-title: XMLNode Object (Word)
+title: XMLNode object (Word)
 keywords: vbawd10.chm576
 f1_keywords:
 - vbawd10.chm576
@@ -8,10 +8,11 @@ api_name:
 - Word.XMLNode
 ms.assetid: fe305ba9-7375-ad4f-6036-155add17a9d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode Object (Word)
+# XMLNode object (Word)
 
 Represents a single XML element applied to a document. 
 
@@ -44,6 +45,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

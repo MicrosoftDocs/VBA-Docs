@@ -7,40 +7,35 @@ ms.prod: access
 api_name:
 - Access.OptionGroup.IsVisible
 ms.assetid: 6652c226-ee95-b94a-dabc-942e0d9d5226
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # OptionGroup.IsVisible property (Access)
 
-You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
+You can use the **IsVisible** property to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `IsVisible`
+_expression_.**IsVisible**
 
-_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an **[OptionGroup](Access.OptionGroup.md)** object.
 
 
 ## Remarks
 
+You can set the **IsVisible** property only in the **Print** event of a report section that contains the control.
 
- **Note**  You can set the  **IsVisible** property only in the **Print** event of a report section that contains the control.
-
-You can use the  **IsVisible** property together with the **HideDuplicates** property to determine when a control on a report is visible and show or hide other controls as a result. For example, you could hide a line control when a text box control is hidden because it contains duplicate values.
+You can use the **IsVisible** property together with the **HideDuplicates** property to determine when a control on a report is visible and show or hide other controls as a result. For example, you could hide a line control when a text box control is hidden because it contains duplicate values.
 
 
 ## Example
 
-The following example uses the  **IsVisible** property of a text box to control the display of a line control on a report. T
+The following example uses the **IsVisible** property of a text box to control the display of a line control on a report. 
 
-
-
-Paste the following code into the Declarations section of the report module, and then view the report to see the line formatting controlled by the  **IsVisible** property:
-
-
-
+Paste the following code into the Declarations section of the report module, and then view the report to see the line formatting controlled by the **IsVisible** property.
 
 ```vb
 Private Sub Detail_Print(Cancel As Integer, PrintCount As Integer) 
@@ -53,8 +48,4 @@ End Sub
 ```
 
 
-## See also
-
-
-[OptionGroup Object](Access.OptionGroup.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

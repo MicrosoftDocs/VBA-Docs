@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.CharacterUnitLeftIndent Property (Word)
+title: Paragraphs.CharacterUnitLeftIndent property (Word)
 keywords: vbawd10.chm156762239
 f1_keywords:
 - vbawd10.chm156762239
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.CharacterUnitLeftIndent
 ms.assetid: 692fd810-c3c4-0013-5f16-867105943970
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.CharacterUnitLeftIndent Property (Word)
+# Paragraphs.CharacterUnitLeftIndent property (Word)
 
-Returns or sets the left indent value (in characters) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the left indent value (in characters) for the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CharacterUnitLeftIndent`
+_expression_. `CharacterUnitLeftIndent`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveDocument.Paragraphs(1) _
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

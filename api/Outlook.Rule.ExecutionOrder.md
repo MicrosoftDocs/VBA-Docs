@@ -1,5 +1,5 @@
 ---
-title: Rule.ExecutionOrder Property (Outlook)
+title: Rule.ExecutionOrder property (Outlook)
 keywords: vbaol11.chm2169
 f1_keywords:
 - vbaol11.chm2169
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Rule.ExecutionOrder
 ms.assetid: 070d50ca-4b0b-5629-1609-81ab8a3620d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rule.ExecutionOrder Property (Outlook)
+# Rule.ExecutionOrder property (Outlook)
 
 Returns or sets a  **Long** that indicates the order of execution of the rule among other rules in the **[Rules](Outlook.Rules.md)** collection. Read/write.
 
 
 ## Syntax
 
- _expression_. `ExecutionOrder`
+_expression_. `ExecutionOrder`
 
- _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
+_expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Returns or sets a  **Long** that indicates the order of execution of the rule am
 
 [Rule Object](Outlook.Rule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

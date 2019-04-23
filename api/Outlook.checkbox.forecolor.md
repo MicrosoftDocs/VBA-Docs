@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5c1f3216-a59f-8d22-5f6f-4c09572ffab9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that specifies the foreground color of an object. Re
 
 ## Syntax
 
- _expression_. **ForeColor**
+_expression_.**ForeColor**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -32,4 +33,4 @@ RGB(15,200,75)
 
 Use the  **ForeColor** property for controls on forms to make them easy to read or to convey a special meaning. For example, if a text box reports the number of units in stock, you can change the color of the text when the value falls below the reorder level.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

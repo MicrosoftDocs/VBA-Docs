@@ -1,5 +1,5 @@
 ---
-title: FileConverter.ClassName Property (Word)
+title: FileConverter.ClassName property (Word)
 keywords: vbawd10.chm161021953
 f1_keywords:
 - vbawd10.chm161021953
@@ -8,17 +8,18 @@ api_name:
 - Word.FileConverter.ClassName
 ms.assetid: 71124adf-11fc-e42d-a9f5-940f7fea97af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.ClassName Property (Word)
+# FileConverter.ClassName property (Word)
 
-Returns a unique name that identifies the file converter. Read-only  **String** .
+Returns a unique name that identifies the file converter. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `ClassName`
+_expression_. `ClassName`
 
  _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
@@ -53,3 +54,4 @@ Next fcLoop
 
 [FileConverter Object](Word.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFormula.Application
 ms.assetid: 5733d267-64ef-5891-7487-fd08e3d3c2c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
+_expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [PivotFormula Object](Excel.PivotFormula.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

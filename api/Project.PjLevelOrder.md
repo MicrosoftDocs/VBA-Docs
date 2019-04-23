@@ -1,14 +1,15 @@
 ---
-title: PjLevelOrder Enumeration (Project)
+title: PjLevelOrder enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLevelOrder
 ms.assetid: 652f1d7c-6d15-4384-00f6-9791a2a65966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjLevelOrder Enumeration (Project)
+# PjLevelOrder enumeration (Project)
 
 Contains constants that specify the leveling order.
 
@@ -20,3 +21,4 @@ Contains constants that specify the leveling order.
 |**pjLevelPriority**|2|Level priority.|
 |**pjLevelStandard**|1|Level standard.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

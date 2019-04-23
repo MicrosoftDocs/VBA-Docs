@@ -7,30 +7,31 @@ ms.prod: office
 api_name:
 - Office.PickerDialog.DataHandlerId
 ms.assetid: 6c494116-74a2-1fdc-bc1c-033191adfca1
-ms.date: 11/12/2018
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
 # PickerDialog.DataHandlerId property (Office)
 
-Sets or gets the GUID of the Picker Dialog data handler component. Read/write.
+Sets or gets the GUID of the **PickerDialog** data handler component. Read/write.
 
 
 ## Syntax
 
-_expression_. `DataHandlerId`
+_expression_.**DataHandlerId**
 
-_expression_ An expression that returns a [PickerDialog](Office.PickerDialog.md) object.
+_expression_ An expression that returns a **[PickerDialog](Office.PickerDialog.md)** object.
 
 
 ## Remarks
 
-You must specify **DataHandlerID** before invoking the Picker Dialog.
+You must specify **DataHandlerID** before invoking the **PickerDialog**.
 
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker Dialog.
+The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -61,3 +62,5 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 - [PickerDialog object members](overview/Library-Reference/pickerdialog-members-office.md)
 - [PickerDialog interface](https://docs.microsoft.com/dotnet/api/microsoft.office.core.pickerdialog?view=office-pia)
 - [Object Picker dialog box interfaces](https://docs.microsoft.com/windows/desktop/ad/object-picker-dialog-box-interfaces)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

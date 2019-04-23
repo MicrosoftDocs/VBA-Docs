@@ -1,19 +1,20 @@
 ---
-title: Selection.ReplaceShape Method (Visio)
+title: Selection.ReplaceShape method (Visio)
 ms.prod: visio
 ms.assetid: dc278901-77ce-e1fe-c44f-f464bbb1c360
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ReplaceShape Method (Visio)
+# Selection.ReplaceShape method (Visio)
 
 Replaces the specified selection with one or more instances of the master passed as the first parameter, and returns an array containing the new shape or shapes.
 
 
 ## Syntax
 
- _expression_. `ReplaceShape`_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
+_expression_. `ReplaceShape`_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -22,7 +23,7 @@ Replaces the specified selection with one or more instances of the master passed
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape or shapes to drop. Must be either a [Master](Visio.Master.md) or [MasterShortcut](Visio.MasterShortcut.md) object.|
@@ -43,3 +44,4 @@ Allowable values to pass for the  _ReplaceFlags_ parameter include either **visR
 
 [Selection Object](Visio.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

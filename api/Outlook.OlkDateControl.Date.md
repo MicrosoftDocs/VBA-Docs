@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.Date Property (Outlook)
+title: OlkDateControl.Date property (Outlook)
 keywords: vbaol11.chm1000345
 f1_keywords:
 - vbaol11.chm1000345
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkDateControl.Date
 ms.assetid: f1c1a454-4c1f-7ae6-2fbd-f3875beb6cea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkDateControl.Date Property (Outlook)
+# OlkDateControl.Date property (Outlook)
 
 Returns or sets the currently selected  **Date** value with the time set to 12:00 AM. Read/write.
 
 
 ## Syntax
 
- _expression_. `Date`
+_expression_. `Date`
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When getting this property, the default value is the current date with the time 
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

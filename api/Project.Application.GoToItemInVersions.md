@@ -1,5 +1,5 @@
 ---
-title: Application.GoToItemInVersions Method (Project)
+title: Application.GoToItemInVersions method (Project)
 keywords: vbapj.chm2186
 f1_keywords:
 - vbapj.chm2186
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GoToItemInVersions
 ms.assetid: 51b7e580-978d-17cc-f293-bb30d77c48c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GoToItemInVersions Method (Project)
+# Application.GoToItemInVersions method (Project)
 
 For the selected item in a project version comparison report, highlights that item in each version.
 
 
 ## Syntax
 
- _expression_. `GoToItemInVersions`
+_expression_. `GoToItemInVersions`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -34,4 +35,4 @@ When you compare two versions of a project file, Project creates a new project n
 
 The  **GoToItemInVersions** method is equivalent to the **Go to Item** command in the **Compare** group of the **Compare Projects** tab on the Ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

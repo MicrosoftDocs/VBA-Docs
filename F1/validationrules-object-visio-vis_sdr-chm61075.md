@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e0f2b6bc-eeb3-4af2-a729-577adcf86c12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ValidationRules Object (Visio)](http://msdn.microsoft.com/library/e7a1a5c6-02a7-2dc2-7a73-cc84821e077e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

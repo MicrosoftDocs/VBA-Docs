@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e0700f32-9d4c-40bb-b4ee-24eb5370a30b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Hyperlink property (Access)](http://msdn.microsoft.com/library/2f5ce470-967a-450d-f661-ac1e1f370d56%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

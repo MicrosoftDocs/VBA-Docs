@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientVariant Property (Publisher)
+title: FillFormat.GradientVariant property (Publisher)
 keywords: vbapb10.chm2359557
 f1_keywords:
 - vbapb10.chm2359557
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.GradientVariant
 ms.assetid: f57224dc-e9c6-e1aa-e950-97dfd5ed483f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientVariant Property (Publisher)
+# FillFormat.GradientVariant property (Publisher)
 
 Returns a  **Long** indicating the gradient variant for the specified fill. Generally, values are integers from 1 to 4 for most gradient fills. If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the  **Gradient** tab in the **Fill Effects** dialog box. Read-only.
 
 
 ## Syntax
 
- _expression_. **GradientVariant**
+_expression_.**GradientVariant**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -56,4 +57,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

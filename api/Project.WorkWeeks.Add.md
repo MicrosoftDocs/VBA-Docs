@@ -1,21 +1,22 @@
 ---
-title: WorkWeeks.Add Method (Project)
+title: WorkWeeks.Add method (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeeks.Add
 ms.assetid: 46469e7b-8309-4e77-c89f-2115b9498c7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorkWeeks.Add Method (Project)
+# WorkWeeks.Add method (Project)
 
 Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _Start_`, ` _Finish_`, ` _Name_` )
+_expression_.**Add**( `_Start_`, `_Finish_`, `_Name_` )
 
  _expression_ An expression that returns a 'WorkWeeks' object.
 
@@ -39,3 +40,5 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 
 
 [WorkWeeks Collection Object](Project.workweeks.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

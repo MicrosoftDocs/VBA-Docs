@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Location Property (Word)
+title: Endnotes.Location property (Word)
 keywords: vbawd10.chm155254884
 f1_keywords:
 - vbawd10.chm155254884
@@ -8,17 +8,18 @@ api_name:
 - Word.Endnotes.Location
 ms.assetid: 948dd801-4ae3-0063-0bfd-28ea141d0b69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnotes.Location Property (Word)
+# Endnotes.Location property (Word)
 
-Returns or sets the position of all endnotes. Read/write  **[WdEndnoteLocation](Word.WdEndnoteLocation.md)** . .
+Returns or sets the position of all endnotes. Read/write  **[WdEndnoteLocation](Word.WdEndnoteLocation.md)**. .
 
 
 ## Syntax
 
- _expression_. `Location`
+_expression_.**Location** 
 
  _expression_ An expression that represents a '[Endnotes](Word.endnotes.md)' object.
 
@@ -38,3 +39,4 @@ ActiveDocument.Endnotes.Location = wdEndOfSection
 
 [Endnotes Collection Object](Word.endnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Range.ContentControls Property (Word)
+title: Range.ContentControls property (Word)
 keywords: vbawd10.chm157155752
 f1_keywords:
 - vbawd10.chm157155752
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.ContentControls
 ms.assetid: e8c715af-067f-871e-7dec-28aa4302d9f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ContentControls Property (Word)
+# Range.ContentControls property (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents the content controls contained within a range. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContentControls`
+_expression_. `ContentControls`
 
  _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 
@@ -50,3 +51,4 @@ objCC.DropdownListEntries.Add "Other"
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

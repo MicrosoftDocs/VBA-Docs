@@ -1,5 +1,5 @@
 ---
-title: Shape.Visible Property (Word)
+title: Shape.Visible property (Word)
 keywords: vbawd10.chm161480831
 f1_keywords:
 - vbawd10.chm161480831
@@ -8,24 +8,25 @@ api_name:
 - Word.Shape.Visible
 ms.assetid: b3024bf2-3015-d3ce-97dc-2dd5858bf798
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Visible Property (Word)
+# Shape.Visible property (Word)
 
- **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState** .
+ **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
 
-FSome methods and properties may be unavailable if the  **Visible** property is **False** .
+FSome methods and properties may be unavailable if the  **Visible** property is **False**.
 
 
 ## Example
@@ -50,3 +51,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

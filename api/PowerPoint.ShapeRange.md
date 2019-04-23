@@ -1,5 +1,5 @@
-﻿---
-title: ShapeRange Object (PowerPoint)
+---
+title: ShapeRange object (PowerPoint)
 keywords: vbapp10.chm548000
 f1_keywords:
 - vbapp10.chm548000
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShapeRange
 ms.assetid: 0a194183-380e-ffb6-9336-b5bd311e917d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange Object (PowerPoint)
+# ShapeRange object (PowerPoint)
 
 Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as a single shape or as many as all the shapes on the document.
 
 
 ## Remarks
 
-You can include whichever shapes you want — chosen from among all the shapes on the document or all the shapes in the selection — to construct a shape range. For example, you could construct a  **ShapeRange** collection that contains the first three shapes on a document, all the selected shapes on a document, or all the freeforms on a document.
+You can include whichever shapes you want — chosen from among all the shapes on the document or all the shapes in the selection — to construct a shape range. For example, you could construct a **ShapeRange** collection that contains the first three shapes on a document, all the selected shapes on a document, or all the freeforms on a document.
 
 For an overview of how to work with either a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](../powerpoint/How-to/work-with-shapes-drawing-objects.md).
 
@@ -32,7 +33,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on `myDocument`.
+Use **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on _myDocument_.
 
 
 ```vb
@@ -43,7 +44,7 @@ myDocument.Shapes.Range(Array(1, 3)).Fill _
     .Patterned msoPatternHorizontalBrick
 ```
 
-The following example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  `myDocument`.
+The following example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
 
 
 
@@ -60,7 +61,7 @@ myRange.Fill.Patterned msoPatternHorizontalBrick
 
 Although you can use the [Range](./PowerPoint.Shapes.Range.md)method to return any number of shapes or slides, it is simpler to use the [Item](./PowerPoint.ShapeRange.Item.md)method if you want to return only a single member of the collection. For example,  `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
-Use the [ShapeRange](./PowerPoint.Selection.ShapeRange.md)property of the  **Selection** object to return all the shapes in the selection. The following example sets the fill foreground color for all the shapes in the selection in window one, assuming that there's at least one shape in the selection.
+Use the [ShapeRange](./PowerPoint.Selection.ShapeRange.md)property of the **Selection** object to return all the shapes in the selection. The following example sets the fill foreground color for all the shapes in the selection in window one, assuming that there's at least one shape in the selection.
 
 
 
@@ -71,7 +72,7 @@ Windows(1).Selection.ShapeRange.Fill.ForeColor _
     .RGB = RGB(255, 0, 255)
 ```
 
-Use  **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
+Use **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
 
 
 
@@ -87,7 +88,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Align](./PowerPoint.ShapeRange.Align.md)|
 |[Apply](./PowerPoint.ShapeRange.Apply.md)|
@@ -121,7 +122,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionSettings](./PowerPoint.ShapeRange.ActionSettings.md)|
 |[Adjustments](./PowerPoint.ShapeRange.Adjustments.md)|
@@ -159,6 +160,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 |[LockAspectRatio](./PowerPoint.ShapeRange.LockAspectRatio.md)|
 |[MediaFormat](./PowerPoint.ShapeRange.MediaFormat.md)|
 |[MediaType](./PowerPoint.ShapeRange.MediaType.md)|
+|[Model3D](./PowerPoint.ShapeRange.Model3D.md)|
 |[Name](./PowerPoint.ShapeRange.Name.md)|
 |[Nodes](./PowerPoint.ShapeRange.Nodes.md)|
 |[OLEFormat](./PowerPoint.ShapeRange.OLEFormat.md)|
@@ -190,4 +192,6 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

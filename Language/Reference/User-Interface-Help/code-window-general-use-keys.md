@@ -1,22 +1,21 @@
 ---
-title: Code Window General Use Keys
+title: Code window general use keys
 keywords: vbui6.chm1082085
 f1_keywords:
 - vbui6.chm1082085
 ms.prod: office
 ms.assetid: 86a4fdba-d776-a70a-4d68-3018446385c5
-ms.date: 06/08/2017
+ms.date: 11/21/2018
+localization_priority: Normal
 ---
 
 
-# Code Window General Use Keys
+# Code window general use keys
 
-Use these key combinations in the  **Code** window:
+Use these key combinations in the [Code window](code-window.md).
 
-
-
-|**Press**|**To**|
-|:-----|:-----|
+|Press|To|
+|:----|:--|
 |F1|Get context-sensitive Help on functions, statements, methods, properties, or events.|
 |F2|Display the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).|
 |F9|Set or remove a [breakpoint](../../Glossary/vbe-glossary.md#breakpoint).|
@@ -29,11 +28,12 @@ Use these key combinations in the  **Code** window:
 |END|Move the cursor to the end of text in a line.|
 |Double-click on the split bar|Delete the split bar.|
 |SHIFT+F10|View shortcut menu.|
-|ALT+F5|Runs the error handler code or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|
-|ALT+F8|Steps into the error handler or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|
-|CTRL+J|Turn on  **ListProperties/Methods**.|
-|CTRL+SHIFT+J|Turn on  **List Constants**.|
-|CTRL+I|Turn on  **Quick Info**.|
-|CTRL+SHIFT+I|Turn on  **Parameter Info**.|
-|CTRL+SPACEBAR|Turn on  **Complete Word**.|
+|ALT+F5|Runs the error handler code or returns the error to the calling procedure. Does not affect the setting for error trapping on the **General** tab of the **Options** dialog box.|
+|ALT+F8|Steps into the error handler or returns the error to the calling procedure. Does not affect the setting for error trapping on the **General** tab of the **Options** dialog box.|
+|CTRL+J|Turn on **ListProperties/Methods**.|
+|CTRL+SHIFT+J|Turn on **List Constants**.|
+|CTRL+I|Turn on **Quick Info**.|
+|CTRL+SHIFT+I|Turn on **Parameter Info**.|
+|CTRL+SPACEBAR|Turn on **Complete Word**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

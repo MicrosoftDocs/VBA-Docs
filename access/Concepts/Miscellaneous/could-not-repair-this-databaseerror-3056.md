@@ -3,6 +3,7 @@ title: Could not repair this database. (Error 3056)
 ms.prod: access
 ms.assetid: 7fa603b7-6127-779a-f293-07f425b81dda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This database is corrupted or it is not a Microsoft Access database engine datab
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

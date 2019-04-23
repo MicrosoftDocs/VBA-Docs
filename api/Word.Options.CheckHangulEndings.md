@@ -1,5 +1,5 @@
 ---
-title: Options.CheckHangulEndings Property (Word)
+title: Options.CheckHangulEndings property (Word)
 keywords: vbawd10.chm162988373
 f1_keywords:
 - vbawd10.chm162988373
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.CheckHangulEndings
 ms.assetid: fdb1e463-62d9-7053-13b2-e5dec345912e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.CheckHangulEndings Property (Word)
+# Options.CheckHangulEndings property (Word)
 
- **True** if Microsoft Word automatically detects Hangul endings and ignores them during conversion from Hangul to Hanja. Read/write **Boolean** .
+ **True** if Microsoft Word automatically detects Hangul endings and ignores them during conversion from Hangul to Hanja. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CheckHangulEndings`
+_expression_. `CheckHangulEndings`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -49,3 +50,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

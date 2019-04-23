@@ -1,5 +1,5 @@
 ---
-title: Selection.Frames Property (Word)
+title: Selection.Frames property (Word)
 keywords: vbawd10.chm158662722
 f1_keywords:
 - vbawd10.chm158662722
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Frames
 ms.assetid: cc589559-858a-2ebb-00dd-64f97966859f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Frames Property (Word)
+# Selection.Frames property (Word)
 
 Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a selection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Frames`
+_expression_. `Frames`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ Set myFrame = ActiveDocument.Frames.Add(Range:=Selection.Range)
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

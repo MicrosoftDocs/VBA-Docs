@@ -2,11 +2,14 @@
 title: Visual Basic conceptual topics
 ms.prod: office
 ms.assetid: 2628d596-7a4a-4a4d-89df-8f1faabd7d49
-ms.date: 09/17/2018
+ms.date: 11/21/2018
+localization_priority: Normal
 ---
 
 
 # Visual Basic conceptual topics
+
+Information to help you get started with Visual Basic programming.
 
 - [64-bit Visual Basic for Applications overview](../../Concepts/Getting-Started/64-bit-visual-basic-for-applications-overview.md)
 - [Avoid naming conflicts](../../Concepts/Getting-Started/avoiding-naming-conflicts.md)
@@ -54,5 +57,4 @@ ms.date: 09/17/2018
 - [Write executable statements](../../Concepts/Getting-Started/writing-executable-statements.md)
 - [Write Visual Basic statements](../../Concepts/Getting-Started/writing-visual-basic-statements.md)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

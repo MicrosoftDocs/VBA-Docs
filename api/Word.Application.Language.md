@@ -1,5 +1,5 @@
 ---
-title: Application.Language Property (Word)
+title: Application.Language property (Word)
 keywords: vbawd10.chm158335367
 f1_keywords:
 - vbawd10.chm158335367
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.Language
 ms.assetid: b24f0861-1f7a-ecd9-7084-39c65df4fcc3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Language Property (Word)
+# Application.Language property (Word)
 
 Returns an  **MsoLanguageID** constant that represents the language selected for the Microsoft Word user interface.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

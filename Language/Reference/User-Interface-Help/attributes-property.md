@@ -1,5 +1,5 @@
 ---
-title: Attributes Property
+title: Attributes property (Visual Basic for Applications)
 keywords: vblr6.chm2181972
 f1_keywords:
 - vblr6.chm2181972
@@ -7,33 +7,33 @@ ms.prod: office
 api_name:
 - Office.Attributes
 ms.assetid: 965b8844-33b8-2358-5bdd-cc814987132f
-ms.date: 06/08/2017
+ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 
-# Attributes Property
+# Attributes property
 
-
-
- **Description**
 Sets or returns the attributes of files or folders. Read/write or read-only, depending on the attribute.
 
 ## Syntax
 
-_object_. **Attributes** [= _newattributes_ ]
-The  **Attributes** property has these parts:
+_object_.**Attributes** [= _newattributes_ ]
 
+<br/>
 
-|**Part**|**Description**|
+The **Attributes** property has these parts:
+
+|Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
-| _newattributes_|Optional. If provided,  _newattributes_ is the new value for the attributes of the specified _object_.|
+| _object_|Required. Always the name of a **[File](file-object.md)** or **[Folder](folder-object.md)** object.|
+| _newattributes_|Optional. If provided, _newattributes_ is the new value for the attributes of the specified _object_.|
 
 ## Settings
-The  _newattributes_ argument can have any of the following values or any logical combination of the following values:
 
+The _newattributes_ argument can have any of the following values or any logical combination of the following values.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Normal**|0|Normal file. No attributes are set.|
 |**ReadOnly**|1|Read-only file. Attribute is read/write.|
@@ -42,14 +42,12 @@ The  _newattributes_ argument can have any of the following values or any logica
 |**Volume**|8|Disk drive volume label. Attribute is read-only.|
 |**Directory**|16|Folder or directory. Attribute is read-only.|
 |**Archive**|32|File has changed since last backup. Attribute is read/write.|
-|**Alias**|64|Link or shortcut. Attribute is read-only.|
-|**Compressed**|128|Compressed file. Attribute is read-only.|
+|**Alias**|1024|Link or shortcut. Attribute is read-only.|
+|**Compressed**|2048|Compressed file. Attribute is read-only.|
 
 ## Remarks
 
-The following code illustrates the use of the  **Attributes** property with a file:
-
-
+The following code illustrates the use of the **Attributes** property with a file.
 
 ```vb
 Sub SetClearArchiveBit(filespec)
@@ -76,4 +74,9 @@ f.attributes = f.attributes + 32
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

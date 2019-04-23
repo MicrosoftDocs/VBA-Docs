@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveDateAndTime Property (Word)
+title: Document.RemoveDateAndTime property (Word)
 keywords: vbawd10.chm158007780
 f1_keywords:
 - vbawd10.chm158007780
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.RemoveDateAndTime
 ms.assetid: 43520dad-0374-06c9-184e-da71de304360
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RemoveDateAndTime Property (Word)
+# Document.RemoveDateAndTime property (Word)
 
 Sets or returns a  **Boolean** indicating whether a document stores the date and time metadata for tracked changes. .
 
 
 ## Syntax
 
- _expression_. `RemoveDateAndTime`
+_expression_. `RemoveDateAndTime`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.RemoveDateAndTime = True
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

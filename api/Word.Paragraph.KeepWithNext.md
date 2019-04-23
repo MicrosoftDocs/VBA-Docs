@@ -1,5 +1,5 @@
 ---
-title: Paragraph.KeepWithNext Property (Word)
+title: Paragraph.KeepWithNext property (Word)
 keywords: vbawd10.chm156696679
 f1_keywords:
 - vbawd10.chm156696679
@@ -8,24 +8,25 @@ api_name:
 - Word.Paragraph.KeepWithNext
 ms.assetid: 59991695-23cc-9580-5a49-3e2c266938f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.KeepWithNext Property (Word)
+# Paragraph.KeepWithNext property (Word)
 
- **True** if the specified paragraph remains on the same page as the paragraph that follows it when Microsoft Word repaginates the document. Read/write **Long** .
+ **True** if the specified paragraph remains on the same page as the paragraph that follows it when Microsoft Word repaginates the document. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `KeepWithNext`
+_expression_. `KeepWithNext`
 
  _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** .
+This property can be  **True**, **False**, or **wdUndefined**.
 
 
 ## Example
@@ -45,3 +46,4 @@ Next i
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

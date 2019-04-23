@@ -7,31 +7,31 @@ ms.prod: access
 api_name:
 - Access.Application.Modules
 ms.assetid: eb99e25f-9a31-82cd-1b61-41c8a227b859
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.Modules property (Access)
 
-You can use the  **Modules** property to access the **[Modules](Access.Modules.md)** collection and its related properties. Read-only **Modules** object.
+You can use the **Modules** property to access the **[Modules](Access.Modules.md)** collection and its related properties. Read-only **Modules** object.
 
 
 ## Syntax
 
-_expression_. `Modules`
+_expression_.**Modules**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
 
-Use the properties of the  **Modules** collection in Visual Basic to refer to all open standard modules and class modules.
+Use the properties of the **Modules** collection in Visual Basic to refer to all open standard modules and class modules.
 
 
 ## Example
 
-The following example uses the  **Module** property to insert the **Beep** method in a form's Open event.
-
+The following example uses the **Module** property to insert the **Beep** method in a form's **Open** event.
 
 ```vb
 Dim strFormOpenCode As String 
@@ -46,8 +46,6 @@ strFormOpenCode = "Sub Form_Open(Cancel As Integer)" _
 ```
 
 
-## See also
 
 
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

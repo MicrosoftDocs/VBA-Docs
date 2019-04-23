@@ -1,5 +1,5 @@
 ---
-title: Window Object (Visio)
+title: Window object (Visio)
 keywords: vis_sdr.chm10305
 f1_keywords:
 - vis_sdr.chm10305
@@ -8,10 +8,11 @@ api_name:
 - Visio.Window
 ms.assetid: 5b49eb0f-07ea-00c7-52f1-2a3115a4b8ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window Object (Visio)
+# Window object (Visio)
 
 Represents an open window in a Microsoft Visio instance.
 
@@ -41,7 +42,7 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeWindowClosed](./Visio.Window.BeforeWindowClosed.md)|
 |[BeforeWindowPageTurn](./Visio.Window.BeforeWindowPageTurn.md)|
@@ -65,7 +66,7 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Visio.Window.Activate.md)|
 |[CenterViewOnShape](./Visio.Window.CenterViewOnShape.md)|
@@ -86,7 +87,7 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowEditing](./Visio.Window.AllowEditing.md)|
 |[Application](./Visio.Window.Application.md)|
@@ -142,3 +143,4 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 |[ZoomBehavior](./Visio.Window.ZoomBehavior.md)|
 |[ZoomLock](./Visio.Window.ZoomLock.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

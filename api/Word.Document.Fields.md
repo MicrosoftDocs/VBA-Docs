@@ -1,5 +1,5 @@
 ---
-title: Document.Fields Property (Word)
+title: Document.Fields property (Word)
 keywords: vbawd10.chm158007316
 f1_keywords:
 - vbawd10.chm158007316
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Fields
 ms.assetid: 78707979-5d25-0168-2dba-ce88a2b26f9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Fields Property (Word)
+# Document.Fields property (Word)
 
 Returns a  **[Fields](Word.fields.md)** collection that represents all the fields in the document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Fields`
+_expression_. `Fields`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -54,3 +55,4 @@ Next aField
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlShowItemCount Enumeration (Outlook)
+title: OlShowItemCount enumeration (Outlook)
 keywords: vbaol11.chm3099
 f1_keywords:
 - vbaol11.chm3099
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlShowItemCount
 ms.assetid: 22de3979-ceea-c6c8-b919-5c3ea3f3be73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlShowItemCount Enumeration (Outlook)
+# OlShowItemCount enumeration (Outlook)
 
 Indicates which type of Microsoft Outlook item count is displayed for folders in the Outlook navigation pane.
 
@@ -25,6 +26,6 @@ Indicates which type of Microsoft Outlook item count is displayed for folders in
 
 ## Remarks
 
-Used by the [Folder.ShowItemCount Property (Outlook)](Outlook.Folder.ShowItemCount.md).
+Used by the [Folder.ShowItemCount property (Outlook)](Outlook.Folder.ShowItemCount.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

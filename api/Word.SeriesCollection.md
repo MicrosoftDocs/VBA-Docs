@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Object (Word)
+title: SeriesCollection object (Word)
 keywords: vbawd10.chm2295
 f1_keywords:
 - vbawd10.chm2295
@@ -8,10 +8,11 @@ api_name:
 - Word.SeriesCollection
 ms.assetid: 785d61ff-96c9-b9b0-ed98-e992d9adeda6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection Object (Word)
+# SeriesCollection object (Word)
 
 Represents a collection of all the  **[Series](Word.Series.md)** objects in the specified chart or chart group.
 
@@ -47,7 +48,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-Use  **SeriesCollection** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
+Use  **SeriesCollection** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
 
 
 
@@ -65,5 +66,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

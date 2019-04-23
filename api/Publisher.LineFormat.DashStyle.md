@@ -1,5 +1,5 @@
 ---
-title: LineFormat.DashStyle Property (Publisher)
+title: LineFormat.DashStyle property (Publisher)
 keywords: vbapb10.chm3408132
 f1_keywords:
 - vbapb10.chm3408132
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.DashStyle
 ms.assetid: c2904350-89c1-2fc0-5bae-86f5193c8732
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.DashStyle Property (Publisher)
+# LineFormat.DashStyle property (Publisher)
 
 Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for the specified line. Read/write.
 
 
 ## Syntax
 
- _expression_. **DashStyle**
+_expression_.**DashStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -30,7 +31,7 @@ MsoLineDashStyle
 
 ## Remarks
 
-The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](./Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
+The  **DashStyle** property value can be one of the **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -48,4 +49,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

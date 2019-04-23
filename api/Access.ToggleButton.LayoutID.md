@@ -7,29 +7,26 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.LayoutID
 ms.assetid: af440e04-2046-507d-1d66-e8287ae5bbf8
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified toggle button. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified toggle button. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `LayoutID`
+_expression_.**LayoutID**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
 
-## See also
-
-
-[ToggleButton Object](Access.ToggleButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

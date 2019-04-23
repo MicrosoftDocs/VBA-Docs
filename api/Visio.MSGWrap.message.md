@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.message Property (Visio)
+title: MSGWrap.message property (Visio)
 keywords: vis_sdr.chm16150730
 f1_keywords:
 - vis_sdr.chm16150730
@@ -8,17 +8,18 @@ api_name:
 - Visio.MSGWrap.message
 ms.assetid: ae780612-a017-93b8-1c39-abe8097dfbf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MSGWrap.message Property (Visio)
+# MSGWrap.message property (Visio)
 
 Gets or sets the  **message** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `message`
+_expression_. `message`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
@@ -47,4 +48,4 @@ The  **OnKeystrokeMessageForAddon** event fires for messages in the following ra
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

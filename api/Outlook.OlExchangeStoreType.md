@@ -1,5 +1,5 @@
 ---
-title: OlExchangeStoreType Enumeration (Outlook)
+title: OlExchangeStoreType enumeration (Outlook)
 keywords: vbaol11.chm3106
 f1_keywords:
 - vbaol11.chm3106
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlExchangeStoreType
 ms.assetid: 43ad226d-1f18-048b-cc66-49ac56ebffda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlExchangeStoreType Enumeration (Outlook)
+# OlExchangeStoreType enumeration (Outlook)
 
 Specifies the type of Exchange store.
 
@@ -29,4 +30,4 @@ Specifies the type of Exchange store.
 
 Used by the [ExchangeStoreType](Outlook.Store.ExchangeStoreType.md) property of the [Store](Outlook.Store.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

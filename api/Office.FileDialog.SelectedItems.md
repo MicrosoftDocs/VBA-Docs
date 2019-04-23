@@ -1,5 +1,5 @@
 ---
-title: FileDialog.SelectedItems Property (Office)
+title: FileDialog.SelectedItems property (Office)
 keywords: vbaof11.chm256009
 f1_keywords:
 - vbaof11.chm256009
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.FileDialog.SelectedItems
 ms.assetid: af45013a-c745-3f14-9c12-64a1c2b50279
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialog.SelectedItems Property (Office)
+# FileDialog.SelectedItems property (Office)
 
-Gets a  **FileDialogSelectedItems** collection. This collection contains a list of the paths of the files that a user selected from a file dialog box displayed using the **Show** method of the **FileDialog** object. Read-only.
+Gets a **FileDialogSelectedItems** collection. This collection contains a list of the paths of the files that a user selected from a file dialog box displayed by using the **Show** method of the **FileDialog** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SelectedItems`
+_expression_.**SelectedItems**
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+_expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box by using the **FileDialog** object, and displays each selected file in a message box.
 
 
 ```vb
@@ -75,10 +76,6 @@ End Sub
 
 ## See also
 
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

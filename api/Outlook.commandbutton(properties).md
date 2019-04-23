@@ -3,6 +3,7 @@ title: CommandButton Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: b376f30c-3cc4-48cf-804e-abe82e10b338
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,5 +39,5 @@ ms.date: 06/08/2017
 -  [CommandButton.TakeFocusOnClick Property (Outlook Forms Script)](Outlook.commandbutton.takefocusonclick.md)
     
 -  [CommandButton.WordWrap Property (Outlook Forms Script)](Outlook.commandbutton.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

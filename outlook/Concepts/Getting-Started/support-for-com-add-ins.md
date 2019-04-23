@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ba62d71d-7ec3-c2b8-8f81-6fded20ff9e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ The  [COMAddIns](../../../api/Outlook.Application.COMAddIns.md) property of the 
 
 Learn more about  [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

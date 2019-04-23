@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: b11795e0-22c8-f089-c59a-5e3d7a09d5de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an object that represents a collection of all the PivotTable reports on 
 
 ## Syntax
 
- _expression_. `PivotTables`
+_expression_. `PivotTables`
 
- _expression_ A variable that represents a [Workbook Object (Excel)](Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Returns
 
-[PivotTables Object (Excel)](Excel.PivotTables.md)
+[PivotTables](Excel.PivotTables.md)
 
 
 ## Property value
@@ -36,3 +37,4 @@ Returns an object that represents a collection of all the PivotTable reports on 
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

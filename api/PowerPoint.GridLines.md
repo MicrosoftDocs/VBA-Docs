@@ -1,5 +1,5 @@
 ---
-title: Gridlines Object (PowerPoint)
+title: Gridlines object (PowerPoint)
 keywords: vbapp10.chm705000
 f1_keywords:
 - vbapp10.chm705000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.GridLines
 ms.assetid: 10b45c4c-05a3-f722-15ca-ad0242625edb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Gridlines Object (PowerPoint)
+# Gridlines object (PowerPoint)
 
 Represents major or minor gridlines on a chart axis.
 
@@ -61,3 +62,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

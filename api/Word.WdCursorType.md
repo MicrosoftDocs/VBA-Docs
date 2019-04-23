@@ -1,14 +1,15 @@
 ---
-title: WdCursorType Enumeration (Word)
+title: WdCursorType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCursorType
 ms.assetid: 6fd089cc-b0a6-3883-aa0f-c7ba3405b846
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCursorType Enumeration (Word)
+# WdCursorType enumeration (Word)
 
 Specifies the state (shape) of the cursor.
 
@@ -21,3 +22,4 @@ Specifies the state (shape) of the cursor.
 | **wdCursorNorthwestArrow**|3|Diagonal cursor shape starting at upper-left corner.|
 | **wdCursorWait**|0|Hourglass cursor shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

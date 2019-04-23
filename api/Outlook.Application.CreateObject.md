@@ -1,5 +1,5 @@
 ---
-title: Application.CreateObject Method (Outlook)
+title: Application.CreateObject method (Outlook)
 keywords: vbaol11.chm716
 f1_keywords:
 - vbaol11.chm716
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.CreateObject
 ms.assetid: 09b6ff5b-a750-c07d-7499-c1f8a00214fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CreateObject Method (Outlook)
+# Application.CreateObject method (Outlook)
 
 Creates an automation object of the specified class.
 
 
 ## Syntax
 
- _expression_. `CreateObject`( `_ObjectName_` )
+_expression_. `CreateObject`( `_ObjectName_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters
@@ -46,7 +47,7 @@ This method is provided so that other applications can be automated from Microso
 
 ## Example
 
-This VBScript example uses the  **[Open](Outlook.MailItem.Open.md)** event of the item to access Windows Internet Explorer and display the Web page.
+This VBScript example uses the  **[Open](Outlook.MailItem.Open.md)** event of the item to access Windows Internet Explorer and display the web page.
 
 
 ```vb
@@ -84,3 +85,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

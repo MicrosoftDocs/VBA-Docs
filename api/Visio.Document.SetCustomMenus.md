@@ -1,5 +1,5 @@
 ---
-title: Document.SetCustomMenus Method (Visio)
+title: Document.SetCustomMenus method (Visio)
 keywords: vis_sdr.chm10516560
 f1_keywords:
 - vis_sdr.chm10516560
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.SetCustomMenus
 ms.assetid: 05d373a4-3aec-a427-57aa-94fc3ac10161
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SetCustomMenus Method (Visio)
+# Document.SetCustomMenus method (Visio)
 
 Replaces the current built-in or custom menus of an application or document.
 
 
 ## Syntax
 
- _expression_. `SetCustomMenus`( `_MenusObject_` )
+_expression_. `SetCustomMenus`( `_MenusObject_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -97,4 +98,4 @@ Public Sub SetCustomMenus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

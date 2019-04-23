@@ -1,14 +1,15 @@
 ---
-title: WdTableFormatApply Enumeration (Word)
+title: WdTableFormatApply enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTableFormatApply
 ms.assetid: 8a40b200-c09f-9117-5bc6-c5768105eeb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTableFormatApply Enumeration (Word)
+# WdTableFormatApply enumeration (Word)
 
 Specifies how table formatting should be applied.
 
@@ -26,3 +27,4 @@ Specifies how table formatting should be applied.
 | **wdTableFormatApplyLastRow**|64|Apply AutoFormat to last row.|
 | **wdTableFormatApplyShading**|2|Shading.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

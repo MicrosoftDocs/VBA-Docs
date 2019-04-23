@@ -1,14 +1,15 @@
 ---
-title: InvisibleApp.CellChanged Event (Visio)
+title: InvisibleApp.CellChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CellChanged
 ms.assetid: 6fbb3f63-db6f-6937-7ace-97bf9241615a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.CellChanged Event (Visio)
+# InvisibleApp.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 
@@ -73,4 +74,4 @@ Private Sub vsoApplication_CellChanged(ByVal vsoCell As IVCell)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

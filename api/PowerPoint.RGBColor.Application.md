@@ -1,5 +1,5 @@
 ---
-title: RGBColor.Application Property (PowerPoint)
+title: RGBColor.Application property (PowerPoint)
 keywords: vbapp10.chm538001
 f1_keywords:
 - vbapp10.chm538001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RGBColor.Application
 ms.assetid: d23d9de5-2f41-1cc7-844a-b2a86d0e6625
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RGBColor.Application Property (PowerPoint)
+# RGBColor.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [RGBColor](./PowerPoint.RGBColor.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [RGBColor Object](PowerPoint.RGBColor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

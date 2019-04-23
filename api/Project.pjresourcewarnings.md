@@ -1,12 +1,13 @@
 ---
-title: PjResourceWarnings Enumeration (Project)
+title: PjResourceWarnings enumeration (Project)
 ms.assetid: 91d4ddd9-8ca2-e1e8-2948-37a856f944b6
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 
-# PjResourceWarnings Enumeration (Project)
+# PjResourceWarnings enumeration (Project)
 
 Defines the different types of warnings that may appear on resources triggering indicators in the indicator column in sheet views. Introduced in Office 2016.
 
@@ -24,3 +25,4 @@ Defines the different types of warnings that may appear on resources triggering 
 |**pjResourceWarningWorkingInDraftEngagedTime**|**32**||
 |**pjResourceWarningWorkingInProposedEngagedTime**|**16**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.FromX Property (PowerPoint)
+title: MotionEffect.FromX property (PowerPoint)
 keywords: vbapp10.chm658005
 f1_keywords:
 - vbapp10.chm658005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect.FromX
 ms.assetid: 1e849f47-aab0-3e54-6cfe-e7fe3021dcf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect.FromX Property (PowerPoint)
+# MotionEffect.FromX property (PowerPoint)
 
 Sets or returns a  **Single** that represents the starting width or horizontal position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percent of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `FromX`
+_expression_. `FromX`
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
@@ -78,3 +79,4 @@ End Sub
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

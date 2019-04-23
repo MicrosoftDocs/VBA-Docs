@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingSoftness Property (Word)
+title: ThreeDFormat.PresetLightingSoftness property (Word)
 keywords: vbawd10.chm164626538
 f1_keywords:
 - vbawd10.chm164626538
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 3f33ad34-5779-63a0-fe50-a8bd0fcabe54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingSoftness Property (Word)
+# ThreeDFormat.PresetLightingSoftness property (Word)
 
-Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness** .
+Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness**.
 
 
 ## Syntax
 
- _expression_. `PresetLightingSoftness`
+_expression_. `PresetLightingSoftness`
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

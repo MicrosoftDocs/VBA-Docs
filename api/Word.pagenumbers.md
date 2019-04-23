@@ -1,12 +1,13 @@
 ---
-title: PageNumbers Object (Word)
+title: PageNumbers object (Word)
 ms.prod: word
 ms.assetid: 9090f96e-d898-ace6-35fa-f6e59c527ea2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumbers Object (Word)
+# PageNumbers object (Word)
 
 A collection of  **PageNumber** objects that represent the page numbers in a single header or footer.
 
@@ -51,7 +52,7 @@ ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.PageNumbers.Add.md)|
 |[Item](Word.PageNumbers.Item.md)|
@@ -60,7 +61,7 @@ ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.PageNumbers.Application.md)|
 |[ChapterPageSeparator](Word.PageNumbers.ChapterPageSeparator.md)|
@@ -78,4 +79,6 @@ ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

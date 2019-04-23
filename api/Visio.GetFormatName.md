@@ -5,6 +5,7 @@ api_name:
 - Visio.GetFormatName
 ms.assetid: 5586e07a-8b05-8894-d877-45c27584d4e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Places the friendly name of the output format specified by the index passed to t
 
 ## Syntax
 
- _expression_. **GetFormatName**(**_nIndex_**,  **_pVal_**)
+_expression_.**GetFormatName**(**_nIndex_**,  **_pVal_**)
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Parameters
@@ -61,4 +62,4 @@ Public Sub GetFormatName_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

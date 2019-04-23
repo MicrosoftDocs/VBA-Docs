@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields Object (Publisher)
+title: WebHiddenFields object (Publisher)
 keywords: vbapb10.chm4063231
 f1_keywords:
 - vbapb10.chm4063231
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebHiddenFields
 ms.assetid: 8ced4021-fa99-39dd-e880-b9793426871f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebHiddenFields Object (Publisher)
+# WebHiddenFields object (Publisher)
 
 Represents hidden Web fields that allow a Web page to pass non-visible data to the Web server when a Web page is submitted. The  **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
  
@@ -43,7 +44,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.WebHiddenFields.Add.md)|
 |[Delete](Publisher.WebHiddenFields.Delete.md)|
@@ -54,9 +55,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebHiddenFields.Application.md)|
 |[Count](Publisher.WebHiddenFields.Count.md)|
 |[Parent](Publisher.WebHiddenFields.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

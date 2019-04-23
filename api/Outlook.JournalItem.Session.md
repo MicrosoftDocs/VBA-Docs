@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Session Property (Outlook)
+title: JournalItem.Session property (Outlook)
 keywords: vbaol11.chm1229
 f1_keywords:
 - vbaol11.chm1229
@@ -8,19 +8,20 @@ api_name:
 - Outlook.JournalItem.Session
 ms.assetid: d691078d-f651-c31a-d767-0b3bd91df800
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.Session Property (Outlook)
+# JournalItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

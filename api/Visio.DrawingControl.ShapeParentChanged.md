@@ -1,14 +1,15 @@
 ---
-title: DrawingControl.ShapeParentChanged Event (Visio)
+title: DrawingControl.ShapeParentChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeParentChanged
 ms.assetid: f3e0a789-bb27-10b4-f363-effc8f480a54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl.ShapeParentChanged Event (Visio)
+# DrawingControl.ShapeParentChanged event (Visio)
 
 Occurs after shapes are grouped or a group is ungrouped.
 
@@ -34,4 +35,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

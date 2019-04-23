@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 64da79b1-42fc-480c-9aa1-814fd5f302da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Profile.Delete Method (Project)](http://msdn.microsoft.com/library/61c3e2a8-2efd-36d7-2619-acbb7a055162%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

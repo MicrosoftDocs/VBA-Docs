@@ -8,31 +8,32 @@ api_name:
 - Excel.PivotCache.MissingItemsLimit
 ms.assetid: ff15a86c-b57f-ed55-bbfa-74e1c5ce753c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.MissingItemsLimit property (Excel)
 
-Returns or sets the maximum quantity of unique items per PivotTable field that are retained even when they have no supporting data in the cache records. Read/write  **[XlPivotTableMissingItems](Excel.XlPivotTableMissingItems.md)** .
+Returns or sets the maximum quantity of unique items per PivotTable field that are retained even when they have no supporting data in the cache records. Read/write  **[XlPivotTableMissingItems](Excel.XlPivotTableMissingItems.md)**.
 
 
 ## Syntax
 
- _expression_. `MissingItemsLimit`
+_expression_. `MissingItemsLimit`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
 
 
 
-| **XlPivotTableMissingItems** can be one of these **XlPivotTableMissingItems** constants.|
+| **xlPivotTableMissingItems** can be one of these **xlPivotTableMissingItems** constants.|
 | **xlMissingItemsDefault** The default number of unique items per PivotField allowed.|
 | **xlMissingItemsMax** The maximum number of unique items per PivotField allowed (32,500).|
 | **xlMissingItemsNone** No unique items per PivotField allowed (zero).|
 
-This property can be set to a value between 0 and 32500. If an integer less than zero is specified, this is equivalent to specifying  **xlMissingItemsDefault** . Integers greater than 32,500 can be specified but will have the same effect as specifying **xlMissingItemsMax** .
+This property can be set to a value between 0 and 32500. If an integer less than zero is specified, this is equivalent to specifying  **xlMissingItemsDefault**. Integers greater than 32,500 can be specified but will have the same effect as specifying **xlMissingItemsMax**.
 
 The  **MissingItemsLimit** property only works for non-OLAP PivotTables; otherwise, a run-time error can occur.
 
@@ -68,3 +69,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Series.Formula Property (Word)
+title: Series.Formula property (Word)
 keywords: vbawd10.chm123732229
 f1_keywords:
 - vbawd10.chm123732229
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.Formula
 ms.assetid: 744473dd-b7f2-6f70-a285-ddc95ef5221f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Formula Property (Word)
+# Series.Formula property (Word)
 
-Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write  **String** .
+Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -37,3 +38,4 @@ If the range is a one- or two-dimensional range, you can set the formula to a Vi
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

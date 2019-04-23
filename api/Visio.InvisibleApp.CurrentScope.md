@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.CurrentScope Property (Visio)
+title: InvisibleApp.CurrentScope property (Visio)
 keywords: vis_sdr.chm17513340
 f1_keywords:
 - vis_sdr.chm17513340
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.CurrentScope
 ms.assetid: 8a2bf84d-419d-7776-2d7c-7b73c3203e66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.CurrentScope Property (Visio)
+# InvisibleApp.CurrentScope property (Visio)
 
 Determines the ID of the scope that causes an event to fire. Read-only.
 
 
 ## Syntax
 
- _expression_. `CurrentScope`
+_expression_. `CurrentScope`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -106,4 +107,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

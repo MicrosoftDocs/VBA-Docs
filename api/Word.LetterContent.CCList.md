@@ -1,5 +1,5 @@
 ---
-title: LetterContent.CCList Property (Word)
+title: LetterContent.CCList property (Word)
 keywords: vbawd10.chm161546358
 f1_keywords:
 - vbawd10.chm161546358
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.CCList
 ms.assetid: 87e4fd7c-ae2e-bb29-c228-65c217a41976
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.CCList Property (Word)
+# LetterContent.CCList property (Word)
 
-Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `CCList`
+_expression_. `CCList`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -50,3 +51,4 @@ ActiveDocument.RunLetterWizard LetterContent:=lcNew
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

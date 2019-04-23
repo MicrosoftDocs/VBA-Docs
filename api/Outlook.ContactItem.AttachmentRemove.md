@@ -1,23 +1,24 @@
 ---
-title: ContactItem.AttachmentRemove Event (Outlook)
+title: ContactItem.AttachmentRemove event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AttachmentRemove
 ms.assetid: e7080603-d978-aeb8-a50c-1bcc53504422
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.AttachmentRemove Event (Outlook)
+# ContactItem.AttachmentRemove event (Outlook)
 
 Occurs when an attachment has been removed from an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `AttachmentRemove`( `_Attachment_` , )
+_expression_. `AttachmentRemove`( `_Attachment_` , )
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters
@@ -33,3 +34,4 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

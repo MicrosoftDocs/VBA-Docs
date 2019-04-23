@@ -1,5 +1,5 @@
 ---
-title: AddressList.IsReadOnly Property (Outlook)
+title: AddressList.IsReadOnly property (Outlook)
 keywords: vbaol11.chm2030
 f1_keywords:
 - vbaol11.chm2030
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AddressList.IsReadOnly
 ms.assetid: 45d40efc-08c0-e2d7-572a-a5e60efb7d2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressList.IsReadOnly Property (Outlook)
+# AddressList.IsReadOnly property (Outlook)
 
 Returns a  **Boolean** value that indicates that the **[AddressList](Outlook.AddressList.md)** object cannot be modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsReadOnly`
+_expression_. `IsReadOnly`
 
- _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **IsReadOnly** property refers to adding and deleting the entries in the ad
 
 [AddressList Object](Outlook.AddressList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

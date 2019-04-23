@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Merge Method (Word)
+title: Subdocuments.Merge method (Word)
 keywords: vbawd10.chm159907942
 f1_keywords:
 - vbawd10.chm159907942
@@ -8,19 +8,20 @@ api_name:
 - Word.Subdocuments.Merge
 ms.assetid: 486b0b4e-1bc7-4ba3-15f0-466aede8c172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocuments.Merge Method (Word)
+# Subdocuments.Merge method (Word)
 
 Merges the specified subdocuments of a master document into a single subdocument.
 
 
 ## Syntax
 
- _expression_. `Merge`( `_FirstSubdocument_` , `_LastSubdocument_` )
+_expression_. `Merge`( `_FirstSubdocument_` , `_LastSubdocument_` )
 
- _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
+_expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ End If
 
 [Subdocuments Collection Object](Word.subdocuments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

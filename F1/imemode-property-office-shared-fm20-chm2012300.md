@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4e201239-f3cf-4326-863a-415a2c57392c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [IMEMode Property](http://msdn.microsoft.com/library/b47dd67c-f058-ad85-97ae-17efe46875ed%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

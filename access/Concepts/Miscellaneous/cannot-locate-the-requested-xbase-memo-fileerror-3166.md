@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: afe89135-f30c-4f6b-1fbe-11a6fe974ff7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You tried to access a dBASE (.dbf) file, but the file's associated memo (.dbt) f
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

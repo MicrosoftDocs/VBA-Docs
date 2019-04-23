@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.HorizontalAlignment
 ms.assetid: 601042fa-3bc9-4a5c-573a-fdf9e9a5717a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that represents the horizontal alignment of the associated  **[R
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

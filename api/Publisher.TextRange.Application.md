@@ -1,5 +1,5 @@
 ---
-title: TextRange.Application Property (Publisher)
+title: TextRange.Application property (Publisher)
 keywords: vbapb10.chm5308417
 f1_keywords:
 - vbapb10.chm5308417
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Application
 ms.assetid: 8c39c632-7c5b-6057-c4f7-2003b59b4644
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Application Property (Publisher)
+# TextRange.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

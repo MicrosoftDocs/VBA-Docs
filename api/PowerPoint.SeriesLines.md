@@ -1,5 +1,5 @@
 ---
-title: SeriesLines Object (PowerPoint)
+title: SeriesLines object (PowerPoint)
 keywords: vbapp10.chm718000
 f1_keywords:
 - vbapp10.chm718000
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SeriesLines
 ms.assetid: 5d953ed4-ca16-3cb3-ba8f-1742e4a56cb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesLines Object (PowerPoint)
+# SeriesLines object (PowerPoint)
 
 Represents series lines in a chart group.
 
 
 ## Remarks
 
- Series lines connect the data values from each series. Only 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie charts can have series lines. This object is not a collection. There is no object that represents a single series line; you either enable series lines for all points in a chart group or you disable them.
+ Series lines connect the data values from each series. Only 2D stacked bar, 2D stacked column, pie-of-pie, or bar-of-pie charts can have series lines. This object is not a collection. There is no object that represents a single series line; you either enable series lines for all points in a chart group or you disable them.
 
 If the  **[HasSeriesLines](PowerPoint.ChartGroup.HasSeriesLines.md)** property is **False**, most properties of the **SeriesLines** object are disabled.
 
@@ -30,7 +31,7 @@ If the  **[HasSeriesLines](PowerPoint.ChartGroup.HasSeriesLines.md)** property i
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[SeriesLines](PowerPoint.ChartGroup.SeriesLines.md)** property to return a **SeriesLines** object. The following example adds series lines to chart group one in embedded chart one on worksheet one (the chart must be a 2-D stacked bar or column chart).
+Use the  **[SeriesLines](PowerPoint.ChartGroup.SeriesLines.md)** property to return a **SeriesLines** object. The following example adds series lines to chart group one in embedded chart one on worksheet one (the chart must be a 2D stacked bar or column chart).
 
 
 
@@ -59,3 +60,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

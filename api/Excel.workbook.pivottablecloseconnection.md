@@ -1,24 +1,25 @@
 ---
-title: Workbook.PivotTableCloseConnection Event (Excel)
+title: Workbook.PivotTableCloseConnection event (Excel)
 keywords: vbaxl10.chm503094
 f1_keywords:
 - vbaxl10.chm503094
 ms.prod: excel
 ms.assetid: e267ab5b-382e-b270-18c8-f643e03e4604
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.PivotTableCloseConnection Event (Excel)
+# Workbook.PivotTableCloseConnection event (Excel)
 
 Occurs after a PivotTable report closes the connection to its data source.
 
 
 ## Syntax
 
- _expression_. `PivotTableCloseConnection`( `_Target_` )
+_expression_. `PivotTableCloseConnection`( `_Target_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet Object (Publisher)
+title: WebNavigationBarSet object (Publisher)
 keywords: vbapb10.chm8585215
 f1_keywords:
 - vbapb10.chm8585215
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebNavigationBarSet
 ms.assetid: 03b31cc1-5b24-1a16-710c-73755298066e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet Object (Publisher)
+# WebNavigationBarSet object (Publisher)
 
 Represents a Web navigation bar set for the current document. The  **WebNavigationBarSet** object is a member of the **WebNavigationBarSets** collection, which includes all of the Web navigation bar sets in the current document.
  
@@ -69,7 +70,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToEveryPage](Publisher.WebNavigationBarSet.AddToEveryPage.md)|
 |[ChangeOrientation](Publisher.WebNavigationBarSet.ChangeOrientation.md)|
@@ -79,7 +80,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebNavigationBarSet.Application.md)|
 |[AutoUpdate](Publisher.WebNavigationBarSet.AutoUpdate.md)|
@@ -93,3 +94,4 @@ End With
 |[Parent](Publisher.WebNavigationBarSet.Parent.md)|
 |[ShowSelected](Publisher.WebNavigationBarSet.ShowSelected.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

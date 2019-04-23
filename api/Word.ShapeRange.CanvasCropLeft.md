@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CanvasCropLeft Method (Word)
+title: ShapeRange.CanvasCropLeft method (Word)
 keywords: vbawd10.chm162857100
 f1_keywords:
 - vbawd10.chm162857100
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.CanvasCropLeft
 ms.assetid: 6b1a0b17-64d4-869a-b569-01a8095ee880
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.CanvasCropLeft Method (Word)
+# ShapeRange.CanvasCropLeft method (Word)
 
 Crops a percentage of the width of a drawing canvas from the left side of the canvas.
 
 
 ## Syntax
 
- _expression_. `CanvasCropBottom`( `_Increment_` )
+_expression_. `CanvasCropBottom`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ End Sub
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

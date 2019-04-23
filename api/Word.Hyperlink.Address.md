@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Address Property (Word)
+title: Hyperlink.Address property (Word)
 keywords: vbawd10.chm161285196
 f1_keywords:
 - vbawd10.chm161285196
@@ -8,19 +8,20 @@ api_name:
 - Word.Hyperlink.Address
 ms.assetid: f908a22a-7c0f-6b56-7933-f44985ea1464
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Address Property (Word)
+# Hyperlink.Address property (Word)
 
-Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write  **String** .
+Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
- _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
+_expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Remarks
@@ -70,3 +71,4 @@ Next aHyperlink
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

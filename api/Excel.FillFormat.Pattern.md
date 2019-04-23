@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.Pattern
 ms.assetid: 051e17ce-accd-13f4-edca-9860bc78197b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets an  **[MsoPatternType](Office.MsoPatternType.md)** value that re
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Use the  **[Patterned](Excel.FillFormat.Patterned.md)** method to set the patter
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

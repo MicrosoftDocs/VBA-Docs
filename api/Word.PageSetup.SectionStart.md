@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SectionStart Property (Word)
+title: PageSetup.SectionStart property (Word)
 keywords: vbawd10.chm158400626
 f1_keywords:
 - vbawd10.chm158400626
@@ -8,19 +8,20 @@ api_name:
 - Word.PageSetup.SectionStart
 ms.assetid: 2fa3d589-82e7-9f9a-7b0e-f8761dd60a9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.SectionStart Property (Word)
+# PageSetup.SectionStart property (Word)
 
-Returns or sets the type of section break for the specified object. Read/write  **WdSectionStart** .
+Returns or sets the type of section break for the specified object. Read/write  **WdSectionStart**.
 
 
 ## Syntax
 
- _expression_. `SectionStart`
+_expression_. `SectionStart`
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Example
@@ -48,3 +49,4 @@ ActiveDocument.PageSetup.SectionStart = mytype
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

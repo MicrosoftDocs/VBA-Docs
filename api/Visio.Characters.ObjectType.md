@@ -1,5 +1,5 @@
 ---
-title: Characters.ObjectType Property (Visio)
+title: Characters.ObjectType property (Visio)
 keywords: vis_sdr.chm10213960
 f1_keywords:
 - vis_sdr.chm10213960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.ObjectType
 ms.assetid: 31ffa78e-3232-028b-91a8-636010c9c5b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.ObjectType Property (Visio)
+# Characters.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

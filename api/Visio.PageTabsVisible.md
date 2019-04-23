@@ -5,6 +5,7 @@ api_name:
 - Visio.PageTabsVisible
 ms.assetid: 7ca92d5f-2d34-93f6-a5ca-b331125a847f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether page tabs are visible in Microsoft V
 
 ## Syntax
 
- _expression_. **PageTabsVisible**
+_expression_.**PageTabsVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code makes the page tabs visible in Visio Viewer.
 vsoViewer.PageTabsVisible = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Range.Start Property (Word)
+title: Range.Start property (Word)
 keywords: vbawd10.chm157155331
 f1_keywords:
 - vbawd10.chm157155331
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Start
 ms.assetid: aadedbb7-1ee2-9e5a-296d-0ebe25b6d8f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Start Property (Word)
+# Range.Start property (Word)
 
-Returns or sets the starting character position of a range. Read/write  **Long** .
+Returns or sets the starting character position of a range. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -57,3 +58,4 @@ myRange.SetRange Start:=myRange.Start + 1, End:=myRange.End
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

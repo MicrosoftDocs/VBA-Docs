@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 063c3f84-3826-1bc2-5e60-12ff5760c8d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,5 +34,5 @@ Just as you can add ActiveX controls to  [custom dialog boxes](create-a-custom-d
 5.  [Use control values while code is running](using-control-values-while-code-is-running.md)
     
     Some properties can be set at run time.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Access.AcSearchDirection
 ms.assetid: c1222cca-68a0-34ba-f907-2b0567a0a789
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) met
 |**acSearchAll**|2|Search all records.|
 |**acUp**|0|Search all records above the current record.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Find a record in a table-type DAO Recordset
 ms.prod: access
 ms.assetid: b17f14db-9b3e-7f12-9fc8-f56c6dcbad09
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -96,3 +97,4 @@ In this example, the table's primary key consists of two fields: OrderID and Pro
 
 If the current index is a multiple-field index, trailing key values can be omitted and are treated as **Null** values. That is, you can leave off any number of key values from the end of a **Seek** method's _key_ argument, but not from the beginning or the middle. However, if you do not specify all values in the index, you can use only the ">" or "<" comparison string with the **Seek** method.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

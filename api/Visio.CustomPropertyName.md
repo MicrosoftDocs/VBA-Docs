@@ -5,6 +5,7 @@ api_name:
 - Visio.CustomPropertyName
 ms.assetid: 6cd7838b-9c7b-0f07-e94b-c24dc800b2d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the name of the shape data item (custom property) at the specified index po
 
 ## Syntax
 
- _expression_. **CustomPropertyName**(**_ShapeIndex_**,  **_PropertyIndex_**)
+_expression_.**CustomPropertyName**(**_ShapeIndex_**,  **_PropertyIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -54,4 +55,4 @@ Debug.Print strPropertyName
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

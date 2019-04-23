@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.PivotCellType
 ms.assetid: f5462981-924c-4d6c-be99-5b7cea0222a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns one of the  **[XlPivotCellType](Excel.XlPivotCellType.md)** constants th
 
 ## Syntax
 
- _expression_. `PivotCellType`
+_expression_. `PivotCellType`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Returns one of the  **[XlPivotCellType](Excel.XlPivotCellType.md)** constants th
 
 
 
-| **XlPivotCellType** can be one of these **XlPivotCellType** constants.|
+| **xlPivotCellType** can be one of these **xlPivotCellType** constants.|
 | **xlPivotCellBlankCell** A structural blank cell in the PivotTable.|
 | **xlPivotCellCustomSubtotal** A cell in the row or column area that is a custom subtotal.|
 | **xlPivotCellDataField** A data field label (not the **Data** button).|
@@ -71,3 +72,4 @@ End Sub
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

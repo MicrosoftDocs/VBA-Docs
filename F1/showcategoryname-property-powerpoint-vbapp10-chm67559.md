@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5f8916e7-8431-4eb8-aae5-e75750877256
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.ShowCategoryName Property (PowerPoint)](http://msdn.microsoft.com/library/0869b709-e09d-2c55-4d74-c4a0d130a551%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

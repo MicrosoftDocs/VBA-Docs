@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeFolderSwitch Event (Outlook)
+title: Explorer.BeforeFolderSwitch event (Outlook)
 keywords: vbaol11.chm451
 f1_keywords:
 - vbaol11.chm451
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeFolderSwitch
 ms.assetid: ae65c073-6b4a-ac81-c4ae-691118b19df0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeFolderSwitch Event (Outlook)
+# Explorer.BeforeFolderSwitch event (Outlook)
 
 Occurs before the explorer goes to a new folder, either as a result of user action or through program code.
 
 
 ## Syntax
 
- _expression_. `BeforeFolderSwitch`( `_NewFolder_` , `_Cancel_` )
+_expression_. `BeforeFolderSwitch`( `_NewFolder_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -30,13 +31,13 @@ Occurs before the explorer goes to a new folder, either as a result of user acti
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewFolder_|Required| **Object**|The  **[Folder](Outlook.Folder.md)** object the explorer is switching to.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , navigation is cancelled, and the current folder is not changed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, navigation is cancelled, and the current folder is not changed.|
 
 ## Remarks
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-If the folder being switched to is in a namespace that doesn?t support automation (such as the file system),  _NewFolder_ is **Nothing** .
+If the folder being switched to is in a namespace that doesn't support automation (such as the file system),  _NewFolder_ is **Nothing**.
 
 
 ## Example
@@ -76,3 +77,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

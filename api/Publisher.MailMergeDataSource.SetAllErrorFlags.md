@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetAllErrorFlags Method (Publisher)
+title: MailMergeDataSource.SetAllErrorFlags method (Publisher)
 keywords: vbapb10.chm6291488
 f1_keywords:
 - vbapb10.chm6291488
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 17c41fbb-3b21-c31a-63cd-ed26065bfa79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.SetAllErrorFlags Method (Publisher)
+# MailMergeDataSource.SetAllErrorFlags method (Publisher)
 
 Marks all records in a mail merge data source as containing invalid data in an address field.
 
 
 ## Syntax
 
- _expression_. **SetAllErrorFlags**(**_Invalid_**,  **_InvalidComment_**)
+_expression_.**SetAllErrorFlags**(**_Invalid_**,  **_InvalidComment_**)
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -53,4 +54,4 @@ Sub FlagAllRecords()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

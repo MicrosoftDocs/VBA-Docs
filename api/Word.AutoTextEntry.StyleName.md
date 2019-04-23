@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.StyleName Property (Word)
+title: AutoTextEntry.StyleName property (Word)
 keywords: vbawd10.chm154533891
 f1_keywords:
 - vbawd10.chm154533891
@@ -8,17 +8,18 @@ api_name:
 - Word.AutoTextEntry.StyleName
 ms.assetid: 0bcb48b2-c131-4bff-732e-ec221f24e463
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoTextEntry.StyleName Property (Word)
+# AutoTextEntry.StyleName property (Word)
 
-Returns the name of the style applied to the specified AutoText entry. Read-only  **String** .
+Returns the name of the style applied to the specified AutoText entry. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `StyleName`
+_expression_. `StyleName`
 
  _expression_ A variable that represents a '[AutoTextEntry](Word.AutoTextEntry.md)' object.
 
@@ -40,3 +41,4 @@ MsgBox myentry.StyleName
 
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

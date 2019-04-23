@@ -1,37 +1,38 @@
 ---
-title: Broadcast.AddMeetingNotes Method (PowerPoint)
+title: Broadcast.AddMeetingNotes method (PowerPoint)
 keywords: vbapp10.chm732009
 f1_keywords:
 - vbapp10.chm732009
 ms.assetid: c667cf7c-b4a2-19fc-ad1f-ed8a09c5f769
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Broadcast.AddMeetingNotes Method (PowerPoint)
+# Broadcast.AddMeetingNotes method (PowerPoint)
 
 Adds shared meeting notes for the specified broadcast that are accessible to attendees who use either Microsoft OneNote 2013 rich client or web app.
 
 
 ## Syntax
 
- _expression_. `AddMeetingNotes`_(notesUrl,_ _notesWacUrl)_
+_expression_. `AddMeetingNotes`_(notesUrl,_ _notesWacUrl)_
 
- _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
+_expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _notesUrl_|Required|**String**|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 rich client.|
 | _notesWacUrl_|Required|**String**|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 web access client.|
-| _notesUrl_|Required|STRING||
-| _notesWacUrl_|Required|STRING||
+| _notesUrl_|Required|**String**||
+| _notesWacUrl_|Required|**String**||
 
 ## Return value
 
@@ -42,4 +43,4 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
 
 If you fail to pass a string for either of the two parameters, the  **AddMeetingNotes** method returns an Invalid Parameter error. If for any reason the method call fails, PowerPoint returns a generic broadcast error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

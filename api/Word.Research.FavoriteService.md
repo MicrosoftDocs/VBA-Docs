@@ -1,5 +1,5 @@
 ---
-title: Research.FavoriteService Property (Word)
+title: Research.FavoriteService property (Word)
 keywords: vbawd10.chm201655275
 f1_keywords:
 - vbawd10.chm201655275
@@ -8,17 +8,18 @@ api_name:
 - Word.Research.FavoriteService
 ms.assetid: ed8654bb-6f70-fe66-70cf-5736163028d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Research.FavoriteService Property (Word)
+# Research.FavoriteService property (Word)
 
 Returns or sets a  **String** that specifies the favorite research service.
 
 
 ## Syntax
 
- _expression_. `FavoriteService`
+_expression_. `FavoriteService`
 
  _expression_ An expression that returns a '[Research](Word.Research.md)' object.
 
@@ -57,3 +58,4 @@ End Sub
 
 [Research Object](Word.Research.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

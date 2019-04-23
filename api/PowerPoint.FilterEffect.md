@@ -1,5 +1,5 @@
 ---
-title: FilterEffect Object (PowerPoint)
+title: FilterEffect object (PowerPoint)
 keywords: vbapp10.chm669000
 f1_keywords:
 - vbapp10.chm669000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.FilterEffect
 ms.assetid: f61235e0-5ddc-536e-1ac1-92b8b519f130
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FilterEffect Object (PowerPoint)
+# FilterEffect object (PowerPoint)
 
 Represents a filter effect for an animation behavior.
 
@@ -60,3 +61,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

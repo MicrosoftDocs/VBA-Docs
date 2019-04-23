@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectAll Method (Visio)
+title: Selection.SelectAll method (Visio)
 keywords: vis_sdr.chm11116535
 f1_keywords:
 - vis_sdr.chm11116535
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.SelectAll
 ms.assetid: e2280c51-84e8-4403-1c9e-f3bc504aff2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SelectAll Method (Visio)
+# Selection.SelectAll method (Visio)
 
 Selects all possible shapes in a window or selection.
 
 
 ## Syntax
 
- _expression_. `SelectAll`
+_expression_. `SelectAll`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -55,4 +56,4 @@ Public Sub SelectAll_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

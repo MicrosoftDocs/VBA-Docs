@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RSq Method (Excel)
+title: WorksheetFunction.RSq method (Excel)
 keywords: vbaxl10.chm137217
 f1_keywords:
 - vbaxl10.chm137217
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.RSq
 ms.assetid: f6d9b270-ec48-1b53-fe96-b62dd37f1a56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.RSq Method (Excel)
+# WorksheetFunction.RSq method (Excel)
 
 Returns the square of the Pearson product moment correlation coefficient through data points in known_y's and known_x's. For more information, see PEARSON. The r-squared value can be interpreted as the proportion of the variance in y attributable to the variance in x.
 
 
 ## Syntax
 
- _expression_. `RSq`( `_Arg1_` , `_Arg2_` )
+_expression_. `RSq`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

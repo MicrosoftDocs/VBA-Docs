@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextbox Method (Publisher)
+title: Shapes.AddTextbox method (Publisher)
 keywords: vbapb10.chm2162720
 f1_keywords:
 - vbapb10.chm2162720
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddTextbox
 ms.assetid: 38494902-61d5-2017-819e-248b2b7bc0d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddTextbox Method (Publisher)
+# Shapes.AddTextbox method (Publisher)
 
 Adds a new  **Shape** object representing a text box to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddTextbox**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddTextbox**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -48,7 +49,7 @@ The Orientation parameter can be one of the  **PbTextOrientation** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbTextOrientationHorizontal**| A horizontal text box for left-to-right languages.|
 | **pbTextOrientationRightToLeft**|A horizontal text box for right-to-left languages. This value has no effect if a right-to-left language is not selected.|
@@ -69,4 +70,4 @@ Set shpTextBox = ActiveDocument.Pages(1).Shapes.AddTextBox _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

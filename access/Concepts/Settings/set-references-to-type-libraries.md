@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6314a89b-89e9-d8c1-5964-889a361afcd1
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -35,7 +36,7 @@ To create a new **Reference** object, use either the **AddFromFile** or **AddFro
 
 Your Automation code will run faster if you set a reference to another application's type library before you work with its objects. If you've set a reference, you can declare an object variable representing an object in the other application as its most specific type. 
 
-For example, if you're writing code to work with Excel objects, you can declare an object variable of type **Excel.Application** by using the following syntax only if you've created a reference to the Excel type library:
+For example, if you are writing code to work with Excel objects, you can declare an object variable of type **Excel.Application** by using the following syntax only if you've created a reference to the Excel type library:
 
 
 ```vb
@@ -52,4 +53,4 @@ Additionally, if you set a reference to an application's type library, all of it
 
 Because Access is a COM component that supports automation, you can also set a reference to its type library from another application and work with Access objects from that application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

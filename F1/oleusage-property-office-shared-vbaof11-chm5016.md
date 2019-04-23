@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 03f49251-18b1-4fc1-8a20-c3b63e6b7011
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarComboBox.OLEUsage Property (Office)](http://msdn.microsoft.com/library/3da25257-6ffe-a00e-bada-79c6245286b7%28Office.15%29.aspx)
 [CommandBarPopup.OLEUsage Property (Office)](http://msdn.microsoft.com/library/75d338e0-f5ca-f4b6-2f94-e575749e6ae9%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

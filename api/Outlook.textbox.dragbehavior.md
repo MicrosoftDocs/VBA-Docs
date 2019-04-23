@@ -3,6 +3,7 @@ title: TextBox.DragBehavior Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 625ff366-65d5-0b50-bd73-420df5324fd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies whether the system enables the dr
 
 ## Syntax
 
- _expression_. **DragBehavior**
+_expression_.**DragBehavior**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ If the  **DragBehavior** property is enabled, dragging in a text box starts a dr
 
 You can combine the effects of the  **[EnterFieldBehavior](Outlook.textbox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of text box styles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

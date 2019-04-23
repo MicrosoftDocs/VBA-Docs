@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 24a963d8-4d69-44ee-9e13-7906782bdb52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.BackWall Property (Project)](http://msdn.microsoft.com/library/886925db-3994-9f76-a2e4-099e7e24bd8e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

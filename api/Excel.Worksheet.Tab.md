@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Tab
 ms.assetid: 386edcb0-868e-3f24-b4f0-8e52b9fcffcb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Tab](Excel.Tab.md)** object for a worksheet.
 
 ## Syntax
 
- _expression_. `Tab`
+_expression_.**Tab**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -49,3 +50,4 @@ End Sub
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

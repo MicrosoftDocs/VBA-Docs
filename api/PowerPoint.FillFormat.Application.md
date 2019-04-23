@@ -1,21 +1,22 @@
 ---
-title: FillFormat.Application Property (PowerPoint)
+title: FillFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Application
 ms.assetid: 5ef3dc11-eddf-48a7-4cf6-64149b0bf903
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Application Property (PowerPoint)
+# FillFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

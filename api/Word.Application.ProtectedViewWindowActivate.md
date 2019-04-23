@@ -1,21 +1,22 @@
 ---
-title: Application.ProtectedViewWindowActivate Event (Word)
+title: Application.ProtectedViewWindowActivate event (Word)
 ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowActivate
 ms.assetid: ae68e1aa-7cec-cd76-ee0e-71a051c5b6e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowActivate Event (Word)
+# Application.ProtectedViewWindowActivate event (Word)
 
 Occurs when any protected view window is activated.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowActivate`( `_PvWindow_` , )
+_expression_. `ProtectedViewWindowActivate`( `_PvWindow_` , )
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
@@ -49,3 +50,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

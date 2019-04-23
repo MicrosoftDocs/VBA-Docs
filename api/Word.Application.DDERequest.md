@@ -1,5 +1,5 @@
 ---
-title: Application.DDERequest Method (Word)
+title: Application.DDERequest method (Word)
 keywords: vbawd10.chm158335289
 f1_keywords:
 - vbawd10.chm158335289
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DDERequest
 ms.assetid: beed4867-0e2d-15be-82ae-1aba11f0a21a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DDERequest Method (Word)
+# Application.DDERequest method (Word)
 
-Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a  **String** .
+Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a  **String**.
 
 
 ## Syntax
 
- _expression_. `DDERequest`( `_Channel_` , `_Item_` )
+_expression_. `DDERequest`( `_Channel_` , `_Item_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -89,3 +90,4 @@ DDETerminate Channel:=lngChannel
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

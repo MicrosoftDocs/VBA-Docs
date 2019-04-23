@@ -1,26 +1,15 @@
 ---
-title: Editing Text
+title: Editing text
 ms.prod: word
 ms.assetid: 55c4d9ee-00f1-fcc6-72b1-2c19f25420a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Editing Text
+# Editing text
 
-This topic includes Visual Basic examples related to the following tasks:
-
-
--  [Determining whether text is selected](#Determining)
-    
--  [Collapsing a selection or range](#Collapsing)
-    
--  [Extending a selection or range](#Extending)
-    
--  [Redefining a selection or range](#Redefining)
-    
--  [Changing text](#Changing)
-    
+This topic includes Visual Basic examples related to the tasks identified in the following sections.
 
 For information about, and examples of, other editing tasks, see the following topics:
 
@@ -131,3 +120,6 @@ End Sub
 ```
 
 
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

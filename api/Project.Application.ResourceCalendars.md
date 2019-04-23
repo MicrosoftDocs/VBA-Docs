@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceCalendars Method (Project)
+title: Application.ResourceCalendars method (Project)
 keywords: vbapj.chm605
 f1_keywords:
 - vbapj.chm605
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ResourceCalendars
 ms.assetid: 8c40cfad-ec40-43a4-5698-de5abaea7243
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ResourceCalendars Method (Project)
+# Application.ResourceCalendars method (Project)
 
 Displays the  **Change Working Time** dialog box, which prompts the user to manage calendars.
 
 
 ## Syntax
 
- _expression_. `ResourceCalendars`( ` _Index_`, ` _Locked_` )
+_expression_. `ResourceCalendars`( `_Index_`, `_Locked_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Displays the  **Change Working Time** dialog box, which prompts the user to mana
 
 The  **ResourceCalendars** method returns a trappable error (error code 1101) when applied to material resources.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

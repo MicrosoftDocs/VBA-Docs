@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.RotatedChars Property (Word)
+title: TextEffectFormat.RotatedChars property (Word)
 keywords: vbawd10.chm164561005
 f1_keywords:
 - vbawd10.chm164561005
@@ -8,19 +8,20 @@ api_name:
 - Word.TextEffectFormat.RotatedChars
 ms.assetid: 4f5c9f84-0c86-1558-ac64-ca8d53e3683d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.RotatedChars Property (Word)
+# TextEffectFormat.RotatedChars property (Word)
 
- **MsoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **MsoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write **MsoTriState** .
+ **MsoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **MsoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `RotatedChars`
+_expression_. `RotatedChars`
 
- _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ newWordArt.TextEffect.RotatedChars = True
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

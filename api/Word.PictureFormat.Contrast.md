@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Contrast Property (Word)
+title: PictureFormat.Contrast property (Word)
 keywords: vbawd10.chm164298854
 f1_keywords:
 - vbawd10.chm164298854
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.Contrast
 ms.assetid: 43b91fc2-9a6d-c4d2-c68a-1c8f8a1a00b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Contrast Property (Word)
+# PictureFormat.Contrast property (Word)
 
-Returns or sets the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write  **Single** .
+Returns or sets the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Contrast`
+_expression_. `Contrast`
 
  _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
@@ -42,3 +43,4 @@ docActive.Shapes(1).PictureFormat.Contrast = 0.8
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

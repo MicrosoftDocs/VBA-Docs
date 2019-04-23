@@ -1,5 +1,5 @@
 ---
-title: Paths.Application Property (Visio)
+title: Paths.Application property (Visio)
 keywords: vis_sdr.chm15313090
 f1_keywords:
 - vis_sdr.chm15313090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Paths.Application
 ms.assetid: d5439015-9efb-46ea-49a8-7f08c4d82a14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paths.Application Property (Visio)
+# Paths.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Paths](./Visio.Paths.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

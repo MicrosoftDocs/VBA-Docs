@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Project)
+title: Application.Quit method (Project)
 keywords: vbapj.chm131252
 f1_keywords:
 - vbapj.chm131252
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.Quit
 ms.assetid: 0aaba635-6d6a-c4a3-fab3-03451659021b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Quit Method (Project)
+# Application.Quit method (Project)
 
 Exits Microsoft Project.
 
 
 ## Syntax
 
- _expression_. `Quit`( ` _SaveChanges_` )
+_expression_. `Quit`( `_SaveChanges_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Sub SaveChangesAndQuit()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

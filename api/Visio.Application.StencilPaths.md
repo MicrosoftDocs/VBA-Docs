@@ -1,5 +1,5 @@
 ---
-title: Application.StencilPaths Property (Visio)
+title: Application.StencilPaths property (Visio)
 keywords: vis_sdr.chm10014440
 f1_keywords:
 - vis_sdr.chm10014440
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.StencilPaths
 ms.assetid: 1b664a6d-ba52-7115-7c48-bf2f6dd8068d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.StencilPaths Property (Visio)
+# Application.StencilPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for stencils. Read/write.
 
 
 ## Syntax
 
- _expression_. `StencilPaths`
+_expression_. `StencilPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -96,4 +97,4 @@ Public Sub ShowStencilPaths_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

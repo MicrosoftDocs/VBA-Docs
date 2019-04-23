@@ -1,17 +1,18 @@
 ---
-title: VisRegionalUIOptions Enumeration (Visio)
+title: VisRegionalUIOptions enumeration (Visio)
 keywords: vis_sdr.chm70430
 f1_keywords:
 - vis_sdr.chm70430
 ms.prod: visio
 ms.assetid: 74162453-b519-de0d-a82b-7eccf28265dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisRegionalUIOptions Enumeration (Visio)
+# VisRegionalUIOptions enumeration (Visio)
 
-Text display options returned by the  **ApplicationSettings.AsianTextUI** , **ApplicationSettings.BIDITextUI** , **ApplicationSettings.ComplexTextUI** , **ApplicationSettings.KashidaTextUI** , and **ApplicationSettings.SATextUI** properties.
+Text display options returned by the  **ApplicationSettings.AsianTextUI**, **ApplicationSettings.BIDITextUI**, **ApplicationSettings.ComplexTextUI**, **ApplicationSettings.KashidaTextUI**, and **ApplicationSettings.SATextUI** properties.
 
 
 ## Remarks
@@ -20,9 +21,10 @@ You can set regional user interface (UI) options on the  **Set the Office Langua
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRegionalUIOptionsHide**|0|Always hide regional UI. |
 | **visRegionalUIOptionsShow**|1|Always show regional UI.|
 | **visRegionalUIOptionsUseSystemSettings**|-1|Not used.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

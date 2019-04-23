@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Range
 ms.assetid: 9a323305-c822-ef9e-1cc8-ec077a976834
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a **[Range](Excel.Range(object).md)** object that represents a cell or a
 
 ## Syntax
 
- _expression_. `Range`( `_Cell1_` , `_Cell2_` )
+_expression_.**Range** (_Cell1_, _Cell2_)
 
- _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -40,7 +41,7 @@ _Cell1_ and _Cell2_ can be A1-style references in the language of the macro. The
 
  Often, _Cell1_ and _Cell2_ are single cells in the upper-left and lower-right corner of the range returned.
 
-When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn?t a worksheet, the property fails).
+When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn't a worksheet, the property fails).
 
 When applied to a **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it is relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
 
@@ -110,3 +111,4 @@ Intersect(Range("A1:A5"), Range("A5:A10")).Select 'Selects cell A5.
 
 - [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

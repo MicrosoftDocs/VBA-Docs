@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f5dcb248-fda7-4b1f-8a30-687b7562d364
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/12d76216-6a16-c487-02b3-721ed5e27b79%28Office.15%29.aspx)
 [NavigationButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/82db8953-4344-8d4e-8bd6-9c9cedba6657%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

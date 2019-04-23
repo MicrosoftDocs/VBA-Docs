@@ -1,5 +1,5 @@
 ---
-title: Column Object (Word)
+title: Column object (Word)
 keywords: vbawd10.chm2383
 f1_keywords:
 - vbawd10.chm2383
@@ -8,10 +8,11 @@ api_name:
 - Word.Column
 ms.assetid: 49d68571-2a57-6795-34b9-eb09aeb43043
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Column Object (Word)
+# Column object (Word)
 
 Represents a single table column. The  **Column** object is a member of the **[Columns](Word.columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
 
@@ -75,7 +76,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoFit](Word.Column.AutoFit.md)|
 |[Delete](Word.Column.Delete.md)|
@@ -87,7 +88,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Column.Application.md)|
 |[Borders](Word.Column.Borders.md)|
@@ -108,4 +109,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

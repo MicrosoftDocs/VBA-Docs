@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: a85149e1-459e-f83b-3171-467a7e29ca28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ For more information about a specific control, select an object from the followi
 [TextBox](../../../language/reference/User-Interface-Help/textbox-control.md) | 
 [ToggleButton](../../../language/reference/User-Interface-Help/togglebutton-control.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PivotTables Method (Excel)
+title: Worksheet.PivotTables method (Excel)
 keywords: vbaxl10.chm175118
 f1_keywords:
 - vbaxl10.chm175118
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.PivotTables
 ms.assetid: b60944cd-827d-15dc-d49e-c739c237de15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.PivotTables Method (Excel)
+# Worksheet.PivotTables method (Excel)
 
 Returns an object that represents either a single PivotTable report (a  **[PivotTable](Excel.PivotTable.md)** object) or a collection of all the PivotTable reports (a **[PivotTables](Excel.PivotTables.md)** object) on a worksheet. Read-only.
 
 
 ## Syntax
 
- _expression_. `PivotTables`( `_Index_` )
+_expression_. `PivotTables` (_Index_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveSheet.PivotTables("PivotTable1"). _
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

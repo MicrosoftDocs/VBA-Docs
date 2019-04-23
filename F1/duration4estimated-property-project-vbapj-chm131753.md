@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 955863c6-91d2-41e1-b51d-b9c88d898aee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayViewBar Property (Project)](http://msdn.microsoft.com/library/e097b5ef-9d87-a55b-719b-3c31c6000b05%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

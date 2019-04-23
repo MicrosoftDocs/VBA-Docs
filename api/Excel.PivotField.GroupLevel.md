@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.GroupLevel
 ms.assetid: fc017652-bded-4655-03df-79cfa733b12e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the placement of the specified field within a group of fields (if the fi
 
 ## Syntax
 
- _expression_. `GroupLevel`
+_expression_. `GroupLevel`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End If
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

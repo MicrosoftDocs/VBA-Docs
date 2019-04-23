@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.RobustConnect
 ms.assetid: 354d0124-e178-342b-9565-fa74e9dae5d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.RobustConnect property (Excel)
 
-Returns or sets how the PivotTable cache connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)** .
+Returns or sets how the PivotTable cache connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)**.
 
 
 ## Syntax
 
- _expression_. `RobustConnect`
+_expression_. `RobustConnect`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -29,10 +30,10 @@ Returns or sets how the PivotTable cache connects to its data source. Read/write
 
 
 
-| **XlRobustConnect** can be one of these **XlRobustConnect** constants.|
-| **xlAlways** . The cache always uses external source information (as defined by the **[SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)** or **[SourceDataFile](Excel.PivotCache.SourceDataFile.md)** property) to reconnect.|
-| **xlAsRequired** . The cache uses external source info to reconnect using the **[Connection](Excel.PivotCache.Connection.md)** property.|
-| **xlNever** . The cache never uses source info to reconnect.|
+| **xlRobustConnect** can be one of these **xlRobustConnect** constants.|
+| **xlAlways**. The cache always uses external source information (as defined by the **[SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)** or **[SourceDataFile](Excel.PivotCache.SourceDataFile.md)** property) to reconnect.|
+| **xlAsRequired**. The cache uses external source info to reconnect using the **[Connection](Excel.PivotCache.Connection.md)** property.|
+| **xlNever**. The cache never uses source info to reconnect.|
 
 ## Example
 
@@ -65,3 +66,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

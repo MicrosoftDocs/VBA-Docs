@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupPcd Method (Excel)
+title: WorksheetFunction.CoupPcd method (Excel)
 keywords: vbaxl10.chm137333
 f1_keywords:
 - vbaxl10.chm137333
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CoupPcd
 ms.assetid: 68b08847-2729-3975-f488-241c20b398a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CoupPcd Method (Excel)
+# WorksheetFunction.CoupPcd method (Excel)
 
 
 
 
 ## Syntax
 
- _expression_. `CoupPcd`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `CoupPcd`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ The following table contains the values used in  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

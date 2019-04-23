@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Irr Method (Excel)
+title: WorksheetFunction.Irr method (Excel)
 keywords: vbaxl10.chm137113
 f1_keywords:
 - vbaxl10.chm137113
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Irr
 ms.assetid: 306de022-0082-9757-9b63-262c7e2e55f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Irr Method (Excel)
+# WorksheetFunction.Irr method (Excel)
 
 Returns the internal rate of return for a series of cash flows represented by the numbers in values. These cash flows do not have to be even, as they would be for an annuity. However, the cash flows must occur at regular intervals, such as monthly or annually. The internal rate of return is the interest rate received for an investment consisting of payments (negative values) and income (positive values) that occur at regular periods.
 
 
 ## Syntax
 
- _expression_. `Irr`( `_Arg1_` , `_Arg2_` )
+_expression_. `Irr`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ IRR is closely related to NPV, the net present value function. The rate of retur
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

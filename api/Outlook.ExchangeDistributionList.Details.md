@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList.Details Method (Outlook)
+title: ExchangeDistributionList.Details method (Outlook)
 keywords: vbaol11.chm2121
 f1_keywords:
 - vbaol11.chm2121
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeDistributionList.Details
 ms.assetid: e1d3a324-1a2b-54e2-641a-f7d37aa37358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList.Details Method (Outlook)
+# ExchangeDistributionList.Details method (Outlook)
 
 Displays a modal dialog box that provides detailed information about an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
 
 
 ## Syntax
 
- _expression_. `Details`( `_HWnd_` )
+_expression_. `Details`( `_HWnd_` )
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ The  **Details** method actually stops the code from running while the dialog bo
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

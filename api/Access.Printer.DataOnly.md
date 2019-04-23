@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.DataOnly
 ms.assetid: 2df339fe-140a-374f-01cf-d1d93ed87fee
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.DataOnly property (Access)
 
- **True** if Microsoft Access prints only the data from a table or query in Datasheet View and not the labels, control borders, gridlines, and display graphics. Read/write **Boolean**.
+**True** if Microsoft Access prints only the data from a table or query in Datasheet view and not the labels, control borders, gridlines, and display graphics. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `DataOnly`
+_expression_.**DataOnly**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -69,8 +69,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Letterhead Property (Word)
+title: LetterContent.Letterhead property (Word)
 keywords: vbawd10.chm161546345
 f1_keywords:
 - vbawd10.chm161546345
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.Letterhead
 ms.assetid: afd847ed-46b2-2539-a4b4-550094974614
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.Letterhead Property (Word)
+# LetterContent.Letterhead property (Word)
 
- **True** if space is reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write **Boolean** . The **[LetterheadSize](Word.LetterContent.LetterheadSize.md)** property controls the size of the reserved letterhead space.
+ **True** if space is reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write **Boolean**. The **[LetterheadSize](Word.LetterContent.LetterheadSize.md)** property controls the size of the reserved letterhead space.
 
 
 ## Syntax
 
- _expression_. `Letterhead`
+_expression_. `Letterhead`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -48,3 +49,4 @@ ActiveDocument.RunLetterWizard _
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

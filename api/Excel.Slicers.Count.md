@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicers.Count
 ms.assetid: bb5cafff-2c72-61b6-5c91-bd81594b03dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the number of objects in the collection.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a '[Slicers](Excel.Slicers.md)' collection.
+_expression_ A variable that represents a '[Slicers](Excel.Slicers.md)' collection.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the number of objects in the collection.
 
 [Slicers Object](Excel.Slicers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

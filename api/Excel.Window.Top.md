@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.Top
 ms.assetid: e04d6641-9788-1e0b-9343-011c414c31fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.Top property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in points, from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
+Returns or sets a  **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End With
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

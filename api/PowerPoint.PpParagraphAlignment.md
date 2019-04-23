@@ -1,14 +1,15 @@
 ---
-title: PpParagraphAlignment Enumeration (PowerPoint)
+title: PpParagraphAlignment enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpParagraphAlignment
 ms.assetid: 7d21b19c-c086-dabb-cbc3-1d220752b5ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpParagraphAlignment Enumeration (PowerPoint)
+# PpParagraphAlignment enumeration (PowerPoint)
 
 Specifies the alignment for each paragraph in the specified paragraph format.
 
@@ -25,3 +26,4 @@ Specifies the alignment for each paragraph in the specified paragraph format.
 |**ppAlignRight**|3|Right-aligned|
 |**ppAlignThaiDistribute**|6|Thai distributed|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

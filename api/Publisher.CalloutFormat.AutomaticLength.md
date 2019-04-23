@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutomaticLength Method (Publisher)
+title: CalloutFormat.AutomaticLength method (Publisher)
 keywords: vbapb10.chm2490384
 f1_keywords:
 - vbapb10.chm2490384
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.AutomaticLength
 ms.assetid: 3772ad87-9808-5f25-0b9c-cdd7b1392ca1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.AutomaticLength Method (Publisher)
+# CalloutFormat.AutomaticLength method (Publisher)
 
 Specifies that the first segment of the callout line (the segment attached to the text callout box) be scaled automatically when the callout is moved.
 
 
 ## Syntax
 
- _expression_. **AutomaticLength**
+_expression_.**AutomaticLength**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -46,4 +47,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

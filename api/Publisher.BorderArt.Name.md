@@ -1,5 +1,5 @@
 ---
-title: BorderArt.Name Property (Publisher)
+title: BorderArt.Name property (Publisher)
 keywords: vbapb10.chm7667715
 f1_keywords:
 - vbapb10.chm7667715
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArt.Name
 ms.assetid: 71e68f08-6bf1-7f4d-5da2-9f4ce4f63021
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArt.Name Property (Publisher)
+# BorderArt.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **BorderArt** object.
 
@@ -35,3 +36,4 @@ The  **Name** property is the default property for the **BorderArt**,  **BorderA
 
  [BorderArt Object](Publisher.BorderArt.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

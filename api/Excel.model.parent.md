@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: fa3e8f45-9efe-6639-8ee6-49b6ecbdfb52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns an  **Object** that represents the parent object of the specified object
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Property value
@@ -31,4 +32,4 @@ Returns an  **Object** that represents the parent object of the specified object
 
 [Model Object Members](overview/Excel.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

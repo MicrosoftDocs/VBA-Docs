@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientVariant Property (Word)
+title: FillFormat.GradientVariant property (Word)
 keywords: vbawd10.chm164102249
 f1_keywords:
 - vbawd10.chm164102249
@@ -8,24 +8,25 @@ api_name:
 - Word.FillFormat.GradientVariant
 ms.assetid: d92f56a2-fe56-4734-bddc-97517eea5def
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientVariant Property (Word)
+# FillFormat.GradientVariant property (Word)
 
-Returns the gradient variant for the specified fill as an integer value from 1 to 4 for most gradient fills. Read-only  **Long** .
+Returns the gradient variant for the specified fill as an integer value from 1 to 4 for most gradient fills. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `GradientVariant`
+_expression_. `GradientVariant`
 
  _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks
 
-If the gradient style is  **msoGradientFromCenter** , this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** tab in the **Fill Effects** dialog box.
+If the gradient style is  **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** tab in the **Fill Effects** dialog box.
 
 Use the  **[OneColorGradient](Word.FillFormat.OneColorGradient.md)** or **[TwoColorGradient](Word.FillFormat.TwoColorGradient.md)** method to set the gradient variant for the fill.
 
@@ -54,3 +55,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

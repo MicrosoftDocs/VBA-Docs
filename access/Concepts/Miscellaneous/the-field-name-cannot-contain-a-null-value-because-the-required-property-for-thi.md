@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 451a9b22-e0ec-cb43-92d4-2f010086802c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -89,3 +90,5 @@ The following table shows the results you can expect when you combine the settin
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

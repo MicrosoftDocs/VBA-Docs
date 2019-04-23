@@ -8,19 +8,20 @@ api_name:
 - Excel.Font.FontStyle
 ms.assetid: 17e5989e-09a5-dabb-4989-82daf3aa0295
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.FontStyle property (Excel)
 
-Returns or sets the font style. Read/write  **String** .
+Returns or sets the font style. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FontStyle`
+_expression_. `FontStyle`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Range("A1").Font.FontStyle = "Bold Italic"
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

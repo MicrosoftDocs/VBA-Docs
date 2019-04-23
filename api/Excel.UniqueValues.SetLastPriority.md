@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.SetLastPriority Method (Excel)
+title: UniqueValues.SetLastPriority method (Excel)
 keywords: vbaxl10.chm826083
 f1_keywords:
 - vbaxl10.chm826083
@@ -8,19 +8,20 @@ api_name:
 - Excel.UniqueValues.SetLastPriority
 ms.assetid: 9e2db204-4a9f-1690-7fc1-bec371fccaff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UniqueValues.SetLastPriority Method (Excel)
+# UniqueValues.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 
 
 ## Syntax
 
- _expression_. `SetLastPriority`
+_expression_.**SetLastPriority**
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

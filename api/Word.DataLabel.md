@@ -1,5 +1,5 @@
 ---
-title: DataLabel Object (Word)
+title: DataLabel object (Word)
 keywords: vbawd10.chm3569
 f1_keywords:
 - vbawd10.chm3569
@@ -8,10 +8,11 @@ api_name:
 - Word.DataLabel
 ms.assetid: b955596d-ac94-1e18-4e72-cdf090fc1f9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabel Object (Word)
+# DataLabel object (Word)
 
 Represents the data label on a chart point or trendline.
 
@@ -23,7 +24,7 @@ Represents the data label on a chart point or trendline.
 
 ## Example
 
-Use  **[DataLabels](Word.Series.DataLabels.md)** ( _Index_ ), where _Index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
+Use  **[DataLabels](Word.Series.DataLabels.md)** (_index_), where _index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
 
 
 ```vb
@@ -73,5 +74,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

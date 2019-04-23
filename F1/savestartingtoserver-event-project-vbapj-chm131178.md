@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 037ebabb-6968-436d-ba59-d41cc54ab90a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.JobStart Event (Project)](http://msdn.microsoft.com/library/874b35cb-bb90-b8dc-3c22-84c8809c3177%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

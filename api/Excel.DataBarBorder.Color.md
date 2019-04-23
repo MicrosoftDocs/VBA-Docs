@@ -8,6 +8,7 @@ api_name:
 - Excel.DataBarBorder.Color
 ms.assetid: a16439a9-c086-9c42-8496-9a16d9011689
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that specifies the color of the border of data bars specified 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
- _expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
+_expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End With
 
 [DataBarBorder Object](Excel.DataBarBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

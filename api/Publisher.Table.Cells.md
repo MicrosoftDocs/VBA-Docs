@@ -1,5 +1,5 @@
 ---
-title: Table.Cells Property (Publisher)
+title: Table.Cells property (Publisher)
 keywords: vbapb10.chm4784136
 f1_keywords:
 - vbapb10.chm4784136
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Table.Cells
 ms.assetid: 42622697-aef1-0765-7d85-4919c298d92f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Cells Property (Publisher)
+# Table.Cells property (Publisher)
 
 Returns a  **CellRange** object that represents a range of cells in a table.
 
 
 ## Syntax
 
- _expression_. **Cells**(**_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
+_expression_.**Cells**(**_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
 
  _expression_ A variable that represents a  **Table** object.
 
@@ -52,4 +53,4 @@ Sub MergeCells()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Range.Move Method (Word)
+title: Range.Move method (Word)
 keywords: vbawd10.chm157155437
 f1_keywords:
 - vbawd10.chm157155437
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Move
 ms.assetid: 40c73c63-12da-4e8c-05c3-121f4df57f3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Move Method (Word)
+# Range.Move method (Word)
 
 Collapses the specified range to its start or end position and then moves the collapsed object by the specified number of units.
 
 
 ## Syntax
 
- _expression_. `Move`( `_Unit_` , `_Count_` )
+_expression_. `Move`( `_Unit_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

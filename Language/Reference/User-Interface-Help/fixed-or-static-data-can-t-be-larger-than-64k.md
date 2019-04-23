@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e41c3342-6ea7-38d9-be17-f058858ec006
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,3 +35,4 @@ Fixed and static data include nonautomatic [variables](../../Glossary/vbe-glossa
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

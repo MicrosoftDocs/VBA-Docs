@@ -1,5 +1,5 @@
 ---
-title: Font.SizeBi Property (Word)
+title: Font.SizeBi property (Word)
 keywords: vbawd10.chm156369058
 f1_keywords:
 - vbawd10.chm156369058
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.SizeBi
 ms.assetid: 521dfc53-1076-ace0-c5d4-7218c985eb7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.SizeBi Property (Word)
+# Font.SizeBi property (Word)
 
-Returns or sets the font size in points. Read/write  **Single** .
+Returns or sets the font size in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `SizeBi`
+_expression_. `SizeBi`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -45,3 +46,4 @@ End With
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

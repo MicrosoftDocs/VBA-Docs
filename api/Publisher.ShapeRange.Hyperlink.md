@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Hyperlink Property (Publisher)
+title: ShapeRange.Hyperlink property (Publisher)
 keywords: vbapb10.chm2293859
 f1_keywords:
 - vbapb10.chm2293859
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Hyperlink
 ms.assetid: 34ec968c-af66-7629-066f-80c8e1b40e84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Hyperlink Property (Publisher)
+# ShapeRange.Hyperlink property (Publisher)
 
 Returns a  **[Hyperlink](Publisher.Hyperlink.md)** object representing the hyperlink associated with the specified shape.
 
 
 ## Syntax
 
- _expression_. **Hyperlink**
+_expression_.**Hyperlink**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -36,4 +37,4 @@ Set hypTemp = ActiveDocument.Pages(1).Shapes(1).Hyperlink
 hypTemp.Address = "https://www.tailspintoys.com/"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

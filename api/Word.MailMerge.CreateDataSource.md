@@ -1,5 +1,5 @@
 ---
-title: MailMerge.CreateDataSource Method (Word)
+title: MailMerge.CreateDataSource method (Word)
 keywords: vbawd10.chm153092197
 f1_keywords:
 - vbawd10.chm153092197
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.CreateDataSource
 ms.assetid: 720beea6-3496-c760-3465-117ee4beffb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.CreateDataSource Method (Word)
+# MailMerge.CreateDataSource method (Word)
 
 Creates a Microsoft Word document that uses a table to store data for a mail merge.
 
 
 ## Syntax
 
- _expression_. `CreateDataSource`( `_Name_` , `_PasswordDocument_` , `_WritePasswordDocument_` , `_HeaderRecord_` , `_MSQuery_` , `_SQLStatement_` , `_SQLStatement1_` , `_Connection_` , `_LinkToSource_` )
+_expression_. `CreateDataSource`( `_Name_` , `_PasswordDocument_` , `_WritePasswordDocument_` , `_HeaderRecord_` , `_MSQuery_` , `_SQLStatement_` , `_SQLStatement1_` , `_Connection_` , `_LinkToSource_` )
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Parameters
@@ -78,3 +79,4 @@ ActiveDocument.MailMerge.CreateDataSource _
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

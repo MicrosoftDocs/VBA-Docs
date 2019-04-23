@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.RobustConnect
 ms.assetid: 2f575278-d385-90bd-6544-885f99abbebb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCConnection.RobustConnect property (Excel)
 
-Returns or sets how ODBC connection connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)** .
+Returns or sets how ODBC connection connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)**.
 
 
 ## Syntax
 
- _expression_. `RobustConnect`
+_expression_. `RobustConnect`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ This provides robust connectivity in scenarios where an Information Technology D
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

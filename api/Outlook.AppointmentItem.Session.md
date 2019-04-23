@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Session Property (Outlook)
+title: AppointmentItem.Session property (Outlook)
 keywords: vbaol11.chm840
 f1_keywords:
 - vbaol11.chm840
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.Session
 ms.assetid: ff92a5eb-5a5a-9211-c247-42b9d993780f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.Session Property (Outlook)
+# AppointmentItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Template.Application Property (Word)
+title: Template.Application property (Word)
 keywords: vbawd10.chm157942760
 f1_keywords:
 - vbawd10.chm157942760
@@ -8,19 +8,20 @@ api_name:
 - Word.Template.Application
 ms.assetid: a7e7907a-0324-b8cf-f6a0-2fd102d63141
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template.Application Property (Word)
+# Template.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

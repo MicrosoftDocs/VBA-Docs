@@ -1,19 +1,20 @@
 ---
-title: ReplaceShapesEvent.Stat Property (Visio)
+title: ReplaceShapesEvent.Stat property (Visio)
 ms.prod: visio
 ms.assetid: 96f3d382-5dda-7f93-088d-96edc831cd7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReplaceShapesEvent.Stat Property (Visio)
+# ReplaceShapesEvent.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a 'ReplaceShapesEvent' object.
 
@@ -37,4 +38,4 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

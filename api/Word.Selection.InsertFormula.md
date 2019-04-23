@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertFormula Method (Word)
+title: Selection.InsertFormula method (Word)
 keywords: vbawd10.chm158663186
 f1_keywords:
 - vbawd10.chm158663186
@@ -8,24 +8,23 @@ api_name:
 - Word.Selection.InsertFormula
 ms.assetid: a193c4ee-a667-04af-e22c-3a5b5bbc5c3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertFormula Method (Word)
+# Selection.InsertFormula method (Word)
 
 Inserts an = (Formula) field that contains a formula at the selection.
 
 
 ## Syntax
 
- _expression_. `Formula`( `_Formula_` , `_NumberFormat_` )
+_expression_.**Formula** (_Formula_, _NumberFormat_)
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -83,3 +82,4 @@ Selection.InsertFormula Formula:= "=GrossSales-45,000.00", _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

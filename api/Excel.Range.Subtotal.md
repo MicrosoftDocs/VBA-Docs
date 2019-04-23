@@ -1,5 +1,5 @@
 ---
-title: Range.Subtotal Method (Excel)
+title: Range.Subtotal method (Excel)
 keywords: vbaxl10.chm144206
 f1_keywords:
 - vbaxl10.chm144206
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Subtotal
 ms.assetid: b4b7b640-5a6c-8c94-d9ab-c9a557190829
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Subtotal Method (Excel)
+# Range.Subtotal method (Excel)
 
 Creates subtotals for the range (or the current region, if the range is a single cell).
 
 
 ## Syntax
 
- _expression_. `Subtotal`( `_GroupBy_` , `_Function_` , `_TotalList_` , `_Replace_` , `_PageBreaks_` , `_SummaryBelowData_` )
+_expression_. `Subtotal`( `_GroupBy_` , `_Function_` , `_TotalList_` , `_Replace_` , `_PageBreaks_` , `_SummaryBelowData_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -30,11 +31,11 @@ Creates subtotals for the range (or the current region, if the range is a single
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GroupBy_|Required| **Long**|The field to group by, as a one-based integer offset. For more information, see the example.|
-| _Function_|Required| **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**|. The subtotal function.|
+| _Function_|Required| **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**| The subtotal function.|
 | _TotalList_|Required| **Variant**|An array of 1-based field offsets, indicating the fields to which the subtotals are added. For more information, see the example.|
-| _Replace_|Optional| **Variant**| **True** to replace existing subtotals. The default value is **True** .|
-| _PageBreaks_|Optional| **Variant**| **True** to add page breaks after each group. The default value is **False** .|
-| _SummaryBelowData_|Optional| **[XlSummaryRow](Excel.XlSummaryRow.md)**|. Places the summary data relative to the subtotal.|
+| _Replace_|Optional| **Variant**| **True** to replace existing subtotals. The default value is **True**.|
+| _PageBreaks_|Optional| **Variant**| **True** to add page breaks after each group. The default value is **False**.|
+| _SummaryBelowData_|Optional| **[XlSummaryRow](Excel.XlSummaryRow.md)**| Places the summary data relative to the subtotal.|
 
 ## Return value
 
@@ -58,3 +59,4 @@ Selection.Subtotal GroupBy:=1, Function:=xlSum, _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: c7d1ac62-3c11-040a-d0f2-1f3e04c89f15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form
+# Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form
 
 The following example defines the  **Cycle** property for a **[Frame](../../../api/Outlook.frame.md)** and two **[Page](../../../api/Outlook.page.md)** objects in a **[MultiPage](../../../api/Outlook.multipage.md)**.
 
@@ -54,4 +55,4 @@ Sub CommandButton2_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

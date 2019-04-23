@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a23a1fd7-2995-cab0-0be2-74cd84a3a98a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Not all language settings are portable. This warning has the following cause and
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

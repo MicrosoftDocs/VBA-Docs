@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.AddIns.Item
 ms.assetid: 417987d5-322c-2784-c51e-18a1fa7578d1
-ms.date: 06/08/2017
+ms.date: 04/03/2019
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,12 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [AddIns](Excel.AddIns.md) object.
+_expression_ A variable that represents an **[AddIns](Excel.AddIns.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,8 +32,7 @@ Returns a single object from a collection.
 
 ## Example
 
-This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the  **AddIns** method is the **Title** property of the **AddIn** object.
-
+This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the **AddIns** method is the **Title** property of the **AddIn** object.
 
 ```vb
 If ThisWorkbook.Application.AddIns.Item("Analysis ToolPak").Installed = True Then 
@@ -45,8 +43,6 @@ End If
 ```
 
 
-## See also
 
 
-[AddIns Collection](Excel.AddIns.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

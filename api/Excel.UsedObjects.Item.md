@@ -8,6 +8,7 @@ api_name:
 - Excel.UsedObjects.Item
 ms.assetid: 1a1c36df-ef2e-6f0f-119c-b3f9e09acbb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [UsedObjects](./Excel.UsedObjects.md) object.
+_expression_ A variable that represents an [UsedObjects](Excel.UsedObjects.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a single object from a collection.
 
 [UsedObjects Object](Excel.UsedObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderVertical Property (Word)
+title: DataTable.HasBorderVertical property (Word)
 keywords: vbawd10.chm46399492
 f1_keywords:
 - vbawd10.chm46399492
@@ -8,17 +8,18 @@ api_name:
 - Word.DataTable.HasBorderVertical
 ms.assetid: cc104c8c-73b2-00a1-2ea9-641215560637
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable.HasBorderVertical Property (Word)
+# DataTable.HasBorderVertical property (Word)
 
- **True** if the chart data table has vertical cell borders. Read/write **Boolean** .
+ **True** if the chart data table has vertical cell borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderVertical`
+_expression_. `HasBorderVertical`
 
  _expression_ A variable that represents a '[DataTable](Word.DataTable.md)' object.
 
@@ -49,3 +50,4 @@ End With
 
 [DataTable Object](Word.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

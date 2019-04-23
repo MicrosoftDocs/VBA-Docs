@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DataFields
 ms.assetid: 32f9f635-c247-ad1b-6bb8-6eef4f03dc67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 ## Syntax
 
- _expression_. `DataFields`( `_Index_` )
+_expression_. `DataFields` (_Index_)
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Next pvtField
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

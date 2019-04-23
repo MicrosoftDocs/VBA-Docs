@@ -1,5 +1,5 @@
 ---
-title: Selection.TopLevelTables Property (Word)
+title: Selection.TopLevelTables property (Word)
 keywords: vbawd10.chm158663662
 f1_keywords:
 - vbawd10.chm158663662
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.TopLevelTables
 ms.assetid: 7ab1b2a3-85a8-8892-53b9-dc85ff747078
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.TopLevelTables Property (Word)
+# Selection.TopLevelTables property (Word)
 
 Returns a  **[Tables](Word.tables.md)** collection that represents the tables at the outermost nesting level in the current selection. Read-only.
 
 
 ## Syntax
 
- _expression_. `TopLevelTables`
+_expression_. `TopLevelTables`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -62,3 +63,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

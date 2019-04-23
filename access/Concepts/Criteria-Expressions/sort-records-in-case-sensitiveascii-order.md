@@ -3,6 +3,7 @@ title: Sort records in case-sensitive (ASCII) order
 ms.prod: access
 ms.assetid: 92c74803-2ff3-82b3-ca20-8bef5bfd6004
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -65,5 +66,5 @@ The preceding user-defined function, StrToHex, can be called from a query. When 
 5. In the **Sort** cell, select **Ascending** or **Descending**. If you choose ascending order, values beginning with uppercase letters will appear before those that begin with lowercase letters. Applying a descending-order sort does the opposite.
     
 6. Switch to Datasheet view. Access displays the records, sorted in case-sensitive order.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

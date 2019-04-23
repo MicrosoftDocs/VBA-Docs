@@ -1,5 +1,5 @@
 ---
-title: Rectangle.RectangleType Property (Word)
+title: Rectangle.RectangleType property (Word)
 keywords: vbawd10.chm234029058
 f1_keywords:
 - vbawd10.chm234029058
@@ -8,19 +8,20 @@ api_name:
 - Word.Rectangle.RectangleType
 ms.assetid: 0d483c0d-5a97-7f68-d7fa-7458063b6643
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rectangle.RectangleType Property (Word)
+# Rectangle.RectangleType property (Word)
 
 Returns a  **WdRectangleType** constant that represents the type for the specified rectangle.
 
 
 ## Syntax
 
- _expression_. `RectangleType`
+_expression_. `RectangleType`
 
- _expression_ Required. A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
+_expression_ Required. A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End If
 
 [Rectangle Object](Word.Rectangle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

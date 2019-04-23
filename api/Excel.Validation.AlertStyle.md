@@ -8,19 +8,20 @@ api_name:
 - Excel.Validation.AlertStyle
 ms.assetid: de844f58-be45-c4a6-af49-67f669abb626
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Validation.AlertStyle property (Excel)
 
-Returns the validation alert style. Read-only  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** .
+Returns the validation alert style. Read-only  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)**.
 
 
 ## Syntax
 
- _expression_. `AlertStyle`
+_expression_. `AlertStyle`
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ MsgBox Range("e5").Validation.AlertStyle
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

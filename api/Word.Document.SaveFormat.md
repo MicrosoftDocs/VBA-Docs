@@ -1,5 +1,5 @@
 ---
-title: Document.SaveFormat Property (Word)
+title: Document.SaveFormat property (Word)
 keywords: vbawd10.chm158007355
 f1_keywords:
 - vbawd10.chm158007355
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SaveFormat
 ms.assetid: f8d31365-1935-307f-3663-d6e769944489
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SaveFormat Property (Word)
+# Document.SaveFormat property (Word)
 
-Returns the file format of the specified document or file converter. Read-only  **Long** .
+Returns the file format of the specified document or file converter. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `SaveFormat`
+_expression_. `SaveFormat`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: View Object (Publisher)
+title: View object (Publisher)
 keywords: vbapb10.chm393215
 f1_keywords:
 - vbapb10.chm393215
@@ -8,10 +8,11 @@ api_name:
 - Publisher.View
 ms.assetid: a865cf48-cd68-5789-6855-c09c05b7634b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View Object (Publisher)
+# View object (Publisher)
 
 Contains the view attributes (show all, field shading, table gridlines, and so on) for a window or pane.
  
@@ -68,7 +69,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ScrollShapeIntoView](Publisher.View.ScrollShapeIntoView.md)|
 |[ZoomIn](Publisher.View.ZoomIn.md)|
@@ -78,10 +79,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActivePage](Publisher.View.ActivePage.md)|
 |[Application](Publisher.View.Application.md)|
 |[Parent](Publisher.View.Parent.md)|
 |[Zoom](Publisher.View.Zoom.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

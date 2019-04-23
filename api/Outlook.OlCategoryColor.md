@@ -1,5 +1,5 @@
 ---
-title: OlCategoryColor Enumeration (Outlook)
+title: OlCategoryColor enumeration (Outlook)
 keywords: vbaol11.chm3119
 f1_keywords:
 - vbaol11.chm3119
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlCategoryColor
 ms.assetid: 048bbc6b-c49f-68a3-ac59-b61204e5ef78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlCategoryColor Enumeration (Outlook)
+# OlCategoryColor enumeration (Outlook)
 
 Indicates the color that is specified for a category or a font in a view.
 
@@ -48,8 +49,8 @@ Indicates the color that is specified for a category or a font in a view.
 
 ## Remarks
 
-Used by the [Color](Outlook.Category.Color.md) property of the [Category Object (Outlook)](Outlook.Category.md), and the [ExtendedColor](Outlook.ViewFont.ExtendedColor.md) property of the [ViewFont Object (Outlook)](Outlook.ViewFont.md).
+Used by the [Color](Outlook.Category.Color.md) property of the [Category object (Outlook)](Outlook.Category.md), and the [ExtendedColor](Outlook.ViewFont.ExtendedColor.md) property of the [ViewFont object (Outlook)](Outlook.ViewFont.md).
 
 The color constants provided here are approximations of the actual colors used by the  **Category** object. Use the [CategoryBorderColor](Outlook.Category.CategoryBorderColor.md), [CategoryGradientBottomColor](Outlook.Category.CategoryGradientBottomColor.md), and [CategoryGradientTopColor](Outlook.Category.CategoryGradientTopColor.md) properties to retrieve the **OLE_COLOR** color values that are used to represent the **Category** object, after setting the **Color** property to the appropriate constant.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

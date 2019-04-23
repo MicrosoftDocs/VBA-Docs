@@ -1,5 +1,5 @@
 ---
-title: OlkCheckBox.AfterUpdate Event (Outlook)
+title: OlkCheckBox.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000160
 f1_keywords:
 - vbaol11.chm1000160
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCheckBox.AfterUpdate
 ms.assetid: a207e36b-9afe-b7e3-9dd4-9af2ae16cf7d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCheckBox.AfterUpdate Event (Outlook)
+# OlkCheckBox.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
- _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Occurs after the data in the control has been changed through the user interface
 
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

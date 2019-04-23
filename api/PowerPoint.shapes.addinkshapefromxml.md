@@ -1,19 +1,20 @@
 ---
-title: Shapes.AddInkShapeFromXML Method (PowerPoint)
+title: Shapes.AddInkShapeFromXML method (PowerPoint)
 ms.assetid: 88a395ac-b11e-d42e-f4b4-b41bf1d1347e
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Shapes.AddInkShapeFromXML Method (PowerPoint)
+# Shapes.AddInkShapeFromXML method (PowerPoint)
 
 Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represents the new ink shape.
 
 
 ## Syntax
 
- _expression_. `AddInkShapeFromXML`( _InkXML_,  _InkXML_,  _Left_,  _Top_,  _Width_,  _Height_)
+_expression_. `AddInkShapeFromXML`( _InkXML_,  _InkXML_,  _Left_,  _Top_,  _Width_,  _Height_)
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -41,3 +42,4 @@ A [Shape](PowerPoint.Shape.md) object that represents the newly-added ink shape.
 [Shape](PowerPoint.Shape.md)
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

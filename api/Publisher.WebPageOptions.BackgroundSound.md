@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.BackgroundSound Property (Publisher)
+title: WebPageOptions.BackgroundSound property (Publisher)
 keywords: vbapb10.chm544774
 f1_keywords:
 - vbapb10.chm544774
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebPageOptions.BackgroundSound
 ms.assetid: c6be30e0-28ea-e269-c546-48e0eb284ac4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebPageOptions.BackgroundSound Property (Publisher)
+# WebPageOptions.BackgroundSound property (Publisher)
 
 Returns or sets a  **String** that specifies the path to a sound file that is played when the Web page is loaded in a Web browser. Read/write.
 
 
 ## Syntax
 
- _expression_. **BackgroundSound**
+_expression_.**BackgroundSound**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 
@@ -61,4 +62,4 @@ With theWPO
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4b0a36d4-b859-4e45-add5-8db3a2562361
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LegendKey.MarkerSize Property (PowerPoint)](http://msdn.microsoft.com/library/712765a9-5a9a-5712-fc12-e1a477d1080c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

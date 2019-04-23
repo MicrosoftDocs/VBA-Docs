@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Text Property (PowerPoint)
+title: AxisTitle.Text property (PowerPoint)
 keywords: vbapp10.chm683008
 f1_keywords:
 - vbapp10.chm683008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AxisTitle.Text
 ms.assetid: c498054e-1b96-66c2-e4c3-d06c72935552
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.Text Property (PowerPoint)
+# AxisTitle.Text property (PowerPoint)
 
 Returns or sets the text for the specified object. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
- _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)' object.
+_expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)' object.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Field.Result Property (Publisher)
+title: Field.Result property (Publisher)
 keywords: vbapb10.chm6094855
 f1_keywords:
 - vbapb10.chm6094855
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Field.Result
 ms.assetid: 213e123e-90a7-32b8-1dcf-37da61a8a7e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Result Property (Publisher)
+# Field.Result property (Publisher)
 
 Returns a  **String** that represents the result of the specified field. Read-only.
 
 
 ## Syntax
 
- _expression_. **Result**
+_expression_.**Result**
 
  _expression_ A variable that represents a  **Field** object.
 
@@ -42,4 +43,4 @@ Sub GetFieldResults()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

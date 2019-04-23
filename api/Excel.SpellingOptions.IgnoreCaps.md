@@ -8,19 +8,20 @@ api_name:
 - Excel.SpellingOptions.IgnoreCaps
 ms.assetid: 185b79d8-9c46-3b17-d2ee-e2544e2dce22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SpellingOptions.IgnoreCaps property (Excel)
 
- **False** instructs Microsoft Excel to check for uppercase words, **True** instructs Excel to ignore words in uppercase when using the spelling checker. Read/write **Boolean** .
+ **False** instructs Microsoft Excel to check for uppercase words, **True** instructs Excel to ignore words in uppercase when using the spelling checker. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IgnoreCaps`
+_expression_. `IgnoreCaps`
 
- _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

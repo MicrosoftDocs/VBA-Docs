@@ -1,5 +1,5 @@
 ---
-title: Range.Previous Method (Word)
+title: Range.Previous method (Word)
 keywords: vbawd10.chm157155434
 f1_keywords:
 - vbawd10.chm157155434
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Previous
 ms.assetid: ee1135ec-6f88-ec52-c3cc-0fb8183ac4cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Previous Method (Word)
+# Range.Previous method (Word)
 
 Returns the previous range a relative to the specified range.
 
 
 ## Syntax
 
- _expression_. `Previous`( `_Unit_` , `_Count_` )
+_expression_.**Previous** (_Unit_, _Count_)
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ ActiveDocument.Words(2) _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

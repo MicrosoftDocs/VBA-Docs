@@ -1,21 +1,22 @@
 ---
-title: Task.LinkSuccessors Method (Project)
+title: Task.LinkSuccessors method (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.LinkSuccessors
 ms.assetid: 397fff8c-3ff3-4725-2938-fdaecddf624b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.LinkSuccessors Method (Project)
+# Task.LinkSuccessors method (Project)
 
 Adds one or more successors to the task.
 
 
 ## Syntax
 
- _expression_. `LinkSuccessors`( ` _Tasks_`, ` _Link_`, ` _Lag_` )
+_expression_. `LinkSuccessors`( `_Tasks_`, `_Link_`, `_Lag_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -42,7 +43,7 @@ The following example create two tasks and links the second task as successor to
 
 ```vb
 Sub Link_Successors() 
-    Dim SucessorTask As Task 
+    Dim SuccessorTask As Task 
     Dim PredecessorTask As Task 
  
     'Activate Task Sheet view 
@@ -59,14 +60,14 @@ Sub Link_Successors()
  
     'link them 
     Set PredecessorTask = ActiveProject.Tasks("TestTask-1") 
-    Set SucessorTask = ActiveProject.Tasks("TestTask-2") 
+    Set SuccessorTask = ActiveProject.Tasks("TestTask-2") 
  
-    PredecessorTask.LinkSuccessors Tasks:=SucessorTask, Link:=pjFinishToStart 
+    PredecessorTask.LinkSuccessors Tasks:=SuccessorTask, Link:=pjFinishToStart 
  
     'delete the tasks 
     PredecessorTask.Delete 
-    SucessorTask.Delete 
+    SuccessorTask.Delete 
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

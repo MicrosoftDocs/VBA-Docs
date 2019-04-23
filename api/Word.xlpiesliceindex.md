@@ -1,12 +1,13 @@
 ---
-title: xlPieSliceIndex Enumeration (Word)
+title: XlPieSliceIndex enumeration (Word)
 ms.prod: word
 ms.assetid: 3745028d-34b0-eaff-4437-d5df00b5ce52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPieSliceIndex Enumeration (Word)
+# XlPieSliceIndex enumeration (Word)
 
 Specifies which position on the slice to return the coordinate of.
 
@@ -24,3 +25,4 @@ Specifies which position on the slice to return the coordinate of.
 | **xlOuterClockwisePoint**|3|The outermost clockwise point of the circumference of a slice.|
 | **xlOuterCounterClockwisePoint**|1|The outermost counterclockwise point of the circumference of a slice.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

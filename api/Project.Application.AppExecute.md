@@ -1,5 +1,5 @@
 ---
-title: Application.AppExecute Method (Project)
+title: Application.AppExecute method (Project)
 keywords: vbapj.chm8
 f1_keywords:
 - vbapj.chm8
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.AppExecute
 ms.assetid: af263a18-9b88-e6c2-d44c-a2ac41951624
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AppExecute Method (Project)
+# Application.AppExecute method (Project)
 
 Starts an application.
 
 
 ## Syntax
 
- _expression_. `AppExecute`( ` _Window_`, ` _Command_`, ` _Minimize_`, ` _Activate_` )
+_expression_. `AppExecute`( `_Window_`, `_Command_`, `_Minimize_`, `_Activate_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub StartMicrosoftExcel()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Creator Property (Word)
+title: Rectangle.Creator property (Word)
 keywords: vbawd10.chm234030057
 f1_keywords:
 - vbawd10.chm234030057
@@ -8,19 +8,20 @@ api_name:
 - Word.Rectangle.Creator
 ms.assetid: 7e98193d-e9a5-ab8a-93f4-d2703e93d118
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rectangle.Creator Property (Word)
+# Rectangle.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
+_expression_ Required. A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Rectangle Object](Word.Rectangle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

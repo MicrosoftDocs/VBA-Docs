@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.RefreshName
 ms.assetid: 488d5e0c-61f9-0c85-ac1b-16dc98360bb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.RefreshName property (Excel)
 
-Returns the name of the person who last refreshed the PivotTable report data. Read-only  **String** .
+Returns the name of the person who last refreshed the PivotTable report data. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `RefreshName`
+_expression_. `RefreshName`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ MsgBox "The data was last refreshed by " & pvtTable.RefreshName
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

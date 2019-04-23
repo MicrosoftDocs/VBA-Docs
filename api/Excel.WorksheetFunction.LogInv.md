@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LogInv Method (Excel)
+title: WorksheetFunction.LogInv method (Excel)
 keywords: vbaxl10.chm137195
 f1_keywords:
 - vbaxl10.chm137195
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.LogInv
 ms.assetid: 414a4e30-1225-279b-2981-bbb798338b18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.LogInv Method (Excel)
+# WorksheetFunction.LogInv method (Excel)
 
 Use the lognormal distribution to analyze logarithmically transformed data.
 
@@ -21,9 +22,9 @@ Use the lognormal distribution to analyze logarithmically transformed data.
 
 ## Syntax
 
- _expression_. `LogInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `LogInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

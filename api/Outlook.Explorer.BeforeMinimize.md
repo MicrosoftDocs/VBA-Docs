@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMinimize Event (Outlook)
+title: Explorer.BeforeMinimize event (Outlook)
 keywords: vbaol11.chm458
 f1_keywords:
 - vbaol11.chm458
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeMinimize
 ms.assetid: 999b2bc3-99de-6dc8-81a2-dd25c8bc71c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMinimize Event (Outlook)
+# Explorer.BeforeMinimize event (Outlook)
 
 Occurs when the active explorer is minimized by the user.
 
 
 ## Syntax
 
- _expression_. `BeforeMinimize`( `_Cancel_` )
+_expression_. `BeforeMinimize`( `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when the active explorer is minimized by the user.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the explorer is not minimized.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the explorer is not minimized.|
 
 ## Remarks
 
@@ -46,7 +47,7 @@ Public WithEvents myOlExp As Outlook.Explorer
  
  
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
  
  Set myOlExp = Application.ActiveExplorer 
  
@@ -85,3 +86,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

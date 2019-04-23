@@ -7,41 +7,38 @@ ms.prod: access
 api_name:
 - Access.TabControl.GridlineStyleBottom
 ms.assetid: 06c42eb1-5123-24a0-2b39-59371b0b23bf
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # TabControl.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified list box. Read/write  **Byte**.
-
+Gets or sets the bottom gridline style of the specified control. Read/write **Byte**.
 
 ## Syntax
 
-_expression_. `GridlineStyleBottom`
+_expression_.**GridlineStyleBottom**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks
 
-The  **BottomGridlineStyle** property uses the following settings.
+The **GridlineStyleBottom** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[TabControl Object](Access.TabControl.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
 

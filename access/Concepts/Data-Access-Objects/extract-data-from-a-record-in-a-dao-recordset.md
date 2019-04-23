@@ -3,6 +3,7 @@ title: Extract data from a record in a DAO Recordset
 ms.prod: access
 ms.assetid: cd0d8c73-c9a7-3565-514d-6b379ac2d690
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -100,4 +101,4 @@ For example, if the fifth record cannot be retrieved in a group of 10 records th
 
 Because the **GetRows** method always returns all the fields in the **Recordset** object, you may want to create a query that returns just the fields that you need. This is especially important for OLE Object and Memo fields.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

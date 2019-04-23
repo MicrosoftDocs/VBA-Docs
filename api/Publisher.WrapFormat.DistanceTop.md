@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceTop Property (Publisher)
+title: WrapFormat.DistanceTop property (Publisher)
 keywords: vbapb10.chm786438
 f1_keywords:
 - vbapb10.chm786438
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WrapFormat.DistanceTop
 ms.assetid: 5d6f99f7-c02d-4153-077d-b8d15d246c86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceTop Property (Publisher)
+# WrapFormat.DistanceTop property (Publisher)
 
 When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the top edge of the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **DistanceTop**
+_expression_.**DistanceTop**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 
@@ -47,4 +48,4 @@ Sub AddNewShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

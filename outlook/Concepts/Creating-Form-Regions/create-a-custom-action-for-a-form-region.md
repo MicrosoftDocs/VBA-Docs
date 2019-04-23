@@ -3,6 +3,7 @@ title: Create a Custom Action for a Form Region
 ms.prod: outlook
 ms.assetid: bf889270-3e80-a240-15e4-c57a3f1e7b9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -127,7 +128,7 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 > The child **addressLike** element of the **action** element can contain one of the following values:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |----|----|
 | **forward**|Addresses the resulting item like a forward message that has no recipients specified. This also preserves attachments in the current item.|
 | **reply**|Addresses the resulting item as a standard reply, with the sender specified in the **To** line, and no one in the **CC** or **BCC** lines.|
@@ -142,4 +143,4 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 - [To specify the way that Outlook responds when executing the action](specify-the-way-outlook-responds-when-executing-an-action.md)
 - [To specify the prefix value in the subject of the resulting item](specify-a-subject-prefix-of-an-item-resulting-from-an-action.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

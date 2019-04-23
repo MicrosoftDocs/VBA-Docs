@@ -8,19 +8,20 @@ api_name:
 - Excel.DataLabel.ShowLegendKey
 ms.assetid: 0857f78c-1c96-1887-e55e-4997dc22afb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataLabel.ShowLegendKey property (Excel)
 
- **True** if the data label legend key is visible. Read/write **Boolean** .
+ **True** if the data label legend key is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowLegendKey`
+_expression_. `ShowLegendKey`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

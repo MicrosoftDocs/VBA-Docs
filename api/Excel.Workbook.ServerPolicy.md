@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ServerPolicy
 ms.assetid: 188f6c47-35e3-bb69-cb8d-9d78b5b8fea5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **ServerPolicy** object that represents a policy specified for a work
 
 ## Syntax
 
- _expression_. `ServerPolicy`
+_expression_. `ServerPolicy`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **ServerPolicy** object that represents a policy specified for a work
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

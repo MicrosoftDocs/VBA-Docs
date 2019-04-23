@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ListFormulas Method (Excel)
+title: PivotTable.ListFormulas method (Excel)
 keywords: vbaxl10.chm235111
 f1_keywords:
 - vbaxl10.chm235111
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ListFormulas
 ms.assetid: 48e2ac3c-25c7-2e41-177a-97954569d3ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.ListFormulas Method (Excel)
+# PivotTable.ListFormulas method (Excel)
 
 Creates a list of calculated PivotTable items and fields on a separate worksheet.
 
 
 ## Syntax
 
- _expression_. `ListFormulas`
+_expression_. `ListFormulas`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets(1).PivotTables(1).ListFormulas
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Frameset.Creator Property (Word)
+title: Frameset.Creator property (Word)
 keywords: vbawd10.chm165807081
 f1_keywords:
 - vbawd10.chm165807081
@@ -8,19 +8,20 @@ api_name:
 - Word.Frameset.Creator
 ms.assetid: 4e3b74f6-f503-56ec-c9a9-0a38294e15e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frameset.Creator Property (Word)
+# Frameset.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

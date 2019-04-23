@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.OddFPrice Method (Excel)
+title: WorksheetFunction.OddFPrice method (Excel)
 keywords: vbaxl10.chm137338
 f1_keywords:
 - vbaxl10.chm137338
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.OddFPrice
 ms.assetid: 8aca5bbc-5641-de58-2de2-1af3a83af5bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.OddFPrice Method (Excel)
+# WorksheetFunction.OddFPrice method (Excel)
 
 Returns the price per $100 face value of a security having an odd (short or long) first period.
 
 
 ## Syntax
 
- _expression_. `OddFPrice`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` )
+_expression_. `OddFPrice`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -81,3 +82,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

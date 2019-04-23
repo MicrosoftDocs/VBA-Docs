@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9b62bae7-4add-4985-aeeb-f11a7a194a95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.BeforeClose Event (Project)](http://msdn.microsoft.com/library/53ee16f4-2a6f-a575-7feb-90d1b92b9b07%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

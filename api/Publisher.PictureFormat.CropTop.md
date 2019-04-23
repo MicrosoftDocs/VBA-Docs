@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropTop Property (Publisher)
+title: PictureFormat.CropTop property (Publisher)
 keywords: vbapb10.chm3604742
 f1_keywords:
 - vbapb10.chm3604742
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.CropTop
 ms.assetid: b235898d-addf-6a4c-5693-229431545e6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropTop Property (Publisher)
+# PictureFormat.CropTop property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the top edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. **CropTop**
+_expression_.**CropTop**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -79,4 +80,4 @@ shpCrop.PictureFormat.CropTop = sngPoints
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

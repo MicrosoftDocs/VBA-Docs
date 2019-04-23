@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Find Method (Excel)
+title: WorksheetFunction.Find method (Excel)
 keywords: vbaxl10.chm137129
 f1_keywords:
 - vbaxl10.chm137129
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Find
 ms.assetid: 4e87760e-ffc9-39a0-a072-a077ce1ef54b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Find Method (Excel)
+# WorksheetFunction.Find method (Excel)
 
 Finds specific information in a worksheet.
 
 
 ## Syntax
 
- _expression_. `Find`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Find`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

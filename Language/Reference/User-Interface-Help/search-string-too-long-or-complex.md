@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e7d6838c-bd5f-8fb0-039f-2c43cfadb637
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Visual Basic pattern-matching capabilities aren't unlimited. This error has the 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

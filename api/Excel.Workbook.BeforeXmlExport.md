@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeXmlExport Event (Excel)
+title: Workbook.BeforeXmlExport event (Excel)
 keywords: vbaxl10.chm503099
 f1_keywords:
 - vbaxl10.chm503099
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.BeforeXmlExport
 ms.assetid: ee2af5de-e52f-9434-aa7c-5dc9bb102d1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BeforeXmlExport Event (Excel)
+# Workbook.BeforeXmlExport event (Excel)
 
 Occurs before Microsoft Excel saves or exports XML data from the specified workbook.
 
 
 ## Syntax
 
- _expression_. `BeforeXmlExport`( `_Map_` , `_Url_` , `_Cancel_` )
+_expression_. `BeforeXmlExport`( `_Map_` , `_Url_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -42,4 +43,4 @@ Nothing
 
 This event will not occur when you are saving to the XML Spreadsheet file format.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

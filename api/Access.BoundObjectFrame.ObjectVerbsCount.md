@@ -7,25 +7,26 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ObjectVerbsCount
 ms.assetid: 518eff16-aef0-9e3e-2e03-af036117a152
-ms.date: 06/08/2017
+ms.date: 02/08/2019
+localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.ObjectVerbsCount property (Access)
 
-You can use the  **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
+You can use the **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `ObjectVerbsCount`
+_expression_.**ObjectVerbsCount** 
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **ObjectVerbsCount** property setting is a value that specifies the number of elements in the **ObjectVerbs** property array.
+The **ObjectVerbsCount** property setting is a value that specifies the number of elements in the **ObjectVerbs** property array.
 
 This property setting isn't available in Design view.
 
@@ -57,8 +58,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

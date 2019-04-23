@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleWidth Method (Word)
+title: Shape.ScaleWidth method (Word)
 keywords: vbawd10.chm161480724
 f1_keywords:
 - vbawd10.chm161480724
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.ScaleWidth
 ms.assetid: 4fabc0eb-6962-6e31-3bba-bacaa3cd3be4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleWidth Method (Word)
+# Shape.ScaleWidth method (Word)
 
 Scales the width of the shape by a specified factor.
 
 
 ## Syntax
 
- _expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_. `ScaleWidth`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Next
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

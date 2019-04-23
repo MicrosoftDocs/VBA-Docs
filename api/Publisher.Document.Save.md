@@ -1,5 +1,5 @@
 ---
-title: Document.Save Method (Publisher)
+title: Document.Save method (Publisher)
 keywords: vbapb10.chm196695
 f1_keywords:
 - vbapb10.chm196695
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Save
 ms.assetid: 89eae461-d1c2-b3ca-58b7-9528df8801d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Save Method (Publisher)
+# Document.Save method (Publisher)
 
 Saves the specified publication.
 
 
 ## Syntax
 
- _expression_. **Save**
+_expression_.**Save**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -39,4 +40,4 @@ This example saves the active publication if it has changed since it was last sa
 If ActiveDocument.Saved = False Then ActiveDocument.Save
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

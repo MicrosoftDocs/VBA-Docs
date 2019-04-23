@@ -1,5 +1,5 @@
 ---
-title: Table.AutoFitBehavior Method (Word)
+title: Table.AutoFitBehavior method (Word)
 keywords: vbawd10.chm156303380
 f1_keywords:
 - vbawd10.chm156303380
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.AutoFitBehavior
 ms.assetid: 74e162a5-cde0-bdd3-2ea6-f78fb0ecca5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.AutoFitBehavior Method (Word)
+# Table.AutoFitBehavior method (Word)
 
 Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 
 
 ## Syntax
 
- _expression_. `AutoFitBehavior`( `_Behavior_` )
+_expression_. `AutoFitBehavior`( `_Behavior_` )
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 
 Word can resize the table based on the content of the table cells or the width of the document window. You can also use this method to turn off AutoFit so that the table size is fixed, regardless of cell contents or window width.
 
-Setting the  **AutoFitBehavior** property to **wdAutoFitContent** or **wdAutoFitWindow** sets the **AllowAutoFit** property to **True** if it is currently **False** . Likewise, setting the **AutoFitBehavior** property to **wdAutoFitFixed** sets the **AllowAutoFit** property to **False** if it is currently **True** .
+Setting the  **AutoFitBehavior** property to **wdAutoFitContent** or **wdAutoFitWindow** sets the **AllowAutoFit** property to **True** if it is currently **False**. Likewise, setting the **AutoFitBehavior** property to **wdAutoFitFixed** sets the **AllowAutoFit** property to **False** if it is currently **True**.
 
 
 ## Example
@@ -54,3 +55,4 @@ ActiveDocument.Tables(1).AutoFitBehavior _
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

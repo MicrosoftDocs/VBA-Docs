@@ -8,6 +8,7 @@ api_name:
 - Excel.FileExportConverters.Item
 ms.assetid: 02df282d-70c2-bcae-bb68-78f07f41c8df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an individual  **[FileExportConverter](Excel.FileExportConverter.md)** o
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[FileExportConverters](Excel.FileExportConverters.md)' object.
+_expression_ A variable that represents a '[FileExportConverters](Excel.FileExportConverters.md)' object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ FileExportConverter
 
 [FileExportConverters Collection](Excel.FileExportConverters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

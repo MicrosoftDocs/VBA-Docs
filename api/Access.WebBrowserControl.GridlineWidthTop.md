@@ -7,35 +7,32 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineWidthTop
 ms.assetid: 561bca13-3f9b-950c-ef74-71d267cb47d1
-ms.date: 06/08/2017
+ms.date: 02/16/2019
+localization_priority: Normal
 ---
 
 
 # WebBrowserControl.GridlineWidthTop property (Access)
 
-Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
+Gets or sets the width of the top gridline for the specified control. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineWidthTop`
+_expression_.**GridlineWidthTop**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks
 
-The  **TopGridlineWidth** property uses the following settings.
+The **GridlineWidthTop** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0| Hairline. This is the narrowest border possible on your system.|
 |1 to 6|The width as indicated in points. The default setting is 1 point.|
 
-## See also
 
 
-[WebBrowserControl Object](Access.WebBrowserControl.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

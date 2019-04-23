@@ -1,5 +1,5 @@
 ---
-title: StyleSheets.Item Method (Word)
+title: StyleSheets.Item method (Word)
 keywords: vbawd10.chm209584128
 f1_keywords:
 - vbawd10.chm209584128
@@ -8,19 +8,20 @@ api_name:
 - Word.StyleSheets.Item
 ms.assetid: 1991f7c0-7598-831b-89ac-94182fd7a0f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StyleSheets.Item Method (Word)
+# StyleSheets.Item method (Word)
 
 Returns an individual  **StyleSheet** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
+_expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ StyleSheet
 
 [StyleSheets Collection](Word.StyleSheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

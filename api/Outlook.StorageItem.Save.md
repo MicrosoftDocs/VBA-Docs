@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Save Method (Outlook)
+title: StorageItem.Save method (Outlook)
 keywords: vbaol11.chm2144
 f1_keywords:
 - vbaol11.chm2144
@@ -8,19 +8,20 @@ api_name:
 - Outlook.StorageItem.Save
 ms.assetid: 9462a342-294a-175e-7e8f-d416f0959f69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StorageItem.Save Method (Outlook)
+# StorageItem.Save method (Outlook)
 
-Saves the  **[StorageItem](Outlook.StorageItem.md)** .
+Saves the  **[StorageItem](Outlook.StorageItem.md)**.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) object.
 
 
 ## Remarks
@@ -84,3 +85,4 @@ End Sub
 
 [StorageItem Object](Outlook.StorageItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 50ab6648-8476-8ebc-49ef-aaf1f5f90cf1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a property name and value without an equal sign (**=**) between them. The property isn't loaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

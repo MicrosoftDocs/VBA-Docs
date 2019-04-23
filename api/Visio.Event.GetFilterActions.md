@@ -1,5 +1,5 @@
 ---
-title: Event.GetFilterActions Method (Visio)
+title: Event.GetFilterActions method (Visio)
 keywords: vis_sdr.chm12660255
 f1_keywords:
 - vis_sdr.chm12660255
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.GetFilterActions
 ms.assetid: c74be758-280a-13a8-5462-b508bd3f50e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.GetFilterActions Method (Visio)
+# Event.GetFilterActions method (Visio)
 
 Returns an array of the filter actions set for the  **Event** object.
 
 
 ## Syntax
 
- _expression_. `GetFilterActions`
+_expression_. `GetFilterActions`
 
  _expression_ An expression that returns a [Event](./Visio.Event.md) object.
 
@@ -45,7 +46,7 @@ The filter actions that are returned in the first and second array elements of e
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFilterMouseMoveDragBegin**|1|Filter the  **DragBegin** extension of the **MouseMove** event.|
 | **visFilterMouseMoveDragDrop**|5|Filter the  **DragDrop** extension of the **MouseMove** event.|
@@ -56,4 +57,4 @@ The filter actions that are returned in the first and second array elements of e
 
 For more information about using event extensions to define filter actions, see the  **[SetFilterActions](Visio.Event.SetFilterActions.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

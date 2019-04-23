@@ -1,5 +1,5 @@
 ---
-title: Bookmark.End Property (Word)
+title: Bookmark.End property (Word)
 keywords: vbawd10.chm157810692
 f1_keywords:
 - vbawd10.chm157810692
@@ -8,17 +8,18 @@ api_name:
 - Word.Bookmark.End
 ms.assetid: 05531b0d-b05e-0010-9ff8-ba6d90de560d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmark.End Property (Word)
+# Bookmark.End property (Word)
 
-Returns or sets the ending character position of a selection, range, or bookmark. Read/write  **Long** .
+Returns or sets the ending character position of a selection, range, or bookmark. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
  _expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
@@ -47,3 +48,4 @@ If Book2.End > Book1.Start Then Book1.Select
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

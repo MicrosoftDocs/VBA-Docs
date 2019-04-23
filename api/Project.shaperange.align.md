@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.Align Method (Project)
+title: ShapeRange.Align method (Project)
 ms.prod: project-server
 ms.assetid: 6e8e3a02-efd8-995c-be1a-a89d7709bd08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Align Method (Project)
+# ShapeRange.Align method (Project)
 The  **Align** method is not implemented in Project.
 
 ## Syntax
 
- _expression_. `Align` _(AlignCmd,_ _RelativeTo)_
+_expression_. `Align` _(AlignCmd,_ _RelativeTo)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -32,3 +33,5 @@ If you try to use the  **Align** method, such as `sRange1.Align msoAlignMiddles,
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

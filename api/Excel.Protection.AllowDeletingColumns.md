@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowDeletingColumns
 ms.assetid: 602e0599-f444-0e81-9d9c-70f1f8093a29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowDeletingColumns property (Excel)
 
-Returns  **True** if the deletion of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the deletion of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowDeletingColumns`
+_expression_. `AllowDeletingColumns`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

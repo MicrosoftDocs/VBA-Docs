@@ -1,5 +1,5 @@
 ---
-title: NameSpace.CreateContactCard Method (Outlook)
+title: NameSpace.CreateContactCard method (Outlook)
 keywords: vbaol11.chm3536
 f1_keywords:
 - vbaol11.chm3536
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.CreateContactCard
 ms.assetid: d050e0e3-3c0d-bd01-f008-2628056625d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.CreateContactCard Method (Outlook)
+# NameSpace.CreateContactCard method (Outlook)
 
-Creates an instance of a  **[ContactCard](./Office.ContactCard.md)** object for the contact that is specified by the _AddressEntry_ parameter.
+Creates an instance of a  **[ContactCard](Office.ContactCard.md)** object for the contact that is specified by the _AddressEntry_ parameter.
 
 
 ## Syntax
 
- _expression_. `CreateContactCard`( `_Address_` )
+_expression_. `CreateContactCard`( `_Address_` )
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Parameters
@@ -104,3 +105,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

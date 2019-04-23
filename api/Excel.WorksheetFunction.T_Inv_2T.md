@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Inv_2T Method (Excel)
+title: WorksheetFunction.T_Inv_2T method (Excel)
 keywords: vbaxl10.chm137387
 f1_keywords:
 - vbaxl10.chm137387
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.T_Inv_2T
 ms.assetid: 5edc686a-e205-23a4-f4b8-4fabef3c9c49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.T_Inv_2T Method (Excel)
+# WorksheetFunction.T_Inv_2T method (Excel)
 
 Returns the t-value of the Student t-distribution as a function of the probability and the degrees of freedom.
 
 
 ## Syntax
 
- _expression_. `T_Inv_2T`( `_Arg1_` , `_Arg2_` )
+_expression_. `T_Inv_2T`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

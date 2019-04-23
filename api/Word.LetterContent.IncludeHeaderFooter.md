@@ -1,5 +1,5 @@
 ---
-title: LetterContent.IncludeHeaderFooter Property (Word)
+title: LetterContent.IncludeHeaderFooter property (Word)
 keywords: vbawd10.chm161546342
 f1_keywords:
 - vbawd10.chm161546342
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.IncludeHeaderFooter
 ms.assetid: 365fe58d-ef60-436e-a942-d43f12bafee8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.IncludeHeaderFooter Property (Word)
+# LetterContent.IncludeHeaderFooter property (Word)
 
- **True** if the header and footer from the page design template are included in a letter created by the Letter Wizard. Read/write **Boolean** . Use the **[PageDesign](Word.LetterContent.PageDesign.md)** property to set the name of the template attached to a document created by the Letter Wizard.
+ **True** if the header and footer from the page design template are included in a letter created by the Letter Wizard. Read/write **Boolean**. Use the **[PageDesign](Word.LetterContent.PageDesign.md)** property to set the name of the template attached to a document created by the Letter Wizard.
 
 
 ## Syntax
 
- _expression_. `IncludeHeaderFooter`
+_expression_. `IncludeHeaderFooter`
 
  _expression_ An expression that returns '[LetterContent](Word.LetterContent.md)' object.
 
@@ -48,3 +49,4 @@ Documents.Add.RunLetterWizard LetterContent:=lcNew
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

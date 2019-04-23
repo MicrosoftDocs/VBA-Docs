@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 40658e9e-cc82-4bfd-bc59-38de6514347b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Enabled property (Access)](http://msdn.microsoft.com/library/a13297e5-091c-7e83-78cd-fa67f5b81153%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

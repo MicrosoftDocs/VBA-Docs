@@ -1,5 +1,5 @@
 ---
-title: Shape.DeleteSection Method (Visio)
+title: Shape.DeleteSection method (Visio)
 keywords: vis_sdr.chm11216175
 f1_keywords:
 - vis_sdr.chm11216175
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.DeleteSection
 ms.assetid: e07981f3-5efe-f4ad-0517-1af4913c3f70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.DeleteSection Method (Visio)
+# Shape.DeleteSection method (Visio)
 
 Deletes a ShapeSheet section.
 
 
 ## Syntax
 
- _expression_. `DeleteSection`( `_Section_` )
+_expression_. `DeleteSection`( `_Section_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -44,7 +45,7 @@ If a Geometry section is deleted, any subsequent Geometry sections shift up beca
 
 You can delete any section except the section represented by  **visSectionObject** (although you can delete rows within that section).
 
-Section index values are declared in the Visio type library in  **[VisSectionIndices](Visio.vissectionindices.md)** .
+Section index values are declared in the Visio type library in  **[VisSectionIndices](Visio.vissectionindices.md)**.
 
 
 ## Example
@@ -79,4 +80,4 @@ Public Sub DeleteSection_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

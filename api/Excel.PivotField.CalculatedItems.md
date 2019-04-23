@@ -1,5 +1,5 @@
 ---
-title: PivotField.CalculatedItems Method (Excel)
+title: PivotField.CalculatedItems method (Excel)
 keywords: vbaxl10.chm240100
 f1_keywords:
 - vbaxl10.chm240100
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.CalculatedItems
 ms.assetid: 89818448-9a1e-0dcd-5e0f-479bf051d590
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotField.CalculatedItems Method (Excel)
+# PivotField.CalculatedItems method (Excel)
 
 Returns a  **[CalculatedItems](Excel.CalculatedItems.md)** collection that represents all the calculated items in the specified PivotTable report. Read-only.
 
 
 ## Syntax
 
- _expression_. `CalculatedItems`
+_expression_. `CalculatedItems`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Return value
@@ -55,3 +56,4 @@ Next
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

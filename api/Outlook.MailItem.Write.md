@@ -1,23 +1,24 @@
 ---
-title: MailItem.Write Event (Outlook)
+title: MailItem.Write event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.Write
 ms.assetid: b4c5fc80-e197-8d82-ebb0-148675ea7cdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Write Event (Outlook)
+# MailItem.Write event (Outlook)
 
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.MailItem.Save.md)** or **[SaveAs](Outlook.MailItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
 
- _expression_. `Write`( `_Cancel_` )
+_expression_. `Write`( `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -26,11 +27,11 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| (Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True** , the save operation is not completed.|
+| _Cancel_|Required| **Boolean**| (Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True**, the save operation is not completed.|
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the save operation is not completed.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the save operation is not completed.
 
 
 ## Example
@@ -61,7 +62,7 @@ End Sub
  
  
  
-Public Sub Initalize_Handler() 
+Public Sub Initialize_Handler() 
  
  Const strCancelEvent = "Application-defined or object-defined error" 
  
@@ -98,3 +99,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

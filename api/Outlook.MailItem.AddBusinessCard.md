@@ -1,5 +1,5 @@
 ---
-title: MailItem.AddBusinessCard Method (Outlook)
+title: MailItem.AddBusinessCard method (Outlook)
 keywords: vbaol11.chm1389
 f1_keywords:
 - vbaol11.chm1389
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.AddBusinessCard
 ms.assetid: a30d201b-3073-11c1-0f0c-81c7a3aba6e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.AddBusinessCard Method (Outlook)
+# MailItem.AddBusinessCard method (Outlook)
 
 Appends contact information based on the Electronic Business Card (EBC) associated with the specified  **[ContactItem](Outlook.ContactItem.md)** object to the **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## Syntax
 
- _expression_. `AddBusinessCard`( `_contact_` )
+_expression_. `AddBusinessCard`( `_contact_` )
 
- _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
+ _expression_ An expression that returns a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ This method adds contact information, generated from the information stored in t
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

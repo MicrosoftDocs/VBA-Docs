@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.GradientVariant
 ms.assetid: 00b43056-7d7e-4d5a-edb0-535062fda776
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the shade variant for the specified fill as an integer value from 1 thro
 
 ## Syntax
 
- _expression_. `GradientVariant`
+_expression_. `GradientVariant`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

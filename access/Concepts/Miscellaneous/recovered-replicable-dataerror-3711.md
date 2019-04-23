@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 23eb3cf5-529c-0666-a5d1-8fe1c7601512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ When a replica is recovered, any new records that existed in the corrupted repli
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

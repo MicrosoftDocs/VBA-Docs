@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.UpperHeadingLevel Property (Word)
+title: TableOfContents.UpperHeadingLevel property (Word)
 keywords: vbawd10.chm152240131
 f1_keywords:
 - vbawd10.chm152240131
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfContents.UpperHeadingLevel
 ms.assetid: 3b360b6b-a422-4af5-9121-200105b0ad19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfContents.UpperHeadingLevel Property (Word)
+# TableOfContents.UpperHeadingLevel property (Word)
 
-Returns or sets the starting heading level for a table of contents. Read/write  **Long** .
+Returns or sets the starting heading level for a table of contents. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `UpperHeadingLevel`
+_expression_. `UpperHeadingLevel`
 
- _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End If
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

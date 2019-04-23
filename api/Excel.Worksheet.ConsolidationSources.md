@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ConsolidationSources
 ms.assetid: d7868b1c-c9ae-97c5-a092-033fe52db5d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.ConsolidationSources property (Excel)
 
-Returns an array of string values that name the source sheets for the worksheet's current consolidation. Returns  **Empty** if there's no consolidation on the sheet. Read-only **Variant** .
+Returns an array of string values that name the source sheets for the worksheet's current consolidation. Returns  **Empty** if there's no consolidation on the sheet. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `ConsolidationSources`
+_expression_. `ConsolidationSources`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -48,3 +49,4 @@ newSheet.Columns("A:B").AutoFit
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

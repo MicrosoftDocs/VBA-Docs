@@ -1,5 +1,5 @@
 ---
-title: FillFormat.ForeColor Property (Publisher)
+title: FillFormat.ForeColor property (Publisher)
 keywords: vbapb10.chm2359553
 f1_keywords:
 - vbapb10.chm2359553
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.ForeColor
 ms.assetid: 39e7cf23-2ff8-69f3-8bf3-9051959c5418
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.ForeColor Property (Publisher)
+# FillFormat.ForeColor property (Publisher)
 
 Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax
 
- _expression_. **ForeColor**
+_expression_.**ForeColor**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -59,4 +60,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

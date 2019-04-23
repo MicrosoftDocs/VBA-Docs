@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.SelectSingleNode Method (Office)
+title: CustomXMLNode.SelectSingleNode method (Office)
 keywords: vbaof11.chm294029
 f1_keywords:
 - vbaof11.chm294029
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.SelectSingleNode
 ms.assetid: 630751f0-fe41-8f91-32d0-e266b3214cbf
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLNode.SelectSingleNode Method (Office)
+# CustomXMLNode.SelectSingleNode method (Office)
 
-Selects a single node from a collection matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectSingleNode** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
+Selects a single node from a collection matching an XPath expression. This method differs from the **[CustomXMLPart.SelectSingleNode](office.customxmlpart.selectsinglenode.md)** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
 
 
 ## Syntax
 
- _expression_. `SelectSingleNode`( `_XPath_` )
+_expression_.**SelectSingleNode**(_XPath_)
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,7 +37,7 @@ CustomXMLNode
 
 ## Remarks
 
-The prefix mappings for the XPath expression are retrieved from the  **NamespaceManager** property.
+The prefix mappings for the XPath expression are retrieved from the **[NamespaceManager](office.customxmlpart.namespacemanager.md)** property.
 
 
 ## Example
@@ -64,10 +63,6 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 ## See also
 
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)
 
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.AllocationValue
 ms.assetid: 932cfa66-3664-5e23-85b7-769ac710669e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns what value to allocate when performing what-if analysis. Read-only
 
 ## Syntax
 
- _expression_. `AllocationValue`
+_expression_. `AllocationValue`
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **AllocationValue** property corresponds to the **Value to Allocate** setti
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

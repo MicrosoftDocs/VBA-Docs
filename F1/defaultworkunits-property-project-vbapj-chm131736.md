@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e983108c-5d86-44d9-ac46-9ac879389ca6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayScheduleMessages Property (Project)](http://msdn.microsoft.com/library/a65e0a34-da09-c57d-d155-eecabcc24922%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

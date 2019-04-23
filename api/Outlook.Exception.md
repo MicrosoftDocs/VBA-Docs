@@ -1,5 +1,5 @@
 ---
-title: Exception Object (Outlook)
+title: Exception object (Outlook)
 keywords: vbaol11.chm296
 f1_keywords:
 - vbaol11.chm296
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Exception
 ms.assetid: 010552b0-9ba6-c81b-1e3a-fd6a681e5163
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exception Object (Outlook)
+# Exception object (Outlook)
 
 Represents information about one instance of an  **[AppointmentItem](Outlook.AppointmentItem.md)** object which is an exception to a recurring series.
 
@@ -70,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Exception.Application.md)|
 |[AppointmentItem](Outlook.Exception.AppointmentItem.md)|
@@ -83,4 +84,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

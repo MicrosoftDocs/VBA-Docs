@@ -1,5 +1,5 @@
 ---
-title: MediaFormat.ResampleFromProfile Method (PowerPoint)
+title: MediaFormat.ResampleFromProfile method (PowerPoint)
 keywords: vbapp10.chm724014
 f1_keywords:
 - vbapp10.chm724014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MediaFormat.ResampleFromProfile
 ms.assetid: f2d0ed29-82f1-e3f3-a4d9-e00a911176b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MediaFormat.ResampleFromProfile Method (PowerPoint)
+# MediaFormat.ResampleFromProfile method (PowerPoint)
 
 Adds the current media object to the queue and begins resampling base on the specified profile.
 
 
 ## Syntax
 
- _expression_. `ResampleFromProfile`( `_profile_` )
+_expression_. `ResampleFromProfile`( `_profile_` )
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
@@ -42,7 +43,7 @@ profile must be one of the following  **PpResampleMediaProfile** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ppResampleMediaProfileCustom**|1|Custom profile|
 |**ppResampleMediaProfileSmall**|2|Small profile|
@@ -54,3 +55,4 @@ profile must be one of the following  **PpResampleMediaProfile** constants.
 
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

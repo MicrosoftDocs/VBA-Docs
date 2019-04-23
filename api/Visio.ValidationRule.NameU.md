@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.NameU Property (Visio)
+title: ValidationRule.NameU property (Visio)
 keywords: vis_sdr.chm18451990
 f1_keywords:
 - vis_sdr.chm18451990
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRule.NameU
 ms.assetid: ed5f5ba3-5dcc-2d60-45d8-8198292f2aed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRule.NameU Property (Visio)
+# ValidationRule.NameU property (Visio)
 
 Specifies the universal name of the  **[ValidationRule](Visio.ValidationRule.md)** object. This is the default property of the object. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameU`
+_expression_. `NameU`
 
  _expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
 
@@ -41,4 +42,4 @@ You cannot set the  **NameU** property to a value that exceeds 255 characters or
 
 As a developer, you can use universal names in a program when you do not want to change a name each time a solution is localized. Use the  **[Name](Visio.ValidationRuleSet.Name.md)** property to get or set an object's local name. Use the **NameU** property to get or set its universal name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

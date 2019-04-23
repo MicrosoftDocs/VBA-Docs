@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplaceOrdinals Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplaceOrdinals property (Word)
 keywords: vbawd10.chm165347594
 f1_keywords:
 - vbawd10.chm165347594
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceOrdinals
 ms.assetid: c3f60ea8-1949-6247-98d1-d8d386507341
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplaceOrdinals Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplaceOrdinals property (Word)
 
- **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript as you type; for example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean** .
+ **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript as you type; for example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeReplaceOrdinals`
+_expression_. `AutoFormatAsYouTypeReplaceOrdinals`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeReplaceOrdinals
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

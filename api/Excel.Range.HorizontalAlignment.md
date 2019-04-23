@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.HorizontalAlignment
 ms.assetid: 6689de5b-60de-07db-d2b4-114f0a343ebc
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
@@ -17,14 +18,14 @@ Returns or sets a **Variant** value that represents the horizontal alignment for
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the **[XlHAlign](Excel.XlHAlign.md)** constants (**xlHAlignCenter**, **xlHAlignCenterAcrossSelection**, **xlHAlignDistributed**, **xlHAlignFill**, **xlHAlignGeneral**, **xlHAlignJustify**, **xlHAlignLeft**, or **xlHAlignRight**).
+The value of this property can be set to one of the **[XlHAlign](excel.xlhalign.md)** constants.
 
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
@@ -33,3 +34,4 @@ Some of these constants may not be available to you, depending on the language s
 
 - [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

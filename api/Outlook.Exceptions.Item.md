@@ -1,5 +1,5 @@
 ---
-title: Exceptions.Item Method (Outlook)
+title: Exceptions.Item method (Outlook)
 keywords: vbaol11.chm295
 f1_keywords:
 - vbaol11.chm295
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Exceptions.Item
 ms.assetid: c9d71000-8a83-299d-7607-ba35061eb120
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exceptions.Item Method (Outlook)
+# Exceptions.Item method (Outlook)
 
 Returns an  **[Exception](Outlook.Exception.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [Exceptions](./Outlook.Exceptions.md) object.
+_expression_ A variable that represents an [Exceptions](Outlook.Exceptions.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ An  **Exception** object that represents the specified object.
 
 [Exceptions Object](Outlook.Exceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

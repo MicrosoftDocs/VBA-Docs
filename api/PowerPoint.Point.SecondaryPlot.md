@@ -1,5 +1,5 @@
 ---
-title: Point.SecondaryPlot Property (PowerPoint)
+title: Point.SecondaryPlot property (PowerPoint)
 keywords: vbapp10.chm67198
 f1_keywords:
 - vbapp10.chm67198
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Point.SecondaryPlot
 ms.assetid: 37bba3d7-2bb7-fd46-eaf8-eb8b44aa071c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.SecondaryPlot Property (PowerPoint)
+# Point.SecondaryPlot property (PowerPoint)
 
  **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SecondaryPlot`
+_expression_. `SecondaryPlot`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
@@ -62,3 +63,4 @@ End With
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

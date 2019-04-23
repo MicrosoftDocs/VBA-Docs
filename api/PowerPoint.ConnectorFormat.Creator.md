@@ -1,23 +1,24 @@
 ---
-title: ConnectorFormat.Creator Property (PowerPoint)
+title: ConnectorFormat.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.Creator
 ms.assetid: bdd8ff41-033f-7721-ab13-ec769915d3a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.Creator Property (PowerPoint)
+# ConnectorFormat.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value
@@ -55,3 +56,4 @@ End If
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

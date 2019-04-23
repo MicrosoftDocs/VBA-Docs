@@ -1,21 +1,22 @@
 ---
-title: Resource.Initials Property (Project)
+title: Resource.Initials property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Initials
 ms.assetid: b74494c1-955d-2984-9c3c-4271d382deb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Initials Property (Project)
+# Resource.Initials property (Project)
 
 Gets or sets the initials of a resource. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Initials`
+_expression_. `Initials`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -55,4 +56,4 @@ Sub SetInitialsBasedOnName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

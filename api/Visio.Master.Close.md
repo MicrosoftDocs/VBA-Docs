@@ -1,5 +1,5 @@
 ---
-title: Master.Close Method (Visio)
+title: Master.Close method (Visio)
 keywords: vis_sdr.chm10716125
 f1_keywords:
 - vis_sdr.chm10716125
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Close
 ms.assetid: 69607a2c-dc59-d170-733a-3557a996a67e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Close Method (Visio)
+# Master.Close method (Visio)
 
 Closes a master.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -56,4 +57,4 @@ Public Sub Close_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

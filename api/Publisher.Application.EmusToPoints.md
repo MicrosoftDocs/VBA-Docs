@@ -1,5 +1,5 @@
 ---
-title: Application.EmusToPoints Method (Publisher)
+title: Application.EmusToPoints method (Publisher)
 keywords: vbapb10.chm131142
 f1_keywords:
 - vbapb10.chm131142
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.EmusToPoints
 ms.assetid: 941e5975-ca7a-38dc-8116-e90b2a2ab6e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EmusToPoints Method (Publisher)
+# Application.EmusToPoints method (Publisher)
 
 Converts a measurement from emus to points (12700 emus = 1 point). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **EmusToPoints**(**_Value_**)
+_expression_.**EmusToPoints**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -29,7 +30,7 @@ Converts a measurement from emus to points (12700 emus = 1 point). Returns the c
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|An expression that returns one of the objects in the Applies To list.|
+|Value|Required| **Single**|An expression that returns one of the objects in the **Applies To** list.|
 
 ## Return value
 
@@ -76,3 +77,4 @@ Loop
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0defd9d4-4775-c5dd-1212-951016efe997
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The  **For Each** construct can only be used with [collections](../../Glossary/v
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

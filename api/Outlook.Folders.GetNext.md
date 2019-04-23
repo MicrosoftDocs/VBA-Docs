@@ -1,5 +1,5 @@
 ---
-title: Folders.GetNext Method (Outlook)
+title: Folders.GetNext method (Outlook)
 keywords: vbaol11.chm49
 f1_keywords:
 - vbaol11.chm49
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folders.GetNext
 ms.assetid: 5c2de8b2-b251-1983-a10b-1945abc38709
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folders.GetNext Method (Outlook)
+# Folders.GetNext method (Outlook)
 
 Returns the next object in the  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
 
- _expression_. `GetNext`
+_expression_. `GetNext`
 
- _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ A  **[Folder](Outlook.Folder.md)** object that represents the next object contai
 
 ## Remarks
 
-It returns  **Nothing** if no next object exists, for example, if already positioned at the end of the collection.To ensure correct operation of the **[GetFirst](Outlook.Folders.GetFirst.md)** , **[GetLast](Outlook.Folders.GetLast.md)** , **GetNext** , and **[GetPrevious](Outlook.Folders.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+It returns  **Nothing** if no next object exists, for example, if already positioned at the end of the collection.To ensure correct operation of the **[GetFirst](Outlook.Folders.GetFirst.md)**, **[GetLast](Outlook.Folders.GetLast.md)**, **GetNext**, and **[GetPrevious](Outlook.Folders.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious**. To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## Example
@@ -84,3 +85,4 @@ End Sub
 
 [Folders Object](Outlook.Folders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

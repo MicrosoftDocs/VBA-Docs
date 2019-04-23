@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Select Method (Excel)
+title: Worksheets.Select method (Excel)
 keywords: vbaxl10.chm470083
 f1_keywords:
 - vbaxl10.chm470083
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheets.Select
 ms.assetid: f6c6c3df-d902-2a88-740b-00d2f5757fc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheets.Select Method (Excel)
+# Worksheets.Select method (Excel)
 
 Selects the object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_.**Select** (_Replace_)
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Selects the object.
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

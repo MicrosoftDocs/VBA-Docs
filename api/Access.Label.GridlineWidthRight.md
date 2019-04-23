@@ -8,34 +8,31 @@ api_name:
 - Access.Label.GridlineWidthRight
 ms.assetid: e3b39979-a9fd-7845-0ff7-3147761a1f70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Label.GridlineWidthRight property (Access)
 
-Gets or sets the width of the right gridline for the specified label. Read/write  **Byte**.
+Gets or sets the width of the right gridline for the specified label. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineWidthRight`
+_expression_.**GridlineWidthRight**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks
 
-The  **RightGridlineWidth** property uses the following settings.
+The **GridlineWidthRight** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0| Hairline. This is the narrowest border possible on your system.|
 |1 to 6|The width as indicated in points. The default setting is 1 point.|
 
-## See also
 
 
-[Label Object](Access.Label.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

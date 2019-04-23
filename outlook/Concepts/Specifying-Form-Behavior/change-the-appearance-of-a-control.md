@@ -3,6 +3,7 @@ title: Change the Appearance of a Control
 ms.prod: outlook
 ms.assetid: 3e88980a-3b48-0ee9-06a7-f30aaf66f27b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,8 +31,8 @@ For more information, see the following topics:
     
 -  [How to: Use a Custom Color for the Background or Foreground of a Control](use-a-custom-color-for-the-background-or-foreground-of-a-control.md)
     
--  [ How to: Set the Background Color of a Form](../Configuring-Forms/set-the-background-color-of-a-form.md)
+-  [How to: Set the Background Color of a Form](../Configuring-Forms/set-the-background-color-of-a-form.md)
     
 -  [How to: Make a Control Transparent](make-a-control-transparent.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

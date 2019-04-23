@@ -1,5 +1,5 @@
 ---
-title: Borders.HasVertical Property (Word)
+title: Borders.HasVertical property (Word)
 keywords: vbawd10.chm154927132
 f1_keywords:
 - vbawd10.chm154927132
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.HasVertical
 ms.assetid: dc99eb20-3bc3-2ee9-b6d6-f9a9c1b4e880
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.HasVertical Property (Word)
+# Borders.HasVertical property (Word)
 
- **True** if a vertical border can be applied to the specified object. Read-only **Boolean** .
+ **True** if a vertical border can be applied to the specified object. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasVertical`
+_expression_. `HasVertical`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

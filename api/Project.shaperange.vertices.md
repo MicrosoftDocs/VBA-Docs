@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.Vertices Property (Project)
+title: ShapeRange.Vertices property (Project)
 ms.prod: project-server
 ms.assetid: 5df31583-7e8a-2bc1-ed6b-719960fb7de1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Vertices Property (Project)
-Gets the coordinates of the vertices (and control points for a B?zier curve) as a series of coordinate pairs, for a shape range that contains a drawing. Read-only  **Variant**.
+# ShapeRange.Vertices property (Project)
+Gets the coordinates of the vertices (and control points for a Bézier curve) as a series of coordinate pairs, for a shape range that contains a drawing. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `Vertices`
+_expression_. `Vertices`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -42,3 +43,5 @@ For an array of vertices named  `vertArray`, the following table shows how the  
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

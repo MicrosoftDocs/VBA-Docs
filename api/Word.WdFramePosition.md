@@ -1,14 +1,15 @@
 ---
-title: WdFramePosition Enumeration (Word)
+title: WdFramePosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFramePosition
 ms.assetid: ff814d0e-0b15-b8e6-854e-a8f67a7568a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdFramePosition Enumeration (Word)
+# WdFramePosition enumeration (Word)
 
 Specifies the reference point against which the frame position is calculated.
 
@@ -24,3 +25,4 @@ Specifies the reference point against which the frame position is calculated.
 | **wdFrameRight**|-999996|Right margin.|
 | **wdFrameTop**|-999999|Top margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

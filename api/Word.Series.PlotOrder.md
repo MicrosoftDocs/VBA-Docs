@@ -1,5 +1,5 @@
 ---
-title: Series.PlotOrder Property (Word)
+title: Series.PlotOrder property (Word)
 keywords: vbawd10.chm123732196
 f1_keywords:
 - vbawd10.chm123732196
@@ -8,19 +8,20 @@ api_name:
 - Word.Series.PlotOrder
 ms.assetid: 8813c546-f5ed-774e-e57f-3adfcb6ac926
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.PlotOrder Property (Word)
+# Series.PlotOrder property (Word)
 
-Returns or sets the plot order for the selected series within the chart group. Read/write  **Long** .
+Returns or sets the plot order for the selected series within the chart group. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PlotOrder`
+_expression_. `PlotOrder`
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ Changing the plot order of one series will cause the plot orders of the other se
 
 ## Example
 
-The following example makes series two for the first chart in the active document appear third in the plot order. You should run the example on a 2-D column chart that contains three or more series.
+The following example makes series two for the first chart in the active document appear third in the plot order. You should run the example on a 2D column chart that contains three or more series.
 
 
 ```vb
@@ -49,3 +50,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

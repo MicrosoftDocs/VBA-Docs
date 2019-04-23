@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.InvokeHelp Method (Visio)
+title: InvisibleApp.InvokeHelp method (Visio)
 keywords: vis_sdr.chm17550695
 f1_keywords:
 - vis_sdr.chm17550695
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.InvokeHelp
 ms.assetid: e3860d89-8d07-22d8-664b-b12becd39d98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.InvokeHelp Method (Visio)
+# InvisibleApp.InvokeHelp method (Visio)
 
 Performs operations that involve the Microsoft Visio Help system.
 
 
 ## Syntax
 
- _expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
+_expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -55,4 +56,4 @@ Application.InvokeHelp "Visio.chm", 15, 0
 
 For more information about the HTML Help API, search for "HTML Help API overview" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

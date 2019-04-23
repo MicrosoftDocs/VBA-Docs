@@ -1,5 +1,5 @@
 ---
-title: Borders.HasHorizontal Property (Word)
+title: Borders.HasHorizontal property (Word)
 keywords: vbawd10.chm154927131
 f1_keywords:
 - vbawd10.chm154927131
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.HasHorizontal
 ms.assetid: 5a5863c8-8f0d-67f9-6e1f-2a4dd6b4fbc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.HasHorizontal Property (Word)
+# Borders.HasHorizontal property (Word)
 
- **True** if a horizontal border can be applied to the object. Read-only **Boolean** .
+ **True** if a horizontal border can be applied to the object. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasHorizontal`
+_expression_. `HasHorizontal`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

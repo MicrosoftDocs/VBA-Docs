@@ -1,5 +1,5 @@
 ---
-title: CellRange.Merge Method (Publisher)
+title: CellRange.Merge method (Publisher)
 keywords: vbapb10.chm5177352
 f1_keywords:
 - vbapb10.chm5177352
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CellRange.Merge
 ms.assetid: f097659c-d1b8-f2bb-c4fc-5efc2b7417dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellRange.Merge Method (Publisher)
+# CellRange.Merge method (Publisher)
 
 Merges the specified table cells with one another. The result is a single table cell.
 
 
 ## Syntax
 
- _expression_. **Merge**
+_expression_.**Merge**
 
  _expression_ A variable that represents a  **CellRange** object.
 
@@ -36,4 +37,4 @@ Sub MergeCells()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

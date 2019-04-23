@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.SchemeColor Property (Publisher)
+title: ColorFormat.SchemeColor property (Publisher)
 keywords: vbapb10.chm2555910
 f1_keywords:
 - vbapb10.chm2555910
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorFormat.SchemeColor
 ms.assetid: 8b02c85c-a976-7b10-c4ea-6f881d702b55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.SchemeColor Property (Publisher)
+# ColorFormat.SchemeColor property (Publisher)
 
 Specifies the color of the current color scheme. Read/write.
 
 
 ## Syntax
 
- _expression_. **SchemeColor**
+_expression_.**SchemeColor**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 
@@ -48,4 +49,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
 pbSchemeColorAccent5
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

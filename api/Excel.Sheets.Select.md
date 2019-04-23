@@ -1,5 +1,5 @@
 ---
-title: Sheets.Select Method (Excel)
+title: Sheets.Select method (Excel)
 keywords: vbaxl10.chm152083
 f1_keywords:
 - vbaxl10.chm152083
@@ -8,19 +8,20 @@ api_name:
 - Excel.Sheets.Select
 ms.assetid: f5a34995-2243-1588-149a-d693e9eae87f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sheets.Select Method (Excel)
+# Sheets.Select method (Excel)
 
 Selects the object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_.**Select** (_Replace_)
 
- _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
+_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Selects the object.
 
 [Sheets Object](Excel.Sheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Global.PointsToInches Method (Word)
+title: Global.PointsToInches method (Word)
 keywords: vbawd10.chm163119484
 f1_keywords:
 - vbawd10.chm163119484
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.PointsToInches
 ms.assetid: e3d6ab40-3919-55e0-5829-603fca24c226
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.PointsToInches Method (Word)
+# Global.PointsToInches method (Word)
 
-Converts a measurement from points to inches (1 inch = 72 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from points to inches (1 inch = 72 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `PointsToInches`( `_Points_` )
+_expression_. `PointsToInches`( `_Points_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -79,3 +80,4 @@ End Function
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

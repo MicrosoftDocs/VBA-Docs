@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Text Property (PowerPoint)
+title: DisplayUnitLabel.Text property (PowerPoint)
 keywords: vbapp10.chm699008
 f1_keywords:
 - vbapp10.chm699008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Text
 ms.assetid: 5870ac81-bb52-9af8-3b10-acb428ea8c58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Text Property (PowerPoint)
+# DisplayUnitLabel.Text property (PowerPoint)
 
 Returns or sets the text for the specified object. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
- _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the text for the specified object. Read/write  **String**.
 
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

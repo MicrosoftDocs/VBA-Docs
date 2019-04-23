@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks.Item Method (Publisher)
+title: WebNavigationBarHyperlinks.Item method (Publisher)
 keywords: vbapb10.chm8585216
 f1_keywords:
 - vbapb10.chm8585216
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Item
 ms.assetid: f5ba7ecf-1938-9fd7-ea18-e8fb0e94a661
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks.Item Method (Publisher)
+# WebNavigationBarHyperlinks.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
@@ -35,4 +36,4 @@ Returns an individual object in a specified collection.
 
 Hyperlink
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

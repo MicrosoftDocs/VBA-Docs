@@ -1,5 +1,5 @@
 ---
-title: Items.Add Method (Outlook)
+title: Items.Add method (Outlook)
 keywords: vbaol11.chm61
 f1_keywords:
 - vbaol11.chm61
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Items.Add
 ms.assetid: 0ee68068-1452-0f29-b85a-88b801ac0448
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.Add Method (Outlook)
+# Items.Add method (Outlook)
 
 Creates a new Outlook item in the  **[Items](Outlook.Items.md)** collection for the folder.
 
 
 ## Syntax
 
- _expression_. `Add` `_Type_`
+_expression_.**Add** `_Type_`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Creates a new Outlook item in the  **[Items](Outlook.Items.md)** collection for 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a  **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem** , **olContactItem** , **olJournalItem** , **olMailItem** , **olNoteItem** , **olPostItem** , or **olTaskItem,** , or any valid message class.|
+| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a  **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem**, **olContactItem**, **olJournalItem**, **olMailItem**, **olNoteItem**, **olPostItem**, or **olTaskItem,**, or any valid message class.|
 
 ## Return value
 
@@ -90,3 +91,4 @@ End Sub
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

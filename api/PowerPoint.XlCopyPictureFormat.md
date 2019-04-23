@@ -1,14 +1,15 @@
 ---
-title: xlCopyPictureFormat Enumeration (PowerPoint)
+title: XlCopyPictureFormat enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlCopyPictureFormat
 ms.assetid: a85812f6-0603-25a6-f511-985c9fa2c776
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCopyPictureFormat Enumeration (PowerPoint)
+# XlCopyPictureFormat enumeration (PowerPoint)
 
 Specifies the format of the picture being copied.
 
@@ -19,3 +20,4 @@ Specifies the format of the picture being copied.
 |**xlBitmap**|2|A bitmap (.bmp, .jpg, .gif).|
 |**xlPicture**|-4147|A drawn picture (.png, .wmf, .mix).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Encoding Property (Word)
+title: DefaultWebOptions.Encoding property (Word)
 keywords: vbawd10.chm165871629
 f1_keywords:
 - vbawd10.chm165871629
@@ -8,19 +8,20 @@ api_name:
 - Word.DefaultWebOptions.Encoding
 ms.assetid: 2876e36d-927d-c9aa-6df4-9f2995a3a3d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DefaultWebOptions.Encoding Property (Word)
+# DefaultWebOptions.Encoding property (Word)
 
-Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write  **MsoEncoding** .
+Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write  **MsoEncoding**.
 
 
 ## Syntax
 
- _expression_. `Encoding`
+_expression_. `Encoding`
 
- _expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
 
 
 ## Example
@@ -45,3 +46,4 @@ End If
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

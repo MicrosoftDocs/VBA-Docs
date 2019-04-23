@@ -1,5 +1,5 @@
 ---
-title: Toolbars.Count Property (Visio)
+title: Toolbars.Count property (Visio)
 keywords: vis_sdr.chm13813330
 f1_keywords:
 - vis_sdr.chm13813330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbars.Count
 ms.assetid: 7bfd1174-2b99-fc47-4070-d9fd725bf3d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbars.Count Property (Visio)
+# Toolbars.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Toolbars](./Visio.Toolbars.md) object.
 
@@ -27,4 +28,4 @@ Returns the number of objects in a collection. Read-only.
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

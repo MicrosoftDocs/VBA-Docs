@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTable.TextFileSemicolonDelimiter
 ms.assetid: 61a4ea08-aadd-6cf5-b810-448fe00b68f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.TextFileSemicolonDelimiter property (Excel)
 
- **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlDelimited** . The default value is **False** . Read/write **Boolean** .
+ **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlDelimited**. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TextFileSemicolonDelimiter`
+_expression_. `TextFileSemicolonDelimiter`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Use this property only when your query table is based on data from a text file (
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFileSemicolonDelimiter** property applies only to **QueryTable** objects.
 
@@ -57,3 +58,4 @@ End With
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

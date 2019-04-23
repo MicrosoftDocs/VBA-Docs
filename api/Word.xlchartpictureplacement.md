@@ -1,14 +1,15 @@
 ---
-title: xlChartPicturePlacement Enumeration (Word)
+title: XlChartPicturePlacement enumeration (Word)
 ms.prod: word
 ms.assetid: 2759ceb8-3a36-d7fd-016b-8b7f75586010
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlChartPicturePlacement Enumeration (Word)
+# XlChartPicturePlacement enumeration (Word)
 
-Specifies the placement of a user-selected picture on a bar in a 3-D bar or column.
+Specifies the placement of a user-selected picture on a bar in a 3D bar or column.
 
 
 
@@ -22,3 +23,4 @@ Specifies the placement of a user-selected picture on a bar in a 3-D bar or colu
 | **xlFrontSides**|5|Display on front and sides.|
 | **xlSides**|1|Display on sides.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Delete Method (Visio)
+title: GraphicItem.Delete method (Visio)
 keywords: vis_sdr.chm16951425
 f1_keywords:
 - vis_sdr.chm16951425
@@ -8,12 +8,13 @@ api_name:
 - Visio.GraphicItem.Delete
 ms.assetid: cd395089-594a-a021-0455-5bd7de9c3468
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem.Delete Method (Visio)
+# GraphicItem.Delete method (Visio)
 
-Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** .
+Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -21,7 +22,7 @@ Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Ma
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
@@ -66,4 +67,4 @@ Public Sub Delete_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

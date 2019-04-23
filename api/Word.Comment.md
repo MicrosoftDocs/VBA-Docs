@@ -1,5 +1,5 @@
 ---
-title: Comment Object (Word)
+title: Comment object (Word)
 keywords: vbawd10.chm2365
 f1_keywords:
 - vbawd10.chm2365
@@ -8,10 +8,11 @@ api_name:
 - Word.Comment
 ms.assetid: 0a2841f3-ca3c-8186-afab-f634ebd97d4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comment Object (Word)
+# Comment object (Word)
 
 Represents a single comment. The  **Comment** object is a member of the **[Comments](Word.comments.md)** collection. The **Comments** collection includes comments in a selection, range or document.
 
@@ -50,7 +51,7 @@ MsgBox ActiveDocument.Comments(1).Range.Text
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DeleteRecursively](Word.comment.deleterecursively.md)|
 |[Edit](Word.Comment.Edit.md)|
@@ -59,7 +60,7 @@ MsgBox ActiveDocument.Comments(1).Range.Text
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Ancestor](Word.comment.ancestor.md)|
 |[Application](Word.Comment.Application.md)|
@@ -78,4 +79,6 @@ MsgBox ActiveDocument.Comments(1).Range.Text
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

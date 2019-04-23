@@ -8,17 +8,18 @@ api_name:
 - Excel.DataLabels.ShowCategoryName
 ms.assetid: 37092a3b-a8fd-d731-7ca9-ce0d03295000
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataLabels.ShowCategoryName property (Excel)
 
- **True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean** .
+ **True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowCategoryName`
+_expression_. `ShowCategoryName`
 
  _expression_ An expression that returns a [DataLabels](Excel.DataLabels(object).md) object.
 
@@ -49,3 +50,4 @@ End Sub
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Access.AcRecord
 ms.assetid: 39ece328-d461-9f4d-a3af-205ed3228929
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which record to make the current record.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -26,3 +27,4 @@ Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which r
 |**acNext**|1|Make the next record the current record.|
 |**acPrevious**|0|Make the previous record the current record.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

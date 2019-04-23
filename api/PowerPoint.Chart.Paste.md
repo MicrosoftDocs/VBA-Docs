@@ -1,5 +1,5 @@
 ---
-title: Chart.Paste Method (PowerPoint)
+title: Chart.Paste method (PowerPoint)
 keywords: vbapp10.chm684004
 f1_keywords:
 - vbapp10.chm684004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.Paste
 ms.assetid: b94ee91d-5b7c-c0b3-340d-b8eba4f3710f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.Paste Method (PowerPoint)
+# Chart.Paste method (PowerPoint)
 
 Pastes chart data from the Clipboard into the chart.
 
 
 ## Syntax
 
- _expression_. `Paste`( `_Type_` )
+_expression_.**Paste** (_Type_)
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.GetConversation Method (Outlook)
+title: MeetingItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3406
 f1_keywords:
 - vbaol11.chm3406
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MeetingItem.GetConversation
 ms.assetid: 0ff1d250-a791-4438-4b3a-112b76a18ea8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.GetConversation Method (Outlook)
+# MeetingItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[MeetingItem](Outlook.MeetingItem.md)' object.
+_expression_ A variable that represents a '[MeetingItem](Outlook.MeetingItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

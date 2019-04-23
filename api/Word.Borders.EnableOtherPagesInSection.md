@@ -1,5 +1,5 @@
 ---
-title: Borders.EnableOtherPagesInSection Property (Word)
+title: Borders.EnableOtherPagesInSection property (Word)
 keywords: vbawd10.chm154927135
 f1_keywords:
 - vbawd10.chm154927135
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.EnableOtherPagesInSection
 ms.assetid: 288caacd-e8c8-fa27-fda0-0d02932b90aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.EnableOtherPagesInSection Property (Word)
+# Borders.EnableOtherPagesInSection property (Word)
 
- **True** if page borders are enabled for all pages in the section except for the first page. Read/write **Boolean** .
+ **True** if page borders are enabled for all pages in the section except for the first page. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableOtherPagesInSection`
+_expression_. `EnableOtherPagesInSection`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

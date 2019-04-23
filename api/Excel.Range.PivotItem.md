@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.PivotItem
 ms.assetid: 02a41786-074b-ae34-5d2c-407006fe526d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotItem](Excel.PivotItem.md)** object that represents the PivotT
 
 ## Syntax
 
- _expression_. `PivotItem`
+_expression_. `PivotItem`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ MsgBox "The active cell is in the item " & _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.ListRows
 ms.assetid: 7b584f41-ffc0-abe4-e755-ef163bcbb2ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[ListRows](Excel.ListRows.md)** object that represents all the rows
 
 ## Syntax
 
- _expression_. `ListRows`
+_expression_. `ListRows`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

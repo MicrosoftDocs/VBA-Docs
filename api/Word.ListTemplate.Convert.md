@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.Convert Method (Word)
+title: ListTemplate.Convert method (Word)
 keywords: vbawd10.chm160366693
 f1_keywords:
 - vbawd10.chm160366693
@@ -8,19 +8,20 @@ api_name:
 - Word.ListTemplate.Convert
 ms.assetid: 5b25c80e-a39c-3bcb-5c5f-bb9001e1ca86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListTemplate.Convert Method (Word)
+# ListTemplate.Convert method (Word)
 
 Converts a multiple-level list to a single-level list, or vice versa.
 
 
 ## Syntax
 
- _expression_. `Convert`( `_Level_` )
+_expression_. `Convert`( `_Level_` )
 
- _expression_ Required. A variable that represents a '[ListTemplate](Word.ListTemplate.md)' object.
+_expression_ Required. A variable that represents a '[ListTemplate](Word.ListTemplate.md)' object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ ActiveDocument.ListTemplates(1).Convert
 
 [ListTemplate Object](Word.ListTemplate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

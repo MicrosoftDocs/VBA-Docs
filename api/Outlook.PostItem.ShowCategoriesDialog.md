@@ -1,5 +1,5 @@
 ---
-title: PostItem.ShowCategoriesDialog Method (Outlook)
+title: PostItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1560
 f1_keywords:
 - vbaol11.chm1560
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.ShowCategoriesDialog
 ms.assetid: 00483040-7c23-e920-3d97-1ac456c25b05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.ShowCategoriesDialog Method (Outlook)
+# PostItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax
 
- _expression_. `ShowCategoriesDialog`
+_expression_. `ShowCategoriesDialog`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Example
@@ -62,3 +63,4 @@ End Sub
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

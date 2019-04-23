@@ -1,5 +1,5 @@
 ---
-title: Documents.OpenEx Method (Visio)
+title: Documents.OpenEx method (Visio)
 keywords: vis_sdr.chm10616405
 f1_keywords:
 - vis_sdr.chm10616405
@@ -8,17 +8,18 @@ api_name:
 - Visio.Documents.OpenEx
 ms.assetid: 86b26b53-c555-2d36-74d6-0d2a4d81971c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.OpenEx Method (Visio)
+# Documents.OpenEx method (Visio)
 
 Opens an existing Microsoft Visio file, using extra information passed in as an argument.
 
 
 ## Syntax
 
- _expression_. `OpenEx`( `_FileName_` , `_Flags_` )
+_expression_. `OpenEx`( `_FileName_` , `_Flags_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
@@ -90,4 +91,4 @@ Public Sub OpenEx_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

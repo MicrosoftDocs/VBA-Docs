@@ -1,12 +1,13 @@
 ---
-title: TaskGroups2 Object (Project)
+title: TaskGroups2 object (Project)
 ms.prod: project-server
 ms.assetid: 08346fd5-3dbd-23ea-9dc8-c2361ce043f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskGroups2 Object (Project)
+# TaskGroups2 object (Project)
 
 Represents all the task-based group definitions, where group hierarchy can be maintained.  **TaskGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
  
@@ -53,7 +54,7 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.TaskGroups2.Add.md)|
 |[Copy](Project.TaskGroups2.Copy.md)|
@@ -62,7 +63,7 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.TaskGroups2.Application.md)|
 |[Count](Project.TaskGroups2.Count.md)|
@@ -74,3 +75,5 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

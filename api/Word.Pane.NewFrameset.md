@@ -1,5 +1,5 @@
 ---
-title: Pane.NewFrameset Method (Word)
+title: Pane.NewFrameset method (Word)
 keywords: vbawd10.chm157286506
 f1_keywords:
 - vbawd10.chm157286506
@@ -8,19 +8,20 @@ api_name:
 - Word.Pane.NewFrameset
 ms.assetid: 86724851-6b29-1a66-e863-edeb4c9d43de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.NewFrameset Method (Word)
+# Pane.NewFrameset method (Word)
 
 Creates a new frames page based on the specified pane.
 
 
 ## Syntax
 
- _expression_. `NewFrameset`
+_expression_. `NewFrameset`
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.ActiveWindow.ActivePane.NewFrameset
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

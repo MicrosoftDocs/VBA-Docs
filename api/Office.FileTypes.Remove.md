@@ -1,5 +1,5 @@
 ---
-title: FileTypes.Remove Method (Office)
+title: FileTypes.Remove method (Office)
 keywords: vbaof11.chm257004
 f1_keywords:
 - vbaof11.chm257004
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.FileTypes.Remove
 ms.assetid: 1c2d55c5-9f57-e9aa-f145-3ff61c69fb69
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileTypes.Remove Method (Office)
+# FileTypes.Remove method (Office)
 
-Removes a  **FileType** object from the collection.
+Removes a **FileType** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Remove`( `_Index_` )
+_expression_.**Remove**(_Index_)
 
- _expression_ Required. A variable that represents a '[FileTypes](Office.FileTypes.md)' object.
+_expression_ Required. A variable that represents a **[FileTypes](Office.FileTypes.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,10 +32,6 @@ Removes a  **FileType** object from the collection.
 
 ## See also
 
+- [FileTypes object members](overview/library-reference/filetypes-members-office.md)
 
-[FileTypes Object](Office.FileTypes.md)
-
-
-
-[FileTypes Object Members](./overview/Library-Reference/filetypes-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

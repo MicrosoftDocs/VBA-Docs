@@ -1,14 +1,15 @@
 ---
-title: WdLockType Enumeration (Word)
+title: WdLockType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLockType
 ms.assetid: 2c861165-b6b7-5518-1569-628469b099cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdLockType Enumeration (Word)
+# WdLockType enumeration (Word)
 
 Specifies the type of lock for a  **[CoAuthLock](Word.CoAuthLock.md)** object.
 
@@ -21,3 +22,4 @@ Specifies the type of lock for a  **[CoAuthLock](Word.CoAuthLock.md)** object.
 | **wdLockNone**|0|Reserved for future use.|
 | **wdLockReservation**|1|Specifies a reservation lock. A reservation lock is explicitly created by a user through the  **Block Authors** button on the **Review** tab in Word.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

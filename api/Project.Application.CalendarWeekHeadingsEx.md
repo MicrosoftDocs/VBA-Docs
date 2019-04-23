@@ -1,5 +1,5 @@
 ---
-title: Application.CalendarWeekHeadingsEx Method (Project)
+title: Application.CalendarWeekHeadingsEx method (Project)
 keywords: vbapj.chm2341
 f1_keywords:
 - vbapj.chm2341
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CalendarWeekHeadingsEx
 ms.assetid: af964116-1d0e-7ab8-4674-4418c1c80f9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CalendarWeekHeadingsEx Method (Project)
+# Application.CalendarWeekHeadingsEx method (Project)
 
 Customizes headings in the Calendar.
 
 
 ## Syntax
 
- _expression_. `CalendarWeekHeadingsEx`( ` _MonthTitle_`, ` _WeekTitle_`, ` _DayTitle_`, ` _ShowPreview_`, ` _DaysPerWeek_`, ` _ShowTitleBeginningEndDates_` )
+_expression_. `CalendarWeekHeadingsEx`( `_MonthTitle_`, `_WeekTitle_`, `_DayTitle_`, `_ShowPreview_`, `_DaysPerWeek_`, `_ShowTitleBeginningEndDates_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -45,4 +46,4 @@ Customizes headings in the Calendar.
 
 Using the  **CalendarWeekHeadingsEx** method without specifying any arguments displays the **Timescale** dialog box with the **Week Headings** tab selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.LabelRange
 ms.assetid: e318d105-c467-afae-2431-923847d3ed9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 ## Syntax
 
- _expression_. `LabelRange`
+_expression_. `LabelRange`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

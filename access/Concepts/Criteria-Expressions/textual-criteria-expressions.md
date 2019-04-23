@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: c90dbb94-daab-5ccb-4cb1-c7771d8c4fc1
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -28,4 +29,4 @@ rst.open "Employees", CurrentProject.Connection,_
 rst.Find "[LastName] = 'Buchanan'"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

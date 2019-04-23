@@ -1,21 +1,22 @@
 ---
-title: Resource.Flag9 Property (Project)
+title: Resource.Flag9 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Flag9
 ms.assetid: f01bb999-4b23-cd2e-a817-141ec157ad7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Flag9 Property (Project)
+# Resource.Flag9 property (Project)
 
  **True** if the flag associated with a **Resource** is set. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag9`
+_expression_. `Flag9`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -40,4 +41,4 @@ Sub DeleteNonEssentialTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

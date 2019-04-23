@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f7d129e0-13b5-4411-8921-422f1456e51e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.Orientation property (Access)](http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

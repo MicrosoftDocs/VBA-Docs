@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.SetExpression Method (Visio)
+title: GraphicItem.SetExpression method (Visio)
 keywords: vis_sdr.chm16960430
 f1_keywords:
 - vis_sdr.chm16960430
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItem.SetExpression
 ms.assetid: e0fd9a38-1fc0-3189-9def-64f2c181951d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem.SetExpression Method (Visio)
+# GraphicItem.SetExpression method (Visio)
 
 Sets the value of the expression string that is part of a  **GraphicItem** object?s rule, against which shape data (custom properties) are evaluated.
 
@@ -21,7 +22,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
 
 ## Syntax
 
- _expression_. `SetExpression`( `_Field_` , `_Expression_` )
+_expression_. `SetExpression`( `_Field_` , `_Expression_` )
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
@@ -32,7 +33,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Field_|Required| **VisGraphicField**|The label or formula of the primary data field (column) assigned to the  **GraphicItem** . See Remarks for possible values.|
+| _Field_|Required| **VisGraphicField**|The label or formula of the primary data field (column) assigned to the  **GraphicItem**. See Remarks for possible values.|
 | _Expression_|Required| **String**|The ShapeSheet expression associated with the Field parameter.|
 
 ## Return value
@@ -46,7 +47,7 @@ The Field parameter should be one of the following values from the  **VisGraphic
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicPropertyLabel**|1|The label of a shape data item.|
 | **visGraphicExpression**|2|The ShapeSheet formula of a shape data item.|
@@ -74,7 +75,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 Then it closes the master and uses the  **GetExpression** method to get the mostly recently applied expression for the graphic item. Finally, it prints the field type and the value of the expression in the **Immediate** window.
 
-The macro assumes that a data graphic named "Data Graphic" exists in the current document. For more information about adding a data graphic master to the  **Masters** collection of the current document, see **[Masters.AddEx ](Visio.Masters.AddEx.md)** .
+The macro assumes that a data graphic named "Data Graphic" exists in the current document. For more information about adding a data graphic master to the  **Masters** collection of the current document, see **[Masters.AddEx](Visio.Masters.AddEx.md)**.
 
 
 
@@ -103,4 +104,4 @@ Public Sub SetExpression_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

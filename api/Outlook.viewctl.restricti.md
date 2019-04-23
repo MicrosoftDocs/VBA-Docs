@@ -3,6 +3,7 @@ title: ViewCtl.Restriction Property (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 5e92a492-653d-27f1-8d3e-799987d911be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** value that represents a filter to the items that a
 
 ## Syntax
 
- _expression_. **Restriction**
+_expression_.**Restriction**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
@@ -52,4 +53,4 @@ The setting of the  **Restriction** property does not persist if the view or cur
 
 The  **Restriction** property only works correctly if you use Table or Card views. This is a limitation of the Microsoft Outlook View Control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

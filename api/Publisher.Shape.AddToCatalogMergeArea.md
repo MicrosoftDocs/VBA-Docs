@@ -1,5 +1,5 @@
 ---
-title: Shape.AddToCatalogMergeArea Method (Publisher)
+title: Shape.AddToCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm5308688
 f1_keywords:
 - vbapb10.chm5308688
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.AddToCatalogMergeArea
 ms.assetid: 4178d286-045f-a7b6-86b6-710bed10e824
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.AddToCatalogMergeArea Method (Publisher)
+# Shape.AddToCatalogMergeArea method (Publisher)
 
 Adds the specified shape or shapes to the publication page's catalog merge area.
 
 
 ## Syntax
 
- _expression_. **AddToCatalogMergeArea**
+_expression_.**AddToCatalogMergeArea**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -53,4 +54,4 @@ The following example adds a rectangle to the catalog merge area on the first pa
 ThisDocument.Pages(1).Shapes.AddShape(1, 80, 75, 450, 125).AddToCatalogMergeArea
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

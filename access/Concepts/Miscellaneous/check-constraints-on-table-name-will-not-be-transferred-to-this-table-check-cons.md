@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: d7bf5a9c-2b39-e5da-8ade-f08317518a16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ This is an unexpected error. Please contact Microsoft Product Support Services f
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

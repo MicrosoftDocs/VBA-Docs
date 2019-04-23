@@ -1,5 +1,5 @@
 ---
-title: FormRegion.DisplayName Property (Outlook)
+title: FormRegion.DisplayName property (Outlook)
 keywords: vbaol11.chm2399
 f1_keywords:
 - vbaol11.chm2399
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormRegion.DisplayName
 ms.assetid: fcdc938b-9845-bf6f-f0db-cd6dd100d9de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegion.DisplayName Property (Outlook)
+# FormRegion.DisplayName property (Outlook)
 
 Returns a  **String** representing the display name of the form region. Read-only.
 
 
 ## Syntax
 
- _expression_. `DisplayName`
+_expression_. `DisplayName`
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The value of the  **DisplayName** property is displayed at runtime in the **Show
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

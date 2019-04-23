@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AddonPaths Property (Visio)
+title: InvisibleApp.AddonPaths property (Visio)
 keywords: vis_sdr.chm17513055
 f1_keywords:
 - vis_sdr.chm17513055
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.AddonPaths
 ms.assetid: a6709892-abc9-7043-ca51-f1b74fdb424c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.AddonPaths Property (Visio)
+# InvisibleApp.AddonPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for third-party or user add-ons. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddonPaths`
+_expression_. `AddonPaths`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -43,4 +44,4 @@ Starting with Microsoft Office Visio 2003, instead of specifying file paths to y
 
  **Note**  Modifying the registry in any manner, whether in the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

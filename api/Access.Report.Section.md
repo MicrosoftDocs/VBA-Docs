@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.Report.Section
 ms.assetid: 3baad974-8869-30b5-abe3-8cf754a225b3
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # Report.Section property (Access)
 
-You can use the  **Section** property to identify a section of a report and provide access to the properties of that section. Read-only **Section** object.
+You can use the **Section** property to identify a section of a report and provide access to the properties of that section. Read-only **Section** object.
 
 
 ## Syntax
 
-_expression_. `Section`( ` _Index_` )
+_expression_.**Section** (_Index_)
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,11 +32,9 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 ## Remarks
 
-The  **Section** property corresponds to a particular section. You can use the following constants listed below. It is recommended that you use the constants to make your code easier to read.
+The **Section** property corresponds to a particular section. You can use the following constants. We recommend that you use the constants to make your code easier to read.
 
-
-
-|**Setting**|**Constant**|**Description**|
+|Setting|Constant|Description|
 |:-----|:-----|:-----|
 |0|**acDetail**|Report detail section|
 |1|**acHeader**|Report header section|
@@ -49,20 +46,16 @@ The  **Section** property corresponds to a particular section. You can use the f
 |7|**acGroupLevel2Header**|Group-level 2 header section|
 |8|**acGroupLevel2Footer**|Group-level 2 footer section|
 
- **Note**  If a report has additional group-level sections, the header/footer pairs are numbered consecutively beginning with 9.
+> [!NOTE] 
+> If a report has additional group-level sections, the header/footer pairs are numbered consecutively beginning with 9.
 
-The  **Section** property is an array of all existing sections in the form or report specified by the section number. For example, `Section(0)` refers to a form's detail section and `Section(3)` refers to a form's page header section.
+The **Section** property is an array of all existing sections in the form or report specified by the section number. For example, `Section(0)` refers to a form's detail section, and `Section(3)` refers to a form's page header section.
 
-You can also refer to a section by name. The following statements refer to the Detail0 section for the Customers form and are equivalent.
-
-
-
+You can also refer to a section by name. The following statements refer to the Detail0 section for the **Customers** form and are equivalent.
 
 ```vb
 Forms!Customers.Section(acDetail).Visible
 ```
-
-
 
 
 ```vb
@@ -70,17 +63,13 @@ Forms!Customers.Section(0).Visible
 ```
 
 
-
-
 ```vb
 Forms!Customers.Detail0.Visible
 ```
 
-You must combine the  **Section** property with other properties that apply to form or report sections.
+You must combine the **Section** property with other properties that apply to form or report sections.
 
 
-## See also
 
 
-[Report Object](Access.Report.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

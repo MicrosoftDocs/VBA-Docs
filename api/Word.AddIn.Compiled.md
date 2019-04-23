@@ -1,5 +1,5 @@
 ---
-title: AddIn.Compiled Property (Word)
+title: AddIn.Compiled property (Word)
 keywords: vbawd10.chm159252485
 f1_keywords:
 - vbawd10.chm159252485
@@ -8,17 +8,18 @@ api_name:
 - Word.AddIn.Compiled
 ms.assetid: 812402c2-8755-cb40-beb8-e46cfba3e0ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.Compiled Property (Word)
+# AddIn.Compiled property (Word)
 
- **True** if the specified add-in is a Word add-in library (WLL). **False** if the add-in is a template. Read-only **Boolean** .
+ **True** if the specified add-in is a Word add-in library (WLL). **False** if the add-in is a template. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Compiled`
+_expression_. `Compiled`
 
  _expression_ A variable that represents a '[AddIn](Word.AddIn.md)' object.
 
@@ -58,3 +59,4 @@ End If
 
 [AddIn Object](Word.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

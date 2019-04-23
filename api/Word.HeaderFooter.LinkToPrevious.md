@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.LinkToPrevious Property (Word)
+title: HeaderFooter.LinkToPrevious property (Word)
 keywords: vbawd10.chm159711238
 f1_keywords:
 - vbawd10.chm159711238
@@ -8,17 +8,18 @@ api_name:
 - Word.HeaderFooter.LinkToPrevious
 ms.assetid: edb4dbeb-bb06-e41a-aa26-f29317bb6e01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.LinkToPrevious Property (Word)
+# HeaderFooter.LinkToPrevious property (Word)
 
- **True** if the specified header or footer is linked to the corresponding header or footer in the previous section. Read/write **Boolean** .
+ **True** if the specified header or footer is linked to the corresponding header or footer in the previous section. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LinkToPrevious`
+_expression_. `LinkToPrevious`
 
  _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
@@ -78,3 +79,4 @@ End With
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Run in Developer Mode in Outlook
 ms.prod: outlook
 ms.assetid: 8f81b1ce-333d-d9be-2af7-cfc65bf15e22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,4 +25,4 @@ If you can see the  **Developer** tab, you are running in developer mode. Otherw
 
 You should now be able to see the  **Developer** tab in the Office Fluent ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

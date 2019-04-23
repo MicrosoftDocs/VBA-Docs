@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyle.ShowAsAvailableSlicerStyle
 ms.assetid: d8f1144a-4e17-0b53-049a-f18dc4092fdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets if the specified table style is shown as available in the slicer
 
 ## Syntax
 
- _expression_. `ShowAsAvailableSlicerStyle`
+_expression_. `ShowAsAvailableSlicerStyle`
 
- _expression_ A variable that represents a '[TableStyle](Excel.TableStyle.md)' object.
+_expression_ A variable that represents a '[TableStyle](Excel.TableStyle.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns or sets if the specified table style is shown as available in the slicer
 
 [TableStyle Object](Excel.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

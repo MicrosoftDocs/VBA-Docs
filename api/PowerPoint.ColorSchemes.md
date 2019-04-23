@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes Object (PowerPoint)
+title: ColorSchemes object (PowerPoint)
 keywords: vbapp10.chm536000
 f1_keywords:
 - vbapp10.chm536000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ColorSchemes
 ms.assetid: 9b062448-88f5-b38d-2c76-330c691c9d72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorSchemes Object (PowerPoint)
+# ColorSchemes object (PowerPoint)
 
 A collection of all the  **[ColorScheme](PowerPoint.ColorScheme.md)** objects in the specified presentation. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used together on a slide.
 
@@ -59,3 +60,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

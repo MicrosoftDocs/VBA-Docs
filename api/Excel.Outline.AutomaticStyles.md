@@ -8,19 +8,20 @@ api_name:
 - Excel.Outline.AutomaticStyles
 ms.assetid: a40c5ba0-c754-eadc-8951-415de976bc00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Outline.AutomaticStyles property (Excel)
 
- **True** if the outline uses automatic styles. Read/write **Boolean** .
+ **True** if the outline uses automatic styles. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutomaticStyles`
+_expression_. `AutomaticStyles`
 
- _expression_ A variable that represents an [Outline](Excel.Outline.md) object.
+_expression_ A variable that represents an [Outline](Excel.Outline.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").Outline.AutomaticStyles = True
 
 [Outline Object](Excel.Outline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

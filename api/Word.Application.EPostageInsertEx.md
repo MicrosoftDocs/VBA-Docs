@@ -1,5 +1,5 @@
 ---
-title: Application.EPostageInsertEx Event (Word)
+title: Application.EPostageInsertEx event (Word)
 keywords: vbawd10.chm4000028
 f1_keywords:
 - vbawd10.chm4000028
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.EPostageInsertEx
 ms.assetid: 494225b9-f55f-37d2-8ff0-086f8d917b05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EPostageInsertEx Event (Word)
+# Application.EPostageInsertEx event (Word)
 
 Occurs when a user inserts electronic postage into a document.
 
 
 ## Syntax
 
- _expression_. `EPostageInsertEx`( `_Doc_` , `_cpDeliveryAddrStart_` , `_cpDeliveryAddrEnd_` , `_cpReturnAddrStart_` , `_cpReturnAddrEnd_` , `_xaWidth_` , `_yaHeight_` , `_bstrPrinterName_` , `_bstrPaperFeed_` , `_fPrint_` , `_fCancel_` )
+_expression_. `EPostageInsertEx`( `_Doc_` , `_cpDeliveryAddrStart_` , `_cpDeliveryAddrEnd_` , `_cpReturnAddrStart_` , `_cpReturnAddrEnd_` , `_xaWidth_` , `_yaHeight_` , `_bstrPrinterName_` , `_bstrPaperFeed_` , `_fPrint_` , `_fCancel_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
@@ -72,3 +73,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

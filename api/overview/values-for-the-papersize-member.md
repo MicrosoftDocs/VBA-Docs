@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 99afe507-9c34-7ec6-fa53-e6f7e9f6128b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -64,6 +65,8 @@ ms.date: 06/08/2017
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

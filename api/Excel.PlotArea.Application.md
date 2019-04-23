@@ -8,6 +8,7 @@ api_name:
 - Excel.PlotArea.Application
 ms.assetid: 96c3eb5e-606d-dd77-98b9-9a4b8f393aaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [PlotArea Object](Excel.PlotArea(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

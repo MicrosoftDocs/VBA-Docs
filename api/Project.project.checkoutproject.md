@@ -1,20 +1,21 @@
 ---
-title: Project.CheckoutProject Method (Project)
+title: Project.CheckoutProject method (Project)
 keywords: vbapj.chm131078
 f1_keywords:
 - vbapj.chm131078
 ms.prod: project-server
 ms.assetid: 7b70a7c6-0f26-27b4-9a2d-b16f828864f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CheckoutProject Method (Project)
+# Project.CheckoutProject method (Project)
 Checks out an open project that is currently in read-only mode.
 
 ## Syntax
 
- _expression_. `CheckoutProject`
+_expression_. `CheckoutProject`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -70,3 +71,5 @@ End Sub
 
 [Application.IsCheckedOut](Project.application.ischeckedout.md)
 [Application.ProjectCheckOut](Project.application.projectcheckout.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

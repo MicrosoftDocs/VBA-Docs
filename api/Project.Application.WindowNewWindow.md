@@ -1,5 +1,5 @@
 ---
-title: Application.WindowNewWindow Method (Project)
+title: Application.WindowNewWindow method (Project)
 keywords: vbapj.chm701
 f1_keywords:
 - vbapj.chm701
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WindowNewWindow
 ms.assetid: fe0c2bcb-7bee-3bec-9c47-3015938ae75d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowNewWindow Method (Project)
+# Application.WindowNewWindow method (Project)
 
 Creates a window.
 
 
 ## Syntax
 
- _expression_. `WindowNewWindow`( ` _Projects_`, ` _View_`, ` _AllProjects_`, ` _ShowDialog_` )
+_expression_. `WindowNewWindow`( `_Projects_`, `_View_`, `_AllProjects_`, `_ShowDialog_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub NewCombineProjectsInNewWindow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

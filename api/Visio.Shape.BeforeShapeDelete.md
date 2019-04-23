@@ -1,5 +1,5 @@
 ---
-title: Shape.BeforeShapeDelete Event (Visio)
+title: Shape.BeforeShapeDelete event (Visio)
 keywords: vis_sdr.chm11219065
 f1_keywords:
 - vis_sdr.chm11219065
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shape.BeforeShapeDelete
 ms.assetid: 6cbfc832-cdf6-1289-feb4-1b1fcbb3574f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.BeforeShapeDelete Event (Visio)
+# Shape.BeforeShapeDelete event (Visio)
 
 Occurs before a shape is deleted.
 
@@ -54,5 +55,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.EShape_BeforeShapeDeleteEventHandler** (the **BeforeShapeDelete** delegate.)
     
 -  **Microsoft.Office.Interop.Visio.EShape_Event.BeforeShapeDelete** (the **BeforeShapeDelete** event.)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

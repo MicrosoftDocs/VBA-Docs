@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b2f65d1d-a492-4ec3-a6c5-8d1da1a80c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [GroupCriterion.FontBold Property (Project)](http://msdn.microsoft.com/library/3efbb09f-53ab-a1f6-5880-1fd729a66669%28Office.15%29.aspx)
 [GroupCriterion2.FontBold Property (Project)](http://msdn.microsoft.com/library/af463796-40c0-6a4c-8a8d-251551676b1d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

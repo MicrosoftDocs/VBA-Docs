@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.LayoutBlankLine
 ms.assetid: 8770c3df-0a24-0511-9e8f-44515a6772df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.LayoutBlankLine property (Excel)
 
- **True** if a blank row is inserted after the specified row field in a PivotTable report. The default value is **False** . Read/write **Boolean** .
+ **True** if a blank row is inserted after the specified row field in a PivotTable report. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LayoutBlankLine`
+_expression_. `LayoutBlankLine`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End With
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

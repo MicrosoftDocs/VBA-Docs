@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Enabled Property (Outlook)
+title: AutoFormatRule.Enabled property (Outlook)
 keywords: vbaol11.chm2709
 f1_keywords:
 - vbaol11.chm2709
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AutoFormatRule.Enabled
 ms.assetid: b3a99916-83b8-68b8-5541-e4db7d0c9bb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Enabled Property (Outlook)
+# AutoFormatRule.Enabled property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether the formatting rule represented by the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_.**Enabled**
 
- _expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Example
@@ -84,3 +85,4 @@ End Sub
 
 [AutoFormatRule Object](Outlook.AutoFormatRule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

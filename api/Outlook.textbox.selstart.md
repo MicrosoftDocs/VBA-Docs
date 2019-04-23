@@ -3,6 +3,7 @@ title: TextBox.SelStart Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: a650448b-694d-3ba6-dbac-3b6890589cd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that represents the starting point of selected text,
 
 ## Syntax
 
- _expression_. **SelStart**
+_expression_.**SelStart**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ The  **SelStart** property is always valid, even when the control does not have 
 
 Changing the value of  **SelStart** cancels any existing selection in the control, places an insertion point in the text, and sets the **SelLength** property to zero.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

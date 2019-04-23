@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MRound Method (Excel)
+title: WorksheetFunction.MRound method (Excel)
 keywords: vbaxl10.chm137299
 f1_keywords:
 - vbaxl10.chm137299
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.MRound
 ms.assetid: 66a8641e-3797-43a4-2b4e-a4c555391c72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.MRound Method (Excel)
+# WorksheetFunction.MRound method (Excel)
 
 Returns a number rounded to the desired multiple.
 
 
 ## Syntax
 
- _expression_. `MRound`( `_Arg1_` , `_Arg2_` )
+_expression_. `MRound`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ MROUND rounds up, away from zero, if the remainder of dividing number by multipl
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

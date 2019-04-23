@@ -1,5 +1,5 @@
 ---
-title: AddIn Object (Word)
+title: AddIn object (Word)
 keywords: vbawd10.chm2430
 f1_keywords:
 - vbawd10.chm2430
@@ -8,17 +8,18 @@ api_name:
 - Word.AddIn
 ms.assetid: 5615a8a9-1fd6-04fa-1fee-ec16502bd84a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn Object (Word)
+# AddIn object (Word)
 
 Represents a single add-in, either installed or not installed. The  **AddIn** object is a member of the **[AddIns](Word.addins.md)** collection. The **AddIns** collection contains all the add-ins available to Microsoft Word, regardless of whether they are currently loaded. The **AddIns** collection includes global templates or Word add-in libraries (WLLs) displayed in the **Templates and Add-ins** dialog box.
 
 
 ## Remarks
 
-Use  **[AddIns](Word.Application.AddIns.md)** ( _index_ ), where _index_ is the add-in name or index number, to return a single **AddIn** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-Ins** dialog box. The following example loads the Letter.dot template as a global template.
+Use  **[AddIns](Word.Application.AddIns.md)** (_index_), where _index_ is the add-in name or index number, to return a single **AddIn** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-Ins** dialog box. The following example loads the Letter.dot template as a global template.
 
 
 ```vb
@@ -77,6 +78,6 @@ AddIns("Letter.dot").Installed = True
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

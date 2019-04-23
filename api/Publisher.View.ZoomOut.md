@@ -1,5 +1,5 @@
 ---
-title: View.ZoomOut Method (Publisher)
+title: View.ZoomOut method (Publisher)
 keywords: vbapb10.chm327687
 f1_keywords:
 - vbapb10.chm327687
@@ -8,17 +8,18 @@ api_name:
 - Publisher.View.ZoomOut
 ms.assetid: 5066a532-03a9-9b2a-b254-a1388c35bc79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ZoomOut Method (Publisher)
+# View.ZoomOut method (Publisher)
 
 Decreases the magnification of the specified view.
 
 
 ## Syntax
 
- _expression_. **ZoomOut**
+_expression_.**ZoomOut**
 
  _expression_ A variable that represents a  **View** object.
 
@@ -34,4 +35,4 @@ Sub Zoom()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d7d9a9a6-ba67-03e1-bdec-544a726251e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ When you save a [project](../../Glossary/vbe-glossary.md#project), extra informa
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

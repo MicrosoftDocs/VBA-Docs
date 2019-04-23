@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0a0a0056-453c-493b-a648-51ddc4158cf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.PathDrivingPredecessor Property (Project)](http://msdn.microsoft.com/library/c78f744e-ed0d-8923-fb01-a0e40a14726f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PivotItems.Item Method (Excel)
+title: PivotItems.Item method (Excel)
 keywords: vbaxl10.chm248076
 f1_keywords:
 - vbaxl10.chm248076
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotItems.Item
 ms.assetid: 2ce0e125-1613-4dd9-9afa-623f6cca52b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotItems.Item Method (Excel)
+# PivotItems.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
+_expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Worksheets("sheet3").PivotTables(1) _
 
 [PivotItems Object](Excel.PivotItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

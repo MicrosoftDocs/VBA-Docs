@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a9c653d3-eefc-4cae-a3ca-e0b74f1ad69f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/7a30f495-7bf7-b4ff-b971-e6ed6371383a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

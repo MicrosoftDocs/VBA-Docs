@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Calculate Method (Excel)
+title: Worksheet.Calculate method (Excel)
 keywords: vbaxl10.chm175078
 f1_keywords:
 - vbaxl10.chm175078
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Calculate
 ms.assetid: 7e807ae0-cd97-d95b-f4c4-af1e5674943e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Calculate Method (Excel)
+# Worksheet.Calculate method (Excel)
 
 Calculates all open workbooks, a specific worksheet in a workbook, or a specified range of cells on a worksheet, as shown in the following table.
 
 
 ## Syntax
 
- _expression_. `Calculate`
+_expression_. `Calculate`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ Worksheets("Sheet1").UsedRange.Columns("A:C").Calculate
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

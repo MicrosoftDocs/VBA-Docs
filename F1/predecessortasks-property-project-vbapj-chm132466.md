@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 21a49cfc-35c6-42e7-9a17-65d6415dd33e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OutlineCode.OnlyCompleteCodes Property (Project)](http://msdn.microsoft.com/library/eb0b8dc2-2cb8-a86b-2711-fa4c6f215971%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

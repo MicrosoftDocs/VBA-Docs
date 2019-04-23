@@ -1,5 +1,5 @@
 ---
-title: Application.StartupPath Property (Word)
+title: Application.StartupPath property (Word)
 keywords: vbawd10.chm158335059
 f1_keywords:
 - vbawd10.chm158335059
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.StartupPath
 ms.assetid: 1b73f234-358b-a360-ca69-ed00e0817038
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.StartupPath Property (Word)
+# Application.StartupPath property (Word)
 
-Returns or sets the complete path of the startup folder, excluding the final separator. Read/write  **String** .
+Returns or sets the complete path of the startup folder, excluding the final separator. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `StartupPath`
+_expression_. `StartupPath`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -57,3 +58,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

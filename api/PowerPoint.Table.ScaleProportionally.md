@@ -1,5 +1,5 @@
 ---
-title: Table.ScaleProportionally Method (PowerPoint)
+title: Table.ScaleProportionally method (PowerPoint)
 keywords: vbapp10.chm622016
 f1_keywords:
 - vbapp10.chm622016
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Table.ScaleProportionally
 ms.assetid: 1c703fe7-d657-5588-1991-23304a5b2bda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ScaleProportionally Method (PowerPoint)
+# Table.ScaleProportionally method (PowerPoint)
 
 Scales all cell heights and widths, font sizes, and internal margins in the table by a specified proportion.
 
 
 ## Syntax
 
- _expression_. `ScaleProportionally`( `_scale_` )
+_expression_. `ScaleProportionally`( `_scale_` )
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
@@ -41,3 +42,4 @@ Use the  **ScaleProportionally** method to resize a table and maintain the text 
 
 [Table Object](PowerPoint.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

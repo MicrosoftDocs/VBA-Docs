@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: cef32d27-35a6-28b5-657f-0ea1bcb8e10d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,4 +28,4 @@ The  **TabIndex** is an integer from 0 to one less than the number of controls o
 
 The index value of the first object in the tab order is zero.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

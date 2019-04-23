@@ -1,5 +1,5 @@
 ---
-title: Find.Found Property (Word)
+title: Find.Found property (Word)
 keywords: vbawd10.chm162529292
 f1_keywords:
 - vbawd10.chm162529292
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.Found
 ms.assetid: c9a5d7ef-9df8-1439-248a-696c29fb01da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.Found Property (Word)
+# Find.Found property (Word)
 
- **True** if the search produces a match. Read-only **Boolean** .
+ **True** if the search produces a match. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Found`
+_expression_. `Found`
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

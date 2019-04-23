@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetPivotTableAfterValueChange Event (Excel)
+title: Workbook.SheetPivotTableAfterValueChange event (Excel)
 keywords: vbaxl10.chm503102
 f1_keywords:
 - vbaxl10.chm503102
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetPivotTableAfterValueChange
 ms.assetid: 8460f5f1-d415-7aac-6a3d-fa0944036e9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetPivotTableAfterValueChange Event (Excel)
+# Workbook.SheetPivotTableAfterValueChange event (Excel)
 
 Occurs after a cell or range of cells inside a PivotTable are edited or recalculated (for cells that contain formulas).
 
 
 ## Syntax
 
- _expression_. `SheetPivotTableAfterValueChange`( `_Sh_` , `_TargetPivotTable_` , `_TargetRange_` )
+_expression_. `SheetPivotTableAfterValueChange`( `_Sh_` , `_TargetPivotTable_` , `_TargetRange_` )
 
- _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
 ## Parameters
@@ -31,7 +32,7 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The worksheet that contains the PivotTable.|
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the edited or recalculated cells.|
-| _TargetRange_|Required| **[Range](Excel.Range(object).md)**|The range that contains all the edited or recalcuated cells.|
+| _TargetRange_|Required| **[Range](Excel.Range(object).md)**|The range that contains all the edited or recalculated cells.|
 
 ## Return value
 
@@ -48,3 +49,4 @@ The  **PivotTableAfterValueChange** event does not occur under any conditions ot
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.TextEffectFormat.PresetTextEffect
 ms.assetid: 13ff8b1a-d12e-47c1-6f82-0b3b9b5a7bf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextEffectFormat.PresetTextEffect property (Excel)
 
-Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextEffect** .
+Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextEffect**.
 
 
 ## Syntax
 
- _expression_. `PresetTextEffect`
+_expression_. `PresetTextEffect`
 
- _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -67,7 +68,7 @@ Setting the  **PresetTextEffect** property automatically sets many other formatt
 
 ## Example
 
-This example sets the style for all WordArt on  `myDocument` to the first style listed in the **WordArt Gallery** dialog box.
+This example sets the style for all WordArt on  _myDocument_ to the first style listed in the **WordArt Gallery** dialog box.
 
 
 ```vb
@@ -85,3 +86,4 @@ Next
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

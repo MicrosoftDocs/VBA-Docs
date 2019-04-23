@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Parent Property (Publisher)
+title: ThreeDFormat.Parent property (Publisher)
 keywords: vbapb10.chm3801090
 f1_keywords:
 - vbapb10.chm3801090
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.Parent
 ms.assetid: 97e63fd4-9a1a-3770-3716-e8406c680d5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Parent Property (Publisher)
+# ThreeDFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

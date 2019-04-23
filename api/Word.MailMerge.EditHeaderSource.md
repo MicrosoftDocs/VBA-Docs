@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EditHeaderSource Method (Word)
+title: MailMerge.EditHeaderSource method (Word)
 keywords: vbawd10.chm153092204
 f1_keywords:
 - vbawd10.chm153092204
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.EditHeaderSource
 ms.assetid: d1be3c68-b7f8-7591-2a1a-b5898f731fc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.EditHeaderSource Method (Word)
+# MailMerge.EditHeaderSource method (Word)
 
 Opens the header source attached to a mail merge main document, or activates the header source if it is already open.
 
 
 ## Syntax
 
- _expression_. `EditHeaderSource`
+_expression_. `EditHeaderSource`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks
@@ -62,3 +63,4 @@ End If
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

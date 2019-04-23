@@ -1,5 +1,5 @@
 ---
-title: PageSize Object (Publisher)
+title: PageSize object (Publisher)
 keywords: vbapb10.chm8912895
 f1_keywords:
 - vbapb10.chm8912895
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PageSize
 ms.assetid: 80767524-6f0c-0d3f-388a-a38891b2d04a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSize Object (Publisher)
+# PageSize object (Publisher)
 
 Represents the page size of the current Microsoft Publisher publication.
 
@@ -45,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PageSize.Application.md)|
 |[HasBackgroundImage](./Publisher.PageSize.HasBackgroundImage.md)|
@@ -58,3 +59,4 @@ End Sub
 |[TopMargin](./Publisher.PageSize.TopMargin.md)|
 |[VerticalGap](./Publisher.PageSize.VerticalGap.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

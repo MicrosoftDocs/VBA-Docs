@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Application Property (Publisher)
+title: LinkFormat.Application property (Publisher)
 keywords: vbapb10.chm4390913
 f1_keywords:
 - vbapb10.chm4390913
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LinkFormat.Application
 ms.assetid: 36f7d150-9777-f4d2-f077-867a8dc0ef42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.Application Property (Publisher)
+# LinkFormat.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **LinkFormat** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

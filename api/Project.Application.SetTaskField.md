@@ -1,5 +1,5 @@
 ---
-title: Application.SetTaskField Method (Project)
+title: Application.SetTaskField method (Project)
 keywords: vbapj.chm4
 f1_keywords:
 - vbapj.chm4
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetTaskField
 ms.assetid: 44e3df27-8924-ecbb-b655-7dab9a51d96f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetTaskField Method (Project)
+# Application.SetTaskField method (Project)
 
 Sets the value of a task field specified by the name of the field.
 
 
 ## Syntax
 
- _expression_. `SetTaskField`( ` _Field_`, ` _Value_`, ` _AllSelectedTasks_`, ` _Create_`, ` _TaskID_`, ` _ProjectName_` )
+_expression_. `SetTaskField`( `_Field_`, `_Value_`, `_AllSelectedTasks_`, `_Create_`, `_TaskID_`, `_ProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -65,4 +66,4 @@ Sub Set_TaskField()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

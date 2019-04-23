@@ -1,5 +1,5 @@
 ---
-title: Document.Subdocuments Property (Word)
+title: Document.Subdocuments property (Word)
 keywords: vbawd10.chm158007341
 f1_keywords:
 - vbawd10.chm158007341
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Subdocuments
 ms.assetid: 4d0047da-03ef-67da-61ed-8bdbeaa55024
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Subdocuments Property (Word)
+# Document.Subdocuments property (Word)
 
 Returns a  **[Subdocuments](Word.subdocuments.md)** collection that represents all the subdocuments in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Subdocuments`
+_expression_. `Subdocuments`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ Next subdoc
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

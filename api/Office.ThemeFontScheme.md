@@ -1,14 +1,15 @@
 ---
-title: ThemeFontScheme Object (Office)
+title: ThemeFontScheme object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme
 ms.assetid: 566b3a6f-16c9-8ba0-6f40-5bc96ec2dcbf
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# ThemeFontScheme Object (Office)
+# ThemeFontScheme object (Office)
 
 Represents the font scheme of a Microsoft Office theme.
 
@@ -26,31 +27,11 @@ Set tfsThemeFontScheme = tTheme.ThemeFontScheme
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Load](Office.ThemeFontScheme.Load.md)|
-|[Save](Office.ThemeFontScheme.Save.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.ThemeFontScheme.Application.md)|
-|[Creator](Office.ThemeFontScheme.Creator.md)|
-|[MajorFont](Office.ThemeFontScheme.MajorFont.md)|
-|[MinorFont](Office.ThemeFontScheme.MinorFont.md)|
-|[Parent](Office.ThemeFontScheme.Parent.md)|
-
 ## See also
 
+- [ThemeFontScheme object members](overview/Library-Reference/themefontscheme-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

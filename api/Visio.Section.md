@@ -1,5 +1,5 @@
 ---
-title: Section Object (Visio)
+title: Section object (Visio)
 keywords: vis_sdr.chm10215
 f1_keywords:
 - vis_sdr.chm10215
@@ -8,10 +8,11 @@ api_name:
 - Visio.Section
 ms.assetid: 2b505e97-8b65-84ff-093d-a260b2d4e59d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section Object (Visio)
+# Section object (Visio)
 
 Enables you to access and manipulate a section of a shape. A section of a shape corresponds to a section shown in the ShapeSheet window. A section contains rows and cells.
 
@@ -25,7 +26,7 @@ The default property of a  **Section** object is **Row**.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CellChanged](./Visio.Section.CellChanged.md)|
 |[FormulaChanged](./Visio.Section.FormulaChanged.md)|
@@ -34,7 +35,7 @@ The default property of a  **Section** object is **Row**.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Section.Application.md)|
 |[ContainingMasterID](./Visio.Section.ContainingMasterID.md)|
@@ -49,3 +50,4 @@ The default property of a  **Section** object is **Row**.
 |[Stat](./Visio.Section.Stat.md)|
 |[Style](./Visio.Section.Style.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

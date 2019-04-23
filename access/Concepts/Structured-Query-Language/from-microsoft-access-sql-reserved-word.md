@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: aff5bb4f-4b4f-8d31-04df-44e2d900c4c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ The FROM keyword is used in these contexts:
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

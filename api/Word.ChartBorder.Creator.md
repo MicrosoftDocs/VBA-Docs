@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Creator Property (Word)
+title: ChartBorder.Creator property (Word)
 keywords: vbawd10.chm61014165
 f1_keywords:
 - vbawd10.chm61014165
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartBorder.Creator
 ms.assetid: 02de457e-2834-d302-c6cc-228000fe307b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartBorder.Creator Property (Word)
+# ChartBorder.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartBorder Object](Word.ChartBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

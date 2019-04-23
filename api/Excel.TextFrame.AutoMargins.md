@@ -8,6 +8,7 @@ api_name:
 - Excel.TextFrame.AutoMargins
 ms.assetid: a91ecac5-c907-8ae1-a0b8-1569f2466adf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether Excel automatically calculates text frame margins. Read/
 
 ## Syntax
 
- _expression_. `AutoMargins`
+_expression_. `AutoMargins`
 
- _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets whether Excel automatically calculates text frame margins. Read/
 
 ## Remarks
 
- **True** if Excel automatically calculates text frame margins; otherwise **False** . When this property is **True** , the **[MarginLeft](Excel.TextFrame.MarginLeft.md)** , **[MarginRight](Excel.TextFrame.MarginRight.md)** , **[MarginTop](Excel.TextFrame.MarginTop.md)** , and **[MarginBottom](Excel.TextFrame.MarginBottom.md)** properties are ignored.
+ **True** if Excel automatically calculates text frame margins; otherwise **False**. When this property is **True**, the **[MarginLeft](Excel.TextFrame.MarginLeft.md)**, **[MarginRight](Excel.TextFrame.MarginRight.md)**, **[MarginTop](Excel.TextFrame.MarginTop.md)**, and **[MarginBottom](Excel.TextFrame.MarginBottom.md)** properties are ignored.
 
 
 ## See also
@@ -38,3 +39,4 @@ Returns or sets whether Excel automatically calculates text frame margins. Read/
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableView.AutoPreviewFont Property (Outlook)
+title: TableView.AutoPreviewFont property (Outlook)
 keywords: vbaol11.chm2535
 f1_keywords:
 - vbaol11.chm2535
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.AutoPreviewFont
 ms.assetid: 988e7bc4-9957-f611-b89e-1eb7a14fbfcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.AutoPreviewFont Property (Outlook)
+# TableView.AutoPreviewFont property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when automatically previewing Outlook items in the **[TableView](Outlook.TableView.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoPreviewFont`
+_expression_. `AutoPreviewFont`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Example
@@ -84,3 +85,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

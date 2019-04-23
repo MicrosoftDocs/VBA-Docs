@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideHeight Property (Word)
+title: PlotArea.InsideHeight property (Word)
 keywords: vbawd10.chm53479046
 f1_keywords:
 - vbawd10.chm53479046
@@ -8,17 +8,18 @@ api_name:
 - Word.PlotArea.InsideHeight
 ms.assetid: f169e862-a18e-614b-d79b-ef874bd170d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlotArea.InsideHeight Property (Word)
+# PlotArea.InsideHeight property (Word)
 
-Returns or sets the inside height, in points, of the plot area. Read/write  **Double** .
+Returns or sets the inside height, in [points](../language/glossary/vbe-glossary.md#point), of the plot area. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideHeight`
+_expression_. `InsideHeight`
 
  _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [PlotArea Object](Word.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

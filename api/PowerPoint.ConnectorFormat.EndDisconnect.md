@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndDisconnect Method (PowerPoint)
+title: ConnectorFormat.EndDisconnect method (PowerPoint)
 keywords: vbapp10.chm555005
 f1_keywords:
 - vbapp10.chm555005
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ConnectorFormat.EndDisconnect
 ms.assetid: e26600c4-a384-5c83-96e6-1060f8ce8d21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndDisconnect Method (PowerPoint)
+# ConnectorFormat.EndDisconnect method (PowerPoint)
 
 Detaches the end of the specified connector from the shape it is attached to. This method doesn't alter the size or position of the connector: the end of the connector remains positioned at a connection site but is no longer connected. Use the  **[BeginDisconnect](PowerPoint.ConnectorFormat.BeginDisconnect.md)** method to detach the beginning of the connector from a shape.
 
 
 ## Syntax
 
- _expression_. `EndDisconnect`
+_expression_. `EndDisconnect`
 
- _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
 ## Example
@@ -58,3 +59,4 @@ End With
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

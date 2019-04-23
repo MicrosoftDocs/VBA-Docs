@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7b85c618-0d0c-4796-9035-4314568d0b45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ReceiveNotifications Property (Project)](http://msdn.microsoft.com/library/16ac7115-ff63-7d49-eeb0-ef416a087959%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

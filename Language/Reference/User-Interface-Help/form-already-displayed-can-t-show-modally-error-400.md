@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 98f6191b-2756-4d5f-f9c3-47791b664cba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,6 +19,5 @@ You can't use the  **Show** method to display a visible form as modal. This erro
 - You tried to use  **Show**, with the _style_ [argument](../../Glossary/vbe-glossary.md#argument) set to 1 - **vbModal**, on an already visible form.
     
     Use either the  **Unload** statement or the **Hide** method on the form before trying to show it as a modal form.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

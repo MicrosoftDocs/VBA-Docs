@@ -1,5 +1,5 @@
 ---
-title: Document.ObjectType Property (Visio)
+title: Document.ObjectType property (Visio)
 keywords: vis_sdr.chm10513960
 f1_keywords:
 - vis_sdr.chm10513960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.ObjectType
 ms.assetid: 4d981d9d-67ba-81d2-d1c0-34810b24af92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ObjectType Property (Visio)
+# Document.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

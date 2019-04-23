@@ -1,14 +1,15 @@
 ---
-title: ViewSingle Object (Project)
+title: ViewSingle object (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle
 ms.assetid: 41a36448-df16-3ad4-ec98-1dba0b3f8aef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewSingle Object (Project)
+# ViewSingle object (Project)
 
 Represents a single-pane view in Project. The  **ViewSingle** object is a member of the **[ViewsSingle](./Project.viewssingle(object).md)** collection.
 
@@ -17,7 +18,7 @@ Represents a single-pane view in Project. The  **ViewSingle** object is a member
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.ViewSingle.Apply.md)|
 |[Delete](./Project.ViewSingle.Delete.md)|
@@ -26,7 +27,7 @@ Represents a single-pane view in Project. The  **ViewSingle** object is a member
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.ViewSingle.Application.md)|
 |[Filter](./Project.ViewSingle.Filter.md)|
@@ -41,3 +42,4 @@ Represents a single-pane view in Project. The  **ViewSingle** object is a member
 |[Table](./Project.ViewSingle.Table.md)|
 |[Type](./Project.ViewSingle.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

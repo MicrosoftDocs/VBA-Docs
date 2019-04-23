@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ScreenUpdating Property (Visio)
+title: InvisibleApp.ScreenUpdating property (Visio)
 keywords: vis_sdr.chm17514295
 f1_keywords:
 - vis_sdr.chm17514295
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.ScreenUpdating
 ms.assetid: c932e8be-b6a6-df5c-d8bc-88aa0c3bd3dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ScreenUpdating Property (Visio)
+# InvisibleApp.ScreenUpdating property (Visio)
 
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 
 
 ## Syntax
 
- _expression_. `ScreenUpdating`
+_expression_. `ScreenUpdating`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -60,4 +61,4 @@ Visio.Application.ScreenUpdating = True
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

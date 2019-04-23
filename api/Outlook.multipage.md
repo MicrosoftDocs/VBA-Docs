@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ac0fa233-81fe-8a34-4113-6907c6d8f7e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,4 +31,4 @@ The default property for a  **MultiPage** is the **[Value](Outlook.multipage.val
 
 The  **MultiPage** control does not support the **[Click](Outlook.multipage.click.md)** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

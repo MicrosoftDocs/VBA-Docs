@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3639f2ed-2d47-4ee7-b7bb-1aadb50ff2d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Window.Caption Property (Project)](http://msdn.microsoft.com/library/02308676-1d72-9ac8-0654-6e510039efd1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

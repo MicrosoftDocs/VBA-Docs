@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListValue Property (Word)
+title: ListFormat.ListValue property (Word)
 keywords: vbawd10.chm163577927
 f1_keywords:
 - vbawd10.chm163577927
@@ -8,17 +8,18 @@ api_name:
 - Word.ListFormat.ListValue
 ms.assetid: 58c07741-b59f-60c0-bff1-0a63eb61847c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ListValue Property (Word)
+# ListFormat.ListValue property (Word)
 
-Returns the numeric value of the first paragraph in the range for the specified  **ListFormat** object. Read-only **Long** .
+Returns the numeric value of the first paragraph in the range for the specified  **ListFormat** object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `ListValue`
+_expression_. `ListValue`
 
  _expression_ An expression that returns a [ListFormat](./Word.ListFormat.md) object.
 
@@ -52,3 +53,4 @@ MsgBox "List value " & v _
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

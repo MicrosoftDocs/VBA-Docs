@@ -1,5 +1,5 @@
 ---
-title: Windows.ViewChanged Event (Visio)
+title: Windows.ViewChanged event (Visio)
 keywords: vis_sdr.chm11719260
 f1_keywords:
 - vis_sdr.chm11719260
@@ -8,10 +8,11 @@ api_name:
 - Visio.Windows.ViewChanged
 ms.assetid: 0c504d9d-3664-38fc-33ad-cc7ec41589e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows.ViewChanged Event (Visio)
+# Windows.ViewChanged event (Visio)
 
 Occurs when the zoom level or scroll position of a drawing window changes.
 
@@ -35,8 +36,8 @@ Private Sub  _expression_ _'ViewChanged'(**_ByVal Window As [IVWINDOW]_**)
 
 This event fires whenever the zoom level or scroll position of a  **Window** object of the type **visDrawing** changes.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResSubstitutionWizard Method (Project)
+title: Application.EnterpriseResSubstitutionWizard method (Project)
 keywords: vbapj.chm2123
 f1_keywords:
 - vbapj.chm2123
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EnterpriseResSubstitutionWizard
 ms.assetid: 627b04ad-0088-5032-4f05-b6dc8cabe436
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResSubstitutionWizard Method (Project)
+# Application.EnterpriseResSubstitutionWizard method (Project)
 
 Runs the  **Resource Substitution Wizard**. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseResSubstitutionWizard`( ` _ProjectList_`, ` _PoolOption_`, ` _RBSorResourceList_`, ` _FreezeHorizonDate_`, ` _UpdateProjects_`, ` _SaveReport_`, ` _Path_`, ` _AssignProposedResources_`, ` _LevelProposedBookings_` )
+_expression_. `EnterpriseResSubstitutionWizard`( `_ProjectList_`, `_PoolOption_`, `_RBSorResourceList_`, `_FreezeHorizonDate_`, `_UpdateProjects_`, `_SaveReport_`, `_Path_`, `_AssignProposedResources_`, `_LevelProposedBookings_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ No events are fired when using the  **EnterpriseResSubstitutionWizard** method.
 
 The  **EnterpriseResSubstitutionWizard** method does not include a parameter for specifying that resources from the enterprise resource pool should be used.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

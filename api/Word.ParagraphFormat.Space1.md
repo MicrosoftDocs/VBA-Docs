@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Space1 Method (Word)
+title: ParagraphFormat.Space1 method (Word)
 keywords: vbawd10.chm156434745
 f1_keywords:
 - vbawd10.chm156434745
@@ -8,19 +8,20 @@ api_name:
 - Word.ParagraphFormat.Space1
 ms.assetid: 57cc0cea-e50d-affd-1564-30f9240f197b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Space1 Method (Word)
+# ParagraphFormat.Space1 method (Word)
 
 Single-spaces the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. `Space1`
+_expression_. `Space1`
 
- _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ Selection.ParagraphFormat.Space1
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

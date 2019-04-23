@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Brightness Property (Word)
+title: PictureFormat.Brightness property (Word)
 keywords: vbawd10.chm164298852
 f1_keywords:
 - vbawd10.chm164298852
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.Brightness
 ms.assetid: 385fbf20-db89-e159-31ec-2c9cf3bb5a3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Brightness Property (Word)
+# PictureFormat.Brightness property (Word)
 
-Returns or sets the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write  **Single** .
+Returns or sets the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Brightness`
+_expression_. `Brightness`
 
  _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
@@ -46,3 +47,4 @@ docActive.Shapes(1).PictureFormat.Brightness = 0.3
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

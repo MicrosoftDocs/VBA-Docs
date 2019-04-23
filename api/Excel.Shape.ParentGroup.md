@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.ParentGroup
 ms.assetid: 6c43979d-fe16-4093-9eb2-78863230e6d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the common parent 
 
 ## Syntax
 
- _expression_. `ParentGroup`
+_expression_. `ParentGroup`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
@@ -58,3 +59,4 @@ End Sub
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

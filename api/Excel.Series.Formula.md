@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Formula
 ms.assetid: c3b75251-55c0-150f-6a41-94d7f6444520
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the object's formula in A1-s
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks
@@ -41,3 +42,4 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

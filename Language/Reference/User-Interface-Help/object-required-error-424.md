@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 282292d7-d147-b71e-4d1e-149af7da8f7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,7 +18,7 @@ References to [properties](../../Glossary/vbe-glossary.md#property) and [methods
     
 - You supplied an object qualifier, but it isn't recognized as an object. Check the spelling of the object qualifier and make sure the object is visible in the part of the program in which you are referencing it. In the case of **Collection** objects, check any occurrences of the **Add** method to be sure the syntax and spelling of all the elements are correct.
     
-- You supplied a valid object qualifier, but some other portion of the call contained an error. An incorrect path as an [argument](../../Glossary/vbe-glossary.md#argument) to a [host application's ](../../Glossary/vbe-glossary.md#host-application) **File Open** command could cause the error. Check arguments.
+- You supplied a valid object qualifier, but some other portion of the call contained an error. An incorrect path as an [argument](../../Glossary/vbe-glossary.md#argument) to a [host application's](../../Glossary/vbe-glossary.md#host-application) **File Open** command could cause the error. Check arguments.
     
 - You didn't use the **Set** statement in assigning an object reference. If you assign the return value of a **CreateObject** call to a **Variant** variable, an error doesn't necessarily occur if the **Set** statement is omitted. In the following code example, an implicit instance of Microsoft Excel is created, and its default property (the string "Microsoft Excel") is returned and assigned to the **Variant** `RetVal`. A subsequent attempt to use  `RetVal` as an object reference causes this error:
     
@@ -35,3 +36,4 @@ References to [properties](../../Glossary/vbe-glossary.md#property) and [methods
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

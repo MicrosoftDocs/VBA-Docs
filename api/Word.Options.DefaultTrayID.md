@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultTrayID Property (Word)
+title: Options.DefaultTrayID property (Word)
 keywords: vbawd10.chm162988072
 f1_keywords:
 - vbawd10.chm162988072
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.DefaultTrayID
 ms.assetid: 3a6c265b-f178-318b-bd29-944873c6b036
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultTrayID Property (Word)
+# Options.DefaultTrayID property (Word)
 
-Returns or sets the default tray your printer uses to print documents. Read/write  **WdPaperTray** .
+Returns or sets the default tray your printer uses to print documents. Read/write  **WdPaperTray**.
 
 
 ## Syntax
 
- _expression_. `DefaultTrayID`
+_expression_. `DefaultTrayID`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -55,3 +56,4 @@ lngTray = Options.DefaultTrayID
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

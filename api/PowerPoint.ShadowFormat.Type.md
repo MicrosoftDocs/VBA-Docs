@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Type Property (PowerPoint)
+title: ShadowFormat.Type property (PowerPoint)
 keywords: vbapp10.chm554009
 f1_keywords:
 - vbapp10.chm554009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShadowFormat.Type
 ms.assetid: 39c68d71-637c-df72-1526-35cea8498b31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Type Property (PowerPoint)
+# ShadowFormat.Type property (PowerPoint)
 
 Represents the type of shadow. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -62,3 +63,4 @@ The value of the  **Type** property can be one of these **MsoShadowType** consta
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

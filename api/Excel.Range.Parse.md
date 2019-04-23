@@ -1,5 +1,5 @@
 ---
-title: Range.Parse Method (Excel)
+title: Range.Parse method (Excel)
 keywords: vbaxl10.chm144173
 f1_keywords:
 - vbaxl10.chm144173
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Parse
 ms.assetid: 3580aeb7-e868-894a-9dd5-8e37475fb267
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Parse Method (Excel)
+# Range.Parse method (Excel)
 
 Parses a range of data and breaks it into multiple cells. Distributes the contents of the range to fill several adjacent columns; the range can be no more than one column wide.
 
 
 ## Syntax
 
- _expression_. `Parse`( `_ParseLine_` , `_Destination_` )
+_expression_. `Parse`( `_ParseLine_` , `_Destination_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Worksheets("Sheet1").Columns("A").Parse _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

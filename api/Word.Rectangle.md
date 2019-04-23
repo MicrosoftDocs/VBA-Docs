@@ -1,5 +1,5 @@
 ---
-title: Rectangle Object (Word)
+title: Rectangle object (Word)
 keywords: vbawd10.chm3571
 f1_keywords:
 - vbawd10.chm3571
@@ -8,10 +8,11 @@ api_name:
 - Word.Rectangle
 ms.assetid: 90ad4f48-2051-38f9-9b2e-a14bd38478be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rectangle Object (Word)
+# Rectangle object (Word)
 
 Represents a portion of text or a graphic in a page. Use the  **Rectangle** object and related methods and properties for programmatically defining page layout in a document.
 
@@ -49,6 +50,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.Insert Method (Publisher)
+title: MailMergeDataField.Insert method (Publisher)
 keywords: vbapb10.chm6422561
 f1_keywords:
 - vbapb10.chm6422561
@@ -8,19 +8,20 @@ api_name:
 - Publisher.MailMergeDataField.Insert
 ms.assetid: 54482cda-d0d3-c799-7e7f-b25835a8bd6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataField.Insert Method (Publisher)
+# MailMergeDataField.Insert method (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field inserted into a publication.
 
 
 ## Syntax
 
- _expression_. **Insert**(**_Range_**)
+_expression_.**Insert** (_Range_)
 
- _expression_ A variable that represents a  **MailMergeDataField** object.
+_expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field i
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Range|Optional| **TextRange**|The text range to insert.|
+|_Range_|Optional| **TextRange**|The text range to insert.|
 
 ## Return value
 
@@ -67,4 +68,4 @@ Dim pbPictureField1 As Shape
  End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

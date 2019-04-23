@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.ExportIcon Method (Visio)
+title: MasterShortcut.ExportIcon method (Visio)
 keywords: vis_sdr.chm16016270
 f1_keywords:
 - vis_sdr.chm16016270
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.ExportIcon
 ms.assetid: 763f6dac-98fb-377d-484b-08bac9b55d90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.ExportIcon Method (Visio)
+# MasterShortcut.ExportIcon method (Visio)
 
 Exports the icon for a  **Master** object to a named file or the Clipboard.
 
 
 ## Syntax
 
- _expression_. `ExportIcon`( `_FileName_` , `_Flags_` , `_TransparentRGB_` )
+_expression_. `ExportIcon`( `_FileName_` , `_Flags_` , `_TransparentRGB_` )
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -48,4 +49,4 @@ If the value of  _Flags_ is **visIconFormatBMP** (2), the icon is exported in bi
 
 Starting with Microsoft Visio 2000, you can use the  _TransparentRGB_ argument with the **ExportIcon** method. If _TransparentRGB_ is omitted, the color defaults to black, which simulates Visio 5.0 behavior.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

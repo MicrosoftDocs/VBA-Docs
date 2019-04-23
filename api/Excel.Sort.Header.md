@@ -8,19 +8,20 @@ api_name:
 - Excel.Sort.Header
 ms.assetid: e5f2967f-de53-96a9-3742-5ba2353e0bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Sort.Header property (Excel)
 
-Specifies whether the first row contains header information. Read/write  **[XlYesNoGuess](Excel.XlYesNoGuess.md)** .
+Specifies whether the first row contains header information. Read/write  **[XlYesNoGuess](Excel.XlYesNoGuess.md)**.
 
 
 ## Syntax
 
- _expression_. `Header`
+_expression_. `Header`
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Specifies whether the first row contains header information. Read/write  **[XlYe
 
 [Sort Object](Excel.Sort.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

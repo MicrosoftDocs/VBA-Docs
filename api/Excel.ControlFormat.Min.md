@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.Min
 ms.assetid: e5b70b54-5304-d013-2398-128609ddb7af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.Min property (Excel)
 
-Returns or sets the minimum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values less than this minimum value. Read/write  **Long** .
+Returns or sets the minimum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values less than this minimum value. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Min`
+_expression_. `Min`
 
- _expression_ An expression that returns a [ControlFormat](Excel.ControlFormat.md) object.
+ _expression_ An expression that returns a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Return value
@@ -56,3 +57,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

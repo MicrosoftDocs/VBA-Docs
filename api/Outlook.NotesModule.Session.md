@@ -1,5 +1,5 @@
 ---
-title: NotesModule.Session Property (Outlook)
+title: NotesModule.Session property (Outlook)
 keywords: vbaol11.chm2874
 f1_keywords:
 - vbaol11.chm2874
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NotesModule.Session
 ms.assetid: 066a38fa-3b6a-ea03-9bee-23ec95c89388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NotesModule.Session Property (Outlook)
+# NotesModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
+_expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [NotesModule Object](Outlook.NotesModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

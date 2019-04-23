@@ -1,5 +1,5 @@
 ---
-title: Document.VBProjectData Property (Visio)
+title: Document.VBProjectData property (Visio)
 keywords: vis_sdr.chm10550925
 f1_keywords:
 - vis_sdr.chm10550925
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.VBProjectData
 ms.assetid: dca456ea-dc82-0092-35d1-68b95d51e0b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.VBProjectData Property (Visio)
+# Document.VBProjectData property (Visio)
 
 Returns the Microsoft Visual Basic project data stored with a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `VBProjectData`
+_expression_. `VBProjectData`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -58,4 +59,4 @@ End Sub
 
 If the document had no project associated with it, "0 -1" would be reported in the Immediate window. If the document had a project, the upper bound would be some number greater than zero (0). For example, "0 1535" would indicate that a project had 1,536 bytes of data.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

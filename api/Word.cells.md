@@ -1,12 +1,13 @@
 ---
-title: Cells Object (Word)
+title: Cells object (Word)
 ms.prod: word
 ms.assetid: ceaa5b45-518d-d6ea-1ce8-5a34f6e37046
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cells Object (Word)
+# Cells object (Word)
 
 A collection of  **[Cell](Word.Cell.md)** objects in a table column, table row, selection, or range.
 
@@ -81,7 +82,7 @@ Next aCell
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Cells.Add.md)|
 |[AutoFit](Word.Cells.AutoFit.md)|
@@ -98,7 +99,7 @@ Next aCell
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Cells.Application.md)|
 |[Borders](Word.Cells.Borders.md)|
@@ -117,4 +118,6 @@ Next aCell
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.Perspective
 ms.assetid: 9f31508e-c723-e55a-07a9-cef1bc526136
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ThreeDFormat.Perspective property (Excel)
 
-Returns or sets an  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the extrusion appears in perspective.
+Returns or sets an  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the extrusion appears in perspective.
 
 
 ## Syntax
 
- _expression_. `Perspective`
+_expression_.**Perspective**
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ This property can be set to one of the following  **MsoTriState** constants:
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6eb06eb0-64ea-4500-a4b5-50afd4229c0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayStatusBar Property (Project)](http://msdn.microsoft.com/library/9764173e-6ea3-29d1-5b79-fb763986584b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

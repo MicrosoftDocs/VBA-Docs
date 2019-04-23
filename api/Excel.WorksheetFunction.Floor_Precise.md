@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Floor_Precise Method (Excel)
+title: WorksheetFunction.Floor_Precise method (Excel)
 keywords: vbaxl10.chm137420
 f1_keywords:
 - vbaxl10.chm137420
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Floor_Precise
 ms.assetid: 003159fa-9397-a648-67aa-5751c93e3c92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Floor_Precise Method (Excel)
+# WorksheetFunction.Floor_Precise method (Excel)
 
 Rounds the specified number to the nearest multiple of significance.
 
 
 ## Syntax
 
- _expression_. `Floor_Precise`( `_Arg1_` , `_Arg2_` )
+_expression_. `Floor_Precise`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Depending on the sign of the number and significance arguments, the  **Floor_Pre
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

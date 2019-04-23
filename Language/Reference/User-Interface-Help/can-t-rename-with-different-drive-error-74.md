@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bba0646c-ab26-361e-5a7e-2ef6becac4a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The  **Name** statement must rename the file to the current drive. This error ha
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.FormatScanning Property (Word)
+title: Options.FormatScanning property (Word)
 keywords: vbawd10.chm162988481
 f1_keywords:
 - vbawd10.chm162988481
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.FormatScanning
 ms.assetid: 7557b88e-2f16-47e9-cc3b-05019dba9896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.FormatScanning Property (Word)
+# Options.FormatScanning property (Word)
 
- **True** for Microsoft Word to keep track of all formatting in a document. Read/write **Boolean** .
+ **True** for Microsoft Word to keep track of all formatting in a document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `FormatScanning`
+_expression_. `FormatScanning`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -48,3 +49,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

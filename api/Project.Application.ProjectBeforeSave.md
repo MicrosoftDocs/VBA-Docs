@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeSave Event (Project)
+title: Application.ProjectBeforeSave event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeSave
 ms.assetid: 406986e7-22f6-109e-1973-f22e81081111
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeSave Event (Project)
+# Application.ProjectBeforeSave event (Project)
 
 Occurs before a project is saved.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeSave`( ` _pj_`, ` _SaveAsUi_`, ` _Cancel_` )
+_expression_. `ProjectBeforeSave`( `_pj_`, `_SaveAsUi_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -39,4 +40,4 @@ nothing
 
 Project events do not occur when the project is embedded in another document or application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

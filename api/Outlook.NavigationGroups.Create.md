@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups.Create Method (Outlook)
+title: NavigationGroups.Create method (Outlook)
 keywords: vbaol11.chm2858
 f1_keywords:
 - vbaol11.chm2858
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NavigationGroups.Create
 ms.assetid: 5f2bdcfc-4748-4170-7214-bcadc9e3dc36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NavigationGroups.Create Method (Outlook)
+# NavigationGroups.Create method (Outlook)
 
 Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** object, added to the end of the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Create`( `_GroupDisplayName_` )
+_expression_. `Create`( `_GroupDisplayName_` )
 
- _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ An error occurs if an add-in attempts to add more than 50 navigation groups to a
 
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

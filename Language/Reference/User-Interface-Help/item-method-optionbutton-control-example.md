@@ -1,34 +1,28 @@
 ---
-title: Item Method, OptionButton Control Example
+title: Item method, OptionButton control example
 keywords: fm20.chm5225116
 f1_keywords:
 - fm20.chm5225116
 ms.prod: office
 ms.assetid: 1145cded-2cac-2631-9e7c-bed052283373
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Item Method, OptionButton Control Example
+# Item method, OptionButton control example
 
-The following example uses the  **Item** method to access individual members of the **Controls** and **Pages** collections. The user chooses an option button for either the **Controls** collection or the **MultiPage**, and then clicks the **CommandButton**. The name of the appropriate control is returned in the **Label**.
+The following example uses the **[Item](item-method-microsoft-forms.md)** method to access individual members of the **[Controls](controls-collection-microsoft-forms.md)** and **[Pages](pages-collection-microsoft-forms.md)** collections. 
+
+The user chooses an option button for either the **Controls** collection or the **[MultiPage](multipage-control.md)**, and then clicks the **[CommandButton](commandbutton-control.md)**. The name of the appropriate control is returned in the **[Label](label-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.    
+- A **Label** named Label1.   
+- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.    
+- A **MultiPage** named MultiPage1.
     
-- A  **Label** named Label1.
-    
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
-    
-- A  **MultiPage** named MultiPage1.
-    
-
-
-
 
 ```vb
 Dim MyControl As Object 
@@ -65,4 +59,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

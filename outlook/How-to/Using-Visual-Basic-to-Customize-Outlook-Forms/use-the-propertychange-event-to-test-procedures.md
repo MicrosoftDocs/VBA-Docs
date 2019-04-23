@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 9e0beb04-dc64-ad5d-ae77-8c11c11349b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,5 +36,5 @@ Perform the following steps to test simple procedures. Replace the code below wi
 6. Click the  **!** icon on the toolbar. The message box will appear.
     
 7. Click  **OK** to close the message box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

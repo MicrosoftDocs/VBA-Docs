@@ -3,13 +3,14 @@ title: Excel performance - Performance and limit improvements
 description: Find out about performance improvements in Excel 2016 and Excel 2010. 
 ms.date: 09/24/2018 
 author: FastExcel
+localization_priority: Priority
 ---
 
 # Excel performance: Performance and limit improvements
 
 **Applies to:** Excel | Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
 
-Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks
+Excel 2016 introduces new features that you can use to improve performance when you are working with large or complex Excel workbooks
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
 
@@ -19,13 +20,11 @@ These lookup functions now create an internal cached index for the column range 
 
 *For example calculating 100 rows of these 5 VLOOKUP formulas took 37 seconds to calculate using Excel 2010 and only 12 seconds using Excel 2016.*
 
-```
- =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,3,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
-```
+    =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,3,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
 
 ## LAA memory improvement for 32-bit Excel
 
@@ -166,5 +165,5 @@ Excel 2016 introduces performance and limitation improvements focused on increas
 - [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)   
 - [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)   
 - [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
-    
-  
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PpBulletType Enumeration (PowerPoint)
+title: PpBulletType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpBulletType
 ms.assetid: 61cd92d2-7eb9-cfae-f207-e483ee59be5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpBulletType Enumeration (PowerPoint)
+# PpBulletType enumeration (PowerPoint)
 
 Specifies the type of bullet.
 
@@ -22,3 +23,4 @@ Specifies the type of bullet.
 |**ppBulletPicture**|3|Bullets with an image|
 |**ppBulletUnnumbered**|1|Unnumbered bullets|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Table Object (Publisher)
+title: Table object (Publisher)
 keywords: vbapb10.chm4849663
 f1_keywords:
 - vbapb10.chm4849663
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Table
 ms.assetid: 09da4a0a-2230-067e-1cac-55321ea044c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table Object (Publisher)
+# Table object (Publisher)
 
 Represents a single table.
 
@@ -49,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyAutoFormat](./Publisher.Table.ApplyAutoFormat.md)|
 
@@ -57,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Table.Application.md)|
 |[Cells](./Publisher.Table.Cells.md)|
@@ -67,3 +68,4 @@ End Sub
 |[Rows](./Publisher.Table.Rows.md)|
 |[TableDirection](./Publisher.Table.TableDirection.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

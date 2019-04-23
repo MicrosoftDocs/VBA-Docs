@@ -1,15 +1,16 @@
 ---
-title: Sections Object (Word)
+title: Sections object (Word)
 keywords: vbawd10.chm2394
 f1_keywords:
 - vbawd10.chm2394
 ms.prod: word
 ms.assetid: cf6f77ba-9eee-5614-e697-bc031c4c6dcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sections Object (Word)
+# Sections object (Word)
 
 A collection of  **Section** objects in a selection, range, or document.
 
@@ -66,7 +67,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Sections.Add.md)|
 |[Item](Word.Sections.Item.md)|
@@ -75,7 +76,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Sections.Application.md)|
 |[Count](Word.Sections.Count.md)|
@@ -88,4 +89,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

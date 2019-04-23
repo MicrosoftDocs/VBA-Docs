@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.Count Property (Visio)
+title: GraphicItems.Count property (Visio)
 keywords: vis_sdr.chm16813330
 f1_keywords:
 - vis_sdr.chm16813330
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItems.Count
 ms.assetid: 47f77980-e523-c1bc-63c1-3ddd344f74ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItems.Count Property (Visio)
+# GraphicItems.Count property (Visio)
 
 Returns the number of  **GraphicItem** objects in the **GraphicItems** collection. Read-only.
 
@@ -21,7 +22,7 @@ Returns the number of  **GraphicItem** objects in the **GraphicItems** collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
@@ -30,4 +31,4 @@ Returns the number of  **GraphicItem** objects in the **GraphicItems** collectio
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

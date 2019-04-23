@@ -7,36 +7,36 @@ ms.prod: access
 api_name:
 - Access.Form.ControlBox
 ms.assetid: c4d9976c-631d-ae99-0c5d-e7008bbdadf9
-ms.date: 06/08/2017
+ms.date: 03/12/2019
+localization_priority: Normal
 ---
 
 
 # Form.ControlBox property (Access)
 
-Specifies whether a form has a  **Control** menu in Form view and Datasheet view. Read/write **Boolean**.
+Specifies whether a form has a **Control** menu in Form view and Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `ControlBox`
+_expression_.**ControlBox**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
-Setting the  **ControlBox** property to **False** also removes the **Minimize**, **Maximize**, and **Close** buttons on a form.
+Setting the **ControlBox** property to **False** also removes the **Minimize**, **Maximize**, and **Close** buttons on a form.
 
 It can only be set in form Design view.
 
-To display a  **Control** menu on a form, the **ControlBox** property must be set to Yes and the form's **BorderStyle** property must be set to Thin, Sizable, or Dialog.
+To display a **Control** menu on a form, the **ControlBox** property must be set to Yes and the form's **BorderStyle** property must be set to Thin, Sizable, or Dialog.
 
-Even when a form's  **ControlBox** property is set to No, the form always has a **Control** menu when opened in Design view.
+Even when a form's **ControlBox** property is set to No, the form always has a **Control** menu when opened in Design view.
 
-Setting the  **ControlBox** property to No suppresses the **Control** menu when you:
-
+Setting the **ControlBox** property to No suppresses the **Control** menu when you:
 
 - Open the form in Form view from the Database window.
     
@@ -49,8 +49,6 @@ Setting the  **ControlBox** property to No suppresses the **Control** menu when 
 - Switch to Form or Datasheet view from Design view.
     
 
-## See also
 
 
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

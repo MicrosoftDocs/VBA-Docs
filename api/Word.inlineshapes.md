@@ -1,12 +1,13 @@
 ---
-title: InlineShapes Object (Word)
+title: InlineShapes object (Word)
 ms.prod: word
 ms.assetid: 88c632b2-80de-c96a-8879-a98461b38bd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShapes Object (Word)
+# InlineShapes object (Word)
 
 A collection of  **InlineShape** objects that represent all the inline shapes in a document, range, or selection.
 
@@ -34,6 +35,6 @@ When you open a document created in an earlier version of Word, pictures are con
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

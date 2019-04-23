@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchKashida Property (Publisher)
+title: FindReplace.MatchKashida property (Publisher)
 keywords: vbapb10.chm8323082
 f1_keywords:
 - vbapb10.chm8323082
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.MatchKashida
 ms.assetid: ec2b5fa0-0549-b5c2-d8b9-666be1cbe193
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.MatchKashida Property (Publisher)
+# FindReplace.MatchKashida property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match kashidas. Read/write.
 
 
 ## Syntax
 
- _expression_. **MatchKashida**
+_expression_.**MatchKashida**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -32,7 +33,7 @@ Boolean
 
 This property may not be available depending on the language enabled on your operating system. The default value is  **False**.
 
-Returns ** Access denied** if Arabic is not enabled.
+Returns **Access denied** if Arabic is not enabled.
 
 
 ## Example
@@ -71,4 +72,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

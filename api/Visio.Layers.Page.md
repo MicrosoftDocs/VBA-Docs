@@ -1,5 +1,5 @@
 ---
-title: Layers.Page Property (Visio)
+title: Layers.Page property (Visio)
 keywords: vis_sdr.chm11913980
 f1_keywords:
 - vis_sdr.chm11913980
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layers.Page
 ms.assetid: f9fbcbb7-513f-0dc1-a63a-c9936638af4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layers.Page Property (Visio)
+# Layers.Page property (Visio)
 
 Gets the page that contains the layers. Read-only.
 
 
 ## Syntax
 
- _expression_. `Page`
+_expression_. `Page`
 
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 
@@ -30,7 +31,7 @@ Page
 
 ## Remarks
 
-If the **Layers** collection is in a master rather than in a page, the **Page** property returns **Nothing** . You cannot set the **Page** property of a **Layers** collection.
+If the **Layers** collection is in a master rather than in a page, the **Page** property returns **Nothing**. You cannot set the **Page** property of a **Layers** collection.
 
 
 ## Example
@@ -91,4 +92,4 @@ Public Sub Page_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

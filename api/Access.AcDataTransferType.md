@@ -8,14 +8,15 @@ api_name:
 - Access.AcDataTransferType
 ms.assetid: cbd51e58-3873-ac1c-b494-55d43f1b2e25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcDataTransferType enumeration (Access)
 
-Specifies the type of transfer that you want to make with the  **TransferDatabase** or **TransferSpreadsheet** method.
+Specifies the type of transfer that you want to make with the **TransferDatabase** or **TransferSpreadsheet** method.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -25,9 +26,6 @@ Specifies the type of transfer that you want to make with the  **TransferDatabas
 
 ## Remarks
 
+The **acLink** transfer type is not supported for Microsoft Access projects (.adp).
 
-
-
- **Note**   The **acLink** transfer type is not supported for Microsoft Access projects (.adp).
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: About the Save as Web Page API
 ms.prod: visio
 ms.assetid: 82d863e2-88a3-527b-4c2e-4c9b43aa3df6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -51,4 +52,4 @@ Whether you run the Save as Web Page feature from the user interface, from code,
 
 For information about the data that is stored in the registry, see  [Persisting Save as Web Page settings](Visio.persisting.save.as.web.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

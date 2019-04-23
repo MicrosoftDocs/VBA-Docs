@@ -1,5 +1,5 @@
 ---
-title: Columns.Count Property (Publisher)
+title: Columns.Count property (Publisher)
 keywords: vbapb10.chm5046274
 f1_keywords:
 - vbapb10.chm5046274
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Columns.Count
 ms.assetid: 2f7fdb6a-6cd0-2ede-bd34-6954ef23c1a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Count Property (Publisher)
+# Columns.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **Columns** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

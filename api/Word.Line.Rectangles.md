@@ -1,5 +1,5 @@
 ---
-title: Line.Rectangles Property (Word)
+title: Line.Rectangles property (Word)
 keywords: vbawd10.chm49610760
 f1_keywords:
 - vbawd10.chm49610760
@@ -8,19 +8,20 @@ api_name:
 - Word.Line.Rectangles
 ms.assetid: 2cc7988f-de81-5461-5fd0-a0ce29fdadaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Line.Rectangles Property (Word)
+# Line.Rectangles property (Word)
 
 Returns a  **Rectangles** collection that represents a portion of text or graphics in a page in a document.
 
 
 ## Syntax
 
- _expression_. `Rectangles`
+_expression_. `Rectangles`
 
- _expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
+_expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Set objRectangles = ActiveDocument.ActiveWindow _
 
 [Line Object](Word.Line.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shapes.Item Property (Visio)
+title: Shapes.Item property (Visio)
 keywords: vis_sdr.chm11313765
 f1_keywords:
 - vis_sdr.chm11313765
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shapes.Item
 ms.assetid: c7f9eb37-b7dc-a938-bece-d70e215fe48e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Item Property (Visio)
+# Shapes.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_NameUIDOrIndex_` )
+_expression_. `Item`( `_NameUIDOrIndex_` )
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 
@@ -46,7 +47,7 @@ objRet = object(index)
 objRet = object(stringExpression)
 ```
 
-You can retrieve an object in an  **Addons** , **Documents** , **Fonts** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **OLEObjects** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .
+You can retrieve an object in an  **Addons**, **Documents**, **Fonts**, **Hyperlinks**, **Layers**, **Masters**, **MasterShortcuts**, **OLEObjects**, **Pages**, **Shapes**, or **Styles** collection by passing the object's name as a string expression in a **Variant**.
 
 If you retrieve a  **Shape** object by name, the **Item** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **Item** property can be a shape that is not in the **Shapes** collection.
 
@@ -111,4 +112,4 @@ Public Sub Item_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

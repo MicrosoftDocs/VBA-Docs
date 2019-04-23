@@ -1,21 +1,22 @@
 ---
-title: ThreeDFormat.Application Property (PowerPoint)
+title: ThreeDFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Application
 ms.assetid: 958fcb9f-4eeb-d244-cdde-ecc62f09a58f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Application Property (PowerPoint)
+# ThreeDFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

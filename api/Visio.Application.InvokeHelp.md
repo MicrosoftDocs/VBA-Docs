@@ -1,5 +1,5 @@
 ---
-title: Application.InvokeHelp Method (Visio)
+title: Application.InvokeHelp method (Visio)
 keywords: vis_sdr.chm10050695
 f1_keywords:
 - vis_sdr.chm10050695
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.InvokeHelp
 ms.assetid: dffc0412-9b90-466c-c0f9-d32f702d4927
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.InvokeHelp Method (Visio)
+# Application.InvokeHelp method (Visio)
 
 Performs operations that involve the Microsoft Visio Help system.
 
 
 ## Syntax
 
- _expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
+_expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -55,4 +56,4 @@ Application.InvokeHelp "Visio.chm", 15, 0
 
 For more information about the HTML Help API, search for "HTML Help API overview" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

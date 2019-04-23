@@ -1,5 +1,5 @@
 ---
-title: OlMeetingStatus Enumeration (Outlook)
+title: OlMeetingStatus enumeration (Outlook)
 keywords: vbaol11.chm3070
 f1_keywords:
 - vbaol11.chm3070
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMeetingStatus
 ms.assetid: da83b8ed-267e-c055-13ce-11067e224e9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMeetingStatus Enumeration (Outlook)
+# OlMeetingStatus enumeration (Outlook)
 
 Indicates the status of the meeting.
 
@@ -27,6 +28,6 @@ Indicates the status of the meeting.
 
 ## Remarks
 
-See [AppointmentItem.MeetingStatus Property (Outlook)](Outlook.AppointmentItem.MeetingStatus.md).
+See [AppointmentItem.MeetingStatus property (Outlook)](Outlook.AppointmentItem.MeetingStatus.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

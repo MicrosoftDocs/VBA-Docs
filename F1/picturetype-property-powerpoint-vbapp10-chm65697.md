@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c2ff73a8-ed64-4d84-8ad9-1f4c8d63f443
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Walls.PictureType Property (PowerPoint)](http://msdn.microsoft.com/library/c317c52a-2364-f8c5-4075-d26e524d05bd%28Office.15%29.aspx)
 [Series.PictureType Property (PowerPoint)](http://msdn.microsoft.com/library/106933a2-49a7-e9d3-e5fa-fd2d0ab8974a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

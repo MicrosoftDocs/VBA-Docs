@@ -1,12 +1,13 @@
 ---
-title: Reports Object (Project)
+title: Reports object (Project)
 ms.prod: project-server
 ms.assetid: a9f4a13b-1907-dbe8-8077-fb1226bb8bb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reports Object (Project)
+# Reports object (Project)
 Contains a collection of  **[Report](Project.report.md)** objects, where each report is a custom report.
  
 
@@ -43,7 +44,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.reports.add.md)|
 |[Copy](Project.reports.copy.md)|
@@ -53,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.reports.application.md)|
 |[Count](Project.reports.count.md)|
@@ -67,3 +68,5 @@ End Sub
 [Report Object](Project.report.md)
  
 [Project.Reports Property](Project.project.reports.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

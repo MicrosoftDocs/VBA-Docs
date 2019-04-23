@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Value Property (Word)
+title: ContentControlListEntry.Value property (Word)
 keywords: vbawd10.chm147456104
 f1_keywords:
 - vbawd10.chm147456104
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControlListEntry.Value
 ms.assetid: b37925d7-00ce-9c66-d5d3-bec840d0a2e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControlListEntry.Value Property (Word)
+# ContentControlListEntry.Value property (Word)
 
 Returns or sets a  **String** that represents the programmatic value of an item in a drop-down list or combo box content control. Read/write.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
  _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
@@ -58,3 +59,4 @@ Next
 
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

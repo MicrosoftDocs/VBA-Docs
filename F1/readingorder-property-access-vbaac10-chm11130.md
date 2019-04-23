@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6f557bb4-bc3c-4782-ad97-bbe422b48c65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.ReadingOrder property (Access)](http://msdn.microsoft.com/library/1b53bb00-9252-ca99-c3b7-3a97d06552c4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

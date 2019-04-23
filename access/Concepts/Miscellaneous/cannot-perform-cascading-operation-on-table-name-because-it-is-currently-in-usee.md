@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 238227df-7dd2-6a72-7c3d-8b76a5bc7834
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,5 @@ The matching field cannot be updated because you have it open or locked on your 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

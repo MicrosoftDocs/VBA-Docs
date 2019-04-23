@@ -1,14 +1,15 @@
 ---
-title: xlErrorBarInclude enumeration (Excel)
+title: XlErrorBarInclude enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorBarInclude
 ms.assetid: dc21fd99-26ce-c440-313c-e87fe98cec17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorBarInclude enumeration (Excel)
+# XlErrorBarInclude enumeration (Excel)
 
 Specifies which error-bar parts to include.
 
@@ -21,3 +22,4 @@ Specifies which error-bar parts to include.
 | **xlErrorBarIncludeNone**|-4142|No error bar range.|
 | **xlErrorBarIncludePlusValues**|2|Only positive error range.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

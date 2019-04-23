@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Shape Property (Publisher)
+title: Hyperlink.Shape property (Publisher)
 keywords: vbapb10.chm4587527
 f1_keywords:
 - vbapb10.chm4587527
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlink.Shape
 ms.assetid: afd1dab7-472a-2aa5-f5da-1e2f783b5270
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Shape Property (Publisher)
+# Hyperlink.Shape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape associated with a hyperlink.
 
 
 ## Syntax
 
- _expression_. **Shape**
+_expression_.**Shape**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 
@@ -42,4 +43,4 @@ Sub FormatHyperlinkShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

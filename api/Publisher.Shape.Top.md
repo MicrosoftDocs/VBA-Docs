@@ -1,5 +1,5 @@
 ---
-title: Shape.Top Property (Publisher)
+title: Shape.Top property (Publisher)
 keywords: vbapb10.chm2228306
 f1_keywords:
 - vbapb10.chm2228306
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Top
 ms.assetid: 76ab84a9-651c-ddc6-6f7f-f98e2b71074f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Top Property (Publisher)
+# Shape.Top property (Publisher)
 
 Returns or sets a  **Variant** that represents the distance between the top of the page and the top of a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Top**
+_expression_.**Top**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -40,4 +41,4 @@ Sub MoveSizeChangeShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

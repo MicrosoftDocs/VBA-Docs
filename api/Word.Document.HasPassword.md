@@ -1,5 +1,5 @@
 ---
-title: Document.HasPassword Property (Word)
+title: Document.HasPassword property (Word)
 keywords: vbawd10.chm158007383
 f1_keywords:
 - vbawd10.chm158007383
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.HasPassword
 ms.assetid: 4234b91c-b82c-605a-5d6c-ff18aadc3689
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.HasPassword Property (Word)
+# Document.HasPassword property (Word)
 
- **True** if a password is required to open the specified document. Read-only **Boolean** .
+ **True** if a password is required to open the specified document. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasPassword`
+_expression_. `HasPassword`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ If ActiveDocument.HasPassword = True Then _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

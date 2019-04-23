@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2f1b92af-eac7-4d56-a776-6fe973cbc8c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationButton.PressedForeTint property (Access)](http://msdn.microsoft.com/library/70267cd4-ed42-9533-4cb6-e4338fa38fc1%28Office.15%29.aspx)
 [TabControl.PressedForeTint property (Access)](http://msdn.microsoft.com/library/e27aab0a-8ffa-15df-0f48-ff2f64489644%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlTaskResponse Enumeration (Outlook)
+title: OlTaskResponse enumeration (Outlook)
 keywords: vbaol11.chm3086
 f1_keywords:
 - vbaol11.chm3086
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlTaskResponse
 ms.assetid: 7616cbdc-fc9c-abbe-fd07-ebdadc13ede2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlTaskResponse Enumeration (Outlook)
+# OlTaskResponse enumeration (Outlook)
 
 Indicates the response to a task request.
 
@@ -26,6 +27,6 @@ Indicates the response to a task request.
 
 ## Remarks
 
-Used by the [TaskItem.ResponseState Property (Outlook)](Outlook.TaskItem.ResponseState.md) and as a parameter to the [TaskItem.Respond Method (Outlook)](Outlook.TaskItem.Respond.md).
+Used by the [TaskItem.ResponseState property (Outlook)](Outlook.TaskItem.ResponseState.md) and as a parameter to the [TaskItem.Respond method (Outlook)](Outlook.TaskItem.Respond.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

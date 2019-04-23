@@ -5,6 +5,7 @@ api_name:
 - Visio.GetErrorMessage
 ms.assetid: 31ede4e5-a7ea-c2b8-784e-2e4c7e8bd9ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Returns a string that describes the specified error message code in Microsoft Vi
 
 ## Syntax
 
- _expression_. **GetErrorMessage**(**_ErrorCode_**)
+_expression_.**GetErrorMessage**(**_ErrorCode_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -49,4 +50,4 @@ The following code shows how to use the  **GetErrorMessage** method to get a des
 Debug.Print vsoViewer.GetErrorMessage(vsoViewer.LastErrorCode)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

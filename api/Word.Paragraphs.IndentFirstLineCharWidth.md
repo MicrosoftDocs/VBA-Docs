@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.IndentFirstLineCharWidth Method (Word)
+title: Paragraphs.IndentFirstLineCharWidth method (Word)
 keywords: vbawd10.chm156762434
 f1_keywords:
 - vbawd10.chm156762434
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.IndentFirstLineCharWidth
 ms.assetid: d0fc2250-8e3a-8a35-7d15-2bd9cc3653db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.IndentFirstLineCharWidth Method (Word)
+# Paragraphs.IndentFirstLineCharWidth method (Word)
 
 Indents the first line of one or more paragraphs by a specified number of characters.
 
 
 ## Syntax
 
- _expression_. `IndentFirstLineCharWidth`( `_Count_` )
+_expression_. `IndentFirstLineCharWidth`( `_Count_` )
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ End With
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

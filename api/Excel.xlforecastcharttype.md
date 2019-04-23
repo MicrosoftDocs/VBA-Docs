@@ -1,12 +1,13 @@
 ---
-title: xlForecastChartType enumeration (Excel)
+title: XlForecastChartType enumeration (Excel)
 ms.assetid: 7296fb27-dccf-6ad4-3565-453e9fae1b77
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
-# xlForecastChartType enumeration (Excel)
+# XlForecastChartType enumeration (Excel)
 
 Constants passed to the [Workbook.CreateForecastSheet Method](Excel.workbook.createforecastsheet.md).
 
@@ -24,3 +25,4 @@ Constants passed to the [Workbook.CreateForecastSheet Method](Excel.workbook.cre
 
 [Workbook.CreateForecastSheet Method](Excel.workbook.createforecastsheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

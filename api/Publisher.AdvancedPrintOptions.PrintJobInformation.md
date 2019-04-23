@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintJobInformation Property (Publisher)
+title: AdvancedPrintOptions.PrintJobInformation property (Publisher)
 keywords: vbapb10.chm7077897
 f1_keywords:
 - vbapb10.chm7077897
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.PrintJobInformation
 ms.assetid: c4494804-6dfa-8647-a72d-591f90624c1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintJobInformation Property (Publisher)
+# AdvancedPrintOptions.PrintJobInformation property (Publisher)
 
  **True** to print information about the print job on each plate. The default is **True**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **PrintJobInformation**
+_expression_.**PrintJobInformation**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
@@ -64,3 +65,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

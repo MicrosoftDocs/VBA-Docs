@@ -3,6 +3,7 @@ title: Create or Replace a Worksheet
 ms.prod: excel
 ms.assetid: 227df739-3e66-4d23-8168-da43f552fbe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -84,6 +85,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
+MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

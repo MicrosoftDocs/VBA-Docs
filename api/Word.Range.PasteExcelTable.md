@@ -1,5 +1,5 @@
 ---
-title: Range.PasteExcelTable Method (Word)
+title: Range.PasteExcelTable method (Word)
 keywords: vbawd10.chm157155741
 f1_keywords:
 - vbawd10.chm157155741
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.PasteExcelTable
 ms.assetid: 2f682b61-6980-4287-5512-6cef62390b70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.PasteExcelTable Method (Word)
+# Range.PasteExcelTable method (Word)
 
 Pastes and formats a Microsoft Excel table.
 
 
 ## Syntax
 
- _expression_. `PasteExcelTable`( `_LinkedToExcel_` , `_WordFormatting_` , `_RTF_` )
+_expression_. `PasteExcelTable`( `_LinkedToExcel_` , `_WordFormatting_` , `_RTF_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ End Sub
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

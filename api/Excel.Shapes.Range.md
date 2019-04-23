@@ -8,6 +8,7 @@ api_name:
 - Excel.Shapes.Range
 ms.assetid: 8158e8aa-76e3-4d11-860d-aa3dcde6e0ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset
 
 Although you can use the  **[Range](Excel.Shapes.Range.md)** property to return any number of shapes, it's simpler to use the **[Item](Excel.Shapes.Item.md)** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
-To specify an array of integers or strings for  **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
  `Dim arShapes() As Variant Dim objRange As Object arShapes = Array("Oval 4", "Rectangle 5") Set objRange = ActiveSheet.Shapes.Range(arShapes)`
 
@@ -46,7 +47,7 @@ In Microsoft Excel, you cannot use this property to return a  **ShapeRange** obj
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  `myDocument`.
+This example sets the fill pattern for shapes one and three on  _myDocument_.
 
 
 ```vb
@@ -55,7 +56,7 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  `myDocument`.
+This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
 
 
 
@@ -69,7 +70,7 @@ Set objRange = myDocument.Shapes.Range(arShapes)
 objRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for shape one on  `myDocument`.
+This example sets the fill pattern for shape one on  _myDocument_.
 
 
 
@@ -80,7 +81,7 @@ Set myRange = myDocument.Shapes.Range(1)
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example creates an array that contains all the AutoShapes on  `myDocument`, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
+This example creates an array that contains all the AutoShapes on  _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 
 
 
@@ -113,3 +114,4 @@ End With
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.FarEastLineBreakLevel Property (Word)
+title: Document.FarEastLineBreakLevel property (Word)
 keywords: vbawd10.chm158007607
 f1_keywords:
 - vbawd10.chm158007607
@@ -8,24 +8,25 @@ api_name:
 - Word.Document.FarEastLineBreakLevel
 ms.assetid: 11642adb-2c15-a081-ae7c-d9ebe6d5b848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FarEastLineBreakLevel Property (Word)
+# Document.FarEastLineBreakLevel property (Word)
 
 Returns or sets a  **WdFarEastLineBreakLevel** that represents the line break control level for the specified document. Read/write.
 
 
 ## Syntax
 
- _expression_. `FarEastLineBreakLevel`
+_expression_. `FarEastLineBreakLevel`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
 
-This property is ignored if the  **FarEastLineBreakControl** property is set to **False** .
+This property is ignored if the  **FarEastLineBreakControl** property is set to **False**.
 
 For more information on using Microsoft Word with East Asian languages, see Word features for East Asian languages .
 
@@ -45,3 +46,4 @@ ActiveDocument.FarEastLineBreakLevel = wdJustificationModeCompressKana
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

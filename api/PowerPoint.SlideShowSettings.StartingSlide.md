@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.StartingSlide Property (PowerPoint)
+title: SlideShowSettings.StartingSlide property (PowerPoint)
 keywords: vbapp10.chm514005
 f1_keywords:
 - vbapp10.chm514005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowSettings.StartingSlide
 ms.assetid: e7afc69c-0224-b22a-fc23-bb985e710c1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowSettings.StartingSlide Property (PowerPoint)
+# SlideShowSettings.StartingSlide property (PowerPoint)
 
 Returns or sets the first slide to be displayed in the specified slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartingSlide`
+_expression_. `StartingSlide`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
@@ -53,3 +54,4 @@ End With
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

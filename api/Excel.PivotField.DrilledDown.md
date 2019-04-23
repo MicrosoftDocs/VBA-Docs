@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.DrilledDown
 ms.assetid: 6fb6ae8b-ce41-9343-316c-d26bb1ae9630
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.DrilledDown property (Excel)
 
- **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean** .
+ **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DrilledDown`
+_expression_. `DrilledDown`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ ActiveSheet.PivotTables("PivotTable3") _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.VerticalPictureLocking Property (Publisher)
+title: PictureFormat.VerticalPictureLocking property (Publisher)
 keywords: vbapb10.chm3604745
 f1_keywords:
 - vbapb10.chm3604745
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.VerticalPictureLocking
 ms.assetid: 0575d733-b515-2256-7136-6ec07532ab67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.VerticalPictureLocking Property (Publisher)
+# PictureFormat.VerticalPictureLocking property (Publisher)
 
 Returns or sets a  **PbVerticalPictureLocking** constant indicating where newly inserted pictures appear in relation to the specified frame. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalPictureLocking**
+_expression_.**VerticalPictureLocking**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -34,7 +35,7 @@ The  **Vertical PictureLocking** property value can be one of the **PbVerticalPi
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbVerticalLockingBottom**|New pictures are inserted along the bottom edge of the frame.|
 | **pbVerticalLockingNone**|New pictures are inserted in the center between the top and bottom edges of the frame.|
@@ -53,4 +54,4 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

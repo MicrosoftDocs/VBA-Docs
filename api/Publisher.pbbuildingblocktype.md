@@ -1,15 +1,16 @@
 ---
-title: PbBuildingBlockType Enumeration (Publisher)
+title: PbBuildingBlockType enumeration (Publisher)
 keywords: vbapb10.chm65660
 f1_keywords:
 - vbapb10.chm65660
 ms.prod: publisher
 ms.assetid: 1649f910-ee57-455e-a486-1f7d0181ecb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbBuildingBlockType Enumeration (Publisher)
+# PbBuildingBlockType enumeration (Publisher)
 
 Constants that represent building block types.
 
@@ -23,3 +24,4 @@ Constants that represent building block types.
 | **pbBBUser**|3|User-defined type|
 | **pbBBWorkgroup**|4|Workgroup-defined type|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

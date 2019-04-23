@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorTickMark Property (PowerPoint)
+title: Axis.MinorTickMark property (PowerPoint)
 keywords: vbapp10.chm682022
 f1_keywords:
 - vbapp10.chm682022
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.Axis.MinorTickMark
 ms.assetid: 2486a649-7006-388f-1b52-379b44f3f80d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MinorTickMark Property (PowerPoint)
+# Axis.MinorTickMark property (PowerPoint)
 
 Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](PowerPoint.XlTickMark.md)**.
 
 
 ## Syntax
 
- _expression_. `MinorTickMark`
+_expression_. `MinorTickMark`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
 
- **MinorTickMark** can be one of the following **XlTickMark** constants:
+ **MinorTickMark** can be one of the following **xlTickMark** constants:
 
 
 -  **xlTickMarkInside**
@@ -67,3 +68,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

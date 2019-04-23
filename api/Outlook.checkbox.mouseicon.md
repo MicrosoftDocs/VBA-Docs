@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 6d3e1fe9-a23e-44d3-e569-9c0969ebcf6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a  **String** that represents the full path name of a custom icon that i
 
 ## Syntax
 
- _expression_. **MouseIcon**
+_expression_.**MouseIcon**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ The  **MouseIcon** property is valid when the **[MousePointer](Outlook.checkbox.
 
 To assign an image for the mouse pointer, you can either assign a picture to the  **MouseIcon** property or load a picture from a file using the **LoadPicture** function in Visual Basic Scripting Edition.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

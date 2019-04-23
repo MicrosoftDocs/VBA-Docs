@@ -1,5 +1,5 @@
 ---
-title: Document.CustomUI Property (Visio)
+title: Document.CustomUI property (Visio)
 keywords: vis_sdr.chm10562690
 f1_keywords:
 - vis_sdr.chm10562690
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.CustomUI
 ms.assetid: dff5841d-f2cc-c8fd-1b30-ca0145f5c04c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CustomUI Property (Visio)
+# Document.CustomUI property (Visio)
 
 Gets or sets the Ribbon XML string that is passed to the document to customize the Microsoft Office Fluent user interface. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomUI`
+_expression_. `CustomUI`
 
  _expression_ A variable that represents a '[Document](Visio.Document.md)' object.
 
@@ -32,4 +33,4 @@ Gets or sets the Ribbon XML string that is passed to the document to customize t
 
 When you set the  **CustomUI** property value, Microsoft Visio does not perform validation on the Ribbon XML. Instead, the XML is persisted in the document file and validated the next time that the document loads.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

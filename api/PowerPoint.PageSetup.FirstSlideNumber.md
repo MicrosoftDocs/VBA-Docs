@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FirstSlideNumber Property (PowerPoint)
+title: PageSetup.FirstSlideNumber property (PowerPoint)
 keywords: vbapp10.chm527003
 f1_keywords:
 - vbapp10.chm527003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PageSetup.FirstSlideNumber
 ms.assetid: 277f613b-8c3a-d8bb-593c-a66ca41b4fa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.FirstSlideNumber Property (PowerPoint)
+# PageSetup.FirstSlideNumber property (PowerPoint)
 
 Returns or sets the slide number for the first slide in the presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `FirstSlideNumber`
+_expression_. `FirstSlideNumber`
 
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
@@ -58,3 +59,4 @@ End With
 
 [PageSetup Object](PowerPoint.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

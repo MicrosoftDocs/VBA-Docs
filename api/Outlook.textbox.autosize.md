@@ -3,6 +3,7 @@ title: TextBox.AutoSize Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d9ac63bf-a9ea-c00e-9b67-9cf204f4ebb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
 ## Syntax
 
- _expression_. **AutoSize**
+_expression_.**AutoSize**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -32,4 +33,4 @@ For a multiline  **TextBox** that contains no text, setting **AutoSize** to **Tr
 
 For a multiline  **TextBox** that contains text, setting **AutoSize** to **True** automatically enlarges the **TextBox** vertically to display the entire text. The width of the **TextBox** does not change.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

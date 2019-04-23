@@ -2,7 +2,8 @@
 title: Enumerations (Office)
 ms.prod: office
 ms.assetid: cdde7c32-e142-4db6-aa28-e2e81a6f0785
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
@@ -186,3 +187,5 @@ This section contains documentation for the enumerations in the Office object mo
 - [XlPivotFieldOrientation enumeration](../../Office.XlPivotFieldOrientation.md)
 - [XlSizeRepresents enumeration](../../Office.XlSizeRepresents.md)
 - [XlTimeUnit enumeration](../../Office.XlTimeUnit.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

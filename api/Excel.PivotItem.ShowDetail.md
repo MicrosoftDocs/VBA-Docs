@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotItem.ShowDetail
 ms.assetid: d79e3f27-ff7a-9bf2-313d-e1add3e386a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotItem.ShowDetail property (Excel)
 
- **True** if the outline is expanded for the specified range (so that the detail of the column or row is visible). The specified range must be a single summary column or row in an outline. Read/write **Variant** . For the **PivotItem** object (or the **Range** object if the range is in a PivotTable report), this property is set to **True** if the item is showing detail.
+ **True** if the outline is expanded for the specified range (so that the detail of the column or row is visible). The specified range must be a single summary column or row in an outline. Read/write **Variant**. For the **PivotItem** object (or the **Range** object if the range is in a PivotTable report), this property is set to **True** if the item is showing detail.
 
 
 ## Syntax
 
- _expression_. `ShowDetail`
+_expression_. `ShowDetail`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If the specified range is in a PivotTable report, it's possible to set this prop
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

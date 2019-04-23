@@ -1,5 +1,5 @@
 ---
-title: Document.EndCustomUndoAction Method (Publisher)
+title: Document.EndCustomUndoAction method (Publisher)
 keywords: vbapb10.chm196710
 f1_keywords:
 - vbapb10.chm196710
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.EndCustomUndoAction
 ms.assetid: 5b703366-8d0e-1bbc-3320-a2fea99468c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.EndCustomUndoAction Method (Publisher)
+# Document.EndCustomUndoAction method (Publisher)
 
-Specifies the endpoint of a group of actions that are wrapped to create a single undo action. The  ** [BeginCustomUndoAction Method](Publisher.Document.BeginCustomUndoAction.md)** method is used to specify the starting point and label (textual description) of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
+Specifies the endpoint of a group of actions that are wrapped to create a single undo action. The  **[BeginCustomUndoAction Method](Publisher.Document.BeginCustomUndoAction.md)** method is used to specify the starting point and label (textual description) of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
 
 
 ## Syntax
 
- _expression_. **EndCustomUndoAction**
+_expression_.**EndCustomUndoAction**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -86,4 +87,4 @@ With theDoc
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

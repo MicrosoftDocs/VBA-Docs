@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.GetDataRowIDs Method (Visio)
+title: DataRecordset.GetDataRowIDs method (Visio)
 keywords: vis_sdr.chm16460310
 f1_keywords:
 - vis_sdr.chm16460310
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.GetDataRowIDs
 ms.assetid: d76874eb-c25b-df65-5d00-64de288d086e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.GetDataRowIDs Method (Visio)
+# DataRecordset.GetDataRowIDs method (Visio)
 
 Gets an array of the IDs of all the rows in the data recordset.
 
@@ -21,7 +22,7 @@ Gets an array of the IDs of all the rows in the data recordset.
 
 ## Syntax
 
- _expression_. `GetDataRowIDs`( `_CriteriaString_` )
+_expression_. `GetDataRowIDs`( `_CriteriaString_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -92,4 +93,4 @@ Public Sub GetDataRowIDs_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

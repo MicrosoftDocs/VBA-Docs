@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Application Property (PowerPoint)
+title: SoundEffect.Application property (PowerPoint)
 keywords: vbapp10.chm540001
 f1_keywords:
 - vbapp10.chm540001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SoundEffect.Application
 ms.assetid: a9e55b45-8238-be7b-a24b-9bfd7da99630
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SoundEffect.Application Property (PowerPoint)
+# SoundEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

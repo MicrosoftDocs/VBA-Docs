@@ -1,21 +1,22 @@
 ---
-title: Resource.Overallocated Property (Project)
+title: Resource.Overallocated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Overallocated
 ms.assetid: 4cb06be7-0140-1bd0-3314-2a6b50d5a51b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Overallocated Property (Project)
+# Resource.Overallocated property (Project)
 
  **True** if a resource is overallocated. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Overallocated`
+_expression_. `Overallocated`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -47,4 +48,4 @@ Sub DisplayOverallocatedPercentage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

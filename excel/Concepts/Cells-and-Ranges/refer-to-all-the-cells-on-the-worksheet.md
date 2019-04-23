@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: fbed1840-e9eb-a7a0-f780-f98939e9bac6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,4 +21,4 @@ Sub ClearSheet()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

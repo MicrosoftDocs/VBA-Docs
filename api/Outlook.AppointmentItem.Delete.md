@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Delete Method (Outlook)
+title: AppointmentItem.Delete method (Outlook)
 keywords: vbaol11.chm870
 f1_keywords:
 - vbaol11.chm870
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.Delete
 ms.assetid: 5114b1ca-d923-9de2-cbad-8b14be001deb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.Delete Method (Outlook)
+# AppointmentItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

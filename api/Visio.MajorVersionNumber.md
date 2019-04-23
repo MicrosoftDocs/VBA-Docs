@@ -5,6 +5,7 @@ api_name:
 - Visio.MajorVersionNumber
 ms.assetid: 3c96ad5b-811d-88e1-38de-8d8010b83c7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. **MajorVersionNumber**
+_expression_.**MajorVersionNumber**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code displays the major version number in the  **Immediate** windo
 Debug.Print vsoViewer.MajorVersionNumber
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

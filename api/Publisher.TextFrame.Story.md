@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Story Property (Publisher)
+title: TextFrame.Story property (Publisher)
 keywords: vbapb10.chm3866663
 f1_keywords:
 - vbapb10.chm3866663
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.Story
 ms.assetid: 7bbe0967-83aa-745b-ad13-8a7dfe61811c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Story Property (Publisher)
+# TextFrame.Story property (Publisher)
 
 Returns a  **Story** object that represents the story properties in a text range.
 
 
 ## Syntax
 
- _expression_. **Story**
+_expression_.**Story**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -38,4 +39,4 @@ Sub AddTextToStory()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

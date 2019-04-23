@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d17f82cd-84e0-4d89-b78b-d8d8d1fdc2d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.PlotBy property (Excel)](http://msdn.microsoft.com/library/69ff0fbe-7954-6808-68fa-cc92b2851dd8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

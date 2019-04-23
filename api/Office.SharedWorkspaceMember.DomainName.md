@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMember.DomainName Property (Office)
+title: SharedWorkspaceMember.DomainName property (Office)
 keywords: vbaof11.chm272001
 f1_keywords:
 - vbaof11.chm272001
@@ -7,25 +7,28 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceMember.DomainName
 ms.assetid: 2cbbea6f-7b2c-9ddc-7a37-2e2b6be10405
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceMember.DomainName Property (Office)
+# SharedWorkspaceMember.DomainName property (Office)
 
-Gets the domain and user name of the specified [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) in the format domain\user. Read-only.
+Gets the domain and user name of the specified **SharedWorkspaceMember** object in the format domain\user. Read-only.
 
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 ## Syntax
 
- _expression_. `DomainName`
+_expression_.**DomainName**
 
- _expression_ A variable that represents a [SharedWorkspaceMember](./Office.SharedWorkspaceMember.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceMember](Office.SharedWorkspaceMember.md)** object.
 
 
 ## Example
 
-The following example extracts the domain name from the  **DomainName** property of each shared workspace member and lists members who belong to the "MyCompany" domain.
+The following example extracts the domain name from the **DomainName** property of each shared workspace member and lists members who belong to the `"MyCompany"` domain.
 
 
 ```vb
@@ -45,16 +48,13 @@ The following example extracts the domain name from the  **DomainName** property
 
 ```
 
-> [!NOTE] 
-> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+
 
 
 ## See also
 
-
-[SharedWorkspaceMember Object](Office.SharedWorkspaceMember.md)
-
+- [SharedWorkspaceMember object members](overview/Library-Reference/sharedworkspacemember-members-office.md)
 
 
-[SharedWorkspaceMember Object Members](./overview/Library-Reference/sharedworkspacemember-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

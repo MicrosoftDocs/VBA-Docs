@@ -8,6 +8,7 @@ api_name:
 - Excel.WebOptions.Parent
 ms.assetid: 2d566c1f-4ff9-54e4-8260-fe3192d37cca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
+_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [WebOptions Object](Excel.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

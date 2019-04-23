@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.RowHeight
 ms.assetid: 103c7209-9a4f-8f9c-7bdc-3013113867a5
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 
@@ -20,7 +21,7 @@ Returns or sets the height of the first row in the range specified, measured in 
 
 _expression_. `RowHeight`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End With
 - [Slicer.RowHeight property](Excel.Slicer.RowHeight.md)
 - [Range object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

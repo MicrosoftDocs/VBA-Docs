@@ -8,6 +8,7 @@ api_name:
 - Excel.Speech.Direction
 ms.assetid: 8cbedcb3-2d91-b9c1-c1ae-6f06cd8d442b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 ## Syntax
 
- _expression_. `Direction`
+_expression_. `Direction`
 
- _expression_ A variable that represents a [Speech](./Excel.Speech.md) object.
+_expression_ A variable that represents a [Speech](Excel.Speech.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 
 
-| **XlSpeakDirection** can be one of these **XlSpeakDirection** constants.|
+| **xlSpeakDirection** can be one of these **xlSpeakDirection** constants.|
 | **xlSpeakByColumns**|
 | **xlSpeakByRows**|
 
@@ -58,3 +59,4 @@ End Sub
 [Databar Object](Excel.Databar.md)
 [Speech Object](Excel.Speech.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

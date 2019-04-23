@@ -1,5 +1,5 @@
 ---
-title: GroupShapes Object (Publisher)
+title: GroupShapes object (Publisher)
 keywords: vbapb10.chm3407871
 f1_keywords:
 - vbapb10.chm3407871
@@ -8,10 +8,11 @@ api_name:
 - Publisher.GroupShapes
 ms.assetid: dd723f99-25a9-81cc-1d16-eb7dcd651c5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes Object (Publisher)
+# GroupShapes object (Publisher)
 
 Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](Publisher.Shape.md)** object. Using the **[Item](Publisher.GroupShapes.Item.md)** method with this object, you can work with single shapes within a group without having to ungroup them.
  
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.GroupShapes.Item.md)|
 
@@ -55,9 +56,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.GroupShapes.Application.md)|
 |[Count](Publisher.GroupShapes.Count.md)|
 |[Parent](Publisher.GroupShapes.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

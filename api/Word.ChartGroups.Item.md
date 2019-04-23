@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Item Method (Word)
+title: ChartGroups.Item method (Word)
 keywords: vbawd10.chm77004800
 f1_keywords:
 - vbawd10.chm77004800
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartGroups.Item
 ms.assetid: 0d78e50d-f2e1-1617-a563-65cc48ca2c30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroups.Item Method (Word)
+# ChartGroups.Item method (Word)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a '[ChartGroups](Word.ChartGroups.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [ChartGroups Object](Word.ChartGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

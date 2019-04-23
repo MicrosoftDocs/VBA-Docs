@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerColorOverride
 ms.assetid: 378cd05b-50b0-2169-9419-0d489860f0ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the color of the specified layer is 
 
 ## Syntax
 
- _expression_. **LayerColorOverride**(**_LayerIndex_**)
+_expression_.**LayerColorOverride**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code shows how to override the color of the layer at index positio
 vsoViewer.LayerColorOverride(1) = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeWizardStateChange Event (Publisher)
+title: Application.MailMergeWizardStateChange event (Publisher)
 keywords: vbapb10.chm268435479
 f1_keywords:
 - vbapb10.chm268435479
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeWizardStateChange
 ms.assetid: 3d3fcdaa-af51-0a28-ff25-f2b92deceaf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeWizardStateChange Event (Publisher)
+# Application.MailMergeWizardStateChange event (Publisher)
 
 Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 
 
 ## Syntax
 
- _expression_. **MailMergeWizardStateChange**(**_Doc_**,  **_FromState_**)
+_expression_.**MailMergeWizardStateChange**(**_Doc_**,  **_FromState_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -66,3 +67,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

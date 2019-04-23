@@ -1,5 +1,5 @@
 ---
-title: TimelineView Object (Outlook)
+title: TimelineView object (Outlook)
 keywords: vbaol11.chm3185
 f1_keywords:
 - vbaol11.chm3185
@@ -8,10 +8,11 @@ api_name:
 - Outlook.TimelineView
 ms.assetid: fb14c1a1-f542-fa1e-f30f-c5ee3d2f0206
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimelineView Object (Outlook)
+# TimelineView object (Outlook)
 
 Represents a view that displays Outlook items in a timeline.
 
@@ -131,7 +132,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.TimelineView.Apply.md)|
 |[Copy](Outlook.TimelineView.Copy.md)|
@@ -144,7 +145,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TimelineView.Application.md)|
 |[Class](Outlook.TimelineView.Class.md)|
@@ -173,4 +174,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

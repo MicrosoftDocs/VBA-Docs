@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Permission
 ms.assetid: ef04f56e-a04d-c3d9-fdda-611be7bf9d39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Permission** object that represents the permission settings in the 
 
 ## Syntax
 
- _expression_. `Permission`
+_expression_. `Permission`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ Set objPermission = ActiveWorkbook.Permission
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

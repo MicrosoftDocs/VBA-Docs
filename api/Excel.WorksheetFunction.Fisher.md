@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Fisher Method (Excel)
+title: WorksheetFunction.Fisher method (Excel)
 keywords: vbaxl10.chm137187
 f1_keywords:
 - vbaxl10.chm137187
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Fisher
 ms.assetid: c7326a23-f9ea-76a8-d1c4-700962362cd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Fisher Method (Excel)
+# WorksheetFunction.Fisher method (Excel)
 
 Returns the Fisher transformation at x. This transformation produces a function that is normally distributed rather than skewed. Use this function to perform hypothesis testing on the correlation coefficient.
 
 
 ## Syntax
 
- _expression_. `Fisher`( `_Arg1_` )
+_expression_. `Fisher`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

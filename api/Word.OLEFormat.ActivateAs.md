@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ActivateAs Method (Word)
+title: OLEFormat.ActivateAs method (Word)
 keywords: vbawd10.chm154337391
 f1_keywords:
 - vbawd10.chm154337391
@@ -8,19 +8,20 @@ api_name:
 - Word.OLEFormat.ActivateAs
 ms.assetid: 3db19832-efcf-c392-4e76-82ec297a3d69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.ActivateAs Method (Word)
+# OLEFormat.ActivateAs method (Word)
 
 Sets the Windows registry value that determines the default application used to activate the specified OLE object.
 
 
 ## Syntax
 
- _expression_. `ActivateAs`( `_ClassType_` )
+_expression_. `ActivateAs`( `_ClassType_` )
 
- _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
+_expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ End With
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

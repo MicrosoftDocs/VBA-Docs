@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: a8666cf9-f42c-8dc6-ac40-df487b4bfeeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Many of the properties and methods of the  **[Application](../../../api/Word.App
 
 Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the Object Browser, click **&lt;globals&gt;** at the top of the list in the **Classes** box.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

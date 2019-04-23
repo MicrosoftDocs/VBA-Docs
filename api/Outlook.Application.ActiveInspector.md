@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveInspector Method (Outlook)
+title: Application.ActiveInspector method (Outlook)
 keywords: vbaol11.chm713
 f1_keywords:
 - vbaol11.chm713
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.ActiveInspector
 ms.assetid: 3f2b6491-7b4b-8165-327e-b319711d5656
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveInspector Method (Outlook)
+# Application.ActiveInspector method (Outlook)
 
 Returns the topmost  **[Inspector](Outlook.Inspector.md)** object on the desktop.
 
 
 ## Syntax
 
- _expression_. `ActiveInspector`
+_expression_. `ActiveInspector`
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Return value
@@ -32,7 +33,7 @@ An  **Inspector** that represents the topmost inspector on the desktop.
 
  Use this method to access the **Inspector** object that the user is most likely to be viewing.
 
-If no inspector is active, returns  **Nothing** .
+If no inspector is active, returns  **Nothing**.
 
 
 ## Example
@@ -64,3 +65,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

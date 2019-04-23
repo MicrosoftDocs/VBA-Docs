@@ -3,6 +3,7 @@ title: Parameter (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 3c6db776-619b-f815-25cc-25f42d5fab8b
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -66,3 +67,5 @@ __declspec(property(get=GetValue,put=PutValue)) _variant_t Invalid DDUE based on
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

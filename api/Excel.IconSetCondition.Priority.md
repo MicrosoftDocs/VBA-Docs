@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.Priority
 ms.assetid: c2f72c35-702a-cae7-ffde-ad7075c8dc75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_.**Priority**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

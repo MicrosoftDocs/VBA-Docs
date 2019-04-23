@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReports Method (Project)
+title: Application.VisualReports method (Project)
 keywords: vbapj.chm2137
 f1_keywords:
 - vbapj.chm2137
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.VisualReports
 ms.assetid: 4934cdcf-06b0-020c-3741-4ef70944cf98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.VisualReports Method (Project)
+# Application.VisualReports method (Project)
 
 Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 
 
 ## Syntax
 
- _expression_. `VisualReports`( ` _PjVisualReportsTab_` )
+_expression_. `VisualReports`( `_PjVisualReportsTab_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -45,4 +46,4 @@ The  **VisualReports** method corresponds to the **Visual Reports** command on t
 
  **Note**  The  **[Reports](Project.Application.Reports.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

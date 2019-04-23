@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.ApplyPictToEnd
 ms.assetid: 9f814b2a-6c39-c0d9-0869-0df023c60e2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Point.ApplyPictToEnd property (Excel)
 
- **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean** .
+ **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToEnd`
+_expression_. `ApplyPictToEnd`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Charts(1).SeriesCollection(1).ApplyPictToEnd = True
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

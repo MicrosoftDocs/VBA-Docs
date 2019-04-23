@@ -1,12 +1,13 @@
 ---
-title: Hyperlinks Object (Word)
+title: Hyperlinks object (Word)
 ms.prod: word
 ms.assetid: 25801753-737f-9219-6a14-6531eb2ca699
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks Object (Word)
+# Hyperlinks object (Word)
 
 Represents the collection of  **Hyperlink** objects in a document, range, or selection.
 
@@ -53,7 +54,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Hyperlinks.Add.md)|
 |[Item](Word.Hyperlinks.Item.md)|
@@ -62,7 +63,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Hyperlinks.Application.md)|
 |[Count](Word.Hyperlinks.Count.md)|
@@ -72,4 +73,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

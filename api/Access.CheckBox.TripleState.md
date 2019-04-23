@@ -7,40 +7,38 @@ ms.prod: access
 api_name:
 - Access.CheckBox.TripleState
 ms.assetid: f2c9f398-6e1b-00cb-4033-b0fb5a83e737
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # CheckBox.TripleState property (Access)
 
-You can use the  **TripleState** property to specify how the specified control will display Null values. Read/write **Boolean**.
+You can use the **TripleState** property to specify how the specified control displays **Null** values. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `TripleState`
+_expression_.**TripleState**
 
-_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## Remarks
 
-The  **Null** property uses the following settings.
+The **Null** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
-|**True**|The control will cycle through states for Yes, No, and  **Null** values. The control appears dimmed (grayed) when its **Value** property is set to **Null**.|
-|**False**|(Default) The control will cycle through states for Yes and No values.  **Null** values display as if they were No values.|
+|**True**|The control will cycle through states for **Yes**, **No**, and **Null** values. The control appears dimmed (grayed) when its **Value** property is set to **Null**.|
+|**False**|(Default) The control will cycle through states for **Yes** and **No** values. **Null** values display as if they were **No** values.|
 
 This property can be set in any view.
 
 
 ## Example
 
-The following example displays a message describing in detail the state of a check box named "Check1" on the form "frmOperations". 
-
+The following example displays a message describing in detail the state of a check box named **Check1** on the form **frmOperations**. 
 
 ```vb
 Dim strTripleState As String 
@@ -64,8 +62,6 @@ End Select
 ```
 
 
-## See also
 
 
-[CheckBox Object](Access.CheckBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

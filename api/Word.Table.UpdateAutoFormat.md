@@ -1,5 +1,5 @@
 ---
-title: Table.UpdateAutoFormat Method (Word)
+title: Table.UpdateAutoFormat method (Word)
 keywords: vbawd10.chm156303375
 f1_keywords:
 - vbawd10.chm156303375
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.UpdateAutoFormat
 ms.assetid: d33f3b59-f05c-d51e-5f43-17d56af6693f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.UpdateAutoFormat Method (Word)
+# Table.UpdateAutoFormat method (Word)
 
 Updates the table with the characteristics of a predefined table format.
 
 
 ## Syntax
 
- _expression_. `UpdateAutoFormat`
+_expression_. `UpdateAutoFormat`
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks
@@ -67,3 +68,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.FirstLetterExceptions Property (Word)
+title: AutoCorrect.FirstLetterExceptions property (Word)
 keywords: vbawd10.chm155779079
 f1_keywords:
 - vbawd10.chm155779079
@@ -8,17 +8,18 @@ api_name:
 - Word.AutoCorrect.FirstLetterExceptions
 ms.assetid: 393a7a13-90eb-ce63-f82a-d1b0a9ae2339
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrect.FirstLetterExceptions Property (Word)
+# AutoCorrect.FirstLetterExceptions property (Word)
 
 Returns a  **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection that represents the list of abbreviations after which Word won't automatically capitalize the next letter. Read-only.
 
 
 ## Syntax
 
- _expression_. `FirstLetterExceptions`
+_expression_. `FirstLetterExceptions`
 
  _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
@@ -75,3 +76,4 @@ End If
 
 [AutoCorrect Object](Word.AutoCorrect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

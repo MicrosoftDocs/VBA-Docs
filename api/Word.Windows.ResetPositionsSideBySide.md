@@ -1,5 +1,5 @@
 ---
-title: Windows.ResetPositionsSideBySide Method (Word)
+title: Windows.ResetPositionsSideBySide method (Word)
 keywords: vbawd10.chm157351950
 f1_keywords:
 - vbawd10.chm157351950
@@ -8,19 +8,20 @@ api_name:
 - Word.Windows.ResetPositionsSideBySide
 ms.assetid: f9741635-ecc5-77a1-51d6-d48ef42a3ce6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows.ResetPositionsSideBySide Method (Word)
+# Windows.ResetPositionsSideBySide method (Word)
 
 Resets two document windows that are in the  **Compare side by side with** view mode.
 
 
 ## Syntax
 
- _expression_. `ResetPositionsSideBySide`
+_expression_. `ResetPositionsSideBySide`
 
- _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
+_expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Windows.ResetPositionsSideBySide
 
 [Windows Collection Object](Word.windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

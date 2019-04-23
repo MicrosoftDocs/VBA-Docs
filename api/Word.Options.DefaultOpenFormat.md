@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultOpenFormat Property (Word)
+title: Options.DefaultOpenFormat property (Word)
 keywords: vbawd10.chm162988318
 f1_keywords:
 - vbawd10.chm162988318
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DefaultOpenFormat
 ms.assetid: 8caa36b7-6758-d280-e170-54376a1fd624
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultOpenFormat Property (Word)
+# Options.DefaultOpenFormat property (Word)
 
 Returns or sets the default file converter used to open documents. Can be a number returned by the  **OpenFormat** property, or one of the following **WdOpenFormat** constants.
 
 
 ## Syntax
 
- _expression_. `DefaultOpenFormat`
+_expression_. `DefaultOpenFormat`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -58,3 +59,4 @@ Options.DefaultOpenFormat = _
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

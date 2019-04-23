@@ -1,5 +1,5 @@
 ---
-title: FormDescription Object (Outlook)
+title: FormDescription object (Outlook)
 keywords: vbaol11.chm178
 f1_keywords:
 - vbaol11.chm178
@@ -8,10 +8,11 @@ api_name:
 - Outlook.FormDescription
 ms.assetid: c88f92c4-4cac-84b3-6118-1150d42d7cff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormDescription Object (Outlook)
+# FormDescription object (Outlook)
 
 Represents the general properties of an Outlook form.
 
@@ -29,7 +30,7 @@ Use the  **[FormDescription](Outlook.MailItem.FormDescription.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[PublishForm](Outlook.FormDescription.PublishForm.md)|
 
@@ -37,7 +38,7 @@ Use the  **[FormDescription](Outlook.MailItem.FormDescription.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.FormDescription.Application.md)|
 |[Category](Outlook.FormDescription.Category.md)|
@@ -64,5 +65,6 @@ Use the  **[FormDescription](Outlook.MailItem.FormDescription.md)** property to 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

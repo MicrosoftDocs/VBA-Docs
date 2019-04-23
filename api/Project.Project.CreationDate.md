@@ -1,5 +1,5 @@
 ---
-title: Project.CreationDate Property (Project)
+title: Project.CreationDate property (Project)
 keywords: vbapj.chm131693
 f1_keywords:
 - vbapj.chm131693
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.CreationDate
 ms.assetid: 7126f72b-fe35-c183-04b7-03efd78a8589
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CreationDate Property (Project)
+# Project.CreationDate property (Project)
 
 Gets the date a project was created. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CreationDate`
+_expression_. `CreationDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -34,4 +35,4 @@ Sub AddCreationDateToNotes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

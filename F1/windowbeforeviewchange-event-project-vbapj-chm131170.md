@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 57d0b5dd-757b-4e24-9dbd-3a2140c1b7ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeTaskDelete2 Event (Project)](http://msdn.microsoft.com/library/2c695579-bfe4-d109-eebc-4fb258a95c1e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

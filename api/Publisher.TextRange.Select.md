@@ -1,5 +1,5 @@
 ---
-title: TextRange.Select Method (Publisher)
+title: TextRange.Select method (Publisher)
 keywords: vbapb10.chm5308457
 f1_keywords:
 - vbapb10.chm5308457
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Select
 ms.assetid: 36097502-2b06-37ac-3148-43a82cca4411
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Select Method (Publisher)
+# TextRange.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**
+_expression_.**Select**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -68,4 +69,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
  .TextRange.Characters(1, 5).Select
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

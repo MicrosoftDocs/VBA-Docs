@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnitIsAuto Property (Word)
+title: Axis.BaseUnitIsAuto property (Word)
 keywords: vbawd10.chm113049659
 f1_keywords:
 - vbawd10.chm113049659
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.BaseUnitIsAuto
 ms.assetid: 7dcfd41c-c35d-5a61-55bd-e7e675fb589c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.BaseUnitIsAuto Property (Word)
+# Axis.BaseUnitIsAuto property (Word)
 
- **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True** . Read/write **Boolean** .
+ **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BaseUnitIsAuto`
+_expression_.**BaseUnitIsAuto**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

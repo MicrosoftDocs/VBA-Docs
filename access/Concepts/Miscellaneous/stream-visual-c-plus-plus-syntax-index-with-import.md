@@ -3,6 +3,7 @@ title: Stream (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: a3188858-9c0d-aff6-c893-2111aee77383
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -86,3 +87,5 @@ __declspec(property(get=GetType,put=PutType)) enum StreamTypeEnum Invalid DDUE b
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

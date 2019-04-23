@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 149ff0a8-e28c-451d-bd90-333e8cb556c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeAssignmentDelete2 Event (Project)](http://msdn.microsoft.com/library/2753a140-e01b-b2c1-233f-f9f265737b47%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.Windows Property (Word)
+title: Application.Windows property (Word)
 keywords: vbawd10.chm158334978
 f1_keywords:
 - vbawd10.chm158334978
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Windows
 ms.assetid: 860d9e12-4c02-be1f-64a7-ef0305881854
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Windows Property (Word)
+# Application.Windows property (Word)
 
 Returns a  **[Windows](Word.windows.md)** collection that represents all document windows. Read-only.
 
 
 ## Syntax
 
- _expression_. `Windows`
+_expression_. `Windows`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -43,3 +44,4 @@ Windows.Arrange ArrangeStyle:=wdTiled
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

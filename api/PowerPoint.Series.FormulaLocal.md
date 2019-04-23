@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaLocal Property (PowerPoint)
+title: Series.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm65799
 f1_keywords:
 - vbapp10.chm65799
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.FormulaLocal
 ms.assetid: 93f20166-0d98-a05e-6938-dfc18f46e936
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.FormulaLocal Property (PowerPoint)
+# Series.FormulaLocal property (PowerPoint)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

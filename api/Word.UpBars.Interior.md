@@ -1,5 +1,5 @@
 ---
-title: UpBars.Interior Property (Word)
+title: UpBars.Interior property (Word)
 keywords: vbawd10.chm180945025
 f1_keywords:
 - vbawd10.chm180945025
@@ -8,17 +8,18 @@ api_name:
 - Word.UpBars.Interior
 ms.assetid: 2ea3eef1-4602-c81a-852b-e6e4f11d2065
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UpBars.Interior Property (Word)
+# UpBars.Interior property (Word)
 
-Returns the interior of the object. Read-only  **[Interior](Word.Interior.md)** .
+Returns the interior of the object. Read-only  **[Interior](Word.Interior.md)**.
 
 
 ## Syntax
 
- _expression_. `Interior`
+_expression_.**Interior**
 
  _expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [UpBars Object](Word.UpBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

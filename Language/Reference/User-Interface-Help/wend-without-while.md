@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6239f1c7-5ff4-8f63-bb74-8e83bbf24cf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Every  **Wend** statement must be preceded by a matching **While** statement. Th
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

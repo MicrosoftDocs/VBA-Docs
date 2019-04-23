@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.AlternativeText
 ms.assetid: 363423a9-5332-126a-8ebf-983269c2f72e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the descriptive (alternative) text string for the specified tabl
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
- _expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
+_expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The value of the  **AlternativeText** property corresponds to the setting of the
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

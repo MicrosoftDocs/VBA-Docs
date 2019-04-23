@@ -1,5 +1,5 @@
 ---
-title: DropLines Object (PowerPoint)
+title: DropLines object (PowerPoint)
 keywords: vbapp10.chm701000
 f1_keywords:
 - vbapp10.chm701000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.DropLines
 ms.assetid: b13b58c3-d00d-16d2-16ef-bcd3cae347c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropLines Object (PowerPoint)
+# DropLines object (PowerPoint)
 
 Represents the drop lines in a chart group.
 
@@ -60,3 +61,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

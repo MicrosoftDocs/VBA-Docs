@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.Parent Property (Publisher)
+title: WebTextBox.Parent property (Publisher)
 keywords: vbapb10.chm4194306
 f1_keywords:
 - vbapb10.chm4194306
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebTextBox.Parent
 ms.assetid: c8448b66-55a3-4521-d4f7-a769f24dd983
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox.Parent Property (Publisher)
+# WebTextBox.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

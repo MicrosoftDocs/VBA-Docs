@@ -1,5 +1,5 @@
 ---
-title: IconView.LockUserChanges Property (Outlook)
+title: IconView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2567
 f1_keywords:
 - vbaol11.chm2567
@@ -8,29 +8,30 @@ api_name:
 - Outlook.IconView.LockUserChanges
 ms.assetid: 53d42f7f-3fb0-2a3f-7431-f21fb43820d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconView.LockUserChanges Property (Outlook)
+# IconView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the current view. Read/write.
 
 
 ## Syntax
 
- _expression_. `LockUserChanges`
+_expression_. `LockUserChanges`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks
 
-If  **True** , the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If  **True**, the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example, the procedure is always called with the **Boolean** value set to **True** .
+The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example, the procedure is always called with the **Boolean** value set to **True**.
 
 
 ```vb
@@ -115,3 +116,4 @@ End Sub
 
 [IconView Object](Outlook.IconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

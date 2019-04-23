@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: e23e1221-bef8-4ad3-f057-27beacac5fdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `TableName`
+_expression_. `TableName`
 
- _expression_ A variable that represents a [ModelMeasureName](Excel.modelmeasurename.md) object.
+_expression_ A variable that represents a [ModelMeasureName](Excel.modelmeasurename.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ ms.date: 06/08/2017
 
 [ModelMeasureName Object](Excel.modelmeasurename.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

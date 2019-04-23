@@ -1,5 +1,5 @@
 ---
-title: Menu.TypeSpecific2 Property (Visio)
+title: Menu.TypeSpecific2 property (Visio)
 keywords: vis_sdr.chm13114605
 f1_keywords:
 - vis_sdr.chm13114605
@@ -8,17 +8,18 @@ api_name:
 - Visio.Menu.TypeSpecific2
 ms.assetid: f96007e8-e459-1089-8e84-df1067d392a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menu.TypeSpecific2 Property (Visio)
+# Menu.TypeSpecific2 property (Visio)
 
 Gets or sets the type of a menu. Read/write.
 
 
 ## Syntax
 
- _expression_. `TypeSpecific2`
+_expression_. `TypeSpecific2`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
@@ -44,3 +45,4 @@ The value of an object's  **TypeSpecific2** property depends on the value of its
 | **visCtrlTypeEDITBOX**|The current width of the control expressed in pixels.|
 | **visCtrlTypeLABEL**|The  **TypeSpecific2** property is not used.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

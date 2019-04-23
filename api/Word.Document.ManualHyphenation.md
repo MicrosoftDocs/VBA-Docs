@@ -1,5 +1,5 @@
 ---
-title: Document.ManualHyphenation Method (Word)
+title: Document.ManualHyphenation method (Word)
 keywords: vbawd10.chm158007401
 f1_keywords:
 - vbawd10.chm158007401
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ManualHyphenation
 ms.assetid: ffd4aace-f9e3-a7ef-9dab-5694891a68ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ManualHyphenation Method (Word)
+# Document.ManualHyphenation method (Word)
 
 Initiates manual hyphenation of a document, one line at a time.
 
 
 ## Syntax
 
- _expression_. `ManualHyphenation`
+_expression_. `ManualHyphenation`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

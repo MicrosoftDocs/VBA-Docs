@@ -1,21 +1,22 @@
 ---
-title: WorkWeeks.Count Property (Project)
+title: WorkWeeks.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.WorkWeeks.Count
 ms.assetid: d8360e75-7dbe-955b-dd95-20fb3bf465e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorkWeeks.Count Property (Project)
+# WorkWeeks.Count property (Project)
 
 Gets the number of items in the  **WorkWeeks** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ An expression that returns a 'WorkWeeks' object.
 
@@ -34,3 +35,5 @@ Debug.Print ActiveProject.Resources(1).Calendar.WorkWeeks.Count
 
 
 [WorkWeeks Collection Object](Project.workweeks.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

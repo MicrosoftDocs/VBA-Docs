@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Application.Path
 ms.assetid: 0ef5d0fc-f46a-c133-232a-8a20cf2d4034
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.Path property (Excel)
 
-Returns a  **String** value that represents the complete path to the application, excluding the final separator and name of the application.
+Returns a **String** value that represents the complete path to the application, excluding the final separator and name of the application.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
 
 This example displays the complete path to Microsoft Excel.
-
 
 ```vb
 Sub TotalPath() 
@@ -37,8 +37,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

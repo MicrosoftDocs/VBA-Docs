@@ -3,6 +3,7 @@ title: Import or Export a Control Toolbox Page
 ms.prod: outlook
 ms.assetid: 8dd994f5-5c39-10cc-d10b-b74dd229b089
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ ms.date: 06/08/2017
 
  **Note**  Exporting a page does not remove it from the  **Control Toolbox**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

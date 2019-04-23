@@ -1,5 +1,5 @@
 ---
-title: Application.SpecialMode Property (Word)
+title: Application.SpecialMode property (Word)
 keywords: vbawd10.chm158335006
 f1_keywords:
 - vbawd10.chm158335006
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.SpecialMode
 ms.assetid: aa60d4dc-4abe-e461-12c9-fc8e890536ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SpecialMode Property (Word)
+# Application.SpecialMode property (Word)
 
- **True** if Microsoft Word is in a special mode (for example, CopyText mode, or MoveText mode). Read-only **Boolean** .
+ **True** if Microsoft Word is in a special mode (for example, CopyText mode, or MoveText mode). Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SpecialMode`
+_expression_. `SpecialMode`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -48,3 +49,4 @@ End With
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

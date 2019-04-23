@@ -1,5 +1,5 @@
 ---
-title: ListLevel.PictureBullet Property (Word)
+title: ListLevel.PictureBullet property (Word)
 keywords: vbawd10.chm160235534
 f1_keywords:
 - vbawd10.chm160235534
@@ -8,17 +8,18 @@ api_name:
 - Word.ListLevel.PictureBullet
 ms.assetid: 73c44f47-182c-9ef6-106c-fd68000a27c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.PictureBullet Property (Word)
+# ListLevel.PictureBullet property (Word)
 
 Returns an  **[InlineShape](Word.InlineShape.md)** object that represents a picture bullet.
 
 
 ## Syntax
 
- _expression_. `PictureBullet`
+_expression_. `PictureBullet`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
@@ -42,3 +43,4 @@ End Sub
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application Object (Visio)
+title: Application object (Visio)
 keywords: vis_sdr.chm10040
 f1_keywords:
 - vis_sdr.chm10040
@@ -8,10 +8,11 @@ api_name:
 - Visio.Application
 ms.assetid: 5b3c8939-793f-116f-11b8-1d4170d95a63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application Object (Visio)
+# Application object (Visio)
 
 Represents an instance of Visio. An external program typically creates or retrieves an  **Application** object before it can retrieve other Visio objects from that instance. Use the Microsoft Visual Basic **CreateObject** function or the **New** keyword to run a new instance, or use the **GetObject** function to retrieve an instance that is already running. You can also use the **CreateObject** function with the **InvisibleApp** object to run a new instance that is invisible. Set the value of the **InvisibleApp** object's **Visible** property to **True** to show it.
 
@@ -46,7 +47,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterModal](./Visio.Application.AfterModal.md)|
 |[AfterRemoveHiddenInformation](./Visio.Application.AfterRemoveHiddenInformation.md)|
@@ -159,7 +160,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddUndoUnit](./Visio.Application.AddUndoUnit.md)|
 |[BeginUndoScope](./Visio.Application.BeginUndoScope.md)|
@@ -192,7 +193,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./Visio.Application.Active.md)|
 |[ActiveDocument](./Visio.Application.ActiveDocument.md)|
@@ -278,3 +279,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[WindowHandle32](./Visio.Application.WindowHandle32.md)|
 |[Windows](./Visio.Application.Windows.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

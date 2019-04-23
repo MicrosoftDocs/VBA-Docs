@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundWidth Property (PowerPoint)
+title: TextRange.BoundWidth property (PowerPoint)
 keywords: vbapp10.chm569008
 f1_keywords:
 - vbapp10.chm569008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.BoundWidth
 ms.assetid: 409d1c66-8956-cdd0-2328-f1cbe584f778
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.BoundWidth Property (PowerPoint)
+# TextRange.BoundWidth property (PowerPoint)
 
 Returns the width (in points) of the text bounding box for the specified text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. `BoundWidth`
+_expression_. `BoundWidth`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -52,3 +53,4 @@ End With
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

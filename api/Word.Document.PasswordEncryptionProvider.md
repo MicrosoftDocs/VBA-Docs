@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionProvider Property (Word)
+title: Document.PasswordEncryptionProvider property (Word)
 keywords: vbawd10.chm158007663
 f1_keywords:
 - vbawd10.chm158007663
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.PasswordEncryptionProvider
 ms.assetid: 473e7599-4c04-4a29-6d5c-70228900dedf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PasswordEncryptionProvider Property (Word)
+# Document.PasswordEncryptionProvider property (Word)
 
 Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents with passwords. Read-only.
 
 
 ## Syntax
 
- _expression_. `PasswordEncryptionProvider`
+_expression_. `PasswordEncryptionProvider`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

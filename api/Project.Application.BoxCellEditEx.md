@@ -1,5 +1,5 @@
 ---
-title: Application.BoxCellEditEx Method (Project)
+title: Application.BoxCellEditEx method (Project)
 keywords: vbapj.chm2156
 f1_keywords:
 - vbapj.chm2156
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxCellEditEx
 ms.assetid: 86405780-ea5f-d32b-b2e5-3d3999c1877d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxCellEditEx Method (Project)
+# Application.BoxCellEditEx method (Project)
 
 Sets the properties of an individual cell in a data template for a Network Diagram view (PERT chart), where the font color can be specified with a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `BoxCellEditEx`( ` _Name_`, ` _Cell_`, ` _FieldName_`, ` _Font_`, ` _FontSize_`, ` _FontColor_`, ` _Bold_`, ` _Italic_`, ` _Underline_`, ` _HorizontalAlignment_`, ` _VerticalAlignment_`, ` _TextLineLimit_`, ` _ShowLabel_`, ` _Label_`, ` _DateFormat_` )
+_expression_. `BoxCellEditEx`( `_Name_`, `_Cell_`, `_FieldName_`, `_Font_`, `_FontSize_`, `_FontColor_`, `_Bold_`, `_Italic_`, `_Underline_`, `_HorizontalAlignment_`, `_VerticalAlignment_`, `_TextLineLimit_`, `_ShowLabel_`, `_Label_`, `_DateFormat_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -74,4 +75,4 @@ End Sub
 
  **Note**  If you use any of the **PjColor** enumeration constants for the _FontColor_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxCellEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[BoxCellEdit](Project.Application.BoxCellEdit.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

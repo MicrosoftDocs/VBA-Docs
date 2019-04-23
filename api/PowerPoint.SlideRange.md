@@ -1,5 +1,5 @@
-﻿---
-title: SlideRange Object (PowerPoint)
+---
+title: SlideRange object (PowerPoint)
 keywords: vbapp10.chm532000
 f1_keywords:
 - vbapp10.chm532000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SlideRange
 ms.assetid: 440ab59d-744a-209f-bf28-d0acd3a21e1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange Object (PowerPoint)
+# SlideRange object (PowerPoint)
 
 A collection that represents a notes page or a slide range, which is a set of slides that can contain as little as a single slide or as much as all the slides in a presentation. 
 
@@ -125,3 +126,4 @@ ActivePresentation.Slides(1).NotesPage.Shapes _
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

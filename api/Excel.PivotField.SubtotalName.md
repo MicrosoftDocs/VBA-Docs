@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.SubtotalName
 ms.assetid: db2f8366-75a4-edca-f46f-f0bff083ccbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.SubtotalName property (Excel)
 
-Returns or sets the text string label displayed in the subtotal column or row heading in the specified PivotTable report. The default value is the string "Subtotal". Read/write  **String** .
+Returns or sets the text string label displayed in the subtotal column or row heading in the specified PivotTable report. The default value is the string "Subtotal". Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `SubtotalName`
+_expression_. `SubtotalName`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveSheet.PivotTables("PivotTable2") _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

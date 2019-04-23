@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.HTMLDivisions Property (Word)
+title: HTMLDivision.HTMLDivisions property (Word)
 keywords: vbawd10.chm166133767
 f1_keywords:
 - vbawd10.chm166133767
@@ -8,19 +8,20 @@ api_name:
 - Word.HTMLDivision.HTMLDivisions
 ms.assetid: 1a318e10-d447-1700-cc52-ed4cda508f3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HTMLDivision.HTMLDivisions Property (Word)
+# HTMLDivision.HTMLDivisions property (Word)
 
 Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an HTML division in a Web document.
 
 
 ## Syntax
 
- _expression_. `HTMLDivisions`
+_expression_. `HTMLDivisions`
 
- _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
+_expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
 ## Example
@@ -78,3 +79,4 @@ End Sub
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

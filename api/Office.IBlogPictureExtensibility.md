@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility Object (Office)
+title: IBlogPictureExtensibility object (Office)
 keywords: vbaof11.chm329000
 f1_keywords:
 - vbaof11.chm329000
@@ -7,11 +7,12 @@ ms.prod: office
 api_name:
 - Office.IBlogPictureExtensibility
 ms.assetid: 07cedf63-0c59-5c5e-25df-1d627db89cbe
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
-# IBlogPictureExtensibility Object (Office)
+# IBlogPictureExtensibility object (Office)
 
 Represents an object that provides the ability to manipulate blog images.
 
@@ -21,20 +22,9 @@ Represents an object that provides the ability to manipulate blog images.
 Pictures are stored with picture providers in an account set up by the user.
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[BlogPictureProviderProperties](Office.IBlogPictureExtensibility.BlogPictureProviderProperties.md)|
-|[CreatePictureAccount](Office.IBlogPictureExtensibility.CreatePictureAccount.md)|
-|[PublishPicture](Office.IBlogPictureExtensibility.PublishPicture.md)|
-
 ## See also
 
+- [IBlogPictureExtensibility object members](overview/Library-Reference/iblogpictureextensibility-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

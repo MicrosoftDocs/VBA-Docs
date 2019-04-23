@@ -1,5 +1,5 @@
 ---
-title: Master.OpenIconWindow Method (Visio)
+title: Master.OpenIconWindow method (Visio)
 keywords: vis_sdr.chm10716410
 f1_keywords:
 - vis_sdr.chm10716410
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.OpenIconWindow
 ms.assetid: 5e2b2437-05cc-4855-e0bb-96b097c98d3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.OpenIconWindow Method (Visio)
+# Master.OpenIconWindow method (Visio)
 
 Opens an icon window that shows a master's icon.
 
 
 ## Syntax
 
- _expression_. `OpenIconWindow`
+_expression_. `OpenIconWindow`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -52,4 +53,4 @@ Public Sub OpenIconWindow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

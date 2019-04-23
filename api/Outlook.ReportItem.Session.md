@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Session Property (Outlook)
+title: ReportItem.Session property (Outlook)
 keywords: vbaol11.chm1636
 f1_keywords:
 - vbaol11.chm1636
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ReportItem.Session
 ms.assetid: b9599afe-1c2b-36b2-2ce4-8e781f32975a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportItem.Session Property (Outlook)
+# ReportItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

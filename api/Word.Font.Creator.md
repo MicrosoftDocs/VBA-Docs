@@ -1,5 +1,5 @@
 ---
-title: Font.Creator Property (Word)
+title: Font.Creator property (Word)
 keywords: vbawd10.chm156369897
 f1_keywords:
 - vbawd10.chm156369897
@@ -8,19 +8,20 @@ api_name:
 - Word.Font.Creator
 ms.assetid: e3b7d8aa-92da-921f-d1c9-b0db66965e0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Creator Property (Word)
+# Font.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

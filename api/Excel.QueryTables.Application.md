@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTables.Application
 ms.assetid: 428b9fbb-8119-0de6-d86a-719edbe5d667
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
+_expression_ A variable that represents a [QueryTables](Excel.QueryTables.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [QueryTables Object](Excel.QueryTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

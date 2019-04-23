@@ -7,6 +7,7 @@ f1_keywords:
 ms.assetid: 39e312e0-9b58-e1fe-7a98-be5e225a3c0c
 ms.date: 06/08/2017
 ms.prod: access
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ _expression_ A variable that represents a **CurrentProject** object.
 
 - [CurrentProject Object](../../../api/Access.CurrentProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

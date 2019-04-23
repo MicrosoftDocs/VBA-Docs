@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4ef61c19-d77d-45e1-9b76-421716232cc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabel.VerticalAlignment Property (PowerPoint)](http://msdn.microsoft.com/library/2be75c8e-9859-688d-689b-7ce935333664%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

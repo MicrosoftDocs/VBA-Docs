@@ -1,14 +1,15 @@
 ---
-title: PjBarSize Enumeration (Project)
+title: PjBarSize enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBarSize
 ms.assetid: 683c9505-2d2a-0239-d416-8918b587f70e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjBarSize Enumeration (Project)
+# PjBarSize enumeration (Project)
 
 Contains constants that specify the height of a bar in points.
 
@@ -24,3 +25,4 @@ Contains constants that specify the height of a bar in points.
 |**pjBarSize6**|6|Bar size 6 points.|
 |**pjBarSize8**|8|Bar size 8 points.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

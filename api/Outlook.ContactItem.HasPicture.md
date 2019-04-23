@@ -1,5 +1,5 @@
 ---
-title: ContactItem.HasPicture Property (Outlook)
+title: ContactItem.HasPicture property (Outlook)
 keywords: vbaol11.chm1092
 f1_keywords:
 - vbaol11.chm1092
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.HasPicture
 ms.assetid: 5e835af9-bcee-692d-f486-5f8a4a0efa1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.HasPicture Property (Outlook)
+# ContactItem.HasPicture property (Outlook)
 
 Returns a  **Boolean** value that is **True** if a **Contacts** item has a picture associated with it. Read-only
 
 
 ## Syntax
 
- _expression_. `HasPicture`
+_expression_. `HasPicture`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
@@ -82,3 +83,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

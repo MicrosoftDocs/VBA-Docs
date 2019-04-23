@@ -1,14 +1,15 @@
 ---
-title: InvisibleApp.BeforeShapeDelete Event (Visio)
+title: InvisibleApp.BeforeShapeDelete event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeShapeDelete
 ms.assetid: 7a9aa39e-755d-873c-c7f7-b84fe435b5de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeforeShapeDelete Event (Visio)
+# InvisibleApp.BeforeShapeDelete event (Visio)
 
 Occurs before a shape is deleted.
 
@@ -45,4 +46,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 For performance considerations, the  **Document** object's event set does not include the **BeforeShapeDelete** event. To sink the **BeforeShapeDelete** event from a **Document** object (and from the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

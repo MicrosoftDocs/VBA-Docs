@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.ReplaceChildSubtree Method (Office)
+title: CustomXMLNode.ReplaceChildSubtree method (Office)
 keywords: vbaof11.chm294027
 f1_keywords:
 - vbaof11.chm294027
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.ReplaceChildSubtree
 ms.assetid: 955ec2ab-c6c9-242c-5e05-3ff03b00b120
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLNode.ReplaceChildSubtree Method (Office)
+# CustomXMLNode.ReplaceChildSubtree method (Office)
 
 Removes the specified node (and its subtree) from the main tree, and replaces it with a different subtree in the same location.
 
 
 ## Syntax
 
- _expression_. `ReplaceChildSubtree`( `_XML_`, `_OldNode_` )
+_expression_.**ReplaceChildSubtree**(_XML_, _OldNode_)
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -63,10 +62,6 @@ With ActiveDocument
 
 ## See also
 
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)
 
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

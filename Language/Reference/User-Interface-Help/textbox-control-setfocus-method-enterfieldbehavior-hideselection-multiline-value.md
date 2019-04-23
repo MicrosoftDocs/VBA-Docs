@@ -1,37 +1,35 @@
 ---
-title: TextBox Control, SetFocus Method, EnterFieldBehavior, HideSelection, MultiLine, Value Properties Example
+title: TextBox control, SetFocus method, EnterFieldBehavior, HideSelection, MultiLine, Value properties example
 keywords: fm20.chm5225188
 f1_keywords:
 - fm20.chm5225188
 ms.prod: office
 ms.assetid: 144cad11-7ddb-0f46-96fe-8b4da3f665e4
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# TextBox Control, SetFocus Method, EnterFieldBehavior, HideSelection, MultiLine, Value Properties Example
+# TextBox control, SetFocus method, EnterFieldBehavior, HideSelection, MultiLine, Value properties example
 
-The following example demonstrates the  **HideSelection** property in the context of either a single form or more than one form. The user can select text in a **TextBox** and TAB to other controls on a form, as well as transfer the focus to a second form. This code sample also uses the **SetFocus** method, and the **EnterFieldBehavior**, **MultiLine**, and **Value** properties.
+The following example demonstrates the **[HideSelection](hideselection-property.md)** property in the context of either a single form or more than one form. 
+
+The user can select text in a **[TextBox](textbox-control.md)** and tab to other controls on a form, as well as transfer the focus to a second form. This code sample also uses the **[SetFocus](setfocus-method.md)** method, and the **[EnterFieldBehavior](enterfieldbehavior-property.md)**, **[MultiLine](multiline-property.md)**, and **[Value](value-property-microsoft-forms.md)** properties.
 
 To use this example, follow these steps:
 
-
-
-
 1. Copy this sample code (except for the last event subroutine) to the Declarations portion of a form.
     
-2. Add a large  **TextBox** named TextBox1, a **ToggleButton** named ToggleButton1, and a **CommandButton** named CommandButton1.
+2. Add a large **TextBox** named TextBox1, a **[ToggleButton](togglebutton-control.md)** named ToggleButton1, and a **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 3. Insert a second form into this project named UserForm2.
     
 4. Paste the last event subroutine of this listing into the Declarations section of UserForm2.
     
-5. In this form, add a  **CommandButton** named CommandButton1.
+5. In this form, add a **CommandButton** named CommandButton1.
     
 6. Run UserForm1.
     
-
-
 
 
 ```vb
@@ -42,7 +40,7 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -57,7 +55,7 @@ Private Sub ToggleButton1_Click()
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -82,18 +80,20 @@ Private Sub UserForm_Initialize()
  TextBox1.HideSelection = True 
  ToggleButton1.Caption = "Selection Hidden" 
  ToggleButton1.Value = False 
- 
+
 End Sub
+```
+
+<br/>
+
+
 ```vb
 '
 ' ***** Code for UserForm2 *****
 
-
-
-```vb
 Private Sub CommandButton1_Click() 
  UserForm2.Hide 
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

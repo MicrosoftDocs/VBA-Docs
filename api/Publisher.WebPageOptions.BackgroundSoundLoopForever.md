@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.BackgroundSoundLoopForever Property (Publisher)
+title: WebPageOptions.BackgroundSoundLoopForever property (Publisher)
 keywords: vbapb10.chm544775
 f1_keywords:
 - vbapb10.chm544775
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebPageOptions.BackgroundSoundLoopForever
 ms.assetid: f2e90665-09e9-5215-59e4-f93e4469d0df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebPageOptions.BackgroundSoundLoopForever Property (Publisher)
+# WebPageOptions.BackgroundSoundLoopForever property (Publisher)
 
 Returns a  **Boolean** value that specifies whether the background sound attached to the Web page should be repeated infinitely. Read-only.
 
 
 ## Syntax
 
- _expression_. **BackgroundSoundLoopForever**
+_expression_.**BackgroundSoundLoopForever**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 
@@ -51,4 +52,4 @@ With theWPO
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

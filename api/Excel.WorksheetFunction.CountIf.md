@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CountIf Method (Excel)
+title: WorksheetFunction.CountIf method (Excel)
 keywords: vbaxl10.chm137242
 f1_keywords:
 - vbaxl10.chm137242
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CountIf
 ms.assetid: d0251b63-cc9e-a58c-1862-adbd58004126
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CountIf Method (Excel)
+# WorksheetFunction.CountIf method (Excel)
 
 Counts the number of cells within a range that meet the given criteria.
 
 
 ## Syntax
 
- _expression_. `CountIf`( `_Arg1_` , `_Arg2_` )
+_expression_. `CountIf`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

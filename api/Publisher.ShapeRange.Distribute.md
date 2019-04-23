@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Distribute Method (Publisher)
+title: ShapeRange.Distribute method (Publisher)
 keywords: vbapb10.chm2294017
 f1_keywords:
 - vbapb10.chm2294017
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Distribute
 ms.assetid: a145fb46-d7b6-bc3c-b7fd-cdb892fda179
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Distribute Method (Publisher)
+# ShapeRange.Distribute method (Publisher)
 
 Evenly distributes the shapes in the specified shape range.
 
 
 ## Syntax
 
- _expression_. **Distribute**(**_DistributeCmd_**,  **_RelativeTo_**)
+_expression_.**Distribute**(**_DistributeCmd_**,  **_RelativeTo_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -47,7 +48,7 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies.|
 | **msoTrue**|Distribute the shapes evenly over the entire horizontal or vertical space on the page.|
@@ -111,4 +112,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

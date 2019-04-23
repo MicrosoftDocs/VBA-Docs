@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (Word)
+title: ThreeDFormat.SetExtrusionDirection method (Word)
 keywords: vbawd10.chm164626446
 f1_keywords:
 - vbawd10.chm164626446
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 651b2b17-d87b-0007-3722-dc330f3e1f2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (Word)
+# ThreeDFormat.SetExtrusionDirection method (Word)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 
 
 ## Syntax
 
- _expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
+_expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

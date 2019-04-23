@@ -1,14 +1,15 @@
 ---
-title: Availability Object (Project)
+title: Availability object (Project)
 ms.prod: project-server
 api_name:
 - Project.Availability
 ms.assetid: 2b832aed-2b58-f020-2a2c-8756ec7ec1a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Availability Object (Project)
+# Availability object (Project)
 
 
  
@@ -57,7 +58,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.Availability.Delete.md)|
 
@@ -65,7 +66,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Availability.Application.md)|
 |[AvailableFrom](Project.Availability.AvailableFrom.md)|
@@ -74,3 +75,4 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 |[Index](Project.Availability.Index.md)|
 |[Parent](Project.Availability.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

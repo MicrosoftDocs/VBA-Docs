@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: d6d700f2-5df5-5d26-a6ee-706ca4c1a12a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,3 +39,5 @@ Change the parameter type from Text to Database, and then try the operation agai
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.VerticalAlignment
 ms.assetid: a3f78544-ad72-2314-a05a-3ba6136220cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that represents the vertical alignment of the associated  **[Ran
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

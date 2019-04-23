@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Creator Property (Word)
+title: LeaderLines.Creator property (Word)
 keywords: vbawd10.chm207749269
 f1_keywords:
 - vbawd10.chm207749269
@@ -8,17 +8,18 @@ api_name:
 - Word.LeaderLines.Creator
 ms.assetid: 2e23e29b-6008-d534-9160-10ec27c21b98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LeaderLines.Creator Property (Word)
+# LeaderLines.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[LeaderLines](Word.LeaderLines.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LeaderLines Object](Word.LeaderLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

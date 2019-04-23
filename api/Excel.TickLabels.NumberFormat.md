@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.NumberFormat
 ms.assetid: f7bea9aa-73bf-9592-0764-28fa01eb5f48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the format code for the obje
 
 ## Syntax
 
- _expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The format code is the same string as the  **Format Codes** option in the **Form
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

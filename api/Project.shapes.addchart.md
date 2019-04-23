@@ -1,17 +1,18 @@
 ---
-title: Shapes.AddChart Method (Project)
+title: Shapes.AddChart method (Project)
 ms.prod: project-server
 ms.assetid: d404a9de-c1aa-c2a0-bf85-dc1f1735cf3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddChart Method (Project)
+# Shapes.AddChart method (Project)
 Creates a chart at the specified location on the active report. Returns a  **Shape** object that represents the chart.
 
 ## Syntax
 
- _expression_. `AddChart` _(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
+_expression_. `AddChart` _(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -23,7 +24,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|**Integer**|Specifies the color style of the chart. The values correspond to the  **Change Colors** drop-down list on the **Chart Styles** group, on the **DESIGN** tab, under **CHART TOOLS** on the ribbon (but the values are not in the same order).|
-| _Type_|Optional|**XlChartType**|The type of chart to add, such as a column chart or pie chart.|
+| _Type_|Optional|**xlChartType**|The type of chart to add, such as a column chart or pie chart.|
 | _Left_|Optional|**Single**|The position, measured in points, of the left edge of the chart.|
 | _Top_|Optional|**Single**|The position, measured in points, of the top edge of the chart.|
 | _Width_|Optional|**Single**|The width of the chart, measured in points.|
@@ -75,3 +76,5 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

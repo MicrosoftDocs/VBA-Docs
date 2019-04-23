@@ -3,6 +3,7 @@ title: Include the Original Body in an Item Resulting from an Action
 ms.prod: outlook
 ms.assetid: 02806758-f126-2afd-2037-2a7a7292fb9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,3 +44,4 @@ Note that the child  **body** element of the **action** element can contain one 
 | **prefix**|The body of the current item is included in the body of the resulting item and prefixed with the quotation character.|
 | **user**|The user's preferences are applied in how the body should be handled.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

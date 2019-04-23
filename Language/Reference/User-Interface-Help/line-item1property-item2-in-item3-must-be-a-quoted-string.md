@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bdc4f696-a8c7-d505-2e06-59c1d3f9ecc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a [property](../../Glossary/vbe-glossary.md#property) that should appear inside quotation marks (" "), but the quotation marks are missing. This line in the form description is ignored.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

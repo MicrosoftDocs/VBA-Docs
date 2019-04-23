@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.Application Property (PowerPoint)
+title: PrintOptions.Application property (PowerPoint)
 keywords: vbapp10.chm517001
 f1_keywords:
 - vbapp10.chm517001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.Application
 ms.assetid: 6ae689d3-265a-7277-9dc1-8deb7cdcfb8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.Application Property (PowerPoint)
+# PrintOptions.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

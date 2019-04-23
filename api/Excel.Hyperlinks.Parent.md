@@ -8,6 +8,7 @@ api_name:
 - Excel.Hyperlinks.Parent
 ms.assetid: 75a2323c-1b57-c3a4-85be-54d3a76433f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
+_expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

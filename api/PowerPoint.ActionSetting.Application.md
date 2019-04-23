@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.Application Property (PowerPoint)
+title: ActionSetting.Application property (PowerPoint)
 keywords: vbapp10.chm567001
 f1_keywords:
 - vbapp10.chm567001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ActionSetting.Application
 ms.assetid: a8792fb6-587c-20ee-1fe7-bf0927f96803
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActionSetting.Application Property (PowerPoint)
+# ActionSetting.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [ActionSetting Object](PowerPoint.ActionSetting.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

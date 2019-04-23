@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Session Property (Outlook)
+title: BusinessCardView.Session property (Outlook)
 keywords: vbaol11.chm2919
 f1_keywords:
 - vbaol11.chm2919
@@ -8,19 +8,20 @@ api_name:
 - Outlook.BusinessCardView.Session
 ms.assetid: 18e5fb02-1d57-3c47-74ed-0409d734b4cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView.Session Property (Outlook)
+# BusinessCardView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+_expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

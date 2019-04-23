@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.UseOnlyPublicationFonts Property (Publisher)
+title: AdvancedPrintOptions.UseOnlyPublicationFonts property (Publisher)
 keywords: vbapb10.chm7077894
 f1_keywords:
 - vbapb10.chm7077894
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts
 ms.assetid: f5973b32-37f3-8f65-1437-a465aa488ef4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.UseOnlyPublicationFonts Property (Publisher)
+# AdvancedPrintOptions.UseOnlyPublicationFonts property (Publisher)
 
 Returns or sets a  **Boolean** that represents whether to only use publication fonts for printing the specified publication. **True** to print the specified publication using only fonts downloaded from your computer. Read/write. The default is **True**.
 
 
 ## Syntax
 
- _expression_. **UseOnlyPublicationFonts**
+_expression_.**UseOnlyPublicationFonts**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
@@ -61,3 +62,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

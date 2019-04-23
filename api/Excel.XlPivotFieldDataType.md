@@ -1,14 +1,15 @@
 ---
-title: xlPivotFieldDataType enumeration (Excel)
+title: XlPivotFieldDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFieldDataType
 ms.assetid: ce96a616-ab5e-c281-35bf-1072a4e87598
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPivotFieldDataType enumeration (Excel)
+# XlPivotFieldDataType enumeration (Excel)
 
 Specifies the type of data in the  **PivotTable** field.
 
@@ -24,4 +25,4 @@ Specifies the type of data in the  **PivotTable** field.
 
 This enumeration is used with the  **DataType** property of the **PivotField** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

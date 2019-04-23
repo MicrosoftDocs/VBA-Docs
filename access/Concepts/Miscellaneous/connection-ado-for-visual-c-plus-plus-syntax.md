@@ -3,6 +3,7 @@ title: Connection (ADO for Visual C++ syntax)
 ms.prod: access
 ms.assetid: 04ec8840-a841-1e94-e606-f1c1fb190533
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -84,3 +85,5 @@ ms.date: 10/12/2018
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

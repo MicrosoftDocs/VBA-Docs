@@ -1,5 +1,5 @@
 ---
-title: SharingItem.SaveAs Method (Outlook)
+title: SharingItem.SaveAs method (Outlook)
 keywords: vbaol11.chm630
 f1_keywords:
 - vbaol11.chm630
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.SaveAs
 ms.assetid: b18fae0e-b8be-9846-2f97-15b25f5f053b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.SaveAs Method (Outlook)
+# SharingItem.SaveAs method (Outlook)
 
 Saves the  **[SharingItem](Outlook.SharingItem.md)** to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_Path_` , `_Type_` )
+_expression_. `SaveAs`( `_Path_` , `_Type_` )
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Saves the  **[SharingItem](Outlook.SharingItem.md)** to the specified path and i
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML**, **olMSG**, **olRTF**, **olTemplate**, **olDoc**, **olTXT**, **olVCal**, **olVCard**, **olICal**, or **olMSGUnicode**.|
 
 ## Remarks
 
@@ -90,3 +91,4 @@ End Sub
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: ad6170b9-830d-f772-2da8-58ca79901a28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,4 +29,4 @@ ms.date: 06/08/2017
 
  **Note**   You also can associate a macro or add-on with a shape by entering a formula that uses the RUNADDON function in any ShapeSheet cell.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

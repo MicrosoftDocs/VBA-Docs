@@ -1,14 +1,15 @@
 ---
-title: PjBaselines Enumeration (Project)
+title: PjBaselines enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBaselines
 ms.assetid: 0d359447-5fd9-1378-2593-f410672dc858
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjBaselines Enumeration (Project)
+# PjBaselines enumeration (Project)
 
 Contains constants that specify a baseline.
 
@@ -28,3 +29,4 @@ Contains constants that specify a baseline.
 |**pjBaseline8**|8|Baseline8.|
 |**pjBaseline9**|9|Baseline9.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

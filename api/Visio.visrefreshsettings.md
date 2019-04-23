@@ -1,15 +1,16 @@
 ---
-title: VisRefreshSettings Enumeration (Visio)
+title: VisRefreshSettings enumeration (Visio)
 keywords: vis_sdr.chm70490
 f1_keywords:
 - vis_sdr.chm70490
 ms.prod: visio
 ms.assetid: 3c545175-e83b-dd03-b305-d704881c8965
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisRefreshSettings Enumeration (Visio)
+# VisRefreshSettings enumeration (Visio)
 
 Data recordset refresh constants passed to and returned by the  **[DataRecordset.RefreshSettings](Visio.DataRecordset.RefreshSettings.md)** property.
 
@@ -23,3 +24,4 @@ Data recordset refresh constants passed to and returned by the  **[DataRecordset
 | **visRefreshNoReconcilationUI**|2|Disables display of the  **Refresh Conflicts** task pane in the Microsoft Visio user interface after data is refreshed.|
 | **visRefreshOverwriteAll**|1|When data is refreshed, overwrites all user changes made since the previous refresh operation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

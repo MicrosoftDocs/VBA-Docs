@@ -1,5 +1,5 @@
 ---
-title: Layer.Remove Method (Visio)
+title: Layer.Remove method (Visio)
 keywords: vis_sdr.chm11816470
 f1_keywords:
 - vis_sdr.chm11816470
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layer.Remove
 ms.assetid: d46c814b-1937-de81-de1b-e670667920c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layer.Remove Method (Visio)
+# Layer.Remove method (Visio)
 
 Removes a shape from a layer.
 
 
 ## Syntax
 
- _expression_. `Remove`( `_SheetObject_` , `_fPresMems_` )
+_expression_. `Remove`( `_SheetObject_` , `_fPresMems_` )
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
@@ -43,4 +44,4 @@ If the shape is a group and  _fPresMems_ is non-zero, member shapes of the group
 
 Removing a shape from a layer does not delete the shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

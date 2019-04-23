@@ -1,14 +1,15 @@
 ---
-title: WdBuiltInProperty Enumeration (Word)
+title: WdBuiltInProperty enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBuiltInProperty
 ms.assetid: 4962bb86-d6bf-1537-111d-1ea326b3a886
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdBuiltInProperty Enumeration (Word)
+# WdBuiltInProperty enumeration (Word)
 
 Specifies a built-in document property.
 
@@ -47,3 +48,4 @@ Specifies a built-in document property.
 | **wdPropertyVBATotalEdit**|13|Number of edits to VBA project.|
 | **wdPropertyWords**|15|Word count.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

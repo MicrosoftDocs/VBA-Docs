@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Address Property (Visio)
+title: Hyperlink.Address property (Visio)
 keywords: vis_sdr.chm15013065
 f1_keywords:
 - vis_sdr.chm15013065
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlink.Address
 ms.assetid: 289cc2d6-d147-0ef9-e09e-12127c74072a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Address Property (Visio)
+# Hyperlink.Address property (Visio)
 
 Gets or sets the address for a shape's  **Hyperlink** object, the address to which the hyperlink navigates. Read/write.
 
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
@@ -61,4 +62,4 @@ Public Sub Address_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

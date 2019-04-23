@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.GetConversation Method (Outlook)
+title: TaskRequestAcceptItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3500
 f1_keywords:
 - vbaol11.chm3500
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestAcceptItem.GetConversation
 ms.assetid: bf64cf33-ce6d-a37a-09e4-f2970f669983
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.GetConversation Method (Outlook)
+# TaskRequestAcceptItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)' object.
+_expression_ A variable that represents a '[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

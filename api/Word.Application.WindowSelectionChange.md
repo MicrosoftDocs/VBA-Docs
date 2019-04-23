@@ -1,5 +1,5 @@
 ---
-title: Application.WindowSelectionChange Event (Word)
+title: Application.WindowSelectionChange event (Word)
 keywords: vbawd10.chm4000011
 f1_keywords:
 - vbawd10.chm4000011
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.WindowSelectionChange
 ms.assetid: 2c5cc640-a3a4-46b2-3352-20a057854b3a
 ms.date: 08/20/2018
+localization_priority: Normal
 ---
 
 
-# Application.WindowSelectionChange Event (Word)
+# Application.WindowSelectionChange event (Word)
 
 Occurs when the selection changes in the active document window.
 
@@ -50,3 +51,4 @@ End Sub
 
 - [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

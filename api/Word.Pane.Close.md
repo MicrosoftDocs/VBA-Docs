@@ -1,5 +1,5 @@
 ---
-title: Pane.Close Method (Word)
+title: Pane.Close method (Word)
 keywords: vbawd10.chm157286501
 f1_keywords:
 - vbawd10.chm157286501
@@ -8,19 +8,20 @@ api_name:
 - Word.Pane.Close
 ms.assetid: 05e27bd2-151e-a972-9da1-13dc1d81f513
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.Close Method (Word)
+# Pane.Close method (Word)
 
 Closes the specified Mail Merge data source, pane, or task.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Example
@@ -39,3 +40,4 @@ If ActiveDocument.ActiveWindow.Panes.Count >= 2 Then _
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

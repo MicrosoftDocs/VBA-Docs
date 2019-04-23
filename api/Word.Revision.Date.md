@@ -1,5 +1,5 @@
 ---
-title: Revision.Date Property (Word)
+title: Revision.Date property (Word)
 keywords: vbawd10.chm159449090
 f1_keywords:
 - vbawd10.chm159449090
@@ -8,17 +8,18 @@ api_name:
 - Word.Revision.Date
 ms.assetid: 3c8941e1-7b1e-23d0-89f6-a83db6c00f20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Revision.Date Property (Word)
+# Revision.Date property (Word)
 
-The date and time that the tracked change was made. Read-only  **Date** .
+The date and time that the tracked change was made. Read-only  **Date**.
 
 
 ## Syntax
 
- _expression_. `Date`
+_expression_. `Date`
 
  _expression_ A variable that represents a '[Revision](Word.Revision.md)' object.
 
@@ -43,3 +44,4 @@ End If
 
 [Revision Object](Word.Revision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

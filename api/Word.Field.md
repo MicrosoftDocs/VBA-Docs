@@ -1,5 +1,5 @@
 ---
-title: Field Object (Word)
+title: Field object (Word)
 keywords: vbawd10.chm2351
 f1_keywords:
 - vbawd10.chm2351
@@ -8,10 +8,11 @@ api_name:
 - Word.Field
 ms.assetid: 75139aa4-89f4-2ffb-b964-8dc805b9a32b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field Object (Word)
+# Field object (Word)
 
 Represents a field. The  **Field** object is a member of the **Fields** collection. The **[Fields](Word.fields.md)** collection represents the fields in a selection, range, or document.
 
@@ -47,6 +48,6 @@ MsgBox myField.Result
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

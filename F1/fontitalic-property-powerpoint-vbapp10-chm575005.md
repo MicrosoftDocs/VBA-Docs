@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e44bff59-37dd-4c9c-aa79-181348909329
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Font.Italic Property (PowerPoint)](http://msdn.microsoft.com/library/5fc7e3fe-e103-72ea-42cb-c178b411312a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

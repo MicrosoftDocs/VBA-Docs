@@ -1,5 +1,5 @@
 ---
-title: Shape.DeleteEx Method (Visio)
+title: Shape.DeleteEx method (Visio)
 keywords: vis_sdr.chm11262730
 f1_keywords:
 - vis_sdr.chm11262730
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.DeleteEx
 ms.assetid: df4c164d-576a-acce-3322-7f166eb81e4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.DeleteEx Method (Visio)
+# Shape.DeleteEx method (Visio)
 
 Deletes the additional shapes that are associated with the shape, such as connectors and unselected container members, when the shape is deleted.
 
 
 ## Syntax
 
- _expression_. `DeleteEx`( `_DelFlags_` )
+_expression_. `DeleteEx`( `_DelFlags_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
@@ -42,7 +43,7 @@ Deletes the additional shapes that are associated with the shape, such as connec
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeleteNormal**|0|Match the deletion behavior that is in the user interface.|
 | **visDeleteHealConnectors**|1|Delete connectors that are attached to deleted shapes.|
@@ -50,6 +51,6 @@ Deletes the additional shapes that are associated with the shape, such as connec
 | **visDeleteNoContainerMembers**|4|Do not delete unselected members of containers or lists.|
 | **visDeleteNoAssociatedCallouts**|8|Do not delete unselected callouts that are associated with shapes.|
 
-In a bitwise combination of  _DelFlags_ constants, you cannot combine **visDeleteHealConnectors** and **visDeleteNoHealConnectors** . If you attempt to do so, Microsoft Visio returns an Invalid Parameter error.
+In a bitwise combination of  _DelFlags_ constants, you cannot combine **visDeleteHealConnectors** and **visDeleteNoHealConnectors**. If you attempt to do so, Microsoft Visio returns an Invalid Parameter error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Sort.SortMethod
 ms.assetid: d7f63079-afe8-32ea-d573-158f4e63e74b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Sort.SortMethod property (Excel)
 
-Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](Excel.XlSortMethod.md)** .
+Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](Excel.XlSortMethod.md)**.
 
 
 ## Syntax
 
- _expression_. `SortMethod`
+_expression_. `SortMethod`
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Remarks
@@ -38,3 +39,4 @@ Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](Ex
 
 [Sort Object](Excel.Sort.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

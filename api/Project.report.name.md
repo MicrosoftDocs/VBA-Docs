@@ -1,17 +1,18 @@
 ---
-title: Report.Name Property (Project)
+title: Report.Name property (Project)
 ms.prod: project-server
 ms.assetid: da13696d-313a-3d78-2f1b-34d5fea4c2a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Report.Name Property (Project)
+# Report.Name property (Project)
 Gets or sets the name of the report. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a 'Report' object.
 
@@ -53,3 +54,5 @@ End Sub
 
 [Report Object](Project.report.md)
 [Reports Object](Project.reports.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Point.SecondaryPlot Property (Word)
+title: Point.SecondaryPlot property (Word)
 keywords: vbawd10.chm262145662
 f1_keywords:
 - vbawd10.chm262145662
@@ -8,17 +8,18 @@ api_name:
 - Word.Point.SecondaryPlot
 ms.assetid: 89e56434-2b5a-b93c-cf18-8045cdf2da96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.SecondaryPlot Property (Word)
+# Point.SecondaryPlot property (Word)
 
- **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean** .
+ **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SecondaryPlot`
+_expression_. `SecondaryPlot`
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
@@ -49,3 +50,4 @@ End With
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

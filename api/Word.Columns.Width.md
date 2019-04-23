@@ -1,5 +1,5 @@
 ---
-title: Columns.Width Property (Word)
+title: Columns.Width property (Word)
 keywords: vbawd10.chm155910147
 f1_keywords:
 - vbawd10.chm155910147
@@ -8,17 +8,18 @@ api_name:
 - Word.Columns.Width
 ms.assetid: 011c3c8f-1d80-a7d1-3a05-f634779f158e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Width Property (Word)
+# Columns.Width property (Word)
 
-Returns or sets the width of the specified columns, in points. Read/write  **Long** .
+Returns or sets the width of the specified columns, in points. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
  _expression_ A variable that represents a '[Columns](Word.columns.md)' collection.
 
@@ -44,3 +45,4 @@ objTable.Columns.Width = InchesToPoints(1.5)
 
 [Columns Collection Object](Word.columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

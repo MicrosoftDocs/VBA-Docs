@@ -1,5 +1,5 @@
 ---
-title: Options.PathForPublications Property (Publisher)
+title: Options.PathForPublications property (Publisher)
 keywords: vbapb10.chm1048597
 f1_keywords:
 - vbapb10.chm1048597
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.PathForPublications
 ms.assetid: d33d5eab-eb52-b533-8968-31ddb5e12d99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PathForPublications Property (Publisher)
+# Options.PathForPublications property (Publisher)
 
 Returns a  **String** that represents the default folder for publications. Read.
 
 
 ## Syntax
 
- _expression_. **PathForPublications**
+_expression_.**PathForPublications**
 
  _expression_ A variable that represents a  **Options** object.
 
@@ -41,4 +42,4 @@ Sub PubPath()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

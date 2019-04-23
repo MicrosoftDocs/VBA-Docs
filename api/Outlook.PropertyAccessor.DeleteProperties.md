@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.DeleteProperties Method (Outlook)
+title: PropertyAccessor.DeleteProperties method (Outlook)
 keywords: vbaol11.chm1979
 f1_keywords:
 - vbaol11.chm1979
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyAccessor.DeleteProperties
 ms.assetid: e9c11799-cb75-fd8c-0c98-aca46796bb46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyAccessor.DeleteProperties Method (Outlook)
+# PropertyAccessor.DeleteProperties method (Outlook)
 
 Deletes the properties specified in the array  _SchemaNames_ .
 
 
 ## Syntax
 
- _expression_. `DeleteProperties`( `_SchemaNames_` )
+_expression_. `DeleteProperties`( `_SchemaNames_` )
 
- _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ The caller must have the permission to delete properties. The  **DeletePropertie
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

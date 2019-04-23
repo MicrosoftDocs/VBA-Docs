@@ -3,6 +3,7 @@ title: Solution Storage
 ms.prod: outlook
 ms.assetid: 6f7a6aa6-4379-4a7e-bf28-65958da9e0a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,5 +25,5 @@ ms.date: 06/08/2017
 -  [Delete Data to Reset Solution Storage](../../How-to/Solution-Storage/delete-data-to-reset-solution-storage.md)
     
 -  [Save Auto-Archive Properties of a Folder in Solution Storage](../../How-to/Solution-Storage/save-auto-archive-properties-of-a-folder-in-solution-storage.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

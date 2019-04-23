@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetSortOrder Method (Publisher)
+title: MailMergeDataSource.SetSortOrder method (Publisher)
 keywords: vbapb10.chm6291489
 f1_keywords:
 - vbapb10.chm6291489
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.SetSortOrder
 ms.assetid: 0ecb5f77-2cd1-92c6-b7f2-bf709f015ba5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.SetSortOrder Method (Publisher)
+# MailMergeDataSource.SetSortOrder method (Publisher)
 
 Sets the sort order for mail merge data.
 
 
 ## Syntax
 
- _expression_. **SetSortOrder**(**_SortField1_**,  **_SortAscending1_**,  **_SortField2_**,  **_SortAscending2_**,  **_SortField3_**,  **_SortAscending3_**)
+_expression_.**SetSortOrder**(**_SortField1_**,  **_SortAscending1_**,  **_SortField2_**,  **_SortAscending2_**,  **_SortField3_**,  **_SortAscending3_**)
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -47,4 +48,4 @@ ActiveDocument.MailMerge.DataSource.SetSortOrder _
  SortField2:="LastName", SortField3:="FirstName"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdColor Enumeration (Word)
+title: WdColor enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdColor
 ms.assetid: 582472b5-eac1-6880-7c6b-7c7637eaa31f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdColor Enumeration (Word)
+# WdColor enumeration (Word)
 
 Specifies the 24-bit color to apply.
 
@@ -77,3 +78,4 @@ Specifies the 24-bit color to apply.
 | **wdColorWhite**|16777215|White color.|
 | **wdColorYellow**|65535|Yellow color.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

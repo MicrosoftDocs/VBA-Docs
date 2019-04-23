@@ -1,5 +1,5 @@
 ---
-title: Page.IsWizardPage Property (Publisher)
+title: Page.IsWizardPage property (Publisher)
 keywords: vbapb10.chm393271
 f1_keywords:
 - vbapb10.chm393271
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.IsWizardPage
 ms.assetid: 09c1352d-6760-ad54-aa95-211727c968b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.IsWizardPage Property (Publisher)
+# Page.IsWizardPage property (Publisher)
 
 Returns  **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsWizardPage**
+_expression_.**IsWizardPage**
 
  _expression_ A variable that represents an  **Page** object.
 
@@ -54,4 +55,4 @@ The following example tests to determine whether the specified page is a wizard 
  End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.MoveToPage Method (Publisher)
+title: Shape.MoveToPage method (Publisher)
 keywords: vbapb10.chm2228376
 f1_keywords:
 - vbapb10.chm2228376
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.MoveToPage
 ms.assetid: 1893035f-6739-7480-6ba0-2ca6a42355fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.MoveToPage Method (Publisher)
+# Shape.MoveToPage method (Publisher)
 
 Moves a shape to the specified page.
 
 
 ## Syntax
 
- _expression_. **MoveToPage**(**_Page_**,  **_Left_**,  **_Top_**)
+_expression_.**MoveToPage**(**_Page_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -54,4 +55,4 @@ Public Sub MoveToPage_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

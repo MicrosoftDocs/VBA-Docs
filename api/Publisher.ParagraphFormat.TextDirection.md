@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.TextDirection Property (Publisher)
+title: ParagraphFormat.TextDirection property (Publisher)
 keywords: vbapb10.chm5439507
 f1_keywords:
 - vbapb10.chm5439507
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.TextDirection
 ms.assetid: b96c634d-0e7e-dba8-2bf4-e5baf3afa3d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.TextDirection Property (Publisher)
+# ParagraphFormat.TextDirection property (Publisher)
 
 Returns or sets a  **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextDirection**
+_expression_.**TextDirection**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -36,7 +37,7 @@ The  **TextDirection** property value can be one of the **PbTextDirection** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbTextDirectionLeftToRight**| Text flows from left to right.|
 | **pbTextDirectionMixed**|Return value indicating a range containing some left-to-right text and some right-to-left text.|
@@ -52,4 +53,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _
  .ParagraphFormat.TextDirection = pbTextDirectionRightToLeft
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

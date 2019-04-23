@@ -1,5 +1,5 @@
 ---
-title: Selection.Trim Method (Visio)
+title: Selection.Trim method (Visio)
 keywords: vis_sdr.chm11116615
 f1_keywords:
 - vis_sdr.chm11116615
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Trim
 ms.assetid: 0063d29a-3e47-bb2b-71fd-328c19a0a65b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Trim Method (Visio)
+# Selection.Trim method (Visio)
 
 Trims selected shapes into smaller shapes.
 
 
 ## Syntax
 
- _expression_. `Trim`
+_expression_. `Trim`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -84,4 +85,4 @@ Public Sub Trim_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

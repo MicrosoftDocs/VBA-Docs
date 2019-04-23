@@ -1,5 +1,5 @@
 ---
-title: Shape.MoveIntoTextFlow Method (Publisher)
+title: Shape.MoveIntoTextFlow method (Publisher)
 keywords: vbapb10.chm2228356
 f1_keywords:
 - vbapb10.chm2228356
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.MoveIntoTextFlow
 ms.assetid: d8a2af57-f974-717e-0d97-c8a3aee16f01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.MoveIntoTextFlow Method (Publisher)
+# Shape.MoveIntoTextFlow method (Publisher)
 
-Moves a given shape into the text flow defined by  ** [TextRange Object](Publisher.TextRange.md)**. The shape will always be inserted inline at the beginning of the text flow.
+Moves a given shape into the text flow defined by  **[TextRange Object](Publisher.TextRange.md)**. The shape will always be inserted inline at the beginning of the text flow.
 
 
 ## Syntax
 
- _expression_. **MoveIntoTextFlow**(**_Range_**)
+_expression_.**MoveIntoTextFlow**(**_Range_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -72,4 +73,4 @@ End If
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

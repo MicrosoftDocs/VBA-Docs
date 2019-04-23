@@ -1,5 +1,5 @@
 ---
-title: Range Object
+title: Range object (Excel Graph)
 keywords: vbagr10.chm5207906
 f1_keywords:
 - vbagr10.chm5207906
@@ -7,29 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Range
 ms.assetid: 8bc4841b-72f7-34b5-a299-3357bf8f457b
-ms.date: 06/08/2017
+ms.date: 04/06/2019
+localization_priority: Normal
 ---
 
 
-# Range Object
+# Range object (Excel Graph)
 
 Represents a cell, a row, a column, or a selection of cells that contains one or more contiguous blocks of cells.
 
 
-## Using the Range Object
+## Remarks
 
-The following properties for returning a  **Range** object are described in this section:
+The following properties for returning a **Range** object are described in this section.
 
+### Range property
 
--  **Range** property
-    
--  **Cells** property
-    
-
-## Range Property
-
-Use  **Range**( _arg_), where  _arg_ is the name of the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
-
+Use **Range** (_arg_), where _arg_ is the name of the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
 
 ```vb
 myChart.Application.DataSheet.Range("A5").Value = _ 
@@ -38,27 +32,23 @@ myChart.Application.DataSheet.Range("A5").Value = _
 
 The following example fills the range A1:H8 with the value 20.
 
-
-
-
 ```vb
 myChart.Application.DataSheet.Range("A1:H8").Value = 20
 ```
 
+For more information, see the **[Range](excel.range-graph-property.md)** property.
 
-## Cells Property
+### Cells property
 
-Use  **Cells**( _row_,  _column_), where  _row_ is the row's index number and _column_ is the column's index number, to return a single cell. The following example sets the value of cell A1 to 24 (column A is the second column on the datasheet, and row 1 is the second row on the datasheet).
+Use **Cells** (_row_, _column_), where _row_ is the row's index number and _column_ is the column's index number, to return a single cell. 
 
+The following example sets the value of cell A1 to 24 (column A is the second column on the datasheet, and row 1 is the second row on the datasheet).
 
 ```vb
 myChart.Application.DataSheet.Cells(2, 2).Value = 24
 ```
 
-Although you can also use  `Range("A1")` to return cell A1, there may be times when the **Cells** property is more convenient because you can use a variable for the row or column. The following example creates column and row headings on the datasheet.
-
-
-
+Although you can also use `Range("A1")` to return cell A1, there may be times when the **Cells** property is more convenient because you can use a variable for the row or column. The following example creates column and row headings on the datasheet.
 
 ```vb
 Sub SetUpTable() 
@@ -73,15 +63,22 @@ End With
 End Sub
 ```
 
-Although you can use Visual Basic string functions to alter A1-style references, it's much easier (and much better programming practice) to use the  `Cells(1, 1)` notation.
+Although you can use Visual Basic string functions to alter A1-style references, it's much easier (and a much better programming practice) to use the `Cells(1, 1)` notation.
 
-Use  _expression_. **Cells**( _row_,  _column_), where  _expression_ is an expression that returns a [Range](excel.range-graph-property.md) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the value for cell C5.
+Use_expression_.**Cells** (_row_, _column_), where _expression_ is an expression that returns a **Range** object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. 
 
-
-
+The following example sets the value for cell C5.
 
 ```vb
 myChart.Application.Range("C5:C10").Cells(1, 1).Value = 35
 ```
 
+For more information, see the **[Cells](excel.cells.md)** property.
 
+
+## See also
+
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdEmphasisMark Enumeration (Word)
+title: WdEmphasisMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEmphasisMark
 ms.assetid: f4056578-a523-8b8d-4309-7b5b64cdb897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdEmphasisMark Enumeration (Word)
+# WdEmphasisMark enumeration (Word)
 
 Specifies the type of emphasis mark to use for a character or designated character string.
 
@@ -22,3 +23,4 @@ Specifies the type of emphasis mark to use for a character or designated charact
 | **wdEmphasisMarkOverWhiteCircle**|3|An empty white circle.|
 | **wdEmphasisMarkUnderSolidCircle**|4|A solid black circle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

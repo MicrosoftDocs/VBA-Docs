@@ -1,5 +1,5 @@
 ---
-title: Project.ProjectGuideFunctionalLayoutPage Property (Project)
+title: Project.ProjectGuideFunctionalLayoutPage property (Project)
 keywords: vbapj.chm131088
 f1_keywords:
 - vbapj.chm131088
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.ProjectGuideFunctionalLayoutPage
 ms.assetid: 87a9e383-6b91-669e-86e4-e55b7030b861
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.ProjectGuideFunctionalLayoutPage Property (Project)
+# Project.ProjectGuideFunctionalLayoutPage property (Project)
 
 Gets or sets the Project Guide functional layout page for the specified project. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ProjectGuideFunctionalLayoutPage`
+_expression_. `ProjectGuideFunctionalLayoutPage`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -32,4 +33,4 @@ However, you can still use custom Project Guides and get the default Project Gui
 
 The default value of the  **ProjectGuideFunctionalLayoutPage** property is `gbui://mainpage.htm`, which does not work because Project does not implement the  `gbui://` protocol. The Project Programmability blog ( `https://blogs.msdn.com/project_programmability/`) includes articles that show how to use the Project Guide in a VBA macro and in an add-in that is developed with Visual C# in Microsoft Office development tools in Visual Studio 2010.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

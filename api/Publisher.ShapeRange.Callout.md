@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Callout Property (Publisher)
+title: ShapeRange.Callout property (Publisher)
 keywords: vbapb10.chm2293811
 f1_keywords:
 - vbapb10.chm2293811
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Callout
 ms.assetid: 25b9b444-6cbf-085a-df7f-8899e8e55057
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Callout Property (Publisher)
+# ShapeRange.Callout property (Publisher)
 
 Returns a  **[CalloutFormat](Publisher.CalloutFormat.md)** object representing the formatting of a line callout.
 
 
 ## Syntax
 
- _expression_. **Callout**
+_expression_.**Callout**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -50,4 +51,4 @@ Sub NewShapeItem()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Duplicate Method (Publisher)
+title: ParagraphFormat.Duplicate method (Publisher)
 keywords: vbapb10.chm5439510
 f1_keywords:
 - vbapb10.chm5439510
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.Duplicate
 ms.assetid: 83156999-7867-05c2-9e85-4cc0f580ac6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Duplicate Method (Publisher)
+# ParagraphFormat.Duplicate method (Publisher)
 
 Creates a duplicate of the specified  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object and then returns the new **ParagraphFormat** object.
 
 
 ## Syntax
 
- _expression_. **Duplicate**
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -44,4 +45,4 @@ With ActiveDocument.Pages(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

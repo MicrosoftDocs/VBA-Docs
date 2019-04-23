@@ -1,22 +1,23 @@
 ---
-title: Explorer.ActiveInlineResponse Property (Outlook)
+title: Explorer.ActiveInlineResponse property (Outlook)
 keywords: vbaol11.chm3595
 f1_keywords:
 - vbaol11.chm3595
 ms.assetid: fc38314d-7cff-44f4-9151-6129f918a721
 ms.date: 06/08/2017
 ms.prod: outlook
+localization_priority: Normal
 ---
 
 
-# Explorer.ActiveInlineResponse Property (Outlook)
+# Explorer.ActiveInlineResponse property (Outlook)
 Returns an item object representing the active inline response item in the explorer reading pane. Read-only.
 
 ## Syntax
 
- _expression_. `ActiveInlineResponse`
+_expression_. `ActiveInlineResponse`
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ This property returns  **Null** (**Nothing** in Visual Basic) if no inline respo
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Border.LineWidth Property (Word)
+title: Border.LineWidth property (Word)
 keywords: vbawd10.chm154861572
 f1_keywords:
 - vbawd10.chm154861572
@@ -8,19 +8,20 @@ api_name:
 - Word.Border.LineWidth
 ms.assetid: 31e87acf-fd7f-fa5c-d869-5f46bb7ed169
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Border.LineWidth Property (Word)
+# Border.LineWidth property (Word)
 
 Returns or sets the line width of an object's border. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineWidth`
+_expression_. `LineWidth`
 
- _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ End With
 
 [Border Object](Word.Border.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

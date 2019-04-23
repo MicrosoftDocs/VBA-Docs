@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a9c782ed-3d5a-4741-932f-ec6b7af88b40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Calendar.Enterprise Property (Project)](http://msdn.microsoft.com/library/1e160265-1c49-e95d-f04e-e87ce0222f85%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

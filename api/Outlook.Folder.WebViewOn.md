@@ -1,5 +1,5 @@
 ---
-title: Folder.WebViewOn Property (Outlook)
+title: Folder.WebViewOn property (Outlook)
 keywords: vbaol11.chm2000
 f1_keywords:
 - vbaol11.chm2000
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Folder.WebViewOn
 ms.assetid: 9b483d0e-dea0-9b3e-8ce9-fc136857a428
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.WebViewOn Property (Outlook)
+# Folder.WebViewOn property (Outlook)
 
 Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/write.
 
 
 ## Syntax
 
- _expression_. `WebViewOn`
+_expression_. `WebViewOn`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Remarks
 
-Returns  **True** to display the Web page specified by the **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object.
+Returns  **True** to display the web page specified by the **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object.
 
 Microsoft Outlook uses the rendering engine of the version Windows Internet Explorer installed on the client computer to display the web page. If Internet Explorer is not installed on the client computer, Outlook will not display the web page.
 
@@ -69,3 +70,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

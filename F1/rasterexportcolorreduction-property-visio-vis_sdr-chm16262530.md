@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5e4b198e-83a7-4dbd-bfa2-65f96945c672
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportColorReduction Property (Visio)](http://msdn.microsoft.com/library/7897f3aa-d7d1-4dcc-d4f1-9c38771c0122%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -283,7 +283,2342 @@
         {
             "source_path": "access/concepts/miscellaneous/xml.md",
             "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
-        }
-
+        },
+        {
+            "source_path": "api/publisher.emailmergeenvelope.attachemts.md",
+            "redirect_url": "/office/vba/api/publisher.emailmergeenvelope.attachments"
+        },
+        {
+            "source_path": "language/reference/data-types.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/arithmetic-operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/concatenation-operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/logical-operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/carrot-operator.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/caret-operator"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/readme.md",
+            "redirect_url": "/office/vba/api/overview/language-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/ado-syntax-indexes.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/ado-for-visual-c-plus-plus-syntax-index-for-com"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visual-basic-definitions.md",
+            "redirect_url": "/office/vba/language/glossary/glossary-vba"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visual-basic-menus.md",
+            "redirect_url": "/office/vba/language/reference/menus-commands"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/copy-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu#object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/find-whole-word-only-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu#object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/group-members-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu#object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu#object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/show-hidden-members-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu#object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/view-definition-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu#object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-windowc-visual-basic-user-interface.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/break-command-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/design-mode-and-exit-design-mode-commands-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/reset-project-command-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/run-project-and-stop-project-commands-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/run-sub-userform-continue-and-run-macro-commands-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/add-in-manager-command-add-ins-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/add-ins-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/add-watch-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/clear-all-breakpoints-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/compile-project-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/edit-watch-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/run-to-cursor-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/set-next-statement-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/show-next-statement-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/step-into-step-over-step-out-commands-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toggle-breakpoint-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/zoom-command.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-command-bar"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/additional-controls-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/close-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collapse-parent-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/copy-here-and-move-here-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/customize-item-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/customize-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/definition-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/delete-item-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/delete-page-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/delete-watch-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/dockable-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/help-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/hide-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/import-page-and-export-page-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/move-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/new-page-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/rename-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/size-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toggle-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/view-object-and-view-code-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/call-stack-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/code-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/host-application-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/definition-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/immediate-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/last-position-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/locals-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/object-browser-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/object-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/project-explorer-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/tab-order-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toolbars-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toolbox-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/watch-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/additional-controls-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/digital-signature-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/macros-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/options-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/project-name-properties-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/quick-watch-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/references-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/components-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/file-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/module-and-class-module-commands-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procedure-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/align-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/arrange-buttons-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/center-in-form-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/group-and-ungroup-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/horizontal-spacing-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/make-same-size-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/order-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/size-to-fit-command-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/size-to-grid-command-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vertical-spacing-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/closereturn-to-host-application-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/close-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/import-file-and-export-file-commands-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/make-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/new-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/open-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/print-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/remove-item-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/save-host-document-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/bookmarks-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/clearand-delete-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/complete-word-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/cut-copy-paste-and-delete-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/find-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/indent-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/outdent-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/parameter-info-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/quick-info-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/redo-undo-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/replace-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/select-all-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/select-constant-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/select-member-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/comment-block-and-uncomment-block-commands.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/controls-tab-components-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/components-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/designers-tab-components-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/components-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commands-tab-customize-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/customize-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/options-tab-customize-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/customize-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toolbars-tab-customize-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/customize-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/docking-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/editor-format-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/editor-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/general-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/debugging-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/general-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/make-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/protection-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/code-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/code-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/project-explorer-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-explorer"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/properties-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-window-keys.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/watch-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/watch-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/immediate-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/immediate-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/operators-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collection-object-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/collection-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/compiler-directive-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/directives"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/data-types-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary"
+          },
+          {
+            "source_path": "language/reference/keyword-summaries.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/keywords-by-task"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/as-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/binary-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/byref-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/byval-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/date-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/else-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/empty-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/error-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/false-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/for-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/get-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/input-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/is-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/len-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/let-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/lock-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/mid-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/new-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/next-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/null-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/on-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/option-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/optional-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/paramarray-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/print-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/private-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/property-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/public-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/resume-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/seek-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/set-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/static-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/step-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/string-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/then-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/time-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/to-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/true-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/withevents-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/returns-for-cstr.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary#returns-for-cstr"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/addins-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#addins"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepanes-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#codepanes"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbars-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#commandbars"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/linkedwindows-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#linkedwindows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#properties"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/references-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#references"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomponents-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#vbcomponents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbnewprojects-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#vbnewprojects"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbprojects-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#vbprojects"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/windows-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#windows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/click-event-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/events-visual-basic-add-in-model#click-event"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/itemadded-event-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/events-visual-basic-add-in-model#itemadded-event"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/itemremoved-event-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/events-visual-basic-add-in-model#itemremoved-event"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/activecodepane-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#activecodepane"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/activevbproject-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#activevbproject"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/activewindow-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#activewindow"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/addins-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#addins"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/buildfilename-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#buildfilename"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/builtin-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#builtin"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/caption-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#caption"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codemodule-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codemodule"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepane-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codepane"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepanes-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codepanes"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepaneview-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codepaneview"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collection-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#collection"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbarevents-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#commandbarevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbars-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#commandbars"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/connect-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#connect"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/count-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#count"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/countofdeclarationlines-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#countofdeclarationlines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/countoflines-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#countoflines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/countofvisiblelines-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#countofvisiblelines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/description-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#description"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/designer-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#designer"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/designerid-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#designerid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/events-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#events"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/filename-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#filename"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/fullpath-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#fullpath"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/guid-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#guid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/hasopendesigner-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#hasopendesigner"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/height-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#height"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/helpcontextid-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#helpcontextid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/helpfile-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#helpfile"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/indexedvalue-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#indexedvalue"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/isbroken-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#isbroken"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/left-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#left"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/lines-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#lines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/linkedwindowframe-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#linkedwindowframe"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/linkedwindows-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#linkedwindows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/mainwindow-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#mainwindow"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/major-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#major"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/minor-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#minor"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/mode-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#mode"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/name-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#name"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/numindices-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#numindices"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/object-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/parent-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#parent"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procbodyline-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#procbodyline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/proccountlines-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#proccountlines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procofline-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#procofline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procstartline-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#procstartline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/progid-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#progid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#properties"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/protection-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#protection"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/references-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#references"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/referencesevents-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#referencesevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/saved-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#saved"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/selectedvbcomponent-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#selectedvbcomponent"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/top-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#top"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/topline-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#topline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/type-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#type"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/value-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#value"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbe-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#vbe"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbprojects-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#vbprojects"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/version-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#version"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visible-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#visible"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/width-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#width"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/window-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/windows-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#windows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/windowstate-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#windowstate"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomponents-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#vbcomponents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/addin-object.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#addin"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codemodule-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#codemodule"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepane-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#codepane"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbar-object.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#commandbar"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbarevents-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#commandbarevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/events-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#events"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/property-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#property"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/reference-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#reference"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/referencesevents-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#referencesevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomponent-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#vbcomponent"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbe-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#vbe"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbproject-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#vbproject"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/window-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#window"
+          },
+          {
+            "source_path": "language/reference/strings.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary#returns-for-cstr"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collection-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/colorconstants-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/constants-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/conversion-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/datetime-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/errobject-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/filesystem-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/financial-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/formshowconstants-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/global-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/information-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/interaction-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/keycodeconstants-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/math-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/string-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/systemcolorconstants-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbappwinstyle-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcalendar-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcalltype-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomparemethod-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbdatetimeformat-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbdayofweek-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbfileattribute-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbfirstweekofyear-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbimestatus-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbmsgboxresult-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbmsgboxstyle-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbqueryclose-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbstrconv-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbtristate-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbvartype-object-browser.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/object-browser-visual-basic-for-applications.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visual-basic-constants.md",
+            "redirect_url": "/office/vba/language/reference/constants-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/methods-visual-basic-for-applications.md",
+            "redirect_url": "/office/vba/language/reference/objects-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/properties-visual-basic-for-applications.md",
+            "redirect_url": "/office/vba/language/reference/objects-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/concepts/forms/object-model-for-microsoft-forms.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/objects-microsoft-forms"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collections-microsoft-forms.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/objects-microsoft-forms"
+          },
+          {
+            "source_path": "library-reference/concepts/how-do-i-object-library-reference-for-office.md",
+            "redirect_url": "/office/vba/library-reference/concepts/concepts-object-library-reference-for-office"
+          },
+          {
+            "source_path": "api/Office.GetUpdate.md",
+            "redirect_url": "/office/vba/api/office.sync.getupdate"
+          },
+          {
+            "source_path": "api/overview/library-reference/textrange2-insertchartfield-method-office.md",
+            "redirect_url": "/office/vba/api/Office.TextRange2.InsertChartField"
+          },
+          {
+            "source_path": "api/overview/library-reference/workflowtemplate-item-property-office.md",
+            "redirect_url": "/office/vba/api/Office.WorkflowTemplates.Item"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/bulletformat2-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/bulletformat2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/bulletformat2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/bulletformat2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/comaddin-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/comaddin-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/comaddins-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/comaddins-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/comaddins-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/comaddins-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarbutton-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarbutton-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarbutton-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarbutton-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarbutton-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarbutton-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcombobox-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcombobox-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcombobox-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcombobox-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcombobox-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcombobox-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcontrol-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcontrol-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcontrol-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcontrol-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcontrols-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcontrols-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarcontrols-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarcontrols-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbar-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbar-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbar-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbar-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarpopup-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarpopup-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbarpopup-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbarpopup-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbars-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbars-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbars-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbars-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/commandbars-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/commandbars-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/contactcard-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/contactcard-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/contactcard-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/contactcard-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/crop-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/crop-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customtaskpane-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customtaskpane-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customtaskpane-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customtaskpane-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customtaskpane-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customtaskpane-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlnode-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlnode-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlnode-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlnode-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlnodes-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlnodes-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlpart-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlpart-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlpart-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlpart-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlpart-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlpart-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlparts-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlparts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlparts-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlparts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlparts-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlparts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlprefixmapping-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlprefixmapping-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlprefixmappings-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlprefixmappings-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlprefixmappings-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlprefixmappings-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlschemacollection-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlschemacollection-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlschemacollection-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlschemacollection-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlschema-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlschema-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlschema-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlschema-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlvalidationerror-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlvalidationerror-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlvalidationerror-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlvalidationerror-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlvalidationerrors-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlvalidationerrors-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/customxmlvalidationerrors-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/customxmlvalidationerrors-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentinspector-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentinspector-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentinspector-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentinspector-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentinspectors-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentinspectors-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentlibraryversion-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentlibraryversion-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentlibraryversion-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentlibraryversion-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentlibraryversions-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentlibraryversions-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentproperties-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentproperties-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentproperties-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentproperties-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentproperty-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentproperty-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/documentproperty-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/documentproperty-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/effectparameter-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/effectparameter-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/effectparameters-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/effectparameters-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/encryptionprovider-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/encryptionprovider-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialogfilter-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialogfilter-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialogfilters-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialogfilters-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialogfilters-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialogfilters-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialog-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialog-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialog-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialog-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialogselecteditems-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialogselecteditems-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filedialogselecteditems-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filedialogselecteditems-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filetypes-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filetypes-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/filetypes-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/filetypes-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/font2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/font2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/glowformat-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/glowformat-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/gradientstop-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/gradientstop-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/gradientstops-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/gradientstops-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/gradientstops-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/gradientstops-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iassistance-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iassistance-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iblogextensibility-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iblogextensibility-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iblogpictureextensibility-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iblogpictureextensibility-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iconverterapplicationpreferences-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iconverterapplicationpreferences-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iconverter-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iconverter-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iconverterpreferences-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iconverterpreferences-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iconverteruicallback-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iconverteruicallback-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/ictpfactory-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/ictpfactory-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/icustomtaskpaneconsumer-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/icustomtaskpaneconsumer-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/idocumentinspector-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/idocumentinspector-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/imsocontactcard-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/imsocontactcard-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iribboncontrol-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iribboncontrol-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iribbonextensibility-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iribbonextensibility-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/iribbonui-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/iribbonui-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/Languagesettings-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/Languagesettings-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/metaproperties-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/metaproperties-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/metaproperties-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/metaproperties-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/metaproperty-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/metaproperty-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/metaproperty-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/metaproperty-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/msoenvelope-events-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/msoenvelope-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/msoenvelope-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/msoenvelope-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/newfile-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/newfile-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/newfile-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/newfile-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/odsocolumn-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/odsocolumn-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/odsocolumns-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/odsocolumns-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/odsocolumns-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/odsocolumns-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/odsofilter-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/odsofilter-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/odsofilters-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/odsofilters-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/odsofilters-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/odsofilters-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/officedatasourceobject-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/officedatasourceobject-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/officedatasourceobject-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/officedatasourceobject-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/officetheme-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/officetheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/paragraphformat2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/paragraphformat2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/permission-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/permission-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/permission-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/permission-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerdialog-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerdialog-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerdialog-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerdialog-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerfield-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerfield-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerfields-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerfields-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerproperties-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerproperties-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerproperties-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerproperties-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerproperty-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerproperty-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerresult-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerresult-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerresults-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerresults-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pickerresults-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pickerresults-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pictureeffect-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pictureeffect-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pictureeffect-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pictureeffect-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pictureeffects-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pictureeffects-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/pictureeffects-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/pictureeffects-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/policyitem-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/policyitem-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/reflectionformat-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/reflectionformat-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/ruler2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/ruler2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/rulerlevel2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/rulerlevel2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/rulerlevels2-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/rulerlevels2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/rulerlevels2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/rulerlevels2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/scopefolder-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/scopefolder-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/scopefolder-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/scopefolder-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/scopefolders-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/scopefolders-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/searchfolders-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/searchfolders-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/searchfolders-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/searchfolders-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/searchscope-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/searchscope-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/searchscopes-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/searchscopes-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/serverpolicy-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/serverpolicy-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefile-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefile-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefile-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefile-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefiles-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefiles-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefiles-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefiles-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefolder-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefolder-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefolder-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefolder-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefolders-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefolders-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacefolders-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacefolders-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacelink-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacelink-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacelink-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacelink-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacelinks-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacelinks-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacelinks-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacelinks-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacemember-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacemember-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacemember-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacemember-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacemembers-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacemembers-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacemembers-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacemembers-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspace-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspace-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspace-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspace-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacetask-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacetask-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacetask-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacetask-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacetasks-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacetasks-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sharedworkspacetasks-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sharedworkspacetasks-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signatureinfo-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signatureinfo-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signatureinfo-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signatureinfo-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signature-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signature-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signature-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signature-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signatureprovider-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signatureprovider-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signatureset-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signatureset-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signatureset-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signatureset-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/signaturesetup-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/signaturesetup-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartcolor-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartcolor-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartcolors-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartcolors-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartcolors-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartcolors-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartlayout-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartlayout-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartlayouts-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartlayouts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartlayouts-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartlayouts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartart-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartart-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartart-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartart-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartnode-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartnode-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartnode-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartnode-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartnodes-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartnodes-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartnodes-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartnodes-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartquickstyle-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartquickstyle-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartquickstyles-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartquickstyles-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartartquickstyles-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartartquickstyles-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartdocument-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartdocument-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/smartdocument-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/smartdocument-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/softedgeformat-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/softedgeformat-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sync-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sync-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/sync-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/sync-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/tabstop2-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/tabstop2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/tabstop2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/tabstop2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/tabstops2-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/tabstops2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/tabstops2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/tabstops2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/textcolumn2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/textcolumn2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/textframe2-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/textframe2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/textframe2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/textframe2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/textrange2-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/textrange2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/textrange2-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/textrange2-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themecolor-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themecolor-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themecolorscheme-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themecolorscheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themecolorscheme-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themecolorscheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themeeffectscheme-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themeeffectscheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themeeffectscheme-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themeeffectscheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themefont-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themefont-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themefontscheme-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themefontscheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themefontscheme-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themefontscheme-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themefonts-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themefonts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/themefonts-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/themefonts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/userpermission-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/userpermission-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/userpermission-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/userpermission-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/webpagefont-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/webpagefont-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/webpagefonts-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/webpagefonts-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/workflowtask-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/workflowtask-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/workflowtask-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/workflowtask-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/workflowtasks-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/workflowtasks-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/workflowtemplate-methods-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/workflowtemplate-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/workflowtemplate-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/workflowtemplate-members-office"
+          },
+          {
+            "source_path": "api/overview/Library-Reference/workflowtemplates-properties-office.md",
+            "redirect_url": "/office/vba/api/overview/Library-Reference/workflowtemplates-members-office"
+          },
+          {
+            "source_path": "api/access.actionname.md",
+            "redirect_url": "/office/vba/api/access.macroerror.actionname"
+          },
+          {
+            "source_path": "api/access.appicon.md",
+            "redirect_url": "/office/vba/api/Access.Application.AppIcon"
+          },
+          {
+            "source_path": "api/access.apptitle.md",
+            "redirect_url": "/office/vba/api/Access.Application.AppTitle"
+          },
+          {
+            "source_path": "api/Access.Attachment.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Attachment.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Attachment.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.Attachment.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.afterupdate(even).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.afterupdate-event"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.beforeupdate(even).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.beforeupdate-event"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.afterupdate(property).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.afterupdate-property"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.beforeupdate(property).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.beforeupdate-property"
+          },
+          {
+            "source_path": "api/access.checkbox.afterupdate(even).md",
+            "redirect_url": "/office/vba/api/access.checkbox.afterupdate-event"
+          },
+          {
+            "source_path": "api/access.checkbox.beforeupdate(even).md",
+            "redirect_url": "/office/vba/api/access.checkbox.beforeupdate-event"
+          },
+          {
+            "source_path": "api/access.checkbox.afterupdate(property).md",
+            "redirect_url": "/office/vba/api/access.checkbox.afterupdate-property"
+          },
+          {
+            "source_path": "api/access.checkbox.beforeupdate(property).md",
+            "redirect_url": "/office/vba/api/access.checkbox.beforeupdate-property"
+          },
+          {
+            "source_path": "api/Access.ComboBox.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ComboBox.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ComboBox.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ComboBox.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.Form.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Form.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Form.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Form.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.Form.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Form.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Form.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Form.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ListBox.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ListBox.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ListBox.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ListBox.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionButton.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionButton.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionButton.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionButton.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.TextBox.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.TextBox.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.TextBox.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.TextBox.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/overview/Excel/collections-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "api/overview/Excel/objects-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "api/overview/methods-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "api/overview/properties-graph-visual-basic-reference.md",
+            "redirect_url": "/office/vba/api/overview/excel/graph-visual-basic-reference"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/remove-method-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/remove-method-dictionary-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/count-property-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/count-property-dictionary-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/item-property-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/item-property-dictionary-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/close-method-filesystemobject-object.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/close-method-textstream-object"
+          }
     ]
 }

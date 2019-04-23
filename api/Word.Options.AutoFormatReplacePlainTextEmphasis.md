@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplacePlainTextEmphasis Property (Word)
+title: Options.AutoFormatReplacePlainTextEmphasis property (Word)
 keywords: vbawd10.chm162988290
 f1_keywords:
 - vbawd10.chm162988290
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatReplacePlainTextEmphasis
 ms.assetid: a01034cc-18b0-425f-8296-884382a17b3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatReplacePlainTextEmphasis Property (Word)
+# Options.AutoFormatReplacePlainTextEmphasis property (Word)
 
- **True** if manual emphasis characters are replaced with character formatting when Word formats a document or range automatically. For example, "*bold*" is changed to "bold" and "_underline_" is changed to "underline." Read/write **Boolean** .
+ **True** if manual emphasis characters are replaced with character formatting when Word formats a document or range automatically. For example, "*bold*" is changed to "bold" and "_underline_" is changed to "underline." Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatReplacePlainTextEmphasis`
+_expression_. `AutoFormatReplacePlainTextEmphasis`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnAutoFormat = Options.AutoFormatReplacePlainTextEmphasis
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

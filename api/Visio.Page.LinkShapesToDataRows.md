@@ -1,5 +1,5 @@
 ---
-title: Page.LinkShapesToDataRows Method (Visio)
+title: Page.LinkShapesToDataRows method (Visio)
 keywords: vis_sdr.chm10960155
 f1_keywords:
 - vis_sdr.chm10960155
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.LinkShapesToDataRows
 ms.assetid: 306c8edf-04ea-1e54-b3cf-63ea0352c242
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.LinkShapesToDataRows Method (Visio)
+# Page.LinkShapesToDataRows method (Visio)
 
 Links multiple rows in the specified data recordset, as specified by their data row IDs, to multiple shapes on the page, and optionally applies the current data graphic to the linked shapes.
 
@@ -21,7 +22,7 @@ Links multiple rows in the specified data recordset, as specified by their data 
 
 ## Syntax
 
- _expression_. `LinkShapesToDataRows`( `_DataRecordsetID_` , `_DataRowIDs()_` , `_ShapeIDs()_` , `_ApplyDataGraphicAfterLink_` )
+_expression_. `LinkShapesToDataRows`( `_DataRecordsetID_` , `_DataRowIDs()_` , `_ShapeIDs()_` , `_ApplyDataGraphicAfterLink_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -84,4 +85,4 @@ Public Sub LinkShapesToDataRows_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

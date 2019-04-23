@@ -3,6 +3,7 @@ title: TabStrip.Enabled Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: ab76f52f-5b9c-b8f9-b1b8-f29ff495d5e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 ## Syntax
 
- _expression_. **Enabled**
+_expression_.**Enabled**
 
- _expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ Use the  **Enabled** property to enable and disable controls. A disabled control
 
 When the user tabs into an enabled  **[TabStrip](Outlook.tabstrip.md)**, the first tab in the control receives the focus. If the first tab of a  **TabStrip** is disabled, the first enabled tab of that control receives the focus. If all tabs of a **TabStrip** are disabled, the control is disabled and cannot receive the focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Connect.ToSheet Property (Visio)
+title: Connect.ToSheet property (Visio)
 keywords: vis_sdr.chm10314585
 f1_keywords:
 - vis_sdr.chm10314585
@@ -8,17 +8,18 @@ api_name:
 - Visio.Connect.ToSheet
 ms.assetid: 449993f6-dd44-cebf-8d2d-343e0202b166
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect.ToSheet Property (Visio)
+# Connect.ToSheet property (Visio)
 
 Returns the shape to which one or more connections are made. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToSheet`
+_expression_. `ToSheet`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
@@ -80,4 +81,4 @@ Public Sub ToSheet_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

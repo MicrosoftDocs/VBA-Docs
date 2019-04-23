@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.Name
 ms.assetid: 615aa765-2ecf-273b-5620-5582d9e86817
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the friendly name used to un
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The string specified for the  **Name** property must be unique within the workbo
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

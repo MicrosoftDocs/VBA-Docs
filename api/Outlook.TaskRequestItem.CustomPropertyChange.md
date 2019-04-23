@@ -1,23 +1,24 @@
 ---
-title: TaskRequestItem.CustomPropertyChange Event (Outlook)
+title: TaskRequestItem.CustomPropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.CustomPropertyChange
 ms.assetid: 5fcaaba2-706b-76e3-cd6d-be435bca584b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestItem.CustomPropertyChange Event (Outlook)
+# TaskRequestItem.CustomPropertyChange event (Outlook)
 
 Occurs when a custom property of an item (which is an instance of the parent object) is changed. 
 
 
 ## Syntax
 
- _expression_. `CustomPropertyChange`( `_Name_` )
+_expression_. `CustomPropertyChange`( `_Name_` )
 
- _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ The property name is passed to the procedure so that you can determine which cus
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange** event to enable a control when a Boolean field is set to **True** .
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange** event to enable a control when a Boolean field is set to **True**.
 
 For this example, create two custom fields on the second page of a form. The first, a  **Boolean** field, is named "RespondBy". The second field is named "DateToRespond".
 
@@ -80,3 +81,4 @@ End Sub
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

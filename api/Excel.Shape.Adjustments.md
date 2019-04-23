@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Adjustments
 ms.assetid: 425befaf-e058-dff9-2265-66e4f1cbca39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns an  **[Adjustments](Excel.Adjustments.md)** object that contains adjustm
 
 ## Syntax
 
- _expression_. `Adjustments`
+_expression_. `Adjustments`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example sets to 0.25 the value of adjustment one on shape one on  `myDocument`.
+This example sets to 0.25 the value of adjustment one on shape one on  _myDocument_.
 
 
 ```vb
@@ -39,3 +40,4 @@ myDocument.Shapes(1).Adjustments(1) = 0.25
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

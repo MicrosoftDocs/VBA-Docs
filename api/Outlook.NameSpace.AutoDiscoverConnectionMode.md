@@ -1,5 +1,5 @@
 ---
-title: NameSpace.AutoDiscoverConnectionMode Property (Outlook)
+title: NameSpace.AutoDiscoverConnectionMode property (Outlook)
 keywords: vbaol11.chm3303
 f1_keywords:
 - vbaol11.chm3303
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.AutoDiscoverConnectionMode
 ms.assetid: a73a71ca-0f40-3c7e-bb89-9d6a45775c6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.AutoDiscoverConnectionMode Property (Outlook)
+# NameSpace.AutoDiscoverConnectionMode property (Outlook)
 
 Returns an  **[OlAutoDiscoverConnectionMode](Outlook.OlAutoDiscoverConnectionMode.md)** constant that specifies the type of connection for auto-discovery of the Microsoft Exchange server that hosts the primary Exchange account. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoDiscoverConnectionMode`
+_expression_. `AutoDiscoverConnectionMode`
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks
@@ -33,9 +34,9 @@ This property is similar to the  **[AutoDiscoverConnectionMode](Outlook.Account.
  **NameSpace.AutoDiscoverXml** is an XML string that is returned from the auto-discovery service of the Exchange server. The following code sample uses the **AutoDiscoverConnectionMode** property to show when this XML string is available during a normal Outlook session.
 
 
-- When the  **[Application.Startup](Outlook.Application.Startup.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
+- When the  **[Application.Startup](Outlook.Application.Startup.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown**.
     
-- When the  **[NameSpace.AutoDiscoverComplete](Outlook.NameSpace.AutoDiscoverComplete.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
+- When the  **[NameSpace.AutoDiscoverComplete](Outlook.NameSpace.AutoDiscoverComplete.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown**.
     
 
 
@@ -116,3 +117,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.DefaultShape Property (PowerPoint)
+title: Presentation.DefaultShape property (PowerPoint)
 keywords: vbapp10.chm583019
 f1_keywords:
 - vbapp10.chm583019
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.DefaultShape
 ms.assetid: 318ec04a-8b30-29b3-c8a6-732564efd7a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.DefaultShape Property (PowerPoint)
+# Presentation.DefaultShape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the default shape for the presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `DefaultShape`
+_expression_. `DefaultShape`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -53,3 +54,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

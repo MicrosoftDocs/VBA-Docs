@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.Creator Property (Word)
+title: HorizontalLineFormat.Creator property (Word)
 keywords: vbawd10.chm165544937
 f1_keywords:
 - vbawd10.chm165544937
@@ -8,19 +8,20 @@ api_name:
 - Word.HorizontalLineFormat.Creator
 ms.assetid: ecbfac32-9cf2-286d-4c7a-ca74056b8d40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HorizontalLineFormat.Creator Property (Word)
+# HorizontalLineFormat.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
+_expression_ Required. A variable that represents a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

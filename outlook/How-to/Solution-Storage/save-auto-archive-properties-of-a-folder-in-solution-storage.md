@@ -3,6 +3,7 @@ title: Save Auto-Archive Properties of a Folder in Solution Storage
 ms.prod: outlook
 ms.assetid: fbcdbbdf-3320-85f3-2dae-200fddd67285
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -141,4 +142,4 @@ Sub TestAgingProps()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

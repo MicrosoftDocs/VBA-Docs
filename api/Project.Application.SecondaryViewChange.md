@@ -1,21 +1,22 @@
 ---
-title: Application.SecondaryViewChange Event (Project)
+title: Application.SecondaryViewChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.SecondaryViewChange
 ms.assetid: f0f3f81b-c75f-79ee-db8b-6bdd32a3702f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SecondaryViewChange Event (Project)
+# Application.SecondaryViewChange event (Project)
 
 Event occurs when a secondary view pane changes within a project window.
 
 
 ## Syntax
 
- _expression_. `SecondaryViewChange`( ` _Window_`, ` _prevView_`, ` _newView_`, ` _success_` )
+_expression_. `SecondaryViewChange`( `_Window_`, `_prevView_`, `_newView_`, `_success_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -35,4 +36,4 @@ Event occurs when a secondary view pane changes within a project window.
 
 nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

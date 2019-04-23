@@ -1,5 +1,5 @@
 ---
-title: AnimationBehaviors.Application Property (PowerPoint)
+title: AnimationBehaviors.Application property (PowerPoint)
 keywords: vbapp10.chm656001
 f1_keywords:
 - vbapp10.chm656001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehaviors.Application
 ms.assetid: 751786d8-d1c5-e02a-a41e-106ce2f00b7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehaviors.Application Property (PowerPoint)
+# AnimationBehaviors.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [AnimationBehaviors](./PowerPoint.AnimationBehaviors.md) object.
+_expression_ A variable that represents an [AnimationBehaviors](./PowerPoint.AnimationBehaviors.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [AnimationBehaviors Object](PowerPoint.AnimationBehaviors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

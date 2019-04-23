@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.GetConversation Method (Outlook)
+title: TaskRequestUpdateItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3504
 f1_keywords:
 - vbaol11.chm3504
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestUpdateItem.GetConversation
 ms.assetid: d5759937-17c3-0d34-a12a-c43bc7b93d15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.GetConversation Method (Outlook)
+# TaskRequestUpdateItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)' object.
+_expression_ A variable that represents a '[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

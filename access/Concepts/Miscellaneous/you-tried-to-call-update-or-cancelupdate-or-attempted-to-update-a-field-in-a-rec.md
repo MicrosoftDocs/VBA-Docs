@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: c8fe9945-d327-c22a-5057-be6ee32836f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ On an ODBCDirect database, this error occurs when you attempt to write data to a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

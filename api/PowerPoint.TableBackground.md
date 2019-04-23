@@ -1,5 +1,5 @@
 ---
-title: TableBackground Object (PowerPoint)
+title: TableBackground object (PowerPoint)
 keywords: vbapp10.chm677000
 f1_keywords:
 - vbapp10.chm677000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TableBackground
 ms.assetid: ba29d6df-f37c-05c1-4e29-8c1766a8aaf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableBackground Object (PowerPoint)
+# TableBackground object (PowerPoint)
 
 Represents the background associated with a  **Table** object.
 
@@ -29,7 +30,7 @@ The properties of the  **TableBackground** object return objects that represent 
     
 - Use the  **[Picture](PowerPoint.TableBackground.Picture.md)** property to return a **[PictureFormat](PowerPoint.PictureFormat.md)** object.
     
-- Use the  **[Reflection](PowerPoint.TableBackground.Reflection.md)** property to return an **[ReflectionFormat](./Office.ReflectionFormat.md)** object.
+- Use the  **[Reflection](PowerPoint.TableBackground.Reflection.md)** property to return an **[ReflectionFormat](Office.ReflectionFormat.md)** object.
     
 - Use the  **[Shadow](PowerPoint.TableBackground.Shadow.md)** property to return a **[ShadowFormat](PowerPoint.ShadowFormat.md)** object.
     
@@ -67,3 +68,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Gridlines Object (Word)
+title: Gridlines object (Word)
 keywords: vbawd10.chm175
 f1_keywords:
 - vbawd10.chm175
@@ -8,10 +8,11 @@ api_name:
 - Word.GridLines
 ms.assetid: 9dc77c2a-854f-63c0-4648-b7802fb6d9a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Gridlines Object (Word)
+# Gridlines object (Word)
 
 Represents major or minor gridlines on a chart axis.
 
@@ -45,5 +46,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Password Property (PowerPoint)
+title: Presentation.Password property (PowerPoint)
 keywords: vbapp10.chm583080
 f1_keywords:
 - vbapp10.chm583080
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.Password
 ms.assetid: 977876b7-b40f-de45-c259-e91744915085
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Password Property (PowerPoint)
+# Presentation.Password property (PowerPoint)
 
 Returns or sets the password that must be supplied to open the specified presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Password`
+_expression_. `Password`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -55,3 +56,4 @@ End Sub
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

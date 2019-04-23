@@ -1,5 +1,5 @@
 ---
-title: Shape.Type Property (Publisher)
+title: Shape.Type property (Publisher)
 keywords: vbapb10.chm2228307
 f1_keywords:
 - vbapb10.chm2228307
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Type
 ms.assetid: bb712dd4-5d81-10e0-9b4c-4af6a09a3c71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Type Property (Publisher)
+# Shape.Type property (Publisher)
 
 Specifies the shape type. Read-only.
 
 
 ## Syntax
 
- _expression_. **Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -46,4 +47,4 @@ Sub SetCalloutType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

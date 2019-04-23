@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5aa6b5a6-27ed-7825-f204-20b9697f25f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Not all [keywords](../../Glossary/vbe-glossary.md#keyword) can appear at the beg
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

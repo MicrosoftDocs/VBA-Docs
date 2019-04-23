@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowInsertingRows
 ms.assetid: 481fb5d0-31c9-9c28-c5a0-3f3abc48ad3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowInsertingRows property (Excel)
 
-Returns  **True** if the insertion of rows is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the insertion of rows is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowInsertingRows`
+_expression_. `AllowInsertingRows`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

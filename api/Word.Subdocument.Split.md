@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Split Method (Word)
+title: Subdocument.Split method (Word)
 keywords: vbawd10.chm159973477
 f1_keywords:
 - vbawd10.chm159973477
@@ -8,19 +8,20 @@ api_name:
 - Word.Subdocument.Split
 ms.assetid: f4548dbc-3b96-b271-8e71-0d436a1c3ecc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocument.Split Method (Word)
+# Subdocument.Split method (Word)
 
 Divides an existing subdocument into two subdocuments at the same level in master document view or outline view.
 
 
 ## Syntax
 
- _expression_. `Split`( `_Range_` )
+_expression_. `Split`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
+_expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Selection.Range.Subdocuments(1).Split Range:=Selection.Range
 
 [Subdocument Object](Word.Subdocument.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

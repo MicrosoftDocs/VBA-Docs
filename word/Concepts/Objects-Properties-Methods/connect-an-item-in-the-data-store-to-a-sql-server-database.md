@@ -3,6 +3,7 @@ title: Connect an Item in the Data Store to a SQL Server Database
 ms.prod: word
 ms.assetid: 5c3ecc43-492d-0668-18f6-752b03dd2a54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -219,7 +220,7 @@ You can create a Web-based application that enables users to select a company na
     
 11. Add the following code to the **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing `<html>` tags.
     
-    ```html
+    ```asp
         <html xmlns="https://www.w3.org/1999/xhtml">
         <head runat="server">
             <title>Data-Driven Document Generation - SQL Server Sample</title>
@@ -371,7 +372,7 @@ End Class
 ```
 
 
-## Sample Code: C#
+## Sample Code: C\#
 
 The following C# sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the **WebForm1.Aspx.cs** file, copying over the existing code.
 
@@ -492,4 +493,4 @@ For more information about working with ASP.NET 2.0, see  [https://www.asp.net/g
 
 This article explains how to extract data from a SQL Server database and insert it into your template document. You can also extract the data from other data sources, including, for example, Access and Excel. For more information about how to connect to data in those applications programmatically, see the Access and Excel developer documentation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

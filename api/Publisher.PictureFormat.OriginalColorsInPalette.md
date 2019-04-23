@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalColorsInPalette Property (Publisher)
+title: PictureFormat.OriginalColorsInPalette property (Publisher)
 keywords: vbapb10.chm3604771
 f1_keywords:
 - vbapb10.chm3604771
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.OriginalColorsInPalette
 ms.assetid: 87c67430-1a5a-47f7-822f-6af8783f73b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalColorsInPalette Property (Publisher)
+# PictureFormat.OriginalColorsInPalette property (Publisher)
 
 Returns a  **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
 
 
 ## Syntax
 
- _expression_. **OriginalColorsInPalette**
+_expression_.**OriginalColorsInPalette**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -82,4 +83,4 @@ Next pgLoop
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

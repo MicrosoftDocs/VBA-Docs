@@ -1,5 +1,5 @@
 ---
-title: Presentation.ExtraColors Property (PowerPoint)
+title: Presentation.ExtraColors property (PowerPoint)
 keywords: vbapp10.chm583014
 f1_keywords:
 - vbapp10.chm583014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.ExtraColors
 ms.assetid: c6a9d155-206c-36e6-c180-aaff8bd85a99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.ExtraColors Property (PowerPoint)
+# Presentation.ExtraColors property (PowerPoint)
 
 Returns an  **[ExtraColors](PowerPoint.ExtraColors.md)** object that represents the extra colors available in the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `ExtraColors`
+_expression_. `ExtraColors`
 
  _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -47,3 +48,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

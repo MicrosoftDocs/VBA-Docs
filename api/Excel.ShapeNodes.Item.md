@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Item Method (Excel)
+title: ShapeNodes.Item method (Excel)
 keywords: vbaxl10.chm112003
 f1_keywords:
 - vbaxl10.chm112003
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeNodes.Item
 ms.assetid: f311dcab-f496-c6ac-a032-b21adae3fde8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Item Method (Excel)
+# ShapeNodes.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ A  **[ShapeNode](Excel.ShapeNode.md)** object contained by the collection.
 
 [ShapeNodes Object](Excel.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

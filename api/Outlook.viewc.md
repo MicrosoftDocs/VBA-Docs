@@ -3,6 +3,7 @@ title: ViewCtl Object (Outlook View Control)
 ms.prod: outlook
 ms.assetid: e5737688-6196-bc0a-767c-7b1fe7071fce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,5 +28,5 @@ To set a reference to the View Control's type library:
 1. In the Visual Basic for Applications Code Editor, on the  **Tools** menu, click **References**. The  **References** command on the **Tools** menu is available only when a **Module** window is open and active in **Design** view.
     
 2. Select the  **Microsoft Outlook View Control** check box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

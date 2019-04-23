@@ -1,5 +1,5 @@
 ---
-title: XMLNode.ValidationStatus Property (Word)
+title: XMLNode.ValidationStatus property (Word)
 keywords: vbawd10.chm37748758
 f1_keywords:
 - vbawd10.chm37748758
@@ -8,19 +8,20 @@ api_name:
 - Word.XMLNode.ValidationStatus
 ms.assetid: 795114a1-09d3-f2c6-3572-4a8929ca062c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.ValidationStatus Property (Word)
+# XMLNode.ValidationStatus property (Word)
 
  Returns a **WdXMLValidationStatus** constant that represents whether an element or attribute is valid according to the attached schema.
 
 
 ## Syntax
 
- _expression_. `ValidationStatus`
+_expression_. `ValidationStatus`
 
- _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ MsgBox "The following elements do not validate against " & _
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

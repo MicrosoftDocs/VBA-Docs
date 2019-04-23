@@ -1,5 +1,5 @@
 ---
-title: Sentences.Creator Property (Word)
+title: Sentences.Creator property (Word)
 keywords: vbawd10.chm156959721
 f1_keywords:
 - vbawd10.chm156959721
@@ -8,19 +8,20 @@ api_name:
 - Word.Sentences.Creator
 ms.assetid: 69465368-9258-cfc2-f469-69b27940e24e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sentences.Creator Property (Word)
+# Sentences.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Sentences](Word.sentences.md)' collection.
+_expression_ Required. A variable that represents a '[Sentences](Word.sentences.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Sentences Collection Object](Word.sentences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

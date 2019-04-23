@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 687f44e8-7b4b-eab5-93b8-022cd4d1c302
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Variant** that represents the specified entry in a **[Combo
 
 ## Syntax
 
- _expression_. **List**(**_pvargIndex_**,  **_pvargColumn_**)
+_expression_.**List**(**_pvargIndex_**,  **_pvargColumn_**)
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Parameters
@@ -42,4 +43,4 @@ To specify items you want to display in a  **ComboBox**, use the  **[AddItem](Ou
 
 Use  **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Tags.Parent Property (PowerPoint)
+title: Tags.Parent property (PowerPoint)
 keywords: vbapp10.chm611002
 f1_keywords:
 - vbapp10.chm611002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Tags.Parent
 ms.assetid: 019d1e25-a57c-d081-c019-51fcefc9a147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tags.Parent Property (PowerPoint)
+# Tags.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 
@@ -52,3 +53,4 @@ End With
 
 [Tags Object](PowerPoint.Tags.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

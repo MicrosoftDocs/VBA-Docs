@@ -1,21 +1,22 @@
 ---
-title: Project.FullName Property (Project)
+title: Project.FullName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.FullName
 ms.assetid: ae8cea25-f365-d8ae-e119-929a61a9c110
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.FullName Property (Project)
+# Project.FullName property (Project)
 
 Gets the path and file name of a project. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FullName`
+_expression_.**FullName**
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -55,4 +56,4 @@ Sub CloseFile()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

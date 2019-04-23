@@ -1,5 +1,5 @@
 ---
-title: Application.AutoSaveToGlobal Method (Project)
+title: Application.AutoSaveToGlobal method (Project)
 keywords: vbapj.chm1500
 f1_keywords:
 - vbapj.chm1500
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.AutoSaveToGlobal
 ms.assetid: 8b8d0169-a1c1-8771-bc90-503a17e00b26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AutoSaveToGlobal Method (Project)
+# Application.AutoSaveToGlobal method (Project)
 
 Specifies whether to automatically add new views, field templates, filters, and groups to the global template (Global.mpt).
 
 
 ## Syntax
 
- _expression_. `AutoSaveToGlobal`( ` _OnOff_` )
+_expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -59,7 +60,5 @@ To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pan
 6. Click  **Other Views** again, and then click **More Views**. The  **Views** list contains the view you saved.
     
 7. In the  **More Views** dialog box, click **Organizer**. Scroll through the  **Global (+ non-cached Enterprise)** list to see that **R2 View Test** was automatically added to the global template.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

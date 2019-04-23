@@ -1,5 +1,5 @@
 ---
-title: AccelTable.SetID Property (Visio)
+title: AccelTable.SetID property (Visio)
 keywords: vis_sdr.chm14714315
 f1_keywords:
 - vis_sdr.chm14714315
@@ -8,17 +8,18 @@ api_name:
 - Visio.AccelTable.SetID
 ms.assetid: d73787cc-0145-845e-6675-906d4d2aaa78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelTable.SetID Property (Visio)
+# AccelTable.SetID property (Visio)
 
 Returns the set ID of an  **AccelTable** object in its collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `SetID`
+_expression_. `SetID`
 
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 
@@ -34,6 +35,6 @@ Each  **AccelTable** object has a set ID that corresponds to a Microsoft Visio w
 
 You can retrieve an object from its collection by passing the object's set ID to the  **ItemAtID** property. You can also set the set ID of an object by using the **AddAtID** method.
 
-Valid set ID values are declared by the Visio type library in  **[VisUIObjSets](Visio.visuiobjsets.md)** .
+Valid set ID values are declared by the Visio type library in  **[VisUIObjSets](Visio.visuiobjsets.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

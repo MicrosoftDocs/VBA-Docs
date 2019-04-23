@@ -1,21 +1,22 @@
 ---
-title: Project.CustomDocumentProperties Property (Project)
+title: Project.CustomDocumentProperties property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CustomDocumentProperties
 ms.assetid: 49e532bc-4bc2-c9e7-c6d0-253540572093
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CustomDocumentProperties Property (Project)
+# Project.CustomDocumentProperties property (Project)
 
 Gets a  **DocumentProperties** collection representing the custom properties of the document. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `CustomDocumentProperties`
+_expression_. `CustomDocumentProperties`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -71,4 +72,4 @@ Work    : 40h
 % Work Complete : 0%
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (PowerPoint)
+title: ThreeDFormat.SetExtrusionDirection method (PowerPoint)
 keywords: vbapp10.chm557006
 f1_keywords:
 - vbapp10.chm557006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 3ce76681-1a37-258b-594c-11d1d4f161c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (PowerPoint)
+# ThreeDFormat.SetExtrusionDirection method (PowerPoint)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 
 
 ## Syntax
 
- _expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
+_expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -53,7 +54,7 @@ The PresetExtrusionDirection parameter value can be one of these  **MsoPresetExt
 
 ## Example
 
-This example specifies that the extrusion for shape one on  `myDocument` extend toward the top of the shape and that the lighting for the extrusion come from the left.
+This example specifies that the extrusion for shape one on  _myDocument_ extend toward the top of the shape and that the lighting for the extrusion come from the left.
 
 
 ```vb
@@ -76,3 +77,4 @@ End With
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

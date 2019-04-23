@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Color Property (Publisher)
+title: BorderArtFormat.Color property (Publisher)
 keywords: vbapb10.chm7602183
 f1_keywords:
 - vbapb10.chm7602183
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArtFormat.Color
 ms.assetid: fb2fe2f7-d321-43d3-232d-db3b513dae43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Color Property (Publisher)
+# BorderArtFormat.Color property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
 
 
 ## Syntax
 
- _expression_. **Color**
+_expression_.**Color**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
@@ -47,3 +48,4 @@ End Sub
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

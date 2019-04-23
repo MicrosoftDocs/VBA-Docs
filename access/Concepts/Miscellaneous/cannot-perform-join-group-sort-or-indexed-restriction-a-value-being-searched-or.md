@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 14a91396-7e6d-befa-4f91-abd87f0e6cd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The maximum combined length of fields used to join, group, or sort is 255 bytes.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

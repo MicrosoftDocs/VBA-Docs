@@ -3,6 +3,7 @@ title: SpinButton Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1a6142d4-e634-4834-9ba7-f9ca2a72bba8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Increments and decrements a value.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.spinbutton.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [Delay](Outlook.spinbutton.delay.md)|Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a [SpinButton](Outlook.spinbutton.md). Read/write.|
@@ -29,5 +30,4 @@ Increments and decrements a value.
 | [SmallChange](Outlook.spinbutton.smallchange.md)|Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **SpinButton**. Read/write.|
 | [Value](Outlook.spinbutton.value.md)|Returns or sets a  **Variant** that specifies the state of a **SpinButton**. Read/write.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

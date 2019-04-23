@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBConnection.ServerTextColor
 ms.assetid: e2613e27-2d8f-8568-1018-b6910c7f7bba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBConnection.ServerTextColor property (Excel)
 
- **True** if the text color format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean** .
+ **True** if the text color format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ServerTextColor`
+_expression_. `ServerTextColor`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

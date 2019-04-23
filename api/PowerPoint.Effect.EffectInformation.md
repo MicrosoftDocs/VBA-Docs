@@ -1,5 +1,5 @@
 ---
-title: Effect.EffectInformation Property (PowerPoint)
+title: Effect.EffectInformation property (PowerPoint)
 keywords: vbapp10.chm652018
 f1_keywords:
 - vbapp10.chm652018
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Effect.EffectInformation
 ms.assetid: 68c61bfc-842e-6659-eda9-cc4899c50b94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect.EffectInformation Property (PowerPoint)
+# Effect.EffectInformation property (PowerPoint)
 
 Returns an  **[EffectInformation](PowerPoint.EffectInformation.md)** object that represents information for a specified animation effect.
 
 
 ## Syntax
 
- _expression_. `EffectInformation`
+_expression_. `EffectInformation`
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value
@@ -51,4 +52,4 @@ End Sub
 
 [Effect Object](PowerPoint.Effect.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

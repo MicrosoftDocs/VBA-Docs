@@ -1,12 +1,13 @@
 ---
-title: Engagements Object (Project)
+title: Engagements object (Project)
 ms.assetid: 4986802b-1d53-7bc6-0bc7-6a5b83855628
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 
-# Engagements Object (Project)
+# Engagements object (Project)
 
 A collection of  **Engagement** objects. Introduced in Office 2016.
  
@@ -24,7 +25,7 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.engagements.add.md)|
 
@@ -33,7 +34,7 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.engagements.application.md)|
 |[Count](Project.engagements.count.md)|
@@ -41,3 +42,4 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 |[Parent](Project.engagements.parent.md)|
 |[UniqueID](Project.engagements.uniqueid.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

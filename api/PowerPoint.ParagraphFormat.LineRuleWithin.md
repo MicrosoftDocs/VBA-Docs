@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineRuleWithin Property (PowerPoint)
+title: ParagraphFormat.LineRuleWithin property (PowerPoint)
 keywords: vbapp10.chm576007
 f1_keywords:
 - vbapp10.chm576007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ParagraphFormat.LineRuleWithin
 ms.assetid: 0bf91b11-fe28-eec8-75f8-8fccbed19f5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineRuleWithin Property (PowerPoint)
+# ParagraphFormat.LineRuleWithin property (PowerPoint)
 
 Determines whether line spacing between base lines is set to a specific number of points or lines. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineRuleWithin`
+_expression_. `LineRuleWithin`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **LineRuleWithin** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Line spacing between base lines is set to a specific number of points.|
 |**msoTrue**| Line spacing between base lines is set to a specific number of lines.|
@@ -74,3 +75,4 @@ MsgBox "Current line spacing: " & ls & lsUnits
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

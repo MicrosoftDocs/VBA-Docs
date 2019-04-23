@@ -1,5 +1,5 @@
 ---
-title: Selection.Start Property (Word)
+title: Selection.Start property (Word)
 keywords: vbawd10.chm158662659
 f1_keywords:
 - vbawd10.chm158662659
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Start
 ms.assetid: e1928372-2473-e377-4ba1-894b104fcf43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Start Property (Word)
+# Selection.Start property (Word)
 
-Returns or sets the starting character position of a selection. Read/write  **Long** .
+Returns or sets the starting character position of a selection. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ SelLength = Selection.End - Selection.Start
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AccelTable.Parent Property (Visio)
+title: AccelTable.Parent property (Visio)
 keywords: vis_sdr.chm14714040
 f1_keywords:
 - vis_sdr.chm14714040
@@ -8,17 +8,18 @@ api_name:
 - Visio.AccelTable.Parent
 ms.assetid: 45254ae1-86b2-5b5b-e371-7d05a7b00fac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelTable.Parent Property (Visio)
+# AccelTable.Parent property (Visio)
 
 Determines the parent of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [AccelTable](./Visio.AccelTable.md) object.
 
@@ -35,4 +36,4 @@ AccelTables
 
 In general, an object's parent is the object that contains it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

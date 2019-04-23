@@ -1,23 +1,24 @@
 ---
-title: ChartGroup.HasDropLines Property (PowerPoint)
+title: ChartGroup.HasDropLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasDropLines
 ms.assetid: d957d6c6-acde-7ef0-9786-6f0f32d29253
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.HasDropLines Property (PowerPoint)
+# ChartGroup.HasDropLines property (PowerPoint)
 
  **True** if the line chart or area chart has drop lines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDropLines`
+_expression_.**HasDropLines**
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ This property applies only to line and area charts.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example enables drop lines for chart group one of the first chart in the active document and then sets their line style, weight, and color. You should run the example on a 2-D line chart that has one series.
+The following example enables drop lines for chart group one of the first chart in the active document and then sets their line style, weight, and color. You should run the example on a 2D line chart that has one series.
 
 
 
@@ -69,3 +70,4 @@ End With
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

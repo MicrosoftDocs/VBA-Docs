@@ -1,14 +1,15 @@
 ---
-title: PjFileFormat Enumeration (Project)
+title: PjFileFormat enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFileFormat
 ms.assetid: f74c5341-dc2a-027b-3fd6-e33800c6e5a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjFileFormat Enumeration (Project)
+# PjFileFormat enumeration (Project)
 
 Contains constants that specify the file format.
 
@@ -26,3 +27,4 @@ Contains constants that specify the file format.
 |**pjXLSB**|21|Excel binary file.|
 |**pjXLSX**|20|Excel OpenXML format file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

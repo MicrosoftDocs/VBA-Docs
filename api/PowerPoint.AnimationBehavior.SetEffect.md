@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.SetEffect Property (PowerPoint)
+title: AnimationBehavior.SetEffect property (PowerPoint)
 keywords: vbapp10.chm657015
 f1_keywords:
 - vbapp10.chm657015
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.SetEffect
 ms.assetid: d23fe7c5-9b1b-f7c6-32d5-dd6fa00cb533
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.SetEffect Property (PowerPoint)
+# AnimationBehavior.SetEffect property (PowerPoint)
 
 Returns a  **SetEffect** object for the animation behavior. Read-only.
 
 
 ## Syntax
 
- _expression_. `SetEffect`
+_expression_. `SetEffect`
 
- _expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -70,3 +71,4 @@ End Sub
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

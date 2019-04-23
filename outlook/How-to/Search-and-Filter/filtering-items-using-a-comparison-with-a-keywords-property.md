@@ -3,6 +3,7 @@ title: Filtering Items Using a Comparison with a Keywords Property
 ms.prod: outlook
 ms.assetid: 8d1bcff0-cf25-662d-08ae-15e8d0edb8ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -61,4 +62,4 @@ returns any item that has  **Book** as a category, including those categorized w
 
 If the multi-valued property is added to the  **[Table](../../../api/Outlook.Table.md)** using a reference by namespace, the format of the values of the property is a variant array. To access these values, parse the elements in the array. Using the last example, this would also allow you to obtain the items that contain exactly **Partner** as a category.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

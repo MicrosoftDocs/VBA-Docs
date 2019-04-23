@@ -1,15 +1,16 @@
 ---
-title: TextColumns Object (Word)
+title: TextColumns object (Word)
 keywords: vbawd10.chm2419
 f1_keywords:
 - vbawd10.chm2419
 ms.prod: word
 ms.assetid: 00b62c93-db7d-00b9-cc84-9a21e427d0cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextColumns Object (Word)
+# TextColumns object (Word)
 
 A collection of  **TextColumn** objects that represent all the columns of text in a document or a section of a document.
 
@@ -50,6 +51,6 @@ ActiveDocument.PageSetup.TextColumns.SetCount NumColumns:=3
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

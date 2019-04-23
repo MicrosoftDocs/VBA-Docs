@@ -1,12 +1,13 @@
 ---
-title: xlAxisCrosses Enumeration (Word)
+title: XlAxisCrosses enumeration (Word)
 ms.prod: word
 ms.assetid: 614181e7-483a-8742-c27b-31b598528e17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlAxisCrosses Enumeration (Word)
+# XlAxisCrosses enumeration (Word)
 
 Specifies the point on the specified axis where the other axis crosses.
 
@@ -19,3 +20,4 @@ Specifies the point on the specified axis where the other axis crosses.
 | **xlAxisCrossesMaximum**|2|The axis crosses at the maximum value.|
 | **xlAxisCrossesMinimum**|4|The axis crosses at the minimum value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

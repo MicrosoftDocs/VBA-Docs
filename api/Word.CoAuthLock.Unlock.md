@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Unlock Method (Word)
+title: CoAuthLock.Unlock method (Word)
 keywords: vbawd10.chm260046854
 f1_keywords:
 - vbawd10.chm260046854
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthLock.Unlock
 ms.assetid: 7f64431b-8b1b-60b3-142c-5251dce1a8a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthLock.Unlock Method (Word)
+# CoAuthLock.Unlock method (Word)
 
 Unlocks the specified lock.
 
 
 ## Syntax
 
- _expression_. `Unlock`
+_expression_. `Unlock`
 
  _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
@@ -52,3 +53,4 @@ Next myLock
 
 [CoAuthLock Object](Word.CoAuthLock.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

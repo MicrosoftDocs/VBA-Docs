@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6de5e30a-de0a-4a31-a1e5-29eeef387e83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Cell.Assignment Property (Project)](http://msdn.microsoft.com/library/ac17eff9-d697-dbfa-7968-d61a474690ba%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

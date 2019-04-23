@@ -8,19 +8,20 @@ api_name:
 - Excel.VPageBreak.Location
 ms.assetid: d039049f-5b08-d867-c874-f25ca0dbe70f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # VPageBreak.Location property (Excel)
 
-Returns the cell (a **Range** object) that defines the page-break location. Vertical page breaks are aligned with the left edge of the location cell. Read-only **[Range](Excel.Range(object).md)** .
+Returns the cell (a **Range** object) that defines the page-break location. Vertical page breaks are aligned with the left edge of the location cell. Read-only **[Range](Excel.Range(object).md)**.
 
 
 ## Syntax
 
- _expression_. `Location`
+_expression_.**Location** 
 
- _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
+_expression_ A variable that represents a [VPageBreak](Excel.VPageBreak.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ Set r = Worksheets(1).VPageBreaks(1).Location
 
 [VPageBreak Object](Excel.VPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c95c1162-a660-2576-8ea7-d87a7698a389
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Visual Basic couldn't load the [add-in](../../Glossary/vbe-glossary.md#add-in) that you tried to select from the **Available Add-Ins** list in the **Add-In Manager** dialog box. Click **Yes** to remove it from the list or click **No** to leave it on the list. In either case, you can't load it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

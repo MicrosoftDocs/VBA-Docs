@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 70ffb571-5794-875c-869a-a68a5e1b8ac8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -58,14 +59,15 @@ End Sub
 
 |**Sample output**|**Description**|
 |:-----|:-----|
-|```C:\documents\drawings\Office.vsd```| The name of the first drawing|
-|```Background-1```|The name of page 1|
-|```Background-2```|The name of page 2|
-|```C:\documents\drawings\Recycle.vsd```|The name of the second drawing|
-|```Page-1```|The name of page 1|
-|```Page-2```|The name of page 2|
-|```Page-3```|The name of page 3|
+|`C:\documents\drawings\Office.vsd`| The name of the first drawing|
+|`Background-1`|The name of page 1|
+|`Background-2`|The name of page 2|
+|`C:\documents\drawings\Recycle.vsd`|The name of the second drawing|
+|`Page-1`|The name of page 1|
+|`Page-2`|The name of page 2|
+|`Page-3`|The name of page 3|
 
 You can find more information about writing a program in the VBA environment and about the Visual Basic Editor in Visual Basic Help (in the Visual Basic Editor window, on the  **Help** menu, click **Microsoft Visual Basic Help**).
 You can find details about using a specific Visio object, property, method, enumeration, or event in this reference.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

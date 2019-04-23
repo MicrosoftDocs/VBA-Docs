@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlOnEnter Event (Word)
+title: Document.ContentControlOnEnter event (Word)
 keywords: vbawd10.chm4001013
 f1_keywords:
 - vbawd10.chm4001013
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ContentControlOnEnter
 ms.assetid: 593eca61-886c-85e9-fde2-1dc20c80740b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ContentControlOnEnter Event (Word)
+# Document.ContentControlOnEnter event (Word)
 
 Occurs when a user enters a content control.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'ContentControlOnEnter'(**_ContentControl_** , )
+Private Sub  _expression_ _'ContentControlOnEnter'(**_ContentControl_**, )
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ For information about using events with the  **Document** object, see [Using Eve
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

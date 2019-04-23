@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleSlack Method (Project)
+title: Application.GanttBarStyleSlack method (Project)
 keywords: vbapj.chm81
 f1_keywords:
 - vbapj.chm81
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GanttBarStyleSlack
 ms.assetid: ccd8feb0-8551-c3fd-3ce5-ca90baaff910
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleSlack Method (Project)
+# Application.GanttBarStyleSlack method (Project)
 
 Shows or hides the slack style for tasks on the active Gantt chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarStyleSlack`( ` _Show_` )
+_expression_. `GanttBarStyleSlack`( `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Shows or hides the slack style for tasks on the active Gantt chart.
 
 On the Ribbon, the  **GanttBarStyleSlack** method corresponds to the **Slack** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

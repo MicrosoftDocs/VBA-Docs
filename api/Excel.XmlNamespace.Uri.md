@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlNamespace.Uri
 ms.assetid: f057b379-d787-e1b4-6afb-26f511e77d11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) for 
 
 ## Syntax
 
- _expression_. `Uri`
+_expression_. `Uri`
 
- _expression_ A variable that represents a [XmlNamespace](./Excel.XmlNamespace.md) object.
+_expression_ A variable that represents a [XmlNamespace](Excel.XmlNamespace.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) for 
 
 [XmlNamespace Object](Excel.XmlNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

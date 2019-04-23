@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 53281f73-3476-44a7-b247-f2aacae4ef28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentProject.AllMacros property (Access)](http://msdn.microsoft.com/library/73c01f69-530b-eb7f-8f77-ecf47e9c2d2f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

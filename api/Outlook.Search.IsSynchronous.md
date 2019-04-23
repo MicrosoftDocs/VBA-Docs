@@ -1,5 +1,5 @@
 ---
-title: Search.IsSynchronous Property (Outlook)
+title: Search.IsSynchronous property (Outlook)
 keywords: vbaol11.chm2254
 f1_keywords:
 - vbaol11.chm2254
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Search.IsSynchronous
 ms.assetid: e240cc55-26c3-a560-4ee2-84b15da95e52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Search.IsSynchronous Property (Outlook)
+# Search.IsSynchronous property (Outlook)
 
 Returns a  **Boolean** indicating whether the search is synchronous. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsSynchronous`
+_expression_. `IsSynchronous`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ A search can be synchronous or asynchronous. If the search is synchronous, code 
 
 [Search Object](Outlook.Search.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

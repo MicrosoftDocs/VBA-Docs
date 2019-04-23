@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.MemoryUsed
 ms.assetid: f68731ec-053e-79e9-861f-2c225b827e96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.MemoryUsed property (Excel)
 
-Returns the amount of memory currently being used by the object, in bytes. Read-only  **Long** .
+Returns the amount of memory currently being used by the object, in bytes. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `MemoryUsed`
+_expression_. `MemoryUsed`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ MsgBox "Microsoft Excel is currently using " & _
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

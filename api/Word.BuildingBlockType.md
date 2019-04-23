@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockType Object (Word)
+title: BuildingBlockType object (Word)
 keywords: vbawd10.chm2554
 f1_keywords:
 - vbawd10.chm2554
@@ -8,17 +8,18 @@ api_name:
 - Word.BuildingBlockType
 ms.assetid: e4f971da-f052-b6a2-db40-2f4cd0cfd6be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlockType Object (Word)
+# BuildingBlockType object (Word)
 
 Represents a type of building block. Each  **BuildingBlockType** object is a member of the **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection.
 
 
 ## Remarks
 
-Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a  **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)** constant. Use the **[Categories](Word.BuildingBlockType.Categories.md)** property to access categories for a specific building block type. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
+Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a  **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)** constant. Use the **[Categories](Word.BuildingBlockType.Categories.md)** property to access categories for a specific building block type. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 ```vb
@@ -48,6 +49,6 @@ For more information about building blocks, see [Working with Building Blocks](.
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

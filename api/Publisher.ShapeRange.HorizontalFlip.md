@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HorizontalFlip Property (Publisher)
+title: ShapeRange.HorizontalFlip property (Publisher)
 keywords: vbapb10.chm2293824
 f1_keywords:
 - vbapb10.chm2293824
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.HorizontalFlip
 ms.assetid: c0dd2f4a-0baf-3720-113a-b929193f2b1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.HorizontalFlip Property (Publisher)
+# ShapeRange.HorizontalFlip property (Publisher)
 
 Indicates whether the specified shape has been flipped around its horizontal axis. Read-only.
 
 
 ## Syntax
 
- _expression_. **HorizontalFlip**
+_expression_.**HorizontalFlip**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -29,7 +30,7 @@ The  **HorizontalFlip** property value can be one of the **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its horizontal axis.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -53,4 +54,4 @@ Sub Flipper()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.SenderEmailAddress Property (Outlook)
+title: MeetingItem.SenderEmailAddress property (Outlook)
 keywords: vbaol11.chm1469
 f1_keywords:
 - vbaol11.chm1469
@@ -8,24 +8,25 @@ api_name:
 - Outlook.MeetingItem.SenderEmailAddress
 ms.assetid: b318c074-4897-d99d-2b7c-870b4ab083e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.SenderEmailAddress Property (Outlook)
+# MeetingItem.SenderEmailAddress property (Outlook)
 
-Returns a  **String** that represents the e-mail address of the sender of the Outlook item. Read-only.
+Returns a  **String** that represents the email address of the sender of the Outlook item. Read-only.
 
 
 ## Syntax
 
- _expression_. `SenderEmailAddress`
+_expression_. `SenderEmailAddress`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
+This property corresponds to the MAPI property  **PidTagSenderEmailAddress**.
 
 
 ## See also
@@ -33,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

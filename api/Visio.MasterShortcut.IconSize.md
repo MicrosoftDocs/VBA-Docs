@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.IconSize Property (Visio)
+title: MasterShortcut.IconSize property (Visio)
 keywords: vis_sdr.chm16013665
 f1_keywords:
 - vis_sdr.chm16013665
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.IconSize
 ms.assetid: 9139aa9b-5dff-e59e-cb86-6df54feb4ba3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.IconSize Property (Visio)
+# MasterShortcut.IconSize property (Visio)
 
 Gets or sets the size of a master icon. Read/write.
 
 
 ## Syntax
 
- _expression_. `IconSize`
+_expression_. `IconSize`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -41,3 +42,4 @@ The following constants declared by the Visio type library in  **VisMasterProper
 | **visWide**|3|
 | **visDouble**|4|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

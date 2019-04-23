@@ -1,5 +1,5 @@
 ---
-title: OlFolderDisplayMode Enumeration (Outlook)
+title: OlFolderDisplayMode enumeration (Outlook)
 keywords: vbaol11.chm3059
 f1_keywords:
 - vbaol11.chm3059
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlFolderDisplayMode
 ms.assetid: 90ab0507-7096-4075-72c1-bc56de25bbf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlFolderDisplayMode Enumeration (Outlook)
+# OlFolderDisplayMode enumeration (Outlook)
 
 Specifies the folder display mode.
 
@@ -27,4 +28,4 @@ Specifies the folder display mode.
 
 Used as an optional parameter to the [Explorers.Add](Outlook.Explorers.Add.md) method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

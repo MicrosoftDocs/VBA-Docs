@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.SignXmlDsig Method (Office)
+title: SignatureProvider.SignXmlDsig method (Office)
 keywords: vbaof11.chm287004
 f1_keywords:
 - vbaof11.chm287004
@@ -7,44 +7,43 @@ ms.prod: office
 api_name:
 - Office.SignatureProvider.SignXmlDsig
 ms.assetid: d278f48f-4128-b8b1-f32d-d81ccbbf6771
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SignatureProvider.SignXmlDsig Method (Office)
+# SignatureProvider.SignXmlDsig method (Office)
 
 Used to sign the XMLDSIG template.
 
 
 ## Syntax
 
- _expression_. `SignXmlDsig`( `_QueryContinue_`, `_psigsetup_`, `_psiginfo_`, `_XmlDsigStream_` )
+_expression_.**SignXmlDsig**(_QueryContinue_, _psigsetup_, _psiginfo_, _XmlDsigStream_)
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+_expression_ An expression that returns a **[SignatureProvider](Office.SignatureProvider.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the verification operation.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies configuration information about a signature line.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information captured from the signing ceremony.|
-| _XmlDsigStream_|Required|**IStream**|Represents a steam of data containing XML, which represents an  **XMLDSIG** object.|
+| _XmlDsigStream_|Required|**IStream**|Represents a stream of data containing XML, which represents an **XMLDSIG** object.|
 
 ## Remarks
 
-XMLDSIG is a standards-based signature format (https://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in the Microsoft Office. 
+XMLDSIG is a standards-based signature format (https://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in Microsoft Office. 
 
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **SignXmlDsig** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **SignXmlDsig** method in a custom signature provider project.
 
 
-```vb
+```cs
  public void SignXmlDsig(object queryContinue, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream) 
  { 
  using (COMStream comstream = new COMStream(xmldsigStream)) 
@@ -104,10 +103,8 @@ The following example, written in C#, shows the implementation of the  **SignXml
 
 ## See also
 
-
-[SignatureProvider Object](Office.SignatureProvider.md)
-
+- [SignatureProvider object members](overview/Library-Reference/signatureprovider-members-office.md)
 
 
-[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

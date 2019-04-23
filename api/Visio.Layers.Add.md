@@ -1,5 +1,5 @@
 ---
-title: Layers.Add Method (Visio)
+title: Layers.Add method (Visio)
 keywords: vis_sdr.chm11916675
 f1_keywords:
 - vis_sdr.chm11916675
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layers.Add
 ms.assetid: e46bc30f-ad35-ddeb-86d3-14ef535451cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layers.Add Method (Visio)
+# Layers.Add method (Visio)
 
 Adds a new  **Layer** object to a **Layers** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_LayerName_` )
+_expression_.**Add**( `_LayerName_` )
 
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 
@@ -65,4 +66,4 @@ Public Sub AddLayer_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

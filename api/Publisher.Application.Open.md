@@ -1,5 +1,5 @@
 ---
-title: Application.Open Method (Publisher)
+title: Application.Open method (Publisher)
 keywords: vbapb10.chm131128
 f1_keywords:
 - vbapb10.chm131128
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Open
 ms.assetid: 560ac406-f058-8fd8-4b6d-978ff369de9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Open Method (Publisher)
+# Application.Open method (Publisher)
 
 Returns a  **[Document](Publisher.Document.md)** object that represents the newly opened publication.
 
 
 ## Syntax
 
- _expression_. **Open**(**_Filename_**,  **_ReadOnly_**,  **_AddToRecentFiles_**,  **_SaveChanges_**)
+_expression_.**Open**(**_FileName_**,  **_ReadOnly_**,  **_AddToRecentFiles_**,  **_SaveChanges_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -48,7 +49,7 @@ The SaveChanges parameter can be one of the  **PbSaveOption** constants declared
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbDoNotSaveChanges**|Close the open publication without saving any changes. |
 | **pbPromptToSaveChanges**|Prompt the user whether to save changes in the open publication. The default.|
@@ -79,3 +80,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

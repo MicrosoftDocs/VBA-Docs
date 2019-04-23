@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Accumulate Property (PowerPoint)
+title: AnimationBehavior.Accumulate property (PowerPoint)
 keywords: vbapp10.chm657004
 f1_keywords:
 - vbapp10.chm657004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.Accumulate
 ms.assetid: 218687c0-6a0e-22ba-a921-efc460986d54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Accumulate Property (PowerPoint)
+# AnimationBehavior.Accumulate property (PowerPoint)
 
 Determines whether animation behaviors accumulate. Read/write.
 
 
 ## Syntax
 
- _expression_. `Accumulate`
+_expression_. `Accumulate`
 
- _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -36,7 +37,7 @@ The value of the  **Accumulate** property can be one of these **MsoAnimAccumulat
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAnimAccumulateAlways**| Animation behaviors accumulate.|
 |**msoAnimAccumulateNone**| The default. Animation behaviors do not accumulate.|
@@ -65,3 +66,4 @@ End Sub
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

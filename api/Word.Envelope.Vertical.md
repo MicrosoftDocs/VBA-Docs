@@ -1,5 +1,5 @@
 ---
-title: Envelope.Vertical Property (Word)
+title: Envelope.Vertical property (Word)
 keywords: vbawd10.chm152567830
 f1_keywords:
 - vbawd10.chm152567830
@@ -8,19 +8,20 @@ api_name:
 - Word.Envelope.Vertical
 ms.assetid: 23f8fbf0-375e-98c2-81b4-451cc8973e85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.Vertical Property (Word)
+# Envelope.Vertical property (Word)
 
- **True** vertically orients text on Asian envelopes. Read/write **Boolean** .
+ **True** vertically orients text on Asian envelopes. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Vertical`
+_expression_. `Vertical`
 
- _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

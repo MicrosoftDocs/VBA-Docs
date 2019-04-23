@@ -1,14 +1,15 @@
 ---
-title: PjIndicator Enumeration (Project)
+title: PjIndicator enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjIndicator
 ms.assetid: 97e7473c-4b4f-6934-0871-959d723fb72e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjIndicator Enumeration (Project)
+# PjIndicator enumeration (Project)
 
 Contains constants that specify a graphical indicator.
 
@@ -43,7 +44,7 @@ Contains constants that specify a graphical indicator.
 |**pjIndicatorFaceStraightYellow**|61|The indicator is a yellow-colored straight face.|
 |**pjIndicatorFlagAqua**|18|The indicator is an aqua flag.|
 |**pjIndicatorFlagBlue**|19|The indicator is a blue flag.|
-|**pjIndicatorFlagFuschia**|20|The indicator is a fuschia flag.|
+|**pjIndicatorFlagFuchsia**|20|The indicator is a fuchsia flag.|
 |**pjIndicatorFlagLime**|14|The indicator is a lime flag.|
 |**pjIndicatorFlagRed**|16|The indicator is a red flag.|
 |**pjIndicatorFlagSilver**|21|The indicator is a silver flag.|
@@ -67,7 +68,7 @@ Contains constants that specify a graphical indicator.
 |**pjIndicatorSphereAqua**|6|The indicator is an aqua sphere.|
 |**pjIndicatorSphereBlack**|4|The indicator is a black sphere.|
 |**pjIndicatorSphereBlue**|8|The indicator is a blue sphere.|
-|**pjIndicatorSphereFuschia**|9|The indicator is a fuschia sphere.|
+|**pjIndicatorSphereFuchsia**|9|The indicator is a fuchsia sphere.|
 |**pjIndicatorSphereGray**|12|The indicator is a gray sphere.|
 |**pjIndicatorSphereGreen**|7|The indicator is a green sphere.|
 |**pjIndicatorSphereLime**|1|The indicator is a lime sphere.|
@@ -83,3 +84,4 @@ Contains constants that specify a graphical indicator.
 |**pjIndicatorSquareWhite**|26|The indicator is a white square.|
 |**pjIndicatorSquareYellow**|23|The indicator is a yellow square.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

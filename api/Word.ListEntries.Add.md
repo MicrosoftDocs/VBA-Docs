@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Add Method (Word)
+title: ListEntries.Add method (Word)
 keywords: vbawd10.chm153354341
 f1_keywords:
 - vbawd10.chm153354341
@@ -8,19 +8,20 @@ api_name:
 - Word.ListEntries.Add
 ms.assetid: 02e51c84-a95e-3058-e1b5-7258ac7bc65b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListEntries.Add Method (Word)
+# ListEntries.Add method (Word)
 
 Returns a  **ListEntry** object that represents an item added to a drop-down form field.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Index_` )
+_expression_.**Add**( `_Name_` , `_Index_` )
 
- _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
+_expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End With
 
 [ListEntries Collection Object](Word.listentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

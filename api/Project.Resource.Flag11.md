@@ -1,21 +1,22 @@
 ---
-title: Resource.Flag11 Property (Project)
+title: Resource.Flag11 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Flag11
 ms.assetid: 151aff01-82ee-3774-5956-488b27e0bab3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Flag11 Property (Project)
+# Resource.Flag11 property (Project)
 
  **True** if the flag associated with a **Resource** is set. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag11`
+_expression_. `Flag11`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -40,4 +41,4 @@ Sub DeleteNonEssentialTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdOMathFracType Enumeration (Word)
+title: WdOMathFracType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathFracType
 ms.assetid: 24546a50-1692-2cb4-cd8e-7f47688e4708
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdOMathFracType Enumeration (Word)
+# WdOMathFracType enumeration (Word)
 
 Specifies the type of fraction bar.
 
@@ -21,3 +22,4 @@ Specifies the type of fraction bar.
 | **wdOMathFracNoBar**|1|No fraction bar.|
 | **wdOMathFracSkw**|2|Skewed fraction bar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

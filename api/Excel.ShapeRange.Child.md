@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.Child
 ms.assetid: ce25e66e-6446-1c43-1ab5-0ec486311ef2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeRange.Child property (Excel)
 
-Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
+Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
 
- _expression_. `Child`
+_expression_. `Child`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Remarks
@@ -30,11 +31,11 @@ Returns  **msoTrue** if the specified shape is a child shape or if all shapes in
 
 
 | **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue** . Does not apply to this property.|
-| **msoFalse** . If the selected shape is not a child shape.|
-| **msoTriStateMixed** . If only some of the selected shapes are child shapes.|
-| **msoTriStateToggle** . Does not apply to this property.|
-| **msoTrue** . If the selected shape is a child shape.|
+| **msoCTrue**. Does not apply to this property.|
+| **msoFalse**. If the selected shape is not a child shape.|
+| **msoTriStateMixed**. If only some of the selected shapes are child shapes.|
+| **msoTriStateToggle**. Does not apply to this property.|
+| **msoTrue**. If the selected shape is a child shape.|
 
 ## Example
 
@@ -63,3 +64,4 @@ End Sub
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

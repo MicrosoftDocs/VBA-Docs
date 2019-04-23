@@ -8,19 +8,20 @@ api_name:
 - Excel.Parameters.Creator
 ms.assetid: 357ca5be-2f41-4bac-a10a-b917441f6e29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Parameters.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
+_expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Parameters Object](Excel.Parameters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

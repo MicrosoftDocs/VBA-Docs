@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 154255a5-7fe7-3397-c239-73a52792c183
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Add a Control to a Page
+# Add a Control to a Page
 
 The following example uses the  **Add** method of the Microsoft Forms 2.0 **Controls** collection to add a control to a form at run time.
 
@@ -34,4 +35,4 @@ Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

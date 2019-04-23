@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Add Method (Excel)
+title: Trendlines.Add method (Excel)
 keywords: vbaxl10.chm592074
 f1_keywords:
 - vbaxl10.chm592074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Trendlines.Add
 ms.assetid: 4d86029e-3c42-2d81-69d3-94d8dc072ccd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines.Add Method (Excel)
+# Trendlines.Add method (Excel)
 
 Creates a new trendline.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Type_` , `_Order_` , `_Period_` , `_Forward_` , `_Backward_` , `_Intercept_` , `_DisplayEquation_` , `_DisplayRSquared_` , `_Name_` )
+_expression_.**Add**( `_Type_` , `_Order_` , `_Period_` , `_Forward_` , `_Backward_` , `_Intercept_` , `_DisplayEquation_` , `_DisplayRSquared_` , `_Name_` )
 
- _expression_ A variable that represents a [Trendlines](./Excel.Trendlines(object).md) object.
+_expression_ A variable that represents a [Trendlines](Excel.Trendlines(object).md) object.
 
 
 ## Parameters
@@ -30,13 +31,13 @@ Creates a new trendline.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **[XlTrendlineType](Excel.XlTrendlineType.md)**|The trendline type.|
-| _Order_|Optional| **Variant**| **Variant** . if _Type_ is **xlPolynomial** . The trendline order. Must be an integer from 2 to 6, inclusive.|
-| _Period_|Optional| **Variant**|if  _Type_ is **xlMovingAvg** . The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you're adding a trendline to.|
+| _Order_|Optional| **Variant**| **Variant**. if _Type_ is **xlPolynomial**. The trendline order. Must be an integer from 2 to 6, inclusive.|
+| _Period_|Optional| **Variant**|if  _Type_ is **xlMovingAvg**. The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you are adding a trendline to.|
 | _Forward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|
 | _Backward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends backward.|
 | _Intercept_|Optional| **Variant**|The trendline intercept. If this argument is omitted, the intercept is automatically set by the regression.|
-| _DisplayEquation_|Optional| **Variant**| **True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default value is **False** .|
-| _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False** .|
+| _DisplayEquation_|Optional| **Variant**| **True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default value is **False**.|
+| _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False**.|
 | _Name_|Optional| **Variant**|The name of the trendline as text. If this argument is omitted, Microsoft Excel generates a name.|
 
 ## Return value
@@ -59,3 +60,4 @@ ActiveWorkbook.Charts("Chart1").SeriesCollection(1).Trendlines.Add
 
 [Trendlines Object](Excel.Trendlines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

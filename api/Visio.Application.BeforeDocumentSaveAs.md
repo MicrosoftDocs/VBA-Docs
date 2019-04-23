@@ -1,14 +1,15 @@
 ---
-title: Application.BeforeDocumentSaveAs Event (Visio)
+title: Application.BeforeDocumentSaveAs event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.BeforeDocumentSaveAs
 ms.assetid: e6782126-d2e7-c82e-b4dc-a9a5cece14b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BeforeDocumentSaveAs Event (Visio)
+# Application.BeforeDocumentSaveAs event (Visio)
 
 Occurs just before a document is saved by using the  **Save As** command.
 
@@ -51,4 +52,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 If you are handling this event from a program that receives a notification over a connection by using the  **AddAdvise** method, the _vMoreInfo_ argument to **VisEventProc** designates the document index: "/doc=1".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

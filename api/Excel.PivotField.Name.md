@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.Name
 ms.assetid: 0b513a11-dce8-0e65-0dfa-5d6ee9af7684
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value representing the name of the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value representing the name of the object.
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: ed326e33-6549-52df-9bd2-39641cab2de7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTables.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTables Object (Excel)](Excel.modeltables.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [ModelTables](Excel.modeltables.md) object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ModelTables Object (Excel)](Excel.modeltables.md) object.
+_expression_ A variable that represents a [ModelTables](Excel.modeltables.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
 [ModelTables Object](Excel.modeltables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

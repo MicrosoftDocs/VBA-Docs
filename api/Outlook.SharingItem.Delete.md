@@ -1,5 +1,5 @@
 ---
-title: SharingItem.Delete Method (Outlook)
+title: SharingItem.Delete method (Outlook)
 keywords: vbaol11.chm625
 f1_keywords:
 - vbaol11.chm625
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.Delete
 ms.assetid: 9848fe0e-b32f-8796-f37d-7b7795309e1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.Delete Method (Outlook)
+# SharingItem.Delete method (Outlook)
 
 Removes a  **[SharingItem](Outlook.SharingItem.md)** item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

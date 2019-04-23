@@ -1,5 +1,5 @@
 ---
-title: RelatedShapePairEvent Object (Visio)
+title: RelatedShapePairEvent object (Visio)
 keywords: vis_sdr.chm61045
 f1_keywords:
 - vis_sdr.chm61045
@@ -8,10 +8,11 @@ api_name:
 - Visio.RelatedShapePairEvent
 ms.assetid: 8a59ae03-ed45-21e3-73ad-8fdbe4c53299
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RelatedShapePairEvent Object (Visio)
+# RelatedShapePairEvent object (Visio)
 
 Holds information about the shapes that are involved in a container relationship or a callout relationship.
 
@@ -24,4 +25,4 @@ When you add or remove a member shape from a container, Microsoft Visio fires a 
 
 When you add or remove a callout relationship from a document, Microsoft Visio fires a  **CalloutRelationshipAdded** or **CalloutRelationshipDeleted** event respectively, and in each case, returns a **RelatedShapePairEvent** object that encapsulates information about the event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

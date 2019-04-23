@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.SparklineGroups
 ms.assetid: 66c6ef19-08a0-91e8-6fef-e827b80d5e62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SparklineGroups](Excel.SparklineGroups.md)** object that represent
 
 ## Syntax
 
- _expression_. `SparklineGroups`
+_expression_. `SparklineGroups`
 
- _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
+_expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns a  **[SparklineGroups](Excel.SparklineGroups.md)** object that represent
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

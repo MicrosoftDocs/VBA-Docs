@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesToggleItem Method (Project)
+title: Application.DetailStylesToggleItem method (Project)
 keywords: vbapj.chm960
 f1_keywords:
 - vbapj.chm960
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DetailStylesToggleItem
 ms.assetid: 744022ac-e5c1-ee5a-c02b-c6962c821c55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DetailStylesToggleItem Method (Project)
+# Application.DetailStylesToggleItem method (Project)
 
 Toggles the display of a timescale data field in a usage view.
 
 
 ## Syntax
 
- _expression_. `DetailStylesToggleItem`( ` _Item_` )
+_expression_. `DetailStylesToggleItem`( `_Item_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -79,3 +80,4 @@ If the active view is the  **Task Usage** view, can be one of the following **Pj
 |**pjCPI**|**pjWork**|
 |**pjCumPctComplete**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

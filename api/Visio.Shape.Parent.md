@@ -1,5 +1,5 @@
 ---
-title: Shape.Parent Property (Visio)
+title: Shape.Parent property (Visio)
 keywords: vis_sdr.chm11250755
 f1_keywords:
 - vis_sdr.chm11250755
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Parent
 ms.assetid: aada0bc1-75e3-8357-3ef9-597a10250860
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Parent Property (Visio)
+# Shape.Parent property (Visio)
 
 Determines the parent of a  **Shape** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -36,4 +37,4 @@ When assigning a new parent shape, you must assign a  **Shape** object. If you w
 
 A shape and its parent shape must be in the same containing page or containing master. If the new parent is not a  **Shape** object, or if the **ContainingPage** or **ContainingMaster** property of the parent shape is different from that of the shape, Microsoft Visio raises an exception.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

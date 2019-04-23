@@ -1,5 +1,5 @@
 ---
-title: Options.AllowDragAndDrop Property (Word)
+title: Options.AllowDragAndDrop property (Word)
 keywords: vbawd10.chm162988100
 f1_keywords:
 - vbawd10.chm162988100
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AllowDragAndDrop
 ms.assetid: f3cea42e-5fba-7415-bb7a-f214882cc566
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AllowDragAndDrop Property (Word)
+# Options.AllowDragAndDrop property (Word)
 
- **True** if dragging can be used to move or copy a selection. Read/write **Boolean** .
+ **True** if dragging can be used to move or copy a selection. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowDragAndDrop`
+_expression_. `AllowDragAndDrop`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -49,3 +50,4 @@ blnDragAndDrop = Options.AllowDragAndDrop
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

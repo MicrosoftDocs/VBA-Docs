@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Controls Property (Office)
+title: CommandBar.Controls property (Office)
 keywords: vbaof11.chm3003
 f1_keywords:
 - vbaof11.chm3003
@@ -7,23 +7,24 @@ ms.prod: office
 api_name:
 - Office.CommandBar.Controls
 ms.assetid: 5c025bc5-9266-18a2-21ee-6aee478fb322
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBar.Controls Property (Office)
+# CommandBar.Controls property (Office)
 
-Gets a  **CommandBarControls** object that represents all the controls on a command bar. Read-only.
+Gets a **CommandBarControls** object that represents all the controls on a command bar. Read-only.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_.**Controls**
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+_expression_ A variable that represents a **[CommandBar](Office.CommandBar.md)** object.
 
 
 ## Return value
@@ -51,10 +52,6 @@ End With
 
 ## See also
 
+- [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 
-[CommandBar Object](Office.CommandBar.md)
-
-
-
-[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

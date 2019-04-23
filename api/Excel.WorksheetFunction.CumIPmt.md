@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CumIPmt Method (Excel)
+title: WorksheetFunction.CumIPmt method (Excel)
 keywords: vbaxl10.chm137324
 f1_keywords:
 - vbaxl10.chm137324
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CumIPmt
 ms.assetid: e8940dd7-26c2-ae9b-1876-1c61afcea33d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CumIPmt Method (Excel)
+# WorksheetFunction.CumIPmt method (Excel)
 
 Returns the cumulative interest paid on a loan between start_period and end_period.
 
 
 ## Syntax
 
- _expression_. `CumIPmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `CumIPmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ The following tables lists values used in  _Arg6_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

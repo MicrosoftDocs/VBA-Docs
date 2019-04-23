@@ -1,5 +1,5 @@
 ---
-title: Point.Explosion Property (Word)
+title: Point.Explosion property (Word)
 keywords: vbawd10.chm262144182
 f1_keywords:
 - vbawd10.chm262144182
@@ -8,17 +8,18 @@ api_name:
 - Word.Point.Explosion
 ms.assetid: e5305b4c-0ec5-79b3-6c71-2226fc3635ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.Explosion Property (Word)
+# Point.Explosion property (Word)
 
-Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long** .
+Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Explosion`
+_expression_. `Explosion`
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

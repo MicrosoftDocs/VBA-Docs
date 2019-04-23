@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToFront Property (Word)
+title: Series.ApplyPictToFront property (Word)
 keywords: vbawd10.chm123733628
 f1_keywords:
 - vbawd10.chm123733628
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.ApplyPictToFront
 ms.assetid: 85390115-161c-bc63-fbfb-25d793aff79d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.ApplyPictToFront Property (Word)
+# Series.ApplyPictToFront property (Word)
 
- **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean** .
+ **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToFront`
+_expression_. `ApplyPictToFront`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

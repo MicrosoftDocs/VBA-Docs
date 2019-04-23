@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Reset Method (Publisher)
+title: ParagraphFormat.Reset method (Publisher)
 keywords: vbapb10.chm5439509
 f1_keywords:
 - vbapb10.chm5439509
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.Reset
 ms.assetid: 8ef5c799-cace-133c-33d3-3454df2c2f24
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Reset Method (Publisher)
+# ParagraphFormat.Reset method (Publisher)
 
 Removes manual paragraph or text formatting from the specified object and leaves only the formatting specified by the current text style.
 
 
 ## Syntax
 
- _expression_. **Reset**
+_expression_.**Reset**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -48,4 +49,4 @@ ActiveDocument.Pages(1).Shapes(1) _
  .TextFrame.TextRange.ParagraphFormat.Reset
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

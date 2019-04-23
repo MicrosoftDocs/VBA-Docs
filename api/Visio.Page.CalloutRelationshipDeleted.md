@@ -1,5 +1,5 @@
 ---
-title: Page.CalloutRelationshipDeleted Event (Visio)
+title: Page.CalloutRelationshipDeleted event (Visio)
 keywords: vis_sdr.chm10962080
 f1_keywords:
 - vis_sdr.chm10962080
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.CalloutRelationshipDeleted
 ms.assetid: 06ab7df2-c2a9-2b86-4dd3-817f56dddf6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.CalloutRelationshipDeleted Event (Visio)
+# Page.CalloutRelationshipDeleted event (Visio)
 
 Occurs when a callout relationship is deleted from the page.
 
@@ -39,4 +40,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **[Event](Visio.Event.md)** objects, use the **[EventList.Add](Visio.EventList.Add.md)** or **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method. To create an **Event** object that runs an add-on, use the **EventList.Add** method. To create an **Event** object that receives notification, use the **EventList.AddAdvise** method. To find an event code for the event that you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

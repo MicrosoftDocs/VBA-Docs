@@ -2,7 +2,8 @@
 title: Reference (Object library reference for Office)
 ms.prod: office
 ms.assetid: 499c789a-aba2-0fad-649a-0ea964cd3b5e
-ms.date: 10/10/2018
+ms.date: 01/31/2019
+localization_priority: Priority
 ---
 
 
@@ -17,8 +18,10 @@ Use the table of contents in the left navigation to view the topics in this sect
 
 ## See also
 
-- [Library reference enumerations](enumerations-office.md)
-- [Getting started with VBA in Office](../../../Library-Reference/Concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
-- [What's new for VBA in Office 2016](../../../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
+- [Getting started with VBA in Office](../../../library-reference/concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
+- [What's new for VBA in Office 2016](../../../library-reference/concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
+- [Library reference enumerations](enumerations-office.md): Contains documentation for the enumerations in the Office object model.
+- [Library reference conceptual topics](../../../library-reference/concepts/concepts-object-library-reference-for-office.md): Contains overviews about programmability in Office.
 
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

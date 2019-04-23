@@ -1,14 +1,15 @@
 ---
-title: PjWorkContourType Enumeration (Project)
+title: PjWorkContourType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWorkContourType
 ms.assetid: 01e47a56-e13f-97c7-8790-34c24cc7baf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjWorkContourType Enumeration (Project)
+# PjWorkContourType enumeration (Project)
 
 Contains constants that specify the type of a work contour.
 
@@ -26,3 +27,4 @@ Contains constants that specify the type of a work contour.
 |**pjLatePeak**|5|Late peak.|
 |**pjTurtle**|7|Turtle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

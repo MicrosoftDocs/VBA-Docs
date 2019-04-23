@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ba314d7c-1d01-6b99-f80b-b1c18b1bef32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ The statement can't occur in a  **Sub** or **Function** procedure. This error ha
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

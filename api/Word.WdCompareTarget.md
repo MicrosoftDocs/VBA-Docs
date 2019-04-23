@@ -1,14 +1,15 @@
 ---
-title: WdCompareTarget Enumeration (Word)
+title: WdCompareTarget enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompareTarget
 ms.assetid: a003e09a-039e-40ba-faff-e9922bd74208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCompareTarget Enumeration (Word)
+# WdCompareTarget enumeration (Word)
 
 Specifies the target document for displaying document comparison differences.
 
@@ -20,3 +21,4 @@ Specifies the target document for displaying document comparison differences.
 | **wdCompareTargetNew**|2|Places comparison differences in a new document.|
 | **wdCompareTargetSelected**|0|Places comparison differences in the target document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

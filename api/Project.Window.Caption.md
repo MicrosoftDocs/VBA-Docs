@@ -1,21 +1,22 @@
 ---
-title: Window.Caption Property (Project)
+title: Window.Caption property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Caption
 ms.assetid: 02308676-1d72-9ac8-0654-6e510039efd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Caption Property (Project)
+# Window.Caption property (Project)
 
 Gets or sets the text in the title bar of a project window. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
@@ -57,4 +58,4 @@ Sub ChangeWindowCaption()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

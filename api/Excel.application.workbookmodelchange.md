@@ -1,37 +1,34 @@
 ---
-title: Application.WorkbookModelChange Event (Excel)
+title: Application.WorkbookModelChange event (Excel)
 keywords: vbaxl10.chm504118
 f1_keywords:
 - vbaxl10.chm504118
 ms.prod: excel
 ms.assetid: 62a32a29-e052-e812-82a7-58bdabadd80f
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
-# Application.WorkbookModelChange Event (Excel)
+# Application.WorkbookModelChange event (Excel)
 
 Occurs when the data model is updated.
 
 
 ## Syntax
 
- _expression_. `WorkbookModelChange`_(Wb,_ _Changes)_
+_expression_.**WorkbookModelChange** (_Wb_, _Changes_)
 
- _expression_ A variable that represents a [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Wb_|Required|WORKBOOK|The workbook|
-| _Changes_|Required|MODELCHANGES|The changes to the data model.|
-
-## See also
+| _Wb_|Required|**[Workbook](Excel.Workbook.md)**|The workbook.|
+| _Changes_|Required|ModelChanges|The changes to the data model.|
 
 
-[Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

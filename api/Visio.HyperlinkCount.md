@@ -5,6 +5,7 @@ api_name:
 - Visio.HyperlinkCount
 ms.assetid: 06c06812-25a6-779d-3af4-821538493c4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the count of hyperlinks associated with the shape at the specified index in
 
 ## Syntax
 
- _expression_. **HyperlinkCount**(**_ShapeIndex_**)
+_expression_.**HyperlinkCount**(**_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code gets the count of hyperlinks associated with the first shape 
 Debug.Print vsoViewer.HyperlinkCount(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

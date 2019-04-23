@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.Connection
 ms.assetid: 2fcd1043-b088-cfde-9853-4a20da20be26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCConnection.Connection property (Excel)
 
-Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write  **Variant** .
+Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Connection`
+_expression_. `Connection`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Setting the  **Connection** property does not immediately initiate the connectio
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

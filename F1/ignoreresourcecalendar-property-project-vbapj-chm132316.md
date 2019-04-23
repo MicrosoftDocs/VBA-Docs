@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6d2637b2-b9ca-410c-8ba1-2547d2438422
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.FontSize Property (Project)](http://msdn.microsoft.com/library/37e7b35b-06cf-aaaf-9bc4-c82daa5771e1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

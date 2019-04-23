@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Form.Printer
 ms.assetid: c533271a-c500-57de-f16c-ed384698f829
-ms.date: 06/08/2017
+ms.date: 03/14/2019
+localization_priority: Normal
 ---
 
 
 # Form.Printer property (Access)
 
-Returns or sets a  **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
+Returns or sets a **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
 
 
 ## Syntax
 
-_expression_. `Printer`
+_expression_.**Printer**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Example
 
-The following example makes the first printer in the  **[Printers](Access.Printers.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
-
+The following example makes the first printer in the **[Printers](Access.Printers.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
 
 ```vb
 Dim prtDefault As Printer 
@@ -44,8 +44,6 @@ End With
 ```
 
 
-## See also
 
 
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetY Method (Excel)
+title: ShadowFormat.IncrementOffsetY method (Excel)
 keywords: vbaxl10.chm114021
 f1_keywords:
 - vbaxl10.chm114021
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShadowFormat.IncrementOffsetY
 ms.assetid: 0479d9a1-aae1-069c-f692-276291ec54ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.IncrementOffsetY Method (Excel)
+# ShadowFormat.IncrementOffsetY method (Excel)
 
 Changes the vertical offset of the shadow by the specified number of points. Use the  **[OffsetY](Excel.ShadowFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
 
 
 ## Syntax
 
- _expression_. `IncrementOffsetY`( `_Increment_` )
+_expression_. `IncrementOffsetY`( `_Increment_` )
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Changes the vertical offset of the shadow by the specified number of points. Use
 
 ## Example
 
-This example moves the shadow on shape three on  `myDocument` up by 3 points.
+This example moves the shadow on shape three on  _myDocument_ up by 3 points.
 
 
 ```vb
@@ -47,3 +48,4 @@ myDocument.Shapes(3).Shadow.IncrementOffsetY -3
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

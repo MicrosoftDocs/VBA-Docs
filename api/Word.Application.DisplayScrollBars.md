@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayScrollBars Property (Word)
+title: Application.DisplayScrollBars property (Word)
 keywords: vbawd10.chm158335058
 f1_keywords:
 - vbawd10.chm158335058
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DisplayScrollBars
 ms.assetid: 23b3957a-e4c1-b422-836a-074f84ff2f8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DisplayScrollBars Property (Word)
+# Application.DisplayScrollBars property (Word)
 
- **True** if Word displays a scroll bar in at least one document window. **False** if there are no scroll bars displayed in any window. Read/write **Boolean** .
+ **True** if Word displays a scroll bar in at least one document window. **False** if there are no scroll bars displayed in any window. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayScrollBars`
+_expression_. `DisplayScrollBars`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -39,7 +40,7 @@ This example displays horizontal and vertical scroll bars in all windows.
 Application.DisplayScrollBars = True
 ```
 
-This example returns True if there is a scroll bar currently displayed in any window.
+This example returns **True** if there is a scroll bar currently displayed in any window.
 
 
 
@@ -56,3 +57,4 @@ blnTemp = Application.DisplayScrollBars
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Plate.InkName Property (Publisher)
+title: Plate.InkName property (Publisher)
 keywords: vbapb10.chm2883603
 f1_keywords:
 - vbapb10.chm2883603
@@ -8,24 +8,25 @@ api_name:
 - Publisher.Plate.InkName
 ms.assetid: 248c1529-2706-5458-a13f-def479d16132
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Plate.InkName Property (Publisher)
+# Plate.InkName property (Publisher)
 
 Returns a  **PbInkName** constant that represents the name of the ink to be printed using this plate. Read-only.
 
 
 ## Syntax
 
- _expression_. **InkName**
+_expression_.**InkName**
 
  _expression_ A variable that represents a  **Plate** object.
 
 
 ## Remarks
 
-The  **InkName** property value can be one of the ** [PbInkName](./overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
+The  **InkName** property value can be one of the **[PbInkName](overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
 
 Use the  **FindPlateByInkName** method of the **[PrintablePlates](Publisher.PrintablePlates.md)** collection to return a specific plate by referencing its ink name.
 
@@ -57,4 +58,4 @@ Sub ListPrintablePlates()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

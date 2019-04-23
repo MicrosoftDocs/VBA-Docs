@@ -3,6 +3,7 @@ title: CubeDef example (VBScript)
 ms.prod: access
 ms.assetid: bcd50cc6-fe2b-d47a-a402-cd2ba4662b2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -192,3 +193,5 @@ Response.Write "<OL TYPE='i'>"
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

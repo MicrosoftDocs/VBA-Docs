@@ -1,14 +1,15 @@
 ---
-title: WdBuiltinStyle Enumeration (Word)
+title: WdBuiltinStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBuiltinStyle
 ms.assetid: 9ef433e9-6770-0e20-e1b6-2d9929ffd616
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdBuiltinStyle Enumeration (Word)
+# WdBuiltinStyle enumeration (Word)
 
 Specifies a built-in Microsoft Word style.
 
@@ -149,3 +150,4 @@ Specifies a built-in Microsoft Word style.
 | **wdStyleTOC8**|-27|TOC 8.|
 | **wdStyleTOC9**|-28|TOC 9.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

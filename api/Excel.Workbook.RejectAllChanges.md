@@ -1,5 +1,5 @@
 ---
-title: Workbook.RejectAllChanges Method (Excel)
+title: Workbook.RejectAllChanges method (Excel)
 keywords: vbaxl10.chm199178
 f1_keywords:
 - vbaxl10.chm199178
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.RejectAllChanges
 ms.assetid: a53670da-370c-9ac8-75b8-008625495c2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.RejectAllChanges Method (Excel)
+# Workbook.RejectAllChanges method (Excel)
 
 Rejects all changes in the specified shared workbook.
 
 
 ## Syntax
 
- _expression_. `RejectAllChanges`( `_When_` , `_Who_` , `_Where_` )
+_expression_. `RejectAllChanges`( `_When_` , `_Who_` , `_Where_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ ActiveWorkbook.RejectAllChanges
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

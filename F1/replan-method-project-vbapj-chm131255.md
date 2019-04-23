@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c007a973-a9b2-4ec6-9512-def95e8c91f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Run Method (Project)](http://msdn.microsoft.com/library/0d4060b0-79e8-ad48-f5bf-c1050af379a2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

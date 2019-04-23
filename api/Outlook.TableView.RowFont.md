@@ -1,5 +1,5 @@
 ---
-title: TableView.RowFont Property (Outlook)
+title: TableView.RowFont property (Outlook)
 keywords: vbaol11.chm2533
 f1_keywords:
 - vbaol11.chm2533
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.RowFont
 ms.assetid: 691be8dc-8811-64d0-7473-93a0fe8b4749
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.RowFont Property (Outlook)
+# TableView.RowFont property (Outlook)
 
 Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when displaying rows in the **[TableView](Outlook.TableView.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `RowFont`
+_expression_. `RowFont`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Example
@@ -86,3 +87,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

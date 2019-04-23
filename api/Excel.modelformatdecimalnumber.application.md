@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 71e9a26b-4e0b-0fdc-71b4-812fc5e96546
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'ModelFormatDecimalNumber' object.
+_expression_ A variable that represents a 'ModelFormatDecimalNumber' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,4 +42,4 @@ End If
 
 [ModelFormatDecimalNumber Object](Excel.modelformatdecimalnumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

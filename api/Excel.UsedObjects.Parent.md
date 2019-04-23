@@ -8,6 +8,7 @@ api_name:
 - Excel.UsedObjects.Parent
 ms.assetid: 7b8dfc08-0103-a1fa-e295-314268cfa2ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [UsedObjects](./Excel.UsedObjects.md) object.
+_expression_ A variable that represents a [UsedObjects](Excel.UsedObjects.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [UsedObjects Object](Excel.UsedObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

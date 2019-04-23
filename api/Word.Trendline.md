@@ -1,5 +1,5 @@
 ---
-title: Trendline Object (Word)
+title: Trendline object (Word)
 keywords: vbawd10.chm402
 f1_keywords:
 - vbawd10.chm402
@@ -8,10 +8,11 @@ api_name:
 - Word.Trendline
 ms.assetid: 1cfe897f-26ad-a838-ed9b-f3fd945ff7ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendline Object (Word)
+# Trendline object (Word)
 
 Represents a trendline in a chart.
 
@@ -44,6 +45,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

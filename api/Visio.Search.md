@@ -5,6 +5,7 @@ api_name:
 - Visio.Search
 ms.assetid: ae7e09e6-7f54-e939-5e5c-12af35c1b303
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether the  **Search Pages** control for searching for shapes in a d
 
 ## Syntax
 
- _expression_. **Search**
+_expression_.**Search**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -37,5 +38,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio.Sa
 
 
 -  **Microsoft.Office.Interop.Visio.SaveAsWeb.IVisWebPageSettings.Search**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

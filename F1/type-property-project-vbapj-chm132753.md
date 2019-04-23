@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5d13e61e-89f9-4cda-8c6d-0af64601f14c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewSingle.Type Property (Project)](http://msdn.microsoft.com/library/58b21a88-c71d-9949-5ca2-a0511d24467e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

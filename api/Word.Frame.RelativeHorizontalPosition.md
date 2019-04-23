@@ -1,5 +1,5 @@
 ---
-title: Frame.RelativeHorizontalPosition Property (Word)
+title: Frame.RelativeHorizontalPosition property (Word)
 keywords: vbawd10.chm153747463
 f1_keywords:
 - vbawd10.chm153747463
@@ -8,17 +8,18 @@ api_name:
 - Word.Frame.RelativeHorizontalPosition
 ms.assetid: ff95768c-26c1-4be2-0a64-8626f2241e2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.RelativeHorizontalPosition Property (Word)
+# Frame.RelativeHorizontalPosition property (Word)
 
-Specifies the relative horizontal position of a frame. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
+Specifies the relative horizontal position of a frame. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax
 
- _expression_. `RelativeHorizontalPosition`
+_expression_. `RelativeHorizontalPosition`
 
  _expression_ An expression that represents a '[Frame](Word.Frame.md)' object.
 
@@ -45,3 +46,4 @@ End With
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

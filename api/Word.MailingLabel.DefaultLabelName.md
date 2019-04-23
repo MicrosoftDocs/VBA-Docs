@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.DefaultLabelName Property (Word)
+title: MailingLabel.DefaultLabelName property (Word)
 keywords: vbawd10.chm152502281
 f1_keywords:
 - vbawd10.chm152502281
@@ -8,17 +8,18 @@ api_name:
 - Word.MailingLabel.DefaultLabelName
 ms.assetid: f874d60e-e75d-a8b8-6118-e73e467920f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel.DefaultLabelName Property (Word)
+# MailingLabel.DefaultLabelName property (Word)
 
-Returns or sets the name for the default mailing label. Read/write  **String** .
+Returns or sets the name for the default mailing label. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultLabelName`
+_expression_. `DefaultLabelName`
 
  _expression_ A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
@@ -54,3 +55,4 @@ Application.MailingLabel.DefaultLabelName = "5160"
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

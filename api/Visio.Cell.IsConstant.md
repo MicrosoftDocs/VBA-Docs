@@ -1,5 +1,5 @@
 ---
-title: Cell.IsConstant Property (Visio)
+title: Cell.IsConstant property (Visio)
 keywords: vis_sdr.chm10113715
 f1_keywords:
 - vis_sdr.chm10113715
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.IsConstant
 ms.assetid: ed17029d-9044-d6fe-aac0-81fd8ac74b56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.IsConstant Property (Visio)
+# Cell.IsConstant property (Visio)
 
 Determines whether a formula of the cell is a constant expression. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsConstant`
+_expression_. `IsConstant`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -27,4 +28,4 @@ Determines whether a formula of the cell is a constant expression. Read-only.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

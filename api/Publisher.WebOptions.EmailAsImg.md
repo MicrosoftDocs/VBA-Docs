@@ -1,5 +1,5 @@
 ---
-title: WebOptions.EmailAsImg Property (Publisher)
+title: WebOptions.EmailAsImg property (Publisher)
 keywords: vbapb10.chm8257545
 f1_keywords:
 - vbapb10.chm8257545
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebOptions.EmailAsImg
 ms.assetid: c44d3b07-2030-4901-b9df-4dcfe08c985c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.EmailAsImg Property (Publisher)
+# WebOptions.EmailAsImg property (Publisher)
 
  **True** to send the entire publication page as a single JPEG image. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **EmailAsImg**
+_expression_.**EmailAsImg**
 
  _expression_ A variable that represents an  **WebOptions** object.
 
@@ -30,7 +31,7 @@ Boolean
 
 ## Remarks
 
-This property can increase your message's compatibility with older e-mail clients, but may result in larger file size.
+This property can increase your message's compatibility with older email clients, but may result in larger file size.
 
 This property is accessible for print publications in addition to Web publications.
 
@@ -41,11 +42,11 @@ This property corresponds to the check box in the  **E-Mail Options** section of
 
 ## Example
 
-The following example sets Microsoft Publisher to e-mail publication pages as JPEG images.
+The following example sets Microsoft Publisher to email publication pages as JPEG images.
 
 
 ```vb
 Application.WebOptions.EmailAsImg = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

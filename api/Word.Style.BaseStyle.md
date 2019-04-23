@@ -1,5 +1,5 @@
 ---
-title: Style.BaseStyle Property (Word)
+title: Style.BaseStyle property (Word)
 keywords: vbawd10.chm153878529
 f1_keywords:
 - vbawd10.chm153878529
@@ -8,17 +8,18 @@ api_name:
 - Word.Style.BaseStyle
 ms.assetid: d055a10a-66c4-7b50-923c-ab60fde0efa9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.BaseStyle Property (Word)
+# Style.BaseStyle property (Word)
 
-Returns or sets an existing style on which you can base the formatting of another style. Read/write  **Variant** .
+Returns or sets an existing style on which you can base the formatting of another style. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `BaseStyle`
+_expression_. `BaseStyle`
 
  _expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
@@ -63,3 +64,4 @@ MsgBox styleBase
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

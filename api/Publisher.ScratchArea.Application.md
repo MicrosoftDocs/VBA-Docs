@@ -1,5 +1,5 @@
 ---
-title: ScratchArea.Application Property (Publisher)
+title: ScratchArea.Application property (Publisher)
 keywords: vbapb10.chm1179649
 f1_keywords:
 - vbapb10.chm1179649
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ScratchArea.Application
 ms.assetid: b4923b93-cab4-76d9-0672-ec606b5b6b1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScratchArea.Application Property (Publisher)
+# ScratchArea.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **ScratchArea** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ShowAllData Method (Excel)
+title: Worksheet.ShowAllData method (Excel)
 keywords: vbaxl10.chm175126
 f1_keywords:
 - vbaxl10.chm175126
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ShowAllData
 ms.assetid: 412acb6c-f83d-44d4-20b5-54a2b7c66284
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.ShowAllData Method (Excel)
+# Worksheet.ShowAllData method (Excel)
 
 Makes all rows of the currently filtered list visible. If AutoFilter is in use, this method changes the arrows to "All."
 
 
 ## Syntax
 
- _expression_. `ShowAllData`
+_expression_. `ShowAllData`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").ShowAllData
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

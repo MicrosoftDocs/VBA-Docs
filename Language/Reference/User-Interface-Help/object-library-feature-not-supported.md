@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3b667038-2e39-0246-2a69-73b7a79d046f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ It's possible to have features in an [object library](../../Glossary/vbe-glossar
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListPictureBullet Property (Word)
+title: ListFormat.ListPictureBullet property (Word)
 keywords: vbawd10.chm163577932
 f1_keywords:
 - vbawd10.chm163577932
@@ -8,17 +8,18 @@ api_name:
 - Word.ListFormat.ListPictureBullet
 ms.assetid: b94322ca-ec3a-9aa7-6aa8-db2af124034e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ListPictureBullet Property (Word)
+# ListFormat.ListPictureBullet property (Word)
 
 Returns the  **[InlineShape](Word.InlineShape.md)** object that represents the picture used as a bullet in a picture bulleted list.
 
 
 ## Syntax
 
- _expression_. `ListPictureBullet`
+_expression_. `ListPictureBullet`
 
  _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
@@ -43,3 +44,4 @@ End Sub
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

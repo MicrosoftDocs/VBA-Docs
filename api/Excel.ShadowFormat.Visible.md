@@ -8,19 +8,20 @@ api_name:
 - Excel.ShadowFormat.Visible
 ms.assetid: 08da0549-44ab-e17f-f085-c3e988649a44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShadowFormat.Visible property (Excel)
 
-Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
+Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determi
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

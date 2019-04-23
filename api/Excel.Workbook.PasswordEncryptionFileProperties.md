@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.PasswordEncryptionFileProperties
 ms.assetid: 536ad729-424e-5f81-85e9-8a6ed71fb11a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.PasswordEncryptionFileProperties property (Excel)
 
- **True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean** .
+**True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PasswordEncryptionFileProperties`
+_expression_. `PasswordEncryptionFileProperties`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

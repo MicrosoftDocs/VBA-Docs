@@ -1,5 +1,5 @@
 ---
-title: FileConverter.FormatName Property (Word)
+title: FileConverter.FormatName property (Word)
 keywords: vbawd10.chm161021952
 f1_keywords:
 - vbawd10.chm161021952
@@ -8,17 +8,18 @@ api_name:
 - Word.FileConverter.FormatName
 ms.assetid: bfae89b4-14dd-ed73-6174-52c6cc7a9017
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.FormatName Property (Word)
+# FileConverter.FormatName property (Word)
 
-Returns the name of the specified file converter. Read-only  **String** .
+Returns the name of the specified file converter. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FormatName`
+_expression_. `FormatName`
 
  _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
@@ -63,3 +64,4 @@ Next fcLoop
 
 [FileConverter Object](Word.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

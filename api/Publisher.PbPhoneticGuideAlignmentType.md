@@ -1,5 +1,5 @@
 ---
-title: PbPhoneticGuideAlignmentType Enumeration (Publisher)
+title: PbPhoneticGuideAlignmentType enumeration (Publisher)
 keywords: vbapb10.chm65551
 f1_keywords:
 - vbapb10.chm65551
@@ -8,12 +8,13 @@ api_name:
 - Publisher.PbPhoneticGuideAlignmentType
 ms.assetid: 882833f8-bf2b-e3b5-4568-344c4a2edf36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbPhoneticGuideAlignmentType Enumeration (Publisher)
+# PbPhoneticGuideAlignmentType enumeration (Publisher)
 
-Constants passed to the  ** [Fields.AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)** method that specify the alignment of the added phonetic text.
+Constants passed to the  **[Fields.AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)** method that specify the alignment of the added phonetic text.
 
 
 
@@ -26,3 +27,4 @@ Constants passed to the  ** [Fields.AddPhoneticGuide](Publisher.Fields.AddPhonet
 | **pbPhoneticGuideAlignmentRight**|5|Right alignment|
 | **pbPhoneticGuideAlignmentZeroOneZero**|1|Zero One Zero alignment|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

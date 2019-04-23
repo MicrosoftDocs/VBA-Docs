@@ -3,6 +3,7 @@ title: SpinButton Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 03d6b184-b8fd-4d43-a2e6-b351b66d82b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,5 +33,5 @@ ms.date: 06/08/2017
 -  [SpinButton.SmallChange Property (Outlook Forms Script)](Outlook.spinbutton.smallchange.md)
     
 -  [SpinButton.Value Property (Outlook Forms Script)](Outlook.spinbutton.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

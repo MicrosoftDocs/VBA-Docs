@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Item Method (Outlook)
+title: RuleActions.Item method (Outlook)
 keywords: vbaol11.chm2183
 f1_keywords:
 - vbaol11.chm2183
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RuleActions.Item
 ms.assetid: d37a3f0c-0273-e4c2-21e5-661484244671
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RuleActions.Item Method (Outlook)
+# RuleActions.Item method (Outlook)
 
 Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ A  **RuleAction** object that matches the rule action specified by _Index_ .
 
 ## Remarks
 
-The  **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction** . You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](Outlook.RuleAction.Enabled.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleActions.Count.md)** .
+The  **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction**. You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](Outlook.RuleAction.Enabled.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleActions.Count.md)**.
 
 
 ## See also
@@ -46,3 +47,4 @@ The  **RuleActions** collection object is a fixed collection. It contains **Rule
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MenuItem.IsHierarchical Property (Visio)
+title: MenuItem.IsHierarchical property (Visio)
 keywords: vis_sdr.chm12913740
 f1_keywords:
 - vis_sdr.chm12913740
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItem.IsHierarchical
 ms.assetid: d8643162-6d8a-4558-d4e0-c563af680cb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItem.IsHierarchical Property (Visio)
+# MenuItem.IsHierarchical property (Visio)
 
 Indicates whether a menu item is hierarchical; that is, whether it contains a drop-down menu that contains more items, which can in turn be accessed by iterating through the  **MenuItems** collection of the menu item. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsHierarchical`
+_expression_. `IsHierarchical`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
@@ -33,7 +34,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of the  **CmdNum** property of a **MenuItem** object that represents a hierarchical menu should be zero (0). This corresponds to the Microsoft Visio constant **visCmdHierarchical** .
+The value of the  **CmdNum** property of a **MenuItem** object that represents a hierarchical menu should be zero (0). This corresponds to the Microsoft Visio constant **visCmdHierarchical**.
 
 
 ## Example
@@ -63,7 +64,7 @@ Public Sub IsHierarchical_Example()
  Dim intCounterOuter As Integer 
  Dim intCounterInner As Integer 
  
- 'Get the UIOject object for the copy of the built-in menus. 
+ 'Get the UI Object object for the copy of the built-in menus. 
  Set vsoUIObject = Visio.Application.BuiltInMenus 
  
  'Set vsoMenuSet to the drawing menu set. 
@@ -137,4 +138,4 @@ Public Sub IsHierarchical_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

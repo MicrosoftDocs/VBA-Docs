@@ -1,5 +1,5 @@
 ---
-title: Chart.SetElement Method (PowerPoint)
+title: Chart.SetElement method (PowerPoint)
 keywords: vbapp10.chm684044
 f1_keywords:
 - vbapp10.chm684044
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.SetElement
 ms.assetid: c9f05df8-a85a-c401-c9bc-33f3a2cc4561
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.SetElement Method (PowerPoint)
+# Chart.SetElement method (PowerPoint)
 
 Sets chart elements on a chart. Read/write  **MsoChartElementType**.
 
 
 ## Syntax
 
- _expression_. `SetElement`( `_Element_` )
+_expression_.**SetElement** (_Element_)
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -97,3 +98,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

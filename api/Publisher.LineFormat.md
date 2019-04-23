@@ -1,5 +1,5 @@
 ---
-title: LineFormat Object (Publisher)
+title: LineFormat object (Publisher)
 keywords: vbapb10.chm3473407
 f1_keywords:
 - vbapb10.chm3473407
@@ -8,10 +8,11 @@ api_name:
 - Publisher.LineFormat
 ms.assetid: 9c973f5a-b2d2-78b1-24c3-350f1ba4c2ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat Object (Publisher)
+# LineFormat object (Publisher)
 
 Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
  
@@ -45,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[PresetGradient](Publisher.lineformat.presetgradient.md)|
 
@@ -53,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.LineFormat.Application.md)|
 |[BackColor](Publisher.LineFormat.BackColor.md)|
@@ -81,3 +82,4 @@ End Sub
 |[Visible](Publisher.LineFormat.Visible.md)|
 |[Weight](Publisher.LineFormat.Weight.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

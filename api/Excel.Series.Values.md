@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Values
 ms.assetid: 3db2577e-ef0e-75ea-412b-531d7e67c098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents a collection of all the val
 
 ## Syntax
 
- _expression_. `Values`
+_expression_. `Values`
 
- _expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ Charts("Chart1").SeriesCollection(1).Values = _
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

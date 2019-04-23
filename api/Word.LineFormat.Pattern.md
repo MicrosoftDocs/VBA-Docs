@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Pattern Property (Word)
+title: LineFormat.Pattern property (Word)
 keywords: vbawd10.chm164233325
 f1_keywords:
 - vbawd10.chm164233325
@@ -8,24 +8,25 @@ api_name:
 - Word.LineFormat.Pattern
 ms.assetid: 6aa5b1e1-813c-bf03-aafa-7ef2aacbe51e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Pattern Property (Word)
+# LineFormat.Pattern property (Word)
 
-Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType** .
+Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType**.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
- _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
 
 ## Example
 
-This example adds a patterned line to  _myDocument_ .
+This example adds a patterned line to  _myDocument_.
 
 
 ```vb
@@ -44,3 +45,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

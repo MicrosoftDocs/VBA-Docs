@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2fd72821-50d1-4dbc-ba9c-3fa0990373b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.AutoLinkTasks Property (Project)](http://msdn.microsoft.com/library/300aed81-3404-4e46-6e01-78214b9507eb%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

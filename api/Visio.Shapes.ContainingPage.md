@@ -1,5 +1,5 @@
 ---
-title: Shapes.ContainingPage Property (Visio)
+title: Shapes.ContainingPage property (Visio)
 keywords: vis_sdr.chm11313305
 f1_keywords:
 - vis_sdr.chm11313305
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shapes.ContainingPage
 ms.assetid: 0e74569b-7044-6743-9dfe-52ff8acb11dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.ContainingPage Property (Visio)
+# Shapes.ContainingPage property (Visio)
 
 Returns the page that contains an object.
 
 
 ## Syntax
 
- _expression_. `ContainingPage`
+_expression_. `ContainingPage`
 
  _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 
@@ -30,6 +31,6 @@ Page
 
 ## Remarks
 
-If the object isn't in a  **Page** object, the **ContainingPage** property returns **Nothing** . For example, if a **Shape** object belongs to a **Masters** collection, the **ContainingPage** property returns **Nothing** .
+If the object isn't in a  **Page** object, the **ContainingPage** property returns **Nothing**. For example, if a **Shape** object belongs to a **Masters** collection, the **ContainingPage** property returns **Nothing**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

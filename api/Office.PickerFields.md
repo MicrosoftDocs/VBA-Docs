@@ -1,5 +1,5 @@
 ---
-title: PickerFields Object (Office)
+title: PickerFields object (Office)
 keywords: vbaof11.chm335000
 f1_keywords:
 - vbaof11.chm335000
@@ -7,30 +7,20 @@ ms.prod: office
 api_name:
 - Office.PickerFields
 ms.assetid: 74e8f404-8b60-76f2-6fc4-6199e8b7027d
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerFields Object (Office)
+# PickerFields object (Office)
 
-A collection of  **PickerField** objects. Each **PickerField** object represents a column definition of Picker dialog.
+A collection of **[PickerField](Office.PickerField.md)** objects. Each **PickerField** object represents a column definition of **PickerDialog**.
 
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.PickerFields.Application.md)|
-|[Count](Office.PickerFields.Count.md)|
-|[Creator](Office.PickerFields.Creator.md)|
-|[Item](Office.PickerFields.Item.md)|
 
 ## See also
 
+- [PickerFields object members](overview/Library-Reference/pickerfields-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

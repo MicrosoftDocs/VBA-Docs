@@ -1,5 +1,5 @@
 ---
-title: Envelope.AddressFromLeft Property (Word)
+title: Envelope.AddressFromLeft property (Word)
 keywords: vbawd10.chm152567821
 f1_keywords:
 - vbawd10.chm152567821
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.AddressFromLeft
 ms.assetid: 452734c0-fa41-8c90-2478-ecbd5731d393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.AddressFromLeft Property (Word)
+# Envelope.AddressFromLeft property (Word)
 
-Returns or sets the distance (in points) between the left edge of the envelope and the delivery address. Read/write  **Single** .
+Returns or sets the distance (in points) between the left edge of the envelope and the delivery address. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `AddressFromLeft`
+_expression_. `AddressFromLeft`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -55,3 +56,4 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintView
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListEntry Object (Word)
+title: ListEntry object (Word)
 keywords: vbawd10.chm2339
 f1_keywords:
 - vbawd10.chm2339
@@ -8,10 +8,11 @@ api_name:
 - Word.ListEntry
 ms.assetid: ea9e8276-45d6-8b11-fd86-4944f582bb80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListEntry Object (Word)
+# ListEntry object (Word)
 
 Represents an item in a drop-down form field. The  **ListEntry** object is a member of the **ListEntries** collection. The **[ListEntries](Word.listentries.md)** collection includes all the items in a drop-down form field.
 
@@ -56,6 +57,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

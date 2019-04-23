@@ -1,5 +1,5 @@
 ---
-title: Replacement.Creator Property (Word)
+title: Replacement.Creator property (Word)
 keywords: vbawd10.chm162595817
 f1_keywords:
 - vbawd10.chm162595817
@@ -8,19 +8,20 @@ api_name:
 - Word.Replacement.Creator
 ms.assetid: 4151ba54-23bc-62cc-7595-af5b90b7d970
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Replacement.Creator Property (Word)
+# Replacement.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Replacement](Word.Replacement.md)' object.
+_expression_ Required. A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Replacement Object](Word.Replacement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

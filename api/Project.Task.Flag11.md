@@ -1,21 +1,22 @@
 ---
-title: Task.Flag11 Property (Project)
+title: Task.Flag11 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Flag11
 ms.assetid: defeee71-a899-81b5-4107-602fd0e9373c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Flag11 Property (Project)
+# Task.Flag11 property (Project)
 
 Gets or sets the value of a task flag custom field. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Flag11`
+_expression_. `Flag11`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -40,4 +41,4 @@ Sub DeleteNonEssentialTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

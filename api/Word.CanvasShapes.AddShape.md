@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddShape Method (Word)
+title: CanvasShapes.AddShape method (Word)
 keywords: vbawd10.chm7536657
 f1_keywords:
 - vbawd10.chm7536657
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.AddShape
 ms.assetid: b23c69f1-8653-a98f-d7f4-6648e0e214fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.AddShape Method (Word)
+# CanvasShapes.AddShape method (Word)
 
 Adds an AutoShape to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the AutoShape.
 
 
 ## Syntax
 
- _expression_. `AddShape`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddShape`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

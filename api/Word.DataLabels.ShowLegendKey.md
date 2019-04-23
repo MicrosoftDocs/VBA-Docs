@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowLegendKey Property (Word)
+title: DataLabels.ShowLegendKey property (Word)
 keywords: vbawd10.chm207487147
 f1_keywords:
 - vbawd10.chm207487147
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabels.ShowLegendKey
 ms.assetid: aeacb32a-8ec0-993c-d57c-7df37a164951
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.ShowLegendKey Property (Word)
+# DataLabels.ShowLegendKey property (Word)
 
- **True** if the data label legend key is visible. Read/write **Boolean** .
+ **True** if the data label legend key is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowLegendKey`
+_expression_. `ShowLegendKey`
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 
@@ -44,3 +45,4 @@ End With
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 51489ebf-2869-45ad-854b-81adeb844b12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.PageChanged Event (Visio)](http://msdn.microsoft.com/library/bcb49753-6980-307f-362d-92cebe7bdf53%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

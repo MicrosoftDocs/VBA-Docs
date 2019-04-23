@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeDefineStyles Property (Word)
+title: Options.AutoFormatAsYouTypeDefineStyles property (Word)
 keywords: vbawd10.chm162988302
 f1_keywords:
 - vbawd10.chm162988302
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeDefineStyles
 ms.assetid: 16657544-0185-204f-1cee-b959c91956d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeDefineStyles Property (Word)
+# Options.AutoFormatAsYouTypeDefineStyles property (Word)
 
- **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean** .
+ **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeDefineStyles`
+_expression_. `AutoFormatAsYouTypeDefineStyles`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeDefineStyles
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

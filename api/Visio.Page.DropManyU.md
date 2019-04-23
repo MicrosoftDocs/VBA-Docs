@@ -1,5 +1,5 @@
 ---
-title: Page.DropManyU Method (Visio)
+title: Page.DropManyU method (Visio)
 keywords: vis_sdr.chm10951930
 f1_keywords:
 - vis_sdr.chm10951930
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.DropManyU
 ms.assetid: e61d9e8f-3838-240e-b8da-c5f1d8b3eb12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.DropManyU Method (Visio)
+# Page.DropManyU method (Visio)
 
 Creates one or more new  **Shape** objects on a page, in a master, or in a group. It returns an array of the IDs of the **Shape** objects it produces.
 
 
 ## Syntax
 
- _expression_. `DropManyU`( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
+_expression_. `DropManyU`( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -40,7 +41,7 @@ Integer
 
 ## Remarks
 
-Using the  **DropManyU** method is like using the **Page** , **Master** , or **Shape** object's **Drop** method, except you can use the **DropManyU** method to create many new **Shape** objects at once, rather than one per method call. The **DropManyU** method creates new **Shape** objects on the page, in the master, or in the group shape to which it is applied (this shape is called the "target object" in the following discussion).
+Using the  **DropManyU** method is like using the **Page**, **Master**, or **Shape** object's **Drop** method, except you can use the **DropManyU** method to create many new **Shape** objects at once, rather than one per method call. The **DropManyU** method creates new **Shape** objects on the page, in the master, or in the group shape to which it is applied (this shape is called the "target object" in the following discussion).
 
 You can identify which master to drop by passing the  **DropManyU** method a **Master** object or the master's index or the master's name. When you pass an object, **DropManyU** isn't constrained to just dropping a master from the document stencil of the document onto which it is being dropped. The object can be a master from another document or another type of object.
 
@@ -59,7 +60,7 @@ Passing integers (master indices) or strings (master names) to  **DropManyU** is
     
 
 
-The  _xyArray()_ parameter should be a one-dimensional array of 2 _m_ doubles with lower bound _xylb_ and upper bound _xyub_ , where _m_ >= _n_ . The values in the array tell the **DropManyU** method where to position the **Shape** objects it produces. _ObjectsToInstance()_( _vlb_ + ( _ i_ - 1)) is dropped at ( _xy_ [( _i_ - 1)2 + _xylb_ ], _xy_ [(i - 1)2 + _xylb_ + 1]) for 1 <= _i_ <= _n_ .
+The  _xyArray()_ parameter should be a one-dimensional array of 2 _m_ doubles with lower bound _xylb_ and upper bound _xyub_ , where _m_ >= _n_ . The values in the array tell the **DropManyU** method where to position the **Shape** objects it produces. _ObjectsToInstance()_( _vlb_ + ( _i_ - 1)) is dropped at ( _xy_ [( _i_ - 1)2 + _xylb_ ], _xy_ [(i - 1)2 + _xylb_ + 1]) for 1 <= _i_ <= _n_ .
 
 Note that  _m_ > _n_ is allowed. For _n_ < _i_ <= _m_ , the _i_ 'th thing instanced is the same thing as the _n_ 'th thing instanced. Thus to make _m_ >= 1 instances of the same thing, you can pass an _ObjectsToInstance()_ array with one entry and an _m_ entry _xyArray()_ array.
 
@@ -134,4 +135,4 @@ Public Sub DropManyU_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

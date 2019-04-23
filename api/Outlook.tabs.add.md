@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: dbc72cb8-e37e-ae98-d18c-0042dc6c139f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Adds a  **[Tab](Outlook.tab.md)** to a **[Tabs](Outlook.tabs.md)** collection.
 
 ## Syntax
 
- _expression_. **Add**(**_bstrName_**,  **_bstrCaption_**,  **_lIndex_**)
+_expression_.**Add**(**_bstrName_**,  **_bstrCaption_**,  **_lIndex_**)
 
- _expression_ A variable that represents a  **Tabs** object.
+_expression_ A variable that represents a  **Tabs** object.
 
 
 ## Parameters
@@ -42,4 +43,4 @@ The index value for the first  **Tab** of a collection is 0, the value for the s
 
 You can change the  **Name** property of the object at run time only if you added that control at run time with the **Add** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

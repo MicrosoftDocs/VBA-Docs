@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.DecimalPlaces
 ms.assetid: 49c11876-2f79-5ca1-bdba-27e659dadc98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.DecimalPlaces property (Excel)
 
-Returns a  **Long** value that represents the number of decimal places to show for the numbers in the **[ListColumn](Excel.ListColumn.md)** object. Read-only **Long** .
+Returns a  **Long** value that represents the number of decimal places to show for the numbers in the **[ListColumn](Excel.ListColumn.md)** object. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `DecimalPlaces`
+_expression_. `DecimalPlaces`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Function
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Top Property (PowerPoint)
+title: DocumentWindow.Top property (PowerPoint)
 keywords: vbapp10.chm511012
 f1_keywords:
 - vbapp10.chm511012
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.Top
 ms.assetid: ba51aa9d-772a-d854-a834-60907b304e78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.Top Property (PowerPoint)
+# DocumentWindow.Top property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance in points from the top edge of the document, application, and slide show window to the top edge of the application window's client area. Read/write.
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Return value
@@ -75,3 +76,4 @@ End With
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

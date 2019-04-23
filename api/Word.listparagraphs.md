@@ -1,12 +1,13 @@
 ---
-title: ListParagraphs Object (Word)
+title: ListParagraphs object (Word)
 ms.prod: word
 ms.assetid: 759c510b-bca1-0b4b-005c-5a3783dd8e96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListParagraphs Object (Word)
+# ListParagraphs object (Word)
 
 A collection of  **Paragraph** objects that represents the paragraphs of the specified document, list, or range that have list formatting applied.
 
@@ -26,7 +27,7 @@ Use  **ListParagraphs** (Index), where Index is the index number, to return a si
 
 Paragraphs can have two types of list formatting. The first type includes an automatically added number or bullet at the beginning of each paragraph in the list. The second type includes LISTNUM fields, which can be placed anywhere inside a paragraph. There can be more than one LISTNUM field per paragraph.
 
-To add list formatting to paragraphs, you can use the  **ApplyListTemplate** , **ApplyBulletDefault** , **ApplyNumberDefault** , or **ApplyOutlineNumberDefault** method. You access these methods through the **ListFormat** object for a specified range.
+To add list formatting to paragraphs, you can use the  **ApplyListTemplate**, **ApplyBulletDefault**, **ApplyNumberDefault**, or **ApplyOutlineNumberDefault** method. You access these methods through the **ListFormat** object for a specified range.
 
 The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
@@ -34,6 +35,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

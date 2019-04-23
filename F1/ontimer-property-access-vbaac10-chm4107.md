@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a6b03ad0-d158-4155-8760-0195b57b3c3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.OnTimer property (Access)](http://msdn.microsoft.com/library/ef7ac956-ffa4-da79-0d39-9c505409b4af%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

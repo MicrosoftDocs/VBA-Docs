@@ -1,14 +1,15 @@
 ---
-title: PjWeekLabel Enumeration (Project)
+title: PjWeekLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjWeekLabel
 ms.assetid: b1249491-1e96-6b85-83c2-214455267c62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjWeekLabel Enumeration (Project)
+# PjWeekLabel enumeration (Project)
 
 Contains constants that specify the display format for weeks in a timescale.
 
@@ -55,3 +56,5 @@ Contains constants that specify the display format for weeks in a timescale.
 [PjDayLabel Enumeration](Project.PjDayLabel.md)
 [PjMonthLabel Enumeration](Project.PjMonthLabel.md)
 [PjDateLabel Enumeration](Project.PjDateLabel.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

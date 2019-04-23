@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPicture Method (Word)
+title: Shapes.AddPicture method (Word)
 keywords: vbawd10.chm161415183
 f1_keywords:
 - vbawd10.chm161415183
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.AddPicture
 ms.assetid: 198d5663-7e35-b0e4-3729-48f156ddd8bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddPicture Method (Word)
+# Shapes.AddPicture method (Word)
 
 Adds a picture to a drawing canvas. Returns a  **Shape** object that represents the picture and adds it to the **CanvasShapes** collection.
 
 
 ## Syntax
 
- _expression_. `AddPicture`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddPicture`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -30,8 +31,8 @@ Adds a picture to a drawing canvas. Returns a  **Shape** object that represents 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the picture.|
-| _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False** .|
-| _SaveWithDocument_|Optional| **Variant**| **True** to save the linked picture with the document. The default value is **False** .|
+| _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False**.|
+| _SaveWithDocument_|Optional| **Variant**| **True** to save the linked picture with the document. The default value is **False**.|
 | _Left_|Optional| **Variant**|The position, measured in points, of the left edge of the new picture relative to the drawing canvas.|
 | _Top_|Optional| **Variant**|The position, measured in points, of the top edge of the new picture relative to the drawing canvas.|
 | _Width_|Optional| **Variant**|The width of the picture, in points.|
@@ -70,3 +71,4 @@ End Sub
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

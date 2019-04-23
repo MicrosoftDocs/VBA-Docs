@@ -1,21 +1,22 @@
 ---
-title: Exception.Shift2 Property (Project)
+title: Exception.Shift2 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Exception.Shift2
 ms.assetid: 55cf1289-9e78-3857-8b35-7880226514ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exception.Shift2 Property (Project)
+# Exception.Shift2 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the second work shift in a calendar exception for a day, month, period, weekday, or throughout a year. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift2`
+_expression_. `Shift2`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
@@ -52,3 +53,5 @@ End Sub
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

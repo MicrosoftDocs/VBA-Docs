@@ -1,5 +1,5 @@
 ---
-title: Application.SetActiveCell Method (Project)
+title: Application.SetActiveCell method (Project)
 keywords: vbapj.chm6
 f1_keywords:
 - vbapj.chm6
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetActiveCell
 ms.assetid: fcc225b7-98a6-7b3d-ff3b-22392f09920b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetActiveCell Method (Project)
+# Application.SetActiveCell method (Project)
 
 Sets the value of the active cell.
 
 
 ## Syntax
 
- _expression_. `SetActiveCell`( ` _Value_`, ` _Create_` )
+_expression_. `SetActiveCell`( `_Value_`, `_Create_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -58,4 +59,4 @@ Sub AddCommentToTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (Publisher)
+title: CalloutFormat object (Publisher)
 keywords: vbapb10.chm2555903
 f1_keywords:
 - vbapb10.chm2555903
@@ -8,10 +8,11 @@ api_name:
 - Publisher.CalloutFormat
 ms.assetid: 1f54aba3-3872-e668-fe76-1966d1a62cca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat Object (Publisher)
+# CalloutFormat object (Publisher)
 
 Contains properties and methods that apply to line callouts.
  
@@ -74,7 +75,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutomaticLength](Publisher.CalloutFormat.AutomaticLength.md)|
 |[CustomDrop](Publisher.CalloutFormat.CustomDrop.md)|
@@ -85,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accent](Publisher.CalloutFormat.Accent.md)|
 |[Angle](Publisher.CalloutFormat.Angle.md)|
@@ -100,3 +101,4 @@ End Sub
 |[Parent](Publisher.CalloutFormat.Parent.md)|
 |[Type](Publisher.CalloutFormat.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

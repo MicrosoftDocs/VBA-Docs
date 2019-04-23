@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b6822e40-c7e7-13e1-575e-632a99ad9926
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ An attempt was made to write to a write-protected disk or to access a locked fil
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

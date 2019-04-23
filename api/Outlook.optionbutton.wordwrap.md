@@ -3,6 +3,7 @@ title: OptionButton.WordWrap Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: e797c4ba-9b9e-d59d-b229-b2c652d06762
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,13 +14,13 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 ## Syntax
 
- _expression_. **WordWrap**
+_expression_.**WordWrap**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
 
  **True** to specify that the text wraps (default), **False** to specify that the text does not.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

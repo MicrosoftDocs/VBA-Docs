@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes Object (Publisher)
+title: ShapeNodes object (Publisher)
 keywords: vbapb10.chm3538943
 f1_keywords:
 - vbapb10.chm3538943
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ShapeNodes
 ms.assetid: f190a8a8-e03a-e8a2-482a-5e092ff3ed86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes Object (Publisher)
+# ShapeNodes object (Publisher)
 
 A collection of all the  **[ShapeNode](Publisher.ShapeNode.md)** objects in the specified freeform. Each **ShapeNode** object represents either a node between segments in a freeform or a control point for a curved segment of a freeform. You can create a freeform manually or by using the **[BuildFreeform](Publisher.Shapes.BuildFreeform.md)** and **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** methods.
  
@@ -67,7 +68,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.ShapeNodes.Delete.md)|
 |[Insert](Publisher.ShapeNodes.Insert.md)|
@@ -80,9 +81,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ShapeNodes.Application.md)|
 |[Count](Publisher.ShapeNodes.Count.md)|
 |[Parent](Publisher.ShapeNodes.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

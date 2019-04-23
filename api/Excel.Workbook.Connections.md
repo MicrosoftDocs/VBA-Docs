@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Connections
 ms.assetid: 9c4f4ba7-dd4b-0bc2-65b7-16455014097f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ The  **Connections** property establishes a connection between the workbook and 
 
 ## Syntax
 
- _expression_. `Connections`
+_expression_. `Connections`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
 
-The following example rereshes the OBDC and OLEDB connections of the active workbook.
+The following example refreshes the OBDC and OLEDB connections of the active workbook.
 
 ```vb
 ActiveWorkbook.Connections(1).ODBCConnection.Refresh 
@@ -39,3 +40,4 @@ ActiveWorkbook.Connections(1).OLEDBConnection.Refresh
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

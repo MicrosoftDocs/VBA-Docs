@@ -1,5 +1,5 @@
 ---
-title: GraphicItems.Item Property (Visio)
+title: GraphicItems.Item property (Visio)
 keywords: vis_sdr.chm16813765
 f1_keywords:
 - vis_sdr.chm16813765
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItems.Item
 ms.assetid: bcd5ed67-3913-41ea-0d51-30ad24d04196
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItems.Item Property (Visio)
+# GraphicItems.Item property (Visio)
 
 Returns the  **GraphicItem** object at the specified index position in the **GraphicItems** collection. Read-only.
 
@@ -21,7 +22,7 @@ Returns the  **GraphicItem** object at the specified index position in the **Gra
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [GraphicItems](./Visio.GraphicItems.md) object.
 
@@ -54,4 +55,4 @@ When you retrieve objects from a collection, you can omit  **Item** from the exp
 objectReturned = expression(Index)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

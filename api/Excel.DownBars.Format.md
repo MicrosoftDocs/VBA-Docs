@@ -8,6 +8,7 @@ api_name:
 - Excel.DownBars.Format
 ms.assetid: 90092655-43b1-ce9c-8a33-3df80bbc8300
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 ## Syntax
 
- _expression_. `Format`
+_expression_.**Format**
 
- _expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
+_expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 [DownBars Object](Excel.DownBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

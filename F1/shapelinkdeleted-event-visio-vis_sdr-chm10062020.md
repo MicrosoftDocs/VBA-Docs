@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 603c615d-cef5-43ce-afb7-80504bc3c98b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ShapeLinkDeleted Event (Visio)](http://msdn.microsoft.com/library/c1ae3fda-d5fb-210e-7e84-98ffde8bbd29%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

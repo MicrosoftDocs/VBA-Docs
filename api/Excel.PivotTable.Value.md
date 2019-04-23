@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.Value
 ms.assetid: a931f842-233a-d0ef-d306-664b65eaaecd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the name of the PivotTable r
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value that represents the name of the PivotTable r
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Source Object (Word)
+title: Source object (Word)
 keywords: vbawd10.chm2149
 f1_keywords:
 - vbawd10.chm2149
@@ -8,10 +8,11 @@ api_name:
 - Word.Source
 ms.assetid: f90108a8-6432-a700-86ce-7b8f9e9c034b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Source Object (Word)
+# Source object (Word)
 
 Represents an individual source, such as a book, journal article, or interview.
 
@@ -24,6 +25,6 @@ For more information, see [Working with Bibliographies](../word/Concepts/Working
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

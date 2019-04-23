@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScaleIsAuto Property (Word)
+title: Axis.MaximumScaleIsAuto property (Word)
 keywords: vbawd10.chm113049630
 f1_keywords:
 - vbawd10.chm113049630
@@ -8,24 +8,25 @@ api_name:
 - Word.Axis.MaximumScaleIsAuto
 ms.assetid: 7ec9d4da-0851-146c-2324-bcaba7434158
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MaximumScaleIsAuto Property (Word)
+# Axis.MaximumScaleIsAuto property (Word)
 
- **True** if Microsoft Word calculates the maximum value for the value axis. Read/write **Boolean** .
+ **True** if Microsoft Word calculates the maximum value for the value axis. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MaximumScaleIsAuto`
+_expression_. `MaximumScaleIsAuto`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
 
-Setting the  **[MaximumScale](Word.Axis.MaximumScale.md)** property sets this property to **False** .
+Setting the  **[MaximumScale](Word.Axis.MaximumScale.md)** property sets this property to **False**.
 
 
 ## Example
@@ -51,3 +52,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

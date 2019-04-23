@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicers.Parent
 ms.assetid: 1c3f6ccc-f6f3-2156-8316-5f322938f4a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the speci
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Slicers](./Excel.Slicers.md) collection.
+_expression_ A variable that represents a [Slicers](Excel.Slicers.md) collection.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the speci
 
 [Slicers Object](Excel.Slicers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

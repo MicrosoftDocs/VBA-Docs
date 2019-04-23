@@ -1,5 +1,5 @@
 ---
-title: Legend.LegendEntries Method (PowerPoint)
+title: Legend.LegendEntries method (PowerPoint)
 keywords: vbapp10.chm65709
 f1_keywords:
 - vbapp10.chm65709
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Legend.LegendEntries
 ms.assetid: a6110ddf-76dd-efc9-c6ce-abb260f9534c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Legend.LegendEntries Method (PowerPoint)
+# Legend.LegendEntries method (PowerPoint)
 
 Returns a collection of legend entries for the legend.
 
 
 ## Syntax
 
- _expression_. `LegendEntries`
+_expression_. `LegendEntries`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 
@@ -58,3 +59,4 @@ End With
 
 [Legend Object](PowerPoint.Legend.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

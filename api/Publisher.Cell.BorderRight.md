@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderRight Property (Publisher)
+title: Cell.BorderRight property (Publisher)
 keywords: vbapb10.chm5111813
 f1_keywords:
 - vbapb10.chm5111813
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.BorderRight
 ms.assetid: da741816-d61c-61db-cf33-5b181780b902
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.BorderRight Property (Publisher)
+# Cell.BorderRight property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the right border for a specified table cell.
 
 
 ## Syntax
 
- _expression_. **BorderRight**
+_expression_.**BorderRight**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -77,4 +78,4 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

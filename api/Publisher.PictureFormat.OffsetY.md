@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetY Property (Publisher)
+title: ShadowFormat.OffsetY property (Publisher)
 keywords: vbapb10.chm3670275
 f1_keywords:
 - vbapb10.chm3670275
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.OffsetY
 ms.assetid: e7deb108-e027-dd61-714f-1a76e904009b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetY Property (Publisher)
+# ShadowFormat.OffsetY property (Publisher)
 
 Returns or sets a  **Variant** value indicating the horizontal offset of the shadow from the specified shape. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write.
 
 
 ## Syntax
 
- _expression_. **OffsetY**
+_expression_.**OffsetY**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 
@@ -48,4 +49,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

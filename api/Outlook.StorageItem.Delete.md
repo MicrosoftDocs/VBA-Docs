@@ -1,5 +1,5 @@
 ---
-title: StorageItem.Delete Method (Outlook)
+title: StorageItem.Delete method (Outlook)
 keywords: vbaol11.chm2145
 f1_keywords:
 - vbaol11.chm2145
@@ -8,19 +8,20 @@ api_name:
 - Outlook.StorageItem.Delete
 ms.assetid: 0ace6d9e-3dc7-52d5-ac20-97c2f3b109de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StorageItem.Delete Method (Outlook)
+# StorageItem.Delete method (Outlook)
 
 Permanently removes the  **[StorageItem](Outlook.StorageItem.md)** object from the parent folder.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) object.
 
 
 ## Remarks
@@ -73,3 +74,4 @@ End Sub
 
 [StorageItem Object](Outlook.StorageItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

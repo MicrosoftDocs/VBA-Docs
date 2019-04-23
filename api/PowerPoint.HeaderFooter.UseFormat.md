@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.UseFormat Property (PowerPoint)
+title: HeaderFooter.UseFormat property (PowerPoint)
 keywords: vbapp10.chm582005
 f1_keywords:
 - vbapp10.chm582005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.HeaderFooter.UseFormat
 ms.assetid: da9739ea-fb9b-5e3d-bb7e-64763ef11bf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.UseFormat Property (PowerPoint)
+# HeaderFooter.UseFormat property (PowerPoint)
 
 Determines whether the date and time object contains automatically updated information. Read/write.
 
 
 ## Syntax
 
- _expression_. `UseFormat`
+_expression_. `UseFormat`
 
  _expression_ A variable that represents an [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
@@ -36,7 +37,7 @@ The value of the  **UseFormat** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The date and time object is a fixed string.|
 |**msoTrue**| The date and time object contains automatically updated information.|
@@ -64,3 +65,4 @@ End With
 
 [HeaderFooter Object](PowerPoint.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

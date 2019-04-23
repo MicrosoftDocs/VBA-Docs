@@ -1,5 +1,5 @@
 ---
-title: Table.SortDescending Method (Word)
+title: Table.SortDescending method (Word)
 keywords: vbawd10.chm156303373
 f1_keywords:
 - vbawd10.chm156303373
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.SortDescending
 ms.assetid: a72b25e9-06c2-8f2f-1dff-796768d43fff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.SortDescending Method (Word)
+# Table.SortDescending method (Word)
 
 Sorts table rows in descending alphanumeric order.
 
 
 ## Syntax
 
- _expression_. `SortDescending`
+_expression_. `SortDescending`
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks
@@ -69,3 +70,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

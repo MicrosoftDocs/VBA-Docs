@@ -1,5 +1,5 @@
 ---
-title: View.GoToDate Method (Outlook)
+title: View.GoToDate method (Outlook)
 keywords: vbaol11.chm2496
 f1_keywords:
 - vbaol11.chm2496
@@ -8,19 +8,20 @@ api_name:
 - Outlook.View.GoToDate
 ms.assetid: 5ad66fcc-fcdf-9a48-a8e1-669dd294967b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.GoToDate Method (Outlook)
+# View.GoToDate method (Outlook)
 
 Changes the date used by the current view to display information.
 
 
 ## Syntax
 
- _expression_. `GoToDate`( `_Date_` )
+_expression_. `GoToDate`( `_Date_` )
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Changes the date used by the current view to display information.
 
 ## Remarks
 
-To specify a date to go to in a current view, such as a  **[CalendarView](Outlook.calendarView.md)** object, you should first obtain a **[View](Outlook.View.md)** object for the current view by using **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of **[Folder.CurrentView](Outlook.Folder.CurrentView.md)** . The following code sample demonstrates how to perform this action.
+To specify a date to go to in a current view, such as a  **[CalendarView](Outlook.calendarView.md)** object, you should first obtain a **[View](Outlook.View.md)** object for the current view by using **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of **[Folder.CurrentView](Outlook.Folder.CurrentView.md)**. The following code sample demonstrates how to perform this action.
 
 
 ```vb
@@ -92,3 +93,4 @@ End Sub
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

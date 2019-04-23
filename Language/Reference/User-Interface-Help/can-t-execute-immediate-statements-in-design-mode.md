@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ceb67fa9-6893-6e03-6d88-c48a2b9da937
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,8 +16,9 @@ ms.date: 06/08/2017
 
 
 
-- You tried to execute a statement in the  **Immediate** window, but your code isn't in a running mode. Start your code running, and then suspend program execution. You can then execute code in the **Immediate** window.
+- You tried to execute a statement in the  Immediate window, but your code isn't in a running mode. Start your code running, and then suspend program execution. You can then execute code in the Immediate window.
     
 
-For additional information, place the cursor in the  **Immediate** window and press F1 (in Windows) or HELP (on the Macintosh).
+For additional information, place the cursor in the  Immediate window and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

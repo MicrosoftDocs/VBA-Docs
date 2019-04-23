@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.ModifyDateRange Method (Excel)
+title: SparklineGroup.ModifyDateRange method (Excel)
 keywords: vbaxl10.chm871082
 f1_keywords:
 - vbaxl10.chm871082
@@ -8,19 +8,20 @@ api_name:
 - Excel.SparklineGroup.ModifyDateRange
 ms.assetid: 2de21c82-64b6-6095-0c47-cd20354d9739
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SparklineGroup.ModifyDateRange Method (Excel)
+# SparklineGroup.ModifyDateRange method (Excel)
 
 Sets the date range for the sparkline group.
 
 
 ## Syntax
 
- _expression_. `ModifyDateRange`( `_DateRange_` )
+_expression_. `ModifyDateRange`( `_DateRange_` )
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ ActiveCell.SparklineGroups.Item(1).ModifyDateRange "Sheet1!B1:E1"
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Error (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 830be489-5362-4f60-ac3a-537662938e80
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -44,3 +45,5 @@ __declspec(property(get=GetSQLState)) _bstr_t Invalid DDUE based on source, erro
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.KeyboardBidi Method (Word)
+title: Application.KeyboardBidi method (Word)
 keywords: vbawd10.chm158335377
 f1_keywords:
 - vbawd10.chm158335377
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.KeyboardBidi
 ms.assetid: 5c54dcc0-8499-27f8-4b79-44764526d43b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.KeyboardBidi Method (Word)
+# Application.KeyboardBidi method (Word)
 
 Sets the keyboard language to a right-to-left language and the text entry direction to right-to-left.
 
 
 ## Syntax
 
- _expression_. `KeyboardBidi`
+_expression_. `KeyboardBidi`
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Application.KeyboardBidi
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

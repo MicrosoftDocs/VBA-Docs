@@ -1,5 +1,5 @@
 ---
-title: Document.Redo Event (Publisher)
+title: Document.Redo event (Publisher)
 keywords: vbapb10.chm285212679
 f1_keywords:
 - vbapb10.chm285212679
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Redo
 ms.assetid: c00db13d-1c03-2536-8923-bd7d9393fee2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Redo Event (Publisher)
+# Document.Redo event (Publisher)
 
 Occurs when reversing the last action that was undone.
 
 
 ## Syntax
 
- _expression_. **Redo**
+_expression_.**Redo**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -56,4 +57,4 @@ Sub InitiatePubApp()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

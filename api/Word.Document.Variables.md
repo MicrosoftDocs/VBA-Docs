@@ -1,5 +1,5 @@
 ---
-title: Document.Variables Property (Word)
+title: Document.Variables property (Word)
 keywords: vbawd10.chm158007322
 f1_keywords:
 - vbawd10.chm158007322
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Variables
 ms.assetid: 93af7b84-f172-6ebd-2147-e7ebc92449c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Variables Property (Word)
+# Document.Variables property (Word)
 
 Returns a  **[Variables](Word.variables.md)** collection that represents the variables stored in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Variables`
+_expression_. `Variables`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ Next myVar
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

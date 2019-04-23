@@ -1,14 +1,15 @@
 ---
-title: xlPhoneticAlignment enumeration (Excel)
+title: XlPhoneticAlignment enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPhoneticAlignment
 ms.assetid: 366eb2b0-a1f9-af29-835a-c610ae8205d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPhoneticAlignment enumeration (Excel)
+# XlPhoneticAlignment enumeration (Excel)
 
 Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phonetics** object.
 
@@ -21,3 +22,4 @@ Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phon
 | **xlPhoneticAlignLeft**|1|Left aligned|
 | **xlPhoneticAlignNoControl**|0|Excel controls alignment|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

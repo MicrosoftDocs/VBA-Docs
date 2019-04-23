@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox Object (Publisher)
+title: WebCheckBox object (Publisher)
 keywords: vbapb10.chm4390911
 f1_keywords:
 - vbapb10.chm4390911
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebCheckBox
 ms.assetid: adcdf233-50b8-acbe-e52f-1e86e175b31d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCheckBox Object (Publisher)
+# WebCheckBox object (Publisher)
 
 Represents a Web check box control. The  **WebCheckBox** object is a member of the **Shape** object.
  
@@ -44,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebCheckBox.Application.md)|
 |[Parent](Publisher.WebCheckBox.Parent.md)|
@@ -52,3 +53,4 @@ End Sub
 |[Selected](Publisher.WebCheckBox.Selected.md)|
 |[Value](Publisher.WebCheckBox.Value.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

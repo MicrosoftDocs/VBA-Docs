@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.HierarchizeDistinct
 ms.assetid: 714f85b7-2adb-0ec1-5203-ca797b21e0a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether to order and remove duplicates when displaying the speci
 
 ## Syntax
 
- _expression_. `HierarchizeDistinct`
+_expression_. `HierarchizeDistinct`
 
- _expression_ A variable that represents a '[CubeField](Excel.CubeField.md)' object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Return value
@@ -30,11 +31,11 @@ Returns or sets whether to order and remove duplicates when displaying the speci
 
 ## Remarks
 
- **True** if the named set is displayed as ordered with duplicates removed; otherwise **False** .
+ **True** if the named set is displayed as ordered with duplicates removed; otherwise **False**.
 
 The value of this property corresponds to the setting of the  **Automatically order and remove duplicates from the set** check box on the **Layout & Print** tab of the **Field Settings** dialog box for a named set in a PivotTable report based on an OLAP cube.
 
-This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet** .
+This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet**.
 
 
 ## Example
@@ -53,3 +54,4 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&L]"). _
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

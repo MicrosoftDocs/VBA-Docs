@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.ZoomOnRoll Property (Visio)
+title: ApplicationSettings.ZoomOnRoll property (Visio)
 keywords: vis_sdr.chm16251455
 f1_keywords:
 - vis_sdr.chm16251455
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.ZoomOnRoll
 ms.assetid: 27475650-3703-4a95-f71c-d979ba2066f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.ZoomOnRoll Property (Visio)
+# ApplicationSettings.ZoomOnRoll property (Visio)
 
 Determines whether zooming in to and out from a Microsoft Visio drawing by rolling the wheel of the mouse is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `ZoomOnRoll`
+_expression_. `ZoomOnRoll`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -32,4 +33,4 @@ Determines whether zooming in to and out from a Microsoft Visio drawing by rolli
 
 Setting the  **ZoomOnRoll** property is equivalent to setting the **Zoom on roll with Intellimouse** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

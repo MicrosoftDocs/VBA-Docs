@@ -3,6 +3,7 @@ title: DataSpace object and CreateObject method example (VBScript)
 ms.prod: access
 ms.assetid: 0132996b-e3e1-4dbe-95dc-4313824669b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -85,3 +86,5 @@ End Sub
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.DDETerminateAll Method (Word)
+title: Application.DDETerminateAll method (Word)
 keywords: vbawd10.chm158335291
 f1_keywords:
 - vbawd10.chm158335291
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DDETerminateAll
 ms.assetid: 1e8a0805-9bdd-add9-7184-533a0d2c5d9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DDETerminateAll Method (Word)
+# Application.DDETerminateAll method (Word)
 
 Closes all dynamic data exchange (DDE) channels opened by Microsoft Word.
 
 
 ## Syntax
 
- _expression_. `DDETerminateAll`
+_expression_. `DDETerminateAll`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -59,3 +60,4 @@ DDETerminateAll
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

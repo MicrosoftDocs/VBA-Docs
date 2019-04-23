@@ -1,5 +1,5 @@
 ---
-title: Document.ReadingLayoutSizeX Property (Word)
+title: Document.ReadingLayoutSizeX property (Word)
 keywords: vbawd10.chm158007787
 f1_keywords:
 - vbawd10.chm158007787
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ReadingLayoutSizeX
 ms.assetid: 1b77f914-ca27-8ebf-7794-3ce49f2e117b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ReadingLayoutSizeX Property (Word)
+# Document.ReadingLayoutSizeX property (Word)
 
 Sets or returns a  **Long** that represents the width of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
 
 
 ## Syntax
 
- _expression_. `ReadingLayoutSizeX`
+_expression_. `ReadingLayoutSizeX`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ ActiveDocument.ReadingModeLayoutFrozen = True
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

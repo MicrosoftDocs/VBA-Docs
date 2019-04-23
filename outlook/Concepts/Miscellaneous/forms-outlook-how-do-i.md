@@ -3,6 +3,7 @@ title: Forms (Outlook How Do I)
 ms.prod: outlook
 ms.assetid: 75335f71-2142-1384-4f39-aef650e85f9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -150,5 +151,5 @@ This topic links to help on widely used Forms tasks. To view other categories of
 -  [How to: Undo and Redo an Action in a Text Box or a Combo Box](../../How-to/General/how-to-undo-and-redo-an-action-in-a-text-box-or-a-combo-box.md) Describes how to undo or redo text editing within a text box or within the text area of a combo box.
     
 -  [How to: Use the Controls Collection to Move Controls on a Page](../../How-to/General/how-to-use-the-controls-collection-to-move-controls-on-a-page.md) Describes how to move controls within a controls collection on a page.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ShowProgress Property (Visio)
+title: InvisibleApp.ShowProgress property (Visio)
 keywords: vis_sdr.chm17514370
 f1_keywords:
 - vis_sdr.chm17514370
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.ShowProgress
 ms.assetid: ab756913-7ecc-5565-98dd-c52b5edbee7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ShowProgress Property (Visio)
+# InvisibleApp.ShowProgress property (Visio)
 
 Determines whether a progress indicator is shown while performing certain operations. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowProgress`
+_expression_. `ShowProgress`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -69,4 +70,4 @@ Sub ShowProgress_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

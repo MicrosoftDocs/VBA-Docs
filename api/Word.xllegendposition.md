@@ -1,12 +1,13 @@
 ---
-title: xlLegendPosition Enumeration (Word)
+title: XlLegendPosition enumeration (Word)
 ms.prod: word
 ms.assetid: 02581a70-ef8e-7bb7-f8f4-f741c459ac85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlLegendPosition Enumeration (Word)
+# XlLegendPosition enumeration (Word)
 
 Specifies the position of the legend on a chart.
 
@@ -21,3 +22,4 @@ Specifies the position of the legend on a chart.
 | **xlLegendPositionRight**|-4152|Right of the chart.|
 | **xlLegendPositionTop**|-4160|Above the chart.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

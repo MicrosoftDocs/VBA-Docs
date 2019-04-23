@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.SendUsingAccount
 ms.assetid: d4e49128-a63a-d761-90b9-9e1a3305adc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -66,8 +67,6 @@ End Sub
 
 ## See also
 
-- [MailItem object](Outlook.MailItem.md)
 - [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

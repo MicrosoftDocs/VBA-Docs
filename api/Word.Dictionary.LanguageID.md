@@ -1,5 +1,5 @@
 ---
-title: Dictionary.LanguageID Property (Word)
+title: Dictionary.LanguageID property (Word)
 keywords: vbawd10.chm162332674
 f1_keywords:
 - vbawd10.chm162332674
@@ -8,10 +8,11 @@ api_name:
 - Word.Dictionary.LanguageID
 ms.assetid: 598efc88-f26d-49b2-6451-e2cbedd20ff7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionary.LanguageID Property (Word)
+# Dictionary.LanguageID property (Word)
 
 Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the language for the specified object. Read/write.
 
@@ -20,7 +21,7 @@ Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that repres
 
  _expression_**LanguageID**
 
- _expression_ Required. An expression that returns a '[Dictionary](Word.Dictionary.md)' object.
+_expression_ Required. An expression that returns a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ Some  **WdLanguageID** constants may not be available to you, depending on the l
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

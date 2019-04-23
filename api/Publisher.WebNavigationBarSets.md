@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSets Object (Publisher)
+title: WebNavigationBarSets object (Publisher)
 keywords: vbapb10.chm8519679
 f1_keywords:
 - vbapb10.chm8519679
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebNavigationBarSets
 ms.assetid: 0c4f62c7-b7b2-a7bc-60f8-8097fe99fe58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSets Object (Publisher)
+# WebNavigationBarSets object (Publisher)
 
 A collection of all the  **WebNavigationBarSet** objects in the current document. Each **WebNavigationBarSet** represents a Web navigation bar set consisting of hyperlinks.
  
@@ -84,7 +85,7 @@ MsgBox ActiveDocument.WebNavigationBarSets.Count
 
 ```
 
-Use  **WebNavigationBarSets** **.AddToEveryPage** (Left, Top, [Width]), where Left is the distance from the left of the page to the left edge of the navigation bar, Top is the distance form the top of the page to the top edge of the navigation bar, and Width is the width of the navigaion bar, to add the specified navigation bar to every page. The following example adds the navigation bar named "WebNavBar1" to every page in the current publication.
+Use  **WebNavigationBarSets** **.AddToEveryPage** (Left, Top, [Width]), where Left is the distance from the left of the page to the left edge of the navigation bar, Top is the distance form the top of the page to the top edge of the navigation bar, and Width is the width of the navigation bar, to add the specified navigation bar to every page. The following example adds the navigation bar named "WebNavBar1" to every page in the current publication.
  
 
  
@@ -102,7 +103,7 @@ ActiveDocument.WebNavigationBarSets.Item _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddSet](Publisher.WebNavigationBarSets.AddSet.md)|
 |[Item](Publisher.WebNavigationBarSets.Item.md)|
@@ -111,9 +112,10 @@ ActiveDocument.WebNavigationBarSets.Item _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebNavigationBarSets.Application.md)|
 |[Count](Publisher.WebNavigationBarSets.Count.md)|
 |[Parent](Publisher.WebNavigationBarSets.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

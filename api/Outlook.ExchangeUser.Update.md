@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.Update Method (Outlook)
+title: ExchangeUser.Update method (Outlook)
 keywords: vbaol11.chm2076
 f1_keywords:
 - vbaol11.chm2076
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeUser.Update
 ms.assetid: a2672fbf-f32a-f120-227c-24ee5c361f35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeUser.Update Method (Outlook)
+# ExchangeUser.Update method (Outlook)
 
 Posts a change to the  **[ExchangeUser](Outlook.ExchangeUser.md)** object in the messaging system.
 
 
 ## Syntax
 
- _expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
+_expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ To flush the cache and then reload the values from the address book, call  **Upd
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

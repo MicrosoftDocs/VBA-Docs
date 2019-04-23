@@ -1,5 +1,5 @@
 ---
-title: MailItem.BodyFormat Property (Outlook)
+title: MailItem.BodyFormat property (Outlook)
 keywords: vbaol11.chm1372
 f1_keywords:
 - vbaol11.chm1372
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.BodyFormat
 ms.assetid: f635a0bc-20b7-206c-f558-a4ca2519670f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.BodyFormat Property (Outlook)
+# MailItem.BodyFormat property (Outlook)
 
 Returns or sets an  **[OlBodyFormat](Outlook.OlBodyFormat.md)** constant indicating the format of the body text. Read/write.
 
 
 ## Syntax
 
- _expression_. `BodyFormat`
+_expression_. `BodyFormat`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -32,13 +33,13 @@ All text formatting will be lost when the  **BodyFormat** property is switched f
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML** . The body text of the e-mail item will now appear in HTML format.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML**. The body text of the email item will now appear in HTML format.
 
 
 ```vb
 Sub CreateHTMLMail() 
  
- 'Creates a new e-mail item and modifies its properties. 
+ 'Creates a new email item and modifies its properties. 
  
  Dim objMail As MailItem 
  
@@ -69,3 +70,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

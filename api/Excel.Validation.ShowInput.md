@@ -8,19 +8,20 @@ api_name:
 - Excel.Validation.ShowInput
 ms.assetid: 8760c403-c982-4cbd-6211-cb8b1c83bc91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Validation.ShowInput property (Excel)
 
- **True** if the data validation input message will be displayed whenever the user selects a cell in the data validation range. Read/write **Boolean** .
+ **True** if the data validation input message will be displayed whenever the user selects a cell in the data validation range. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowInput`
+_expression_. `ShowInput`
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

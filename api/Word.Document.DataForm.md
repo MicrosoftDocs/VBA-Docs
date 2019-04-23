@@ -1,5 +1,5 @@
 ---
-title: Document.DataForm Method (Word)
+title: Document.DataForm method (Word)
 keywords: vbawd10.chm158007402
 f1_keywords:
 - vbawd10.chm158007402
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.DataForm
 ms.assetid: 138f8b31-f076-8573-510f-0295fb612226
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DataForm Method (Word)
+# Document.DataForm method (Word)
 
 Displays the  **Data Form** dialog box, in which you can add, delete, or modify records.
 
 
 ## Syntax
 
- _expression_. `DataForm`
+_expression_. `DataForm`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

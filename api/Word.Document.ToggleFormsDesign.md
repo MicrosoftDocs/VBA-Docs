@@ -1,5 +1,5 @@
 ---
-title: Document.ToggleFormsDesign Method (Word)
+title: Document.ToggleFormsDesign method (Word)
 keywords: vbawd10.chm158007440
 f1_keywords:
 - vbawd10.chm158007440
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ToggleFormsDesign
 ms.assetid: 4db26f6c-8e59-33b6-34eb-708b39cbed9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ToggleFormsDesign Method (Word)
+# Document.ToggleFormsDesign method (Word)
 
 Switches form design mode on or off.
 
 
 ## Syntax
 
- _expression_. `ToggleFormsDesign`
+_expression_. `ToggleFormsDesign`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

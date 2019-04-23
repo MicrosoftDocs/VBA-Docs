@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.ScrollRow
 ms.assetid: 5fd21ea8-a173-e502-042d-57903bcd43e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.ScrollRow property (Excel)
 
-Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long** .
+Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `ScrollRow`
+_expression_. `ScrollRow`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveWindow.ScrollRow = 10
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

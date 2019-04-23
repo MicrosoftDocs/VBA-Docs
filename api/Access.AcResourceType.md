@@ -8,6 +8,7 @@ api_name:
 - Access.AcResourceType
 ms.assetid: ce31a7ab-ad69-a351-2374-488203884bac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,10 +16,11 @@ ms.date: 06/08/2017
 
 Specifies the type of a [SharedResource](Access.SharedResource.md) object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acResourceImage**|1|Image.|
 |**acResourceTheme**|0|Office theme.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

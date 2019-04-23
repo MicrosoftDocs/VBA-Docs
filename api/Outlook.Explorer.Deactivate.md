@@ -1,5 +1,5 @@
 ---
-title: Explorer.Deactivate Event (Outlook)
+title: Explorer.Deactivate event (Outlook)
 keywords: vbaol11.chm454
 f1_keywords:
 - vbaol11.chm454
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.Deactivate
 ms.assetid: 7bf07653-3e12-670b-c293-1d51cf30e564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.Deactivate Event (Outlook)
+# Explorer.Deactivate event (Outlook)
 
 Occurs when an explorer stops being the active window, either as a result of user action or through program code.
 
 
 ## Syntax
 
- _expression_. `Deactivate`
+_expression_.**Deactivate**
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

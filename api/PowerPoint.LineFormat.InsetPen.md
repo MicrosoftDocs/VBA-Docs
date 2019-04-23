@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (PowerPoint)
+title: LineFormat.InsetPen property (PowerPoint)
 keywords: vbapp10.chm553016
 f1_keywords:
 - vbapp10.chm553016
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.LineFormat.InsetPen
 ms.assetid: 07a69459-0a24-c9b8-5aba-103b39d8b1af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.InsetPen Property (PowerPoint)
+# LineFormat.InsetPen property (PowerPoint)
 
-Detemines whether to draw lines on the inside of a specified shape. Read/write.
+Determines whether to draw lines on the inside of a specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `InsetPen`
+_expression_. `InsetPen`
 
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
@@ -36,7 +37,7 @@ The value of the  **InsetPen** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. An inset pen is not enabled.|
 |**msoTrue**| An inset pen is enabled.|
@@ -60,3 +61,4 @@ End Sub
 
 [LineFormat Object](PowerPoint.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

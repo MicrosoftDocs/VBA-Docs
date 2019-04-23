@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Empty Property (Word)
+title: Bookmark.Empty property (Word)
 keywords: vbawd10.chm157810690
 f1_keywords:
 - vbawd10.chm157810690
@@ -8,17 +8,18 @@ api_name:
 - Word.Bookmark.Empty
 ms.assetid: 88675e63-9e34-e9e4-247a-3d3281bbf2e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmark.Empty Property (Word)
+# Bookmark.Empty property (Word)
 
- **True** if the specified bookmark is empty. Read-only **Boolean** .
+ **True** if the specified bookmark is empty. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Empty`
+_expression_. `Empty`
 
  _expression_ A variable that represents a '[Bookmarks](Word.bookmarks.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

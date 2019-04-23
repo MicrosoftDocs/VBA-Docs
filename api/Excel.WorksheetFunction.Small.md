@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Small Method (Excel)
+title: WorksheetFunction.Small method (Excel)
 keywords: vbaxl10.chm137230
 f1_keywords:
 - vbaxl10.chm137230
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Small
 ms.assetid: d73da9a7-c518-1071-205a-042329d14918
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Small Method (Excel)
+# WorksheetFunction.Small method (Excel)
 
 Returns the k-th smallest value in a data set. Use this function to return values with a particular relative standing in a data set.
 
 
 ## Syntax
 
- _expression_. `Small`( `_Arg1_` , `_Arg2_` )
+_expression_. `Small`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

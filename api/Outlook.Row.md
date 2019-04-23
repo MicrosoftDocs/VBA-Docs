@@ -1,5 +1,5 @@
 ---
-title: Row Object (Outlook)
+title: Row object (Outlook)
 keywords: vbaol11.chm3167
 f1_keywords:
 - vbaol11.chm3167
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Row
 ms.assetid: 06db3fa4-1649-48bf-3b86-ffdf99a47305
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row Object (Outlook)
+# Row object (Outlook)
 
 Represents a row of data in the  **[Table](Outlook.Table.md)** object.
 
@@ -109,7 +110,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BinaryToString](Outlook.Row.BinaryToString.md)|
 |[GetValues](Outlook.Row.GetValues.md)|
@@ -121,7 +122,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Row.Application.md)|
 |[Class](Outlook.Row.Class.md)|
@@ -131,4 +132,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

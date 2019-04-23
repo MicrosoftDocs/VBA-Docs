@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 17d66e9a-7e3e-49f7-b261-80b493a87798
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.OvertimeCost Property (Project)](http://msdn.microsoft.com/library/5c5ab221-104d-147b-320c-9514acc98447%28Office.15%29.aspx)
 [Profile.UserName Property (Project)](http://msdn.microsoft.com/library/8af2fe46-7218-39be-efd0-c7dd91f25ac7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

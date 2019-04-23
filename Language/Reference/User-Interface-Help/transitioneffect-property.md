@@ -1,5 +1,5 @@
 ---
-title: TransitionEffect Property
+title: TransitionEffect property
 keywords: fm20.chm5225108
 f1_keywords:
 - fm20.chm5225108
@@ -7,32 +7,31 @@ ms.prod: office
 api_name:
 - Office.TransitionEffect
 ms.assetid: 10a65973-fa2e-5b9d-5052-ead41286e1af
-ms.date: 06/08/2017
+ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 
-# TransitionEffect Property
-
-
+# TransitionEffect property
 
 Specifies the visual effect to use when changing from one page to another.
 
 ## Syntax
 
-_object_. **TransitionEffect** [= _fmTransitionEffect_ ]
-The  **TransitionEffect** property syntax has these parts:
+_object_.**TransitionEffect** [= _fmTransitionEffect_ ]
 
+The **TransitionEffect** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmTransitionEffect_|Optional. The transition effect you want between pages.|
 
 ## Settings
-The settings for  _fmTransitionEffect_ are:
 
+The settings for _fmTransitionEffect_ are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmTransitionEffectNone_|0|No special effect (default).|
 | _fmTransitionEffectCoverUp_|1|The new page covers the old page, moving from the bottom to the top.|
@@ -50,5 +49,12 @@ The settings for  _fmTransitionEffect_ are:
 
 ## Remarks
 
-Use the  **TransitionPeriod** property to specify the duration of a transition effect.
+Use the **TransitionPeriod** property to specify the duration of a transition effect.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

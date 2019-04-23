@@ -3,6 +3,7 @@ title: Search and Filter (Outlook)
 ms.prod: outlook
 ms.assetid: 9970b094-0f31-4940-95a5-ee2a9cbfa1c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,5 +21,5 @@ ms.date: 06/08/2017
 -  [Searching](../../How-to/Search-and-Filter/searching.md)
     
 -  [How To](how-to.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

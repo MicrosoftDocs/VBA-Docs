@@ -1,5 +1,5 @@
 ---
-title: TableFields.Add Method (Project)
+title: TableFields.Add method (Project)
 keywords: vbapj.chm132691
 f1_keywords:
 - vbapj.chm132691
@@ -8,17 +8,18 @@ api_name:
 - Project.TableFields.Add
 ms.assetid: d4e6af9f-6d95-49f0-8828-dcd39dbb9f13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableFields.Add Method (Project)
+# TableFields.Add method (Project)
 
 Adds a  **TableField** object to a **TableFields** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _Field_`, ` _AlignData_`, ` _Width_`, ` _Title_`, ` _AlignTitle_`, ` _Before_`, ` _AutoWrap_` )
+_expression_.**Add**( `_Field_`, `_AlignData_`, `_Width_`, `_Title_`, `_AlignTitle_`, `_Before_`, `_AutoWrap_` )
 
  _expression_ A variable that represents a 'TableFields' object.
 
@@ -46,3 +47,5 @@ Adds a  **TableField** object to a **TableFields** collection.
 
 
 [TableFields Collection Object](Project.tablefields.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

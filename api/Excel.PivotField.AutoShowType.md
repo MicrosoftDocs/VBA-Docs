@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.AutoShowType
 ms.assetid: a8146e5c-b1b4-7ff4-d2d7-bc98b863681d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.AutoShowType property (Excel)
 
-Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long** .
+Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `AutoShowType`
+_expression_. `AutoShowType`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -52,3 +53,4 @@ End With
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PjInformationTab Enumeration (Project)
+title: PjInformationTab enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjInformationTab
 ms.assetid: 6d66b730-d4b7-7718-59d1-6af49465b7d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjInformationTab Enumeration (Project)
+# PjInformationTab enumeration (Project)
 
 Contains constants that specify which information tab to display.
 
@@ -31,3 +32,4 @@ Contains constants that specify which information tab to display.
 |**pjTaskPredecessorsTab**|1|Predecessors tab of the Task Information dialog box.|
 |**pjTaskResourcesTab**|2|Resources tab of the Task Information dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

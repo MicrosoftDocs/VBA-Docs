@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: b0f5d8a6-4735-367f-dd27-af3d97816430
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,8 +30,8 @@ FROM MyTable;
 
 
 
-```c#
-SELECT week1 + week2 as hours, hours + overtime as gross, gross + ytdpay as week1FROM EmployeePay
+```sql
+SELECT week1 + week2 as hours, hours + overtime as gross, gross + ytdpay as week1 FROM EmployeePay
 
 ```
 
@@ -42,3 +43,5 @@ SELECT week1 + week2 as hours, hours + overtime as gross, gross + ytdpay as week
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

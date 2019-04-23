@@ -1,5 +1,5 @@
 ---
-title: WizardProperties.FindPropertyById Method (Publisher)
+title: WizardProperties.FindPropertyById method (Publisher)
 keywords: vbapb10.chm1507332
 f1_keywords:
 - vbapb10.chm1507332
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WizardProperties.FindPropertyById
 ms.assetid: 9d13ffa2-f251-0e7d-2f36-c747413143d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardProperties.FindPropertyById Method (Publisher)
+# WizardProperties.FindPropertyById method (Publisher)
 
 Returns a  **[WizardProperty](Publisher.WizardProperty.md)** object, based on the specified ID, from the collection of wizard properties associated with a publication design or a Design Gallery object's wizard.
 
 
 ## Syntax
 
- _expression_. **FindPropertyById**(**_ID_**)
+_expression_.**FindPropertyById**(**_ID_**)
 
  _expression_ A variable that represents a  **WizardProperties** object.
 
@@ -56,4 +57,4 @@ Sub SetWizardProperties
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

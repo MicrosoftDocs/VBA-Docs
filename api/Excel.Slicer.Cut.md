@@ -1,5 +1,5 @@
 ---
-title: Slicer.Cut Method (Excel)
+title: Slicer.Cut method (Excel)
 keywords: vbaxl10.chm905090
 f1_keywords:
 - vbaxl10.chm905090
@@ -8,19 +8,20 @@ api_name:
 - Excel.Slicer.Cut
 ms.assetid: a8778661-612f-0031-78b0-d59bb87fdf62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slicer.Cut Method (Excel)
+# Slicer.Cut method (Excel)
 
 Cuts the specified slicer and copies it to the clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_.**Cut**
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Example
@@ -52,3 +53,4 @@ ActiveSheet.Paste
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

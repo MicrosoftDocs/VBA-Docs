@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (Word)
+title: TextEffectFormat.ToggleVerticalText method (Word)
 keywords: vbawd10.chm164560906
 f1_keywords:
 - vbawd10.chm164560906
@@ -8,19 +8,20 @@ api_name:
 - Word.TextEffectFormat.ToggleVerticalText
 ms.assetid: 3d6fb851-e6f4-d8fc-a37a-80fb9455ca81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.ToggleVerticalText Method (Word)
+# TextEffectFormat.ToggleVerticalText method (Word)
 
 Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
 
 
 ## Syntax
 
- _expression_. `ToggleVerticalText`
+_expression_. `ToggleVerticalText`
 
- _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ newWordArt.TextEffect.ToggleVerticalText
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

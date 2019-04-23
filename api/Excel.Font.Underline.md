@@ -8,6 +8,7 @@ api_name:
 - Excel.Font.Underline
 ms.assetid: 81a2bdd2-bebd-b3ca-e0c3-6dd55280fcc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the type of underline applied to the font. Read/write **Variant*
 
 ## Syntax
 
- _expression_. `Underline`
+_expression_. `Underline`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveCell.Font.Underline = xlUnderlineStyleSingle
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

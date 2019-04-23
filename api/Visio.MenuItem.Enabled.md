@@ -1,5 +1,5 @@
 ---
-title: MenuItem.Enabled Property (Visio)
+title: MenuItem.Enabled property (Visio)
 keywords: vis_sdr.chm12913455
 f1_keywords:
 - vis_sdr.chm12913455
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItem.Enabled
 ms.assetid: 649a8f36-4f07-e96b-972d-dda542df234b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItem.Enabled Property (Visio)
+# MenuItem.Enabled property (Visio)
 
 Determines whether or not an object is currently enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_.**Enabled**
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
@@ -27,4 +28,4 @@ Determines whether or not an object is currently enabled. Read/write.
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Visio.ShapeName
 ms.assetid: cde3d4f0-5e45-1236-1d6d-227b93cdaa64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the name of the shape at the specified index in the collection of shapes in
 
 ## Syntax
 
- _expression_. **ShapeName**(**_ShapeIndex_**)
+_expression_.**ShapeName**(**_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -55,4 +56,4 @@ Dim intCounter As Integer
 Next intCounter
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

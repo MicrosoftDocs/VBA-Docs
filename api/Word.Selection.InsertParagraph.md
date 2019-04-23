@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertParagraph Method (Word)
+title: Selection.InsertParagraph method (Word)
 keywords: vbawd10.chm158662816
 f1_keywords:
 - vbawd10.chm158662816
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertParagraph
 ms.assetid: bceda293-7294-8769-75fe-4792199439c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertParagraph Method (Word)
+# Selection.InsertParagraph method (Word)
 
 Replaces the specified selection with a new paragraph.
 
 
 ## Syntax
 
- _expression_. `InsertParagraph`
+_expression_. `InsertParagraph`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

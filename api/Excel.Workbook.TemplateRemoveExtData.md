@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.TemplateRemoveExtData
 ms.assetid: 9851df1d-4e83-525a-8a43-bd84b0a94c74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.TemplateRemoveExtData property (Excel)
 
- **True** if external data references are removed when the workbook is saved as a template. Read/write **Boolean** .
+ **True** if external data references are removed when the workbook is saved as a template. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TemplateRemoveExtData`
+_expression_. `TemplateRemoveExtData`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

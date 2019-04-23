@@ -1,5 +1,5 @@
 ---
-title: FileConverter Object (PowerPoint)
+title: FileConverter object (PowerPoint)
 keywords: vbapp10.chm680000
 f1_keywords:
 - vbapp10.chm680000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.FileConverter
 ms.assetid: 6baf5bd8-6644-0784-a049-96c3d733043f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter Object (PowerPoint)
+# FileConverter object (PowerPoint)
 
 Represents a file converter that is used to open or save files. The  **FileConverter** object is a member of the **FileConverters** collection. The **[FileConverters](PowerPoint.FileConverters.md)** collection contains all the installed file converters for opening and saving files.
 
@@ -44,3 +45,4 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ExtraInfoRequired Property (Word)
+title: Hyperlink.ExtraInfoRequired property (Word)
 keywords: vbawd10.chm161285105
 f1_keywords:
 - vbawd10.chm161285105
@@ -8,17 +8,18 @@ api_name:
 - Word.Hyperlink.ExtraInfoRequired
 ms.assetid: 066a4dbf-f5ea-f708-cd57-f8e515a258d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.ExtraInfoRequired Property (Word)
+# Hyperlink.ExtraInfoRequired property (Word)
 
- **True** if extra information is required to resolve the specified hyperlink. Read-only **Boolean** .
+ **True** if extra information is required to resolve the specified hyperlink. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ExtraInfoRequired`
+_expression_. `ExtraInfoRequired`
 
  _expression_ A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
@@ -55,3 +56,4 @@ End If
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

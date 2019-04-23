@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 4fc4655b-c8a6-2ca2-509e-ac98d9a1c776
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,7 +22,7 @@ SELECT  _fieldlist_ FROM _table_ WHERE _selectcriteria_ GROUP BY _groupfieldlist
 
 A SELECT statement containing a HAVING clause has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, [SQL aggregate functions](https://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
 | _table_|The name of the table from which records are retrieved. For more information, see the [FROM](from-clause-microsoft-access-sql.md) clause.|
@@ -85,3 +86,5 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

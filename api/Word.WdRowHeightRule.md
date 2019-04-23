@@ -1,14 +1,15 @@
 ---
-title: WdRowHeightRule Enumeration (Word)
+title: WdRowHeightRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRowHeightRule
 ms.assetid: 36cd4de2-93cb-9c32-bd05-2b7f1d4cac5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRowHeightRule Enumeration (Word)
+# WdRowHeightRule enumeration (Word)
 
 Specifies the rule for determining the height of the specified cells or rows.
 
@@ -20,3 +21,4 @@ Specifies the rule for determining the height of the specified cells or rows.
 | **wdRowHeightAuto**|0|The row height is adjusted to accommodate the tallest value in the row.|
 | **wdRowHeightExactly**|2|The row height is an exact value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

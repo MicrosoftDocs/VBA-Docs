@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.AllowEdit
 ms.assetid: 9f03054c-190f-ce3b-54db-bc6e19b7e1c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Boolean** value that indicates if the range can be edited on a prot
 
 ## Syntax
 
- _expression_. `AllowEdit`
+_expression_. `AllowEdit`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -54,3 +55,4 @@ End Sub
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

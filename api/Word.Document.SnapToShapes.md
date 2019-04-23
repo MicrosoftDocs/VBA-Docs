@@ -1,5 +1,5 @@
 ---
-title: Document.SnapToShapes Property (Word)
+title: Document.SnapToShapes property (Word)
 keywords: vbawd10.chm158007597
 f1_keywords:
 - vbawd10.chm158007597
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SnapToShapes
 ms.assetid: b74e7a58-deee-aed2-8956-3911dd54d9ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SnapToShapes Property (Word)
+# Document.SnapToShapes property (Word)
 
- **True** if Microsoft Word automatically aligns AutoShapes or East Asian characters with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes or East Asian characters in the specified document. Read/write **Boolean** .
+ **True** if Microsoft Word automatically aligns AutoShapes or East Asian characters with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes or East Asian characters in the specified document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SnapToShapes`
+_expression_. `SnapToShapes`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.SnapToShapes = True
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

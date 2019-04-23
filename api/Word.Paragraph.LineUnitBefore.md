@@ -1,5 +1,5 @@
 ---
-title: Paragraph.LineUnitBefore Property (Word)
+title: Paragraph.LineUnitBefore property (Word)
 keywords: vbawd10.chm156696705
 f1_keywords:
 - vbawd10.chm156696705
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.LineUnitBefore
 ms.assetid: e9947ad7-14aa-b261-7b2c-c26ad05863eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.LineUnitBefore Property (Word)
+# Paragraph.LineUnitBefore property (Word)
 
-Returns or sets the amount of spacing (in gridlines) before the specified paragraph. Read/write  **Single** .
+Returns or sets the amount of spacing (in gridlines) before the specified paragraph. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `LineUnitBefore`
+_expression_. `LineUnitBefore`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.Paragraphs(2).LineUnitBefore = 1
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

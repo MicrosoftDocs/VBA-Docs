@@ -1,5 +1,5 @@
 ---
-title: Global.Documents Property (Word)
+title: Global.Documents property (Word)
 keywords: vbawd10.chm163119105
 f1_keywords:
 - vbawd10.chm163119105
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.Documents
 ms.assetid: a86bad22-aabf-dd0d-4b23-fc608d5db4c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.Documents Property (Word)
+# Global.Documents property (Word)
 
 Returns a  **[Documents](Word.documents.md)** collection that represents all the open documents. Read-only.
 
 
 ## Syntax
 
- _expression_. `Documents`
+_expression_. `Documents`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -82,3 +83,4 @@ Documents.Open FileName:="C:\Files\Doc.doc", ReadOnly:=True
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

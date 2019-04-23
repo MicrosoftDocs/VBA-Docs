@@ -1,42 +1,39 @@
 ---
-title: TabFixedHeight, TabFixedWidth Properties Example
+title: TabFixedHeight, TabFixedWidth properties example
 keywords: fm20.chm5225126
 f1_keywords:
 - fm20.chm5225126
 ms.prod: office
 ms.assetid: b856840c-1855-b871-33cc-e210489ce499
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# TabFixedHeight, TabFixedWidth Properties Example
+# TabFixedHeight, TabFixedWidth properties example
 
-The following example uses the  **TabFixedHeight** and **TabFixedWidth** properties to set the size of the tabs used in **MultiPage** and **TabStrip**. The user clicks the **SpinButton** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
+The following example uses the **[TabFixedHeight and TabFixedWidth](tabfixedheight-tabfixedwidth-properties.md)** properties to set the size of the tabs used in **[MultiPage](multipage-control.md)** and **[TabStrip](tabstrip-control.md)**. 
+
+The user clicks the **[SpinButton](spinbutton-control.md)** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- A  **Label** named Label1 for the width control.
+- A **[Label](label-control.md)** named Label1 for the width control.
     
-- A  **SpinButton** named SpinButton1 for the width control.
+- A **SpinButton** named SpinButton1 for the width control.
     
-- A  **TextBox** named TextBox1 for the width control.
+- A **[TextBox](textbox-control.md)** named TextBox1 for the width control.
     
-- A  **Label** named Label2 for the height control.
+- A **Label** named Label2 for the height control.
     
-- A  **SpinButton** named SpinButton2 for the height control.
+- A **SpinButton** named SpinButton2 for the height control.
     
-- A  **TextBox** named TextBox2 for the height control.
+- A **TextBox** named TextBox2 for the height control.
     
-
-
-
 
 ```vb
 Private Sub UpdateTabWidth() 
@@ -89,4 +86,4 @@ Private Sub SpinButton2_SpinUp()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

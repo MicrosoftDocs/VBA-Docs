@@ -7,43 +7,43 @@ ms.prod: access
 api_name:
 - Access.ComboBox.ColumnCount
 ms.assetid: 76db2415-ee22-89c6-6753-f20d636d41f8
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # ComboBox.ColumnCount property (Access)
 
-You can use the  **ColumnCount** property to specify the number of columns displayed in a list box or in the list box portion of a combo box, or sent to OLE objects in a chart control or unbound object frame . Read/write **Integer**.
+You can use the **ColumnCount** property to specify the number of columns displayed in a list box or in the list box portion of a combo box, or sent to OLE objects in a chart control or unbound object frame. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `ColumnCount`
+_expression_.**ColumnCount**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
-The  **ColumnCount** property holds an integer between 1 and the maximum number of fields in the table, query, or SQL statement, or the maximum number of values in the value list, specified in the **RowSource** property of the control.
+The **ColumnCount** property holds an integer between 1 and the maximum number of fields in the table, query, or SQL statement, or the maximum number of values in the value list, specified in the **RowSource** property of the control.
 
-For [table fields](overview/table-field.md) , you can set this property on the **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.
+For [table fields](overview/table-field.md), you can set this property on the **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.
 
-For example, if you set the  **ColumnCount** property for a list box on an Employees form to 3, one column can list last names, another can list first names, and the third can list employee ID numbers.
+For example, if you set the **ColumnCount** property for a list box on an **Employees** form to 3, one column can list last names, another can list first names, and the third can list employee ID numbers.
 
-A combo box or list box can have multiple columns. If the control's  **RowSource** property contains the name of a table, query, or SQL statement, a combo box or list box will display the fields from that source, from left to right, up to the number specified by the **ColumnCount** property.
+A combo box or list box can have multiple columns. If the control's **RowSource** property contains the name of a table, query, or SQL statement, a combo box or list box will display the fields from that source, from left to right, up to the number specified by the **ColumnCount** property.
 
-To display a different combination of fields, create either a new query or a new SQL statement for the  **RowSource** property, specifying the fields and the order you want.
+To display a different combination of fields, create either a new query or a new SQL statement for the **RowSource** property, specifying the fields and the order you want.
 
-If the  **RowSource** property contains a list of values (the **RowSourceType** property is set to Value List), the values are put into the rows and columns of the combo box or list box in the order they are listed in the **RowSource** property. For example, if the **RowSource** property contains the list "Red; Green; Blue; Yellow" and the **ColumnCount** property is set to 2, the first row of the combo box or list box list will contain "Red" in the first column and "Green" in the second column. The second row will contain "Blue" in the first column and "Yellow" in the second column.
+If the **RowSource** property contains a list of values (the **RowSourceType** property is set to Value List), the values are put into the rows and columns of the combo box or list box in the order they are listed in the **RowSource** property. For example, if the **RowSource** property contains the list "Red; Green; Blue; Yellow" and the **ColumnCount** property is set to 2, the first row of the combo box or list box list will contain "Red" in the first column and "Green" in the second column. The second row will contain "Blue" in the first column and "Yellow" in the second column.
 
-You can use the  **ColumnWidths** property to set the width of the columns displayed in the control, or to hide columns.
+You can use the **ColumnWidths** property to set the width of the columns displayed in the control or to hide columns.
 
 
 ## Example
 
-The following example uses the  **Column** property and the **ColumnCount** property to print the values of a list box selection.
-
+The following example uses the **Column** property and the **ColumnCount** property to print the values of a list box selection.
 
 ```vb
 Public Sub Read_ListBox() 
@@ -76,17 +76,11 @@ Public Sub Read_ListBox()
 End Sub
 ```
 
+<br/>
 
+The following example shows how to create a combo box that is bound to one column while displaying another. Setting the **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
 
-The following example show how to create a combo box that is bound to one column while displaying another. Setting the  **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
-
-The  **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
-
- **Sample code provided by:**
-![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
-
-
-
+The **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
 
 ```vb
 Private Sub cboDept_Enter()
@@ -100,14 +94,6 @@ End Sub
 ```
 
 
-### About the contributors
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
-## See also
-
-
-[ComboBox Object](Access.ComboBox.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

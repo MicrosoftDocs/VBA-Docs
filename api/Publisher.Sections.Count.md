@@ -1,5 +1,5 @@
 ---
-title: Sections.Count Property (Publisher)
+title: Sections.Count property (Publisher)
 keywords: vbapb10.chm7340034
 f1_keywords:
 - vbapb10.chm7340034
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Sections.Count
 ms.assetid: 39a8848b-e528-7635-8f02-57f200f6a4c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sections.Count Property (Publisher)
+# Sections.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **Sections** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

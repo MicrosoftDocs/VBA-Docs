@@ -1,21 +1,22 @@
 ---
-title: ActualStartDrivers.Count Property (Project)
+title: ActualStartDrivers.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ActualStartDrivers.Count
 ms.assetid: 57301614-c781-1504-eb99-95ca6a4cdcc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActualStartDrivers.Count Property (Project)
+# ActualStartDrivers.Count property (Project)
 
 Gets the number of  **Assignment** objects in the **ActualStartDrivers** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents an 'ActualStartDrivers' object.
 
@@ -32,3 +33,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 [ActualStartDrivers Collection Object](Project.actualstartdrivers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

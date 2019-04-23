@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.ColorScale.AppliesTo
 ms.assetid: ddef6076-9805-454d-3f98-baf26685e263
-ms.date: 06/08/2017
+ms.date: 04/20/2019
+localization_priority: Normal
 ---
 
 
 # ColorScale.AppliesTo property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
+Returns a **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
 
 
 ## Syntax
 
- _expression_. `AppliesTo`
+_expression_.**AppliesTo**
 
- _expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ColorScale](Excel.ColorScale.md)** object.
 
 
-[ColorScale Object](Excel.ColorScale.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

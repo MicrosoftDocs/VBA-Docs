@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetStoreFromID Method (Outlook)
+title: NameSpace.GetStoreFromID method (Outlook)
 keywords: vbaol11.chm786
 f1_keywords:
 - vbaol11.chm786
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.GetStoreFromID
 ms.assetid: ba5b3df8-22a5-39fa-68ab-9f1e4cfe7f47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.GetStoreFromID Method (Outlook)
+# NameSpace.GetStoreFromID method (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object that represents the store specified by _ID_ .
 
 
 ## Syntax
 
- _expression_. `GetStoreFromID`( `_ID_` )
+_expression_. `GetStoreFromID`( `_ID_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ A  **Store** object that has the **[StoreID](Outlook.Store.StoreID.md)** propert
 
 ## Remarks
 
-The  **StoreID** property of a **Store** is unique to the profile for the session. It is equivalent to the MAPI property **PR_STORE_ENTRY_ID** .
+The  **StoreID** property of a **Store** is unique to the profile for the session. It is equivalent to the MAPI property **PR_STORE_ENTRY_ID**.
 
 The store must be mounted in order for this method to succeed.
 
@@ -50,3 +51,4 @@ The store must be mounted in order for this method to succeed.
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

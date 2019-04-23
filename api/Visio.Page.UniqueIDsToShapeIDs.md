@@ -1,5 +1,5 @@
 ---
-title: Page.UniqueIDsToShapeIDs Method (Visio)
+title: Page.UniqueIDsToShapeIDs method (Visio)
 keywords: vis_sdr.chm10960165
 f1_keywords:
 - vis_sdr.chm10960165
@@ -8,12 +8,13 @@ api_name:
 - Visio.Page.UniqueIDsToShapeIDs
 ms.assetid: 86d0d47c-d356-04ba-51ce-7d682fd165ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.UniqueIDsToShapeIDs Method (Visio)
+# Page.UniqueIDsToShapeIDs method (Visio)
 
-Returns an array of shape IDs of shapes on the page, as specifed by their unique IDs.
+Returns an array of shape IDs of shapes on the page, as specified by their unique IDs.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -21,7 +22,7 @@ Returns an array of shape IDs of shapes on the page, as specifed by their unique
 
 ## Syntax
 
- _expression_. `UniqueIDsToShapeIDs`( `_GUIDs()_` , `_ShapeIDs()_` )
+_expression_. `UniqueIDsToShapeIDs`( `_GUIDs()_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -46,7 +47,7 @@ Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs
 
  _Unique IDs_ are globally unique identifiers (GUIDs). They are unique within the scope of the application.
 
-To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **UniqueIDsToShapeIDs** .
+To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **UniqueIDsToShapeIDs**.
 
 By default, a shape does not have a unique ID. A shape acquires a unique ID only if you set its  **[Shape.UniqueID](Visio.Shape.UniqueID.md)** property.
 
@@ -93,4 +94,4 @@ Public Sub UniqueIDsToShapeIDs_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

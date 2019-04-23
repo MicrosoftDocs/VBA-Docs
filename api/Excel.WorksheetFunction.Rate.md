@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rate Method (Excel)
+title: WorksheetFunction.Rate method (Excel)
 keywords: vbaxl10.chm137111
 f1_keywords:
 - vbaxl10.chm137111
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Rate
 ms.assetid: 5b412b46-d54a-a36a-a309-c819f2671185
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Rate Method (Excel)
+# WorksheetFunction.Rate method (Excel)
 
 Returns the interest rate per period of an annuity. RATE is calculated by iteration and can have zero or more solutions. If the successive results of RATE do not converge to within 0.0000001 after 20 iterations, RATE returns the #NUM! error value.
 
 
 ## Syntax
 
- _expression_. `Rate`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `Rate`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ Make sure that you are consistent about the units you use for specifying guess a
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

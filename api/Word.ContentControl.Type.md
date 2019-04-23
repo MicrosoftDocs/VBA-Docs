@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Type Property (Word)
+title: ContentControl.Type property (Word)
 keywords: vbawd10.chm266534917
 f1_keywords:
 - vbawd10.chm266534917
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.Type
 ms.assetid: 24f4099d-b4ad-c7be-60a4-e23ede378208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.Type Property (Word)
+# ContentControl.Type property (Word)
 
 Returns or sets a  **[WdContentControlType](Word.WdContentControlType.md)** that represents the type for a content control. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -58,3 +59,4 @@ End If
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

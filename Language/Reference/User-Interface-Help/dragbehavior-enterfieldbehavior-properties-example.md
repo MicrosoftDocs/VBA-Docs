@@ -1,34 +1,27 @@
 ---
-title: DragBehavior, EnterFieldBehavior Properties Example
+title: DragBehavior, EnterFieldBehavior properties example
 keywords: fm20.chm5225165
 f1_keywords:
 - fm20.chm5225165
 ms.prod: office
 ms.assetid: 3a422742-87c7-6d8d-493d-52942c383328
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# DragBehavior, EnterFieldBehavior Properties Example
+# DragBehavior, EnterFieldBehavior properties example
 
-The following example uses the  **DragBehavior** and **EnterFieldBehavior** properties to demonstrate the different effects that you can provide when entering a control and when dragging information from one control to another.
+The following example uses the **[DragBehavior](dragbehavior-property.md)** and **[EnterFieldBehavior](enterfieldbehavior-property.md)** properties to demonstrate the different effects that you can provide when entering a control and when dragging information from one control to another.
 
-The sample uses two  **TextBox** controls. You can set **DragBehavior** and **EnterFieldBehavior** for each control and see the effects of dragging from one control to another.
+The sample uses two **[TextBox](textbox-control.md)** controls. You can set **DragBehavior** and **EnterFieldBehavior** for each control and see the effects of dragging from one control to another.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- A  **TextBox** named TextBox1.
-    
-- Two  **ToggleButton** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.
-    
-- A  **TextBox** named TextBox2.
-    
-- Two  **ToggleButton** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
-    
-
-
+- A **TextBox** named TextBox1.   
+- Two **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.    
+- A **TextBox** named TextBox2.   
+- Two **ToggleButton** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
 
 
 ```vb
@@ -103,4 +96,4 @@ Private Sub ToggleButton4_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

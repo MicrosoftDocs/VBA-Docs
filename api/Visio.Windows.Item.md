@@ -1,5 +1,5 @@
 ---
-title: Windows.Item Property (Visio)
+title: Windows.Item property (Visio)
 keywords: vis_sdr.chm11713765
 f1_keywords:
 - vis_sdr.chm11713765
@@ -8,17 +8,18 @@ api_name:
 - Visio.Windows.Item
 ms.assetid: 61a17578-83c2-ce4e-95a4-739b32c7ad95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows.Item Property (Visio)
+# Windows.Item property (Visio)
 
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) collection.
 
@@ -45,4 +46,4 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 objRet = object(index)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

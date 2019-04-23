@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries Object (Word)
+title: ContentControlListEntries object (Word)
 keywords: vbawd10.chm3524
 f1_keywords:
 - vbawd10.chm3524
@@ -8,10 +8,11 @@ api_name:
 - Word.ContentControlListEntries
 ms.assetid: 74b90054-e0a3-37c5-40d2-dc6dd6389cc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControlListEntries Object (Word)
+# ContentControlListEntries object (Word)
 
 The  **ContentControlListEntries** collection contains **ContentControlListEntry** objects that represent the items in a drop-down list or combo box content control.
 
@@ -53,6 +54,6 @@ Dim objCC As ContentControl  Set objCC = ActiveDocument.ContentControls(1)  objC
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

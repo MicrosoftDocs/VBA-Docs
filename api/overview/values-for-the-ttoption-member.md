@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: c4f6e88c-e1b6-3350-85fd-b1be9ecc2189
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,7 +17,7 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |1|Print TrueType fonts as graphics. This is the default for dot-matrix printers.|
 |2|Download TrueType fonts as soft fonts (fonts that are loaded into the printer's memory for rendering). This is the default for Hewlett-Packard printers that use Printer Control Language (PCL).|
@@ -29,6 +30,8 @@ ms.date: 06/08/2017
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

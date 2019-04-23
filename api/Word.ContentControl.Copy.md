@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Copy Method (Word)
+title: ContentControl.Copy method (Word)
 keywords: vbawd10.chm266534918
 f1_keywords:
 - vbawd10.chm266534918
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.Copy
 ms.assetid: ce3ba4ce-aef7-cb7d-ec7b-a160155a939d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.Copy Method (Word)
+# ContentControl.Copy method (Word)
 
 Copies the content control from the active document to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -33,3 +34,4 @@ When you use the  **Copy** method, the original content control remains in the a
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

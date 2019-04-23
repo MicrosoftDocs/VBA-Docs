@@ -1,15 +1,16 @@
 ---
-title: VisUIBarProtection Enumeration (Visio)
+title: VisUIBarProtection enumeration (Visio)
 keywords: vis_sdr.chm70290
 f1_keywords:
 - vis_sdr.chm70290
 ms.prod: visio
 ms.assetid: 36b850c6-3684-917e-49a1-8801b0d4e703
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisUIBarProtection Enumeration (Visio)
+# VisUIBarProtection enumeration (Visio)
 
 Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Protection** properties.
 
@@ -18,7 +19,7 @@ Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Prote
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBarNoChangeDock**|16|Can't be docked or floating.|
 | **visBarNoCustomize**|1|Can't be customized.|
@@ -28,3 +29,4 @@ Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Prote
 | **visBarNoResize**|2|Can't be resized.|
 | **visBarNoVerticalDock**|32|Can't be docked vertically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

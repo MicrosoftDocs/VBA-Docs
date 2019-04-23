@@ -3,6 +3,7 @@ title: Filtering Items Using a Boolean Comparison
 ms.prod: outlook
 ms.assetid: bd786159-f4eb-e649-e838-56d520b824cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,4 +34,4 @@ In DASL syntax, you must convert True/False to an integer value, where 0 represe
 criteria = "@SQL=" & Chr(34) & "urn:schemas:httpmail:read" & Chr(34) _ & " = 0"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

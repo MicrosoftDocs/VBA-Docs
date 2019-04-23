@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSources Object (Publisher)
+title: MailMergeDataSources object (Publisher)
 keywords: vbapb10.chm7274495
 f1_keywords:
 - vbapb10.chm7274495
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MailMergeDataSources
 ms.assetid: 9eff8354-fbc3-7f55-ba6e-738a60f41259
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSources Object (Publisher)
+# MailMergeDataSources object (Publisher)
 
 Represents the collection of all  **MailMergeDataSource** objects in the active Microsoft Publisher document, each of which represents one of the data sources in a mail merge operation.
  
@@ -88,7 +89,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.MailMergeDataSources.Item.md)|
 
@@ -96,10 +97,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeDataSources.Application.md)|
 |[Count](Publisher.MailMergeDataSources.Count.md)|
 |[Creator](Publisher.MailMergeDataSources.Creator.md)|
 |[Parent](Publisher.MailMergeDataSources.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Version.SavedBy Property (Word)
+title: Version.SavedBy property (Word)
 keywords: vbawd10.chm162792427
 f1_keywords:
 - vbawd10.chm162792427
@@ -8,17 +8,18 @@ api_name:
 - Word.Version.SavedBy
 ms.assetid: 4e92d644-48e2-8dd7-ffef-9b626e4ca908
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Version.SavedBy Property (Word)
+# Version.SavedBy property (Word)
 
-Returns the name of the user who saved the specified version of the document. Read-only  **String** .
+Returns the name of the user who saved the specified version of the document. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `SavedBy`
+_expression_. `SavedBy`
 
  _expression_ An expression that returns a '[Version](Word.Version.md)' object.
 
@@ -51,3 +52,4 @@ MsgBox ActiveDocument.Versions(last).SavedBy
 
 [Version Object](Word.Version.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

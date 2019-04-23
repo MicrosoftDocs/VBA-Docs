@@ -1,5 +1,5 @@
 ---
-title: Field.Creator Property (Word)
+title: Field.Creator property (Word)
 keywords: vbawd10.chm154076137
 f1_keywords:
 - vbawd10.chm154076137
@@ -8,19 +8,20 @@ api_name:
 - Word.Field.Creator
 ms.assetid: 4ef681fd-afbe-7f7b-8143-36616be30334
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Creator Property (Word)
+# Field.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

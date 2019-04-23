@@ -1,21 +1,22 @@
 ---
-title: Groups.Copy Method (Project)
+title: Groups.Copy method (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups.Copy
 ms.assetid: fa53fb17-be05-ab03-c08b-a2c9034b7da6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Groups.Copy Method (Project)
+# Groups.Copy method (Project)
 
 Makes a copy of a group definition for the  **Groups** collection and returns a reference to the **[Group](Project.Group.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( ` _Name_`, ` _NewName_` )
+_expression_.**Copy** (_Name_, _NewName_)
 
  _expression_ A variable that represents a 'Groups' object.
 
@@ -38,3 +39,5 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
 
 
 [Groups Collection Object](Project.groups.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

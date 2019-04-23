@@ -1,15 +1,16 @@
 ---
-title: VisGraphicItemTypes Enumeration (Visio)
+title: VisGraphicItemTypes enumeration (Visio)
 keywords: vis_sdr.chm70475
 f1_keywords:
 - vis_sdr.chm70475
 ms.prod: visio
 ms.assetid: 6221823d-4b8c-a16f-09d9-535ef36bfd58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisGraphicItemTypes Enumeration (Visio)
+# VisGraphicItemTypes enumeration (Visio)
 
 Represent the types of graphic items that can be added to data graphics. Returned by the  **GraphicItem.Type** property.
 
@@ -26,3 +27,4 @@ Represent the types of graphic items that can be added to data graphics. Returne
 | **visTypeColorByValue**|5|Represents a  **Color by Value** graphic item.|
 | **visTypeHeading**|6|Represents a  **Text** graphic item that has a **Callout** type of Heading _x_ .|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

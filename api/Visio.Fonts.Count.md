@@ -1,5 +1,5 @@
 ---
-title: Fonts.Count Property (Visio)
+title: Fonts.Count property (Visio)
 keywords: vis_sdr.chm12113330
 f1_keywords:
 - vis_sdr.chm12113330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Fonts.Count
 ms.assetid: aa428ddf-2a3c-d0e9-231e-ce49e598daf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fonts.Count Property (Visio)
+# Fonts.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Fonts](./Visio.Fonts.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

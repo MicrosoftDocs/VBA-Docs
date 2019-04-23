@@ -1,22 +1,23 @@
 ---
-title: RepeatingSectionItem.InsertItemBefore Method (Word)
+title: RepeatingSectionItem.InsertItemBefore method (Word)
 keywords: vbawd10.chm227999746
 f1_keywords:
 - vbawd10.chm227999746
 ms.prod: word
 ms.assetid: 9848e875-56bb-6a68-f397-1ce8b59331dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RepeatingSectionItem.InsertItemBefore Method (Word)
+# RepeatingSectionItem.InsertItemBefore method (Word)
 
 Adds a repeating section item before the specified item and returns the new item.
 
 
 ## Syntax
 
- _expression_. `InsertItemBefore`
+_expression_. `InsertItemBefore`
 
  _expression_ A variable that represents a 'RepeatingSectionItem' object.
 
@@ -38,4 +39,4 @@ If the [ContentControl.AllowInsertDeleteSection](Word.contentcontrol.allowinsert
 
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

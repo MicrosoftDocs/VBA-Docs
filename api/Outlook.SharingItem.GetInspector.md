@@ -1,5 +1,5 @@
 ---
-title: SharingItem.GetInspector Property (Outlook)
+title: SharingItem.GetInspector property (Outlook)
 keywords: vbaol11.chm608
 f1_keywords:
 - vbaol11.chm608
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.GetInspector
 ms.assetid: 960f9b66-35dc-54ab-13c3-9ea54802bccf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.GetInspector Property (Outlook)
+# SharingItem.GetInspector property (Outlook)
 
-Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax
 
- _expression_. `GetInspector`
+_expression_. `GetInspector`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is useful for returning an  **Inspector** object in which to displ
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

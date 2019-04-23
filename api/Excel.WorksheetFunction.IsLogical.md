@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsLogical Method (Excel)
+title: WorksheetFunction.IsLogical method (Excel)
 keywords: vbaxl10.chm137151
 f1_keywords:
 - vbaxl10.chm137151
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.IsLogical
 ms.assetid: 1c7ac638-676c-6276-0604-5ecbf053407c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IsLogical Method (Excel)
+# WorksheetFunction.IsLogical method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to a logical value.
 
 
 ## Syntax
 
- _expression_. `IsLogical`( `_Arg1_` )
+_expression_. `IsLogical`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Boolean
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

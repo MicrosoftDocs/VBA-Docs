@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderTop Property (Publisher)
+title: Cell.BorderTop property (Publisher)
 keywords: vbapb10.chm5111814
 f1_keywords:
 - vbapb10.chm5111814
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.BorderTop
 ms.assetid: 4119fcb7-7662-7ab5-ee56-4ef75aaa2766
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.BorderTop Property (Publisher)
+# Cell.BorderTop property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the top border for a specified table cell.
 
 
 ## Syntax
 
- _expression_. **BorderTop**
+_expression_.**BorderTop**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -77,4 +78,4 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

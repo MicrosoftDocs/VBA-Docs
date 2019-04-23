@@ -1,5 +1,5 @@
 ---
-title: Range.SpellingChecked Property (Word)
+title: Range.SpellingChecked property (Word)
 keywords: vbawd10.chm157155589
 f1_keywords:
 - vbawd10.chm157155589
@@ -8,24 +8,25 @@ api_name:
 - Word.Range.SpellingChecked
 ms.assetid: 5a58fb94-186b-d30c-bef4-d42a295fdeb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.SpellingChecked Property (Word)
+# Range.SpellingChecked property (Word)
 
- **True** if spelling has been checked throughout the specified range or document. **False** if all or some of the range or document has not been checked for spelling. Read/write **Boolean** .
+ **True** if spelling has been checked throughout the specified range or document. **False** if all or some of the range or document has not been checked for spelling. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SpellingChecked`
+_expression_. `SpellingChecked`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
 
-To recheck the spelling in a range or document, set the  **SpellingChecked** property to **False** .
+To recheck the spelling in a range or document, set the  **SpellingChecked** property to **False**.
 
 To see whether the range or document contains spelling errors, use the  **SpellingErrors** property.
 
@@ -51,3 +52,4 @@ End If
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

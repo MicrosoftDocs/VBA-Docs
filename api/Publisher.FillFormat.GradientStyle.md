@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStyle Property (Publisher)
+title: FillFormat.GradientStyle property (Publisher)
 keywords: vbapb10.chm2359556
 f1_keywords:
 - vbapb10.chm2359556
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.GradientStyle
 ms.assetid: 38a38de1-4ed3-7919-421f-474b0b5d7b2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientStyle Property (Publisher)
+# FillFormat.GradientStyle property (Publisher)
 
 Returns an  **MsoGradientStyle** constant indicating the gradient style for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. **GradientStyle**
+_expression_.**GradientStyle**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -34,7 +35,7 @@ Use the  [OneColorGradient](Publisher.FillFormat.OneColorGradient.md),  [PresetG
 
 Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the  **[Type](Publisher.FillFormat.Type.md)** property to determine whether the fill has a gradient.
 
-The  **GradientStyle** property value can be one of the ** [MsoGradientStyle](./Office.MsoGradientStyle.md)** constants declared in the Microsoft Office type library.
+The  **GradientStyle** property value can be one of the **[MsoGradientStyle](Office.MsoGradientStyle.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -60,4 +61,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

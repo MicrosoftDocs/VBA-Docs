@@ -8,19 +8,20 @@ api_name:
 - Excel.Dialogs.Creator
 ms.assetid: 4685d784-ba3f-6543-1e5e-dba7b6d6a088
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Dialogs.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
+_expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Dialogs Object](Excel.Dialogs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

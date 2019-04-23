@@ -1,5 +1,5 @@
 ---
-title: OlSelectionLocation Enumeration (Outlook)
+title: OlSelectionLocation enumeration (Outlook)
 keywords: vbaol11.chm3480
 f1_keywords:
 - vbaol11.chm3480
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlSelectionLocation
 ms.assetid: a13e3915-09a1-5130-42b9-caf3fb25c514
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlSelectionLocation Enumeration (Outlook)
+# OlSelectionLocation enumeration (Outlook)
 
 Specifies the location of a selection in the Microsoft Outlook user interface.
 
@@ -29,4 +30,4 @@ Specifies the location of a selection in the Microsoft Outlook user interface.
 
 Used by the [Location](Outlook.Selection.Location.md) property of the [Selection](Outlook.Selection.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

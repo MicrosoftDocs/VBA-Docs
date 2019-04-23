@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.HorizontalBaseLineSpacing Property (Publisher)
+title: LayoutGuides.HorizontalBaseLineSpacing property (Publisher)
 keywords: vbapb10.chm1114132
 f1_keywords:
 - vbapb10.chm1114132
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.HorizontalBaseLineSpacing
 ms.assetid: 19899a25-c1a5-9c81-f022-d842a3d6c7d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.HorizontalBaseLineSpacing Property (Publisher)
+# LayoutGuides.HorizontalBaseLineSpacing property (Publisher)
 
 Returns a  **Single** that represents the horizontal baseline spacing of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **HorizontalBaseLineSpacing**
+_expression_.**HorizontalBaseLineSpacing**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -45,4 +46,4 @@ objLayout.HorizontalBaseLineSpacing = 20
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

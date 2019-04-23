@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 91e67439-ea23-9ac8-6065-31af7be0b303
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the position of a **[Page](Outloo
 
 ## Syntax
 
- _expression_. **Index**
+_expression_.**Index**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ The  **Index** property specifies the order in which tabs appear. Changing the v
 
 In a  **MultiPage**,  **Index** refers to a **Page** as well as the page's **[Tab](Outlook.tab.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

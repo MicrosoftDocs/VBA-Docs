@@ -1,21 +1,22 @@
 ---
-title: Groups2.Item Property (Project)
+title: Groups2.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.Groups2.Item
 ms.assetid: df7a48a5-6a5d-6e0f-6f13-965054fdb2f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Groups2.Item Property (Project)
+# Groups2.Item property (Project)
 
 Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Group2](Project.Group2.md)**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a 'Groups2' object.
 
@@ -33,3 +34,4 @@ Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Gro
 
 [Groups2 Collection Object](Project.groups2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

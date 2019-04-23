@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Parent Property (PowerPoint)
+title: PublishObject.Parent property (PowerPoint)
 keywords: vbapp10.chm635002
 f1_keywords:
 - vbapp10.chm635002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PublishObject.Parent
 ms.assetid: 98493b85-19f9-22ca-53f3-25ef2b409f3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObject.Parent Property (PowerPoint)
+# PublishObject.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [PublishObject Object](PowerPoint.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

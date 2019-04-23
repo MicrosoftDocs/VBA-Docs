@@ -1,5 +1,5 @@
 ---
-title: WebTextBox.RequiredControl Property (Publisher)
+title: WebTextBox.RequiredControl property (Publisher)
 keywords: vbapb10.chm4194310
 f1_keywords:
 - vbapb10.chm4194310
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebTextBox.RequiredControl
 ms.assetid: 32e18d4b-7af0-b079-4baf-9acc07c3c37d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebTextBox.RequiredControl Property (Publisher)
+# WebTextBox.RequiredControl property (Publisher)
 
 Specifies whether an entry into a Web text box control is required. Read/write.
 
 
 ## Syntax
 
- _expression_. **RequiredControl**
+_expression_.**RequiredControl**
 
  _expression_ A variable that represents a  **WebTextBox** object.
 
@@ -34,7 +35,7 @@ The  **RequiredControl** property value can be one of the **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Indicates entry into the specified Web text box control is not required.|
 | **msoTrue**| Indicates entry into the specified Web text box control is required.|
@@ -56,4 +57,4 @@ Sub AddWebTextBoxControl()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

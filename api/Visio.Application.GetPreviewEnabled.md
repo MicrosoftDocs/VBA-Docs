@@ -1,5 +1,5 @@
 ---
-title: Application.GetPreviewEnabled Method (Visio)
+title: Application.GetPreviewEnabled method (Visio)
 keywords: vis_sdr.chm10062100
 f1_keywords:
 - vis_sdr.chm10062100
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.GetPreviewEnabled
 ms.assetid: 6e0d42b9-f1d4-d8b9-ab9c-7f00ba6c6a9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GetPreviewEnabled Method (Visio)
+# Application.GetPreviewEnabled method (Visio)
 
 Returns a value that indicates whether preview is enabled for the specified gallery in the Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `GetPreviewEnabled`( `_GalleryName_` )
+_expression_. `GetPreviewEnabled`( `_GalleryName_` )
 
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
@@ -40,4 +41,4 @@ Returns a value that indicates whether preview is enabled for the specified gall
 
 For the  _GalleryName_ parameter, you must pass the control ID for the specified gallery. You can find a list of control IDs for all Visio galleries by searching the MSDN library at https://msdn.microsoft.com/library.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

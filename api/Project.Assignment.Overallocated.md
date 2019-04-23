@@ -1,21 +1,22 @@
 ---
-title: Assignment.Overallocated Property (Project)
+title: Assignment.Overallocated property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Overallocated
 ms.assetid: 739fcdcd-5ef0-754b-8868-ef3e0662a2e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.Overallocated Property (Project)
+# Assignment.Overallocated property (Project)
 
  **True** if an assignment is overallocated. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Overallocated`
+_expression_. `Overallocated`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -42,4 +43,4 @@ Sub DisplayOverallocatedPercentage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

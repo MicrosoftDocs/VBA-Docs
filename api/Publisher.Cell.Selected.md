@@ -1,5 +1,5 @@
 ---
-title: Cell.Selected Property (Publisher)
+title: Cell.Selected property (Publisher)
 keywords: vbapb10.chm5111832
 f1_keywords:
 - vbapb10.chm5111832
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.Selected
 ms.assetid: b07f40bf-a14b-9b2a-2e0d-dc907cc78748
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Selected Property (Publisher)
+# Cell.Selected property (Publisher)
 
 Returns  **True** if a cell is selected. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Selected**
+_expression_.**Selected**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -41,4 +42,4 @@ Sub IsCellSelected()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

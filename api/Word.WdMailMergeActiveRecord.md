@@ -1,14 +1,15 @@
 ---
-title: WdMailMergeActiveRecord Enumeration (Word)
+title: WdMailMergeActiveRecord enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeActiveRecord
 ms.assetid: 553af0f0-9461-677f-700d-c861f34d0705
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMailMergeActiveRecord Enumeration (Word)
+# WdMailMergeActiveRecord enumeration (Word)
 
 Specifies the active record in a mail merge result set.
 
@@ -26,3 +27,4 @@ Specifies the active record in a mail merge result set.
 | **wdPreviousDataSourceRecord**|-9|The previous record in the data source.|
 | **wdPreviousRecord**|-3|The previous record in the result set.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

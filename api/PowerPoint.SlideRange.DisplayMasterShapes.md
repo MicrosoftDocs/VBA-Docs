@@ -1,5 +1,5 @@
 ---
-title: SlideRange.DisplayMasterShapes Property (PowerPoint)
+title: SlideRange.DisplayMasterShapes property (PowerPoint)
 keywords: vbapp10.chm532020
 f1_keywords:
 - vbapp10.chm532020
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.DisplayMasterShapes
 ms.assetid: 1c30ec1d-4865-5fcd-12c5-70f3bfeffe7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.DisplayMasterShapes Property (PowerPoint)
+# SlideRange.DisplayMasterShapes property (PowerPoint)
 
 Determines whether the specified range of slides displays the background objects on the slide master. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayMasterShapes`
+_expression_. `DisplayMasterShapes`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **DisplayMasterShapes** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified range of slides does not display the background objects on the slide master.|
 |**msoTrue**| The specified range of slides displays the background objects on the slide master. These background objects can include text, drawings, OLE objects, and clip art you add to the slide master. Headers and footers aren't included.|
@@ -64,3 +65,4 @@ End With
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

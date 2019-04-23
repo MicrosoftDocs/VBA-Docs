@@ -1,22 +1,23 @@
 ---
-title: FillFormat.TextureOffsetX Property (Publisher)
+title: FillFormat.TextureOffsetX property (Publisher)
 keywords: vbapb10.chm2359573
 f1_keywords:
 - vbapb10.chm2359573
 ms.prod: publisher
 ms.assetid: 8023af14-0155-0387-9af7-5f7a8ea557b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureOffsetX Property (Publisher)
+# FillFormat.TextureOffsetX property (Publisher)
 
 Returns or sets a  **Long** that specifies the horizontal offset of the texture from the origin in points. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextureOffsetX**
+_expression_.**TextureOffsetX**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -38,3 +39,4 @@ The setting of the  **TextureOffsetX** property corresponds to the setting of th
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

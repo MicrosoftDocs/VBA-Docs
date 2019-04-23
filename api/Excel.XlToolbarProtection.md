@@ -1,14 +1,15 @@
 ---
-title: xlToolbarProtection enumeration (Excel)
+title: XlToolbarProtection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlToolbarProtection
 ms.assetid: 985069aa-bf4c-ffbe-1ac6-352494c52d9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlToolbarProtection enumeration (Excel)
+# XlToolbarProtection enumeration (Excel)
 
 Specifies which properties of a toolbar are restricted. Options can be combined using Or.
 
@@ -22,3 +23,4 @@ Specifies which properties of a toolbar are restricted. Options can be combined 
 | **xlNoShapeChanges**|2|No changes to toolbar shape.|
 | **xlToolbarProtectionNone**|-4143|All changes permitted.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

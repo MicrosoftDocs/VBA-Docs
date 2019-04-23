@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTable Method (Publisher)
+title: Shapes.AddTable method (Publisher)
 keywords: vbapb10.chm2162713
 f1_keywords:
 - vbapb10.chm2162713
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddTable
 ms.assetid: 1aa00f40-de41-12ed-8d4f-5e9c91cbf5af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddTable Method (Publisher)
+# Shapes.AddTable method (Publisher)
 
 Adds a new  **Shape** object representing a table to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddTable**(**_NumRows_**,  **_NumColumns_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_FixedSize_**,  **_Direction_**)
+_expression_.**AddTable**(**_NumRows_**,  **_NumColumns_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_FixedSize_**,  **_Direction_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -51,7 +52,7 @@ The Direction parameter can be one of the  **PbTableDirectionType** constants de
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbTableDirectionLeftToRight**|Table columns are numbered from left to right. Default for left-to-right languages.|
 | **pbTableDirectionRightToLeft**|Table columns are numbered from right to left. Default for right-to-left languages.|
@@ -71,4 +72,4 @@ Set shpTable = ActiveDocument.Pages(1).Shapes.AddTable _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebOptions.UseDefaultFolderSuffix Method (Excel)
+title: WebOptions.UseDefaultFolderSuffix method (Excel)
 keywords: vbaxl10.chm662084
 f1_keywords:
 - vbaxl10.chm662084
@@ -8,24 +8,25 @@ api_name:
 - Excel.WebOptions.UseDefaultFolderSuffix
 ms.assetid: dbaf5fa4-449a-b549-d2a0-82f65497f6c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.UseDefaultFolderSuffix Method (Excel)
+# WebOptions.UseDefaultFolderSuffix method (Excel)
 
 Sets the folder suffix for the specified document to the default suffix for the language support you have selected or installed.
 
 
 ## Syntax
 
- _expression_. `UseDefaultFolderSuffix`
+_expression_. `UseDefaultFolderSuffix`
 
- _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
+_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
 
 
 ## Remarks
 
-Microsoft Excel uses the folder suffix when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**).
+Microsoft Excel uses the folder suffix when you save a document as a web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**).
 
 The suffix appears in the folder name after the document name. For example, if the document is called "Book1" and the language is English, the folder name is Book1_files. The available folder suffixes are listed in the  **[FolderSuffix](Excel.WebOptions.FolderSuffix.md)** property topic.
 
@@ -45,3 +46,4 @@ Workbooks(1).WebOptions.UseDefaultFolderSuffix
 
 [WebOptions Object](Excel.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

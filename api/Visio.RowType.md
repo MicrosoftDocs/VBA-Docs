@@ -1,5 +1,5 @@
 ---
-title: Shape.RowType Property (Visio)
+title: Shape.RowType property (Visio)
 keywords: vis_sdr.chm11214270
 f1_keywords:
 - vis_sdr.chm11214270
@@ -8,17 +8,18 @@ api_name:
 - Visio.RowType
 ms.assetid: 416b77f1-6cec-de5b-c2b8-c6e5b239c54c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.RowType Property (Visio)
+# Shape.RowType property (Visio)
 
 Gets or sets the type of a row in a Geometry, Connection Points, Controls, or Tabs ShapeSheet section. Read/write.
 
 
 ## Syntax
 
- _expression_. `RowType`( `_Section_` , `_Row_` )
+_expression_. `RowType`( `_Section_` , `_Row_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -41,7 +42,7 @@ Integer
 
 After you change a row's type, the new row type may or may not have the same cells. Your program must provide the appropriate formulas for the new or changed cells.
 
-You can specify the type of row you want by setting  **RowType** equal to any of the following constants declared by the Visio type library in member **[VisRowTags](Visio.visrowtags.md)** .
+You can specify the type of row you want by setting  **RowType** equal to any of the following constants declared by the Visio type library in member **[VisRowTags](Visio.visrowtags.md)**.
 
 
 
@@ -131,4 +132,4 @@ Public Sub RowType_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

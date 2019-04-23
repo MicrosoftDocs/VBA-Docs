@@ -5,6 +5,7 @@ api_name:
 - Visio.GridVisible
 ms.assetid: 77351c96-c796-5a58-51ed-552843172ec0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the page grid is visible in Microsof
 
 ## Syntax
 
- _expression_. **GridVisible**
+_expression_.**GridVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code shows how to display the grid in Visio Viewer.
 vsoViewer.GridVisible = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

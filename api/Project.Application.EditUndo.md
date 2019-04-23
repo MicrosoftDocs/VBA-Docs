@@ -1,5 +1,5 @@
 ---
-title: Application.EditUndo Method (Project)
+title: Application.EditUndo method (Project)
 keywords: vbapj.chm201
 f1_keywords:
 - vbapj.chm201
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EditUndo
 ms.assetid: f13ce3a1-f8f2-8b00-d870-6e30f6b772f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EditUndo Method (Project)
+# Application.EditUndo method (Project)
 
 Cancels the last user-interface action.
 
 
 ## Syntax
 
- _expression_. `EditUndo`( ` _fUndo_` )
+_expression_. `EditUndo`( `_fUndo_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -35,4 +36,4 @@ Cancels the last user-interface action.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropRight Property (Word)
+title: PictureFormat.CropRight property (Word)
 keywords: vbawd10.chm164298857
 f1_keywords:
 - vbawd10.chm164298857
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.CropRight
 ms.assetid: 89f73474-9b52-b758-e579-adbc803a5a62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropRight Property (Word)
+# PictureFormat.CropRight property (Word)
 
-Returns or sets the number of points that are cropped off the right side of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the right side of the specified picture or OLE object. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CropRight`
+_expression_. `CropRight`
 
  _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
@@ -71,3 +72,4 @@ shapeCrop.PictureFormat.CropRight = sngCrop
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

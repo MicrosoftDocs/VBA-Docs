@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3fe9ae8b-f441-41ed-ac5a-3714b8050e81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ToggleButton.SoftEdges property (Access)](http://msdn.microsoft.com/library/23c63821-966c-4d9f-7304-5b6e31b85675%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Build Property (Visio)
+title: InvisibleApp.Build property (Visio)
 keywords: vis_sdr.chm17550515
 f1_keywords:
 - vis_sdr.chm17550515
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.Build
 ms.assetid: 912a1d47-e889-68b9-541b-12e9b9c36068
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.Build Property (Visio)
+# InvisibleApp.Build property (Visio)
 
 Returns the build number of the running instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `Build`
+_expression_. `Build`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Build_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

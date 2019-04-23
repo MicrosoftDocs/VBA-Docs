@@ -1,5 +1,5 @@
 ---
-title: Toolbar.RowIndex Property (Visio)
+title: Toolbar.RowIndex property (Visio)
 keywords: vis_sdr.chm13714255
 f1_keywords:
 - vis_sdr.chm13714255
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.RowIndex
 ms.assetid: f55616ce-73a0-332b-ece0-f9f83ef43547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.RowIndex Property (Visio)
+# Toolbar.RowIndex property (Visio)
 
 Gets or sets the docking order of a  **Toolbar** object in relation to other items in the same docking area. Read/write.
 
 
 ## Syntax
 
- _expression_. `RowIndex`
+_expression_. `RowIndex`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -35,7 +36,7 @@ Integer
 
 Objects that have lower numbers are docked first. Several items can share the same row index. If two or more items share the same row index, the item most recently assigned is displayed first in its group.
 
-Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member  **[VisUIBarRow](Visio.visuibarrow.md)** .
+Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member  **[VisUIBarRow](Visio.visuibarrow.md)**.
 
 
 
@@ -44,3 +45,4 @@ Constants that represent the first and last positions (see the following table) 
 | **visBarRowFirst**|0|
 | **visBarRowLast**|-1|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

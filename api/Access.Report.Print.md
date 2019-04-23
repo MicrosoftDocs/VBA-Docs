@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.Report.Print
 ms.assetid: 6f8523cc-7b17-ec27-e2c9-a7ae3d5a8c3f
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
 # Report.Print method (Access)
 
-The  **Print** method prints text on a **[Report](Access.Report.md)** object using the current color and font.
+The **Print** method prints text on a **Report** object by using the current color and font.
 
 
 ## Syntax
 
-_expression_. `Print`( ` _Expr_` )
+_expression_.**Print** (_Expr_)
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Expr_|Required|**String**|The string expressions to print. If this argument is omitted, the  **Print** method prints a blank line. Multiple expressions can be separated with a space, a semicolon (;), or a comma. A space has the same effect as a semicolon.|
+| _Expr_|Required|**String**|The string expressions to print. If this argument is omitted, the **Print** method prints a blank line. Multiple expressions can be separated with a space, a semicolon (;), or a comma. A space has the same effect as a semicolon.|
 
 ## Return value
 
@@ -38,24 +37,24 @@ Nothing
 
 ## Remarks
 
-You can use this method only in a event procedure or macro specified by a section's  **OnPrint** event property setting.
+You can use this method only in an event procedure or macro specified by a section's **OnPrint** event property setting.
 
-The expressions specified by the  _Expr_ argument are printed on the object starting at the position indicated by the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** property settings.
+The expressions specified by the _Expr_ argument are printed on the object starting at the position indicated by the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** property settings.
 
-When the  _Expr_ argument is printed, a carriage return is usually appended so that the next **Print** method begins printing on the next line. When a carriage return occurs, the **CurrentY** property setting is increased by the height of the _Expr_ argument (the same as the value returned by the **[TextHeight](Access.Report.TextHeight.md)** method) and the **CurrentX** property is set to 0.
+When the _Expr_ argument is printed, a carriage return is usually appended so that the next **Print** method begins printing on the next line. When a carriage return occurs, the **CurrentY** property setting is increased by the height of the _Expr_ argument (the same as the value returned by the **[TextHeight](Access.Report.TextHeight.md)** method), and the **CurrentX** property is set to 0.
 
-When a semicolon follows the  _Expr_ argument, no carriage return is appended, and the next **Print** method prints on the same line that the current **Print** method printed on. The **CurrentX** and **CurrentY** properties are set to the point immediately after the last character printed. If the _Expr_ argument itself contains carriage returns, each such embedded carriage return sets the **CurrentX** and **CurrentY** properties as described for the **Print** method without a semicolon.
+When a semicolon follows the _Expr_ argument, no carriage return is appended, and the next **Print** method prints on the same line that the current **Print** method printed on. The **CurrentX** and **CurrentY** properties are set to the point immediately after the last character printed. If the _Expr_ argument itself contains carriage returns, each such embedded carriage return sets the **CurrentX** and **CurrentY** properties as described for the **Print** method without a semicolon.
 
-When a comma follows the  _Expr_ argument, the **CurrentX** and **CurrentY** properties are set to the next print zone on the same line.
+When a comma follows the _Expr_ argument, the **CurrentX** and **CurrentY** properties are set to the next print zone on the same line.
 
-When the  _Expr_ argument is printed on a **Report** object, lines that can't fit in the specified position don't scroll. The text is clipped to fit the object.
+When the _Expr_ argument is printed on a **Report** object, lines that can't fit in the specified position don't scroll. The text is clipped to fit the object.
 
-Because the  **Print** method usually prints with proportionally spaced characters, it's important to remember that there's no correlation between the number of characters printed and the number of fixed-width columns those characters occupy. For example, a wide letter (such as W) occupies more than one fixed-width column, whereas a narrow letter (such as I) occupies less. You should make sure that your tabular columns are positioned far enough apart to accommodate the text you wish to print. Alternately, you can print with a fixed-pitch font (such as Courier) to ensure that each character uses only one column.
+Because the **Print** method usually prints with proportionally spaced characters, it's important to remember that there's no correlation between the number of characters printed and the number of fixed-width columns those characters occupy. For example, a wide letter (such as W) occupies more than one fixed-width column, whereas a narrow letter (such as I) occupies less. You should make sure that your tabular columns are positioned far enough apart to accommodate the text that you wish to print. Alternately, you can print with a fixed-pitch font (such as Courier) to ensure that each character uses only one column.
 
 
 ## Example
 
-The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
+The following example uses the **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
 
 ```vb
@@ -87,8 +86,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Report Object](Access.Report.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

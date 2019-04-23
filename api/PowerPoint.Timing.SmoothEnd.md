@@ -1,5 +1,5 @@
 ---
-title: Timing.SmoothEnd Property (PowerPoint)
+title: Timing.SmoothEnd property (PowerPoint)
 keywords: vbapp10.chm653014
 f1_keywords:
 - vbapp10.chm653014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Timing.SmoothEnd
 ms.assetid: 4d5d746b-ed5f-e708-287f-62e02684040c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Timing.SmoothEnd Property (PowerPoint)
+# Timing.SmoothEnd property (PowerPoint)
 
 Determines whether an animation should decelerate as it ends. Read/write.
 
 
 ## Syntax
 
- _expression_. `SmoothEnd`
+_expression_. `SmoothEnd`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **SmoothEnd** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The default. An animation does not decelerate when it ends.|
 |**msoTrue**| An animation decelerates when it ends.|
@@ -73,3 +74,4 @@ End Sub
 
 [Timing Object](PowerPoint.Timing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Tasks.Creator Property (Word)
+title: Tasks.Creator property (Word)
 keywords: vbawd10.chm159581161
 f1_keywords:
 - vbawd10.chm159581161
@@ -8,19 +8,20 @@ api_name:
 - Word.Tasks.Creator
 ms.assetid: 9a545b9d-09eb-4fd8-c3e3-802de2736183
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tasks.Creator Property (Word)
+# Tasks.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Tasks](Word.tasks.md)' collection.
+_expression_ Required. A variable that represents a '[Tasks](Word.tasks.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Tasks Collection Object](Word.tasks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

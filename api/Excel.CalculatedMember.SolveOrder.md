@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMember.SolveOrder
 ms.assetid: 45e461ac-4900-000b-cb72-4022bcc1a7c9
-ms.date: 06/08/2017
+ms.date: 04/13/2019
+localization_priority: Normal
 ---
 
 
 # CalculatedMember.SolveOrder property (Excel)
 
-Returns a  **Long** specifying the value of the calculated member's solve order MDX (Mulitdimensional Expression) argument. The default value is zero. Read-only.
+Returns a **Long** specifying the value of the calculated member's solve order MDX (Mulitdimensional Expression) argument. The default value is zero. Read-only.
 
 
 ## Syntax
 
- _expression_. `SolveOrder`
+_expression_.**SolveOrder**
 
- _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
+_expression_ A variable that represents a **[CalculatedMember](Excel.CalculatedMember.md)** object.
 
 
 ## Example
 
-This example determines the solve order for a calculated member and notifies the user. The example assumes a PivotTable exists on the active worksheet.
-
+This example determines the solve order for a calculated member and notifies the user. The example assumes that a PivotTable exists on the active worksheet.
 
 ```vb
 Sub CheckSolveOrder() 
@@ -46,8 +46,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[CalculatedMember Object](Excel.CalculatedMember.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Font.Size Property (PowerPoint)
+title: Font.Size property (PowerPoint)
 keywords: vbapp10.chm575014
 f1_keywords:
 - vbapp10.chm575014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.Size
 ms.assetid: dd56a4e9-20c7-b38d-0d0e-82e5326d51c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Size Property (PowerPoint)
+# Font.Size property (PowerPoint)
 
 Returns or sets the character size, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -45,3 +46,4 @@ Application.ActivePresentation.Slides(1) _
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

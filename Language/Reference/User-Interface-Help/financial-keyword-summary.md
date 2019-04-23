@@ -1,15 +1,17 @@
 ---
-title: Financial Keyword Summary
+title: Financial keyword summary
 ms.prod: office
 ms.assetid: 8d08afe7-5664-03da-da6f-d0a218dc45c1
-ms.date: 06/08/2017
+ms.date: 11/29/2018
+localization_priority: Normal
 ---
 
 
-# Financial Keyword Summary
+# Financial keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Calculate depreciation.|[DDB](ddb-function.md), [SLN](sln-function.md), [SYD](syd-function.md)|
 |Calculate future value.|[FV](fv-function.md)|
@@ -19,3 +21,8 @@ ms.date: 06/08/2017
 |Calculate payments.|[IPmt](ipmt-function.md), [Pmt](pmt-function.md), [PPmt](ppmt-function.md)|
 |Calculate present value.|[NPV](npv-function.md), [PV](pv-function.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Attachment Object (Outlook)
+title: Attachment object (Outlook)
 keywords: vbaol11.chm2360
 f1_keywords:
 - vbaol11.chm2360
@@ -8,17 +8,18 @@ api_name:
 - Outlook.Attachment
 ms.assetid: 3e11582b-ac90-0948-bc37-506570bb287b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Attachment Object (Outlook)
+# Attachment object (Outlook)
 
 Represents a document or link to a document contained in an Outlook item.
 
 
 ## Remarks
 
-Use  **[Attachments](Outlook.Attachments.Item.md)** ( _index_ ), where _index_ is the index number, to return a single **Attachment** object.
+Use  **[Attachments](Outlook.Attachments.Item.md)** (_index_), where _index_ is the index number, to return a single **Attachment** object.
 
 Use the  **[Add](Outlook.Attachments.Add.md)** method to add an attachment to an item.
 
@@ -58,6 +59,6 @@ End Sub
 [Attach an Outlook Contact Item to an Email Message](../outlook/Concepts/Attachments/attach-an-outlook-contact-item-to-an-email-message.md)
 [Limit the Size of an Attachment to an Outlook Email Message](../outlook/Concepts/Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
 [Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

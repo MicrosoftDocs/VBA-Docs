@@ -1,5 +1,5 @@
 ---
-title: WizardProperties Object (Publisher)
+title: WizardProperties object (Publisher)
 keywords: vbapb10.chm1572863
 f1_keywords:
 - vbapb10.chm1572863
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WizardProperties
 ms.assetid: b3feecf2-ffbb-79de-8586-6a64df1b816a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardProperties Object (Publisher)
+# WizardProperties object (Publisher)
 
 Represents the settings available in a publication design or in a Design Gallery object's wizard.
  
@@ -53,7 +54,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[FindPropertyById](Publisher.WizardProperties.FindPropertyById.md)|
 
@@ -61,10 +62,11 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WizardProperties.Application.md)|
 |[Count](Publisher.WizardProperties.Count.md)|
 |[Item](Publisher.WizardProperties.Item.md)|
 |[Parent](Publisher.WizardProperties.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

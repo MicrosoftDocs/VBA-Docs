@@ -1,5 +1,5 @@
 ---
-title: TableStyle.ColumnStripe Property (Word)
+title: TableStyle.ColumnStripe property (Word)
 keywords: vbawd10.chm244776978
 f1_keywords:
 - vbawd10.chm244776978
@@ -8,17 +8,18 @@ api_name:
 - Word.TableStyle.ColumnStripe
 ms.assetid: 039047df-1195-94c1-5400-3084940a9a0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableStyle.ColumnStripe Property (Word)
+# TableStyle.ColumnStripe property (Word)
 
 Returns or sets a  **Long** that represents the number of columns in the banding when a style specifies odd- or even-column banding. Read/write.
 
 
 ## Syntax
 
- _expression_. `ColumnStripe`
+_expression_. `ColumnStripe`
 
  _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 
@@ -65,3 +66,4 @@ End Sub
 
 [TableStyle Object](Word.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

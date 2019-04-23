@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenario.Index
 ms.assetid: 761fbedb-85d4-5381-063c-2331924db26e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the index number of the object within 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
+_expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the index number of the object within 
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

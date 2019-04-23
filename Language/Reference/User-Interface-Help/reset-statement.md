@@ -1,17 +1,18 @@
 ---
-title: Reset Statement
+title: Reset statement (VBA)
 keywords: vblr6.chm1009002
 f1_keywords:
 - vblr6.chm1009002
 ms.prod: office
 ms.assetid: 7fb7dedd-dcfd-08a1-37e1-fde804b267e4
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
-# Reset Statement
+# Reset statement
 
-Closes all disk files opened using the  **Open** statement.
+Closes all disk files opened by using the **[Open](open-statement.md)** statement.
 
 ## Syntax
 
@@ -19,11 +20,11 @@ Closes all disk files opened using the  **Open** statement.
 
 ## Remarks
 
-The  **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
+The **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
 
 ## Example
 
-This example uses the  **Reset** statement to close all open files and write the contents of all file buffers to disk. Note the use of the **Variant** variable as both a string and a number.
+This example uses the **Reset** statement to close all open files and write the contents of all file buffers to disk. Note the use of the **Variant** variable as both a string and a number.
 
 
 ```vb
@@ -39,4 +40,9 @@ Reset ' Close files and write contents
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

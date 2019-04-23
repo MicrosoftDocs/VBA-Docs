@@ -1,5 +1,5 @@
 ---
-title: ActionSettings.Application Property (PowerPoint)
+title: ActionSettings.Application property (PowerPoint)
 keywords: vbapp10.chm566001
 f1_keywords:
 - vbapp10.chm566001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ActionSettings.Application
 ms.assetid: 3f5f58f8-528c-e0ab-d06f-8228db9bb8d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActionSettings.Application Property (PowerPoint)
+# ActionSettings.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [ActionSettings](./PowerPoint.ActionSettings.md) object.
+_expression_ A variable that represents an [ActionSettings](./PowerPoint.ActionSettings.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [ActionSettings Object](PowerPoint.ActionSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

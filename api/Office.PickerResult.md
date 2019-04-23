@@ -1,5 +1,5 @@
 ---
-title: PickerResult Object (Office)
+title: PickerResult object (Office)
 keywords: vbaof11.chm338000
 f1_keywords:
 - vbaof11.chm338000
@@ -7,18 +7,19 @@ ms.prod: office
 api_name:
 - Office.PickerResult
 ms.assetid: 5229d2ad-a32e-a864-9de4-dc651199ff58
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerResult Object (Office)
+# PickerResult object (Office)
 
 Represents a resolved or selected item of data.
 
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker dialog.
+The following code sets the **[PickerDialog](Office.PickerDialog.md)** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -44,27 +45,12 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ```
 
 
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.PickerResult.Application.md)|
-|[Creator](Office.PickerResult.Creator.md)|
-|[DisplayName](Office.PickerResult.DisplayName.md)|
-|[DuplicateResults](Office.PickerResult.DuplicateResults.md)|
-|[Fields](Office.PickerResult.Fields.md)|
-|[Id](Office.PickerResult.Id.md)|
-|[ItemData](Office.PickerResult.ItemData.md)|
-|[SIPId](Office.PickerResult.SIPId.md)|
-|[SubItems](Office.PickerResult.SubItems.md)|
-|[Type](Office.PickerResult.Type.md)|
-
 ## See also
 
+- [PickerResult object members](overview/Library-Reference/pickerresult-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

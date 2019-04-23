@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.Orientation
 ms.assetid: 1b3e0867-3a44-a908-ef1b-90ab21653ab9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End Select
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

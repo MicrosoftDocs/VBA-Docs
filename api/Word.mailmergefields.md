@@ -1,12 +1,13 @@
 ---
-title: MailMergeFields Object (Word)
+title: MailMergeFields object (Word)
 ms.prod: word
 ms.assetid: 9d2dfd45-c52b-500e-15bf-1e678e6c1e92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields Object (Word)
+# MailMergeFields object (Word)
 
 A collection of  **[MailMergeField](Word.MailMergeField.md)** objects that represent the mail merge related fields in a document.
 
@@ -50,7 +51,7 @@ The  **MailMergeFields** collection has additional methods, such as **AddAsk** a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.MailMergeFields.Add.md)|
 |[AddAsk](Word.MailMergeFields.AddAsk.md)|
@@ -68,7 +69,7 @@ The  **MailMergeFields** collection has additional methods, such as **AddAsk** a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.MailMergeFields.Application.md)|
 |[Count](Word.MailMergeFields.Count.md)|
@@ -78,4 +79,6 @@ The  **MailMergeFields** collection has additional methods, such as **AddAsk** a
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

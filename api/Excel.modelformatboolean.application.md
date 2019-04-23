@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: a04b24b3-fb9c-0c59-06aa-aa5198e2017e
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'ModelFormatBoolean' object.
+_expression_ A variable that represents a 'ModelFormatBoolean' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,4 +42,4 @@ End If
 
 [ModelFormatBoolean Object](Excel.modelformatboolean.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

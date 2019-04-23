@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBConnection.CommandText
 ms.assetid: 2c5e976c-513f-24b0-f25e-056fc9babaf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBConnection.CommandText property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant** .
+Returns or sets the command string for the specified data source. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CommandText`
+_expression_. `CommandText`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The  **[CommandType](Excel.OLEDBConnection.CommandType.md)** property describes 
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.DisplayHorizontalScrollBar
 ms.assetid: e411433e-286f-7482-a026-f186ae715949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.DisplayHorizontalScrollBar property (Excel)
 
- **True** if the horizontal scroll bar is displayed. Read/write **Boolean** .
+ **True** if the horizontal scroll bar is displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayHorizontalScrollBar`
+_expression_. `DisplayHorizontalScrollBar`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveWindow.DisplayHorizontalScrollBar = True
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

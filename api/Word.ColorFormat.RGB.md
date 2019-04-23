@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.RGB Property (Word)
+title: ColorFormat.RGB property (Word)
 keywords: vbawd10.chm163971072
 f1_keywords:
 - vbawd10.chm163971072
@@ -8,17 +8,18 @@ api_name:
 - Word.ColorFormat.RGB
 ms.assetid: 78158429-359c-bc6e-9e81-a119aace776c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.RGB Property (Word)
+# ColorFormat.RGB property (Word)
 
-Returns or sets the red-green-blue (RGB) value of the specified color. Read/write  **Long** .
+Returns or sets the red-green-blue (RGB) value of the specified color. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `RGB`
+_expression_. `RGB`
 
  _expression_ A variable that represents a '[ColorFormat](Word.ColorFormat.md)' object.
 
@@ -57,3 +58,4 @@ MsgBox ActiveDocument.Shapes(1).Fill.ForeColor.RGB
 
 [ColorFormat Object](Word.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

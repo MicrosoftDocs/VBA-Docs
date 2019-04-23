@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email2Address Property (Outlook)
+title: ContactItem.Email2Address property (Outlook)
 keywords: vbaol11.chm995
 f1_keywords:
 - vbaol11.chm995
@@ -8,24 +8,25 @@ api_name:
 - Outlook.ContactItem.Email2Address
 ms.assetid: 1656eb41-55b3-50f7-7351-b287e07bcac0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.Email2Address Property (Outlook)
+# ContactItem.Email2Address property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the second e-mail entry for the contact. Read/write.
+Returns or sets a  **String** representing the email address of the second email entry for the contact. Read/write.
 
 
 ## Syntax
 
- _expression_. `Email2Address`
+_expression_. `Email2Address`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example sets "someone@example.com" as the e-mail address for the second e-mail entry of a contact.
+This Visual Basic for Applications (VBA) example sets "someone@example.com" as the email address for the second email entry of a contact.
 
 
 ```vb
@@ -50,3 +51,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

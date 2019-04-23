@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8a75c288-c9c4-2c4a-a58a-f6fbaa9b3896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The path to a file includes the drive specification plus the directories and sub
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

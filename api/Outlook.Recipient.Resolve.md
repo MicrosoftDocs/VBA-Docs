@@ -1,5 +1,5 @@
 ---
-title: Recipient.Resolve Method (Outlook)
+title: Recipient.Resolve method (Outlook)
 keywords: vbaol11.chm2358
 f1_keywords:
 - vbaol11.chm2358
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Recipient.Resolve
 ms.assetid: 2c4f9243-2e31-642e-78a7-fe74cd73b385
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Recipient.Resolve Method (Outlook)
+# Recipient.Resolve method (Outlook)
 
 Attempts to resolve a  **[Recipient](Outlook.Recipient.md)** object against the Address Book.
 
 
 ## Syntax
 
- _expression_. `Resolve`
+_expression_. `Resolve`
 
- _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Return value
 
- **True** if the object was resolved; otherwise, **False** .
+ **True** if the object was resolved; otherwise, **False**.
 
 
 ## Example
@@ -71,3 +72,4 @@ End Sub
 
 [Recipient Object](Outlook.Recipient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetAlwaysDelete Method (Outlook)
+title: Conversation.GetAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3440
 f1_keywords:
 - vbaol11.chm3440
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.GetAlwaysDelete
 ms.assetid: 95843bf3-7fff-fab0-ca7b-014ba290d718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.GetAlwaysDelete Method (Outlook)
+# Conversation.GetAlwaysDelete method (Outlook)
 
 Returns a constant in the  **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDeleteConversation.md)** enumeration that indicates whether all new items that join the conversation are always moved to the **Deleted Items** folder in the specified delivery store.
 
 
 ## Syntax
 
- _expression_. `GetAlwaysDelete`( `_Store_` )
+_expression_. `GetAlwaysDelete`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -33,18 +34,18 @@ Returns a constant in the  **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDelete
 
 ## Return value
 
-A constant from the  **OlAlwaysDeleteConversation** enumeration that indicates whether all new items of the conversation are always moved to the Deleted Items folder of the specified delivey store.
+A constant from the  **OlAlwaysDeleteConversation** enumeration that indicates whether all new items of the conversation are always moved to the Deleted Items folder of the specified delivery store.
 
 
 ## Remarks
 
  If the _Store_ parameter specifies a non-delivery store such as an archive .pst store, the **GetAlwaysDelete** method returns a constant from **OlAlwaysDeleteConversation** that applies to conversation items in the default delivery store. Items on a non-delivery store are not moved to the **Deleted Items** folder for the default delivery store.
 
-If  **GetAlwaysDelete** returns **olAlwaysDelete** , items of the conversation are always moved to the **Deleted Items** folder for the store that contains the items. In a cross-store conversation, items are moved to the **Deleted Items** folder for the store that contains the items. When **GetAlwaysDelete** returns **olAlwaysDelete** , the **[GetAlwaysMoveToFolder](Outlook.Conversation.GetAlwaysMoveToFolder.md)** method returns a folder object that represents the **Deleted Items** folder for the default store.
+If  **GetAlwaysDelete** returns **olAlwaysDelete**, items of the conversation are always moved to the **Deleted Items** folder for the store that contains the items. In a cross-store conversation, items are moved to the **Deleted Items** folder for the store that contains the items. When **GetAlwaysDelete** returns **olAlwaysDelete**, the **[GetAlwaysMoveToFolder](Outlook.Conversation.GetAlwaysMoveToFolder.md)** method returns a folder object that represents the **Deleted Items** folder for the default store.
 
-If  **GetAlwaysDelete** returns **olAlwaysDeleteUnsupported** , the specified store does not support the action of always moving items to the **Deleted Items** folder of that store.
+If  **GetAlwaysDelete** returns **olAlwaysDeleteUnsupported**, the specified store does not support the action of always moving items to the **Deleted Items** folder of that store.
 
-If  **GetAlwaysDelete** returns **olDoNotDelete** , new items that arrive in the conversation are not moved to the **Deleted Items** folder on the specified delivery store, and existing conversation items in the **Deleted Items** folder are moved to the **Inbox**.
+If  **GetAlwaysDelete** returns **olDoNotDelete**, new items that arrive in the conversation are not moved to the **Deleted Items** folder on the specified delivery store, and existing conversation items in the **Deleted Items** folder are moved to the **Inbox**.
 
 
 ## Example
@@ -114,3 +115,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

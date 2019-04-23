@@ -1,5 +1,5 @@
 ---
-title: Series.PlotOrder Property (PowerPoint)
+title: Series.PlotOrder property (PowerPoint)
 keywords: vbapp10.chm65764
 f1_keywords:
 - vbapp10.chm65764
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Series.PlotOrder
 ms.assetid: 196c0b37-a9fe-ec01-ca0a-786c70e8a63c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.PlotOrder Property (PowerPoint)
+# Series.PlotOrder property (PowerPoint)
 
 Returns or sets the plot order for the selected series within the chart group. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PlotOrder`
+_expression_. `PlotOrder`
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Remarks
@@ -37,7 +38,7 @@ Changing the plot order of one series will cause the plot orders of the other se
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example makes series two for the first chart in the active document appear third in the plot order. You should run the example on a 2-D column chart that contains three or more series.
+The following example makes series two for the first chart in the active document appear third in the plot order. You should run the example on a 2D column chart that contains three or more series.
 
 
 
@@ -60,3 +61,4 @@ End With
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

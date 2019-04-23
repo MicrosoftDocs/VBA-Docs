@@ -1,14 +1,15 @@
 ---
-title: WdInformation Enumeration (Word)
+title: WdInformation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInformation
 ms.assetid: b5c46795-9f66-e607-1fb4-3a922b829c40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdInformation Enumeration (Word)
+# WdInformation enumeration (Word)
 
 Specifies the type of information returned about a specified selection or range.
 
@@ -58,3 +59,4 @@ Specifies the type of information returned about a specified selection or range.
 | **wdWithInTable**|12|Returns  **True** if the selection is in a table.|
 | **wdZoomPercentage**|19|Returns the current percentage of magnification as set by the  **Percentage** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

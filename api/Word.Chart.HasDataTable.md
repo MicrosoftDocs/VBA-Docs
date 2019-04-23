@@ -1,5 +1,5 @@
 ---
-title: Chart.HasDataTable Property (Word)
+title: Chart.HasDataTable property (Word)
 keywords: vbawd10.chm79365492
 f1_keywords:
 - vbawd10.chm79365492
@@ -8,19 +8,20 @@ api_name:
 - Word.Chart.HasDataTable
 ms.assetid: 62af9540-9a69-0e19-b884-4f2b5947152f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasDataTable Property (Word)
+# Chart.HasDataTable property (Word)
 
- **True** if the chart has a data table. Read/write **Boolean** .
+ **True** if the chart has a data table. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDataTable`
+_expression_.**HasDataTable**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Example
@@ -50,3 +51,4 @@ End With
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

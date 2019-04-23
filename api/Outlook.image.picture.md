@@ -3,6 +3,7 @@ title: Image.Picture Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: b777c459-01af-b194-527c-3673b7ed46f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns a  **String** that specifies the full path name of a bitmap to display o
 
 ## Syntax
 
- _expression_. **Picture**
+_expression_.**Picture**
 
- _expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ Use the  **[PictureSizeMode](Outlook.image.picturesizemode.md)** property to det
 
 Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.  **[Image](Outlook.image.md)** supports opaque images.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

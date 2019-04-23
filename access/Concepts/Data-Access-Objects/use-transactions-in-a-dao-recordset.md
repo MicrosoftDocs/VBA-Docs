@@ -3,6 +3,7 @@ title: Use transactions in a DAO Recordset
 ms.prod: access
 ms.assetid: 7d565770-37b6-5650-c998-9ff3b30d54cb
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -17,7 +18,7 @@ You should consider using transactions if you want to make sure that each operat
 > [!NOTE] 
 > The behavior of transactions with Access databases differs from the behavior of ODBC data sources, such as SQL Server. For example, if a database is connected to a file server, and the file server stops before a transaction has had time to commit its changes, then your database could be left in an inconsistent state. If you require true transaction support with respect to durability, you should investigate using a client/server architecture.
 
-The Access databse engine supports transactions through the DAO **[BeginTrans](../../../api/overview/Access.md)**, **[CommitTrans](../../../api/overview/Access.md)**, and **[Rollback](../../../api/overview/Access.md)** methods of the **[Workspace](../../../api/overview/Access.md)** object.
+The Access database engine supports transactions through the DAO **[BeginTrans](../../../api/overview/Access.md)**, **[CommitTrans](../../../api/overview/Access.md)**, and **[Rollback](../../../api/overview/Access.md)** methods of the **[Workspace](../../../api/overview/Access.md)** object.
 
 The following code example changes the job title of all sales representatives in the Employees table. After the **BeginTrans** method starts a transaction that isolates all of the changes made to the Employees table, the **CommitTrans** method saves the changes. Be aware that you can use the **Rollback** method to undo changes that you saved with the **[Update](../../../api/overview/Access.md)** method.
 
@@ -40,7 +41,7 @@ On Error GoTo ErrorHandler
    Do Until rstEmployee.EOF 
       If rstEmployee!Title = "Sales Representative" Then 
          rstEmployee.Edit 
-         rstEmloyee!Title = "Sales Associate" 
+         rstEmployee!Title = "Sales Associate" 
          rstEmployee.Update 
       End If 
       rstEmployee.MoveNext 
@@ -71,3 +72,4 @@ When you use transactions, all databases and **[Recordset](../../../api/overview
 
 You can also use the **[BeginTrans](../../../api/overview/Access.md)**, **[CommitTrans](../../../api/overview/Access.md)**, and **[Rollback](../../../api/overview/Access.md)** methods with the **[DBEngine](../../../api/overview/Access.md)** object. In this case, the transaction is applied to the default workspace, which is `DBEngine.Workspaces(0)`.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

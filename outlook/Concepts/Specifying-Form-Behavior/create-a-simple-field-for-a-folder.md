@@ -3,6 +3,7 @@ title: Create a Simple Field for a Folder
 ms.prod: outlook
 ms.assetid: f8bc45d8-b3c0-8825-c913-6e52894a321c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,6 +27,6 @@ ms.date: 06/08/2017
     
 9. To position the field between the other fields in the view, click  **Move Up** or **Move Down**. 
     
-10. To remove the field from the view, click  **Remove**. 
-    
+10. To remove the field from the view, click  **Remove**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

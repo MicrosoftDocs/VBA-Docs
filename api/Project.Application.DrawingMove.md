@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingMove Method (Project)
+title: Application.DrawingMove method (Project)
 keywords: vbapj.chm2311
 f1_keywords:
 - vbapj.chm2311
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DrawingMove
 ms.assetid: 0d6e2b43-a9ab-1e9d-ad89-afa01afddb50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DrawingMove Method (Project)
+# Application.DrawingMove method (Project)
 
 Moves the active drawing object forward or backward in the drawing layers.
 
 
 ## Syntax
 
- _expression_. `DrawingMove`( ` _Forward_`, ` _Full_` )
+_expression_. `DrawingMove`( `_Forward_`, `_Full_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Moves the active drawing object forward or backward in the drawing layers.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

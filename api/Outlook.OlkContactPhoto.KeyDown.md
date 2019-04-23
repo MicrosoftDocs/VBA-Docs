@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.KeyDown Event (Outlook)
+title: OlkContactPhoto.KeyDown event (Outlook)
 keywords: vbaol11.chm1000318
 f1_keywords:
 - vbaol11.chm1000318
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkContactPhoto.KeyDown
 ms.assetid: 5ec4abe0-5600-ea94-c7a8-5f46d4ac587a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.KeyDown Event (Outlook)
+# OlkContactPhoto.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 
 
 ## Syntax
 
- _expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Master.Import Method (Visio)
+title: Master.Import method (Visio)
 keywords: vis_sdr.chm10716355
 f1_keywords:
 - vis_sdr.chm10716355
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Import
 ms.assetid: 3b13025f-1a83-0dcf-41e1-03cd83dfc7be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Import Method (Visio)
+# Master.Import method (Visio)
 
 Imports a file into the current document.
 
 
 ## Syntax
 
- _expression_. `Import`( `_FileName_` )
+_expression_. `Import`( `_FileName_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -56,4 +57,4 @@ Public Sub Import_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

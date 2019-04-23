@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.DirectPrecedents
 ms.assetid: d7eebe51-3e4c-e902-e6a5-1617bd21ef4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `DirectPrecedents`
+_expression_. `DirectPrecedents`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Range("A1").DirectPrecedents.Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

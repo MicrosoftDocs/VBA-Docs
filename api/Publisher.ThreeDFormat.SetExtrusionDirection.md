@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (Publisher)
+title: ThreeDFormat.SetExtrusionDirection method (Publisher)
 keywords: vbapb10.chm3801108
 f1_keywords:
 - vbapb10.chm3801108
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.SetExtrusionDirection
 ms.assetid: ac01d31d-7775-8e33-3b68-6e53f952fdda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (Publisher)
+# ThreeDFormat.SetExtrusionDirection method (Publisher)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 
 
 ## Syntax
 
- _expression_. **SetExtrusionDirection**(**_PresetExtrusionDirection_**)
+_expression_.**SetExtrusionDirection**(**_PresetExtrusionDirection_**)
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -65,4 +66,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

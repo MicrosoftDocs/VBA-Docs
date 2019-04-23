@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineSpacingRule Property (Publisher)
+title: ParagraphFormat.LineSpacingRule property (Publisher)
 keywords: vbapb10.chm5439505
 f1_keywords:
 - vbapb10.chm5439505
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.LineSpacingRule
 ms.assetid: e9855daa-59f4-a4b6-f153-5de515261414
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineSpacingRule Property (Publisher)
+# ParagraphFormat.LineSpacingRule property (Publisher)
 
 Returns or sets a  **PbLineSpacingRule** that represents the line spacing for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **LineSpacingRule**
+_expression_.**LineSpacingRule**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -45,4 +46,4 @@ Sub SetLineSpacing()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

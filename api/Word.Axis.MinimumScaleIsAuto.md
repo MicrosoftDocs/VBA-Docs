@@ -1,5 +1,5 @@
 ---
-title: Axis.MinimumScaleIsAuto Property (Word)
+title: Axis.MinimumScaleIsAuto property (Word)
 keywords: vbawd10.chm113049634
 f1_keywords:
 - vbawd10.chm113049634
@@ -8,24 +8,25 @@ api_name:
 - Word.Axis.MinimumScaleIsAuto
 ms.assetid: 7e9ca498-1872-c4b1-e0b0-8d4444387747
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MinimumScaleIsAuto Property (Word)
+# Axis.MinimumScaleIsAuto property (Word)
 
- **True** if Microsoft Word calculates the minimum value for the value axis. Read/write **Boolean** .
+ **True** if Microsoft Word calculates the minimum value for the value axis. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MinimumScaleIsAuto`
+_expression_. `MinimumScaleIsAuto`
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
 
-Setting the  **[MinimumScale](Word.Axis.MinimumScale.md)** property sets this property to **False** .
+Setting the  **[MinimumScale](Word.Axis.MinimumScale.md)** property sets this property to **False**.
 
 
 ## Example
@@ -51,3 +52,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

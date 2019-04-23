@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.Type
 ms.assetid: f6e36b9f-3c34-9f23-2fe1-00788ed69d93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatCon
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
 
-This property will always return a  **Long** value of "4", which is equivalent to **xlDatabar** .
+This property will always return a  **Long** value of "4", which is equivalent to **xlDatabar**.
 
 
 ## See also
@@ -33,3 +34,4 @@ This property will always return a  **Long** value of "4", which is equivalent t
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

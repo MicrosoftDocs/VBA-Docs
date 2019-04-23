@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: fdbcd2ab-fe11-01c1-88ae-a9c9c766fb65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTableColumns.Count property (Excel)
 
-Returns a  **Long** value that represents the number of a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) objects in a [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) object. Read-only.
+Returns a **Long** value that represents the number of [ModelTableColumn](Excel.modeltablecolumn.md) objects in a **ModelTableColumns** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) object.
+_expression_ A variable that represents a **[ModelTableColumns](Excel.modeltablecolumns.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns a  **Long** value that represents the number of a [ModelTableColumn Obje
 
 [ModelTableColumns Object](Excel.modeltablecolumns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

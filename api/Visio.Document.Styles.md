@@ -1,5 +1,5 @@
 ---
-title: Document.Styles Property (Visio)
+title: Document.Styles property (Visio)
 keywords: vis_sdr.chm10514455
 f1_keywords:
 - vis_sdr.chm10514455
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Styles
 ms.assetid: 41434c49-3306-78b5-2126-0320fc05825a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Styles Property (Visio)
+# Document.Styles property (Visio)
 
 Returns the  **Styles** collection for a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Styles`
+_expression_. `Styles`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -58,4 +59,4 @@ Public Sub Styles_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.SetTitleRowHeight Method (Project)
+title: Application.SetTitleRowHeight method (Project)
 keywords: vbapj.chm2120
 f1_keywords:
 - vbapj.chm2120
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetTitleRowHeight
 ms.assetid: 7ee0d6db-9fd5-bcd4-e495-14d0a270ed99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetTitleRowHeight Method (Project)
+# Application.SetTitleRowHeight method (Project)
 
 Sets the title row height of the active view.
 
 
 ## Syntax
 
- _expression_. `SetTitleRowHeight`( ` _TitleHeight_` )
+_expression_. `SetTitleRowHeight`( `_TitleHeight_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Using the  **SetTitleRowHeight** method without specifying any arguments sets th
 
 The  **SetTitleRowHeight** method applies only to sheet views. Project returns a trappable error (error code 1100) in a non-sheet view such as the **Network Diagram** or **Calendar** view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

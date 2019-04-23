@@ -1,5 +1,5 @@
 ---
-title: PbWizardPageType Enumeration (Publisher)
+title: PbWizardPageType enumeration (Publisher)
 keywords: vbapb10.chm65603
 f1_keywords:
 - vbapb10.chm65603
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbWizardPageType
 ms.assetid: 8b34efb9-0091-e30f-9bb9-02310edccbb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbWizardPageType Enumeration (Publisher)
+# PbWizardPageType enumeration (Publisher)
 
 The type of wizard page to add.
 
@@ -77,3 +78,4 @@ The type of wizard page to add.
 | **pbWizardPageTypeWebSignupForm**|527|Web Signup Form|
 | **pbWizardPageTypeWebSpecial**|522|Web Special|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

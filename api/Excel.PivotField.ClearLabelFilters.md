@@ -1,5 +1,5 @@
 ---
-title: PivotField.ClearLabelFilters Method (Excel)
+title: PivotField.ClearLabelFilters method (Excel)
 keywords: vbaxl10.chm240156
 f1_keywords:
 - vbaxl10.chm240156
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.ClearLabelFilters
 ms.assetid: 48b8f6be-b4c0-26c6-2550-63729fd6a918
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotField.ClearLabelFilters Method (Excel)
+# PivotField.ClearLabelFilters method (Excel)
 
 This method deletes all label filters or all date filters in the  **PivotFilters** collection of the PivotField.
 
 
 ## Syntax
 
- _expression_. `ClearLabelFilters`
+_expression_. `ClearLabelFilters`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -98,3 +99,4 @@ The following table lists the different date filter types that will be deleted b
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

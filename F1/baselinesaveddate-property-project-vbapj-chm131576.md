@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ea0c2331-f2b6-433f-8584-2b7e4ff65f49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.BaselineDurationText Property (Project)](http://msdn.microsoft.com/library/87307d59-3307-1ee1-82f3-87840d1b4e7a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

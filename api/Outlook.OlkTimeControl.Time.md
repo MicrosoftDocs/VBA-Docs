@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Time Property (Outlook)
+title: OlkTimeControl.Time property (Outlook)
 keywords: vbaol11.chm1000393
 f1_keywords:
 - vbaol11.chm1000393
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTimeControl.Time
 ms.assetid: da483b8b-ef16-53e6-b3a8-e18f71799759
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Time Property (Outlook)
+# OlkTimeControl.Time property (Outlook)
 
 Returns or sets a  **Date** that represents the time value currently selected in the control. Read/write.
 
 
 ## Syntax
 
- _expression_. `Time`
+_expression_.**Time** 
 
- _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ When using the time control to indicate a duration (that is, the  **[Style](Outl
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

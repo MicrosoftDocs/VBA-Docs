@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.CurrentArray
 ms.assetid: 147f8834-5aef-900f-75de-df91a6a76005
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ If the specified cell is part of an array, returns a  **[Range](Excel.Range(obje
 
 ## Syntax
 
- _expression_. `CurrentArray`
+_expression_. `CurrentArray`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveCell.CurrentArray.Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

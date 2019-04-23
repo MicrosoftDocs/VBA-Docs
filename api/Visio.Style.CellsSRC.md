@@ -1,5 +1,5 @@
 ---
-title: Style.CellsSRC Property (Visio)
+title: Style.CellsSRC property (Visio)
 keywords: vis_sdr.chm11413205
 f1_keywords:
 - vis_sdr.chm11413205
@@ -8,17 +8,18 @@ api_name:
 - Visio.Style.CellsSRC
 ms.assetid: dedf7945-6ed2-80d7-9433-46d83b0c5dda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.CellsSRC Property (Visio)
+# Style.CellsSRC property (Visio)
 
 Returns a  **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsSRC`( `_Section_` , `_Row_` , `_Column_` )
+_expression_. `CellsSRC`( `_Section_` , `_Row_` , `_Column_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
@@ -40,7 +41,7 @@ Cell
 
 ## Remarks
 
-To access any shape formula by its section, row, and column indices, use the  **CellsSRC** property. Constants for section, row, and column indices are declared by the Visio type library as members of **[VisSectionIndices](Visio.vissectionindices.md)** , **[VisRowIndices](Visio.visrowindices.md)** , and **[VisCellIndices](Visio.viscellindices.md)** , respectively.
+To access any shape formula by its section, row, and column indices, use the  **CellsSRC** property. Constants for section, row, and column indices are declared by the Visio type library as members of **[VisSectionIndices](Visio.vissectionindices.md)**, **[VisRowIndices](Visio.visrowindices.md)**, and **[VisCellIndices](Visio.viscellindices.md)**, respectively.
 
 The  **CellsSRC** property might raise an exception if index values for section, row, and column do not identify an actual cell, depending on the section. However, even if no exception is raised, subsequent methods invoked on the returned object fail. You can determine if a cell with particular index values exists by using the **CellsSRCExists** property.
 
@@ -155,4 +156,4 @@ Public Sub CellsSRC_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

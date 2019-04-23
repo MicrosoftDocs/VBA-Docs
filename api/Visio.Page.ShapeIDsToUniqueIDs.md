@@ -1,5 +1,5 @@
 ---
-title: Page.ShapeIDsToUniqueIDs Method (Visio)
+title: Page.ShapeIDsToUniqueIDs method (Visio)
 keywords: vis_sdr.chm10960160
 f1_keywords:
 - vis_sdr.chm10960160
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.ShapeIDsToUniqueIDs
 ms.assetid: b89e82db-3c7b-fb73-2f4c-10056c6e7b28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.ShapeIDsToUniqueIDs Method (Visio)
+# Page.ShapeIDsToUniqueIDs method (Visio)
 
 Returns an array of unique IDs of shapes on the page, as specified by their shape IDs.
 
 
 ## Syntax
 
- _expression_. `ShapeIDsToUniqueIDs`( `_ShapeIDs()_` , `_UniqueIDArgs_` , `_GUIDs()_` )
+_expression_. `ShapeIDsToUniqueIDs`( `_ShapeIDs()_` , `_UniqueIDArgs_` , `_GUIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -44,15 +45,15 @@ Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs
 
  _Unique IDs_ are globally unique identifiers (GUIDs). They are unique within the scope of the application.
 
-To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **ShapeIDsToUniqueIDs** and **[UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)** .
+To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **ShapeIDsToUniqueIDs** and **[UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)**.
 
 By default, a shape does not have a unique ID. A shape acquires a unique ID only if you set its  **[Shape.UniqueID](Visio.Shape.UniqueID.md)** property. If a **Shape** object has a unique ID, no other shape in any other document will have the same ID.
 
-The  _UniqueIDArgs_ parameter sets and controls the behavior of the **UniqueID** property for all the shapes in _ShapeIDs()_ . _UniqueIDArgs_ should have one of the following values declared in the Visio type library in **VisUniqueIDArgs** .
+The  _UniqueIDArgs_ parameter sets and controls the behavior of the **UniqueID** property for all the shapes in _ShapeIDs()_ . _UniqueIDArgs_ should have one of the following values declared in the Visio type library in **VisUniqueIDArgs**.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetGUID**|0|Returns the unique ID string only if the shape already has a unique ID. Otherwise it returns a zero-length string ("").|
 | **visGetOrMakeGUID**|1| Returns the unique ID string of the shape. If the shape does not yet have a unique ID, it assigns one to the shape and returns the new ID.|
@@ -62,7 +63,7 @@ The  _UniqueIDArgs_ parameter sets and controls the behavior of the **UniqueID**
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShapeIDsToUniqueIDs** method to determine the unique IDs of the shapes on the page passed to the method. It iterates through all the shapes on the active drawing page, using the **Shape.UniqueID** property to get the shape IDs of the shapes, and then passes an array of those IDs to the **ShapeIDsToUniqueIDs** method as the _ShapeIDs()_ parameter to get the unique IDs of the shapes. For the UniqueIDArgs parameter, it passes the value **visGetOrMakeGUID** , telling Visio to create a unique ID for any shape that doesn't already have one. It prints the unique IDs and shape IDs to the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShapeIDsToUniqueIDs** method to determine the unique IDs of the shapes on the page passed to the method. It iterates through all the shapes on the active drawing page, using the **Shape.UniqueID** property to get the shape IDs of the shapes, and then passes an array of those IDs to the **ShapeIDsToUniqueIDs** method as the _ShapeIDs()_ parameter to get the unique IDs of the shapes. For the UniqueIDArgs parameter, it passes the value **visGetOrMakeGUID**, telling Visio to create a unique ID for any shape that doesn't already have one. It prints the unique IDs and shape IDs to the **Immediate** window.
 
 Before running this macro, open a Visio drawing and place several shapes on the active drawing page.
 
@@ -98,4 +99,4 @@ Public Sub ShapeIDsToUniqueIDs_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

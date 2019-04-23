@@ -1,5 +1,5 @@
 ---
-title: Range.IsEndOfRowMark Property (Word)
+title: Range.IsEndOfRowMark property (Word)
 keywords: vbawd10.chm157155635
 f1_keywords:
 - vbawd10.chm157155635
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.IsEndOfRowMark
 ms.assetid: 0b1a7638-75ea-fb03-3a52-8bc759794408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.IsEndOfRowMark Property (Word)
+# Range.IsEndOfRowMark property (Word)
 
- **True** if the specified range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean** .
+ **True** if the specified range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsEndOfRowMark`
+_expression_. `IsEndOfRowMark`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -51,3 +52,4 @@ End If
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.HelpPaths Property (Visio)
+title: Application.HelpPaths property (Visio)
 keywords: vis_sdr.chm10013635
 f1_keywords:
 - vis_sdr.chm10013635
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.HelpPaths
 ms.assetid: eba05b64-61d8-970d-65f4-26ea41840fcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.HelpPaths Property (Visio)
+# Application.HelpPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for Help files. Read/write.
 
 
 ## Syntax
 
- _expression_. `HelpPaths`
+_expression_. `HelpPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -32,7 +33,7 @@ String
 
 The  **HelpPaths** property is set to an empty string ("") by default.
 
-The string passed to and received from the  **HelpPaths** property is the same string shown in the **File Paths** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\HelpPath** subkey.
+The string passed to and received from the  **HelpPaths** property is the same string shown in the **File Paths** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click **File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\HelpPath** subkey.
 
 When the application looks for Help files, it looks in all paths named in the  **HelpPaths** property and all the subfolders of those paths. If you pass the **HelpPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 
@@ -79,4 +80,4 @@ Public Sub SetHelpPaths_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

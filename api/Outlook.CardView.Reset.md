@@ -1,5 +1,5 @@
 ---
-title: CardView.Reset Method (Outlook)
+title: CardView.Reset method (Outlook)
 keywords: vbaol11.chm2586
 f1_keywords:
 - vbaol11.chm2586
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CardView.Reset
 ms.assetid: 47d6e16a-e789-2224-ec11-0569f199f787
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CardView.Reset Method (Outlook)
+# CardView.Reset method (Outlook)
 
 Resets a built-in Microsoft Outlook view to its original settings.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks
@@ -81,3 +82,4 @@ End Sub
 
 [CardView Object](Outlook.CardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

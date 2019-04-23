@@ -1,28 +1,27 @@
 ---
-title: TextRange2.Runs Property (Office)
+title: TextRange2.Runs property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Runs
 ms.assetid: 5398a676-67a9-315f-193c-62602f27c377
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextRange2.Runs Property (Office)
+# TextRange2.Runs property (Office)
 
-Gets a  **TextRange2** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes. Read-only.
+Gets a **TextRange2** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes. Read-only.
 
 
 ## Syntax
 
- _expression_. `Runs`( `_Start_`, `_Length_` )
+_expression_.**Runs** (_Start_, _Length_)
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+_expression_ An expression that returns a **[TextRange2](Office.TextRange2.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,19 +35,19 @@ TextRange2
 
 ## Remarks
 
-If both  _Start_ and _Length_ are omitted, the returned range starts with the first run and ends with the last paragraph in the specified range.
+If both _Start_ and _Length_ are omitted, the returned range starts with the first run and ends with the last paragraph in the specified range.
 
-If  _Start_ is specified but _Length_ is omitted, the returned range contains one run.
+If _Start_ is specified but _Length_ is omitted, the returned range contains one run.
 
-If  _Length_ is specified but _Start_ is omitted, the returned range starts with the first run in the specified range.
+If _Length_ is specified but _Start_ is omitted, the returned range starts with the first run in the specified range.
 
-If  _Start_ is greater than the number of runs in the specified text, the returned range starts with the last run in the specified range.
+If _Start_ is greater than the number of runs in the specified text, the returned range starts with the last run in the specified range.
 
-If  _Length_ is greater than the number of runs from the specified starting run to the end of the text, the returned range contains all those runs.
+If _Length_ is greater than the number of runs from the specified starting run to the end of the text, the returned range contains all those runs.
 
 A run consists of all characters from the first character after a font change to the second-to-last character with the same font attributes. For example, consider the following sentence:
 
-This  _italic_ word is not bold.
+This _italic_ word is not bold.
 
 In the preceding sentence, the first run consists of the word "This" only if the space after the word "This" isn't formatted as italic (if the space is italic, the first run is only the first three characters, or "Thi"). Likewise, the second run contains the word "italic" only if the space after the word is formatted as italic.
 
@@ -73,10 +72,8 @@ End With
 
 ## See also
 
-
-[TextRange2 Object](Office.TextRange2.md)
-
+- [TextRange2 object members](overview/Library-Reference/textrange2-members-office.md)
 
 
-[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

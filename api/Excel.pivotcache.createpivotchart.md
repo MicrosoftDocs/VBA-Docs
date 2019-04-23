@@ -1,42 +1,43 @@
 ---
-title: PivotCache.CreatePivotChart Method (Excel)
+title: PivotCache.CreatePivotChart method (Excel)
 keywords: vbaxl10.chm227110
 f1_keywords:
 - vbaxl10.chm227110
 ms.prod: excel
 ms.assetid: 5aeb9a16-2cf8-3525-12b0-0b6e3d3ddf1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotCache.CreatePivotChart Method (Excel)
+# PivotCache.CreatePivotChart method (Excel)
 
-Creates a standalone PivotChart from a [PivotCache Object (Excel)](Excel.PivotCache.md) object. A[Shape Object (Excel)](Excel.Shape.md) object is returned.
+Creates a standalone PivotChart from a [PivotCache](Excel.PivotCache.md) object. A [Shape](Excel.Shape.md) object is returned.
 
 
 ## Syntax
 
- _expression_. `CreatePivotChart`_(ChartDestination,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_. `CreatePivotChart`_(ChartDestination,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height)_
 
- _expression_ A variable that represents a [PivotCache Object (Excel)](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ChartDestination_|Required|VARIANT|The Destination worksheet|
-| _XlChartType_|Optional|VARIANT|The type of chart|
-| _Left_|Optional|VARIANT|The distance, in points, from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).|
-| _Top_|Optional|VARIANT|The distance, in points, from the top edge of the topmost shape in the shape range to the top edge of the worksheet.|
-| _Width_|Optional|VARIANT|The width, in points, of the object.|
-| _Height_|Optional|VARIANT|The height, in points, of the object.|
+| _ChartDestination_|Required|**Variant**|The Destination worksheet|
+| _XlChartType_|Optional|**Variant**|The type of chart|
+| _Left_|Optional|**Variant**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).|
+| _Top_|Optional|**Variant**|The distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the topmost shape in the shape range to the top edge of the worksheet.|
+| _Width_|Optional|**Variant**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the object.|
+| _Height_|Optional|**Variant**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the object.|
 
 ## Return value
 
-[Shape Object (Excel)](Excel.Shape.md) object
+[Shape](Excel.Shape.md) object
 
 
 ## Remarks
@@ -82,3 +83,4 @@ Workbooks("Book1").Connections.Add _
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

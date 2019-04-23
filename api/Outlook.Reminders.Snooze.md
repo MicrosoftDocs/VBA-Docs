@@ -1,5 +1,5 @@
 ---
-title: Reminders.Snooze Event (Outlook)
+title: Reminders.Snooze event (Outlook)
 keywords: vbaol11.chm580
 f1_keywords:
 - vbaol11.chm580
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Reminders.Snooze
 ms.assetid: 253e3f16-6d33-e7f7-5a1f-4a8b0a82a55d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminders.Snooze Event (Outlook)
+# Reminders.Snooze event (Outlook)
 
 Occurs when a reminder is dismissed using the  **Snooze** button.
 
 
 ## Syntax
 
- _expression_. `Snooze`( `_ReminderObject_` )
+_expression_. `Snooze`( `_ReminderObject_` )
 
- _expression_ An expression that returns a [Reminders](./Outlook.Reminders.md) object.
+ _expression_ An expression that returns a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ End Sub
 
 [Reminders Object](Outlook.Reminders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

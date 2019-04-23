@@ -1,5 +1,5 @@
 ---
-title: Shapes.Placeholders Property (PowerPoint)
+title: Shapes.Placeholders property (PowerPoint)
 keywords: vbapp10.chm543021
 f1_keywords:
 - vbapp10.chm543021
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shapes.Placeholders
 ms.assetid: 2926d893-056a-0805-85ba-681e64bf81ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Placeholders Property (PowerPoint)
+# Shapes.Placeholders property (PowerPoint)
 
 Returns a  **[Placeholders](PowerPoint.Placeholders.md)** collection that represents the collection of all the placeholders on a slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `Placeholders`
+_expression_. `Placeholders`
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -56,3 +57,4 @@ End With
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

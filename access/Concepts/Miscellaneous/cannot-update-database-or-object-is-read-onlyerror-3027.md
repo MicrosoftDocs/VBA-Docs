@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: dc8387fe-aac4-46af-5c2f-bbbae7f7edb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -44,3 +45,5 @@ Close the database, resolve the read-only condition, and then reopen the file fo
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

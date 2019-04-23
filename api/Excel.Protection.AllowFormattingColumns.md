@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowFormattingColumns
 ms.assetid: 1cdfeea0-5c5e-1f6c-47c7-a351bb6745b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowFormattingColumns property (Excel)
 
-Returns  **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowFormattingColumns`
+_expression_. `AllowFormattingColumns`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,35 +7,33 @@ ms.prod: access
 api_name:
 - Access.Line.InSelection
 ms.assetid: eaeac7f9-a452-7121-5950-1c9741c662c2
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # Line.InSelection property (Access)
 
-You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
+You can use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `InSelection`
+_expression_.**InSelection**
 
-_expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a **[Line](Access.Line.md)** object.
 
 
 ## Remarks
 
-When a control is selected, its sizing handles are visible and it can be resized by the user. More than one control can be selected at a time.
+When a control is selected, its sizing handles are visible, and it can be resized by the user. More than one control can be selected at a time.
 
 
 ## Example
 
-The following function uses the  **InSelection** property to determine whether the `strControlName` control on a form is selected.
+The following function uses the **InSelection** property to determine whether the **strControlName** control on a form is selected.
 
-To test this code, paste the IsControlSelected function code in the Declarations section of a code module in the Northwind sample database, open the Customers form in Design view, and select the CompanyName control. Then enter the following line in the Debug window:
-
-
-
+To test this code, paste the **IsControlSelected** function code in the Declarations section of a code module in the Northwind sample database, open the **Customers** form in Design view, and select the **CompanyName** control. Enter the following line in the Debug window.
 
 ```vb
 ? IsControlSelected (Forms!Customers, "CompanyName") 
@@ -64,8 +62,6 @@ End Function
 ```
 
 
-## See also
 
 
-[Line Object](Access.Line.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

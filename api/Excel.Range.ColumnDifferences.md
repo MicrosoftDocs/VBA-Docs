@@ -1,5 +1,5 @@
 ---
-title: Range.ColumnDifferences Method (Excel)
+title: Range.ColumnDifferences method (Excel)
 keywords: vbaxl10.chm144100
 f1_keywords:
 - vbaxl10.chm144100
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.ColumnDifferences
 ms.assetid: 483995e1-9c8d-c171-4c72-17afd5918d49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ColumnDifferences Method (Excel)
+# Range.ColumnDifferences method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells whose contents are different from the comparison cell in each column.
 
 
 ## Syntax
 
- _expression_. `ColumnDifferences`( `_Comparison_` )
+_expression_. `ColumnDifferences`( `_Comparison_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -69,3 +70,4 @@ End Sub
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

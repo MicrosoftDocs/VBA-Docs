@@ -1,14 +1,15 @@
 ---
-title: xlAboveBelow enumeration (Excel)
+title: XlAboveBelow enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAboveBelow
 ms.assetid: 234b7c1c-c06f-94dd-df89-61911353a727
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlAboveBelow enumeration (Excel)
+# XlAboveBelow enumeration (Excel)
 
 Specifies if the values are above or below average.
 
@@ -21,3 +22,4 @@ Specifies if the values are above or below average.
 | **xlEqualAboveAverage**|2|Equal above average|
 | **xlEqualBelowAverage**|3|Equal below average|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

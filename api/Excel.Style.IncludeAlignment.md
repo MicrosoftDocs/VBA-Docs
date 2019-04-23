@@ -8,19 +8,20 @@ api_name:
 - Excel.Style.IncludeAlignment
 ms.assetid: 4b58251d-cf1f-3301-a597-3e2c756144fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Style.IncludeAlignment property (Excel)
 
- **True** if the style includes the **AddIndent** , **HorizontalAlignment** , **VerticalAlignment** , **WrapText** , **IndentLevel** , and **Orientation** properties. Read/write **Boolean** .
+ **True** if the style includes the **AddIndent**, **HorizontalAlignment**, **VerticalAlignment**, **WrapText**, **IndentLevel**, and **Orientation** properties. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeAlignment`
+_expression_. `IncludeAlignment`
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").Range("A1").Style.IncludeAlignment = True
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

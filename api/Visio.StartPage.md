@@ -5,6 +5,7 @@ api_name:
 - Visio.StartPage
 ms.assetid: 7db581ab-f656-f97a-79b6-17a1fca513e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Specifies the page number of the first page in the range when you save a range o
 
 ## Syntax
 
- _expression_. **StartPage**
+_expression_.**StartPage**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -61,4 +62,4 @@ Public Sub StartPage_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Font.Tracking Property (Publisher)
+title: Font.Tracking property (Publisher)
 keywords: vbapb10.chm5373984
 f1_keywords:
 - vbapb10.chm5373984
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Tracking
 ms.assetid: c703a5ec-e8d7-36ce-ac50-d41265ce92db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Tracking Property (Publisher)
+# Font.Tracking property (Publisher)
 
 Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Tracking**
+_expression_.**Tracking**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -41,4 +42,4 @@ Sub DisableTracking()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

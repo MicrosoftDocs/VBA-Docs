@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e32bf496-e168-a366-682d-a98f536a7834
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-During the create replica operation new objects that did not allow the operation to continue succesfully may have been created in the source replica. Try again.
+During the create replica operation new objects that did not allow the operation to continue successfully may have been created in the source replica. Try again.
 
 ## See also
 
@@ -25,3 +26,5 @@ During the create replica operation new objects that did not allow the operation
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

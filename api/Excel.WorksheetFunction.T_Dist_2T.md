@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Dist_2T Method (Excel)
+title: WorksheetFunction.T_Dist_2T method (Excel)
 keywords: vbaxl10.chm137384
 f1_keywords:
 - vbaxl10.chm137384
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.T_Dist_2T
 ms.assetid: e4927634-d94c-5bcc-7bef-ad35a315bc69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.T_Dist_2T Method (Excel)
+# WorksheetFunction.T_Dist_2T method (Excel)
 
 Returns the two-tailed Student t-distribution.
 
 
 ## Syntax
 
- _expression_. `T_Dist_2T`( `_Arg1_` , `_Arg2_` )
+_expression_. `T_Dist_2T`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

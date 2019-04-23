@@ -8,6 +8,7 @@ api_name:
 - Excel.SheetViews.Application
 ms.assetid: b515807e-c56e-e49a-3cab-0ece29255be8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [SheetViews](./Excel.SheetViews.md) object.
+_expression_ A variable that represents a [SheetViews](Excel.SheetViews.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [SheetViews Object](Excel.SheetViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

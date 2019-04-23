@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropBottom Property (Publisher)
+title: PictureFormat.CropBottom property (Publisher)
 keywords: vbapb10.chm3604739
 f1_keywords:
 - vbapb10.chm3604739
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.CropBottom
 ms.assetid: 8c504221-11da-f6f1-8fbb-75dc5c62b953
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropBottom Property (Publisher)
+# PictureFormat.CropBottom property (Publisher)
 
 Returns or sets a  **Variant** indicating the amount by which the bottom edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. **CropBottom**
+_expression_.**CropBottom**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -79,4 +80,4 @@ shpCrop.PictureFormat.CropBottom = sngPoints
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Apply Method (Outlook)
+title: BusinessCardView.Apply method (Outlook)
 keywords: vbaol11.chm2921
 f1_keywords:
 - vbaol11.chm2921
@@ -8,19 +8,20 @@ api_name:
 - Outlook.BusinessCardView.Apply
 ms.assetid: 4a64b59e-0d52-8439-30bb-32d0624cf28a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView.Apply Method (Outlook)
+# BusinessCardView.Apply method (Outlook)
 
 Applies the  **[BusinessCardView](Outlook.BusinessCardView.md)** object to the current view.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Example
@@ -78,3 +79,4 @@ End Sub
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

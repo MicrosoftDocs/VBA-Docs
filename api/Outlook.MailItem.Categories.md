@@ -1,5 +1,5 @@
 ---
-title: MailItem.Categories Property (Outlook)
+title: MailItem.Categories property (Outlook)
 keywords: vbaol11.chm1298
 f1_keywords:
 - vbaol11.chm1298
@@ -8,24 +8,25 @@ api_name:
 - Outlook.MailItem.Categories
 ms.assetid: 049396c0-193b-6c80-9eb0-f55480ffc37a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Categories Property (Outlook)
+# MailItem.Categories property (Outlook)
 
 Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Categories`
+_expression_. `Categories`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
 
- **Categories** is a delimited string of category names that have been assigned to an Outlook item. This property uses the character specified in the value name, **sList** , under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories. To convert the string of category names to an array of category names, use the Microsoft Visual Basic function **Split** .
+ **Categories** is a delimited string of category names that have been assigned to an Outlook item. This property uses the character specified in the value name, **sList**, under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories. To convert the string of category names to an array of category names, use the Microsoft Visual Basic function **Split**.
 
 
 ## See also
@@ -33,3 +34,4 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

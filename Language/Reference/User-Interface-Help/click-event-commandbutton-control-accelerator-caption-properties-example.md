@@ -1,20 +1,20 @@
 ---
-title: Click Event, CommandButton Control, Accelerator, Caption Properties Example
+title: Click event, CommandButton control, Accelerator, Caption properties example
 keywords: fm20.chm5225180
 f1_keywords:
 - fm20.chm5225180
 ms.prod: office
 ms.assetid: f2d2210a-e69e-6dbb-6b3d-95ceb377bc84
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Click Event, CommandButton Control, Accelerator, Caption Properties Example
+# Click event, CommandButton control, Accelerator, Caption properties example
 
-This example changes the  **Accelerator** and **Caption** properties of a **CommandButton** each time the user clicks the button by using the mouse or the accelerator key. The Click event contains the code to change the **Accelerator** and **Caption** properties.
+This example changes the **[Accelerator](accelerator-property.md)** and **[Caption](caption-propert-microsoft-forms.md)** properties of a **[CommandButton](commandbutton-control.md)** each time the user clicks the button by using the mouse or the accelerator key. The [Click](click-event.md) event contains the code to change the **Accelerator** and **Caption** properties.
 
-To try this example, paste the code into the Declarations section of a form containing a  **CommandButton** named CommandButton1.
-
+To try this example, paste the code into the Declarations section of a form containing a **CommandButton** named CommandButton1.
 
 
 ```vb
@@ -37,4 +37,4 @@ Private Sub CommandButton1_Click ()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

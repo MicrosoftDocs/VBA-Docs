@@ -8,19 +8,20 @@ api_name:
 - Excel.Font.Strikethrough
 ms.assetid: fc505f12-66ae-a941-c6cf-90f81bc44dea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.Strikethrough property (Excel)
 
- **True** if the font is struck through with a horizontal line. Read/write **Boolean** .
+ **True** if the font is struck through with a horizontal line. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Strikethrough`
+_expression_. `Strikethrough`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveCell.Font.Strikethrough = True
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

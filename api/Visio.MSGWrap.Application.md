@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.Application Property (Visio)
+title: MSGWrap.Application property (Visio)
 keywords: vis_sdr.chm16113090
 f1_keywords:
 - vis_sdr.chm16113090
@@ -8,17 +8,18 @@ api_name:
 - Visio.MSGWrap.Application
 ms.assetid: 74bd67e2-870d-5852-d69e-06f1003bb7ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MSGWrap.Application Property (Visio)
+# MSGWrap.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

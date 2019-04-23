@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertCells Method (Word)
+title: Selection.InsertCells method (Word)
 keywords: vbawd10.chm158662870
 f1_keywords:
 - vbawd10.chm158662870
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertCells
 ms.assetid: 461085a3-ae98-8028-5ad2-d5e22038c6db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertCells Method (Word)
+# Selection.InsertCells method (Word)
 
 Adds cells to an existing table.
 
 
 ## Syntax
 
- _expression_. `InsertCells`( `_ShiftCells_` )
+_expression_. `InsertCells`( `_ShiftCells_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds cells to an existing table.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ShiftCells_|Optional| **WdInsertCells**|Specifies how to insert the cells into the existing columns and rows of the tabel.|
+| _ShiftCells_|Optional| **WdInsertCells**|Specifies how to insert the cells into the existing columns and rows of the table.|
 
 ## Remarks
 
@@ -57,3 +58,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

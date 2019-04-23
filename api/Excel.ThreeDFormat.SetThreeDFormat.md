@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (Excel)
+title: ThreeDFormat.SetThreeDFormat method (Excel)
 keywords: vbaxl10.chm119003
 f1_keywords:
 - vbaxl10.chm119003
@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.SetThreeDFormat
 ms.assetid: 64315607-991a-426e-e931-78432558832e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (Excel)
+# ThreeDFormat.SetThreeDFormat method (Excel)
 
 Sets the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion.
 
 
 ## Syntax
 
- _expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
+_expression_. `SetThreeDFormat`( `_PresetThreeDFormat_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Sets the preset extrusion format. Each preset extrusion format contains a set of
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required| **[MsoPresetThreeDFormat](./Office.MsoPresetThreeDFormat.md)**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+| _PresetThreeDFormat_|Required| **[MsoPresetThreeDFormat](Office.MsoPresetThreeDFormat.md)**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3D** button on the **Drawing** toolbar.|
 
 ## Remarks
 
@@ -38,7 +39,7 @@ This method sets the  **[PresetThreeDFormat](Excel.ThreeDFormat.PresetThreeDForm
 
 ## Example
 
-This example adds an oval to  `myDocument` and sets its extrusion format to 3D Style 12.
+This example adds an oval to  _myDocument_ and sets its extrusion format to 3D Style 12.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

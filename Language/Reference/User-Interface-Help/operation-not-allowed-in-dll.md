@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ff4949cc-44ff-085c-3343-9b9a1ee8e2ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Not all Visual Basic statements are allowed within a [dynamic-link library (DLL)
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.IndexInStencil Property (Visio)
+title: MasterShortcut.IndexInStencil property (Visio)
 keywords: vis_sdr.chm16013700
 f1_keywords:
 - vis_sdr.chm16013700
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.IndexInStencil
 ms.assetid: 4136d07c-6cb4-9f82-a358-d37977d8d4ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.IndexInStencil Property (Visio)
+# MasterShortcut.IndexInStencil property (Visio)
 
 Gets or sets the index of a master or master shortcut object within its stencil. Read/write.
 
 
 ## Syntax
 
- _expression_. `IndexInStencil`
+_expression_. `IndexInStencil`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -37,6 +38,6 @@ Use the  **IndexInStencil** property to maintain the relative order of **Master*
 
 
 
- **Note**  Beginning with Microsoft Office Visio 2003, only user-created stencils are editable. By default, Visio stencils are not editable. 
+ **Note**  Beginning with Microsoft Office Visio 2003, only user-created stencils are editable. By default, Visio stencils are not editable.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

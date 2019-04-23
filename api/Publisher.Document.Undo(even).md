@@ -1,5 +1,5 @@
 ---
-title: Document.Undo Event (Publisher)
+title: Document.Undo event (Publisher)
 keywords: vbapb10.chm285212678
 f1_keywords:
 - vbapb10.chm285212678
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Undo
 ms.assetid: 9789e469-dc84-a0b7-ffe0-405d4e7ad861
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Undo Event (Publisher)
+# Document.Undo event (Publisher)
 
 Occurs when a user undoes the last action performed.
 
 
 ## Syntax
 
- _expression_. **Undo**
+_expression_.**Undo**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -56,4 +57,4 @@ Sub InitiatePubApp()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

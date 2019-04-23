@@ -8,19 +8,20 @@ api_name:
 - Excel.ErrorBars.Creator
 ms.assetid: 8a54a5dd-a62d-e027-8c44-ba4f97ac425d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ErrorBars.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
+_expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ErrorBars Object](Excel.ErrorBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.RangeType Property (PowerPoint)
+title: PrintOptions.RangeType property (PowerPoint)
 keywords: vbapp10.chm517011
 f1_keywords:
 - vbapp10.chm517011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.RangeType
 ms.assetid: 51d48974-16c9-0b96-9feb-651ca6347587
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.RangeType Property (PowerPoint)
+# PrintOptions.RangeType property (PowerPoint)
 
 Returns or sets the type of print range for the presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `RangeType`
+_expression_. `RangeType`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -60,3 +61,4 @@ End With
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

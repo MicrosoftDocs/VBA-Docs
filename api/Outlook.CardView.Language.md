@@ -1,5 +1,5 @@
 ---
-title: CardView.Language Property (Outlook)
+title: CardView.Language property (Outlook)
 keywords: vbaol11.chm2588
 f1_keywords:
 - vbaol11.chm2588
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CardView.Language
 ms.assetid: 52738c62-e3a3-7c20-9c94-deff1b2b64b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CardView.Language Property (Outlook)
+# CardView.Language property (Outlook)
 
 Returns or sets a  **String** value that represents the language setting for the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `Language`
+_expression_. `Language`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [CardView Object](Outlook.CardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: ecbfd517-08ab-bd35-3358-8b7a2a719171
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextConnection.TextFileConsecutiveDelimiter property (Excel)
 
- **True** if consecutive delimiters are treated as a single delimiter when you import a text file into a query table. The default value is **False** . **Boolean** Read/Write
+ **True** if consecutive delimiters are treated as a single delimiter when you import a text file into a query table. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TextFileConsecutiveDelimiter`
+_expression_. `TextFileConsecutiveDelimiter`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ ms.date: 06/08/2017
 
 [TextConnection Object](Excel.textconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

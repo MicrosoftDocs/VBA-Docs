@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Item Method (PowerPoint)
+title: ExtraColors.Item method (PowerPoint)
 keywords: vbapp10.chm529003
 f1_keywords:
 - vbapp10.chm529003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ExtraColors.Item
 ms.assetid: 213ced3f-fb6a-4447-e73f-1eeeb9f3cebb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExtraColors.Item Method (PowerPoint)
+# ExtraColors.Item method (PowerPoint)
 
 Returns a single color from the specified  **ExtraColors** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
 
@@ -41,3 +42,4 @@ MsoRGBType
 
 [ExtraColors Object](PowerPoint.ExtraColors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

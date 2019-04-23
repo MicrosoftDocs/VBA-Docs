@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTable.Creator
 ms.assetid: 6384b8d4-295c-1566-9405-a7450551b4f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ Data from Web queries or text queries is imported as a  **[QueryTable](Excel.Que
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlCellInsertionMode enumeration (Excel)
+title: XlCellInsertionMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCellInsertionMode
 ms.assetid: 582f504f-8acf-c359-186e-35429192b6b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCellInsertionMode enumeration (Excel)
+# XlCellInsertionMode enumeration (Excel)
 
 Specifies the way that rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query.
 
@@ -20,3 +21,4 @@ Specifies the way that rows on the specified worksheet are added or deleted to a
 | **xlInsertEntireRows**|2|Entire rows are inserted, if necessary, to accommodate any overflow. No cells or rows are deleted from the worksheet.|
 | **xlOverwriteCells**|0|No new cells or rows are added to the worksheet. Data in surrounding cells is overwritten to accommodate any overflow.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

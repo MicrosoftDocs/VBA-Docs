@@ -1,5 +1,5 @@
 ---
-title: Rows Object (Publisher)
+title: Rows object (Publisher)
 keywords: vbapb10.chm4980735
 f1_keywords:
 - vbapb10.chm4980735
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Rows
 ms.assetid: 31b04a41-9005-8f51-87ab-426af0e901ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows Object (Publisher)
+# Rows object (Publisher)
 
 A collection of  **[Row](Publisher.Row.md)** objects that represent the rows in a table.
  
@@ -77,7 +78,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Rows.Add.md)|
 |[Item](Publisher.Rows.Item.md)|
@@ -86,9 +87,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Rows.Application.md)|
 |[Count](Publisher.Rows.Count.md)|
 |[Parent](Publisher.Rows.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Point Object (PowerPoint)
+title: Point object (PowerPoint)
 keywords: vbapp10.chm714000
 f1_keywords:
 - vbapp10.chm714000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Point
 ms.assetid: e0137fdd-5632-88d7-a6c0-57a76717e736
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point Object (PowerPoint)
+# Point object (PowerPoint)
 
 Represents a single point in a series in a chart.
 
@@ -28,7 +29,7 @@ Represents a single point in a series in a chart.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[Points](PowerPoint.Series.Points.md)** ( _Index_ ), where _Index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point. The following example sets the marker style for the third point in series one for the first chart in the active document. The specified series must be a 2-D line, scatter, or radar series.
+Use  **[Points](PowerPoint.Series.Points.md)** (_index_), where _index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point. The following example sets the marker style for the third point in series one for the first chart in the active document. The specified series must be a 2D line, scatter, or radar series.
 
 
 
@@ -53,3 +54,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

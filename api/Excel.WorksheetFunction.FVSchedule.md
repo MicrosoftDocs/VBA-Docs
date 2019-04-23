@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FVSchedule Method (Excel)
+title: WorksheetFunction.FVSchedule method (Excel)
 keywords: vbaxl10.chm137352
 f1_keywords:
 - vbaxl10.chm137352
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.FVSchedule
 ms.assetid: 5a64322c-24b0-baa2-a355-c414fcbe161c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.FVSchedule Method (Excel)
+# WorksheetFunction.FVSchedule method (Excel)
 
 Returns the future value of an initial principal after applying a series of compound interest rates. Use FVSCHEDULE to calculate the future value of an investment with a variable or adjustable rate.
 
 
 ## Syntax
 
- _expression_. `FVSchedule`( `_Arg1_` , `_Arg2_` )
+_expression_. `FVSchedule`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ The values in schedule can be numbers or blank cells; any other value produces t
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

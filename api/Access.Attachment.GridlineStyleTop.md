@@ -7,41 +7,38 @@ ms.prod: access
 api_name:
 - Access.Attachment.GridlineStyleTop
 ms.assetid: bf54b66f-f16f-195a-9fcc-37cfa6b69de3
-ms.date: 06/08/2017
+ms.date: 02/07/2019
+localization_priority: Normal
 ---
 
 
 # Attachment.GridlineStyleTop property (Access)
 
-Gets or sets the top gridline style of the specified attachment. Read/write  **Byte**.
+Gets or sets the top gridline style of the specified attachment. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleTop`
+_expression_.**GridlineStyleTop**
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **TopGridlineStyle** property uses the following settings.
+The **GridlineStyleTop** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

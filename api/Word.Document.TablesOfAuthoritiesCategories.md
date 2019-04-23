@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfAuthoritiesCategories Property (Word)
+title: Document.TablesOfAuthoritiesCategories property (Word)
 keywords: vbawd10.chm158007334
 f1_keywords:
 - vbawd10.chm158007334
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.TablesOfAuthoritiesCategories
 ms.assetid: c7daaf7a-6002-8377-ff68-18335f441baf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TablesOfAuthoritiesCategories Property (Word)
+# Document.TablesOfAuthoritiesCategories property (Word)
 
 Returns a  **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection that represents the available table of authorities categories for the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `TablesOfAuthoritiesCategories`
+_expression_. `TablesOfAuthoritiesCategories`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

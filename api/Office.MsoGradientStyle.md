@@ -1,18 +1,19 @@
 ---
-title: MsoGradientStyle Enumeration (Office)
+title: MsoGradientStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoGradientStyle
 ms.assetid: 1f0e723f-293c-3646-fd77-da2c8842c71f
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoGradientStyle Enumeration (Office)
+# MsoGradientStyle enumeration (Office)
 
 Specifies the style for a gradient fill.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -25,3 +26,4 @@ Specifies the style for a gradient fill.
 |**msoGradientMixed**|-2|Gradient is mixed.|
 |**msoGradientVertical**|2|Gradient running vertically down the shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,15 +1,16 @@
 ---
-title: ProofreadingErrors Object (Word)
+title: ProofreadingErrors object (Word)
 keywords: vbawd10.chm2491
 f1_keywords:
 - vbawd10.chm2491
 ms.prod: word
 ms.assetid: 53fb6382-4c08-83f3-1835-ac2633939758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProofreadingErrors Object (Word)
+# ProofreadingErrors object (Word)
 
 A collection of spelling and grammatical errors for the specified document or range.
 
@@ -48,7 +49,7 @@ Set myRange = Selection.Range.GrammaticalErrors(1)
 Msgbox myRange.Text
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object. If all the words in the document or range are spelled correctly and are grammatically correct, the **Count** property for the **ProofreadingErrors** object returns 0 (zero) and the **SpellingChecked** and **GrammarChecked** properties return **True** .
+The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object. If all the words in the document or range are spelled correctly and are grammatically correct, the **Count** property for the **ProofreadingErrors** object returns 0 (zero) and the **SpellingChecked** and **GrammarChecked** properties return **True**.
 
 
  **Note**  There is no ProofreadingError object; instead, each item in the  **ProofreadingErrors** collection is a **Range** object that represents one spelling or grammatical error.
@@ -58,5 +59,6 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

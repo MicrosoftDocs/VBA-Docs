@@ -1,5 +1,5 @@
 ---
-title: Window Object (Word)
+title: Window object (Word)
 keywords: vbawd10.chm2402
 f1_keywords:
 - vbawd10.chm2402
@@ -8,10 +8,11 @@ api_name:
 - Word.Window
 ms.assetid: d92f83f9-ae44-56c0-4584-7a9359253c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window Object (Word)
+# Window object (Word)
 
 Represents a window. Many document characteristics, such as scroll bars and rulers, are actually properties of the window.
 
@@ -58,7 +59,7 @@ When you switch the view to print preview, a new window is created. This window 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Word.Window.Activate.md)|
 |[Close](Word.Window.Close.md)|
@@ -77,7 +78,7 @@ When you switch the view to print preview, a new window is created. This window 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](Word.Window.Active.md)|
 |[ActivePane](Word.Window.ActivePane.md)|
@@ -124,4 +125,6 @@ When you switch the view to print preview, a new window is created. This window 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

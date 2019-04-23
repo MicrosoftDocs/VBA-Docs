@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.Value Property (Publisher)
+title: WebCheckBox.Value property (Publisher)
 keywords: vbapb10.chm4325381
 f1_keywords:
 - vbapb10.chm4325381
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCheckBox.Value
 ms.assetid: 9fd50cd5-ecf3-30b7-c8a9-6b64b106eaec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCheckBox.Value Property (Publisher)
+# WebCheckBox.Value property (Publisher)
 
 Returns or sets a  **String** that represents the value of a Web check box or option button. Read/write.
 
 
 ## Syntax
 
- _expression_. **Value**
+_expression_.**Value**
 
  _expression_ A variable that represents a  **WebCheckBox** object.
 
@@ -42,4 +43,4 @@ Sub CreateWebButton()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

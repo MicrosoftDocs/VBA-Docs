@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.Value
 ms.assetid: 0c7e33c2-6d28-7d82-f016-57d6d47515d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the name of the specified it
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value that represents the name of the specified it
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

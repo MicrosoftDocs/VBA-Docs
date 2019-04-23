@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Replace Method (Publisher)
+title: PictureFormat.Replace method (Publisher)
 keywords: vbapb10.chm3604786
 f1_keywords:
 - vbapb10.chm3604786
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.Replace
 ms.assetid: b2bce79a-5c46-1473-601d-a4a25176edeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Replace Method (Publisher)
+# PictureFormat.Replace method (Publisher)
 
 Replaces the specified picture. Returns  **Nothing**.
 
 
 ## Syntax
 
- _expression_. **Replace**(**_Pathname_**,  **_InsertAs_**)
+_expression_.**Replace**(**_Pathname_**,  **_InsertAs_**)
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -110,4 +111,4 @@ Next pgLoop
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

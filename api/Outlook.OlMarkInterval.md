@@ -1,5 +1,5 @@
 ---
-title: OlMarkInterval Enumeration (Outlook)
+title: OlMarkInterval enumeration (Outlook)
 keywords: vbaol11.chm3115
 f1_keywords:
 - vbaol11.chm3115
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMarkInterval
 ms.assetid: a653146c-8a28-72dd-4ca7-98d8454c6f1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMarkInterval Enumeration (Outlook)
+# OlMarkInterval enumeration (Outlook)
 
 Specifies the time period for which an Outlook item is marked as a task.
 
@@ -54,3 +55,4 @@ Depending on the value chosen, the following properties are set to the specified
 | **olMarkToday**| **IsMarkedAsTask** is set to **True**. **TaskSubject** is set to the value of the **Subject** property for the Outlook item. **TaskStartDate** and **TaskDueDate** are set to the current date. **TaskCompletedDate** is set to the empty date value (#1/1/4501#). **ToDoTaskOrdinal** is set to the current date and time (**Now** in Visual Basic).|
 | **olMarkTomorrow**| **IsMarkedAsTask** is set to **True**. **TaskSubject** is set to the value of the **Subject** property for the Outlook item. **TaskStartDate** and **TaskDueDate** are set to one day after the current date. **TaskCompletedDate** is set to the empty date value (#1/1/4501#). **ToDoTaskOrdinal** is set to the current date and time (**Now** in Visual Basic).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlTaskStatus Enumeration (Outlook)
+title: OlTaskStatus enumeration (Outlook)
 keywords: vbaol11.chm3087
 f1_keywords:
 - vbaol11.chm3087
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlTaskStatus
 ms.assetid: 99ff6947-b53d-9cbc-cbe7-726de6ed93ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlTaskStatus Enumeration (Outlook)
+# OlTaskStatus enumeration (Outlook)
 
 Indicates the task status.
 
@@ -27,6 +28,6 @@ Indicates the task status.
 
 ## Remarks
 
-Used by the [TaskItem.Status Property (Outlook)](Outlook.TaskItem.Status.md).
+Used by the [TaskItem.Status property (Outlook)](Outlook.TaskItem.Status.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Publisher)
+title: Application.ScreenUpdating property (Publisher)
 keywords: vbapb10.chm131107
 f1_keywords:
 - vbapb10.chm131107
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.ScreenUpdating
 ms.assetid: d265b4fb-1452-91a5-32fe-0cad54c8f29c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ScreenUpdating Property (Publisher)
+# Application.ScreenUpdating property (Publisher)
 
 Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
 
 
 ## Syntax
 
- _expression_. **ScreenUpdating**
+_expression_.**ScreenUpdating**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -54,3 +55,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.MouseMove Event (Outlook)
+title: OlkCommandButton.MouseMove event (Outlook)
 keywords: vbaol11.chm1000123
 f1_keywords:
 - vbaol11.chm1000123
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCommandButton.MouseMove
 ms.assetid: 2d489bea-a8b9-bcbc-045e-696d6ef46f1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCommandButton.MouseMove Event (Outlook)
+# OlkCommandButton.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

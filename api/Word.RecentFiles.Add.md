@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Add Method (Word)
+title: RecentFiles.Add method (Word)
 keywords: vbawd10.chm157483011
 f1_keywords:
 - vbawd10.chm157483011
@@ -8,19 +8,20 @@ api_name:
 - Word.RecentFiles.Add
 ms.assetid: 6d20df76-9a7a-be22-2c11-44f328dee13a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFiles.Add Method (Word)
+# RecentFiles.Add method (Word)
 
 Returns a  **RecentFile** object that represents a file added to the list of recently used files.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Document_` , `_ReadOnly_` )
+_expression_.**Add**( `_Document_` , `_ReadOnly_` )
 
- _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
+_expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ End If
 
 [RecentFiles Collection Object](Word.recentfiles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

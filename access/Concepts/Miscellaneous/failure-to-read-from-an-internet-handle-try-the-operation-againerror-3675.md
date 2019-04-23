@@ -3,6 +3,7 @@ title: Failure to read from an internet handle. Try the operation again. (Error 
 ms.prod: access
 ms.assetid: fa758550-6476-152c-30b7-76c0dd980e6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ An internet error occurred when reading a file or reading a response from an int
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

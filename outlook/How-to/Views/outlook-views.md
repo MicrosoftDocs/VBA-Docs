@@ -3,6 +3,7 @@ title: Outlook Views
 ms.prod: outlook
 ms.assetid: cbaa3192-6c27-26c0-ebd6-f6489c2e812e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,4 @@ You can use the  **[Remove](../../../api/Outlook.Views.Remove.md)** method of th
 Once a view is defined, you can customize the view programmatically by casting the  **View** object to one of the derived view objects, such as the **BusinessCardView** object, and performing whatever changes are needed. Use the **[Save](../../../api/Outlook.View.Save.md)** method of the derived view object or the **View** object to save any changes to the view.
 You can apply the view, once defined and customized, to the current  **[Explorer](../../../api/Outlook.Explorer.md)** object by using the **[Apply](../../../api/Outlook.View.Apply.md)** method of the derived view object or the **View** object. Applying a view raises the **[ViewSwitch](../../../api/Outlook.Explorer.ViewSwitch.md)** event of the **Explorer** object.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

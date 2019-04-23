@@ -1,5 +1,5 @@
 ---
-title: FileDialogSelectedItems Object (Office)
+title: FileDialogSelectedItems object (Office)
 keywords: vbaof11.chm253000
 f1_keywords:
 - vbaof11.chm253000
@@ -7,18 +7,19 @@ ms.prod: office
 api_name:
 - Office.FileDialogSelectedItems
 ms.assetid: a72b1d99-8881-0a5f-9814-3e1b8360d011
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialogSelectedItems Object (Office)
+# FileDialogSelectedItems object (Office)
 
-A collection of  **String** values that correspond to the paths of the files or folders that a user has selected from a file dialog box displayed through the **FileDialog** object.
+A collection of **String** values that correspond to the paths of the files or folders that a user has selected from a file dialog box displayed through the **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Example
 
-Use the  **SelectedItems** property with the **FileDialog** object to return a **FileDialogSelectedItems** collection. The following example displays a **File Picker** dialog box and displays each selected file in a message box.
+Use the **[SelectedItems](office.filedialog.selecteditems.md)** property of the **FileDialog** object to return a **FileDialogSelectedItems** collection. The following example displays a **File Picker** dialog box and displays each selected file in a message box.
 
 
 ```vb
@@ -67,29 +68,9 @@ End Sub
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Item](Office.FileDialogSelectedItems.Item.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.FileDialogSelectedItems.Application.md)|
-|[Count](Office.FileDialogSelectedItems.Count.md)|
-|[Creator](Office.FileDialogSelectedItems.Creator.md)|
-|[Parent](Office.FileDialogSelectedItems.Parent.md)|
-
 ## See also
 
+- [FileDialogSelectedItems object members](overview/library-reference/filedialogselecteditems-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

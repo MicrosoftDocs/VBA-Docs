@@ -1,14 +1,15 @@
 ---
-title: WdOutlineLevel Enumeration (Word)
+title: WdOutlineLevel enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOutlineLevel
 ms.assetid: 44a38f7e-355c-3ff3-1408-0972f20778d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdOutlineLevel Enumeration (Word)
+# WdOutlineLevel enumeration (Word)
 
 Specifies the outline level to apply to a paragraph.
 
@@ -27,3 +28,4 @@ Specifies the outline level to apply to a paragraph.
 | **wdOutlineLevel9**|9|Outline level 9.|
 | **wdOutlineLevelBodyText**|10|No outline level.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

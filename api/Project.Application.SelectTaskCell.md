@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskCell Method (Project)
+title: Application.SelectTaskCell method (Project)
 keywords: vbapj.chm2068
 f1_keywords:
 - vbapj.chm2068
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectTaskCell
 ms.assetid: 824be785-faa8-b274-bc4c-b830f828528d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectTaskCell Method (Project)
+# Application.SelectTaskCell method (Project)
 
 Selects a cell containing task information.
 
 
 ## Syntax
 
- _expression_. `SelectTaskCell`( ` _Row_`, ` _Column_`, ` _RowRelative_` )
+_expression_. `SelectTaskCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Selects a cell containing task information.
 
 Using the  **SelectTaskCell** method without specifying any arguments retains the current cell as the active cell. The **SelectTaskCell** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

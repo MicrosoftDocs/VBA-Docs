@@ -1,5 +1,5 @@
 ---
-title: NameSpace.PickFolder Method (Outlook)
+title: NameSpace.PickFolder method (Outlook)
 keywords: vbaol11.chm768
 f1_keywords:
 - vbaol11.chm768
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.PickFolder
 ms.assetid: f5c1f35a-8e77-8e7f-fcbe-30c6bc90287a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.PickFolder Method (Outlook)
+# NameSpace.PickFolder method (Outlook)
 
 Displays the  **Pick Folder** dialog box.
 
 
 ## Syntax
 
- _expression_. `PickFolder`
+_expression_. `PickFolder`
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **Pick Folder** dialog box is a modal dialog box which means that code exec
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

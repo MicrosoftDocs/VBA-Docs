@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1229337c-b22d-e0ce-2492-c893bda4c8d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ The [property](../../Glossary/vbe-glossary.md#property) can't be read. This erro
 
 
 - A property can't be read; for example,  `ctl.property = 3` might be legal, but " `Printctl.property`" would generate this error. Change your code and remove the reference to the property.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

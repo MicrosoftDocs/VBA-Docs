@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkAxes.Vertical
 ms.assetid: fba4852b-3477-aaa4-9b56-7bbe4abacd98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object for the 
 
 ## Syntax
 
- _expression_. `Vertical`
+_expression_. `Vertical`
 
- _expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
+_expression_ A variable that represents a [SparkAxes](Excel.SparkAxes.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the  **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object for the 
 
 [SparkAxes Object](Excel.SparkAxes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

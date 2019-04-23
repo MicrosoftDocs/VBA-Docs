@@ -1,5 +1,5 @@
 ---
-title: Document.CountNumberedItems Method (Word)
+title: Document.CountNumberedItems method (Word)
 keywords: vbawd10.chm158007438
 f1_keywords:
 - vbawd10.chm158007438
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CountNumberedItems
 ms.assetid: b35face4-9d35-2071-90e1-628e7eca04fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CountNumberedItems Method (Word)
+# Document.CountNumberedItems method (Word)
 
 Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **Document** object.
 
 
 ## Syntax
 
- _expression_. `CountNumberedItems`( `_NumberType_` , `_Level_` )
+_expression_. `CountNumberedItems`( `_NumberType_` , `_Level_` )
 
- _expression_ An expression that represents a '[Document](Word.Document.md)' object.
+ _expression_ An expression that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _NumberType_|Optional| **Variant**|The type of numbers to be counted. Can be one of the  **WdNumberType** constants. The default value is **wdNumberAllNumbers** .|
+| _NumberType_|Optional| **Variant**|The type of numbers to be counted. Can be one of the  **WdNumberType** constants. The default value is **wdNumberAllNumbers**.|
 | _Level_|Optional| **Variant**|A number that corresponds to the numbering level you want to count. If this argument is omitted, all levels are counted.|
 
 ## Remarks
@@ -44,3 +45,4 @@ There are two types of numbers: preset numbers (**wdNumberParagraph**), which yo
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

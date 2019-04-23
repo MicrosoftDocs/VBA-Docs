@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Creator Property (Word)
+title: InlineShape.Creator property (Word)
 keywords: vbawd10.chm162005993
 f1_keywords:
 - vbawd10.chm162005993
@@ -8,19 +8,20 @@ api_name:
 - Word.InlineShape.Creator
 ms.assetid: d5b0d826-d7f3-bc6f-6b9a-5619239b60ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.Creator Property (Word)
+# InlineShape.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

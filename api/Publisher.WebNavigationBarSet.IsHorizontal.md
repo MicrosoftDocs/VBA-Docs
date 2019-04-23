@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.IsHorizontal Property (Publisher)
+title: WebNavigationBarSet.IsHorizontal property (Publisher)
 keywords: vbapb10.chm8519686
 f1_keywords:
 - vbapb10.chm8519686
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.IsHorizontal
 ms.assetid: d3bbb0b0-8d06-7d46-1ef7-fef0a3e846b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.IsHorizontal Property (Publisher)
+# WebNavigationBarSet.IsHorizontal property (Publisher)
 
  **True** if the specified **WebNavigationBarSet** has a horizontal orientation. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsHorizontal**
+_expression_.**IsHorizontal**
 
  _expression_ A variable that represents an  **WebNavigationBarSet** object.
 
@@ -52,4 +53,4 @@ With objWebNav
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

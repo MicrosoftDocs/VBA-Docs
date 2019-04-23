@@ -1,5 +1,5 @@
 ---
-title: AddIn.Path Property (Word)
+title: AddIn.Path property (Word)
 keywords: vbawd10.chm159252483
 f1_keywords:
 - vbawd10.chm159252483
@@ -8,17 +8,18 @@ api_name:
 - Word.AddIn.Path
 ms.assetid: 0c9150fe-a57f-85d5-275b-a45916c35f76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIn.Path Property (Word)
+# AddIn.Path property (Word)
 
-Returns the location of an installed add-in. Read-only  **String** .
+Returns the location of an installed add-in. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
  _expression_ An expression that returns an '[AddIn](Word.AddIn.md)' object.
 
@@ -46,3 +47,4 @@ If AddIns.Count >= 1 Then MsgBox AddIns(1).Path
 
 [AddIn Object](Word.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

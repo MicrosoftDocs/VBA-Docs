@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsExceptions.Add Method (Word)
+title: TwoInitialCapsExceptions.Add method (Word)
 keywords: vbawd10.chm155451493
 f1_keywords:
 - vbawd10.chm155451493
@@ -8,19 +8,20 @@ api_name:
 - Word.TwoInitialCapsExceptions.Add
 ms.assetid: 46aa7bea-ada5-63a8-1461-5c0a058a0981
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TwoInitialCapsExceptions.Add Method (Word)
+# TwoInitialCapsExceptions.Add method (Word)
 
 Returns a  **TwoInitialCapsException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
+_expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ TwoInitialCapsException
 
 ## Remarks
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions.
+If the  **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions.
 
 
 ## Example
@@ -74,3 +75,4 @@ AutoCorrect.OtherCorrectionsExceptions.Add Name:="myCompany"
 
 [TwoInitialCapsExceptions Collection Object](Word.twoinitialcapsexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

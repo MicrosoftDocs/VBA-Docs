@@ -1,14 +1,15 @@
 ---
-title: WdKey Enumeration (Word)
+title: WdKey enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdKey
 ms.assetid: d7b986df-c47e-f608-6454-dfe2e7b8bfff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdKey Enumeration (Word)
+# WdKey enumeration (Word)
 
 Specifies a keyboard character. Although uppercase and lowercase characters are designated by using different values in a character encoding map, they share a single constant in this enumeration.
 
@@ -115,3 +116,4 @@ Specifies a keyboard character. Although uppercase and lowercase characters are 
 | **wdKeyZ**|90|The Z key.|
 | **wdNoKey**|255|No key.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

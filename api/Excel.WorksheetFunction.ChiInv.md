@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiInv Method (Excel)
+title: WorksheetFunction.ChiInv method (Excel)
 keywords: vbaxl10.chm137179
 f1_keywords:
 - vbaxl10.chm137179
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.ChiInv
 ms.assetid: 10b89d77-bc9f-80b0-dc31-f90c50f7e580
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ChiInv Method (Excel)
+# WorksheetFunction.ChiInv method (Excel)
 
 Returns the inverse of the one-tailed probability of the chi-squared distribution.
 
@@ -22,9 +23,9 @@ For more information about the new functions, see the [ChiSq_Inv_RT](Excel.Works
 
 ## Syntax
 
- _expression_. `ChiInv`( `_Arg1_` , `_Arg2_` )
+_expression_. `ChiInv`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ Given a value for probability, ChiInv seeks that value x such that ChiDist(x, de
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

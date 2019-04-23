@@ -1,5 +1,5 @@
 ---
-title: Application.OutlineShowTasks Method (Project)
+title: Application.OutlineShowTasks method (Project)
 keywords: vbapj.chm27
 f1_keywords:
 - vbapj.chm27
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.OutlineShowTasks
 ms.assetid: 614eb1fc-93eb-3df2-ae52-4fad98c80b3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OutlineShowTasks Method (Project)
+# Application.OutlineShowTasks method (Project)
 
 Expands an outline to show all tasks up to the specified level and collapses any levels below.
 
 
 ## Syntax
 
- _expression_. `OutlineShowTasks`( ` _OutlineNumber_`, ` _ExpandInsertedProjects_` )
+_expression_. `OutlineShowTasks`( `_OutlineNumber_`, `_ExpandInsertedProjects_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -48,4 +49,4 @@ Sub CollapseOutline()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

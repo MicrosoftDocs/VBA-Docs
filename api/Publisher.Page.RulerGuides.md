@@ -1,5 +1,5 @@
 ---
-title: Page.RulerGuides Property (Publisher)
+title: Page.RulerGuides property (Publisher)
 keywords: vbapb10.chm393225
 f1_keywords:
 - vbapb10.chm393225
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.RulerGuides
 ms.assetid: 69605642-7722-0721-cb07-d33689eda9ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.RulerGuides Property (Publisher)
+# Page.RulerGuides property (Publisher)
 
 Returns a  **[RulerGuides](Publisher.RulerGuides.md)** collection that represents gridlines used to align objects on a page.
 
 
 ## Syntax
 
- _expression_. **RulerGuides**
+_expression_.**RulerGuides**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -51,4 +52,4 @@ Sub SetRulerGuides()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

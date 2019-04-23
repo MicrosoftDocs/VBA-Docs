@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Phonetic Method (Excel)
+title: WorksheetFunction.Phonetic method (Excel)
 keywords: vbaxl10.chm137248
 f1_keywords:
 - vbaxl10.chm137248
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Phonetic
 ms.assetid: a1da7aa0-f913-e64b-8863-212f8a4e261d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Phonetic Method (Excel)
+# WorksheetFunction.Phonetic method (Excel)
 
 Extracts the phonetic (furigana) characters from a text string.
 
 
 ## Syntax
 
- _expression_. `Phonetic`( `_Arg1_` )
+_expression_. `Phonetic`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

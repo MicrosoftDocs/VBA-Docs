@@ -1,14 +1,15 @@
 ---
-title: xlErrorBarDirection Enumeration (PowerPoint)
+title: XlErrorBarDirection enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlErrorBarDirection
 ms.assetid: dde32437-fc46-0a20-f2b8-1f547ac15bff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorBarDirection Enumeration (PowerPoint)
+# XlErrorBarDirection enumeration (PowerPoint)
 
 Specifies which axis values are to receive error bars.
 
@@ -19,3 +20,4 @@ Specifies which axis values are to receive error bars.
 |**xlChartX**|-4168|Bars run parallel to the y-axis for x-axis values.|
 |**xlChartY**|1|Bars run parallel to the x-axis for y-axis values.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

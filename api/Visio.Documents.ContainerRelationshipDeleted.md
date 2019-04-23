@@ -1,5 +1,5 @@
 ---
-title: Documents.ContainerRelationshipDeleted Event (Visio)
+title: Documents.ContainerRelationshipDeleted event (Visio)
 keywords: vis_sdr.chm10662070
 f1_keywords:
 - vis_sdr.chm10662070
@@ -8,10 +8,11 @@ api_name:
 - Visio.Documents.ContainerRelationshipDeleted
 ms.assetid: 1804110e-091f-f864-461a-8545338c4883
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.ContainerRelationshipDeleted Event (Visio)
+# Documents.ContainerRelationshipDeleted event (Visio)
 
 Occurs when a container relationship is deleted from the document.
 
@@ -39,4 +40,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **[Event](Visio.Event.md)** objects, use the **[EventList.Add](Visio.EventList.Add.md)** or **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method. To create an **Event** object that runs an add-on, use the **EventList.Add** method. To create an **Event** object that receives notification, use the **EventList.AddAdvise** method. To find an event code for the event you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

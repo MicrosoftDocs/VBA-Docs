@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Paste Method (Excel)
+title: Worksheet.Paste method (Excel)
 keywords: vbaxl10.chm175115
 f1_keywords:
 - vbaxl10.chm175115
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Paste
 ms.assetid: 65561666-7a47-29d6-2a5d-b5de642a064f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Paste Method (Excel)
+# Worksheet.Paste method (Excel)
 
 Pastes the contents of the Clipboard onto the sheet.
 
 
 ## Syntax
 
- _expression_. `Paste`( `_Destination_` , `_Link_` )
+_expression_.**Paste** (_Destination_, _Link_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Pastes the contents of the Clipboard onto the sheet.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|A  **Range** object that specifies where the Clipboard contents should be pasted. If this argument is omitted, the current selection is used. This argument can be specified only if the contents of the Clipboard can be pasted into a range. If this argument is specified, the _Link_ argument cannot be used.|
-| _Link_|Optional| **Variant**| **True** to establish a link to the source of the pasted data. If this argument is specified, the _Destination_ argument cannot be used. The default value is **False** .|
+| _Link_|Optional| **Variant**| **True** to establish a link to the source of the pasted data. If this argument is specified, the _Destination_ argument cannot be used. The default value is **False**.|
 
 ## Remarks
 
@@ -55,3 +56,4 @@ ActiveSheet.Paste Destination:=Worksheets("Sheet1").Range("D1:D5")
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

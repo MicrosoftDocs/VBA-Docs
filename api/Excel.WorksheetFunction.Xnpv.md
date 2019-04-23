@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Xnpv Method (Excel)
+title: WorksheetFunction.Xnpv method (Excel)
 keywords: vbaxl10.chm137307
 f1_keywords:
 - vbaxl10.chm137307
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Xnpv
 ms.assetid: db61e7a8-70c2-9e32-48dd-adddcbc886b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Xnpv Method (Excel)
+# WorksheetFunction.Xnpv method (Excel)
 
-Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write  **Double** .
+Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Xnpv`( `_Arg1_` , `_Arg2_` )
+_expression_. `Xnpv`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -42,7 +43,7 @@ Double
 To calculate the net present value for a series of cash flows that is periodic, use the  **[Npv](Excel.WorksheetFunction.Npv.md)** method.
 
 
- **Important**  The  **Xnpv** method does not provide a parameter that corresponds to the _rate_ argument required by the corresponding **XNPV** function (=XNPV(**_rate_** , _values_ , _dates_ )). To work around this limitation in VBA code, instead of using the **Xpnv** method, call the **XNPV** function by using the **[Evaluate](Excel.Application.Evaluate.md)** method as shown in the following example.
+ **Important**  The  **Xnpv** method does not provide a parameter that corresponds to the _rate_ argument required by the corresponding **XNPV** function (=XNPV(**_rate_**, _values_ , _dates_ )). To work around this limitation in VBA code, instead of using the **Xpnv** method, call the **XNPV** function by using the **[Evaluate](Excel.Application.Evaluate.md)** method as shown in the following example.
 
 
 ## Example
@@ -61,3 +62,4 @@ npv = Application.Evaluate("=XNPV(.09,A2:A6,B2:B6)")
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

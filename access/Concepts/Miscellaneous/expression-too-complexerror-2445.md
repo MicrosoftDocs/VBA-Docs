@@ -3,6 +3,7 @@ title: Expression too complex. (Error 2445)
 ms.prod: access
 ms.assetid: 1bf7264a-1913-54c2-684a-40476303f5eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This expression is too complex for the Microsoft Access database engine. Try to 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

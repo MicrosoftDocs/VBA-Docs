@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.MarkForDownload Property (Outlook)
+title: RemoteItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1628
 f1_keywords:
 - vbaol11.chm1628
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RemoteItem.MarkForDownload
 ms.assetid: 1edfec8a-511f-6e0a-df6c-f6602c1d3d0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RemoteItem.MarkForDownload Property (Outlook)
+# RemoteItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 
 
 ## Syntax
 
- _expression_. `MarkForDownload`
+_expression_. `MarkForDownload`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

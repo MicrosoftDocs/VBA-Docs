@@ -3,6 +3,7 @@ title: Best Practices for Getting and Setting Properties
 ms.prod: outlook
 ms.assetid: ec087bf8-cfac-9b20-3cb2-3bd308c5c63d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -52,5 +53,5 @@ This section describes the best practices for keeping type conversion simple whe
 - When getting or setting a property using a reference in the MAPI proptag namespace, make sure that the type specified in the proptag matches the underlying type of the property. Except for the case of a  **PT_STRING8** property where you can specify either a type of 001E or 001F in the proptag to get or set the property as a **VT_BSTR**, getting or setting a property does not involve any type coercion and an error will be returned if there is a type mismatch.
     
 - When setting a property, it may be less restrictive to use a property reference in the MAPI string namespace than one in the MAPI proptag namespace. Specifying the property in the MAPI string namespace does not strictly require the value to match the underlying type of the property. For example, you can pass a string value like  **VT_BSTR** to set a date-time property such as **PT_SYSTIME**, and the type of the property becomes the type of the value, which is  **VT_BSTR**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Creator Property (Word)
+title: DisplayUnitLabel.Creator property (Word)
 keywords: vbawd10.chm94568597
 f1_keywords:
 - vbawd10.chm94568597
@@ -8,17 +8,18 @@ api_name:
 - Word.DisplayUnitLabel.Creator
 ms.assetid: 91197a0c-026a-6069-8739-d5b7627092a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.Creator Property (Word)
+# DisplayUnitLabel.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

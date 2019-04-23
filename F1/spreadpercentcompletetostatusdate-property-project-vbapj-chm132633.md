@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1e556607-28fc-4702-9c8a-63a6764b15da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Table.Delete Method (Project)](http://msdn.microsoft.com/library/9a85b66b-5124-529c-84b6-306789cb6986%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

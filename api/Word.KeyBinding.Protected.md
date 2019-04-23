@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Protected Property (Word)
+title: KeyBinding.Protected property (Word)
 keywords: vbawd10.chm160956419
 f1_keywords:
 - vbawd10.chm160956419
@@ -8,17 +8,18 @@ api_name:
 - Word.KeyBinding.Protected
 ms.assetid: 7f56f218-178d-5c98-9c6b-05d228e48ff3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.Protected Property (Word)
+# KeyBinding.Protected property (Word)
 
- **True** if you cannot change the specified key binding in the **Customize Keyboard** dialog box. Read-only **Boolean** .
+ **True** if you cannot change the specified key binding in the **Customize Keyboard** dialog box. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Protected`
+_expression_. `Protected`
 
  _expression_ An expression that returns a '[KeyBinding](Word.KeyBinding.md)' object.
 
@@ -58,3 +59,4 @@ End If
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: b747ff33-3e84-480c-bcd8-3b5e7d0e063d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,7 +25,7 @@ The  **Wait For Post Processing** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**Yes**|Wait until processing of any operations triggered by a user change to form data is complete before proceeding with the next operation.|
 |**No**|(Default) Does not wait until processing of any operations triggered by a user change to form data is complete before proceeding with the next operation.|
@@ -41,3 +42,5 @@ This property is designed to work with Access 2010 web databases only. When this
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

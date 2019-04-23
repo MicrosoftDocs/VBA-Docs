@@ -1,5 +1,5 @@
 ---
-title: Style.Description Property (Word)
+title: Style.Description property (Word)
 keywords: vbawd10.chm153878530
 f1_keywords:
 - vbawd10.chm153878530
@@ -8,24 +8,25 @@ api_name:
 - Word.Style.Description
 ms.assetid: fec1fa70-7080-e159-b20c-1a389cbaf903
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.Description Property (Word)
+# Style.Description property (Word)
 
-Returns the description of the specified style. Read-only  **String** .
+Returns the description of the specified style. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
  _expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks
 
-A typical example of a descirption for a style might be "Normal + Font: Arial, 12 pt, Bold, Italic, Space Before 12 pt After 3 pt, KeepWithNext, Level 2."
+A typical example of a description for a style might be "Normal + Font: Arial, 12 pt, Bold, Italic, Space Before 12 pt After 3 pt, KeepWithNext, Level 2."
 
 
 ## Example
@@ -56,3 +57,4 @@ Next styleLoop
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

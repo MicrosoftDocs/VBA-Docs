@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser Object (Outlook)
+title: ExchangeUser object (Outlook)
 keywords: vbaol11.chm3158
 f1_keywords:
 - vbaol11.chm3158
@@ -8,10 +8,11 @@ api_name:
 - Outlook.ExchangeUser
 ms.assetid: 6ec117d1-7fdb-aa36-b567-1242f8238df0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeUser Object (Outlook)
+# ExchangeUser object (Outlook)
 
 Provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md)** that represents a Microsoft Exchange mailbox user.
 
@@ -20,7 +21,7 @@ Provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md
 
  **ExchangeUser** is derived from the **AddressEntry** object, and is returned instead of an **AddressEntry** when the caller performs a query interface on the **AddressEntry** object.
 
-This object provides first-class access to properties applicable to Exchange users such as  **[FirstName](./Outlook.ExchangeUser.FirstName.md)**, **[JobTitle](./Outlook.ExchangeUser.JobTitle.md)**, **[LastName](./Outlook.ExchangeUser.LastName.md)**, and **[OfficeLocation](./Outlook.ExchangeUser.OfficeLocation.md)**. You can also access other properties specific to the Exchange user that are not exposed in the object model through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Note that some of the explicit built-in properties are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](./Outlook.ExchangeUser.Update.md)** method will result in a "permission denied" error.
+This object provides first-class access to properties applicable to Exchange users such as  **[FirstName](Outlook.ExchangeUser.FirstName.md)**, **[JobTitle](Outlook.ExchangeUser.JobTitle.md)**, **[LastName](Outlook.ExchangeUser.LastName.md)**, and **[OfficeLocation](Outlook.ExchangeUser.OfficeLocation.md)**. You can also access other properties specific to the Exchange user that are not exposed in the object model through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Note that some of the explicit built-in properties are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](Outlook.ExchangeUser.Update.md)** method will result in a "permission denied" error.
 
 
 ## Example
@@ -81,64 +82,66 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Delete](./Outlook.ExchangeUser.Delete.md)|
-|[Details](./Outlook.ExchangeUser.Details.md)|
-|[GetContact](./Outlook.ExchangeUser.GetContact.md)|
-|[GetDirectReports](./Outlook.ExchangeUser.GetDirectReports.md)|
-|[GetExchangeDistributionList](./Outlook.ExchangeUser.GetExchangeDistributionList.md)|
-|[GetExchangeUser](./Outlook.ExchangeUser.GetExchangeUser.md)|
-|[GetExchangeUserManager](./Outlook.ExchangeUser.GetExchangeUserManager.md)|
-|[GetFreeBusy](./Outlook.ExchangeUser.GetFreeBusy.md)|
-|[GetMemberOfList](./Outlook.ExchangeUser.GetMemberOfList.md)|
-|[GetPicture](./Outlook.ExchangeUser.GetPicture.md)|
-|[Update](./Outlook.ExchangeUser.Update.md)|
-|[GetUnifiedGroup](./Outlook.exchangeuser.getunifiedgroup.md)|
-|[GetUnifiedGroupFromStore](./Outlook.exchangeuser.getunifiedgroupfromstore.md)|
-|[IsUnifiedGroup](./Outlook.exchangeuser.isunifiedgroup.md)|
+|[Delete](Outlook.ExchangeUser.Delete.md)|
+|[Details](Outlook.ExchangeUser.Details.md)|
+|[GetContact](Outlook.ExchangeUser.GetContact.md)|
+|[GetDirectReports](Outlook.ExchangeUser.GetDirectReports.md)|
+|[GetExchangeDistributionList](Outlook.ExchangeUser.GetExchangeDistributionList.md)|
+|[GetExchangeUser](Outlook.ExchangeUser.GetExchangeUser.md)|
+|[GetExchangeUserManager](Outlook.ExchangeUser.GetExchangeUserManager.md)|
+|[GetFreeBusy](Outlook.ExchangeUser.GetFreeBusy.md)|
+|[GetMemberOfList](Outlook.ExchangeUser.GetMemberOfList.md)|
+|[GetPicture](Outlook.ExchangeUser.GetPicture.md)|
+|[Update](Outlook.ExchangeUser.Update.md)|
+|[GetUnifiedGroup](Outlook.exchangeuser.getunifiedgroup.md)|
+|[GetUnifiedGroupFromStore](Outlook.exchangeuser.getunifiedgroupfromstore.md)|
+|[IsUnifiedGroup](Outlook.exchangeuser.isunifiedgroup.md)|
 
 ## Properties
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Address](./Outlook.ExchangeUser.Address.md)|
-|[AddressEntryUserType](./Outlook.ExchangeUser.AddressEntryUserType.md)|
-|[Alias](./Outlook.ExchangeUser.Alias.md)|
-|[Application](./Outlook.ExchangeUser.Application.md)|
-|[AssistantName](./Outlook.ExchangeUser.AssistantName.md)|
-|[BusinessTelephoneNumber](./Outlook.ExchangeUser.BusinessTelephoneNumber.md)|
-|[City](./Outlook.ExchangeUser.City.md)|
-|[Class](./Outlook.ExchangeUser.Class.md)|
-|[Comments](./Outlook.ExchangeUser.Comments.md)|
-|[CompanyName](./Outlook.ExchangeUser.CompanyName.md)|
-|[Department](./Outlook.ExchangeUser.Department.md)|
-|[DisplayType](./Outlook.ExchangeUser.DisplayType.md)|
-|[FirstName](./Outlook.ExchangeUser.FirstName.md)|
-|[ID](./Outlook.ExchangeUser.ID.md)|
-|[JobTitle](./Outlook.ExchangeUser.JobTitle.md)|
-|[LastName](./Outlook.ExchangeUser.LastName.md)|
-|[MobileTelephoneNumber](./Outlook.ExchangeUser.MobileTelephoneNumber.md)|
-|[Name](./Outlook.ExchangeUser.Name.md)|
-|[OfficeLocation](./Outlook.ExchangeUser.OfficeLocation.md)|
-|[Parent](./Outlook.ExchangeUser.Parent.md)|
-|[PostalCode](./Outlook.ExchangeUser.PostalCode.md)|
-|[PrimarySmtpAddress](./Outlook.ExchangeUser.PrimarySmtpAddress.md)|
-|[PropertyAccessor](./Outlook.ExchangeUser.PropertyAccessor.md)|
-|[Session](./Outlook.ExchangeUser.Session.md)|
-|[StateOrProvince](./Outlook.ExchangeUser.StateOrProvince.md)|
-|[StreetAddress](./Outlook.ExchangeUser.StreetAddress.md)|
-|[Type](./Outlook.ExchangeUser.Type.md)|
-|[YomiCompanyName](./Outlook.ExchangeUser.YomiCompanyName.md)|
-|[YomiDepartment](./Outlook.ExchangeUser.YomiDepartment.md)|
-|[YomiDisplayName](./Outlook.ExchangeUser.YomiDisplayName.md)|
-|[YomiFirstName](./Outlook.ExchangeUser.YomiFirstName.md)|
-|[YomiLastName](./Outlook.ExchangeUser.YomiLastName.md)|
+|[Address](Outlook.ExchangeUser.Address.md)|
+|[AddressEntryUserType](Outlook.ExchangeUser.AddressEntryUserType.md)|
+|[Alias](Outlook.ExchangeUser.Alias.md)|
+|[Application](Outlook.ExchangeUser.Application.md)|
+|[AssistantName](Outlook.ExchangeUser.AssistantName.md)|
+|[BusinessTelephoneNumber](Outlook.ExchangeUser.BusinessTelephoneNumber.md)|
+|[City](Outlook.ExchangeUser.City.md)|
+|[Class](Outlook.ExchangeUser.Class.md)|
+|[Comments](Outlook.ExchangeUser.Comments.md)|
+|[CompanyName](Outlook.ExchangeUser.CompanyName.md)|
+|[Department](Outlook.ExchangeUser.Department.md)|
+|[DisplayType](Outlook.ExchangeUser.DisplayType.md)|
+|[FirstName](Outlook.ExchangeUser.FirstName.md)|
+|[ID](Outlook.ExchangeUser.ID.md)|
+|[JobTitle](Outlook.ExchangeUser.JobTitle.md)|
+|[LastName](Outlook.ExchangeUser.LastName.md)|
+|[MobileTelephoneNumber](Outlook.ExchangeUser.MobileTelephoneNumber.md)|
+|[Name](Outlook.ExchangeUser.Name.md)|
+|[OfficeLocation](Outlook.ExchangeUser.OfficeLocation.md)|
+|[Parent](Outlook.ExchangeUser.Parent.md)|
+|[PostalCode](Outlook.ExchangeUser.PostalCode.md)|
+|[PrimarySmtpAddress](Outlook.ExchangeUser.PrimarySmtpAddress.md)|
+|[PropertyAccessor](Outlook.ExchangeUser.PropertyAccessor.md)|
+|[Session](Outlook.ExchangeUser.Session.md)|
+|[StateOrProvince](Outlook.ExchangeUser.StateOrProvince.md)|
+|[StreetAddress](Outlook.ExchangeUser.StreetAddress.md)|
+|[Type](Outlook.ExchangeUser.Type.md)|
+|[YomiCompanyName](Outlook.ExchangeUser.YomiCompanyName.md)|
+|[YomiDepartment](Outlook.ExchangeUser.YomiDepartment.md)|
+|[YomiDisplayName](Outlook.ExchangeUser.YomiDisplayName.md)|
+|[YomiFirstName](Outlook.ExchangeUser.YomiFirstName.md)|
+|[YomiLastName](Outlook.ExchangeUser.YomiLastName.md)|
 
 ## See also
 
 
-[ExchangeUser Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[ExchangeUser Object Members](overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

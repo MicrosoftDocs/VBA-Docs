@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Open Method (Excel)
+title: ProtectedViewWindows.Open method (Excel)
 keywords: vbaxl10.chm913077
 f1_keywords:
 - vbaxl10.chm913077
@@ -8,19 +8,20 @@ api_name:
 - Excel.ProtectedViewWindows.Open
 ms.assetid: bb003d53-949e-842a-f6f1-3ca30f396837
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindows.Open Method (Excel)
+# ProtectedViewWindows.Open method (Excel)
 
-Opens the specified workbook in a new  **Protected View** window.
+Opens the specified workbook in a new Protected View window.
 
 
 ## Syntax
 
- _expression_. `Open`( `_Filename_` , `_Password_` , `_AddToMru_` , `_RepairMode_` )
+_expression_. `Open`( `_FileName_` , `_Password_` , `_AddToMru_` , `_RepairMode_` )
 
- _expression_ A variable that represents a '[ProtectedViewWindows](Excel.ProtectedViewWindows.md)' object.
+_expression_ A variable that represents a '[ProtectedViewWindows](Excel.ProtectedViewWindows.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Opens the specified workbook in a new  **Protected View** window.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the workbook (paths are accepted).|
+| _FileName_|Required| **String**|The name of the workbook (paths are accepted).|
 | _Password_|Optional| **Variant**|The password for opening the workbook.|
 | _AddToMru_|Optional| **Variant**| **True** to add the file name to the list of recently used files on the **Recent** tab of the **Backstage** view.|
 | _RepairMode_|Optional| **Variant**| **True** to repair the workbook to prevent file corruption.|
@@ -46,7 +47,7 @@ Avoid using hard-coded passwords in your applications. If a password is required
 
 ## Example
 
-The following code example opens a workbook in a new  **Protected View** window.
+The following code example opens a workbook in a new Protected View window.
 
 
 ```vb
@@ -60,3 +61,4 @@ ProtectedViewWindows.Open FileName:="C:\MyFiles\MyWorkbook.xls"
 
 [ProtectedViewWindows Object](Excel.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

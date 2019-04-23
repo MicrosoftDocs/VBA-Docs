@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyFirstIndents Property (Word)
+title: Options.AutoFormatApplyFirstIndents property (Word)
 keywords: vbawd10.chm162988323
 f1_keywords:
 - vbawd10.chm162988323
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatApplyFirstIndents
 ms.assetid: c55fa4eb-9ef4-9061-b2be-cbe2da8ce3bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatApplyFirstIndents Property (Word)
+# Options.AutoFormatApplyFirstIndents property (Word)
 
- **True** if Microsoft Word replaces a space entered at the beginning of a paragraph with a first-line indent when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if Microsoft Word replaces a space entered at the beginning of a paragraph with a first-line indent when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatApplyFirstIndents`
+_expression_. `AutoFormatApplyFirstIndents`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -39,3 +40,4 @@ Selection.Range.AutoFormat
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

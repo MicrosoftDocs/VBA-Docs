@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.RefreshOnFileOpen
 ms.assetid: aed513aa-b752-8b6e-0d6d-6fddab46df18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.RefreshOnFileOpen property (Excel)
 
- **True** if the PivotTable cache is automatically updated each time the workbook is opened. The default value is **False** . Read/write **Boolean** .
+ **True** if the PivotTable cache is automatically updated each time the workbook is opened. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RefreshOnFileOpen`
+_expression_. `RefreshOnFileOpen`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

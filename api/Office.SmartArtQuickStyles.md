@@ -1,21 +1,22 @@
 ---
-title: SmartArtQuickStyles Object (Office)
+title: SmartArtQuickStyles object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles
 ms.assetid: d488ac12-160b-c518-2b56-cc0a3a45c6b7
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# SmartArtQuickStyles Object (Office)
+# SmartArtQuickStyles object (Office)
 
-Represents a collection of Smart Art quick styles.
+Represents a collection of **[SmartArtQuickStyle](Office.SmartArtQuickStyle.md)** objects.
 
 
 ## Example
 
-The following code changes the quick style of a Smart Art diagram in Microsoft PowerPoint.
+The following code changes the quick style of a SmartArt diagram in Microsoft PowerPoint.
 
 
 ```vb
@@ -23,29 +24,10 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.QuickStyle = Application.SmartAr
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Item](Office.SmartArtQuickStyles.Item.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.SmartArtQuickStyles.Application.md)|
-|[Count](Office.SmartArtQuickStyles.Count.md)|
-|[Creator](Office.SmartArtQuickStyles.Creator.md)|
-|[Parent](Office.SmartArtQuickStyles.Parent.md)|
-
 ## See also
 
+- [SmartArtQuickStyles object members](overview/Library-Reference/smartartquickstyles-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

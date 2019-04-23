@@ -1,5 +1,5 @@
 ---
-title: Fields.Update Method (Word)
+title: Fields.Update method (Word)
 keywords: vbawd10.chm154140773
 f1_keywords:
 - vbawd10.chm154140773
@@ -8,19 +8,20 @@ api_name:
 - Word.Fields.Update
 ms.assetid: 55aaae86-015f-fc4f-ff7c-42fddad05c27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields.Update Method (Word)
+# Fields.Update method (Word)
 
 Updates the result of the fields object.
 
 
 ## Syntax
 
- _expression_. `Update`
+_expression_. `Update`
 
- _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
+_expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 
 
 ## Return value
@@ -53,3 +54,4 @@ End If
 
 [Fields Collection Object](Word.fields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

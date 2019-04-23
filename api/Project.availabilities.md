@@ -1,12 +1,13 @@
 ---
-title: Availabilities Object (Project)
+title: Availabilities object (Project)
 ms.prod: project-server
 ms.assetid: 51224d62-777b-1ae3-a646-ca977464d37d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Availabilities Object (Project)
+# Availabilities object (Project)
 
  Contains a collection of **[Availability](Project.Availability.md)** objects.
  
@@ -67,7 +68,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.Availabilities.Add.md)|
 
@@ -75,7 +76,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Availabilities.Application.md)|
 |[Count](Project.Availabilities.Count.md)|
@@ -87,3 +88,5 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

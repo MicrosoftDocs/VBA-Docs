@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotLineCells.Item
 ms.assetid: 1ba80d98-f9c6-a044-ea52-885d7fff06bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a specific element of the  **PivotLineCells** collection object by its p
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
+_expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a specific element of the  **PivotLineCells** collection object by its p
 
 [PivotLineCells Object](Excel.PivotLineCells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

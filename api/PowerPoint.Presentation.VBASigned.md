@@ -1,5 +1,5 @@
 ---
-title: Presentation.VBASigned Property (PowerPoint)
+title: Presentation.VBASigned property (PowerPoint)
 keywords: vbapp10.chm583059
 f1_keywords:
 - vbapp10.chm583059
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.VBASigned
 ms.assetid: eebb411d-6312-f858-275f-b0f0ee12b212
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.VBASigned Property (PowerPoint)
+# Presentation.VBASigned property (PowerPoint)
 
 Determines whether the Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only.
 
 
 ## Syntax
 
- _expression_. `VBASigned`
+_expression_. `VBASigned`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **VBASigned** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The VBA project for the specified document has not been digitally signed.|
 |**msoTrue**| The VBA project for the specified document has been digitally signed.|
@@ -65,3 +66,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

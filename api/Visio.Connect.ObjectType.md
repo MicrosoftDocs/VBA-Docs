@@ -1,5 +1,5 @@
 ---
-title: Connect.ObjectType Property (Visio)
+title: Connect.ObjectType property (Visio)
 keywords: vis_sdr.chm10313960
 f1_keywords:
 - vis_sdr.chm10313960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Connect.ObjectType
 ms.assetid: 93bcb805-aec7-b4fc-cfd4-9b49d3a59b93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect.ObjectType Property (Visio)
+# Connect.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

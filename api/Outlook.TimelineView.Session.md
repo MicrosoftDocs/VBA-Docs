@@ -1,5 +1,5 @@
 ---
-title: TimelineView.Session Property (Outlook)
+title: TimelineView.Session property (Outlook)
 keywords: vbaol11.chm2644
 f1_keywords:
 - vbaol11.chm2644
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TimelineView.Session
 ms.assetid: 9d85749d-c254-c294-112f-d0343a2f01a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimelineView.Session Property (Outlook)
+# TimelineView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TimelineView Object](Outlook.TimelineView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

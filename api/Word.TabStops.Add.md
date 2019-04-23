@@ -1,5 +1,5 @@
 ---
-title: TabStops.Add Method (Word)
+title: TabStops.Add method (Word)
 keywords: vbawd10.chm156565604
 f1_keywords:
 - vbawd10.chm156565604
@@ -8,19 +8,20 @@ api_name:
 - Word.TabStops.Add
 ms.assetid: d6996a6c-e2e7-692c-3f48-27af213803e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Add Method (Word)
+# TabStops.Add method (Word)
 
 Returns a  **TabStop** object that represents a custom tab stop added to a document.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Position_` , `_Alignment_` , `_Leader_` )
+_expression_.**Add**( `_Position_` , `_Alignment_` , `_Leader_` )
 
- _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
+_expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ End With
 
 [TabStops Collection Object](Word.tabstops.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

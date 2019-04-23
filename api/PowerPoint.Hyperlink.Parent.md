@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Parent Property (PowerPoint)
+title: Hyperlink.Parent property (PowerPoint)
 keywords: vbapp10.chm526002
 f1_keywords:
 - vbapp10.chm526002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Hyperlink.Parent
 ms.assetid: 5939f1a2-eb4f-d938-2683-530b0a408614
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Parent Property (PowerPoint)
+# Hyperlink.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

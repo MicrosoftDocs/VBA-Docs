@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ad13b52e-781e-b42e-e6c3-9872e1cd4084
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,4 +30,4 @@ Use the  **Tag** property to assign an identification string to a control withou
 
 For example, you can use  **Tag** to check the identity of a control that is passed as a variable to a procedure.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

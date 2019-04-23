@@ -1,5 +1,5 @@
 ---
-title: Style.ObjectType Property (Visio)
+title: Style.ObjectType property (Visio)
 keywords: vis_sdr.chm11413960
 f1_keywords:
 - vis_sdr.chm11413960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Style.ObjectType
 ms.assetid: 8653a74f-4d0c-d205-ce7e-2aaad6cd5880
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.ObjectType Property (Visio)
+# Style.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

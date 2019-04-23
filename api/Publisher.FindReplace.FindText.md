@@ -1,5 +1,5 @@
 ---
-title: FindReplace.FindText Property (Publisher)
+title: FindReplace.FindText property (Publisher)
 keywords: vbapb10.chm8323076
 f1_keywords:
 - vbapb10.chm8323076
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.FindText
 ms.assetid: 5c8d2803-174e-a82f-d94c-3d96c4b4a2eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.FindText Property (Publisher)
+# FindReplace.FindText property (Publisher)
 
 Sets or retrieves a  **String** representing the text to find in the specified range or selection. Read/write.
 
 
 ## Syntax
 
- _expression_. **FindText**
+_expression_.**FindText**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -57,4 +58,4 @@ Next objDocument
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

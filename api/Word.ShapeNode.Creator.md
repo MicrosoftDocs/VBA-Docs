@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Creator Property (Word)
+title: ShapeNode.Creator property (Word)
 keywords: vbawd10.chm164430825
 f1_keywords:
 - vbawd10.chm164430825
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeNode.Creator
 ms.assetid: 3dbd3e9c-a394-aabf-8cfb-56f7eba198ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNode.Creator Property (Word)
+# ShapeNode.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
+_expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ShapeNode Object](Word.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

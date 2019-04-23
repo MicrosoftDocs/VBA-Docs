@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5a4c4006-f29a-47c4-b11e-b75009286944
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.LocaleName Method (Project)](http://msdn.microsoft.com/library/989d8c73-3452-2abe-fbaa-f68d532e353e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

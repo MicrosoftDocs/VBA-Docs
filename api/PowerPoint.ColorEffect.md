@@ -1,5 +1,5 @@
 ---
-title: ColorEffect Object (PowerPoint)
+title: ColorEffect object (PowerPoint)
 keywords: vbapp10.chm659000
 f1_keywords:
 - vbapp10.chm659000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ColorEffect
 ms.assetid: c21ca9cd-3aaa-35f7-3d0e-89ca155322f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorEffect Object (PowerPoint)
+# ColorEffect object (PowerPoint)
 
 Represents a color effect for an animation behavior.
 
@@ -54,3 +55,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Ungroup Method (PowerPoint)
+title: ShapeRange.Ungroup method (PowerPoint)
 keywords: vbapp10.chm548013
 f1_keywords:
 - vbapp10.chm548013
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Ungroup
 ms.assetid: 7bac0e8b-09d5-b219-af20-2a3b8dcee9d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Ungroup Method (PowerPoint)
+# ShapeRange.Ungroup method (PowerPoint)
 
 Ungroups any grouped shapes in the specified shape or range of shapes. Disassembles pictures and OLE objects within the specified shape or range of shapes. Returns the ungrouped shapes as a single  **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -35,7 +36,7 @@ Because a group of shapes is treated as a single object, grouping and ungrouping
 
 ## Example
 
-This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  `myDocument`.
+This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  _myDocument_.
 
 
 ```vb
@@ -48,7 +49,7 @@ For Each s In myDocument.Shapes
 Next
 ```
 
-This example ungroups any grouped shapes on  `myDocument` without disassembling pictures or OLE objects on the slide.
+This example ungroups any grouped shapes on  _myDocument_ without disassembling pictures or OLE objects on the slide.
 
 
 
@@ -69,3 +70,4 @@ Next
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

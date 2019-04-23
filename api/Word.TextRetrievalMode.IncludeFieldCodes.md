@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.IncludeFieldCodes Property (Word)
+title: TextRetrievalMode.IncludeFieldCodes property (Word)
 keywords: vbawd10.chm154730499
 f1_keywords:
 - vbawd10.chm154730499
@@ -8,17 +8,18 @@ api_name:
 - Word.TextRetrievalMode.IncludeFieldCodes
 ms.assetid: 9055d78b-ddf4-3e58-a42d-813ef838cdf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRetrievalMode.IncludeFieldCodes Property (Word)
+# TextRetrievalMode.IncludeFieldCodes property (Word)
 
- **True** if the text retrieved from the specified range includes field codes. Read/write **Boolean** .
+ **True** if the text retrieved from the specified range includes field codes. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeFieldCodes`
+_expression_. `IncludeFieldCodes`
 
  _expression_ An expression that returns a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
@@ -68,3 +69,4 @@ End If
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

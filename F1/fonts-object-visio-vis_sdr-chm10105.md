@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 653e8021-8bac-4aa8-8668-f806a68cf437
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Fonts Object (Visio)](http://msdn.microsoft.com/library/e08c8ad1-1c70-b80f-1a49-3a120f66ced8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

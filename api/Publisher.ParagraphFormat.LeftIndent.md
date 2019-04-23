@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LeftIndent Property (Publisher)
+title: ParagraphFormat.LeftIndent property (Publisher)
 keywords: vbapb10.chm5439494
 f1_keywords:
 - vbapb10.chm5439494
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.LeftIndent
 ms.assetid: f9cc3a86-d382-92d7-ec24-d13fc5e3d844
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LeftIndent Property (Publisher)
+# ParagraphFormat.LeftIndent property (Publisher)
 
 Returns or sets a  **Variant** that represents the left indent value (in points) for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **LeftIndent**
+_expression_.**LeftIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -39,4 +40,4 @@ Sub IndentParagraph()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

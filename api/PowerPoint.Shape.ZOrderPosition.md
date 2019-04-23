@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrderPosition Property (PowerPoint)
+title: Shape.ZOrderPosition property (PowerPoint)
 keywords: vbapp10.chm547043
 f1_keywords:
 - vbapp10.chm547043
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.ZOrderPosition
 ms.assetid: 07e6c756-ae7b-f6d9-d903-92aef3b7fa9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ZOrderPosition Property (PowerPoint)
+# Shape.ZOrderPosition property (PowerPoint)
 
 Returns the position of the specified shape in the z-order. Read-only.
 
 
 ## Syntax
 
- _expression_. `ZOrderPosition`
+_expression_. `ZOrderPosition`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -41,7 +42,7 @@ Whenever you add a new shape to a collection, it is added to the front of the z-
 
 ## Example
 
-This example adds an oval to  `myDocument` and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
+This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
 
 
 ```vb
@@ -64,3 +65,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

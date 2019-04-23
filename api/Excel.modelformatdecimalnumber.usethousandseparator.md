@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 97d01ea7-a6cf-9262-701b-3b0fac3ca571
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
 ## Syntax
 
- _expression_. `UseThousandSeparator`
+_expression_. `UseThousandSeparator`
 
- _expression_ A variable that represents a 'ModelFormatDecimalNumber' object.
+_expression_ A variable that represents a 'ModelFormatDecimalNumber' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
 [ModelFormatDecimalNumber Object](Excel.modelformatdecimalnumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

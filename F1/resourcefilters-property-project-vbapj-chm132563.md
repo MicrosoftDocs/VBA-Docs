@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9e9b66c5-2a64-4074-b056-44be3cbd99ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.XValues Property (Project)](http://msdn.microsoft.com/library/2d35482c-0e90-ec98-219c-bb0911921ee6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

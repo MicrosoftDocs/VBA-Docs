@@ -1,14 +1,15 @@
 ---
-title: xlCredentialsMethod enumeration (Excel)
+title: XlCredentialsMethod enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCredentialsMethod
 ms.assetid: 6d31e757-62e3-300b-077f-9fa89426c6eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCredentialsMethod enumeration (Excel)
+# XlCredentialsMethod enumeration (Excel)
 
 Specifies the type of credentials method used.
 
@@ -20,3 +21,4 @@ Specifies the type of credentials method used.
 | **CredentialsMethodNone**|1|No credentials used|
 | **CredentialsMethodStored**|2|Use stored credentials|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

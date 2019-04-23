@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a81fb09a-d0cb-9f18-e6c2-89bf3c5eea34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You attempted to link or import a Microsoft Word mail merge file. Although you c
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

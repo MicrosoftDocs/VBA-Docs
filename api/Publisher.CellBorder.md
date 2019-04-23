@@ -1,5 +1,5 @@
 ---
-title: CellBorder Object (Publisher)
+title: CellBorder object (Publisher)
 keywords: vbapb10.chm5308415
 f1_keywords:
 - vbapb10.chm5308415
@@ -8,10 +8,11 @@ api_name:
 - Publisher.CellBorder
 ms.assetid: c4eddeac-54cd-95ff-9423-b06e515a720e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellBorder Object (Publisher)
+# CellBorder object (Publisher)
 
 Represents the color and weight settings for cell borders.
  
@@ -53,10 +54,11 @@ cbTemp.Weight = 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CellBorder.Application.md)|
 |[Color](Publisher.CellBorder.Color.md)|
 |[Parent](Publisher.CellBorder.Parent.md)|
 |[Weight](Publisher.CellBorder.Weight.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

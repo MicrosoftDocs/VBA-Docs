@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.FontSize Property (Publisher)
+title: PhoneticGuide.FontSize property (Publisher)
 keywords: vbapb10.chm6160388
 f1_keywords:
 - vbapb10.chm6160388
@@ -8,18 +8,19 @@ api_name:
 - Publisher.PhoneticGuide.FontSize
 ms.assetid: 48b225d5-2428-e292-99e1-1b6288fba4f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PhoneticGuide.FontSize Property (Publisher)
+# PhoneticGuide.FontSize property (Publisher)
 
 Returns a  **Variant** that represents the font size of phonetic characters. Read-only.
 
 
 ## Syntax
 
- _expression_. **FontSize**
+_expression_.**FontSize**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

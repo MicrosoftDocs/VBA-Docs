@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Count Property (Publisher)
+title: ColorSchemes.Count property (Publisher)
 keywords: vbapb10.chm2752514
 f1_keywords:
 - vbapb10.chm2752514
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorSchemes.Count
 ms.assetid: cd3fe69f-df35-8dcd-1133-634983155592
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorSchemes.Count Property (Publisher)
+# ColorSchemes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **ColorSchemes** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

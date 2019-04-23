@@ -1,5 +1,5 @@
 ---
-title: Master.Background Property (PowerPoint)
+title: Master.Background property (PowerPoint)
 keywords: vbapp10.chm533006
 f1_keywords:
 - vbapp10.chm533006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Master.Background
 ms.assetid: 94b07efa-4e33-ac2c-c466-ff38499f81c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Background Property (PowerPoint)
+# Master.Background property (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the slide background.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
@@ -63,3 +64,4 @@ End With
 
 [Master Object](PowerPoint.Master.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

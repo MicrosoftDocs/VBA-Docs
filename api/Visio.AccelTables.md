@@ -1,5 +1,5 @@
 ---
-title: AccelTables Object (Visio)
+title: AccelTables object (Visio)
 keywords: vis_sdr.chm10025
 f1_keywords:
 - vis_sdr.chm10025
@@ -8,10 +8,11 @@ api_name:
 - Visio.AccelTables
 ms.assetid: 1bc9671b-83dc-1349-9171-92d1650ebec8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelTables Object (Visio)
+# AccelTables object (Visio)
 
 Includes an  **AccelTable** object for each Microsoft Visio window context that has accelerators.
 
@@ -23,10 +24,10 @@ Includes an  **AccelTable** object for each Microsoft Visio window context that 
 
 To retrieve an  **AccelTables** collection, use the **AccelTables** property of a **UIObject** object.
 
-The default property of  **AccelTables** is **Item** .
+The default property of  **AccelTables** is **Item**.
 
 Unlike other Visio collections, the  **AccelTables** collection is indexed starting with zero (0) rather than 1.
 
 An  **AccelTable** object is identified in the **AccelTables** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values that identify **AccelTable** objects, see the **SetID** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

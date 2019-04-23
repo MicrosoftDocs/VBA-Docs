@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.ShowAutoFilter
 ms.assetid: ae9dfc8d-dd58-802d-2e96-461abdb9ee2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListObject.ShowAutoFilter property (Excel)
 
- Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean** .
+ Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowAutoFilter`
+_expression_. `ShowAutoFilter`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ The following example displays the setting of the  **ShowAutoFilter** property t
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

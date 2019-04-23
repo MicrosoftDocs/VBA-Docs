@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Width Property (PowerPoint)
+title: DocumentWindow.Width property (PowerPoint)
 keywords: vbapp10.chm511013
 f1_keywords:
 - vbapp10.chm511013
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.Width
 ms.assetid: ede3967a-5d52-ba5d-2279-ea7345a7d370
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.Width Property (PowerPoint)
+# DocumentWindow.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Return value
@@ -78,4 +79,4 @@ ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Width = 80
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

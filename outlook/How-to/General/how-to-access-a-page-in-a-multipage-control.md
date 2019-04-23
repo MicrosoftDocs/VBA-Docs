@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: dd67169f-2f3e-c93d-b5c5-512e8e83bb7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Access a Page in a MultiPage Control
+# Access a Page in a MultiPage Control
 
 The following example accesses an individual page of a  **[MultiPage](../../../api/Outlook.multipage.md)** in several ways:
 
@@ -50,4 +51,4 @@ Sub CommandButton1_Click
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

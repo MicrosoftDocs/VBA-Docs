@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AllocateChanges Method (Excel)
+title: PivotTable.AllocateChanges method (Excel)
 keywords: vbaxl10.chm235191
 f1_keywords:
 - vbaxl10.chm235191
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.AllocateChanges
 ms.assetid: 6eb2d6b6-7340-fe63-611c-0972b9ccf496
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.AllocateChanges Method (Excel)
+# PivotTable.AllocateChanges method (Excel)
 
 Performs a writeback operation for all edited cells in a PivotTable report based on an OLAP data source.
 
 
 ## Syntax
 
- _expression_. `AllocateChanges`
+_expression_. `AllocateChanges`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for al
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

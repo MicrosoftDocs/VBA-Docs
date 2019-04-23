@@ -1,5 +1,5 @@
 ---
-title: Window.MergeClass Property (Visio)
+title: Window.MergeClass property (Visio)
 keywords: vis_sdr.chm11650715
 f1_keywords:
 - vis_sdr.chm11650715
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.MergeClass
 ms.assetid: 9ab7b4e7-9be3-9cfe-3a45-57825930ca15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.MergeClass Property (Visio)
+# Window.MergeClass property (Visio)
 
 Specifies a list of window classes that this anchored window can merge with. Read/write.
 
 
 ## Syntax
 
- _expression_. `MergeClass`
+_expression_. `MergeClass`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -34,8 +35,8 @@ Use semicolons to separate individual items in the list. For example, if the  **
 
 The  **MergeClass** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
 
-At present, windows of type  **visDocked** can be merged only with other windows of type **visDocked** , and windows of type **visAnchorBar** can be merged only with other windows of type **visAnchorBar.**
+At present, windows of type  **visDocked** can be merged only with other windows of type **visDocked**, and windows of type **visAnchorBar** can be merged only with other windows of type **visAnchorBar.**
 
 Use the  **Type** property to determine window type.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

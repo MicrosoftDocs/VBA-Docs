@@ -1,5 +1,5 @@
 ---
-title: Worksheet.FollowHyperlink Event (Excel)
+title: Worksheet.FollowHyperlink event (Excel)
 keywords: vbaxl10.chm502080
 f1_keywords:
 - vbaxl10.chm502080
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.FollowHyperlink
 ms.assetid: c63eec19-008e-bfb5-1357-3d02426c1bab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.FollowHyperlink Event (Excel)
+# Worksheet.FollowHyperlink event (Excel)
 
 Occurs when you click any hyperlink on a worksheet. For application- and workbook-level events, see the  **[SheetFollowHyperlink](Excel.Application.SheetFollowHyperlink.md)** event and **[SheetFollowHyperlink](Excel.Workbook.SheetFollowHyperlink.md)** event.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Target_` )
+_expression_. `FollowHyperlink`( `_Target_` )
 
- _expression_ An expression that returns a [Worksheet](./Excel.Worksheet.md) object.
+ _expression_ An expression that returns a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ End Sub
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

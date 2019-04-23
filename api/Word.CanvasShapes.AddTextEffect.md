@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddTextEffect Method (Word)
+title: CanvasShapes.AddTextEffect method (Word)
 keywords: vbawd10.chm7536658
 f1_keywords:
 - vbawd10.chm7536658
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.AddTextEffect
 ms.assetid: 8f9c51b7-1588-6090-85b8-b94620c9e4bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.AddTextEffect Method (Word)
+# CanvasShapes.AddTextEffect method (Word)
 
 Adds a WordArt shape to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the WordArt.
 
 
 ## Syntax
 
- _expression_. `AddTextEffect`( `_PresetTextEffect_` , `_Text_` , `_FontName_` , `_FontSize_` , `_FontBold_` , `_FontItalic_` , `_Left_` , `_Top_` )
+_expression_. `AddTextEffect`( `_PresetTextEffect_` , `_Text_` , `_FontName_` , `_FontSize_` , `_FontBold_` , `_FontItalic_` , `_Left_` , `_Top_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters
@@ -75,3 +76,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

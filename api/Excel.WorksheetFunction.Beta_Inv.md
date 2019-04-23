@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Beta_Inv Method (Excel)
+title: WorksheetFunction.Beta_Inv method (Excel)
 keywords: vbaxl10.chm137397
 f1_keywords:
 - vbaxl10.chm137397
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Beta_Inv
 ms.assetid: f652b2b8-a966-1b1e-bfcd-1554923c1740
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Beta_Inv Method (Excel)
+# WorksheetFunction.Beta_Inv method (Excel)
 
 Returns the inverse of the cumulative distribution function for a specified beta distribution. That is, if probability = Beta_Dist(x,...), then Beta_Inv(probability,...) = x.
 
 
 ## Syntax
 
- _expression_. `Beta_Inv`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `Beta_Inv`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Given a value for probability, Beta_Inv seeks that value x such that Beta_Dist(x
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

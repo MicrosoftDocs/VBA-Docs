@@ -1,15 +1,16 @@
 ---
-title: Styles Object (Word)
+title: Styles object (Word)
 keywords: vbawd10.chm2349
 f1_keywords:
 - vbawd10.chm2349
 ms.prod: word
 ms.assetid: bc4688ce-5055-c135-a656-e58e31d8be42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles Object (Word)
+# Styles object (Word)
 
 A collection of  **Style** objects that represent both the built-in and user-defined styles in a document.
 
@@ -91,7 +92,7 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Styles.Add.md)|
 |[Item](Word.Styles.Item.md)|
@@ -100,7 +101,7 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Styles.Application.md)|
 |[Count](Word.Styles.Count.md)|
@@ -110,4 +111,6 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

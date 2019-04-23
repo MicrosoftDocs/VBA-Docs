@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.Characters
 ms.assetid: 0072e034-727d-6de5-f2bc-ce398ac750bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The  **Characters** object isn't a collection.
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.VisibleItems
 ms.assetid: f5c0f367-42a4-fffe-5b27-af2c19890ad3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single visible PivotTable item (a  **
 
 ## Syntax
 
- _expression_. `VisibleItems`( `_Index_` )
+_expression_. `VisibleItems` (_Index_)
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Returns an object that represents either a single visible PivotTable item (a  **
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **True** . There are no hidden items.
+For OLAP data sources, this property is read-only and always returns  **True**. There are no hidden items.
 
 
 ## Example
@@ -58,3 +59,4 @@ Next
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

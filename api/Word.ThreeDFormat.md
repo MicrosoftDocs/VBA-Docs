@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat Object (Word)
+title: ThreeDFormat object (Word)
 keywords: vbawd10.chm2512
 f1_keywords:
 - vbawd10.chm2512
@@ -8,10 +8,11 @@ api_name:
 - Word.ThreeDFormat
 ms.assetid: d397e780-a53d-0cc3-7a02-b40397253e91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat Object (Word)
+# ThreeDFormat object (Word)
 
 Represents a shape's three-dimensional formatting.
 
@@ -38,6 +39,6 @@ You cannot apply three-dimensional formatting to some kinds of shapes, such as b
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

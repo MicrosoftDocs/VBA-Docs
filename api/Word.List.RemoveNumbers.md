@@ -1,5 +1,5 @@
 ---
-title: List.RemoveNumbers Method (Word)
+title: List.RemoveNumbers method (Word)
 keywords: vbawd10.chm160563302
 f1_keywords:
 - vbawd10.chm160563302
@@ -8,17 +8,18 @@ api_name:
 - Word.List.RemoveNumbers
 ms.assetid: c73505dd-34aa-5241-a7b8-bf2ac37b1a76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# List.RemoveNumbers Method (Word)
+# List.RemoveNumbers method (Word)
 
 Removes numbers or bullets from the specified list.
 
 
 ## Syntax
 
- _expression_. `RemoveNumbers`( `_NumberType_` )
+_expression_. `RemoveNumbers`( `_NumberType_` )
 
  _expression_ A variable that represents a '[List](Word.List.md)' object.
 
@@ -36,3 +37,4 @@ Removes numbers or bullets from the specified list.
 
 [List Object](Word.List.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

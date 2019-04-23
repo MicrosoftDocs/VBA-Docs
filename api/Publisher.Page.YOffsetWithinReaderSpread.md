@@ -1,5 +1,5 @@
 ---
-title: Page.YOffsetWithinReaderSpread Property (Publisher)
+title: Page.YOffsetWithinReaderSpread property (Publisher)
 keywords: vbapb10.chm393237
 f1_keywords:
 - vbapb10.chm393237
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.YOffsetWithinReaderSpread
 ms.assetid: 765adae3-af5d-ae37-5b1c-284cce8891ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.YOffsetWithinReaderSpread Property (Publisher)
+# Page.YOffsetWithinReaderSpread property (Publisher)
 
 Returns a  **Single** that represents the distance (in points) from the top edge of the reader spread to the top edge of the page. Read-only.
 
 
 ## Syntax
 
- _expression_. **YOffsetWithinReaderSpread**
+_expression_.**YOffsetWithinReaderSpread**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -69,4 +70,4 @@ Sub OffsetShapePositions()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

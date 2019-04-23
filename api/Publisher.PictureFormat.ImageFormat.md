@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ImageFormat Property (Publisher)
+title: PictureFormat.ImageFormat property (Publisher)
 keywords: vbapb10.chm3604761
 f1_keywords:
 - vbapb10.chm3604761
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.ImageFormat
 ms.assetid: a5523a1e-4dbf-5cd7-ba73-2a5570865ee6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.ImageFormat Property (Publisher)
+# PictureFormat.ImageFormat property (Publisher)
 
 Returns a  **PbImageFormat** constant that represents the image format of a picture as determined by Microsoft Windows Graphics Device Interface (GDI+). Read-only.
 
 
 ## Syntax
 
- _expression_. **ImageFormat**
+_expression_.**ImageFormat**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -78,4 +79,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

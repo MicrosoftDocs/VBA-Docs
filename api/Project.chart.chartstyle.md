@@ -1,19 +1,20 @@
 ---
-title: Chart.ChartStyle Property (Project)
+title: Chart.ChartStyle property (Project)
 ms.prod: project-server
 ms.assetid: e90f17dd-b9a8-4da1-d66a-2940e47953b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartStyle Property (Project)
+# Chart.ChartStyle property (Project)
 Gets or sets the chart style for a chart. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `ChartStyle`
+_expression_. `ChartStyle`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks
@@ -51,3 +52,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

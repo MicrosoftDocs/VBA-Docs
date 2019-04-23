@@ -1,5 +1,5 @@
 ---
-title: Find.MatchWholeWord Property (Word)
+title: Find.MatchWholeWord property (Word)
 keywords: vbawd10.chm162529297
 f1_keywords:
 - vbawd10.chm162529297
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.MatchWholeWord
 ms.assetid: a4ce7e5f-c84b-b13a-e21c-14051a0f4a6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.MatchWholeWord Property (Word)
+# Find.MatchWholeWord property (Word)
 
- **True** if the find operation locates only entire words and not text that's part of a larger word. Read/write **Boolean** .
+ **True** if the find operation locates only entire words and not text that's part of a larger word. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MatchWholeWord`
+_expression_. `MatchWholeWord`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
@@ -49,3 +50,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

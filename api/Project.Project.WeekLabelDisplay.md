@@ -1,5 +1,5 @@
 ---
-title: Project.WeekLabelDisplay Property (Project)
+title: Project.WeekLabelDisplay property (Project)
 keywords: vbapj.chm132820
 f1_keywords:
 - vbapj.chm132820
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.WeekLabelDisplay
 ms.assetid: d21cd816-06a3-89b0-b56a-9c1b56151209
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.WeekLabelDisplay Property (Project)
+# Project.WeekLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `WeekLabelDisplay`
+_expression_. `WeekLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -29,4 +30,4 @@ The  **WeekLabelDisplay** property corresponds to the **Weeks** list on the **Ad
 
 Values of the  **WeekLabelDisplay** property can be 0 to 2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

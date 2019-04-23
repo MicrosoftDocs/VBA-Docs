@@ -1,5 +1,5 @@
 ---
-title: Range.ShapeRange Property (Word)
+title: Range.ShapeRange property (Word)
 keywords: vbawd10.chm157155639
 f1_keywords:
 - vbawd10.chm157155639
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.ShapeRange
 ms.assetid: b8e6e1f7-d29a-5fb5-8d00-22b3907d6f54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ShapeRange Property (Word)
+# Range.ShapeRange property (Word)
 
 Returns a  **[ShapeRange](Word.shapeRange.md)** collection that represents all the **Shape** objects in the specified range. Read-only.
 
 
 ## Syntax
 
- _expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -44,3 +45,4 @@ ActiveDocument.Content.ShapeRange.Fill.ForeColor.RGB = _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

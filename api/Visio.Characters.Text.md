@@ -1,5 +1,5 @@
 ---
-title: Characters.Text Property (Visio)
+title: Characters.Text property (Visio)
 keywords: vis_sdr.chm10214515
 f1_keywords:
 - vis_sdr.chm10214515
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.Text
 ms.assetid: ebfa0548-4150-f6a6-8362-8bd3c2c36f93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.Text Property (Visio)
+# Characters.Text property (Visio)
 
 Returns the range of text represented by a  **Characters** object, which may be a subset of the shape's text depending on the values of the **Characters** object's **Begin** and **End** properties.Read/write.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -30,7 +31,7 @@ Variant
 
 ## Remarks
 
-The text for a  **Characters** object is returned in a **Variant** of type **String** , as opposed to in a **String** . This is typically transparent if you are using Microsoft Visual Basic.
+The text for a  **Characters** object is returned in a **Variant** of type **String**, as opposed to in a **String**. This is typically transparent if you are using Microsoft Visual Basic.
 
 In the text returned by a  **Characters** object, fields are expanded to the number of characters that are visible in the drawing window. For example, if a shape's text contains a field that displays the file name of a drawing, the **Text** property of a **Characters** object returns the expanded file name (provided the **Begin** and **End** properties were not altered).
 
@@ -69,4 +70,4 @@ Public Sub CharactersText_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

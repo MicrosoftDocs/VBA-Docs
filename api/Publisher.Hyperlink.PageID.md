@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.PageID Property (Publisher)
+title: Hyperlink.PageID property (Publisher)
 keywords: vbapb10.chm4587525
 f1_keywords:
 - vbapb10.chm4587525
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlink.PageID
 ms.assetid: 1b5051eb-e6b4-a5a7-610a-5be03863a92b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.PageID Property (Publisher)
+# Hyperlink.PageID property (Publisher)
 
 Returns or sets a  **Long** indicating the page in the publication that is the destination for the specified hyperlink. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageID**
+_expression_.**PageID**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 
@@ -41,4 +42,4 @@ strPage = ActiveDocument.Pages.FindByPageID(PageID:=lngID).PageNumber
 MsgBox "This hyperlink goes to the page " & strPage & "."
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.Copies
 ms.assetid: 49d9387c-1714-5dbd-a349-6d7c2ce46ab9
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.Copies property (Access)
 
-Returns or sets a  **Long** indicating the number of copies to be printed. Read/write.
+Returns or sets a **Long** indicating the number of copies to be printed. Read/write.
 
 
 ## Syntax
 
-_expression_. `Copies`
+_expression_.**Copies**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -69,8 +69,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

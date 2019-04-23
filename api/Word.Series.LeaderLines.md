@@ -1,5 +1,5 @@
 ---
-title: Series.LeaderLines Property (Word)
+title: Series.LeaderLines property (Word)
 keywords: vbawd10.chm123733634
 f1_keywords:
 - vbawd10.chm123733634
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.LeaderLines
 ms.assetid: 5b4f8802-2b1f-a879-f74d-b98a82ba9187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.LeaderLines Property (Word)
+# Series.LeaderLines property (Word)
 
-Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderLines.md)** .
+Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderLines.md)**.
 
 
 ## Syntax
 
- _expression_. `LeaderLines`
+_expression_. `LeaderLines`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -53,3 +54,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

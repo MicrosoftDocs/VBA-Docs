@@ -1,5 +1,5 @@
 ---
-title: Connect.ToPart Property (Visio)
+title: Connect.ToPart property (Visio)
 keywords: vis_sdr.chm10314575
 f1_keywords:
 - vis_sdr.chm10314575
@@ -8,17 +8,18 @@ api_name:
 - Visio.Connect.ToPart
 ms.assetid: 37044045-f911-872e-4f72-68fa265fb6f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect.ToPart Property (Visio)
+# Connect.ToPart property (Visio)
 
 Returns the part of a shape to which a connection is made. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToPart`
+_expression_. `ToPart`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
@@ -115,4 +116,4 @@ Public Sub ToPart_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

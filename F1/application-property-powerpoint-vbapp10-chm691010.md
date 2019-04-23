@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 493b10a5-9d3b-4352-ac39-6952513443f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ChartFormat.Adjustments Property (PowerPoint)](http://msdn.microsoft.com/library/ff27cd8d-ccb7-189a-51b6-cabdbbe0a505%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

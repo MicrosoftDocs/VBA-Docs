@@ -8,6 +8,7 @@ api_name:
 - Excel.ErrorCheckingOptions.Parent
 ms.assetid: 604897be-baec-313a-dbda-8b2a107ce4d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

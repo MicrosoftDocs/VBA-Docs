@@ -3,6 +3,7 @@ title: Invalid arguments used with domain function. (Error 2428)
 ms.prod: access
 ms.assetid: 1aa10a2c-68fc-8daa-736f-a6898517c1e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You have entered an invalid argument in an aggregate function. For information o
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

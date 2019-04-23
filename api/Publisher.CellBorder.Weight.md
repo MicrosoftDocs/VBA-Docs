@@ -1,5 +1,5 @@
 ---
-title: CellBorder.Weight Property (Publisher)
+title: CellBorder.Weight property (Publisher)
 keywords: vbapb10.chm5242884
 f1_keywords:
 - vbapb10.chm5242884
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CellBorder.Weight
 ms.assetid: fb503000-5ca6-c917-ca9f-e3ba28a41114
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellBorder.Weight Property (Publisher)
+# CellBorder.Weight property (Publisher)
 
 Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
 
 
 ## Syntax
 
- _expression_. **Weight**
+_expression_.**Weight**
 
  _expression_ A variable that represents a  **CellBorder** object.
 
@@ -44,4 +45,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

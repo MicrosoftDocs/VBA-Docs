@@ -1,14 +1,15 @@
 ---
-title: PjPaperSize Enumeration (Project)
+title: PjPaperSize enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjPaperSize
 ms.assetid: d1ed803e-52fa-40cf-76a0-a3f41b1729f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjPaperSize Enumeration (Project)
+# PjPaperSize enumeration (Project)
 
 Contains constants that specify the paper size.
 
@@ -138,4 +139,4 @@ Contains constants that specify the paper size.
 
 The  **PjPaperSize** enumeration is used by the [Application.FilePageSetupPage](Project.Application.FilePageSetupPage.md) method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

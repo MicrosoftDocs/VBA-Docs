@@ -1,5 +1,5 @@
 ---
-title: Master.Document Property (Visio)
+title: Master.Document property (Visio)
 keywords: vis_sdr.chm10713430
 f1_keywords:
 - vis_sdr.chm10713430
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Document
 ms.assetid: b95000f8-67df-99f4-bbfc-020b14ae73b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Document Property (Visio)
+# Master.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -76,7 +77,7 @@ Public Sub Document_Example()
  'Get the Document object associated with various other objects.'Get the Document object associated with the Window object. 
  Set vsoTempDocument = vsoWindow.Document 
  
- 'Get the Title property of the Document object'to verify that this is the same document we added earlier. 
+ 'Get the Title property of the Document object to verify that this is the same document we added earlier. 
  Debug.Print vsoTempDocument.Title 
  
  'Get the Document object associated with the Page object. 
@@ -94,4 +95,4 @@ Public Sub Document_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

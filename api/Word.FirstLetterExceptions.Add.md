@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Add Method (Word)
+title: FirstLetterExceptions.Add method (Word)
 keywords: vbawd10.chm155582565
 f1_keywords:
 - vbawd10.chm155582565
@@ -8,19 +8,20 @@ api_name:
 - Word.FirstLetterExceptions.Add
 ms.assetid: 66ed8423-2c64-e924-2b34-45daea68efac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FirstLetterExceptions.Add Method (Word)
+# FirstLetterExceptions.Add method (Word)
 
 Returns a  **FirstLetterException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
+_expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ FirstLetterException
 
 ## Remarks
 
-If the  **FirstLetterAutoAdd** property is **True** , abbreviations are automatically added to the list of first-letter exceptions.
+If the  **FirstLetterAutoAdd** property is **True**, abbreviations are automatically added to the list of first-letter exceptions.
 
 
 ## Example
@@ -56,3 +57,4 @@ AutoCorrect.FirstLetterExceptions.Add Name:="addr."
 
 [FirstLetterExceptions Collection Object](Word.firstletterexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

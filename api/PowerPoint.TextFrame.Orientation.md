@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Orientation Property (PowerPoint)
+title: TextFrame.Orientation property (PowerPoint)
 keywords: vbapp10.chm558006
 f1_keywords:
 - vbapp10.chm558006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame.Orientation
 ms.assetid: ce6a9578-3cbd-9b73-e374-c43fa4748054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Orientation Property (PowerPoint)
+# TextFrame.Orientation property (PowerPoint)
 
 Returns or sets text orientation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
@@ -64,3 +65,4 @@ myDocument.Shapes(3).TextFrame.Orientation = msoTextOrientationHorizontal
 
 [TextFrame Object](PowerPoint.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

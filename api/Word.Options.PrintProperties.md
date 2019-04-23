@@ -1,5 +1,5 @@
 ---
-title: Options.PrintProperties Property (Word)
+title: Options.PrintProperties property (Word)
 keywords: vbawd10.chm162988063
 f1_keywords:
 - vbawd10.chm162988063
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PrintProperties
 ms.assetid: 4abdc270-2230-6ef6-456a-a571bc5345af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PrintProperties Property (Word)
+# Options.PrintProperties property (Word)
 
- **True** if Microsoft Word prints document summary information on a separate page at the end of the document. Read/write **Boolean** .
+ **True** if Microsoft Word prints document summary information on a separate page at the end of the document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintProperties`
+_expression_. `PrintProperties`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -53,3 +54,4 @@ temp = Options.PrintProperties
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

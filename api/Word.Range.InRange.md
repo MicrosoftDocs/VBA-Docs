@@ -1,5 +1,5 @@
 ---
-title: Range.InRange Method (Word)
+title: Range.InRange method (Word)
 keywords: vbawd10.chm157155454
 f1_keywords:
 - vbawd10.chm157155454
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.InRange
 ms.assetid: 8d6b2093-7720-b100-6e9e-6be761cabaf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InRange Method (Word)
+# Range.InRange method (Word)
 
 Returns  **True** if the range to which the method is applied is contained in the range specified by the Range argument.
 
 
 ## Syntax
 
- _expression_. `InRange`( `_Range_` )
+_expression_. `InRange`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ If myRange.InRange(Selection.Range) = False Then myRange.Select
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

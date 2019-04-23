@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Name
 ms.assetid: 39d1a326-e123-443c-29c0-453f7b4a8760
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the name of the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The name of a  **[Range](Excel.Range(object).md)** object is a **[Name](Excel.Na
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

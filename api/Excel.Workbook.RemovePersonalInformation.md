@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.RemovePersonalInformation
 ms.assetid: f5cdc655-8ba9-6dd1-ab05-028d98c11972
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.RemovePersonalInformation property (Excel)
 
- **True** if personal information can be removed from the specified workbook. The default value is **False** . Read/write **Boolean** .
+ **True** if personal information can be removed from the specified workbook. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RemovePersonalInformation`
+_expression_. `RemovePersonalInformation`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.RTFBody Property (Outlook)
+title: AppointmentItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3524
 f1_keywords:
 - vbaol11.chm3524
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.RTFBody
 ms.assetid: 12af0270-e9bc-88ce-1d36-eafadf698406
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.RTFBody Property (Outlook)
+# AppointmentItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 
 
 ## Syntax
 
- _expression_. `RTFBody`
+_expression_. `RTFBody`
 
- _expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
+_expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
 
 
 ## Remarks
@@ -88,3 +89,4 @@ private void GetRTFBodyForAppt()
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

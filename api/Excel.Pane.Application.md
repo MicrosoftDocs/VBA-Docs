@@ -8,6 +8,7 @@ api_name:
 - Excel.Pane.Application
 ms.assetid: ec2d6535-1160-6196-25e9-7a4dafa376da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

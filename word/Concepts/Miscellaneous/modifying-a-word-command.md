@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: bedf22b4-203b-3ecb-1f00-0b88b3bd89e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -50,4 +51,4 @@ You can add additional instructions or remove the existing  `ActiveDocument.Save
 
 You can also replace a Word command by creating a code module named after a Word command (for example, FileSave) with a subroutine named Main.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

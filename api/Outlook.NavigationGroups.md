@@ -1,5 +1,5 @@
 ---
-title: NavigationGroups Object (Outlook)
+title: NavigationGroups object (Outlook)
 keywords: vbaol11.chm3022
 f1_keywords:
 - vbaol11.chm3022
@@ -8,12 +8,13 @@ api_name:
 - Outlook.NavigationGroups
 ms.assetid: 07206203-36a9-7467-3a89-24fa2a7c2b1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NavigationGroups Object (Outlook)
+# NavigationGroups object (Outlook)
 
-Contains a set of  **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the Navigation Pane.
+Contains a set of  **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the navigation pane.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[NavigationFolderAdd](Outlook.NavigationGroups.NavigationFolderAdd.md)|
 |[NavigationFolderRemove](Outlook.NavigationGroups.NavigationFolderRemove.md)|
@@ -39,7 +40,7 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Create](Outlook.NavigationGroups.Create.md)|
 |[Delete](Outlook.NavigationGroups.Delete.md)|
@@ -50,7 +51,7 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationGroups.Application.md)|
 |[Class](Outlook.NavigationGroups.Class.md)|
@@ -61,4 +62,6 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

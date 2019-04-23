@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat Object (Word)
+title: ParagraphFormat object (Word)
 keywords: vbawd10.chm2387
 f1_keywords:
 - vbawd10.chm2387
@@ -8,10 +8,11 @@ api_name:
 - Word.ParagraphFormat
 ms.assetid: 712d754a-dc92-f1a3-531d-dfae74a42c23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat Object (Word)
+# ParagraphFormat object (Word)
 
 Represents all the formatting for a paragraph.
 
@@ -72,5 +73,6 @@ Selection.Paragraphs.Format = myDup
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

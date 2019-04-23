@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintDensityBars Property (Publisher)
+title: AdvancedPrintOptions.PrintDensityBars property (Publisher)
 keywords: vbapb10.chm7077904
 f1_keywords:
 - vbapb10.chm7077904
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.PrintDensityBars
 ms.assetid: b98baed0-e2ba-bf69-78e2-d60125d7f57a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintDensityBars Property (Publisher)
+# AdvancedPrintOptions.PrintDensityBars property (Publisher)
 
  **True** to print a density bar for the specified publication. The default is **True**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **PrintDensityBars**
+_expression_.**PrintDensityBars**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
@@ -64,3 +65,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

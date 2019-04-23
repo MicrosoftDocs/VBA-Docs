@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: edd196b2-cfd7-ff82-b23b-6334910518e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,7 +26,7 @@ RDS provides a default handler on the server named **MSDFMAP.Handler**. (The def
 
 Assume that the following sections in **MSDFMAP.INI** and the data source name, AdvWorks, have been previously defined:
 
-```sql
+```ini
 [connect CustomerDataBase] 
 Access=ReadWrite 
 Connect="DSN=AdvWorks" 
@@ -74,3 +75,5 @@ rs.Open "CustomerById(4)", "Handler=MSDFMAP.Handler;" & _
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

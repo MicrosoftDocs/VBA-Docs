@@ -1,5 +1,5 @@
 ---
-title: Version.Date Property (Word)
+title: Version.Date property (Word)
 keywords: vbawd10.chm162792429
 f1_keywords:
 - vbawd10.chm162792429
@@ -8,17 +8,18 @@ api_name:
 - Word.Version.Date
 ms.assetid: c46596fc-e6ff-4158-ba83-d83a6e84400b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Version.Date Property (Word)
+# Version.Date property (Word)
 
-The date and time that the document version was saved. Read-only  **Date** .
+The date and time that the document version was saved. Read-only  **Date**.
 
 
 ## Syntax
 
- _expression_. `Date`
+_expression_. `Date`
 
  _expression_ A variable that represents a '[Version](Word.Version.md)' object.
 
@@ -61,3 +62,4 @@ End If
 
 [Version Object](Word.Version.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

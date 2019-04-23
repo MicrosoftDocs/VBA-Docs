@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a5a7d28e-2157-e18e-06d8-660bcf01af9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ A Microsoft SQL replica set supports a hub/spoke topology, where the SQL Publica
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: Bookmarks Object (Word)
+title: Bookmarks object (Word)
 ms.prod: word
 ms.assetid: 827bed64-3034-0eb4-401d-f117cdb98898
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmarks Object (Word)
+# Bookmarks object (Word)
 
 A collection of  **[Bookmark](Word.Bookmark.md)** objects that represent the bookmarks in the specified selection, range, or document.
 
@@ -51,12 +52,13 @@ MsgBox ActiveDocument.Bookmarks(2).Name
 
 Remarks
 
-The  **[ShowHidden](Word.Bookmarks.ShowHidden.md)** property effects the number of elements in the **Bookmarks** collection. If **ShowHidden** is **True** , hidden bookmarks are included in the **Bookmarks** collection.
+The  **[ShowHidden](Word.Bookmarks.ShowHidden.md)** property effects the number of elements in the **Bookmarks** collection. If **ShowHidden** is **True**, hidden bookmarks are included in the **Bookmarks** collection.
 
 
 ## See also
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

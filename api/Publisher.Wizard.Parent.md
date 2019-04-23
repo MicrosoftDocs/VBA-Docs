@@ -1,5 +1,5 @@
 ---
-title: Wizard.Parent Property (Publisher)
+title: Wizard.Parent property (Publisher)
 keywords: vbapb10.chm1441794
 f1_keywords:
 - vbapb10.chm1441794
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Wizard.Parent
 ms.assetid: 7f31b18f-0d8e-8c61-0bc2-ce98e7b405c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Wizard.Parent Property (Publisher)
+# Wizard.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Wizard** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

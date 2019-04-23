@@ -1,14 +1,15 @@
 ---
-title: WdDisableFeaturesIntroducedAfter Enumeration (Word)
+title: WdDisableFeaturesIntroducedAfter enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDisableFeaturesIntroducedAfter
 ms.assetid: 4cc08029-c2f2-e952-6209-2cffa1aeb849
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdDisableFeaturesIntroducedAfter Enumeration (Word)
+# WdDisableFeaturesIntroducedAfter enumeration (Word)
 
 Specifies the version of Microsoft Word for which to disable all features introduced after that version. 
 
@@ -20,3 +21,4 @@ Specifies the version of Microsoft Word for which to disable all features introd
 | **wd70FE**|1|Specifies Word for Windows 95, versions 7.0 and 7.0a, Asian edition.|
 | **wd80**|2|Specifies Word 97 for Windows. Default.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

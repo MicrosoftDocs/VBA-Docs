@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultZoomBehavior Property (Visio)
+title: Application.DefaultZoomBehavior property (Visio)
 keywords: vis_sdr.chm10052070
 f1_keywords:
 - vis_sdr.chm10052070
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.DefaultZoomBehavior
 ms.assetid: 59f26e36-90e3-defa-be04-b7a8ce710eeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DefaultZoomBehavior Property (Visio)
+# Application.DefaultZoomBehavior property (Visio)
 
 Determines the zoom behavior for all new Microsoft Visio documents and drawing windows. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultZoomBehavior`
+_expression_. `DefaultZoomBehavior`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -36,7 +37,7 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visZoomNone**|0|Undefined zoom behavior; use the zoom behavior of the document or application|
 | **visZoomInPlaceContainer**|1|The container performs the zoom. This is the default.|
@@ -45,8 +46,8 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
 
 
- **Note**  The default behavior (**visZoomInPlaceContainer**) is different from the behavior used in Microsoft Visio 2002, but is the same as that in earlier versions of Visio. To replicate the behavior seen in Microsoft Visio 2002, set this value to **visZoomVisio** .
+ **Note**  The default behavior (**visZoomInPlaceContainer**) is different from the behavior used in Microsoft Visio 2002, but is the same as that in earlier versions of Visio. To replicate the behavior seen in Microsoft Visio 2002, set this value to **visZoomVisio**.
 
-If this value is set to the default,  **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
+If this value is set to the default,  **visZoomInPlaceContainer**, Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget**, no zooming occurs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

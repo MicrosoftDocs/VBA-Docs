@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselI Method (Excel)
+title: WorksheetFunction.BesselI method (Excel)
 keywords: vbaxl10.chm137305
 f1_keywords:
 - vbaxl10.chm137305
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.BesselI
 ms.assetid: 06bce6ff-a7cb-d8c7-2d80-d9fd54f9324b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.BesselI Method (Excel)
+# WorksheetFunction.BesselI method (Excel)
 
 Returns the modified Bessel function, which is equivalent to the Bessel function evaluated for purely imaginary arguments.
 
 
 ## Syntax
 
- _expression_. `BesselI`( `_Arg1_` , `_Arg2_` )
+_expression_. `BesselI`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

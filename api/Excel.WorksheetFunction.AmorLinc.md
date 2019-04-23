@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AmorLinc Method (Excel)
+title: WorksheetFunction.AmorLinc method (Excel)
 keywords: vbaxl10.chm137343
 f1_keywords:
 - vbaxl10.chm137343
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.AmorLinc
 ms.assetid: 9daa4b32-2364-fcfc-13e8-c3e7689700d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.AmorLinc Method (Excel)
+# WorksheetFunction.AmorLinc method (Excel)
 
 Returns the depreciation for each accounting period. This function is provided for the French accounting system.
 
 
 ## Syntax
 
- _expression_. `AmorLinc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
+_expression_. `AmorLinc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -70,3 +71,4 @@ Microsoft Excel stores dates as sequential serial numbers so they can be used in
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

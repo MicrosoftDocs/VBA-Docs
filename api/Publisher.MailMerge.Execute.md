@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Execute Method (Publisher)
+title: MailMerge.Execute method (Publisher)
 keywords: vbapb10.chm6225940
 f1_keywords:
 - vbapb10.chm6225940
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMerge.Execute
 ms.assetid: edcabcc5-f2ce-53ce-d422-0d6fcb5f8a33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.Execute Method (Publisher)
+# MailMerge.Execute method (Publisher)
 
 Performs the specified mail merge or catalog merge operation. Returns a  **[Document](Publisher.Document.md)** object that represents the new or existing publication specified as the destination of the merge results. Returns **Nothing** if the merge is executed to a printer.
 
 
 ## Syntax
 
- _expression_. **Execute**(**_Pause_**,  **_Destination_**,  **_Filename_**)
+_expression_.**Execute**(**_Pause_**,  **_Destination_**,  **_FileName_**)
 
  _expression_ A variable that represents a  **MailMerge** object.
 
@@ -63,4 +64,4 @@ Sub ExecuteMerge()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

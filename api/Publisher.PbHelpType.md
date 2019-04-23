@@ -1,5 +1,5 @@
 ---
-title: PbHelpType Enumeration (Publisher)
+title: PbHelpType enumeration (Publisher)
 keywords: vbapb10.chm65571
 f1_keywords:
 - vbapb10.chm65571
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbHelpType
 ms.assetid: 1db807b7-de68-8f95-aafb-29000ab1d16e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbHelpType Enumeration (Publisher)
+# PbHelpType enumeration (Publisher)
 
 The type of help to display.
 
@@ -23,3 +24,4 @@ The type of help to display.
 | **pbHelpActiveWindow**|2|Displays Help describing the command associated with the active view or pane.|
 | **pbHelpPSSHelp**|3|Displays product support information.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

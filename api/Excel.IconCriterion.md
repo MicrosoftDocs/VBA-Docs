@@ -1,5 +1,5 @@
 ---
-title: IconCriterion Object (Excel)
+title: IconCriterion object (Excel)
 keywords: vbaxl10.chm814072
 f1_keywords:
 - vbaxl10.chm814072
@@ -7,24 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.IconCriterion
 ms.assetid: 3517d900-4d84-2ded-ccb1-a3d78d3f6c09
-ms.date: 06/08/2017
+ms.date: 03/30/2019
+localization_priority: Normal
 ---
 
 
-# IconCriterion Object (Excel)
+# IconCriterion object (Excel)
 
 Represents the criterion for an individual icon in an icon set. The criterion specifies the range of values and the threshold type associated with the icon in an icon set conditional formatting rule.
 
 
 ## Remarks
 
-All of the criteria for an icon set conditional format are contained in an  **[IconCriteria](Excel.IconCriteria.md)** collection. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
+All the criteria for an icon set conditional format are contained in an **[IconCriteria](Excel.IconCriteria.md)** collection. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
 
 
 ## Example
 
-The following code example creates a range of numbers representing test scores and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a five-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
-
+The following code example creates a range of numbers representing test scores, and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a five-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
 
 ```vb
 Sub CreateIconSetCF() 
@@ -87,10 +87,16 @@ Sub CreateIconSetCF()
 End Sub
 ```
 
+## Properties
+
+- [Icon](Excel.IconCriterion.Icon.md)
+- [Index](Excel.IconCriterion.Index.md)
+- [Operator](Excel.IconCriterion.Operator.md)
+- [Type](Excel.IconCriterion.Type.md)
+- [Value](Excel.IconCriterion.Value.md)
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

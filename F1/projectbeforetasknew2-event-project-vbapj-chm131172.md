@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: feabe99c-be96-469a-892f-a050bd2fbe1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ConnectionStatusChanged Event (Project)](http://msdn.microsoft.com/library/ffc6fc8a-f5b7-3a3d-4829-712a8305ed17%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

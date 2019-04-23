@@ -1,14 +1,15 @@
 ---
-title: xlFilterAction enumeration (Excel)
+title: XlFilterAction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFilterAction
 ms.assetid: a25182bd-f836-adf5-4932-bda5e80e52f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlFilterAction enumeration (Excel)
+# XlFilterAction enumeration (Excel)
 
 Specifies whether data is to be copied or left in place during a filter operation.
 
@@ -19,3 +20,4 @@ Specifies whether data is to be copied or left in place during a filter operatio
 | **xlFilterCopy**|2|Copy filtered data to new location.|
 | **xlFilterInPlace**|1|Leave data in place.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

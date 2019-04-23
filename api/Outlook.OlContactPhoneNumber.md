@@ -1,5 +1,5 @@
 ---
-title: OlContactPhoneNumber Enumeration (Outlook)
+title: OlContactPhoneNumber enumeration (Outlook)
 keywords: vbaol11.chm3150
 f1_keywords:
 - vbaol11.chm3150
@@ -8,12 +8,13 @@ api_name:
 - Outlook.OlContactPhoneNumber
 ms.assetid: 93be67bb-9b2d-05f9-edb5-1e9cf0061ccc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlContactPhoneNumber Enumeration (Outlook)
+# OlContactPhoneNumber enumeration (Outlook)
 
-Specfies the telephone number type.
+Specifies the telephone number type.
 
 
 
@@ -41,6 +42,6 @@ Specfies the telephone number type.
 
 ## Remarks
 
-See [ContactItem Object (Outlook)](Outlook.ContactItem.md).
+See [ContactItem object (Outlook)](Outlook.ContactItem.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

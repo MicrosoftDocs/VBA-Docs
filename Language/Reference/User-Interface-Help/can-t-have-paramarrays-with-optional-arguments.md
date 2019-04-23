@@ -3,6 +3,7 @@ title: Can't have paramarrays with optional arguments
 ms.prod: office
 ms.assetid: e27c774f-eda7-4880-83b1-a5f98d070701
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ You can use a  **ParamArray** to define procedures that accept variable-length a
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat Object (Word)
+title: HorizontalLineFormat object (Word)
 keywords: vbawd10.chm2526
 f1_keywords:
 - vbawd10.chm2526
@@ -8,10 +8,11 @@ api_name:
 - Word.HorizontalLineFormat
 ms.assetid: 55296fc7-9b7e-dcdb-00e0-901015cf0efb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HorizontalLineFormat Object (Word)
+# HorizontalLineFormat object (Word)
 
 Represents horizontal line formatting.
 
@@ -28,7 +29,7 @@ ActiveDocument.InlineShapes(1) _
  wdHorizontalLineAlignLeft
 ```
 
-This example adds a horizontal line without any 3-D shading.
+This example adds a horizontal line without any 3D shading.
 
 
 
@@ -54,6 +55,6 @@ ActiveDocument.InlineShapes(1) _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

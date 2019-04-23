@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.RightHeaderPicture
 ms.assetid: 38fb53d1-7326-97d7-9c4a-285ffe8f42f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Specifies the graphic image that should be displayed in the right header. Read-o
 
 ## Syntax
 
- _expression_. `RightHeaderPicture`
+_expression_. `RightHeaderPicture`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Specifies the graphic image that should be displayed in the right header. Read-o
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

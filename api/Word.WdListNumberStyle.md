@@ -1,14 +1,15 @@
 ---
-title: WdListNumberStyle Enumeration (Word)
+title: WdListNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdListNumberStyle
 ms.assetid: bb3db85b-0910-2b90-037b-a7fc4b705a80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdListNumberStyle Enumeration (Word)
+# WdListNumberStyle enumeration (Word)
 
 Specifies the numeric style to apply to a list.
 
@@ -85,3 +86,4 @@ Specifies the numeric style to apply to a list.
 | **wdListNumberStyleZodiac2**|31|Zodiac 2 style.|
 | **wdListNumberStyleZodiac3**|32|Zodiac 3 style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

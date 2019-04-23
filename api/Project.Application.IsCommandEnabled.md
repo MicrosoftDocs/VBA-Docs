@@ -1,5 +1,5 @@
 ---
-title: Application.IsCommandEnabled Method (Project)
+title: Application.IsCommandEnabled method (Project)
 keywords: vbapj.chm131102
 f1_keywords:
 - vbapj.chm131102
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.IsCommandEnabled
 ms.assetid: 22202fed-7531-0f87-0e38-3ee703717ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.IsCommandEnabled Method (Project)
+# Application.IsCommandEnabled method (Project)
 
 Shows whether the specified command is enabled.
 
 
 ## Syntax
 
- _expression_. `IsCommandEnabled`( ` _CommandName_` )
+_expression_. `IsCommandEnabled`( `_CommandName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -90,4 +91,4 @@ Function GetCommandEnabled(command As String) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

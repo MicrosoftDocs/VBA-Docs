@@ -1,5 +1,5 @@
 ---
-title: Page.Duplicate Method (Publisher)
+title: Page.Duplicate method (Publisher)
 keywords: vbapb10.chm393256
 f1_keywords:
 - vbapb10.chm393256
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Duplicate
 ms.assetid: 9ef9d493-d2ca-8cac-3cce-6f0878acb288
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Duplicate Method (Publisher)
+# Page.Duplicate method (Publisher)
 
 Creates a duplicate of the specified  **Page** object and then returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Duplicate**
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -46,4 +47,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

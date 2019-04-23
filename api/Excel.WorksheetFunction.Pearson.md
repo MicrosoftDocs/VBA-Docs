@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pearson Method (Excel)
+title: WorksheetFunction.Pearson method (Excel)
 keywords: vbaxl10.chm137216
 f1_keywords:
 - vbaxl10.chm137216
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Pearson
 ms.assetid: 43ffbf17-1b1f-6949-052d-5e36862c7d7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Pearson Method (Excel)
+# WorksheetFunction.Pearson method (Excel)
 
 Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive and reflects the extent of a linear relationship between two data sets.
 
 
 ## Syntax
 
- _expression_. `Pearson`( `_Arg1_` , `_Arg2_` )
+_expression_. `Pearson`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

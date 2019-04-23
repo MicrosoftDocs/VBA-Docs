@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFilters.Creator
 ms.assetid: f20c1952-90de-3d14-5d31-77f44ce24767
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotFilters.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotFilters Object](Excel.PivotFilters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

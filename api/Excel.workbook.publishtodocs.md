@@ -1,19 +1,20 @@
 ---
-title: Workbook.PublishToDocs Method (Excel)
+title: Workbook.PublishToDocs method (Excel)
 ms.assetid: 8e2a3208-6cfa-4aac-8c1c-76c0c826461a
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
-# Workbook.PublishToDocs Method (Excel)
+# Workbook.PublishToDocs method (Excel)
 
 Saves the workbook and publishes it to a document.
 
 
 ## Syntax
 
- _expression_ A string that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A string that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -27,4 +28,6 @@ Workbook.PublishToDocs(Title As String, DisclosureScope As XlPublishToDocsDisclo
 ## See also
 
 
-[Workbook Object](./Excel.Workbook.md)
+[Workbook Object](Excel.Workbook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

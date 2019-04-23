@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultFaceUp Property (Word)
+title: Envelope.DefaultFaceUp property (Word)
 keywords: vbawd10.chm152567828
 f1_keywords:
 - vbawd10.chm152567828
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.DefaultFaceUp
 ms.assetid: ce745551-4385-420d-1790-464bf03da3d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.DefaultFaceUp Property (Word)
+# Envelope.DefaultFaceUp property (Word)
 
- **True** if envelopes are fed face up by default. Read/write **Boolean** .
+ **True** if envelopes are fed face up by default. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DefaultFaceUp`
+_expression_. `DefaultFaceUp`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -55,3 +56,4 @@ End If
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

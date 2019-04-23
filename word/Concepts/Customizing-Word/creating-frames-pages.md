@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 0245564e-b2df-83cd-1e32-e63079970dc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -242,4 +243,4 @@ Sub FramesetExample2()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

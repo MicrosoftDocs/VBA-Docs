@@ -1,5 +1,5 @@
 ---
-title: Watches.Add Method (Excel)
+title: Watches.Add method (Excel)
 keywords: vbaxl10.chm688073
 f1_keywords:
 - vbaxl10.chm688073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Watches.Add
 ms.assetid: 18553797-09b9-b99b-c3f3-50864ec2c55a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Watches.Add Method (Excel)
+# Watches.Add method (Excel)
 
 Adds a range which is tracked when the worksheet is recalculated.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Source_` )
+_expression_.**Add**( `_Source_` )
 
- _expression_ A variable that represents a [Watches](./Excel.Watches.md) object.
+_expression_ A variable that represents a [Watches](Excel.Watches.md) object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ End Sub
 
 [Watches Object](Excel.Watches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

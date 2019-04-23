@@ -1,21 +1,22 @@
 ---
-title: MailMergeDataField.FieldType Property (Publisher)
+title: MailMergeDataField.FieldType property (Publisher)
 ms.prod: publisher
 api_name:
 - Publisher.Field.FieldType
 ms.assetid: 9574f59b-a03f-ab0b-a2ac-085f31473f78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataField.FieldType Property (Publisher)
+# MailMergeDataField.FieldType property (Publisher)
 
 Returns a  **pbMailMergeDataFieldType** constant that represents the type of data contained in the data field.
 
 
 ## Syntax
 
- _expression_. **FieldType**
+_expression_.**FieldType**
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 
@@ -62,4 +63,4 @@ Dim pbPictureField1 As Shape
  End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

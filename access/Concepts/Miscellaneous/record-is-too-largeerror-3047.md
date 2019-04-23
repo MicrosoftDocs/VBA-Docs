@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: b5409033-6dee-f597-6286-fbdbd2b1b4c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You defined or imported a table with records larger than 4K. This error occurs w
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

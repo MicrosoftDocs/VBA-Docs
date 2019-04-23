@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.EnableFormatConditionsCalculation
 ms.assetid: f1f56d9f-3a0f-e3d4-f686-1a695a55604e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.EnableFormatConditionsCalculation property (Excel)
 
-Returns or sets if conditional formats will occur automatically as needed. Read/write  **Boolean** .
+Returns or sets if conditional formats will occur automatically as needed. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableFormatConditionsCalculation`
+_expression_. `EnableFormatConditionsCalculation`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The purpose of this flag is to allow VBA programmers to configure a rule complet
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

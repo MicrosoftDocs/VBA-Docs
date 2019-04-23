@@ -1,5 +1,5 @@
 ---
-title: Page.AddGuide Method (Visio)
+title: Page.AddGuide method (Visio)
 keywords: vis_sdr.chm10916035
 f1_keywords:
 - vis_sdr.chm10916035
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.AddGuide
 ms.assetid: 7be0cc07-6322-a3f0-3292-6dc66804db44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.AddGuide Method (Visio)
+# Page.AddGuide method (Visio)
 
 Adds a guide to a drawing page.
 
 
 ## Syntax
 
- _expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
+_expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -44,7 +45,7 @@ The following constants declared by the Visio type library are valid values for 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPoint**|1|Guide point|
 | **visHorz**|2|Horizontal guide|
@@ -88,4 +89,4 @@ Public Sub AddGuide_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

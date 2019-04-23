@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 35e8c78b-50f9-30a5-ed9a-e7627e21f15f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Microsoft Access tried to import/export/link to a text file using a specificatio
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

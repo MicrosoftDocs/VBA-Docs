@@ -1,5 +1,5 @@
 ---
-title: Application.MakeLocalCalendarEnterprise Method (Project)
+title: Application.MakeLocalCalendarEnterprise method (Project)
 keywords: vbapj.chm2369
 f1_keywords:
 - vbapj.chm2369
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.MakeLocalCalendarEnterprise
 ms.assetid: deb355ad-39ca-77cd-7d0d-f5915c7185da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MakeLocalCalendarEnterprise Method (Project)
+# Application.MakeLocalCalendarEnterprise method (Project)
 
 Converts a local calendar to an enterprise calendar.
 
 
 ## Syntax
 
- _expression_. `MakeLocalCalendarEnterprise`( ` _OldName_`, ` _NewName_` )
+_expression_. `MakeLocalCalendarEnterprise`( `_OldName_`, `_NewName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -29,8 +30,8 @@ Converts a local calendar to an enterprise calendar.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _OldName_|Optional|**String**|Name of the local calander.|
-| _NewName_|Optional|**String**|Name of the Enterprise calander.|
+| _OldName_|Optional|**String**|Name of the local calendar.|
+| _NewName_|Optional|**String**|Name of the Enterprise calendar.|
 
 ## Return value
 
@@ -56,4 +57,4 @@ Sub TestCalendar()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

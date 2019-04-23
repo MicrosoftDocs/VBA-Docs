@@ -1,5 +1,5 @@
 ---
-title: TableView.Session Property (Outlook)
+title: TableView.Session property (Outlook)
 keywords: vbaol11.chm2501
 f1_keywords:
 - vbaol11.chm2501
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.Session
 ms.assetid: 6443565e-2a7a-5466-a68e-9baf13e316c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.Session Property (Outlook)
+# TableView.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

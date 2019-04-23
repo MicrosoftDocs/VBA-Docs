@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupNcd Method (Excel)
+title: WorksheetFunction.CoupNcd method (Excel)
 keywords: vbaxl10.chm137331
 f1_keywords:
 - vbaxl10.chm137331
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CoupNcd
 ms.assetid: f52fc397-a48e-8eec-6996-c0e11f11e194
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CoupNcd Method (Excel)
+# WorksheetFunction.CoupNcd method (Excel)
 
 Returns a number that represents the next coupon date after the settlement date.
 
 
 ## Syntax
 
- _expression_. `CoupNcd`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `CoupNcd`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ The following table contains the values used in  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

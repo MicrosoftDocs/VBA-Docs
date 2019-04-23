@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (PowerPoint)
+title: Chart.HasAxis property (PowerPoint)
 keywords: vbapp10.chm684031
 f1_keywords:
 - vbapp10.chm684031
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.HasAxis
 ms.assetid: edb836fb-1a4c-cf70-2ec0-0272b3681e39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasAxis Property (PowerPoint)
+# Chart.HasAxis property (PowerPoint)
 
 Returns or sets which axes exist on the chart. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `HasAxis`( `_Index1_`, `_Index2_` )
+_expression_.**HasAxis** (_Index1_, _Index2_)
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Returns or sets which axes exist on the chart. Read/write  **Variant**.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Optional|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[XlAxisType](PowerPoint.XlAxisType.md)** constants.|
-| _Index2_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants.|
+| _Index1_|Optional|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **[XlAxisType](PowerPoint.XlAxisType.md)** constants.|
+| _Index2_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants.|
 
 ## Remarks
 
@@ -71,3 +72,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

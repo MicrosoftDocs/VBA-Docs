@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Drop Property (Publisher)
+title: CalloutFormat.Drop property (Publisher)
 keywords: vbapb10.chm2490629
 f1_keywords:
 - vbapb10.chm2490629
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.Drop
 ms.assetid: 7878a6a6-9c7c-dfd0-ef1b-d56a5aab6a18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Drop Property (Publisher)
+# CalloutFormat.Drop property (Publisher)
 
 For callouts with an explicitly set drop value, this property returns the vertical distance from the edge of the text bounding box to the place where the callout line attaches to the text box. This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (where the callout points). In this case, the drop distance is measured from the bottom of the text box. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. **Drop**
+_expression_.**Drop**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -55,4 +56,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

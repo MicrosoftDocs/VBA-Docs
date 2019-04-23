@@ -1,5 +1,5 @@
 ---
-title: Font.DoubleStrikeThrough Property (Word)
+title: Font.DoubleStrikeThrough property (Word)
 keywords: vbawd10.chm156369032
 f1_keywords:
 - vbawd10.chm156369032
@@ -8,24 +8,25 @@ api_name:
 - Word.Font.DoubleStrikeThrough
 ms.assetid: 153d23c7-d5ee-4004-c540-ff23e263d9c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.DoubleStrikeThrough Property (Word)
+# Font.DoubleStrikeThrough property (Word)
 
  **True** if the specified font is formatted as double strikethrough text. .
 
 
 ## Syntax
 
- _expression_. `DoubleStrikeThrough`
+_expression_. `DoubleStrikeThrough`
 
  _expression_ A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
 
-Returns  **True** , **False** , or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** . Read/write **Long** .To set or return single-line strikethrough formatting, use the **[StrikeThrough](Word.Font.StrikeThrough.md)** property. Setting **DoubleStrikeThrough** to **True** sets **StrikeThrough** to **False** , and vice versa.
+Returns  **True**, **False**, or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**. Read/write **Long**.To set or return single-line strikethrough formatting, use the **[StrikeThrough](Word.Font.StrikeThrough.md)** property. Setting **DoubleStrikeThrough** to **True** sets **StrikeThrough** to **False**, and vice versa.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

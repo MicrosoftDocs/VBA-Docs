@@ -1,5 +1,5 @@
 ---
-title: Shape.LockAspectRatio Property (Publisher)
+title: Shape.LockAspectRatio property (Publisher)
 keywords: vbapb10.chm2228291
 f1_keywords:
 - vbapb10.chm2228291
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.LockAspectRatio
 ms.assetid: eeb87bb5-01d5-5d21-b268-045497ea3682
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LockAspectRatio Property (Publisher)
+# Shape.LockAspectRatio property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the specified shape retains its original proportions when you resize it. Read/write.
 
 
 ## Syntax
 
- _expression_. **LockAspectRatio**
+_expression_.**LockAspectRatio**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -29,7 +30,7 @@ The  **LockAspectRatio** property value can be one of the **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The height and width of the shape change independently of one another when you resize it.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -51,4 +52,4 @@ Set shp = ActiveDocument.Pages(1).Shapes _
 shp.LockAspectRatio = msoTrue
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

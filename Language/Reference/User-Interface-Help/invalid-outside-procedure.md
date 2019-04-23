@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 46c00b2b-c656-9ad4-bff9-d341a6a7ecd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,3 +24,4 @@ The statement must occur within a  **Sub** or **Function**, or a property proced
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Session Property (Outlook)
+title: TaskRequestAcceptItem.Session property (Outlook)
 keywords: vbaol11.chm1772
 f1_keywords:
 - vbaol11.chm1772
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Session
 ms.assetid: 5b50756f-1b1c-06d3-f3ee-24e71a66d01b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Session Property (Outlook)
+# TaskRequestAcceptItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

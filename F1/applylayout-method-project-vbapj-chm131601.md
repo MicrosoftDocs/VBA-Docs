@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0a1c007a-1e8c-4132-bdce-33e249e395c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Cell.CellColor Property (Project)](http://msdn.microsoft.com/library/30d67933-a9ce-9e57-f7ac-c4af2f485959%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

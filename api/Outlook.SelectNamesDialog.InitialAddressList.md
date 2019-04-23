@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog.InitialAddressList Property (Outlook)
+title: SelectNamesDialog.InitialAddressList property (Outlook)
 keywords: vbaol11.chm835
 f1_keywords:
 - vbaol11.chm835
@@ -8,26 +8,27 @@ api_name:
 - Outlook.SelectNamesDialog.InitialAddressList
 ms.assetid: 19cfe6be-e6b5-62e0-741a-b196ef7bac77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SelectNamesDialog.InitialAddressList Property (Outlook)
+# SelectNamesDialog.InitialAddressList property (Outlook)
 
 Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that determines the initial address list to be displayed in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
 
- _expression_. `InitialAddressList`
+_expression_. `InitialAddressList`
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks
 
 Setting the  **InitialAddressList** property is the programmatic equivalent to selecting an **AddressList** from the drop-down list for **Address Book** in the **Select Names** dialog box.
 
-In its default state,  **InitialAddressList** is the **AddressList** that has the property **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** set to **True** . **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box.
+In its default state,  **InitialAddressList** is the **AddressList** that has the property **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** set to **True**. **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box.
 
 
 ## Example
@@ -95,3 +96,4 @@ End Sub
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

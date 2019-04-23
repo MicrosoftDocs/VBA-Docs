@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry Object (Word)
+title: AutoTextEntry object (Word)
 keywords: vbawd10.chm2358
 f1_keywords:
 - vbawd10.chm2358
@@ -8,10 +8,11 @@ api_name:
 - Word.AutoTextEntry
 ms.assetid: 37a2cf05-ae07-d411-9bd8-ab4726b303a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoTextEntry Object (Word)
+# AutoTextEntry object (Word)
 
 Represents a single AutoText entry. The  **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](Word.autotextentries.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 
@@ -62,6 +63,6 @@ NormalTemplate.AutoTextEntries.Add Name:="Blue", _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

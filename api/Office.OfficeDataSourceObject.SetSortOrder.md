@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.SetSortOrder Method (Office)
+title: OfficeDataSourceObject.SetSortOrder method (Office)
 keywords: vbaof11.chm232008
 f1_keywords:
 - vbaof11.chm232008
@@ -7,38 +7,37 @@ ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.SetSortOrder
 ms.assetid: 427d3a81-1863-4e52-02d4-7485553a4d2f
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# OfficeDataSourceObject.SetSortOrder Method (Office)
+# OfficeDataSourceObject.SetSortOrder method (Office)
 
 Sets the sort order for mail merge data.
 
 
 ## Syntax
 
- _expression_. `SetSortOrder`( `_SortField1_`, `_SortAscending1_`, `_SortField2_`, `_SortAscending2_`, `_SortField3_`, `_SortAscending3_` )
+_expression_.**SetSortOrder** (_SortField1_, _SortAscending1_, _SortField2_, _SortAscending2_, _SortField3_, _SortAscending3_)
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+_expression_ A variable that represents an **[OfficeDataSourceObject](Office.OfficeDataSourceObject.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SortField1_|Required|**String**|The first field on which to sort the mail merge data.|
-| _SortAscending1_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField1;  **False** to perform a descending sort.|
+| _SortAscending1_|Optional|**Boolean**|**True** (default) to perform an ascending sort on SortField1; **False** to perform a descending sort.|
 | _SortField2_|Optional|**String**|The second field on which to sort the mail merge data. Default is an empty string.|
-| _SortAscending2_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField2;  **False** to perform a descending sort.|
+| _SortAscending2_|Optional|**Boolean**|**True** (default) to perform an ascending sort on SortField2; **False** to perform a descending sort.|
 | _SortField3_|Optional|**String**|The third field on which to sort the mail merge data. Default is an empty string.|
-| _SortAscending3_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField3;  **False** to perform a descending sort.|
+| _SortAscending3_|Optional|**Boolean**|**True** (default) to perform an ascending sort on SortField3; **False** to perform a descending sort.|
 
 ## Example
 
-The following example sorts the data source first according to Postal Code in descending order, then on last name and first name in ascending order.
+The following example sorts the data source first according to Postal Code in descending order, and then on last name and first name in ascending order.
 
 
 ```vb
@@ -60,10 +59,9 @@ End Sub
 
 ## See also
 
-
-[OfficeDataSourceObject Object](Office.OfficeDataSourceObject.md)
-
+- [OfficeDataSourceObject object members](overview/library-reference/officedatasourceobject-members-office.md)
 
 
-[OfficeDataSourceObject Object Members](./overview/Library-Reference/officedatasourceobject-members-office.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

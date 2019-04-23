@@ -1,5 +1,5 @@
 ---
-title: Cell.RightPadding Property (Word)
+title: Cell.RightPadding property (Word)
 keywords: vbawd10.chm156106866
 f1_keywords:
 - vbawd10.chm156106866
@@ -8,17 +8,18 @@ api_name:
 - Word.Cell.RightPadding
 ms.assetid: 6e71d162-7a8a-9ff2-38ec-c7867804d28b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.RightPadding Property (Word)
+# Cell.RightPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the right of the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the right of the contents of a single cell or all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_.**RightPadding**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).RightPadding = _
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

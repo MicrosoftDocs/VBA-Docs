@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b0a2db0c-a18e-483f-a57c-04d6743f774c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ComboBox.Format property (Access)](http://msdn.microsoft.com/library/9bb18f6a-0a25-9bbf-88ba-adf603c11826%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

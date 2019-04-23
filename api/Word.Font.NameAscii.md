@@ -1,5 +1,5 @@
 ---
-title: Font.NameAscii Property (Word)
+title: Font.NameAscii property (Word)
 keywords: vbawd10.chm156369053
 f1_keywords:
 - vbawd10.chm156369053
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.NameAscii
 ms.assetid: 9725a12b-0dd2-0bf7-faa6-2c2b68107771
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.NameAscii Property (Word)
+# Font.NameAscii property (Word)
 
-Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write  **String** .
+Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `NameAscii`
+_expression_. `NameAscii`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -43,3 +44,4 @@ Selection.Font.NameAscii = "Century"
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

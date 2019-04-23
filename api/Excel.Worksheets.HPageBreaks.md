@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheets.HPageBreaks
 ms.assetid: d5541a3f-df09-a8cf-8a40-90a014b0c464
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents t
 
 ## Syntax
 
- _expression_. `HPageBreaks`
+_expression_.**HPageBreaks**
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

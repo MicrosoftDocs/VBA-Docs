@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddNextIf Method (Word)
+title: MailMergeFields.AddNextIf method (Word)
 keywords: vbawd10.chm153026668
 f1_keywords:
 - vbawd10.chm153026668
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.AddNextIf
 ms.assetid: ac89e9c2-48b5-243b-65f4-4904fb18d043
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.AddNextIf Method (Word)
+# MailMergeFields.AddNextIf method (Word)
 
 Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField** object.
 
 
 ## Syntax
 
- _expression_. `AddNextIf`( `_Range_` , `_MergeField_` , `_Comparison_` , `_CompareTo_` )
+_expression_. `AddNextIf`( `_Range_` , `_MergeField_` , `_Comparison_` , `_CompareTo_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Documents("Main.doc").MailMerge.Fields.AddNextIf _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

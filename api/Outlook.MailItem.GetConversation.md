@@ -1,5 +1,5 @@
 ---
-title: MailItem.GetConversation Method (Outlook)
+title: MailItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3387
 f1_keywords:
 - vbaol11.chm3387
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.GetConversation
 ms.assetid: f2017571-087c-1e83-4003-cb95097d43da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.GetConversation Method (Outlook)
+# MailItem.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
+_expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
 
 
 ## Return value
@@ -158,3 +159,4 @@ void EnumerateConversation(object item,
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

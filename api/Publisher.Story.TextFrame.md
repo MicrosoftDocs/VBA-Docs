@@ -1,5 +1,5 @@
 ---
-title: Story.TextFrame Property (Publisher)
+title: Story.TextFrame property (Publisher)
 keywords: vbapb10.chm5832709
 f1_keywords:
 - vbapb10.chm5832709
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Story.TextFrame
 ms.assetid: bb6ce510-068c-27c2-9df0-a709ab46db2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Story.TextFrame Property (Publisher)
+# Story.TextFrame property (Publisher)
 
 Returns a  **[TextFrame](Publisher.TextFrame.md)** object that represents the text in a shape and the properties that control the margins and orientation of the text.
 
 
 ## Syntax
 
- _expression_. **TextFrame**
+_expression_.**TextFrame**
 
  _expression_ A variable that represents a  **Story** object.
 
@@ -41,4 +42,4 @@ Sub AddTextToTextFrame()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: MailItem.ReplyAll Event (Outlook)
+title: MailItem.ReplyAll event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReplyAll
 ms.assetid: f303adaf-71a3-e855-403d-2a6a3c8f9ceb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.ReplyAll Event (Outlook)
+# MailItem.ReplyAll event (Outlook)
 
 Occurs when the user selects the  **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
+_expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -27,7 +28,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Response_|Required| **Object**|The new item being sent in response to the original message.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the reply all operation is not completed and the new item is not displayed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the reply all operation is not completed and the new item is not displayed.|
 
 ## Remarks
 
@@ -77,3 +78,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

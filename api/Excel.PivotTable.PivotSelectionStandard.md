@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.PivotSelectionStandard
 ms.assetid: 72252681-65ec-885b-466d-fb890db812a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** indicating the PivotTable selection in standard Pi
 
 ## Syntax
 
- _expression_. `PivotSelectionStandard`
+_expression_. `PivotSelectionStandard`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

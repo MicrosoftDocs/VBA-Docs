@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Fill Property (Publisher)
+title: ShapeRange.Fill property (Publisher)
 keywords: vbapb10.chm2293815
 f1_keywords:
 - vbapb10.chm2293815
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Fill
 ms.assetid: cdff2b6f-52f5-3ab3-c57a-4647888cd96f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Fill Property (Publisher)
+# ShapeRange.Fill property (Publisher)
 
  Returns a **[FillFormat](Publisher.FillFormat.md)** object representing the fill for the specified shape or table cell.
 
 
 ## Syntax
 
- _expression_. **Fill**
+_expression_.**Fill**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -41,4 +42,4 @@ Sub NewShapeItem()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

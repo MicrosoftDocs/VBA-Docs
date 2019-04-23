@@ -1,26 +1,27 @@
 ---
-title: CommandBarControl.Reset Method (Office)
+title: CommandBarControl.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Reset
 ms.assetid: 7b2d42c4-ac1c-209e-6fe8-bd5ec91d1c57
-ms.date: 06/08/2017
+ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarControl.Reset Method (Office)
+# CommandBarControl.Reset method (Office)
 
-Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarControl** to its original function and face.
+Resets a built-in command bar to its default configuration, or resets a built-in **CommandBarControl** to its original function and face.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_.**Reset**
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+_expression_ A variable that represents a **[CommandBarControl](Office.CommandBarControl.md)** object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ Resetting a built-in control restores the actions originally intended for the co
 
 ## Example
 
-This example uses the value of user to adjust the command bars according to the user level. If user is "Level 1," the command bar named "Custom" is displayed. If user is any other value, the built-in Visual Basic command bar is reset to its default state and the command bar named "Custom" is disabled.
+This example uses the value of user to adjust the command bars according to the user level. If user is "Level 1," the command bar named **Custom** is displayed. If user is any other value, the built-in Visual Basic command bar is reset to its default state and the command bar named **Custom** is disabled.
 
 
 ```vb
@@ -46,10 +47,6 @@ End If
 
 ## See also
 
+- [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)
 
-[CommandBarControl Object](Office.CommandBarControl.md)
-
-
-
-[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforePrint Event (Excel)
+title: Workbook.BeforePrint event (Excel)
 keywords: vbaxl10.chm503078
 f1_keywords:
 - vbaxl10.chm503078
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.BeforePrint
 ms.assetid: 2c97cb32-2bb3-2848-b5ed-32d9129af080
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BeforePrint Event (Excel)
+# Workbook.BeforePrint event (Excel)
 
 Occurs before the workbook (or anything in it) is printed.
 
 
 ## Syntax
 
- _expression_. `BeforePrint`( `_Cancel_` )
+_expression_. `BeforePrint`( `_Cancel_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs before the workbook (or anything in it) is printed.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook isn't printed when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the workbook isn't printed when the procedure is finished.|
 
 ## Return value
 
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

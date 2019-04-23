@@ -1,5 +1,5 @@
 ---
-title: ColorEffect.Parent Property (PowerPoint)
+title: ColorEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm659002
 f1_keywords:
 - vbapp10.chm659002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorEffect.Parent
 ms.assetid: 9268ba5b-e07b-8919-dcdd-cba134cf4173
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorEffect.Parent Property (PowerPoint)
+# ColorEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
+_expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [ColorEffect Object](PowerPoint.ColorEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

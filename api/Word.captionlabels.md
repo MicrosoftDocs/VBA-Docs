@@ -1,12 +1,13 @@
 ---
-title: CaptionLabels Object (Word)
+title: CaptionLabels object (Word)
 ms.prod: word
 ms.assetid: 7d18c0d6-6d58-9841-4665-ab13e2e2ad9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionLabels Object (Word)
+# CaptionLabels object (Word)
 
 A collection of  **[CaptionLabel](Word.CaptionLabel.md)** objects that represent the available caption labels. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 
@@ -48,7 +49,7 @@ MsgBox CaptionLabels(1).Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.CaptionLabels.Add.md)|
 |[Item](Word.CaptionLabels.Item.md)|
@@ -57,7 +58,7 @@ MsgBox CaptionLabels(1).Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.CaptionLabels.Application.md)|
 |[Count](Word.CaptionLabels.Count.md)|
@@ -67,4 +68,6 @@ MsgBox CaptionLabels(1).Name
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

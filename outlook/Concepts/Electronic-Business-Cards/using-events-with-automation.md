@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 6ca0a0fa-1cda-c052-4dee-1055cceb2b28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -82,4 +83,4 @@ Register_Event_Handler
 
 procedure is run, the  `myOlApp` object in the form or class module points to the Outlook **Application** object, and the event procedure will run when the event occurs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

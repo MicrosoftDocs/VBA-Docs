@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Line Property (Publisher)
+title: ShapeRange.Line property (Publisher)
 keywords: vbapb10.chm2293826
 f1_keywords:
 - vbapb10.chm2293826
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Line
 ms.assetid: e9a6e8a0-f57a-63af-3040-5c43f8aba423
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Line Property (Publisher)
+# ShapeRange.Line property (Publisher)
 
 Returns a  **[LineFormat](Publisher.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.).
 
 
 ## Syntax
 
- _expression_. **Line**
+_expression_.**Line**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -51,4 +52,4 @@ With ActiveDocument.Pages(1).Shapes _
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

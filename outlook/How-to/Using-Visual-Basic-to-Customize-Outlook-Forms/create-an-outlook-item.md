@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: bf84371a-63c2-5b8b-2017-dc01cb79f710
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,7 +28,4 @@ In design mode:
 End Sub
 ```
 
-
-    
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

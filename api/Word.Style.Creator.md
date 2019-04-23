@@ -1,5 +1,5 @@
 ---
-title: Style.Creator Property (Word)
+title: Style.Creator property (Word)
 keywords: vbawd10.chm153879529
 f1_keywords:
 - vbawd10.chm153879529
@@ -8,19 +8,20 @@ api_name:
 - Word.Style.Creator
 ms.assetid: dce5e2bb-93f9-acc4-7173-3375eaf76eff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.Creator Property (Word)
+# Style.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

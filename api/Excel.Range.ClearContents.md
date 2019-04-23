@@ -1,5 +1,5 @@
 ---
-title: Range.ClearContents Method (Excel)
+title: Range.ClearContents method (Excel)
 keywords: vbaxl10.chm144095
 f1_keywords:
 - vbaxl10.chm144095
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.ClearContents
 ms.assetid: 8c957fdd-e99d-ca0e-7d2c-4cb1db62639a
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
-# Range.ClearContents Method (Excel)
+# Range.ClearContents method (Excel)
 
 Clears formulas and values from the range.
 
 
 ## Syntax
 
- _expression_. `ClearContents`
+_expression_. `ClearContents`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Range("A1:G37").ClearContents
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

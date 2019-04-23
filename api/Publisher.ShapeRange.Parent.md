@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Parent Property (Publisher)
+title: ShapeRange.Parent property (Publisher)
 keywords: vbapb10.chm2293762
 f1_keywords:
 - vbapb10.chm2293762
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Parent
 ms.assetid: 3dd8c1bf-e204-422a-2719-12ace0550702
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Parent Property (Publisher)
+# ShapeRange.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

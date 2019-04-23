@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Type Property (Publisher)
+title: WrapFormat.Type property (Publisher)
 keywords: vbapb10.chm786435
 f1_keywords:
 - vbapb10.chm786435
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WrapFormat.Type
 ms.assetid: da53302c-ae95-5aa9-a4ce-32647a2569d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.Type Property (Publisher)
+# WrapFormat.Type property (Publisher)
 
 Specifies how text wraps around the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Type**
+_expression_.**Type**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 
@@ -48,4 +49,4 @@ Sub SetTextWrapType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

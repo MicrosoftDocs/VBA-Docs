@@ -1,17 +1,18 @@
 ---
-title: Shape.ConnectorFormat Property (Project)
+title: Shape.ConnectorFormat property (Project)
 ms.prod: project-server
 ms.assetid: 8bcbe86a-164e-038f-c41a-2d951e549aef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ConnectorFormat Property (Project)
+# Shape.ConnectorFormat property (Project)
 Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **Shape** that represents a connector. Read-only **[ConnectorFormat](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_. `ConnectorFormat`
+_expression_. `ConnectorFormat`
 
  _expression_ A variable that represents a 'Shape' object.
 
@@ -48,3 +49,5 @@ End With
 [Shape Object](Project.shape.md)
 [AddConnector Method](Project.shapes.addconnector.md)
 [ConnectorFormat](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

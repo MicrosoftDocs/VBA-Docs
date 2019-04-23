@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObjects.SourceName
 ms.assetid: 8e317f28-990b-9d8c-3b0c-577e238fa063
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the specified object's link 
 
 ## Syntax
 
- _expression_. `SourceName`
+_expression_. `SourceName`
 
- _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value that represents the specified object's link 
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

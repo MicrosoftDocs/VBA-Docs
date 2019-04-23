@@ -1,5 +1,5 @@
 ---
-title: Conversation.SetAlwaysDelete Method (Outlook)
+title: Conversation.SetAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3445
 f1_keywords:
 - vbaol11.chm3445
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.SetAlwaysDelete
 ms.assetid: f13fce28-864e-a607-304d-a3722845cdd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.SetAlwaysDelete Method (Outlook)
+# Conversation.SetAlwaysDelete method (Outlook)
 
 Specifies a setting for the specified delivery store that indicates whether all existing items and all new items that arrive in the conversation are always moved to the Deleted Items folder in the specified delivery store.
 
 
 ## Syntax
 
- _expression_. `SetAlwaysDelete`( `_AlwaysDelete_` , `_Store_` )
+_expression_. `SetAlwaysDelete`( `_AlwaysDelete_` , `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -36,9 +37,9 @@ Specifies a setting for the specified delivery store that indicates whether all 
 
 The  **SetAlwaysDelete** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the store specified by the _Store_ parameter represents a non-delivery store such as an archive .pst store, the action is applied to conversation items in the default delivery store.
 
-If the  _AlwaysDelete_ parameter is **olAlwaysDelete** , conversation items are moved to the Deleted Items folder for the specfied store. In this case, the items are not permanently deleted, unless the user has specified a separate option to permanently delete items when Microsoft Outlook shuts down.
+If the  _AlwaysDelete_ parameter is **olAlwaysDelete**, conversation items are moved to the Deleted Items folder for the specified store. In this case, the items are not permanently deleted, unless the user has specified a separate option to permanently delete items when Microsoft Outlook shuts down.
 
-If  **SetAlwaysDelete** returns **olDoNotDelete** , existing conversation items and new items that arrive in the conversation are not moved to the Deleted Items folder in the specified delivery store, and existing conversation items in the Deleted Items folder are moved to the Inbox.
+If  **SetAlwaysDelete** returns **olDoNotDelete**, existing conversation items and new items that arrive in the conversation are not moved to the Deleted Items folder in the specified delivery store, and existing conversation items in the Deleted Items folder are moved to the Inbox.
 
 
 ## Example
@@ -71,3 +72,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

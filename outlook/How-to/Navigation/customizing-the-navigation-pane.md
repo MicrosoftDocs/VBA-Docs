@@ -3,6 +3,7 @@ title: Customizing the Navigation Pane
 ms.prod: outlook
 ms.assetid: 426c3d1c-13b5-cac5-702d-87dfe71f2478
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -69,3 +70,4 @@ To detect a user change a folder in the Folder List, use the  **[BeforeFolderSwi
 
  [Adding Solution-Specific Folders to the Solutions Module](adding-solution-specific-folders-to-the-solutions-module.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

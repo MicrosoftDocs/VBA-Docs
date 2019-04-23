@@ -8,19 +8,20 @@ api_name:
 - Excel.TextFrame.AutoSize
 ms.assetid: bf434f76-5749-8163-f737-b3bd624092d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextFrame.AutoSize property (Excel)
 
- **True** if the size of the specified object is changed automatically to fit text within its boundaries. Read/write **Boolean** .
+ **True** if the size of the specified object is changed automatically to fit text within its boundaries. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoSize`
+_expression_. `AutoSize`
 
- _expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).Shapes(1).TextFrame.AutoSize = True
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Resource.PayRates Property (Project)
+title: Resource.PayRates property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.PayRates
 ms.assetid: bd01dd18-bbf4-52d5-bc37-d525603fcb8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.PayRates Property (Project)
+# Resource.PayRates property (Project)
 
 Gets a  **[PayRates](Project.PayRate.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
 
 
 ## Syntax
 
- _expression_. `PayRates`
+_expression_. `PayRates`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -48,4 +49,4 @@ Sub ListPayRates()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

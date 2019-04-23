@@ -1,5 +1,5 @@
 ---
-title: Task.Rollup Property (Project)
+title: Task.Rollup property (Project)
 keywords: vbapj.chm132588
 f1_keywords:
 - vbapj.chm132588
@@ -8,17 +8,18 @@ api_name:
 - Project.Task.Rollup
 ms.assetid: 8f29afc1-85ec-d835-bc08-7311e9063ae4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Rollup Property (Project)
+# Task.Rollup property (Project)
 
  **True** if the dates of a subtask appear on its corresponding summary task bar. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Rollup`
+_expression_. `Rollup`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -52,4 +53,4 @@ Sub DisplayMilestonesInSummaryBars()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.SpaceAfterAuto Property (Word)
+title: Paragraphs.SpaceAfterAuto property (Word)
 keywords: vbawd10.chm156762245
 f1_keywords:
 - vbawd10.chm156762245
@@ -8,26 +8,27 @@ api_name:
 - Word.Paragraphs.SpaceAfterAuto
 ms.assetid: 699b6a20-63dd-55f1-a0da-f26a3a1f7bfc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.SpaceAfterAuto Property (Word)
+# Paragraphs.SpaceAfterAuto property (Word)
 
- **True** if Microsoft Word automatically sets the amount of spacing after the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word automatically sets the amount of spacing after the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `SpaceAfterAuto`
+_expression_. `SpaceAfterAuto`
 
  _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks
 
-This property returns  **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False** .
+This property returns  **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
 
-If  **SpaceAfterAuto** is set to **True** , the **SpaceAfter** property is ignored.
+If  **SpaceAfterAuto** is set to **True**, the **SpaceAfter** property is ignored.
 
 
 ## Example
@@ -56,3 +57,4 @@ End Select
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

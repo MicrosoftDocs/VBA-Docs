@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Text
 ms.assetid: e38c15b1-5941-0a28-1acf-328bc214a2e0
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
 # Range.Text property (Excel)
 
-Returns the formatted text for the specified object. Read-only **String** .
+Returns the formatted text for the specified object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ MsgBox c.Text & " is the text."   'Returns "$1,198 is the text."
 
 - [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

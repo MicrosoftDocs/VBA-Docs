@@ -1,14 +1,15 @@
 ---
-title: PjResAssignOperation Enumeration (Project)
+title: PjResAssignOperation enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResAssignOperation
 ms.assetid: 555d439a-6464-f5e1-a9f2-925640e321a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjResAssignOperation Enumeration (Project)
+# PjResAssignOperation enumeration (Project)
 
 Contains constants that specify the assignment of resources.
 
@@ -21,3 +22,4 @@ Contains constants that specify the assignment of resources.
 |**pjRemove**|1|Removes the specified resources from the selected tasks.|
 |**pjReplace**|2|The resources specified with  **With** replace the resources specified with **Resources**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

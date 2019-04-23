@@ -3,6 +3,7 @@ title: CommandButton.ForeColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 229e3c11-905c-37ff-1d36-a0f85eb0c691
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the foreground color of an object. Re
 
 ## Syntax
 
- _expression_. **ForeColor**
+_expression_.**ForeColor**
 
- _expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ RGB(15,200,75)
 
 Use the  **ForeColor** property for controls on forms to make them easy to read or to convey a special meaning. For example, if a text box reports the number of units in stock, you can change the color of the text when the value falls below the reorder level.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

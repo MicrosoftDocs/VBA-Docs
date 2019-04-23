@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d8e21130-4e48-49e7-b072-53374962ff39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.PageChanged Event (Visio)](http://msdn.microsoft.com/library/d0d870b2-d2d1-4b56-39b9-8c4bbc5ea63c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

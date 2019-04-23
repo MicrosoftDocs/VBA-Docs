@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f9a068bd-53b4-43fd-a822-b97f770d3bd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Rollup Property (Project)](http://msdn.microsoft.com/library/8f29afc1-85ec-d835-bc08-7311e9063ae4%28Office.15%29.aspx)
 [Resource.RemainingCost Property (Project)](http://msdn.microsoft.com/library/60e68cce-9335-6800-6075-9d3e6945a6b0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

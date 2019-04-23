@@ -1,5 +1,5 @@
 ---
-title: Table.Columns Property (Word)
+title: Table.Columns property (Word)
 keywords: vbawd10.chm156303460
 f1_keywords:
 - vbawd10.chm156303460
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.Columns
 ms.assetid: 6f4c70ef-032d-7f05-1b21-c5c86af804bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Columns Property (Word)
+# Table.Columns property (Word)
 
 Returns a  **[Columns](Word.columns.md)** collection that represents all the table columns in the table. Read-only.
 
 
 ## Syntax
 
- _expression_. `Columns`
+_expression_. `Columns`
 
  _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 
@@ -45,3 +46,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

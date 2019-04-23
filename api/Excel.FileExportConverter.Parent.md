@@ -8,6 +8,7 @@ api_name:
 - Excel.FileExportConverter.Parent
 ms.assetid: a8dd4d58-b5b3-125e-decb-49d2e169b6af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **Object** that represents the parent object of the specified **[Fil
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
+_expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **[Fil
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

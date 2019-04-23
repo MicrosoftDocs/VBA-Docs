@@ -8,6 +8,7 @@ api_name:
 - Excel.TreeviewControl.Application
 ms.assetid: b883fb0e-c382-4ac3-ca93-9364d3b490d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [TreeviewControl](./Excel.TreeviewControl.md) object.
+_expression_ A variable that represents a [TreeviewControl](Excel.TreeviewControl.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [TreeviewControl Object](Excel.TreeviewControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

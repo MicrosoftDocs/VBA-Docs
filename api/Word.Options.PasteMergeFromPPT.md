@@ -1,5 +1,5 @@
 ---
-title: Options.PasteMergeFromPPT Property (Word)
+title: Options.PasteMergeFromPPT property (Word)
 keywords: vbawd10.chm162988465
 f1_keywords:
 - vbawd10.chm162988465
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PasteMergeFromPPT
 ms.assetid: 5e0b04ba-5dce-a3cf-9bc8-672f55b5b10e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PasteMergeFromPPT Property (Word)
+# Options.PasteMergeFromPPT property (Word)
 
- **True** to merge text formatting when pasting from Microsoft PowerPoint. Read/write **Boolean** .
+ **True** to merge text formatting when pasting from Microsoft PowerPoint. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PasteMergeFromPPT`
+_expression_. `PasteMergeFromPPT`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -44,3 +45,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.Keywords Property (Publisher)
+title: WebPageOptions.Keywords property (Publisher)
 keywords: vbapb10.chm544772
 f1_keywords:
 - vbapb10.chm544772
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebPageOptions.Keywords
 ms.assetid: 8dd7b073-747e-a6f6-a20d-0b3e3d9a27b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebPageOptions.Keywords Property (Publisher)
+# WebPageOptions.Keywords property (Publisher)
 
 Returns or sets a  **String** that represents the keywords for a Web page within a Web publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **Keywords**
+_expression_.**Keywords**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 
@@ -43,4 +44,4 @@ With theWPO
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

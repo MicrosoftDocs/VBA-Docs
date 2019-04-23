@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Overflowing Property (Publisher)
+title: TextFrame.Overflowing property (Publisher)
 keywords: vbapb10.chm3866649
 f1_keywords:
 - vbapb10.chm3866649
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.Overflowing
 ms.assetid: 5a0f053b-519a-1637-0d73-992c56cdd7f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Overflowing Property (Publisher)
+# TextFrame.Overflowing property (Publisher)
 
 Indicates whether the text frame contains more text than can fit into the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Overflowing**
+_expression_.**Overflowing**
 
  _expression_ A variable that represents an  **TextFrame** object.
 
@@ -56,4 +57,4 @@ Sub IncreaseTextBoxHeight()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

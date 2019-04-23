@@ -8,6 +8,7 @@ api_name:
 - Excel.Panes.Item
 ms.assetid: 5960e77c-23b4-2ce4-1674-2ffd3b4f6e47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Panes](Excel.Panes.md) object.
+_expression_ A variable that represents a [Panes](Excel.Panes.md) object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ ActiveWindow.Panes.Item(3).ScrollRow = 5
 
 [Panes Object](Excel.Panes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

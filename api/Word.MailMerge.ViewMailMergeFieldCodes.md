@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ViewMailMergeFieldCodes Property (Word)
+title: MailMerge.ViewMailMergeFieldCodes property (Word)
 keywords: vbawd10.chm153092102
 f1_keywords:
 - vbawd10.chm153092102
@@ -8,24 +8,25 @@ api_name:
 - Word.MailMerge.ViewMailMergeFieldCodes
 ms.assetid: f39e93d8-bc80-8a3d-8bfc-5d6fbb0162f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.ViewMailMergeFieldCodes Property (Word)
+# MailMerge.ViewMailMergeFieldCodes property (Word)
 
- **True** if merge field names are displayed in a mail merge main document. **False** if information from the current record is displayed. Read/write **Long** .
+ **True** if merge field names are displayed in a mail merge main document. **False** if information from the current record is displayed. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ViewMailMergeFieldCodes`
+_expression_. `ViewMailMergeFieldCodes`
 
  _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks
 
-If the active document isn't a mail merge main document, this property causes an error. To view merge field names or their results, set the  **[ShowFieldCodes](Word.View.ShowFieldCodes.md)** property to **False** .
+If the active document isn't a mail merge main document, this property causes an error. To view merge field names or their results, set the  **[ShowFieldCodes](Word.View.ShowFieldCodes.md)** property to **False**.
 
 
 ## Example
@@ -61,3 +62,4 @@ End If
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

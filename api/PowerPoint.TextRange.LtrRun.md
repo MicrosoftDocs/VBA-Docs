@@ -1,5 +1,5 @@
 ---
-title: TextRange.LtrRun Method (PowerPoint)
+title: TextRange.LtrRun method (PowerPoint)
 keywords: vbapp10.chm569039
 f1_keywords:
 - vbapp10.chm569039
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.LtrRun
 ms.assetid: 5c6787cc-d37c-8aec-b49e-12418291e006
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.LtrRun Method (PowerPoint)
+# TextRange.LtrRun method (PowerPoint)
 
 Sets the direction of text in a text range to read from left to right.
 
 
 ## Syntax
 
- _expression_. `LtrRun`
+_expression_. `LtrRun`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -53,3 +54,4 @@ Next
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

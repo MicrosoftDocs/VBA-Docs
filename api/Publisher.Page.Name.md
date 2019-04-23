@@ -1,5 +1,5 @@
 ---
-title: Page.Name Property (Publisher)
+title: Page.Name property (Publisher)
 keywords: vbapb10.chm131098
 f1_keywords:
 - vbapb10.chm131098
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Name
 ms.assetid: cd81994d-506a-69ca-c7f6-472705b2ccd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Name Property (Publisher)
+# Page.Name property (Publisher)
 
 Returns or sets a  **String** value indicating the name of the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -29,4 +30,4 @@ You can use an object's name in conjunction with the  **Item** method or **Item*
 
 The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

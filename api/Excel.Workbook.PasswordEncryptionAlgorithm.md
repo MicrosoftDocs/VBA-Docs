@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.PasswordEncryptionAlgorithm
 ms.assetid: 2745a8da-2a61-b949-115a-7f1112a0289e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** indicating the algorithm Microsoft Excel uses to encrypt p
 
 ## Syntax
 
- _expression_. `PasswordEncryptionAlgorithm`
+_expression_. `PasswordEncryptionAlgorithm`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

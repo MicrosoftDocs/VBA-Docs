@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: f2b182f2-81a6-68c4-3bfe-f0c4de4e5c54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ An invalid parameter appeared in the TOP clause of a SELECT statement. The value
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

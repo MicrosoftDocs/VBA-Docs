@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetX Property (PowerPoint)
+title: ShadowFormat.OffsetX property (PowerPoint)
 keywords: vbapp10.chm554006
 f1_keywords:
 - vbapp10.chm554006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShadowFormat.OffsetX
 ms.assetid: 54c43556-99cc-dbd4-5192-abd57798d73f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetX Property (PowerPoint)
+# ShadowFormat.OffsetX property (PowerPoint)
 
 Returns or sets the horizontal offset of the shadow from the specified shape, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `OffsetX`
+_expression_. `OffsetX`
 
  _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -37,7 +38,7 @@ If you want to nudge a shadow horizontally or vertically from its current positi
 
 ## Example
 
-This example sets the horizontal and vertical offsets of the shadow for shape three on  `myDocument`. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it.
+This example sets the horizontal and vertical offsets of the shadow for shape three on  _myDocument_. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it.
 
 
 ```vb
@@ -60,3 +61,4 @@ End With
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

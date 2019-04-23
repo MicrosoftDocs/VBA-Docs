@@ -1,5 +1,5 @@
 ---
-title: Point.Creator Property (Word)
+title: Point.Creator property (Word)
 keywords: vbawd10.chm262144149
 f1_keywords:
 - vbawd10.chm262144149
@@ -8,17 +8,18 @@ api_name:
 - Word.Point.Creator
 ms.assetid: a3ffad03-52c4-c785-403b-c24a7fca856b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.Creator Property (Word)
+# Point.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

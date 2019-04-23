@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.CharBasedFirstLineIndent Property (Publisher)
+title: ParagraphFormat.CharBasedFirstLineIndent property (Publisher)
 keywords: vbapb10.chm5439528
 f1_keywords:
 - vbapb10.chm5439528
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.CharBasedFirstLineIndent
 ms.assetid: d0432be6-2e6a-39fa-9e9a-0300a0437f35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.CharBasedFirstLineIndent Property (Publisher)
+# ParagraphFormat.CharBasedFirstLineIndent property (Publisher)
 
 Returns or sets the value of the first line indent (in East Asian character width). Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. **CharBasedFirstLineIndent**
+_expression_.**CharBasedFirstLineIndent**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -58,4 +59,4 @@ With theTextBox
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

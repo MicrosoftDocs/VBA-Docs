@@ -3,6 +3,7 @@ title: Delete All Items and Subfolders in the Deleted Items Folder
 ms.prod: outlook
 ms.assetid: 359a416b-43d4-396e-e348-5624c4ca3599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,4 +39,4 @@ Sub RemoveAllItemsAndFoldersInDeletedItems()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

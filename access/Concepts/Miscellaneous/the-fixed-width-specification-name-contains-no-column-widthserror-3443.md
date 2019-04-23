@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 34acbbc2-776f-b70a-e591-9d64b76fa581
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,5 @@ The fixed-width parameter specified in the text file specification for the Text 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

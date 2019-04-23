@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.RecordCount Property (Publisher)
+title: MailMergeDataSource.RecordCount property (Publisher)
 keywords: vbapb10.chm6291477
 f1_keywords:
 - vbapb10.chm6291477
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.RecordCount
 ms.assetid: 56b929bf-9b7f-dd83-98b7-35bf96028732
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.RecordCount Property (Publisher)
+# MailMergeDataSource.RecordCount property (Publisher)
 
 Returns a  **Long** that represents the number of records in the data source. Read-only.
 
 
 ## Syntax
 
- _expression_. **RecordCount**
+_expression_.**RecordCount**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -73,4 +74,4 @@ Sub Validate
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

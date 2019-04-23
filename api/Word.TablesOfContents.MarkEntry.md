@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.MarkEntry Method (Word)
+title: TablesOfContents.MarkEntry method (Word)
 keywords: vbawd10.chm152305765
 f1_keywords:
 - vbawd10.chm152305765
@@ -8,19 +8,20 @@ api_name:
 - Word.TablesOfContents.MarkEntry
 ms.assetid: ef8e1d14-82b0-d1f8-8aaf-e2e1b4079c2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TablesOfContents.MarkEntry Method (Word)
+# TablesOfContents.MarkEntry method (Word)
 
 Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a  **Field** object representing the TC field.
 
 
 ## Syntax
 
- _expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_TableID_` , `_Level_` )
+_expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_TableID_` , `_Level_` )
 
- _expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
 
 
 ## Parameters
@@ -45,3 +46,4 @@ Field
 
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

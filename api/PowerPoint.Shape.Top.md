@@ -1,5 +1,5 @@
 ---
-title: Shape.Top Property (PowerPoint)
+title: Shape.Top property (PowerPoint)
 keywords: vbapp10.chm547037
 f1_keywords:
 - vbapp10.chm547037
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Top
 ms.assetid: cf56f128-43d7-4f6e-f34c-83fbae854c12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Top Property (PowerPoint)
+# Shape.Top property (PowerPoint)
 
 Returns or sets a  **Single** that represents the distance from the top edge of the shape's bounding box to the top edge of the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -69,3 +70,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

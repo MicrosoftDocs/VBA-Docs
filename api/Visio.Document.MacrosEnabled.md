@@ -1,5 +1,5 @@
 ---
-title: Document.MacrosEnabled Property (Visio)
+title: Document.MacrosEnabled property (Visio)
 keywords: vis_sdr.chm10552080
 f1_keywords:
 - vis_sdr.chm10552080
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.MacrosEnabled
 ms.assetid: 361b7bad-55f9-2d4b-4de3-8a12da48d59e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.MacrosEnabled Property (Visio)
+# Document.MacrosEnabled property (Visio)
 
 Specifies whether you can execute macros and process events in a document's Microsoft Visual Basic for Applications (VBA) project. Read-only.
 
 
 ## Syntax
 
- _expression_. `MacrosEnabled`
+_expression_. `MacrosEnabled`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -88,4 +89,4 @@ Public Sub MacrosEnabled_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

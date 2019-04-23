@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 292ed3ce-3cc6-1360-277c-7477515fd0a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Text fields in Microsoft FoxPro tables can be no more than 254 characters, and i
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

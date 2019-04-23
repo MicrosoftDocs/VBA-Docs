@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0a0731b0-5959-4874-b5e6-e44261916bc3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BuildingBlocks.Item Property (Publisher)](http://msdn.microsoft.com/library/faa5e9c5-a80e-6629-21b0-acdd5afbe626%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

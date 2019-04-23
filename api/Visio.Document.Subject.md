@@ -1,5 +1,5 @@
 ---
-title: Document.Subject Property (Visio)
+title: Document.Subject property (Visio)
 keywords: vis_sdr.chm10514465
 f1_keywords:
 - vis_sdr.chm10514465
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Subject
 ms.assetid: b954ca88-c7f7-0c1f-ed30-8ea3eb3bc0e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Subject Property (Visio)
+# Document.Subject property (Visio)
 
 Gets or sets the value of the  **Subject** field in a document's properties. Read/write.
 
 
 ## Syntax
 
- _expression_. `Subject`
+_expression_. `Subject`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -67,4 +68,4 @@ Public Sub Subject_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

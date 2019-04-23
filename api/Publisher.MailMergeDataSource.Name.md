@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Name Property (Publisher)
+title: MailMergeDataSource.Name property (Publisher)
 keywords: vbapb10.chm6291476
 f1_keywords:
 - vbapb10.chm6291476
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.Name
 ms.assetid: b431f64c-dc7b-70cd-34d5-2ae85b7899e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Name Property (Publisher)
+# MailMergeDataSource.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -29,4 +30,4 @@ You can use an object's name in conjunction with the  **Item** method or **Item*
 
 The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

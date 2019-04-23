@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentOpen Event (Word)
+title: Application.DocumentOpen event (Word)
 keywords: vbawd10.chm400004
 f1_keywords:
 - vbawd10.chm400004
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.DocumentOpen
 ms.assetid: 21fdd3cd-8769-899e-5749-f64c0e15b265
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocumentOpen Event (Word)
+# Application.DocumentOpen event (Word)
 
 Occurs when a document is opened.
 
@@ -70,3 +71,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

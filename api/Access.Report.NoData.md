@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Report.NoData
 ms.assetid: fa5f22b1-3695-bd16-2ca3-b2a1cc1f1d94
-ms.date: 11/30/2017
+ms.date: 03/08/2019
+localization_priority: Normal
 ---
 
 
@@ -17,16 +18,16 @@ The **NoData** event occurs after Microsoft Access formats a report for printing
 
 ## Syntax
 
-_expression_. **NoData**(**_Cancel_**)
+_expression_.**NoData** (_Cancel_)
 
-_expression_ A variable that represents a **Report** object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines whether to print the report. Setting the _Cancel_ argument to **True** (?1) prevents the report from printing. You can also use the **CancelEvent** method of the **DoCmd** object to cancel printing the report.|
+| _Cancel_|Required|**Integer**|The setting determines whether to print the report. Setting the _Cancel_ argument to **True** (1) prevents the report from printing. You can also use the **CancelEvent** method of the **DoCmd** object to cancel printing the report.|
 
 ## Remarks
 
@@ -34,7 +35,7 @@ To run a macro or event procedure when this event occurs, set the **[OnNoData](A
 
 If the report isn't bound to a table or query (by using the report's **[RecordSource](Access.Report.RecordSource.md)** property), the **NoData** event doesn't occur.
 
-This event occurs after the  **Format** events for the report, but before the first **Print** event.
+This event occurs after the **Format** events for the report, but before the first **Print** event.
 
 This event doesn't occur for subreports. If you want to hide controls on a subreport when the subreport has no data, so that the controls don't print in this case, you can use the **HasData** property in a macro or event procedure that runs when the **Format** or **Print** event occurs.
 
@@ -60,11 +61,9 @@ Private Sub Report_NoData(Cancel As Integer)
 End Sub 
 ```
 
+<br/>
 
-The following example shows how to use the **NoData** event of a report to prevent the report form opening when there is no data to be displayed.
-
-
-**Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+The following example shows how to use the **NoData** event of a report to prevent the report from opening when there is no data to be displayed.
 
 ```vb
 Private Sub Report_NoData(Cancel As Integer)
@@ -79,13 +78,5 @@ End Sub
 ```
 
 
-### About the contributors
 
-Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
-
-
-## See also
-
-[Report Object](Access.Report.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

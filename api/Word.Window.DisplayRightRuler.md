@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayRightRuler Property (Word)
+title: Window.DisplayRightRuler property (Word)
 keywords: vbawd10.chm157417507
 f1_keywords:
 - vbawd10.chm157417507
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.DisplayRightRuler
 ms.assetid: a587b652-5ba6-564d-4a8e-d78649bd716d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.DisplayRightRuler Property (Word)
+# Window.DisplayRightRuler property (Word)
 
- **True** if the vertical ruler appears on the right side of the document window in print layout view. Read/write **Boolean** .
+ **True** if the vertical ruler appears on the right side of the document window in print layout view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayRightRuler`
+_expression_. `DisplayRightRuler`
 
  _expression_ An expression that returns a '[Window](Word.Window.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.PrintOut Method (Word)
+title: MailingLabel.PrintOut method (Word)
 keywords: vbawd10.chm152502377
 f1_keywords:
 - vbawd10.chm152502377
@@ -8,19 +8,20 @@ api_name:
 - Word.MailingLabel.PrintOut
 ms.assetid: 3519226b-1c5f-8343-62b1-7e275793ca3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel.PrintOut Method (Word)
+# MailingLabel.PrintOut method (Word)
 
 Prints a label or a page of labels with the same address.
 
 
 ## Syntax
 
- _expression_. `PrintOut`( `_Name_` , `_Address_` , `_ExtractAddress_` , `_LaserTray_` , `_SingleLabel_` , `_Row_` , `_Column_` , `_PrintEPostageLabel_` , `_Vertical_` )
+_expression_. `PrintOut`( `_Name_` , `_Address_` , `_ExtractAddress_` , `_LaserTray_` , `_SingleLabel_` , `_Row_` , `_Column_` , `_PrintEPostageLabel_` , `_Vertical_` )
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Parameters
@@ -34,8 +35,8 @@ Prints a label or a page of labels with the same address.
 | _ExtractAddress_|Optional| **Variant**| **True** to use the text marked by the "EnvelopeAddress" bookmark (a user-defined bookmark) as the label text. If this argument is specified, Address and AutoText are ignored.|
 | _LaserTray_|Optional| **Variant**|The laser printer tray to be used. Can be any  **WdPaperTray** constant.|
 | _SingleLabel_|Optional| **Variant**| **True** to print a single label; **False** to print an entire page of the same label.|
-| _Row_|Optional| **Variant**|The label row for a single label. Not valid if SingleLabel is  **False** .|
-| _Column_|Optional| **Variant**|The label column for a single label. Not valid if SingleLabel is  **False** .|
+| _Row_|Optional| **Variant**|The label row for a single label. Not valid if SingleLabel is  **False**.|
+| _Column_|Optional| **Variant**|The label column for a single label. Not valid if SingleLabel is  **False**.|
 | _PrintEPostageLabel_|Optional| **Variant**| **True** to print postage using an Internet e-postage vendor.|
 | _Vertical_|Optional| **Variant**| **True** prints text vertically on the label. Used for Asian-language mailing labels.|
 
@@ -56,3 +57,4 @@ Application.MailingLabel.PrintOut Name:="5664", Address:=addr
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

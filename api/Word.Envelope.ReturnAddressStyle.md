@@ -1,5 +1,5 @@
 ---
-title: Envelope.ReturnAddressStyle Property (Word)
+title: Envelope.ReturnAddressStyle property (Word)
 keywords: vbawd10.chm152567826
 f1_keywords:
 - vbawd10.chm152567826
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.ReturnAddressStyle
 ms.assetid: cebc53db-5c79-c036-7e15-835095affbde
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.ReturnAddressStyle Property (Word)
+# Envelope.ReturnAddressStyle property (Word)
 
 Returns a  **[Style](Word.Style.md)** object that represents the return address style for the envelope.
 
 
 ## Syntax
 
- _expression_. `ReturnAddressStyle`
+_expression_. `ReturnAddressStyle`
 
  _expression_ An expression that returns an '[Envelope](Word.Envelope.md)' object.
 
@@ -57,3 +58,4 @@ End With
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PbListSeparator Enumeration (Publisher)
+title: PbListSeparator enumeration (Publisher)
 keywords: vbapb10.chm65616
 f1_keywords:
 - vbapb10.chm65616
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbListSeparator
 ms.assetid: 9a9531aa-b5de-9f2c-f4c2-ebcf3b1023b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbListSeparator Enumeration (Publisher)
+# PbListSeparator enumeration (Publisher)
 
 Constants that represent the list separator of the specified paragraphs, passed to and returned by the  **ParagraphFormat.ListNumberSeparator** property.
 
@@ -29,3 +30,4 @@ Constants that represent the list separator of the specified paragraphs, passed 
 | **pbListSeparatorSquare**|262144|Square|
 | **pbListSeparatorWideComma**|524288|WideComma|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

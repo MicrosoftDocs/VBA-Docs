@@ -1,14 +1,15 @@
 ---
-title: WdFieldType Enumeration (Word)
+title: WdFieldType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFieldType
 ms.assetid: 220d280c-0ff4-080c-4273-e5c8c437333f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdFieldType Enumeration (Word)
+# WdFieldType enumeration (Word)
 
 Specifies a Microsoft Word field. Unless otherwise specified, the field types described in this enumeration can be added interactively to a Word document by using the  **Field** dialog box. See the Word Help for more information about specific field codes.
 
@@ -113,3 +114,4 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 | **wdFieldBibliography**|97|Bibliography field.|
 | **wdFieldCitation**|96|Citation field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

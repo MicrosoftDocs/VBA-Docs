@@ -1,5 +1,5 @@
 ---
-title: Range.AutoComplete Method (Excel)
+title: Range.AutoComplete method (Excel)
 keywords: vbaxl10.chm144082
 f1_keywords:
 - vbaxl10.chm144082
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.AutoComplete
 ms.assetid: 723a452f-34e1-fcd1-a2d6-4932c5cc0542
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.AutoComplete Method (Excel)
+# Range.AutoComplete method (Excel)
 
-Returns an AutoComplete match from the list. If there?s no AutoComplete match or if more than one entry in the list matches the string to complete, this method returns an empty string.
+Returns an AutoComplete match from the list. If there's no AutoComplete match or if more than one entry in the list matches the string to complete, this method returns an empty string.
 
 
 ## Syntax
 
- _expression_. `AutoComplete`( `_String_` )
+_expression_. `AutoComplete`( `_String_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ End If
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TabStops.ClearAll Method (Word)
+title: TabStops.ClearAll method (Word)
 keywords: vbawd10.chm156565605
 f1_keywords:
 - vbawd10.chm156565605
@@ -8,19 +8,20 @@ api_name:
 - Word.TabStops.ClearAll
 ms.assetid: 757bf3e9-5641-8e78-b209-1512087fcf6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.ClearAll Method (Word)
+# TabStops.ClearAll method (Word)
 
 Clears all the custom tab stops from the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. `ClearAll`
+_expression_. `ClearAll`
 
- _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
+_expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ ActiveDocument.Paragraphs.TabStops.ClearAll
 
 [TabStops Collection Object](Word.tabstops.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

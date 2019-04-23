@@ -1,14 +1,15 @@
 ---
-title: PjDataTemplate Enumeration (Project)
+title: PjDataTemplate enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDataTemplate
 ms.assetid: 0ef4e65d-54ef-b2e4-a21d-e0cfc875d29a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjDataTemplate Enumeration (Project)
+# PjDataTemplate enumeration (Project)
 
 Contains constants that specify the operation to be performed on a box data template for a Network Diagram view.
 
@@ -21,3 +22,4 @@ Contains constants that specify the operation to be performed on a box data temp
 |**pjDataTemplateNew**|0|Create the template.|
 |**pjDataTemplateRename**|2|Rename the template.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

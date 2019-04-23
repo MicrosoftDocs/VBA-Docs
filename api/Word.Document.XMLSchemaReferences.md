@@ -1,5 +1,5 @@
 ---
-title: Document.XMLSchemaReferences Property (Word)
+title: Document.XMLSchemaReferences property (Word)
 keywords: vbawd10.chm158007757
 f1_keywords:
 - vbawd10.chm158007757
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.XMLSchemaReferences
 ms.assetid: 7008fb35-017d-2f14-0627-9b524138137c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.XMLSchemaReferences Property (Word)
+# Document.XMLSchemaReferences property (Word)
 
 Returns an XMLSchemaReferences collection that represents the schemas attached to a document.
 
 
 ## Syntax
 
- _expression_. `XMLSchemaReferences`
+_expression_. `XMLSchemaReferences`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -42,3 +43,4 @@ objSchema.Reload
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

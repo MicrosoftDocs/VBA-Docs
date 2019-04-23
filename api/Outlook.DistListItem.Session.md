@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Session Property (Outlook)
+title: DistListItem.Session property (Outlook)
 keywords: vbaol11.chm1112
 f1_keywords:
 - vbaol11.chm1112
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.Session
 ms.assetid: c36e7ef0-baf0-daa3-2e9a-c8d9d78bb6d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.Session Property (Outlook)
+# DistListItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

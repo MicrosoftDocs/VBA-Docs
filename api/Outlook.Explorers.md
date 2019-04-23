@@ -1,5 +1,5 @@
 ---
-title: Explorers Object (Outlook)
+title: Explorers object (Outlook)
 keywords: vbaol11.chm2995
 f1_keywords:
 - vbaol11.chm2995
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Explorers
 ms.assetid: 8398532a-1fad-7390-6778-109ac5e6c67c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorers Object (Outlook)
+# Explorers object (Outlook)
 
 Contains a set of  **[Explorer](Outlook.Explorer.md)** objects representing all explorers.
 
@@ -37,7 +38,7 @@ Set myExplorers = Application.Explorers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[NewExplorer](Outlook.Explorers.NewExplorer.md)|
 
@@ -45,7 +46,7 @@ Set myExplorers = Application.Explorers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Explorers.Add.md)|
 |[Item](Outlook.Explorers.Item.md)|
@@ -54,7 +55,7 @@ Set myExplorers = Application.Explorers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Explorers.Application.md)|
 |[Class](Outlook.Explorers.Class.md)|
@@ -65,4 +66,6 @@ Set myExplorers = Application.Explorers
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

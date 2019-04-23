@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: fba66f04-654d-5950-ee48-0da6f6106be2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ This example demonstrates the [RDS DataControl](https://msdn.microsoft.com/libra
 
 Assume that the following sections in the parameter file, Msdfmap.ini, are located on the server:
 
-```sql
+```ini
  
 [connect AuthorDataBase] 
 Access=ReadWrite 
@@ -92,3 +93,5 @@ System.out.println("\tDescription = " + je.getMessage() + "\n");}
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Find.Forward Property (Word)
+title: Find.Forward property (Word)
 keywords: vbawd10.chm162529290
 f1_keywords:
 - vbawd10.chm162529290
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.Forward
 ms.assetid: deacedde-ca81-6fa0-6a62-696163d8c52d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.Forward Property (Word)
+# Find.Forward property (Word)
 
- **True** if the find operation searches forward through the document. Read/write **Boolean** .
+ **True** if the find operation searches forward through the document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Forward`
+_expression_. `Forward`
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
@@ -66,3 +67,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

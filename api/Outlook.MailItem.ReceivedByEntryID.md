@@ -1,5 +1,5 @@
 ---
-title: MailItem.ReceivedByEntryID Property (Outlook)
+title: MailItem.ReceivedByEntryID property (Outlook)
 keywords: vbaol11.chm1341
 f1_keywords:
 - vbaol11.chm1341
@@ -8,26 +8,27 @@ api_name:
 - Outlook.MailItem.ReceivedByEntryID
 ms.assetid: db4325d3-4442-220d-a812-1d3e4a0085bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.ReceivedByEntryID Property (Outlook)
+# MailItem.ReceivedByEntryID property (Outlook)
 
 Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** for the true recipient as set by the transport provider delivering the mail message. Read-only.
 
 
 ## Syntax
 
- _expression_. `ReceivedByEntryID`
+_expression_. `ReceivedByEntryID`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedByEntryId** .
+This property corresponds to the MAPI property  **PidTagReceivedByEntryId**.
 
-If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **ReceivedByEntryID** , you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[MailItem.PropertyAccessor](Outlook.MailItem.PropertyAccessor.md)** property, specifying the **PidTagReceivedByEntryId** property and its MAPI proptag namespace. The following code sample in VBA shows the workaround.
+If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **ReceivedByEntryID**, you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[MailItem.PropertyAccessor](Outlook.MailItem.PropertyAccessor.md)** property, specifying the **PidTagReceivedByEntryId** property and its MAPI proptag namespace. The following code sample in VBA shows the workaround.
 
 
 
@@ -72,3 +73,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

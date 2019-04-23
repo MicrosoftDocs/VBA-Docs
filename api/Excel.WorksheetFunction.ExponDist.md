@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ExponDist Method (Excel)
+title: WorksheetFunction.ExponDist method (Excel)
 keywords: vbaxl10.chm137184
 f1_keywords:
 - vbaxl10.chm137184
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.ExponDist
 ms.assetid: 4e940718-309f-8194-7395-5abcf3adeae3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ExponDist Method (Excel)
+# WorksheetFunction.ExponDist method (Excel)
 
 Returns the exponential distribution. Use EXPONDIST to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use EXPONDIST to determine the probability that the process takes at most 1 minute.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [Expon_Dist](Excel.Workshee
 
 ## Syntax
 
- _expression_. `ExponDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `ExponDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -69,3 +70,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

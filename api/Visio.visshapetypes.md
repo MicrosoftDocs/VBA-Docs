@@ -1,15 +1,16 @@
 ---
-title: VisShapeTypes Enumeration (Visio)
+title: VisShapeTypes enumeration (Visio)
 keywords: vis_sdr.chm70010
 f1_keywords:
 - vis_sdr.chm70010
 ms.prod: visio
 ms.assetid: aa65da44-c6f4-bb14-e58b-43222fc066f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisShapeTypes Enumeration (Visio)
+# VisShapeTypes enumeration (Visio)
 
 Shape type codes returned by the  **Shape.Type** and **Shape.ForeignType** properties.
 
@@ -20,10 +21,10 @@ These codes are also used with the  **Event.GetFilterObjects** and **Event.SetFi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeBitmap**|32|Returned by  **Shape.ForeignType** if the shape is a bitmap.|
-| **visTypeDoc**|6|The document's  **DocumentSheet** .|
+| **visTypeDoc**|6|The document's  **DocumentSheet**.|
 | **visTypeForeignObject**|4|An imported shape.|
 | **visTypeGroup**|2|A shape that contains other shapes.|
 | **visTypeGuide**|5|A shape that is a guide.|
@@ -37,3 +38,4 @@ These codes are also used with the  **Event.GetFilterObjects** and **Event.SetFi
 | **visTypePage**|1|Page's or master's  **PageSheet** property.|
 | **visTypeShape**|3|Native Microsoft Visio shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

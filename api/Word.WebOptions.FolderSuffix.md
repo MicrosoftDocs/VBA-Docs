@@ -1,5 +1,5 @@
 ---
-title: WebOptions.FolderSuffix Property (Word)
+title: WebOptions.FolderSuffix property (Word)
 keywords: vbawd10.chm165937163
 f1_keywords:
 - vbawd10.chm165937163
@@ -8,19 +8,20 @@ api_name:
 - Word.WebOptions.FolderSuffix
 ms.assetid: 3661519e-3f69-8cff-3674-40921fd00709
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.FolderSuffix Property (Word)
+# WebOptions.FolderSuffix property (Word)
 
-Returns the folder suffix that Microsoft Word uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **UseLongFileNames** and **OrganizeInFolder** properties are set to **True**). Read-only **String** .
+Returns the folder suffix that Microsoft Word uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **UseLongFileNames** and **OrganizeInFolder** properties are set to **True**). Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `FolderSuffix`
+_expression_. `FolderSuffix`
 
- _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Remarks
@@ -72,7 +73,7 @@ The following table lists each language version of Office and gives its correspo
 |Swedish|1053|-filer|
 |Thai|1054|.files|
 |Turkish|1055|_dosyalar|
-|Ukranian|1058|.files|
+|Ukrainian|1058|.files|
 |Vietnamese|1066|.files|
 
 ## Example
@@ -90,3 +91,4 @@ strFolderSuffix = ActiveDocument.WebOptions.FolderSuffix
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

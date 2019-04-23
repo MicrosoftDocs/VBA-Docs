@@ -1,5 +1,5 @@
 ---
-title: Cell.Column Property (Publisher)
+title: Cell.Column property (Publisher)
 keywords: vbapb10.chm5111815
 f1_keywords:
 - vbapb10.chm5111815
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.Column
 ms.assetid: 09e067a2-ee84-7a76-72b6-3b348238d020
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Column Property (Publisher)
+# Cell.Column property (Publisher)
 
 Returns a  **Long** that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax
 
- _expression_. **Column**
+_expression_.**Column**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -55,4 +56,4 @@ Sub CreateNewTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Attachment.DisplayName Property (Outlook)
+title: Attachment.DisplayName property (Outlook)
 keywords: vbaol11.chm2365
 f1_keywords:
 - vbaol11.chm2365
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Attachment.DisplayName
 ms.assetid: 2321da5d-4aae-c483-f41e-03b35af80dd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Attachment.DisplayName Property (Outlook)
+# Attachment.DisplayName property (Outlook)
 
 Returns or sets a  **String** representing the name, which does not need to be the actual file name, displayed below the icon representing the embedded attachment. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayName`
+_expression_. `DisplayName`
 
- _expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDisplayName** .
+This property corresponds to the MAPI property  **PidTagDisplayName**.
 
 
 ## Example
@@ -91,3 +92,4 @@ End Sub
 
 [Attachment Object](Outlook.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

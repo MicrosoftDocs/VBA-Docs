@@ -1,12 +1,13 @@
 ---
-title: Rows Object (Word)
+title: Rows object (Word)
 ms.prod: word
 ms.assetid: cd83d0ef-f743-1886-54de-497017c5f542
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows Object (Word)
+# Rows object (Word)
 
 A collection of  **[Row](Word.Row.md)** objects that represent the table rows in the specified selection, range, or table.
 
@@ -45,7 +46,7 @@ ActiveDocument.Tables(1).Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Rows.Add.md)|
 |[ConvertToText](Word.Rows.ConvertToText.md)|
@@ -60,7 +61,7 @@ ActiveDocument.Tables(1).Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Word.Rows.Alignment.md)|
 |[AllowBreakAcrossPages](Word.Rows.AllowBreakAcrossPages.md)|
@@ -93,4 +94,6 @@ ActiveDocument.Tables(1).Rows(1).Delete
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

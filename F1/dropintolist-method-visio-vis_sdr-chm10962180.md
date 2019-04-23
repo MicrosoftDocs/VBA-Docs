@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 71f16b73-1de1-4d3b-bb83-3b5df89f4214
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Page.DropIntoList Method (Visio)](http://msdn.microsoft.com/library/fcefca11-d64b-9f95-a00e-bf9968d26267%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.EditRecord Method (Publisher)
+title: MailMergeDataSource.EditRecord method (Publisher)
 keywords: vbapb10.chm6291504
 f1_keywords:
 - vbapb10.chm6291504
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.EditRecord
 ms.assetid: 1fa31b25-b00a-9478-b341-094c2cdb2d9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.EditRecord Method (Publisher)
+# MailMergeDataSource.EditRecord method (Publisher)
 
 Changes one of the data fields in one of the records in the master data source (the combined mail-merge recipient list).
 
 
 ## Syntax
 
- _expression_. **EditRecord**(**_lRec_**,  **_varField_**,  **_Value_**)
+_expression_.**EditRecord**(**_lRec_**,  **_varField_**,  **_Value_**)
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -61,4 +62,4 @@ Public Sub EditRecord_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

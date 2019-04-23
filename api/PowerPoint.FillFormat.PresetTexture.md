@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTexture Property (PowerPoint)
+title: FillFormat.PresetTexture property (PowerPoint)
 keywords: vbapp10.chm552019
 f1_keywords:
 - vbapp10.chm552019
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.PresetTexture
 ms.assetid: 684d39f9-53d8-4f69-a6ae-c447253ae3a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTexture Property (PowerPoint)
+# FillFormat.PresetTexture property (PowerPoint)
 
 Returns the preset texture for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `PresetTexture`
+_expression_. `PresetTexture`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -63,7 +64,7 @@ The value of the  **PresetTexture** property can be one of these **MsoPresetText
 
 ## Example
 
-This example adds a rectangle to the  `myDocument` and sets its preset texture to match that of shape two. For the example to work, shape two must have a preset textured fill.
+This example adds a rectangle to the  _myDocument_ and sets its preset texture to match that of shape two. For the example to work, shape two must have a preset textured fill.
 
 
 ```vb
@@ -82,3 +83,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

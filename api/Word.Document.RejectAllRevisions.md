@@ -1,5 +1,5 @@
 ---
-title: Document.RejectAllRevisions Method (Word)
+title: Document.RejectAllRevisions method (Word)
 keywords: vbawd10.chm158007614
 f1_keywords:
 - vbawd10.chm158007614
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.RejectAllRevisions
 ms.assetid: d0cf9e63-0057-c832-90b5-e4057c888528
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RejectAllRevisions Method (Word)
+# Document.RejectAllRevisions method (Word)
 
 Rejects all tracked changes in the specified document.
 
 
 ## Syntax
 
- _expression_. `RejectAllRevisions`
+_expression_. `RejectAllRevisions`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ If ActiveDocument.Revisions.Count >= 1 Then _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

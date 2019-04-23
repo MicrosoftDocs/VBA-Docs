@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestions.SpellingErrorType Property (Word)
+title: SpellingSuggestions.SpellingErrorType property (Word)
 keywords: vbawd10.chm162136066
 f1_keywords:
 - vbawd10.chm162136066
@@ -8,24 +8,25 @@ api_name:
 - Word.SpellingSuggestions.SpellingErrorType
 ms.assetid: 0d5c71a3-77eb-b36c-76b8-c6fd49bb6394
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SpellingSuggestions.SpellingErrorType Property (Word)
+# SpellingSuggestions.SpellingErrorType property (Word)
 
-Returns the spelling error type. Read-only  **WdSpellingErrorType** .
+Returns the spelling error type. Read-only  **WdSpellingErrorType**.
 
 
 ## Syntax
 
- _expression_. `SpellingErrorType`
+_expression_. `SpellingErrorType`
 
- _expression_ Required. A variable that represents a '[SpellingSuggestions](Word.spellingsuggestions.md)' collection.
+_expression_ Required. A variable that represents a '[SpellingSuggestions](Word.spellingsuggestions.md)' collection.
 
 
 ## Remarks
 
-Use the  **GetSpellingSuggestions** method to return a collection of words suggested as spelling replacements. If a word is misspelled, the **CheckSpelling** method returns **True** .
+Use the  **GetSpellingSuggestions** method to return a collection of words suggested as spelling replacements. If a word is misspelled, the **CheckSpelling** method returns **True**.
 
 
 ## Example
@@ -46,3 +47,4 @@ End If
 
 [SpellingSuggestions Collection Object](Word.spellingsuggestions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

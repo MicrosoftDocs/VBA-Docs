@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: bc3329f9-b5f4-bbd9-19f1-8526342f406b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Control the Text Box' Behavior on Clicking Enter
+# Control the Text Box' Behavior on Clicking Enter
 
 The following example uses the  **[EnterKeyBehavior](../../../api/Outlook.textbox.enterkeybehavior.md)** property to control the effect of ENTER in a **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user can specify either a single-line or multiline  **TextBox**.
 
@@ -68,4 +69,4 @@ Sub ToggleButton2_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

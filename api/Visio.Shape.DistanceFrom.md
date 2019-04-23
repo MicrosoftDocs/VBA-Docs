@@ -1,5 +1,5 @@
 ---
-title: Shape.DistanceFrom Property (Visio)
+title: Shape.DistanceFrom property (Visio)
 keywords: vis_sdr.chm11213420
 f1_keywords:
 - vis_sdr.chm11213420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.DistanceFrom
 ms.assetid: 2df9e60f-b138-4dde-09ca-af4ee2f6a8d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.DistanceFrom Property (Visio)
+# Shape.DistanceFrom property (Visio)
 
 Returns the distance from one shape to another, measured between the closest points on the two shapes. Both shapes must be on the same page or in the same master. Read-only.
 
 
 ## Syntax
 
- _expression_. `DistanceFrom`( `_OtherShape_` , `_Flags_` )
+_expression_. `DistanceFrom`( `_OtherShape_` , `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -56,7 +57,7 @@ The  _Flags_ argument can be any combination of the values of the constants defi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSpatialIncludeDataGraphics**|&H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
 | **visSpatialIncludeHidden**|&H10 |Consider hidden Geometry sections. By default, hidden Geometry sections do not influence the result. |
@@ -68,4 +69,4 @@ If the parent shape or  _OtherShape_ has no geometry, or if _Flags_ excludes con
 
 The  **DistanceFrom** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when comparing two shapes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

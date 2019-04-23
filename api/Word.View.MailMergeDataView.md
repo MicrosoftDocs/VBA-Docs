@@ -1,5 +1,5 @@
 ---
-title: View.MailMergeDataView Property (Word)
+title: View.MailMergeDataView property (Word)
 keywords: vbawd10.chm161808389
 f1_keywords:
 - vbawd10.chm161808389
@@ -8,17 +8,18 @@ api_name:
 - Word.View.MailMergeDataView
 ms.assetid: 2252ea96-70ac-f9f1-554f-59a8337c9b5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.MailMergeDataView Property (Word)
+# View.MailMergeDataView property (Word)
 
- **True** if mail merge data is displayed instead of mail merge fields in the specified window. Read/write **Boolean** .
+ **True** if mail merge data is displayed instead of mail merge fields in the specified window. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MailMergeDataView`
+_expression_. `MailMergeDataView`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -59,3 +60,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

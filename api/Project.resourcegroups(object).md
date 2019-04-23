@@ -1,12 +1,13 @@
 ---
-title: ResourceGroups Object (Project)
+title: ResourceGroups object (Project)
 ms.prod: project-server
 ms.assetid: 37bd0f3a-4d0e-1311-4409-ed31e0fe2e3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ResourceGroups Object (Project)
+# ResourceGroups object (Project)
 
 
  
@@ -53,7 +54,7 @@ For resource groups where the group hierarchy can be maintained and cell color c
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ResourceGroups.Add.md)|
 |[Copy](Project.ResourceGroups.Copy.md)|
@@ -62,10 +63,11 @@ For resource groups where the group hierarchy can be maintained and cell color c
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ResourceGroups.Application.md)|
 |[Count](Project.ResourceGroups.Count.md)|
 |[Item](Project.ResourceGroups.Item.md)|
 |[Parent](Project.ResourceGroups.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

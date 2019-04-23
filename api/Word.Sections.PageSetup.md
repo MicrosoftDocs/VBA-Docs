@@ -1,5 +1,5 @@
 ---
-title: Sections.PageSetup Property (Word)
+title: Sections.PageSetup property (Word)
 keywords: vbawd10.chm156894285
 f1_keywords:
 - vbawd10.chm156894285
@@ -8,17 +8,18 @@ api_name:
 - Word.Sections.PageSetup
 ms.assetid: d6d86ddf-bb28-f2fc-49ff-7cfe04853fba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sections.PageSetup Property (Word)
+# Sections.PageSetup property (Word)
 
 Returns a  **PageSetup** object that's associated with the specified document, range, section, sections, or selection.
 
 
 ## Syntax
 
- _expression_. `PageSetup`
+_expression_.**PageSetup**
 
  _expression_ A variable that represents a '[Sections](Word.sections.md)' collection.
 
@@ -38,3 +39,4 @@ Documents("Summary.doc").Sections(1).PageSetup.Gutter = 36
 
 [Sections Collection Object](Word.sections.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

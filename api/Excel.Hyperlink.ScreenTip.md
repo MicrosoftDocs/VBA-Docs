@@ -8,24 +8,25 @@ api_name:
 - Excel.Hyperlink.ScreenTip
 ms.assetid: 472aeaca-90f4-3b27-6927-a51d708e61c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Hyperlink.ScreenTip property (Excel)
 
-Returns or sets the ScreenTip text for the specified hyperlink. Read/write  **String** .
+Returns or sets the ScreenTip text for the specified hyperlink. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ScreenTip`
+_expression_. `ScreenTip`
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Remarks
 
-After the document has been saved to a Web page, the ScreenTip text may appear (for example) when the mouse pointer is positioned over the hyperlink while the document is being viewed in a Web browser. Some Web browsers may not support ScreenTips.
+After the document has been saved to a web page, the ScreenTip text may appear (for example) when the mouse pointer is positioned over the hyperlink while the document is being viewed in a Web browser. Some Web browsers may not support ScreenTips.
 
 
 ## Example
@@ -43,3 +44,4 @@ ActiveSheet.Hyperlinks(1).ScreenTip = "Return to the home page"
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

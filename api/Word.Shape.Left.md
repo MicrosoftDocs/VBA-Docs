@@ -1,5 +1,5 @@
 ---
-title: Shape.Left Property (Word)
+title: Shape.Left property (Word)
 keywords: vbawd10.chm161480815
 f1_keywords:
 - vbawd10.chm161480815
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.Left
 ms.assetid: 9c14ebc2-70fa-027b-63f0-6e44e60f8eed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Left Property (Word)
+# Shape.Left property (Word)
 
 Returns or sets a  **Single** that represents the horizontal position, measured in points, of the specified shape or shape range. Can also be any valid **[WdShapePosition](Word.WdShapePosition.md)** constant. Read/write.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_.**Left**
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

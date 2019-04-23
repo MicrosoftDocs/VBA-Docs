@@ -1,5 +1,5 @@
 ---
-title: Range.PasteSpecial Method (Excel)
+title: Range.PasteSpecial method (Excel)
 keywords: vbaxl10.chm144238
 f1_keywords:
 - vbaxl10.chm144238
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.PasteSpecial
 ms.assetid: d3e991f2-7ef7-2ebc-d4bc-ba4c26be472e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.PasteSpecial Method (Excel)
+# Range.PasteSpecial method (Excel)
 
 Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the specified range.
 
 
 ## Syntax
 
- _expression_. `PasteSpecial`( `_Paste_` , `_Operation_` , `_SkipBlanks_` , `_Transpose_` )
+_expression_. `PasteSpecial`( `_Paste_` , `_Operation_` , `_SkipBlanks_` , `_Transpose_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End With
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

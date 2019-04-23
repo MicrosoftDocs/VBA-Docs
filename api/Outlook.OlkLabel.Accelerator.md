@@ -1,5 +1,5 @@
 ---
-title: OlkLabel.Accelerator Property (Outlook)
+title: OlkLabel.Accelerator property (Outlook)
 keywords: vbaol11.chm1000086
 f1_keywords:
 - vbaol11.chm1000086
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkLabel.Accelerator
 ms.assetid: 7d461585-5aa1-81ab-8cec-5e25795e9bea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkLabel.Accelerator Property (Outlook)
+# OlkLabel.Accelerator property (Outlook)
 
 Returns or sets a  **String** value that represents the accelerator or hot key for the control. Read/write.
 
 
 ## Syntax
 
- _expression_. `Accelerator`
+_expression_. `Accelerator`
 
- _expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
+_expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ When the accelerator key for a label is pressed, the next control in the tab ord
 
 [OlkLabel Object](Outlook.OlkLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.GridlineColorIndex
 ms.assetid: c178bed5-8478-aea9-7cb4-2c7f498b533e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Returns or sets the gridline color as an index into the current color palette or
 
 ## Syntax
 
- _expression_. `GridlineColorIndex`
+_expression_. `GridlineColorIndex`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
 
 
 
-| **XlColorIndex** can be the following **XlColorIndex** constant.|
+| **xlColorIndex** can be the following **xlColorIndex** constant.|
 | **xlColorIndexAutomatic**|
 
 Set this property to  **xlColorIndexAutomatic** to specify the automatic color.
@@ -48,3 +49,4 @@ ActiveWindow.GridlineColorIndex = 5
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,19 +1,20 @@
 ---
-title: Comments.Item Property (Visio)
+title: Comments.Item property (Visio)
 ms.prod: visio
 ms.assetid: fed2a079-de87-d5ce-1d74-0bfa5a328441
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comments.Item Property (Visio)
+# Comments.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections. Read-only[Comment](Visio.comment.md).
 
 
 ## Syntax
 
- _expression_. `Item`
+_expression_. `Item`
 
  _expression_ A variable that represents a 'Comments' object.
 
@@ -51,3 +52,4 @@ objRet = object(index )
 
 [Comments Collection](Visio.comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

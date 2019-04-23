@@ -1,5 +1,5 @@
 ---
-title: Presentations.Application Property (PowerPoint)
+title: Presentations.Application property (PowerPoint)
 keywords: vbapp10.chm522001
 f1_keywords:
 - vbapp10.chm522001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentations.Application
 ms.assetid: 5c42ecee-19ce-6e00-9aed-556fe32daf8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentations.Application Property (PowerPoint)
+# Presentations.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Presentations Object](PowerPoint.Presentations.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

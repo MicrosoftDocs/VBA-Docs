@@ -1,5 +1,5 @@
 ---
-title: TextRange.Story Property (Publisher)
+title: TextRange.Story property (Publisher)
 keywords: vbapb10.chm5308470
 f1_keywords:
 - vbapb10.chm5308470
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Story
 ms.assetid: 833f9537-5c11-a4d5-907a-777eaecb89d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Story Property (Publisher)
+# TextRange.Story property (Publisher)
 
 Returns a  **Story** object that represents the story properties in a text range.
 
 
 ## Syntax
 
- _expression_. **Story**
+_expression_.**Story**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -38,4 +39,4 @@ Sub AddTextToStory()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

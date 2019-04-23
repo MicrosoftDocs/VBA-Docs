@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.Type
 ms.assetid: d29e1e46-4ae7-15ed-c998-ec241072e540
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatCon
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
 
-This property will always return a  **Long** value of "6", which is equivalent to **xlIconSet** .
+This property will always return a  **Long** value of "6", which is equivalent to **xlIconSet**.
 
 
 ## See also
@@ -33,3 +34,4 @@ This property will always return a  **Long** value of "6", which is equivalent t
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

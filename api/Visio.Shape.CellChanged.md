@@ -1,5 +1,5 @@
 ---
-title: Shape.CellChanged Event (Visio)
+title: Shape.CellChanged event (Visio)
 keywords: vis_sdr.chm11219090
 f1_keywords:
 - vis_sdr.chm11219090
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shape.CellChanged
 ms.assetid: d3324bb1-f944-e644-79ef-55022b31fbd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.CellChanged Event (Visio)
+# Shape.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 
@@ -76,4 +77,4 @@ Private Sub vsoApplication_CellChanged(ByVal vsoCell As IVCell)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.CreateVideo Method (PowerPoint)
+title: Presentation.CreateVideo method (PowerPoint)
 keywords: vbapp10.chm583123
 f1_keywords:
 - vbapp10.chm583123
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.CreateVideo
 ms.assetid: d302f251-66ee-c82d-d9b9-2c29b93f7615
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.CreateVideo Method (PowerPoint)
+# Presentation.CreateVideo method (PowerPoint)
 
 Creates a video in a  **Presentation** object.
 
 
 ## Syntax
 
- _expression_. `CreateVideo`( `_FileName_`, `_UseTimingsAndNarrations_`, `_DefaultSlideDuration_`, `_VertResolution_`, `_FramesPerSecond_`, `_Quality_` )
+_expression_. `CreateVideo`( `_FileName_`, `_UseTimingsAndNarrations_`, `_DefaultSlideDuration_`, `_VertResolution_`, `_FramesPerSecond_`, `_Quality_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -41,3 +42,4 @@ Creates a video in a  **Presentation** object.
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

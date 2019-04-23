@@ -1,5 +1,5 @@
 ---
-title: Application.FontEx Method (Project)
+title: Application.FontEx method (Project)
 keywords: vbapj.chm937
 f1_keywords:
 - vbapj.chm937
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FontEx
 ms.assetid: 4904d4b1-dacb-8020-0c4e-3af0503c68ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FontEx Method (Project)
+# Application.FontEx method (Project)
 
 Sets the font for the text in the active cells.
 
 
 ## Syntax
 
- _expression_. `FontEx`( ` _Name_`, ` _Size_`, ` _Bold_`, ` _Italic_`, ` _Underline_`, ` _Color_`, ` _Reset_`, ` _CellColor_`, ` _Pattern_` )
+_expression_. `FontEx`( `_Name_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_`, `_Reset_`, `_CellColor_`, `_Pattern_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -60,4 +61,4 @@ Sub FormatTahoma16()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

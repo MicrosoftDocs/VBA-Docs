@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.ListBox.Selected
 ms.assetid: db30f166-c82b-2a77-6feb-bf03810fc36d
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
 # ListBox.Selected property (Access)
 
-You can use the  **Selected** property in Visual Basic to determine if an item in a list box is selected. Read/write **Long**.
+You can use the **Selected** property in Visual Basic to determine if an item in a list box is selected. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Selected`( ` _lRow_` )
+_expression_.**Selected** (_lRow_)
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,23 +32,18 @@ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 ## Remarks
 
-The  **Selected** property is a zero-based array that contains the selected state of each item in a list box.
+The **Selected** property is a zero-based array that contains the selected state of each item in a list box.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The list box item is selected.|
 |**False**|The list box item isn't selected.|
 
 This property is available only at run time.
 
-When a list box control's  **MultiSelect** property is set to None, only one item can have its **Selected** property set to **True**. When a list box control's **MultiSelect** property is set to Simple or Extended, any or all of the items can have their **Selected** property set to **True**. A multiple-selection list box bound to a field will always have a **Value** property equal to **Null**. You use the **Selected** property or the **ItemsSelected** collection to retrieve information about which items are selected.
+When a list box control's **MultiSelect** property is set to None, only one item can have its **Selected** property set to **True**. When a list box control's **MultiSelect** property is set to Simple or Extended, any or all of the items can have their **Selected** property set to **True**. A multiple-selection list box bound to a field will always have a **Value** property equal to **Null**. You use the **Selected** property or the **ItemsSelected** collection to retrieve information about which items are selected.
 
-You can use the  **Selected** property to select items in a list box by using Visual Basic. For example, the following expression selects the fifth item in the list:
-
-
-
+You can use the **Selected** property to select items in a list box by using Visual Basic. For example, the following expression selects the fifth item in the list:
 
 ```vb
 Me!Listbox.Selected(4) = True
@@ -58,8 +52,7 @@ Me!Listbox.Selected(4) = True
 
 ## Example
 
-The following example uses the  **Selected** property to move selected items in the lstSource list box to the lstDestination list box. The lstDestination list box's **RowSourceType** property is set to Value List and the control's **RowSource** property is constructed from all the selected items in the lstSource control. The lstSource list box's **MultiSelect** property is set to Extended. The CopySelected( ) procedure is called from the cmdCopyItem command button.
-
+The following example uses the **Selected** property to move selected items in the **lstSource** list box to the **lstDestination** list box. The **lstDestination** list box's **RowSourceType** property is set to Value List, and the control's **RowSource** property is constructed from all the selected items in the **lstSource** control. The **lstSource** list box's **MultiSelect** property is set to Extended. The CopySelected( ) procedure is called from the **cmdCopyItem** command button.
 
 ```vb
 Private Sub cmdCopyItem_Click() 
@@ -94,8 +87,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[ListBox Object](Access.ListBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

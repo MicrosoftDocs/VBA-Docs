@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5b7dc860-05f9-d6e6-0da5-4b62f258b872
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,3 +40,5 @@ There is an invalid  **Date** setting in the **Xbase** key of the Microsoft Wind
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Subtype Property (PowerPoint)
+title: FilterEffect.Subtype property (PowerPoint)
 keywords: vbapp10.chm669004
 f1_keywords:
 - vbapp10.chm669004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FilterEffect.Subtype
 ms.assetid: 1c244c97-9d50-93eb-7abc-5082aafcfb3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FilterEffect.Subtype Property (PowerPoint)
+# FilterEffect.Subtype property (PowerPoint)
 
  Sets or returns the subtype of the filter effect. Read/write.
 
 
 ## Syntax
 
- _expression_. `Subtype`
+_expression_. `Subtype`
 
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
@@ -67,3 +68,4 @@ End Sub
 
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

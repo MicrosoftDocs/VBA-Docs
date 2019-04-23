@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 85624b78-b740-6d9b-12cb-b80332c1bf1d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -69,4 +70,4 @@ Sub Region()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

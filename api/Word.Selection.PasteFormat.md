@@ -1,5 +1,5 @@
 ---
-title: Selection.PasteFormat Method (Word)
+title: Selection.PasteFormat method (Word)
 keywords: vbawd10.chm158663166
 f1_keywords:
 - vbawd10.chm158663166
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.PasteFormat
 ms.assetid: 5c8a69fa-4d07-619c-950a-5ff11fa99003
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.PasteFormat Method (Word)
+# Selection.PasteFormat method (Word)
 
 Applies formatting copied with the  **CopyFormat** method to the selection.
 
 
 ## Syntax
 
- _expression_. `PasteFormat`
+_expression_. `PasteFormat`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -62,3 +63,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

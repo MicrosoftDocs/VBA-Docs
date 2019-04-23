@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Application Property (PowerPoint)
+title: EffectParameters.Application property (PowerPoint)
 keywords: vbapp10.chm654001
 f1_keywords:
 - vbapp10.chm654001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.EffectParameters.Application
 ms.assetid: 807efbe4-f5fe-61c6-f0d3-739736049ecc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectParameters.Application Property (PowerPoint)
+# EffectParameters.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
+_expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
 
 
 ## Return value
@@ -66,4 +67,4 @@ Next
 
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

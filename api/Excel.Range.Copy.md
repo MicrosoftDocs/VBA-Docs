@@ -1,5 +1,5 @@
 ---
-title: Range.Copy Method (Excel)
+title: Range.Copy method (Excel)
 keywords: vbaxl10.chm144104
 f1_keywords:
 - vbaxl10.chm144104
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Copy
 ms.assetid: ac5207ac-6be5-3c7e-2c61-67954a59e9df
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
-# Range.Copy Method (Excel)
+# Range.Copy method (Excel)
 
 Copies the range to the specified range or to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Destination_` )
+_expression_.**Copy** (_Destination_)
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -94,4 +95,4 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

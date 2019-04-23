@@ -1,5 +1,5 @@
 ---
-title: PivotFilters.Add Method (Excel)
+title: PivotFilters.Add method (Excel)
 keywords: vbaxl10.chm772078
 f1_keywords:
 - vbaxl10.chm772078
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFilters.Add
 ms.assetid: bf3bb727-4c00-1f8e-5acd-af0b974cba5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotFilters.Add Method (Excel)
+# PivotFilters.Add method (Excel)
 
 Adds new filters to the  **PivotFilters** collection.
 
 
 ## Syntax
 
- _expression_. `Add2`( `_Type_` , `_DataField_` , `_Value1_` , `_Value2_` , `_Order_` , `_Name_` , `_Description_` , `_MemberPropertyField_` , `_WholeDayFilter_` )
+_expression_. `Add2`( `_Type_` , `_DataField_` , `_Value1_` , `_Value2_` , `_Order_` , `_Name_` , `_Description_` , `_MemberPropertyField_` , `_WholeDayFilter_` )
 
- _expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds new filters to the  **PivotFilters** collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlPivotFilterType**|Requires an  **[XlPivotFilterType](Excel.XlPivotFilterType.md)** type of filter.|
+| _Type_|Required| **xlPivotFilterType**|Requires an  **[XlPivotFilterType](Excel.XlPivotFilterType.md)** type of filter.|
 | _DataField_|Optional| **Variant**|The field to which the filter is attached.|
 | _Value1_|Optional| **Variant**|Filter value 1.|
 | _Value2_|Optional| **Variant**|Filter value 2.|
@@ -75,3 +76,4 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqual
 
 [PivotFilters Object](Excel.PivotFilters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

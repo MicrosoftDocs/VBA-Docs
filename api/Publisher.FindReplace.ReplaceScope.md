@@ -1,5 +1,5 @@
 ---
-title: FindReplace.ReplaceScope Property (Publisher)
+title: FindReplace.ReplaceScope property (Publisher)
 keywords: vbapb10.chm8323085
 f1_keywords:
 - vbapb10.chm8323085
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.ReplaceScope
 ms.assetid: 555fe65b-9edb-8888-03f0-15ce34813d5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.ReplaceScope Property (Publisher)
+# FindReplace.ReplaceScope property (Publisher)
 
 Specifies how many scope replacements are to be made: one, all, or none. Read/write.
 
 
 ## Syntax
 
- _expression_. **ReplaceScope**
+_expression_.**ReplaceScope**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -51,4 +52,4 @@ With ActiveDocument.Find
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

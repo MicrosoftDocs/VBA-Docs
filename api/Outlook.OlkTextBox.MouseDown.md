@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.MouseDown Event (Outlook)
+title: OlkTextBox.MouseDown event (Outlook)
 keywords: vbaol11.chm1000073
 f1_keywords:
 - vbaol11.chm1000073
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTextBox.MouseDown
 ms.assetid: b2922eb8-7b24-14bb-9b7e-50b0013cc61d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox.MouseDown Event (Outlook)
+# OlkTextBox.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

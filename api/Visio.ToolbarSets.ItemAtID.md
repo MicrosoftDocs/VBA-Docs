@@ -1,5 +1,5 @@
 ---
-title: ToolbarSets.ItemAtID Property (Visio)
+title: ToolbarSets.ItemAtID property (Visio)
 keywords: vis_sdr.chm14013770
 f1_keywords:
 - vis_sdr.chm14013770
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarSets.ItemAtID
 ms.assetid: 5508ee05-03ca-547d-26dc-2b80c0c22f49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarSets.ItemAtID Property (Visio)
+# ToolbarSets.ItemAtID property (Visio)
 
 Returns the  **ToolbarSet** object for an ID within a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemAtID`( `_lID_` )
+_expression_. `ItemAtID`( `_lID_` )
 
  _expression_ A variable that represents a [ToolbarSets](./Visio.ToolbarSets.md) object.
 
@@ -41,7 +42,7 @@ ToolbarSet
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The ID corresponds to a window or context menu. Constants for IDs are prefixed with  **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](Visio.visuiobjsets.md)** .
+The ID corresponds to a window or context menu. Constants for IDs are prefixed with  **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](Visio.visuiobjsets.md)**.
 
 
 ## Example
@@ -92,4 +93,4 @@ Public Sub ItemAtID_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

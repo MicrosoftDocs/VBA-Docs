@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.FormulaHidden
 ms.assetid: b6425c86-7e20-e34e-2d96-eb16075c20b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or sets a  **Variant** value that indicates if the formula will be hidde
 
 ## Syntax
 
- _expression_. `FormulaHidden`
+_expression_.**FormulaHidden**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
 
-This property returns  **True** if the formula will be hidden when the worksheet is protected, **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False** .
+This property returns  **True** if the formula will be hidden when the worksheet is protected, **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False**.
 
 Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
 
@@ -49,3 +50,4 @@ End Sub
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

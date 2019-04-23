@@ -1,5 +1,5 @@
 ---
-title: Selection.TextStyle Property (Visio)
+title: Selection.TextStyle property (Visio)
 keywords: vis_sdr.chm11114530
 f1_keywords:
 - vis_sdr.chm11114530
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.TextStyle
 ms.assetid: 3b94d8a1-e3aa-0473-de85-744cb353886e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.TextStyle Property (Visio)
+# Selection.TextStyle property (Visio)
 
 Gets or sets the text style for an object. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextStyle`
+_expression_. `TextStyle`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -36,4 +37,4 @@ To preserve a shape's local formatting, use the  **TextStyleKeepFmt** property.
 
 Beginning with Visio 2002, setting  **TextStyle** to an empty string ("") will cause the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

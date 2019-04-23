@@ -1,5 +1,5 @@
 ---
-title: Shape.InlineAlignment Property (Publisher)
+title: Shape.InlineAlignment property (Publisher)
 keywords: vbapb10.chm5308694
 f1_keywords:
 - vbapb10.chm5308694
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.InlineAlignment
 ms.assetid: daef2761-2a93-25da-9c12-1fed0fdd24ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.InlineAlignment Property (Publisher)
+# Shape.InlineAlignment property (Publisher)
 
 Returns or sets a  **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
 
 
 ## Syntax
 
- _expression_. **InlineAlignment**
+_expression_.**InlineAlignment**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -48,4 +49,4 @@ If Not theShape.IsInline = msoTrue Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnitCustom Property (Word)
+title: Axis.DisplayUnitCustom property (Word)
 keywords: vbawd10.chm113049673
 f1_keywords:
 - vbawd10.chm113049673
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.DisplayUnitCustom
 ms.assetid: 578e195b-9e45-1265-b20e-8de6a8233272
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.DisplayUnitCustom Property (Word)
+# Axis.DisplayUnitCustom property (Word)
 
-If the value of the  **[DisplayUnit](Word.Axis.DisplayUnit.md)** property is **xlCustom** , returns or sets the value of the displayed units. Read/write **Double** .
+If the value of the  **[DisplayUnit](Word.Axis.DisplayUnit.md)** property is **xlCustom**, returns or sets the value of the displayed units. Read/write **Double**.
 
 
 ## Syntax
 
- _expression_. `DisplayUnitCustom`
+_expression_.**DisplayUnitCustom**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.Priority
 ms.assetid: 5d7340f6-675f-5c5a-785f-2bb97dcc9ab0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_.**Priority**
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.Union Method (Visio)
+title: Selection.Union method (Visio)
 keywords: vis_sdr.chm11116630
 f1_keywords:
 - vis_sdr.chm11116630
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Union
 ms.assetid: 1ab7ce2a-98af-c455-7558-6f4f9226eeb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Union Method (Visio)
+# Selection.Union method (Visio)
 
 Creates a new shape from the perimeter of selected shapes.
 
 
 ## Syntax
 
- _expression_. `Union`
+_expression_. `Union`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -34,4 +35,4 @@ Calling the  **Union** method is equivalent to clicking **Union** in the Microso
 
 When the operation is complete, the original shapes are deleted and no shapes are selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

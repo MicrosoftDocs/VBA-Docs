@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 92d88a8c-1428-4491-9fb7-5eed3592fbfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.DurationVariance Property (Project)](http://msdn.microsoft.com/library/f76b4d29-1cf8-58be-f4cd-cc978f38aaa3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

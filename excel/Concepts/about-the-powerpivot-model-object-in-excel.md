@@ -3,6 +3,7 @@ title: About the PowerPivot Model Object in Excel
 ms.prod: excel
 ms.assetid: baa95a62-53d2-4c5f-bff7-bcc7323d6a20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -43,7 +44,7 @@ Excel with the PowerPivot add-in creates a single model in the workbook to which
 ## Working with OLAP data sources
 <a name="XLPowerPivotModel_OLAP"> </a>
 
-When connecting to an OLAP data source such as Analysis Services and creating OLAP PivotTables, Pivot Charts, Slicers or Cube functions, no model is created. Workbooks created with the PowerPivot add-in can be uploaded to SharePoint, loaded in memory on the server, and accessed by other workbooks as if it were a normal instance of SQL Server Analysis Services.
+When connecting to an OLAP data source such as Analysis Services and creating OLAP PivotTables, PivotCharts, Slicers or Cube functions, no model is created. Workbooks created with the PowerPivot add-in can be uploaded to SharePoint, loaded in memory on the server, and accessed by other workbooks as if it were a normal instance of SQL Server Analysis Services.
 
 
 ## Triggering the creation of a PowerPivot Model
@@ -95,7 +96,7 @@ New Excel PivotTables, other than the ones created from an OLAP data source, wil
 
 ### Creating a new Excel non-OLAP PivotChart
 
-In Excel, PivotTables and Pivot Charts have the ability to be no longer coupled. Therefore on insertion of a PivotChart in a workbook without a model, a PPM will be created.
+In Excel, PivotTables and PivotCharts have the ability to be no longer coupled. Therefore on insertion of a PivotChart in a workbook without a model, a PPM will be created.
 
 
 ### Pasting Excel non-OLAP PivotTables from another workbook
@@ -499,7 +500,7 @@ Represent a single column in the  **ModelTable** object. Used when programmatica
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **DataType**|Read-only| **XlParameterDataType**|Returns the data type of the column.|
+| **DataType**|Read-only| **xlParameterDataType**|Returns the data type of the column.|
 | **Name**|Read-only| **String**|Returns the name of the  **ModelTableColumn** object.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableColumn** object.|
 
@@ -582,7 +583,6 @@ The PowerPivot add-in enables you to build your own cubes instead of using the d
 ## See also
 
 -  [PowerPivot for Excel Tutorial Introduction](https://docs.microsoft.com/previous-versions/sql/sql-server-2012/gg413497(v=sql.110))   
--  [PowerPivot for Excel Tutorial Sample Data](https://archive.codeplex.com/?p=powerpivotsdr)   
+-  [PowerPivot for Excel Tutorial Sample Data](https://archive.codeplex.com/?p=powerpivotsdr)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

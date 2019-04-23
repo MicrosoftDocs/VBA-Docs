@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.MouseDown Event (Outlook)
+title: OlkContactPhoto.MouseDown event (Outlook)
 keywords: vbaol11.chm1000313
 f1_keywords:
 - vbaol11.chm1000313
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkContactPhoto.MouseDown
 ms.assetid: d629dd2f-5bcc-0328-d453-c8cda2d38b2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.MouseDown Event (Outlook)
+# OlkContactPhoto.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Align Text in a Control
 ms.prod: outlook
 ms.assetid: febee6d6-8e33-4a36-ced5-e4ba65930848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,5 +23,5 @@ This procedure is available only for the  [ComboBox](../../../api/Outlook.combob
   -  [TextAlign](../../../api/Outlook.label.textalign.md) property for the [Label](../../../api/Outlook.label.md) control.
     
   -  [TextAlign](../../../api/Outlook.textbox.textalign.md) property for the [TextBox](../../../api/Outlook.textbox.md) control.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

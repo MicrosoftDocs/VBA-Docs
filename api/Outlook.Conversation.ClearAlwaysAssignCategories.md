@@ -1,5 +1,5 @@
 ---
-title: Conversation.ClearAlwaysAssignCategories Method (Outlook)
+title: Conversation.ClearAlwaysAssignCategories method (Outlook)
 keywords: vbaol11.chm3489
 f1_keywords:
 - vbaol11.chm3489
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.ClearAlwaysAssignCategories
 ms.assetid: 0494d8af-6569-c03d-99b1-be332c000985
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.ClearAlwaysAssignCategories Method (Outlook)
+# Conversation.ClearAlwaysAssignCategories method (Outlook)
 
 Removes all categories from all items in the conversation and stops the action of always assigning categories to items in the conversation.
 
 
 ## Syntax
 
- _expression_. `ClearAlwaysAssignCategories`( `_Store_` )
+_expression_. `ClearAlwaysAssignCategories`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -45,3 +46,4 @@ If the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCatego
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

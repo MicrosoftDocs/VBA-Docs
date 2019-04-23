@@ -1,14 +1,15 @@
 ---
-title: PjResourceTimescaledData Enumeration (Project)
+title: PjResourceTimescaledData enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceTimescaledData
 ms.assetid: c1c4a28a-1820-f4ed-708d-890948627e53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjResourceTimescaledData Enumeration (Project)
+# PjResourceTimescaledData enumeration (Project)
 
 Contains constants that specify a resource field for timescaled data in the Project database. For more information about working with fields in Project, see the "Fields reference overview" topic in Project Help.
 
@@ -74,7 +75,7 @@ Contains constants that specify a resource field for timescaled data in the Proj
 |**pjResourceTimescaledBaseline8BudgetWork**|789|Baseline8 Budget Work (resource) field.|
 |**pjResourceTimescaledBaseline8Cost**|413|Baseline8 Cost (resource) field.|
 |**pjResourceTimescaledBaseline8CumulativeWork**|833|Baseline8 cumulative work (resource) field.|
-|**pjResourceTimescaledBaseline4RemainingCumulativeWork**|822|Baseline8 remaining cumulative work (resource) field.|
+|**pjResourceTimescaledBaseline8RemainingCumulativeWork**|822|Baseline8 remaining cumulative work (resource) field.|
 |**pjResourceTimescaledBaseline8Work**|412|Baseline8 Work (resource) field.|
 |**pjResourceTimescaledBaseline9BudgetCost**|794|Baseline9 Budget Cost (resource) field.|
 |**pjResourceTimescaledBaseline9BudgetWork**|793|Baseline9 Budget Work (resource) field.|
@@ -121,3 +122,5 @@ For more information about working with fields in Project, see the  _Available f
 
 
 [Available fields reference](https://support.office.com/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

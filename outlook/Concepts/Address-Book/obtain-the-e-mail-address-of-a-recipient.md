@@ -1,12 +1,13 @@
 ---
-title: Obtain the E-mail Address of a Recipient
+title: Obtain the Email Address of a Recipient
 ms.prod: outlook
 ms.assetid: b645c227-a7d2-2861-3bf7-4190a19abe81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Obtain the E-mail Address of a Recipient
+# Obtain the Email Address of a Recipient
 
 This topic shows how to obtain the SMTP address for each recipient in a  **[Recipients](../../../api/Outlook.Recipients.md)** collection.
 
@@ -54,4 +55,4 @@ private void GetSMTPAddressForRecipients(Outlook.MailItem mail)
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

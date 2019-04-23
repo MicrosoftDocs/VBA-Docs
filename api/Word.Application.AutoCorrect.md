@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrect Property (Word)
+title: Application.AutoCorrect property (Word)
 keywords: vbawd10.chm158334986
 f1_keywords:
 - vbawd10.chm158334986
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.AutoCorrect
 ms.assetid: 0a857e58-f37a-6023-fd13-bcb93109fdcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AutoCorrect Property (Word)
+# Application.AutoCorrect property (Word)
 
 Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoCorrect`
+_expression_. `AutoCorrect`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -72,3 +73,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

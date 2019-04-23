@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4d6d5f3f-2e3b-3e0e-ccc6-8f8e805b2b3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ The  **Add References** dialog box displays referenced libraries and [projects](
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

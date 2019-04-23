@@ -1,5 +1,5 @@
 ---
-title: OlRecipientSelectors Enumeration (Outlook)
+title: OlRecipientSelectors enumeration (Outlook)
 keywords: vbaol11.chm3108
 f1_keywords:
 - vbaol11.chm3108
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlRecipientSelectors
 ms.assetid: d7025d23-ef48-eeab-26b6-ea5ebee58c8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlRecipientSelectors Enumeration (Outlook)
+# OlRecipientSelectors enumeration (Outlook)
 
 Specifies the edit boxes (for  **To**,  **Cc**,  **Bcc**), if any, to be displayed in the  **Select Names** dialog box.
 
@@ -24,3 +25,4 @@ Specifies the edit boxes (for  **To**,  **Cc**,  **Bcc**), if any, to be display
 | **olShowToCc**|2|Only edit boxes for  **To** and **Cc** recipients will be displayed.|
 | **olShowToCcBcc**|3|Edit boxes for  **To**,  **Cc**, and  **Bcc** recipients will be displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

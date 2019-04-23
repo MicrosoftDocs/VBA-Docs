@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Creator Property (Word)
+title: ParagraphFormat.Creator property (Word)
 keywords: vbawd10.chm156435433
 f1_keywords:
 - vbawd10.chm156435433
@@ -8,19 +8,20 @@ api_name:
 - Word.ParagraphFormat.Creator
 ms.assetid: 500803c4-b7f8-0a99-6e96-4f783698725f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Creator Property (Word)
+# ParagraphFormat.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

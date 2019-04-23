@@ -1,5 +1,5 @@
 ---
-title: Shape.DeleteRow Method (Visio)
+title: Shape.DeleteRow method (Visio)
 keywords: vis_sdr.chm11216170
 f1_keywords:
 - vis_sdr.chm11216170
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.DeleteRow
 ms.assetid: 892ca523-679d-c707-4aba-e43c011cb718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.DeleteRow Method (Visio)
+# Shape.DeleteRow method (Visio)
 
 Deletes a row from a section in a ShapeSheet spreadsheet.
 
 
 ## Syntax
 
- _expression_. `DeleteRow`( `_Section_` , `_Row_` )
+_expression_. `DeleteRow`( `_Section_` , `_Row_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -41,7 +42,7 @@ Nothing
 
 To remove one row at a time from a ShapeSheet section, use the  **DeleteRow** method. If the section has indexed rows, the rows following the deleted row shift position. If the row does not exist, nothing is deleted.
 
-You should not delete rows that define fundamental characteristics of a shape, such as the 1-D Endpoints row (**visRowXForm1D**) or the component row (**visRowComponent**) or the MoveTo row (**visRowVertex** + 0) in a Geometry section. You cannot delete rows from sections represented by **visSectionCharacter** , **visSectionParagraph** , and **visSectionTab** .
+You should not delete rows that define fundamental characteristics of a shape, such as the 1D Endpoints row (**visRowXForm1D**) or the component row (**visRowComponent**) or the MoveTo row (**visRowVertex** + 0) in a Geometry section. You cannot delete rows from sections represented by **visSectionCharacter**, **visSectionParagraph**, and **visSectionTab**.
 
 
 ## Example
@@ -79,4 +80,4 @@ Public Sub DeleteRow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

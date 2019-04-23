@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.TextFrame
 ms.assetid: b72b9c3e-c41c-dce9-46ba-ee156ba52676
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[TextFrame](Excel.TextFrame.md)** object that contains the alignmen
 
 ## Syntax
 
- _expression_. `TextFrame`
+_expression_. `TextFrame`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ Worksheets(1).Shapes(1).TextFrame _
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

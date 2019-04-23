@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 07654d6b-562a-4a76-b960-cd82a5494aae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [MeetingItem.Forward Event (Outlook)](http://msdn.microsoft.com/library/0d12864b-07ca-5f97-8aab-ea9415e8b44c%28Office.15%29.aspx)
 [PostItem.Forward Event (Outlook)](http://msdn.microsoft.com/library/e5e9ab75-af39-dcaf-b343-eb679419dfbd%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem Object (Outlook)
+title: TaskRequestDeclineItem object (Outlook)
 keywords: vbaol11.chm3009
 f1_keywords:
 - vbaol11.chm3009
@@ -8,10 +8,11 @@ api_name:
 - Outlook.TaskRequestDeclineItem
 ms.assetid: e842c7c0-7943-9219-329b-30b892ab99b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem Object (Outlook)
+# TaskRequestDeclineItem object (Outlook)
 
 Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 
@@ -29,7 +30,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.TaskRequestDeclineItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.TaskRequestDeclineItem.AttachmentAdd.md)|
@@ -62,7 +63,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.TaskRequestDeclineItem.Close(method).md)|
 |[Copy](Outlook.TaskRequestDeclineItem.Copy.md)|
@@ -80,7 +81,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.TaskRequestDeclineItem.Actions.md)|
 |[Application](Outlook.TaskRequestDeclineItem.Application.md)|
@@ -124,4 +125,6 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

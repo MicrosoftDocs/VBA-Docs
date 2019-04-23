@@ -3,6 +3,7 @@ title: Failure to do open file using FTP service. (Error 3679)
 ms.prod: access
 ms.assetid: f7408177-bca2-0e4f-c28b-f02db88ac3e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ Unable to open a file in the internet server. Make sure the server is running an
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

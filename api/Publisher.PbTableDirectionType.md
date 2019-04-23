@@ -1,5 +1,5 @@
 ---
-title: PbTableDirectionType Enumeration (Publisher)
+title: PbTableDirectionType enumeration (Publisher)
 keywords: vbapb10.chm65577
 f1_keywords:
 - vbapb10.chm65577
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbTableDirectionType
 ms.assetid: 802f6e11-6502-dcb4-e13f-aebf2dfa5ac0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbTableDirectionType Enumeration (Publisher)
+# PbTableDirectionType enumeration (Publisher)
 
 Represents whether text in a table is read from left to right or from right to left. 
 
@@ -22,3 +23,4 @@ Represents whether text in a table is read from left to right or from right to l
 | **pbTableDirectionLeftToRight**|1|Left to Right|
 | **pbTableDirectionRightToLeft**|2|Right to Left|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

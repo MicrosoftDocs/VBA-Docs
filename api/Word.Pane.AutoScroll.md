@@ -1,5 +1,5 @@
 ---
-title: Pane.AutoScroll Method (Word)
+title: Pane.AutoScroll method (Word)
 keywords: vbawd10.chm157286504
 f1_keywords:
 - vbawd10.chm157286504
@@ -8,19 +8,20 @@ api_name:
 - Word.Pane.AutoScroll
 ms.assetid: c0f35128-c98e-2a9e-0ce4-3386c9db89ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.AutoScroll Method (Word)
+# Pane.AutoScroll method (Word)
 
 Scrolls automatically through the specified pane.
 
 
 ## Syntax
 
- _expression_. `AutoScroll`( `_Velocity_` )
+_expression_. `AutoScroll`( `_Velocity_` )
 
- _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
+_expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ ActiveDocument.ActiveWindow.ActivePane.AutoScroll _
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.VBASigned
 ms.assetid: 6e93161c-2fa4-1064-9b5d-a8eb96ad2bea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.VBASigned property (Excel)
 
- **True** if the Visual Basic for Applications project for the specified workbook has been digitally signed. Read-only **Boolean** .
+ **True** if the Visual Basic for Applications project for the specified workbook has been digitally signed. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `VBASigned`
+_expression_. `VBASigned`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

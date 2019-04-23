@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f3d5d8a8-4d53-f8bc-b5dc-62f0820fe8fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Not all objects expose an Automation interface. This error has the following cau
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

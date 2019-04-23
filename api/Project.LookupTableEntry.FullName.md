@@ -1,5 +1,5 @@
 ---
-title: LookupTableEntry.FullName Property (Project)
+title: LookupTableEntry.FullName property (Project)
 keywords: vbapj.chm132391
 f1_keywords:
 - vbapj.chm132391
@@ -8,17 +8,18 @@ api_name:
 - Project.LookupTableEntry.FullName
 ms.assetid: e1181061-5d49-7ae9-360f-1c397d744422
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LookupTableEntry.FullName Property (Project)
+# LookupTableEntry.FullName property (Project)
 
 Gets the full name for the specified level and parent levels of the  **LookupTableEntry** for the outline code, complete with the separator string between the levels. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `FullName`
+_expression_.**FullName**
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
@@ -100,4 +101,4 @@ Sub EditLocationLookupTable(objLookupTable As LookupTable)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

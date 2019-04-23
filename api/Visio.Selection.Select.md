@@ -1,5 +1,5 @@
 ---
-title: Selection.Select Method (Visio)
+title: Selection.Select method (Visio)
 keywords: vis_sdr.chm11116530
 f1_keywords:
 - vis_sdr.chm11116530
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Select
 ms.assetid: b135632a-1158-1903-0b29-931c88deae21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Select Method (Visio)
+# Selection.Select method (Visio)
 
 Selects or clears the selection of an object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_SheetObject_` , `_SelectAction_` )
+_expression_.**Select** (_SheetObject_, _SelectAction_)
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -45,7 +46,7 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeselect**|1|Cancels the selection of a shape but leaves the rest of the selection unchanged.|
 | **visSelect**|2|Selects a shape but leaves the rest of the selection unchanged.|
@@ -53,13 +54,13 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 | **visSelectAll**|4|Selects a shape and all its peers.|
 | **visDeselectAll**|256|Cancels the selection of a shape and all its peers.|
 
-If  _SelectAction_ is **visSubSelect** , the parent shape of _SheetObject_ must already be selected.
+If  _SelectAction_ is **visSubSelect**, the parent shape of _SheetObject_ must already be selected.
 
 You can combine  **visDeselectAll** with **visSelect** and **visSubSelect** to cancel the selection of all shapes prior to selecting or subselecting other shapes.
 
 If the object being operated on is a  **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
 
-If the object being operated on is a  **Window** object, and if _SelectAction_ is not **visSubSelect** , the parent shape of _SheetObject_ must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
+If the object being operated on is a  **Window** object, and if _SelectAction_ is not **visSubSelect**, the parent shape of _SheetObject_ must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
 
 
 ## Example
@@ -135,4 +136,4 @@ Public Sub Select_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

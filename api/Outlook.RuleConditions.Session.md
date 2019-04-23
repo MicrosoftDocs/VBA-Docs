@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Session Property (Outlook)
+title: RuleConditions.Session property (Outlook)
 keywords: vbaol11.chm2298
 f1_keywords:
 - vbaol11.chm2298
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RuleConditions.Session
 ms.assetid: 0a214009-1bd1-9631-a80c-e942680ae878
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RuleConditions.Session Property (Outlook)
+# RuleConditions.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [RuleConditions Object](Outlook.RuleConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

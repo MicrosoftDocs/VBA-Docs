@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceFractions Property (Word)
+title: Options.AutoFormatReplaceFractions property (Word)
 keywords: vbawd10.chm162988289
 f1_keywords:
 - vbawd10.chm162988289
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatReplaceFractions
 ms.assetid: e6ee4446-6ec0-766d-cb73-1fdbdb755118
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatReplaceFractions Property (Word)
+# Options.AutoFormatReplaceFractions property (Word)
 
- **True** if typed fractions are replaced with fractions from the current character set when Word formats a document or range automatically. For example, "1/2" is replaced with "½." Read/write **Boolean** .
+ **True** if typed fractions are replaced with fractions from the current character set when Word formats a document or range automatically. For example, "1/2" is replaced with "½." Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatReplaceFractions`
+_expression_. `AutoFormatReplaceFractions`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnAutoFormat = Options.AutoFormatReplaceFractions
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

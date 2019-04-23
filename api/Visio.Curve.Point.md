@@ -1,5 +1,5 @@
 ---
-title: Curve.Point Method (Visio)
+title: Curve.Point method (Visio)
 keywords: vis_sdr.chm15516435
 f1_keywords:
 - vis_sdr.chm15516435
@@ -8,17 +8,18 @@ api_name:
 - Visio.Curve.Point
 ms.assetid: 48fcad31-a655-f68c-10fd-127fea45f95d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Curve.Point Method (Visio)
+# Curve.Point method (Visio)
 
 Returns a point at a position along a curve.
 
 
 ## Syntax
 
- _expression_. `Point`( `_t_` , `_x_` , `_y_` )
+_expression_. `Point`( `_t_` , `_x_` , `_y_` )
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
@@ -94,4 +95,4 @@ Sub Point_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

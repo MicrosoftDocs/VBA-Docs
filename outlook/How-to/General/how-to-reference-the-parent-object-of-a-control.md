@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: b870fcfb-0ff9-ad87-985e-61ef1362d449
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Reference the Parent Object of a Control
+# Reference the Parent Object of a Control
 
 The following example uses the Microsoft Forms 2.0  **Parent** property to refer to the control, form, or other object that contains a specific control or object.
 
@@ -55,4 +56,4 @@ Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

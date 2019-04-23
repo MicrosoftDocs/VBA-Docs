@@ -1,5 +1,5 @@
 ---
-title: SyncObject.SyncStart Event (Outlook)
+title: SyncObject.SyncStart event (Outlook)
 keywords: vbaol11.chm111
 f1_keywords:
 - vbaol11.chm111
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SyncObject.SyncStart
 ms.assetid: 225367bc-3bff-cea0-3e8c-71a30256f45d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject.SyncStart Event (Outlook)
+# SyncObject.SyncStart event (Outlook)
 
 Occurs when Microsoft Outlook begins synchronizing a user's folders using the specified  **Send\Receive** group.
 
 
 ## Syntax
 
- _expression_. `SyncStart`
+_expression_. `SyncStart`
 
- _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

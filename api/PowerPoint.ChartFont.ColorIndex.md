@@ -1,5 +1,5 @@
 ---
-title: ChartFont.ColorIndex Property (PowerPoint)
+title: ChartFont.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm704004
 f1_keywords:
 - vbapp10.chm704004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ChartFont.ColorIndex
 ms.assetid: 2f0765bf-9a3b-999a-2dd6-17009fbd619d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.ColorIndex Property (PowerPoint)
+# ChartFont.ColorIndex property (PowerPoint)
 
 Returns or sets the color of the font. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
- _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
+_expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 
 
 ## Remarks
@@ -71,3 +72,4 @@ End With
 
 [ChartFont Object](PowerPoint.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

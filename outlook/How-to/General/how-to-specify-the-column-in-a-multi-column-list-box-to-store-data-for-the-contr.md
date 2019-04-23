@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 11481d20-6c2c-2dfb-4afe-fdc4a4e1563c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Specify the Column in a Multi-Column List Box to Store Data for the Control
+# Specify the Column in a Multi-Column List Box to Store Data for the Control
 
 The following example demonstrates how the  **[BoundColumn](../../../api/Outlook.listbox.boundcolumn.md)** property influences the value of a **[ListBox](../../../api/Outlook.listbox.md)**. The user can choose to set the value of the  **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
 
@@ -70,4 +71,4 @@ Sub Listbox1_Click
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

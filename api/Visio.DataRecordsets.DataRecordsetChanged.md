@@ -1,14 +1,15 @@
 ---
-title: DataRecordsets.DataRecordsetChanged Event (Visio)
+title: DataRecordsets.DataRecordsetChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DataRecordsets.DataRecordsetChanged
 ms.assetid: a0016ac9-bf63-ea19-2e82-bf90a67c4545
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets.DataRecordsetChanged Event (Visio)
+# DataRecordsets.DataRecordsetChanged event (Visio)
 
 Occurs when a data recordset changes as a result of being refreshed.
 
@@ -35,8 +36,8 @@ Private Sub  _expression_ _'DataRecordsetChanged'(**_ByVal DataRecordsetChanged 
 
 When the  **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](Visio.DataRecordsetChangedEvent.md)** object is passed to the **[IVisEventProc.VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method as the pSubjectObj parameter, which represents he subject of the event?the object to which the event occurs.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

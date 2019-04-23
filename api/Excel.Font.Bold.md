@@ -8,19 +8,20 @@ api_name:
 - Excel.Font.Bold
 ms.assetid: 7343989f-f973-0b1d-e595-c625ef2e0c15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.Bold property (Excel)
 
- **True** if the font is bold. Read/write **Variant** .
+ **True** if the font is bold. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Bold`
+_expression_. `Bold`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").Range("A1:A5").Font.Bold = True
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Background Property (Word)
+title: ChartFont.Background property (Word)
 keywords: vbawd10.chm255918080
 f1_keywords:
 - vbawd10.chm255918080
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.Background
 ms.assetid: 3ae75226-265d-f544-489d-e3e417995ef8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.Background Property (Word)
+# ChartFont.Background property (Word)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](Word.xlbackground.md)** .
+Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](Word.xlbackground.md)**.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -49,3 +50,4 @@ End With
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

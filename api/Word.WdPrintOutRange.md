@@ -1,14 +1,15 @@
 ---
-title: WdPrintOutRange Enumeration (Word)
+title: WdPrintOutRange enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPrintOutRange
 ms.assetid: 27d0fecc-7eb1-de0b-5f76-e256e8e9f5bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPrintOutRange Enumeration (Word)
+# WdPrintOutRange enumeration (Word)
 
 Specifies a range to print.
 
@@ -22,3 +23,4 @@ Specifies a range to print.
 | **wdPrintRangeOfPages**|4|A specified range of pages.|
 | **wdPrintSelection**|1|The current selection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite Object (Outlook)
+title: PropertyPageSite object (Outlook)
 keywords: vbaol11.chm384
 f1_keywords:
 - vbaol11.chm384
@@ -8,10 +8,11 @@ api_name:
 - Outlook.PropertyPageSite
 ms.assetid: cdec4b4c-14b3-de0a-52c8-d5af46f4644a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyPageSite Object (Outlook)
+# PropertyPageSite object (Outlook)
 
 Represents the container of a custom property page.
 
@@ -41,7 +42,7 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)|
 
@@ -49,7 +50,7 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.PropertyPageSite.Application.md)|
 |[Class](Outlook.PropertyPageSite.Class.md)|
@@ -59,4 +60,6 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

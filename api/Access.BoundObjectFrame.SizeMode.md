@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.SizeMode
 ms.assetid: 2c44b16f-cb04-8e45-2a67-7424342f48de
-ms.date: 06/08/2017
+ms.date: 02/08/2019
+localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.SizeMode property (Access)
 
-You can use the  **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
+You can use the **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
 
 
 ## Syntax
 
-_expression_. `SizeMode`
+_expression_.**SizeMode**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **SizeMode** property uses the following settings.
+The **SizeMode** property uses the following settings.
 
-
-
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Clip|**acOLESizeClip**|(Default) Displays the object at actual size. If the object is larger than the control, its image is clipped on the right and bottom by the control's borders.|
 |Stretch|**acOLESizeStretch**|Sizes the object to fill the control. This setting may distort the proportions of the object.|
@@ -40,7 +39,7 @@ Use the Clip setting for the fastest display. You can use the Stretch setting fo
 
 ## Example
 
-The following example creates a linked OLE object using an unbound object frame named  `OLE1` and sizes the control to display the object's entire contents when the user clicks a command button.
+The following example creates a linked OLE object by using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user clicks a command button.
 
 
 ```vb
@@ -60,8 +59,6 @@ End Sub
 ```
 
 
-## See also
+\
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

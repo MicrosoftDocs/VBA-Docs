@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Size Property (Word)
+title: CheckBox.Size property (Word)
 keywords: vbawd10.chm153485314
 f1_keywords:
 - vbawd10.chm153485314
@@ -8,17 +8,18 @@ api_name:
 - Word.CheckBox.Size
 ms.assetid: 1e7fe0d6-7dd9-c19b-a5b4-f60f99ee6bae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CheckBox.Size Property (Word)
+# CheckBox.Size property (Word)
 
-Returns or sets the size of a check box, in points. Read/write  **Single** .
+Returns or sets the size of a check box, in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
  _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [CheckBox Object](Word.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

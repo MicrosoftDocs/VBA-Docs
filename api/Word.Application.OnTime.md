@@ -1,5 +1,5 @@
 ---
-title: Application.OnTime Method (Word)
+title: Application.OnTime method (Word)
 keywords: vbawd10.chm158335326
 f1_keywords:
 - vbawd10.chm158335326
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.OnTime
 ms.assetid: 732d03cc-9dd6-5961-9763-048f72dea4d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OnTime Method (Word)
+# Application.OnTime method (Word)
 
 Starts a background timer that runs a macro at a specified time.
 
 
 ## Syntax
 
- _expression_. `OnTime`( `_When_` , `_Name_` , `_Tolerance_` )
+_expression_. `OnTime`( `_When_` , `_Name_` , `_Tolerance_` )
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Parameters
@@ -41,7 +42,7 @@ For the Name parameter, use the complete macro path to ensure that the correct m
 
 Use the sum of the return values of the  **Now** function and either the **TimeValue** or **TimeSerial** function to set a timer to run a macro a specified amount of time after the statement is run. For example, use `Now+TimeValue("00:05:30")` to run a macro 5 minutes and 30 seconds after the statement is run.
 
-Word can maintain only one background timer set by  **OnTime** . If you start another timer before an existing timer runs, the existing timer is canceled.
+Word can maintain only one background timer set by  **OnTime**. If you start another timer before an existing timer runs, the existing timer is canceled.
 
 
 ## Example
@@ -79,3 +80,4 @@ Application.OnTime When:=TimeValue("1:30 pm"), _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

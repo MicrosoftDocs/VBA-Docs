@@ -1,5 +1,5 @@
 ---
-title: Characters.End Property (Visio)
+title: Characters.End property (Visio)
 keywords: vis_sdr.chm10213460
 f1_keywords:
 - vis_sdr.chm10213460
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.End
 ms.assetid: 61b8fdb4-e00e-b7a5-2f0b-42d46684c626
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.End Property (Visio)
+# Characters.End property (Visio)
 
 Returns or sets the ending index of the indicated  **Characters** object representing a range of text in a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -40,5 +41,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.End**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

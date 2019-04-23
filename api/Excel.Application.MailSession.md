@@ -7,20 +7,21 @@ ms.prod: excel
 api_name:
 - Excel.Application.MailSession
 ms.assetid: 45dbbaa1-3da2-55f9-415b-ac9218d293dc
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.MailSession property (Excel)
 
-Returns the MAPI mail session number as a hexadecimal string (if there's an active session), or returns  **null** if there's no session. Read-only **Variant** .
+Returns the MAPI mail session number as a hexadecimal string (if there's an active session), or returns **null** if there's no session. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `MailSession`
+_expression_.**MailSession**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
@@ -32,16 +33,13 @@ This property isn't used on PowerTalk mail systems.
 
 ## Example
 
-This example closes the established mail session, if there is one.
-
+This example closes the established mail session if there is one.
 
 ```vb
 If Not IsNull(Application.MailSession) Then Application.MailLogoff
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

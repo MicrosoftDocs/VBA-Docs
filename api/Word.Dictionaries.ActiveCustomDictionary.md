@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.ActiveCustomDictionary Property (Word)
+title: Dictionaries.ActiveCustomDictionary property (Word)
 keywords: vbawd10.chm162267139
 f1_keywords:
 - vbawd10.chm162267139
@@ -8,17 +8,18 @@ api_name:
 - Word.Dictionaries.ActiveCustomDictionary
 ms.assetid: 2f6a3fa0-4e7d-a7f0-20ce-49688dab7191
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionaries.ActiveCustomDictionary Property (Word)
+# Dictionaries.ActiveCustomDictionary property (Word)
 
 Returns or sets a  **[Dictionary](Word.Dictionary.md)** object that represents the custom dictionary to which words will be added. Read/write.
 
 
 ## Syntax
 
- _expression_. `ActiveCustomDictionary`
+_expression_. `ActiveCustomDictionary`
 
  _expression_ A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
 
@@ -55,3 +56,4 @@ Application.CustomDictionaries.ActiveCustomDictionary = dicCustom
 
 [Dictionaries Collection Object](Word.dictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

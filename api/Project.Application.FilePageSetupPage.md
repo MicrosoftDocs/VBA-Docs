@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupPage Method (Project)
+title: Application.FilePageSetupPage method (Project)
 keywords: vbapj.chm2355
 f1_keywords:
 - vbapj.chm2355
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupPage
 ms.assetid: 7c5cf66d-715b-17e1-a03a-a376617a1e02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupPage Method (Project)
+# Application.FilePageSetupPage method (Project)
 
 Sets up pages for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupPage`( ` _Name_`, ` _Portrait_`, ` _PercentScale_`, ` _PagesTall_`, ` _PagesWide_`, ` _PaperSize_`, ` _FirstPageNumber_` )
+_expression_. `FilePageSetupPage`( `_Name_`, `_Portrait_`, `_PercentScale_`, `_PagesTall_`, `_PagesWide_`, `_PaperSize_`, `_FirstPageNumber_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -46,4 +47,4 @@ Sets up pages for printing.
 
 Using the  **FilePageSetupPage** method without specifying any arguments displays the **Page Setup** dialog box with the **Page** tab selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

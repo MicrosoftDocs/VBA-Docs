@@ -8,6 +8,7 @@ api_name:
 - Excel.Hyperlinks.Application
 ms.assetid: de44c501-bbf6-0af0-1f67-5a486b38a863
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
+_expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Duration Method (Excel)
+title: WorksheetFunction.Duration method (Excel)
 keywords: vbaxl10.chm137334
 f1_keywords:
 - vbaxl10.chm137334
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Duration
 ms.assetid: 96366e78-fb4a-c347-2806-dc864749fe71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Duration Method (Excel)
+# WorksheetFunction.Duration method (Excel)
 
 Returns the Macauley duration for an assumed par value of $100. Duration is defined as the weighted average of the present value of the cash flows and is used as a measure of a bond price's response to changes in yield.
 
 
 ## Syntax
 
- _expression_. `Duration`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `Duration`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -79,3 +80,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

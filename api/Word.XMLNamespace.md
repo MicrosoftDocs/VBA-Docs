@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace Object (Word)
+title: XMLNamespace object (Word)
 keywords: vbawd10.chm35
 f1_keywords:
 - vbawd10.chm35
@@ -8,10 +8,11 @@ api_name:
 - Word.XMLNamespace
 ms.assetid: a50ed533-8961-f433-d501-797e5d678fda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNamespace Object (Word)
+# XMLNamespace object (Word)
 
 Represents an individual schema within the Schema Library. 
 
@@ -20,7 +21,7 @@ Represents an individual schema within the Schema Library.
 
 You can access the Schema Library from within Microsoft Word from the  **XML Schema** tab in the **Templates and Add-ins** dialog box. The Schema Library represents schemas installed on a user's computer that a user has applied to a Word document or that a user has explicitly added to the Schema Library by using the **Schema Library** dialog box.
 
-Use the  **Item** method of the **XMLNamespaces** collection to return an individual **XMLNameSpace** object. The index value of the **Item** method can be either a **Long** , which indicates the position of the schema in the Schema Library, or a **String** , which represents the name of the schema as returned using the **URI** property (the TargetNamespace setting defined in the schema).
+Use the  **Item** method of the **XMLNamespaces** collection to return an individual **XMLNameSpace** object. The index value of the **Item** method can be either a **Long**, which indicates the position of the schema in the Schema Library, or a **String**, which represents the name of the schema as returned using the **URI** property (the TargetNamespace setting defined in the schema).
 
 The following example attaches a schema named SimpleSample to the active document.
 
@@ -47,6 +48,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

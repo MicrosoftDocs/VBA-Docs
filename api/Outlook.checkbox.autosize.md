@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 1bbe09ed-bf8e-3126-e756-ddd6035400d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
 ## Syntax
 
- _expression_. **AutoSize**
+_expression_.**AutoSize**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ For controls with captions, the  **AutoSize** property specifies whether the con
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

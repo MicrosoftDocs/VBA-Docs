@@ -3,6 +3,7 @@ title: ViewCtl.BeforeViewSwitch Event (Outlook View Control)
 ms.prod: outlook
 ms.assetid: f68c1cd3-7463-0e2b-7fee-d5a100b79f8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Occurs before Microsoft Outlook changes the view that is applied to the folder d
 
 ## Syntax
 
- _expression_. **BeforeViewSwitch**(**_newView_**,  **_Cancel_**)
+_expression_.**BeforeViewSwitch**(**_newView_**,  **_Cancel_**)
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Parameters
@@ -33,4 +34,4 @@ You can cancel this event to prevent the user from changing the view in the View
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

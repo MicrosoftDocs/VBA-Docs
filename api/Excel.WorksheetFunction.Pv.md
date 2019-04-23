@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pv Method (Excel)
+title: WorksheetFunction.Pv method (Excel)
 keywords: vbaxl10.chm137107
 f1_keywords:
 - vbaxl10.chm137107
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Pv
 ms.assetid: d4d29864-a869-ae16-ed42-39b498ca9ca5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Pv Method (Excel)
+# WorksheetFunction.Pv method (Excel)
 
 Returns the present value of an investment. The present value is the total amount that a series of future payments is worth now. For example, when you borrow money, the loan amount is the present value to the lender.
 
 
 ## Syntax
 
- _expression_. `Pv`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `Pv`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -72,3 +73,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

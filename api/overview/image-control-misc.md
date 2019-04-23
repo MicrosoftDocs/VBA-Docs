@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 1f938a6e-7aea-7787-d959-e21edaa9342c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,7 +28,8 @@ You can use the image control or an [unbound object frame](unbound-object-frame-
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

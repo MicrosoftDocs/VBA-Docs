@@ -1,5 +1,5 @@
 ---
-title: ODBCErrors.Item Method (Excel)
+title: ODBCErrors.Item method (Excel)
 keywords: vbaxl10.chm529074
 f1_keywords:
 - vbaxl10.chm529074
@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCErrors.Item
 ms.assetid: 694a0e7e-f6c0-8721-792b-8e82e6a8e5c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ODBCErrors.Item Method (Excel)
+# ODBCErrors.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [ODBCErrors](Excel.ODBCErrors.md) object.
+_expression_ A variable that represents an [ODBCErrors](Excel.ODBCErrors.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ MsgBox "The following error occurred:" &
 
 [ODBCErrors Object](Excel.ODBCErrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

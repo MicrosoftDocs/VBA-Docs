@@ -1,14 +1,15 @@
 ---
-title: PpDateTimeFormat Enumeration (PowerPoint)
+title: PpDateTimeFormat enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpDateTimeFormat
 ms.assetid: 28660011-3f32-3846-7a4a-ad2272f8ca6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpDateTimeFormat Enumeration (PowerPoint)
+# PpDateTimeFormat enumeration (PowerPoint)
 
 Specifies the format for the automatically updated date and time. 
 
@@ -32,3 +33,4 @@ Specifies the format for the automatically updated date and time.
 |**ppDateTimeMMMMyy**|6|MMMMyy|
 |**ppDateTimeMMyy**|7|MMyy|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

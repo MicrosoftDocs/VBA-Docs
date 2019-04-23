@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: deebf97c-e531-8635-6419-2e3dc4a20e66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ You must end execution to begin recording. This error has the following cause an
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

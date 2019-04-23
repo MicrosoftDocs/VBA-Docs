@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.VisibleSlicerItems
 ms.assetid: ea9d1b43-1280-5423-515f-8d00e0624901
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 ## Syntax
 
- _expression_. `VisibleSlicerItems`
+_expression_. `VisibleSlicerItems`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 ## Remarks
 
-The  **VisibleSlicerItems** property is only applicable for slicers that are based on PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase**). Attempting to access the **VisibleSlicerItems** property for slicers that are connected to an OLAP data source (**SlicerCache** . **OLAP** = **True**) generates a run-time error.
+The  **VisibleSlicerItems** property is only applicable for slicers that are based on PivotTables based on workbook ranges or lists (**SlicerCache**. **SourceType** = **xlDatabase**). Attempting to access the **VisibleSlicerItems** property for slicers that are connected to an OLAP data source (**SlicerCache**. **OLAP** = **True**) generates a run-time error.
 
 
 ## See also
@@ -38,3 +39,4 @@ The  **VisibleSlicerItems** property is only applicable for slicers that are bas
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

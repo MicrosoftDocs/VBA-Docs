@@ -1,5 +1,5 @@
 ---
-title: Document.TimeCreated Property (Visio)
+title: Document.TimeCreated property (Visio)
 keywords: vis_sdr.chm10550905
 f1_keywords:
 - vis_sdr.chm10550905
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.TimeCreated
 ms.assetid: efb0fdc6-c4ff-78a5-08bb-7a4367cedc43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TimeCreated Property (Visio)
+# Document.TimeCreated property (Visio)
 
 Returns the date and time the document was created. Read-only.
 
 
 ## Syntax
 
- _expression_. `TimeCreated`
+_expression_. `TimeCreated`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -34,4 +35,4 @@ In the  **Date** type, the value to the left of the decimal point represents the
 
 If you convert a  **Date** value to the **String** type, the date is rendered according to the short date format recognized by your computer. Times are displayed according to the time format (either 12-hour or 24-hour) recognized by your computer.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Copy Method (Outlook)
+title: BusinessCardView.Copy method (Outlook)
 keywords: vbaol11.chm2922
 f1_keywords:
 - vbaol11.chm2922
@@ -8,19 +8,20 @@ api_name:
 - Outlook.BusinessCardView.Copy
 ms.assetid: 9a0a1a14-87bd-ff53-6643-5e11a07733a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView.Copy Method (Outlook)
+# BusinessCardView.Copy method (Outlook)
 
 Creates a new  **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Name_` , `_SaveOption_` )
+_expression_.**Copy** (_Name_, _SaveOption_)
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Parameters
@@ -82,3 +83,4 @@ End Sub
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

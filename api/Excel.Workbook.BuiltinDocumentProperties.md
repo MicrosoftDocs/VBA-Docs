@@ -8,24 +8,25 @@ api_name:
 - Excel.Workbook.BuiltinDocumentProperties
 ms.assetid: 3efffd7d-0681-ecbc-000a-b71eceb3f92a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.BuiltinDocumentProperties property (Excel)
 
-Returns a  **[DocumentProperties](./Office.DocumentProperties.md)** collection that represents all the built-in document properties for the specified workbook. Read-only.
+Returns a  **[DocumentProperties](Office.DocumentProperties.md)** collection that represents all the built-in document properties for the specified workbook. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltinDocumentProperties`
+_expression_. `BuiltinDocumentProperties`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
 
-This property returns the entire collection of built-in document properties. Use the  **Item** method to return a single member of the collection (a **[DocumentProperty](./Office.DocumentProperty.md)** object) by specifying either the name of the property or the collection index (as a number).
+This property returns the entire collection of built-in document properties. Use the  **Item** method to return a single member of the collection (a **[DocumentProperty](Office.DocumentProperty.md)** object) by specifying either the name of the property or the collection index (as a number).
 
 You can refer to document properties either by index value or by name. The following list shows the available built-in document property names:
 
@@ -68,3 +69,4 @@ Next
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Label Property (Word)
+title: OLEFormat.Label property (Word)
 keywords: vbawd10.chm154337292
 f1_keywords:
 - vbawd10.chm154337292
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.Label
 ms.assetid: 3603bdee-3259-9068-9dfc-6861c253df97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Label Property (Word)
+# OLEFormat.Label property (Word)
 
-Returns a string that's used to identify the portion of the source file that's being linked. Read-only  **String** .
+Returns a string that's used to identify the portion of the source file that's being linked. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Label`
+_expression_. `Label`
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -45,3 +46,4 @@ MsgBox ActiveDocument.Fields(1).OLEFormat.Label
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

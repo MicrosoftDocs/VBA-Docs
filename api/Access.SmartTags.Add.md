@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.SmartTags.Add
 ms.assetid: 880e9543-a8f9-ed5f-4cc5-692979774972
-ms.date: 06/08/2017
+ms.date: 03/26/2019
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,12 @@ Adds a smart tag to a form or control.
 
 ## Syntax
 
-_expression_. `Add`( ` _Name_` )
+_expression_.**Add** (_Name_)
 
-_expression_ A variable that represents a [SmartTags](Access.SmartTags.md) object.
+_expression_ A variable that represents a **[SmartTags](Access.SmartTags.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,8 +35,5 @@ _expression_ A variable that represents a [SmartTags](Access.SmartTags.md) objec
 SmartTag
 
 
-## See also
 
-
-[SmartTags Collection](Access.SmartTags.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

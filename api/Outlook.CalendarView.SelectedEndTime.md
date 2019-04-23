@@ -1,5 +1,5 @@
 ---
-title: CalendarView.SelectedEndTime Property (Outlook)
+title: CalendarView.SelectedEndTime property (Outlook)
 keywords: vbaol11.chm3314
 f1_keywords:
 - vbaol11.chm3314
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CalendarView.SelectedEndTime
 ms.assetid: cf617cf4-9c71-96ca-e8f5-52fa4596cb6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarView.SelectedEndTime Property (Outlook)
+# CalendarView.SelectedEndTime property (Outlook)
 
 Returns a  **Date** that represents the end time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SelectedEndTime`
+_expression_. `SelectedEndTime`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks
@@ -114,3 +115,4 @@ private void CreateAppointmentUsingSelectedTime()
 
 [CalendarView Object](Outlook.CalendarView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

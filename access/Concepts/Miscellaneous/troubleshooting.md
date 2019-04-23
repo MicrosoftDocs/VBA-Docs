@@ -3,6 +3,7 @@ title: Troubleshooting
 ms.prod: access
 ms.assetid: 63787a49-b06a-9520-270f-1bcc0a152587
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,3 +32,5 @@ When you have trouble with MDAC technologies, try the following resources to get
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

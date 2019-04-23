@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2e7c305a-ca2f-47c9-ab59-34868e7f3695
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.LinkSuccessors Method (Project)](http://msdn.microsoft.com/library/397fff8c-3ff3-4725-2938-fdaecddf624b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

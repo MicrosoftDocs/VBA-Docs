@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Parent
 ms.assetid: a4286ebc-cbcb-98e5-0f05-26ec32e04fba
-ms.date: 06/08/2017
+ms.date: 04/13/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[CalculatedMember](Excel.CalculatedMember.md)** object.
 
 
-[CalculatedMember Object](Excel.CalculatedMember.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

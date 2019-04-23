@@ -6,19 +6,20 @@ f1_keywords:
 ms.assetid: 1ff943c2-e52f-c01e-d337-d5dd7c02983e
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
 # ModelFormatPercentageNumber.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a 'ModelFormatPercentageNumber' object.
+_expression_ A variable that represents a 'ModelFormatPercentageNumber' object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ModelFormatPercentageNumber Object](Excel.modelformatpercentagenumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

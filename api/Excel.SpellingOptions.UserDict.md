@@ -8,19 +8,20 @@ api_name:
 - Excel.SpellingOptions.UserDict
 ms.assetid: 8816b44e-98e5-8829-cb6e-af4ac4040838
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SpellingOptions.UserDict property (Excel)
 
-Instructs Microsoft Excel to create a custom dictionary to which new words can be added to, when performing spelling checks on a worksheet. Read/write  **String** .
+Instructs Microsoft Excel to create a custom dictionary to which new words can be added to, when performing spelling checks on a worksheet. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `UserDict`
+_expression_. `UserDict`
 
- _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](Excel.SpellingOptions.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End Sub
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

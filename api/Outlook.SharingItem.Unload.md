@@ -1,23 +1,24 @@
 ---
-title: SharingItem.Unload Event (Outlook)
+title: SharingItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Unload
 ms.assetid: b79a4c94-46cc-5571-a36d-ad537db97bcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.Unload Event (Outlook)
+# SharingItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
+ _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

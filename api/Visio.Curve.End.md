@@ -1,5 +1,5 @@
 ---
-title: Curve.End Property (Visio)
+title: Curve.End property (Visio)
 keywords: vis_sdr.chm15550575
 f1_keywords:
 - vis_sdr.chm15550575
@@ -8,17 +8,18 @@ api_name:
 - Visio.Curve.End
 ms.assetid: dce413f4-3c3b-c79f-4dbc-cbe1a8fbcca7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Curve.End Property (Visio)
+# Curve.End property (Visio)
 
 Returns the endpoint of a  **Curve** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
@@ -82,4 +83,4 @@ Sub End_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

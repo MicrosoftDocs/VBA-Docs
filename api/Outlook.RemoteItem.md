@@ -1,5 +1,5 @@
 ---
-title: RemoteItem Object (Outlook)
+title: RemoteItem object (Outlook)
 keywords: vbaol11.chm3006
 f1_keywords:
 - vbaol11.chm3006
@@ -8,10 +8,11 @@ api_name:
 - Outlook.RemoteItem
 ms.assetid: 6302aaff-cdcf-4d86-60f1-4bed15540d9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RemoteItem Object (Outlook)
+# RemoteItem object (Outlook)
 
 Represents a remote item in an Inbox folder.
 
@@ -35,7 +36,7 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.RemoteItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.RemoteItem.AttachmentAdd.md)|
@@ -68,7 +69,7 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.RemoteItem.Close(method).md)|
 |[Copy](Outlook.RemoteItem.Copy.md)|
@@ -85,7 +86,7 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.RemoteItem.Actions.md)|
 |[Application](Outlook.RemoteItem.Application.md)|
@@ -132,4 +133,6 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

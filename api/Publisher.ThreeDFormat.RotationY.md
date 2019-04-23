@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationY Property (Publisher)
+title: ThreeDFormat.RotationY property (Publisher)
 keywords: vbapb10.chm3801360
 f1_keywords:
 - vbapb10.chm3801360
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.RotationY
 ms.assetid: 571f090b-71a8-c92e-b4d8-4f21a4c383ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationY Property (Publisher)
+# ThreeDFormat.RotationY property (Publisher)
 
 Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. **RotationY**
+_expression_.**RotationY**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -60,4 +61,4 @@ Sub SetRotationY()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

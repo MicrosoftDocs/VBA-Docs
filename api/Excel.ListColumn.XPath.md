@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.XPath
 ms.assetid: a025d423-4291-c40a-96b9-e1f807d4b388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -48,3 +49,4 @@ If the range selection is valid, but none of the cells are mapped, Excel returns
 
 - [ListColumn Object](Excel.ListColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

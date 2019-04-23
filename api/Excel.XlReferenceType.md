@@ -1,14 +1,15 @@
 ---
-title: xlReferenceType enumeration (Excel)
+title: XlReferenceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlReferenceType
 ms.assetid: a15bf421-985a-c72c-656b-d73689b45819
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlReferenceType enumeration (Excel)
+# XlReferenceType enumeration (Excel)
 
 Specifies cell reference style when a formula is being converted.
 
@@ -21,3 +22,4 @@ Specifies cell reference style when a formula is being converted.
 | **xlRelative**|4|Convert to relative row and column style.|
 | **xlRelRowAbsColumn**|3|Convert to relative row and absolute column style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

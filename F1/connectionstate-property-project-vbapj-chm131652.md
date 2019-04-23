@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2a390ab9-909c-45ba-9ad3-1ba2c4ea8b47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeMaskLevel.Separator Property (Project)](http://msdn.microsoft.com/library/e439e778-1aee-3469-3d88-79489b7715fd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

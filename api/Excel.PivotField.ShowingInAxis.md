@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.ShowingInAxis
 ms.assetid: 5939c4ff-b256-8cf8-8aa3-3249349be0ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Indicates if the PivotField is currently visible in the PivotTable or not. Read-
 
 ## Syntax
 
- _expression_. `ShowingInAxis`
+_expression_. `ShowingInAxis`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The property returns  **True** if the PivotField is currently visible and return
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

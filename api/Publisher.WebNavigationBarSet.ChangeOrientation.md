@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.ChangeOrientation Method (Publisher)
+title: WebNavigationBarSet.ChangeOrientation method (Publisher)
 keywords: vbapb10.chm8519699
 f1_keywords:
 - vbapb10.chm8519699
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.ChangeOrientation
 ms.assetid: bce05e9c-5b4a-f5a2-33a9-b40d4e05664f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.ChangeOrientation Method (Publisher)
+# WebNavigationBarSet.ChangeOrientation method (Publisher)
 
 Sets a  **PbNavBarOrientation** constant that represents the alignment of the navigation bar; vertical or horizontal.
 
 
 ## Syntax
 
- _expression_. **ChangeOrientation**(**_Orientation_**)
+_expression_.**ChangeOrientation**(**_Orientation_**)
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -56,4 +57,4 @@ With objWebNav
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

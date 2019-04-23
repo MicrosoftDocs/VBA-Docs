@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SavePictureWithDocument Property (Word)
+title: LinkFormat.SavePictureWithDocument property (Word)
 keywords: vbawd10.chm154206230
 f1_keywords:
 - vbawd10.chm154206230
@@ -8,17 +8,18 @@ api_name:
 - Word.LinkFormat.SavePictureWithDocument
 ms.assetid: 5aacc0de-7a95-1f95-2797-d84a722526a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.SavePictureWithDocument Property (Word)
+# LinkFormat.SavePictureWithDocument property (Word)
 
- **True** if the specified picture is saved with the document. Read/write **Boolean** .
+ **True** if the specified picture is saved with the document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SavePictureWithDocument`
+_expression_. `SavePictureWithDocument`
 
  _expression_ An expression that returns a '[LinkFormat](Word.LinkFormat.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [LinkFormat Object](Word.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

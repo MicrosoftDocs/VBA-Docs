@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Object (Word)
+title: LeaderLines object (Word)
 keywords: vbawd10.chm3170
 f1_keywords:
 - vbawd10.chm3170
@@ -8,10 +8,11 @@ api_name:
 - Word.LeaderLines
 ms.assetid: ea8805d1-eec7-eaf6-1046-967e28d6bc56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LeaderLines Object (Word)
+# LeaderLines object (Word)
 
 Represents leader lines on a chart. Leader lines connect data labels to data points.
 
@@ -46,5 +47,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

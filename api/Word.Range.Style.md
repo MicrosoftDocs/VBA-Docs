@@ -1,5 +1,5 @@
 ---
-title: Range.Style Property (Word)
+title: Range.Style property (Word)
 keywords: vbawd10.chm157155479
 f1_keywords:
 - vbawd10.chm157155479
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Style
 ms.assetid: aeceef42-cbdc-3d55-2f43-0afffd933cc2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Style Property (Word)
+# Range.Style property (Word)
 
-Returns or sets the style for the specified object. Read/write  **Variant** .
+Returns or sets the style for the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ Next c
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

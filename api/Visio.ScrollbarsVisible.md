@@ -5,6 +5,7 @@ api_name:
 - Visio.ScrollbarsVisible
 ms.assetid: cd8f5b2d-f604-8bac-2e82-338cfa7d7174
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the scroll bars are visible in Micro
 
 ## Syntax
 
- _expression_. **ScrollbarsVisible**
+_expression_.**ScrollbarsVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code turns off display of the scroll bars in the drawing that is o
 vsoViewer.ScrollbarsVisible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

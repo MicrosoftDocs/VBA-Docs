@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Property (Word)
+title: Application.NewDocument property (Word)
 keywords: vbawd10.chm158335430
 f1_keywords:
 - vbawd10.chm158335430
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.NewDocument
 ms.assetid: 2f68f98e-1aad-eeac-59c7-4cd5f9d7ad6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.NewDocument Property (Word)
+# Application.NewDocument property (Word)
 
 Returns a  **NewFile** object that represents a document listed on the **New** tab.
 
 
 ## Syntax
 
- _expression_. `NewDocument`
+_expression_. `NewDocument`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -42,3 +43,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

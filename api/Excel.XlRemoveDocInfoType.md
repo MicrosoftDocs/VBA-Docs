@@ -1,14 +1,15 @@
 ---
-title: xlRemoveDocInfoType enumeration (Excel)
+title: XlRemoveDocInfoType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRemoveDocInfoType
 ms.assetid: b85c9eb6-8644-3866-b03c-08a46c1f70f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlRemoveDocInfoType enumeration (Excel)
+# XlRemoveDocInfoType enumeration (Excel)
 
 Specifies the type information to be removed from the document information.
 
@@ -30,10 +31,11 @@ Specifies the type information to be removed from the document information.
 | **xlRDIInkAnnotations**|11|Removes ink annotations from the document information.|
 | **xlRDIInlineWebExtensions**|21|Removes inline Web Extensions from the document information.|
 | **xlRDIPrinterPath**|20|Removes printer paths from the document information.|
-| **xlRDIPublishInfo**|13|Removes the pubish information data from the document information.|
+| **xlRDIPublishInfo**|13|Removes the publish information data from the document information.|
 | **xlRDIRemovePersonalInformation**|4|Removes personal information from the document information.|
 | **xlRDIRoutingSlip**|6|Removes routing slip information from the document information.|
 | **xlRDIScenarioComments**|12|Removes scenario comments from the document information.|
 | **xlRDISendForReview**|7|Removes the send for review information from the document information.|
 | **xlRDITaskpaneWebExtensions**|22|Removes task pane Web Extensions from the document information.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

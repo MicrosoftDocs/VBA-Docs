@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.EndCustomRecord Method (Word)
+title: UndoRecord.EndCustomRecord method (Word)
 keywords: vbawd10.chm56098818
 f1_keywords:
 - vbawd10.chm56098818
@@ -8,17 +8,18 @@ api_name:
 - Word.UndoRecord.EndCustomRecord
 ms.assetid: af11d231-f799-d592-2bc5-de08030b41e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UndoRecord.EndCustomRecord Method (Word)
+# UndoRecord.EndCustomRecord method (Word)
 
 Completes the creation of a custom undo record.
 
 
 ## Syntax
 
- _expression_. `EndCustomRecord`
+_expression_. `EndCustomRecord`
 
  _expression_ A variable that represents an '[UndoRecord](Word.UndoRecord.md)' object.
 
@@ -55,4 +56,4 @@ End Sub
 
 [Working with the UndoRecord Object](../word/Concepts/Working-with-Word/working-with-the-undorecord-object.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

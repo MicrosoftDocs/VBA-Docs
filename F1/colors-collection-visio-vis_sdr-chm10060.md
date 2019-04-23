@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cabfb3ae-9620-4b4b-8a4b-badcdc6069d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Colors Object (Visio)](http://msdn.microsoft.com/library/54ac5c47-5e6a-b1bf-6a5d-c5439a00438f.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.UserStatus
 ms.assetid: 0df24f8a-b60b-fd8c-3436-903652487a09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.UserStatus property (Excel)
 
-Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only  **Variant** .
+Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `UserStatus`
+_expression_. `UserStatus`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ End With
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListOutdent Method (Word)
+title: ListFormat.ListOutdent method (Word)
 keywords: vbawd10.chm163578066
 f1_keywords:
 - vbawd10.chm163578066
@@ -8,19 +8,20 @@ api_name:
 - Word.ListFormat.ListOutdent
 ms.assetid: f69834f5-ae8b-f67a-a5b5-131a7382b1c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ListOutdent Method (Word)
+# ListFormat.ListOutdent method (Word)
 
 Decreases the list level of the paragraphs in the range for the specified  **ListFormat** object, in increments of one level.
 
 
 ## Syntax
 
- _expression_. `ListOutdent`
+_expression_. `ListOutdent`
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Example
@@ -67,3 +68,4 @@ docActive.Paragraphs(4).Range.ListFormat.ListOutdent
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

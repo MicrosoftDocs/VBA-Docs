@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Xirr Method (Excel)
+title: WorksheetFunction.Xirr method (Excel)
 keywords: vbaxl10.chm137306
 f1_keywords:
 - vbaxl10.chm137306
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Xirr
 ms.assetid: ac3b11b1-501a-1585-5c60-6e82167522aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Xirr Method (Excel)
+# WorksheetFunction.Xirr method (Excel)
 
 Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic. To calculate the internal rate of return for a series of periodic cash flows, use the IRR function.
 
 
 ## Syntax
 
- _expression_. `Xirr`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Xirr`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -69,3 +70,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

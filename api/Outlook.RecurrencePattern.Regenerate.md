@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Regenerate Property (Outlook)
+title: RecurrencePattern.Regenerate property (Outlook)
 keywords: vbaol11.chm286
 f1_keywords:
 - vbaol11.chm286
@@ -8,26 +8,27 @@ api_name:
 - Outlook.RecurrencePattern.Regenerate
 ms.assetid: c1db398b-5f13-85e0-981d-795c8c7ac8ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Regenerate Property (Outlook)
+# RecurrencePattern.Regenerate property (Outlook)
 
 Returns a  **Boolean** that indicates **True** if the task should be regenerated following this pass through the recurrence pattern. Read/write.
 
 
 ## Syntax
 
- _expression_. `Regenerate`
+_expression_. `Regenerate`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks
 
 This property is used to control the regeneration of the task as each occurrence of a recurring task is completed. It is only valid for tasks. It is not valid for appointments.
 
-To create a recurrence pattern, you must first set the  **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to set the frequency, then set the **Regenerate** property to **True** to regenerate the task. After setting **Regenerate** to **True** , do not set it to **False** . If you subsequently set **Regenerate** to **False** , then you should set up the recurrence pattern again by getting a new **[RecurrencePattern](Outlook.RecurrencePattern.md)** object.
+To create a recurrence pattern, you must first set the  **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to set the frequency, then set the **Regenerate** property to **True** to regenerate the task. After setting **Regenerate** to **True**, do not set it to **False**. If you subsequently set **Regenerate** to **False**, then you should set up the recurrence pattern again by getting a new **[RecurrencePattern](Outlook.RecurrencePattern.md)** object.
 
 
 ## Example
@@ -69,3 +70,4 @@ End Sub
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultTextEncoding Property (Word)
+title: Options.DefaultTextEncoding property (Word)
 keywords: vbawd10.chm162988475
 f1_keywords:
 - vbawd10.chm162988475
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DefaultTextEncoding
 ms.assetid: 068f0ddd-efb4-9bb3-4544-79d390e87f59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultTextEncoding Property (Word)
+# Options.DefaultTextEncoding property (Word)
 
 Returns or sets an  **MsoEncoding** constant representing the code page, or character set, that Microsoft Word uses for all documents saved as encoded text files. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultTextEncoding`
+_expression_. `DefaultTextEncoding`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

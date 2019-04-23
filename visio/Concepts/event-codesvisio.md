@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: de8f5c7a-421d-ebcf-22b6-4310a202ef64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -129,3 +130,4 @@ When you are working with the  **[Add](../../api/Visio.EventList.Add.md)** or **
 | **[WindowChanged](../../api/Visio.Application.WindowChanged.md)**|visEvtMod+visEvtWindow|&H2001 (8193)|
 | **[WindowTurnedToPage](../../api/Visio.Application.WindowTurnedToPage.md)**|visEvtCodeWinPageTurn|&H02C0 (704)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

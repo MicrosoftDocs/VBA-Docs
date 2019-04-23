@@ -1,5 +1,5 @@
 ---
-title: Slide.SlideID Property (PowerPoint)
+title: Slide.SlideID property (PowerPoint)
 keywords: vbapp10.chm531009
 f1_keywords:
 - vbapp10.chm531009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.SlideID
 ms.assetid: 9d2d920c-a876-c71c-083f-ae8a3ad06c85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.SlideID Property (PowerPoint)
+# Slide.SlideID property (PowerPoint)
 
 Returns a unique ID number for the specified slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideID`
+_expression_. `SlideID`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -55,3 +56,4 @@ gslides.FindBySlideID(graphSlideID) _
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

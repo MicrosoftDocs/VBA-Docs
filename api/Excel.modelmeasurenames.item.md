@@ -1,37 +1,38 @@
 ---
-title: ModelMeasureNames.Item Method (Excel)
+title: ModelMeasureNames.Item method (Excel)
 keywords: vbaxl10.chm972074
 f1_keywords:
 - vbaxl10.chm972074
 ms.prod: excel
 ms.assetid: 812fbcc5-157c-d675-efc2-3df855e656e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ModelMeasureNames.Item Method (Excel)
+# ModelMeasureNames.Item method (Excel)
 
-Returns a single object from the [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object.
+Returns a single object from the **ModelMeasureNames** object.
 
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object.
+_expression_ A variable that represents a **[ModelMeasureNames](Excel.modelmeasurenames.md)** object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|VARIANT|The index number for the object.|
+| _Index_|Required|**Variant**|The index number for the object.|
 
 ## Return value
 
-A [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) object contained in the collection.
+A [ModelMeasureName](Excel.modelmeasurename.md) object contained in the collection.
 
 
 ## See also
@@ -40,3 +41,4 @@ A [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) object contained 
 
 [ModelMeasureNames Object](Excel.modelmeasurenames.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

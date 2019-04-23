@@ -1,5 +1,5 @@
 ---
-title: AddressRuleCondition Object (Outlook)
+title: AddressRuleCondition object (Outlook)
 keywords: vbaol11.chm3203
 f1_keywords:
 - vbaol11.chm3203
@@ -8,10 +8,11 @@ api_name:
 - Outlook.AddressRuleCondition
 ms.assetid: 8cf897ad-a8f9-67ea-c0fa-d7f4bb917bd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressRuleCondition Object (Outlook)
+# AddressRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates whether the address for the recipient or sender of the message is contained in the address specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 
@@ -27,7 +28,7 @@ For more information on specifying rule actions, see [Specifying Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Outlook.AddressRuleCondition.Address.md)|
 |[Application](Outlook.AddressRuleCondition.Application.md)|
@@ -40,4 +41,6 @@ For more information on specifying rule actions, see [Specifying Rule Conditions
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

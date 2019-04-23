@@ -1,5 +1,5 @@
 ---
-title: Plate.Index Property (Publisher)
+title: Plate.Index property (Publisher)
 keywords: vbapb10.chm2883589
 f1_keywords:
 - vbapb10.chm2883589
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Plate.Index
 ms.assetid: 7a16bd86-f0c4-d2df-832e-e9a55fed9068
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Plate.Index Property (Publisher)
+# Plate.Index property (Publisher)
 
 Returns a  **Long** that represents the position of a particular item in a specified collection. .
 
 
 ## Syntax
 
- _expression_. **Index**
+_expression_.**Index**
 
  _expression_ A variable that represents a  **Plate** object.
 
@@ -61,4 +62,4 @@ Else
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

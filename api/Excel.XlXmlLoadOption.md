@@ -1,14 +1,15 @@
 ---
-title: xlXmlLoadOption enumeration (Excel)
+title: XlXmlLoadOption enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXmlLoadOption
 ms.assetid: 1ab2eb99-e022-b394-059c-e72f85fec05a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlXmlLoadOption enumeration (Excel)
+# XlXmlLoadOption enumeration (Excel)
 
 Specifies how Excel opens the XML data file.
 
@@ -21,3 +22,4 @@ Specifies how Excel opens the XML data file.
 | **xlXmlLoadOpenXml**|1|Opens the XML data file. The contents of the file will be flattened.|
 | **xlXmlLoadPromptUser**|0|Prompts the user to choose how to open the file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

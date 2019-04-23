@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetRootItems Method (Outlook)
+title: Conversation.GetRootItems method (Outlook)
 keywords: vbaol11.chm3402
 f1_keywords:
 - vbaol11.chm3402
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.GetRootItems
 ms.assetid: 72c4d9fd-4f38-d081-7dc6-e9dbfad6d3aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.GetRootItems Method (Outlook)
+# Conversation.GetRootItems method (Outlook)
 
 Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all root items in the conversation.
 
 
 ## Syntax
 
- _expression_. `GetRootItems`
+_expression_. `GetRootItems`
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Return value
@@ -40,3 +41,4 @@ If all items are deleted from the conversation after the  **[Conversation](Outlo
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

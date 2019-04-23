@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields.Parent Property (Publisher)
+title: WebHiddenFields.Parent property (Publisher)
 keywords: vbapb10.chm3997698
 f1_keywords:
 - vbapb10.chm3997698
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebHiddenFields.Parent
 ms.assetid: a8e8912a-1023-fadf-abec-4aa62b0ea40f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebHiddenFields.Parent Property (Publisher)
+# WebHiddenFields.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **WebHiddenFields** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

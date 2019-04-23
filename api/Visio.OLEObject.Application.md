@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Application Property (Visio)
+title: OLEObject.Application property (Visio)
 keywords: vis_sdr.chm15213090
 f1_keywords:
 - vis_sdr.chm15213090
@@ -8,17 +8,18 @@ api_name:
 - Visio.OLEObject.Application
 ms.assetid: 402c270d-445d-a067-00cf-5f809eb23e01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEObject.Application Property (Visio)
+# OLEObject.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

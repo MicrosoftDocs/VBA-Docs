@@ -8,17 +8,18 @@ api_name:
 - Excel.DataLabel.ShowBubbleSize
 ms.assetid: e2768811-a45a-40cb-5327-64e3985095f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataLabel.ShowBubbleSize property (Excel)
 
- **True** to show the bubble size for the data labels on a chart. **False** to hide. Read/write **Boolean** .
+ **True** to show the bubble size for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowBubbleSize`
+_expression_. `ShowBubbleSize`
 
  _expression_ An expression that returns a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
@@ -49,3 +50,4 @@ End Sub
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Publish a Form
 ms.prod: outlook
 ms.assetid: 10d333e6-2588-ba6d-6909-ff377bb42851
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,4 +24,4 @@ ms.date: 06/08/2017
 
  **Note**  Publishing a form that has not been previously published will open the  **Publish Form As** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

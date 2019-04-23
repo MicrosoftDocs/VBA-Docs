@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 71aa0e9e-3482-7d60-2b35-08c583934270
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Not every [variable](../../Glossary/vbe-glossary.md#variable) that appears in a 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

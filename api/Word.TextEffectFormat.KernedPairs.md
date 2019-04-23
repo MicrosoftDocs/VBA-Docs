@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.KernedPairs Property (Word)
+title: TextEffectFormat.KernedPairs property (Word)
 keywords: vbawd10.chm164561001
 f1_keywords:
 - vbawd10.chm164561001
@@ -8,19 +8,20 @@ api_name:
 - Word.TextEffectFormat.KernedPairs
 ms.assetid: 555d152e-09ff-b151-46c6-9a14ab872a37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.KernedPairs Property (Word)
+# TextEffectFormat.KernedPairs property (Word)
 
-Indicates that character pairs in a WordArt object have been kerned. Read/write  **MsoTriState** .
+Indicates that character pairs in a WordArt object have been kerned. Read/write  **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `KernedPairs`
+_expression_. `KernedPairs`
 
- _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End Sub
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

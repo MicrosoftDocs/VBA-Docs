@@ -1,5 +1,5 @@
 ---
-title: Document.GetThemeNamesU Method (Visio)
+title: Document.GetThemeNamesU method (Visio)
 keywords: vis_sdr.chm10560080
 f1_keywords:
 - vis_sdr.chm10560080
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.GetThemeNamesU
 ms.assetid: 7a7280ae-10c9-9bc7-c121-29791e4df557
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.GetThemeNamesU Method (Visio)
+# Document.GetThemeNamesU method (Visio)
 
 Returns a locale-independent array of names of themes contained in the document.
 
 
 ## Syntax
 
- _expression_. `GetThemeNamesU`( `_eType_` , `_NameArray()_` )
+_expression_. `GetThemeNamesU`( `_eType_` , `_NameArray()_` )
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
@@ -43,12 +44,12 @@ For the  _eType_ parameter, pass a value from the **VisThemeTypes** enumeration,
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visThemeTypeColor**|1|Color themes.|
 | **visThemeTypeEffect**|2|Effect themes.|
 
-For the  _NameArray()_ out parameter, pass an empty, dimensionless array of type **String** . Visio returns the array filled with locale-independent names of themes contained in the document.
+For the  _NameArray()_ out parameter, pass an empty, dimensionless array of type **String**. Visio returns the array filled with locale-independent names of themes contained in the document.
 
 To get the names of locale-specific themes in the document, use the  **[Document.GetThemeNames](Visio.Document.GetThemeNames.md)** method.
 
@@ -89,4 +90,4 @@ Public Sub GetThemeNamesU_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

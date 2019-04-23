@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.EntireRow
 ms.assetid: 9e66da51-6cef-4109-ea4e-2acaad42aa1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the entire
 
 ## Syntax
 
- _expression_. `EntireRow`
+_expression_. `EntireRow`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -87,4 +88,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

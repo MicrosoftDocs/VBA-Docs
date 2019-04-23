@@ -1,5 +1,5 @@
 ---
-title: Selection.AddToGroup Method (Visio)
+title: Selection.AddToGroup method (Visio)
 keywords: vis_sdr.chm11116070
 f1_keywords:
 - vis_sdr.chm11116070
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.AddToGroup
 ms.assetid: 8bef7960-271c-245d-dec0-eeea4af66097
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.AddToGroup Method (Visio)
+# Selection.AddToGroup method (Visio)
 
 Adds the selected shapes to the selected group.
 
 
 ## Syntax
 
- _expression_. `AddToGroup`
+_expression_. `AddToGroup`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -67,4 +68,4 @@ Public Sub AddToGroup_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

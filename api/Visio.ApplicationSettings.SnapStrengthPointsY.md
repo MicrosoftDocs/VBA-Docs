@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthPointsY Property (Visio)
+title: ApplicationSettings.SnapStrengthPointsY property (Visio)
 keywords: vis_sdr.chm16251550
 f1_keywords:
 - vis_sdr.chm16251550
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.SnapStrengthPointsY
 ms.assetid: 7719694e-993a-2792-3f6f-3d697ef34790
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthPointsY Property (Visio)
+# ApplicationSettings.SnapStrengthPointsY property (Visio)
 
 Specifies the distance in pixels along the y-axis that points pull when snapping is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapStrengthPointsY`
+_expression_. `SnapStrengthPointsY`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -54,4 +55,4 @@ Public Sub SnapStrengthPointsY_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

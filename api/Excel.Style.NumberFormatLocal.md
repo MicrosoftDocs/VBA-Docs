@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.NumberFormatLocal
 ms.assetid: 3635d267-ecee-a5e9-f3e8-b4156f91d5d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the format code for the obje
 
 ## Syntax
 
- _expression_. `NumberFormatLocal`
+_expression_.**NumberFormatLocal**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **Format** function uses different format code strings than do the **[Numbe
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,25 +7,26 @@ ms.prod: access
 api_name:
 - Access.CodeProject.FileFormat
 ms.assetid: f72e13d7-58dc-3710-b1e7-798a71601ceb
-ms.date: 06/08/2017
+ms.date: 02/27/2019
+localization_priority: Normal
 ---
 
 
 # CodeProject.FileFormat property (Access)
 
-Returns an  **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
+Returns an **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
 
 
 ## Syntax
 
-_expression_. `FileFormat`
+_expression_.**FileFormat**
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks
 
-Use the  **ConvertAccessProject** method to convert an Access project from one version to another.
+Use the **ConvertAccessProject** method to convert an Access project from one version to another.
 
 
 ## Example
@@ -55,8 +56,6 @@ MsgBox "This is a " & strFormat & " project."
 ```
 
 
-## See also
 
 
-[CodeProject Object](Access.CodeProject.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

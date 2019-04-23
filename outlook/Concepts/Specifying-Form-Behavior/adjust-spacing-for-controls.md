@@ -3,6 +3,7 @@ title: Adjust Spacing for Controls
 ms.prod: outlook
 ms.assetid: 20ce8e5a-19ce-118d-e9c8-b4b2c822cff3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ ms.date: 06/08/2017
 | **Decrease**|Decrease the space between controls by one grid block.|
 | **Remove**|Remove the space between controls. The controls do not overlap, but are immediately adjacent to each other.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

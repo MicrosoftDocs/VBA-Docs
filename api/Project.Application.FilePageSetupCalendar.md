@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupCalendar Method (Project)
+title: Application.FilePageSetupCalendar method (Project)
 keywords: vbapj.chm2361
 f1_keywords:
 - vbapj.chm2361
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupCalendar
 ms.assetid: 50f4ab0a-ffb4-2bff-44af-82b674de7c4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupCalendar Method (Project)
+# Application.FilePageSetupCalendar method (Project)
 
 Sets up the Calendar for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupCalendar`( ` _Name_`, ` _MonthsPerPage_`, ` _WeeksPerPage_`, ` _ScreenWeekHeight_`, ` _OnlyDaysInMonth_`, ` _OnlyWeeksInMonth_`, ` _MonthPreviews_`, ` _MonthTitle_`, ` _AdditionalTasks_`, ` _GroupAdditionalTasks_`, ` _PrintNotes_` )
+_expression_. `FilePageSetupCalendar`( `_Name_`, `_MonthsPerPage_`, `_WeeksPerPage_`, `_ScreenWeekHeight_`, `_OnlyDaysInMonth_`, `_OnlyWeeksInMonth_`, `_MonthPreviews_`, `_MonthTitle_`, `_AdditionalTasks_`, `_GroupAdditionalTasks_`, `_PrintNotes_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -53,16 +54,16 @@ Using the  **FilePageSetupCalendar** method without specifying any arguments dis
 
 ## Example
 
-The following example sets up the calandar for printing with 2 months per page and with preview calendars for the previous and next months.
+The following example sets up the calendar for printing with 2 months per page and with preview calendars for the previous and next months.
 
 
 ```vb
 Sub File_PageSetupCalendar() 
  
- 'Activate Calandar view 
+ 'Activate Calendar view 
  ViewApply Name:="&Calendar" 
  FilePageSetupCalendar MonthsPerPage:=2, OnlyDaysInMonth:=False, MonthPreviews:=True 
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

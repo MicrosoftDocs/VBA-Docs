@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.OutlineLevel
 ms.assetid: bdab08a4-3576-4a65-2556-43ed9e9a576e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.OutlineLevel property (Excel)
 
-Returns or sets the current outline level of the specified row or column. Read/write  **Variant** .
+Returns or sets the current outline level of the specified row or column. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `OutlineLevel`
+_expression_. `OutlineLevel`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Rows(2).OutlineLevel = 1
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

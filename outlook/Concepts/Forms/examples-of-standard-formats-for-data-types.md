@@ -3,6 +3,7 @@ title: Examples of Standard Formats for Data Types
 ms.prod: outlook
 ms.assetid: 89896082-194c-5532-6ebd-afb445390bb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,4 +38,4 @@ You can format fields that you create with different formats based on the data t
 
  **Note**  Values entered in a field of a  **Duration** data type with a regular format assume a 24-hour day.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

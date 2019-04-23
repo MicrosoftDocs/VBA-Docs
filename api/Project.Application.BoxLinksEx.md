@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLinksEx Method (Project)
+title: Application.BoxLinksEx method (Project)
 keywords: vbapj.chm2158
 f1_keywords:
 - vbapj.chm2158
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxLinksEx
 ms.assetid: f6292e01-3f4a-3b83-e86c-2316c83b2509
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxLinksEx Method (Project)
+# Application.BoxLinksEx method (Project)
 
 Specifies the appearance of link lines in the active Network Diagram view, where colors can be hexadecimal values.
 
 
 ## Syntax
 
- _expression_. `BoxLinksEx`( ` _Style_`, ` _ShowArrows_`, ` _ShowLabels_`, ` _ColorMode_`, ` _CriticalColor_`, ` _NoncriticalColor_` )
+_expression_. `BoxLinksEx`( `_Style_`, `_ShowArrows_`, `_ShowLabels_`, `_ColorMode_`, `_CriticalColor_`, `_NoncriticalColor_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -64,4 +65,4 @@ End Sub
 
  **Note**  If you use any of the **PjColor** enumeration constants for the _CriticalColor_ or _NoncriticalColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLinksEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the [BoxLinks](Project.Application.BoxLinks.md) method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Application.CommandBars Property (Project)
+title: Application.CommandBars property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.CommandBars
 ms.assetid: 80f57057-9bb3-018b-0e45-fd1423368091
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CommandBars Property (Project)
+# Application.CommandBars property (Project)
 
 Gets a  **CommandBars** collection that represents all the command bars in the application. Read-only **CommandBars**.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Sub RemoveCommandBars()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

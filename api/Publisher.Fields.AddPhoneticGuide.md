@@ -1,5 +1,5 @@
 ---
-title: Fields.AddPhoneticGuide Method (Publisher)
+title: Fields.AddPhoneticGuide method (Publisher)
 keywords: vbapb10.chm6029320
 f1_keywords:
 - vbapb10.chm6029320
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Fields.AddPhoneticGuide
 ms.assetid: 9b64e505-3aa7-040f-f791-f2dbeaf6860e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields.AddPhoneticGuide Method (Publisher)
+# Fields.AddPhoneticGuide method (Publisher)
 
 Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text added to the specified range.
 
 
 ## Syntax
 
- _expression_. **AddPhoneticGuide**(**_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
+_expression_.**AddPhoneticGuide**(**_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
 
  _expression_ A variable that represents a  **Fields** object.
 
@@ -47,7 +48,7 @@ The Alignment parameter can be one of the  **PbPhoneticGuideAlignmentType** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbPhoneticGuideAlignmentCenter**|Centers phonetic text over the specified range.|
 | **pbPhoneticGuideAlignmentDefault**|Centers phonetic text over the specified range. The default.|
@@ -70,4 +71,4 @@ Sub PhoneticGuide()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

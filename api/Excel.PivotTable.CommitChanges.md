@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CommitChanges Method (Excel)
+title: PivotTable.CommitChanges method (Excel)
 keywords: vbaxl10.chm235192
 f1_keywords:
 - vbaxl10.chm235192
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.CommitChanges
 ms.assetid: f64031c6-8309-7c8a-5786-949d2ec10dea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.CommitChanges Method (Excel)
+# PivotTable.CommitChanges method (Excel)
 
 Performs a commit operation on the data source of a PivotTable report based on an OLAP data source.
 
 
 ## Syntax
 
- _expression_. `CommitChanges`
+_expression_. `CommitChanges`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **CommitChanges** method sends a **COMMIT TRANSACTION** statement to the OL
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ExchangeUser.GetMemberOfList Method (Outlook)
+title: ExchangeUser.GetMemberOfList method (Outlook)
 keywords: vbaol11.chm2084
 f1_keywords:
 - vbaol11.chm2084
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ExchangeUser.GetMemberOfList
 ms.assetid: 1f4e8910-8998-85ab-05dc-d06f6fd323c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeUser.GetMemberOfList Method (Outlook)
+# ExchangeUser.GetMemberOfList method (Outlook)
 
 Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains the **[AddressEntry](Outlook.AddressEntry.md)** objects representing all the Exchange distribution lists to which the user belongs.
 
 
 ## Syntax
 
- _expression_. `GetMemberOfList`
+_expression_. `GetMemberOfList`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 
 
 ## Return value
@@ -82,3 +83,4 @@ End Sub
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

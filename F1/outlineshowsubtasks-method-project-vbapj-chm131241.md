@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a2b8c15d-5249-4926-a07f-d9ccdd058082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.OutlineHideSubTasks Method (Project)](http://msdn.microsoft.com/library/877e8248-3e3f-1816-0799-52fb5cda1d60%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

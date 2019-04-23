@@ -1,5 +1,5 @@
 ---
-title: PbFileFormat Enumeration (Publisher)
+title: PbFileFormat enumeration (Publisher)
 keywords: vbapb10.chm65537
 f1_keywords:
 - vbapb10.chm65537
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbFileFormat
 ms.assetid: e140e360-bedf-b49a-29ef-f8cae4bcf4e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbFileFormat Enumeration (Publisher)
+# PbFileFormat enumeration (Publisher)
 
 Constants that indicate the file format of the specified document.
 
@@ -28,3 +29,4 @@ Constants that indicate the file format of the specified document.
 | **pbFileUnicodeText**|9|The file was saved in Unicode Text Format.|
 | **pbFileWebArchive**|5|The file was saved in the MHTML format that allows users to save a Web page and all its related files as a single file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Hyperlink.TextToDisplay
 ms.assetid: 61417274-e124-be4c-1b80-9d4600021326
-ms.date: 06/08/2017
+ms.date: 03/20/2019
+localization_priority: Normal
 ---
 
 
 # Hyperlink.TextToDisplay property (Access)
 
-You can use the  **TextToDisplay** property to specify or determine the display text for a hyperlink. Read/write **String**.
+You can use the **TextToDisplay** property to specify or determine the display text for a hyperlink. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `TextToDisplay`
+_expression_.**TextToDisplay**
 
-_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** object.
 
 
 ## Example
 
-The following example displays the words "Go to Home page" as an active hyperlink in the label named "Label20" on the "Suppliers" form. Clicking the hyperlink takes the user to the address specified in the label's  **HyperlinkAddress** property.
-
+The following example displays the words "Go to Home page" as an active hyperlink in the label named Label20 on the **Suppliers** form. Choosing the hyperlink takes the user to the address specified in the label's **HyperlinkAddress** property.
 
 ```vb
 Forms.Item("Suppliers").Controls.Item("Label20").Hyperlink. _ 
@@ -34,8 +34,5 @@ Forms.Item("Suppliers").Controls.Item("Label20").Hyperlink. _
 ```
 
 
-## See also
 
-
-[Hyperlink Object](Access.Hyperlink.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

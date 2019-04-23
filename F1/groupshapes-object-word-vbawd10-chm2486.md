@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4cb21fde-1b82-4f4f-af4a-a59be9716c03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,8 +14,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[GroupShapes Object (Word)](http://msdn.microsoft.com/library/de29d571-476b-fa8b-619e-f7d0181d9756%28Office.15%29.aspx)
+[GroupShapes object (Word)](http://msdn.microsoft.com/library/de29d571-476b-fa8b-619e-f7d0181d9756%28Office.15%29.aspx)
 
-[GroupShapes Object (Word)05209eb0-41b6-cdc5-edde-fd3b0112af59](http://msdn.microsoft.com/library/05209eb0-41b6-cdc5-edde-fd3b0112af59%28Office.15%29.aspx)
+[GroupShapes object (Word)05209eb0-41b6-cdc5-edde-fd3b0112af59](http://msdn.microsoft.com/library/05209eb0-41b6-cdc5-edde-fd3b0112af59%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

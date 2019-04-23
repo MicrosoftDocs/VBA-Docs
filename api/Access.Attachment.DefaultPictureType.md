@@ -7,36 +7,33 @@ ms.prod: access
 api_name:
 - Access.Attachment.DefaultPictureType
 ms.assetid: 77032908-5b98-7072-1e53-520485580746
-ms.date: 06/08/2017
+ms.date: 02/07/2019
+localization_priority: Normal
 ---
 
 
 # Attachment.DefaultPictureType property (Access)
 
-Gets or sets the method used to store the image specified by the  **[DefaultPicture](Access.Attachment.DefaultPicture.md)** property in the database. Read/write **Byte**.
+Gets or sets the method used to store the image specified by the **[DefaultPicture](Access.Attachment.DefaultPicture.md)** property in the database. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `DefaultPictureType`
+_expression_.**DefaultPictureType**
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **DefaultPictureType** property uses the following settings.
+The **DefaultPictureType** property uses the following settings.
 
-
-
-|**Setting**|**Value**|**Meaning**|
+|Setting|Value|Meaning|
 |:-----|:-----|:-----|
-|Embedded (Default)|0|The image is embedded with the specified  **Attachment** control.|
+|Embedded (Default)|0|The image is embedded with the specified **Attachment** control.|
 |Linked|1|The image is stored outside of the database.|
-|Shared|2|The image is added to the  **[SharedResources](Access.SharedResources.md)** collection.|
-
-## See also
+|Shared|2|The image is added to the **[SharedResources](Access.SharedResources.md)** collection.|
 
 
-[Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

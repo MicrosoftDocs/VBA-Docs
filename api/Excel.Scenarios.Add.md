@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Add Method (Excel)
+title: Scenarios.Add method (Excel)
 keywords: vbaxl10.chm362073
 f1_keywords:
 - vbaxl10.chm362073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Scenarios.Add
 ms.assetid: 0f76a5fd-82f1-7fa0-34f7-733b0e964666
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Scenarios.Add Method (Excel)
+# Scenarios.Add method (Excel)
 
 Creates a new scenario and adds it to the list of scenarios that are available for the current worksheet.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_ChangingCells_` , `_Values_` , `_Comment_` , `_Locked_` , `_Hidden_` )
+_expression_.**Add**( `_Name_` , `_ChangingCells_` , `_Values_` , `_Comment_` , `_Locked_` , `_Hidden_` )
 
- _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
+_expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ## Parameters
@@ -33,8 +34,8 @@ Creates a new scenario and adds it to the list of scenarios that are available f
 | _ChangingCells_|Required| **Variant**|A  **[Range](Excel.Range(object).md)** object that refers to the changing cells for the scenario.|
 | _Values_|Optional| **Variant**|An array that contains the scenario values for the cells in  _ChangingCells_. If this argument is omitted, the scenario values are assumed to be the current values in the cells in _ChangingCells_.|
 | _Comment_|Optional| **Variant**|A string that specifies comment text for the scenario. When a new scenario is added, the author's name and date are automatically added at the beginning of the comment text.|
-| _Locked_|Optional| **Variant**| **True** to lock the scenario to prevent changes. The default value is **True** .|
-| _Hidden_|Optional| **Variant**| **True** to hide the scenario. The default value is **False** .|
+| _Locked_|Optional| **Variant**| **True** to lock the scenario to prevent changes. The default value is **True**.|
+| _Hidden_|Optional| **Variant**| **True** to hide the scenario. The default value is **False**.|
 
 ## Return value
 
@@ -64,3 +65,4 @@ Worksheets("Sheet1").Scenarios.Add Name:="Best Case", _
 
 [Scenarios Object](Excel.Scenarios.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

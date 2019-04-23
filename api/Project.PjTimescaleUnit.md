@@ -1,14 +1,15 @@
 ---
-title: PjTimescaleUnit Enumeration (Project)
+title: PjTimescaleUnit enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTimescaleUnit
 ms.assetid: 17323cf1-2889-b641-1011-26f115eb0d2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTimescaleUnit Enumeration (Project)
+# PjTimescaleUnit enumeration (Project)
 
 Contains constants that specify the unit of time for any tier of a timescale in a Gantt chart or other timephased view. 
 
@@ -27,3 +28,4 @@ Contains constants that specify the unit of time for any tier of a timescale in 
 |**pjTimescaleWeeks**|3|Weeks.|
 |**pjTimescaleYears**|0|Years.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

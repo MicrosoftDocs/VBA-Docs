@@ -1,5 +1,5 @@
 ---
-title: KeyBindings.Key Method (Word)
+title: KeyBindings.Key method (Word)
 keywords: vbawd10.chm160825454
 f1_keywords:
 - vbawd10.chm160825454
@@ -8,17 +8,18 @@ api_name:
 - Word.KeyBindings.Key
 ms.assetid: 0e20a18e-7812-8d99-3c4d-4d3e9e661d16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBindings.Key Method (Word)
+# KeyBindings.Key method (Word)
 
 Returns a  **KeyBinding** object that represents the specified custom key combination.
 
 
 ## Syntax
 
- _expression_. `Key`( `_KeyCode_` , `_KeyCode2_` )
+_expression_. `Key`( `_KeyCode_` , `_KeyCode2_` )
 
  _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
@@ -39,7 +40,7 @@ KeyBinding
 
 ## Remarks
 
-If the key combination doesn't exist, this method returns  **Nothing** .
+If the key combination doesn't exist, this method returns  **Nothing**.
 
 You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
@@ -93,3 +94,4 @@ If (kbTemp Is Nothing) Then MsgBox _
 
 [KeyBindings Collection Object](Word.keybindings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

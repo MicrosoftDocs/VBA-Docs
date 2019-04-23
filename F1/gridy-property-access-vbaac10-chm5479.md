@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c1ca4524-9989-4d27-8dfe-0e336e1c7f66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.GridY property (Access)](http://msdn.microsoft.com/library/d767e7de-e3eb-0523-8782-26770f22a013%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

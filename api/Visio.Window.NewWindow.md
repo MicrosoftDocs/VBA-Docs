@@ -1,5 +1,5 @@
 ---
-title: Window.NewWindow Method (Visio)
+title: Window.NewWindow method (Visio)
 keywords: vis_sdr.chm11651350
 f1_keywords:
 - vis_sdr.chm11651350
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.NewWindow
 ms.assetid: 0cca00d4-9cf4-6a30-b9f2-a37fbad69296
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.NewWindow Method (Visio)
+# Window.NewWindow method (Visio)
 
 Opens a new Microsoft Visio window.
 
 
 ## Syntax
 
- _expression_. `NewWindow`
+_expression_. `NewWindow`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -39,4 +40,4 @@ The  **NewWindow** method opens a new window of the same type as the instance of
 
  **Note**  The  **NewWindow** method is not available for the Microsoft Visio Drawing Control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

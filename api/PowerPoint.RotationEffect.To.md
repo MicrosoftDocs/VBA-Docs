@@ -1,5 +1,5 @@
 ---
-title: RotationEffect.To Property (PowerPoint)
+title: RotationEffect.To property (PowerPoint)
 keywords: vbapp10.chm661005
 f1_keywords:
 - vbapp10.chm661005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RotationEffect.To
 ms.assetid: 9630d2d6-818c-d86b-dbd7-54b3b2b13ad2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RotationEffect.To Property (PowerPoint)
+# RotationEffect.To property (PowerPoint)
 
 Sets or returns a  **Single** that represents the ending rotation of an object in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
 
 
 ## Syntax
 
- _expression_. `To`
+_expression_. `To`
 
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
@@ -69,3 +70,4 @@ End Sub
 
 [RotationEffect Object](PowerPoint.RotationEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

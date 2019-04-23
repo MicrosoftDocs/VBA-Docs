@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 0b201674-66b4-38e2-fb67-74f6c56d447b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -44,4 +45,4 @@ The details pane shows the definition of the selected member. This text is read-
 
  **Note**  The  **Insert** button remains unavailable until a member of the object is selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

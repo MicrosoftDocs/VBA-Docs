@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearContents Method (PowerPoint)
+title: ChartArea.ClearContents method (PowerPoint)
 keywords: vbapp10.chm65649
 f1_keywords:
 - vbapp10.chm65649
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ChartArea.ClearContents
 ms.assetid: 7cb3e9a9-e808-ed80-c55e-de422d19d9e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartArea.ClearContents Method (PowerPoint)
+# ChartArea.ClearContents method (PowerPoint)
 
 Clears the data from a chart but leaves the formatting.
 
 
 ## Syntax
 
- _expression_. `ClearContents`
+_expression_. `ClearContents`
 
- _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 
 
 ## Example
@@ -53,3 +54,4 @@ End With
 
 [ChartArea Object](PowerPoint.ChartArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

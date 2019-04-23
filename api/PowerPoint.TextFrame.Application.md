@@ -1,21 +1,22 @@
 ---
-title: TextFrame.Application Property (PowerPoint)
+title: TextFrame.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.Application
 ms.assetid: 18ee8f34-836e-0e56-7187-aa32be937036
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Application Property (PowerPoint)
+# TextFrame.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [TextFrame Object](PowerPoint.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Creator Property (Word)
+title: ChartTitle.Creator property (Word)
 keywords: vbawd10.chm65274005
 f1_keywords:
 - vbawd10.chm65274005
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartTitle.Creator
 ms.assetid: ff16dcb5-faac-edc7-21a2-631dd09cb12f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle.Creator Property (Word)
+# ChartTitle.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartTitle Object](Word.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

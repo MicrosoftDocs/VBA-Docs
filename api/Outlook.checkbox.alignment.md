@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: cbbb3e9e-7317-c934-8dd4-72627be82cd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that indicates the position of a control relativ
 
 ## Syntax
 
- _expression_. **Alignment**
+_expression_.**Alignment**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ The possible values of  **Alignment** is 0 or 1. A value of 0 places the caption
 
 The caption text for a control is left-aligned.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

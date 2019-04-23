@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 80b33869-c3a3-9f3f-57e4-076b81b31a66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,6 +19,5 @@ The [property](../../Glossary/vbe-glossary.md#property) is only available at [de
 - You tried to read a property at [run time](../../Glossary/vbe-glossary.md#run-time) that is only accessible at design time.
     
     Change your code and remove the reference to the property.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

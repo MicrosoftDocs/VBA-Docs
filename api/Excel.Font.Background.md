@@ -8,19 +8,20 @@ api_name:
 - Excel.Font.Background
 ms.assetid: af7407c4-655a-5db7-abb2-6932675971d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.Background property (Excel)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** which is set to one of the constants of **[XlBackground](Excel.XlBackground.md)** .
+Returns or sets the type of background for text used in charts. Read/write  **Variant** which is set to one of the constants of **[XlBackground](Excel.XlBackground.md)**.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Remarks
@@ -29,10 +30,10 @@ Returns or sets the type of background for text used in charts. Read/write  **Va
 
 
 
-|**XlBackground can be one of the following constants**|**Description of text background**|
+|**xlBackground can be one of the following constants**|**Description of text background**|
 |:-----|:-----|
 | **xlBackgroundAutomatic**|Font background will automatically change the background area around the text to a color that best displays the chart text on the color applied to elements under the text|
-| **xlBackgroundOpaque**|Font background will set the font bacground to black if the text color and fill color underneath the text are very close or the same color, such that the text would not appear|
+| **xlBackgroundOpaque**|Font background will set the font background to black if the text color and fill color underneath the text are very close or the same color, such that the text would not appear|
 | **xlBackgroundTransparent**|Font background is set to transparent so that text background does not change if the text color is close to the color underneath the text|
 
 ## Example
@@ -61,3 +62,4 @@ End Sub
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: ConnectionEvents (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: f69253dc-5997-8e2c-fdce-2aa76f841f98
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -57,3 +58,5 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentBeforeClose Event (Word)
+title: Application.DocumentBeforeClose event (Word)
 keywords: vbawd10.chm400005
 f1_keywords:
 - vbawd10.chm400005
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.DocumentBeforeClose
 ms.assetid: 91c89b29-3110-85d7-c141-d1add3bb57f1
 ms.date: 08/20/2018
+localization_priority: Normal
 ---
 
 
-# Application.DocumentBeforeClose Event (Word)
+# Application.DocumentBeforeClose event (Word)
 
 Occurs immediately before any open document closes.
 
@@ -60,4 +61,4 @@ Private Sub appWord_DocumentBeforeClose _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.Dial Method (Outlook)
+title: NameSpace.Dial method (Outlook)
 keywords: vbaol11.chm774
 f1_keywords:
 - vbaol11.chm774
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.Dial
 ms.assetid: 1fd29ed8-e983-c668-c48f-f642c56bfcd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.Dial Method (Outlook)
+# NameSpace.Dial method (Outlook)
 
 Displays the  **New Call** dialog box that allows users to dial the primary phone number of a specified contact.
 
 
 ## Syntax
 
- _expression_. `Dial`( `_ContactItem_` )
+_expression_. `Dial`( `_ContactItem_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

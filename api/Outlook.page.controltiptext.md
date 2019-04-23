@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 11412cc8-7e62-1382-de69-905d5d75d419
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns and sets a  **String** that specifies text that appears when the user br
 
 ## Syntax
 
- _expression_. **ControlTipText**
+_expression_.**ControlTipText**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ The  **ControlTipText** property lets you give users tips about a control in a r
 
 The default value of  **ControlTipText** is an empty string. When the value of **ControlTipText** is set to an empty string, no tip is available for that control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

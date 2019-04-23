@@ -3,6 +3,7 @@ title: TabStrip Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d102c521-da63-4c8a-bfd6-83b3d2e2d9d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Presents a set of related controls as a visual group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.tabstrip.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [ClientHeight](Outlook.tabstrip.clientheight.md)|Returns a  **Single** value that represents the height dimension of the display area of a [TabStrip](Outlook.tabstrip.md). Read-only.|
@@ -40,9 +41,8 @@ Presents a set of related controls as a visual group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.tabstrip.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

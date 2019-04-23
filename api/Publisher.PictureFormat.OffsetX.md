@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetX Property (Publisher)
+title: ShadowFormat.OffsetX property (Publisher)
 keywords: vbapb10.chm3670274
 f1_keywords:
 - vbapb10.chm3670274
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.OffsetX
 ms.assetid: 2b34ace8-5c3b-002b-df96-43c8aef2fbd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetX Property (Publisher)
+# ShadowFormat.OffsetX property (Publisher)
 
 Returns or sets a  **Variant** value indicating the vertical offset of the shadow from the specified shape. A positive value offsets the shadow below the shape; a negative value offsets it above the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **OffsetX**
+_expression_.**OffsetX**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 
@@ -48,4 +49,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

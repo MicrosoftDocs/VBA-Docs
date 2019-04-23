@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.ObjectType Property (Visio)
+title: MasterShortcuts.ObjectType property (Visio)
 keywords: vis_sdr.chm15913960
 f1_keywords:
 - vis_sdr.chm15913960
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcuts.ObjectType
 ms.assetid: 7c99a072-d637-a724-4d0e-a070df90c1ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcuts.ObjectType Property (Visio)
+# MasterShortcuts.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

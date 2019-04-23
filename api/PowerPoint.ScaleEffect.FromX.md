@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.FromX Property (PowerPoint)
+title: ScaleEffect.FromX property (PowerPoint)
 keywords: vbapp10.chm660005
 f1_keywords:
 - vbapp10.chm660005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ScaleEffect.FromX
 ms.assetid: 2533c987-5321-177f-946d-ee5be5122b16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScaleEffect.FromX Property (PowerPoint)
+# ScaleEffect.FromX property (PowerPoint)
 
 Sets or returns a  **Single** that represents the starting width or horizontal position of a **[ScaleEffect](PowerPoint.ScaleEffect.md)** object, specified as a percent of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `FromX`
+_expression_. `FromX`
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 
@@ -76,3 +77,4 @@ End Sub
 
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

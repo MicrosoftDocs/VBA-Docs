@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ClassID Property (Visio)
+title: OLEObject.ClassID property (Visio)
 keywords: vis_sdr.chm15213240
 f1_keywords:
 - vis_sdr.chm15213240
@@ -8,17 +8,18 @@ api_name:
 - Visio.OLEObject.ClassID
 ms.assetid: 9241135d-6c02-046b-02b4-f8d4b308878d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEObject.ClassID Property (Visio)
+# OLEObject.ClassID property (Visio)
 
 Returns the class ID string of a shape that represents an ActiveX control or an embedded or linked OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ClassID`
+_expression_. `ClassID`
 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 
@@ -30,7 +31,7 @@ String
 
 ## Remarks
 
-The  **ClassID** property raises an exception if the shape doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&H8000) is set in the value returned by **Shape** . **ForeignType** .
+The  **ClassID** property raises an exception if the shape doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&H8000) is set in the value returned by **Shape**. **ForeignType**.
 
  **ClassID** returns a string of the form:
 
@@ -69,4 +70,4 @@ Public Sub ClassID_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Extend Method (Word)
+title: SeriesCollection.Extend method (Word)
 keywords: vbawd10.chm150405347
 f1_keywords:
 - vbawd10.chm150405347
@@ -8,17 +8,18 @@ api_name:
 - Word.SeriesCollection.Extend
 ms.assetid: 6358fc57-394c-4982-c9b4-8ed2b256f5ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection.Extend Method (Word)
+# SeriesCollection.Extend method (Word)
 
 Adds new data points to an existing series collection.
 
 
 ## Syntax
 
- _expression_. `Extend`( `_Source_` , `_Rowcol_` , `_CategoryLabels_` )
+_expression_. `Extend`( `_Source_` , `_Rowcol_` , `_CategoryLabels_` )
 
  _expression_ A variable that represents a '[SeriesCollection](Word.SeriesCollection.md)' object.
 
@@ -58,3 +59,4 @@ End With
 
 [SeriesCollection Object](Word.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

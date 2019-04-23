@@ -3,6 +3,7 @@ title: Functions (category list)
 ms.prod: access
 ms.assetid: f6095ed0-465d-6447-321f-4bc1c7c543c5
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -253,3 +254,5 @@ The following list contains topics that describe common functions used in Access
 - [StrReverse function](../../../language/reference/User-Interface-Help/strreverse-function.md)
 - [Trim function](../../../language/reference/User-Interface-Help/ltrim-rtrim-and-trim-functions.md)
 - [UCase function](../../../language/reference/User-Interface-Help/ucase-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TogglePortrait Method (Word)
+title: PageSetup.TogglePortrait method (Word)
 keywords: vbawd10.chm158400713
 f1_keywords:
 - vbawd10.chm158400713
@@ -8,19 +8,20 @@ api_name:
 - Word.PageSetup.TogglePortrait
 ms.assetid: 184fe44c-deb5-3183-742e-88f0c990e62a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.TogglePortrait Method (Word)
+# PageSetup.TogglePortrait method (Word)
 
 Switches between portrait and landscape page orientations for a document or section.
 
 
 ## Syntax
 
- _expression_. `TogglePortrait`
+_expression_. `TogglePortrait`
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ Selection.PageSetup.TogglePortrait
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

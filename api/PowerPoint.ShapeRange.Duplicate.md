@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Duplicate Method (PowerPoint)
+title: ShapeRange.Duplicate method (PowerPoint)
 keywords: vbapp10.chm548053
 f1_keywords:
 - vbapp10.chm548053
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Duplicate
 ms.assetid: da7e1e45-480d-313d-1d12-65ee5bf26d86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Duplicate Method (PowerPoint)
+# ShapeRange.Duplicate method (PowerPoint)
 
 Creates a duplicate of the specified  **ShapeRange** object, adds the range of shapes to the **Shapes** collection, and then returns the new **ShapeRange** object. The duplicated objects are placed at the end of the **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -51,3 +52,4 @@ End With
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

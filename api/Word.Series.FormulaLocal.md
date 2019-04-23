@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaLocal Property (Word)
+title: Series.FormulaLocal property (Word)
 keywords: vbawd10.chm123732231
 f1_keywords:
 - vbawd10.chm123732231
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.FormulaLocal
 ms.assetid: 45d948ca-8519-1941-9dea-6a5e9fe42819
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.FormulaLocal Property (Word)
+# Series.FormulaLocal property (Word)
 
-Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
+Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

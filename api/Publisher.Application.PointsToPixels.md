@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToPixels Method (Publisher)
+title: Application.PointsToPixels method (Publisher)
 keywords: vbapb10.chm131161
 f1_keywords:
 - vbapb10.chm131161
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.PointsToPixels
 ms.assetid: 9c67fcae-6c93-ddae-cbad-75356e5c5084
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PointsToPixels Method (Publisher)
+# Application.PointsToPixels method (Publisher)
 
 Converts a measurement from points to pixels (1 pixel = 0.75 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PointsToPixels**(**_Value_**)
+_expression_.**PointsToPixels**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -76,3 +77,4 @@ Loop
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

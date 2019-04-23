@@ -1,21 +1,22 @@
 ---
-title: DrawingControl.KeyUp Event (Visio)
+title: DrawingControl.KeyUp event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyUp
 ms.assetid: 7b157acb-fc8d-5b31-d53c-0b319270a2b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl.KeyUp Event (Visio)
+# DrawingControl.KeyUp event (Visio)
 
 Occurs when a keyboard key is released.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal CancelDefault As Boolean_**)
+Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal CancelDefault As Boolean_**)
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
@@ -28,7 +29,7 @@ Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_** , **_ByVal KeyBut
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required| **Long**|The key that was released. See Remarks for possible values.|
 | _KeyButtonState_|Required| **Long**|The state of the SHIFT and CTRL keys for the event. See Remarks for possible values.|
-| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True** .|
+| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
 
 ## Remarks
 
@@ -46,9 +47,9 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 | **visMouseMiddle **|16|
 | **visMouseRight **|2|
 
-If you set  _CancelDefault_ to **True** , Visio will not process the message received when the mouse button is clicked.
+If you set  _CancelDefault_ to **True**, Visio will not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events,  **KeyUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events,  **KeyUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp**, either by setting _CancelDefault_ to **True**, or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 If you are using Microsoft Visual Basic or VBA, the syntax in this topic describes a common, efficient way to handle events.
 
@@ -57,9 +58,9 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 ## Example
 
-This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown** , **KeyPress** , and **KeyUp** events.
+This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **KeyboardListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it  **KeyboardListener**, and insert the following code in the module.
 
 
 
@@ -123,4 +124,4 @@ End Sub
 
 Save the document to initialize the class, press any key, and then release it to fire a  **KeyUp** event. In the Immediate window, the handler prints the code of the key that was released to fire the event and the state of the SHIFT and CTRL keys at the time the event fired.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

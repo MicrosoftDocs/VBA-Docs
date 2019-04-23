@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks Object (Publisher)
+title: Hyperlinks object (Publisher)
 keywords: vbapb10.chm6946815
 f1_keywords:
 - vbapb10.chm6946815
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Hyperlinks
 ms.assetid: a82724b9-e792-b0e6-d1c3-25ce6021ad29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks Object (Publisher)
+# Hyperlinks object (Publisher)
 
 Represents the collection of  **[Hyperlink](Publisher.Hyperlink.md)** objects in a text range.
 
@@ -78,7 +79,7 @@ The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection r
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Publisher.Hyperlinks.Add.md)|
 
@@ -86,10 +87,11 @@ The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection r
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Hyperlinks.Application.md)|
 |[Count](./Publisher.Hyperlinks.Count.md)|
 |[Item](./Publisher.Hyperlinks.Item.md)|
 |[Parent](./Publisher.Hyperlinks.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

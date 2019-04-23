@@ -8,6 +8,7 @@ api_name:
 - Excel.PictureFormat.ColorType
 ms.assetid: 6c183163-8fbd-3a0f-b087-05d8d2cdbfd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or sets the type of color transformation applied to the specified pictur
 
 ## Syntax
 
- _expression_. `ColorType`
+_expression_. `ColorType`
 
  _expression_ An expression that returns a [PictureFormat](Excel.PictureFormat.md) object.
 
 
 ## Example
 
-This example sets the color transformation to grayscale through  **[MsoPictureColorType](Office.MsoPictureColorType.md)** for shape one on `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the color transformation to grayscale through  **[MsoPictureColorType](Office.MsoPictureColorType.md)** for shape one on _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb
@@ -39,3 +40,4 @@ myDocument.Shapes(1).PictureFormat.ColorType = msoPictureGrayScale
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

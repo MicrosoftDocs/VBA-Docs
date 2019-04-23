@@ -9,6 +9,7 @@ api_name:
 - Access.ODBCTimeout
 ms.assetid: ebcac9df-87a9-481c-32cc-d28bb9f37717
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,7 +29,7 @@ You can set this property by using the query's property sheet or Data Access Obj
 
 ## Remarks
 
-When you're using an ODBC database, such as Microsoft SQL Server, there may be delays due to network traffic or heavy use of the ODBC server. The **ODBCTimeout** property lets you specify how long Microsoft Access waits for a network connection before a time-out error occurs.
+When you are using an ODBC database, such as Microsoft SQL Server, there may be delays due to network traffic or heavy use of the ODBC server. The **ODBCTimeout** property lets you specify how long Microsoft Access waits for a network connection before a time-out error occurs.
 
 ## See also
 
@@ -38,3 +39,5 @@ When you're using an ODBC database, such as Microsoft SQL Server, there may be d
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

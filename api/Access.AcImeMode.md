@@ -8,6 +8,7 @@ api_name:
 - Access.AcImeMode
 ms.assetid: d84e71fb-996e-f1c3-f386-eefd18da98db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies the default startup mode for the Japanese Input Method Editor (IME). 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -31,3 +32,4 @@ Specifies the default startup mode for the Japanese Input Method Editor (IME).
 |**acImeModeOff**|2|Disables the IME and activates Latin text entry.|
 |**acImeModeOn**|1|Activates the IME.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

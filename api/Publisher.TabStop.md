@@ -1,5 +1,5 @@
 ---
-title: TabStop Object (Publisher)
+title: TabStop object (Publisher)
 keywords: vbapb10.chm5701631
 f1_keywords:
 - vbapb10.chm5701631
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TabStop
 ms.assetid: 74e71d75-503f-ef57-ddeb-24a788402df2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop Object (Publisher)
+# TabStop object (Publisher)
 
 Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](Publisher.TabStops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
  
@@ -74,7 +75,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Publisher.TabStop.Clear.md)|
 
@@ -82,7 +83,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Publisher.TabStop.Alignment.md)|
 |[Application](Publisher.TabStop.Application.md)|
@@ -90,3 +91,4 @@ End Sub
 |[Parent](Publisher.TabStop.Parent.md)|
 |[Position](Publisher.TabStop.Position.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

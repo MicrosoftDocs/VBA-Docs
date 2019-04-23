@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: deaf7459-f91f-2ad7-fb94-e954939a8b99
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
@@ -23,5 +24,6 @@ The specified code [locale](../../Glossary/vbe-glossary.md#locale) for the [proj
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
 > [!TIP] 
-> 2018-08-16: One working solution for this problem is to unselect the UTF-8 beta setting in the **Control Panel** > **Regional settings** > **Administrative settings**. The [original solution is in Vietnamese](https://blog.hocexcel.online/sua-loi-unrecognized-project-language-trong-vba.html) (use Google Translate to read). 
+> 2018-08-16: One working solution for this problem is to unselect the UTF-8 beta setting in the **Control Panel** > **Regional settings** > **Administrative settings**. The [original solution is in Vietnamese](https://blog.hocexcel.online/sua-loi-unrecognized-project-language-trong-vba.html) (use Google Translate to read).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

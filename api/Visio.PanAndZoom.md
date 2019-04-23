@@ -5,6 +5,7 @@ api_name:
 - Visio.PanAndZoom
 ms.assetid: 83d1ac9d-e489-0656-a573-ebadd6e06156
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether the  **Pan and Zoom** control for zooming in and out of the p
 
 ## Syntax
 
- _expression_. **PanAndZoom**
+_expression_.**PanAndZoom**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -36,4 +37,4 @@ The  **PanAndZoom** property corresponds to the **Pan and Zoom** check box under
 
  **Note**  The  **Pan and Zoom** control is supported for the VML output format in Microsoft Internet Explorer 5 and later. The **Pan and Zoom** control is not available in SVG, JPG, GIF, and PNG output formats.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

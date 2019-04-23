@@ -1,21 +1,22 @@
 ---
-title: VisFieldCodes Enumeration (Visio)
+title: VisFieldCodes enumeration (Visio)
 keywords: vis_sdr.chm70140
 f1_keywords:
 - vis_sdr.chm70140
 ms.prod: visio
 ms.assetid: 3bcc4aef-21c1-b152-47dc-74e6c58cd24e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisFieldCodes Enumeration (Visio)
+# VisFieldCodes enumeration (Visio)
 
 Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFCodeAngle**|2|Angle.|
 | **visFCodeBackgroundName**|0|Background name.|
@@ -51,3 +52,4 @@ Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
 | **visFCodeTitle**|6|Document title.|
 | **visFCodeWidth**|0|Width.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

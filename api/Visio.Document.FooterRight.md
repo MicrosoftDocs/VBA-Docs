@@ -1,5 +1,5 @@
 ---
-title: Document.FooterRight Property (Visio)
+title: Document.FooterRight property (Visio)
 keywords: vis_sdr.chm10550595
 f1_keywords:
 - vis_sdr.chm10550595
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.FooterRight
 ms.assetid: 17db938c-6b1b-6cd1-7f4e-65aca275f30b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FooterRight Property (Visio)
+# Document.FooterRight property (Visio)
 
 Gets or sets the text string that appears in the right portion of a document's footer. Read/write.
 
 
 ## Syntax
 
- _expression_. `FooterRight`
+_expression_. `FooterRight`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -55,4 +56,4 @@ Sub FooterRight_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

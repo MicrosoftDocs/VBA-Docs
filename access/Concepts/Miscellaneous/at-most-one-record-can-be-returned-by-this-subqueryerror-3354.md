@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 55e2f3f8-26e2-b6d7-809e-e77f11bbb1dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ A subquery of this kind cannot return more than one record. Revise the SELECT st
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

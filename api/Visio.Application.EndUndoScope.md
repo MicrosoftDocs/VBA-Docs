@@ -1,5 +1,5 @@
 ---
-title: Application.EndUndoScope Method (Visio)
+title: Application.EndUndoScope method (Visio)
 keywords: vis_sdr.chm10016250
 f1_keywords:
 - vis_sdr.chm10016250
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.EndUndoScope
 ms.assetid: 352188d2-8a2a-1a6d-674e-93fce9245810
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EndUndoScope Method (Visio)
+# Application.EndUndoScope method (Visio)
 
 Ends or cancels a transaction that has a unique scope.
 
 
 ## Syntax
 
- _expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
+_expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -128,4 +129,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

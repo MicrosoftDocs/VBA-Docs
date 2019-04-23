@@ -1,5 +1,5 @@
 ---
-title: Parameters.Add Method (Excel)
+title: Parameters.Add method (Excel)
 keywords: vbaxl10.chm525073
 f1_keywords:
 - vbaxl10.chm525073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Parameters.Add
 ms.assetid: 043276ed-4af7-3b7a-dbfb-549489d3a127
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Parameters.Add Method (Excel)
+# Parameters.Add method (Excel)
 
 Creates a new query parameter.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_iDataType_` )
+_expression_.**Add**( `_Name_` , `_iDataType_` )
 
- _expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
+_expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
 
 
 ## Parameters
@@ -42,7 +43,7 @@ A  **[Parameter](Excel.Parameter.md)** object that represents the new query para
 This example changes the SQL statement for query table one. The clause "(city=?)" indicates that the query is a parameter query, and the value of city is set to the constant "Oakland."
 
 
-```sql
+```vb
 Set qt = Sheets("sheet1").QueryTables(1) 
 qt.Sql = "SELECT * FROM authors WHERE (city=?)" 
 Set param1 = qt.Parameters.Add("City Parameter", _ 
@@ -57,3 +58,4 @@ qt.Refresh
 
 [Parameters Object](Excel.Parameters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

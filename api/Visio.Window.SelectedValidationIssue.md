@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedValidationIssue Property (Visio)
+title: Window.SelectedValidationIssue property (Visio)
 keywords: vis_sdr.chm11662490
 f1_keywords:
 - vis_sdr.chm11662490
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.SelectedValidationIssue
 ms.assetid: 7955338a-2a54-2726-a17a-81acc6bcfce7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.SelectedValidationIssue Property (Visio)
+# Window.SelectedValidationIssue property (Visio)
 
 Gets or sets the validation issue that is selected in the  **Issues** window. Read/write.
 
 
 ## Syntax
 
- _expression_. `SelectedValidationIssue`
+_expression_. `SelectedValidationIssue`
 
  _expression_ A variable that represents a '[Window](Visio.Window.md)' object.
 
@@ -34,7 +35,7 @@ Attempting to get or set the  **SelectedValidationIssue** property on a window o
 
 If multiple issues are selected in the  **Issues** window, Visio returns the issue that has the focus.
 
-If no issue is selected, Visio returns  **Nothing** . By default, issues that you have specified to be ignored are not displayed. If you set the property to **Nothing** , Visio clears the selection in the **Issues** window.
+If no issue is selected, Visio returns  **Nothing**. By default, issues that you have specified to be ignored are not displayed. If you set the property to **Nothing**, Visio clears the selection in the **Issues** window.
 
 
 ## Example
@@ -56,4 +57,4 @@ Set vsoIssuesWindow = Application.ActiveWindow.Windows.ItemFromID(Visio.VisWinTy
     End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

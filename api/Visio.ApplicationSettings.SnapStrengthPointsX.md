@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.SnapStrengthPointsX Property (Visio)
+title: ApplicationSettings.SnapStrengthPointsX property (Visio)
 keywords: vis_sdr.chm16251555
 f1_keywords:
 - vis_sdr.chm16251555
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.SnapStrengthPointsX
 ms.assetid: 7f18b1bc-0164-48d5-b50c-d269b68c1f31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.SnapStrengthPointsX Property (Visio)
+# ApplicationSettings.SnapStrengthPointsX property (Visio)
 
 Specifies the distance in pixels along the x-axis that points pull when snapping is enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapStrengthPointsX`
+_expression_. `SnapStrengthPointsX`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -54,4 +55,4 @@ Public Sub SnapStrengthPointsX_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

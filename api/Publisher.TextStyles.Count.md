@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Count Property (Publisher)
+title: TextStyles.Count property (Publisher)
 keywords: vbapb10.chm5898243
 f1_keywords:
 - vbapb10.chm5898243
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyles.Count
 ms.assetid: c8620d07-d5ad-68f6-67c6-0179da441a4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyles.Count Property (Publisher)
+# TextStyles.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **TextStyles** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

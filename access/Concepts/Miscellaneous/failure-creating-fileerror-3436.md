@@ -3,6 +3,7 @@ title: Failure creating file. (Error 3436)
 ms.prod: access
 ms.assetid: 108a44e9-77ba-65df-7b19-ecdce3d22d2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,5 @@ Possible causes:
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PbPrintStyle Enumeration (Publisher)
+title: PbPrintStyle enumeration (Publisher)
 keywords: vbapb10.chm65635
 f1_keywords:
 - vbapb10.chm65635
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbPrintStyle
 ms.assetid: 95ce64e6-c4e6-ee0b-4f5f-9d8f73b02c6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbPrintStyle Enumeration (Publisher)
+# PbPrintStyle enumeration (Publisher)
 
 Constants specifying the print style and passed to the  **PrintOutEx** and **ExportAsFixedFormat** methods.
 
@@ -32,3 +33,4 @@ Constants specifying the print style and passed to the  **PrintOutEx** and **Exp
 | **pbPrintStyleQuarterFoldTop**|9|Prints the publication in the quarter fold top style.|
 | **pbPrintStyleTiled**|2|Prints the publication in the tiled style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

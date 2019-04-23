@@ -8,6 +8,7 @@ api_name:
 - Excel.Windows.Count
 ms.assetid: f1b4d304-8431-41a5-9e8e-ca2d4da44625
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
+_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [Windows Object](Excel.Windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

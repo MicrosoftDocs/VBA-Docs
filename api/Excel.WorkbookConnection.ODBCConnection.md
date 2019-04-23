@@ -8,19 +8,20 @@ api_name:
 - Excel.WorkbookConnection.ODBCConnection
 ms.assetid: b5d388da-dcd0-9d9f-3dab-c311e42e46ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # WorkbookConnection.ODBCConnection property (Excel)
 
-Retuns the ODBC Connection details for the specified  **WorkbookConnection** object. Read-only **ODBCConnection** .
+Returns the ODBC Connection details for the specified  **WorkbookConnection** object. Read-only **ODBCConnection**.
 
 
 ## Syntax
 
- _expression_. `ODBCConnection`
+_expression_. `ODBCConnection`
 
- _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Retuns the ODBC Connection details for the specified  **WorkbookConnection** obj
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

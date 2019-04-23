@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 52c50521-19a8-7f8e-537c-497fd22b5c2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ This topic includes some common Word tasks and the Visual Basic code needed to a
  [Working with tables](../Working-with-Word/working-with-tables.md)
  [Working with documents](../Working-with-Word/working-with-document-objects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

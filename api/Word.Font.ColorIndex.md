@@ -1,5 +1,5 @@
 ---
-title: Font.ColorIndex Property (Word)
+title: Font.ColorIndex property (Word)
 keywords: vbawd10.chm156369033
 f1_keywords:
 - vbawd10.chm156369033
@@ -8,19 +8,20 @@ api_name:
 - Word.Font.ColorIndex
 ms.assetid: c5011017-bf7a-5d89-0f20-f000d3ffd0ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.ColorIndex Property (Word)
+# Font.ColorIndex property (Word)
 
 Returns or sets a  **WdColorIndex** constant that represents the color for the specified font. Read/write .
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
- _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ Selection.Font.ColorIndex = wdRed
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

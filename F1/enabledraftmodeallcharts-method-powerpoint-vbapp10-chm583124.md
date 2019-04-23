@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 85179592-af23-41c7-a631-f894d15c2884
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Presentation.ApplyTemplate2 Method (PowerPoint)](http://msdn.microsoft.com/library/43d6d14a-078f-eefa-8ad5-981b0cb6ccb9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

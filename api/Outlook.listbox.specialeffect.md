@@ -3,6 +3,7 @@ title: ListBox.SpecialEffect Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d461a449-844e-2cd1-f2ca-a43849e987fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the visual appearance of an objec
 
 ## Syntax
 
- _expression_. **SpecialEffect**
+_expression_.**SpecialEffect**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -24,7 +25,7 @@ The settings for  **SpecialEffect** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both.|
 |1|Object has a highlight on the top and left and a shadow on the bottom and right.|
@@ -36,4 +37,4 @@ You can use either the  **SpecialEffect** or the **[BorderStyle](Outlook.listbox
 
  **SpecialEffect** uses the system colors to define its borders.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

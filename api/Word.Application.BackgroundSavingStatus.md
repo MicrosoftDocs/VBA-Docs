@@ -1,5 +1,5 @@
 ---
-title: Application.BackgroundSavingStatus Property (Word)
+title: Application.BackgroundSavingStatus property (Word)
 keywords: vbawd10.chm158335061
 f1_keywords:
 - vbawd10.chm158335061
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.BackgroundSavingStatus
 ms.assetid: 9cf29eb4-fc80-91ad-2867-6dc9d48e11c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BackgroundSavingStatus Property (Word)
+# Application.BackgroundSavingStatus property (Word)
 
-Returns the number of files queued up to be saved in the background. Read-only  **Long** .
+Returns the number of files queued up to be saved in the background. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackgroundSavingStatus`
+_expression_. `BackgroundSavingStatus`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -45,3 +46,4 @@ Wend
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

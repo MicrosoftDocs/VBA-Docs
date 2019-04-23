@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Spacing Property (Word)
+title: TextColumns.Spacing property (Word)
 keywords: vbawd10.chm158531687
 f1_keywords:
 - vbawd10.chm158531687
@@ -8,24 +8,25 @@ api_name:
 - Word.TextColumns.Spacing
 ms.assetid: af171eb4-fa49-370c-6a8f-bf95abd57c31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextColumns.Spacing Property (Word)
+# TextColumns.Spacing property (Word)
 
-Returns or sets the spacing (in points) between columns. Read/write  **Single** .
+Returns or sets the spacing (in points) between columns. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Spacing`
+_expression_. `Spacing`
 
- _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
+_expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
 ## Remarks
 
-After this property has been set for a  **TextColumns** object, the **EvenlySpaced** property is set to **True** . To return or set the spacing for a single text column when **EvenlySpaced** is **False** , use the **SpaceAfter** property of the **TextColumn** object.
+After this property has been set for a  **TextColumns** object, the **EvenlySpaced** property is set to **True**. To return or set the spacing for a single text column when **EvenlySpaced** is **False**, use the **SpaceAfter** property of the **TextColumn** object.
 
 
 ## Example
@@ -48,3 +49,4 @@ End With
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

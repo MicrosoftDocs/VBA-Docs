@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Characters
 ms.assetid: a136b4c9-be4a-9b17-20f6-c8b694202e9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The  **Characters** object isn't a collection.
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

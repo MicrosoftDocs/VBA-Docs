@@ -1,5 +1,5 @@
 ---
-title: Range.InsertAfter Method (Word)
+title: Range.InsertAfter method (Word)
 keywords: vbawd10.chm157155432
 f1_keywords:
 - vbawd10.chm157155432
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.InsertAfter
 ms.assetid: 25b2c0be-e9c7-1e42-09ea-308bbdcde7c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InsertAfter Method (Word)
+# Range.InsertAfter method (Word)
 
 Inserts the specified text at the end of a range.
 
 
 ## Syntax
 
- _expression_. `InsertAfter`( `_Text_` )
+_expression_. `InsertAfter`( `_Text_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ Inserts the specified text at the end of a range.
 
 After this method is applied, the range expands to include the new text.
 
-You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic  **Chr** function with the **InsertAfter** method. You can also use the following Visual Basic constants: **vbCr** , **vbLf** , **vbCrLf** and **vbTab** .
+You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic  **Chr** function with the **InsertAfter** method. You can also use the following Visual Basic constants: **vbCr**, **vbLf**, **vbCrLf** and **vbTab**.
 
 If you use this method with a range that refers to an entire paragraph, the text is inserted after the ending paragraph mark (the text will appear at the beginning of the next paragraph). To insert text at the end of a paragraph, determine the ending point and subtract 1 from this location (the paragraph mark is one character), as shown in the following example.
 
@@ -84,3 +85,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

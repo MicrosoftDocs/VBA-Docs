@@ -3,7 +3,8 @@ title: IRibbonUI members (Office)
 description: The object that is returned by the onLoad procedure specified on the customUI tag.
 ms.prod: office
 ms.assetid: c6f6ec3b-3132-da29-ea08-70f20923d013
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -14,7 +15,7 @@ The object that is returned by the **onLoad** procedure specified on the **custo
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ActivateTab](../../Office.IRibbonUI.ActivateTab.md)|Activates the specified custom tab. This method returns S_FALSE if there is no Ribbon or the Ribbon is collapsed.|
 |[ActivateTabMso](../../Office.IRibbonUI.ActivateTabMso.md)|Activates the specified built-in tab.|
@@ -23,3 +24,4 @@ The object that is returned by the **onLoad** procedure specified on the **custo
 |[InvalidateControl](../../Office.IRibbonUI.InvalidateControl.md)|Invalidates the cached value for a single control on the Ribbon user interface.|
 |[InvalidateControlMso](../../Office.IRibbonUI.InvalidateControlMso.md)|Used to invalidate a built-in control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

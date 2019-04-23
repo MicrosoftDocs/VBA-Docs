@@ -1,5 +1,5 @@
 ---
-title: OlIconViewType Enumeration (Outlook)
+title: OlIconViewType enumeration (Outlook)
 keywords: vbaol11.chm3124
 f1_keywords:
 - vbaol11.chm3124
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlIconViewType
 ms.assetid: 81fefee1-25b3-dbe5-0d10-047259e273a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlIconViewType Enumeration (Outlook)
+# OlIconViewType enumeration (Outlook)
 
 Indicates the view mode when using an  **[IconView](Outlook.IconView.md)** object.
 
@@ -27,4 +28,4 @@ Indicates the view mode when using an  **[IconView](Outlook.IconView.md)** objec
 
 For  **olIconViewLarge** and **olIconViewSmall**, the actual placement and orientation of icons displayed in the [IconView](Outlook.IconView.md) object is determined by the [OlIconViewPlacement](Outlook.OlIconViewPlacement.md) constant specified in the [IconPlacement](Outlook.IconView.IconPlacement.md) property of the **IconView** object. The **IconPlacement** property value is ignored when **olIconViewList** is selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

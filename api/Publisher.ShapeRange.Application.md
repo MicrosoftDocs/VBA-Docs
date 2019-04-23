@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Application Property (Publisher)
+title: ShapeRange.Application property (Publisher)
 keywords: vbapb10.chm2293761
 f1_keywords:
 - vbapb10.chm2293761
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Application
 ms.assetid: 6d594656-bd99-87ba-2244-fdba4ca471f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Application Property (Publisher)
+# ShapeRange.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

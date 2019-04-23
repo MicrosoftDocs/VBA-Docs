@@ -1,20 +1,21 @@
 ---
-title: Application.ProjectBeforeResourceChange Event (Project)
+title: Application.ProjectBeforeResourceChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceChange
 ms.assetid: d676f2c7-8857-70d7-41c6-4c505a0bcbcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceChange Event (Project)
+# Application.ProjectBeforeResourceChange event (Project)
 
 Occurs before the user changes the value of a resource field.
 
 ## Syntax
 
-_expression_. **ProjectBeforeResourceChange** (**_res_**, **_Field_**, **_NewVal_**, **_Cancel_**)
+_expression_.**ProjectBeforeResourceChange** (**_res_**, **_Field_**, **_NewVal_**, **_Cancel_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -30,7 +31,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### PjField constants
+### PjField constants
 
 |||
 |:-----|:-----|
@@ -103,3 +104,5 @@ Nothing
 Project events do not occur when the project is embedded in another document or application.
 
 The **ProjectBeforeResourceChange** event doesn't occur when timescaled data changes, when a baseline is cleared, when an entire resource row is pasted, during resource pool operations, when inserting or removing a subproject, or when changes have been made by using a custom form.
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CustomLayouts.Paste Method (PowerPoint)
+title: CustomLayouts.Paste method (PowerPoint)
 keywords: vbapp10.chm671005
 f1_keywords:
 - vbapp10.chm671005
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CustomLayouts.Paste
 ms.assetid: d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLayouts.Paste Method (PowerPoint)
+# CustomLayouts.Paste method (PowerPoint)
 
 Pastes the slides on the Clipboard into a custom layout and adds the custom layout to the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Paste`( `_Index_` )
+_expression_.**Paste** (_Index_)
 
- _expression_ A variable that represents a [CustomLayouts](./PowerPoint.CustomLayouts.md) object.
+_expression_ A variable that represents a [CustomLayouts](./PowerPoint.CustomLayouts.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ CustomLayout
 
 [CustomLayouts Object](PowerPoint.CustomLayouts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

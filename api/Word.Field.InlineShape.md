@@ -1,5 +1,5 @@
 ---
-title: Field.InlineShape Property (Word)
+title: Field.InlineShape property (Word)
 keywords: vbawd10.chm154075148
 f1_keywords:
 - vbawd10.chm154075148
@@ -8,17 +8,18 @@ api_name:
 - Word.Field.InlineShape
 ms.assetid: 2fbaa2a5-3c31-e7ff-45db-044c62cde951
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.InlineShape Property (Word)
+# Field.InlineShape property (Word)
 
 Returns an  **[InlineShape](Word.InlineShape.md)** object that represents the picture, OLE object, or ActiveX control that is the result of an INCLUDEPICTURE or EMBED field.
 
 
 ## Syntax
 
- _expression_. `InlineShape`
+_expression_. `InlineShape`
 
  _expression_ An expression that returns a '[Field](Word.Field.md)' object.
 
@@ -45,3 +46,4 @@ End If
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

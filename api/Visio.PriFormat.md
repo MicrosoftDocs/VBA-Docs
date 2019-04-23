@@ -5,6 +5,7 @@ api_name:
 - Visio.PriFormat
 ms.assetid: 84c7c085-0f12-f25d-bf17-646cc8b7cd97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Specifies the primary output format for the Web page. Read/write.
 
 ## Syntax
 
- _expression_. **PriFormat**
+_expression_.**PriFormat**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -38,7 +39,7 @@ Possible values for the  **PriFormat** property are as follows:
     
 - SVG (Scalable Vector Graphics)
     
-- JPG (JPEG File Interchage Format)
+- JPG (JPEG File Interchange Format)
     
 - GIF (Graphics Interchange Format)
     
@@ -46,7 +47,7 @@ Possible values for the  **PriFormat** property are as follows:
     
 - VML (Vector Markup Language)
     
-This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As** , in the **Save as type** list, select **Web Page (*.htm;*.html)** , click **Publish** , and then click **Advanced**).
+This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (*.htm;*.html)**, click **Publish**, and then click **Advanced**).
 
 
 ## Example
@@ -75,4 +76,4 @@ Public Sub PriFormat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

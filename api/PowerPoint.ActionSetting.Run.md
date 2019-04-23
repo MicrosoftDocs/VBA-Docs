@@ -1,5 +1,5 @@
 ---
-title: ActionSetting.Run Property (PowerPoint)
+title: ActionSetting.Run property (PowerPoint)
 keywords: vbapp10.chm567006
 f1_keywords:
 - vbapp10.chm567006
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ActionSetting.Run
 ms.assetid: 5c5bc9ee-528c-ca49-0c36-c1f343671ffd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActionSetting.Run Property (PowerPoint)
+# ActionSetting.Run property (PowerPoint)
 
 Returns or sets the name of the presentation or macro to be run when the specified shape is clicked or the mouse pointer passes over the shape during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `Run`
+_expression_. `Run`
 
- _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
+_expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ## Return value
@@ -57,3 +58,4 @@ End With
 
 [ActionSetting Object](PowerPoint.ActionSetting.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

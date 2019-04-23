@@ -1,24 +1,23 @@
 ---
-title: ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth Properties Example
+title: ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth properties example
 keywords: fm20.chm5225138
 f1_keywords:
 - fm20.chm5225138
 ms.prod: office
 ms.assetid: 79f36650-9779-1ae4-678c-9f239e1306e1
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth Properties Example
+# ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth properties example
 
-The following example uses a page of a  **MultiPage** as a scrolling region. The user can use the scroll bars on Page2 of the **MultiPage** to gain access to parts of the page that are not initially displayed.
+The following example uses a page of a **[MultiPage](multipage-control.md)** as a scrolling region. The user can use the scroll bars on Page2 of the **MultiPage** to gain access to parts of the page that are not initially displayed.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **MultiPage** named MultiPage1, and that each page of the **MultiPage** contains one or more controls.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **MultiPage** named MultiPage1, and that each page of the **MultiPage** contains one or more controls.
 
- **Note**  Each page of a  **MultiPage** is unique. Page1 has no scroll bars. Page2 has horizontal and vertical scroll bars.
-
-
-
+> [!NOTE] 
+> Each page of a **MultiPage** is unique. Page1 has no scroll bars. Page2 has horizontal and vertical scroll bars.
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -40,4 +39,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

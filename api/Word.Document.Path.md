@@ -1,5 +1,5 @@
 ---
-title: Document.Path Property (Word)
+title: Document.Path property (Word)
 keywords: vbawd10.chm158007299
 f1_keywords:
 - vbawd10.chm158007299
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Path
 ms.assetid: 809b41fb-c410-5bcb-c808-780ad5232e6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Path Property (Word)
+# Document.Path property (Word)
 
-Returns the disk or Web path to the document. Read-only  **String** .
+Returns the disk or Web path to the document. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ ChDir ActiveDocument.AttachedTemplate.Path
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

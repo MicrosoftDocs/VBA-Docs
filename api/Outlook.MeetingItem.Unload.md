@@ -1,23 +1,24 @@
 ---
-title: MeetingItem.Unload Event (Outlook)
+title: MeetingItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Unload
 ms.assetid: 87053a2f-11cc-6a76-a4fd-7c752efb00bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.Unload Event (Outlook)
+# MeetingItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

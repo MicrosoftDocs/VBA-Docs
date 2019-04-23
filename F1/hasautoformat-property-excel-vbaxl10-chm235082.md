@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6c2b737f-e6e2-4d2c-a4e7-072ac67d5788
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [PivotTable.HasAutoFormat property (Excel)638f892d-7dc9-314c-efaf-ee724b9f86f5](http://msdn.microsoft.com/library/638f892d-7dc9-314c-efaf-ee724b9f86f5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

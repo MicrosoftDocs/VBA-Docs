@@ -1,5 +1,5 @@
 ---
-title: Master.OLEObjects Property (Visio)
+title: Master.OLEObjects property (Visio)
 keywords: vis_sdr.chm10713965
 f1_keywords:
 - vis_sdr.chm10713965
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.OLEObjects
 ms.assetid: b51fbdc2-a236-4733-5a2e-b8e75d457d64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.OLEObjects Property (Visio)
+# Master.OLEObjects property (Visio)
 
 Returns the  **OLEObjects** collection of a master. Read-only.
 
 
 ## Syntax
 
- _expression_. `OLEObjects`
+_expression_. `OLEObjects`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -57,4 +58,4 @@ Public Sub OLEObjects_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

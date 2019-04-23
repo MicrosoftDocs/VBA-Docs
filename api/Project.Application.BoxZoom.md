@@ -1,5 +1,5 @@
 ---
-title: Application.BoxZoom Method (Project)
+title: Application.BoxZoom method (Project)
 keywords: vbapj.chm308
 f1_keywords:
 - vbapj.chm308
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxZoom
 ms.assetid: fbfae092-93b1-b72f-6b42-a498a1543e00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxZoom Method (Project)
+# Application.BoxZoom method (Project)
 
 Zooms in to or out from the Network Diagram.
 
 
 ## Syntax
 
- _expression_. `BoxZoom`( ` _Percent_`, ` _Entire_` )
+_expression_. `BoxZoom`( `_Percent_`, `_Entire_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -48,4 +49,4 @@ Sub Display()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

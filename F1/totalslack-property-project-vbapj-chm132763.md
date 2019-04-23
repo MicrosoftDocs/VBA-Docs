@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 776058c0-355a-4fa5-bf94-bf705d582d57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.WBSCodeGenerate Property (Project)](http://msdn.microsoft.com/library/c387015f-6243-1509-ae1a-bafdf09f7393%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

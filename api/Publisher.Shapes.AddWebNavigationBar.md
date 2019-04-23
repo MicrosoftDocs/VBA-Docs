@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWebNavigationBar Method (Publisher)
+title: Shapes.AddWebNavigationBar method (Publisher)
 keywords: vbapb10.chm2162736
 f1_keywords:
 - vbapb10.chm2162736
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddWebNavigationBar
 ms.assetid: 26e9622c-ea28-b28b-9904-b3a3ccc9341b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddWebNavigationBar Method (Publisher)
+# Shapes.AddWebNavigationBar method (Publisher)
 
 Adds a  **Shape** object of type **pbWebNavigationBar** to the current page of a publication.
 
 
 ## Syntax
 
- _expression_. **AddWebNavigationBar**(**_Name_**,  **_Left_**,  **_Top_**,  **_Width_**)
+_expression_.**AddWebNavigationBar**(**_Name_**,  **_Left_**,  **_Top_**,  **_Width_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -60,4 +61,4 @@ Public Sub AddWebNavigationBarSet_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.ManualFeedAlign Property (Publisher)
+title: AdvancedPrintOptions.ManualFeedAlign property (Publisher)
 keywords: vbapb10.chm7077928
 f1_keywords:
 - vbapb10.chm7077928
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.ManualFeedAlign
 ms.assetid: 5c2dc0a7-981f-731d-6a85-0971c7e19a62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.ManualFeedAlign Property (Publisher)
+# AdvancedPrintOptions.ManualFeedAlign property (Publisher)
 
 Gets or sets the alignment (left, right, or center) of where envelopes are fed to the printer's manual feed. Read/write.
 
 
 ## Syntax
 
- _expression_. **ManualFeedAlign**
+_expression_.**ManualFeedAlign**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
@@ -30,7 +31,7 @@ Gets or sets the alignment (left, right, or center) of where envelopes are fed t
 
 ## Remarks
 
-The  **ManualFeedAlign** property setting, in conjunction with the ** [AdvancedPrintOptions.ManualFeedDirection](Publisher.AdvancedPrintOptions.ManualFeedDirection.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
+The  **ManualFeedAlign** property setting, in conjunction with the **[AdvancedPrintOptions.ManualFeedDirection](Publisher.AdvancedPrintOptions.ManualFeedDirection.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
 
 Possible values for  **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlacementLeft** (1), and **pbPlacementRight** (2).
 
@@ -40,3 +41,4 @@ Possible values for  **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlac
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

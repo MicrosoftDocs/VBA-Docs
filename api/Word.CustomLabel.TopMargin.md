@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.TopMargin Property (Word)
+title: CustomLabel.TopMargin property (Word)
 keywords: vbawd10.chm152371203
 f1_keywords:
 - vbawd10.chm152371203
@@ -8,19 +8,20 @@ api_name:
 - Word.CustomLabel.TopMargin
 ms.assetid: a1c783b1-08a9-ade0-6833-0b004a9f14ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel.TopMargin Property (Word)
+# CustomLabel.TopMargin property (Word)
 
-Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `TopMargin`
+_expression_.**TopMargin**
 
- _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
+_expression_ Required. A variable that represents a **[CustomLabel](Word.CustomLabel.md)** object.
 
 
 ## Example
@@ -49,3 +50,4 @@ Application.MailingLabel.CreateNewDocument Name:="My Label"
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

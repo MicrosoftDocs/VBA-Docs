@@ -1,21 +1,22 @@
 ---
-title: Resource.ActualCost Property (Project)
+title: Resource.ActualCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.ActualCost
 ms.assetid: 9e5bd065-c88d-aa87-0191-be95b4d3ca04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.ActualCost Property (Project)
+# Resource.ActualCost property (Project)
 
 Gets the current actual cost for the resource on the project. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualCost`
+_expression_. `ActualCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -26,4 +27,4 @@ The current actual cost for the resource is calculated from the resource cost ra
 
 Actual costs are also available for tasks and assignments. For an example the uses the actual cost for tasks, see the  **[ActualCost](Project.Task.ActualCost.md)** property for the **Task** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

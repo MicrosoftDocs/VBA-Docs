@@ -1,14 +1,15 @@
 ---
-title: WdStoryType Enumeration (Word)
+title: WdStoryType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStoryType
 ms.assetid: 046fab29-72c8-8b71-4d3a-903e5cb15326
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdStoryType Enumeration (Word)
+# WdStoryType enumeration (Word)
 
 Specifies the story type of a selection or item.
 
@@ -34,3 +35,4 @@ Specifies the story type of a selection or item.
 | **wdPrimaryHeaderStory**|7|Primary header story.|
 | **wdTextFrameStory**|5|Text frame story.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.LinkedFileStatus Property (Publisher)
+title: PictureFormat.LinkedFileStatus property (Publisher)
 keywords: vbapb10.chm3604787
 f1_keywords:
 - vbapb10.chm3604787
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.LinkedFileStatus
 ms.assetid: 43ddffe3-9cc3-b102-c5e8-80f26f63849c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.LinkedFileStatus Property (Publisher)
+# PictureFormat.LinkedFileStatus property (Publisher)
 
 Returns a  **PbLinkedFileStatus** constant that indicates the status of the file linked to the specified picture. Read-only.
 
 
 ## Syntax
 
- _expression_. **LinkedFileStatus**
+_expression_.**LinkedFileStatus**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -69,4 +70,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

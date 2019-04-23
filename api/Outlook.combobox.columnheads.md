@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ad72c887-068b-973e-c76c-182b7a12f0ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether a single row of column hea
 
 ## Syntax
 
- _expression_. **ColumnHeads**
+_expression_.**ColumnHeads**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ Headings in combo boxes appear only when the list drops down.
 
 Setting this property to  **True** displays a blank row as column headings. However, currently there is no way to specify the text for column headings.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

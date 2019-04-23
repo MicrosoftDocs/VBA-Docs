@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 09d3e93e-9fca-eccc-e9e4-d636bb2b7f28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A [standard module](../../Glossary/vbe-glossary.md#standard-module) doesn't repr
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

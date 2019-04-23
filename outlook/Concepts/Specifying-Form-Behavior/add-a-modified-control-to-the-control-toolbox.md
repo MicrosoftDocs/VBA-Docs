@@ -3,6 +3,7 @@ title: Add a Modified Control to the Control Toolbox
 ms.prod: outlook
 ms.assetid: 74d751d0-e93d-557e-e878-1fce71b7143a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,4 +22,4 @@ ms.date: 06/08/2017
 
  **Note**  When you drag a control onto the  **Control Toolbox**, you only transfer the advanced property values. Any lines of code or Outlook property values that you have written for that control do not transfer with the control. You must write new code or copy code from the control on the form to the control on the  **Control Toolbox**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

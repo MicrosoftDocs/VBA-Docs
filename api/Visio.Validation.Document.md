@@ -1,5 +1,5 @@
 ---
-title: Validation.Document Property (Visio)
+title: Validation.Document property (Visio)
 keywords: vis_sdr.chm18013430
 f1_keywords:
 - vis_sdr.chm18013430
@@ -8,17 +8,18 @@ api_name:
 - Visio.Validation.Document
 ms.assetid: 606f61ee-5096-782a-cb46-8314c5d2245e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Validation.Document Property (Visio)
+# Validation.Document property (Visio)
 
 Returns the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
@@ -27,4 +28,4 @@ Returns the  **[Document](Visio.Document.md)** object that is associated with an
 
  **Document**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

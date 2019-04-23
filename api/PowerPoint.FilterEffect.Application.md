@@ -1,5 +1,5 @@
 ---
-title: FilterEffect.Application Property (PowerPoint)
+title: FilterEffect.Application property (PowerPoint)
 keywords: vbapp10.chm669001
 f1_keywords:
 - vbapp10.chm669001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FilterEffect.Application
 ms.assetid: b1ef696f-e3b3-7a84-9541-5f89f13bc733
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FilterEffect.Application Property (PowerPoint)
+# FilterEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: b37978c6-cb5c-d54d-d6d8-b088b6218c5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,7 @@ ms.date: 06/08/2017
 
 This is the basic syntax of the **AddNew** method:
 
-```
-recordset.AddNewFieldList,Values
-```
+    recordset.AddNewFieldList,Values
 
 The  _FieldList_ and _Values_ arguments are optional. _FieldList_ is either a single name or an array of names or ordinal positions of the fields in the new record.
 
@@ -56,3 +55,5 @@ Because this code uses a disconnected **Recordset** with a client-side cursor in
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

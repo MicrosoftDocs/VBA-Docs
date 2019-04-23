@@ -1,14 +1,15 @@
 ---
-title: xlDataLabelsType enumeration (Excel)
+title: XlDataLabelsType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataLabelsType
 ms.assetid: 42f5e60d-6f12-7f12-47af-2a81577c60d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDataLabelsType enumeration (Excel)
+# XlDataLabelsType enumeration (Excel)
 
 Specifies the type of data label to apply.
 
@@ -23,3 +24,4 @@ Specifies the type of data label to apply.
 | **xlDataLabelsShowPercent**|3|Percentage of the total. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowValue**|2|Default value for the point (assumed if this argument is not specified).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

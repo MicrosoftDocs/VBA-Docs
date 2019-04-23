@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CreateCubeFile Method (Excel)
+title: PivotTable.CreateCubeFile method (Excel)
 keywords: vbaxl10.chm235152
 f1_keywords:
 - vbaxl10.chm235152
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.CreateCubeFile
 ms.assetid: 585641a1-c708-75fd-4789-f7a254830b57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.CreateCubeFile Method (Excel)
+# PivotTable.CreateCubeFile method (Excel)
 
 Creates a cube file from a PivotTable report connected to an Online Analytical Processing (OLAP) data source.
 
 
 ## Syntax
 
- _expression_. `CreateCubeFile`( `_File_` , `_Measures_` , `_Levels_` , `_Members_` , `_Properties_` )
+_expression_. `CreateCubeFile`( `_File_` , `_Measures_` , `_Levels_` , `_Members_` , `_Properties_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Creates a cube file from a PivotTable report connected to an Online Analytical P
 | _Measures_|Optional| **Variant**|An array of unique names of measures that are to be part of the slice.|
 | _Levels_|Optional| **Variant**|An array of strings. Each array item is a unique level name. It represents the lowest level of a hierarchy that is in the slice.|
 | _Members_|Optional| **Variant**|An array of string arrays. The elements correspond, in order, to the hierarchies represented in the  _Levels_ array. Each element is an array of string arrays that consists of the unique names of the top level members in the dimension that are to be included in the slice.|
-| _Properties_|Optional| **Variant**| **False** results in no member properties being included in the slice. The default value is **True** .|
+| _Properties_|Optional| **Variant**| **False** results in no member properties being included in the slice. The default value is **True**.|
 
 ## Return value
 
@@ -60,3 +61,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

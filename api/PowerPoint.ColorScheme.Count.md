@@ -1,23 +1,24 @@
 ---
-title: ColorScheme.Count Property (PowerPoint)
+title: ColorScheme.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorScheme.Count
 ms.assetid: 372e48be-db37-82a1-8bca-1ac71b6ae165
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorScheme.Count Property (PowerPoint)
+# ColorScheme.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
+_expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
 
 
 ## Return value
@@ -48,3 +49,4 @@ End With
 
 [ColorScheme Object](PowerPoint.ColorScheme.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

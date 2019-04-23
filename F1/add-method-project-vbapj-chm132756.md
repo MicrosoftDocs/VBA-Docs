@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4c2be664-a348-4b64-b361-73be247faf2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Timeline.Label Property (Project)](http://msdn.microsoft.com/library/8456d32e-c389-232a-2279-e7f73b4cd05e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

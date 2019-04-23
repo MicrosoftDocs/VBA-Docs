@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.CurrentPageName
 ms.assetid: cdf3be5e-d71b-af73-e65b-63075b78bfeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.CurrentPageName property (Excel)
 
-Returns or sets the currently displayed page of the specified PivotTable report. The name of the page appears in the page field. Note that this property works only if the currently displayed page already exists. Read/write  **String** .
+Returns or sets the currently displayed page of the specified PivotTable report. The name of the page appears in the page field. Note that this property works only if the currently displayed page already exists. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `CurrentPageName`
+_expression_. `CurrentPageName`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ActiveSheet.PivotTables("PivotTable1") _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

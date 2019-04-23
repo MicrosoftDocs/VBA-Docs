@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.Operator
 ms.assetid: 943fd9c1-30b2-d2aa-e9fe-f243af6b1292
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the operator for the conditional forma
 
 ## Syntax
 
- _expression_. `Operator`
+_expression_. `Operator`
 
- _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

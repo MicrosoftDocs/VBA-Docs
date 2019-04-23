@@ -1,5 +1,5 @@
 ---
-title: Slide.DisplayMasterShapes Property (PowerPoint)
+title: Slide.DisplayMasterShapes property (PowerPoint)
 keywords: vbapp10.chm531020
 f1_keywords:
 - vbapp10.chm531020
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.DisplayMasterShapes
 ms.assetid: 9a4a5146-e84d-b9fe-a837-0bcafa3fe61d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.DisplayMasterShapes Property (PowerPoint)
+# Slide.DisplayMasterShapes property (PowerPoint)
 
 Determines whether the specified slide displays the background objects on the slide master. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplayMasterShapes`
+_expression_. `DisplayMasterShapes`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **DisplayMasterShapes** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide does not display the background objects on the slide master.|
 |**msoTrue**| The specified slide displays the background objects on the slide master. These background objects can include text, drawings, OLE objects, and clip art you add to the slide master. Headers and footers aren't included.|
@@ -69,3 +70,4 @@ End With
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

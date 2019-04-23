@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyBorders Property (Word)
+title: Options.AutoFormatAsYouTypeApplyBorders property (Word)
 keywords: vbawd10.chm162988293
 f1_keywords:
 - vbawd10.chm162988293
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyBorders
 ms.assetid: 6600f044-10a7-9cc6-51d2-63c73d158219
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyBorders Property (Word)
+# Options.AutoFormatAsYouTypeApplyBorders property (Word)
 
- **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean** .
+ **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyBorders`
+_expression_. `AutoFormatAsYouTypeApplyBorders`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -52,3 +53,4 @@ MsgBox Options.AutoFormatAsYouTypeApplyBorders
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

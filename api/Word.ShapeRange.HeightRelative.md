@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HeightRelative Property (Word)
+title: ShapeRange.HeightRelative property (Word)
 keywords: vbawd10.chm162857163
 f1_keywords:
 - vbawd10.chm162857163
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.HeightRelative
 ms.assetid: f0414af1-f09a-475d-5e96-bfe2ceab8901
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.HeightRelative Property (Word)
+# ShapeRange.HeightRelative property (Word)
 
 Returns or sets a  **Single** that represents the percentage of the target shape to which the range of shapes is sized. Read/write.
 
 
 ## Syntax
 
- _expression_. `HeightRelative`
+_expression_. `HeightRelative`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Use this property with the  **[RelativeVerticalSize](Word.ShapeRange.RelativeVer
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

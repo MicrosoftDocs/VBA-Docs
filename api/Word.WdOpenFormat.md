@@ -1,14 +1,15 @@
 ---
-title: WdOpenFormat Enumeration (Word)
+title: WdOpenFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOpenFormat
 ms.assetid: 48727357-ff8a-5516-9f45-09f0282ca89f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdOpenFormat Enumeration (Word)
+# WdOpenFormat enumeration (Word)
 
 Specifies the format to use when opening a document.
 
@@ -39,3 +40,4 @@ Specifies the format to use when opening a document.
 | **wdOpenFormatXMLTemplateMacroEnabled**|12|XML template format with macros enabled.|
 | **wdOpenFormatXMLTemplateMacroEnabledSerialized**|17 (&H11)|Open XML template format with macros enabled saved as a single XML file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

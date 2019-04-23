@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.RetentionPolicyName Property (Outlook)
+title: MeetingItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3561
 f1_keywords:
 - vbaol11.chm3561
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MeetingItem.RetentionPolicyName
 ms.assetid: a17f0781-f290-a2f8-10a9-af75b51e9a1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.RetentionPolicyName Property (Outlook)
+# MeetingItem.RetentionPolicyName property (Outlook)
 
 Returns a  **String** that specifies the name of the retention policy. Read-only.
 
 
 ## Syntax
 
- _expression_. `RetentionPolicyName`
+_expression_. `RetentionPolicyName`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

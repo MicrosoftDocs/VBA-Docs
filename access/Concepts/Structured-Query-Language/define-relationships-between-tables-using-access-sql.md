@@ -3,6 +3,7 @@ title: Define relationships between tables using Access SQL
 ms.prod: access
 ms.assetid: 24159c8a-c4ba-79a9-2490-007a82163f55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -133,4 +134,4 @@ UPDATE TABLE tblCustomers
 
 Note that when you execute the **[UPDATE TABLE](../../../api/overview/Access.md)** statement, you receive a message indicating that the update did not succeed because it violated the check constraint. If you update the CustomerLimit field to a value that is equal to or less than 100, the update will succeed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.Save Method (Word)
+title: Document.Save method (Word)
 keywords: vbawd10.chm158007404
 f1_keywords:
 - vbawd10.chm158007404
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Save
 ms.assetid: 7e329abc-0530-7016-7712-687de2c780a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Save Method (Word)
+# Document.Save method (Word)
 
 Saves the specified document.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
  
 **Parameters:**
 
@@ -63,3 +64,4 @@ Documents.Save NoPrompt:=True, _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

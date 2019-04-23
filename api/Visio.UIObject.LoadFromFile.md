@@ -1,5 +1,5 @@
 ---
-title: UIObject.LoadFromFile Method (Visio)
+title: UIObject.LoadFromFile method (Visio)
 keywords: vis_sdr.chm14916390
 f1_keywords:
 - vis_sdr.chm14916390
@@ -8,17 +8,18 @@ api_name:
 - Visio.UIObject.LoadFromFile
 ms.assetid: 6a4ef6d5-9a3a-771b-be87-bc5f21bce4e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UIObject.LoadFromFile Method (Visio)
+# UIObject.LoadFromFile method (Visio)
 
 Loads a Microsoft Visio application  **UIObject** object from a file.
 
 
 ## Syntax
 
- _expression_. `LoadFromFile`( `_FileName_` )
+_expression_. `LoadFromFile`( `_FileName_` )
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
@@ -76,4 +77,4 @@ Public Sub LoadFromFile_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

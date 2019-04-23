@@ -1,5 +1,5 @@
 ---
-title: TaskItem.LastModificationTime Property (Outlook)
+title: TaskItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1699
 f1_keywords:
 - vbaol11.chm1699
@@ -8,24 +8,25 @@ api_name:
 - Outlook.TaskItem.LastModificationTime
 ms.assetid: d59018c1-2d32-9081-9e65-8a4627c62ab4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.LastModificationTime Property (Outlook)
+# TaskItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

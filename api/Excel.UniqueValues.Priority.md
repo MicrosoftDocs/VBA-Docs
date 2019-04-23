@@ -8,6 +8,7 @@ api_name:
 - Excel.UniqueValues.Priority
 ms.assetid: c966b2b0-76ed-4ff4-0abc-950ffc7209e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_.**Priority**
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

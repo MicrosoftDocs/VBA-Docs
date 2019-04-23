@@ -1,5 +1,5 @@
 ---
-title: TextRange.Paragraphs Method (PowerPoint)
+title: TextRange.Paragraphs method (PowerPoint)
 keywords: vbapp10.chm569010
 f1_keywords:
 - vbapp10.chm569010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Paragraphs
 ms.assetid: 5062eccf-4db2-692f-501e-b7d214181171
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Paragraphs Method (PowerPoint)
+# TextRange.Paragraphs method (PowerPoint)
 
 Returns a  **TextRange** object that represents the specified subset of text paragraphs.
 
 
 ## Syntax
 
- _expression_. `Paragraphs`( `_Start_`, `_Length_` )
+_expression_. `Paragraphs`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -69,3 +70,4 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

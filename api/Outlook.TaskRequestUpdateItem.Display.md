@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Display Method (Outlook)
+title: TaskRequestUpdateItem.Display method (Outlook)
 keywords: vbaol11.chm1950
 f1_keywords:
 - vbaol11.chm1950
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestUpdateItem.Display
 ms.assetid: d91b4860-12f5-b898-9717-b4fddfaee49f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Display Method (Outlook)
+# TaskRequestUpdateItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

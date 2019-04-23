@@ -1,5 +1,5 @@
 ---
-title: RTD.RefreshData Method (Excel)
+title: RTD.RefreshData method (Excel)
 keywords: vbaxl10.chm728074
 f1_keywords:
 - vbaxl10.chm728074
@@ -8,19 +8,20 @@ api_name:
 - Excel.RTD.RefreshData
 ms.assetid: fa2ddf47-1821-25b6-fcd9-b42853c2689a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RTD.RefreshData Method (Excel)
+# RTD.RefreshData method (Excel)
 
 Requests an update of real-time data from the real-time data server.
 
 
 ## Syntax
 
- _expression_. `RefreshData`
+_expression_. `RefreshData`
 
- _expression_ A variable that represents a [RTD](Excel.RTD.md) object.
+_expression_ A variable that represents a [RTD](Excel.RTD.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Avoid using the  **RefreshData** method in user-defined functions because this m
 
 [RTD Object](Excel.RTD.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

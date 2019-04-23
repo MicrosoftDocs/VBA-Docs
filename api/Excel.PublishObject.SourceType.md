@@ -8,6 +8,7 @@ api_name:
 - Excel.PublishObject.SourceType
 ms.assetid: 4d22915d-c5a3-c06f-85dc-3c6394644cec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[XlSourceType](Excel.XlSourceType.md)** value that represents the t
 
 ## Syntax
 
- _expression_. `SourceType`
+_expression_. `SourceType`
 
- _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
 
 
 ## Example
 
-This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
+This example determines the unique name of the first chart (in the first workbook) saved as a web page, and then it sets the  **Boolean** variable `blnChartFound` to **True**. If no items in the document have been saved as Chart components, `blnChartFound` is **False**.
 
 
 ```vb
@@ -45,3 +46,4 @@ Next objPO
 
 [PublishObject Object](Excel.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

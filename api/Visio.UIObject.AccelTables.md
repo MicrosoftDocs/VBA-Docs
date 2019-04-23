@@ -1,5 +1,5 @@
 ---
-title: UIObject.AccelTables Property (Visio)
+title: UIObject.AccelTables property (Visio)
 keywords: vis_sdr.chm14913005
 f1_keywords:
 - vis_sdr.chm14913005
@@ -8,17 +8,18 @@ api_name:
 - Visio.UIObject.AccelTables
 ms.assetid: 01cdfc77-47b3-b160-fbaa-9e7d615abff2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UIObject.AccelTables Property (Visio)
+# UIObject.AccelTables property (Visio)
 
 Returns the  **AccelTables** collection of a **UIObject** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `AccelTables`
+_expression_. `AccelTables`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
@@ -92,4 +93,4 @@ Public Sub AccelTables_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

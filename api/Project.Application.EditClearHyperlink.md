@@ -1,5 +1,5 @@
 ---
-title: Application.EditClearHyperlink Method (Project)
+title: Application.EditClearHyperlink method (Project)
 keywords: vbapj.chm1316
 f1_keywords:
 - vbapj.chm1316
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EditClearHyperlink
 ms.assetid: 386e9e73-5c65-0baf-2125-4dbb50675eb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EditClearHyperlink Method (Project)
+# Application.EditClearHyperlink method (Project)
 
 Clears the Hyperlink, Hyperlink Address, Hyperlink SubAddress, and HyperlinkHREF fields of the selected assignment, resource, or task.
 
 
 ## Syntax
 
- _expression_. `EditClearHyperlink`
+_expression_. `EditClearHyperlink`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -45,4 +46,4 @@ Sub EditClear_Hyperlink()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

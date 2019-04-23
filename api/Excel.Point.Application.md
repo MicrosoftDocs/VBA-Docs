@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.Application
 ms.assetid: 66d3f58a-59c8-0556-eb38-72a87492b4e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

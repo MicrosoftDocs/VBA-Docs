@@ -8,6 +8,7 @@ api_name:
 - Excel.TextFrame.VerticalOverflow
 ms.assetid: a516ed25-e555-e00b-1a0f-61a5ac5954af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the vertical overflow setting for the specified object. Read/wri
 
 ## Syntax
 
- _expression_. `VerticalOverflow`
+_expression_. `VerticalOverflow`
 
- _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets the vertical overflow setting for the specified object. Read/wri
 
 ## Remarks
 
-This property only has an effect when the  **[AutoSize](Excel.TextFrame.AutoSize.md)** property is **False** .
+This property only has an effect when the  **[AutoSize](Excel.TextFrame.AutoSize.md)** property is **False**.
 
 
 ## See also
@@ -38,3 +39,4 @@ This property only has an effect when the  **[AutoSize](Excel.TextFrame.AutoSize
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

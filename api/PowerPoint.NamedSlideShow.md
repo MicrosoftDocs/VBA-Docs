@@ -1,5 +1,5 @@
 ---
-title: NamedSlideShow Object (PowerPoint)
+title: NamedSlideShow object (PowerPoint)
 keywords: vbapp10.chm516000
 f1_keywords:
 - vbapp10.chm516000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.NamedSlideShow
 ms.assetid: 2f5ddeeb-ecf5-50da-99b9-b38e789fd5bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NamedSlideShow Object (PowerPoint)
+# NamedSlideShow object (PowerPoint)
 
 Represents a custom slide show, which is a named subset of slides in a presentation. 
 
@@ -51,3 +52,4 @@ Next
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

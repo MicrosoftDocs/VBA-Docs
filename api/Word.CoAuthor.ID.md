@@ -1,5 +1,5 @@
 ---
-title: CoAuthor.ID Property (Word)
+title: CoAuthor.ID property (Word)
 keywords: vbawd10.chm81068033
 f1_keywords:
 - vbawd10.chm81068033
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthor.ID
 ms.assetid: a3118c4d-c4c7-9084-3182-8a449f32b020
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthor.ID Property (Word)
+# CoAuthor.ID property (Word)
 
 Returns a  **String** that specifies a unique identifier for the specified author. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ An expression that returns a [CoAuthor](./Word.CoAuthor.md) object.
 
@@ -51,3 +52,4 @@ Next coAuth
 
 [CoAuthor Object](Word.CoAuthor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

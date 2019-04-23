@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.TabRatio
 ms.assetid: 41033d2d-9967-3990-b739-61c0649c24f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.TabRatio property (Excel)
 
-Returns or sets the ratio of the width of the workbook's tab area to the width of the window's horizontal scroll bar (as a number between 0 (zero) and 1; the default value is 0.6). Read/write  **Double** .
+Returns or sets the ratio of the width of the workbook's tab area to the width of the window's horizontal scroll bar (as a number between 0 (zero) and 1; the default value is 0.6). Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `TabRatio`
+_expression_. `TabRatio`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveWindow.TabRatio = 0.5
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

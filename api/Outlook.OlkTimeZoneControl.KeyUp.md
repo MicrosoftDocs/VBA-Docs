@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.KeyUp Event (Outlook)
+title: OlkTimeZoneControl.KeyUp event (Outlook)
 keywords: vbaol11.chm1000525
 f1_keywords:
 - vbaol11.chm1000525
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTimeZoneControl.KeyUp
 ms.assetid: 06869fbe-73dc-fd0f-0a6f-59505e0e80f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.KeyUp Event (Outlook)
+# OlkTimeZoneControl.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
 
 ## Syntax
 
- _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

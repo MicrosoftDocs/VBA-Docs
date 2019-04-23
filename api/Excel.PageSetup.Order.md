@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.Order
 ms.assetid: cb39c83a-3ab2-cab9-531c-762db4ab6770
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlOrder](Excel.XlOrder.md)** value that represents the ord
 
 ## Syntax
 
- _expression_. `Order`
+_expression_. `Order`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").PageSetup.Order = xlOverThenDown
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: PayRates.Count Property (Project)
+title: PayRates.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRates.Count
 ms.assetid: 8ce675fe-ace2-b509-05dd-476c0d228bc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PayRates.Count Property (Project)
+# PayRates.Count property (Project)
 
 Gets the number of items in the  **PayRates** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a 'PayRates' object.
 
@@ -90,3 +91,5 @@ End Sub
 
 
 [PayRates Collection Object](Project.payrates.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Frame.ForeColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d21cbb7e-4a3b-33fc-00dd-61248f52a205
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the foreground color of an object. Re
 
 ## Syntax
 
- _expression_. **ForeColor**
+_expression_.**ForeColor**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ Use the  **ForeColor** property for controls on forms to make them easy to read 
 
 The  **ForeColor** changes the color of the caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

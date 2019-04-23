@@ -1,5 +1,5 @@
 ---
-title: Axis.HasTitle Property (Word)
+title: Axis.HasTitle property (Word)
 keywords: vbawd10.chm113049615
 f1_keywords:
 - vbawd10.chm113049615
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.HasTitle
 ms.assetid: fc221c17-bdaf-a6af-b3dd-58ebd681a955
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.HasTitle Property (Word)
+# Axis.HasTitle property (Word)
 
- **True** if the axis or chart has a visible title. Read/write **Boolean** .
+ **True** if the axis or chart has a visible title. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasTitle`
+_expression_.**HasTitle**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

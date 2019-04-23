@@ -1,14 +1,15 @@
 ---
-title: OutlineCode Object (Project)
+title: OutlineCode object (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode
 ms.assetid: 8f75bdd3-ed5b-ed0f-9c3c-85af3a21580c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlineCode Object (Project)
+# OutlineCode object (Project)
 
 
  
@@ -89,7 +90,7 @@ An outline code is a type of local custom field that has a hierarchical text loo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.OutlineCode.Delete.md)|
 
@@ -97,7 +98,7 @@ An outline code is a type of local custom field that has a hierarchical text loo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.OutlineCode.Application.md)|
 |[CodeMask](Project.OutlineCode.CodeMask.md)|
@@ -115,3 +116,4 @@ An outline code is a type of local custom field that has a hierarchical text loo
 |[RequiredCode](Project.OutlineCode.RequiredCode.md)|
 |[SortOrder](Project.OutlineCode.SortOrder.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

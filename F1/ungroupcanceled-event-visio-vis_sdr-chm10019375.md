@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a06691cb-bea0-4b02-81b4-a3ca3c3ca3b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.UngroupCanceled Event (Visio)](http://msdn.microsoft.com/library/6b42a73e-d913-0293-36c8-e8144d7a4999%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

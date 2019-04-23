@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddFillIn Method (Word)
+title: MailMergeFields.AddFillIn method (Word)
 keywords: vbawd10.chm153026663
 f1_keywords:
 - vbawd10.chm153026663
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.AddFillIn
 ms.assetid: aefd78e5-3439-473c-1b9b-7f58a3a45d55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.AddFillIn Method (Word)
+# MailMergeFields.AddFillIn method (Word)
 
 Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField** object.
 
 
 ## Syntax
 
- _expression_. `AddFillIn`( `_Range_` , `_Prompt_` , `_DefaultFillInText_` , `_AskOnce_` )
+_expression_. `AddFillIn`( `_Range_` , `_Prompt_` , `_DefaultFillInText_` , `_AskOnce_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters
@@ -32,7 +33,7 @@ Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField**
 | _Range_|Required| **Range object**|The location for the FILLIN field.|
 | _Prompt_|Optional| **Variant**|The text that's displayed in the dialog box.|
 | _DefaultFillinText_|Optional| **Variant**|The default response, which appears in the text box when the dialog box is displayed. Corresponds to the \d switch for an FILLIN field.|
-| _AskOnce_|Optional| **Variant**| **True** to display the prompt only once instead of each time a new record is merged. Corresponds to the \o switch for a FILLIN field. The default value is **False** .|
+| _AskOnce_|Optional| **Variant**| **True** to display the prompt only once instead of each time a new record is merged. Corresponds to the \o switch for a FILLIN field. The default value is **False**.|
 
 ## Return value
 
@@ -65,3 +66,4 @@ ActiveDocument.MailMerge.Fields.AddFillin Range:=Selection.Range, _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

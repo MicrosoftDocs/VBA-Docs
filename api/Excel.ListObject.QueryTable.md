@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.QueryTable
 ms.assetid: fe019d61-654a-9c87-0bf4-30590a1274ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[QueryTable](Excel.QueryTable.md)** object that provides a link f
 
 ## Syntax
 
- _expression_. `QueryTable`
+_expression_. `QueryTable`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example
@@ -57,3 +58,4 @@ Dim wrksht As Worksheet
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

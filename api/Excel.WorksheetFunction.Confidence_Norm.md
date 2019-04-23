@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Confidence_Norm Method (Excel)
+title: WorksheetFunction.Confidence_Norm method (Excel)
 keywords: vbaxl10.chm137359
 f1_keywords:
 - vbaxl10.chm137359
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Confidence_Norm
 ms.assetid: a4e212e8-04c3-05c1-027d-4cfe5ca92810
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Confidence_Norm Method (Excel)
+# WorksheetFunction.Confidence_Norm method (Excel)
 
 Returns a value that you can use to construct a confidence interval for a population mean.
 
 
 ## Syntax
 
- _expression_. `Confidence_Norm`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Confidence_Norm`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ The confidence interval is a range of values. Your sample mean, x , is at the ce
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

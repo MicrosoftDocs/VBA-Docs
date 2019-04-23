@@ -1,5 +1,5 @@
 ---
-title: Document.Redo Method (Publisher)
+title: Document.Redo method (Publisher)
 keywords: vbapb10.chm196708
 f1_keywords:
 - vbapb10.chm196708
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Redo
 ms.assetid: 4b76aeaa-77f7-5f22-ff80-77479b0f0702
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Redo Method (Publisher)
+# Document.Redo method (Publisher)
 
-Redoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Redo** button on the **Standard** toolbar. Calling this method reverses the ** [Undo Method](Publisher.Document.Undo(method).md)** method.
+Redoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Redo** button on the **Standard** toolbar. Calling this method reverses the **[Undo Method](Publisher.Document.Undo(method).md)** method.
 
 
 ## Syntax
 
- _expression_. **Redo**(**_Count_**)
+_expression_.**Redo**(**_Count_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -96,4 +97,4 @@ With theDoc
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CellRange Object (Publisher)
+title: CellRange object (Publisher)
 keywords: vbapb10.chm5242879
 f1_keywords:
 - vbapb10.chm5242879
@@ -8,10 +8,11 @@ api_name:
 - Publisher.CellRange
 ms.assetid: 86e164f3-2a04-013f-3da8-d45c013eae7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellRange Object (Publisher)
+# CellRange object (Publisher)
 
 A collection of  **[Cell](Publisher.Cell.md)** objects in a table column or row. The **CellRange** collection represents all the cells in the specified column or row.
  
@@ -64,7 +65,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.CellRange.Item.md)|
 |[Merge](Publisher.CellRange.Merge.md)|
@@ -74,7 +75,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CellRange.Application.md)|
 |[Column](Publisher.CellRange.Column.md)|
@@ -84,3 +85,4 @@ End Sub
 |[Row](Publisher.CellRange.Row.md)|
 |[Width](Publisher.CellRange.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

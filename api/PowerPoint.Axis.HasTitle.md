@@ -1,5 +1,5 @@
 ---
-title: Axis.HasTitle Property (PowerPoint)
+title: Axis.HasTitle property (PowerPoint)
 keywords: vbapp10.chm682010
 f1_keywords:
 - vbapp10.chm682010
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.HasTitle
 ms.assetid: 04f9e10a-f323-a905-e09c-e9bb3222a80c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.HasTitle Property (PowerPoint)
+# Axis.HasTitle property (PowerPoint)
 
  **True** if the axis or chart has a visible title. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasTitle`
+_expression_.**HasTitle**
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
@@ -64,3 +65,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

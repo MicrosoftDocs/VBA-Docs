@@ -1,14 +1,15 @@
 ---
-title: WdSectionStart Enumeration (Word)
+title: WdSectionStart enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSectionStart
 ms.assetid: fe5dcc5b-c7ac-85bd-0a2d-f3318d1d9015
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSectionStart Enumeration (Word)
+# WdSectionStart enumeration (Word)
 
 Specifies the type of section break for the specified item.
 
@@ -22,3 +23,4 @@ Specifies the type of section break for the specified item.
 | **wdSectionNewPage**|2|New page section break.|
 | **wdSectionOddPage**|4|Odd pages section break.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

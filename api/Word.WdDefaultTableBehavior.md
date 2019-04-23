@@ -1,14 +1,15 @@
 ---
-title: WdDefaultTableBehavior Enumeration (Word)
+title: WdDefaultTableBehavior enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDefaultTableBehavior
 ms.assetid: 01f55246-0cc1-4812-8e81-bef184c244d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdDefaultTableBehavior Enumeration (Word)
+# WdDefaultTableBehavior enumeration (Word)
 
 Specifies whether Microsoft Word automatically resizes cells in a table to fit the contents (AutoFit).
 
@@ -19,3 +20,4 @@ Specifies whether Microsoft Word automatically resizes cells in a table to fit t
 | **wdWord8TableBehavior**|0|Disables AutoFit. Default.|
 | **wdWord9TableBehavior**|1|Enables AutoFit.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

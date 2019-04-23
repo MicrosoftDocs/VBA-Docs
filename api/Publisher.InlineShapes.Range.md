@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Range Property (Publisher)
+title: InlineShapes.Range property (Publisher)
 keywords: vbapb10.chm5767173
 f1_keywords:
 - vbapb10.chm5767173
@@ -8,17 +8,18 @@ api_name:
 - Publisher.InlineShapes.Range
 ms.assetid: 375843c1-5198-6981-2e7c-8abd1d0e9dff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShapes.Range Property (Publisher)
+# InlineShapes.Range property (Publisher)
 
 Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents the same set of inline shapes as the **InlineShapes** collection whose method was called. This allows for miscellaneous formatting of the contained shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. **Range**(**_Index_**)
+_expression_.**Range**(**_Index_**)
 
  _expression_ A variable that represents an  **InlineShapes** object.
 
@@ -49,4 +50,4 @@ For Each theShape In theShapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

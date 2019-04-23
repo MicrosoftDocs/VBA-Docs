@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 4af4d98a-d7a7-c224-a717-a53ebe9cf5a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,5 +37,5 @@ For more information about good security design practices and technologies, sear
 - To learn more about Visio add-ons and COM add-ins, see the MSDN article,  [Overview of Add-ons and COM Add-ins in Visio 2007](https://msdn.microsoft.com/library/bb851468.aspx).
     
 - To learn more about the RUNADDON function and the  **AddonName** property, see the MSDN article [Changes in the RUNADDON Function and the AddOnName Property for Visio 2002](https://msdn.microsoft.com/library/aa140368%28office.10%29.aspx).
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

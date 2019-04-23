@@ -1,5 +1,5 @@
 ---
-title: Items.ItemChange Event (Outlook)
+title: Items.ItemChange event (Outlook)
 keywords: vbaol11.chm315
 f1_keywords:
 - vbaol11.chm315
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Items.ItemChange
 ms.assetid: 6478357e-2a5a-300a-24e6-c125f8c81edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.ItemChange Event (Outlook)
+# Items.ItemChange event (Outlook)
 
 Occurs when an item in the specified collection is changed. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
 
 ## Syntax
 
- _expression_. `ItemChange`( `_Item_` )
+_expression_. `ItemChange`( `_Item_` )
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Occurs when an item in the specified collection is changed. This event is not av
 
 ## Example
 
-This example uses the  **[Start](Outlook.AppointmentItem.Start.md)** property of the **[AppointmentItem](Outlook.AppointmentItem.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](Outlook.AppointmentItem.Sensitivity.md)** property of the **AppointmentItem** object is not already set to **olPrivate** , the example offers to mark the appointment as private.
+This example uses the  **[Start](Outlook.AppointmentItem.Start.md)** property of the **[AppointmentItem](Outlook.AppointmentItem.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](Outlook.AppointmentItem.Sensitivity.md)** property of the **AppointmentItem** object is not already set to **olPrivate**, the example offers to mark the appointment as private.
 
 
 ```vb
@@ -76,3 +77,4 @@ End Sub
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.FirstLetterAutoAdd Property (Word)
+title: AutoCorrect.FirstLetterAutoAdd property (Word)
 keywords: vbawd10.chm155779080
 f1_keywords:
 - vbawd10.chm155779080
@@ -8,17 +8,18 @@ api_name:
 - Word.AutoCorrect.FirstLetterAutoAdd
 ms.assetid: 17f51d86-405a-7188-eb8c-bfde5bdb386c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrect.FirstLetterAutoAdd Property (Word)
+# AutoCorrect.FirstLetterAutoAdd property (Word)
 
- **True** if Word automatically adds abbreviations to the list of AutoCorrect First Letter exceptions. Read/write **Boolean** .
+ **True** if Word automatically adds abbreviations to the list of AutoCorrect First Letter exceptions. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `FirstLetterAutoAdd`
+_expression_. `FirstLetterAutoAdd`
 
  _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
@@ -43,3 +44,4 @@ AutoCorrect.FirstLetterAutoAdd = False
 
 [AutoCorrect Object](Word.AutoCorrect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

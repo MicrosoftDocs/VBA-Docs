@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: bf39448d-5095-63dd-9b22-bbc3aa1391e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ To add controls to a user form, find the control you want to add in the **Toolbo
 
 After you added controls to the form, use the commands on the **Format** menu in the Visual Basic Editor to adjust the control alignment and spacing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

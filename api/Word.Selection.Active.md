@@ -1,5 +1,5 @@
 ---
-title: Selection.Active Property (Word)
+title: Selection.Active property (Word)
 keywords: vbawd10.chm158663059
 f1_keywords:
 - vbawd10.chm158663059
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Active
 ms.assetid: a279837e-8ae7-24ec-71f0-de82c5a33ad8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Active Property (Word)
+# Selection.Active property (Word)
 
- **True** if the selection in the specified window or pane is active. Read-only **Boolean** .
+ **True** if the selection in the specified window or pane is active. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_.**Active**
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End Sub
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

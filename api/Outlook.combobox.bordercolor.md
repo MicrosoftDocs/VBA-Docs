@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 53a883aa-e488-a1d9-ef18-7afb1c046869
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that specifies the border color of an object. Read/w
 
 ## Syntax
 
- _expression_. **BorderColor**
+_expression_.**BorderColor**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -34,4 +35,4 @@ To use the  **BorderColor** property, the **[BorderStyle](Outlook.combobox.borde
 
  **BorderStyle** uses **BorderColor** to define the border colors. The **[SpecialEffect](Outlook.combobox.specialeffect.md)** property uses system colors exclusively to define its border colors. For Windows operating systems, system color settings are set using the **Display** icon in **Control Panel**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

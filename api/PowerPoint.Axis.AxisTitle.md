@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisTitle Property (PowerPoint)
+title: Axis.AxisTitle property (PowerPoint)
 keywords: vbapp10.chm682003
 f1_keywords:
 - vbapp10.chm682003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.AxisTitle
 ms.assetid: c1063cf8-3aa2-ea39-ea2d-33a7c63b77d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.AxisTitle Property (PowerPoint)
+# Axis.AxisTitle property (PowerPoint)
 
 Returns the title of the specified axis. Read-only  **[AxisTitle](PowerPoint.AxisTitle.md)**.
 
 
 ## Syntax
 
- _expression_. `AxisTitle`
+_expression_.**AxisTitle**
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

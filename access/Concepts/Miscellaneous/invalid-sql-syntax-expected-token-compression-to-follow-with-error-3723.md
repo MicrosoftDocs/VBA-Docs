@@ -3,6 +3,7 @@ title: "Invalid SQL Syntax: expected token: COMPRESSION to follow WITH (Error 37
 ms.prod: access
 ms.assetid: 6d63cc77-dbcf-302d-6957-1439f18dceeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This error occurs when using CREATE TABLE or ALTER TABLE ALTER COLUMN syntax. It
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

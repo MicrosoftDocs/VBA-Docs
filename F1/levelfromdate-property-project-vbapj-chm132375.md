@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 599155b6-7500-42fe-a592-1f79674a3b18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Milestone Property (Project)](http://msdn.microsoft.com/library/246b3d92-43d7-850b-ab7c-8c314ca42aa9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

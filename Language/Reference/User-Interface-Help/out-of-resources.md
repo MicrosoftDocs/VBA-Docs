@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e072df25-75b2-4537-3ede-c5406415bee3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Certain types of resources called "handles" are used internally for many operati
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

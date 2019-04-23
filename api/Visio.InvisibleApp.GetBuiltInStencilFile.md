@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.GetBuiltInStencilFile Method (Visio)
+title: InvisibleApp.GetBuiltInStencilFile method (Visio)
 keywords: vis_sdr.chm17562110
 f1_keywords:
 - vis_sdr.chm17562110
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.GetBuiltInStencilFile
 ms.assetid: 2f8e28a9-67bd-31fd-25f1-f684dfeeeca8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.GetBuiltInStencilFile Method (Visio)
+# InvisibleApp.GetBuiltInStencilFile method (Visio)
 
 Returns the file path to the specified built-in, hidden stencil used to populate certain galleries in the Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
+_expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
@@ -43,7 +44,7 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the  **Backgrounds** gallery (**Design** tab).|
 | **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the  **Borders and Titles** gallery (**Design** tab).|
@@ -51,3 +52,4 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 | **visBuiltInStencilCallouts**|3|The hidden stencil that contains the shapes displayed in the  **Callout** gallery (**Insert** tab).|
 | **visBuiltInStencilLegends**|4|The hidden stencil that contains the shapes displayed in the  **Insert Legend** gallery (**Data** tab).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

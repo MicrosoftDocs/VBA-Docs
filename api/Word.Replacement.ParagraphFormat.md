@@ -1,5 +1,5 @@
 ---
-title: Replacement.ParagraphFormat Property (Word)
+title: Replacement.ParagraphFormat property (Word)
 keywords: vbawd10.chm162594827
 f1_keywords:
 - vbawd10.chm162594827
@@ -8,17 +8,18 @@ api_name:
 - Word.Replacement.ParagraphFormat
 ms.assetid: 0cb9410e-74c9-0fd2-377e-c045dc0274c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Replacement.ParagraphFormat Property (Word)
+# Replacement.ParagraphFormat property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified replacement operation. Read/write.
 
 
 ## Syntax
 
- _expression_. `ParagraphFormat`
+_expression_. `ParagraphFormat`
 
  _expression_ A variable that represents a '[Replacement](Word.Replacement.md)' object.
 
@@ -45,3 +46,4 @@ End With
 
 [Replacement Object](Word.Replacement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

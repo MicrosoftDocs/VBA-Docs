@@ -1,14 +1,15 @@
 ---
-title: PjProjectType Enumeration (Project)
+title: PjProjectType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjProjectType
 ms.assetid: 5344b92a-db82-1179-2fe0-365b96ed4d9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjProjectType Enumeration (Project)
+# PjProjectType enumeration (Project)
 
 Contains constants that specify the project type.
 
@@ -30,4 +31,4 @@ Contains constants that specify the project type.
 
 The [Project.Type](Project.Project.Type.md) property is a **PjProjectType** value.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

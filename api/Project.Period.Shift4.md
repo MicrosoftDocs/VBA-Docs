@@ -1,21 +1,22 @@
 ---
-title: Period.Shift4 Property (Project)
+title: Period.Shift4 property (Project)
 ms.prod: project-server
 api_name:
 - Project.Period.Shift4
 ms.assetid: 64494509-b5dd-2ee3-b933-6a728c50444d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Period.Shift4 Property (Project)
+# Period.Shift4 property (Project)
 
 Gets a  **[Shift](Project.Shift.md)** object representing the fourth work shift in a time period. Read-only **Shift**.
 
 
 ## Syntax
 
- _expression_. `Shift4`
+_expression_. `Shift4`
 
  _expression_ A variable that represents a [Period](./Project.Period.md) object.
 
@@ -38,4 +39,4 @@ Sub HalfDayFridays()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

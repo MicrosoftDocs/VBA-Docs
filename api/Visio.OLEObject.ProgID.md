@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ProgID Property (Visio)
+title: OLEObject.ProgID property (Visio)
 keywords: vis_sdr.chm15214160
 f1_keywords:
 - vis_sdr.chm15214160
@@ -8,17 +8,18 @@ api_name:
 - Visio.OLEObject.ProgID
 ms.assetid: 694ae7e0-7bde-e3a2-8b04-21eae69c135a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEObject.ProgID Property (Visio)
+# OLEObject.ProgID property (Visio)
 
 Returns the programmatic identifier of a shape that represents an ActiveX control, an embedded object, or linked object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProgID`
+_expression_. `ProgID`
 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 
@@ -73,4 +74,4 @@ Public Sub ProgID_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

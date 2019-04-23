@@ -5,6 +5,7 @@ api_name:
 - Visio.ShapeIDToIndex
 ms.assetid: ffb4020a-cc45-f012-ee21-abd9805bf99f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the index in the collection of shapes of the shape with the specified ID in
 
 ## Syntax
 
- _expression_. **ShapeIDToIndex**(**_ShapeID_**)
+_expression_.**ShapeIDToIndex**(**_ShapeID_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -55,4 +56,4 @@ Next intCounter
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

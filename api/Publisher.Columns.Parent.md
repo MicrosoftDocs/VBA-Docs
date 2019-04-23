@@ -1,5 +1,5 @@
 ---
-title: Columns.Parent Property (Publisher)
+title: Columns.Parent property (Publisher)
 keywords: vbapb10.chm5046275
 f1_keywords:
 - vbapb10.chm5046275
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Columns.Parent
 ms.assetid: 735fc7b8-ca76-0573-d1fa-2b5dff156f6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Parent Property (Publisher)
+# Columns.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Columns** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

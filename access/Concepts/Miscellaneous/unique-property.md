@@ -9,6 +9,7 @@ api_name:
 - Access.Unique
 ms.assetid: 283e5d33-b281-150f-9766-6ecc0da6a09a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,7 +23,7 @@ You can use the Unique property to specify that an index enforces uniqueness of 
 
 The **Unique** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|The index is a key (unique) index.|
 |No|**False** (0)|The index is a non-key index.|
@@ -47,3 +48,5 @@ An index is the primary index for a table if its **Primary** property is set to 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

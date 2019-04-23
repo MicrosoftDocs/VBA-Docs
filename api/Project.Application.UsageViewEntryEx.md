@@ -1,5 +1,5 @@
 ---
-title: Application.UsageViewEntryEx Method (Project)
+title: Application.UsageViewEntryEx method (Project)
 keywords: vbapj.chm2163
 f1_keywords:
 - vbapj.chm2163
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.UsageViewEntryEx
 ms.assetid: 2aac9824-ab5c-006d-99d2-07e019e6409d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UsageViewEntryEx Method (Project)
+# Application.UsageViewEntryEx method (Project)
 
 Adds fields to the  **Details** pane and option menu for the Task Usage or Resource Usage views, and formats the styles to help distinguish detail rows.
 
 
 ## Syntax
 
- _expression_. `UsageViewEntryEx`( ` _CurIndex_`, ` _Order_`, ` _FontWord_`, ` _CellBackground_`, ` _Pattern_`, ` _Shortcut_`, ` _DisplayField_`, ` _FontColor_` )
+_expression_. `UsageViewEntryEx`( `_CurIndex_`, `_Order_`, `_FontWord_`, `_CellBackground_`, `_Pattern_`, `_Shortcut_`, `_DisplayField_`, `_FontColor_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -153,4 +154,4 @@ In the Task Usage view, the default field is  **Work**. The following statement 
 Application.UsageViewEntryEx Order:=11, CurIndex:=1, DisplayField:=True, FontColor:=&H10FF10
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

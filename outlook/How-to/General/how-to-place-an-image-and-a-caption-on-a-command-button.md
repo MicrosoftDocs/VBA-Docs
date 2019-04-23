@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f17ced22-bbab-87e0-ef3a-5450c55fa950
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Place an Image and a Caption on a Command Button
+# Place an Image and a Caption on a Command Button
 
 The following example uses a  **[ComboBox](../../../api/Outlook.combobox.md)** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **[CommandButton](../../../api/Outlook.commandbutton.md)**. This code sample also uses the  **[AddItem](../../../api/Outlook.combobox.additem.md)** method to populate the **ComboBox** choices.
 
@@ -137,4 +138,4 @@ Sub ComboBox1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

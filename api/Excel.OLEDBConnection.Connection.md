@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBConnection.Connection
 ms.assetid: 03b83f0e-1a16-f44e-0a89-27742b733e05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBConnection.Connection property (Excel)
 
-Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant** .
+Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Connection`
+_expression_. `Connection`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
@@ -62,3 +63,4 @@ End With
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

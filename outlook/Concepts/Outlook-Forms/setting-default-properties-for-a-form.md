@@ -3,6 +3,7 @@ title: Setting Default Properties for a Form
 ms.prod: outlook
 ms.assetid: dd3dd5c6-bc23-70d5-ae6c-b8a2bb4e9a66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,15 +21,15 @@ The following are the default properties for custom forms that have form pages:
     
 - **Sub-Category** You can further refine the category by specifying a sub-category.
     
-- **Always use Microsoft Word as the e-mail editor** Since Microsoft Office Outlook 2007, Outlook uses Microsoft Word as the e-mail editor. However, using Word as the editor is optional in earlier versions. If you create forms for users who use earlier versions of Outlook, you can use this option to specify Word as the editor for the message portion (or control) of your form. Users then have all the formatting options that are available with Word, such as the spell checker and thesaurus. For these options to be available, the recipients of your form must have Word installed.
+- **Always use Microsoft Word as the email editor** Since Microsoft Office Outlook 2007, Outlook uses Microsoft Word as the email editor. However, using Word as the editor is optional in earlier versions. If you create forms for users who use earlier versions of Outlook, you can use this option to specify Word as the editor for the message portion (or control) of your form. Users then have all the formatting options that are available with Word, such as the spell checker and thesaurus. For these options to be available, the recipients of your form must have Word installed.
     
   > [!NOTE] 
-  > This feature has not been changed from earlier versions of Microsoft Office. The code behind this option uses an older architecture for using Word as the e-mail editor and does not provide the same user experience with Word that clicking **Options** on the Microsoft Office Backstage view does. Solutions that you create for earlier versions using Word as the e-mail editor might not work, or might not work properly, in Office Outlook 2007 or a later version of Outlook.
+  > This feature has not been changed from earlier versions of Microsoft Office. The code behind this option uses an older architecture for using Word as the email editor and does not provide the same user experience with Word that clicking **Options** on the Microsoft Office Backstage view does. Solutions that you create for earlier versions using Word as the email editor might not work, or might not work properly, in Office Outlook 2007 or a later version of Outlook.
 
 - **Template** You can specify the Word template to use to format the text in the message control of the form.
     
   > [!NOTE] 
-  > Although Word is now the e-mail editor, this setting, as applicable to Outlook forms, is enabled only if you select the **Always use Microsoft Word as the e-mail editor** check box. If this check box is cleared, you cannot set templates.
+  > Although Word is now the email editor, this setting, as applicable to Outlook forms, is enabled only if you select the **Always use Microsoft Word as the email editor** check box. If this check box is cleared, you cannot set templates.
 
 - **Contact** When you click **Contact**, you can access the Address Book, where you can select the people who maintain, upgrade, or distribute information about this form. The contact information that you provide appears in the **Forms Manager** dialog box and the form **Properties** page.
     
@@ -49,10 +50,10 @@ The following are the default properties for custom forms that have form pages:
 
   Outlook does not run Microsoft Visual Basic Scripting Edition (VBScript) code if the form definition is included with the item. In most cases, it is better to publish a form instead of including the form definition with the item. If you do send the form with the item, you can re-enable the VBScript code if you use the Outlook custom security settings. In that case, if you send a form with this box checked, the recipients see a **Warning** dialog box, and they have the option to disable the macros because the form is not published. 
   
-  Harmful macros could delete or copy their files, or send e-mail messages from their mailbox to another user.If network or file transfer time is an issue, and you cannot publish the form for some reason, an alternative to sending the form definition is to save the form and send it as an attachment to another form. Recipients can take the attached form and publish it in their own forms library.
+  Harmful macros could delete or copy their files, or send email messages from their mailbox to another user.If network or file transfer time is an issue, and you cannot publish the form for some reason, an alternative to sending the form definition is to save the form and send it as an attachment to another form. Recipients can take the attached form and publish it in their own forms library.
     
 - **Use form only for responses** Hides a form when it is published to a forms library. This option is useful in situations when you create a form to use solely for replies. In another form, you can specify that your reply form will be used instead of the default reply form. To use your form only for responses, select the **Use form only for responses** check box, and then [publish your form](../Customizing-Forms/publish-a-form.md). 
 
   Open a second form in design mode. On the **Actions** page of the second form, you can specify your published form in the **Reply** or **Reply to All** action. To use your form as the default reply form, double-click the **Reply** action in the second form. You can select the name of your published reply form in the **Form name** field of the **Form Action Properties** dialog box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

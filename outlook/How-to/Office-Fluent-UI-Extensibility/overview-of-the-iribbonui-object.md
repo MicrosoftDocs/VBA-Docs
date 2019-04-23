@@ -3,6 +3,7 @@ title: Overview of the IRibbonUI Object
 ms.prod: outlook
 ms.assetid: ef273431-550f-4ff6-b964-79d05b09bea5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,4 @@ To minimize the impact on performance, use the  **InvalidateControl** method ins
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

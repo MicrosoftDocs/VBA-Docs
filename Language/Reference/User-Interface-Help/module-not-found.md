@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bd966ba5-606c-dd48-7b2c-f27ca8e5fcee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ ms.date: 06/08/2017
 
 
 - The requested module doesn't exist in the specified project. For example, the statement  `MyModule.SomeVar = 5` generates this error when `MyModule` isn't visible in the project `MyProject`. See your [host application](../../Glossary/vbe-glossary.md#host-application) documentation for information on including the module in the project.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

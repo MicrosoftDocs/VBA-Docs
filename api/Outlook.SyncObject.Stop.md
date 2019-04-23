@@ -1,5 +1,5 @@
 ---
-title: SyncObject.Stop Method (Outlook)
+title: SyncObject.Stop method (Outlook)
 keywords: vbaol11.chm109
 f1_keywords:
 - vbaol11.chm109
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SyncObject.Stop
 ms.assetid: ce74230f-6da7-953e-5a70-157900f4e84d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject.Stop Method (Outlook)
+# SyncObject.Stop method (Outlook)
 
 Immediately ends synchronizing a user's folders using the specified  **Send/Receive** group.
 
 
 ## Syntax
 
- _expression_. `Stop`
+_expression_. `Stop`
 
- _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Remarks
@@ -64,3 +65,4 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

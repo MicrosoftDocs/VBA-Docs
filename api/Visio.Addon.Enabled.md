@@ -1,5 +1,5 @@
 ---
-title: Addon.Enabled Property (Visio)
+title: Addon.Enabled property (Visio)
 keywords: vis_sdr.chm12413455
 f1_keywords:
 - vis_sdr.chm12413455
@@ -8,17 +8,18 @@ api_name:
 - Visio.Addon.Enabled
 ms.assetid: fcc719d3-7b1c-e356-6f92-7717ecea10df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Addon.Enabled Property (Visio)
+# Addon.Enabled property (Visio)
 
 Determines whether or not an  **Addon** object is currently enabled. Read/write.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_.**Enabled**
 
  _expression_ A variable that represents an [Addon](./Visio.Addon.md) object.
 
@@ -34,4 +35,4 @@ An add-on implemented by an executable (EXE) file always reports itself as enabl
 
 You cannot tell an add-on to enable or disable itself. Visio will not send a run message to a disabled add-on. If an add-on is disabled, its name appears unavailable in the Visio user interface.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

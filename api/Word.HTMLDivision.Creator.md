@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.Creator Property (Word)
+title: HTMLDivision.Creator property (Word)
 keywords: vbawd10.chm166134761
 f1_keywords:
 - vbawd10.chm166134761
@@ -8,19 +8,20 @@ api_name:
 - Word.HTMLDivision.Creator
 ms.assetid: e14fd8f7-bbb5-ad82-5ab9-a067f22006af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HTMLDivision.Creator Property (Word)
+# HTMLDivision.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
+_expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

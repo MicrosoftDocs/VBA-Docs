@@ -3,6 +3,7 @@ title: Filtering Items Using Query Keywords
 ms.prod: outlook
 ms.assetid: d7e6b169-c5fd-7acc-f077-658a153a921f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -44,7 +45,7 @@ You can combine the **Is Null** keywords with the **Not** operator to evaluate i
     
 The following DASL query retrieves all contacts where the custom property **Order Date** is not null and the **[CompanyName](../../../api/Outlook.ContactItem.CompanyName.md)** property is exactly Microsoft:
     
-```sql
+```vb
   criteria = "@SQL=" & "(NOT(" _ 
 & Chr(34) & "http://schemas.microsoft.com/mapi/string/" _ 
 & "{00020329-0000-0000-C000-000000000046}/Order%20Date" & Chr(34) _ 
@@ -52,7 +53,4 @@ The following DASL query retrieves all contacts where the custom property **Orde
 & Chr(34) _ & " = 'Microsoft')"
 ```
 
-
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

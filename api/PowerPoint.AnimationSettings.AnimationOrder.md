@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AnimationOrder Property (PowerPoint)
+title: AnimationSettings.AnimationOrder property (PowerPoint)
 keywords: vbapp10.chm565007
 f1_keywords:
 - vbapp10.chm565007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationSettings.AnimationOrder
 ms.assetid: 0a29fb35-1cd8-4d12-184e-1132494a0864
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationSettings.AnimationOrder Property (PowerPoint)
+# AnimationSettings.AnimationOrder property (PowerPoint)
 
 Returns or sets an integer that represents the position of the specified shape within the collection of shapes to be animated. Read/write.
 
 
 ## Syntax
 
- _expression_. `AnimationOrder`
+_expression_. `AnimationOrder`
 
- _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
+_expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ ActivePresentation.Slides(2).Shapes(2) _
 
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

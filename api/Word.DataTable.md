@@ -1,5 +1,5 @@
 ---
-title: DataTable Object (Word)
+title: DataTable object (Word)
 keywords: vbawd10.chm708
 f1_keywords:
 - vbawd10.chm708
@@ -8,10 +8,11 @@ api_name:
 - Word.DataTable
 ms.assetid: 4e6094ea-3d83-6ec0-9788-9d22b884beb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable Object (Word)
+# DataTable object (Word)
 
 Represents a chart data table.
 
@@ -34,6 +35,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

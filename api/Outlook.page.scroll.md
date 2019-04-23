@@ -3,6 +3,7 @@ title: Page.Scroll Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 19810ddc-70f9-aa60-0c8a-f2c9ab9ff51f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Moves the scroll bar on an object.
 
 ## Syntax
 
- _expression_. **Scroll**(**_xAction_**,  **_yAction_**)
+_expression_.**Scroll**(**_xAction_**,  **_yAction_**)
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ The settings for  _xAction_ and _yAction_ are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Do not scroll in the specified direction.|
 |1|Move up on a vertical scroll bar or left on a horizontal scroll bar. Movement is equivalent to pressing the up or left arrow key on the keyboard to move the scroll bar.|
@@ -45,4 +46,4 @@ The settings for  _xAction_ and _yAction_ are:
 
 The  **Scroll** method applies scroll bars that appear on a **[Page](Outlook.page.md)** that is larger than its display area. This method does not apply to the stand-alone **[ScrollBar](Outlook.scrollbar.md)** control or to scroll bars that appear on a **[TextBox](Outlook.textbox.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

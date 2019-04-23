@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.Creator Property (Word)
+title: LineNumbering.Creator property (Word)
 keywords: vbawd10.chm158467049
 f1_keywords:
 - vbawd10.chm158467049
@@ -8,19 +8,20 @@ api_name:
 - Word.LineNumbering.Creator
 ms.assetid: 701e2f58-272c-d24d-367a-a5db952ae106
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineNumbering.Creator Property (Word)
+# LineNumbering.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
+_expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LineNumbering Object](Word.LineNumbering.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

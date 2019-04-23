@@ -1,5 +1,5 @@
 ---
-title: Application.Browser Property (Word)
+title: Application.Browser property (Word)
 keywords: vbawd10.chm158334992
 f1_keywords:
 - vbawd10.chm158334992
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Browser
 ms.assetid: 79b1967d-e661-8953-7bb2-a35eadbfae54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Browser Property (Word)
+# Application.Browser property (Word)
 
 Returns a  **[Browser](Word.Browser.md)** object that represents the **Select Browse Object** tool on the vertical scroll bar. Read-only.
 
 
 ## Syntax
 
- _expression_. `Browser`
+_expression_. `Browser`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -59,3 +60,4 @@ End With
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

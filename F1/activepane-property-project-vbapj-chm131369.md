@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2f41d7bc-11a8-4a1c-b8cc-4d5baf2fa71b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.OpenXML Method (Project)](http://msdn.microsoft.com/library/dcf3dd0e-78ec-b95c-b890-dca5507acd92%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

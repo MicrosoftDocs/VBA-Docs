@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.XPath
 ms.assetid: 90a353d7-7222-b387-558a-044cb17f09b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,7 +21,7 @@ Returns an **[XPath](Excel.XPath.md)** object that represents the Xpath of the e
 
 _expression_. `XPath`
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ If the range selection is valid, but none of the cells are mapped, Excel returns
 
 - [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

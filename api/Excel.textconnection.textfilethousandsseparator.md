@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 0b111a50-0eef-3648-e1f6-114ed9256ed9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets the thousands separator character that Microsoft Excel uses when
 
 ## Syntax
 
- _expression_. `TextFileThousandsSeparator`
+_expression_. `TextFileThousandsSeparator`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns or sets the thousands separator character that Microsoft Excel uses when
 
 [TextConnection Object](Excel.textconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Title Property (Office)
+title: CustomTaskPane.Title property (Office)
 keywords: vbaof11.chm301001
 f1_keywords:
 - vbaof11.chm301001
@@ -7,20 +7,21 @@ ms.prod: office
 api_name:
 - Office.CustomTaskPane.Title
 ms.assetid: 34264525-5706-d3dd-2b73-ddf305eb4ad1
-ms.date: 06/08/2017
+ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 
-# CustomTaskPane.Title Property (Office)
+# CustomTaskPane.Title property (Office)
 
-Gets a  **String** representing the title of a **CustomTaskPane** object. Read-only.
+Gets a **String** representing the title of a **CustomTaskPane** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Title`
+_expression_.**Title**
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+_expression_ An expression that returns a **[CustomTaskPane](Office.CustomTaskPane.md)** object.
 
 
 ## Return value
@@ -35,10 +36,6 @@ This property is set once at creation.
 
 ## See also
 
+- [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
 
-[CustomTaskPane Object](Office.CustomTaskPane.md)
-
-
-
-[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

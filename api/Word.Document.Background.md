@@ -1,5 +1,5 @@
 ---
-title: Document.Background Property (Word)
+title: Document.Background property (Word)
 keywords: vbawd10.chm158007365
 f1_keywords:
 - vbawd10.chm158007365
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Background
 ms.assetid: 0425d9e6-1c26-3df7-bac6-6bc314a3ca47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Background Property (Word)
+# Document.Background property (Word)
 
 Returns a  **Shape** object that represents the background image for the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ ActiveDocument.Background.Fill.UserPicture _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

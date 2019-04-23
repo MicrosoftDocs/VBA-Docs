@@ -1,14 +1,15 @@
 ---
-title: Project Object (Project)
+title: Project object (Project)
 ms.prod: project-server
 api_name:
 - Project.Project
 ms.assetid: 855c1ad9-0e84-f274-9e0e-2424e7cab447
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project Object (Project)
+# Project object (Project)
 
 Represents one project in the set of open projects. The  **Project** object is a member of the **[Projects](Project.projects.md)** collection.
 
@@ -17,7 +18,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Project.Project.Activate(even).md)|
 |[BeforeClose](./Project.Project.BeforeClose.md)|
@@ -32,7 +33,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Project.Project.Activate(method).md)|
 |[AppendNotes](./Project.Project.AppendNotes.md)|
@@ -75,7 +76,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptNewExternalData](./Project.Project.AcceptNewExternalData.md)|
 |[AdministrativeProject](./Project.Project.AdministrativeProject.md)|
@@ -254,3 +255,4 @@ Represents one project in the set of open projects. The  **Project** object is a
 |[WriteReserved](./Project.Project.WriteReserved.md)|
 |[YearLabelDisplay](./Project.Project.YearLabelDisplay.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

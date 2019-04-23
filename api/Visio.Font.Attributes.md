@@ -1,5 +1,5 @@
 ---
-title: Font.Attributes Property (Visio)
+title: Font.Attributes property (Visio)
 keywords: vis_sdr.chm12013100
 f1_keywords:
 - vis_sdr.chm12013100
@@ -8,17 +8,18 @@ api_name:
 - Visio.Font.Attributes
 ms.assetid: 4d94e0d3-85a6-369f-5e04-83c9681c43c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Attributes Property (Visio)
+# Font.Attributes property (Visio)
 
 Returns the attributes of the a  **Font** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Attributes`
+_expression_. `Attributes`
 
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
@@ -40,4 +41,4 @@ When you get the  **Attributes** property of a **Font** object, the following va
 
 A font marked as the font 0 alias is used instead of font 0 (the default font). The font 0 alias is used in some localized versions of Microsoft Visio and is controlled by means of entries in the registry.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

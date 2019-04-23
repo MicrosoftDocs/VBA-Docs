@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfContents Property (Word)
+title: Document.TablesOfContents property (Word)
 keywords: vbawd10.chm158007327
 f1_keywords:
 - vbawd10.chm158007327
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.TablesOfContents
 ms.assetid: 8c9e923d-c363-281f-d287-3501b980804e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TablesOfContents Property (Word)
+# Document.TablesOfContents property (Word)
 
 Returns a  **[TablesOfContents](Word.tablesofcontents.md)** collection that represents the tables of contents in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `TablesOfContents`
+_expression_. `TablesOfContents`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ Next myTOC
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

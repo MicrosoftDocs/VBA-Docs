@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 24c450dc-43b5-4119-ac6b-9be62ad27fb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.CurrencyDigits Property (Project)](http://msdn.microsoft.com/library/ca22d390-d3ff-6796-b43d-409d118eae53%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

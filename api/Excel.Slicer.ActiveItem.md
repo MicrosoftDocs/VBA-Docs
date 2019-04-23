@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.ActiveItem
 ms.assetid: ecf95cb2-fb1e-97fc-46a1-2ddcf784a089
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object that represents the slic
 
 ## Syntax
 
- _expression_. `ActiveItem`
+_expression_. `ActiveItem`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -40,7 +41,5 @@ The  **ActiveItem** property will return **Null** under the following circumstan
 - The specified slicer has focus and the whole slicer itself is selected (for example, the user can move the whole slicer around using the keyboard in this state).
     
 - The specified slicer has focus and the active control is the  **Clear Filter** button in the header of the slicer.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

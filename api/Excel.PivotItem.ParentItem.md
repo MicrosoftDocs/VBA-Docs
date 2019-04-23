@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.ParentItem
 ms.assetid: 7d0959e5-5abc-c84f-7037-19b761f36294
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **PivotItem** object that represents the parent PivotTable item in th
 
 ## Syntax
 
- _expression_. `ParentItem`
+_expression_. `ParentItem`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ MsgBox "This item is a subitem of " & _
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

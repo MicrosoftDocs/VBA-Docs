@@ -8,19 +8,20 @@ api_name:
 - Excel.Parameter.PromptString
 ms.assetid: e385bffd-fa89-a4c3-6442-d01d957f42d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Parameter.PromptString property (Excel)
 
-Returns the phrase that prompts the user for a parameter value in a parameter query. Read-only  **String** .
+Returns the phrase that prompts the user for a parameter value in a parameter query. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `PromptString`
+_expression_. `PromptString`
 
- _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
 ## Example
@@ -40,3 +41,4 @@ End With
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

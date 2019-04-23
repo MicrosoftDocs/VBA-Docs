@@ -1,5 +1,5 @@
 ---
-title: MenuItem.CntrlType Property (Visio)
+title: MenuItem.CntrlType property (Visio)
 keywords: vis_sdr.chm12913265
 f1_keywords:
 - vis_sdr.chm12913265
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuItem.CntrlType
 ms.assetid: a41a7801-f363-db19-803d-ab9f9c750a2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuItem.CntrlType Property (Visio)
+# MenuItem.CntrlType property (Visio)
 
 Gets or sets the control type of a menu item. Read/write.
 
 
 ## Syntax
 
- _expression_. `CntrlType`
+_expression_. `CntrlType`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
@@ -27,4 +28,4 @@ Gets or sets the control type of a menu item. Read/write.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

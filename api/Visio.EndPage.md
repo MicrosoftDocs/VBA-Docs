@@ -5,6 +5,7 @@ api_name:
 - Visio.EndPage
 ms.assetid: 4b7ebf2d-b814-8588-b25e-7c54fd0affda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Specifies the page number of the last page in the range when you save a range of
 
 ## Syntax
 
- _expression_. **EndPage**
+_expression_.**EndPage**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -61,4 +62,4 @@ Public Sub EndPage_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

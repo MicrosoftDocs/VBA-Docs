@@ -8,19 +8,20 @@ api_name:
 - Excel.DataTable.HasBorderVertical
 ms.assetid: 166ad9ef-99c1-4e94-079c-4997aacc6e2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataTable.HasBorderVertical property (Excel)
 
- **True** if the chart data table has vertical cell borders. Read/write **Boolean** .
+ **True** if the chart data table has vertical cell borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderVertical`
+_expression_. `HasBorderVertical`
 
- _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
+_expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
 
 
 ## Example
@@ -45,3 +46,4 @@ End With
 
 [DataTable Object](Excel.DataTable(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.HorizontalAlignment Property (Word)
+title: AxisTitle.HorizontalAlignment property (Word)
 keywords: vbawd10.chm98238468
 f1_keywords:
 - vbawd10.chm98238468
@@ -8,17 +8,18 @@ api_name:
 - Word.AxisTitle.HorizontalAlignment
 ms.assetid: 45824b57-e742-3a2d-bbbb-6d2307940273
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.HorizontalAlignment Property (Word)
+# AxisTitle.HorizontalAlignment property (Word)
 
-Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
+Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
@@ -46,3 +47,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

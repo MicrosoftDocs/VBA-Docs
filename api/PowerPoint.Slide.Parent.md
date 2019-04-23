@@ -1,5 +1,5 @@
 ---
-title: Slide.Parent Property (PowerPoint)
+title: Slide.Parent property (PowerPoint)
 keywords: vbapp10.chm531002
 f1_keywords:
 - vbapp10.chm531002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.Parent
 ms.assetid: 02925312-0c0b-b1b9-c353-7d559f0e0050
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.Parent Property (PowerPoint)
+# Slide.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -52,3 +53,4 @@ End With
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

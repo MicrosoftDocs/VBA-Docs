@@ -1,5 +1,5 @@
 ---
-title: TabStop.Position Property (PowerPoint)
+title: TabStop.Position property (PowerPoint)
 keywords: vbapp10.chm574004
 f1_keywords:
 - vbapp10.chm574004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TabStop.Position
 ms.assetid: fc7e75a5-e0a3-78de-91d9-b116f1ded321
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop.Position Property (PowerPoint)
+# TabStop.Position property (PowerPoint)
 
 Returns or sets the position of the specified tab stop, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
  _expression_ A variable that represents a [TabStop](./PowerPoint.TabStop.md) object.
 
@@ -50,3 +51,4 @@ End With
 
 [TabStop Object](PowerPoint.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

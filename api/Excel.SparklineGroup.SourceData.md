@@ -8,6 +8,7 @@ api_name:
 - Excel.SparklineGroup.SourceData
 ms.assetid: b55c67a5-2cf8-4a36-a8d5-c7653f13ceb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the range that contains the source data for the sparkline group.
 
 ## Syntax
 
- _expression_. `SourceData`
+_expression_. `SourceData`
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value
@@ -40,3 +41,4 @@ The data source range for a single sparkline in the sparkline group must be cont
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

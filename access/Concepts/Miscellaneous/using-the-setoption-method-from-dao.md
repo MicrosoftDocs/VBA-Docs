@@ -7,6 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5a722d52-f41f-07a6-8197-7b73841a2fad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -51,3 +52,5 @@ The names of defined constants are the same as the registry name with db added a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

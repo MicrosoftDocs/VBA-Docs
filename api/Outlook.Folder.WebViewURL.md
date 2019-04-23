@@ -1,5 +1,5 @@
 ---
-title: Folder.WebViewURL Property (Outlook)
+title: Folder.WebViewURL property (Outlook)
 keywords: vbaol11.chm2001
 f1_keywords:
 - vbaol11.chm2001
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.WebViewURL
 ms.assetid: 6a7630c2-5c16-f63f-a435-987c7c1251b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.WebViewURL Property (Outlook)
+# Folder.WebViewURL property (Outlook)
 
-Returns or sets a  **String** indicating the URL of the Web page that is assigned to a folder. Read/write.
+Returns or sets a  **String** indicating the URL of the web page that is assigned to a folder. Read/write.
 
 
 ## Syntax
 
- _expression_. `WebViewURL`
+_expression_. `WebViewURL`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Example
@@ -58,3 +59,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

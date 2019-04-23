@@ -1,5 +1,5 @@
 ---
-title: Range.RowDifferences Method (Excel)
+title: Range.RowDifferences method (Excel)
 keywords: vbaxl10.chm144189
 f1_keywords:
 - vbaxl10.chm144189
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.RowDifferences
 ms.assetid: 89030ca3-9f59-7426-d050-89dcabf00887
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.RowDifferences Method (Excel)
+# Range.RowDifferences method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells whose contents are different from those of the comparison cell in each row.
 
 
 ## Syntax
 
- _expression_. `RowDifferences`( `_Comparison_` )
+_expression_. `RowDifferences`( `_Comparison_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ c1.Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

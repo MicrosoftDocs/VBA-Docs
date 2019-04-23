@@ -1,5 +1,5 @@
 ---
-title: Global.ListGalleries Property (Word)
+title: Global.ListGalleries property (Word)
 keywords: vbawd10.chm163119169
 f1_keywords:
 - vbawd10.chm163119169
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.ListGalleries
 ms.assetid: 56ac5cc2-552a-cff6-95cb-40eebd904eb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.ListGalleries Property (Word)
+# Global.ListGalleries property (Word)
 
 Returns a  **ListGalleries** collection that represents the three list template galleries (**Bulleted**,  **Numbered**, and  **Outline Numbered**).
 
 
 ## Syntax
 
- _expression_. `ListGalleries`
+_expression_. `ListGalleries`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ Next listgal
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

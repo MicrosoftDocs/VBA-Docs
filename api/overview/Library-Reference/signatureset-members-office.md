@@ -3,7 +3,8 @@ title: SignatureSet members (Office)
 description: A collection of Signature objects that correspond to the digital signature attached to a document.
 ms.prod: office
 ms.assetid: abe810a3-ffe4-ee26-8df7-d68cfbf3bf1e
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -14,7 +15,7 @@ A collection of **Signature** objects that correspond to the digital signature a
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNonVisibleSignature](../../Office.SignatureSet.AddNonVisibleSignature.md)|Creates a signature packet when digitally signing a document.|
 |[AddSignatureLine](../../Office.SignatureSet.AddSignatureLine.md)|Adds lines to a document where signatures are collected.|
@@ -22,7 +23,7 @@ A collection of **Signature** objects that correspond to the digital signature a
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SignatureSet.Application.md)|Gets an **Application** object that represents the container application for the **SignatureSet** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CanAddSignatureLine](../../Office.SignatureSet.CanAddSignatureLine.md)|Gets a **Boolean** value indicating whether you can add a signature line to a document. Read-only.|
@@ -33,3 +34,4 @@ A collection of **Signature** objects that correspond to the digital signature a
 |[ShowSignaturesPane](../../Office.SignatureSet.ShowSignaturesPane.md)|Gets or sets a **Boolean** value indicating whether the **Signature** task pane should be displayed. Read/write.|
 |[Subset](../../Office.SignatureSet.Subset.md)|Gets or sets a value that acts as a filter on the available **Signature** objects for a document. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

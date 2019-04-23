@@ -1,5 +1,5 @@
 ---
-title: Application.AlertResponse Property (Visio)
+title: Application.AlertResponse property (Visio)
 keywords: vis_sdr.chm10013070
 f1_keywords:
 - vis_sdr.chm10013070
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.AlertResponse
 ms.assetid: aa7a14b1-b2df-daa6-7298-66880a573f5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AlertResponse Property (Visio)
+# Application.AlertResponse property (Visio)
 
 Determines whether Microsoft Visio shows alerts and modal dialog boxes to the user. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlertResponse`
+_expression_. `AlertResponse`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -48,3 +49,4 @@ The values you supply for the  **AlertResponse** property correspond to the stan
 |IDYES|6|
 |IDNO|7|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

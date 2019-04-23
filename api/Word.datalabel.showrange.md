@@ -1,22 +1,23 @@
 ---
-title: DataLabel.ShowRange Property (Word)
+title: DataLabel.ShowRange property (Word)
 keywords: vbawd10.chm233900019
 f1_keywords:
 - vbawd10.chm233900019
 ms.prod: word
 ms.assetid: c9e3e8e5-630e-cb5b-ed48-5842dee505e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabel.ShowRange Property (Word)
+# DataLabel.ShowRange property (Word)
 
 Set to  **True** to display the **Value From Cells** range field for the specified chart data label. Set to **False** to hide that field. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowRange`
+_expression_. `ShowRange`
 
  _expression_ A variable that represents a [DataLabel](./Word.DataLabel.md) object.
 
@@ -45,3 +46,4 @@ End With
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

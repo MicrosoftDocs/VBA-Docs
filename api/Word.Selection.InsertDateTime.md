@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertDateTime Method (Word)
+title: Selection.InsertDateTime method (Word)
 keywords: vbawd10.chm158663100
 f1_keywords:
 - vbawd10.chm158663100
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertDateTime
 ms.assetid: f9cfca41-e0f2-4656-5fa2-2463c50af1f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertDateTime Method (Word)
+# Selection.InsertDateTime method (Word)
 
 Inserts the current date or time, or both, either as text or as a TIME field.
 
 
 ## Syntax
 
- _expression_. `InsertDateTime`( `_DateTimeFormat_` , `_InsertAsField_` , `_InsertAsFullWidth_` , `_DateLanguage_` , `_CalendarType_` )
+_expression_. `InsertDateTime`( `_DateTimeFormat_` , `_InsertAsField_` , `_InsertAsFullWidth_` , `_DateLanguage_` , `_CalendarType_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -30,10 +31,10 @@ Inserts the current date or time, or both, either as text or as a TIME field.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DateTimeFormat_|Optional| **Variant**|The format to be used for displaying the date or time, or both. If this argument is omitted, Microsoft Word uses the short-date style from the Windows Control Panel (**Regional Settings** icon).|
-| _InsertAsField_|Optional| **Variant**| **True** to insert the specified information as a TIME field. The default value is **True** .|
-| _InsertAsFullWidth_|Optional| **Variant**| **True** to insert the specified information as double-byte digits. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _InsertAsField_|Optional| **Variant**| **True** to insert the specified information as a TIME field. The default value is **True**.|
+| _InsertAsFullWidth_|Optional| **Variant**| **True** to insert the specified information as double-byte digits. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _DateLanguage_|Optional| **Variant**|Sets the language in which to display the date or time. Can be either of the  **WdDateLanguage** constants. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
-| _CalendarType_|Optional| **Variant**|Sets the calendar type to use when displaying the date or time. Can be either of the  **WdCalendarTypeBi** constants. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _CalendarType_|Optional| **Variant**|Sets the calendar type to use when displaying the date or time. Can be either of the  **WdCalendarTypeBi** constants. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Remarks
 
@@ -56,3 +57,4 @@ Selection.InsertDateTime DateTimeFormat:="MMMM dd, yyyy", _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

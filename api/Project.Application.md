@@ -1,14 +1,15 @@
 ---
-title: Application Object (Project)
+title: Application object (Project)
 ms.prod: project-server
 api_name:
 - Project.Application
 ms.assetid: 8eb91712-7784-a102-38c0-19bb056c27e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application Object (Project)
+# Application object (Project)
 
 Represents the entire Project application. The  **Application** object contains:
 
@@ -95,7 +96,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterCubeBuilt](./Project.Application.AfterCubeBuilt.md)|
 |[ApplicationBeforeClose](./Project.Application.ApplicationBeforeClose.md)|
@@ -157,7 +158,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[About](./Project.Application.About.md)|
 |[ActivateMicrosoftApp](./Project.Application.ActivateMicrosoftApp.md)|
@@ -783,7 +784,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveCell](./Project.Application.ActiveCell.md)|
 |[ActiveProject](./Project.Application.ActiveProject.md)|
@@ -906,3 +907,4 @@ Many of the properties and methods that return the most common user-interface ob
 |[Windows2](./Project.Application.Windows2.md)|
 |[WindowState](./Project.Application.WindowState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

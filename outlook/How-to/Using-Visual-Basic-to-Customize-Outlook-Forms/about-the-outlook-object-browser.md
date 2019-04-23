@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 7471bdda-d71a-0987-2924-256123037924
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ The Microsoft Outlook object browser displays the classes, properties, methods, 
 
 Learn about  [viewing and using the object browser](use-the-outlook-object-browser-in-the-script-editor.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

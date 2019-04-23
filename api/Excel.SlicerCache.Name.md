@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.Name
 ms.assetid: 3b4a00c0-c6c9-6eee-043c-8102642354df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the name of the slicer cache.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that returns a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that returns a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Name of the slicer cache must be unique within the workbook namespace. By defaul
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

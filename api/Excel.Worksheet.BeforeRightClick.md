@@ -1,5 +1,5 @@
 ---
-title: Worksheet.BeforeRightClick Event (Excel)
+title: Worksheet.BeforeRightClick event (Excel)
 keywords: vbaxl10.chm502075
 f1_keywords:
 - vbaxl10.chm502075
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.BeforeRightClick
 ms.assetid: 0263dd09-1648-d3c4-007e-15ef7b82092a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.BeforeRightClick Event (Excel)
+# Worksheet.BeforeRightClick event (Excel)
 
 Occurs when a worksheet is right-clicked, before the default right-click action.
 
 
 ## Syntax
 
- _expression_. `BeforeRightClick`( `_Target_` , `_Cancel_` )
+_expression_. `BeforeRightClick`( `_Target_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Occurs when a worksheet is right-clicked, before the default right-click action.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurs.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action doesn't occur when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default right-click action doesn't occur when the procedure is finished.|
 
 ## Remarks
 
@@ -68,3 +69,4 @@ End Sub
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

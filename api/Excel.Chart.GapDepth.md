@@ -7,34 +7,32 @@ ms.prod: excel
 api_name:
 - Excel.Chart.GapDepth
 ms.assetid: 6020490a-1343-5b79-ff7d-197f78061420
-ms.date: 06/08/2017
+ms.date: 04/16/2019
+localization_priority: Normal
 ---
 
 
 # Chart.GapDepth property (Excel)
 
-Returns or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. The value of this property must be between 0 and 500. Read/write  **Long** .
+Returns or sets the distance between the data series in a 3D chart as a percentage of the marker width. The value of this property must be between 0 and 500. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `GapDepth`
+_expression_.**GapDepth**
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Example
 
-This example sets the distance between the data series in Chart1 to 200 percent of the marker width. The example should be run on a 3-D chart (the  **GapDepth** property fails on 2-D charts).
-
+This example sets the distance between the data series in Chart1 to 200 percent of the marker width. The example should be run on a 3D chart (the **GapDepth** property fails on 2D charts).
 
 ```vb
 Charts("Chart1").GapDepth = 200
 ```
 
 
-## See also
 
 
-[Chart Object](Excel.Chart(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

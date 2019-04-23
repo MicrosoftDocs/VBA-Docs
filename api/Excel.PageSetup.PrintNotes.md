@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.PrintNotes
 ms.assetid: 6609fe58-6015-9ae2-4cc0-107e29cd7b9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.PrintNotes property (Excel)
 
- **True** if cell notes are printed as end notes with the sheet. Applies only to worksheets. Read/write **Boolean** .
+ **True** if cell notes are printed as end notes with the sheet. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintNotes`
+_expression_. `PrintNotes`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").PageSetup.PrintNotes = False
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

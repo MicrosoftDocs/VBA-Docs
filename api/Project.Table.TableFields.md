@@ -1,5 +1,5 @@
 ---
-title: Table.TableFields Property (Project)
+title: Table.TableFields property (Project)
 keywords: vbapj.chm132698
 f1_keywords:
 - vbapj.chm132698
@@ -8,17 +8,18 @@ api_name:
 - Project.Table.TableFields
 ms.assetid: 2db4b5fd-6238-b4ab-dc9f-5de991eaad8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.TableFields Property (Project)
+# Table.TableFields property (Project)
 
 Gets a  **[TableFields](Project.TableField.md)** collection representing the fields in the table. Read-only **TableFields**.
 
 
 ## Syntax
 
- _expression_. `TableFields`
+_expression_. `TableFields`
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
@@ -44,4 +45,4 @@ Sub AutoWrap()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

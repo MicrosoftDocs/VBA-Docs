@@ -8,19 +8,20 @@ api_name:
 - Excel.Style.IncludeProtection
 ms.assetid: 666afea1-4a2a-7f44-ecff-d9d44098a527
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Style.IncludeProtection property (Excel)
 
- **True** if the style includes the **FormulaHidden** and **Locked** protection properties. Read/write **Boolean** .
+ **True** if the style includes the **FormulaHidden** and **Locked** protection properties. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeProtection`
+_expression_. `IncludeProtection`
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").Range("A1").Style.IncludeProtection = True
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

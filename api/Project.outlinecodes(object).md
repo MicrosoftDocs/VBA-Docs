@@ -1,12 +1,13 @@
 ---
-title: OutlineCodes Object (Project)
+title: OutlineCodes object (Project)
 ms.prod: project-server
 ms.assetid: a2e6d0c7-0741-91c6-61aa-f4bcc299e66f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlineCodes Object (Project)
+# OutlineCodes object (Project)
 
 Contains a collection of  **[OutlineCode](Project.OutlineCode.md)** objects.
  
@@ -151,7 +152,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.OutlineCodes.Add.md)|
 
@@ -159,7 +160,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.OutlineCodes.Application.md)|
 |[Count](Project.OutlineCodes.Count.md)|
@@ -171,3 +172,5 @@ End Sub
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 6f7968b7-c765-0d7b-4485-852d54f3d471
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,12 +17,11 @@ Returns a [ModelFormatScientificNumber](Excel.modelformatscientificnumber.md) ob
 
 ## Syntax
 
- _expression_. `ModelFormatScientificNumber`
+_expression_. `ModelFormatScientificNumber`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

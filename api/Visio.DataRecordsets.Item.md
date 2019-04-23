@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.Item Property (Visio)
+title: DataRecordsets.Item property (Visio)
 keywords: vis_sdr.chm16313765
 f1_keywords:
 - vis_sdr.chm16313765
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsets.Item
 ms.assetid: 8a289fb1-8cc5-eb76-efb1-c01f73c6340a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets.Item Property (Visio)
+# DataRecordsets.Item property (Visio)
 
 Returns the  **DataRecordset** object at the specified index position in the **DataRecordsets** collection. Read-only.
 
@@ -21,7 +22,7 @@ Returns the  **DataRecordset** object at the specified index position in the **D
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
@@ -54,4 +55,4 @@ objectReturned = expression(Index)
 
  The **DataRecordsets** collection is indexed starting with 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.AutoSortCustomSubtotal
 ms.assetid: 9f930467-25ca-bf09-da3e-da7d3c9e6b70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the name of the custom subtotal used to sort the specified PivotTable fi
 
 ## Syntax
 
- _expression_. `AutoSortCustomSubtotal`
+_expression_. `AutoSortCustomSubtotal`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ If sorting is applied based on a custom subtotal, and that subtotal is removed f
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

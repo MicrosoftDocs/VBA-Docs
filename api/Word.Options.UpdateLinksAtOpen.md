@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateLinksAtOpen Property (Word)
+title: Options.UpdateLinksAtOpen property (Word)
 keywords: vbawd10.chm162988055
 f1_keywords:
 - vbawd10.chm162988055
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.UpdateLinksAtOpen
 ms.assetid: 089777c6-0bad-1fa6-4ae6-b77499c1c5a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.UpdateLinksAtOpen Property (Word)
+# Options.UpdateLinksAtOpen property (Word)
 
- **True** if Microsoft Word automatically updates all embedded OLE links in a document when it is opened. Read/write **Boolean** .
+ **True** if Microsoft Word automatically updates all embedded OLE links in a document when it is opened. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UpdateLinksAtOpen`
+_expression_. `UpdateLinksAtOpen`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -47,3 +48,4 @@ temp = Options.UpdateLinksAtOpen
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

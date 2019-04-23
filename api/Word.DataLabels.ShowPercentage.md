@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowPercentage Property (Word)
+title: DataLabels.ShowPercentage property (Word)
 keywords: vbawd10.chm207489001
 f1_keywords:
 - vbawd10.chm207489001
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabels.ShowPercentage
 ms.assetid: d13c6988-d751-e084-8fc0-830cc1382906
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.ShowPercentage Property (Word)
+# DataLabels.ShowPercentage property (Word)
 
- **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean** .
+ **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowPercentage`
+_expression_. `ShowPercentage`
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

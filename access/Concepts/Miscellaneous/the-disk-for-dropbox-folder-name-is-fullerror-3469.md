@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e94ab8c4-b614-241c-b603-7bae08ae92d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ There is not enough space on the dropbox folder's disk drive to complete the ope
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

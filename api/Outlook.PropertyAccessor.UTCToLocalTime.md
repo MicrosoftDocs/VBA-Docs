@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.UTCToLocalTime Method (Outlook)
+title: PropertyAccessor.UTCToLocalTime method (Outlook)
 keywords: vbaol11.chm1974
 f1_keywords:
 - vbaol11.chm1974
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyAccessor.UTCToLocalTime
 ms.assetid: a56311ac-60ac-4f51-5255-d6840bf6004d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyAccessor.UTCToLocalTime Method (Outlook)
+# PropertyAccessor.UTCToLocalTime method (Outlook)
 
 Converts the date-time value that is specified by  _Value_ and expressed in Coordinated Universal Time (UTC) to a value in local time.
 
 
 ## Syntax
 
- _expression_. `UTCToLocalTime`( `_Value_` )
+_expression_. `UTCToLocalTime`( `_Value_` )
 
- _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ For more information on type conversion when using the  **[PropertyAccessor](Out
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

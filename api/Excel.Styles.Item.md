@@ -8,6 +8,7 @@ api_name:
 - Excel.Styles.Item
 ms.assetid: 2101cf1a-b37f-23f8-25b2-dde124d7c702
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Styles](./Excel.Styles.md) object.
+_expression_ A variable that represents a [Styles](Excel.Styles.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ ActiveWorkbook.Styles.Item("Normal").Font.Bold = True
 
 [Styles Object](Excel.Styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

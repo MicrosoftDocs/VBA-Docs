@@ -1,5 +1,5 @@
 ---
-title: Curve.PointAndDerivatives Method (Visio)
+title: Curve.PointAndDerivatives method (Visio)
 keywords: vis_sdr.chm15516440
 f1_keywords:
 - vis_sdr.chm15516440
@@ -8,17 +8,18 @@ api_name:
 - Visio.Curve.PointAndDerivatives
 ms.assetid: 2df3753b-f0f5-37ff-75d9-f63d6fc491dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Curve.PointAndDerivatives Method (Visio)
+# Curve.PointAndDerivatives method (Visio)
 
 Returns a point and its derivatives at a position along a curve's path.
 
 
 ## Syntax
 
- _expression_. `PointAndDerivatives`( `_t_` , `_n_` , `_x_` , `_y_` , `_dxdt_` , `_dydt_` , `_ddxdt_` , `_ddydt_` )
+_expression_. `PointAndDerivatives`( `_t_` , `_n_` , `_x_` , `_y_` , `_dxdt_` , `_dydt_` , `_ddxdt_` , `_ddydt_` )
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
@@ -106,4 +107,4 @@ Sub PointAndDerivatives_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

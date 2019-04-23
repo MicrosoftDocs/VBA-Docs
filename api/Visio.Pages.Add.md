@@ -1,5 +1,5 @@
 ---
-title: Pages.Add Method (Visio)
+title: Pages.Add method (Visio)
 keywords: vis_sdr.chm11016005
 f1_keywords:
 - vis_sdr.chm11016005
@@ -8,17 +8,18 @@ api_name:
 - Visio.Pages.Add
 ms.assetid: b2e09b89-4232-fffe-28b2-ceb468dd2837
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.Add Method (Visio)
+# Pages.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+_expression_.**Add**
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
@@ -37,7 +38,7 @@ All properties of the new object are initialized to zero, so you need to set onl
 
 The following macro shows how to add  **Master** objects to the **Masters** collection and **Page** objects to the **Pages** collection. It also shows how to add documents, layers, styles, events, and add-ons to their corresponding collections.
 
-Before running this macro, replace  _Myfile.vsd_ with a valid .vsd file and references to _path_ \ _filename_ and _filename_ with a valid path and/or file name to an execuatable add-on (EXE) in your Visio project. The add-on should take no arguments.
+Before running this macro, replace  _Myfile.vsd_ with a valid .vsd file and references to _path_ \ _filename_ and _filename_ with a valid path and/or file name to an executable add-on (EXE) in your Visio project. The add-on should take no arguments.
 
 
 
@@ -118,4 +119,4 @@ Public Sub Add_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

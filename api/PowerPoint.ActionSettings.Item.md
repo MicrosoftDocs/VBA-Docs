@@ -1,5 +1,5 @@
 ---
-title: ActionSettings.Item Method (PowerPoint)
+title: ActionSettings.Item method (PowerPoint)
 keywords: vbapp10.chm566003
 f1_keywords:
 - vbapp10.chm566003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ActionSettings.Item
 ms.assetid: 88e0b49b-0518-559b-243f-c369c09ab3fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActionSettings.Item Method (PowerPoint)
+# ActionSettings.Item method (PowerPoint)
 
 Returns a single action setting from the specified  **ActionSettings** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [ActionSettings](./PowerPoint.ActionSettings.md) object.
+_expression_ A variable that represents an [ActionSettings](./PowerPoint.ActionSettings.md) object.
 
 
 ## Parameters
@@ -42,7 +43,7 @@ The  _Index_ parameter value can be one of these **PpMouseActivation** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppMouseClick**|The action setting for when the user clicks the shape.|
 |**ppMouseOver**|The action setting for when the mouse pointer is positioned over the specified shape.|
@@ -85,3 +86,4 @@ End With
 
 [ActionSettings Object](PowerPoint.ActionSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

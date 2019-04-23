@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Method (Publisher)
+title: Application.NewDocument method (Publisher)
 keywords: vbapb10.chm131127
 f1_keywords:
 - vbapb10.chm131127
@@ -8,24 +8,23 @@ api_name:
 - Publisher.Application.NewDocument
 ms.assetid: 9beb6176-0c46-0ba0-8d41-a9021c624223
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.NewDocument Method (Publisher)
+# Application.NewDocument method (Publisher)
 
 Returns a  **Document** object that represents a new publication.
 
 
 ## Syntax
 
- _expression_. **NewDocument**(**_Wizard_**,  **_Design_**)
+_expression_.**NewDocument**(**_Wizard_**,  **_Design_**)
 
  _expression_ A variable that represents an  **Application** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -134,3 +133,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

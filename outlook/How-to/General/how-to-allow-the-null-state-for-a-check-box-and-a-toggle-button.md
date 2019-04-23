@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 75b3374d-6d96-3bcc-3e97-f0089f3fdd99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Allow the Null State for a Check Box and a Toggle Button
+# Allow the Null State for a Check Box and a Toggle Button
 
 The following example uses the  **TripleState** property to allow Null as a legal value of a **[CheckBox](../../../api/Outlook.checkbox.md)** and a **[ToggleButton](../../../api/Outlook.togglebutton.md)**. The user controls the value of  **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**. However, when a control is set to  **Null**, no event is fired.
 
@@ -81,4 +82,4 @@ Sub ToggleButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (Publisher)
+title: ShapeRange.Name property (Publisher)
 keywords: vbapb10.chm2293828
 f1_keywords:
 - vbapb10.chm2293828
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Name
 ms.assetid: 517eca4b-fa8c-0f6a-2829-75704bb4c899
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Name Property (Publisher)
+# ShapeRange.Name property (Publisher)
 
 Returns or sets a  **String** value indicating the name of the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -29,4 +30,4 @@ You can use an object's name in conjunction with the  **Item** method or **Item*
 
 The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.FileExportConverter.Extensions
 ms.assetid: 448fdc36-4f11-1dff-98c1-797339e04ddb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FileExportConverter.Extensions property (Excel)
 
-Returns the file name extensions associated with the specified  **[FileExportConverter](Excel.FileExportConverter.md)** object. Read-only **String** .
+Returns the file name extensions associated with the specified  **[FileExportConverter](Excel.FileExportConverter.md)** object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Extensions`
+_expression_. `Extensions`
 
- _expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
+_expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
 
 
 ## Example
@@ -41,3 +42,4 @@ MsgBox "The file name extensions for the file converter are: " & fcTemp.Extensio
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

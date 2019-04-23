@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Shape Property (Visio)
+title: Hyperlinks.Shape property (Visio)
 keywords: vis_sdr.chm15614320
 f1_keywords:
 - vis_sdr.chm15614320
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlinks.Shape
 ms.assetid: 4b9d4c86-be67-7b69-ac55-b7e6949ccbe7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks.Shape Property (Visio)
+# Hyperlinks.Shape property (Visio)
 
-Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
+Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
  _expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) object.
 
@@ -68,4 +69,4 @@ Public Sub Shape_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

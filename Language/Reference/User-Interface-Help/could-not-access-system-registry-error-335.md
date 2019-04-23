@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c4c70585-593e-0e8d-d6bd-bc38a9c649f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 An attempt to read from or write to the system [registry](../../Glossary/vbe-glossary.md#registry) failed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fad78b15-d547-ced5-d12b-35d07f66c341
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Visual Basic doesn't support all [procedure](../../Glossary/vbe-glossary.md#proc
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

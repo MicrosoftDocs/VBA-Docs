@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.PreferredHeight Property (Outlook)
+title: OlkSenderPhoto.PreferredHeight property (Outlook)
 keywords: vbaol11.chm1000482
 f1_keywords:
 - vbaol11.chm1000482
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkSenderPhoto.PreferredHeight
 ms.assetid: 174aea2a-f64a-1e49-eca9-f4af76f40722
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.PreferredHeight Property (Outlook)
+# OlkSenderPhoto.PreferredHeight property (Outlook)
 
 Returns a  **Long** that specifies the application-preferred height of the sender picture. Read-only.
 
 
 ## Syntax
 
- _expression_. `PreferredHeight`
+_expression_. `PreferredHeight`
 
- _expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The value is expressed in units of pixels. The default value is 96.
 
 [OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

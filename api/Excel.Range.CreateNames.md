@@ -1,5 +1,5 @@
 ---
-title: Range.CreateNames Method (Excel)
+title: Range.CreateNames method (Excel)
 keywords: vbaxl10.chm144108
 f1_keywords:
 - vbaxl10.chm144108
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.CreateNames
 ms.assetid: 00c7c74f-606d-7eee-ac52-f6b21446f5be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.CreateNames Method (Excel)
+# Range.CreateNames method (Excel)
 
 Creates names in the specified range, based on text labels in the sheet.
 
 
 ## Syntax
 
- _expression_. `CreateNames`( `_Top_` , `_Left_` , `_Bottom_` , `_Right_` )
+_expression_. `CreateNames`( `_Top_` , `_Left_` , `_Bottom_` , `_Right_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -29,10 +30,10 @@ Creates names in the specified range, based on text labels in the sheet.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Top_|Optional| **Variant**| **True** to create names by using labels in the top row. The default value is **False** .|
-| _Left_|Optional| **Variant**| **True** to create names by using labels in the left column. The default value is **False** .|
-| _Bottom_|Optional| **Variant**| **True** to create names by using labels in the bottom row. The default value is **False** .|
-| _Right_|Optional| **Variant**| **True** to create names by using labels in the right column. The default value is **False** .|
+| _Top_|Optional| **Variant**| **True** to create names by using labels in the top row. The default value is **False**.|
+| _Left_|Optional| **Variant**| **True** to create names by using labels in the left column. The default value is **False**.|
+| _Bottom_|Optional| **Variant**| **True** to create names by using labels in the bottom row. The default value is **False**.|
+| _Right_|Optional| **Variant**| **True** to create names by using labels in the right column. The default value is **False**.|
 
 ## Return value
 
@@ -41,7 +42,7 @@ Variant
 
 ## Remarks
 
-If you don?t specify one of  _Top_,  _Left_,  _Bottom_, or  _Right_, Microsoft Excel guesses the location of the text labels, based on the shape of the specified range.
+If you don't specify one of  _Top_,  _Left_,  _Bottom_, or  _Right_, Microsoft Excel guesses the location of the text labels, based on the shape of the specified range.
 
 
 ## Example
@@ -60,3 +61,4 @@ rangeToName.CreateNames Left:=True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Field.Unlink Method (Publisher)
+title: Field.Unlink method (Publisher)
 keywords: vbapb10.chm6094857
 f1_keywords:
 - vbapb10.chm6094857
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Field.Unlink
 ms.assetid: 4dfe5c29-eb1e-b071-fd86-6ee222455c4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Unlink Method (Publisher)
+# Field.Unlink method (Publisher)
 
 Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection with their most recent results.
 
 
 ## Syntax
 
- _expression_. **Unlink**
+_expression_.**Unlink**
 
  _expression_ A variable that represents a  **Field** object.
 
@@ -38,4 +39,4 @@ ActiveDocument.Pages(1).Shapes(1) _
  .TextFrame.TextRange.Fields(1).Unlink
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

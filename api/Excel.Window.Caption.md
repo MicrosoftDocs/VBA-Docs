@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.Caption
 ms.assetid: d8a5ca13-90b8-d7ce-d041-2cdc544789e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the name that appears in th
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
- _expression_ A variable that represents a '[Window](Excel.Window.md)' object.
+_expression_ A variable that represents a '[Window](Excel.Window.md)' object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ActiveWorkbook.Windows("Consolidated Balance Sheet") _
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

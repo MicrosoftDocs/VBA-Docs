@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetSegmentType Method (Word)
+title: ShapeNodes.SetSegmentType method (Word)
 keywords: vbawd10.chm164495375
 f1_keywords:
 - vbawd10.chm164495375
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeNodes.SetSegmentType
 ms.assetid: 8afa8b4b-73bf-e64b-b6fa-427e891a9e07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetSegmentType Method (Word)
+# ShapeNodes.SetSegmentType method (Word)
 
 Sets the segment type of the segment that follows the node specified by Index.
 
 
 ## Syntax
 
- _expression_. `SetSegmentType`( `_Index_` , `_SegmentType_` )
+_expression_. `SetSegmentType`( `_Index_` , `_SegmentType_` )
 
- _expression_ Required. A variable that represents a '[ShapeNodes](Word.shapenodes.md)' collection.
+_expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ End With
 
 [ShapeNodes Collection Object](Word.shapenodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

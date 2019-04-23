@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotLine.Position
 ms.assetid: f2381c86-176e-9270-6157-5319dc2b8305
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the position of the  **PivotLine** object. Read-only.
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
+_expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the position of the  **PivotLine** object. Read-only.
 
 [PivotLine Object](Excel.PivotLine.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextInput.EditType Method (Word)
+title: TextInput.EditType method (Word)
 keywords: vbawd10.chm153550950
 f1_keywords:
 - vbawd10.chm153550950
@@ -8,19 +8,20 @@ api_name:
 - Word.TextInput.EditType
 ms.assetid: edd9efba-ca77-3f2f-021e-89e86ac9efc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextInput.EditType Method (Word)
+# TextInput.EditType method (Word)
 
 Sets options for the specified text form field.
 
 
 ## Syntax
 
- _expression_. `EditType`( `_Type_` , `_Default_` , `_Format_` , `_Enabled_` )
+_expression_. `EditType`( `_Type_` , `_Default_` , `_Format_` , `_Enabled_` )
 
- _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
+_expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ End With
 
 [TextInput Object](Word.TextInput.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Form.DatasheetFontWeight
 ms.assetid: 6dd2c6d3-1f27-8b86-abf5-f5581fbe7d23
-ms.date: 06/08/2017
+ms.date: 03/01/2019
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ You can use the **DatasheetFontWeight** property to specify the line width of th
 
 ## Syntax
 
-_expression_. DatasheetFontWeight
+_expression_.**DatasheetFontWeight**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ These properties are only available in [Visual Basic](../access/Concepts/Setting
 
 In Visual Basic, the **DatasheetFontWeight** property setting uses the following **Integer** values.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |100|Thin|
 |200|Extra Light|
@@ -41,6 +42,8 @@ In Visual Basic, the **DatasheetFontWeight** property setting uses the following
 |700|Bold|
 |800|Extra Bold|
 |900|Heavy|
+
+<br/>
 
 The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
@@ -58,7 +61,7 @@ The following table contains the properties that don't exist in the DAO **Proper
 
 ## Example
 
-The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the Products table.
+The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the **Products** table.
 
 ```vb
 Sub SetDatasheetFont 
@@ -101,7 +104,7 @@ End Sub
 
 <br/>
 
-The next example makes the same changes as the preceding example in Datasheet view of the open Products form.
+The following example makes the same changes as the preceding example in Datasheet view of the open **Products** form.
 
 ```vb
 Forms!Products.DatasheetFontName = "MS Serif" 
@@ -110,3 +113,5 @@ Forms!Products.DatasheetFontWeight = 500
 ```
 
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

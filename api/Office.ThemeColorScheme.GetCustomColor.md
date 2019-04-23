@@ -1,28 +1,27 @@
 ---
-title: ThemeColorScheme.GetCustomColor Method (Office)
+title: ThemeColorScheme.GetCustomColor method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColorScheme.GetCustomColor
 ms.assetid: 67ac156e-19ab-245e-b6f8-03514f802acb
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# ThemeColorScheme.GetCustomColor Method (Office)
+# ThemeColorScheme.GetCustomColor method (Office)
 
 Gets a value that represents a color in the color scheme of a Microsoft Office theme. 
 
 
 ## Syntax
 
- _expression_. `GetCustomColor`( `_Name_` )
+_expression_.**GetCustomColor**(_Name_)
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+_expression_ An expression that returns a **[ThemeColorScheme](Office.ThemeColorScheme.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,7 +39,7 @@ If the named custom color doesn't exist, an error is generated.
 
 ## Example
 
-The following example creates a variable representing the color scheme in an Office theme and then creates another variable containing a custom color. This custom color can then be combined with other colors to define the theme.
+The following example creates a variable representing the color scheme in an Office theme, and then creates another variable containing a custom color. This custom color can then be combined with other colors to define the theme.
 
 
 ```vb
@@ -55,10 +54,8 @@ csCustomColor = tcsThemeColorScheme.GetCustomColor("CheerfulColor")
 
 ## See also
 
-
-[ThemeColorScheme Object](Office.ThemeColorScheme.md)
-
+- [ThemeColorScheme object members](overview/Library-Reference/themecolorscheme-members-office.md)
 
 
-[ThemeColorScheme Object Members](./overview/Library-Reference/themecolorscheme-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

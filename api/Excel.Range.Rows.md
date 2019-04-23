@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Rows
 ms.assetid: 2b0541f1-119d-8535-8418-ff9482353ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a **[Range](Excel.Range(object).md)** object that represents the rows in
 
 ## Syntax
 
- _expression_. `Rows`
+_expression_. `Rows`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -82,3 +83,5 @@ End If
 [Range Object](Excel.Range(object).md)
 
 [Worksheet.Rows Property](excel.worksheet.rows.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

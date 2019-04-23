@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: da59a685-c118-00b1-8a08-b9d19a15aa77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Allow Multiple Selections in a List Box
+# Allow Multiple Selections in a List Box
 
 The following example uses the  **[MultiSelect](../../../api/Outlook.listbox.multiselect.md)** and **[Selected](../../../api/Outlook.listbox.selected.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](../../../api/Outlook.listbox.md)**. The user specifies a selection method by choosing an option button and then selects an item(s) from the  **ListBox**. The user can display the selected items in a second  **ListBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 
@@ -76,4 +77,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

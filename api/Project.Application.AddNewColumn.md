@@ -1,5 +1,5 @@
 ---
-title: Application.AddNewColumn Method (Project)
+title: Application.AddNewColumn method (Project)
 keywords: vbapj.chm710
 f1_keywords:
 - vbapj.chm710
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.AddNewColumn
 ms.assetid: 009071ad-b713-4252-ab1c-781d58620d8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AddNewColumn Method (Project)
+# Application.AddNewColumn method (Project)
 
 Adds a new column in a specified position, in views where columns can be added.
 
 
 ## Syntax
 
- _expression_. `AddNewColumn`( ` _Column_` )
+_expression_. `AddNewColumn`( `_Column_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ AddNewColumn (3)
 
  **Note**  If the user does not name the column header,  **AddNewColumn** removes the selected column. When you add a column, it does not exist until the field is named. If you try to use the **ColumnEdit** method after **AddNewColumn**, Project shows run-time error 1100 (the command in the macro is not available in this situation).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

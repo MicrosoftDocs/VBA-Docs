@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeClose Event (Publisher)
+title: Document.BeforeClose event (Publisher)
 keywords: vbapb10.chm285212674
 f1_keywords:
 - vbapb10.chm285212674
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.BeforeClose
 ms.assetid: d40e36b6-fea7-a9d5-0c88-55197983b888
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.BeforeClose Event (Publisher)
+# Document.BeforeClose event (Publisher)
 
 Occurs immediately before any open document closes.
 
 
 ## Syntax
 
- _expression_. **BeforeClose**(**_Cancel_**)
+_expression_.**BeforeClose**(**_Cancel_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -52,4 +53,4 @@ Private Sub Document_BeforeClose(Cancel As Boolean)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

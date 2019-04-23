@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.TopPadding
 ms.assetid: 05088d34-eae7-bc0e-314b-cd8640c9ed0b
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # NavigationButton.TopPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the text box and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the button and its top gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `TopPadding`
+_expression_.**TopPadding**
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
-[NavigationButton Object](Access.NavigationButton.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

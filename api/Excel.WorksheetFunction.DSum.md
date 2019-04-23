@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DSum Method (Excel)
+title: WorksheetFunction.DSum method (Excel)
 keywords: vbaxl10.chm137095
 f1_keywords:
 - vbaxl10.chm137095
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DSum
 ms.assetid: b10de80b-343f-9526-e386-c8f03fea755b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DSum Method (Excel)
+# WorksheetFunction.DSum method (Excel)
 
 Adds the numbers in a column of a list or database that match conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DSum`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DSum`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

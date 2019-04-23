@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Parent Property (PowerPoint)
+title: TextFrame.Parent property (PowerPoint)
 keywords: vbapp10.chm558001
 f1_keywords:
 - vbapp10.chm558001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame.Parent
 ms.assetid: 3c5706c9-188e-6946-6e87-1501f32b1ce3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Parent Property (PowerPoint)
+# TextFrame.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [TextFrame Object](PowerPoint.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

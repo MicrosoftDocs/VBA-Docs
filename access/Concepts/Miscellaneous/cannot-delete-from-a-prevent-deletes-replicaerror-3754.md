@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 11abce80-3a05-53a1-f9d1-65a5c3d20712
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ A Prevent Deletes replica is a replica designed to prevent users from deleting r
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Actions.Count Property (Outlook)
+title: Actions.Count property (Outlook)
 keywords: vbaol11.chm149
 f1_keywords:
 - vbaol11.chm149
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Actions.Count
 ms.assetid: 0ba24d51-b057-9960-18e0-cb88a5edcdd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Actions.Count Property (Outlook)
+# Actions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
+_expression_ A variable that represents an [Actions](Outlook.Actions.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 [Actions Object](Outlook.Actions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

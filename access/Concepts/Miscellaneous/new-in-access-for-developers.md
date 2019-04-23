@@ -3,6 +3,7 @@ title: New in Access for developers
 ms.prod: access
 ms.assetid: df778f51-d65e-4c30-b618-65003ceb39b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,11 +34,11 @@ An Access 2013 app is online the moment it's created. You can decide to share th
 
 Views (known as  _"forms"_ in Access desktop databases) provide the means by which users will interact with your Access app. Views in Access 2013 apps contain a common set of user interface elements that enable rapid creation of new apps.
 
-Access 2013 is designed to enable you to create functional views with little intervention. When you create a new table, Access automatically creates two views. The folloiwng figure shows a new table with the automatically-created views:
+Access 2013 is designed to enable you to create functional views with little intervention. When you create a new table, Access automatically creates two views. The following figure shows a new table with the automatically-created views:
 
 ![New table with two views](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure02.jpg)
 
-Views are organized by the tables they're bound to in the Tile Pane. By default, each table is represented by a tile in the Tile Pane. The folloiwng figure shows the Orders table selected in the Tile Pane:
+Views are organized by the tables they're bound to in the Tile Pane. By default, each table is represented by a tile in the Tile Pane. The following figure shows the Orders table selected in the Tile Pane:
 
 ![Tile pane](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure03.jpg)
 
@@ -92,7 +93,7 @@ When bound to a data source, List Detail, Datasheet, and Blank views contain an 
 
 Access 2013 apps support two controls that are new to Access; the AutoComplete control and the Related Items control.
 
-The AutoComplete control displays a list of records that match what you're typing into the box. The following figure shows an AutoComplete control bound to a list of employees.
+The AutoComplete control displays a list of records that match what you are typing into the box. The following figure shows an AutoComplete control bound to a list of employees.
 
 ![AutoComplete control](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure10.jpg)
 
@@ -190,3 +191,5 @@ Access 2013 introduces a new application model that enables subject matter exper
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

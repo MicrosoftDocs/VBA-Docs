@@ -1,5 +1,5 @@
 ---
-title: Options.Overtype Property (Word)
+title: Options.Overtype property (Word)
 keywords: vbawd10.chm162988098
 f1_keywords:
 - vbawd10.chm162988098
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.Overtype
 ms.assetid: 2538fee5-3571-3fae-06d0-f6c3533bb121
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.Overtype Property (Word)
+# Options.Overtype property (Word)
 
- **True** if Overtype mode is active. Read/write **Boolean** .
+ **True** if Overtype mode is active. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Overtype`
+_expression_. `Overtype`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

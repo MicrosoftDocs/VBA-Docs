@@ -1,5 +1,5 @@
 ---
-title: CellRange.Row Property (Publisher)
+title: CellRange.Row property (Publisher)
 keywords: vbapb10.chm5177350
 f1_keywords:
 - vbapb10.chm5177350
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CellRange.Row
 ms.assetid: ac5bccf0-6c9b-ce0e-20e5-f06ef29886c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellRange.Row Property (Publisher)
+# CellRange.Row property (Publisher)
 
 Returns a  **Long** that represents the row number containing the specified cell. Read-only.
 
 
 ## Syntax
 
- _expression_. **Row**
+_expression_.**Row**
 
  _expression_ A variable that represents a  **CellRange** object.
 
@@ -52,4 +53,4 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

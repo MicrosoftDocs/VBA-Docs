@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.NotifySignatureAdded Method (Office)
+title: SignatureProvider.NotifySignatureAdded method (Office)
 keywords: vbaof11.chm287005
 f1_keywords:
 - vbaof11.chm287005
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.SignatureProvider.NotifySignatureAdded
 ms.assetid: 07eb9589-ff67-e54f-9a83-966738c3df58
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SignatureProvider.NotifySignatureAdded Method (Office)
+# SignatureProvider.NotifySignatureAdded method (Office)
 
 Used to display a dialog box informing the user that the signing process has completed and providing additional functionality for the add-in.
 
 
 ## Syntax
 
- _expression_. `NotifySignatureAdded`( `_ParentWindow_`, `_psigsetup_`, `_psiginfo_` )
+_expression_.**NotifySignatureAdded**(_ParentWindow_, _psigsetup_, _psiginfo_)
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+_expression_ An expression that returns a **[SignatureProvider](Office.SignatureProvider.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,10 +39,10 @@ This method is called when the signing process has completed. Allows a signature
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **NotifySignatureAdded** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **NotifySignatureAdded** method in a custom signature provider project.
 
 
-```vb
+```cs
  public void NotifySignatureAdded(object parentWindow, SignatureSetup sigsetup, SignatureInfo siginfo) 
  { 
  using (Win32WindowFromOleWindow window = new Win32WindowFromOleWindow(parentWindow)) 
@@ -60,10 +59,8 @@ The following example, written in C#, shows the implementation of the  **NotifyS
 
 ## See also
 
-
-[SignatureProvider Object](Office.SignatureProvider.md)
-
+- [SignatureProvider object members](overview/Library-Reference/signatureprovider-members-office.md)
 
 
-[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

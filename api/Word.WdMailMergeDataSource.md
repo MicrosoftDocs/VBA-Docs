@@ -1,14 +1,15 @@
 ---
-title: WdMailMergeDataSource Enumeration (Word)
+title: WdMailMergeDataSource enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeDataSource
 ms.assetid: df209be7-8008-ecd7-d775-c25ea1656542
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMailMergeDataSource Enumeration (Word)
+# WdMailMergeDataSource enumeration (Word)
 
 Specifies the data source for a mail merge operation.
 
@@ -24,3 +25,4 @@ Specifies the data source for a mail merge operation.
 | **wdMergeInfoFromWord**|0|From Microsoft Word.|
 | **wdNoMergeInfo**|-1|No merge information provided.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.PickUp Method (Publisher)
+title: Shape.PickUp method (Publisher)
 keywords: vbapb10.chm2228259
 f1_keywords:
 - vbapb10.chm2228259
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.PickUp
 ms.assetid: 12b59235-db2d-b451-de8e-9e8df6bfeb1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.PickUp Method (Publisher)
+# Shape.PickUp method (Publisher)
 
 Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the  **[Apply](Publisher.ShapeRange.Apply.md)** method.
 
 
 ## Syntax
 
- _expression_. **PickUp**
+_expression_.**PickUp**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -46,4 +47,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

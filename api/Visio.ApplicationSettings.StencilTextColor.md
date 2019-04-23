@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.StencilTextColor Property (Visio)
+title: ApplicationSettings.StencilTextColor property (Visio)
 keywords: vis_sdr.chm16251515
 f1_keywords:
 - vis_sdr.chm16251515
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.StencilTextColor
 ms.assetid: 4e71f784-0d1a-c49f-7e9f-e0b96fdc0f6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.StencilTextColor Property (Visio)
+# ApplicationSettings.StencilTextColor property (Visio)
 
 Determines the color of text in stencil windows in Microsoft Visio for the current session. Read/write.
 
 
 ## Syntax
 
- _expression_. `StencilTextColor`
+_expression_. `StencilTextColor`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -45,13 +46,13 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
 
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the Properties window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR** .
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR**.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **vbBlack**|0x0 |Black|
 | **vbRed**|0xFF |Red|
@@ -62,3 +63,4 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

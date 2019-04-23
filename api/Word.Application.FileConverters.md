@@ -1,5 +1,5 @@
 ---
-title: Application.FileConverters Property (Word)
+title: Application.FileConverters property (Word)
 keywords: vbawd10.chm158334993
 f1_keywords:
 - vbawd10.chm158334993
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.FileConverters
 ms.assetid: 90f58ceb-6fb3-ee48-9637-effe39163888
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileConverters Property (Word)
+# Application.FileConverters property (Word)
 
 Returns a  **[FileConverters](Word.fileconverters.md)** collection that represents all the file converters available to Microsoft Word. Read-only.
 
 
 ## Syntax
 
- _expression_. `FileConverters`
+_expression_. `FileConverters`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -69,3 +70,4 @@ MsgBox "The file name extensions for " & fcTemp.FormatName & _
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

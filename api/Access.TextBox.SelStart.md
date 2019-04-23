@@ -7,34 +7,35 @@ ms.prod: access
 api_name:
 - Access.TextBox.SelStart
 ms.assetid: 51c773bb-2b70-b812-6b6a-9e062e493ebb
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
 # TextBox.SelStart property (Access)
 
-The  **SelStart** property specifies or determines the starting point of the selected text or the position of the insertion point if no text is selected. Read/write **Integer**.
+The **SelStart** property specifies or determines the starting point of the selected text or the position of the insertion point if no text is selected. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `SelStart`
+_expression_.**SelStart**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks
 
-The  **SelStart** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
+The **SelStart** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
 
-To set or return this property for a control, the control must have the focus. To move the focus to a control, use the  **SetFocus** method.
+To set or return this property for a control, the control must have the focus. To move the focus to a control, use the **SetFocus** method.
 
-Changing the  **SelStart** property cancels the selection, places an insertion point in the text, and sets the **SelLength** property to 0.
+Changing the **SelStart** property cancels the selection, places an insertion point in the text, and sets the **SelLength** property to 0.
 
 
 ## Example
 
-The following example uses two event procedures to search for text specified by a user. The text to search is set in the form's Load event procedure. The Click event procedure for the Find button (which the user clicks to start the search) prompts the user for the text to search for and selects the text in the text box if the search is successful.
+The following example uses two event procedures to search for text specified by a user. The text to search is set in the form's **Load** event procedure. The **Click** event procedure for the **Find** button (which the user clicks to start the search) prompts the user for the text to search for and selects the text in the text box if the search is successful.
 
 
 ```vb
@@ -78,8 +79,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[TextBox Object](Access.TextBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

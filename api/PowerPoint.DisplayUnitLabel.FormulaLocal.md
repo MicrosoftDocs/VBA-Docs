@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.FormulaLocal Property (PowerPoint)
+title: DisplayUnitLabel.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm699026
 f1_keywords:
 - vbapp10.chm699026
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DisplayUnitLabel.FormulaLocal
 ms.assetid: 5fea8bc4-0332-f7cd-c5d4-548680d2b31f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel.FormulaLocal Property (PowerPoint)
+# DisplayUnitLabel.FormulaLocal property (PowerPoint)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
- _expression_ A variable that represents a [DisplayUnitLabel](./PowerPoint.DisplayUnitLabel.md) object.
+_expression_ A variable that represents a [DisplayUnitLabel](./PowerPoint.DisplayUnitLabel.md) object.
 
 
 ## Remarks
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

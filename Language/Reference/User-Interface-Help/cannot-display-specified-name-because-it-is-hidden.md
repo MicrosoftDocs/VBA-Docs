@@ -3,6 +3,7 @@ title: Cannot display specified name because it is hidden
 ms.prod: office
 ms.assetid: eed82544-a13a-4bda-b8c5-29e5148e8546
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Some names exist in a type library, but are marked as hidden. This error has the
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

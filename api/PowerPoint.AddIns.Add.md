@@ -1,5 +1,5 @@
 ---
-title: AddIns.Add Method (PowerPoint)
+title: AddIns.Add method (PowerPoint)
 keywords: vbapp10.chm520004
 f1_keywords:
 - vbapp10.chm520004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AddIns.Add
 ms.assetid: e476e0dc-e82b-c460-822b-def325330514
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIns.Add Method (PowerPoint)
+# AddIns.Add method (PowerPoint)
 
 Returns an  **AddIn** object that represents an add-in file added to the list of add-ins.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Filename_` )
+_expression_.**Add**( `_FileName_` )
 
- _expression_ A variable that represents an [AddIns](./PowerPoint.AddIns.md) object.
+_expression_ A variable that represents an [AddIns](./PowerPoint.AddIns.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ This method doesn't load the new add-in. You must set the  **Loaded** property t
 
 [AddIns Object](PowerPoint.AddIns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.PageRangeSeparator Property (Word)
+title: TableOfAuthorities.PageRangeSeparator property (Word)
 keywords: vbawd10.chm152109064
 f1_keywords:
 - vbawd10.chm152109064
@@ -8,17 +8,18 @@ api_name:
 - Word.TableOfAuthorities.PageRangeSeparator
 ms.assetid: f2b2c68f-15b2-5eb1-1af2-981920f18cc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.PageRangeSeparator Property (Word)
+# TableOfAuthorities.PageRangeSeparator property (Word)
 
-Returns or sets the characters (up to five) that separate a range of pages in a table of authorities. Read/write  **String** .
+Returns or sets the characters (up to five) that separate a range of pages in a table of authorities. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PageRangeSeparator`
+_expression_. `PageRangeSeparator`
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
@@ -43,3 +44,4 @@ ActiveDocument.TablesOfAuthorities(1).PageRangeSeparator = " - "
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

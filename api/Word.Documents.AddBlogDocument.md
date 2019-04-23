@@ -1,5 +1,5 @@
 ---
-title: Documents.AddBlogDocument Method (Word)
+title: Documents.AddBlogDocument method (Word)
 keywords: vbawd10.chm158072853
 f1_keywords:
 - vbawd10.chm158072853
@@ -8,17 +8,18 @@ api_name:
 - Word.Documents.AddBlogDocument
 ms.assetid: d47b1b27-a5df-1c82-a8eb-6a4a2853f1ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.AddBlogDocument Method (Word)
+# Documents.AddBlogDocument method (Word)
 
 Returns a  **Document** object that represents a new blog document that Microsoft Word publishes to the account described by the first three parameters.
 
 
 ## Syntax
 
- _expression_. `AddBlogDocument`( `_ProviderID_` , `_PostURL_` , `_BlogName_` , `_PostID_` )
+_expression_. `AddBlogDocument`( `_ProviderID_` , `_PostURL_` , `_BlogName_` , `_PostID_` )
 
  _expression_ An expression that returns a '[Documents](Word.documents.md)' object.
 
@@ -44,3 +45,4 @@ This method creates a new document, and it also registers the specified blog acc
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

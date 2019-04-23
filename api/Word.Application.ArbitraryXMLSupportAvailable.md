@@ -1,5 +1,5 @@
 ---
-title: Application.ArbitraryXMLSupportAvailable Property (Word)
+title: Application.ArbitraryXMLSupportAvailable property (Word)
 keywords: vbawd10.chm158335441
 f1_keywords:
 - vbawd10.chm158335441
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ArbitraryXMLSupportAvailable
 ms.assetid: 5cf53ae7-200b-811e-7946-4fefe825eaec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ArbitraryXMLSupportAvailable Property (Word)
+# Application.ArbitraryXMLSupportAvailable property (Word)
 
 Returns a  **Boolean** that represents whether Microsoft Word accepts custom XML schemas. **True** indicates that Word accepts custom XML schemas.
 
 
 ## Syntax
 
- _expression_. `ArbitraryXMLSupportAvailable`
+_expression_. `ArbitraryXMLSupportAvailable`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -45,3 +46,4 @@ If Application.ArbitraryXMLSupportAvailable = False Then
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

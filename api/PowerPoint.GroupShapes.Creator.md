@@ -1,21 +1,22 @@
 ---
-title: GroupShapes.Creator Property (PowerPoint)
+title: GroupShapes.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Creator
 ms.assetid: 89ba86e8-37fe-b30f-7dd6-a8dd8bf7b3b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Creator Property (PowerPoint)
+# GroupShapes.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

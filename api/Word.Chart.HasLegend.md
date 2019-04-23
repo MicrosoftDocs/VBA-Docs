@@ -1,23 +1,24 @@
 ---
-title: Chart.HasLegend Property (Word)
+title: Chart.HasLegend property (Word)
 ms.prod: word
 api_name:
 - Word.Chart.HasLegend
 ms.assetid: 057fedc3-4f23-9c28-3196-836523d83656
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasLegend Property (Word)
+# Chart.HasLegend property (Word)
 
- **True** if the chart has a legend. Read/write **Boolean** .
+ **True** if the chart has a legend. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasLegend`
+_expression_.**HasLegend**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

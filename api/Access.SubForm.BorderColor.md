@@ -7,34 +7,37 @@ ms.prod: access
 api_name:
 - Access.SubForm.BorderColor
 ms.assetid: 30970cd2-7fc9-be57-3124-806cfbe76a2c
-ms.date: 06/08/2017
+ms.date: 02/20/2019
+localization_priority: Normal
 ---
 
 
 # SubForm.BorderColor property (Access)
 
-You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
+You can use the **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `BorderColor`
+_expression_.**BorderColor**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## Remarks
 
-The  **BorderColor** property setting is a numeric expression that corresponds to the color you want to use for a control's border.
+The **BorderColor** property setting is a numeric expression that corresponds to the color that you want to use for a control's border.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
-A control's border color is visible only when its  **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderColor** property changes the **SpecialEffect** property setting to Flat.
+A control's border color is visible only when its **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderColor** property changes the **SpecialEffect** property setting to Flat.
 
 
 ## Example
 
-The following example uses the  **RGB** function to set the **BorderColor**, **BackColor**, and **ForeColor** properties depending on the value of the `txtPastDue` text box. You can also use the QBColor function to set these properties. Putting the following code in the Form_Current( ) event sets the control display characteristics as soon as the user opens a form or moves to a new record.
+The following example uses the **RGB** function to set the **BorderColor**, **BackColor**, and **ForeColor** properties depending on the value of the **txtPastDue** text box. You can also use the **QBColor** function to set these properties. 
+
+Putting the following code in the **Form_Current( )** event sets the control display characteristics as soon as the user opens a form or moves to a new record.
 
 
 ```vb
@@ -64,8 +67,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[SubForm Object](Access.SubForm.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

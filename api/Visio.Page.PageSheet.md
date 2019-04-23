@@ -1,5 +1,5 @@
 ---
-title: Page.PageSheet Property (Visio)
+title: Page.PageSheet property (Visio)
 keywords: vis_sdr.chm10914000
 f1_keywords:
 - vis_sdr.chm10914000
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.PageSheet
 ms.assetid: 495709a8-92f0-6fdf-753f-7ac25c5daaab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.PageSheet Property (Visio)
+# Page.PageSheet property (Visio)
 
 Returns the page sheet (an object that represents the ShapeSheet spreadsheet) of a page. Read-only.
 
 
 ## Syntax
 
- _expression_. `PageSheet`
+_expression_. `PageSheet`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -30,9 +31,9 @@ Shape
 
 ## Remarks
 
-Every page contains a tree of  **Shape** objects. Constants representing shape types are prefixed with **visType** and are declared by the Visio type library in **[VisShapeTypes](Visio.visshapetypes.md)** .
+Every page contains a tree of  **Shape** objects. Constants representing shape types are prefixed with **visType** and are declared by the Visio type library in **[VisShapeTypes](Visio.visshapetypes.md)**.
 
-In the tree of shapes of a page, there is exactly one shape of type  **visTypePage** . This shape is always the root shape in the tree, and the **PageSheet** property returns this shape.
+In the tree of shapes of a page, there is exactly one shape of type  **visTypePage**. This shape is always the root shape in the tree, and the **PageSheet** property returns this shape.
 
 The page sheet contains important settings for the page such as its size and scale. It also contains the Layers section that defines the layers for that page.
 
@@ -54,4 +55,4 @@ Sub PagePageSheet_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

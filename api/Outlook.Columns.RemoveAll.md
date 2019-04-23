@@ -1,5 +1,5 @@
 ---
-title: Columns.RemoveAll Method (Outlook)
+title: Columns.RemoveAll method (Outlook)
 keywords: vbaol11.chm2743
 f1_keywords:
 - vbaol11.chm2743
@@ -8,29 +8,30 @@ api_name:
 - Outlook.Columns.RemoveAll
 ms.assetid: e9923548-9c75-e5dd-0643-3c42cd112352
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.RemoveAll Method (Outlook)
+# Columns.RemoveAll method (Outlook)
 
-Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)** .
+Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax
 
- _expression_. `RemoveAll`
+_expression_. `RemoveAll`
 
- _expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
+_expression_ A variable that represents a [Columns](Outlook.Columns.md) object.
 
 
 ## Remarks
 
- **RemoveAll** resets the **Table** by moving the current row to just before the first row of the **Table** . After a call to **RemoveAll** , **[Columns.Count](Outlook.Columns.Count.md)** becomes zero (0).
+ **RemoveAll** resets the **Table** by moving the current row to just before the first row of the **Table**. After a call to **RemoveAll**, **[Columns.Count](Outlook.Columns.Count.md)** becomes zero (0).
 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table** , add specific columns, and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
 
 
 ```vb
@@ -107,3 +108,4 @@ End Sub
 
 [Columns Object](Outlook.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

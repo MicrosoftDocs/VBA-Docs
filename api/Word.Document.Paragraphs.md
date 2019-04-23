@@ -1,5 +1,5 @@
 ---
-title: Document.Paragraphs Property (Word)
+title: Document.Paragraphs property (Word)
 keywords: vbawd10.chm158007312
 f1_keywords:
 - vbawd10.chm158007312
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Paragraphs
 ms.assetid: ad60de6b-6287-8ea0-142e-8795f623aa29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Paragraphs Property (Word)
+# Document.Paragraphs property (Word)
 
 Returns a  **Paragraphs** collection that represents all the paragraphs in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Paragraphs`
+_expression_. `Paragraphs`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ Selection.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

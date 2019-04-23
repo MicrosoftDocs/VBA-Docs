@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 2707f9b2-0fa7-728f-7e63-b0f98cde6de8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ ms.date: 06/08/2017
     
 Because macros can contain viruses, be careful about running them. Take the following precautions: run up-to-date antivirus software on your computer; on the  **Add-ins** tab, check the **Require Application Add-ins to be signed by Trusted Publisher** box; use digital signatures; and maintain a list of trusted publishers.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Cut Method (Word)
+title: MailMergeField.Cut method (Word)
 keywords: vbawd10.chm152961130
 f1_keywords:
 - vbawd10.chm152961130
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeField.Cut
 ms.assetid: 83455a23-06cb-9c73-1655-ad6c86d9cb3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeField.Cut Method (Word)
+# MailMergeField.Cut method (Word)
 
 Removes the specified mail merge field from the document and moves it to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_.**Cut**
 
- _expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeField](Word.MailMergeField.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End If
 
 [MailMergeField Object](Word.MailMergeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

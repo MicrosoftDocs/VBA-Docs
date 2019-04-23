@@ -1,5 +1,5 @@
 ---
-title: Application.CopyFile Method (Outlook)
+title: Application.CopyFile method (Outlook)
 keywords: vbaol11.chm727
 f1_keywords:
 - vbaol11.chm727
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.CopyFile
 ms.assetid: dc848d48-23e0-d0a9-049d-b2ae414151d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CopyFile Method (Outlook)
+# Application.CopyFile method (Outlook)
 
 Copies a file from a specified location into a Microsoft Outlook store.
 
 
 ## Syntax
 
- _expression_. `CopyFile`( `_FilePath_` , `_DestFolderPath_` )
+_expression_. `CopyFile`( `_FilePath_` , `_DestFolderPath_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters
@@ -82,3 +83,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

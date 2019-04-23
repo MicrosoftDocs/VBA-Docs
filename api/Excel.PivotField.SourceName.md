@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.SourceName
 ms.assetid: d18eb5a0-d44c-9f04-45b1-94cdf468c13e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the specified object?s name as it ap
 
 ## Syntax
 
- _expression_. `SourceName`
+_expression_. `SourceName`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ When using the  **[Item](Excel.PivotItems.Item.md)** property to reference a spe
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

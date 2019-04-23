@@ -1,5 +1,5 @@
 ---
-title: Workbook.SetPasswordEncryptionOptions Method (Excel)
+title: Workbook.SetPasswordEncryptionOptions method (Excel)
 keywords: vbaxl10.chm199214
 f1_keywords:
 - vbaxl10.chm199214
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SetPasswordEncryptionOptions
 ms.assetid: 3b6c9bfe-4cfb-1dde-fd57-07dd474df7db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SetPasswordEncryptionOptions Method (Excel)
+# Workbook.SetPasswordEncryptionOptions method (Excel)
 
 Sets the options for encrypting workbooks using passwords.
 
 
 ## Syntax
 
- _expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_` , `_PasswordEncryptionAlgorithm_` , `_PasswordEncryptionKeyLength_` , `_PasswordEncryptionFileProperties_` )
+_expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_` , `_PasswordEncryptionAlgorithm_` , `_PasswordEncryptionKeyLength_` , `_PasswordEncryptionFileProperties_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

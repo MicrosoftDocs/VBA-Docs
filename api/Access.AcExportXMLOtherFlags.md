@@ -8,14 +8,15 @@ api_name:
 - Access.AcExportXMLOtherFlags
 ms.assetid: ebc80f42-56e8-e024-241a-a2ddc5d752ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcExportXMLOtherFlags enumeration (Access)
 
-Use with the  **ExportXML** method to specify other behaviors associated with exporting to XML.
+Use with the **ExportXML** method to specify other behaviors associated with exporting to XML.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -26,3 +27,4 @@ Use with the  **ExportXML** method to specify other behaviors associated with ex
 |**acPersistReportML**|16|Persists the exported object's ReportML information.|
 |**acRunFromServer**|4|Creates an Active Server Pages (ASP) wrapper; otherwise, default is an HTML wrapper. Applies only when you are exporting reports.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.CommandParameter Property (Word)
+title: KeyBinding.CommandParameter property (Word)
 keywords: vbawd10.chm160956424
 f1_keywords:
 - vbawd10.chm160956424
@@ -8,17 +8,18 @@ api_name:
 - Word.KeyBinding.CommandParameter
 ms.assetid: 041cea6f-6275-e008-43ce-9075ee6d8f8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.CommandParameter Property (Word)
+# KeyBinding.CommandParameter property (Word)
 
-Returns the command parameter assigned to the specified shortcut key. Read-only  **String** .
+Returns the command parameter assigned to the specified shortcut key. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `CommandParameter`
+_expression_. `CommandParameter`
 
  _expression_ A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
@@ -50,3 +51,4 @@ MsgBox kbNew.Command & Chr$(32) & kbNew.CommandParameter _
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

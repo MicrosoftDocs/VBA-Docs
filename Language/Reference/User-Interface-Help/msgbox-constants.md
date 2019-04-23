@@ -1,24 +1,22 @@
 ---
-title: MsgBox Constants
+title: MsgBox constants
 keywords: vblr6.chm1012528
 f1_keywords:
 - vblr6.chm1012528
 ms.prod: office
 ms.assetid: c07bba5c-b724-0a63-b829-5efd8798734f
-ms.date: 06/08/2017
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
-# MsgBox Constants
+# MsgBox constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
+## MsgBox arguments
 
-## MsgBox Arguments
-
-
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOKOnly**|0|**OK** button only (default)|
 |**vbOKCancel**|1|**OK** and **Cancel** buttons|
@@ -41,11 +39,9 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbMsgBoxRight**|524288|Text is right aligned|
 |**vbMsgBoxRtlReading**|1048576|Specifies text should appear as right-to-left reading on Hebrew and Arabic systems|
 
-## MsgBox Return Values
+## MsgBox return values
 
-
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOK**|1|**OK** button pressed|
 |**vbCancel**|2|**Cancel** button pressed|
@@ -55,3 +51,8 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbYes**|6|**Yes** button pressed|
 |**vbNo**|7|**No** button pressed|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.AfterXmlImport Event (Excel)
+title: Workbook.AfterXmlImport event (Excel)
 keywords: vbaxl10.chm503098
 f1_keywords:
 - vbaxl10.chm503098
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.AfterXmlImport
 ms.assetid: b43adf53-6b67-6127-e69d-6ea05f68b7f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.AfterXmlImport Event (Excel)
+# Workbook.AfterXmlImport event (Excel)
 
 Occurs after an existing XML data connection is refreshed or after new XML data is imported into the specified Microsoft Excel workbook.
 
 
 ## Syntax
 
- _expression_. `AfterXmlImport`( `_Map_` , `_IsRefresh_` , `_Result_` )
+_expression_. `AfterXmlImport`( `_Map_` , `_IsRefresh_` , `_Result_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -44,8 +45,9 @@ Nothing
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants:|
-| **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess** . The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed** . The contents of the XML data file do not match the specified schema map.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants:|
+| **xlXmlImportElementsTruncated**. The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
+| **xlXmlImportSuccess**. The XML data file was successfully imported.|
+| **xlXmlImportValidationFailed**. The contents of the XML data file do not match the specified schema map.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

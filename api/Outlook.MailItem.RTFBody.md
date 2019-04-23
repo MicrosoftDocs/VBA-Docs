@@ -1,5 +1,5 @@
 ---
-title: MailItem.RTFBody Property (Outlook)
+title: MailItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3554
 f1_keywords:
 - vbaol11.chm3554
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.RTFBody
 ms.assetid: 93bfda4f-08fb-9527-6946-625546d7fb49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.RTFBody Property (Outlook)
+# MailItem.RTFBody property (Outlook)
 
 Returns or sets a  **Byte** array that represents the body of the Microsoft Outlook item in Rich Text Format. Read/write.
 
 
 ## Syntax
 
- _expression_. `RTFBody`
+_expression_. `RTFBody`
 
- _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
+_expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
 
 
 ## Remarks
@@ -88,3 +89,4 @@ private void GetRTFBodyForMail()
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

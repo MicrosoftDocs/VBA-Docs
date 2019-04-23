@@ -1,5 +1,5 @@
 ---
-title: Selection.Paragraphs Property (Word)
+title: Selection.Paragraphs property (Word)
 keywords: vbawd10.chm158662715
 f1_keywords:
 - vbawd10.chm158662715
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Paragraphs
 ms.assetid: f237788a-01e4-62ce-d698-3af619c90272
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Paragraphs Property (Word)
+# Selection.Paragraphs property (Word)
 
 Returns a  **[Paragraphs](Word.paragraphs.md)** collection that represents all the paragraphs in the specified selection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Paragraphs`
+_expression_. `Paragraphs`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Selection.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.TextEffect Property (Project)
+title: ShapeRange.TextEffect property (Project)
 ms.prod: project-server
 ms.assetid: 83c2ca99-7ae1-0a93-41f1-2e53379b54ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.TextEffect Property (Project)
+# ShapeRange.TextEffect property (Project)
 Gets text formatting properties for the shape range. Read-only  **[TextEffectFormat](https://msdn.microsoft.com/library/office/ff834714%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_. `TextEffect`
+_expression_. `TextEffect`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -65,3 +66,5 @@ End Sub
 [ShapeRange Object](Project.shaperange.md)
 [Shape.TextEffect Property](Project.shape.texteffect.md)
 [TextEffectFormat](https://msdn.microsoft.com/library/office/ff834714%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.TestExpression Property (Visio)
+title: ValidationRule.TestExpression property (Visio)
 keywords: vis_sdr.chm18462665
 f1_keywords:
 - vis_sdr.chm18462665
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRule.TestExpression
 ms.assetid: 0d780351-ca46-e896-c6a4-5ae899427ae0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRule.TestExpression Property (Visio)
+# ValidationRule.TestExpression property (Visio)
 
 Gets or sets the logical expression that determines whether the target object satisfies the validation rule. Read/write.
 
 
 ## Syntax
 
- _expression_. `TestExpression`
+_expression_. `TestExpression`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
@@ -30,9 +31,9 @@ Gets or sets the logical expression that determines whether the target object sa
 
 ## Remarks
 
-When you validate a diagram by calling the  **[Validate](Visio.Validation.Validate.md)** method or by clicking **Check Diagram** on the **Process** tab, Microsoft Visio uses the test expression that you set as the **TestExpression** property value to determine whether the target object satisfies the validation rule. If the test expression evaluates to **False** , Visio generates a validation issue. If the test expression evaluates to **True** , no validation issue is generated.
+When you validate a diagram by calling the  **[Validate](Visio.Validation.Validate.md)** method or by clicking **Check Diagram** on the **Process** tab, Microsoft Visio uses the test expression that you set as the **TestExpression** property value to determine whether the target object satisfies the validation rule. If the test expression evaluates to **False**, Visio generates a validation issue. If the test expression evaluates to **True**, no validation issue is generated.
 
-Visio evaluates the test expression for target objects only when the value of the  **[FilterExpression](Visio.ValidationRule.FilterExpression.md)** property of the **ValidationRule** object evaluates to **True** .
+Visio evaluates the test expression for target objects only when the value of the  **[FilterExpression](Visio.ValidationRule.FilterExpression.md)** property of the **ValidationRule** object evaluates to **True**.
 
 The syntax for the  **TestExpression** property value is the same as that for a ShapeSheet expression. When you set the **TestExpression** property value, Visio does not check the syntax of the test expression. If the test expression is not syntactically correct, the evaluation of the expression fails during validation and Visio generates a validation issue at that time.
 
@@ -67,4 +68,4 @@ vsoValidationRule.FilterExpression = "NOT(Is1D())"
 vsoValidationRule.TestExpression = "AGGCOUNT(GLUEDSHAPES(0)) + AGGCOUNT(GLUEDSHAPES(3)) > 0"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

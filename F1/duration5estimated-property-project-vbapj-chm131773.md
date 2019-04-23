@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 83fcea20-4e82-48fa-abfa-6ce925126adc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.EffortDriven Property (Project)](http://msdn.microsoft.com/library/9c17e4b9-258e-6929-6b35-de0dfa7687c2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

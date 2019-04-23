@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Parent Property (PowerPoint)
+title: SlideShowWindow.Parent property (PowerPoint)
 keywords: vbapp10.chm507002
 f1_keywords:
 - vbapp10.chm507002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowWindow.Parent
 ms.assetid: 166f5478-3e52-5e51-b2b3-64a5add0fa8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Parent Property (PowerPoint)
+# SlideShowWindow.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

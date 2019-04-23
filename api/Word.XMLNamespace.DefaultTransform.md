@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.DefaultTransform Property (Word)
+title: XMLNamespace.DefaultTransform property (Word)
 keywords: vbawd10.chm2293766
 f1_keywords:
 - vbawd10.chm2293766
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLNamespace.DefaultTransform
 ms.assetid: a43c9869-98f0-0a18-8e3c-eb4930553367
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNamespace.DefaultTransform Property (Word)
+# XMLNamespace.DefaultTransform property (Word)
 
  Returns an **[XSLTransform](Word.XSLTransform.md)** object that represents the default Extensible Stylesheet Language Transformation (XSLT) file to use when opening a document from an XML schema for a particular namespace.
 
 
 ## Syntax
 
- _expression_. `DefaultTransform`
+_expression_. `DefaultTransform`
 
  _expression_ An expression that returns an '[XMLNamespace](Word.XMLNamespace.md)' object.
 
@@ -40,3 +41,4 @@ Set objXSLT = Application.XMLNamespaces(1).DefaultTransform
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

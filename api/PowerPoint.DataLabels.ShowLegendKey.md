@@ -1,23 +1,24 @@
 ---
-title: DataLabels.ShowLegendKey Property (PowerPoint)
+title: DataLabels.ShowLegendKey property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowLegendKey
 ms.assetid: 84080842-b3ab-0617-e0b2-04e865f968c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.ShowLegendKey Property (PowerPoint)
+# DataLabels.ShowLegendKey property (PowerPoint)
 
  **True** if the data label legend key is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowLegendKey`
+_expression_. `ShowLegendKey`
 
- _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
+_expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 
 
 ## Example
@@ -48,3 +49,4 @@ End With
 
 [DataLabels Object](PowerPoint.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.AddFromFile Method (Word)
+title: Subdocuments.AddFromFile method (Word)
 keywords: vbawd10.chm159907940
 f1_keywords:
 - vbawd10.chm159907940
@@ -8,19 +8,20 @@ api_name:
 - Word.Subdocuments.AddFromFile
 ms.assetid: 7f9e73a9-bea9-815e-eccc-3406e6d5dd63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocuments.AddFromFile Method (Word)
+# Subdocuments.AddFromFile method (Word)
 
 Adds the specified subdocument to the master document at the start of the selection and returns a  **Subdocument** object.
 
 
 ## Syntax
 
- _expression_. `AddFromFile`( `_Name_` , `_ConfirmConversions_` , `_ReadOnly_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` )
+_expression_. `AddFromFile`( `_Name_` , `_ConfirmConversions_` , `_ReadOnly_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_Revert_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` )
 
- _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
+_expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
 ## Parameters
@@ -75,3 +76,4 @@ Selection.Range.Subdocuments.AddFromFile Name:="C:\Subdoc.doc", _
 
 [Subdocuments Collection Object](Word.subdocuments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

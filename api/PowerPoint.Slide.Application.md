@@ -1,5 +1,5 @@
 ---
-title: Slide.Application Property (PowerPoint)
+title: Slide.Application property (PowerPoint)
 keywords: vbapp10.chm531001
 f1_keywords:
 - vbapp10.chm531001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.Application
 ms.assetid: ef89143b-2a7e-b7b3-a790-3bcb7433c1fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.Application Property (PowerPoint)
+# Slide.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

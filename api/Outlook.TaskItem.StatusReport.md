@@ -1,5 +1,5 @@
 ---
-title: TaskItem.StatusReport Method (Outlook)
+title: TaskItem.StatusReport method (Outlook)
 keywords: vbaol11.chm1757
 f1_keywords:
 - vbaol11.chm1757
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.StatusReport
 ms.assetid: 70549833-3287-bbbe-6756-896d400f6695
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.StatusReport Method (Outlook)
+# TaskItem.StatusReport method (Outlook)
 
 Sends a status report to all Cc recipients (recipients returned by the  **[StatusUpdateRecipients](Outlook.TaskItem.StatusUpdateRecipients.md)** property) with the current status for the task and returns an **Object** representing the status report.
 
 
 ## Syntax
 
- _expression_. `StatusReport`
+_expression_. `StatusReport`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Return value
@@ -60,3 +61,4 @@ End Sub
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,11 +1,12 @@
 ---
-title: Event statement
+title: Event statement (VBA)
 keywords: vblr6.chm1103515
 f1_keywords:
 - vblr6.chm1103515
 ms.prod: office
 ms.assetid: 14493dfc-5b73-f870-742a-cd4edcf69899
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
@@ -15,22 +16,26 @@ Declares a user-defined event.
 
 ## Syntax
 
-[ **Public** ] **Event**_procedurename_ [ (_arglist_) ]
+[ **Public** ] **Event** _procedurename_ [ (_arglist_) ]
+
+<br/>
 
 The **Event** statement has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. Specifies that the **Event** is visible throughout the [project](../../Glossary/vbe-glossary.md#project). **Events** types are **Public** by default. Note that events can only be raised in the [module](../../Glossary/vbe-glossary.md#module) in which they are declared.|
 | _procedurename_|Required. Name of the event; follows standard variable naming conventions.|
 
 <br/>
 
-The  _arglist_ argument has the following syntax and parts:
+The _arglist_ argument has the following syntax and parts:
 
-[ **ByVal** |**ByRef** ] _varname_ [ ( ) ] [ **As**_type_ ]
+[ **ByVal** | **ByRef** ] _varname_ [ ( ) ] [ **As** _type_ ]
 
-|**Part**|**Description**|
+<br/>
+
+|Part|Description|
 |:-----|:-----|
 |**ByVal**|Optional. Indicates that the [argument](../../Glossary/vbe-glossary.md#argument) is passed [by value](../../Glossary/vbe-glossary.md#by-value).|
 |**ByRef**|Optional. Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference). **ByRef** is the default in Visual Basic.|
@@ -39,7 +44,7 @@ The  _arglist_ argument has the following syntax and parts:
 
 ## Remarks
 
-Once the event has been declared, use the **RaiseEvent** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a [standard module](../../Glossary/vbe-glossary.md#standard-module). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments:
+After the event has been declared, use the **[RaiseEvent](raiseevent-statement.md)** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a [standard module](../../Glossary/vbe-glossary.md#standard-module). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments.
 
 ```vb
 ' Declare an event at module level of a class module 
@@ -57,11 +62,11 @@ End Sub
 
 ## Example
 
-The following example uses events to count off seconds during a demonstration of the fastest 100 meter race. The code illustrates all of the event-related methods, properties, and statements, including the **Event** statement.
+The following example uses events to count off seconds during a demonstration of the fastest 100-meter race. The code illustrates all of the event-related methods, properties, and statements, including the **Event** statement.
 
 The class that raises an event is the event source, and the classes that implement the event are the sinks. An event source can have multiple sinks for the events it generates. When the class raises the event, that event is fired on every class that has elected to sink events for that instance of the object.
 
-The example also uses a form (`Form1`) with a button (`Command1`), a label (`Label1`), and two text boxes (`Text1` and `Text2`). When you click the button, the first text box displays "From Now" and the second starts to count seconds. When the full time (9.84 seconds) has elapsed, the first text box displays "Until Now" and the second displays "9.84"
+The example also uses a form (`Form1`) with a button (`Command1`), a label (`Label1`), and two text boxes (`Text1` and `Text2`). When you click the button, the first text box displays "From Now" and the second starts to count seconds. When the full time (9.84 seconds) has elapsed, the first text box displays "Until Now" and the second displays "9.84".
 
 The code specifies the initial and terminal states of the form. It also contains the code executed when events are raised.
 
@@ -126,3 +131,9 @@ End Sub
 ```
 
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

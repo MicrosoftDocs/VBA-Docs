@@ -1,14 +1,15 @@
 ---
-title: WdNumberStyleWordBasicBiDi Enumeration (Word)
+title: WdNumberStyleWordBasicBiDi enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberStyleWordBasicBiDi
 ms.assetid: 2adde082-b067-af9f-99b1-1f70cca382ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdNumberStyleWordBasicBiDi Enumeration (Word)
+# WdNumberStyleWordBasicBiDi enumeration (Word)
 
 This enumeration has been deprecated and should not be used.
 
@@ -25,3 +26,4 @@ This enumeration has been deprecated and should not be used.
 | **wdPageNumberStyleBidiLetter1**|49|Not supported.|
 | **wdPageNumberStyleBidiLetter2**|50|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

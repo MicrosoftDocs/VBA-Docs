@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 964b8967-8270-830c-bf69-c6ef1078fbbb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTable.ModelTableColumns property (Excel)
 
-Collection of [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) that make up the ModelTable. Read-only
+Collection of [ModelTableColumns](Excel.modeltablecolumns.md) objects that make up the ModelTable. Read-only.
 
 
 ## Syntax
 
- _expression_. `ModelTableColumns`
+_expression_. `ModelTableColumns`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a **[ModelTable](Excel.modeltable.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Collection of [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) tha
 
 [ModelTable Object](Excel.modeltable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

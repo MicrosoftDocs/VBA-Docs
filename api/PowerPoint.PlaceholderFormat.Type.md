@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.Type Property (PowerPoint)
+title: PlaceholderFormat.Type property (PowerPoint)
 keywords: vbapp10.chm545003
 f1_keywords:
 - vbapp10.chm545003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaceholderFormat.Type
 ms.assetid: ad527111-dbae-a6c3-dfa4-bc177405ed16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.Type Property (PowerPoint)
+# PlaceholderFormat.Type property (PowerPoint)
 
 Represents the type of placeholder. Read-only.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [PlaceholderFormat](./PowerPoint.PlaceholderFormat.md) object.
 
@@ -58,3 +59,4 @@ The value of the  **Type** property can be one of these **PpPlaceholderType** co
 
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Visible Property (Visio)
+title: Toolbar.Visible property (Visio)
 keywords: vis_sdr.chm13714650
 f1_keywords:
 - vis_sdr.chm13714650
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Visible
 ms.assetid: f6d0771a-c40f-b11b-1355-50510506b98f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Visible Property (Visio)
+# Toolbar.Visible property (Visio)
 
 Determines whether an object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -95,4 +96,4 @@ Public Sub Visible_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

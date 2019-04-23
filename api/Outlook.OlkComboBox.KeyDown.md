@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.KeyDown Event (Outlook)
+title: OlkComboBox.KeyDown event (Outlook)
 keywords: vbaol11.chm1000242
 f1_keywords:
 - vbaol11.chm1000242
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkComboBox.KeyDown
 ms.assetid: 43d7718f-ce95-1a97-f65f-e3b018852e46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkComboBox.KeyDown Event (Outlook)
+# OlkComboBox.KeyDown event (Outlook)
 
 Occurs when a user presses a key.
 
 
 ## Syntax
 
- _expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyDown`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

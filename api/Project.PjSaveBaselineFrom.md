@@ -1,14 +1,15 @@
 ---
-title: PjSaveBaselineFrom Enumeration (Project)
+title: PjSaveBaselineFrom enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSaveBaselineFrom
 ms.assetid: eef21c4e-77e8-d4c2-42fb-18ceb14bbddc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjSaveBaselineFrom Enumeration (Project)
+# PjSaveBaselineFrom enumeration (Project)
 
 Contains constants that specify which fields to copy from.
 
@@ -39,3 +40,4 @@ Contains constants that specify which fields to copy from.
 |**pjCopyStart_Finish8**|9|Dates in the Start8 and Finish8 custom fields.|
 |**pjCopyStart_Finish9**|10|Dates in the Start9 and Finish9 custom fields.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.ActiveCell
 ms.assetid: 07ae9613-94b4-b3b9-c645-8acdabfebe86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the active
 
 ## Syntax
 
- _expression_. `ActiveCell`
+_expression_. `ActiveCell`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -71,3 +72,4 @@ End With
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

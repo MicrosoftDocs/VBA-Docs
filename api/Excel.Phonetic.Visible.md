@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetic.Visible
 ms.assetid: 3a2f0ac3-2a6b-221e-3a7c-d5c395db5bc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
+_expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 [Phonetic Object](Excel.Phonetic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextWrap Property (Publisher)
+title: ShapeRange.TextWrap property (Publisher)
 keywords: vbapb10.chm2294020
 f1_keywords:
 - vbapb10.chm2294020
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.TextWrap
 ms.assetid: 40fbc7aa-0a1b-7835-76bf-1815d7ccffc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.TextWrap Property (Publisher)
+# ShapeRange.TextWrap property (Publisher)
 
 Returns a  **[WrapFormat](Publisher.WrapFormat.md)** object that represents the properties for wrapping text around a shape or shape range.
 
 
 ## Syntax
 
- _expression_. **TextWrap**
+_expression_.**TextWrap**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -46,4 +47,4 @@ Sub SetTextWrapFormatProperties()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

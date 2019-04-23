@@ -1,17 +1,18 @@
 ---
-title: Shapes.AddLine Method (Project)
+title: Shapes.AddLine method (Project)
 ms.prod: project-server
 ms.assetid: 697a5972-4b24-8e77-b42f-b064019906fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLine Method (Project)
+# Shapes.AddLine method (Project)
 Adds a line to a report, and returns a  **Shape** object that represents the line.
 
 ## Syntax
 
- _expression_. `AddLine` _(BeginX,_ _BeginY,_ _EndX,_ _EndY)_
+_expression_. `AddLine` _(BeginX,_ _BeginY,_ _EndX,_ _EndY)_
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -76,3 +77,5 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Line Property](Project.shape.line.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

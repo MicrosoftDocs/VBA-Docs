@@ -1,5 +1,5 @@
 ---
-title: Window.RangeFromPoint Method (Excel)
+title: Window.RangeFromPoint method (Excel)
 keywords: vbaxl10.chm356131
 f1_keywords:
 - vbaxl10.chm356131
@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.RangeFromPoint
 ms.assetid: ece6172d-013d-5175-55e3-4968947d9e4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.RangeFromPoint Method (Excel)
+# Window.RangeFromPoint method (Excel)
 
-Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn?t a shape located at the specified coordinates, this method returns **Nothing** .
+Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn't a shape located at the specified coordinates, this method returns **Nothing**.
 
 
 ## Syntax
 
- _expression_. `RangeFromPoint`( `_x_` , `_y_` )
+_expression_. `RangeFromPoint`( `_x_` , `_y_` )
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ End Function
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

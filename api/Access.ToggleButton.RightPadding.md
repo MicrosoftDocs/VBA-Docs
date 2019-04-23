@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.RightPadding
 ms.assetid: 36e38e77-104a-0cac-9c89-1bd0958ad55a
-ms.date: 06/08/2017
+ms.date: 02/23/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.RightPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the toggle button and its right gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the toggle button and its right gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `RightPadding`
+_expression_.**RightPadding**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
-[ToggleButton Object](Access.ToggleButton.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

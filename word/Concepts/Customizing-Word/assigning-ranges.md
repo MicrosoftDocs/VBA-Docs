@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: abcdd18e-8d0e-13cd-0ec2-721dde99f9d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -54,4 +55,4 @@ Set Range2 = Range1.Duplicate
 
 If you change the start or endpoint of  `Range1`, it doesn't affect  `Range2,` and vice versa. Because these two ranges point to the same location in the document, changing the text in one range affects the text in the other range.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

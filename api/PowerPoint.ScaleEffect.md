@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect Object (PowerPoint)
+title: ScaleEffect object (PowerPoint)
 keywords: vbapp10.chm660000
 f1_keywords:
 - vbapp10.chm660000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ScaleEffect
 ms.assetid: cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScaleEffect Object (PowerPoint)
+# ScaleEffect object (PowerPoint)
 
 Represents a scaling effect for an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object.
 
@@ -61,3 +62,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

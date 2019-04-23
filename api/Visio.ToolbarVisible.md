@@ -5,6 +5,7 @@ api_name:
 - Visio.ToolbarVisible
 ms.assetid: 55e6b5fc-bda6-fff4-9049-b4aa398a4744
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the toolbar is visible in Microsoft 
 
 ## Syntax
 
- _expression_. **ToolbarVisible**
+_expression_.**ToolbarVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code hides the toolbar in Visio Viewer.
 vsoViewer.ToolbarVisible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

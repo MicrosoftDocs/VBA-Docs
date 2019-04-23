@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.FooterMargin
 ms.assetid: b6ec4b9c-c828-e6fe-2a65-ccddd1b05c30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.FooterMargin property (Excel)
 
-Returns or sets the distance from the bottom of the page to the footer, in points. Read/write  **Double** .
+Returns or sets the distance from the bottom of the page to the footer, in points. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `FooterMargin`
+_expression_. `FooterMargin`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ Worksheets("Sheet1").PageSetup.FooterMargin = _
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

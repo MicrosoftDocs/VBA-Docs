@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultSaveFormat Property (Word)
+title: Application.DefaultSaveFormat property (Word)
 keywords: vbawd10.chm158335040
 f1_keywords:
 - vbawd10.chm158335040
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DefaultSaveFormat
 ms.assetid: e15d8cc9-f6da-ccb0-784f-02fe9dc7ee6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DefaultSaveFormat Property (Word)
+# Application.DefaultSaveFormat property (Word)
 
-Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String** .
+Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultSaveFormat`
+_expression_. `DefaultSaveFormat`
 
  _expression_ An expression that represents a '[Application](Word.Application.md)' object.
 
@@ -67,3 +68,4 @@ Msgbox Application.DefaultSaveFormat
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.UsableWidth Property (Word)
+title: Window.UsableWidth property (Word)
 keywords: vbawd10.chm157417503
 f1_keywords:
 - vbawd10.chm157417503
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.UsableWidth
 ms.assetid: 48e8ef1a-2af2-2a3e-b879-861d6bd73af3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.UsableWidth Property (Word)
+# Window.UsableWidth property (Word)
 
-Returns the width (in points) of the active working area in the specified document window. Read-only  **Long** .
+Returns the width (in points) of the active working area in the specified document window. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `UsableWidth`
+_expression_. `UsableWidth`
 
  _expression_ An expression that returns a [Window](./Word.Window.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

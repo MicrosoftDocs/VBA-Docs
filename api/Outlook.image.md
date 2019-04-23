@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: d2bcc281-6af0-5bbf-fa7f-ac581dbcf5dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,4 +40,4 @@ The  **Image** supports the following file formats:
 
 You can also display a picture on a  **[Label](Outlook.label.md)**. However, a  **Label** does not let you crop, size, or zoom the picture.<P>
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

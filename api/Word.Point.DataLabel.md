@@ -1,5 +1,5 @@
 ---
-title: Point.DataLabel Property (Word)
+title: Point.DataLabel property (Word)
 keywords: vbawd10.chm262144158
 f1_keywords:
 - vbawd10.chm262144158
@@ -8,17 +8,18 @@ api_name:
 - Word.Point.DataLabel
 ms.assetid: d84afe14-7c11-8ccf-baf0-687b72f25314
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.DataLabel Property (Word)
+# Point.DataLabel property (Word)
 
-Returns the data label associated with the point. Read-only  **[DataLabel](Word.DataLabel.md)** .
+Returns the data label associated with the point. Read-only  **[DataLabel](Word.DataLabel.md)**.
 
 
 ## Syntax
 
- _expression_. `DataLabel`
+_expression_. `DataLabel`
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

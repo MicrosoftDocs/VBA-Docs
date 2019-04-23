@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 8b7b3aa6-3b13-ff03-6338-26b29acfbb54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,5 @@ You are creating a relationship using fields with data types that do not match. 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

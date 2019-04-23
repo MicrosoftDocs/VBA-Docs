@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 54b7f817-342c-4f2d-b0f3-f9a254d12694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Point.DataLabel Property (PowerPoint)](http://msdn.microsoft.com/library/0f202f4c-2627-09e0-38d8-fd51aa1cdfb1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

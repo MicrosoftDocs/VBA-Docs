@@ -8,19 +8,20 @@ api_name:
 - Excel.DataTable.HasBorderHorizontal
 ms.assetid: 9d0f17f2-7786-afd5-164b-c7c5a4bb06d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataTable.HasBorderHorizontal property (Excel)
 
- **True** if the chart data table has horizontal cell borders. Read/write **Boolean** .
+ **True** if the chart data table has horizontal cell borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderHorizontal`
+_expression_. `HasBorderHorizontal`
 
- _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
+_expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
 
 
 ## Example
@@ -45,3 +46,4 @@ End With
 
 [DataTable Object](Excel.DataTable(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

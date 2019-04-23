@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedDataRowID Property (Visio)
+title: Window.SelectedDataRowID property (Visio)
 keywords: vis_sdr.chm11660250
 f1_keywords:
 - vis_sdr.chm11660250
@@ -8,10 +8,11 @@ api_name:
 - Visio.Window.SelectedDataRowID
 ms.assetid: 8ed4a690-c96f-c134-5b84-459938bd39e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.SelectedDataRowID Property (Visio)
+# Window.SelectedDataRowID property (Visio)
 
 Gets or sets the ID of the data row that is selected (or that is the primary row selected, when multiple rows are selected) on the active tab of the  **External Data Window** in the Microsoft Visio user interface (UI). Read/write.
 
@@ -21,7 +22,7 @@ Gets or sets the ID of the data row that is selected (or that is the primary row
 
 ## Syntax
 
- _expression_. `SelectedDataRowID`
+_expression_. `SelectedDataRowID`
 
  _expression_ An expression that returns a [Window](./Visio.Window.md) object.
 
@@ -33,10 +34,10 @@ Long
 
 ## Remarks
 
-The  **SelectedDataRowID** property works only when the **Window** object represents the **External Data Window**. Calling the property on any other window type results in an error. The  **External Data Window** must already be displayed in the Visio UI before you call **SelectedDataRowID** .
+The  **SelectedDataRowID** property works only when the **Window** object represents the **External Data Window**. Calling the property on any other window type results in an error. The  **External Data Window** must already be displayed in the Visio UI before you call **SelectedDataRowID**.
 
 Setting  **SelectedDataRowID** clears the current selection and sets the selection to the row you specify.
 
-If multiple rows are selected when you get  **SelectedDataRowID** , the property returns the ID of the row that has the focus.
+If multiple rows are selected when you get  **SelectedDataRowID**, the property returns the ID of the row that has the focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

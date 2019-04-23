@@ -1,12 +1,13 @@
 ---
-title: Tasks Object (Project)
+title: Tasks object (Project)
 ms.prod: project-server
 ms.assetid: b7482b5a-7fac-531e-6793-610faca2f954
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tasks Object (Project)
+# Tasks object (Project)
 
 Contains a collection of  **[Task](Project.Task.md)** objects.
 
@@ -15,7 +16,7 @@ Contains a collection of  **[Task](Project.Task.md)** objects.
 
  **Using the Task Object**
 
-Use  **Tasks** ( _Index_ ), where _Index_ is the task index number or task name, to return a single **Task** object. The following example prints the names of every resource assigned to every task in the active project.
+Use  **Tasks** (_index_), where _index_ is the task index number or task name, to return a single **Task** object. The following example prints the names of every resource assigned to every task in the active project.
 
 
 
@@ -87,7 +88,7 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Tasks.Add.md)|
 
@@ -95,7 +96,7 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Tasks.Application.md)|
 |[Count](./Project.Tasks.Count.md)|
@@ -107,3 +108,5 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

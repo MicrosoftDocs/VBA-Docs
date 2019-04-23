@@ -1,14 +1,15 @@
 ---
-title: PpSlideShowAdvanceMode Enumeration (PowerPoint)
+title: PpSlideShowAdvanceMode enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowAdvanceMode
 ms.assetid: 58167ce9-3859-ebf4-b9ee-2bef2c88822c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpSlideShowAdvanceMode Enumeration (PowerPoint)
+# PpSlideShowAdvanceMode enumeration (PowerPoint)
 
 Constants that specify the mode of advance of the slide show, passed to and returned by the  **AdvanceMode** property of the **SlideShowSettings** object.
 
@@ -20,3 +21,4 @@ Constants that specify the mode of advance of the slide show, passed to and retu
 |**ppSlideShowRehearseNewTimings**|3|Rehearsed timings|
 |**ppSlideShowUseSlideTimings**|2|Specified timings for each slide|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlChartType enumeration (Excel)
+title: XlChartType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartType
 ms.assetid: bba4ee89-ee91-f55a-d2e0-59a73e5bfabe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlChartType enumeration (Excel)
+# XlChartType enumeration (Excel)
 
 Specifies the chart type.
 
@@ -88,3 +89,4 @@ Specifies the chart type.
 | **xlXYScatterSmooth**|72|Scatter with Smoothed Lines.|
 | **xlXYScatterSmoothNoMarkers**|73|Scatter with Smoothed Lines and No Data Markers.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

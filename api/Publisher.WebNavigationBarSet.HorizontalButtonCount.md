@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.HorizontalButtonCount Property (Publisher)
+title: WebNavigationBarSet.HorizontalButtonCount property (Publisher)
 keywords: vbapb10.chm8519687
 f1_keywords:
 - vbapb10.chm8519687
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.HorizontalButtonCount
 ms.assetid: 2f6c5258-16c9-19fd-16c6-ea59c561e9de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.HorizontalButtonCount Property (Publisher)
+# WebNavigationBarSet.HorizontalButtonCount property (Publisher)
 
 Sets or returns a  **Long** representing the number of buttons in each row of buttons for a Web navigation bar set. Read/write. **Long**.
 
 
 ## Syntax
 
- _expression_. **HorizontalButtonCount**
+_expression_.**HorizontalButtonCount**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -48,4 +49,4 @@ With ActiveDocument.WebNavigationBarSets(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

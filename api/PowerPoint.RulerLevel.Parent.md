@@ -1,5 +1,5 @@
 ---
-title: RulerLevel.Parent Property (PowerPoint)
+title: RulerLevel.Parent property (PowerPoint)
 keywords: vbapp10.chm572002
 f1_keywords:
 - vbapp10.chm572002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RulerLevel.Parent
 ms.assetid: c19df2e4-cbb8-d47d-effc-092582297cef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerLevel.Parent Property (PowerPoint)
+# RulerLevel.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [RulerLevel](./PowerPoint.RulerLevel.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [RulerLevel Object](PowerPoint.RulerLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

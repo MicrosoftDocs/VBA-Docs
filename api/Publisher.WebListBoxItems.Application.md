@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.Application Property (Publisher)
+title: WebListBoxItems.Application property (Publisher)
 keywords: vbapb10.chm4128769
 f1_keywords:
 - vbapb10.chm4128769
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebListBoxItems.Application
 ms.assetid: b2a6ad3e-4f40-37f7-7fb2-80d759f7bd6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebListBoxItems.Application Property (Publisher)
+# WebListBoxItems.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **WebListBoxItems** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

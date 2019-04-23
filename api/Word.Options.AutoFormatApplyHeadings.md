@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyHeadings Property (Word)
+title: Options.AutoFormatApplyHeadings property (Word)
 keywords: vbawd10.chm162988282
 f1_keywords:
 - vbawd10.chm162988282
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatApplyHeadings
 ms.assetid: 9b1d8936-f6f2-4f01-8583-b9a43a00438b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatApplyHeadings Property (Word)
+# Options.AutoFormatApplyHeadings property (Word)
 
- **True** if styles are automatically applied to headings when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if styles are automatically applied to headings when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatApplyHeadings`
+_expression_. `AutoFormatApplyHeadings`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnAutoFormat = Options.AutoFormatApplyHeadings
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

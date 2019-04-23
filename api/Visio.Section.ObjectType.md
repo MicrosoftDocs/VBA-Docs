@@ -1,5 +1,5 @@
 ---
-title: Section.ObjectType Property (Visio)
+title: Section.ObjectType property (Visio)
 keywords: vis_sdr.chm15713960
 f1_keywords:
 - vis_sdr.chm15713960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Section.ObjectType
 ms.assetid: 85f5eb9d-d887-c995-4b29-f9eeaa319a6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section.ObjectType Property (Visio)
+# Section.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Years.Count Property (Project)
+title: Years.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.Years.Count
 ms.assetid: 6a65ff7b-55ca-31e0-0edd-c2f75cb9fc74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Years.Count Property (Project)
+# Years.Count property (Project)
 
 Gets the number of items in the  **Years** collection. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a 'Years' object.
 
@@ -36,3 +37,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [Years Collection Object](Project.years.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

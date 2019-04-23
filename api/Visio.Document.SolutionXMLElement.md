@@ -1,5 +1,5 @@
 ---
-title: Document.SolutionXMLElement Property (Visio)
+title: Document.SolutionXMLElement property (Visio)
 keywords: vis_sdr.chm10550855
 f1_keywords:
 - vis_sdr.chm10550855
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.SolutionXMLElement
 ms.assetid: 44e9daa6-96dc-3041-ed50-dd4670298b6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SolutionXMLElement Property (Visio)
+# Document.SolutionXMLElement property (Visio)
 
 Contains solution-specific, well-formed XML data stored with a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `SolutionXMLElement`( `_ElementName_` )
+_expression_. `SolutionXMLElement`( `_ElementName_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -55,4 +56,4 @@ At the document level, if the XML data you pass to the  **SolutionXMLElement** p
 
 If you put invalid or non-well-formed XML data into a cell, Visio saves it as a string in the cell so that it is not lost and can perhaps later be fixed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

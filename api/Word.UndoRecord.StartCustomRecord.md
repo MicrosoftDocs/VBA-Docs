@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.StartCustomRecord Method (Word)
+title: UndoRecord.StartCustomRecord method (Word)
 keywords: vbawd10.chm56098817
 f1_keywords:
 - vbawd10.chm56098817
@@ -8,17 +8,18 @@ api_name:
 - Word.UndoRecord.StartCustomRecord
 ms.assetid: cd8d4337-4bbc-1943-6e0a-bc764861e886
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UndoRecord.StartCustomRecord Method (Word)
+# UndoRecord.StartCustomRecord method (Word)
 
 Initiates the creation of a custom undo record.
 
 
 ## Syntax
 
- _expression_. `StartCustomRecord`( `_Name_` )
+_expression_. `StartCustomRecord`( `_Name_` )
 
  _expression_ A variable that represents an '[UndoRecord](Word.UndoRecord.md)' object.
 
@@ -66,4 +67,4 @@ End Sub
 
 [Working with the UndoRecord Object](../word/Concepts/Working-with-Word/working-with-the-undorecord-object.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.LastModificationTime Property (Outlook)
+title: ContactItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm943
 f1_keywords:
 - vbaol11.chm943
@@ -8,24 +8,25 @@ api_name:
 - Outlook.ContactItem.LastModificationTime
 ms.assetid: 14962429-bbf6-a814-647a-70be1dad339d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.LastModificationTime Property (Outlook)
+# ContactItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

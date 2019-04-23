@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyAutoFormat Method (Publisher)
+title: Table.ApplyAutoFormat method (Publisher)
 keywords: vbapb10.chm4784137
 f1_keywords:
 - vbapb10.chm4784137
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Table.ApplyAutoFormat
 ms.assetid: f792a5f3-0d1c-06de-a030-7a588ca372d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ApplyAutoFormat Method (Publisher)
+# Table.ApplyAutoFormat method (Publisher)
 
 Applies automatic built-in table formatting to a specified table.
 
 
 ## Syntax
 
- _expression_. **ApplyAutoFormat**(**_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
+_expression_.**ApplyAutoFormat**(**_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
 
  _expression_ A variable that represents a  **Table** object.
 
@@ -53,4 +54,4 @@ Sub ApplyAutomaticTableFormatting()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

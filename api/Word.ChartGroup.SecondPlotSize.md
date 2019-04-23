@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SecondPlotSize Property (Word)
+title: ChartGroup.SecondPlotSize property (Word)
 keywords: vbawd10.chm263454764
 f1_keywords:
 - vbawd10.chm263454764
@@ -8,19 +8,20 @@ api_name:
 - Word.ChartGroup.SecondPlotSize
 ms.assetid: 68f4d170-62c8-eb34-26a2-693aa96fc5f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.SecondPlotSize Property (Word)
+# ChartGroup.SecondPlotSize property (Word)
 
-Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Long** .
+Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SecondPlotSize`
+_expression_.**SecondPlotSize**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End With
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

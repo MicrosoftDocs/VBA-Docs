@@ -1,5 +1,5 @@
 ---
-title: Application.LinesToPoints Method (Word)
+title: Application.LinesToPoints method (Word)
 keywords: vbawd10.chm158335350
 f1_keywords:
 - vbawd10.chm158335350
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.LinesToPoints
 ms.assetid: f146db0f-35f6-d25d-2674-e35a7c08801b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.LinesToPoints Method (Word)
+# Application.LinesToPoints method (Word)
 
-Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `LinesToPoints`( `_Lines_` )
+_expression_. `LinesToPoints`( `_Lines_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -54,3 +55,4 @@ End With
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

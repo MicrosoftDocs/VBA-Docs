@@ -1,5 +1,5 @@
 ---
-title: Range.InsertDatabase Method (Word)
+title: Range.InsertDatabase method (Word)
 keywords: vbawd10.chm157155522
 f1_keywords:
 - vbawd10.chm157155522
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.InsertDatabase
 ms.assetid: c8bcddda-0943-9619-e5ee-9ef0956b0f43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InsertDatabase Method (Word)
+# Range.InsertDatabase method (Word)
 
 Retrieves data from a data source (for example, a separate Microsoft Word document, a Microsoft Excel worksheet, or a Microsoft Access database) and inserts the data as a table in place of the specified range.
 
 
 ## Syntax
 
- _expression_. `InsertDatabase`( `_Format_` , `_Style_` , `_LinkToSource_` , `_Connection_` , `_SQLStatement_` , `_SQLStatement1_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_DataSource_` , `_From_` , `_To_` , `_IncludeFields_` )
+_expression_. `InsertDatabase`( `_Format_` , `_Style_` , `_LinkToSource_` , `_Connection_` , `_SQLStatement_` , `_SQLStatement1_` , `_PasswordDocument_` , `_PasswordTemplate_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` , `_DataSource_` , `_From_` , `_To_` , `_IncludeFields_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -65,7 +66,7 @@ The value of the Style argument can be the sum of any combination of the followi
 
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0 (zero)|None|
 |1|Borders|
@@ -112,3 +113,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

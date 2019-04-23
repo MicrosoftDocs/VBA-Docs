@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat Object (Publisher)
+title: TextEffectFormat object (Publisher)
 keywords: vbapb10.chm3801087
 f1_keywords:
 - vbapb10.chm3801087
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TextEffectFormat
 ms.assetid: 672d0ef0-cbcd-05ef-9aa5-b986c7b045ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat Object (Publisher)
+# TextEffectFormat object (Publisher)
 
 Contains properties and methods that apply to WordArt objects.
  
@@ -39,7 +40,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ToggleVerticalText](Publisher.TextEffectFormat.ToggleVerticalText.md)|
 
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Publisher.TextEffectFormat.Alignment.md)|
 |[Application](Publisher.TextEffectFormat.Application.md)|
@@ -65,3 +66,4 @@ End Sub
 |[Text](Publisher.TextEffectFormat.Text.md)|
 |[Tracking](Publisher.TextEffectFormat.Tracking.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

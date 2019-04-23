@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 270d5440-ac1e-2436-b632-5877ede0820e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -46,7 +47,7 @@ Allows you to specify advanced options for your Solver model. This function and 
  
  **RandomSeed** Optional **Variant**. A positive integer specifies a fixed seed for the random number generator used by the  **Evolutionary Solving** method and the multistart method for global optimization. This means that Solver will find the same solution each time it is run on a model that has not changed. A zero value specifies that Solver should use a different seed for the random number generator each time it runs, which may yield different solutions each time it is run on a model that has not changed.
  
- **MultiStart** Optional **Variant**.  **True** to have Solver use multistart method for global optimization with the ** GRG Nonlinear Solving** method, when **[SolverSolve](solversolve-function.md)** is called. **False** to have Solver run the **GRG Solving** method only once, without multistart, when **[SolverSolve](solversolve-function.md)** is called.
+ **MultiStart** Optional **Variant**.  **True** to have Solver use multistart method for global optimization with the **GRG Nonlinear Solving** method, when **[SolverSolve](solversolve-function.md)** is called. **False** to have Solver run the **GRG Solving** method only once, without multistart, when **[SolverSolve](solversolve-function.md)** is called.
  
  **RequireBounds** Optional **Variant**.  **True** to cause the Evolutionary Solving method and the multistart method to return immediately from a call to **[SolverSolve](solversolve-function.md)** with a value of 18 if any of the variables do not have both lower and upper bounds defined. **False** to have these methods attempt to solve the problem without bounds on all of the variables.
  
@@ -58,7 +59,7 @@ Allows you to specify advanced options for your Solver model. This function and 
  
  **SolveWithout** Optional **Variant**.  **True** to have Solver ignore any integer constraints and solve the "relaxation" of the problem. **False** to have Solver use the integer constraints in solving the problem.
  
- **MaxTimeNoImp ** Optional **Variant**. When the  **Evolutionary Solving** method is used, the maximum amount of time (in seconds) Solver will continue solving without finding significantly improved solutions to add to the population. The value must be a positive integer.
+ **MaxTimeNoImp** Optional **Variant**. When the  **Evolutionary Solving** method is used, the maximum amount of time (in seconds) Solver will continue solving without finding significantly improved solutions to add to the population. The value must be a positive integer.
 
 ## Example
 
@@ -84,4 +85,4 @@ SolverSolve UserFinish:=False
 SolverSave SaveArea:=Range("A33")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

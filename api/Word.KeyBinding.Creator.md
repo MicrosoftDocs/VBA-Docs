@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Creator Property (Word)
+title: KeyBinding.Creator property (Word)
 keywords: vbawd10.chm160957417
 f1_keywords:
 - vbawd10.chm160957417
@@ -8,19 +8,20 @@ api_name:
 - Word.KeyBinding.Creator
 ms.assetid: 74219584-c660-c000-801b-499ea4b35722
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.Creator Property (Word)
+# KeyBinding.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
+_expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

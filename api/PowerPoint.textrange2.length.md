@@ -1,19 +1,20 @@
 ---
-title: TextRange2.Length Property (PowerPoint)
+title: TextRange2.Length property (PowerPoint)
 ms.assetid: a9e3fa70-7bca-460d-8d5d-26f844b47d9b
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# TextRange2.Length Property (PowerPoint)
+# TextRange2.Length property (PowerPoint)
 
 Get a Long that represents the length of a text range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Length`
+_expression_.**Length**
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -59,6 +60,6 @@ End Sub
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange Object (Publisher)
+title: ShapeRange object (Publisher)
 keywords: vbapb10.chm2359295
 f1_keywords:
 - vbapb10.chm2359295
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ShapeRange
 ms.assetid: c85967c9-af43-747d-7e0b-64ddc22c84be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange Object (Publisher)
+# ShapeRange object (Publisher)
 
 Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as one shape or as many as all the shapes in the document. You can include whichever shapes you want — chosen from among all the shapes in the document or all the shapes in the selection — to construct a shape range. For example, you could construct a  **ShapeRange** collection that contains the first three shapes in a document, all the selected shapes in a document, or all the freeform shapes in a document.
 
@@ -75,7 +76,7 @@ Use the  **[Align](./Publisher.ShapeRange.Align.md)**, **[Distribute](./Publishe
 
 
 ```vb
-Sub AlignDistibuteShapes() 
+Sub AlignDistributeShapes() 
     Dim rngShapes As ShapeRange 
     Set rngShapes = ActiveDocument.Pages(1).Shapes.Range 
  
@@ -108,7 +109,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToCatalogMergeArea](./Publisher.ShapeRange.AddToCatalogMergeArea.md)|
 |[Align](./Publisher.ShapeRange.Align.md)|
@@ -147,7 +148,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](./Publisher.ShapeRange.Adjustments.md)|
 |[AlternativeText](./Publisher.ShapeRange.AlternativeText.md)|
@@ -200,3 +201,4 @@ End Sub
 |[WizardTagInstance](./Publisher.ShapeRange.WizardTagInstance.md)|
 |[ZOrderPosition](./Publisher.ShapeRange.ZOrderPosition.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

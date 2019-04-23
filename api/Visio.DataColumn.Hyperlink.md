@@ -1,5 +1,5 @@
 ---
-title: DataColumn.Hyperlink Property (Visio)
+title: DataColumn.Hyperlink property (Visio)
 keywords: vis_sdr.chm16760410
 f1_keywords:
 - vis_sdr.chm16760410
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataColumn.Hyperlink
 ms.assetid: 806f3eae-8bee-c053-6c25-b87a9c0ac0e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataColumn.Hyperlink Property (Visio)
+# DataColumn.Hyperlink property (Visio)
 
 Gets or sets whether the data column creates a hyperlink in a shape when the shape is linked to data. Read/write.
 
@@ -21,7 +22,7 @@ Gets or sets whether the data column creates a hyperlink in a shape when the sha
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_.**Hyperlink**
 
  _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
@@ -35,4 +36,4 @@ Boolean
 
 The  **Hyperlink** property setting corresponds to the setting of the **Hyperlink** check box in the **Types and Units** dialog box for the column in the Visio UI.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

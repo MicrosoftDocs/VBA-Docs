@@ -1,5 +1,5 @@
 ---
-title: Document.SelectAllEditableRanges Method (Word)
+title: Document.SelectAllEditableRanges method (Word)
 keywords: vbawd10.chm158007764
 f1_keywords:
 - vbawd10.chm158007764
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SelectAllEditableRanges
 ms.assetid: 510cd397-4c39-f36b-ed59-524247b35f16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SelectAllEditableRanges Method (Word)
+# Document.SelectAllEditableRanges method (Word)
 
 Selects all ranges for which the specified user or group of users has permission to modify.
 
 
 ## Syntax
 
- _expression_. `SelectAllEditableRanges`( `_EditorID_` )
+_expression_. `SelectAllEditableRanges`( `_EditorID_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Selects all ranges for which the specified user or group of users has permission
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users. If omitted, only ranges for which all users have permissions will be selected.|
+| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users. If omitted, only ranges for which all users have permissions will be selected.|
 
 ## Example
 
@@ -46,3 +47,4 @@ ActiveDocument.SelectAllEditableRanges wdEditorCurrent
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

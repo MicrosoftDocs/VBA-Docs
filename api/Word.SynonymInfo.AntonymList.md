@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.AntonymList Property (Word)
+title: SynonymInfo.AntonymList property (Word)
 keywords: vbawd10.chm161153032
 f1_keywords:
 - vbawd10.chm161153032
@@ -8,17 +8,18 @@ api_name:
 - Word.SynonymInfo.AntonymList
 ms.assetid: 4ba1a1b1-79c7-e230-2eae-7b64182fa232
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SynonymInfo.AntonymList Property (Word)
+# SynonymInfo.AntonymList property (Word)
 
-Returns a list of antonyms for the word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
+Returns a list of antonyms for the word or phrase. The list is returned as an array of strings. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `AntonymList`
+_expression_. `AntonymList`
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
@@ -91,3 +92,4 @@ End If
 
 [SynonymInfo Object](Word.SynonymInfo.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

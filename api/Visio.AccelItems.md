@@ -1,5 +1,5 @@
 ---
-title: AccelItems Object (Visio)
+title: AccelItems object (Visio)
 keywords: vis_sdr.chm10015
 f1_keywords:
 - vis_sdr.chm10015
@@ -8,10 +8,11 @@ api_name:
 - Visio.AccelItems
 ms.assetid: 0ea77c63-1fe4-4edf-0b7b-2293eb4ed180
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelItems Object (Visio)
+# AccelItems object (Visio)
 
 Includes an  **AccelItem** object for each accelerator in a Microsoft Visio window context.
 
@@ -23,8 +24,8 @@ Includes an  **AccelItem** object for each accelerator in a Microsoft Visio wind
 
 To retrieve an  **AccelItems** collection, use the **AccelItems** property of an **AccelTable** object.
 
-The default property for an  **AccelItems** collection is **Item** .
+The default property for an  **AccelItems** collection is **Item**.
 
 Unlike other Visio collections, the  **AccelItems** collection is indexed starting with zero (0) rather than 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

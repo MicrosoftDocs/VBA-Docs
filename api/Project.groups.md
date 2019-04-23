@@ -1,12 +1,13 @@
 ---
-title: Groups Object (Project)
+title: Groups object (Project)
 ms.prod: project-server
 ms.assetid: 2e4c4846-6193-fc12-ad02-0dd69f88b31e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Groups Object (Project)
+# Groups object (Project)
 
 Represents a collection of  **[Group](Project.Group.md)** objects.
  
@@ -18,7 +19,7 @@ For groups where the group hierarchy can be maintained and cell color can be a h
  
 
  
-Use  `TaskGroups(Index)` or ` ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
+Use  `TaskGroups(Index)` or `ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
  
 
  
@@ -41,7 +42,7 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.Groups.Add.md)|
 |[Copy](Project.Groups.Copy.md)|
@@ -50,7 +51,7 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Groups.Application.md)|
 |[Count](Project.Groups.Count.md)|
@@ -62,3 +63,5 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

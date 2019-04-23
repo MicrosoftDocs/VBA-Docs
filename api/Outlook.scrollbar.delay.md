@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 6eb415e2-961e-09df-2504-a1c65ebd3b32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that specifies the delay in milliseconds, between ev
 
 ## Syntax
 
- _expression_. **Delay**
+_expression_.**Delay**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ After the initial lag, the interval between events is the value specified for  *
 
 The default value of  **Delay** is 50 milliseconds. This means the object initiates the first event after 250 milliseconds (5 times the specified value) and initiates each subsequent event after 50 milliseconds.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

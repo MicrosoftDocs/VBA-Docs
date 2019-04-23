@@ -1,21 +1,22 @@
 ---
-title: TaskDependencies.Item Property (Project)
+title: TaskDependencies.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Item
 ms.assetid: b43d6c70-ee9a-d022-93cf-696725d48fd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskDependencies.Item Property (Project)
+# TaskDependencies.Item property (Project)
 
 Gets a single  **TaskDependency** object from the **TaskDependencies** collection. Read-only **TaskDependency**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'TaskDependencies' object.
 
@@ -32,3 +33,5 @@ Gets a single  **TaskDependency** object from the **TaskDependencies** collectio
 
 
 [TaskDependencies Collection Object](Project.taskdependencies.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

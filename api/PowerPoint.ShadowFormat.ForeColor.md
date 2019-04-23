@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.ForeColor Property (PowerPoint)
+title: ShadowFormat.ForeColor property (PowerPoint)
 keywords: vbapp10.chm554004
 f1_keywords:
 - vbapp10.chm554004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShadowFormat.ForeColor
 ms.assetid: 8547b2b0-d9ba-41ce-9f13-659a8727cbdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.ForeColor Property (PowerPoint)
+# ShadowFormat.ForeColor property (PowerPoint)
 
 Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -30,7 +31,7 @@ ColorFormat
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and then sets the foreground color, background color, and gradient for the rectangle's fill.
+This example adds a rectangle to  _myDocument_ and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb
@@ -44,7 +45,7 @@ With myDocument.Shapes _
 End With
 ```
 
-This example adds a patterned line to  `myDocument`.
+This example adds a patterned line to  _myDocument_.
 
 
 
@@ -71,3 +72,4 @@ End With
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

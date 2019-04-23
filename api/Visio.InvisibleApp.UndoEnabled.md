@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.UndoEnabled Property (Visio)
+title: InvisibleApp.UndoEnabled property (Visio)
 keywords: vis_sdr.chm17514610
 f1_keywords:
 - vis_sdr.chm17514610
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.UndoEnabled
 ms.assetid: c3dc1bf4-c3bd-53dd-62e6-f2b6e3f07cb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.UndoEnabled Property (Visio)
+# InvisibleApp.UndoEnabled property (Visio)
 
 Determines whether undo information is maintained in memory. Read/write.
 
 
 ## Syntax
 
- _expression_. `UndoEnabled`
+_expression_. `UndoEnabled`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -30,7 +31,7 @@ Boolean
 
 ## Remarks
 
-When Microsoft Visio starts, the value of the  **UndoEnabled** property is **True** . Setting the value of the **UndoEnabled** property to **False** discontinues the collection of undo information in memory and clears the existing undo information.
+When Microsoft Visio starts, the value of the  **UndoEnabled** property is **True**. Setting the value of the **UndoEnabled** property to **False** discontinues the collection of undo information in memory and clears the existing undo information.
 
 You should attempt to maintain the property at its current value across the complete operation that you perform. In other words, use code structured like this:
 
@@ -69,4 +70,4 @@ Public Sub UndoEnabled_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

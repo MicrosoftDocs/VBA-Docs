@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem.Session Property (Outlook)
+title: TaskRequestUpdateItem.Session property (Outlook)
 keywords: vbaol11.chm1919
 f1_keywords:
 - vbaol11.chm1919
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestUpdateItem.Session
 ms.assetid: 12e7fa2c-1067-4faa-c827-b1b1f8dc4238
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem.Session Property (Outlook)
+# TaskRequestUpdateItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
+_expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

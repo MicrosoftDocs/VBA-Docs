@@ -3,6 +3,7 @@ title: TextBox Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 90e18b6b-da77-4b0a-ae2e-2b44ebf1705f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -86,5 +87,5 @@ ms.date: 06/08/2017
 -  [TextBox.Value Property (Outlook Forms Script)](Outlook.textbox.value.md)
     
 -  [TextBox.WordWrap Property (Outlook Forms Script)](Outlook.textbox.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

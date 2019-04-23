@@ -1,5 +1,5 @@
 ---
-title: Conversation.Session Property (Outlook)
+title: Conversation.Session property (Outlook)
 keywords: vbaol11.chm3386
 f1_keywords:
 - vbaol11.chm3386
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.Session
 ms.assetid: 6f41faaa-e16a-d171-ed72-d2fef64a77f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.Session Property (Outlook)
+# Conversation.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ Set objSession = Application.Session
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

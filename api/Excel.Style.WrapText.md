@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.WrapText
 ms.assetid: 9b6d236e-b46d-c557-0a54-5c9f765fd707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that indicates if Microsoft Excel wraps the
 
 ## Syntax
 
- _expression_. `WrapText`
+_expression_.**WrapText**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that indicates if Microsoft Excel wraps the
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Add Method (Word)
+title: Endnotes.Add method (Word)
 keywords: vbawd10.chm155254788
 f1_keywords:
 - vbawd10.chm155254788
@@ -8,19 +8,20 @@ api_name:
 - Word.Endnotes.Add
 ms.assetid: 6931462d-ee52-862b-3c63-127ebc828c5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnotes.Add Method (Word)
+# Endnotes.Add method (Word)
 
 Returns an  **Endnote** object that represents an endnote added to a range.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Range_` , `_Reference_` , `_Text_` )
+_expression_.**Add**( `_Range_` , `_Reference_` , `_Text_` )
 
- _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
+_expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ ActiveDocument.Endnotes.Add Range:=myRange, _
 
 [Endnotes Collection Object](Word.endnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfAuthorities Property (Word)
+title: Document.TablesOfAuthorities property (Word)
 keywords: vbawd10.chm158007328
 f1_keywords:
 - vbawd10.chm158007328
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.TablesOfAuthorities
 ms.assetid: c49d1fc5-1d0a-3b6e-ab9e-62b968766cd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TablesOfAuthorities Property (Word)
+# Document.TablesOfAuthorities property (Word)
 
 Returns a  **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection that represents the tables of authorities in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `TablesOfAuthorities`
+_expression_. `TablesOfAuthorities`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ Next myTOA
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

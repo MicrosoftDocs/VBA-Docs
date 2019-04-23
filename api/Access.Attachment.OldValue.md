@@ -7,37 +7,36 @@ ms.prod: access
 api_name:
 - Access.Attachment.OldValue
 ms.assetid: f3c20114-fc68-98ab-03de-0e023aacaaf1
-ms.date: 06/08/2017
+ms.date: 02/07/2019
+localization_priority: Normal
 ---
 
 
 # Attachment.OldValue property (Access)
 
-You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
+You can use the **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
 
-_expression_. `OldValue`
+_expression_.**OldValue**
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **OldValue** property contains the unedited data from a bound control and is read-only in all views.
+The **OldValue** property contains the unedited data from a bound control and is read-only in all views.
 
-Microsoft Access uses the  **OldValue** property to store the original value of a bound control. When you edit a bound control on a form, your changes aren't saved until you move to another record. The **OldValue** property contains the unedited version of the underlying data.
+Microsoft Access uses the **OldValue** property to store the original value of a bound control. When you edit a bound control on a form, your changes aren't saved until you move to another record. The **OldValue** property contains the unedited version of the underlying data.
 
-You can provide your own undo capability by assigning the  **OldValue** property setting to a control.
+You can provide your own undo capability by assigning the **OldValue** property setting to a control.
 
-If the control hasn't been edited, this code has no effect. When you move to another record, the record source is updated, so the current value and the  **OldValue** property will be the same.
+If the control hasn't been edited, this code has no effect. When you move to another record, the record source is updated, so the current value and the **OldValue** property will be the same.
 
-The  **OldValue** property setting has the same data type as the field to which the control is bound.
-
-
-## See also
+The **OldValue** property setting has the same data type as the field to which the control is bound.
 
 
-[Attachment Object](Access.Attachment.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

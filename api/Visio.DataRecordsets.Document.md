@@ -1,14 +1,15 @@
 ---
-title: DataRecordsets.Document Property (Visio)
+title: DataRecordsets.Document property (Visio)
 ms.prod: visio
 api_name:
 - Visio.DataRecordsets.Document
 ms.assetid: 426df7a7-67dd-5596-37e1-d5d1c9c0c082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets.Document Property (Visio)
+# DataRecordsets.Document property (Visio)
 
 Gets the  **Document** object that contains the **DataRecordsets** collection. Read-only.
 
@@ -18,7 +19,7 @@ Gets the  **Document** object that contains the **DataRecordsets** collection. R
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
@@ -27,4 +28,4 @@ Gets the  **Document** object that contains the **DataRecordsets** collection. R
 
 Document
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.SequenceCheck Property (Word)
+title: Options.SequenceCheck property (Word)
 keywords: vbawd10.chm162988458
 f1_keywords:
 - vbawd10.chm162988458
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.SequenceCheck
 ms.assetid: c2279189-a0ab-15bb-5c8d-00f13075b59a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.SequenceCheck Property (Word)
+# Options.SequenceCheck property (Word)
 
- **True** to check the sequence of independent characters for South Asian text. Read/write **Boolean** .
+ **True** to check the sequence of independent characters for South Asian text. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SequenceCheck`
+_expression_. `SequenceCheck`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -40,3 +41,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DStDev Method (Excel)
+title: WorksheetFunction.DStDev method (Excel)
 keywords: vbaxl10.chm137099
 f1_keywords:
 - vbaxl10.chm137099
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DStDev
 ms.assetid: 9fd68082-a472-e6be-af20-39be3277956b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DStDev Method (Excel)
+# WorksheetFunction.DStDev method (Excel)
 
 Estimates the standard deviation of a population based on a sample by using the numbers in a column of a list or database that match conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DStDev`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DStDev`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

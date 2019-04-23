@@ -8,6 +8,7 @@ api_name:
 - Excel.Ranges.Application
 ms.assetid: b1a789e9-8a87-edca-0ec6-16ab26bd9085
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Ranges](Excel.Ranges.md) object.
+_expression_ A variable that represents a [Ranges](Excel.Ranges.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [Ranges Object](Excel.Ranges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

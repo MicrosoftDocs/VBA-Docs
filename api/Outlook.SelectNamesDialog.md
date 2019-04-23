@@ -1,5 +1,5 @@
 ---
-title: SelectNamesDialog Object (Outlook)
+title: SelectNamesDialog object (Outlook)
 keywords: vbaol11.chm3156
 f1_keywords:
 - vbaol11.chm3156
@@ -8,10 +8,11 @@ api_name:
 - Outlook.SelectNamesDialog
 ms.assetid: 1522736a-3cad-9f1c-4da9-b52a3a01731c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SelectNamesDialog Object (Outlook)
+# SelectNamesDialog object (Outlook)
 
 Displays the  **Select Names** dialog box for the user to select entries from one or more address lists, and returns the selected entries in the collection object specified by the property **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)**.
 
@@ -85,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Display](Outlook.SelectNamesDialog.Display.md)|
 |[SetDefaultDisplayMode](Outlook.SelectNamesDialog.SetDefaultDisplayMode.md)|
@@ -94,7 +95,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)|
 |[Application](Outlook.SelectNamesDialog.Application.md)|
@@ -114,4 +115,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

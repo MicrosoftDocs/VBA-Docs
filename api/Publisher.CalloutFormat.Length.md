@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Length Property (Publisher)
+title: CalloutFormat.Length property (Publisher)
 keywords: vbapb10.chm2490632
 f1_keywords:
 - vbapb10.chm2490632
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.Length
 ms.assetid: 878fdb7b-fca6-49b6-1ec0-143243ce014c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Length Property (Publisher)
+# CalloutFormat.Length property (Publisher)
 
 Returns a  **Variant** indicating the length (in points) of the first segment of the callout line (the segment attached to the text callout box) if the **[AutoLength](Publisher.CalloutFormat.AutoLength.md)** property of the specified callout is set to **False**. Otherwise, an error occurs. Read-only.
 
 
 ## Syntax
 
- _expression_. **Length**
+_expression_.**Length**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -47,4 +48,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

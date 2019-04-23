@@ -1,15 +1,16 @@
 ---
-title: ReflectionFormat Object (Publisher)
+title: ReflectionFormat object (Publisher)
 keywords: vbapb10.chm9764863
 f1_keywords:
 - vbapb10.chm9764863
 ms.prod: publisher
 ms.assetid: c883f644-7ef8-b36d-ba24-7f54afa90c94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReflectionFormat Object (Publisher)
+# ReflectionFormat object (Publisher)
 
 Represents the reflection formatting for a shape or range of shapes.
  
@@ -19,7 +20,7 @@ Represents the reflection formatting for a shape or range of shapes.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Blur](Publisher.reflectionformat.blur.md)|
 |[Offset](Publisher.reflectionformat.offset.md)|
@@ -28,3 +29,4 @@ Represents the reflection formatting for a shape or range of shapes.
 |[Type](Publisher.reflectionformat.type.md)|
 |[Visible](Publisher.reflectionformat.visible.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: f10f2006-d9dd-4b4a-dd55-2cfc629037ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You entered an expression with a function name that cannot be recognized. Make s
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

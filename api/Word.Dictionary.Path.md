@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Path Property (Word)
+title: Dictionary.Path property (Word)
 keywords: vbawd10.chm162332673
 f1_keywords:
 - vbawd10.chm162332673
@@ -8,19 +8,20 @@ api_name:
 - Word.Dictionary.Path
 ms.assetid: 1fd2d6ac-e112-9d13-0e41-2584e6841b73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionary.Path Property (Word)
+# Dictionary.Path property (Word)
 
-Returns the path to the specified dictionary. Read-only  **String** .
+Returns the path to the specified dictionary. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
+_expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ The path doesn't include a trailing character — for example, "C:\MSOffice" or 
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

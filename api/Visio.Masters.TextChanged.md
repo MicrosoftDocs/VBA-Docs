@@ -1,5 +1,5 @@
 ---
-title: Masters.TextChanged Event (Visio)
+title: Masters.TextChanged event (Visio)
 keywords: vis_sdr.chm10819255
 f1_keywords:
 - vis_sdr.chm10819255
@@ -8,10 +8,11 @@ api_name:
 - Visio.Masters.TextChanged
 ms.assetid: b01fb699-4c8b-2f86-c69d-70aee941c49b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters.TextChanged Event (Visio)
+# Masters.TextChanged event (Visio)
 
 Occurs after the text of a shape is changed in a document.
 
@@ -52,4 +53,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 For performance considerations, the  **Document** object's event set does not include the **TextChanged** event. To sink the **TextChanged** event from a **Document** object (and from the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

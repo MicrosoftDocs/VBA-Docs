@@ -1,5 +1,5 @@
 ---
-title: Cell.Select Method (Publisher)
+title: Cell.Select method (Publisher)
 keywords: vbapb10.chm5111843
 f1_keywords:
 - vbapb10.chm5111843
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.Select
 ms.assetid: 37a026a3-67ec-7a13-5eb4-66e14918579d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Select Method (Publisher)
+# Cell.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**
+_expression_.**Select**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -68,4 +69,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
  .TextRange.Characters(1, 5).Select
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

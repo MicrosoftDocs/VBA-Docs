@@ -1,5 +1,5 @@
 ---
-title: Shape.Export Method (Visio)
+title: Shape.Export method (Visio)
 keywords: vis_sdr.chm11216265
 f1_keywords:
 - vis_sdr.chm11216265
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Export
 ms.assetid: f4051560-8719-ea9c-30eb-33230c95786c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Export Method (Visio)
+# Shape.Export method (Visio)
 
 Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg, .dxf, .emf, .emz, .gif, .htm, .jpg, .png, .svg, .svgz, .tif, or .wmf.
 
 
 ## Syntax
 
- _expression_. `Export`( `_FileName_` )
+_expression_.**Export** (_FileName_)
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -60,4 +61,4 @@ Public Sub Export_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

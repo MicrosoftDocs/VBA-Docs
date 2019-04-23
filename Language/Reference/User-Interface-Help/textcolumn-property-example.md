@@ -1,31 +1,28 @@
 ---
-title: TextColumn Property Example
+title: TextColumn property example
 keywords: fm20.chm5225159
 f1_keywords:
 - fm20.chm5225159
 ms.prod: office
 ms.assetid: a794e071-456b-1b5d-d02a-5130cdacb79a
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# TextColumn Property Example
+# TextColumn property example
 
-The following example uses the  **TextColumn** property to identify the column of data in a **ListBox** that supplies data for its **Text** property. This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the **TextColumn** will be displayed in the **Label**.
+The following example uses the **[TextColumn](textcolumn-property.md)** property to identify the column of data in a **[ListBox](listbox-control.md)** that supplies data for its **[Text](text-property-microsoft-forms.md)** property. 
 
-This example also demonstrates how to load a multicolumn  **ListBox** using the **AddItem** method and the **List** property.
+This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the **TextColumn** will be displayed in the **[Label](label-control.md)**.
+
+This example also demonstrates how to load a multicolumn **ListBox** by using the **[AddItem](additem-method.md)** method and the **[List](list-property-microsoft-forms.md)** property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.   
+- A **[TextBox](textbox-control.md)** named TextBox1.
     
-- A  **TextBox** named TextBox1.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -51,4 +48,4 @@ TextBox1.Text = ListBox1.Text
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

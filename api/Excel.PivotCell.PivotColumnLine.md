@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCell.PivotColumnLine
 ms.assetid: 99d8e14e-28b5-4c0c-2f92-402fbb5c2ea8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCell.PivotColumnLine property (Excel)
 
-Returns the  **PivotLine** on a column for a specific **PivotCell** object. Read-only **PivotLine** .
+Returns the  **PivotLine** on a column for a specific **PivotCell** object. Read-only **PivotLine**.
 
 
 ## Syntax
 
- _expression_. `PivotColumnLine`
+_expression_. `PivotColumnLine`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ If the PivotCell is in the data area, the  **PivotColumnLine** property returns 
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

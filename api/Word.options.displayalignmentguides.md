@@ -1,22 +1,23 @@
 ---
-title: Options.DisplayAlignmentGuides Property (Word)
+title: Options.DisplayAlignmentGuides property (Word)
 keywords: vbawd10.chm162988536
 f1_keywords:
 - vbawd10.chm162988536
 ms.prod: word
 ms.assetid: 06a46d32-4ea4-ac1a-c0a0-d4e838671311
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DisplayAlignmentGuides Property (Word)
+# Options.DisplayAlignmentGuides property (Word)
 
 Returns or sets a  **Boolean** that specifies whether alignment guides are enabled in the user interface. Read-write.
 
 
 ## Syntax
 
- _expression_. `DisplayAlignmentGuides`
+_expression_. `DisplayAlignmentGuides`
 
  _expression_ A variable that represents an [Options](./Word.Options.md) object.
 
@@ -36,3 +37,4 @@ If  **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Settin
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PpEntryEffect Enumeration (PowerPoint)
+title: PpEntryEffect enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpEntryEffect
 ms.assetid: fbaf1cfa-cd82-b5f6-074f-7a54d2905e06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpEntryEffect Enumeration (PowerPoint)
+# PpEntryEffect enumeration (PowerPoint)
 
 Specifies the special effect applied to the animation for the specified shape or to the specified slide transition.
 
@@ -114,3 +115,4 @@ Specifies the special effect applied to the animation for the specified shape or
 |**ppEffectZoomOut**|3347|Zoom Out|
 |**ppEffectZoomOutSlightly**|3348|Zoom Out Slightly|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

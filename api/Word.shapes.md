@@ -1,15 +1,16 @@
-﻿---
-title: Shapes Object (Word)
+---
+title: Shapes object (Word)
 keywords: vbawd10.chm2463
 f1_keywords:
 - vbawd10.chm2463
 ms.prod: word
 ms.assetid: 0907eed3-886e-8e73-0e5e-71f4b37ddd5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes Object (Word)
+# Shapes object (Word)
 
 A collection of  **Shape** objects that represent all the shapes in a document or all the shapes in all the headers and footers in a document. Each **[Shape](Word.Shape.md)** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
@@ -30,7 +31,7 @@ ActiveDocument.Shapes.SelectAll
 
  **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the  **Range** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use one of the following methods of the  **Shapes** collection: **AddCallout**, **AddCurve**, **AddLabel**, **AddLine**, **AddOleControl**, **AddOleObject**, **AddPolyline**, **AddShape**, **AddTextbox**, **AddTextEffect**, or **BuildFreeForm** to add a shape to a document return a **Shape** object that represents the newly created shape The following example adds a rectangle to the active document.
+Use one of the following methods of the  **Shapes** collection: **Add3DModel**, **AddCallout**, **AddCurve**, **AddLabel**, **AddLine**, **AddOleControl**, **AddOleObject**, **AddPolyline**, **AddShape**, **AddTextbox**, **AddTextEffect**, or **BuildFreeForm** to add a shape to a document return a **Shape** object that represents the newly created shape. The following example adds a rectangle to the active document.
 
 
 
@@ -68,7 +69,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCallout](Word.Shapes.AddCallout.md)|
 |[AddCanvas](Word.Shapes.AddCanvas.md)|
@@ -84,6 +85,7 @@ The  **Count** property for this collection in a document returns the number of 
 |[AddSmartArt](Word.Shapes.AddSmartArt.md)|
 |[AddTextbox](Word.Shapes.AddTextbox.md)|
 |[AddTextEffect](Word.Shapes.AddTextEffect.md)|
+|[Add3DModel](Word.Shapes.Add3DModel.md)|
 |[AddWebVideo](Word.shapes.addwebvideo.md)|
 |[BuildFreeform](Word.Shapes.BuildFreeform.md)|
 |[Item](Word.Shapes.Item.md)|
@@ -94,7 +96,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Shapes.Application.md)|
 |[Count](Word.Shapes.Count.md)|
@@ -104,4 +106,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

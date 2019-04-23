@@ -1,5 +1,5 @@
 ---
-title: IVBUndoUnit.OnNextAdd Method (Visio)
+title: IVBUndoUnit.OnNextAdd method (Visio)
 keywords: vis_sdr.chm17360160
 f1_keywords:
 - vis_sdr.chm17360160
@@ -8,17 +8,18 @@ api_name:
 - Visio.IVBUndoUnit.OnNextAdd
 ms.assetid: a5504398-75a9-06be-346c-3afd85ce708e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IVBUndoUnit.OnNextAdd Method (Visio)
+# IVBUndoUnit.OnNextAdd method (Visio)
 
-Notifies an undo unit that another undo unit has been added to the undo stack. Returns  **Nothing** .
+Notifies an undo unit that another undo unit has been added to the undo stack. Returns  **Nothing**.
 
 
 ## Syntax
 
- _expression_. `OnNextAdd`
+_expression_. `OnNextAdd`
 
  _expression_ A variable that represents an 'IVBUndoUnit' object.
 
@@ -36,4 +37,4 @@ When an undo unit receives an  **OnNextAdd** notification, it communicates back 
 
 For more information about the using the  **OnNextAdd** method and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

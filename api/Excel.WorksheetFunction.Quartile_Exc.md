@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Quartile_Exc Method (Excel)
+title: WorksheetFunction.Quartile_Exc method (Excel)
 keywords: vbaxl10.chm137377
 f1_keywords:
 - vbaxl10.chm137377
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Quartile_Exc
 ms.assetid: 2b33be15-7d3c-d8be-aae1-de100de8083c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Quartile_Exc Method (Excel)
+# WorksheetFunction.Quartile_Exc method (Excel)
 
 Returns the quartile of the data set, based on percentile values from 0..1, exclusive.
 
 
 ## Syntax
 
- _expression_. `Quartile_Exc`( `_Arg1_` , `_Arg2_` )
+_expression_. `Quartile_Exc`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

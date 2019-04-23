@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.TextBox.Layout
 ms.assetid: a1c841e6-221b-3ba6-4212-d76066afda48
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # TextBox.Layout property (Access)
 
-Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
+Returns the type of layout for the specified text box. Read-only **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
-_expression_. `Layout`
+_expression_.**Layout**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
-[TextBox Object](Access.TextBox.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

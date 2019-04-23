@@ -1,14 +1,15 @@
 ---
-title: WdInsertCells Enumeration (Word)
+title: WdInsertCells enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInsertCells
 ms.assetid: a2663d30-ef0e-f7b5-9cb5-e1afe5aff0d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdInsertCells Enumeration (Word)
+# WdInsertCells enumeration (Word)
 
 Specifies where and what type of cells to add to an existing table.
 
@@ -21,3 +22,4 @@ Specifies where and what type of cells to add to an existing table.
 | **wdInsertCellsShiftDown**|1|Inserts new cells above the selected cells.|
 | **wdInsertCellsShiftRight**|0|Insert new cells to the left of the selected cells.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

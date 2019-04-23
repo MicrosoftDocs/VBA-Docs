@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: eef29794-5bc3-aecb-5ed2-e078c28851b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -122,4 +123,4 @@ Private Sub chkFinished_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

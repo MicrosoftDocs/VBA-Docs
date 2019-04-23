@@ -1,5 +1,5 @@
 ---
-title: Axis.Crosses Property (Word)
+title: Axis.Crosses property (Word)
 keywords: vbawd10.chm113049606
 f1_keywords:
 - vbawd10.chm113049606
@@ -8,26 +8,27 @@ api_name:
 - Word.Axis.Crosses
 ms.assetid: 41235c80-55a5-3933-3469-fd95b37ec43c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.Crosses Property (Word)
+# Axis.Crosses property (Word)
 
-Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long** .
+Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Crosses`
+_expression_.**Crosses**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
 
-This property is not available for radar charts. For 3-D charts, this property can be applied only to the value axis and indicates where the plane defined by the category axes crosses the value axis.
+This property is not available for radar charts. For 3D charts, this property can be applied only to the value axis and indicates where the plane defined by the category axes crosses the value axis.
 
-You can use this property for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category. **xlMinimum** and **xlMaximum** are constants in the **XlAxisCrosses** enumeration.
+You can use this property for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category. **xlMinimum** and **xlMaximum** are constants in the **xlAxisCrosses** enumeration.
 
 Note that  **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
 
@@ -51,3 +52,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

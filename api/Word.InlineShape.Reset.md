@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Reset Method (Word)
+title: InlineShape.Reset method (Word)
 keywords: vbawd10.chm162005093
 f1_keywords:
 - vbawd10.chm162005093
@@ -8,19 +8,20 @@ api_name:
 - Word.InlineShape.Reset
 ms.assetid: c7c7c01a-7c62-7d2f-24e6-d20c02c8dbb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.Reset Method (Word)
+# InlineShape.Reset method (Word)
 
 Removes changes that were made to an inline shape.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
- _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
+_expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ aInLine.Reset
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

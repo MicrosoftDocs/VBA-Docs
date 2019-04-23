@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.Add Method (Excel)
+title: FormatConditions.Add method (Excel)
 keywords: vbaxl10.chm510075
 f1_keywords:
 - vbaxl10.chm510075
@@ -8,19 +8,20 @@ api_name:
 - Excel.FormatConditions.Add
 ms.assetid: 705f9ad4-2500-6607-19c0-6abd3f214d3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormatConditions.Add Method (Excel)
+# FormatConditions.Add method (Excel)
 
 Adds a new conditional format.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Type_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
+_expression_.**Add**( `_Type_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Adds a new conditional format.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**|. Specifies whether the conditional format is based on a cell value or an expression.|
-| _Operator_|Optional| **Variant**|The conditional format operator. Can be one of the following  **XlFormatConditionOperator** constants: **xlBetween** , **xlEqual** , **xlGreater** , **xlGreaterEqual** , **xlLess** , **xlLessEqual** , **xlNotBetween** , or **xlNotEqual** . If _Type_ is **xlExpression** , the _Operator_ argument is ignored.|
+| _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**| Specifies whether the conditional format is based on a cell value or an expression.|
+| _Operator_|Optional| **Variant**|The conditional format operator. Can be one of the following  **xlFormatConditionOperator** constants: **xlBetween**, **xlEqual**, **xlGreater**, **xlGreaterEqual**, **xlLess**, **xlLessEqual**, **xlNotBetween**, or **xlNotEqual**. If _Type_ is **xlExpression**, the _Operator_ argument is ignored.|
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the second part of the conditional format when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored). Can be a constant value, a string value, a cell reference, or a formula.|
 
@@ -70,3 +71,4 @@ End With
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

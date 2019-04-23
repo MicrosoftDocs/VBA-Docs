@@ -1,5 +1,5 @@
 ---
-title: Application.Parent Property (Publisher)
+title: Application.Parent property (Publisher)
 keywords: vbapb10.chm131096
 f1_keywords:
 - vbapb10.chm131096
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Parent
 ms.assetid: cab07b56-4c25-7309-5c06-bead2d5f691b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Parent Property (Publisher)
+# Application.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -60,3 +61,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

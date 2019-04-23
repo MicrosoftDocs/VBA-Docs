@@ -1,21 +1,22 @@
 ---
-title: Assignment.ActualCost Property (Project)
+title: Assignment.ActualCost property (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.ActualCost
 ms.assetid: 45bf4d44-bce7-474a-7093-ff0c97d3b7f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.ActualCost Property (Project)
+# Assignment.ActualCost property (Project)
 
 Gets or sets the actual cost for the assignment. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ActualCost`
+_expression_. `ActualCost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -66,4 +67,4 @@ Sub GetActualCostsForTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

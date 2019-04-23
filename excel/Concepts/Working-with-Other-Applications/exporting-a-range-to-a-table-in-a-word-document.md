@@ -3,6 +3,7 @@ title: Exporting a Range to a Table in a Word Document
 ms.prod: excel
 ms.assetid: 4a5cf15f-2e62-4909-a56a-80162b032a3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Exporting a Range to a Table in a Word Document
@@ -64,7 +65,7 @@ Sub Export_Table_Data_Word()
     Set wdDoc = Nothing
     Set wdApp = Nothing
     
-    MsgBox "The " & stWordDocument & "'s table has succcessfully " & vbNewLine & _
+    MsgBox "The " & stWordDocument & "'s table has successfully " & vbNewLine & _
            "been updated!", vbInformation
 
 End Sub
@@ -74,6 +75,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

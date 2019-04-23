@@ -1,5 +1,5 @@
 ---
-title: Selection.ConnectShapes Method (Visio)
+title: Selection.ConnectShapes method (Visio)
 keywords: vis_sdr.chm11152010
 f1_keywords:
 - vis_sdr.chm11152010
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.ConnectShapes
 ms.assetid: 40e9c839-69f0-2142-6b9c-249212e373a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ConnectShapes Method (Visio)
+# Selection.ConnectShapes method (Visio)
 
-Connects two or more selected shapes with a dynamic connector. Returns **Nothing** .
+Connects two or more selected shapes with a dynamic connector. Returns **Nothing**.
 
 
 ## Syntax
 
- _expression_. `ConnectShapes`
+_expression_. `ConnectShapes`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -50,4 +51,4 @@ Public Sub ConnectShapes_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

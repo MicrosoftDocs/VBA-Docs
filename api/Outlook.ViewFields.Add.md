@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Add Method (Outlook)
+title: ViewFields.Add method (Outlook)
 keywords: vbaol11.chm2552
 f1_keywords:
 - vbaol11.chm2552
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewFields.Add
 ms.assetid: 0bf96999-fdb8-d13c-6409-cee150a32c06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFields.Add Method (Outlook)
+# ViewFields.Add method (Outlook)
 
 Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md)** collection for the view.
 
 
 ## Syntax
 
- _expression_. `Add`( `_PropertyName_` )
+_expression_.**Add**( `_PropertyName_` )
 
- _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Parameters
@@ -46,7 +47,7 @@ If you are adding a custom property to the  **ViewFields** collection, the prope
 
 If the property already exists in the  **ViewFields** collection, Outlook will raise an error.
 
-Certain properties cannot be added to a view using  **ViewFields.Add** , including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
+Certain properties cannot be added to a view using  **ViewFields.Add**, including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
 
 
 ## Example
@@ -102,7 +103,7 @@ Err_Handler:
 End Sub
 ```
 
-The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)** , references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add** .
+The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)**, references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add**.
 
 
 
@@ -151,3 +152,4 @@ End Sub
 
 [ViewFields Object](Outlook.ViewFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

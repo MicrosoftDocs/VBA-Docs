@@ -1,5 +1,5 @@
 ---
-title: Document.StyleChanged Event (Visio)
+title: Document.StyleChanged event (Visio)
 keywords: vis_sdr.chm10519250
 f1_keywords:
 - vis_sdr.chm10519250
@@ -8,10 +8,11 @@ api_name:
 - Visio.Document.StyleChanged
 ms.assetid: 1e07a517-4c3f-12a1-896e-0b9262b5736e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.StyleChanged Event (Visio)
+# Document.StyleChanged event (Visio)
 
 Occurs after the name of a style is changed or a change to the style propagates to objects to which the style is applied.
 
@@ -33,8 +34,8 @@ Private Sub  _expression_ _'StyleChanged'(**_ByVal Style As [IVSTYLE]_**)
 
 ## Remarks
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

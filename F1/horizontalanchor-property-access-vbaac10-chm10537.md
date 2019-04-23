@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8f8f3f05-c1f1-4f90-a229-bcd84a339cff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.HorizontalAnchor property (Access)](http://msdn.microsoft.com/library/a68f440f-99fd-54f1-bcc0-e06502ac2dbc%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

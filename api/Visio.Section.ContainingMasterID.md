@@ -1,5 +1,5 @@
 ---
-title: Section.ContainingMasterID Property (Visio)
+title: Section.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm15751700
 f1_keywords:
 - vis_sdr.chm15751700
@@ -8,17 +8,18 @@ api_name:
 - Visio.Section.ContainingMasterID
 ms.assetid: 642bc274-4977-8c1c-160f-b72c11bfbb1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section.ContainingMasterID Property (Visio)
+# Section.ContainingMasterID property (Visio)
 
 Returns the ID of the  **Master** object that contains an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContainingMasterID`
+_expression_. `ContainingMasterID`
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
@@ -32,4 +33,4 @@ Long
 
 If the object is not in a  **Master** object, the **ContainingMasterID** property returns -1. For example, if a **Shape** object belongs to the **Shapes** collection of a **Page** object, the **ContainingMasterID** property returns -1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

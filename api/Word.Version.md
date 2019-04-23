@@ -1,5 +1,5 @@
 ---
-title: Version Object (Word)
+title: Version object (Word)
 keywords: vbawd10.chm2484
 f1_keywords:
 - vbawd10.chm2484
@@ -8,10 +8,11 @@ api_name:
 - Word.Version
 ms.assetid: 63eeefb0-2d63-75e6-a070-a4a80f243bc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Version Object (Word)
+# Version object (Word)
 
 Represents a single version of a document. The  **Version** object is a member of the **Versions** collection. The **Versions** collection includes all the versions of the specified document.
 
@@ -44,6 +45,6 @@ ActiveDocument.Versions.Save _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

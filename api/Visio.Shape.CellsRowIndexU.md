@@ -1,5 +1,5 @@
 ---
-title: Shape.CellsRowIndexU Property (Visio)
+title: Shape.CellsRowIndexU property (Visio)
 keywords: vis_sdr.chm11251950
 f1_keywords:
 - vis_sdr.chm11251950
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.CellsRowIndexU
 ms.assetid: 425fbf08-d44c-2631-7400-55620fd429ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.CellsRowIndexU Property (Visio)
+# Shape.CellsRowIndexU property (Visio)
 
 Returns the index of a row to which a cell belongs. Read-only.
 
 
 ## Syntax
 
- _expression_. `CellsRowIndexU`( `_localeIndependentCellName_` )
+_expression_. `CellsRowIndexU`( `_localeIndependentCellName_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
@@ -42,4 +43,4 @@ Beginning with Microsoft Visio 2000, you can use both local and universal names 
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **CellsRowIndex** property to get a cell's row index by using the cell's local name. Use the **CellsRowIndexU** property to get a cell's row index by using the cell's universal name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

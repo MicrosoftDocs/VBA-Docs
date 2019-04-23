@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Copy Method (Excel)
+title: Worksheets.Copy method (Excel)
 keywords: vbaxl10.chm470074
 f1_keywords:
 - vbaxl10.chm470074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheets.Copy
 ms.assetid: 073f96c3-80c1-502d-a630-8cc5c2bfef9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheets.Copy Method (Excel)
+# Worksheets.Copy method (Excel)
 
 Copies the sheet to another location in the workbook.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Before_` , `_After_` )
+_expression_.**Copy** (_Before_, _After_)
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

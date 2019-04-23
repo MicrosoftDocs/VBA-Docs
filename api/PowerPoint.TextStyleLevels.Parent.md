@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevels.Parent Property (PowerPoint)
+title: TextStyleLevels.Parent property (PowerPoint)
 keywords: vbapp10.chm580002
 f1_keywords:
 - vbapp10.chm580002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextStyleLevels.Parent
 ms.assetid: fe867896-cc88-4772-abed-47d88c0f430f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyleLevels.Parent Property (PowerPoint)
+# TextStyleLevels.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [TextStyleLevels](./PowerPoint.TextStyleLevels.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [TextStyleLevels Object](PowerPoint.TextStyleLevels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

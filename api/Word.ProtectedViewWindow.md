@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow Object (Word)
+title: ProtectedViewWindow object (Word)
 keywords: vbawd10.chm3536
 f1_keywords:
 - vbawd10.chm3536
@@ -8,10 +8,11 @@ api_name:
 - Word.ProtectedViewWindow
 ms.assetid: d77e80e7-c54e-5954-1586-dacd3c9f7434
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow Object (Word)
+# ProtectedViewWindow object (Word)
 
 Represents a protected view window.
 
@@ -20,7 +21,7 @@ Represents a protected view window.
 
 Documents displayed in a protected view window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and Data Connections.
 
-Use [ProtectedViewWindows](Word.ProtectedViewWindows.md)( _Index_ ), where _Index_ is the index number to return a single **ProtectedViewWindow** object.
+Use [ProtectedViewWindows](Word.ProtectedViewWindows.md) (_index_), where _index_ is the index number to return a single **ProtectedViewWindow** object.
 
 
 ## Example
@@ -39,6 +40,6 @@ Set pvWindow = ProtectedViewWindows(1)
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

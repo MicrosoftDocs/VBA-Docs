@@ -1,5 +1,5 @@
 ---
-title: Table.Rows Property (Publisher)
+title: Table.Rows property (Publisher)
 keywords: vbapb10.chm4784134
 f1_keywords:
 - vbapb10.chm4784134
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Table.Rows
 ms.assetid: 97a543b9-a1d7-c7f8-9f3c-e08256e0b364
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Rows Property (Publisher)
+# Table.Rows property (Publisher)
 
 Returns a  **[Rows](Publisher.Rows.md)** collection that represents all the table rows in a range, selection, or table.
 
 
 ## Syntax
 
- _expression_. **Rows**
+_expression_.**Rows**
 
  _expression_ A variable that represents a  **Table** object.
 
@@ -56,4 +57,4 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

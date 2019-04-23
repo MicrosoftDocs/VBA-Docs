@@ -8,6 +8,7 @@ api_name:
 - Excel.PublishObjects.Item
 ms.assetid: 5327f5b3-8dd0-cb10-49b5-9824d0376667
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
+_expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Returns a single object from a collection.
 
 ## Example
 
-This example obtains the identifier from a <DIV> tag and finds the line in a Web page (q198.htm) that you saved from a workbook. The example then creates a copy of the Web page (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
+This example obtains the identifier from a <DIV> tag and finds the line in a web page (q198.htm) that you saved from a workbook. The example then creates a copy of the web page (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
 
 
 ```vb
@@ -58,3 +59,4 @@ Close #1
 
 [PublishObjects Object](Excel.PublishObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

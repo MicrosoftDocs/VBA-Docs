@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetView.DisplayGridlines
 ms.assetid: 60cc2877-6332-3bb5-56f3-f98a4a7beae6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # WorksheetView.DisplayGridlines property (Excel)
 
- **True** if gridlines are displayed. Read/write **Boolean** .
+ **True** if gridlines are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayGridlines`
+_expression_. `DisplayGridlines`
 
- _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
+_expression_ A variable that represents a [WorksheetView](Excel.WorksheetView.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ This property affects only displayed gridlines. Use the  **[PrintGridlines](Exce
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

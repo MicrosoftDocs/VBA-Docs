@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.IconName Property (Word)
+title: OLEFormat.IconName property (Word)
 keywords: vbawd10.chm154337287
 f1_keywords:
 - vbawd10.chm154337287
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.IconName
 ms.assetid: 8894bdb0-597d-f062-e97f-1b03a7e80e26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.IconName Property (Word)
+# OLEFormat.IconName property (Word)
 
-Returns or sets the program file in which the icon for an OLE object is stored. Read/write  **String** .
+Returns or sets the program file in which the icon for an OLE object is stored. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `IconName`
+_expression_. `IconName`
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

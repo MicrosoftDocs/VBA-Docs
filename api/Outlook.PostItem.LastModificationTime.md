@@ -1,5 +1,5 @@
 ---
-title: PostItem.LastModificationTime Property (Outlook)
+title: PostItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1526
 f1_keywords:
 - vbaol11.chm1526
@@ -8,24 +8,25 @@ api_name:
 - Outlook.PostItem.LastModificationTime
 ms.assetid: 38421a0d-4155-167a-9922-62d26d9b4edb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.LastModificationTime Property (Outlook)
+# PostItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

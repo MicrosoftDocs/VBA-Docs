@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 889a2c4d-50e3-f40f-f1ff-332e48e43ad7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Only one instance of the Synchronizer can operate at a time. Use the currently o
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

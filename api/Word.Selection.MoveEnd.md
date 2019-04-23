@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveEnd Method (Word)
+title: Selection.MoveEnd method (Word)
 keywords: vbawd10.chm158662767
 f1_keywords:
 - vbawd10.chm158662767
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveEnd
 ms.assetid: 11fbcd45-16e6-611b-d296-a88cc7d3ca50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveEnd Method (Word)
+# Selection.MoveEnd method (Word)
 
 Moves the ending character position of a range or selection.
 
 
 ## Syntax
 
- _expression_. `MoveEnd`( `_Unit_` , `_Count_` )
+_expression_. `MoveEnd`( `_Unit_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Moves the ending character position of a range or selection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which to move the ending character position. The default value is  **wdCharacter** .|
+| _Unit_|Optional| **WdUnits**|The unit by which to move the ending character position. The default value is  **wdCharacter**.|
 | _Count_|Optional| **Variant**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together. The default value is 1.|
 
 ## Return value
@@ -66,3 +67,4 @@ Selection.MoveEnd Unit:=wdLine, Count:=1
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

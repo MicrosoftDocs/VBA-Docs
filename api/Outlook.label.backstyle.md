@@ -3,6 +3,7 @@ title: Label.BackStyle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: f7f4ce30-cb56-4c64-c088-518a49b0df5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the background style for an objec
 
 ## Syntax
 
- _expression_. **BackStyle**
+_expression_.**BackStyle**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ The  **BackStyle** property determines whether a control is transparent. If **Ba
 
  **BackStyle** does not affect the transparency of bitmaps. You must use a picture editor such as Paintbrush to make a bitmap transparent. Not all controls support transparent bitmaps.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

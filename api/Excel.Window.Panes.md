@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.Panes
 ms.assetid: ba89f562-66f8-990d-e034-c996557b3687
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[Panes](Excel.Panes.md)** collection that represents all the panes 
 
 ## Syntax
 
- _expression_. `Panes`
+_expression_. `Panes`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
 
-This property is available for a window only if the window's  **Split** property can be set to **True** .
+This property is available for a window only if the window's  **Split** property can be set to **True**.
 
 
 ## Example
@@ -55,3 +56,4 @@ ActiveWindow.Panes(1).Activate
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

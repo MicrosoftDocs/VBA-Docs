@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RerouteConnections Method (Excel)
+title: ShapeRange.RerouteConnections method (Excel)
 keywords: vbaxl10.chm640088
 f1_keywords:
 - vbaxl10.chm640088
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.RerouteConnections
 ms.assetid: e84f9b7a-992b-ec54-521b-c2b949d28eda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.RerouteConnections Method (Excel)
+# ShapeRange.RerouteConnections method (Excel)
 
 This method reroutes all connectors attached to the specified shape; if the specified shape is a connector, it's rerouted.
 
 
 ## Syntax
 
- _expression_. `RerouteConnections`
+_expression_. `RerouteConnections`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ If this method is applied to a connector, only that connector will be rerouted. 
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, connects them with a curved connector, and then reroutes the connector so that it takes the shortest possible path between the two rectangles. Note that the  **RerouteConnections** method adjusts the size and position of the connector and determines which connecting sites it attaches to, so the values you initially specify for the _ConnectionSite_ arguments used with the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Excel.ConnectorFormat.EndConnect.md)** methods are irrelevant.
+This example adds two rectangles to  _myDocument_, connects them with a curved connector, and then reroutes the connector so that it takes the shortest possible path between the two rectangles. Note that the  **RerouteConnections** method adjusts the size and position of the connector and determines which connecting sites it attaches to, so the values you initially specify for the _ConnectionSite_ arguments used with the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Excel.ConnectorFormat.EndConnect.md)** methods are irrelevant.
 
 
 ```vb
@@ -57,3 +58,4 @@ newConnector.RerouteConnections
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

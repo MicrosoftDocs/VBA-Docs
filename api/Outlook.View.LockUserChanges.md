@@ -1,5 +1,5 @@
 ---
-title: View.LockUserChanges Property (Outlook)
+title: View.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2490
 f1_keywords:
 - vbaol11.chm2490
@@ -8,29 +8,30 @@ api_name:
 - Outlook.View.LockUserChanges
 ms.assetid: f4347b6f-b00d-6508-09e3-35cf98da26b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.LockUserChanges Property (Outlook)
+# View.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the current view. Read/write.
 
 
 ## Syntax
 
- _expression_. `LockUserChanges`
+_expression_. `LockUserChanges`
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks
 
-If  **True** , the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If  **True**, the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example
 
-The following example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
+The following example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True**.
 
 
 ```vb
@@ -72,3 +73,4 @@ End Sub
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

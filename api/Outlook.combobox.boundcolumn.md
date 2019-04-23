@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 0ebc2ce0-f3f6-ce96-749c-be49343bc978
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Variant** that identifies the source of data in a multicolu
 
 ## Syntax
 
- _expression_. **BoundColumn**
+_expression_.**BoundColumn**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -33,4 +34,4 @@ The  **ListIndex** value retrieves the number of the selected row. For example, 
 
 The  **[Column](Outlook.combobox.column.md)**,  **[List](Outlook.combobox.list.md)**, and  **ListIndex** properties all use zero-based numbering. That is, the value of the first item (column or row) is zero; the value of the second item is one, and so on. This means that if **BoundColumn** is set to 3, you could access the value stored in that column using the expression `Column(2)`.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

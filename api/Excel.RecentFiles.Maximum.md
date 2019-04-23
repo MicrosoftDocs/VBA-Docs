@@ -8,19 +8,20 @@ api_name:
 - Excel.RecentFiles.Maximum
 ms.assetid: 24bb3472-8b75-5457-467a-266ed8e5f979
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # RecentFiles.Maximum property (Excel)
 
-Returns or sets the maximum number of files in the list of recently used files. Can be a value from 0 (zero) through 50. Read/write  **Long** .
+Returns or sets the maximum number of files in the list of recently used files. Can be a value from 0 (zero) through 50. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Maximum`
+_expression_. `Maximum`
 
- _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
+_expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Application.RecentFiles.Maximum = 6
 
 [RecentFiles Object](Excel.RecentFiles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

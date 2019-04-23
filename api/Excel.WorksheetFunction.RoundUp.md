@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RoundUp Method (Excel)
+title: WorksheetFunction.RoundUp method (Excel)
 keywords: vbaxl10.chm137157
 f1_keywords:
 - vbaxl10.chm137157
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.RoundUp
 ms.assetid: daff9e6a-5ed8-b502-24c1-c4ffe01d2d0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.RoundUp Method (Excel)
+# WorksheetFunction.RoundUp method (Excel)
 
 Rounds a number up, away from 0 (zero).
 
 
 ## Syntax
 
- _expression_. `RoundUp`( `_Arg1_` , `_Arg2_` )
+_expression_. `RoundUp`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

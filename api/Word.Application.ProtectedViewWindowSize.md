@@ -1,21 +1,22 @@
 ---
-title: Application.ProtectedViewWindowSize Event (Word)
+title: Application.ProtectedViewWindowSize event (Word)
 ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowSize
 ms.assetid: b28d53f9-783f-6d68-2080-a0b1d8484c43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowSize Event (Word)
+# Application.ProtectedViewWindowSize event (Word)
 
 
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowSize`( `_PvWindow_` , )
+_expression_. `ProtectedViewWindowSize`( `_PvWindow_` , )
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
@@ -49,3 +50,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

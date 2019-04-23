@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto.MouseUp Event (Outlook)
+title: OlkSenderPhoto.MouseUp event (Outlook)
 keywords: vbaol11.chm1000489
 f1_keywords:
 - vbaol11.chm1000489
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkSenderPhoto.MouseUp
 ms.assetid: 8154f3bd-0e33-73cf-6879-aeff297c72ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto.MouseUp Event (Outlook)
+# OlkSenderPhoto.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPhoto.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

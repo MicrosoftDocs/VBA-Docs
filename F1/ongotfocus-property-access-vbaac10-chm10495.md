@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4c1e1b6f-7c59-4bf7-8817-85dc3482a202
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnGotFocus property (Access)](http://msdn.microsoft.com/library/4d892495-791b-05b3-0bcb-3b3c3635a0bd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

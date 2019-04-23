@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceHyperlinks Property (Word)
+title: Options.AutoFormatReplaceHyperlinks property (Word)
 keywords: vbawd10.chm162988305
 f1_keywords:
 - vbawd10.chm162988305
@@ -8,24 +8,25 @@ api_name:
 - Word.Options.AutoFormatReplaceHyperlinks
 ms.assetid: affbc523-15c2-e029-22a7-a08c5d8c8410
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatReplaceHyperlinks Property (Word)
+# Options.AutoFormatReplaceHyperlinks property (Word)
 
- **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically formatted whenever Word AutoFormats a document or range. Read/write **Boolean** .
+ **True** if email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically formatted whenever Word AutoFormats a document or range. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatReplaceHyperlinks`
+_expression_. `AutoFormatReplaceHyperlinks`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
 
 ## Remarks
 
-Word changes any text that looks like an e-mail address, UNC, or URL to a hyperlink. Word doesn't check the validity of the hyperlink.
+Word changes any text that looks like an email address, UNC, or URL to a hyperlink. Word doesn't check the validity of the hyperlink.
 
 
 ## Example
@@ -55,3 +56,4 @@ blnAutoFormat = Options.AutoFormatReplaceHyperlinks
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.AutoShapeType Property (Word)
+title: Shape.AutoShapeType property (Word)
 keywords: vbawd10.chm161480805
 f1_keywords:
 - vbawd10.chm161480805
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.AutoShapeType
 ms.assetid: 521ed05e-99b5-d917-6a26-3d911192b569
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.AutoShapeType Property (Word)
+# Shape.AutoShapeType property (Word)
 
-Returns or sets the shape type for the specified  **Shape** object, which must represent an AutoShape other than a line or freeform drawing. Read/write **MsoAutoShapeType** .
+Returns or sets the shape type for the specified  **Shape** object, which must represent an AutoShape other than a line or freeform drawing. Read/write **MsoAutoShapeType**.
 
 
 ## Syntax
 
- _expression_. `AutoShapeType`
+_expression_. `AutoShapeType`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

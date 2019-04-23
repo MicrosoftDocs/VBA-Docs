@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.InsertRowRange
 ms.assetid: 5957f802-96b8-60a3-74e4-d7abcea7544b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListObject.InsertRowRange property (Excel)
 
- Returns a **Range** object representing the Insert row, if any, of a specified **[ListObject](Excel.ListObject.md)** object. Read-only **Range** .
+ Returns a **Range** object representing the Insert row, if any, of a specified **[ListObject](Excel.ListObject.md)** object. Read-only **Range**.
 
 
 ## Syntax
 
- _expression_. `InsertRowRange`
+_expression_. `InsertRowRange`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End Function
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.DDEExecute Method (Word)
+title: Application.DDEExecute method (Word)
 keywords: vbawd10.chm158335286
 f1_keywords:
 - vbawd10.chm158335286
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.DDEExecute
 ms.assetid: 0f83607e-ba56-70d7-091e-411ec73fdfa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DDEExecute Method (Word)
+# Application.DDEExecute method (Word)
 
 Sends a command or series of commands to an application through the specified dynamic data exchange (DDE) channel.
 
 
 ## Syntax
 
- _expression_. `DDEExecute`( `_Channel_` , `_Command_` )
+_expression_. `DDEExecute`( `_Channel_` , `_Command_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -73,3 +74,4 @@ DDETerminate Channel:=lngChannel
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

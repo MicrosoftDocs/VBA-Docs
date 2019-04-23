@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (PowerPoint)
+title: Hyperlink.Follow method (PowerPoint)
 keywords: vbapp10.chm526011
 f1_keywords:
 - vbapp10.chm526011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Hyperlink.Follow
 ms.assetid: d56ace43-cf92-b3a6-abb4-dd7b87bc3feb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.Follow Method (PowerPoint)
+# Hyperlink.Follow method (PowerPoint)
 
 Displays the HTML document associated with the specified hyperlink in a new Web browser window.
 
 
 ## Syntax
 
- _expression_. `Follow`
+_expression_. `Follow`
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
@@ -38,3 +39,4 @@ ActivePresentation.Slides(1).Hyperlinks(1).Follow
 
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

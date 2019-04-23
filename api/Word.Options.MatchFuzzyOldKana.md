@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyOldKana Property (Word)
+title: Options.MatchFuzzyOldKana property (Word)
 keywords: vbawd10.chm162988348
 f1_keywords:
 - vbawd10.chm162988348
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.MatchFuzzyOldKana
 ms.assetid: 682e9473-8e0f-b5cc-1c17-4b16ee499280
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.MatchFuzzyOldKana Property (Word)
+# Options.MatchFuzzyOldKana property (Word)
 
- **True** if Microsoft Word ignores the distinction between new kana and old kana characters during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between new kana and old kana characters during a search. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MatchFuzzyOldKana`
+_expression_. `MatchFuzzyOldKana`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -38,3 +39,4 @@ Options.MatchFuzzyOldKana = True
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

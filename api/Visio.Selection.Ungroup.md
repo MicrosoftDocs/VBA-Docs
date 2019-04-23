@@ -1,5 +1,5 @@
 ---
-title: Selection.Ungroup Method (Visio)
+title: Selection.Ungroup method (Visio)
 keywords: vis_sdr.chm11116625
 f1_keywords:
 - vis_sdr.chm11116625
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Ungroup
 ms.assetid: b9f14342-e885-1399-83ed-59189f5cbec3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Ungroup Method (Visio)
+# Selection.Ungroup method (Visio)
 
 Ungroups a group.
 
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -66,4 +67,4 @@ Sub Ungroup_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

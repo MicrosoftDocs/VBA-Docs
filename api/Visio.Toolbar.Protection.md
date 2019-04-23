@@ -1,5 +1,5 @@
 ---
-title: Toolbar.Protection Property (Visio)
+title: Toolbar.Protection property (Visio)
 keywords: vis_sdr.chm13714180
 f1_keywords:
 - vis_sdr.chm13714180
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.Protection
 ms.assetid: 2f2120db-78de-d37c-4764-c3fabe17a6f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.Protection Property (Visio)
+# Toolbar.Protection property (Visio)
 
 Determines how a  **Toolbar** object is protected from user customization. Read/write.
 
 
 ## Syntax
 
- _expression_. `Protection`
+_expression_. `Protection`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -33,7 +34,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of the  **Protection** property can be one or a combination of the following constants declared by the Visio type library in **VisUIBarProtection** .
+The value of the  **Protection** property can be one or a combination of the following constants declared by the Visio type library in **VisUIBarProtection**.
 
 
 
@@ -136,4 +137,4 @@ Sub Protection_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

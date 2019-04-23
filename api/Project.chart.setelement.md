@@ -1,26 +1,27 @@
 ---
-title: Chart.SetElement Method (Project)
+title: Chart.SetElement method (Project)
 ms.prod: project-server
 ms.assetid: ca4acf62-c090-f11c-2816-c5e1a75762fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.SetElement Method (Project)
+# Chart.SetElement method (Project)
 Adds the specified element to a chart or to a selected object on a chart.
 
 ## Syntax
 
- _expression_. `SetElement` _(RHS)_
+_expression_. `SetElement` _(RHS)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RHS_|Required|**MsoChartElementType**|One of the enumeration constants for the chart element type to add.|
 
@@ -31,7 +32,7 @@ Adds the specified element to a chart or to a selected object on a chart.
 
 ## Remarks
 
-The  _RHS_ value for the **SetElement** method corresponds to items in the **Add Chart Element** submenus. Different items are enabled, depending on the type of chart. If you try to add an element that does not exist for a particular chart, you get an unspecified error. For example, on a 3-D chart, the **Error Bars** item in the **Add Chart Element** drop-down list is unavailable. A call to `Chart.SetElement msoElementErrorBarStandardDeviation` results in an error.
+The  _RHS_ value for the **SetElement** method corresponds to items in the **Add Chart Element** submenus. Different items are enabled, depending on the type of chart. If you try to add an element that does not exist for a particular chart, you get an unspecified error. For example, on a 3D chart, the **Error Bars** item in the **Add Chart Element** drop-down list is unavailable. A call to `Chart.SetElement msoElementErrorBarStandardDeviation` results in an error.
 
 
 ## Example
@@ -44,7 +45,7 @@ Sub TestSetElements()
     Dim chartShape As Shape
     Dim reportName As String
     
-    reportName = "Simple 3-D chart"
+    reportName = "Simple 3D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     With chartShape.Chart
@@ -68,3 +69,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

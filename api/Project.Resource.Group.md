@@ -1,21 +1,22 @@
 ---
-title: Resource.Group Property (Project)
+title: Resource.Group property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.Group
 ms.assetid: 9f5f5bd6-c104-629c-feab-455fbeaf27eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.Group Property (Project)
+# Resource.Group property (Project)
 
 Gets or sets the group to which a resource belongs. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Group`
+_expression_. `Group`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -50,4 +51,4 @@ Sub DeleteResourcesInGroup()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 09557015-d581-a09f-499e-86bd4211588e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Control Character Matching in a Combo Box and List Box
+# Control Character Matching in a Combo Box and List Box
 
 The following example uses the  **MatchEntry** property to demonstrate character matching that is available for **[ComboBox](../../../api/Outlook.combobox.md)** and **[ListBox](../../../api/Outlook.listbox.md)**. In this example, the user can set the type of matching with the  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls and then type into the **ComboBox** to specify an item from its list.
 
@@ -57,4 +58,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

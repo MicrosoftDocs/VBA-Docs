@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 1e47c76a-a152-30a4-96a6-f95122209ff1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Set Entry Matching in a Combo Box
+# Set Entry Matching in a Combo Box
 
 The following example uses the  **[MatchFound](../../../api/Outlook.combobox.matchfound.md)** and **[MatchRequired](../../../api/Outlook.combobox.matchrequired.md)** properties to demonstrate additional character matching for **[ComboBox](../../../api/Outlook.combobox.md)**. The matching verification occurs in the  **Change** event.
 
@@ -68,4 +69,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Dictionary Object (Word)
+title: Dictionary object (Word)
 keywords: vbawd10.chm2477
 f1_keywords:
 - vbawd10.chm2477
@@ -8,12 +8,13 @@ api_name:
 - Word.Dictionary
 ms.assetid: 1946d60c-2abd-9ca9-8d0b-7068e9173bb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionary Object (Word)
+# Dictionary object (Word)
 
-Represents a dictionary.  **Dictionary** objects that represent custom dictionaries are members of the **[Dictionaries](Word.dictionaries.md)** collection. Other dictionary objects are returned by properties of the **[Languages](Word.languages.md)** collection; these include the **[ActiveSpellingDictionary](Word.Language.ActiveSpellingDictionary.md)** , **[ActiveGrammarDictionary](Word.Language.ActiveGrammarDictionary.md)** , **[ActiveThesaurusDictionary](Word.Language.ActiveThesaurusDictionary.md)** , and **[ActiveHyphenationDictionary](Word.Language.ActiveHyphenationDictionary.md)** properties.
+Represents a dictionary.  **Dictionary** objects that represent custom dictionaries are members of the **[Dictionaries](Word.dictionaries.md)** collection. Other dictionary objects are returned by properties of the **[Languages](Word.languages.md)** collection; these include the **[ActiveSpellingDictionary](Word.Language.ActiveSpellingDictionary.md)**, **[ActiveGrammarDictionary](Word.Language.ActiveGrammarDictionary.md)**, **[ActiveThesaurusDictionary](Word.Language.ActiveThesaurusDictionary.md)**, and **[ActiveHyphenationDictionary](Word.Language.ActiveHyphenationDictionary.md)** properties.
 
 
 ## Remarks
@@ -60,7 +61,7 @@ Next d
 
 Use the  **[LanguageSpecific](Word.Dictionary.LanguageSpecific.md)** property to determine whether the specified custom dictionary can have a specific language assigned to it with the **[LanguageID](Word.Dictionary.LanguageID.md)** property. If the dictionary is language specific, it will verify only text that's formatted for the specified language.
 
-For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary** , **ActiveHyphenationDictionary** , **ActiveSpellingDictionary** , and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** objects. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
+For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** objects. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
 
 
 
@@ -76,6 +77,6 @@ The  **[ReadOnly](Word.Dictionary.ReadOnly.md)** property returns **True** for .
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

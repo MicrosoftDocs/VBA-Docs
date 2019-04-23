@@ -8,6 +8,7 @@ api_name:
 - Excel.Filters.Item
 ms.assetid: a24c9aeb-b253-c11a-29dc-c4a2bba86e21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Filters](Excel.Filters.md) object.
+_expression_ A variable that represents a [Filters](Excel.Filters.md) object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ End If
 
 [Filters Object](Excel.Filters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

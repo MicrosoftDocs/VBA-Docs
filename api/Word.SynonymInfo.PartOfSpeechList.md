@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.PartOfSpeechList Property (Word)
+title: SynonymInfo.PartOfSpeechList property (Word)
 keywords: vbawd10.chm161153029
 f1_keywords:
 - vbawd10.chm161153029
@@ -8,24 +8,25 @@ api_name:
 - Word.SynonymInfo.PartOfSpeechList
 ms.assetid: 98d61149-8e25-7c1d-38af-d211d1d205f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SynonymInfo.PartOfSpeechList Property (Word)
+# SynonymInfo.PartOfSpeechList property (Word)
 
-Returns a list of the parts of speech corresponding to the meanings found for the word or phrase looked up in the thesaurus. The list is returned as an array of integers. Read-only  **Variant** .
+Returns a list of the parts of speech corresponding to the meanings found for the word or phrase looked up in the thesaurus. The list is returned as an array of integers. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PartOfSpeechList`
+_expression_. `PartOfSpeechList`
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
 
 ## Remarks
 
-The list of the parts of speech is returned as an array consisting of the following  **WdPartOfSpeech** constants: **wdAdjective** , **wdAdverb** , **wdConjunction** , **wdIdiom** , **wdInterjection** , **wdNoun** , **wdOther** , **wdPreposition** , **wdPronoun** , and **wdVerb** . The array elements are ordered to correspond to the elements returned by the **[MeaningList](Word.SynonymInfo.MeaningList.md)** property.
+The list of the parts of speech is returned as an array consisting of the following  **WdPartOfSpeech** constants: **wdAdjective**, **wdAdverb**, **wdConjunction**, **wdIdiom**, **wdInterjection**, **wdNoun**, **wdOther**, **wdPreposition**, **wdPronoun**, and **wdVerb**. The array elements are ordered to correspond to the elements returned by the **[MeaningList](Word.SynonymInfo.MeaningList.md)** property.
 
 
 ## Example
@@ -64,3 +65,4 @@ End If
 
 [SynonymInfo Object](Word.SynonymInfo.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

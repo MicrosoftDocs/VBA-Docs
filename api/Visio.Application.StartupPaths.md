@@ -1,5 +1,5 @@
 ---
-title: Application.StartupPaths Property (Visio)
+title: Application.StartupPaths property (Visio)
 keywords: vis_sdr.chm10014415
 f1_keywords:
 - vis_sdr.chm10014415
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.StartupPaths
 ms.assetid: 966a91d9-9ada-d0e1-9886-271ea47faaf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.StartupPaths Property (Visio)
+# Application.StartupPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for third-party and user add-ons to run when the application is started. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartupPaths`
+_expression_. `StartupPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -97,4 +98,4 @@ Public Sub StartupPaths_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

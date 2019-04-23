@@ -1,14 +1,15 @@
 ---
-title: HeaderFooter Object (Word)
+title: HeaderFooter object (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter
 ms.assetid: 3f2f926a-9220-5536-80ed-af63d2feb016
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter Object (Word)
+# HeaderFooter object (Word)
 
 Represents a single header or footer. The  **HeaderFooter** object is a member of the **[HeadersFooters](Word.headersfooters.md)** collection. The **HeadersFooters** collection includes all headers and footers in the specified document section.
 
@@ -62,7 +63,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.HeaderFooter.Application.md)|
 |[Creator](Word.HeaderFooter.Creator.md)|
@@ -78,4 +79,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

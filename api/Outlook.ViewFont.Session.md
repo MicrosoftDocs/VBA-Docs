@@ -1,5 +1,5 @@
 ---
-title: ViewFont.Session Property (Outlook)
+title: ViewFont.Session property (Outlook)
 keywords: vbaol11.chm2693
 f1_keywords:
 - vbaol11.chm2693
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewFont.Session
 ms.assetid: 8f126189-3bec-6eee-1e62-b178738d361b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFont.Session Property (Outlook)
+# ViewFont.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
+_expression_ A variable that represents a [ViewFont](Outlook.ViewFont.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [ViewFont Object](Outlook.ViewFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

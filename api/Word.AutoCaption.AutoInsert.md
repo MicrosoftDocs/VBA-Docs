@@ -1,5 +1,5 @@
 ---
-title: AutoCaption.AutoInsert Property (Word)
+title: AutoCaption.AutoInsert property (Word)
 keywords: vbawd10.chm159055873
 f1_keywords:
 - vbawd10.chm159055873
@@ -8,17 +8,18 @@ api_name:
 - Word.AutoCaption.AutoInsert
 ms.assetid: eac9cee8-93d5-e707-b03d-ef1dbe906ef9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCaption.AutoInsert Property (Word)
+# AutoCaption.AutoInsert property (Word)
 
- **True** if a caption is automatically added when the item is inserted into a document. Read/write **Boolean** .
+ **True** if a caption is automatically added when the item is inserted into a document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoInsert`
+_expression_. `AutoInsert`
 
  _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
 
@@ -41,3 +42,4 @@ ActiveDocument.Tables.Add Range:=Selection.Range, _
 
 [AutoCaption Object](Word.AutoCaption.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

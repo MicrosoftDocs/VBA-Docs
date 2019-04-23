@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.ID Property (Visio)
+title: GraphicItem.ID property (Visio)
 keywords: vis_sdr.chm16913675
 f1_keywords:
 - vis_sdr.chm16913675
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItem.ID
 ms.assetid: 1124979f-ad9c-8466-fab9-d780569e668b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem.ID Property (Visio)
+# GraphicItem.ID property (Visio)
 
 Gets the unique identifier of the  **GraphicItem** object. Read-only.
 
@@ -21,7 +22,7 @@ Gets the unique identifier of the  **GraphicItem** object. Read-only.
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
@@ -33,6 +34,6 @@ Long
 
 ## Remarks
 
- **ID** is the default property of **GraphicItem** . The ID of each **GraphicItem** object is unique in the **GraphicItems** collection to which it belongs.
+ **ID** is the default property of **GraphicItem**. The ID of each **GraphicItem** object is unique in the **GraphicItems** collection to which it belongs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

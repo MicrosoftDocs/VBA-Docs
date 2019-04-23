@@ -1,5 +1,5 @@
 ---
-title: DropCap.Parent Property (Publisher)
+title: DropCap.Parent property (Publisher)
 keywords: vbapb10.chm5505026
 f1_keywords:
 - vbapb10.chm5505026
@@ -8,17 +8,18 @@ api_name:
 - Publisher.DropCap.Parent
 ms.assetid: fd3032ad-14d2-775f-5c1e-64de54e56a4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap.Parent Property (Publisher)
+# DropCap.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **DropCap** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

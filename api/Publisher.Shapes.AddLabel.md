@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLabel Method (Publisher)
+title: Shapes.AddLabel method (Publisher)
 keywords: vbapb10.chm2162707
 f1_keywords:
 - vbapb10.chm2162707
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddLabel
 ms.assetid: 5a803aa2-d37f-6da1-7d8b-58ee2dcd8146
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLabel Method (Publisher)
+# Shapes.AddLabel method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a text label to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddLabel**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddLabel**(**_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -66,4 +67,4 @@ Set shpLabel = ActiveDocument.Pages(1).Shapes.AddLabel _
  Width:=72, Height:=18)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

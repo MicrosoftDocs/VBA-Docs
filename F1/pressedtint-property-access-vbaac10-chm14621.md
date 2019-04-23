@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 88b6b0ef-be38-4dfc-9494-09fe7b0b5211
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.PressedTint property (Access)](http://msdn.microsoft.com/library/11439c75-f951-a551-12ee-b7b2d2e8ee94%28Office.15%29.aspx)
 [TabControl.PressedTint property (Access)](http://msdn.microsoft.com/library/1826cb99-d49c-465c-6c80-bca5a31f0f06%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
+title: LayoutGuides.VerticalBaseLineSpacing property (Publisher)
 keywords: vbapb10.chm1114134
 f1_keywords:
 - vbapb10.chm1114134
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.VerticalBaseLineSpacing
 ms.assetid: 49391fbd-86c0-b53f-ff57-009af9341e74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
+# LayoutGuides.VerticalBaseLineSpacing property (Publisher)
 
 Returns a  **Single** that represents the vertical baseline spacing of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalBaseLineSpacing**
+_expression_.**VerticalBaseLineSpacing**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -45,4 +46,4 @@ objLayout.VerticalBaseLineSpacing = 12
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

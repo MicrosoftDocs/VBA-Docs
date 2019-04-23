@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Address
 ms.assetid: aaa2432e-9bb1-4a48-3868-86455bc53938
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -18,20 +19,20 @@ Returns a **String** value that represents the range reference in the language o
 
 ## Syntax
 
-_expression_. `Address`( _RowAbsolute_, _ColumnAbsolute_, _ReferenceStyle_, _External_, _RelativeTo_ )
+_expression_.**Address** (_RowAbsolute_, _ColumnAbsolute_, _ReferenceStyle_, _External_, _RelativeTo_)
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _RowAbsolute_|Optional| **Variant**| **True** to return the row part of the reference as an absolute reference. The default value is **True** .|
-| _ColumnAbsolute_|Optional| **Variant**| **True** to return the column part of the reference as an absolute reference. The default value is **True** .|
-| _ReferenceStyle_|Optional| **[xlReferenceStyle](Excel.XlReferenceStyle.md)**|The reference style. The default value is  **xlA1** .|
-| _External_|Optional| **Variant**| **True** to return an external reference. **False** to return a local reference. The default value is **False** .|
-| _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are **False** , and _ReferenceStyle_ is **xlR1C1** , you must include a starting point for the relative reference. This argument is a **[Range](Excel.Range(object).md)** object that defines the starting point.<br/><br/>**NOTE**: Testing with Excel VBA 7.1 shows that an explicit starting point is not mandatory. There appears to be a default reference of $A$1.|
+| _RowAbsolute_|Optional| **Variant**| **True** to return the row part of the reference as an absolute reference. The default value is **True**.|
+| _ColumnAbsolute_|Optional| **Variant**| **True** to return the column part of the reference as an absolute reference. The default value is **True**.|
+| _ReferenceStyle_|Optional| **[XlReferenceStyle](Excel.XlReferenceStyle.md)**|The reference style. The default value is  **xlA1**.|
+| _External_|Optional| **Variant**| **True** to return an external reference. **False** to return a local reference. The default value is **False**.|
+| _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are **False**, and _ReferenceStyle_ is **xlR1C1**, you must include a starting point for the relative reference. This argument is a **[Range](Excel.Range(object).md)** object that defines the starting point.<br/><br/>**NOTE**: Testing with Excel VBA 7.1 shows that an explicit starting point is not mandatory. There appears to be a default reference of $A$1.|
 
 ## Remarks
 
@@ -58,3 +59,4 @@ MsgBox mc.Address(ReferenceStyle:=xlR1C1, _
 
 - [Range object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

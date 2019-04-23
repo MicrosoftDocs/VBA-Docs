@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.CalculatedMembers
 ms.assetid: 65e7ffd6-e01d-f8fc-3adb-a1bcb1046fcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[CalculatedMembers](Excel.CalculatedMembers.md)** collection repres
 
 ## Syntax
 
- _expression_. `CalculatedMembers`
+_expression_. `CalculatedMembers`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

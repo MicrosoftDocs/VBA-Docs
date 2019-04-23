@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtLayouts Property (Word)
+title: Application.SmartArtLayouts property (Word)
 keywords: vbawd10.chm158335457
 f1_keywords:
 - vbawd10.chm158335457
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.SmartArtLayouts
 ms.assetid: dcbaf620-0865-8f2f-ef97-456edd0d70e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SmartArtLayouts Property (Word)
+# Application.SmartArtLayouts property (Word)
 
-Returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
+Returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArtLayouts`
+_expression_. `SmartArtLayouts`
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
@@ -49,3 +50,4 @@ mySmartArt.Layout = Application.SmartArtLayouts(15)
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

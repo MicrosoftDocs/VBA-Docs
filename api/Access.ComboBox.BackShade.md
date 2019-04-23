@@ -7,41 +7,39 @@ ms.prod: access
 api_name:
 - Access.ComboBox.BackShade
 ms.assetid: d1846516-4f38-67bb-3e8c-41bd79ac7a30
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # ComboBox.BackShade property (Access)
 
-Gets or sets the shade that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
+Gets or sets the shade that is applied to the theme color in the **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
-_expression_. `BackShade`
+_expression_.**BackShade**
 
-_expression_ A variable that represents a '[ComboBox](Access.ComboBox.md)' object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
-The  **BackShade** property contains a numeric expression that can be used to darken the theme color in the **BackColor** property. The default value of the **BackShade** property is 100, which is neutral, and does not change the theme color. To darken the color, first determine the percentage by which to darken from 1 to 100, then subtract that value as a whole number from 100 and use the remainder. For example, to darken the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
+The **BackShade** property contains a numeric expression that can be used to darken the theme color in the **BackColor** property. The default value of the **BackShade** property is 100, which is neutral, and does not change the theme color. 
+
+To darken the color, first determine the percentage by which to darken from 1 to 100, and then subtract that value as a whole number from 100 and use the remainder. For example, to darken the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
 
 This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example darkens the  **BackColor** property by 75%.
-
+The following code example darkens the **BackColor** property by 75%.
 
 ```vb
 Me.ctl.BackShade=25
 ```
 
 
-## See also
-
-
-[ComboBox Object](Access.ComboBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

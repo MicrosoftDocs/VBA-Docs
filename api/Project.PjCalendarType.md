@@ -1,16 +1,17 @@
 ---
-title: PjCalendarType Enumeration (Project)
+title: PjCalendarType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCalendarType
 ms.assetid: c95af1e5-ec5d-230e-ea1c-572a70881985
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjCalendarType Enumeration (Project)
+# PjCalendarType enumeration (Project)
 
-Contains constants that specify the type of calandar.
+Contains constants that specify the type of calendar.
 
 
 
@@ -20,3 +21,4 @@ Contains constants that specify the type of calandar.
 |**pjHijriCalendar**|6|Hijri Calendar.|
 |**pjThaiCalendar**|7|Thai Calendar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

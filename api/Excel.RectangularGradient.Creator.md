@@ -8,6 +8,7 @@ api_name:
 - Excel.RectangularGradient.Creator
 ms.assetid: b6697d8f-7cd0-a731-3375-e18901f55ed0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
+_expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [RectangularGradient Object](Excel.RectangularGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

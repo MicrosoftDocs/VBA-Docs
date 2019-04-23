@@ -1,5 +1,5 @@
 ---
-title: Application.Help Method (PowerPoint)
+title: Application.Help method (PowerPoint)
 keywords: vbapp10.chm502021
 f1_keywords:
 - vbapp10.chm502021
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.Help
 ms.assetid: 97dabc76-1987-6e08-ea42-6762be6b7d60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Help Method (PowerPoint)
+# Application.Help method (PowerPoint)
 
 Displays a Help topic.
 
 
 ## Syntax
 
- _expression_. `Help`( `_HelpFile_`, `_ContextID_` )
+_expression_. `Help`( `_HelpFile_`, `_ContextID_` )
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ Application.Help "MyHelpFile.chm", 65527
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

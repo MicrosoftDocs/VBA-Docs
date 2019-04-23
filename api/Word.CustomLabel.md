@@ -1,5 +1,5 @@
 ---
-title: CustomLabel Object (Word)
+title: CustomLabel object (Word)
 keywords: vbawd10.chm2325
 f1_keywords:
 - vbawd10.chm2325
@@ -8,10 +8,11 @@ api_name:
 - Word.CustomLabel
 ms.assetid: a89ff4e1-ff8a-8a8f-afa2-6071bb49355b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomLabel Object (Word)
+# CustomLabel object (Word)
 
 Represents a custom mailing label. The  **CustomLabel** object is a member of the **[CustomLabels](Word.customlabels.md)** collection. The **CustomLabels** collection contains all the custom mailing labels listed in the **Label Options** dialog box.
 
@@ -61,5 +62,6 @@ ML.PageSize = wdCustomLabelA4
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

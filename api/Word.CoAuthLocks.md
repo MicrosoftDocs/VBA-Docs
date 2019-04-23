@@ -1,14 +1,15 @@
 ---
-title: CoAuthLocks Object (Word)
+title: CoAuthLocks object (Word)
 ms.prod: word
 api_name:
 - Word.CoAuthLocks
 ms.assetid: 589763ed-8463-6988-3817-9c2152506d16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthLocks Object (Word)
+# CoAuthLocks object (Word)
 
 A collection of  **[CoAuthLock](Word.CoAuthLock.md)** objects.
 
@@ -33,6 +34,6 @@ MsgBox ActiveDocument.CoAuthoring.Locks.Count
 
 [CoAuthoring.Locks Property](Word.CoAuthoring.Locks.md)
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

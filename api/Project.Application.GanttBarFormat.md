@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarFormat Method (Project)
+title: Application.GanttBarFormat method (Project)
 keywords: vbapj.chm938
 f1_keywords:
 - vbapj.chm938
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GanttBarFormat
 ms.assetid: 2b3b3933-1993-d4cf-f4ff-475c4b003514
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GanttBarFormat Method (Project)
+# Application.GanttBarFormat method (Project)
 
 Changes the formatting of Gantt bars from their default styles.
 
 
 ## Syntax
 
- _expression_. `GanttBarFormat`( ` _TaskID_`, ` _GanttStyle_`, ` _StartShape_`, ` _StartType_`, ` _StartColor_`, ` _MiddleShape_`, ` _MiddlePattern_`, ` _MiddleColor_`, ` _EndShape_`, ` _EndType_`, ` _EndColor_`, ` _LeftText_`, ` _RightText_`, ` _TopText_`, ` _BottomText_`, ` _InsideText_`, ` _Reset_`, ` _ProjectName_` )
+_expression_. `GanttBarFormat`( `_TaskID_`, `_GanttStyle_`, `_StartShape_`, `_StartType_`, `_StartColor_`, `_MiddleShape_`, `_MiddlePattern_`, `_MiddleColor_`, `_EndShape_`, `_EndType_`, `_EndColor_`, `_LeftText_`, `_RightText_`, `_TopText_`, `_BottomText_`, `_InsideText_`, `_Reset_`, `_ProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -77,4 +78,4 @@ Sub GanttBar_Format()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

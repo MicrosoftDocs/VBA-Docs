@@ -1,14 +1,15 @@
 ---
-title: WdViewType Enumeration (Word)
+title: WdViewType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdViewType
 ms.assetid: ade8beac-7f70-2923-a40f-d2c0f900c585
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdViewType Enumeration (Word)
+# WdViewType enumeration (Word)
 
 Specifies the view type.
 
@@ -24,3 +25,4 @@ Specifies the view type.
 | **wdReadingView**|7|A reading view.|
 | **wdWebView**|6|A Web view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

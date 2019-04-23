@@ -1,5 +1,5 @@
 ---
-title: Explorer.CurrentView Property (Outlook)
+title: Explorer.CurrentView property (Outlook)
 keywords: vbaol11.chm2766
 f1_keywords:
 - vbaol11.chm2766
@@ -8,28 +8,29 @@ api_name:
 - Outlook.Explorer.CurrentView
 ms.assetid: 177e6387-9ccb-cb71-bbe5-332c25485848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.CurrentView Property (Outlook)
+# Explorer.CurrentView property (Outlook)
 
 Returns or sets a  **Variant** representing the current view. Read/write.
 
 
 ## Syntax
 
- _expression_. `CurrentView`
+_expression_. `CurrentView`
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Remarks
 
-To obtain a  **[View](Outlook.View.md)** object for the view of the current **[Explorer](Outlook.Explorer.md)** , use **Explorer.CurrentView** instead of the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object returned by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)** .
+To obtain a  **[View](Outlook.View.md)** object for the view of the current **[Explorer](Outlook.Explorer.md)**, use **Explorer.CurrentView** instead of the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object returned by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)**.
 
 You must save a reference to the  **View** object returned by **CurrentView** before you proceed to use it for any purpose.
 
-To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **[View.Apply](Outlook.View.Apply.md)** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **[View.Apply](Outlook.View.Apply.md)**. The code sample below illustrates the order of the calls:
 
 
 
@@ -84,3 +85,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

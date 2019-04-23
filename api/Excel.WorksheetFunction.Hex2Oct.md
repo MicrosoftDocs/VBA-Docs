@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Hex2Oct Method (Excel)
+title: WorksheetFunction.Hex2Oct method (Excel)
 keywords: vbaxl10.chm137263
 f1_keywords:
 - vbaxl10.chm137263
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Hex2Oct
 ms.assetid: fd1bdc2b-a5bc-e37a-85c4-2275536e2efc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Hex2Oct Method (Excel)
+# WorksheetFunction.Hex2Oct method (Excel)
 
 Converts a hexadecimal number to octal.
 
 
 ## Syntax
 
- _expression_. `Hex2Oct`( `_Arg1_` , `_Arg2_` )
+_expression_. `Hex2Oct`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

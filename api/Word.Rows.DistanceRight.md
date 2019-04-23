@@ -1,5 +1,5 @@
 ---
-title: Rows.DistanceRight Property (Word)
+title: Rows.DistanceRight property (Word)
 keywords: vbawd10.chm155975701
 f1_keywords:
 - vbawd10.chm155975701
@@ -8,24 +8,25 @@ api_name:
 - Word.Rows.DistanceRight
 ms.assetid: 68e37feb-bb0a-7a74-9fbd-ee4a8d9e7dca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.DistanceRight Property (Word)
+# Rows.DistanceRight property (Word)
 
-Returns or sets the distance (in points) between the document text and the right edge of the specified table. Read/write  **Single** .
+Returns or sets the distance (in points) between the document text and the right edge of the specified table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `DistanceRight`
+_expression_. `DistanceRight`
 
  _expression_ A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Remarks
 
-This property doesn't have any effect if  **WrapAroundText** is **False** .
+This property doesn't have any effect if  **WrapAroundText** is **False**.
 
 
 ## Example
@@ -49,3 +50,4 @@ End With
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

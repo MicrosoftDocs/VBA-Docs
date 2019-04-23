@@ -1,5 +1,5 @@
 ---
-title: Application.BaseCalendarCreate Method (Project)
+title: Application.BaseCalendarCreate method (Project)
 keywords: vbapj.chm618
 f1_keywords:
 - vbapj.chm618
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BaseCalendarCreate
 ms.assetid: c9c92dff-255a-041b-c18d-49d6d75884e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BaseCalendarCreate Method (Project)
+# Application.BaseCalendarCreate method (Project)
 
 Creates a base calendar.
 
 
 ## Syntax
 
- _expression_. `BaseCalendarCreate`( ` _Name_`, ` _FromName_` )
+_expression_. `BaseCalendarCreate`( `_Name_`, `_FromName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -53,4 +54,4 @@ Sub CreateHolidayCalendar()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

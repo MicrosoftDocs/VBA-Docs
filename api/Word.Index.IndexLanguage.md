@@ -1,5 +1,5 @@
 ---
-title: Index.IndexLanguage Property (Word)
+title: Index.IndexLanguage property (Word)
 keywords: vbawd10.chm159186954
 f1_keywords:
 - vbawd10.chm159186954
@@ -8,10 +8,11 @@ api_name:
 - Word.Index.IndexLanguage
 ms.assetid: 1fcc2332-eba2-ee2d-67ea-f256254d3c2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Index.IndexLanguage Property (Word)
+# Index.IndexLanguage property (Word)
 
 Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the sorting language to use for the specified index. Read/write .
 
@@ -20,7 +21,7 @@ Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that repres
 
  _expression_**IndexLanguage**
 
- _expression_ Required. An expression that returns an '[Index](Word.Index.md)' object.
+_expression_ Required. An expression that returns an '[Index](Word.Index.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.Indexes(1).IndexLanguage = _
 
 [Index Object](Word.Index.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

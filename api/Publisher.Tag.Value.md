@@ -1,5 +1,5 @@
 ---
-title: Tag.Value Property (Publisher)
+title: Tag.Value property (Publisher)
 keywords: vbapb10.chm4718596
 f1_keywords:
 - vbapb10.chm4718596
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Tag.Value
 ms.assetid: dee3b69b-ae5b-df13-561e-84105057979a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tag.Value Property (Publisher)
+# Tag.Value property (Publisher)
 
 Returns or sets a  **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **Value**
+_expression_.**Value**
 
  _expression_ A variable that represents a  **Tag** object.
 
@@ -37,4 +38,4 @@ Sub CreatePublicationTag()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

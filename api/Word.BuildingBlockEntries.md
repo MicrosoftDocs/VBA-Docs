@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockEntries Object (Word)
+title: BuildingBlockEntries object (Word)
 keywords: vbawd10.chm553
 f1_keywords:
 - vbawd10.chm553
@@ -8,10 +8,11 @@ api_name:
 - Word.BuildingBlockEntries
 ms.assetid: 9c5946e9-947d-7284-ab16-b570bf7f0ff3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlockEntries Object (Word)
+# BuildingBlockEntries object (Word)
 
 Represents a collection of all  **[BuildingBlock](Word.BuildingBlock.md)** objects in a template.
 
@@ -46,7 +47,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.BuildingBlockEntries.Add.md)|
 |[Item](Word.BuildingBlockEntries.Item.md)|
@@ -55,7 +56,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.BuildingBlockEntries.Application.md)|
 |[Count](Word.BuildingBlockEntries.Count.md)|
@@ -65,4 +66,6 @@ For more information about building blocks, see [Working with Building Blocks](.
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

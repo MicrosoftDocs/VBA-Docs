@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.Selected Property (Publisher)
+title: WebCheckBox.Selected property (Publisher)
 keywords: vbapb10.chm4325380
 f1_keywords:
 - vbapb10.chm4325380
@@ -8,24 +8,25 @@ api_name:
 - Publisher.WebCheckBox.Selected
 ms.assetid: ad34871d-474d-70ad-6245-ee5a017839c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCheckBox.Selected Property (Publisher)
+# WebCheckBox.Selected property (Publisher)
 
 Specifies whether a Web check box or option button is selected. Read/write.
 
 
 ## Syntax
 
- _expression_. **Selected**
+_expression_.**Selected**
 
  _expression_ A variable that represents a  **WebCheckBox** object.
 
 
 ## Remarks
 
-The  **Selected** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **Selected** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -43,4 +44,4 @@ Sub AddNewWebCheckBox()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

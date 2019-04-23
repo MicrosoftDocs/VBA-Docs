@@ -1,5 +1,5 @@
 ---
-title: AccelTable Object (Visio)
+title: AccelTable object (Visio)
 keywords: vis_sdr.chm10020
 f1_keywords:
 - vis_sdr.chm10020
@@ -8,10 +8,11 @@ api_name:
 - Visio.AccelTable
 ms.assetid: 44957aab-54aa-29b5-886f-374931824909
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelTable Object (Visio)
+# AccelTable object (Visio)
 
 Represents a Microsoft Windows accelerator table.
 
@@ -20,4 +21,4 @@ Represents a Microsoft Windows accelerator table.
 
 You can create one  **AccelTable** object for each Microsoft Visio window context (drawing window, stencil window, ShapeSheet window, and so on).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

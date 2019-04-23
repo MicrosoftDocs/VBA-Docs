@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Add Method (Word)
+title: ContentControlListEntries.Add method (Word)
 keywords: vbawd10.chm230948970
 f1_keywords:
 - vbawd10.chm230948970
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControlListEntries.Add
 ms.assetid: 159747c0-279c-f0ee-62d9-f2f01865c083
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControlListEntries.Add Method (Word)
+# ContentControlListEntries.Add method (Word)
 
 Adds a new list item to a drop-down list or combo box content control and returns a  **[ContentControlListEntry](Word.ContentControlListEntry.md)** object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Text_` , `_Value_` , `_Index_` )
+_expression_.**Add**( `_Text_` , `_Value_` , `_Index_` )
 
  _expression_ An expression that returns a [ContentControlListEntries](./Word.ContentControlListEntries.md) object.
 
@@ -70,3 +71,4 @@ objCC.DropdownListEntries.Add "Other"
 
 [ContentControlListEntries Collection](Word.ContentControlListEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

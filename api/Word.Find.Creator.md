@@ -1,5 +1,5 @@
 ---
-title: Find.Creator Property (Word)
+title: Find.Creator property (Word)
 keywords: vbawd10.chm162530281
 f1_keywords:
 - vbawd10.chm162530281
@@ -8,19 +8,20 @@ api_name:
 - Word.Find.Creator
 ms.assetid: e57d8133-a26e-2628-fe78-280a38f4ef7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.Creator Property (Word)
+# Find.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
+_expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

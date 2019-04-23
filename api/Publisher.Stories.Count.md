@@ -1,5 +1,5 @@
 ---
-title: Stories.Count Property (Publisher)
+title: Stories.Count property (Publisher)
 keywords: vbapb10.chm5701635
 f1_keywords:
 - vbapb10.chm5701635
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Stories.Count
 ms.assetid: 3380c5fc-cfd7-98d6-9c19-4a2fe9877166
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Stories.Count Property (Publisher)
+# Stories.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **Stories** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

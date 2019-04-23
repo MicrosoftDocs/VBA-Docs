@@ -1,27 +1,29 @@
 ---
-title: The Additional Controls dialog box (Microsoft Forms)
+title: Additional Controls dialog box (Microsoft Forms)
 keywords: fm20.chm2010030
 f1_keywords:
 - fm20.chm2010030
 ms.prod: office
 ms.assetid: e674802f-88ad-9406-3a06-485d023585d1
-ms.date: 06/08/2017
+ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 
-# The Additional Controls dialog box (Microsoft Forms)
+# Additional Controls dialog box (Microsoft Forms)
 
-
-
-
-1. In the  **Available Controls** list, select the control or controls you want to add to the Toolbox.
+1. In the **Available Controls** list, select the control or controls that you want to add to the Toolbox.
     
-2. Click OK.
+2. Click **OK**.
     
 
+> [!TIP] 
+> You can filter the **Available Controls** list by selecting options in the **Show** group.
 
+## See also
 
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
 
- **Tip**  You can filter the  **Available Controls** list by selecting options in the **Show** group.
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

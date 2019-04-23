@@ -1,5 +1,5 @@
 ---
-title: Workbook.FollowHyperlink Method (Excel)
+title: Workbook.FollowHyperlink method (Excel)
 keywords: vbaxl10.chm199182
 f1_keywords:
 - vbaxl10.chm199182
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.FollowHyperlink
 ms.assetid: d070ecc9-fbb6-c146-f250-5c99b09063ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.FollowHyperlink Method (Excel)
+# Workbook.FollowHyperlink method (Excel)
 
-Displays a cached document, if it?s already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
+Displays a cached document, if it's already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
+_expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -31,11 +32,11 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 |:-----|:-----|:-----|:-----|
 | _Address_|Required| **String**|The address of the target document.|
 | _SubAddress_|Optional| **Variant**|The location within the target document. The default value is the empty string.|
-| _NewWindow_|Optional| **Variant**| **True** to display the target application in a new window. The default value is **False** .|
+| _NewWindow_|Optional| **Variant**| **True** to display the target application in a new window. The default value is **False**.|
 | _AddHistory_|Optional| **Variant**|Not used. Reserved for future use.|
 | _ExtraInfo_|Optional| **Variant**|A  **String** or byte array that specifies additional information for HTTP to use to resolve the hyperlink. For example, you can use _ExtraInfo_ to specify the coordinates of an image map, the contents of a form, or a FAT file name.|
-| _Method_|Optional| **Variant**| Specifies the way _ExtraInfo_ is attached. Can be one of the **[MsoExtraInfoMethod](./Office.MsoExtraInfoMethod.md)** constants.|
-| _HeaderInfo_|Optional| **Variant**|A  **String** that specifies header information for the HTTP request. The defaut value is an empty string.|
+| _Method_|Optional| **Variant**| Specifies the way _ExtraInfo_ is attached. Can be one of the **[MsoExtraInfoMethod](Office.MsoExtraInfoMethod.md)** constants.|
+| _HeaderInfo_|Optional| **Variant**|A  **String** that specifies header information for the HTTP request. The default value is an empty string.|
 
 ## Remarks
 
@@ -44,8 +45,8 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 
 
 | **MsoExtraInfoMethod** type can be one of these **MsoExtraInfoMethod** constants.|
-| **msoMethodGet** . _ExtraInfo_ is a **String** that?s appended to the address.|
-| **msoMethodPost** . _ExtraInfo_ is posted as a **String** or byte array.|
+| **msoMethodGet**. _ExtraInfo_ is a **String** that's appended to the address.|
+| **msoMethodPost**. _ExtraInfo_ is posted as a **String** or byte array.|
 
 ## Example
 
@@ -62,3 +63,4 @@ ActiveWorkbook.FollowHyperlink Address:="https://example.microsoft.com"
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

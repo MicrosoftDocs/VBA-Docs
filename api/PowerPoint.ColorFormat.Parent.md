@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Parent Property (PowerPoint)
+title: ColorFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm506001
 f1_keywords:
 - vbapp10.chm506001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorFormat.Parent
 ms.assetid: aa54269d-ee71-0a4e-7063-8631577d6e76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.Parent Property (PowerPoint)
+# ColorFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
+_expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: bd52ec1f-58e7-59ef-3029-f197c3aa5b10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The expression you are trying to use for the  **DefaultValue** property is inval
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AfterEffect Property (PowerPoint)
+title: AnimationSettings.AfterEffect property (PowerPoint)
 keywords: vbapp10.chm565006
 f1_keywords:
 - vbapp10.chm565006
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationSettings.AfterEffect
 ms.assetid: d8ccab29-8637-a48d-0f44-81a7fd1cca0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationSettings.AfterEffect Property (PowerPoint)
+# AnimationSettings.AfterEffect property (PowerPoint)
 
 Returns or sets a  **PpAfterEffect** constant that indicates whether the specified shape appears dimmed, hidden, or unchanged after it is built. Read/write.
 
 
 ## Syntax
 
- _expression_. `AfterEffect`
+_expression_. `AfterEffect`
 
- _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
+_expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ End With
 
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

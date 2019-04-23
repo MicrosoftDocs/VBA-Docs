@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (PowerPoint)
+title: Shape.Apply method (PowerPoint)
 keywords: vbapp10.chm547002
 f1_keywords:
 - vbapp10.chm547002
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.Shape.Apply
 ms.assetid: 699a945f-656a-170a-e784-07b3004a858f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Apply Method (PowerPoint)
+# Shape.Apply method (PowerPoint)
 
 Applies to the specified shape formatting that's been copied by using the  **PickUp** method.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Example
 
-This example copies the formatting of shape one on  `myDocument`, and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on  _myDocument_, and then applies the copied formatting to shape two.
 
 
 ```vb
@@ -46,3 +47,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

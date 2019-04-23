@@ -1,5 +1,5 @@
 ---
-title: Databar.SetFirstPriority Method (Excel)
+title: Databar.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm810084
 f1_keywords:
 - vbaxl10.chm810084
@@ -8,19 +8,20 @@ api_name:
 - Excel.Databar.SetFirstPriority
 ms.assetid: 73ec6aa8-dc0d-7f80-0975-fdf75bd9a0a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Databar.SetFirstPriority Method (Excel)
+# Databar.SetFirstPriority method (Excel)
 
 Sets the priority value for this conditional formatting rule to "1" so that it will be evaluated before all other rules on the worksheet.
 
 
 ## Syntax
 
- _expression_. `SetFirstPriority`
+_expression_.**SetFirstPriority**
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ When you have multiple conditional formatting rules in a worksheet, if the rule 
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

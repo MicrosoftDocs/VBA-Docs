@@ -3,7 +3,8 @@ title: Signature members (Office)
 description: Represents a digital signature attached to a document. Signature objects are contained in the SignatureSet collection of the Document object.
 ms.prod: office
 ms.assetid: 1054db23-fe1c-f81f-e44b-d8c2c82ca7fa
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -14,7 +15,7 @@ Represents a digital signature attached to a document. **Signature** objects are
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.Signature.Delete.md)|Deletes the **Signature** object from the collection.|
 |[ShowDetails](../../Office.Signature.ShowDetails.md)|Displays details related to a signature packet.|
@@ -22,7 +23,7 @@ Represents a digital signature attached to a document. **Signature** objects are
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Signature.Application.md)|Gets an **Application** object that represents the container application for the **Signature** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CanSetup](../../Office.Signature.CanSetup.md)|Gets a **Boolean** value indicating whether the user can set properties of the **Signature** object. Read-only.|
@@ -35,3 +36,4 @@ Represents a digital signature attached to a document. **Signature** objects are
 |[SignatureLineShape](../../Office.Signature.SignatureLineShape.md)|Gets the **Shape** object associated with a **Signature** object that is a signature line. Read-only.|
 |[SortHint](../../Office.Signature.SortHint.md)|Gets a value representing the sort order of the signatures in a packet with multiple signatures. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

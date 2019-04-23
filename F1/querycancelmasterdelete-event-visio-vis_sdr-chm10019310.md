@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 97d7790b-05ef-4edb-9bf6-4e9550423871
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.QueryCancelMasterDelete Event (Visio)](http://msdn.microsoft.com/library/8277a799-c86f-ddd4-7c0a-da0762418217%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

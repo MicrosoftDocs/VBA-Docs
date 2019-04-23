@@ -1,5 +1,5 @@
 ---
-title: VisRasterExportDataFormat Enumeration (Visio)
+title: VisRasterExportDataFormat enumeration (Visio)
 keywords: vis_sdr.chm70720
 f1_keywords:
 - vis_sdr.chm70720
@@ -8,10 +8,11 @@ api_name:
 - Visio.VisRasterExportDataFormat
 ms.assetid: b9eefce9-5a2a-52a6-fa7f-f3972381326e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisRasterExportDataFormat Enumeration (Visio)
+# VisRasterExportDataFormat enumeration (Visio)
 
 
 
@@ -23,3 +24,4 @@ Specifies constants that identify which raster export data format algorithm to u
 | **visRasterInterlace**|0|Interlace format; the default.|
 | **visRasterNonInterlace**|1|Non-interlace format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

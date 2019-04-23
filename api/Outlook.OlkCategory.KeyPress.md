@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.KeyPress Event (Outlook)
+title: OlkCategory.KeyPress event (Outlook)
 keywords: vbaol11.chm1000457
 f1_keywords:
 - vbaol11.chm1000457
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCategory.KeyPress
 ms.assetid: 15a26c77-d82f-f734-f294-54d38a657af3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCategory.KeyPress Event (Outlook)
+# OlkCategory.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 
 
 ## Syntax
 
- _expression_. `KeyPress`( `_KeyAscii_` )
+_expression_. `KeyPress`( `_KeyAscii_` )
 
- _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ A  **KeyPress** event does not occur under the following conditions:
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: ListBox.BorderStyle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8b5996d0-4e03-f6e5-4418-0a28f4ac390d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the type of border of the control
 
 ## Syntax
 
- _expression_. **BorderStyle**
+_expression_.**BorderStyle**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ You can use either  **BorderStyle** or **[SpecialEffect](Outlook.listbox.special
 
  **BorderStyle** uses **[BorderColor](Outlook.listbox.bordercolor.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

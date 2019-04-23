@@ -1,5 +1,5 @@
 ---
-title: Slicers.Add Method (Excel)
+title: Slicers.Add method (Excel)
 keywords: vbaxl10.chm903077
 f1_keywords:
 - vbaxl10.chm903077
@@ -8,19 +8,20 @@ api_name:
 - Excel.Slicers.Add
 ms.assetid: f2632dee-e8fb-440c-cad8-2dd2f7e37739
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slicers.Add Method (Excel)
+# Slicers.Add method (Excel)
 
 Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_SlicerDestination_` , `_Level_` , `_Name_` , `_Caption_` , `_Top_` , `_Left_` , `_Width_` , `_Height_` )
+_expression_.**Add**( `_SlicerDestination_` , `_Level_` , `_Name_` , `_Caption_` , `_Top_` , `_Left_` , `_Width_` , `_Height_` )
 
- _expression_ A variable that represents a [Slicers](./Excel.Slicers.md) object.
+_expression_ A variable that represents a [Slicers](Excel.Slicers.md) object.
 
 
 ## Parameters
@@ -33,10 +34,10 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 | _Level_|Optional| **Variant**|For OLAP data sources, the ordinal or the Multidimensional Expression (MDX) name of the level on which the slicer creation is based. Not supported for non-OLAP data sources. |
 | _Name_|Optional| **Variant**|The name of the slicer. Excel automatically generates a name if one is not specified. The name must be unique across all slicers within a workbook.|
 | _Caption_|Optional| **Variant**|The caption of the slicer.|
-| _Top_|Optional| **Variant**|The initial vertical position of the slicer, in points, relative to the upper-left corner of cell A1 on a worksheet.|
-| _Left_|Optional| **Variant**|The initial horizontal position of the slicer, in points, relative to the upper-left corner of cell A1 on a worksheet.|
-| _Width_|Optional| **Variant**|The initial width, in points, of the slicer control.|
-| _Height_|Optional| **Variant**|The initial height, in points, of the slicer control.|
+| _Top_|Optional| **Variant**|The initial vertical position of the slicer, in [points](../language/glossary/vbe-glossary.md#point), relative to the upper-left corner of cell A1 on a worksheet.|
+| _Left_|Optional| **Variant**|The initial horizontal position of the slicer, in [points](../language/glossary/vbe-glossary.md#point), relative to the upper-left corner of cell A1 on a worksheet.|
+| _Width_|Optional| **Variant**|The initial width, in [points](../language/glossary/vbe-glossary.md#point), of the slicer control.|
+| _Height_|Optional| **Variant**|The initial height, in [points](../language/glossary/vbe-glossary.md#point), of the slicer control.|
 
 ## Return value
 
@@ -63,3 +64,4 @@ End Sub
 
 [Slicers Object](Excel.Slicers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

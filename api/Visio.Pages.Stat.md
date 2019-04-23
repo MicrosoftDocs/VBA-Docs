@@ -1,5 +1,5 @@
 ---
-title: Pages.Stat Property (Visio)
+title: Pages.Stat property (Visio)
 keywords: vis_sdr.chm11014420
 f1_keywords:
 - vis_sdr.chm11014420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Pages.Stat
 ms.assetid: 429cc898-4daf-e269-4e10-ac808f429d62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.Stat Property (Visio)
+# Pages.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

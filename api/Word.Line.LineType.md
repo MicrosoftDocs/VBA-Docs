@@ -1,5 +1,5 @@
 ---
-title: Line.LineType Property (Word)
+title: Line.LineType property (Word)
 keywords: vbawd10.chm49610754
 f1_keywords:
 - vbawd10.chm49610754
@@ -8,19 +8,20 @@ api_name:
 - Word.Line.LineType
 ms.assetid: 06f821b6-c296-8355-b20d-c8f003a29ead
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Line.LineType Property (Word)
+# Line.LineType property (Word)
 
 Returns a  **wdLineType** constant that indicates whether a line is a text line or a table row.
 
 
 ## Syntax
 
- _expression_. `LineType`
+_expression_. `LineType`
 
- _expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
+_expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
 
 
 ## Example
@@ -45,3 +46,4 @@ If objLine.LineType = wdTableRow Then _
 
 [Line Object](Word.Line.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

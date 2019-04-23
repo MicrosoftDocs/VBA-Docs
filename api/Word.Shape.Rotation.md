@@ -1,5 +1,5 @@
 ---
-title: Shape.Rotation Property (Word)
+title: Shape.Rotation property (Word)
 keywords: vbawd10.chm161480821
 f1_keywords:
 - vbawd10.chm161480821
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.Rotation
 ms.assetid: 7a66bdd7-ffda-64f2-8228-c1bce6d0640b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Rotation Property (Word)
+# Shape.Rotation property (Word)
 
-Returns or sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write  **Single** .
+Returns or sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Rotation`
+_expression_.**Rotation**
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -49,3 +50,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

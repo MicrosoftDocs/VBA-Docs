@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.FlattenHierarchies
 ms.assetid: bb97acc3-199b-6c40-e5b5-d411eb40b7e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether items from all levels of hierarchies in a named set cube
 
 ## Syntax
 
- _expression_. `FlattenHierarchies`
+_expression_. `FlattenHierarchies`
 
- _expression_ A variable that represents a '[CubeField](Excel.CubeField.md)' object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Return value
@@ -30,11 +31,11 @@ Returns or sets whether items from all levels of hierarchies in a named set cube
 
 ## Remarks
 
- **True** if all hierarchies of the specified named set are displayed in the same field; otherwise **False** .
+ **True** if all hierarchies of the specified named set are displayed in the same field; otherwise **False**.
 
 The value of this property corresponds to the setting of the  **Display items from different levels in separate fields** check box on the **Layout & Print** tab of the **Field Settings** dialog box for a named set in a PivotTable report that is based on an OLAP cube.
 
-This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet** .
+This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet**.
 
 
 ## Example
@@ -53,3 +54,4 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&L]"). _
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

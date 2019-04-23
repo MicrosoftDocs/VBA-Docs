@@ -1,5 +1,5 @@
 ---
-title: Story.Table Property (Publisher)
+title: Story.Table property (Publisher)
 keywords: vbapb10.chm5832710
 f1_keywords:
 - vbapb10.chm5832710
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Story.Table
 ms.assetid: e9da80d3-ea3c-b47c-d434-498c72955c14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Story.Table Property (Publisher)
+# Story.Table property (Publisher)
 
 Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **Table**
+_expression_.**Table**
 
  _expression_ A variable that represents a  **Story** object.
 
@@ -54,4 +55,4 @@ Sub SelectTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

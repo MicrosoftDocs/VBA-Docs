@@ -1,5 +1,5 @@
 ---
-title: Style.Type Property (Word)
+title: Style.Type property (Word)
 keywords: vbawd10.chm153878531
 f1_keywords:
 - vbawd10.chm153878531
@@ -8,19 +8,20 @@ api_name:
 - Word.Style.Type
 ms.assetid: 2f065484-a7ec-0833-340f-93cbe954e4ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.Type Property (Word)
+# Style.Type property (Word)
 
-Returns the style type. Read-only  **[WdStyleType](Word.WdStyleType.md)** .
+Returns the style type. Read-only  **[WdStyleType](Word.WdStyleType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End If
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

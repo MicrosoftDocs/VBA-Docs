@@ -1,14 +1,15 @@
 ---
-title: xlPivotCellType enumeration (Excel)
+title: XlPivotCellType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotCellType
 ms.assetid: 388b92b8-4ca2-47c2-3cdb-662efbd6d63d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPivotCellType enumeration (Excel)
+# XlPivotCellType enumeration (Excel)
 
 Specifies the  **PivotTable** entity to which the cell corresponds.
 
@@ -27,3 +28,4 @@ Specifies the  **PivotTable** entity to which the cell corresponds.
 | **xlPivotCellSubtotal**|2|A cell in the row or column area that is a subtotal.|
 | **xlPivotCellValue**|0|Any cell in the data area (except a blank row).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

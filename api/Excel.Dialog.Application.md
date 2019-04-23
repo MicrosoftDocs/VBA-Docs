@@ -8,6 +8,7 @@ api_name:
 - Excel.Dialog.Application
 ms.assetid: 34ebf57a-4d40-319e-817d-9727ae10b3a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Dialog](Excel.Dialog.md) object.
+_expression_ A variable that represents a [Dialog](Excel.Dialog.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Dialog Object](Excel.Dialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

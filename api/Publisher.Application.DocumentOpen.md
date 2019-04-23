@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentOpen Event (Publisher)
+title: Application.DocumentOpen event (Publisher)
 keywords: vbapb10.chm268435463
 f1_keywords:
 - vbapb10.chm268435463
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.DocumentOpen
 ms.assetid: 3bdd4b38-ec40-a08f-3742-f81a6ed333b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocumentOpen Event (Publisher)
+# Application.DocumentOpen event (Publisher)
 
 Occurs when opening a document.
 
 
 ## Syntax
 
- _expression_. **DocumentOpen**(**_Doc_**)
+_expression_.**DocumentOpen**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -48,3 +49,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

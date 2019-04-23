@@ -1,5 +1,5 @@
 ---
-title: Row.ObjectType Property (Visio)
+title: Row.ObjectType property (Visio)
 keywords: vis_sdr.chm15813960
 f1_keywords:
 - vis_sdr.chm15813960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Row.ObjectType
 ms.assetid: 03feef55-8326-5412-631b-4a084b557501
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.ObjectType Property (Visio)
+# Row.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

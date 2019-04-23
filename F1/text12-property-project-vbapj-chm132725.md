@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 62762c35-c16b-4275-8934-dbabd2bb1e74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Text12 Property (Project)](http://msdn.microsoft.com/library/93ef9135-d0c5-6961-899d-606c7ec73bc3%28Office.15%29.aspx)
 [Project.UpdateProjOnSave Property (Project)](http://msdn.microsoft.com/library/c799b1e6-ea33-0261-88d6-de502197ac4c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

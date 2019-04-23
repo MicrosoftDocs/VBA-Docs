@@ -1,22 +1,23 @@
 ---
-title: Chart.Legend Property (Project)
+title: Chart.Legend property (Project)
 keywords: vbapj.chm131629
 f1_keywords:
 - vbapj.chm131629
 ms.prod: project-server
 ms.assetid: 38c3332c-6087-4f7b-5c02-31cba5c6933f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.Legend Property (Project)
+# Chart.Legend property (Project)
 Gets an  **Office.IMsoLegend** object that represents the legend for a chart. Read-only **IMsoLegend**.
 
 ## Syntax
 
- _expression_. `Legend`
+_expression_.**Legend**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Example
@@ -49,3 +50,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

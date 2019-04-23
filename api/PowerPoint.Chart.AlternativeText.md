@@ -1,5 +1,5 @@
 ---
-title: Chart.AlternativeText Property (PowerPoint)
+title: Chart.AlternativeText property (PowerPoint)
 keywords: vbapp10.chm684054
 f1_keywords:
 - vbapp10.chm684054
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.AlternativeText
 ms.assetid: bdded8b9-5f6e-dd83-db04-0ce180bd2552
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.AlternativeText Property (PowerPoint)
+# Chart.AlternativeText property (PowerPoint)
 
 Returns or sets the alternative text associated with a shape in a Web presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
- _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ ActiveWindow.Selection.ShapeRange.AlternativeText = "This is a mallard duck."
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

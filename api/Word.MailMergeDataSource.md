@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource Object (Word)
+title: MailMergeDataSource object (Word)
 keywords: vbawd10.chm2333
 f1_keywords:
 - vbawd10.chm2333
@@ -8,10 +8,11 @@ api_name:
 - Word.MailMergeDataSource
 ms.assetid: f86f7d3c-d7ab-45e8-21e7-fd5a426e0391
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource Object (Word)
+# MailMergeDataSource object (Word)
 
 Represents the mail merge data source in a mail merge operation.
 
@@ -57,7 +58,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Word.MailMergeDataSource.Close.md)|
 |[FindRecord](Word.MailMergeDataSource.FindRecord.md)|
@@ -68,7 +69,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveRecord](Word.MailMergeDataSource.ActiveRecord.md)|
 |[Application](Word.MailMergeDataSource.Application.md)|
@@ -94,4 +95,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Global.Creator Property (Word)
+title: Global.Creator property (Word)
 keywords: vbawd10.chm163120105
 f1_keywords:
 - vbawd10.chm163120105
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.Creator
 ms.assetid: dc5a4706-1610-e186-6139-4018fdee654f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.Creator Property (Word)
+# Global.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

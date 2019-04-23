@@ -5,6 +5,7 @@ api_name:
 - Visio.OnViewChanged
 ms.assetid: 4d402263-91e1-434c-5f0d-ae7febdc72ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnViewChanged**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+_expression_.**OnViewChanged**(**_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -37,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower left corner of the page; and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
+The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower-left corner of the page; and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
 
 You can get the current page view in Visio Viewer by using the  **[GetPageView](Visio.GetPageView.md)** method, and you can set the page view programmatically by using the **[SetPageView](Visio.SetPageView.md)** method.
 
@@ -71,4 +72,4 @@ Private Sub vsoViewer_OnViewChanged(ByVal PageXAtViewCenter As Double, ByVal Pag
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

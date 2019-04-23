@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.DefaultValue
 ms.assetid: 503de2f7-878e-a946-9138-10922082bc0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.DefaultValue property (Excel)
 
- Returns **Variant** representing the default data type value for a new row in a column. The **Nothing** object is returned when the schema does not specify a default value. Read-only **Variant** .
+ Returns **Variant** representing the default data type value for a new row in a column. The **Nothing** object is returned when the schema does not specify a default value. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `DefaultValue`
+_expression_.**DefaultValue**
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ End Sub
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Shapes Property (PowerPoint)
+title: SlideRange.Shapes property (PowerPoint)
 keywords: vbapp10.chm532003
 f1_keywords:
 - vbapp10.chm532003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.Shapes
 ms.assetid: 8d2242a9-6988-134c-0507-8043f5445ec9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.Shapes Property (PowerPoint)
+# SlideRange.Shapes property (PowerPoint)
 
 Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -98,3 +99,4 @@ testShape.TextFrame.TextRange.Text = "First Item" & _
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

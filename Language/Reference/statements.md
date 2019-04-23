@@ -3,6 +3,7 @@ title: Statements
 ms.prod: office
 ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
 ms.date: 09/17/2018
+localization_priority: Normal
 ---
 
 
@@ -86,4 +87,9 @@ ms.date: 09/17/2018
 - [Write #](User-Interface-Help/writestatement.md)
 
     
+## See also
 
+- [Keywords (Visual Basic for Applications)](keywords-visual-basic-for-applications.md)
+- [Visual Basic language reference](User-Interface-Help/visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

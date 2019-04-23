@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (PowerPoint)
+title: Shape.Select method (PowerPoint)
 keywords: vbapp10.chm547052
 f1_keywords:
 - vbapp10.chm547052
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Select
 ms.assetid: 9fcf0ba4-ee6e-ecca-7948-7542db03ee99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Select Method (PowerPoint)
+# Shape.Select method (PowerPoint)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_.**Select** (_Replace_)
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -39,7 +40,7 @@ The  _Replace_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The selection is added to the previous selection.|
 |**msoTrue**|The default. The selection replaces any previous selection.|
@@ -59,3 +60,4 @@ ActivePresentation.Slides(1).Shapes(1).Select
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

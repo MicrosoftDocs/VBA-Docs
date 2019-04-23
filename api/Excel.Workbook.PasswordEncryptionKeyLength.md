@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.PasswordEncryptionKeyLength
 ms.assetid: 2662f2f5-1ad0-4a75-82c0-3268f147948a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** indicating the key length of the algorithm Microsoft Excel u
 
 ## Syntax
 
- _expression_. `PasswordEncryptionKeyLength`
+_expression_. `PasswordEncryptionKeyLength`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

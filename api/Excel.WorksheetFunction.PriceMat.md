@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PriceMat Method (Excel)
+title: WorksheetFunction.PriceMat method (Excel)
 keywords: vbaxl10.chm137308
 f1_keywords:
 - vbaxl10.chm137308
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.PriceMat
 ms.assetid: ecef19b5-eff5-7f26-02c8-fc25fd7f5949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.PriceMat Method (Excel)
+# WorksheetFunction.PriceMat method (Excel)
 
 Returns the price per $100 face value of a security that pays interest at maturity.
 
 
 ## Syntax
 
- _expression_. `PriceMat`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `PriceMat`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -80,3 +81,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

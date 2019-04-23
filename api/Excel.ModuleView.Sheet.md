@@ -8,6 +8,7 @@ api_name:
 - Excel.ModuleView.Sheet
 ms.assetid: 69b58d96-2f32-7fb4-eff7-889de6c72fcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ This object or member has been deprecated, but it remains part of the object mod
 
 [ModuleView Object](Excel.ModuleView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

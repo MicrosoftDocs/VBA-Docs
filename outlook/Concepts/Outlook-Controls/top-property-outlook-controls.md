@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 7ffde629-5368-4665-bdfc-366750db85e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ The  **[Height](height-property-outlook-controls.md)** and **[Width](width-prope
 
 If you move a control from one part of a form to another, the setting of  **Height** or **Width** only changes if you size the control as you move it. The settings of the control's **Left** and **Top** properties will change to reflect the control's new position relative to the edges of the form that contains it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

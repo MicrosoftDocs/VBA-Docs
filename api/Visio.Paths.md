@@ -1,5 +1,5 @@
 ---
-title: Paths Object (Visio)
+title: Paths object (Visio)
 keywords: vis_sdr.chm10205
 f1_keywords:
 - vis_sdr.chm10205
@@ -8,10 +8,11 @@ api_name:
 - Visio.Paths
 ms.assetid: 9adcc130-555e-7eee-d9a0-66ee7116e41f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paths Object (Visio)
+# Paths object (Visio)
 
 Includes a  **Path** object for each Geometry section for a group or shape.
 
@@ -20,7 +21,7 @@ Includes a  **Path** object for each Geometry section for a group or shape.
 
 To retrieve a  **Paths** collection expressed in the shape's parent coordinate system, use the **Paths** property of the shape. The coordinates are expressed in internal drawing units (inches).
 
-The default property of a  **Paths** collection is **Item** .
+The default property of a  **Paths** collection is **Item**.
 
 To retrieve a  **Paths** collection expressed in the shape's local coordinate system, use the **PathsLocal** property of the shape. The coordinates are expressed in internal drawing units (inches).
 
@@ -30,4 +31,4 @@ If a  **Shape** object is a group, its **Paths** and **PathsLocal** properties a
 
 If a  **Shape** object is a shape, its **Paths** and **PathsLocal** properties include one item for each Geometry section that defines a stroke of positive length.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

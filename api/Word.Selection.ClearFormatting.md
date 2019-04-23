@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearFormatting Method (Word)
+title: Selection.ClearFormatting method (Word)
 keywords: vbawd10.chm158663665
 f1_keywords:
 - vbawd10.chm158663665
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.ClearFormatting
 ms.assetid: 66c2f088-5d35-f8b0-10e5-2faa0db14d7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ClearFormatting Method (Word)
+# Selection.ClearFormatting method (Word)
 
 Removes text and paragraph formatting from a selection.
 
 
 ## Syntax
 
- _expression_. `ClearFormatting`
+_expression_.**ClearFormatting**
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example
@@ -54,3 +55,4 @@ End Sub
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

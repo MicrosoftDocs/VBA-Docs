@@ -1,5 +1,5 @@
 ---
-title: Axes.Creator Property (Word)
+title: Axes.Creator property (Word)
 keywords: vbawd10.chm93388949
 f1_keywords:
 - vbawd10.chm93388949
@@ -8,17 +8,18 @@ api_name:
 - Word.Axes.Creator
 ms.assetid: 09557e5f-fd81-c7f4-a2a3-b842ef05a5d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axes.Creator Property (Word)
+# Axes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents an '[Axes](Word.Axes.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Axes Object](Word.Axes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

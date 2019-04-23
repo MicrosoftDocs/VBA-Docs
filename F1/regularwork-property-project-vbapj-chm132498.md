@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 51173a57-5a64-4e47-8304-23b272268578
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.PercentWorkComplete Property (Project)](http://msdn.microsoft.com/library/9535e887-e15c-ebd7-c65f-a3e8d80b8f99%28Office.15%29.aspx)
 [Task.PercentWorkComplete Property (Project)](http://msdn.microsoft.com/library/f1b1dc5e-843c-ca0f-72f1-f8d7cdf6edab%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

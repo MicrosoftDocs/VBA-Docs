@@ -8,19 +8,20 @@ api_name:
 - Excel.Series.ApplyPictToSides
 ms.assetid: 300e9c75-4108-32bc-01ab-c622843e6fbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Series.ApplyPictToSides property (Excel)
 
- **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean** .
+ **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyPictToSides`
+_expression_. `ApplyPictToSides`
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Charts(1).SeriesCollection(1).ApplyPictToSides = True
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

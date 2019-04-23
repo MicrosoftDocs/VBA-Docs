@@ -1,5 +1,5 @@
 ---
-title: Selection.TableCellRange Property (Publisher)
+title: Selection.TableCellRange property (Publisher)
 keywords: vbapb10.chm851975
 f1_keywords:
 - vbapb10.chm851975
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Selection.TableCellRange
 ms.assetid: d683e830-6bcd-4b53-844b-605fab184a4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.TableCellRange Property (Publisher)
+# Selection.TableCellRange property (Publisher)
 
 Returns a  **CellRange** object that represents the cells in a table selection.
 
 
 ## Syntax
 
- _expression_. **TableCellRange**
+_expression_.**TableCellRange**
 
  _expression_ A variable that represents a  **Selection** object.
 
@@ -49,4 +50,4 @@ Sub FillTableCellRange()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

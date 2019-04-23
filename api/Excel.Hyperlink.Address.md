@@ -8,6 +8,7 @@ api_name:
 - Excel.Hyperlink.Address
 ms.assetid: d1f2bc15-cd85-dc0b-7134-61b5aa2a9a87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the address of the target do
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value that represents the address of the target do
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

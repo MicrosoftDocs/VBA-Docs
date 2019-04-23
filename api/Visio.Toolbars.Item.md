@@ -1,5 +1,5 @@
 ---
-title: Toolbars.Item Property (Visio)
+title: Toolbars.Item property (Visio)
 keywords: vis_sdr.chm13813765
 f1_keywords:
 - vis_sdr.chm13813765
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbars.Item
 ms.assetid: 0f56cab6-edcd-a153-f8a7-e6c3292cdfbb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbars.Item Property (Visio)
+# Toolbars.Item property (Visio)
 
 Returns an object from a collection. The  **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_lIndex_` )
+_expression_. `Item`( `_lIndex_` )
 
  _expression_ A variable that represents a [Toolbars](./Visio.Toolbars.md) collection.
 
@@ -48,4 +49,4 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 objRet = object(index )
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

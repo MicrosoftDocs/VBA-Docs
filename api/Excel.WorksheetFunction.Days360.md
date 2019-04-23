@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Days360 Method (Excel)
+title: WorksheetFunction.Days360 method (Excel)
 keywords: vbaxl10.chm137160
 f1_keywords:
 - vbaxl10.chm137160
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Days360
 ms.assetid: cc8b607d-348f-0fa7-70e4-3ddb9b83f6b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Days360 Method (Excel)
+# WorksheetFunction.Days360 method (Excel)
 
 Returns the number of days between two dates based on a 360-day year (twelve 30-day months), which is used in some accounting calculations.
 
 
 ## Syntax
 
- _expression_. `Days360`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Days360`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Microsoft Excel stores dates as sequential serial numbers so they can be used in
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

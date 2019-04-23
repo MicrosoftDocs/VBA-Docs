@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: cb521323-61f9-72c9-4982-74b6889c4dd8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -25,3 +26,5 @@ The ODBC connection to the specified ODBC database or table could not be made. I
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

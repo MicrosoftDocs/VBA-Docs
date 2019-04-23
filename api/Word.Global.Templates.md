@@ -1,5 +1,5 @@
 ---
-title: Global.Templates Property (Word)
+title: Global.Templates property (Word)
 keywords: vbawd10.chm163119171
 f1_keywords:
 - vbawd10.chm163119171
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.Templates
 ms.assetid: 4aa67807-023a-2b52-4773-114d86e340e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.Templates Property (Word)
+# Global.Templates property (Word)
 
 Returns a  **Templates** collection that represents all the available templates—global templates and those attached to open documents.
 
 
 ## Syntax
 
- _expression_. `Templates`
+_expression_. `Templates`
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End If
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

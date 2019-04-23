@@ -3,6 +3,7 @@ title: ListBox Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 109f9d33-4279-4127-b8ea-98a19513e9fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -66,5 +67,5 @@ ms.date: 06/08/2017
 -  [ListBox.TopIndex Property (Outlook Forms Script)](Outlook.ListBox.topindex.md)
     
 -  [ListBox.Value Property (Outlook Forms Script)](Outlook.ListBox.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

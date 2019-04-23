@@ -8,14 +8,15 @@ api_name:
 - Access.AcPrintPaperBin
 ms.assetid: b1543cc0-bc70-49cb-ceac-76f4368d6445
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcPrintPaperBin enumeration (Access)
 
-Used with the  **PaperBin** property to indicate which paper bin the specified printer should use.
+Used with the **PaperBin** property to indicate which paper bin the specified printer should use.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -33,3 +34,4 @@ Used with the  **PaperBin** property to indicate which paper bin the specified p
 |**acPRBNTractor**|8|Use paper from the tractor feeder. |
 |**acPRBNUpper**|1|Use paper from the upper bin. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

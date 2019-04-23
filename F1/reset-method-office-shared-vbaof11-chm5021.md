@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a95b434a-ebef-4a55-8bcd-858b25972cef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarControl.Reset Method (Office)](http://msdn.microsoft.com/library/7b2d42c4-ac1c-209e-6fe8-bd5ec91d1c57%28Office.15%29.aspx)
 [CommandBarPopup.Reset Method (Office)](http://msdn.microsoft.com/library/8e31b4e2-66d1-b902-f837-dc4833b1607f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

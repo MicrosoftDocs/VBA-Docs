@@ -3,6 +3,7 @@ title: Create a Validation Formula and Message
 ms.prod: outlook
 ms.assetid: d96d09fa-4bb9-019b-1f3c-4cda7a8ab091
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,5 +26,5 @@ For more information, see the following:
 -  [How to: Require a Value for a Field or Control](require-a-value-for-a-field-or-control.md)
     
 -  [Validating User Input to a Field](../Forms/validating-user-input-to-a-field.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

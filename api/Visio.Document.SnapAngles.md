@@ -1,5 +1,5 @@
 ---
-title: Document.SnapAngles Property (Visio)
+title: Document.SnapAngles property (Visio)
 keywords: vis_sdr.chm10550875
 f1_keywords:
 - vis_sdr.chm10550875
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.SnapAngles
 ms.assetid: b2a85580-3308-6bda-dd00-7449f6d87c8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SnapAngles Property (Visio)
+# Document.SnapAngles property (Visio)
 
 Determines the degree of the angle that is drawn when isometric angle lines is chosen as a shape extension option. Read/write.
 
 
 ## Syntax
 
- _expression_. `SnapAngles`
+_expression_. `SnapAngles`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -32,4 +33,4 @@ Double()
 
 The value of the  **SnapAngles** property is equivalent to the value in the **Isometric angles (degs)** box on the **Advanced** tab of the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ExecuteExcel4Macro Method (Excel)
+title: Application.ExecuteExcel4Macro method (Excel)
 keywords: vbaxl10.chm132097
 f1_keywords:
 - vbaxl10.chm132097
@@ -7,29 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Application.ExecuteExcel4Macro
 ms.assetid: 0afa77ab-43e0-0120-4ffd-25e290c72f6c
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
-# Application.ExecuteExcel4Macro Method (Excel)
+# Application.ExecuteExcel4Macro method (Excel)
 
 Runs a Microsoft Excel 4.0 macro function and then returns the result of the function. The return type depends on the function.
 
 
 ## Syntax
 
- _expression_. `ExecuteExcel4Macro`( `_String_` )
+_expression_.**ExecuteExcel4Macro** (_String_)
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _String_|Required| **String**|A Microsoft Excel 4.0 macro language function without the equal sign. All references must be given as R1C1 strings. If  _String_ contains embedded double quotation marks, you must double them. For example, to run the macro function =MID("sometext",1,4), _String_ would have to be "MID(""sometext"",1,4)".|
+| _String_|Required| **String**|A Microsoft Excel 4.0 macro language function without the equal sign. All references must be given as R1C1 strings. If _String_ contains embedded double quotation marks, you must double them.<br/><br/> For example, to run the macro function =MID("sometext",1,4), _String_ would have to be "MID(""sometext"",1,4)".|
 
 ## Return value
 
@@ -43,8 +42,7 @@ The Microsoft Excel 4.0 macro isn't evaluated in the context of the current work
 
 ## Example
 
-This example runs the  **GET.CELL(42)** macro function on cell C3 on Sheet1 and then displays the result in a message box. The **GET.CELL(42)** macro function returns the horizontal distance from the left edge of the active window to the left edge of the active cell. This macro function has no direct Visual Basic equivalent.
-
+This example runs the **GET.CELL(42)** macro function on cell C3 on Sheet1 and then displays the result in a message box. The **GET.CELL(42)** macro function returns the horizontal distance from the left edge of the active window to the left edge of the active cell. This macro function has no direct Visual Basic equivalent.
 
 ```vb
 Worksheets("Sheet1").Activate 
@@ -53,8 +51,5 @@ MsgBox ExecuteExcel4Macro("GET.CELL(42)")
 ```
 
 
-## See also
 
-
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

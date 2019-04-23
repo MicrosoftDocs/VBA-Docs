@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+title: Options.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 keywords: vbawd10.chm162988295
 f1_keywords:
 - vbawd10.chm162988295
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyNumberedLists
 ms.assetid: a20be170-7297-0f55-4650-04540fc6f4f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+# Options.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 
- **True** if paragraphs are automatically formatted as numbered lists with a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character after the ENTER key is pressed. Read/write **Boolean** .
+ **True** if paragraphs are automatically formatted as numbered lists with a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character after the ENTER key is pressed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyNumberedLists`
+_expression_. `AutoFormatAsYouTypeApplyNumberedLists`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyNumberedLists
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

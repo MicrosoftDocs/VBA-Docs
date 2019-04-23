@@ -1,5 +1,5 @@
 ---
-title: Subdocument Object (Word)
+title: Subdocument object (Word)
 keywords: vbawd10.chm2441
 f1_keywords:
 - vbawd10.chm2441
@@ -8,10 +8,11 @@ api_name:
 - Word.Subdocument
 ms.assetid: ed966369-34f6-ef0c-d6d6-4c86baff4793
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocument Object (Word)
+# Subdocument object (Word)
 
 Represents a subdocument within a document or range. The  **Subdocument** object is a member of the **[Subdocuments](Word.subdocuments.md)** collection. The **Subdocuments** collection includes all the subdocuments in the a range or document.
 
@@ -58,6 +59,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

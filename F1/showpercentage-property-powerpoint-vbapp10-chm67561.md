@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 360e83a7-a225-4c6a-9ece-cd58c2dbe284
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabel.ShowPercentage Property (PowerPoint)](http://msdn.microsoft.com/library/00b28ebe-a674-93a1-2c6d-f8fb7d0539cf%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddFormControl Method (Excel)
+title: Shapes.AddFormControl method (Excel)
 keywords: vbaxl10.chm638090
 f1_keywords:
 - vbaxl10.chm638090
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shapes.AddFormControl
 ms.assetid: c1654020-630c-b988-54f1-99a2f2a93e56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddFormControl Method (Excel)
+# Shapes.AddFormControl method (Excel)
 
 Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object that represents the new control.
 
 
 ## Syntax
 
- _expression_. `AddFormControl`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddFormControl`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End With
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

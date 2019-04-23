@@ -1,5 +1,5 @@
 ---
-title: Application.Settings Property (Visio)
+title: Application.Settings property (Visio)
 keywords: vis_sdr.chm10051635
 f1_keywords:
 - vis_sdr.chm10051635
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Settings
 ms.assetid: b62413cb-a038-2679-8701-47ba700a93c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Settings Property (Visio)
+# Application.Settings property (Visio)
 
 Returns an **ApplicationSettings** object, which you can use to set Microsoft Visio application properties. Read-only.
 
 
 ## Syntax
 
- _expression_. `Settings`
+_expression_. `Settings`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -52,4 +53,4 @@ Public Sub Settings_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Parent Property (Publisher)
+title: ColorCMYK.Parent property (Publisher)
 keywords: vbapb10.chm2621445
 f1_keywords:
 - vbapb10.chm2621445
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorCMYK.Parent
 ms.assetid: e2086402-d8b4-1414-9b09-67fd142083b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorCMYK.Parent Property (Publisher)
+# ColorCMYK.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

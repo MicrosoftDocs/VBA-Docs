@@ -1,5 +1,5 @@
 ---
-title: Document.CustomMenusFile Property (Visio)
+title: Document.CustomMenusFile property (Visio)
 keywords: vis_sdr.chm10513350
 f1_keywords:
 - vis_sdr.chm10513350
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.CustomMenusFile
 ms.assetid: a35dea4c-be19-8951-516b-bc8de4345d78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CustomMenusFile Property (Visio)
+# Document.CustomMenusFile property (Visio)
 
 Gets or sets the name of the file that defines custom menus and accelerators for a  **Document** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `CustomMenusFile`
+_expression_. `CustomMenusFile`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -33,7 +34,7 @@ String
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If the object is not using custom menus, the  **CustomMenusFile** property returns **Nothing** .
+If the object is not using custom menus, the  **CustomMenusFile** property returns **Nothing**.
 
 
 ## Example
@@ -97,4 +98,4 @@ Sub CustomMenusFile_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

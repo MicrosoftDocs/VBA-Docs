@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (Excel)
+title: ThreeDFormat.SetExtrusionDirection method (Excel)
 keywords: vbaxl10.chm119004
 f1_keywords:
 - vbaxl10.chm119004
@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 363c3150-fa6d-fcb3-d61d-00a36b528387
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (Excel)
+# ThreeDFormat.SetExtrusionDirection method (Excel)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 
 
 ## Syntax
 
- _expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
+_expression_. `SetExtrusionDirection`( `_PresetExtrusionDirection_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetExtrusionDirection_|Required| **[MsoPresetExtrusionDirection](./Office.MsoPresetExtrusionDirection.md)**|Specifies the extrusion direction.|
+| _PresetExtrusionDirection_|Required| **[MsoPresetExtrusionDirection](Office.MsoPresetExtrusionDirection.md)**|Specifies the extrusion direction.|
 
 ## Remarks
 
@@ -52,7 +53,7 @@ This method sets the  **[PresetExtrusionDirection](Excel.ThreeDFormat.PresetExtr
 
 ## Example
 
-This example specifies that the extrusion for shape one on  `myDocument` extend toward the top of the shape and that the lighting for the extrusion come from the left.
+This example specifies that the extrusion for shape one on  _myDocument_ extend toward the top of the shape and that the lighting for the extrusion come from the left.
 
 
 ```vb
@@ -70,3 +71,4 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

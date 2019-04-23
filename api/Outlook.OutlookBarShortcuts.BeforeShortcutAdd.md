@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.BeforeShortcutAdd Event (Outlook)
+title: OutlookBarShortcuts.BeforeShortcutAdd event (Outlook)
 keywords: vbaol11.chm378
 f1_keywords:
 - vbaol11.chm378
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarShortcuts.BeforeShortcutAdd
 ms.assetid: b31d495f-8288-a2ee-1429-6face8281787
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.BeforeShortcutAdd Event (Outlook)
+# OutlookBarShortcuts.BeforeShortcutAdd event (Outlook)
 
 Occurs before a new shortcut is added to a group in the  **Shortcuts** pane, either as a result of user action or through program code.
 
 
 ## Syntax
 
- _expression_. `BeforeShortcutAdd`( `_Cancel_` )
+_expression_. `BeforeShortcutAdd`( `_Cancel_` )
 
- _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
+_expression_ A variable that represents an [OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs before a new shortcut is added to a group in the  **Shortcuts** pane, eit
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the shortcut is not added to the group.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the shortcut is not added to the group.|
 
 ## Remarks
 
@@ -62,3 +63,4 @@ End Sub
 
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

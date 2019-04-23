@@ -1,5 +1,5 @@
 ---
-title: Endnote.Range Property (Word)
+title: Endnote.Range property (Word)
 keywords: vbawd10.chm155058180
 f1_keywords:
 - vbawd10.chm155058180
@@ -8,19 +8,20 @@ api_name:
 - Word.Endnote.Range
 ms.assetid: fde6bb87-f2ce-7bf4-ecc3-a78b8db0e1c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnote.Range Property (Word)
+# Endnote.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
- _expression_ Required. A variable that represents an '[Endnote](Word.Endnote.md)' object.
+_expression_ Required. A variable that represents an '[Endnote](Word.Endnote.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [Endnote Object](Word.Endnote.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

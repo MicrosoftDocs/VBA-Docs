@@ -1,14 +1,15 @@
 ---
-title: WdSeparatorType Enumeration (Word)
+title: WdSeparatorType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSeparatorType
 ms.assetid: 94cb01b0-b850-ddc6-46ce-ea0261d38247
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSeparatorType Enumeration (Word)
+# WdSeparatorType enumeration (Word)
 
 Specifies the type of separator to place between items.
 
@@ -22,3 +23,4 @@ Specifies the type of separator to place between items.
 | **wdSeparatorHyphen**|0|A hyphen.|
 | **wdSeparatorPeriod**|1|A period.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMap.PreserveColumnFilter
 ms.assetid: 7afb204c-7139-1d97-fa3f-0d563e12c891
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # XmlMap.PreserveColumnFilter property (Excel)
 
-Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write  **Boolean** .
+Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PreserveColumnFilter`
+_expression_. `PreserveColumnFilter`
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets whether filtering is preserved when the specified XML map is ref
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

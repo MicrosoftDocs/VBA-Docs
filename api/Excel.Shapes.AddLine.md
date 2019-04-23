@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLine Method (Excel)
+title: Shapes.AddLine method (Excel)
 keywords: vbaxl10.chm638081
 f1_keywords:
 - vbaxl10.chm638081
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shapes.AddLine
 ms.assetid: f2186af3-c28a-4196-a00e-00cc66d28f71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLine Method (Excel)
+# Shapes.AddLine method (Excel)
 
 As it applies to the  **Shapes** object, returns a **[Shape](Excel.Shape.md)** object that represents the new line in a worksheet.
 
 
 ## Syntax
 
- _expression_. `AddLine`( `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
+_expression_. `AddLine`( `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -41,7 +42,7 @@ Shape
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb
@@ -58,3 +59,4 @@ End With
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

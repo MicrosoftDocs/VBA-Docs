@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Creator Property (Word)
+title: LegendEntries.Creator property (Word)
 keywords: vbawd10.chm6815893
 f1_keywords:
 - vbawd10.chm6815893
@@ -8,17 +8,18 @@ api_name:
 - Word.LegendEntries.Creator
 ms.assetid: 4153e082-a1df-a118-3db6-4603e991bf9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendEntries.Creator Property (Word)
+# LegendEntries.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[LegendEntries](Word.LegendEntries.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LegendEntries Object](Word.LegendEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

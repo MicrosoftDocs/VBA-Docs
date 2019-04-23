@@ -1,5 +1,5 @@
 ---
-title: TaskItem.CancelResponseState Method (Outlook)
+title: TaskItem.CancelResponseState method (Outlook)
 keywords: vbaol11.chm1750
 f1_keywords:
 - vbaol11.chm1750
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.CancelResponseState
 ms.assetid: 564b37c5-f686-8e4d-aa3e-6d41a989b1be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.CancelResponseState Method (Outlook)
+# TaskItem.CancelResponseState method (Outlook)
 
 Resets an unsent response to a task request back to a simple task.
 
 
 ## Syntax
 
- _expression_. `CancelResponseState`
+_expression_. `CancelResponseState`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Resets an unsent response to a task request back to a simple task.
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

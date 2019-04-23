@@ -1,14 +1,15 @@
 ---
-title: PjCell Enumeration (Project)
+title: PjCell enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCell
 ms.assetid: c723eac4-6a19-ae9e-19e9-5b203a2dcf54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjCell Enumeration (Project)
+# PjCell enumeration (Project)
 
 Contains constants that specify a cell.
 
@@ -33,3 +34,4 @@ Contains constants that specify a cell.
 |**pjCell4_3**|11|Column 4, row 3.|
 |**pjCell4_4**|15|Column 4, row 4.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

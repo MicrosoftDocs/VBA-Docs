@@ -1,5 +1,5 @@
 ---
-title: Toolbars Object (Visio)
+title: Toolbars object (Visio)
 keywords: vis_sdr.chm10285
 f1_keywords:
 - vis_sdr.chm10285
@@ -8,10 +8,11 @@ api_name:
 - Visio.Toolbars
 ms.assetid: 05a7736a-4655-de35-14fe-32e32fd1784d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbars Object (Visio)
+# Toolbars object (Visio)
 
 Includes a  **Toolbar** object for each toolbar in a window context.
 
@@ -23,8 +24,8 @@ Includes a  **Toolbar** object for each toolbar in a window context.
 
 To retrieve a  **Toolbars** collection, use the **Toolbars** property of a **ToolbarSet** object.
 
-The default property of a  **Toolbars** collection is **Item** .
+The default property of a  **Toolbars** collection is **Item**.
 
 Unlike other Microsoft Visio collections, the  **Toolbars** collection is indexed starting with zero (0) rather than 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

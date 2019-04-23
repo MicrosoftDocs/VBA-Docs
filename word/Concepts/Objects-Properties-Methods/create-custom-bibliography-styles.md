@@ -3,6 +3,7 @@ title: Create Custom Bibliography Styles
 ms.prod: word
 ms.assetid: 4b55522f-3387-4e53-a8cd-3b616e3194c8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -526,5 +527,5 @@ This article showed how to create a custom bibliography style in Word, first by 
 -  [What's new for Word 2013 developers](../../../api/overview/Word.md)    
 -  [Office and Office 365 Developer Blog](https://blogs.msdn.com/b/officedevdocs/)    
 -  [Word for developers website](https://docs.microsoft.com/office/client-developer/word/word-home)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

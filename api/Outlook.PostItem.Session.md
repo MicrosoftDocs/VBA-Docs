@@ -1,5 +1,5 @@
 ---
-title: PostItem.Session Property (Outlook)
+title: PostItem.Session property (Outlook)
 keywords: vbaol11.chm1511
 f1_keywords:
 - vbaol11.chm1511
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.Session
 ms.assetid: 53dc4396-598e-197b-cea1-135e44686b91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.Session Property (Outlook)
+# PostItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

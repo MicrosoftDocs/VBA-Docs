@@ -1,5 +1,5 @@
 ---
-title: OlkFrameHeader Object (Outlook)
+title: OlkFrameHeader object (Outlook)
 keywords: vbaol11.chm1000476
 f1_keywords:
 - vbaol11.chm1000476
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkFrameHeader
 ms.assetid: 088dd9e4-7210-6465-e337-51cb1bd10172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkFrameHeader Object (Outlook)
+# OlkFrameHeader object (Outlook)
 
 A control that provides a separator between sections in a form.
 
@@ -34,7 +35,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Outlook.OlkFrameHeader.Alignment.md)|
 |[Caption](Outlook.OlkFrameHeader.Caption.md)|
@@ -47,4 +48,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

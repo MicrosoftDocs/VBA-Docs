@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.RadarAxisLabels Property (PowerPoint)
+title: ChartGroup.RadarAxisLabels property (PowerPoint)
 keywords: vbapp10.chm692014
 f1_keywords:
 - vbapp10.chm692014
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ChartGroup.RadarAxisLabels
 ms.assetid: 6bfef746-4616-7a63-0d1d-d0227a6e45f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.RadarAxisLabels Property (PowerPoint)
+# ChartGroup.RadarAxisLabels property (PowerPoint)
 
 Returns the radar axis labels for the specified chart group. Read-only  **[TickLabels](PowerPoint.TickLabels.md)**.
 
 
 ## Syntax
 
- _expression_. `RadarAxisLabels`
+_expression_.**RadarAxisLabels**
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -5,6 +5,7 @@ api_name:
 - Excel.Constants
 ms.assetid: 498b9056-a7f4-ad18-0955-eacef759d5fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -12,7 +13,7 @@ ms.date: 06/08/2017
 
 This enumeration groups together constants used with various Excel methods.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -184,3 +185,4 @@ This enumeration groups together constants used with various Excel methods.
 | **xlWorksheetCell**|3|Worksheet Cell|
 | **xlWorksheetShort**|5|Worksheet Short|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

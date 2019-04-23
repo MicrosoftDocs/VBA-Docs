@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 192c06dc-eb31-dc19-bc84-b66171115fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The name of a form occurs twice in the source file for a form, User Control, Property Page, or User Document. This error can occur if the file was modified by an editor other than Visual Basic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

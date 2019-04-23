@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Gamma_Dist Method (Excel)
+title: WorksheetFunction.Gamma_Dist method (Excel)
 keywords: vbaxl10.chm137366
 f1_keywords:
 - vbaxl10.chm137366
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Gamma_Dist
 ms.assetid: cc27de06-e76f-92f8-fe03-2bb0580ccb7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Gamma_Dist Method (Excel)
+# WorksheetFunction.Gamma_Dist method (Excel)
 
 Returns the gamma distribution. You can use this function to study variables that may have a skewed distribution. The gamma distribution is commonly used in queuing analysis.
 
 
 ## Syntax
 
- _expression_. `Gamma_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Gamma_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

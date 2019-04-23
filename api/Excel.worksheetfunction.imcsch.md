@@ -1,33 +1,34 @@
 ---
-title: WorksheetFunction.ImCsch Method (Excel)
+title: WorksheetFunction.ImCsch method (Excel)
 keywords: vbaxl10.chm137432
 f1_keywords:
 - vbaxl10.chm137432
 ms.prod: excel
 ms.assetid: 0e42cbdf-b8cd-8d46-1d6f-4fe152558fdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImCsch Method (Excel)
+# WorksheetFunction.ImCsch method (Excel)
 
 Returns the hyperbolic cosecant of a complex number.
 
 
 ## Syntax
 
- _expression_. `ImCsch`_(Arg1)_
+_expression_. `ImCsch`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|Complex number for which you want the hyperbolic cosecant.|
+| _Arg1_|Required|**String**|Complex number for which you want the hyperbolic cosecant.|
 
 ## Return value
 
@@ -39,3 +40,4 @@ Returns the hyperbolic cosecant of a complex number.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

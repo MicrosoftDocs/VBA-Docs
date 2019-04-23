@@ -1,15 +1,16 @@
 ---
-title: TablesOfContents Object (Word)
+title: TablesOfContents object (Word)
 keywords: vbawd10.chm2324
 f1_keywords:
 - vbawd10.chm2324
 ms.prod: word
 ms.assetid: d0d0e5fc-e443-31ae-e1a9-15b945f1e318
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TablesOfContents Object (Word)
+# TablesOfContents object (Word)
 
 A collection of  **[TableOfContents](Word.TableOfContents.md)** objects that represent the tables of contents in a document.
 
@@ -51,7 +52,7 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.TablesOfContents.Add.md)|
 |[Item](Word.TablesOfContents.Item.md)|
@@ -61,7 +62,7 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.TablesOfContents.Application.md)|
 |[Count](Word.TablesOfContents.Count.md)|
@@ -72,4 +73,6 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

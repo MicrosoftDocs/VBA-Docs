@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions Object (Publisher)
+title: AdvancedPrintOptions object (Publisher)
 keywords: vbapb10.chm7143423
 f1_keywords:
 - vbapb10.chm7143423
@@ -8,10 +8,11 @@ api_name:
 - Publisher.AdvancedPrintOptions
 ms.assetid: 61f776cc-dc3e-61b6-057a-125ad15146c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions Object (Publisher)
+# AdvancedPrintOptions object (Publisher)
 
 Represents the advanced print settings for a publication.
  
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowBleeds](Publisher.AdvancedPrintOptions.AllowBleeds.md)|
 |[Application](Publisher.AdvancedPrintOptions.Application.md)|
@@ -69,3 +70,4 @@ End Sub
 |[UseOnlyPublicationFonts](Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts.md)|
 |[VerticalFlip](Publisher.AdvancedPrintOptions.VerticalFlip.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

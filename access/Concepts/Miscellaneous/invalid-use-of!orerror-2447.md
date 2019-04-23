@@ -3,6 +3,7 @@ title: Invalid use of '.', '!', or '()'. (Error 2447)
 ms.prod: access
 ms.assetid: 8c1ed56b-460a-99f8-638a-f4d6061f7d4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The expression does not use delimiters correctly. To reference the properties of
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

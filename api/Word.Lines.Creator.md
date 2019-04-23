@@ -1,5 +1,5 @@
 ---
-title: Lines.Creator Property (Word)
+title: Lines.Creator property (Word)
 keywords: vbawd10.chm67109865
 f1_keywords:
 - vbawd10.chm67109865
@@ -8,19 +8,20 @@ api_name:
 - Word.Lines.Creator
 ms.assetid: 4830d07d-fd4c-131d-0bea-49be92db79bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Lines.Creator Property (Word)
+# Lines.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Lines](Word.Lines.md)' collection.
+_expression_ Required. A variable that represents a '[Lines](Word.Lines.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Lines Collection](Word.Lines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

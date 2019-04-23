@@ -1,5 +1,5 @@
 ---
-title: Explorers.NewExplorer Event (Outlook)
+title: Explorers.NewExplorer event (Outlook)
 keywords: vbaol11.chm306
 f1_keywords:
 - vbaol11.chm306
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorers.NewExplorer
 ms.assetid: 701409f3-ead3-2707-b3de-baa053e8d5c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorers.NewExplorer Event (Outlook)
+# Explorers.NewExplorer event (Outlook)
 
 Occurs whenever a new explorer window is opened, either as a result of user action or through program code. 
 
 
 ## Syntax
 
- _expression_. `NewExplorer`( `_Explorer_` )
+_expression_. `NewExplorer`( `_Explorer_` )
 
- _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
+_expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 
 
 ## Parameters
@@ -73,3 +74,4 @@ End Sub
 
 [Explorers Object](Outlook.Explorers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

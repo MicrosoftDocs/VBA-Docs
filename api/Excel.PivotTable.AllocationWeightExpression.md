@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.AllocationWeightExpression
 ms.assetid: 983f4819-5b3f-6f9d-667f-84feaf13bba5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or sets the MDX weight expression to use when performing what-if analysi
 
 ## Syntax
 
- _expression_. `AllocationWeightExpression`
+_expression_. `AllocationWeightExpression`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Remarks
 
-The  **AllocationWeightExpression** property corresponds to the **Weight Expression** setting in the **What-If Analysis Settings** dialog box. Before the **AllocationWeightExpression** property can be set, you must set the **[AllocationMethod](Excel.PivotTable.AllocationMethod.md)** property to **xlWeightedAllocation** .
+The  **AllocationWeightExpression** property corresponds to the **Weight Expression** setting in the **What-If Analysis Settings** dialog box. Before the **AllocationWeightExpression** property can be set, you must set the **[AllocationMethod](Excel.PivotTable.AllocationMethod.md)** property to **xlWeightedAllocation**.
 
 
 ## See also
@@ -33,3 +34,4 @@ The  **AllocationWeightExpression** property corresponds to the **Weight Express
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

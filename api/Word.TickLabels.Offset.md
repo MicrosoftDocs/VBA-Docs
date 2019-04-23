@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Offset Property (Word)
+title: TickLabels.Offset property (Word)
 keywords: vbawd10.chm167051282
 f1_keywords:
 - vbawd10.chm167051282
@@ -8,17 +8,18 @@ api_name:
 - Word.TickLabels.Offset
 ms.assetid: f2435b6d-09a6-4dd9-eb51-71d7a1bf18c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TickLabels.Offset Property (Word)
+# TickLabels.Offset property (Word)
 
-Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write  **Long** .
+Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Offset`
+_expression_. `Offset`
 
  _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
@@ -51,3 +52,4 @@ End With
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

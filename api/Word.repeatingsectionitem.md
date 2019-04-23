@@ -1,15 +1,16 @@
 ---
-title: RepeatingSectionItem Object (Word)
+title: RepeatingSectionItem object (Word)
 keywords: vbawd10.chm3479
 f1_keywords:
 - vbawd10.chm3479
 ms.prod: word
 ms.assetid: 62a6f325-5c69-f360-9fed-8155ec2bccd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RepeatingSectionItem Object (Word)
+# RepeatingSectionItem object (Word)
 
 Represents a repeating section item in a content control.
 
@@ -23,5 +24,4 @@ You can insert additional repeating section items before or after the specified 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

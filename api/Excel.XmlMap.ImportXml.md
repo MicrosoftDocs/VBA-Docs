@@ -1,5 +1,5 @@
 ---
-title: XmlMap.ImportXml Method (Excel)
+title: XmlMap.ImportXml method (Excel)
 keywords: vbaxl10.chm754088
 f1_keywords:
 - vbaxl10.chm754088
@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMap.ImportXml
 ms.assetid: 07db07d3-cd0f-08fe-3463-04ca72d084d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XmlMap.ImportXml Method (Excel)
+# XmlMap.ImportXml method (Excel)
 
 Imports XML data from a  **String** variable into cells that have been mapped to the specified **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## Syntax
 
- _expression_. `ImportXml`( `_XmlData_` , `_Overwrite_` )
+_expression_. `ImportXml`( `_XmlData_` , `_Overwrite_` )
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Parameters
@@ -41,10 +42,10 @@ Imports XML data from a  **String** variable into cells that have been mapped to
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants.|
-| **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess** . The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
+| **xlXmlImportElementsTruncated**. The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
+| **xlXmlImportSuccess**. The XML data file was successfully imported.|
+| **xlXmlImportValidationFailed**. The data being imported failed schema validation, but was imported anyway.|
 
 To import the contents of an XML data file into cells mapped to a specific schema map, use the  **[Import](Excel.XmlMap.Import.md)** method of the **XmlMap** object.
 
@@ -61,3 +62,4 @@ If either of the following conditions is true, a runtime error will occur. If mo
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

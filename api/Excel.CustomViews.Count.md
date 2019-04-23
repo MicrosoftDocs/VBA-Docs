@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomViews.Count
 ms.assetid: 06cefdb0-c448-8d84-c5cf-34f311a76320
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [CustomViews](Excel.CustomViews.md) object.
+_expression_ A variable that represents a **[CustomViews](Excel.CustomViews.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [CustomViews Object](Excel.CustomViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

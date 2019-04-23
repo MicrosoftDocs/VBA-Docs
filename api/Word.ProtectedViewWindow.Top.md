@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Top Property (Word)
+title: ProtectedViewWindow.Top property (Word)
 keywords: vbawd10.chm231735299
 f1_keywords:
 - vbawd10.chm231735299
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindow.Top
 ms.assetid: 3acaef1b-11a8-9f22-3841-049ae9e2ecd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Top Property (Word)
+# ProtectedViewWindow.Top property (Word)
 
-Returns or sets the vertical position, in points, of the specified protected view window. Read/write  **Long**
+Returns or sets the vertical position, in [points](../language/glossary/vbe-glossary.md#point), of the specified protected view window. Read/write  **Long**
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
@@ -43,3 +44,4 @@ End With
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

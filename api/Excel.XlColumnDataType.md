@@ -1,14 +1,15 @@
 ---
-title: xlColumnDataType enumeration (Excel)
+title: XlColumnDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlColumnDataType
 ms.assetid: 034f6011-c860-0887-9661-857821f630e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlColumnDataType enumeration (Excel)
+# XlColumnDataType enumeration (Excel)
 
 Specifies how a column is to be parsed.
 
@@ -27,3 +28,4 @@ Specifies how a column is to be parsed.
 | **xlYDMFormat**|8|YDM date format.|
 | **xlYMDFormat**|5|YMD date format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

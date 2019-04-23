@@ -1,15 +1,16 @@
 ---
-title: Tasks Object (Word)
+title: Tasks object (Word)
 keywords: vbawd10.chm2435
 f1_keywords:
 - vbawd10.chm2435
 ms.prod: word
 ms.assetid: ff521e20-8a25-f9f6-dccf-effea9debeb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tasks Object (Word)
+# Tasks object (Word)
 
 A collection of  **[Task](Word.Task.md)** objects that represents all the tasks currently running on the system.
 
@@ -62,5 +63,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

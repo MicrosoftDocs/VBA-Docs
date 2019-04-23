@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.OnWindow
 ms.assetid: 928415d0-075b-acea-ab47-5d971a9b86b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.OnWindow property (Excel)
 
-Returns or sets the name of the procedure that's run whenever you activate a window. Read/write  **String** .
+Returns or sets the name of the procedure that's run whenever you activate a window. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `OnWindow`
+_expression_. `OnWindow`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ThisWorkbook.Windows(1).OnWindow = "WindowActivate"
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

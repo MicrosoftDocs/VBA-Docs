@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropBottom Property (Word)
+title: PictureFormat.CropBottom property (Word)
 keywords: vbawd10.chm164298855
 f1_keywords:
 - vbawd10.chm164298855
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.CropBottom
 ms.assetid: f7cf6d4a-cc95-f595-9382-1daf4e0cf8de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropBottom Property (Word)
+# PictureFormat.CropBottom property (Word)
 
-Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CropBottom`
+_expression_. `CropBottom`
 
  _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
@@ -71,3 +72,4 @@ shapeCrop.PictureFormat.CropBottom = sngCrop
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

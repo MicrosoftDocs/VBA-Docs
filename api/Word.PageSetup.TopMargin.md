@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TopMargin Property (Word)
+title: PageSetup.TopMargin property (Word)
 keywords: vbawd10.chm158400612
 f1_keywords:
 - vbawd10.chm158400612
@@ -8,19 +8,20 @@ api_name:
 - Word.PageSetup.TopMargin
 ms.assetid: c7c8d859-e82b-5170-eadb-95a6e5895f83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.TopMargin Property (Word)
+# PageSetup.TopMargin property (Word)
 
-Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `TopMargin`
+_expression_.**TopMargin**
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 
 
 ## Example
@@ -58,3 +59,4 @@ Application.MailingLabel.CreateNewDocument Name:="My Label"
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

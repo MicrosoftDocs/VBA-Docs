@@ -1,12 +1,13 @@
 ---
-title: FormFields Object (Word)
+title: FormFields object (Word)
 ms.prod: word
 ms.assetid: a44a0f57-123b-cade-e306-ba6dc179b619
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormFields Object (Word)
+# FormFields object (Word)
 
 A collection of  **FormField** objects that represent all the form fields in a selection, range, or document.
 
@@ -60,7 +61,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.FormFields.Add.md)|
 |[Item](Word.FormFields.Item.md)|
@@ -69,7 +70,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.FormFields.Application.md)|
 |[Count](Word.FormFields.Count.md)|
@@ -80,4 +81,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

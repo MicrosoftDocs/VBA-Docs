@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat Object (PowerPoint)
+title: PlaceholderFormat object (PowerPoint)
 keywords: vbapp10.chm545000
 f1_keywords:
 - vbapp10.chm545000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.PlaceholderFormat
 ms.assetid: 5e204d07-7ec0-b08c-497c-7f0174d28782
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaceholderFormat Object (PowerPoint)
+# PlaceholderFormat object (PowerPoint)
 
 Contains properties that apply specifically to placeholders, such as placeholder type.
 
@@ -47,3 +48,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

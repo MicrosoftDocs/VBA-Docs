@@ -1,5 +1,5 @@
 ---
-title: IconView.IconViewType Property (Outlook)
+title: IconView.IconViewType property (Outlook)
 keywords: vbaol11.chm2576
 f1_keywords:
 - vbaol11.chm2576
@@ -8,24 +8,25 @@ api_name:
 - Outlook.IconView.IconViewType
 ms.assetid: 8255256d-eb71-6d3c-66bf-27aa5a103297
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconView.IconViewType Property (Outlook)
+# IconView.IconViewType property (Outlook)
 
 Returns or sets an  **[OlIconViewType](Outlook.OlIconViewType.md)** constant that determines how Outlook items are displayed in the **[IconView](Outlook.IconView.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `IconViewType`
+_expression_. `IconViewType`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 
 
 ## Remarks
 
-If the value of this property is set to  **olIconSortAndAutoArrange** , the value of the **[IconPlacement](Outlook.IconView.IconPlacement.md)** property is automatically set to **olIconSortAndAutoArrange** .
+If the value of this property is set to  **olIconSortAndAutoArrange**, the value of the **[IconPlacement](Outlook.IconView.IconPlacement.md)** property is automatically set to **olIconSortAndAutoArrange**.
 
 
 ## Example
@@ -95,3 +96,4 @@ End Sub
 
 [IconView Object](Outlook.IconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

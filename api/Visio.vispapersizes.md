@@ -1,21 +1,22 @@
 ---
-title: VisPaperSizes Enumeration (Visio)
+title: VisPaperSizes enumeration (Visio)
 keywords: vis_sdr.chm70340
 f1_keywords:
 - vis_sdr.chm70340
 ms.prod: visio
 ms.assetid: 620281bb-a2de-5ce5-9ab5-b6ea28b2d5b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisPaperSizes Enumeration (Visio)
+# VisPaperSizes enumeration (Visio)
 
 Flags passed to or returned by the  **Document.PaperSize** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPaperSizeA3**|8|A3 297 x 420 mm|
 | **visPaperSizeA4**|9|A4 210 x 297 mm|
@@ -31,3 +32,4 @@ Flags passed to or returned by the  **Document.PaperSize** property.
 | **visPaperSizeSizeE**|26|E size sheet 34 x 44 in.|
 | **visPaperSizeUnknown**|0|Unknown|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

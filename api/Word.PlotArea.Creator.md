@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Creator Property (Word)
+title: PlotArea.Creator property (Word)
 keywords: vbawd10.chm53477525
 f1_keywords:
 - vbawd10.chm53477525
@@ -8,17 +8,18 @@ api_name:
 - Word.PlotArea.Creator
 ms.assetid: 340fb047-e239-3d54-853b-8cbc3919ab2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlotArea.Creator Property (Word)
+# PlotArea.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [PlotArea Object](Word.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

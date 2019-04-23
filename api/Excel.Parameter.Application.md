@@ -8,6 +8,7 @@ api_name:
 - Excel.Parameter.Application
 ms.assetid: 8cf1a9a6-e9ae-3f4e-0181-c54bbc9732af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

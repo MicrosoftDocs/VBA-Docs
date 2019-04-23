@@ -3,6 +3,7 @@ title: Returning an Object from a Collection (Word)
 ms.prod: word
 ms.assetid: 28f76384-f495-9640-a7c8-10ada3fac727
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -78,4 +79,4 @@ Sub AddBorderToFirstParagraphInSelection()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

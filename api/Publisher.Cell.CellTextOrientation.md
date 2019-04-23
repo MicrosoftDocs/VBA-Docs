@@ -1,5 +1,5 @@
 ---
-title: Cell.CellTextOrientation Property (Publisher)
+title: Cell.CellTextOrientation property (Publisher)
 keywords: vbapb10.chm5111845
 f1_keywords:
 - vbapb10.chm5111845
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.CellTextOrientation
 ms.assetid: ad2c2f15-358c-7bbc-b249-b886a99ea4a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.CellTextOrientation Property (Publisher)
+# Cell.CellTextOrientation property (Publisher)
 
 Returns or sets a  **PbTextOrientation** that represents the flow of text in a specified table cell. Read/write.
 
 
 ## Syntax
 
- _expression_. **CellTextOrientation**
+_expression_.**CellTextOrientation**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -59,4 +60,4 @@ Sub VerticalText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

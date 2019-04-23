@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 89d91b67-27af-c911-2af4-417d89fbd66c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-This error occurs when a user specifies that the dataqbase open in row/page locking mode, but another user already has the database opened in page locking only mode.
+This error occurs when a user specifies that the database is open in row/page locking mode, but another user already has the database opened in page locking only mode.
 
 ## See also
 
@@ -25,3 +26,5 @@ This error occurs when a user specifies that the dataqbase open in row/page lock
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Close Method (Outlook)
+title: TaskRequestAcceptItem.Close method (Outlook)
 keywords: vbaol11.chm1800
 f1_keywords:
 - vbaol11.chm1800
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Close
 ms.assetid: 8acad5ec-3a18-0953-1ffd-0efc00699134
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Close Method (Outlook)
+# TaskRequestAcceptItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
 
 ## Syntax
 
- _expression_. `Close`( `_SaveMode_` )
+_expression_. `Close`( `_SaveMode_` )
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Closes and optionally saves changes to the Outlook item.
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

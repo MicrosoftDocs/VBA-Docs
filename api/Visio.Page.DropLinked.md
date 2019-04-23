@@ -1,5 +1,5 @@
 ---
-title: Page.DropLinked Method (Visio)
+title: Page.DropLinked method (Visio)
 keywords: vis_sdr.chm10960170
 f1_keywords:
 - vis_sdr.chm10960170
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.DropLinked
 ms.assetid: e975a150-ff48-7cae-3e3b-f21f88f2fbd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.DropLinked Method (Visio)
+# Page.DropLinked method (Visio)
 
 Returns a new shape on the drawing page linked to data in a data recordset.
 
@@ -21,7 +22,7 @@ Returns a new shape on the drawing page linked to data in a data recordset.
 
 ## Syntax
 
- _expression_. `DropLinked`( `_ObjectToDrop_` , `_x_` , `_y_` , `_DataRecordsetID_` , `_DataRowID_` , `_ApplyDataGraphicAfterLink_` )
+_expression_. `DropLinked`( `_ObjectToDrop_` , `_x_` , `_y_` , `_DataRecordsetID_` , `_DataRowID_` , `_ApplyDataGraphicAfterLink_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -32,7 +33,7 @@ Returns a new shape on the drawing page linked to data in a data recordset.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The object to drop. While this is typically a Visio object such as a  **Master** , **Shape** , or **Selection** object; it can be any OLE object that provides an **IDataObject** interface.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The object to drop. While this is typically a Visio object such as a  **Master**, **Shape**, or **Selection** object; it can be any OLE object that provides an **IDataObject** interface.|
 | _x_|Required| **Double**|The x-coordinate at which to place the center of the shape's width or PinX.|
 | _y_|Required| **Double**|The y-coordinate at which to place the center of the shape's height or PinY.|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset that contains the data to link to.|
@@ -50,7 +51,7 @@ When you want to create shapes already linked to data on a drawing page that eit
 
 When the object you pass for the ObjectToDrop parameter is a shape, the center of the resulting shape's width-height box is positioned at the specified coordinates, and a  **Shape** object that represents the shape that is created is returned.
 
-If ObjectToDrop is a  **Master** , the pin of the master is positioned at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
+If ObjectToDrop is a  **Master**, the pin of the master is positioned at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
 
 If you pass  **True** for the optional ApplyDataGraphicsAfterLink parameter, Visio applies the data graphic most recently applied to any other shape in the current document.
 
@@ -73,7 +74,7 @@ Public Sub DropLinked_Example()
     Dim dblY As Double  
     Dim lngDataRowID As Long 
     Dim vsoDataRecordset As Visio.DataRecordset 
-    Dim intRecordesetCount As Integer 
+    Dim intRecordsetCount As Integer 
  
     intRecordsetCount = Visio.ActiveDocument.DataRecordsets.Count 
     Set vsoDataRecordset = Visio.ActiveDocument.DataRecordsets(intRecordsetCount) 
@@ -88,4 +89,4 @@ Public Sub DropLinked_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

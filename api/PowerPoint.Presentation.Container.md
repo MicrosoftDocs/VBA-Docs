@@ -1,5 +1,5 @@
 ---
-title: Presentation.Container Property (PowerPoint)
+title: Presentation.Container property (PowerPoint)
 keywords: vbapp10.chm583041
 f1_keywords:
 - vbapp10.chm583041
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.Container
 ms.assetid: cc0108b7-ce95-3a1b-a400-c49700a2362c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Container Property (PowerPoint)
+# Presentation.Container property (PowerPoint)
 
 Returns the object that contains the specified embedded presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `Container`
+_expression_. `Container`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -49,3 +50,4 @@ Application.ActivePresentation.Container.Parent.Sections(2) _
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

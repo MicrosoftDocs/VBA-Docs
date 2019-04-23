@@ -3,6 +3,7 @@ title: Tasks object map (Project)
 ms.prod: project-server
 ms.assetid: c6f63588-37bb-b5d9-c28d-d0a133e22b77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ For an overview of the  **Application** and **Project** objects, and for details
 ![Tasks object hierarchy](../../images/pj15_VBAObjectMap_Tasks.jpg)
 ![Legend for the VBA object maps](../../images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

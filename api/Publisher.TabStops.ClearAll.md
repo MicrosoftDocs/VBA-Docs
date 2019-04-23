@@ -1,5 +1,5 @@
 ---
-title: TabStops.ClearAll Method (Publisher)
+title: TabStops.ClearAll method (Publisher)
 keywords: vbapb10.chm5570564
 f1_keywords:
 - vbapb10.chm5570564
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TabStops.ClearAll
 ms.assetid: bb7e2a0e-c044-872d-aa74-2683886e77a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.ClearAll Method (Publisher)
+# TabStops.ClearAll method (Publisher)
 
 Clears all the custom tab stops from the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. **ClearAll**
+_expression_.**ClearAll**
 
  _expression_ A variable that represents a  **TabStops** object.
 
@@ -40,4 +41,4 @@ Sub ClearAllTabStops()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

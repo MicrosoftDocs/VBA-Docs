@@ -1,44 +1,46 @@
 ---
-title: Exit Statement
+title: Exit statement (VBA)
 keywords: vblr6.chm1008916
 f1_keywords:
 - vblr6.chm1008916
 ms.prod: office
 ms.assetid: 2a1f4605-8220-c5b1-3760-c710f0535aa8
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
-# Exit Statement
+# Exit statement
 
-Exits a block of  **Do…Loop**, **For…Next**, **Function**, **Sub**, or **Property** code.
+Exits a block of **Do…Loop**, **For…Next**, **Function**, **Sub**, or **Property** code.
 
 ## Syntax
 
-**Exit** **Do**
+**Exit Do** <br/>
+**Exit For** <br/>
+**Exit Function** <br/>
+**Exit Property** <br/>
+**Exit Sub**
 
- **Exit For**
- **Exit Function**
- **Exit Property**
- **Exit Sub**
-The  **Exit** statement syntax has these forms:
+<br/>
 
+The **Exit** statement syntax has these forms:
 
-|**Statement**|**Description**|
+|Statement|Description|
 |:-----|:-----|
-|**Exit Do**|Provides a way to exit a  **Do...Loop** statement. It can be used only inside a **Do...Loop** statement. **Exit Do** transfers control to the [statement](../../Glossary/vbe-glossary.md#statement) following the **Loop** statement. When used within nested **Do...Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit** **Do** occurs.|
-|**Exit For**|Provides a way to exit a  **For** loop. It can be used only in a **For...Next** or **For** **Each...Next** loop. **Exit For** transfers control to the statement following the **Next** statement. When used within nested **For** loops, **Exit For** transfers control to the loop that is one nested level above the loop where **Exit For** occurs.|
-|**Exit Function**|Immediately exits the  **Function**[procedure](../../Glossary/vbe-glossary.md#procedure) in which it appears. Execution continues with the statement following the statement that called the **Function**.|
-|**Exit Property**|Immediately exits the  **Property** procedure in which it appears. Execution continues with the statement following the statement that called the **Property** procedure.|
-|**Exit Sub**|Immediately exits the  **Sub** procedure in which it appears. Execution continues with the statement following the statement that called the **Sub** procedure.|
+|**Exit Do**|Provides a way to exit a **[Do...Loop](doloop-statement.md)** statement. It can be used only inside a **Do...Loop** statement. **Exit Do** transfers control to the [statement](../../Glossary/vbe-glossary.md#statement) following the **Loop** statement. When used within nested **Do...Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.|
+|**Exit For**|Provides a way to exit a **For** loop. It can be used only in a **[For...Next](fornext-statement.md)** or **[For Each...Next](for-eachnext-statement.md)** loop. **Exit For** transfers control to the statement following the **Next** statement. When used within nested **For** loops, **Exit For** transfers control to the loop that is one nested level above the loop where **Exit For** occurs.|
+|**Exit Function**|Immediately exits the **[Function](function-statement.md)** [procedure](../../Glossary/vbe-glossary.md#procedure) in which it appears. Execution continues with the statement following the statement that called the **Function**.|
+|**Exit Property**|Immediately exits the **[Property](property-get-statement.md)** procedure in which it appears. Execution continues with the statement following the statement that called the **Property** procedure.|
+|**Exit Sub**|Immediately exits the **[Sub](sub-statement.md)** procedure in which it appears. Execution continues with the statement following the statement that called the **Sub** procedure.|
 
 ## Remarks
 
-Do not confuse  **Exit** statements with **End** statements. **Exit** does not define the end of a structure.
+Do not confuse **Exit** statements with **End** statements. **Exit** does not define the end of a structure.
 
 ## Example
 
-This example uses the  **Exit** statement to exit a **For...Next** loop, a **Do...Loop**, and a **Sub** procedure.
+This example uses the **Exit** statement to exit a **For...Next** loop, a **Do...Loop**, and a **Sub** procedure.
 
 
 ```vb
@@ -57,4 +59,9 @@ Dim I, MyNum
 End Sub
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

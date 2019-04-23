@@ -1,12 +1,13 @@
 ---
-title: ListEntries Object (Word)
+title: ListEntries object (Word)
 ms.prod: word
 ms.assetid: cfd3c706-5b69-338f-b104-e12526b89f47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListEntries Object (Word)
+# ListEntries object (Word)
 
 A collection of  **[ListEntry](Word.ListEntry.md)** objects that represent all the items in a drop-down form field.
 
@@ -63,6 +64,6 @@ MsgBox _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

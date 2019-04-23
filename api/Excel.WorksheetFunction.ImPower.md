@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImPower Method (Excel)
+title: WorksheetFunction.ImPower method (Excel)
 keywords: vbaxl10.chm137275
 f1_keywords:
 - vbaxl10.chm137275
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImPower
 ms.assetid: 00dfdca2-8609-6719-f666-c8a78998d07e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImPower Method (Excel)
+# WorksheetFunction.ImPower method (Excel)
 
 Returns a complex number in x + yi or x + yj text format raised to a power.
 
 
 ## Syntax
 
- _expression_. `ImPower`( `_Arg1_` , `_Arg2_` )
+_expression_. `ImPower`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCaches.Count
 ms.assetid: 135299b6-99f4-cb19-f52c-84a625c0e05f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the number of objects in the collection.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
+_expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the number of objects in the collection.
 
 [SlicerCaches Object](Excel.SlicerCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

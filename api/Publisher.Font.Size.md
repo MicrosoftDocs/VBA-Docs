@@ -1,5 +1,5 @@
 ---
-title: Font.Size Property (Publisher)
+title: Font.Size property (Publisher)
 keywords: vbapb10.chm5373957
 f1_keywords:
 - vbapb10.chm5373957
@@ -8,19 +8,20 @@ api_name:
 - Publisher.Font.Size
 ms.assetid: 485f68fe-c6d7-8288-042e-fc4c35c37b2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Size Property (Publisher)
+# Font.Size property (Publisher)
 
 Represents the size of the characters in the text range in points. Read/write.
 
 
 ## Syntax
 
- _expression_. **Size**
+_expression_.**Size**
 
- _expression_An expression that returns a  **Font** object.
+ _expression_ An expression that returns a  **Font** object.
 
 
 ## Return value
@@ -42,4 +43,4 @@ Sub IncreaseFontSizeOfSelection()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

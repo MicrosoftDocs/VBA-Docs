@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PercentRank_Exc Method (Excel)
+title: WorksheetFunction.PercentRank_Exc method (Excel)
 keywords: vbaxl10.chm137374
 f1_keywords:
 - vbaxl10.chm137374
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.PercentRank_Exc
 ms.assetid: 7d887f36-769c-2d02-c1cf-321d84a2bb56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.PercentRank_Exc Method (Excel)
+# WorksheetFunction.PercentRank_Exc method (Excel)
 
 Returns the rank of a value in a data set as a percentage (0..1, exclusive) of the data set.
 
 
 ## Syntax
 
- _expression_. `PercentRank_Exc`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `PercentRank_Exc`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

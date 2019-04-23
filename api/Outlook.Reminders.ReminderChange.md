@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderChange Event (Outlook)
+title: Reminders.ReminderChange event (Outlook)
 keywords: vbaol11.chm577
 f1_keywords:
 - vbaol11.chm577
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Reminders.ReminderChange
 ms.assetid: 3af06d69-9a56-170e-9a51-c92d12efd293
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminders.ReminderChange Event (Outlook)
+# Reminders.ReminderChange event (Outlook)
 
 Occurs after a reminder has been modified.
 
 
 ## Syntax
 
- _expression_. `ReminderChange`( `_ReminderObject_` )
+_expression_. `ReminderChange`( `_ReminderObject_` )
 
- _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ End Sub
 
 [Reminders Object](Outlook.Reminders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

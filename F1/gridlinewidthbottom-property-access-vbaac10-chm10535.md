@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6ea41d10-9ac3-49b5-a485-f0378132f49f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,10 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CustomControl.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/b40d8316-64c5-7039-bd72-27faf3ab4caa%28Office.15%29.aspx)
+- [CustomControl.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/b40d8316-64c5-7039-bd72-27faf3ab4caa%28Office.15%29.aspx)
 
-[CommandButton.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/693e49bf-fd74-b00f-0663-54f577179d3a%28Office.15%29.aspx)
+- [CommandButton.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/693e49bf-fd74-b00f-0663-54f577179d3a%28Office.15%29.aspx)
 
-[NavigationButton.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/ba3c1daa-63bc-666b-d170-8747b2b4a37e%28Office.15%29.aspx)
+- [NavigationButton.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/ba3c1daa-63bc-666b-d170-8747b2b4a37e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

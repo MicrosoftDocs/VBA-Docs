@@ -1,5 +1,5 @@
 ---
-title: IRTDUpdateEvent.UpdateNotify Method (Excel)
+title: IRTDUpdateEvent.UpdateNotify method (Excel)
 keywords: vbaxl10.chm500001
 f1_keywords:
 - vbaxl10.chm500001
@@ -8,19 +8,20 @@ api_name:
 - Excel.IRTDUpdateEvent.UpdateNotify
 ms.assetid: e3ae5a7e-4d8c-9eba-62ab-a24d1045bc77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IRTDUpdateEvent.UpdateNotify Method (Excel)
+# IRTDUpdateEvent.UpdateNotify method (Excel)
 
 The real-time data (RTD) server uses this method to notify Microsoft Excel that new data has been received.
 
 
 ## Syntax
 
- _expression_. `UpdateNotify`
+_expression_. `UpdateNotify`
 
- _expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
+_expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ The real-time data (RTD) server uses this method to notify Microsoft Excel that 
 
 [IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

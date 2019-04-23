@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureHorizontalScale Property (PowerPoint)
+title: FillFormat.TextureHorizontalScale property (PowerPoint)
 keywords: vbapp10.chm552029
 f1_keywords:
 - vbapp10.chm552029
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.TextureHorizontalScale
 ms.assetid: 3ffaf1b9-0657-96b4-9c28-39c111200f1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureHorizontalScale Property (PowerPoint)
+# FillFormat.TextureHorizontalScale property (PowerPoint)
 
 Returns or sets the horizontal scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureHorizontalScale`
+_expression_. `TextureHorizontalScale`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -38,3 +39,4 @@ The setting of the  **TextureHorizontalScale** property corresponds to the setti
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

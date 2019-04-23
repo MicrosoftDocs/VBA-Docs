@@ -1,5 +1,5 @@
 ---
-title: AxisGroup Property
+title: AxisGroup property (Excel Graph)
 keywords: vbagr10.chm65583
 f1_keywords:
 - vbagr10.chm65583
@@ -7,43 +7,44 @@ ms.prod: excel
 api_name:
 - Excel.AxisGroup
 ms.assetid: 453bc2f6-ca27-1b7c-8dc4-8a902c9445be
-ms.date: 06/08/2017
+ms.date: 04/09/2019
+localization_priority: Normal
 ---
 
 
-# AxisGroup Property
+# AxisGroup property (Excel Graph)
 
-AxisGroup property as it applies to the  **ChartGroup** and **Series** objects.
+The **AxisGroup** property as it applies to the **ChartGroup**, **Series**, and **Axis** objects.
 
-Returns the group for the specified chart group or series. Read/write XlAxisGroup .
+## ChartGroup and Series objects
 
+Returns the group for the specified chart group or series. Read/write **[XlAxisGroup](excel.xlaxisgroup.md)**.
 
-|XlAxisGroup can be one of these XlAxisGroup constants.|
-| **xlPrimary**|
-| **xlSecondary**|
+### Syntax
 
- _expression_. **AxisGroup**
- _expression_ Required. An expression that returns one of the above objects.
-AxisGroup property as it applies to the  **Axis** object.
-Returns the group for the specified axis. Read-only XlAxisGroup .
+_expression_.**AxisGroup**
+
+_expression_ Required. An expression that returns a **[ChartGroup](excel.chartgroup-graph-object.md)** or **[Series](excel.series-graph-object.md)** object.
 
 
-|XlAxisGroup can be one of these XlAxisGroup constants.|
-| **xlPrimary**|
-| **xlSecondary**|
+## Axis object
 
- _expression_. **AxisGroup**
- _expression_ Required. An expression that returns one of the above objects.
+Returns the group for the specified axis. Read-only **[XlAxisGroup](excel.xlaxisgroup.md)**.
 
-## Remarks
+### Syntax
 
-For 3-D charts, only  **xlPrimary** is valid.
+_expression_.**AxisGroup**
+
+_expression_ Required. An expression that returns an **[Axis](excel.axis-graph-object.md)** object.
+
+### Remarks
+
+For 3D charts, only **xlPrimary** is valid.
 
 
-## Example
+### Example
 
 This example deletes the value axis if it's in the secondary group.
-
 
 ```vb
 With myChart.Axes(xlValue) 
@@ -51,4 +52,4 @@ With myChart.Axes(xlValue)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

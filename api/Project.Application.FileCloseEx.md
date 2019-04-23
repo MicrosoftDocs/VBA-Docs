@@ -1,5 +1,5 @@
 ---
-title: Application.FileCloseEx Method (Project)
+title: Application.FileCloseEx method (Project)
 keywords: vbapj.chm103
 f1_keywords:
 - vbapj.chm103
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FileCloseEx
 ms.assetid: 56e6eec6-6031-312b-fba5-50db7b43f0b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileCloseEx Method (Project)
+# Application.FileCloseEx method (Project)
 
 Closes the active project.
 
 
 ## Syntax
 
- _expression_. `FileCloseEx`( ` _Save_`, ` _NoAuto_`, ` _CheckIn_` )
+_expression_. `FileCloseEx`( `_Save_`, `_NoAuto_`, `_CheckIn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ Sub SaveAndCloseActiveProject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

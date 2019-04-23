@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Lookup Method (Excel)
+title: WorksheetFunction.Lookup method (Excel)
 keywords: vbaxl10.chm137089
 f1_keywords:
 - vbaxl10.chm137089
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Lookup
 ms.assetid: 0088c289-2ef5-78ea-68e2-1b10d077e775
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Lookup Method (Excel)
+# WorksheetFunction.Lookup method (Excel)
 
 Returns a value either from a one-row or one-column range or from an array. The LOOKUP function has two syntax forms: the vector form and the array form.
 
@@ -20,7 +21,7 @@ Returns a value either from a one-row or one-column range or from an array. The 
 
 _expression_. `Lookup`(`Arg1`, `Arg2`, `Arg3`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -85,3 +86,4 @@ The array form of LOOKUP is very similar to the HLOOKUP and VLOOKUP functions. T
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

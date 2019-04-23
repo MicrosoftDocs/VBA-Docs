@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LinEst Method (Excel)
+title: WorksheetFunction.LinEst method (Excel)
 keywords: vbaxl10.chm137103
 f1_keywords:
 - vbaxl10.chm137103
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.LinEst
 ms.assetid: dc0f830a-0d44-d712-d44b-19f419919f73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.LinEst Method (Excel)
+# WorksheetFunction.LinEst method (Excel)
 
 Calculates the statistics for a line by using the "least squares" method to calculate a straight line that best fits your data, and returns an array that describes the line. Because this function returns an array of values, it must be entered as an array formula.
 
@@ -20,7 +21,7 @@ Calculates the statistics for a line by using the "least squares" method to calc
 
 _expression_. `LinEst`(`Arg1` , `Arg2` , `Arg3` , `Arg4`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -115,3 +116,4 @@ The following illustration shows the order in which the additional regression st
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

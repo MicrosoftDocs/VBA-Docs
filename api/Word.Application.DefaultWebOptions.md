@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultWebOptions Method (Word)
+title: Application.DefaultWebOptions method (Word)
 keywords: vbawd10.chm158335381
 f1_keywords:
 - vbawd10.chm158335381
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.DefaultWebOptions
 ms.assetid: ee683d3c-b331-cccd-27ec-b3258b42961e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DefaultWebOptions Method (Word)
+# Application.DefaultWebOptions method (Word)
 
 Returns the  **[DefaultWebOptions](Word.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Word whenever you save a document as a Web page or open a Web page.
 
 
 ## Syntax
 
- _expression_. `DefaultWebOptions`
+_expression_. `DefaultWebOptions`
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Return value
@@ -50,3 +51,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

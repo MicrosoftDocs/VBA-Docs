@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.UserInitials Property (Visio)
+title: ApplicationSettings.UserInitials property (Visio)
 keywords: vis_sdr.chm16251485
 f1_keywords:
 - vis_sdr.chm16251485
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.UserInitials
 ms.assetid: cb134c38-52aa-53ef-cfc8-708d3b4a7887
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.UserInitials Property (Visio)
+# ApplicationSettings.UserInitials property (Visio)
 
 Determines the user initials associated with the Microsoft Visio file. Read/write.
 
 
 ## Syntax
 
- _expression_. `UserInitials`
+_expression_. `UserInitials`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -32,4 +33,4 @@ Determines the user initials associated with the Microsoft Visio file. Read/writ
 
 Setting the  **UserInitials** property is equivalent to setting the **Initials** option on the **General** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

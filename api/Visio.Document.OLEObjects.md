@@ -1,5 +1,5 @@
 ---
-title: Document.OLEObjects Property (Visio)
+title: Document.OLEObjects property (Visio)
 keywords: vis_sdr.chm10513965
 f1_keywords:
 - vis_sdr.chm10513965
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.OLEObjects
 ms.assetid: 3cb58d69-2287-2dbc-a6fb-f8a1ec9cf854
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.OLEObjects Property (Visio)
+# Document.OLEObjects property (Visio)
 
 Returns the  **OLEObjects** collection of a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `OLEObjects`
+_expression_. `OLEObjects`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -57,4 +58,4 @@ Public Sub OLEObjects_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

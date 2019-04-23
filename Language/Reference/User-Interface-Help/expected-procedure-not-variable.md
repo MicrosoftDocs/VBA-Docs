@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d79cc806-358d-889e-6a54-b5d2c140ef7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ There is no [procedure](../../Glossary/vbe-glossary.md#procedure) by this name i
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

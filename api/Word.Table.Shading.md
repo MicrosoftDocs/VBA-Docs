@@ -1,5 +1,5 @@
 ---
-title: Table.Shading Property (Word)
+title: Table.Shading property (Word)
 keywords: vbawd10.chm156303464
 f1_keywords:
 - vbawd10.chm156303464
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.Shading
 ms.assetid: 0c5c0ebe-d7cb-ff55-c77c-2c0c36a6c98a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Shading Property (Word)
+# Table.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified object.
 
 
 ## Syntax
 
- _expression_. `Shading`
+_expression_. `Shading`
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

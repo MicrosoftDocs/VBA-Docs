@@ -1,5 +1,5 @@
 ---
-title: Project.CheckIn Method (Project)
+title: Project.CheckIn method (Project)
 keywords: vbapj.chm132592
 f1_keywords:
 - vbapj.chm132592
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.CheckIn
 ms.assetid: 9620bd94-4b75-5c7e-2993-5018c5bb84e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CheckIn Method (Project)
+# Project.CheckIn method (Project)
 
 Checks in the working copy of the project from a local computer to the SharePoint document library, and sets the local project to read-only so that it cannot be edited locally.
 
 
 ## Syntax
 
- _expression_. `CheckIn`( ` _SaveChanges_`, ` _Comment_`, ` _MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_`, `_Comment_`, `_MakePublic_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -37,4 +38,4 @@ Checks in the working copy of the project from a local computer to the SharePoin
 
  The **CheckIn** method also closes the project after it is checked in.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

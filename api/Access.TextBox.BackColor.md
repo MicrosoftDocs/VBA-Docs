@@ -7,35 +7,35 @@ ms.prod: access
 api_name:
 - Access.TextBox.BackColor
 ms.assetid: 7880c596-7a47-39b6-74ad-8036355a8e0f
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # TextBox.BackColor property (Access)
 
-Gets or sets the interior color of the specified object. Read/write  **Long**.
+Gets or sets the interior color of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `BackColor`
+_expression_.**BackColor**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks
 
-The  **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
+The **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
-To use the  **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
+To use the **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
 
 
 ## Example
 
-The following example uses the  **RGB** function to set the , **BackColor**, and **ForeColor** properties depending on the value of the `txtPastDue` text box. You can also use the **QBColor** function to set these properties. Putting the following code in the Form_Current( ) event sets the control display characteristics as soon as the user opens a form or moves to a new record.
-
+The following example uses the **RGB** function to set the **BorderColor**, **BackColor**, and **ForeColor** properties depending on the value of the **txtPastDue** text box. You can also use the **QBColor** function to set these properties. Putting the following code in the **Form_Current( )** event sets the control display characteristics as soon as the user opens a form or moves to a new record.
 
 ```vb
 Sub Form_Current() 
@@ -64,8 +64,4 @@ End Sub
 ```
 
 
-## See also
-
-
-[TextBox Object](Access.TextBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

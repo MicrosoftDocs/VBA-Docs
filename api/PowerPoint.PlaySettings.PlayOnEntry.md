@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.PlayOnEntry Property (PowerPoint)
+title: PlaySettings.PlayOnEntry property (PowerPoint)
 keywords: vbapp10.chm568006
 f1_keywords:
 - vbapp10.chm568006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaySettings.PlayOnEntry
 ms.assetid: 63a226b9-b0f2-b739-ced2-f4e57a91b5f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaySettings.PlayOnEntry Property (PowerPoint)
+# PlaySettings.PlayOnEntry property (PowerPoint)
 
 Determines whether the specified movie or sound is played automatically when it is animated. Read/write.
 
 
 ## Syntax
 
- _expression_. `PlayOnEntry`
+_expression_. `PlayOnEntry`
 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
@@ -38,7 +39,7 @@ The value of the  **PlayOnEntry** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified movie or sound is not played automatically when it is animated.|
 |**msoTrue**| The specified movie or sound is played automatically when it is animated.|
@@ -60,3 +61,4 @@ OLEobj.AnimationSettings.PlaySettings.PlayOnEntry = msoTrue
 
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

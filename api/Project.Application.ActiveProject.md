@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveProject Property (Project)
+title: Application.ActiveProject property (Project)
 keywords: vbapj.chm131377
 f1_keywords:
 - vbapj.chm131377
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ActiveProject
 ms.assetid: 07844166-ca9b-15eb-a5e2-6f00a7c0a030
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveProject Property (Project)
+# Application.ActiveProject property (Project)
 
 Gets a  **[Project](Project.Project.md)** object that represents the active project. Read-only **Project**.
 
 
 ## Syntax
 
- _expression_. `ActiveProject`
+_expression_. `ActiveProject`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Sub SaveAndNoteTime()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

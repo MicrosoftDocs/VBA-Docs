@@ -1,5 +1,5 @@
 ---
-title: Options.EnableMisusedWordsDictionary Property (Word)
+title: Options.EnableMisusedWordsDictionary property (Word)
 keywords: vbawd10.chm162988370
 f1_keywords:
 - vbawd10.chm162988370
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.EnableMisusedWordsDictionary
 ms.assetid: 53ec74bd-d1fb-39ee-6ddb-4cca840c13dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.EnableMisusedWordsDictionary Property (Word)
+# Options.EnableMisusedWordsDictionary property (Word)
 
- **True** if Microsoft Word checks for misused words when checking the spelling and grammar in a document. Read/write **Boolean** .
+ **True** if Microsoft Word checks for misused words when checking the spelling and grammar in a document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableMisusedWordsDictionary`
+_expression_. `EnableMisusedWordsDictionary`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -43,3 +44,4 @@ Options.EnableMisusedWordsDictionary = False
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

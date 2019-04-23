@@ -1,5 +1,5 @@
 ---
-title: Options.UseCatalogAtStartup Property (Publisher)
+title: Options.UseCatalogAtStartup property (Publisher)
 keywords: vbapb10.chm1048612
 f1_keywords:
 - vbapb10.chm1048612
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.UseCatalogAtStartup
 ms.assetid: 7b0cfce9-92f1-5491-c550-421d1c848e0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.UseCatalogAtStartup Property (Publisher)
+# Options.UseCatalogAtStartup property (Publisher)
 
  **True** for Microsoft Publisher to show the catalog when starting. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **UseCatalogAtStartup**
+_expression_.**UseCatalogAtStartup**
 
  _expression_ A variable that represents an  **Options** object.
 
@@ -46,4 +47,4 @@ Sub SetGlobalOptions()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

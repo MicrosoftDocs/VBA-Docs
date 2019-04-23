@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.NewWindow Property (Visio)
+title: Hyperlink.NewWindow property (Visio)
 keywords: vis_sdr.chm15013945
 f1_keywords:
 - vis_sdr.chm15013945
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlink.NewWindow
 ms.assetid: a86cb7c6-c1e5-eb54-09ce-6f111c3a42ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.NewWindow Property (Visio)
+# Hyperlink.NewWindow property (Visio)
 
 Determines whether Microsoft Visio opens a window in a new location when it follows a hyperlink to open a Web page or another Visio document. Read/write.
 
 
 ## Syntax
 
- _expression_. `NewWindow`
+_expression_. `NewWindow`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
@@ -57,4 +58,4 @@ Public Sub NewWindow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

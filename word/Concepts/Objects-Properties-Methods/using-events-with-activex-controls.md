@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: a344a964-e5f8-b6f1-e1eb-3c2d1fea9fb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,3 +38,4 @@ End Sub
 To see your event procedure run, switch back to Word with the document that includes the check box displayed. Click the **Exit Design Mode** button on the **Control Toolbox**. Select or clear the check box and then click another element in the document. The check box control loses the focus and your LostFocus procedure runs; a message box is displayed with either "True" or "False."
 Word implements the **LostFocus** and **GotFocus** events for ActiveX controls in a Word document. The other events listed in the **Procedure** drop-down list box in are documented in Microsoft Forms Help.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

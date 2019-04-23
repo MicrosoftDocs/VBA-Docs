@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dec2Hex Method (Excel)
+title: WorksheetFunction.Dec2Hex method (Excel)
 keywords: vbaxl10.chm137265
 f1_keywords:
 - vbaxl10.chm137265
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Dec2Hex
 ms.assetid: 32e8f754-9d67-1b99-08d3-1eee27237369
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Dec2Hex Method (Excel)
+# WorksheetFunction.Dec2Hex method (Excel)
 
 Converts a decimal number to hexadecimal.
 
 
 ## Syntax
 
- _expression_. `Dec2Hex`( `_Arg1_` , `_Arg2_` )
+_expression_. `Dec2Hex`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

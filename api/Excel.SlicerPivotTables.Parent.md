@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerPivotTables.Parent
 ms.assetid: 98ae0b14-f243-8372-9973-74cf6a55620a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent o
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
+_expression_ A variable that represents a [SlicerPivotTables](Excel.SlicerPivotTables.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent o
 
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

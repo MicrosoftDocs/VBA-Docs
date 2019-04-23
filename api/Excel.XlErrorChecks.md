@@ -1,14 +1,15 @@
 ---
-title: xlErrorChecks enumeration (Excel)
+title: XlErrorChecks enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorChecks
 ms.assetid: fbc558d4-779b-0256-9dae-92e783008f4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorChecks enumeration (Excel)
+# XlErrorChecks enumeration (Excel)
 
 Specifies the type of error object to be retrieved from the  **Errors** collection.
 
@@ -26,3 +27,4 @@ Specifies the type of error object to be retrieved from the  **Errors** collecti
 | **xlTextDate**|2|Date entered as text.|
 | **xlUnlockedFormulaCells**|6|Formula cells are unlocked.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

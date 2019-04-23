@@ -1,21 +1,22 @@
 ---
-title: ViewSingle.Apply Method (Project)
+title: ViewSingle.Apply method (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewSingle.Apply
 ms.assetid: eafd9cdd-bb4f-51c1-4639-d852dec3f3f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewSingle.Apply Method (Project)
+# ViewSingle.Apply method (Project)
 
 Applies the single view.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
@@ -24,4 +25,4 @@ Applies the single view.
 
  **Nothing**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

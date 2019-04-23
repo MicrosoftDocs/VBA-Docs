@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6ed0992f-912f-10ca-27de-4e3c9d6a2f71
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -31,10 +32,9 @@ Forms!Employees.FilterOn = True
 
 The  _criteria_ argument evaluates to the following string:
 
-```sql
-"[HireDate] >= #1-1-93# AND [Title] = 'Sales Representative'"
-```
+    "[HireDate] >= #1-1-93# AND [Title] = 'Sales Representative'"
 
 > [!TIP] 
 > To troubleshoot an expression in the  _criteria_ argument, break the expression into smaller components and test each individually in the Immediate window. When all of the components are working correctly, put them back together one at a time until the complete expression works correctly.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

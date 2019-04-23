@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 07c650af-21b4-4022-a58f-7cb894b54471
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.FilterOnLoad property (Access)](http://msdn.microsoft.com/library/37d0e39d-dfd5-c2b7-e549-9b165a90ceb9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

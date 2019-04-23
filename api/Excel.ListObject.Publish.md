@@ -1,5 +1,5 @@
 ---
-title: ListObject.Publish Method (Excel)
+title: ListObject.Publish method (Excel)
 keywords: vbaxl10.chm734074
 f1_keywords:
 - vbaxl10.chm734074
@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.Publish
 ms.assetid: 8b25819d-51c3-f505-8b9c-184355c48055
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListObject.Publish Method (Excel)
+# ListObject.Publish method (Excel)
 
 Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is running Microsoft SharePoint Foundation.
 
 
 ## Syntax
 
- _expression_. `Publish`( `_Target_` , `_LinkSource_` )
+_expression_. `Publish`( `_Target_` , `_LinkSource_` )
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ If the  **ListObject** object is not currently linked to a list on a SharePoint 
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

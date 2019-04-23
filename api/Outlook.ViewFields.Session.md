@@ -1,5 +1,5 @@
 ---
-title: ViewFields.Session Property (Outlook)
+title: ViewFields.Session property (Outlook)
 keywords: vbaol11.chm2548
 f1_keywords:
 - vbaol11.chm2548
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewFields.Session
 ms.assetid: 480ac826-b966-9204-8850-214b53a1b0da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewFields.Session Property (Outlook)
+# ViewFields.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](Outlook.ViewFields.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [ViewFields Object](Outlook.ViewFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

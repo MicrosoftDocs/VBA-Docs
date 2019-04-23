@@ -1,5 +1,5 @@
 ---
-title: OMath.Type Property (Word)
+title: OMath.Type property (Word)
 keywords: vbawd10.chm176357481
 f1_keywords:
 - vbawd10.chm176357481
@@ -8,17 +8,18 @@ api_name:
 - Word.OMath.Type
 ms.assetid: d546f006-dc43-343b-808e-b0230d3f3391
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OMath.Type Property (Word)
+# OMath.Type property (Word)
 
 Returns or sets a  **WdOMathType** constant that represents whether an equation is displayed inline with the text around it or displayed on its own line. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ An expression that returns an [OMath](./Word.OMath.md) object.
 
@@ -45,3 +46,4 @@ objEq.Type = wdOMathInline
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

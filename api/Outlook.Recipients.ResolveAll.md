@@ -1,5 +1,5 @@
 ---
-title: Recipients.ResolveAll Method (Outlook)
+title: Recipients.ResolveAll method (Outlook)
 keywords: vbaol11.chm234
 f1_keywords:
 - vbaol11.chm234
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Recipients.ResolveAll
 ms.assetid: 82404dc6-af4e-f32d-68b2-9451328b5ca6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Recipients.ResolveAll Method (Outlook)
+# Recipients.ResolveAll method (Outlook)
 
 Attempts to resolve all the  **[Recipient](Outlook.Recipient.md)** objects in the **[Recipients](Outlook.Recipients.md)** collection against the Address Book.
 
 
 ## Syntax
 
- _expression_. `ResolveAll`
+_expression_. `ResolveAll`
 
- _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
+_expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
 
 ## Return value
@@ -77,3 +78,4 @@ End Sub
 
 [Recipients Object](Outlook.Recipients.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

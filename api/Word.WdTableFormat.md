@@ -1,14 +1,15 @@
 ---
-title: WdTableFormat Enumeration (Word)
+title: WdTableFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTableFormat
 ms.assetid: e61e81ce-e232-5117-68a5-6cd586f0b0b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTableFormat Enumeration (Word)
+# WdTableFormat enumeration (Word)
 
 Specifies the predefined format to apply to a table.
 
@@ -16,9 +17,9 @@ Specifies the predefined format to apply to a table.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **wdTableFormat3DEffects1**|32|3-D effects format number 1.|
-| **wdTableFormat3DEffects2**|33|3-D effects format number 2.|
-| **wdTableFormat3DEffects3**|34|3-D effects format number 3.|
+| **wdTableFormat3DEffects1**|32|3D effects format number 1.|
+| **wdTableFormat3DEffects2**|33|3D effects format number 2.|
+| **wdTableFormat3DEffects3**|34|3D effects format number 3.|
 | **wdTableFormatClassic1**|4|Classic format number 1.|
 | **wdTableFormatClassic2**|5|Classic format number 2.|
 | **wdTableFormatClassic3**|6|Classic format number 3.|
@@ -60,3 +61,4 @@ Specifies the predefined format to apply to a table.
 | **wdTableFormatWeb2**|41|Web format number 2.|
 | **wdTableFormatWeb3**|42|Web format number 3.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

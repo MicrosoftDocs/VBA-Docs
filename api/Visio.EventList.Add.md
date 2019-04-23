@@ -1,5 +1,5 @@
 ---
-title: EventList.Add Method (Visio)
+title: EventList.Add method (Visio)
 keywords: vis_sdr.chm12716665
 f1_keywords:
 - vis_sdr.chm12716665
@@ -8,17 +8,18 @@ api_name:
 - Visio.EventList.Add
 ms.assetid: 4deacea0-f4dc-bec6-31d0-bb9a060812f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EventList.Add Method (Visio)
+# EventList.Add method (Visio)
 
 Adds an  **Event** object that runs an add-on when an event occurs. The **Event** object is added to the **EventList** collection of the source object whose events you want to receive.
 
 
 ## Syntax
 
- _expression_. `Add`( `_EventCode_` , `_Action_` , `_Target_` , `_TargetArgs_` )
+_expression_.**Add**( `_EventCode_` , `_Action_` , `_Target_` , `_TargetArgs_` )
 
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 
@@ -30,7 +31,7 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventCode_|Required| **Integer**|The event(s) to capture.|
-| _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon** , a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
+| _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon**, a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
 | _Target_|Required| **String**|The name of your add-on.|
 | _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 
@@ -45,11 +46,11 @@ The source object whose  **EventList** collection contains the **Event** object 
 
 Creating  **Event** objects is a common way to handle events from C++ or other non-Microsoft Visual Basic solutions. When you use the Visual Basic **WithEvents** keyword to handle events, all the events in a source object's event set fire, but when you create **Event** objects, your program will only be notified of the events you select. Depending on your solution, this may result in improved performance.
 
- **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True** .
+ **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True**.
 
-The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event** , **Action** (**visActCodeRunAddon**), **Target** , and **TargetArgs** properties.
+The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event**, **Action** (**visActCodeRunAddon**), **Target**, and **TargetArgs** properties.
 
-Event codes are declared by the Visio type library and have the prefix  **visEvt** . Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
+Event codes are declared by the Visio type library and have the prefix  **visEvt**. Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
 To create an  **Event** object that advises the caller's sink object about an event, see the **AddAdvise** method.
 
@@ -90,4 +91,4 @@ Public Sub AddEvent_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

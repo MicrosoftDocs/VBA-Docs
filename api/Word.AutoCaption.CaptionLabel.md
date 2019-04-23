@@ -1,5 +1,5 @@
 ---
-title: AutoCaption.CaptionLabel Property (Word)
+title: AutoCaption.CaptionLabel property (Word)
 keywords: vbawd10.chm159055875
 f1_keywords:
 - vbawd10.chm159055875
@@ -8,17 +8,18 @@ api_name:
 - Word.AutoCaption.CaptionLabel
 ms.assetid: 8e4864e4-e42b-ccc0-9611-eda7753089f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCaption.CaptionLabel Property (Word)
+# AutoCaption.CaptionLabel property (Word)
 
-Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write  **Variant** .
+Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CaptionLabel`
+_expression_. `CaptionLabel`
 
  _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
 
@@ -63,3 +64,4 @@ ActiveDocument.Tables.Add Range:=Selection.Range, NumRows:=2, _
 
 [AutoCaption Object](Word.AutoCaption.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

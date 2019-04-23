@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.ListLevels Property (Word)
+title: ListTemplate.ListLevels property (Word)
 keywords: vbawd10.chm160366594
 f1_keywords:
 - vbawd10.chm160366594
@@ -8,17 +8,18 @@ api_name:
 - Word.ListTemplate.ListLevels
 ms.assetid: ed3c036d-b9be-eeb1-5894-ddf1e2a5f8df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListTemplate.ListLevels Property (Word)
+# ListTemplate.ListLevels property (Word)
 
-Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate** .
+Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate**.
 
 
 ## Syntax
 
- _expression_. `ListLevels`
+_expression_. `ListLevels`
 
  _expression_ An expression that returns a '[ListTemplate](Word.ListTemplate.md)' object.
 
@@ -47,3 +48,4 @@ Next mylevel
 
 [ListTemplate Object](Word.ListTemplate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

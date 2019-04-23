@@ -1,21 +1,22 @@
 ---
-title: ViewsCombination.Item Property (Project)
+title: ViewsCombination.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ViewsCombination.Item
 ms.assetid: be09b14c-d305-a640-1767-2a6f96fd53c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewsCombination.Item Property (Project)
+# ViewsCombination.Item property (Project)
 
 Gets a single  **View** object from the **ViewsCombination** collection. Read-only **View**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'ViewsCombination' object.
 
@@ -32,3 +33,5 @@ Gets a single  **View** object from the **ViewsCombination** collection. Read-on
 
 
 [ViewsCombination Collection Object](Project.viewscombination(object).md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

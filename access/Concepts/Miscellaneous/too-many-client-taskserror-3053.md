@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 9fdb1f27-ee42-34f9-754d-a86fe3707da9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ You have too many copies of Microsoft Visual Basic or Visual Basic applications 
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

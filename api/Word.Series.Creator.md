@@ -1,5 +1,5 @@
 ---
-title: Series.Creator Property (Word)
+title: Series.Creator property (Word)
 keywords: vbawd10.chm123732117
 f1_keywords:
 - vbawd10.chm123732117
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.Creator
 ms.assetid: 640e4150-6aa8-1001-de42-c2fbe5f94460
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Creator Property (Word)
+# Series.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

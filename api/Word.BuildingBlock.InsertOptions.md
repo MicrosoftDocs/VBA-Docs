@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.InsertOptions Property (Word)
+title: BuildingBlock.InsertOptions property (Word)
 keywords: vbawd10.chm203620359
 f1_keywords:
 - vbawd10.chm203620359
@@ -8,17 +8,18 @@ api_name:
 - Word.BuildingBlock.InsertOptions
 ms.assetid: cf9c11d3-3f96-f8bb-3f07-1500cfcf3d2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlock.InsertOptions Property (Word)
+# BuildingBlock.InsertOptions property (Word)
 
 Returns or sets a  **Long** that represents how to insert the contents of a building block into a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `InsertOptions`
+_expression_. `InsertOptions`
 
  _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 
@@ -33,3 +34,4 @@ The value of the  **InsertOptions** property can be any **[WdDocPartInsertOption
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.Windows Property (Visio)
+title: Window.Windows property (Visio)
 keywords: vis_sdr.chm11614665
 f1_keywords:
 - vis_sdr.chm11614665
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.Windows
 ms.assetid: 6e063a03-71e5-d2e2-d9d0-38fcae604d26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Windows Property (Visio)
+# Window.Windows property (Visio)
 
 Returns the  **Windows** collection for a Microsoft Visio instance or window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Windows`
+_expression_. `Windows`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -59,4 +60,4 @@ Public Sub Windows_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

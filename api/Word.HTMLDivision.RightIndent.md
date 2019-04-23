@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.RightIndent Property (Word)
+title: HTMLDivision.RightIndent property (Word)
 keywords: vbawd10.chm166133764
 f1_keywords:
 - vbawd10.chm166133764
@@ -8,19 +8,20 @@ api_name:
 - Word.HTMLDivision.RightIndent
 ms.assetid: d691b48c-343f-5b4a-666b-83cae994b8b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HTMLDivision.RightIndent Property (Word)
+# HTMLDivision.RightIndent property (Word)
 
-Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RightIndent`
+_expression_. `RightIndent`
 
- _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
+_expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.Paragraphs.RightIndent = InchesToPoints(1)
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

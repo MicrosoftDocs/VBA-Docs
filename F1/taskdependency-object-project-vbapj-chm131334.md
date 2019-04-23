@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 29f4707b-bd0d-44f5-aeb7-92e78895d939
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Tables Object (Project)](http://msdn.microsoft.com/library/0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

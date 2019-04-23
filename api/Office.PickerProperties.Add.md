@@ -1,5 +1,5 @@
 ---
-title: PickerProperties.Add Method (Office)
+title: PickerProperties.Add method (Office)
 keywords: vbaof11.chm337003
 f1_keywords:
 - vbaof11.chm337003
@@ -7,31 +7,30 @@ ms.prod: office
 api_name:
 - Office.PickerProperties.Add
 ms.assetid: a52c9607-1b0a-c37e-a3af-dc0550c64deb
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# PickerProperties.Add Method (Office)
+# PickerProperties.Add method (Office)
 
-
+Adds a **[PickerProperty](Office.PickerProperty.md)** object to the collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Id_`, `_Value_`, `_Type_` )
+_expression_.**Add** (_Id_, _Value_, _Type_)
 
- _expression_ An expression that returns a [PickerProperties](./Office.PickerProperties.md) object.
+_expression_ An expression that returns a **[PickerProperties](Office.PickerProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|Key name of the property.|
 | _Value_|Required|**String**|Value of the property.|
-| _Type_|Required|**MsoPickerField**|Type of the property.|
+| _Type_|Required|**[MsoPickerField](office.msopickerfield.md)**|Type of the property.|
 
 ## Return value
 
@@ -40,7 +39,7 @@ PickerProperty
 
 ## Example
 
-The following code sets various properties of the  **PickerDialog** object.
+The following code sets various properties of the **[PickerDialog](office.pickerdialog.md)** object.
 
 
 ```vb
@@ -59,10 +58,8 @@ Set objPickerProperty = objPickerProperties.Add("SiteUrl", "https://my", msoPick
 
 ## See also
 
-
-[PickerProperties Object](Office.PickerProperties.md)
-
+- [PickerProperties object members](overview/Library-Reference/pickerproperties-members-office.md)
 
 
-[PickerProperties Object Members](./overview/Library-Reference/pickerproperties-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

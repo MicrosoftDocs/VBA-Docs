@@ -8,19 +8,20 @@ api_name:
 - Excel.TextEffectFormat.PresetShape
 ms.assetid: d85bcdf6-0ad4-4a3d-ed3a-40a96a4b63a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextEffectFormat.PresetShape property (Excel)
 
-Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape** .
+Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape**.
 
 
 ## Syntax
 
- _expression_. `PresetShape`
+_expression_. `PresetShape`
 
- _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -75,7 +76,7 @@ Setting the  **[PresetTextEffect](Excel.TextEffectFormat.PresetTextEffect.md)** 
 
 ## Example
 
-This example sets the shape of all WordArt on  `myDocument` to a chevron whose center points down.
+This example sets the shape of all WordArt on  _myDocument_ to a chevron whose center points down.
 
 
 ```vb
@@ -93,3 +94,4 @@ Next
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

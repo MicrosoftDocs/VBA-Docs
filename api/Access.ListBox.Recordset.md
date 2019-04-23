@@ -7,39 +7,35 @@ ms.prod: access
 api_name:
 - Access.ListBox.Recordset
 ms.assetid: ead14d35-eb76-6487-ac9e-329b5d38366c
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
 # ListBox.Recordset property (Access)
 
-Returns or sets the ADO  **Recordset** or DAO **[Recordset](overview/Access.md)** object representing the record source for the specified object. Read/write **Object**.
+Returns or sets the ADO **Recordset** or DAO **Recordset** object that represents the record source for the specified object. Read/write **Object**.
 
 
 ## Syntax
 
-_expression_. `Recordset`
+_expression_.**Recordset**
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Remarks
 
-The  **Recordset** property returns the recordset object that provides the data being browsed in a form, report, list box control, or combo box control. If a form is based on a query, for example, referring to the **Recordset** property is the equivalent of cloning a **Recordset** object by using the same query. However, unlike using the **RecordsetClone** property, changing which record is current in the recordset returned by the form's **Recordset** property also sets the current record of the form.
+The **Recordset** property returns the **Recordset** object that provides the data being browsed in a form, report, list box control, or combo box control. If a form is based on a query, for example, referring to the **Recordset** property is the equivalent of cloning a **Recordset** object by using the same query. However, unlike using the **RecordsetClone** property, changing which record is current in the recordset returned by the form's **Recordset** property also sets the current record of the form.
 
-The read/write behavior of the  **Recordset** property is determined by the type of recordset (ADO or DAO) and the type of data (Access or SQL) contained in the recordset identified by the property.
+The read/write behavior of the **Recordset** property is determined by the type of recordset (ADO or DAO) and the type of data (Access or SQL) contained in the recordset identified by the property.
 
-
-
-|**Recordset type**|**Based on SQL data**|**Based on data stored by the Access database engine**|
+|Recordset type|Based on SQL data|Based on data stored by the Access database engine|
 |:-----|:-----|:-----|
 |**ADO**|Read/Write|Read/Write|
 |**DAO**|N/A|Read/Write|
 
-The following example opens a form, opens a recordset, and then binds the form to the recordset by setting the form's  **Recordset** property to the newly created **Recordset** object.
-
-
-
+The following example opens a form, opens a recordset, and then binds the form to the recordset by setting the form's **Recordset** property to the newly created **Recordset** object.
 
 ```vb
 Global rstSuppliers As ADODB.Recordset 
@@ -53,34 +49,29 @@ Sub MakeRW()
 End Sub
 ```
 
-Use the  **Recordset** property:
+Use the **Recordset** property to:
 
-
-- To use methods with the  **Recordset** object that aren't directly supported on forms. For example, you can use the **Recordset** property with the ADO **Find** or DAO **Find** methods in a custom dialog for finding a record.
+- Use methods with the **Recordset** object that aren't directly supported on forms. For example, you can use the **Recordset** property with the ADO **Find** or DAO **Find** methods in a custom dialog for finding a record.
     
-- To wrap a transaction (which can be rolled back) around a set of edits that affect multiple forms.
+- Wrap a transaction (which can be rolled back) around a set of edits that affect multiple forms.
     
-Changing a form's  **Recordset** property may also change the **RecordSource**, **RecordsetType**, and **RecordLocks** properties. Also, some data-related properties may be overridden, for example, the **Filter**, **FilterOn**, **OrderBy**, and **OrderByOn** properties.
+  Changing a form's **Recordset** property may also change the **RecordSource**, **RecordsetType**, and **RecordLocks** properties. Also, some data-related properties may be overridden, for example, the **Filter**, **FilterOn**, **OrderBy**, and **OrderByOn** properties.
 
-Calling the  **Requery** method of a form's recordset (for example, `Forms(0).Recordset.Requery`) can cause the form to become unbound. To refresh the data in a form bound to a recordset, set the  **RecordSource** property of the form to itself ( `Forms(0).RecordSource = Forms(0).RecordSource`).
+  Calling the **Requery** method of a form's recordset (for example, `Forms(0).Recordset.Requery`) can cause the form to become unbound. To refresh the data in a form bound to a recordset, set the **RecordSource** property of the form to itself: `Forms(0).RecordSource = Forms(0).RecordSource`.
 
-
-- To bind multiple forms to a common data set. This allows synchronization of multiple forms. For example,
+- Bind multiple forms to a common data set. This allows synchronization of multiple forms. For example:
     
+  ```vb
+    Set Me.Recordset = Forms!Form1.Recordset
+  ```
 
-
-
-```vb
-   Set Me.Recordset = Forms!Form1.Recordset
-```
-
-When a form is bound to a recordset, an error occurs if you use the Filter by Form command.
+> [!NOTE] 
+> When a form is bound to a recordset, an error occurs if you use the **Filter by Form** command.
 
 
 ## Example
 
-The following example uses the  **Recordset** property to create a new copy of the **Recordset** object from the current form and then prints the names of the fields in the Debug window.
-
+The following example uses the **Recordset** property to create a new copy of the **Recordset** object from the current form and then prints the names of the fields in the Debug window.
 
 ```vb
 Sub Print_Field_Names() 
@@ -95,10 +86,9 @@ Sub Print_Field_Names()
 End Sub
 ```
 
-The next example uses the  **Recordset** property and the **Recordset** object to synchronize a recordset with the form's current record. When a company name is selected from a combo box, the **FindFirst** method is used to locate the record for that company, causing the form to display the found record.
+<br/>
 
-
-
+The following example uses the **Recordset** property and the **Recordset** object to synchronize a recordset with the form's current record. When a company name is selected from a combo box, the **FindFirst** method is used to locate the record for that company, causing the form to display the found record.
 
 ```vb
 Sub SupplierID_AfterUpdate() 
@@ -115,10 +105,9 @@ Sub SupplierID_AfterUpdate()
 End Sub
 ```
 
-The following code helps to determine what type of recordset is returned by the  **Recordset** property under different conditions.
+<br/>
 
-
-
+The following code helps to determine what type of recordset is returned by the **Recordset** property under different conditions.
 
 ```vb
 Sub CheckRSType() 
@@ -134,8 +123,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[ListBox Object](Access.ListBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

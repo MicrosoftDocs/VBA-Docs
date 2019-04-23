@@ -3,6 +3,7 @@ title: Label.WordWrap Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8a7ad580-3492-ec0c-aa84-3634c8b76127
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,13 +14,13 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 ## Syntax
 
- _expression_. **WordWrap**
+_expression_.**WordWrap**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
 
  **True** to specify that the text wraps (default), **False** to specify that the text does not.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

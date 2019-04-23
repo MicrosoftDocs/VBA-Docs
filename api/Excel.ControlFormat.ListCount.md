@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.ListCount
 ms.assetid: 9f7b60aa-8bf9-a7ec-c198-0a6f6316cc3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.ListCount property (Excel)
 
-Returns the number of entries in a list box or combo box. Returns 0 (zero) if there are no entries in the list. Read-only  **Long** .
+Returns the number of entries in a list box or combo box. Returns 0 (zero) if there are no entries in the list. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `ListCount`
+_expression_. `ListCount`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ cf.DropDownLines = cf.ListCount
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

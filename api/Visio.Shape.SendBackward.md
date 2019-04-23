@@ -1,5 +1,5 @@
 ---
-title: Shape.SendBackward Method (Visio)
+title: Shape.SendBackward method (Visio)
 keywords: vis_sdr.chm11216540
 f1_keywords:
 - vis_sdr.chm11216540
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.SendBackward
 ms.assetid: 9e43cfd9-c2d3-9042-46e3-39e209ae54aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SendBackward Method (Visio)
+# Shape.SendBackward method (Visio)
 
 Moves a shape or selected shapes back one position in the z-order.
 
 
 ## Syntax
 
- _expression_. `SendBackward`
+_expression_. `SendBackward`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -55,4 +56,4 @@ Public Sub SendBackward_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Project.Change Event (Project)
+title: Project.Change event (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Change
 ms.assetid: ef109b59-c7be-0707-9716-13c86180c27c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.Change Event (Project)
+# Project.Change event (Project)
 
 Occurs when a change is made to data in the project. An action affecting several items at once is considered to be one change.
 
 
 ## Syntax
 
- _expression_. `Change`( ` _pj_`, )
+_expression_. `Change`( `_pj_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -110,7 +111,5 @@ End Sub
 3. Run the  **Initialize_App** procedure to start listening to the events.
     
 4. Create a new task. The event handler shows a message box every time a new task is added.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

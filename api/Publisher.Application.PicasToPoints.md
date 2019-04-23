@@ -1,5 +1,5 @@
 ---
-title: Application.PicasToPoints Method (Publisher)
+title: Application.PicasToPoints method (Publisher)
 keywords: vbapb10.chm131152
 f1_keywords:
 - vbapb10.chm131152
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.PicasToPoints
 ms.assetid: 64d3e435-dcc1-d637-7aac-cc9a9bf81e76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PicasToPoints Method (Publisher)
+# Application.PicasToPoints method (Publisher)
 
 Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PicasToPoints**(**_Value_**)
+_expression_.**PicasToPoints**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -75,3 +76,4 @@ Loop
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.DistanceFromPoint Property (Visio)
+title: Shape.DistanceFromPoint property (Visio)
 keywords: vis_sdr.chm11213425
 f1_keywords:
 - vis_sdr.chm11213425
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.DistanceFromPoint
 ms.assetid: 262b5814-3b86-c3eb-9526-96ec73836ad6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.DistanceFromPoint Property (Visio)
+# Shape.DistanceFromPoint property (Visio)
 
 Returns the distance from a shape to a point. Read-only.
 
 
 ## Syntax
 
- _expression_. `DistanceFromPoint`( `_x_` , `_y_` , `_Flags_` , `_[pvPathIndex]_` , `_[pvCurveIndex]_` , `_[pvt]_` )
+_expression_. `DistanceFromPoint`( `_x_` , `_y_` , `_Flags_` , `_[pvPathIndex]_` , `_[pvCurveIndex]_` , `_[pvt]_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -56,7 +57,7 @@ ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&xOnThis ,&yOnthis)
 
 You can use the  **PointAndDerivatives** method instead of the **Point** method if you want to find the first and second derivatives at position _t_ along the curve.
 
-If  _pvPathIndex_ or _pvCurveIndex_ is not **Null** , an **Integer** (type VT_I4) is returned. If _pvt_ isn't **Null** , **DistanceFromPoint** returns a **Double** (type VT_R8).
+If  _pvPathIndex_ or _pvCurveIndex_ is not **Null**, an **Integer** (type VT_I4) is returned. If _pvt_ isn't **Null**, **DistanceFromPoint** returns a **Double** (type VT_R8).
 
 The  **DistanceFromPoint** property considers guides to have extent and considers a shape's filled areas and paths.
 
@@ -64,7 +65,7 @@ The  _Flags_ argument can be any combination of the values of the constants defi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSpatialIncludeDataGraphics**|&H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
 | **visSpatialIncludeHidden**|&H10 |Consider hidden Geometry sections. By default, hidden Geometry sections do not influence the result. |
@@ -76,4 +77,4 @@ If the parent object has no geometry, or if  _Flags_ excludes consideration of a
 
 The  **DistanceFromPoint** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when computing its result.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

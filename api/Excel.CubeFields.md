@@ -1,5 +1,5 @@
 ---
-title: CubeFields Object (Excel)
+title: CubeFields object (Excel)
 keywords: vbaxl10.chm669072
 f1_keywords:
 - vbaxl10.chm669072
@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.CubeFields
 ms.assetid: cfb7b4f4-e9c3-45a3-daa4-fe4d3c52fb1f
-ms.date: 06/08/2017
+ms.date: 03/29/2019
+localization_priority: Normal
 ---
 
 
-# CubeFields Object (Excel)
+# CubeFields object (Excel)
 
-A collection of all  **[CubeField](Excel.CubeField.md)** objects in a PivotTable report that is based on an OLAP cube. Each **CubeField** object represents a hierarchy or measure field from the cube.
+A collection of all **[CubeField](Excel.CubeField.md)** objects in a PivotTable report that is based on an OLAP cube. Each **CubeField** object represents a hierarchy or measure field from the cube.
 
 
 ## Example
 
-Use the  **[CubeFields](Excel.PivotTable.CubeFields.md)** property to return the **CubeFields** collection. The following example creates a list of cube field names of the data fields in the first OLAP-based PivotTable report on Sheet1.
-
+Use the **[CubeFields](Excel.PivotTable.CubeFields.md)** property of the **PivotTable** object to return the **CubeFields** collection. The following example creates a list of cube field names of the data fields in the first OLAP-based PivotTable report on Sheet1.
 
 ```vb
 Set objNewSheet = Worksheets.Add 
@@ -33,10 +33,9 @@ For Each objCubeFld In _
 Next objCubeFld
 ```
 
-Use  **CubeFields** ( _index_ ), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
+<br/>
 
-
-
+Use **CubeFields** (_index_), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
 
 ```vb
 strAlphaName = _ 
@@ -44,9 +43,22 @@ strAlphaName = _
 ```
 
 
+## Methods
+
+- [AddSet](Excel.CubeFields.AddSet.md)
+- [GetMeasure](Excel.cubefields.getmeasure.md)
+
+## Properties
+
+- [Application](Excel.CubeFields.Application.md)
+- [Count](Excel.CubeFields.Count.md)
+- [Creator](Excel.CubeFields.Creator.md)
+- [Item](Excel.CubeFields.Item.md)
+- [Parent](Excel.CubeFields.Parent.md)
+
+
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

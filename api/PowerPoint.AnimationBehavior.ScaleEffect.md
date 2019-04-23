@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.ScaleEffect Property (PowerPoint)
+title: AnimationBehavior.ScaleEffect property (PowerPoint)
 keywords: vbapp10.chm657008
 f1_keywords:
 - vbapp10.chm657008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.ScaleEffect
 ms.assetid: 8e8236ca-c389-a888-5e07-42101fb92126
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.ScaleEffect Property (PowerPoint)
+# AnimationBehavior.ScaleEffect property (PowerPoint)
 
 Returns a  **[ScaleEffect](PowerPoint.ScaleEffect.md)** object for a given animation behavior. Read-only.
 
 
 ## Syntax
 
- _expression_. `ScaleEffect`
+_expression_. `ScaleEffect`
 
- _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -64,3 +65,4 @@ End Sub
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

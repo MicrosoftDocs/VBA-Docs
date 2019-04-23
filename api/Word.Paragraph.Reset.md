@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Reset Method (Word)
+title: Paragraph.Reset method (Word)
 keywords: vbawd10.chm156696888
 f1_keywords:
 - vbawd10.chm156696888
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Reset
 ms.assetid: 9a2ac15e-406e-2e83-114c-82fa2324f26a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Reset Method (Word)
+# Paragraph.Reset method (Word)
 
 Removes manual paragraph formatting (formatting not applied using a style).
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.Paragraphs(2).Reset
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

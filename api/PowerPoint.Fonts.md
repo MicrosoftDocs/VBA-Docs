@@ -1,5 +1,5 @@
 ---
-title: Fonts Object (PowerPoint)
+title: Fonts object (PowerPoint)
 keywords: vbapp10.chm528000
 f1_keywords:
 - vbapp10.chm528000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Fonts
 ms.assetid: 1a8f44ea-515f-5eb9-eab5-6204d9b1d5bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fonts Object (PowerPoint)
+# Fonts object (PowerPoint)
 
 A collection of all the  **[Font](PowerPoint.Font.md)** objects in the specified presentation.
 
@@ -46,3 +47,4 @@ If ActivePresentation.Fonts(1).Embedded = True Then
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

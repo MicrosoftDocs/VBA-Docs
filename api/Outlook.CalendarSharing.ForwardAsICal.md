@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing.ForwardAsICal Method (Outlook)
+title: CalendarSharing.ForwardAsICal method (Outlook)
 keywords: vbaol11.chm2412
 f1_keywords:
 - vbaol11.chm2412
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CalendarSharing.ForwardAsICal
 ms.assetid: b796a573-784b-6725-535e-fd156a3f233c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarSharing.ForwardAsICal Method (Outlook)
+# CalendarSharing.ForwardAsICal method (Outlook)
 
-Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as the payload of a **[MailItem](Outlook.MailItem.md)** .
+Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as the payload of a **[MailItem](Outlook.MailItem.md)**.
 
 
 ## Syntax
 
- _expression_. `ForwardAsICal`( `_MailFormat_` )
+_expression_. `ForwardAsICal`( `_MailFormat_` )
 
- _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
+ _expression_ An expression that returns a [CalendarSharing](Outlook.CalendarSharing.md) object.
 
 
 ## Parameters
@@ -43,7 +44,7 @@ The  **ForwardAsICal** method provides a single method by which you can use payl
 
 - Creates a  **MailItem** object and provides a presentation of calendar information in the body of the mail item.
     
-- Creates an iCalendar (.ics) file containing the calendar information and attaches the file to the  **MailItem** .
+- Creates an iCalendar (.ics) file containing the calendar information and attaches the file to the  **MailItem**.
     
 
 ## See also
@@ -51,3 +52,4 @@ The  **ForwardAsICal** method provides a single method by which you can use payl
 
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 90c16357-dcc3-8010-0b29-5f0446bc0d17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ An inappropriate value is assigned to a [property](../../Glossary/vbe-glossary.m
 
 
 - You tried to set one of the properties of an object or control to a value outside its permissible range. Change the property value to a valid setting. For example, the  **MousePointer** property must be set to an integer from 0 - 15 or 99.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

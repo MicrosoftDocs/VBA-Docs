@@ -1,5 +1,5 @@
 ---
-title: Interior Object
+title: Interior object (Excel Graph)
 keywords: vbagr10.chm5207570
 f1_keywords:
 - vbagr10.chm5207570
@@ -7,19 +7,25 @@ ms.prod: excel
 api_name:
 - Excel.Interior
 ms.assetid: 13a4801e-f121-2a43-cd61-cf3ac9325197
-ms.date: 06/08/2017
+ms.date: 04/06/2019
+localization_priority: Normal
 ---
 
 
-# Interior Object
+# Interior object (Excel Graph)
 
 Represents the interior of the specified object.
 
 
-## Using the Interior Object
+## Remarks
 
-Use the  **Interior** property to return the **Interior** object. The following example sets the chart area color to gray and the plot area color to green.
+Use the **[Interior](excel.interior-graph-property.md)** property to return the **Interior** object. 
 
+
+
+## Example
+
+The following example sets the chart area color to gray and the plot area color to green.
 
 ```vb
 With myChart 
@@ -28,4 +34,9 @@ With myChart
 End With
 ```
 
+## See also
 
+- [Excel Graph Visual Basic Reference](overview/excel/graph-visual-basic-reference.md)
+- [Excel Object Model Reference](overview/excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

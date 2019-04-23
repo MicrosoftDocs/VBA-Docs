@@ -1,5 +1,5 @@
 ---
-title: PbSubmitDataFormatType Enumeration (Publisher)
+title: PbSubmitDataFormatType enumeration (Publisher)
 keywords: vbapb10.chm65592
 f1_keywords:
 - vbapb10.chm65592
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbSubmitDataFormatType
 ms.assetid: 650c0362-afd8-18f2-f9a8-119baba4acf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbSubmitDataFormatType Enumeration (Publisher)
+# PbSubmitDataFormatType enumeration (Publisher)
 
 Represents the format to use when saving Web form data to a file. 
 
@@ -24,3 +25,4 @@ Represents the format to use when saving Web form data to a file.
 | **pbSubmitDataFormatRichText**|2|Saves Web form data to a formatted file.|
 | **pbSubmitDataFormatTab**|4|Saves Web form data to a tab-delimited text file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

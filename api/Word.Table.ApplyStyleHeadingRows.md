@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleHeadingRows Property (Word)
+title: Table.ApplyStyleHeadingRows property (Word)
 keywords: vbawd10.chm156303562
 f1_keywords:
 - vbawd10.chm156303562
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.ApplyStyleHeadingRows
 ms.assetid: 1c7fb6d5-9010-fded-d882-388d1e631da2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ApplyStyleHeadingRows Property (Word)
+# Table.ApplyStyleHeadingRows property (Word)
 
- **True** for Microsoft Word to apply heading-row formatting to the first row of the selected table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply heading-row formatting to the first row of the selected table. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyStyleHeadingRows`
+_expression_. `ApplyStyleHeadingRows`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
@@ -51,3 +52,4 @@ End Sub
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

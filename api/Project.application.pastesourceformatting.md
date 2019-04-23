@@ -1,20 +1,21 @@
 ---
-title: Application.PasteSourceFormatting Method (Project)
+title: Application.PasteSourceFormatting method (Project)
 keywords: vbapj.chm139
 f1_keywords:
 - vbapj.chm139
 ms.prod: project-server
 ms.assetid: 3544cad7-51d4-fd80-5aaa-396fb26a0d17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PasteSourceFormatting Method (Project)
+# Application.PasteSourceFormatting method (Project)
 Pastes a copy of a report or a shape, where the copy maintains the formatting of the source.
 
 ## Syntax
 
- _expression_. `PasteSourceFormatting`
+_expression_. `PasteSourceFormatting`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -100,3 +101,5 @@ End Sub
 [Shape.Copy Method](Project.shape.copy.md)
 [PasteDestFormatting Method](Project.application.pastedestformatting.md)
 [PasteAsPicture Method](Project.application.pasteaspicture.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DCount Method (Excel)
+title: WorksheetFunction.DCount method (Excel)
 keywords: vbaxl10.chm137094
 f1_keywords:
 - vbaxl10.chm137094
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DCount
 ms.assetid: 02b489ef-dd7c-4f10-2ba4-972314a45eb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DCount Method (Excel)
+# WorksheetFunction.DCount method (Excel)
 
 Counts the cells that contain numbers in a column of a list or database that match conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DCount`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DCount`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

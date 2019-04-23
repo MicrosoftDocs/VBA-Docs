@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.Index
 ms.assetid: 11e15859-c690-84c0-21de-73834d8738e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the index number of the **[ListColumn]
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the index number of the **[ListColumn]
 
 [ListColumn Object](Excel.ListColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

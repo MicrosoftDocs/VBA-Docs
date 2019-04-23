@@ -1,14 +1,15 @@
 ---
-title: PjLegend Enumeration (Project)
+title: PjLegend enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjLegend
 ms.assetid: f80075d7-d984-129f-5f83-099ca6c07cdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjLegend Enumeration (Project)
+# PjLegend enumeration (Project)
 
 Contains constants that specify the pages on which the legend appears.
 
@@ -20,3 +21,4 @@ Contains constants that specify the pages on which the legend appears.
 |**pjNoLegend**|0|No legend.|
 |**pjOnEveryPage**|2|Legend appears on every page.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

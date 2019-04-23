@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (Publisher)
+title: CalloutFormat.DropType property (Publisher)
 keywords: vbapb10.chm2490630
 f1_keywords:
 - vbapb10.chm2490630
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.DropType
 ms.assetid: fd4ec192-0732-e860-4ff8-e305aa0d90a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.DropType Property (Publisher)
+# CalloutFormat.DropType property (Publisher)
 
 Returns an  **MsoCalloutDropType** constant indicating where the callout line attaches to the callout text box. Read-only.
 
 
 ## Syntax
 
- _expression_. **DropType**
+_expression_.**DropType**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -30,7 +31,7 @@ MsoCalloutDropType
 
 ## Remarks
 
-The  **DropType** property value can be one of the ** [MsoCalloutDropType](./Office.MsoCalloutDropType.md)** constants declared in the Microsoft Office type library.
+The  **DropType** property value can be one of the **[MsoCalloutDropType](Office.MsoCalloutDropType.md)** constants declared in the Microsoft Office type library.
 
 If the callout drop type is  **msoCalloutDropCustom**, the values of the  **[Drop](Publisher.CalloutFormat.Drop.md)** and  **[AutoAttach](Publisher.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (where the callout points) are used to determine where the callout line attaches to the text box.
 
@@ -55,4 +56,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

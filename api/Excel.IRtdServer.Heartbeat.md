@@ -1,5 +1,5 @@
 ---
-title: IRtdServer.Heartbeat Method (Excel)
+title: IRtdServer.Heartbeat method (Excel)
 keywords: vbaxl10.chm500009
 f1_keywords:
 - vbaxl10.chm500009
@@ -8,19 +8,20 @@ api_name:
 - Excel.IRtdServer.Heartbeat
 ms.assetid: 9dc61d35-30cb-fcbe-6aaf-acb2df61d535
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IRtdServer.Heartbeat Method (Excel)
+# IRtdServer.Heartbeat method (Excel)
 
 Determines if the real-time data server is still active. Returns a  **Long** value. Zero or a negative number indicates failure; a positive number indicates that the server is active.
 
 
 ## Syntax
 
- _expression_. `Heartbeat`
+_expression_. `Heartbeat`
 
- _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
+_expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **Heartbeat** method is called by Microsoft Excel if the **[HeartbeatInterv
 
 [IRtdServer Object](Excel.IRtdServer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

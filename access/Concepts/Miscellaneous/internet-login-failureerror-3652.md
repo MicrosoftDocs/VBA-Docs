@@ -3,6 +3,7 @@ title: Internet login failure. (Error 3652)
 ms.prod: access
 ms.assetid: f787f1c0-c7cf-bf16-b69d-2a0930df46c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The server did not recognize the login information you entered.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

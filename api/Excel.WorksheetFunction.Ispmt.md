@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ispmt Method (Excel)
+title: WorksheetFunction.Ispmt method (Excel)
 keywords: vbaxl10.chm137244
 f1_keywords:
 - vbaxl10.chm137244
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Ispmt
 ms.assetid: e728944b-f15e-623b-08a4-97d45d3b8473
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Ispmt Method (Excel)
+# WorksheetFunction.Ispmt method (Excel)
 
 Calculates the interest paid during a specific period of an investment. This function is provided for compatibility with Lotus 1-2-3.
 
 
 ## Syntax
 
- _expression_. `Ispmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Ispmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

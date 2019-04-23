@@ -1,5 +1,5 @@
 ---
-title: Range.ModifyEnclosure Method (Word)
+title: Range.ModifyEnclosure method (Word)
 keywords: vbawd10.chm157155551
 f1_keywords:
 - vbawd10.chm157155551
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.ModifyEnclosure
 ms.assetid: 173c5b41-5245-4fc5-b9d9-9fd7cea0aab8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ModifyEnclosure Method (Word)
+# Range.ModifyEnclosure method (Word)
 
 Adds, modifies, or removes an enclosure around the specified character or characters.
 
 
 ## Syntax
 
- _expression_. `ModifyEnclosure`( `_Style_` , `_Symbol_` , `_EnclosedText_` )
+_expression_. `ModifyEnclosure`( `_Style_` , `_Symbol_` , `_EnclosedText_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ Selection.Range.ModifyEnclosure wdEncloseStyleLarge, _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

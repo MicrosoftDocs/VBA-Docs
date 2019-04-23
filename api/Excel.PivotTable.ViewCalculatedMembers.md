@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ViewCalculatedMembers
 ms.assetid: 2d1f752a-0bab-baa6-a9b0-e158cc9a4f09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.ViewCalculatedMembers property (Excel)
 
-When set to  **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean** .
+When set to  **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ViewCalculatedMembers`
+_expression_. `ViewCalculatedMembers`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

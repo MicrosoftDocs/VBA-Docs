@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.Reflection
 ms.assetid: 5c4e4918-279f-de8b-0d4d-a2feb51ebee4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeRange.Reflection property (Excel)
 
-Returns a  **[ReflectionFormat](./Office.ReflectionFormat.md)** object for a specified shape range that contains reflection formatting properties for the shape range. Read-only.
+Returns a  **[ReflectionFormat](Office.ReflectionFormat.md)** object for a specified shape range that contains reflection formatting properties for the shape range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Reflection`
+_expression_. `Reflection`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[ReflectionFormat](./Office.ReflectionFormat.md)** object for a spe
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

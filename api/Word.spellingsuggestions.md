@@ -1,15 +1,16 @@
 ---
-title: SpellingSuggestions Object (Word)
+title: SpellingSuggestions object (Word)
 keywords: vbawd10.chm2474
 f1_keywords:
 - vbawd10.chm2474
 ms.prod: word
 ms.assetid: 7e0fb008-e43c-c4cb-b7d2-9436d039a070
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SpellingSuggestions Object (Word)
+# SpellingSuggestions object (Word)
 
 A collection of  **SpellingSuggestion** objects that represent all the suggestions for a specified word or for the first word in the specified range.
 
@@ -36,6 +37,6 @@ You cannot add suggestions to or remove suggestions from the collection of spell
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

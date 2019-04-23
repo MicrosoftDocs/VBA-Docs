@@ -1,5 +1,5 @@
 ---
-title: WebOptionButton Object (Publisher)
+title: WebOptionButton object (Publisher)
 keywords: vbapb10.chm4325375
 f1_keywords:
 - vbapb10.chm4325375
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebOptionButton
 ms.assetid: acdbaebd-b333-02b1-bf4d-d7e92148a275
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptionButton Object (Publisher)
+# WebOptionButton object (Publisher)
 
 Represents a Web option button control. The  **WebOptionButton** object is a member of the **Shape** object.
  
@@ -44,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebOptionButton.Application.md)|
 |[Parent](Publisher.WebOptionButton.Parent.md)|
@@ -52,3 +53,4 @@ End Sub
 |[Selected](Publisher.WebOptionButton.Selected.md)|
 |[Value](Publisher.WebOptionButton.Value.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Label.Picture Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 31d2f254-abce-fe6a-b6f1-a625606e5893
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns a  **String** that specifies the full path name of a bitmap to display o
 
 ## Syntax
 
- _expression_. **Picture**
+_expression_.**Picture**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ For controls with captions, use the  **[PicturePosition](Outlook.label.picturepo
 
 Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.  **[Image](Outlook.image.md)** supports opaque images.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

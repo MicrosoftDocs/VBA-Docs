@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.Resolution Property (Publisher)
+title: AdvancedPrintOptions.Resolution property (Publisher)
 keywords: vbapb10.chm7077910
 f1_keywords:
 - vbapb10.chm7077910
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.Resolution
 ms.assetid: 6105287e-a0af-2fd6-e0de-5bedb2458010
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.Resolution Property (Publisher)
+# AdvancedPrintOptions.Resolution property (Publisher)
 
 Returns or sets a  **String** that represents the resolution, in dots per inch (dpi), at which to print the specified publication. Default is dependent on the printer driver, but is usually "(default)". Read/write.
 
 
 ## Syntax
 
- _expression_. **Resolution()**
+_expression_.**Resolution()**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
@@ -61,3 +62,4 @@ ActiveDocument.AdvancedPrintOptions.Resolution = "300 x 300"
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

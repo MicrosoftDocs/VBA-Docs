@@ -1,5 +1,5 @@
 ---
-title: Masters Object (Visio)
+title: Masters object (Visio)
 keywords: vis_sdr.chm10135
 f1_keywords:
 - vis_sdr.chm10135
@@ -8,10 +8,11 @@ api_name:
 - Visio.Masters
 ms.assetid: 07c80948-8cee-34d2-dbc9-89ca031343df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters Object (Visio)
+# Masters object (Visio)
 
  Includes a **Master** object for each master in a document's stencil.
 
@@ -32,7 +33,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeMasterDelete](./Visio.Masters.BeforeMasterDelete.md)|
 |[BeforeSelectionDelete](./Visio.Masters.BeforeSelectionDelete.md)|
@@ -66,7 +67,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Visio.Masters.Add.md)|
 |[AddEx](./Visio.Masters.AddEx.md)|
@@ -79,7 +80,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Masters.Application.md)|
 |[Count](./Visio.Masters.Count.md)|
@@ -92,3 +93,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[PersistsEvents](./Visio.Masters.PersistsEvents.md)|
 |[Stat](./Visio.Masters.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.SendMail Method (Word)
+title: Document.SendMail method (Word)
 keywords: vbawd10.chm158007406
 f1_keywords:
 - vbawd10.chm158007406
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SendMail
 ms.assetid: 7e47982f-2c8f-e76b-d790-9c4e72d5110b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SendMail Method (Word)
+# Document.SendMail method (Word)
 
 Opens a message window for sending the specified document through Microsoft Exchange.
 
 
 ## Syntax
 
- _expression_. `SendMail`
+_expression_. `SendMail`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.SendMail
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

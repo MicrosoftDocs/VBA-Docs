@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.NegativeBarFormat
 ms.assetid: d1783746-f4e7-ac71-8567-ea496e5adf65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[NegativeBarFormat](Excel.NegativeBarFormat.md)** object associat
 
 ## Syntax
 
- _expression_. `NegativeBarFormat`
+_expression_. `NegativeBarFormat`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the  **[NegativeBarFormat](Excel.NegativeBarFormat.md)** object associat
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

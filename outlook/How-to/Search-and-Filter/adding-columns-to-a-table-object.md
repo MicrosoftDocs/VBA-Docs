@@ -3,6 +3,7 @@ title: Adding Columns to a Table Object
 ms.prod: outlook
 ms.assetid: c1d652ef-8082-70f3-1216-d39e976e6b21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ Since a folder can contain heterogeneous items (for example, the Deleted Items f
 
  **Note**  Since the  **Item** method is the default method for the **[Row](../../../api/Outlook.Row.md)** object, `Row.Item("MessageClass")` is equivalent to `Row("MessageClass")`.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

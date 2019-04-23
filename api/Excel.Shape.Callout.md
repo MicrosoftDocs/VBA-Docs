@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Callout
 ms.assetid: 80c67ea9-7e55-9841-bbed-302cbd669ce5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[CalloutFormat](Excel.CalloutFormat.md)** object that contains call
 
 ## Syntax
 
- _expression_. `Callout`
+_expression_. `Callout`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example adds to  `myDocument` an oval and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
+This example adds to  _myDocument_ an oval and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
 
 
 ```vb
@@ -48,3 +49,4 @@ End With
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

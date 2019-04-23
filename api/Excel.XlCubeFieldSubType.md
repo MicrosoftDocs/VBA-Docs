@@ -1,14 +1,15 @@
 ---
-title: xlCubeFieldSubType enumeration (Excel)
+title: XlCubeFieldSubType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCubeFieldSubType
 ms.assetid: 5c5f2390-9bbb-dc46-4aef-5dd47e256c59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCubeFieldSubType enumeration (Excel)
+# XlCubeFieldSubType enumeration (Excel)
 
 Specifies the subtype of the CubeField.
 
@@ -33,4 +34,4 @@ Specifies the subtype of the CubeField.
 
  **Note**  The values have ?Cube? in the name in order to not overlap with the  **xlMeasure** and **xlSet** values for the **CubeFieldType** property. If the names are the same, autocomplete will not work in the Visual Basic environment because it finds ambiguous values.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

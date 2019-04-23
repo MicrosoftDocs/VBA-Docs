@@ -1,15 +1,16 @@
 ---
-title: VisDrawRegionFlags Enumeration (Visio)
+title: VisDrawRegionFlags enumeration (Visio)
 keywords: vis_sdr.chm70250
 f1_keywords:
 - vis_sdr.chm70250
 ms.prod: visio
 ms.assetid: 8d66d514-0d24-8d0c-5413-dfccd0c9c5ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDrawRegionFlags Enumeration (Visio)
+# VisDrawRegionFlags enumeration (Visio)
 
 Flags to pass to the  **Selection.DrawRegion** method.
 
@@ -22,3 +23,4 @@ Flags to pass to the  **Selection.DrawRegion** method.
 | **visDrawRegionIncludeDataGraphics**|&H40|Include data graphic callout shapes and their sub-shapes. |
 | **visDrawRegionIncludeHidden**|&H10|Include hidden geometry.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

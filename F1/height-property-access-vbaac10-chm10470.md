@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 048a34f8-148d-45b1-89ca-3a73c8a74d1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.Height property (Access)](http://msdn.microsoft.com/library/59492efc-5cb0-2659-d930-946831f8c873%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

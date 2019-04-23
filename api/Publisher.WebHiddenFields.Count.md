@@ -1,5 +1,5 @@
 ---
-title: WebHiddenFields.Count Property (Publisher)
+title: WebHiddenFields.Count property (Publisher)
 keywords: vbapb10.chm3997699
 f1_keywords:
 - vbapb10.chm3997699
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebHiddenFields.Count
 ms.assetid: 167c4c58-10cf-4dbb-5dfc-d60ab3856357
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebHiddenFields.Count Property (Publisher)
+# WebHiddenFields.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **WebHiddenFields** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

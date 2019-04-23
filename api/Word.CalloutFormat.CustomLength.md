@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomLength Method (Word)
+title: CalloutFormat.CustomLength method (Word)
 keywords: vbawd10.chm163905548
 f1_keywords:
 - vbawd10.chm163905548
@@ -8,19 +8,20 @@ api_name:
 - Word.CalloutFormat.CustomLength
 ms.assetid: b9c2a9d5-873e-9292-04e1-c2e05388589b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.CustomLength Method (Word)
+# CalloutFormat.CustomLength method (Word)
 
 Specifies that the first segment of the callout line (the segment attached to the text callout box) retain a fixed length whenever the callout is moved.
 
 
 ## Syntax
 
- _expression_. `CustomLength`( `_Length_` )
+_expression_.**CustomLength** (_Length_)
 
- _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ End With
 
 [CalloutFormat Object](Word.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

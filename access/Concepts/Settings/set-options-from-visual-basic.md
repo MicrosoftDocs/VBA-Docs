@@ -3,6 +3,7 @@ title: Set options from Visual Basic
 ms.prod: access
 ms.assetid: c85ab081-6522-f851-a0d7-3d6612af26ab
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -223,3 +224,4 @@ The following tables list the names of all options that can be set or returned f
 > - Some options are available only within an Access database or Access project (.adp).
 > - If you are developing a database application, add-in, library database, or referenced database, make sure that the Error Trapping option is set to 2 (Break On Unhandled Errors) when you have finished debugging your code.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

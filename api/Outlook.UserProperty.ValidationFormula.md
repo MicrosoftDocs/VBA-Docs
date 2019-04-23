@@ -1,5 +1,5 @@
 ---
-title: UserProperty.ValidationFormula Property (Outlook)
+title: UserProperty.ValidationFormula property (Outlook)
 keywords: vbaol11.chm220
 f1_keywords:
 - vbaol11.chm220
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserProperty.ValidationFormula
 ms.assetid: 1420a7d9-2d10-ea1a-a893-e573f93919ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperty.ValidationFormula Property (Outlook)
+# UserProperty.ValidationFormula property (Outlook)
 
 Returns or sets a  **String** indicating the validation formula for the user property. Read/write.
 
 
 ## Syntax
 
- _expression_. `ValidationFormula`
+_expression_. `ValidationFormula`
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [UserProperty Object](Outlook.UserProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SyncObject.SyncEnd Event (Outlook)
+title: SyncObject.SyncEnd event (Outlook)
 keywords: vbaol11.chm114
 f1_keywords:
 - vbaol11.chm114
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SyncObject.SyncEnd
 ms.assetid: 6e36b438-bbd3-4810-f072-7b669c308bc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject.SyncEnd Event (Outlook)
+# SyncObject.SyncEnd event (Outlook)
 
 Occurs immediately after Microsoft Outlook finishes synchronizing a user's folders using the specified  **Send/Receive** group.
 
 
 ## Syntax
 
- _expression_. `SyncEnd`
+_expression_. `SyncEnd`
 
- _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
+_expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

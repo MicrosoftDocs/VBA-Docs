@@ -1,22 +1,23 @@
 ---
-title: LineFormat.GradientVariant Property (Publisher)
+title: LineFormat.GradientVariant property (Publisher)
 keywords: vbapb10.chm3408152
 f1_keywords:
 - vbapb10.chm3408152
 ms.prod: publisher
 ms.assetid: aa3d9d8f-dc59-8274-a177-f99ddd0d472f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.GradientVariant Property (Publisher)
+# LineFormat.GradientVariant property (Publisher)
 
 Returns the gradient variant for the specified line as an integer value, usually from 1 to 4. Read-only.
 
 
 ## Syntax
 
- _expression_. **GradientVariant**
+_expression_.**GradientVariant**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -36,3 +37,4 @@ If the gradient style is  **msoGradientFromCenter**, this property returns eithe
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

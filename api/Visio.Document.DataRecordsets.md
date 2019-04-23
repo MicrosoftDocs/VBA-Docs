@@ -1,5 +1,5 @@
 ---
-title: Document.DataRecordsets Property (Visio)
+title: Document.DataRecordsets property (Visio)
 keywords: vis_sdr.chm10560070
 f1_keywords:
 - vis_sdr.chm10560070
@@ -8,10 +8,11 @@ api_name:
 - Visio.Document.DataRecordsets
 ms.assetid: d15182ba-27e7-ab0e-6ac0-c23515848032
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DataRecordsets Property (Visio)
+# Document.DataRecordsets property (Visio)
 
 Returns the  **DataRecordsets** collection contained in the document. Read-only.
 
@@ -21,7 +22,7 @@ Returns the  **DataRecordsets** collection contained in the document. Read-only.
 
 ## Syntax
 
- _expression_. `DataRecordsets`
+_expression_. `DataRecordsets`
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
@@ -30,4 +31,4 @@ Returns the  **DataRecordsets** collection contained in the document. Read-only.
 
 DataRecordsets
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

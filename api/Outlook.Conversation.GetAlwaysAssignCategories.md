@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetAlwaysAssignCategories Method (Outlook)
+title: Conversation.GetAlwaysAssignCategories method (Outlook)
 keywords: vbaol11.chm3439
 f1_keywords:
 - vbaol11.chm3439
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.GetAlwaysAssignCategories
 ms.assetid: d09ae8ff-b725-cc09-9408-7b9039ee129f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.GetAlwaysAssignCategories Method (Outlook)
+# Conversation.GetAlwaysAssignCategories method (Outlook)
 
 Returns a  **String** that indicates the category or categories that are assigned to all new items that arrive in the conversation.
 
 
 ## Syntax
 
- _expression_. `GetAlwaysAssignCategories`( `_Store_` )
+_expression_. `GetAlwaysAssignCategories`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ To stop the action of always assigning categories, use the  **[ClearAlwaysAssign
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,15 +1,16 @@
 ---
-title: VisDataRecordsetAddOptions Enumeration (Visio)
+title: VisDataRecordsetAddOptions enumeration (Visio)
 keywords: vis_sdr.chm70495
 f1_keywords:
 - vis_sdr.chm70495
 ms.prod: visio
 ms.assetid: 240726a5-48cb-3034-99cf-a42967a95daf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDataRecordsetAddOptions Enumeration (Visio)
+# VisDataRecordsetAddOptions enumeration (Visio)
 
 Constants passed to the  **DataRecordsets.Add** method, specifying characteristics of the data recordset to be added.
 
@@ -26,3 +27,4 @@ Constants passed to the  **DataRecordsets.Add** method, specifying characteristi
 | **visDataRecordsetDelayQuery**|8|Adds a data recordset but does not execute the command-string query until the next time you call the  **Refresh** method.|
 | **visDataRecordsetDontCopyLinks**|16|Adds a data recordset, but shape-data links are not copied to the Clipboard when shapes are copied or cut.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.Save Method (PowerPoint)
+title: Presentation.Save method (PowerPoint)
 keywords: vbapp10.chm583035
 f1_keywords:
 - vbapp10.chm583035
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.Save
 ms.assetid: 6d1251bb-27f3-0a80-bc2f-d385e2b3e3ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Save Method (PowerPoint)
+# Presentation.Save method (PowerPoint)
 
 Saves the specified presentation.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

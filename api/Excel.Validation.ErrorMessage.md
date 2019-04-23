@@ -8,19 +8,20 @@ api_name:
 - Excel.Validation.ErrorMessage
 ms.assetid: e5708bb8-7929-9e69-f020-567c4f6fc67d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Validation.ErrorMessage property (Excel)
 
-Returns or sets the data validation error message. Read/write  **String** .
+Returns or sets the data validation error message. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ErrorMessage`
+_expression_. `ErrorMessage`
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

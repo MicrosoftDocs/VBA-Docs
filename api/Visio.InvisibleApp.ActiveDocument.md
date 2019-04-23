@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.ActiveDocument Property (Visio)
+title: InvisibleApp.ActiveDocument property (Visio)
 keywords: vis_sdr.chm17513025
 f1_keywords:
 - vis_sdr.chm17513025
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.ActiveDocument
 ms.assetid: 371a2ac8-e2f4-b266-be65-0086baaee59f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.ActiveDocument Property (Visio)
+# InvisibleApp.ActiveDocument property (Visio)
 
 Returns the active  **Document** object, which is the document shown in the active window. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveDocument`
+_expression_. `ActiveDocument`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -69,4 +70,4 @@ Public Sub ActiveDocument_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

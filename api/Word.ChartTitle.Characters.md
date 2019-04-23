@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Characters Property (Word)
+title: ChartTitle.Characters property (Word)
 keywords: vbawd10.chm65273858
 f1_keywords:
 - vbawd10.chm65273858
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartTitle.Characters
 ms.assetid: 24650d31-1618-b231-ce3e-d7f35f39db5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle.Characters Property (Word)
+# ChartTitle.Characters property (Word)
 
 Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
  _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
@@ -42,3 +43,4 @@ The  **ChartCharacters** object is not a collection.
 
 [ChartTitle Object](Word.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

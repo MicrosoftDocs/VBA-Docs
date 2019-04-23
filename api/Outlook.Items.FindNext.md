@@ -1,5 +1,5 @@
 ---
-title: Items.FindNext Method (Outlook)
+title: Items.FindNext method (Outlook)
 keywords: vbaol11.chm63
 f1_keywords:
 - vbaol11.chm63
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Items.FindNext
 ms.assetid: 2530f640-e024-3567-f539-6bdbf645401d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.FindNext Method (Outlook)
+# Items.FindNext method (Outlook)
 
 After the  **[Find](Outlook.Items.Find.md)** method runs, this method finds and returns the next Outlook item in the specified collection.
 
 
 ## Syntax
 
- _expression_. `FindNext`
+_expression_. `FindNext`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ End Sub
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

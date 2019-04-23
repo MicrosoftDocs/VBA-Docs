@@ -1,21 +1,22 @@
 ---
-title: Application.DisplayWizardScheduling Property (Project)
+title: Application.DisplayWizardScheduling property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.DisplayWizardScheduling
 ms.assetid: abcd5660-1eef-d53b-548f-6ead0c57f836
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DisplayWizardScheduling Property (Project)
+# Application.DisplayWizardScheduling property (Project)
 
  **True** if the **Planning Wizard** displays messages about scheduling problems. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayWizardScheduling`
+_expression_. `DisplayWizardScheduling`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -34,4 +35,4 @@ Sub ResetWizard()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

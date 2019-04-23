@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeDefineStyles Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeDefineStyles property (Word)
 keywords: vbawd10.chm165347598
 f1_keywords:
 - vbawd10.chm165347598
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeDefineStyles
 ms.assetid: ec9df413-17f5-a2c2-4386-7b1d44328b78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeDefineStyles Property (Word)
+# EmailOptions.AutoFormatAsYouTypeDefineStyles property (Word)
 
- **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean** .
+ **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeDefineStyles`
+_expression_. `AutoFormatAsYouTypeDefineStyles`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -49,3 +50,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeDefineStyles
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

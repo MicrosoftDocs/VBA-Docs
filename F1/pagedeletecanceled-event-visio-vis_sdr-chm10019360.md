@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 07f41beb-0c77-4731-a348-6b307db00bad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.PageDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/1efbd64c-365b-c967-59bb-8314a0fa6f34%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Connect.FromCell Property (Visio)
+title: Connect.FromCell property (Visio)
 keywords: vis_sdr.chm10313575
 f1_keywords:
 - vis_sdr.chm10313575
@@ -8,17 +8,18 @@ api_name:
 - Visio.Connect.FromCell
 ms.assetid: d605d25a-40c2-7e7c-c8c2-bbc31c00f47b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect.FromCell Property (Visio)
+# Connect.FromCell property (Visio)
 
 Returns the cell from which a connection originates. Read-only.
 
 
 ## Syntax
 
- _expression_. `FromCell`
+_expression_. `FromCell`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
@@ -39,35 +40,35 @@ A connection is defined by a reference in a cell in the shape from which the con
 Following is a list of possible connections and the values of their related  **FromCell** properties.
 
 
-### From the begin or end cell of a 1-D shape to...
+### From the begin or end cell of a 1D shape to...
 
 
 
 
 -  **A connection point cell:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and one from the endpoint's Y cell to the guide's Angle cell. The **FromCell** property of one **Connect** object returns the BeginX or EndX cell and, the **FromCell** property of the other **Connect** object returns the BeginY or EndY cell, depending on which endpoint is glued.
+-  **A cell of a guide or guide point:** When the begin or end cell of a 1D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and one from the endpoint's Y cell to the guide's Angle cell. The **FromCell** property of one **Connect** object returns the BeginX or EndX cell and, the **FromCell** property of the other **Connect** object returns the BeginY or EndY cell, depending on which endpoint is glued.
     
--  **The pin of a 2-D shape (creates dynamic glue):** The shape from which the glue originates must be routable or have a dynamic glue type. The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+-  **The pin of a 2D shape (creates dynamic glue):** The shape from which the glue originates must be routable or have a dynamic glue type. The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
 -  **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **The begin or end cell of a 1-D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+-  **The begin or end cell of a 1D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+-  **The edge (a cell in the Alignment section) of a 2D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
 
-### From the edge (a cell in the Alignment section) of a 2-D shape to a cell of a guide or guide point:
+### From the edge (a cell in the Alignment section) of a 2D shape to a cell of a guide or guide point:
 
 The  **FromCell** property returns the Alignment cell that is glued to the guide.
 
 
-### From an outward or inward/outward connection point cell of a 1-D shape to an inward or inward/outward connection point cell that is not a cell of a guide or guide point:
+### From an outward or inward/outward connection point cell of a 1D shape to an inward or inward/outward connection point cell that is not a cell of a guide or guide point:
 
- When these cells are glued, two connections are created—one from the BeginX cell of the 1-D shape to the Connections.X _i_ cell, and the other from the EndX cell of the 1-D shape to the Connections.Y _i_ cell. The **FromCell** property returns BeginX for one **Connect** object, and EndX for the other.
+ When these cells are glued, two connections are created—one from the BeginX cell of the 1D shape to the Connections.X _i_ cell, and the other from the EndX cell of the 1D shape to the Connections.Y _i_ cell. The **FromCell** property returns BeginX for one **Connect** object, and EndX for the other.
 
 
-### From an outward or inward/outward connection point cell of a 2-D shape to an inward or inward/outward type connection point cell that is not a cell of a guide or guide point:
+### From an outward or inward/outward connection point cell of a 2D shape to an inward or inward/outward type connection point cell that is not a cell of a guide or guide point:
 
  If the outward connection point is directionless, the **FromCell** property returns the PinX cell. If the outward connection point has a direction, then two connection points are created. The **FromCell** property returns the Angle cell for one **Connect** object and the PinX cell for the other.
 
@@ -83,9 +84,9 @@ The  **FromCell** property returns the Alignment cell that is glued to the guide
     
 -  **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns the Controls.X _i_ cell.
     
--  **The begin or end cell of a 1-D shape that isn't a guide or guide point:** The **FromCell** property returns the Controls.X _i_ cell.
+-  **The begin or end cell of a 1D shape that isn't a guide or guide point:** The **FromCell** property returns the Controls.X _i_ cell.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** The **FromCell** property returns the Controls.X _i_ cell.
+-  **The edge (a cell in the Alignment section) of a 2D shape:** The **FromCell** property returns the Controls.X _i_ cell.
     
 
 ## Example
@@ -130,4 +131,4 @@ Public Sub FromCell_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

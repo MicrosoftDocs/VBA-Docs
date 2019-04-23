@@ -1,5 +1,5 @@
 ---
-title: Trendline.InterceptIsAuto Property (PowerPoint)
+title: Trendline.InterceptIsAuto property (PowerPoint)
 keywords: vbapp10.chm65723
 f1_keywords:
 - vbapp10.chm65723
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Trendline.InterceptIsAuto
 ms.assetid: 568c57e5-c42f-8559-9c7c-30a72e46463a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendline.InterceptIsAuto Property (PowerPoint)
+# Trendline.InterceptIsAuto property (PowerPoint)
 
  **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `InterceptIsAuto`
+_expression_. `InterceptIsAuto`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 
@@ -35,7 +36,7 @@ Setting the  **[Intercept](PowerPoint.Trendline.Intercept.md)** property sets th
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets Microsoft Word to automatically determine the trendline intercept point for the first chart in the active document. You should run the example on a 2-D column chart that contains a single series that has a trendline.
+The following example sets Microsoft Word to automatically determine the trendline intercept point for the first chart in the active document. You should run the example on a 2D column chart that contains a single series that has a trendline.
 
 
 
@@ -55,3 +56,4 @@ End With
 
 [Trendline Object](PowerPoint.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

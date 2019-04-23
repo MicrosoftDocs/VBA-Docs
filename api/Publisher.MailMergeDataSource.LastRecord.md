@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.LastRecord Property (Publisher)
+title: MailMergeDataSource.LastRecord property (Publisher)
 keywords: vbapb10.chm6291474
 f1_keywords:
 - vbapb10.chm6291474
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.LastRecord
 ms.assetid: c1d11d3e-5f6f-2729-081b-5727c75fbc8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.LastRecord Property (Publisher)
+# MailMergeDataSource.LastRecord property (Publisher)
 
 Returns or sets a  **Long** that represents the number of the last record to be merged in a mail merge or catalog merge operation. Read/write.
 
 
 ## Syntax
 
- _expression_. **LastRecord**
+_expression_.**LastRecord**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -43,4 +44,4 @@ Sub RecordOne()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

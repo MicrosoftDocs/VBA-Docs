@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cc606f0f-7e50-c144-8003-90c7f976723d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Each element of an [array](../../Glossary/vbe-glossary.md#array) must have its v
 
 - You inadvertently tried to assign a single value to an array [variable](../../Glossary/vbe-glossary.md#variable) without specifying the element to which the value should be assigned.
     
-  To assign a single value to an array element, you must specify the element in a subscript. For example, if  `MyArray` is an integer array, the [expression ](../../Glossary/vbe-glossary.md#expression) ` MyArray = 5` is invalid, but the following expression is valid: `MyArray(UBound(MyArray)) = 5`
+  To assign a single value to an array element, you must specify the element in a subscript. For example, if  `MyArray` is an integer array, the [expression](../../Glossary/vbe-glossary.md#expression) `MyArray = 5` is invalid, but the following expression is valid: `MyArray(UBound(MyArray)) = 5`
     
 - You tried to assign a whole array to another array. 
     
@@ -44,3 +45,4 @@ Each element of an [array](../../Glossary/vbe-glossary.md#array) must have its v
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

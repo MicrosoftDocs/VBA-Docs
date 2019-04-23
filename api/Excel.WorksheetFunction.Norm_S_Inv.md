@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Norm_S_Inv Method (Excel)
+title: WorksheetFunction.Norm_S_Inv method (Excel)
 keywords: vbaxl10.chm137411
 f1_keywords:
 - vbaxl10.chm137411
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Norm_S_Inv
 ms.assetid: 731c1354-2f2e-8fa8-3ced-576dd4d3ce1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Norm_S_Inv Method (Excel)
+# WorksheetFunction.Norm_S_Inv method (Excel)
 
 Returns the inverse of the standard normal cumulative distribution. The distribution has a mean of 0 (zero) and a standard deviation of one.
 
 
 ## Syntax
 
- _expression_. `Norm_S_Inv`( `_Arg1_` )
+_expression_. `Norm_S_Inv`( `_Arg1_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Given a value for probability, NORM_S_INV seeks that value z such that NORM_S_DI
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

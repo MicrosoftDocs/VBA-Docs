@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Worksheet
 ms.assetid: af38bdde-d523-a4cd-929e-1f67464b2593
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the worksh
 
 ## Syntax
 
- _expression_. `Worksheet`
+_expression_. `Worksheet`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -47,3 +48,4 @@ MsgBox Range("testRange").Worksheet.Name
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.IconCriterion.Type
 ms.assetid: bbe75bbb-42d1-7b71-7a7a-7c51e8c47cbc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlCondition
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
+_expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The type of threshold value for an icon set can be a number, percent, formula, o
 
 [IconCriterion Object](Excel.IconCriterion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

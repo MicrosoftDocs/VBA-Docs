@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 15a504b1-9754-6fce-74e1-fd319109c919
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You can't load the [project](../../Glossary/vbe-glossary.md#project) while the project file contains the invalid key.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

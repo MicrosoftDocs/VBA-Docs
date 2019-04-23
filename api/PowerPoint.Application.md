@@ -1,5 +1,5 @@
 ---
-title: Application Object (PowerPoint)
+title: Application object (PowerPoint)
 keywords: vbapp10.chm504000
 f1_keywords:
 - vbapp10.chm504000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Application
 ms.assetid: 978c2b99-4271-b953-4283-73b5f3d96f41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application Object (PowerPoint)
+# Application object (PowerPoint)
 
 Represents the entire Microsoft PowerPoint application. 
 
@@ -61,7 +62,7 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterDragDropOnSlide](./PowerPoint.application.afterdragdroponslide.md)|
 |[AfterNewPresentation](./PowerPoint.Application.AfterNewPresentation.md)|
@@ -101,7 +102,7 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./PowerPoint.Application.Activate.md)|
 |[Help](./PowerPoint.Application.Help.md)|
@@ -114,7 +115,7 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./PowerPoint.Application.Active.md)|
 |[ActiveEncryptionSession](./PowerPoint.Application.ActiveEncryptionSession.md)|
@@ -169,4 +170,6 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

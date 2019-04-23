@@ -1,5 +1,5 @@
 ---
-title: Windows Object (Visio)
+title: Windows object (Visio)
 keywords: vis_sdr.chm10310
 f1_keywords:
 - vis_sdr.chm10310
@@ -8,10 +8,11 @@ api_name:
 - Visio.Windows
 ms.assetid: 3fa64269-adde-3918-9970-3ce412d638f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows Object (Visio)
+# Windows object (Visio)
 
  Includes a **Window** object for a window that is open in the application.
 
@@ -20,7 +21,7 @@ ms.date: 06/08/2017
 
 To retrieve a  **Windows** collection, use the **Windows** property of an **Application** object or a **Window** object.
 
-The default property of a  **Windows** collection is **Item** .
+The default property of a  **Windows** collection is **Item**.
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
 
@@ -28,5 +29,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.IVWindows.GetEnumerator()** (to enumerate the **Window** objects.)
     
 -  **Microsoft.Office.Interop.Visio.IVWindows**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

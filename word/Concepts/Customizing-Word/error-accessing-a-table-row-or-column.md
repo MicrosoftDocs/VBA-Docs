@@ -3,6 +3,7 @@ title: Error Accessing a Table Row or Column
 ms.prod: word
 ms.assetid: 0fa3199d-a1a4-fb29-49c9-59bcb1d8c98b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -53,4 +54,4 @@ Sub AddTextToTableCells()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Stores.Session Property (Outlook)
+title: Stores.Session property (Outlook)
 keywords: vbaol11.chm816
 f1_keywords:
 - vbaol11.chm816
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Stores.Session
 ms.assetid: aea9466c-4b22-10fa-7938-d12f4f193148
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Stores.Session Property (Outlook)
+# Stores.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
+_expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Stores Object](Outlook.Stores.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 99a1d7ae-42b4-933c-2331-8b1c02550da6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the location of the tabs on a **[
 
 ## Syntax
 
- _expression_. **TabOrientation**
+_expression_.**TabOrientation**
 
- _expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **TabOrientation** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The tabs appear at the top of the control (default).|
 |1|The tabs appear at the bottom of the control.|
@@ -36,4 +37,4 @@ The settings for  **TabOrientation** are:
 
 If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to 2 or 3. If you use bitmapped fonts, the text does not rotate.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

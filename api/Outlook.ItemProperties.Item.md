@@ -1,5 +1,5 @@
 ---
-title: ItemProperties.Item Method (Outlook)
+title: ItemProperties.Item method (Outlook)
 keywords: vbaol11.chm536
 f1_keywords:
 - vbaol11.chm536
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ItemProperties.Item
 ms.assetid: 51bb7900-d3fc-650d-d43b-0da14e13ca5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ItemProperties.Item Method (Outlook)
+# ItemProperties.Item method (Outlook)
 
 Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
+_expression_ A variable that represents an [ItemProperties](Outlook.ItemProperties.md) object.
 
 
 ## Parameters
@@ -69,3 +70,4 @@ End Sub
 
 [ItemProperties Object](Outlook.ItemProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

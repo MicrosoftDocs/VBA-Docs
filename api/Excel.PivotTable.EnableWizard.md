@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.EnableWizard
 ms.assetid: 3e87af08-711d-cddb-bcc1-0b9179e71cb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.EnableWizard property (Excel)
 
- **True** if the **PivotTable Wizard** is available. The default value is **True** . Read/write **Boolean** .
+ **True** if the **PivotTable Wizard** is available. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableWizard`
+_expression_. `EnableWizard`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets(1).PivotTables("Pivot1").EnableWizard = False
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

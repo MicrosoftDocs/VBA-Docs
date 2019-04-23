@@ -1,14 +1,15 @@
 ---
-title: Assignment Object (Project)
+title: Assignment object (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment
 ms.assetid: bfb9a505-7818-0a86-9d4b-f19a0ff465d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment Object (Project)
+# Assignment object (Project)
 
 Represents an assignment for a task or resource. The  **Assignment** object is a member of an **[Assignments](Project.assignments.md)** or an **[OverAllocatedAssignments](./Project.overallocatedassignments.md)** collection.
 
@@ -17,7 +18,7 @@ Represents an assignment for a task or resource. The  **Assignment** object is a
 
  **Using the Assignment Object**
 
-Use  **Assignments** ( _Index_ ), where _Index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
+Use  **Assignments** (_index_), where _index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
 
 
 
@@ -55,7 +56,7 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppendNotes](./Project.Assignment.AppendNotes.md)|
 |[Delete](./Project.Assignment.Delete.md)|
@@ -67,7 +68,7 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActualCost](./Project.Assignment.ActualCost.md)|
 |[ActualFinish](./Project.Assignment.ActualFinish.md)|
@@ -331,3 +332,4 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 |[WorkVariance](./Project.Assignment.WorkVariance.md)|
 |[Compliant](./Project.assignment.compliant.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

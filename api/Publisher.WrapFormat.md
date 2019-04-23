@@ -1,5 +1,5 @@
 ---
-title: WrapFormat Object (Publisher)
+title: WrapFormat object (Publisher)
 keywords: vbapb10.chm851967
 f1_keywords:
 - vbapb10.chm851967
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WrapFormat
 ms.assetid: b6f80d40-2043-6944-3ed8-f26635c7fa4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat Object (Publisher)
+# WrapFormat object (Publisher)
 
 Represents all the properties for wrapping text around a shape or shape range.
  
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WrapFormat.Application.md)|
 |[DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)|
@@ -59,3 +60,4 @@ End Sub
 |[Side](Publisher.WrapFormat.Side.md)|
 |[Type](Publisher.WrapFormat.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

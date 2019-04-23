@@ -3,6 +3,7 @@ title: ListBox.List Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 3eb66479-c7d2-13d7-ebd3-1a09eb136dbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Variant** that represents the specified entry in a **[ListB
 
 ## Syntax
 
- _expression_. **List**(**_pvargIndex_**,  **_pvargColumn_**)
+_expression_.**List**(**_pvargIndex_**,  **_pvargColumn_**)
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Parameters
@@ -39,4 +40,4 @@ To specify items you want to display in a  **ListBox**, use the  **[AddItem](Out
 
 Use  **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 8e58c0d0-ff97-fb00-6afc-f14e2f9c425d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,4 +38,4 @@ End Sub
 
  **Note**   Charts embedded in a worksheet are members of the **[ChartObjects](../../../api/Excel.ChartObjects.md)** collection, whereas charts that exist on their own sheets belong to the  **[Charts](../../../api/Excel.Charts.md)** collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

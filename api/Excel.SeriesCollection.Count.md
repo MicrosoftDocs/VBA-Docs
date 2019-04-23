@@ -8,6 +8,7 @@ api_name:
 - Excel.SeriesCollection.Count
 ms.assetid: 500d2632-89d7-176f-d2cc-71489b0daece
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,14 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
+_expression_ A variable that represents a [SeriesCollection](Excel.SeriesCollection.md) object.
 
 
 ## See also
 
 
-[SeriesCollection Object](./Excel.SeriesCollection.md)
+[SeriesCollection Object](Excel.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

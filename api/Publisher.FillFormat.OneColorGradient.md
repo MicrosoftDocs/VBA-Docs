@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (Publisher)
+title: FillFormat.OneColorGradient method (Publisher)
 keywords: vbapb10.chm2359313
 f1_keywords:
 - vbapb10.chm2359313
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.OneColorGradient
 ms.assetid: e4ebf7c5-41af-8227-85de-10cc08ad9f91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.OneColorGradient Method (Publisher)
+# FillFormat.OneColorGradient method (Publisher)
 
 Sets the specified fill to a one-color gradient.
 
 
 ## Syntax
 
- _expression_. **OneColorGradient**(**_Style_**,  **_Variant_**,  **_Degree_**)
+_expression_.**OneColorGradient**(**_Style_**,  **_Variant_**,  **_Degree_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -30,7 +31,7 @@ Sets the specified fill to a one-color gradient.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The gradient style.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|**Variant**|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 |Degree|Required| **Single**|The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light).|
 
 ## Remarks
@@ -63,4 +64,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

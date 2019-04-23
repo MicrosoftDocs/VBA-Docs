@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.HasArray
 ms.assetid: fac17206-8671-6209-9133-d56da6ea2b9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.HasArray property (Excel)
 
- **True** if the specified cell is part of an array formula. Read-only **Variant** .
+ **True** if the specified cell is part of an array formula. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `HasArray`
+_expression_. `HasArray`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End If
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

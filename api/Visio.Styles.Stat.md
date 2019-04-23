@@ -1,5 +1,5 @@
 ---
-title: Styles.Stat Property (Visio)
+title: Styles.Stat property (Visio)
 keywords: vis_sdr.chm11514420
 f1_keywords:
 - vis_sdr.chm11514420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Styles.Stat
 ms.assetid: 6cf112eb-c964-0892-c550-2db088055d35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles.Stat Property (Visio)
+# Styles.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

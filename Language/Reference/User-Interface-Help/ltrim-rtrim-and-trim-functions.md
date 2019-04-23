@@ -1,11 +1,12 @@
 ---
-title: LTrim, RTrim, and Trim functions
+title: LTrim, RTrim, and Trim functions (Visual Basic for Applications)
 keywords: vblr6.chm1008797
 f1_keywords:
 - vblr6.chm1008797
 ms.prod: office
 ms.assetid: ffe13d6f-8e7a-3413-98a1-3263c771178b
-ms.date: 08/24/2018
+ms.date: 12/13/2018
+localization_priority: Normal
 ---
 
 
@@ -15,13 +16,11 @@ Returns a **Variant** (**String**) containing a copy of a specified string witho
 
 ## Syntax
 
-**LTrim** ( _string_ )
+**LTrim**(_string_)<br/>
+**RTrim**(_string_)<br/>
+**Trim**(_string_)
 
-**RTrim** ( _string_ )
-
-**Trim** ( _string_ )
-
-The required  _string_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [string expression](../../Glossary/vbe-glossary.md#string-expression). If _string_ contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.
+The required _string_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [string expression](../../Glossary/vbe-glossary.md#string-expression). If _string_ contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.
 
 ## Example
 
@@ -40,4 +39,8 @@ TrimString = Trim(MyString)    ' TrimString = "<-Trim->".
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

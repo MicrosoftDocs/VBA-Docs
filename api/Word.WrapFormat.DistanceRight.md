@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceRight Property (Word)
+title: WrapFormat.DistanceRight property (Word)
 keywords: vbawd10.chm163774569
 f1_keywords:
 - vbawd10.chm163774569
@@ -8,17 +8,18 @@ api_name:
 - Word.WrapFormat.DistanceRight
 ms.assetid: 37aae328-abbc-e755-a402-5649a2f81e18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceRight Property (Word)
+# WrapFormat.DistanceRight property (Word)
 
- Returns or sets the distance (in points) between the document text and the right edge of the text-free area surrounding the specified shape. Read/write **Single** .
+ Returns or sets the distance (in points) between the document text and the right edge of the text-free area surrounding the specified shape. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `DistanceRight`
+_expression_. `DistanceRight`
 
  _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
@@ -69,3 +70,4 @@ End With
 
 [WrapFormat Object](Word.WrapFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

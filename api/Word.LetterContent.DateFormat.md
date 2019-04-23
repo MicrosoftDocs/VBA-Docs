@@ -1,5 +1,5 @@
 ---
-title: LetterContent.DateFormat Property (Word)
+title: LetterContent.DateFormat property (Word)
 keywords: vbawd10.chm161546341
 f1_keywords:
 - vbawd10.chm161546341
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.DateFormat
 ms.assetid: 4d23139a-1691-4548-f395-e46aed0306a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.DateFormat Property (Word)
+# LetterContent.DateFormat property (Word)
 
-Returns or sets the date for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the date for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DateFormat`
+_expression_. `DateFormat`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -51,3 +52,4 @@ ActiveDocument.RunLetterWizard LetterContent:=lcNew
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

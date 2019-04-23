@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: bc16a1c0-5db3-64a3-21d3-c1537052aa2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Variant** that specifies the width of the list in a **[Comb
 
 ## Syntax
 
- _expression_. **ListWidth**
+_expression_.**ListWidth**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ If you want to display a multicolumn list, enter a value that will make the list
 
  When designing combo boxes, be sure to leave enough space to display your data and for a vertical scroll bar.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

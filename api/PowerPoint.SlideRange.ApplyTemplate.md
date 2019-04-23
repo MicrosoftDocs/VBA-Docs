@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ApplyTemplate Method (PowerPoint)
+title: SlideRange.ApplyTemplate method (PowerPoint)
 keywords: vbapp10.chm532036
 f1_keywords:
 - vbapp10.chm532036
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.ApplyTemplate
 ms.assetid: 3bf6d3e0-bc37-00f3-868e-869f51c62ad3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.ApplyTemplate Method (PowerPoint)
+# SlideRange.ApplyTemplate method (PowerPoint)
 
 Applies a design template to the specified slide range.
 
 
 ## Syntax
 
- _expression_. `ApplyTemplate`( `_FileName_` )
+_expression_. `ApplyTemplate`( `_FileName_` )
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -39,3 +40,4 @@ Applies a design template to the specified slide range.
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

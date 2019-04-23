@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 991a7640-ee38-426f-928a-10e67829075f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ToolbarSets Object (Visio)](http://msdn.microsoft.com/library/ddf79048-6585-81ab-b1c6-d7c4b0f0ff1b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

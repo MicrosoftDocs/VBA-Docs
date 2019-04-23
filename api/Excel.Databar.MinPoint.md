@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.MinPoint
 ms.assetid: d9a0a554-50e8-24a1-e10b-c4ee4cdbc159
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[ConditionValue](Excel.ConditionValue.md)** object that specifies h
 
 ## Syntax
 
- _expression_. `MinPoint`
+_expression_. `MinPoint`
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can specify the type and value of the evaluation by using the  **[Type](Exce
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

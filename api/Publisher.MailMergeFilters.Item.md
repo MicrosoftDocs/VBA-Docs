@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Item Method (Publisher)
+title: MailMergeFilters.Item method (Publisher)
 keywords: vbapb10.chm6750211
 f1_keywords:
 - vbapb10.chm6750211
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilters.Item
 ms.assetid: 6da1766f-c497-0426-d413-4254a3dc2c8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Item Method (Publisher)
+# MailMergeFilters.Item method (Publisher)
 
 Returns an individual object in a specified collection.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **MailMergeFilters** object.
 
@@ -35,4 +36,4 @@ Returns an individual object in a specified collection.
 
 Object
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

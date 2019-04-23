@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a93bfddc-4c74-5edc-bbdd-52a91a9c4f3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ You can edit code in [break mode](../../Glossary/vbe-glossary.md#break-mode), bu
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Field.Unlink Method (Word)
+title: Field.Unlink method (Word)
 keywords: vbawd10.chm154075238
 f1_keywords:
 - vbawd10.chm154075238
@@ -8,19 +8,20 @@ api_name:
 - Word.Field.Unlink
 ms.assetid: b547d99e-fbf7-f31a-ca98-c9fab1e006e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Unlink Method (Word)
+# Field.Unlink method (Word)
 
 Replaces the specified field with its most recent result.
 
 
 ## Syntax
 
- _expression_. `Unlink`
+_expression_. `Unlink`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Documents("Sales.doc").Fields(1).Unlink
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: UpBars.Creator Property (Word)
+title: UpBars.Creator property (Word)
 keywords: vbawd10.chm180945045
 f1_keywords:
 - vbawd10.chm180945045
@@ -8,17 +8,18 @@ api_name:
 - Word.UpBars.Creator
 ms.assetid: df200cd8-e76e-ece8-bf93-a521eb0d20ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UpBars.Creator Property (Word)
+# UpBars.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [UpBars Object](Word.UpBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceAssignmentDialog Method (Project)
+title: Application.ResourceAssignmentDialog method (Project)
 keywords: vbapj.chm943
 f1_keywords:
 - vbapj.chm943
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ResourceAssignmentDialog
 ms.assetid: efe91944-bdfa-a15c-6f28-44fe4d629974
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ResourceAssignmentDialog Method (Project)
+# Application.ResourceAssignmentDialog method (Project)
 
 Displays the  **Assign Resources** dialog box, expands or collapses the **Resource list options**, and specifies fields and filters.
 
 
 ## Syntax
 
- _expression_. `ResourceAssignmentDialog`( ` _ShowResourceListOptions_`, ` _ResourceListFields_`, ` _UseNamedFilter_`, ` _FilterName_`, ` _UseAvailableToWorkFilter_`, ` _AvailableToWork_` )
+_expression_. `ResourceAssignmentDialog`( `_ShowResourceListOptions_`, `_ResourceListFields_`, `_UseNamedFilter_`, `_FilterName_`, `_UseAvailableToWorkFilter_`, `_AvailableToWork_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Displays the  **Assign Resources** dialog box, expands or collapses the **Resour
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

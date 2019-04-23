@@ -8,19 +8,20 @@ api_name:
 - Excel.PlotArea.InsideWidth
 ms.assetid: 2ebad523-2f25-28c1-5d6e-56517e2690b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PlotArea.InsideWidth property (Excel)
 
-Returns the inside width of the plot area, in points. Read-write  **Double** .
+Returns the inside width of the plot area, in points. Read-write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideWidth`
+_expression_. `InsideWidth`
 
- _expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End With
 
 [PlotArea Object](Excel.PlotArea(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

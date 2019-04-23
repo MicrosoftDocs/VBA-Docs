@@ -1,5 +1,5 @@
 ---
-title: PageSetup.DifferentFirstPageHeaderFooter Property (Word)
+title: PageSetup.DifferentFirstPageHeaderFooter property (Word)
 keywords: vbawd10.chm158400628
 f1_keywords:
 - vbawd10.chm158400628
@@ -8,17 +8,18 @@ api_name:
 - Word.PageSetup.DifferentFirstPageHeaderFooter
 ms.assetid: 50664181-4a3b-1b68-98e2-558fa9ee538e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.DifferentFirstPageHeaderFooter Property (Word)
+# PageSetup.DifferentFirstPageHeaderFooter property (Word)
 
- **True** if a different header or footer is used on the first page. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
+ **True** if a different header or footer is used on the first page. Can be **True**, **False**, or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `DifferentFirstPageHeaderFooter`
+_expression_. `DifferentFirstPageHeaderFooter`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 
@@ -46,3 +47,4 @@ Next secLoop
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

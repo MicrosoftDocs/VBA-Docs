@@ -1,5 +1,5 @@
 ---
-title: Selection.HasChildShapeRange Property (Word)
+title: Selection.HasChildShapeRange property (Word)
 keywords: vbawd10.chm158663678
 f1_keywords:
 - vbawd10.chm158663678
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.HasChildShapeRange
 ms.assetid: 1917754f-6080-8303-533e-b62607b87d41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.HasChildShapeRange Property (Word)
+# Selection.HasChildShapeRange property (Word)
 
- **True** if the selection contains child shapes. Read-only **Boolean** .
+ **True** if the selection contains child shapes. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasChildShapeRange`
+_expression_. `HasChildShapeRange`
 
  _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 
@@ -63,3 +64,4 @@ End Sub
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

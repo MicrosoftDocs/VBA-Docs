@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 55134160-b97e-4db4-bb5e-8117070b3fc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.Copy Method (PowerPoint)](http://msdn.microsoft.com/library/7725e3f1-a3a8-9d03-db25-ef6b6ef31caf%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 21feab41-3124-4d6c-9d42-9b41aceeea4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.SecondaryViewChange Event (Project)](http://msdn.microsoft.com/library/f0f3f81b-c75f-79ee-db8b-6bdd32a3702f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

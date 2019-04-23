@@ -1,14 +1,15 @@
 ---
-title: xlConsolidationFunction enumeration (Excel)
+title: XlConsolidationFunction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlConsolidationFunction
 ms.assetid: a3d0e4c0-8463-340c-a258-219d49f715d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlConsolidationFunction enumeration (Excel)
+# XlConsolidationFunction enumeration (Excel)
 
 Specifies the subtotal function.
 
@@ -30,3 +31,4 @@ Specifies the subtotal function.
 | **xlVar**|-4164|Variation, based on a sample.|
 | **xlVarP**|-4165|Variation, based on the whole population.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

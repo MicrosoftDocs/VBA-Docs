@@ -1,5 +1,5 @@
 ---
-title: Selection.LineStyle Property (Visio)
+title: Selection.LineStyle property (Visio)
 keywords: vis_sdr.chm11113845
 f1_keywords:
 - vis_sdr.chm11113845
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.LineStyle
 ms.assetid: 8bfba446-5987-58d1-54e2-5e861d7ce48d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.LineStyle Property (Visio)
+# Selection.LineStyle property (Visio)
 
 Specifies the line style for an object. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineStyle`
+_expression_.**LineStyle**
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -54,4 +55,4 @@ Public Sub LineStyle_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

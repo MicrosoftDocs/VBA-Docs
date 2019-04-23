@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat Object (Outlook)
+title: ColumnFormat object (Outlook)
 keywords: vbaol11.chm3189
 f1_keywords:
 - vbaol11.chm3189
@@ -8,10 +8,11 @@ api_name:
 - Outlook.ColumnFormat
 ms.assetid: acbbdd97-e695-d1e7-c7ba-24f75efbf22c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColumnFormat Object (Outlook)
+# ColumnFormat object (Outlook)
 
 Represents the display properties of an order field or view field in a view.
 
@@ -97,7 +98,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Align](Outlook.ColumnFormat.Align.md)|
 |[Application](Outlook.ColumnFormat.Application.md)|
@@ -112,4 +113,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

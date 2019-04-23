@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: f80228a3-ea61-4d00-6a93-609914c3a21e
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ The description of the model measure. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a 'ModelMeasure' object.
+_expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ The description of the model measure. Read/write  **String**.
 
 [ModelMeasure Object](Excel.modelmeasure.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

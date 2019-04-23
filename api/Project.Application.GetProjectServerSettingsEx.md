@@ -1,21 +1,22 @@
 ---
-title: Application.GetProjectServerSettingsEx Method (Project)
+title: Application.GetProjectServerSettingsEx method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.GetProjectServerSettingsEx
 ms.assetid: cd630197-60e0-0ba8-e01e-114b82fe9f1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GetProjectServerSettingsEx Method (Project)
+# Application.GetProjectServerSettingsEx method (Project)
 
 Returns global Project settings in a single XML string. You can obtain settings specific to the active project, or you can obtain settings specific to the current project manager by calling a server-side object.
 
 
 ## Syntax
 
- _expression_. `GetProjectServerSettingsEx`
+_expression_. `GetProjectServerSettingsEx`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -60,7 +61,7 @@ Following is the format of the XML string returned by  **GetProjectServerSetting
     
 
 
- **AdminTrackingLocked -** Whether or not managers are forced to use the tracking method specified on the server for all projects. You can see this on Project Web App by going to ** Server Settings->(Time and task management section)Task Settings and Display->Tracking Method** property. It can be one of the following:
+ **AdminTrackingLocked -** Whether or not managers are forced to use the tracking method specified on the server for all projects. You can see this on Project Web App by going to **Server Settings->(Time and task management section)Task Settings and Display->Tracking Method** property. It can be one of the following:
 
 
 - 0 = Managers are not forced.
@@ -75,4 +76,4 @@ Following is the format of the XML string returned by  **GetProjectServerSetting
 
  **GroupsForCurrentProjectManager -** The security groups that the project manager is a member of.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

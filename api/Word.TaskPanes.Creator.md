@@ -1,23 +1,24 @@
 ---
-title: TaskPanes.Creator Property (Word)
+title: TaskPanes.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.TaskPanes.Creator
 ms.assetid: e94b0c6c-90a6-e221-2d56-966a197056bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskPanes.Creator Property (Word)
+# TaskPanes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TaskPanes](Word.TaskPanes.md)' collection.
+_expression_ Required. A variable that represents a '[TaskPanes](Word.TaskPanes.md)' collection.
 
 
 ## Remarks
@@ -30,3 +31,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TaskPanes Collection](Word.TaskPanes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

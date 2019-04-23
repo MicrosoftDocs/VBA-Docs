@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c0206cf1-c503-4514-a7b3-45bfc38b08c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Legend.Clear Method (PowerPoint)](http://msdn.microsoft.com/library/a003e3fd-2b90-a799-80d9-1540ccfc33ef%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

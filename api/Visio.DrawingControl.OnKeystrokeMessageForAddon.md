@@ -1,14 +1,15 @@
 ---
-title: DrawingControl.OnKeystrokeMessageForAddon Event (Visio)
+title: DrawingControl.OnKeystrokeMessageForAddon event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.OnKeystrokeMessageForAddon
 ms.assetid: 84847fcb-0cb1-cade-38fb-20c01b1262df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl.OnKeystrokeMessageForAddon Event (Visio)
+# DrawingControl.OnKeystrokeMessageForAddon event (Visio)
 
 Occurs when Microsoft Visio receives a keystroke message from Microsoft Windows that is targeted at an add-on window or child of an add-on window.
 
@@ -30,7 +31,7 @@ Private Sub  _expression_ _'OnKeystrokeMessageForAddon'(**_ByVal MSG As [IVMSGWR
 
 ## Remarks
 
-Returns  **True** to indicate that the message was handled by the add-on. Otherwise, returns **False** .
+Returns  **True** to indicate that the message was handled by the add-on. Otherwise, returns **False**.
 
 The  **OnKeystrokeMessageForAddon** event enables add-ons to intercept and process accelerator and keystroke messages directed at their own add-on windows and child windows of their add-on windows. Only add-on windows created using the **Add** method will source this event.
 
@@ -51,8 +52,8 @@ Visio fires the  **OnKeystrokeMessageForAddon** event when it receives messages 
 
 The  **MSGWrap** object, passed to the event handler when the **OnKeystrokeMessageForAddon** event fires, wraps the Microsoft Windows **MSG** structure, which contains message data. See the **MSGWrap** object for more information, or refer to your Windows documentation.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

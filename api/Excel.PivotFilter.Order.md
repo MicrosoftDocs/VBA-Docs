@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFilter.Order
 ms.assetid: 643f6f28-d928-73e8-0b9a-f3835f6b2eb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotFilter.Order property (Excel)
 
-Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write  **Integer** .
+Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Order`
+_expression_. `Order`
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks
@@ -41,3 +42,4 @@ Increasing the evaluation order for a field will decrease the evaluation order o
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

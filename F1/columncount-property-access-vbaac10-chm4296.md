@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d2b63e8c-124f-49cf-924b-f25920a478eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ComboBox.ColumnCount property (Access)](http://msdn.microsoft.com/library/76db2415-ee22-89c6-6753-f20d636d41f8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

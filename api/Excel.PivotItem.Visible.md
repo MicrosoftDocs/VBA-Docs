@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.Visible
 ms.assetid: baf4bbe8-2582-a431-1ca1-a676a364b47f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **Visible** property for a PivotTable item is **True** if the item is curre
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

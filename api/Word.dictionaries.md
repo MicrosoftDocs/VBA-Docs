@@ -1,12 +1,13 @@
 ---
-title: Dictionaries Object (Word)
+title: Dictionaries object (Word)
 ms.prod: word
 ms.assetid: 41f31292-4b3e-0d7b-c857-f6b9a0662e9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionaries Object (Word)
+# Dictionaries object (Word)
 
 A collection of  **Dictionary** objects that includes the active custom spelling dictionaries.
 
@@ -55,5 +56,6 @@ The  **[Maximum](Word.Dictionaries.Maximum.md)** property returns the maximum nu
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

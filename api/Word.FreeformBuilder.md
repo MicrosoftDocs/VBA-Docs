@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (Word)
+title: FreeformBuilder object (Word)
 keywords: vbawd10.chm2505
 f1_keywords:
 - vbawd10.chm2505
@@ -8,10 +8,11 @@ api_name:
 - Word.FreeformBuilder
 ms.assetid: 31e89628-4b50-ff72-ce3d-dc7c161dad3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder Object (Word)
+# FreeformBuilder object (Word)
 
 Represents the geometry of a freeform while it is being built.
 
@@ -37,6 +38,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

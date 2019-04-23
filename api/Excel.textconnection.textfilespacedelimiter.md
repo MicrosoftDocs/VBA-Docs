@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 9f09960a-8c70-7f61-8f56-d291028ca8d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextConnection.TextFileSpaceDelimiter property (Excel)
 
- **True** if the space character is the delimiter when you import a text file into a query table. The default value is **False** . Read/Write **Boolean**
+ **True** if the space character is the delimiter when you import a text file into a query table. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TextFileSpaceDelimiter`
+_expression_. `TextFileSpaceDelimiter`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ ms.date: 06/08/2017
 
 [TextConnection Object](Excel.textconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

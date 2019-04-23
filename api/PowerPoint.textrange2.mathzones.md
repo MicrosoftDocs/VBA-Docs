@@ -1,19 +1,20 @@
 ---
-title: TextRange2.MathZones Property (PowerPoint)
+title: TextRange2.MathZones property (PowerPoint)
 ms.assetid: 77e13bb5-e1c2-4438-a9eb-a475fd5f372c
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# TextRange2.MathZones Property (PowerPoint)
+# TextRange2.MathZones property (PowerPoint)
 
 Sets the starting point and length of a math zone within a text range. Read-only
 
 
 ## Syntax
 
- _expression_. `MathZones`( `_Start_`, `_Length_` )
+_expression_. `MathZones`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 
@@ -35,6 +36,6 @@ A math zone is a text range within which math typography rules apply and outside
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
+[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

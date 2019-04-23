@@ -1,14 +1,15 @@
 ---
-title: WdRemoveDocInfoType Enumeration (Word)
+title: WdRemoveDocInfoType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRemoveDocInfoType
 ms.assetid: 5c3fb81d-3db9-2e9c-5b46-efe074b948c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRemoveDocInfoType Enumeration (Word)
+# WdRemoveDocInfoType enumeration (Word)
 
 Specifies the type of information to remove from a document.
 
@@ -23,7 +24,7 @@ Specifies the type of information to remove from a document.
 | **wdRDIDocumentProperties**|8|Removes document properties.|
 | **wdRDIDocumentServerProperties**|14|Removes document server properties.|
 | **wdRDIDocumentWorkspace**|10|Removes document workspace information.|
-| **wdRDIEmailHeader**|5|Removes e-mail header information.|
+| **wdRDIEmailHeader**|5|Removes email header information.|
 | **wdRDIInkAnnotTations**|11|Removes ink annotations.|
 | **wdRDIRemovePersonalInformation**|4|Removes personal information.|
 | **wdRDIRevisions**|2|Removes revision marks.|
@@ -33,3 +34,4 @@ Specifies the type of information to remove from a document.
 | **wdRDITaskpaneWebExtensions**|17|Removes taskpane web extensions information.|
 | **wdRDIVersions**|3|Removes document version information.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

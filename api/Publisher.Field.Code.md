@@ -1,5 +1,5 @@
 ---
-title: Field.Code Property (Publisher)
+title: Field.Code property (Publisher)
 keywords: vbapb10.chm6094851
 f1_keywords:
 - vbapb10.chm6094851
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Field.Code
 ms.assetid: bb2f3b23-dea1-bdfb-90bf-4b4ea09570f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Code Property (Publisher)
+# Field.Code property (Publisher)
 
 Returns a  **String** that represents the text displayed when the page view is set to show field codes. Read-only.
 
 
 ## Syntax
 
- _expression_. **Code**
+_expression_.**Code**
 
  _expression_ A variable that represents a  **Field** object.
 
@@ -55,4 +56,4 @@ Sub FindWWWHyperlinks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

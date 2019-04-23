@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeAssignmentNew2 Event (Project)
+title: Application.ProjectBeforeAssignmentNew2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentNew2
 ms.assetid: 9e2f3358-325e-53b9-3da6-5323482e2a47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentNew2 Event (Project)
+# Application.ProjectBeforeAssignmentNew2 event (Project)
 
 Occurs before one or more assignments are created. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeAssignmentNew2`( ` _pj_`, ` _Info_` )
+_expression_. `ProjectBeforeAssignmentNew2`( `_pj_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Project events do not occur when the project is embedded in another document or 
 
 The  **ProjectBeforeAssignmentNew2** event doesn't occur when an assignment is created as the result of a drag-and-drop operation in the **Resource Usage** view, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

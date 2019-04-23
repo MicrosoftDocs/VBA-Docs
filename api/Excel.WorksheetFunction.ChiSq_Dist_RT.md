@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Dist_RT Method (Excel)
+title: WorksheetFunction.ChiSq_Dist_RT method (Excel)
 keywords: vbaxl10.chm137399
 f1_keywords:
 - vbaxl10.chm137399
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ChiSq_Dist_RT
 ms.assetid: 65b8bd60-c13f-9f64-58c3-cc0ce582f939
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ChiSq_Dist_RT Method (Excel)
+# WorksheetFunction.ChiSq_Dist_RT method (Excel)
 
 Returns the right-tailed probability of the chi-squared distribution.
 
 
 ## Syntax
 
- _expression_. `ChiSq_Dist_RT`( `_Arg1_` , `_Arg2_` )
+_expression_. `ChiSq_Dist_RT`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ The ? 2 distribution is associated with a ?2 test. Use the ?2 test to compare ob
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

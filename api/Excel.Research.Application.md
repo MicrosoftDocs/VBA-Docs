@@ -8,6 +8,7 @@ api_name:
 - Excel.Research.Application
 ms.assetid: b54052f2-4fa5-b9c1-2408-5a43af0cb8fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Research](Excel.Research.md) object.
+_expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [Research Object](Excel.Research.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

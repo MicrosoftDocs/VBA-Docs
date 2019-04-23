@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (Publisher)
+title: Shape.ScaleHeight method (Publisher)
 keywords: vbapb10.chm2228261
 f1_keywords:
 - vbapb10.chm2228261
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.ScaleHeight
 ms.assetid: 733afebc-0946-07eb-0550-547a4dc9f9da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleHeight Method (Publisher)
+# Shape.ScaleHeight method (Publisher)
 
 Scales the height of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size.
 
 
 ## Syntax
 
- _expression_. **ScaleHeight**(**_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
+_expression_.**ScaleHeight**(**_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -39,7 +40,7 @@ The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Scales the shape relative to its current size.|
 | **msoTrue**|Scales the shape relative to its original size.|
@@ -92,4 +93,4 @@ Next shpLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

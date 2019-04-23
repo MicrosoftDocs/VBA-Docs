@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Range Property (Word)
+title: ContentControl.Range property (Word)
 keywords: vbawd10.chm266534913
 f1_keywords:
 - vbawd10.chm266534913
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.Range
 ms.assetid: e83efa5d-edd7-2cdc-ee6f-925db82e3d40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.Range Property (Word)
+# ContentControl.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** that represents the contents of the content control in the active document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -50,3 +51,4 @@ objCC.LockContentControl = True
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

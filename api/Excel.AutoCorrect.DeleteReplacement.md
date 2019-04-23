@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.DeleteReplacement Method (Excel)
+title: AutoCorrect.DeleteReplacement method (Excel)
 keywords: vbaxl10.chm545075
 f1_keywords:
 - vbaxl10.chm545075
@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.AutoCorrect.DeleteReplacement
 ms.assetid: 765e207d-64b3-c85d-ae10-937eaf836e0a
-ms.date: 06/08/2017
+ms.date: 04/06/2019
+localization_priority: Normal
 ---
 
 
-# AutoCorrect.DeleteReplacement Method (Excel)
+# AutoCorrect.DeleteReplacement method (Excel)
 
 Deletes an entry from the array of AutoCorrect replacements.
 
 
 ## Syntax
 
- _expression_. `DeleteReplacement`( `_What_` )
+_expression_.**DeleteReplacement** (_What_)
 
- _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
+_expression_ A variable that represents an **[AutoCorrect](Excel.AutoCorrect(object).md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,8 +37,7 @@ Variant
 
 ## Example
 
-This example removes the word "Temperature" from the array of AutoCorrect replacements.
-
+This example removes the word Temperature from the array of AutoCorrect replacements.
 
 ```vb
 With Application.AutoCorrect 
@@ -48,8 +46,6 @@ End With
 ```
 
 
-## See also
 
 
-[AutoCorrect Object](Excel.AutoCorrect(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

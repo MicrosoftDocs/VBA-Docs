@@ -1,5 +1,5 @@
 ---
-title: BorderArts.Count Property (Publisher)
+title: BorderArts.Count property (Publisher)
 keywords: vbapb10.chm7733251
 f1_keywords:
 - vbapb10.chm7733251
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArts.Count
 ms.assetid: 024cd14d-80f7-7372-c550-ef804661bbae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArts.Count Property (Publisher)
+# BorderArts.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **BorderArts** object.
 
@@ -59,3 +60,4 @@ End Sub
 
  [BorderArts Object](Publisher.BorderArts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

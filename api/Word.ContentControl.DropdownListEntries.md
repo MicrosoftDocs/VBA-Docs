@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DropdownListEntries Property (Word)
+title: ContentControl.DropdownListEntries property (Word)
 keywords: vbawd10.chm266534921
 f1_keywords:
 - vbawd10.chm266534921
@@ -8,10 +8,11 @@ api_name:
 - Word.ContentControl.DropdownListEntries
 ms.assetid: 4434c4cc-53f4-758d-5a9e-3a9aa2f74a05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.DropdownListEntries Property (Word)
+# ContentControl.DropdownListEntries property (Word)
 
 Returns a  **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection that represents the items in a drop-down list content control or in a combo box content control. Read-only.
 
@@ -19,7 +20,7 @@ For Office 2016, returns dropdown entries for accessing individual list items wi
 
 ## Syntax
 
- _expression_. `DropdownListEntries`
+_expression_. `DropdownListEntries`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -52,3 +53,4 @@ objCC.DropdownListEntries.Add("Other")
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

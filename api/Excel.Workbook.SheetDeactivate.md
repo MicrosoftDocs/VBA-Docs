@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetDeactivate Event (Excel)
+title: Workbook.SheetDeactivate event (Excel)
 keywords: vbaxl10.chm503089
 f1_keywords:
 - vbaxl10.chm503089
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetDeactivate
 ms.assetid: befde22b-69ce-c34f-2b9e-da5e026972e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetDeactivate Event (Excel)
+# Workbook.SheetDeactivate event (Excel)
 
 Occurs when any sheet is deactivated.
 
 
 ## Syntax
 
- _expression_. `SheetDeactivate`( `_Sh_` , )
+_expression_. `SheetDeactivate`( `_Sh_` , )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

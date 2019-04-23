@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Regroup Method (Excel)
+title: ShapeRange.Regroup method (Excel)
 keywords: vbaxl10.chm640089
 f1_keywords:
 - vbaxl10.chm640089
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.Regroup
 ms.assetid: d30d3064-c37e-84b0-10a6-11dcd18c593e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Regroup Method (Excel)
+# ShapeRange.Regroup method (Excel)
 
 Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single  **[Shape](Excel.Shape.md)** object.
 
 
 ## Syntax
 
- _expression_. `Regroup`
+_expression_. `Regroup`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Return value
@@ -50,3 +51,4 @@ ActiveWindow.Selection.ShapeRange.Regroup
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

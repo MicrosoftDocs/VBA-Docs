@@ -1,19 +1,20 @@
 ---
-title: Shape.ChangePicture Method (Visio)
+title: Shape.ChangePicture method (Visio)
 ms.prod: visio
 ms.assetid: 9193d802-cebd-2bfd-5f8e-400fac36c1a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ChangePicture Method (Visio)
+# Shape.ChangePicture method (Visio)
 
 Replaces the specified shape?s current picture with a new picture.
 
 
 ## Syntax
 
- _expression_. `ChangePicture`_(FileName,_ _ChangePictureFlags)_
+_expression_. `ChangePicture`_(FileName,_ _ChangePictureFlags)_
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -22,10 +23,10 @@ Replaces the specified shape?s current picture with a new picture.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
-| _FileName_|Required|STRING|Specifies the full path of the replacement picture.|
+| _FileName_|Required|**String**|Specifies the full path of the replacement picture.|
 | _ChangePictureFlags_|Optional|INT32|Reserved for future implementation. Has no effect.|
 
 ## Return value
@@ -37,4 +38,4 @@ Replaces the specified shape?s current picture with a new picture.
 
 The  **DOUBLE** returned represents the ratio of the picture?s width to its height.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

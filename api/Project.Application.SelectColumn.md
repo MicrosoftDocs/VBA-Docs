@@ -1,5 +1,5 @@
 ---
-title: Application.SelectColumn Method (Project)
+title: Application.SelectColumn method (Project)
 keywords: vbapj.chm2046
 f1_keywords:
 - vbapj.chm2046
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectColumn
 ms.assetid: 5bb674e9-253e-355f-a501-d0aeaef56535
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectColumn Method (Project)
+# Application.SelectColumn method (Project)
 
 Selects one or more columns.
 
 
 ## Syntax
 
- _expression_. `SelectColumn`( ` _Column_`, ` _Additional_`, ` _Extend_`, ` _Add_` )
+_expression_. `SelectColumn`( `_Column_`, `_Additional_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -51,4 +52,4 @@ Sub Select_Column()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

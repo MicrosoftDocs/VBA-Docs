@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.ReplyTime Property (Outlook)
+title: AppointmentItem.ReplyTime property (Outlook)
 keywords: vbaol11.chm897
 f1_keywords:
 - vbaol11.chm897
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.ReplyTime
 ms.assetid: cf455d15-a360-818a-b6a7-59f4d1e89f4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.ReplyTime Property (Outlook)
+# AppointmentItem.ReplyTime property (Outlook)
 
 Returns or sets a  **Date** indicating the reply time for the appointment. Read/write.
 
 
 ## Syntax
 
- _expression_. `ReplyTime`
+_expression_. `ReplyTime`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Date** indicating the reply time for the appointment. Read/
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Delete Method (Excel)
+title: ServerViewableItems.Delete method (Excel)
 keywords: vbaxl10.chm833075
 f1_keywords:
 - vbaxl10.chm833075
@@ -8,19 +8,20 @@ api_name:
 - Excel.ServerViewableItems.Delete
 ms.assetid: e6b53271-8a37-4bf3-fea2-46d02550391b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ServerViewableItems.Delete Method (Excel)
+# ServerViewableItems.Delete method (Excel)
 
 Deletes a reference to an object in the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection in the workbook.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_Index_` )
+_expression_.**Delete** (_Index_)
 
- _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ If you do not want a particular object to be viewable in Excel Services, use thi
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

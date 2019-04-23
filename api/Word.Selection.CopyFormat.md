@@ -1,5 +1,5 @@
 ---
-title: Selection.CopyFormat Method (Word)
+title: Selection.CopyFormat method (Word)
 keywords: vbawd10.chm158663165
 f1_keywords:
 - vbawd10.chm158663165
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.CopyFormat
 ms.assetid: ef892e50-2ff1-3ab0-1112-cf6d268a1103
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.CopyFormat Method (Word)
+# Selection.CopyFormat method (Word)
 
 Copies the character formatting of the first character in the selected text.
 
 
 ## Syntax
 
- _expression_. `CopyFormat`
+_expression_. `CopyFormat`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Envelope.AddressFromTop Property (Word)
+title: Envelope.AddressFromTop property (Word)
 keywords: vbawd10.chm152567822
 f1_keywords:
 - vbawd10.chm152567822
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.AddressFromTop
 ms.assetid: 425eb517-85af-68e2-951b-66282b813e9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.AddressFromTop Property (Word)
+# Envelope.AddressFromTop property (Word)
 
-Returns or sets the distance (in points) between the top edge of the envelope and the delivery address. Read/write  **Single** .
+Returns or sets the distance (in points) between the top edge of the envelope and the delivery address. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `AddressFromTop`
+_expression_. `AddressFromTop`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -61,3 +62,4 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintView
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

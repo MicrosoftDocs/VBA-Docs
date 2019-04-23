@@ -1,5 +1,5 @@
 ---
-title: Document.AutoSaveOn Property (Word)
+title: Document.AutoSaveOn property (Word)
 keywords: vbawd10.chm158007920
 f1_keywords:
 - vbawd10.chm158007920
@@ -7,10 +7,11 @@ ms.prod: word
 api_name:
 - Word.Document.AutoSaveOn
 ms.date: 07/28/2017
+localization_priority: Normal
 ---
 
 
-# Document.AutoSaveOn Property (Word)
+# Document.AutoSaveOn property (Word)
 
 **True** if the edits in the document are automatically saved. Read/write **Boolean**.
 
@@ -47,3 +48,5 @@ End Sub
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 [Document Object](Word.Document.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

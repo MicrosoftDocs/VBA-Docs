@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.AddOnArgs Property (Visio)
+title: ToolbarItem.AddOnArgs property (Visio)
 keywords: vis_sdr.chm13513045
 f1_keywords:
 - vis_sdr.chm13513045
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarItem.AddOnArgs
 ms.assetid: 2e498e9e-021c-3857-2420-f7f8cc5de6c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarItem.AddOnArgs Property (Visio)
+# ToolbarItem.AddOnArgs property (Visio)
 
 Gets or sets the argument string that you send to the add-on associated with a particular toolbar. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnArgs`
+_expression_. `AddOnArgs`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
@@ -39,4 +40,4 @@ An object's  **AddOnName** property indicates the name of the add-on to which th
 
  Beginning with Visio 2002, the **AddOnName** property used in the following example cannot execute a string that contains arbitrary Microsoft Visual Basic code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move it to a procedure in a document's Visual Basic project that is called from the **AddOnName** property, as shown in the following example.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

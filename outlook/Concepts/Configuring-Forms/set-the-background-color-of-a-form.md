@@ -3,6 +3,7 @@ title: Set the Background Color of a Form
 ms.prod: outlook
 ms.assetid: e1af9e24-3038-dcfb-6a60-632b714f760f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,4 +21,4 @@ ms.date: 06/08/2017
 
  **Note**  When you use form regions, if the form background value is set to  **Button Face** (the default), the background color is automatically determined based on the current Microsoft Office theme. Setting the color to another value prevents the color from being automatically determined. For more information, see [Creating a Form Region](../Outlook-Forms/create-a-form-region.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

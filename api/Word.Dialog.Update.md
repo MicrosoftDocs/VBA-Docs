@@ -1,5 +1,5 @@
 ---
-title: Dialog.Update Method (Word)
+title: Dialog.Update method (Word)
 keywords: vbawd10.chm163053870
 f1_keywords:
 - vbawd10.chm163053870
@@ -8,19 +8,20 @@ api_name:
 - Word.Dialog.Update
 ms.assetid: 7adf7403-77eb-85da-8a5a-092d1c8c548f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dialog.Update Method (Word)
+# Dialog.Update method (Word)
 
 Updates the values shown in a built-in Microsoft Word dialog box.
 
 
 ## Syntax
 
- _expression_. `Update`
+_expression_. `Update`
 
- _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
+_expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ myDialog.Show
 
 [Dialog Object](Word.Dialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.SaveAsWebObject Property (Visio)
+title: Application.SaveAsWebObject property (Visio)
 keywords: vis_sdr.chm10051660
 f1_keywords:
 - vis_sdr.chm10051660
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.SaveAsWebObject
 ms.assetid: ce3f8cb0-8e22-e364-e7d8-b1fc3506bc59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SaveAsWebObject Property (Visio)
+# Application.SaveAsWebObject property (Visio)
 
 Returns a reference to the  **IDispatch** interface of a **VisSaveAsWeb** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SaveAsWebObject`
+_expression_. `SaveAsWebObject`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -91,4 +92,4 @@ Public Sub SaveAsWeb (vsoApplication as Visio.Application)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,23 @@
 ---
-title: OlkControl Object (Outlook)
+title: OlkControl object (Outlook)
 keywords: vbaol11.chm1000510
 f1_keywords:
 - vbaol11.chm1000510
 ms.prod: outlook
 ms.assetid: 426a3ce8-9103-d72e-13ee-9fb47ae0eb07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkControl Object (Outlook)
+# OlkControl object (Outlook)
 
 Defines a set of control properties common to some Microsoft Outlook controls.
 
 
 ## Remarks
 
-The members offered by  **OlkControl** can apply to most Outlook controls. **OlkControl** provides a class to which you can conveniently cast an Outlook control without resorting to reflection. Although **OlkControl** does not apply to Microsoft Forms 2.0 controls, similar properties are available to Forms 2.0 controls. For more information, see [KB 180972: Additional Control Properties Available for Programming](https://support.microsoft.com/kb/180972).
-
+The members offered by  **OlkControl** can apply to most Outlook controls. **OlkControl** provides a class to which you can conveniently cast an Outlook control without resorting to reflection. Although **OlkControl** does not apply to Microsoft Forms 2.0 controls, similar properties are available to Forms 2.0 controls. 
 
 ## Example
 
@@ -46,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ControlProperty](Outlook.OlkControl.ControlProperty.md)|
 |[EnableAutoLayout](Outlook.OlkControl.EnableAutoLayout.md)|
@@ -61,4 +61,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

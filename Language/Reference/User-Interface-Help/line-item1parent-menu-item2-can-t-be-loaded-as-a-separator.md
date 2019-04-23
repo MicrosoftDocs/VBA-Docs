@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cd56b902-40d6-890f-717a-540e2ae79d4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a  **Menu** control whose parent or top-level menu is defined as a menu separator. Top-level menus can't be menu separators. The separator won't be set.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

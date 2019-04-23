@@ -3,6 +3,7 @@ title: Outlook Controls
 ms.prod: outlook
 ms.assetid: ae0731c4-fa57-4295-a8b4-ed70af53dfc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,5 +39,5 @@ ms.date: 06/08/2017
 -  [Width Property (Outlook Controls)](../Outlook-Controls/width-property-outlook-controls.md)
     
 -  [ZOrder Method (Outlook Controls)](../Outlook-Controls/zorder-method-outlook-controls.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

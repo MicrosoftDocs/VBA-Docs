@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Display Method (Outlook)
+title: MeetingItem.Display method (Outlook)
 keywords: vbaol11.chm1431
 f1_keywords:
 - vbaol11.chm1431
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MeetingItem.Display
 ms.assetid: 8b6f7748-7a96-0ab2-c11f-3c7e9b729b05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.Display Method (Outlook)
+# MeetingItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

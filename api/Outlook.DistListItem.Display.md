@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Display Method (Outlook)
+title: DistListItem.Display method (Outlook)
 keywords: vbaol11.chm1143
 f1_keywords:
 - vbaol11.chm1143
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.Display
 ms.assetid: 76a708ac-abfe-2a1c-85b3-624eb3b0514a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.Display Method (Outlook)
+# DistListItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -43,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

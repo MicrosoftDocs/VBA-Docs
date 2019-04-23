@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftMargin Property (Publisher)
+title: PageSetup.LeftMargin property (Publisher)
 keywords: vbapb10.chm6946819
 f1_keywords:
 - vbapb10.chm6946819
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PageSetup.LeftMargin
 ms.assetid: 19fbb72e-bb6e-18e9-28f3-c7e99b071bfb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.LeftMargin Property (Publisher)
+# PageSetup.LeftMargin property (Publisher)
 
 Returns a  **Variant** that represents the distance (in points) between the left edge of the printer sheet and the left edge of the publication pages when multiple pages are printed on a single sheet. Read-only.
 
 
 ## Syntax
 
- _expression_. **LeftMargin**
+_expression_.**LeftMargin**
 
  _expression_ A variable that represents a  **PageSetup** object.
 
@@ -34,4 +35,4 @@ Numeric values are evaluated as points. String values can be in any unit support
 
 The  **LeftMargin** property returns a value only when you print multiple pages on a single sheet of printer paper. If you try to use the **LeftMargin** property in other circumstances, Microsoft Publisher will return **Nothing**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

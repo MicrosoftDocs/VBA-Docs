@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertSymbol Method (PowerPoint)
+title: TextRange.InsertSymbol method (PowerPoint)
 keywords: vbapp10.chm569022
 f1_keywords:
 - vbapp10.chm569022
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.InsertSymbol
 ms.assetid: a424e011-1bfe-f690-cbc0-604f89718831
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.InsertSymbol Method (PowerPoint)
+# TextRange.InsertSymbol method (PowerPoint)
 
 Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents a symbol inserted into the specified text range.
 
 
 ## Syntax
 
- _expression_. `InsertSymbol`( `_FontName_`, `_CharNumber_`, `_UniCode_` )
+_expression_. `InsertSymbol`( `_FontName_`, `_CharNumber_`, `_UniCode_` )
 
  _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -44,7 +45,7 @@ The  _CharNumber_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. The CharNumber argument represents an ASCII character number.|
 |**msoTrue**|The CharNumber argument represents a Unicode character.|
@@ -77,3 +78,4 @@ End Sub
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

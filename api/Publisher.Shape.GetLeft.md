@@ -1,5 +1,5 @@
 ---
-title: Shape.GetLeft Method (Publisher)
+title: Shape.GetLeft method (Publisher)
 keywords: vbapb10.chm2228246
 f1_keywords:
 - vbapb10.chm2228246
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.GetLeft
 ms.assetid: e8f28ab3-f9da-eae7-2a21-b8b2505e9b44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GetLeft Method (Publisher)
+# Shape.GetLeft method (Publisher)
 
 Returns the distance of the shape's or shape range's left edge from the left edge of the leftmost page in the current view as a  **Single** in the specified units.
 
 
 ## Syntax
 
- _expression_. **GetLeft**(**_Unit_**)
+_expression_.**GetLeft**(**_Unit_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -59,4 +60,4 @@ With ActiveDocument.Pages(1).Shapes.Range
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

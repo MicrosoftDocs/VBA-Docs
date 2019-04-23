@@ -1,5 +1,5 @@
 ---
-title: Application.CustomMenus Property (Visio)
+title: Application.CustomMenus property (Visio)
 keywords: vis_sdr.chm10013345
 f1_keywords:
 - vis_sdr.chm10013345
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.CustomMenus
 ms.assetid: c8ccb1fa-2654-17db-166f-c724da345626
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomMenus Property (Visio)
+# Application.CustomMenus property (Visio)
 
 Gets a  **UIObject** object that represents the current custom menus and accelerators of an **Application** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CustomMenus`
+_expression_. `CustomMenus`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -33,7 +34,7 @@ UIObject
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomMenus** property returns **Nothing** .
+If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomMenus** property returns **Nothing**.
 
 
 ## Example
@@ -76,4 +77,4 @@ Sub CustomMenus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

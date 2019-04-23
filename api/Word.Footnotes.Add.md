@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Add Method (Word)
+title: Footnotes.Add method (Word)
 keywords: vbawd10.chm155320324
 f1_keywords:
 - vbawd10.chm155320324
@@ -8,19 +8,20 @@ api_name:
 - Word.Footnotes.Add
 ms.assetid: 952a90b0-f550-820b-15e7-82bad3cc201f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Footnotes.Add Method (Word)
+# Footnotes.Add method (Word)
 
 Returns a  **Footnote** object that represents a footnote added to a range.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Range_` , `_Reference_` , `_Text_` )
+_expression_.**Add**( `_Range_` , `_Reference_` , `_Text_` )
 
- _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Parameters
@@ -70,3 +71,4 @@ ActiveDocument.Footnotes.Add Range:= Selection.Range , _
 
 [Footnotes Collection Object](Word.footnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

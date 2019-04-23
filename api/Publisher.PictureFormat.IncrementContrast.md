@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementContrast Method (Publisher)
+title: PictureFormat.IncrementContrast method (Publisher)
 keywords: vbapb10.chm3604497
 f1_keywords:
 - vbapb10.chm3604497
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.IncrementContrast
 ms.assetid: cff50058-2b88-fc2d-633d-411380e5f2f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementContrast Method (Publisher)
+# PictureFormat.IncrementContrast method (Publisher)
 
 Changes the contrast of the picture by the specified amount.
 
 
 ## Syntax
 
- _expression_. **IncrementContrast**(**_Increment_**)
+_expression_.**IncrementContrast**(**_Increment_**)
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -54,4 +55,4 @@ Next shpLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

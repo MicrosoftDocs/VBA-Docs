@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Norm_Dist Method (Excel)
+title: WorksheetFunction.Norm_Dist method (Excel)
 keywords: vbaxl10.chm137370
 f1_keywords:
 - vbaxl10.chm137370
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Norm_Dist
 ms.assetid: 68208573-94ef-aab3-42d0-dee396b7504d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Norm_Dist Method (Excel)
+# WorksheetFunction.Norm_Dist method (Excel)
 
 Returns the normal distribution for the specified mean and standard deviation. This function has a wide range of applications in statistics, including hypothesis testing.
 
 
 ## Syntax
 
- _expression_. `Norm_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Norm_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

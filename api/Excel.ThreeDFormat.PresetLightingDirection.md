@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.PresetLightingDirection
 ms.assetid: 5aea55a7-1718-a741-fc9b-f3e402469651
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ThreeDFormat.PresetLightingDirection property (Excel)
 
-Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection** .
+Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection**.
 
 
 ## Syntax
 
- _expression_. `PresetLightingDirection`
+_expression_. `PresetLightingDirection`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
@@ -44,7 +45,7 @@ You won't see the lighting effects you set if the extrusion has a wire frame sur
 
 ## Example
 
-This example specifies that the extrusion for shape one on  `myDocument` extend toward the top of the shape and that the lighting for the extrusion come from the left.
+This example specifies that the extrusion for shape one on  _myDocument_ extend toward the top of the shape and that the lighting for the extrusion come from the left.
 
 
 ```vb
@@ -62,3 +63,4 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

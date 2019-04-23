@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0aa00d27-3724-92e6-656c-71f15f0740d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Disk files often have data stored in proprietary formats. This error has the fol
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

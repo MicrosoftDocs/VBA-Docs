@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ShowWizard Method (Word)
+title: MailMerge.ShowWizard method (Word)
 keywords: vbawd10.chm153092210
 f1_keywords:
 - vbawd10.chm153092210
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.ShowWizard
 ms.assetid: 002e6582-4600-c897-f475-546375416cf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.ShowWizard Method (Word)
+# MailMerge.ShowWizard method (Word)
 
 Displays the Mail Merge Wizard in a document.
 
 
 ## Syntax
 
- _expression_. `ShowWizard`( `_InitialState_` , `_ShowDocumentStep_` , `_ShowTemplateStep_` , `_ShowDataStep_` , `_ShowWriteStep_` , `_ShowPreviewStep_` , `_ShowMergeStep_` )
+_expression_. `ShowWizard`( `_InitialState_` , `_ShowDocumentStep_` , `_ShowTemplateStep_` , `_ShowDataStep_` , `_ShowWriteStep_` , `_ShowPreviewStep_` , `_ShowMergeStep_` )
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End Sub
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

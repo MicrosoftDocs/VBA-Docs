@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the VBA Visio object model.
 ms.prod: visio
 ms.assetid: 44b55d08-8faa-4048-bf12-486d79ed112c
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 
@@ -22,6 +23,7 @@ This section contains documentation for the enumerations in the Visio object mod
 - [VisCellVals](Visio.viscellvals.md)
 - [VisCenterViewFlags](Visio.VisCenterViewFlags.md)
 - [VisCharsBias](Visio.vischarsbias.md)
+- [VisColoringMethod](Visio.viscoloringmethod.md)
 - [VisConnectedShapesFlags](Visio.VisConnectedShapesFlags.md)
 - [VisConnectorEnds](Visio.VisConnectorEnds.md)
 - [VisContainerAutoResize](Visio.VisContainerAutoResize.md)
@@ -111,6 +113,7 @@ This section contains documentation for the enumerations in the Visio object mod
 - [VisRasterExportRotation](Visio.VisRasterExportRotation.md)
 - [VisRasterExportSize](Visio.VisRasterExportSize.md)
 - [VisRasterExportSizeUnits](Visio.VisRasterExportSizeUnits.md)
+- [VisRecordsetFieldStatus](Visio.visrecordsetfieldstatus.md)
 - [VisRefreshSettings](Visio.visrefreshsettings.md)
 - [VisRegionalUIOptions](Visio.visregionaluioptions.md)
 - [VisRemoveHiddenInfoItems](Visio.visremovehiddeninfoitems.md)
@@ -167,3 +170,5 @@ This section contains documentation for the enumerations in the Visio object mod
 - [VisWindowStates](Visio.viswindowstates.md)
 - [VisWinTypes](Visio.viswintypes.md)
 - [VisZoomBehavior](Visio.viszoombehavior.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

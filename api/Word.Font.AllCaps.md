@@ -1,5 +1,5 @@
 ---
-title: Font.AllCaps Property (Word)
+title: Font.AllCaps property (Word)
 keywords: vbawd10.chm156369030
 f1_keywords:
 - vbawd10.chm156369030
@@ -8,26 +8,27 @@ api_name:
 - Word.Font.AllCaps
 ms.assetid: ef881fd6-bb35-7cc6-b048-c9ed2111f821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.AllCaps Property (Word)
+# Font.AllCaps property (Word)
 
- **True** if the font is formatted as all capital letters. Read/write **Long** .
+ **True** if the font is formatted as all capital letters. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `AllCaps`
+_expression_. `AllCaps`
 
  _expression_ A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
 
-Returns  **True** , **False** , or wdUndefined (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** (reverses the current setting).
+Returns  **True**, **False**, or wdUndefined (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle** (reverses the current setting).
 
-Setting  **AllCaps** to **True** sets **[SmallCaps](Word.Font.SmallCaps.md)** to **False** , and vice versa.
+Setting  **AllCaps** to **True** sets **[SmallCaps](Word.Font.SmallCaps.md)** to **False**, and vice versa.
 
 
 ## Example
@@ -62,3 +63,4 @@ End If
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

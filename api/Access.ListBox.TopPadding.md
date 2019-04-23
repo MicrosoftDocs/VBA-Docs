@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.ListBox.TopPadding
 ms.assetid: b453cfc4-d059-395a-7c62-ae07f12e1677
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # ListBox.TopPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the list box and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the list box and its top gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `TopPadding`
+_expression_.**TopPadding**
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
-[ListBox Object](Access.ListBox.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

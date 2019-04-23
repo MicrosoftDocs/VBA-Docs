@@ -1,23 +1,24 @@
 ---
-title: MailItem.Send Event (Outlook)
+title: MailItem.Send event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.Send
 ms.assetid: 5acd0507-a96e-7235-e6a5-f31a4c0b7420
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Send Event (Outlook)
+# MailItem.Send event (Outlook)
 
 Occurs when the user selects the  **Send** action for an item, or when the **Send** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
 
- _expression_. `Send`( `_Cancel_` )
+_expression_. `Send`( `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -26,11 +27,11 @@ Occurs when the user selects the  **Send** action for an item, or when the **Sen
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the send operation is not completed and the inspector is left open.|
+| _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the send operation is not completed and the inspector is left open.|
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the item is not sent.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the item is not sent.
 
 
 ## Example
@@ -70,3 +71,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

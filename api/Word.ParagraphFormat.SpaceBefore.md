@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceBefore Property (Word)
+title: ParagraphFormat.SpaceBefore property (Word)
 keywords: vbawd10.chm156434543
 f1_keywords:
 - vbawd10.chm156434543
@@ -8,19 +8,20 @@ api_name:
 - Word.ParagraphFormat.SpaceBefore
 ms.assetid: da20b86e-b69c-f7df-cbaa-46f208ddbdc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SpaceBefore Property (Word)
+# ParagraphFormat.SpaceBefore property (Word)
 
-Returns or sets the spacing (in points) before the specified paragraphs. Read/write  **Single** .
+Returns or sets the spacing (in points) before the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `SpaceBefore`
+_expression_. `SpaceBefore`
 
- _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveDocument.Range.ParagraphFormat.SpaceBefore = 12
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

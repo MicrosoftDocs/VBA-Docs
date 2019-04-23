@@ -1,5 +1,5 @@
 ---
-title: Attachment.Position Property (Outlook)
+title: Attachment.Position property (Outlook)
 keywords: vbaol11.chm2370
 f1_keywords:
 - vbaol11.chm2370
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Attachment.Position
 ms.assetid: f280b9f5-3484-ad4c-87f8-1caa8631d808
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Attachment.Position Property (Outlook)
+# Attachment.Position property (Outlook)
 
 Returns or sets a  **Long** indicating the position of the attachment within the body of the item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Outlook.Attachment.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ The  **Position** property only works on an attachment for an item where the bod
 
 If you set the  **Position** property to 0 for an item where the body format is RTF, the attachment will be hidden in Outlook's user interface. The attachment is not visible in a view, and the user cannot remove the attachment from the body of the item. The attachment can still be accessed through the **[Attachments](Outlook.Attachments.md)** collection on the item.
 
-The only item that allows programmatic setting of the  **BodyFormat** property is a **[MailItem](Outlook.MailItem.md)** . Other item types such as Appointment, Contact, and Task are RTF by default.
+The only item that allows programmatic setting of the  **BodyFormat** property is a **[MailItem](Outlook.MailItem.md)**. Other item types such as Appointment, Contact, and Task are RTF by default.
 
 
 ## See also
@@ -37,3 +38,4 @@ The only item that allows programmatic setting of the  **BodyFormat** property i
 
 [Attachment Object](Outlook.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

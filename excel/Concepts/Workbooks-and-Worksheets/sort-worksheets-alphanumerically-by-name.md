@@ -3,6 +3,7 @@ title: Sort Worksheets Alphanumerically by Name
 ms.prod: excel
 ms.assetid: 20ec8072-4886-40bc-8784-ab3d100d613a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,6 +35,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
+MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.BaselineSave Method (Project)
+title: Application.BaselineSave method (Project)
 keywords: vbapj.chm610
 f1_keywords:
 - vbapj.chm610
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BaselineSave
 ms.assetid: b64967fe-f029-fc32-762a-f81cac405447
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BaselineSave Method (Project)
+# Application.BaselineSave method (Project)
 
 Creates a baseline plan.
 
 
 ## Syntax
 
- _expression_. `BaselineSave`( ` _All_`, ` _Copy_`, ` _Into_`, ` _RollupToSummaryTasks_`, ` _RollupFromSubtasks_`, ` _SetDefaults_` )
+_expression_. `BaselineSave`( `_All_`, `_Copy_`, `_Into_`, `_RollupToSummaryTasks_`, `_RollupFromSubtasks_`, `_SetDefaults_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -63,4 +64,4 @@ Sub Baseline_Save()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

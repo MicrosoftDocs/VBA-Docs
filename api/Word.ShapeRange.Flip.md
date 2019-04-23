@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Flip Method (Word)
+title: ShapeRange.Flip method (Word)
 keywords: vbawd10.chm162856975
 f1_keywords:
 - vbawd10.chm162856975
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.Flip
 ms.assetid: 363c222b-f0fc-8d42-5b06-82ec607a00c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Flip Method (Word)
+# ShapeRange.Flip method (Word)
 
 Flips a shape horizontally or vertically.
 
 
 ## Syntax
 
- _expression_. `Flip`( `_FlipCmd_` )
+_expression_. `Flip`( `_FlipCmd_` )
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ End Sub
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

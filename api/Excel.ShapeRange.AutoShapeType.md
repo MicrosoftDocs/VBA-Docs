@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.AutoShapeType
 ms.assetid: de4c8273-2804-012c-38a0-7689aa54b02e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeRange.AutoShapeType property (Excel)
 
-Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **[MsoAutoShapeType](./Office.MsoAutoShapeType.md)** .
+Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **[MsoAutoShapeType](Office.MsoAutoShapeType.md)**.
 
 
 ## Syntax
 
- _expression_. `AutoShapeType`
+_expression_. `AutoShapeType`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ Use the  **[Type](Excel.ConnectorFormat.Type.md)** property of the **[ConnectorF
 
 ## Example
 
-This example replaces all 16-point stars with 32-point stars in  `myDocument`.
+This example replaces all 16-point stars with 32-point stars in  _myDocument_.
 
 
 ```vb
@@ -50,3 +51,4 @@ Next
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

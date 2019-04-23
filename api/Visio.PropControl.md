@@ -5,6 +5,7 @@ api_name:
 - Visio.PropControl
 ms.assetid: 615e5038-d84d-9527-6987-95f289da77d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether a shape's custom properties (shape data) are displayed in the
 
 ## Syntax
 
- _expression_. **PropControl**
+_expression_.**PropControl**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -48,4 +49,4 @@ This behavior can also be set in the SelectMode cell in the Group Properties sec
 
 The value of the  **PropControl** property corresponds to the setting of the **Details** check box in the **Publishing options** list on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

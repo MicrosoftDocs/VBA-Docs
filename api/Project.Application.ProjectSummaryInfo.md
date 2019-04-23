@@ -1,5 +1,5 @@
 ---
-title: Application.ProjectSummaryInfo Method (Project)
+title: Application.ProjectSummaryInfo method (Project)
 keywords: vbapj.chm601
 f1_keywords:
 - vbapj.chm601
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ProjectSummaryInfo
 ms.assetid: 7275598c-02b1-7e07-ecdb-04fa0a21f41a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectSummaryInfo Method (Project)
+# Application.ProjectSummaryInfo method (Project)
 
 Sets information about a project.
 
 
 ## Syntax
 
- _expression_. `ProjectSummaryInfo`( ` _Project_`, ` _Title_`, ` _Subject_`, ` _Author_`, ` _Company_`, ` _Manager_`, ` _Keywords_`, ` _Comments_`, ` _Start_`, ` _Finish_`, ` _ScheduleFrom_`, ` _CurrentDate_`, ` _Calendar_`, ` _StatusDate_`, ` _Priority_`, ` _PartiallyDisabled_` )
+_expression_. `ProjectSummaryInfo`( `_Project_`, `_Title_`, `_Subject_`, `_Author_`, `_Company_`, `_Manager_`, `_Keywords_`, `_Comments_`, `_Start_`, `_Finish_`, `_ScheduleFrom_`, `_CurrentDate_`, `_Calendar_`, `_StatusDate_`, `_Priority_`, `_PartiallyDisabled_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sets information about a project.
 
 Using the  **ProjectSummaryInfo** method with no arguments displays the **Project Information** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

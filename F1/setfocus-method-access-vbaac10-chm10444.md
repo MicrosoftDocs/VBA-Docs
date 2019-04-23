@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 087d5613-ddb1-4ba2-8d2c-4023388a4ac1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.SetFocus method (Access)](http://msdn.microsoft.com/library/ec0c4c1a-72cb-f766-c05b-fc1e99e5c8e9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

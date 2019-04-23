@@ -1,23 +1,24 @@
 ---
-title: DataLabels.Item Method (PowerPoint)
+title: DataLabels.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Item
 ms.assetid: 233cb110-f20c-4e68-9033-f9c2073ac061
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.Item Method (PowerPoint)
+# DataLabels.Item method (PowerPoint)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
+_expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ End With
 
 [DataLabels Object](PowerPoint.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

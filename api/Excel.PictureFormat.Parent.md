@@ -8,6 +8,7 @@ api_name:
 - Excel.PictureFormat.Parent
 ms.assetid: 215d013c-02cc-bbe2-32f1-585888506ece
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

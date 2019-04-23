@@ -1,5 +1,5 @@
 ---
-title: Shape.Shadow Property (Publisher)
+title: Shape.Shadow property (Publisher)
 keywords: vbapb10.chm2228296
 f1_keywords:
 - vbapb10.chm2228296
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Shadow
 ms.assetid: cfb908ae-ef1d-9539-1f82-2693cbe38d97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Shadow Property (Publisher)
+# Shape.Shadow property (Publisher)
 
 Returns a  **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
 
- _expression_. **Shadow**
+_expression_.**Shadow**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -39,4 +40,4 @@ Sub SetShapeShadow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

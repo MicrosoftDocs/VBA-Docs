@@ -1,5 +1,5 @@
 ---
-title: Selection.HeaderFooter Property (Word)
+title: Selection.HeaderFooter property (Word)
 keywords: vbawd10.chm158662962
 f1_keywords:
 - vbawd10.chm158662962
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.HeaderFooter
 ms.assetid: b2eeeb83-49bf-236e-e795-6231ff20e368
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.HeaderFooter Property (Word)
+# Selection.HeaderFooter property (Word)
 
 Returns a  **[HeaderFooter](Word.HeaderFooter.md)** object for the specified selection. Read-only.
 
 
 ## Syntax
 
- _expression_. `HeaderFooter`
+_expression_. `HeaderFooter`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ Selection.HeaderFooter.PageNumbers.Add _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Search Method (Excel)
+title: WorksheetFunction.Search method (Excel)
 keywords: vbaxl10.chm137116
 f1_keywords:
 - vbaxl10.chm137116
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Search
 ms.assetid: 6abe7b16-172b-83d1-db17-429fd29ec882
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Search Method (Excel)
+# WorksheetFunction.Search method (Excel)
 
 SEARCH and SEARCHB locate one text string within a second text string, and return the number of the starting position of the first text string from the first character of the second text string. 
 
 
 ## Syntax
 
- _expression_. `Search`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Search`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

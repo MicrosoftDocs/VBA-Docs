@@ -1,15 +1,17 @@
 ---
-title: String Manipulation Keyword Summary
+title: String manipulation keyword summary
 ms.prod: office
 ms.assetid: 736ca4ac-3fbb-097a-1c0a-04c570b532f7
-ms.date: 06/08/2017
+ms.date: 11/29/2018
+localization_priority: Normal
 ---
 
 
-# String Manipulation Keyword Summary
+# String manipulation keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Compare two strings.|[StrComp](strcomp-function.md)|
 |Convert strings.|[StrConv](strconv-function.md)|
@@ -22,3 +24,8 @@ ms.date: 06/08/2017
 |Set string comparison rules.|[Option Compare](option-compare-statement.md)|
 |Work with ASCII and ANSI values.|[Asc](asc-function.md), [Chr](chr-function.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

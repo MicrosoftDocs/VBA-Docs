@@ -1,5 +1,5 @@
 ---
-title: Column.Select Method (Word)
+title: Column.Select method (Word)
 keywords: vbawd10.chm156237823
 f1_keywords:
 - vbawd10.chm156237823
@@ -8,19 +8,20 @@ api_name:
 - Word.Column.Select
 ms.assetid: 304d7e2a-8365-b609-6765-655eea45dee2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Column.Select Method (Word)
+# Column.Select method (Word)
 
 Selects the specified table column.
 
 
 ## Syntax
 
- _expression_. `Select`
+_expression_.**Select**
 
- _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
+_expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ After using this method, use the  **[Selection](Word.Selection.md)** property to
 
 [Column Object](Word.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

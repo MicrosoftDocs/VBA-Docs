@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.SheetViews
 ms.assetid: eb88a287-0ec7-f7cf-7aae-de529441ebb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified wind
 
 ## Syntax
 
- _expression_. `SheetViews`
+_expression_. `SheetViews`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified wind
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

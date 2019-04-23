@@ -1,5 +1,5 @@
 ---
-title: Layer.Add Method (Visio)
+title: Layer.Add method (Visio)
 keywords: vis_sdr.chm11816670
 f1_keywords:
 - vis_sdr.chm11816670
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layer.Add
 ms.assetid: 6e1bd140-426e-cb2d-b883-17ac07117137
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layer.Add Method (Visio)
+# Layer.Add method (Visio)
 
 Adds a  **Shape** object to a **Layer** object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_SheetObject_` , `_fPresMems_` )
+_expression_.**Add**( `_SheetObject_` , `_fPresMems_` )
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
@@ -110,4 +111,4 @@ Public Sub AddShapesToLayer_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.FileExportConverter.Description
 ms.assetid: b2bc70da-550b-9286-b534-315ba0916c85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FileExportConverter.Description property (Excel)
 
-Returns the description for the file converter. Read-only  **String** .
+Returns the description for the file converter. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a '[FileExportConverter](Excel.FileExportConverter.md)' object.
+_expression_ A variable that represents a '[FileExportConverter](Excel.FileExportConverter.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ MsgBox fcTemp.Description
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

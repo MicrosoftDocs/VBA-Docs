@@ -1,22 +1,23 @@
 ---
-title: Theme.ThemeVariants Property (PowerPoint)
+title: Theme.ThemeVariants property (PowerPoint)
 keywords: vbapp10.chm740002
 f1_keywords:
 - vbapp10.chm740002
 ms.assetid: f88d8c2c-4964-7392-5457-25216ece92d0
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Theme.ThemeVariants Property (PowerPoint)
+# Theme.ThemeVariants property (PowerPoint)
 
 Returns a  **[ThemeVariants](PowerPoint.themevariant.md)** collection that represents the variations in the theme.
 
 
 ## Syntax
 
- _expression_. `ThemeVariants`
+_expression_. `ThemeVariants`
 
  _expression_ A variable that represents a 'Theme' object.
 
@@ -58,4 +59,4 @@ End Sub
 
  **THEMEVARIANTS**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

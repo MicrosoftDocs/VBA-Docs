@@ -3,6 +3,7 @@ title: Set properties of ActiveX Data Objects in Visual Basic
 ms.prod: access
 ms.assetid: 54955634-d354-54ff-495b-1f696e392dfe
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -48,3 +49,4 @@ The following table lists some Access-defined properties that apply to ADO objec
 |**Table**|**DatasheetBackColor**, **DatasheetCellsEffect**, **DatasheetFontHeight**, **DatasheetFontItalic**, **DatasheetFontName**, **DatasheetFontUnderline**, **DatasheetFontWeight**, **DatasheetForeColor**, **DatasheetGridlinesBehavior**, **DatasheetGridlinesColor**, **Description**, **FrozenColumns**, **RowHeight**, **ShowGrid**|
 |**Field**|**Caption**, **ColumnHidden**, **ColumnOrder**, **ColumnWidth**, **DecimalPlaces**, **Description**, **Format**, **InputMask**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

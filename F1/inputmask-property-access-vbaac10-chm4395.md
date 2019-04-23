@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: caa58ef0-acbe-45b1-9cbe-74a0bc487931
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ComboBox.InputMask property (Access)](http://msdn.microsoft.com/library/da40a7cb-d962-dcb7-e536-c90c2753aaed%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

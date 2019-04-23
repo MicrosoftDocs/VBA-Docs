@@ -1,5 +1,5 @@
 ---
-title: Options.AutoKeyboardSwitching Property (Word)
+title: Options.AutoKeyboardSwitching property (Word)
 keywords: vbawd10.chm162988431
 f1_keywords:
 - vbawd10.chm162988431
@@ -8,24 +8,25 @@ api_name:
 - Word.Options.AutoKeyboardSwitching
 ms.assetid: 22bc427f-20fd-107e-b3c0-c1ec9866a716
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoKeyboardSwitching Property (Word)
+# Options.AutoKeyboardSwitching property (Word)
 
- **True** if Microsoft Word automatically switches the keyboard language to match what you're typing at any given time. Read/write **Boolean** .
+ **True** if Microsoft Word automatically switches the keyboard language to match what you are typing at any given time. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoKeyboardSwitching`
+_expression_. `AutoKeyboardSwitching`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
 
 ## Remarks
 
-To use this property, you must have the  **[CheckLanguage](Word.Application.CheckLanguage.md)** property set to **True** .
+To use this property, you must have the  **[CheckLanguage](Word.Application.CheckLanguage.md)** property set to **True**.
 
 
 ## Example
@@ -48,3 +49,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

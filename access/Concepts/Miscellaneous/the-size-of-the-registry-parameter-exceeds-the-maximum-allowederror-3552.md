@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3102f5c2-66c7-50cb-19ba-6d04e1d95fb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Each parameter in the Microsoft Windows Registry has a maximum size. The setting
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

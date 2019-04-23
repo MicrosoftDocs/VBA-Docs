@@ -1,5 +1,5 @@
 ---
-title: Application.DocumentChange Event (Word)
+title: Application.DocumentChange event (Word)
 keywords: vbawd10.chm400003
 f1_keywords:
 - vbawd10.chm400003
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.DocumentChange
 ms.assetid: 853cbe7e-e4ac-2dba-826a-695d5c137d48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocumentChange Event (Word)
+# Application.DocumentChange event (Word)
 
 Occurs when a new document is created, when an existing document is opened, or when another document is made the active document.
 
@@ -62,3 +63,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

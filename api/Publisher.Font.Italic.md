@@ -1,5 +1,5 @@
 ---
-title: Font.Italic Property (Publisher)
+title: Font.Italic property (Publisher)
 keywords: vbapb10.chm5373968
 f1_keywords:
 - vbapb10.chm5373968
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Italic
 ms.assetid: c55c0bfa-a365-86ac-4cfb-f6911dadd0af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Italic Property (Publisher)
+# Font.Italic property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as italic. Read/write.
 
 
 ## Syntax
 
- _expression_. **Italic**
+_expression_.**Italic**
 
  _expression_ A variable that represents an  **Font** object.
 
@@ -34,7 +35,7 @@ The  **Italic** property value can be one of the **MsoTriState** constants decla
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as italic.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -63,4 +64,4 @@ Sub ItalicStory()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

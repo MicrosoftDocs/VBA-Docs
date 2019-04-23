@@ -1,5 +1,5 @@
 ---
-title: Options.ReplaceSelection Property (Word)
+title: Options.ReplaceSelection property (Word)
 keywords: vbawd10.chm162988099
 f1_keywords:
 - vbawd10.chm162988099
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.ReplaceSelection
 ms.assetid: d1bef8ec-02e0-5f69-13af-0fdd758b3f0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.ReplaceSelection Property (Word)
+# Options.ReplaceSelection property (Word)
 
- **True** if the result of typing or pasting replaces the selection. Read/write **Boolean** .
+ **True** if the result of typing or pasting replaces the selection. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ReplaceSelection`
+_expression_. `ReplaceSelection`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -52,3 +53,4 @@ temp = Options.ReplaceSelection
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

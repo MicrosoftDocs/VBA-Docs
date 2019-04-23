@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.HideWhileNotPlaying Property (PowerPoint)
+title: PlaySettings.HideWhileNotPlaying property (PowerPoint)
 keywords: vbapp10.chm568004
 f1_keywords:
 - vbapp10.chm568004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaySettings.HideWhileNotPlaying
 ms.assetid: 04fb6933-b0ee-762a-f24b-662253647a16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaySettings.HideWhileNotPlaying Property (PowerPoint)
+# PlaySettings.HideWhileNotPlaying property (PowerPoint)
 
 Determines whether the specified media clip is hidden during a slide show except when it is playing. Read/write.
 
 
 ## Syntax
 
- _expression_. `HideWhileNotPlaying`
+_expression_. `HideWhileNotPlaying`
 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **HideWhileNotPlaying** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified media clip is not hidden during a slide show except when it is playing. |
 |**msoTrue**| The specified media clip is hidden during a slide show except when it is playing.|
@@ -64,3 +65,4 @@ End With
 
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

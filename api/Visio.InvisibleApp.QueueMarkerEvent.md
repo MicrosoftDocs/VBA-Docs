@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.QueueMarkerEvent Method (Visio)
+title: InvisibleApp.QueueMarkerEvent method (Visio)
 keywords: vis_sdr.chm17516455
 f1_keywords:
 - vis_sdr.chm17516455
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.QueueMarkerEvent
 ms.assetid: ed782045-49b1-dcab-de81-41a45117afe7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.QueueMarkerEvent Method (Visio)
+# InvisibleApp.QueueMarkerEvent method (Visio)
 
 Queues a  **MarkerEvent** event that fires after all other queued events.
 
 
 ## Syntax
 
- _expression_. `QueueMarkerEvent`( `_ContextString_` , `_lpi4Ret_` )
+_expression_. `QueueMarkerEvent`( `_ContextString_` , `_lpi4Ret_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -88,4 +89,4 @@ ShapeAdded: Sheet.1
 
 Marker: I am finished...
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

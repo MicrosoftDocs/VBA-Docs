@@ -1,5 +1,5 @@
 ---
-title: Revision.Reject Method (Word)
+title: Revision.Reject method (Word)
 keywords: vbawd10.chm159449190
 f1_keywords:
 - vbawd10.chm159449190
@@ -8,19 +8,20 @@ api_name:
 - Word.Revision.Reject
 ms.assetid: e97603c6-2310-ad82-7145-66a640a05c04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Revision.Reject Method (Word)
+# Revision.Reject method (Word)
 
 Rejects the specified tracked change. The revision marks are removed, leaving the original text intact.
 
 
 ## Syntax
 
- _expression_. `Reject`
+_expression_. `Reject`
 
- _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
+_expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## Remarks
@@ -76,3 +77,4 @@ If rngTemp.Revisions.Count >= 1 Then _
 
 [Revision Object](Word.Revision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

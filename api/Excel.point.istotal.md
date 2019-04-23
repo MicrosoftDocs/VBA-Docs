@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 65269b0f-cb65-eb9c-b2d3-0b73d7677801
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ ms.prod: excel
 
 ## Syntax
 
- _expression_. `IsTotal`
+_expression_. `IsTotal`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## See also
@@ -26,3 +27,4 @@ ms.prod: excel
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalFileSize Property (Publisher)
+title: PictureFormat.OriginalFileSize property (Publisher)
 keywords: vbapb10.chm3604772
 f1_keywords:
 - vbapb10.chm3604772
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.OriginalFileSize
 ms.assetid: 30704f2a-d739-7f14-d69a-73ab1f5ab8f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalFileSize Property (Publisher)
+# PictureFormat.OriginalFileSize property (Publisher)
 
 Returns a  **Long** representing the size, in bytes, of the linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
- _expression_. **OriginalFileSize**
+_expression_.**OriginalFileSize**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -62,4 +63,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

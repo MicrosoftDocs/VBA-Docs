@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeSave Event (Excel)
+title: Workbook.BeforeSave event (Excel)
 keywords: vbaxl10.chm503077
 f1_keywords:
 - vbaxl10.chm503077
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.BeforeSave
 ms.assetid: dfa3e20f-1fb2-f84f-4b92-a98f22b6e637
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BeforeSave Event (Excel)
+# Workbook.BeforeSave event (Excel)
 
 Occurs before the workbook is saved.
 
 
 ## Syntax
 
- _expression_. `BeforeSave`( `_SaveAsUI_` , `_Cancel_` )
+_expression_. `BeforeSave`( `_SaveAsUI_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Occurs before the workbook is saved.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box will be displayed due to changes made that need to be saved in the workbook.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook isn't saved when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the workbook isn't saved when the procedure is finished.|
 
 ## Return value
 
@@ -50,7 +51,7 @@ Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, _
 End Sub
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It?s 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! it's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example uses the  **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
 
@@ -80,4 +81,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Workbook Object](Excel.Workbook.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 4ecc299b-0733-aa23-e820-f341ac80a0fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that indicates whether the object permits multip
 
 ## Syntax
 
- _expression_. **MultiSelect**
+_expression_.**MultiSelect**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **MultiSelect** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Only one item can be selected (default).|
 |1|Pressing the  **SPACEBAR** or clicking selects or deselects an item in the list.|
@@ -37,4 +38,4 @@ When the  **MultiSelect** property is set to 1 or 2, you must use the list box's
 
 The  **[ListIndex](Outlook.listbox.listindex.md)** property returns the index of the row with the keyboard focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

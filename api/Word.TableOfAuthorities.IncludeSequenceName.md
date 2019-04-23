@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.IncludeSequenceName Property (Word)
+title: TableOfAuthorities.IncludeSequenceName property (Word)
 keywords: vbawd10.chm152109062
 f1_keywords:
 - vbawd10.chm152109062
@@ -8,17 +8,18 @@ api_name:
 - Word.TableOfAuthorities.IncludeSequenceName
 ms.assetid: 15f3801c-4d79-c01f-4a67-5b09e1f14577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.IncludeSequenceName Property (Word)
+# TableOfAuthorities.IncludeSequenceName property (Word)
 
-Returns or sets the Sequence (SEQ) field identifier for a table of authorities. Read/write  **String** .
+Returns or sets the Sequence (SEQ) field identifier for a table of authorities. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `IncludeSequenceName`
+_expression_. `IncludeSequenceName`
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
@@ -62,3 +63,4 @@ strSequence = _
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

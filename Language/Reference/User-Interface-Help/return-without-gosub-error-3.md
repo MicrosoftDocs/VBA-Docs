@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 396d3d0f-6af2-4709-bf3c-3a35668398d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ A  **Return** statement must have a corresponding **GoSub** statement. This erro
 Unlike  **For...Next**, **While...Wend**, and **Sub...End Sub**, which are matched at [compile time](../../Glossary/vbe-glossary.md#compile-time),  **GoSub** and **Return** are matched at [run time](../../Glossary/vbe-glossary.md#run-time).
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

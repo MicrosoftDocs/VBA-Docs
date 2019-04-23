@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (Word)
+title: Shape.ScaleHeight method (Word)
 keywords: vbawd10.chm161480723
 f1_keywords:
 - vbawd10.chm161480723
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.ScaleHeight
 ms.assetid: 994aac8b-5842-5986-0d27-01e52e01066d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleHeight Method (Word)
+# Shape.ScaleHeight method (Word)
 
 Scales the height of the shape by a specified factor.
 
 
 ## Syntax
 
- _expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
+_expression_. `ScaleHeight`( `_Factor_` , `_RelativeToOriginalSize_` , `_Scale_` )
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Next
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

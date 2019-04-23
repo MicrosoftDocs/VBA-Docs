@@ -1,5 +1,5 @@
 ---
-title: TimeZones.Session Property (Outlook)
+title: TimeZones.Session property (Outlook)
 keywords: vbaol11.chm3293
 f1_keywords:
 - vbaol11.chm3293
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TimeZones.Session
 ms.assetid: e4d6ca4d-914d-405c-8765-6ca1f97a9472
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeZones.Session Property (Outlook)
+# TimeZones.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
+_expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TimeZones Object](Outlook.TimeZones.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

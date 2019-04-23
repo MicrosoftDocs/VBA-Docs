@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.RefreshDate
 ms.assetid: 0bbb3e62-584b-7daf-2ad0-643a6e886187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.RefreshDate property (Excel)
 
-Returns the date on which the cache was last refreshed. Read-only  **Date** .
+Returns the date on which the cache was last refreshed. Read-only  **Date**.
 
 
 ## Syntax
 
- _expression_. `RefreshDate`
+_expression_. `RefreshDate`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ MsgBox "The data was last refreshed on " & dateString
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Object (PowerPoint)
+title: LeaderLines object (PowerPoint)
 keywords: vbapp10.chm708000
 f1_keywords:
 - vbapp10.chm708000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.LeaderLines
 ms.assetid: 2357c570-0f68-8bb4-910a-e88c00ed9884
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LeaderLines Object (PowerPoint)
+# LeaderLines object (PowerPoint)
 
 Represents leader lines on a chart. Leader lines connect data labels to data points.
 
@@ -63,3 +64,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

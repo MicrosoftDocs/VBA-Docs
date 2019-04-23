@@ -3,6 +3,7 @@ title: Calendars object map (Project)
 ms.prod: project-server
 ms.assetid: dc7080e2-be59-ea63-096a-65af1737be42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ For an overview of the  **Application** and **Project** objects, and for details
 ![VBA object map for Calendar](../../images/c9afe0e4-c832-47d0-9fe8-0fc85a180e6b.jpg)
 ![Legend for the VBA object maps](../../images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

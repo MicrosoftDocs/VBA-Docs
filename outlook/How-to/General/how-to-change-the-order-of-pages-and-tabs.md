@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5180c30b-e5bb-48b9-ece7-02d5b8d41af0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Change the Order of Pages and Tabs
+# Change the Order of Pages and Tabs
 
 The following example uses the  **Index** property to change the order of the pages and tabs in a **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the  **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the  **MultiPage** and **TabStrip**.
 
@@ -70,4 +71,4 @@ Sub Item_Open()
  End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

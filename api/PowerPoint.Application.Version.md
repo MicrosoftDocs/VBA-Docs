@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (PowerPoint)
+title: Application.Version property (PowerPoint)
 keywords: vbapp10.chm502015
 f1_keywords:
 - vbapp10.chm502015
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.Version
 ms.assetid: c76b1e7e-db29-0ef8-fefb-9333b8350de0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Version Property (PowerPoint)
+# Application.Version property (PowerPoint)
 
 Returns the Microsoft PowerPoint version number. Read-only.
 
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -46,3 +47,4 @@ End With
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

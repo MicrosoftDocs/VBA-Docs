@@ -1,5 +1,5 @@
 ---
-title: MsoContactCardType Enumeration (Office)
+title: MsoContactCardType enumeration (Office)
 keywords: vbaof11.chm100126
 f1_keywords:
 - vbaof11.chm100126
@@ -7,15 +7,16 @@ ms.prod: office
 api_name:
 - Office.MsoContactCardType
 ms.assetid: 5d92d4ea-db22-55f3-8466-cd8b4d5a089b
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoContactCardType Enumeration (Office)
+# MsoContactCardType enumeration (Office)
 
 Specifies the contact card type.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -25,3 +26,4 @@ Specifies the contact card type.
 |**msoContactCardTypeEnterpriseGroup**|3|A contact card for an enterprise distribution list contact address.|
 |**msoContactCardTypePersonalDistributionList**|4|A contact card for a personal distribution list contact address.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

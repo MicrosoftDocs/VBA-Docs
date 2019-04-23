@@ -1,5 +1,5 @@
 ---
-title: Indexes.Creator Property (Word)
+title: Indexes.Creator property (Word)
 keywords: vbawd10.chm159122409
 f1_keywords:
 - vbawd10.chm159122409
@@ -8,19 +8,20 @@ api_name:
 - Word.Indexes.Creator
 ms.assetid: 88fed4ac-033b-a33f-0355-c750fcea0783
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Indexes.Creator Property (Word)
+# Indexes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
+_expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Indexes Collection Object](Word.indexes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

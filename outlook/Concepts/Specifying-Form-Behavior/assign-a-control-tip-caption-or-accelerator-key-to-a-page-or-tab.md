@@ -3,6 +3,7 @@ title: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab
 ms.prod: outlook
 ms.assetid: 69ea2e05-fa0e-f4b8-c9fb-52cdbb5c0f71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,6 +31,5 @@ This procedure sets properties on a  [Page](../../../api/Outlook.page.md) or [Ta
 - The  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
 - The  **[ControlTipText](../../../api/Outlook.tab.controltiptext.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paths.ObjectType Property (Visio)
+title: Paths.ObjectType property (Visio)
 keywords: vis_sdr.chm15313960
 f1_keywords:
 - vis_sdr.chm15313960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Paths.ObjectType
 ms.assetid: eaab20a2-22cf-c17c-4475-073323cefcb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paths.ObjectType Property (Visio)
+# Paths.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Paths](./Visio.Paths.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

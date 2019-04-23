@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Event (Word)
+title: Application.Quit event (Word)
 keywords: vbawd10.chm400002
 f1_keywords:
 - vbawd10.chm400002
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.Quit
 ms.assetid: 3e05cf42-47c9-6a1b-b7da-09abe9746fd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Quit Event (Word)
+# Application.Quit event (Word)
 
 Occurs when the user exits Microsoft Word.
 
@@ -52,3 +53,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

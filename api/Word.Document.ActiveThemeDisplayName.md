@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveThemeDisplayName Property (Word)
+title: Document.ActiveThemeDisplayName property (Word)
 keywords: vbawd10.chm158007837
 f1_keywords:
 - vbawd10.chm158007837
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ActiveThemeDisplayName
 ms.assetid: b6689499-80db-12f5-8217-2c982375448b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ActiveThemeDisplayName Property (Word)
+# Document.ActiveThemeDisplayName property (Word)
 
-Returns the display name of the active theme for the specified document. Read-only  **String** .
+Returns the display name of the active theme for the specified document. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `ActiveThemeDisplayName`
+_expression_. `ActiveThemeDisplayName`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Slides.FindBySlideID Method (PowerPoint)
+title: Slides.FindBySlideID method (PowerPoint)
 keywords: vbapp10.chm530004
 f1_keywords:
 - vbapp10.chm530004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slides.FindBySlideID
 ms.assetid: 49c5cb57-e132-0539-ecfd-25321ac7cc32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slides.FindBySlideID Method (PowerPoint)
+# Slides.FindBySlideID method (PowerPoint)
 
 Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide with the specified slide ID number. Each slide is automatically assigned a unique slide ID number when it is created. Use the **SlideID** property to return a slide's ID number.
 
 
 ## Syntax
 
- _expression_. `FindBySlideID`( `_SlideID_` )
+_expression_. `FindBySlideID`( `_SlideID_` )
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
@@ -63,3 +64,4 @@ gslides.FindBySlideID(graphSlideID) _
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

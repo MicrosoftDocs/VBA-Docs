@@ -1,5 +1,5 @@
 ---
-title: Page.ReaderSpread Property (Publisher)
+title: Page.ReaderSpread property (Publisher)
 keywords: vbapb10.chm393238
 f1_keywords:
 - vbapb10.chm393238
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.ReaderSpread
 ms.assetid: 32823d2d-4bcd-a5a6-1ad1-ca1035d4fdea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.ReaderSpread Property (Publisher)
+# Page.ReaderSpread property (Publisher)
 
 Returns a  **[ReaderSpread](Publisher.ReaderSpread.md)** object that represents the reader spread of the specified page.
 
 
 ## Syntax
 
- _expression_. **ReaderSpread**
+_expression_.**ReaderSpread**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -42,4 +43,4 @@ Sub SetFacingPages()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PjIMEMode Enumeration (Project)
+title: PjIMEMode enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjIMEMode
 ms.assetid: 1839bec7-3244-1b3b-a72f-c96f44034695
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjIMEMode Enumeration (Project)
+# PjIMEMode enumeration (Project)
 
 Contains constants that specify the Input Method Editor (IME) mode.
 
@@ -28,3 +29,4 @@ Contains constants that specify the Input Method Editor (IME) mode.
 |**pjIMEModeOff**|2|Mode off.|
 |**pjIMEModeOn**|1|Mode on.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

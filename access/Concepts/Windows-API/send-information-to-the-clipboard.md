@@ -3,6 +3,7 @@ title: Send information to the Clipboard
 ms.prod: access
 ms.assetid: 4261f071-7bff-b290-c3d3-03645fd9ada0
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -82,4 +83,4 @@ Public Function GetClipboard() As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

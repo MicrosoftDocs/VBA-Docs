@@ -8,24 +8,25 @@ api_name:
 - Excel.PivotTable.DisplayContextTooltips
 ms.assetid: cbc9835a-0c1c-dd26-c5f1-1bbe8f7aaefe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.DisplayContextTooltips property (Excel)
 
-Controls whether or not tooltips are displayed for PivotTable cells. Read/write  **Boolean** .
+Controls whether or not tooltips are displayed for PivotTable cells. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayContextTooltips`
+_expression_. `DisplayContextTooltips`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
 
-If  **DisplayContextTooltips** is set to **False** , contextual tooltips for PivotTable cells will not be displayed. If it is set to **True** , tooltips for PivotTable cells in the row, column, and data areas will be displayed.
+If  **DisplayContextTooltips** is set to **False**, contextual tooltips for PivotTable cells will not be displayed. If it is set to **True**, tooltips for PivotTable cells in the row, column, and data areas will be displayed.
 
 
 ## See also
@@ -33,3 +34,4 @@ If  **DisplayContextTooltips** is set to **False** , contextual tooltips for Piv
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

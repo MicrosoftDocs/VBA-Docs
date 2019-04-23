@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnit Property (PowerPoint)
+title: Axis.BaseUnit property (PowerPoint)
 keywords: vbapp10.chm682033
 f1_keywords:
 - vbapp10.chm682033
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.BaseUnit
 ms.assetid: a53e90c5-5048-8e93-57b2-024d64d2ff73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.BaseUnit Property (PowerPoint)
+# Axis.BaseUnit property (PowerPoint)
 
 Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax
 
- _expression_. `BaseUnit`
+_expression_.**BaseUnit**
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
@@ -68,3 +69,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

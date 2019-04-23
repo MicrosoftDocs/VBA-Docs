@@ -1,5 +1,5 @@
 ---
-title: Application.InputBox Method (Excel)
+title: Application.InputBox method (Excel)
 keywords: vbaxl10.chm133149
 f1_keywords:
 - vbaxl10.chm133149
@@ -7,28 +7,29 @@ ms.prod: excel
 api_name:
 - Excel.Application.InputBox
 ms.assetid: d3bd2f3a-7fed-20fa-918d-a71e2a2a1d49
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Priority
 ---
 
 
-# Application.InputBox Method (Excel)
+# Application.InputBox method (Excel)
 
 Displays a dialog box for user input. Returns the information entered in the dialog box.
 
 
 ## Syntax
 
- _expression_. `InputBox` (`_Prompt_`, `_Title_`, `_Default_`, `_Left_`, `_Top_`, `_HelpFile_`, `_HelpContextID_`, `_Type_`)
+_expression_.**InputBox** (_Prompt_, _Title_, _Default_, _Left_, _Top_, _HelpFile_, _HelpContextID_, _Type_)
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Prompt_|Required| **String**|The message to be displayed in the dialog box. This can be a string, a number, a date, or a Boolean value (Microsoft Excel automatically coerces the value to a **String** before it is displayed).|
-| _Title_|Optional| **Variant**|The title for the input box. If this argument is omitted, the default title is "Input."|
+| _Prompt_|Required| **String**|The message to be displayed in the dialog box. This can be a string, a number, a date, or a **Boolean** value (Microsoft Excel automatically coerces the value to a **String** before it is displayed).|
+| _Title_|Optional| **Variant**|The title for the input box. If this argument is omitted, the default title is Input.|
 | _Default_|Optional| **Variant**|Specifies a value that will appear in the text box when the dialog box is initially displayed. If this argument is omitted, the text box is left empty. This value can be a **[Range](Excel.Range(object).md)** object.|
 | _Left_|Optional| **Variant**|Specifies an *x* position for the dialog box in relation to the upper-left corner of the screen, in points.|
 | _Top_|Optional| **Variant**|Specifies a *y* position for the dialog box in relation to the upper-left corner of the screen, in points.|
@@ -43,9 +44,9 @@ Variant
 
 ## Remarks
 
-The following table lists the values that can be passed in the Type argument. Can be one or a sum of the values. For example, for an input box that can accept both text and numbers, set _Type_ to 1 + 2.
+The following table lists the values that can be passed in the _Type_ argument. Can be one or a sum of the values. For example, for an input box that can accept both text and numbers, set _Type_ to 1 + 2.
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0|A formula|
 |1|A number|
@@ -81,6 +82,8 @@ This example prompts the user for a number.
 myNum = Application.InputBox("Enter a number")
 ```
 
+<br/>
+
 This example prompts the user to select a cell on Sheet1. The example uses the _Type_ argument to ensure that the return value is a valid cell reference (a **Range** object).
 
 ```vb
@@ -89,9 +92,9 @@ Set myCell = Application.InputBox( _
     prompt:="Select a cell", Type:=8)
 ```
 
-**Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
+<br/>
 
-This example uses an InputBox for the user to select a range to pass to the user-defined function 'MyFunction', which multiplies three values in a range together and returns the result.
+This example uses an **InputBox** for the user to select a range to pass to the user-defined function _MyFunction_, which multiplies three values in a range together and returns the result.
 
 ```vb
 Sub Cbm_Value_Select()
@@ -115,12 +118,6 @@ Function MyFunction(rng As Range) As Double
 End Function
 ```
 
-### About the contributor
-
-*Holy Macro! Books* publishes entertaining books for people who use Office. See the complete catalog at MrExcel.com. 
-
-## See also
-
-[Application Object](Excel.Application(object).md)
 
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

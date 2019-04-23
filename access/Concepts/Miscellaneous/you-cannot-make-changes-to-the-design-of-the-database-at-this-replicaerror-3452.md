@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: f5e4ff00-9db4-9f44-47a6-9c3025159cb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Changes to the design of a replicated database can be made only at the Design Ma
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

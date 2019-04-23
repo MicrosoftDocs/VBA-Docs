@@ -1,5 +1,5 @@
 ---
-title: WizardProperty.Values Property (Publisher)
+title: WizardProperty.Values property (Publisher)
 keywords: vbapb10.chm1572872
 f1_keywords:
 - vbapb10.chm1572872
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WizardProperty.Values
 ms.assetid: 478d3b98-65f4-c448-8096-3e999c865846
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardProperty.Values Property (Publisher)
+# WizardProperty.Values property (Publisher)
 
 Returns a  **[WizardValues](Publisher.WizardValues.md)** collection representing all the valid values for a wizard property.
 
 
 ## Syntax
 
- _expression_. **Values**
+_expression_.**Values**
 
  _expression_ A variable that represents a  **WizardProperty** object.
 
@@ -51,4 +52,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

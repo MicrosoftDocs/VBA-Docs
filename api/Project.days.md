@@ -1,12 +1,13 @@
 ---
-title: Days Object (Project)
+title: Days object (Project)
 ms.prod: project-server
 ms.assetid: ac9cc007-a318-c9a8-2e6c-c4834a52d5c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Days Object (Project)
+# Days object (Project)
 
 Contains a collection of  **[Day](Project.Day.md)** objects.
  
@@ -77,7 +78,7 @@ MsgBox ActiveProject.Calendar.Years(2006).Months(pjNovember).Days.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Days.Application.md)|
 |[Count](Project.Days.Count.md)|
@@ -89,3 +90,5 @@ MsgBox ActiveProject.Calendar.Years(2006).Months(pjNovember).Days.Count
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.HideCatalogUI Event (Publisher)
+title: Application.HideCatalogUI event (Publisher)
 keywords: vbapb10.chm268435494
 f1_keywords:
 - vbapb10.chm268435494
@@ -8,19 +8,20 @@ api_name:
 - Publisher.Application.HideCatalogUI
 ms.assetid: a7ac7594-18fe-355e-d270-d205c405862a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.HideCatalogUI Event (Publisher)
+# Application.HideCatalogUI event (Publisher)
 
 Occurs when the catalog of publication wizards is hidden in the Microsoft Publisher user interface.
 
 
 ## Syntax
 
- _expression_. **HideCatalogUI**
+_expression_.**HideCatalogUI**
 
- _expression_An expression that returns a  **Application** object.
+ _expression_ An expression that returns a  **Application** object.
 
 
 ## Remarks
@@ -65,3 +66,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

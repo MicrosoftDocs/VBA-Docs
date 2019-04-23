@@ -1,5 +1,5 @@
 ---
-title: FileConverter.SaveFormat Property (Word)
+title: FileConverter.SaveFormat property (Word)
 keywords: vbawd10.chm161021954
 f1_keywords:
 - vbawd10.chm161021954
@@ -8,19 +8,20 @@ api_name:
 - Word.FileConverter.SaveFormat
 ms.assetid: d837cd22-38eb-5160-1f85-16001448213e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.SaveFormat Property (Word)
+# FileConverter.SaveFormat property (Word)
 
-Returns the file format of the specified document or file converter. Read-only  **Long** .
+Returns the file format of the specified document or file converter. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `SaveFormat`
+_expression_. `SaveFormat`
 
- _expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
+_expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## Remarks
@@ -76,3 +77,4 @@ ActiveDocument.SaveAs _
 
 [FileConverter Object](Word.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

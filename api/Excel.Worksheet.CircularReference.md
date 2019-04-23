@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.CircularReference
 ms.assetid: 422c447d-a964-c17c-bb43-14254f962a89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `CircularReference`
+_expression_. `CircularReference`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").CircularReference.Select
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

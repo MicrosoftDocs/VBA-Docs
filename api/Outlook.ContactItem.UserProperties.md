@@ -1,5 +1,5 @@
 ---
-title: ContactItem.UserProperties Property (Outlook)
+title: ContactItem.UserProperties property (Outlook)
 keywords: vbaol11.chm955
 f1_keywords:
 - vbaol11.chm955
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.UserProperties
 ms.assetid: f52b8fb8-945b-a406-b3cb-1c9dcc150184
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.UserProperties Property (Outlook)
+# ContactItem.UserProperties property (Outlook)
 
 Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
 
 ## Syntax
 
- _expression_. `UserProperties`
+_expression_. `UserProperties`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

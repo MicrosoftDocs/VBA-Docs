@@ -1,5 +1,5 @@
 ---
-title: ListParagraphs.Item Method (Word)
+title: ListParagraphs.Item method (Word)
 keywords: vbawd10.chm160497664
 f1_keywords:
 - vbawd10.chm160497664
@@ -8,19 +8,20 @@ api_name:
 - Word.ListParagraphs.Item
 ms.assetid: 97c9691c-f8bc-e356-b080-4fb8f6aa72a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListParagraphs.Item Method (Word)
+# ListParagraphs.Item method (Word)
 
 Returns an individual  **Paragraph** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[ListParagraphs](Word.listparagraphs.md)' collection.
+_expression_ Required. A variable that represents a '[ListParagraphs](Word.listparagraphs.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Paragraph
 
 [ListParagraphs Collection Object](Word.listparagraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

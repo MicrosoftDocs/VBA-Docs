@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Disable Method (Word)
+title: KeyBinding.Disable method (Word)
 keywords: vbawd10.chm160956518
 f1_keywords:
 - vbawd10.chm160956518
@@ -8,19 +8,20 @@ api_name:
 - Word.KeyBinding.Disable
 ms.assetid: 07463e08-1802-0f1b-7c3f-408f072386b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.Disable Method (Word)
+# KeyBinding.Disable method (Word)
 
 Removes the specified key combination if it is currently assigned to a command. After you use this method, the key combination has no effect.
 
 
 ## Syntax
 
- _expression_. `Disable`
+_expression_. `Disable`
 
- _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
+_expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Remarks
@@ -77,3 +78,4 @@ Next kbLoop
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

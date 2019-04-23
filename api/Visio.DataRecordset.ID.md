@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.ID Property (Visio)
+title: DataRecordset.ID property (Visio)
 keywords: vis_sdr.chm16413675
 f1_keywords:
 - vis_sdr.chm16413675
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.ID
 ms.assetid: 31d3b05b-31f7-538e-cff7-b4e62cb29187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.ID Property (Visio)
+# DataRecordset.ID property (Visio)
 
 Gets the unique identifier of the  **DataRecordset** object assigned by Visio. Read-only.
 
@@ -21,7 +22,7 @@ Gets the unique identifier of the  **DataRecordset** object assigned by Visio. R
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -37,4 +38,4 @@ Long
 
  **ID** is the default property of the **DataRecordset** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

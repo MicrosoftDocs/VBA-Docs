@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColorIndex Property (Word)
+title: Interior.PatternColorIndex property (Word)
 keywords: vbawd10.chm2818058
 f1_keywords:
 - vbawd10.chm2818058
@@ -8,17 +8,18 @@ api_name:
 - Word.Interior.PatternColorIndex
 ms.assetid: 2f2400e1-1995-2996-01a3-fd5ff0e6bf47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Interior.PatternColorIndex Property (Word)
+# Interior.PatternColorIndex property (Word)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PatternColorIndex`
+_expression_. `PatternColorIndex`
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
@@ -51,3 +52,4 @@ End With
 
 [Interior Object](Word.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

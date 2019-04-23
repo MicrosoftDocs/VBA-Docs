@@ -1,5 +1,5 @@
 ---
-title: Options.Pagination Property (Word)
+title: Options.Pagination property (Word)
 keywords: vbawd10.chm162988051
 f1_keywords:
 - vbawd10.chm162988051
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.Pagination
 ms.assetid: 885a621c-a1fd-e428-80a8-c0a7ca904a22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.Pagination Property (Word)
+# Options.Pagination property (Word)
 
- **True** if Microsoft Word repaginates documents in the background. Read/write **Boolean** .
+ **True** if Microsoft Word repaginates documents in the background. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Pagination`
+_expression_. `Pagination`
 
  _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 
@@ -47,3 +48,4 @@ temp = Options.Pagination
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

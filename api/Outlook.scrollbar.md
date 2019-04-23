@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 9e0a0f3d-fb04-2180-3beb-306b09c10c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,4 +25,4 @@ The default property for a  **ScrollBar** is the **Value** property.
 
 To create a horizontal or vertical  **ScrollBar**, drag the sizing handles of the  **ScrollBar** horizontally or vertically on the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

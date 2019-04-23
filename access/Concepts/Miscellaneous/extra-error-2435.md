@@ -3,6 +3,7 @@ title: Extra ). (Error 2435)
 ms.prod: access
 ms.assetid: 3cccffec-c398-024d-8682-322d13f0bad5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You entered an expression that has too many closing parentheses. Delete any pare
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

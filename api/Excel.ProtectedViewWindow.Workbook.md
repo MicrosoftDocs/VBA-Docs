@@ -8,19 +8,20 @@ api_name:
 - Excel.ProtectedViewWindow.Workbook
 ms.assetid: 379b98f0-b177-7910-4968-ce4ed2f1ca9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ProtectedViewWindow.Workbook property (Excel)
 
-Returns an object that represents the workbook that is open in the specified  **Protected View** window. Read-only
+Returns an object that represents the workbook that is open in the specified Protected View window. Read-only
 
 
 ## Syntax
 
- _expression_. `Workbook`
+_expression_. `Workbook`
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value
@@ -30,14 +31,14 @@ Returns an object that represents the workbook that is open in the specified  **
 
 ## Remarks
 
-Because a  **Protected View** window is designed to protect the user from potentially malicious code, the operations you can perform by using a **Workbook** object returned by the **Workbook** method will be limited. Any operation that is not allowed will return an error.
+Because a Protected View window is designed to protect the user from potentially malicious code, the operations you can perform by using a **Workbook** object returned by the **Workbook** method will be limited. Any operation that is not allowed will return an error.
 
 A workbook displayed in a protected view window is not a member of the  **[Workbooks](Excel.Workbooks.md)** collection. Instead, use the **Workbook** property of the **ProtectedViewWindow** object to access a workbook that is displayed in a protected view window.
 
 
 ## Example
 
- The following example uses the **Workbook** property to return the workbook that is open in the first **Protected View** window.
+ The following example uses the **Workbook** property to return the workbook that is open in the first Protected View window.
 
 
 ```vb
@@ -55,3 +56,4 @@ End If
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

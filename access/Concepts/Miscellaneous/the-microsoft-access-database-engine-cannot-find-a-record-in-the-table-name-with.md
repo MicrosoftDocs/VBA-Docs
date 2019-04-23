@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6842aab2-7f8d-354f-9690-dfda2d2380a5
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -25,3 +26,5 @@ In a one-to-many relationship, you entered data on the "many" side for which the
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

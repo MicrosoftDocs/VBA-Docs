@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 29eda9b1-b690-8c4a-7c57-fc938bbcd25a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,4 @@ ms.date: 06/08/2017
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

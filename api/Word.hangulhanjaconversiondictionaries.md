@@ -1,12 +1,13 @@
 ---
-title: HangulHanjaConversionDictionaries Object (Word)
+title: HangulHanjaConversionDictionaries object (Word)
 ms.prod: word
 ms.assetid: b6ed1c54-428b-c160-a2bd-642978660f44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HangulHanjaConversionDictionaries Object (Word)
+# HangulHanjaConversionDictionaries object (Word)
 
 A collection of  **Dictionary** objects that includes the active custom Hangul-Hanja conversion dictionaries.
 
@@ -22,7 +23,7 @@ For Each d In HangulHanjaDictionaries
 Next d
 ```
 
-Use the  **Add** method to add a new custom conversion dictionary to the collection of active custom conversion dictionaries. If there isn't a file with the name specified by **FileName** , Microsoft Word creates it. The following example adds "Hanja1.hhd" to the collection of custom conversion dictionaries.
+Use the  **Add** method to add a new custom conversion dictionary to the collection of active custom conversion dictionaries. If there isn't a file with the name specified by **FileName**, Microsoft Word creates it. The following example adds "Hanja1.hhd" to the collection of custom conversion dictionaries.
 
 
 
@@ -52,6 +53,6 @@ The  **Maximum** property returns the maximum number of simultaneous custom conv
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

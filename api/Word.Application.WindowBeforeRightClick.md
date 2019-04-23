@@ -1,5 +1,5 @@
 ---
-title: Application.WindowBeforeRightClick Event (Word)
+title: Application.WindowBeforeRightClick event (Word)
 keywords: vbawd10.chm4000012
 f1_keywords:
 - vbawd10.chm4000012
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.WindowBeforeRightClick
 ms.assetid: c2d550e5-6781-a05f-41f6-eb9839aef208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowBeforeRightClick Event (Word)
+# Application.WindowBeforeRightClick event (Word)
 
 Occurs when the editing area of a document window is right-clicked, before the default right-click action.
 
 
 ## Syntax
 
-Private Sub  _expression_ ._'WindowBeforeRightClick'(**_ByVal Sel As Selection_** , **_Cancel As Boolean_**)
+Private Sub  _expression_ ._'WindowBeforeRightClick'(**_ByVal Sel As Selection_**, **_Cancel As Boolean_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
 
@@ -30,7 +31,7 @@ Private Sub  _expression_ ._'WindowBeforeRightClick'(**_ByVal Sel As Selection_*
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required| **Selection**|The current selection.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action does not occur when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default right-click action does not occur when the procedure is finished.|
 
 ## Remarks
 
@@ -61,3 +62,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

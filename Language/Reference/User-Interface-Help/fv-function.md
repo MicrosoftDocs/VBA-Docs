@@ -1,37 +1,40 @@
 ---
-title: FV function
+title: FV function (Visual Basic for Applications)
 keywords: vblr6.chm1009280
 f1_keywords:
 - vblr6.chm1009280
 ms.prod: office
 ms.assetid: 9f77a5f2-77a9-ae4a-4ef0-c27136fcbd63
-ms.date: 06/08/2017
+ms.date: 12/12/2018
+localization_priority: Normal
 ---
 
 
 # FV function
 
-Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the future value of an annuity based on periodic, fixed payments and a fixed interest rate.
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the future value of an annuity based on periodic fixed payments and a fixed interest rate.
 
 ## Syntax
 
-**FV( _rate_**, **_nper_**, **_pmt_**, [ **_pv_**, [ **_type_** ]] **)**
+**FV**(_rate_, _nper_, _pmt_, [ _pv_, [ _type_ ]])
+
+<br/>
 
 The **FV** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
-|**_rate_**|Required. **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
-|**_nper_**|Required. [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
-|**_pmt_**|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
-|**_pv_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying present value (or lump sum) of a series of future payments. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make. If omitted, 0 is assumed.|
-|**_type_**|Optional. **Variant** specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
+|_rate_|Required. **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
+|_nper_|Required. [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
+|_pmt_|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
+|_pv_|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying present value (or lump sum) of a series of future payments. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make. If omitted, 0 is assumed.|
+|_type_|Optional. **Variant** specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
 
 ## Remarks
 
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
 
-The **_rate_** and **_nper_** [arguments](../../Glossary/vbe-glossary.md#argument) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
+The _rate_ and _nper_ [arguments](../../Glossary/vbe-glossary.md#argument) must be calculated by using payment periods expressed in the same units. For example, if _rate_ is calculated by using months, _nper_ must also be calculated by using months.
 
 For all arguments, cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
 
@@ -55,4 +58,8 @@ FVal = FV(APR / 12, TotPmts, -Payment, -PVal, PayType)
 MsgBox "Your savings will be worth " & Format(FVal, Fmt) & "."
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

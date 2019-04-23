@@ -1,5 +1,5 @@
 ---
-title: XmlMaps.Add Method (Excel)
+title: XmlMaps.Add method (Excel)
 keywords: vbaxl10.chm756073
 f1_keywords:
 - vbaxl10.chm756073
@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMaps.Add
 ms.assetid: 0197c932-73bf-024e-35b1-aba984175aee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XmlMaps.Add Method (Excel)
+# XmlMaps.Add method (Excel)
 
 Adds an XML map to the specified workbook.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Schema_` , `_RootElementName_` )
+_expression_.**Add**( `_Schema_` , `_RootElementName_` )
 
- _expression_ An expression that returns a [XmlMaps](./Excel.XmlMaps.md) object.
+ _expression_ An expression that returns a [XmlMaps](Excel.XmlMaps.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ An  **[XmlMap](Excel.XmlMap.md)** object that represents the new XML map.
 
 [XmlMaps Object](Excel.XmlMaps.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

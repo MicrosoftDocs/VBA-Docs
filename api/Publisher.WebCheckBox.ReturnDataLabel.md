@@ -1,5 +1,5 @@
 ---
-title: WebCheckBox.ReturnDataLabel Property (Publisher)
+title: WebCheckBox.ReturnDataLabel property (Publisher)
 keywords: vbapb10.chm4325379
 f1_keywords:
 - vbapb10.chm4325379
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCheckBox.ReturnDataLabel
 ms.assetid: a6bdc95c-d9bf-5d64-aacc-cb2e5432f3f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCheckBox.ReturnDataLabel Property (Publisher)
+# WebCheckBox.ReturnDataLabel property (Publisher)
 
 Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
 
 
 ## Syntax
 
- _expression_. **ReturnDataLabel**
+_expression_.**ReturnDataLabel**
 
  _expression_ A variable that represents a  **WebCheckBox** object.
 
@@ -41,4 +42,4 @@ Sub LabelWebTextBoxControl()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

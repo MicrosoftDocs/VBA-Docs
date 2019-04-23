@@ -3,6 +3,7 @@ title: ToggleButton.Click Event (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 777a0efc-c376-221b-ecea-5bd7797488de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Occurs when the user definitively selects a value for the control that has more 
 
 ## Syntax
 
- _expression_. **Click**
+_expression_.**Click**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -37,4 +38,4 @@ The  **Click** event is not initiated when **Value** is set to **Null**.
 
 Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

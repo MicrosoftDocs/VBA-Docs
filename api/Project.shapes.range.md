@@ -1,17 +1,18 @@
 ---
-title: Shapes.Range Method (Project)
+title: Shapes.Range method (Project)
 ms.prod: project-server
 ms.assetid: 984326ae-f567-18b8-562a-fcb2160b0dad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Range Method (Project)
+# Shapes.Range method (Project)
 Returns a  **ShapeRange** object that represents a subset of shapes in the **Shapes** collection.
 
 ## Syntax
 
- _expression_. `Range` _(Index)_
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -23,7 +24,7 @@ Returns a  **ShapeRange** object that represents a subset of shapes in the **Sha
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies one or more shapes to be included in the range. Can be an integer for the index number of a shape, a string for the name of a shape, or an array that contains either integers or strings.|
-| _Index_|Required|VARIANT||
+| _Index_|Required|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value
@@ -95,3 +96,5 @@ End Sub
 
 [Shapes Object](Project.shapes.md)
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.CreateBackup Property (Word)
+title: Options.CreateBackup property (Word)
 keywords: vbawd10.chm162988073
 f1_keywords:
 - vbawd10.chm162988073
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.CreateBackup
 ms.assetid: 02933ae3-1c3b-8309-d496-09c44d28a616
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.CreateBackup Property (Word)
+# Options.CreateBackup property (Word)
 
- **True** if Word creates a backup copy each time a document is saved. Read/write **Boolean** .
+ **True** if Word creates a backup copy each time a document is saved. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CreateBackup`
+_expression_. `CreateBackup`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -55,3 +56,4 @@ blnBackup = Options.CreateBackup
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

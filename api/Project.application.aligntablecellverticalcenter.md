@@ -1,20 +1,21 @@
 ---
-title: Application.AlignTableCellVerticalCenter Method (Project)
+title: Application.AlignTableCellVerticalCenter method (Project)
 keywords: vbapj.chm1522
 f1_keywords:
 - vbapj.chm1522
 ms.prod: project-server
 ms.assetid: c790d8f7-e792-0718-3166-312640ff3f73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AlignTableCellVerticalCenter Method (Project)
+# Application.AlignTableCellVerticalCenter method (Project)
 Aligns text at the vertical center of the cell, for selected cells in a report table.
 
 ## Syntax
 
- _expression_. `AlignTableCellVerticalCenter`
+_expression_. `AlignTableCellVerticalCenter`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -86,3 +87,5 @@ End Sub
 [Report Object](Project.report.md)
 [AlignTableCellTop Method](Project.application.aligntablecelltop.md)
 [AligntableCellBottom Method](Project.application.aligntablecellbottom.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

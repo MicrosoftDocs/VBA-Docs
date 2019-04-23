@@ -1,5 +1,5 @@
 ---
-title: Application.BoxLinkLabelsShow Method (Project)
+title: Application.BoxLinkLabelsShow method (Project)
 keywords: vbapj.chm47
 f1_keywords:
 - vbapj.chm47
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxLinkLabelsShow
 ms.assetid: 8dbb1406-10e8-d096-540a-4c7cfd61a413
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxLinkLabelsShow Method (Project)
+# Application.BoxLinkLabelsShow method (Project)
 
 Shows or hides link labels in the active Network Diagram.
 
 
 ## Syntax
 
- _expression_. `BoxLinkLabelsShow`( ` _Show_` )
+_expression_. `BoxLinkLabelsShow`( `_Show_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -52,4 +53,4 @@ Sub ShowBoxLink()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

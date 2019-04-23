@@ -1,5 +1,5 @@
 ---
-title: Timing.RepeatDuration Property (PowerPoint)
+title: Timing.RepeatDuration property (PowerPoint)
 keywords: vbapp10.chm653008
 f1_keywords:
 - vbapp10.chm653008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Timing.RepeatDuration
 ms.assetid: 8c69f0a7-224a-db67-2a94-0237f55f184e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Timing.RepeatDuration Property (PowerPoint)
+# Timing.RepeatDuration property (PowerPoint)
 
 Sets or returns how long repeated animations should last, in seconds. Read/write.
 
 
 ## Syntax
 
- _expression_. `RepeatDuration`
+_expression_. `RepeatDuration`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
@@ -67,3 +68,4 @@ End Sub
 
 [Timing Object](PowerPoint.Timing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

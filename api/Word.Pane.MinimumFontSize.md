@@ -1,5 +1,5 @@
 ---
-title: Pane.MinimumFontSize Property (Word)
+title: Pane.MinimumFontSize property (Word)
 keywords: vbawd10.chm157286415
 f1_keywords:
 - vbawd10.chm157286415
@@ -8,17 +8,18 @@ api_name:
 - Word.Pane.MinimumFontSize
 ms.assetid: 45aa3c50-ac50-c3b0-f7eb-099b4559ff43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.MinimumFontSize Property (Word)
+# Pane.MinimumFontSize property (Word)
 
-Returns or sets the minimum font size (in points) displayed for the specified pane. Read/write  **Long** .
+Returns or sets the minimum font size (in points) displayed for the specified pane. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MinimumFontSize`
+_expression_. `MinimumFontSize`
 
  _expression_ An expression that returns a '[Pane](Word.Pane.md)' object.
 
@@ -56,3 +57,4 @@ Msgbox _
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

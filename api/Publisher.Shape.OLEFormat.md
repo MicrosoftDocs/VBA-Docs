@@ -1,5 +1,5 @@
 ---
-title: Shape.OLEFormat Property (Publisher)
+title: Shape.OLEFormat property (Publisher)
 keywords: vbapb10.chm2228327
 f1_keywords:
 - vbapb10.chm2228327
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.OLEFormat
 ms.assetid: 36bffb6b-4c7b-85f9-87b3-d7d7c1aed134
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.OLEFormat Property (Publisher)
+# Shape.OLEFormat property (Publisher)
 
 Returns an  **[OLEFormat](Publisher.OLEFormat.md)** object that contains OLE formatting properties for the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent OLE objects.
 
 
 ## Syntax
 
- _expression_. **OLEFormat**
+_expression_.**OLEFormat**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -41,4 +42,4 @@ Sub UpdateLinkedExcelSpreadsheets()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

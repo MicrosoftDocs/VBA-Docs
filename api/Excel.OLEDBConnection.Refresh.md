@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.Refresh Method (Excel)
+title: OLEDBConnection.Refresh method (Excel)
 keywords: vbaxl10.chm794083
 f1_keywords:
 - vbaxl10.chm794083
@@ -8,24 +8,25 @@ api_name:
 - Excel.OLEDBConnection.Refresh
 ms.assetid: c28e9443-81e2-dfec-a3fb-a127c3fa2918
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEDBConnection.Refresh Method (Excel)
+# OLEDBConnection.Refresh method (Excel)
 
 Refreshes an OLE DB connection.
 
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_.**Refresh**
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
 
-When making the connection to the OLE DB data source, Microsoft Excel uses the connection string specified by the  **[Connection](Excel.OLEDBConnection.Connection.md)** property. If the specified connection string is missing required values, dialog boxes will be displayed to prompt the user for the required information. If the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property is **False** , dialog boxes are not displayed and the **Refresh** method fails with the Insufficient Connection Information exception.
+When making the connection to the OLE DB data source, Microsoft Excel uses the connection string specified by the  **[Connection](Excel.OLEDBConnection.Connection.md)** property. If the specified connection string is missing required values, dialog boxes will be displayed to prompt the user for the required information. If the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property is **False**, dialog boxes are not displayed and the **Refresh** method fails with the Insufficient Connection Information exception.
 
 After Microsoft Excel makes a successful connection, it stores the completed connection string so that prompts will not be displayed for subsequent calls to the  **Refresh** method during the same editing session. You can obtain the completed connection string by examining the value of the **[Connection](Excel.OLEDBConnection.Connection.md)** property.
 
@@ -41,3 +42,4 @@ To see whether the number of fetched rows exceeded the number of available rows 
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

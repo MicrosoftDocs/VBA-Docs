@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.Borders
 ms.assetid: 7da8309e-f01f-b131-b462-f974dde67007
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Borders](Excel.Borders.md)** collection that represents the border
 
 ## Syntax
 
- _expression_. `Borders`
+_expression_.**Borders**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

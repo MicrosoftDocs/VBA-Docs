@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Parent Property (PowerPoint)
+title: FillFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm552001
 f1_keywords:
 - vbapp10.chm552001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.Parent
 ms.assetid: b81440f3-aa91-7a67-0a61-a30cf40e2c29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Parent Property (PowerPoint)
+# FillFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

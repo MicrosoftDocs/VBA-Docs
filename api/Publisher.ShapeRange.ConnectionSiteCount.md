@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConnectionSiteCount Property (Publisher)
+title: ShapeRange.ConnectionSiteCount property (Publisher)
 keywords: vbapb10.chm2293812
 f1_keywords:
 - vbapb10.chm2293812
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.ConnectionSiteCount
 ms.assetid: f830739d-08be-562c-83fc-7f7a6f8e047c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ConnectionSiteCount Property (Publisher)
+# ShapeRange.ConnectionSiteCount property (Publisher)
 
 Returns a  **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **ConnectionSiteCount**
+_expression_.**ConnectionSiteCount**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -74,4 +75,4 @@ Sub Connections()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

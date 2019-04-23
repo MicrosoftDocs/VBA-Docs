@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PageSize Property (Publisher)
+title: PageSetup.PageSize property (Publisher)
 keywords: vbapb10.chm6946850
 f1_keywords:
 - vbapb10.chm6946850
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PageSetup.PageSize
 ms.assetid: b0605215-5d91-e26e-d3c5-98254cf30044
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.PageSize Property (Publisher)
+# PageSetup.PageSize property (Publisher)
 
 Gets or sets the blank page size for the current publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageSize**
+_expression_.**PageSize**
 
  _expression_ A variable that represents a  **PageSetup** object.
 
@@ -46,4 +47,4 @@ Public Sub PageSize_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

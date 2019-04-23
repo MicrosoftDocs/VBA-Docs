@@ -8,6 +8,7 @@ api_name:
 - Excel.XPath.Application
 ms.assetid: f22f8f93-6bcf-2691-6848-674ca301cb96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [XPath Object](Excel.XPath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

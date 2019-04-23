@@ -3,6 +3,7 @@ title: How do I... (Outlook VBA reference)
 ms.prod: outlook
 ms.assetid: 3c33646d-e5c2-3103-b219-487ffe23357f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -41,9 +42,9 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
     
 -  [How to: List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List](../Address-Book/list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distr.md)
     
--  [How to: Map a Display Name to an E-mail Address](../Address-Book/map-a-display-name-to-an-e-mail-address.md)
+-  [How to: Map a Display Name to an Email Address](../Address-Book/map-a-display-name-to-an-e-mail-address.md)
     
--  [How to: Obtain the E-mail Address of a Recipient](../Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
+-  [How to: Obtain the Email Address of a Recipient](../Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
     
 -  [How to: Programmatically Change the Display Format for All Contacts](../Address-Book/programmatically-change-the-display-format-for-all-contacts.md)
     
@@ -98,7 +99,7 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
 
  **Mail Items**
 
--  [How to: Send an E-mail Given the SMTP Address of an Account](../../How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+-  [How to: Send an Email Given the SMTP Address of an Account](../../How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
     
 -  [Specify an Internet Encoding Scheme for the Body and Attachments of a Message](../../How-to/Items-Folders-and-Stores/specify-an-internet-encoding-scheme-for-the-body-and-attachments-of-a-message.md)
     
@@ -128,7 +129,7 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
  **Rules**
 
 
--  [How to: Create a Rule to Move Specific E-mails to a Folder](../../How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md)
+-  [How to: Create a Rule to Move Specific Emails to a Folder](../../How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md)
     
 
  **Search and Filter**
@@ -181,6 +182,5 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
 -  [How to: Save Auto-Archive Properties of a Folder in Solution Storage](../../How-to/Solution-Storage/save-auto-archive-properties-of-a-folder-in-solution-storage.md)
     
 -  [How to: Store Data in a StorageItem for a Solution](../../How-to/Solution-Storage/store-data-in-a-storageitem-for-a-solution.md)
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

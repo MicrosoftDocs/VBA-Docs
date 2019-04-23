@@ -1,12 +1,13 @@
 ---
-title: Fields Object (Word)
+title: Fields object (Word)
 ms.prod: word
 ms.assetid: c79065bb-ba29-22fd-a9d7-90bb10550035
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields Object (Word)
+# Fields object (Word)
 
 A collection of  **Field** objects that represent all the fields in a selection, range, or document.
 
@@ -53,6 +54,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

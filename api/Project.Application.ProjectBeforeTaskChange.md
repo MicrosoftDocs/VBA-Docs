@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeTaskChange Event (Project)
+title: Application.ProjectBeforeTaskChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskChange
 ms.assetid: 995024c3-b031-0ddd-0fbe-4d817f237473
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeTaskChange Event (Project)
+# Application.ProjectBeforeTaskChange event (Project)
 
 Occurs before the user changes the value of a task field.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeTaskChange`( ` _tsk_`, ` _Field_`, ` _NewVal_`, ` _Cancel_` )
+_expression_. `ProjectBeforeTaskChange`( `_tsk_`, `_Field_`, `_NewVal_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -64,4 +65,4 @@ Private Sub App_ProjectBeforeTaskChange(ByVal tsk As Task, ByVal Field As PjFiel
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

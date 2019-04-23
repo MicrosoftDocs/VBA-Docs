@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Forms.Count
 ms.assetid: 915dcb5c-bab5-956f-329e-63a6bf934991
-ms.date: 06/08/2017
+ms.date: 03/06/2019
+localization_priority: Normal
 ---
 
 
 # Forms.Count property (Access)
 
-You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
-_expression_ A variable that represents a [Forms](Access.Forms.md) object.
+_expression_ A variable that represents a **[Forms](Access.Forms.md)** object.
 
 
 ## Example
 
-For example, if you want to determine the number of forms currently open or existing on the database, you would use the following code strings
-
+For example, if you want to determine the number of forms currently open or existing in the database, you would use the following code strings.
 
 ```vb
 ' Determine the number of open forms. 
@@ -39,10 +39,9 @@ forms.count
 currentproject.allforms.count
 ```
 
-The following example uses the  **Count** property to control a loop that prints information about all open forms and their controls.
+<br/>
 
-
-
+The following example uses the **Count** property to control a loop that prints information about all open forms and their controls.
 
 ```vb
 Sub Print_Form_Controls() 
@@ -70,8 +69,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Forms Collection](Access.Forms.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

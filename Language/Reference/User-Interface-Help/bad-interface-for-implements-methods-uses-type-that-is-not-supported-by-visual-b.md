@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b932f58b-b15b-ee6a-e1ca-973ff2060717
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The  **Implements** statement is used to specify an interface or class that will
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

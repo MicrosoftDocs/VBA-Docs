@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.MouseDown Event (Outlook)
+title: OlkDateControl.MouseDown event (Outlook)
 keywords: vbaol11.chm1000364
 f1_keywords:
 - vbaol11.chm1000364
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkDateControl.MouseDown
 ms.assetid: df29431e-c8a6-e345-e9c3-4a4195e00d41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkDateControl.MouseDown Event (Outlook)
+# OlkDateControl.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

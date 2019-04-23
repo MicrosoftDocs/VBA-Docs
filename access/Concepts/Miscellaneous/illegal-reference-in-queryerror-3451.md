@@ -3,6 +3,7 @@ title: Illegal reference in query. (Error 3451)
 ms.prod: access
 ms.assetid: 68b78099-abe5-c647-0802-2bf1e6aedc0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This error occurs when parameters are defined with unrecognized data types.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

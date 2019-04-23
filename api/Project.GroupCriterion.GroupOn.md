@@ -1,21 +1,22 @@
 ---
-title: GroupCriterion.GroupOn Property (Project)
+title: GroupCriterion.GroupOn property (Project)
 ms.prod: project-server
 api_name:
 - Project.GroupCriterion.GroupOn
 ms.assetid: dd36cf16-9306-4cc7-904b-9e2ae364722f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriterion.GroupOn Property (Project)
+# GroupCriterion.GroupOn property (Project)
 
 Gets or sets the type of grouping for a field used as a criterion in a group definition. Read/write  **PjGroupOn**.
 
 
 ## Syntax
 
- _expression_. `GroupOn`
+_expression_. `GroupOn`
 
  _expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
 
@@ -37,4 +38,4 @@ Sub AddCriterionWithInterval()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

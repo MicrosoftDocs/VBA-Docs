@@ -1,5 +1,5 @@
 ---
-title: PbTableAutoFormatType Enumeration (Publisher)
+title: PbTableAutoFormatType enumeration (Publisher)
 keywords: vbapb10.chm65578
 f1_keywords:
 - vbapb10.chm65578
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbTableAutoFormatType
 ms.assetid: 5ed0b262-6f16-f99a-a5ef-bf653acbd1f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbTableAutoFormatType Enumeration (Publisher)
+# PbTableAutoFormatType enumeration (Publisher)
 
 The type of automatic formatting to apply to the specified table.
 
@@ -44,3 +45,4 @@ The type of automatic formatting to apply to the specified table.
 | **pbTableAutoFormatTableOfContents2**|18|Auto Format Table Of Contents2|
 | **pbTableAutoFormatTableOfContents3**|19|Auto Format Table Of Contents3|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

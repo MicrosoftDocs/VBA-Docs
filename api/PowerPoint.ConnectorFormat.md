@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat Object (PowerPoint)
+title: ConnectorFormat object (PowerPoint)
 keywords: vbapp10.chm555000
 f1_keywords:
 - vbapp10.chm555000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ConnectorFormat
 ms.assetid: 54504fab-8279-1012-db7f-3f19a4840637
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat Object (PowerPoint)
+# ConnectorFormat object (PowerPoint)
 
 Contains properties and methods that apply to connectors. 
 
@@ -35,7 +36,7 @@ Connection sites are generally numbered according to the rules presented in the 
 
 ## Example
 
-The following example adds two rectangles to  `myDocument` and connects them with a curved connector.
+The following example adds two rectangles to  _myDocument_ and connects them with a curved connector.
 
 
 ```vb
@@ -113,3 +114,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

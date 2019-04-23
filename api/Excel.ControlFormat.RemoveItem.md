@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.RemoveItem Method (Excel)
+title: ControlFormat.RemoveItem method (Excel)
 keywords: vbaxl10.chm630075
 f1_keywords:
 - vbaxl10.chm630075
@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.RemoveItem
 ms.assetid: 351c2333-9e8c-90a6-90a9-839f43184bb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ControlFormat.RemoveItem Method (Excel)
+# ControlFormat.RemoveItem method (Excel)
 
 Removes one or more items from a list box or combo box.
 
 
 ## Syntax
 
- _expression_. `RemoveItem`( `_Index_` , `_Count_` )
+_expression_. `RemoveItem`( `_Index_` , `_Count_` )
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Parameters
@@ -41,7 +42,7 @@ Use the  **[RemoveAllItems](Excel.ControlFormat.RemoveAllItems.md)** method to r
 
 ## Example
 
-This example removes the selected item from a list box. If  `Shapes(2)` doesn?t represent a list box, this example fails.
+This example removes the selected item from a list box. If  `Shapes(2)` doesn't represent a list box, this example fails.
 
 
 ```vb
@@ -55,3 +56,4 @@ lbcf.RemoveItem lbcf.ListIndex
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

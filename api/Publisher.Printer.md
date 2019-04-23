@@ -1,5 +1,5 @@
 ---
-title: Printer Object (Publisher)
+title: Printer object (Publisher)
 keywords: vbapb10.chm9043967
 f1_keywords:
 - vbapb10.chm9043967
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Printer
 ms.assetid: 46f8c6a2-4cf1-bb6a-1214-a751440870f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Printer Object (Publisher)
+# Printer object (Publisher)
 
 A  **Printer** object represents a printer installed on your computer.
 
@@ -56,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Printer.Application.md)|
 |[DriverType](./Publisher.Printer.DriverType.md)|
@@ -74,3 +75,4 @@ End Sub
 |[PrinterName](./Publisher.Printer.PrinterName.md)|
 |[PrintMode](./Publisher.Printer.Printer.PrintMode.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

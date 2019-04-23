@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 132cf297-eb3b-68a1-7a47-b832931a5091
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -38,9 +39,7 @@ Forms!Employees.FilterOn = True
 If the current value of the HireDate control is May 1, 1992, the **Filter** or **ServerFilter** property will have the following _criteria_ argument:
 
 
-```text
-"[HireDate] >= #5-1-92#"
-```
+    "[HireDate] >= #5-1-92#"
 
 > [!TIP] 
 > To troubleshoot an expression in the _criteria_ argument, break the expression into smaller components and test each individually in the Immediate window. When all of the components are working correctly, put them back together one at a time until the complete expression works correctly.
@@ -56,4 +55,4 @@ Forms!Employees.Filter = "[HireDate] >= #" _
  & datHireDate & "#"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

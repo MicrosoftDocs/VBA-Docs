@@ -1,5 +1,5 @@
 ---
-title: OlRuleExecuteOption Enumeration (Outlook)
+title: OlRuleExecuteOption enumeration (Outlook)
 keywords: vbaol11.chm3114
 f1_keywords:
 - vbaol11.chm3114
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlRuleExecuteOption
 ms.assetid: d654efcb-d3ef-9579-896e-fcd7859136b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlRuleExecuteOption Enumeration (Outlook)
+# OlRuleExecuteOption enumeration (Outlook)
 
 Specifies the type of messages in the specified folder or folders that a rule should be applied to.
 
@@ -23,3 +24,4 @@ Specifies the type of messages in the specified folder or folders that a rule sh
 | **olRuleExecuteReadMessages**|1|Executes a rule against messages that have been read in the specified folder or folders.|
 | **olRuleExecuteUnreadMessages**|2|Executes a rule against messages that have not been read in the specified folder or folders.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

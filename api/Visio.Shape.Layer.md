@@ -1,5 +1,5 @@
 ---
-title: Shape.Layer Property (Visio)
+title: Shape.Layer property (Visio)
 keywords: vis_sdr.chm11213810
 f1_keywords:
 - vis_sdr.chm11213810
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Layer
 ms.assetid: fb076dda-fa1f-a1fe-c97b-03ba3c7041f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Layer Property (Visio)
+# Shape.Layer property (Visio)
 
 Returns the layer to which a shape is assigned. Read-only.
 
 
 ## Syntax
 
- _expression_. `Layer`( `_Index_` )
+_expression_. `Layer` (_Index_)
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -92,4 +93,4 @@ Public Sub Layer_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SharingItem.RetentionPolicyName Property (Outlook)
+title: SharingItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3564
 f1_keywords:
 - vbaol11.chm3564
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.RetentionPolicyName
 ms.assetid: 6b8327ef-4e34-23fb-cd3e-3d6820b6b42e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.RetentionPolicyName Property (Outlook)
+# SharingItem.RetentionPolicyName property (Outlook)
 
 Returns a  **String** that specifies the name of the retention policy. Read-only.
 
 
 ## Syntax
 
- _expression_. `RetentionPolicyName`
+_expression_. `RetentionPolicyName`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

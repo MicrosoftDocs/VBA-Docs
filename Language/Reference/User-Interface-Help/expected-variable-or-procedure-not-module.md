@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 53bca70b-31a5-fad2-a2ca-5e76c2140560
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ There is no [variable](../../Glossary/vbe-glossary.md#variable) or [procedure](.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

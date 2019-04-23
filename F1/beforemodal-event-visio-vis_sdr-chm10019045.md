@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0c8a75f2-289b-43d1-b027-5846e946e923
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeModal Event (Visio)](http://msdn.microsoft.com/library/505d3e54-c8f7-7f02-90d2-43f73573b296%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

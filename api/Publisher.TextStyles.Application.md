@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Application Property (Publisher)
+title: TextStyles.Application property (Publisher)
 keywords: vbapb10.chm5898241
 f1_keywords:
 - vbapb10.chm5898241
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyles.Application
 ms.assetid: 9964af47-8a89-f904-e0bf-043d649d53b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyles.Application Property (Publisher)
+# TextStyles.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **TextStyles** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

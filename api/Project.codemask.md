@@ -1,12 +1,13 @@
 ---
-title: CodeMask Object (Project)
+title: CodeMask object (Project)
 ms.prod: project-server
 ms.assetid: 4d0a22f4-fee9-8f4b-a0c0-7bc817ad3f6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CodeMask Object (Project)
+# CodeMask object (Project)
 
 The  **CodeMask** object is a collection of **[CodeMaskLevel](Project.CodeMaskLevel.md)** objects that define the code mask for an outline code in Project.
  
@@ -41,7 +42,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.CodeMask.Add.md)|
 
@@ -49,10 +50,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CodeMask.Application.md)|
 |[Count](Project.CodeMask.Count.md)|
 |[Item](Project.CodeMask.Item.md)|
 |[Parent](Project.CodeMask.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

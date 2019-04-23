@@ -3,6 +3,7 @@ title: ToggleButton.Caption Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 3473424a-6a01-50ab-f3a9-3f6cb3114d3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 ## Syntax
 
- _expression_. **Caption**
+_expression_.**Caption**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ The  **[ForeColor](Outlook.togglebutton.forecolor.md)** property of the control 
 
 Setting  **[AutoSize](Outlook.togglebutton.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

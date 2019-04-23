@@ -1,5 +1,5 @@
 ---
-title: LetterContent.EnclosureNumber Property (Word)
+title: LetterContent.EnclosureNumber property (Word)
 keywords: vbawd10.chm161546357
 f1_keywords:
 - vbawd10.chm161546357
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.EnclosureNumber
 ms.assetid: e4bc5df9-a59a-562b-758e-4774eb4dbb9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.EnclosureNumber Property (Word)
+# LetterContent.EnclosureNumber property (Word)
 
-Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EnclosureNumber`
+_expression_. `EnclosureNumber`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -51,3 +52,4 @@ ActiveDocument.SetLetterContent LetterContent:=lcTemp
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

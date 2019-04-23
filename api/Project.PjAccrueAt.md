@@ -1,14 +1,15 @@
 ---
-title: PjAccrueAt Enumeration (Project)
+title: PjAccrueAt enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAccrueAt
 ms.assetid: a86ac41f-9b7c-dd20-6d41-131b1c96af6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjAccrueAt Enumeration (Project)
+# PjAccrueAt enumeration (Project)
 
 Contains constants that specify how the cost of a resource is accrued.
 
@@ -20,3 +21,4 @@ Contains constants that specify how the cost of a resource is accrued.
 |**pjProrated**|3|Task accrues the resource cost as the task progresses.|
 |**pjStart**|1| Task accrues the resource cost when the task starts.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

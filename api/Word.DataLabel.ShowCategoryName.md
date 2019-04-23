@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowCategoryName Property (Word)
+title: DataLabel.ShowCategoryName property (Word)
 keywords: vbawd10.chm233900007
 f1_keywords:
 - vbawd10.chm233900007
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabel.ShowCategoryName
 ms.assetid: a2ef8f99-c26f-d0c1-4cd5-6a4787f69a0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabel.ShowCategoryName Property (Word)
+# DataLabel.ShowCategoryName property (Word)
 
- **True** to display the category name for the data labels on a chart. **False** to hide the category name. Read/write **Boolean** .
+ **True** to display the category name for the data labels on a chart. **False** to hide the category name. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowCategoryName`
+_expression_. `ShowCategoryName`
 
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

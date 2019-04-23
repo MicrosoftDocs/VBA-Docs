@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 52d9aaff-03d1-43cd-9646-edb54633ff6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Start Property (Project)](http://msdn.microsoft.com/library/7104e084-9af7-d3da-3ae4-efade4964647%28Office.15%29.aspx)
 [Shift.Start Property (Project)](http://msdn.microsoft.com/library/0e5232a0-a056-8933-a9cc-87c516784302%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

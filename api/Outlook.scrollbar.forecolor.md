@@ -3,6 +3,7 @@ title: ScrollBar.ForeColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c0e3b0a9-3f0d-4df7-9f27-a44f339a2f47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the foreground color of an object. Re
 
 ## Syntax
 
- _expression_. **ForeColor**
+_expression_.**ForeColor**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ Use the  **ForeColor** property for controls on forms to make them easy to read 
 
 The  **ForeColor** sets the color of the arrows.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

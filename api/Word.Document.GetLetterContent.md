@@ -1,5 +1,5 @@
 ---
-title: Document.GetLetterContent Method (Word)
+title: Document.GetLetterContent method (Word)
 keywords: vbawd10.chm158007420
 f1_keywords:
 - vbawd10.chm158007420
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.GetLetterContent
 ms.assetid: ab0d9fa4-b193-6a7f-641d-d6f971b37457
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.GetLetterContent Method (Word)
+# Document.GetLetterContent method (Word)
 
 Retrieves letter elements from the specified document and returns a  **[LetterContent](Word.LetterContent.md)** object.
 
 
 ## Syntax
 
- _expression_. `GetLetterContent`
+_expression_. `GetLetterContent`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Return value
@@ -60,3 +61,4 @@ ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

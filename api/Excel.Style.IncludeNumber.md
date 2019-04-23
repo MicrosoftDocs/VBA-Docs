@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.IncludeNumber
 ms.assetid: bd46ac34-67bb-cb78-1ad6-321fc4210f84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `IncludeNumber`
+_expression_. `IncludeNumber`
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").Range("A1").Style.IncludeNumber = True
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

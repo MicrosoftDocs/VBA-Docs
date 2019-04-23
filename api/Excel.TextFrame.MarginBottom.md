@@ -8,24 +8,25 @@ api_name:
 - Excel.TextFrame.MarginBottom
 ms.assetid: 50b2d7a9-8595-44a7-6f7a-ee2d2255869c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextFrame.MarginBottom property (Excel)
 
-Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
+Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `MarginBottom`
+_expression_. `MarginBottom`
 
- _expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](Excel.TextFrame.md) object.
 
 
 ## Example
 
-This example adds a rectangle to  `myDocument`, adds text to the rectangle, and then sets the margins for the text frame.
+This example adds a rectangle to  _myDocument_, adds text to the rectangle, and then sets the margins for the text frame.
 
 
 ```vb
@@ -46,3 +47,4 @@ End With
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

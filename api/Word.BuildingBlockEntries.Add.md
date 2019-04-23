@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockEntries.Add Method (Word)
+title: BuildingBlockEntries.Add method (Word)
 keywords: vbawd10.chm36241509
 f1_keywords:
 - vbawd10.chm36241509
@@ -8,17 +8,18 @@ api_name:
 - Word.BuildingBlockEntries.Add
 ms.assetid: 09578906-ea6d-9475-e026-b9dc437f451b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlockEntries.Add Method (Word)
+# BuildingBlockEntries.Add method (Word)
 
 Creates a new building block entry in a template and returns a  **[BuildingBlock](Word.BuildingBlock.md)** object that represents the new building block entry.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Type_` , `_Category_` , `_Range_` , `_Description_` , `_InsertOptions_` )
+_expression_.**Add**( `_Name_` , `_Type_` , `_Category_` , `_Range_` , `_Description_` , `_InsertOptions_` )
 
  _expression_ An expression that returns a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 
@@ -34,7 +35,7 @@ Creates a new building block entry in a template and returns a  **[BuildingBlock
 | _Category_|Required| **String**|Specifies the category of the new building block entry. Corresponds to the  **[Category](Word.BuildingBlock.Category.md)** property of the **BuildingBlock** object.|
 | _Range_|Required| **[Range](Word.Range.md)**|Specifies the value of the buildling block entry. Corresponds to the  **[Value](Word.BuildingBlock.Value.md)** property of the **BuildingBlock** object.|
 | _Description_|Optional| **Variant**|Specifies the description of the buildling block entry. Corresponds to the  **[Description](Word.BuildingBlock.Description.md)** property of the **BuildingBlock** object.|
-| _InsertOptions_|Optional| **[WdDocPartInsertOptions](Word.WdDocPartInsertOptions.md)**|Specifies whether the building block entry is inserted as a page, a paragraph, or inline. If omitted, the default value is  **wdInsertContent** . Corresponds to the **[InsertOptions](Word.BuildingBlock.InsertOptions.md)** property for the **BuildingBlock** object.|
+| _InsertOptions_|Optional| **[WdDocPartInsertOptions](Word.WdDocPartInsertOptions.md)**|Specifies whether the building block entry is inserted as a page, a paragraph, or inline. If omitted, the default value is  **wdInsertContent**. Corresponds to the **[InsertOptions](Word.BuildingBlock.InsertOptions.md)** property for the **BuildingBlock** object.|
 
 ## Return value
 
@@ -61,3 +62,4 @@ Set objBB = objTemplate.BuildingBlockEntries.Add("Author Name", _
 
 [BuildingBlockEntries Collection](Word.BuildingBlockEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

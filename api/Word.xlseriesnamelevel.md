@@ -1,12 +1,13 @@
 ---
-title: xlSeriesNameLevel Enumeration (Word)
+title: XlSeriesNameLevel enumeration (Word)
 ms.prod: word
 ms.assetid: e1ddc9ae-c54b-299c-c252-351f239fd759
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlSeriesNameLevel Enumeration (Word)
+# XlSeriesNameLevel enumeration (Word)
 
 Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel](Word.chart.seriesnamelevel.md) property.
 
@@ -21,3 +22,4 @@ Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel
 | **xlSeriesNameLevelCustom**|-2|Indicates literal data in the series names.|
 | **xlSeriesNameLevelNone**|-3|Sets no series names in the chart.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

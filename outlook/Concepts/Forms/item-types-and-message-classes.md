@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 15b709cc-7486-b6c7-88a3-4a4d8e0ab292
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,7 +25,7 @@ ms.date: 06/08/2017
 |IPM.Document|Documents|
 |IPM.OLE.Class|Exception item of a recurrence series|
 |IPM|Items for which the specified form cannot be found|
-|IPM.Note|E-mail messages|
+|IPM.Note|Email messages|
 |IPM.Note.IMC.Notification|Reports from the Internet Mail Connect (the Exchange Server gateway to the Internet)|
 |IPM.Note.Rules.OofTemplate.Microsoft|Out-of-office templates|
 |IPM.Post|Posting notes in a folder|
@@ -48,3 +49,4 @@ ms.date: 06/08/2017
 |IPM.TaskRequest|Task requests|
 |IPM.TaskRequest.Update| Updates to requested tasks|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: PpViewType Enumeration (PowerPoint)
+title: PpViewType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpViewType
 ms.assetid: ae5e79ec-4176-4a00-5690-aca0570dcb84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpViewType Enumeration (PowerPoint)
+# PpViewType enumeration (PowerPoint)
 
 Constants that specify the type of view, passed to and returned by the  **DocumentWindow** object, and returned by the **Pane** object.
 
@@ -29,3 +30,4 @@ Constants that specify the type of view, passed to and returned by the  **Docume
 |**ppViewThumbnails**|11|Thumbnails|
 |**ppViewTitleMaster**|8|Title Master|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

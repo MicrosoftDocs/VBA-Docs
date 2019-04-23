@@ -3,6 +3,7 @@ title: Collections (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: d854bab9-5439-ebe7-2f89-b290dcaa0342
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -79,3 +80,5 @@ public int Invalid DDUE based on source, error:link not allowed in code, link fi
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

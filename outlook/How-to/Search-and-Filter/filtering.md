@@ -3,6 +3,7 @@ title: Filtering
 ms.prod: outlook
 ms.assetid: 139ce3a5-8e8d-417c-be52-82ae4bfa9bf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,5 +31,5 @@ ms.date: 06/08/2017
 -  [Filtering Items Using Comparison and Logical Operators](filtering-items-using-comparison-and-logical-operators.md)
     
 -  [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

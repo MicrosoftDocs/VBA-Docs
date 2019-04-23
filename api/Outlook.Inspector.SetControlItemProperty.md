@@ -1,5 +1,5 @@
 ---
-title: Inspector.SetControlItemProperty Method (Outlook)
+title: Inspector.SetControlItemProperty method (Outlook)
 keywords: vbaol11.chm2980
 f1_keywords:
 - vbaol11.chm2980
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Inspector.SetControlItemProperty
 ms.assetid: 90bb0dbf-c47e-9d75-182c-59c3e2384db2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Inspector.SetControlItemProperty Method (Outlook)
+# Inspector.SetControlItemProperty method (Outlook)
 
 Binds a built-in property or custom property to a control in an inspector. 
 
 
 ## Syntax
 
- _expression_. `SetControlItemProperty`( `_Control_` , `_PropertyName_` )
+_expression_. `SetControlItemProperty`( `_Control_` , `_PropertyName_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Parameters
@@ -34,11 +35,11 @@ Binds a built-in property or custom property to a control in an inspector.
 
 ## Remarks
 
-You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example, **Subject** , and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
+You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example, **Subject**, and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
 
 The  _PropertyName_ parameter is not case-sensitive. For example, **SetControlItemProperty** interprets an argument, _CustomerId_, to be the same as  _CustomerID_ and binds the specified control to the built-in **[ContactItem.CustomerID](Outlook.ContactItem.CustomerID.md)** property.
 
-You can also use the following line of code  `myPage.Controls("bar").ItemProperty = "subject"` to bind the subject property to a control. However, note that untrusted code using this will trigger a security warning if the property is protected by the object model security guard such as **To** , and the client computer is running Microsoft Office Outlook 2007 or later but does not have an appropriately set up antivirus software. You can use the **SetControlItemProperty** method to avoid security warnings with trusted applications.
+You can also use the following line of code  `myPage.Controls("bar").ItemProperty = "subject"` to bind the subject property to a control. However, note that untrusted code using this will trigger a security warning if the property is protected by the object model security guard such as **To**, and the client computer is running Microsoft Office Outlook 2007 or later but does not have an appropriately set up antivirus software. You can use the **SetControlItemProperty** method to avoid security warnings with trusted applications.
 
 
 ## Example
@@ -76,3 +77,4 @@ End Sub
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

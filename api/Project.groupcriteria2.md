@@ -1,12 +1,13 @@
 ---
-title: GroupCriteria2 Object (Project)
+title: GroupCriteria2 object (Project)
 ms.prod: project-server
 ms.assetid: ac785cc4-dbe3-0b1d-d1f1-6d45c93bfb1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriteria2 Object (Project)
+# GroupCriteria2 object (Project)
 
 Contains a collection of  **[GroupCriterion2](Project.GroupCriterion2.md)** objects, where the group hierarchy can be maintained and cell color can be a hexadecimal value.
  
@@ -74,7 +75,7 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.GroupCriteria2.Add.md)|
 |[AddEx](Project.GroupCriteria2.AddEx.md)|
@@ -83,7 +84,7 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.GroupCriteria2.Application.md)|
 |[Count](Project.GroupCriteria2.Count.md)|
@@ -95,3 +96,5 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

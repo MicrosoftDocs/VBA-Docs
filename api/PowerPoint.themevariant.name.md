@@ -1,19 +1,20 @@
 ---
-title: ThemeVariant.Name Property (PowerPoint)
+title: ThemeVariant.Name property (PowerPoint)
 ms.assetid: c28ccf47-05ab-9d75-e190-47a3032faac6
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# ThemeVariant.Name Property (PowerPoint)
+# ThemeVariant.Name property (PowerPoint)
 
 Returns the name of the theme variation. Read-only.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a 'ThemeVariant' object.
 
@@ -55,4 +56,4 @@ End Sub
 
  **STRING**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

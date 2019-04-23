@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.CenterHeaderPicture
 ms.assetid: c4c6e0b5-96e3-eaea-2dfe-807f286029ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a **[Graphic](Excel.Graphic.md)** object that represents the picture for
 
 ## Syntax
 
- _expression_. `CenterHeaderPicture`
+_expression_. `CenterHeaderPicture`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ End Sub
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

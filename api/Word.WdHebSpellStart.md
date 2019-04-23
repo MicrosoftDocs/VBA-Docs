@@ -1,14 +1,15 @@
 ---
-title: WdHebSpellStart Enumeration (Word)
+title: WdHebSpellStart enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHebSpellStart
 ms.assetid: 9d0ca1f9-6bd6-08f1-fed9-71eb34ebc9ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdHebSpellStart Enumeration (Word)
+# WdHebSpellStart enumeration (Word)
 
 Specifies which rules the Hebrew spelling checker will follow.
 
@@ -21,3 +22,4 @@ Specifies which rules the Hebrew spelling checker will follow.
 | **wdMixedScript**|2|The spelling checker follows rules for full and partial script and allows non-conventional spelling variations. Only completely unrecognized words are highlighted as potential mistakes.|
 | **wdPartialScript**|1|The spelling checker follows rules for the traditional script used only for text with diacritics.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.Orientation Property (Word)
+title: Selection.Orientation property (Word)
 keywords: vbawd10.chm158663066
 f1_keywords:
 - vbawd10.chm158663066
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Orientation
 ms.assetid: 830f85de-51bc-1cb9-6312-7e2b2751430d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Orientation Property (Word)
+# Selection.Orientation property (Word)
 
-Returns or sets the orientation of text in a selection when the Text Direction feature is enabled. Read/write  **WdTextOrientation** .
+Returns or sets the orientation of text in a selection when the Text Direction feature is enabled. Read/write  **WdTextOrientation**.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ You can set the orientation for a text frame or for a selection that happens to 
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

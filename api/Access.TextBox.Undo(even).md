@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.TextBox.Undo
 ms.assetid: ee009e53-41be-0c9a-a92d-15572f6213b6
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
@@ -18,28 +19,25 @@ Occurs when the user undoes a change.
 
 ## Syntax
 
-_expression_. `Undo`( ` _Cancel_`, )
+_expression_.**Undo** (_Cancel_)
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|Set this argument to  **True** to cancel the undo operation and leave the control or form in its edited state.|
+| _Cancel_|Required|**Integer**|Set this argument to **True** to cancel the undo operation and leave the control or form in its edited state.|
 
 ## Remarks
 
-The Undo event for controls occurs whenever the user returns a control to its original state by clicking the  **Undo Field/Record** button on the command bar, clicking the **Undo** button, pressing the ESC key, or calling the **Undo** method of the specified control. The control needs to have focus in all three cases. The event does not occur if the user clicks the **Undo Typing** button on the command bar.
+The **Undo** event for controls occurs whenever the user returns a control to its original state by choosing the **Undo Field/Record** button on the command bar, choosing the **Undo** button, pressing the Esc key, or calling the **Undo** method of the specified control. The control needs to have focus in all three cases. The event does not occur if the user chooses the **Undo Typing** button on the command bar.
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the Undo event for a form.
-
+The following example demonstrates the syntax for a subroutine that traps the **Undo** event for a form.
 
 ```vb
 Private Sub Form_Undo(Cancel As Integer) 
@@ -59,8 +57,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[TextBox Object](Access.TextBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

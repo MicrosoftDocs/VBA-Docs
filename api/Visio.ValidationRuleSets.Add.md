@@ -1,5 +1,5 @@
 ---
-title: ValidationRuleSets.Add Method (Visio)
+title: ValidationRuleSets.Add method (Visio)
 keywords: vis_sdr.chm18116005
 f1_keywords:
 - vis_sdr.chm18116005
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRuleSets.Add
 ms.assetid: 69e2526a-e787-d9a8-45c1-e2f1e48faa03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRuleSets.Add Method (Visio)
+# ValidationRuleSets.Add method (Visio)
 
-Adds a new, empty  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
+Adds a new, empty **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
 
 
 ## Syntax
 
- _expression_. `Add`( `_NameU_` )
+_expression_.**Add**( `_NameU_` )
 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
@@ -40,12 +41,16 @@ Adds a new, empty  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to
 
 If the  _NameU_ parameter is not a valid string or if it matches the universal name of an existing rule set in the document, Microsoft Visio returns an Invalid Parameter error.
 
-The default property values of the new validation rule set are as follows:  **[Description](Visio.ValidationRuleSet.Description.md)** = [empty]; **Enabled** = **True** ; **[Name](Visio.ValidationRuleSet.Name.md)** = **NameU** ; **[RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** = **visRuleSetDefault** .
+The default property values of the new validation rule set are as follows: 
+
+- **[Description](Visio.ValidationRuleSet.Description.md)** = [empty]
+- **Enabled** = **True**; **[Name](Visio.ValidationRuleSet.Name.md)** = **NameU**
+- **[RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** = **visRuleSetDefault**
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Add** method to add a validation rule set named "Connectivity" to the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Add** method to add a validation rule set named "Connectivity" to the active document.
 
 
 ```vb
@@ -57,4 +62,4 @@ vsoDocument.Validation.RuleSets.Add("Connectivity")
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

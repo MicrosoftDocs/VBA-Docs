@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 095a384d-5c02-a096-d8f8-31edbc941f90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -46,3 +47,5 @@ End Sub'EndInternetTimeoutVB
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

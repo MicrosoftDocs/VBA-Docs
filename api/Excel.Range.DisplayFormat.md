@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.DisplayFormat
 ms.assetid: c4e044e2-a04e-b655-2973-7e02897ca49d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[DisplayFormat](Excel.DisplayFormat.md)** object that represents th
 
 ## Syntax
 
- _expression_. `DisplayFormat`
+_expression_. `DisplayFormat`
 
- _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
+_expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ DisplayFormat
 
 ## Remarks
 
-Note that the  **DisplayFormat** property does not work in user defined functions. For example, in a worksheet function that returns the interior color of a cell, you use a line similar to: `Range(n).DisplayFormat.Interior.ColorIndex`. When the worksheet function executes, it returns a  **#VALUE!** error.
+Note that the  **DisplayFormat** property does not work in user-defined functions. For example, in a worksheet function that returns the interior color of a cell, you use a line similar to: `Range(n).DisplayFormat.Interior.ColorIndex`. When the worksheet function executes, it returns a  **#VALUE!** error.
 
 In another example, you cannot use the  **DisplayFormat** property in a worksheet function to return settings for a particular range. **DisplayFormat** will work in a function called from Visual Basic for Applications (VBA), however. For instance, in the following function:
 
@@ -62,3 +63,4 @@ End Function
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

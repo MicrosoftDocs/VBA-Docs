@@ -1,5 +1,5 @@
 ---
-title: Font.ItalicBi Property (Publisher)
+title: Font.ItalicBi property (Publisher)
 keywords: vbapb10.chm5373969
 f1_keywords:
 - vbapb10.chm5373969
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.ItalicBi
 ms.assetid: 604e776c-92b0-6e5b-2599-ab879c61a78a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.ItalicBi Property (Publisher)
+# Font.ItalicBi property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as italic; applies to text in a right-to-left language. Read/write.
 
 
 ## Syntax
 
- _expression_. **ItalicBi**
+_expression_.**ItalicBi**
 
  _expression_ A variable that represents an  **Font** object.
 
@@ -34,7 +35,7 @@ The  **ItalicBi** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| None of the characters in the range are formatted as italic.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -64,4 +65,4 @@ Sub ItalicRtoL()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

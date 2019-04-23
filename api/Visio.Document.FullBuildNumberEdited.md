@@ -1,5 +1,5 @@
 ---
-title: Document.FullBuildNumberEdited Property (Visio)
+title: Document.FullBuildNumberEdited property (Visio)
 keywords: vis_sdr.chm10551230
 f1_keywords:
 - vis_sdr.chm10551230
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.FullBuildNumberEdited
 ms.assetid: 43a6ff61-2ab8-4e89-0e06-bd2ba6ec0f02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FullBuildNumberEdited Property (Visio)
+# Document.FullBuildNumberEdited property (Visio)
 
 Returns the full build number of the instance last used to edit the document. Read-only. 
 
 
 ## Syntax
 
- _expression_. `FullBuildNumberEdited`
+_expression_. `FullBuildNumberEdited`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -93,4 +94,4 @@ Public Sub ParseFullBuildNumberEditedProperty(ByRef lngFullBuild As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

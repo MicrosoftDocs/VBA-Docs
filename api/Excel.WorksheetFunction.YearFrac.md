@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.YearFrac Method (Excel)
+title: WorksheetFunction.YearFrac method (Excel)
 keywords: vbaxl10.chm137327
 f1_keywords:
 - vbaxl10.chm137327
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.YearFrac
 ms.assetid: 01c2b4c9-5a9b-6fa1-c189-7210a31583d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.YearFrac Method (Excel)
+# WorksheetFunction.YearFrac method (Excel)
 
 Calculates the fraction of the year represented by the number of whole days between two dates (the start_date and the end_date). Use the YEARFRAC worksheet function to identify the proportion of a whole year's benefits or obligations to assign to a specific term.
 
 
 ## Syntax
 
- _expression_. `YearFrac`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `YearFrac`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

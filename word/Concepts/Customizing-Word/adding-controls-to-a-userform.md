@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: c752df00-d70c-ca1e-9a56-17f9bf952f48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,4 +20,4 @@ To add  [ActiveX controls](../../../api/overview/Word.md) to a user form, find t
 
 When you've added controls to the form, use the commands on the  **Format** menu in the Visual Basic Editor to adjust the control alignment and spacing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

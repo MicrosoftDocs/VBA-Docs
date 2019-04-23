@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Name
 ms.assetid: 3d000cdf-5e81-8701-ca7f-bdcce006363b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the object name.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -59,4 +60,4 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 [Worksheet Object](Excel.Worksheet.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

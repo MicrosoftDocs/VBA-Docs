@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.IncludeHiddenText Property (Word)
+title: TextRetrievalMode.IncludeHiddenText property (Word)
 keywords: vbawd10.chm154730498
 f1_keywords:
 - vbawd10.chm154730498
@@ -8,17 +8,18 @@ api_name:
 - Word.TextRetrievalMode.IncludeHiddenText
 ms.assetid: 8904b230-ba07-ecf1-45c3-95d2a11cc434
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRetrievalMode.IncludeHiddenText Property (Word)
+# TextRetrievalMode.IncludeHiddenText property (Word)
 
- **True** if the text retrieved from the specified range includes hidden text. Read/write **Boolean** .
+ **True** if the text retrieved from the specified range includes hidden text. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeHiddenText`
+_expression_. `IncludeHiddenText`
 
  _expression_ An expression that returns a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
@@ -66,3 +67,4 @@ End If
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

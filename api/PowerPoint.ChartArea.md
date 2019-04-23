@@ -1,5 +1,5 @@
 ---
-title: ChartArea Object (PowerPoint)
+title: ChartArea object (PowerPoint)
 keywords: vbapp10.chm687000
 f1_keywords:
 - vbapp10.chm687000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ChartArea
 ms.assetid: 2c8bd84e-18e7-6417-de4d-d643064e20f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartArea Object (PowerPoint)
+# ChartArea object (PowerPoint)
 
 Represents the chart area of a chart. 
 
@@ -49,3 +50,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.StencilBackgroundColor Property (Visio)
+title: ApplicationSettings.StencilBackgroundColor property (Visio)
 keywords: vis_sdr.chm16251535
 f1_keywords:
 - vis_sdr.chm16251535
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.StencilBackgroundColor
 ms.assetid: a1cbf151-96b8-7c9b-9ceb-2cf5768d41ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.StencilBackgroundColor Property (Visio)
+# ApplicationSettings.StencilBackgroundColor property (Visio)
 
 Determines the background color of the Microsoft Visio stencil window for the current session. Read/write.
 
 
 ## Syntax
 
- _expression_. `StencilBackgroundColor`
+_expression_. `StencilBackgroundColor`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -45,13 +46,13 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
 
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the Properties window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR** .
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR**.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **vbBlack**|0x0 |Black|
 | **vbRed**|0xFF |Red|
@@ -69,4 +70,4 @@ You can set the background color for an individual stencil window by using the  
 
  **Note**  You can specify two colors for the stencil background. If users' screen resolution is adequate, one of the colors will grade into the other from the top to the bottom of the screen. To be able to use this feature, users must set their monitors to display 32-bit color. The ability to set stencil background color programmatically for users running in high-contrast mode is restricted.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Index Method (Excel)
+title: WorksheetFunction.Index method (Excel)
 keywords: vbaxl10.chm137090
 f1_keywords:
 - vbaxl10.chm137090
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Index
 ms.assetid: 4656985a-2864-93ed-31c7-e7a551d68e96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Index Method (Excel)
+# WorksheetFunction.Index method (Excel)
 
 Returns a value or the reference to a value from within a table or range. There are two forms of the INDEX function: the array form and the reference form.
 
 
 ## Syntax
 
- _expression_. `Index`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_.**Index** (_Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -75,3 +76,4 @@ Returns the reference of the cell at the intersection of a particular row and co
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

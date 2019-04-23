@@ -1,19 +1,20 @@
 ---
-title: Page.GetThemeVariant Method (Visio)
+title: Page.GetThemeVariant method (Visio)
 ms.prod: visio
 ms.assetid: 40c2be31-fdb0-68ee-a129-2788b1b17c82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.GetThemeVariant Method (Visio)
+# Page.GetThemeVariant method (Visio)
 
 Returns the color, style, and embellishment, if any, of the variant of the theme applied to the specified page.
 
 
 ## Syntax
 
- _expression_. `GetThemeVariant`_(pVariantColor,_ _pVariantStyle,_ _pEmbellishment)_
+_expression_. `GetThemeVariant`_(pVariantColor,_ _pVariantStyle,_ _pEmbellishment)_
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -22,7 +23,7 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _pVariantColor_|Required|INT16|The index of the color variant applied. Possible values are from 0 to 3.Out parameter.|
@@ -39,3 +40,4 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
 
 [Page Object](Visio.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

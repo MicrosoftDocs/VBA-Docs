@@ -1,5 +1,5 @@
 ---
-title: Global.ActivePage Property (Visio)
+title: Global.ActivePage property (Visio)
 keywords: vis_sdr.chm12813030
 f1_keywords:
 - vis_sdr.chm12813030
@@ -8,17 +8,18 @@ api_name:
 - Visio.Global.ActivePage
 ms.assetid: ac981df6-5d43-f93d-f10c-41bd8e0ad2de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.ActivePage Property (Visio)
+# Global.ActivePage property (Visio)
 
 Returns the active  **Page** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActivePage`
+_expression_. `ActivePage`
 
  _expression_ A variable that represents a [Global](./Visio.Global.md) object.
 
@@ -30,7 +31,7 @@ Page
 
 ## Remarks
 
-The  **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing** . To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing** .
+The  **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing**. To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing**.
 
 It is possible to get the active window without qualification from the Microsoft Visio global object, which is automatically available to VBA code that is part of the VBA project of a Visio document. For example, you can use this code: 
 
@@ -64,4 +65,4 @@ Public Sub ActivePage_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

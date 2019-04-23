@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AmorDegrc Method (Excel)
+title: WorksheetFunction.AmorDegrc method (Excel)
 keywords: vbaxl10.chm137342
 f1_keywords:
 - vbaxl10.chm137342
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.AmorDegrc
 ms.assetid: 1abf060a-e68f-1155-28c3-3d257fd4fbcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.AmorDegrc Method (Excel)
+# WorksheetFunction.AmorDegrc method (Excel)
 
 Returns the depreciation for each accounting period. This function is provided for the French accounting system.
 
 
 ## Syntax
 
- _expression_. `AmorDegrc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
+_expression_. `AmorDegrc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -81,3 +82,4 @@ The following table describes the values used in  _Arg7_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

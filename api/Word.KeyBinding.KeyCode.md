@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.KeyCode Property (Word)
+title: KeyBinding.KeyCode property (Word)
 keywords: vbawd10.chm160956422
 f1_keywords:
 - vbawd10.chm160956422
@@ -8,17 +8,18 @@ api_name:
 - Word.KeyBinding.KeyCode
 ms.assetid: 8ca07f1e-b60b-bc10-b1fe-cb0d7b890d33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBinding.KeyCode Property (Word)
+# KeyBinding.KeyCode property (Word)
 
-Returns a unique number for the first key in the specified key binding. Read-only  **Long** .
+Returns a unique number for the first key in the specified key binding. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `KeyCode`
+_expression_. `KeyCode`
 
  _expression_ An expression that returns a '[KeyBinding](Word.KeyBinding.md)' object.
 
@@ -52,3 +53,4 @@ Next kbLoop
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

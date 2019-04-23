@@ -1,34 +1,28 @@
 ---
-title: LargeChange, SmallChange Properties Example
+title: LargeChange, SmallChange properties example
 keywords: fm20.chm5225136
 f1_keywords:
 - fm20.chm5225136
 ms.prod: office
 ms.assetid: f108dfbc-bf8e-b019-3082-07401e188fbe
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# LargeChange, SmallChange Properties Example
+# LargeChange, SmallChange properties example
 
-The following example demonstrates the  **LargeChange** and **SmallChange** properties when used with a stand-alone **ScrollBar**. The user can set the **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. This example also uses the **MaxLength** property to restrict the number of characters entered for the **LargeChange** and **SmallChange** values.
+The following example demonstrates the **[LargeChange](largechange-property.md)** and **[SmallChange](smallchange-property.md)** properties when used with a stand-alone **[ScrollBar](scrollbar-control.md)**. The user can set the **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. 
+
+This example also uses the **[MaxLength](maxlength-property.md)** property to restrict the number of characters entered for the **LargeChange** and **SmallChange** values.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **Label** named Label1 and a **TextBox** named TextBox1.
+- A **[Label](label-control.md)** named Label1 and a **[TextBox](textbox-control.md)** named TextBox1.    
+- A **Label** named Label2 and a **TextBox** named TextBox2.    
+- A **ScrollBar** named ScrollBar1.    
+- A **Label** named Label3.
     
-- A  **Label** named Label2 and a **TextBox** named TextBox2.
-    
-- A  **ScrollBar** named ScrollBar1.
-    
-- A  **Label** named Label3.
-    
-
-
-
 
 ```vb
 Dim TempNum As Integer 
@@ -82,4 +76,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Curve.Start Property (Visio)
+title: Curve.Start property (Visio)
 keywords: vis_sdr.chm15514410
 f1_keywords:
 - vis_sdr.chm15514410
@@ -8,17 +8,18 @@ api_name:
 - Visio.Curve.Start
 ms.assetid: ac5e56e8-dad2-c150-02e4-f5d7dafd20ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Curve.Start Property (Visio)
+# Curve.Start property (Visio)
 
 Returns the start of a  **Curve** object's parameter domain. Read-only.
 
 
 ## Syntax
 
- _expression_. `Start`
+_expression_. `Start`
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
@@ -89,4 +90,4 @@ Sub Start_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

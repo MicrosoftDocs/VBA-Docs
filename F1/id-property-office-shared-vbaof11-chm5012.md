@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7b91ee9a-1ba3-4d1c-8d1d-67ff3d4fdaff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarControl.Id Property (Office)](http://msdn.microsoft.com/library/0931a07a-4a6b-cc84-a43b-b57ea9a22b78%28Office.15%29.aspx)
 [CommandBarComboBox.Id Property (Office)](http://msdn.microsoft.com/library/9cc143cb-4063-b397-05c9-d50a7c2efcb0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

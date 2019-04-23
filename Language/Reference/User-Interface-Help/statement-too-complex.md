@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 27400fc8-d50a-d2c6-406e-7d33b10a133c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Visual Basic is unable to analyze this statement. This error has the following c
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

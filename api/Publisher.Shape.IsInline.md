@@ -1,5 +1,5 @@
 ---
-title: Shape.IsInline Property (Publisher)
+title: Shape.IsInline property (Publisher)
 keywords: vbapb10.chm5308692
 f1_keywords:
 - vbapb10.chm5308692
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.IsInline
 ms.assetid: 5c5c6181-070f-2a66-8d70-2d6372cb365e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IsInline Property (Publisher)
+# Shape.IsInline property (Publisher)
 
 Returns an  **MsoTriState** constant that specifies whether a shape is inline (contained in a text run). Read-only.
 
 
 ## Syntax
 
- _expression_. **IsInline**
+_expression_.**IsInline**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -46,4 +47,4 @@ If Not theShape.IsInline = True Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Add Method (Outlook)
+title: OutlookBarGroups.Add method (Outlook)
 keywords: vbaol11.chm352
 f1_keywords:
 - vbaol11.chm352
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarGroups.Add
 ms.assetid: cf3e449f-82c2-463b-1b30-c7a0729d9208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Add Method (Outlook)
+# OutlookBarGroups.Add method (Outlook)
 
 Adds a new, empty group to the  **Shortcuts** pane.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Index_` )
+_expression_.**Add**( `_Name_` , `_Index_` )
 
- _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ End Sub
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

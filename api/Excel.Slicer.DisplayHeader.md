@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.DisplayHeader
 ms.assetid: e94dcb16-367c-24fe-359d-786900650f97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets whether the header that displays the slicer  **[Caption](Excel.S
 
 ## Syntax
 
- _expression_. `DisplayHeader`
+_expression_. `DisplayHeader`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Boolean
 
 ## Remarks
 
- **True** if the header is visible; otherwise **False** . The default value is **True** .
+ **True** if the header is visible; otherwise **False**. The default value is **True**.
 
 
 ## See also
@@ -38,3 +39,4 @@ Boolean
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

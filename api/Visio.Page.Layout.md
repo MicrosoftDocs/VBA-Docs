@@ -1,5 +1,5 @@
 ---
-title: Page.Layout Method (Visio)
+title: Page.Layout method (Visio)
 keywords: vis_sdr.chm10916385
 f1_keywords:
 - vis_sdr.chm10916385
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Layout
 ms.assetid: 3611d496-ecb9-674e-b435-8462d55f7256
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Layout Method (Visio)
+# Page.Layout method (Visio)
 
 Lays out the shapes and/or reroutes the connectors for the page, master, group, or selection.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_.**Layout**
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -36,4 +37,4 @@ Behavior of the  **Layout** method can be influenced by setting the formulas or 
 
 To lay out a subset of the shapes of a page, master, or group, establish a  **Selection** object in which the shapes to be laid out are selected, and then call the **Layout** method. If the **Layout** method is performed on a **Selection** object and the object has no shapes selected, all shapes in the page, master, or group of the selection are laid out.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

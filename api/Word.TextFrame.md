@@ -1,5 +1,5 @@
 ---
-title: TextFrame Object (Word)
+title: TextFrame object (Word)
 keywords: vbawd10.chm2482
 f1_keywords:
 - vbawd10.chm2482
@@ -8,10 +8,11 @@ api_name:
 - Word.TextFrame
 ms.assetid: 46f7e410-80d9-9fe9-2224-488b623f8592
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame Object (Word)
+# TextFrame object (Word)
 
 Represents the text frame in a  **Shape** object. The **TextFrame** object contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 
@@ -72,7 +73,7 @@ myStory.CheckSpelling
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BreakForwardLink](Word.TextFrame.BreakForwardLink.md)|
 |[DeleteText](Word.TextFrame.DeleteText.md)|
@@ -82,7 +83,7 @@ myStory.CheckSpelling
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.TextFrame.Application.md)|
 |[AutoSize](Word.TextFrame.AutoSize.md)|
@@ -111,4 +112,6 @@ myStory.CheckSpelling
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

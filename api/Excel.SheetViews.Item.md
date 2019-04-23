@@ -8,6 +8,7 @@ api_name:
 - Excel.SheetViews.Item
 ms.assetid: 5a2c1646-8786-74d0-a421-93a3c59dc257
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **SheetView** object that represents views in a workbook. Read-only.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [SheetViews](./Excel.SheetViews.md) object.
+_expression_ A variable that represents a [SheetViews](Excel.SheetViews.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a  **SheetView** object that represents views in a workbook. Read-only.
 
 [SheetViews Object](Excel.SheetViews.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

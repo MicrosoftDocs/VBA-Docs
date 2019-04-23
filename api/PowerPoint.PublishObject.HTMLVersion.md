@@ -1,5 +1,5 @@
 ---
-title: PublishObject.HTMLVersion Property (PowerPoint)
+title: PublishObject.HTMLVersion property (PowerPoint)
 keywords: vbapp10.chm635003
 f1_keywords:
 - vbapp10.chm635003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PublishObject.HTMLVersion
 ms.assetid: 39d6328d-f361-d2ae-34fd-03543c9883a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObject.HTMLVersion Property (PowerPoint)
+# PublishObject.HTMLVersion property (PowerPoint)
 
 Returns or sets the version of HTML for a published presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `HTMLVersion`
+_expression_. `HTMLVersion`
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
@@ -69,3 +70,4 @@ End With
 
 [PublishObject Object](PowerPoint.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

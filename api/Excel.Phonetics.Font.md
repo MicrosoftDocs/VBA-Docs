@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetics.Font
 ms.assetid: 144089d2-5887-dd52-f0ba-e223e5a94370
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
- _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
+_expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 [Phonetics Object](Excel.Phonetics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

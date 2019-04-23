@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleLastColumn Property (Word)
+title: Table.ApplyStyleLastColumn property (Word)
 keywords: vbawd10.chm156303565
 f1_keywords:
 - vbawd10.chm156303565
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.ApplyStyleLastColumn
 ms.assetid: db47720e-0351-c48d-6ebe-a149f2b8c84f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.ApplyStyleLastColumn Property (Word)
+# Table.ApplyStyleLastColumn property (Word)
 
- **True** for Microsoft Word to apply last-column formatting to the last column of the specified table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply last-column formatting to the last column of the specified table. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyStyleLastColumn`
+_expression_. `ApplyStyleLastColumn`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
@@ -51,3 +52,4 @@ End Sub
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

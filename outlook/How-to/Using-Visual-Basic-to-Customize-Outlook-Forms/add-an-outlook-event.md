@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f2d36980-8688-00f6-2070-5ff9e1c8aeaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,5 +22,5 @@ You can use VBScript to add an event that happens to an item displayed in a cust
 2. On the  **Script** menu, click **Event Handler**.
     
 3. In the  **Insert Events Handler** box, click the event that you want to use, and then click **Add**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

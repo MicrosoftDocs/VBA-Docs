@@ -1,5 +1,5 @@
 ---
-title: TextRange.Paste Method (Publisher)
+title: TextRange.Paste method (Publisher)
 keywords: vbapb10.chm5308482
 f1_keywords:
 - vbapb10.chm5308482
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Paste
 ms.assetid: dd29c9ab-7f56-3604-3390-8f5a3b97821f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Paste Method (Publisher)
+# TextRange.Paste method (Publisher)
 
 Pastes the text on the Clipboard into the specified text range, and returns a  **[TextRange](Publisher.TextRange.md)** object that represents the pasted text.
 
 
 ## Syntax
 
- _expression_. **Paste**
+_expression_.**Paste**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -42,4 +43,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

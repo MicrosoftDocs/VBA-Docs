@@ -1,21 +1,22 @@
 ---
-title: Month.Working Property (Project)
+title: Month.Working property (Project)
 ms.prod: project-server
 api_name:
 - Project.Month.Working
 ms.assetid: 6fa33218-2cf0-dbe4-af31-514c7c83a047
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Month.Working Property (Project)
+# Month.Working property (Project)
 
  **True** if any day in the month is a working day. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Working`
+_expression_. `Working`
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 
@@ -48,4 +49,4 @@ Sub GiveStudentsSummerOff()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

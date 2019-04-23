@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Parent Property (Publisher)
+title: GroupShapes.Parent property (Publisher)
 keywords: vbapb10.chm3342338
 f1_keywords:
 - vbapb10.chm3342338
@@ -8,17 +8,18 @@ api_name:
 - Publisher.GroupShapes.Parent
 ms.assetid: 94325930-eb70-f10e-8875-067d26963bcb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Parent Property (Publisher)
+# GroupShapes.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **GroupShapes** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

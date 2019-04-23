@@ -1,5 +1,5 @@
 ---
-title: Shape.InlineTextRange Property (Publisher)
+title: Shape.InlineTextRange property (Publisher)
 keywords: vbapb10.chm5308693
 f1_keywords:
 - vbapb10.chm5308693
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.InlineTextRange
 ms.assetid: 40b0ea73-499d-a930-da09-2f20066b7129
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.InlineTextRange Property (Publisher)
+# Shape.InlineTextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that reflects the position of the inline shape in its containing text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **InlineTextRange**
+_expression_.**InlineTextRange**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -54,4 +55,4 @@ If Not theShape.IsInline = True Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

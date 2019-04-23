@@ -3,6 +3,7 @@ title: Invalid Deleted setting in the Xbase key of the Windows Registry. (Error 
 ms.prod: access
 ms.assetid: f28f55fc-2332-d008-8d8f-013175c22f5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,3 +37,5 @@ There is an invalid  **Deleted** setting in the **Xbase** key of the Microsoft W
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

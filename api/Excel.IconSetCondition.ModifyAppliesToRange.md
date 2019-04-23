@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.ModifyAppliesToRange Method (Excel)
+title: IconSetCondition.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm812077
 f1_keywords:
 - vbaxl10.chm812077
@@ -8,19 +8,20 @@ api_name:
 - Excel.IconSetCondition.ModifyAppliesToRange
 ms.assetid: 89f13781-2641-4cba-061b-cc82b479b6df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconSetCondition.ModifyAppliesToRange Method (Excel)
+# IconSetCondition.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 
 
 ## Syntax
 
- _expression_. `ModifyAppliesToRange`( `_Range_` )
+_expression_.**ModifyAppliesToRange** (_Range_)
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ You can also use a local defined name in any part of the range, but the name mus
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Application.JobCompleted Event (Project)
+title: Application.JobCompleted event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.JobCompleted
 ms.assetid: 44f7987c-92e0-a302-a775-7e62dab2ef86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.JobCompleted Event (Project)
+# Application.JobCompleted event (Project)
 
 Occurs when a queued job originating from Project Professional is completed.
 
 
 ## Syntax
 
- _expression_. `JobCompleted`( ` _bstrName_`, ` _bstrprojGuid_`, ` _bstrjobGuid_`, ` _jobType_`, ` _lResult_` )
+_expression_. `JobCompleted`( `_bstrName_`, `_bstrprojGuid_`, `_bstrjobGuid_`, `_jobType_`, `_lResult_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Occurs when a queued job originating from Project Professional is completed.
 
 nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

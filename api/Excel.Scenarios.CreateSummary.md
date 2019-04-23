@@ -1,5 +1,5 @@
 ---
-title: Scenarios.CreateSummary Method (Excel)
+title: Scenarios.CreateSummary method (Excel)
 keywords: vbaxl10.chm362075
 f1_keywords:
 - vbaxl10.chm362075
@@ -8,19 +8,20 @@ api_name:
 - Excel.Scenarios.CreateSummary
 ms.assetid: b223ad02-cd11-7adc-2144-5c6dd1683427
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Scenarios.CreateSummary Method (Excel)
+# Scenarios.CreateSummary method (Excel)
 
-Creates a new worksheet that contains a summary report for the scenarios on the specified worksheet.  **Variant** .
+Creates a new worksheet that contains a summary report for the scenarios on the specified worksheet.  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CreateSummary`( `_ReportType_` , `_ResultCells_` )
+_expression_. `CreateSummary`( `_ReportType_` , `_ResultCells_` )
 
- _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
+_expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Worksheets("Sheet1").Scenarios.CreateSummary _
 
 [Scenarios Object](Excel.Scenarios.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

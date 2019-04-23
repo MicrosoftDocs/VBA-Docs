@@ -7,33 +7,33 @@ ms.prod: access
 api_name:
 - Access.Form.Dirty
 ms.assetid: 5806283f-7947-9e13-d6c3-49d519a8b521
-ms.date: 06/08/2017
+ms.date: 03/12/2019
+localization_priority: Normal
 ---
 
 
 # Form.Dirty property (Access)
 
-You can use the  **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
+You can use the **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `Dirty`
+_expression_.**Dirty**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
 For example, you may want to ask the user whether changes to a record were intended and, if not, allow the user to move to the next record without saving the changes. 
 
-When a record is saved, Microsoft Access sets the  **Dirty** property to **False**. When a user makes changes to a record, the property is set to **True**.
+When a record is saved, Microsoft Access sets the **Dirty** property to **False**. When a user makes changes to a record, the property is set to **True**.
 
 
 ## Example
 
-The following example enables the  `btnUndo` button when data is changed. The UndoEdits( ) subroutine is called from the AfterUpdate event of text box controls. Clicking the enabled `btnUndo` button restores the original value of the control by using the **OldValue** property.
-
+The following example enables the **btnUndo** button when data is changed. The **UndoEdits( )** subroutine is called from the **AfterUpdate** event of the text box controls. Choosing the enabled **btnUndo** button restores the original value of the control by using the **OldValue** property.
 
 ```vb
 Sub UndoEdits() 
@@ -57,8 +57,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Illegal Operation performed on a SQL Server Replica. (Error 3777)
 ms.prod: access
 ms.assetid: 0e05807d-9514-b45d-abb9-63b1bb42e79b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ Many operations cannot be executed from Microsoft SQL replicas. For example, you
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

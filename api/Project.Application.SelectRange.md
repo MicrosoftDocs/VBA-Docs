@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRange Method (Project)
+title: Application.SelectRange method (Project)
 keywords: vbapj.chm2062
 f1_keywords:
 - vbapj.chm2062
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectRange
 ms.assetid: 16b5925e-393b-3d4f-70d4-89213f521485
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectRange Method (Project)
+# Application.SelectRange method (Project)
 
 Selects one or more cells.
 
 
 ## Syntax
 
- _expression_. `SelectRange`( ` _Row_`, ` _Column_`, ` _RowRelative_`, ` _Width_`, ` _Height_`, ` _Extend_`, ` _Add_` )
+_expression_. `SelectRange`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -56,4 +57,4 @@ Sub Select_Range()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

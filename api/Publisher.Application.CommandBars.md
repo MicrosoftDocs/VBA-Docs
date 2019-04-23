@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Publisher)
+title: Application.CommandBars property (Publisher)
 keywords: vbapb10.chm131088
 f1_keywords:
 - vbapb10.chm131088
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.CommandBars
 ms.assetid: 21537c04-d406-6016-4f35-2f6ce6851db2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CommandBars Property (Publisher)
+# Application.CommandBars property (Publisher)
 
 Sets or returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **CommandBars**
+_expression_.**CommandBars**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -67,3 +68,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

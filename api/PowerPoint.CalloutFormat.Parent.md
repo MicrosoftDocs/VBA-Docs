@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Parent Property (PowerPoint)
+title: CalloutFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm559001
 f1_keywords:
 - vbapp10.chm559001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CalloutFormat.Parent
 ms.assetid: 8739b1d2-eab0-373f-7bf4-7262eae4b758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Parent Property (PowerPoint)
+# CalloutFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ErfC Method (Excel)
+title: WorksheetFunction.ErfC method (Excel)
 keywords: vbaxl10.chm137301
 f1_keywords:
 - vbaxl10.chm137301
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.ErfC
 ms.assetid: 7579d8fb-7cad-bb5a-7fb9-0895ef096858
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ErfC Method (Excel)
+# WorksheetFunction.ErfC method (Excel)
 
 Returns the complementary ERF function integrated between the specified parameter and infinity.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [ErfC_Precise](Excel.Worksh
 
 ## Syntax
 
- _expression_. `ErfC`( `_Arg1_` , `_Arg2_` )
+_expression_. `ErfC`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ The following example displays the complementary ERF function of 1 (0.1573).
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

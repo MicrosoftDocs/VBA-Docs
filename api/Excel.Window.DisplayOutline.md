@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.DisplayOutline
 ms.assetid: 3934e907-1792-6ff3-6529-dd1dd45ce221
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.DisplayOutline property (Excel)
 
- **True** if outline symbols are displayed. Read/write **Boolean** .
+ **True** if outline symbols are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayOutline`
+_expression_. `DisplayOutline`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ActiveWindow.DisplayOutline = True
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

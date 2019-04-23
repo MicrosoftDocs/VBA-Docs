@@ -1,5 +1,5 @@
 ---
-title: Conflict.Type Property (Outlook)
+title: Conflict.Type property (Outlook)
 keywords: vbaol11.chm417
 f1_keywords:
 - vbaol11.chm417
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conflict.Type
 ms.assetid: 6e15fae9-befc-013d-9e95-05c5dc928e09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conflict.Type Property (Outlook)
+# Conflict.Type property (Outlook)
 
 Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the type of item represented by the **[Conflict](Outlook.Conflict.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
+_expression_ A variable that represents a [Conflict](Outlook.Conflict.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 [Conflict Object](Outlook.Conflict.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

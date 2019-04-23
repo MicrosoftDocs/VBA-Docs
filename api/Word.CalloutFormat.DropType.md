@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (Word)
+title: CalloutFormat.DropType property (Word)
 keywords: vbawd10.chm163905642
 f1_keywords:
 - vbawd10.chm163905642
@@ -8,24 +8,25 @@ api_name:
 - Word.CalloutFormat.DropType
 ms.assetid: cf26ef87-7c56-5859-75fc-dfee7bd0efd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.DropType Property (Word)
+# CalloutFormat.DropType property (Word)
 
-Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **MsoCalloutDropType** .
+Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **MsoCalloutDropType**.
 
 
 ## Syntax
 
- _expression_. `DropType`
+_expression_.**DropType**
 
- _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Remarks
 
-If the callout drop type is  **msoCalloutDropCustom** , the values of the **Drop** and **AutoAttach** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
+If the callout drop type is  **msoCalloutDropCustom**, the values of the **Drop** and **AutoAttach** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
 
 This property is read-only. Use the  **PresetDrop** method to set the value of this property.
 
@@ -61,3 +62,4 @@ End With
 
 [CalloutFormat Object](Word.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

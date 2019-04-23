@@ -8,19 +8,20 @@ api_name:
 - Excel.Pane.Creator
 ms.assetid: 600f4ae4-8fb6-c81e-c29c-654f72235bc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Pane.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

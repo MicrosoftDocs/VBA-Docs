@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Show Method (Office)
+title: WorkflowTask.Show method (Office)
 keywords: vbaof11.chm280010
 f1_keywords:
 - vbaof11.chm280010
@@ -7,20 +7,21 @@ ms.prod: office
 api_name:
 - Office.WorkflowTask.Show
 ms.assetid: a7256356-c935-e9ce-e510-6798ebd5563f
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# WorkflowTask.Show Method (Office)
+# WorkflowTask.Show method (Office)
 
-Displays a workflow task edit user interface for the specified  **WorkflowTask** object.
+Displays a workflow task edit user interface for the specified **WorkflowTask** object.
 
 
 ## Syntax
 
- _expression_. `Show`
+_expression_.**Show**
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+_expression_ An expression that returns a **[WorkflowTask](Office.WorkflowTask.md)** object.
 
 
 ## Return value
@@ -55,10 +56,7 @@ End Sub
 
 ## See also
 
-
-[WorkflowTask Object](Office.WorkflowTask.md)
-
+- [WorkflowTask object members](overview/Library-Reference/workflowtask-members-office.md)
 
 
-[WorkflowTask Object Members](./overview/Library-Reference/workflowtask-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

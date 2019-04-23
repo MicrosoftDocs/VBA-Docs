@@ -1,5 +1,5 @@
 ---
-title: Application.UserAddress Property (Word)
+title: Application.UserAddress property (Word)
 keywords: vbawd10.chm158335030
 f1_keywords:
 - vbawd10.chm158335030
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.UserAddress
 ms.assetid: 34f9bf48-8af4-4017-a648-13ab7612ca4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UserAddress Property (Word)
+# Application.UserAddress property (Word)
 
-Returns or sets the user's mailing address. Read/write  **String** .
+Returns or sets the user's mailing address. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `UserAddress`
+_expression_. `UserAddress`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -53,3 +54,4 @@ Msgbox Application.UserAddress
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

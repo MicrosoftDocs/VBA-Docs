@@ -3,6 +3,7 @@ title: Working with Other Applications
 ms.prod: excel
 ms.assetid: f6b24b5e-ed70-4798-be72-de312e699053
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,5 +23,5 @@ ms.date: 06/08/2017
 -  [Import Outlook Contacts to a Worksheet](../Working-with-Other-Applications/import-outlook-contacts-to-a-worksheet.md)
     
 -  [Sending Email to a List of Recipients Using Excel and Outlook](../Working-with-Other-Applications/sending-email-to-a-list-of-recipients-using-excel-and-outlook.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

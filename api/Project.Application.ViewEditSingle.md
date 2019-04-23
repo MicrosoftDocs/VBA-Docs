@@ -1,5 +1,5 @@
 ---
-title: Application.ViewEditSingle Method (Project)
+title: Application.ViewEditSingle method (Project)
 keywords: vbapj.chm303
 f1_keywords:
 - vbapj.chm303
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewEditSingle
 ms.assetid: 445977e9-e540-14b3-a179-ea132491265e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewEditSingle Method (Project)
+# Application.ViewEditSingle method (Project)
 
 Creates, edits, or copies a single-pane view.
 
 
 ## Syntax
 
- _expression_. `ViewEditSingle`( ` _Name_`, ` _Create_`, ` _NewName_`, ` _Screen_`, ` _ShowInMenu_`, ` _HighlightFilter_`, ` _Table_`, ` _Filter_`, ` _Group_` )
+_expression_. `ViewEditSingle`( `_Name_`, `_Create_`, `_NewName_`, `_Screen_`, `_ShowInMenu_`, `_HighlightFilter_`, `_Table_`, `_Filter_`, `_Group_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -57,4 +58,4 @@ Sub DisplayMyTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

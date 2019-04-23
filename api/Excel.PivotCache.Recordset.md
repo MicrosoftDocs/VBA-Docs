@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.Recordset
 ms.assetid: 25f2eb4f-d78c-21e2-9d26-c8ebc3404607
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Recordset** object that's used as the data source for the s
 
 ## Syntax
 
- _expression_. `Recordset`
+_expression_. `Recordset`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -98,3 +99,4 @@ Set cnnConn = Nothing
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

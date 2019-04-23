@@ -1,14 +1,15 @@
 ---
-title: xlConstants Enumeration (Word)
+title: XlConstants enumeration (Word)
 ms.prod: word
 api_name:
 - Word.XlConstants
 ms.assetid: 90d5b59c-8fa6-171c-4f77-01536bc9a1d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlConstants Enumeration (Word)
+# XlConstants enumeration (Word)
 
 Specifies a miscellaneous constant in Microsoft Word.
 
@@ -80,3 +81,4 @@ Specifies a miscellaneous constant in Microsoft Word.
 | **xlTransparent**|2|Transparent fill.|
 | **xlTriangle**|3|Triangle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

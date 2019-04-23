@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3ae41cd2-2b3b-4177-9bba-cd2ed99f9cba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.BeforeSave Event (Project)](http://msdn.microsoft.com/library/6947661e-f77c-b766-b926-fd37818019b7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

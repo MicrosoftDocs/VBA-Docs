@@ -5,6 +5,7 @@ api_name:
 - Visio.PageName
 ms.assetid: 7a23a8da-7763-91fc-777d-fca61e268fe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the name of the specified page in the drawing that is open in Microsoft Vis
 
 ## Syntax
 
- _expression_. **PageName**(**_PageIndex_**)
+_expression_.**PageName**(**_PageIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -49,4 +50,4 @@ The following code gets the name of the page at index position 1 in the collecti
 Debug.Print vsoViewer.PageName(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

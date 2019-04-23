@@ -8,6 +8,7 @@ api_name:
 - Excel.Hyperlink.Shape
 ms.assetid: c6d0978f-1a6f-cd37-9401-af6d57228ce5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,7 +19,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
  _expression_ An expression that returns a [Hyperlink](Excel.Hyperlink.md) object.
 
@@ -28,3 +29,4 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

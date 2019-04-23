@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5cc3b701-d34e-4cf7-8bf7-e8332c3beca1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Assignment.Baseline10Start Property (Project)](http://msdn.microsoft.com/library/7ecc2bc8-607a-5d9f-8bdd-a2b7b34c985d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

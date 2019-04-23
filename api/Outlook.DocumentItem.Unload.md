@@ -1,23 +1,24 @@
 ---
-title: DocumentItem.Unload Event (Outlook)
+title: DocumentItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Unload
 ms.assetid: e634c3f3-e637-f18c-0f7e-2e5cb18566a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentItem.Unload Event (Outlook)
+# DocumentItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

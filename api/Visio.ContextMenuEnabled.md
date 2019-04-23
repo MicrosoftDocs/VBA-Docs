@@ -5,6 +5,7 @@ api_name:
 - Visio.ContextMenuEnabled
 ms.assetid: 0617d59d-59ed-4012-7dc5-d0aa8be8d110
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the shortcut (right-click) menu is e
 
 ## Syntax
 
- _expression_. **ContextMenuEnabled**
+_expression_.**ContextMenuEnabled**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -41,4 +42,4 @@ The following code disables the shortcut menu in Visio Viewer.
 vsoViewer.ContextMenuEnabled = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

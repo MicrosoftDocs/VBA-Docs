@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.AddFromXML Method (Visio)
+title: DataRecordsets.AddFromXML method (Visio)
 keywords: vis_sdr.chm16360270
 f1_keywords:
 - vis_sdr.chm16360270
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsets.AddFromXML
 ms.assetid: b75d7ecc-98d2-ae9b-608f-a9ec2b736ea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets.AddFromXML Method (Visio)
+# DataRecordsets.AddFromXML method (Visio)
 
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection, and fills the resulting data recordset with data supplied in the form of an XML string.
 
@@ -21,7 +22,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 ## Syntax
 
- _expression_. `AddFromXML`( `_XMLString_` , `_AddOptions_` , `_Name_` )
+_expression_. `AddFromXML`( `_XMLString_` , `_AddOptions_` , `_Name_` )
 
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
@@ -33,7 +34,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XMLString_|Required| **String**|An XML string that conforms to the Microsoft ActiveX? Data Objects (ADO) classic XML schema and that describes the data you want to import.|
-| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)** . For more information, see Remarks.|
+| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)**. For more information, see Remarks.|
 | _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
 
 ## Return value
@@ -49,7 +50,7 @@ The AddOptions parameter can be a combination of one or more of the following va
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the  **External Data** window.|
 | **visDataRecordsetNoAdvConfig**|4|Prevents the data recordset from being displayed in the  **Configure Refresh** dialog box.|
@@ -70,7 +71,7 @@ If the  **AddFromXML** method succeeds, it performs the following actions:
     
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. 
     
--  Assigns a Visio data-row ID to each row in the data recordset, unless the imported data already contains valid Visio data-row IDs. For more information about Visio data-row IDs, see the **[DataRecordset.GetDataRowIDs ](Visio.DataRecordset.GetDataRowIDs.md)** topic.
+-  Assigns a Visio data-row ID to each row in the data recordset, unless the imported data already contains valid Visio data-row IDs. For more information about Visio data-row IDs, see the **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** topic.
     
 
 ## Example
@@ -141,4 +142,4 @@ Public Sub AddFromXML_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

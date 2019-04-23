@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertFile Method (Word)
+title: Selection.InsertFile method (Word)
 keywords: vbawd10.chm158662779
 f1_keywords:
 - vbawd10.chm158662779
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertFile
 ms.assetid: 963a5987-e6f8-824a-47d6-9788f026cf10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertFile Method (Word)
+# Selection.InsertFile method (Word)
 
 Inserts all or part of the specified file.
 
 
 ## Syntax
 
- _expression_. `InsertFile`( `_FileName_` , `_Range_` , `_ConfirmConversions_` , `_Link_` , `_Attachment_` )
+_expression_. `InsertFile`( `_FileName_` , `_Range_` , `_ConfirmConversions_` , `_Link_` , `_Attachment_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Inserts all or part of the specified file.
 | _Range_|Optional| **Variant**|If the specified file is a Word document, this parameter refers to a bookmark. If the file is another type (for example, a Microsoft Excel worksheet), this parameter refers to a named range or a cell range (for example, R1C1:R3C4).|
 | _ConfirmConversions_|Optional| **Variant**| **True** to have Word prompt you to confirm conversion when inserting files in formats other than the Word Document format.|
 | _Link_|Optional| **Variant**| **True** to insert the file by using an INCLUDETEXT field.|
-| _Attachment_|Optional| **Variant**| **True** to insert the file as an attachment to an e-mail message.|
+| _Attachment_|Optional| **Variant**| **True** to insert the file as an attachment to an email message.|
 
 ## Example
 
@@ -71,3 +72,4 @@ Wend
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

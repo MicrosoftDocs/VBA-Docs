@@ -1,5 +1,5 @@
 ---
-title: Email.Creator Property (Word)
+title: Email.Creator property (Word)
 keywords: vbawd10.chm165478501
 f1_keywords:
 - vbawd10.chm165478501
@@ -8,19 +8,20 @@ api_name:
 - Word.Email.Creator
 ms.assetid: be3a596e-3067-49ad-f303-e87cbec5ad96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Email.Creator Property (Word)
+# Email.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents an '[Email](Word.Email.md)' object.
+_expression_ Required. A variable that represents an '[Email](Word.Email.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Email Object](Word.Email.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

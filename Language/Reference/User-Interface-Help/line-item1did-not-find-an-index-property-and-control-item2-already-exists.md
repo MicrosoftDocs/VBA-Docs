@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: dc9d383c-0a96-16a2-ae7a-732a53b470fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The [control](../../Glossary/vbe-glossary.md#control) can't be loaded because there is no index, and it has the same name as a previously loaded control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

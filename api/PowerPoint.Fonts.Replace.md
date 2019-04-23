@@ -1,5 +1,5 @@
 ---
-title: Fonts.Replace Method (PowerPoint)
+title: Fonts.Replace method (PowerPoint)
 keywords: vbapp10.chm528004
 f1_keywords:
 - vbapp10.chm528004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Fonts.Replace
 ms.assetid: 666bcfad-b87e-b63b-70c1-ca0873cf9f94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fonts.Replace Method (PowerPoint)
+# Fonts.Replace method (PowerPoint)
 
 Replaces a font in the  **Fonts** collection.
 
 
 ## Syntax
 
- _expression_. `Replace`( `_Original_`, `_Replacement_` )
+_expression_. `Replace`( `_Original_`, `_Replacement_` )
 
  _expression_ A variable that represents a [Fonts](./PowerPoint.Fonts.md) object.
 
@@ -48,3 +49,4 @@ Application.ActivePresentation.Fonts _
 
 [Fonts Object](PowerPoint.Fonts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

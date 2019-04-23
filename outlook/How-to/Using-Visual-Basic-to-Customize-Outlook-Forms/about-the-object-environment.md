@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 03aa62d6-23be-8a2e-73e2-b1ff6307545d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,7 +30,7 @@ The following table shows the major objects in the Outlook object model.
 | **[Application](../../../api/Outlook.Application.md)**|The top of the object hierarchy that represents the entire application. Enables you to reference other objects in the application and create items and objects. | This code creates an appointment in Outlook: `Application.CreateItem(1).Display`|
 | **[NameSpace](../../../api/Outlook.NameSpace.md)**|Represents the MAPI message store where all the Outlook items are stored. Provides methods for logging on and off Outlook and for referencing the default folders such as Mailbox, Inbox, Contacts, and others. | This code references the active user in Outlook: `Application.GetNameSpace("MAPI").CurrentUser`|
 | **[Account](../../../api/Outlook.Account.md)**|Represents an account defined for the current profile.| |
-| **[Store](../../../api/Outlook.Store.md)**|Represents a file on the local computer or a network drive that stores e-mail messages and other items for an account in the current profile. | |
+| **[Store](../../../api/Outlook.Store.md)**|Represents a file on the local computer or a network drive that stores email messages and other items for an account in the current profile. | |
 | **[Folders](../../../api/Outlook.Folders.md)**| There are two folder objects, the  **Folders** collection object that enables you to work with collections of folders and the **[Folder](../../../api/Outlook.Folder.md)** object that enables you to work with a single folder. | This code shows the collection of folders named Personal Folders in Outlook: `Application.GetNameSpace("MAPI").Folders("Personal Folders")`|
 | **[Table](../../../api/Outlook.Table.md)**|Represents a set of item data from a **Folder** or **[Search](../../../api/Outlook.Search.md)** object, with items as rows of the table and properties as columns of the table.| |
 | **[Rule](../../../api/Outlook.Rule.md)**|Represents an Outlook rule.| |
@@ -51,3 +52,4 @@ The following table shows the major objects in the Outlook object model.
 | **[Exception](../../../api/Outlook.Exception.md)**|The  **Exception** object holds information about one instance of an **[AppointmentItem](../../../api/Outlook.AppointmentItem.md)** object which is an exception to a recurring series. Unlike most of the other Outlook objects, the **Exception** object is a read-only object.| |
 |Control|There are the Microsoft Forms 2.0 controls that exist in the control toolbox by default, and the Outlook controls that are installed on your computer by default and that you will add to the control toolbox before using them for the first time in a form.| |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

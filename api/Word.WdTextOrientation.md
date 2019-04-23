@@ -1,14 +1,15 @@
 ---
-title: WdTextOrientation Enumeration (Word)
+title: WdTextOrientation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextOrientation
 ms.assetid: 1f75a8de-283d-ecce-df3b-52a787f308bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTextOrientation Enumeration (Word)
+# WdTextOrientation enumeration (Word)
 
 Specifies the text direction in a range or selection.
 
@@ -23,3 +24,4 @@ Specifies the text direction in a range or selection.
 | **wdTextOrientationVerticalFarEast**|1|Text flows vertically and reads downward from the top, right to left.|
 | **wdTextOrientationVertical**|5|Text flows vertically and reads downward from the top, left to right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,19 +1,20 @@
 ---
-title: Chart.HasLegend Property (Project)
+title: Chart.HasLegend property (Project)
 ms.prod: project-server
 ms.assetid: 3e4ba5bd-eb29-bb28-7403-87222b47ae40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasLegend Property (Project)
+# Chart.HasLegend property (Project)
  **True** if the chart has a legend. Read/write **Boolean**.
 
 ## Syntax
 
- _expression_. `HasLegend`
+_expression_.**HasLegend**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Property value
@@ -25,3 +26,5 @@ ms.date: 06/08/2017
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

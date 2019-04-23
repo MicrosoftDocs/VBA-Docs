@@ -1,5 +1,5 @@
 ---
-title: Row.Creator Property (Word)
+title: Row.Creator property (Word)
 keywords: vbawd10.chm156238825
 f1_keywords:
 - vbawd10.chm156238825
@@ -8,19 +8,20 @@ api_name:
 - Word.Row.Creator
 ms.assetid: b4130552-8c3b-5ccd-3ebb-8a74b6a53d7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Creator Property (Word)
+# Row.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

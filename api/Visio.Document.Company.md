@@ -1,5 +1,5 @@
 ---
-title: Document.Company Property (Visio)
+title: Document.Company property (Visio)
 keywords: vis_sdr.chm10513285
 f1_keywords:
 - vis_sdr.chm10513285
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Company
 ms.assetid: b55e23dc-3b58-c062-1738-74d2f50fa39d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Company Property (Visio)
+# Document.Company property (Visio)
 
 Gets or sets the name of the company the document belongs to, one of the document's properties. Read/write.
 
 
 ## Syntax
 
- _expression_. `Company`
+_expression_. `Company`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -67,4 +68,4 @@ Public Sub Company_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextStyle.Name Property (Publisher)
+title: TextStyle.Name property (Publisher)
 keywords: vbapb10.chm5963782
 f1_keywords:
 - vbapb10.chm5963782
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyle.Name
 ms.assetid: 54e25e71-83d8-5074-fa0a-f956f075f482
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyle.Name Property (Publisher)
+# TextStyle.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **TextStyle** object.
 
@@ -29,4 +30,4 @@ You can use an object's name in conjunction with the  **Item** method or **Item*
 
 The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

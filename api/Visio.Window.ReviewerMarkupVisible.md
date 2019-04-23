@@ -1,5 +1,5 @@
 ---
-title: Window.ReviewerMarkupVisible Property (Visio)
+title: Window.ReviewerMarkupVisible property (Visio)
 keywords: vis_sdr.chm11660011
 f1_keywords:
 - vis_sdr.chm11660011
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.ReviewerMarkupVisible
 ms.assetid: 7b13a89c-4835-93cc-aece-fcbad1a7ed22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.ReviewerMarkupVisible Property (Visio)
+# Window.ReviewerMarkupVisible property (Visio)
 
 Determines whether reviewer markup, for a particular reviewer or all reviewers, is visible in a Microsoft Visio window that displays a drawing page. Read/write.
 
 
 ## Syntax
 
- _expression_. `ReviewerMarkupVisible`( `_ReviewerID_` )
+_expression_. `ReviewerMarkupVisible`( `_ReviewerID_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -42,7 +43,7 @@ Use the  **ReviewerMarkupVisible** property to get and set the current status (v
 
 The  **ReviewerMarkupVisible** property is enabled only when the parent window displays a Visio drawing page, and not another type of Visio window, such as a stencil or ShapeSheet window, for example.
 
-When viewing markup is disabled in the user interface, setting the  **ReviewerMarkupVisible** property is also disabled. If you attempt to set **ReviewerMarkupVisible** when viewing markup is disabled, Visio will display an error message. To be able to set **ReviewerMarkupVisible** , you must enable viewing markup by clicking **Show Markup** on the **Review** tab. Alternatively, you can enable viewing markup on existing markup overlays by changing the value of the ViewMarkup cell in the Document Properties section of the document's ShapeSheet. Use the following code:
+When viewing markup is disabled in the user interface, setting the  **ReviewerMarkupVisible** property is also disabled. If you attempt to set **ReviewerMarkupVisible** when viewing markup is disabled, Visio will display an error message. To be able to set **ReviewerMarkupVisible**, you must enable viewing markup by clicking **Show Markup** on the **Review** tab. Alternatively, you can enable viewing markup on existing markup overlays by changing the value of the ViewMarkup cell in the Document Properties section of the document's ShapeSheet. Use the following code:
 
 
 
@@ -69,4 +70,4 @@ Public Sub ReviewerMarkupVisible_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

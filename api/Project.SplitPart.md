@@ -1,14 +1,15 @@
 ---
-title: SplitPart Object (Project)
+title: SplitPart object (Project)
 ms.prod: project-server
 api_name:
 - Project.SplitPart
 ms.assetid: 7eb80010-7b5a-3833-a5c5-b02d0c0bea5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SplitPart Object (Project)
+# SplitPart object (Project)
 
 Represents a task portion. The  **SplitPart** object is a member of the **[SplitParts](Project.splitparts.md)** collection.
  
@@ -79,7 +80,7 @@ ActiveCell.Task.Split "10/3/2012", "10/8/2012"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.SplitPart.Delete.md)|
 
@@ -87,7 +88,7 @@ ActiveCell.Task.Split "10/3/2012", "10/8/2012"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.SplitPart.Application.md)|
 |[Finish](Project.SplitPart.Finish.md)|
@@ -95,3 +96,4 @@ ActiveCell.Task.Split "10/3/2012", "10/8/2012"
 |[Parent](Project.SplitPart.Parent.md)|
 |[Start](Project.SplitPart.Start.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

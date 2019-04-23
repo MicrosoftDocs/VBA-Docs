@@ -1,5 +1,5 @@
 ---
-title: Line Object (Word)
+title: Line object (Word)
 keywords: vbawd10.chm757
 f1_keywords:
 - vbawd10.chm757
@@ -8,10 +8,11 @@ api_name:
 - Word.Line
 ms.assetid: 1fbc9a15-c677-0f79-4311-9e6de6fc1b27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Line Object (Word)
+# Line object (Word)
 
 Represents an individual line in a **Rectangle** object of type wdTextRectangle. Use the **Line** object and related methods and properties to programmatically define page layout in a document.
 
@@ -28,7 +29,7 @@ Set objLine = ActiveDocument.ActiveWindow _
  .Panes(1).Pages(1).Rectangles(1).Lines.Item(1)
 ```
 
-Use the  **LineType** property to determine whether the specified line is a text line (**wdTextLine**) or a table row (**wdTableRow**). Then use the **Range** property to access the contents and formatting for the line. The following example creates a reference to the table if the specified line type is **wdTableRow** .
+Use the  **LineType** property to determine whether the specified line is a text line (**wdTextLine**) or a table row (**wdTableRow**). Then use the **Range** property to access the contents and formatting for the line. The following example creates a reference to the table if the specified line type is **wdTableRow**.
 
 
 
@@ -49,5 +50,6 @@ If objLine.LineType = wdTableRow Then _
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

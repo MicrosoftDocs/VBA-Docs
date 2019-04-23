@@ -1,34 +1,26 @@
 ---
-title: Enter, Exit Events, ActiveControl Property Example
+title: Enter, Exit events, ActiveControl property example
 keywords: fm20.chm5225152
 f1_keywords:
 - fm20.chm5225152
 ms.prod: office
 ms.assetid: 8d3123e3-e5b1-cb8f-0f89-de308c3eecda
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Enter, Exit Events, ActiveControl Property Example
+# Enter, Exit events, ActiveControl property example
 
-The following example uses the  **ActiveControl** property in a subroutine that tracks the controls a user visits. The **Enter** event for each control calls the TraceFocus subroutine to identify the control that has the focus.
+The following example uses the **[ActiveControl](activecontrol-property.md)** property in a subroutine that tracks the controls a user visits. The **[Enter](enter-exit-events.md)** event for each control calls the TraceFocus subroutine to identify the control that has the focus.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
-
-
-
-- A  **ScrollBar** named ScrollBar1.
+- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.   
+- A **[ListBox](listbox-control.md)** named ListBox1.    
+- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.    
+- A **[Frame](frame-control.md)** named Frame1.
     
-- A  **ListBox** named ListBox1.
-    
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
-    
-- A  **Frame** named Frame1.
-    
-
-
-
 
 ```vb
 Dim MyControl As Control 
@@ -66,4 +58,4 @@ Private Sub ScrollBar1_Enter()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

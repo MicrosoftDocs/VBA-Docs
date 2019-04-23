@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 73942c44-c1a2-e75a-d5ee-c1d6e4fd98d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ This error has the following cause and solution:
 
 Exposed here means that the enum is exposed from the ActiveX server that is being defined, which is equivalent to saying that it is declared in a public class of an ActiveX Exe or Dll project.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

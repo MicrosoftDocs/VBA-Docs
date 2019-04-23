@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Received Method (Excel)
+title: WorksheetFunction.Received method (Excel)
 keywords: vbaxl10.chm137311
 f1_keywords:
 - vbaxl10.chm137311
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Received
 ms.assetid: 0c350327-2fdb-0294-4da0-298c5af9608e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Received Method (Excel)
+# WorksheetFunction.Received method (Excel)
 
 Returns the amount received at maturity for a fully invested security.
 
 
 ## Syntax
 
- _expression_. `Received`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `Received`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -79,3 +80,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

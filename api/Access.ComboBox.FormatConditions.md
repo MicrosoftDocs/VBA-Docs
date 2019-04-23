@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.ComboBox.FormatConditions
 ms.assetid: 0eeb11b4-453b-4a00-0a1f-92e3108ab2b9
-ms.date: 06/08/2017
+ms.date: 03/01/2019
+localization_priority: Normal
 ---
 
 
 # ComboBox.FormatConditions property (Access)
 
-You can use the  **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
+You can use the **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
 
 
 ## Syntax
 
-_expression_. `FormatConditions`
+_expression_.**FormatConditions**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Example
 
-The following example sets format properties for an existing conditional format for the "Textbox1" control.
-
+The following example sets format properties for an existing conditional format for the **Textbox1** control.
 
 ```vb
 With Forms("forms1").Controls("Textbox1").FormatConditions(1) 
@@ -37,8 +37,5 @@ End With
 ```
 
 
-## See also
 
-
-[ComboBox Object](Access.ComboBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

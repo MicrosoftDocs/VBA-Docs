@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: e38f7c66-2af8-8952-5d11-877d53b29d9e
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,12 +17,11 @@ Returns a [ModelFormatBoolean](Excel.modelformatboolean.md) object that represen
 
 ## Syntax
 
- _expression_. `ModelFormatBoolean`
+_expression_. `ModelFormatBoolean`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

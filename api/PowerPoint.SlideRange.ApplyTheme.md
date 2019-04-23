@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ApplyTheme Method (PowerPoint)
+title: SlideRange.ApplyTheme method (PowerPoint)
 keywords: vbapp10.chm532039
 f1_keywords:
 - vbapp10.chm532039
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.ApplyTheme
 ms.assetid: 779ca8d3-e235-7f65-1a2f-b5233517da1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.ApplyTheme Method (PowerPoint)
+# SlideRange.ApplyTheme method (PowerPoint)
 
 Applies a theme or design template to the specified range of slides.
 
 
 ## Syntax
 
- _expression_. `ApplyTheme`( `_themeName_` )
+_expression_. `ApplyTheme`( `_themeName_` )
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -55,3 +56,4 @@ ActivePresentation.Slides.Range(Array(1, 3)).ApplyTheme "C:\Program Files\Micros
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

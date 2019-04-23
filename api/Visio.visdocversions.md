@@ -1,21 +1,22 @@
 ---
-title: VisDocVersions Enumeration (Visio)
+title: VisDocVersions enumeration (Visio)
 keywords: vis_sdr.chm70150
 f1_keywords:
 - vis_sdr.chm70150
 ms.prod: visio
 ms.assetid: a5148553-30f9-8538-b40d-4259815a36a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDocVersions Enumeration (Visio)
+# VisDocVersions enumeration (Visio)
 
 Return values for the  **Document.Version** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visVersion100**|393216 (&H60000)|Visio version 2000 or 2002 document.|
 | **visVersion10**|65571 (&H10023)|Visio 1.0 document.|
@@ -30,3 +31,4 @@ Return values for the  **Document.Version** property.
 | **visVersion60**|393216 (&H60000)|Visio version 2000 or 2002 document.|
 | **visVersionUnsaved**|0|Visio version number of an unsaved document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

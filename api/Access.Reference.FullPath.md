@@ -7,31 +7,31 @@ ms.prod: access
 api_name:
 - Access.Reference.FullPath
 ms.assetid: 41e2b1b5-a0fd-79a0-27f2-71b996cc25ea
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Reference.FullPath property (Access)
 
-The  **FullPath** property returns a string containing the path and file name of the referenced type library.
+The **FullPath** property returns a string containing the path and file name of the referenced type library.
 
 
 ## Syntax
 
-_expression_. `FullPath`
+_expression_.**FullPath**
 
-_expression_ A variable that represents a [Reference](Access.Reference.md) object.
+_expression_ A variable that represents a **[Reference](Access.Reference.md)** object.
 
 
 ## Remarks
 
-If the  **[IsBroken](Access.Reference.IsBroken.md)** property setting of a **Reference** object is **True**, reading the **FullPath** property generates an error.
+If the **[IsBroken](Access.Reference.IsBroken.md)** property setting of a **Reference** object is **True**, reading the **FullPath** property generates an error.
 
 
 ## Example
 
-The following example prints the value of the  **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
-
+The following example prints the value of the **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **[References](Access.References.md)** collection.
 
 ```vb
 Sub ReferenceProperties() 
@@ -53,8 +53,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Reference Object](Access.Reference.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

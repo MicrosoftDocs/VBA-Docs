@@ -1,5 +1,5 @@
 ---
-title: Options.PrintBackground Property (Word)
+title: Options.PrintBackground property (Word)
 keywords: vbawd10.chm162988069
 f1_keywords:
 - vbawd10.chm162988069
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PrintBackground
 ms.assetid: 3e51bfb2-63b1-d072-2a63-f3a417ffdba5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PrintBackground Property (Word)
+# Options.PrintBackground property (Word)
 
- **True** if Microsoft Word prints in the background. Read/write **Boolean** .
+ **True** if Microsoft Word prints in the background. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintBackground`
+_expression_. `PrintBackground`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -48,3 +49,4 @@ temp = Options.PrintBackground
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

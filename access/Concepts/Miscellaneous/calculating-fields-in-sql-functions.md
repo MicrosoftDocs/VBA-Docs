@@ -3,6 +3,7 @@ title: Calculating fields in SQL functions
 ms.prod: access
 ms.assetid: 441af335-469d-5d70-bd90-5309717cb941
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -40,3 +41,5 @@ SELECT Avg(UnitPrice * Discount) AS [Average Discount] FROM [Order Details];
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

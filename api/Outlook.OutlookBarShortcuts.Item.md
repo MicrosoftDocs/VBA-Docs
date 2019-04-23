@@ -1,5 +1,5 @@
 ---
-title: OutlookBarShortcuts.Item Method (Outlook)
+title: OutlookBarShortcuts.Item method (Outlook)
 keywords: vbaol11.chm334
 f1_keywords:
 - vbaol11.chm334
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarShortcuts.Item
 ms.assetid: bbb22cb3-4c24-1bc6-67fa-b2d1cd297bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarShortcuts.Item Method (Outlook)
+# OutlookBarShortcuts.Item method (Outlook)
 
 Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
+_expression_ A variable that represents an [OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ An  **OutlookBarShortcut** object that represents the specified object.
 
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

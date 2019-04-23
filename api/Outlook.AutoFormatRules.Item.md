@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRules.Item Method (Outlook)
+title: AutoFormatRules.Item method (Outlook)
 keywords: vbaol11.chm2718
 f1_keywords:
 - vbaol11.chm2718
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AutoFormatRules.Item
 ms.assetid: 575a2601-0bc3-0775-da46-3ba4c3fe7f80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoFormatRules.Item Method (Outlook)
+# AutoFormatRules.Item method (Outlook)
 
 Returns an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatRules.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ An  **AutoFormatRule** object that represents the specified object.
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

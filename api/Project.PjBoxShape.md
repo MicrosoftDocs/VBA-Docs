@@ -1,14 +1,15 @@
 ---
-title: PjBoxShape Enumeration (Project)
+title: PjBoxShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBoxShape
 ms.assetid: eb3ce053-24bd-39ec-e990-00bc1046d2f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjBoxShape Enumeration (Project)
+# PjBoxShape enumeration (Project)
 
 Contains constants that specify the shape of a box.
 
@@ -27,3 +28,4 @@ Contains constants that specify the shape of a box.
 |**pjBoxWideRectangle**|1|Wide rectangle.|
 |**pjBoxWideRoundedRectangle**|3|Wide rounded rectangle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IfError Method (Excel)
+title: WorksheetFunction.IfError method (Excel)
 keywords: vbaxl10.chm137357
 f1_keywords:
 - vbaxl10.chm137357
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.IfError
 ms.assetid: 864812c0-990e-2e99-3c3b-05fe5210cf16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IfError Method (Excel)
+# WorksheetFunction.IfError method (Excel)
 
 Returns a value you specify if a formula evaluates to an error; otherwise, returns the result of the formula. Use the IFERROR function to trap and handle errors in a formula.
 
 
 ## Syntax
 
- _expression_. `IfError`( `_Arg1_` , `_Arg2_` )
+_expression_. `IfError`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Variant
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

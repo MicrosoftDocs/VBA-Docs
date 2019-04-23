@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Creator Property (Word)
+title: ChartGroups.Creator property (Word)
 keywords: vbawd10.chm77004949
 f1_keywords:
 - vbawd10.chm77004949
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartGroups.Creator
 ms.assetid: 580937b3-8066-7208-ff98-f023dd30b713
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroups.Creator Property (Word)
+# ChartGroups.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartGroups](Word.ChartGroups.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartGroups Object](Word.ChartGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

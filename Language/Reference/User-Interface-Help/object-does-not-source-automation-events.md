@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c30b6759-6fda-75a1-200e-e68b2bc779ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ An object must provide a default source interface so that you can write event pr
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

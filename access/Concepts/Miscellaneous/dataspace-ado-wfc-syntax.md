@@ -3,6 +3,7 @@ title: DataSpace (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 52bc0aa1-b3e6-4d2c-9a73-a9f185d028c4
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -45,3 +46,5 @@ public static void setInternetTimeout(int plInetTimeout )
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

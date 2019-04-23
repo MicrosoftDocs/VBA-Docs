@@ -1,12 +1,13 @@
 ---
-title: VisQuickStyleMatrixIndices Enumeration (Visio)
+title: VisQuickStyleMatrixIndices enumeration (Visio)
 ms.prod: visio
 ms.assetid: 0fb0b448-85ba-4fc4-d933-21d574cefa2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisQuickStyleMatrixIndices Enumeration (Visio)
+# VisQuickStyleMatrixIndices enumeration (Visio)
 
 Quick Style shape-style constants passed to the [Selection.SetQuickStyle](Visio.selection.setquickstyle.md) and [Shape.SetQuickStyle](Visio.shape.setquickstyle.md) methods.
 
@@ -30,3 +31,4 @@ Quick Style shape-style constants passed to the [Selection.SetQuickStyle](Visio.
 | **visQuickStyleMatrixVariant3**| **102**|Matrix variant 3|
 | **visQuickStyleMatrixVariant4**| **103**|Matrix variant 4|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

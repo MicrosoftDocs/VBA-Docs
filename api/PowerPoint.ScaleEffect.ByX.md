@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.ByX Property (PowerPoint)
+title: ScaleEffect.ByX property (PowerPoint)
 keywords: vbapp10.chm660003
 f1_keywords:
 - vbapp10.chm660003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ScaleEffect.ByX
 ms.assetid: bbf43cf2-1a82-ec81-de1d-f37fbe9a9f8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScaleEffect.ByX Property (PowerPoint)
+# ScaleEffect.ByX property (PowerPoint)
 
 Sets or returns a  **Single** that represents scaling or moving an object horizontally by a specified percentage of the screen width, depending on whether it used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. For example, a value of 50 for a motion effect means to move the object half the screen width to the right. Read/write.
 
 
 ## Syntax
 
- _expression_. `ByX`
+_expression_. `ByX`
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 
@@ -77,3 +78,4 @@ End Sub
 
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,69 +7,64 @@ ms.prod: access
 api_name:
 - Access.DoCmd.ApplyFilter
 ms.assetid: 926c7135-131b-1a7c-465b-a9b2ed71cd7b
-ms.date: 06/08/2017
+ms.date: 03/06/2019
+localization_priority: Normal
 ---
 
 
 # DoCmd.ApplyFilter method (Access)
 
-The  **ApplyFilter** method carries out the **ApplyFilter** action in Visual Basic.
+The **ApplyFilter** method carries out the ApplyFilter action in Visual Basic.
 
 
 ## Syntax
 
-_expression_. `ApplyFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
+_expression_.**ApplyFilter** (_FilterName_, _WhereCondition_, _ControlName_)
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FilterName_|Optional|**Variant**|A string expression that is the valid name of a filter or query in the current database. When using this method to apply a server filter, the  _FilterName_ argument must be blank.|
+| _FilterName_|Optional|**Variant**|A string expression that is the valid name of a filter or query in the current database. When using this method to apply a server filter, the _FilterName_ argument must be blank.|
 | _WhereCondition_|Optional|**Variant**|A string expression that is a valid SQL WHERE clause without the word WHERE.|
 | _ControlName_|Optional|**Variant**||
 
 ## Remarks
 
-You can use the ApplyFilter action to apply a filter, a query, or an SQL WHERE clause to a table, form, or report to restrict or sort the records in the table, or the records from the underlying table or query of the form or report. For reports, you can use this action only in a macro specified by the report's  **OnOpen** event property.
+You can use the ApplyFilter action to apply a filter, a query, or an SQL WHERE clause to a table, form, or report to restrict or sort the records in the table or the records from the underlying table or query of the form or report. For reports, you can use this action only in a macro specified by the report's **OnOpen** event property.
 
 You can use this action to apply an SQL WHERE clause only when applying a server filter. A server filter cannot be applied to a stored procedure's record source.
 
-
- **Note**  You can use the Filter Name argument if you've already defined a filter that provides the appropriate data. You can use the Where Condition argument to enter the restriction criteria directly. If you use both arguments, Microsoft Access applies the WHERE clause to the results of the filter. You must use one or both arguments.
+> [!NOTE] 
+> You can use the _FilterName_ argument if you've already defined a filter that provides the appropriate data. You can use the _WhereCondition_ argument to enter the restriction criteria directly. If you use both arguments, Microsoft Access applies the WHERE clause to the results of the filter. You must use one or both arguments.
 
 You can apply a filter or query to a form in Form view or Datasheet view.
 
-The filter and WHERE condition you apply become the setting of the form's  **[Filter](Access.Form.Filter(property).md)** property or the report's **[ServerFilter](Access.Report.ServerFilter.md)** property.
+The filter and WHERE condition that you apply become the setting of the form's **[Filter](Access.Form.Filter(property).md)** property or the report's **[ServerFilter](Access.Report.ServerFilter.md)** property.
 
-When you save a table or form, Access saves any filter currently defined in that object, but will not apply the filter automatically the next time the object is opened (although it will automatically apply any sort you applied to the object before it was saved). If you want to apply a filter automatically when a form is first opened, specify a macro containing the ApplyFilter action or an event procedure containing the  **ApplyFilter** method of the **DoCmd** object as the **OnOpen** event property setting of the form. You can also apply a filter by using the OpenForm or OpenReport action, or their corresponding methods. To apply a filter automatically when a table is first opened, you can open the table by using a macro containing the OpenTable action, followed immediately by the ApplyFilter action.
+When you save a table or form, Access saves any filter currently defined in that object, but will not apply the filter automatically the next time the object is opened (although it will automatically apply any sort that you applied to the object before it was saved). 
 
-You must include at least one of the two  **ApplyFilter** method arguments. If you enter a value for both arguments, the _WhereCondition_ argument is applied to the filter.
+If you want to apply a filter automatically when a form is first opened, specify a macro containing the ApplyFilter action or an event procedure containing the **ApplyFilter** method of the **DoCmd** object as the **OnOpen** event property setting of the form. You can also apply a filter by using the OpenForm or OpenReport action, or their corresponding methods. To apply a filter automatically when a table is first opened, you can open the table by using a macro containing the OpenTable action, followed immediately by the ApplyFilter action.
 
-The maximum length of the  _WhereCondition_ argument is 32,768 characters (unlike the Where Condition action argument in the Macro window, whose maximum length is 256 characters).
+You must include at least one of the two **ApplyFilter** method arguments. If you enter a value for both arguments, the _WhereCondition_ argument is applied to the filter.
+
+The maximum length of the _WhereCondition_ argument is 32,768 characters (unlike the _WhereCondition_ action argument in the Macro window, whose maximum length is 256 characters).
 
 
 ## Example
 
-The following example uses the  **ApplyFilter** method to display only records that contain the name "King" in the LastName field:
-
+The following example uses the **ApplyFilter** method to display only records that contain the name "King" in the **LastName** field.
 
 ```vb
 DoCmd.ApplyFilter , "LastName = 'King'"
 ```
 
+<br/>
 
-
-The following example shows how to use the  **ApplyFilter** property to filter the records displayed when a toggle button named tglFilter is clicked.
-
- **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
-
-
-
+The following example shows how to use the **ApplyFilter** property to filter the records displayed when a toggle button named **tglFilter** is chosen.
 
 ```vb
 Private Sub tglFilter_Click()
@@ -93,14 +88,6 @@ End Sub
 ```
 
 
-### About the contributors
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
-## See also
-
-
-[DoCmd Object](Access.DoCmd.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

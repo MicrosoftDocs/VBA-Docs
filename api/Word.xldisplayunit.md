@@ -1,12 +1,13 @@
 ---
-title: xlDisplayUnit Enumeration (Word)
+title: XlDisplayUnit enumeration (Word)
 ms.prod: word
 ms.assetid: 04aac046-f43b-58cc-54ca-0b65fa4259c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDisplayUnit Enumeration (Word)
+# XlDisplayUnit enumeration (Word)
 
 Specifies the display unit label for an axis.
 
@@ -24,3 +25,4 @@ Specifies the display unit label for an axis.
 | **xlThousandMillions**|-9|Thousands of millions.|
 | **xlThousands**|-3|Thousands.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

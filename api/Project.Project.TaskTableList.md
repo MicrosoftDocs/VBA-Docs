@@ -1,5 +1,5 @@
 ---
-title: Project.TaskTableList Property (Project)
+title: Project.TaskTableList property (Project)
 keywords: vbapj.chm132713
 f1_keywords:
 - vbapj.chm132713
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.TaskTableList
 ms.assetid: a36abbcb-db7d-f593-7e5c-df00fd96f010
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.TaskTableList Property (Project)
+# Project.TaskTableList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all task tables in the project. Read-only **List**.
 
 
 ## Syntax
 
- _expression_. `TaskTableList`
+_expression_. `TaskTableList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -43,4 +44,4 @@ Sub SeeAllTables()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

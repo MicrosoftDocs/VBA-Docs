@@ -1,23 +1,24 @@
 ---
-title: HeaderFooter.Creator Property (Word)
+title: HeaderFooter.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter.Creator
 ms.assetid: 73f87192-f442-58ff-9ec0-ac743a6aec3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Creator Property (Word)
+# HeaderFooter.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)' object.
+_expression_ Required. A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
 
 ## Remarks
@@ -30,3 +31,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DollarFr Method (Excel)
+title: WorksheetFunction.DollarFr method (Excel)
 keywords: vbaxl10.chm137320
 f1_keywords:
 - vbaxl10.chm137320
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DollarFr
 ms.assetid: a024cc74-605f-7ac5-77f9-7368f8b22f8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DollarFr Method (Excel)
+# WorksheetFunction.DollarFr method (Excel)
 
 Converts a dollar price expressed as a decimal number into a dollar price expressed as a fraction. Use DOLLARFR to convert decimal numbers to fractional dollar numbers, such as securities prices.
 
 
 ## Syntax
 
- _expression_. `DollarFr`( `_Arg1_` , `_Arg2_` )
+_expression_. `DollarFr`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

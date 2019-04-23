@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetChange Event (Excel)
+title: Workbook.SheetChange event (Excel)
 keywords: vbaxl10.chm503091
 f1_keywords:
 - vbaxl10.chm503091
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetChange
 ms.assetid: 37e727d8-255c-ac23-45d8-13a8e7639991
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetChange Event (Excel)
+# Workbook.SheetChange event (Excel)
 
 Occurs when cells in any worksheet are changed by the user or by an external link.
 
 
 ## Syntax
 
- _expression_. `SheetChange`( `_Sh_` , `_Target_` )
+_expression_. `SheetChange`( `_Sh_` , `_Target_` )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

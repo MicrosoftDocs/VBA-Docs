@@ -1,5 +1,5 @@
 ---
-title: Explorer.SelectAllItems Method (Outlook)
+title: Explorer.SelectAllItems method (Outlook)
 keywords: vbaol11.chm3311
 f1_keywords:
 - vbaol11.chm3311
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.SelectAllItems
 ms.assetid: 05b3169a-5f27-2169-5ac5-1d64951d6430
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.SelectAllItems Method (Outlook)
+# Explorer.SelectAllItems method (Outlook)
 
 Selects all items that are contained in the current view of the active explorer. 
 
 
 ## Syntax
 
- _expression_. `SelectAllItems`
+_expression_. `SelectAllItems`
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks
@@ -41,3 +42,4 @@ If the current view or current folder does not contain any items, calling  **Sel
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

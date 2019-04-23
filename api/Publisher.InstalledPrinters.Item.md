@@ -1,5 +1,5 @@
 ---
-title: InstalledPrinters.Item Property (Publisher)
+title: InstalledPrinters.Item property (Publisher)
 keywords: vbapb10.chm8912896
 f1_keywords:
 - vbapb10.chm8912896
@@ -8,17 +8,18 @@ api_name:
 - Publisher.InstalledPrinters.Item
 ms.assetid: 8144478d-ca12-29b8-4541-5f0875fd3d12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InstalledPrinters.Item Property (Publisher)
+# InstalledPrinters.Item property (Publisher)
 
 Returns the  **[Printer](Publisher.Printer.md)** object with the specified name or at the specified index position in the **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents an  **InstalledPrinters** collection.
 
@@ -35,4 +36,4 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
 
 Printer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

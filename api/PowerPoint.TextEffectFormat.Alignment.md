@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Alignment Property (PowerPoint)
+title: TextEffectFormat.Alignment property (PowerPoint)
 keywords: vbapp10.chm556003
 f1_keywords:
 - vbapp10.chm556003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextEffectFormat.Alignment
 ms.assetid: 42b92de7-2dc1-ee1b-1c58-682cfba2aa19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Alignment Property (PowerPoint)
+# TextEffectFormat.Alignment property (PowerPoint)
 
 Returns or sets the alignment for the specified WordArt. Read/write.
 
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -59,3 +60,4 @@ myTE.TextEffect.Alignment = msoTextEffectAlignmentRight
 
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

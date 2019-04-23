@@ -1,14 +1,15 @@
 ---
-title: WdMailMergeState Enumeration (Word)
+title: WdMailMergeState enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeState
 ms.assetid: b8968e19-07fc-cd5f-fbf4-3204f4946f34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMailMergeState Enumeration (Word)
+# WdMailMergeState enumeration (Word)
 
 Specifies the state of a mail merge operation.
 
@@ -23,3 +24,4 @@ Specifies the state of a mail merge operation.
 | **wdMainDocumentOnly**|1|A main document with no data attached.|
 | **wdNormalDocument**|0|Document is not involved in a mail merge operation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

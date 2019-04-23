@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.ChildItems
 ms.assetid: 5ae6936e-0ae7-284a-1733-86ba292e8a9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
 ## Syntax
 
- _expression_. `ChildItems`( `_Index_` )
+_expression_. `ChildItems` (_Index_)
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Next pvtItem
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

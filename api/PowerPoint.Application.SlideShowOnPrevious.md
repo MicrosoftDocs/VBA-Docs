@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowOnPrevious Event (PowerPoint)
+title: Application.SlideShowOnPrevious event (PowerPoint)
 keywords: vbapp10.chm621024
 f1_keywords:
 - vbapp10.chm621024
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Application.SlideShowOnPrevious
 ms.assetid: 466a5363-047b-f107-011b-6450db6a5f31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SlideShowOnPrevious Event (PowerPoint)
+# Application.SlideShowOnPrevious event (PowerPoint)
 
 Occurs when the user clicks  **Previous** to move within the current slide.
 
 
 ## Syntax
 
- _expression_. `SlideShowOnPrevious`( `_Wn_` )
+_expression_. `SlideShowOnPrevious`(_Wn_)
 
  _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
 
@@ -61,3 +62,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

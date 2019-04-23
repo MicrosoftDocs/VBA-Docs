@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetDefaultFolder Method (Outlook)
+title: NameSpace.GetDefaultFolder method (Outlook)
 keywords: vbaol11.chm761
 f1_keywords:
 - vbaol11.chm761
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.GetDefaultFolder
 ms.assetid: 761b8b53-dd4d-43e4-c8f0-69cefdf0c77a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.GetDefaultFolder Method (Outlook)
+# NameSpace.GetDefaultFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that represents the default folder of the requested type for the current profile; for example, obtains the default **Calendar** folder for the user who is currently logged on.
 
 
 ## Syntax
 
- _expression_. `GetDefaultFolder`( `_FolderType_` )
+_expression_. `GetDefaultFolder`( `_FolderType_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -99,3 +100,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

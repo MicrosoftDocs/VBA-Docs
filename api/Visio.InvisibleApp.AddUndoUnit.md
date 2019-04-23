@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AddUndoUnit Method (Visio)
+title: InvisibleApp.AddUndoUnit method (Visio)
 keywords: vis_sdr.chm17516075
 f1_keywords:
 - vis_sdr.chm17516075
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.AddUndoUnit
 ms.assetid: 00d2492a-4154-6004-c961-906ddf191f2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.AddUndoUnit Method (Visio)
+# InvisibleApp.AddUndoUnit method (Visio)
 
 Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface to the Microsoft Visio undo queue.
 
 
 ## Syntax
 
- _expression_. `AddUndoUnit`( `_pUndoUnit_` )
+_expression_. `AddUndoUnit`( `_pUndoUnit_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -45,7 +46,7 @@ For information about implementing the  **IOleUndoUnit** interface on your objec
 
 The following procedure shows how to use the  **AddUndoUnit** method to add an object to the Visio undo queue. When a shape is added to the active document, the procedure checks to see if it was added as a result of an undo or redo action, and if not, it adds an Undo unit.
 
-This procedure is a member of class  **clsParticipateInUndo** , which is defined in one of two related class modules in the Code Samples Library in the Visio SDK, and is not intended to be run independently. (The other class module defines class **clsVBUndoUnits** .) For more information on these class modules, see the Visio SDK on MSDN.
+This procedure is a member of class  **clsParticipateInUndo**, which is defined in one of two related class modules in the Code Samples Library in the Visio SDK, and is not intended to be run independently. (The other class module defines class **clsVBUndoUnits**.) For more information on these class modules, see the Visio SDK on MSDN.
 
 
 
@@ -91,4 +92,4 @@ mvsoDocument_ShapeAdded_Err:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlHebrewModes enumeration (Excel)
+title: XlHebrewModes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlHebrewModes
 ms.assetid: a3dafb53-dae1-33c2-4470-2daca721064c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlHebrewModes enumeration (Excel)
+# XlHebrewModes enumeration (Excel)
 
 Specifies the mode for the Hebrew spelling checker.
 
@@ -21,3 +22,4 @@ Specifies the mode for the Hebrew spelling checker.
 | **xlHebrewMixedScript**|2|In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any unconventional spelling variation that is known to the speller. |
 | **xlHebrewPartialScript**|1|In this mode the speller accepts words both in Full Script and Partial Script. Some words will be flagged since this spelling is not authorized in either Full script or Partial script.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

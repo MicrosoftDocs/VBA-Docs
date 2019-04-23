@@ -1,5 +1,5 @@
 ---
-title: Options.CheckGrammarWithSpelling Property (Word)
+title: Options.CheckGrammarWithSpelling property (Word)
 keywords: vbawd10.chm162988317
 f1_keywords:
 - vbawd10.chm162988317
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.CheckGrammarWithSpelling
 ms.assetid: b08d1bc4-bc9c-c9b3-0448-92a051809a25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.CheckGrammarWithSpelling Property (Word)
+# Options.CheckGrammarWithSpelling property (Word)
 
- **True** if Word checks grammar while checking spelling. Read/write **Boolean** .
+ **True** if Word checks grammar while checking spelling. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CheckGrammarWithSpelling`
+_expression_. `CheckGrammarWithSpelling`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -49,3 +50,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

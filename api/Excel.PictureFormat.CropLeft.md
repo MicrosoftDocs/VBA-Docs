@@ -8,17 +8,18 @@ api_name:
 - Excel.PictureFormat.CropLeft
 ms.assetid: e5d542cb-8653-c798-aede-28c58e4979d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PictureFormat.CropLeft property (Excel)
 
-Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CropLeft`
+_expression_. `CropLeft`
 
  _expression_ An expression that returns a [PictureFormat](Excel.PictureFormat.md) object.
 
@@ -30,7 +31,7 @@ Cropping is calculated relative to the original size of the picture. For example
 
 ## Example
 
-This example crops 20 points off the left side of shape three on  `myDocument`. For the example to work, shape three must be either a picture or an OLE object.
+This example crops 20 points off the left side of shape three on  _myDocument_. For the example to work, shape three must be either a picture or an OLE object.
 
 
 ```vb
@@ -63,3 +64,4 @@ shapeToCrop.PictureFormat.CropLeft = cropPoints
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

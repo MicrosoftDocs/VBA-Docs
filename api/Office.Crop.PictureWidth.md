@@ -1,23 +1,24 @@
 ---
-title: Crop.PictureWidth Property (Office)
+title: Crop.PictureWidth property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.PictureWidth
 ms.assetid: 14781959-3abb-bd90-ce47-6714170c6721
-ms.date: 06/08/2017
+ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 
-# Crop.PictureWidth Property (Office)
+# Crop.PictureWidth property (Office)
 
-Gets or sets the width of the image that is to be cropped. Read/write
+Gets or sets the width of the image that is to be cropped. Read/write.
 
 
 ## Syntax
 
- _expression_. `PictureWidth`
+_expression_.**PictureWidth**
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+_expression_ An expression that returns a **[Crop](Office.Crop.md)** object.
 
 
 ## Return value
@@ -27,7 +28,7 @@ Single
 
 ## Example
 
-The following example inserts a 200 x 200 image into a PowerPoint presentation approximately in the center of the slide. It then resizes the image inside the frame to 100 x 100. The image frame stays at 200 x 200. The code then adds a square (the default shape) just above and to the right of the image, essentially cropping the lower left corner of the image.
+The following example inserts a 200 x 200 image into a PowerPoint presentation approximately in the center of the slide. It then resizes the image inside the frame to 100 x 100. The image frame stays at 200 x 200. The code then adds a square (the default shape) just above and to the right of the image, essentially cropping the lower-left corner of the image.
 
 
 ```vb
@@ -48,10 +49,6 @@ End Sub
 
 ## See also
 
+- [Crop object members](overview/library-reference/crop-members-office.md)
 
-[Crop Object](Office.Crop.md)
-
-
-
-[Crop Object Members](./overview/Library-Reference/crop-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

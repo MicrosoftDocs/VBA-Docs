@@ -1,5 +1,5 @@
 ---
-title: Sequences.Add Method (PowerPoint)
+title: Sequences.Add method (PowerPoint)
 keywords: vbapp10.chm650004
 f1_keywords:
 - vbapp10.chm650004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Sequences.Add
 ms.assetid: 5f1516ec-d617-ffcf-c786-318a7ba3cb1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sequences.Add Method (PowerPoint)
+# Sequences.Add method (PowerPoint)
 
 Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents a new sequence.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Index_` )
+_expression_.**Add** (_Index_)
 
  _expression_ A variable that represents a [Sequences](./PowerPoint.Sequences.md) object.
 
@@ -41,3 +42,4 @@ Sequence
 
 [Sequences Object](PowerPoint.Sequences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

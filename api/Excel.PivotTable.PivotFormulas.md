@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.PivotFormulas
 ms.assetid: fceade1d-7aa1-85c1-ca74-89460ffa6dff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotFormulas](Excel.PivotFormulas.md)** object that represents th
 
 ## Syntax
 
- _expression_. `PivotFormulas`
+_expression_. `PivotFormulas`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Next
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

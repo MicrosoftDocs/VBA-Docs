@@ -3,6 +3,7 @@ title: Change the Editability of a Content Control
 ms.prod: word
 ms.assetid: ec1856d6-c19a-cc73-1d9c-237935e69db1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,3 +38,4 @@ End Sub
 
 Using these properties with one of the events for content controls, such as the **ContentControlOnExit** event, gives you control over how content controls are used in documents and how users work with them.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

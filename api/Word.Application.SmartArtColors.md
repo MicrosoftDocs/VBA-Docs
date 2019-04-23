@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtColors Property (Word)
+title: Application.SmartArtColors property (Word)
 keywords: vbawd10.chm158335459
 f1_keywords:
 - vbawd10.chm158335459
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.SmartArtColors
 ms.assetid: e2cb12c4-3162-2327-9210-bd912dffa8e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SmartArtColors Property (Word)
+# Application.SmartArtColors property (Word)
 
-Returns a [SmartArtColors](./Office.SmartArtColors.md) object that represents the set of color styles that are currently loaded in the application. Read-only.
+Returns a [SmartArtColors](Office.SmartArtColors.md) object that represents the set of color styles that are currently loaded in the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArtColors`
+_expression_. `SmartArtColors`
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
@@ -50,3 +51,4 @@ mySmartArt.Color = Application.SmartArtColors(2)
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

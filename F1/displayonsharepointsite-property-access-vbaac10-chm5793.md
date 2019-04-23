@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ef88619e-7a3c-4f14-ac65-8df93d2a80f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.DisplayOnSharePointSite property (Access)](http://msdn.microsoft.com/library/f741a5df-5924-2756-409a-94a8fcf21809%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

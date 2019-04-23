@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.KeyPress Event (Outlook)
+title: OlkCommandButton.KeyPress event (Outlook)
 keywords: vbaol11.chm1000128
 f1_keywords:
 - vbaol11.chm1000128
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCommandButton.KeyPress
 ms.assetid: c742f3e3-56e2-de6c-8ccf-e69a6096e3d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCommandButton.KeyPress Event (Outlook)
+# OlkCommandButton.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 
 
 ## Syntax
 
- _expression_. `KeyPress`( `_KeyAscii_` )
+_expression_. `KeyPress`( `_KeyAscii_` )
 
- _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ A  **KeyPress** event does not occur under the following conditions:
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

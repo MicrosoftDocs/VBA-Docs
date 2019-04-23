@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ddb Method (Excel)
+title: WorksheetFunction.Ddb method (Excel)
 keywords: vbaxl10.chm137135
 f1_keywords:
 - vbaxl10.chm137135
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Ddb
 ms.assetid: 7514f3b3-ca21-ec3f-28c5-f34281fc1a1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Ddb Method (Excel)
+# WorksheetFunction.Ddb method (Excel)
 
 Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.
 
 
 ## Syntax
 
- _expression_. `Ddb`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `Ddb`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

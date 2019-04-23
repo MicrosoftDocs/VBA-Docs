@@ -1,5 +1,5 @@
 ---
-title: Workbook.BreakLink Method (Excel)
+title: Workbook.BreakLink method (Excel)
 keywords: vbaxl10.chm199198
 f1_keywords:
 - vbaxl10.chm199198
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.BreakLink
 ms.assetid: 1e9d70c1-908e-92eb-26b8-d6ac753cc9c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BreakLink Method (Excel)
+# Workbook.BreakLink method (Excel)
 
 Converts formulas linked to other Microsoft Excel sources or OLE sources to values.
 
 
 ## Syntax
 
- _expression_. `BreakLink`( `_Name_` , `_Type_` )
+_expression_. `BreakLink`( `_Name_` , `_Type_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

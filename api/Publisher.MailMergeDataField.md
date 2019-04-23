@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField Object (Publisher)
+title: MailMergeDataField object (Publisher)
 keywords: vbapb10.chm6488063
 f1_keywords:
 - vbapb10.chm6488063
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MailMergeDataField
 ms.assetid: 46768b72-482c-06c5-5e77-27a95109f610
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataField Object (Publisher)
+# MailMergeDataField object (Publisher)
 
 Represents a single merge field in a data source. The  **MailMergeDataField** object is a member of the **[MailMergeDataFields](Publisher.MailMergeDataFields.md)** collection. The **MailMergeDataFields** collection includes all the data fields in a mail merge or catalog merge data source (for example, Name, Address, and City).
  
@@ -45,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToRecipientFields](Publisher.MailMergeDataField.AddToRecipientFields.md)|
 |[Insert](Publisher.MailMergeDataField.Insert.md)|
@@ -56,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeDataField.Application.md)|
 |[Creator](Publisher.MailMergeDataField.Creator.md)|
@@ -68,3 +69,4 @@ End Sub
 |[Parent](Publisher.MailMergeDataField.Parent.md)|
 |[Value](Publisher.MailMergeDataField.Value.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

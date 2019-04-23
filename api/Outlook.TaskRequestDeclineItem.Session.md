@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.Session Property (Outlook)
+title: TaskRequestDeclineItem.Session property (Outlook)
 keywords: vbaol11.chm1821
 f1_keywords:
 - vbaol11.chm1821
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestDeclineItem.Session
 ms.assetid: ca771a84-1cc6-b1ef-2dbf-ed05541b96d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.Session Property (Outlook)
+# TaskRequestDeclineItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

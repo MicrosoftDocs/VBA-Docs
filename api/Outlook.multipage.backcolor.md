@@ -3,6 +3,7 @@ title: MultiPage.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 10c54c57-7833-003b-e773-d1aa331d3eae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ You can use any integer that represents a valid color. You can also specify a co
 RGB(15,200,75)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

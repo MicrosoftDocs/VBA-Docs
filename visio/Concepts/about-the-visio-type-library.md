@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 583b7622-7736-a661-5600-862ecbd9f522
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,4 +43,4 @@ Dim xlApplication As Excel.Application
 
 If your code runs exclusively in the context of a VBA project of a Visio document, you don't have to prefix names of Visio object types with  _Visio_, although it is a good idea. If you do this, the Visio type library has a higher priority than other libraries that may declare conflicting names. VBA does not let you change the priority of the Visio type library when you are using VBA within Visio, but in other development environments you can change the priority of the Visio type library.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

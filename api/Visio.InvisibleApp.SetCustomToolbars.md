@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.SetCustomToolbars Method (Visio)
+title: InvisibleApp.SetCustomToolbars method (Visio)
 keywords: vis_sdr.chm17516565
 f1_keywords:
 - vis_sdr.chm17516565
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.SetCustomToolbars
 ms.assetid: d9979327-5997-3517-fde5-91faa647be17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.SetCustomToolbars Method (Visio)
+# InvisibleApp.SetCustomToolbars method (Visio)
 
 Replaces the current built-in or custom toolbars of an application or document.
 
 
 ## Syntax
 
- _expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
+_expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -103,4 +104,4 @@ Public Sub SetCustomToolbarItems_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Group Method (Word)
+title: ShapeRange.Group method (Word)
 keywords: vbawd10.chm162856979
 f1_keywords:
 - vbawd10.chm162856979
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.Group
 ms.assetid: 2220e1d9-24aa-d2ba-f086-130e1139b346
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Group Method (Word)
+# ShapeRange.Group method (Word)
 
 Groups the shapes in the specified range, and returns the grouped shapes as a single  **Shape** object.
 
 
 ## Syntax
 
- _expression_. `Group`
+_expression_. `Group`
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End With
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

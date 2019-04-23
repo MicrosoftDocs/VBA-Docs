@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 028ffd8d-ded4-72af-8b54-fa4e8f267a16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelMeasureNames.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified **ModelMeasureNames** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object.
+_expression_ A variable that represents a **[ModelMeasureNames](Excel.modelmeasurenames.md)** object.
 
 
 ## Property value
@@ -26,9 +27,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelM
  **OBJECT**
 
 
-## See also
 
 
-
-[ModelMeasureNames Object](Excel.modelmeasurenames.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

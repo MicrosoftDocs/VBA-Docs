@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Export Method (PowerPoint)
+title: SlideRange.Export method (PowerPoint)
 keywords: vbapp10.chm532025
 f1_keywords:
 - vbapp10.chm532025
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.Export
 ms.assetid: a14b5d03-e6c4-486e-a97b-1c9bd1a18769
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.Export Method (PowerPoint)
+# SlideRange.Export method (PowerPoint)
 
 Exports a range of slides, using the specified graphics filter, and saves the exported file under the specified file name.
 
 
 ## Syntax
 
- _expression_. `Export`( `_FileName_`, `_FilterName_`, `_ScaleWidth_`, `_ScaleHeight_` )
+_expression_.**Export** (_FileName_, _FilterName_, _ScaleWidth_, _ScaleHeight_)
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -46,3 +47,4 @@ PowerPoint uses the specified graphics filter to save each individual slide. The
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

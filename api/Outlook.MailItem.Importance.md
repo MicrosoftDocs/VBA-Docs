@@ -1,5 +1,5 @@
 ---
-title: MailItem.Importance Property (Outlook)
+title: MailItem.Importance property (Outlook)
 keywords: vbaol11.chm1306
 f1_keywords:
 - vbaol11.chm1306
@@ -8,24 +8,25 @@ api_name:
 - Outlook.MailItem.Importance
 ms.assetid: 77de74c9-e910-e021-1015-6e65f3ead3df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Importance Property (Outlook)
+# MailItem.Importance property (Outlook)
 
 Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Importance`
+_expression_. `Importance`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagImportance** .
+This property corresponds to the MAPI property  **PidTagImportance**.
 
 
 ## Example
@@ -59,3 +60,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

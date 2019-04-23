@@ -1,5 +1,5 @@
 ---
-title: Application.Selection Property (Publisher)
+title: Application.Selection property (Publisher)
 keywords: vbapb10.chm131109
 f1_keywords:
 - vbapb10.chm131109
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Selection
 ms.assetid: b4a542a7-cb54-476b-9ccf-004ce4b9ec47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Selection Property (Publisher)
+# Application.Selection property (Publisher)
 
 Returns a  **[Selection](Publisher.Selection.md)** object that represents a selected range or the cursor.
 
 
 ## Syntax
 
- _expression_. **Selection**
+_expression_.**Selection**
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -42,3 +43,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

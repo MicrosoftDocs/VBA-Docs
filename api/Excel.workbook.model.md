@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 43ccdaa8-4a12-e745-88db-9db8a328ee5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns the top level  **Model** object which is the one Data Model for the work
 
 ## Syntax
 
- _expression_. `Model`
+_expression_. `Model`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ Returns the top level  **Model** object which is the one Data Model for the work
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

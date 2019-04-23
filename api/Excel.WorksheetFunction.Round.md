@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Round Method (Excel)
+title: WorksheetFunction.Round method (Excel)
 keywords: vbaxl10.chm137088
 f1_keywords:
 - vbaxl10.chm137088
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Round
 ms.assetid: 37b1abed-ed4e-5e92-ba8d-a13f573813a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Round Method (Excel)
+# WorksheetFunction.Round method (Excel)
 
 Rounds a number to a specified number of digits.
 
 
 ## Syntax
 
- _expression_. `Round`( `_Arg1_` , `_Arg2_` )
+_expression_. `Round`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

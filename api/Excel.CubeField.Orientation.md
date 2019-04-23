@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.Orientation
 ms.assetid: b134cefe-7df0-dc9f-0f7d-e93f2cb0e303
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ For OLAP data sources, setting this property for one field in a hierarchy sets t
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

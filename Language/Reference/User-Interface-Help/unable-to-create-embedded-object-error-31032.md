@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c249ffe3-cd57-52ce-0775-86b9ca4ae769
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ The application that is creating the object can't create the object as specified
 
 For example, this error occurs if you try to embed a spreadsheet object and  **SourceDoc** specifies a spreadsheet that is too large to be loaded by the spreadsheet application.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

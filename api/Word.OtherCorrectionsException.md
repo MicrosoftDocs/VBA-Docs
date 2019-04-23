@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsException Object (Word)
+title: OtherCorrectionsException object (Word)
 keywords: vbawd10.chm2529
 f1_keywords:
 - vbawd10.chm2529
@@ -8,10 +8,11 @@ api_name:
 - Word.OtherCorrectionsException
 ms.assetid: f3c92186-0d3a-0585-b545-3a94e27a7d7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OtherCorrectionsException Object (Word)
+# OtherCorrectionsException object (Word)
 
 Represents a single AutoCorrect exception. The  **OtherCorrectionsException** object is a member of the **OtherCorrectionsExceptions** collection.
 
@@ -38,7 +39,7 @@ The index number represents the position of the AutoCorrect exception in the  **
 MsgBox AutoCorrect.OtherCorrectionsExceptions(1).Name
 ```
 
-If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
+If the value of the  **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
 
 
 
@@ -51,6 +52,6 @@ AutoCorrect.OtherCorrectionsExceptions.Add Name:="TipTop"
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

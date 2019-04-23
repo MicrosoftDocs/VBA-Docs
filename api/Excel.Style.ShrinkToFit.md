@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.ShrinkToFit
 ms.assetid: c55d2aae-8289-5617-9eab-1877b8b0a6c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that indicates if text automatically shrink
 
 ## Syntax
 
- _expression_. `ShrinkToFit`
+_expression_.**ShrinkToFit**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that indicates if text automatically shrink
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

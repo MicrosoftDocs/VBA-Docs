@@ -1,5 +1,5 @@
 ---
-title: Master.Stat Property (Visio)
+title: Master.Stat property (Visio)
 keywords: vis_sdr.chm10714420
 f1_keywords:
 - vis_sdr.chm10714420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Stat
 ms.assetid: 1cc33fe9-e317-ab3d-1ce1-a7f8c619c4f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Stat Property (Visio)
+# Master.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f9128fa9-faf0-aa11-5cd8-9c07502480a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ An  **Enum** type specifies the name and members for an enumeration. This error 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

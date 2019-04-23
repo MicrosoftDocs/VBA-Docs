@@ -1,5 +1,5 @@
 ---
-title: OlkComboBox.AfterUpdate Event (Outlook)
+title: OlkComboBox.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000247
 f1_keywords:
 - vbaol11.chm1000247
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkComboBox.AfterUpdate
 ms.assetid: d130f15a-832e-f2d1-a6f4-13edcfb5bd9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkComboBox.AfterUpdate Event (Outlook)
+# OlkComboBox.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
- _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Occurs after the data in the control has been changed through the user interface
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

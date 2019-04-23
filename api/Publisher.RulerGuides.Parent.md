@@ -1,5 +1,5 @@
 ---
-title: RulerGuides.Parent Property (Publisher)
+title: RulerGuides.Parent property (Publisher)
 keywords: vbapb10.chm720898
 f1_keywords:
 - vbapb10.chm720898
@@ -8,17 +8,18 @@ api_name:
 - Publisher.RulerGuides.Parent
 ms.assetid: 93bc55d9-6709-418b-2110-3e05ac1f9663
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerGuides.Parent Property (Publisher)
+# RulerGuides.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **RulerGuides** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

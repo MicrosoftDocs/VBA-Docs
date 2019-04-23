@@ -1,33 +1,34 @@
 ---
-title: ModelTables.Item Method (Excel)
+title: ModelTables.Item method (Excel)
 keywords: vbaxl10.chm936074
 f1_keywords:
 - vbaxl10.chm936074
 ms.prod: excel
 ms.assetid: 293e7479-5a5c-cb59-6181-e58cf10026dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ModelTables.Item Method (Excel)
+# ModelTables.Item method (Excel)
 
 Returns a single object from the  **ModelTables** collection.
 
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ModelTables Object (Excel)](Excel.modeltables.md) object.
+_expression_ A variable that represents a [ModelTables](Excel.modeltables.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|VARIANT|The index number or name of the object.|
+| _Index_|Required|**Variant**|The index number or name of the object.|
 
 ## Return value
 
@@ -40,3 +41,4 @@ Returns a single object from the  **ModelTables** collection.
 
 [ModelTables Object](Excel.modeltables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

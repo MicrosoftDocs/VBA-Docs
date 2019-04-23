@@ -1,5 +1,5 @@
 ---
-title: Document.ViewTwoPageSpread Property (Publisher)
+title: Document.ViewTwoPageSpread property (Publisher)
 keywords: vbapb10.chm196665
 f1_keywords:
 - vbapb10.chm196665
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ViewTwoPageSpread
 ms.assetid: b5e851ff-d5fc-a98d-02b3-7e14c1b957dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ViewTwoPageSpread Property (Publisher)
+# Document.ViewTwoPageSpread property (Publisher)
 
 Returns  **True** if the specified publication should be viewed as a two-page spread. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ViewTwoPageSpread**
+_expression_.**ViewTwoPageSpread**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -42,4 +43,4 @@ Sub ViewTwoPage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

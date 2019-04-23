@@ -1,5 +1,5 @@
 ---
-title: OlAlwaysDeleteConversation Enumeration (Outlook)
+title: OlAlwaysDeleteConversation enumeration (Outlook)
 keywords: vbaol11.chm3420
 f1_keywords:
 - vbaol11.chm3420
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlAlwaysDeleteConversation
 ms.assetid: 5302003d-b227-5b0b-a8ec-52c107defc97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlAlwaysDeleteConversation Enumeration (Outlook)
+# OlAlwaysDeleteConversation enumeration (Outlook)
 
 Specifies constants that determine whether new items of the conversation are always moved to the Deleted Items folder of the specified delivery store.
 
@@ -25,6 +26,6 @@ Specifies constants that determine whether new items of the conversation are alw
 
 ## Remarks
 
-This enumeration is used by the [GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md) method of the [Conversation Object (Outlook)](Outlook.Conversation.md).
+This enumeration is used by the [GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md) method of the [Conversation object (Outlook)](Outlook.Conversation.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

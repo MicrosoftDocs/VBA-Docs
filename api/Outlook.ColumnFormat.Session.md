@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat.Session Property (Outlook)
+title: ColumnFormat.Session property (Outlook)
 keywords: vbaol11.chm2726
 f1_keywords:
 - vbaol11.chm2726
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ColumnFormat.Session
 ms.assetid: 6836c80e-5194-0a90-477f-3ed51a91c3b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColumnFormat.Session Property (Outlook)
+# ColumnFormat.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
+_expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

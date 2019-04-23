@@ -7,44 +7,41 @@ ms.prod: excel
 api_name:
 - Excel.Application.ActiveSheet
 ms.assetid: 6ed42d87-2ad5-eecc-ad5b-4c92617a04bc
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Priority
 ---
 
 
 # Application.ActiveSheet property (Excel)
 
-Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns  **Nothing** if no sheet is active.
+Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns **Nothing** if no sheet is active.
 
 
 ## Syntax
 
- _expression_. `ActiveSheet`
+_expression_.**ActiveSheet**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
 If you do not specify an object qualifier, this property returns the active sheet in the active workbook.
 
-If a workbook appears in more than one window, the  **ActiveSheet** property may be different in different windows.
+If a workbook appears in more than one window, the **ActiveSheet** property may be different in different windows.
 
 
 ## Example
 
 This example displays the name of the active sheet.
 
-
 ```vb
 MsgBox "The name of the active sheet is " & ActiveSheet.Name
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
+<br/>
 
 This example creates a print preview of the active sheet that has the page number at the top of column B on each page.
-
-
-
 
 ```vb
 Sub PrintSheets()
@@ -78,14 +75,6 @@ End Sub
 ```
 
 
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
-## See also
-
-
-[Application Object](Excel.Application(object).md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

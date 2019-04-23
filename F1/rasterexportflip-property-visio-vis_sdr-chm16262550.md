@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: dbdf1b60-903a-44da-a977-4f9133404350
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportFlip Property (Visio)](http://msdn.microsoft.com/library/1aa94fd4-7d2e-a2db-3291-c86ac4e22573%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

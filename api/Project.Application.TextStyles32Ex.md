@@ -1,5 +1,5 @@
 ---
-title: Application.TextStyles32Ex Method (Project)
+title: Application.TextStyles32Ex method (Project)
 keywords: vbapj.chm2150
 f1_keywords:
 - vbapj.chm2150
@@ -8,16 +8,17 @@ api_name:
 - Project.Application.TextStyles32Ex
 ms.assetid: 8e1ed2bb-dac4-42d7-616b-a67984dcffa4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TextStyles32Ex Method (Project)
+# Application.TextStyles32Ex method (Project)
 
 Sets the text styles for tasks and resources in the active view, where colors can be hexadecimal RGB values.
 
 ## Syntax
 
-_expression_. **TextStyles32Ex** (**_Item_**, **_Font_**, **_Size_**, **_Bold_**, **_Italic_**, **_Underline_**, **_Color_**, **_CellColor_**, **_Pattern_**)
+_expression_.**TextStyles32Ex** (**_Item_**, **_Font_**, **_Size_**, **_Bold_**, **_Italic_**, **_Underline_**, **_Color_**, **_CellColor_**, **_Pattern_**)
 
 _expression_ An expression that returns an **Application** object.
 
@@ -38,7 +39,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-#### If the Gantt Chart is active
+### If the Gantt Chart is active
 
 |||
 |:-----|:-----|
@@ -54,7 +55,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-#### If the Task Usage view is active
+### If the Task Usage view is active
 
 |||
 |:-----|:-----|
@@ -68,7 +69,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-#### If the Task Sheet is active
+### If the Task Sheet is active
 
 |||
 |:-----|:-----|
@@ -113,4 +114,4 @@ Using the **TextStyles32Ex** method without specifying any arguments displays th
 > [!NOTE]
 > If you use any of the **PjColor** enumeration constants for the _Color_ or _CellColor_ parameters, the color will be nearly black. For example, the value of pjGreen is 9, which in the **TextStyles32Ex** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[TextStylesEx](Project.Application.TextStylesEx.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

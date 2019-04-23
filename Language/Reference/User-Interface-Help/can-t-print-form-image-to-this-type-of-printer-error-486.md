@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 37a8fc76-1a70-e46e-6b4d-3339eba3fdb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You must have a graphics-capable printer to print a form image.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

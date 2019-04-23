@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasHiLoLines Property (Word)
+title: ChartGroup.HasHiLoLines property (Word)
 keywords: vbawd10.chm263454732
 f1_keywords:
 - vbawd10.chm263454732
@@ -8,19 +8,20 @@ api_name:
 - Word.ChartGroup.HasHiLoLines
 ms.assetid: 5713e885-9f36-6b6c-2622-a813cba2077b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.HasHiLoLines Property (Word)
+# ChartGroup.HasHiLoLines property (Word)
 
- **True** if the line chart has high-low lines. Read/write **Boolean** .
+ **True** if the line chart has high-low lines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasHiLoLines`
+_expression_.**HasHiLoLines**
 
- _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ This property applies only to line charts.
 
 ## Example
 
-The following example enables high-low lines for chart group one of the first chart in the active document and then sets line style, weight, and color. You should run the example on a 2-D line chart that has three series of stock-quote-like data (high-low-close).
+The following example enables high-low lines for chart group one of the first chart in the active document and then sets line style, weight, and color. You should run the example on a 2D line chart that has three series of stock-quote-like data (high-low-close).
 
 
 ```vb
@@ -55,3 +56,4 @@ End With
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

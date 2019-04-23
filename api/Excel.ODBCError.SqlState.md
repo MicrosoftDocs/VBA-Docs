@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCError.SqlState
 ms.assetid: 772a4e82-e661-5568-5fea-49a2925cb156
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCError.SqlState property (Excel)
 
-Returns the SQL state error. Read-only  **String** .
+Returns the SQL state error. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `SqlState`
+_expression_. `SqlState`
 
- _expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
+_expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
 
 
 ## Remarks
@@ -58,3 +59,4 @@ End With
 
 [ODBCError Object](Excel.ODBCError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

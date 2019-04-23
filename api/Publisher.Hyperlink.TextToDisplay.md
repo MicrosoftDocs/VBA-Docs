@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TextToDisplay Property (Publisher)
+title: Hyperlink.TextToDisplay property (Publisher)
 keywords: vbapb10.chm4587536
 f1_keywords:
 - vbapb10.chm4587536
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Hyperlink.TextToDisplay
 ms.assetid: 26b5857c-3f94-0d33-f65e-9c34f2a4cc2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.TextToDisplay Property (Publisher)
+# Hyperlink.TextToDisplay property (Publisher)
 
 Returns or sets a  **String** that represents the text displayed for a hyperlink. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextToDisplay**
+_expression_.**TextToDisplay**
 
  _expression_ A variable that represents a  **Hyperlink** object.
 
@@ -43,4 +44,4 @@ Sub SetHyperlinkTextToDisplay()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

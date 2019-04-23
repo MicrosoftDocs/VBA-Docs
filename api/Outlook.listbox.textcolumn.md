@@ -3,6 +3,7 @@ title: ListBox.TextColumn Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: ecdd6bc6-f50e-9b6d-3c99-c1e282b3444a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Variant** that identifies the column in a **[ListBox](Outlo
 
 ## Syntax
 
- _expression_. **TextColumn**
+_expression_.**TextColumn**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ When the user selects a row from a  **ComboBox** or **ListBox**, the column refe
 
 When the  **Text** property of a **ComboBox** **ComboBox** changes (such as when a user types an entry into the control), the new text is compared to the column of data specified by **TextColumn**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

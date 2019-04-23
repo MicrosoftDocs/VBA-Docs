@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Italic Property (Word)
+title: ChartFont.Italic property (Word)
 keywords: vbawd10.chm255918090
 f1_keywords:
 - vbawd10.chm255918090
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.Italic
 ms.assetid: 8e25a2dd-2ac1-83ec-c505-fdc23b0de7d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.Italic Property (Word)
+# ChartFont.Italic property (Word)
 
- **True** if the font style is italic. Read/write **Boolean** .
+ **True** if the font style is italic. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Italic`
+_expression_. `Italic`
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

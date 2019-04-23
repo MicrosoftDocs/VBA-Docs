@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6ec9efdf-b70b-ea2c-706c-e3916aa565ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The indirect or internet values specified exceed the internal limit of 252 chara
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ee601bd7-f1ee-452a-9b0f-9e8920bcbcdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.MouseUp Event (Visio)](http://msdn.microsoft.com/library/8ca78f5e-5287-0ef5-57ea-d7d116f45ff0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

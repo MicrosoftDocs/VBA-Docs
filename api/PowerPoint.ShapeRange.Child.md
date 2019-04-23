@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Child Property (PowerPoint)
+title: ShapeRange.Child property (PowerPoint)
 keywords: vbapp10.chm548075
 f1_keywords:
 - vbapp10.chm548075
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Child
 ms.assetid: 882bb89f-1a0c-4384-55cd-4399f4e840c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Child Property (PowerPoint)
+# ShapeRange.Child property (PowerPoint)
 
  **MsoTrue** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only.
 
 
 ## Syntax
 
- _expression_. `Child`
+_expression_. `Child`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **Child** property can be one of these **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The shape is not a child shape or, if a shape range, all child shapes do not belong to the same parent.|
 |**msoTrue**| The shape is a child shape or, if a shape range, all child shapes belong to the same parent.|
@@ -86,3 +87,4 @@ End Sub
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

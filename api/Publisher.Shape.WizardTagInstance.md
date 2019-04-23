@@ -1,5 +1,5 @@
 ---
-title: Shape.WizardTagInstance Property (Publisher)
+title: Shape.WizardTagInstance property (Publisher)
 keywords: vbapb10.chm2228339
 f1_keywords:
 - vbapb10.chm2228339
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.WizardTagInstance
 ms.assetid: 908d3f31-f277-7213-737e-9a946687bda7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.WizardTagInstance Property (Publisher)
+# Shape.WizardTagInstance property (Publisher)
 
 Returns or sets a  **Long** indicating the instance of the specified shape compared with other shapes having the same wizard tag. Read/write.
 
 
 ## Syntax
 
- _expression_. **WizardTagInstance**
+_expression_.**WizardTagInstance**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -46,4 +47,4 @@ For Each shpLoop In ActiveDocument.Pages(1).Shapes
 Next shpLoop
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

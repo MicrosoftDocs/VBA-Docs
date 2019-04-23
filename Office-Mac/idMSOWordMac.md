@@ -2,6 +2,7 @@
 title: idMSOs supported in Word for Mac
 ms.prod: office
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 # idMSOs supported in Word for Mac
 
@@ -728,14 +729,14 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |PictureArtisticEffectsGallery|gallery|
 |PictureArtisticEffectsReset|button|
 |PictureBackgroundRemoval|toggleButton|
-|PictureBrightnessAndContrastGallery|galler|
+|PictureBrightnessAndContrastGallery|gallery|
 |PictureBrightnessGallery|gallery|
 |PictureBulletsInsert|button|
 |PictureChange|button|
 |PictureColorDialog|button|
 |PictureColorMenu|menu|
 |PictureColorReset|button|
-|PictureColorTempertatureGallery|galler|
+|PictureColorTempertatureGallery|gallery|
 |PictureContrastGallery|gallery|
 |PictureCorrectionsDialog|button|
 |PictureCorrectionsMenu|menu|
@@ -763,18 +764,18 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |PictureFitCrop|button|
 |PictureInsertFromFile|button|
 |PicturePositionGallery|gallery|
-|PictureRecolorGallery|galler|
+|PictureRecolorGallery|gallery|
 |PictureRecolorMoreColorsDialog|button|
 |PictureReflectionGallery|gallery|
 |PictureReset|button|
 |PictureResetAndSize|button|
 |PictureResetSplitButton|splitButton|
 |PictureRotationGallery|gallery|
-|PictureSaturationGallery|galler|
+|PictureSaturationGallery|gallery|
 |PicturesCompress|button|
 |PictureSetTransparentColor|toggleButton|
 |PictureShapeGallery|gallery|
-|PictureSharpenSoftenGallery|galler|
+|PictureSharpenSoftenGallery|gallery|
 |PictureStylesGallery|gallery|
 |PictureTransparencyGallery|gallery|
 |PlayMacro|button|
@@ -1163,3 +1164,5 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |ZoomOnePage|button|
 |ZoomPageWidth|button|
 |ZoomTwoPages|button|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

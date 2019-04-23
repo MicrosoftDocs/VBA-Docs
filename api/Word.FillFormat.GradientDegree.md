@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientDegree Property (Word)
+title: FillFormat.GradientDegree property (Word)
 keywords: vbawd10.chm164102247
 f1_keywords:
 - vbawd10.chm164102247
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.GradientDegree
 ms.assetid: c9fba9b0-cfbb-4cf1-c416-5886c77098fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientDegree Property (Word)
+# FillFormat.GradientDegree property (Word)
 
-Returns a value that indicates how dark or light a one-color gradient fill is. Read-only  **Single** .
+Returns a value that indicates how dark or light a one-color gradient fill is. Read-only  **Single**.
 
 
 ## Syntax
 
- _expression_. `GradientDegree`
+_expression_. `GradientDegree`
 
  _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -56,3 +57,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

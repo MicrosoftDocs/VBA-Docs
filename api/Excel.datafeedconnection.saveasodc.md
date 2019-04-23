@@ -1,40 +1,38 @@
 ---
-title: DataFeedConnection.SaveAsODC Method (Excel)
+title: DataFeedConnection.SaveAsODC method (Excel)
 keywords: vbaxl10.chm928088
 f1_keywords:
 - vbaxl10.chm928088
 ms.prod: excel
 ms.assetid: e66ff66c-9b19-a479-0afa-4f7e307113ac
-ms.date: 06/08/2017
+ms.date: 03/28/2019
+localization_priority: Normal
 ---
 
 
-# DataFeedConnection.SaveAsODC Method (Excel)
+# DataFeedConnection.SaveAsODC method (Excel)
 
 Saves the data feed connection as a Microsoft Office Data Connection file.
 
 
 ## Syntax
 
- _expression_. `SaveAsODC`_(ODCFileName,_ _Description,_ _Keywords)_
+_expression_.**SaveAsODC** (_ODCFileName_, _Description_, _Keywords_)
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+_expression_ A variable that represents a **[DataFeedConnection](Excel.datafeedconnection.md)** object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ODCFileName_|Required|STRING|Location to save the file.|
-| _Description_|Optional|VARIANT|Description that will be saved in the file.|
-| _Keywords_|Optional|VARIANT|Space-separated keywords that can be used to search for this file.|
+| _ODCFileName_|Required|**String**|Location to save the file.|
+| _Description_|Optional|**Variant**|Description that will be saved in the file.|
+| _Keywords_|Optional|**Variant**|Space-separated keywords that can be used to search for this file.|
 
-### Example
+## Example
 
-The following example saves the connection as an ODC file titled "ODCFile". This example assumes data feed connection exists on the active worksheet. 
-
+The following example saves the connection as an ODC file titled ODCFile. This example assumes data feed connection exists on the active worksheet. 
 
 ```vb
 Sub UseSaveAsODC() 
@@ -47,12 +45,9 @@ End Sub
 
 ## Return value
 
- **VOID**
-
-
-## See also
+**VOID**
 
 
 
-[DataFeedConnection Object](Excel.datafeedconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Label.AutoSize Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 22634bb4-2434-d31a-cb2d-2bcd4e513677
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
 ## Syntax
 
- _expression_. **AutoSize**
+_expression_.**AutoSize**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ For controls with captions, the  **AutoSize** property specifies whether the con
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

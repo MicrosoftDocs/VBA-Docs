@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: b8842b50-4be8-c366-8978-8a6c97907e33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether a control takes the focus 
 
 ## Syntax
 
- _expression_. **TakeFocusOnClick**
+_expression_.**TakeFocusOnClick**
 
- _expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **TakeFocusOnClick** property defines only what happens when the user click
 
 Use this property to complete actions that affect a control without requiring that control to give up focus. For example, assume your form includes a  **[TextBox](Outlook.textbox.md)** and a **[CommandButton](Outlook.commandbutton.md)** that checks for correct spelling of text. You would like to be able to select text in the **TextBox**, then click the  **CommandButton** and run the spelling checker without taking focus away from the **TextBox**. You can do this by setting the  **TakeFocusOnClick** property of the **CommandButton** to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

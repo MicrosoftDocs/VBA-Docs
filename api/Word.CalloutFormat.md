@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (Word)
+title: CalloutFormat object (Word)
 keywords: vbawd10.chm2501
 f1_keywords:
 - vbawd10.chm2501
@@ -8,10 +8,11 @@ api_name:
 - Word.CalloutFormat
 ms.assetid: d54764e6-d761-582b-aa0a-baebd3a7cf6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat Object (Word)
+# CalloutFormat object (Word)
 
 Contains properties and methods that apply to line callouts.
 
@@ -35,6 +36,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

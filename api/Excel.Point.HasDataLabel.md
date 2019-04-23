@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.HasDataLabel
 ms.assetid: 924f70a0-fdeb-e155-c857-55e0dfb7ca60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Point.HasDataLabel property (Excel)
 
- **True** if the point has a data label. Read/write **Boolean** .
+ **True** if the point has a data label. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasDataLabel`
+_expression_. `HasDataLabel`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Example
@@ -42,3 +43,4 @@ End With
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

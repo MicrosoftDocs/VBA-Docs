@@ -1,5 +1,5 @@
 ---
-title: Application.ShowAddNewColumn Method (Project)
+title: Application.ShowAddNewColumn method (Project)
 keywords: vbapj.chm709
 f1_keywords:
 - vbapj.chm709
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ShowAddNewColumn
 ms.assetid: 2f13b46a-da46-453d-1165-f9a1d9b06377
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ShowAddNewColumn Method (Project)
+# Application.ShowAddNewColumn method (Project)
 
 Shows or hides the  **Add New Column** column at the right side of the active sheet view.
 
 
 ## Syntax
 
- _expression_. `ShowAddNewColumn`( ` _Show_` )
+_expression_. `ShowAddNewColumn`( `_Show_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -50,5 +51,5 @@ If a view uses a table, you can set individual views to show the  **Add New Colu
 3. In the  **Tables** drop-down list, open the **More Tables** dialog box, select the table, and then click **Edit**.
     
 4. Select or clear the  **Show 'Add New Column' interface** option in the **Table Definition** dialog box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

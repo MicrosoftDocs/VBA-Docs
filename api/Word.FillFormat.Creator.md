@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Creator Property (Word)
+title: FillFormat.Creator property (Word)
 keywords: vbawd10.chm164103145
 f1_keywords:
 - vbawd10.chm164103145
@@ -8,19 +8,20 @@ api_name:
 - Word.FillFormat.Creator
 ms.assetid: 1bb9d3ad-ab28-f109-f449-624c61be3746
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Creator Property (Word)
+# FillFormat.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

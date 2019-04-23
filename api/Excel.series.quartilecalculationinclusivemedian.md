@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: eda57981-1903-d1a8-1c53-80272191e077
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ ms.prod: excel
 
 ## Syntax
 
- _expression_. `QuartileCalculationInclusiveMedian`
+_expression_. `QuartileCalculationInclusiveMedian`
 
- _expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## See also
@@ -26,3 +27,4 @@ ms.prod: excel
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

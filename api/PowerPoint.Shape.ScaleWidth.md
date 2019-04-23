@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleWidth Method (PowerPoint)
+title: Shape.ScaleWidth method (PowerPoint)
 keywords: vbapp10.chm547011
 f1_keywords:
 - vbapp10.chm547011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.ScaleWidth
 ms.assetid: 2fc35ce6-62f5-7fa5-582d-26df91656a50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleWidth Method (PowerPoint)
+# Shape.ScaleWidth method (PowerPoint)
 
 Scales the width of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size. Shapes other than pictures and OLE objects are always scaled relative to their current width.
 
 
 ## Syntax
 
- _expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
+_expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -41,7 +42,7 @@ The  _RelativeToOriginalSize_ parameter value can be one of the following **MsoT
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Scales the shape relative to its current size. |
 |**msoTrue**| Scales the shape relative to its original size.|
@@ -57,7 +58,7 @@ The  _fScale_ parameter value can be one of the following **MsoScaleFrom** const
 
 ## Example
 
-This example scales all pictures and OLE objects on  `myDocument` to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
+This example scales all pictures and OLE objects on  _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
 ```vb
@@ -84,3 +85,4 @@ Next s
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

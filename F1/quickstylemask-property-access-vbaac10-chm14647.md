@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f589086d-fca9-4865-b06d-b2d5cec737d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.QuickStyleMask property (Access)](http://msdn.microsoft.com/library/d7a5e454-399b-090c-46d9-add8ad13ff0f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

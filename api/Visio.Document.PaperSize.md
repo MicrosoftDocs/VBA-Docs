@@ -1,5 +1,5 @@
 ---
-title: Document.PaperSize Property (Visio)
+title: Document.PaperSize property (Visio)
 keywords: vis_sdr.chm10514020
 f1_keywords:
 - vis_sdr.chm10514020
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.PaperSize
 ms.assetid: a51b3d26-e79e-d572-055f-fc1c4a94096e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PaperSize Property (Visio)
+# Document.PaperSize property (Visio)
 
 Gets or sets the paper size of a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `PaperSize`
+_expression_. `PaperSize`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -54,5 +55,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVDocument.PaperSize**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

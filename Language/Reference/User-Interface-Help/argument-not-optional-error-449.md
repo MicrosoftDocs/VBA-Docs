@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 04d08e66-7084-8c94-52b1-b471423846ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,8 +18,9 @@ The number and types of [arguments](../../Glossary/vbe-glossary.md#argument) mus
 
 - Incorrect number of arguments. Supply all necessary arguments. For example, the  **Left** function requires two arguments; the first representing the character string being operated on, and the second representing the number of characters to return from the left side of the string. Because neither argument is optional, both must be supplied.
     
-- Omitted argument isn't optional. An argument can only be omitted from a call to a user-defined [procedure](../../Glossary/vbe-glossary.md#procedure) if it was declared **Optional** in the procedure declaration. Either supply the argument in the call or declare the [parameter ](../../Glossary/vbe-glossary.md#parameter) **Optional** in the definition.
+- Omitted argument isn't optional. An argument can only be omitted from a call to a user-defined [procedure](../../Glossary/vbe-glossary.md#procedure) if it was declared **Optional** in the procedure declaration. Either supply the argument in the call or declare the [parameter](../../Glossary/vbe-glossary.md#parameter) **Optional** in the definition.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

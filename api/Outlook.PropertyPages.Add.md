@@ -1,5 +1,5 @@
 ---
-title: PropertyPages.Add Method (Outlook)
+title: PropertyPages.Add method (Outlook)
 keywords: vbaol11.chm167
 f1_keywords:
 - vbaol11.chm167
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyPages.Add
 ms.assetid: 85fd8b5e-7236-4cae-6d2d-5ff940ceb6a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyPages.Add Method (Outlook)
+# PropertyPages.Add method (Outlook)
 
 Adds a new custom property page to the Microsoft Outlook **Options** dialog box or to the folder **Properties** dialog box.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Page_` , `_Title_` )
+_expression_.**Add**( `_Page_` , `_Title_` )
 
- _expression_ A variable that represents a [PropertyPages](./Outlook.PropertyPages.md) object.
+_expression_ A variable that represents a [PropertyPages](Outlook.PropertyPages.md) object.
 
 
 ## Parameters
@@ -37,3 +38,4 @@ Adds a new custom property page to the Microsoft Outlook **Options** dialog box 
 
 [PropertyPages Object](Outlook.PropertyPages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

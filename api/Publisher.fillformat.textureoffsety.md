@@ -1,22 +1,23 @@
 ---
-title: FillFormat.TextureOffsetY Property (Publisher)
+title: FillFormat.TextureOffsetY property (Publisher)
 keywords: vbapb10.chm2359574
 f1_keywords:
 - vbapb10.chm2359574
 ms.prod: publisher
 ms.assetid: aa690d54-a4b1-5073-1957-13a638cf3e19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureOffsetY Property (Publisher)
+# FillFormat.TextureOffsetY property (Publisher)
 
 Returns or sets a  **Long** that specifies the vertical offset of the texture from the origin in points. Read/write.
 
 
 ## Syntax
 
- _expression_. **TextureOffsetY**
+_expression_.**TextureOffsetY**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -38,3 +39,4 @@ The setting of the  **TextureOffsetY** property corresponds to the setting of th
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

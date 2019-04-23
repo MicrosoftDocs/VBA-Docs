@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4b22818d-d9b2-4378-9e56-1f87548fafb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,8 +14,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Research Object (Word)](http://msdn.microsoft.com/library/454e1fd6-0e52-84df-7d15-04fda00b177b%28Office.15%29.aspx)
+[Research object (Word)](http://msdn.microsoft.com/library/454e1fd6-0e52-84df-7d15-04fda00b177b%28Office.15%29.aspx)
 
-[TaskPanes Object (Word)](http://msdn.microsoft.com/library/a560a41b-a1d7-175a-b475-af742c9fa1f8%28Office.15%29.aspx)
+[TaskPanes object (Word)](http://msdn.microsoft.com/library/a560a41b-a1d7-175a-b475-af742c9fa1f8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

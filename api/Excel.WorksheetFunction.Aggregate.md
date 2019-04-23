@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Aggregate Method (Excel)
+title: WorksheetFunction.Aggregate method (Excel)
 keywords: vbaxl10.chm137358
 f1_keywords:
 - vbaxl10.chm137358
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Aggregate
 ms.assetid: 261e51bf-44d4-900c-2a5d-c6612ec9f98c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Aggregate Method (Excel)
+# WorksheetFunction.Aggregate method (Excel)
 
 Returns an aggregate in a list or database.
 
 
 ## Syntax
 
- _expression_. `Aggregate`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` , `_Arg10_` , `_Arg11_` , `_Arg12_` , `_Arg13_` , `_Arg14_` , `_Arg15_` , `_Arg16_` , `_Arg17_` , `_Arg18_` , `_Arg19_` , `_Arg20_` , `_Arg21_` , `_Arg22_` , `_Arg23_` , `_Arg24_` , `_Arg25_` , `_Arg26_` , `_Arg27_` , `_Arg28_` , `_Arg29_` , `_Arg30_` )
+_expression_. `Aggregate`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` , `_Arg10_` , `_Arg11_` , `_Arg12_` , `_Arg13_` , `_Arg14_` , `_Arg15_` , `_Arg16_` , `_Arg17_` , `_Arg18_` , `_Arg19_` , `_Arg20_` , `_Arg21_` , `_Arg22_` , `_Arg23_` , `_Arg24_` , `_Arg25_` , `_Arg26_` , `_Arg27_` , `_Arg28_` , `_Arg29_` , `_Arg30_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -52,7 +53,7 @@ Double
 
 - If a second ref argument is required but not provided, AGGREGATE returns a #VALUE! error.
     
-- If one or more of the references are 3-D references, AGGREGATE returns the #VALUE! error value.
+- If one or more of the references are 3D references, AGGREGATE returns the #VALUE! error value.
     
 
 
@@ -62,3 +63,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

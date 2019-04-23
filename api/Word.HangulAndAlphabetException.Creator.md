@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetException.Creator Property (Word)
+title: HangulAndAlphabetException.Creator property (Word)
 keywords: vbawd10.chm164758505
 f1_keywords:
 - vbawd10.chm164758505
@@ -8,19 +8,20 @@ api_name:
 - Word.HangulAndAlphabetException.Creator
 ms.assetid: 77b08c7a-411d-d7d7-a4fa-57c750d3b848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HangulAndAlphabetException.Creator Property (Word)
+# HangulAndAlphabetException.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)' object.
+_expression_ Required. A variable that represents a '[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [HangulAndAlphabetException Object](Word.HangulAndAlphabetException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicatorDelete Method (Project)
+title: Application.CustomFieldIndicatorDelete method (Project)
 keywords: vbapj.chm39
 f1_keywords:
 - vbapj.chm39
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomFieldIndicatorDelete
 ms.assetid: 729eafe9-4d1a-07a6-efbc-ab0c94e3af59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicatorDelete Method (Project)
+# Application.CustomFieldIndicatorDelete method (Project)
 
 Removes a test condition from a custom field graphical indicator criteria list.
 
 
 ## Syntax
 
- _expression_. `CustomFieldIndicatorDelete`( ` _FieldID_`, ` _Index_`, ` _CriteriaList_` )
+_expression_. `CustomFieldIndicatorDelete`( `_FieldID_`, `_Index_`, `_CriteriaList_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -42,4 +43,4 @@ Removes a test condition from a custom field graphical indicator criteria list.
 
 The  **CustomFieldIndicatorDelete** method returns a trappable error (error code 1004) if the list specified by _CriteriaList_ is read-only because it has been set to inherit values from another list.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

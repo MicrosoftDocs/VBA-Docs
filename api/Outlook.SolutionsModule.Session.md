@@ -1,5 +1,5 @@
 ---
-title: SolutionsModule.Session Property (Outlook)
+title: SolutionsModule.Session property (Outlook)
 keywords: vbaol11.chm3362
 f1_keywords:
 - vbaol11.chm3362
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SolutionsModule.Session
 ms.assetid: 28a67ff1-1427-2852-cf00-1aeb926ba8dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SolutionsModule.Session Property (Outlook)
+# SolutionsModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
+_expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ Set objSession = Application.Session
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

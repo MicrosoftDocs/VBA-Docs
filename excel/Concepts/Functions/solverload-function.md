@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 01d02d97-f2cd-ba89-bfc0-50eab1ffce2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,4 +37,4 @@ SolverChange cellRef:=Range("F4:F6"), _
 SolverSolve userFinish:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

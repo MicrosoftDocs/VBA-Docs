@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.AddToEveryPage Method (Publisher)
+title: WebNavigationBarSet.AddToEveryPage method (Publisher)
 keywords: vbapb10.chm8519698
 f1_keywords:
 - vbapb10.chm8519698
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.AddToEveryPage
 ms.assetid: d36a3281-a313-084c-0ae9-7a981a7d9713
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.AddToEveryPage Method (Publisher)
+# WebNavigationBarSet.AddToEveryPage method (Publisher)
 
 Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the current document.
 
 
 ## Syntax
 
- _expression_. **AddToEveryPage**(**_Left_**,  **_Top_**,  **_Width_**)
+_expression_.**AddToEveryPage**(**_Left_**,  **_Top_**,  **_Width_**)
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -70,4 +71,4 @@ Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets.AddSet( _
 objWebNavBarSet.AddToEveryPage Left:=50, Top:=10, Width:=500
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

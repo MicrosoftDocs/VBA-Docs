@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 2a4a9549-0288-3b80-5bcb-f6c15416fb87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FullSeriesCollection.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
+_expression_ A variable that represents a **[FullSeriesCollection](Excel.fullseriescollection.md)** object.
 
 
 ## Remarks
@@ -31,9 +32,6 @@ Because the object was created in Microsoft Excel, this property returns the hex
  **XLCREATOR**
 
 
-## See also
 
 
-
-[FullSeriesCollection Object](Excel.fullseriescollection.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureAlignment Property (PowerPoint)
+title: FillFormat.TextureAlignment property (PowerPoint)
 keywords: vbapp10.chm552028
 f1_keywords:
 - vbapp10.chm552028
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.TextureAlignment
 ms.assetid: e26ca83c-7dc1-4c7b-52a4-3a30669079ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureAlignment Property (PowerPoint)
+# FillFormat.TextureAlignment property (PowerPoint)
 
 Returns or sets the alignment (the origin of the coordinate grid) for the tiling of the texture fill. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureAlignment`
+_expression_. `TextureAlignment`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -53,3 +54,4 @@ The setting of the  **TextureAlignment** property corresponds to the setting of 
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

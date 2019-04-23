@@ -1,5 +1,5 @@
 ---
-title: FillFormat.ForeColor Property (Word)
+title: FillFormat.ForeColor property (Word)
 keywords: vbawd10.chm164102245
 f1_keywords:
 - vbawd10.chm164102245
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.ForeColor
 ms.assetid: 23ee2f7e-12f4-fba4-8b8c-9d6d4debe526
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.ForeColor Property (Word)
+# FillFormat.ForeColor property (Word)
 
 Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the fill. Read/write.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
  _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -50,3 +51,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

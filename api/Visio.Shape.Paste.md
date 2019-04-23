@@ -1,5 +1,5 @@
 ---
-title: Shape.Paste Method (Visio)
+title: Shape.Paste method (Visio)
 keywords: vis_sdr.chm11216430
 f1_keywords:
 - vis_sdr.chm11216430
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Paste
 ms.assetid: ce5892be-b5e7-2ca0-7ee1-aa4e602641a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Paste Method (Visio)
+# Shape.Paste method (Visio)
 
 Pastes the contents of the Clipboard into an object.
 
 
 ## Syntax
 
- _expression_. `Paste`( `_Flags_` )
+_expression_.**Paste** (_Flags_)
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -40,11 +41,11 @@ Nothing
 
 The  **Paste** method works only with **Shape** objects that are group shapes. Use the **Type** property of a shape to determine whether it is a group.
 
-Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes** , and are described in the following table.
+Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes**, and are described in the following table.
 
 
 
-|**Flag**|**Value**|**Description**|
+|**Flag**|Value|Description|
 |:-----|:-----|:-----|
 | **visCopyPasteNormal**|&H0|Follow default copying behavior.|
 | **visCopyPasteNoTranslate**|&H1|Copy shapes to their original coordinate locations.|
@@ -59,4 +60,4 @@ Setting  _Flags_ to **visCopyPasteNormal** is the equivalent of the behavior in 
 
 If you need to control the format of the pasted information and (optionally) establish a link to a source file (for example, a Microsoft Word document), use the  **PasteSpecial** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

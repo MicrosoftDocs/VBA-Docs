@@ -1,5 +1,5 @@
 ---
-title: Document.FullBuildNumberCreated Property (Visio)
+title: Document.FullBuildNumberCreated property (Visio)
 keywords: vis_sdr.chm10551225
 f1_keywords:
 - vis_sdr.chm10551225
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.FullBuildNumberCreated
 ms.assetid: 3520525a-4c76-3583-49a6-015f2fb90366
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FullBuildNumberCreated Property (Visio)
+# Document.FullBuildNumberCreated property (Visio)
 
 Returns the full build number of the instance used to create the document. Read-only.
 
 
 ## Syntax
 
- _expression_. `FullBuildNumberCreated`
+_expression_. `FullBuildNumberCreated`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -93,4 +94,4 @@ Public Sub ParseFullBuildNumberCreatedProperty(ByRef lngFullBuild As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 820e338b-8b1d-4921-84aa-c60aad3d2d85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.TabIndex property (Access)](http://msdn.microsoft.com/library/f8b37846-6a65-6b39-9234-5cd77049c907%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

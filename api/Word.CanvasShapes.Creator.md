@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Creator Property (Word)
+title: CanvasShapes.Creator property (Word)
 keywords: vbawd10.chm7544641
 f1_keywords:
 - vbawd10.chm7544641
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.Creator
 ms.assetid: 940d02d5-57b1-50da-7a3f-4ca734024fee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.Creator Property (Word)
+# CanvasShapes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

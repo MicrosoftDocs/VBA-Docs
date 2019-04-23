@@ -1,5 +1,5 @@
 ---
-title: Shapes.Creator Property (Word)
+title: Shapes.Creator property (Word)
 keywords: vbawd10.chm161423169
 f1_keywords:
 - vbawd10.chm161423169
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.Creator
 ms.assetid: 6eb44108-1323-ee89-6ffe-27aa0c6c7213
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Creator Property (Word)
+# Shapes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

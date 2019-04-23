@@ -8,6 +8,7 @@ api_name:
 - Excel.SortFields.Item
 ms.assetid: 34500abd-7603-09ae-140b-111ac3aeb000
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **SortField** object that represents a collection of items that can b
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [SortFields](./Excel.SortFields.md) object.
+_expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a  **SortField** object that represents a collection of items that can b
 
 [SortFields Object](Excel.SortFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

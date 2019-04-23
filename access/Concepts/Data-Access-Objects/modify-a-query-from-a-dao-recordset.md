@@ -3,6 +3,7 @@ title: Modify a query from a DAO Recordset
 ms.prod: access
 ms.assetid: b5679ca8-9bcd-2d28-15af-2640db727dd4
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -94,4 +95,4 @@ End Sub
 > [!NOTE] 
 > To use the **Requery** method, the **[Restartable](../../../api/overview/Access.md)** property of the **Recordset** object must be set to **True**. The **Restartable** property is always set to **True** when the **Recordset** is created from a query other than a crosstab query against tables in an Access database. You cannot restart SQL pass-through queries. You may or may not be able to restart queries against linked tables in another database format. To determine whether a **Recordset** object can rerun its query, check the **Restartable** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

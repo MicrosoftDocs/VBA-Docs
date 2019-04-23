@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.MeetingStatus Property (Outlook)
+title: AppointmentItem.MeetingStatus property (Outlook)
 keywords: vbaol11.chm883
 f1_keywords:
 - vbaol11.chm883
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.MeetingStatus
 ms.assetid: cfd970cd-df6c-4537-0a17-b5adab3b667f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.MeetingStatus Property (Outlook)
+# AppointmentItem.MeetingStatus property (Outlook)
 
 Returns or sets an  **[OlMeetingStatus](Outlook.OlMeetingStatus.md)** constant specifying the meeting status of the appointment. Read/write.
 
 
 ## Syntax
 
- _expression_. `MeetingStatus`
+_expression_. `MeetingStatus`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -77,3 +78,4 @@ End Sub
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

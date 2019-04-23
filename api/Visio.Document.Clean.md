@@ -1,5 +1,5 @@
 ---
-title: Document.Clean Method (Visio)
+title: Document.Clean method (Visio)
 keywords: vis_sdr.chm10552040
 f1_keywords:
 - vis_sdr.chm10552040
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Clean
 ms.assetid: 5fd5c6a6-1914-b29d-c0ae-0e5374d13a8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Clean Method (Visio)
+# Document.Clean method (Visio)
 
 Examines, reports, and repairs selected conditions in a document.
 
 
 ## Syntax
 
- _expression_. `Clean`( `_nTargets_` , `_nActions_` , `_nAlerts_` , `_nFixes_` , `_bStopOnError_` , `_bLogFileName_` , `_nReserved_` )
+_expression_. `Clean`( `_nTargets_` , `_nActions_` , `_nAlerts_` , `_nFixes_` , `_bStopOnError_` , `_bLogFileName_` , `_nReserved_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -54,7 +55,7 @@ The  _nTargets_ argument can be any combination of the values of the constants d
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocCleanTargAll**|&HFF|Examine all objects (default for  _nTargets_ ).|
 | **visDocCleanTargFPages**|&H1|Examine foreground pages.|
@@ -116,4 +117,4 @@ End Sub
 
 Alerts appear on the drawing page asking whether you want to remove the unneeded local override. If you click  **Yes** and then reopen the ShapeSheet window, you can see that the color of the value in the LinePattern cell is once again black, indicating that the inherited value has been restored.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

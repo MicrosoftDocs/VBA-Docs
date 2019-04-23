@@ -1,5 +1,5 @@
 ---
-title: HasHiLoLines Property
+title: HasHiLoLines property (Excel Graph)
 keywords: vbagr10.chm5207483
 f1_keywords:
 - vbagr10.chm5207483
@@ -7,19 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.HasHiLoLines
 ms.assetid: 57018e82-acf1-039f-3fa5-d2319385c3d5
-ms.date: 06/08/2017
+ms.date: 04/11/2019
+localization_priority: Normal
 ---
 
 
-# HasHiLoLines Property
+# HasHiLoLines property (Excel Graph)
 
- **True** if the line chart has high-low lines. Applies only to line charts. Read/write **Boolean**.
+**True** if the line chart has high-low lines. Applies only to line charts. Read/write **Boolean**.
 
+## Syntax
+
+_expression_.**HasHiLoLines**
+
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 
-This example turns on high-low lines for chart group one and then sets line style, weight, and color. The example should be run on a 2-D line chart that has three series of stock-quote-like data (high-low-close).
-
+This example turns on high-low lines for chart group one and then sets line style, weight, and color. The example should be run on a 2D line chart that has three series of stock-quote-like data (high-low-close).
 
 ```vb
 With myChart.ChartGroups(1) 
@@ -32,4 +37,4 @@ With myChart.ChartGroups(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

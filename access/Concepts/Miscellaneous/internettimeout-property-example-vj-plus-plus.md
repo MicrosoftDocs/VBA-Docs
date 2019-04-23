@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 7c09cd0b-b418-936f-766a-4cc14eea8e0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -88,3 +89,5 @@ System.out.println("\tDescription = " + je.getMessage() + "\n");}
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

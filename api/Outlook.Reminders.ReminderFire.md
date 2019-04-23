@@ -1,5 +1,5 @@
 ---
-title: Reminders.ReminderFire Event (Outlook)
+title: Reminders.ReminderFire event (Outlook)
 keywords: vbaol11.chm578
 f1_keywords:
 - vbaol11.chm578
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Reminders.ReminderFire
 ms.assetid: 73a3f825-8aef-95b8-00c5-74e19daed84a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminders.ReminderFire Event (Outlook)
+# Reminders.ReminderFire event (Outlook)
 
 Occurs before the reminder is executed.
 
 
 ## Syntax
 
- _expression_. `ReminderFire`( `_ReminderObject_` )
+_expression_. `ReminderFire`( `_ReminderObject_` )
 
- _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
+_expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ End Sub
 
 [Reminders Object](Outlook.Reminders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

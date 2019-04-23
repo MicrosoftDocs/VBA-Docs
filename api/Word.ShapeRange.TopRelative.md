@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TopRelative Property (Word)
+title: ShapeRange.TopRelative property (Word)
 keywords: vbawd10.chm162857161
 f1_keywords:
 - vbawd10.chm162857161
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.TopRelative
 ms.assetid: 6162d05b-0610-7a6b-0224-7bd6f658276b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.TopRelative Property (Word)
+# ShapeRange.TopRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative top position of a range of shapes. Read/write.
 
 
 ## Syntax
 
- _expression_. `TopRelative`
+_expression_. `TopRelative`
 
- _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
+ _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Use this property with the  **[RelativeVerticalPosition](Word.ShapeRange.Relativ
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

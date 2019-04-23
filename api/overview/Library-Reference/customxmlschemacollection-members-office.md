@@ -2,7 +2,8 @@
 title: CustomXMLSchemaCollection members (Office)
 ms.prod: office
 ms.assetid: 68e492da-a554-0cf3-beec-78619036348d
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents a collection of **CustomXMLSchema** objects attached to a data stream
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLSchemaCollection.Add.md)|Allows you to add one or more schemas to a schema collection that can then be added to a stream in the data store and to the Schema Library. |
 |[AddCollection](../../Office.CustomXMLSchemaCollection.AddCollection.md)|Adds an existing schema collection to the current schema collection. |
@@ -22,7 +23,7 @@ Represents a collection of **CustomXMLSchema** objects attached to a data stream
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLSchemaCollection.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.|
 |[Count](../../Office.CustomXMLSchemaCollection.Count.md)|Gets a **Long** indicating the number of items in the **CustomXMLSchemaCollection** collection. Read-only.|
@@ -31,3 +32,4 @@ Represents a collection of **CustomXMLSchema** objects attached to a data stream
 |[NamespaceURI](../../Office.CustomXMLSchemaCollection.NamespaceURI.md)|Gets the unique address identifier for the namespace of the **CustomXMLSchemaCollection** object. Read-only.|
 |[Parent](../../Office.CustomXMLSchemaCollection.Parent.md)|Gets the **Parent** object for the **CustomXMLSchemaCollection** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

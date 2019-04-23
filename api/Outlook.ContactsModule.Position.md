@@ -1,5 +1,5 @@
 ---
-title: ContactsModule.Position Property (Outlook)
+title: ContactsModule.Position property (Outlook)
 keywords: vbaol11.chm2838
 f1_keywords:
 - vbaol11.chm2838
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactsModule.Position
 ms.assetid: 2e71509d-1e6a-f736-2560-40c1de67711c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactsModule.Position Property (Outlook)
+# ContactsModule.Position property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[ContactsModule](Outlook.ContactsModule.md)** object when it is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[ContactsModule](Outlook.ContactsModule.md)** object when it is displayed in the navigation pane. Read/write.
 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
+_expression_ A variable that represents a [ContactsModule](Outlook.ContactsModule.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ Changing the value of this property for a given  **ContactsModule** object chang
 
 [ContactsModule Object](Outlook.ContactsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

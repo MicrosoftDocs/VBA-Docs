@@ -1,5 +1,5 @@
 ---
-title: Browser Object (Word)
+title: Browser object (Word)
 keywords: vbawd10.chm2350
 f1_keywords:
 - vbawd10.chm2350
@@ -8,10 +8,11 @@ api_name:
 - Word.Browser
 ms.assetid: 447bcab6-cfb2-77b0-9bbd-35e774417a60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Browser Object (Word)
+# Browser object (Word)
 
 Represents the browser tool used to move the insertion point to objects in a document. This tool is composed of the three buttons at the bottom of the vertical scroll bar.
 
@@ -48,5 +49,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

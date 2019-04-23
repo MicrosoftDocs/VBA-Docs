@@ -1,5 +1,5 @@
 ---
-title: Document.EndReview Method (Word)
+title: Document.EndReview method (Word)
 keywords: vbawd10.chm158007652
 f1_keywords:
 - vbawd10.chm158007652
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.EndReview
 ms.assetid: bf53cefd-98e9-7e1a-016e-abd0c16e8bcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.EndReview Method (Word)
+# Document.EndReview method (Word)
 
-Terminates a review of a file that has been sent for review using the  **[SendForReview](Word.Document.SendForReview.md)** method or that has been automatically placed in a review cycle by sending a document to another user in an e-mail message.
+Terminates a review of a file that has been sent for review using the  **[SendForReview](Word.Document.SendForReview.md)** method or that has been automatically placed in a review cycle by sending a document to another user in an email message.
 
 
 ## Syntax
 
- _expression_. `EndReview`
+_expression_. `EndReview`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.ItemLayout
 ms.assetid: 5e90c2fb-cc1a-48fb-d3c3-914c89737c74
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.ItemLayout property (Access)
 
-Returns or sets an  **[AcPrintItemLayout](Access.AcPrintItemLayout.md)** constant indicating whether the printer lays columns across, then down, or down, then across. Read/write.
+Returns or sets an **[AcPrintItemLayout](Access.AcPrintItemLayout.md)** constant indicating whether the printer lays columns across, then down, or down, then across. Read/write.
 
 
 ## Syntax
 
-_expression_. `ItemLayout`
+_expression_.**ItemLayout**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -69,8 +69,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Addons Property (Visio)
+title: InvisibleApp.Addons property (Visio)
 keywords: vis_sdr.chm17513060
 f1_keywords:
 - vis_sdr.chm17513060
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.Addons
 ms.assetid: a0f1039c-595a-18cf-1484-842069db677f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.Addons Property (Visio)
+# InvisibleApp.Addons property (Visio)
 
 Returns the  **Addons** collection of an **Application** or **InvisibleApp** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Addons`
+_expression_. `Addons`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -56,4 +57,4 @@ Public Sub Addons_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

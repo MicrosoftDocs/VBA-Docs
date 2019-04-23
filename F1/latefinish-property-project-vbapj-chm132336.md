@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f23ec497-156d-44eb-8412-6c1f237c2676
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewSingle.HighlightFilter Property (Project)](http://msdn.microsoft.com/library/0288340c-69b9-de45-2303-ed4b8632eeff%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

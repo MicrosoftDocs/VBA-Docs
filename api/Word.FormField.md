@@ -1,5 +1,5 @@
 ---
-title: FormField Object (Word)
+title: FormField object (Word)
 keywords: vbawd10.chm2344
 f1_keywords:
 - vbawd10.chm2344
@@ -8,10 +8,11 @@ api_name:
 - Word.FormField
 ms.assetid: c3c07344-06b2-fe86-6fcb-b9c63a991bcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormField Object (Word)
+# FormField object (Word)
 
 Represents a single form field. The  **FormField** object is a member of the **FormFields** collection.
 
@@ -48,7 +49,7 @@ Set ffield = ActiveDocument.FormFields.Add( _
 ffield.CheckBox.Value = True
 ```
 
-Use the  **CheckBox** , **DropDown** , and **TextInput** properties with the **FormField** object to return the **CheckDown** , **DropDown** , and **TextInput** objects. The following example selects the check box named "Check1."
+Use the  **CheckBox**, **DropDown**, and **TextInput** properties with the **FormField** object to return the **CheckDown**, **DropDown**, and **TextInput** objects. The following example selects the check box named "Check1."
 
 
 
@@ -62,5 +63,6 @@ ActiveDocument.FormFields("Check1").CheckBox.Value = True
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

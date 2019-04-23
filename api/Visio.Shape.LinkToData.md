@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkToData Method (Visio)
+title: Shape.LinkToData method (Visio)
 keywords: vis_sdr.chm11260190
 f1_keywords:
 - vis_sdr.chm11260190
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shape.LinkToData
 ms.assetid: 75dd1543-e643-0c7d-a89a-f0dd09d6d323
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LinkToData Method (Visio)
+# Shape.LinkToData method (Visio)
 
 Links a shape to a data row in a data recordset.
 
@@ -21,7 +22,7 @@ Links a shape to a data row in a data recordset.
 
 ## Syntax
 
- _expression_. `LinkToData`( `_DataRecordsetID_` , `_RowID_` , `_AutoApplyDataGraphics_` )
+_expression_. `LinkToData`( `_DataRecordsetID_` , `_RowID_` , `_AutoApplyDataGraphics_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
@@ -43,7 +44,7 @@ Nothing
 
 ## Remarks
 
-The  **Shape.LinkToData** method functions much like the same method of the **Selection** object, **[Selection.LinkToData](Visio.Selection.LinkToData.md)** , except that it links a single shape, instead of a selection of shapes, to a single data row.
+The  **Shape.LinkToData** method functions much like the same method of the **Selection** object, **[Selection.LinkToData](Visio.Selection.LinkToData.md)**, except that it links a single shape, instead of a selection of shapes, to a single data row.
 
 If you pass  **True** for the AutoApplyDataGraphics parameter, Microsoft Visio re-applies the existing data graphic to a shape if it already had a data graphic applied before you called the method. For a shape that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
 
@@ -74,4 +75,4 @@ Public Sub LinkToData_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

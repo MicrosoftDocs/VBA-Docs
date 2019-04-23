@@ -1,21 +1,22 @@
 ---
-title: Project.Index Property (Project)
+title: Project.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.Index
 ms.assetid: 1213f55b-aca0-76ee-2e8a-2442a2c576e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.Index Property (Project)
+# Project.Index property (Project)
 
 Gets the index of a  **Project** object in the containing **Projects** collection. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -42,4 +43,4 @@ Sub ActivateSameWindowInNextProject()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

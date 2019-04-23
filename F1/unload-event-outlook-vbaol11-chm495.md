@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 54bb1194-26f1-4419-a449-17bc28530d4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ReportItem.Unload Event (Outlook)](http://msdn.microsoft.com/library/934c4793-0809-65dc-4805-de28a54634cf%28Office.15%29.aspx)
 [ContactItem.Unload Event (Outlook)](http://msdn.microsoft.com/library/16a3d7ce-0843-5eb5-bbea-df6557ceda05%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Access.AcFileFormat
 ms.assetid: a43a2587-a562-838c-28f6-cf20f02ec4b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies the Microsoft Access file format to use when converting an Access file.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -26,3 +27,4 @@ Specifies the Microsoft Access file format to use when converting an Access file
 |**acFileFormatAccess95**|7|Microsoft Access 95 format|
 |**acFileFormatAccess97**|8|Microsoft Access 97 format|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

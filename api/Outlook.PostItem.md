@@ -1,5 +1,5 @@
 ---
-title: PostItem Object (Outlook)
+title: PostItem object (Outlook)
 keywords: vbaol11.chm3005
 f1_keywords:
 - vbaol11.chm3005
@@ -8,10 +8,11 @@ api_name:
 - Outlook.PostItem
 ms.assetid: de44065d-4e93-315a-279f-7b92f09c0465
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem Object (Outlook)
+# PostItem object (Outlook)
 
 Represents a post in a public folder that others may browse.
 
@@ -22,7 +23,7 @@ Unlike a  **[MailItem](Outlook.MailItem.md)** object, a **PostItem** object is n
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** or **[CreateItemFromTemplate](Outlook.Application.CreateItemFromTemplate.md)** method to create a **PostItem** object that represents a new post.
 
-Use  **[Items](Outlook.Items.md)** ( _index_ ), where _index_ is the index number of a post or a value used to match the default property of a post, to return a single **PostItem** object from a public folder.
+Use  **[Items](Outlook.Items.md)** (_index_), where _index_ is the index number of a post or a value used to match the default property of a post, to return a single **PostItem** object from a public folder.
 
 
 ## Example
@@ -39,7 +40,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.PostItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.PostItem.AttachmentAdd.md)|
@@ -72,7 +73,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearConversationIndex](Outlook.PostItem.ClearConversationIndex.md)|
 |[ClearTaskFlag](Outlook.PostItem.ClearTaskFlag.md)|
@@ -95,7 +96,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.PostItem.Actions.md)|
 |[Application](Outlook.PostItem.Application.md)|
@@ -159,4 +160,6 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

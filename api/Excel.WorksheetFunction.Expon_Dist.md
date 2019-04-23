@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Expon_Dist Method (Excel)
+title: WorksheetFunction.Expon_Dist method (Excel)
 keywords: vbaxl10.chm137365
 f1_keywords:
 - vbaxl10.chm137365
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Expon_Dist
 ms.assetid: 19627dab-1c33-2348-389e-18a76604b237
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Expon_Dist Method (Excel)
+# WorksheetFunction.Expon_Dist method (Excel)
 
 Returns the exponential distribution. Use EXPON_DIST to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use EXPON_DIST to determine the probability that the process takes at most 1 minute.
 
 
 ## Syntax
 
- _expression_. `Expon_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Expon_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

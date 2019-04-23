@@ -1,14 +1,15 @@
 ---
-title: WdLineWidth Enumeration (Word)
+title: WdLineWidth enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineWidth
 ms.assetid: 381fe8ec-9a93-d3d9-360d-efc507e3f7c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdLineWidth Enumeration (Word)
+# WdLineWidth enumeration (Word)
 
 Specifies the width of an object's border.
 
@@ -26,3 +27,4 @@ Specifies the width of an object's border.
 | **wdLineWidth450pt**|36|4.50 points.|
 | **wdLineWidth600pt**|48|6.00 points.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

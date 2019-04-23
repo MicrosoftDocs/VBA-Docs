@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5f8f58ca-9e96-4df4-04f7-90c27d88aba8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ You tried to use an INSERT INTO statement with the specified field name, but tha
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

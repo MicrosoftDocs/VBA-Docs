@@ -3,6 +3,7 @@ title: Create an HTML File with a Table of Contents based on Cell Data
 ms.prod: excel
 ms.assetid: 06cc875a-22dc-4d83-86e3-99fa142f2426
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -99,6 +100,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
+Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

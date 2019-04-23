@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (PowerPoint)
+title: Chart.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm67458
 f1_keywords:
 - vbapp10.chm67458
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.ApplyDataLabels
 ms.assetid: 9d712577-82cc-5d8d-69d1-f5fbaf02c820
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ApplyDataLabels Method (PowerPoint)
+# Chart.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to all the series in a chart.
 
 
 ## Syntax
 
- _expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
+_expression_. `ApplyDataLabels`( `_Type_`, `_LegendKey_`, `_AutoText_`, `_HasLeaderLines_`, `_ShowSeriesName_`, `_ShowCategoryName_`, `_ShowValue_`, `_ShowPercentage_`, `_ShowBubbleSize_`, `_Separator_` )
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -42,7 +43,7 @@ Applies data labels to all the series in a chart.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following  **xlDataLabelsType** constants:
 
 
 -  **xlDataLabelsShowBubbleSizes** ?The bubble size for the data label.
@@ -88,3 +89,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

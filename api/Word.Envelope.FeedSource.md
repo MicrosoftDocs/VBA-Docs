@@ -1,5 +1,5 @@
 ---
-title: Envelope.FeedSource Property (Word)
+title: Envelope.FeedSource property (Word)
 keywords: vbawd10.chm152567820
 f1_keywords:
 - vbawd10.chm152567820
@@ -8,19 +8,20 @@ api_name:
 - Word.Envelope.FeedSource
 ms.assetid: c6794e83-8136-7e50-fa82-819d4d6d6f8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.FeedSource Property (Word)
+# Envelope.FeedSource property (Word)
 
-Returns or sets the paper tray for the envelope. Read/write  **WdPaperTray** .
+Returns or sets the paper tray for the envelope. Read/write  **WdPaperTray**.
 
 
 ## Syntax
 
- _expression_. `FeedSource`
+_expression_. `FeedSource`
 
- _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Example
@@ -56,3 +57,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

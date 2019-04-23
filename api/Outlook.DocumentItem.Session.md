@@ -1,5 +1,5 @@
 ---
-title: DocumentItem.Session Property (Outlook)
+title: DocumentItem.Session property (Outlook)
 keywords: vbaol11.chm1181
 f1_keywords:
 - vbaol11.chm1181
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DocumentItem.Session
 ms.assetid: 40c7d5d6-2efd-f946-bc2b-273209c6c896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentItem.Session Property (Outlook)
+# DocumentItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

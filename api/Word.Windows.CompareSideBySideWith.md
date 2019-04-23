@@ -1,5 +1,5 @@
 ---
-title: Windows.CompareSideBySideWith Method (Word)
+title: Windows.CompareSideBySideWith method (Word)
 keywords: vbawd10.chm157351948
 f1_keywords:
 - vbawd10.chm157351948
@@ -8,19 +8,20 @@ api_name:
 - Word.Windows.CompareSideBySideWith
 ms.assetid: 522c75b2-460a-460f-93ef-71cc84973d2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows.CompareSideBySideWith Method (Word)
+# Windows.CompareSideBySideWith method (Word)
 
-Opens two windows in side by side mode. Returns a **Boolean** .
+Opens two windows in side by side mode. Returns a **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CompareSideBySideWith`( `_Document_` )
+_expression_. `CompareSideBySideWith`( `_Document_` )
 
- _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
+_expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ Windows.ResetPositionsSideBySide
 
 [Windows Collection Object](Word.windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

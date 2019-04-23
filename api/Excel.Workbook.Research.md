@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Research
 ms.assetid: 3a7ba740-314b-664b-3be6-1e8cdeded234
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Research** object that represents the research service for a workbo
 
 ## Syntax
 
- _expression_. `Research`
+_expression_. `Research`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Research** object that represents the research service for a workbo
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

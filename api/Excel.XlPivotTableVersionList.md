@@ -1,14 +1,15 @@
 ---
-title: xlPivotTableVersionList enumeration (Excel)
+title: XlPivotTableVersionList enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotTableVersionList
 ms.assetid: a9b1ea64-53a1-0fd5-208e-b609b31c1c64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlPivotTableVersionList enumeration (Excel)
+# XlPivotTableVersionList enumeration (Excel)
 
 Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with a specific version ensures that tables created in Excel behave in the same manner as they did in the corresponding version of Excel.
 
@@ -29,4 +30,4 @@ Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with
 
  **Note**   _xlPivotTableVersionCurrent_ is included only for backward compatibility reasons. It cannot be used with new **PivotCache** and **PivotTable** objects. There are no differences in behavior between _xlPivotTableVersion11_ and _xlPivotTableVersion10_ .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

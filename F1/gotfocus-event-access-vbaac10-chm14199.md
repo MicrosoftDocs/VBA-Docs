@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 26c3eec4-1086-48c5-af7c-471f07710fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.GotFocus event (Access)](http://msdn.microsoft.com/library/bc5d12a2-476b-a91d-2ad4-cdd6f46dd44c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

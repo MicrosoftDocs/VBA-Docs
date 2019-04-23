@@ -1,5 +1,5 @@
 ---
-title: Shape.Text Property (Visio)
+title: Shape.Text property (Visio)
 keywords: vis_sdr.chm11251175
 f1_keywords:
 - vis_sdr.chm11251175
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Text
 ms.assetid: 5c002c5d-f5ce-7f89-d799-4fc6ccb1a1f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Text Property (Visio)
+# Shape.Text property (Visio)
 
 Returns all of the shape's text. Read/write.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -91,4 +92,4 @@ Public Sub ShapeText_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

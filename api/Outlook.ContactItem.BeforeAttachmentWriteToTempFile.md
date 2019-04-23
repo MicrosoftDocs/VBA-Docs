@@ -1,23 +1,24 @@
 ---
-title: ContactItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+title: ContactItem.BeforeAttachmentWriteToTempFile event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentWriteToTempFile
 ms.assetid: d6e84398-10ca-53fc-8576-102ae8d8971f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.BeforeAttachmentWriteToTempFile Event (Outlook)
+# ContactItem.BeforeAttachmentWriteToTempFile event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

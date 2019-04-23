@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElement.Font
 ms.assetid: da95a6b8-5ee0-df95-0624-f272da27109d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
- _expression_ A variable that represents a [TableStyleElement](./Excel.TableStyleElement.md) object.
+_expression_ A variable that represents a [TableStyleElement](Excel.TableStyleElement.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 [TableStyleElement Object](Excel.TableStyleElement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

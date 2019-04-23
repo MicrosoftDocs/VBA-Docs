@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 884d1f65-60d7-66f3-f404-d7b0b996c46a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ This error occurs when trying to create a view through SQL DDL. The error occurs
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

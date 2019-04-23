@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Standardize Method (Excel)
+title: WorksheetFunction.Standardize method (Excel)
 keywords: vbaxl10.chm137201
 f1_keywords:
 - vbaxl10.chm137201
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Standardize
 ms.assetid: b268e2f8-e206-37a6-93a1-fdff7b88d4db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Standardize Method (Excel)
+# WorksheetFunction.Standardize method (Excel)
 
 Returns a normalized value from a distribution characterized by mean and standard_dev.
 
 
 ## Syntax
 
- _expression_. `Standardize`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Standardize`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

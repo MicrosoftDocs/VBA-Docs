@@ -1,14 +1,15 @@
 ---
-title: Application.DocumentSavedAs Event (Visio)
+title: Application.DocumentSavedAs event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.DocumentSavedAs
 ms.assetid: f03e5fe2-04da-8324-fc0a-be16daf3ad30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DocumentSavedAs Event (Visio)
+# Application.DocumentSavedAs event (Visio)
 
 Occurs after a document is saved by using the  **Save As** command.
 
@@ -53,4 +54,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 If you are handling this event from a program that receives a notification over a connection created by using the  **AddAdvise** method, the _varMoreInfo_ argument to **VisEventProc** designates the document index: "/doc=1".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

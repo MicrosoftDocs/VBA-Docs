@@ -1,5 +1,5 @@
 ---
-title: Range.PasteAsNestedTable Method (Word)
+title: Range.PasteAsNestedTable method (Word)
 keywords: vbawd10.chm157155550
 f1_keywords:
 - vbawd10.chm157155550
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.PasteAsNestedTable
 ms.assetid: 8d7a3fc6-5fc2-9cbc-d551-b4606af54619
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.PasteAsNestedTable Method (Word)
+# Range.PasteAsNestedTable method (Word)
 
 Pastes a cell or group of cells as a nested table into the selected range.
 
 
 ## Syntax
 
- _expression_. `PasteAsNestedTable`
+_expression_. `PasteAsNestedTable`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).Rows(1).Cells(3).Range _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

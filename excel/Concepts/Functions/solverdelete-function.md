@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 08d285ef-7c11-2429-3d91-61c75c515c72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -47,4 +48,4 @@ SolverDelete cellRef:=Range("C4:E6"), _
 SolverSolve userFinish:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

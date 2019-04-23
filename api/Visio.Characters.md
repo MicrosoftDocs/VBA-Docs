@@ -1,5 +1,5 @@
 ---
-title: Characters Object (Visio)
+title: Characters object (Visio)
 keywords: vis_sdr.chm10050
 f1_keywords:
 - vis_sdr.chm10050
@@ -8,10 +8,11 @@ api_name:
 - Visio.Characters
 ms.assetid: aaff009b-c665-c2ea-8494-e917126d8491
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters Object (Visio)
+# Characters object (Visio)
 
 Represents a shape's text with the text fields expanded to the number of characters they display in a drawing window.
 
@@ -36,7 +37,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[TextChanged](./Visio.Characters.TextChanged.md)|
 
@@ -44,7 +45,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCustomField](./Visio.Characters.AddCustomField.md)|
 |[AddCustomFieldU](./Visio.Characters.AddCustomFieldU.md)|
@@ -59,7 +60,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Characters.Application.md)|
 |[Begin](./Visio.Characters.Begin.md)|
@@ -88,3 +89,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[TabPropsRow](./Visio.Characters.TabPropsRow.md)|
 |[Text](./Visio.Characters.Text.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

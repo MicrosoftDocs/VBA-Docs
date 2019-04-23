@@ -1,5 +1,5 @@
 ---
-title: Project.HourLabelDisplay Property (Project)
+title: Project.HourLabelDisplay property (Project)
 keywords: vbapj.chm132338
 f1_keywords:
 - vbapj.chm132338
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.HourLabelDisplay
 ms.assetid: 6dc5f65b-d509-5d4a-a550-52c92b43534e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.HourLabelDisplay Property (Project)
+# Project.HourLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "hour" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `HourLabelDisplay`
+_expression_. `HourLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -29,4 +30,4 @@ The  **HourLabelDisplay** property corresponds to the **Hours** list on the **Ad
 
 Values of the  **HourLabelDisplay** property can be 0 to 2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

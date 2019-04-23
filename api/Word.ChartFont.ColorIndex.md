@@ -1,5 +1,5 @@
 ---
-title: ChartFont.ColorIndex Property (Word)
+title: ChartFont.ColorIndex property (Word)
 keywords: vbawd10.chm255918086
 f1_keywords:
 - vbawd10.chm255918086
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.ColorIndex
 ms.assetid: 50f2415c-ff1f-cc16-371f-24f29373f96d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.ColorIndex Property (Word)
+# ChartFont.ColorIndex property (Word)
 
-Returns or sets the color of the font. Read/write  **Variant** .
+Returns or sets the color of the font. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -56,3 +57,4 @@ End With
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

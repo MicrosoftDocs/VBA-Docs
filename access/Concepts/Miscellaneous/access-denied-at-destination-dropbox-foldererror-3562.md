@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 59837082-ff0a-72db-a179-5c4a26ba4b31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,5 @@ Check to see if you have permissions for the drive where the destination dropbox
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

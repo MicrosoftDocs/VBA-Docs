@@ -1,5 +1,5 @@
 ---
-title: ListFormat.List Property (Word)
+title: ListFormat.List property (Word)
 keywords: vbawd10.chm163577925
 f1_keywords:
 - vbawd10.chm163577925
@@ -8,17 +8,18 @@ api_name:
 - Word.ListFormat.List
 ms.assetid: e320f0b9-d19c-34d4-b215-395312eadf73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.List Property (Word)
+# ListFormat.List property (Word)
 
 Returns a  **[List](Word.List.md)** object that represents the first formatted list contained in the specified **ListFormat** object.
 
 
 ## Syntax
 
- _expression_. `List`
+_expression_. `List`
 
  _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
@@ -46,3 +47,4 @@ mylist.ApplyListTemplate _
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

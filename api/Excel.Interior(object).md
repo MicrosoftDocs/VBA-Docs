@@ -1,5 +1,5 @@
 ---
-title: Interior Object (Excel)
+title: Interior object (Excel)
 keywords: vbaxl10.chm550072
 f1_keywords:
 - vbaxl10.chm550072
@@ -7,30 +7,27 @@ ms.prod: excel
 api_name:
 - Excel.Interior
 ms.assetid: 37c79831-2cac-69fd-10ee-6d5415ed338b
-ms.date: 06/08/2017
+ms.date: 03/30/2019
+localization_priority: Normal
 ---
 
 
-# Interior Object (Excel)
+# Interior object (Excel)
 
 Represents the interior of an object.
 
 
 ## Example
 
-Use the  **[Interior](Excel.Range.Interior.md)** property to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
-
+Use the **[Interior](Excel.Range.Interior.md)** property of the **Range** object to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
 
 ```vb
 Worksheets("Sheet1").Range("A1").Interior.ColorIndex = 3
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+<br/>
 
-This example gets the value of the color of a cell in column A using the  **ColorIndex** property, and then uses that value to sort the range by color.
-
-
-
+This example gets the value of the color of a cell in column A by using the **ColorIndex** property, and then uses that value to sort the range by color.
 
 ```vb
 Sub ColorSort()
@@ -56,37 +53,26 @@ End Sub
 ```
 
 
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
-
-
 ## Properties
 
+- [Application](Excel.Interior.Application.md)
+- [Color](Excel.Interior.Color.md)
+- [ColorIndex](Excel.Interior.ColorIndex.md)
+- [Creator](Excel.Interior.Creator.md)
+- [Gradient](Excel.Interior.Gradient.md)
+- [InvertIfNegative](Excel.Interior.InvertIfNegative.md)
+- [Parent](Excel.Interior.Parent.md)
+- [Pattern](Excel.Interior.Pattern.md)
+- [PatternColor](Excel.Interior.PatternColor.md)
+- [PatternColorIndex](Excel.Interior.PatternColorIndex.md)
+- [PatternThemeColor](Excel.Interior.PatternThemeColor.md)
+- [PatternTintAndShade](Excel.Interior.PatternTintAndShade.md)
+- [ThemeColor](Excel.Interior.ThemeColor.md)
+- [TintAndShade](Excel.Interior.TintAndShade.md)
 
-
-|**Name**|
-|:-----|
-|[Application](Excel.Interior.Application.md)|
-|[Color](Excel.Interior.Color.md)|
-|[ColorIndex](Excel.Interior.ColorIndex.md)|
-|[Creator](Excel.Interior.Creator.md)|
-|[Gradient](Excel.Interior.Gradient.md)|
-|[InvertIfNegative](Excel.Interior.InvertIfNegative.md)|
-|[Parent](Excel.Interior.Parent.md)|
-|[Pattern](Excel.Interior.Pattern.md)|
-|[PatternColor](Excel.Interior.PatternColor.md)|
-|[PatternColorIndex](Excel.Interior.PatternColorIndex.md)|
-|[PatternThemeColor](Excel.Interior.PatternThemeColor.md)|
-|[PatternTintAndShade](Excel.Interior.PatternTintAndShade.md)|
-|[ThemeColor](Excel.Interior.ThemeColor.md)|
-|[TintAndShade](Excel.Interior.TintAndShade.md)|
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

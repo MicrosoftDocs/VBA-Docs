@@ -1,5 +1,5 @@
 ---
-title: ContentControl.ID Property (Word)
+title: ContentControl.ID property (Word)
 keywords: vbawd10.chm266534930
 f1_keywords:
 - vbawd10.chm266534930
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.ID
 ms.assetid: 2a9480f0-c572-6724-121f-b1a41d99ab93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.ID Property (Word)
+# ContentControl.ID property (Word)
 
 Returns a  **String** that represents the identification for a content control. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -35,3 +36,4 @@ When you get the  **ID** property value at runtime, it is returned as an unsigne
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

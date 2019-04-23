@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Activate Event (Excel)
+title: Worksheet.Activate event (Excel)
 keywords: vbaxl10.chm502076
 f1_keywords:
 - vbaxl10.chm502076
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Activate
 ms.assetid: 4fac262c-ea1a-1d2f-bd02-0537c843198c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Activate Event (Excel)
+# Worksheet.Activate event (Excel)
 
 Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End Sub
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

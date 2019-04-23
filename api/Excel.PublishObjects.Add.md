@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Add Method (Excel)
+title: PublishObjects.Add method (Excel)
 keywords: vbaxl10.chm650073
 f1_keywords:
 - vbaxl10.chm650073
@@ -8,19 +8,20 @@ api_name:
 - Excel.PublishObjects.Add
 ms.assetid: 74629499-04d1-11d5-20b8-02b72bb110ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObjects.Add Method (Excel)
+# PublishObjects.Add method (Excel)
 
-Creates an object that represents an item in a document saved to a Web page. Such objects facilitate subsequent updates to the Web page while automated changes are being made to the document in Microsoft Excel. Returns a  **PublishObject** object.
+Creates an object that represents an item in a document saved to a web page. Such objects facilitate subsequent updates to the web page while automated changes are being made to the document in Microsoft Excel. Returns a  **PublishObject** object.
 
 
 ## Syntax
 
- _expression_. `Add`( `_SourceType_` , `_Filename_` , `_Sheet_` , `_Source_` , `_HtmlType_` , `_DivID_` , `_Title_` )
+_expression_.**Add**( `_SourceType_` , `_FileName_` , `_Sheet_` , `_Source_` , `_HtmlType_` , `_DivID_` , `_Title_` )
 
- _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
+_expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
 
 
 ## Parameters
@@ -30,12 +31,12 @@ Creates an object that represents an item in a document saved to a Web page. Suc
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceType_|Required| **[XlSourceType](Excel.XlSourceType.md)**|The source type.|
-| _Filename_|Optional| **Variant**| **String** . The URL (on the intranet or the Web) or path (local or network) to which the source object was saved.|
-| _Sheet_|Optional| **Variant**|The name of the worksheet that was saved as a Web page.|
-| _Source_|Optional| **Variant**|A unique name used to identify items that have one of the following constants as their  _SourceType_ argument: **xlSourceAutoFilter** , **xlSourceChart** , **xlSourcePivotTable** , **xlSourcePrintArea** , **xlSourceQuery** , or **xlSourceRange** . If _SourceType_ is **xlSourceRange** , **Source** specifies a range, which can be a defined name. If _SourceType_ is **xlSourceChart** , **xlSourcePivotTable** , or **xlSourceQuery** , _Source_ specifies the name of a chart, PivotTable report, or query table.|
-| _HtmlType_|Optional| **Variant**|Specifies whether the item is saved as an interactive Microsoft Office Web component or as static text and images. Can be one of the  **[XlHTMLType](Excel.XlHtmlType.md)** constants: **xlHtmlCalc** , **xlHtmlChart** , **xlHtmlList** , or **xlHtmlStatic** .|
-| _DivID_|Optional| **Variant**|The unique identifier used in the HTML DIV tag to identify the item on the Web page.|
-| _Title_|Optional| **Variant**|The title of the Web page.|
+| _FileName_|Optional| **Variant**| **String**. The URL (on the intranet or the Web) or path (local or network) to which the source object was saved.|
+| _Sheet_|Optional| **Variant**|The name of the worksheet that was saved as a web page.|
+| _Source_|Optional| **Variant**|A unique name used to identify items that have one of the following constants as their  _SourceType_ argument: **xlSourceAutoFilter**, **xlSourceChart**, **xlSourcePivotTable**, **xlSourcePrintArea**, **xlSourceQuery**, or **xlSourceRange**. If _SourceType_ is **xlSourceRange**, **Source** specifies a range, which can be a defined name. If _SourceType_ is **xlSourceChart**, **xlSourcePivotTable**, or **xlSourceQuery**, _Source_ specifies the name of a chart, PivotTable report, or query table.|
+| _HtmlType_|Optional| **Variant**|Specifies whether the item is saved as an interactive Microsoft Office Web component or as static text and images. Can be one of the  **[XlHTMLType](Excel.XlHtmlType.md)** constants: **xlHtmlCalc**, **xlHtmlChart**, **xlHtmlList**, or **xlHtmlStatic**.|
+| _DivID_|Optional| **Variant**|The unique identifier used in the HTML DIV tag to identify the item on the web page.|
+| _Title_|Optional| **Variant**|The title of the web page.|
 
 ## Return value
 
@@ -44,7 +45,7 @@ A  **[PublishObject](Excel.PublishObject.md)** object that represents the new it
 
 ## Example
 
-This example saves the range D5:D9 on the First Quarter worksheet in the active workbook to a Web page called  `Stockreport.htm`.
+This example saves the range D5:D9 on the First Quarter worksheet in the active workbook to a web page called  `Stockreport.htm`.
 
 
 ```vb
@@ -62,3 +63,4 @@ End With
 
 [PublishObjects Object](Excel.PublishObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

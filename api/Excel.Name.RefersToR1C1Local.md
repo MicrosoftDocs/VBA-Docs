@@ -8,19 +8,20 @@ api_name:
 - Excel.Name.RefersToR1C1Local
 ms.assetid: 314b8764-5f5c-9a2f-87a7-54637de59bbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Name.RefersToR1C1Local property (Excel)
 
-Returns or sets the formula that the name refers to. This formula is in the language of the user, and it's in R1C1-style notation, beginning with an equal sign. Read/write  **String** .
+Returns or sets the formula that the name refers to. This formula is in the language of the user, and it's in R1C1-style notation, beginning with an equal sign. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `RefersToR1C1Local`
+_expression_. `RefersToR1C1Local`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ Next
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

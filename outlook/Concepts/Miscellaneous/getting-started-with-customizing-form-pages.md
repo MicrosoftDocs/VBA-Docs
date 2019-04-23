@@ -3,6 +3,7 @@ title: Getting Started with Customizing Form Pages
 ms.prod: outlook
 ms.assetid: d7437a50-229b-407d-91b6-20c2e9131181
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,5 +31,5 @@ ms.date: 06/08/2017
 -  [Publish a Form](../Customizing-Forms/publish-a-form.md)
     
 -  [Test a Form in Run Time](../Customizing-Forms/test-a-form-in-run-time.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

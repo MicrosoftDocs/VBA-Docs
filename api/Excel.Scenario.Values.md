@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenario.Values
 ms.assetid: 9a50bbe4-2389-2473-7d6e-d085babf03ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Variant** array that contains the current values of the changing ce
 
 ## Syntax
 
- _expression_. `Values`( `_Index_` )
+_expression_. `Values` (_Index_)
 
- _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
+_expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a  **Variant** array that contains the current values of the changing ce
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

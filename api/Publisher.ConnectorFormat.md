@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat Object (Publisher)
+title: ConnectorFormat object (Publisher)
 keywords: vbapb10.chm3276799
 f1_keywords:
 - vbapb10.chm3276799
@@ -8,10 +8,11 @@ api_name:
 - Publisher.ConnectorFormat
 ms.assetid: 9b541d54-b1b9-c023-c9c4-08ff6b811eb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat Object (Publisher)
+# ConnectorFormat object (Publisher)
 
 Contains properties and methods that apply to connectors. A connector is a line that attaches two other shapes at points called connection sites. If you rearrange shapes that are connected, the geometry of the connector will be automatically adjusted so that the shapes remain connected.
  
@@ -72,7 +73,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)|
 |[BeginDisconnect](Publisher.ConnectorFormat.BeginDisconnect.md)|
@@ -83,7 +84,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ConnectorFormat.Application.md)|
 |[BeginConnected](Publisher.ConnectorFormat.BeginConnected.md)|
@@ -95,3 +96,4 @@ End With
 |[Parent](Publisher.ConnectorFormat.Parent.md)|
 |[Type](Publisher.ConnectorFormat.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

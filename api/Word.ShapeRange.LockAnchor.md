@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.LockAnchor Property (Word)
+title: ShapeRange.LockAnchor property (Word)
 keywords: vbawd10.chm162857262
 f1_keywords:
 - vbawd10.chm162857262
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.LockAnchor
 ms.assetid: 63137738-47cb-bb2a-eb3a-25c421de298a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.LockAnchor Property (Word)
+# ShapeRange.LockAnchor property (Word)
 
- **True** if the anchor for the specified **ShapeRange** object is locked to the anchoring range. Read/write **Long** .
+ **True** if the anchor for the specified **ShapeRange** object is locked to the anchoring range. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `LockAnchor`
+_expression_. `LockAnchor`
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ A  **ShapeRange** object is anchored to a range of text, but you can position it
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyDataLabels Method (PowerPoint)
+title: Series.ApplyDataLabels method (PowerPoint)
 keywords: vbapp10.chm716004
 f1_keywords:
 - vbapp10.chm716004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.ApplyDataLabels
 ms.assetid: d8f4752f-1ff4-8a42-4b9f-12d81814f4f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.ApplyDataLabels Method (PowerPoint)
+# Series.ApplyDataLabels method (PowerPoint)
 
 Applies data labels to a series.
 
 
 ## Syntax
 
- _expression_. `ApplyDataLabels`(`Type`, `LegendKey`, `AutoText`, `HasLeaderLines`, `ShowSeriesName`, `ShowCategoryName`, `ShowValue`, `ShowPercentage`, `ShowBubbleSize`, `Separator`)
+_expression_. `ApplyDataLabels`(`Type`, `LegendKey`, `AutoText`, `HasLeaderLines`, `ShowSeriesName`, `ShowCategoryName`, `ShowValue`, `ShowPercentage`, `ShowBubbleSize`, `Separator`)
 
  _expression_ A variable that represents a [Series](PowerPoint.Series.md) object.
 
@@ -40,7 +41,7 @@ Applies data labels to a series.
 
 ## Remarks
 
-The Type parameter can be one of the following **XlDataLabelsType** constants:
+The Type parameter can be one of the following **xlDataLabelsType** constants:
 
 - **xlDataLabelsShowBubbleSizes** The bubble size for the data label.
     
@@ -76,3 +77,4 @@ End With
 
 - [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

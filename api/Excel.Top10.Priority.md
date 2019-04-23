@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.Priority
 ms.assetid: 0f54585a-2390-dfde-d4c2-5f0c1e9f8ff7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_.**Priority**
 
- _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [Top10 Object](Excel.Top10.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

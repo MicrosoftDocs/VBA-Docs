@@ -1,5 +1,5 @@
 ---
-title: SlideRange.PrintSteps Property (PowerPoint)
+title: SlideRange.PrintSteps property (PowerPoint)
 keywords: vbapp10.chm532010
 f1_keywords:
 - vbapp10.chm532010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.PrintSteps
 ms.assetid: 043a1e60-0810-3f22-7c40-a8a97eb59e4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.PrintSteps Property (PowerPoint)
+# SlideRange.PrintSteps property (PowerPoint)
 
 Returns the number of slides you'd need to print to simulate the builds on the specified slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `PrintSteps`
+_expression_. `PrintSteps`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -45,3 +46,4 @@ MsgBox steps1
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

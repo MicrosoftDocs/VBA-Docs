@@ -1,5 +1,5 @@
 ---
-title: Application.BoxStylesEdit Method (Project)
+title: Application.BoxStylesEdit method (Project)
 keywords: vbapj.chm2387
 f1_keywords:
 - vbapj.chm2387
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.BoxStylesEdit
 ms.assetid: 21a15566-3ee2-521a-f813-0f0baa806bfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BoxStylesEdit Method (Project)
+# Application.BoxStylesEdit method (Project)
 
 Sets the style of boxes in the Network Diagram view.
 
 
 ## Syntax
 
- _expression_. `BoxStylesEdit`( ` _Style_`, ` _DataTemplate_`, ` _HorizontalGridlines_`, ` _VerticalGridlines_`, ` _BorderShape_`, ` _BorderColor_`, ` _BorderWidth_`, ` _BackgroundColor_`, ` _BackgroundPattern_` )
+_expression_. `BoxStylesEdit`( `_Style_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -67,4 +68,4 @@ Sub BoxStyles_Edit()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

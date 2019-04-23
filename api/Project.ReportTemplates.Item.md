@@ -1,21 +1,22 @@
 ---
-title: ReportTemplates.Item Property (Project)
+title: ReportTemplates.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.ReportTemplates.Item
 ms.assetid: 5b26a22e-34ec-4c5c-4adb-d3b43513d62e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportTemplates.Item Property (Project)
+# ReportTemplates.Item property (Project)
 
 Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **ReportTemplate**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'ReportTemplates' object.
 
@@ -32,3 +33,5 @@ Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.repo
 
 
 [ReportTemplates Collection Object](Project.reporttemplates.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

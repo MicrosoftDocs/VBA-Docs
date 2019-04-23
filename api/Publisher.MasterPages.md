@@ -1,5 +1,5 @@
 ---
-title: MasterPages Object (Publisher)
+title: MasterPages object (Publisher)
 keywords: vbapb10.chm655359
 f1_keywords:
 - vbapb10.chm655359
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MasterPages
 ms.assetid: 3a7e6021-cbe4-4700-018c-c91d2f7d908a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterPages Object (Publisher)
+# MasterPages object (Publisher)
 
 Represents the page master for a publication after which all pages in the publication will be designed. The  **MasterPages** object is a collection of **[Page](Publisher.Page.md)** objects.
  
@@ -44,7 +45,7 @@ Sub ChangeMasterPage()
 End Sub
 ```
 
-Use the  **[Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper left corner of the master page that will appear on each page in the active publication.
+Use the  **[Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper-left corner of the master page that will appear on each page in the active publication.
  
 
  
@@ -64,7 +65,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.MasterPages.Add.md)|
 |[FindByPageID](Publisher.MasterPages.FindByPageID.md)|
@@ -73,10 +74,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MasterPages.Application.md)|
 |[Count](Publisher.MasterPages.Count.md)|
 |[Item](Publisher.MasterPages.Item.md)|
 |[Parent](Publisher.MasterPages.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

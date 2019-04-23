@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.GetNamesU Method (Visio)
+title: MasterShortcuts.GetNamesU method (Visio)
 keywords: vis_sdr.chm15951940
 f1_keywords:
 - vis_sdr.chm15951940
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcuts.GetNamesU
 ms.assetid: 3b8612a1-60c3-23ce-e847-a7082bcb0772
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcuts.GetNamesU Method (Visio)
+# MasterShortcuts.GetNamesU method (Visio)
 
 Returns the universal names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
+_expression_. `GetNamesU`( `_localeIndependentNameArray()_` )
 
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) collection.
 
@@ -45,4 +46,4 @@ If the  **GetNamesU** method succeeds, _localeIndependentNameArray()_ returns a 
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **GetNames** method to get the local name of more than one object. Use the **GetNamesU** method to get the universal name of more than one object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

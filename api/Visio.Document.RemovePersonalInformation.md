@@ -1,5 +1,5 @@
 ---
-title: Document.RemovePersonalInformation Property (Visio)
+title: Document.RemovePersonalInformation property (Visio)
 keywords: vis_sdr.chm10551675
 f1_keywords:
 - vis_sdr.chm10551675
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.RemovePersonalInformation
 ms.assetid: b05eb59e-9906-10f9-8819-60f8f0f1d4f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RemovePersonalInformation Property (Visio)
+# Document.RemovePersonalInformation property (Visio)
 
 Determines if personal information about a file is saved when the user saves the file in Microsoft Visio. Read/write.
 
 
 ## Syntax
 
- _expression_. `RemovePersonalInformation`
+_expression_. `RemovePersonalInformation`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -34,4 +35,4 @@ The personal information that can be saved with a file appears on the  **Summary
 
 Setting the  **RemovePersonalInformation** property is equivalent to setting the **Remove personal information from file properties on save** option under **Document-specific settings** on the **Privacy Options** page of the **Trust Center** dialog box (click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

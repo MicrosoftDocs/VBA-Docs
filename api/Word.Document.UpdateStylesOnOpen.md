@@ -1,5 +1,5 @@
 ---
-title: Document.UpdateStylesOnOpen Property (Word)
+title: Document.UpdateStylesOnOpen property (Word)
 keywords: vbawd10.chm158007362
 f1_keywords:
 - vbawd10.chm158007362
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.UpdateStylesOnOpen
 ms.assetid: 7b126a45-2347-8140-25b8-861672dcc8b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.UpdateStylesOnOpen Property (Word)
+# Document.UpdateStylesOnOpen property (Word)
 
- **True** if the styles in the specified document are updated to match the styles in the attached template each time the document is opened. Read/write **Boolean** .
+ **True** if the styles in the specified document are updated to match the styles in the attached template each time the document is opened. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UpdateStylesOnOpen`
+_expression_. `UpdateStylesOnOpen`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -50,3 +51,4 @@ Documents("Report.doc").UpdateStylesOnOpen = False
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

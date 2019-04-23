@@ -1,14 +1,15 @@
 ---
-title: PpCheckInVersionType Enumeration (PowerPoint)
+title: PpCheckInVersionType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpCheckInVersionType
 ms.assetid: c8500cce-1c18-2d61-ba25-09c4f83d0893
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpCheckInVersionType Enumeration (PowerPoint)
+# PpCheckInVersionType enumeration (PowerPoint)
 
 Constants that specify the type of version of the Microsoft PowerPoint file to be checked in, passed to the  **CheckInWithVersion** method of the **Presentation** object.
 
@@ -20,3 +21,4 @@ Constants that specify the type of version of the Microsoft PowerPoint file to b
 |**ppCheckInMinorVersion**|0|Minor version|
 |**ppCheckInOverwriteVersion**|2|Overwrite current version|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

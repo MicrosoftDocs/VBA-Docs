@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 59d1eb92-b346-4013-b4fa-e99e40c2a9d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A  **Case** statement must occur within a **Select Case...End Select Block**. Th
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

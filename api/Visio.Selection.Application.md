@@ -1,5 +1,5 @@
 ---
-title: Selection.Application Property (Visio)
+title: Selection.Application property (Visio)
 keywords: vis_sdr.chm11113090
 f1_keywords:
 - vis_sdr.chm11113090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Application
 ms.assetid: 09aed34b-c509-33d7-efd5-7ac5d5b05482
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Application Property (Visio)
+# Selection.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

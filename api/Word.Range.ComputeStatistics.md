@@ -1,5 +1,5 @@
 ---
-title: Range.ComputeStatistics Method (Word)
+title: Range.ComputeStatistics method (Word)
 keywords: vbawd10.chm157155506
 f1_keywords:
 - vbawd10.chm157155506
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.ComputeStatistics
 ms.assetid: 5fbeeffd-f592-3078-cd5b-1e2a90ee5092
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ComputeStatistics Method (Word)
+# Range.ComputeStatistics method (Word)
 
 Returns a  **Long** that represents a statistic based on the contents of the specified range.
 
 
 ## Syntax
 
- _expression_. `ComputeStatistics`( `_Statistic_` )
+_expression_. `ComputeStatistics`( `_Statistic_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ MsgBox "The first paragraph contains " & wordCount _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

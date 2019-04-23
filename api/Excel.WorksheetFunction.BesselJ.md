@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselJ Method (Excel)
+title: WorksheetFunction.BesselJ method (Excel)
 keywords: vbaxl10.chm137302
 f1_keywords:
 - vbaxl10.chm137302
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.BesselJ
 ms.assetid: 9d6d4059-4c84-a79a-2143-eef4953cbf19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.BesselJ Method (Excel)
+# WorksheetFunction.BesselJ method (Excel)
 
 Returns the Bessel function.
 
 
 ## Syntax
 
- _expression_. `BesselJ`( `_Arg1_` , `_Arg2_` )
+_expression_. `BesselJ`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

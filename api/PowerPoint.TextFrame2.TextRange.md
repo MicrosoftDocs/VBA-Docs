@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.TextRange Property (PowerPoint)
+title: TextFrame2.TextRange property (PowerPoint)
 keywords: vbapp10.chm678016
 f1_keywords:
 - vbapp10.chm678016
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame2.TextRange
 ms.assetid: 288c1209-d12d-fd7c-bc1a-6775d844ca6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.TextRange Property (PowerPoint)
+# TextFrame2.TextRange property (PowerPoint)
 
-Returns a  **[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)** object that represents the text in the specified text frame. Read-only.
+Returns a  **[TextRange2 object (PowerPoint)](PowerPoint.textrange2.md)** object that represents the text in the specified text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextRange2`
+_expression_. `TextRange2`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -55,3 +56,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

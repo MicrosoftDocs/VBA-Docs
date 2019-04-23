@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (PowerPoint)
+title: TextEffectFormat.ToggleVerticalText method (PowerPoint)
 keywords: vbapp10.chm556002
 f1_keywords:
 - vbapp10.chm556002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextEffectFormat.ToggleVerticalText
 ms.assetid: f9b71bae-4432-c4bd-4b47-1294520e33d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.ToggleVerticalText Method (PowerPoint)
+# TextEffectFormat.ToggleVerticalText method (PowerPoint)
 
 Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
 
 
 ## Syntax
 
- _expression_. `ToggleVerticalText`
+_expression_. `ToggleVerticalText`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -32,7 +33,7 @@ The  **[Flip](PowerPoint.Shape.Flip.md)** method and **[Rotation](PowerPoint.Sha
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument`, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
+This example adds WordArt that contains the text "Test" to  _myDocument_, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
 
 
 ```vb
@@ -51,3 +52,4 @@ newWordArt.TextEffect.ToggleVerticalText
 
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

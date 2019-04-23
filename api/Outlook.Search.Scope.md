@@ -1,5 +1,5 @@
 ---
-title: Search.Scope Property (Outlook)
+title: Search.Scope property (Outlook)
 keywords: vbaol11.chm2259
 f1_keywords:
 - vbaol11.chm2259
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Search.Scope
 ms.assetid: aa4b9aea-029f-6f80-87b1-b99c04ff9631
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Search.Scope Property (Outlook)
+# Search.Scope property (Outlook)
 
 Returns a  **String** that specifies the scope of the specified search. Read-only.
 
 
 ## Syntax
 
- _expression_. `Scope`
+_expression_. `Scope`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks
@@ -95,3 +96,4 @@ End Sub
 
 [Search Object](Outlook.Search.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

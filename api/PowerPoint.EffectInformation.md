@@ -1,5 +1,5 @@
 ---
-title: EffectInformation Object (PowerPoint)
+title: EffectInformation object (PowerPoint)
 keywords: vbapp10.chm655000
 f1_keywords:
 - vbapp10.chm655000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.EffectInformation
 ms.assetid: 9b3d09f4-229b-8392-f9a4-777bf6557632
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectInformation Object (PowerPoint)
+# EffectInformation object (PowerPoint)
 
 Represents various animation options for an  **[Effect](PowerPoint.Effect.md)** object.
 
@@ -42,4 +43,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

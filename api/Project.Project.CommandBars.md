@@ -1,21 +1,22 @@
 ---
-title: Project.CommandBars Property (Project)
+title: Project.CommandBars property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.CommandBars
 ms.assetid: 8b987a76-0aa4-537b-871b-ad36338b2b4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.CommandBars Property (Project)
+# Project.CommandBars property (Project)
 
 Gets a  **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -40,4 +41,4 @@ Sub ListCommandBars()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

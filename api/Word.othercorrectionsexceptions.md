@@ -1,12 +1,13 @@
 ---
-title: OtherCorrectionsExceptions Object (Word)
+title: OtherCorrectionsExceptions object (Word)
 ms.prod: word
 ms.assetid: f72135be-9a82-2c45-1835-8cabb18869de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OtherCorrectionsExceptions Object (Word)
+# OtherCorrectionsExceptions object (Word)
 
 A collection of  **OtherCorrectionsException** objects that represents the list of words that Microsoft Word won't correct automatically.
 
@@ -26,7 +27,7 @@ For Each aCap In AutoCorrect.OtherCorrectionsExceptions
 Next aCap
 ```
 
-If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
+If the value of the  **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
 
 
 
@@ -57,6 +58,6 @@ MsgBox AutoCorrect.OtherCorrectionsExceptions(1).Name
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

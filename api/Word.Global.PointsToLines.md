@@ -1,5 +1,5 @@
 ---
-title: Global.PointsToLines Method (Word)
+title: Global.PointsToLines method (Word)
 keywords: vbawd10.chm163119488
 f1_keywords:
 - vbawd10.chm163119488
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.PointsToLines
 ms.assetid: 3da78da9-3e4a-5dda-2987-a64ad835e9b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.PointsToLines Method (Word)
+# Global.PointsToLines method (Word)
 
-Converts a measurement from points to lines (1 line = 12 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from points to lines (1 line = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `PointsToLines`( `_Points_` )
+_expression_. `PointsToLines`( `_Points_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -79,3 +80,4 @@ End Function
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Publisher)
+title: ThreeDFormat.IncrementRotationY method (Publisher)
 keywords: vbapb10.chm3801105
 f1_keywords:
 - vbapb10.chm3801105
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.IncrementRotationY
 ms.assetid: 54260253-c914-6600-60ef-17bdde12be59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (Publisher)
+# ThreeDFormat.IncrementRotationY method (Publisher)
 
 Changes the rotation of the specified shape around the y-axis (vertical) by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. **IncrementRotationY**(**_Increment_**)
+_expression_.**IncrementRotationY**(**_Increment_**)
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -50,4 +51,4 @@ ActiveDocument.Pages(1).Shapes(1).ThreeD _
  .IncrementRotationY Increment:=-10
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

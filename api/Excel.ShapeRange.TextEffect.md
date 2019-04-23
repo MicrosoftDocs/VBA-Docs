@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.TextEffect
 ms.assetid: 95c2ab5d-061e-f50e-fc2b-7c44ffca7ce9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contain
 
 ## Syntax
 
- _expression_. `TextEffect`
+_expression_. `TextEffect`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
 
-This example sets the font style to bold for shape three on  `myDocument` if the shape is WordArt.
+This example sets the font style to bold for shape three on  _myDocument_ if the shape is WordArt.
 
 
 ```vb
@@ -43,3 +44,4 @@ End With
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

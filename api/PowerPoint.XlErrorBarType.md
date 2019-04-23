@@ -1,14 +1,15 @@
 ---
-title: xlErrorBarType Enumeration (PowerPoint)
+title: XlErrorBarType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlErrorBarType
 ms.assetid: ea68417a-7478-5ad0-c2f9-721b484f912d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorBarType Enumeration (PowerPoint)
+# XlErrorBarType enumeration (PowerPoint)
 
 Specifies the range marked by error bars.
 
@@ -22,3 +23,4 @@ Specifies the range marked by error bars.
 |**xlErrorBarTypeStDev**|-4155|Shows the range for a specified number of standard deviations.|
 |**xlErrorBarTypeStError**|4|Shows the standard error range.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

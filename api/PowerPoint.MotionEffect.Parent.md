@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.Parent Property (PowerPoint)
+title: MotionEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm658002
 f1_keywords:
 - vbapp10.chm658002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect.Parent
 ms.assetid: 6c46a46c-14f3-b61e-e381-87ec0eff8974
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect.Parent Property (PowerPoint)
+# MotionEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchAlefHamza Property (Publisher)
+title: FindReplace.MatchAlefHamza property (Publisher)
 keywords: vbapb10.chm8323079
 f1_keywords:
 - vbapb10.chm8323079
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.MatchAlefHamza
 ms.assetid: a8bdfbc3-13b5-e6a1-d86c-95e8f58ec263
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.MatchAlefHamza Property (Publisher)
+# FindReplace.MatchAlefHamza property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match alefs and hamzas. Read/write.
 
 
 ## Syntax
 
- _expression_. **MatchAlefHamza**
+_expression_.**MatchAlefHamza**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -71,4 +72,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

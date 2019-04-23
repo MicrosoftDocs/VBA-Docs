@@ -1,5 +1,5 @@
 ---
-title: Document.ReadingModeLayoutFrozen Property (Word)
+title: Document.ReadingModeLayoutFrozen property (Word)
 keywords: vbawd10.chm158007777
 f1_keywords:
 - vbawd10.chm158007777
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ReadingModeLayoutFrozen
 ms.assetid: 5ca8aef3-82dd-81c6-9620-57f304bcbb64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ReadingModeLayoutFrozen Property (Word)
+# Document.ReadingModeLayoutFrozen property (Word)
 
 Sets or returns a  **Boolean** that represents whether pages displayed in reading layout view are frozen to a specified size for inserting handwritten markup into a document.
 
 
 ## Syntax
 
- _expression_. `ReadingModeLayoutFrozen`
+_expression_. `ReadingModeLayoutFrozen`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ ActiveDocument.ReadingModeLayoutFrozen = True
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

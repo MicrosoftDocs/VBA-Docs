@@ -1,5 +1,5 @@
 ---
-title: Point.Paste Method (Excel)
+title: Point.Paste method (Excel)
 keywords: vbaxl10.chm576090
 f1_keywords:
 - vbaxl10.chm576090
@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.Paste
 ms.assetid: 0a984f1c-54de-d49f-8677-43d513a0f9fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.Paste Method (Excel)
+# Point.Paste method (Excel)
 
 Pastes a picture from the Clipboard as the marker on the selected point.
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_.**Paste**
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Variant
 
 ## Remarks
 
-This method can be used on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](Excel.Point.MarkerStyle.md)** property to **xlMarkerStylePicture** .
+This method can be used on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](Excel.Point.MarkerStyle.md)** property to **xlMarkerStylePicture**.
 
 
 ## Example
@@ -48,3 +49,4 @@ Charts("Chart1").SeriesCollection(1).Paste
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ConvertToFormulas Method (Excel)
+title: PivotTable.ConvertToFormulas method (Excel)
 keywords: vbaxl10.chm235177
 f1_keywords:
 - vbaxl10.chm235177
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ConvertToFormulas
 ms.assetid: 8646696c-47c0-3851-4310-5e5368475266
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.ConvertToFormulas Method (Excel)
+# PivotTable.ConvertToFormulas method (Excel)
 
-The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is used for converting a PivotTable to cube formulas. Read/write **Boolean** .
+The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is used for converting a PivotTable to cube formulas. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ConvertToFormulas`( `_ConvertFilters_` )
+_expression_. `ConvertToFormulas`( `_ConvertFilters_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

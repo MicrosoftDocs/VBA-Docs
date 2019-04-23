@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureType Property (Publisher)
+title: FillFormat.TextureType property (Publisher)
 keywords: vbapb10.chm2359568
 f1_keywords:
 - vbapb10.chm2359568
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.TextureType
 ms.assetid: 08f3b0a1-97a3-bdbf-25b4-93e05938d607
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureType Property (Publisher)
+# FillFormat.TextureType property (Publisher)
 
 Returns an  **MsoTextureType** constant indicating the texture type for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. **TextureType**
+_expression_.**TextureType**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -36,7 +37,7 @@ The property value can be one of the  **MsoTriState** constants declared in the 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoTexturePreset**| The fill uses a preset texture type.|
 | **msoTextureTypeMixed**|Indicates a combination of texture types for the specified shape range..|
@@ -60,4 +61,4 @@ For Each shpLoop In ActiveDocument.Pages(1).Shapes
 Next shpLoop
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

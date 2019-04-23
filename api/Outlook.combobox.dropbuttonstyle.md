@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 91cf54d6-1378-8cf5-6a2c-153d2ef4221e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **fmDropButtonStyle** value that represents the symbol displa
 
 ## Syntax
 
- _expression_. **DropButtonStyle**
+_expression_.**DropButtonStyle**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The possible values for  **DropButtonStyle** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays a plain button, with no symbol.|
 |1|Displays a down arrow (default).|
@@ -36,4 +37,4 @@ The possible values for  **DropButtonStyle** are:
 
 The recommended setting for showing items in a list is 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

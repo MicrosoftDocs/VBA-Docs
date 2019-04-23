@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControlOnExit Event (Word)
+title: Document.ContentControlOnExit event (Word)
 keywords: vbawd10.chm4001012
 f1_keywords:
 - vbawd10.chm4001012
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ContentControlOnExit
 ms.assetid: 1c988334-2bb3-2a86-747b-0d1d46894da1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ContentControlOnExit Event (Word)
+# Document.ContentControlOnExit event (Word)
 
 Occurs when a user leaves a content control.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'ContentControlOnExit'(**_ContentControl_** , **_Cancel_**)
+Private Sub  _expression_ _'ContentControlOnExit'(**_ContentControl_**, **_Cancel_**)
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -45,3 +46,4 @@ For information about using events with the  **Document** object, see [Using Eve
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

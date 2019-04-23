@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Parent Property (Publisher)
+title: ShadowFormat.Parent property (Publisher)
 keywords: vbapb10.chm3670018
 f1_keywords:
 - vbapb10.chm3670018
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShadowFormat.Parent
 ms.assetid: 3533c15f-413c-eaf8-a6b0-374b197ef97b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Parent Property (Publisher)
+# ShadowFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **ShadowFormat** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

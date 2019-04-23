@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Parent Property (PowerPoint)
+title: GroupShapes.Parent property (PowerPoint)
 keywords: vbapp10.chm549001
 f1_keywords:
 - vbapp10.chm549001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.GroupShapes.Parent
 ms.assetid: cab159ab-3694-2b80-72f2-444c83c5664c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Parent Property (PowerPoint)
+# GroupShapes.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Application.UsableHeight Property (Project)
+title: Application.UsableHeight property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.UsableHeight
 ms.assetid: f0cd8b86-a619-022a-5e26-8d4c5e815af3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UsableHeight Property (Project)
+# Application.UsableHeight property (Project)
 
 Gets the maximum height available for a project window in points. Read-only  **Double**.
 
 
 ## Syntax
 
- _expression_. `UsableHeight`
+_expression_. `UsableHeight`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -58,4 +59,4 @@ Sub FitWindows()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

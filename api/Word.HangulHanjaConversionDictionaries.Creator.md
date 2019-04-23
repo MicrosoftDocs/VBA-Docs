@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.Creator Property (Word)
+title: HangulHanjaConversionDictionaries.Creator property (Word)
 keywords: vbawd10.chm165676009
 f1_keywords:
 - vbawd10.chm165676009
@@ -8,19 +8,20 @@ api_name:
 - Word.HangulHanjaConversionDictionaries.Creator
 ms.assetid: 6a281d80-c137-9f30-bf64-ea82b0752203
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HangulHanjaConversionDictionaries.Creator Property (Word)
+# HangulHanjaConversionDictionaries.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
+_expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

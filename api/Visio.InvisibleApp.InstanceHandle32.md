@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.InstanceHandle32 Property (Visio)
+title: InvisibleApp.InstanceHandle32 property (Visio)
 keywords: vis_sdr.chm17513710
 f1_keywords:
 - vis_sdr.chm17513710
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.InstanceHandle32
 ms.assetid: ea789f1b-ff66-9be3-f52e-0ec0c8ea9198
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.InstanceHandle32 Property (Visio)
+# InvisibleApp.InstanceHandle32 property (Visio)
 
 Gets the instance handle of the  **Application** object for a 32-bit version of Microsoft Visio. Read-only.
 
 
 ## Syntax
 
- _expression_. `InstanceHandle32`
+_expression_. `InstanceHandle32`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -32,4 +33,4 @@ Long
 
 Calls to the  **InstanceHandle** property are directed to the **InstanceHandle32** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

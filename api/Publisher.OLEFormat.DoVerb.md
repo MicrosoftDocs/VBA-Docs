@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DoVerb Method (Publisher)
+title: OLEFormat.DoVerb method (Publisher)
 keywords: vbapb10.chm4456455
 f1_keywords:
 - vbapb10.chm4456455
@@ -8,17 +8,18 @@ api_name:
 - Publisher.OLEFormat.DoVerb
 ms.assetid: c4bca1f2-a3dd-0c49-1268-40e68e1fcef0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.DoVerb Method (Publisher)
+# OLEFormat.DoVerb method (Publisher)
 
 Requests that an OLE object perform one of its verbs.
 
 
 ## Syntax
 
- _expression_. **DoVerb**(**_iVerb_**)
+_expression_.**DoVerb**(**_iVerb_**)
 
  _expression_ A variable that represents an  **OLEFormat** object.
 
@@ -81,4 +82,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

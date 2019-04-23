@@ -1,5 +1,5 @@
 ---
-title: MailMerge Object (Publisher)
+title: MailMerge object (Publisher)
 keywords: vbapb10.chm6291455
 f1_keywords:
 - vbapb10.chm6291455
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MailMerge
 ms.assetid: 028e1e42-c61c-9b2b-4aec-d6a184504ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge Object (Publisher)
+# MailMerge object (Publisher)
 
 Represents the mail merge and catalog merge functionality in Microsoft Publisher.
 
@@ -38,7 +39,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CreateShortcut](./Publisher.MailMerge.CreateShortcut.md)|
 |[Execute](./Publisher.MailMerge.Execute.md)|
@@ -50,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.MailMerge.Application.md)|
 |[DataSource](./Publisher.MailMerge.DataSource.md)|
@@ -62,3 +63,4 @@ End Sub
 |[ViewMailMergeFieldCodes](./Publisher.MailMerge.ViewMailMergeFieldCodes.md)|
 |[WizardState](./Publisher.MailMerge.WizardState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

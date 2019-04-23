@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Sort
 ms.assetid: 2e5cadb0-a688-5864-5974-861270b61db3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Sort](Excel.Sort.md)** object. Read-only.
 
 ## Syntax
 
- _expression_. `Sort`
+_expression_.**Sort**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Sort](Excel.Sort.md)** object. Read-only.
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

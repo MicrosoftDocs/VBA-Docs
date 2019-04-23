@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Visible Property (PowerPoint)
+title: ShapeRange.Visible property (PowerPoint)
 keywords: vbapp10.chm548041
 f1_keywords:
 - vbapp10.chm548041
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Visible
 ms.assetid: 39ca5142-bf7b-a48d-ce9d-e929e4611aac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Visible Property (PowerPoint)
+# ShapeRange.Visible property (PowerPoint)
 
 Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified object or object formatting is not visible.|
 |**msoTrue**| The specified object or object formatting is visible.|
@@ -44,3 +45,4 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

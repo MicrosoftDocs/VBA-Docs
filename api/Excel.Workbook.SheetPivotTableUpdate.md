@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetPivotTableUpdate Event (Excel)
+title: Workbook.SheetPivotTableUpdate event (Excel)
 keywords: vbaxl10.chm503093
 f1_keywords:
 - vbaxl10.chm503093
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetPivotTableUpdate
 ms.assetid: 0b37939a-28dd-ef8b-ea5e-fc3768f8979a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetPivotTableUpdate Event (Excel)
+# Workbook.SheetPivotTableUpdate event (Excel)
 
 Occurs after the sheet of the PivotTable report has been updated.
 
 
 ## Syntax
 
- _expression_. `SheetPivotTableUpdate`( `_Sh_` , `_Target_` )
+_expression_. `SheetPivotTableUpdate`( `_Sh_` , `_Target_` )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 keywords: vbawd10.chm165347596
 f1_keywords:
 - vbawd10.chm165347596
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis
 ms.assetid: 2fbd053f-cc0b-e38b-2f2a-dfc0c7f49a38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 
- **True** if manual emphasis characters are automatically replaced with character formatting as you type; for example, "*bold*" is changed to " **bold** ". Read/write **Boolean** .
+ **True** if manual emphasis characters are automatically replaced with character formatting as you type; for example, "*bold*" is changed to " **bold** ". Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeReplacePlainTextEmphasis`
+_expression_. `AutoFormatAsYouTypeReplacePlainTextEmphasis`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -50,3 +51,4 @@ blnAutoFormat = _
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

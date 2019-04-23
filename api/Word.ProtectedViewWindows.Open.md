@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Open Method (Word)
+title: ProtectedViewWindows.Open method (Word)
 keywords: vbawd10.chm82313218
 f1_keywords:
 - vbawd10.chm82313218
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindows.Open
 ms.assetid: 38a11e87-bc8e-4a3b-3b0d-aa51eef941b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindows.Open Method (Word)
+# ProtectedViewWindows.Open method (Word)
 
 Opens the specified document in a new protected view window.
 
 
 ## Syntax
 
- _expression_. `Open`( `_FileName_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_Visible_` , `_OpenAndRepair_` )
+_expression_. `Open`( `_FileName_` , `_AddToRecentFiles_` , `_PasswordDocument_` , `_Visible_` , `_OpenAndRepair_` )
 
  _expression_ An expression that returns a [ProtectedViewWindows](./Word.ProtectedViewWindows.md) object.
 
@@ -32,7 +33,7 @@ Opens the specified document in a new protected view window.
 | _FileName_|Required| **Variant**|The name of the document (paths are accepted).|
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the File menu.|
 | _PasswordDocument_|Optional| **Variant**|The password for opening the document.|
-| _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True** .|
+| _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True**.|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
 
 ## Return value
@@ -61,3 +62,4 @@ ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc"
 
 [ProtectedViewWindows Object](Word.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

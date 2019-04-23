@@ -1,5 +1,5 @@
 ---
-title: Inspectors Object (Outlook)
+title: Inspectors object (Outlook)
 keywords: vbaol11.chm2996
 f1_keywords:
 - vbaol11.chm2996
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Inspectors
 ms.assetid: b65475d6-a212-fc96-459d-47390dfe5ee5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Inspectors Object (Outlook)
+# Inspectors object (Outlook)
 
 Contains a set of  **[Inspector](Outlook.Inspector.md)** objects representing all inspectors.
 
@@ -37,7 +38,7 @@ Set myInspectors = Application.Inspectors
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[NewInspector](Outlook.Inspectors.NewInspector.md)|
 
@@ -45,7 +46,7 @@ Set myInspectors = Application.Inspectors
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Inspectors.Add.md)|
 |[Item](Outlook.Inspectors.Item.md)|
@@ -54,7 +55,7 @@ Set myInspectors = Application.Inspectors
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Inspectors.Application.md)|
 |[Class](Outlook.Inspectors.Class.md)|
@@ -65,4 +66,6 @@ Set myInspectors = Application.Inspectors
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

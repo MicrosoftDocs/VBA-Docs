@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.SourceData
 ms.assetid: 099e7401-d684-56e0-7276-8e33bf6b0fab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.SourceData property (Excel)
 
-Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant** .
+Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SourceData`
+_expression_. `SourceData`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ Next i
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

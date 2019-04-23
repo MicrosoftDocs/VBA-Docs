@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e922803e-32a1-8745-1814-5bf3ddfdcef6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A  **While** statement is used without a corresponding **Wend** statement. This 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

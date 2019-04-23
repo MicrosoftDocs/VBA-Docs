@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AnimateBackground Property (PowerPoint)
+title: AnimationSettings.AnimateBackground property (PowerPoint)
 keywords: vbapp10.chm565014
 f1_keywords:
 - vbapp10.chm565014
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationSettings.AnimateBackground
 ms.assetid: 929ba50f-23c4-9dea-09fb-fa580715b118
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationSettings.AnimateBackground Property (PowerPoint)
+# AnimationSettings.AnimateBackground property (PowerPoint)
 
 If the specified object is an AutoShape, specifies if the shape is animated separately from the text it contains. Read/write.
 
 
 ## Syntax
 
- _expression_. `AnimateBackground`
+_expression_. `AnimateBackground`
 
- _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
+_expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ## Remarks
@@ -37,14 +38,14 @@ The value of the  **AnimateBackground** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not animated separately from the text it contains.|
 |**msoTrue**| The specified shape is animated separately from the text it contains.|
 
 ## Example
 
-This example creates a rectangle that contains text. The example then specifies that the shape should fly in from the lower right, that the text should be built from first-level paragraphs, and that the shape should be animated separately from the text it contains. In this example, the  **EntryEffect** property turns on animation.
+This example creates a rectangle that contains text. The example then specifies that the shape should fly in from the lower-right, that the text should be built from first-level paragraphs, and that the shape should be animated separately from the text it contains. In this example, the  **EntryEffect** property turns on animation.
 
 
 ```vb
@@ -74,3 +75,4 @@ End Sub
 
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

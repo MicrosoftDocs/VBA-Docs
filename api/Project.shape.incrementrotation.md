@@ -1,17 +1,18 @@
 ---
-title: Shape.IncrementRotation Method (Project)
+title: Shape.IncrementRotation method (Project)
 ms.prod: project-server
 ms.assetid: b6a4ee31-b572-ac26-5f31-70cb5f9f390d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IncrementRotation Method (Project)
+# Shape.IncrementRotation method (Project)
 Rotates the shape around the z-axis by the specified number of degrees.
 
 ## Syntax
 
- _expression_. `IncrementRotation` _(Increment)_
+_expression_. `IncrementRotation` _(Increment)_
 
  _expression_ A variable that represents a 'Shape' object.
 
@@ -68,3 +69,5 @@ End Sub
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

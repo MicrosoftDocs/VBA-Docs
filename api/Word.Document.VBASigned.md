@@ -1,5 +1,5 @@
 ---
-title: Document.VBASigned Property (Word)
+title: Document.VBASigned property (Word)
 keywords: vbawd10.chm158007631
 f1_keywords:
 - vbawd10.chm158007631
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.VBASigned
 ms.assetid: aa00c1ad-8c1e-5f47-de42-72db8292d5c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.VBASigned Property (Word)
+# Document.VBASigned property (Word)
 
- **True** if the Microsoft Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only **Boolean** .
+ **True** if the Microsoft Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `VBASigned`
+_expression_. `VBASigned`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

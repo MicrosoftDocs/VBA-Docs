@@ -1,5 +1,5 @@
 ---
-title: Selection.AddToContainers Method (Visio)
+title: Selection.AddToContainers method (Visio)
 keywords: vis_sdr.chm11162215
 f1_keywords:
 - vis_sdr.chm11162215
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.AddToContainers
 ms.assetid: 7f3e739f-a573-049c-9f54-9e93a401191f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.AddToContainers Method (Visio)
+# Selection.AddToContainers method (Visio)
 
 Adds the selection of shapes to all underlying containers that allow it as a member.
 
 
 ## Syntax
 
- _expression_. `AddToContainers`
+_expression_. `AddToContainers`
 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
@@ -36,4 +37,4 @@ Each shape in the selection is added to its underlying containers according to t
 
 The  **AddToContainers** method works only if the selection sits at least partially on top of a container that does not already contain it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

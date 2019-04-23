@@ -1,5 +1,5 @@
 ---
-title: RuleActions.Count Property (Outlook)
+title: RuleActions.Count property (Outlook)
 keywords: vbaol11.chm2182
 f1_keywords:
 - vbaol11.chm2182
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RuleActions.Count
 ms.assetid: 91b4425f-0e17-fff1-0d9c-1697b205ff2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RuleActions.Count Property (Outlook)
+# RuleActions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can enumerate the  **[RuleActions](Outlook.RuleActions.md)** collection from
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

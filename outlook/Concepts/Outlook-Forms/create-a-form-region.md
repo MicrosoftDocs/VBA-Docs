@@ -3,6 +3,7 @@ title: Create a Form Region
 ms.prod: outlook
 ms.assetid: 695b95a5-c795-cb4a-8d35-ba12b0007b1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -78,5 +79,5 @@ The following procedure details the steps to create a form region using the Form
    Register form regions under either the **HKEY_CURRENT_USER** or the **HKEY_LOCAL_MACHINE** hive in the Windows registry. For example, additive form regions for the **IPM.Contact** message class for the current user should be registered under the same key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact**. Note that the form region will be displayed for the current user in all forms applied to **IPM.Contact** and any message class derived from **IPM.Contact**. If you want a form region to be used only for **IPM.Contact** and do not wish derived message classes to use that form region, you can specify this using the \<exactMessageClass\> tag in the form region manifest XML file.
     
 10. Start Outlook. When you open an item of the message class that you have specified for the form region in step 9, you will see the form region in the inspector.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

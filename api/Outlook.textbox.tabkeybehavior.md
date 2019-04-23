@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5b8bdc3c-9000-a7fd-af39-743cc117e02d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether tabs are allowed in the ed
 
 ## Syntax
 
- _expression_. **TabKeyBehavior**
+_expression_.**TabKeyBehavior**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **TabKeyBehavior** and **[MultiLine](Outlook.textbox.multiline.md)** proper
 
 The effect of pressing  **CTRL+TAB** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+TAB** creates a new line regardless of the value of **TabKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+TAB** has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

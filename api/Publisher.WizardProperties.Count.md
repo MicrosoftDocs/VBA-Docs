@@ -1,5 +1,5 @@
 ---
-title: WizardProperties.Count Property (Publisher)
+title: WizardProperties.Count property (Publisher)
 keywords: vbapb10.chm1507331
 f1_keywords:
 - vbapb10.chm1507331
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WizardProperties.Count
 ms.assetid: 835f3467-ec89-54d2-c685-3021e6267121
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardProperties.Count Property (Publisher)
+# WizardProperties.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **WizardProperties** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

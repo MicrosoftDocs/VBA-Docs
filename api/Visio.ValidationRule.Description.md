@@ -1,5 +1,5 @@
 ---
-title: ValidationRule.Description Property (Visio)
+title: ValidationRule.Description property (Visio)
 keywords: vis_sdr.chm18413405
 f1_keywords:
 - vis_sdr.chm18413405
@@ -8,17 +8,18 @@ api_name:
 - Visio.ValidationRule.Description
 ms.assetid: 111e41fd-f6ea-c33e-a4f3-18d609e16ad1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ValidationRule.Description Property (Visio)
+# ValidationRule.Description property (Visio)
 
 Specifies the description of the  **[ValidationRule](Visio.ValidationRule.md)** object that appears in the user interface. Read/write.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
  _expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
 
@@ -43,4 +44,4 @@ Set vsoValidationRule = vsoValidationRuleSet.Rules.Add("Unglued2DShape")
 vsoValidationRule.Description = "This 2-dimensional shape is not connected to any other shape."
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

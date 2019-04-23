@@ -1,5 +1,5 @@
 ---
-title: Application.TableReset Method (Project)
+title: Application.TableReset method (Project)
 keywords: vbapj.chm404
 f1_keywords:
 - vbapj.chm404
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TableReset
 ms.assetid: 1db786fb-b79d-0404-fe39-4118e10f3cb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TableReset Method (Project)
+# Application.TableReset method (Project)
 
 Resets the active table to the default table definition.
 
 
 ## Syntax
 
- _expression_. `TableReset`
+_expression_. `TableReset`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -35,4 +36,4 @@ If the user has added or hidden columns, the  **TableReset** method changes the 
 
  **Note**  When a column is added or hidden, the modified table shows in the  **Table Definition** dialog box when you edit the table.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

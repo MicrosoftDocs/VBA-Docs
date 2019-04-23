@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Title Property (Word)
+title: StyleSheet.Title property (Word)
 keywords: vbawd10.chm166658054
 f1_keywords:
 - vbawd10.chm166658054
@@ -8,19 +8,20 @@ api_name:
 - Word.StyleSheet.Title
 ms.assetid: 050e5915-2e92-7023-fb64-e122bfc4dd38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StyleSheet.Title Property (Word)
+# StyleSheet.Title property (Word)
 
 Returns or sets a  **String** representing the title of a Web style sheet. Read/write.
 
 
 ## Syntax
 
- _expression_. `Title`
+_expression_.**Title**
 
- _expression_ Required. A variable that represents a '[StyleSheet](Word.StyleSheet.md)' object.
+_expression_ Required. A variable that represents a '[StyleSheet](Word.StyleSheet.md)' object.
 
 
 ## Example
@@ -67,3 +68,4 @@ End Sub
 
 [StyleSheet Object](Word.StyleSheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

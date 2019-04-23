@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ee3b0fbb-b569-4313-ad57-758b3a145506
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Legend.Width Property (PowerPoint)](http://msdn.microsoft.com/library/5fe06b55-4c3d-f571-3200-cb88107caf96%28Office.15%29.aspx)
 [LegendEntry.Width Property (PowerPoint)](http://msdn.microsoft.com/library/99441c6d-2c28-037b-677b-e12c1d9d40d4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.RemoveUser Method (Excel)
+title: Workbook.RemoveUser method (Excel)
 keywords: vbaxl10.chm199138
 f1_keywords:
 - vbaxl10.chm199138
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.RemoveUser
 ms.assetid: f0a978a0-7bcf-3af4-a01a-831c6c854989
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.RemoveUser Method (Excel)
+# Workbook.RemoveUser method (Excel)
 
 Disconnects the specified user from the shared workbook.
 
 
 ## Syntax
 
- _expression_. `RemoveUser`( `_Index_` )
+_expression_. `RemoveUser` (_Index_)
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ Workbooks(2).RemoveUser 2
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: DataLabel.AutoText Property (PowerPoint)
+title: DataLabel.AutoText property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.AutoText
 ms.assetid: f7e154ad-4f5f-0a3d-3fe5-c83994705cfb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabel.AutoText Property (PowerPoint)
+# DataLabel.AutoText property (PowerPoint)
 
  **True** if the object automatically generates appropriate text based on context. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoText`
+_expression_. `AutoText`
 
- _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End With
 
 [DataLabel Object](PowerPoint.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

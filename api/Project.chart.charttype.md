@@ -1,19 +1,20 @@
 ---
-title: Chart.ChartType Property (Project)
+title: Chart.ChartType property (Project)
 ms.prod: project-server
 ms.assetid: c2557457-8aab-dec9-8098-e14b31a87c4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartType Property (Project)
+# Chart.ChartType property (Project)
 Gets or sets the chart type. Read/write  **Office.XlChartType**.
 
 ## Syntax
 
- _expression_. `ChartType`
+_expression_. `ChartType`
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks
@@ -23,7 +24,7 @@ The  **ChartType** property corresponds to an action in the **Change Chart Type*
 
 ## Example
 
-The following example changes a clustered column chart to a clustered 3-D column chart type.
+The following example changes a clustered column chart to a clustered 3D column chart type.
 
 
 ```vb
@@ -52,3 +53,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

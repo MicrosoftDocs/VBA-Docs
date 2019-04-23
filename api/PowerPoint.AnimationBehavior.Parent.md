@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Parent Property (PowerPoint)
+title: AnimationBehavior.Parent property (PowerPoint)
 keywords: vbapp10.chm657002
 f1_keywords:
 - vbapp10.chm657002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.Parent
 ms.assetid: cef1124b-fe7d-df0a-5a62-68b77d8022fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Parent Property (PowerPoint)
+# AnimationBehavior.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

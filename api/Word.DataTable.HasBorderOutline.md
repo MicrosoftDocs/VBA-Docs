@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderOutline Property (Word)
+title: DataTable.HasBorderOutline property (Word)
 keywords: vbawd10.chm46399494
 f1_keywords:
 - vbawd10.chm46399494
@@ -8,17 +8,18 @@ api_name:
 - Word.DataTable.HasBorderOutline
 ms.assetid: c7766f52-ee4f-f51b-a716-b1b76dcb434f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable.HasBorderOutline Property (Word)
+# DataTable.HasBorderOutline property (Word)
 
- **True** if the chart data table has outline borders. Read/write **Boolean** .
+ **True** if the chart data table has outline borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderOutline`
+_expression_. `HasBorderOutline`
 
  _expression_ A variable that represents a '[DataTable](Word.DataTable.md)' object.
 
@@ -49,3 +50,4 @@ End With
 
 [DataTable Object](Word.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

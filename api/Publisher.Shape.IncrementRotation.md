@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementRotation Method (Publisher)
+title: Shape.IncrementRotation method (Publisher)
 keywords: vbapb10.chm2228257
 f1_keywords:
 - vbapb10.chm2228257
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.IncrementRotation
 ms.assetid: 3293c707-f3e8-1afb-cf9c-231ceae66ab6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IncrementRotation Method (Publisher)
+# Shape.IncrementRotation method (Publisher)
 
 Changes the rotation of the specified shape around the z-axis (extends outward from the plane of the publication) by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. **IncrementRotation**(**_Increment_**)
+_expression_.**IncrementRotation**(**_Increment_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -57,4 +58,4 @@ With ActiveDocument.Pages(1).Shapes(1).Duplicate
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

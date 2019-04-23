@@ -1,5 +1,5 @@
 ---
-title: Master.UniqueID Property (Visio)
+title: Master.UniqueID property (Visio)
 keywords: vis_sdr.chm10751165
 f1_keywords:
 - vis_sdr.chm10751165
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.UniqueID
 ms.assetid: 99d0655c-da5c-9d0a-4936-2fa24821e097
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.UniqueID Property (Visio)
+# Master.UniqueID property (Visio)
 
 Returns the unique ID of a master. Read-only.
 
 
 ## Syntax
 
- _expression_. `UniqueID`
+_expression_. `UniqueID`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
@@ -78,4 +79,4 @@ Set vsoMaster = Visio.ActiveDocument.Masters("U{0478DA94-1315-9876-8E4C-006523AB
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Results.ItemAdd Event (Outlook)
+title: Results.ItemAdd event (Outlook)
 keywords: vbaol11.chm514
 f1_keywords:
 - vbaol11.chm514
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Results.ItemAdd
 ms.assetid: b867fb25-9a66-1a80-4bf6-b1f4814a6d2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Results.ItemAdd Event (Outlook)
+# Results.ItemAdd event (Outlook)
 
 Occurs when one or more items are added to the specified collection.
 
 
 ## Syntax
 
- _expression_. `ItemAdd`( `_Item_` )
+_expression_. `ItemAdd`( `_Item_` )
 
- _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ This event does not run when a large number of items are added to the folder at 
 
 ## Example
 
-In this Visual Basic for Applications (VBA) example, when a new contact is added to the  **Contacts** folder, the contact item is attached to an e-mail message and sent to a distribution list named "Sales Team". The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+In this Visual Basic for Applications (VBA) example, when a new contact is added to the  **Contacts** folder, the contact item is attached to an email message and sent to a distribution list named "Sales Team". The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb
@@ -87,3 +88,4 @@ End Sub
 
 [Results Object](Outlook.Results.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

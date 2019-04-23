@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.MarkForDownload Property (Outlook)
+title: TaskRequestAcceptItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1813
 f1_keywords:
 - vbaol11.chm1813
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestAcceptItem.MarkForDownload
 ms.assetid: f2dd7f89-5683-f8e1-b4b3-f49b29ec3534
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.MarkForDownload Property (Outlook)
+# TaskRequestAcceptItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 
 
 ## Syntax
 
- _expression_. `MarkForDownload`
+_expression_. `MarkForDownload`
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

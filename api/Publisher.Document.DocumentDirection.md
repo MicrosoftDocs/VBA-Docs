@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentDirection Property (Publisher)
+title: Document.DocumentDirection property (Publisher)
 keywords: vbapb10.chm196648
 f1_keywords:
 - vbapb10.chm196648
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.DocumentDirection
 ms.assetid: b28961ad-7adc-3920-0e67-88bb53310d9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DocumentDirection Property (Publisher)
+# Document.DocumentDirection property (Publisher)
 
 Returns or sets a  **PbDirectionType** constant that indicates whether text in the document is read from left to right or from right to left. Read/write.
 
 
 ## Syntax
 
- _expression_. **DocumentDirection**
+_expression_.**DocumentDirection**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -48,4 +49,4 @@ Sub SetBiDiText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

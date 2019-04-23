@@ -1,32 +1,25 @@
 ---
-title: ComboBox Control, AddItem Method, Picture, PicturePosition Properties Example
+title: ComboBox control, AddItem method, Picture, PicturePosition properties example
 keywords: fm20.chm5225189
 f1_keywords:
 - fm20.chm5225189
 ms.prod: office
 ms.assetid: 6af29fd2-49f5-980a-b72e-9776a82e3170
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ComboBox Control, AddItem Method, Picture, PicturePosition Properties Example
+# ComboBox control, AddItem method, Picture, PicturePosition properties example
 
-The following example uses a  **ComboBox** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **CommandButton**. This code sample also uses the **AddItem** method to populate the **ComboBox** choices.
+The following example uses a **[ComboBox](combobox-control.md)** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **[CommandButton](commandbutton-control.md)**. This code sample also uses the **[AddItem](additem-method.md)** method to populate the **ComboBox** choices.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **Label** named Label1.
+- A **[Label](label-control.md)** named Label1.    
+- A **CommandButton** named CommandButton1.    
+- A **ComboBox** named ComboBox1.
     
-- A  **CommandButton** named CommandButton1.
-    
-- A  **ComboBox** named ComboBox1.
-    
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -152,4 +145,4 @@ Private Sub ComboBox1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

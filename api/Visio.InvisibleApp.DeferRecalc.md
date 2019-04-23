@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DeferRecalc Property (Visio)
+title: InvisibleApp.DeferRecalc property (Visio)
 keywords: vis_sdr.chm17513400
 f1_keywords:
 - vis_sdr.chm17513400
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.DeferRecalc
 ms.assetid: 88bbd653-4ffe-ff36-e20b-f6e238795f9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.DeferRecalc Property (Visio)
+# InvisibleApp.DeferRecalc property (Visio)
 
 Determines whether the application recalculates cell formulas during a series of actions. Read/write.
 
 
 ## Syntax
 
- _expression_. `DeferRecalc`
+_expression_. `DeferRecalc`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -68,4 +69,4 @@ Application.DeferRecalc = blsDeferCalcOriginalValue
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

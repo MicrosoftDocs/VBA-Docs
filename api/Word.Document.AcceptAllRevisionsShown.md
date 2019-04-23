@@ -1,5 +1,5 @@
 ---
-title: Document.AcceptAllRevisionsShown Method (Word)
+title: Document.AcceptAllRevisionsShown method (Word)
 keywords: vbawd10.chm158007668
 f1_keywords:
 - vbawd10.chm158007668
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.AcceptAllRevisionsShown
 ms.assetid: bd9634cf-239a-2543-3681-579d4dd2f202
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.AcceptAllRevisionsShown Method (Word)
+# Document.AcceptAllRevisionsShown method (Word)
 
 Accepts all revisions in the specified document that are displayed on the screen.
 
 
 ## Syntax
 
- _expression_. `AcceptAllRevisionsShown`
+_expression_. `AcceptAllRevisionsShown`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

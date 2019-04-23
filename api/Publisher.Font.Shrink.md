@@ -1,5 +1,5 @@
 ---
-title: Font.Shrink Method (Publisher)
+title: Font.Shrink method (Publisher)
 keywords: vbapb10.chm5373991
 f1_keywords:
 - vbapb10.chm5373991
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Shrink
 ms.assetid: c5626ef2-5351-ab49-bf86-690587daed1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Shrink Method (Publisher)
+# Font.Shrink method (Publisher)
 
 Decreases the font size to the next available size. If the selection or range contains more than one font size, each size is decreased to the next available setting.
 
 
 ## Syntax
 
- _expression_. **Shrink**
+_expression_.**Shrink**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -54,4 +55,4 @@ With trTemp
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

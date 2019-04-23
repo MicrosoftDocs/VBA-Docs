@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserTextured Method (Word)
+title: FillFormat.UserTextured method (Word)
 keywords: vbawd10.chm164102162
 f1_keywords:
 - vbawd10.chm164102162
@@ -8,19 +8,20 @@ api_name:
 - Word.FillFormat.UserTextured
 ms.assetid: 4407df38-2660-5974-eadb-e30fe292ef11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.UserTextured Method (Word)
+# FillFormat.UserTextured method (Word)
 
 Fills the specified shape with small tiles of an image.
 
 
 ## Syntax
 
- _expression_. `UserTextured`( `_TextureFile_` )
+_expression_. `UserTextured`( `_TextureFile_` )
 
- _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End Sub
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

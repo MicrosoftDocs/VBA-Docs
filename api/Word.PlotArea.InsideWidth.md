@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideWidth Property (Word)
+title: PlotArea.InsideWidth property (Word)
 keywords: vbawd10.chm53479045
 f1_keywords:
 - vbawd10.chm53479045
@@ -8,17 +8,18 @@ api_name:
 - Word.PlotArea.InsideWidth
 ms.assetid: acdb721d-73a9-15af-d833-d044e83b3c87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlotArea.InsideWidth Property (Word)
+# PlotArea.InsideWidth property (Word)
 
-Returns or sets the inside width, in points, of the plot area. Read/write  **Double** .
+Returns or sets the inside width, in [points](../language/glossary/vbe-glossary.md#point), of the plot area. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideWidth`
+_expression_. `InsideWidth`
 
  _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [PlotArea Object](Word.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.LinearGradient.Creator
 ms.assetid: 318042d1-d486-5d52-91cb-0a102ee9ae9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [LinearGradient Object](Excel.LinearGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

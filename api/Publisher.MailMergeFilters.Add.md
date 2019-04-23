@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Add Method (Publisher)
+title: MailMergeFilters.Add method (Publisher)
 keywords: vbapb10.chm6750212
 f1_keywords:
 - vbapb10.chm6750212
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilters.Add
 ms.assetid: ab114dda-d144-7c5f-88b0-930cadcf53db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Add Method (Publisher)
+# MailMergeFilters.Add method (Publisher)
 
 Adds a new filter criterion to the specified  **MailMergeFilters** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Column_**,  **_Comparison_**,  **_Conjunction_**,  **_bstrCompareTo_**,  **_DeferUpdate_**)
+_expression_.**Add**(**_Column_**,  **_Comparison_**,  **_Conjunction_**,  **_bstrCompareTo_**,  **_DeferUpdate_**)
 
  _expression_ A variable that represents a  **MailMergeFilters** object.
 
@@ -59,3 +60,4 @@ Conjunction can be one of these  **MsoFilterConjunction** constants.
 | **msoFilterConjunctionAnd**|
 | **msoFilterConjunctionOr**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

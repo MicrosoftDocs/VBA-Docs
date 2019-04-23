@@ -1,5 +1,5 @@
 ---
-title: Field.ShowCodes Property (Word)
+title: Field.ShowCodes property (Word)
 keywords: vbawd10.chm154075145
 f1_keywords:
 - vbawd10.chm154075145
@@ -8,17 +8,18 @@ api_name:
 - Word.Field.ShowCodes
 ms.assetid: 36871ffb-b307-c36e-5896-74fba6feb524
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.ShowCodes Property (Word)
+# Field.ShowCodes property (Word)
 
- **True** if field codes are displayed for the specified field instead of field results. Read/write **Boolean** .
+ **True** if field codes are displayed for the specified field instead of field results. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowCodes`
+_expression_. `ShowCodes`
 
  _expression_ An expression that returns a '[Field](Word.Field.md)' object.
 
@@ -56,3 +57,4 @@ End If
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

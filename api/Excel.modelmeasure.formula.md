@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: fc6f6b80-1a80-3400-e98f-4cb74ad8e6e8
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ The Data Analysis Expressions (DAX) formula of the model measure. Read/write  **
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents a 'ModelMeasure' object.
+_expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ The Data Analysis Expressions (DAX) formula of the model measure. Read/write  **
 
 [ModelMeasure Object](Excel.modelmeasure.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

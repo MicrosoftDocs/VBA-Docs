@@ -1,5 +1,5 @@
 ---
-title: Selection.AutomaticLink Method (Visio)
+title: Selection.AutomaticLink method (Visio)
 keywords: vis_sdr.chm11160210
 f1_keywords:
 - vis_sdr.chm11160210
@@ -8,10 +8,11 @@ api_name:
 - Visio.Selection.AutomaticLink
 ms.assetid: 6943b2b1-269a-7759-d981-a3749cfbeaee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.AutomaticLink Method (Visio)
+# Selection.AutomaticLink method (Visio)
 
 Links selected shapes to data rows in the specified data recordset automatically, without requiring you to specify the exact correspondence of all shapes and data rows. Returns the number of shapes linked.
 
@@ -21,7 +22,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 
 ## Syntax
 
- _expression_. `AutomaticLink`( `_DataRecordsetID_` , `_ColumnNames()_` , `_AutoLinkFieldTypes()_` , `_FieldNames()_` , `_AutoLinkBehavior_` , `_ShapeIDs()_` )
+_expression_. `AutomaticLink`( `_DataRecordsetID_` , `_ColumnNames()_` , `_AutoLinkFieldTypes()_` , `_FieldNames()_` , `_AutoLinkBehavior_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
 
@@ -52,13 +53,13 @@ For the AutoLinkFieldTypes() parameter, pass an array of  **Long** values from t
 
 For the FieldNames() parameter, pass an array of strings that represent shape values. At least one position in the FieldNames() array must have a value that corresponds to the values in the same position in the ColumnNames() and AutoLinkFieldTypes() arrays.
 
-For most values of AutoLinkFieldTypes(), for example, for  **visAutoLinkShapeText** , it is not necessary to specify the FieldNames() value; you can pass an empty string instead. However, when you pass the **visAutoLinkCustPropsLabel** , **visAutoLinkUserRowName** , **visAutoLinkPropRowNameU** , or **visAutoLinkUserRowNameU** values of AutoLinkFieldTypes, you must pass a value for FieldNames() that fully specifies the shape data item (called custom property value in some previous versions of Visio) to compare to the data column name.
+For most values of AutoLinkFieldTypes(), for example, for  **visAutoLinkShapeText**, it is not necessary to specify the FieldNames() value; you can pass an empty string instead. However, when you pass the **visAutoLinkCustPropsLabel**, **visAutoLinkUserRowName**, **visAutoLinkPropRowNameU**, or **visAutoLinkUserRowNameU** values of AutoLinkFieldTypes, you must pass a value for FieldNames() that fully specifies the shape data item (called custom property value in some previous versions of Visio) to compare to the data column name.
 
 For the optional AutoLinkBehavior parameter, you can pass a combination of one or more values from the  **VisAutoLinkBehaviors** enumeration that specify how the linking will occur. The following table shows possible values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAutoLinkDontReplaceExistingLinks**|16|Do not replace existing links.|
 | **visAutoLinkGenericProgressBar**|2|Show generic progress bar instead of more detailed one.|
@@ -68,12 +69,12 @@ For the optional AutoLinkBehavior parameter, you can pass a combination of one o
 | **visAutoLinkReplaceExistingLinks**|8|Replace existing links.|
 | **visAutoLinkSelectedShapesOnly**|1|Link selected shapes only, not sub-shapes of selected shapes.|
 
-You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLinks** and **visAutoLinkReplaceExistingLinks** . The method returns an error if you attempt to do so.
+You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLinks** and **visAutoLinkReplaceExistingLinks**. The method returns an error if you attempt to do so.
 
 If you pass a value for AutoLinkBehavior, it modifies the default behavior, which is as follows:
 
 
-- Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt** , it is treated as if it were **visLinkReplaceAlways** .
+- Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt**, it is treated as if it were **visLinkReplaceAlways**.
     
 - Link selected shapes and their subshapes.
     
@@ -81,7 +82,7 @@ If you pass a value for AutoLinkBehavior, it modifies the default behavior, whic
     
 - Apply data graphics.
     
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . Visio will return the array filled with the IDs of the shapes that were linked to data by the method.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. Visio will return the array filled with the IDs of the shapes that were linked to data by the method.
 
 To provide Visio with enough information to create the links, you must supply at least one set of matching data: the name of a column in the data recordset, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method. The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item, shape text, or another of the values specified in the  **VisAutoLinkFieldTypes** enumeration.
 
@@ -92,7 +93,7 @@ For example, say that your drawing contains a selection of shapes representing d
     
 - For the AutoLinkFieldTypes() parameter, enumeration value  **visAutoLinkShapeText** at array position 0.
     
-- For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is  **visAutoLinkShapeText** , it is not necessary to specify the FieldNames() value.
+- For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is  **visAutoLinkShapeText**, it is not necessary to specify the FieldNames() value.
     
 
 ## Example
@@ -134,4 +135,4 @@ Public Sub AutomaticLink_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

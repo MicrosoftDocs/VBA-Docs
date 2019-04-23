@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSets.Count
 ms.assetid: 33e0e6d6-ce72-bc09-a4ff-1097956f0532
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that specifies the number of icon sets available in th
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
+_expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that specifies the number of icon sets available in th
 
 [IconSets Object](Excel.IconSets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

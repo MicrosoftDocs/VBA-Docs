@@ -6,19 +6,20 @@ f1_keywords:
 ms.assetid: 4f7b44a5-70da-be7d-306c-9a2d2c9ea724
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
 # ModelFormatDate.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a 'ModelFormatDate' object.
+_expression_ A variable that represents a 'ModelFormatDate' object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

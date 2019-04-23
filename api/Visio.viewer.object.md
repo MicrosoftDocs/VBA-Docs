@@ -3,6 +3,7 @@ title: Viewer Object (Visio Viewer)
 ms.prod: visio
 ms.assetid: 4d25251a-5c4d-42d4-a73e-7e1e987ff593
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ Use the  **[CustomPropertyCount](Visio.CustomPropertyCount.md)**,  **[CustomProp
 
 Use events such as  **[OnLayerChanged](Visio.OnLayerChanged.md)** and **[OnSelectionChanged](Visio.OnSelectionChanged.md)** to respond to user input.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

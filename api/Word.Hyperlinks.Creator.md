@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Creator Property (Word)
+title: Hyperlinks.Creator property (Word)
 keywords: vbawd10.chm161219561
 f1_keywords:
 - vbawd10.chm161219561
@@ -8,19 +8,20 @@ api_name:
 - Word.Hyperlinks.Creator
 ms.assetid: 6ba3b06b-38e3-36a0-c8f9-2c481fedf112
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks.Creator Property (Word)
+# Hyperlinks.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
+_expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

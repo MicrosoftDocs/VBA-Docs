@@ -1,5 +1,5 @@
 ---
-title: Panes Object (PowerPoint)
+title: Panes object (PowerPoint)
 keywords: vbapp10.chm630000
 f1_keywords:
 - vbapp10.chm630000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Panes
 ms.assetid: a6fe4d77-dff2-6e90-1df6-eb281bc46fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Panes Object (PowerPoint)
+# Panes object (PowerPoint)
 
 A collection of  **[Pane](PowerPoint.Pane.md)** objects that represent the slide, outline, and notes panes in the document window for normal view, or the single pane of any other view in the document window.
 
@@ -46,3 +47,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

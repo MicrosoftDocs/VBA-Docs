@@ -1,5 +1,5 @@
 ---
-title: Menus.Add Method (Visio)
+title: Menus.Add method (Visio)
 keywords: vis_sdr.chm13216005
 f1_keywords:
 - vis_sdr.chm13216005
@@ -8,17 +8,18 @@ api_name:
 - Visio.Menus.Add
 ms.assetid: 83b89047-43cd-04b9-0ad9-00e308389de4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menus.Add Method (Visio)
+# Menus.Add method (Visio)
 
 Adds a new object to a collection.
 
 
 ## Syntax
 
- _expression_. `Add`
+_expression_.**Add**
 
  _expression_ A variable that represents a [Menus](./Visio.Menus.md) collection.
 
@@ -35,4 +36,4 @@ Menu
 
 All properties of the new object are initialized to zero, so you need to set only the properties that you want to change.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

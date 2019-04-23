@@ -7,34 +7,39 @@ ms.prod: access
 api_name:
 - Access.Form.SelLeft
 ms.assetid: ddc05c0a-3132-5380-33c9-96fa2f92571d
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # Form.SelLeft property (Access)
 
-You can use the  **SelLeft** property to specify or determine which column (field) is leftmost in the current selection rectangle. Read/write **Long**.
+You can use the **SelLeft** property to specify or determine which column (field) is leftmost in the current selection rectangle. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `SelLeft`
+_expression_.**SelLeft**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-The  **SelLeft** property returns a value between 1 and the number of columns in the datasheet.
+The **SelLeft** property returns a value between 2 and the number of columns in the datasheet + 1 (Access starts counting at 0). The first two columns are always the record selector column and the expand/collapse indicator column for a subdatasheet.
 
-If there's no selection, the value returned by these properties is the row and column of the cell with the focus. If you've selected one or more records in the datasheet (using the record selectors), you can't change the setting of the  **SelLeft** property.
+If there's no selection, the value returned by these properties is the row and column of the cell with the focus. If you've selected one or more records in the datasheet (using the record selectors), you can't change the setting of the **SelLeft** property.
 
-You can use these properties with the  **SelHeight** and **SelWidth** properties to specify or determine the actual size of the selection rectangle. The **SelTop** and **SelLeft** properties determine the position of the upper-left corner of the selection rectangle. The **SelHeight** and **SelWidth** properties determine the lower-right corner of the selection rectangle.
+You can use these properties with the **SelHeight** and **SelWidth** properties to specify or determine the actual size of the selection rectangle. 
+
+The **SelTop** and **SelLeft** properties determine the position of the upper-left corner of the selection rectangle. 
+
+The **SelHeight** and **SelWidth** properties determine the lower-right corner of the selection rectangle.
 
 
 ## Example
 
-The following example shows how to use the  **SelHeight**, **SelWidth**, **SelTop**, and **SelLeft** properties to determine the position and size of a selection rectangle in datasheet view. The SetHeightWidth procedure assigns the height and width of the current selection rectangle to the variables `lngNumRows`,  `lngNumColumns`,  `lngTopRow`, and  `lngLeftColumn`, and displays those values in a message box.
+The following example shows how to use the **SelHeight**, **SelWidth**, **SelTop**, and **SelLeft** properties to determine the position and size of a selection rectangle in Datasheet view. The **SetHeightWidth** procedure assigns the height and width of the current selection rectangle to the variables `lngNumRows`, `lngNumColumns`, `lngTopRow`, and `lngLeftColumn` and displays those values in a message box.
 
 
 ```vb
@@ -74,8 +79,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

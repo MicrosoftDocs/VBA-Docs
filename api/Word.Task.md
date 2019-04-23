@@ -1,5 +1,5 @@
 ---
-title: Task Object (Word)
+title: Task object (Word)
 keywords: vbawd10.chm2434
 f1_keywords:
 - vbawd10.chm2434
@@ -8,10 +8,11 @@ api_name:
 - Word.Task
 ms.assetid: 8802fcd5-0947-2ea0-308a-376077633e34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task Object (Word)
+# Task object (Word)
 
 Represents a single task running on the system. The  **Task** object is a member of the **[Tasks](Word.tasks.md)** collection. The **Tasks** collection includes all the applications that are currently running on the system.
 
@@ -48,6 +49,6 @@ Use Visual Basic's  **Shell** function to run an executable program and add the 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

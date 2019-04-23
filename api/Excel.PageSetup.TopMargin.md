@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.TopMargin
 ms.assetid: 1c4efb20-844c-b602-48b4-ef60b8e5dda5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.TopMargin property (Excel)
 
-Returns or sets the size of the top margin, in points. Read/write  **Double** .
+Returns or sets the size of the top margin, in points. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `TopMargin`
+_expression_.**TopMargin**
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ MsgBox "The current top margin is " & marginInches & " inches"
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

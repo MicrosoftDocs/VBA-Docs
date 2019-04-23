@@ -1,14 +1,15 @@
 ---
-title: WdRelativeVerticalSize Enumeration (Word)
+title: WdRelativeVerticalSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeVerticalSize
 ms.assetid: 07a507e4-66fb-b383-fe36-aa5ccadbdcba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRelativeVerticalSize Enumeration (Word)
+# WdRelativeVerticalSize enumeration (Word)
 
 Specifies the relative height of a shape using the value specified in the  **HeightRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object.
 
@@ -23,3 +24,4 @@ Specifies the relative height of a shape using the value specified in the  **Hei
 | **wdRelativeVerticalSizePage**|1|Height is relative to the height of the page.|
 | **wdRelativeVerticalSizeTopMarginArea**|2|Height is relative to the size of the top margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

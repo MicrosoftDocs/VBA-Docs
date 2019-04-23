@@ -1,5 +1,5 @@
 ---
-title: Page.Document Property (Visio)
+title: Page.Document property (Visio)
 keywords: vis_sdr.chm10913430
 f1_keywords:
 - vis_sdr.chm10913430
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Document
 ms.assetid: 3616486c-4c54-698f-19ff-ddde2f5e7bec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Document Property (Visio)
+# Page.Document property (Visio)
 
 Gets the  **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -84,7 +85,7 @@ Public Sub Document_Example()
     'Get the Document object associated with various other objects.'Get the Document object associated with the Window object. 
     Set vsoTempDocument = vsoWindow.Document  
  
-    'Get the Title property of the Document object'to verify that this is the same document we added earlier.  
+    'Get the Title property of the Document object to verify that this is the same document we added earlier.  
     Debug.Print vsoTempDocument.Title  
  
     'Get the Document object associated with the Page object. 
@@ -102,4 +103,4 @@ Public Sub Document_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

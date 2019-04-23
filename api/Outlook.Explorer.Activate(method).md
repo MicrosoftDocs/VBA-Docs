@@ -1,5 +1,5 @@
 ---
-title: Explorer.Activate Method (Outlook)
+title: Explorer.Activate method (Outlook)
 keywords: vbaol11.chm2774
 f1_keywords:
 - vbaol11.chm2774
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.Activate
 ms.assetid: 53f33d64-7a33-6772-4abc-fe328d3abb57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.Activate Method (Outlook)
+# Explorer.Activate method (Outlook)
 
 Activates an explorer window by bringing it to the foreground and setting keyboard focus.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

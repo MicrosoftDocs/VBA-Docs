@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f7057317-7bc5-4b5a-b95f-61e92a66c5f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ A compatible ActiveX component is one that you specify as a compatible ActiveX c
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

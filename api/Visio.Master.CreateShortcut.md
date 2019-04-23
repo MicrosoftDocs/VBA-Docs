@@ -1,5 +1,5 @@
 ---
-title: Master.CreateShortcut Method (Visio)
+title: Master.CreateShortcut method (Visio)
 keywords: vis_sdr.chm10716150
 f1_keywords:
 - vis_sdr.chm10716150
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.CreateShortcut
 ms.assetid: e808ba09-b85a-52bb-55e2-ced37f426a3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.CreateShortcut Method (Visio)
+# Master.CreateShortcut method (Visio)
 
 Creates a shortcut for a master.
 
 
 ## Syntax
 
- _expression_. `CreateShortcut`
+_expression_. `CreateShortcut`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -60,4 +61,4 @@ Public Sub CreateShortcut_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

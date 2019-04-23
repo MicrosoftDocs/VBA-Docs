@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8009b4e5-d76b-43ec-81ba-abd97cd7ae48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.UndoLevels Property (Project)](http://msdn.microsoft.com/library/2cfd6962-2cae-b7fe-2c8d-f0c81a1c1302%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

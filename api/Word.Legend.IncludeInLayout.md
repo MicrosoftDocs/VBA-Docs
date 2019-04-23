@@ -1,5 +1,5 @@
 ---
-title: Legend.IncludeInLayout Property (Word)
+title: Legend.IncludeInLayout property (Word)
 keywords: vbawd10.chm147196274
 f1_keywords:
 - vbawd10.chm147196274
@@ -8,17 +8,18 @@ api_name:
 - Word.Legend.IncludeInLayout
 ms.assetid: dd0e4c44-ba2a-191b-fa0a-d231a27506f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Legend.IncludeInLayout Property (Word)
+# Legend.IncludeInLayout property (Word)
 
- **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
+ **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ A variable that represents a '[Legend](Word.Legend.md)' object.
 
@@ -33,3 +34,4 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 
 [Legend Object](Word.Legend.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

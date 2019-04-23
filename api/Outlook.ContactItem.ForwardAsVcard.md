@@ -1,5 +1,5 @@
 ---
-title: ContactItem.ForwardAsVcard Method (Outlook)
+title: ContactItem.ForwardAsVcard method (Outlook)
 keywords: vbaol11.chm1079
 f1_keywords:
 - vbaol11.chm1079
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.ForwardAsVcard
 ms.assetid: 3d4f0154-9860-823f-c316-c88e410b59c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.ForwardAsVcard Method (Outlook)
+# ContactItem.ForwardAsVcard method (Outlook)
 
 Creates a  **[MailItem](Outlook.MailItem.md)** and attaches the contact information in vCard format.
 
 
 ## Syntax
 
- _expression_. `ForwardAsVcard`
+_expression_. `ForwardAsVcard`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ vCard is the Internet standard for creating and sharing virtual business cards.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,36 +7,30 @@ ms.prod: excel
 api_name:
 - Excel.CellFormat.VerticalAlignment
 ms.assetid: c901dff3-3f0a-1f54-250e-c03b9e32c819
-ms.date: 06/08/2017
+ms.date: 04/16/2019
+localization_priority: Normal
 ---
 
 
 # CellFormat.VerticalAlignment property (Excel)
 
-Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
+Returns or sets a **Variant** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
- _expression_ A variable that represents a [CellFormat](Excel.CellFormat.md) object.
+_expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** object.
 
 
 ## Remarks
 
-The value of this property can be set to one of the following constants:
-
-* **xlBottom**
-* **xlCenter**
-* **xlDistributed**
-* **xlJustify**
-* **xlTop**
+TThe value of this property can be set to one of the **[XlVAlign](excel.xlvalign.md)** constants.
 
 ## Example
 
-This example sets the height of row 2 on Sheet1 to twice the standard height and then centers the contents of the row vertically.
-
+This example sets the height of row 2 on Sheet1 to twice the standard height, and then centers the contents of the row vertically.
 
 ```vb
 Worksheets("Sheet1").Rows(2).RowHeight = _ 
@@ -46,8 +40,6 @@ Worksheets("Sheet1").Rows(2).VerticalAlignment = xlVAlignCenter
 ```
 
 
-## See also
 
 
-[CellFormat Object](Excel.CellFormat.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.FormatCondition.Delete
 ms.assetid: 651e6954-eac9-0095-9d52-30df4f6f23cd
-ms.date: 06/08/2017
+ms.date: 03/20/2019
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Deletes the specified object.
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
-_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a **[FormatCondition](Access.FormatCondition.md)** object.
 
 
 ## Return value
@@ -28,8 +29,5 @@ _expression_ A variable that represents a [FormatCondition](Access.FormatConditi
 Nothing
 
 
-## See also
 
-
-[FormatCondition Object](Access.FormatCondition.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

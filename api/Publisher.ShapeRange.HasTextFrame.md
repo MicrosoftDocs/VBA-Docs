@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasTextFrame Property (Publisher)
+title: ShapeRange.HasTextFrame property (Publisher)
 keywords: vbapb10.chm2293858
 f1_keywords:
 - vbapb10.chm2293858
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.HasTextFrame
 ms.assetid: 8a3b4f3b-3282-686b-f4fe-abf2d7677b3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.HasTextFrame Property (Publisher)
+# ShapeRange.HasTextFrame property (Publisher)
 
 Indicates whether the specified shape has a  **TextFrame** object associated with it. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasTextFrame**
+_expression_.**HasTextFrame**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -31,7 +32,7 @@ The  **HasTextFrame** property value can be one of the **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The specified shape does not have a **TextFrame** object associated with it.|
 | **msoTriStateMixed**| Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
@@ -55,4 +56,4 @@ Sub MoveLeft()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

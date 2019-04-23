@@ -1,5 +1,5 @@
 ---
-title: LetterContent.AttentionLine Property (Word)
+title: LetterContent.AttentionLine property (Word)
 keywords: vbawd10.chm161546355
 f1_keywords:
 - vbawd10.chm161546355
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.AttentionLine
 ms.assetid: 56cbda4c-08ff-2d0b-2b1b-2c5e0ac26fea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.AttentionLine Property (Word)
+# LetterContent.AttentionLine property (Word)
 
-Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `AttentionLine`
+_expression_. `AttentionLine`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -54,3 +55,4 @@ ActiveDocument.SetLetterContent LetterContent:=lcTemp
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

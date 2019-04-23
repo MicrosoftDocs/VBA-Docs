@@ -1,5 +1,5 @@
 ---
-title: TextRange.Collapse Method (Publisher)
+title: TextRange.Collapse method (Publisher)
 keywords: vbapb10.chm5308420
 f1_keywords:
 - vbapb10.chm5308420
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Collapse
 ms.assetid: ae177297-bf3b-ce0f-cf3a-29093b115996
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Collapse Method (Publisher)
+# TextRange.Collapse method (Publisher)
 
 Collapses a range or selection to the starting position or ending position. After a range or selection is collapsed, the starting point and the ending point are equal.
 
 
 ## Syntax
 
- _expression_. **Collapse**(**_Direction_**)
+_expression_.**Collapse**(**_Direction_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -82,4 +83,4 @@ Sub CollapseSelection()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

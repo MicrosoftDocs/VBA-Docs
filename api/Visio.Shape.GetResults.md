@@ -1,5 +1,5 @@
 ---
-title: Shape.GetResults Method (Visio)
+title: Shape.GetResults method (Visio)
 keywords: vis_sdr.chm11216320
 f1_keywords:
 - vis_sdr.chm11216320
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.GetResults
 ms.assetid: 7380f8b4-ec22-2271-f4ce-19869264ec25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GetResults Method (Visio)
+# Shape.GetResults method (Visio)
 
 Gets the results or formulas of many cells.
 
 
 ## Syntax
 
- _expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
+_expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -60,7 +61,7 @@ The  _Flags_ argument indicates what data type the returned results should be ex
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetFloats**|0|Results returned as doubles (VT_R8).|
 | **visGetTruncatedInts**|1|Results returned as truncated long integers (VT_I4).|
@@ -69,9 +70,9 @@ The  _Flags_ argument indicates what data type the returned results should be ex
 | **visGetFormulas**|4|Formulas returned as strings (VT_BSTR).|
 | **visGetFormulasU**|5|Formulas returned in universal syntax (VT_BSTR).|
 
-The  _UnitsNamesOrCodes()_ parameter is an array that controls what measurement units individual results are returned in. Each entry in the array can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Visio units such as centimeters, meters, miles, and so on. You can also indicate desired units with integer constants (**visCentimeters** , **visInches** , etc.) declared by the Visio type library. Note that the values specified in the _UnitsNamesOrCodes()_ array have no effect if _Flags_ is **visGetFormulas** .
+The  _UnitsNamesOrCodes()_ parameter is an array that controls what measurement units individual results are returned in. Each entry in the array can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Visio units such as centimeters, meters, miles, and so on. You can also indicate desired units with integer constants (**visCentimeters**, **visInches**, etc.) declared by the Visio type library. Note that the values specified in the _UnitsNamesOrCodes()_ array have no effect if _Flags_ is **visGetFormulas**.
 
-If  _UnitsNamesOrCodes_ is not null, the application expects it to be a one-dimensional array of 1 <= _u_**Variants** . Each entry can be a string or integer code, or empty (nothing). If the _i_ 'th entry is empty, the _i_ 'th returned result is returned in the units designated by _UnitsNamesOrCodes(j)_, where  _j_ is the index of the most recent prior non-empty entry. Thus if you want all returned values to be in the same units, you need only pass a _UnitsNamesOrCodes()_ array with one entry. If there is no prior non-empty entry, or if no _UnitsNameOrCodes()_ array is supplied, **visNumber** (0x20) is used. This causes internal units (like the **ResultIU** property of a **Cell** object) to be returned.
+If  _UnitsNamesOrCodes_ is not null, the application expects it to be a one-dimensional array of 1 <= _u_**Variants**. Each entry can be a string or integer code, or empty (nothing). If the _i_ 'th entry is empty, the _i_ 'th returned result is returned in the units designated by _UnitsNamesOrCodes(j)_, where  _j_ is the index of the most recent prior non-empty entry. Thus if you want all returned values to be in the same units, you need only pass a _UnitsNamesOrCodes()_ array with one entry. If there is no prior non-empty entry, or if no _UnitsNameOrCodes()_ array is supplied, **visNumber** (0x20) is used. This causes internal units (like the **ResultIU** property of a **Cell** object) to be returned.
 
 If the  **GetResults** method succeeds, results returns a one-dimensional array of _n_ variants indexed from zero (0) to _n_ - 1. The type of the returned variants is a function of _Flags_. The  _resultArray()_ parameter is an out parameter that is allocated by the **GetResults** method, which passes ownership back to the caller. The caller should eventually perform **SafeArrayDestroy** on the returned array. Note that **SafeArrayDestroy** has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetResults** method returns. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.)
 
@@ -136,4 +137,4 @@ HandleError:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,30 +1,27 @@
 ---
-title: Using Excel Worksheet Functions in Visual Basic
+title: Using Excel worksheet functions in Visual Basic
 keywords: vbaxl10.chm81924
 f1_keywords:
 - vbaxl10.chm81924
 ms.prod: excel
 ms.assetid: 46e6ba32-8a58-509c-03e8-a23c41b0a400
-ms.date: 06/08/2017
+ms.date: 11/13/2018
+localization_priority: Priority
 ---
 
 
-# Using Excel Worksheet Functions in Visual Basic
+# Using Excel worksheet functions in Visual Basic
 
-You can use most Microsoft Excel worksheet functions in your Visual Basic statements. For a list of the worksheet functions you can use, see  [List of Worksheet Functions Available to Visual Basic](list-of-worksheet-functions-available-to-visual-basic.md).
+You can use most Microsoft Excel worksheet functions in your Visual Basic statements. For a list of the worksheet functions you can use, see [List of worksheet functions available to Visual Basic](list-of-worksheet-functions-available-to-visual-basic.md).
 
+> [!NOTE] 
+> Some worksheet functions are not useful in Visual Basic. For example, the **Concatenate** function is not needed because in Visual Basic you can use the **&** operator to join multiple text values.
 
- **Note**  Some worksheet functions are not useful in Visual Basic. For example, the  **Concatenate** function is not needed because in Visual Basic you can use the **&** operator to join multiple text values.
+## Calling a worksheet function from Visual Basic
 
+In Visual Basic, the Excel worksheet functions are available through the **WorksheetFunction** object.
 
-## Calling a Worksheet Function from Visual Basic
-
-In Visual Basic, the Excel worksheet functions are available through the  **WorksheetFunction** object.
-
-The following  **Sub** procedure uses the **Min** worksheet function to determine the smallest value in a range of cells. First, the variable `myRange` is declared as a **Range** object, and then it is set to range A1:C10 on Sheet1. Another variable, `answer`, is assigned the result of applying the  **Min** function to `myRange`. Finally, the value of  `answer` is displayed in a message box.
-
-
-
+The following **Sub** procedure uses the **Min** worksheet function to determine the smallest value in a range of cells. First, the variable `myRange` is declared as a **Range** object, and then it is set to range A1:C10 on Sheet1. Another variable, `answer`, is assigned the result of applying the **Min** function to `myRange`. Finally, the value of  `answer` is displayed in a message box.
 
 ```vb
 Sub UseFunction() 
@@ -35,10 +32,9 @@ Sub UseFunction()
 End Sub
 ```
 
-If you use a worksheet function that requires a range reference as an argument, you must specify a  **Range** object. For example, you can use the **Match** worksheet function to search a range of cells. In a worksheet cell, you would enter a formula such as =MATCH(9,A1:A10,0). However, in a Visual Basic procedure, you would specify a **Range** object to get the same result.
+<br/>
 
-
-
+If you use a worksheet function that requires a range reference as an argument, you must specify a **Range** object. For example, you can use the **Match** worksheet function to search a range of cells. In a worksheet cell, you would enter a formula such as =MATCH(9,A1:A10,0). However, in a Visual Basic procedure, you would specify a **Range** object to get the same result.
 
 ```vb
 Sub FindFirst() 
@@ -48,14 +44,13 @@ Sub FindFirst()
 End Sub
 ```
 
+> [!NOTE] 
+> Visual Basic functions do not use the **WorksheetFunction** qualifier. A function may have the same name as a Microsoft Excel function and yet work differently. For example, `Application.WorksheetFunction.Log` and `Log` will return different values.
 
- **Note**  Visual Basic functions do not use the  **WorksheetFunction** qualifier. A function may have the same name as a Microsoft Excel function and yet work differently. For example, `Application.WorksheetFunction.Log` and `Log` will return different values.
 
+## Inserting a worksheet function into a cell
 
-## Inserting a Worksheet Function into a Cell
-
-To insert a worksheet function into a cell, you specify the function as the value of the  **Formula** property of the corresponding **Range** object. In the following example, the RAND worksheet function (which generates a random number) is assigned to the **Formula** property of range A1:B3 on Sheet1 in the active workbook.
-
+To insert a worksheet function into a cell, you specify the function as the value of the **Formula** property of the corresponding **Range** object. In the following example, the RAND worksheet function (which generates a random number) is assigned to the **Formula** property of range A1:B3 on Sheet1 in the active workbook.
 
 ```vb
 Sub InsertFormula() 
@@ -63,11 +58,9 @@ Sub InsertFormula()
 End Sub
 ```
 
-
 ## Example
 
-This example uses the worksheet function  **Pmt** to calculate a home mortgage loan payment. Notice that this example uses the **InputBox** method instead of the **InputBox** function so that the method can perform type checking. The **Static** statements cause Visual Basic to retain the values of the three variables; these are displayed as default values the next time you run the program.
-
+This example uses the worksheet function **Pmt** to calculate a home mortgage loan payment. Notice that this example uses the **InputBox** method instead of the **InputBox** function so that the method can perform type checking. The **Static** statements cause Visual Basic to retain the values of the three variables; these are displayed as default values the next time you run the program.
 
 ```vb
 Static loanAmt 
@@ -87,4 +80,8 @@ payment = Application.WorksheetFunction _
 MsgBox "Monthly payment is " & Format(payment, "Currency")
 ```
 
+## See also
 
+- [Excel functions (by category)](https://support.office.com/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

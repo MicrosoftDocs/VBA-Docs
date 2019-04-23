@@ -3,6 +3,7 @@ title: Standard Fields Overview
 ms.prod: outlook
 ms.assetid: f0d903a3-f404-8511-af3d-d4f3e30f0779
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,7 +46,7 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Modified|No| **Date/Time**. Last time the  **Calendar** item was modified.|
 |NetMeeting AutoStart|Yes| **Yes/No**. Specifies whether an online meeting starts immediately when the reminder appears.|
 |NetMeeting Office Document Path|Yes| **Text**. Specifies the path of the Microsoft Office document used for online-meeting collaboration.|
-|NetMeeting Organizer E-mail|Yes| **Text**. E-mail address of the online-meeting organizer.|
+|NetMeeting Organizer Email|Yes| **Text**. Email address of the online-meeting organizer.|
 |NetMeeting Server|Yes| **Text**. Name of the NetMeeting server for the online meeting.|
 |NetMeeting Type|No|The following settings apply: **0** NetMeeting **1** NetShow|
 |NetMeeting URL|Yes| **Text**. The URL of the online meeting.|
@@ -117,14 +118,14 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Created|No| **Date/Time**. The date and time the contact is created.|
 |Customer ID|Yes| **Text**.|
 |Department|Yes| **Text**.|
-|E-mail|No| **Text**.|
-|E-mail 2|No| **Text**.|
-|E-mail 3|No| **Text**.|
-|E-mail Selected|Yes|Displays the e-mail address that was entered based on the value of the  **E-mail Selector** field.|
-|E-mail Selector|Yes|The following settings apply: **0** E-mail **1** E-mail 2 **2** E-mail 3|
-|E-mail Display As|Yes| **Text**. Alternate text that represents the e-mail address stored in the  **E-mail** field. This text displays on the **To** line when addressing a message or appointment.|
-|E-mail2 Display As|Yes| **Text**. Alternate text that represents the e-mail address stored in the  **E-mail 2** field. This text displays on the **To** line when addressing a message or appointment.|
-|E-mail3 Display As|Yes| **Text**. Alternate text that represents the e-mail address stored in the  **E-mail 3** field. This text displays on the **To** line when addressing a message or appointment.|
+|Email|No| **Text**.|
+|Email 2|No| **Text**.|
+|Email 3|No| **Text**.|
+|Email Selected|Yes|Displays the email address that was entered based on the value of the  **Email Selector** field.|
+|Email Selector|Yes|The following settings apply: **0** Email **1** Email 2 **2** Email 3|
+|Email Display As|Yes| **Text**. Alternate text that represents the email address stored in the  **Email** field. This text displays on the **To** line when addressing a message or appointment.|
+|Email2 Display As|Yes| **Text**. Alternate text that represents the email address stored in the  **Email 2** field. This text displays on the **To** line when addressing a message or appointment.|
+|Email3 Display As|Yes| **Text**. Alternate text that represents the email address stored in the  **Email 3** field. This text displays on the **To** line when addressing a message or appointment.|
 |File As|No| **Text**. Value of the  **Full Name** field, unless modified by the user.|
 |First Name|Yes| **Text**.|
 |Follow Up Flag|Yes| **Text**.|
@@ -258,7 +259,7 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Start|Yes| **Date/Time**. Start time for the  **Journal** entry.|
 |Subject|Yes| **Text**.|
 
-### Standard fields in an e-mail message
+### Standard fields in an email message
 
 
 
@@ -286,7 +287,7 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Icon|Yes|Internal data type.|
 |Importance|Yes|The following settings apply: **0** Low importance **1** Normal importance **2** High importance|
 |In Folder|No| **Text**. Name of the folder that contains the message.|
-|Junk E-mail type|Yes|Internal data type.|
+|Junk Email type|Yes|Internal data type.|
 |Message|No| **Text**. Value of the text box in a message.|
 |Message Class|No|Specifies the message class for the type of item. |
 |Message Flag|Yes| **Text**. Action associated with a Message Flag. When a value is entered for Message Flag, the Flag Status field is set to 2.|
@@ -418,3 +419,4 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Size|No| **Number**. Number of bytes used by the message.|
 |Subject|Yes| **Text**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Names
 ms.assetid: 26be56ec-ea12-1600-602a-eb338d4a5a8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Names](Excel.Names.md)** collection that represents all the names 
 
 ## Syntax
 
- _expression_. `Names`
+_expression_. `Names`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveWorkbook.Names.Add Name:="myName", RefersToR1C1:= _
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

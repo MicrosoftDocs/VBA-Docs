@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 keywords: vbawd10.chm165347597
 f1_keywords:
 - vbawd10.chm165347597
@@ -8,17 +8,18 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning
 ms.assetid: b6450b00-f073-a7f3-2ce4-6fc057a17d41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning Property (Word)
+# EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 
- **True** if Word repeats character formatting applied to the beginning of a list item to the next list item. Read/write **Boolean** .
+ **True** if Word repeats character formatting applied to the beginning of a list item to the next list item. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeFormatListItemBeginning`
+_expression_. `AutoFormatAsYouTypeFormatListItemBeginning`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
@@ -50,3 +51,4 @@ blnAutoFormat = _
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

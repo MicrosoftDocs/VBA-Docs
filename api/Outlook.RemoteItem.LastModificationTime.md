@@ -1,5 +1,5 @@
 ---
-title: RemoteItem.LastModificationTime Property (Outlook)
+title: RemoteItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1599
 f1_keywords:
 - vbaol11.chm1599
@@ -8,24 +8,25 @@ api_name:
 - Outlook.RemoteItem.LastModificationTime
 ms.assetid: 6ab53bc2-acd7-c453-a7df-ed0c8668af35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RemoteItem.LastModificationTime Property (Outlook)
+# RemoteItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](Outlook.RemoteItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

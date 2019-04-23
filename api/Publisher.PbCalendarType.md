@@ -1,5 +1,5 @@
 ---
-title: PbCalendarType Enumeration (Publisher)
+title: PbCalendarType enumeration (Publisher)
 keywords: vbapb10.chm65605
 f1_keywords:
 - vbapb10.chm65605
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbCalendarType
 ms.assetid: 6edcb430-7334-72d1-b1b1-898ee5486a57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbCalendarType Enumeration (Publisher)
+# PbCalendarType enumeration (Publisher)
 
 The calendar type to use when displaying the date or time.
 
@@ -30,3 +31,4 @@ The calendar type to use when displaying the date or time.
 | **pbCalendarTypeTranslitFrench**|9|French calendar|
 | **pbCalendarTypeWestern**|0|Western calendar|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

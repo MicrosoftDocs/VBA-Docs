@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Mask Property (Office)
+title: CommandBarButton.Mask property (Office)
 keywords: vbaof11.chm6010
 f1_keywords:
 - vbaof11.chm6010
@@ -7,35 +7,36 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Mask
 ms.assetid: de7179ac-6b39-2323-d84a-23abe3ed3167
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarButton.Mask Property (Office)
+# CommandBarButton.Mask property (Office)
 
-Gets or sets an  **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
+Gets or sets an **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Mask`
+_expression_.**Mask**
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
 
 When you create an image that you plan on using as a mask image, all of the areas that you want to be transparent should be white, and all of the areas that you want to show should be black.
 
-Always set the mask after you have set the picture for a  **CommandBarButton** object.
+Always set the mask after you have set the picture for a **CommandBarButton** object.
 
 
 ## Example
 
-The following example sets the image and mask of the first  **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and sustitute the paths in the sample with the paths to your images.
+The following example sets the image and mask of the first **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and substitute the paths in the sample with the paths to your images.
 
 
 ```vb
@@ -61,10 +62,9 @@ Sub ChangeButtonImage()
 End Sub
 ```
 
-The following example gets the image and mask of the first  **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
+<br/>
 
-
-
+The following example gets the image and mask of the first **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
 
 ```vb
 Sub GetButtonImageAndMask() 
@@ -87,10 +87,6 @@ End Sub
 
 ## See also
 
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

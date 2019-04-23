@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.ColorIndex Property (Word)
+title: ChartBorder.ColorIndex property (Word)
 keywords: vbawd10.chm61014018
 f1_keywords:
 - vbawd10.chm61014018
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartBorder.ColorIndex
 ms.assetid: e9457184-7100-9482-398e-cc7f11e4b05c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartBorder.ColorIndex Property (Word)
+# ChartBorder.ColorIndex property (Word)
 
-Returns or sets the color of the border. Read/write  **Variant** .
+Returns or sets the color of the border. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
  _expression_ A variable that represents a '[ChartBorder](Word.ChartBorder.md)' object.
 
@@ -57,3 +58,4 @@ End With
 
 [ChartBorder Object](Word.ChartBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

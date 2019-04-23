@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportColorReduction Property (Visio)
+title: ApplicationSettings.RasterExportColorReduction property (Visio)
 keywords: vis_sdr.chm16262530
 f1_keywords:
 - vis_sdr.chm16262530
@@ -8,17 +8,18 @@ api_name:
 - Visio.RasterExportColorReduction
 ms.assetid: 7897f3aa-d7d1-4dcc-d4f1-9c38771c0122
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportColorReduction Property (Visio)
+# ApplicationSettings.RasterExportColorReduction property (Visio)
 
-Determines the color reduction that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, PNG, or TIFF file. Read/write.
+Determines the color reduction that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, PNG, or TIFF file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportColorReduction`
+_expression_. `RasterExportColorReduction`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
@@ -36,7 +37,7 @@ The value of the  **RasterExportColorReduction** property can be one of the foll
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterAdaptive**|0|Adaptive color reduction; the default for GIF files|
 | **visRasterDiffusion**|1|Diffusion color reduction|
@@ -48,4 +49,4 @@ For any given session of Microsoft Visio, when the  **RasterExportColorReduction
 
 The setting of the  **RasterExportColorReduction** property corresponds to the **Color reduction** setting in the **BMP Output Options**,  **GIF Output Options**,  **PNG Output Options**, or  **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)**,  **Graphics Interchange Format (*.gif)**,  **Portable Network Graphics (*.png)**, or  **Tag Image File Format (*.tif)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

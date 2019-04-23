@@ -1,21 +1,22 @@
 ---
-title: Application.Windows Property (Project)
+title: Application.Windows property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Windows
 ms.assetid: 0f589af9-d587-3cfc-ffbb-64d901ff3bd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Windows Property (Project)
+# Application.Windows property (Project)
 
 Gets a  **[Windows](Project.windows(object).md)** collection representing the open windows in the application. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `Windows`
+_expression_. `Windows`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -47,4 +48,4 @@ Sub CascadeWindows()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

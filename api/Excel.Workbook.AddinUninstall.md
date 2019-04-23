@@ -1,5 +1,5 @@
 ---
-title: Workbook.AddinUninstall Event (Excel)
+title: Workbook.AddinUninstall event (Excel)
 keywords: vbaxl10.chm503081
 f1_keywords:
 - vbaxl10.chm503081
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.AddinUninstall
 ms.assetid: e35ba67b-3e04-d950-2f8b-141e478ddb67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.AddinUninstall Event (Excel)
+# Workbook.AddinUninstall event (Excel)
 
 Occurs when the workbook is uninstalled as an add-in.
 
 
 ## Syntax
 
- _expression_. `AddinUninstall`
+_expression_. `AddinUninstall`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value
@@ -50,3 +51,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Styles Object (Visio)
+title: Styles object (Visio)
 keywords: vis_sdr.chm10260
 f1_keywords:
 - vis_sdr.chm10260
@@ -8,10 +8,11 @@ api_name:
 - Visio.Styles
 ms.assetid: 327c9f05-ddb5-bf70-86bf-69eb0763512c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles Object (Visio)
+# Styles object (Visio)
 
 Includes a  **Style** object for each style defined in a document.
 
@@ -20,6 +21,6 @@ Includes a  **Style** object for each style defined in a document.
 
 To retrieve a  **Styles** collection, use the **Styles** property of a **Document** object.
 
-The default property of a  **Styles** collection is **Item** .
+The default property of a  **Styles** collection is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

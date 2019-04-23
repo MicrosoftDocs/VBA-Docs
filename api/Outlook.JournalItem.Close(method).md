@@ -1,5 +1,5 @@
 ---
-title: JournalItem.Close Method (Outlook)
+title: JournalItem.Close method (Outlook)
 keywords: vbaol11.chm1257
 f1_keywords:
 - vbaol11.chm1257
@@ -8,19 +8,20 @@ api_name:
 - Outlook.JournalItem.Close
 ms.assetid: f067cad9-828f-49f0-de55-c0a9f8369db9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.Close Method (Outlook)
+# JournalItem.Close method (Outlook)
 
 Closes and optionally saves changes to the Outlook item.
 
 
 ## Syntax
 
- _expression_. `Close`( `_SaveMode_` )
+_expression_. `Close`( `_SaveMode_` )
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Closes and optionally saves changes to the Outlook item.
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

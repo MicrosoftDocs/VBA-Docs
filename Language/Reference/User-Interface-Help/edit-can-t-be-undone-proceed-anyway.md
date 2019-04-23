@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7eed239f-5855-6172-ff28-2cefce3cb8b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ You won't be able to choose the  **Undo** command to restore the current state a
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

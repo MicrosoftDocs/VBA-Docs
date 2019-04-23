@@ -3,6 +3,7 @@ title: Filtering Items Using an Integer Comparison
 ms.prod: outlook
 ms.assetid: c67d95b2-f635-b751-d9c6-c7bdf406a01a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,4 +28,4 @@ criteria = "[Importance] = " _ & CStr(Outlook.OlImportance.olImportanceHigh)
 criteria = "@SQL=" & Chr(34) & "urn:schemas:httpmail:importance" _ & Chr(34) & " = 2"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

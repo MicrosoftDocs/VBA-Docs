@@ -1,21 +1,22 @@
 ---
-title: Project.GetTaskIndexByGuid Method (Project)
+title: Project.GetTaskIndexByGuid method (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.GetTaskIndexByGuid
 ms.assetid: 6887241c-9daf-385b-42a2-7a82b37c8da7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.GetTaskIndexByGuid Method (Project)
+# Project.GetTaskIndexByGuid method (Project)
 
 Returns the local task identification number (ID) for the specified task.
 
 
 ## Syntax
 
- _expression_. `GetTaskIndexByGuid`( ` _TaskGuid_` )
+_expression_. `GetTaskIndexByGuid`( `_TaskGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -49,4 +50,4 @@ Function TestTaskId() As Long
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

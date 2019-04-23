@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4182ffe1-557e-4334-8a45-b6cfc58e1517
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ExportAsFixedFormat Method (Project)](http://msdn.microsoft.com/library/ee217506-bcc5-a514-0c32-ba6402ac07f2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

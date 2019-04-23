@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListType Property (Publisher)
+title: ParagraphFormat.ListType property (Publisher)
 keywords: vbapb10.chm5439521
 f1_keywords:
 - vbapb10.chm5439521
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.ListType
 ms.assetid: 04ae7157-e864-4e95-74ff-59821eceb286
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListType Property (Publisher)
+# ParagraphFormat.ListType property (Publisher)
 
 Returns a  **PbListType** constant from the specified **ParagraphFormat** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **ListType**
+_expression_.**ListType**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -55,4 +56,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.SelectRowStart Method (Project)
+title: Application.SelectRowStart method (Project)
 keywords: vbapj.chm2043
 f1_keywords:
 - vbapj.chm2043
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectRowStart
 ms.assetid: cbb2c5a8-edbb-5d5e-e4ef-5a952db769c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectRowStart Method (Project)
+# Application.SelectRowStart method (Project)
 
 Selects the first cell in the row containing the active cell.
 
 
 ## Syntax
 
- _expression_. `SelectRowStart`( ` _Extend_` )
+_expression_. `SelectRowStart`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Selects the first cell in the row containing the active cell.
 
 The  **SelectRowStart** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.CheckResourceErrors Method (Project)
+title: Application.CheckResourceErrors method (Project)
 keywords: vbapj.chm2258
 f1_keywords:
 - vbapj.chm2258
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CheckResourceErrors
 ms.assetid: 780cf9c8-078b-3707-f0e4-a468432c1ced
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CheckResourceErrors Method (Project)
+# Application.CheckResourceErrors method (Project)
 
 Checks for errors when resources are imports to the enterprise, or when enterprise resource pool is saved.
 
 
 ## Syntax
 
- _expression_. `CheckResourceErrors`( ` _LocalRUID_`, ` _ResetImport_`, ` _CheckEnterprise_` )
+_expression_. `CheckResourceErrors`( `_LocalRUID_`, `_ResetImport_`, `_CheckEnterprise_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -37,4 +38,4 @@ Checks for errors when resources are imports to the enterprise, or when enterpri
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

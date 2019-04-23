@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9e80faa8-08b7-4340-8530-9832c6cb5fa1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CustomerData Object (PowerPoint)](http://msdn.microsoft.com/library/d0f12686-9f55-2c5a-1c61-80cf0401825f.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

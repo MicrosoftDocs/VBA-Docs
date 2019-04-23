@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: e3af2949-6d6b-ac62-d151-d65007256591
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,5 @@ No column width parameter is specified in the text file specification for the Te
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

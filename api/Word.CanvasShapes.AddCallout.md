@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddCallout Method (Word)
+title: CanvasShapes.AddCallout method (Word)
 keywords: vbawd10.chm7536650
 f1_keywords:
 - vbawd10.chm7536650
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.AddCallout
 ms.assetid: 87affac3-523e-165f-690a-75bd9e0b9961
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.AddCallout Method (Word)
+# CanvasShapes.AddCallout method (Word)
 
 Adds a borderless line callout to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the callout.
 
 
 ## Syntax
 
- _expression_. `AddCallout`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddCallout`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters
@@ -30,10 +31,10 @@ Adds a borderless line callout to a drawing canvas. Returns a  **[Shape](Word.Sh
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **MsoCallout**|The type of callout.|
-| _Left_|Required| **Single**|The position, in points, of the left edge of the callout's bounding box.|
-| _Top_|Required| **Single**|The position, in points, of the top edge of the callout's bounding box.|
-| _Width_|Required| **Single**|The width, in points, of the callout's bounding box.|
-| _Height_|Required| **Single**|The height, in points, of the callout's bounding box.|
+| _Left_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the callout's bounding box.|
+| _Top_|Required| **Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the callout's bounding box.|
+| _Width_|Required| **Single**|The width, in [points](../language/glossary/vbe-glossary.md#point), of the callout's bounding box.|
+| _Height_|Required| **Single**|The height, in [points](../language/glossary/vbe-glossary.md#point), of the callout's bounding box.|
 
 ## Remarks
 
@@ -66,3 +67,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

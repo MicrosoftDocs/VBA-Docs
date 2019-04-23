@@ -1,5 +1,5 @@
 ---
-title: Style.ListTemplate Property (Word)
+title: Style.ListTemplate property (Word)
 keywords: vbawd10.chm153878542
 f1_keywords:
 - vbawd10.chm153878542
@@ -8,19 +8,20 @@ api_name:
 - Word.Style.ListTemplate
 ms.assetid: fb3036e0-3010-0577-c5b3-40246263c4f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.ListTemplate Property (Word)
+# Style.ListTemplate property (Word)
 
 Returns a  **ListTemplate** object that represents the list formatting for the specified **Style** object.
 
 
 ## Syntax
 
- _expression_. `ListTemplate`
+_expression_. `ListTemplate`
 
- _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
+_expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ A list template includes all the formatting that defines a particular list. Each
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

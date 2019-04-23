@@ -1,5 +1,5 @@
 ---
-title: WebListBox.MultiSelect Property (Publisher)
+title: WebListBox.MultiSelect property (Publisher)
 keywords: vbapb10.chm4063236
 f1_keywords:
 - vbapb10.chm4063236
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebListBox.MultiSelect
 ms.assetid: cc81682f-5212-0912-d979-16567c2dc42b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebListBox.MultiSelect Property (Publisher)
+# WebListBox.MultiSelect property (Publisher)
 
 Specifies whether a user may select more than one item in a Web list box control. Read/write.
 
 
 ## Syntax
 
- _expression_. **MultiSelect**
+_expression_.**MultiSelect**
 
  _expression_ A variable that represents a  **WebListBox** object.
 
@@ -34,7 +35,7 @@ The  **MultiSelect** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Indicates a user may only select one item in a Web list box control.|
 | **msoTrue**| Indicates a user may select more than one item in a Web list box control.|
@@ -65,4 +66,4 @@ Sub NewListBoxItems()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

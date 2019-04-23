@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.ShrinkToFit
 ms.assetid: 7a2a6b27-64de-b1f3-800a-3ff1f4727af8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value that indicates if Microsoft Excel automatically shrinks text to 
 
 ## Syntax
 
- _expression_. `ShrinkToFit`
+_expression_.**ShrinkToFit**
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Returns  **True** if text automatically shrinks to fit in the available column w
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rank Method (Excel)
+title: WorksheetFunction.Rank method (Excel)
 keywords: vbaxl10.chm137159
 f1_keywords:
 - vbaxl10.chm137159
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Rank
 ms.assetid: e75cabc4-1d97-b8fd-4e7d-3b12ab6a53c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Rank Method (Excel)
+# WorksheetFunction.Rank method (Excel)
 
 Returns the rank of a number in a list of numbers. The rank of a number is its size relative to other values in a list. (If you were to sort the list, the rank of the number would be its position.)
 
@@ -26,9 +27,9 @@ For more information about the new functions, see the [Rank_Eq](Excel.WorksheetF
 
 ## Syntax
 
- _expression_. `Rank`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Rank`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

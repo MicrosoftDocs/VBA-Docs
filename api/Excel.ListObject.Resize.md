@@ -1,5 +1,5 @@
 ---
-title: ListObject.Resize Method (Excel)
+title: ListObject.Resize method (Excel)
 keywords: vbaxl10.chm734079
 f1_keywords:
 - vbaxl10.chm734079
@@ -8,17 +8,18 @@ api_name:
 - Excel.ListObject.Resize
 ms.assetid: b9a0ae05-d1cd-3ce6-f4ae-6a539850a1b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListObject.Resize Method (Excel)
+# ListObject.Resize method (Excel)
 
 The  **Resize** method allows a **[ListObject](Excel.ListObject.md)** object to be resized over a new range. No cells are inserted or moved.
 
 
 ## Syntax
 
- _expression_. `Resize`( `_Range_` )
+_expression_.**Resize** (_Range_)
 
  _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
 
@@ -59,3 +60,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

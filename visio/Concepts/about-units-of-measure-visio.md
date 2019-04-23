@@ -3,6 +3,7 @@ title: About Units of Measure (Visio)
 ms.prod: visio
 ms.assetid: b6140312-b8e6-0cf2-9fe0-b14e800216bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -196,3 +197,4 @@ Following are the default units of measure along with their equivalent settings 
 | **visAngleUnits**| The units selected in the **Angle** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 | **visDurationUnits**| The units selected in the **Duration** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

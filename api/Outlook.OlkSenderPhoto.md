@@ -1,5 +1,5 @@
 ---
-title: OlkSenderPhoto Object (Outlook)
+title: OlkSenderPhoto object (Outlook)
 keywords: vbaol11.chm1000498
 f1_keywords:
 - vbaol11.chm1000498
@@ -8,12 +8,13 @@ api_name:
 - Outlook.OlkSenderPhoto
 ms.assetid: 07934c3a-404c-7f99-49a8-540701d31cef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkSenderPhoto Object (Outlook)
+# OlkSenderPhoto object (Outlook)
 
-A control that displays the sender's contact picture for items that can be received via e-mail.
+A control that displays the sender's contact picture for items that can be received via email.
 
 
 ## Remarks
@@ -36,7 +37,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Outlook.OlkSenderPhoto.Change.md)|
 |[Click](Outlook.OlkSenderPhoto.Click.md)|
@@ -49,7 +50,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Enabled](Outlook.OlkSenderPhoto.Enabled.md)|
 |[MouseIcon](Outlook.OlkSenderPhoto.MouseIcon.md)|
@@ -60,4 +61,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

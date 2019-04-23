@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ce692f6c-c0eb-47d0-a685-c54c0941cf68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.BeforeDocumentSave Event (Visio)](http://msdn.microsoft.com/library/ee26b9d4-6945-25d7-559b-d7e9672f252d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

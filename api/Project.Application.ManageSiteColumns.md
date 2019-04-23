@@ -1,5 +1,5 @@
 ---
-title: Application.ManageSiteColumns Method (Project)
+title: Application.ManageSiteColumns method (Project)
 keywords: vbapj.chm2288
 f1_keywords:
 - vbapj.chm2288
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ManageSiteColumns
 ms.assetid: 1900552c-6320-2ff5-4a07-bc6ebee60696
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ManageSiteColumns Method (Project)
+# Application.ManageSiteColumns method (Project)
 
 Displays the  **Manage Fields** dialog box, which enables synchronizing built-in fields and custom fields in a local project with specified columns in a SharePoint 2013 tasks list.
 
 
 ## Syntax
 
- _expression_. `ManageSiteColumns`
+_expression_. `ManageSiteColumns`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -85,4 +86,4 @@ Sub SyncPriority()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

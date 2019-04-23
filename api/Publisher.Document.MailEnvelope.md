@@ -1,5 +1,5 @@
 ---
-title: Document.MailEnvelope Property (Publisher)
+title: Document.MailEnvelope property (Publisher)
 keywords: vbapb10.chm196627
 f1_keywords:
 - vbapb10.chm196627
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.MailEnvelope
 ms.assetid: 3c4c734a-6725-5f6e-ed0a-5b19e4e642bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.MailEnvelope Property (Publisher)
+# Document.MailEnvelope property (Publisher)
 
-Returns an  **MsoEnvelope** object that represents an e-mail header for a publication.
+Returns an  **MsoEnvelope** object that represents an email header for a publication.
 
 
 ## Syntax
 
- _expression_. **MailEnvelope**
+_expression_.**MailEnvelope**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -35,7 +36,7 @@ The  **MailEnvelope** property is only accessible if the **[EnvelopeVisible](Pub
 
 ## Example
 
-This example sets the comments for the e-mail header of the active publication. This example assumes that the  **EnvelopeVisible** property has been set to **True**.
+This example sets the comments for the email header of the active publication. This example assumes that the  **EnvelopeVisible** property has been set to **True**.
 
 
 ```vb
@@ -47,4 +48,4 @@ Sub HeaderComments()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

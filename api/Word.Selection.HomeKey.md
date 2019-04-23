@@ -1,5 +1,5 @@
 ---
-title: Selection.HomeKey Method (Word)
+title: Selection.HomeKey method (Word)
 keywords: vbawd10.chm158663160
 f1_keywords:
 - vbawd10.chm158663160
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.HomeKey
 ms.assetid: 24264193-d610-acbc-b393-de41fd55e976
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.HomeKey Method (Word)
+# Selection.HomeKey method (Word)
 
 Moves or extends the selection to the beginning of the specified unit. This method returns an integer that indicates the number of characters the selection was actually moved, or it returns 0 (zero) if the move was unsuccessful.This method corresponds to functionality of the HOME key.
 
 
 ## Syntax
 
- _expression_. `HomeKey`( `_Unit_` , `_Extend_` )
+_expression_. `HomeKey`( `_Unit_` , `_Extend_` )
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Moves or extends the selection to the beginning of the specified unit. This meth
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which the selection is to be moved or extended. The default value is  **wdLine** .|
-| _Extend_|Optional| **Variant**|Specifies the way the selection is moved. Can be one of the  **WdMovementType** constants. If the value of this argument is **wdMove** , the selection is collapsed to an insertion point and moved to the beginning of the specified unit. If it is **wdExtend** , the beginning of the selection is extended to the beginning of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **Variant**|The unit by which the selection is to be moved or extended. The default value is  **wdLine**.|
+| _Extend_|Optional| **Variant**|Specifies the way the selection is moved. Can be one of the  **WdMovementType** constants. If the value of this argument is **wdMove**, the selection is collapsed to an insertion point and moved to the beginning of the specified unit. If it is **wdExtend**, the beginning of the selection is extended to the beginning of the specified unit. The default value is **wdMove**.|
 
 ## Example
 
@@ -57,3 +58,4 @@ If pos = 0 Then StatusBar = "Selection was not moved"
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Page.DrawRectangle Method (Visio)
+title: Page.DrawRectangle method (Visio)
 keywords: vis_sdr.chm10916220
 f1_keywords:
 - vis_sdr.chm10916220
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.DrawRectangle
 ms.assetid: 3ace50fe-cc78-1412-28d6-5bc1dbe73700
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.DrawRectangle Method (Visio)
+# Page.DrawRectangle method (Visio)
 
 Adds a rectangle to the  **Shapes** collection of a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `DrawRectangle`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
+_expression_. `DrawRectangle`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -60,4 +61,4 @@ Public Sub DrawRectangle_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

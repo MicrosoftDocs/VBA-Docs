@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.SharedResource.Parent
 ms.assetid: 2c917fdc-6ae5-a3a0-2aec-e38661a9bbfe
-ms.date: 06/08/2017
+ms.date: 02/23/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents a [SharedResource](Access.SharedResource.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[SharedResource](Access.SharedResource.md)** object.
 
 
-[SharedResource Object](Access.SharedResource.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

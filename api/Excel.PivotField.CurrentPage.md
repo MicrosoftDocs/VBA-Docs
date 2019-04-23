@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.CurrentPage
 ms.assetid: 4a59fe58-8f95-4cf3-d4a3-ab6ea6b24b8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.CurrentPage property (Excel)
 
-Returns or sets the current page showing for the page field (valid only for page fields). Read/write  **[PivotItem](Excel.PivotItem.md)** .
+Returns or sets the current page showing for the page field (valid only for page fields). Read/write  **[PivotItem](Excel.PivotItem.md)**.
 
 
 ## Syntax
 
- _expression_. `CurrentPage`
+_expression_. `CurrentPage`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ strPgName = pvtTable.PivotFields("Country").CurrentPage.Name
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

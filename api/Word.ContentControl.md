@@ -1,5 +1,5 @@
 ---
-title: ContentControl Object (Word)
+title: ContentControl object (Word)
 keywords: vbawd10.chm4067
 f1_keywords:
 - vbawd10.chm4067
@@ -8,10 +8,11 @@ api_name:
 - Word.ContentControl
 ms.assetid: 783dec26-9b63-11f8-6187-985f9c815f27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl Object (Word)
+# ContentControl object (Word)
 
 An individual content control. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain contents such as dates, lists, or paragraphs of formatted text. The  **ContentControl** object is a member of the **[ContentControls](Word.ContentControls.md)** collection.
 
@@ -74,5 +75,6 @@ Not all content control properties apply to all the different types of content c
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

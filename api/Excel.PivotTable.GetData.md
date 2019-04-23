@@ -1,5 +1,5 @@
 ---
-title: PivotTable.GetData Method (Excel)
+title: PivotTable.GetData method (Excel)
 keywords: vbaxl10.chm235110
 f1_keywords:
 - vbaxl10.chm235110
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.GetData
 ms.assetid: c3b88918-c515-a976-5f2e-107b981ac76f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.GetData Method (Excel)
+# PivotTable.GetData method (Excel)
 
 Returns the value for the a data filed in a PivotTable.
 
 
 ## Syntax
 
- _expression_. `GetData`( `_Name_` )
+_expression_. `GetData`( `_Name_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Msgbox ActiveSheet.PivotTables(1) _
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: System Object (Word)
+title: System object (Word)
 keywords: vbawd10.chm2357
 f1_keywords:
 - vbawd10.chm2357
@@ -8,10 +8,11 @@ api_name:
 - Word.System
 ms.assetid: db15d780-3bbc-9515-a988-ea798777496f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# System Object (Word)
+# System object (Word)
 
 Contains information about the computer system.
 
@@ -42,6 +43,6 @@ MsgBox "Resolution = " & horz & " x " & vert
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

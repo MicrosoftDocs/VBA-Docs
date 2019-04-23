@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Dist_RT Method (Excel)
+title: WorksheetFunction.T_Dist_RT method (Excel)
 keywords: vbaxl10.chm137385
 f1_keywords:
 - vbaxl10.chm137385
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.T_Dist_RT
 ms.assetid: 2f512dbc-09bc-c14c-c5eb-c7283afb0147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.T_Dist_RT Method (Excel)
+# WorksheetFunction.T_Dist_RT method (Excel)
 
 Returns the right-tailed Student t-distribution where a numeric value (x) is a calculated value of t for which the Percentage Points are to be computed. The t-distribution is used in the hypothesis testing of small sample data sets. Use this function in place of a table of critical values for the t-distribution.
 
 
 ## Syntax
 
- _expression_. `T_Dist_RT`( `_Arg1_` , `_Arg2_` )
+_expression_. `T_Dist_RT`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

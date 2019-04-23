@@ -1,12 +1,13 @@
 ---
-title: TimeScaleValues Object (Project)
+title: TimeScaleValues object (Project)
 ms.prod: project-server
 ms.assetid: d94a0346-7cf5-b734-b32d-430fba980824
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeScaleValues Object (Project)
+# TimeScaleValues object (Project)
 
 Contains a collection of  **[TimeScaleValue](Project.TimeScaleValue.md)** objects.
 
@@ -15,7 +16,7 @@ Contains a collection of  **[TimeScaleValue](Project.TimeScaleValue.md)** object
 
  **Using the TimeScaleValue Object**
 
-Use  **TimeScaleValues** ( _Index_ ), where _Index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
+Use  **TimeScaleValues** (_index_), where _index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
 
 
 
@@ -62,7 +63,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.TimeScaleValues.Add.md)|
 
@@ -70,7 +71,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.TimeScaleValues.Application.md)|
 |[Count](./Project.TimeScaleValues.Count.md)|
@@ -81,3 +82,5 @@ TSV.Add 480, 2
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

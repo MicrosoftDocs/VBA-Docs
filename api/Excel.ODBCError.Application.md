@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCError.Application
 ms.assetid: b89dce82-77cc-deec-1ee4-cfe4db4bf785
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
+_expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [ODBCError Object](Excel.ODBCError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

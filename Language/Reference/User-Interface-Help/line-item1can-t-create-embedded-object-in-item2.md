@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cba73286-4151-74bb-e7aa-947fa8fc3865
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 An embedded object could not be created while loading a form, User Control, User Document, or Property Page from a text file. For example, you would get this error if you previously inserted a Microsoft Word document onto the form, and then removed Microsoft Word from your system. This message is written to the error log file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

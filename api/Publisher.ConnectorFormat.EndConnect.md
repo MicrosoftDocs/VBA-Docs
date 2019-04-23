@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnect Method (Publisher)
+title: ConnectorFormat.EndConnect method (Publisher)
 keywords: vbapb10.chm3211282
 f1_keywords:
 - vbapb10.chm3211282
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.EndConnect
 ms.assetid: d37c1ab2-d73a-903b-7c5d-f38a29544728
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnect Method (Publisher)
+# ConnectorFormat.EndConnect method (Publisher)
 
 Attaches the end of the specified connector to a specified shape.
 
 
 ## Syntax
 
- _expression_. **EndConnect**(**_ConnectedShape_**,  **_ConnectionSite_**)
+_expression_.**EndConnect**(**_ConnectedShape_**,  **_ConnectionSite_**)
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -74,4 +75,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

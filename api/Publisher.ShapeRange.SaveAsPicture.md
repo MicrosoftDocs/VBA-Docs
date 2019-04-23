@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SaveAsPicture Method (Publisher)
+title: ShapeRange.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm2294050
 f1_keywords:
 - vbapb10.chm2294050
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.SaveAsPicture
 ms.assetid: 0be9b741-8f11-a386-313b-231a3269883a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.SaveAsPicture Method (Publisher)
+# ShapeRange.SaveAsPicture method (Publisher)
 
 Saves a range of one or more shapes as a picture file.
 
 
 ## Syntax
 
- _expression_. **SaveAsPicture**(**_Filename_**,  **_pbResolution_**)
+_expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -57,4 +58,4 @@ Public Sub SaveAsPicture_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

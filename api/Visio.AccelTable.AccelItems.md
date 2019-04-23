@@ -1,5 +1,5 @@
 ---
-title: AccelTable.AccelItems Property (Visio)
+title: AccelTable.AccelItems property (Visio)
 keywords: vis_sdr.chm14751180
 f1_keywords:
 - vis_sdr.chm14751180
@@ -8,17 +8,18 @@ api_name:
 - Visio.AccelTable.AccelItems
 ms.assetid: 700cee8b-7521-8214-b83b-731dd91429ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelTable.AccelItems Property (Visio)
+# AccelTable.AccelItems property (Visio)
 
 Returns the  **AccelItems** collection of an **AccelTable** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `AccelItems`
+_expression_. `AccelItems`
 
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 
@@ -85,4 +86,4 @@ Public Sub AccelItems_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

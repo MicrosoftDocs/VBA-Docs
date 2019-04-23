@@ -7,6 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 33a49af8-25f4-b107-e0e2-17c90d80c66a
 ms.date: 11/12/2018 
+localization_priority: Normal
 ---
 
 
@@ -22,7 +23,7 @@ _expr_ [ **Not** ] **Between** _value1_ **And** _value2_
 
 The **Between…And** operator syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expr_|Expression identifying the field that contains the data you want to evaluate.|
 | _value1_, _value2_|Expressions against which you want to evaluate  _expr_.|
@@ -93,3 +94,5 @@ End Sub
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

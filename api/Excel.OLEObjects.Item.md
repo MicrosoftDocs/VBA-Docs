@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Item Method (Excel)
+title: OLEObjects.Item method (Excel)
 keywords: vbaxl10.chm422090
 f1_keywords:
 - vbaxl10.chm422090
@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEObjects.Item
 ms.assetid: 781b29f3-dcac-2679-72c2-a8d5d6280661
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEObjects.Item Method (Excel)
+# OLEObjects.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Worksheets("sheet1").OLEObjects.Item(1).Delete
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

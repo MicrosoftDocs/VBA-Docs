@@ -1,14 +1,15 @@
 ---
-title: WdTextFormFieldType Enumeration (Word)
+title: WdTextFormFieldType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextFormFieldType
 ms.assetid: 490798b7-99d2-879c-60a7-71333132ab10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTextFormFieldType Enumeration (Word)
+# WdTextFormFieldType enumeration (Word)
 
 Specifies the text form field type.
 
@@ -23,3 +24,4 @@ Specifies the text form field type.
 | **wdNumberText**|1|Number text field.|
 | **wdRegularText**|0|Regular text field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

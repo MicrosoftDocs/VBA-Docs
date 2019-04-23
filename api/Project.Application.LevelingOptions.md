@@ -1,5 +1,5 @@
 ---
-title: Application.LevelingOptions Method (Project)
+title: Application.LevelingOptions method (Project)
 keywords: vbapj.chm608
 f1_keywords:
 - vbapj.chm608
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.LevelingOptions
 ms.assetid: 388a2315-e44b-3890-a16a-92ea5a778bbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.LevelingOptions Method (Project)
+# Application.LevelingOptions method (Project)
 
 Specifies leveling options for the active project.
 
 
 ## Syntax
 
- _expression_. `LevelingOptions`( ` _Automatic_`, ` _DelayInSlack_`, ` _AutoClearLeveling_`, ` _Order_`, ` _LevelEntireProject_`, ` _FromDate_`, ` _ToDate_`, ` _PeriodBasis_`, ` _LevelIndividualAssignments_`, ` _LevelingCanSplit_`, ` _LevelProposedBookings_` )
+_expression_. `LevelingOptions`( `_Automatic_`, `_DelayInSlack_`, `_AutoClearLeveling_`, `_Order_`, `_LevelEntireProject_`, `_FromDate_`, `_ToDate_`, `_PeriodBasis_`, `_LevelIndividualAssignments_`, `_LevelingCanSplit_`, `_LevelProposedBookings_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -67,4 +68,4 @@ Sub LevelOverallocatedResources()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

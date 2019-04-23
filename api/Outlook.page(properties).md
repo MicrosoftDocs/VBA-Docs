@@ -3,6 +3,7 @@ title: Page Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: aeaf2aae-5429-4431-b094-d3db9215bdbc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -66,5 +67,5 @@ ms.date: 06/08/2017
 -  [Page.Visible Property (Outlook Forms Script)](Outlook.Page.visible.md)
     
 -  [Page.Zoom Property (Outlook Forms Script)](Outlook.Page.zoom.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

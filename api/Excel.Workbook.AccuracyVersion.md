@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.AccuracyVersion
 ms.assetid: bc81782c-662c-87ec-8381-d06e77674d0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Specifies whether certain worksheet functions use the latest accuracy algorithms
 
 ## Syntax
 
- _expression_. `AccuracyVersion`
+_expression_. `AccuracyVersion`
 
- _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ By default, some of the worksheet functions from Excel 2007 and earlier versions
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|Use the latest, most accurate algorithms (default)|
 |1|Use Excel 2007 or earlier version algorithms|
@@ -60,3 +61,4 @@ ActiveWorkbook.AccuracyVersion = 1
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

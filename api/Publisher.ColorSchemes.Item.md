@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Item Property (Publisher)
+title: ColorSchemes.Item property (Publisher)
 keywords: vbapb10.chm2752512
 f1_keywords:
 - vbapb10.chm2752512
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorSchemes.Item
 ms.assetid: 5a66a0ae-b552-0979-d3ac-7b1d7bec96f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorSchemes.Item Property (Publisher)
+# ColorSchemes.Item property (Publisher)
 
 Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a **ColorSchemes** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Index_**)
+_expression_.**Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ColorSchemes** object.
 
@@ -45,4 +46,4 @@ This example sets the color scheme of the active publication to the Aqua color s
 ActiveDocument.ColorScheme = ColorSchemes.Item(Index:=pbColorSchemeAqua)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

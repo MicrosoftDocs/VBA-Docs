@@ -1,5 +1,5 @@
 ---
-title: Document.ConsecutiveHyphensLimit Property (Word)
+title: Document.ConsecutiveHyphensLimit property (Word)
 keywords: vbawd10.chm158007310
 f1_keywords:
 - vbawd10.chm158007310
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.ConsecutiveHyphensLimit
 ms.assetid: 73ff4693-232b-fae3-8077-f6675caede1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ConsecutiveHyphensLimit Property (Word)
+# Document.ConsecutiveHyphensLimit property (Word)
 
-Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write.  **Long** .
+Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write.  **Long**.
 
 
 ## Syntax
 
- _expression_. `ConsecutiveHyphensLimit`
+_expression_. `ConsecutiveHyphensLimit`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ ActiveDocument.ConsecutiveHyphensLimit = 0
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

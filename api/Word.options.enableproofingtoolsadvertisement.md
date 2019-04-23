@@ -1,22 +1,23 @@
 ---
-title: Options.EnableProofingToolsAdvertisement Property (Word)
+title: Options.EnableProofingToolsAdvertisement property (Word)
 keywords: vbawd10.chm162988543
 f1_keywords:
 - vbawd10.chm162988543
 ms.prod: word
 ms.assetid: e2650945-d531-dd2b-38cb-b135f153dfcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.EnableProofingToolsAdvertisement Property (Word)
+# Options.EnableProofingToolsAdvertisement property (Word)
 
 Returns or sets a  **Boolean** value that, when **True**, specifies that users be notified when additional proofing tools are available for download. Read-write.
 
 
 ## Syntax
 
- _expression_. `EnableProofingToolsAdvertisement`
+_expression_. `EnableProofingToolsAdvertisement`
 
  _expression_ A variable that represents a [Options](./Word.Options.md) object.
 
@@ -36,3 +37,4 @@ Setting  **EnableProofingToolsAdvertisement** to **True** is the equivalent of s
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

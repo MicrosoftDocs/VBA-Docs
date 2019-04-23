@@ -1,5 +1,5 @@
 ---
-title: RGBColor.Parent Property (PowerPoint)
+title: RGBColor.Parent property (PowerPoint)
 keywords: vbapp10.chm538002
 f1_keywords:
 - vbapp10.chm538002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RGBColor.Parent
 ms.assetid: b3ccd9cc-9f65-32dc-93e1-2e1560180c53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RGBColor.Parent Property (PowerPoint)
+# RGBColor.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [RGBColor](./PowerPoint.RGBColor.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [RGBColor Object](PowerPoint.RGBColor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

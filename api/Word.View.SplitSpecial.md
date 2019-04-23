@@ -1,5 +1,5 @@
 ---
-title: View.SplitSpecial Property (Word)
+title: View.SplitSpecial property (Word)
 keywords: vbawd10.chm161808413
 f1_keywords:
 - vbawd10.chm161808413
@@ -8,17 +8,18 @@ api_name:
 - Word.View.SplitSpecial
 ms.assetid: 5ca301aa-737f-3588-9d53-176990206620
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.SplitSpecial Property (Word)
+# View.SplitSpecial property (Word)
 
-Returns or sets the active window pane. Read/write  **WdSpecialPane** .
+Returns or sets the active window pane. Read/write  **WdSpecialPane**.
 
 
 ## Syntax
 
- _expression_. `SplitSpecial`
+_expression_. `SplitSpecial`
 
  _expression_ A variable that represents a '[View](Word.View.md)' object.
 
@@ -52,3 +53,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

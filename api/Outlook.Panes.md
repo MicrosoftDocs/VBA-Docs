@@ -1,5 +1,5 @@
 ---
-title: Panes Object (Outlook)
+title: Panes object (Outlook)
 keywords: vbaol11.chm73
 f1_keywords:
 - vbaol11.chm73
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Panes
 ms.assetid: 657d1adf-41e0-858f-c734-e435153ae9ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Panes Object (Outlook)
+# Panes object (Outlook)
 
 Contains the panes displayed by the specified  **[Explorer](Outlook.Explorer.md)**.
 
@@ -49,7 +50,7 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.Panes.Item.md)|
 
@@ -57,7 +58,7 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Panes.Application.md)|
 |[Class](Outlook.Panes.Class.md)|
@@ -68,4 +69,6 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Adding Custom Controls to the Control Toolbox
 ms.prod: outlook
 ms.assetid: 81b5bba3-076d-4a02-9aa3-034fab9f1e85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,5 +22,5 @@ For more information, see the following topics:
 -  [Adding Other Custom Controls to the Control Toolbox](../Specifying-Form-Behavior/add-other-custom-controls-to-the-control-toolbox.md)
     
 -  [Form Regions](../Outlook-Forms/form-regions.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Permission.PermissionFromPolicy Property (Office)
+title: Permission.PermissionFromPolicy property (Office)
 keywords: vbaof11.chm261014
 f1_keywords:
 - vbaof11.chm261014
@@ -7,27 +7,28 @@ ms.prod: office
 api_name:
 - Office.Permission.PermissionFromPolicy
 ms.assetid: aa6be9a8-a351-f9bb-99f8-a547583f2e62
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# Permission.PermissionFromPolicy Property (Office)
+# Permission.PermissionFromPolicy property (Office)
 
-Gets a  **Boolean** value that indicates whether a permission policy has been applied to the active document. Read-only.
+Gets a **Boolean** value that indicates whether a permission policy has been applied to the active document. Read-only.
 
 
 ## Syntax
 
- _expression_. `PermissionFromPolicy`
+_expression_.**PermissionFromPolicy**
 
- _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
+_expression_ A variable that represents a **[Permission](Office.Permission.md)** object.
 
 
 ## Remarks
 
-Information Rights Management in Microsoft Office supports the use of administrative permission policies which list users and groups and their document permissions. The  **PermissionFromPolicy** property returns a **Boolean** value that indicates whether a permission policy was applied to the active document the last time permissions were enabled on the document.
+Information Rights Management in Microsoft Office supports the use of administrative permission policies that list users and groups and their document permissions. The **PermissionFromPolicy** property returns a **Boolean** value that indicates whether a permission policy was applied to the active document the last time permissions were enabled on the document.
 
-The  **PermissionFromPolicy** property always returns **False** when checked by a non-owner of the document, even when the user has object model permissions.
+The **PermissionFromPolicy** property always returns **False** when checked by a non-owner of the document, even when the user has object model permissions.
 
 
 ## Example
@@ -61,10 +62,8 @@ The following example displays permission policy information about the active do
 
 ## See also
 
-
-[Permission Object](Office.Permission.md)
-
+- [Permission object members](overview/library-reference/permission-members-office.md)
 
 
-[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

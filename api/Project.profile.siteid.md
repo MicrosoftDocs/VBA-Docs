@@ -1,17 +1,18 @@
 ---
-title: Profile.SiteId Property (Project)
+title: Profile.SiteId property (Project)
 ms.prod: project-server
 ms.assetid: 18d72450-e7d6-55b7-733c-45db023469c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Profile.SiteId Property (Project)
+# Profile.SiteId property (Project)
 Gets the GUID of the Project Web App instance for the active profile. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `SiteId`
+_expression_. `SiteId`
 
  _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
@@ -40,3 +41,5 @@ If you enter the following statement in the Immediate pane of the VBE, the state
 
 
 [Profile Object](Project.Profile.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

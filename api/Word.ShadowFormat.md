@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (Word)
+title: ShadowFormat object (Word)
 keywords: vbawd10.chm2508
 f1_keywords:
 - vbawd10.chm2508
@@ -8,10 +8,11 @@ api_name:
 - Word.ShadowFormat
 ms.assetid: 2a179f0b-ec18-c3dd-dd73-51b18f42e0e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat Object (Word)
+# ShadowFormat object (Word)
 
 Represents shadow formatting for a shape.
 
@@ -36,6 +37,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

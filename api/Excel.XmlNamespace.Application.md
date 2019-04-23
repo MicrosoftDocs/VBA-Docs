@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlNamespace.Application
 ms.assetid: 5afe72b2-4963-abf2-d43a-4f1b741e6cef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [XmlNamespace](./Excel.XmlNamespace.md) object.
+_expression_ A variable that represents a [XmlNamespace](Excel.XmlNamespace.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [XmlNamespace Object](Excel.XmlNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

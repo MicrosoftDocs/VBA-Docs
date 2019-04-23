@@ -1,5 +1,5 @@
 ---
-title: BusinessCardView.Standard Property (Outlook)
+title: BusinessCardView.Standard property (Outlook)
 keywords: vbaol11.chm2930
 f1_keywords:
 - vbaol11.chm2930
@@ -8,24 +8,25 @@ api_name:
 - Outlook.BusinessCardView.Standard
 ms.assetid: b14971c1-551e-5a00-e712-46d49806dfab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BusinessCardView.Standard Property (Outlook)
+# BusinessCardView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[BusinessCardView](Outlook.BusinessCardView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
- _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
+ _expression_ An expression that returns a [BusinessCardView](Outlook.BusinessCardView.md) object.
 
 
 ## Remarks
 
-The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True** .
+The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
 
 
 ## Example
@@ -73,3 +74,4 @@ End Sub
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

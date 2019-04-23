@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.PromptForSummary Property (Visio)
+title: InvisibleApp.PromptForSummary property (Visio)
 keywords: vis_sdr.chm17514170
 f1_keywords:
 - vis_sdr.chm17514170
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.PromptForSummary
 ms.assetid: 932d890d-0c45-fe74-57f8-03662b9c9def
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.PromptForSummary Property (Visio)
+# InvisibleApp.PromptForSummary property (Visio)
 
 Determines whether Microsoft Visio prompts for document properties when it saves a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `PromptForSummary`
+_expression_. `PromptForSummary`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -47,4 +48,4 @@ Public Sub PromptForSummary_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

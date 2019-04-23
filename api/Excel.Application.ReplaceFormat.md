@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Application.ReplaceFormat
 ms.assetid: df2242dc-9f23-b3c8-455d-1f0474eca873
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.ReplaceFormat property (Excel)
 
-Sets the replacement criteria to use in replacing cell formats. The replacement criteria is then used in a subsequent call to the Replace method of the Range object.
+Sets the replacement criteria to use in replacing cell formats. The replacement criteria is then used in a subsequent call to the **[Replace](excel.range.replace.md)** method of the **Range** object.
 
 
 ## Syntax
 
- _expression_. `ReplaceFormat`
+_expression_.**ReplaceFormat**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example
 
-The following example sets the search criteria to find cells containing Arial, Regular, Size 10 font, replaces their formats with Arial, Bold, Size 8 font, and then calls the Replace method, with the optional arguments of SearchFormat and ReplaceFormat set to True to actually make the changes.
-
+The following example sets the search criteria to find cells containing Arial, Regular, Size 10 font, replaces their formats with Arial, Bold, Size 8 font, and then calls the **Replace** method, with the optional arguments of _SearchFormat_ and _ReplaceFormat_ set to **True** to actually make the changes.
 
 ```vb
 Sub MakeBold() 
@@ -59,8 +59,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

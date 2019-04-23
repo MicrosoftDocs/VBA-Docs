@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar.MouseUp Event (Outlook)
+title: OlkInfoBar.MouseUp event (Outlook)
 keywords: vbaol11.chm1000303
 f1_keywords:
 - vbaol11.chm1000303
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkInfoBar.MouseUp
 ms.assetid: daff2dbd-0da7-e5b0-7425-8aaf325b4b8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkInfoBar.MouseUp Event (Outlook)
+# OlkInfoBar.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkInfoBar](./Outlook.OlkInfoBar.md) object.
+_expression_ A variable that represents an [OlkInfoBar](Outlook.OlkInfoBar.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkInfoBar Object](Outlook.OlkInfoBar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

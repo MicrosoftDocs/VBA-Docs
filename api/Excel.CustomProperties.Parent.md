@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomProperties.Parent
 ms.assetid: 828feda2-1f06-6cd8-1f2f-cf74b9495d89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [CustomProperties](Excel.CustomProperties.md) object.
+_expression_ A variable that represents a **[CustomProperties](Excel.CustomProperties.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [CustomProperties Object](Excel.CustomProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

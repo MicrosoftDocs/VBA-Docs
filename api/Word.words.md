@@ -1,15 +1,16 @@
-﻿---
-title: Words Object (Word)
+---
+title: Words object (Word)
 keywords: vbawd10.chm2396
 f1_keywords:
 - vbawd10.chm2396
 ms.prod: word
 ms.assetid: a718f69f-1db1-231a-9d65-bf20b48778ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Words Object (Word)
+# Words object (Word)
 
 A collection of words in a selection, range, or document. Each item in the  **Words** collection is a **Range** object that represents one word. There is no Word object.
 
@@ -75,7 +76,7 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Words.Item.md)|
 
@@ -83,7 +84,7 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Words.Application.md)|
 |[Count](Word.Words.Count.md)|
@@ -95,4 +96,6 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

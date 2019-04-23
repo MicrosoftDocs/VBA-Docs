@@ -1,5 +1,5 @@
 ---
-title: Application.MAPILogonComplete Event (Outlook)
+title: Application.MAPILogonComplete event (Outlook)
 keywords: vbaol11.chm437
 f1_keywords:
 - vbaol11.chm437
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.MAPILogonComplete
 ms.assetid: db6f7cf8-2a45-560f-f592-613de86e08e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MAPILogonComplete Event (Outlook)
+# Application.MAPILogonComplete event (Outlook)
 
 Occurs after the user has logged onto the system.
 
 
 ## Syntax
 
- _expression_. `MAPILogonComplete`
+_expression_. `MAPILogonComplete`
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Example
@@ -48,3 +49,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

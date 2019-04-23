@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 37d17646-d2a1-2377-85ef-b4dcead342d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ An invalid  _locale_ parameter was specified. Make sure you are using a valid Da
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

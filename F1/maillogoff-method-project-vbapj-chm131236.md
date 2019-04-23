@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 73dcc05f-5652-4849-a2ec-ead5b1875dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.OfficeTaskPaneHide Method (Project)](http://msdn.microsoft.com/library/51ed3c6b-b938-a128-cb27-8f6c2330963f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

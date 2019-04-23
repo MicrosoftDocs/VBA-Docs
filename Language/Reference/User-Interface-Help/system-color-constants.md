@@ -1,21 +1,22 @@
 ---
-title: System Color Constants
+title: System Color constants
 keywords: vblr6.chm1106130
 f1_keywords:
 - vblr6.chm1106130
 ms.prod: office
 ms.assetid: d70b3279-75c4-8479-8368-2a129568b668
-ms.date: 06/08/2017
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
-# System Color Constants
+# System Color constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
+<br/>
 
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbScrollBars**|0x80000000|Scroll bar color|
 |**vbDesktop**|0x80000001|Desktop color|
@@ -39,7 +40,12 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbInactiveCaptionText**|0x80000013|Color of text in an inactive caption|
 |**vb3DHighlight**|0x80000014|Highlight color for 3-D display elements|
 |**vb3DDKShadow**|0x80000015|Darkest shadow color for 3-D display elements|
-|**vb3DLight**|0x80000016|Second lightest 3-D color after  **vb3DHighlight**|
+|**vb3DLight**|0x80000016|Second lightest 3-D color after **vb3DHighlight**|
 |**vbInfoText**|0x80000017|Color of text in ToolTips|
 |**vbInfoBackground**|0x80000018|Background color of ToolTips|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

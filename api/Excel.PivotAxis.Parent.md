@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotAxis.Parent
 ms.assetid: 5cab3969-5894-a88a-3c95-38df7bc0e79e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified  **PivotAxis** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
+_expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified  **PivotAxis** object. Read-only.
 
 [PivotAxis Object](Excel.PivotAxis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

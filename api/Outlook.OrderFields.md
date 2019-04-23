@@ -1,5 +1,5 @@
 ---
-title: OrderFields Object (Outlook)
+title: OrderFields object (Outlook)
 keywords: vbaol11.chm3186
 f1_keywords:
 - vbaol11.chm3186
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OrderFields
 ms.assetid: e115fb80-352d-fd2e-c1c3-d266776fe122
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OrderFields Object (Outlook)
+# OrderFields object (Outlook)
 
 Represents the collection of  **[OrderField](Outlook.OrderField.md)** objects in a view.
 
@@ -106,7 +107,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.OrderFields.Add.md)|
 |[Insert](Outlook.OrderFields.Insert.md)|
@@ -118,7 +119,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OrderFields.Application.md)|
 |[Class](Outlook.OrderFields.Class.md)|
@@ -129,4 +130,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

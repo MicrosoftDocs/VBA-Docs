@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.ConvertToShape Method (Word)
+title: FreeformBuilder.ConvertToShape method (Word)
 keywords: vbawd10.chm164167691
 f1_keywords:
 - vbawd10.chm164167691
@@ -8,19 +8,20 @@ api_name:
 - Word.FreeformBuilder.ConvertToShape
 ms.assetid: 9c88065f-1ff0-ac53-a630-4f0b4e652a80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.ConvertToShape Method (Word)
+# FreeformBuilder.ConvertToShape method (Word)
 
 Creates a shape that has the geometric characteristics of the specified object. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
 
 
 ## Syntax
 
- _expression_. `ConvertToShape`( `_Anchor_` )
+_expression_. `ConvertToShape`( `_Anchor_` )
 
- _expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
+_expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ You must apply the  **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to a
 
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

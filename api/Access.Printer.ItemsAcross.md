@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.ItemsAcross
 ms.assetid: 6fe60a67-00a0-8551-73e9-d27f358a7e8e
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.ItemsAcross property (Access)
 
-Returns or sets a  **Long** indicating the number of columns to print across a page for multiple-column reports or labels. Read/write.
+Returns or sets a **Long** indicating the number of columns to print across a page for multiple-column reports or labels. Read/write.
 
 
 ## Syntax
 
-_expression_. `ItemsAcross`
+_expression_.**ItemsAcross**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -69,8 +69,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

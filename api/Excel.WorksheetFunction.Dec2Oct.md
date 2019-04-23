@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dec2Oct Method (Excel)
+title: WorksheetFunction.Dec2Oct method (Excel)
 keywords: vbaxl10.chm137266
 f1_keywords:
 - vbaxl10.chm137266
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Dec2Oct
 ms.assetid: 2aac7d4d-57ef-0d8f-1432-62e98ddc1c41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Dec2Oct Method (Excel)
+# WorksheetFunction.Dec2Oct method (Excel)
 
 Converts a decimal number to octal.
 
 
 ## Syntax
 
- _expression_. `Dec2Oct`( `_Arg1_` , `_Arg2_` )
+_expression_. `Dec2Oct`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

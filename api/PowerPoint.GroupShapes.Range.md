@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Range Method (PowerPoint)
+title: GroupShapes.Range method (PowerPoint)
 keywords: vbapp10.chm549005
 f1_keywords:
 - vbapp10.chm549005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.GroupShapes.Range
 ms.assetid: d7273a15-71f2-2e50-a481-055e8cc39e1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Range Method (PowerPoint)
+# GroupShapes.Range method (PowerPoint)
 
 Returns a  **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
@@ -50,3 +51,4 @@ To specify an array of integers or strings for  **Index**, you can use the **Arr
 
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

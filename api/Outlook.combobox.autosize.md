@@ -3,6 +3,7 @@ title: ComboBox.AutoSize Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 352cc408-0bef-43ae-c35b-38bea170507f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
 ## Syntax
 
- _expression_. **AutoSize**
+_expression_.**AutoSize**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ For controls without captions, this property specifies whether the control autom
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

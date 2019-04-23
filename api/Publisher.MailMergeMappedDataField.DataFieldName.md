@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataField.DataFieldName Property (Publisher)
+title: MailMergeMappedDataField.DataFieldName property (Publisher)
 keywords: vbapb10.chm6553603
 f1_keywords:
 - vbapb10.chm6553603
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeMappedDataField.DataFieldName
 ms.assetid: c30e56c1-c4f4-a581-00d1-eb367178e0af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataField.DataFieldName Property (Publisher)
+# MailMergeMappedDataField.DataFieldName property (Publisher)
 
 Returns or sets a  **String** which represents the name of the field in the mail merge data source to which a mapped data field maps. An empty string is returned if the specified data field is not mapped to a mapped data field. Read/write.
 
 
 ## Syntax
 
- _expression_. **DataFieldName**
+_expression_.**DataFieldName**
 
  _expression_ A variable that represents a  **MailMergeMappedDataField** object.
 
@@ -77,4 +78,4 @@ Sub MappedFields()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

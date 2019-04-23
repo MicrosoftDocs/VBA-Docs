@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: daf08b53-6875-e63c-a5d1-9f1fbfee7470
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -20,3 +21,4 @@ Code execution can be suspended when necessary. This condition has the following
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

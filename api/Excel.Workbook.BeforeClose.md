@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeClose Event (Excel)
+title: Workbook.BeforeClose event (Excel)
 keywords: vbaxl10.chm503076
 f1_keywords:
 - vbaxl10.chm503076
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.BeforeClose
 ms.assetid: 1c440637-8289-c6dd-24e0-1b2764fd1694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BeforeClose Event (Excel)
+# Workbook.BeforeClose event (Excel)
 
 Occurs before the workbook closes. If the workbook has been changed, this event occurs before the user is asked to save changes.
 
 
 ## Syntax
 
- _expression_. `BeforeClose`( `_Cancel_` )
+_expression_. `BeforeClose`( `_Cancel_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs before the workbook closes. If the workbook has been changed, this event 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the close operation stops and the workbook is left open.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the close operation stops and the workbook is left open.|
 
 ## Return value
 
@@ -53,3 +54,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

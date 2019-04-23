@@ -3,6 +3,7 @@ title: This edit requires a Reset
 ms.prod: office
 ms.assetid: 40a5ec8d-419a-4a23-a5eb-367f827013ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ In most cases, you can edit code and continue running the code from the point of
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

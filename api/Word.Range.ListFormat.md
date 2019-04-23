@@ -1,5 +1,5 @@
 ---
-title: Range.ListFormat Property (Word)
+title: Range.ListFormat property (Word)
 keywords: vbawd10.chm157155396
 f1_keywords:
 - vbawd10.chm157155396
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.ListFormat
 ms.assetid: 509365dc-0b93-96d9-6614-74f2d85bfd45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ListFormat Property (Word)
+# Range.ListFormat property (Word)
 
 Returns a  **[ListFormat](Word.ListFormat.md)** object that represents all the list formatting characteristics of a range. Read-only.
 
 
 ## Syntax
 
- _expression_. `ListFormat`
+_expression_. `ListFormat`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -52,3 +53,4 @@ Selection.Range.ListFormat.ApplyListTemplate _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

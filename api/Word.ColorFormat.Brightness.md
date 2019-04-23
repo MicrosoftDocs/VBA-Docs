@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Brightness Property (Word)
+title: ColorFormat.Brightness property (Word)
 keywords: vbawd10.chm163971273
 f1_keywords:
 - vbawd10.chm163971273
@@ -8,17 +8,18 @@ api_name:
 - Word.ColorFormat.Brightness
 ms.assetid: 3a184574-24dc-2ea2-24f2-ba0b0b06df2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.Brightness Property (Word)
+# ColorFormat.Brightness property (Word)
 
 Returns a  **Single** that represents the brightness of a specified shape color. Read/write.
 
 
 ## Syntax
 
- _expression_. `Brightness`
+_expression_. `Brightness`
 
  _expression_ A variable that represents a '[ColorFormat](Word.ColorFormat.md)' object.
 
@@ -53,3 +54,4 @@ End Sub
 
 [ColorFormat Object](Word.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

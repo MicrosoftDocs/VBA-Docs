@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendline.Application
 ms.assetid: be84eac3-8085-7b35-adb7-cee4ebcdd996
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](Excel.Trendline-graph-object.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Trendline Object](Excel.Trendline(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

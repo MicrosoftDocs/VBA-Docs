@@ -1,5 +1,5 @@
 ---
-title: Interior.Creator Property (Word)
+title: Interior.Creator property (Word)
 keywords: vbawd10.chm2818197
 f1_keywords:
 - vbawd10.chm2818197
@@ -8,17 +8,18 @@ api_name:
 - Word.Interior.Creator
 ms.assetid: 1a086cf3-9fe4-8ef4-4d9d-77d99fa8d4e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Interior.Creator Property (Word)
+# Interior.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Interior Object](Word.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

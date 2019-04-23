@@ -1,5 +1,5 @@
 ---
-title: Font.NameOther Property (PowerPoint)
+title: Font.NameOther property (PowerPoint)
 keywords: vbapp10.chm575019
 f1_keywords:
 - vbapp10.chm575019
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.NameOther
 ms.assetid: 64f62838-635c-9b6d-082a-06fe698685e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.NameOther Property (PowerPoint)
+# Font.NameOther property (PowerPoint)
 
 Returns or sets the font used for characters whose character set numbers are greater than 127. Read/write.
 
 
 ## Syntax
 
- _expression_. `NameOther`
+_expression_. `NameOther`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -48,3 +49,4 @@ ActivePresentation.Fonts(1).NameOther = "Tahoma"
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

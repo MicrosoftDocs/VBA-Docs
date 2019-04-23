@@ -1,5 +1,5 @@
 ---
-title: Workbook.EnableConnections Method (Excel)
+title: Workbook.EnableConnections method (Excel)
 keywords: vbaxl10.chm199258
 f1_keywords:
 - vbaxl10.chm199258
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.EnableConnections
 ms.assetid: 521ebb4c-56c6-3e21-39af-4a46934790e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.EnableConnections Method (Excel)
+# Workbook.EnableConnections method (Excel)
 
 The  **EnableConnections** method allows developers to programmatically enable data connections within the workbook for the user.
 
 
 ## Syntax
 
- _expression_. `EnableConnections`
+_expression_. `EnableConnections`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ The  **EnableConnections** method allows developers to programmatically enable d
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

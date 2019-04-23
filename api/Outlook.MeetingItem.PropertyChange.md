@@ -1,23 +1,24 @@
 ---
-title: MeetingItem.PropertyChange Event (Outlook)
+title: MeetingItem.PropertyChange event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.PropertyChange
 ms.assetid: 6bc3629b-b08a-0d8b-f1e3-6d3c90176ac2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.PropertyChange Event (Outlook)
+# MeetingItem.PropertyChange event (Outlook)
 
 Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
 
 
 ## Syntax
 
- _expression_. `PropertyChange`( `_Name_` )
+_expression_. `PropertyChange`( `_Name_` )
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Parameters
@@ -38,3 +39,4 @@ The property name is passed to the event so that you can determine which propert
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 68d1b2c3-950b-1928-a790-edfbbc5de4b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether the user can select a line
 
 ## Syntax
 
- _expression_. **SelectionMargin**
+_expression_.**SelectionMargin**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ When the  **SelectionMargin** property is **True**, the selection margin occupie
 
 If the  **SelectionMargin** property is set to **True** when a control is printed, the selection margin also prints.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

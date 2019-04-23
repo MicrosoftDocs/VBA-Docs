@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Parent Property (Publisher)
+title: HeaderFooter.Parent property (Publisher)
 keywords: vbapb10.chm7471105
 f1_keywords:
 - vbapb10.chm7471105
@@ -8,17 +8,18 @@ api_name:
 - Publisher.HeaderFooter.Parent
 ms.assetid: 9b2ae2fa-35f4-b756-69f3-cd519e348c34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Parent Property (Publisher)
+# HeaderFooter.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **HeaderFooter** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.ErrorCheckingOptions.BackgroundChecking
 ms.assetid: 427b3b32-c099-dc71-1255-7f73805a4db8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ErrorCheckingOptions.BackgroundChecking property (Excel)
 
-Alerts the user for all cells that violate enabled error-checking rules. When this property is set to  **True** (default), the **AutoCorrect Options** button appears next to all cells that violate enabled errors. **False** disables background checking for errors. Read/write **Boolean** .
+Alerts the user for all cells that violate enabled error-checking rules. When this property is set to  **True** (default), the **AutoCorrect Options** button appears next to all cells that violate enabled errors. **False** disables background checking for errors. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BackgroundChecking`
+_expression_. `BackgroundChecking`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End Sub
 
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

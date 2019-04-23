@@ -1,5 +1,5 @@
 ---
-title: Folders.FolderChange Event (Outlook)
+title: Folders.FolderChange event (Outlook)
 keywords: vbaol11.chm309
 f1_keywords:
 - vbaol11.chm309
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folders.FolderChange
 ms.assetid: cd379b87-6fb7-bfa4-544a-0c406a170832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folders.FolderChange Event (Outlook)
+# Folders.FolderChange event (Outlook)
 
 Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collection is changed.
 
 
 ## Syntax
 
- _expression_. `FolderChange`( `_Folder_` )
+_expression_. `FolderChange`( `_Folder_` )
 
- _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Parameters
@@ -79,3 +80,4 @@ End Sub
 
 [Folders Object](Outlook.Folders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

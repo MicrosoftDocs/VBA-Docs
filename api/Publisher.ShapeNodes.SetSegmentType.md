@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetSegmentType Method (Publisher)
+title: ShapeNodes.SetSegmentType method (Publisher)
 keywords: vbapb10.chm3473429
 f1_keywords:
 - vbapb10.chm3473429
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeNodes.SetSegmentType
 ms.assetid: 64f742fb-8216-9ec3-3fa9-ca2b319cf3e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetSegmentType Method (Publisher)
+# ShapeNodes.SetSegmentType method (Publisher)
 
 Sets the segment type of the segment that follows the specified node. If the node is a control point for a curved segment, this method sets the segment type for that curve; this may affect the total number of nodes by inserting or deleting adjacent nodes.
 
 
 ## Syntax
 
- _expression_. **SetSegmentType**(**_Index_**,  **_SegmentType_**)
+_expression_.**SetSegmentType**(**_Index_**,  **_SegmentType_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 
@@ -62,4 +63,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

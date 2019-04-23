@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEDBConnection.UseLocalConnection
 ms.assetid: b346933c-17cd-ef11-6070-ee840c8d7c0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBConnection.UseLocalConnection property (Excel)
 
- **True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean** .
+ **True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UseLocalConnection`
+_expression_. `UseLocalConnection`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

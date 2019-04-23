@@ -3,6 +3,7 @@ title: "Invalid SQL Syntax: expected token: SELECT (Error 3729)"
 ms.prod: access
 ms.assetid: 50950c31-0623-12b5-51d8-1bab021af2ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ This error occurs when trying to create a view from SQL DDL. The following would
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

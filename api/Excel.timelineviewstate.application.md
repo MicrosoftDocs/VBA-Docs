@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: b00518cc-b584-c562-0ae3-cf1e24844bdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [TimelineViewState Object (Excel)](Excel.timelineviewstate.md) object.
+_expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -47,3 +48,4 @@ End If
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

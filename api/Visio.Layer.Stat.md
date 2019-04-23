@@ -1,5 +1,5 @@
 ---
-title: Layer.Stat Property (Visio)
+title: Layer.Stat property (Visio)
 keywords: vis_sdr.chm11814420
 f1_keywords:
 - vis_sdr.chm11814420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layer.Stat
 ms.assetid: f561aba4-b6be-642c-490d-a4cd137c3607
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layer.Stat Property (Visio)
+# Layer.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

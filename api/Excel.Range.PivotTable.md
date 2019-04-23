@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.PivotTable
 ms.assetid: ae3f77dc-5098-d60f-0afc-f4f01dbc33f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the Pivo
 
 ## Syntax
 
- _expression_. `PivotTable`
+_expression_. `PivotTable`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -50,3 +51,4 @@ objPT.PivotFields("State").CurrentPageName = "Oregon"
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

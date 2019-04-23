@@ -1,5 +1,5 @@
 ---
-title: WizardValues Object (Publisher)
+title: WizardValues object (Publisher)
 keywords: vbapb10.chm1703935
 f1_keywords:
 - vbapb10.chm1703935
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WizardValues
 ms.assetid: 559659bb-6c9f-9325-c931-14044c059e18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardValues Object (Publisher)
+# WizardValues object (Publisher)
 
 Represents the complete set of valid values for a wizard property.
  
@@ -46,10 +47,11 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WizardValues.Application.md)|
 |[Count](Publisher.WizardValues.Count.md)|
 |[Item](Publisher.WizardValues.Item.md)|
 |[Parent](Publisher.WizardValues.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

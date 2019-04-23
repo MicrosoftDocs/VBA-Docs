@@ -6,19 +6,19 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1d53153c-2314-d1de-3890-4694164c4e80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Statement invalid inside Type block
 
-Only element names, their  **As**_type_ clauses, and [comments](../../Glossary/vbe-glossary.md#comment) are allowed within a **Type...End Type** statement block. This error has the following cause and solution:
-
-
+Only element names, their **As** _type_ clauses, and [comments](../../Glossary/vbe-glossary.md#comment) are allowed within a **Type...End Type** statement block. This error has the following cause and solution:
 
 - You placed an invalid statement in [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) definition.
     
-    Remove anything that isn't a comment, an element name, or an  **As**_type_ clause.
+    Remove anything that isn't a comment, an element name, or an **As** _type_ clause.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

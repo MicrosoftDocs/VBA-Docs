@@ -3,6 +3,7 @@ title: Add Items to a List in Design Mode
 ms.prod: outlook
 ms.assetid: 272242c3-4d28-ca8c-d829-54851959b3b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,5 +16,5 @@ ms.date: 06/08/2017
 3. In the  **Properties** dialog box, on the **Value** tab, click **Choose Field**, point to the  **User-defined** field set, and then click the custom field to which you want the control bound.
     
 4. In the  **Possible values** box, type the values for the items that you want to appear in the list, separated by semicolons.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

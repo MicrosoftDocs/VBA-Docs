@@ -1,5 +1,5 @@
 ---
-title: Plates.FindPlateByInkName Method (Publisher)
+title: Plates.FindPlateByInkName method (Publisher)
 keywords: vbapb10.chm2818053
 f1_keywords:
 - vbapb10.chm2818053
@@ -8,19 +8,20 @@ api_name:
 - Publisher.Plates.FindPlateByInkName
 ms.assetid: 4ebbc826-468b-7cd7-806e-056e4cbb488c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Plates.FindPlateByInkName Method (Publisher)
+# Plates.FindPlateByInkName method (Publisher)
 
 Returns a  **Plate** object that represents the plate of the specified ink name.
 
 
 ## Syntax
 
- _expression_. **FindPlateByInkName**(**_InkName_**)
+_expression_.**FindPlateByInkName**(**_InkName_**)
 
- _expression_An expression that returns a  **Plates** object.
+ _expression_ An expression that returns a  **Plates** object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ Plate
 
 ## Remarks
 
-The InkName parameter can be one of the  ** [PbInkName](./overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
+The InkName parameter can be one of the  **[PbInkName](overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
 
 Process colors are assigned different index numbers in the  **Plates** collection than in the **PrintablePlates** collection. Use the **FindPlateByInkName** method to insure that the desired **Plate** or **PrintablePlate** object is accessed.
 
@@ -65,4 +66,4 @@ Dim pplPlate As Plate
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

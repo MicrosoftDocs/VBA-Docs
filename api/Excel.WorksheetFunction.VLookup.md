@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.VLookup Method (Excel)
+title: WorksheetFunction.VLookup method (Excel)
 keywords: vbaxl10.chm137123
 f1_keywords:
 - vbaxl10.chm137123
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.VLookup
 ms.assetid: 1b84b1f5-b557-3a5c-0787-7c19a9800580
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.VLookup Method (Excel)
+# WorksheetFunction.VLookup method (Excel)
 
 Searches for a value in the first column of a table array and returns a value in the same row from another column in the table array. 
 
 
 ## Syntax
 
- _expression_. `VLookup`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `VLookup`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ The V in  **VLookup** stands for vertical. Use the **VLookup** method instead of
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

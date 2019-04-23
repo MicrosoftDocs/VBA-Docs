@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.GetItems Method (Outlook)
+title: ConversationHeader.GetItems method (Outlook)
 keywords: vbaol11.chm3544
 f1_keywords:
 - vbaol11.chm3544
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ConversationHeader.GetItems
 ms.assetid: 018fab26-3cdc-cd39-4a16-fb2a26ae237f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConversationHeader.GetItems Method (Outlook)
+# ConversationHeader.GetItems method (Outlook)
 
 Obtains a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
 
 
 ## Syntax
 
- _expression_. `GetItems`
+_expression_. `GetItems`
 
- _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
+_expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 
 
 ## Return value
@@ -44,4 +45,4 @@ If no conversation items exist in the same folder as the conversation header,  *
 
 [How to: Obtain and Enumerate Selected Conversations](../outlook/Concepts/Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

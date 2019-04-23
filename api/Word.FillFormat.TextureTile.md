@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureTile Property (Word)
+title: FillFormat.TextureTile property (Word)
 keywords: vbawd10.chm164102264
 f1_keywords:
 - vbawd10.chm164102264
@@ -8,28 +8,29 @@ api_name:
 - Word.FillFormat.TextureTile
 ms.assetid: 670db5f6-8543-2c6e-6aeb-98f240716421
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureTile Property (Word)
+# FillFormat.TextureTile property (Word)
 
 Returns or sets whether the texture fill is tiled or centered. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextureTile`
+_expression_. `TextureTile`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks
 
-The value returned by the  **TextureTile** property can be one of the following[MsoTriState](./Office.MsoTriState.md) constants.
+The value returned by the  **TextureTile** property can be one of the following[MsoTriState](Office.MsoTriState.md) constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The texture fill is centered.|
 | **msoTrue**|The texture fill is tiled.|
@@ -42,3 +43,4 @@ The setting of the  **TextureTile** property corresponds to the setting of the *
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

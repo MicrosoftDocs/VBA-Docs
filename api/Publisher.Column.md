@@ -1,5 +1,5 @@
 ---
-title: Column Object (Publisher)
+title: Column object (Publisher)
 keywords: vbapb10.chm5046271
 f1_keywords:
 - vbapb10.chm5046271
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Column
 ms.assetid: 7f14fd4f-3919-8dd9-ed1e-988269b4b0c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Column Object (Publisher)
+# Column object (Publisher)
 
 Represents a single table column. The  **Column** object is a member of the **[Columns](Publisher.Columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
  
@@ -66,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Column.Delete.md)|
 
@@ -74,10 +75,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Column.Application.md)|
 |[Cells](Publisher.Column.Cells.md)|
 |[Parent](Publisher.Column.Parent.md)|
 |[Width](Publisher.Column.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

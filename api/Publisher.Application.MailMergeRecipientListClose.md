@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeRecipientListClose Event (Publisher)
+title: Application.MailMergeRecipientListClose event (Publisher)
 keywords: vbapb10.chm268435488
 f1_keywords:
 - vbapb10.chm268435488
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeRecipientListClose
 ms.assetid: 4fb77771-9897-8623-f4e7-61f631f04922
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeRecipientListClose Event (Publisher)
+# Application.MailMergeRecipientListClose event (Publisher)
 
-Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **E-mail Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the  **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
+Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **Email Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the  **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
 
 
 ## Syntax
 
- _expression_. **MailMergeRecipientListClose**(**_Doc_**)
+_expression_.**MailMergeRecipientListClose**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -73,3 +74,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (Word)
+title: FillFormat.Pattern property (Word)
 keywords: vbawd10.chm164102250
 f1_keywords:
 - vbawd10.chm164102250
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.Pattern
 ms.assetid: a0a296b4-20d2-20a6-9892-e22d1b7f4cff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Pattern Property (Word)
+# FillFormat.Pattern property (Word)
 
 Returns or sets a  **MsoPatternType** constant that represents the pattern applied to the specified fill or line. Read-only.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

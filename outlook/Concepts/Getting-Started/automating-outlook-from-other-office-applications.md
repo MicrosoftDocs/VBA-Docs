@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: d3e44f80-df67-2d28-94dc-14d7a8c8c26c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ There are several ways to return a reference to the Outlook  **Application** obj
 
 For examples of using these methods of referencing the Outlook  **Application** object, see [Automating Outlook from a Visual Basic Application](automating-outlook-from-a-visual-basic-application.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

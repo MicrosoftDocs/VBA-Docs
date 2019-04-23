@@ -8,6 +8,7 @@ api_name:
 - Excel.SparklineGroups.Item
 ms.assetid: 6fd07e5f-040e-8373-2565-44851a310de6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collectio
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
+_expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ SparklineGroup
 
 [SparklineGroups Object](Excel.SparklineGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

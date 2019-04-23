@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRow.Range
 ms.assetid: 261b507a-91d7-9075-1d4d-b85d6d455ee0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
- _expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
+_expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 [ListRow Object](Excel.ListRow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

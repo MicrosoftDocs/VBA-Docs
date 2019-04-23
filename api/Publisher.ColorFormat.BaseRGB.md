@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.BaseRGB Property (Publisher)
+title: ColorFormat.BaseRGB property (Publisher)
 keywords: vbapb10.chm2555906
 f1_keywords:
 - vbapb10.chm2555906
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorFormat.BaseRGB
 ms.assetid: c8096661-9a5a-2769-fd88-72d38d383095
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.BaseRGB Property (Publisher)
+# ColorFormat.BaseRGB property (Publisher)
 
 Returns or sets an  **MsoRGBType** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
 
 
 ## Syntax
 
- _expression_. **BaseRGB**
+_expression_.**BaseRGB**
 
  _expression_ A variable that represents a  **ColorFormat** object.
 
@@ -51,4 +52,4 @@ Sub SetBaseRGB()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

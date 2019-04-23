@@ -1,5 +1,5 @@
 ---
-title: Shape Object (Visio)
+title: Shape object (Visio)
 keywords: vis_sdr.chm10225
 f1_keywords:
 - vis_sdr.chm10225
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shape
 ms.assetid: da7a8872-4ebb-a607-e0ed-eebf68ff5630
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape Object (Visio)
+# Shape object (Visio)
 
 Represents anything you can select in a drawing window: a basic shape, a group, a guide, or an object from another application embedded or linked in Microsoft Visio.
 
@@ -43,7 +44,7 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeSelectionDelete](./Visio.Shape.BeforeSelectionDelete.md)|
 |[BeforeShapeDelete](./Visio.Shape.BeforeShapeDelete.md)|
@@ -72,7 +73,7 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddGuide](./Visio.Shape.AddGuide.md)|
 |[AddHyperlink](./Visio.Shape.AddHyperlink.md)|
@@ -166,7 +167,7 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Shape.Application.md)|
 |[AreaIU](./Visio.Shape.AreaIU.md)|
@@ -254,3 +255,4 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 |[Type](./Visio.Shape.Type.md)|
 |[UniqueID](./Visio.Shape.UniqueID.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

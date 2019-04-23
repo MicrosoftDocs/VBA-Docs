@@ -1,5 +1,5 @@
 ---
-title: Window.Visible Property (Publisher)
+title: Window.Visible property (Publisher)
 keywords: vbapb10.chm262153
 f1_keywords:
 - vbapb10.chm262153
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Window.Visible
 ms.assetid: 608db1b6-2eb0-4f00-86c8-9d0537ae4f31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Visible Property (Publisher)
+# Window.Visible property (Publisher)
 
  **True** if the window is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_.**Visible**
 
  _expression_ A variable that represents a  **Window** object.
 
@@ -32,4 +33,4 @@ This example hides the Publisher window.
 ActiveWindow.Visible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

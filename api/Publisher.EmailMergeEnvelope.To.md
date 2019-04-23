@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.To Property (Publisher)
+title: EmailMergeEnvelope.To property (Publisher)
 keywords: vbapb10.chm9043971
 f1_keywords:
 - vbapb10.chm9043971
@@ -8,17 +8,18 @@ api_name:
 - Publisher.EmailMergeEnvelope.To
 ms.assetid: c9c470e8-1411-fda9-becf-5c932e97d98f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.To Property (Publisher)
+# EmailMergeEnvelope.To property (Publisher)
 
-Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the e-mail addresses of recipients of the merged e-mail message. Read/write.
+Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the email addresses of recipients of the merged email message. Read/write.
 
 
 ## Syntax
 
- _expression_. **To**
+_expression_.**To**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
@@ -30,7 +31,7 @@ MailMergeDataField
 
 ## Remarks
 
-You must make certain that you assign the correct data-source field (the one that represents e-mail addresses) to the  **To** property. You can use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **To** is assigned, to ensure that you make the correct assignment:
+You must make certain that you assign the correct data-source field (the one that represents email addresses) to the  **To** property. You can use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **To** is assigned, to ensure that you make the correct assignment:
 
 
 ```vb
@@ -39,4 +40,4 @@ Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.To.Name
 
 For an example of how to set the  **To** property value, see the **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object topic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

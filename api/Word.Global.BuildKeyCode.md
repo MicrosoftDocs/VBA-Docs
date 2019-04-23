@@ -1,5 +1,5 @@
 ---
-title: Global.BuildKeyCode Method (Word)
+title: Global.BuildKeyCode method (Word)
 keywords: vbawd10.chm163119420
 f1_keywords:
 - vbawd10.chm163119420
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.BuildKeyCode
 ms.assetid: dc9870a9-0c0d-5985-e3fc-79c5a1b467c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.BuildKeyCode Method (Word)
+# Global.BuildKeyCode method (Word)
 
 Returns a unique number for the specified key combination.
 
 
 ## Syntax
 
- _expression_. `BuildKeyCode`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `BuildKeyCode`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -72,3 +73,4 @@ MsgBox FindKey(BuildKeyCode(Arg1:=wdKeyF1)).Command
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

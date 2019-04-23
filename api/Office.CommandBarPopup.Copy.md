@@ -1,35 +1,34 @@
 ---
-title: CommandBarPopup.Copy Method (Office)
+title: CommandBarPopup.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Copy
 ms.assetid: d50fff50-00fd-e70f-d777-9bf1850cae37
-ms.date: 06/08/2017
+ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarPopup.Copy Method (Office)
+# CommandBarPopup.Copy method (Office)
 
-Copies a command bar popup control to an existing command bar.
+Copies a **CommandBarPopup** control to an existing command bar.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Bar_`, `_Before_` )
+_expression_.**Copy** (_Bar_, _Before_)
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a **[CommandBarPopup](Office.CommandBarPopup.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Bar_|Optional|**Variant**|A  **CommandBar** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
+| _Bar_|Optional|**Variant**|A **[CommandBar](office.commandbar.md)** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
 | _Before_|Optional|**Variant**|A number that indicates the position for the new control on the command bar. The new control will be inserted before the control at this position. If this argument is omitted, the control is copied to the end of the command bar.|
 
 ## Return value
@@ -39,10 +38,6 @@ CommandBarControl
 
 ## See also
 
+- [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
 
-[CommandBarPopup Object](Office.CommandBarPopup.md)
-
-
-
-[CommandBarPopup Object Members](./overview/Library-Reference/commandbarpopup-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

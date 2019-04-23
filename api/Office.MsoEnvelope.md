@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope Object (Office)
+title: MsoEnvelope object (Office)
 keywords: vbaof11.chm245000
 f1_keywords:
 - vbaof11.chm245000
@@ -7,23 +7,24 @@ ms.prod: office
 api_name:
 - Office.MsoEnvelope
 ms.assetid: 64cfde6b-cd71-1d7b-0e8f-1181d88d9457
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# MsoEnvelope Object (Office)
+# MsoEnvelope object (Office)
 
-Provides access to functionality that lets you send documents as e-mail messages directly from Microsoft Office applications.
+Provides access to functionality that lets you send documents as email messages directly from Microsoft Office applications.
 
 
 ## Remarks
 
-Use the  **MailEnvelope** property of the **Document** object, **Chart** object or **Worksheet** object (depending on the application you are using) to return a **MsoEnvelope** object.
+Use the **MailEnvelope** property of the **Document** object, **Chart** object, or **Worksheet** object (depending on the application you are using) to return an **MsoEnvelope** object.
 
 
 ## Example
 
-The following example sends the active Microsoft Word document as an e-mail message to the e-mail address that you pass to the subroutine.
+The following example sends the active Microsoft Word document as an email message to the email address that you pass to the subroutine.
 
 
 ```vb
@@ -32,7 +33,7 @@ Sub SendMail(ByVal strRecipient As String)
  'Use a With...End With block to reference the MsoEnvelope object. 
  With Application.ActiveDocument.MailEnvelope 
  
- 'Add some introductory text before the body of the e-mail. 
+ 'Add some introductory text before the body of the email. 
  .Introduction = "Please read this and send me your comments." 
  
  'Return a Microsoft Outlook MailItem object that 
@@ -54,30 +55,13 @@ End Sub
 ```
 
 
-## Events
-
-
-
-|**Name**|
-|:-----|
-|[EnvelopeHide](Office.MsoEnvelope.EnvelopeHide.md)|
-|[EnvelopeShow](Office.MsoEnvelope.EnvelopeShow.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[CommandBars](Office.MsoEnvelope.CommandBars.md)|
-|[Introduction](Office.MsoEnvelope.Introduction.md)|
-|[Item](Office.MsoEnvelope.Item.md)|
-|[Parent](Office.MsoEnvelope.Parent.md)|
-
 ## See also
 
+- [MsoEnvelope object members](overview/library-reference/msoenvelope-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+

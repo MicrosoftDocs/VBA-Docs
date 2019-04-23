@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenRefresh Method (Word)
+title: Application.ScreenRefresh method (Word)
 keywords: vbawd10.chm158335277
 f1_keywords:
 - vbawd10.chm158335277
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.ScreenRefresh
 ms.assetid: 303db23c-492c-5e33-0363-7ef6433dc90e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ScreenRefresh Method (Word)
+# Application.ScreenRefresh method (Word)
 
 Updates the display on the monitor with the current information in the video memory buffer.
 
 
 ## Syntax
 
- _expression_. `ScreenRefresh`
+_expression_.**ScreenRefresh**
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ ScreenUpdating = True
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

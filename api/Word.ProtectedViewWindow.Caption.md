@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Caption Property (Word)
+title: ProtectedViewWindow.Caption property (Word)
 keywords: vbawd10.chm231735296
 f1_keywords:
 - vbawd10.chm231735296
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindow.Caption
 ms.assetid: ec8d2b22-34b6-2685-6ab5-74eb48b1dfb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Caption Property (Word)
+# ProtectedViewWindow.Caption property (Word)
 
-Returns or sets the caption text that is displayed in the title bar of the document or protected view window. Read/write  **String** .
+Returns or sets the caption text that is displayed in the title bar of the document or protected view window. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 
@@ -55,3 +56,4 @@ ActiveProtectedViewWindow.Caption = Application.UserName & "'s copy of Word"
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

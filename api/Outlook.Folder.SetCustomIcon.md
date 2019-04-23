@@ -1,5 +1,5 @@
 ---
-title: Folder.SetCustomIcon Method (Outlook)
+title: Folder.SetCustomIcon method (Outlook)
 keywords: vbaol11.chm3317
 f1_keywords:
 - vbaol11.chm3317
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.SetCustomIcon
 ms.assetid: d368547b-e90c-85ec-7d5c-e48cbe8eb42e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.SetCustomIcon Method (Outlook)
+# Folder.SetCustomIcon method (Outlook)
 
 Sets a custom icon that is specified by  _Picture_ for the folder.
 
 
 ## Syntax
 
- _expression_. `SetCustomIcon`( `_Picture_` )
+_expression_.**SetCustomIcon**(_Picture_)
 
- _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
+_expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object.
 
 
 ## Parameters
@@ -29,26 +30,26 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Picture_|Required| **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)**|Specifies the custom icon for the folder.|
+| _Picture_|Required| **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)**|Specifies the custom icon for the folder.|
 
 ## Remarks
 
-The  **IPictureDisp** object specified by _Picture_ must have its **Type** property equal to **PICTYPE_ICON** or **PICTYPE_BITMAP** . The icon or bitmap resource can have a maximum size of 32x32. Icons that are 16x16 or 24x24 are also supported, and Microsoft Outlook can scale up a 16x16 icon if Outlook is running in high Dots Per Inch (DPI) mode. Icons of other sizes cause **SetCustomIcon** to return an error.
+The  **IPictureDisp** object specified by _Picture_ must have its **Type** property equal to **PICTYPE_ICON** or **PICTYPE_BITMAP**. The icon or bitmap resource can have a maximum size of 32x32. Icons that are 16x16 or 24x24 are also supported, and Microsoft Outlook can scale up a 16x16 icon if Outlook is running in high Dots Per Inch (DPI) mode. Icons of other sizes cause **SetCustomIcon** to return an error.
 
 You can set a custom icon for a search folder and for all folders that do not represent a default or a special folder. If you attempt to set a custom icon for a folder that belongs to one of the following groups of folders,  **SetCustomIcon** will return an error:
 
 
--  Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
+- Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
     
 - Special folders (as listed by the  **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration)
     
 - Exchange public folders
     
--  Root folder of any Exchange mailbox
+- Root folder of any Exchange mailbox
     
 - Hidden folders
     
-You can only call  **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. For more details, see [An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
+You can only call  **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. 
 
 The custom folder icon that this method provides does not persist beyond the running Outlook session. Add-ins therefore must set the custom folder icon every time that Outlook boots.
 
@@ -180,8 +181,6 @@ public static class PictureDispConverter
 ```
 
 
-## See also
 
 
-[Folder Object](Outlook.Folder.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

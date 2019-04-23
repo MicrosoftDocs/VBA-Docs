@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NormInv Method (Excel)
+title: WorksheetFunction.NormInv method (Excel)
 keywords: vbaxl10.chm137199
 f1_keywords:
 - vbaxl10.chm137199
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.NormInv
 ms.assetid: dfc745a0-6433-bb63-324f-1d22447406bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.NormInv Method (Excel)
+# WorksheetFunction.NormInv method (Excel)
 
 Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [Norm_Inv](Excel.WorksheetF
 
 ## Syntax
 
- _expression_. `NormInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `NormInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Given a value for probability, NORMINV seeks that value x such that NORMDIST(x, 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

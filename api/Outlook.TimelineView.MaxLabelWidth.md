@@ -1,5 +1,5 @@
 ---
-title: TimelineView.MaxLabelWidth Property (Outlook)
+title: TimelineView.MaxLabelWidth property (Outlook)
 keywords: vbaol11.chm2665
 f1_keywords:
 - vbaol11.chm2665
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TimelineView.MaxLabelWidth
 ms.assetid: b97e4104-89d8-c8a6-598e-7397cf47f320
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimelineView.MaxLabelWidth Property (Outlook)
+# TimelineView.MaxLabelWidth property (Outlook)
 
 Returns or sets a  **Long** value that represents the maximum length (in characters) for the label of an Outlook item in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `MaxLabelWidth`
+_expression_. `MaxLabelWidth`
 
- _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks
@@ -119,3 +120,4 @@ End Sub
 
 [TimelineView Object](Outlook.TimelineView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListRows.Add Method (Excel)
+title: ListRows.Add method (Excel)
 keywords: vbaxl10.chm740078
 f1_keywords:
 - vbaxl10.chm740078
@@ -8,19 +8,20 @@ api_name:
 - Excel.ListRows.Add
 ms.assetid: 32213e09-fd25-3787-3ab8-45ee1249ca1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListRows.Add Method (Excel)
+# ListRows.Add method (Excel)
 
 Adds a new row to the table represented by the specified [ListObject](Excel.ListObject.md).
 
 
 ## Syntax
 
- _expression_. `Add`( `_Position_` , `_AlwaysInsert_` )
+_expression_.**Add**( `_Position_` , `_AlwaysInsert_` )
 
- _expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
+_expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Adds a new row to the table represented by the specified [ListObject](Excel.List
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Position_|Optional| **Variant**| **Integer** . Specifies the relative position of the new row.|
-| _AlwaysInsert_|Optional| **Variant**| **Boolean** . Specifies whether to always shift data in cells below the last row of the table when the new row is inserted, regardless if the row below the table is empty. If **True** , the cells below the table will be shifted down one row. If **False** , if the row below the table is empty, the table will expand to occupy that row without shifting cells below it; but if the row below the table contains data, those cells will be shifted down when the new row is inserted.|
+| _Position_|Optional| **Variant**| **Integer**. Specifies the relative position of the new row.|
+| _AlwaysInsert_|Optional| **Variant**| **Boolean**. Specifies whether to always shift data in cells below the last row of the table when the new row is inserted, regardless if the row below the table is empty. If **True**, the cells below the table will be shifted down one row. If **False**, if the row below the table is empty, the table will expand to occupy that row without shifting cells below it; but if the row below the table contains data, those cells will be shifted down when the new row is inserted.|
 
 ## Return value
 
@@ -57,3 +58,4 @@ Set myNewRow = ActiveWorkbook.Worksheets(1).ListObject(1).ListRows.Add
 
 [ListRows Object](Excel.ListRows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

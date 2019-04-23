@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Delete Method (Excel)
+title: LegendKey.Delete method (Excel)
 keywords: vbaxl10.chm590076
 f1_keywords:
 - vbaxl10.chm590076
@@ -8,19 +8,20 @@ api_name:
 - Excel.LegendKey.Delete
 ms.assetid: b93ad1e1-48d2-8076-7151-b43b27faa773
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendKey.Delete Method (Excel)
+# LegendKey.Delete method (Excel)
 
 Deletes the object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
+_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Deleting a  **[LegendKey](Excel.LegendKey(object).md)** object deletes the entir
 
 [LegendKey Object](Excel.LegendKey(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

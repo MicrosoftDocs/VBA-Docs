@@ -1,5 +1,5 @@
 ---
-title: Window.SmallScroll Method (Excel)
+title: Window.SmallScroll method (Excel)
 keywords: vbaxl10.chm356110
 f1_keywords:
 - vbaxl10.chm356110
@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.SmallScroll
 ms.assetid: dcf1fdeb-36ab-06ed-a9fc-5b2bbaecc457
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.SmallScroll Method (Excel)
+# Window.SmallScroll method (Excel)
 
 Scrolls the contents of the window by rows or columns.
 
 
 ## Syntax
 
- _expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ ActiveWindow.SmallScroll down:=3
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

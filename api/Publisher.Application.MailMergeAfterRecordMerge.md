@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeAfterRecordMerge Event (Publisher)
+title: Application.MailMergeAfterRecordMerge event (Publisher)
 keywords: vbapb10.chm268435472
 f1_keywords:
 - vbapb10.chm268435472
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeAfterRecordMerge
 ms.assetid: 550c3310-01ba-718f-4c1d-cbf3ce077d27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeAfterRecordMerge Event (Publisher)
+# Application.MailMergeAfterRecordMerge event (Publisher)
 
 Occurs after each record in the data source successfully merges in a mail merge.
 
 
 ## Syntax
 
- _expression_. **MailMergeAfterRecordMerge**(**_Doc_**)
+_expression_.**MailMergeAfterRecordMerge**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -73,3 +74,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

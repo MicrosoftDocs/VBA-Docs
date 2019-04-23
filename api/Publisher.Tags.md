@@ -1,5 +1,5 @@
 ---
-title: Tags Object (Publisher)
+title: Tags object (Publisher)
 keywords: vbapb10.chm4718591
 f1_keywords:
 - vbapb10.chm4718591
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Tags
 ms.assetid: 76cccc1e-4623-af8b-f0f8-e6cc245b94fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Tags Object (Publisher)
+# Tags object (Publisher)
 
 A collection of  **Tag** objects that represents tags or custom properties applied to a shape, shape range, page, or publication.
  
@@ -64,7 +65,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Tags.Add.md)|
 |[Item](Publisher.Tags.Item.md)|
@@ -73,9 +74,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Tags.Application.md)|
 |[Count](Publisher.Tags.Count.md)|
 |[Parent](Publisher.Tags.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ChartBorder Object (PowerPoint)
+title: ChartBorder object (PowerPoint)
 keywords: vbapp10.chm685000
 f1_keywords:
 - vbapp10.chm685000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ChartBorder
 ms.assetid: fd651a9a-4068-9a9b-f605-9228da5e6183
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartBorder Object (PowerPoint)
+# ChartBorder object (PowerPoint)
 
 Represents the border of an object.
 
@@ -49,3 +50,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

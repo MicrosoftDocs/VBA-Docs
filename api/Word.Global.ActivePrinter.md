@@ -1,5 +1,5 @@
 ---
-title: Global.ActivePrinter Property (Word)
+title: Global.ActivePrinter property (Word)
 keywords: vbawd10.chm163119170
 f1_keywords:
 - vbawd10.chm163119170
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.ActivePrinter
 ms.assetid: cf4dcba0-7b26-0569-8ab8-eb641696d0e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.ActivePrinter Property (Word)
+# Global.ActivePrinter property (Word)
 
-Returns or sets the name of the active printer. Read/write  **String** .
+Returns or sets the name of the active printer. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ActivePrinter`
+_expression_. `ActivePrinter`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -61,3 +62,4 @@ Application.ActivePrinter = "HP LaserJet 4 local on LPT1:"
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

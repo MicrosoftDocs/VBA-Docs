@@ -1,5 +1,5 @@
 ---
-title: Variable.Value Property (Word)
+title: Variable.Value property (Word)
 keywords: vbawd10.chm157679616
 f1_keywords:
 - vbawd10.chm157679616
@@ -8,19 +8,20 @@ api_name:
 - Word.Variable.Value
 ms.assetid: 6a687fff-062a-4e27-abc7-2f49d6f9c76b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Variable.Value Property (Word)
+# Variable.Value property (Word)
 
-Returns or sets the value of a document variable. Read/write  **String** .
+Returns or sets the value of a document variable. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ Required. A variable that represents a '[Variable](Word.Variable.md)' object.
+_expression_ Required. A variable that represents a '[Variable](Word.Variable.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ MsgBox ActiveDocument.Variables("Temp2").Value
 
 [Variable Object](Word.Variable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

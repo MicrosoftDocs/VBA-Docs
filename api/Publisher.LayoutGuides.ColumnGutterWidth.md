@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.ColumnGutterWidth Property (Publisher)
+title: LayoutGuides.ColumnGutterWidth property (Publisher)
 keywords: vbapb10.chm1114128
 f1_keywords:
 - vbapb10.chm1114128
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.ColumnGutterWidth
 ms.assetid: 1c8fd297-1164-da50-cee8-390263cce5b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.ColumnGutterWidth Property (Publisher)
+# LayoutGuides.ColumnGutterWidth property (Publisher)
 
 Returns or sets the width of the column gutters that are used by the  **LayoutGuides** object to aid in the process of laying out design elements. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. **ColumnGutterWidth**
+_expression_.**ColumnGutterWidth**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -54,4 +55,4 @@ With theLayoutGuides
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

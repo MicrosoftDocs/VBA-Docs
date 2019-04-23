@@ -1,14 +1,15 @@
 ---
-title: WdWordDialog Enumeration (Word)
+title: WdWordDialog enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWordDialog
 ms.assetid: af867214-8cd6-0477-6c88-2efe06589730
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdWordDialog Enumeration (Word)
+# WdWordDialog enumeration (Word)
 
 Indicates the Microsoft Word dialog boxes with which you can work and specifies arguments, if applicable, that you can use to get or set values in a dialog box.
 
@@ -252,3 +253,4 @@ Indicates the Microsoft Word dialog boxes with which you can work and specifies 
 | **wdDialogXMLElementAttributes**|1460|(none)|
 | **wdDialogXMLOptions**|1425|(none)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Folders.Add Method (Outlook)
+title: Folders.Add method (Outlook)
 keywords: vbaol11.chm46
 f1_keywords:
 - vbaol11.chm46
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folders.Add
 ms.assetid: 20ced7ad-779c-a9b0-267e-6d729c0eb822
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folders.Add Method (Outlook)
+# Folders.Add method (Outlook)
 
 Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_Type_` )
+_expression_.**Add**( `_Name_` , `_Type_` )
 
- _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The display name for the new folder.|
-| _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . The constants **olFolderConflicts** , **olFolderDeletedItems** , **olFolderJunk** , **olFolderLocalFailures** , **olFolderManagedEmail** , **olFolderOutbox** , **olFolderRssSubscriptions** , **olFolderSentMail** , **olFolderServerFailures** , **olFolderSyncIssues** , **olFolderToDo** , and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
+| _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constants: **olFolderCalendar**, **olFolderContacts**, **olFolderDrafts**, **olFolderInbox**, **olFolderJournal**, **olFolderNotes**, or **olFolderTasks**. The constants **olFolderConflicts**, **olFolderDeletedItems**, **olFolderJunk**, **olFolderLocalFailures**, **olFolderManagedEmail**, **olFolderOutbox**, **olFolderRssSubscriptions**, **olFolderSentMail**, **olFolderServerFailures**, **olFolderSyncIssues**, **olFolderToDo**, and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
 
 ## Return value
 
@@ -86,3 +87,4 @@ End Sub
 
 [Folders Object](Outlook.Folders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

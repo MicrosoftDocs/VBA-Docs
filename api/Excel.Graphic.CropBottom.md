@@ -8,17 +8,18 @@ api_name:
 - Excel.Graphic.CropBottom
 ms.assetid: ae0ab176-81c4-73ef-bfdb-e08c078dfc9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Graphic.CropBottom property (Excel)
 
-Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CropBottom`
+_expression_. `CropBottom`
 
  _expression_ An expression that returns a [Graphic](Excel.Graphic.md) object.
 
@@ -30,7 +31,7 @@ Cropping is calculated relative to the original size of the picture. For example
 
 ## Example
 
-This example crops 20 points off the bottom of shape three on  `myDocument`. For the example to work, shape three must be either a picture or an OLE object.
+This example crops 20 points off the bottom of shape three on  _myDocument_. For the example to work, shape three must be either a picture or an OLE object.
 
 
 ```vb
@@ -63,3 +64,4 @@ shapeToCrop.PictureFormat.CropBottom = cropPoints
 
 [Graphic Object](Excel.Graphic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.TabStops Property (Word)
+title: Paragraphs.TabStops property (Word)
 keywords: vbawd10.chm156763215
 f1_keywords:
 - vbawd10.chm156763215
@@ -8,17 +8,18 @@ api_name:
 - Word.Paragraphs.TabStops
 ms.assetid: cf369030-7569-699f-d8be-7a24b63e22eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.TabStops Property (Word)
+# Paragraphs.TabStops property (Word)
 
 Returns or sets a  **TabStops** collection that represents all the custom tab stops for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. `TabStops`
+_expression_. `TabStops`
 
  _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
@@ -55,3 +56,4 @@ ActiveDocument.Paragraphs.TabStops = para1Tabs
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

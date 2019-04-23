@@ -1,14 +1,15 @@
 ---
-title: TaskPanes Object (Word)
+title: TaskPanes object (Word)
 ms.prod: word
 api_name:
 - Word.TaskPanes
 ms.assetid: a560a41b-a1d7-175a-b475-af742c9fa1f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskPanes Object (Word)
+# TaskPanes object (Word)
 
 A collection of  **TaskPane** objects that contains commonly performed tasks in Microsoft Word.
 
@@ -28,6 +29,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

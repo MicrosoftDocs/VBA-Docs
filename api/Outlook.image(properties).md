@@ -3,6 +3,7 @@ title: Image Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5ef0bda8-9e63-4ffa-9370-ab3f17de01eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,5 +37,5 @@ ms.date: 06/08/2017
 -  [Image.PictureTiling Property (Outlook Forms Script)](Outlook.Image.picturetiling.md)
     
 -  [Image.SpecialEffect Property (Outlook Forms Script)](Outlook.Image.specialeffect.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

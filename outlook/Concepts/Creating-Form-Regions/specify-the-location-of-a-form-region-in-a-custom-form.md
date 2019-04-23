@@ -3,6 +3,7 @@ title: Specify the Location of a Form Region in a Custom Form
 ms.prod: outlook
 ms.assetid: c617f6a3-c39a-bb0f-37ff-1ea999dac8be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -193,4 +194,4 @@ You will specify the following in C's form region manifest XML file:
 <displayAfter>FormRegionB</displayAfter>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

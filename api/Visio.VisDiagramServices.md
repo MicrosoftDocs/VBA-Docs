@@ -1,5 +1,5 @@
 ---
-title: VisDiagramServices Enumeration (Visio)
+title: VisDiagramServices enumeration (Visio)
 keywords: vis_sdr.chm70775
 f1_keywords:
 - vis_sdr.chm70775
@@ -8,17 +8,18 @@ api_name:
 - Visio.VisDiagramServices
 ms.assetid: d1abffb0-eb5d-17c6-8313-6a916cce0bd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDiagramServices Enumeration (Visio)
+# VisDiagramServices enumeration (Visio)
 
 Specifies constants that represent diagram services. These constants are passed to and returned by the  **[Document.DiagramServicesEnabled](Visio.DiagramServicesEnabled.md)** property.
 
 Version Added: Visio 2010 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visServiceNone**|0|No diagram services.|
 | **visServiceAll**|-1|All diagram services.|
@@ -29,3 +30,4 @@ Version Added: Visio 2010
 | **visServiceVersion140**|7|All diagram services that exist in Visio.|
 | **visServiceVersion150**|8|All diagram services that exist in Visio.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

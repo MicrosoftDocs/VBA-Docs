@@ -1,15 +1,16 @@
 ---
-title: Projects Object (Project)
+title: Projects object (Project)
 keywords: vbapj.chm131311
 f1_keywords:
 - vbapj.chm131311
 ms.prod: project-server
 ms.assetid: 5a254428-f50d-e74f-dd31-5cdb260a4364
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Projects Object (Project)
+# Projects object (Project)
 
 Contains a collection of **[Project](Project.Project.md)** objects.
 
@@ -75,7 +76,7 @@ Projects.Add False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Projects.Add.md)|
 |[CanCheckOut](./Project.Projects.CanCheckOut.md)|
@@ -85,7 +86,7 @@ Projects.Add False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Projects.Application.md)|
 |[Count](./Project.Projects.Count.md)|
@@ -96,3 +97,5 @@ Projects.Add False
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

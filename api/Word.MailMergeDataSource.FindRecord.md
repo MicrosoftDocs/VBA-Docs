@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FindRecord Method (Word)
+title: MailMergeDataSource.FindRecord method (Word)
 keywords: vbawd10.chm152895590
 f1_keywords:
 - vbawd10.chm152895590
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeDataSource.FindRecord
 ms.assetid: 1d4bc94c-8305-57d9-d63f-ce4ac54aa4d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.FindRecord Method (Word)
+# MailMergeDataSource.FindRecord method (Word)
 
-Searches the contents of the specified mail merge data source for text in a particular field. Returns  **True** if the search text is found. **Boolean** .
+Searches the contents of the specified mail merge data source for text in a particular field. Returns  **True** if the search text is found. **Boolean**.
 
 
 ## Syntax
 
- _expression_. `FindRecord`( `_FindText_` , `_Field_` )
+_expression_. `FindRecord`( `_FindText_` , `_Field_` )
 
- _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Parameters
@@ -41,7 +42,7 @@ Boolean
 
 This method corresponds to the  **Find Record** button on the **Mail Merge** toolbar.
 
-The  **FindRecord** method does a forward search only. Therefore, if the active record is not the first record in the data source and the record for which you are searching is before the active record, the **FindRecord** method will return no results. To ensure that the entire data source is searched, set the **ActiveRecord** property to **wdFirstRecord** .
+The  **FindRecord** method does a forward search only. Therefore, if the active record is not the first record in the data source and the record for which you are searching is before the active record, the **FindRecord** method will return no results. To ensure that the entire data source is searched, set the **ActiveRecord** property to **wdFirstRecord**.
 
 
 ## Example
@@ -67,3 +68,4 @@ End If
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

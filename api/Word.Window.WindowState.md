@@ -1,5 +1,5 @@
 ---
-title: Window.WindowState Property (Word)
+title: Window.WindowState property (Word)
 keywords: vbawd10.chm157417483
 f1_keywords:
 - vbawd10.chm157417483
@@ -8,19 +8,20 @@ api_name:
 - Word.Window.WindowState
 ms.assetid: 0be17839-28d5-6ba7-5f66-02504a4aa604
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.WindowState Property (Word)
+# Window.WindowState property (Word)
 
-Returns or sets the state of the specified document window or task window. Read/write  **[WdWindowState](Word.WdWindowState.md)** .
+Returns or sets the state of the specified document window or task window. Read/write  **[WdWindowState](Word.WdWindowState.md)**.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If ActiveDocument.ActiveWindow _
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

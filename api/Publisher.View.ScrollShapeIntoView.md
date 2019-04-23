@@ -1,5 +1,5 @@
 ---
-title: View.ScrollShapeIntoView Method (Publisher)
+title: View.ScrollShapeIntoView method (Publisher)
 keywords: vbapb10.chm327685
 f1_keywords:
 - vbapb10.chm327685
@@ -8,17 +8,18 @@ api_name:
 - Publisher.View.ScrollShapeIntoView
 ms.assetid: 1d654fd4-d3b8-49e4-731d-fed27e6e0d8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ScrollShapeIntoView Method (Publisher)
+# View.ScrollShapeIntoView method (Publisher)
 
 Scrolls the publication window so that the specified shape is displayed in the publication window or pane.
 
 
 ## Syntax
 
- _expression_. **ScrollShapeIntoView**(**_Shape_**)
+_expression_.**ScrollShapeIntoView**(**_Shape_**)
 
  _expression_ A variable that represents a  **View** object.
 
@@ -60,4 +61,4 @@ Sub ScrollIntoView()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

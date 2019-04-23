@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 0a8a3fa8-1981-a7a4-9e4b-5a675f8bcaa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ One or more of the records in the  **Recordset** was deleted after the query was
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

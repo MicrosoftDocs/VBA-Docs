@@ -1,5 +1,5 @@
 ---
-title: Document.FindShapeByWizardTag Method (Publisher)
+title: Document.FindShapeByWizardTag method (Publisher)
 keywords: vbapb10.chm196690
 f1_keywords:
 - vbapb10.chm196690
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.FindShapeByWizardTag
 ms.assetid: c6db9ba7-15b0-e8f0-1ed2-08b6e978c948
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FindShapeByWizardTag Method (Publisher)
+# Document.FindShapeByWizardTag method (Publisher)
 
 Returns a  **ShapeRange** object representing one or all of the shapes placed in a publication by a wizard and bearing the specified wizard tag.
 
 
 ## Syntax
 
- _expression_. **FindShapeByWizardTag**(**_WizardTag_**,  **_Instance_**)
+_expression_.**FindShapeByWizardTag**(**_WizardTag_**,  **_Instance_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -54,4 +55,4 @@ Set shpWizardTag = ActiveDocument._
  FindShapeByWizardTag(WizardTag:=pbWizardDate, Instance:=2)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

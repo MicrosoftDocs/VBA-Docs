@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 0286c210-c035-8ff7-7b6b-cead08505f81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns a  **DataFeedConnection** object that contains the data and functionalit
 
 ## Syntax
 
- _expression_. `DataFeedConnection`
+_expression_. `DataFeedConnection`
 
- _expression_ A variable that represents a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ Returns a  **DataFeedConnection** object that contains the data and functionalit
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

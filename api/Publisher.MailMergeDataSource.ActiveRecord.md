@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ActiveRecord Property (Publisher)
+title: MailMergeDataSource.ActiveRecord property (Publisher)
 keywords: vbapb10.chm6291459
 f1_keywords:
 - vbapb10.chm6291459
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.ActiveRecord
 ms.assetid: 0f092eb4-6e65-9235-83e2-a04b813b2390
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.ActiveRecord Property (Publisher)
+# MailMergeDataSource.ActiveRecord property (Publisher)
 
 Returns or sets a  **Long** that represents the active mail merge record. Read/write.
 
 
 ## Syntax
 
- _expression_. **ActiveRecord**
+_expression_.**ActiveRecord**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -83,4 +84,4 @@ Sub ValidateZip()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

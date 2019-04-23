@@ -1,21 +1,22 @@
 ---
-title: ThreeDFormat.Creator Property (PowerPoint)
+title: ThreeDFormat.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Creator
 ms.assetid: 48762ba6-04fd-8d4b-fa5b-596ce4698d4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Creator Property (PowerPoint)
+# ThreeDFormat.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.assetid: 575d569a-5932-8e3e-66fa-61e7e67e3afa
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
 # ModelMeasures.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a 'ModelMeasures' object.
+_expression_ A variable that represents a 'ModelMeasures' object.
 
 
 ## Remarks
@@ -29,6 +30,6 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[ModelMeasures Object ](Excel.modelmeasures.md)
+[ModelMeasures Object](Excel.modelmeasures.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: d1856fdc-4d8a-1916-1f0d-d6d61e3a4070
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelTableNames.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) collection. Read-only.
+Returns a  **Long** value that represents the number of objects in a **ModelTableNames** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) object.
+_expression_ A variable that represents a **[ModelTableNames](Excel.modeltablenames.md)**
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns a  **Long** value that represents the number of objects in a [ModelTable
 
 [ModelTableNames Object](Excel.modeltablenames.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

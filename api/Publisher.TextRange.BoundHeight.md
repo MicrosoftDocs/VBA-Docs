@@ -1,5 +1,5 @@
 ---
-title: TextRange.BoundHeight Property (Publisher)
+title: TextRange.BoundHeight property (Publisher)
 keywords: vbapb10.chm5308436
 f1_keywords:
 - vbapb10.chm5308436
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.BoundHeight
 ms.assetid: 010d3de9-5838-fbf7-fb75-b80a06aafac8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.BoundHeight Property (Publisher)
+# TextRange.BoundHeight property (Publisher)
 
-Returns a  **Single** indicating the height, in points, of the bounding box for the specified text range. Read-only.
+Returns a  **Single** indicating the height, in [points](../language/glossary/vbe-glossary.md#point), of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **BoundHeight**
+_expression_.**BoundHeight**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -53,4 +54,4 @@ End With
 MsgBox strMessage
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkFormat Property (Publisher)
+title: Shape.LinkFormat property (Publisher)
 keywords: vbapb10.chm2228326
 f1_keywords:
 - vbapb10.chm2228326
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.LinkFormat
 ms.assetid: 801c3a87-7cc6-8c7b-094a-55e8d8d7a004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LinkFormat Property (Publisher)
+# Shape.LinkFormat property (Publisher)
 
 Returns a  [LinkFormat](Publisher.LinkFormat.md)object that contains the properties that are unique to linked OLE objects. Read-only.
 
 
 ## Syntax
 
- _expression_. **LinkFormat**
+_expression_.**LinkFormat**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -40,4 +41,4 @@ For Each sh In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

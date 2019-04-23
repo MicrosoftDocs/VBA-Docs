@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Modify Method (Excel)
+title: SparklineGroup.Modify method (Excel)
 keywords: vbaxl10.chm871081
 f1_keywords:
 - vbaxl10.chm871081
@@ -8,19 +8,20 @@ api_name:
 - Excel.SparklineGroup.Modify
 ms.assetid: 596cdecb-dd03-0a63-e2b8-9aa459ff719c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SparklineGroup.Modify Method (Excel)
+# SparklineGroup.Modify method (Excel)
 
 Sets the location and the source data for the sparkline group.
 
 
 ## Syntax
 
- _expression_. `Modify`( `_Location_` , `_SourceData_` )
+_expression_. `Modify`( `_Location_` , `_SourceData_` )
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ ActiveCell.SparklineGroups.Item(1).Modify Location:=Range("$A$1:$A$3"), SourceDa
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

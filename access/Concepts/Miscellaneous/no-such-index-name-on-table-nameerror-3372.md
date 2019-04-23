@@ -3,6 +3,7 @@ title: No such index <name> on table <name>. (Error 3372)
 ms.prod: access
 ms.assetid: c0577641-92a2-325c-844c-62178e66d35f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The specified index does not exist in the specified table. Check your code for a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

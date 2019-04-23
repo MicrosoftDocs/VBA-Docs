@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.Creator Property (Word)
+title: MailingLabel.Creator property (Word)
 keywords: vbawd10.chm152503273
 f1_keywords:
 - vbawd10.chm152503273
@@ -8,19 +8,20 @@ api_name:
 - Word.MailingLabel.Creator
 ms.assetid: f9a67daa-523e-b84d-e7eb-eeb1711c81c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel.Creator Property (Word)
+# MailingLabel.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
+_expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

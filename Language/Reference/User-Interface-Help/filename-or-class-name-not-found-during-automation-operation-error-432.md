@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 56e222c6-2300-ec19-c9cb-2a9e42d19fe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The  **GetObject** function requires either a valid file name with a path specif
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

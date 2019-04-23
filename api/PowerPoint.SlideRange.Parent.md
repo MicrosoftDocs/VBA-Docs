@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Parent Property (PowerPoint)
+title: SlideRange.Parent property (PowerPoint)
 keywords: vbapp10.chm532002
 f1_keywords:
 - vbapp10.chm532002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.Parent
 ms.assetid: 5bd376a4-dc87-d192-9c2a-540ca49a8c17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.Parent Property (PowerPoint)
+# SlideRange.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

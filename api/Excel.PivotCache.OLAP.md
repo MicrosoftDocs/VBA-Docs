@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.OLAP
 ms.assetid: d40d3a71-0a27-c4a6-0c3b-47ab7a1a0e06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.OLAP property (Excel)
 
-Returns  **True** if the PivotTable cache is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean** .
+Returns  **True** if the PivotTable cache is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `OLAP`
+_expression_. `OLAP`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

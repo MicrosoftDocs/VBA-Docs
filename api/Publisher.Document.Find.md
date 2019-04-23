@@ -1,5 +1,5 @@
 ---
-title: Document.Find Property (Publisher)
+title: Document.Find property (Publisher)
 keywords: vbapb10.chm196725
 f1_keywords:
 - vbapb10.chm196725
@@ -8,14 +8,15 @@ api_name:
 - Publisher.Document.Find
 ms.assetid: e9b31937-4504-79b5-5913-b2ef0a23f2a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Find Property (Publisher)
+# Document.Find property (Publisher)
 
 ## Syntax
 
- _expression_. **Find**
+_expression_.**Find**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -75,4 +76,4 @@ With objFind
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

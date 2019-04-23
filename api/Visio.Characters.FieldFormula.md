@@ -1,5 +1,5 @@
 ---
-title: Characters.FieldFormula Property (Visio)
+title: Characters.FieldFormula property (Visio)
 keywords: vis_sdr.chm10213515
 f1_keywords:
 - vis_sdr.chm10213515
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.FieldFormula
 ms.assetid: 3bdbf64c-b853-b5bb-6b4f-323d979d3e7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.FieldFormula Property (Visio)
+# Characters.FieldFormula property (Visio)
 
 Returns the formula of the custom field represented by an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `FieldFormula`
+_expression_. `FieldFormula`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -41,4 +42,4 @@ The formula returned by the  **FieldFormula** property corresponds to the formul
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **FieldFormula** property to get a formula in local syntax. Use the **FieldFormulaU** property to get a formula in universal syntax.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

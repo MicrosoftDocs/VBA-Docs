@@ -1,5 +1,5 @@
 ---
-title: Envelope.RecipientPostalfromTop Property (Word)
+title: Envelope.RecipientPostalfromTop property (Word)
 keywords: vbawd10.chm152567834
 f1_keywords:
 - vbawd10.chm152567834
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.RecipientPostalfromTop
 ms.assetid: bb0bbfee-6e17-61c0-a4ee-957022e4e63b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.RecipientPostalfromTop Property (Word)
+# Envelope.RecipientPostalfromTop property (Word)
 
 Returns or sets a  **Single** that represents the position, measured in points, of the recipient's postal code from the top edge of the envelope. Read/write.
 
 
 ## Syntax
 
- _expression_. `RecipientPostalfromTop`
+_expression_. `RecipientPostalfromTop`
 
  _expression_ An expression that returns an '[Envelope](Word.Envelope.md)' object.
 
@@ -60,3 +61,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

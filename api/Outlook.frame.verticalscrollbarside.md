@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 0e15a73b-2202-4b77-8306-2992553f2ce0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies whether a vertical scroll bar app
 
 ## Syntax
 
- _expression_. **VerticalScrollBarSide**
+_expression_.**VerticalScrollBarSide**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -27,8 +28,9 @@ The settings for  **VerticalScrollBarSide** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Puts the scroll bar on the right side (default).|
 |1|Puts the scroll bar on the left side.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

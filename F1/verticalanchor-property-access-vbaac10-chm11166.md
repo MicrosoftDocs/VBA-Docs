@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 52a22952-5180-4dca-b8b1-7157be55d8a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.VerticalAnchor property (Access)](http://msdn.microsoft.com/library/b515b37f-0566-0483-d387-8bc02c7be980%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

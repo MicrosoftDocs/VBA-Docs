@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Degrees Method (Excel)
+title: WorksheetFunction.Degrees method (Excel)
 keywords: vbaxl10.chm137239
 f1_keywords:
 - vbaxl10.chm137239
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Degrees
 ms.assetid: 3f66157e-0d2d-f746-1d73-ee7093e6c759
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Degrees Method (Excel)
+# WorksheetFunction.Degrees method (Excel)
 
 Converts radians into degrees.
 
 
 ## Syntax
 
- _expression_. `Degrees`( `_Arg1_` )
+_expression_. `Degrees`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

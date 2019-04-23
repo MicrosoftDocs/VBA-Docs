@@ -1,5 +1,5 @@
-﻿---
-title: RulerLevels Object (PowerPoint)
+---
+title: RulerLevels object (PowerPoint)
 keywords: vbapp10.chm571000
 f1_keywords:
 - vbapp10.chm571000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.RulerLevels
 ms.assetid: 890f4bee-c48a-be48-2cac-b73736a5bdf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerLevels Object (PowerPoint)
+# RulerLevels object (PowerPoint)
 
 A collection of all the  **[RulerLevel](PowerPoint.RulerLevel.md)** objects on the specified ruler.
 
@@ -58,3 +59,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

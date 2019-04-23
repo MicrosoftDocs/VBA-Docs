@@ -1,5 +1,5 @@
 ---
-title: Plate.Color Property (Publisher)
+title: Plate.Color property (Publisher)
 keywords: vbapb10.chm2883587
 f1_keywords:
 - vbapb10.chm2883587
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Plate.Color
 ms.assetid: 4c4897f5-90bb-cb84-e9b8-47df1a912916
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Plate.Color Property (Publisher)
+# Plate.Color property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color information for the specified object.
 
 
 ## Syntax
 
- _expression_. **Color**
+_expression_.**Color**
 
  _expression_ A variable that represents a  **Plate** object.
 
@@ -41,4 +42,4 @@ Sub FontColor()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

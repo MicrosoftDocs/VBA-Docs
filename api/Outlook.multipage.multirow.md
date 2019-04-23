@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 80375220-7268-f3a9-297e-29999fd3b3e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether the control has more than 
 
 ## Syntax
 
- _expression_. **MultiRow**
+_expression_.**MultiRow**
 
- _expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ Returns or sets a  **Boolean** that specifies whether the control has more than 
 
 The width and number of tabs determines the number of rows. Changing the control's size also changes the number of rows. This allows the developer to resize the control and ensure that tabs wrap to fit the control. If the  **MultiRow** property is **False**, then truncation occurs if the width of the tabs exceeds the width of the control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

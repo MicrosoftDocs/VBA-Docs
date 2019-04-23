@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7d9a33e2-5ba3-89d6-4285-2c4c6d8577c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,7 +32,8 @@ It's also possible to use an unbound check box in a custom dialog box to accept 
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.ConvertPublicationType Method (Publisher)
+title: Document.ConvertPublicationType method (Publisher)
 keywords: vbapb10.chm196737
 f1_keywords:
 - vbapb10.chm196737
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ConvertPublicationType
 ms.assetid: e4bfe349-a22f-6017-ac9d-49f67e1f6dd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ConvertPublicationType Method (Publisher)
+# Document.ConvertPublicationType method (Publisher)
 
 Converts the specified publication to the specified publication type.
 
 
 ## Syntax
 
- _expression_. **ConvertPublicationType**(**_Value_**)
+_expression_.**ConvertPublicationType**(**_Value_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -59,4 +60,4 @@ Sub ChangePublicationType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

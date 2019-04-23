@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFromLeft Property (Word)
+title: Borders.DistanceFromLeft property (Word)
 keywords: vbawd10.chm154927124
 f1_keywords:
 - vbawd10.chm154927124
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.DistanceFromLeft
 ms.assetid: 614f44d6-3214-ad4b-42e5-f42c09f180f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.DistanceFromLeft Property (Word)
+# Borders.DistanceFromLeft property (Word)
 
-Returns or sets the space (in points) between the text and the left border. Read/write  **Long** .
+Returns or sets the space (in points) between the text and the left border. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `DistanceFromLeft`
+_expression_. `DistanceFromLeft`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -65,3 +66,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

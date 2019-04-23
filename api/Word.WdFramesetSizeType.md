@@ -1,14 +1,15 @@
 ---
-title: WdFramesetSizeType Enumeration (Word)
+title: WdFramesetSizeType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFramesetSizeType
 ms.assetid: 40149fd0-afc2-b6ae-7bb6-b28109e4928d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdFramesetSizeType Enumeration (Word)
+# WdFramesetSizeType enumeration (Word)
 
 Specifies how to interpret the height or width of a specified frame on a frames page.
 
@@ -20,3 +21,4 @@ Specifies how to interpret the height or width of a specified frame on a frames 
 | **wdFramesetSizeTypePercent**|0|Word interprets the height or width of the specified frame as a percentage of the screen height or width.|
 | **wdFramesetSizeTypeRelative**|2|Word interprets the height or width of the specified frame as relative to the height or width of other frames on the frames page.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

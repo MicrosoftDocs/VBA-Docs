@@ -1,5 +1,5 @@
 ---
-title: Application.Publish Method (Project)
+title: Application.Publish method (Project)
 keywords: vbapj.chm2278
 f1_keywords:
 - vbapj.chm2278
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.Publish
 ms.assetid: 8605f6c9-8710-0c08-79c8-8dec2bedfe18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Publish Method (Project)
+# Application.Publish method (Project)
 
 Sends message to the Project Server Queueing Service to publish the local project cache to Project Server, and optionally to the associated SharePoint site for the project workspace. Project Professional only. 
 
 
 ## Syntax
 
- _expression_. `Publish`( ` _Republish_`, ` _WssUrl_` )
+_expression_. `Publish`( `_Republish_`, `_WssUrl_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -39,6 +40,6 @@ Sends message to the Project Server Queueing Service to publish the local projec
 
 ## Remarks
 
-Typically the publish action is incremental: Only changed data is pushed through from the working store to the published store, Republish forces all data to be published. 
+Typically the publish action is incremental: Only changed data is pushed through from the working store to the published store, Republish forces all data to be published.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

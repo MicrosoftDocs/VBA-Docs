@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b671a633-6198-4a33-b7ee-a7179481c08f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [WeekDay.Calendar Property (Project)](http://msdn.microsoft.com/library/2b61e964-9fba-c849-c5aa-dc25d535536a%28Office.15%29.aspx)
 [Task.Calendar Property (Project)](http://msdn.microsoft.com/library/7a055ac5-6dde-e487-fff3-ed3b53f8eb25%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: EventList.Application Property (Visio)
+title: EventList.Application property (Visio)
 keywords: vis_sdr.chm12713090
 f1_keywords:
 - vis_sdr.chm12713090
@@ -8,17 +8,18 @@ api_name:
 - Visio.EventList.Application
 ms.assetid: e63a6499-c7b9-645d-6c7d-dd8d17c046a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EventList.Application Property (Visio)
+# EventList.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3e2868bb-410f-4aad-9501-5b0f94ad7842
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.MasterDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/e2d82547-46a9-7994-e317-78be658208c6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

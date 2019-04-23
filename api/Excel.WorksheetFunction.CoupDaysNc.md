@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupDaysNc Method (Excel)
+title: WorksheetFunction.CoupDaysNc method (Excel)
 keywords: vbaxl10.chm137330
 f1_keywords:
 - vbaxl10.chm137330
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.CoupDaysNc
 ms.assetid: ad915fa9-2faf-cebd-368b-603357ee98a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.CoupDaysNc Method (Excel)
+# WorksheetFunction.CoupDaysNc method (Excel)
 
 Returns the number of days from the settlement date to the next coupon date.
 
 
 ## Syntax
 
- _expression_. `CoupDaysNc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `CoupDaysNc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ The following table contains the values used in  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

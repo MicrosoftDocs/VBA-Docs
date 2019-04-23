@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Presentation Property (PowerPoint)
+title: SlideShowWindow.Presentation property (PowerPoint)
 keywords: vbapp10.chm507004
 f1_keywords:
 - vbapp10.chm507004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowWindow.Presentation
 ms.assetid: 9c05deb7-a385-540f-97a5-1c5510f120c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Presentation Property (PowerPoint)
+# SlideShowWindow.Presentation property (PowerPoint)
 
 Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents the presentation in which the specified document window or slide show window was created. Read-only.
 
 
 ## Syntax
 
- _expression_. `Presentation`
+_expression_. `Presentation`
 
  _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
@@ -52,3 +53,4 @@ Windows(2).Presentation.PageSetup _
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

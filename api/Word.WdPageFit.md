@@ -1,14 +1,15 @@
 ---
-title: WdPageFit Enumeration (Word)
+title: WdPageFit enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageFit
 ms.assetid: 932e4739-966a-b4f8-997e-93e413e4b5cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPageFit Enumeration (Word)
+# WdPageFit enumeration (Word)
 
 Specifies the view setting for a page.
 
@@ -21,3 +22,4 @@ Specifies the view setting for a page.
 | **wdPageFitNone**|0|Do not adjust the view settings for the page.|
 | **wdPageFitTextFit**|3|Best fit the text of the page to the active window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

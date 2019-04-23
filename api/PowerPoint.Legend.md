@@ -1,5 +1,5 @@
 ---
-title: Legend Object (PowerPoint)
+title: Legend object (PowerPoint)
 keywords: vbapp10.chm709000
 f1_keywords:
 - vbapp10.chm709000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Legend
 ms.assetid: 7be25694-8694-049a-c31f-533fe6fd0562
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Legend Object (PowerPoint)
+# Legend object (PowerPoint)
 
 Represents the legend in a chart. Each chart can have only one legend.
 
@@ -53,3 +54,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

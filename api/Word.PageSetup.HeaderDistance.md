@@ -1,5 +1,5 @@
 ---
-title: PageSetup.HeaderDistance Property (Word)
+title: PageSetup.HeaderDistance property (Word)
 keywords: vbawd10.chm158400624
 f1_keywords:
 - vbawd10.chm158400624
@@ -8,17 +8,18 @@ api_name:
 - Word.PageSetup.HeaderDistance
 ms.assetid: fee422f6-ecf0-0470-2845-b8694636a76e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.HeaderDistance Property (Word)
+# PageSetup.HeaderDistance property (Word)
 
-Returns or sets the distance (in points) between the header and the top of the page. Read/write  **Single** .
+Returns or sets the distance (in points) between the header and the top of the page. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `HeaderDistance`
+_expression_. `HeaderDistance`
 
  _expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
@@ -41,3 +42,4 @@ Msgbox PointsToInches(sngDistance) & " inches"
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

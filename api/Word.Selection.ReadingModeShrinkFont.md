@@ -1,5 +1,5 @@
 ---
-title: Selection.ReadingModeShrinkFont Method (Word)
+title: Selection.ReadingModeShrinkFont method (Word)
 keywords: vbawd10.chm158663694
 f1_keywords:
 - vbawd10.chm158663694
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.ReadingModeShrinkFont
 ms.assetid: 58472c33-7f8e-dc3b-04d8-7b50ca911ed4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ReadingModeShrinkFont Method (Word)
+# Selection.ReadingModeShrinkFont method (Word)
 
 Decreases the size of the displayed text one point size when the document is displayed in Reading mode.
 
 
 ## Syntax
 
- _expression_. `ReadingModeShrinkFont`
+_expression_. `ReadingModeShrinkFont`
 
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
@@ -41,3 +42,4 @@ Use the  **[ReadingModeGrowFont](Word.Selection.ReadingModeGrowFont.md)** method
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

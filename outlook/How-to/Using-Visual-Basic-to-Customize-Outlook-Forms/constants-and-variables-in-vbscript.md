@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f04a4521-5bb9-39e0-f7e2-a2b74193b827
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,5 +28,5 @@ There are two types of variables. Procedure-level variables that are used only w
 - Cannot use more than 127 procedure-level variables (arrays count as a single variable).
     
 - Cannot use more than 127 script-level variables.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

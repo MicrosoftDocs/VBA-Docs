@@ -8,6 +8,7 @@ api_name:
 - Access.AcNewDatabaseFormat
 ms.assetid: 9eafb980-dd9b-c5ce-a7d2-e6d128c82d6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Used with the [NewCurrentDatabase](Access.Application.NewCurrentDatabase.md) method to specify the database format of the newly created database.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -24,3 +25,4 @@ Used with the [NewCurrentDatabase](Access.Application.NewCurrentDatabase.md) met
 |**acNewDatabaseFormatAccess2002**|10|Create a database in the Microsoft Access 2002-2003 (.mdb) file format.|
 |**acNewDatabaseFormatUserDefault**|0|Create a database in the default file format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

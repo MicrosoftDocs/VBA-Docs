@@ -1,12 +1,13 @@
 ---
-title: Dialogs Object (Word)
+title: Dialogs object (Word)
 ms.prod: word
 ms.assetid: 8dfa5d8a-bb81-1cdd-853b-3acf9db70aa9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dialogs Object (Word)
+# Dialogs object (Word)
 
 A collection of  **[Dialog](Word.Dialog.md)** objects in Word. Each **Dialog** object represents a built-in Word dialog box.
 
@@ -35,6 +36,6 @@ For more information, see [Displaying built-in Word dialog boxes](../word/Concep
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

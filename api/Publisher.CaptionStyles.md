@@ -1,5 +1,5 @@
 ---
-title: CaptionStyles Object (Publisher)
+title: CaptionStyles object (Publisher)
 keywords: vbapb10.chm593919
 f1_keywords:
 - vbapb10.chm593919
@@ -8,10 +8,11 @@ api_name:
 - Publisher.CaptionStyles
 ms.assetid: 43978df8-0c1c-ab0b-deda-211fad29f5c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionStyles Object (Publisher)
+# CaptionStyles object (Publisher)
 
 Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionStyle.md)** objects available in Publisher.
  
@@ -21,7 +22,7 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.CaptionStyles.Item.md)|
 
@@ -29,9 +30,10 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CaptionStyles.Application.md)|
 |[Count](Publisher.CaptionStyles.Count.md)|
 |[Parent](Publisher.CaptionStyles.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

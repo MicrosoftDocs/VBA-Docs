@@ -1,5 +1,5 @@
 ---
-title: NoteItem.LastModificationTime Property (Outlook)
+title: NoteItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1484
 f1_keywords:
 - vbaol11.chm1484
@@ -8,24 +8,25 @@ api_name:
 - Outlook.NoteItem.LastModificationTime
 ms.assetid: 24545752-3c11-4a05-afeb-d18257894d20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NoteItem.LastModificationTime Property (Outlook)
+# NoteItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [NoteItem Object](Outlook.NoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

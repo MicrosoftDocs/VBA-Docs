@@ -3,6 +3,7 @@ title: Using the Outlook Object Model
 ms.prod: outlook
 ms.assetid: a37cb092-b0b6-40d8-bb95-d86aceaf47da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,5 +39,5 @@ ms.date: 06/08/2017
 -  [Use Current User Properties from the Microsoft Exchange Server Global Address List](use-current-user-properties-from-the-microsoft-exchange-server-global-address-li.md)
     
 -  [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

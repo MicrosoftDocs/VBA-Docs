@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.AddToFavorites Method (Word)
+title: Hyperlink.AddToFavorites method (Word)
 keywords: vbawd10.chm161284201
 f1_keywords:
 - vbawd10.chm161284201
@@ -8,19 +8,20 @@ api_name:
 - Word.Hyperlink.AddToFavorites
 ms.assetid: 262f05e9-3697-a695-db2d-39162158ec41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.AddToFavorites Method (Word)
+# Hyperlink.AddToFavorites method (Word)
 
 Creates a shortcut to the document or hyperlink and adds it to the Favorites folder.
 
 
 ## Syntax
 
- _expression_. `AddToFavorites`
+_expression_. `AddToFavorites`
 
- _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
+_expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Example
@@ -54,3 +55,4 @@ Documents("Sales.doc").AddToFavorites
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

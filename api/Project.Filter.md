@@ -1,5 +1,5 @@
 ---
-title: Filter Object (Project)
+title: Filter object (Project)
 keywords: vbapj.chm131289
 f1_keywords:
 - vbapj.chm131289
@@ -8,10 +8,11 @@ api_name:
 - Project.Filter
 ms.assetid: abcd72a7-b86b-783e-16e0-f50a48b1fed2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Filter Object (Project)
+# Filter object (Project)
 
 
 
@@ -24,7 +25,7 @@ The following example applies a critical task filter to the active project.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.Filter.Apply.md)|
 |[Delete](./Project.Filter.Delete.md)|
@@ -33,7 +34,7 @@ The following example applies a critical task filter to the active project.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Filter.Application.md)|
 |[FilterType](./Project.Filter.FilterType.md)|
@@ -43,3 +44,4 @@ The following example applies a critical task filter to the active project.
 |[ShowInMenu](./Project.Filter.ShowInMenu.md)|
 |[ShowRelatedSummaryRows](./Project.Filter.ShowRelatedSummaryRows.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

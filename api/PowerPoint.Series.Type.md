@@ -1,21 +1,22 @@
 ---
-title: Series.Type Property (PowerPoint)
+title: Series.Type property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Type
 ms.assetid: 87dcb817-fd6d-d249-cd8d-50cbfe051cf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Type Property (PowerPoint)
+# Series.Type property (PowerPoint)
 
 Returns or sets the series type. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -59,3 +60,4 @@ You can use the following  **[XlConstants](PowerPoint.XlConstants.md)** constant
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

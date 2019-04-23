@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.SelectSingleNode Method (Office)
+title: CustomXMLPart.SelectSingleNode method (Office)
 keywords: vbaof11.chm295013
 f1_keywords:
 - vbaof11.chm295013
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPart.SelectSingleNode
 ms.assetid: 2bd4c25b-d4e6-08db-b2ce-c74adf16336f
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLPart.SelectSingleNode Method (Office)
+# CustomXMLPart.SelectSingleNode method (Office)
 
 Selects a single node within a custom XML part matching an XPath expression.
 
 
 ## Syntax
 
- _expression_. `SelectSingleNode`( `_XPath_` )
+_expression_.**SelectSingleNode**(_XPath_)
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+_expression_ An expression that returns a **[CustomXMLPart](Office.CustomXMLPart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -68,10 +67,6 @@ MsgBox cxn.NodeValue
 
 ## See also
 
+- [CustomXMLPart object members](overview/library-reference/customxmlpart-members-office.md)
 
-[CustomXMLPart Object](Office.CustomXMLPart.md)
-
-
-
-[CustomXMLPart Object Members](./overview/Library-Reference/customxmlpart-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

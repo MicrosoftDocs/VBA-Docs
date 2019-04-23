@@ -1,5 +1,5 @@
 ---
-title: PbFontScriptType Enumeration (Publisher)
+title: PbFontScriptType enumeration (Publisher)
 keywords: vbapb10.chm65546
 f1_keywords:
 - vbapb10.chm65546
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbFontScriptType
 ms.assetid: e9bc4248-86ad-e6a8-1f50-d3ca4830118f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbFontScriptType Enumeration (Publisher)
+# PbFontScriptType enumeration (Publisher)
 
 Represents the font script for a text range. 
 
@@ -65,3 +66,4 @@ Represents the font script for a text range.
 | **pbFontScriptTibetan**|19|Tibetan|
 | **pbFontScriptYi**|27|Yi|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

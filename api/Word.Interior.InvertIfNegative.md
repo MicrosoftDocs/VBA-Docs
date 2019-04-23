@@ -1,5 +1,5 @@
 ---
-title: Interior.InvertIfNegative Property (Word)
+title: Interior.InvertIfNegative property (Word)
 keywords: vbawd10.chm2818052
 f1_keywords:
 - vbawd10.chm2818052
@@ -8,17 +8,18 @@ api_name:
 - Word.Interior.InvertIfNegative
 ms.assetid: b4e1e22b-62cd-482e-8413-f4cad6503b7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Interior.InvertIfNegative Property (Word)
+# Interior.InvertIfNegative property (Word)
 
- **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant** .
+ **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `InvertIfNegative`
+_expression_. `InvertIfNegative`
 
  _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [Interior Object](Word.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

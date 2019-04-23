@@ -1,5 +1,5 @@
 ---
-title: MailItem.Delete Method (Outlook)
+title: MailItem.Delete method (Outlook)
 keywords: vbaol11.chm1322
 f1_keywords:
 - vbaol11.chm1322
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.Delete
 ms.assetid: 342c6003-e7c5-7314-453c-151fc51d5b2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Delete Method (Outlook)
+# MailItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

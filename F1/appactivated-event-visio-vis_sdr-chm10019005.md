@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 24123190-199a-40be-b87b-de6b9a65eae3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.AppActivated Event (Visio)](http://msdn.microsoft.com/library/150864ab-574a-6556-a56a-8ca619796062%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

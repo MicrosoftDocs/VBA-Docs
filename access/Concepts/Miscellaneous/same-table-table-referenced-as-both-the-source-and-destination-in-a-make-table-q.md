@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 2b5a1119-32f6-d9fb-a6f3-e142c4ec5f92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ One of the source tables in a SELECT INTO statement is also named as the destina
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

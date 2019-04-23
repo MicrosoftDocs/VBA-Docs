@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.MarkEntry Method (Word)
+title: TablesOfFigures.MarkEntry method (Word)
 keywords: vbawd10.chm153223269
 f1_keywords:
 - vbawd10.chm153223269
@@ -8,19 +8,20 @@ api_name:
 - Word.TablesOfFigures.MarkEntry
 ms.assetid: bd5847c0-5714-cb41-5809-138a97ab10f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TablesOfFigures.MarkEntry Method (Word)
+# TablesOfFigures.MarkEntry method (Word)
 
 Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a  **Field** object representing the TC field.
 
 
 ## Syntax
 
- _expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_TableID_` , `_Level_` )
+_expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_TableID_` , `_Level_` )
 
- _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
+_expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
 ## Parameters
@@ -45,3 +46,4 @@ Field
 
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

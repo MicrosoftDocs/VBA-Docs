@@ -1,5 +1,5 @@
 ---
-title: GroupCriteria2.AddEx Method (Project)
+title: GroupCriteria2.AddEx method (Project)
 keywords: vbapj.chm132308
 f1_keywords:
 - vbapj.chm132308
@@ -8,17 +8,18 @@ api_name:
 - Project.GroupCriteria2.AddEx
 ms.assetid: 8474aa63-bf63-be29-86ef-177d8105e105
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupCriteria2.AddEx Method (Project)
+# GroupCriteria2.AddEx method (Project)
 
 Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `AddEx`( ` _FieldName_`, ` _Ascending_`, ` _FontName_`, ` _FontSize_`, ` _FontBold_`, ` _FontItalic_`, ` _FontUnderLine_`, ` _FontColor_`, ` _CellColor_`, ` _Pattern_`, ` _GroupOn_`, ` _StartAt_`, ` _GroupInterval_` )
+_expression_. `AddEx`( `_FieldName_`, `_Ascending_`, `_FontName_`, `_FontSize_`, `_FontBold_`, `_FontItalic_`, `_FontUnderLine_`, `_FontColor_`, `_CellColor_`, `_Pattern_`, `_GroupOn_`, `_StartAt_`, `_GroupInterval_` )
 
  _expression_ An expression that returns a 'GroupCriteria2' object.
 
@@ -60,3 +61,4 @@ The valid range for a normal RGB color is 0 to 16,777,215 (&HFFFFFF&). Each colo
 
 [GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

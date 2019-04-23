@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 67186df9-26b9-428d-2987-cd0bc165f231
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -56,7 +57,7 @@ _pRS_ A **Recordset** object.
 
 This is the interface definition for **IDataFactoryHandler** that appears in the **msdfhdl.idl** file.
 
-```sql
+```idl
 [ 
   uuid(D80DE8B3-0001-11d1-91E6-00C04FBBBFB3), 
   version(1.0) 
@@ -106,3 +107,5 @@ HRESULT _stdcall GetRecordset(
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

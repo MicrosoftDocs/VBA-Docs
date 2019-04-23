@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.VerticalAnchor
 ms.assetid: b0f991a4-744b-aac8-8456-a455f71942b7
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # WebBrowserControl.VerticalAnchor property (Access)
 
-Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified text box is anchored vertically within its layout. Read/write.
+Gets or sets an **[AcVerticalAnchor](Access.AcVerticalAnchor.md)** constant that indicates how the specified control is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
-_expression_. `VerticalAnchor`
+_expression_.**VerticalAnchor**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks
 
-The default value is  **acVerticalAnchorTop**.
+The default value is **acVerticalAnchorTop**.
 
 
-## See also
 
 
-[WebBrowserControl Object](Access.WebBrowserControl.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

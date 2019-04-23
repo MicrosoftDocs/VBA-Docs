@@ -1,12 +1,13 @@
 ---
-title: EngagementComments Object (Project)
+title: EngagementComments object (Project)
 ms.assetid: 6df493a2-5580-f6bc-373e-565ce1be6828
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 
-# EngagementComments Object (Project)
+# EngagementComments object (Project)
 
 A collection of  **EngagementComments** objects. Introduced in Office 2016.
  
@@ -24,7 +25,7 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.engagementcomments.add.md)|
 
@@ -33,10 +34,11 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.engagementcomments.application.md)|
 |[Count](Project.engagementcomments.count.md)|
 |[Item](Project.engagementcomments.item.md)|
 |[Parent](Project.engagementcomments.parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 781eab91-22b6-8ee3-a591-d6d016194e15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that indicates how a **[ComboBox](Outlook.combob
 
 ## Syntax
 
- _expression_. **MatchEntry**
+_expression_.**MatchEntry**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **MatchEntry** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|
 |1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|
@@ -53,4 +54,4 @@ bchij
 
 Note that in either case, the matched entry is not unique; however, it is sufficiently different from the adjacent entry that the control interprets the match as unambiguous and initiates the  **Click** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

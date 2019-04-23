@@ -3,6 +3,7 @@ title: SpinButton.Delay Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 84a38d62-6db1-8a1b-ac91-40e199ca5d3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the delay in milliseconds, between ev
 
 ## Syntax
 
- _expression_. **Delay**
+_expression_.**Delay**
 
- _expression_ A variable that represents a  **SpinButton** object.
+_expression_ A variable that represents a  **SpinButton** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ After the initial lag, the interval between events is the value specified for  *
 
 The default value of  **Delay** is 50 milliseconds. This means the object initiates the first event after 250 milliseconds (5 times the specified value) and initiates each subsequent event after 50 milliseconds.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

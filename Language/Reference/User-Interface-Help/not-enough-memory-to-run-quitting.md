@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 38139074-f359-91df-0495-39e16e990a10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Visual Basic couldn't obtain enough memory to run. Close other applications and try again.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

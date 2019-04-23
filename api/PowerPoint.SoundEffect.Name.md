@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Name Property (PowerPoint)
+title: SoundEffect.Name property (PowerPoint)
 keywords: vbapp10.chm540003
 f1_keywords:
 - vbapp10.chm540003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SoundEffect.Name
 ms.assetid: f587126e-094a-0360-b696-fbdb7c0a4019
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SoundEffect.Name Property (PowerPoint)
+# SoundEffect.Name property (PowerPoint)
 
 Returns or sets the name of the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 
@@ -38,3 +39,4 @@ You can use the object's name in conjunction with the  **Item** method to return
 
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

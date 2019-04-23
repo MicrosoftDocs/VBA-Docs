@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.GlobalAppointmentID Property (Outlook)
+title: AppointmentItem.GlobalAppointmentID property (Outlook)
 keywords: vbaol11.chm924
 f1_keywords:
 - vbaol11.chm924
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.GlobalAppointmentID
 ms.assetid: 3a5e210a-5298-8977-d6e4-dc49a59bdd78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.GlobalAppointmentID Property (Outlook)
+# AppointmentItem.GlobalAppointmentID property (Outlook)
 
 Returns a  **String** value that represents a unique global identifier for the **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `GlobalAppointmentID`
+_expression_. `GlobalAppointmentID`
 
- _expression_ An expression that returns an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+ _expression_ An expression that returns an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ Therefore, each Outlook appointment item is assigned a Global Object ID, a uniqu
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

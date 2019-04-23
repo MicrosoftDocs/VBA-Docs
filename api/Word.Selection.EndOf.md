@@ -1,5 +1,5 @@
 ---
-title: Selection.EndOf Method (Word)
+title: Selection.EndOf method (Word)
 keywords: vbawd10.chm158662764
 f1_keywords:
 - vbawd10.chm158662764
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.EndOf
 ms.assetid: 33aa094b-17f9-3572-f66f-59692c57dc01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.EndOf Method (Word)
+# Selection.EndOf method (Word)
 
 Moves or extends the ending character position of a range or selection to the end of the nearest specified text unit.
 
 
 ## Syntax
 
- _expression_. `EndOf`( `_Unit_` , `_Extend_` )
+_expression_. `EndOf`( `_Unit_` , `_Extend_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Moves or extends the ending character position of a range or selection to the en
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which to move the ending character position.  **WdUnits** .|
-| _Extend_|Optional| **Variant**|Can be either of the  **WdMovementType** constants. If **wdMove** , both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **Variant**|The unit by which to move the ending character position.  **WdUnits**.|
+| _Extend_|Optional| **Variant**|Can be either of the  **WdMovementType** constants. If **wdMove**, both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove**.|
 
 ## Remarks
 
@@ -85,3 +86,4 @@ Selection.EndOf Unit:=wdColumn, Extend:=wdExtend
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

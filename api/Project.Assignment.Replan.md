@@ -1,5 +1,5 @@
 ---
-title: Assignment.Replan Method (Project)
+title: Assignment.Replan method (Project)
 keywords: vbapj.chm131251
 f1_keywords:
 - vbapj.chm131251
@@ -8,17 +8,18 @@ api_name:
 - Project.Assignment.Replan
 ms.assetid: 29ec0102-b4e4-c9dc-d930-4f8ff4069bd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.Replan Method (Project)
+# Assignment.Replan method (Project)
 
 Replans the assignment by decreasing work or increasing duration.
 
 
 ## Syntax
 
- _expression_. `Replan`( ` _action_` )
+_expression_. `Replan`( `_action_` )
 
  _expression_ An expression that returns a [Assignment](./Project.Assignment.md) object.
 
@@ -50,4 +51,4 @@ In the following example, an overallocated assignment selected in the Team Plann
 ActiveCell.Assignment.Replan(pjConstrainToMaxUnitsByIncreasingDuration)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -2,7 +2,8 @@
 title: ServerPolicy members (Office)
 ms.prod: office
 ms.assetid: ed14d9a8-6159-f175-9078-181331ebfb03
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents a policy specified for a document type stored on a server running Mic
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ServerPolicy.Application.md)|Gets an **Application** object that represents the container application for the **ServerPolicy** object. Read-only.|
 |[BlockPreview](../../Office.ServerPolicy.BlockPreview.md)|Gets a **Boolean** value that indicates whether you can preview items using this policy. Read-only.|
@@ -26,3 +27,4 @@ Represents a policy specified for a document type stored on a server running Mic
 |[Parent](../../Office.ServerPolicy.Parent.md)|Gets the **Parent** object for the **ServerPolicy** object. Read-only.|
 |[Statement](../../Office.ServerPolicy.Statement.md)|Gets the information specified in the Policy Statement. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

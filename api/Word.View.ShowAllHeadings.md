@@ -1,5 +1,5 @@
 ---
-title: View.ShowAllHeadings Method (Word)
+title: View.ShowAllHeadings method (Word)
 keywords: vbawd10.chm161808487
 f1_keywords:
 - vbawd10.chm161808487
@@ -8,19 +8,20 @@ api_name:
 - Word.View.ShowAllHeadings
 ms.assetid: 294aa5f0-9821-faed-aa82-ff59f7a84eb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowAllHeadings Method (Word)
+# View.ShowAllHeadings method (Word)
 
 Switches between showing all text (headings and body text) and showing only headings.
 
 
 ## Syntax
 
- _expression_. `ShowAllHeadings`
+_expression_. `ShowAllHeadings`
 
- _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
+_expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

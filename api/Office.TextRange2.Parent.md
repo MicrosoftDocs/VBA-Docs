@@ -1,23 +1,24 @@
 ---
-title: TextRange2.Parent Property (Office)
+title: TextRange2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Parent
 ms.assetid: 692dc869-1525-ffa5-023d-83cea9cec19e
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextRange2.Parent Property (Office)
+# TextRange2.Parent property (Office)
 
-Gets the  **Parent** object for the **TextRange2** object. Read-only.
+Gets the **Parent** object for the **TextRange2** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+_expression_ An expression that returns a **[TextRange2](Office.TextRange2.md)** object.
 
 
 ## Return value
@@ -27,7 +28,7 @@ Object
 
 ## Example
 
-This example adds an oval containing text to slide one in the active presentation and rotates the oval and the text 45 degrees. The parent object for the text frame is the  **Shape** object that contains the text.
+This example adds an oval containing text to slide one in the active presentation, and rotates the oval and the text 45 degrees. The parent object for the text frame is the **Shape** object that contains the text.
 
 
 ```vb
@@ -42,10 +43,8 @@ End With
 
 ## See also
 
-
-[TextRange2 Object](Office.TextRange2.md)
-
+- [TextRange2 object members](overview/Library-Reference/textrange2-members-office.md)
 
 
-[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

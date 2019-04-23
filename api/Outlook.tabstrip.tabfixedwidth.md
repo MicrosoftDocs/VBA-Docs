@@ -3,6 +3,7 @@ title: TabStrip.TabFixedWidth Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 3db4e0d2-c97b-a75b-3af6-b1678a1d5116
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Single** that represents the width in points of the tabs on
 
 ## Syntax
 
- _expression_. **TabFixedWidth**
+_expression_.**TabFixedWidth**
 
- _expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ If the value is greater than 0, all tabs have an identical width as specified by
 
 The minimum size is 4 points.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

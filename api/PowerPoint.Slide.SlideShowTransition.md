@@ -1,5 +1,5 @@
 ---
-title: Slide.SlideShowTransition Property (PowerPoint)
+title: Slide.SlideShowTransition property (PowerPoint)
 keywords: vbapp10.chm531005
 f1_keywords:
 - vbapp10.chm531005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.SlideShowTransition
 ms.assetid: bb931628-0ad1-e58b-9ddb-5680cb6ce9ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.SlideShowTransition Property (PowerPoint)
+# Slide.SlideShowTransition property (PowerPoint)
 
 Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object that represents the special effects for the specified slide transition. Read-only.
 
 
 ## Syntax
 
- _expression_. `SlideShowTransition`
+_expression_. `SlideShowTransition`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -50,3 +51,4 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

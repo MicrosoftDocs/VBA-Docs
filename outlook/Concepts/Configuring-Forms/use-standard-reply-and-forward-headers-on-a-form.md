@@ -3,6 +3,7 @@ title: Use Standard Reply and Forward Headers on a Form
 ms.prod: outlook
 ms.assetid: bec50290-e0ab-873b-501c-86c01ed4aedd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ ms.date: 06/08/2017
 | **Reply to Folder**|Show the active folder and show the subject as a conversation, and add  **Subject** and **Categories** fields.|
 | **Response**|Use the standard response fields.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

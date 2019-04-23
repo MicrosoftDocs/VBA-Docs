@@ -1,21 +1,22 @@
 ---
-title: Project.TaskFilterList Property (Project)
+title: Project.TaskFilterList property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.TaskFilterList
 ms.assetid: 303b49c8-cfc3-f4d6-197a-a4dfc130ee85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.TaskFilterList Property (Project)
+# Project.TaskFilterList property (Project)
 
 Gets a  **[List](Project.List.md)** object representing all task filters in the project. Read-only **List**.
 
 
 ## Syntax
 
- _expression_. `TaskFilterList`
+_expression_. `TaskFilterList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -40,4 +41,4 @@ Sub SeeAllFilters()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

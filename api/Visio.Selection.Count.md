@@ -1,5 +1,5 @@
 ---
-title: Selection.Count Property (Visio)
+title: Selection.Count property (Visio)
 keywords: vis_sdr.chm11113330
 f1_keywords:
 - vis_sdr.chm11113330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Count
 ms.assetid: 89432479-5457-838f-a85d-20eb0dd61547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Count Property (Visio)
+# Selection.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

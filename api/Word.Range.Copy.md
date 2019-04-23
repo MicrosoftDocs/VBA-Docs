@@ -1,5 +1,5 @@
 ---
-title: Range.Copy Method (Word)
+title: Range.Copy method (Word)
 keywords: vbawd10.chm157155448
 f1_keywords:
 - vbawd10.chm157155448
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Copy
 ms.assetid: c13c5310-cad2-c520-7304-507b81112551
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Copy Method (Word)
+# Range.Copy method (Word)
 
 Copies the specified range to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example
@@ -42,3 +43,4 @@ myRange.Paste
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

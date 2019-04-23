@@ -1,5 +1,5 @@
 ---
-title: Document.ClearCustomMenus Method (Visio)
+title: Document.ClearCustomMenus method (Visio)
 keywords: vis_sdr.chm10516110
 f1_keywords:
 - vis_sdr.chm10516110
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.ClearCustomMenus
 ms.assetid: 5be16274-151b-e139-8607-76fdb05a4235
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ClearCustomMenus Method (Visio)
+# Document.ClearCustomMenus method (Visio)
 
 Restores the built-in Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `ClearCustomMenus`
+_expression_. `ClearCustomMenus`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -52,4 +53,4 @@ Public Sub ClearCustomMenus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

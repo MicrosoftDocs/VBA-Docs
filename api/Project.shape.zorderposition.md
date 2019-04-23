@@ -1,17 +1,18 @@
 ---
-title: Shape.ZOrderPosition Property (Project)
+title: Shape.ZOrderPosition property (Project)
 ms.prod: project-server
 ms.assetid: ebbd573a-4cf0-a3af-7dff-de67d321d9d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ZOrderPosition Property (Project)
+# Shape.ZOrderPosition property (Project)
 Gets the position of the shape in the z-order. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. `ZOrderPosition`
+_expression_. `ZOrderPosition`
 
  _expression_ A variable that represents a 'Shape' object.
 
@@ -35,3 +36,5 @@ When you add a shape to a  **Shapes** collection, the shape is added to the fron
 
 [Shape Object](Project.shape.md)
 [Shapes Object](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

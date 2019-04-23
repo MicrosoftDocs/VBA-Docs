@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.MarkForDownload Property (Outlook)
+title: AppointmentItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm917
 f1_keywords:
 - vbaol11.chm917
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.MarkForDownload
 ms.assetid: 63fe552b-2721-2a9c-5fec-ad0d666065b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.MarkForDownload Property (Outlook)
+# AppointmentItem.MarkForDownload property (Outlook)
 
 Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 
 
 ## Syntax
 
- _expression_. `MarkForDownload`
+_expression_. `MarkForDownload`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ End Sub
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

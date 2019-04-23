@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: b8390f44-607c-c32a-5200-e1559c51b2a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -688,3 +689,4 @@ The DOCMD function takes a numeric argument only; the  **DoCmd** method takes ei
 | **visCmdZoomPt**|1215|Yes|No|
 | **visCmdZoomSingleTile**|1512|Yes|No|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.MergePosition Property (Visio)
+title: Window.MergePosition property (Visio)
 keywords: vis_sdr.chm11650725
 f1_keywords:
 - vis_sdr.chm11650725
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.MergePosition
 ms.assetid: 0856bcec-191d-5c9c-f44a-cd430bc3ceb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.MergePosition Property (Visio)
+# Window.MergePosition property (Visio)
 
 Specifies the left-to-right tab position of a merged anchored window. Read/write.
 
 
 ## Syntax
 
- _expression_. `MergePosition`
+_expression_. `MergePosition`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -36,4 +37,4 @@ The  **MergePosition** property applies only to anchored windows. If the **Windo
 
 Use the  **Type** property to determine window type.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

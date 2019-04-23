@@ -1,14 +1,15 @@
 ---
-title: WdRelativeVerticalPosition Enumeration (Word)
+title: WdRelativeVerticalPosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeVerticalPosition
 ms.assetid: 0a612720-7361-440f-8186-a976c31779bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRelativeVerticalPosition Enumeration (Word)
+# WdRelativeVerticalPosition enumeration (Word)
 
 Specifies to what the vertical position of a frame, a shape, or a group of rows is relative.
 
@@ -25,3 +26,4 @@ Specifies to what the vertical position of a frame, a shape, or a group of rows 
 | **wdRelativeVerticalPositionOuterMarginArea**|7|Relative to outer margin area.|
 | **wdRelativeVerticalPositionTopMarginArea**|4|Relative to top margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

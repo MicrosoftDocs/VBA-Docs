@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Show Method (Office)
+title: FileDialog.Show method (Office)
 keywords: vbaof11.chm256012
 f1_keywords:
 - vbaof11.chm256012
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.FileDialog.Show
 ms.assetid: e67f7fc3-326d-12d0-fe44-e20048ff6abf
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialog.Show Method (Office)
+# FileDialog.Show method (Office)
 
-Displays a file dialog box and returns a  **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.
+Displays a file dialog box and returns a **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of the **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.
 
 
 ## Syntax
 
- _expression_. `Show`
+_expression_.**Show**
 
- _expression_ Required. A variable that represents a '[FileDialog](Office.FileDialog.md)' object.
+_expression_ Required. A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the FileDialog object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box by using the **FileDialog** object, and displays each selected file in a message box.
 
 
 ```vb
@@ -73,10 +74,6 @@ End Sub
 
 ## See also
 
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

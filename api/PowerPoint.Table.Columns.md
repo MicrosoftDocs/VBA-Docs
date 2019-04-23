@@ -1,5 +1,5 @@
 ---
-title: Table.Columns Property (PowerPoint)
+title: Table.Columns property (PowerPoint)
 keywords: vbapp10.chm622003
 f1_keywords:
 - vbapp10.chm622003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Table.Columns
 ms.assetid: 0645fa19-d5a2-1f4c-ae15-9623925d39bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.Columns Property (PowerPoint)
+# Table.Columns property (PowerPoint)
 
 Returns a  **[Columns](PowerPoint.Columns.md)** collection that represents all the columns in a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `Columns`
+_expression_. `Columns`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
@@ -90,3 +91,4 @@ End With
 
 [Table Object](PowerPoint.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

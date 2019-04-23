@@ -1,5 +1,5 @@
 ---
-title: Selection.IsEqual Method (Word)
+title: Selection.IsEqual method (Word)
 keywords: vbawd10.chm158662827
 f1_keywords:
 - vbawd10.chm158662827
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.IsEqual
 ms.assetid: 57ca55bc-17cf-054c-81dd-aa6d1e536cd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.IsEqual Method (Word)
+# Selection.IsEqual method (Word)
 
  **True** if the selection to which this method is applied is equal to the range specified by the Range argument.
 
 
 ## Syntax
 
- _expression_. `IsEqual`( `_Range_` )
+_expression_. `IsEqual`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Masters.ItemFromID Property (Visio)
+title: Masters.ItemFromID property (Visio)
 keywords: vis_sdr.chm10813775
 f1_keywords:
 - vis_sdr.chm10813775
@@ -8,17 +8,18 @@ api_name:
 - Visio.Masters.ItemFromID
 ms.assetid: 50cae679-5a81-ae45-6e61-8ec914f525f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters.ItemFromID Property (Visio)
+# Masters.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) collection.
 
@@ -46,4 +47,4 @@ The ID of a  **Font** object corresponds to the number stored in the Font cell o
 
 The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

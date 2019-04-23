@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderFooterColor Property (Visio)
+title: Document.HeaderFooterColor property (Visio)
 keywords: vis_sdr.chm10550635
 f1_keywords:
 - vis_sdr.chm10550635
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.HeaderFooterColor
 ms.assetid: d1f3887f-d6b5-feb5-b119-ddf3d9eb3542
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.HeaderFooterColor Property (Visio)
+# Document.HeaderFooterColor property (Visio)
 
 Specifies the color of the header and footer text. Read/write.
 
 
 ## Syntax
 
- _expression_. `HeaderFooterColor`
+_expression_. `HeaderFooterColor`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -39,7 +40,7 @@ Valid values for  **OLE_COLOR** within Microsoft Visio can be one of the followi
     
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window will display a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the Properties window will display a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
 You can also set this value in the  **Color** box in the **Choose Font** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, in the  **Preview** group, click **Header & Footer**, and then click  **Choose Font**).
 
@@ -59,4 +60,4 @@ Sub HeaderFooterColor_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

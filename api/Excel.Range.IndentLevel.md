@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.IndentLevel
 ms.assetid: f4d5af31-904a-27eb-fb2d-e5ae38a7ebb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the indent level for the ce
 
 ## Syntax
 
- _expression_. `IndentLevel`
+_expression_.**IndentLevel**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End With
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

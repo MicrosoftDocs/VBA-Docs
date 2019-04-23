@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0df73989-1b0a-4d7a-9f91-7925355c39d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.RemoveFileProperties Property (Project)](http://msdn.microsoft.com/library/7aff624c-e9c9-f526-b233-fe0cc415e901%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

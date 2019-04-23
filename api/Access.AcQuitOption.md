@@ -8,6 +8,7 @@ api_name:
 - Access.AcQuitOption
 ms.assetid: 6a712a0f-1964-8c1d-f5b2-b552c042efe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Used with the [Quit](Access.Application.Quit.md) method to specify whether or not to save changes to the database when quitting Microsoft Access.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Used with the [Quit](Access.Application.Quit.md) method to specify whether or no
 |**acQuitSaveAll**|1|(Default) Saves all objects without displaying a dialog box.|
 |**acQuitSaveNone**|2|Quits Microsoft Access without saving any objects.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

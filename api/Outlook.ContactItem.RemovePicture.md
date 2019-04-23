@@ -1,5 +1,5 @@
 ---
-title: ContactItem.RemovePicture Method (Outlook)
+title: ContactItem.RemovePicture method (Outlook)
 keywords: vbaol11.chm1091
 f1_keywords:
 - vbaol11.chm1091
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.RemovePicture
 ms.assetid: a67d9d39-1697-0780-b52f-a3cc463f60d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.RemovePicture Method (Outlook)
+# ContactItem.RemovePicture method (Outlook)
 
 Removes a picture from a  **Contacts** item.
 
 
 ## Syntax
 
- _expression_. `RemovePicture`
+_expression_. `RemovePicture`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
@@ -76,3 +77,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

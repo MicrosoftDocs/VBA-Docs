@@ -1,5 +1,5 @@
 ---
-title: StyleSheets.Creator Property (Word)
+title: StyleSheets.Creator property (Word)
 keywords: vbawd10.chm209585129
 f1_keywords:
 - vbawd10.chm209585129
@@ -8,19 +8,20 @@ api_name:
 - Word.StyleSheets.Creator
 ms.assetid: ac2b45fd-3871-e134-4531-fb9c81fef4c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StyleSheets.Creator Property (Word)
+# StyleSheets.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
+_expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [StyleSheets Collection](Word.StyleSheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

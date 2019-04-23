@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.GetProperties Method (Outlook)
+title: PropertyAccessor.GetProperties method (Outlook)
 keywords: vbaol11.chm1972
 f1_keywords:
 - vbaol11.chm1972
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyAccessor.GetProperties
 ms.assetid: f1ba3c52-428a-9e9f-5b81-b68c5f27aa0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyAccessor.GetProperties Method (Outlook)
+# PropertyAccessor.GetProperties method (Outlook)
 
 Obtains the values of the properties specified by the one-dimensional array  _SchemaNames_ .
 
 
 ## Syntax
 
- _expression_. `GetProperties`( `_SchemaNames_` )
+_expression_. `GetProperties`( `_SchemaNames_` )
 
- _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters
@@ -45,7 +46,7 @@ For more information on getting properties using the  **PropertyAccessor** objec
 
 ## Example
 
-The following code sample shows how to use the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object to get MAPI properties that are not exposed on an Outlook item, namely: **PR_SUBJECT** , **PR_ATTR_HIDDEN** , **PR_ATTR_READONLY** , and **PR_ATTR_SYSTEM** . This code sample uses the **GetProperties** method to retrieve them in a single call, specifying an array of namespace references to these properties, and obtains a returned array that contains the raw value for each property.
+The following code sample shows how to use the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object to get MAPI properties that are not exposed on an Outlook item, namely: **PR_SUBJECT**, **PR_ATTR_HIDDEN**, **PR_ATTR_READONLY**, and **PR_ATTR_SYSTEM**. This code sample uses the **GetProperties** method to retrieve them in a single call, specifying an array of namespace references to these properties, and obtains a returned array that contains the raw value for each property.
 
 
 ```vb
@@ -146,3 +147,4 @@ End Sub
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

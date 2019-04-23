@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotLayout.Application
 ms.assetid: e81846fa-371c-594d-52d6-acfc5c354945
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotLayout](Excel.PivotLayout.md) object.
+_expression_ A variable that represents a [PivotLayout](Excel.PivotLayout.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [PivotLayout Object](Excel.PivotLayout.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Access.AcSection
 ms.assetid: 858401a2-e892-8729-124a-97a0fb136a0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies the section that will contain the new control.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -29,3 +30,4 @@ Specifies the section that will contain the new control.
 |**acPageFooter**|4|Page footer|
 |**acPageHeader**|3|Page header|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

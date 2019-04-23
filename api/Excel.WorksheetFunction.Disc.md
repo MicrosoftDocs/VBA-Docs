@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Disc Method (Excel)
+title: WorksheetFunction.Disc method (Excel)
 keywords: vbaxl10.chm137312
 f1_keywords:
 - vbaxl10.chm137312
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Disc
 ms.assetid: cd7959e7-9cb5-ff5b-b212-10e0dfd84dbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Disc Method (Excel)
+# WorksheetFunction.Disc method (Excel)
 
 Returns the discount rate for a security.
 
 
 ## Syntax
 
- _expression_. `Disc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `Disc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -70,3 +71,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

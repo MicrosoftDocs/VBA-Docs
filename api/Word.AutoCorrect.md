@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object (Word)
+title: AutoCorrect object (Word)
 keywords: vbawd10.chm2377
 f1_keywords:
 - vbawd10.chm2377
@@ -8,10 +8,11 @@ api_name:
 - Word.AutoCorrect
 ms.assetid: dea9b72c-4378-05ac-ec4b-51cf3af3f2a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrect Object (Word)
+# AutoCorrect object (Word)
 
 Represents the AutoCorrect functionality in Word.
 
@@ -35,6 +36,6 @@ The  **[Entries](Word.AutoCorrect.Entries.md)** property returns the **[Entries]
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

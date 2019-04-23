@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 576861c1-dbd0-4625-b1a9-0e2ce624b563
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.HourLabelDisplay Property (Project)](http://msdn.microsoft.com/library/6dc5f65b-d509-5d4a-a550-52c92b43534e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Page.Background Property (Visio)
+title: Page.Background property (Visio)
 keywords: vis_sdr.chm10913110
 f1_keywords:
 - vis_sdr.chm10913110
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Background
 ms.assetid: fee785fd-2872-a64e-a80e-46034255b414
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Background Property (Visio)
+# Page.Background property (Visio)
 
 Determines whether a page is a background page. Read/write.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -74,4 +75,4 @@ Public Sub Background_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

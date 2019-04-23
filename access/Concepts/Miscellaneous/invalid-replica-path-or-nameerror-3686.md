@@ -3,6 +3,7 @@ title: Invalid replica path or name. (Error 3686)
 ms.prod: access
 ms.assetid: 95ef910e-f09f-576b-0c63-31683478da47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The synchronizer identified by the HTTP address does not manage the database nam
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddConnector Method (Excel)
+title: Shapes.AddConnector method (Excel)
 keywords: vbaxl10.chm638078
 f1_keywords:
 - vbaxl10.chm638078
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shapes.AddConnector
 ms.assetid: 7ea648eb-ac6b-981d-652b-40cea1b3a8da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddConnector Method (Excel)
+# Shapes.AddConnector method (Excel)
 
 Creates a connector. Returns a  **[Shape](Excel.Shape.md)** object that represents the new connector. When a connector is added, it's not connected to anything. Use the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Excel.ConnectorFormat.EndConnect.md)** methods to attach the beginning and end of a connector to other shapes in the document.
 
 
 ## Syntax
 
- _expression_. `AddConnector`( `_Type_` , `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
+_expression_. `AddConnector`( `_Type_` , `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -29,11 +30,11 @@ Creates a connector. Returns a  **[Shape](Excel.Shape.md)** object that represen
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[MsoConnectorType](./Office.MsoConnectorType.md)**|The connector type to add.|
+| _Type_|Required| **[MsoConnectorType](Office.MsoConnectorType.md)**|The connector type to add.|
 | _BeginX_|Required| **Single**|The horizontal position (in points) of the connector's starting point relative to the upper-left corner of the document.|
 | _BeginY_|Required| **Single**|The vertical position (in points) of the connector's starting point relative to the upper-left corner of the document.|
 | _EndX_|Required| **Single**|The horizontal position (in points) of the connector's end point relative to the upper-left corner of the document.|
-| _EndY_|Required| **Single**|The veritcal position (in points) of the connector's end point relative to the upper-left corner of the document.|
+| _EndY_|Required| **Single**|The vertical position (in points) of the connector's end point relative to the upper-left corner of the document.|
 
 ## Return value
 
@@ -50,7 +51,7 @@ Shape
 | **msoConnectorCurve**|
 | **msoConnectorStraight**|
 
-When you attach a connector to a shape, the size and position of the connector are automatically adjusted, if necessary. Therefore, if you?re going to attach a connector to other shapes, the position and dimensions you specify when adding the connector are irrelevant.
+When you attach a connector to a shape, the size and position of the connector are automatically adjusted, if necessary. Therefore, if you are going to attach a connector to other shapes, the position and dimensions you specify when adding the connector are irrelevant.
 
 
 ## Example
@@ -84,3 +85,4 @@ End Sub
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

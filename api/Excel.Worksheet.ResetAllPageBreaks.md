@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ResetAllPageBreaks Method (Excel)
+title: Worksheet.ResetAllPageBreaks method (Excel)
 keywords: vbaxl10.chm175101
 f1_keywords:
 - vbaxl10.chm175101
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ResetAllPageBreaks
 ms.assetid: caebf657-3c5b-e465-43e0-88aa3250ba2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.ResetAllPageBreaks Method (Excel)
+# Worksheet.ResetAllPageBreaks method (Excel)
 
 Resets all page breaks on the specified worksheet.
 
 
 ## Syntax
 
- _expression_. `ResetAllPageBreaks`
+_expression_. `ResetAllPageBreaks`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).ResetAllPageBreaks
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

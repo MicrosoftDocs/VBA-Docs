@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2f0f8567-4362-43ba-b224-3f74ae41eb8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Calculation Property (Project)](http://msdn.microsoft.com/library/eca7ce92-38ad-7bbf-78d2-e06cd3e35b6e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

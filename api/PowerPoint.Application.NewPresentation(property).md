@@ -1,5 +1,5 @@
 ---
-title: Application.NewPresentation Property (PowerPoint)
+title: Application.NewPresentation property (PowerPoint)
 keywords: vbapp10.chm502049
 f1_keywords:
 - vbapp10.chm502049
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.NewPresentation
 ms.assetid: 9685db30-9d73-19ad-432b-8d79b2d6ee50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.NewPresentation Property (PowerPoint)
+# Application.NewPresentation property (PowerPoint)
 
 Returns a  **NewFile** object that represents a presentation listed on the **New Presentation** task pane. Read-only.
 
 
 ## Syntax
 
- _expression_. `NewPresentation`
+_expression_. `NewPresentation`
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

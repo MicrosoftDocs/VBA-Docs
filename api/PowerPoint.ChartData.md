@@ -1,5 +1,5 @@
 ---
-title: ChartData Object (PowerPoint)
+title: ChartData object (PowerPoint)
 keywords: vbapp10.chm689000
 f1_keywords:
 - vbapp10.chm689000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ChartData
 ms.assetid: b7bedf0e-5f11-001d-a97c-e8d07939bc8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartData Object (PowerPoint)
+# ChartData object (PowerPoint)
 
 Represents access to the linked or embedded data associated with a chart.
 
@@ -46,7 +47,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./PowerPoint.ChartData.Activate.md)|
 |[ActivateChartDataWindow](./PowerPoint.chartdata.activatechartdatawindow.md)|
@@ -56,7 +57,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IsLinked](./PowerPoint.ChartData.IsLinked.md)|
 |[Workbook](./PowerPoint.ChartData.Workbook.md)|
@@ -64,4 +65,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Interior.TintAndShade
 ms.assetid: 45b12e93-1a6d-b5a3-b31d-4b41d87f3f73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a **Single** that lightens or darkens a color.
 
 ## Syntax
 
- _expression_. `TintAndShade`
+_expression_.**TintAndShade**
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ Attempting to set this property to a value less than -1 or more than 1 results i
 
 [Interior Object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

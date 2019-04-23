@@ -8,19 +8,20 @@ api_name:
 - Excel.Shape.BlackWhiteMode
 ms.assetid: 95a00870-82c2-d193-6971-9f92aeed6532
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Shape.BlackWhiteMode property (Excel)
 
-Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](./Office.MsoBlackWhiteMode.md)** .
+Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](Office.MsoBlackWhiteMode.md)**.
 
 
 ## Syntax
 
- _expression_. `BlackWhiteMode`
+_expression_. `BlackWhiteMode`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End Sub
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

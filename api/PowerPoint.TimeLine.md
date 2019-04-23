@@ -1,5 +1,5 @@
 ---
-title: TimeLine Object (PowerPoint)
+title: TimeLine object (PowerPoint)
 keywords: vbapp10.chm649000
 f1_keywords:
 - vbapp10.chm649000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TimeLine
 ms.assetid: 0b5a8863-8329-48d0-cb0b-3b34e87acb76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeLine Object (PowerPoint)
+# TimeLine object (PowerPoint)
 
 Stores animation information for a  **Master**, **Slide**, or **SlideRange** object.
 
@@ -40,7 +41,7 @@ ActiveWindow.Selection.SlideRange.TimeLine.InteractiveSequences
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.TimeLine.Application.md)|
 |[InteractiveSequences](./PowerPoint.TimeLine.InteractiveSequences.md)|
@@ -50,4 +51,6 @@ ActiveWindow.Selection.SlideRange.TimeLine.InteractiveSequences
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

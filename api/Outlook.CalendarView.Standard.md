@@ -1,5 +1,5 @@
 ---
-title: CalendarView.Standard Property (Outlook)
+title: CalendarView.Standard property (Outlook)
 keywords: vbaol11.chm2620
 f1_keywords:
 - vbaol11.chm2620
@@ -8,24 +8,25 @@ api_name:
 - Outlook.CalendarView.Standard
 ms.assetid: 7d4ac52a-8a3d-25b1-6900-3799fe0fde70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarView.Standard Property (Outlook)
+# CalendarView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[CalendarView](Outlook.CalendarView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
- _expression_ An expression that returns a [CalendarView](./Outlook.CalendarView.md) object.
+ _expression_ An expression that returns a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks
 
-The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True** .
+The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
 
 
 ## Example
@@ -73,3 +74,4 @@ End Sub
 
 [CalendarView Object](Outlook.CalendarView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

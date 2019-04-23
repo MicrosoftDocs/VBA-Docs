@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 60b2ddaa-b0e8-41d8-a99d-bac61e673b90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline9BudgetCost Property (Project)](http://msdn.microsoft.com/library/817df3f5-1af9-4b14-b35f-9c5c3f88cac3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

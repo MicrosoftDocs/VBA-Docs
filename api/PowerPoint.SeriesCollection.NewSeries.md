@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.NewSeries Method (PowerPoint)
+title: SeriesCollection.NewSeries method (PowerPoint)
 keywords: vbapp10.chm66653
 f1_keywords:
 - vbapp10.chm66653
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SeriesCollection.NewSeries
 ms.assetid: 37a94558-02d9-7f0b-e881-0d9c5a9d4787
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection.NewSeries Method (PowerPoint)
+# SeriesCollection.NewSeries method (PowerPoint)
 
 Creates a new series.
 
 
 ## Syntax
 
- _expression_. `NewSeries`
+_expression_. `NewSeries`
 
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
@@ -63,3 +64,4 @@ End With
 
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

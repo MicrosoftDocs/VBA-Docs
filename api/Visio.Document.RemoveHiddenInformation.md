@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveHiddenInformation Method (Visio)
+title: Document.RemoveHiddenInformation method (Visio)
 keywords: vis_sdr.chm10500000
 f1_keywords:
 - vis_sdr.chm10500000
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.RemoveHiddenInformation
 ms.assetid: cc097f8b-5e74-9b44-4ba9-19537169c88b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RemoveHiddenInformation Method (Visio)
+# Document.RemoveHiddenInformation method (Visio)
 
 Removes hidden information, such as personal information and external data, from a Microsoft Visio document.
 
 
 ## Syntax
 
- _expression_. `RemoveHiddenInformation`( `_VisRemoveHiddenInfoItems_` )
+_expression_. `RemoveHiddenInformation`( `_VisRemoveHiddenInfoItems_` )
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
@@ -42,7 +43,7 @@ For the  _VisRemoveHiddenInfoItems_ parameter, pass a combination of one or more
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRHIPersonalInfo**|1|Removes personal information.|
 | **visRHIDataRecordsets**|16|Removes data recordsets.|
@@ -67,4 +68,4 @@ Public Sub RemoveHiddenInformation_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

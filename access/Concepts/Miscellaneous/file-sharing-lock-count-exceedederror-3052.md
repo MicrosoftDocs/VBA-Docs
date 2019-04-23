@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 682df85c-6e2e-26d4-d035-d787de5672ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,3 +35,5 @@ Some other factors that may cause an application to reach this threshold include
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

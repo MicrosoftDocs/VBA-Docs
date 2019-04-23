@@ -1,5 +1,5 @@
 ---
-title: WorkflowTasks Object (Office)
+title: WorkflowTasks object (Office)
 keywords: vbaof11.chm281000
 f1_keywords:
 - vbaof11.chm281000
@@ -7,18 +7,19 @@ ms.prod: office
 api_name:
 - Office.WorkflowTasks
 ms.assetid: 3b0006db-9bad-2dce-d4b1-c67fe5ac54f9
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# WorkflowTasks Object (Office)
+# WorkflowTasks object (Office)
 
-Represents a collection of  **WorkflowTask** objects.
+Represents a collection of **[WorkflowTask](office.workflowtask.md)** objects.
 
 
 ## Example
 
-The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the  **GetWorkflowTasks** method involves a round-trip to the server.
+The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the **GetWorkflowTasks** method involves a round-trip to the server.
 
 
 ```vb
@@ -41,21 +42,10 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.WorkflowTasks.Application.md)|
-|[Count](Office.WorkflowTasks.Count.md)|
-|[Creator](Office.WorkflowTasks.Creator.md)|
-|[Item](Office.WorkflowTasks.Item.md)|
-
 ## See also
 
+- [WorkflowTasks object members](overview/Library-Reference/workflowtasks-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

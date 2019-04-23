@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.Count Property (Word)
+title: XMLSchemaReferences.Count property (Word)
 keywords: vbawd10.chm116129794
 f1_keywords:
 - vbawd10.chm116129794
@@ -8,19 +8,20 @@ api_name:
 - Word.XMLSchemaReferences.Count
 ms.assetid: cb08104c-4790-204d-b4f9-d77023e64c76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLSchemaReferences.Count Property (Word)
+# XMLSchemaReferences.Count property (Word)
 
 Returns a  **Long** that represents the number of XML schemas in the collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ Required. A variable that represents a '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
+_expression_ Required. A variable that represents a '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** that represents the number of XML schemas in the collection.
 
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ProtectedViewWindows.Application
 ms.assetid: 2fa396cb-aaf9-6929-f5ac-2e5e5f270e42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ProtectedViewWindows](Excel.ProtectedViewWindows.md) object.
+_expression_ A variable that represents a [ProtectedViewWindows](Excel.ProtectedViewWindows.md) object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Application
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -49,3 +50,4 @@ End If
 
 [ProtectedViewWindows Object](Excel.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

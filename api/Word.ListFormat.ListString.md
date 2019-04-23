@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListString Property (Word)
+title: ListFormat.ListString property (Word)
 keywords: vbawd10.chm163577931
 f1_keywords:
 - vbawd10.chm163577931
@@ -8,17 +8,18 @@ api_name:
 - Word.ListFormat.ListString
 ms.assetid: b426ab7b-158a-0ae8-7c02-d71ef6a84263
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ListString Property (Word)
+# ListFormat.ListString property (Word)
 
 Returns a  **String** that represents the appearance of the list value of the first paragraph in the range for the specified **ListFormat** object. For example, the second paragraph in an alphabetical list would return B. Read-only.
 
 
 ## Syntax
 
- _expression_. `ListString`
+_expression_. `ListString`
 
  _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
@@ -48,3 +49,4 @@ MsgBox "List value " & v _
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

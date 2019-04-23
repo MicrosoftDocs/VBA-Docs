@@ -3,6 +3,7 @@ title: Designing Form Regions with the Form Region XML Schema
 ms.prod: outlook
 ms.assetid: bdf58ab1-20bd-416a-bd11-95447a3ef143
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,5 +33,5 @@ ms.date: 06/08/2017
 -  [Specify Locale-Specific User Interface for a Form Region](specify-locale-specific-user-interface-for-a-form-region.md)
     
 -  [Defining Actions for Form Regions](defining-actions-for-form-regions.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

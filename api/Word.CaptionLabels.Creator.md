@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Creator Property (Word)
+title: CaptionLabels.Creator property (Word)
 keywords: vbawd10.chm158860265
 f1_keywords:
 - vbawd10.chm158860265
@@ -8,19 +8,20 @@ api_name:
 - Word.CaptionLabels.Creator
 ms.assetid: 956eec82-9d92-880c-83ad-2437e7bc6e41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionLabels.Creator Property (Word)
+# CaptionLabels.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
+_expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CaptionLabels Collection Object](Word.captionlabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Borders
 ms.assetid: 6d313fed-a8f0-94ba-e239-813685cd1d58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Borders](Excel.Borders.md)** collection that represents the border
 
 ## Syntax
 
- _expression_. `Borders`
+_expression_.**Borders**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

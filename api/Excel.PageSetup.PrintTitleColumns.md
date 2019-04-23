@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.PrintTitleColumns
 ms.assetid: 860cf212-0fbb-f3ec-c9ce-a0df57b39b7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.PrintTitleColumns property (Excel)
 
-Returns or sets the columns that contain the cells to be repeated on the left side of each page, as a string in A1-style notation in the language of the macro. Read/write  **String** .
+Returns or sets the columns that contain the cells to be repeated on the left side of each page, as a string in A1-style notation in the language of the macro. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PrintTitleColumns`
+_expression_. `PrintTitleColumns`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ ActiveSheet.PageSetup.PrintTitleColumns = _
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

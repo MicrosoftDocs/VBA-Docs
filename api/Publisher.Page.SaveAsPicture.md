@@ -1,5 +1,5 @@
 ---
-title: Page.SaveAsPicture Method (Publisher)
+title: Page.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm393272
 f1_keywords:
 - vbapb10.chm393272
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.SaveAsPicture
 ms.assetid: 9b118126-e072-9516-9863-14ea60264f01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.SaveAsPicture Method (Publisher)
+# Page.SaveAsPicture method (Publisher)
 
 Saves a page as a picture file.
 
 
 ## Syntax
 
- _expression_. **SaveAsPicture**(**_Filename_**,  **_pbResolution_**)
+_expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -54,4 +55,4 @@ Public Sub SaveAsPicture_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

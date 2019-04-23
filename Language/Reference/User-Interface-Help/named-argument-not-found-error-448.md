@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: eb98da9e-0f02-3c9f-5800-b7317af2c479
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A [named argument](../../Glossary/vbe-glossary.md#named-argument) may not be use
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

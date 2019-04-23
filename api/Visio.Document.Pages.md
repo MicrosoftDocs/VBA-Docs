@@ -1,5 +1,5 @@
 ---
-title: Document.Pages Property (Visio)
+title: Document.Pages property (Visio)
 keywords: vis_sdr.chm10513995
 f1_keywords:
 - vis_sdr.chm10513995
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Pages
 ms.assetid: db81b42f-dfd7-c4dc-a520-b1927cd1e737
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Pages Property (Visio)
+# Document.Pages property (Visio)
 
 Returns the  **Pages** collection for a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Pages`
+_expression_. `Pages`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -63,4 +64,4 @@ Public Sub Pages_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

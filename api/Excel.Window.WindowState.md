@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.WindowState
 ms.assetid: be51b777-1370-03a2-1e3b-a4a89205f6ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.WindowState property (Excel)
 
-Returns or sets the state of the window. Read/write  **[XlWindowState](Excel.XlWindowState.md)** .
+Returns or sets the state of the window. Read/write  **[XlWindowState](Excel.XlWindowState.md)**.
 
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -54,3 +55,4 @@ End With
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

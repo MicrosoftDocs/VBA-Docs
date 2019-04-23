@@ -7,31 +7,29 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.NavigationWhereClause
 ms.assetid: ee8e7435-44cf-d065-b7ee-d7c870726101
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # NavigationButton.NavigationWhereClause property (Access)
 
-Gets or sets the filter criteria applied when opening the form or report associated with the specified navigation button. Read/write  **String**.
+Gets or sets the filter criteria applied when opening the form or report associated with the specified navigation button. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `NavigationWhereClause`
+_expression_.**NavigationWhereClause**
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks
 
-Use the  **NavigationWhereClaue** property to specify a subset of records to be displayed whent he user clicks the navigation button.
+Use the **NavigationWhereClause** property to specify a subset of records to be displayed when the user chooses the navigation button.
 
-The  **NavigationWhereClaue** property is a string expression consisting of a WHERE clause without the **WHERE** keyword.
-
-
-## See also
+The **NavigationWhereClause** property is a string expression consisting of a WHERE clause without the WHERE keyword.
 
 
-[NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

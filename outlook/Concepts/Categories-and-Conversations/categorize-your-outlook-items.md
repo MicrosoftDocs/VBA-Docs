@@ -3,6 +3,7 @@ title: Categorize Your Outlook Items
 ms.prod: outlook
 ms.assetid: e8cfb450-b8b0-bee6-fdf0-d0a92bf9af56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,4 +34,4 @@ Outlook items are displayed based on the category name stored in the  **Categori
 
 If a  **Category** object with a corresponding **Name** property value does not exist in the **Categories** collection of the **NameSpace** object that contains the Outlook item, the category name associated with that Outlook item is still displayed, but without an associated color.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

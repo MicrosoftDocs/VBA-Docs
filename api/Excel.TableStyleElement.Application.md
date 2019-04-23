@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElement.Application
 ms.assetid: be36f1d4-1aed-db98-fafd-ce55a153f255
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [TableStyleElement](./Excel.TableStyleElement.md) object.
+_expression_ A variable that represents a [TableStyleElement](Excel.TableStyleElement.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [TableStyleElement Object](Excel.TableStyleElement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

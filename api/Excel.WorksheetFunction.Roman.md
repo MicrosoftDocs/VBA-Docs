@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Roman Method (Excel)
+title: WorksheetFunction.Roman method (Excel)
 keywords: vbaxl10.chm137245
 f1_keywords:
 - vbaxl10.chm137245
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Roman
 ms.assetid: 59c27951-ad7e-7fe9-af5c-91ff1c68e7d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Roman Method (Excel)
+# WorksheetFunction.Roman method (Excel)
 
 Converts an arabic numeral to roman, as text.
 
 
 ## Syntax
 
- _expression_. `Roman`( `_Arg1_` , `_Arg2_` )
+_expression_. `Roman`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

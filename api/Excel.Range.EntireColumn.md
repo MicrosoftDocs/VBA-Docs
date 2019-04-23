@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.EntireColumn
 ms.assetid: 7be55670-75fd-fb02-dc1a-9d70e3a9d80d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the entire
 
 ## Syntax
 
- _expression_. `EntireColumn`
+_expression_. `EntireColumn`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveCell.EntireColumn.Cells(1, 1).Value = 5
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

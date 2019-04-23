@@ -5,6 +5,7 @@ api_name:
 - Visio.DisplayContextMenu
 ms.assetid: 0aa19901-7bb8-6abe-cbff-4217381af336
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Displays the shortcut menu for Microsoft Visio Viewer at the specified screen co
 
 ## Syntax
 
- _expression_. **DisplayContextMenu**(**_ScreenX_**,  **_ScreenY_**)
+_expression_.**DisplayContextMenu**(**_ScreenX_**,  **_ScreenY_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -36,7 +37,7 @@ Nothing
 
 ## Remarks
 
-Use the screenX and screenY parameters to specify the coordinates of the point where you want the shortcut menu to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper left corner.
+Use the screenX and screenY parameters to specify the coordinates of the point where you want the shortcut menu to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner.
 
 
 ## Example
@@ -48,4 +49,4 @@ The following code specifies that the shortcut menu appear at screen coordinates
 vsoViewer.DisplayContextMenu(300,300)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Adjustments Object (Publisher)
+title: Adjustments object (Publisher)
 keywords: vbapb10.chm2490367
 f1_keywords:
 - vbapb10.chm2490367
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Adjustments
 ms.assetid: a1abecf9-582d-3b5c-8a2c-14c4d260df3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Adjustments Object (Publisher)
+# Adjustments object (Publisher)
 
 Contains a collection of adjustment values for the specified AutoShape or WordArt object. 
 
@@ -57,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Adjustments.Application.md)|
 |[Count](./Publisher.Adjustments.Count.md)|
@@ -67,4 +68,6 @@ End Sub
 ## See also
 
 
-[Adjustments Object Members](./overview/Publisher.md)
+[Adjustments Object Members](overview/Publisher.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

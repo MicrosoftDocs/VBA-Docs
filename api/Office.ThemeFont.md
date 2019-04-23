@@ -1,14 +1,15 @@
 ---
-title: ThemeFont Object (Office)
+title: ThemeFont object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFont
 ms.assetid: 1a9f1365-c392-3d04-74db-333ac111114a
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# ThemeFont Object (Office)
+# ThemeFont object (Office)
 
 Represents a container for the font schemes of a Microsoft Office theme.
 
@@ -28,21 +29,10 @@ Set tfThemeFont = tfThemeFontScheme.MajorFont(msoThemeLatin)
 ```
 
 
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.ThemeFont.Application.md)|
-|[Creator](Office.ThemeFont.Creator.md)|
-|[Name](Office.ThemeFont.Name.md)|
-|[Parent](Office.ThemeFont.Parent.md)|
-
 ## See also
 
+- [ThemeFont object members](overview/Library-Reference/themefont-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

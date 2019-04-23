@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ReplaceB Method (Excel)
+title: WorksheetFunction.ReplaceB method (Excel)
 keywords: vbaxl10.chm137156
 f1_keywords:
 - vbaxl10.chm137156
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ReplaceB
 ms.assetid: 8853dcdd-6cd0-6ac5-1a71-27054f2a4776
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ReplaceB Method (Excel)
+# WorksheetFunction.ReplaceB method (Excel)
 
 REPLACEB replaces part of a text string, based on the number of bytes you specify, with a different text string. 
 
 
 ## Syntax
 
- _expression_. `ReplaceB`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `ReplaceB`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ The languages that support DBCS include Japanese, Chinese (Simplified), Chinese 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

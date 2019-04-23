@@ -1,5 +1,5 @@
 ---
-title: Font.Duplicate Property (Word)
+title: Font.Duplicate property (Word)
 keywords: vbawd10.chm156368906
 f1_keywords:
 - vbawd10.chm156368906
@@ -8,18 +8,19 @@ api_name:
 - Word.Font.Duplicate
 ms.assetid: 86add1f8-9c1f-57c0-87d5-9fdef0841880
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Duplicate Property (Word)
+# Font.Duplicate property (Word)
 
 Returns a copy of a **Font** object that represents the character formatting of the specified font.
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
- _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ Selection.Font = myDupFont
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Windows.ResetPositionsSideBySide Method (Excel)
+title: Windows.ResetPositionsSideBySide method (Excel)
 keywords: vbaxl10.chm354081
 f1_keywords:
 - vbaxl10.chm354081
@@ -8,19 +8,20 @@ api_name:
 - Excel.Windows.ResetPositionsSideBySide
 ms.assetid: 1fce834c-7a64-7f40-3037-7d0f78ab4936
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows.ResetPositionsSideBySide Method (Excel)
+# Windows.ResetPositionsSideBySide method (Excel)
 
 Resets the position of two worksheet windows that are being compared side by side.
 
 
 ## Syntax
 
- _expression_. `ResetPositionsSideBySide`
+_expression_. `ResetPositionsSideBySide`
 
- _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
+_expression_ A variable that represents a [Windows](Excel.Windows.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Use the  **ResetPositionsSideBySide** method to reset the position of two worksh
 
 [Windows Object](Excel.Windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

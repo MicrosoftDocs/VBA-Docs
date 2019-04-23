@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.IncludeLabel Property (Word)
+title: TableOfFigures.IncludeLabel property (Word)
 keywords: vbawd10.chm153157634
 f1_keywords:
 - vbawd10.chm153157634
@@ -8,17 +8,18 @@ api_name:
 - Word.TableOfFigures.IncludeLabel
 ms.assetid: b31b8ecf-348d-33c4-ef20-92b2680f1a78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfFigures.IncludeLabel Property (Word)
+# TableOfFigures.IncludeLabel property (Word)
 
- **True** if the caption label and caption number are included in a table of figures. Read/write **Boolean** .
+ **True** if the caption label and caption number are included in a table of figures. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeLabel`
+_expression_. `IncludeLabel`
 
  _expression_ An expression that returns a '[TableOfFigures](Word.TableOfFigures.md)' object.
 
@@ -55,3 +56,4 @@ tofTemp.IncludeLabel = True
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

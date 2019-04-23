@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bb291092-bc58-fc0c-9a3e-fdaf84886952
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ A  **Public** procedure is visible to all[modules](../../Glossary/vbe-glossary.m
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

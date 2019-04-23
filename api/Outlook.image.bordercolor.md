@@ -3,6 +3,7 @@ title: Image.BorderColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5c0a373c-1ca7-1907-83b7-c24e9066e020
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the border color of an object. Read/w
 
 ## Syntax
 
- _expression_. **BorderColor**
+_expression_.**BorderColor**
 
- _expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ To use the  **BorderColor** property, the **[BorderStyle](Outlook.image.borderst
 
  **BorderStyle** uses **BorderColor** to define the border colors. The **[SpecialEffect](Outlook.image.specialeffect.md)** property uses system colors exclusively to define its border colors. For Windows operating systems, system color settings are set using the **Display** icon in Control Panel.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

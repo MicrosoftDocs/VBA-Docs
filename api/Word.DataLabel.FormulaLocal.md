@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaLocal Property (Word)
+title: DataLabel.FormulaLocal property (Word)
 keywords: vbawd10.chm233900017
 f1_keywords:
 - vbawd10.chm233900017
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabel.FormulaLocal
 ms.assetid: 3e6849b4-defb-738c-ef78-93d7e648d7b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabel.FormulaLocal Property (Word)
+# DataLabel.FormulaLocal property (Word)
 
-Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
+Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_.**FormulaLocal**
 
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

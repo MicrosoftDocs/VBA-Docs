@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 768c7aaf-f3f2-49d9-a564-68fc671025fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Profiles.ActiveProfile Property (Project)](http://msdn.microsoft.com/library/ae35bf36-f49c-358c-6ea3-db2968665f7f%28Office.15%29.aspx)
 [Resource.OvertimeWork Property (Project)](http://msdn.microsoft.com/library/c9656656-2e8f-d09d-8c91-ebf4d42ccaba%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

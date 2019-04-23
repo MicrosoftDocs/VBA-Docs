@@ -1,5 +1,5 @@
 ---
-title: Range.InsertIndent Method (Excel)
+title: Range.InsertIndent method (Excel)
 keywords: vbaxl10.chm144148
 f1_keywords:
 - vbaxl10.chm144148
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.InsertIndent
 ms.assetid: 1e004333-a64e-55e4-cf8a-d15e47236f94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InsertIndent Method (Excel)
+# Range.InsertIndent method (Excel)
 
 Adds an indent to the specified range.
 
 
 ## Syntax
 
- _expression_. `InsertIndent`( `_InsertAmount_` )
+_expression_. `InsertIndent`( `_InsertAmount_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ End With
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

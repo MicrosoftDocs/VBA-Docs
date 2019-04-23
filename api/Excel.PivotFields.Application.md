@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFields.Application
 ms.assetid: 51c3a714-4da2-6459-82d9-f8d6f45ccc75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotFields](Excel.PivotFields.md) object.
+_expression_ A variable that represents a [PivotFields](Excel.PivotFields.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [PivotFields Object](Excel.PivotFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

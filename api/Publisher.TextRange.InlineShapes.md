@@ -1,5 +1,5 @@
 ---
-title: TextRange.InlineShapes Property (Publisher)
+title: TextRange.InlineShapes property (Publisher)
 keywords: vbapb10.chm5308498
 f1_keywords:
 - vbapb10.chm5308498
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.InlineShapes
 ms.assetid: ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.InlineShapes Property (Publisher)
+# TextRange.InlineShapes property (Publisher)
 
 Returns an  **[InlineShapes](Publisher.InlineShapes.md)** collection, which represents the inline shapes contained within a text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **InlineShapes**
+_expression_.**InlineShapes**
 
  _expression_ A variable that represents an  **TextRange** object.
 
@@ -58,4 +59,4 @@ With theShape.TextFrame.Story.TextRange
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

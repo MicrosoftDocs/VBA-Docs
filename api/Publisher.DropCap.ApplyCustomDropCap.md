@@ -1,5 +1,5 @@
 ---
-title: DropCap.ApplyCustomDropCap Method (Publisher)
+title: DropCap.ApplyCustomDropCap method (Publisher)
 keywords: vbapb10.chm5505041
 f1_keywords:
 - vbapb10.chm5505041
@@ -8,17 +8,18 @@ api_name:
 - Publisher.DropCap.ApplyCustomDropCap
 ms.assetid: 906cf476-3826-8510-315f-425f6f50a92a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap.ApplyCustomDropCap Method (Publisher)
+# DropCap.ApplyCustomDropCap method (Publisher)
 
 Applies custom formatting to the first letters of paragraphs in a text frame.
 
 
 ## Syntax
 
- _expression_. **ApplyCustomDropCap**(**_LinesUp_**,  **_Size_**,  **_Span_**,  **_FontName_**,  **_Bold_**,  **_Italic_**)
+_expression_.**ApplyCustomDropCap**(**_LinesUp_**,  **_Size_**,  **_Span_**,  **_FontName_**,  **_Bold_**,  **_Italic_**)
 
  _expression_ A variable that represents a  **DropCap** object.
 
@@ -51,4 +52,4 @@ Sub CustDropCap()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

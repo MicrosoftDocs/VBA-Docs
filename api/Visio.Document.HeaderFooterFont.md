@@ -1,5 +1,5 @@
 ---
-title: Document.HeaderFooterFont Property (Visio)
+title: Document.HeaderFooterFont property (Visio)
 keywords: vis_sdr.chm10550640
 f1_keywords:
 - vis_sdr.chm10550640
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.HeaderFooterFont
 ms.assetid: cd4b1f35-c3a2-d48c-fc0d-37f9626ecdab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.HeaderFooterFont Property (Visio)
+# Document.HeaderFooterFont property (Visio)
 
 Specifies the font used for the header and footer text. Read/write.
 
 
 ## Syntax
 
- _expression_. `HeaderFooterFont`
+_expression_. `HeaderFooterFont`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -41,7 +42,7 @@ To get information about the **StdFont** object that supports the **IFontDisp** 
     
 3. In the **Project/Library** list, click **stdole**.
     
-4. Under **Classes**, examine the class named **StdFont** .
+4. Under **Classes**, examine the class named **StdFont**.
     
 For details about the **IFontDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
@@ -67,4 +68,4 @@ Public Sub HeaderFooterFont_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

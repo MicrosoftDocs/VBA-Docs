@@ -1,12 +1,13 @@
 ---
-title: Comments Object (Word)
+title: Comments object (Word)
 ms.prod: word
 ms.assetid: e384b37a-50e3-a214-52a8-6fda2acc4991
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comments Object (Word)
+# Comments object (Word)
 
 A collection of  **[Comment](Word.Comment.md)** objects that represent the comments in a selection, range, or document.
 
@@ -56,7 +57,7 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Comments.Add.md)|
 |[Item](Word.Comments.Item.md)|
@@ -65,7 +66,7 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Comments.Application.md)|
 |[Count](Word.Comments.Count.md)|
@@ -76,4 +77,6 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

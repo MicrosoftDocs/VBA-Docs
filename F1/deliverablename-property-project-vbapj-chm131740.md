@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f5cf2bdb-2253-473a-9c90-ae61c341ed70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayWizardErrors Property (Project)](http://msdn.microsoft.com/library/b0af54ec-392f-b84d-3dcc-cc52c991b66d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

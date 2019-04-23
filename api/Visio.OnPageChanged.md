@@ -5,6 +5,7 @@ api_name:
 - Visio.OnPageChanged
 ms.assetid: de64b0e2-372c-f1c4-15c6-d6c3a4da8368
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs when the active page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnPageChanged**(**_PageIndex_**)
+_expression_.**OnPageChanged**(**_PageIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -57,4 +58,4 @@ Private Sub vsoViewer_OnPageChanged(ByVal PageIndex As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

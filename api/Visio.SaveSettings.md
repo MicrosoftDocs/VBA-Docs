@@ -5,6 +5,7 @@ api_name:
 - Visio.SaveSettings
 ms.assetid: c3b7ba3c-23a0-285f-c668-d220e9d99833
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Saves the current Web page settings to the registry.
 
 ## Syntax
 
- _expression_. **SaveSettings**
+_expression_.**SaveSettings**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -60,4 +61,4 @@ Public Sub SaveSettings_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

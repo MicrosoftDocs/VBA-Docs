@@ -1,5 +1,5 @@
 ---
-title: Event.GetFilterSRC Method (Visio)
+title: Event.GetFilterSRC method (Visio)
 keywords: vis_sdr.chm12650615
 f1_keywords:
 - vis_sdr.chm12650615
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.GetFilterSRC
 ms.assetid: fcf9a5c1-cee9-df26-d774-df45c113945a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.GetFilterSRC Method (Visio)
+# Event.GetFilterSRC method (Visio)
 
 Returns an array of cell ranges and a  **True** or **False** value indicating whether you are filtering events for that range.
 
 
 ## Syntax
 
- _expression_. `GetFilterSRC`
+_expression_. `GetFilterSRC`
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
@@ -54,16 +55,16 @@ For an event to successfully pass through a cell range filter, it must satisfy t
 
 - It must be a valid section, row, cell reference.
     
-- If all filters are  **True** , the event must match at least one filter.
+- If all filters are  **True**, the event must match at least one filter.
     
-- If all filters are  **False** , the event must not match any filter.
+- If all filters are  **False**, the event must not match any filter.
     
-- If the filters are a mixture of  **True** and **False** , the event must match at least one **True** filter and not match any **False** filters.
+- If the filters are a mixture of  **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For details about using command IDs to define event filters, see the  **SetFilterSRC** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

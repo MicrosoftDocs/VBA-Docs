@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectedShape Property (Publisher)
+title: ConnectorFormat.BeginConnectedShape property (Publisher)
 keywords: vbapb10.chm3211521
 f1_keywords:
 - vbapb10.chm3211521
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.BeginConnectedShape
 ms.assetid: a7eb9090-ad01-234c-99ff-3bb0616d02c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnectedShape Property (Publisher)
+# ConnectorFormat.BeginConnectedShape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to which the beginning of the specified connector is attached.
 
 
 ## Syntax
 
- _expression_. **BeginConnectedShape**
+_expression_.**BeginConnectedShape**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -74,4 +75,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlListDataType enumeration (Excel)
+title: XlListDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlListDataType
 ms.assetid: 80226dbd-e136-7a6b-b8a8-5f6482da731d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlListDataType enumeration (Excel)
+# XlListDataType enumeration (Excel)
 
 Specifies the data type of a list column connected to a Microsoft SharePoint Foundation site.
 
@@ -30,3 +31,4 @@ Specifies the data type of a list column connected to a Microsoft SharePoint Fou
 | **xlListDataTypeNumber**|3|Numerical.|
 | **xlListDataTypeText**|1|Plain text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

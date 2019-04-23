@@ -1,5 +1,5 @@
 ---
-title: Document.Mode Property (Visio)
+title: Document.Mode property (Visio)
 keywords: vis_sdr.chm10513925
 f1_keywords:
 - vis_sdr.chm10513925
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Mode
 ms.assetid: 40ebcc64-43dc-79f4-2802-9cd9dba633ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Mode Property (Visio)
+# Document.Mode property (Visio)
 
 Determines whether a document is in run mode or design mode. Read/write.
 
 
 ## Syntax
 
- _expression_. `Mode`
+_expression_. `Mode`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -47,4 +48,4 @@ A document's mode is not a persistent property. By default, a Visio document ope
 
 However, you can change default settings in the  **Macro Settings** category of the Visio **Trust Center** (Click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**.) If  **Disable all macros except digitally signed macros** is selected, Visio documents not in a trusted location open in run mode only if they are digitally signed. If **Disable all macros without notification** or **Disable all macros with notification** is selected, documents not in a trusted location open in design mode. If **Enable all macros** is selected, documents always open in run mode, but this option presents a security risk and is not recommended.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

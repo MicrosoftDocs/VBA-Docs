@@ -1,5 +1,5 @@
 ---
-title: View.ActivePage Property (Publisher)
+title: View.ActivePage property (Publisher)
 keywords: vbapb10.chm327683
 f1_keywords:
 - vbapb10.chm327683
@@ -8,17 +8,18 @@ api_name:
 - Publisher.View.ActivePage
 ms.assetid: 29289fb2-6692-4cb5-a9e2-b2edb9e9cd7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ActivePage Property (Publisher)
+# View.ActivePage property (Publisher)
 
 Returns a  **[Page](Publisher.Page.md)** object that represents the page currently displayed in the Microsoft Publisher window.
 
 
 ## Syntax
 
- _expression_. **ActivePage**
+_expression_.**ActivePage**
 
  _expression_ A variable that represents a  **View** object.
 
@@ -61,4 +62,4 @@ Sub SetRulerGuidesOnActivePage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Window.SmallScroll Method (Word)
+title: Window.SmallScroll method (Word)
 keywords: vbawd10.chm157417576
 f1_keywords:
 - vbawd10.chm157417576
@@ -8,19 +8,20 @@ api_name:
 - Word.Window.SmallScroll
 ms.assetid: 36801d40-0a24-69aa-7641-40f90132556b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.SmallScroll Method (Word)
+# Window.SmallScroll method (Word)
 
 Scrolls a window or pane by the specified number of lines.
 
 
 ## Syntax
 
- _expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `SmallScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Parameters
@@ -70,3 +71,4 @@ End With
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Inspector.Close Event (Outlook)
+title: Inspector.Close event (Outlook)
 keywords: vbaol11.chm467
 f1_keywords:
 - vbaol11.chm467
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Inspector.Close
 ms.assetid: 5a83b3d3-6096-9e37-88b1-00f97c0bf8bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Inspector.Close Event (Outlook)
+# Inspector.Close event (Outlook)
 
 Occurs when the inspector associated with a Microsoft Outlook item is being closed.
 
 
 ## Syntax
 
- _expression_. `Close`( `_Cancel_` )
+_expression_. `Close`( `_Cancel_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the close operation isn't completed and the inspector is left open. This event cannot be canceled.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the close operation isn't completed and the inspector is left open. This event cannot be canceled.
 
 If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
@@ -35,3 +36,4 @@ If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire t
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Access.AcFormatConditionType
 ms.assetid: 69fdf7ff-7af5-8489-f78b-372859b515cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies the type of conditional formatting to apply to a control.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -24,3 +25,4 @@ Specifies the type of conditional formatting to apply to a control.
 |**acFieldHasFocus**|2|The conditional format is based on the value of the control that has focus on a form.|
 |**acFieldValue**|0|The conditional format is based on values in the selected control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

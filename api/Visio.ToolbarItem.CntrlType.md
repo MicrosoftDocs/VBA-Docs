@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.CntrlType Property (Visio)
+title: ToolbarItem.CntrlType property (Visio)
 keywords: vis_sdr.chm13513265
 f1_keywords:
 - vis_sdr.chm13513265
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarItem.CntrlType
 ms.assetid: 88995561-9227-61ae-693a-83f5bba5bede
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarItem.CntrlType Property (Visio)
+# ToolbarItem.CntrlType property (Visio)
 
 Gets or sets the control type of a menu, menu item, or toolbar item. Read/write.
 
 
 ## Syntax
 
- _expression_. `CntrlType`
+_expression_. `CntrlType`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
@@ -33,11 +34,11 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If you are adding a custom toolbar button, set the  **CntrlType** property to **visCtrlTypeBUTTON** . The following table describes the control types declared by the Visio type library in **VisUICtrlTypes** .
+If you are adding a custom toolbar button, set the  **CntrlType** property to **visCtrlTypeBUTTON**. The following table describes the control types declared by the Visio type library in **VisUICtrlTypes**.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCtrlTypeSPLITBUTTON_MRU_COMMAND**|18|Split button, with MRU command behavior.|
 | **visCtrlTypeBUTTON_OWNERDRAW**|33|Owner-draw push button.|
@@ -168,4 +169,4 @@ Public Sub CntrlType_Example2()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

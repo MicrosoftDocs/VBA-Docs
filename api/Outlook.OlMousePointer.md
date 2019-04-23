@@ -1,5 +1,5 @@
 ---
-title: OlMousePointer Enumeration (Outlook)
+title: OlMousePointer enumeration (Outlook)
 keywords: vbaol11.chm1000019
 f1_keywords:
 - vbaol11.chm1000019
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMousePointer
 ms.assetid: 527df8bb-000c-f108-0522-2d294858b251
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMousePointer Enumeration (Outlook)
+# OlMousePointer enumeration (Outlook)
 
 Specifies the mouse cursor that is displayed while the mouse is positioned over a control and a drag/drop operation is not being performed.
 
@@ -35,3 +36,4 @@ Specifies the mouse cursor that is displayed while the mouse is positioned over 
 | **olMousePointerSizeWE**|9|Resize cursor from West to East.|
 | **olMousePointerUpArrow**|10|The cursor is the vertical arrow.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

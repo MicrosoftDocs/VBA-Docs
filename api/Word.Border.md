@@ -1,5 +1,5 @@
 ---
-title: Border Object (Word)
+title: Border object (Word)
 keywords: vbawd10.chm2363
 f1_keywords:
 - vbawd10.chm2363
@@ -8,10 +8,11 @@ api_name:
 - Word.Border
 ms.assetid: be48c020-b86c-c004-ce1c-76d9edae9791
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Border Object (Word)
+# Border object (Word)
 
 Represents a border of an object. The  **Border** object is a member of the **[Borders](Word.borders.md)** collection.
 
@@ -65,7 +66,7 @@ Next aBorder
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Border.Application.md)|
 |[ArtStyle](Word.Border.ArtStyle.md)|
@@ -82,4 +83,6 @@ Next aBorder
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

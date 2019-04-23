@@ -1,5 +1,5 @@
 ---
-title: Options Object (Publisher)
+title: Options object (Publisher)
 keywords: vbapb10.chm1114111
 f1_keywords:
 - vbapb10.chm1114111
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Options
 ms.assetid: 2554cd33-9d94-2622-6fab-19ca33d5a561
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options Object (Publisher)
+# Options object (Publisher)
 
 Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box (**Tools** menu).
 
@@ -37,7 +38,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ResetTips](./Publisher.Options.ResetTips.md)|
 |[ResetWizardSynchronizing](./Publisher.Options.ResetWizardSynchronizing.md)|
@@ -46,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddHebDoubleQuote](./Publisher.Options.AddHebDoubleQuote.md)|
 |[AllowBackgroundSave](./Publisher.Options.AllowBackgroundSave.md)|
@@ -74,3 +75,4 @@ End Sub
 |[UseCatalogAtStartup](./Publisher.Options.UseCatalogAtStartup.md)|
 |[UseWizardForBlankPublication](./Publisher.Options.UseWizardForBlankPublication.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

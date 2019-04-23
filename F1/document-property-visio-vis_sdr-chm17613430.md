@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6f27afa0-1287-43e1-8a8a-8cf02f7b4005
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ContainerProperties.Document Property (Visio)](http://msdn.microsoft.com/library/c0f71c01-539a-8075-ac5b-f0ca2ba99a53%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

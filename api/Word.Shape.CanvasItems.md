@@ -1,5 +1,5 @@
 ---
-title: Shape.CanvasItems Property (Word)
+title: Shape.CanvasItems property (Word)
 keywords: vbawd10.chm161480842
 f1_keywords:
 - vbawd10.chm161480842
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.CanvasItems
 ms.assetid: 2dfe33c7-1487-6074-9135-2d3220e11691
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.CanvasItems Property (Word)
+# Shape.CanvasItems property (Word)
 
 Returns a  **[CanvasShapes](Word.CanvasShapes.md)** object that represents a collection of shapes in a drawing canvas.
 
 
 ## Syntax
 
- _expression_. `CanvasItems`
+_expression_. `CanvasItems`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Example
@@ -45,3 +46,4 @@ End Sub
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

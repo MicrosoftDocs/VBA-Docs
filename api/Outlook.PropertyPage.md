@@ -1,5 +1,5 @@
 ---
-title: PropertyPage Object (Outlook)
+title: PropertyPage object (Outlook)
 keywords: vbaol11.chm380
 f1_keywords:
 - vbaol11.chm380
@@ -8,10 +8,11 @@ api_name:
 - Outlook.PropertyPage
 ms.assetid: 22e561d5-603e-2cf3-e142-6173dd0d4c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyPage Object (Outlook)
+# PropertyPage object (Outlook)
 
 Represents a custom property page in the  **Options** dialog box or in the folder **Properties** dialog box.
 
@@ -64,7 +65,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.PropertyPage.Apply.md)|
 |[GetPageInfo](Outlook.PropertyPage.GetPageInfo.md)|
@@ -73,11 +74,13 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Dirty](Outlook.PropertyPage.Dirty.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Column.Cells Property (Publisher)
+title: Column.Cells property (Publisher)
 keywords: vbapb10.chm4980738
 f1_keywords:
 - vbapb10.chm4980738
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Column.Cells
 ms.assetid: 6c8b33f9-61f0-086c-1ceb-996221aa3a02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Column.Cells Property (Publisher)
+# Column.Cells property (Publisher)
 
 Returns a  **[CellRange](Publisher.CellRange.md)** object that represents the cell or cells in a column of a table.
 
 
 ## Syntax
 
- _expression_. **Cells**
+_expression_.**Cells**
 
  _expression_ A variable that represents a  **Column** object.
 
@@ -52,4 +53,4 @@ Sub OutlineBorderCell()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: EmailMergeEnvelope.Priority Property (Publisher)
+title: EmailMergeEnvelope.Priority property (Publisher)
 keywords: vbapb10.chm9043976
 f1_keywords:
 - vbapb10.chm9043976
@@ -8,17 +8,18 @@ api_name:
 - Publisher.EmailMergeEnvelope.Priority
 ms.assetid: 21c4c33f-d211-7ca5-364b-be9ad4d3f187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailMergeEnvelope.Priority Property (Publisher)
+# EmailMergeEnvelope.Priority property (Publisher)
 
-Gets or sets the priority of the merged e-mail message represented by the parent  **EmailMergeEnvelope** object. Read/write.
+Gets or sets the priority of the merged email message represented by the parent  **EmailMergeEnvelope** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Priority**
+_expression_.**Priority**
 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
@@ -34,9 +35,10 @@ Possible values for the  **Priority** property are declared in the **pbEmailMerg
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbPriorityNone**|0|No priority set|
 | **pbPriorityLow**|2|Low priority|
 | **pbPriorityHigh**|1|High priority|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFormulas.Count
 ms.assetid: f64c7477-8c0e-1e64-e7a1-cf4b65418393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
+_expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [PivotFormulas Object](Excel.PivotFormulas.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

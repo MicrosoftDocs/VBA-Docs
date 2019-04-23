@@ -8,6 +8,7 @@ api_name:
 - Excel.RecentFile.Path
 ms.assetid: bd2058b9-f5b6-968c-12f0-59edc98c0121
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the complete path to the workbook/fi
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** value that represents the complete path to the workbook/fi
 
 [RecentFile Object](Excel.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.Left
 ms.assetid: e219f939-b714-1229-f847-433d7ce6e2f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Point.Left property (Excel)
 
-Returns a value that represents the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only.
+Returns a value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of the chart area. Read-only.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_.**Left**
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Double
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

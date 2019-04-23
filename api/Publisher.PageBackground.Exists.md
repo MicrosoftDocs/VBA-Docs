@@ -1,5 +1,5 @@
 ---
-title: PageBackground.Exists Property (Publisher)
+title: PageBackground.Exists property (Publisher)
 keywords: vbapb10.chm8126468
 f1_keywords:
 - vbapb10.chm8126468
@@ -8,18 +8,19 @@ api_name:
 - Publisher.PageBackground.Exists
 ms.assetid: 5eeaa8ef-b77b-7ed3-1e03-425c6d2561e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageBackground.Exists Property (Publisher)
+# PageBackground.Exists property (Publisher)
 
  **True** if the specified **PageBackground** object exists. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Exists**
+_expression_.**Exists**
 
  _expression_ A variable that represents a  **PageBackground** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

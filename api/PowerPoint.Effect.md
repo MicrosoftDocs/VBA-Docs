@@ -1,5 +1,5 @@
 ---
-title: Effect Object (PowerPoint)
+title: Effect object (PowerPoint)
 keywords: vbapp10.chm652000
 f1_keywords:
 - vbapp10.chm652000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Effect
 ms.assetid: 359ac3da-86cd-8003-d691-349d20fd1777
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect Object (PowerPoint)
+# Effect object (PowerPoint)
 
 Represents timing information about a slide animation.
 
@@ -97,7 +98,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |**[Delete](./PowerPoint.Effect.Delete.md)**|
 |**[MoveAfter](./PowerPoint.Effect.MoveAfter.md)**|
@@ -108,7 +109,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |**[Application](./PowerPoint.Effect.Application.md)**|
 |**[Behaviors](./PowerPoint.Effect.Behaviors.md)**|
@@ -128,4 +129,6 @@ End Sub
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

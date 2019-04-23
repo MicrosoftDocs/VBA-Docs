@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.ListNumberSeparator Property (Publisher)
+title: ParagraphFormat.ListNumberSeparator property (Publisher)
 keywords: vbapb10.chm5439526
 f1_keywords:
 - vbapb10.chm5439526
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.ListNumberSeparator
 ms.assetid: 63189011-12a0-c7bc-f6c6-7b17b0dcedf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.ListNumberSeparator Property (Publisher)
+# ParagraphFormat.ListNumberSeparator property (Publisher)
 
 Sets or retrieves a  **PbListSeparator** constant that represents the list separator of the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **ListNumberSeparator**
+_expression_.**ListNumberSeparator**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -68,4 +69,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

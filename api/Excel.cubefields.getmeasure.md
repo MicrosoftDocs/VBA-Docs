@@ -1,64 +1,58 @@
 ---
-title: CubeFields.GetMeasure Method (Excel)
+title: CubeFields.GetMeasure method (Excel)
 keywords: vbaxl10.chm670078
 f1_keywords:
 - vbaxl10.chm670078
 ms.prod: excel
 ms.assetid: 26647294-66df-4691-fa8e-d14cb869145b
-ms.date: 06/08/2017
+ms.date: 03/28/2019
+localization_priority: Normal
 ---
 
 
-# CubeFields.GetMeasure Method (Excel)
+# CubeFields.GetMeasure method (Excel)
 
-Given an attribute hierarchy, returns an implicit measure for the given function that corresponds to this attribute. If an ?implicit measure? does not exist, a new implicit measure is created and added to the [CubeFields Object (Excel)](Excel.CubeFields.md) collection.
+Given an attribute hierarchy, returns an implicit measure for the given function that corresponds to this attribute. If an implicit measure does not exist, a new implicit measure is created and added to the **CubeFields** collection.
 
 
 ## Syntax
 
- _expression_. `GetMeasure`_(AttributeHierarchy,_ _Function,_ _Caption)_
+_expression_.**GetMeasure** (_AttributeHierarchy_, _Function_, _Caption_)
 
- _expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) object.
+_expression_ A variable that represents a **[CubeFields](Excel.CubeFields.md)** object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _AttributeHierarchy_|Required|VARIANT|The unique cube field that is an attribute hierarchy (XlCubeFieldType = xlHierarchy and XlCubeFieldSubType = xlCubeAttribute).|
+| _AttributeHierarchy_|Required|**Variant**|The unique cube field that is an attribute hierarchy (XlCubeFieldType = xlHierarchy, and XlCubeFieldSubType = xlCubeAttribute).|
 | _Function_|Required|XLCONSOLIDATIONFUNCTION|The function performed in the added data field.|
-| _Caption_|Optional|VARIANT|The label used in the PivotTable report to identify this measure. If the measure already exists, caption will overwrite the existing label of this measure.|
+| _Caption_|Optional|**Variant**|The label used in the PivotTable report to identify this measure. If the measure already exists, caption will overwrite the existing label of this measure.|
 
-### Remarks
+## Remarks
 
-|**Important**|
-|:-----|  
-|<p>Getting a measure by using the  **GetMeasure** function will work for these functions only: **Count**,  **Sum**,  **Average**,  **Max** and **Min**. For example:</p><p>These will work</p><ul><li>```Get CubeField0 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlCount, "NumCarsOwnedCount")```</li><li>```Set CubeField1 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlSum, "NumCarsOwnedSum")```</li><li>```Set CubeField2 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlAverage, "NumCarsOwnedAverage")```</li><li>```Set CubeField4 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlMax, "NumCarsOwnedMax")```</li><li>```Set CubeField5 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlMin, "NumCarsOwnedMin")```</li></ul><p>These will not work</p><ul><li>```Set CubeField3 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlCountNums, "NumCarsOwnedCountNums")</li><li>Set CubeField6 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlProduct, "NumCarsOwnedProduct")```</li><li>```Set CubeField7 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlStDev, "NumCarsOwnedStDev")```</li><li>```Set CubeField8 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlStDevP, "NumCarsOwnedStDevP")```</li></ul>|
+Getting a measure by using the **GetMeasure** function will work for these functions only: **Count**, **Sum**, **Average**, **Max**, and **Min**. 
 
- 
- 
+For example, these will work: 
 
- 
+- `Get CubeField0 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlCount, "NumCarsOwnedCount")`
+- `Set CubeField1 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlSum, "NumCarsOwnedSum")`
+- `Set CubeField2 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlAverage, "NumCarsOwnedAverage")`
+- `Set CubeField4 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlMax, "NumCarsOwnedMax")`
+- `Set CubeField5 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlMin, "NumCarsOwnedMin")`
 
+These will not work: 
 
-
- 
- 
- 
- 
- 
-
-
+- `Set CubeField3 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlCountNums, "NumCarsOwnedCountNums")`
+- `Set CubeField6 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlProduct, "NumCarsOwnedProduct")`
+- `Set CubeField7 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlStDev, "NumCarsOwnedStDev")`
+- `Set CubeField8 = modelPivotTable.CubeFields.GetMeasure("[customer].[num_cars_owned]", xlStDevP, "NumCarsOwnedStDevP")`
 
 ## Return value
 
- **CUBEFIELD**
+**CUBEFIELD**
 
 
-## See also
 
-
-[CubeFields Object](Excel.CubeFields.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

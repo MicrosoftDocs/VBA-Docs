@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (Publisher)
+title: TextEffectFormat.NormalizedHeight property (Publisher)
 keywords: vbapb10.chm3735814
 f1_keywords:
 - vbapb10.chm3735814
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextEffectFormat.NormalizedHeight
 ms.assetid: 2b62fe23-9204-7449-1d4e-73e73def5df0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.NormalizedHeight Property (Publisher)
+# TextEffectFormat.NormalizedHeight property (Publisher)
 
 Specifies whether all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write.
 
 
 ## Syntax
 
- _expression_. **NormalizedHeight**
+_expression_.**NormalizedHeight**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
@@ -34,7 +35,7 @@ The  **NormalizedHeight** property value can be one of the **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Characters in the specified WordArt object are not all the same height.|
 | **msoTrue**| Characters in the specified WordArt object are all the same height.|
@@ -56,4 +57,4 @@ Sub SetNormalHeight()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

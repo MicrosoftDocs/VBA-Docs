@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9bc3761a-58ff-785b-7382-15ac474ce49c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a form name that isn't a valid string in Visual Basic. The form isn't loaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Space2 Method (Word)
+title: Paragraph.Space2 method (Word)
 keywords: vbawd10.chm156696891
 f1_keywords:
 - vbawd10.chm156696891
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Space2
 ms.assetid: 51feb546-a6e4-4f8c-74b8-a6cf7b9c068c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Space2 Method (Word)
+# Paragraph.Space2 method (Word)
 
 Double-spaces the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. `Space2`
+_expression_. `Space2`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ Selection.Paragraphs(1).Space2
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

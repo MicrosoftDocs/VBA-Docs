@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.Report.TextHeight
 ms.assetid: cac67d4c-e140-06ae-ccbd-961cdee3d087
-ms.date: 06/08/2017
+ms.date: 03/09/2019
+localization_priority: Normal
 ---
 
 
 # Report.TextHeight method (Access)
 
-The  **TextHeight** method returns the height of a text string as it would be printed in the current font of a **[Report](Access.Report.md)** object.
+The **TextHeight** method returns the height of a text string as it would be printed in the current font of a **Report** object.
 
 
 ## Syntax
 
-_expression_. `TextHeight`( ` _Expr_` )
+_expression_.**TextHeight** (_Expr_)
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,21 +37,18 @@ Single
 
 ## Remarks
 
-You can use the  **TextHeight** method to determine the amount of vertical space a text string will require in the current font when the report is formatted and printed. For example, a text string formatted in 9-point Arial will require a different amount of space than one formatted in 12-point Courier. To determine the current font and font size for text in a report, check the settings for the report's **FontName** and **FontSize** properties.
+You can use the **TextHeight** method to determine the amount of vertical space that a text string will require in the current font when the report is formatted and printed. For example, a text string formatted in 9-point Arial will require a different amount of space than one formatted in 12-point Courier. To determine the current font and font size for text in a report, check the settings for the report's **FontName** and **FontSize** properties.
 
-The value returned by the  **TextHeight** method is expressed in terms of the coordinate system in effect for the report, as defined by the **Scale** method. You can use the **ScaleMode** property to determine the coordinate system currently in effect for the report.
+The value returned by the **TextHeight** method is expressed in terms of the coordinate system in effect for the report, as defined by the **Scale** method. You can use the **ScaleMode** property to determine the coordinate system currently in effect for the report.
 
-If the  _strexpr_ argument contains embedded carriage returns, the **TextHeight** method returns the cumulative height of the lines, including the leading space above and below each line. You can use the value returned by the **TextHeight** method to calculate the necessary space and positioning for multiple lines of text within a report.
+If the _StrExpr_ argument contains embedded carriage returns, the **TextHeight** method returns the cumulative height of the lines, including the leading space above and below each line. You can use the value returned by the **TextHeight** method to calculate the necessary space and positioning for multiple lines of text within a report.
 
 
 ## Example
 
-The following example uses the  **TextHeight** and **TextWidth** methods to determine the amount of vertical and horizontal space required to print a text string in the report's current font.
+The following example uses the **TextHeight** and **TextWidth** methods to determine the amount of vertical and horizontal space required to print a text string in the report's current font.
 
-To try this example in Microsoft Access, create a new report. Set the  **OnPrint** property of the Detail section to [Event Procedure]. Enter the following code in the report's module, then switch to Print Preview.
-
-
-
+To try this example in Microsoft Access, create a new report. Set the **OnPrint** property of the Detail section to [Event Procedure]. Enter the following code in the report's module, and then switch to Print Preview.
 
 ```vb
 Private Sub Detail_Print(Cancel As Integer, _ 
@@ -71,8 +67,4 @@ End Sub
 ```
 
 
-## See also
-
-
-[Report Object](Access.Report.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

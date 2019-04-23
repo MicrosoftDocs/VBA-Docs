@@ -1,5 +1,5 @@
 ---
-title: Table.LeftPadding Property (Word)
+title: Table.LeftPadding property (Word)
 keywords: vbawd10.chm156303475
 f1_keywords:
 - vbawd10.chm156303475
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.LeftPadding
 ms.assetid: ad047ad0-7a50-6905-9e60-3a2275e49a62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.LeftPadding Property (Word)
+# Table.LeftPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the left of the contents of all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the left of the contents of all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).LeftPadding = _
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

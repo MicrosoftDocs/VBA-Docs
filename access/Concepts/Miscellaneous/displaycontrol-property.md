@@ -8,6 +8,7 @@ api_name:
 - Access.DisplayControl
 ms.assetid: 24deeaeb-22dc-b8fe-6c39-e9a2a4d12e2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,3 +40,5 @@ Setting this property and any related control type properties will affect the fi
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

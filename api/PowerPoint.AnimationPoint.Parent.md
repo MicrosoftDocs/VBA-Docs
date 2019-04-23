@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint.Parent Property (PowerPoint)
+title: AnimationPoint.Parent property (PowerPoint)
 keywords: vbapp10.chm664002
 f1_keywords:
 - vbapp10.chm664002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationPoint.Parent
 ms.assetid: e789fe23-b350-1a9c-0093-e6a9230f22a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationPoint.Parent Property (PowerPoint)
+# AnimationPoint.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
+_expression_ A variable that represents an [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [AnimationPoint Object](PowerPoint.AnimationPoint.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

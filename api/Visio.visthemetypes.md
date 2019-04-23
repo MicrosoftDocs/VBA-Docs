@@ -1,15 +1,16 @@
 ---
-title: VisThemeTypes Enumeration (Visio)
+title: VisThemeTypes enumeration (Visio)
 keywords: vis_sdr.chm70520
 f1_keywords:
 - vis_sdr.chm70520
 ms.prod: visio
 ms.assetid: 8e0d9430-d7a2-30b6-feea-2a9e3cd48b70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisThemeTypes Enumeration (Visio)
+# VisThemeTypes enumeration (Visio)
 
 Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNamesU** methods, as well as the **Page.GetTheme** method.
 
@@ -23,3 +24,4 @@ Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNam
 | **visThemeTypeFont**|4|Theme fonts.|
 | **visThemeTypeIndex**|0|Theme indices.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

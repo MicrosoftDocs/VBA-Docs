@@ -1,5 +1,5 @@
 ---
-title: Cell.Parent Property (PowerPoint)
+title: Cell.Parent property (PowerPoint)
 keywords: vbapp10.chm628002
 f1_keywords:
 - vbapp10.chm628002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Cell.Parent
 ms.assetid: 45650dd8-b51d-68ec-d117-5ddb8e8c675f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Parent Property (PowerPoint)
+# Cell.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
+_expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [Cell Object](PowerPoint.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

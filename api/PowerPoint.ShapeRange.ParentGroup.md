@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ParentGroup Property (PowerPoint)
+title: ShapeRange.ParentGroup property (PowerPoint)
 keywords: vbapp10.chm548076
 f1_keywords:
 - vbapp10.chm548076
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.ParentGroup
 ms.assetid: 425aec51-78d8-8e44-7d33-a300af184676
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ParentGroup Property (PowerPoint)
+# ShapeRange.ParentGroup property (PowerPoint)
 
 Returns a  **Shape** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
 ## Syntax
 
- _expression_. `ParentGroup`
+_expression_. `ParentGroup`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -69,3 +70,4 @@ End Sub
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

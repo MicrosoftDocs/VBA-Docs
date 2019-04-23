@@ -1,5 +1,5 @@
 ---
-title: View.Type Property (Word)
+title: View.Type property (Word)
 keywords: vbawd10.chm161808384
 f1_keywords:
 - vbawd10.chm161808384
@@ -8,19 +8,20 @@ api_name:
 - Word.View.Type
 ms.assetid: 0168c7cd-147f-b81b-2a56-3c3f751cc4b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Type Property (Word)
+# View.Type property (Word)
 
-Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)** .
+Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
+_expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Remarks
@@ -64,3 +65,4 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintPreview
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

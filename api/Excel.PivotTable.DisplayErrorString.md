@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.DisplayErrorString
 ms.assetid: 57ec3e1f-b6ea-dfd0-996e-6efa48bd9793
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.DisplayErrorString property (Excel)
 
- **True** if the PivotTable report displays a custom error string in cells that contain errors. The default value is **False** . Read/write **Boolean** .
+ **True** if the PivotTable report displays a custom error string in cells that contain errors. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayErrorString`
+_expression_. `DisplayErrorString`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End With
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

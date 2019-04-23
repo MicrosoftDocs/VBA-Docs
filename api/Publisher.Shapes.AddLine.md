@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLine Method (Publisher)
+title: Shapes.AddLine method (Publisher)
 keywords: vbapb10.chm2162708
 f1_keywords:
 - vbapb10.chm2162708
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddLine
 ms.assetid: 43df8878-5640-875f-06e0-37e1feb47b78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLine Method (Publisher)
+# Shapes.AddLine method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddLine**(**_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+_expression_.**AddLine**(**_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -58,4 +59,4 @@ Set shpLine = ActiveDocument.Pages(1).Shapes.AddLine _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

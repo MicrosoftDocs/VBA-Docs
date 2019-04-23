@@ -1,14 +1,15 @@
 ---
-title: WdOMathBreakBin Enumeration (Word)
+title: WdOMathBreakBin enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathBreakBin
 ms.assetid: cd578a4e-6c71-3400-0631-f2b555d4b693
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdOMathBreakBin Enumeration (Word)
+# WdOMathBreakBin enumeration (Word)
 
 Specifies where Microsoft Word places binary operators when equations span two or more lines.
 
@@ -20,3 +21,4 @@ Specifies where Microsoft Word places binary operators when equations span two o
 | **wdOMathBreakBinBefore**|0|Places the operator after a line break, at the beginning of the following line.|
 | **wdOMathBreakBinRepeat**|2|Repeats the operator before a line break at the end of the line and after a line break at the beginning of the following line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

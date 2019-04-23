@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.AddOnName Property (Visio)
+title: ToolbarItem.AddOnName property (Visio)
 keywords: vis_sdr.chm13513050
 f1_keywords:
 - vis_sdr.chm13513050
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarItem.AddOnName
 ms.assetid: 1903a362-b312-06dd-55cf-ab053fd513b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarItem.AddOnName Property (Visio)
+# ToolbarItem.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated toolbar button is clicked. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
@@ -48,4 +49,4 @@ If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** pro
 
  **Note**  Beginning with Visio 2002, the  **AddOnName** property cannot execute a string that contains arbitrary VBA code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move the code to a procedure in a document's VBA project that is called from the **AddOnName** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

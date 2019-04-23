@@ -3,6 +3,7 @@ title: Using the Form Region XML Manifest to Define a Form Region
 ms.prod: outlook
 ms.assetid: a1c150b1-a6ee-6f16-9798-82d253cbcc6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,7 +22,7 @@ You can specify the functionality, behavior, and other innate properties of a fo
 | **formRegionType**|Specify a form region to occupy part of a page or an entire page of a form.| [How to: Specify the Location of a Form Region in a Custom Form](specify-the-location-of-a-form-region-in-a-custom-form.md)|
 | **displayAfter**|Order multiple form regions in a custom form.| [How to: Specify the Location of a Form Region in a Custom Form](specify-the-location-of-a-form-region-in-a-custom-form.md)|
 | **layoutFile**|Specify a layout file for a form region.| [How to: Specify a Layout File for a Form Region](specify-a-layout-file-for-a-form-region.md)|
-| **showInspectorCompose**|Prevent the inspector from displaying a form region when you are composing a message.| [How to: Prevent the Inspector from Displaying a Form Region When You are Composing a Message ](prevent-the-inspector-from-displaying-a-form-region-when-you-are-composing-a-mes.md)|
+| **showInspectorCompose**|Prevent the inspector from displaying a form region when you are composing a message.| [How to: Prevent the Inspector from Displaying a Form Region When You are Composing a Message](prevent-the-inspector-from-displaying-a-form-region-when-you-are-composing-a-mes.md)|
 | **showInspectorRead**|Prevent the inspector from displaying a form region when you are reading a message.| [How to: Prevent the Inspector from Displaying a Form Region When You are Reading a Message](prevent-the-inspector-from-displaying-a-form-region-when-you-are-reading-a-messa.md)|
 | **showReadingPane**|Prevent the Reading Pane from displaying a form region when you are previewing a message.| [How to: Prevent the Reading Pane from Displaying a Form Region When You are Previewing a Message](prevent-the-reading-pane-from-displaying-a-form-region-when-you-are-previewing-a.md)|
 | **hidden**|Prevent a form region from being modified in the Forms Designer.| [How to: Prevent a Replacement Form Region from Being Used to Create a New Item or from Being Modified in the Forms Designer](prevent-a-replacement-form-region-from-being-used-to-create-a-new-item-or-from-b.md)|
@@ -31,3 +32,4 @@ You can specify the functionality, behavior, and other innate properties of a fo
 | **icons** and its child elements|Specify custom icons for a form region.| [How to: Specify Icons to be Displayed for a Form Region](../Configuring-Forms/specify-icons-to-be-displayed-for-a-form-region.md)|
 | **stringOverride** and its child elements|Specify locale-specific strings in the user interface of a form region.| [How to: Specify Locale-Specific User Interface for a Form Region](specify-locale-specific-user-interface-for-a-form-region.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

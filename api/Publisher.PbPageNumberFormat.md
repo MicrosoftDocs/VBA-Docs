@@ -1,5 +1,5 @@
 ---
-title: PbPageNumberFormat Enumeration (Publisher)
+title: PbPageNumberFormat enumeration (Publisher)
 keywords: vbapb10.chm65618
 f1_keywords:
 - vbapb10.chm65618
@@ -8,12 +8,13 @@ api_name:
 - Publisher.PbPageNumberFormat
 ms.assetid: 0c23a61f-4267-fb6e-7483-ef366fd0c772
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbPageNumberFormat Enumeration (Publisher)
+# PbPageNumberFormat enumeration (Publisher)
 
-Reperesents the formatting of the page numbering.
+Represents the formatting of the page numbering.
 
 
 
@@ -64,3 +65,4 @@ Reperesents the formatting of the page numbering.
 | **pbPageNumberFormatZodiac1**|30|Zodiac1|
 | **pbPageNumberFormatZodiac2**|31|Zodiac2|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

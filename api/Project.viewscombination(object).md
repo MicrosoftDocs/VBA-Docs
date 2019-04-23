@@ -1,12 +1,13 @@
 ---
-title: ViewsCombination Object (Project)
+title: ViewsCombination object (Project)
 ms.prod: project-server
 ms.assetid: eb9549ed-d6af-29ba-0e11-74984d954f38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewsCombination Object (Project)
+# ViewsCombination object (Project)
 
 Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** objects.
  
@@ -16,7 +17,7 @@ Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ViewsCombination.Add.md)|
 |[Copy](Project.ViewsCombination.Copy.md)|
@@ -25,7 +26,7 @@ Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ViewsCombination.Application.md)|
 |[Count](Project.ViewsCombination.Count.md)|
@@ -37,3 +38,5 @@ Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** obje
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

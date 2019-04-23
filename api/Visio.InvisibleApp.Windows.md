@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.Windows Property (Visio)
+title: InvisibleApp.Windows property (Visio)
 keywords: vis_sdr.chm17514665
 f1_keywords:
 - vis_sdr.chm17514665
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.Windows
 ms.assetid: acabb5fc-b55b-b3d4-032d-db8947eb7a12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.Windows Property (Visio)
+# InvisibleApp.Windows property (Visio)
 
 Returns the  **Windows** collection for a Microsoft Visio instance or window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Windows`( `_lpdispRet_` )
+_expression_. `Windows`( `_lpdispRet_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Windows_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Find a record in a dynaset-type or snapshot-type DAO Recordset
 ms.prod: access
 ms.assetid: f79f47e1-63a9-774d-4d07-32759ac30c8b
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -94,4 +95,4 @@ ErrorHandler:
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

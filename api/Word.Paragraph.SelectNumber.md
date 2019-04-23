@@ -1,5 +1,5 @@
 ---
-title: Paragraph.SelectNumber Method (Word)
+title: Paragraph.SelectNumber method (Word)
 keywords: vbawd10.chm156696911
 f1_keywords:
 - vbawd10.chm156696911
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.SelectNumber
 ms.assetid: 9b5999d4-da07-8a32-4aa9-9b62f9cd9e31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.SelectNumber Method (Word)
+# Paragraph.SelectNumber method (Word)
 
 Selects the number or bullet in a list.
 
 
 ## Syntax
 
- _expression_. `SelectNumber`
+_expression_. `SelectNumber`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End Sub
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

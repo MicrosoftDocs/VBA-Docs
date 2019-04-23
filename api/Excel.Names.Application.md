@@ -8,6 +8,7 @@ api_name:
 - Excel.Names.Application
 ms.assetid: 228b18d7-7712-0858-a0e2-7d034f9036e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Names](Excel.Names.md) object.
+_expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Names Object](Excel.Names.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

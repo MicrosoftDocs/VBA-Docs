@@ -1,15 +1,16 @@
 ---
-title: Templates Object (Word)
+title: Templates object (Word)
 keywords: vbawd10.chm2466
 f1_keywords:
 - vbawd10.chm2466
 ms.prod: word
 ms.assetid: de62f768-011a-7446-48c3-1c4512da5f7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Templates Object (Word)
+# Templates object (Word)
 
 A collection of  **[Template](Word.Template.md)** objects that represent all the templates that are currently available. This collection includes open templates, templates attached to open documents, and global templates loaded in the **Templates and Add-ins** dialog box.
 
@@ -70,5 +71,6 @@ MsgBox Options.DefaultFilePath(wdUserTemplatePath)
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

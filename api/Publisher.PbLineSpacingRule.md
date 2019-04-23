@@ -1,5 +1,5 @@
 ---
-title: PbLineSpacingRule Enumeration (Publisher)
+title: PbLineSpacingRule enumeration (Publisher)
 keywords: vbapb10.chm65552
 f1_keywords:
 - vbapb10.chm65552
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbLineSpacingRule
 ms.assetid: 64a5742e-b361-8e9a-31e4-8953b23ded14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbLineSpacingRule Enumeration (Publisher)
+# PbLineSpacingRule enumeration (Publisher)
 
 Represents the line spacing for the specified paragraphs.
 
@@ -26,3 +27,4 @@ Represents the line spacing for the specified paragraphs.
 | **pbLineSpacingMultiple**|5|A  **LineSpacing** property value must be specified, in number of lines.|
 | **pbLineSpacingSingle**|0|Sets paragraph line spacing to one space.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

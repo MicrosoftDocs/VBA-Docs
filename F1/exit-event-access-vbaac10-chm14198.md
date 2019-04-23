@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c689800d-6026-4091-b44a-92f3f5164c06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Exit event (Access)](http://msdn.microsoft.com/library/05b5afca-4cb9-f12b-e05b-8702e35380d0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

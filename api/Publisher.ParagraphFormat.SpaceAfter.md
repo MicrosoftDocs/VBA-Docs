@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceAfter Property (Publisher)
+title: ParagraphFormat.SpaceAfter property (Publisher)
 keywords: vbapb10.chm5439496
 f1_keywords:
 - vbapb10.chm5439496
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.SpaceAfter
 ms.assetid: 52f65636-862d-442e-e66f-5ff5c79ee7b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.SpaceAfter Property (Publisher)
+# ParagraphFormat.SpaceAfter property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of spacing (in points) after one or more paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **SpaceAfter**
+_expression_.**SpaceAfter**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -58,4 +59,4 @@ Sub SetSpacingBeforeAfterAllParagraph()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

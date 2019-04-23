@@ -1,5 +1,5 @@
 ---
-title: Options.AllowClickAndTypeMouse Property (Word)
+title: Options.AllowClickAndTypeMouse property (Word)
 keywords: vbawd10.chm162988445
 f1_keywords:
 - vbawd10.chm162988445
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AllowClickAndTypeMouse
 ms.assetid: 40b6f33c-a577-ff1e-6f7c-46b971e34cab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AllowClickAndTypeMouse Property (Word)
+# Options.AllowClickAndTypeMouse property (Word)
 
- **True** if Click and Type functionality is enabled. Read/write **Boolean** .
+ **True** if Click and Type functionality is enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowClickAndTypeMouse`
+_expression_. `AllowClickAndTypeMouse`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

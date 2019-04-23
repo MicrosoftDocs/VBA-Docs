@@ -1,5 +1,5 @@
 ---
-title: PageBackground.Create Method (Publisher)
+title: PageBackground.Create method (Publisher)
 keywords: vbapb10.chm8126469
 f1_keywords:
 - vbapb10.chm8126469
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PageBackground.Create
 ms.assetid: a9b699c4-067a-2c68-5f9b-ee7ba0c22cbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageBackground.Create Method (Publisher)
+# PageBackground.Create method (Publisher)
 
 Creates a new  **PageBackground** object for the specified **Page** object.
 
 
 ## Syntax
 
- _expression_. **Create**
+_expression_.**Create**
 
  _expression_ A variable that represents a  **PageBackground** object.
 
@@ -39,4 +40,4 @@ If ActiveDocument.Pages(1).Background.Exists = False Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

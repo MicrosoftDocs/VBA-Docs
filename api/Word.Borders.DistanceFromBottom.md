@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFromBottom Property (Word)
+title: Borders.DistanceFromBottom property (Word)
 keywords: vbawd10.chm154927125
 f1_keywords:
 - vbawd10.chm154927125
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.DistanceFromBottom
 ms.assetid: 97184500-0536-33ed-1552-80ea829f0e30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.DistanceFromBottom Property (Word)
+# Borders.DistanceFromBottom property (Word)
 
-Returns or sets the space (in points) between the text and the bottom border. Read/write  **Long** .
+Returns or sets the space (in points) between the text and the bottom border. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `DistanceFromBottom`
+_expression_. `DistanceFromBottom`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 
@@ -66,3 +67,4 @@ Next tableLoop
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

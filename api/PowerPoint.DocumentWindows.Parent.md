@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Parent Property (PowerPoint)
+title: DocumentWindows.Parent property (PowerPoint)
 keywords: vbapp10.chm509002
 f1_keywords:
 - vbapp10.chm509002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindows.Parent
 ms.assetid: c0b45972-9677-b14a-e1fa-ae20b3afa3c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindows.Parent Property (PowerPoint)
+# DocumentWindows.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
+_expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 
 
 ## Return value
@@ -50,3 +51,4 @@ End With
 
 [DocumentWindows Object](PowerPoint.DocumentWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

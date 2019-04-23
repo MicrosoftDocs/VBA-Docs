@@ -8,6 +8,7 @@ api_name:
 - Access.AcWebUserGroupsDisplay
 ms.assetid: f9036c50-5fa3-63ec-f569-a058e48057da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,10 +16,11 @@ ms.date: 06/08/2017
 
 Specifies the type of information to return about the group membership of the current user of a Web database.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acWebUserGroupID**|0|The identifiers of the groups.|
 |**acWebUserGroupName**|1|The names of the groups.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

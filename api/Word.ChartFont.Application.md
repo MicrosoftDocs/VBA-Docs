@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Application Property (Word)
+title: ChartFont.Application property (Word)
 keywords: vbawd10.chm255918228
 f1_keywords:
 - vbawd10.chm255918228
@@ -8,24 +8,25 @@ api_name:
 - Word.ChartFont.Application
 ms.assetid: 0e285551-9e4b-6e8b-24d7-179360b7bb69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.Application Property (Word)
+# ChartFont.Application property (Word)
 
 When used without an object qualifier, returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
 
 ## Example
 
-The following example displays a message about the application that created  `myObject`.
+The following example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

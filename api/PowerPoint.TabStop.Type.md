@@ -1,5 +1,5 @@
 ---
-title: TabStop.Type Property (PowerPoint)
+title: TabStop.Type property (PowerPoint)
 keywords: vbapp10.chm574003
 f1_keywords:
 - vbapp10.chm574003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TabStop.Type
 ms.assetid: f00b0cc7-ca2b-56e7-df03-e992456f44dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStop.Type Property (PowerPoint)
+# TabStop.Type property (PowerPoint)
 
 Represents the formatting of a tab stop. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [TabStop](./PowerPoint.TabStop.md) object.
 
@@ -46,3 +47,4 @@ The value of the  **Type** property can be one of these **PpTabStopType** consta
 
 [TabStop Object](PowerPoint.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

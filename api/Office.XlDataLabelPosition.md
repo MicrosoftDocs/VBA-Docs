@@ -1,18 +1,19 @@
 ---
-title: xlDataLabelPosition Enumeration (Office)
+title: XlDataLabelPosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlDataLabelPosition
 ms.assetid: 943ca7ac-761c-a0ed-0f5b-4a6ab4a75300
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# xlDataLabelPosition Enumeration (Office)
+# XlDataLabelPosition enumeration (Office)
 
 Indicates the position of data labels relative to the data markers.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -28,3 +29,4 @@ Indicates the position of data labels relative to the data markers.
 |**xlLabelPositionOutsideEnd**|2|Data label positioned at top of bar or pie.|
 |**xlLabelPositionRight**|-4152|Data label positioned at top of bar or pie.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

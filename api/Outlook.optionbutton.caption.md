@@ -3,6 +3,7 @@ title: OptionButton.Caption Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8e6a50b2-fe72-099a-cf2c-3e415d1a9059
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 ## Syntax
 
- _expression_. **Caption**
+_expression_.**Caption**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ The  **[ForeColor](Outlook.optionbutton.forecolor.md)** property of the control 
 
 Setting  **[AutoSize](Outlook.optionbutton.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

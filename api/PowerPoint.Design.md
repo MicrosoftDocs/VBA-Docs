@@ -1,5 +1,5 @@
 ---
-title: Design Object (PowerPoint)
+title: Design object (PowerPoint)
 keywords: vbapp10.chm644000
 f1_keywords:
 - vbapp10.chm644000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Design
 ms.assetid: 3b02c779-8313-9512-c8d9-cf8a3883229f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Design Object (PowerPoint)
+# Design object (PowerPoint)
 
 Represents an individual slide design template. The  **Design** object is a member of the **[Designs](PowerPoint.Designs.md)** and **[SlideRange](PowerPoint.SlideRange.md)** collections and the **[Master](PowerPoint.Master.md)** and **[Slide](PowerPoint.Slide.md)** objects.
 
@@ -51,3 +52,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

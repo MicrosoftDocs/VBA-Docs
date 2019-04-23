@@ -8,19 +8,20 @@ api_name:
 - Excel.ProtectedViewWindow.Height
 ms.assetid: 32d5baad-2c78-02ad-7814-f703889f8a36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ProtectedViewWindow.Height property (Excel)
 
-Returns or sets a value that represents the height, in points, of the  **Protected View** window. Read/write
+Returns or sets a value that represents the height, in [points](../language/glossary/vbe-glossary.md#point), of the Protected View window. Read/write
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_.**Height**
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets a value that represents the height, in points, of the  **Protect
 
 ## Remarks
 
-You cannot set this property if the  **Protected View** window is maximized or minimized. Use the **[WindowState](Excel.ProtectedViewWindow.WindowState.md)** property to determine the window state.
+You cannot set this property if the Protected View window is maximized or minimized. Use the **[WindowState](Excel.ProtectedViewWindow.WindowState.md)** property to determine the window state.
 
 
 ## See also
@@ -38,3 +39,4 @@ You cannot set this property if the  **Protected View** window is maximized or m
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

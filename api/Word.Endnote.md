@@ -1,5 +1,5 @@
 ---
-title: Endnote Object (Word)
+title: Endnote object (Word)
 keywords: vbawd10.chm2366
 f1_keywords:
 - vbawd10.chm2366
@@ -8,10 +8,11 @@ api_name:
 - Word.Endnote
 ms.assetid: 01f29be4-58e7-28f5-5fcb-dae50c33890e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnote Object (Word)
+# Endnote object (Word)
 
 Represents an endnote. The  **Endnote** object is a member of the **Endnotes** collection, which represents the endnotes in a selection, range, or document.
 
@@ -42,6 +43,6 @@ ActiveDocument.Endnotes.Add Range:=Selection.Range , _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

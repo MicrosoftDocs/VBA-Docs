@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Delete Method (Word)
+title: Bookmark.Delete method (Word)
 keywords: vbawd10.chm157810699
 f1_keywords:
 - vbawd10.chm157810699
@@ -8,19 +8,20 @@ api_name:
 - Word.Bookmark.Delete
 ms.assetid: d5b43d2b-b605-1631-b111-9ba851d0ef1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmark.Delete Method (Word)
+# Bookmark.Delete method (Word)
 
 Deletes the specified bookmark.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
+_expression_ Required. A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
 
 ## Example
@@ -52,3 +53,4 @@ End Sub
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Label.MouseIcon Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 6cbc5361-fd1a-5990-31c8-b294fee9dbb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns a  **String** that represents the full path name of a custom icon that i
 
 ## Syntax
 
- _expression_. **MouseIcon**
+_expression_.**MouseIcon**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ The  **MouseIcon** property is valid when the **[MousePointer](Outlook.label.mou
 
 To assign an image for the mouse pointer, you can either assign a picture to the  **MouseIcon** property or load a picture from a file using the **LoadPicture** function in Visual Basic Scripting Edition.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

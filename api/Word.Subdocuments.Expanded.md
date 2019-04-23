@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Expanded Property (Word)
+title: Subdocuments.Expanded property (Word)
 keywords: vbawd10.chm159907842
 f1_keywords:
 - vbawd10.chm159907842
@@ -8,17 +8,18 @@ api_name:
 - Word.Subdocuments.Expanded
 ms.assetid: 99879e46-d762-64e8-fa07-c88f3dceb3eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocuments.Expanded Property (Word)
+# Subdocuments.Expanded property (Word)
 
- **True** if the subdocuments in the specified document are expanded. Read/write **Boolean** .
+ **True** if the subdocuments in the specified document are expanded. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Expanded`
+_expression_. `Expanded`
 
  _expression_ A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
@@ -63,3 +64,4 @@ End If
 
 [Subdocuments Collection Object](Word.subdocuments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

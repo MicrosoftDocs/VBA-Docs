@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.DatabaseSort
 ms.assetid: 18c75552-0993-24b6-e31f-7912e69ac933
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.DatabaseSort property (Excel)
 
-When set to  **True** , manual repositioning of items in a PivotTable field is allowed. Returns **True** , if the field has no manually positioned items. Read/write **Boolean** .
+When set to  **True**, manual repositioning of items in a PivotTable field is allowed. Returns **True**, if the field has no manually positioned items. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DatabaseSort`
+_expression_. `DatabaseSort`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ The  **DatabaseSort** property returns **False** if the data source is not an On
 
 This property returns  **True** if the data source is OLAP and neither custom ordering nor automatic sorting has been applied to the field.
 
-Setting the  **DatabaseSort** property to **True** , for an OLAP PivotTable, will remove any custom ordering or automatic sort applied to the field (in other words, the PivotTable reverts to the default behavior when the connection was made).
+Setting the  **DatabaseSort** property to **True**, for an OLAP PivotTable, will remove any custom ordering or automatic sort applied to the field (in other words, the PivotTable reverts to the default behavior when the connection was made).
 
 Setting the  **DatabaseSort** property to **False** will cause the sort order to be the current order of the items, if no automatic sort is applied.
 
@@ -68,3 +69,4 @@ End Sub
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

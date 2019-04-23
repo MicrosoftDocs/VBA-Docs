@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Percentile Method (Excel)
+title: WorksheetFunction.Percentile method (Excel)
 keywords: vbaxl10.chm137232
 f1_keywords:
 - vbaxl10.chm137232
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Percentile
 ms.assetid: a4918744-a7b1-28f9-4591-58c5ebf25c10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Percentile Method (Excel)
+# WorksheetFunction.Percentile method (Excel)
 
 Returns the k-th percentile of values in a range. You can use this function to establish a threshold of acceptance. For example, you can decide to examine candidates who score above the 90th percentile.
 
@@ -22,9 +23,9 @@ For more information about the new functions, see the [Percentile_Inc](Excel.Wor
 
 ## Syntax
 
- _expression_. `Percentile`( `_Arg1_` , `_Arg2_` )
+_expression_. `Percentile`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

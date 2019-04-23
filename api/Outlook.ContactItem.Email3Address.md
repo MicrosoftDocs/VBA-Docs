@@ -1,5 +1,5 @@
 ---
-title: ContactItem.Email3Address Property (Outlook)
+title: ContactItem.Email3Address property (Outlook)
 keywords: vbaol11.chm999
 f1_keywords:
 - vbaol11.chm999
@@ -8,24 +8,25 @@ api_name:
 - Outlook.ContactItem.Email3Address
 ms.assetid: b0f29077-a06c-a2cf-e873-b9d560d91498
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.Email3Address Property (Outlook)
+# ContactItem.Email3Address property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the third e-mail entry for the contact. Read/write.
+Returns or sets a  **String** representing the email address of the third email entry for the contact. Read/write.
 
 
 ## Syntax
 
- _expression_. `Email3Address`
+_expression_. `Email3Address`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example sets "someone@example.com" as the e-mail address for the third e-mail entry of a contact.
+This Visual Basic for Applications (VBA) example sets "someone@example.com" as the email address for the third email entry of a contact.
 
 
 ```vb
@@ -50,3 +51,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

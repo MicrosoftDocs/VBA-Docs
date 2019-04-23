@@ -1,5 +1,5 @@
 ---
-title: Selection.Join Method (Visio)
+title: Selection.Join method (Visio)
 keywords: vis_sdr.chm11116380
 f1_keywords:
 - vis_sdr.chm11116380
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Join
 ms.assetid: e176abcc-edd1-0e40-afc8-e05ed8dec998
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Join Method (Visio)
+# Selection.Join method (Visio)
 
 Creates a new shape by joining selected shapes.
 
 
 ## Syntax
 
- _expression_. `Join`
+_expression_. `Join`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -47,4 +48,4 @@ The  **Join** method and the **Combine** method are similar but differ in the fo
 
 You might want to join shapes after importing a non-Visio drawing in which apparent polylines are represented by many independent shapes, each possessing a single line or curve segment. By joining the shapes that constitute a polyline in such a drawing, you can replace many single-segment shapes with one multiple-segment shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

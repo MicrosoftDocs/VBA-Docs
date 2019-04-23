@@ -8,19 +8,20 @@ api_name:
 - Excel.Pages.Count
 ms.assetid: 8057db6b-1f13-3950-5508-0bbcec892359
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Pages.Count property (Excel)
 
-Returns the number of objects in the collection. Read-only  **Long** .
+Returns the number of objects in the collection. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [Pages](Excel.Pages.md) object.
+_expression_ A variable that represents a [Pages](Excel.Pages.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the number of objects in the collection. Read-only  **Long** .
 
 [Pages Object](Excel.Pages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

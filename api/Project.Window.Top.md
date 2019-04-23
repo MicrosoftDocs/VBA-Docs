@@ -1,21 +1,22 @@
 ---
-title: Window.Top Property (Project)
+title: Window.Top property (Project)
 ms.prod: project-server
 api_name:
 - Project.Window.Top
 ms.assetid: 60aca1d3-5ca5-093f-7828-39974300257f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Top Property (Project)
+# Window.Top property (Project)
 
 Gets or sets the distance in points of the window below the top edge of the window display area. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
@@ -26,4 +27,4 @@ The window display area is below the ribbon in Project and Project. The default 
 
 For the distance of the main window from the top of the screen, see the  **[Top](Project.Application.Top.md)** property of the **Application** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

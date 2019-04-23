@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: d393786f-8f33-ed78-42a3-436e92c2b704
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) object.
+_expression_ A variable that represents a **[ModelTableNameChange](Excel.modeltablenamechange.md)** object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -47,3 +48,4 @@ End If
 
 [ModelTableNameChange Object](Excel.modeltablenamechange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

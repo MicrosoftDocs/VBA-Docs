@@ -3,6 +3,7 @@ title: Attach a File to an Outlook Email Message
 ms.prod: outlook
 ms.assetid: 44721ad9-750c-4813-bcdb-585ffe8b32c5
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 
@@ -108,7 +109,7 @@ namespace AttachFileAddIn
  
             // Retrieve the account that has the specific SMTP address.
             Outlook.Account account = GetAccountForEmailAddress(application, smtpAddress);
-            // Use this account to send the e-mail.
+            // Use this account to send the email.
             newMail.SendUsingAccount = account;
             newMail.Send();
         }
@@ -194,7 +195,7 @@ Public Class ThisAddIn
  
         ' Retrieve the account that has the specific SMTP address.
         Dim account As Outlook.Account = GetAccountForEmailAddress(application, smtpAddress)
-        ' Use this account to send the e-mail.
+        ' Use this account to send the email.
         newMail.SendUsingAccount = account
         newMail.Send()
     End Sub
@@ -227,3 +228,4 @@ End Class
  [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
  [Modify an Attachment of an Outlook Email Message](modify-an-attachment-of-an-outlook-email-message.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

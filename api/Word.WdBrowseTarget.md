@@ -1,14 +1,15 @@
 ---
-title: WdBrowseTarget Enumeration (Word)
+title: WdBrowseTarget enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBrowseTarget
 ms.assetid: 3fe1ffab-84d9-3e76-eceb-32d166e05bad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdBrowseTarget Enumeration (Word)
+# WdBrowseTarget enumeration (Word)
 
 Specifies the document item that the  **[Next](Word.Browser.Next.md)** or **[Previous](Word.Browser.Previous.md)** method locates, and places the insertion point before the next or previous instance of the item.
 
@@ -29,3 +30,4 @@ Specifies the document item that the  **[Next](Word.Browser.Next.md)** or **[Pre
 | **wdBrowseSection**|2|Places insertion point before next or previous section.|
 | **wdBrowseTable**|7|Places insertion point before next or previous table.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

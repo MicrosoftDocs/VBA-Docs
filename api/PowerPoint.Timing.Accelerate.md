@@ -1,5 +1,5 @@
 ---
-title: Timing.Accelerate Property (PowerPoint)
+title: Timing.Accelerate property (PowerPoint)
 keywords: vbapp10.chm653010
 f1_keywords:
 - vbapp10.chm653010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Timing.Accelerate
 ms.assetid: 3e1a7b53-e398-e814-56ed-9df19bb26a0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Timing.Accelerate Property (PowerPoint)
+# Timing.Accelerate property (PowerPoint)
 
 Returns or sets the percentage of the duration over which a timing acceleration should take place. Read/write.
 
 
 ## Syntax
 
- _expression_. `Accelerate`
+_expression_. `Accelerate`
 
  _expression_ A variable that represents an [Timing](./PowerPoint.Timing.md) object.
 
@@ -70,3 +71,4 @@ End Sub
 
 [Timing Object](PowerPoint.Timing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

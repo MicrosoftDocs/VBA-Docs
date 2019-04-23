@@ -1,5 +1,5 @@
 ---
-title: Field.Data Property (Word)
+title: Field.Data property (Word)
 keywords: vbawd10.chm154075141
 f1_keywords:
 - vbawd10.chm154075141
@@ -8,17 +8,18 @@ api_name:
 - Word.Field.Data
 ms.assetid: b6dfba02-c469-4f8e-e48b-fc69d29673be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Data Property (Word)
+# Field.Data property (Word)
 
-Returns or sets data in an ADDIN field. Read/write  **String** .
+Returns or sets data in an ADDIN field. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Data`
+_expression_. `Data`
 
  _expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
@@ -49,3 +50,4 @@ fldTemp.Data = "Hidden information"
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

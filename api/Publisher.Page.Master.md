@@ -1,5 +1,5 @@
 ---
-title: Page.Master Property (Publisher)
+title: Page.Master property (Publisher)
 keywords: vbapb10.chm393222
 f1_keywords:
 - vbapb10.chm393222
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Master
 ms.assetid: f206b4f1-cde3-458d-f26c-a970ad3bd21b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Master Property (Publisher)
+# Page.Master property (Publisher)
 
 Sets or returns a  **[Page](Publisher.Page.md)** object that represents the master page properties for the specified page.
 
 
 ## Syntax
 
- _expression_. **Master**
+_expression_.**Master**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -59,4 +60,4 @@ ActiveDocument.Pages(1).Master = _
  ActiveDocument.Pages(2).Master
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,41 +7,39 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.ForeTint
 ms.assetid: b0ea7b04-962f-bdea-d3c2-8fe9f0bf83e9
-ms.date: 06/08/2017
+ms.date: 03/01/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.ForeTint property (Access)
 
-Gets or sets the tint that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.
+Gets or sets the tint that is applied to the theme color in the **ForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
-_expression_. `ForeTint`
+_expression_.**ForeTint**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The  **ForeTint** property contains a numeric expression that can be used to lighten the theme color in the **ForeColor** property. The default value of the **ForeTint** property is 100, which is neutral, and does not change the theme color. To lighten the color, first determine the percentage by which to lighten from 1 to 100, then subtract that value as a whole number from 100 and use the remainder. For example, to lighten the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
+The **ForeTint** property contains a numeric expression that can be used to lighten the theme color in the **ForeColor** property. The default value of the **ForeTint** property is 100, which is neutral, and does not change the theme color.
 
-This property is not surfaced in the property sheet. 
+To lighten the color, first determine the percentage by which to lighten from 1 to 100, and then subtract that value as a whole number from 100 and use the remainder. For example, to lighten the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
+
+This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example lightens the  **ForeColor** by 75%.
-
+The following code example lightens the **ForeColor** property by 75%.
 
 ```vb
 Me.ctl.ForeTint=25
 ```
 
 
-## See also
-
-
-[ToggleButton Object](Access.ToggleButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

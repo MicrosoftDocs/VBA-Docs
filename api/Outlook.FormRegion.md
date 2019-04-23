@@ -1,5 +1,5 @@
 ---
-title: FormRegion Object (Outlook)
+title: FormRegion object (Outlook)
 keywords: vbaol11.chm3018
 f1_keywords:
 - vbaol11.chm3018
@@ -8,10 +8,11 @@ api_name:
 - Outlook.FormRegion
 ms.assetid: 3a0b83eb-4076-9cb3-86a9-68f9e44df89f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegion Object (Outlook)
+# FormRegion object (Outlook)
 
 Represents a form region in an Outlook form.
 
@@ -31,7 +32,7 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.FormRegion.Close.md)|
 |[Expanded](Outlook.FormRegion.Expanded.md)|
@@ -40,7 +41,7 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Reflow](Outlook.FormRegion.Reflow.md)|
 |[Select](Outlook.FormRegion.Select.md)|
@@ -50,7 +51,7 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.FormRegion.Application.md)|
 |[Class](Outlook.FormRegion.Class.md)|
@@ -72,4 +73,6 @@ For more infomation on programming a form region, see [Extending a Form Region w
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

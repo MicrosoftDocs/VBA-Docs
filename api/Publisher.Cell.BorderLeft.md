@@ -1,5 +1,5 @@
 ---
-title: Cell.BorderLeft Property (Publisher)
+title: Cell.BorderLeft property (Publisher)
 keywords: vbapb10.chm5111812
 f1_keywords:
 - vbapb10.chm5111812
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.BorderLeft
 ms.assetid: f996a96f-4392-48c2-e5c2-bfe373a7997a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.BorderLeft Property (Publisher)
+# Cell.BorderLeft property (Publisher)
 
 Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the left border for a specified table cell.
 
 
 ## Syntax
 
- _expression_. **BorderLeft**
+_expression_.**BorderLeft**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -77,4 +78,4 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

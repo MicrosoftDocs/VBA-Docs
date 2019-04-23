@@ -1,5 +1,5 @@
 ---
-title: Rows.Count Property (Publisher)
+title: Rows.Count property (Publisher)
 keywords: vbapb10.chm4915202
 f1_keywords:
 - vbapb10.chm4915202
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Rows.Count
 ms.assetid: 790c7616-e9f4-e518-0f4b-6960d144290d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.Count Property (Publisher)
+# Rows.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **Rows** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

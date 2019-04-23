@@ -1,5 +1,5 @@
 ---
-title: Table.AutoFormat Method (Word)
+title: Table.AutoFormat method (Word)
 keywords: vbawd10.chm156303374
 f1_keywords:
 - vbawd10.chm156303374
@@ -8,19 +8,20 @@ api_name:
 - Word.Table.AutoFormat
 ms.assetid: c76452fa-e1e8-3787-726a-b1c9967d96c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.AutoFormat Method (Word)
+# Table.AutoFormat method (Word)
 
 Applies a predefined look to a table.
 
 
 ## Syntax
 
- _expression_. `AutoFormat`( `_Format_` , `_ApplyBorders_` , `_ApplyShading_` , `_ApplyFont_` , `_ApplyColor_` , `_ApplyHeadingRows_` , `_ApplyLastRow_` , `_ApplyFirstColumn_` , `_ApplyLastColumn_` , `_AutoFit_` )
+_expression_. `AutoFormat`( `_Format_` , `_ApplyBorders_` , `_ApplyShading_` , `_ApplyFont_` , `_ApplyColor_` , `_ApplyHeadingRows_` , `_ApplyLastRow_` , `_ApplyFirstColumn_` , `_ApplyLastColumn_` , `_AutoFit_` )
 
- _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
+_expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Parameters
@@ -30,15 +31,15 @@ Applies a predefined look to a table.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Optional| **Variant**|The format to apply. This parameter can be a  **[WdTableFormat](Word.WdTableFormat.md)** constant, a **[WdTableFormatApply](Word.WdTableFormatApply.md)** constant, or a **TableStyle** object.|
-| _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format. The default value is **True** .|
-| _ApplyShading_|Optional| **Variant**| **True** to apply the shading properties of the specified format. The default value is **True** .|
-| _ApplyFont_|Optional| **Variant**| **True** to apply the font properties of the specified format. The default value is **True** .|
-| _ApplyColor_|Optional| **Variant**| **True** to apply the color properties of the specified format. The default value is **True** .|
-| _ApplyHeadingRows_|Optional| **Variant**| **True** to apply the heading-row properties of the specified format. The default value is **True** .|
-| _ApplyLastRow_|Optional| **Variant**| **True** to apply the last-row properties of the specified format. The default value is **False** .|
-| _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format. The default value is **True** .|
-| _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format. The default value is **False** .|
-| _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells. The default value is **True** .|
+| _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format. The default value is **True**.|
+| _ApplyShading_|Optional| **Variant**| **True** to apply the shading properties of the specified format. The default value is **True**.|
+| _ApplyFont_|Optional| **Variant**| **True** to apply the font properties of the specified format. The default value is **True**.|
+| _ApplyColor_|Optional| **Variant**| **True** to apply the color properties of the specified format. The default value is **True**.|
+| _ApplyHeadingRows_|Optional| **Variant**| **True** to apply the heading-row properties of the specified format. The default value is **True**.|
+| _ApplyLastRow_|Optional| **Variant**| **True** to apply the last-row properties of the specified format. The default value is **False**.|
+| _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format. The default value is **True**.|
+| _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format. The default value is **False**.|
+| _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells. The default value is **True**.|
 
 ## Remarks
 
@@ -77,3 +78,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

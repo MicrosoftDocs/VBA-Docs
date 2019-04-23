@@ -1,5 +1,5 @@
 ---
-title: Window.ShowRulers Property (Visio)
+title: Window.ShowRulers property (Visio)
 keywords: vis_sdr.chm11614375
 f1_keywords:
 - vis_sdr.chm11614375
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.ShowRulers
 ms.assetid: 857dc23b-3687-2b52-db6e-358d32a422fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.ShowRulers Property (Visio)
+# Window.ShowRulers property (Visio)
 
 Determines whether rulers are shown in the drawing window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowRulers`
+_expression_. `ShowRulers`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -59,4 +60,4 @@ Public Sub ShowRulers_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

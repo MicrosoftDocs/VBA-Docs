@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (Publisher)
+title: ThreeDFormat.Depth property (Publisher)
 keywords: vbapb10.chm3801344
 f1_keywords:
 - vbapb10.chm3801344
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.Depth
 ms.assetid: b6b46ddb-e3dd-0f9a-1a67-6433bb9ea89a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Depth Property (Publisher)
+# ThreeDFormat.Depth property (Publisher)
 
 Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Read/write.
 
 
 ## Syntax
 
- _expression_. **Depth**
+_expression_.**Depth**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -55,4 +56,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

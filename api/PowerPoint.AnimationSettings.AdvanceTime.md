@@ -1,5 +1,5 @@
 ---
-title: AnimationSettings.AdvanceTime Property (PowerPoint)
+title: AnimationSettings.AdvanceTime property (PowerPoint)
 keywords: vbapp10.chm565009
 f1_keywords:
 - vbapp10.chm565009
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationSettings.AdvanceTime
 ms.assetid: f4e5cec6-ba11-f605-3b3f-c4867fbce315
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationSettings.AdvanceTime Property (PowerPoint)
+# AnimationSettings.AdvanceTime property (PowerPoint)
 
 Returns or sets the amount of time, in seconds, after which the specified shape will become animated. Read/write.
 
 
 ## Syntax
 
- _expression_. `AdvanceTime`
+_expression_. `AdvanceTime`
 
- _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
+_expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ## Return value
@@ -60,3 +61,4 @@ End With
 
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

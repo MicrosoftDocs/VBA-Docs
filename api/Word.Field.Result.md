@@ -1,5 +1,5 @@
 ---
-title: Field.Result Property (Word)
+title: Field.Result property (Word)
 keywords: vbawd10.chm154075140
 f1_keywords:
 - vbawd10.chm154075140
@@ -8,19 +8,20 @@ api_name:
 - Word.Field.Result
 ms.assetid: 97b754cf-6598-63d4-5314-c1bbfacc76ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.Result Property (Word)
+# Field.Result property (Word)
 
 Returns a  **Range** object that represents a field's result. Read/write.
 
 
 ## Syntax
 
- _expression_. `Result`
+_expression_. `Result`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End If
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

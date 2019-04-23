@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 0718b58e-5553-8c08-ea85-83f97eb88998
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,5 @@ The matching field cannot be updated because of a locking conflict with another 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeAssignmentChange Event (Project)
+title: Application.ProjectBeforeAssignmentChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentChange
 ms.assetid: 9d94303c-f8f6-1681-0829-23f240afc570
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeAssignmentChange Event (Project)
+# Application.ProjectBeforeAssignmentChange event (Project)
 
 Occurs before the user changes the value of an assignment field.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeAssignmentChange`( ` _asg_`, ` _Field_`, ` _NewVal_`, ` _Cancel_` )
+_expression_. `ProjectBeforeAssignmentChange`( `_asg_`, `_Field_`, `_NewVal_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ Private Sub App_ProjectBeforeAssignmentChange(ByVal asg As Assignment, ByVal Fie
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.Type Property (Word)
+title: Document.Type property (Word)
 keywords: vbawd10.chm158007306
 f1_keywords:
 - vbawd10.chm158007306
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Type
 ms.assetid: 8fcf6280-5fbc-10bf-95ef-7461c02102d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Type Property (Word)
+# Document.Type property (Word)
 
-Returns the document type (template or document). Read-only  **[WdDocumentType](Word.WdDocumentType.md)** .
+Returns the document type (template or document). Read-only  **[WdDocumentType](Word.WdDocumentType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

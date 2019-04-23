@@ -1,5 +1,5 @@
 ---
-title: XPath.Clear Method (Excel)
+title: XPath.Clear method (Excel)
 keywords: vbaxl10.chm760077
 f1_keywords:
 - vbaxl10.chm760077
@@ -8,19 +8,20 @@ api_name:
 - Excel.XPath.Clear
 ms.assetid: 8d9e0c70-c77e-257f-6ac7-7a8577282ab1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XPath.Clear Method (Excel)
+# XPath.Clear method (Excel)
 
 Clears all XPath schema information for the mapped range. 
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_.**Clear**
 
- _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ This method will produce an error if any of the following conditions are true:
 
 [XPath Object](Excel.XPath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

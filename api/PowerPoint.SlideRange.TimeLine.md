@@ -1,5 +1,5 @@
 ---
-title: SlideRange.TimeLine Property (PowerPoint)
+title: SlideRange.TimeLine property (PowerPoint)
 keywords: vbapp10.chm532035
 f1_keywords:
 - vbapp10.chm532035
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.TimeLine
 ms.assetid: 3d9ad2f6-6d36-dd3d-d564-9bfe97ce08d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.TimeLine Property (PowerPoint)
+# SlideRange.TimeLine property (PowerPoint)
 
 Returns a  **[TimeLine](PowerPoint.TimeLine.md)** object that represents the animation timeline for the slide. Read-only.
 
 
 ## Syntax
 
- _expression_. `TimeLine`
+_expression_. `TimeLine`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -54,3 +55,4 @@ End Sub
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

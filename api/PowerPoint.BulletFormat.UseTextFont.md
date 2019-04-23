@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.UseTextFont Property (PowerPoint)
+title: BulletFormat.UseTextFont property (PowerPoint)
 keywords: vbapp10.chm577007
 f1_keywords:
 - vbapp10.chm577007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.UseTextFont
 ms.assetid: 8d572d8d-bd89-ec94-2484-045306d2730e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.UseTextFont Property (PowerPoint)
+# BulletFormat.UseTextFont property (PowerPoint)
 
 Determines whether the specified bullets are set to the font of the first text character in the paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. `UseTextFont`
+_expression_. `UseTextFont`
 
- _expression_ A variable that represents an [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents an [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -36,7 +37,7 @@ The value of the  **UseTextFont** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified bullets are set to a custom font. |
 |**msoTrue**| The specified bullets are set to the font of the first text character in the paragraph..|
@@ -70,3 +71,4 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

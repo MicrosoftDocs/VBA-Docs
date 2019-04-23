@@ -1,5 +1,5 @@
 ---
-title: Cell Object (PowerPoint)
+title: Cell object (PowerPoint)
 keywords: vbapp10.chm628000
 f1_keywords:
 - vbapp10.chm628000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Cell
 ms.assetid: e89e5d69-33b1-d7b1-0a6c-4dfd8b676977
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell Object (PowerPoint)
+# Cell object (PowerPoint)
 
 Represents a table cell. The  **Cell** object is a member of the **[CellRange](./PowerPoint.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified column or row. To use the **CellRange** collection, use the **Cells** keyword.
 
@@ -71,7 +72,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Merge](./PowerPoint.Cell.Merge.md)|
 |[Select](./PowerPoint.Cell.Select.md)|
@@ -81,7 +82,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Cell.Application.md)|
 |[Borders](./PowerPoint.Cell.Borders.md)|
@@ -92,4 +93,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

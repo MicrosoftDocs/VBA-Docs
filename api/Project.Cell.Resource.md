@@ -1,21 +1,22 @@
 ---
-title: Cell.Resource Property (Project)
+title: Cell.Resource property (Project)
 ms.prod: project-server
 api_name:
 - Project.Cell.Resource
 ms.assetid: 17514412-363a-dd2d-f0b5-97b8fb5d41cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Resource Property (Project)
+# Cell.Resource property (Project)
 
 Gets a  **[Resource](Project.Resource.md)** object representing the resource in the active cell. Read-only **Resource**.
 
 
 ## Syntax
 
- _expression_. `Resource`
+_expression_. `Resource`
 
  _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
@@ -68,4 +69,4 @@ Sub ShowGroupByItems()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

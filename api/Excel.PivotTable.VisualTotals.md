@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.VisualTotals
 ms.assetid: 2bcb64ef-8db8-f62d-5f7d-eb3d5b2fcda5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.VisualTotals property (Excel)
 
- **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean** .
+ **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `VisualTotals`
+_expression_. `VisualTotals`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -29,10 +30,10 @@ In non-OLAP PivotTables, if you hide an item, the total is recomputed to reflect
 
 For OLAP PivotTables, a  **VisualTotals** property setting of **True** (default) works the same way as described for non-OLAP PivotTables.
 
-The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False** .
+The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False**.
 
 
- **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True** .
+ **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True**.
 
 
 ## Example
@@ -64,3 +65,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

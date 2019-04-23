@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (Word)
+title: ShapeNode.SegmentType property (Word)
 keywords: vbawd10.chm164429926
 f1_keywords:
 - vbawd10.chm164429926
@@ -8,24 +8,25 @@ api_name:
 - Word.ShapeNode.SegmentType
 ms.assetid: d6872a73-6021-8a93-5b1f-95e3349cc818
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNode.SegmentType Property (Word)
+# ShapeNode.SegmentType property (Word)
 
-Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only  **MsoSegmentType** .
+Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only  **MsoSegmentType**.
 
 
 ## Syntax
 
- _expression_. `SegmentType`
+_expression_. `SegmentType`
 
- _expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
+_expression_ Required. A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
 
 
 ## Remarks
 
-If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve** .
+If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**.
 
 Use the  **SetSegmentType** method to set the value of this property.
 
@@ -54,3 +55,4 @@ End With
 
 [ShapeNode Object](Word.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.PasteFormatBetweenDocuments Property (Word)
+title: Options.PasteFormatBetweenDocuments property (Word)
 keywords: vbawd10.chm162988510
 f1_keywords:
 - vbawd10.chm162988510
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.PasteFormatBetweenDocuments
 ms.assetid: 5360b2cc-f523-75d7-764c-f3ed88986191
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.PasteFormatBetweenDocuments Property (Word)
+# Options.PasteFormatBetweenDocuments property (Word)
 
 Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied from another Microsoft Office Word document. Read/write.
 
 
 ## Syntax
 
- _expression_. `PasteFormatBetweenDocuments`
+_expression_. `PasteFormatBetweenDocuments`
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 
@@ -33,3 +34,4 @@ Corresponds to the  **Pasting between two documents (without styles)** option in
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

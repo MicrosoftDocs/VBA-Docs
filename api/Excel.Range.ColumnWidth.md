@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.ColumnWidth
 ms.assetid: a6364bb1-2e3d-07d6-20e4-c9fa8f7c5ad3
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the width of all columns in the specified range. Read/write **Do
 
 ## Syntax
 
-_expression_. `ColumnWidth`
+_expression_.**ColumnWidth**
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -31,7 +32,7 @@ Use the **[AutoFit](Excel.Autofit.md)** method to set column widths based on the
 
 Use the **[Width](Excel.Width.md)** property to return the width of a column in points.
 
-If all columns in the range have the same width, the **ColumnWidth** property returns the width. If columns in the range have different widths, this property returns **null** .
+If all columns in the range have the same width, the **ColumnWidth** property returns the width. If columns in the range have different widths, this property returns **null**.
 
 
 ## Example
@@ -50,4 +51,4 @@ End With
 
 - [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 50b6bd25-5043-4d9f-a31b-109f66370c64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.QueryCancelDocumentClose Event (Visio)](http://msdn.microsoft.com/library/f5072662-0b59-ae8d-6cb5-71b9ffd37dd2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

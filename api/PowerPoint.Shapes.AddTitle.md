@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTitle Method (PowerPoint)
+title: Shapes.AddTitle method (PowerPoint)
 keywords: vbapp10.chm543019
 f1_keywords:
 - vbapp10.chm543019
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shapes.AddTitle
 ms.assetid: 1fe13529-526a-1b29-7589-c155f9e46379
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddTitle Method (PowerPoint)
+# Shapes.AddTitle method (PowerPoint)
 
 Restores a previously deleted title placeholder to a slide. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the restored title.
 
 
 ## Syntax
 
- _expression_. `AddTitle`
+_expression_. `AddTitle`
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -64,3 +65,4 @@ End With
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

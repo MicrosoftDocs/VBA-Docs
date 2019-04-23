@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 70641be2-04fc-d8d7-631b-c87e6c270957
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,4 +21,4 @@ Sub Several()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

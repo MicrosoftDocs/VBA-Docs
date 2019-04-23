@@ -5,6 +5,7 @@ api_name:
 - Visio.ReviewerInitial
 ms.assetid: be7bfc55-d4c0-4d7b-c50d-e6106441ca37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the initials of the specified reviewer in the drawing that is open in Micro
 
 ## Syntax
 
- _expression_. **ReviewerInitial**(**_ReviewerIndex_**)
+_expression_.**ReviewerInitial**(**_ReviewerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code gets the initials of the reviewer at index position 1 in the 
 Debug.Print vsoViewer.ReviewerInitial(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

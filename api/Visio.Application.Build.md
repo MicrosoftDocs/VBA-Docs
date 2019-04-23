@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Visio)
+title: Application.Build property (Visio)
 keywords: vis_sdr.chm10050515
 f1_keywords:
 - vis_sdr.chm10050515
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Build
 ms.assetid: 92fcdbe9-dfb1-cd20-4700-796bf7ca17f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Build Property (Visio)
+# Application.Build property (Visio)
 
 Returns the build number of the running instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `Build`
+_expression_. `Build`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Build_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

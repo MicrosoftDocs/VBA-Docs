@@ -1,5 +1,5 @@
 ---
-title: TextStyle.NextParagraphStyle Property (Publisher)
+title: TextStyle.NextParagraphStyle property (Publisher)
 keywords: vbapb10.chm5963784
 f1_keywords:
 - vbapb10.chm5963784
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyle.NextParagraphStyle
 ms.assetid: 2b31b883-c26d-3be8-7145-f8e3cf1ba5cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyle.NextParagraphStyle Property (Publisher)
+# TextStyle.NextParagraphStyle property (Publisher)
 
 Returns or sets a  **String** that represents the paragraph style that follows the specified text style when a user presses ENTER. Read/write.
 
 
 ## Syntax
 
- _expression_. **NextParagraphStyle**
+_expression_.**NextParagraphStyle**
 
  _expression_ A variable that represents a  **TextStyle** object.
 
@@ -54,4 +55,4 @@ Sub CreateNewTextStyle()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

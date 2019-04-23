@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.IsHeader Property (Word)
+title: HeaderFooter.IsHeader property (Word)
 keywords: vbawd10.chm159711235
 f1_keywords:
 - vbawd10.chm159711235
@@ -8,17 +8,18 @@ api_name:
 - Word.HeaderFooter.IsHeader
 ms.assetid: 66c098ed-d0d6-cf58-e26a-b031bc7a6cab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.IsHeader Property (Word)
+# HeaderFooter.IsHeader property (Word)
 
- **True** if the specified **HeaderFooter** object is a header. Read-only **Boolean** .
+ **True** if the specified **HeaderFooter** object is a header. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsHeader`
+_expression_. `IsHeader`
 
  _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
@@ -48,3 +49,4 @@ Selection.HeaderFooter.PageNumbers.Add
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: NewItemAlertRuleAction Object (Outlook)
+title: NewItemAlertRuleAction object (Outlook)
 keywords: vbaol11.chm3171
 f1_keywords:
 - vbaol11.chm3171
@@ -8,10 +8,11 @@ api_name:
 - Outlook.NewItemAlertRuleAction
 ms.assetid: 01d30816-50aa-ff23-69a0-4aa627b3d7e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NewItemAlertRuleAction Object (Outlook)
+# NewItemAlertRuleAction object (Outlook)
 
 Represents an action that displays a new item alert to the user.
 
@@ -27,7 +28,7 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionType](Outlook.NewItemAlertRuleAction.ActionType.md)|
 |[Application](Outlook.NewItemAlertRuleAction.Application.md)|
@@ -40,4 +41,6 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

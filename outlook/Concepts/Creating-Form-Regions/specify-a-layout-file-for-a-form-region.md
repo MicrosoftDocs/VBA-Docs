@@ -3,6 +3,7 @@ title: Specify a Layout File for a Form Region
 ms.prod: outlook
 ms.assetid: fa418f65-a5e5-63fd-6efe-366268994711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ You cannot use file paths expressed in the Universal Naming Convention (UNC) for
 
 If you use an add-in to design and deploy a form region, then you must specify the  **addin** element and must not specify the **layout** element.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

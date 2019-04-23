@@ -1,5 +1,5 @@
 ---
-title: AddIns Object (PowerPoint)
+title: AddIns object (PowerPoint)
 keywords: vbapp10.chm520000
 f1_keywords:
 - vbapp10.chm520000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AddIns
 ms.assetid: 8308fd95-a220-469e-c33b-cc46ad1b27b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIns Object (PowerPoint)
+# AddIns object (PowerPoint)
 
 A collection of  **[AddIn](PowerPoint.AddIn.md)** objects that represent all the Microsoft PowerPoint-specific add-ins available to PowerPoint, regardless of whether or not they are loaded. This does not include Component Object Model (COM) add-ins.
 
@@ -55,3 +56,4 @@ Do not confuse the add-in title with the add-in name, which is the file name of 
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

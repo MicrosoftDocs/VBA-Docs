@@ -8,24 +8,25 @@ api_name:
 - Excel.LineFormat.BeginArrowheadStyle
 ms.assetid: 5f327e3f-d6bf-9709-e6bb-7be7f701899b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # LineFormat.BeginArrowheadStyle property (Excel)
 
-Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** .
+Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)**.
 
 
 ## Syntax
 
- _expression_. `BeginArrowheadStyle`
+_expression_. `BeginArrowheadStyle`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Example
 
-This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its end point.
+This example adds a line to  _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its end point.
 
 
 ```vb
@@ -46,3 +47,4 @@ End With
 
 [LineFormat Object](Excel.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: NameSpace.GetAddressEntryFromID Method (Outlook)
+title: NameSpace.GetAddressEntryFromID method (Outlook)
 keywords: vbaol11.chm784
 f1_keywords:
 - vbaol11.chm784
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.GetAddressEntryFromID
 ms.assetid: 04e9d2c5-231d-35c8-eafa-0e58fbd7a2a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.GetAddressEntryFromID Method (Outlook)
+# NameSpace.GetAddressEntryFromID method (Outlook)
 
 Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry for the specified _ID_ .
 
 
 ## Syntax
 
- _expression_. `GetAddressEntryFromID`( `_ID_` )
+_expression_. `GetAddressEntryFromID`( `_ID_` )
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Outlook maintains a hierarchy of address books for a session, and the address en
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

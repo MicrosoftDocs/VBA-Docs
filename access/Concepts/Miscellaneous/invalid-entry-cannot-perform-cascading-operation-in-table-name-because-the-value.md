@@ -3,6 +3,7 @@ title: Invalid entry. Cannot perform cascading operation in table <name> because
 ms.prod: access
 ms.assetid: 286a606c-72c0-7dab-0dc7-0fba19d683bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ To save your changes to this field, the text you enter must be no longer than th
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

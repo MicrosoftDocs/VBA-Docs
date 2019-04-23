@@ -1,20 +1,21 @@
 ---
-title: Application.ShowReportDataPane Method (Project)
+title: Application.ShowReportDataPane method (Project)
 keywords: vbapj.chm152
 f1_keywords:
 - vbapj.chm152
 ms.prod: project-server
 ms.assetid: 7f0e991a-df7c-9534-45de-50d3839fbac7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ShowReportDataPane Method (Project)
+# Application.ShowReportDataPane method (Project)
 Shows or hides the report data pane, when a chart shape or table shape is selected in a report.
 
 ## Syntax
 
- _expression_. `ShowReportDataPane` _(Show)_
+_expression_. `ShowReportDataPane` _(Show)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -23,7 +24,7 @@ Shows or hides the report data pane, when a chart shape or table shape is select
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** to show the report data pane; **False** to hide the data pane. When the _Show_ parameter is missing, **ShowReportDataPane** toggles the report data pane between visible and not visible.|
 
@@ -50,3 +51,5 @@ If a chart or table is not selected, the  **ShowReportDataPane** method displays
 
 [ReportTable Object](Project.reporttable.md)
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

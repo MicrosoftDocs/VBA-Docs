@@ -1,14 +1,15 @@
 ---
-title: WdTableFieldSeparator Enumeration (Word)
+title: WdTableFieldSeparator enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTableFieldSeparator
 ms.assetid: aca9925a-8f17-5dc3-6c49-1314812e0cfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTableFieldSeparator Enumeration (Word)
+# WdTableFieldSeparator enumeration (Word)
 
 Specifies the character to use to separate text into cells when converting text to a table, or to delimit converted columns when converting a table to text (paragraph marks delimit converted rows).
 
@@ -21,3 +22,4 @@ Specifies the character to use to separate text into cells when converting text 
 | **wdSeparateByParagraphs**|0|Paragraph markers.|
 | **wdSeparateByTabs**|1|A tab.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

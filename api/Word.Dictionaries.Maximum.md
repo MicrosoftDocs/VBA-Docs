@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.Maximum Property (Word)
+title: Dictionaries.Maximum property (Word)
 keywords: vbawd10.chm162267138
 f1_keywords:
 - vbawd10.chm162267138
@@ -8,19 +8,20 @@ api_name:
 - Word.Dictionaries.Maximum
 ms.assetid: fa9f31e0-1965-5d96-568b-e0b8049127e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionaries.Maximum Property (Word)
+# Dictionaries.Maximum property (Word)
 
-Returns the maximum number of custom or conversion dictionaries allowed. Read-only  **Long** .
+Returns the maximum number of custom or conversion dictionaries allowed. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Maximum`
+_expression_. `Maximum`
 
- _expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
+_expression_ Required. A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
 
 
 ## Example
@@ -42,3 +43,4 @@ End If
 
 [Dictionaries Collection Object](Word.dictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

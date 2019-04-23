@@ -8,6 +8,7 @@ api_name:
 - Excel.LeaderLines.Border
 ms.assetid: 9f8eea5d-0885-c2d8-8c52-179e9aa4299f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 ## Syntax
 
- _expression_. `Border`
+_expression_.**Border**
 
- _expression_ A variable that represents a [LeaderLines](Excel.LeaderLines-graph-property.md) object.
+_expression_ A variable that represents a [LeaderLines](Excel.LeaderLines-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 [LeaderLines Object](Excel.LeaderLines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

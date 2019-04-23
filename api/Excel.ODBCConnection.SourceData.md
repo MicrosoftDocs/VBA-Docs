@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.SourceData
 ms.assetid: a23a4c9b-9754-116a-38c8-d71d8f458543
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ODBCConnection.SourceData property (Excel)
 
-Returns the data source for the ODBC connection, as shown in the table. Read/write  **Variant** .
+Returns the data source for the ODBC connection, as shown in the table. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `SourceData`
+_expression_. `SourceData`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks
@@ -42,3 +43,4 @@ This property is not available for OLE DB data sources.
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

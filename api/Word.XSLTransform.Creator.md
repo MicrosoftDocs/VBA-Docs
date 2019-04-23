@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.Creator Property (Word)
+title: XSLTransform.Creator property (Word)
 keywords: vbawd10.chm76743657
 f1_keywords:
 - vbawd10.chm76743657
@@ -8,19 +8,20 @@ api_name:
 - Word.XSLTransform.Creator
 ms.assetid: d70d64c9-72f6-a1cb-fa81-3a9478e7f468
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XSLTransform.Creator Property (Word)
+# XSLTransform.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[XSLTransform](Word.XSLTransform.md)' object.
+_expression_ Required. A variable that represents a '[XSLTransform](Word.XSLTransform.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [XSLTransform Object](Word.XSLTransform.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.IsExcess Property (Publisher)
+title: Shape.IsExcess property (Publisher)
 keywords: vbapb10.chm2228377
 f1_keywords:
 - vbapb10.chm2228377
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.IsExcess
 ms.assetid: 217689d6-7508-92ab-3828-e61fc70f0993
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IsExcess Property (Publisher)
+# Shape.IsExcess property (Publisher)
 
-Indicates whether the parent  **Shape** object is an excess shape after the document template (wizard) is changed by using the ** [Document.ChangeDocument](Publisher.Document.ChangeDocument.md)** method or by using the **Change Template** command in the user interface. Microsoft Publisher places any excess shape under **Extra Content** in the **Format Publication** task pane. Read-only.
+Indicates whether the parent  **Shape** object is an excess shape after the document template (wizard) is changed by using the **[Document.ChangeDocument](Publisher.Document.ChangeDocument.md)** method or by using the **Change Template** command in the user interface. Microsoft Publisher places any excess shape under **Extra Content** in the **Format Publication** task pane. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsExcess**
+_expression_.**IsExcess**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -32,4 +33,4 @@ MsoTriState
 
 Publisher classifies a shape as excess (surplus) if that shape does not fit neatly into the new template after the template is changed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

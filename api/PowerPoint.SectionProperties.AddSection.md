@@ -1,5 +1,5 @@
 ---
-title: SectionProperties.AddSection Method (PowerPoint)
+title: SectionProperties.AddSection method (PowerPoint)
 keywords: vbapp10.chm725009
 f1_keywords:
 - vbapp10.chm725009
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SectionProperties.AddSection
 ms.assetid: bdad42c8-0d2b-91cc-67c5-452abe28d658
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SectionProperties.AddSection Method (PowerPoint)
+# SectionProperties.AddSection method (PowerPoint)
 
 Adds a new section at the specified index position and returns the index of the newly created section.
 
 
 ## Syntax
 
- _expression_. `AddSection`( `_sectionIndex_`, `_sectionName_` )
+_expression_. `AddSection`( `_sectionIndex_`, `_sectionName_` )
 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
@@ -53,3 +54,4 @@ If no sections exist in the presentation, calling this method and passing a sect
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

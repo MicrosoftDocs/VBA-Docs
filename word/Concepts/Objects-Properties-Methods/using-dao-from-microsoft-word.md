@@ -3,6 +3,7 @@ title: Using DAO from Microsoft Word
 ms.prod: word
 ms.assetid: f8c2b535-b912-e7ff-73a0-3b6558aae565
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -56,4 +57,4 @@ Use the  **OpenDatabase** method to connect to a database and open it. After ope
 
 For more information about a specific DAO object, method, or property, see the information about Data Access Objects on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

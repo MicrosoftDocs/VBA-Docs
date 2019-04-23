@@ -1,5 +1,5 @@
 ---
-title: Application.FilePrint Method (Project)
+title: Application.FilePrint method (Project)
 keywords: vbapj.chm109
 f1_keywords:
 - vbapj.chm109
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePrint
 ms.assetid: 47937a14-3c57-a597-0b67-5c095bda8ec7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePrint Method (Project)
+# Application.FilePrint method (Project)
 
 Prints the active view.
 
 
 ## Syntax
 
- _expression_. `FilePrint`( ` _FromPage_`, ` _ToPage_`, ` _PageBreaks_`, ` _Draft_`, ` _Copies_`, ` _FromDate_`, ` _ToDate_`, ` _OnePageWide_`, ` _Preview_`, ` _Color_`, ` _ShowIEPrintDialog_` )
+_expression_. `FilePrint`( `_FromPage_`, `_ToPage_`, `_PageBreaks_`, `_Draft_`, `_Copies_`, `_FromDate_`, `_ToDate_`, `_OnePageWide_`, `_Preview_`, `_Color_`, `_ShowIEPrintDialog_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -71,4 +72,4 @@ The following command prints the active view to the default printer, and shows t
 Application.FilePrint ShowIEPrintDialog:=True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

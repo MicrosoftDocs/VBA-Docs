@@ -1,5 +1,5 @@
 ---
-title: MailItem.GetInspector Property (Outlook)
+title: MailItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1305
 f1_keywords:
 - vbaol11.chm1305
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.GetInspector
 ms.assetid: 9ba8bdbf-1dd5-eaff-3889-33433e3cb3fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.GetInspector Property (Outlook)
+# MailItem.GetInspector property (Outlook)
 
 Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
 
 ## Syntax
 
- _expression_. `GetInspector`
+_expression_. `GetInspector`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -68,3 +69,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

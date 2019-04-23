@@ -1,5 +1,5 @@
 ---
-title: Range.AllocateChanges Method (Excel)
+title: Range.AllocateChanges method (Excel)
 keywords: vbaxl10.chm144253
 f1_keywords:
 - vbaxl10.chm144253
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.AllocateChanges
 ms.assetid: c751c5fb-ce22-64d1-669c-fdb064cf0408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.AllocateChanges Method (Excel)
+# Range.AllocateChanges method (Excel)
 
 Performs a writeback operation for all edited cells in a range based on an OLAP data source.
 
 
 ## Syntax
 
- _expression_. `AllocateChanges`
+_expression_. `AllocateChanges`
 
- _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
+_expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for al
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

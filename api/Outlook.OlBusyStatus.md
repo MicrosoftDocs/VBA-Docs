@@ -1,5 +1,5 @@
 ---
-title: OlBusyStatus Enumeration (Outlook)
+title: OlBusyStatus enumeration (Outlook)
 keywords: vbaol11.chm3053
 f1_keywords:
 - vbaol11.chm3053
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlBusyStatus
 ms.assetid: 4391ccb4-a035-30d1-9693-61b83050b31f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlBusyStatus Enumeration (Outlook)
+# OlBusyStatus enumeration (Outlook)
 
 Indicates a user's availability.
 
@@ -27,6 +28,6 @@ Indicates a user's availability.
 
 ## Remarks
 
-The user's availability is based on scheduled appointments. See [AppointmentItem.BusyStatus Property (Outlook)](Outlook.AppointmentItem.BusyStatus.md).
+The user's availability is based on scheduled appointments. See [AppointmentItem.BusyStatus property (Outlook)](Outlook.AppointmentItem.BusyStatus.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

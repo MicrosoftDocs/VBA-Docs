@@ -1,5 +1,5 @@
 ---
-title: WrapFormat Object (Word)
+title: WrapFormat object (Word)
 keywords: vbawd10.chm2499
 f1_keywords:
 - vbawd10.chm2499
@@ -8,10 +8,11 @@ api_name:
 - Word.WrapFormat
 ms.assetid: 08396db4-f8e0-12fd-2b9f-3a0a61169ac4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat Object (Word)
+# WrapFormat object (Word)
 
 Represents all the properties for wrapping text around a shape or shape range.
 
@@ -39,5 +40,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

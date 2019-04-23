@@ -3,6 +3,7 @@ title: Page.KeepScrollBarsVisible Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 4abf7176-4460-91b6-03e1-291b71db0752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies whether scroll bars remain visibl
 
 ## Syntax
 
- _expression_. **KeepScrollBarsVisible**
+_expression_.**KeepScrollBarsVisible**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -24,7 +25,7 @@ The settings for  **KeepScrollBarsVisible** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays no scroll bars.|
 |1|Displays a horizontal scroll bar.|
@@ -37,4 +38,4 @@ If the scroll bars are visible when they are not required, they appear normal in
 
 If the  **KeepScrollBarsVisible** property is **True**, any scroll bar on a form or page is always visible, regardless of whether the object's contents fit within the object's borders.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

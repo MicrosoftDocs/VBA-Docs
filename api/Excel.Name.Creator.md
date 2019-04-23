@@ -8,19 +8,20 @@ api_name:
 - Excel.Name.Creator
 ms.assetid: 90c6fe07-e941-269f-71bf-e9dc6a982629
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Name.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

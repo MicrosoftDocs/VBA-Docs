@@ -8,6 +8,7 @@ api_name:
 - Excel.Error.Value
 ms.assetid: 66a219d0-580d-899a-a19a-16145eddfa53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents an [Error](Excel.Error.md) object.
+_expression_ A variable that represents an [Error](Excel.Error.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 
 [Error Object](Excel.Error.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

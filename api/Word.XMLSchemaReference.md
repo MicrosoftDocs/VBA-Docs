@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference Object (Word)
+title: XMLSchemaReference object (Word)
 keywords: vbawd10.chm496
 f1_keywords:
 - vbawd10.chm496
@@ -8,10 +8,11 @@ api_name:
 - Word.XMLSchemaReference
 ms.assetid: 54142ef1-f731-3f82-2dc0-809d8a041b73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLSchemaReference Object (Word)
+# XMLSchemaReference object (Word)
 
 Represents an individual schema that is attached to a document.
 
@@ -41,6 +42,6 @@ Next
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

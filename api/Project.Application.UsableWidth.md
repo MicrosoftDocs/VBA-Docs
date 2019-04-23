@@ -1,5 +1,5 @@
 ---
-title: Application.UsableWidth Property (Project)
+title: Application.UsableWidth property (Project)
 keywords: vbapj.chm132778
 f1_keywords:
 - vbapj.chm132778
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.UsableWidth
 ms.assetid: ccc312da-6794-657d-7c76-e3e8549e2da7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UsableWidth Property (Project)
+# Application.UsableWidth property (Project)
 
 Gets the maximum width available for a project window in points. Read-only Double.
 
 
 ## Syntax
 
- _expression_. `UsableWidth`
+_expression_. `UsableWidth`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -61,4 +62,4 @@ Sub FitWindows()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

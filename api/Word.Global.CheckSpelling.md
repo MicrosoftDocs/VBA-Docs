@@ -1,5 +1,5 @@
 ---
-title: Global.CheckSpelling Method (Word)
+title: Global.CheckSpelling method (Word)
 keywords: vbawd10.chm163119428
 f1_keywords:
 - vbawd10.chm163119428
@@ -8,19 +8,20 @@ api_name:
 - Word.Global.CheckSpelling
 ms.assetid: eb264c56-090f-b1af-3d0b-5ee5190345b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.CheckSpelling Method (Word)
+# Global.CheckSpelling method (Word)
 
 Checks a string for spelling errors. Returns a  **Boolean** to indicate whether the string contains spelling errors. **True** if the string has no spelling errors.
 
 
 ## Syntax
 
- _expression_. `CheckSpelling`( `_Word_` , `_CustomDictionary_` , `_IgnoreUppercase_` , `_MainDictionary_` , `_CustomDictionary2_` , `_CustomDictionary3_` , `_CustomDictionary4_` , `_CustomDictionary5_` , `_CustomDictionary6_` , `_CustomDictionary7_` , `_CustomDictionary8_` , `_CustomDictionary9_` , `_CustomDictionary10_` )
+_expression_. `CheckSpelling`( `_Word_` , `_CustomDictionary_` , `_IgnoreUppercase_` , `_MainDictionary_` , `_CustomDictionary2_` , `_CustomDictionary3_` , `_CustomDictionary4_` , `_CustomDictionary5_` , `_CustomDictionary6_` , `_CustomDictionary7_` , `_CustomDictionary8_` , `_CustomDictionary9_` , `_CustomDictionary10_` )
 
- _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
+_expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Boolean
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

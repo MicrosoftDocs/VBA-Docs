@@ -1,5 +1,5 @@
 ---
-title: TextFrame.VerticalTextAlignment Property (Publisher)
+title: TextFrame.VerticalTextAlignment property (Publisher)
 keywords: vbapb10.chm3866660
 f1_keywords:
 - vbapb10.chm3866660
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.VerticalTextAlignment
 ms.assetid: cd809f00-b092-c483-fe99-2aa8043fb684
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.VerticalTextAlignment Property (Publisher)
+# TextFrame.VerticalTextAlignment property (Publisher)
 
 Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
 
 
 ## Syntax
 
- _expression_. **VerticalTextAlignment**
+_expression_.**VerticalTextAlignment**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -45,4 +46,4 @@ Sub SetVerticalAlignment()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

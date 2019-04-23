@@ -1,5 +1,5 @@
 ---
-title: ContactItem.DownloadState Property (Outlook)
+title: ContactItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1083
 f1_keywords:
 - vbaol11.chm1083
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.DownloadState
 ms.assetid: 3067720e-dea5-f14f-0c46-61184078fd4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.DownloadState Property (Outlook)
+# ContactItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

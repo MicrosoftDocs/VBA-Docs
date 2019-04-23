@@ -1,5 +1,5 @@
 ---
-title: Range.Shading Property (Word)
+title: Range.Shading property (Word)
 keywords: vbawd10.chm157155389
 f1_keywords:
 - vbawd10.chm157155389
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.Shading
 ms.assetid: 8e09cd74-a16e-6547-5ada-97322cf32b99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Shading Property (Word)
+# Range.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified object.
 
 
 ## Syntax
 
- _expression_. `Shading`
+_expression_. `Shading`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example
@@ -51,3 +52,4 @@ ActiveDocument.Words(1).Shading.Texture = wdTexture10Percent
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

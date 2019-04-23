@@ -1,21 +1,22 @@
 ---
-title: Task.GroupBySummary Property (Project)
+title: Task.GroupBySummary property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.GroupBySummary
 ms.assetid: c86393b7-e123-b627-0762-475cef921fdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.GroupBySummary Property (Project)
+# Task.GroupBySummary property (Project)
 
  **True** if the selected item in a task view is in a group summary row; otherwise, **false**. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `GroupBySummary`
+_expression_. `GroupBySummary`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -75,4 +76,4 @@ Sub ShowGroupByItems()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

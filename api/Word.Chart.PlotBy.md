@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotBy Property (Word)
+title: Chart.PlotBy property (Word)
 keywords: vbawd10.chm79364298
 f1_keywords:
 - vbawd10.chm79364298
@@ -8,19 +8,20 @@ api_name:
 - Word.Chart.PlotBy
 ms.assetid: ae2774d0-0f58-2224-9104-61d00fa63a86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.PlotBy Property (Word)
+# Chart.PlotBy property (Word)
 
-Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long** .
+Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PlotBy`
+_expression_.**PlotBy**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Remarks
@@ -34,7 +35,7 @@ The value of this property can be one of the following  **[XlRowCol](Word.xlrowc
     
 
 
-For PivotChart reports, this property is read-only and always returns  **xlColumns** .
+For PivotChart reports, this property is read-only and always returns  **xlColumns**.
 
 
 ## Example
@@ -56,3 +57,4 @@ End With
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: ChartGroups.Item Method (PowerPoint)
+title: ChartGroups.Item method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroups.Item
 ms.assetid: 0b04a471-d726-f400-062c-8d4a7dc9c752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroups.Item Method (PowerPoint)
+# ChartGroups.Item method (PowerPoint)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a '[ChartGroups](PowerPoint.ChartGroups.md)' object.
+_expression_ A variable that represents a '[ChartGroups](PowerPoint.ChartGroups.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End With
 
 [ChartGroups Object](PowerPoint.ChartGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

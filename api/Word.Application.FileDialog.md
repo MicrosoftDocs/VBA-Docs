@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Word)
+title: Application.FileDialog property (Word)
 keywords: vbawd10.chm158335426
 f1_keywords:
 - vbawd10.chm158335426
@@ -8,19 +8,20 @@ api_name:
 - Word.Application.FileDialog
 ms.assetid: ef478a81-db1d-4bf4-a146-3ff7dd84116b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileDialog Property (Word)
+# Application.FileDialog property (Word)
 
 Returns a  **FileDialog** object which represents a single instance of a file dialog box.
 
 
 ## Syntax
 
- _expression_. `FileDialog`( `_FileDialogType_` )
+_expression_. `FileDialog`( `_FileDialogType_` )
 
- _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
+_expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

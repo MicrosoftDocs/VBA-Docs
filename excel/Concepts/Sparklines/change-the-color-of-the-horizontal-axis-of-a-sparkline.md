@@ -3,6 +3,7 @@ title: Change the Color of the Horizontal Axis of a Sparkline
 ms.prod: excel
 ms.assetid: 46e1bf49-9971-4597-8c03-63b7a6d7c6a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,3 +32,4 @@ End Sub
 - [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
 - [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 89c2d61d-823a-9376-d827-2ec5ae200d80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ Sub Random()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

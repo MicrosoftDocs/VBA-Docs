@@ -7,20 +7,21 @@ ms.prod: access
 api_name:
 - Access.Application.Version
 ms.assetid: 3fd0113f-5c8f-0477-6030-cf548f7cb2ff
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.Version property (Access)
 
-Returns a  **String** indicating the version number of the currently installed copy of Access. Read-only.
+Returns a **String** indicating the version number of the currently installed copy of Microsoft Access. Read-only.
 
 
 ## Syntax
 
-_expression_. `Version`
+_expression_.**Version**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Example
@@ -36,8 +37,6 @@ MsgBox "You are currently running Microsoft Access, " _
 ```
 
 
-## See also
 
 
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

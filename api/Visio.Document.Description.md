@@ -1,5 +1,5 @@
 ---
-title: Document.Description Property (Visio)
+title: Document.Description property (Visio)
 keywords: vis_sdr.chm10513405
 f1_keywords:
 - vis_sdr.chm10513405
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Description
 ms.assetid: 530adbe3-5285-6aa5-32e6-88d2bc1d8ebf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Description Property (Visio)
+# Document.Description property (Visio)
 
 Gets or sets the description of a document, one of a document's properties. Read/write.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -67,4 +68,4 @@ Public Sub Description_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

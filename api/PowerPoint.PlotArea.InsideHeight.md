@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideHeight Property (PowerPoint)
+title: PlotArea.InsideHeight property (PowerPoint)
 keywords: vbapp10.chm67206
 f1_keywords:
 - vbapp10.chm67206
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlotArea.InsideHeight
 ms.assetid: c775684d-57dd-d954-5e70-ee3af4788e40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlotArea.InsideHeight Property (PowerPoint)
+# PlotArea.InsideHeight property (PowerPoint)
 
-Returns or sets the inside height, in points, of the plot area. Read/write  **Double**.
+Returns or sets the inside height, in [points](../language/glossary/vbe-glossary.md#point), of the plot area. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideHeight`
+_expression_. `InsideHeight`
 
  _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
@@ -62,3 +63,4 @@ End With
 
 [PlotArea Object](PowerPoint.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

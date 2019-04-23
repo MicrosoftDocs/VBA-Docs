@@ -1,14 +1,15 @@
 ---
-title: WdInsertedTextMark Enumeration (Word)
+title: WdInsertedTextMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInsertedTextMark
 ms.assetid: 298df626-b215-6ea3-bcf9-0c491f3545c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdInsertedTextMark Enumeration (Word)
+# WdInsertedTextMark enumeration (Word)
 
 Specifies the formatting of text that is inserted while change tracking is enabled.
 
@@ -25,3 +26,4 @@ Specifies the formatting of text that is inserted while change tracking is enabl
 | **wdInsertedTextMarkUnderline**|3|Inserted text is underlined.|
 | **wdInsertedTextMarkDoubleStrikeThrough**|7|Inserted text is marked up by using double-strikethrough characters.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Use Information Rights Management for Visio
 ms.prod: visio
 ms.assetid: 3912bf98-3669-4de1-958a-f2fa7ec5cdad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -209,4 +210,4 @@ Dim irmPermission As Office.Permission
  Set irmPermission = Nothing
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

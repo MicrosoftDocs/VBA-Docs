@@ -7,25 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.ItemSizeHeight
 ms.assetid: 84689cd3-e835-c61f-0334-15c2323553be
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # Printer.ItemSizeHeight property (Access)
 
-Returns or sets a  **Long** indicating the height of the detail section of a form or report in twips. Read/write.
+Returns or sets a **Long** indicating the height of the detail section of a form or report in [twips](../language/glossary/vbe-glossary.md#twip). Read/write.
 
 
 ## Syntax
 
-_expression_. `ItemSizeHeight`
+_expression_.**ItemSizeHeight**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 
 ```vb
@@ -69,8 +70,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Printer Object](Access.Printer.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

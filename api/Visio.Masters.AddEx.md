@@ -1,5 +1,5 @@
 ---
-title: Masters.AddEx Method (Visio)
+title: Masters.AddEx method (Visio)
 keywords: vis_sdr.chm10851450
 f1_keywords:
 - vis_sdr.chm10851450
@@ -8,17 +8,18 @@ api_name:
 - Visio.Masters.AddEx
 ms.assetid: a27b1a7c-37f4-90c9-91f1-2249611a3cf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Masters.AddEx Method (Visio)
+# Masters.AddEx method (Visio)
 
 Adds a new  **Master** object of the specified type to the **Masters** collection of a Microsoft Visio document.
 
 
 ## Syntax
 
- _expression_. `AddEx`( `_Type_` )
+_expression_. `AddEx`( `_Type_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
@@ -38,11 +39,11 @@ Master
 
 ## Remarks
 
-For the  _Type_ parameter, pass one of the following members of **VisMasterTypes** , which is declared in the Visio type library.
+For the  _Type_ parameter, pass one of the following members of **VisMasterTypes**, which is declared in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeMaster**|1|Creates a shape master.|
 | **visTypeFillPattern**|2|Creates a fill-pattern master.|
@@ -54,7 +55,7 @@ For the  _Type_ parameter, pass one of the following members of **VisMasterTypes
 
 The  **AddEx** method returns the **Master** object added.
 
-If the master added is of type  **visTypeDataGraphic** , Visio names it "Data Graphic", and if it is not the first data graphic in the **Masters** collection of the document, Visio appends the index number of the master in the collection to the name. For example, if there were already 5 objects in the **Masters** collection, one of which was a data graphic, the next data graphic added would be named "Data Graphic.6".
+If the master added is of type  **visTypeDataGraphic**, Visio names it "Data Graphic", and if it is not the first data graphic in the **Masters** collection of the document, Visio appends the index number of the master in the collection to the name. For example, if there were already 5 objects in the **Masters** collection, one of which was a data graphic, the next data graphic added would be named "Data Graphic.6".
 
 Naming of masters of type  **visTypeThemeColors** and **visTypeThemeEffects** follows the same pattern, and the resulting new masters are named "Theme Colors. _x_ " and "Theme Effects. _x_ " respectively, where _x_ is the index number in the collection. Masters of all other types are simply named "Master. _x_ ".
 
@@ -76,4 +77,4 @@ Public Sub AddEx_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

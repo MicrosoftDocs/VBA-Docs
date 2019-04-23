@@ -1,5 +1,5 @@
 ---
-title: Shape.HasTable Property (PowerPoint)
+title: Shape.HasTable property (PowerPoint)
 keywords: vbapp10.chm547059
 f1_keywords:
 - vbapp10.chm547059
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.HasTable
 ms.assetid: fa38891a-e915-3a5c-4169-3c14e5e7136e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.HasTable Property (PowerPoint)
+# Shape.HasTable property (PowerPoint)
 
 Returns whether the specified shape is a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasTable`
+_expression_. `HasTable`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **HasTable** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not a table.|
 |**msoTrue**| The specified shape is a table.|
@@ -62,3 +63,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

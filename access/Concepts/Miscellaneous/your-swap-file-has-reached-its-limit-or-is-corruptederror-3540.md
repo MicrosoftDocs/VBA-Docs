@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6dea73ad-1ca9-7b98-7598-aa25e4e1ecbb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The Synchronizer has encountered an unexpected system problem. Shut down, turn o
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

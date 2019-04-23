@@ -3,6 +3,7 @@ title: Fill a Value Down into Blank Cells in a Column
 ms.prod: excel
 ms.assetid: 3d92a4c3-b2fa-4f7c-be97-2ffbf2f2bb06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,6 +36,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
+MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

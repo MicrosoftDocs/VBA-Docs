@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Patterned Method (PowerPoint)
+title: FillFormat.Patterned method (PowerPoint)
 keywords: vbapp10.chm552004
 f1_keywords:
 - vbapp10.chm552004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.Patterned
 ms.assetid: 665c5b1d-e2a2-64ab-a0c3-7d22d8d3121a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Patterned Method (PowerPoint)
+# FillFormat.Patterned method (PowerPoint)
 
 Sets the specified fill to a pattern.
 
 
 ## Syntax
 
- _expression_. `Patterned`( `_Pattern_` )
+_expression_. `Patterned`( `_Pattern_` )
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -29,7 +30,7 @@ Sets the specified fill to a pattern.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pattern_|Required|**MsoPatternType**|The pattern to be used for the specified fill. See Reamrks for possible values.|
+| _Pattern_|Required|**MsoPatternType**|The pattern to be used for the specified fill. See Remarks for possible values.|
 
 ## Remarks
 
@@ -92,7 +93,7 @@ The value of the Pattern parameter can be one of these  **MsoPatternType** const
 
 ## Example
 
-This example adds an oval with a patterned fill to  `myDocument`.
+This example adds an oval with a patterned fill to  _myDocument_.
 
 
 ```vb
@@ -115,3 +116,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5ea4221f-400a-4089-8770-58c639f5e633
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DateSeparator Property (Project)](http://msdn.microsoft.com/library/ff89ed80-4839-4195-09a7-f1d6ab4ad88a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

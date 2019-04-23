@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Filters Property (Publisher)
+title: MailMergeDataSource.Filters property (Publisher)
 keywords: vbapb10.chm6291463
 f1_keywords:
 - vbapb10.chm6291463
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.Filters
 ms.assetid: 7b8fa974-08e5-9691-c69d-314eb6a5c651
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Filters Property (Publisher)
+# MailMergeDataSource.Filters property (Publisher)
 
 Returns a  **[MailMergeFilters](Publisher.MailMergeFilters.md)** object that represents filters applied to the mail merge or catalog merge data source.
 
 
 ## Syntax
 
- _expression_. **Filters**
+_expression_.**Filters**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -44,4 +45,4 @@ Sub FilterDataSource()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

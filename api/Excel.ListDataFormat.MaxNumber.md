@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.MaxNumber
 ms.assetid: 61262a29-7a35-e351-71fa-0b217285e2b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.MaxNumber property (Excel)
 
-Returns a  **Variant** containing the maximum value allowed in this field in the list column. Read-only **Variant** .
+Returns a  **Variant** containing the maximum value allowed in this field in the list column. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `MaxNumber`
+_expression_. `MaxNumber`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ The following example displays the setting of the  **MaxNumber** property for th
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

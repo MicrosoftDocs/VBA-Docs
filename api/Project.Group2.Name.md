@@ -1,21 +1,22 @@
 ---
-title: Group2.Name Property (Project)
+title: Group2.Name property (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2.Name
 ms.assetid: 27110629-c022-3587-7b9c-c33fbd323a11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Group2.Name Property (Project)
+# Group2.Name property (Project)
 
 Gets or sets the name of a  **Group2** object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
@@ -53,3 +54,4 @@ End Sub
 
 [Group2 Object](Project.Group2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

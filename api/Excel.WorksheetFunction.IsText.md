@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsText Method (Excel)
+title: WorksheetFunction.IsText method (Excel)
 keywords: vbaxl10.chm137131
 f1_keywords:
 - vbaxl10.chm137131
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.IsText
 ms.assetid: 40bfbcb3-f5ae-e32c-02b3-a25acb35622d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IsText Method (Excel)
+# WorksheetFunction.IsText method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to text.
 
 
 ## Syntax
 
- _expression_. `IsText`( `_Arg1_` )
+_expression_. `IsText`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Boolean
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

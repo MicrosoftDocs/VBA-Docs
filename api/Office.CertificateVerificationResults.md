@@ -1,18 +1,19 @@
 ---
-title: CertificateVerificationResults Enumeration (Office)
+title: CertificateVerificationResults enumeration (Office)
 ms.prod: office
 api_name:
 - Office.CertificateVerificationResults
 ms.assetid: e6d4708a-ff3d-805b-d5da-455283eb297a
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# CertificateVerificationResults Enumeration (Office)
+# CertificateVerificationResults enumeration (Office)
 
 Provides the results of verifying a digital certificate.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -25,3 +26,4 @@ Provides the results of verifying a digital certificate.
 |**certverresValid**|3|The certification is valid.|
 |**certverresVerifying**|1|The certificate is currently being verified.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

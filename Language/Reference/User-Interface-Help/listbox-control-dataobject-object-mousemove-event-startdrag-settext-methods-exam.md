@@ -1,20 +1,20 @@
 ---
-title: ListBox Control, DataObject Object, MouseMove Event, StartDrag, SetText Methods Example
+title: ListBox control, DataObject object, MouseMove event, StartDrag, SetText methods example
 keywords: fm20.chm5225174
 f1_keywords:
 - fm20.chm5225174
 ms.prod: office
 ms.assetid: 83930d1d-a7e1-0c72-7e33-20922206c917
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ListBox Control, DataObject Object, MouseMove Event, StartDrag, SetText Methods Example
+# ListBox control, DataObject object, MouseMove event, StartDrag, SetText methods example
 
-The following example demonstrates a drag-and-drop operation from one  **ListBox** to another using a **DataObject** to contain the dragged text. This code sample uses the **SetText** and **StartDrag** methods in the **MouseMove** event to implement the drag-and-drop operation.
+The following example demonstrates a drag-and-drop operation from one **[ListBox](listbox-control.md)** to another by using a **[DataObject](dataobject-object.md)** to contain the dragged text. This code sample uses the **[SetText](settext-method.md)** and **[StartDrag](startdrag-method.md)** methods in the **[MouseMove](mousemove-event.md)** event to implement the drag-and-drop operation.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two  **ListBox** controls named ListBox1 and ListBox2. You also need to add choices to the second **ListBox**.
-
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2. You also need to add choices to the second **ListBox**.
 
 
 ```vb
@@ -59,4 +59,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

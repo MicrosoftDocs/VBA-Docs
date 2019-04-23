@@ -1,5 +1,5 @@
 ---
-title: Selection.UpdateAlignmentBox Method (Visio)
+title: Selection.UpdateAlignmentBox method (Visio)
 keywords: vis_sdr.chm11116635
 f1_keywords:
 - vis_sdr.chm11116635
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.UpdateAlignmentBox
 ms.assetid: d7f13dcd-3ff6-0e0f-d996-afe59c16f813
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.UpdateAlignmentBox Method (Visio)
+# Selection.UpdateAlignmentBox method (Visio)
 
 Updates the alignment box for a shape.
 
 
 ## Syntax
 
- _expression_. `UpdateAlignmentBox`
+_expression_. `UpdateAlignmentBox`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -35,4 +36,4 @@ The  **UpdateAlignmentBox** method alters the width and height of a shape, often
 
  **Note**  Many shapes are designed so that their alignment boxes don't coincide with their geometric extents. Using the  **UpdateAlignmentBox** method on such shapes defeats the intentions of the shape designer.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

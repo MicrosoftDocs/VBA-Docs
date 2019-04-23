@@ -1,5 +1,5 @@
 ---
-title: SlideShowWindow.Width Property (PowerPoint)
+title: SlideShowWindow.Width property (PowerPoint)
 keywords: vbapp10.chm507008
 f1_keywords:
 - vbapp10.chm507008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowWindow.Width
 ms.assetid: e9a340ec-f60f-21c8-4ca2-286725e53705
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowWindow.Width Property (PowerPoint)
+# SlideShowWindow.Width property (PowerPoint)
 
 Returns or sets the width of the specified object, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
  _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
@@ -78,3 +79,4 @@ ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Width = 80
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

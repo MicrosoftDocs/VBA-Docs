@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.LowerHeadingLevel Property (Word)
+title: TableOfFigures.LowerHeadingLevel property (Word)
 keywords: vbawd10.chm153157637
 f1_keywords:
 - vbawd10.chm153157637
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfFigures.LowerHeadingLevel
 ms.assetid: 5408cb26-a24b-4898-bf38-021357ce1633
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfFigures.LowerHeadingLevel Property (Word)
+# TableOfFigures.LowerHeadingLevel property (Word)
 
-Returns or sets the ending heading level for a table of figures. Read/write  **Long** .
+Returns or sets the ending heading level for a table of figures. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `LowerHeadingLevel`
+_expression_. `LowerHeadingLevel`
 
- _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End If
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

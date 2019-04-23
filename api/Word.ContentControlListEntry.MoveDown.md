@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.MoveDown Method (Word)
+title: ContentControlListEntry.MoveDown method (Word)
 keywords: vbawd10.chm147456108
 f1_keywords:
 - vbawd10.chm147456108
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControlListEntry.MoveDown
 ms.assetid: 9b8e366e-3d04-c5d5-b9b5-0a91e10b8c1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControlListEntry.MoveDown Method (Word)
+# ContentControlListEntry.MoveDown method (Word)
 
 Moves an item in a drop-down list or combo box content control down one item, so that it is after the item that originally followed it.
 
 
 ## Syntax
 
- _expression_. `MoveDown`
+_expression_. `MoveDown`
 
  _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
@@ -53,3 +54,4 @@ End If
 
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

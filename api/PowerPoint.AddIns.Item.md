@@ -1,5 +1,5 @@
 ---
-title: AddIns.Item Method (PowerPoint)
+title: AddIns.Item method (PowerPoint)
 keywords: vbapp10.chm520003
 f1_keywords:
 - vbapp10.chm520003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AddIns.Item
 ms.assetid: ef619e15-f2b6-472d-e625-a49ba5e6ff27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddIns.Item Method (PowerPoint)
+# AddIns.Item method (PowerPoint)
 
 Returns a single  **Addin** object from the specified **Addins** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [AddIns](./PowerPoint.AddIns.md) object.
+_expression_ A variable that represents an [AddIns](./PowerPoint.AddIns.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ AddIn
 
 [AddIns Object](PowerPoint.AddIns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

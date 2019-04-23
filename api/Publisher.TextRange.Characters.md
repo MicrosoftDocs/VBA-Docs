@@ -1,5 +1,5 @@
 ---
-title: TextRange.Characters Method (Publisher)
+title: TextRange.Characters method (Publisher)
 keywords: vbapb10.chm5308425
 f1_keywords:
 - vbapb10.chm5308425
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Characters
 ms.assetid: e851767e-12b2-ad77-071b-9d27bbf0d637
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Characters Method (Publisher)
+# TextRange.Characters method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the specified subset of text characters.
 
 
 ## Syntax
 
- _expression_. **Characters**(**_Start_**,  **_Length_**)
+_expression_.**Characters**(**_Start_**,  **_Length_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -61,4 +62,4 @@ Sub CharRange()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

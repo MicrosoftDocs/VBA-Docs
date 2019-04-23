@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Parent Property (Publisher)
+title: MailMergeFilters.Parent property (Publisher)
 keywords: vbapb10.chm6750210
 f1_keywords:
 - vbapb10.chm6750210
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilters.Parent
 ms.assetid: f15092f5-bc9f-c179-d1d4-73739a642bda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Parent Property (Publisher)
+# MailMergeFilters.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **MailMergeFilters** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListLevel.ApplyPictureBullet Method (Word)
+title: ListLevel.ApplyPictureBullet method (Word)
 keywords: vbawd10.chm160235520
 f1_keywords:
 - vbawd10.chm160235520
@@ -8,19 +8,20 @@ api_name:
 - Word.ListLevel.ApplyPictureBullet
 ms.assetid: 9d91b047-c91b-60e1-2b57-aaa16491d212
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.ApplyPictureBullet Method (Word)
+# ListLevel.ApplyPictureBullet method (Word)
 
 Formats a paragraph or range of paragraphs with a picture bullet.
 
 
 ## Syntax
 
- _expression_. `ApplyPictureBullet`( `_FileName_` )
+_expression_. `ApplyPictureBullet`( `_FileName_` )
 
- _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
+_expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Parameters
@@ -90,3 +91,4 @@ End Sub
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

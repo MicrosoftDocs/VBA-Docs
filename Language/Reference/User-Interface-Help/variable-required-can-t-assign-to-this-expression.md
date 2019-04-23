@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bf661c7f-3cda-7e89-8952-e565397a8987
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -40,3 +41,4 @@ This error typically occurs when you attempt to assign a value to something that
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsErr Method (Excel)
+title: WorksheetFunction.IsErr method (Excel)
 keywords: vbaxl10.chm137130
 f1_keywords:
 - vbaxl10.chm137130
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.IsErr
 ms.assetid: 478cc69a-7b1f-7c08-078d-8e56c0516ccb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IsErr Method (Excel)
+# WorksheetFunction.IsErr method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to any error value except #N/A.
 
 
 ## Syntax
 
- _expression_. `IsErr`( `_Arg1_` )
+_expression_. `IsErr`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Boolean
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

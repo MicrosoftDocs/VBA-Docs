@@ -8,19 +8,20 @@ api_name:
 - Excel.Protection.AllowInsertingColumns
 ms.assetid: 87938c66-e48a-dd1d-934e-08752bbf3e03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Protection.AllowInsertingColumns property (Excel)
 
-Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowInsertingColumns`
+_expression_. `AllowInsertingColumns`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

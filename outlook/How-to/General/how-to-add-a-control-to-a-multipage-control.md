@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 9fd9a559-ece9-26dd-047c-c3c649347257
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Add a Control to a MultiPage Control
+# Add a Control to a MultiPage Control
 
 The following example uses the  **Add**,  **Clear**, and  **Remove** methods of the Microsoft Forms 2.0 **Controls** collection to add a control to and remove a control from a **[Page](../../../api/Outlook.page.md)** of a **[MultiPage](../../../api/Outlook.multipage.md)** at run time.
 
@@ -49,4 +50,4 @@ Sub CommandButton3_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

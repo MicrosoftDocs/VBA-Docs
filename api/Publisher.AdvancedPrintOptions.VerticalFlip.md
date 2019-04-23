@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.VerticalFlip Property (Publisher)
+title: AdvancedPrintOptions.VerticalFlip property (Publisher)
 keywords: vbapb10.chm7077891
 f1_keywords:
 - vbapb10.chm7077891
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.VerticalFlip
 ms.assetid: d141d8c0-51a2-d47f-dda3-0cf273578b06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.VerticalFlip Property (Publisher)
+# AdvancedPrintOptions.VerticalFlip property (Publisher)
 
  **True** to print a vertically mirrored image of the specified publication. The default is **False**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **VerticalFlip**
+_expression_.**VerticalFlip**
 
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
@@ -59,3 +60,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

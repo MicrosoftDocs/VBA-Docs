@@ -1,5 +1,5 @@
 ---
-title: ListObject.Unlist Method (Excel)
+title: ListObject.Unlist method (Excel)
 keywords: vbaxl10.chm734077
 f1_keywords:
 - vbaxl10.chm734077
@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.Unlist
 ms.assetid: 030f8f78-08e1-8a49-ee06-a7b4254aa5fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListObject.Unlist Method (Excel)
+# ListObject.Unlist method (Excel)
 
 Removes the list functionality from a  **[ListObject](Excel.ListObject.md)** object. After you use this method, the range of cells that made up the list will be a regular range of data.
 
 
 ## Syntax
 
- _expression_. `Unlist`
+_expression_. `Unlist`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

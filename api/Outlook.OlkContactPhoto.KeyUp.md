@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto.KeyUp Event (Outlook)
+title: OlkContactPhoto.KeyUp event (Outlook)
 keywords: vbaol11.chm1000320
 f1_keywords:
 - vbaol11.chm1000320
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkContactPhoto.KeyUp
 ms.assetid: ee99874f-e44a-4d76-73d1-66a994444005
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkContactPhoto.KeyUp Event (Outlook)
+# OlkContactPhoto.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
 
 ## Syntax
 
- _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](Outlook.OlkContactPhoto.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

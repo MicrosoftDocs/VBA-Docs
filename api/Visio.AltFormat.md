@@ -5,6 +5,7 @@ api_name:
 - Visio.AltFormat
 ms.assetid: 60f9af7d-dc5a-d234-976a-51db21473e28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Determines whether a secondary output format for the Web page is defined. Read/w
 
 ## Syntax
 
- _expression_. **AltFormat**
+_expression_.**AltFormat**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -48,4 +49,4 @@ The following table shows the compatibility of several browsers with various gra
 
 The  **AltFormat** property corresponds to the **Provide alternate format for older browsers** check box on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Parameter.RefreshOnChange
 ms.assetid: 60e01ae1-82bd-e4eb-6ac7-805ffd05a811
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Parameter.RefreshOnChange property (Excel)
 
- **True** if the specified query table is refreshed whenever you change the parameter value of a parameter query. Read/write **Boolean** .
+ **True** if the specified query table is refreshed whenever you change the parameter value of a parameter query. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RefreshOnChange`
+_expression_. `RefreshOnChange`
 
- _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
+_expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ objParam1.SetParam xlRange, Range("D4")
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

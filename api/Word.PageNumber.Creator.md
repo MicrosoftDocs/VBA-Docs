@@ -1,23 +1,24 @@
 ---
-title: PageNumber.Creator Property (Word)
+title: PageNumber.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.PageNumber.Creator
 ms.assetid: f83e5112-c0f4-523c-e6ed-43aa572c3e2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumber.Creator Property (Word)
+# PageNumber.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
+_expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
 
 
 ## Remarks
@@ -30,3 +31,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [PageNumber Object](Word.PageNumber.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

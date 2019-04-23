@@ -1,21 +1,22 @@
 ---
-title: Resource.PercentWorkComplete Property (Project)
+title: Resource.PercentWorkComplete property (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.PercentWorkComplete
 ms.assetid: d1a26d38-f5da-2752-f8bd-3e02779672fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.PercentWorkComplete Property (Project)
+# Resource.PercentWorkComplete property (Project)
 
 Gets or sets the percentage of work complete for a resource. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `PercentWorkComplete`
+_expression_. `PercentWorkComplete`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -54,4 +55,4 @@ Sub MarkTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

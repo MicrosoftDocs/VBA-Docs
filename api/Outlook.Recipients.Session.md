@@ -1,5 +1,5 @@
 ---
-title: Recipients.Session Property (Outlook)
+title: Recipients.Session property (Outlook)
 keywords: vbaol11.chm228
 f1_keywords:
 - vbaol11.chm228
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Recipients.Session
 ms.assetid: 41ddda3c-ca79-9387-b416-8334aeecc102
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Recipients.Session Property (Outlook)
+# Recipients.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
+_expression_ A variable that represents a [Recipients](Outlook.Recipients.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Recipients Object](Outlook.Recipients.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

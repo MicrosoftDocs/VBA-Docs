@@ -1,14 +1,15 @@
 ---
-title: PjShape Enumeration (Project)
+title: PjShape enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjShape
 ms.assetid: 9a9b570a-02ef-8699-7fa0-95f05781256a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjShape Enumeration (Project)
+# PjShape enumeration (Project)
 
 Contains constants that specify the type of drawing.
 
@@ -25,3 +26,4 @@ Contains constants that specify the type of drawing.
 |**pjRectangle**|4|Rectangle.|
 |**pjTextBox**|8|Text box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

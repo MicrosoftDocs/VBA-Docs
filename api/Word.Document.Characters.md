@@ -1,5 +1,5 @@
 ---
-title: Document.Characters Property (Word)
+title: Document.Characters property (Word)
 keywords: vbawd10.chm158007315
 f1_keywords:
 - vbawd10.chm158007315
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Characters
 ms.assetid: 1703bbe3-6c46-a45b-9f36-1205a0d2d47c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Characters Property (Word)
+# Document.Characters property (Word)
 
 Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Characters`
+_expression_. `Characters`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ numchars = ActiveDocument.Characters.Count
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

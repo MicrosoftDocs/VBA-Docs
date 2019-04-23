@@ -7,41 +7,38 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineStyleTop
 ms.assetid: e9463d3f-1988-cf68-9513-6b2f11cf58ea
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # WebBrowserControl.GridlineStyleTop property (Access)
 
-Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
+Gets or sets the top gridline style of the specified control. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleTop`
+_expression_.**GridlineStyleTop**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks
 
-The  **TopGridlineStyle** property uses the following settings.
+The **GridlineStyleTop** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

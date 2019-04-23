@@ -1,5 +1,5 @@
 ---
-title: Application.Undo Method (Visio)
+title: Application.Undo method (Visio)
 keywords: vis_sdr.chm10016620
 f1_keywords:
 - vis_sdr.chm10016620
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Undo
 ms.assetid: 728d9af0-c9f2-c3ff-5ed3-a20e8a507a6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Undo Method (Visio)
+# Application.Undo method (Visio)
 
 Reverses the most recent undo unit, if the undo unit can be reversed.
 
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_.**Undo**
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -53,7 +54,7 @@ Code that calls the  **Undo** method from within the scope of an undo unit canno
 
 The  **Undo** method also raises an exception if the Visio instance is presently performing an undo or redo. To determine whether the Visio instance is undoing or redoing, use the **IsUndoingOrRedoing** property.
 
-You can call the  **Undo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False** . You can also call the **Undo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
+You can call the  **Undo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False**. You can also call the **Undo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
 
 You can undo most actions, but not all. Use the  **Redo** method to reverse the effect of the **Undo** method.
 
@@ -82,4 +83,4 @@ Public Sub Undo_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

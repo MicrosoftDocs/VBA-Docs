@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Count Property (Publisher)
+title: ShapeNodes.Count property (Publisher)
 keywords: vbapb10.chm3473411
 f1_keywords:
 - vbapb10.chm3473411
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeNodes.Count
 ms.assetid: 5b259584-0aad-57bd-4848-cc7f6e96d430
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Count Property (Publisher)
+# ShapeNodes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 79a33dee-75b7-436e-b0e6-35dad2fa72d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape.AddHyperlink Method (Visio)](http://msdn.microsoft.com/library/fbf77a65-88a1-e710-60a2-efde9e7df968%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

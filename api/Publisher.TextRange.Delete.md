@@ -1,5 +1,5 @@
 ---
-title: TextRange.Delete Method (Publisher)
+title: TextRange.Delete method (Publisher)
 keywords: vbapb10.chm5308481
 f1_keywords:
 - vbapb10.chm5308481
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Delete
 ms.assetid: 3062b5ea-fdb7-6632-0838-02e2c9c1c906
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Delete Method (Publisher)
+# TextRange.Delete method (Publisher)
 
 Deletes the specified object.
 
 
 ## Syntax
 
- _expression_. **Delete**
+_expression_.**Delete**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -27,4 +28,4 @@ Deletes the specified object.
 
 A run-time error occurs if the specified object does not exist.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Worksheets
 ms.assetid: 8b7d660d-ca49-0bd0-dc57-64defa47bd5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the work
 
 ## Syntax
 
- _expression_. `Worksheets`
+_expression_. `Worksheets`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -66,3 +67,4 @@ newSheet.Name = "current Budget"
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

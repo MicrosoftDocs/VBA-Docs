@@ -1,5 +1,5 @@
 ---
-title: Selection.Parent Property (PowerPoint)
+title: Selection.Parent property (PowerPoint)
 keywords: vbapp10.chm508002
 f1_keywords:
 - vbapp10.chm508002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Selection.Parent
 ms.assetid: 01f9d99a-0ace-4ec3-121b-e22c35240406
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Parent Property (PowerPoint)
+# Selection.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
@@ -52,3 +53,4 @@ End With
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

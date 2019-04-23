@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReloadAs Method (Excel)
+title: Workbook.ReloadAs method (Excel)
 keywords: vbaxl10.chm199189
 f1_keywords:
 - vbaxl10.chm199189
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.ReloadAs
 ms.assetid: ce6a9d1a-7945-3dca-ff2d-a42289c2ccf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.ReloadAs Method (Excel)
+# Workbook.ReloadAs method (Excel)
 
 Reloads a workbook based on an HTML document, using the specified document encoding.
 
 
 ## Syntax
 
- _expression_. `ReloadAs`( `_Encoding_` )
+_expression_. `ReloadAs`( `_Encoding_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Reloads a workbook based on an HTML document, using the specified document encod
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Encoding_|Required| **[MsoEncoding](./Office.MsoEncoding.md)**|The encoding that is to be applied to the workbook.|
+| _Encoding_|Required| **[MsoEncoding](Office.MsoEncoding.md)**|The encoding that is to be applied to the workbook.|
 
 ## Remarks
 
@@ -51,3 +52,4 @@ Workbooks(1).ReloadAs Encoding:=msoEncodingWestern
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

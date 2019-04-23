@@ -3,6 +3,7 @@ title: ToggleButton Object Reference (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 9332af2f-e50a-4c56-a29e-1f1362a5ce17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,5 +19,5 @@ ms.date: 06/08/2017
 -  [ToggleButton Properties (Outlook Forms Script)](Outlook.togglebutton(properties).md)
     
 -  [ToggleButton Events (Outlook Forms Script)](Outlook.togglebutton(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

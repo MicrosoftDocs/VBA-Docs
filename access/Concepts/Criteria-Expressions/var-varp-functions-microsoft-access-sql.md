@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 2cac402d-8384-0b33-c203-f493281a95f1
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -92,3 +93,5 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

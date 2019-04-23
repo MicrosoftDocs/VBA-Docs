@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.ADOConnection
 ms.assetid: 918dd5eb-a9af-7466-92df-cae4e34676be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an ADO connection object if the PivotTable cache is connected to an OLE 
 
 ## Syntax
 
- _expression_. `ADOConnection`
+_expression_. `ADOConnection`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The  **ADOConnection** property is available only for sessions where the data so
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

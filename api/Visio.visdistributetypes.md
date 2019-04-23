@@ -1,15 +1,16 @@
 ---
-title: VisDistributeTypes Enumeration (Visio)
+title: VisDistributeTypes enumeration (Visio)
 keywords: vis_sdr.chm70395
 f1_keywords:
 - vis_sdr.chm70395
 ms.prod: visio
 ms.assetid: 01572010-ffc5-5fea-d554-84abdc59c5fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisDistributeTypes Enumeration (Visio)
+# VisDistributeTypes enumeration (Visio)
 
 Shape distribution types.
 
@@ -20,7 +21,7 @@ These constants correspond to the options available in the  **Distribute Shapes*
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDistHorzCenter**|2|Distributes shapes hoirzontally so that their bottom edges are uniformly spaced. |
 | **visDistHorzLeft**|1|Distributes shapes horizontally so that their left edges are uniformly spaced. |
@@ -31,3 +32,4 @@ These constants correspond to the options available in the  **Distribute Shapes*
 | **visDistVertSpace**|4|Distributes shapes vertically so that there is a uniform space between shapes.|
 | **visDistVertTop**|5|Distributes shapes vertically so that their top edges are uniformly spaced. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

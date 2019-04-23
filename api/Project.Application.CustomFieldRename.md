@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldRename Method (Project)
+title: Application.CustomFieldRename method (Project)
 keywords: vbapj.chm2378
 f1_keywords:
 - vbapj.chm2378
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomFieldRename
 ms.assetid: 0ca77914-1881-eee5-a8ec-7b47c6464969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomFieldRename Method (Project)
+# Application.CustomFieldRename method (Project)
 
 Defines a friendly name for a custom field.
 
 
 ## Syntax
 
- _expression_. `CustomFieldRename`( ` _FieldID_`, ` _NewName_`, ` _Phonetic_` )
+_expression_. `CustomFieldRename`( `_FieldID_`, `_NewName_`, `_Phonetic_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -37,4 +38,4 @@ Defines a friendly name for a custom field.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

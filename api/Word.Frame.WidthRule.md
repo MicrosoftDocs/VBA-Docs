@@ -1,5 +1,5 @@
 ---
-title: Frame.WidthRule Property (Word)
+title: Frame.WidthRule property (Word)
 keywords: vbawd10.chm153747458
 f1_keywords:
 - vbawd10.chm153747458
@@ -8,19 +8,20 @@ api_name:
 - Word.Frame.WidthRule
 ms.assetid: cd780bff-f0b9-c594-a134-005f3cce2edf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.WidthRule Property (Word)
+# Frame.WidthRule property (Word)
 
-Returns or sets the rule used to determine the width of a frame. Read/write  **WdFrameSizeRule** .
+Returns or sets the rule used to determine the width of a frame. Read/write  **WdFrameSizeRule**.
 
 
 ## Syntax
 
- _expression_. `WidthRule`
+_expression_. `WidthRule`
 
- _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End If
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

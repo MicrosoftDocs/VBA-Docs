@@ -1,5 +1,5 @@
 ---
-title: Account.GetAddressEntryFromID Method (Outlook)
+title: Account.GetAddressEntryFromID method (Outlook)
 keywords: vbaol11.chm3427
 f1_keywords:
 - vbaol11.chm3427
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Account.GetAddressEntryFromID
 ms.assetid: 5aa9c67e-579f-5519-ed38-c80009cf506b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Account.GetAddressEntryFromID Method (Outlook)
+# Account.GetAddressEntryFromID method (Outlook)
 
 Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry specified by the given entry ID.
 
 
 ## Syntax
 
- _expression_. `GetAddressEntryFromID`( `_ID_` )
+_expression_. `GetAddressEntryFromID`( `_ID_` )
 
- _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
+_expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ The  **ID** property for an **AddressEntry** is a permanent, unique string ident
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

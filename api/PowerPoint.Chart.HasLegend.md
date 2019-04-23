@@ -1,5 +1,5 @@
 ---
-title: Chart.HasLegend Property (PowerPoint)
+title: Chart.HasLegend property (PowerPoint)
 keywords: vbapp10.chm684032
 f1_keywords:
 - vbapp10.chm684032
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.HasLegend
 ms.assetid: 084f7de3-b0ed-d7b3-3b24-465e74afa167
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasLegend Property (PowerPoint)
+# Chart.HasLegend property (PowerPoint)
 
  **True** if the chart has a legend. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasLegend`
+_expression_.**HasLegend**
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

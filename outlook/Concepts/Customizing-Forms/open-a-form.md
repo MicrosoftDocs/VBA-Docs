@@ -3,6 +3,7 @@ title: Open a Form
 ms.prod: outlook
 ms.assetid: 27f1b9c6-115a-12df-a5ba-6ac13c1f33db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 |Saved as an Outlook template|On the  **Developer** tab, in the **Custom Forms** group, click **Choose Form**. In the  **Choose Form** dialog box, select **User Templates in File System** in the **Look In** drop down list. Click **Browse** and then select the folder that contains the saved Outlook template.|
 |Saved as a file|Click the  **File** tab. Click **Open**, and then click  **Open Outlook Data File**. Select the folder that contains the file and then select the file. Click  **Open**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

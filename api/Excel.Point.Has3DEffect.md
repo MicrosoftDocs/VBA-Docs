@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.Has3DEffect
 ms.assetid: 0e703274-3158-efe9-24cb-f2794d8acac4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Point.Has3DEffect property (Excel)
 
- **True** if a point has a three-dimensional appearance. Read/write **Boolean** .
+ **True** if a point has a three-dimensional appearance. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Has3DEffect`
+_expression_. `Has3DEffect`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property applies to bubble charts only.
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

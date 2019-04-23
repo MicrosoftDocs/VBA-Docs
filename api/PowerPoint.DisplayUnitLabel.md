@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel Object (PowerPoint)
+title: DisplayUnitLabel object (PowerPoint)
 keywords: vbapp10.chm699000
 f1_keywords:
 - vbapp10.chm699000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.DisplayUnitLabel
 ms.assetid: 4dd4df7d-91c1-9136-2d5b-cdb0794a7716
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DisplayUnitLabel Object (PowerPoint)
+# DisplayUnitLabel object (PowerPoint)
 
 Represents a unit label on an axis in the specified chart.
 
@@ -65,3 +66,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

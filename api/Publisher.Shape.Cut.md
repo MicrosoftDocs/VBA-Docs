@@ -1,5 +1,5 @@
 ---
-title: Shape.Cut Method (Publisher)
+title: Shape.Cut method (Publisher)
 keywords: vbapb10.chm2228241
 f1_keywords:
 - vbapb10.chm2228241
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Cut
 ms.assetid: d800c1e5-7655-9071-a373-7772fa1ca15f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Cut Method (Publisher)
+# Shape.Cut method (Publisher)
 
 Deletes the specified object and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. **Cut**
+_expression_.**Cut**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -74,4 +75,4 @@ ActiveDocument
 .Pages(1).Shapes(1).TextFrame.TextRange.Cut
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

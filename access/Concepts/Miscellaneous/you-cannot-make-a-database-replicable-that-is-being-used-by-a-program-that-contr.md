@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6193a54e-7e09-a3b9-d3ee-f88151b5a5ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The database you are trying to replicate is controlled by a database program tha
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

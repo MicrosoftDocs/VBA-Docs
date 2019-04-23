@@ -1,5 +1,5 @@
 ---
-title: Document.GrammarChecked Property (Word)
+title: Document.GrammarChecked property (Word)
 keywords: vbawd10.chm158007366
 f1_keywords:
 - vbawd10.chm158007366
@@ -8,24 +8,25 @@ api_name:
 - Word.Document.GrammarChecked
 ms.assetid: 30de1405-196a-e8e0-f5af-710b217ea3fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.GrammarChecked Property (Word)
+# Document.GrammarChecked property (Word)
 
- **True** if a grammar check has been run on the specified range or document. Read/write **Boolean** .
+ **True** if a grammar check has been run on the specified range or document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `GrammarChecked`
+_expression_. `GrammarChecked`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
 
-Returns  **False** if all or some of the specified document has not been checked for grammar. To recheck the grammar in a document, set the **GrammarChecked** property to **False** .
+Returns  **False** if all or some of the specified document has not been checked for grammar. To recheck the grammar in a document, set the **GrammarChecked** property to **False**.
 
 
 ## Example
@@ -72,3 +73,4 @@ ActiveDocument.CheckGrammar
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

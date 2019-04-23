@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddAboveAverage Method (Excel)
+title: FormatConditions.AddAboveAverage method (Excel)
 keywords: vbaxl10.chm510083
 f1_keywords:
 - vbaxl10.chm510083
@@ -8,19 +8,20 @@ api_name:
 - Excel.FormatConditions.AddAboveAverage
 ms.assetid: d5cf96ed-4af7-0be3-62e4-b966db21dfb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormatConditions.AddAboveAverage Method (Excel)
+# FormatConditions.AddAboveAverage method (Excel)
 
 Returns a new  **[AboveAverage](Excel.AboveAverage.md)** object representing a conditional formatting rule for the specified range.
 
 
 ## Syntax
 
- _expression_. `AddAboveAverage`
+_expression_. `AddAboveAverage`
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **AboveAverage** object is used to find values above or below an average or
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

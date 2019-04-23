@@ -1,5 +1,5 @@
 ---
-title: DocumentWindows.Application Property (PowerPoint)
+title: DocumentWindows.Application property (PowerPoint)
 keywords: vbapp10.chm509001
 f1_keywords:
 - vbapp10.chm509001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindows.Application
 ms.assetid: 8a2cf838-7f79-d346-3a14-597c0f9fd4ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindows.Application Property (PowerPoint)
+# DocumentWindows.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
+_expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 
 
 ## Return value
@@ -66,4 +67,4 @@ Next
 
 [DocumentWindows Object](PowerPoint.DocumentWindows.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

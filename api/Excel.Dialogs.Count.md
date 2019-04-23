@@ -8,6 +8,7 @@ api_name:
 - Excel.Dialogs.Count
 ms.assetid: aafcfb50-68fc-4e02-47d7-1317df4d343a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
+_expression_ A variable that represents a [Dialogs](Excel.Dialogs.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [Dialogs Object](Excel.Dialogs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

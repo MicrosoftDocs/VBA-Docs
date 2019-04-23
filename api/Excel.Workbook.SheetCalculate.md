@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetCalculate Event (Excel)
+title: Workbook.SheetCalculate event (Excel)
 keywords: vbaxl10.chm503090
 f1_keywords:
 - vbaxl10.chm503090
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetCalculate
 ms.assetid: 0610bfa5-15dc-a57f-f362-cf897bd54b91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetCalculate Event (Excel)
+# Workbook.SheetCalculate event (Excel)
 
 Occurs after any worksheet is recalculated or after any changed data is plotted on a chart.
 
 
 ## Syntax
 
- _expression_. `SheetCalculate`( `_Sh_` , )
+_expression_. `SheetCalculate`( `_Sh_` , )
 
- _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
+ _expression_ An expression that returns a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

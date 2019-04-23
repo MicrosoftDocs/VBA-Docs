@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Hyperlink Property (Word)
+title: InlineShape.Hyperlink property (Word)
 keywords: vbawd10.chm162004999
 f1_keywords:
 - vbawd10.chm162004999
@@ -8,17 +8,18 @@ api_name:
 - Word.InlineShape.Hyperlink
 ms.assetid: 46297480-026a-1679-20dc-f1e6b284559e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.Hyperlink Property (Word)
+# InlineShape.Hyperlink property (Word)
 
 Returns a  **Hyperlink** object that represents the hyperlink associated with the specified inline shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_.**Hyperlink**
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
@@ -48,3 +49,4 @@ MsgBox ActiveDocument.Shapes(1).Hyperlink.Address
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

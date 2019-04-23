@@ -1,5 +1,5 @@
 ---
-title: AddressEntry.Session Property (Outlook)
+title: AddressEntry.Session property (Outlook)
 keywords: vbaol11.chm2040
 f1_keywords:
 - vbaol11.chm2040
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AddressEntry.Session
 ms.assetid: e2fdc0ed-a470-eca7-0709-ea7938df3516
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressEntry.Session Property (Outlook)
+# AddressEntry.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

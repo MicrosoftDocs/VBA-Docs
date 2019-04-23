@@ -1,5 +1,5 @@
 ---
-title: Application.CacheSettings Method (Project)
+title: Application.CacheSettings method (Project)
 keywords: vbapj.chm2276
 f1_keywords:
 - vbapj.chm2276
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CacheSettings
 ms.assetid: 48b25030-cbb7-2fec-8025-01b8a96bf6eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CacheSettings Method (Project)
+# Application.CacheSettings method (Project)
 
 Displays the  **Cache Settings** dialog box. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `CacheSettings`
+_expression_. `CacheSettings`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,4 +28,4 @@ Displays the  **Cache Settings** dialog box. Available in Project Professional o
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

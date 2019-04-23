@@ -3,6 +3,7 @@ title: Change the filter or sort order of a form or report
 ms.prod: access
 ms.assetid: 9888dbcd-7409-f334-115e-a318131ebca4
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 
@@ -40,3 +41,4 @@ End Sub
 
 Whether the filter and sort order get set in code or by the user, you can apply or remove them by setting the **FilterOn** and **OrderByOn** properties to **True** or **False**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

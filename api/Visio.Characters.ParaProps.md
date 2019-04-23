@@ -1,5 +1,5 @@
 ---
-title: Characters.ParaProps Property (Visio)
+title: Characters.ParaProps property (Visio)
 keywords: vis_sdr.chm10214030
 f1_keywords:
 - vis_sdr.chm10214030
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.ParaProps
 ms.assetid: 8f71a7ba-3a9e-01b4-1bbe-040fd441a284
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.ParaProps Property (Visio)
+# Characters.ParaProps property (Visio)
 
 Sets the paragraph property of a  **Characters** object to a new value. Read/write.
 
 
 ## Syntax
 
- _expression_. `ParaProps`( `_CellIndex_` )
+_expression_. `ParaProps`( `_CellIndex_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -38,7 +39,7 @@ Integer
 
 ## Remarks
 
-The possible values of the CellIndex argument correspond to named cells in the Paragraph section of the ShapeSheet. Constants for CellIndex are declared by the Visio type library in  **VisCellIndices** .
+The possible values of the CellIndex argument correspond to named cells in the Paragraph section of the ShapeSheet. Constants for CellIndex are declared by the Visio type library in  **VisCellIndices**.
 
 
 
@@ -61,5 +62,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.set_ParaProps**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

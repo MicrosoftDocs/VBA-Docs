@@ -1,19 +1,20 @@
 ---
-title: RevisionsFilter.Markup Property (Word)
+title: RevisionsFilter.Markup property (Word)
 ms.prod: word
 ms.assetid: 90b90dd8-ead3-8e3c-f27e-a4614d12798c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RevisionsFilter.Markup Property (Word)
+# RevisionsFilter.Markup property (Word)
 
 Returns or sets a [WdRevisionsMarkup](Word.wdrevisionsmarkup.md) constant that specifies the extent of reviewer markup displayed in the document. Read/write.
 
 
 ## Syntax
 
- _expression_. `Markup`
+_expression_. `Markup`
 
  _expression_ A variable that represents a 'RevisionsFilter' object.
 
@@ -42,4 +43,4 @@ End Sub
 
 [RevisionsFilter Object](Word.revisionsfilter.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

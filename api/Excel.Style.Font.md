@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.Font
 ms.assetid: bce2abc4-73fc-d1cf-ee4c-c46adbb01aae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_.**Font**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

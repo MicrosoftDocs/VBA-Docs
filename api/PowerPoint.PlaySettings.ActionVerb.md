@@ -1,5 +1,5 @@
 ---
-title: PlaySettings.ActionVerb Property (PowerPoint)
+title: PlaySettings.ActionVerb property (PowerPoint)
 keywords: vbapp10.chm568003
 f1_keywords:
 - vbapp10.chm568003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaySettings.ActionVerb
 ms.assetid: 769383e0-94b0-3baf-0211-e92987b139ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaySettings.ActionVerb Property (PowerPoint)
+# PlaySettings.ActionVerb property (PowerPoint)
 
 Returns or sets a string that contains the OLE verb that will be run when the specified OLE object is animated during a slide show. Read/write.
 
 
 ## Syntax
 
- _expression_. `ActionVerb`
+_expression_. `ActionVerb`
 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

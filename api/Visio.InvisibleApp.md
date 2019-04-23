@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp Object (Visio)
+title: InvisibleApp object (Visio)
 keywords: vis_sdr.chm60185
 f1_keywords:
 - vis_sdr.chm60185
@@ -8,10 +8,11 @@ api_name:
 - Visio.InvisibleApp
 ms.assetid: 70a30571-2017-af8b-eaa1-bf93c758a46a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp Object (Visio)
+# InvisibleApp object (Visio)
 
 Represents an invisible instance of Microsoft Visio. The properties of the  **InvisibleApp** object are identical to those of the **Application** object.
 
@@ -25,9 +26,9 @@ An external program typically creates or retrieves an  **Application** or **Invi
 
  **Note**  You cannot use the Visual Basic  **GetObject** function to retrieve an **InvisibleApp** object for an instance of Visio that is already running. Attempts to do so will fail.
 
-Use the  **Documents** , **Windows** , and **Addons** properties of an **InvisibleApp** object to retrieve the **Documents** , **Windows** , and **Addons** collections of the instance respectively.
+Use the  **Documents**, **Windows**, and **Addons** properties of an **InvisibleApp** object to retrieve the **Documents**, **Windows**, and **Addons** collections of the instance respectively.
 
-Use the  **ActiveDocument** , **ActivePage** , or **ActiveWindow** property to retrieve the currently active **Document** , **Page** , or **Window** object.
+Use the  **ActiveDocument**, **ActivePage**, or **ActiveWindow** property to retrieve the currently active **Document**, **Page**, or **Window** object.
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
@@ -37,4 +38,4 @@ Use the  **ActiveDocument** , **ActivePage** , or **ActiveWindow** property to r
 
  **Note**  Code in the Microsoft Visual Basic for Applications (VBA) project of a Visio document can use the Visio global object instead of a Visio  **Invisible App** object to retrieve other objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

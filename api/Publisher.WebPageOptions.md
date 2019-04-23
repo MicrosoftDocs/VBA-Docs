@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions Object (Publisher)
+title: WebPageOptions object (Publisher)
 keywords: vbapb10.chm548863
 f1_keywords:
 - vbapb10.chm548863
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebPageOptions
 ms.assetid: 694b56ce-1c2d-8202-25b7-19e55aadb0fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebPageOptions Object (Publisher)
+# WebPageOptions object (Publisher)
 
 Represents the properties of a single Web page within a Web publication, including options for adding the title and description of the page, background sounds, in addition to other options. The  **WebPageOptions** object is a member of the **[Page](Publisher.Page.md)** object.
  
@@ -46,7 +47,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetBackgroundSoundRepeat](Publisher.WebPageOptions.SetBackgroundSoundRepeat.md)|
 
@@ -54,7 +55,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebPageOptions.Application.md)|
 |[BackgroundSound](Publisher.WebPageOptions.BackgroundSound.md)|
@@ -66,3 +67,4 @@ End With
 |[Parent](Publisher.WebPageOptions.Parent.md)|
 |[PublishFileName](Publisher.WebPageOptions.PublishFileName.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

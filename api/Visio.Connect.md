@@ -1,5 +1,5 @@
 ---
-title: Connect Object (Visio)
+title: Connect object (Visio)
 keywords: vis_sdr.chm10065
 f1_keywords:
 - vis_sdr.chm10065
@@ -8,10 +8,11 @@ api_name:
 - Visio.Connect
 ms.assetid: f29481d6-ceaa-69b4-5e44-26e06199488d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect Object (Visio)
+# Connect object (Visio)
 
 Represents a connection between two shapes in a drawing, such as a line and a box in an organization chart.
 
@@ -29,7 +30,7 @@ Use the  **GlueTo** or **GlueToPos** method of a **Cell** object to connect one 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Connect.Application.md)|
 |[ContainingMasterID](./Visio.Connect.ContainingMasterID.md)|
@@ -45,3 +46,4 @@ Use the  **GlueTo** or **GlueToPos** method of a **Cell** object to connect one 
 |[ToPart](./Visio.Connect.ToPart.md)|
 |[ToSheet](./Visio.Connect.ToSheet.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

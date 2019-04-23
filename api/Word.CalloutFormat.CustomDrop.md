@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomDrop Method (Word)
+title: CalloutFormat.CustomDrop method (Word)
 keywords: vbawd10.chm163905547
 f1_keywords:
 - vbawd10.chm163905547
@@ -8,19 +8,20 @@ api_name:
 - Word.CalloutFormat.CustomDrop
 ms.assetid: ed727a85-78e4-44f9-a436-f65592cd4be3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.CustomDrop Method (Word)
+# CalloutFormat.CustomDrop method (Word)
 
 Sets the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box.
 
 
 ## Syntax
 
- _expression_. `CustomDrop`( `_Drop_` )
+_expression_.**CustomDrop** (_Drop_)
 
- _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
+_expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Parameters
@@ -72,3 +73,4 @@ End With
 
 [CalloutFormat Object](Word.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

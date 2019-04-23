@@ -9,6 +9,7 @@ api_name:
 - Access.TopValues
 ms.assetid: 86198e46-2061-f39f-b6cf-58b90ef063b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -68,7 +69,7 @@ If you set the **TopValues** property to 3 with a descending sort on the Sales f
 The following code example assigns an SQL string that returns the top 10 most expensive products to the **RecordSource** property for a form that will display the ten most expensive products.
 
 
-```sql
+```vb
 Dim strGetSQL As String 
 strGetSQL = "SELECT TOP 10 Products.[ProductName] " _ 
     & "AS TenMostExpensiveProducts, Products.UnitPrice FROM Products " _ 
@@ -85,3 +86,5 @@ Me.RecordSource = strGetSQL
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

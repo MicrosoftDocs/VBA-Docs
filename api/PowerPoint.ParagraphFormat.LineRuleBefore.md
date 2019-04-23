@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineRuleBefore Property (PowerPoint)
+title: ParagraphFormat.LineRuleBefore property (PowerPoint)
 keywords: vbapp10.chm576005
 f1_keywords:
 - vbapp10.chm576005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ParagraphFormat.LineRuleBefore
 ms.assetid: 2316216e-9f56-07e6-1b32-10b37a6fdc9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.LineRuleBefore Property (PowerPoint)
+# ParagraphFormat.LineRuleBefore property (PowerPoint)
 
 Determines whether line spacing before the first line in each paragraph is set to a specific number of points or lines. Read/write.
 
 
 ## Syntax
 
- _expression_. `LineRuleBefore`
+_expression_. `LineRuleBefore`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **LineRuleBefore** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Line spacing before the first line in each paragraph is set to a specific number of points. |
 |**msoTrue**| Line spacing before the first line in each paragraph is set to a specific number of lines.|
@@ -74,3 +75,4 @@ MsgBox "Current spacing before paragraphs: " & sb & sbUnits
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

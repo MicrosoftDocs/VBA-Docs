@@ -3,6 +3,7 @@ title: Retrieve records using Access SQL
 ms.prod: access
 ms.assetid: b613a24a-2fc4-ac18-501f-c44b5cc2a45d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -137,4 +138,4 @@ SELECT *
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

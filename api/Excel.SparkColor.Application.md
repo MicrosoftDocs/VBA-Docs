@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkColor.Application
 ms.assetid: 94d690fc-0484-a0a7-5952-1db57707e7e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a '[SparkColor](Excel.SparkColor.md)' object.
+_expression_ A variable that represents a '[SparkColor](Excel.SparkColor.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [SparkColor Object](Excel.SparkColor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

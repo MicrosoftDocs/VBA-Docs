@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.AllocationMethod
 ms.assetid: 726393d4-4aba-556a-9278-976e7b9a1088
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets what method to use to allocate values when performing what-if an
 
 ## Syntax
 
- _expression_. `AllocationMethod`
+_expression_. `AllocationMethod`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets what method to use to allocate values when performing what-if an
 
 ## Remarks
 
-The  **AllocationMethod** property corresponds to the **Allocation Method** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlEqualAllocation** , which corresponds to the **Equal Allocation** setting. If the **AllocationMethod** property is set to **xlWeightedAllocation** , which corresponds to the **Weighted Allocation** setting, you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](Excel.PivotTable.AllocationWeightExpression.md)** property. If you do not specify a weight expression, a weight expression equivalent to `<leaf cell value> / <existing value>` is used.
+The  **AllocationMethod** property corresponds to the **Allocation Method** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlEqualAllocation**, which corresponds to the **Equal Allocation** setting. If the **AllocationMethod** property is set to **xlWeightedAllocation**, which corresponds to the **Weighted Allocation** setting, you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](Excel.PivotTable.AllocationWeightExpression.md)** property. If you do not specify a weight expression, a weight expression equivalent to `<leaf cell value> / <existing value>` is used.
 
 
 ## See also
@@ -38,3 +39,4 @@ The  **AllocationMethod** property corresponds to the **Allocation Method** sett
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ToolbarSet.Toolbars Property (Visio)
+title: ToolbarSet.Toolbars property (Visio)
 keywords: vis_sdr.chm13914555
 f1_keywords:
 - vis_sdr.chm13914555
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarSet.Toolbars
 ms.assetid: ad345f3e-a000-6a6d-55bd-ed593678c3ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarSet.Toolbars Property (Visio)
+# ToolbarSet.Toolbars property (Visio)
 
 Returns the  **Toolbars** collection of a **ToolbarSet** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Toolbars`
+_expression_. `Toolbars`
 
  _expression_ A variable that represents a [ToolbarSet](./Visio.ToolbarSet.md) object.
 
@@ -79,4 +80,4 @@ Public Sub Toolbars_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

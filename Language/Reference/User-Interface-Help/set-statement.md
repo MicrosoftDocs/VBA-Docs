@@ -1,39 +1,41 @@
 ---
-title: Set Statement
+title: Set statement (VBA)
 keywords: vblr6.chm1009016
 f1_keywords:
 - vblr6.chm1009016
 ms.prod: office
 ms.assetid: 59de2927-b338-0038-50b9-3379d7331935
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
-# Set Statement
+# Set statement
 
 Assigns an object reference to a [variable](../../Glossary/vbe-glossary.md#variable) or [property](../../Glossary/vbe-glossary.md#property).
 
 ## Syntax
 
-**Set**_objectvar_**=** {[ **New** ] _objectexpression_ |**Nothing** }
+**Set**_objectvar_ **=** {[ **New** ] _objectexpression_ | **Nothing** }
 
-The  **Set** statement syntax has these parts:
+<br/>
 
+The **Set** statement syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _objectvar_|Required. Name of the variable or property; follows standard variable naming conventions.|
-|**New**|Optional.  **New** is usually used during declaration to enable implicit object creation. When **New** is used with **Set**, it creates a new instance of the [class](../../Glossary/vbe-glossary.md#class). If  _objectvar_ contained a reference to an object, that reference is released when the new one is assigned. The **New** [keyword](../../Glossary/vbe-glossary.md#keyword) can't be used to create new instances of any intrinsic [data type](../../Glossary/vbe-glossary.md#data-type) and can't be used to create dependent objects.|
+|**New**|Optional. **New** is usually used during declaration to enable implicit object creation. When **New** is used with **Set**, it creates a new instance of the [class](../../Glossary/vbe-glossary.md#class). If _objectvar_ contained a reference to an object, that reference is released when the new one is assigned. The **New** [keyword](../../Glossary/vbe-glossary.md#keyword) can't be used to create new instances of any intrinsic [data type](../../Glossary/vbe-glossary.md#data-type) and can't be used to create dependent objects.|
 | _objectexpression_|Required. [Expression](../../Glossary/vbe-glossary.md#expression) consisting of the name of an object, another declared variable of the same [object type](../../Glossary/vbe-glossary.md#object-type), or a function or [method](../../Glossary/vbe-glossary.md#method) that returns an object of the same object type.|
-|**Nothing**|Optional. Discontinues association of  _objectvar_ with any specific object. Assigning **Nothing** to _objectvar_ releases all the system and memory resources associated with the previously referenced object when no other variable refers to it.|
+|**Nothing**|Optional. Discontinues association of _objectvar_ with any specific object. Assigning **[Nothing](nothing-keyword.md)** to _objectvar_ releases all the system and memory resources associated with the previously referenced object when no other variable refers to it.|
 
 ## Remarks
 
-To be valid,  _objectvar_ must be an object type consistent with the object being assigned to it.
-The  **Dim**, **Private**, **Public**, **ReDim**, and **Static** statements only declare a variable that refers to an object. No actual object is referred to until you use the **Set** statement to assign a specific object.
-The following example illustrates how  **Dim** is used to declare an [array](../../Glossary/vbe-glossary.md#array) with the type `Form1`. No instance of  `Form1` actually exists. **Set** then assigns references to new instances of `Form1` to the . No instance of `Form1` actually exists. **Set** then assigns references to new instances of `Form1` to the `myChildForms` variable. Such code might be used to create child forms in an MDI application.
+To be valid, _objectvar_ must be an object type consistent with the object being assigned to it.
 
+The **Dim**, **Private**, **Public**, **ReDim**, and **Static** statements only declare a variable that refers to an object. No actual object is referred to until you use the **Set** statement to assign a specific object.
 
+The following example illustrates how **Dim** is used to declare an [array](../../Glossary/vbe-glossary.md#array) with the type `Form1`. No instance of `Form1` actually exists. **Set** then assigns references to new instances of `Form1` to the `myChildForms` variable. Such code might be used to create child forms in an MDI application.
 
 ```vb
 Dim myChildForms(1 to 4) As Form1 
@@ -44,11 +46,11 @@ Set myChildForms(4) = New Form1
 
 ```
 
-Generally, when you use  **Set** to assign an object reference to a variable, no copy of the object is created for that variable. Instead, a reference to the object is created. More than one [object variable](../../Glossary/vbe-glossary.md#object-variable) can refer to the same object. Because such variables are references to the object rather than copies of the object, any change in the object is reflected in all variables that refer to it. However, when you use the **New** keyword in the **Set** statement, you are actually creating an instance of the object.
+Generally, when you use **Set** to assign an object reference to a variable, no copy of the object is created for that variable. Instead, a reference to the object is created. More than one [object variable](../../Glossary/vbe-glossary.md#object-variable) can refer to the same object. Because such variables are references to the object rather than copies of the object, any change in the object is reflected in all variables that refer to it. However, when you use the **New** keyword in the **Set** statement, you are actually creating an instance of the object.
 
 ## Example
 
-This example uses the  **Set** statement to assign object references to variables. `YourObject` is assumed to be a valid object with a **Text** property.
+This example uses the **Set** statement to assign object references to variables. `YourObject` is assumed to be a valid object with a **Text** property.
 
 
 ```vb
@@ -63,4 +65,9 @@ Set MyObject = Nothing    ' Release the object.
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

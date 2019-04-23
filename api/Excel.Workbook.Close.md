@@ -1,5 +1,5 @@
 ---
-title: Workbook.Close Method (Excel)
+title: Workbook.Close method (Excel)
 keywords: vbaxl10.chm199085
 f1_keywords:
 - vbaxl10.chm199085
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Close
 ms.assetid: c0376cab-a2db-c606-67bf-0a4921b81e03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.Close Method (Excel)
+# Workbook.Close method (Excel)
 
 Closes the object.
 
 
 ## Syntax
 
- _expression_. `Close`( `_SaveChanges_` , `_Filename_` , `_RouteWorkbook_` )
+_expression_. `Close`( `_SaveChanges_` , `_FileName_` , `_RouteWorkbook_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -29,9 +30,9 @@ Closes the object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Variant**|If there are no changes to the workbook, this argument is ignored. If there are changes to the workbook and the workbook appears in other open windows, this argument is ignored. If there are changes to the workbook but the workbook doesn't appear in any other open windows, this argument specifies whether changes should be saved. If set to  **True** , changes are saved to the workbook. If there is not yet a file name associated with the workbook, then _FileName_ is used. If _Filename_ is omitted, the user is asked to supply a file name.|
-| _Filename_|Optional| **Variant**|Save changes under this file name.|
-| _RouteWorkbook_|Optional| **Variant**|If the workbook doesn't need to be routed to the next recipient (if it has no routing slip or has already been routed), this argument is ignored. Otherwise, Microsoft Excel routes the workbook according to the value of this parameter. If set to  **True** , the workbook is sent to the next recipient. If set to **False** , the workbook is not sent. If omitted, the user is asked whether the workbook should be sent.|
+| _SaveChanges_|Optional| **Variant**|If there are no changes to the workbook, this argument is ignored. If there are changes to the workbook and the workbook appears in other open windows, this argument is ignored. If there are changes to the workbook but the workbook doesn't appear in any other open windows, this argument specifies whether changes should be saved. If set to  **True**, changes are saved to the workbook. If there is not yet a file name associated with the workbook, then _FileName_ is used. If _FileName_ is omitted, the user is asked to supply a file name.|
+| _FileName_|Optional| **Variant**|Save changes under this file name.|
+| _RouteWorkbook_|Optional| **Variant**|If the workbook doesn't need to be routed to the next recipient (if it has no routing slip or has already been routed), this argument is ignored. Otherwise, Microsoft Excel routes the workbook according to the value of this parameter. If set to  **True**, the workbook is sent to the next recipient. If set to **False**, the workbook is not sent. If omitted, the user is asked whether the workbook should be sent.|
 
 ## Remarks
 
@@ -53,3 +54,4 @@ Workbooks("BOOK1.XLS").Close SaveChanges:=False
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

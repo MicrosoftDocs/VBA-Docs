@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EditMainDocument Method (Word)
+title: MailMerge.EditMainDocument method (Word)
 keywords: vbawd10.chm153092205
 f1_keywords:
 - vbawd10.chm153092205
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMerge.EditMainDocument
 ms.assetid: 06ef9288-9434-7e75-ca6c-75c21fffd6b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.EditMainDocument Method (Word)
+# MailMerge.EditMainDocument method (Word)
 
 Activates the mail merge main document associated with the specified header source or data source document.
 
 
 ## Syntax
 
- _expression_. `EditMainDocument`
+_expression_. `EditMainDocument`
 
- _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
+_expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Item Method (Word)
+title: ListEntries.Item method (Word)
 keywords: vbawd10.chm153354240
 f1_keywords:
 - vbawd10.chm153354240
@@ -8,19 +8,20 @@ api_name:
 - Word.ListEntries.Item
 ms.assetid: 749a78cf-b72e-defe-396b-cd7f3c802277
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListEntries.Item Method (Word)
+# ListEntries.Item method (Word)
 
 Returns an individual  **ListEntry** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
+_expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ End Sub
 
 [ListEntries Collection Object](Word.listentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Pane.VisibleRange
 ms.assetid: 03853894-ca83-1672-21bb-15099bab03d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `VisibleRange`
+_expression_. `VisibleRange`
 
- _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
 ## Example
@@ -40,3 +41,4 @@ MsgBox "There are " & Windows(1).VisibleRange.Cells.Count _
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

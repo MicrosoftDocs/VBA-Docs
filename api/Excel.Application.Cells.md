@@ -7,37 +7,33 @@ ms.prod: excel
 api_name:
 - Excel.Application.Cells
 ms.assetid: 9788c893-13c3-eb57-bcf7-50806b476ba3
-ms.date: 06/08/2017
+ms.date: 04/04/2019
+localization_priority: Normal
 ---
 
 
 # Application.Cells property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells on the active worksheet. If the active document is not a worksheet, this property fails.
+Returns a **[Range](Excel.Range(object).md)** object that represents all the cells on the active worksheet. If the active document is not a worksheet, this property fails.
 
 
 ## Syntax
 
- _expression_. `Cells`
+_expression_.**Cells**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
-Because the  **[Item](Excel.Range.Item.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
+Because the **[Item](Excel.Range.Item.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
 
-Using this property without an object qualifier returns a  **Range** object that represents all the cells on the active worksheet.
+Using this property without an object qualifier returns a **Range** object that represents all the cells on the active worksheet.
 
 
 ## Example
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
-
 This example looks at data in each row and inserts a blank row each time the value in column A changes.
-
-
-
 
 ```vb
 Sub ChangeInsertRows()
@@ -53,14 +49,6 @@ End Sub
 ```
 
 
-### About the contributor
-
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
 
 
-## See also
-
-
-[Application Object](Excel.Application(object).md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

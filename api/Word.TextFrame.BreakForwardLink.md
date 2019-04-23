@@ -1,5 +1,5 @@
 ---
-title: TextFrame.BreakForwardLink Method (Word)
+title: TextFrame.BreakForwardLink method (Word)
 keywords: vbawd10.chm162665356
 f1_keywords:
 - vbawd10.chm162665356
@@ -8,19 +8,20 @@ api_name:
 - Word.TextFrame.BreakForwardLink
 ms.assetid: e72e07bf-cea3-3351-3fa8-aae9777babf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.BreakForwardLink Method (Word)
+# TextFrame.BreakForwardLink method (Word)
 
 Breaks the forward link for the specified text frame, if such a link exists.
 
 
 ## Syntax
 
- _expression_. `BreakForwardLink`
+_expression_. `BreakForwardLink`
 
- _expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ shapeTextbox2.TextFrame.BreakForwardLink
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

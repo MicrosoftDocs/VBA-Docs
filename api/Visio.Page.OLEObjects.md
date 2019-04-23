@@ -1,5 +1,5 @@
 ---
-title: Page.OLEObjects Property (Visio)
+title: Page.OLEObjects property (Visio)
 keywords: vis_sdr.chm10913965
 f1_keywords:
 - vis_sdr.chm10913965
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.OLEObjects
 ms.assetid: 8546ecb2-4889-465f-af6c-c312b1b4900a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.OLEObjects Property (Visio)
+# Page.OLEObjects property (Visio)
 
 Returns the  **OLEObjects** collection of a page. Read-only.
 
 
 ## Syntax
 
- _expression_. `OLEObjects`
+_expression_. `OLEObjects`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -57,4 +58,4 @@ Public Sub OLEObjects_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

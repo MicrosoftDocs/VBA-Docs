@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLinks.Parent Property (Office)
+title: SharedWorkspaceLinks.Parent property (Office)
 keywords: vbaof11.chm271004
 f1_keywords:
 - vbaof11.chm271004
@@ -7,13 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks.Parent
 ms.assetid: 4cedf89a-5de1-58ad-dd1c-d79ccc1c7acb
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceLinks.Parent Property (Office)
+# SharedWorkspaceLinks.Parent property (Office)
 
-Gets the  **Parent** object for the **SharedWorkspaceLinks** object. Read-only.
+Gets the **Parent** object for the **SharedWorkspaceLinks** object. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,9 +22,9 @@ Gets the  **Parent** object for the **SharedWorkspaceLinks** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [SharedWorkspaceLinks](./Office.SharedWorkspaceLinks.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)** object.
 
 
 ## Return value
@@ -33,10 +34,8 @@ Object
 
 ## See also
 
-
-[SharedWorkspaceLinks Object](Office.SharedWorkspaceLinks.md)
-
+- [SharedWorkspaceLinks object members](overview/Library-Reference/sharedworkspacelinks-members-office.md)
 
 
-[SharedWorkspaceLinks Object Members](./overview/Library-Reference/sharedworkspacelinks-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

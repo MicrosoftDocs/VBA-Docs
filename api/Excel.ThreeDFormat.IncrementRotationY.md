@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Excel)
+title: ThreeDFormat.IncrementRotationY method (Excel)
 keywords: vbaxl10.chm119021
 f1_keywords:
 - vbaxl10.chm119021
@@ -8,19 +8,20 @@ api_name:
 - Excel.ThreeDFormat.IncrementRotationY
 ms.assetid: 56dde624-a56d-41f1-3192-f4c5c28e0a66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (Excel)
+# ThreeDFormat.IncrementRotationY method (Excel)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees. Use the  **[RotationY](Excel.ThreeDFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
 
 
 ## Syntax
 
- _expression_. `IncrementRotationY`( `_Increment_` )
+_expression_. `IncrementRotationY`( `_Increment_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Parameters
@@ -40,7 +41,7 @@ You cannot adjust the specified shape's rotation around the y-axis shape past th
 
 ## Example
 
-This example tilts shape one on  `myDocument` 10 degrees to the right. Shape one must be an extruded shape for you to see the effect of this code.
+This example tilts shape one on  _myDocument_ 10 degrees to the right. Shape one must be an extruded shape for you to see the effect of this code.
 
 
 ```vb
@@ -54,3 +55,4 @@ myDocument.Shapes(1).ThreeD.IncrementRotationY -10
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

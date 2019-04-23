@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 8657931a-a618-bc90-d850-6d37707e0a68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,4 +46,4 @@ SolverSolve UserFinish:=True
 SolverFinish KeepFinal:=1, ReportArray:=Array(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

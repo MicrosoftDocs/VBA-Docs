@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Saved
 ms.assetid: 37eb8e08-2bfa-8065-2520-a71e291ab50c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.Saved property (Excel)
 
- **True** if no changes have been made to the specified workbook since it was last saved. Read/write **Boolean** .
+ **True** if no changes have been made to the specified workbook since it was last saved. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Saved`
+_expression_. `Saved`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Range Method (Word)
+title: GroupShapes.Range method (Word)
 keywords: vbawd10.chm162922506
 f1_keywords:
 - vbawd10.chm162922506
@@ -8,19 +8,20 @@ api_name:
 - Word.GroupShapes.Range
 ms.assetid: 6d1b5a69-686a-b384-d6cc-cb79201b28d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GroupShapes.Range Method (Word)
+# GroupShapes.Range method (Word)
 
 Returns a  **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
- _expression_ Required. A variable that represents a '[GroupShapes](Word.groupshapes.md)' collection.
+_expression_ Required. A variable that represents a '[GroupShapes](Word.groupshapes.md)' collection.
 
 
 ## Parameters
@@ -118,3 +119,4 @@ End Sub
 
 [GroupShapes Collection Object](Word.groupshapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

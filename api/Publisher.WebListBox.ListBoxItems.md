@@ -1,5 +1,5 @@
 ---
-title: WebListBox.ListBoxItems Property (Publisher)
+title: WebListBox.ListBoxItems property (Publisher)
 keywords: vbapb10.chm4063235
 f1_keywords:
 - vbapb10.chm4063235
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebListBox.ListBoxItems
 ms.assetid: 642a4592-35af-99fa-ee96-6bd8517c618f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebListBox.ListBoxItems Property (Publisher)
+# WebListBox.ListBoxItems property (Publisher)
 
 Returns a  **[WebListBoxItems](Publisher.WebListBoxItems.md)** object that represents the items in a Web list box control.
 
 
 ## Syntax
 
- _expression_. **ListBoxItems**
+_expression_.**ListBoxItems**
 
  _expression_ A variable that represents a  **WebListBox** object.
 
@@ -54,4 +55,4 @@ Sub NewListBoxItems()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

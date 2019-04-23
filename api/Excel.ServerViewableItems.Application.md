@@ -8,6 +8,7 @@ api_name:
 - Excel.ServerViewableItems.Application
 ms.assetid: 60cd4946-d68a-cf52-754e-41c325c756fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **Application** object. Read-only.
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

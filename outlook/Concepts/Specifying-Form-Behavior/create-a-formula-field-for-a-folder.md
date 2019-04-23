@@ -3,6 +3,7 @@ title: Create a Formula Field for a Folder
 ms.prod: outlook
 ms.assetid: d7956315-604c-7170-6c98-6ef44e4702b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -33,6 +34,6 @@ ms.date: 06/08/2017
 12. To remove the field from the view, click  **Remove**.
     
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

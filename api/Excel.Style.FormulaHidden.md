@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.FormulaHidden
 ms.assetid: 7b36f86b-2f88-3fb4-173e-cca7e747a195
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that indicates if the formula will be hidde
 
 ## Syntax
 
- _expression_. `FormulaHidden`
+_expression_. `FormulaHidden`
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** proper
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Parent Property (PowerPoint)
+title: BulletFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm577002
 f1_keywords:
 - vbapp10.chm577002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.Parent
 ms.assetid: 95829267-e354-828b-5034-7da64dc5d5d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.Parent Property (PowerPoint)
+# BulletFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

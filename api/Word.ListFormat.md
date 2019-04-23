@@ -1,5 +1,5 @@
 ---
-title: ListFormat Object (Word)
+title: ListFormat object (Word)
 keywords: vbawd10.chm2496
 f1_keywords:
 - vbawd10.chm2496
@@ -8,10 +8,11 @@ api_name:
 - Word.ListFormat
 ms.assetid: 74773fd6-b713-34d4-b7be-f543c983008d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat Object (Word)
+# ListFormat object (Word)
 
 Represents the list formatting attributes that can be applied to the paragraphs in a range.
 
@@ -55,7 +56,7 @@ ActiveDocument.Lists(1).ApplyListTemplate _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyBulletDefault](Word.ListFormat.ApplyBulletDefault.md)|
 |[ApplyListTemplate](Word.ListFormat.ApplyListTemplate.md)|
@@ -73,7 +74,7 @@ ActiveDocument.Lists(1).ApplyListTemplate _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListFormat.Application.md)|
 |[Creator](Word.ListFormat.Creator.md)|
@@ -91,4 +92,6 @@ ActiveDocument.Lists(1).ApplyListTemplate _
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

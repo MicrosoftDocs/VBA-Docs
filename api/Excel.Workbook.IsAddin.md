@@ -8,24 +8,25 @@ api_name:
 - Excel.Workbook.IsAddin
 ms.assetid: b8c8b9f4-4be5-0260-957e-c6450f31a0c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.IsAddin property (Excel)
 
- **True** if the workbook is running as an add-in. Read/write **Boolean** .
+ **True** if the workbook is running as an add-in. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsAddin`
+_expression_. `IsAddin`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
 
-When you set this property to  **True** , the workbook has the following characteristics:
+When you set this property to  **True**, the workbook has the following characteristics:
 
 
 - You won't be prompted to save the workbook if changes are made while the workbook is open.
@@ -56,3 +57,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

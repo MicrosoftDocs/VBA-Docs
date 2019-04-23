@@ -1,5 +1,5 @@
 ---
-title: ColumnFormat.Width Property (Outlook)
+title: ColumnFormat.Width property (Outlook)
 keywords: vbaol11.chm2730
 f1_keywords:
 - vbaol11.chm2730
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ColumnFormat.Width
 ms.assetid: d0dd6c11-bce4-3785-7686-7863466d2380
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColumnFormat.Width Property (Outlook)
+# ColumnFormat.Width property (Outlook)
 
 Returns or sets a  **Long** value indicating the approximate width (in characters) of the column. Read/write.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
- _expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
+_expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ If the value of this property for every column in a view is less than the total 
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

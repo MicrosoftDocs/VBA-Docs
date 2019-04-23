@@ -1,5 +1,5 @@
 ---
-title: Font.Parent Property (PowerPoint)
+title: Font.Parent property (PowerPoint)
 keywords: vbapp10.chm575002
 f1_keywords:
 - vbapp10.chm575002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.Parent
 ms.assetid: 5cf96dc7-aa6a-e3f6-d8f3-c0b92d6b1a6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Parent Property (PowerPoint)
+# Font.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ContactItem.AddBusinessCardLogoPicture Method (Outlook)
+title: ContactItem.AddBusinessCardLogoPicture method (Outlook)
 keywords: vbaol11.chm3229
 f1_keywords:
 - vbaol11.chm3229
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.AddBusinessCardLogoPicture
 ms.assetid: 73e19806-6892-f378-cc38-70e9d90922d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.AddBusinessCardLogoPicture Method (Outlook)
+# ContactItem.AddBusinessCardLogoPicture method (Outlook)
 
 Adds a logo picture to the current Electronic Business Card of the contact item.
 
 
 ## Syntax
 
- _expression_. `AddBusinessCardLogoPicture`( `_Path_` )
+_expression_. `AddBusinessCardLogoPicture`( `_Path_` )
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ An Electronic Business Card can only have one logo picture, so any existing logo
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

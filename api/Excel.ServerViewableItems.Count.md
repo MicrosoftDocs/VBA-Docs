@@ -8,19 +8,20 @@ api_name:
 - Excel.ServerViewableItems.Count
 ms.assetid: 4a26873e-49cd-ad71-a96a-d5f40e51f31c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ServerViewableItems.Count property (Excel)
 
-Returns the number of objects in the collection. Read-only  **Long** .
+Returns the number of objects in the collection. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the number of objects in the collection. Read-only  **Long** .
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

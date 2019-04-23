@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d60c9ef8-bd17-4c86-80ba-9476ea8c942e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ShapeRange.MediaFormat Property (PowerPoint)](http://msdn.microsoft.com/library/d8c02203-9570-247c-d0c4-d823b349ad84%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

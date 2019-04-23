@@ -1,5 +1,5 @@
 ---
-title: DistListItem Object (Outlook)
+title: DistListItem object (Outlook)
 keywords: vbaol11.chm2993
 f1_keywords:
 - vbaol11.chm2993
@@ -8,10 +8,11 @@ api_name:
 - Outlook.DistListItem
 ms.assetid: 027c3986-abff-d9b1-ecc2-26d60805e952
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem Object (Outlook)
+# DistListItem object (Outlook)
 
 Represents a distribution list in a Contacts folder.
 
@@ -22,7 +23,7 @@ Represents a distribution list in a Contacts folder.
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **DistListItem** object that represents a new distribution list.
 
-Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem**).
+Use  **[Items](Outlook.Folder.Items.md)** (_index_), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem**).
 
 
 ## Example
@@ -58,7 +59,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.DistListItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.DistListItem.AttachmentAdd.md)|
@@ -91,7 +92,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddMember](Outlook.DistListItem.AddMember.md)|
 |[AddMembers](Outlook.DistListItem.AddMembers.md)|
@@ -115,7 +116,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.DistListItem.Actions.md)|
 |[Application](Outlook.DistListItem.Application.md)|
@@ -172,4 +173,6 @@ myItem.Display
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

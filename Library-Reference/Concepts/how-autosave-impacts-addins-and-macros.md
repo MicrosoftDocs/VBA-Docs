@@ -1,7 +1,8 @@
 ---
 title: How AutoSave impacts add-ins and macros
 ms.prod: office
-ms.date: 08/28/2018
+ms.date: 01/02/2019
+localization_priority: Normal
 ---
 
 
@@ -82,7 +83,7 @@ An add-in that validates a Word document before save to ensure that company bran
 
 #### Workarounds
 
-Consider removing any code that needs to display UI to other areas of the application. For example, the user could click a "validate" button to trigger the validation process, or you could fire the validation code only if the user attempts to change the existing data.
+Consider removing any code that needs to display UI to other areas of the application. For example, the user could select a "validate" button to trigger the validation process, or you could fire the validation code only if the user attempts to change the existing data.
 
 If you want validation code to trigger only on the first save from a new document but not on subsequent auto-saves, consider inspecting a property such as Excel's **Workbook.Path** before displaying any UI during **BeforeSave** or **AfterSave**. In Excel, the **Workbook.Path** property should be blank if the workbook does not yet have a save location.
 
@@ -151,4 +152,4 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 - [**BeforeSave** event in PowerPoint](../../api/PowerPoint.Application.PresentationBeforeSave.md)
 - [**BeforeSave** event in Word](../../api/Word.Application.DocumentBeforeSave.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

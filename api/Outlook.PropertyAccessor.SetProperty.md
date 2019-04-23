@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.SetProperty Method (Outlook)
+title: PropertyAccessor.SetProperty method (Outlook)
 keywords: vbaol11.chm1971
 f1_keywords:
 - vbaol11.chm1971
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyAccessor.SetProperty
 ms.assetid: 2a97c11d-3f5f-65fe-23d6-8efa40dca303
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyAccessor.SetProperty Method (Outlook)
+# PropertyAccessor.SetProperty method (Outlook)
 
 Sets the property specified by  _SchemaName_ to the value specified by _Value_ .
 
 
 ## Syntax
 
- _expression_. `SetProperty`( `_SchemaName_` , `_Value_` )
+_expression_. `SetProperty`( `_SchemaName_` , `_Value_` )
 
- _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters
@@ -103,3 +104,4 @@ End Sub
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

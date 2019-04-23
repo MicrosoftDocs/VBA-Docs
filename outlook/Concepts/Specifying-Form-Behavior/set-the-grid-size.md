@@ -3,6 +3,7 @@ title: Set the Grid Size
 ms.prod: outlook
 ms.assetid: 8c9850c4-7c70-48ca-af49-d5a65515961e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,3 +19,4 @@ When you design a form, use the grid to align controls easily and precisely.
     
      **Tip**  If you set the grid size to position command buttons in your application, use small grid settings so that you can position the command buttons closer to the edge of the form.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

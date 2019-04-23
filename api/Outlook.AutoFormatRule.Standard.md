@@ -1,5 +1,5 @@
 ---
-title: AutoFormatRule.Standard Property (Outlook)
+title: AutoFormatRule.Standard property (Outlook)
 keywords: vbaol11.chm2711
 f1_keywords:
 - vbaol11.chm2711
@@ -8,24 +8,25 @@ api_name:
 - Outlook.AutoFormatRule.Standard
 ms.assetid: 11ba1f61-132a-11ba-529e-b38f7cb6ec57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoFormatRule.Standard Property (Outlook)
+# AutoFormatRule.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object represents a built-in Outlook formatting rule. Read-only.
 
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
- _expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
+_expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRule.md) object.
 
 
 ## Remarks
 
-If the value of this property is set to  **True** , then the **[Filter](Outlook.AutoFormatRule.Filter.md)** and **[Name](Outlook.AutoFormatRule.Name.md)** properties of the **AutoFormatRule** object cannot be changed. Similarly, you cannot use the **[Remove](Outlook.AutoFormatRules.Remove.md)** method of the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection to delete a built-in Outlook formatting rule, nor can you use the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to insert a custom formatting rule above or between the built-in Outlook formatting rules contained by that collection.
+If the value of this property is set to  **True**, then the **[Filter](Outlook.AutoFormatRule.Filter.md)** and **[Name](Outlook.AutoFormatRule.Name.md)** properties of the **AutoFormatRule** object cannot be changed. Similarly, you cannot use the **[Remove](Outlook.AutoFormatRules.Remove.md)** method of the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection to delete a built-in Outlook formatting rule, nor can you use the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to insert a custom formatting rule above or between the built-in Outlook formatting rules contained by that collection.
 
 
 ## Example
@@ -89,3 +90,4 @@ End Sub
 
 [AutoFormatRule Object](Outlook.AutoFormatRule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Application Property (PowerPoint)
+title: PublishObjects.Application property (PowerPoint)
 keywords: vbapp10.chm634001
 f1_keywords:
 - vbapp10.chm634001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PublishObjects.Application
 ms.assetid: 501a6b40-6281-6de0-8d84-89383b2807fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObjects.Application Property (PowerPoint)
+# PublishObjects.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PublishObjects](./PowerPoint.PublishObjects.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [PublishObjects Object](PowerPoint.PublishObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

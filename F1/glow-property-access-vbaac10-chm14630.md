@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 303a3ef1-124c-4532-b1c6-302be79af982
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TabControl.Glow property (Access)](http://msdn.microsoft.com/library/e3ee6d6c-4cca-1555-14e2-a512c8520855%28Office.15%29.aspx)
 [CommandButton.Glow property (Access)](http://msdn.microsoft.com/library/e6c147b4-c378-90bd-7132-f44021994ecd%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

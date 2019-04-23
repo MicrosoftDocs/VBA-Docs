@@ -1,5 +1,5 @@
 ---
-title: Document.RightMargin Property (Visio)
+title: Document.RightMargin property (Visio)
 keywords: vis_sdr.chm10514235
 f1_keywords:
 - vis_sdr.chm10514235
@@ -8,19 +8,20 @@ api_name:
 - Visio.Document.RightMargin
 ms.assetid: ee2fc9f4-92a6-a787-7fa0-cd43da52fadb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.RightMargin Property (Visio)
+# Document.RightMargin property (Visio)
 
 Specifies the right margin, which is used when printing. Read/write.
 
 
 ## Syntax
 
- _expression_. `RightMargin`( `_UnitsNameOrCode_` )
+_expression_.**RightMargin** (_UnitsNameOrCode_)
 
- _expression_ A variable that represents a [Document](./Visio.Document.md) object.
+_expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Parameters
@@ -52,6 +53,6 @@ You can specify  _UnitsNameOrCode_ as an integer or a string value. If the strin
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)** .
+Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

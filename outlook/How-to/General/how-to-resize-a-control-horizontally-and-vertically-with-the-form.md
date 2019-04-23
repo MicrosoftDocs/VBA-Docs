@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 67dfbd5d-98a8-41d1-a92f-56ae381d2e50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Resize a Control Horizontally and Vertically with the Form
+# Resize a Control Horizontally and Vertically with the Form
 
 The following code sample shows how to resize a control with a form. It uses the  **[OlkControl](../../../api/Outlook.olkcontrol.md)** class that represents some basic properties (for example, **[HorizontalLayout](../../../api/Outlook.OlkControl.HorizontalLayout.md)** and ** [VerticalLayout](../../../api/Outlook.OlkControl.VerticalLayout.md)**) common to Outlook form controls. It assumes an existing Outlook text box control, myTextBox, in the form, and uses casting in Visual Basic to allow the text box control to use the properties of  **OlkControl**.
 
@@ -29,4 +30,4 @@ Dim olkCtrl As Outlook.OlkControl
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

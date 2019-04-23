@@ -1,21 +1,22 @@
 ---
-title: Task.StartVariance Property (Project)
+title: Task.StartVariance property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.StartVariance
 ms.assetid: 8ec7f5c9-62c4-36fd-d245-4a2bf21fd7bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.StartVariance Property (Project)
+# Task.StartVariance property (Project)
 
 Gets the variance (in minutes) between the baseline start date and the start date of the task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `StartVariance`
+_expression_. `StartVariance`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -50,4 +51,4 @@ Sub CountLateTasks()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

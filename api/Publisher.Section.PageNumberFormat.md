@@ -1,5 +1,5 @@
 ---
-title: Section.PageNumberFormat Property (Publisher)
+title: Section.PageNumberFormat property (Publisher)
 keywords: vbapb10.chm7405573
 f1_keywords:
 - vbapb10.chm7405573
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Section.PageNumberFormat
 ms.assetid: 5b64a352-2fd8-9e19-3425-a7984dd67edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section.PageNumberFormat Property (Publisher)
+# Section.PageNumberFormat property (Publisher)
 
-Sets or returns a  **PbPageNumberFormat** constant that reperesents the formatting of the page numbering. Read/write.
+Sets or returns a  **PbPageNumberFormat** constant that represents the formatting of the page numbering. Read/write.
 
 
 ## Syntax
 
- _expression_. **PageNumberFormat**
+_expression_.**PageNumberFormat**
 
  _expression_ A variable that represents a  **Section** object.
 
@@ -50,4 +51,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

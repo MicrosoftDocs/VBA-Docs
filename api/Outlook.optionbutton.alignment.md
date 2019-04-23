@@ -3,6 +3,7 @@ title: OptionButton.Alignment Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5e5ae0fd-6a1a-77d9-c678-6435eab34932
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that indicates the position of a control relativ
 
 ## Syntax
 
- _expression_. **Alignment**
+_expression_.**Alignment**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ The possible values of  **Alignment** is 0 or 1. A value of 0 places the caption
 
 The caption text for a control is left-aligned.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

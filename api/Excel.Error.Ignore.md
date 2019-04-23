@@ -8,19 +8,20 @@ api_name:
 - Excel.Error.Ignore
 ms.assetid: 2e1eea04-fa93-86ed-670a-23246dddfbfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Error.Ignore property (Excel)
 
-Allows the user to set or return the state of an error checking option for a range.  **False** enables an error checking option for a range. **True** disables an error checking option for a range. Read/write **Boolean** .
+Allows the user to set or return the state of an error checking option for a range.  **False** enables an error checking option for a range. **True** disables an error checking option for a range. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Ignore`
+_expression_. `Ignore`
 
- _expression_ A variable that represents an [Error](Excel.Error.md) object.
+_expression_ A variable that represents an [Error](Excel.Error.md) object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [Error Object](Excel.Error.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

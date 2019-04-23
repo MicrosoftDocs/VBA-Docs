@@ -1,5 +1,5 @@
 ---
-title: Documents.ShapeLinkAdded Event (Visio)
+title: Documents.ShapeLinkAdded event (Visio)
 keywords: vis_sdr.chm10662015
 f1_keywords:
 - vis_sdr.chm10662015
@@ -8,10 +8,11 @@ api_name:
 - Visio.Documents.ShapeLinkAdded
 ms.assetid: 2f388104-82c8-85f4-2fc8-e60f34c223c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.ShapeLinkAdded Event (Visio)
+# Documents.ShapeLinkAdded event (Visio)
 
 Occurs after a shape is linked to a data row.
 
@@ -21,7 +22,7 @@ Occurs after a shape is linked to a data row.
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeLinkAdded'(**_ByVal Shape As [IVSHAPE]_** , **_ByVal DataRecordsetID As Long_** , **_ByVal DataRowID As Long_**)
+Private Sub  _expression_ _'ShapeLinkAdded'(**_ByVal Shape As [IVSHAPE]_**, **_ByVal DataRecordsetID As Long_**, **_ByVal DataRowID As Long_**)
 
  _expression_ An expression that returns a [Documents](./Visio.Documents.md) object.
 
@@ -46,8 +47,8 @@ When the  **ShapeLinkAdded** event is fired, the **EventInfo** property returns 
 
 where  _n_ and _m_ represent the IDs of the data recordset and data row, respectively, associated with the event.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

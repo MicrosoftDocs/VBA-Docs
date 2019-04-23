@@ -1,5 +1,5 @@
 ---
-title: OlkContactPhoto Object (Outlook)
+title: OlkContactPhoto object (Outlook)
 keywords: vbaol11.chm1000322
 f1_keywords:
 - vbaol11.chm1000322
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkContactPhoto
 ms.assetid: eea9a5d0-c208-dbf9-39e1-93614fb98d1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkContactPhoto Object (Outlook)
+# OlkContactPhoto object (Outlook)
 
 A control that shows the contact picture for a contact item if a contact picture has been defined, or the contact picture button if no contact picture has been assigned. 
 
@@ -34,7 +35,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Outlook.OlkContactPhoto.Change.md)|
 |[Click](Outlook.OlkContactPhoto.Click.md)|
@@ -52,7 +53,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Enabled](Outlook.OlkContactPhoto.Enabled.md)|
 |[MouseIcon](Outlook.OlkContactPhoto.MouseIcon.md)|
@@ -61,4 +62,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

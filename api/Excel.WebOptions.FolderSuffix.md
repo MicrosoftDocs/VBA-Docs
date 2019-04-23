@@ -8,26 +8,27 @@ api_name:
 - Excel.WebOptions.FolderSuffix
 ms.assetid: 5361e4db-4f08-ab6c-1259-d04170879c99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # WebOptions.FolderSuffix property (Excel)
 
-Returns the folder suffix that Microsoft Excel uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**). Read-only **String** .
+Returns the folder suffix that Microsoft Excel uses when you save a document as a web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**). Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `FolderSuffix`
+_expression_. `FolderSuffix`
 
- _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
+_expression_ A variable that represents a [WebOptions](Excel.WebOptions.md) object.
 
 
 ## Remarks
 
 Newly created documents use the suffix returned by the  **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Excel. You can use the **[UseDefaultFolderSuffix](Excel.WebOptions.UseDefaultFolderSuffix.md)** method to change the suffix to the language you are currently using in Microsoft Office.
 
-By default, the name of the supporting folder is the name of the Web page plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Excel in which the file was saved as a Web page). For example, suppose that you use the Dutch language version of Excel to save a file called "Page1" as a Web page. The default name of the supporting folder is Page1_bestanden.
+By default, the name of the supporting folder is the name of the web page plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Excel in which the file was saved as a web page). For example, suppose that you use the Dutch language version of Excel to save a file called "Page1" as a web page. The default name of the supporting folder is Page1_bestanden.
 
 The following table lists each language version of Office, and gives its corresponding  **LanguageID** property value and folder suffix. For the languages that are not listed in the table, the suffix ".files" is used.
 
@@ -72,7 +73,7 @@ The following table lists each language version of Office, and gives its corresp
 |Swedish|1053|-filer|
 |Thai|1054|.files|
 |Turkish|1055|_dosyalar|
-|Ukranian|1058|.files|
+|Ukrainian|1058|.files|
 |Vietnamese|1066|.files|
 
 ## Example
@@ -90,3 +91,4 @@ strFolderSuffix = Workbooks(1).WebOptions.FolderSuffix
 
 [WebOptions Object](Excel.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

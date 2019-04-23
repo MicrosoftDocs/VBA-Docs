@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cd0eb720-a06f-426a-9b52-7b527b989d5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.BeforeWindowSelDelete Event (Visio)](http://msdn.microsoft.com/library/3d40231f-a158-7f44-9b2f-ef958fd3e1a6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

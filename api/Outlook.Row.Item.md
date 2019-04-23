@@ -1,5 +1,5 @@
 ---
-title: Row.Item Method (Outlook)
+title: Row.Item method (Outlook)
 keywords: vbaol11.chm2245
 f1_keywords:
 - vbaol11.chm2245
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Row.Item
 ms.assetid: fa9a6b26-ddfe-f306-5f45-140756f398c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.Item Method (Outlook)
+# Row.Item method (Outlook)
 
 Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)** object at the column specified by _Index_ .
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](Outlook.Row.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **[Column](Outlook.Column.md)** .|
+| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **[Column](Outlook.Column.md)**.|
 
 ## Return value
 
@@ -44,7 +45,7 @@ The  **Item** method is the default method of the **Row** object, meaning that t
 
  `Row("Subject")`
 
-If a  **Column** has been added to a **Table** using a property name referencing a namespace, you must reference the **Column** in the **Row.Item** method by the same namespace reference. If you use an explicit built-in name reference in **Row.Item** , you will get an error.
+If a  **Column** has been added to a **Table** using a property name referencing a namespace, you must reference the **Column** in the **Row.Item** method by the same namespace reference. If you use an explicit built-in name reference in **Row.Item**, you will get an error.
 
 
 ## Example
@@ -83,3 +84,4 @@ End Sub
 
 [Row Object](Outlook.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Item Method (Excel)
+title: ServerViewableItems.Item method (Excel)
 keywords: vbaxl10.chm833077
 f1_keywords:
 - vbaxl10.chm833077
@@ -8,19 +8,20 @@ api_name:
 - Excel.ServerViewableItems.Item
 ms.assetid: ea1a01ef-7b2f-485d-2526-0b1025a9b9fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ServerViewableItems.Item Method (Excel)
+# ServerViewableItems.Item method (Excel)
 
 Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Object
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: VISWEB_DISP_RES Enumeration (Visio Save as Web)
 ms.prod: visio
 ms.assetid: b1de6074-da6b-9930-af03-890d1d9ac59a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -12,7 +13,7 @@ Specifies the screen resolution for a Web page.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **resSource**|0|Use resolution of the source image for output.|
 | **res180x260**|1|180 x 260 pixels|
@@ -30,3 +31,4 @@ Specifies the screen resolution for a Web page.
 | **res1920x1200**|13|1920 x 1200 pixels|
 | **resINVALID**|14|Reserved.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: AttachmentSelection.Item Method (Outlook)
+title: AttachmentSelection.Item method (Outlook)
 keywords: vbaol11.chm2944
 f1_keywords:
 - vbaol11.chm2944
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AttachmentSelection.Item
 ms.assetid: 68cf2111-ae46-05f7-b57f-8f4867e394c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AttachmentSelection.Item Method (Outlook)
+# AttachmentSelection.Item method (Outlook)
 
 Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ An expression that returns an [AttachmentSelection](./Outlook.AttachmentSelection.md) object.
+ _expression_ An expression that returns an [AttachmentSelection](Outlook.AttachmentSelection.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ An  **Attachment** object that represents the specified object.
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

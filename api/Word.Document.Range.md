@@ -1,5 +1,5 @@
 ---
-title: Document.Range Method (Word)
+title: Document.Range method (Word)
 keywords: vbawd10.chm158009296
 f1_keywords:
 - vbawd10.chm158009296
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Range
 ms.assetid: 7dd33ac8-38f6-925d-a511-8677ca6437e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Range Method (Word)
+# Document.Range method (Word)
 
 Returns a  **Range** object by using the specified starting and ending character positions.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Start_` , `_End_` )
+_expression_.**Range** (_Start_, _End_)
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -85,3 +86,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.NewSheet Event (Excel)
+title: Workbook.NewSheet event (Excel)
 keywords: vbaxl10.chm503079
 f1_keywords:
 - vbaxl10.chm503079
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.NewSheet
 ms.assetid: 5abb254d-a2c3-7dac-e79f-0de74a081ecd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.NewSheet Event (Excel)
+# Workbook.NewSheet event (Excel)
 
 Occurs when a new sheet is created in the workbook.
 
 
 ## Syntax
 
- _expression_. `NewSheet`( `_Sh_` )
+_expression_. `NewSheet`( `_Sh_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

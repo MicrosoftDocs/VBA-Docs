@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.AxisColor
 ms.assetid: 0c7dd109-001e-b5b7-69c8-c7a1e665e6ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the color of the axis for cells with conditional formatting as data bars
 
 ## Syntax
 
- _expression_. `AxisColor`
+_expression_. `AxisColor`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the color of the axis for cells with conditional formatting as data bars
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

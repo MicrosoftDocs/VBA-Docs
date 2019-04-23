@@ -3,6 +3,7 @@ title: Remove Data from the Data Store When Deleting a Content Control
 ms.prod: word
 ms.assetid: 9b7c7345-bd06-b8e2-d401-dea65ad75f92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -113,3 +114,4 @@ End Sub
 
 - [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

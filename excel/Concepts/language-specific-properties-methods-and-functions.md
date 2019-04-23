@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: abf2101c-93ee-352b-6a67-478b9eb09003
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -65,5 +66,5 @@ The following are language-specific worksheet functions:
 -  **[SearchB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
     
 -  **[USDollar](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

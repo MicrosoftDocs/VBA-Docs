@@ -3,6 +3,7 @@ title: Set a Module as the Currently Selected Module in the Navigation Pane
 ms.prod: outlook
 ms.assetid: c7aeafcf-d88d-8d79-8dfd-e336cf00f101
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -65,4 +66,4 @@ Private Sub objPane_ModuleSwitch(ByVal CurrentModule As NavigationModule)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

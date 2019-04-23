@@ -1,5 +1,5 @@
 ---
-title: Reviewers.Item Method (Word)
+title: Reviewers.Item method (Word)
 keywords: vbawd10.chm211419136
 f1_keywords:
 - vbawd10.chm211419136
@@ -8,19 +8,20 @@ api_name:
 - Word.Reviewers.Item
 ms.assetid: 1753a118-e5e5-c83f-7e9e-02a6e0500b63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reviewers.Item Method (Word)
+# Reviewers.Item method (Word)
 
 Returns an individual  **Reviewer** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[Reviewers](Word.Reviewers.md)' collection.
+_expression_ Required. A variable that represents a '[Reviewers](Word.Reviewers.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Reviewer
 
 [Reviewers Collection](Word.Reviewers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

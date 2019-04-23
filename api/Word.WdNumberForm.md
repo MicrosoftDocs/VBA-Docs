@@ -1,14 +1,15 @@
 ---
-title: WdNumberForm Enumeration (Word)
+title: WdNumberForm enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberForm
 ms.assetid: c8535c84-27f4-04d8-52a1-739b9ef322f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdNumberForm Enumeration (Word)
+# WdNumberForm enumeration (Word)
 
 Specifies the number form setting for an OpenType font.
 
@@ -20,3 +21,4 @@ Specifies the number form setting for an OpenType font.
 | **wdNumberFormLining**|1|Applies the lining number form to the font.|
 | **wdNumberFormOldstyle**|2|Applies the "old-style" number form to the font.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

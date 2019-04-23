@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ccf0b4ff-97e2-e665-e433-0b99b5d55107
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The [control](../../Glossary/vbe-glossary.md#control) named in the ASCII text file couldn't be loaded because its name is already in use in the application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

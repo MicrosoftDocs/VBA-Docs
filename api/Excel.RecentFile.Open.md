@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Open Method (Excel)
+title: RecentFile.Open method (Excel)
 keywords: vbaxl10.chm170076
 f1_keywords:
 - vbaxl10.chm170076
@@ -8,19 +8,20 @@ api_name:
 - Excel.RecentFile.Open
 ms.assetid: 0db24662-fe68-aa65-1875-0d58f1e37e39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFile.Open Method (Excel)
+# RecentFile.Open method (Excel)
 
 Opens a recent workbook.
 
 
 ## Syntax
 
- _expression_. `Open`
+_expression_. `Open`
 
- _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ Application.RecentFiles(2).Open
 
 [RecentFile Object](Excel.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

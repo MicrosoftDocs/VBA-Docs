@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: bab9caa5-9573-ec25-a4ec-0f51f16f999f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextConnection.TextFileHeaderRow property (Excel)
 
-Returns or sets value that specifies whether or not the first row (from the starting row) should be treated as a header row.  **Boolean** Read/Write
+Returns or sets value that specifies whether or not the first row (from the starting row) should be treated as a header row.  Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TextFileHeaderRow`
+_expression_. `TextFileHeaderRow`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns or sets value that specifies whether or not the first row (from the star
 
 [TextConnection Object](Excel.textconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

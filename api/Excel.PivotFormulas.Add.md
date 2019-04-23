@@ -1,5 +1,5 @@
 ---
-title: PivotFormulas.Add Method (Excel)
+title: PivotFormulas.Add method (Excel)
 keywords: vbaxl10.chm233078
 f1_keywords:
 - vbaxl10.chm233078
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFormulas.Add
 ms.assetid: 53969cea-74e5-7102-9a80-89b854006edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotFormulas.Add Method (Excel)
+# PivotFormulas.Add method (Excel)
 
 Creates a new PivotTable formula. 
 
 
 ## Syntax
 
- _expression_. `Add`( `_Formula_` , `_UseStandardFormula_` )
+_expression_.**Add**( `_Formula_` , `_UseStandardFormula_` )
 
- _expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
+_expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Worksheets(1).PivotTables(1).PivotFormulas _
 
 [PivotFormulas Object](Excel.PivotFormulas.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

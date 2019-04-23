@@ -5,6 +5,7 @@ api_name:
 - Excel.ThreeDFormat.Application
 ms.assetid: 3921f7fa-7ce8-3a70-acb2-45c8913dd909
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,14 +16,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -40,3 +41,4 @@ End If
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

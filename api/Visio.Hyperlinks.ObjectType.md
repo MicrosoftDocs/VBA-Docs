@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.ObjectType Property (Visio)
+title: Hyperlinks.ObjectType property (Visio)
 keywords: vis_sdr.chm15613960
 f1_keywords:
 - vis_sdr.chm15613960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlinks.ObjectType
 ms.assetid: 2734a9a0-e342-e72f-59ce-6b45e05c495f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks.ObjectType Property (Visio)
+# Hyperlinks.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

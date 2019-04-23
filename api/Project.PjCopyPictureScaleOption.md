@@ -1,14 +1,15 @@
 ---
-title: PjCopyPictureScaleOption Enumeration (Project)
+title: PjCopyPictureScaleOption enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjCopyPictureScaleOption
 ms.assetid: c9b995a6-67a4-93bb-6ed0-1a5f738db537
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjCopyPictureScaleOption Enumeration (Project)
+# PjCopyPictureScaleOption enumeration (Project)
 
 Contains constants that specify how to treat a picture of the active view if it is larger than  **MaxImageWidth** by **MaxImageHeight**.
 
@@ -23,3 +24,4 @@ Contains constants that specify how to treat a picture of the active view if it 
 |**pjCopyPictureTimescale**|4|Adjusts the timescale (zooms out) so that the picture fits  **MaxImageWidth** by **MaxImageHeight MeasurementUnits**.|
 |**pjCopyPictureTruncate**|5|Truncates any portion of the picture that exceeds the boundaries of  **MaxImageWidth** by **MaxImageHeight MeasurementUnits**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

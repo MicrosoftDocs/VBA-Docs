@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.ParentField
 ms.assetid: 4b609a86-9a25-f292-7446-2a65ea1f90a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that represents the Pivo
 
 ## Syntax
 
- _expression_. `ParentField`
+_expression_. `ParentField`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -40,3 +41,4 @@ MsgBox "The active field is a child of the field " & _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

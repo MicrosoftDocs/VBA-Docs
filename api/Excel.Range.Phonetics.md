@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Phonetics
 ms.assetid: fdc05b76-b574-63ec-045a-42fdcfae8a9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[Phonetics](Excel.Phonetics.md)** collection of the range. Read o
 
 ## Syntax
 
- _expression_. `Phonetics`
+_expression_. `Phonetics`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -43,3 +44,4 @@ End With
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

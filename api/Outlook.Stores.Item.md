@@ -1,5 +1,5 @@
 ---
-title: Stores.Item Method (Outlook)
+title: Stores.Item method (Outlook)
 keywords: vbaol11.chm819
 f1_keywords:
 - vbaol11.chm819
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Stores.Item
 ms.assetid: b516241a-7baf-b04b-027d-25de80058fbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Stores.Item Method (Outlook)
+# Stores.Item method (Outlook)
 
 Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_ . Read-only.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
+_expression_ A variable that represents a [Stores](Outlook.Stores.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ A  **Store** object in the parent **[Stores](Outlook.Stores.md)** collection, as
 
 ## Remarks
 
-The  **Store.DisplayName** property is the default property of a **Store** .
+The  **Store.DisplayName** property is the default property of a **Store**.
 
 If  _Index_ is a string and no item can be found by that name, an error will be returned.
 
@@ -48,3 +49,4 @@ If  _Index_ is a string and no item can be found by that name, an error will be 
 
 [Stores Object](Outlook.Stores.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

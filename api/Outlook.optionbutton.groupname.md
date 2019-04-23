@@ -3,6 +3,7 @@ title: OptionButton.GroupName Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 7b3b92d6-e1e0-6171-4d6a-4b0221e1c083
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[O
 
 ## Syntax
 
- _expression_. **GroupName**
+_expression_.**GroupName**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -37,4 +38,4 @@ Regardless of which method you use to create the group of buttons, clicking one 
 
 For example, assume your form includes some option buttons and a  **[MultiPage](Outlook.multipage.md)** that also includes option buttons. The option buttons on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a button on the **MultiPage** does not affect the buttons on the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

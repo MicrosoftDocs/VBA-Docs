@@ -1,5 +1,5 @@
 ---
-title: FormRegionStartup.BeforeFormRegionShow Method (Outlook)
+title: FormRegionStartup.BeforeFormRegionShow method (Outlook)
 keywords: vbaol11.chm2947
 f1_keywords:
 - vbaol11.chm2947
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormRegionStartup.BeforeFormRegionShow
 ms.assetid: c93c2f6a-511f-15cd-eca2-4eb35af9939a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegionStartup.BeforeFormRegionShow Method (Outlook)
+# FormRegionStartup.BeforeFormRegionShow method (Outlook)
 
 Allows an add-in to update the user interface of a form region before it is displayed. 
 
 
 ## Syntax
 
- _expression_. `BeforeFormRegionShow`( `_FormRegion_` )
+_expression_. `BeforeFormRegionShow`( `_FormRegion_` )
 
- _expression_ A variable that represents a 'FormRegionStartup' object.
+_expression_ A variable that represents a 'FormRegionStartup' object.
 
 
 ## Parameters
@@ -37,7 +38,7 @@ This method lets Outlook pass the  **FormRegion** object to the add-in, and allo
 
 When implementing this method, keep in mind that the item obtained from the  _FormRegion_ parameter (that is, the **[Item](Outlook.FormRegion.Item.md)** property of the **FormRegion** object) is read-only.
 
-For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup** , see code sample downloads on MSDN.
+For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup**, see code sample downloads on MSDN.
 
 
 ## See also
@@ -45,3 +46,4 @@ For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegion
 
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

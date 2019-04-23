@@ -1,5 +1,5 @@
 ---
-title: ListLevel.TabPosition Property (Word)
+title: ListLevel.TabPosition property (Word)
 keywords: vbawd10.chm160235528
 f1_keywords:
 - vbawd10.chm160235528
@@ -8,24 +8,25 @@ api_name:
 - Word.ListLevel.TabPosition
 ms.assetid: 36b73a32-4e8a-f6f5-75d0-55f1ad411055
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.TabPosition Property (Word)
+# ListLevel.TabPosition property (Word)
 
-Returns or sets the tab position for the specified  **ListLevel** object. Read/write **Single** .
+Returns or sets the tab position for the specified  **ListLevel** object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `TabPosition`
+_expression_. `TabPosition`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Remarks
 
-Because the  **ListLevel** object does not have a default tab setting, the **TabPosition** property always returns a value of 999999 or **wdUndefined** , unless you set the property to a value.
+Because the  **ListLevel** object does not have a default tab setting, the **TabPosition** property always returns a value of 999999 or **wdUndefined**, unless you set the property to a value.
 
 
 ## Example
@@ -62,3 +63,4 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=myltemp
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

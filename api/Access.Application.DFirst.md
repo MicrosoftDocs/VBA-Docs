@@ -7,31 +7,30 @@ ms.prod: access
 api_name:
 - Access.Application.DFirst
 ms.assetid: 670e54ac-a18f-e381-2ca7-257411f92865
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.DFirst method (Access)
 
-You can use the  **DFirst** function to return a random record from a particular field in a table or query when you simply need any value from that field.
+You can use the **DFirst** function to return a random record from a particular field in a table or query when you need any value from that field.
 
 
 ## Syntax
 
-_expression_. `DFirst`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
+_expression_.**DFirst** (_Expr_, _Domain_, _Criteria_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Expr_|Required|**String**|An expression that identifies the field from which you want to find the first or last value. It can be either a string expression identifying a field in a table or query, or an expression that performs a [calculation on data in that field](../access/Concepts/Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md). In  _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
+| _Expr_|Required|**String**|An expression that identifies the field from which you want to find the first or last value. It can be either a string expression identifying a field in a table or query, or an expression that performs a [calculation on data in that field](../access/Concepts/Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md). In _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain.|
-| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DFirst** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. If _criteria_ is omitted, the **DFirst** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise, the  **DFirst** function returns a **Null**.|
+| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the **DFirst** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. If _criteria_ is omitted, the **DFirst** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise, the **DFirst** function returns a **Null**.|
 
 ## Return value
 
@@ -40,25 +39,16 @@ Variant
 
 ## Remarks
 
-
-
-
- **Note**   If you want to return the first or last record in a set of records (a domain), you should create a query sorted as either ascending or descending and set the **TopValues** property to 1. From Visual Basic, you can also create an ADO **Recordset** object and use the **MoveFirst** or **MoveLast** method to return the first or last record in a set of records.
+> [!NOTE] 
+> If you want to return the first or last record in a set of records (a domain), you should create a query sorted as either ascending or descending and set the **TopValues** property to 1. From Visual Basic, you can also create an ADO **Recordset** object and use the **MoveFirst** or **MoveLast** method to return the first or last record in a set of records.
 
 
 ## Example
 
+The following examples show how to use various types of criteria with the **DFirst** function.
 
 
-The following examples show how to use various types of criteria with the  **DFirst** function.
-
- **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
-
-
-
-
-```js
+```vb
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.
@@ -103,14 +93,6 @@ The following examples show how to use various types of criteria with the  **DFi
 ```
 
 
-### About the contributors
-
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
-## See also
-
-
-[Application Object](Access.Application.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

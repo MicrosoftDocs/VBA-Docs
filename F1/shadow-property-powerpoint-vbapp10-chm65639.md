@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: afa33928-d3ae-4b45-8d7e-433d6a7fd941
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Legend.Shadow Property (PowerPoint)](http://msdn.microsoft.com/library/c5e7a1f8-7888-7b08-59c8-af9d7da45b19%28Office.15%29.aspx)
 [LegendKey.Shadow Property (PowerPoint)](http://msdn.microsoft.com/library/67153c37-8b97-56c8-7ea6-cd90e1dd51cc%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

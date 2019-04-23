@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d6b18670-3333-4409-a5e7-e7ee793f0848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OLEObjects Object (Visio)](http://msdn.microsoft.com/library/2f60aaba-4a31-a77b-45ae-5f2ee09ce6da%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

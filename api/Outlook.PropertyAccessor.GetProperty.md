@@ -1,5 +1,5 @@
 ---
-title: PropertyAccessor.GetProperty Method (Outlook)
+title: PropertyAccessor.GetProperty method (Outlook)
 keywords: vbaol11.chm1970
 f1_keywords:
 - vbaol11.chm1970
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyAccessor.GetProperty
 ms.assetid: a5f3493b-f302-c7b6-f442-23a7605be1c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyAccessor.GetProperty Method (Outlook)
+# PropertyAccessor.GetProperty method (Outlook)
 
 Returns an  **Object** that represents the value of the property specified by _SchemaName_ .
 
 
 ## Syntax
 
- _expression_. `GetProperty`( `_SchemaName_` )
+_expression_. `GetProperty`( `_SchemaName_` )
 
- _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters
@@ -45,7 +46,7 @@ For more information on getting properties using the  **PropertyAccessor** objec
 
 ## Example
 
-The following code sample demonstrates how to use the  **GetProperty** method to read a MAPI property that belongs to a **[MailItem](Outlook.MailItem.md)** but which is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS** .
+The following code sample demonstrates how to use the  **GetProperty** method to read a MAPI property that belongs to a **[MailItem](Outlook.MailItem.md)** but which is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
 
 
 ```vb
@@ -72,3 +73,4 @@ End Sub
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

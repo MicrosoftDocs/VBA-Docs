@@ -1,15 +1,16 @@
 ---
-title: TableObject Object (Excel)
+title: TableObject object (Excel)
 keywords: vbaxl10.chm915072
 f1_keywords:
 - vbaxl10.chm915072
 ms.prod: excel
 ms.assetid: afc981f4-155b-085a-3c17-c8d46c4d7037
-ms.date: 06/08/2017
+ms.date: 04/02/2019
+localization_priority: Normal
 ---
 
 
-# TableObject Object (Excel)
+# TableObject object (Excel)
 
 Represents a worksheet table built from data returned from a PowerPivot model.
 
@@ -17,7 +18,6 @@ Represents a worksheet table built from data returned from a PowerPivot model.
 ## Example
 
 The following sample code creates a PowerPivot query table by connecting to a data source.
-
 
 ```vb
 Sub CreateTable()
@@ -48,36 +48,30 @@ End Sub
 
 ## Methods
 
-
-
-|**Name**|
-|:-----|
-|[Delete](Excel.tableobject.delete.md)|
-|[Refresh](Excel.tableobject.refresh.md)|
+- [Delete](Excel.tableobject.delete.md)
+- [Refresh](Excel.tableobject.refresh.md)
 
 ## Properties
 
+- [AdjustColumnWidth](Excel.tableobject.adjustcolumnwidth.md)
+- [Application](Excel.tableobject.application.md)
+- [Creator](Excel.tableobject.creator.md)
+- [Destination](Excel.tableobject.destination.md)
+- [EnableEditing](Excel.tableobject.enableediting.md)
+- [EnableRefresh](Excel.tableobject.enablerefresh.md)
+- [FetchedRowOverflow](Excel.tableobject.fetchedrowoverflow.md)
+- [ListObject](Excel.tableobject.listobject.md)
+- [Parent](Excel.tableobject.parent.md)
+- [PreserveColumnInfo](Excel.tableobject.preservecolumninfo.md)
+- [PreserveFormatting](Excel.tableobject.preserveformatting.md)
+- [RefreshStyle](Excel.tableobject.refreshstyle.md)
+- [ResultRange](Excel.tableobject.resultrange.md)
+- [RowNumbers](Excel.tableobject.rownumbers.md)
+- [WorkbookConnection](Excel.tableobject.workbookconnection.md)
 
-
-|**Name**|
-|:-----|
-|[AdjustColumnWidth](Excel.tableobject.adjustcolumnwidth.md)|
-|[Application](Excel.tableobject.application.md)|
-|[Creator](Excel.tableobject.creator.md)|
-|[Destination](Excel.tableobject.destination.md)|
-|[EnableEditing](Excel.tableobject.enableediting.md)|
-|[EnableRefresh](Excel.tableobject.enablerefresh.md)|
-|[FetchedRowOverflow](Excel.tableobject.fetchedrowoverflow.md)|
-|[ListObject](Excel.tableobject.listobject.md)|
-|[Parent](Excel.tableobject.parent.md)|
-|[PreserveColumnInfo](Excel.tableobject.preservecolumninfo.md)|
-|[PreserveFormatting](Excel.tableobject.preserveformatting.md)|
-|[RefreshStyle](Excel.tableobject.refreshstyle.md)|
-|[ResultRange](Excel.tableobject.resultrange.md)|
-|[RowNumbers](Excel.tableobject.rownumbers.md)|
-|[WorkbookConnection](Excel.tableobject.workbookconnection.md)|
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

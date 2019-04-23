@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Outdent Method (Word)
+title: Paragraphs.Outdent method (Word)
 keywords: vbawd10.chm156762446
 f1_keywords:
 - vbawd10.chm156762446
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraphs.Outdent
 ms.assetid: 94eda3f5-a67d-1e25-9851-65f64be5f472
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs.Outdent Method (Word)
+# Paragraphs.Outdent method (Word)
 
 Removes one level of indent for one or more paragraphs.
 
 
 ## Syntax
 
- _expression_. `Outdent`
+_expression_. `Outdent`
 
- _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
+_expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ ActiveDocument.Paragraphs(1).Outdent
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

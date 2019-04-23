@@ -1,21 +1,22 @@
 ---
-title: Assignment.Delete Method (Project)
+title: Assignment.Delete method (Project)
 ms.prod: project-server
 api_name:
 - Project.Assignment.Delete
 ms.assetid: 3147c0e0-239c-75d2-cae9-c299412190e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Assignment.Delete Method (Project)
+# Assignment.Delete method (Project)
 
 Deletes the  **Assignment** object from an **Assignments** collection.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
@@ -41,4 +42,4 @@ Sub DeleteAssignments()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

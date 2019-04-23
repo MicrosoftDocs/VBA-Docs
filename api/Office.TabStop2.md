@@ -1,16 +1,17 @@
 ---
-title: TabStop2 Object (Office)
+title: TabStop2 object (Office)
 ms.prod: office
 api_name:
 - Office.TabStop2
 ms.assetid: fee461a9-684b-e6c2-a74a-d0aa161d0d9c
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TabStop2 Object (Office)
+# TabStop2 object (Office)
 
-Represents a single tab stop. The  **TabStop2** object is a member of the **TabStops2** collection.
+Represents a single tab stop. The **TabStop2** object is a member of the **[TabStops2](office.tabstops2.md)** collection.
 
 
 ## Remarks
@@ -31,30 +32,11 @@ End Sub
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Clear](Office.TabStop2.Clear.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.TabStop2.Application.md)|
-|[Creator](Office.TabStop2.Creator.md)|
-|[Parent](Office.TabStop2.Parent.md)|
-|[Position](Office.TabStop2.Position.md)|
-|[Type](Office.TabStop2.Type.md)|
-
 ## See also
 
+- [TabStop2 object members](overview/Library-Reference/tabstop2-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Using ActiveX Controls on a Document (Word)
 ms.prod: word
 ms.assetid: fe3a830e-c734-1412-6955-4a67b6ec9eed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,5 +31,5 @@ Just as you can add ActiveX controls to  [custom dialog boxes](../Customizing-Wo
 5.  [Use control values while code is running](using-control-values-while-code-is-running-word.md)
     
     Some properties can be set at run time.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Type Property (Visio)
+title: GraphicItem.Type property (Visio)
 keywords: vis_sdr.chm16914595
 f1_keywords:
 - vis_sdr.chm16914595
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItem.Type
 ms.assetid: 36af507e-270b-e2e6-97b9-c5e02ffe1b96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem.Type Property (Visio)
+# GraphicItem.Type property (Visio)
 
 Returns the type of the graphic item. Read-only.
 
@@ -21,7 +22,7 @@ Returns the type of the graphic item. Read-only.
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
@@ -37,7 +38,7 @@ The following possible values for the  **Type** property are from the **VisGraph
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeIconSet**|2|Represents an  **Icon Set** graphic item.|
 | **visTypeTextCallout**|3|Represents a  **Text** graphic item.|
@@ -45,3 +46,4 @@ The following possible values for the  **Type** property are from the **VisGraph
 | **visTypeColorByValue**|5|Represents a  **Color by Value** graphic item.|
 | **visTypeHeading**|6|Represents a  **Text** graphic item that has a **Callout** type of **Heading x**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

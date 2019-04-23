@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.NumberStyle Property (Word)
+title: CaptionLabel.NumberStyle property (Word)
 keywords: vbawd10.chm158924804
 f1_keywords:
 - vbawd10.chm158924804
@@ -8,19 +8,20 @@ api_name:
 - Word.CaptionLabel.NumberStyle
 ms.assetid: 1e668fdf-606c-04db-db3d-17284bd2d3af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CaptionLabel.NumberStyle Property (Word)
+# CaptionLabel.NumberStyle property (Word)
 
-Returns or sets the number style for the  **CaptionLabel** object. Read/write **WdCaptionNumberStyle** .
+Returns or sets the number style for the  **CaptionLabel** object. Read/write **WdCaptionNumberStyle**.
 
 
 ## Syntax
 
- _expression_. `NumberStyle`
+_expression_. `NumberStyle`
 
- _expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
+_expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Selection.InsertCaption Label:=wdCaptionFigure
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

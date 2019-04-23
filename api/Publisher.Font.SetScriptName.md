@@ -1,5 +1,5 @@
 ---
-title: Font.SetScriptName Method (Publisher)
+title: Font.SetScriptName method (Publisher)
 keywords: vbapb10.chm5374001
 f1_keywords:
 - vbapb10.chm5374001
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.SetScriptName
 ms.assetid: f1f2c01e-098c-1afd-0e64-1d563c1ca626
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.SetScriptName Method (Publisher)
+# Font.SetScriptName method (Publisher)
 
 Sets the name of the font script to use in a text range.
 
 
 ## Syntax
 
- _expression_. **SetScriptName**(**_Script_**,  **_FontName_**)
+_expression_.**SetScriptName**(**_Script_**,  **_FontName_**)
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -54,4 +55,4 @@ Sub GetScript()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

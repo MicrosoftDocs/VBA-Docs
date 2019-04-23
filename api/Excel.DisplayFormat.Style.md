@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.Style
 ms.assetid: 34dc5922-a61d-2cc1-cd5d-d9ae68f3f832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a value, containing a  **[Style](Excel.Style.md)** object, that represen
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

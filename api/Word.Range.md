@@ -1,5 +1,5 @@
 ---
-title: Range Object (Word)
+title: Range object (Word)
 keywords: vbawd10.chm2398
 f1_keywords:
 - vbawd10.chm2398
@@ -8,10 +8,11 @@ api_name:
 - Word.Range
 ms.assetid: 15a7a1c4-5f3f-5b6e-60e9-29688de3f274
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range Object (Word)
+# Range object (Word)
 
 Represents a contiguous area in a document. Each  **Range** object is defined by a starting and ending character position.
 
@@ -56,7 +57,7 @@ For more information about working with  **Range** objects, see [Working with Ra
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoFormat](./Word.Range.AutoFormat.md)|
 |[Calculate](./Word.Range.Calculate.md)|
@@ -138,7 +139,7 @@ For more information about working with  **Range** objects, see [Working with Ra
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Word.Range.Application.md)|
 |[Bold](./Word.Range.Bold.md)|
@@ -240,5 +241,6 @@ For more information about working with  **Range** objects, see [Working with Ra
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

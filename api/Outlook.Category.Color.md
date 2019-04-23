@@ -1,5 +1,5 @@
 ---
-title: Category.Color Property (Outlook)
+title: Category.Color property (Outlook)
 keywords: vbaol11.chm2427
 f1_keywords:
 - vbaol11.chm2427
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Category.Color
 ms.assetid: 42814031-97ee-bb71-7c24-4ddd367d793c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Category.Color Property (Outlook)
+# Category.Color property (Outlook)
 
 Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant that indicates the color used by the **[Category](Outlook.Category.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
- _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
 
 ## Remarks
@@ -132,3 +133,4 @@ End Sub
 
 [Category Object](Outlook.Category.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Title
 ms.assetid: 98bd93a8-f4bb-9b73-b092-35c820586939
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the title of the alternative text associated with the specified 
 
 ## Syntax
 
- _expression_. `Title`
+_expression_.**Title**
 
- _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
+_expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ To set the descriptive text string of the alternative text for a shape, use the 
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

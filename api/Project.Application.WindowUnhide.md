@@ -1,5 +1,5 @@
 ---
-title: Application.WindowUnhide Method (Project)
+title: Application.WindowUnhide method (Project)
 keywords: vbapj.chm704
 f1_keywords:
 - vbapj.chm704
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WindowUnhide
 ms.assetid: 438693a7-5b99-e373-6d28-9a42dfcda7d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowUnhide Method (Project)
+# Application.WindowUnhide method (Project)
 
 Shows a hidden window.
 
 
 ## Syntax
 
- _expression_. `WindowUnhide`( ` _Name_` )
+_expression_. `WindowUnhide`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -56,4 +57,4 @@ Sub UnhideAllWindows()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

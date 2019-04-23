@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Number Property (PowerPoint)
+title: BulletFormat.Number property (PowerPoint)
 keywords: vbapp10.chm577013
 f1_keywords:
 - vbapp10.chm577013
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.Number
 ms.assetid: 90f92c4e-4a15-7efe-1251-5394a148db72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.Number Property (PowerPoint)
+# BulletFormat.Number property (PowerPoint)
 
 Returns the bullet number of a paragraph when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read-only.
 
 
 ## Syntax
 
- _expression_. `Number`
+_expression_. `Number`
 
- _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -64,3 +65,4 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

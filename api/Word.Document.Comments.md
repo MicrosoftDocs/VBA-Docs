@@ -1,5 +1,5 @@
 ---
-title: Document.Comments Property (Word)
+title: Document.Comments property (Word)
 keywords: vbawd10.chm158007305
 f1_keywords:
 - vbawd10.chm158007305
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Comments
 ms.assetid: 1597a002-afa4-743d-60a6-ffd398f2b599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Comments Property (Word)
+# Document.Comments property (Word)
 
 Returns a  **[Comments](Word.comments.md)** collection that represents all the comments in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Comments`
+_expression_. `Comments`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Next comm
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

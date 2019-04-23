@@ -1,5 +1,5 @@
 ---
-title: NameSpace.RemoveStore Method (Outlook)
+title: NameSpace.RemoveStore method (Outlook)
 keywords: vbaol11.chm772
 f1_keywords:
 - vbaol11.chm772
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.RemoveStore
 ms.assetid: 4353387a-0e44-1d4a-b0e6-96e2c2594a6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.RemoveStore Method (Outlook)
+# NameSpace.RemoveStore method (Outlook)
 
 Removes a Personal Folders file (.pst) from the current MAPI profile or session.
 
 
 ## Syntax
 
- _expression_. `RemoveStore`( `_Folder_` )
+_expression_. `RemoveStore`( `_Folder_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -75,3 +76,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

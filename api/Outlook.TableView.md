@@ -1,5 +1,5 @@
 ---
-title: TableView Object (Outlook)
+title: TableView object (Outlook)
 keywords: vbaol11.chm3204
 f1_keywords:
 - vbaol11.chm3204
@@ -8,10 +8,11 @@ api_name:
 - Outlook.TableView
 ms.assetid: 026e27f8-1655-060d-e8cc-87eaaf4f1510
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView Object (Outlook)
+# TableView object (Outlook)
 
 Represents a view that displays Outlook items in a table, with each item in a row and the details of the item in the columns.
 
@@ -37,7 +38,7 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.TableView.Apply.md)|
 |[Copy](Outlook.TableView.Copy.md)|
@@ -51,7 +52,7 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)|
 |[AlwaysExpandConversation](Outlook.TableView.AlwaysExpandConversation.md)|
@@ -93,4 +94,6 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

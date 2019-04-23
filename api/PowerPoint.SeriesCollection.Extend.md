@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Extend Method (PowerPoint)
+title: SeriesCollection.Extend method (PowerPoint)
 keywords: vbapp10.chm65763
 f1_keywords:
 - vbapp10.chm65763
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SeriesCollection.Extend
 ms.assetid: f5ac6da3-90c7-d938-9a95-e87d228d901d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection.Extend Method (PowerPoint)
+# SeriesCollection.Extend method (PowerPoint)
 
 Adds new data points to an existing series collection.
 
 
 ## Syntax
 
- _expression_. `Extend`( `_Source_`, `_Rowcol_`, `_CategoryLabels_` )
+_expression_. `Extend`( `_Source_`, `_Rowcol_`, `_CategoryLabels_` )
 
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
@@ -65,3 +66,4 @@ End With
 
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

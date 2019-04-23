@@ -1,21 +1,22 @@
 ---
-title: CustomXMLPrefixMapping Object (Office)
+title: CustomXMLPrefixMapping object (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping
 ms.assetid: a657a760-cc52-5762-108e-2e95e9dba48f
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLPrefixMapping Object (Office)
+# CustomXMLPrefixMapping object (Office)
 
 Represents a namespace prefix.
 
 
 ## Example
 
-The following example creates a  **CustomXMLPrefixMapping** object by adding a namespace and prefix to the **CustomXMLPrefixMapping** collection.
+The following example creates a **CustomXMLPrefixMapping** object by adding a namespace and prefix to the **CustomXMLPrefixMapping** collection.
 
 
 ```vb
@@ -26,22 +27,9 @@ objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace
 ```
 
 
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.CustomXMLPrefixMapping.Application.md)|
-|[Creator](Office.CustomXMLPrefixMapping.Creator.md)|
-|[NamespaceURI](Office.CustomXMLPrefixMapping.NamespaceURI.md)|
-|[Parent](Office.CustomXMLPrefixMapping.Parent.md)|
-|[Prefix](Office.CustomXMLPrefixMapping.Prefix.md)|
-
 ## See also
 
+- [CustomXMLPrefixMapping object members](overview/library-reference/customxmlprefixmapping-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

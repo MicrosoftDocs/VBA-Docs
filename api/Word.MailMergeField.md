@@ -1,5 +1,5 @@
 ---
-title: MailMergeField Object (Word)
+title: MailMergeField object (Word)
 keywords: vbawd10.chm2334
 f1_keywords:
 - vbawd10.chm2334
@@ -8,10 +8,11 @@ api_name:
 - Word.MailMergeField
 ms.assetid: 8beb6228-079c-008c-10aa-3f8f711fcf5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeField Object (Word)
+# MailMergeField object (Word)
 
 Represents a single mail merge field in a document. The  **MailMergeDataField** object is a member of the **[MailMergeDataFields](Word.mailmergedatafields.md)** collection. The **MailMergeDataFields** collection includes all the mail merge related fields in a document.
 
@@ -35,12 +36,13 @@ ActiveDocument.MailMerge.Fields.Add Range:=Selection.Range, _
  Name:="MiddleInitial"
 ```
 
-The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn** , for adding fields related to a mail merge operation.
+The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
 
 
 ## See also
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

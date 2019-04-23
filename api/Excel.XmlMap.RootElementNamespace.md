@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.RootElementNamespace
 ms.assetid: f81d0762-fa03-6f90-be99-713478a1ab42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the
 
 ## Syntax
 
- _expression_. `RootElementNamespace`
+_expression_. `RootElementNamespace`
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

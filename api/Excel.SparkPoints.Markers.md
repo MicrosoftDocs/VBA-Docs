@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkPoints.Markers
 ms.assetid: 13d678b9-c0d1-93d1-3c0a-6c2b9a33cdc2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
- _expression_. `Markers`
+_expression_. `Markers`
 
- _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Remarks
 
-The  **Markers** property corresponds to the setting of the **Markers** check box in the **Show** section, and of the **Markers** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+The  **Markers** property corresponds to the setting of the **Markers** check box in the **Show** section, and of the **Markers** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also
@@ -38,3 +39,4 @@ The  **Markers** property corresponds to the setting of the **Markers** check bo
 
 [SparkPoints Object](Excel.SparkPoints.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

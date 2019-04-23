@@ -3,6 +3,7 @@ title: Could not save; currently locked by another user. (Error 3046)
 ms.prod: access
 ms.assetid: 529710d7-1ffd-9f08-cd30-3817745f44d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to save information on a database page that is currently locked by ano
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

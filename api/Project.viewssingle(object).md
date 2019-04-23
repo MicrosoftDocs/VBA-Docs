@@ -1,12 +1,13 @@
 ---
-title: ViewsSingle Object (Project)
+title: ViewsSingle object (Project)
 ms.prod: project-server
 ms.assetid: bd6f698b-780f-294a-037b-45c63b9a1c23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewsSingle Object (Project)
+# ViewsSingle object (Project)
 
 Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
  
@@ -16,7 +17,7 @@ Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ViewsSingle.Add.md)|
 |[Copy](Project.ViewsSingle.Copy.md)|
@@ -25,7 +26,7 @@ Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ViewsSingle.Application.md)|
 |[Count](Project.ViewsSingle.Count.md)|
@@ -37,3 +38,5 @@ Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

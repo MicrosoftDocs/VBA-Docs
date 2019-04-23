@@ -1,12 +1,13 @@
 ---
-title: xlOrientation Enumeration (Word)
+title: XlOrientation enumeration (Word)
 ms.prod: word
 ms.assetid: 28baaaa4-3ac7-350e-512c-e6f8c5651486
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlOrientation Enumeration (Word)
+# XlOrientation enumeration (Word)
 
 Specifies the text orientation.
 
@@ -19,3 +20,4 @@ Specifies the text orientation.
 | **xlUpward**|-4171|Text runs upward.|
 | **xlVertical**|-4166|Text runs downward and is centered in the cell.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

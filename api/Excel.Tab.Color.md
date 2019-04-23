@@ -8,19 +8,20 @@ api_name:
 - Excel.Tab.Color
 ms.assetid: f1ae9dad-2476-8594-9a89-6cf126854169
 ms.date: 08/29/2018
+localization_priority: Normal
 ---
 
 
 # Tab.Color property (Excel)
 
-Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant** .
+Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
- _expression_ An expression that returns a [Tab](./Excel.Tab.md) object.
+ _expression_ An expression that returns a [Tab](Excel.Tab.md) object.
 
 
 ## Remarks
@@ -53,3 +54,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 [Tab Object](Excel.Tab.md)
 
 [RGB Function](../Language/Reference/User-Interface-Help/rgb-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

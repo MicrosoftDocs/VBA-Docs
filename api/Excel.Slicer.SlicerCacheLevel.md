@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.SlicerCacheLevel
 ms.assetid: 769a1428-7222-09ff-f53d-88d2cf80b3ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object associated
 
 ## Syntax
 
- _expression_. `SlicerCacheLevel`
+_expression_. `SlicerCacheLevel`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ This property only applies to OLAP data sources.
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

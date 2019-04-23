@@ -1,14 +1,15 @@
 ---
-title: CostRateTable Object (Project)
+title: CostRateTable object (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTable
 ms.assetid: ca514e06-3542-00f1-5221-a609378d2392
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CostRateTable Object (Project)
+# CostRateTable object (Project)
 
 
  
@@ -36,7 +37,7 @@ GovtRates.PayRates(1).StandardRate = "$10/h"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CostRateTable.Application.md)|
 |[Index](Project.CostRateTable.Index.md)|
@@ -44,3 +45,4 @@ GovtRates.PayRates(1).StandardRate = "$10/h"
 |[Parent](Project.CostRateTable.Parent.md)|
 |[PayRates](Project.CostRateTable.PayRates.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

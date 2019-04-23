@@ -1,14 +1,15 @@
 ---
-title: WdLetterheadLocation Enumeration (Word)
+title: WdLetterheadLocation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLetterheadLocation
 ms.assetid: e8f68788-29b5-be9b-0217-647d3e794592
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdLetterheadLocation Enumeration (Word)
+# WdLetterheadLocation enumeration (Word)
 
 Specifies a location to place letterhead in a letter created by the Letter Wizard.
 
@@ -21,3 +22,4 @@ Specifies a location to place letterhead in a letter created by the Letter Wizar
 | **wdLetterRight**|3|To the right of the letter.|
 | **wdLetterTop**|0|At the top of the letter.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

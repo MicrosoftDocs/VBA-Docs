@@ -1,5 +1,5 @@
 ---
-title: System.Creator Property (Word)
+title: System.Creator property (Word)
 keywords: vbawd10.chm154469353
 f1_keywords:
 - vbawd10.chm154469353
@@ -8,19 +8,20 @@ api_name:
 - Word.System.Creator
 ms.assetid: 165d29a2-f01e-a754-95c1-e62f6179229e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# System.Creator Property (Word)
+# System.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[System](Word.System.md)' object.
+_expression_ Required. A variable that represents a '[System](Word.System.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

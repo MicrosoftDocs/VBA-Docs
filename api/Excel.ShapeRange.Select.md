@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (Excel)
+title: ShapeRange.Select method (Excel)
 keywords: vbaxl10.chm640092
 f1_keywords:
 - vbaxl10.chm640092
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.Select
 ms.assetid: 87b80b0b-e42a-cf7c-bb48-05fdf53e5599
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Select Method (Excel)
+# ShapeRange.Select method (Excel)
 
 Selects the object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_.**Select** (_Replace_)
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Selects the object.
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

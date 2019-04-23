@@ -1,5 +1,5 @@
 ---
-title: Envelope.Insert Method (Word)
+title: Envelope.Insert method (Word)
 keywords: vbawd10.chm152567913
 f1_keywords:
 - vbawd10.chm152567913
@@ -8,24 +8,23 @@ api_name:
 - Word.Envelope.Insert
 ms.assetid: 6fd42ed0-f8d0-d2be-175d-345f1367de61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.Insert Method (Word)
+# Envelope.Insert method (Word)
 
 Inserts an envelope as a separate section at the beginning of the specified document.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_ExtractAddress_` , `_Address_` , `_AutoText_` , `_OmitReturnAddress_` , `_ReturnAddress_` , `_ReturnAutoText_` , `_PrintBarCode_` , `_PrintFIMA_` , `_Size_` , `_Height_` , `_Width_` , `_FeedSource_` , `_AddressFromLeft_` , `_AddressFromTop_` , `_ReturnAddressFromLeft_` , `_ReturnAddressFromTop_` , `_DefaultFaceUp_` , `_DefaultOrientation_` , `_PrintEPostage_` , `_Vertical_` , `_RecipientNamefromLeft_` , `_RecipientNamefromTop_` , `_RecipientPostalfromLeft_` , `_RecipientPostalfromTop_` , `_SenderNamefromLeft_` , `_SenderNamefromTop_` , `_SenderPostalfromLeft_` , `_SenderPostalfromTop_` )
+_expression_.**Insert** (_ExtractAddress_, _Address_, _AutoText_, _OmitReturnAddress_, _ReturnAddress_, _ReturnAutoText_, _PrintBarCode_, _PrintFIMA_, _Size_, _Height_, _Width_, _FeedSource_, _AddressFromLeft_, _AddressFromTop_, _ReturnAddressFromLeft_, _ReturnAddressFromTop_, _DefaultFaceUp_, _DefaultOrientation_, _PrintEPostage_, _Vertical_, _RecipientNamefromLeft_, _RecipientNamefromTop_, _RecipientPostalfromLeft_, _RecipientPostalfromTop_, _SenderNamefromLeft_, _SenderNamefromTop_, _SenderPostalfromLeft_, _SenderPostalfromTop_)
 
- _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
+_expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -48,7 +47,7 @@ Inserts an envelope as a separate section at the beginning of the specified docu
 | _DefaultFaceUp_|Optional| **Variant**| **True** to print the envelope face up, **False** to print it face down.|
 | _DefaultOrientation_|Optional| **Variant**|The orientation for the envelope. Can be any  **WdEnvelopeOrientation** constant.|
 | _PrintEPostage_|Optional| **Variant**| **True** to insert postage from an Internet postage vendor.|
-| _Vertical_|Optional| **Variant**| **True** to print vertical text on the envelope. Used for Asian envelopes. Default is **False** .|
+| _Vertical_|Optional| **Variant**| **True** to print vertical text on the envelope. Used for Asian envelopes. Default is **False**.|
 | _RecipientNamefromLeft_|Optional| **Variant**|Position of the recipient's name, measured in points from the left edge of the envelope. Used for Asian envelopes.|
 | _RecipientNamefromTop_|Optional| **Variant**|Position of the recipient's name, measured in points from the top edge of the envelope. Used for Asian envelopes.|
 | _RecipientPostalfromLeft_|Optional| **Variant**|Position of the recipient's postal code, measured in points from the left edge of the envelope. Used for Asian envelopes.|
@@ -82,3 +81,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndDisconnect Method (Publisher)
+title: ConnectorFormat.EndDisconnect method (Publisher)
 keywords: vbapb10.chm3211283
 f1_keywords:
 - vbapb10.chm3211283
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.EndDisconnect
 ms.assetid: cf46820e-99fc-cdd2-999a-f30117b5616f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndDisconnect Method (Publisher)
+# ConnectorFormat.EndDisconnect method (Publisher)
 
 Detaches the end of the specified connector from the shape to which it is attached.
 
 
 ## Syntax
 
- _expression_. **EndDisconnect**
+_expression_.**EndDisconnect**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -68,4 +69,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

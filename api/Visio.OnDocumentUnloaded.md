@@ -5,6 +5,7 @@ api_name:
 - Visio.OnDocumentUnloaded
 ms.assetid: b2f1d5ad-122d-6e55-1cb0-63c78f79bc2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs after the current document in Microsoft Visio Viewer is unloaded.
 
 ## Syntax
 
- _expression_. **OnDocumentUnloaded**
+_expression_.**OnDocumentUnloaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Remarks
@@ -36,4 +37,4 @@ Private Sub vsoViewer_OnDocumentUnloaded()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

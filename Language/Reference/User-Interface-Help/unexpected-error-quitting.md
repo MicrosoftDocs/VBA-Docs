@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2f82b216-8afe-da33-42fa-e40357fceee6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 An unexpected error occurred, and Visual Basic was unable to continue. This may be a hardware problem or an effect of other software in your system.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Offset
 ms.assetid: dfbbd1a2-2f73-fd6a-6277-4584823f55a4
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
 # Range.Offset property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents a range that?s offset from the specified range.
+Returns a  **[Range](Excel.Range(object).md)** object that represents a range that's offset from the specified range.
 
 
 ## Syntax
 
- _expression_. `Offset`( `_RowOffset_` , `_ColumnOffset_` )
+_expression_. `Offset`( `_RowOffset_` , `_ColumnOffset_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(object).md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

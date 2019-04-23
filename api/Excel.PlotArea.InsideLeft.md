@@ -8,19 +8,20 @@ api_name:
 - Excel.PlotArea.InsideLeft
 ms.assetid: 193934e2-c3ca-c3cf-fb90-2dd45e17f9b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PlotArea.InsideLeft property (Excel)
 
-Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-write  **Double** .
+Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideLeft`
+_expression_. `InsideLeft`
 
- _expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End With
 
 [PlotArea Object](Excel.PlotArea(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

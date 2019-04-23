@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables.AddPivotTable Method (Excel)
+title: SlicerPivotTables.AddPivotTable method (Excel)
 keywords: vbaxl10.chm911077
 f1_keywords:
 - vbaxl10.chm911077
@@ -8,19 +8,20 @@ api_name:
 - Excel.SlicerPivotTables.AddPivotTable
 ms.assetid: c5fc95c6-0fb9-1c8f-5b12-8a4c0f9f10c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlicerPivotTables.AddPivotTable Method (Excel)
+# SlicerPivotTables.AddPivotTable method (Excel)
 
 Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection.
 
 
 ## Syntax
 
- _expression_. `AddPivotTable`( `_PivotTable_` )
+_expression_. `AddPivotTable`( `_PivotTable_` )
 
- _expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
+_expression_ A variable that represents a [SlicerPivotTables](Excel.SlicerPivotTables.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ pvts.AddPivotTable(ActiveSheet.PivotTables("PivotTable1"))
 
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

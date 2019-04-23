@@ -1,12 +1,13 @@
 ---
-title: Properties
+title: Properties (Microsoft Forms)
 ms.prod: office
 ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
-ms.date: 09/17/2018
+ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 
-# Properties
+# Properties (Microsoft Forms)
 
 - [Accelerator](accelerator-property.md)
 - [ActiveControl](activecontrol-property.md)
@@ -127,4 +128,10 @@ ms.date: 09/17/2018
 - [Zoom](zoom-property.md)
 
     
+## See also
 
+- [Properties (Visual Basic Add-In Model)](../visual-basic-add-in-model/properties-visual-basic-add-in-model.md)
+- [Objects, methods, and properties (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Microsoft Forms](reference-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

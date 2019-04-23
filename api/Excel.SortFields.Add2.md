@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SortFields.Add2
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 # SortFields.Add2 method (Excel)
@@ -65,3 +66,4 @@ With ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort
 End With
 ```
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

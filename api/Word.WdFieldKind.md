@@ -1,14 +1,15 @@
 ---
-title: WdFieldKind Enumeration (Word)
+title: WdFieldKind enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFieldKind
 ms.assetid: b9e0d407-cef5-423d-93eb-f315a4910da7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdFieldKind Enumeration (Word)
+# WdFieldKind enumeration (Word)
 
 Specifies the type of field for a  **Field** object.
 
@@ -21,3 +22,4 @@ Specifies the type of field for a  **Field** object.
 | **wdFieldKindNone**|0|An invalid field (for example, a pair of field characters with nothing inside).|
 | **wdFieldKindWarm**|2|A field that can be updated and has a result. This type includes fields that are automatically updated when the source changes and fields that can be manually updated (for example, DATE or INCLUDETEXT).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

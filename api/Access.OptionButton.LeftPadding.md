@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.OptionButton.LeftPadding
 ms.assetid: 5e60f737-5cc7-97e9-af4a-b8f065a5277b
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # OptionButton.LeftPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the option button and its left gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the option button and its left gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
-[OptionButton Object](Access.OptionButton.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

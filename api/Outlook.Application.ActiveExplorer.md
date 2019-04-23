@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveExplorer Method (Outlook)
+title: Application.ActiveExplorer method (Outlook)
 keywords: vbaol11.chm712
 f1_keywords:
 - vbaol11.chm712
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.ActiveExplorer
 ms.assetid: f6dd27c0-4319-c7fc-191f-8b3b2ea319d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ActiveExplorer Method (Outlook)
+# Application.ActiveExplorer method (Outlook)
 
 Returns the topmost  **[Explorer](Outlook.Explorer.md)** object on the desktop.
 
 
 ## Syntax
 
- _expression_. `ActiveExplorer`
+_expression_. `ActiveExplorer`
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Return value
@@ -77,3 +78,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

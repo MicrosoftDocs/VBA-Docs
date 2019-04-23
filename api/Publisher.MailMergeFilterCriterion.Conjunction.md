@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Conjunction Property (Publisher)
+title: MailMergeFilterCriterion.Conjunction property (Publisher)
 keywords: vbapb10.chm6815750
 f1_keywords:
 - vbapb10.chm6815750
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilterCriterion.Conjunction
 ms.assetid: 79365a25-97fd-a18f-7815-eaccf4c5bdca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Conjunction Property (Publisher)
+# MailMergeFilterCriterion.Conjunction property (Publisher)
 
 Returns or sets an  **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **[MailMergeFilters](Publisher.MailMergeFilters.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. **Conjunction**
+_expression_.**Conjunction**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
@@ -59,4 +60,4 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

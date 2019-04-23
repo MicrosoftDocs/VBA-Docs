@@ -1,5 +1,5 @@
 ---
-title: Font.ContextualAlternates Property (Word)
+title: Font.ContextualAlternates property (Word)
 keywords: vbawd10.chm156369073
 f1_keywords:
 - vbawd10.chm156369073
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.ContextualAlternates
 ms.assetid: 065589b0-afbd-dfb1-4f96-2c70b558b773
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.ContextualAlternates Property (Word)
+# Font.ContextualAlternates property (Word)
 
-Specifies whether or not contextual alternates are enabled for the specified font. Read/write  **Long** .
+Specifies whether or not contextual alternates are enabled for the specified font. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `ContextualAlternates`
+_expression_. `ContextualAlternates`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -45,3 +46,4 @@ ActiveDocument.Range.Font.ContextualAlternates = True
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

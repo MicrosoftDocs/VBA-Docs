@@ -1,14 +1,15 @@
 ---
-title: WdPageNumberAlignment Enumeration (Word)
+title: WdPageNumberAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageNumberAlignment
 ms.assetid: 9d31a530-21ef-8838-1a93-e7f003f9376d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPageNumberAlignment Enumeration (Word)
+# WdPageNumberAlignment enumeration (Word)
 
 Specifies the alignment to apply to page numbers.
 
@@ -22,3 +23,4 @@ Specifies the alignment to apply to page numbers.
 | **wdAlignPageNumberOutside**|4|Right-aligned just outside the footer.|
 | **wdAlignPageNumberRight**|2|Right-aligned.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

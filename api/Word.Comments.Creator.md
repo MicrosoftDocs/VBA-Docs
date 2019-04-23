@@ -1,5 +1,5 @@
 ---
-title: Comments.Creator Property (Word)
+title: Comments.Creator property (Word)
 keywords: vbawd10.chm155190249
 f1_keywords:
 - vbawd10.chm155190249
@@ -8,19 +8,20 @@ api_name:
 - Word.Comments.Creator
 ms.assetid: c6af394d-cdfc-440b-977f-4f972584f5e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comments.Creator Property (Word)
+# Comments.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Comments](Word.comments.md)' collection.
+_expression_ Required. A variable that represents a '[Comments](Word.comments.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Comments Collection Object](Word.comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

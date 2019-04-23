@@ -1,5 +1,5 @@
 ---
-title: UIObject.SaveToFile Method (Visio)
+title: UIObject.SaveToFile method (Visio)
 keywords: vis_sdr.chm14916510
 f1_keywords:
 - vis_sdr.chm14916510
@@ -8,17 +8,18 @@ api_name:
 - Visio.UIObject.SaveToFile
 ms.assetid: 0e734a30-08be-e3e8-590f-88e399e699fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UIObject.SaveToFile Method (Visio)
+# UIObject.SaveToFile method (Visio)
 
 Saves the user interface represented by a  **UIObject** object in a file.
 
 
 ## Syntax
 
- _expression_. `SaveToFile`( `_FileName_` )
+_expression_. `SaveToFile`( `_FileName_` )
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
@@ -67,4 +68,4 @@ Public Sub SaveMenusToFile_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

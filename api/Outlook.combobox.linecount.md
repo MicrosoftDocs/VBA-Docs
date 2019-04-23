@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: b3905939-7d7d-9393-9a44-961db37abe72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Returns a  **Long** that specifies the number of text lines in a **[ComboBox](Ou
 
 ## Syntax
 
- _expression_. **LineCount**
+_expression_.**LineCount**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
 
 A  **ComboBox** only has one line.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

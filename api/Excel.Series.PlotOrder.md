@@ -8,19 +8,20 @@ api_name:
 - Excel.Series.PlotOrder
 ms.assetid: c74ba422-ca4d-db60-02aa-7b512bdd0241
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Series.PlotOrder property (Excel)
 
-Returns or sets the plot order for the selected series within the chart group. Read/write  **Long** .
+Returns or sets the plot order for the selected series within the chart group. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PlotOrder`
+_expression_. `PlotOrder`
 
- _expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ Changing the plot order of one series will cause the plot orders of the other se
 
 ## Example
 
-This example makes series two in Chart1 appear third in the plot order. The example should be run on a 2-D column chart that contains three or more series.
+This example makes series two in Chart1 appear third in the plot order. The example should be run on a 2D column chart that contains three or more series.
 
 
 ```vb
@@ -45,3 +46,4 @@ Charts("Chart1").ChartGroups(1).SeriesCollection(2).PlotOrder = 3
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

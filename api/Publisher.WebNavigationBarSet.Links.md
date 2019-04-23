@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.Links Property (Publisher)
+title: WebNavigationBarSet.Links property (Publisher)
 keywords: vbapb10.chm8519697
 f1_keywords:
 - vbapb10.chm8519697
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.Links
 ms.assetid: 9f155781-390b-ad77-8db7-5099be1409ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.Links Property (Publisher)
+# WebNavigationBarSet.Links property (Publisher)
 
 Returns a  **WebNavigationBarHyperlinks** collection containing all of the hyperlinks in the specified Web navigation bar set. Read/write.
 
 
 ## Syntax
 
- _expression_. **Links**
+_expression_.**Links**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -51,4 +52,4 @@ With ActiveDocument.WebNavigationBarSets.AddSet(Name:="WebNavigationBarSet1")
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

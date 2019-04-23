@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c641b266-d008-422c-9e25-e1dab0bd91e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.MonthLabelDisplay Property (Project)](http://msdn.microsoft.com/library/ed6e783c-9f11-1ecf-7cf6-e8281a1892b2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

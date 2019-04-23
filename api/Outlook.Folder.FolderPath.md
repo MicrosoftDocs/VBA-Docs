@@ -1,5 +1,5 @@
 ---
-title: Folder.FolderPath Property (Outlook)
+title: Folder.FolderPath property (Outlook)
 keywords: vbaol11.chm2006
 f1_keywords:
 - vbaol11.chm2006
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.FolderPath
 ms.assetid: 40a588fa-0962-bc01-f8ac-39f0bab2092c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.FolderPath Property (Outlook)
+# Folder.FolderPath property (Outlook)
 
 Returns a  **String** that indicates the path of the current folder. Read-only.
 
 
 ## Syntax
 
- _expression_. `FolderPath`
+_expression_. `FolderPath`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Example
@@ -72,3 +73,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

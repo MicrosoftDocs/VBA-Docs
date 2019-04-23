@@ -1,5 +1,5 @@
 ---
-title: Master.ObjectType Property (Visio)
+title: Master.ObjectType property (Visio)
 keywords: vis_sdr.chm10713960
 f1_keywords:
 - vis_sdr.chm10713960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.ObjectType
 ms.assetid: 958b08f3-a52b-d6cb-2360-ca2ddf758e3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.ObjectType Property (Visio)
+# Master.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

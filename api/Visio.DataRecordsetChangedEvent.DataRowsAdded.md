@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.DataRowsAdded Property (Visio)
+title: DataRecordsetChangedEvent.DataRowsAdded property (Visio)
 keywords: vis_sdr.chm17260455
 f1_keywords:
 - vis_sdr.chm17260455
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsetChangedEvent.DataRowsAdded
 ms.assetid: f99396bf-fba0-bffb-903a-f96630e8689d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.DataRowsAdded Property (Visio)
+# DataRecordsetChangedEvent.DataRowsAdded property (Visio)
 
 Returns an array of IDs of data rows newly added to the data recordset as a result of a data-refresh operation. Read-only.
 
@@ -21,7 +22,7 @@ Returns an array of IDs of data rows newly added to the data recordset as a resu
 
 ## Syntax
 
- _expression_. `DataRowsAdded`
+_expression_. `DataRowsAdded`
 
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
@@ -30,4 +31,4 @@ Returns an array of IDs of data rows newly added to the data recordset as a resu
 
 Long()
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

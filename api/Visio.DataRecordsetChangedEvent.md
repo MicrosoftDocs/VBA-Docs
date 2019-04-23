@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent Object (Visio)
+title: DataRecordsetChangedEvent object (Visio)
 keywords: vis_sdr.chm61025
 f1_keywords:
 - vis_sdr.chm61025
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsetChangedEvent
 ms.assetid: 3575c6f6-081d-4632-d720-efad1c977a9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent Object (Visio)
+# DataRecordsetChangedEvent object (Visio)
 
 Passed by Microsoft Visio as the pSubjectObj argument to the  **[VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method of the **[IVisEventProc](Visio.iviseventproc.md)** interface when events related to refreshing a data recordset fire.
 
@@ -27,4 +28,4 @@ When data recordset rows are added, changed, or deleted, and when data recordset
 
 All properties of the  **DataRecordsetChangedEvent** object are read-only.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

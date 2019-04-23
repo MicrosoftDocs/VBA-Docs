@@ -1,5 +1,5 @@
 ---
-title: Source.XML Property (Word)
+title: Source.XML property (Word)
 keywords: vbawd10.chm140836969
 f1_keywords:
 - vbawd10.chm140836969
@@ -8,17 +8,18 @@ api_name:
 - Word.Source.XML
 ms.assetid: 811cd77f-558d-a884-3ef3-911c79410b2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Source.XML Property (Word)
+# Source.XML property (Word)
 
 Returns a  **String** that represents the XML markup for a **Source** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
  _expression_ An expression that returns a [Source](./Word.Source.md) object.
 
@@ -33,3 +34,4 @@ The Data parameter of the  **[Add](Word.Sources.Add.md)** method for the **[Sour
 
 [Source Object](Word.Source.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

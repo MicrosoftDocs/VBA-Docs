@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart Object (Office)
+title: CustomXMLPart object (Office)
 keywords: vbaof11.chm297000
 f1_keywords:
 - vbaof11.chm297000
@@ -7,18 +7,19 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPart
 ms.assetid: a4f90bac-01d6-bba4-f64b-a64e2b122cfd
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLPart Object (Office)
+# CustomXMLPart object (Office)
 
-Represents a single  **CustomXMLPart** in a **CustomXMLParts** collection.
+Represents a single **CustomXMLPart** in a **CustomXMLParts** collection.
 
 
 ## Example
 
-The following example adds a part to a  **CustomXMLPart** object.
+The following example adds a part to a **CustomXMLPart** object.
 
 
 ```vb
@@ -33,9 +34,7 @@ End Sub
 
 ## See also
 
+- [CustomXMLPart object members](overview/library-reference/customxmlpart-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-
-[CustomXMLPart Object Members](./overview/Library-Reference/customxmlpart-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

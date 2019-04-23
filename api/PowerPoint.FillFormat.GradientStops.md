@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStops Property (PowerPoint)
+title: FillFormat.GradientStops property (PowerPoint)
 keywords: vbapp10.chm552025
 f1_keywords:
 - vbapp10.chm552025
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.GradientStops
 ms.assetid: dd0c2c5a-81f1-b008-5b2f-5248241ac0db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientStops Property (PowerPoint)
+# FillFormat.GradientStops property (PowerPoint)
 
- Returns the **[GradientStops](./Office.GradientStops.md)** collection associated with the specified fill format. Read-only.
+ Returns the **[GradientStops](Office.GradientStops.md)** collection associated with the specified fill format. Read-only.
 
 
 ## Syntax
 
- _expression_. `GradientStops`
+_expression_. `GradientStops`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -30,7 +31,7 @@ GradientStops
 
 ## Remarks
 
-You can use the  **[GradientStops.Insert](./Office.GradientStops.Insert.md)** method to add gradient stops to the **GradientStops** collection for the specified object.
+You can use the  **[GradientStops.Insert](Office.GradientStops.Insert.md)** method to add gradient stops to the **GradientStops** collection for the specified object.
 
 
 ## Example
@@ -60,3 +61,4 @@ End Sub
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

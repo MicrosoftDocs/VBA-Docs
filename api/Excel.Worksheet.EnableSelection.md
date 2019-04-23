@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.EnableSelection
 ms.assetid: e1647c07-3863-9268-864c-1c62b2eebbb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.EnableSelection property (Excel)
 
-Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelection](Excel.XlEnableSelection.md)** .
+Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelection](Excel.XlEnableSelection.md)**.
 
 
 ## Syntax
 
- _expression_. `EnableSelection`
+_expression_. `EnableSelection`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

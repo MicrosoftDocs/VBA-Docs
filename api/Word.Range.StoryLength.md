@@ -1,5 +1,5 @@
 ---
-title: Range.StoryLength Property (Word)
+title: Range.StoryLength property (Word)
 keywords: vbawd10.chm157155480
 f1_keywords:
 - vbawd10.chm157155480
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.StoryLength
 ms.assetid: 0dd342e2-2a90-bbf9-2989-a2629fcf40a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.StoryLength Property (Word)
+# Range.StoryLength property (Word)
 
-Returns the number of characters in the story that contains the specified range. Read-only  **Long** .
+Returns the number of characters in the story that contains the specified range. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `StoryLength`
+_expression_. `StoryLength`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -50,3 +51,4 @@ If ActiveDocument.Content.StoryLength = 1 Then _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

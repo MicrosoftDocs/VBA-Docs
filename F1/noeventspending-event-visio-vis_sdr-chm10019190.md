@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 38995625-1b42-452b-8152-8c2f1231d42d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.NoEventsPending Event (Visio)](http://msdn.microsoft.com/library/8cb93f89-4541-53f8-a95c-abf5b349f67d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

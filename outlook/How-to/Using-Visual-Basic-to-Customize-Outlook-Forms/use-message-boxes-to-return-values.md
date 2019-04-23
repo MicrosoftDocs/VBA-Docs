@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: c63ad579-a2cd-ccc7-602c-7a83476d3060
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ One way to isolate errors is to use a message box to display the value of a vari
 MsgBox Item.GetInspector.ModifiedFormPages("Test").Textbox1.SelLength
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

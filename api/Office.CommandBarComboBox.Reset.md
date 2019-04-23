@@ -1,26 +1,27 @@
 ---
-title: CommandBarComboBox.Reset Method (Office)
+title: CommandBarComboBox.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Reset
 ms.assetid: 28609b13-8036-a956-095a-1a6a748f00ad
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarComboBox.Reset Method (Office)
+# CommandBarComboBox.Reset method (Office)
 
-Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarComboBox** control to its original function and face.
+Resets a built-in command bar to its default configuration, or resets a built-in **CommandBarComboBox** control to its original function and face.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_.**Reset**
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Remarks
@@ -46,13 +47,8 @@ End With
 
 ```
 
-
 ## See also
 
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
 
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

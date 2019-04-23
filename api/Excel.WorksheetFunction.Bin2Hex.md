@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bin2Hex Method (Excel)
+title: WorksheetFunction.Bin2Hex method (Excel)
 keywords: vbaxl10.chm137272
 f1_keywords:
 - vbaxl10.chm137272
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Bin2Hex
 ms.assetid: dc1dbd75-89c5-47de-386f-121e23c4b294
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Bin2Hex Method (Excel)
+# WorksheetFunction.Bin2Hex method (Excel)
 
 Converts a binary number to hexadecimal.
 
 
 ## Syntax
 
- _expression_. `Bin2Hex`( `_Arg1_` , `_Arg2_` )
+_expression_. `Bin2Hex`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

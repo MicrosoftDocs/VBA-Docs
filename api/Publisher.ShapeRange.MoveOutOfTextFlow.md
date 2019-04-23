@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.MoveOutOfTextFlow Method (Publisher)
+title: ShapeRange.MoveOutOfTextFlow method (Publisher)
 keywords: vbapb10.chm2294032
 f1_keywords:
 - vbapb10.chm2294032
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.MoveOutOfTextFlow
 ms.assetid: 36d6b22d-f041-6dd8-ce2c-9514ac6af5ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.MoveOutOfTextFlow Method (Publisher)
+# ShapeRange.MoveOutOfTextFlow method (Publisher)
 
-Moves a given inline shape out of its containing text range, defined by  ** [TextRange Object](Publisher.TextRange.md)**, and makes the shape fixed.
+Moves a given inline shape out of its containing text range, defined by  **[TextRange Object](Publisher.TextRange.md)**, and makes the shape fixed.
 
 
 ## Syntax
 
- _expression_. **MoveOutOfTextFlow**
+_expression_.**MoveOutOfTextFlow**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -49,4 +50,4 @@ Set theShape = ActiveDocument.Pages(2).Shapes(1) _
 theShape.MoveOutOfTextFlow
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

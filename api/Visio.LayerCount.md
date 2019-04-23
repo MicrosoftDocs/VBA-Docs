@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerCount
 ms.assetid: 83871b37-9c5b-9da2-8869-61a2284ae1c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the number of layers in the current drawing open in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **LayerCount**
+_expression_.**LayerCount**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code gets the count of layers in the drawing open in Visio Viewer.
 Debug.Print vsoViewer.LayerCount
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

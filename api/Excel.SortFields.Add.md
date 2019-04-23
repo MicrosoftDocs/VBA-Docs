@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SortFields.Add
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 # SortFields.Add method (Excel)
@@ -15,7 +16,7 @@ Creates a new sort field and returns a **SortFields** object.
 
 ## Syntax
 
-_expression_. `Add`( `Key` , `SortOn` , `Order` , `CustomOrder` , `DataOption` )
+_expression_.**Add**( `Key` , `SortOn` , `Order` , `CustomOrder` , `DataOption` )
 
 _expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
 
@@ -61,3 +62,4 @@ With ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort
 End With
 ```
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

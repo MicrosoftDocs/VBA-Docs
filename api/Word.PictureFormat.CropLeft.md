@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropLeft Property (Word)
+title: PictureFormat.CropLeft property (Word)
 keywords: vbawd10.chm164298856
 f1_keywords:
 - vbawd10.chm164298856
@@ -8,17 +8,18 @@ api_name:
 - Word.PictureFormat.CropLeft
 ms.assetid: c20c723a-c09b-f821-4273-9a5fc0f37207
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.CropLeft Property (Word)
+# PictureFormat.CropLeft property (Word)
 
-Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `CropLeft`
+_expression_. `CropLeft`
 
  _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
@@ -71,3 +72,4 @@ shapeCrop.PictureFormat.CropLeft = sngCrop
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

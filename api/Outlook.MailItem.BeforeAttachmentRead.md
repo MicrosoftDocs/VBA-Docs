@@ -1,23 +1,24 @@
 ---
-title: MailItem.BeforeAttachmentRead Event (Outlook)
+title: MailItem.BeforeAttachmentRead event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeAttachmentRead
 ms.assetid: 00d35fff-b1d2-0da2-7315-a9fce2f28e80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.BeforeAttachmentRead Event (Outlook)
+# MailItem.BeforeAttachmentRead event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -34,3 +35,4 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

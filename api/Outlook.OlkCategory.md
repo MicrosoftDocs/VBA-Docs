@@ -1,5 +1,5 @@
 ---
-title: OlkCategory Object (Outlook)
+title: OlkCategory object (Outlook)
 keywords: vbaol11.chm1000460
 f1_keywords:
 - vbaol11.chm1000460
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkCategory
 ms.assetid: f635c0c8-e562-02a2-2a76-25caaee623c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCategory Object (Outlook)
+# OlkCategory object (Outlook)
 
 A control that displays the selected categories. 
 
@@ -36,7 +37,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Outlook.OlkCategory.Change.md)|
 |[Click](Outlook.OlkCategory.Click.md)|
@@ -54,7 +55,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkCategory.AutoSize.md)|
 |[BackColor](Outlook.OlkCategory.BackColor.md)|
@@ -67,4 +68,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

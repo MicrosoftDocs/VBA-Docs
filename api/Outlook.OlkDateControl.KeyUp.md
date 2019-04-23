@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.KeyUp Event (Outlook)
+title: OlkDateControl.KeyUp event (Outlook)
 keywords: vbaol11.chm1000371
 f1_keywords:
 - vbaol11.chm1000371
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkDateControl.KeyUp
 ms.assetid: 7776832b-fdb0-cd2b-efa3-97dab74065e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkDateControl.KeyUp Event (Outlook)
+# OlkDateControl.KeyUp event (Outlook)
 
 Occurs when the user releases a key.
 
 
 ## Syntax
 
- _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

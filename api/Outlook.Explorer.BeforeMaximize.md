@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeMaximize Event (Outlook)
+title: Explorer.BeforeMaximize event (Outlook)
 keywords: vbaol11.chm457
 f1_keywords:
 - vbaol11.chm457
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeMaximize
 ms.assetid: 4d55aa87-44c6-4660-c2bf-579d3b9dc376
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeMaximize Event (Outlook)
+# Explorer.BeforeMaximize event (Outlook)
 
 Occurs when an explorer is maximized by the user.
 
 
 ## Syntax
 
- _expression_. `BeforeMaximize`( `_Cancel_` )
+_expression_. `BeforeMaximize`( `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when an explorer is maximized by the user.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the explorer is not maximized.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the explorer is not maximized.|
 
 ## Remarks
 
@@ -46,7 +47,7 @@ Public WithEvents myOlExp As Outlook.Explorer
  
  
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
  
  Set myOlExp = Application.ActiveExplorer 
  
@@ -87,3 +88,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

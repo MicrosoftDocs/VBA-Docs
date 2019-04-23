@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 697e8861-d1b3-fc9c-9fce-34dd1c223b34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ The message includes the following instruction: Enter a record in the "one" side
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

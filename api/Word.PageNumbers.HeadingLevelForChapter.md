@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.HeadingLevelForChapter Property (Word)
+title: PageNumbers.HeadingLevelForChapter property (Word)
 keywords: vbawd10.chm159776772
 f1_keywords:
 - vbawd10.chm159776772
@@ -8,17 +8,18 @@ api_name:
 - Word.PageNumbers.HeadingLevelForChapter
 ms.assetid: 2202f3de-9ce0-e8d9-ad7c-9c95c1bc8f26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumbers.HeadingLevelForChapter Property (Word)
+# PageNumbers.HeadingLevelForChapter property (Word)
 
-Returns or sets the heading level style that's applied to the chapter titles in the document. Read/write  **Long** .
+Returns or sets the heading level style that's applied to the chapter titles in the document. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `HeadingLevelForChapter`
+_expression_. `HeadingLevelForChapter`
 
  _expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 
@@ -69,3 +70,4 @@ End With
 
 [PageNumbers Collection Object](Word.pagenumbers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

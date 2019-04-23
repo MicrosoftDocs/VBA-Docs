@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: e895f7ee-e636-29b6-9385-2710885cc01c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Represents a collection of  _actions_ consisting of OLAP-defined actions which c
 
 ## Syntax
 
- _expression_. `ServerActions`
+_expression_. `ServerActions`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ ActiveSheet.ChartObjects("Chart 1").Chart.PivotLayout.PivotTable.PivotColumnAxis
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

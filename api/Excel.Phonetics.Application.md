@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetics.Application
 ms.assetid: 346c0218-d19f-beaf-a192-09c1fa95da25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
+_expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Phonetics Object](Excel.Phonetics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

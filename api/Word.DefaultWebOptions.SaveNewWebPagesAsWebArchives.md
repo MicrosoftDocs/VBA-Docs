@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Word)
+title: DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Word)
 keywords: vbawd10.chm165871634
 f1_keywords:
 - vbawd10.chm165871634
@@ -8,17 +8,18 @@ api_name:
 - Word.DefaultWebOptions.SaveNewWebPagesAsWebArchives
 ms.assetid: a2c8a225-431e-9292-d081-bd71d27aae9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Word)
+# DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Word)
 
- **True** for Microsoft Word to save new Web pages in the Single File Web Page (formerly known as Web Archive) format. Read/write **Boolean** .
+ **True** for Microsoft Word to save new Web pages in the Single File Web Page (formerly known as Web Archive) format. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SaveNewWebPagesAsWebArchives`
+_expression_. `SaveNewWebPagesAsWebArchives`
 
  _expression_ An expression that returns a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
 
@@ -46,3 +47,4 @@ End Sub
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

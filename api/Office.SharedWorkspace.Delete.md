@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Delete Method (Office)
+title: SharedWorkspace.Delete method (Office)
 keywords: vbaof11.chm276009
 f1_keywords:
 - vbaof11.chm276009
@@ -7,11 +7,12 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspace.Delete
 ms.assetid: 78c6a46a-b1dd-17bd-0059-2e352ef87f51
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspace.Delete Method (Office)
+# SharedWorkspace.Delete method (Office)
 
 Deletes the current shared workspace and all data within it.
 
@@ -21,17 +22,15 @@ Deletes the current shared workspace and all data within it.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[SharedWorkspace](Office.SharedWorkspace.md)' object.
+_expression_ Required. A variable that represents a **[SharedWorkspace](Office.SharedWorkspace.md)** object.
 
 
 ## See also
 
-
-[SharedWorkspace Object](Office.SharedWorkspace.md)
-
+- [SharedWorkspace object members](overview/Library-Reference/sharedworkspace-members-office.md)
 
 
-[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

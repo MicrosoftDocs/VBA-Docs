@@ -1,5 +1,5 @@
 ---
-title: View.DisplaySlideMiniature Property (PowerPoint)
+title: View.DisplaySlideMiniature property (PowerPoint)
 keywords: vbapp10.chm512008
 f1_keywords:
 - vbapp10.chm512008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.View.DisplaySlideMiniature
 ms.assetid: 50781703-1e04-0e95-80d9-2b518130f3eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.DisplaySlideMiniature Property (PowerPoint)
+# View.DisplaySlideMiniature property (PowerPoint)
 
 Determines if and when the slide miniature window is displayed automatically. Read/write.
 
 
 ## Syntax
 
- _expression_. `DisplaySlideMiniature`
+_expression_. `DisplaySlideMiniature`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
@@ -38,7 +39,7 @@ The value of the  **DisplaySlideMiniature** property can be one of these **MsoTr
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The slide miniature window is not displayed automatically.|
 |**msoTrue**| The slide miniature window is displayed automatically when the document window is in black-and-white view, the slide pane is zoomed to greater than 150% of the fit percentage, or a master view is visible.|
@@ -62,3 +63,4 @@ End With
 
 [View Object](PowerPoint.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

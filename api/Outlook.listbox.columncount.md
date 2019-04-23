@@ -3,6 +3,7 @@ title: ListBox.ColumnCount Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8ae3ba58-4ac6-4609-b159-2b353037b949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that represents the number of columns to display in 
 
 ## Syntax
 
- _expression_. **ColumnCount**
+_expression_.**ColumnCount**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displa
 
 You can use the  **[ColumnWidths](Outlook.listbox.columnwidths.md)** property to set the width of the columns displayed in the control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

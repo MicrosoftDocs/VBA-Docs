@@ -1,5 +1,5 @@
 ---
-title: Selection.Copy Method (Visio)
+title: Selection.Copy method (Visio)
 keywords: vis_sdr.chm11151010
 f1_keywords:
 - vis_sdr.chm11151010
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Copy
 ms.assetid: e7d9ab14-7e64-f1fa-7813-62caee133b57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Copy Method (Visio)
+# Selection.Copy method (Visio)
 
 Copies a selection to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`( `_Flags_` )
+_expression_.**Copy** (_Flags_)
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -38,11 +39,11 @@ Nothing
 
 ## Remarks
 
-Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes** , and are described in the following table.
+Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes**, and are described in the following table.
 
 
 
-|**Flag**|**Value**|**Description**|
+|**Flag**|Value|Description|
 |:-----|:-----|:-----|
 | **visCopyPasteNormal**|&H0|Follow default copying behavior.|
 | **visCopyPasteNoTranslate**|&H1|Copy shapes to their original coordinate locations.|
@@ -57,4 +58,4 @@ Setting  _Flags_ to **visCopyPasteNormal** is the equivalent of the behavior in 
 
 To make a copy without using the Clipboard, use the  **Duplicate** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

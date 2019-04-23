@@ -1,5 +1,5 @@
 ---
-title: Fields.Parent Property (Publisher)
+title: Fields.Parent property (Publisher)
 keywords: vbapb10.chm6029314
 f1_keywords:
 - vbapb10.chm6029314
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Fields.Parent
 ms.assetid: b5d1ad86-292a-295f-bc86-2b9edf6b3558
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields.Parent Property (Publisher)
+# Fields.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Fields** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

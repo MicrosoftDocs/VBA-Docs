@@ -1,5 +1,5 @@
 ---
-title: WebOptions.AlwaysSaveInDefaultEncoding Property (Publisher)
+title: WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 keywords: vbapb10.chm8257539
 f1_keywords:
 - vbapb10.chm8257539
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: e37ff08f-5c09-0a71-27e1-e2a332147087
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebOptions.AlwaysSaveInDefaultEncoding Property (Publisher)
+# WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 
 Returns or sets a  **Boolean** value that specifies whether Web pages within a Web publication should always be saved using default encoding. If **True**, Web pages within a publication will always be saved using the default encoding of the client computer. If  **False**, Web pages will not be saved using default encoding. The default value is  **False**. Read/write.
 
 
 ## Syntax
 
- _expression_. **AlwaysSaveInDefaultEncoding**
+_expression_.**AlwaysSaveInDefaultEncoding**
 
  _expression_ A variable that represents a  **WebOptions** object.
 
@@ -51,4 +52,4 @@ With theWO
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

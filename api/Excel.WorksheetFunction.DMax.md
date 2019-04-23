@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DMax Method (Excel)
+title: WorksheetFunction.DMax method (Excel)
 keywords: vbaxl10.chm137098
 f1_keywords:
 - vbaxl10.chm137098
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DMax
 ms.assetid: f7a3ca85-6b78-8560-0ee2-6d96378dfbfb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DMax Method (Excel)
+# WorksheetFunction.DMax method (Excel)
 
 Returns the largest number in a column of a list or database that matches conditions you that specify.
 
 
 ## Syntax
 
- _expression_. `DMax`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DMax`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

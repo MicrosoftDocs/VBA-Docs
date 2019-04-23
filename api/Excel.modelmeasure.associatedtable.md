@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: a51f7698-38a4-211e-3973-de9c8b62e66d
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Specifies the table that contains the model measure, as displayed in the  **Fiel
 
 ## Syntax
 
- _expression_. `AssociatedTable`
+_expression_. `AssociatedTable`
 
- _expression_ A variable that represents a 'ModelMeasure' object.
+_expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ Specifies the table that contains the model measure, as displayed in the  **Fiel
 
 [ModelMeasure Object](Excel.modelmeasure.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

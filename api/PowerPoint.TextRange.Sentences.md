@@ -1,5 +1,5 @@
 ---
-title: TextRange.Sentences Method (PowerPoint)
+title: TextRange.Sentences method (PowerPoint)
 keywords: vbapp10.chm569011
 f1_keywords:
 - vbapp10.chm569011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Sentences
 ms.assetid: c3640cb8-f78a-2934-bbe0-506cb8d2534c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Sentences Method (PowerPoint)
+# TextRange.Sentences method (PowerPoint)
 
 Returns a  **TextRange** object that represents the specified subset of text sentences.
 
 
 ## Syntax
 
- _expression_. `Sentences`( `_Start_`, `_Length_` )
+_expression_. `Sentences`( `_Start_`, `_Length_` )
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -69,3 +70,4 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

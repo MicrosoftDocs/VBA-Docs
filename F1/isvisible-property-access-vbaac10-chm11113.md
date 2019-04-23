@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 28e455d0-2e7a-4d93-82a9-cc6963dc5dd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.IsVisible property (Access)](http://msdn.microsoft.com/library/34487db4-6377-04f2-6848-a27dc5f4bab6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

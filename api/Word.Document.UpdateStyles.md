@@ -1,5 +1,5 @@
 ---
-title: Document.UpdateStyles Method (Word)
+title: Document.UpdateStyles method (Word)
 keywords: vbawd10.chm158007423
 f1_keywords:
 - vbawd10.chm158007423
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.UpdateStyles
 ms.assetid: fe713979-27e1-c81c-198d-5e25564233c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.UpdateStyles Method (Word)
+# Document.UpdateStyles method (Word)
 
 Copies all styles from the attached template into the document, overwriting any existing styles in the document that have the same name.
 
 
 ## Syntax
 
- _expression_. `UpdateStyles`
+_expression_. `UpdateStyles`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -56,3 +57,4 @@ ActiveDocument.UpdateStyles
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

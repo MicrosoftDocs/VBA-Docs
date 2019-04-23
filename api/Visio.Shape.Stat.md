@@ -1,5 +1,5 @@
 ---
-title: Shape.Stat Property (Visio)
+title: Shape.Stat property (Visio)
 keywords: vis_sdr.chm11214420
 f1_keywords:
 - vis_sdr.chm11214420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Stat
 ms.assetid: c9d9d8bf-6e64-5231-b870-fcc5de7fdc7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Stat Property (Visio)
+# Shape.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

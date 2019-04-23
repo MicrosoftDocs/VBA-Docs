@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Border Property (Publisher)
+title: CalloutFormat.Border property (Publisher)
 keywords: vbapb10.chm2490628
 f1_keywords:
 - vbapb10.chm2490628
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.Border
 ms.assetid: 64a72ec7-4cc8-f0c7-9858-45e97bac0411
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Border Property (Publisher)
+# CalloutFormat.Border property (Publisher)
 
 Returns or sets an  **MsoTriState**constant indicating whether the text in the specified callout is surrounded by a border. Read/write.
 
 
 ## Syntax
 
- _expression_. **Border**
+_expression_.**Border**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -30,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The  **Border** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **Border** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -61,4 +62,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

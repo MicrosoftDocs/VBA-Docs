@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HorizontalScale Property (Publisher)
+title: PictureFormat.HorizontalScale property (Publisher)
 keywords: vbapb10.chm3604760
 f1_keywords:
 - vbapb10.chm3604760
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.HorizontalScale
 ms.assetid: 7be51cde-5b2d-7870-7f39-2fa9bd714d68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.HorizontalScale Property (Publisher)
+# PictureFormat.HorizontalScale property (Publisher)
 
 Returns a  **Long** that represents the scaling of the picture along its horizontal axis. The scaling is expressed as a percentage (for example, 200 equals 200 percent scaling). Read-only.
 
 
 ## Syntax
 
- _expression_. **HorizontalScale**
+_expression_.**HorizontalScale**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -67,4 +68,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

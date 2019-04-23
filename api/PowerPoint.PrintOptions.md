@@ -1,5 +1,5 @@
 ---
-title: PrintOptions Object (PowerPoint)
+title: PrintOptions object (PowerPoint)
 keywords: vbapp10.chm517000
 f1_keywords:
 - vbapp10.chm517000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.PrintOptions
 ms.assetid: 19ce56ba-b0d0-4086-db86-e32feade70bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions Object (PowerPoint)
+# PrintOptions object (PowerPoint)
 
 Contains print options for a presentation.
 
@@ -63,3 +64,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

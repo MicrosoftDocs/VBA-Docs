@@ -1,21 +1,22 @@
 ---
-title: ChildDrivers.Count Property (Project)
+title: ChildDrivers.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.ChildDrivers.Count
 ms.assetid: 6d5f72e2-b563-84d0-ae14-54fddb32c20e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChildDrivers.Count Property (Project)
+# ChildDrivers.Count property (Project)
 
 Gets the number of items in the  **[ChildDrivers](Project.childdrivers.md)** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a 'ChildDrivers' object.
 
@@ -31,3 +32,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [ChildDrivers Collection Object](Project.childdrivers.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

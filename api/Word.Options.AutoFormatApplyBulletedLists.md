@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyBulletedLists Property (Word)
+title: Options.AutoFormatApplyBulletedLists property (Word)
 keywords: vbawd10.chm162988284
 f1_keywords:
 - vbawd10.chm162988284
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatApplyBulletedLists
 ms.assetid: a66aacd6-0709-d4ac-0af4-314a386ee39c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatApplyBulletedLists Property (Word)
+# Options.AutoFormatApplyBulletedLists property (Word)
 
- **True** if characters (such as asterisks, hyphens, and greater-than signs) at the beginning of list paragraphs are replaced with bullets from the **Bullets and Numbering** dialog box (**Format** menu) when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if characters (such as asterisks, hyphens, and greater-than signs) at the beginning of list paragraphs are replaced with bullets from the **Bullets and Numbering** dialog box (**Format** menu) when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatApplyBulletedLists`
+_expression_. `AutoFormatApplyBulletedLists`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnAutoFormat = Options.AutoFormatApplyBulletedLists
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

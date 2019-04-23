@@ -1,5 +1,5 @@
 ---
-title: FormFields.Add Method (Word)
+title: FormFields.Add method (Word)
 keywords: vbawd10.chm153682021
 f1_keywords:
 - vbawd10.chm153682021
@@ -8,19 +8,20 @@ api_name:
 - Word.FormFields.Add
 ms.assetid: d4431691-c881-e3b4-d17d-86c8ce07cf68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormFields.Add Method (Word)
+# FormFields.Add method (Word)
 
 Returns a  **FormField** object that represents a new form field added at a range.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Range_` , `_Type_` )
+_expression_.**Add**( `_Range_` , `_Type_` )
 
- _expression_ Required. A variable that represents a '[FormFields](Word.formfields.md)' collection.
+_expression_ Required. A variable that represents a '[FormFields](Word.formfields.md)' collection.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ End With
 
 [FormFields Collection Object](Word.formfields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

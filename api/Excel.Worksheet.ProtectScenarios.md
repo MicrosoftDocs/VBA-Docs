@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ProtectScenarios
 ms.assetid: 7b0aacea-00f3-7f0a-2be1-693f0efbec88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.ProtectScenarios property (Excel)
 
- **True** if the worksheet scenarios are protected. Read-only **Boolean** .
+ **True** if the worksheet scenarios are protected. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ProtectScenarios`
+_expression_. `ProtectScenarios`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -39,3 +40,4 @@ If Worksheets("Sheet1").ProtectScenarios Then _
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

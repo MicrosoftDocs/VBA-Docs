@@ -1,5 +1,5 @@
 ---
-title: Window.ShowScrollBars Property (Visio)
+title: Window.ShowScrollBars property (Visio)
 keywords: vis_sdr.chm11650845
 f1_keywords:
 - vis_sdr.chm11650845
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.ShowScrollBars
 ms.assetid: 46be2c47-d9b0-c3d8-6f8b-cc728feb4ccb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.ShowScrollBars Property (Visio)
+# Window.ShowScrollBars property (Visio)
 
 Determines whether scroll bars are shown in the drawing window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowScrollBars`
+_expression_. `ShowScrollBars`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-The  **ShowScrollBars** property value can be any combination of the following **VisScrollbarStates** constants, which are declared in the Visio type library. The default value is **visScrollBarBoth** , which shows both horizontal and vertical scroll bars.
+The  **ShowScrollBars** property value can be any combination of the following **VisScrollbarStates** constants, which are declared in the Visio type library. The default value is **visScrollBarBoth**, which shows both horizontal and vertical scroll bars.
 
 
 
@@ -41,3 +42,4 @@ The  **ShowScrollBars** property value can be any combination of the following *
 | **visScrollBarVert**|&H4 |
 | **visScrollBarBoth**|&H5 |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

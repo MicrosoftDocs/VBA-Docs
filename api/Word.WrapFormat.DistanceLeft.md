@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceLeft Property (Word)
+title: WrapFormat.DistanceLeft property (Word)
 keywords: vbawd10.chm163774568
 f1_keywords:
 - vbawd10.chm163774568
@@ -8,17 +8,18 @@ api_name:
 - Word.WrapFormat.DistanceLeft
 ms.assetid: 278a0056-b33e-317c-4756-5eb8e91da175
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceLeft Property (Word)
+# WrapFormat.DistanceLeft property (Word)
 
-Returns or sets the distance (in points) between the document text and the left edge of the text-free area surrounding the specified shape. Read/write  **Single** .
+Returns or sets the distance (in points) between the document text and the left edge of the text-free area surrounding the specified shape. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `DistanceLeft`
+_expression_. `DistanceLeft`
 
  _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
@@ -69,3 +70,4 @@ End With
 
 [WrapFormat Object](Word.WrapFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

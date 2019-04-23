@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (PowerPoint)
+title: ShapeRange.Name property (PowerPoint)
 keywords: vbapp10.chm548029
 f1_keywords:
 - vbapp10.chm548029
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.Name
 ms.assetid: b87c7def-f68d-0dde-e971-2201043f6bfc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Name Property (PowerPoint)
+# ShapeRange.Name property (PowerPoint)
 
 When a shape is created, Microsoft PowerPoint automatically assigns it a name in the form  _ShapeType Number_, where _ShapeType_ identifies the type of shape or AutoShape, and _Number_ is an integer that's unique within the collection of shapes on the slide. For example, the automatically generated names of the shapes on a slide could be Placeholder 1, Oval 2, and Rectangle 3. To avoid conflict with automatically assigned names, don't use the form _ShapeType Number_ for user-defined names, where _ShapeType_ is a value that is used for automatically generated names, and _Number_ is any positive integer. A shape range must contain exactly one shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ You can use the object's name in conjunction with the  **Item** method to return
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

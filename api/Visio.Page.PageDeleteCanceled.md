@@ -1,5 +1,5 @@
 ---
-title: Page.PageDeleteCanceled Event (Visio)
+title: Page.PageDeleteCanceled event (Visio)
 keywords: vis_sdr.chm10919360
 f1_keywords:
 - vis_sdr.chm10919360
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.PageDeleteCanceled
 ms.assetid: 5fa17e8b-5c80-962b-482e-f9c46f543a65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.PageDeleteCanceled Event (Visio)
+# Page.PageDeleteCanceled event (Visio)
 
 Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelPageDelete** event.
 
@@ -37,4 +38,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

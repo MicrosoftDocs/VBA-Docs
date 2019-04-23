@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 791f4e2b-c37e-6e68-e5f6-5ef258d4fab0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ The [parameter](../../Glossary/vbe-glossary.md#parameter) defined as **ParamArra
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

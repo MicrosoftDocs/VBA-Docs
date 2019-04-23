@@ -1,5 +1,5 @@
 ---
-title: OlAttachmentType Enumeration (Outlook)
+title: OlAttachmentType enumeration (Outlook)
 keywords: vbaol11.chm3052
 f1_keywords:
 - vbaol11.chm3052
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlAttachmentType
 ms.assetid: b6373ef7-0f30-d6c4-eb52-c6ef1de40b52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlAttachmentType Enumeration (Outlook)
+# OlAttachmentType enumeration (Outlook)
 
 Specifies the attachment type.
 
@@ -26,7 +27,7 @@ Specifies the attachment type.
 
 ## Remarks
 
-Used as an optional parameter to the [Attachments.Add Method (Outlook)](Outlook.Attachments.Add.md) to specify the attachment type.
+Used as an optional parameter to the [Attachments.Add method (Outlook)](Outlook.Attachments.Add.md) to specify the attachment type.
 
 
 ## See also
@@ -37,3 +38,4 @@ Used as an optional parameter to the [Attachments.Add Method (Outlook)](Outlook.
 [Limit the Size of an Attachment to an Outlook Email Message](../outlook/Concepts/Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
 [Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

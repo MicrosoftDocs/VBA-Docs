@@ -1,5 +1,5 @@
 ---
-title: DropCap.LinesUp Property (Publisher)
+title: DropCap.LinesUp property (Publisher)
 keywords: vbapb10.chm5505031
 f1_keywords:
 - vbapb10.chm5505031
@@ -8,17 +8,18 @@ api_name:
 - Publisher.DropCap.LinesUp
 ms.assetid: 97bf3fc1-2203-d916-0c2d-352260c279fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap.LinesUp Property (Publisher)
+# DropCap.LinesUp property (Publisher)
 
 Returns or sets a  **Long** that represents the number of lines an initial dropped capital letter is raised above the line of text on which it exists. Read/write.
 
 
 ## Syntax
 
- _expression_. **LinesUp**
+_expression_.**LinesUp**
 
  _expression_ A variable that represents a  **DropCap** object.
 
@@ -51,4 +52,4 @@ Sub RaisedDropCap()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

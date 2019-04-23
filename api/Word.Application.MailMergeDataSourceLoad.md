@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceLoad Event (Word)
+title: Application.MailMergeDataSourceLoad event (Word)
 keywords: vbawd10.chm4000020
 f1_keywords:
 - vbawd10.chm4000020
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.MailMergeDataSourceLoad
 ms.assetid: 56158dbd-45df-76ef-260d-117becd2e9ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceLoad Event (Word)
+# Application.MailMergeDataSourceLoad event (Word)
 
 Occurs when the data source is loaded for a mail merge.
 
 
 ## Syntax
 
- _expression_. `Private Sub object_MailMergeDataSourceLoad`( `_ByVal Doc As Document_` )
+_expression_. `Private Sub object_MailMergeDataSourceLoad`( `_ByVal Doc As Document_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
@@ -59,3 +60,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

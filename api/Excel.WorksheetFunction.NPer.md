@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NPer Method (Excel)
+title: WorksheetFunction.NPer method (Excel)
 keywords: vbaxl10.chm137109
 f1_keywords:
 - vbaxl10.chm137109
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.NPer
 ms.assetid: ea610791-bed5-d2d3-6405-6372f46e28d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.NPer Method (Excel)
+# WorksheetFunction.NPer method (Excel)
 
 Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate.
 
 
 ## Syntax
 
- _expression_. `NPer`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `NPer`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerItems.Creator
 ms.assetid: d7002e14-3c07-3255-6b01-556fc1d3c503
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
+_expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [SlicerItems Object](Excel.SlicerItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

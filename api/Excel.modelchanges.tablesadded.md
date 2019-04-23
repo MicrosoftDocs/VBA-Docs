@@ -6,29 +6,26 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: be1dc2a9-7bde-76e8-9192-29dd85ac0694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelChanges.TablesAdded property (Excel)
 
-Returns a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) collection of table names as strings representing all tables which were added to the model as part of a model operation. Read-only.
+Returns a **[ModelTableNames](Excel.modeltablenames.md)** collection of table names as strings representing all tables that were added to the model as part of a model operation. Read-only.
 
 
 ## Syntax
 
- _expression_. `TablesAdded`
+_expression_.**TablesAdded**
 
- _expression_ A variable that represents a 'ModelChanges' object.
+_expression_ A variable that represents a **[ModelChanges](Excel.modelchanges.md)** object.
 
 
 ## Property value
 
- **MODELTABLENAMES**
-
-
-## See also
+**MODELTABLENAMES**
 
 
 
-[ModelChanges Object](Excel.modelchanges.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

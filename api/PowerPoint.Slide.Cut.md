@@ -1,5 +1,5 @@
 ---
-title: Slide.Cut Method (PowerPoint)
+title: Slide.Cut method (PowerPoint)
 keywords: vbapp10.chm531012
 f1_keywords:
 - vbapp10.chm531012
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slide.Cut
 ms.assetid: 03029017-52c8-5176-a218-8b5ff8edec10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slide.Cut Method (PowerPoint)
+# Slide.Cut method (PowerPoint)
 
 Deletes the specified object and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_.**Cut**
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
@@ -38,3 +39,4 @@ ActivePresentation.Slides(1).Cut
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

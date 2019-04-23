@@ -1,5 +1,5 @@
 ---
-title: Rows.Shading Property (Word)
+title: Rows.Shading property (Word)
 keywords: vbawd10.chm155975782
 f1_keywords:
 - vbawd10.chm155975782
@@ -8,19 +8,20 @@ api_name:
 - Word.Rows.Shading
 ms.assetid: 79c5240c-2845-e038-49cb-8a9b1f8f2a71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.Shading Property (Word)
+# Rows.Shading property (Word)
 
 Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified object.
 
 
 ## Syntax
 
- _expression_. `Shading`
+_expression_. `Shading`
 
- _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Example
@@ -64,3 +65,4 @@ ActiveDocument.Words(1).Shading.Texture = wdTexture10Percent
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

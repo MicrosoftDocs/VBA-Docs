@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlSchema.XML
 ms.assetid: 1291eecc-71a8-bcfd-44d2-5f4d92dc8b77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the content of the specified schema.
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [XmlSchema](./Excel.XmlSchema.md) object.
+_expression_ A variable that represents a [XmlSchema](Excel.XmlSchema.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** value that represents the content of the specified schema.
 
 [XmlSchema Object](Excel.XmlSchema.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

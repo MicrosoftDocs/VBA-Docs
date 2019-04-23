@@ -1,5 +1,5 @@
 ---
-title: Row.SetLeftIndent Method (Word)
+title: Row.SetLeftIndent method (Word)
 keywords: vbawd10.chm156238026
 f1_keywords:
 - vbawd10.chm156238026
@@ -8,19 +8,20 @@ api_name:
 - Word.Row.SetLeftIndent
 ms.assetid: 44e8d024-5a7c-b4cb-1f14-341954fe66c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.SetLeftIndent Method (Word)
+# Row.SetLeftIndent method (Word)
 
 Sets the indentation for a row in a table.
 
 
 ## Syntax
 
- _expression_. `SetLeftIndent`( `_LeftIndent_` , `_RulerStyle_` )
+_expression_. `SetLeftIndent`( `_LeftIndent_` , `_RulerStyle_` )
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ tableNew.Rows(1).SetLeftIndent LeftIndent:=InchesToPoints(0.5), _
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

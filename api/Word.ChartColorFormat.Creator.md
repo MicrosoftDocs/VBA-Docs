@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat.Creator Property (Word)
+title: ChartColorFormat.Creator property (Word)
 keywords: vbawd10.chm12058773
 f1_keywords:
 - vbawd10.chm12058773
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartColorFormat.Creator
 ms.assetid: 56389a3f-8633-ed9f-dd08-c495bf48cf5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartColorFormat.Creator Property (Word)
+# ChartColorFormat.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[ChartColorFormat](Word.ChartColorFormat.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartColorFormat Object](Word.ChartColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

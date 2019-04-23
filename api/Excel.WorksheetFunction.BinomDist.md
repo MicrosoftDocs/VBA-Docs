@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BinomDist Method (Excel)
+title: WorksheetFunction.BinomDist method (Excel)
 keywords: vbaxl10.chm137177
 f1_keywords:
 - vbaxl10.chm137177
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.BinomDist
 ms.assetid: 0250970f-6a0a-ff33-8f6c-25cb632635b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.BinomDist Method (Excel)
+# WorksheetFunction.BinomDist method (Excel)
 
 Returns the individual term binomial distribution probability.
 
 
 ## Syntax
 
- _expression_. `BinomDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `BinomDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

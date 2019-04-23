@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.EnablePivotTable
 ms.assetid: 8cd09896-9752-677f-a7fd-da46d68ac42a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.EnablePivotTable property (Excel)
 
- **True** if PivotTable controls and actions are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
+ **True** if PivotTable controls and actions are enabled when user-interface-only protection is turned on. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnablePivotTable`
+_expression_. `EnablePivotTable`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ ActiveSheet.Protect contents:=True, userInterfaceOnly:=True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

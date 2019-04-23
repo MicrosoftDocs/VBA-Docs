@@ -1,5 +1,5 @@
 ---
-title: Field.DoClick Method (Word)
+title: Field.DoClick method (Word)
 keywords: vbawd10.chm154075240
 f1_keywords:
 - vbawd10.chm154075240
@@ -8,19 +8,20 @@ api_name:
 - Word.Field.DoClick
 ms.assetid: 04b94737-0f7f-9086-07ff-555e416f2acf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field.DoClick Method (Word)
+# Field.DoClick method (Word)
 
 Clicks the specified field.
 
 
 ## Syntax
 
- _expression_. `DoClick`
+_expression_. `DoClick`
 
- _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
+_expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If fldTemp.Type = wdFieldGoToButton Then fldTemp.DoClick
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

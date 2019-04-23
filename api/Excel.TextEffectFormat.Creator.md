@@ -5,19 +5,20 @@ api_name:
 - Excel.TextEffectFormat.Creator
 ms.assetid: 50833f23-3320-a156-2836-c6ea5fbc6437
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TextEffectFormat.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Remarks
@@ -30,3 +31,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

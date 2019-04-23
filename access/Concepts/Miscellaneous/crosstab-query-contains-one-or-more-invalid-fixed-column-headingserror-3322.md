@@ -3,6 +3,7 @@ title: Crosstab query contains one or more invalid fixed column headings. (Error
 ms.prod: access
 ms.assetid: 863793f8-2c82-13b5-81cb-1ab3a766893a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -34,3 +35,5 @@ Correct the PIVOT clause and execute the query again.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

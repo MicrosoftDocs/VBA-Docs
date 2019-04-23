@@ -1,5 +1,5 @@
 ---
-title: XMLNode.FirstChild Property (Word)
+title: XMLNode.FirstChild property (Word)
 keywords: vbawd10.chm37748745
 f1_keywords:
 - vbawd10.chm37748745
@@ -8,19 +8,20 @@ api_name:
 - Word.XMLNode.FirstChild
 ms.assetid: ce0d09ac-383c-b9b4-3065-c26410b442d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.FirstChild Property (Word)
+# XMLNode.FirstChild property (Word)
 
 Returns a  **DiagramNode** object that represents the first child node of a parent node. Read-only.
 
 
 ## Syntax
 
- _expression_. `FirstChild`
+_expression_. `FirstChild`
 
- _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Remarks
@@ -68,3 +69,4 @@ End Sub
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

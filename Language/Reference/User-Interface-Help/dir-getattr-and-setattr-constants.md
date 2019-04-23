@@ -1,21 +1,22 @@
 ---
-title: Dir, GetAttr, and SetAttr Constants
+title: Dir, GetAttr, and SetAttr constants
 keywords: vblr6.chm1012529
 f1_keywords:
 - vblr6.chm1012529
 ms.prod: office
 ms.assetid: ca85f083-4824-1371-238b-f1ac55f8f702
-ms.date: 06/08/2017
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
-# Dir, GetAttr, and SetAttr Constants
+# Dir, GetAttr, and SetAttr constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
+<br/>
 
-
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbNormal**|0|Normal (default for **Dir** and **SetAttr**)|
 |**vbReadOnly**|1|Read-only|
@@ -24,14 +25,15 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbVolume**|8|Volume label|
 |**vbDirectory**|16|Directory or folder|
 |**vbArchive**|32|File has changed since last backup|
-|**vbAlias**|64|On the Macintosh, identifier is an alias.|
+|**vbAlias**|64|On the Macintosh, identifier is an alias|
 
 Only **VbNormal**, **vbReadOnly**, **vbHidden**, and **vbAlias** are available on the Macintosh.
 
 ## See also
 
-[Dir Function](dir-function.md)
-[GetAttr Function](getattr-function.md)
-[SetAttr Statement](setattr-statement.md)
+- [Dir function](dir-function.md)
+- [GetAttr function](getattr-function.md)
+- [SetAttr statement](setattr-statement.md)
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

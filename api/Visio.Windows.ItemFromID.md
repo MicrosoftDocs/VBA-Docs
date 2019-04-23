@@ -1,5 +1,5 @@
 ---
-title: Windows.ItemFromID Property (Visio)
+title: Windows.ItemFromID property (Visio)
 keywords: vis_sdr.chm11713775
 f1_keywords:
 - vis_sdr.chm11713775
@@ -8,17 +8,18 @@ api_name:
 - Visio.Windows.ItemFromID
 ms.assetid: 19049ae8-b070-3da7-ce6a-446e547b4d5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows.ItemFromID Property (Visio)
+# Windows.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) collection.
 
@@ -50,5 +51,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVWindows.get_ItemFromID(int)**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

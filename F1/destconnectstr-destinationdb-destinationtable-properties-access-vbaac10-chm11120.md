@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 794e7755-ced7-4d89-8b49-eab37a8875e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ ms.date: 06/08/2017
 
 [TextBox.OnGotFocus property (Access)](http://msdn.microsoft.com/library/3a180b9a-d415-b124-f884-9ce64dba8358%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

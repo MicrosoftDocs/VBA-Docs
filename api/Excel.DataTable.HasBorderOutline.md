@@ -8,19 +8,20 @@ api_name:
 - Excel.DataTable.HasBorderOutline
 ms.assetid: e98c1e9a-ff51-32eb-ab8a-aab92c07c82c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataTable.HasBorderOutline property (Excel)
 
- **True** if the chart data table has outline borders. Read/write **Boolean** .
+ **True** if the chart data table has outline borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderOutline`
+_expression_. `HasBorderOutline`
 
- _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
+_expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
 
 
 ## Example
@@ -45,3 +46,4 @@ End With
 
 [DataTable Object](Excel.DataTable(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

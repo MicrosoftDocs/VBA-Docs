@@ -1,5 +1,5 @@
 ---
-title: AddressEntries Object (Outlook)
+title: AddressEntries object (Outlook)
 keywords: vbaol11.chm24
 f1_keywords:
 - vbaol11.chm24
@@ -8,10 +8,11 @@ api_name:
 - Outlook.AddressEntries
 ms.assetid: db91b717-07c6-d1f2-c545-b766ee1f0c6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AddressEntries Object (Outlook)
+# AddressEntries object (Outlook)
 
 Contains a collection of addresses for an  **[AddressList](Outlook.AddressList.md)** object.
 
@@ -52,30 +53,32 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Add](./Outlook.AddressEntries.Add.md)|
-|[GetFirst](./Outlook.AddressEntries.GetFirst.md)|
-|[GetLast](./Outlook.AddressEntries.GetLast.md)|
-|[GetNext](./Outlook.AddressEntries.GetNext.md)|
-|[GetPrevious](./Outlook.AddressEntries.GetPrevious.md)|
-|[Item](./Outlook.AddressEntries.Item.md)|
-|[Sort](./Outlook.AddressEntries.Sort.md)|
+|[Add](Outlook.AddressEntries.Add.md)|
+|[GetFirst](Outlook.AddressEntries.GetFirst.md)|
+|[GetLast](Outlook.AddressEntries.GetLast.md)|
+|[GetNext](Outlook.AddressEntries.GetNext.md)|
+|[GetPrevious](Outlook.AddressEntries.GetPrevious.md)|
+|[Item](Outlook.AddressEntries.Item.md)|
+|[Sort](Outlook.AddressEntries.Sort.md)|
 
 ## Properties
 
 
 
-|**Name**|
+|Name|
 |:-----|
-|[Application](./Outlook.AddressEntries.Application.md)|
-|[Class](./Outlook.AddressEntries.Class.md)|
-|[Count](./Outlook.AddressEntries.Count.md)|
-|[Parent](./Outlook.AddressEntries.Parent.md)|
-|[Session](./Outlook.AddressEntries.Session.md)|
+|[Application](Outlook.AddressEntries.Application.md)|
+|[Class](Outlook.AddressEntries.Class.md)|
+|[Count](Outlook.AddressEntries.Count.md)|
+|[Parent](Outlook.AddressEntries.Parent.md)|
+|[Session](Outlook.AddressEntries.Session.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[AddressEntries Object Members](./overview/Outlook.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+[AddressEntries Object Members](overview/Outlook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

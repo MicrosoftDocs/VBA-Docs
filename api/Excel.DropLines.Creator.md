@@ -8,19 +8,20 @@ api_name:
 - Excel.DropLines.Creator
 ms.assetid: c1c7acab-e33b-ec58-6303-c31923c3f1fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DropLines.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [DropLines](Excel.DropLines-graph-property.md) object.
+_expression_ A variable that represents a [DropLines](Excel.DropLines-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [DropLines Object](Excel.DropLines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

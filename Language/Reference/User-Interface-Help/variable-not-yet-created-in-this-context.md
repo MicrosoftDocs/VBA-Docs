@@ -6,12 +6,13 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 93dc4805-7ce4-0240-7bc7-e5bc593dfbf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Variable not yet created in this context
 
-A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before it can be displayed in the **Watch** window or the **Immediate** window, and before it can have values assigned to it in the **Immediate** window. This error has the following causes and solutions:
+A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before it can be displayed in the Watch window or the Immediate window, and before it can have values assigned to it in the Immediate window. This error has the following causes and solutions:
 
 
 
@@ -26,3 +27,4 @@ A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before i
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

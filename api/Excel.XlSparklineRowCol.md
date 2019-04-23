@@ -1,14 +1,15 @@
 ---
-title: xlSparklineRowCol enumeration (Excel)
+title: XlSparklineRowCol enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSparklineRowCol
 ms.assetid: 1b978b0d-c2a9-3367-cdef-429f79d84882
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlSparklineRowCol enumeration (Excel)
+# XlSparklineRowCol enumeration (Excel)
 
 Specifies how to plot the sparkline when the data on which it is based is in a square-shaped range.
 
@@ -22,6 +23,6 @@ Specifies how to plot the sparkline when the data on which it is based is in a s
 
 ## Remarks
 
-The  **XlSparklineRowCol** enumeration is used by the **[PlotBy](./overview/Excel.md)** property of the **[SparklineGroup](Excel.SparklineGroup.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
+The  **xlSparklineRowCol** enumeration is used by the **[PlotBy](overview/Excel.md)** property of the **[SparklineGroup](Excel.SparklineGroup.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

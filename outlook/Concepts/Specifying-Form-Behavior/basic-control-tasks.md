@@ -3,6 +3,7 @@ title: Basic Control Tasks
 ms.prod: outlook
 ms.assetid: edb53163-86c0-4769-9b71-b6c1413f7503
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,5 +33,5 @@ ms.date: 06/08/2017
 -  [Set Properties for Controls](set-properties-for-controls.md)
     
 -  [Size Controls](size-controls.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

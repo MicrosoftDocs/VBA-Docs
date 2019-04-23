@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Add Method (Excel)
+title: RecentFiles.Add method (Excel)
 keywords: vbaxl10.chm172077
 f1_keywords:
 - vbaxl10.chm172077
@@ -8,19 +8,20 @@ api_name:
 - Excel.RecentFiles.Add
 ms.assetid: 70d4c4e0-b0f5-8143-0f23-69dc1c85736e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFiles.Add Method (Excel)
+# RecentFiles.Add method (Excel)
 
 Adds a file to the list of recently used files.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
+_expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ Application.RecentFiles.Add Name:="Oscar.xls"
 
 [RecentFiles Object](Excel.RecentFiles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

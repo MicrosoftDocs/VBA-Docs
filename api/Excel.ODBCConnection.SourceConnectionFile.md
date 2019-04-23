@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCConnection.SourceConnectionFile
 ms.assetid: 0e38ca83-522e-769a-9e07-6d9e78ceecea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
 ## Syntax
 
- _expression_. `SourceConnectionFile`
+_expression_. `SourceConnectionFile`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

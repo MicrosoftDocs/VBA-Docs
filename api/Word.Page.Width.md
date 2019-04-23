@@ -1,5 +1,5 @@
 ---
-title: Page.Width Property (Word)
+title: Page.Width property (Word)
 keywords: vbawd10.chm11075588
 f1_keywords:
 - vbawd10.chm11075588
@@ -8,24 +8,25 @@ api_name:
 - Word.Page.Width
 ms.assetid: 530e4e99-4962-5887-6a1d-da328f43ffb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Width Property (Word)
+# Page.Width property (Word)
 
-Returns a  **Long** that represents the width, in points, of the paper defined in the **Page Setup** dialog box. Read-only **Long** .
+Returns a  **Long** that represents the width, in [points](../language/glossary/vbe-glossary.md#point), of the paper defined in the **Page Setup** dialog box. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
  _expression_ A variable that represents a '[Page](Word.Page.md)' object.
 
 
 ## Remarks
 
-The  **Top** and **Left** properties of the **Page** object always return 0 (zero) indicating the upper left corner of the page. The **Height** and **Width** properties return the height and width in points (72 points = 1 inch) of the paper size specified in the Page Setup dialog or through the **PageSetup** object. For example, for an 8-1/2 by 11 inch page in portrait mode, the **Height** property returns 792 and the **Width** property returns 612. All four of these properties are read-only.
+The  **Top** and **Left** properties of the **Page** object always return 0 (zero) indicating the upper-left corner of the page. The **Height** and **Width** properties return the height and width in points (72 points = 1 inch) of the paper size specified in the Page Setup dialog or through the **PageSetup** object. For example, for an 8-1/2 by 11 inch page in portrait mode, the **Height** property returns 792 and the **Width** property returns 612. All four of these properties are read-only.
 
 
 ## See also
@@ -33,3 +34,4 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 [Page Object](Word.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

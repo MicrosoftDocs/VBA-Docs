@@ -8,6 +8,7 @@ api_name:
 - Excel.TreeviewControl.Hidden
 ms.assetid: 134a3b6b-492b-6813-cd40-ce1ff3b52c6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Returns or sets a Variant value that represents the hidden status of the cube fi
 
 ## Syntax
 
- _expression_. `Hidden`
+_expression_. `Hidden`
 
- _expression_ A variable that represents a [TreeviewControl](./Excel.TreeviewControl.md) object.
+_expression_ A variable that represents a [TreeviewControl](Excel.TreeviewControl.md) object.
 
 
 ## Remarks
 
 Don't confuse this property with the  **[FormulaHidden](Excel.Range.FormulaHidden.md)** property.
 
-The  **Hidden** property returns or sets an array. Each element of the array corresponds to a level of the cube field that is hidden. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String** , containing unique member names that are hidden at the corresponding level of the control. See the **[DrilledDown](Excel.PivotItem.DrilledDown.md)** property of the **[PivotItem](Excel.PivotItem.md)** object to determine when members are visible (expanded) in the control.
+The  **Hidden** property returns or sets an array. Each element of the array corresponds to a level of the cube field that is hidden. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String**, containing unique member names that are hidden at the corresponding level of the control. See the **[DrilledDown](Excel.PivotItem.DrilledDown.md)** property of the **[PivotItem](Excel.PivotItem.md)** object to determine when members are visible (expanded) in the control.
 
 
 ## Example
@@ -48,3 +49,4 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields(1) _
 
 [TreeviewControl Object](Excel.TreeviewControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetPivotTableChangeSync Event (Excel)
+title: Workbook.SheetPivotTableChangeSync event (Excel)
 keywords: vbaxl10.chm503106
 f1_keywords:
 - vbaxl10.chm503106
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SheetPivotTableChangeSync
 ms.assetid: c280b935-3dbf-0666-b727-64d6b4ac7ebd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SheetPivotTableChangeSync Event (Excel)
+# Workbook.SheetPivotTableChangeSync event (Excel)
 
 Occurs after changes to a PivotTable.
 
 
 ## Syntax
 
- _expression_. `SheetPivotTableChangeSync`( `_Sh_` , `_Target_` )
+_expression_. `SheetPivotTableChangeSync`( `_Sh_` , `_Target_` )
 
- _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

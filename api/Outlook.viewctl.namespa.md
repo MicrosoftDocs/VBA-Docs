@@ -3,6 +3,7 @@ title: ViewCtl.Namespace Property (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 97cb1ea1-2e27-afc9-7756-b609dc9cc69e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that represents the namespace property of the cont
 
 ## Syntax
 
- _expression_. **Namespace**
+_expression_.**Namespace**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ If neither the  **Namespace** nor the **[Folder](Outlook.viewctl.fold.md)** prop
 
 The namespace represents an abstract root object for any data source.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetics.Length
 ms.assetid: 62f4c46d-2dc3-d8dc-b699-ca74eff1f77f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of characters of phonetic t
 
 ## Syntax
 
- _expression_. `Length`
+_expression_.**Length**
 
- _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
+_expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 
 
 ## Example
@@ -41,3 +42,4 @@ MsgBox ActiveCell.Phonetics(2).Length
 
 [Phonetics Object](Excel.Phonetics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

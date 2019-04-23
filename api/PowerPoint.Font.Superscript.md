@@ -1,5 +1,5 @@
 ---
-title: Font.Superscript Property (PowerPoint)
+title: Font.Superscript property (PowerPoint)
 keywords: vbapp10.chm575010
 f1_keywords:
 - vbapp10.chm575010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.Superscript
 ms.assetid: 6f0bba73-f375-d715-3ddb-f1ab6041336c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Superscript Property (PowerPoint)
+# Font.Superscript property (PowerPoint)
 
 Determines whether the specified text is superscript. Read/write.
 
 
 ## Syntax
 
- _expression_. `Superscript`
+_expression_. `Superscript`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -40,7 +41,7 @@ The value of the  **Superscript** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text is not superscript. The default.|
 |**msoTriStateMixed**|Some characters are superscript and some aren't.|
@@ -72,3 +73,4 @@ End With
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

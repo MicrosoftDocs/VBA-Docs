@@ -1,5 +1,5 @@
 ---
-title: Paragraph.FarEastLineBreakControl Property (Word)
+title: Paragraph.FarEastLineBreakControl property (Word)
 keywords: vbawd10.chm156696693
 f1_keywords:
 - vbawd10.chm156696693
@@ -8,17 +8,18 @@ api_name:
 - Word.Paragraph.FarEastLineBreakControl
 ms.assetid: 974b326b-5acc-bafd-6b0a-b9e6657d0058
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.FarEastLineBreakControl Property (Word)
+# Paragraph.FarEastLineBreakControl property (Word)
 
- **True** if Microsoft Word applies East Asian line-breaking rules to the specified paragraphs. Returns **wdUndefined** if the **FarEastLineBreakControl** property is set to **True** for only some of the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word applies East Asian line-breaking rules to the specified paragraphs. Returns **wdUndefined** if the **FarEastLineBreakControl** property is set to **True** for only some of the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `FarEastLineBreakControl`
+_expression_. `FarEastLineBreakControl`
 
  _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
@@ -38,3 +39,4 @@ ActiveDocument.Paragraphs(1).FarEastLineBreakControl = True
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

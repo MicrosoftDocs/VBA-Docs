@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMajorGridlines Property (Word)
+title: Axis.HasMajorGridlines property (Word)
 keywords: vbawd10.chm113049611
 f1_keywords:
 - vbawd10.chm113049611
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.HasMajorGridlines
 ms.assetid: bd207374-f9b1-ed1d-f309-30c07ebf1e70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.HasMajorGridlines Property (Word)
+# Axis.HasMajorGridlines property (Word)
 
- **True** if the axis has major gridlines. Read/write **Boolean** .
+ **True** if the axis has major gridlines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasMajorGridlines`
+_expression_.**HasMajorGridlines**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

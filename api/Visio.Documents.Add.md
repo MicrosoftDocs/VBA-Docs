@@ -1,5 +1,5 @@
 ---
-title: Documents.Add Method (Visio)
+title: Documents.Add method (Visio)
 keywords: vis_sdr.chm10616660
 f1_keywords:
 - vis_sdr.chm10616660
@@ -8,17 +8,18 @@ api_name:
 - Visio.Documents.Add
 ms.assetid: 6efefc80-9373-4fe2-b290-0fff6d6bad0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.Add Method (Visio)
+# Documents.Add method (Visio)
 
 Adds a new  **Document** object to the **Documents** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_FileName_` )
+_expression_.**Add**( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
@@ -29,7 +30,7 @@ Adds a new  **Document** object to the **Documents** collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required| **String**|The type or file name of the document to add; if you do not include a path, Visio searches the folder or folders designated in the ** Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
+| _FileName_|Required| **String**|The type or file name of the document to add; if you do not include a path, Visio searches the folder or folders designated in the **Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
 
 ## Return value
 
@@ -81,4 +82,4 @@ Public Sub AddDocument_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

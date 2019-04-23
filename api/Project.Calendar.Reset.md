@@ -1,5 +1,5 @@
 ---
-title: Calendar.Reset Method (Project)
+title: Calendar.Reset method (Project)
 keywords: vbapj.chm131258
 f1_keywords:
 - vbapj.chm131258
@@ -8,17 +8,18 @@ api_name:
 - Project.Calendar.Reset
 ms.assetid: fc638f47-36b5-aa36-55c2-882bd570b9cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Calendar.Reset Method (Project)
+# Calendar.Reset method (Project)
 
 Resets base calendar properties to their default values; resets resource calendar properties to the values in the corresponding base calendar.
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
@@ -40,4 +41,4 @@ Sub ResetResourceCalendars()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

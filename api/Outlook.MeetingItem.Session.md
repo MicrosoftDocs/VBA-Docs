@@ -1,5 +1,5 @@
 ---
-title: MeetingItem.Session Property (Outlook)
+title: MeetingItem.Session property (Outlook)
 keywords: vbaol11.chm1400
 f1_keywords:
 - vbaol11.chm1400
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MeetingItem.Session
 ms.assetid: b18a448d-c3a6-e8cd-f251-30883e53e484
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MeetingItem.Session Property (Outlook)
+# MeetingItem.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

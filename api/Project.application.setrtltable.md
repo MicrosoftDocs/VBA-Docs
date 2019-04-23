@@ -1,20 +1,21 @@
 ---
-title: Application.SetRTLTable Method (Project)
+title: Application.SetRTLTable method (Project)
 keywords: vbapj.chm1519
 f1_keywords:
 - vbapj.chm1519
 ms.prod: project-server
 ms.assetid: 92dc18e3-fa84-a4b2-d032-aa32a4e3957d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetRTLTable Method (Project)
+# Application.SetRTLTable method (Project)
 Sets column order from right to left, for a selected table in a report.
 
 ## Syntax
 
- _expression_. `SetRTLTable`
+_expression_. `SetRTLTable`
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
@@ -43,3 +44,5 @@ If a report is not active, the  **SetRTLTable** method displays a dialog box wit
 [SetLTRTable](Project.application.setltrtable.md)
 [ReportTable Object](Project.reporttable.md)
 [Shape.Table Property](Project.shape.table.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

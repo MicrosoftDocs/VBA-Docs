@@ -5,6 +5,7 @@ api_name:
 - Excel.ShapeNode.Application
 ms.assetid: 98e77d56-875c-7696-2b2d-5f36409fa129
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,14 +16,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ShapeNode](./Excel.ShapeNode.md) object.
+_expression_ A variable that represents a [ShapeNode](Excel.ShapeNode.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -40,3 +41,4 @@ End If
 
 [ShapeNode Object](Excel.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

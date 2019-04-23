@@ -1,26 +1,24 @@
 ---
-title: RowSourceType Property (User-Defined Function) - Code Argument Values
+title: RowSourceType property (user-defined function) code argument values
 keywords: vbaac10.chm5187987
 f1_keywords:
 - vbaac10.chm5187987
 ms.prod: access
 ms.assetid: 1c39d168-e020-2a98-f902-29c00de137ad
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
-# RowSourceType Property (User-Defined Function) - Code Argument Values
+# RowSourceType property (user-defined function) code argument values
 
-**Applies to:** Access 2013 | Access 2016
+The Visual Basic function that you create must accept five arguments. The first argument must be declared as a control and the remaining arguments as **Variants**. The function itself must return a **Variant**.
 
-The Visual Basic function you create must accept five arguments. The first argument must be declared as a control and the remaining arguments as **Variants**. The function itself must return a **Variant**.
-
-**Function** _functionname_ (**_fld_ As Control**, **_id_ As Variant**, **_row_ As Variant**, **_col_ As Variant**, **_code_ As Variant**) As Variant
+**Function** _functionname_ (_fld_ **As Control**, _id_ **As Variant**, _row_ **As Variant**, _col_ **As Variant**, _code_ **As Variant**) As Variant
 
 The **Function** procedure has the following five required arguments.
 
-
-|**Argument**|**Description**|
+|Argument|Description|
 |:-----|:-----|
 | _fld_|A control variable that refers to the list box or combo box being filled.|
 | _id_|A unique value that identifies the control being filled. This is useful when you want to use the same user-defined function for more than one list box or combo box and must distinguish between them. (The example sets this variable to the value of the **Timer** function.)|
@@ -31,29 +29,29 @@ The **Function** procedure has the following five required arguments.
 > [!NOTE] 
 > Because Microsoft Access calls a user-defined function several times to insert items into a list, often you must preserve information from call to call. The best way to do this is to use Static variables.
 
-Microsoft Access calls the user-defined function by repeatedly using different values in the  _code_ argument to specify the information it needs. The _code_ argument can use the following intrinsic constants.
+Microsoft Access calls the user-defined function by repeatedly using different values in the _code_ argument to specify the information it needs. The _code_ argument can use the following intrinsic constants.
 
-
-|**Constant**|**Meaning**|**Function returns**|
+|Constant|Meaning|Function returns|
 |:-----|:-----|:-----|
 |**acLBInitialize**|Initialize|Nonzero if the function can fill the list; **False** (0) or **Null** otherwise.|
 |**acLBOpen**|Open|Nonzero ID value if the function can fill the list; **False** or **Null** otherwise.|
 |**acLBGetRowCount**|Number of rows|Number of rows in the list (can be zero); -1 if unknown.|
 |**acLBGetColumnCount**|Number of columns|Number of columns in the list (can't be zero); must match the property sheet value.|
-|**acLBGetColumnWidth**|Column width|Width (in twips) of the column specified by the  _col_ argument; -1 to use the default width.|
-|**acLBGetValue**|List entry|List entry to be displayed in the row and column specified by the  _row_ and _col_ arguments.|
-|**acLBGetFormat**|Format string|Format string to be used to format the list entry displayed in the row and column specified by the  _row_ and _col_ arguments; -1 to use the default format.|
+|**acLBGetColumnWidth**|Column width|Width (in [twips](../language/glossary/vbe-glossary.md#twip)) of the column specified by the  _col_ argument; -1 to use the default width.|
+|**acLBGetValue**|List entry|List entry to be displayed in the row and column specified by the _row_ and _col_ arguments.|
+|**acLBGetFormat**|Format string|Format string to be used to format the list entry displayed in the row and column specified by the _row_ and _col_ arguments; -1 to use the default format.|
 |**acLBEnd**|End (the last call to a user-defined function always uses this value)|Nothing.|
 |**acLBClose**|(Not used)|Not used.|
 
-Microsoft Access calls your user-defined function once for **acLBInitialize**, **acLBOpen**, **acLBGetRowCount**, and **acLBGetColumnCount**. It initializes the user-defined function, opens the query, and determines the number of rows and columns.
+Access calls your user-defined function once for **acLBInitialize**, **acLBOpen**, **acLBGetRowCount**, and **acLBGetColumnCount**. It initializes the user-defined function, opens the query, and determines the number of rows and columns.
 
-Microsoft Access calls your user-defined function twice for **acLBGetColumnWidth** — once to determine the total width of the list box or combo box and a second time to set the column width.
+Access calls your user-defined function twice for **acLBGetColumnWidth**—once to determine the total width of the list box or combo box and a second time to set the column width.
 
 The number of times your user-defined function is called for **acLBGetValue** and **acLBGetFormat** to get list entries and to format strings varies depending on the number of entries, the user's scrolling, and other factors.
-Microsoft Access calls the user-defined function for **acLBEnd** when the form is closed or each time the list box or combo box is queried.
 
-Whenever a particular value (such as the number of columns) is required, returning **Null** or any invalid value causes Microsoft Access to stop calling the user-defined function with that code.
+Access calls the user-defined function for **acLBEnd** when the form is closed or each time the list box or combo box is queried.
+
+Whenever a particular value (such as the number of columns) is required, returning **Null** or any invalid value causes Access to stop calling the user-defined function with that code.
 
 > [!TIP] 
 > You can use the Select Case code structure from the example as a template for your own **RowSourceType** property user-defined functions.
@@ -88,10 +86,9 @@ Function ListMondays(fld As Control,id As Variant, _
 End Function
 ```
 
+<br/>
+
 The next example uses a static array to store the names of the databases in the current directory. To call this function, enter **ListMDBs** as the **RowSourceType** property setting and leave the **RowSource** property setting blank.
-
-
-
 
 ```vb
 Function ListMDBs(fld As Control, id As Variant, _ 
@@ -129,13 +126,4 @@ End Function
 ```
 
 
-## See also
-
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
-- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

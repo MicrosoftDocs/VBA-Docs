@@ -1,23 +1,24 @@
 ---
-title: Adjustments.Application Property (PowerPoint)
+title: Adjustments.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Application
 ms.assetid: 0cd973ac-cf73-7ea1-0009-ef080a1f477d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Adjustments.Application Property (PowerPoint)
+# Adjustments.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [Adjustments](./PowerPoint.Adjustments.md) object.
+_expression_ A variable that represents an [Adjustments](./PowerPoint.Adjustments.md) object.
 
 
 ## Return value
@@ -63,3 +64,4 @@ Next
 
 [Adjustments Object](PowerPoint.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

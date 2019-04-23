@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.TabControl.GridlineThemeColorIndex
 ms.assetid: f1b3ef7c-f123-469d-c045-120eb91dedd6
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # TabControl.GridlineThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **GridlineColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **[GridlineColor](access.TabControl.gridlinecolor.md)** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `GridlineThemeColorIndex`
+_expression_.**GridlineThemeColorIndex**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks
 
-The  **GridlineThemeColorIndex** property uses one of the values listed in the following table.
+The **GridlineThemeColorIndex** property uses one of the values listed in the following table.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0 |Text 1|
 |1 (Default)|Background 1|
@@ -44,13 +43,11 @@ The  **GridlineThemeColorIndex** property uses one of the values listed in the f
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **GridlineThemeColorIndex** property contains -1.
+If no theme is applied, the **GridlineThemeColorIndex** property contains -1.
 
-This property is not surfaced in the property sheet.
-
-
-## See also
+This property is not surfaced in the property sheet. 
 
 
-[TabControl Object](Access.TabControl.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

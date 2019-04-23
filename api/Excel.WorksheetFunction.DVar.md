@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DVar Method (Excel)
+title: WorksheetFunction.DVar method (Excel)
 keywords: vbaxl10.chm137101
 f1_keywords:
 - vbaxl10.chm137101
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DVar
 ms.assetid: 01f75308-fab4-1373-3fd3-c2362ddc7791
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DVar Method (Excel)
+# WorksheetFunction.DVar method (Excel)
 
 Estimates the variance of a population based on a sample by using the numbers in a column of a list or database that match conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DVar`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DVar`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

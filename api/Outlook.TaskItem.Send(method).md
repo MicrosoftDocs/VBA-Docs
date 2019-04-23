@@ -1,5 +1,5 @@
 ---
-title: TaskItem.Send Method (Outlook)
+title: TaskItem.Send method (Outlook)
 keywords: vbaol11.chm1755
 f1_keywords:
 - vbaol11.chm1755
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.Send
 ms.assetid: 54f751fc-cff1-5d17-f635-f688cd8ad6f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.Send Method (Outlook)
+# TaskItem.Send method (Outlook)
 
 Sends the task.
 
 
 ## Syntax
 
- _expression_. `Send`
+_expression_. `Send`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## Example
@@ -66,3 +67,4 @@ End Sub
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

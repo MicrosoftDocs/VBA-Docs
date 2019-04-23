@@ -1,5 +1,5 @@
 ---
-title: Names.Item Method (Excel)
+title: Names.Item method (Excel)
 keywords: vbaxl10.chm488074
 f1_keywords:
 - vbaxl10.chm488074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Names.Item
 ms.assetid: 01d138f1-a2a8-8c39-98f0-b953c4b3b5ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Names.Item Method (Excel)
+# Names.Item method (Excel)
 
 Returns a single  **[Name](Excel.Name.md)** object from a **Names** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` , `_IndexLocal_` , `_RefersTo_` )
+_expression_. `Item`( `_Index_` , `_IndexLocal_` , `_RefersTo_` )
 
- _expression_ A variable that represents a [Names](Excel.Names.md) object.
+_expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ ActiveWorkbook.Names.Item("mySortRange").Delete
 
 [Names Object](Excel.Names.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

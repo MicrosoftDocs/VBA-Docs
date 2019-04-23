@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RecentFilesListSize Property (Visio)
+title: ApplicationSettings.RecentFilesListSize property (Visio)
 keywords: vis_sdr.chm16251680
 f1_keywords:
 - vis_sdr.chm16251680
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.RecentFilesListSize
 ms.assetid: 8057f3d5-ccaf-28a2-9e70-1844f858d51d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RecentFilesListSize Property (Visio)
+# ApplicationSettings.RecentFilesListSize property (Visio)
 
 Determines the number of entries in the  **Recent Documents** list in the Microsoft Visio user interface. Read/write.
 
 
 ## Syntax
 
- _expression_. `RecentFilesListSize`
+_expression_. `RecentFilesListSize`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -52,4 +53,4 @@ Public Sub RecentFilesListSize_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

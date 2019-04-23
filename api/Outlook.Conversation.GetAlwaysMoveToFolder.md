@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetAlwaysMoveToFolder Method (Outlook)
+title: Conversation.GetAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3441
 f1_keywords:
 - vbaol11.chm3441
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.GetAlwaysMoveToFolder
 ms.assetid: ecad049d-338b-d5e0-f241-a9dddaeae316
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.GetAlwaysMoveToFolder Method (Outlook)
+# Conversation.GetAlwaysMoveToFolder method (Outlook)
 
 Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in the specified delivery store to which new items that arrive in the conversation are always moved.
 
 
 ## Syntax
 
- _expression_. `GetAlwaysMoveToFolder`( `_Store_` )
+_expression_. `GetAlwaysMoveToFolder`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -100,3 +101,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

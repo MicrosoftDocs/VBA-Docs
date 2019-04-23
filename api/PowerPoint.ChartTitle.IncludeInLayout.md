@@ -1,21 +1,22 @@
 ---
-title: ChartTitle.IncludeInLayout Property (PowerPoint)
+title: ChartTitle.IncludeInLayout property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.IncludeInLayout
 ms.assetid: d4942d3e-1c58-c3b5-c291-64bf64300f9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle.IncludeInLayout Property (PowerPoint)
+# ChartTitle.IncludeInLayout property (PowerPoint)
 
  **True** if a chart title will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ An expression that returns a '[ChartTitle](PowerPoint.ChartTitle.md)' object.
 
@@ -30,3 +31,4 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

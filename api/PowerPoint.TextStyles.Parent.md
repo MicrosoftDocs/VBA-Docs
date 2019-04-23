@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Parent Property (PowerPoint)
+title: TextStyles.Parent property (PowerPoint)
 keywords: vbapp10.chm578002
 f1_keywords:
 - vbapp10.chm578002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextStyles.Parent
 ms.assetid: 74a2784b-ea76-9ef4-cacd-ac5ad9ba34a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyles.Parent Property (PowerPoint)
+# TextStyles.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [TextStyles](./PowerPoint.TextStyles.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [TextStyles Object](PowerPoint.TextStyles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

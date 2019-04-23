@@ -1,5 +1,5 @@
 ---
-title: Range.EndOf Method (Word)
+title: Range.EndOf method (Word)
 keywords: vbawd10.chm157155436
 f1_keywords:
 - vbawd10.chm157155436
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.EndOf
 ms.assetid: b9bda3b3-fee5-6359-f0ab-10fbe6b635b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.EndOf Method (Word)
+# Range.EndOf method (Word)
 
 Moves or extends the ending character position of a range to the end of the nearest specified text unit.
 
 
 ## Syntax
 
- _expression_. `EndOf`( `_Unit_` , `_Extend_` )
+_expression_. `EndOf`( `_Unit_` , `_Extend_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -29,8 +30,8 @@ Moves or extends the ending character position of a range to the end of the near
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which to move the ending character position. Can be any  **WdUnits** , except **wdLine** . The default value is **wdWord** .|
-| _Extend_|Required| ** WdMovementType**|Specifies whether to move or extend the end of the range. If the value is  **wdMove** , both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **Variant**|The unit by which to move the ending character position. Can be any  **WdUnits**, except **wdLine**. The default value is **wdWord**.|
+| _Extend_|Required| ** WdMovementType**|Specifies whether to move or extend the end of the range. If the value is  **wdMove**, both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove**.|
 
 ## Remarks
 
@@ -85,3 +86,4 @@ Selection.EndOf Unit:=wdColumn, Extend:=wdExtend
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

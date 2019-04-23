@@ -1,21 +1,22 @@
 ---
-title: TextStyles.Count Property (PowerPoint)
+title: TextStyles.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyles.Count
 ms.assetid: afdd652f-7f97-899d-af82-1f2396ff23b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyles.Count Property (PowerPoint)
+# TextStyles.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [TextStyles](./PowerPoint.TextStyles.md) object.
 
@@ -48,3 +49,4 @@ End With
 
 [TextStyles Object](PowerPoint.TextStyles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

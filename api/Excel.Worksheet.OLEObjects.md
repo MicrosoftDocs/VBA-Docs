@@ -1,5 +1,5 @@
 ---
-title: Worksheet.OLEObjects Method (Excel)
+title: Worksheet.OLEObjects method (Excel)
 keywords: vbaxl10.chm175108
 f1_keywords:
 - vbaxl10.chm175108
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.OLEObjects
 ms.assetid: 3f178081-2a42-a751-ae79-8ca149d8ec45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.OLEObjects Method (Excel)
+# Worksheet.OLEObjects method (Excel)
 
 Returns an object that represents either a single OLE object (an  **[OLEObject](Excel.OLEObject.md)**) or a collection of all OLE objects (an **[OLEObjects](Excel.OLEObjects.md)** collection) on the chart or sheet. Read-only.
 
 
 ## Syntax
 
- _expression_. `OLEObjects`( `_Index_` )
+_expression_.**OLEObjects** (_Index_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Next
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

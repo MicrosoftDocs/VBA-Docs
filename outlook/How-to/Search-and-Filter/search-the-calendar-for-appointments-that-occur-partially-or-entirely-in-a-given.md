@@ -3,6 +3,7 @@ title: Search the Calendar for Appointments that Occur Partially or Entirely in 
 ms.prod: outlook
 ms.assetid: 3ff170d3-f098-51ab-9ae4-0e71cc587bac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -70,4 +71,4 @@ Sub FindApptsInTimeFrame()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

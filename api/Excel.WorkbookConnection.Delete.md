@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.Delete Method (Excel)
+title: WorkbookConnection.Delete method (Excel)
 keywords: vbaxl10.chm774080
 f1_keywords:
 - vbaxl10.chm774080
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorkbookConnection.Delete
 ms.assetid: d1312b91-04d7-2695-0c20-c18a31776fb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorkbookConnection.Delete Method (Excel)
+# WorkbookConnection.Delete method (Excel)
 
 Deletes a workbook connection.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ Objects that use a deleted connection behave as if the connection could not be e
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Hex2Dec Method (Excel)
+title: WorksheetFunction.Hex2Dec method (Excel)
 keywords: vbaxl10.chm137262
 f1_keywords:
 - vbaxl10.chm137262
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Hex2Dec
 ms.assetid: e2e0614c-583e-8a1f-b852-683c119d5a5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Hex2Dec Method (Excel)
+# WorksheetFunction.Hex2Dec method (Excel)
 
 Converts a hexadecimal number to decimal.
 
 
 ## Syntax
 
- _expression_. `Hex2Dec`( `_Arg1_` )
+_expression_. `Hex2Dec`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ If number is not a valid hexadecimal number, HEX2DEC returns the #NUM! error val
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

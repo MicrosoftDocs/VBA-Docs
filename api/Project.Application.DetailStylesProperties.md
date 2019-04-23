@@ -1,5 +1,5 @@
 ---
-title: Application.DetailStylesProperties Method (Project)
+title: Application.DetailStylesProperties method (Project)
 keywords: vbapj.chm952
 f1_keywords:
 - vbapj.chm952
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.DetailStylesProperties
 ms.assetid: f066f826-eef2-7f97-dafa-998f7bd70f42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DetailStylesProperties Method (Project)
+# Application.DetailStylesProperties method (Project)
 
 Sets the format of details in a usage view.
 
 
 ## Syntax
 
- _expression_. `DetailStylesProperties`( ` _AlignCellData_`, ` _RepeatRowLabel_`, ` _ShortLabels_`, ` _DisplayDetailsColumn_` )
+_expression_. `DetailStylesProperties`( `_AlignCellData_`, `_RepeatRowLabel_`, `_ShortLabels_`, `_DisplayDetailsColumn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -58,4 +59,4 @@ Sub DetailStyles_Remove()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

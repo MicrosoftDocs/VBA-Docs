@@ -1,5 +1,5 @@
 ---
-title: Series.Trendlines Method (Word)
+title: Series.Trendlines method (Word)
 keywords: vbawd10.chm123732122
 f1_keywords:
 - vbawd10.chm123732122
@@ -8,17 +8,18 @@ api_name:
 - Word.Series.Trendlines
 ms.assetid: 300dca01-097f-8a3d-4f63-a1841a92098e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Trendlines Method (Word)
+# Series.Trendlines method (Word)
 
 Returns a collection of all the trendlines for the series.
 
 
 ## Syntax
 
- _expression_. `Trendlines`( `_Index_` )
+_expression_. `Trendlines` (_Index_)
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

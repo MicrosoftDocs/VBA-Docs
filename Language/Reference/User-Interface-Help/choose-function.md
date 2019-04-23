@@ -1,11 +1,12 @@
 ---
-title: Choose function
+title: Choose function (Visual Basic for Applications)
 keywords: vblr6.chm1010091
 f1_keywords:
 - vblr6.chm1010091
 ms.prod: office
 ms.assetid: ccf3fe4c-9507-5ff3-b834-9a16e2a19ae2
-ms.date: 06/08/2017
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
@@ -15,12 +16,13 @@ Selects and returns a value from a list of [arguments](../../Glossary/vbe-glossa
 
 ## Syntax
 
-**Choose(**_index_, _choice-1_ [, _choice-2_, _..._ [, _choice-n_ ]] **)**
+**Choose**(_index_, _choice-1_, [ _choice-2_, _..._, [ _choice-n_ ]] )
+
+<br/>
 
 The **Choose** function syntax has these parts:
 
-
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _index_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or field that results in a value between 1 and the number of available choices.|
 | _choice_|Required. [Variant expression](../../Glossary/vbe-glossary.md#variant-expression) containing one of the possible choices.|
@@ -35,12 +37,11 @@ You can use **Choose** to look up a value in a list of possibilities. For exampl
 
 The **Choose** function returns a [Null](../../Glossary/vbe-glossary.md#null) if _index_ is less than 1 or greater than the number of choices listed.
 
-If  _index_ is not a whole number, it is rounded to the nearest whole number before being evaluated.
+If _index_ is not a whole number, it is rounded to the nearest whole number before being evaluated.
 
 ## Example
 
 This example uses the **Choose** function to display a name in response to an index passed into the procedure in the `Ind` parameter.
-
 
 ```vb
 Function GetChoice(Ind As Integer)
@@ -48,4 +49,8 @@ Function GetChoice(Ind As Integer)
 End Function
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

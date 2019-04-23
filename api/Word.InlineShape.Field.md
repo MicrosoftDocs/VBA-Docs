@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Field Property (Word)
+title: InlineShape.Field property (Word)
 keywords: vbawd10.chm162004996
 f1_keywords:
 - vbawd10.chm162004996
@@ -8,17 +8,18 @@ api_name:
 - Word.InlineShape.Field
 ms.assetid: cc74cfc7-5182-1447-208b-1e6166ffc915
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.Field Property (Word)
+# InlineShape.Field property (Word)
 
 Returns a  **Field** object that represents the field associated with the specified inline shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `Field`
+_expression_. `Field`
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
@@ -51,3 +52,4 @@ MsgBox iShapeNew.Field.Code.Text
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

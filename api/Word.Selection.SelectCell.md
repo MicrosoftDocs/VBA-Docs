@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCell Method (Word)
+title: Selection.SelectCell method (Word)
 keywords: vbawd10.chm158663192
 f1_keywords:
 - vbawd10.chm158663192
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.SelectCell
 ms.assetid: 49df8e0c-795d-5d5b-79e4-56e0bd64c222
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SelectCell Method (Word)
+# Selection.SelectCell method (Word)
 
 Selects the entire cell containing the current selection.
 
 
 ## Syntax
 
- _expression_. `SelectCell`
+_expression_. `SelectCell`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Selection.SelectCell
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

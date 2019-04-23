@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters Object (Office)
+title: FileDialogFilters object (Office)
 keywords: vbaof11.chm255000
 f1_keywords:
 - vbaof11.chm255000
@@ -7,28 +7,26 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilters
 ms.assetid: a74663cf-ad63-e41a-8d5e-e51e8a20c173
-ms.date: 06/08/2017
+ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 
-# FileDialogFilters Object (Office)
+# FileDialogFilters object (Office)
 
-A collection of  **FileDialogFilter** objects that represent the types of files that can be selected in a file dialog box that is displayed using the **FileDialog** object.
-
+A collection of **[FileDialogFilter](office.filedialogfilter.md)** objects that represent the types of files that can be selected in a file dialog box that is displayed by using the **FileDialog** object.
 
 ## Example
 
-Use the  **Filters** property of the **FileDialog** object to return a **FileDialogFilters** collection. The following code returns the **FileDialogFilters** collection for the **File Open** dialog box.
-
+Use the **[Filters](office.filedialog.filters.md)** property of the **FileDialog** object to return a **FileDialogFilters** collection. The following code returns the **FileDialogFilters** collection for the **File Open** dialog box.
 
 ```vb
 Application.FileDialog(msoFileDialogOpen).Filters
 ```
 
-Use the  **Add** method to add **FileDialogFilter** objects to the **FileDialogFilters** collection. The following example uses the **Clear** method to clear the collection and then adds filters to the collection. The **Clear** method completely empties the collection; however, if you do not add any filters to the collection after you clear it, the "All files (*.*)" filter is added automatically.
+Use the **Add** method to add **FileDialogFilter** objects to the **FileDialogFilters** collection. 
 
-
-
+The following example uses the **Clear** method to clear the collection and then adds filters to the collection. The **Clear** method completely empties the collection; however, if you do not add any filters to the collection after you clear it, the "All files (*.*)" filter is added automatically.
 
 ```vb
 Sub Main() 
@@ -82,10 +80,9 @@ Sub Main()
 End Sub
 ```
 
-When changing the  **FileDialogFilters** collection, remember that each application can only create an instance of a single **FileDialog** object. This means that the **FileDialogFilters** collection resets to its default filters whenever you call the **FileDialog** method with a new dialog box type. The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
+<br/>
 
-
-
+When changing the **FileDialogFilters** collection, remember that each application can only create an instance of a single **FileDialog** object. This means that the **FileDialogFilters** collection resets to its default filters whenever you call the **FileDialog** method with a new dialog box type. The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
 
 ```vb
 Sub Main() 
@@ -114,37 +111,13 @@ Sub Main()
 End Sub
 ```
 
-
 > [!NOTE] 
-> A run-time error will occur if the  **Filters** property is used in conjunction with the **Clear**, **Add**, or **Delete** methods when applied to a Save As **FileDiaog** object. For example, `Application.FileDialog(msoFileDialogSaveAs).Filters.Clear` will result in a run-time error.
+> A run-time error will occur if the **Filters** property is used in conjunction with the **Clear**, **Add**, or **Delete** methods when applied to a Save As **FileDialog** object. For example, **Application.FileDialog([msoFileDialogSaveAs](office.msofiledialogtype.md)).Filters.Clear** will result in a run-time error.
 
-
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Add](Office.FileDialogFilters.Add.md)|
-|[Clear](Office.FileDialogFilters.Clear.md)|
-|[Delete](Office.FileDialogFilters.Delete.md)|
-|[Item](Office.FileDialogFilters.Item.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.FileDialogFilters.Application.md)|
-|[Count](Office.FileDialogFilters.Count.md)|
-|[Creator](Office.FileDialogFilters.Creator.md)|
-|[Parent](Office.FileDialogFilters.Parent.md)|
 
 ## See also
 
+- [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Pages.FindByPageID Method (Publisher)
+title: Pages.FindByPageID method (Publisher)
 keywords: vbapb10.chm458759
 f1_keywords:
 - vbapb10.chm458759
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Pages.FindByPageID
 ms.assetid: 23ff5e69-33b1-e394-9d09-7199eae19fe9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.FindByPageID Method (Publisher)
+# Pages.FindByPageID method (Publisher)
 
 Returns a  **[Page](Publisher.Page.md)** object that represents the page with the specified page ID number. Each page is automatically assigned a unique ID number when it is created. Use the **[PageID](Publisher.Page.PageID.md)** property to return a page's ID number.
 
 
 ## Syntax
 
- _expression_. **FindByPageID**(**_PageID_**)
+_expression_.**FindByPageID**(**_PageID_**)
 
  _expression_ A variable that represents a  **Pages** object.
 
@@ -61,4 +62,4 @@ Sub FindPage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 3dd39c7c-7b90-9c19-490f-258d795787e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,4 +30,4 @@ Outlook Visual Basic for Applications code was designed to be a personal macro d
 
 If you are developing a solution that you intend to distribute to more than a few people, you should convert your Visual Basic for Applications code into an Outlook COM Add-in. However, developing a COM Add-in typically requires considerably more programming knowledge than creating a short macro, so if your Visual Basic for Applications project is relatively simple, and there are not too many people who need to use it, you may want to send them the code with instructions on how to set it up.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

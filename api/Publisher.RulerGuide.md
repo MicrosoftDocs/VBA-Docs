@@ -1,5 +1,5 @@
 ---
-title: RulerGuide Object (Publisher)
+title: RulerGuide object (Publisher)
 keywords: vbapb10.chm720895
 f1_keywords:
 - vbapb10.chm720895
@@ -8,10 +8,11 @@ api_name:
 - Publisher.RulerGuide
 ms.assetid: 6400c368-02e9-169c-c675-9416cd361384
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerGuide Object (Publisher)
+# RulerGuide object (Publisher)
 
 Represents a gridline used to align objects on a page. The  **RulerGuide** object is a member of the **[RulerGuides](Publisher.RulerGuides.md)** collection.
  
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.RulerGuide.Delete.md)|
 
@@ -55,10 +56,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.RulerGuide.Application.md)|
 |[Parent](Publisher.RulerGuide.Parent.md)|
 |[Position](Publisher.RulerGuide.Position.md)|
 |[Type](Publisher.RulerGuide.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

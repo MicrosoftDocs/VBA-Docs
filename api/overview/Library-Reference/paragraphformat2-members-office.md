@@ -2,7 +2,8 @@
 title: ParagraphFormat2 members (Office)
 ms.prod: office
 ms.assetid: c0580593-7efb-659f-02a2-67dce512ee09
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents the paragraph formatting of a text range.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Alignment](../../Office.ParagraphFormat2.Alignment.md)|Gets or sets a value specifying the alignment of the paragraph. Read/write.|
 |[Application](../../Office.ParagraphFormat2.Application.md)|Gets an object that represents the application that contains the object. Read-only.|
@@ -37,3 +38,4 @@ Represents the paragraph formatting of a text range.
 |[TextDirection](../../Office.ParagraphFormat2.TextDirection.md)|Gets or sets the text direction for the specified paragraph. Read/write.|
 |[WordWrap](../../Office.ParagraphFormat2.WordWrap.md)|Determines whether the application wraps the Latin text in the middle of a word in the specified paragraphs. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

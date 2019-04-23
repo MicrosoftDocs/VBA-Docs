@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.NullString
 ms.assetid: f9d678d1-5e9f-8d3b-1f9a-73e8679ae499
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.NullString property (Excel)
 
-Returns or sets the string displayed in cells that contain null values when the  **[DisplayNullString](Excel.PivotTable.DisplayNullString.md)** property is **True** . The default value is an empty string (""). Read/write **String** .
+Returns or sets the string displayed in cells that contain null values when the  **[DisplayNullString](Excel.PivotTable.DisplayNullString.md)** property is **True**. The default value is an empty string (""). Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `NullString`
+_expression_. `NullString`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

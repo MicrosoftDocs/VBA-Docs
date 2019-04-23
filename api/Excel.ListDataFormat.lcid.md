@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.lcid
 ms.assetid: 954812f2-d50e-8eff-429d-37da5cd8cff1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.lcid property (Excel)
 
-Returns a  **Long** value that represents the LCID for the **[ListColumn](Excel.ListColumn.md)** object that is specified in the schema definition. Read-only **Long** .
+Returns a  **Long** value that represents the LCID for the **[ListColumn](Excel.ListColumn.md)** object that is specified in the schema definition. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `lcid`
+_expression_. `lcid`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -55,3 +56,4 @@ End Sub
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 551eef58-3fae-4d6b-97bd-ff67c458f1c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.AfterResume Event (Visio)](http://msdn.microsoft.com/library/1d3e57de-fdbe-3029-0df2-dab0c681f3a5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

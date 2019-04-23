@@ -3,6 +3,7 @@ title: Prevent Duplicate Entries in a Range
 ms.prod: excel
 ms.assetid: 5d5701a1-a2d2-438b-b420-f5436529bc0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -62,6 +63,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
+Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

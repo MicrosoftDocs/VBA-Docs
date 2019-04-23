@@ -1,5 +1,5 @@
 ---
-title: Index.NumberOfColumns Property (Word)
+title: Index.NumberOfColumns property (Word)
 keywords: vbawd10.chm159186948
 f1_keywords:
 - vbawd10.chm159186948
@@ -8,17 +8,18 @@ api_name:
 - Word.Index.NumberOfColumns
 ms.assetid: e61eaa82-d7b5-84bc-dfe9-1e410d1ec6af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Index.NumberOfColumns Property (Word)
+# Index.NumberOfColumns property (Word)
 
-Sets or returns the number of columns for each page of an index. Read/write  **Long** .
+Sets or returns the number of columns for each page of an index. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `NumberOfColumns`
+_expression_. `NumberOfColumns`
 
  _expression_ An expression that an '[Index](Word.Index.md)' object.
 
@@ -54,3 +55,4 @@ Next myIndex
 
 [Index Object](Word.Index.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Access Visual Basic for Applications (VBA) reference
 ms.prod: access
 description: Conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Access.
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 # Access VBA reference
@@ -21,3 +22,5 @@ Use the table of contents in the navigation on the left to view the topics in th
 ## See also
 
 - [Access (Office client development)](https://docs.microsoft.com/office/client-developer/access/access-home)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

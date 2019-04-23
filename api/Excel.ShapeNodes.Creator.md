@@ -5,19 +5,20 @@ api_name:
 - Excel.ShapeNodes.Creator
 ms.assetid: 995d9596-a48b-4fd2-6682-45c453ed91ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShapeNodes.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Remarks
@@ -30,3 +31,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ShapeNodes Object](Excel.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

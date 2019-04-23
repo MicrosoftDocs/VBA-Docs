@@ -1,5 +1,5 @@
 ---
-title: Indexes.MarkEntry Method (Word)
+title: Indexes.MarkEntry method (Word)
 keywords: vbawd10.chm159121509
 f1_keywords:
 - vbawd10.chm159121509
@@ -8,19 +8,20 @@ api_name:
 - Word.Indexes.MarkEntry
 ms.assetid: e0c88e2b-6a5c-0ae9-3639-393a454c546b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Indexes.MarkEntry Method (Word)
+# Indexes.MarkEntry method (Word)
 
 Inserts an XE (Index Entry) field after the specified range. The method returns a  **Field** object representing the XE field.
 
 
 ## Syntax
 
- _expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` , `_Reading_` )
+_expression_. `MarkEntry`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` , `_Reading_` )
 
- _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
+_expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ End If
 
 [Indexes Collection Object](Word.indexes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

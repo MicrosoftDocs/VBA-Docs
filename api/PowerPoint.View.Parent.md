@@ -1,5 +1,5 @@
 ---
-title: View.Parent Property (PowerPoint)
+title: View.Parent property (PowerPoint)
 keywords: vbapp10.chm512002
 f1_keywords:
 - vbapp10.chm512002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.View.Parent
 ms.assetid: 04b729f8-3aa0-df73-f711-7878386e7b3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Parent Property (PowerPoint)
+# View.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [View Object](PowerPoint.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

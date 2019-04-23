@@ -1,5 +1,5 @@
 ---
-title: Document.FollowHyperlink Method (Visio)
+title: Document.FollowHyperlink method (Visio)
 keywords: vis_sdr.chm10516295
 f1_keywords:
 - vis_sdr.chm10516295
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.FollowHyperlink
 ms.assetid: 555e607d-7e4a-d3c8-9c78-1733b112200c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.FollowHyperlink Method (Visio)
+# Document.FollowHyperlink method (Visio)
 
 Navigates to an arbitrary hyperlink.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_ExtraInfo_` , `_Frame_` , `_NewWindow_` , `_res1_` , `_res2_` , `_res3_` )
+_expression_. `FollowHyperlink`( `_Address_` , `_SubAddress_` , `_ExtraInfo_` , `_Frame_` , `_NewWindow_` , `_res1_` , `_res2_` , `_res3_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -88,4 +89,4 @@ Public Sub FollowHyperlink_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

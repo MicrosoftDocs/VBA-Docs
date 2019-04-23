@@ -1,35 +1,36 @@
 ---
-title: PivotTable.DrillUp Method (Excel)
+title: PivotTable.DrillUp method (Excel)
 keywords: vbaxl10.chm235207
 f1_keywords:
 - vbaxl10.chm235207
 ms.prod: excel
 ms.assetid: 18933878-53c5-ef64-afe7-919b0a1564f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.DrillUp Method (Excel)
+# PivotTable.DrillUp method (Excel)
 
 Enables you to drill up into the data within an OLAP or PowerPivot based cube hierarchy.
 
 
 ## Syntax
 
- _expression_. `DrillUp`_(PivotItem,_ _PivotLine,_ _LevelUniqueName)_
+_expression_. `DrillUp`_(PivotItem,_ _PivotLine,_ _LevelUniqueName)_
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotItem_|Required|PIVOTITEM|The member from which the drill up is performed.|
-| _PivotLine_|Optional|VARIANT|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
-| _LevelUniqueName_|Optional|VARIANT|The target for a multi-level drill up. The default action if not specified is a one level drill up.|
+| _PivotLine_|Optional|**Variant**|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
+| _LevelUniqueName_|Optional|**Variant**|The target for a multi-level drill up. The default action if not specified is a one level drill up.|
 
 ## Return value
 
@@ -93,3 +94,4 @@ ActiveChart.PivotLayout.PivotTable.DrillUp ActiveChart.PivotLayout.PivotTable. _
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

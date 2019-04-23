@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (Visio)
+title: Hyperlink.SubAddress property (Visio)
 keywords: vis_sdr.chm15014460
 f1_keywords:
 - vis_sdr.chm15014460
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlink.SubAddress
 ms.assetid: e384fd34-7696-042d-12a3-a2aae949ce43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.SubAddress Property (Visio)
+# Hyperlink.SubAddress property (Visio)
 
 Gets or sets the subaddress in a shape's  **Hyperlink** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `SubAddress`
+_expression_. `SubAddress`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
@@ -85,4 +86,4 @@ Sub SubAddress_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

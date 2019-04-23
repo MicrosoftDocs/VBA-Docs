@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Title Property (Word)
+title: InlineShape.Title property (Word)
 keywords: vbawd10.chm162005150
 f1_keywords:
 - vbawd10.chm162005150
@@ -8,17 +8,18 @@ api_name:
 - Word.InlineShape.Title
 ms.assetid: 85a28df8-f579-79b9-60b9-30624a64dae7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape.Title Property (Word)
+# InlineShape.Title property (Word)
 
 Returns or sets a  **String** that contains a title for the specified inline shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `Title`
+_expression_.**Title**
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
@@ -46,3 +47,4 @@ ActiveDocument.InlineShapes(1).Title = "Desktop screenshot."
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

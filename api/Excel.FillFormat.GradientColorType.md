@@ -8,24 +8,25 @@ api_name:
 - Excel.FillFormat.GradientColorType
 ms.assetid: f8652224-753c-5491-a190-5f50d3736be1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FillFormat.GradientColorType property (Excel)
 
-Returns the gradient color type for the specified fill. Read-only  **[MsoGradientColorType](Office.MsoGradientColorType.md)** .
+Returns the gradient color type for the specified fill. Read-only  **[MsoGradientColorType](Office.MsoGradientColorType.md)**.
 
 
 ## Syntax
 
- _expression_. `GradientColorType`
+_expression_. `GradientColorType`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks
 
- **MsoGradientColorMixed** is a return value only which indicates a combination of the other states in the specified range. Use the **[OneColorGradient](Excel.FillFormat.OneColorGradient.md)** , **[PresetGradient](Excel.FillFormat.PresetGradient.md)** , or **[TwoColorGradient](Excel.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
+ **MsoGradientColorMixed** is a return value only which indicates a combination of the other states in the specified range. Use the **[OneColorGradient](Excel.FillFormat.OneColorGradient.md)**, **[PresetGradient](Excel.FillFormat.PresetGradient.md)**, or **[TwoColorGradient](Excel.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
 
 
 ## Example
@@ -51,3 +52,4 @@ End If
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

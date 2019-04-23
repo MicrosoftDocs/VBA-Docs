@@ -1,5 +1,5 @@
 ---
-title: CellRange.Parent Property (PowerPoint)
+title: CellRange.Parent property (PowerPoint)
 keywords: vbapp10.chm627002
 f1_keywords:
 - vbapp10.chm627002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CellRange.Parent
 ms.assetid: 9e19b9d0-eff7-f820-fee0-57b8b024eba2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CellRange.Parent Property (PowerPoint)
+# CellRange.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [CellRange](./PowerPoint.CellRange.md) object.
+_expression_ A variable that represents a [CellRange](./PowerPoint.CellRange.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [CellRange Object](PowerPoint.CellRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

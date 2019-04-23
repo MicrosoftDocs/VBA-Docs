@@ -1,5 +1,5 @@
 ---
-title: MenuSet.Menus Property (Visio)
+title: MenuSet.Menus property (Visio)
 keywords: vis_sdr.chm13313910
 f1_keywords:
 - vis_sdr.chm13313910
@@ -8,17 +8,18 @@ api_name:
 - Visio.MenuSet.Menus
 ms.assetid: 507d64e5-fcb4-74dc-ece6-9fad28b0379d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuSet.Menus Property (Visio)
+# MenuSet.Menus property (Visio)
 
 Returns the  **Menus** collection of a **MenuSet** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Menus`
+_expression_. `Menus`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
@@ -88,4 +89,4 @@ Public Sub Menus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.Distribute Method (Visio)
+title: Selection.Distribute method (Visio)
 keywords: vis_sdr.chm11151420
 f1_keywords:
 - vis_sdr.chm11151420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Distribute
 ms.assetid: 7750167b-b4ef-c1b6-68f4-1f40ab1fd33e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Distribute Method (Visio)
+# Selection.Distribute method (Visio)
 
 Distributes three or more selected shapes at regular intervals on the drawing page. The order of selection is irrelevant.
 
 
 ## Syntax
 
- _expression_. `Distribute`( `_Distribute_` , `_GlueToGuide_` )
+_expression_. `Distribute`( `_Distribute_` , `_GlueToGuide_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -30,7 +31,7 @@ Distributes three or more selected shapes at regular intervals on the drawing pa
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Distribute_|Required| **VisDistributeTypes**|Specifies how the shapes are distributed. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates guides and glues selected shapes to them. If **False** , does not. Default is **False** .|
+| _GlueToGuide_|Optional| **Boolean**|If  **True**, creates guides and glues selected shapes to them. If **False**, does not. Default is **False**.|
 
 ## Return value
 
@@ -43,7 +44,7 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDistHorzCenter**|2|Distributes shapes horizontally so that their bottom edges are uniformly spaced.|
 | **visDistHorzLeft**|1|Distributes shapes horizontally so that their left edges are uniformly spaced.|
@@ -88,4 +89,4 @@ Public Sub Distribute_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

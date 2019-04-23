@@ -1,21 +1,22 @@
 ---
-title: DrawingControl.KeyPress Event (Visio)
+title: DrawingControl.KeyPress event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyPress
 ms.assetid: 3561c566-8abd-518a-f78b-4b2db6f16697
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl.KeyPress Event (Visio)
+# DrawingControl.KeyPress event (Visio)
 
 Occurs when a keyboard key is pressed.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_** , **_ByVal CancelDefault As Boolean_**)
+Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_**, **_ByVal CancelDefault As Boolean_**)
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
@@ -27,18 +28,18 @@ Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_** , **_ByVal Ca
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required| **Long**|The ASCII value of the key that was pressed. See Remarks for possible values.|
-| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True** .|
+| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
 
 ## Remarks
 
 Possible values for  _KeyAscii_ are the ASCII codes. To see a list of these codes, search for "ASCII character codes" on MSDN.
 
-If you set  _CancelDefault_ to **True** , Visio does not process the message received when the mouse button is clicked.
+If you set  _CancelDefault_ to **True**, Visio does not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress**, either by setting _CancelDefault_ to **True**, or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 
- **Note**  Pressing an accelererator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.
+ **Note**  Pressing an accelerator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -47,9 +48,9 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 ## Example
 
-This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown** , **KeyPress** , and **KeyUp** events.
+This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **KeyboardListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it  **KeyboardListener**, and insert the following code in the module.
 
 
 
@@ -113,4 +114,4 @@ End Sub
 
 Save the document to initialize the class, and then press any key to fire a  **KeyPress** event. In the **Immediate** window, the handler prints the ASCII code of the key that was pressed to fire the event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

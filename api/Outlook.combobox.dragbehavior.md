@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 38571166-8173-8612-54bd-f638044c2afb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies whether the system enables the dr
 
 ## Syntax
 
- _expression_. **DragBehavior**
+_expression_.**DragBehavior**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -33,4 +34,4 @@ The drop-down portion of a  **[ComboBox](Outlook.combobox.md)** does not support
 
 You can combine the effects of the  **[EnterFieldBehavior](Outlook.combobox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of combo box styles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

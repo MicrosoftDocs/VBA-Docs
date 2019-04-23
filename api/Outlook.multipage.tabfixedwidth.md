@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 932c2b27-97b7-adda-4ac5-3da64716f370
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Single** that represents the width in points of the tabs on
 
 ## Syntax
 
- _expression_. **TabFixedWidth**
+_expression_.**TabFixedWidth**
 
- _expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ If the value is greater than 0, all tabs have an identical width as specified by
 
 The minimum size is 4 points.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

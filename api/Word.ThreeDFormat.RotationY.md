@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationY Property (Word)
+title: ThreeDFormat.RotationY property (Word)
 keywords: vbawd10.chm164626542
 f1_keywords:
 - vbawd10.chm164626542
@@ -8,17 +8,18 @@ api_name:
 - Word.ThreeDFormat.RotationY
 ms.assetid: 64ebb9d9-4338-3672-9149-e1e82ba8abdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationY Property (Word)
+# ThreeDFormat.RotationY property (Word)
 
-Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Read/write  **Single** .
+Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `RotationY`
+_expression_. `RotationY`
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
@@ -59,3 +60,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: MultiPage Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 28ee2528-49b9-43e3-ae64-6ff4805c1d70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Presents multiple screens of information as a single set.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.multipage.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [Enabled](Outlook.multipage.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
@@ -34,9 +35,8 @@ Presents multiple screens of information as a single set.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.multipage.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

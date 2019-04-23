@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Colors
 ms.assetid: 60fc038b-980b-c1bc-6d1c-69d9d31a11ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.Colors property (Excel)
 
-Returns or sets colors in the palette for the workbook. The palette has 56 entries, each represented by an RGB value. Read/write  **Variant** .
+Returns or sets colors in the palette for the workbook. The palette has 56 entries, each represented by an RGB value. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Colors`( `_Index_` )
+_expression_. `Colors` (_Index_)
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Returns or sets colors in the palette for the workbook. The palette has 56 entri
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|The color number (from 1 to 56). If this argument isn?t specified, this method returns an array that contains all 56 of the colors in the palette.|
+| _Index_|Optional| **Variant**|The color number (from 1 to 56). If this argument isn't specified, this method returns an array that contains all 56 of the colors in the palette.|
 
 ## Example
 
@@ -55,3 +56,4 @@ ActiveWorkbook.Colors(5) = RGB(255, 0, 0)
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,19 +1,20 @@
 ---
-title: Selection.SetQuickStyle Method (Visio)
+title: Selection.SetQuickStyle method (Visio)
 ms.prod: visio
 ms.assetid: 39b810b5-0738-daed-0103-8a2df07559c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SetQuickStyle Method (Visio)
+# Selection.SetQuickStyle method (Visio)
 
 Sets the quick style of the specified selection.
 
 
 ## Syntax
 
- _expression_. `SetQuickStyle`_(lineMatrix,_ _fillMatrix,_ _effectsMatrix,_ _fontMatrix,_ _lineColor,_ _fillColor,_ _shadowColor,_ _fontColor)_
+_expression_. `SetQuickStyle`_(lineMatrix,_ _fillMatrix,_ _effectsMatrix,_ _fontMatrix,_ _lineColor,_ _fillColor,_ _shadowColor,_ _fontColor)_
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -22,7 +23,7 @@ Sets the quick style of the specified selection.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _lineMatrix_|Required|VISQUICKSTYLEMATRIXINDICES|Specifies the shape style index that determines the line-formatting properties (for example, dash type or weight) to retrieve from the active theme and variant.|
@@ -49,3 +50,4 @@ Calling the  **SetQuickStyle** method corresponds to setting a quick style in th
 
 [Selection Object](Visio.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

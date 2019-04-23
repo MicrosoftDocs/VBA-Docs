@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cfc1ae3c-83ad-a33d-2d02-3550a3ee8a95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ This error occurs when you try to activate a linked object (set  **Action** = 7)
 
 This error also occurs when you activate an object (set  **Action** = 7), and the action specified by the **Verb** property isn't valid. Some applications that provide objects may support different verbs, depending on the state of the application. All the verbs supported by an application are listed in the **ObjectVerbs** property list. However, some verbs may not be valid for the application's current state.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

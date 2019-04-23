@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AverageIfs Method (Excel)
+title: WorksheetFunction.AverageIfs method (Excel)
 keywords: vbaxl10.chm137356
 f1_keywords:
 - vbaxl10.chm137356
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.AverageIfs
 ms.assetid: ec1071d7-c36d-4894-dee9-6b5423f13c0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.AverageIfs Method (Excel)
+# WorksheetFunction.AverageIfs method (Excel)
 
 Returns the average (arithmetic mean) of all cells that meet multiple criteria.
 
 
 ## Syntax
 
- _expression_. `AverageIfs`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` , `_Arg10_` , `_Arg11_` , `_Arg12_` , `_Arg13_` , `_Arg14_` , `_Arg15_` , `_Arg16_` , `_Arg17_` , `_Arg18_` , `_Arg19_` , `_Arg20_` , `_Arg21_` , `_Arg22_` , `_Arg23_` , `_Arg24_` , `_Arg25_` , `_Arg26_` , `_Arg27_` , `_Arg28_` , `_Arg29_` , `_Arg30_` )
+_expression_. `AverageIfs`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` , `_Arg10_` , `_Arg11_` , `_Arg12_` , `_Arg13_` , `_Arg14_` , `_Arg15_` , `_Arg16_` , `_Arg17_` , `_Arg18_` , `_Arg19_` , `_Arg20_` , `_Arg21_` , `_Arg22_` , `_Arg23_` , `_Arg24_` , `_Arg25_` , `_Arg26_` , `_Arg27_` , `_Arg28_` , `_Arg29_` , `_Arg30_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -80,3 +81,4 @@ For a symmetrical distribution of a group of numbers, these three measures of ce
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

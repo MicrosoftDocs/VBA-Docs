@@ -7,29 +7,26 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.HorizontalAnchor
 ms.assetid: 89bab994-84a3-b363-7169-a12418ef1703
-ms.date: 06/08/2017
+ms.date: 02/21/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.HorizontalAnchor property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the toggle button is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the toggle button is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
-_expression_. `HorizontalAnchor`
+_expression_.**HorizontalAnchor**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
 
-## See also
-
-
-[ToggleButton Object](Access.ToggleButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

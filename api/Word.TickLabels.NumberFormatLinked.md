@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormatLinked Property (Word)
+title: TickLabels.NumberFormatLinked property (Word)
 keywords: vbawd10.chm167051270
 f1_keywords:
 - vbawd10.chm167051270
@@ -8,17 +8,18 @@ api_name:
 - Word.TickLabels.NumberFormatLinked
 ms.assetid: c0daa894-b45e-69c1-540a-fa91599b105b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TickLabels.NumberFormatLinked Property (Word)
+# TickLabels.NumberFormatLinked property (Word)
 
- **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
+ **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `NumberFormatLinked`
+_expression_. `NumberFormatLinked`
 
  _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

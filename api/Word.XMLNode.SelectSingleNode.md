@@ -1,5 +1,5 @@
 ---
-title: XMLNode.SelectSingleNode Method (Word)
+title: XMLNode.SelectSingleNode method (Word)
 keywords: vbawd10.chm37748754
 f1_keywords:
 - vbawd10.chm37748754
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLNode.SelectSingleNode
 ms.assetid: c831dba1-90f7-0af7-9e44-8f62a54de0fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.SelectSingleNode Method (Word)
+# XMLNode.SelectSingleNode method (Word)
 
 Returns an  **XMLNode** object that represents the first child element that matches the XPath parameter within the specified XML element. .
 
 
 ## Syntax
 
- _expression_. `SelectSingleNode`( `_XPath_` , `_PrefixMapping_` , `_FastSearchSkippingTextNodes_` )
+_expression_. `SelectSingleNode`( `_XPath_` , `_PrefixMapping_` , `_FastSearchSkippingTextNodes_` )
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
@@ -31,7 +32,7 @@ Returns an  **XMLNode** object that represents the first child element that matc
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required| **String**|Specifies a valid XPath string. For more information on XPath, see the XPath reference documentation on the Microsoft Developer Network (MSDN) Web site.|
 | _PrefixMapping_|Optional| **String**|Provides the prefix in the schema against which to perform the search. Use the PrefixMapping parameter if your XPath parameter uses names to search for elements.|
-| _FastSearchSkippingTextNodes_|Optional| **Boolean**| **True** skips all text nodes while searching for the specified node. **False** includes text nodes in the search. Default value is **False** .|
+| _FastSearchSkippingTextNodes_|Optional| **Boolean**| **True** skips all text nodes while searching for the specified node. **False** includes text nodes in the search. Default value is **False**.|
 
 ## Return value
 
@@ -43,3 +44,4 @@ XMLNode
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

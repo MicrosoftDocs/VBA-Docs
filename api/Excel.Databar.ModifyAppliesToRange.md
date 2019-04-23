@@ -1,5 +1,5 @@
 ---
-title: Databar.ModifyAppliesToRange Method (Excel)
+title: Databar.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm810087
 f1_keywords:
 - vbaxl10.chm810087
@@ -8,19 +8,20 @@ api_name:
 - Excel.Databar.ModifyAppliesToRange
 ms.assetid: d1da8a48-3b62-c7ff-007b-f1629fa44ab7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Databar.ModifyAppliesToRange Method (Excel)
+# Databar.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 
 
 ## Syntax
 
- _expression_. `ModifyAppliesToRange`( `_Range_` )
+_expression_.**ModifyAppliesToRange** (_Range_)
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ You can also use a local defined name in any part of the range, but the name mus
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

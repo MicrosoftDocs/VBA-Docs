@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.DataRange
 ms.assetid: 6946f4eb-60ef-0d7a-394a-cd7904967a02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object as shown in the following 
 
 ## Syntax
 
- _expression_. `DataRange`
+_expression_. `DataRange`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ pvtTable.PivotFields("REGION").DataRange.Select
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

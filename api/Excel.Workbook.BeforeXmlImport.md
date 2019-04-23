@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeXmlImport Event (Excel)
+title: Workbook.BeforeXmlImport event (Excel)
 keywords: vbaxl10.chm503097
 f1_keywords:
 - vbaxl10.chm503097
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.BeforeXmlImport
 ms.assetid: a0a589c6-15f9-5599-c0b6-c6f881816ad6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.BeforeXmlImport Event (Excel)
+# Workbook.BeforeXmlImport event (Excel)
 
 Occurs before an existing XML data connection is refreshed or before new XML data is imported into a Microsoft Excel workbook.
 
 
 ## Syntax
 
- _expression_. `BeforeXmlImport`( `_Map_` , `_Url_` , `_IsRefresh_` , `_Cancel_` )
+_expression_. `BeforeXmlImport`( `_Map_` , `_Url_` , `_IsRefresh_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -38,4 +39,4 @@ Occurs before an existing XML data connection is refreshed or before new XML dat
 
 Nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

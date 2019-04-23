@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.CanMerge Property (Word)
+title: CoAuthoring.CanMerge property (Word)
 keywords: vbawd10.chm254869513
 f1_keywords:
 - vbawd10.chm254869513
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthoring.CanMerge
 ms.assetid: c74efdfe-9f8b-e524-14fb-7866ae0e34ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthoring.CanMerge Property (Word)
+# CoAuthoring.CanMerge property (Word)
 
 Returns a  **Boolean** that specifies whether the document can be auto-merged. Read-only.
 
 
 ## Syntax
 
- _expression_. `CanMerge`
+_expression_. `CanMerge`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 
@@ -73,3 +74,4 @@ End If
 
 [CoAuthoring Object](Word.CoAuthoring.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

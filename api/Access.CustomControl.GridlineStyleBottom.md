@@ -7,41 +7,39 @@ ms.prod: access
 api_name:
 - Access.CustomControl.GridlineStyleBottom
 ms.assetid: 6cacbac2-3960-3f3e-45a1-d5b0d8fd3ac0
-ms.date: 06/08/2017
+ms.date: 02/14/2019
+localization_priority: Normal
 ---
 
 
 # CustomControl.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified list box. Read/write  **Byte**.
-
+Gets or sets the bottom gridline style of the specified control. Read/write **Byte**.
 
 ## Syntax
 
-_expression_. `GridlineStyleBottom`
+_expression_.**GridlineStyleBottom**
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks
 
-The  **BottomGridlineStyle** property uses the following settings.
+The **GridlineStyleBottom** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[CustomControl Object](Access.CustomControl.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
 

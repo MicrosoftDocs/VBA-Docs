@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Group Method (Excel)
+title: SparklineGroups.Group method (Excel)
 keywords: vbaxl10.chm869080
 f1_keywords:
 - vbaxl10.chm869080
@@ -8,19 +8,20 @@ api_name:
 - Excel.SparklineGroups.Group
 ms.assetid: a5e01669-1922-4b26-158d-3c3aa70a101a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SparklineGroups.Group Method (Excel)
+# SparklineGroups.Group method (Excel)
 
 Groups the selected sparklines.
 
 
 ## Syntax
 
- _expression_. `Group`( `_Location_` )
+_expression_. `Group`( `_Location_` )
 
- _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
+_expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ## Parameters
@@ -52,3 +53,4 @@ Selection.SparklineGroups.Group Location:=Range("A1")
 
 [SparklineGroups Object](Excel.SparklineGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

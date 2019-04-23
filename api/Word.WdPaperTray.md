@@ -1,14 +1,15 @@
 ---
-title: WdPaperTray Enumeration (Word)
+title: WdPaperTray enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPaperTray
 ms.assetid: 568e9ad6-08e4-979a-8468-eb6ffec0be0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPaperTray Enumeration (Word)
+# WdPaperTray enumeration (Word)
 
 Specifies a printer paper tray.
 
@@ -32,3 +33,4 @@ Specifies a printer paper tray.
 | **wdPrinterTractorFeed**|8|Tractor feed.|
 | **wdPrinterUpperBin**|1|Upper bin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

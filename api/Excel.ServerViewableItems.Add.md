@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Add Method (Excel)
+title: ServerViewableItems.Add method (Excel)
 keywords: vbaxl10.chm833074
 f1_keywords:
 - vbaxl10.chm833074
@@ -8,19 +8,20 @@ api_name:
 - Excel.ServerViewableItems.Add
 ms.assetid: e5771bed-efd0-3cdc-ce80-13b71f596d01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ServerViewableItems.Add Method (Excel)
+# ServerViewableItems.Add method (Excel)
 
 Adds a reference to the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Obj_` )
+_expression_.**Add**( `_Obj_` )
 
- _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
+_expression_ A variable that represents a [ServerViewableItems](Excel.ServerViewableItems.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ If you try to add a mix of both sheets and named items to the  **[ServerViewable
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

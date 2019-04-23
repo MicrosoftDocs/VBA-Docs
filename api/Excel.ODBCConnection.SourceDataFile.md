@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCConnection.SourceDataFile
 ms.assetid: f32c0eeb-e8f5-1a9f-13fd-ead4ad96381f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** indicating the source data file for an ODBC connec
 
 ## Syntax
 
- _expression_. `SourceDataFile`
+_expression_. `SourceDataFile`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ For file-based data sources (for example, Access) the  **SourceDataFile** proper
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

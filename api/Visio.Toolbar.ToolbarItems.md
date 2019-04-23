@@ -1,5 +1,5 @@
 ---
-title: Toolbar.ToolbarItems Property (Visio)
+title: Toolbar.ToolbarItems property (Visio)
 keywords: vis_sdr.chm13714550
 f1_keywords:
 - vis_sdr.chm13714550
@@ -8,17 +8,18 @@ api_name:
 - Visio.Toolbar.ToolbarItems
 ms.assetid: 1be6c5b1-a97e-9f59-efd5-d19e37af0076
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Toolbar.ToolbarItems Property (Visio)
+# Toolbar.ToolbarItems property (Visio)
 
 Returns the  **ToolbarItems** collection of a **Toolbar** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ToolbarItems`
+_expression_. `ToolbarItems`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
@@ -75,4 +76,4 @@ Public Sub ToolbarItems_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

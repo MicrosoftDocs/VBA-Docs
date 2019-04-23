@@ -5,6 +5,7 @@ api_name:
 - Visio.Stylesheet
 ms.assetid: 9b837460-83a6-71f8-b63f-3f251dedc87c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that 
 
 ## Syntax
 
- _expression_. **Stylesheet**
+_expression_.**Stylesheet**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object.
 
 
 ## Return value
@@ -62,4 +63,4 @@ Public Sub Stylesheet_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.OddAndEvenPagesHeaderFooter
 ms.assetid: d7d5d5b2-45b5-8fbc-3223-1ad74caa180a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.OddAndEvenPagesHeaderFooter property (Excel)
 
- **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean** .
+ **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `OddAndEvenPagesHeaderFooter`
+_expression_. `OddAndEvenPagesHeaderFooter`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

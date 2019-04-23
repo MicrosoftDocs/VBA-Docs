@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCell Method (Project)
+title: Application.SelectCell method (Project)
 keywords: vbapj.chm2070
 f1_keywords:
 - vbapj.chm2070
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectCell
 ms.assetid: 7177d0bb-6e0e-8885-4f29-51faa34cea8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectCell Method (Project)
+# Application.SelectCell method (Project)
 
 Selects a cell.
 
 
 ## Syntax
 
- _expression_. `SelectCell`( ` _Row_`, ` _Column_`, ` _RowRelative_` )
+_expression_. `SelectCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -56,4 +57,4 @@ Sub Select_Cell()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

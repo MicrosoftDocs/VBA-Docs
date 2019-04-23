@@ -1,14 +1,15 @@
 ---
-title: xlErrorBarType enumeration (Excel)
+title: XlErrorBarType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorBarType
 ms.assetid: 2ba8cd56-da8c-6227-8a31-3b9bae748d53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlErrorBarType enumeration (Excel)
+# XlErrorBarType enumeration (Excel)
 
 Specifies the range marked by error bars.
 
@@ -22,3 +23,4 @@ Specifies the range marked by error bars.
 | **xlErrorBarTypeStDev**|-4155|Shows range for specified number of standard deviations.|
 | **xlErrorBarTypeStError**|4|Shows standard error range.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

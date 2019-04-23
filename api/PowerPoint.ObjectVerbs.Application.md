@@ -1,5 +1,5 @@
 ---
-title: ObjectVerbs.Application Property (PowerPoint)
+title: ObjectVerbs.Application property (PowerPoint)
 keywords: vbapp10.chm564001
 f1_keywords:
 - vbapp10.chm564001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ObjectVerbs.Application
 ms.assetid: 64b99393-c7cf-28c2-d3bd-86a073db015a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ObjectVerbs.Application Property (PowerPoint)
+# ObjectVerbs.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [ObjectVerbs Object](PowerPoint.ObjectVerbs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

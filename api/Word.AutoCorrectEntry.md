@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry Object (Word)
+title: AutoCorrectEntry object (Word)
 keywords: vbawd10.chm2375
 f1_keywords:
 - vbawd10.chm2375
@@ -8,10 +8,11 @@ api_name:
 - Word.AutoCorrectEntry
 ms.assetid: 33173958-42eb-00ef-7f37-41f95ed47f87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AutoCorrectEntry Object (Word)
+# AutoCorrectEntry object (Word)
 
 Represents a single AutoCorrect entry. The  **AutoCorrectEntry** object is a member of the **AutoCorrectEntries** collection. The **[AutoCorrectEntries](Word.autocorrectentries.md)** collection includes the entries in the **AutoCorrect** dialog box.
 
@@ -58,5 +59,6 @@ AutoCorrect.Entries.AddRichText Name:="PMO", Range:=Selection.Range
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

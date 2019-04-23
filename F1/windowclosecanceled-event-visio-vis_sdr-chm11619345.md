@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 674192c4-894a-467e-9ab1-d6e53bc555dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Window.WindowCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/bef37fff-5c47-9a61-4b84-ee87912d6478%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdParagraphAlignment Enumeration (Word)
+title: WdParagraphAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdParagraphAlignment
 ms.assetid: a722ce45-ced8-fe7c-4e37-4a917f1630e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdParagraphAlignment Enumeration (Word)
+# WdParagraphAlignment enumeration (Word)
 
 Specifies the alignment of a paragraph.
 
@@ -26,3 +27,4 @@ Specifies the alignment of a paragraph.
 | **wdAlignParagraphRight**|2|Right-aligned.|
 | **wdAlignParagraphThaiJustify**|9|Justified according to Thai formatting layout.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

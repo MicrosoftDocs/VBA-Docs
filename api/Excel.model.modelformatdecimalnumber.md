@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 402b7073-0a6b-7856-5316-fc82ec980fc6
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,12 +17,11 @@ Returns a [ModelFormatDecimalNumber](Excel.modelformatdecimalnumber.md) object t
 
 ## Syntax
 
- _expression_. `ModelFormatDecimalNumber`
+_expression_. `ModelFormatDecimalNumber`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

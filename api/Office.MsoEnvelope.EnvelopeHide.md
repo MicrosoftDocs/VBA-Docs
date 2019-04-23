@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope.EnvelopeHide Event (Office)
+title: MsoEnvelope.EnvelopeHide event (Office)
 keywords: vbaof11.chm246002
 f1_keywords:
 - vbaof11.chm246002
@@ -7,30 +7,31 @@ ms.prod: office
 api_name:
 - Office.MsoEnvelope.EnvelopeHide
 ms.assetid: 066b0ed0-bd5d-f37e-6c04-66e0a59733d4
-ms.date: 06/08/2017
+ms.date: 01/22/2019
+localization_priority: Normal
 ---
 
 
-# MsoEnvelope.EnvelopeHide Event (Office)
+# MsoEnvelope.EnvelopeHide event (Office)
 
-Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is hidden.
+Occurs when the user interface (UI) that corresponds to the **MsoEnvelope** object is hidden.
 
 
 ## Syntax
 
- _expression_. `EnvelopeHide`
+_expression_.**EnvelopeHide**
 
- _expression_ An expression that returns a [MsoEnvelope](./Office.MsoEnvelope.md) object.
+_expression_ An expression that returns an **[MsoEnvelope](Office.MsoEnvelope.md)** object.
 
 
 ## Remarks
 
-The  **MsoEnvelope** object provides access to functionality that lets you send documents as e-mail messages directly from Microsoft Office applications.
+The **MsoEnvelope** object provides access to functionality that lets you send documents as email messages directly from Microsoft Office applications.
 
 
 ## Example
 
-The following example sets up event-handling routines for the  **MsoEnvelope** object.
+The following example sets up event-handling routines for the **MsoEnvelope** object.
 
 
 ```vb
@@ -53,10 +54,11 @@ End Sub
 
 ## See also
 
-
-[MsoEnvelope Object](Office.MsoEnvelope.md)
-
+- [MsoEnvelope object members](overview/library-reference/msoenvelope-members-office.md)
 
 
-[MsoEnvelope Object Members](./overview/Library-Reference/msoenvelope-members-office.md)
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
 

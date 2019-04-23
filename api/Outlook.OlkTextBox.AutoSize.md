@@ -1,5 +1,5 @@
 ---
-title: OlkTextBox.AutoSize Property (Outlook)
+title: OlkTextBox.AutoSize property (Outlook)
 keywords: vbaol11.chm1000035
 f1_keywords:
 - vbaol11.chm1000035
@@ -8,24 +8,25 @@ api_name:
 - Outlook.OlkTextBox.AutoSize
 ms.assetid: 2445da74-24ff-8f22-a55a-b6f39a79129b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTextBox.AutoSize Property (Outlook)
+# OlkTextBox.AutoSize property (Outlook)
 
 Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoSize`
+_expression_. `AutoSize`
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 
 
 ## Remarks
 
- The default value for this property is **False** .
+ The default value for this property is **False**.
 
 For a single-line text box, setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
 
@@ -37,3 +38,4 @@ For a multiline text box that contains no text, setting  **AutoSize** to **True*
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

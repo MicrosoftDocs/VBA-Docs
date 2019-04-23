@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectedShape Property (PowerPoint)
+title: ConnectorFormat.EndConnectedShape property (PowerPoint)
 keywords: vbapp10.chm555010
 f1_keywords:
 - vbapp10.chm555010
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ConnectorFormat.EndConnectedShape
 ms.assetid: 1d18fd9a-fc43-b50e-5c1a-dc6b5332b37e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnectedShape Property (PowerPoint)
+# ConnectorFormat.EndConnectedShape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the shape that the end of the specified connector is attached to. Read-only.
 
 
 ## Syntax
 
- _expression_. `EndConnectedShape`
+_expression_. `EndConnectedShape`
 
- _expression_ A variable that represents an [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents an [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value
@@ -65,3 +66,4 @@ End With
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

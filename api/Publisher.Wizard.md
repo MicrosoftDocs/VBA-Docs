@@ -1,5 +1,5 @@
 ---
-title: Wizard Object (Publisher)
+title: Wizard object (Publisher)
 keywords: vbapb10.chm1507327
 f1_keywords:
 - vbapb10.chm1507327
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Wizard
 ms.assetid: c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Wizard Object (Publisher)
+# Wizard object (Publisher)
 
 Represents the publication design associated with a publication or the wizard associated with a Design Gallery object.
  
@@ -88,7 +89,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetId](Publisher.Wizard.SetId.md)|
 
@@ -96,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Wizard.Application.md)|
 |[ID](Publisher.Wizard.ID.md)|
@@ -104,3 +105,4 @@ End Sub
 |[Parent](Publisher.Wizard.Parent.md)|
 |[Properties](Publisher.Wizard.Properties.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

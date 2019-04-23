@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Object (Word)
+title: AxisTitle object (Word)
 keywords: vbawd10.chm1499
 f1_keywords:
 - vbawd10.chm1499
@@ -8,10 +8,11 @@ api_name:
 - Word.AxisTitle
 ms.assetid: ec746a05-40df-95cc-c017-40ef150504cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle Object (Word)
+# AxisTitle object (Word)
 
 Represents a chart axis title.
 
@@ -20,7 +21,7 @@ Represents a chart axis title.
 
 Use the  **[AxisTitle](Word.Axis.AxisTitle.md)** property to return an **AxisTitle** object.
 
-The  **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Axis.HasTitle.md)** property for the axis is **True** .
+The  **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Axis.HasTitle.md)** property for the axis is **True**.
 
 
 ## Example
@@ -49,6 +50,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

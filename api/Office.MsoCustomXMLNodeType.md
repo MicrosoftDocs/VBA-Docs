@@ -1,18 +1,19 @@
 ---
-title: MsoCustomXMLNodeType Enumeration (Office)
+title: MsoCustomXMLNodeType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCustomXMLNodeType
 ms.assetid: 5c339945-0518-049c-3d66-126454803712
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoCustomXMLNodeType Enumeration (Office)
+# MsoCustomXMLNodeType enumeration (Office)
 
 Specifies the node type.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -24,3 +25,4 @@ Specifies the node type.
 |**msoCustomXMLNodeProcessingInstruction**|7|The node is a processing instruction.|
 |**msoCustomXMLNodeText**|3|The node is a text node.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

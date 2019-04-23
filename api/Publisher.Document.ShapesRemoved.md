@@ -1,5 +1,5 @@
 ---
-title: Document.ShapesRemoved Event (Publisher)
+title: Document.ShapesRemoved event (Publisher)
 keywords: vbapb10.chm285212677
 f1_keywords:
 - vbapb10.chm285212677
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ShapesRemoved
 ms.assetid: e2a67359-5673-2c72-e1fc-e3e3a3b564f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ShapesRemoved Event (Publisher)
+# Document.ShapesRemoved event (Publisher)
 
 Occurs when a shape is deleted from a publication.
 
 
 ## Syntax
 
- _expression_. **ShapesRemoved**
+_expression_.**ShapesRemoved**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -34,4 +35,4 @@ Private Sub Document_ShapesRemoved()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

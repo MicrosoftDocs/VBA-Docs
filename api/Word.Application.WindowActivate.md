@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (Word)
+title: Application.WindowActivate event (Word)
 keywords: vbawd10.chm400009
 f1_keywords:
 - vbawd10.chm400009
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.WindowActivate
 ms.assetid: f1340e1e-6aec-edaa-78c2-47e3e1d5299f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (Word)
+# Application.WindowActivate event (Word)
 
 Occurs when any document window is activated.
 
 
 ## Syntax
 
- _expression_. `Private Sub object_WindowActivate`( `_ByVal Doc As Document_` , `_ByVal Wn As Window_` )
+_expression_. `Private Sub object_WindowActivate`( `_ByVal Doc As Document_` , `_ByVal Wn As Window_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
@@ -53,3 +54,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.RelativeVerticalPosition Property (Word)
+title: Shape.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm161481005
 f1_keywords:
 - vbawd10.chm161481005
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.RelativeVerticalPosition
 ms.assetid: 7e77dcab-5d1a-f955-1c80-2d130566167f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.RelativeVerticalPosition Property (Word)
+# Shape.RelativeVerticalPosition property (Word)
 
-Specifies the relative vertical position of a shape. Read/write  **WdRelativeVerticalPosition** .
+Specifies the relative vertical position of a shape. Read/write  **WdRelativeVerticalPosition**.
 
 
 ## Syntax
 
- _expression_. `RelativeVerticalPosition`
+_expression_. `RelativeVerticalPosition`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

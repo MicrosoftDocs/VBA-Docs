@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.Panes Property (PowerPoint)
+title: DocumentWindow.Panes property (PowerPoint)
 keywords: vbapp10.chm511023
 f1_keywords:
 - vbapp10.chm511023
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.Panes
 ms.assetid: 1f26709d-8414-ee89-29d8-588c6787611a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.Panes Property (PowerPoint)
+# DocumentWindow.Panes property (PowerPoint)
 
 Returns a  **[Panes](PowerPoint.Panes.md)** collection that represents the panes in the document window. Read-only.
 
 
 ## Syntax
 
- _expression_. `Panes`
+_expression_. `Panes`
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Return value
@@ -47,4 +48,4 @@ End If
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.FitCurve Method (Visio)
+title: Selection.FitCurve method (Visio)
 keywords: vis_sdr.chm11116275
 f1_keywords:
 - vis_sdr.chm11116275
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.FitCurve
 ms.assetid: d0f3c799-c15d-cdc8-c0b0-34aeeecec495
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.FitCurve Method (Visio)
+# Selection.FitCurve method (Visio)
 
 Reduces the number of geometry segments in a shape or shapes by replacing them with similar spline, arc, and line segments that approximate the paths of the initial segments. Typically, this reduces the number of segments in the shape.
 
 
 ## Syntax
 
- _expression_. `FitCurve`( `_Tolerance_` , `_Flags_` )
+_expression_. `FitCurve`( `_Tolerance_` , `_Flags_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -47,9 +48,10 @@ The  _Flags_ argument is a bitmask that specifies options for optimizing the pat
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSplinePeriodic**|&H1|Produce periodic splines if appropriate.|
 | **visSplineDoCircles**|&H2|Recognize circular segments in the shape(s) and generate circular arcs instead of spline rows for those segments.|
 | **visSplineAbrupt**|&H4|Break the resulting splines whenever an abrupt change of direction or curvature in a path is detected.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

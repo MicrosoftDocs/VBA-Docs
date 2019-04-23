@@ -8,19 +8,20 @@ api_name:
 - Excel.Slicers.Creator
 ms.assetid: c02ffedb-014b-1fd2-544c-5cd6dc83912a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Slicers.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[Slicers](Excel.Slicers.md)' collection.
+_expression_ A variable that represents a '[Slicers](Excel.Slicers.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Slicers Object](Excel.Slicers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

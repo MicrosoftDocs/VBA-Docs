@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeEdit Event (PowerPoint)
+title: Application.ProtectedViewWindowBeforeEdit event (PowerPoint)
 keywords: vbapp10.chm621027
 f1_keywords:
 - vbapp10.chm621027
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: 8cfd38bf-8336-0106-a170-1319bcea0eb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeEdit Event (PowerPoint)
+# Application.ProtectedViewWindowBeforeEdit event (PowerPoint)
 
 Occurs immediately before editing is enabled on the document in the specified protected view window.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowBeforeEdit`( `_ProtViewWindow_`, `_Cancel_` )
+_expression_. `ProtectedViewWindowBeforeEdit`( `_ProtViewWindow_`, `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ Nothing
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

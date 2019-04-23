@@ -8,6 +8,7 @@ api_name:
 - Excel.SparklineGroups.Count
 ms.assetid: 4b8380d2-2d44-d404-61f6-0b025a299711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the count of sparkline groups in the associated  **[Range](Excel.Range(o
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
+_expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Long
 
 [SparklineGroups Object](Excel.SparklineGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

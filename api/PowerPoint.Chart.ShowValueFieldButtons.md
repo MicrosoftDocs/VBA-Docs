@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowValueFieldButtons Property (PowerPoint)
+title: Chart.ShowValueFieldButtons property (PowerPoint)
 keywords: vbapp10.chm684052
 f1_keywords:
 - vbapp10.chm684052
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.ShowValueFieldButtons
 ms.assetid: c56b12ac-71ef-a6b5-c66f-3cbe1c62a4c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ShowValueFieldButtons Property (PowerPoint)
+# Chart.ShowValueFieldButtons property (PowerPoint)
 
 Returns or sets a value that indicates whether to display the value field buttons on a PivotChart. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowValueFieldButtons`
+_expression_.**ShowValueFieldButtons**
 
- _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ This member is part of the shared chart object model infrastructure between Word
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

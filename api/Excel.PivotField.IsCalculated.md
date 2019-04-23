@@ -8,24 +8,25 @@ api_name:
 - Excel.PivotField.IsCalculated
 ms.assetid: 9f2f9856-c61f-d5b8-27bf-6511cac1e898
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.IsCalculated property (Excel)
 
- **True** if the PivotTable field is a calculated field or item. Read-only **Boolean** .
+ **True** if the PivotTable field is a calculated field or item. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsCalculated`
+_expression_. `IsCalculated`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-For OLAP data sources, this property always returns  **False** .
+For OLAP data sources, this property always returns  **False**.
 
 
 ## Example
@@ -46,3 +47,4 @@ Next
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Type Property (Word)
+title: CoAuthLock.Type property (Word)
 keywords: vbawd10.chm260046849
 f1_keywords:
 - vbawd10.chm260046849
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthLock.Type
 ms.assetid: a88c38de-bea1-1766-cb33-c86eb30ef98e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthLock.Type Property (Word)
+# CoAuthLock.Type property (Word)
 
 Returns a [WdLockType](Word.WdLockType.md) constant that specifies the lock type. Read-only.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
@@ -44,3 +45,4 @@ Next myLock
 
 [CoAuthLock Object](Word.CoAuthLock.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

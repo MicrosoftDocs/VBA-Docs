@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.IconPath Property (Word)
+title: OLEFormat.IconPath property (Word)
 keywords: vbawd10.chm154337288
 f1_keywords:
 - vbawd10.chm154337288
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.IconPath
 ms.assetid: 787bfe10-943c-e470-23e3-10abec89e606
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.IconPath Property (Word)
+# OLEFormat.IconPath property (Word)
 
-Returns the path of the file in which the icon for an OLE object is stored. Read-only  **String** .
+Returns the path of the file in which the icon for an OLE object is stored. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `IconPath`
+_expression_. `IconPath`
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -45,3 +46,4 @@ Next shapeLoop
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

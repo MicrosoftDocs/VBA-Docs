@@ -1,24 +1,25 @@
 ---
-title: VisUIObjSets Enumeration (Visio)
+title: VisUIObjSets enumeration (Visio)
 keywords: vis_sdr.chm70170
 f1_keywords:
 - vis_sdr.chm70170
 ms.prod: visio
 ms.assetid: b5638672-73ba-aeb2-6660-bb44107f7ac8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisUIObjSets Enumeration (Visio)
+# VisUIObjSets enumeration (Visio)
 
-UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties and the **AddAtID** method of the **AccelTable** , **MenuSet** , and **ToolbarSet** collections. Valid identifiers for particular collections are indicated.
+UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties and the **AddAtID** method of the **AccelTable**, **MenuSet**, and **ToolbarSet** collections. Valid identifiers for particular collections are indicated.
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
 
 
-|**Constant**|**Value**|**Description**|**AccelTable**|**MenuSet**|**ToolbarSet**|
+|Constant|Value|Description|**AccelTable**|**MenuSet**|**ToolbarSet**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **visUIObjSetActiveXDoc**|18|Visio is running as an ActiveX document.|X|||
 | **visUIObjSetCntx_AddComments**|1000|Built-in commands available in the  **Customize** dialog box||X||
@@ -80,3 +81,4 @@ UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties 
 | **visUIObjSetShapeSheet**|4|ShapeSheet window is active.|X|X|X|
 | **visUIObjSetStencil**|3|Stencil window is active.|X|X|X|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

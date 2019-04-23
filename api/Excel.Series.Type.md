@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Type
 ms.assetid: 18a300d5-ed08-af06-37ca-812b35d876ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a Long value that represents the series type.
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ Returns or sets a Long value that represents the series type.
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

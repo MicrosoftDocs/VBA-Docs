@@ -1,17 +1,18 @@
 ---
-title: Shapes.AddTable Method (Project)
+title: Shapes.AddTable method (Project)
 ms.prod: project-server
 ms.assetid: d4f9942b-ebd5-20e6-c8d4-f7107d1e1eab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddTable Method (Project)
+# Shapes.AddTable method (Project)
 Adds a table to the report, and returns a  **Shape** object that represents the table.
 
 ## Syntax
 
- _expression_. `AddTable` _(NumRows,_ _NumColumns,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_. `AddTable` _(NumRows,_ _NumColumns,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -132,3 +133,5 @@ Run the modified  **TestReportTable** macro on a project that has four tasks wit
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Application.Table Method](Project.application.table.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Fields.AddHorizontalInVertical Method (Publisher)
+title: Fields.AddHorizontalInVertical method (Publisher)
 keywords: vbapb10.chm6029319
 f1_keywords:
 - vbapb10.chm6029319
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Fields.AddHorizontalInVertical
 ms.assetid: 4b451a24-0d79-70d4-4910-2725f1ed0297
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields.AddHorizontalInVertical Method (Publisher)
+# Fields.AddHorizontalInVertical method (Publisher)
 
 Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a  **Field** object.
 
 
 ## Syntax
 
- _expression_. **AddHorizontalInVertical**(**_Range_**,  **_Text_**)
+_expression_.**AddHorizontalInVertical**(**_Range_**,  **_Text_**)
 
  _expression_ A variable that represents a  **Fields** object.
 
@@ -54,4 +55,4 @@ With ActiveDocument.Pages(1).Shapes(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

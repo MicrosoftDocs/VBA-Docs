@@ -1,17 +1,18 @@
 ---
-title: Shapes.Background Property (Project)
+title: Shapes.Background property (Project)
 ms.prod: project-server
 ms.assetid: 9199c72e-d692-6a9c-2ff2-06fe9e445bef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Background Property (Project)
+# Shapes.Background property (Project)
 The  **Shapes.Background** property is not implemented for Office Art in the Office applications.
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a 'Shapes' object.
 
@@ -30,3 +31,5 @@ If you try to use the  **Background** property, Project shows a run-time error 4
 
 
 [Shapes Object](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

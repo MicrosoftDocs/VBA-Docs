@@ -8,19 +8,20 @@ api_name:
 - Excel.Name.RefersTo
 ms.assetid: 8093e14c-0461-5e49-ef71-16c683044a63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Name.RefersTo property (Excel)
 
-Returns or sets the formula that the name is defined to refer to, in the language of the macro and in A1-style notation, beginning with an equal sign. Read/write  **String** .
+Returns or sets the formula that the name is defined to refer to, in the language of the macro and in A1-style notation, beginning with an equal sign. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `RefersTo`
+_expression_. `RefersTo`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Example
@@ -45,3 +46,4 @@ newSheet.Columns("A:B").AutoFit
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

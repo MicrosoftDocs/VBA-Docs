@@ -8,19 +8,20 @@ api_name:
 - Excel.Floor.Creator
 ms.assetid: 04cfbb36-51f5-a1d1-0f22-a1ecf9be682e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Floor.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
+_expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Floor Object](Excel.Floor(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

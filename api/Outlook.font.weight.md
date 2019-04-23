@@ -3,6 +3,7 @@ title: Font.Weight Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 674d5bd0-3cf7-1330-5d3c-7b742bb3df7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the lthe darkness of the type. Re
 
 ## Syntax
 
- _expression_. **Weight**
+_expression_.**Weight**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ The font's appearance on screen and in print may differ, depending on your compu
 
 Changing the value of  **[Bold](Outlook.font.bold.md)** also changes the value of **Weight**. Setting  **Bold** to **True** sets **Weight** to 700; setting **Bold** to **False** sets **Weight** to 400. Conversely, setting **Weight** to anything over 550 sets **Bold** to **True**; setting  **Weight** to 550 or less sets **Bold** to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

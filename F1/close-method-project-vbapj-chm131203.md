@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 37b2bac2-4546-407d-a7db-573854568f65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DateAdd Method (Project)](http://msdn.microsoft.com/library/df0da054-495c-c224-ebc8-b47acb78e2af%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

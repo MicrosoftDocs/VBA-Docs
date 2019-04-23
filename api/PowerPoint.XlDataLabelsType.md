@@ -1,14 +1,15 @@
 ---
-title: xlDataLabelsType Enumeration (PowerPoint)
+title: XlDataLabelsType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDataLabelsType
 ms.assetid: 3b5d6ac2-e5a8-6443-4916-e0fc8277475e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDataLabelsType Enumeration (PowerPoint)
+# XlDataLabelsType enumeration (PowerPoint)
 
 Specifies the type of data label to apply.
 
@@ -23,3 +24,4 @@ Specifies the type of data label to apply.
 |**xlDataLabelsShowPercent**|3|The percentage of the total. Available only for pie charts and doughnut charts.|
 |**xlDataLabelsShowValue**|2|The default value for the point (assumed if this argument is not specified).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

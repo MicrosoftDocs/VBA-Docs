@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 7378fadd-cd13-c0f7-525a-7e30eb59d4bb
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
 ## Syntax
 
- _expression_. `UseThousandSeparator`
+_expression_. `UseThousandSeparator`
 
- _expression_ A variable that represents a 'ModelFormatWholeNumber' object.
+_expression_ A variable that represents a 'ModelFormatWholeNumber' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
 [ModelFormatWholeNumber Object](Excel.modelformatwholenumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

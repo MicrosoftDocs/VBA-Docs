@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SaveLinkValues
 ms.assetid: ee69911f-5a4a-5c2b-c14a-cd562f3ba9f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.SaveLinkValues property (Excel)
 
- **True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean** .
+**True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SaveLinkValues`
+_expression_. `SaveLinkValues`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveWorkbook.SaveLinkValues = True
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.SourceName
 ms.assetid: 9222dcaf-fb60-45c1-a230-4eb7201e1c2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Variant** value that represents the specified object?s name as it a
 
 ## Syntax
 
- _expression_. `SourceName`
+_expression_. `SourceName`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -72,3 +73,4 @@ MsgBox "The original item name is " & _
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

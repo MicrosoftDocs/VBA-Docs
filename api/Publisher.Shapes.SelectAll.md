@@ -1,5 +1,5 @@
 ---
-title: Shapes.SelectAll Method (Publisher)
+title: Shapes.SelectAll method (Publisher)
 keywords: vbapb10.chm2162726
 f1_keywords:
 - vbapb10.chm2162726
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.SelectAll
 ms.assetid: 67b88529-814d-c029-1bde-e5dade87636a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.SelectAll Method (Publisher)
+# Shapes.SelectAll method (Publisher)
 
 Selects all the shapes in the specified  **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **SelectAll**
+_expression_.**SelectAll**
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -32,4 +33,4 @@ This example selects all the shapes on page one of the active publication.
 ActiveDocument.Pages(1).Shapes.SelectAll
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

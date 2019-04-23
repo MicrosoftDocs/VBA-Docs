@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.GetHeight Method (Publisher)
+title: ShapeRange.GetHeight method (Publisher)
 keywords: vbapb10.chm2293784
 f1_keywords:
 - vbapb10.chm2293784
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.GetHeight
 ms.assetid: 63501bf7-c24d-b58e-e4c5-c8a229f07c4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.GetHeight Method (Publisher)
+# ShapeRange.GetHeight method (Publisher)
 
 Returns the height of the shape or shape range as a  **Single** in the specified units.
 
 
 ## Syntax
 
- _expression_. **GetHeight**(**_Unit_**)
+_expression_.**GetHeight**(**_Unit_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -60,4 +61,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

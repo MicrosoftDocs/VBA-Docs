@@ -1,5 +1,5 @@
 ---
-title: TextInput.Creator Property (Word)
+title: TextInput.Creator property (Word)
 keywords: vbawd10.chm153551849
 f1_keywords:
 - vbawd10.chm153551849
@@ -8,19 +8,20 @@ api_name:
 - Word.TextInput.Creator
 ms.assetid: 267f22b0-04b5-08d1-de75-f7099148a198
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextInput.Creator Property (Word)
+# TextInput.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
+_expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TextInput Object](Word.TextInput.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

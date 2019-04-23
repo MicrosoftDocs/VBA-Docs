@@ -3,7 +3,8 @@ title: Enumerations (Graph Visual Basic reference)
 description: A list of all enumerations in the Graph object model.
 ms.prod: excel
 ms.assetid: 069c9a0f-0f51-ba87-2e83-8f8db63ad656
-ms.date: 09/05/2018
+ms.date: 04/12/2019
+localization_priority: Normal
 ---
 
 
@@ -11,7 +12,12 @@ ms.date: 09/05/2018
 
 This topic provides a list of all enumerations in the Graph object model.
 
-## xlArabicModes
+For more detailed descriptions, see the following:
+
+- [Enumerations (Excel)](../../../api/excel(enumerations).md)
+- [Enumerations (Office)](../Library-Reference/enumerations-office.md)
+
+## XlArabicModes
 
 |Name|Value|
 |:-----|:-----|
@@ -20,7 +26,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlArabicStrictAlefHamza |1|
 |xlArabicStrictFinalYaa |2|
 
-## xlArrowHeadLength
+## XlArrowHeadLength
 
 |Name|Value|
 |:-----|:-----|
@@ -28,7 +34,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlArrowHeadLengthMedium |-4138|
 |xlArrowHeadLengthShort |1|
 
-## xlArrowHeadStyle
+## XlArrowHeadStyle
 
 |Name|Value|
 |:-----|:-----|
@@ -38,7 +44,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlArrowHeadStyleNone |-4142|
 |xlArrowHeadStyleOpen |2|
 
-## xlArrowHeadWidth
+## XlArrowHeadWidth
 
 |Name|Value|
 |:-----|:-----|
@@ -46,7 +52,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlArrowHeadWidthNarrow |1|
 |xlArrowHeadWidthWide |3|
 
-## xlAxisCrosses
+## XlAxisCrosses
 
 |Name|Value|
 |:-----|:-----|
@@ -55,7 +61,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlAxisCrossesMaximum |2|
 |xlAxisCrossesMinimum |4|
 
-## xlAxisGroup
+## XlAxisGroup
 
 
 |Name|Value|
@@ -63,7 +69,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlPrimary |1|
 |xlSecondary |2|
 
-## xlAxisType
+## XlAxisType
 
 
 |Name|Value|
@@ -72,7 +78,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlSeriesAxis |3|
 |xlValue |2|
 
-## xlBackground
+## XlBackground
 
 
 |Name|Value|
@@ -81,7 +87,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlBackgroundOpaque |3|
 |xlBackgroundTransparent |2|
 
-## xlBarShape
+## XlBarShape
 
 
 |Name|Value|
@@ -93,7 +99,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlPyramidToMax |2|
 |xlPyramidToPoint |1|
 
-## xlBorderWeight
+## XlBorderWeight
 
 
 |Name|Value|
@@ -103,7 +109,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlThick |4|
 |xlThin |2|
 
-## xlCalculatedMemberType
+## XlCalculatedMemberType
 
 
 |Name|Value|
@@ -111,7 +117,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlCalculatedMember |0|
 |xlCalculatedSet |1|
 
-## xlCategoryType
+## XlCategoryType
 
 
 |Name|Value|
@@ -120,7 +126,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlCategoryScale |2|
 |xlTimeScale |3|
 
-## xlChartGallery
+## XlChartGallery
 
 
 |Name|Value|
@@ -129,7 +135,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlBuiltIn |21|
 |xlUserDefined |22|
 
-## xlChartItem
+## XlChartItem
 
 
 |Name|Value|
@@ -167,7 +173,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlXErrorBars |10|
 |xlYErrorBars |11|
 
-## xlChartPicturePlacement
+## XlChartPicturePlacement
 
 
 |Name|Value|
@@ -180,7 +186,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlFrontSides |5|
 |xlSides |1|
 
-## xlChartPictureType
+## XlChartPictureType
 
 
 |Name|Value|
@@ -189,7 +195,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlStackScale |3|
 |xlStretch |1|
 
-## xlChartSplitType
+## XlChartSplitType
 
 
 |Name|Value|
@@ -199,7 +205,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlSplitByPosition |1|
 |xlSplitByValue |2|
 
-## xlChartType
+## XlChartType
 
 
 |Name|Value|
@@ -278,7 +284,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlXYScatterSmooth |72|
 |xlXYScatterSmoothNoMarkers |73|
 
-## xlCmdType
+## XlCmdType
 
 
 |Name|Value|
@@ -289,7 +295,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlCmdSql |2|
 |xlCmdTable |3|
 
-## xlColorIndex
+## XlColorIndex
 
 
 |Name|Value|
@@ -297,7 +303,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlColorIndexAutomatic |-4105|
 |xlColorIndexNone |-4142|
 
-## xlColumnDataType
+## XlColumnDataType
 
 
 |Name|Value|
@@ -313,7 +319,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlYDMFormat |8|
 |xlYMDFormat |5|
 
-## xlConsolidationFunction
+## XlConsolidationFunction
 
 
 |Name|Value|
@@ -331,7 +337,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlVar |-4164|
 |xlVarP |-4165|
 
-## xlCopyPictureFormat
+## XlCopyPictureFormat
 
 
 |Name|Value|
@@ -339,14 +345,14 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlBitmap |2|
 |xlPicture |-4147|
 
-## xlCreator
+## XlCreator
 
 
 |Name|Value|
 |:-----|:-----|
 |xlCreatorCode |1480803660|
 
-## xlCubeFieldType
+## XlCubeFieldType
 
 
 |Name|Value|
@@ -355,7 +361,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlMeasure |2|
 |xlSet |3|
 
-## xlDataLabelPosition
+## XlDataLabelPosition
 
 
 |Name|Value|
@@ -372,14 +378,14 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlLabelPositionOutsideEnd |2|
 |xlLabelPositionRight |-4152|
 
-## xlDataLabelSeparator
+## XlDataLabelSeparator
 
 
 |Name|Value|
 |:-----|:-----|
 |xlDataLabelSeparatorDefault |1|
 
-## xlDataLabelsType
+## XlDataLabelsType
 
 
 |Name|Value|
@@ -391,7 +397,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlDataLabelsShowPercent |3|
 |xlDataLabelsShowValue |2|
 
-## xlDataSeriesDate
+## XlDataSeriesDate
 
 
 |Name|Value|
@@ -401,7 +407,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlWeekday |2|
 |xlYear |4|
 
-## xlDataSeriesType
+## XlDataSeriesType
 
 
 |Name|Value|
@@ -411,7 +417,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlDataSeriesLinear |-4132|
 |xlGrowth |2|
 
-## xlDeleteShiftDirection
+## XlDeleteShiftDirection
 
 
 |Name|Value|
@@ -419,7 +425,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlShiftToLeft |-4159|
 |xlShiftUp |-4162|
 
-## xlDirection
+## XlDirection
 
 
 |Name|Value|
@@ -429,7 +435,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlToRight |-4161|
 |xlUp |-4162|
 
-## xlDisplayBlanksAs
+## XlDisplayBlanksAs
 
 
 |Name|Value|
@@ -438,7 +444,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlNotPlotted |1|
 |xlZero |2|
 
-## xlDisplayDrawingObjects
+## XlDisplayDrawingObjects
 
 
 |Name|Value|
@@ -447,7 +453,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlHide |3|
 |xlPlaceholders |2|
 
-## xlDisplayUnit
+## XlDisplayUnit
 
 
 |Name|Value|
@@ -462,7 +468,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlThousandMillions |-9|
 |xlThousands |-3|
 
-## xlEndStyleCap
+## XlEndStyleCap
 
 
 |Name|Value|
@@ -470,7 +476,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlCap |1|
 |xlNoCap |2|
 
-## xlErrorBarDirection
+## XlErrorBarDirection
 
 
 |Name|Value|
@@ -478,7 +484,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlX |-4168|
 |xlY |1|
 
-## xlErrorBarInclude
+## XlErrorBarInclude
 
 
 |Name|Value|
@@ -488,7 +494,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlErrorBarIncludeNone |-4142|
 |xlErrorBarIncludePlusValues |2|
 
-## xlErrorBarType
+## XlErrorBarType
 
 
 |Name|Value|
@@ -499,7 +505,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlErrorBarTypeStDev |-4155|
 |xlErrorBarTypeStError |4|
 
-## xlFindLookIn
+## XlFindLookIn
 
 
 |Name|Value|
@@ -508,7 +514,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlFormulas |-4123|
 |xlValues |-4163|
 
-## xlHAlign
+## XlHAlign
 
 
 |Name|Value|
@@ -522,7 +528,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlHAlignLeft |-4131|
 |xlHAlignRight |-4152|
 
-## xlHebrewModes
+## XlHebrewModes
 
 
 |Name|Value|
@@ -532,7 +538,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlHebrewMixedScript |2|
 |xlHebrewPartialScript |1|
 
-## xlImportDataAs
+## XlImportDataAs
 
 
 |Name|Value|
@@ -540,7 +546,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlPivotTableReport |1|
 |xlQueryTable |0|
 
-## xlInsertFormatOrigin
+## XlInsertFormatOrigin
 
 
 |Name|Value|
@@ -548,7 +554,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlFormatFromLeftOrAbove |0|
 |xlFormatFromRightOrBelow |1|
 
-## xlInsertShiftDirection
+## XlInsertShiftDirection
 
 
 |Name|Value|
@@ -556,7 +562,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlShiftDown |-4121|
 |xlShiftToRight |-4161|
 
-## xlLegendPosition
+## XlLegendPosition
 
 
 |Name|Value|
@@ -567,7 +573,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlLegendPositionRight |-4152|
 |xlLegendPositionTop |-4160|
 
-## xlLineStyle
+## XlLineStyle
 
 
 |Name|Value|
@@ -581,7 +587,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlLineStyleNone |-4142|
 |xlSlantDashDot |13|
 
-## xlLocationInTable
+## XlLocationInTable
 
 
 |Name|Value|
@@ -596,7 +602,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlRowItem |4|
 |xlTableBody |8|
 
-## xlMarkerStyle
+## XlMarkerStyle
 
 
 |Name|Value|
@@ -614,7 +620,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlMarkerStyleTriangle |3|
 |xlMarkerStyleX |-4168|
 
-## xlOrientation
+## XlOrientation
 
 
 |Name|Value|
@@ -624,7 +630,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlUpward |-4171|
 |xlVertical |-4166|
 
-## xlPattern
+## XlPattern
 
 
 |Name|Value|
@@ -650,7 +656,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlPatternUp |-4162|
 |xlPatternVertical |-4166|
 
-## xlPictureConvertorType
+## XlPictureConvertorType
 
 
 |Name|Value|
@@ -669,7 +675,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlWMF |2|
 |xlWPG |3|
 
-## xlPivotFieldDataType
+## XlPivotFieldDataType
 
 
 |Name|Value|
@@ -678,7 +684,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlNumber |-4145|
 |xlText |-4158|
 
-## xlPivotFormatType
+## XlPivotFormatType
 
 
 |Name|Value|
@@ -706,7 +712,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlTable8 |17|
 |xlTable9 |18|
 
-## xlPivotTableSourceType
+## XlPivotTableSourceType
 
 
 |Name|Value|
@@ -717,7 +723,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlPivotTable |-4148|
 |xlScenario |4|
 
-## xlQueryType
+## XlQueryType
 
 
 |Name|Value|
@@ -729,7 +735,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlTextImport |6|
 |xlWebQuery |4|
 
-## xlRangeValueDataType
+## XlRangeValueDataType
 
 
 |Name|Value|
@@ -738,7 +744,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlRangeValueMSPersistXML |12|
 |xlRangeValueXMLSpreadsheet |11|
 
-## xlReferenceStyle
+## XlReferenceStyle
 
 
 |Name|Value|
@@ -746,7 +752,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlA1 |1|
 |xlR1C1 |-4150|
 
-## xlRowCol
+## XlRowCol
 
 
 |Name|Value|
@@ -754,7 +760,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlColumns |2|
 |xlRows |1|
 
-## xlScaleType
+## XlScaleType
 
 
 |Name|Value|
@@ -762,7 +768,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlScaleLinear |-4132|
 |xlScaleLogarithmic |-4133|
 
-## xlSheetType
+## XlSheetType
 
 
 |Name|Value|
@@ -773,7 +779,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlExcel4MacroSheet |3|
 |xlWorksheet |-4167|
 
-## xlSizeRepresents
+## XlSizeRepresents
 
 
 |Name|Value|
@@ -781,7 +787,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlSizeIsArea |1|
 |xlSizeIsWidth |2|
 
-## xlSubtototalLocationType
+## XlSubtototalLocationType
 
 
 |Name|Value|
@@ -789,7 +795,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlAtBottom |2|
 |xlAtTop |1|
 
-## xlTickLabelOrientation
+## XlTickLabelOrientation
 
 
 |Name|Value|
@@ -800,7 +806,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlTickLabelOrientationUpward |-4171|
 |xlTickLabelOrientationVertical |-4166|
 
-## xlTickLabelPosition
+## XlTickLabelPosition
 
 
 |Name|Value|
@@ -810,7 +816,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlTickLabelPositionNextToAxis |4|
 |xlTickLabelPositionNone |-4142|
 
-## xlTickMark
+## XlTickMark
 
 
 |Name|Value|
@@ -820,7 +826,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlTickMarkNone |-4142|
 |xlTickMarkOutside |3|
 
-## xlTimeUnit
+## XlTimeUnit
 
 
 |Name|Value|
@@ -829,7 +835,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlMonths |1|
 |xlYears |2|
 
-## xlTrendlineType
+## XlTrendlineType
 
 
 |Name|Value|
@@ -841,7 +847,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlPolynomial |3|
 |xlPower |4|
 
-## xlUnderlineStyle
+## XlUnderlineStyle
 
 
 |Name|Value|
@@ -852,7 +858,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlUnderlineStyleSingle |2|
 |xlUnderlineStyleSingleAccounting |4|
 
-## xlVAlign
+## XlVAlign
 
 
 |Name|Value|
@@ -863,7 +869,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlVAlignJustify |-4130|
 |xlVAlignTop |-4160|
 
-## xlWebFormatting
+## XlWebFormatting
 
 
 |Name|Value|
@@ -872,7 +878,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlWebFormattingNone |3|
 |xlWebFormattingRTF |2|
 
-## xlWebSelectionType
+## XlWebSelectionType
 
 
 |Name|Value|
@@ -881,7 +887,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlEntirePage |1|
 |xlSpecifiedTables |3|
 
-## xlWindowState
+## XlWindowState
 
 
 |Name|Value|
@@ -890,7 +896,7 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlMinimized |-4140|
 |xlNormal |-4143|
 
-## xlWindowType
+## XlWindowType
 
 
 |Name|Value|
@@ -901,3 +907,4 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlInfo |-4129|
 |xlWorkbook |1|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

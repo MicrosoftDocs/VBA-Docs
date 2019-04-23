@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a2fd36fb-6426-4509-87ae-69232e9a2804
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [WorkWeekDay.Shift4 Property (Project)](http://msdn.microsoft.com/library/a44bcc3f-3894-e871-a60c-dd723feb8598%28Office.15%29.aspx)
 [Month.Shift4 Property (Project)](http://msdn.microsoft.com/library/0491c6e9-c02e-59fd-a6d6-e9d2ce88b8c4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

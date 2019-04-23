@@ -8,6 +8,7 @@ api_name:
 - Excel.Gridlines.Border
 ms.assetid: 4acc2605-a74f-0e8a-4e44-c43f71103a2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 ## Syntax
 
- _expression_. `Border`
+_expression_.**Border**
 
- _expression_ A variable that represents a [Gridlines](Excel.Gridlines-graph-object.md) object.
+_expression_ A variable that represents a [Gridlines](Excel.Gridlines-graph-object.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 [Gridlines Object](Excel.Gridlines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

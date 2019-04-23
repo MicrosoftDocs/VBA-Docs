@@ -1,5 +1,5 @@
 ---
-title: Placeholders.Application Property (PowerPoint)
+title: Placeholders.Application property (PowerPoint)
 keywords: vbapp10.chm544001
 f1_keywords:
 - vbapp10.chm544001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Placeholders.Application
 ms.assetid: 32e34636-ee45-f8bb-4ab2-84fc1d418f7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Placeholders.Application Property (PowerPoint)
+# Placeholders.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Placeholders](./PowerPoint.Placeholders.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Placeholders Object](PowerPoint.Placeholders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

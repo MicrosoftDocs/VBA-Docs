@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveDocument Property (Word)
+title: Global.ActiveDocument property (Word)
 keywords: vbawd10.chm163119107
 f1_keywords:
 - vbawd10.chm163119107
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.ActiveDocument
 ms.assetid: ce25921e-7b90-c122-e054-6be678e4a69b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.ActiveDocument Property (Word)
+# Global.ActiveDocument property (Word)
 
 Returns a  **[Document](Word.Document.md)** object that represents the active document (the document with the focus). Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveDocument`
+_expression_. `ActiveDocument`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -79,3 +80,4 @@ ActiveDocument.PrintOut
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

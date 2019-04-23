@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Publisher)
+title: Hyperlink object (Publisher)
 keywords: vbapb10.chm4653055
 f1_keywords:
 - vbapb10.chm4653055
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Hyperlink
 ms.assetid: 1cc6d95b-357a-c169-a5d2-6850a1a3bbd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink Object (Publisher)
+# Hyperlink object (Publisher)
 
 Represents a hyperlink. The  **Hyperlink** object is a member of the **[Hyperlinks](Publisher.Hyperlinks.md)** collection and the **[Shape](./Publisher.Shape.md)** and **[ShapeRange](Publisher.ShapeRange.md)** objects.
 
@@ -72,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Publisher.Hyperlink.Delete.md)|
 |[SetPageRelative](./Publisher.Hyperlink.SetPageRelative.md)|
@@ -81,7 +82,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](./Publisher.Hyperlink.Address.md)|
 |[Application](./Publisher.Hyperlink.Application.md)|
@@ -94,3 +95,4 @@ End Sub
 |[TextToDisplay](./Publisher.Hyperlink.TextToDisplay.md)|
 |[Type](./Publisher.Hyperlink.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

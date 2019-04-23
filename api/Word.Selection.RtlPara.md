@@ -1,5 +1,5 @@
 ---
-title: Selection.RtlPara Method (Word)
+title: Selection.RtlPara method (Word)
 keywords: vbawd10.chm158663261
 f1_keywords:
 - vbawd10.chm158663261
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.RtlPara
 ms.assetid: b417897d-de70-6c3a-12cd-8786e12bdb43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.RtlPara Method (Word)
+# Selection.RtlPara method (Word)
 
 Sets the reading order and alignment of the specified paragraphs to right-to-left.
 
 
 ## Syntax
 
- _expression_. `RtlPara`
+_expression_. `RtlPara`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If Selection.Style <> "Normal" Then _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

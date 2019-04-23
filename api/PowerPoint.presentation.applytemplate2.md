@@ -1,22 +1,23 @@
 ---
-title: Presentation.ApplyTemplate2 Method (PowerPoint)
+title: Presentation.ApplyTemplate2 method (PowerPoint)
 keywords: vbapp10.chm583124
 f1_keywords:
 - vbapp10.chm583124
 ms.assetid: 43d6d14a-078f-eefa-8ad5-981b0cb6ccb9
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 
-# Presentation.ApplyTemplate2 Method (PowerPoint)
+# Presentation.ApplyTemplate2 method (PowerPoint)
 
 Applies a design template and theme variant to the presentation.
 
 
 ## Syntax
 
- _expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
+_expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -25,13 +26,13 @@ Applies a design template and theme variant to the presentation.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the name of the design template.|
 | _Variant_|Required|**String**|Specifies the name of the variant to apply.|
-| _FileName_|Required|STRING||
-| _Variant_|Required|STRING||
-| _VariantGUID_|Required|STRING||
+| _FileName_|Required|**String**||
+| _Variant_|Required|**String**||
+| _VariantGUID_|Required|**String**||
 
 ## Return value
 
@@ -65,4 +66,4 @@ Sub ChangeThemeVariant()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

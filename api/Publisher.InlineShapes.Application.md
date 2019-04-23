@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Application Property (Publisher)
+title: InlineShapes.Application property (Publisher)
 keywords: vbapb10.chm5767169
 f1_keywords:
 - vbapb10.chm5767169
@@ -8,17 +8,18 @@ api_name:
 - Publisher.InlineShapes.Application
 ms.assetid: b68fb1e8-e749-f9ce-5621-89f019005cde
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShapes.Application Property (Publisher)
+# InlineShapes.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents an  **InlineShapes** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

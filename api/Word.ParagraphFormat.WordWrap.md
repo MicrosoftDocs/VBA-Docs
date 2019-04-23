@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.WordWrap Property (Word)
+title: ParagraphFormat.WordWrap property (Word)
 keywords: vbawd10.chm156434550
 f1_keywords:
 - vbawd10.chm156434550
@@ -8,19 +8,20 @@ api_name:
 - Word.ParagraphFormat.WordWrap
 ms.assetid: da5e67c3-405d-8adb-5cec-321464030f08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.WordWrap Property (Word)
+# ParagraphFormat.WordWrap property (Word)
 
- **True** if Microsoft Word wraps Latin text in the middle of a word in the specified paragraphs or text frames. Read/write **Long** .
+ **True** if Microsoft Word wraps Latin text in the middle of a word in the specified paragraphs or text frames. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
- _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
+_expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.Paragraphs(1).WordWrap = True
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

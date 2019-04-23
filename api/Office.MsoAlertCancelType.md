@@ -1,18 +1,19 @@
 ---
-title: MsoAlertCancelType Enumeration (Office)
+title: MsoAlertCancelType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAlertCancelType
 ms.assetid: 3dfe3983-ff86-2ef7-332f-eefa814a764b
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoAlertCancelType Enumeration (Office)
+# MsoAlertCancelType enumeration (Office)
 
-Specifies behavior when the user cancels an alert. Only  **msoAlertCancelDefault** is currently supported.
+Specifies behavior when the user cancels an alert. Only **msoAlertCancelDefault** is currently supported.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Specifies behavior when the user cancels an alert. Only  **msoAlertCancelDefault
 |**msoAlertCancelSecond**|1|Not supported.|
 |**msoAlertCancelThird**|2|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

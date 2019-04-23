@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.EndKey
 ms.assetid: 4f27681c-1117-99c2-1aba-bd97082bb8ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -60,3 +61,4 @@ Selection.EndKey Unit:=wdStory, Extend:=wdMove
 
 - [Selection object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

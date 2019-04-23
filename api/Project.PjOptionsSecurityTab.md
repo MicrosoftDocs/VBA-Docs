@@ -1,14 +1,15 @@
 ---
-title: PjOptionsSecurityTab Enumeration (Project)
+title: PjOptionsSecurityTab enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjOptionsSecurityTab
 ms.assetid: b0afc2a7-2847-538b-0dca-6897f28ea17d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjOptionsSecurityTab Enumeration (Project)
+# PjOptionsSecurityTab enumeration (Project)
 
 Contains constants that specify the tabs for settings that are available in the  **Trust Center** dialog box in **Project Options**.
 
@@ -22,3 +23,4 @@ Contains constants that specify the tabs for settings that are available in the 
 |**pjOptionsSecurityTabPrivacy**|3|Represents the  **Privacy Options** tab, which includes settings for Help content, removing personal information from file properties, and other security options.|
 |**pjOptionsSecurityTabPublishers**|0|Represents the  **Trusted Publishers** tab, which contains a list of trusted publisher tokens.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

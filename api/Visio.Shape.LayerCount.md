@@ -1,5 +1,5 @@
 ---
-title: Shape.LayerCount Property (Visio)
+title: Shape.LayerCount property (Visio)
 keywords: vis_sdr.chm11213815
 f1_keywords:
 - vis_sdr.chm11213815
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.LayerCount
 ms.assetid: 0ebcdf53-ebf3-8e26-236f-086f2c9f3c08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.LayerCount Property (Visio)
+# Shape.LayerCount property (Visio)
 
 Returns the number of layers to which a shape is assigned. Read-only.
 
 
 ## Syntax
 
- _expression_. `LayerCount`
+_expression_. `LayerCount`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -82,4 +83,4 @@ Public Sub LayerCount_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

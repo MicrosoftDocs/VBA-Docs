@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: f3312e64-d88e-e6c7-0337-d6e43e178c2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `ColumnName`
+_expression_. `ColumnName`
 
- _expression_ A variable that represents a [ModelColumnChange](Excel.modelcolumnchange.md) object.
+_expression_ A variable that represents a [ModelColumnChange](Excel.modelcolumnchange.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ ms.date: 06/08/2017
 
 [ModelColumnChange Object](Excel.modelcolumnchange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

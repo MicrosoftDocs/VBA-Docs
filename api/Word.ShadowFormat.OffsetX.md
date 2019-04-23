@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetX Property (Word)
+title: ShadowFormat.OffsetX property (Word)
 keywords: vbawd10.chm164364390
 f1_keywords:
 - vbawd10.chm164364390
@@ -8,17 +8,18 @@ api_name:
 - Word.ShadowFormat.OffsetX
 ms.assetid: 5556921b-b96b-7e28-8cd4-7be3475f6a6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.OffsetX Property (Word)
+# ShadowFormat.OffsetX property (Word)
 
-Returns or sets the horizontal offset (in points) of the shadow from the specified shape. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write  **Single** .
+Returns or sets the horizontal offset (in points) of the shadow from the specified shape. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `OffsetX`
+_expression_. `OffsetX`
 
  _expression_ An expression that returns a '[ShadowFormat](Word.ShadowFormat.md)' object.
 
@@ -48,3 +49,4 @@ End With
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

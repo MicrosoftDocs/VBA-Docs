@@ -1,5 +1,5 @@
 ---
-title: Store.IsCachedExchange Property (Outlook)
+title: Store.IsCachedExchange property (Outlook)
 keywords: vbaol11.chm804
 f1_keywords:
 - vbaol11.chm804
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Store.IsCachedExchange
 ms.assetid: 2f3fbd5d-8cf1-5fdd-6074-f4da4216dcd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Store.IsCachedExchange Property (Outlook)
+# Store.IsCachedExchange property (Outlook)
 
 Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a cached Exchange store. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsCachedExchange`
+_expression_. `IsCachedExchange`
 
- _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

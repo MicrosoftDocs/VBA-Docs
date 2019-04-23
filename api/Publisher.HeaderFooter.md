@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter Object (Publisher)
+title: HeaderFooter object (Publisher)
 keywords: vbapb10.chm7536639
 f1_keywords:
 - vbapb10.chm7536639
@@ -8,10 +8,11 @@ api_name:
 - Publisher.HeaderFooter
 ms.assetid: d38e5e7e-45d7-667b-b6f2-9ad8e764af79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter Object (Publisher)
+# HeaderFooter object (Publisher)
 
 Represents the header or footer of a master page.
  
@@ -67,7 +68,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.HeaderFooter.Delete.md)|
 
@@ -75,10 +76,11 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.HeaderFooter.Application.md)|
 |[IsHeader](Publisher.HeaderFooter.IsHeader.md)|
 |[Parent](Publisher.HeaderFooter.Parent.md)|
 |[TextRange](Publisher.HeaderFooter.TextRange.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

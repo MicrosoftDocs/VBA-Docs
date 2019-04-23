@@ -1,5 +1,5 @@
 ---
-title: Document.TextStyles Property (Publisher)
+title: Document.TextStyles property (Publisher)
 keywords: vbapb10.chm196662
 f1_keywords:
 - vbapb10.chm196662
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.TextStyles
 ms.assetid: a628e5c1-aed7-dd70-81fa-d9fb54afb527
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.TextStyles Property (Publisher)
+# Document.TextStyles property (Publisher)
 
 Returns a  **[TextStyles](Publisher.TextStyles.md)** collection that contains a publication's text styles.
 
 
 ## Syntax
 
- _expression_. **TextStyles**
+_expression_.**TextStyles**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -42,4 +43,4 @@ Sub BaseStyleName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 8009dd64-44b5-3b66-e8d4-e3535e014396
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ You can also use an  **OptionButton** inside a group box to select one or more o
 
 The default property for an  **OptionButton** is the **[Value](Outlook.optionbutton.value.md)** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

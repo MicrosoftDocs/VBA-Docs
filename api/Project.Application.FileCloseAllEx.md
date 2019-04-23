@@ -1,5 +1,5 @@
 ---
-title: Application.FileCloseAllEx Method (Project)
+title: Application.FileCloseAllEx method (Project)
 keywords: vbapj.chm104
 f1_keywords:
 - vbapj.chm104
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FileCloseAllEx
 ms.assetid: 95c7c89f-cfb0-f881-a31b-70ae951fb3f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileCloseAllEx Method (Project)
+# Application.FileCloseAllEx method (Project)
 
 Closes all projects.
 
 
 ## Syntax
 
- _expression_. `FileCloseAllEx`( ` _Save_`, ` _CheckIn_` )
+_expression_. `FileCloseAllEx`( `_Save_`, `_CheckIn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Closes all projects.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

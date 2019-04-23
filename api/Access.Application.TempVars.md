@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.Application.TempVars
 ms.assetid: 356f2585-6789-ebe4-5c24-02a361289cd5
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.TempVars property (Access)
 
-Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](Access.TempVars.md)**.
+Returns the collection of **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](Access.TempVars.md)**.
 
 
 ## Syntax
 
-_expression_. `TempVars`
+_expression_.**TempVars**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
-[Application Object](Access.Application.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

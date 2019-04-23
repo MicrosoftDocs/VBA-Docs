@@ -1,5 +1,5 @@
 ---
-title: Window.DocumentMap Property (Word)
+title: Window.DocumentMap property (Word)
 keywords: vbawd10.chm157417497
 f1_keywords:
 - vbawd10.chm157417497
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.DocumentMap
 ms.assetid: e7f084f8-303b-d710-00fc-522eab6e3814
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.DocumentMap Property (Word)
+# Window.DocumentMap property (Word)
 
- **True** if the document map is visible. Read/write **Boolean** .
+ **True** if the document map is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DocumentMap`
+_expression_. `DocumentMap`
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
@@ -53,3 +54,4 @@ docSales.ActiveWindow.DocumentMap = True
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

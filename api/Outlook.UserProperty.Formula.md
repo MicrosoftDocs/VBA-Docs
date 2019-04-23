@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Formula Property (Outlook)
+title: UserProperty.Formula property (Outlook)
 keywords: vbaol11.chm217
 f1_keywords:
 - vbaol11.chm217
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserProperty.Formula
 ms.assetid: 91d2a104-8a93-a1e3-f31a-a0351153496d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperty.Formula Property (Outlook)
+# UserProperty.Formula property (Outlook)
 
 Returns or sets a  **String** representing the formula for the user property. Read/write.
 
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## Example
@@ -70,3 +71,4 @@ End Sub
 
 [UserProperty Object](Outlook.UserProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3cb401c6-6ff0-4cbe-a8c4-0fa4160a996c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.WeekLabelDisplay Property (Project)](http://msdn.microsoft.com/library/d21cd816-06a3-89b0-b56a-9c1b56151209%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

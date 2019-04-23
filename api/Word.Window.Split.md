@@ -1,5 +1,5 @@
 ---
-title: Window.Split Property (Word)
+title: Window.Split property (Word)
 keywords: vbawd10.chm157417481
 f1_keywords:
 - vbawd10.chm157417481
@@ -8,19 +8,20 @@ api_name:
 - Word.Window.Split
 ms.assetid: 97631d2f-577f-1a19-18e9-ae0ba92da054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Split Property (Word)
+# Window.Split property (Word)
 
- **True** if the window is split into multiple panes. Read/write **Boolean** .
+ **True** if the window is split into multiple panes. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Split`
+_expression_. `Split`
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Example
@@ -49,3 +50,4 @@ End If
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

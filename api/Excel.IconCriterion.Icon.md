@@ -8,6 +8,7 @@ api_name:
 - Excel.IconCriterion.Icon
 ms.assetid: bcf25274-2dbb-535d-404c-0eec0f312a15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or specifies the icon for a criterion in an icon set conditional formatt
 
 ## Syntax
 
- _expression_. `Icon`
+_expression_. `Icon`
 
- _expression_ A variable that represents an '[IconCriterion](Excel.IconCriterion.md)' object.
+_expression_ A variable that represents an '[IconCriterion](Excel.IconCriterion.md)' object.
 
 
 ## Remarks
 
-After you set the  **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](Excel.IconSetCondition.IconSet.md)** property is changed to **xlCustomSet** .
+After you set the  **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](Excel.IconSetCondition.IconSet.md)** property is changed to **xlCustomSet**.
 
 
 ## Example
@@ -74,3 +75,4 @@ End With
 
 [IconCriterion Object](Excel.IconCriterion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

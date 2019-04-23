@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCaches.Application
 ms.assetid: ecb75841-40c1-10ea-5340-3af98c21f05f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotCaches](Excel.PivotCaches.md) object.
+_expression_ A variable that represents a [PivotCaches](Excel.PivotCaches.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [PivotCaches Object](Excel.PivotCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

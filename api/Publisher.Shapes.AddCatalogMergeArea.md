@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCatalogMergeArea Method (Publisher)
+title: Shapes.AddCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm2162752
 f1_keywords:
 - vbapb10.chm2162752
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddCatalogMergeArea
 ms.assetid: 4af86b99-5a3a-b9f3-d269-16d635d35c83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddCatalogMergeArea Method (Publisher)
+# Shapes.AddCatalogMergeArea method (Publisher)
 
 Adds a  **Shape** object that represents the specified publication's catalog merge area.
 
 
 ## Syntax
 
- _expression_. **AddCatalogMergeArea**
+_expression_.**AddCatalogMergeArea**
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -57,4 +58,4 @@ The following example adds a catalog merge area to the first page of the specifi
 ThisDocument.Pages(1).Shapes.AddCatalogMergeArea
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

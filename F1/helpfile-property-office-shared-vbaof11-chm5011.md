@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0bafa462-5f5a-4c5e-bed3-455deb93e9f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarPopup.HelpFile Property (Office)](http://msdn.microsoft.com/library/67c79cb5-cca7-d113-49de-9f636c757867%28Office.15%29.aspx)
 [CommandBarButton.HelpFile Property (Office)](http://msdn.microsoft.com/library/6e97a52d-f50d-600b-26eb-b22988bd5ed5%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

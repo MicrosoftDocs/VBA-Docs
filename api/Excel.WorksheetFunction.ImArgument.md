@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImArgument Method (Excel)
+title: WorksheetFunction.ImArgument method (Excel)
 keywords: vbaxl10.chm137284
 f1_keywords:
 - vbaxl10.chm137284
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.ImArgument
 ms.assetid: ac1e721a-edfe-0287-afa1-509f5c437cd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImArgument Method (Excel)
+# WorksheetFunction.ImArgument method (Excel)
 
 Returns the argument 
 ![Formula](../images/theta_ZA06052070.gif) (theta), an angle expressed in radians, such that:
@@ -22,9 +23,9 @@ Returns the argument
 
 ## Syntax
 
- _expression_. `ImArgument`( `_Arg1_` )
+_expression_. `ImArgument`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

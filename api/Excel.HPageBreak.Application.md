@@ -8,6 +8,7 @@ api_name:
 - Excel.HPageBreak.Application
 ms.assetid: d0a1b77f-f5b9-7cdf-cbf4-25b59d86ace7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [HPageBreak Object](Excel.HPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

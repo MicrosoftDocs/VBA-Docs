@@ -1,5 +1,5 @@
 ---
-title: FileConverter.CanOpen Property (Word)
+title: FileConverter.CanOpen property (Word)
 keywords: vbawd10.chm161021957
 f1_keywords:
 - vbawd10.chm161021957
@@ -8,17 +8,18 @@ api_name:
 - Word.FileConverter.CanOpen
 ms.assetid: 0fe665dc-fe64-a61d-f6a5-a7ba2ff7b2d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverter.CanOpen Property (Word)
+# FileConverter.CanOpen property (Word)
 
- **True** if the specified file converter is designed to open files. Read-only **Boolean** .
+ **True** if the specified file converter is designed to open files. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanOpen`
+_expression_. `CanOpen`
 
  _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
@@ -57,3 +58,4 @@ End If
 
 [FileConverter Object](Word.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

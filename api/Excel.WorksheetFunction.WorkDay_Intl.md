@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.WorkDay_Intl Method (Excel)
+title: WorksheetFunction.WorkDay_Intl method (Excel)
 keywords: vbaxl10.chm137392
 f1_keywords:
 - vbaxl10.chm137392
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.WorkDay_Intl
 ms.assetid: 0a9091a1-c6d4-06c4-a00d-7477474bddf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.WorkDay_Intl Method (Excel)
+# WorksheetFunction.WorkDay_Intl method (Excel)
 
 Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters. Weekend parameters indicate which and how many days are weekend days. Weekend days and any days that are specified as holidays are not considered as workdays.
 
 
 ## Syntax
 
- _expression_. `WorkDay_Intl`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `WorkDay_Intl`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

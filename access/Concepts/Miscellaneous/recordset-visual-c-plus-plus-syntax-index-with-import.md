@@ -3,6 +3,7 @@ title: Recordset (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 807e0ce2-2f28-cb4f-41ae-fa4834504a01
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -198,3 +199,5 @@ __declspec(property(get=GetStayInSync,put=PutStayInSync)) VARIANT_BOOL
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

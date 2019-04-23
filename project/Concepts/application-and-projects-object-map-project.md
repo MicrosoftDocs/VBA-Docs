@@ -3,6 +3,7 @@ title: Application and Projects object map (Project)
 ms.prod: project-server
 ms.assetid: 608f1291-ce25-8a5f-f0ba-7c1e823a12f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ The  **Application** and **Projects** object map for Project shows the main chil
 
 ![Application object and Project object hierarchy](../../images/pj15_VBAObjectMap_AppProject.jpg)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

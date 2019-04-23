@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.MDX
 ms.assetid: 50a211c9-4b46-568c-5313-fd093d99a140
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** indicating the Multidimensional Expression (MDX) that woul
 
 ## Syntax
 
- _expression_. `MDX`
+_expression_. `MDX`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

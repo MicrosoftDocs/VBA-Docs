@@ -1,15 +1,16 @@
 ---
-title: FormRegionStartup Object (Outlook)
+title: FormRegionStartup object (Outlook)
 keywords: vbaol11.chm3213
 f1_keywords:
 - vbaol11.chm3213
 ms.prod: outlook
 ms.assetid: 948ea6b7-2962-57e7-618d-fa0977b65651
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegionStartup Object (Outlook)
+# FormRegionStartup object (Outlook)
 
 Defines an interface that allows an add-in to specify the storage and the user interface of a form region, obtains an object for that form region, and determines when the form region is about to be displayed in a form or in the Reading Pane.
 
@@ -36,7 +37,7 @@ For more information on writing add-ins for form regions, see [Extending a Form 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeFormRegionShow](Outlook.FormRegionStartup.BeforeFormRegionShow.md)|
 |[GetFormRegionIcon](Outlook.FormRegionStartup.GetFormRegionIcon.md)|
@@ -46,4 +47,6 @@ For more information on writing add-ins for form regions, see [Extending a Form 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

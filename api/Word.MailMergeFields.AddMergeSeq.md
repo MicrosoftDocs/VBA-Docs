@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddMergeSeq Method (Word)
+title: MailMergeFields.AddMergeSeq method (Word)
 keywords: vbawd10.chm153026666
 f1_keywords:
 - vbawd10.chm153026666
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.AddMergeSeq
 ms.assetid: e437677d-2b2b-e921-d5e2-817a67624b66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.AddMergeSeq Method (Word)
+# MailMergeFields.AddMergeSeq method (Word)
 
 Adds a MERGESEQ field to a mail merge main document. Returns a  **MailMergeField** object.
 
 
 ## Syntax
 
- _expression_. `AddMergeSeq`( `_Range_` )
+_expression_. `AddMergeSeq`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ rngTemp.InsertAfter "Sequence Number: "
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

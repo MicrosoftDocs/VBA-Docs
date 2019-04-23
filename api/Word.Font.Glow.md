@@ -1,5 +1,5 @@
 ---
-title: Font.Glow Property (Word)
+title: Font.Glow property (Word)
 keywords: vbawd10.chm156369063
 f1_keywords:
 - vbawd10.chm156369063
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.Glow
 ms.assetid: ace54516-4040-f4d7-f910-b78e92389bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Glow Property (Word)
+# Font.Glow property (Word)
 
-Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
+Returns a **[GlowFormat](Word.GlowFormat.md)** object that represents the glow formatting for the font used by the specified range of text. Read-only.
 
 
 ## Syntax
 
- _expression_. `Glow`
+_expression_.**Glow**
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -28,3 +29,4 @@ Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow forma
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

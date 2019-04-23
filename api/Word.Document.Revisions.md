@@ -1,5 +1,5 @@
 ---
-title: Document.Revisions Property (Word)
+title: Document.Revisions property (Word)
 keywords: vbawd10.chm158007326
 f1_keywords:
 - vbawd10.chm158007326
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Revisions
 ms.assetid: 26211417-b9c5-128e-1b00-cb312dd3724f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Revisions Property (Word)
+# Document.Revisions property (Word)
 
 Returns a  **Revisions** collection that represents the tracked changes in the document or range. Read-only.
 
 
 ## Syntax
 
- _expression_. `Revisions`
+_expression_. `Revisions`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ myRange.Revisions.AcceptAll
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

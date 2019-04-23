@@ -8,6 +8,7 @@ api_name:
 - Office.Collection
 ms.assetid: 1bc5c060-34c7-84e7-c99c-f20266a2d071
 ms.date: 11/12/2018
+localization_priority: Normal
 ---
 
 
@@ -26,13 +27,13 @@ Dim X As New Collection
 
 ```
 
-Once a collection is created, members can be added using the **[Add](add-method-visual-basic-for-applications.md)** method and removed using the **[Remove](remove-method-visual-basic-for-applications.md)** method. Specific members can be returned from the collection using the **[Item](item-method-visual-basic-for-applications.md)** method, while the entire collection can be iterated using the **[For Each...Next](for-eachnext-statement.md)** statement.
+After a collection is created, members can be added by using the **[Add](add-method-visual-basic-for-applications.md)** method and removed by using the **[Remove](remove-method-visual-basic-for-applications.md)** method. Specific members can be returned from the collection by using the **[Item](item-method-visual-basic-for-applications.md)** method, while the entire collection can be iterated by using the **[For Each...Next](for-eachnext-statement.md)** statement.
 
 ## Example
 
 This example creates a **Collection** object (`MyClasses`), and then creates a dialog box in which users can add objects to the collection. 
 
-To see how this works, choose the **Class Module** command from the **Insert** menu and declare a public variable called `InstanceName` at module level of Class1 (type **Public** `InstanceName`) to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement `ClassNamer` in another procedure.
+To see how this works, choose the **Class Module** command from the **[Insert](insert-menu.md)** menu and declare a public variable called `InstanceName` at the module level of Class1 (type **Public** `InstanceName`) to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement `ClassNamer` in another procedure.
 
 (This example only works with host applications that support classes.)
 
@@ -72,5 +73,8 @@ End Sub
 
 ## See also
 
+- [Count property](count-property-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

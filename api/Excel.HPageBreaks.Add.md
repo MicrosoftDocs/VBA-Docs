@@ -1,5 +1,5 @@
 ---
-title: HPageBreaks.Add Method (Excel)
+title: HPageBreaks.Add method (Excel)
 keywords: vbaxl10.chm165076
 f1_keywords:
 - vbaxl10.chm165076
@@ -8,19 +8,20 @@ api_name:
 - Excel.HPageBreaks.Add
 ms.assetid: 58aabcbf-7a9f-96a5-c91e-7311e397cffe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HPageBreaks.Add Method (Excel)
+# HPageBreaks.Add method (Excel)
 
 Adds a horizontal page break.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Before_` )
+_expression_.**Add** (_Before_)
 
- _expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
+_expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ End With
 
 [HPageBreaks Object](Excel.HPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

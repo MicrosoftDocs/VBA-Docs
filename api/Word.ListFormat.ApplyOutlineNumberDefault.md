@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ApplyOutlineNumberDefault Method (Word)
+title: ListFormat.ApplyOutlineNumberDefault method (Word)
 keywords: vbawd10.chm163578070
 f1_keywords:
 - vbawd10.chm163578070
@@ -8,19 +8,20 @@ api_name:
 - Word.ListFormat.ApplyOutlineNumberDefault
 ms.assetid: 8d3d26ad-e01c-8ad4-d4f4-86e71628e2c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ApplyOutlineNumberDefault Method (Word)
+# ListFormat.ApplyOutlineNumberDefault method (Word)
 
 Adds the default outline-numbering scheme to the paragraphs in the range for the specified  **ListFormat** object.
 
 
 ## Syntax
 
- _expression_. `ApplyOutlineNumberDefault`( `_DefaultListBehavior_` )
+_expression_. `ApplyOutlineNumberDefault`( `_DefaultListBehavior_` )
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds the default outline-numbering scheme to the paragraphs in the range for the
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following constants:  **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
+| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following constants:  **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior**, but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
 
 ## Remarks
 
@@ -66,3 +67,4 @@ End If
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

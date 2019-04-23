@@ -3,6 +3,7 @@ title: Cannot jump to specified type because it is in the specified library, whi
 ms.prod: office
 ms.assetid: 96f01bf8-2575-4c6a-b223-12c0b1f21e53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ This error has the following causes and solutions:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

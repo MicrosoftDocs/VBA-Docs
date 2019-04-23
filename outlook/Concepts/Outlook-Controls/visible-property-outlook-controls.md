@@ -3,6 +3,7 @@ title: Visible Property (Outlook Controls)
 ms.prod: outlook
 ms.assetid: b5480264-b7ea-a064-1dd7-ca07b56660ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,4 +27,4 @@ Use the  **Visible** property to control access to information without displayin
 
 All controls are visible at design time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 04e63921-6a82-deef-f9e3-eaadcfdfdc44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -152,4 +153,4 @@ Private Sub DrawingControl1_MouseDown(ByVal Button As Long, ByVal KeyButtonState
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

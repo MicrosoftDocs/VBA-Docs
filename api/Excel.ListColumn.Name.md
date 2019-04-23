@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.Name
 ms.assetid: 0deb0687-b02a-f710-2331-58ec0e29dbe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the name of the list column.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The value of this property is also used as the display name of the list column. 
 
 [ListColumn Object](Excel.ListColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

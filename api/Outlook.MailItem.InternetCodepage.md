@@ -1,5 +1,5 @@
 ---
-title: MailItem.InternetCodepage Property (Outlook)
+title: MailItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1375
 f1_keywords:
 - vbaol11.chm1375
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.InternetCodepage
 ms.assetid: 09d80bb8-7677-d9b5-1585-c933af5a7b2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.InternetCodepage Property (Outlook)
+# MailItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 
 
 ## Syntax
 
- _expression_. `InternetCodepage`
+_expression_. `InternetCodepage`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -67,7 +68,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 |Western European (ISO)| iso-8859-1|28591|
 |Western European (Windows)|Windows-1252|1252|
 
-The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
+The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
 
 
@@ -92,7 +93,7 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the sender name of the current e-mail item if its Internet code page value is 1256. This value corresponds to the Internet code page value for Arabic text. 
+The following Microsoft Visual Basic for Applications (VBA) example displays the sender name of the current email item if its Internet code page value is 1256. This value corresponds to the Internet code page value for Arabic text. 
 
 
 ```vb
@@ -125,3 +126,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

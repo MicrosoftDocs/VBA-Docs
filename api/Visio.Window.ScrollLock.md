@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollLock Property (Visio)
+title: Window.ScrollLock property (Visio)
 keywords: vis_sdr.chm11651650
 f1_keywords:
 - vis_sdr.chm11651650
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.ScrollLock
 ms.assetid: 08459237-ff58-cd39-319f-60d7bb730487
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.ScrollLock Property (Visio)
+# Window.ScrollLock property (Visio)
 
 Determines whether scrolling is disabled in a Microsoft Visio window. Read/write.
 
 
 ## Syntax
 
- _expression_. `ScrollLock`
+_expression_. `ScrollLock`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -34,4 +35,4 @@ Scrolling (**False**) is the default Visio behavior. You can set the **ScrollLoc
 
 The  **ScrollLock** property setting is valid only for a given window at run time, and is not persisted (saved) in either the Visio document or the registry.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

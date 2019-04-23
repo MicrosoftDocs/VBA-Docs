@@ -5,6 +5,7 @@ api_name:
 - Visio.OnMarkupOverlaysVisibleChanged
 ms.assetid: 343f1bd6-07e1-06a0-c707-7b5ca6baa99c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnMarkupOverlaysVisibleChanged**(**_MarkupOverlaysVisible_**)
+_expression_.**OnMarkupOverlaysVisibleChanged**(**_MarkupOverlaysVisible_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -60,4 +61,4 @@ Private Sub vsoViewer_OnMarkupOverlaysVisibleChanged(ByVal MarkupOverlaysVisible
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

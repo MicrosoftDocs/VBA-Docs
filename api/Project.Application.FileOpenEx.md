@@ -1,5 +1,5 @@
 ---
-title: Application.FileOpenEx Method (Project)
+title: Application.FileOpenEx method (Project)
 keywords: vbapj.chm102
 f1_keywords:
 - vbapj.chm102
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FileOpenEx
 ms.assetid: d03c13b0-c12f-1d45-bb80-26711d69a378
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileOpenEx Method (Project)
+# Application.FileOpenEx method (Project)
 
 Opens a project or imports data.
 
 
 ## Syntax
 
-_expression_. **FileOpenEx** (**_Name_**, **_ReadOnly_**, **_Merge_**, **_TaskInformation_**, **_Table_**, **_Sheet_**, **_NoAuto_**, **_UserID_**, **_DatabasePassWord_**, **_FormatID_**, **_Map_**, **_openPool_**, **_Password_**, **_WriteResPassword_**, **_IgnoreReadOnlyRecommended_**, **_XMLName_**, **_DoNotLoadFromEnterprise_**)
+_expression_.**FileOpenEx** (**_Name_**, **_ReadOnly_**, **_Merge_**, **_TaskInformation_**, **_Table_**, **_Sheet_**, **_NoAuto_**, **_UserID_**, **_DatabasePassWord_**, **_FormatID_**, **_Map_**, **_openPool_**, **_Password_**, **_WriteResPassword_**, **_IgnoreReadOnlyRecommended_**, **_XMLName_**, **_DoNotLoadFromEnterprise_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -47,7 +48,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### Format strings
+### Format strings
 
 |**Format string**|**Description**|
 |:-----|:-----|
@@ -82,4 +83,4 @@ If you do not want to modify a project, set the _ReadOnly_ parameter to **True**
 
 The _Name_ parameter can contain a file name string or an ODBC data source name (DSN) and project name string. The syntax for a data source is <DataSourceName>\Projectname. The less than (<) and greater than (>) symbols must be included, and a backslash ( \ ) must separate the data source name from the project name. _DataSourceName_ itself can either be one of the ODBC data source names installed on the computer or a path and file name for a file-based database.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

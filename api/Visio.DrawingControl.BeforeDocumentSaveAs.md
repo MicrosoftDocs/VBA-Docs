@@ -1,14 +1,15 @@
 ---
-title: DrawingControl.BeforeDocumentSaveAs Event (Visio)
+title: DrawingControl.BeforeDocumentSaveAs event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeDocumentSaveAs
 ms.assetid: b8e673f2-2a52-0d8f-a860-82a70f7968f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl.BeforeDocumentSaveAs Event (Visio)
+# DrawingControl.BeforeDocumentSaveAs event (Visio)
 
 Occurs just before a document is saved by using the  **Save As** command.
 
@@ -51,4 +52,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 If you are handling this event from a program that receives a notification over a connection by using the  **AddAdvise** method, the _vMoreInfo_ argument to **VisEventProc** designates the document index: "/doc=1".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

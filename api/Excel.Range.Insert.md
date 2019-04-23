@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Insert
 ms.assetid: e612bbc8-3942-3349-f157-c0459805794a
 ms.date: 09/19/2018
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Inserts a cell or a range of cells into the worksheet or macro sheet and shifts 
 
 ## Syntax
 
-_expression_. `Insert`( `_Shift_` , `_CopyOrigin_` )
+_expression_.**Insert** (_Shift_, _CopyOrigin_)
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Range("2:2").Insert CopyOrigin:=xlFormatFromRightOrBelow
 
 - [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

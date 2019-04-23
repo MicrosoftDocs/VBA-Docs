@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevels.Count
 ms.assetid: 341c0047-2450-c268-e247-a339313de027
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the number of levels in the specified  **[SlicerCacheLevels](Excel.Slice
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that returns a [SlicerCacheLevels](./Excel.SlicerCacheLevels.md) object.
+_expression_ A variable that returns a [SlicerCacheLevels](Excel.SlicerCacheLevels.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the number of levels in the specified  **[SlicerCacheLevels](Excel.Slice
 
 [SlicerCacheLevels Object](Excel.SlicerCacheLevels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

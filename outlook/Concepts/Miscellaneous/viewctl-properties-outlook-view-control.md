@@ -3,6 +3,7 @@ title: ViewCtl Properties (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 36e0eb6f-7202-4ca0-a7a9-ca7edb063557
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,5 +39,5 @@ ms.date: 06/08/2017
 -  [ViewCtl.View Property (Outlook View Control)](../../../api/Outlook.viewctl.vi.md)
     
 -  [ViewCtl.ViewXML Property (Outlook View Control)](../../../api/Outlook.viewctl.viewx.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

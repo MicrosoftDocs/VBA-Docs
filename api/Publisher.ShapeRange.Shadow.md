@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Shadow Property (Publisher)
+title: ShapeRange.Shadow property (Publisher)
 keywords: vbapb10.chm2293832
 f1_keywords:
 - vbapb10.chm2293832
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Shadow
 ms.assetid: d6ee257c-9a26-abfc-9e8e-ef89bf627690
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Shadow Property (Publisher)
+# ShapeRange.Shadow property (Publisher)
 
 Returns a  **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
 
- _expression_. **Shadow**
+_expression_.**Shadow**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -39,4 +40,4 @@ Sub SetShapeShadow()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

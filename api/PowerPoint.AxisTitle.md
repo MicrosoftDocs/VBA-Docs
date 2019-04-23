@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Object (PowerPoint)
+title: AxisTitle object (PowerPoint)
 keywords: vbapp10.chm683000
 f1_keywords:
 - vbapp10.chm683000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AxisTitle
 ms.assetid: 8eddc95c-2353-43fa-c055-ee76de28009d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle Object (PowerPoint)
+# AxisTitle object (PowerPoint)
 
 Represents a chart axis title.
 
@@ -71,3 +72,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToPicas Method (Word)
+title: Application.PointsToPicas method (Word)
 keywords: vbawd10.chm158335359
 f1_keywords:
 - vbawd10.chm158335359
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.PointsToPicas
 ms.assetid: 35d3f08b-bc4f-b65c-8b57-816146b37c77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PointsToPicas Method (Word)
+# Application.PointsToPicas method (Word)
 
-Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. `PointsToPicas`( `_Points_` )
+_expression_. `PointsToPicas`( `_Points_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
@@ -78,3 +79,4 @@ End Function
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

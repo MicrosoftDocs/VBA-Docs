@@ -1,5 +1,5 @@
 ---
-title: OlMailingAddress Enumeration (Outlook)
+title: OlMailingAddress enumeration (Outlook)
 keywords: vbaol11.chm3066
 f1_keywords:
 - vbaol11.chm3066
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMailingAddress
 ms.assetid: 1a0822be-3c4c-f162-8ab7-12edb20a0949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMailingAddress Enumeration (Outlook)
+# OlMailingAddress enumeration (Outlook)
 
 Indicates the address to use as the mailing address.
 
@@ -26,6 +27,6 @@ Indicates the address to use as the mailing address.
 
 ## Remarks
 
-See [ContactItem.SelectedMailingAddress Property (Outlook)](Outlook.ContactItem.SelectedMailingAddress.md).
+See [ContactItem.SelectedMailingAddress property (Outlook)](Outlook.ContactItem.SelectedMailingAddress.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

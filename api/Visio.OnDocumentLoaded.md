@@ -5,6 +5,7 @@ api_name:
 - Visio.OnDocumentLoaded
 ms.assetid: e8e8af2e-ae79-052e-fb13-d7aee66e2d0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs after a document is loaded into Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnDocumentLoaded**
+_expression_.**OnDocumentLoaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -49,4 +50,4 @@ Private Sub vsoViewer_OnDocumentLoaded()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

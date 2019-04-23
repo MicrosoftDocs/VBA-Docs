@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatConditions.Application
 ms.assetid: 22ac56ea-bd8b-6482-c669-08630bc69031
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

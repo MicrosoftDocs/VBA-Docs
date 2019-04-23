@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.Image.TopPadding
 ms.assetid: fb248161-837d-e455-8d9e-4fb5d1a39d3b
-ms.date: 06/08/2017
+ms.date: 02/26/2019
+localization_priority: Normal
 ---
 
 
 # Image.TopPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the image control and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the image control and its top gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `TopPadding`
+_expression_.**TopPadding**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
-[Image Object](Access.Image.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

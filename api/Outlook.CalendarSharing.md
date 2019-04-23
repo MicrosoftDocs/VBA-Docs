@@ -1,5 +1,5 @@
 ---
-title: CalendarSharing Object (Outlook)
+title: CalendarSharing object (Outlook)
 keywords: vbaol11.chm3176
 f1_keywords:
 - vbaol11.chm3176
@@ -8,10 +8,11 @@ api_name:
 - Outlook.CalendarSharing
 ms.assetid: 37a8a15e-51c2-b1a0-7db6-cf2a1f4e8405
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarSharing Object (Outlook)
+# CalendarSharing object (Outlook)
 
 Represents a set of utilities for sharing calendar information.
 
@@ -176,7 +177,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)|
 |[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)|
@@ -185,7 +186,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.CalendarSharing.Application.md)|
 |[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)|
@@ -203,4 +204,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

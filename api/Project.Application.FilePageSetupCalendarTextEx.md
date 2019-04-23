@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupCalendarTextEx Method (Project)
+title: Application.FilePageSetupCalendarTextEx method (Project)
 keywords: vbapj.chm2162
 f1_keywords:
 - vbapj.chm2162
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupCalendarTextEx
 ms.assetid: 370cfaa4-4a7b-e40e-be9e-d562bf9947d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupCalendarTextEx Method (Project)
+# Application.FilePageSetupCalendarTextEx method (Project)
 
 Formats the text of calendar views for printing, where the text color can be a hexadecimal value.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupCalendarTextEx`( ` _Name_`, ` _Item_`, ` _Font_`, ` _Size_`, ` _Bold_`, ` _Italic_`, ` _Underline_`, ` _Color_` )
+_expression_. `FilePageSetupCalendarTextEx`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -59,7 +60,7 @@ The following example formats monthly titles in red for printing.
 ```vb
 Sub File_PageSetupCalendarText() 
  
-    'Activate the Calandar view. 
+    'Activate the Calendar view. 
     ViewApply Name:="&Calendar" 
  
     FilePageSetupCalendarTextEx Item:=pjMonthlyTitles, Color:=&0101FF 
@@ -67,4 +68,4 @@ Sub File_PageSetupCalendarText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

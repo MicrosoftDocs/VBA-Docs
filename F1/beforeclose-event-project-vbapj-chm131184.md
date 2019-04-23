@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8470e58a-d3f2-4566-858d-8182295105c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.Calculate Event (Project)](http://msdn.microsoft.com/library/cba7feb3-c0e4-96ec-d2fa-eaccfa640c5a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

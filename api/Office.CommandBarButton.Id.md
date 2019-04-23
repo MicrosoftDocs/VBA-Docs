@@ -1,36 +1,37 @@
 ---
-title: CommandBarButton.Id Property (Office)
+title: CommandBarButton.Id property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Id
 ms.assetid: d559a98c-b9b2-a987-c7af-278734a9545d
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarButton.Id Property (Office)
+# CommandBarButton.Id property (Office)
 
-Gets the ID for a built-in  **CommandBarButton** control. Read-only.
+Gets the ID for a built-in **CommandBarButton** control. Read-only.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Id`
+_expression_.**Id**
 
- _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ Required. A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
 
-A control's ID determines the built-in action for that control. The value of the  **Id** property for all custom controls is 1.
+A control's ID determines the built-in action for that control. The value of the **Id** property for all custom controls is 1.
 
 
 ## Example
 
-This example changes the button face of the first control on the command bar named "Custom2" if the button's ID value is less than 25.
+This example changes the button face of the first control on the command bar named **Custom2** if the button's ID value is less than 25.
 
 
 ```vb
@@ -43,9 +44,9 @@ With ctrl
 End With
 ```
 
-The following example changes the caption of every control on the toolbar named "Standard" to the current value of the  **Id** property for that control.
+<br/>
 
-
+The following example changes the caption of every control on the toolbar named **Standard** to the current value of the **Id** property for that control.
 
 
 ```vb
@@ -57,10 +58,6 @@ Next ctl
 
 ## See also
 
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

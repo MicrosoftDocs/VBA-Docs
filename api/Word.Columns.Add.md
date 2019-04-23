@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (Word)
+title: Columns.Add method (Word)
 keywords: vbawd10.chm155910149
 f1_keywords:
 - vbawd10.chm155910149
@@ -8,19 +8,20 @@ api_name:
 - Word.Columns.Add
 ms.assetid: b93aa859-e0f1-b8b1-a9d7-766f7f1f528c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Add Method (Word)
+# Columns.Add method (Word)
 
 Returns a  **Column** object that represents a column added to a table.
 
 
 ## Syntax
 
- _expression_. `Add`( `_BeforeColumn_` )
+_expression_.**Add**( `_BeforeColumn_` )
 
- _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
+_expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ End Sub
 
 [Columns Collection Object](Word.columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: UserProperty.ValidationText Property (Outlook)
+title: UserProperty.ValidationText property (Outlook)
 keywords: vbaol11.chm221
 f1_keywords:
 - vbaol11.chm221
@@ -8,24 +8,25 @@ api_name:
 - Outlook.UserProperty.ValidationText
 ms.assetid: f2defd65-2c48-a24a-8cdc-a05b752cde53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperty.ValidationText Property (Outlook)
+# UserProperty.ValidationText property (Outlook)
 
 Returns or sets a  **String** specifying the validation text for the specified user property. Read/write.
 
 
 ## Syntax
 
- _expression_. `ValidationText`
+_expression_.**ValidationText**
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## Remarks
 
-The validation text is the error message that a user receives when the  **[Value](Outlook.UserProperty.Value.md)** does not meet the criteria specified in **[ValidationFormula](Outlook.UserProperty.ValidationFormula.md)** .
+The validation text is the error message that a user receives when the  **[Value](Outlook.UserProperty.Value.md)** does not meet the criteria specified in **[ValidationFormula](Outlook.UserProperty.ValidationFormula.md)**.
 
 
 ## Example
@@ -77,3 +78,4 @@ End Sub
 
 [UserProperty Object](Outlook.UserProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

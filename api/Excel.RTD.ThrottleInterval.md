@@ -8,6 +8,7 @@ api_name:
 - Excel.RTD.ThrottleInterval
 ms.assetid: ae3a5561-e880-b5ee-763c-f38f887bc2a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Long** indicating the time interval between updates. Read/w
 
 ## Syntax
 
- _expression_. `ThrottleInterval`
+_expression_. `ThrottleInterval`
 
- _expression_ A variable that represents a [RTD](Excel.RTD.md) object.
+_expression_ A variable that represents a [RTD](Excel.RTD.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The default value is 2000 milliseconds. If this value is changed, the new value 
 
 [RTD Object](Excel.RTD.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

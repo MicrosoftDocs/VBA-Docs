@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.BuildByLevelEffect Property (PowerPoint)
+title: EffectInformation.BuildByLevelEffect property (PowerPoint)
 keywords: vbapp10.chm655006
 f1_keywords:
 - vbapp10.chm655006
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.EffectInformation.BuildByLevelEffect
 ms.assetid: b839394f-1b58-4e12-9f55-38547cfd9bc1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectInformation.BuildByLevelEffect Property (PowerPoint)
+# EffectInformation.BuildByLevelEffect property (PowerPoint)
 
 Determines the level of the animation build effect. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuildByLevelEffect`
+_expression_. `BuildByLevelEffect`
 
- _expression_ A variable that represents a [EffectInformation](./PowerPoint.EffectInformation.md) object.
+_expression_ A variable that represents a [EffectInformation](./PowerPoint.EffectInformation.md) object.
 
 
 ## Return value
@@ -93,3 +94,4 @@ End Sub
 
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

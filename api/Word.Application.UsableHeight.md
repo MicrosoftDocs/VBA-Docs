@@ -1,5 +1,5 @@
 ---
-title: Application.UsableHeight Property (Word)
+title: Application.UsableHeight property (Word)
 keywords: vbawd10.chm158335010
 f1_keywords:
 - vbawd10.chm158335010
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.UsableHeight
 ms.assetid: 9723b59d-c5fe-8f39-8f0c-bdd209b7ae9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UsableHeight Property (Word)
+# Application.UsableHeight property (Word)
 
-Returns the maximum height (in points) to which you can set the height of a Microsoft Word document window. Read-only  **Long** .
+Returns the maximum height (in points) to which you can set the height of a Microsoft Word document window. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `UsableHeight`
+_expression_. `UsableHeight`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -58,3 +59,4 @@ End With
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

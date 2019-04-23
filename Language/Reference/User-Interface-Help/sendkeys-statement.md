@@ -1,11 +1,12 @@
 ---
-title: SendKeys statement
+title: SendKeys statement (VBA)
 keywords: vblr6.chm1009015
 f1_keywords:
 - vblr6.chm1009015
 ms.prod: office
 ms.assetid: 8da3e83d-333a-444f-a660-917350fe2bc6
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
@@ -15,18 +16,20 @@ Sends one or more keystrokes to the active window as if typed at the keyboard.
 
 ## Syntax
 
-**SendKeys** **_string_**, [ **_wait_** ]
+**SendKeys** _string_, [ _wait_ ]
+
+<br/>
 
 The **SendKeys** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) specifying the keystrokes to send.|
-|**_Wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value specifying the wait mode. If **False** (default), control is returned to the [procedure](../../Glossary/vbe-glossary.md#procedure) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|
+|_string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) specifying the keystrokes to send.|
+|_wait_|Optional. [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value specifying the wait mode. If **False** (default), control is returned to the [procedure](../../Glossary/vbe-glossary.md#procedure) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|
 
 ## Remarks
 
-Each key is represented by one or more characters. To specify a single keyboard character, use the character itself. For example, to represent the letter A, use `"A"` for **_string_**. To represent more than one character, append each additional character to the one preceding it. To represent the letters A, B, and C, use `"ABC"` for **_string_**.
+Each key is represented by one or more characters. To specify a single keyboard character, use the character itself. For example, to represent the letter A, use `"A"` for _string_. To represent more than one character, append each additional character to the one preceding it. To represent the letters A, B, and C, use `"ABC"` for _string_.
 
 The plus sign (**+**), caret (**^**), percent sign (**%**), tilde (**~**), and parentheses **( )** have special meanings to **SendKeys**. To specify one of these characters, enclose it within braces (`{}`). For example, to specify the plus sign, use `{+}`. 
 
@@ -36,17 +39,17 @@ To specify characters that aren't displayed when you press a key, such as ENTER 
 
 |Key|Code|
 |:-----|:-----|
-|BACKSPACE| `{BACKSPACE}, {BS}, or{BKSP}`|
+|BACKSPACE| `{BACKSPACE}`, `{BS}`, or `{BKSP}`|
 |BREAK| `{BREAK}`|
 |CAPS LOCK| `{CAPSLOCK}`|
-|DEL or DELETE| `{DELETE} or{DEL}`|
+|DEL or DELETE| `{DELETE}` or `{DEL}`|
 |DOWN ARROW| `{DOWN}`|
 |END| `{END}`|
-|ENTER| `{ENTER} or ~`|
+|ENTER| `{ENTER}` or `~`|
 |ESC| `{ESC}`|
 |HELP| `{HELP}`|
 |HOME| `{HOME}`|
-|INS or INSERT| `{INSERT} or {INS}`|
+|INS or INSERT| `{INSERT}` or `{INS}`|
 |LEFT ARROW| `{LEFT}`|
 |NUM LOCK| `{NUMLOCK}`|
 |PAGE DOWN| `{PGDN}`|
@@ -83,7 +86,7 @@ To specify keys combined with any combination of the SHIFT, CTRL, and ALT keys, 
 |CTRL| `^`|
 |ALT| `%`|
 
-To specify that any combination of SHIFT, CTRL, and ALT should be held down while several other keys are pressed, enclose the code for those keys in parentheses. For example, to specify to hold down SHIFT while E and C are pressed, use " `+(EC)`".
+To specify that any combination of SHIFT, CTRL, and ALT should be held down while several other keys are pressed, enclose the code for those keys in parentheses. For example, to specify to hold down SHIFT while E and C are pressed, use `+(EC)`.
 
 To specify repeating keys, use the form `{key number}`. You must put a space between `key` and `number`. For example, `{LEFT 42}` means press the LEFT ARROW key 42 times; `{h 10}` means press H 10 times.
 
@@ -93,7 +96,7 @@ To specify repeating keys, use the form `{key number}`. You must put a space bet
 
 ## Example
 
-This example uses the **Shell** function to run the Calculator application included with Microsoft Windows. It uses the **SendKeys** statement to send keystrokes to add some numbers, and then quit the Calculator. (To see the example, paste it into a procedure, and then run the procedure. Because **AppActivate** changes the focus to the Calculator application, you can't single step through the code.) 
+This example uses the **Shell** function to run the Calculator application included with Microsoft Windows. It uses the **SendKeys** statement to send keystrokes to add some numbers and then quit the Calculator. (To see the example, paste it into a procedure, and then run the procedure. Because **AppActivate** changes the focus to the Calculator application, you can't single step through the code.) 
 
 On the Macintosh, use a Macintosh application that accepts keyboard input instead of the Windows Calculator.
 
@@ -110,4 +113,9 @@ SendKeys "%{F4}", True    ' Send ALT+F4 to close Calculator.
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

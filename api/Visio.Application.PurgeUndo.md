@@ -1,5 +1,5 @@
 ---
-title: Application.PurgeUndo Method (Visio)
+title: Application.PurgeUndo method (Visio)
 keywords: vis_sdr.chm10016450
 f1_keywords:
 - vis_sdr.chm10016450
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.PurgeUndo
 ms.assetid: d5d18607-2b1d-6b47-2a81-43345ff0be8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PurgeUndo Method (Visio)
+# Application.PurgeUndo method (Visio)
 
 Empties the Microsoft Visio queue of undo actions.
 
 
 ## Syntax
 
- _expression_. `PurgeUndo`
+_expression_. `PurgeUndo`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -47,4 +48,4 @@ Public Sub PurgeUndo_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

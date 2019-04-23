@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Signatures
 ms.assetid: b45f8036-c2d7-6113-e95c-ff78ee6a1f46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the digital signatures for a workbook. Read-only.
 
 ## Syntax
 
- _expression_. `Signatures`
+_expression_. `Signatures`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

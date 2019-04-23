@@ -1,22 +1,23 @@
 ---
-title: Application.ProjectSummaryInfoEx Method (Project)
+title: Application.ProjectSummaryInfoEx method (Project)
 keywords: vbapj.chm634
 f1_keywords:
 - vbapj.chm634
 ms.assetid: 2827f735-6a7b-9f33-c1c6-2c5f1f7492f6
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 
-# Application.ProjectSummaryInfoEx Method (Project)
+# Application.ProjectSummaryInfoEx method (Project)
 
 Returns information about project summary, including the Project Utilization type and Project Utilization date information. Introduced in Office 2016.
 
 
 ## Syntax
 
- _expression_. `ProjectSummaryInfoEx`( _Project_,  _Project_,  _Title_,  _Subject_,  _Author_,  _Company_,  _Manager_,  _Keywords_,  _Comments_,  _Start_,  _Finish_,  _ScheduleFrom_,  _CurrentDate_,  _Calendar_,  _StatusDate_,  _Priority_,  _UtilizationType_,  _UtilizationDate_,  _PartiallyDisabled_)
+_expression_. `ProjectSummaryInfoEx`( _Project_,  _Project_,  _Title_,  _Subject_,  _Author_,  _Company_,  _Manager_,  _Keywords_,  _Comments_,  _Start_,  _Finish_,  _ScheduleFrom_,  _CurrentDate_,  _Calendar_,  _StatusDate_,  _Priority_,  _UtilizationType_,  _UtilizationDate_,  _PartiallyDisabled_)
 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Returns information about project summary, including the Project Utilization typ
 
 Using the  **ProjectSummaryInfoEx** method with no arguments displays the **Project Information** dialog box
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

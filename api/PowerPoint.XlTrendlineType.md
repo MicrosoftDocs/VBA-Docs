@@ -1,16 +1,17 @@
 ---
-title: xlTrendlineType Enumeration (PowerPoint)
+title: XlTrendlineType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTrendlineType
 ms.assetid: c0a39c74-2df1-9816-0daf-3fce481a2241
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlTrendlineType Enumeration (PowerPoint)
+# XlTrendlineType enumeration (PowerPoint)
 
-Specifies how the trendline that smoothes out fluctuations in the data is calculated.
+Specifies how the trendline that smooths out fluctuations in the data is calculated.
 
 
 
@@ -23,3 +24,4 @@ Specifies how the trendline that smoothes out fluctuations in the data is calcul
 |**xlPolynomial**|3|Uses an equation to calculate the least squares fit through points (for example, y = ax^6 + bx^5 + cx^4 + dx^3 + ex^2 + fx + g).|
 |**xlPower**|4|Uses an equation to calculate the least squares fit through points (for example, y = ax^b).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

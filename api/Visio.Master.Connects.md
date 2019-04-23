@@ -1,5 +1,5 @@
 ---
-title: Master.Connects Property (Visio)
+title: Master.Connects property (Visio)
 keywords: vis_sdr.chm10713290
 f1_keywords:
 - vis_sdr.chm10713290
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Connects
 ms.assetid: 72c01ae0-9134-d384-b860-dbb333a498fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Connects Property (Visio)
+# Master.Connects property (Visio)
 
 Returns a  **Connects** collection for a shape, page, or master. Read-only.
 
 
 ## Syntax
 
- _expression_. `Connects`
+_expression_. `Connects`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -38,4 +39,4 @@ The  **Connects** collection of a page contains a **Connect** object for every c
 
 The  **Connects** collection of a master contains a **Connect** object for every connection in the master.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

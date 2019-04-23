@@ -1,5 +1,5 @@
 ---
-title: IconSets Object (Excel)
+title: IconSets object (Excel)
 keywords: vbaxl10.chm819072
 f1_keywords:
 - vbaxl10.chm819072
@@ -7,24 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.IconSets
 ms.assetid: 2197741e-8139-0098-d194-610fa28fa6c8
-ms.date: 06/08/2017
+ms.date: 03/30/2019
+localization_priority: Normal
 ---
 
 
-# IconSets Object (Excel)
+# IconSets object (Excel)
 
-Represents a collection of icon sets used in an icon set conditional formatting rule.
+Represents a collection of [icon sets](excel.iconset.md) used in an icon set conditional formatting rule.
 
 
 ## Remarks
 
-The icon set for the conditional format is assigned using the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **[IconSetCondition](Excel.IconSetCondition.md)** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[XlIconSet](Excel.XlIconSet.md)** enumeration as an index of the **[IconSets](Excel.Workbook.IconSets.md)** property of the **[Workbook](Excel.Workbook.md)** object. See the example for details.
+The icon set for the conditional format is assigned by using the **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconSetCondition** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[XlIconSet](Excel.XlIconSet.md)** enumeration as an index of the **[IconSets](Excel.Workbook.IconSets.md)** property of the **Workbook** object. See the example for details.
 
 
 ## Example
 
-The following code example creates a range of numbers representing test scores and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a five-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
-
+The following code example creates a range of numbers representing test scores, and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a five-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
 
 ```vb
 Sub CreateIconSetCF() 
@@ -87,10 +87,16 @@ Sub CreateIconSetCF()
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.IconSets.Application.md)
+- [Count](Excel.IconSets.Count.md)
+- [Creator](Excel.IconSets.Creator.md)
+- [Item](Excel.IconSets.Item.md)
+- [Parent](Excel.IconSets.Parent.md)
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

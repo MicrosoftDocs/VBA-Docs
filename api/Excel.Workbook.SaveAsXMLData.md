@@ -1,5 +1,5 @@
 ---
-title: Workbook.SaveAsXMLData Method (Excel)
+title: Workbook.SaveAsXMLData method (Excel)
 keywords: vbaxl10.chm199232
 f1_keywords:
 - vbaxl10.chm199232
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.SaveAsXMLData
 ms.assetid: 7c4c1be3-d3a5-6e90-7750-9f371f008541
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.SaveAsXMLData Method (Excel)
+# Workbook.SaveAsXMLData method (Excel)
 
 Exports the data that has been mapped to the specified XML schema map to an XML data file.
 
 
 ## Syntax
 
- _expression_. `SaveAsXMLData`( `_Filename_` , `_Map_` )
+_expression_. `SaveAsXMLData`( `_FileName_` , `_Map_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Exports the data that has been mapped to the specified XML schema map to an XML 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
+| _FileName_|Required| **String**|A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply to the data.|
 
 ## Remarks
@@ -64,3 +65,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

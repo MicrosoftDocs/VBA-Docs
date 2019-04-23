@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FieldNames Property (Word)
+title: MailMergeDataSource.FieldNames property (Word)
 keywords: vbawd10.chm152895498
 f1_keywords:
 - vbawd10.chm152895498
@@ -8,17 +8,18 @@ api_name:
 - Word.MailMergeDataSource.FieldNames
 ms.assetid: 3e88ee90-c44e-1dbb-dcfd-6ea99cbb1c2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.FieldNames Property (Word)
+# MailMergeDataSource.FieldNames property (Word)
 
 Returns a  **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax
 
- _expression_. `FieldNames`
+_expression_. `FieldNames`
 
  _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
@@ -68,3 +69,4 @@ Next mmfnLoop
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

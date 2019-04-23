@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Imaginary Method (Excel)
+title: WorksheetFunction.Imaginary method (Excel)
 keywords: vbaxl10.chm137286
 f1_keywords:
 - vbaxl10.chm137286
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Imaginary
 ms.assetid: 4699b454-7bdd-42d3-b363-a7a07341de3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Imaginary Method (Excel)
+# WorksheetFunction.Imaginary method (Excel)
 
 Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `Imaginary`( `_Arg1_` )
+_expression_. `Imaginary`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -49,3 +50,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

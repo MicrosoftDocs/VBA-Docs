@@ -1,21 +1,22 @@
 ---
-title: Application.FieldConstantToFieldName Method (Project)
+title: Application.FieldConstantToFieldName method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.FieldConstantToFieldName
 ms.assetid: b8e55035-64e8-fda5-4ad6-9f5e51a55181
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FieldConstantToFieldName Method (Project)
+# Application.FieldConstantToFieldName method (Project)
 
 Returns a custom field name for the specified field constant.
 
 
 ## Syntax
 
- _expression_. `FieldConstantToFieldName`( ` _Field_` )
+_expression_. `FieldConstantToFieldName`( `_Field_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -118,4 +119,4 @@ Sub TryNewTaskConstants()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

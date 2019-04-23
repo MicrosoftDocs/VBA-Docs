@@ -1,5 +1,5 @@
 ---
-title: DisplayUnit Property
+title: DisplayUnit property (Excel Graph)
 keywords: vbagr10.chm3077025
 f1_keywords:
 - vbagr10.chm3077025
@@ -7,30 +7,20 @@ ms.prod: excel
 api_name:
 - Excel.DisplayUnit
 ms.assetid: c86b932e-6314-068f-f06e-4f35ead883d4
-ms.date: 06/08/2017
+ms.date: 04/10/2019
+localization_priority: Normal
 ---
 
 
-# DisplayUnit Property
+# DisplayUnit property (Excel Graph)
 
-Returns or sets the units displayed for the value axis in the specified chart. If the value is xlCustom, the DisplayUnitCustom property returns or sets the value of the units displayed for the value axis. Read/write XlDisplayUnit .
+Returns or sets the units displayed for the value axis in the specified chart. If the value is **xlCustom**, the **[DisplayUnitCustom](excel.displayunitcustom.md)** property returns or sets the value of the units displayed for the value axis. Read/write **[XlDisplayUnit](excel.xldisplayunit.md)**.
 
+## Syntax
 
+_expression_.**DisplayUnit**
 
-|XlDisplayUnit can be one of these XlDisplayUnit constants.|
-| **xlHundredMillions**|
-| **xlHundreds**|
-| **xlHundredThousands**|
-| **xlMillionMillions**|
-| **xlMillions**|
-| **xlTenMillions**|
-| **xlTenThousands**|
-| **xlThousandMillions**|
-| **xlThousands**|
-
- _expression_. `DisplayUnit`
-
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+_expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 
@@ -39,8 +29,7 @@ Using unit labels for the value axis when charting large values makes the increm
 
 ## Example
 
-This example sets the units displayed on the value axis in myChart to hundreds.
-
+This example sets the units displayed on the value axis in _myChart_ to hundreds.
 
 ```vb
 With myChart.Axes(xlValue) 
@@ -50,4 +39,4 @@ With myChart.Axes(xlValue)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

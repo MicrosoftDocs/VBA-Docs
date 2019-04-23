@@ -1,21 +1,22 @@
 ---
-title: Resource.TimeScaleData Method (Project)
+title: Resource.TimeScaleData method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.TimeScaleData
 ms.assetid: 51649bc3-8224-15cd-dc9b-af37a1cc4d8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.TimeScaleData Method (Project)
+# Resource.TimeScaleData method (Project)
 
 Sets options for displaying timephased data for the resource.
 
 
 ## Syntax
 
- _expression_. `TimeScaleData`( ` _StartDate_`, ` _EndDate_`, ` _Type_`, ` _TimeScaleUnit_`, ` _Count_` )
+_expression_. `TimeScaleData`( `_StartDate_`, `_EndDate_`, `_Type_`, `_TimeScaleUnit_`, `_Count_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -36,4 +37,4 @@ Sets options for displaying timephased data for the resource.
 
  **TimeScaleValues**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

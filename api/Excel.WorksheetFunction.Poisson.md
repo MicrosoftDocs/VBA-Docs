@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Poisson Method (Excel)
+title: WorksheetFunction.Poisson method (Excel)
 keywords: vbaxl10.chm137204
 f1_keywords:
 - vbaxl10.chm137204
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Poisson
 ms.assetid: a0c811b7-30e3-b50f-fb81-7553bb322ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Poisson Method (Excel)
+# WorksheetFunction.Poisson method (Excel)
 
 Returns the Poisson distribution. A common application of the Poisson distribution is predicting the number of events over a specific time, such as the number of cars arriving at a toll plaza in 1 minute.
 
@@ -26,9 +27,9 @@ For more information about the new function, see the [Poisson_Dist](Excel.Worksh
 
 ## Syntax
 
- _expression_. `Poisson`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Poisson`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 42751e7b-2eac-a1c2-d476-80b97d41d8f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **String** that specifies the name of an object. Read/write.
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ For objects, the default value of  **Name** consists of the object's class name 
 
 You can set the  **Name** property for a control from the control's property sheet or, for controls added at run time, by using program statements. If you add a control at design time, you cannot modify its **Name** property at run time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

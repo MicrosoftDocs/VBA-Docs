@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks Object (PowerPoint)
+title: Hyperlinks object (PowerPoint)
 keywords: vbapp10.chm525000
 f1_keywords:
 - vbapp10.chm525000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Hyperlinks
 ms.assetid: 33a3fe49-6302-0f53-22f6-b8b1594d5d57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlinks Object (PowerPoint)
+# Hyperlinks object (PowerPoint)
 
 A collection of all the  **[Hyperlink](PowerPoint.Hyperlink.md)** objects on a slide or master.
 
@@ -54,3 +55,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

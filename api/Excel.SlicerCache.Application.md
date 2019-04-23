@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.Application
 ms.assetid: a255b34e-8ba2-db68-ae12-52e9cd20cf53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

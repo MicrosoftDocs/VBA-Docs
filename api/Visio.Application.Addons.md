@@ -1,5 +1,5 @@
 ---
-title: Application.Addons Property (Visio)
+title: Application.Addons property (Visio)
 keywords: vis_sdr.chm10013060
 f1_keywords:
 - vis_sdr.chm10013060
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Addons
 ms.assetid: c0d9731e-124f-b308-4c84-a14e0b82ff00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Addons Property (Visio)
+# Application.Addons property (Visio)
 
 Returns the  **Addons** collection of an **Application** or **InvisibleApp** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Addons`
+_expression_. `Addons`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -56,4 +57,4 @@ Public Sub Addons_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

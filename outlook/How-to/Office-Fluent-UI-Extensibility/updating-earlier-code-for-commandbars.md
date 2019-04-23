@@ -3,6 +3,7 @@ title: Updating Earlier Code for CommandBars
 ms.prod: outlook
 ms.assetid: 58bc6957-fa1e-72ac-1836-a2a411e089c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,3 +36,4 @@ Consistent with the deprecation of command bars in the explorer and inspector wi
 
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

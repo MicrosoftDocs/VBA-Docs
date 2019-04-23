@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.Module.InsertLines
 ms.assetid: 54ea5ce3-fb2a-e9c7-85ef-8861141f63ec
-ms.date: 06/08/2017
+ms.date: 03/22/2019
+localization_priority: Normal
 ---
 
 
 # Module.InsertLines method (Access)
 
-The  **InsertLines** method inserts a line or group of lines of code in a standard module or a class module.
+The **InsertLines** method inserts a line or group of lines of code in a standard module or a class module.
 
 
 ## Syntax
 
-_expression_. `InsertLines`( ` _Line_`, ` _String_` )
+_expression_.**InsertLines** (_Line_, _String_)
 
-_expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,17 +38,16 @@ Nothing
 
 ## Remarks
 
-To add multiple lines, include the intrinsic constant **vbCrLf** at the desired line breaks within the string that makes up the _string_ argument. This constant forces a carriage return and line feed.
+To add multiple lines, include the intrinsic constant **vbCrLf** at the desired line breaks within the string that makes up the _String_ argument. This constant forces a carriage return and line feed.
 
-When you use the  **InsertLines** method, any existing code at the line specified by the _line_ argument moves down.
+When you use the **InsertLines** method, any existing code at the line specified by the _Line_ argument moves down.
 
-Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the  **[CountOfLines](Access.Module.CountOfLines.md)** property.
+Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the **[CountOfLines](Access.Module.CountOfLines.md)** property.
 
 
 ## Example
 
-The following example creates a new form, adds a command button, and creates a Click event procedure for the command button:
-
+The following example creates a new form, adds a command button, and creates a **Click** event procedure for the command button.
 
 ```vb
 Function ClickEventProc() As Boolean 
@@ -82,8 +80,6 @@ End Function
 ```
 
 
-## See also
 
 
-[Module Object](Access.Module.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

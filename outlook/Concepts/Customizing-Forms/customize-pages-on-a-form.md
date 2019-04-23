@@ -3,12 +3,13 @@ title: Customize Pages on a Form
 ms.prod: outlook
 ms.assetid: fb76c965-22b7-c399-fc07-b20143ab3e11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Customize Pages on a Form
 
-In general, you can customize up to five pages on a form. For e-mail messages and posts, you can customize a sixth page, the  **Message** page; for contacts, you can customize the **General** page. You can also customize forms by using form regions. For a side-by-side comparison of both options, see [Customizing Form Pages and Form Regions](../Forms/customizing-form-pages-and-form-regions.md).
+In general, you can customize up to five pages on a form. For email messages and posts, you can customize a sixth page, the  **Message** page; for contacts, you can customize the **General** page. You can also customize forms by using form regions. For a side-by-side comparison of both options, see [Customizing Form Pages and Form Regions](../Forms/customizing-form-pages-and-form-regions.md).
 
 
 ## Forms customized with form regions
@@ -30,6 +31,6 @@ In the Forms Designer, do the following:
 4.  [Add and remove controls](../Specifying-Form-Behavior/add-or-remove-controls-on-a-form.md).
     
 
- **Tip**  
+ **Tip**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

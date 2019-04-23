@@ -1,5 +1,5 @@
 ---
-title: OlkCategory.MouseUp Event (Outlook)
+title: OlkCategory.MouseUp event (Outlook)
 keywords: vbaol11.chm1000453
 f1_keywords:
 - vbaol11.chm1000453
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCategory.MouseUp
 ms.assetid: 9fdd7eba-d5fe-f239-b658-26f425632440
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCategory.MouseUp Event (Outlook)
+# OlkCategory.MouseUp event (Outlook)
 
 Occurs after the user releases a mouse button that has been pressed on the control.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseUp** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](Outlook.OlkCategory.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

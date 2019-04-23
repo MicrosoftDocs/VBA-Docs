@@ -1,5 +1,5 @@
 ---
-title: ColorSchemes.Application Property (PowerPoint)
+title: ColorSchemes.Application property (PowerPoint)
 keywords: vbapp10.chm536001
 f1_keywords:
 - vbapp10.chm536001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorSchemes.Application
 ms.assetid: 8c9a82e1-7d06-2f7e-d782-2f9f4fc867a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorSchemes.Application Property (PowerPoint)
+# ColorSchemes.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [ColorSchemes](./PowerPoint.ColorSchemes.md) object.
+_expression_ A variable that represents a [ColorSchemes](./PowerPoint.ColorSchemes.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [ColorSchemes Object](PowerPoint.ColorSchemes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

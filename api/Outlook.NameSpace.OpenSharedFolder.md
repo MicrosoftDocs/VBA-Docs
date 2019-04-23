@@ -1,5 +1,5 @@
 ---
-title: NameSpace.OpenSharedFolder Method (Outlook)
+title: NameSpace.OpenSharedFolder method (Outlook)
 keywords: vbaol11.chm788
 f1_keywords:
 - vbaol11.chm788
@@ -8,19 +8,20 @@ api_name:
 - Outlook.NameSpace.OpenSharedFolder
 ms.assetid: 907efeab-8a37-98a6-f241-0a051f03f472
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.OpenSharedFolder Method (Outlook)
+# NameSpace.OpenSharedFolder method (Outlook)
 
 Opens a shared folder referenced through a URL or file name.
 
 
 ## Syntax
 
- _expression_. `OpenSharedFolder`( `_Path_` , `_Name_` , `_DownloadAttachments_` , `_UseTTL_` )
+_expression_. `OpenSharedFolder`( `_Path_` , `_Name_` , `_DownloadAttachments_` , `_UseTTL_` )
 
- _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
+ _expression_ An expression that returns a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
@@ -119,3 +120,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

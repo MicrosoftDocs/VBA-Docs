@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Validation
 ms.assetid: d1cad7e6-bbfa-e280-33e7-048733efc0bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[Validation](Excel.Validation.md)** object that represents data v
 
 ## Syntax
 
- _expression_. `Validation`
+_expression_. `Validation`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Range("e5").Validation.IgnoreBlank = True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

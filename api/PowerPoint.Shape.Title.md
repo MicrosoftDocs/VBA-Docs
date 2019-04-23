@@ -1,5 +1,5 @@
 ---
-title: Shape.Title Property (PowerPoint)
+title: Shape.Title property (PowerPoint)
 keywords: vbapp10.chm547088
 f1_keywords:
 - vbapp10.chm547088
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Title
 ms.assetid: fc675bc2-0af9-3f72-9b37-fabd586bbb2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Title Property (PowerPoint)
+# Shape.Title property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the slide title. Read-only.
 
 
 ## Syntax
 
- _expression_. `Title`
+_expression_.**Title**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -30,7 +31,7 @@ You can also use the  **[Item](PowerPoint.Placeholders.Item.md)** method of the 
 
 ## Example
 
-The following example sets the title text on  `myDocument`.
+The following example sets the title text on  _myDocument_.
 
 
 ```vb
@@ -45,3 +46,4 @@ myDocument.Shapes.Title.TextFrame.TextRange.Text = "Welcome!"
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

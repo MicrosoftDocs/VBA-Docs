@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowOpen Event (Word)
+title: Application.ProtectedViewWindowOpen event (Word)
 keywords: vbawd10.chm4000030
 f1_keywords:
 - vbawd10.chm4000030
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.ProtectedViewWindowOpen
 ms.assetid: 42126a64-0227-d006-760e-ec11c59ef533
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowOpen Event (Word)
+# Application.ProtectedViewWindowOpen event (Word)
 
 Occurs when a protected view window is opened.
 
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowOpen`( `_PvWindow_` , )
+_expression_. `ProtectedViewWindowOpen`( `_PvWindow_` , )
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
@@ -56,3 +57,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

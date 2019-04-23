@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotSelect Method (Excel)
+title: PivotTable.PivotSelect method (Excel)
 keywords: vbaxl10.chm235137
 f1_keywords:
 - vbaxl10.chm235137
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.PivotSelect
 ms.assetid: e9beda74-c022-3ba7-b3af-d607024846f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotTable.PivotSelect Method (Excel)
+# PivotTable.PivotSelect method (Excel)
 
 Selects part of a PivotTable report.
 
 
 ## Syntax
 
- _expression_. `PivotSelect`( `_Name_` , `_Mode_` , `_UseStandardName_` )
+_expression_. `PivotSelect`( `_Name_` , `_Mode_` , `_UseStandardName_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Worksheets(1).PivotTables(1).PivotSelect "date[All]", xlLabelOnly
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MouseDown Event (Outlook)
+title: OlkBusinessCardControl.MouseDown event (Outlook)
 keywords: vbaol11.chm1000330
 f1_keywords:
 - vbaol11.chm1000330
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkBusinessCardControl.MouseDown
 ms.assetid: 24f259e0-911e-0a45-504b-acb759c5168f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MouseDown Event (Outlook)
+# OlkBusinessCardControl.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkBusinessCardControl](./Outlook.OlkBusinessCardControl.md) object.
+_expression_ A variable that represents an [OlkBusinessCardControl](Outlook.OlkBusinessCardControl.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkBusinessCardControl Object](Outlook.OlkBusinessCardControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

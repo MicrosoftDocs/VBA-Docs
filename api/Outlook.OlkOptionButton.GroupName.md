@@ -1,5 +1,5 @@
 ---
-title: OlkOptionButton.GroupName Property (Outlook)
+title: OlkOptionButton.GroupName property (Outlook)
 keywords: vbaol11.chm1000172
 f1_keywords:
 - vbaol11.chm1000172
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkOptionButton.GroupName
 ms.assetid: 10d091d7-4dae-fa13-abca-424ae27cafa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkOptionButton.GroupName Property (Outlook)
+# OlkOptionButton.GroupName property (Outlook)
 
 Returns or sets a  **String** that identifies a group of mutually exclusive option button controls. Read/write.
 
 
 ## Syntax
 
- _expression_. `GroupName`
+_expression_. `GroupName`
 
- _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The default value is an empty string.
 
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

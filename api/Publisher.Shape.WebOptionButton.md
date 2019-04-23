@@ -1,5 +1,5 @@
 ---
-title: Shape.WebOptionButton Property (Publisher)
+title: Shape.WebOptionButton property (Publisher)
 keywords: vbapb10.chm2228343
 f1_keywords:
 - vbapb10.chm2228343
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.WebOptionButton
 ms.assetid: 0c43387c-0cb6-5d6f-68cb-d1883ce17243
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.WebOptionButton Property (Publisher)
+# Shape.WebOptionButton property (Publisher)
 
 Returns the  **[WebOptionButton](Publisher.WebOptionButton.md)** object associated with the specified shape.
 
 
 ## Syntax
 
- _expression_. **WebOptionButton**
+_expression_.**WebOptionButton**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -46,4 +47,4 @@ Set wobTemp = shpNew.WebOptionButton
 wobTemp.Selected = msoTrue
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

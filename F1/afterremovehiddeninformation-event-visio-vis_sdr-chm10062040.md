@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 46a30901-a7d0-4b9c-aad3-66888efd782a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.AfterRemoveHiddenInformation Event (Visio)](http://msdn.microsoft.com/library/abd8501a-b528-0433-1633-6d26960dcdaa%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

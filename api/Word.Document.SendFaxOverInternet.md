@@ -1,5 +1,5 @@
 ---
-title: Document.SendFaxOverInternet Method (Word)
+title: Document.SendFaxOverInternet method (Word)
 keywords: vbawd10.chm158007760
 f1_keywords:
 - vbawd10.chm158007760
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SendFaxOverInternet
 ms.assetid: 1e1d061e-c33a-fdf1-ae63-b9a62babc1ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SendFaxOverInternet Method (Word)
+# Document.SendFaxOverInternet method (Word)
 
-Sends a document to a fax service provider, who faxes the document to one or more specfied recipients.
+Sends a document to a fax service provider, who faxes the document to one or more specified recipients.
 
 
 ## Syntax
 
- _expression_. `SendFaxOverInternet`( `_Recipients_` , `_Subject_` , `_ShowMessage_` )
+_expression_. `SendFaxOverInternet`( `_Recipients_` , `_Subject_` , `_ShowMessage_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
+| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and email addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
 | _Subject_|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
 | _ShowMessage_|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 
@@ -42,9 +43,7 @@ The format used for specifying fax numbers in the Recipients parameter is either
 
 
 
-```text
-HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Common\Services\Fax
-```
+    HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Common\Services\Fax
 
 Use the FaxAddress key value at this registry location to determine the format to use for a user. If this registry entry does not exist, no fax service is available.
 
@@ -66,3 +65,4 @@ ActiveDocument.SendFaxOverInternet _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

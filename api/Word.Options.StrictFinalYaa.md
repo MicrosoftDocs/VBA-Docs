@@ -1,5 +1,5 @@
 ---
-title: Options.StrictFinalYaa Property (Word)
+title: Options.StrictFinalYaa property (Word)
 keywords: vbawd10.chm162988442
 f1_keywords:
 - vbawd10.chm162988442
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.StrictFinalYaa
 ms.assetid: 64716fb0-631d-34e2-4b58-ba6a67d2de34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.StrictFinalYaa Property (Word)
+# Options.StrictFinalYaa property (Word)
 
- **True** if the spelling checker uses spelling rules regarding Arabic words ending with the letter yaa. Read/write **Boolean** .
+ **True** if the spelling checker uses spelling rules regarding Arabic words ending with the letter yaa. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `StrictFinalYaa`
+_expression_. `StrictFinalYaa`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -38,3 +39,4 @@ Options.StrictFinalYaa = True
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

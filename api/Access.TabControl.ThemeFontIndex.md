@@ -7,40 +7,36 @@ ms.prod: access
 api_name:
 - Access.TabControl.ThemeFontIndex
 ms.assetid: b3de7b94-dd76-82ee-dfe5-7c2b7e956a34
-ms.date: 06/08/2017
+ms.date: 03/02/2019
+localization_priority: Normal
 ---
 
 
 # TabControl.ThemeFontIndex property (Access)
 
-Gets or sets the font index that represents a font in the applied theme associated with the  **FontName** property of the specified object. Read/write **Long**.
+Gets or sets the font index that represents a font in the applied theme associated with the **FontName** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `ThemeFontIndex`
+_expression_.**ThemeFontIndex**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks
 
-The  **ThemeFontIndex** property uses one of the values listed in the following table.
+The **ThemeFontIndex** property uses one of the values listed in the following table.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Header font|
 |1 (Default)|Detail font|
 
-If no theme is applied, the  **ThemeFontIndex** property contains -1.
+If no theme is applied, the **ThemeFontIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
 
-
-[TabControl Object](Access.TabControl.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

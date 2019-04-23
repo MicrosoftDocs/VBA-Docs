@@ -1,5 +1,5 @@
 ---
-title: Conversation.SetAlwaysAssignCategories Method (Outlook)
+title: Conversation.SetAlwaysAssignCategories method (Outlook)
 keywords: vbaol11.chm3444
 f1_keywords:
 - vbaol11.chm3444
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.SetAlwaysAssignCategories
 ms.assetid: 9b19f083-3aa9-8a0b-ea91-ff52fe46ad35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.SetAlwaysAssignCategories Method (Outlook)
+# Conversation.SetAlwaysAssignCategories method (Outlook)
 
 Applies one or more categories to all existing items and future items of the conversation.
 
 
 ## Syntax
 
- _expression_. `SetAlwaysAssignCategories`( `_Categories_` , `_Store_` )
+_expression_. `SetAlwaysAssignCategories`( `_Categories_` , `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -78,3 +79,4 @@ End Sub
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

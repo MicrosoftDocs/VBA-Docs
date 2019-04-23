@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrderPosition Property (Word)
+title: Shape.ZOrderPosition property (Word)
 keywords: vbawd10.chm161480833
 f1_keywords:
 - vbawd10.chm161480833
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.ZOrderPosition
 ms.assetid: a1335280-721a-7746-b8e5-b61cf5b8a1e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ZOrderPosition Property (Word)
+# Shape.ZOrderPosition property (Word)
 
 Returns a  **Long** that represents the position of the specified shape in the z-order. Read-only.
 
 
 ## Syntax
 
- _expression_. `ZOrderPosition`
+_expression_. `ZOrderPosition`
 
  _expression_ An expression that returns a [Shape](./Word.Shape.md) object.
 
@@ -52,3 +53,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

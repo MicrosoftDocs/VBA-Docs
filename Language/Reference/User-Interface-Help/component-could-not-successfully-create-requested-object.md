@@ -3,6 +3,7 @@ title: Component could not successfully create requested object
 ms.prod: office
 ms.assetid: 465bdc50-6843-fc18-0489-273a578b471c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,3 +18,4 @@ This error has the following causes and solutions:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

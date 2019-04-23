@@ -1,5 +1,5 @@
 ---
-title: ColumnCount Property
+title: ColumnCount property (Microsoft Forms)
 keywords: fm20.chm2000940
 f1_keywords:
 - fm20.chm2000940
@@ -8,29 +8,37 @@ api_name:
 - Office.ColumnCount
 ms.assetid: ba998cac-3e31-eb81-8f35-fe7fee133e63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColumnCount Property
-
-
+# ColumnCount property
 
 Specifies the number of columns to display in a list box or combo box.
 
 ## Syntax
 
-_object_. **ColumnCount** [= _Long_ ]
-The  **ColumnCount** property syntax has these parts:
+_object_.**ColumnCount** [= _Long_ ]
 
+The **ColumnCount** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. Specifies the number of columns to display.|
 
 ## Remarks
 
-If you set the  **ColumnCount** property for a list box to 3 on an employee form, one column can list last names, another can list first names, and the third can list employee ID numbers.
-Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an [unbound](../../Glossary/glossary-vba.md#unbound) [data source](../../Glossary/glossary-vba.md#data-source), there is a 10-column limit (0 to 9).
-You can use the  **ColumnWidths** property to set the width of the columns displayed in the control.
+If you set the **ColumnCount** property for a list box to 3 on an employee form, one column can list last names, another can list first names, and the third can list employee ID numbers.
 
+Setting **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an [unbound](../../Glossary/glossary-vba.md#unbound) [data source](../../Glossary/glossary-vba.md#data-source), there is a 10-column limit (0 to 9).
+
+You can use the **ColumnWidths** property to set the width of the columns displayed in the control.
+
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

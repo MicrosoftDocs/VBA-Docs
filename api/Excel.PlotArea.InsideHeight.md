@@ -8,19 +8,20 @@ api_name:
 - Excel.PlotArea.InsideHeight
 ms.assetid: a9b2e591-afc5-331e-86b5-bbeb47696c3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PlotArea.InsideHeight property (Excel)
 
-Returns the inside height of the plot area, in points. Read-write  **Double** .
+Returns the inside height of the plot area, in points. Read-write  **Double**.
 
 
 ## Syntax
 
- _expression_. `InsideHeight`
+_expression_. `InsideHeight`
 
- _expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
+_expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
 
 
 ## Remarks
@@ -51,3 +52,4 @@ End With
 
 [PlotArea Object](Excel.PlotArea(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

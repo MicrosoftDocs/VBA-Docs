@@ -8,19 +8,20 @@ api_name:
 - Excel.Name.Category
 ms.assetid: 01892c7b-a42e-e4b3-6ddd-27ace1c51aae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Name.Category property (Excel)
 
-Returns or sets the category for the specified name in the language of the macro. The name must refer to a custom function or command. Read/write  **String** .
+Returns or sets the category for the specified name in the language of the macro. The name must refer to a custom function or command. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Category`
+_expression_. `Category`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Example
@@ -45,3 +46,4 @@ End With
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

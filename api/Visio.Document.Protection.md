@@ -1,5 +1,5 @@
 ---
-title: Document.Protection Property (Visio)
+title: Document.Protection property (Visio)
 keywords: vis_sdr.chm10550785
 f1_keywords:
 - vis_sdr.chm10550785
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Protection
 ms.assetid: f80cd284-e0e3-0663-c505-88311ffc9d3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Protection Property (Visio)
+# Document.Protection property (Visio)
 
 Determines how a document is protected from user customization. Read/write.
 
 
 ## Syntax
 
- _expression_. `Protection`( `_bstrPassword_` )
+_expression_. `Protection`( `_bstrPassword_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -55,3 +56,4 @@ The value of the  **Protection** property can be a combination of the following 
 | **visProtectBackgrounds**|&H8|
 | **visProtectPreviews**|&H10|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextRange.Text Property (PowerPoint)
+title: TextRange.Text property (PowerPoint)
 keywords: vbapp10.chm569017
 f1_keywords:
 - vbapp10.chm569017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Text
 ms.assetid: c80c8b19-73e2-0820-abd6-c44f4b2644b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Text Property (PowerPoint)
+# TextRange.Text property (PowerPoint)
 
 Returns or sets a  **String** that represents the text contained in the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

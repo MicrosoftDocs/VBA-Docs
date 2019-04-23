@@ -1,5 +1,5 @@
 ---
-title: Shape.Table Property (Publisher)
+title: Shape.Table property (Publisher)
 keywords: vbapb10.chm2228328
 f1_keywords:
 - vbapb10.chm2228328
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Table
 ms.assetid: a9b29d1f-2459-556c-56f8-f8f809b879c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Table Property (Publisher)
+# Shape.Table property (Publisher)
 
 Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
 
- _expression_. **Table**
+_expression_.**Table**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -54,4 +55,4 @@ Sub SelectTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

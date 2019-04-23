@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 29aa3cfa-e0bf-4edf-85d5-3cdf6a05fd2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentProject.AllForms property (Access)](http://msdn.microsoft.com/library/4933a409-0d15-16ee-69a3-d78b0f2685c7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

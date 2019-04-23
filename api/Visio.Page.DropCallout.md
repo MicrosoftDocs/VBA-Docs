@@ -1,5 +1,5 @@
 ---
-title: Page.DropCallout Method (Visio)
+title: Page.DropCallout method (Visio)
 keywords: vis_sdr.chm10962160
 f1_keywords:
 - vis_sdr.chm10962160
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.DropCallout
 ms.assetid: 72edbd4b-e068-6dac-0298-9f746a728892
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.DropCallout Method (Visio)
+# Page.DropCallout method (Visio)
 
 Creates a new callout  **[Shape](Visio.Shape.md)** object on the page near the specified target shape, and associates the callout with the target shape. Returns the callout shape.
 
 
 ## Syntax
 
- _expression_. `DropCallout`( `_ObjectToDrop_` , `_TargetShape_` )
+_expression_. `DropCallout`( `_ObjectToDrop_` , `_TargetShape_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
@@ -29,7 +30,7 @@ Creates a new callout  **[Shape](Visio.Shape.md)** object on the page near the s
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The callout to add to the page. Can be a  **[Master](Visio.Master.md)** , **[MasterShortcut](Visio.MasterShortcut.md)** , **Shape** , or **IDataObject** object.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The callout to add to the page. Can be a  **[Master](Visio.Master.md)**, **[MasterShortcut](Visio.MasterShortcut.md)**, **Shape**, or **IDataObject** object.|
 | _TargetShape_|Required| **Shape**|The existing shape with which to associate the callout.|
 
 ## Return value
@@ -58,4 +59,4 @@ Application.ActivePage.DropCallout vsoDocument.Masters.ItemU("Text callout"), vs
 vsoDocument.Close
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

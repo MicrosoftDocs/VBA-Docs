@@ -1,5 +1,5 @@
 ---
-title: SharingItem.UnRead Property (Outlook)
+title: SharingItem.UnRead property (Outlook)
 keywords: vbaol11.chm621
 f1_keywords:
 - vbaol11.chm621
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.UnRead
 ms.assetid: c0bec94f-1d1b-efaf-f3a8-dfb7113aeb1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.UnRead Property (Outlook)
+# SharingItem.UnRead property (Outlook)
 
 Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has not been opened (read). Read/write.
 
 
 ## Syntax
 
- _expression_. `UnRead`
+_expression_. `UnRead`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](Out
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

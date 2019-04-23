@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Covariance_S Method (Excel)
+title: WorksheetFunction.Covariance_S method (Excel)
 keywords: vbaxl10.chm137364
 f1_keywords:
 - vbaxl10.chm137364
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Covariance_S
 ms.assetid: b660d4b7-80d4-3b79-f987-373f01020e6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Covariance_S Method (Excel)
+# WorksheetFunction.Covariance_S method (Excel)
 
 Returns the sample covariance, the average of the products of deviations for each data point pair in two data sets.
 
 
 ## Syntax
 
- _expression_. `Covariance_S`( `_Arg1_` , `_Arg2_` )
+_expression_. `Covariance_S`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

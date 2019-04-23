@@ -1,14 +1,15 @@
 ---
-title: xlCVError enumeration (Excel)
+title: XlCVError enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCVError
 ms.assetid: 652a8f26-b80d-a555-6ff2-58da3f219090
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCVError enumeration (Excel)
+# XlCVError enumeration (Excel)
 
 Specifies the cell error number and value.
 
@@ -24,3 +25,4 @@ Specifies the cell error number and value.
 | **xlErrRef**|2023|Error number: 2023|
 | **xlErrValue**|2015|Error number: 2015|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

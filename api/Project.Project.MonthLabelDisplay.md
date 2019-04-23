@@ -1,5 +1,5 @@
 ---
-title: Project.MonthLabelDisplay Property (Project)
+title: Project.MonthLabelDisplay property (Project)
 keywords: vbapj.chm132414
 f1_keywords:
 - vbapj.chm132414
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.MonthLabelDisplay
 ms.assetid: ed6e783c-9f11-1ecf-7cf6-e8281a1892b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.MonthLabelDisplay Property (Project)
+# Project.MonthLabelDisplay property (Project)
 
 Gets or sets the abbreviation for "month" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `MonthLabelDisplay`
+_expression_. `MonthLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -29,4 +30,4 @@ The  **MonthLabelDisplay** property corresponds to the **Months** list on the **
 
 Values of the  **MonthLabelDisplay** property can be 0 to 2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

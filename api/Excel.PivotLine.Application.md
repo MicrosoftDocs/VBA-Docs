@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotLine.Application
 ms.assetid: 3aca51ef-fb63-7921-4ac5-2ae0fc60097b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
+_expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [PivotLine Object](Excel.PivotLine.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

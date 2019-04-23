@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Tracking Property (Publisher)
+title: TextEffectFormat.Tracking property (Publisher)
 keywords: vbapb10.chm3735825
 f1_keywords:
 - vbapb10.chm3735825
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextEffectFormat.Tracking
 ms.assetid: 9e110e21-be0c-ec49-6bc4-1ff210de141c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Tracking Property (Publisher)
+# TextEffectFormat.Tracking property (Publisher)
 
 Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **Tracking**
+_expression_.**Tracking**
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
@@ -41,4 +42,4 @@ Sub DisableTracking()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Endnotes.ContinuationSeparator Property (Word)
+title: Endnotes.ContinuationSeparator property (Word)
 keywords: vbawd10.chm155254889
 f1_keywords:
 - vbawd10.chm155254889
@@ -8,17 +8,18 @@ api_name:
 - Word.Endnotes.ContinuationSeparator
 ms.assetid: 4f62aa74-5c9e-6f95-ddc5-ff02c9a00bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnotes.ContinuationSeparator Property (Word)
+# Endnotes.ContinuationSeparator property (Word)
 
 Returns a  **Range** object that represents the endnote continuation separator. Read-only.
 
 
 ## Syntax
 
- _expression_. `ContinuationSeparator`
+_expression_. `ContinuationSeparator`
 
  _expression_ A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
@@ -41,3 +42,4 @@ End With
 
 [Endnotes Collection Object](Word.endnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

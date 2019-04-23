@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 40f2356c-f891-1d90-17be-ace51c989357
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,3 +36,5 @@ This code tests to see if the Region field contains any of the above abbreviatio
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectionSite Property (Publisher)
+title: ConnectorFormat.EndConnectionSite property (Publisher)
 keywords: vbapb10.chm3211525
 f1_keywords:
 - vbapb10.chm3211525
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.EndConnectionSite
 ms.assetid: 61d38281-7a48-99e1-bda7-67e61b7225a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnectionSite Property (Publisher)
+# ConnectorFormat.EndConnectionSite property (Publisher)
 
 Returns a  **Long** indicating the connection site to which the end of a connector is connected. Read-only.
 
 
 ## Syntax
 
- _expression_. **EndConnectionSite**
+_expression_.**EndConnectionSite**
 
  _expression_ A variable that represents an  **ConnectorFormat** object.
 
@@ -74,4 +75,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

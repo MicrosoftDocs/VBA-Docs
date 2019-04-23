@@ -3,6 +3,7 @@ title: Modify an Attachment of an Outlook Email Message
 ms.prod: outlook
 ms.assetid: f5dac09a-272b-49d6-bf1e-82c3981260ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Modify an Attachment of an Outlook Email Message
@@ -176,3 +177,4 @@ End Class
  [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)<br>
  [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)<br>
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: CostRateTables Object (Project)
+title: CostRateTables object (Project)
 ms.prod: project-server
 ms.assetid: f08a0a0c-d7ef-f315-5435-804897d5158a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CostRateTables Object (Project)
+# CostRateTables object (Project)
 
  Contains a collection of **[CostRateTable](Project.CostRateTable.md)** objects.
  
@@ -52,7 +53,7 @@ MsgBox Rates
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CostRateTables.Application.md)|
 |[Count](Project.CostRateTables.Count.md)|
@@ -64,3 +65,5 @@ MsgBox Rates
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

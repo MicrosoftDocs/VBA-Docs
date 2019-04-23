@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.Ordinal
 ms.assetid: cd4cff56-8974-7dd5-8fc0-9a21a86a06dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the one-based ordinal value of the hierarchy level represented by the sp
 
 ## Syntax
 
- _expression_. `Ordinal`
+_expression_. `Ordinal`
 
- _expression_ A variable that represents a [SlicerCacheLevel](./Excel.SlicerCacheLevel.md) object.
+_expression_ A variable that represents a [SlicerCacheLevel](Excel.SlicerCacheLevel.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the one-based ordinal value of the hierarchy level represented by the sp
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

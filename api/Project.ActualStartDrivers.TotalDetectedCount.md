@@ -1,21 +1,22 @@
 ---
-title: ActualStartDrivers.TotalDetectedCount Property (Project)
+title: ActualStartDrivers.TotalDetectedCount property (Project)
 ms.prod: project-server
 api_name:
 - Project.ActualStartDrivers.TotalDetectedCount
 ms.assetid: 188d79e3-3a1b-a0ed-e11b-3998334d6a17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ActualStartDrivers.TotalDetectedCount Property (Project)
+# ActualStartDrivers.TotalDetectedCount property (Project)
 
 Gets the total number of actual start drivers that affect the start date of a task. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `TotalDetectedCount`
+_expression_. `TotalDetectedCount`
 
  _expression_ A variable that represents an 'ActualStartDrivers' object.
 
@@ -56,3 +57,4 @@ End Sub
 
 [ActualStartDrivers Collection Object](Project.actualstartdrivers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

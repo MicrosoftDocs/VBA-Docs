@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.Character Property (PowerPoint)
+title: BulletFormat.Character property (PowerPoint)
 keywords: vbapp10.chm577004
 f1_keywords:
 - vbapp10.chm577004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.Character
 ms.assetid: 42480e47-fc3a-d8aa-1368-a76b6776363a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.Character Property (PowerPoint)
+# BulletFormat.Character property (PowerPoint)
 
 Returns or sets the Unicode character value that is used for bullets in the specified text. Read/write.
 
 
 ## Syntax
 
- _expression_. `Character`
+_expression_. `Character`
 
- _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -51,3 +52,4 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

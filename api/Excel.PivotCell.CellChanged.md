@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.CellChanged
 ms.assetid: fc2ba7b5-4dfe-4b05-922e-2ac079c5afb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns whether a PivotTable value cell has been edited or recalculated since th
 
 ## Syntax
 
- _expression_. `CellChanged`
+_expression_. `CellChanged`
 
- _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
 ## Return value
@@ -32,7 +33,7 @@ Returns whether a PivotTable value cell has been edited or recalculated since th
 
 The value of the  **CellChanged** property is **xlCellNotChanged** by default.
 
-For PivotTable reports with non-OLAP data sources, the value of this property can be only either  **xlCellNotChanged** or **xlCellChanged** . It is **xlCellNotChanged** for cells that have not been edited, and is **xlCellChanged** for cells that have been edited. Discarding changes sets its value to **xlCellNotChanged** .
+For PivotTable reports with non-OLAP data sources, the value of this property can be only either  **xlCellNotChanged** or **xlCellChanged**. It is **xlCellNotChanged** for cells that have not been edited, and is **xlCellChanged** for cells that have been edited. Discarding changes sets its value to **xlCellNotChanged**.
 
 Applying and saving changes applies only to PivotTable reports with OLAP data sources. The following list of descriptions of the possible states of the  **CellChange** property apply only to PivotTables with OLAP data sources:
 
@@ -64,3 +65,4 @@ The following table lists descriptions of how different actions by the user affe
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

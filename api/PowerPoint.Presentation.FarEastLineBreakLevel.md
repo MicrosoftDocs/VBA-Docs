@@ -1,5 +1,5 @@
 ---
-title: Presentation.FarEastLineBreakLevel Property (PowerPoint)
+title: Presentation.FarEastLineBreakLevel property (PowerPoint)
 keywords: vbapp10.chm583043
 f1_keywords:
 - vbapp10.chm583043
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.FarEastLineBreakLevel
 ms.assetid: fc8354a6-cbd4-d0b4-0b39-a3150afab714
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.FarEastLineBreakLevel Property (PowerPoint)
+# Presentation.FarEastLineBreakLevel property (PowerPoint)
 
 Returns or sets the line break based upon Asian character level. Read/write.
 
 
 ## Syntax
 
- _expression_. `FarEastLineBreakLevel`
+_expression_. `FarEastLineBreakLevel`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -54,3 +55,4 @@ ActivePresentation.FarEastLineBreakLevel = ppFarEastLineBreakLevelNormal
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

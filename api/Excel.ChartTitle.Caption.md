@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.ChartTitle.Caption
 ms.assetid: eb36b740-7aba-3af1-5f2e-40689db272e2
-ms.date: 06/08/2017
+ms.date: 04/20/2019
+localization_priority: Normal
 ---
 
 
 # ChartTitle.Caption property (Excel)
 
-Returns or sets a  **String** value that represents the chart title text.
+Returns or sets a **String** value that represents the chart title text.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
- _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
-[ChartTitle Object](Excel.ChartTitle(object).md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

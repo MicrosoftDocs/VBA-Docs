@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ZOrderPosition Property (Word)
+title: ShapeRange.ZOrderPosition property (Word)
 keywords: vbawd10.chm162857089
 f1_keywords:
 - vbawd10.chm162857089
@@ -8,17 +8,18 @@ api_name:
 - Word.ShapeRange.ZOrderPosition
 ms.assetid: 358898b6-eab7-96f8-8f4e-bb993a425e5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ZOrderPosition Property (Word)
+# ShapeRange.ZOrderPosition property (Word)
 
 Returns a  **Long** that represents the position of the specified shape in the z-order. Read-only.
 
 
 ## Syntax
 
- _expression_. `ZOrderPosition`
+_expression_. `ZOrderPosition`
 
  _expression_ An expression that returns a 'ShapeRange' object.
 
@@ -37,3 +38,4 @@ Whenever you add a new shape to a collection, it is added to the front of the z-
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

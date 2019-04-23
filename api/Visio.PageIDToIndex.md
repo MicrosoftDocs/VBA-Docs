@@ -5,6 +5,7 @@ api_name:
 - Visio.PageIDToIndex
 ms.assetid: f10470ae-44b8-8817-1c2e-5022f63e8edf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the index of the specified page in the collection of pages in the drawing t
 
 ## Syntax
 
- _expression_. **PageIDToIndex**(**_PageID_**)
+_expression_.**PageIDToIndex**(**_PageID_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -49,4 +50,4 @@ The following code shows how to get the index of the page in the drawing that is
 Debug.Print vsoViewer.PageIDToIndex(0)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

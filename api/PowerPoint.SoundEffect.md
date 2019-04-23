@@ -1,5 +1,5 @@
 ---
-title: SoundEffect Object (PowerPoint)
+title: SoundEffect object (PowerPoint)
 keywords: vbapp10.chm540000
 f1_keywords:
 - vbapp10.chm540000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SoundEffect
 ms.assetid: 216e8bed-e6d7-e751-4d53-1c9902ddb89f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SoundEffect Object (PowerPoint)
+# SoundEffect object (PowerPoint)
 
 Represents the sound effect that accompanies an animation or slide transition in a slide show.
 
@@ -49,3 +50,4 @@ ActivePresentation.Slides(1).SlideShowTransition.SoundEffect _
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

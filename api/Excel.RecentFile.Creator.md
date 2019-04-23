@@ -8,19 +8,20 @@ api_name:
 - Excel.RecentFile.Creator
 ms.assetid: bfece094-0df1-0e65-766c-393f217af3f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # RecentFile.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [RecentFile Object](Excel.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

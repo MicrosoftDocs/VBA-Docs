@@ -1,5 +1,5 @@
 ---
-title: Find.Highlight Property (Word)
+title: Find.Highlight property (Word)
 keywords: vbawd10.chm162529304
 f1_keywords:
 - vbawd10.chm162529304
@@ -8,29 +8,30 @@ api_name:
 - Word.Find.Highlight
 ms.assetid: 75873be2-035e-ae93-1f5d-28e86d383a8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.Highlight Property (Word)
+# Find.Highlight property (Word)
 
- **True** if highlight formatting is included in the find criteria. Read/write **Long** .
+ **True** if highlight formatting is included in the find criteria. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Highlight`
+_expression_. `Highlight`
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Remarks
 
-The  **Highlight** property can return or be set to **True** , **False** , or **wdUndefined** . The **wdUndefined** value can be used with the **Find** object to ignore the state of highlight formatting in the selection or range that is searched.
+The  **Highlight** property can return or be set to **True**, **False**, or **wdUndefined**. The **wdUndefined** value can be used with the **Find** object to ignore the state of highlight formatting in the selection or range that is searched.
 
 
 ## Example
 
-This example finds all instances of highlighted text in the active document and removes the highlight formatting by setting the  **Highlight** property of the **Replacement** object to **False** .
+This example finds all instances of highlighted text in the active document and removes the highlight formatting by setting the  **Highlight** property of the **Replacement** object to **False**.
 
 
 ```vb
@@ -55,3 +56,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

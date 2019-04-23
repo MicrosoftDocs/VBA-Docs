@@ -1,5 +1,5 @@
 ---
-title: Effect.EffectType Property (PowerPoint)
+title: Effect.EffectType property (PowerPoint)
 keywords: vbapp10.chm652010
 f1_keywords:
 - vbapp10.chm652010
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Effect.EffectType
 ms.assetid: 28c2ed5f-f783-0858-cbff-8a5e6e5b8a41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect.EffectType Property (PowerPoint)
+# Effect.EffectType property (PowerPoint)
 
 Sets or returns an  **MsoAnimEffect** constant that represents an animation effect type. Read/write.
 
 
 ## Syntax
 
- _expression_. `EffectType`
+_expression_. `EffectType`
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value
@@ -208,4 +209,4 @@ End Sub
 
 [Effect Object](PowerPoint.Effect.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

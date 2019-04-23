@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3f2f9fb2-bb1d-3e46-747f-6dd00443bbd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,3 +36,5 @@ A programmatic request to terminate the Synchronizer was not completed successfu
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

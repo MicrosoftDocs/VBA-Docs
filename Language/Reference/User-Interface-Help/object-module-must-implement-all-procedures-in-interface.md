@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9b8ccb3a-92e3-20d8-1263-0425c53286a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ An interface is a collection of unimplemented [procedure](../../Glossary/vbe-glo
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FormFields.Shaded Property (Word)
+title: FormFields.Shaded property (Word)
 keywords: vbawd10.chm153681922
 f1_keywords:
 - vbawd10.chm153681922
@@ -8,17 +8,18 @@ api_name:
 - Word.FormFields.Shaded
 ms.assetid: 816b0d24-7558-4e19-c390-791aefb29c65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormFields.Shaded Property (Word)
+# FormFields.Shaded property (Word)
 
- **True** if shading is applied to form fields. Read/write **Boolean** .
+ **True** if shading is applied to form fields. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Shaded`
+_expression_. `Shaded`
 
  _expression_ An expression that returns a 'FormFields' collection object.
 
@@ -55,3 +56,4 @@ End With
 
 [FormFields Collection Object](Word.formfields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlMatchEntry Enumeration (Outlook)
+title: OlMatchEntry enumeration (Outlook)
 keywords: vbaol11.chm1000029
 f1_keywords:
 - vbaol11.chm1000029
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMatchEntry
 ms.assetid: b4c8aa72-747a-df06-4b92-5f54461164a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMatchEntry Enumeration (Outlook)
+# OlMatchEntry enumeration (Outlook)
 
 Specifies if and how extensive entry matching is applied while the user types in a control.
 
@@ -23,3 +24,4 @@ Specifies if and how extensive entry matching is applied while the user types in
 | **olMatchEntryFirstLetter**|0|Basic matching: The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|
 | **olMatchEntryNone**|2|No matching is performed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

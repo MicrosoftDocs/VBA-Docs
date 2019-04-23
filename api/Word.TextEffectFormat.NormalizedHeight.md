@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (Word)
+title: TextEffectFormat.NormalizedHeight property (Word)
 keywords: vbawd10.chm164561002
 f1_keywords:
 - vbawd10.chm164561002
@@ -8,19 +8,20 @@ api_name:
 - Word.TextEffectFormat.NormalizedHeight
 ms.assetid: 7410b830-3b1c-dc32-2ab8-c17a5a743c05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.NormalizedHeight Property (Word)
+# TextEffectFormat.NormalizedHeight property (Word)
 
- **MsoTrue** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState** .
+ **MsoTrue** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState**.
 
 
 ## Syntax
 
- _expression_. `NormalizedHeight`
+_expression_. `NormalizedHeight`
 
- _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
+_expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
 
 ## Example
@@ -43,3 +44,4 @@ myDocument.Shapes("texteff1").TextEffect.NormalizedHeight = msoTrue
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

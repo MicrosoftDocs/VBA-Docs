@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7122e435-7b62-2553-e488-0adb3b364ed0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Every  **For** statement must have a matching **Next** statement. This error has
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

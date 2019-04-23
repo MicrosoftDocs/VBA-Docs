@@ -1,5 +1,5 @@
 ---
-title: View.ShowHyphens Property (Word)
+title: View.ShowHyphens property (Word)
 keywords: vbawd10.chm161808402
 f1_keywords:
 - vbawd10.chm161808402
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowHyphens
 ms.assetid: 2294ea01-1ddc-0d29-4fa4-a5285d6d7cfb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowHyphens Property (Word)
+# View.ShowHyphens property (Word)
 
- **True** if optional hyphens are displayed. An optional hyphen indicates where to break a word when it falls at the end of a line. Read/write **Boolean** .
+ **True** if optional hyphens are displayed. An optional hyphen indicates where to break a word when it falls at the end of a line. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowHyphens`
+_expression_. `ShowHyphens`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -39,3 +40,4 @@ ActiveDocument.ActiveWindow.View.ShowHyphens = True
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

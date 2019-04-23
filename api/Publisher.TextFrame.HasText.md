@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasText Property (Publisher)
+title: TextFrame.HasText property (Publisher)
 keywords: vbapb10.chm3866642
 f1_keywords:
 - vbapb10.chm3866642
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.HasText
 ms.assetid: f8d1c660-c3f1-e835-adc3-114e6611de98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.HasText Property (Publisher)
+# TextFrame.HasText property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified shape has text associated with it. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasText**
+_expression_.**HasText**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -34,4 +35,4 @@ With ActiveDocument.Pages(1).Shapes(2).TextFrame
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

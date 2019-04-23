@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFilter.Description
 ms.assetid: b49950e5-3ed9-e11c-66b6-a11d615b9ab0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotFilter.Description property (Excel)
 
-Provides an optional description for the  **PivotFilter** object. Read-only **String** .
+Provides an optional description for the  **PivotFilter** object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The maximum length of the description string is 255 characters.
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

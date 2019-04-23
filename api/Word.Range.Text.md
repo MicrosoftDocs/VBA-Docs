@@ -1,5 +1,5 @@
 ---
-title: Range.Text Property (Word)
+title: Range.Text property (Word)
 keywords: vbawd10.chm157155328
 f1_keywords:
 - vbawd10.chm157155328
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Text
 ms.assetid: 495fe06e-ba87-0d96-9f6e-3e62fd71d4a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Text Property (Word)
+# Range.Text property (Word)
 
-Returns or sets the text in the specified range or selection. Read/write  **String** . Read/write **String** .
+Returns or sets the text in the specified range or selection. Read/write  **String**. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -44,3 +45,4 @@ myRange.Text = "Dear "
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

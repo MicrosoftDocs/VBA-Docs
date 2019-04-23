@@ -1,5 +1,5 @@
 ---
-title: Borders.SurroundFooter Property (Word)
+title: Borders.SurroundFooter property (Word)
 keywords: vbawd10.chm154927129
 f1_keywords:
 - vbawd10.chm154927129
@@ -8,17 +8,18 @@ api_name:
 - Word.Borders.SurroundFooter
 ms.assetid: 890b0ba3-6815-6836-591d-f73d90758c4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.SurroundFooter Property (Word)
+# Borders.SurroundFooter property (Word)
 
- **True** if a page border encompasses the document footer. Read/write **Boolean** .
+ **True** if a page border encompasses the document footer. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SurroundFooter`
+_expression_. `SurroundFooter`
 
  _expression_ An expression that returns a '[Borders](Word.borders.md)' collection object.
 
@@ -57,3 +58,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

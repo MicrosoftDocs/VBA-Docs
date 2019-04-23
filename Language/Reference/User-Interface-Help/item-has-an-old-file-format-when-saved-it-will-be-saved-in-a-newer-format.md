@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3b2e8ccd-6ae3-7c0d-e73d-cc13ac0f96bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 This file was created with an earlier version of Visual Basic. When you save it, it will be saved in the file format of the current version.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

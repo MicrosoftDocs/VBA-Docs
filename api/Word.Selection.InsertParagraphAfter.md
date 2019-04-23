@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertParagraphAfter Method (Word)
+title: Selection.InsertParagraphAfter method (Word)
 keywords: vbawd10.chm158662817
 f1_keywords:
 - vbawd10.chm158662817
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertParagraphAfter
 ms.assetid: ae97fbab-417a-14e2-0154-f0361826f903
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertParagraphAfter Method (Word)
+# Selection.InsertParagraphAfter method (Word)
 
 Inserts a paragraph mark after a selection.
 
 
 ## Syntax
 
- _expression_. `InsertParagraphAfter`
+_expression_. `InsertParagraphAfter`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ ActiveDocument.Content.InsertParagraphAfter
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarSize Method (Project)
+title: Application.GanttBarSize method (Project)
 keywords: vbapj.chm2058
 f1_keywords:
 - vbapj.chm2058
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GanttBarSize
 ms.assetid: 691ee987-a62b-bf5f-0088-0f153aa64966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GanttBarSize Method (Project)
+# Application.GanttBarSize method (Project)
 
-Sets the height, in points, of the Gantt bars in the active Gantt Chart.
+Sets the height, in [points](../language/glossary/vbe-glossary.md#point), of the Gantt bars in the active Gantt Chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarSize`( ` _Size_` )
+_expression_. `GanttBarSize`( `_Size_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -29,7 +30,7 @@ Sets the height, in points, of the Gantt bars in the active Gantt Chart.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Size_|Required|**Long**|A constant specifying the height, in points, of the Gantt bars in the active Gantt Chart. Can be one of the following  **[PjBarSize](Project.PjBarSize.md)** constants.|
+| _Size_|Required|**Long**|A constant specifying the height, in [points](../language/glossary/vbe-glossary.md#point), of the Gantt bars in the active Gantt Chart. Can be one of the following  **[PjBarSize](Project.PjBarSize.md)** constants.|
 
 ## Return value
 
@@ -55,4 +56,4 @@ pjBarSize24
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

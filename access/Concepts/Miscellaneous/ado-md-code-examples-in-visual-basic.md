@@ -3,6 +3,7 @@ title: ADO MD Code Examples in Visual Basic
 ms.prod: access
 ms.assetid: 7f8bc478-c432-befb-0a0a-a57c9da6f945
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,3 +32,5 @@ The following examples require Microsoft Visual Basic version 5.0 with Service P
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

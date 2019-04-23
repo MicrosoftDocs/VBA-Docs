@@ -1,14 +1,15 @@
 ---
-title: MsoAnimFilterEffectSubtype Enumeration (PowerPoint)
+title: MsoAnimFilterEffectSubtype enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimFilterEffectSubtype
 ms.assetid: ef923d20-9e33-497c-bf92-424b779a43a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MsoAnimFilterEffectSubtype Enumeration (PowerPoint)
+# MsoAnimFilterEffectSubtype enumeration (PowerPoint)
 
 Specifies the subtype of the filter effect.
 
@@ -44,3 +45,4 @@ Specifies the subtype of the filter effect.
 |**msoAnimFilterEffectSubtypeUpRight**|17|Up Right|
 |**msoAnimFilterEffectSubtypeVertical**|6|Vertical|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

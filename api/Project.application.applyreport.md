@@ -1,20 +1,21 @@
 ---
-title: Application.ApplyReport Method (Project)
+title: Application.ApplyReport method (Project)
 keywords: vbapj.chm2198
 f1_keywords:
 - vbapj.chm2198
 ms.prod: project-server
 ms.assetid: 869640a0-e45e-2e89-e3c9-ca15113ba8d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ApplyReport Method (Project)
+# Application.ApplyReport method (Project)
 Displays the specified report.
 
 ## Syntax
 
- _expression_. `ApplyReport` _(Name,_ _ApplyTo)_
+_expression_. `ApplyReport` _(Name,_ _ApplyTo)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -23,12 +24,12 @@ Displays the specified report.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the report.|
 | _ApplyTo_|Optional|**Variant**|The  _ApplyTo_ parameter is not used in Project.|
-| _Name_|Optional|VARIANT||
-| _ApplyTo_|Optional|VARIANT||
+| _Name_|Optional|**Variant**||
+| _ApplyTo_|Optional|**Variant**||
 
 ## Return value
 
@@ -64,3 +65,5 @@ End Sub
 
 
 [Report.Apply Method](Project.report.apply.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

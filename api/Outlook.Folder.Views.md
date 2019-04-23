@@ -1,5 +1,5 @@
 ---
-title: Folder.Views Property (Outlook)
+title: Folder.Views property (Outlook)
 keywords: vbaol11.chm2011
 f1_keywords:
 - vbaol11.chm2011
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.Views
 ms.assetid: 24ef613a-9832-032c-4e68-1001a0385b11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.Views Property (Outlook)
+# Folder.Views property (Outlook)
 
 Returns the  **[Views](Outlook.Views.md)** collection object of the **[Folder](Outlook.Folder.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Views`
+_expression_. `Views`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 
 ## Example
@@ -68,3 +69,4 @@ End Sub
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

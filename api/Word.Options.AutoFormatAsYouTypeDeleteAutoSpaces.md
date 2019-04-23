@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeDeleteAutoSpaces Property (Word)
+title: Options.AutoFormatAsYouTypeDeleteAutoSpaces property (Word)
 keywords: vbawd10.chm162988334
 f1_keywords:
 - vbawd10.chm162988334
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeDeleteAutoSpaces
 ms.assetid: a0308511-e676-73d5-cbe9-41ed3858828a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatAsYouTypeDeleteAutoSpaces Property (Word)
+# Options.AutoFormatAsYouTypeDeleteAutoSpaces property (Word)
 
  **True** for Microsoft Word to automatically delete spaces inserted between Japanese and Latin text as you type. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeDeleteAutoSpaces`
+_expression_. `AutoFormatAsYouTypeDeleteAutoSpaces`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example
@@ -40,3 +41,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

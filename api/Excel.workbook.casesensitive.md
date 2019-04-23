@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 6053b576-9ede-f9d8-e2bf-c012653b60a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `CaseSensitive`
+_expression_. `CaseSensitive`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ ms.date: 06/08/2017
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

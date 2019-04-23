@@ -1,5 +1,5 @@
 ---
-title: PbUnderlineType Enumeration (Publisher)
+title: PbUnderlineType enumeration (Publisher)
 keywords: vbapb10.chm65562
 f1_keywords:
 - vbapb10.chm65562
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbUnderlineType
 ms.assetid: 61977d15-c7f3-f496-bc37-91eba9d9f6e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbUnderlineType Enumeration (Publisher)
+# PbUnderlineType enumeration (Publisher)
 
 Indicates the type of underline for the selected characters in the specified font in a text range.
 
@@ -39,3 +40,4 @@ Indicates the type of underline for the selected characters in the specified fon
 | **pbUnderlineWavyHeavy**|10|Wavy Heavy|
 | **pbUnderlineWordsOnly**|2|Words Only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

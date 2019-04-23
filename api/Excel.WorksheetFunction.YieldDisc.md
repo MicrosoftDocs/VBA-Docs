@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.YieldDisc Method (Excel)
+title: WorksheetFunction.YieldDisc method (Excel)
 keywords: vbaxl10.chm137314
 f1_keywords:
 - vbaxl10.chm137314
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.YieldDisc
 ms.assetid: 838dce53-ce6d-e397-cbc6-f56dce1b2ec3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.YieldDisc Method (Excel)
+# WorksheetFunction.YieldDisc method (Excel)
 
 Returns the annual yield for a discounted security.
 
 
 ## Syntax
 
- _expression_. `YieldDisc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `YieldDisc`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -76,3 +77,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

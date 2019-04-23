@@ -1,5 +1,5 @@
 ---
-title: Cell.Formula Method (Word)
+title: Cell.Formula method (Word)
 keywords: vbawd10.chm156106953
 f1_keywords:
 - vbawd10.chm156106953
@@ -8,24 +8,23 @@ api_name:
 - Word.Cell.Formula
 ms.assetid: 0fec018a-5a6f-f5ec-ed1c-a963e53c27b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Formula Method (Word)
+# Cell.Formula method (Word)
 
 Inserts an = (Formula) field that contains the specified formula into a table cell.
 
 
 ## Syntax
 
- _expression_. `Formula`( `_Formula_` , `_NumFormat_` )
+_expression_.**Formula** (_Formula_, _NumFormat_)
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -81,3 +80,4 @@ End If
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestItem Object (Outlook)
+title: TaskRequestItem object (Outlook)
 keywords: vbaol11.chm3010
 f1_keywords:
 - vbaol11.chm3010
@@ -8,10 +8,11 @@ api_name:
 - Outlook.TaskRequestItem
 ms.assetid: 2908a28a-634c-e786-aa53-f3e32038b727
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestItem Object (Outlook)
+# TaskRequestItem object (Outlook)
 
 Represents a change to the recipient's Tasks list initiated by another party or as a result of a group tasking.
 
@@ -61,7 +62,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.TaskRequestItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.TaskRequestItem.AttachmentAdd.md)|
@@ -94,7 +95,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.TaskRequestItem.Close(method).md)|
 |[Copy](Outlook.TaskRequestItem.Copy.md)|
@@ -112,7 +113,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.TaskRequestItem.Actions.md)|
 |[Application](Outlook.TaskRequestItem.Application.md)|
@@ -156,4 +157,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

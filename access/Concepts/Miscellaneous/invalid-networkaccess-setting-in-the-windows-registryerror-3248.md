@@ -3,6 +3,7 @@ title: Invalid NetworkAccess setting in the Windows Registry. (Error 3248)
 ms.prod: access
 ms.assetid: c61fb87b-47eb-9644-f4af-5c5676e8c2b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,3 +37,5 @@ There is an invalid  **NetworkAccess** setting in the Microsoft Windows Registry
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.ThreeD Property (Publisher)
+title: Shape.ThreeD property (Publisher)
 keywords: vbapb10.chm2228305
 f1_keywords:
 - vbapb10.chm2228305
@@ -8,29 +8,30 @@ api_name:
 - Publisher.Shape.ThreeD
 ms.assetid: e3430bb2-2f2a-14a6-8eb4-98a29a96ad1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ThreeD Property (Publisher)
+# Shape.ThreeD property (Publisher)
 
 Returns a  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
 
 ## Syntax
 
- _expression_. **ThreeD**
+_expression_.**ThreeD**
 
  _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks
 
-Use the  **ThreeD** property to return a **ThreeDFormat** object whose properties are used to format the 3-D appearance of the specified shape.
+Use the  **ThreeD** property to return a **ThreeDFormat** object whose properties are used to format the 3D appearance of the specified shape.
 
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3D effects applied to shape one in the active publication.
 
 
 ```vb
@@ -50,4 +51,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

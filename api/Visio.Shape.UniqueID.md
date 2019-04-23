@@ -1,5 +1,5 @@
 ---
-title: Shape.UniqueID Property (Visio)
+title: Shape.UniqueID property (Visio)
 keywords: vis_sdr.chm11214615
 f1_keywords:
 - vis_sdr.chm11214615
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.UniqueID
 ms.assetid: a82e1175-4536-8919-6531-593d57c3b2f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.UniqueID Property (Visio)
+# Shape.UniqueID property (Visio)
 
 Gets, deletes, or makes the GUID that uniquely identifies the shape within the scope of the application. Read-only.
 
 
 ## Syntax
 
- _expression_. `UniqueID`( `_fUniqueID_` )
+_expression_. `UniqueID`( `_fUniqueID_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
@@ -42,17 +43,17 @@ Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs
 
  _Unique IDs_ are GUIDs. They are unique within the scope of the application.
 
-To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **[UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)** .
+To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **[UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)**.
 
 By default, a shape does not have a unique ID. A shape acquires a unique ID only if you set its  **UniqueID** property.
 
 If a  **Shape** object has a unique ID, no other shape in any other document will have the same ID.
 
-The  _fUniqueID_ parameter controls the behavior of the **UniqueID** property. It should have one of the following values declared in the Visio type library in **VisUniqueIDArgs** .
+The  _fUniqueID_ parameter controls the behavior of the **UniqueID** property. It should have one of the following values declared in the Visio type library in **VisUniqueIDArgs**.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetGUID**|0|Returns the unique ID string only if the shape already has a unique ID. Otherwise it returns a zero-length string ("").|
 | **visGetOrMakeGUID**|1| Returns the unique ID string of the shape. If the shape does not yet have a unique ID, it assigns one to the shape and returns the new ID.|
@@ -84,4 +85,4 @@ Set vsoShape = Visio.ActivePage.Shapes.Item("U{2287DC42-B167-11CE-88E9-0020AFDDD
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeFileOpenDirectory Method (Publisher)
+title: Application.ChangeFileOpenDirectory method (Publisher)
 keywords: vbapb10.chm131124
 f1_keywords:
 - vbapb10.chm131124
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.ChangeFileOpenDirectory
 ms.assetid: 9178881c-2f7f-9063-31d1-14d4745f0666
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ChangeFileOpenDirectory Method (Publisher)
+# Application.ChangeFileOpenDirectory method (Publisher)
 
 Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the  **Open Publication** dialog box (**File** menu) is displayed.
 
 
 ## Syntax
 
- _expression_. **ChangeFileOpenDirectory**(**_Dir_**)
+_expression_.**ChangeFileOpenDirectory**(**_Dir_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -53,3 +54,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

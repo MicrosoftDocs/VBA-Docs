@@ -3,6 +3,7 @@ title: TextBox.EnterFieldBehavior Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: b160b411-80b6-8731-3ee8-ac7ab889daf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the selection behavior when enter
 
 ## Syntax
 
- _expression_. **EnterFieldBehavior**
+_expression_.**EnterFieldBehavior**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ The  **EnterFieldBehavior** property controls the way text is selected when the 
 
 You can combine the effects of the  **EnterFieldBehavior** property and **[DragBehavior](Outlook.textbox.dragbehavior.md)** to create a large number of text box styles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

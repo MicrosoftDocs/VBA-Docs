@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLabel Method (Excel)
+title: Shapes.AddLabel method (Excel)
 keywords: vbaxl10.chm638080
 f1_keywords:
 - vbaxl10.chm638080
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shapes.AddLabel
 ms.assetid: eb0bfb2a-51ab-ce65-0ef2-aa964d3b08ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLabel Method (Excel)
+# Shapes.AddLabel method (Excel)
 
 Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents the new label.
 
 
 ## Syntax
 
- _expression_. `AddLabel`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddLabel`( `_Orientation_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](Excel.Shapes.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents t
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **[MsoTextOrientation](./Office.MsoTextOrientation.md)**|The text orientation within the label.|
+| _Orientation_|Required| **[MsoTextOrientation](Office.MsoTextOrientation.md)**|The text orientation within the label.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the label relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the label relative to the top corner of the document.|
 | _Width_|Required| **Single**|The width of the label, in points.|
@@ -42,7 +43,7 @@ Shape
 
 ## Example
 
-This example adds a vertical label that contains the text "Test Label" to  `myDocument`.
+This example adds a vertical label that contains the text "Test Label" to  _myDocument_.
 
 
 ```vb
@@ -58,3 +59,4 @@ myDocument.Shapes.AddLabel(msoTextOrientationVertical, _
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

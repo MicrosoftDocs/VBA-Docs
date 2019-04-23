@@ -3,6 +3,7 @@ title: Failure to execute the HTTP request. (Error 3677)
 ms.prod: access
 ms.assetid: 49395e13-cd19-df2c-73d1-ce0c3fc87fa9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,7 +21,7 @@ Failed attempting to send a request to the internet server. The request could ha
     
 - A request to delete a file across the internet.
     
-- An attempt to start the MSTRAI40.exe syncronization process on the internet server.
+- An attempt to start the MSTRAI40.exe synchronization process on the internet server.
     
 
 ## See also
@@ -31,3 +32,5 @@ Failed attempting to send a request to the internet server. The request could ha
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: Adjustments Object (Word)
+title: Adjustments object (Word)
 ms.prod: word
 api_name:
 - Word.Adjustments
 ms.assetid: ed65525d-2c55-ae2a-ef42-1663b17e5c97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Adjustments Object (Word)
+# Adjustments object (Word)
 
 Contains a collection of adjustment values for the specified AutoShape or WordArt object. Each adjustment value represents one way an adjustment handle can be adjusted. Because some adjustment handles can be adjusted in two ways ? for instance, some handles can be adjusted both horizontally and vertically ? a shape can have more adjustment values than it has adjustment handles. A shape can have up to eight adjustments.
 
@@ -53,5 +54,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

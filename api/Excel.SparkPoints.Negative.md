@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkPoints.Negative
 ms.assetid: 6231f95b-a923-c31a-ade9-3eb7519c474a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
- _expression_. `Negative`
+_expression_. `Negative`
 
- _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
+_expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Remarks
 
- The **Negative** property corresponds to the setting of the **Negative Point** check box in the **Show** section, and of the **Negative Points** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+ The **Negative** property corresponds to the setting of the **Negative Point** check box in the **Show** section, and of the **Negative Points** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also
@@ -38,3 +39,4 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 [SparkPoints Object](Excel.SparkPoints.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

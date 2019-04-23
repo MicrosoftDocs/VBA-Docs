@@ -1,5 +1,5 @@
 ---
-title: Projects.CanCheckOut Method (Project)
+title: Projects.CanCheckOut method (Project)
 keywords: vbapj.chm132591
 f1_keywords:
 - vbapj.chm132591
@@ -8,17 +8,18 @@ api_name:
 - Project.Projects.CanCheckOut
 ms.assetid: 330f28a3-d785-ae5d-0f64-8e02ac52d8d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Projects.CanCheckOut Method (Project)
+# Projects.CanCheckOut method (Project)
 
 Indicates whether Project can check out the specified project from a SharePoint document library.
 
 
 ## Syntax
 
- _expression_. `CanCheckOut`( ` _Filename_` )
+_expression_. `CanCheckOut`( `_FileName_` )
 
  _expression_ A variable that represents a 'Projects' object.
 
@@ -29,7 +30,7 @@ Indicates whether Project can check out the specified project from a SharePoint 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required|**String**|The name of the file to check out.|
+| _FileName_|Required|**String**|The name of the file to check out.|
 
 ## Return value
 
@@ -57,3 +58,5 @@ End Sub
 
 
 [Projects Collection Object](Project.projects.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

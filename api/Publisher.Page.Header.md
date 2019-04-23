@@ -1,5 +1,5 @@
 ---
-title: Page.Header Property (Publisher)
+title: Page.Header property (Publisher)
 keywords: vbapb10.chm393247
 f1_keywords:
 - vbapb10.chm393247
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Header
 ms.assetid: f10806eb-972a-d482-935c-95d5ccbbbb36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Header Property (Publisher)
+# Page.Header property (Publisher)
 
 Returns a  **HeaderFooter** object representing the header of the specified **Page** object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Header**
+_expression_.**Header**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -65,4 +66,4 @@ With ActiveDocument.masterPages(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Label Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8efa8670-3e01-4f7c-ae93-17465e1eadda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Displays descriptive text.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.Label.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [AutoSize](Outlook.Label.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
@@ -40,9 +41,8 @@ Displays descriptive text.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.Label.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

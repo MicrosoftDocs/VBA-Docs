@@ -1,5 +1,5 @@
 ---
-title: PbWebControlType Enumeration (Publisher)
+title: PbWebControlType enumeration (Publisher)
 keywords: vbapb10.chm65625
 f1_keywords:
 - vbapb10.chm65625
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbWebControlType
 ms.assetid: cceb2659-42de-7cf1-e1fd-dba992d4551f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbWebControlType Enumeration (Publisher)
+# PbWebControlType enumeration (Publisher)
 
 Specifies the type of Web form control to add.
 
@@ -29,3 +30,4 @@ Specifies the type of Web form control to add.
 | **pbWebControlSingleLineTextBox**|105|Adds a single-line text box.|
 | **pbWebControlWebComponent**|106|Adds a single-line Web component.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

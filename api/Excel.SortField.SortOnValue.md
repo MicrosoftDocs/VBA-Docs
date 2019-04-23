@@ -8,19 +8,20 @@ api_name:
 - Excel.SortField.SortOnValue
 ms.assetid: eeaaf959-71d2-99a3-7e66-61744ad4709e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SortField.SortOnValue property (Excel)
 
-Retun the value on which the sort is performed for the specified  **SortField** object. Read-only.
+Return the value on which the sort is performed for the specified  **SortField** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SortOnValue`
+_expression_. `SortOnValue`
 
- _expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
+_expression_ A variable that represents a [SortField](Excel.SortField.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ SortField.SetIcon ActiveWorkbook.IconSets(1).Item(3)
 
 [SortField Object](Excel.SortField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

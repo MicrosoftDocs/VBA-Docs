@@ -1,36 +1,28 @@
 ---
-title: PictureSizeMode Property Example
+title: PictureSizeMode property example
 keywords: fm20.chm5225160
 f1_keywords:
 - fm20.chm5225160
 ms.prod: office
 ms.assetid: 8a535e7b-e32c-9bd4-1ee8-9560fb01c4d9
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# PictureSizeMode Property Example
+# PictureSizeMode property example
 
-The following example uses the  **PictureSizeMode** property to demonstrate three display options for a picture: showing the picture as is, changing the size of the picture while maintaining its original proportions, and stretching the picture to fill a space.
+The following example uses the **[PictureSizeMode](picturesizemode-property.md)** property to demonstrate three display options for a picture: showing the picture as is, changing the size of the picture while maintaining its original proportions, and stretching the picture to fill a space.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **Frame** named Frame1.
+- A **[Frame](frame-control.md)** named Frame1.   
+- A **[SpinButton](spinbutton-control.md)** named SpinButton1.   
+- A **[TextBox](textbox-control.md)** named TextBox1.    
+- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
     
-- A  **SpinButton** named SpinButton1.
-    
-- A  **TextBox** named TextBox1.
-    
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
-    
-
-
- **Note**  This example is an enhanced version of the  **PictureAlignment** property example, as the two properties complement each other. The enhancements are three **OptionButton** event subroutines that control whether the image is cropped, zoomed, or stretched.
-
-
+> [!NOTE] 
+> This example is an enhanced version of the [PictureAlignment property example](picturealignment-property-example.md), as the two properties complement each other. The enhancements are three **OptionButton** event subroutines that control whether the image is cropped, zoomed, or stretched.
 
 
 ```vb
@@ -106,4 +98,4 @@ Private Sub TextBox1_Change()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

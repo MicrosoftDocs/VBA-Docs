@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Creator Property (Word)
+title: CustomProperty.Creator property (Word)
 keywords: vbawd10.chm232784873
 f1_keywords:
 - vbawd10.chm232784873
@@ -8,19 +8,20 @@ api_name:
 - Word.CustomProperty.Creator
 ms.assetid: 8898b8e1-d899-6ff1-54d8-10ec15fece06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomProperty.Creator Property (Word)
+# CustomProperty.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[CustomProperty](Word.CustomProperty.md)' object.
+_expression_ Required. A variable that represents a '[CustomProperty](Word.CustomProperty.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CustomProperty Object](Word.CustomProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

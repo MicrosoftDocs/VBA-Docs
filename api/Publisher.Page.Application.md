@@ -1,5 +1,5 @@
 ---
-title: Page.Application Property (Publisher)
+title: Page.Application property (Publisher)
 keywords: vbapb10.chm393217
 f1_keywords:
 - vbapb10.chm393217
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Application
 ms.assetid: c5d05664-e1ea-7936-4d3d-3d813ff4ec45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Application Property (Publisher)
+# Page.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

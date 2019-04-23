@@ -1,5 +1,5 @@
 ---
-title: View.ShowBookmarks Property (Word)
+title: View.ShowBookmarks property (Word)
 keywords: vbawd10.chm161808406
 f1_keywords:
 - vbawd10.chm161808406
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowBookmarks
 ms.assetid: 20261163-6714-8361-b76d-34570868954b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowBookmarks Property (Word)
+# View.ShowBookmarks property (Word)
 
- **True** if square brackets are displayed at the beginning and end of each bookmark. Read/write **Boolean** .
+ **True** if square brackets are displayed at the beginning and end of each bookmark. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowBookmarks`
+_expression_. `ShowBookmarks`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -51,3 +52,4 @@ Selection.Collapse Direction:=wdCollapseStart
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

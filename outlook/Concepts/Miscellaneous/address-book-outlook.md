@@ -3,6 +3,7 @@ title: Address Book (Outlook)
 ms.prod: outlook
 ms.assetid: 23cb44fa-2ff1-40df-a830-4c95f5652e20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,10 +26,10 @@ ms.date: 06/08/2017
     
 -  [List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List](../Address-Book/list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distr.md)
     
--  [Map a Display Name to an E-mail Address](../Address-Book/map-a-display-name-to-an-e-mail-address.md)
+-  [Map a Display Name to an Email Address](../Address-Book/map-a-display-name-to-an-e-mail-address.md)
     
--  [Obtain the E-mail Address of a Recipient](../Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
+-  [Obtain the Email Address of a Recipient](../Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
     
 -  [Programmatically Change the Display Format for All Contacts](../Address-Book/programmatically-change-the-display-format-for-all-contacts.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

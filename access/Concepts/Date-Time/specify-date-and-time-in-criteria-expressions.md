@@ -3,6 +3,7 @@ title: Specify date and time in criteria expressions
 ms.prod: access
 ms.assetid: 749379e7-5fbe-3371-a780-ca7915d8de43
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -19,4 +20,4 @@ Suppose that you are creating a filter for an Employees form to display records 
 Forms!Employees.Filter = "[BirthDate] >= #10/1/1960#"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

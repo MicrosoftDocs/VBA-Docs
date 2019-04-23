@@ -1,5 +1,5 @@
 ---
-title: MenuSet Object (Visio)
+title: MenuSet object (Visio)
 keywords: vis_sdr.chm10170
 f1_keywords:
 - vis_sdr.chm10170
@@ -8,10 +8,11 @@ api_name:
 - Visio.MenuSet
 ms.assetid: 3fa9ea8d-f1fb-82f6-bc50-6320058d6d2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MenuSet Object (Visio)
+# MenuSet object (Visio)
 
 Represents an entire menu set used by a Microsoft Visio window context.
 
@@ -23,4 +24,4 @@ Represents an entire menu set used by a Microsoft Visio window context.
 
 A shortcut menu (which appears when you click the right mouse button) is represented by a  **MenuSet** object that has a single untitled **Menu** object in its **Menus** collection, which contains the contents of the shortcut menu in its **MenuItems** collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

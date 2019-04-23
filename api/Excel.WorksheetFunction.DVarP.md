@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DVarP Method (Excel)
+title: WorksheetFunction.DVarP method (Excel)
 keywords: vbaxl10.chm137150
 f1_keywords:
 - vbaxl10.chm137150
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DVarP
 ms.assetid: 4c81b0eb-8b3d-bd43-1b71-1a983ab7d044
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DVarP Method (Excel)
+# WorksheetFunction.DVarP method (Excel)
 
 Calculates the variance of a population based on the entire population by using the numbers in a column of a list or database that match conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DVarP`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DVarP`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

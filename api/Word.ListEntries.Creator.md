@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Creator Property (Word)
+title: ListEntries.Creator property (Word)
 keywords: vbawd10.chm153355241
 f1_keywords:
 - vbawd10.chm153355241
@@ -8,19 +8,20 @@ api_name:
 - Word.ListEntries.Creator
 ms.assetid: 3e620ad7-9c9c-8105-422b-cda122444e46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListEntries.Creator Property (Word)
+# ListEntries.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
+_expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ListEntries Collection Object](Word.listentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

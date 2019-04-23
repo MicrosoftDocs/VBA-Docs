@@ -3,6 +3,7 @@ title: Capture and Respond to Events in the Data Store
 ms.prod: word
 ms.assetid: 5d9fd121-be59-0bcf-68d4-48bf62fc5003
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -76,4 +77,4 @@ This example is very simple, but it shows what you can do with events, XML mappi
 
 - [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

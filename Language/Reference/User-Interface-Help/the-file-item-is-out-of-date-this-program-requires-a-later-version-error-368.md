@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4b751a0b-3b4a-16b2-b2d6-6f3f7218aca4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,6 +19,5 @@ An [ActiveX control](../../Glossary/vbe-glossary.md#activex-control) was found t
 - The number of [properties](../../Glossary/vbe-glossary.md#property) in the current version of the ActiveX control don't match the expected number of properties.
     
     Replace the ActiveX control with a later version.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

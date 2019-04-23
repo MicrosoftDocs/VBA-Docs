@@ -1,5 +1,5 @@
 ---
-title: Master.Picture Property (Visio)
+title: Master.Picture property (Visio)
 keywords: vis_sdr.chm10750765
 f1_keywords:
 - vis_sdr.chm10750765
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.Picture
 ms.assetid: b882b05f-5e54-aab8-db88-1e66cf825581
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Picture Property (Visio)
+# Master.Picture property (Visio)
 
 Returns a picture that represents an enhanced metafile (EMF) contained in a master, shape, selection, or page. Read-only.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -48,8 +49,8 @@ Currently, only in-process solutions can use the  **Picture** property because t
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdPicture** .
+4. Under  **Classes**, examine the class named  **StdPicture**.
     
 For details about the  **IPictureDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

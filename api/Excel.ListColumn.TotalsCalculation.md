@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.TotalsCalculation
 ms.assetid: bb8c1dd1-1ee6-3ef8-8af4-2b3f24eb642d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Determines the type of calculation in the Totals row of the list column based on
 
 ## Syntax
 
- _expression_. `TotalsCalculation`
+_expression_. `TotalsCalculation`
 
- _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## Remarks
 
 
 
-| **XlTotalsCalculation** can be one of these **XlTotalsCalculation** constants.|
+| **xlTotalsCalculation** can be one of these **xlTotalsCalculation** constants.|
 | **xlTotalsCalculationNone**|
 | **xlTotalsCalculationSum**|
 | **xlTotalsCalculationAverage**|
@@ -54,3 +55,4 @@ ActiveSheet.ListColumns(1).TotalsCalculation=xlTotalsCalculationSum
 
 [ListColumn Object](Excel.ListColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

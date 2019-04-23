@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9dc5aeb0-a617-405f-87c6-3d140cf6a85a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TaskRequestUpdateItem.Write Event (Outlook)](http://msdn.microsoft.com/library/afad6071-f421-fc9f-c2b9-d090d5301f35%28Office.15%29.aspx)
 [SharingItem.Write Event (Outlook)](http://msdn.microsoft.com/library/22cfb332-d9e9-005a-fb6c-e77ff098a444%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

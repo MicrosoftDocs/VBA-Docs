@@ -7,35 +7,32 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.GridlineWidthBottom
 ms.assetid: a262556c-ac3d-46ef-24a1-6215e56911b1
-ms.date: 06/08/2017
+ms.date: 02/16/2019
+localization_priority: Normal
 ---
 
 
 # ToggleButton.GridlineWidthBottom property (Access)
 
-Gets or sets the width of the bottom gridline for the specified toggle button. Read/write  **Byte**.
+Gets or sets the width of the bottom gridline for the specified toggle button. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineWidthBottom`
+_expression_.**GridlineWidthBottom**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineWidthBottom** property uses the following settings.
 
-
-
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0| Hairline. This is the narrowest border possible on your system.|
 |1 to 6|The width as indicated in points. The default setting is 1 point.|
 
-## See also
 
 
-[ToggleButton Object](Access.ToggleButton.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

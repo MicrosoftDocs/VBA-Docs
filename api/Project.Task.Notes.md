@@ -1,21 +1,22 @@
 ---
-title: Task.Notes Property (Project)
+title: Task.Notes property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.Notes
 ms.assetid: 65eecb2e-9116-2b00-8fb1-6df471a88f1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Notes Property (Project)
+# Task.Notes property (Project)
 
 Gets or sets the notes for a task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Notes`
+_expression_. `Notes`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -39,4 +40,4 @@ Sub AddDelayNote()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

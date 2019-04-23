@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (Publisher)
+title: LineFormat.InsetPen property (Publisher)
 keywords: vbapb10.chm3408148
 f1_keywords:
 - vbapb10.chm3408148
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.InsetPen
 ms.assetid: 955b152d-517f-b5fa-6e23-765ddeb41d46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.InsetPen Property (Publisher)
+# LineFormat.InsetPen property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether a specified shape's lines are drawn inside its boundaries. Read/write.
 
 
 ## Syntax
 
- _expression_. **InsetPen**
+_expression_.**InsetPen**
 
  _expression_ A variable that represents an  **LineFormat** object.
 
@@ -38,7 +39,7 @@ The  **InsetPen** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Lines are drawn directly on the specified shape's boundaries.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -70,4 +71,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

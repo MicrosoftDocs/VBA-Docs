@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f08d5d7a-73d7-4d09-8f00-5c4497d75beb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.HoursPerWeek Property (Project)](http://msdn.microsoft.com/library/f7341297-1dae-cd6d-1e13-6bd273dc3d19%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

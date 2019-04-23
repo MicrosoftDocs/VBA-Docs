@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 29df0107-df24-350d-9577-d11d4f11b06c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,3 +18,4 @@ An `#if` block was detected that isn't terminated by an `#endif`. Add an `#endif
     
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

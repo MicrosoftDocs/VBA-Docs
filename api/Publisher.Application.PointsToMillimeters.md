@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToMillimeters Method (Publisher)
+title: Application.PointsToMillimeters method (Publisher)
 keywords: vbapb10.chm131159
 f1_keywords:
 - vbapb10.chm131159
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.PointsToMillimeters
 ms.assetid: eaa9154d-1a9b-81e7-58bc-3f7bf873ab97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.PointsToMillimeters Method (Publisher)
+# Application.PointsToMillimeters method (Publisher)
 
 Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
 
- _expression_. **PointsToMillimeters**(**_Value_**)
+_expression_.**PointsToMillimeters**(**_Value_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -76,3 +77,4 @@ Loop
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

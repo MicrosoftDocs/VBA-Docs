@@ -1,5 +1,5 @@
 ---
-title: ExchangeDistributionList Object (Outlook)
+title: ExchangeDistributionList object (Outlook)
 keywords: vbaol11.chm3159
 f1_keywords:
 - vbaol11.chm3159
@@ -8,10 +8,11 @@ api_name:
 - Outlook.ExchangeDistributionList
 ms.assetid: 2830dfba-6c0a-a81f-6b98-92ac2aafb59d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExchangeDistributionList Object (Outlook)
+# ExchangeDistributionList object (Outlook)
 
 The  **ExchangeDistributionList** object provides detailed information about an **[AddressEntry](Outlook.AddressEntry.md)** that represents an Exchange distribution list.
 
@@ -57,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Outlook.ExchangeDistributionList.Delete.md)|
 |[Details](Outlook.ExchangeDistributionList.Details.md)|
@@ -77,7 +78,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Outlook.ExchangeDistributionList.Address.md)|
 |[AddressEntryUserType](Outlook.ExchangeDistributionList.AddressEntryUserType.md)|
@@ -97,4 +98,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

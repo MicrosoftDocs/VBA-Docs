@@ -1,5 +1,5 @@
 ---
-title: Shape.Ungroup Method (Word)
+title: Shape.Ungroup method (Word)
 keywords: vbawd10.chm161480727
 f1_keywords:
 - vbawd10.chm161480727
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.Ungroup
 ms.assetid: 0e8ead12-19a7-4caf-696e-38509e30148d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Ungroup Method (Word)
+# Shape.Ungroup method (Word)
 
 Ungroups any grouped shapes in the specified shape.
 
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Return value
@@ -37,7 +38,7 @@ Because a group of shapes is treated as a single object, grouping and ungrouping
 
 ## Example
 
-This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  _myDocument_ .
+This example ungroups any grouped shapes and disassembles any pictures or OLE objects on  _myDocument_.
 
 
 ```vb
@@ -65,3 +66,4 @@ Next
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Font.Grow Method (Publisher)
+title: Font.Grow method (Publisher)
 keywords: vbapb10.chm5373990
 f1_keywords:
 - vbapb10.chm5373990
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.Grow
 ms.assetid: 41d48db2-4a0d-6efc-80c5-c6f035e9e6ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Grow Method (Publisher)
+# Font.Grow method (Publisher)
 
 Increases the font size to the next available size.
 
 
 ## Syntax
 
- _expression_. **Grow**
+_expression_.**Grow**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -70,4 +71,4 @@ Sub IncreaseFontSizeOfSelectedText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

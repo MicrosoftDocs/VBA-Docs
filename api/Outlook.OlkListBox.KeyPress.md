@@ -1,5 +1,5 @@
 ---
-title: OlkListBox.KeyPress Event (Outlook)
+title: OlkListBox.KeyPress event (Outlook)
 keywords: vbaol11.chm1000288
 f1_keywords:
 - vbaol11.chm1000288
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkListBox.KeyPress
 ms.assetid: 66035bcb-3d74-6d9f-88f4-e5710e4b3294
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkListBox.KeyPress Event (Outlook)
+# OlkListBox.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 
 
 ## Syntax
 
- _expression_. `KeyPress`( `_KeyAscii_` )
+_expression_. `KeyPress`( `_KeyAscii_` )
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ A  **KeyPress** event does not occur under the following conditions:
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

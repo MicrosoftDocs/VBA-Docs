@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DStDevP Method (Excel)
+title: WorksheetFunction.DStDevP method (Excel)
 keywords: vbaxl10.chm137149
 f1_keywords:
 - vbaxl10.chm137149
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.DStDevP
 ms.assetid: efdb5e65-1ed0-2f9e-15d0-687c2dfc651a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.DStDevP Method (Excel)
+# WorksheetFunction.DStDevP method (Excel)
 
 Calculates the standard deviation of a population based on the entire population by using the numbers in a column of a list or database that match conditions that you specify.
 
 
 ## Syntax
 
- _expression_. `DStDevP`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `DStDevP`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

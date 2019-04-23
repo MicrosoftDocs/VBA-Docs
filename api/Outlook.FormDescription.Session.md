@@ -1,5 +1,5 @@
 ---
-title: FormDescription.Session Property (Outlook)
+title: FormDescription.Session property (Outlook)
 keywords: vbaol11.chm181
 f1_keywords:
 - vbaol11.chm181
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormDescription.Session
 ms.assetid: 371dc0ed-f0c6-6c16-930a-f7c5e78b3b54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormDescription.Session Property (Outlook)
+# FormDescription.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](Outlook.FormDescription.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [FormDescription Object](Outlook.FormDescription.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

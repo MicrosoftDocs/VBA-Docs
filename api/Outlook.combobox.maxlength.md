@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 81de6855-a108-c1c4-7fb6-df18b3236218
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,13 +17,13 @@ Returns or sets a  **Long** that specifies the maximum number of characters a us
 
 ## Syntax
 
- _expression_. **MaxLength**
+_expression_.**MaxLength**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
 
 Setting the  **MaxLength** property to 0 indicates there is no limit other than that created by memory constraints.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

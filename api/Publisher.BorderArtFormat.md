@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat Object (Publisher)
+title: BorderArtFormat object (Publisher)
 keywords: vbapb10.chm7667711
 f1_keywords:
 - vbapb10.chm7667711
@@ -8,10 +8,11 @@ api_name:
 - Publisher.BorderArtFormat
 ms.assetid: ba066b2e-fe40-aeef-9275-2cc2810f63ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat Object (Publisher)
+# BorderArtFormat object (Publisher)
 
 Represents the formatting of the BorderArt applied to the specified shape.
  
@@ -131,7 +132,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.BorderArtFormat.Delete.md)|
 |[RevertToDefaultWeight](Publisher.BorderArtFormat.RevertToDefaultWeight.md)|
@@ -142,7 +143,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.BorderArtFormat.Application.md)|
 |[Color](Publisher.BorderArtFormat.Color.md)|
@@ -152,3 +153,4 @@ End Sub
 |[StretchPictures](Publisher.BorderArtFormat.StretchPictures.md)|
 |[Weight](Publisher.BorderArtFormat.Weight.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

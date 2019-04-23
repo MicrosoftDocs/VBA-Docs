@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Cut Method (Word)
+title: PageNumber.Cut method (Word)
 keywords: vbawd10.chm159842406
 f1_keywords:
 - vbawd10.chm159842406
@@ -8,19 +8,20 @@ api_name:
 - Word.PageNumber.Cut
 ms.assetid: 20813c72-2a09-8115-dbfe-ed738dbdbe7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumber.Cut Method (Word)
+# PageNumber.Cut method (Word)
 
 Removes the specified object from the document and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_.**Cut**
 
- _expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
+_expression_ Required. A variable that represents a '[PageNumber](Word.PageNumber.md)' object.
 
 
 ## Remarks
@@ -73,3 +74,4 @@ End If
 
 [PageNumber Object](Word.PageNumber.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

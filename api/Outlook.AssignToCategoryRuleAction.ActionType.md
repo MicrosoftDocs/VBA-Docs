@@ -1,5 +1,5 @@
 ---
-title: AssignToCategoryRuleAction.ActionType Property (Outlook)
+title: AssignToCategoryRuleAction.ActionType property (Outlook)
 keywords: vbaol11.chm2268
 f1_keywords:
 - vbaol11.chm2268
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AssignToCategoryRuleAction.ActionType
 ms.assetid: bef50a28-967e-7336-ef0b-2e8edb843c0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AssignToCategoryRuleAction.ActionType Property (Outlook)
+# AssignToCategoryRuleAction.ActionType property (Outlook)
 
-Returns a constant,  **olRuleActionAssignToCategory** , from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant,  **olRuleActionAssignToCategory**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActionType`
+_expression_. `ActionType`
 
- _expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Returns a constant,  **olRuleActionAssignToCategory** , from the **[OlRuleAction
 
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Placeholders.Parent Property (PowerPoint)
+title: Placeholders.Parent property (PowerPoint)
 keywords: vbapp10.chm544002
 f1_keywords:
 - vbapp10.chm544002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Placeholders.Parent
 ms.assetid: 216faab2-d0cc-1967-3b96-32bdea5a9b72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Placeholders.Parent Property (PowerPoint)
+# Placeholders.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [Placeholders](./PowerPoint.Placeholders.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [Placeholders Object](PowerPoint.Placeholders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

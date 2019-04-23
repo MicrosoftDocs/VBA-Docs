@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.FolderSuffix Property (Word)
+title: DefaultWebOptions.FolderSuffix property (Word)
 keywords: vbawd10.chm165871632
 f1_keywords:
 - vbawd10.chm165871632
@@ -8,24 +8,25 @@ api_name:
 - Word.DefaultWebOptions.FolderSuffix
 ms.assetid: 3690ef57-7c06-6884-e7ac-3ef0a088e4f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DefaultWebOptions.FolderSuffix Property (Word)
+# DefaultWebOptions.FolderSuffix property (Word)
 
 Returns a  **String** that represents the folder suffix that Microsoft Word uses when you save a document as a Web page, use long file names, or save supporting files in a separate folder. Read-only.
 
 
 ## Syntax
 
- _expression_. `FolderSuffix`
+_expression_. `FolderSuffix`
 
- _expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
+_expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
 
 
 ## Remarks
 
-To save supporting files in a separate folder, set the  **UseLongFileNames** and **OrganizeInFolder** properties to **True** .
+To save supporting files in a separate folder, set the  **UseLongFileNames** and **OrganizeInFolder** properties to **True**.
 
 Newly created documents use the suffix returned by the  **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Word. You can use the **UseDefaultFolderSuffix** method to change the suffix to the language you are currently using in Microsoft Office.
 
@@ -74,7 +75,7 @@ The following table lists each language version of Office and gives its correspo
 |Swedish|1053|-filer|
 |Thai|1054|.files|
 |Turkish|1055|_dosyalar|
-|Ukranian|1058|.files|
+|Ukrainian|1058|.files|
 |Vietnamese|1066|.files|
 
 
@@ -94,3 +95,4 @@ strFolderSuffix = ActiveDocument.WebOptions.FolderSuffix
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

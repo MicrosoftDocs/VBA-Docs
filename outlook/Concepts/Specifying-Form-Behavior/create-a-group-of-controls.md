@@ -3,6 +3,7 @@ title: Create a Group of Controls
 ms.prod: outlook
 ms.assetid: 19efb861-fc49-7e8e-6562-d94bc32d32db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -12,6 +13,4 @@ ms.date: 06/08/2017
     
 2. On the  **Developer** tab, in the **Arrange** group, click **Group**, and then click  **Group**.
 
-
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

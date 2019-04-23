@@ -1,5 +1,5 @@
 ---
-title: ItemProperty.IsUserProperty Property (Outlook)
+title: ItemProperty.IsUserProperty property (Outlook)
 keywords: vbaol11.chm529
 f1_keywords:
 - vbaol11.chm529
@@ -8,24 +8,25 @@ api_name:
 - Outlook.ItemProperty.IsUserProperty
 ms.assetid: 6787380b-fe85-22d9-b95b-2b356bf84a21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ItemProperty.IsUserProperty Property (Outlook)
+# ItemProperty.IsUserProperty property (Outlook)
 
 Returns a  **Boolean** value that indicates if the item property is a custom property created by the user. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsUserProperty`
+_expression_. `IsUserProperty`
 
- _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
+_expression_ A variable that represents an [ItemProperty](Outlook.ItemProperty.md) object.
 
 
 ## Example
 
-The following example displays the names of all properties created by the user. The subroutine  `DisplayUserProps` accepts an **[ItemProperties](Outlook.ItemProperties.md)** collection and searches through it, displaying the names of all **[ItemProperty](Outlook.ItemProperty.md)** objects where the **IsUserProperty** value is **True** . The **ItemProperties** collection is zero-based. In other words, the first object in the collection is accessed with an index value of zero (0).
+The following example displays the names of all properties created by the user. The subroutine  `DisplayUserProps` accepts an **[ItemProperties](Outlook.ItemProperties.md)** collection and searches through it, displaying the names of all **[ItemProperty](Outlook.ItemProperty.md)** objects where the **IsUserProperty** value is **True**. The **ItemProperties** collection is zero-based. In other words, the first object in the collection is accessed with an index value of zero (0).
 
 
 ```vb
@@ -59,3 +60,4 @@ End Sub
 
 [ItemProperty Object](Outlook.ItemProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

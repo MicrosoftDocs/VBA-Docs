@@ -1,5 +1,5 @@
 ---
-title: Application.GetProjectServerVersion Method (Project)
+title: Application.GetProjectServerVersion method (Project)
 keywords: vbapj.chm131223
 f1_keywords:
 - vbapj.chm131223
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GetProjectServerVersion
 ms.assetid: f41cb738-3a30-f555-9d10-78343fae0ddb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GetProjectServerVersion Method (Project)
+# Application.GetProjectServerVersion method (Project)
 
 This method checks the version of the Project Server for the active project. The method can also be used to check whether a particular server URL points to a valid and functioning Project Server.
 
 
 ## Syntax
 
- _expression_. `GetProjectServerVersion`( ` _ServerURL_` )
+_expression_. `GetProjectServerVersion`( `_ServerURL_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -70,4 +71,4 @@ Sub mpsVersion()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

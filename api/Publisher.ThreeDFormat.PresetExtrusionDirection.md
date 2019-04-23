@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetExtrusionDirection Property (Publisher)
+title: ThreeDFormat.PresetExtrusionDirection property (Publisher)
 keywords: vbapb10.chm3801348
 f1_keywords:
 - vbapb10.chm3801348
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: fdf3843e-12bc-4b3b-11cb-e512abd991af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetExtrusionDirection Property (Publisher)
+# ThreeDFormat.PresetExtrusionDirection property (Publisher)
 
 Returns an  **MsoPresetExtrusionDirection** constant that represents the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read-only.
 
 
 ## Syntax
 
- _expression_. **PresetExtrusionDirection**
+_expression_.**PresetExtrusionDirection**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -50,7 +51,7 @@ This property is read-only. To set the value of this property, use the  **[SetEx
 
 ## Example
 
-This example changes the extrusion for the first shape on the first page of the active publication if the extrusion extends toward the upper-left corner of the extrusion's front face. For this example to work, the specified shape must be a 3-D shape.
+This example changes the extrusion for the first shape on the first page of the active publication if the extrusion extends toward the upper-left corner of the extrusion's front face. For this example to work, the specified shape must be a 3D shape.
 
 
 ```vb
@@ -63,4 +64,4 @@ Sub SetExtrusion()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

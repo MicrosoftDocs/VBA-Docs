@@ -8,6 +8,7 @@ api_name:
 - Excel.SparklineGroup.ModifyLocation
 ms.assetid: 8f6ca2cb-b0cc-a0bf-efc0-ee30ca3888e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,3 +46,4 @@ ActiveCell.SparklineGroups.Item(1).ModifyLocation Range("$A$10:$A$14")
 
 - [SparklineGroup object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

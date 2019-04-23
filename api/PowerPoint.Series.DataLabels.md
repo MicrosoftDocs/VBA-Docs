@@ -1,5 +1,5 @@
 ---
-title: Series.DataLabels Method (PowerPoint)
+title: Series.DataLabels method (PowerPoint)
 keywords: vbapp10.chm65693
 f1_keywords:
 - vbapp10.chm65693
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.DataLabels
 ms.assetid: e1e37006-8a4d-9a55-02a4-890ec5e608db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.DataLabels Method (PowerPoint)
+# Series.DataLabels method (PowerPoint)
 
 Returns an object that represents either a single data label (a  **[DataLabel](PowerPoint.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](PowerPoint.DataLabels.md)** collection).
 
 
 ## Syntax
 
- _expression_. `DataLabels`( `_Index_` )
+_expression_. `DataLabels` (_Index_)
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -85,3 +86,4 @@ End With
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

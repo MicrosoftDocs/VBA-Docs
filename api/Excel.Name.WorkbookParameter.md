@@ -8,6 +8,7 @@ api_name:
 - Excel.Name.WorkbookParameter
 ms.assetid: 1a7983fc-9020-fb72-21b1-822d19802c31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,7 +19,7 @@ Returns or sets the specified  **Name** object as a workbook parameter. Read/wri
 
 ## Syntax
 
- _expression_. `WorkbookParameter`
+_expression_. `WorkbookParameter`
 
  _expression_ An expression that returns a [Name](Excel.Name.md) object.
 
@@ -33,3 +34,4 @@ Boolean
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

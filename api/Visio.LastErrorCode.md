@@ -5,6 +5,7 @@ api_name:
 - Visio.LastErrorCode
 ms.assetid: cbef3230-128c-3976-04da-eec6da9f6225
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the last error code returned by Microsoft Visio Viewer. Read-only.
 
 ## Syntax
 
- _expression_. **LastErrorCode**
+_expression_.**LastErrorCode**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -41,4 +42,4 @@ The following code gets the last error code returned by Visio Viewer.
 Debug.Print vsoViewer.LastErrorCode
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

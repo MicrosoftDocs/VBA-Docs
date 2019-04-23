@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Convert Method (Excel)
+title: WorksheetFunction.Convert method (Excel)
 keywords: vbaxl10.chm137344
 f1_keywords:
 - vbaxl10.chm137344
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Convert
 ms.assetid: 3fb95208-6419-da1c-008d-dc00e836183e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Convert Method (Excel)
+# WorksheetFunction.Convert method (Excel)
 
 Converts a number from one measurement system to another. For example, Convert can translate a table of distances in miles to a table of distances in kilometers.
 
 
 ## Syntax
 
- _expression_. `Convert`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Convert`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -169,3 +170,4 @@ The following abbreviated unit prefixes can be prepended to any metric from_unit
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

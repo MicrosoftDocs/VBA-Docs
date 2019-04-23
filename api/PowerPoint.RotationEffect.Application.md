@@ -1,5 +1,5 @@
 ---
-title: RotationEffect.Application Property (PowerPoint)
+title: RotationEffect.Application property (PowerPoint)
 keywords: vbapp10.chm661001
 f1_keywords:
 - vbapp10.chm661001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RotationEffect.Application
 ms.assetid: 0cecbe2f-4da8-6e4c-32ed-84616a8deda5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RotationEffect.Application Property (PowerPoint)
+# RotationEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [RotationEffect Object](PowerPoint.RotationEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

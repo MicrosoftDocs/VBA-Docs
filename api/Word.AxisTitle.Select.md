@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Select Method (Word)
+title: AxisTitle.Select method (Word)
 keywords: vbawd10.chm98238492
 f1_keywords:
 - vbawd10.chm98238492
@@ -8,17 +8,18 @@ api_name:
 - Word.AxisTitle.Select
 ms.assetid: b2eb7113-90c3-27e6-6dff-339ee82f10ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.Select Method (Word)
+# AxisTitle.Select method (Word)
 
 Selects the object.
 
 
 ## Syntax
 
- _expression_. `Select`
+_expression_.**Select**
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
@@ -28,3 +29,4 @@ Selects the object.
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

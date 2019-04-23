@@ -1,14 +1,15 @@
 ---
-title: WdNumberSpacing Enumeration (Word)
+title: WdNumberSpacing enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberSpacing
 ms.assetid: 46dd4d4d-aab4-2ae8-eff1-e6bf7567a0c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdNumberSpacing Enumeration (Word)
+# WdNumberSpacing enumeration (Word)
 
 Specifies the number spacing setting for an OpenType font.
 
@@ -20,3 +21,4 @@ Specifies the number spacing setting for an OpenType font.
 | **wdNumberSpacingProportional**|1|Applies proportional number spacing to the font.|
 | **wdNumberSpacingTabular**|2|Applies tabular number spacing to the font.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

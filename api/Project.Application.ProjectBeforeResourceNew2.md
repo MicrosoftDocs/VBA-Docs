@@ -1,21 +1,22 @@
 ---
-title: Application.ProjectBeforeResourceNew2 Event (Project)
+title: Application.ProjectBeforeResourceNew2 event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceNew2
 ms.assetid: 24c28eac-946b-80fb-5dcb-8b9ef499b547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ProjectBeforeResourceNew2 Event (Project)
+# Application.ProjectBeforeResourceNew2 event (Project)
 
 Occurs before one or more resources are created. Uses the  **EventInfo** object parameter.
 
 
 ## Syntax
 
- _expression_. `ProjectBeforeResourceNew2`( ` _pj_`, ` _Info_` )
+_expression_. `ProjectBeforeResourceNew2`( `_pj_`, `_Info_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Project events do not occur when the project is embedded in another document or 
 
 The  **ProjectBeforeResourceNew2** event doesn't occur during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

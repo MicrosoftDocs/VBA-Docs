@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks.Parent Property (Publisher)
+title: WebNavigationBarHyperlinks.Parent property (Publisher)
 keywords: vbapb10.chm8585218
 f1_keywords:
 - vbapb10.chm8585218
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Parent
 ms.assetid: 13e4d580-dbf9-f8a7-2ef3-67c34a9224fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks.Parent Property (Publisher)
+# WebNavigationBarHyperlinks.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

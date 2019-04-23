@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.WriteReserved
 ms.assetid: 96cc86d1-0e77-b6f3-3045-f6346de0f969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.WriteReserved property (Excel)
 
- **True** if the workbook is write-reserved. Read-only **Boolean** .
+ **True** if the workbook is write-reserved. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `WriteReserved`
+_expression_. `WriteReserved`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End With
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Locked
 ms.assetid: 93c5f21d-6429-3287-0992-c810b9a429a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that indicates if the object is locked.
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_.**Locked**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Worksheets("Sheet1").Protect
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

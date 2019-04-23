@@ -1,5 +1,5 @@
 ---
-title: Selection.InRange Method (Word)
+title: Selection.InRange method (Word)
 keywords: vbawd10.chm158662782
 f1_keywords:
 - vbawd10.chm158662782
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InRange
 ms.assetid: 3759ad96-44b5-d63c-f4d5-844f937f4216
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InRange Method (Word)
+# Selection.InRange method (Word)
 
  **True** if the selection to which the method is applied is contained within the range specified by the Range argument.
 
 
 ## Syntax
 
- _expression_. `InRange`( `_Range_` )
+_expression_. `InRange`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

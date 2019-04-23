@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.RGB Property (PowerPoint)
+title: ColorFormat.RGB property (PowerPoint)
 keywords: vbapp10.chm506002
 f1_keywords:
 - vbapp10.chm506002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorFormat.RGB
 ms.assetid: 5bb68052-5931-2096-277c-fb44c76b37eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.RGB Property (PowerPoint)
+# ColorFormat.RGB property (PowerPoint)
 
 Returns or sets the red-green-blue (RGB) value of the specified color. Read/write.
 
 
 ## Syntax
 
- _expression_. `RGB`
+_expression_. `RGB`
 
- _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
+_expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
 
 ## Return value
@@ -51,3 +52,4 @@ End With
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

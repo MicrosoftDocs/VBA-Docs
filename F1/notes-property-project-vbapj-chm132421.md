@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1f17aca8-bcec-4b1e-b110-e5c676a444a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Notes Property (Project)](http://msdn.microsoft.com/library/65eecb2e-9116-2b00-8fb1-6df471a88f1d%28Office.15%29.aspx)
 [OutlineCode.DefaultValue Property (Project)](http://msdn.microsoft.com/library/8b62d945-d98c-923c-2829-e50e51cd45b6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

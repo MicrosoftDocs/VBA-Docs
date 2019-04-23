@@ -1,14 +1,15 @@
 ---
-title: WdMoveFromTextMark Enumeration (Word)
+title: WdMoveFromTextMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMoveFromTextMark
 ms.assetid: 343005e2-535f-5de2-34b6-efa7353d44ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMoveFromTextMark Enumeration (Word)
+# WdMoveFromTextMark enumeration (Word)
 
 Marks the moved-from text when text in a document with tracked changes is moved from one place to another.
 
@@ -28,3 +29,4 @@ Marks the moved-from text when text in a document with tracked changes is moved 
 | **wdMoveFromTextMarkStrikeThrough**|2|Marks moved text with a strikethrough.|
 | **wdMoveFromTextMarkUnderline**|8|Underlines moved text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

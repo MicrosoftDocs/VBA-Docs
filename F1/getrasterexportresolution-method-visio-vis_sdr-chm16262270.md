@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f1594196-cfbc-41ba-8ac7-c4ffdc04f3de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.GetRasterExportResolution Method (Visio)](http://msdn.microsoft.com/library/526d2970-006b-6596-bfef-49446dd58610%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

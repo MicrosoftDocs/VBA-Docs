@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.ListObjects
 ms.assetid: 29c20c8d-aa64-f578-2c8a-5567651ba44c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a collection of  **[ListObject](Excel.ListObject.md)** objects in the wo
 
 ## Syntax
 
- _expression_. `ListObjects`
+_expression_. `ListObjects`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a collection of  **[ListObject](Excel.ListObject.md)** objects in the wo
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

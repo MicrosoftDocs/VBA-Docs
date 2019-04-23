@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (Excel)
+title: ShapeNodes.SetPosition method (Excel)
 keywords: vbaxl10.chm112010
 f1_keywords:
 - vbaxl10.chm112010
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeNodes.SetPosition
 ms.assetid: ad76e3d9-51d2-51fd-2af1-9eee7b62e52c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetPosition Method (Excel)
+# ShapeNodes.SetPosition method (Excel)
 
 Sets the location of the node specified by  _Index_. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
- _expression_. `SetPosition`( `_Index_` , `_X1_` , `_Y1_` )
+_expression_. `SetPosition`( `_Index_` , `_X1_` , `_Y1_` )
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
@@ -35,7 +36,7 @@ Sets the location of the node specified by  _Index_. Note that, depending on the
 
 ## Example
 
-This example moves node two in shape three on  `myDocument` to the right 200 points and down 300 points. Shape three must be a freeform drawing.
+This example moves node two in shape three on  _myDocument_ to the right 200 points and down 300 points. Shape three must be a freeform drawing.
 
 
 ```vb
@@ -54,3 +55,4 @@ End With
 
 [ShapeNodes Object](Excel.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

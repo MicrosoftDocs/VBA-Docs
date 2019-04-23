@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 97eeacbf-00b2-4f1b-a8cb-cf88d7fa7447
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.OnKeyUp property (Access)](http://msdn.microsoft.com/library/ac069657-a9de-79f2-2e7c-92e151228f2a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

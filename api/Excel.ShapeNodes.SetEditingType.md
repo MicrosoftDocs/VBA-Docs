@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetEditingType Method (Excel)
+title: ShapeNodes.SetEditingType method (Excel)
 keywords: vbaxl10.chm112009
 f1_keywords:
 - vbaxl10.chm112009
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeNodes.SetEditingType
 ms.assetid: 5bf464d6-b9d3-f62b-a625-0d153d7f265e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetEditingType Method (Excel)
+# ShapeNodes.SetEditingType method (Excel)
 
 Sets the editing type of the node specified by  _Index_. If the node is a control point for a curved segment, this method sets the editing type of the node adjacent to it that joins two segments. Note that, depending on the editing type, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
- _expression_. `SetEditingType`( `_Index_` , `_EditingType_` )
+_expression_. `SetEditingType`( `_Index_` , `_EditingType_` )
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](Excel.ShapeNodes.md) object.
 
 
 ## Parameters
@@ -30,11 +31,11 @@ Sets the editing type of the node specified by  _Index_. If the node is a contro
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The node whose editing type is to be set.|
-| _EditingType_|Required| **[MsoEditingType](./Office.MsoEditingType.md)**|The editing property of the vertex.|
+| _EditingType_|Required| **[MsoEditingType](Office.MsoEditingType.md)**|The editing property of the vertex.|
 
 ## Example
 
-This example changes all corner nodes to smooth nodes in shape three on  `myDocument`. Shape three must be a freeform drawing.
+This example changes all corner nodes to smooth nodes in shape three on  _myDocument_. Shape three must be a freeform drawing.
 
 
 ```vb
@@ -54,3 +55,4 @@ End With
 
 [ShapeNodes Object](Excel.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

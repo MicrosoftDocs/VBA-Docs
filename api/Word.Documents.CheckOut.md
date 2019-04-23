@@ -1,5 +1,5 @@
 ---
-title: Documents.CheckOut Method (Word)
+title: Documents.CheckOut method (Word)
 keywords: vbawd10.chm158072848
 f1_keywords:
 - vbawd10.chm158072848
@@ -8,19 +8,20 @@ api_name:
 - Word.Documents.CheckOut
 ms.assetid: 70b89f66-7d02-ad40-d868-f6aa7b13ebdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.CheckOut Method (Word)
+# Documents.CheckOut method (Word)
 
 Copies a specified document from a server to a local computer for editing.
 
 
 ## Syntax
 
- _expression_. `CheckOut`( `_FileName_` )
+_expression_. `CheckOut`( `_FileName_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -68,3 +69,4 @@ End Sub
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

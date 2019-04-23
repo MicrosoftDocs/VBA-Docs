@@ -1,5 +1,5 @@
 ---
-title: Selection.GoTo Method (Word)
+title: Selection.GoTo method (Word)
 keywords: vbawd10.chm158662829
 f1_keywords:
 - vbawd10.chm158662829
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.GoTo
 ms.assetid: 7a69e581-4047-ae62-e112-97fe2c2633bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
-# Selection.GoTo Method (Word)
+# Selection.GoTo method (Word)
 
-Moves the insertion point to the character position immediately preceding the specified item, and returns a  **[Range](Word.Range.md)** object (except for the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant).
+Moves the insertion point to the character position immediately preceding the specified item, and returns a  **[Range](Word.Range.md)** object (except for the **wdGoToGrammaticalError**, **wdGoToProofreadingError**, or **wdGoToSpellingError** constant).
 
 ## Syntax
 
- _expression_. `GoTo`( `_What_` , `_Which_` , `_Count_` , `_Name_` )
+_expression_. `GoTo`( `_What_` , `_Which_` , `_Count_` , `_Name_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 ## Parameters
 
@@ -27,7 +28,7 @@ Moves the insertion point to the character position immediately preceding the sp
 | _What_|Optional| **Variant**|The kind of item to which the range or selection is moved. Can be one of the  **[WdGoToItem](Word.WdGoToItem.md)** constants.|
 | _Which_|Optional| **Variant**|The item to which the range or selection is moved. Can be one of the  **[WdGoToDirection](Word.WdGoToDirection.md)** constants.|
 | _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range or selection, use  **wdGoToPrevious** as the Which argument and specify a Count value.|
-| _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name.|
+| _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark**, **wdGoToComment**, **wdGoToField**, or **wdGoToObject**, this argument specifies a name.|
 
 ## Return value
 
@@ -35,7 +36,7 @@ The [Range](Word.Range.md) that is now selected.
 
 ## Remarks
 
-When you use the  **GoTo** method with the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** object that is returned includes any grammar error text or spelling error text.
+When you use the  **GoTo** method with the **wdGoToGrammaticalError**, **wdGoToProofreadingError**, or **wdGoToSpellingError** constant, the **Range** object that is returned includes any grammar error text or spelling error text.
 
 ## Examples
 
@@ -95,3 +96,4 @@ Selection.GoTo What:=wdGoToPage, Which:=wdGoToPrevious, Count:=2
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

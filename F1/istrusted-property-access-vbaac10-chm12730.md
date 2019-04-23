@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b0a28e26-c304-4d4a-9b4a-c427722b5e89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeProject.IsTrusted property (Access)](http://msdn.microsoft.com/library/11f0088a-77f4-cd37-e730-86c4641f4a70%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

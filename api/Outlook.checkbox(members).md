@@ -3,6 +3,7 @@ title: CheckBox Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 0f81427d-e1b3-41aa-94ae-208d6cd16439
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,7 +18,7 @@ Displays the selection state of an item.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.checkbox.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [Alignment](Outlook.checkbox.alignment.md)|Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.|
@@ -45,7 +46,8 @@ Displays the selection state of an item.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.checkbox(event).md)|Occurs when the user clicks inside the control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

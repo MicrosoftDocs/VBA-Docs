@@ -1,12 +1,13 @@
 ---
-title: Documents Object (Word)
+title: Documents object (Word)
 ms.prod: word
 ms.assetid: fc4ac973-19c1-703a-5538-f4426b8b7564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents Object (Word)
+# Documents object (Word)
 
 A collection of all the  **[Document](Word.Document.md)** objects that are currently open in Word.
 
@@ -80,5 +81,6 @@ End If
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets Object (Visio)
+title: DataRecordsets object (Visio)
 keywords: vis_sdr.chm61000
 f1_keywords:
 - vis_sdr.chm61000
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsets
 ms.assetid: edf6d0dc-2f16-eee0-fd4c-ec4c9409179e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets Object (Visio)
+# DataRecordsets object (Visio)
 
 The collection of  **DataRecordset** objects associated with a **Document** object.
 
@@ -45,7 +46,7 @@ Once you have created a data recordset, the connection string and query command 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeDataRecordsetDelete](./Visio.DataRecordset.BeforeDataRecordsetDelete.md)|
 |[DataRecordsetChanged](./Visio.DataRecordset.DataRecordsetChanged.md)|
@@ -54,7 +55,7 @@ Once you have created a data recordset, the connection string and query command 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Visio.DataRecordset.Delete.md)|
 |[GetAllRefreshConflicts](./Visio.DataRecordset.GetAllRefreshConflicts.md)|
@@ -71,7 +72,7 @@ Once you have created a data recordset, the connection string and query command 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.DataRecordset.Application.md)|
 |[CommandString](./Visio.DataRecordset.CommandString.md)|
@@ -89,3 +90,4 @@ Once you have created a data recordset, the connection string and query command 
 |[Stat](./Visio.DataRecordset.Stat.md)|
 |[TimeRefreshed](./Visio.DataRecordset.TimeRefreshed.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

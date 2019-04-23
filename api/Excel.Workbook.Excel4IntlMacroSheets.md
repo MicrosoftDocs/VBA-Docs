@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Excel4IntlMacroSheets
 ms.assetid: 70a8c8d0-1169-7c3d-904e-5a32a4693f45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the Micr
 
 ## Syntax
 
- _expression_. `Excel4IntlMacroSheets`
+_expression_. `Excel4IntlMacroSheets`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -41,3 +42,4 @@ MsgBox "There are " & _
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 00112150-89d5-e13f-d31a-50bc3f50fb62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The required .exe or .dll file can't be found.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

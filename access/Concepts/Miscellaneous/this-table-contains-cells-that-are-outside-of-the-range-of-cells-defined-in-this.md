@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 04384beb-26fa-0d73-342c-9db36da24bd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ The file may not be a spreadsheet file or it may have become corrupted. Try read
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

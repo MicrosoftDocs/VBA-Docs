@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenario.ChangingCells
 ms.assetid: 254abee5-0b64-7f68-33e9-28228541ad8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the changi
 
 ## Syntax
 
- _expression_. `ChangingCells`
+_expression_. `ChangingCells`
 
- _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
+_expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveSheet.Scenarios(1).ChangingCells.Select
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

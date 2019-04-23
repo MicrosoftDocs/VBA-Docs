@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 7afed276-c0ca-f801-8323-05477dbcc467
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,5 +27,5 @@ You can use VBScript to extend the  **Click** event of a control in a custom for
 ```
 
 3. Enter the code that you want in the event.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

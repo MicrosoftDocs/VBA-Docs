@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyBulletedLists Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyBulletedLists property (Word)
 keywords: vbawd10.chm165347590
 f1_keywords:
 - vbawd10.chm165347590
@@ -8,24 +8,25 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyBulletedLists
 ms.assetid: b8bb6d3f-2226-db63-6edd-e8313a13c8c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyBulletedLists Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyBulletedLists property (Word)
 
- **True** if bullet characters (such as asterisks, hyphens, and greater-than signs) are replaced with bullets. Read/write **Boolean** .
+ **True** if bullet characters (such as asterisks, hyphens, and greater-than signs) are replaced with bullets. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyBulletedLists`
+_expression_. `AutoFormatAsYouTypeApplyBulletedLists`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
 
 ## Remarks
 
-If set to  **True** , Word replaces bullet character with bullets defined in the **Bullets And Numbering** dialog box (**Format** menu) as you type.
+If set to  **True**, Word replaces bullet character with bullets defined in the **Bullets And Numbering** dialog box (**Format** menu) as you type.
 
 
 ## Example
@@ -54,3 +55,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyBulletedLists
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.Zoom
 ms.assetid: 82e6ac47-7054-52a9-383e-80be278dab0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that represents the display size of the win
 
 ## Syntax
 
- _expression_. `Zoom`
+_expression_. `Zoom`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ This function affects only the sheet that's currently active in the window. To u
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

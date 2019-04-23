@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4db5a9f1-3b22-4c56-a550-42e42baba0b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.HideChartDraftModeNotification Property (PowerPoint)](http://msdn.microsoft.com/library/374a6720-4a7b-f6f6-3620-5747c502087b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

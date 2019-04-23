@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Transpose Method (Excel)
+title: WorksheetFunction.Transpose method (Excel)
 keywords: vbaxl10.chm137117
 f1_keywords:
 - vbaxl10.chm137117
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Transpose
 ms.assetid: 327aaf19-c226-5251-9bec-eadc4546d53a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Transpose Method (Excel)
+# WorksheetFunction.Transpose method (Excel)
 
 Returns a vertical range of cells as a horizontal range, or vice versa. TRANSPOSE must be entered as an array formula in a range that has the same number of rows and columns, respectively, as an array has columns and rows. Use TRANSPOSE to shift the vertical and horizontal orientation of an array on a worksheet.
 
 
 ## Syntax
 
- _expression_. `Transpose`( `_Arg1_` )
+_expression_. `Transpose`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ Variant
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,21 +1,22 @@
 ---
-title: StartDriver.Warnings Property (Project)
+title: StartDriver.Warnings property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.Warnings
 ms.assetid: 409c84e2-8307-fb82-af19-fa0e9f6b406b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StartDriver.Warnings Property (Project)
+# StartDriver.Warnings property (Project)
 
 Gets a combination of  **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are problems for a specified task. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Warnings`
+_expression_. `Warnings`
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 
@@ -109,3 +110,5 @@ End Function
 
 
 [StartDriver Object](Project.StartDriver.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

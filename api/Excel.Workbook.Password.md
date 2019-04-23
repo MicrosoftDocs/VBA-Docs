@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Password
 ms.assetid: 5eaaf8cd-4344-946e-ecfa-c0f48946d2f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.Password property (Excel)
 
-Returns or sets the password that must be supplied to open the specified workbook. Read/write  **String** .
+Returns or sets the password that must be supplied to open the specified workbook. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Password`
+_expression_. `Password`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

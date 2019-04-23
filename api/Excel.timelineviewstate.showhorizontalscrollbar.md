@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: d981bbe4-b274-39f3-90c2-66980f0ff658
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TimelineViewState.ShowHorizontalScrollbar property (Excel)
 
-Get or set whether the control's horizontal scrollbar is displayed.  **Boolean** Read/Write
+Get or set whether the control's horizontal scrollbar is displayed.  Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowHorizontalScrollbar`
+_expression_. `ShowHorizontalScrollbar`
 
- _expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md)object.
+_expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md)object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Get or set whether the control's horizontal scrollbar is displayed.  **Boolean**
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

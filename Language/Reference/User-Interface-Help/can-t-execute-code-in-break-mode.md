@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 315e15ea-b33b-4f62-4112-f84b5e845393
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -20,3 +21,4 @@ You enter [break mode](../../Glossary/vbe-glossary.md#break-mode) when you suspe
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

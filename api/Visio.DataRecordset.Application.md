@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Application Property (Visio)
+title: DataRecordset.Application property (Visio)
 keywords: vis_sdr.chm16413090
 f1_keywords:
 - vis_sdr.chm16413090
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.Application
 ms.assetid: c602b9de-09b0-ca9b-a59b-4572be032a54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.Application Property (Visio)
+# DataRecordset.Application property (Visio)
 
 Returns the instance of Microsoft Visio associated with a  **DataRecordset** object. Read-only.
 
@@ -21,7 +22,7 @@ Returns the instance of Microsoft Visio associated with a  **DataRecordset** obj
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -30,4 +31,4 @@ Returns the instance of Microsoft Visio associated with a  **DataRecordset** obj
 
 Application
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

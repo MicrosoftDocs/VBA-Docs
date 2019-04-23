@@ -1,5 +1,5 @@
 ---
-title: MSGWrap.posttime Property (Visio)
+title: MSGWrap.posttime property (Visio)
 keywords: vis_sdr.chm16150770
 f1_keywords:
 - vis_sdr.chm16150770
@@ -8,17 +8,18 @@ api_name:
 - Visio.MSGWrap.posttime
 ms.assetid: e43c865b-eca8-22c7-de8e-1c6ec3f53348
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MSGWrap.posttime Property (Visio)
+# MSGWrap.posttime property (Visio)
 
 Gets or sets the  **time** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
 
- _expression_. `posttime`
+_expression_. `posttime`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
@@ -34,4 +35,4 @@ The  **posttime** property corresponds to the **time** member of the **MSG** str
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

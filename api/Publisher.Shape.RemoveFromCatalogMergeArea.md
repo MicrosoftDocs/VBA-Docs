@@ -1,5 +1,5 @@
 ---
-title: Shape.RemoveFromCatalogMergeArea Method (Publisher)
+title: Shape.RemoveFromCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm5308689
 f1_keywords:
 - vbapb10.chm5308689
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.RemoveFromCatalogMergeArea
 ms.assetid: 3b3630c3-6bf1-494b-151c-c930f32a2a77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.RemoveFromCatalogMergeArea Method (Publisher)
+# Shape.RemoveFromCatalogMergeArea method (Publisher)
 
 Removes a shape from the specified page's catalog merge area. Removed shapes are not deleted, but instead remain in place on the page containing the catalog merge area.
 
 
 ## Syntax
 
- _expression_. **RemoveFromCatalogMergeArea**
+_expression_.**RemoveFromCatalogMergeArea**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -67,4 +68,4 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

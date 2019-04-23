@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddIf Method (Word)
+title: MailMergeFields.AddIf method (Word)
 keywords: vbawd10.chm153026664
 f1_keywords:
 - vbawd10.chm153026664
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.AddIf
 ms.assetid: 13c9338a-b70e-1132-0390-121d4daa15fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.AddIf Method (Word)
+# MailMergeFields.AddIf method (Word)
 
 Adds an IF field to a mail merge main document. Returns a  **MailMergeField** object.
 
 
 ## Syntax
 
- _expression_. `AddIf`( `_Range_` , `_MergeField_` , `_Comparison_` , `_CompareTo_` , `_TrueAutoText_` , `_TrueText_` , `_FalseAutoText_` , `_FalseText_` )
+_expression_. `AddIf`( `_Range_` , `_MergeField_` , `_Comparison_` , `_CompareTo_` , `_TrueAutoText_` , `_TrueText_` , `_FalseAutoText_` , `_FalseText_` )
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Parameters
@@ -66,3 +67,4 @@ ActiveDocument.MailMerge.Fields.AddIf Range:=Selection.Range, _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

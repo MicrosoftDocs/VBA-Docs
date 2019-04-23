@@ -1,5 +1,5 @@
 ---
-title: Account.ExchangeMailboxServerVersion Property (Outlook)
+title: Account.ExchangeMailboxServerVersion property (Outlook)
 keywords: vbaol11.chm3551
 f1_keywords:
 - vbaol11.chm3551
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Account.ExchangeMailboxServerVersion
 ms.assetid: 5bfd2c63-5a87-9225-a9a8-1771fc480f21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Account.ExchangeMailboxServerVersion Property (Outlook)
+# Account.ExchangeMailboxServerVersion property (Outlook)
 
 Returns a  **String** value that represents the full version number of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
 
 
 ## Syntax
 
- _expression_. `ExchangeMailboxServerVersion`
+_expression_. `ExchangeMailboxServerVersion`
 
- _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
+_expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If an Exchange mailbox is not associated with this account, this property return
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

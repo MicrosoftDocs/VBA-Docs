@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AvailablePrinters Property (Visio)
+title: InvisibleApp.AvailablePrinters property (Visio)
 keywords: vis_sdr.chm17550510
 f1_keywords:
 - vis_sdr.chm17550510
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.AvailablePrinters
 ms.assetid: 3e4bba9c-d338-deea-ef78-7150804d0216
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.AvailablePrinters Property (Visio)
+# InvisibleApp.AvailablePrinters property (Visio)
 
 Returns a list of installed printers. Read-only.
 
 
 ## Syntax
 
- _expression_. `AvailablePrinters`
+_expression_. `AvailablePrinters`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -50,4 +51,4 @@ Public Sub AvailablePrinters_example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

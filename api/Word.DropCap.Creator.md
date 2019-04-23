@@ -1,5 +1,5 @@
 ---
-title: DropCap.Creator Property (Word)
+title: DropCap.Creator property (Word)
 keywords: vbawd10.chm156632041
 f1_keywords:
 - vbawd10.chm156632041
@@ -8,19 +8,20 @@ api_name:
 - Word.DropCap.Creator
 ms.assetid: a92ac246-0003-0db8-6c80-23114cf56966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DropCap.Creator Property (Word)
+# DropCap.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[DropCap](Word.DropCap.md)' object.
+_expression_ Required. A variable that represents a '[DropCap](Word.DropCap.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [DropCap Object](Word.DropCap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

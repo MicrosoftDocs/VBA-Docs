@@ -1,5 +1,5 @@
 ---
-title: Page.QueryCancelGroup Event (Visio)
+title: Page.QueryCancelGroup event (Visio)
 keywords: vis_sdr.chm10962000
 f1_keywords:
 - vis_sdr.chm10962000
@@ -8,12 +8,13 @@ api_name:
 - Visio.Page.QueryCancelGroup
 ms.assetid: ee70861c-ca8e-0cc8-ddc4-40c5bcb9f74e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.QueryCancelGroup Event (Visio)
+# Page.QueryCancelGroup event (Visio)
 
-Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns  **True** , the operation is canceled.
+Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 
 
 ## Syntax
@@ -50,4 +51,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

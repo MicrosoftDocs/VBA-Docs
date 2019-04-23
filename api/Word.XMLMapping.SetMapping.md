@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.SetMapping Method (Word)
+title: XMLMapping.SetMapping method (Word)
 keywords: vbawd10.chm199688195
 f1_keywords:
 - vbawd10.chm199688195
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLMapping.SetMapping
 ms.assetid: 0d33be39-f355-7a59-802c-33d031485a0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLMapping.SetMapping Method (Word)
+# XMLMapping.SetMapping method (Word)
 
 Allows creating or changing the XML mapping on a content control. Returns  **True** if Microsoft Word maps the content control to a custom XML node in the document?s custom XML data store.
 
 
 ## Syntax
 
- _expression_. `SetMapping`( `_XPath_` , `_PrefixMapping_` , `_Source_` )
+_expression_. `SetMapping`( `_XPath_` , `_PrefixMapping_` , `_Source_` )
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
@@ -90,3 +91,4 @@ objCustomControl.XMLMapping.SetMapping _
 
 [XMLMapping Object](Word.XMLMapping.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

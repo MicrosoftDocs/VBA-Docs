@@ -1,5 +1,5 @@
 ---
-title: Accounts.AutoDiscoverComplete Event (Outlook)
+title: Accounts.AutoDiscoverComplete event (Outlook)
 keywords: vbaol11.chm3477
 f1_keywords:
 - vbaol11.chm3477
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Accounts.AutoDiscoverComplete
 ms.assetid: 86738163-4fb3-b2f5-40bd-4704081d4564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Accounts.AutoDiscoverComplete Event (Outlook)
+# Accounts.AutoDiscoverComplete event (Outlook)
 
 Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange Server that is associated with the account, and has the related information available in the  **[AutoDiscoverXml](Outlook.Account.AutoDiscoverXml.md)** property of the **[Account](Outlook.Account.md)** object.
 
 
 ## Syntax
 
- _expression_. `AutoDiscoverComplete`( `_Account_` )
+_expression_. `AutoDiscoverComplete`( `_Account_` )
 
- _expression_ A variable that represents an '[Accounts](Outlook.Accounts.md)' object.
+_expression_ A variable that represents an '[Accounts](Outlook.Accounts.md)' object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ This event is similar to the  **[AutoDiscoverComplete](Outlook.NameSpace.AutoDis
 
 [Accounts Object](Outlook.Accounts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 989b13c4-eb45-40eb-9d42-bc601cab0346
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Player.Play Method (PowerPoint)](http://msdn.microsoft.com/library/784de3da-846e-fb9d-bc14-6ba453904d30%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.ConvertToTable Method (Word)
+title: Selection.ConvertToTable method (Word)
 keywords: vbawd10.chm158663113
 f1_keywords:
 - vbawd10.chm158663113
@@ -8,17 +8,18 @@ api_name:
 - Word.Selection.ConvertToTable
 ms.assetid: b2f487dd-7a10-5e5f-74f1-a2e9b5e9d958
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.ConvertToTable Method (Word)
+# Selection.ConvertToTable method (Word)
 
 Converts text within a range to a table. Returns the table as a  **Table** object.
 
 
 ## Syntax
 
- _expression_. `ConvertToTable`( `_Separator_` , `_NumRows_` , `_NumColumns_` , `_InitialColumnWidth_` , `_Format_` , `_ApplyBorders_` , `_ApplyShading_` , `_ApplyFont_` , `_ApplyColor_` , `_ApplyHeadingRows_` , `_ApplyLastRow_` , `_ApplyFirstColumn_` , `_ApplyLastColumn_` , `_AutoFit_` , `_AutoFitBehavior_` , `_DefaultTableBehavior_` )
+_expression_. `ConvertToTable`( `_Separator_` , `_NumRows_` , `_NumColumns_` , `_InitialColumnWidth_` , `_Format_` , `_ApplyBorders_` , `_ApplyShading_` , `_ApplyFont_` , `_ApplyColor_` , `_ApplyHeadingRows_` , `_ApplyLastRow_` , `_ApplyFirstColumn_` , `_ApplyLastColumn_` , `_AutoFit_` , `_AutoFitBehavior_` , `_DefaultTableBehavior_` )
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -43,7 +44,7 @@ Converts text within a range to a table. Returns the table as a  **Table** objec
 | _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format.|
 | _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format.|
 | _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells.|
-| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following  **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior** , this argument is ignored.|
+| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following  **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior**, this argument is ignored.|
 | _DefaultTableBehavior_|Optional| **Variant**| Sets a value that specifies whether Microsoft Word automatically resizes cells in a table to fit the contents (AutoFit). Can be one of the **WdDefaultTableBehavior** constant.|
 
 ## Return value
@@ -75,3 +76,4 @@ Set myTable = Selection.ConvertToTable( _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: UserProperty.Session Property (Outlook)
+title: UserProperty.Session property (Outlook)
 keywords: vbaol11.chm215
 f1_keywords:
 - vbaol11.chm215
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserProperty.Session
 ms.assetid: 181d0aad-9b03-9cce-b6dd-33a290d57ee9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperty.Session Property (Outlook)
+# UserProperty.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [UserProperty Object](Outlook.UserProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

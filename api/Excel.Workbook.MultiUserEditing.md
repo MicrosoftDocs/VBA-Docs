@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.MultiUserEditing
 ms.assetid: dc721463-ec34-8c52-6701-51c406beed23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.MultiUserEditing property (Excel)
 
- **True** if the workbook is open as a shared list. Read-only **Boolean** .
+ **True** if the workbook is open as a shared list. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MultiUserEditing`
+_expression_. `MultiUserEditing`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

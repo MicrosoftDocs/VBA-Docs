@@ -1,5 +1,5 @@
 ---
-title: Sync.Status Property (Office)
+title: Sync.Status property (Office)
 keywords: vbaof11.chm277001
 f1_keywords:
 - vbaof11.chm277001
@@ -7,11 +7,12 @@ ms.prod: office
 api_name:
 - Office.Sync.Status
 ms.assetid: fdddff38-268b-835a-7c8d-db76d862e392
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# Sync.Status Property (Office)
+# Sync.Status property (Office)
 
 Gets the status of the synchronization of the local copy of the active document with the server copy. Read-only.
 
@@ -21,53 +22,51 @@ Gets the status of the synchronization of the local copy of the active document 
 
 ## Syntax
 
- _expression_. `Status`
+_expression_.**Status**
 
- _expression_ Required. A variable that represents a '[Sync](Office.Sync.md)' object.
+_expression_ Required. A variable that represents a **[Sync](Office.Sync.md)** object.
 
 
 ## Remarks
 
-Use the  **Status** property to determine whether the local copy of the active document is synchronized with the shared server copy. Use the **GetUpdate** method to refresh the status. Use the following methods and properties when appropriate to respond to various status conditions:
+Use the **Status** property to determine whether the local copy of the active document is synchronized with the shared server copy. Use the **GetUpdate** method to refresh the status. 
+
+Use the following methods and properties when appropriate to respond to various [status conditions](office.msosyncstatustype.md):
+
+- **msoSyncStatusConflict**. **True** when both the local and the server copies have changes. Use the **ResolveConflict** method to resolve the differences.
+    
+- **msoSyncStatusError**. Check the **ErrorType** property.
+    
+- **msoSyncStatusLocalChanges**. **True** when only the local copy has changes. Use the **PutUpdate** method to save local changes to the server copy.
+    
+- **msoSyncStatusNewerAvailable**. **True** when only the server copy has changes. Close and re-open the document to work with the latest copy from the server.
+    
+- **msoSyncStatusSuspended**. Use the **Unsuspend** method to resume synchronization.
+    
 
 
+The **Status** property returns a single constant from the list in the following order of precedence:
 
-
--  ** msoSyncStatusConflict** - **True** when both the local and the server copies have changes. Use the **ResolveConflict** method to resolve the differences.
+1. **msoSyncStatusNoSharedWorkspace**
     
--  **msoSyncStatusError** - Check the **ErrorType** property.
+2. **msoSyncStatusError**
     
--  ** msoSyncStatusLocalChanges** - **True** when only the local copy has changes. Use the **PutUpdate** method to save local changes to the server copy.
+3. **msoSyncStatusSuspended**
     
--  ** msoSyncStatusNewerAvailable** - **True** when only the server copy has changes. Close and re-open the document to work with the latest copy from the server.
+4. **msoSyncStatusConflict**
     
--  ** msoSyncStatusSuspended** - Use the **Unsuspend** method to resume synchronization.
+5. **msoSyncStatusNewerAvailable**
     
-
-
-The  **Status** property returns a single constant from the list in the following order of precedence:
-
-
-1.  **msoSyncStatusNoSharedWorkspace**
+6. **msoSyncStatusLocalChanges**
     
-2.  **msoSyncStatusError**
-    
-3.  **msoSyncStatusSuspended**
-    
-4.  **msoSyncStatusConflict**
-    
-5.  **msoSyncStatusNewerAvailable**
-    
-6.  **msoSyncStatusLocalChanges**
-    
-7.  **msoSyncStatusLatest**
+7. **msoSyncStatusLatest**
     
 
 
 
 ## Example
 
-The following example examines the  **Status** property and takes an appropriate action to synchronize the local and server copies of the document if necessary.
+The following example examines the **Status** property and takes an appropriate action to synchronize the local and server copies of the document if necessary.
 
 
 ```vb
@@ -105,10 +104,8 @@ The following example examines the  **Status** property and takes an appropriate
 
 ## See also
 
-
-[Sync Object](Office.Sync.md)
-
+- [Sync object members](overview/Library-Reference/sync-members-office.md)
 
 
-[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

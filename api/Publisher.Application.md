@@ -1,5 +1,5 @@
 ---
-title: Application Object (Publisher)
+title: Application object (Publisher)
 keywords: vbapb10.chm536936447
 f1_keywords:
 - vbapb10.chm536936447
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Application
 ms.assetid: acfc7efb-e6a5-a89a-3aee-3cb4af2f3508
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application Object (Publisher)
+# Application object (Publisher)
 
 Represents the Microsoft Publisher application. The  **Application** object includes properties and methods that return top-level objects. For example, the **ActiveDocument** property returns a **Document** object.
 
@@ -37,7 +38,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterPrint](./Publisher.Application.AfterPrint.md)|
 |[BeforePrint](./Publisher.Application.BeforePrint.md)|
@@ -66,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CentimetersToPoints](./Publisher.Application.CentimetersToPoints.md)|
 |[ChangeFileOpenDirectory](./Publisher.Application.ChangeFileOpenDirectory.md)|
@@ -96,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveDocument](./Publisher.Application.ActiveDocument.md)|
 |[ActiveWindow](./Publisher.Application.ActiveWindow.md)|
@@ -135,4 +136,6 @@ End Sub
 ## See also
 
 
-[Application Object Members](./overview/Publisher.md)
+[Application Object Members](overview/Publisher.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

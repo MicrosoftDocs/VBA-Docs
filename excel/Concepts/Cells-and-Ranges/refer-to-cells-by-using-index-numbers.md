@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 5671563b-9a20-3124-58d9-cfa02fac5312
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,4 +39,4 @@ End Sub
 
  **Note**  If you want to change the properties of (or apply a method to) a range of cells all at once, use the  **Range** property. For more information, see [Refer to Cells and Ranges by Using A1 Notation](refer-to-cells-and-ranges-by-using-a1-notation.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

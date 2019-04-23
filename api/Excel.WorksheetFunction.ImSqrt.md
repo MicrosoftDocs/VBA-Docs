@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSqrt Method (Excel)
+title: WorksheetFunction.ImSqrt method (Excel)
 keywords: vbaxl10.chm137277
 f1_keywords:
 - vbaxl10.chm137277
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImSqrt
 ms.assetid: 095ecba9-c987-8b58-f07e-d0f79436d650
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImSqrt Method (Excel)
+# WorksheetFunction.ImSqrt method (Excel)
 
 Returns the square root of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImSqrt`( `_Arg1_` )
+_expression_. `ImSqrt`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

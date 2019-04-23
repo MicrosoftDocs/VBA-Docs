@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Separator Property (Word)
+title: DataLabels.Separator property (Word)
 keywords: vbawd10.chm207489003
 f1_keywords:
 - vbawd10.chm207489003
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabels.Separator
 ms.assetid: daf3afde-8a33-de08-a615-57537855818a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.Separator Property (Word)
+# DataLabels.Separator property (Word)
 
-Sets or returns the separator for the data labels on a chart. Read/write  **Variant** .
+Sets or returns the separator for the data labels on a chart. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Separator`
+_expression_. `Separator`
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 
@@ -48,3 +49,4 @@ End With
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

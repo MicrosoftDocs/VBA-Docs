@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.DataType
 ms.assetid: 95671f37-9886-822f-672c-1c5706b9c0bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[XlPivotFieldDataType](Excel.XlPivotFieldDataType.md)** value that 
 
 ## Syntax
 
- _expression_. `DataType`
+_expression_. `DataType`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Select
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

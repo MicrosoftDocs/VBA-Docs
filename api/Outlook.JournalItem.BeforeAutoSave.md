@@ -1,23 +1,24 @@
 ---
-title: JournalItem.BeforeAutoSave Event (Outlook)
+title: JournalItem.BeforeAutoSave event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeAutoSave
 ms.assetid: b4924fd8-52cd-fa8d-11d8-2683ea2f5b52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# JournalItem.BeforeAutoSave Event (Outlook)
+# JournalItem.BeforeAutoSave event (Outlook)
 
 Occurs before the item is automatically saved by Outlook.
 
 
 ## Syntax
 
- _expression_. `BeforeAutoSave`( `_Cancel_` , )
+_expression_. `BeforeAutoSave`( `_Cancel_` , )
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 
 
 ## Parameters
@@ -33,3 +34,4 @@ Occurs before the item is automatically saved by Outlook.
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

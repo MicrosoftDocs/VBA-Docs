@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the VBA PowerPoint object mod
 ms.prod: powerpoint
 ms.assetid: 11d86f40-9e35-43ee-b5d9-f80b7f8f8511
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 
@@ -139,3 +140,4 @@ This section contains documentation for the enumerations in the PowerPoint objec
 - [XlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)
 - [XlVAlign](PowerPoint.XlVAlign.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

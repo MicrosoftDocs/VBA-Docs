@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourcePath Property (Word)
+title: ProtectedViewWindow.SourcePath property (Word)
 keywords: vbawd10.chm231735307
 f1_keywords:
 - vbawd10.chm231735307
@@ -8,17 +8,18 @@ api_name:
 - Word.ProtectedViewWindow.SourcePath
 ms.assetid: 05b4e601-894a-de8f-1119-565183b244b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.SourcePath Property (Word)
+# ProtectedViewWindow.SourcePath property (Word)
 
-Returns the path of the source file for the specified protected view window. Read-only  **String** .
+Returns the path of the source file for the specified protected view window. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `SourcePath`
+_expression_. `SourcePath`
 
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
@@ -45,3 +46,4 @@ MsgBox ActiveProtectedViewWindow.SourcePath & Application.PathSeparator _
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OutlinePromote Method (Word)
+title: Paragraph.OutlinePromote method (Word)
 keywords: vbawd10.chm156696902
 f1_keywords:
 - vbawd10.chm156696902
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.OutlinePromote
 ms.assetid: 7612c321-0f0f-0a9b-8272-5328617c327a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.OutlinePromote Method (Word)
+# Paragraph.OutlinePromote method (Word)
 
 Applies the previous heading level style (Heading 1 through Heading 8) to the specified paragraph or paragraphs.
 
 
 ## Syntax
 
- _expression_. `OutlinePromote`
+_expression_. `OutlinePromote`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ ActiveDocument.Paragraphs(1).OutlinePromote
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

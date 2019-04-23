@@ -1,5 +1,5 @@
 ---
-title: KeyBindings.Add Method (Word)
+title: KeyBindings.Add method (Word)
 keywords: vbawd10.chm160825445
 f1_keywords:
 - vbawd10.chm160825445
@@ -8,19 +8,20 @@ api_name:
 - Word.KeyBindings.Add
 ms.assetid: b73a8af4-6e8f-7613-a8a5-b0c9f7c995ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyBindings.Add Method (Word)
+# KeyBindings.Add method (Word)
 
 Returns a  **KeyBinding** object that represents a new shortcut key for a macro, built-in command, font, AutoText entry, style, or symbol.
 
 
 ## Syntax
 
- _expression_. `Add`( `_KeyCategory_` , `_Command_` , `_KeyCode_` , `_KeyCode2_` , `_CommandParameter_` )
+_expression_.**Add**( `_KeyCategory_` , `_Command_` , `_KeyCode_` , `_KeyCode2_` , `_CommandParameter_` )
 
- _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
+_expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
 ## Parameters
@@ -50,7 +51,7 @@ In the following table, the left column contains commands that require a command
 
 |**If Command is set to**|**CommandParameter must be**|
 |:-----|:-----|
-| **Borders** , **Color** , or **Shading**|A number ? specified as text ? corresponding to the position of the setting selected in the list box that contains values, where 0 (zero) is the first item, 1 is the second item, and so on|
+| **Borders**, **Color**, or **Shading**|A number ? specified as text ? corresponding to the position of the setting selected in the list box that contains values, where 0 (zero) is the first item, 1 is the second item, and so on|
 | **Columns**|A number between 1 and 45 ? specified as text ? corresponding to the number of columns you want to apply|
 | **Condensed**|A text measurement between 0.1 point and 12.75 points specified in 0.05-point increments (72 points = 1 inch)|
 | **Expanded**|A text measurement between 0.1 point and 12.75 points specified in 0.05-point increments (72 points = 1 inch)|
@@ -129,3 +130,4 @@ KeyBindings.Add KeyCategory:=wdKeyCategoryAutoText, _
 
 [KeyBindings Collection Object](Word.keybindings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

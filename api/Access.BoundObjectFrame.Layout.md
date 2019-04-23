@@ -7,24 +7,23 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Layout
 ms.assetid: f2c64167-b3d0-098f-8a86-755efc28f548
-ms.date: 06/08/2017
+ms.date: 02/08/2019
+localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.Layout property (Access)
 
-Returns the type of layout for the specified object frame. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
+Returns the type of layout for the specified object frame. Read-only **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
-_expression_. `Layout`
+_expression_.**Layout**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

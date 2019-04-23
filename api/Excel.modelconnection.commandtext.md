@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 6eb625dd-9890-01cc-e165-82c1257b2322
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets the command string for the specified data source.  **Variant** R
 
 ## Syntax
 
- _expression_. `CommandText`
+_expression_. `CommandText`
 
- _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+_expression_ A variable that represents a **[ModelConnection](Excel.modelconnection.md)** object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ The command text is either a table name (of a model table) or a DAX expression e
 
 [ModelConnection Object](Excel.modelconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

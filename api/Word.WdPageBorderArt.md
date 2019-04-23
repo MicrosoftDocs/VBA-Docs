@@ -1,14 +1,15 @@
 ---
-title: WdPageBorderArt Enumeration (Word)
+title: WdPageBorderArt enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageBorderArt
 ms.assetid: e01fae3c-c39c-8193-44e6-f3908f6b014b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPageBorderArt Enumeration (Word)
+# WdPageBorderArt enumeration (Word)
 
 Specifies the graphical page border setting of a page.
 
@@ -149,7 +150,7 @@ Specifies the graphical page border setting of a page.
 | **wdArtSombrero**|24|A sombrero border.|
 | **wdArtSouthwest**|105|A southwest border.|
 | **wdArtStars**|19|A stars border.|
-| **wdArtStars3D**|17|A 3-D stars border.|
+| **wdArtStars3D**|17|A 3D stars border.|
 | **wdArtStarsBlack**|74|A black stars border.|
 | **wdArtStarsShadowed**|18|A shadowed stars border.|
 | **wdArtStarsTop**|157|A stars-on-top border.|
@@ -181,3 +182,4 @@ Specifies the graphical page border setting of a page.
 | **wdArtZigZag**|137|A zigzag border.|
 | **wdArtZigZagStitch**|143|A zigzag stitch border.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Coauthoring.FavorServerEditsDuringMerge Property (PowerPoint)
+title: Coauthoring.FavorServerEditsDuringMerge property (PowerPoint)
 keywords: vbapp10.chm731004
 f1_keywords:
 - vbapp10.chm731004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Coauthoring.FavorServerEditsDuringMerge
 ms.assetid: 82c563c0-b3a0-18ca-5405-6aa786c4946a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Coauthoring.FavorServerEditsDuringMerge Property (PowerPoint)
+# Coauthoring.FavorServerEditsDuringMerge property (PowerPoint)
 
 Gets or sets whether the merged document favors server-side edits when conflicts occur. Read/write.
 
 
 ## Syntax
 
- _expression_. `FavorServerEditsDuringMerge`
+_expression_. `FavorServerEditsDuringMerge`
 
- _expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
+_expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ Boolean
 
 [Coauthoring Object](PowerPoint.Coauthoring.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

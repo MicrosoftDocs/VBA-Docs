@@ -1,20 +1,22 @@
 ---
-title: Miscellaneous Constants
+title: Miscellaneous constants
 keywords: vblr6.chm1092146
 f1_keywords:
 - vblr6.chm1092146
 ms.prod: office
 ms.assetid: ef7f52d8-5707-c7db-ca47-e7eaec37276d
-ms.date: 08/24/2018
+ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 
-# Miscellaneous Constants
+# Miscellaneous constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) are defined in the Visual Basic for Applications[type library](../../Glossary/vbe-glossary.md#type-library) and can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) are defined in the Visual Basic for Applications [type library](../../Glossary/vbe-glossary.md#type-library) and can be used anywhere in your code in place of the actual values.
 
+<br/>
 
-|**Constant**|**Equivalent**|**Description**|
+|Constant|Equivalent|Description|
 |:-----|:-----|:-----|
 |**vbCrLf**|Chr(**13**) + Chr(**10**)|Carriage return-linefeed combination|
 |**vbCr**|Chr(**13**)|Carriage return character|
@@ -22,10 +24,14 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) are defined i
 |**vbNewLine**|Chr(**13**) + Chr(**10**) or, on the Macintosh, Chr(**13**)|Platform-specific new line character; whichever is appropriate for current platform|
 |**vbNullChar**|Chr(**0**)|Character having value 0|
 |**vbNullString**|String having value 0|Not the same as a zero-length string (""); used for calling external procedures|
-|**vbObjectError**|-2147221504|User-defined error numbers should be greater than this value. For example: 
- `Err.Raise Number = vbObjectError + 1000`|
+|**vbObjectError**|-2147221504|User-defined error numbers should be greater than this value. For example:<br/><br/>`Err.Raise Number = vbObjectError + 1000`|
 |**vbTab**|Chr(**9**)|Tab character|
 |**vbBack**|Chr(**8**)|Backspace character|
 |**vbFormFeed**|Chr(**12**)|Not useful in Microsoft Windows or on the Macintosh|
 |**vbVerticalTab**|Chr(**11**)|Not useful in Microsoft Windows or on the Macintosh|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

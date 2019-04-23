@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldValueList Method (Project)
+title: Application.CustomFieldValueList method (Project)
 keywords: vbapj.chm40
 f1_keywords:
 - vbapj.chm40
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomFieldValueList
 ms.assetid: 7365511c-6746-869b-f8e7-d4b87c5b8e70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomFieldValueList Method (Project)
+# Application.CustomFieldValueList method (Project)
 
 Sets options for a value list for a custom field.
 
 
 ## Syntax
 
- _expression_. `CustomFieldValueList`( ` _FieldID_`, ` _ListDefault_`, ` _DefaultValue_`, ` _RestrictToList_`, ` _AppendNew_`, ` _PromptOnNew_`, ` _DisplayOrder_` )
+_expression_. `CustomFieldValueList`( `_FieldID_`, `_ListDefault_`, `_DefaultValue_`, `_RestrictToList_`, `_AppendNew_`, `_PromptOnNew_`, `_DisplayOrder_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Sets options for a value list for a custom field.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

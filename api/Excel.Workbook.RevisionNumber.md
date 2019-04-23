@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.RevisionNumber
 ms.assetid: 7ea9fde5-eb89-a9b0-b637-980f1533d8ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.RevisionNumber property (Excel)
 
-Returns the number of times the workbook has been saved while open as a shared list. If the workbook is open in exclusive mode, this property returns 0 (zero). Read-only  **Long** .
+Returns the number of times the workbook has been saved while open as a shared list. If the workbook is open in exclusive mode, this property returns 0 (zero). Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `RevisionNumber`
+_expression_. `RevisionNumber`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End If
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

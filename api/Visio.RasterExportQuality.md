@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.RasterExportQuality Property (Visio)
+title: ApplicationSettings.RasterExportQuality property (Visio)
 keywords: vis_sdr.chm16262570
 f1_keywords:
 - vis_sdr.chm16262570
@@ -8,17 +8,18 @@ api_name:
 - Visio.RasterExportQuality
 ms.assetid: 6864bbfd-bb2d-721f-4146-f66974318929
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.RasterExportQuality Property (Visio)
+# ApplicationSettings.RasterExportQuality property (Visio)
 
-Determines the export quality that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a JPG file. Read/write.
+Determines the export quality that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a JPG file. Read/write.
 
 
 ## Syntax
 
- _expression_. `RasterExportQuality`
+_expression_. `RasterExportQuality`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
@@ -36,4 +37,4 @@ For any given session of Microsoft Visio, when the  **RasterExportQuality** prop
 
 The setting of the  **RasterExportQuality** property corresponds to the **Quality** setting in the **JPG Output Options** dialog box in the Microsoft Visio user interface. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **JPEG File Interchange Format (*.jpg)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

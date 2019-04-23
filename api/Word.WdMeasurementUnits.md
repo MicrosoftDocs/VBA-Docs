@@ -1,14 +1,15 @@
 ---
-title: WdMeasurementUnits Enumeration (Word)
+title: WdMeasurementUnits enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMeasurementUnits
 ms.assetid: 098f0fc9-2f45-5d26-fd00-d74f87d953c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMeasurementUnits Enumeration (Word)
+# WdMeasurementUnits enumeration (Word)
 
 Specifies a unit of measure to use.
 
@@ -22,3 +23,4 @@ Specifies a unit of measure to use.
 | **wdPicas**|4|Picas (commonly used in traditional typewriter font spacing).|
 | **wdPoints**|3|Points.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

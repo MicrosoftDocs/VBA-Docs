@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 89a3ca1c-bacc-434b-b108-c04177765aee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewCombination.ShowInMenu Property (Project)](http://msdn.microsoft.com/library/62152a6e-3667-191e-a07f-ca93cfd1b492%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

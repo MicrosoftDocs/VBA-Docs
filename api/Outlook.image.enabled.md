@@ -3,6 +3,7 @@ title: Image.Enabled Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: face613c-7a9c-9b28-ff79-656b83cbdf61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 ## Syntax
 
- _expression_. **Enabled**
+_expression_.**Enabled**
 
- _expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed. If **Enabled** is **False** for an **[Image](Outlook.image.md)**, the control does not initiate events but does not appear dimmed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

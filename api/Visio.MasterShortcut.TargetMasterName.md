@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.TargetMasterName Property (Visio)
+title: MasterShortcut.TargetMasterName property (Visio)
 keywords: vis_sdr.chm16014500
 f1_keywords:
 - vis_sdr.chm16014500
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.TargetMasterName
 ms.assetid: 6c59e85e-9ee8-afb5-c631-c0d790dd666e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.TargetMasterName Property (Visio)
+# MasterShortcut.TargetMasterName property (Visio)
 
 Gets or sets the name of the master to which the master shortcut refers. Read/write.
 
 
 ## Syntax
 
- _expression_. `TargetMasterName`
+_expression_. `TargetMasterName`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -34,4 +35,4 @@ The name specified by this property must be the target master's universal name, 
 
 When the user drops a master shortcut onto a drawing page, the application first locates the document identified by the shortcut's  **TargetDocumentName** property, and then it searches that document for a master whose universal name matches the shortcut's **TargetMasterName** property. Once located, the target master (not the shortcut) is used to create the new shape instance on the drawing page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

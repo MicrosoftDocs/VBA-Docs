@@ -1,5 +1,5 @@
 ---
-title: Conversation.GetChildren Method (Outlook)
+title: Conversation.GetChildren method (Outlook)
 keywords: vbaol11.chm3391
 f1_keywords:
 - vbaol11.chm3391
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Conversation.GetChildren
 ms.assetid: bc68ccd6-9d3c-c404-72b0-a21dbc99ed63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conversation.GetChildren Method (Outlook)
+# Conversation.GetChildren method (Outlook)
 
 Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all items under the specified conversation node.
 
 
 ## Syntax
 
- _expression_. `GetChildren`( `_Item_` )
+_expression_. `GetChildren`( `_Item_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ If no child items exist under that node, the  **GetChildren** method returns a *
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

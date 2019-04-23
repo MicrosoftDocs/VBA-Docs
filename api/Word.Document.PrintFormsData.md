@@ -1,5 +1,5 @@
 ---
-title: Document.PrintFormsData Property (Word)
+title: Document.PrintFormsData property (Word)
 keywords: vbawd10.chm158007379
 f1_keywords:
 - vbawd10.chm158007379
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.PrintFormsData
 ms.assetid: d4582018-b119-a7a3-27c4-cf4f35d00c19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PrintFormsData Property (Word)
+# Document.PrintFormsData property (Word)
 
- **True** if Microsoft Word prints onto a preprinted form only the data entered in the corresponding online form. Read/write **Boolean** .
+ **True** if Microsoft Word prints onto a preprinted form only the data entered in the corresponding online form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintFormsData`
+_expression_. `PrintFormsData`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Example
@@ -48,3 +49,4 @@ temp = ActiveDocument.PrintFormsData
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

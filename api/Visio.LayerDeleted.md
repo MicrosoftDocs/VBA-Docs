@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerDeleted
 ms.assetid: cb7ea0ab-fdf8-2621-5ebc-edab2d9869f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets a value that indicates whether the layer at the specified index in the draw
 
 ## Syntax
 
- _expression_. **LayerDeleted**(**_LayerIndex_**)
+_expression_.**LayerDeleted**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code gets a value that indicates whether the layer at index positi
 Debug.Print vsoViewer.LayerDeleted(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

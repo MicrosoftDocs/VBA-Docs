@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerItems.Application
 ms.assetid: c04b46cf-f9b4-d7a5-06f6-7c379c5e0661
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
+_expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [SlicerItems Object](Excel.SlicerItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.WindowNumber
 ms.assetid: 42dc6fa2-8c10-41d8-2f74-95401e154094
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.WindowNumber property (Excel)
 
-Returns the window number. For example, a window named "Book1.xls:2" has 2 as its window number. Most windows have the window number 1. Read-only  **Long** .
+Returns the window number. For example, a window named "Book1.xls:2" has 2 as its window number. Most windows have the window number 1. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `WindowNumber`
+_expression_. `WindowNumber`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ MsgBox ActiveWindow.WindowNumber
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

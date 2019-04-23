@@ -1,32 +1,25 @@
 ---
-title: Font Object, Bold, Italic, Size, StrikeThrough, Underline, Weight Properties Example
+title: Font object, Bold, Italic, Size, StrikeThrough, Underline, Weight properties example
 keywords: fm20.chm5225182
 f1_keywords:
 - fm20.chm5225182
 ms.prod: office
 ms.assetid: b7fc7c3e-b7ef-9ff3-1dde-06792abf4c51
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Font Object, Bold, Italic, Size, StrikeThrough, Underline, Weight Properties Example
+# Font object, Bold, Italic, Size, StrikeThrough, Underline, Weight properties example
 
-The following example demonstrates a  **Font** object and the **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Weight** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
+The following example demonstrates a **[Font](font-object-microsoft-forms.md)** object and the **[Bold, Italic, Size, StrikeThrough, Underline, Weight](bold-italic-size-strikethrough-underline-weight-properties.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **Label** named Label1.
+- A **[Label](label-control.md)** named Label1.   
+- Four **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 through ToggleButton4.    
+- A second **Label** and a **[TextBox](textbox-control.md)** named Label2 and TextBox1.
     
-- Four  **ToggleButton** controls named ToggleButton1 through ToggleButton4.
-    
-- A second  **Label** and a **TextBox** named Label2 and TextBox1.
-    
-
-
-
 
 ```vb
 Dim MyFont As StdFont 
@@ -106,4 +99,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

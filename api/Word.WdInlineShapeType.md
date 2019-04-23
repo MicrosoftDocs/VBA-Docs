@@ -1,14 +1,15 @@
 ---
-title: WdInlineShapeType Enumeration (Word)
+title: WdInlineShapeType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInlineShapeType
 ms.assetid: 2843a994-6016-b07f-3bc3-70a5c6205cf3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdInlineShapeType Enumeration (Word)
+# WdInlineShapeType enumeration (Word)
 
 Specifies a shape type for inline shapes.
 
@@ -16,10 +17,12 @@ Specifies a shape type for inline shapes.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
+| **wdInlineShape3DModel**|19|3D Model.|
 | **wdInlineShapeChart**|12|Inline chart.|
 | **wdInlineShapeDiagram**|13|Inline diagram.|
 | **wdInlineShapeEmbeddedOLEObject**|1|Embedded OLE object.|
 | **wdInlineShapeHorizontalLine**|6|Horizontal line.|
+| **wdInlineShapeLinked3DModel**|20|Linked 3D Model.|
 | **wdInlineShapeLinkedOLEObject**|2|Linked OLE object.|
 | **wdInlineShapeLinkedPicture**|4|Linked picture.|
 | **wdInlineShapeLinkedPictureHorizontalLine**|8|Linked picture with horizontal line.|
@@ -33,3 +36,4 @@ Specifies a shape type for inline shapes.
 | **wdInlineShapeSmartArt**|15|A SmartArt graphic.|
 | **wdInlineShapeWebVideo**|16|A picture acting as a poster frame for a web video.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.TableCopy Method (Project)
+title: Application.TableCopy method (Project)
 keywords: vbapj.chm400
 f1_keywords:
 - vbapj.chm400
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TableCopy
 ms.assetid: 90e0a546-2802-5ba7-6b49-086b32051451
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TableCopy Method (Project)
+# Application.TableCopy method (Project)
 
 Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and sets the view to use the new table.
 
 
 ## Syntax
 
- _expression_. `TableCopy`( ` _Name_` )
+_expression_. `TableCopy`( `_Name_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ If the active view is the Resource Sheet, the following statement copies the res
 TableCopy Name:="Copy of Resource Sheet table"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

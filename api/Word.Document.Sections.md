@@ -1,5 +1,5 @@
 ---
-title: Document.Sections Property (Word)
+title: Document.Sections property (Word)
 keywords: vbawd10.chm158007311
 f1_keywords:
 - vbawd10.chm158007311
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Sections
 ms.assetid: 83c3ec94-b0ef-e8a5-b17a-ad657e7197b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Sections Property (Word)
+# Document.Sections property (Word)
 
 Returns a  **[Section](Word.Section.md)** collection that represents the sections in the specified document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Sections`
+_expression_. `Sections`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ mysec.Range.InsertAfter "This is section 2"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

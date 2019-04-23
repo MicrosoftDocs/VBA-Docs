@@ -1,5 +1,5 @@
 ---
-title: TaskRequestDeclineItem.ItemProperties Property (Outlook)
+title: TaskRequestDeclineItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1861
 f1_keywords:
 - vbaol11.chm1861
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestDeclineItem.ItemProperties
 ms.assetid: e9a53925-9d20-4390-eef1-66619b9d7ba7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestDeclineItem.ItemProperties Property (Outlook)
+# TaskRequestDeclineItem.ItemProperties property (Outlook)
 
 Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemProperties`
+_expression_. `ItemProperties`
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders Object (Office)
+title: SharedWorkspaceFolders object (Office)
 keywords: vbaof11.chm269000
 f1_keywords:
 - vbaof11.chm269000
@@ -7,13 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolders
 ms.assetid: a9020edc-f199-6bab-75d1-c2bdc2a547d3
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceFolders Object (Office)
+# SharedWorkspaceFolders object (Office)
 
-A collection of the  **SharedWorkspaceFolder** objects in the current shared workspace.
+A collection of the **SharedWorkspaceFolder** objects in the current shared workspace.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,7 +22,7 @@ A collection of the  **SharedWorkspaceFolder** objects in the current shared wor
 
 ## Example
 
-Use the  **Folders** property of the **SharedWorkspace** object to return a **SharedWorkspaceFolders** collection.
+Use the **Folders** property of the **SharedWorkspace** object to return a **SharedWorkspaceFolders** collection.
 
 
 ```vb
@@ -36,31 +37,11 @@ Use the  **Folders** property of the **SharedWorkspace** object to return a **Sh
 ```
 
 
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Add](Office.SharedWorkspaceFolders.Add.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.SharedWorkspaceFolders.Application.md)|
-|[Count](Office.SharedWorkspaceFolders.Count.md)|
-|[Creator](Office.SharedWorkspaceFolders.Creator.md)|
-|[Item](Office.SharedWorkspaceFolders.Item.md)|
-|[ItemCountExceeded](Office.SharedWorkspaceFolders.ItemCountExceeded.md)|
-|[Parent](Office.SharedWorkspaceFolders.Parent.md)|
-
 ## See also
 
+- [SharedWorkspaceFolders object members](overview/Library-Reference/sharedworkspacefolders-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

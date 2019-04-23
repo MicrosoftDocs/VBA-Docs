@@ -1,18 +1,19 @@
 ---
-title: MsoControlType Enumeration (Office)
+title: MsoControlType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoControlType
 ms.assetid: 62167ab6-edbe-4718-ff4a-0f1ff1059e8b
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoControlType Enumeration (Office)
+# MsoControlType enumeration (Office)
 
-Specifies the type of the command bar control. Used with the  **Add** method of the **CommandBarControls** object. Only a limited set of the control types can be created via the **CommandBars** object model: **msoControlButton**, **msoControlEdit**, **msoControlDropdown**, **msoControlComboBox**, **msoControlPopup**, and **msoControlActiveX**. Other control types may exist on built-in or add-in command bars, but cannot be created via the object model.
+Specifies the type of the command bar control. Used with the **Add** method of the **CommandBarControls** object. Only a limited set of the control types can be created via the **CommandBars** object model: **msoControlButton**, **msoControlEdit**, **msoControlDropdown**, **msoControlComboBox**, **msoControlPopup**, and **msoControlActiveX**. Other control types may exist on built-in or add-in command bars, but cannot be created via the object model.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -44,3 +45,4 @@ Specifies the type of the command bar control. Used with the  **Add** method of 
 |**msoControlSplitExpandingGrid**|17|Split expanding grid. Cannot be created through the object model.|
 |**msoControlWorkPane**|25|Work pane. Cannot be created through the object model.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

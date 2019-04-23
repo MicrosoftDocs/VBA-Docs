@@ -1,5 +1,5 @@
 ---
-title: Document.SaveAs Method (Publisher)
+title: Document.SaveAs method (Publisher)
 keywords: vbapb10.chm196696
 f1_keywords:
 - vbapb10.chm196696
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.SaveAs
 ms.assetid: ba8b85d7-8ca9-dcf5-12b4-4cabced743e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SaveAs Method (Publisher)
+# Document.SaveAs method (Publisher)
 
 Saves the specified publication with a new name or format.
 
 
 ## Syntax
 
- _expression_. **SaveAs**(**_Filename_**,  **_Format_**,  **_AddToRecentFiles_**)
+_expression_.**SaveAs**(**_FileName_**,  **_Format_**,  **_AddToRecentFiles_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -81,4 +82,4 @@ With ActiveDocument
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

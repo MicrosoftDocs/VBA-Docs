@@ -1,5 +1,5 @@
 ---
-title: PostItem.InternetCodepage Property (Outlook)
+title: PostItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1561
 f1_keywords:
 - vbaol11.chm1561
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.InternetCodepage
 ms.assetid: f42488b4-5f41-d03e-bf75-c07249230215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.InternetCodepage Property (Outlook)
+# PostItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 
 
 ## Syntax
 
- _expression_. `InternetCodepage`
+_expression_. `InternetCodepage`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Remarks
@@ -67,7 +68,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 |Western European (ISO)|iso-8859-1|28591|
 |Western European (Windows)|Windows-1252|1252|
 
-The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
+The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
 
 
@@ -102,3 +103,4 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

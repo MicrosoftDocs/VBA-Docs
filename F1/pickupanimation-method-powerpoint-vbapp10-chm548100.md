@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c1358f80-d929-4975-955d-28935f1094bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ShapeRange.ApplyAnimation Method (PowerPoint)](http://msdn.microsoft.com/library/cfaa7d9c-3a65-1be7-dd6c-61e01b9e7d36%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Comments Object (PowerPoint)
+title: Comments object (PowerPoint)
 keywords: vbapp10.chm641000
 f1_keywords:
 - vbapp10.chm641000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Comments
 ms.assetid: 1f29db7c-90fa-db9f-5229-136534ce803d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Comments Object (PowerPoint)
+# Comments object (PowerPoint)
 
 Represents a collection of  **[Comment](PowerPoint.Comment.md)** objects.
 
@@ -56,3 +57,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

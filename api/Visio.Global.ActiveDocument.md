@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveDocument Property (Visio)
+title: Global.ActiveDocument property (Visio)
 keywords: vis_sdr.chm12813025
 f1_keywords:
 - vis_sdr.chm12813025
@@ -8,17 +8,18 @@ api_name:
 - Visio.Global.ActiveDocument
 ms.assetid: 305c79be-980f-a010-f3dc-8996d6b90e81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.ActiveDocument Property (Visio)
+# Global.ActiveDocument property (Visio)
 
 Returns the active  **Document** object, which is the document shown in the active window. Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveDocument`
+_expression_. `ActiveDocument`
 
  _expression_ A variable that represents a [Global](./Visio.Global.md) object.
 
@@ -69,4 +70,4 @@ Public Sub ActiveDocument_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

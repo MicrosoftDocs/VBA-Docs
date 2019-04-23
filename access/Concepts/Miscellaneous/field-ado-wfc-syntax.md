@@ -3,6 +3,7 @@ title: Field (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 61d7028f-ed13-2a20-643d-68d43df91163
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -100,3 +101,5 @@ public void setObject(Object value )
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

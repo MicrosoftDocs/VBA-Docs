@@ -1,5 +1,5 @@
 ---
-title: Page.DropManyLinkedU Method (Visio)
+title: Page.DropManyLinkedU method (Visio)
 keywords: vis_sdr.chm10960175
 f1_keywords:
 - vis_sdr.chm10960175
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.DropManyLinkedU
 ms.assetid: 0b80591a-a563-bdad-b048-e15693410547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.DropManyLinkedU Method (Visio)
+# Page.DropManyLinkedU method (Visio)
 
 Creates multiple new shapes on the drawing page that are linked to multiple data rows in a data recordset. Returns the number of shape instances created and an array of IDs of those shapes.
 
@@ -21,7 +22,7 @@ Creates multiple new shapes on the drawing page that are linked to multiple data
 
 ## Syntax
 
- _expression_. `DropManyLinkedU`( `_ObjectsToInstance()_` , `_XYs()_` , `_DataRecordsetID_` , `_DataRowIDs()_` , `_ApplyDataGraphicAfterLink_` , `_ShapeIDs()_` )
+_expression_. `DropManyLinkedU`( `_ObjectsToInstance()_` , `_XYs()_` , `_DataRecordsetID_` , `_DataRowIDs()_` , `_ApplyDataGraphicAfterLink_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -48,9 +49,9 @@ Long
 
 When you want to create shapes already linked to data on a drawing page that either does not contain any shapes or contains shapes other than the ones you want to link, you can use the  **[Page.DropLinked](Visio.Page.DropLinked.md)** and **Page.DropManyLinkedU** methods to create one or more additional shapes already linked to data. These methods resemble the existing **[Page.Drop](Visio.Page.Drop.md)** and **[Page.DropManyU](Visio.Page.DropManyU.md)** methods in that they create additional shapes at a specified location on the page; but in addition, they create links between the new shapes and specified data rows in a specified data recordset.
 
-For the ObjectsToInstance() parameter, pass an array of objects to instance into shapes linked to data. While these objects are typically Visio objects such as  **Master** , **Shape** , or **Selection** objects, they can be any OLE objects that provide an **IDataObject** interface.
+For the ObjectsToInstance() parameter, pass an array of objects to instance into shapes linked to data. While these objects are typically Visio objects such as  **Master**, **Shape**, or **Selection** objects, they can be any OLE objects that provide an **IDataObject** interface.
 
-For the XYs() parameter, pass an array of type  **Double** . Each consecutive pair of array-index-position values should correspond to the _x-_ and _y-_ page coordinates where you want the instance of the object in the corresponding positon in the ObjectsToInstance() array to be positioned. For example, if you want the instance of the object in the first array index position in ObjectsToInstance() to be positioned at page coordinate (2,4), place the value _2_ in the first array index position in XYs(), and place the value _4_ in the second array index positon in that array, and so on for the rest of the objects and coordinates.
+For the XYs() parameter, pass an array of type  **Double**. Each consecutive pair of array-index-position values should correspond to the _x-_ and _y-_ page coordinates where you want the instance of the object in the corresponding position in the ObjectsToInstance() array to be positioned. For example, if you want the instance of the object in the first array index position in ObjectsToInstance() to be positioned at page coordinate (2,4), place the value _2_ in the first array index position in XYs(), and place the value _4_ in the second array index position in that array, and so on for the rest of the objects and coordinates.
 
 When an object you pass in the ObjectsToInstance() array is a shape, the center of the shape's width-height box is positioned at the coordinates you specify in XYs().
 
@@ -58,7 +59,7 @@ When an object you pass in the ObjectsToInstance() array is a master, the pin of
 
 For the DataRowIDs() parameter, pass an array of  **Long** values that represent the IDs of the data rows in the data recordset that you want to link to the shape instances created from the objects in the corresponding array index positions in the ObjectsToInstance() array.
 
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . The method will return the array filled with the IDs of the newly created and linked shapes.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. The method will return the array filled with the IDs of the newly created and linked shapes.
 
 
 
@@ -83,7 +84,7 @@ Sub DropManyLinkedU_Example()
     Dim alngDataRowIDs(0 To 2) As Long 
     Dim alngShapeIDs() As Long 
     Dim vsoDataRecordset As Visio.DataRecordset 
-    Dim intRecordesetCount As Integer 
+    Dim intRecordsetCount As Integer 
     Dim lngReturned As Long 
     Dim intCounter As Integer 
      
@@ -115,4 +116,4 @@ Sub DropManyLinkedU_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

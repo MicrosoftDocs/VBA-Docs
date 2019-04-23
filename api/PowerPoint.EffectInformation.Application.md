@@ -1,5 +1,5 @@
 ---
-title: EffectInformation.Application Property (PowerPoint)
+title: EffectInformation.Application property (PowerPoint)
 keywords: vbapp10.chm655001
 f1_keywords:
 - vbapp10.chm655001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.EffectInformation.Application
 ms.assetid: 52dcd295-5996-0ae4-9169-5577404882de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectInformation.Application Property (PowerPoint)
+# EffectInformation.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
+_expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 
 
 ## Return value
@@ -67,3 +68,4 @@ Next
 
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

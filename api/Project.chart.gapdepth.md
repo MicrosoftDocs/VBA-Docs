@@ -1,29 +1,30 @@
 ---
-title: Chart.GapDepth Property (Project)
+title: Chart.GapDepth property (Project)
 ms.prod: project-server
 ms.assetid: 22b3c702-6b1e-140b-13a7-04b6cd4bdab2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.GapDepth Property (Project)
-Gets or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. Read/write  **Long**.
+# Chart.GapDepth property (Project)
+Gets or sets the distance between the data series in a 3D chart, as a percentage of the marker width. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `GapDepth`
+_expression_.**GapDepth**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Remarks
 
-The value of the  **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2-D charts.
+The value of the  **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2D charts.
 
 
 ## Example
 
-The following example sets the distance between the data series in the chart to 200 percent of the marker width. The example should be run on a 3-D chart.
+The following example sets the distance between the data series in the chart to 200 percent of the marker width. The example should be run on a 3D chart.
 
 
 ```vb
@@ -48,3 +49,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparentBackground Property (Publisher)
+title: PictureFormat.TransparentBackground property (Publisher)
 keywords: vbapb10.chm3604744
 f1_keywords:
 - vbapb10.chm3604744
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.TransparentBackground
 ms.assetid: 0a78b579-92bf-36e6-22f6-3ca0a48f5b5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.TransparentBackground Property (Publisher)
+# PictureFormat.TransparentBackground property (Publisher)
 
 Indicates whether the parts of the specified picture that are defined as the transparent color appear transparent. Read/write.
 
 
 ## Syntax
 
- _expression_. **TransparentBackground**
+_expression_.**TransparentBackground**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -34,7 +35,7 @@ The  **TransparentBackground** property value can be one of the **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Parts of the picture whose color is the transparency color do not appear transparent.|
 | **msoTriStateMixed**|Return value only, indicating a combination of  **msoTrue** and **msoFalse** for the specified objects..|
@@ -68,4 +69,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Chart Object (Word)
+title: Chart object (Word)
 keywords: vbawd10.chm1211
 f1_keywords:
 - vbawd10.chm1211
@@ -8,10 +8,11 @@ api_name:
 - Word.Chart
 ms.assetid: 366a825e-0daf-dbb7-b6f2-e7ce1a5ee2ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart Object (Word)
+# Chart object (Word)
 
 Represents a chart in a document.
 
@@ -25,14 +26,14 @@ The Example section describes the following properties and methods for returning
 
 - The  **[Chart](Word.InlineShape.Chart.md)** property.
     
-- The  **[AddChart](./overview/Word.md)** method.
+- The  **[AddChart](overview/Word.md)** method.
     
 
 
 
 ## Example
 
-The  **[InlineShapes](Word.inlineshapes.md)** collection contains an object for each inline shape, including charts, in a document. Use **InlineShapes** ( _Index_ ), where Index is the index number of an inline shape, to return a single **InlineShape** object. Use the **[HasChart](Word.InlineShape.HasChart.md)** property to determine whether the **InlineShape** object represents a chart. If the **HasChart** property is set to **True**, use the **[Chart](Word.InlineShape.Chart.md)** property to return a **Chart** object.
+The  **[InlineShapes](Word.inlineshapes.md)** collection contains an object for each inline shape, including charts, in a document. Use **InlineShapes** (_index_), where Index is the index number of an inline shape, to return a single **InlineShape** object. Use the **[HasChart](Word.InlineShape.HasChart.md)** property to determine whether the **InlineShape** object represents a chart. If the **HasChart** property is set to **True**, use the **[Chart](Word.InlineShape.Chart.md)** property to return a **Chart** object.
 
 You can also use the  **[Type](Word.InlineShape.Type.md)** property to determine whether the **InlineShape** object represents a chart. If the **Type** property is set to **WdInlineShapeChart**, the inline shape represents a chart.
 
@@ -49,7 +50,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-The following example creates a new 3-D column chart and adds it to the active document.
+The following example creates a new 3D column chart and adds it to the active document.
 
 
 
@@ -64,7 +65,7 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyChartTemplate](Word.Chart.ApplyChartTemplate.md)|
 |[ApplyDataLabels](Word.Chart.ApplyDataLabels.md)|
@@ -93,7 +94,7 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Chart.Application.md)|
 |[AutoScaling](Word.Chart.AutoScaling.md)|
@@ -142,4 +143,6 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

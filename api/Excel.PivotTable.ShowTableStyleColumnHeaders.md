@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ShowTableStyleColumnHeaders
 ms.assetid: 12ff1a04-e38e-375d-14a5-fecbf3035dc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.ShowTableStyleColumnHeaders property (Excel)
 
-The  **ShowTableStyleColumnHeaders** property is set to **True** if the coulmn headers should be displayed in the PivotTable. Read/write **Boolean** .
+The  **ShowTableStyleColumnHeaders** property is set to **True** if the column headers should be displayed in the PivotTable. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowTableStyleColumnHeaders`
+_expression_. `ShowTableStyleColumnHeaders`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ The  **ShowTableStyleColumnHeaders** property is set to **True** if the coulmn h
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

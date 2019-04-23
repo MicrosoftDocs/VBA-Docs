@@ -1,5 +1,5 @@
 ---
-title: SlideRange.Application Property (PowerPoint)
+title: SlideRange.Application property (PowerPoint)
 keywords: vbapp10.chm532001
 f1_keywords:
 - vbapp10.chm532001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.Application
 ms.assetid: 335a157f-848d-4aec-3981-8e2119b8409e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.Application Property (PowerPoint)
+# SlideRange.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

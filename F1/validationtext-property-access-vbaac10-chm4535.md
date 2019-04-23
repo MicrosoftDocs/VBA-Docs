@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9cc71eda-ee08-4bd3-a03d-b0d43b4be279
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -30,3 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [OptionGroup.ValidationText property (Access)](http://msdn.microsoft.com/library/d115a085-7c22-7a88-539e-ec4461ca6d5d%28Office.15%29.aspx)
 [CheckBox.ValidationRule property (Access)](http://msdn.microsoft.com/library/4ebb1371-acd0-2227-49e9-ec646a0daaad%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

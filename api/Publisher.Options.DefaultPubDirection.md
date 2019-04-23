@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultPubDirection Property (Publisher)
+title: Options.DefaultPubDirection property (Publisher)
 keywords: vbapb10.chm1048624
 f1_keywords:
 - vbapb10.chm1048624
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.DefaultPubDirection
 ms.assetid: 628352c1-040f-9ab1-d0f1-308b2c26679c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultPubDirection Property (Publisher)
+# Options.DefaultPubDirection property (Publisher)
 
 Returns or sets a  **PbDirectionType** constant that represents the default direction in which text flows when a new publication is created. Read/write.
 
 
 ## Syntax
 
- _expression_. **DefaultPubDirection**
+_expression_.**DefaultPubDirection**
 
  _expression_ A variable that represents a  **Options** object.
 
@@ -49,4 +50,4 @@ Sub SetDefaultDirection()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FindB Method (Excel)
+title: WorksheetFunction.FindB method (Excel)
 keywords: vbaxl10.chm137154
 f1_keywords:
 - vbaxl10.chm137154
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.FindB
 ms.assetid: 463309cb-7747-6ee4-899b-677222e2dbda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.FindB Method (Excel)
+# WorksheetFunction.FindB method (Excel)
 
 FIND and FINDB locate one text string within a second text string, and return the number of the starting position of the first text string from the first character of the second text string. 
 
 
 ## Syntax
 
- _expression_. `FindB`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `FindB`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -71,3 +72,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

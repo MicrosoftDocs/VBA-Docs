@@ -1,5 +1,5 @@
 ---
-title: ColorScheme.Name Property (Publisher)
+title: ColorScheme.Name property (Publisher)
 keywords: vbapb10.chm2686979
 f1_keywords:
 - vbapb10.chm2686979
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorScheme.Name
 ms.assetid: 8816c7d5-6dac-f1ad-f7f7-590406be5bef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorScheme.Name Property (Publisher)
+# ColorScheme.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents a  **ColorScheme** object.
 
@@ -40,4 +41,4 @@ MsgBox "The current color scheme is " _
  & ActiveDocument.ColorScheme.Name & "."
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

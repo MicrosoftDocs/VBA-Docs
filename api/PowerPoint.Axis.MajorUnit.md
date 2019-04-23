@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnit Property (PowerPoint)
+title: Axis.MajorUnit property (PowerPoint)
 keywords: vbapp10.chm682013
 f1_keywords:
 - vbapp10.chm682013
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.MajorUnit
 ms.assetid: 5f88f369-e999-b947-c47f-5413e349d192
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MajorUnit Property (PowerPoint)
+# Axis.MajorUnit property (PowerPoint)
 
 Returns or sets the major units for the value axis. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `MajorUnit`
+_expression_. `MajorUnit`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
@@ -66,3 +67,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

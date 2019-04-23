@@ -1,5 +1,5 @@
 ---
-title: OlSpecialFolders Enumeration (Outlook)
+title: OlSpecialFolders enumeration (Outlook)
 keywords: vbaol11.chm3148
 f1_keywords:
 - vbaol11.chm3148
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlSpecialFolders
 ms.assetid: 31f32a19-9695-3de4-ef3f-fe763a6f878e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlSpecialFolders Enumeration (Outlook)
+# OlSpecialFolders enumeration (Outlook)
 
 Specifies the types of special folders in a store.
 
@@ -26,4 +27,4 @@ Specifies the types of special folders in a store.
 
 Not all special folders exist in all stores.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

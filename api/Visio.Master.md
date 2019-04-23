@@ -1,5 +1,5 @@
 ---
-title: Master Object (Visio)
+title: Master object (Visio)
 keywords: vis_sdr.chm10130
 f1_keywords:
 - vis_sdr.chm10130
@@ -8,10 +8,11 @@ api_name:
 - Visio.Master
 ms.assetid: 1a69e4d7-2b72-f712-d36c-c565af64c278
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master Object (Visio)
+# Master object (Visio)
 
 Represents a master in a stencil.
 
@@ -29,7 +30,7 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeMasterDelete](./Visio.Master.BeforeMasterDelete.md)|
 |[BeforeSelectionDelete](./Visio.Master.BeforeSelectionDelete.md)|
@@ -62,7 +63,7 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddGuide](./Visio.Master.AddGuide.md)|
 |[BoundingBox](./Visio.Master.BoundingBox.md)|
@@ -110,7 +111,7 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlignName](./Visio.Master.AlignName.md)|
 |[Application](./Visio.Master.Application.md)|
@@ -153,3 +154,4 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 |[Type](./Visio.Master.Type.md)|
 |[UniqueID](./Visio.Master.UniqueID.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

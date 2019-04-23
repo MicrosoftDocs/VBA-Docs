@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: c33a5c5a-b83d-3079-dc00-57b423697ea4
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -78,4 +79,4 @@ With ActivePresentation.Slides(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

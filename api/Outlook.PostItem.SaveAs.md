@@ -1,5 +1,5 @@
 ---
-title: PostItem.SaveAs Method (Outlook)
+title: PostItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1546
 f1_keywords:
 - vbaol11.chm1546
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.SaveAs
 ms.assetid: c76c4b20-308c-e411-89cc-40dd40dd86bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.SaveAs Method (Outlook)
+# PostItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_Path_` , `_Type_` )
+_expression_. `SaveAs`( `_Path_` , `_Type_` )
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML**, **olMSG**, **olRTF**, **olTemplate**, **olDoc**, **olTXT**, **olVCal**, **olVCard**, **olICal**, or **olMSGUnicode**.|
 
 ## Remarks
 
@@ -87,3 +88,4 @@ End Sub
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

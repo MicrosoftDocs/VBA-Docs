@@ -1,34 +1,35 @@
 ---
-title: WorksheetFunction.IsoWeekNum Method (Excel)
+title: WorksheetFunction.IsoWeekNum method (Excel)
 keywords: vbaxl10.chm137457
 f1_keywords:
 - vbaxl10.chm137457
 ms.prod: excel
 ms.assetid: 8b643312-d9b9-c509-ca9f-c3d960ba012c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.IsoWeekNum Method (Excel)
+# WorksheetFunction.IsoWeekNum method (Excel)
 
 Returns the ISO week number of the year for a given date. .
 
 
 ## Syntax
 
- _expression_. `IsoWeekNum`_(Arg1,_ _Arg2)_
+_expression_. `IsoWeekNum`_(Arg1,_ _Arg2)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Date-time code used by Microsoft Excel for date and time calculation.|
-| _Arg2_|Optional|VARIANT|This argument is not available in the function.|
+| _Arg2_|Optional|**Variant**|This argument is not available in the function.|
 
 ## Return value
 
@@ -45,3 +46,4 @@ Returns the ordinal number of the [ISO8601] calendar week in the year for the gi
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

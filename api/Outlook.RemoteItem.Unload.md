@@ -1,23 +1,24 @@
 ---
-title: RemoteItem.Unload Event (Outlook)
+title: RemoteItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Unload
 ms.assetid: 8d105e1a-4923-4296-10b1-6e26fed51539
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RemoteItem.Unload Event (Outlook)
+# RemoteItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ A variable that represents a '[RemoteItem](Outlook.RemoteItem.md)' object.
+_expression_ A variable that represents a '[RemoteItem](Outlook.RemoteItem.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

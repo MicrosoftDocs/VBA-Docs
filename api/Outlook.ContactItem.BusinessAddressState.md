@@ -1,5 +1,5 @@
 ---
-title: ContactItem.BusinessAddressState Property (Outlook)
+title: ContactItem.BusinessAddressState property (Outlook)
 keywords: vbaol11.chm975
 f1_keywords:
 - vbaol11.chm975
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ContactItem.BusinessAddressState
 ms.assetid: 0d8d9136-6d41-b0ed-f320-6e26fca15cf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContactItem.BusinessAddressState Property (Outlook)
+# ContactItem.BusinessAddressState property (Outlook)
 
 Returns or sets a  **String** representing the state code portion of the business address for the contact. Read/write.
 
 
 ## Syntax
 
- _expression_. `BusinessAddressState`
+_expression_. `BusinessAddressState`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is parsed from the  **[BusinessAddress](Outlook.ContactItem.Busine
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

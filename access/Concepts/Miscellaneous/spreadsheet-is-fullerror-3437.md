@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: df53bb48-5870-3632-b1e0-ec7171af4616
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ You tried to add new records to a Lotus 1-2-3 or Microsoft Excel version 3.0 or 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

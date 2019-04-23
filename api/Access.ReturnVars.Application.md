@@ -7,26 +7,34 @@ ms.prod: access
 api_name:
 - Access.ReturnVars.Application
 ms.assetid: f27f1d56-7cf7-49f9-b37b-9b6cc272f9b5
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
 # ReturnVars.Application property (Access)
 
-You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
+You can use the **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object. 
 
 
 ## Syntax
 
-_expression_. `Application`
+_expression_.**Application**
 
-_expression_ A variable that represents a 'RetunVars' object.
+_expression_ A variable that represents a **[ReturnVars](Access.ReturnVars.md)** object.
 
 
 ## Remarks
 
-The  **Application** property is set by Microsoft Access and is read-only in all views.
+The **Application** property is set by Microsoft Access and is read-only in all views.
 
-Each Microsoft Access object has an  **Application** property that returns the current **Application** object. You can use this property to access any of the object's properties.
+Each Microsoft Access object has an **Application** property that returns the current **Application** object. You can use this property to access any of the object's properties. For example, you could refer to the menu bar for the **Application** object from the current form by using the following syntax.
+
+```vb
+Me.Application.MenuBar 
+
+```
 
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

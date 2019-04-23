@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Borders.Weight
 ms.assetid: cdf2d0d2-9c4d-1b07-38fc-3828126c77bf
-ms.date: 06/08/2017
+ms.date: 04/13/2019
+localization_priority: Normal
 ---
 
 
 # Borders.Weight property (Excel)
 
-Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
+Returns or sets an **[XlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
 
 
 ## Syntax
 
- _expression_. `Weight`
+_expression_.**Weight**
 
- _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Borders](Excel.Borders.md)** object.
 
 
-[Borders Collection](Excel.Borders.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

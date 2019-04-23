@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b6c5e86f-a3dc-4c0b-a9a5-020408a52099
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.UpdateChartData Method (Project)](http://msdn.microsoft.com/library/ecdef74d-480c-05a7-757c-a5c2e3e7359c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

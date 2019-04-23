@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.Position
 ms.assetid: ff8a045d-2ac0-adea-5a71-189e42c6b609
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Long** value that represents the position of the hierarchy 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Long** value that represents the position of the hierarchy 
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

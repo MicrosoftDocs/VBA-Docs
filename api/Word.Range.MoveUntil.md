@@ -1,5 +1,5 @@
 ---
-title: Range.MoveUntil Method (Word)
+title: Range.MoveUntil method (Word)
 keywords: vbawd10.chm157155443
 f1_keywords:
 - vbawd10.chm157155443
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.MoveUntil
 ms.assetid: f0f44ae5-1d61-9e05-4095-a28091feda6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.MoveUntil Method (Word)
+# Range.MoveUntil method (Word)
 
 Moves the specified range until one of the specified characters is found in the document.
 
 
 ## Syntax
 
- _expression_. `MoveUntil`( `_Cset_` , `_Count_` )
+_expression_. `MoveUntil`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the specified range until one of the specified characters is found in the 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. If any character in Cset is found before the Count value expires, the specified range is positioned as an insertion point immediately before that character. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document, beginning at the end position. If it is a negative number, the range is moved backward, beginning at the start position. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document, beginning at the end position. If it is a negative number, the range is moved backward, beginning at the start position. The default value is **wdForward**.|
 
 ## Remarks
 
@@ -53,3 +54,4 @@ myRange.MoveUntil Cset:="t", Count:=100
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

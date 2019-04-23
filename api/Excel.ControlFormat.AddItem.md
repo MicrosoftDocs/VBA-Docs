@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.AddItem Method (Excel)
+title: ControlFormat.AddItem method (Excel)
 keywords: vbaxl10.chm630073
 f1_keywords:
 - vbaxl10.chm630073
@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.AddItem
 ms.assetid: fffc243b-3f94-14ab-f7b4-83c56325aa5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ControlFormat.AddItem Method (Excel)
+# ControlFormat.AddItem method (Excel)
 
 Adds an item to a list box or a combo box.
 
 
 ## Syntax
 
- _expression_. `AddItem`( `_Text_` , `_Index_` )
+_expression_. `AddItem`( `_Text_` , `_Index_` )
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

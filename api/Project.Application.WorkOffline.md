@@ -1,5 +1,5 @@
 ---
-title: Application.WorkOffline Method (Project)
+title: Application.WorkOffline method (Project)
 keywords: vbapj.chm2283
 f1_keywords:
 - vbapj.chm2283
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WorkOffline
 ms.assetid: 65a38e80-f311-eb19-359a-da9f1022be71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WorkOffline Method (Project)
+# Application.WorkOffline method (Project)
 
 Opens or closes the connection to Project Server. 
 
 
 ## Syntax
 
- _expression_. `WorkOffline`( ` _fOffline_` )
+_expression_. `WorkOffline`( `_fOffline_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Opens or closes the connection to Project Server.
 
 Available in Project Professional only. If Project is started with an offline account, the WorkOffline method results in a run-time error 1100: "The method is not available in this situation."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeFields.Item
 ms.assetid: d068ccda-13e0-9938-7945-e8639e79d089
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) object.
+_expression_ A variable that represents a **[CubeFields](Excel.CubeFields.md)** object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ Next objPT
 
 [CubeFields Object](Excel.CubeFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

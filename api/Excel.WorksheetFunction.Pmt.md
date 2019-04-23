@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pmt Method (Excel)
+title: WorksheetFunction.Pmt method (Excel)
 keywords: vbaxl10.chm137110
 f1_keywords:
 - vbaxl10.chm137110
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Pmt
 ms.assetid: ef383e8e-7fca-2818-cdaa-d758f2e8536d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Pmt Method (Excel)
+# WorksheetFunction.Pmt method (Excel)
 
 Calculates the payment for a loan based on constant payments and a constant interest rate.
 
 
 ## Syntax
 
- _expression_. `Pmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `Pmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ For a more complete description of the arguments in PMT, see the PV function.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

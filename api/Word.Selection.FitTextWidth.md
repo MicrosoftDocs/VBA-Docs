@@ -1,5 +1,5 @@
 ---
-title: Selection.FitTextWidth Property (Word)
+title: Selection.FitTextWidth property (Word)
 keywords: vbawd10.chm158663664
 f1_keywords:
 - vbawd10.chm158663664
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.FitTextWidth
 ms.assetid: 7f7409b4-c533-9c21-2663-e4016416efb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.FitTextWidth Property (Word)
+# Selection.FitTextWidth property (Word)
 
-Returns or sets the width (in the current measurement units) in which Microsoft Word fits the text in the current selection. Read/write  **Single** .
+Returns or sets the width (in the current measurement units) in which Microsoft Word fits the text in the current selection. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `FitTextWidth`
+_expression_. `FitTextWidth`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Selection.FitTextWidth = CentimetersToPoints(5)
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

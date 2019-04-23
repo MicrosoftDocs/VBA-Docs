@@ -1,5 +1,5 @@
 ---
-title: BulletFormat Object (PowerPoint)
+title: BulletFormat object (PowerPoint)
 keywords: vbapp10.chm577000
 f1_keywords:
 - vbapp10.chm577000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.BulletFormat
 ms.assetid: 8c70b2af-0175-9315-3a7e-e30aa0438798
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat Object (PowerPoint)
+# BulletFormat object (PowerPoint)
 
 Represents bullet formatting.
 
@@ -50,7 +51,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Picture](./PowerPoint.BulletFormat.Picture.md)|
 
@@ -58,7 +59,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.BulletFormat.Application.md)|
 |[Character](./PowerPoint.BulletFormat.Character.md)|
@@ -75,4 +76,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

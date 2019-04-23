@@ -3,6 +3,7 @@ title: Examples of Formula and Combination Fields
 ms.prod: outlook
 ms.assetid: 40e7ff96-222b-14ce-102c-63467d2435f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,3 +19,4 @@ ms.date: 06/08/2017
 |The first phone number recorded for a contact, in order of appearance in the formula. (**Combination** field)|[Business Phone] [Business Phone 2] [Home Phone] [Home Phone 2] [Cell Phone]|(555) 555-1234|
 |A description of a field combined with the field itself. (**Combination** field)|Task Due: [Due Date]|Task Due: 3/5/2009 8:00:00 A.M.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

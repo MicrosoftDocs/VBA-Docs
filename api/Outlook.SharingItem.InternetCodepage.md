@@ -1,5 +1,5 @@
 ---
-title: SharingItem.InternetCodepage Property (Outlook)
+title: SharingItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm678
 f1_keywords:
 - vbaol11.chm678
@@ -8,19 +8,20 @@ api_name:
 - Outlook.SharingItem.InternetCodepage
 ms.assetid: a13a44f9-89d1-2839-80e5-de1b8bfab305
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SharingItem.InternetCodepage Property (Outlook)
+# SharingItem.InternetCodepage property (Outlook)
 
-Returns or sets a  **Long** that determines the Internet code page used by the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns or sets a  **Long** that determines the Internet code page used by the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `InternetCodepage`
+_expression_. `InternetCodepage`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 
 
 ## Remarks
@@ -67,7 +68,7 @@ The following table lists the values that are supported by the  **InternetCodepa
 |Western European (ISO)|iso-8859-1|28591|
 |Western European (Windows)|windows-1252|1252|
 
-The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
+The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
 
 
@@ -95,3 +96,4 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

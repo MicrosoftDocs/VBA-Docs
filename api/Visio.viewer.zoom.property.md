@@ -3,6 +3,7 @@ title: Viewer.Zoom Property (Visio Viewer)
 ms.prod: visio
 ms.assetid: 52bb7493-836e-1e1b-a91e-cb077f881c00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Gets or sets the percentage of zoom for Microsoft Visio Viewer. Read/write.
 
 ## Syntax
 
- _expression_. **Zoom**
+_expression_.**Zoom**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -37,4 +38,4 @@ The following code gets the percentage of zoom in the drawing that is open in Vi
 Debug.Print "Zoom = "; vsoViewer.Zoom
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

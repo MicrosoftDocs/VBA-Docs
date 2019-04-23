@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Size Property (Word)
+title: ChartFont.Size property (Word)
 keywords: vbawd10.chm255918098
 f1_keywords:
 - vbawd10.chm255918098
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartFont.Size
 ms.assetid: 75062920-f306-1bfc-f1e0-e68a19d055e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont.Size Property (Word)
+# ChartFont.Size property (Word)
 
-Returns or sets the size of the font. Read/write  **Variant** .
+Returns or sets the size of the font. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
  _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 
@@ -43,3 +44,4 @@ End With
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

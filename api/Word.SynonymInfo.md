@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo Object (Word)
+title: SynonymInfo object (Word)
 keywords: vbawd10.chm2459
 f1_keywords:
 - vbawd10.chm2459
@@ -8,10 +8,11 @@ api_name:
 - Word.SynonymInfo
 ms.assetid: 0af2d733-a038-1f67-ddca-2b05b3af1b7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SynonymInfo Object (Word)
+# SynonymInfo object (Word)
 
 Represents the information about synonyms, antonyms, related words, or related expressions for the specified range or a given string.
 
@@ -69,6 +70,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

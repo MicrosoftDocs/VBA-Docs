@@ -1,5 +1,5 @@
 ---
-title: Reminders Object (Outlook)
+title: Reminders object (Outlook)
 keywords: vbaol11.chm3015
 f1_keywords:
 - vbaol11.chm3015
@@ -8,17 +8,18 @@ api_name:
 - Outlook.Reminders
 ms.assetid: 66b94251-7fe4-886b-7c29-7feac4440dee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminders Object (Outlook)
+# Reminders object (Outlook)
 
 Contains a collection of all the  **[Reminder](Outlook.Reminder.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
 
 
 ## Remarks
 
-Use the  **[Application](Outlook.Application.md)** object's **[Reminders](Outlook.Application.Reminders.md)** property to return the **Reminders** collection. Use **Reminders** ( _index_ ), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](Outlook.Reminder.md)** object.
+Use the  **[Application](Outlook.Application.md)** object's **[Reminders](Outlook.Application.Reminders.md)** property to return the **Reminders** collection. Use **Reminders** (_index_), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](Outlook.Reminder.md)** object.
 
 Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an  **[AppointmentItem](Outlook.AppointmentItem.md)** object is created and the **AppointmentItem** object's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
 
@@ -79,7 +80,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeReminderShow](Outlook.Reminders.BeforeReminderShow.md)|
 |[ReminderAdd](Outlook.Reminders.ReminderAdd.md)|
@@ -92,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.Reminders.Item.md)|
 |[Remove](Outlook.Reminders.Remove.md)|
@@ -101,7 +102,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Reminders.Application.md)|
 |[Class](Outlook.Reminders.Class.md)|
@@ -112,4 +113,6 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

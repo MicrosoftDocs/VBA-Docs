@@ -1,5 +1,5 @@
 ---
-title: View.ShowHighlight Property (Word)
+title: View.ShowHighlight property (Word)
 keywords: vbawd10.chm161808397
 f1_keywords:
 - vbawd10.chm161808397
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowHighlight
 ms.assetid: ec0a5e47-f792-742b-654c-2aa137ab3ff1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowHighlight Property (Word)
+# View.ShowHighlight property (Word)
 
- **True** if highlight formatting is displayed and printed with a document. Read/write **Boolean** .
+ **True** if highlight formatting is displayed and printed with a document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowHighlight`
+_expression_. `ShowHighlight`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -51,3 +52,4 @@ End With
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

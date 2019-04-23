@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasTable Property (PowerPoint)
+title: ShapeRange.HasTable property (PowerPoint)
 keywords: vbapp10.chm548068
 f1_keywords:
 - vbapp10.chm548068
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ShapeRange.HasTable
 ms.assetid: aaf47e4f-0315-2311-e9c5-68a12d36235c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.HasTable Property (PowerPoint)
+# ShapeRange.HasTable property (PowerPoint)
 
 Returns whether the specified shape is a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `HasTable`
+_expression_. `HasTable`
 
- _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
+ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **HasTable** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not a table.|
 |**msoTrue**| The specified shape is a table.|
@@ -62,3 +63,4 @@ End With
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

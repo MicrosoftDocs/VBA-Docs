@@ -3,6 +3,7 @@ title: Filter a report using a form's filter
 ms.prod: access
 ms.assetid: 2b029c13-5abd-4865-cd05-25d094a97b9f
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -21,4 +22,4 @@ Private Sub cmdOpenReport_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

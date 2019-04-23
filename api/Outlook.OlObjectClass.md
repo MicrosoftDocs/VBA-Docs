@@ -1,5 +1,5 @@
 ---
-title: OlObjectClass Enumeration (Outlook)
+title: OlObjectClass enumeration (Outlook)
 keywords: vbaol11.chm3073
 f1_keywords:
 - vbaol11.chm3073
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlObjectClass
 ms.assetid: 33d724b3-df3c-2a7f-a80f-93b66d96f588
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlObjectClass Enumeration (Outlook)
+# OlObjectClass enumeration (Outlook)
 
 Specifies constants that represent the different Microsoft Outlook object classes.
 
@@ -172,4 +173,4 @@ Specifies constants that represent the different Microsoft Outlook object classe
 
 This enumeration is used by the  **Class** property of Outlook objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

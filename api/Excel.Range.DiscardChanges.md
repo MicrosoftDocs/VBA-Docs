@@ -1,5 +1,5 @@
 ---
-title: Range.DiscardChanges Method (Excel)
+title: Range.DiscardChanges method (Excel)
 keywords: vbaxl10.chm144254
 f1_keywords:
 - vbaxl10.chm144254
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.DiscardChanges
 ms.assetid: adeee827-d680-59f3-0966-2c2ca60a59e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.DiscardChanges Method (Excel)
+# Range.DiscardChanges method (Excel)
 
 Discards all changes in the edited cells of the range.
 
 
 ## Syntax
 
- _expression_. `DiscardChanges`
+_expression_. `DiscardChanges`
 
- _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
+_expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ For a range based on an OLAP data source, this method removes all values and for
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdRevisedPropertiesMark Enumeration (Word)
+title: WdRevisedPropertiesMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisedPropertiesMark
 ms.assetid: 49477431-2396-2d38-9e25-a1e621fa26de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRevisedPropertiesMark Enumeration (Word)
+# WdRevisedPropertiesMark enumeration (Word)
 
 Specifies how revisions are displayed when change tracking is enabled.
 
@@ -25,3 +26,4 @@ Specifies how revisions are displayed when change tracking is enabled.
 | **wdRevisedPropertiesMarkStrikeThrough**|6|Using strikethrough characters.|
 | **wdRevisedPropertiesMarkUnderline**|3|In underline.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

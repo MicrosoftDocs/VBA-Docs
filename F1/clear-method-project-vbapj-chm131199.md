@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 79f0c3d6-c07d-44c0-be58-af483e9884c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shift.Clear Method (Project)](http://msdn.microsoft.com/library/89243732-8c83-ba1e-01ff-fdbfa4d4c4d2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

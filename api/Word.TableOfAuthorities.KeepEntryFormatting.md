@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.KeepEntryFormatting Property (Word)
+title: TableOfAuthorities.KeepEntryFormatting property (Word)
 keywords: vbawd10.chm152109058
 f1_keywords:
 - vbawd10.chm152109058
@@ -8,17 +8,18 @@ api_name:
 - Word.TableOfAuthorities.KeepEntryFormatting
 ms.assetid: f8fcf3c1-0a72-071f-ee2c-341a78a43d36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.KeepEntryFormatting Property (Word)
+# TableOfAuthorities.KeepEntryFormatting property (Word)
 
- **True** if formatting from table of authorities entries is applied to the entries in the specified table of authorities. Read/write **Boolean** .
+ **True** if formatting from table of authorities entries is applied to the entries in the specified table of authorities. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `KeepEntryFormatting`
+_expression_. `KeepEntryFormatting`
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 217c6de7-fabf-2642-96a7-aec82f6609a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets how to plot the sparkline when the data on which it is based is 
 
 ## Syntax
 
- _expression_. `PlotBy`
+_expression_.**PlotBy**
 
- _expression_ A variable that represents a '[SparklineGroup ](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ The default value for sp data in a square-shaped range is to plot the data by ro
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

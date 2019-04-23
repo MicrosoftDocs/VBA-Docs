@@ -1,5 +1,5 @@
 ---
-title: Cell.Column Property (Word)
+title: Cell.Column property (Word)
 keywords: vbawd10.chm156106853
 f1_keywords:
 - vbawd10.chm156106853
@@ -8,19 +8,20 @@ api_name:
 - Word.Cell.Column
 ms.assetid: b3f5f0a1-4d17-9d66-f689-9eb6308132fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Column Property (Word)
+# Cell.Column property (Word)
 
 Returns a  **Column** object that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `Column`
+_expression_. `Column`
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Example
@@ -50,3 +51,4 @@ Next cellLoop
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

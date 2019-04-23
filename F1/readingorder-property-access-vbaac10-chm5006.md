@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2b39e002-b218-4714-9a69-16a1f929ab2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationButton.ReadingOrder property (Access)](http://msdn.microsoft.com/library/5d436f27-e896-15c0-3733-ec7629d58214%28Office.15%29.aspx)
 [OptionButton.ReadingOrder property (Access)](http://msdn.microsoft.com/library/52dab78d-5c67-4031-06b4-f7fa43207f4c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

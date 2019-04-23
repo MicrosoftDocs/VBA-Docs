@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.UseHeadingStyles Property (Word)
+title: TableOfContents.UseHeadingStyles property (Word)
 keywords: vbawd10.chm152240129
 f1_keywords:
 - vbawd10.chm152240129
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfContents.UseHeadingStyles
 ms.assetid: c026c00b-f3ec-b350-d046-0761b6e70851
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfContents.UseHeadingStyles Property (Word)
+# TableOfContents.UseHeadingStyles property (Word)
 
- **True** if built-in heading styles are used to create a table of contents. Read/write **Boolean** .
+ **True** if built-in heading styles are used to create a table of contents. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UseHeadingStyles`
+_expression_. `UseHeadingStyles`
 
- _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 
 
 ## Example
@@ -45,3 +46,4 @@ End If
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

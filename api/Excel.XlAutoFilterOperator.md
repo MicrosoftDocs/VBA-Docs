@@ -1,14 +1,15 @@
 ---
-title: xlAutoFilterOperator enumeration (Excel)
+title: XlAutoFilterOperator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAutoFilterOperator
 ms.assetid: d6948582-2c47-08a7-a145-f30e3b64a6c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlAutoFilterOperator enumeration (Excel)
+# XlAutoFilterOperator enumeration (Excel)
 
 Specifies the operator to use to associate two criteria applied by a filter.
 
@@ -26,3 +27,4 @@ Specifies the operator to use to associate two criteria applied by a filter.
 | **xlTop10Items**|3|Highest-valued items displayed (number of items specified in Criteria1)|
 | **xlTop10Percent**|5|Highest-valued items displayed (percentage specified in Criteria1)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

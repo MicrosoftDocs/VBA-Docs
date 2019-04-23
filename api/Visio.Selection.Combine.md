@@ -1,5 +1,5 @@
 ---
-title: Selection.Combine Method (Visio)
+title: Selection.Combine method (Visio)
 keywords: vis_sdr.chm11116130
 f1_keywords:
 - vis_sdr.chm11116130
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Combine
 ms.assetid: a74b25b0-6957-2088-f34f-4000c2be9736
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Combine Method (Visio)
+# Selection.Combine method (Visio)
 
 Creates a new shape by combining selected shapes.
 
 
 ## Syntax
 
- _expression_. `Combine`
+_expression_. `Combine`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -40,7 +41,5 @@ The  **Combine** method is similar to the **Join** method but differs in the fol
 - The  **Combine** method produces a shape with one Geometry section for each original shape. The resulting shape will have holes in regions where the original shapes overlapped.
     
 - The  **Join** method differs from **Combine** in that it will coalesce abutting line and curve segments in the original shapes into a single Geometry section in the resulting shape.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

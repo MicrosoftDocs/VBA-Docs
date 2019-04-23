@@ -5,6 +5,7 @@ api_name:
 - Visio.PageVisible
 ms.assetid: 7af34d35-b83d-931a-7116-fef8dab42f22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the drawing page is visible in Micro
 
 ## Syntax
 
- _expression_. **PageVisible**
+_expression_.**PageVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following example shows how to make the drawing page visible in Visio Viewer
 vsoViewer.PageVisible = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

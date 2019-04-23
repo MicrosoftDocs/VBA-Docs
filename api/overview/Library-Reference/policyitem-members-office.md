@@ -2,7 +2,8 @@
 title: PolicyItem members (Office)
 ms.prod: office
 ms.assetid: a2e43e08-64bb-f052-78a2-0618e2df46fc
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents an item within a **ServerPolicy** object that contains the settings f
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PolicyItem.Application.md)|Gets an **Application** object that represents the container application for the **PolicyItem** object. Read-only.|
 |[Creator](../../Office.PolicyItem.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PolicyItem** object was created. Read-only.|
@@ -23,3 +24,4 @@ Represents an item within a **ServerPolicy** object that contains the settings f
 |[Name](../../Office.PolicyItem.Name.md)|Gets the name of the **PolicyItem** object. Read-only.|
 |[Parent](../../Office.PolicyItem.Parent.md)|Gets the **Parent** object for the **PolicyItem** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableView.XML Property (Outlook)
+title: TableView.XML property (Outlook)
 keywords: vbaol11.chm2514
 f1_keywords:
 - vbaol11.chm2514
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.XML
 ms.assetid: 0f085984-3056-6603-ca12-a4436abf429f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.XML Property (Outlook)
+# TableView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ To determine how the XML should be structured when creating views, you can creat
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

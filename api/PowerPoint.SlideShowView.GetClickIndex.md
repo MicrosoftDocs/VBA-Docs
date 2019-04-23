@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.GetClickIndex Method (PowerPoint)
+title: SlideShowView.GetClickIndex method (PowerPoint)
 keywords: vbapp10.chm513029
 f1_keywords:
 - vbapp10.chm513029
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.GetClickIndex
 ms.assetid: 678feca3-79d4-e4e8-83aa-3484f5c099e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.GetClickIndex Method (PowerPoint)
+# SlideShowView.GetClickIndex method (PowerPoint)
 
 Returns the index number of the current mouse click for an animation that is actively playing on a slide or has just finished.
 
 
 ## Syntax
 
- _expression_. `GetClickIndex`
+_expression_. `GetClickIndex`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -40,3 +41,4 @@ If a slide has no animations or if a user has not advanced yet to an animation, 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

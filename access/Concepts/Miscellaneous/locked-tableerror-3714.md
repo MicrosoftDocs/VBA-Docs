@@ -3,6 +3,7 @@ title: Locked table. (Error 3714)
 ms.prod: access
 ms.assetid: 47374c79-4ea0-4e32-4dbd-d84eb09eb808
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ Re-synchronize the replicas when the lock is released on the table.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

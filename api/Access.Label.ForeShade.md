@@ -7,41 +7,39 @@ ms.prod: access
 api_name:
 - Access.Label.ForeShade
 ms.assetid: 4ccc09f9-533a-e70f-7194-75b3934f97ff
-ms.date: 06/08/2017
+ms.date: 03/01/2019
+localization_priority: Normal
 ---
 
 
 # Label.ForeShade property (Access)
 
-Gets or sets the shade that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.
+Gets or sets the shade that is applied to the theme color in the **ForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
-_expression_. `ForeShade`
+_expression_.**ForeShade**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks
 
-The  **ForeShade** property contains a numeric expression that can be used to darken the theme color in the **BackColor** property. The default value of the **ForeShade** property is 100, which is neutral, and does not change the theme color. To darken the color, first determine the percentage by which to darken from 1 to 100, then subtract that value as a whole number from 100 and use the remainder. For example, to darken the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
+The **ForeShade** property contains a numeric expression that can be used to darken the theme color in the **ForeColor** property. The default value of the **ForeShade** property is 100, which is neutral, and does not change the theme color. 
+
+To darken the color, first determine the percentage by which to darken from 1 to 100, and then subtract that value as a whole number from 100 and use the remainder. For example, to darken the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
 
 This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example darkens the  **ForeColor** property by 75%.
-
+The following code example darkens the **ForeColor** property by 75%.
 
 ```vb
 Me.ctl.ForeShade=25
 ```
 
 
-## See also
-
-
-[Label Object](Access.Label.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

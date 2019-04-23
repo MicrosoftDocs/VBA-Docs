@@ -3,6 +3,7 @@ title: Field <name> cannot be a zero-length string. (Error 3315)
 ms.prod: access
 ms.assetid: 400f58a8-e55b-341f-1961-20b5eb7a27d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The  **AllowZeroLength** property for this field is set to **False**, prohibitin
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

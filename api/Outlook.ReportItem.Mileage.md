@@ -1,5 +1,5 @@
 ---
-title: ReportItem.Mileage Property (Outlook)
+title: ReportItem.Mileage property (Outlook)
 keywords: vbaol11.chm1654
 f1_keywords:
 - vbaol11.chm1654
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ReportItem.Mileage
 ms.assetid: bd3b3dfe-6368-6ba7-c609-8b0e3ea97a27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportItem.Mileage Property (Outlook)
+# ReportItem.Mileage property (Outlook)
 
 Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 
 ## Syntax
 
- _expression_. `Mileage`
+_expression_. `Mileage`
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This is a free-form string field and can be used to store mileage information as
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

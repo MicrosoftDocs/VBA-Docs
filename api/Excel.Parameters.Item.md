@@ -1,5 +1,5 @@
 ---
-title: Parameters.Item Method (Excel)
+title: Parameters.Item method (Excel)
 keywords: vbaxl10.chm525075
 f1_keywords:
 - vbaxl10.chm525075
@@ -8,19 +8,20 @@ api_name:
 - Excel.Parameters.Item
 ms.assetid: 66db6a11-b0e3-4417-0589-b0085f67c77a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Parameters.Item Method (Excel)
+# Parameters.Item method (Excel)
 
 Returns a single object from a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
+_expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ End With
 
 [Parameters Object](Excel.Parameters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

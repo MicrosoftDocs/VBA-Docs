@@ -1,5 +1,5 @@
 ---
-title: Options.DiacriticColorVal Property (Word)
+title: Options.DiacriticColorVal property (Word)
 keywords: vbawd10.chm162988453
 f1_keywords:
 - vbawd10.chm162988453
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DiacriticColorVal
 ms.assetid: bbc1c850-f4d4-7ddb-5fbf-2b9f07788a44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DiacriticColorVal Property (Word)
+# Options.DiacriticColorVal property (Word)
 
 Returns or sets the 24-bit color to be used for diacritics in a right-to-left language document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DiacriticColorVal`
+_expression_. `DiacriticColorVal`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ If Options.UseDiffDiacColor = True Then _
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

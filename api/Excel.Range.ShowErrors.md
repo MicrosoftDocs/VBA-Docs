@@ -1,5 +1,5 @@
 ---
-title: Range.ShowErrors Method (Excel)
+title: Range.ShowErrors method (Excel)
 keywords: vbaxl10.chm144197
 f1_keywords:
 - vbaxl10.chm144197
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.ShowErrors
 ms.assetid: 02366ef0-b4dc-a10c-e186-d9392a8b656c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.ShowErrors Method (Excel)
+# Range.ShowErrors method (Excel)
 
 Draws tracer arrows through the precedents tree to the cell that's the source of the error, and returns the range that contains that cell.
 
 
 ## Syntax
 
- _expression_. `ShowErrors`
+_expression_. `ShowErrors`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -46,3 +47,4 @@ End If
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

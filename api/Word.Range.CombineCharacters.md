@@ -1,5 +1,5 @@
 ---
-title: Range.CombineCharacters Property (Word)
+title: Range.CombineCharacters property (Word)
 keywords: vbawd10.chm157155595
 f1_keywords:
 - vbawd10.chm157155595
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.CombineCharacters
 ms.assetid: 4852ebb7-b6cc-0bed-d1db-8a2efe14fc17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.CombineCharacters Property (Word)
+# Range.CombineCharacters property (Word)
 
- **True** if the specified range contains combined characters. Read/write **Boolean** .
+ **True** if the specified range contains combined characters. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CombineCharacters`
+_expression_. `CombineCharacters`
 
  _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 
@@ -38,3 +39,4 @@ Selection.Range.CombineCharacters = True
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

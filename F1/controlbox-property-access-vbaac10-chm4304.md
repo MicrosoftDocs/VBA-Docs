@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 455b20c6-7bf8-4be6-b964-796afbcc2d25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.ControlBox property (Access)](http://msdn.microsoft.com/library/c4d9976c-631d-ae99-0c5d-e7008bbdadf9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

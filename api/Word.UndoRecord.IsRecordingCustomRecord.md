@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.IsRecordingCustomRecord Property (Word)
+title: UndoRecord.IsRecordingCustomRecord property (Word)
 keywords: vbawd10.chm56098819
 f1_keywords:
 - vbawd10.chm56098819
@@ -8,19 +8,20 @@ api_name:
 - Word.UndoRecord.IsRecordingCustomRecord
 ms.assetid: 08693e04-4a76-f7ab-9671-cdad35ac87ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UndoRecord.IsRecordingCustomRecord Property (Word)
+# UndoRecord.IsRecordingCustomRecord property (Word)
 
 Returns a  **Boolean** that specifies whether a custom undo action is being recorded. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsRecordingCustomRecord`
+_expression_. `IsRecordingCustomRecord`
 
- _expression_ A variable that represents a '[UndoRecord](Word.UndoRecord.md)' object.
+ _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 
 
 ## Example
@@ -47,3 +48,4 @@ objUndo.EndCustomRecord
 
 [UndoRecord Object](Word.UndoRecord.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

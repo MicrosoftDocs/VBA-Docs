@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 05e55ac2-f891-f008-18d8-173c3eed6c7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the chart control to embed a chart that displays Microsoft Access data from a form or report. You can then edit the chart by using Microsoft Graph from within the form or report.
+You can use the chart control to embed a chart that displays Microsoft Access data from a form or report. You can then edit the chart by using Graph from within the form or report.
 
 
 ## Remarks
@@ -30,7 +31,8 @@ When you place a chart control on a form or report, Microsoft Access displays th
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

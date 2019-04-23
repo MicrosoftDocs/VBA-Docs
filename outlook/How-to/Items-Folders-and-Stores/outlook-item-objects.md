@@ -3,6 +3,7 @@ title: Outlook Item Objects
 ms.prod: outlook
 ms.assetid: 6ea4babf-facf-4018-ef5a-4a484e55153a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -46,8 +47,5 @@ The following are the item-level objects defined in the Outlook object model:
 -  **[TaskRequestItem Object](../../../api/Outlook.TaskRequestItem.md)**
     
 -  **[TaskRequestUpdateItem Object](../../../api/Outlook.TaskRequestUpdateItem.md)**
-    
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

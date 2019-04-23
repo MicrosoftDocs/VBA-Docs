@@ -3,6 +3,7 @@ title: Cells and Ranges
 ms.prod: excel
 ms.assetid: 8b84060e-8a2c-4754-bd0c-df73e80f38fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -86,5 +87,5 @@ This topic links to programming tasks (how-to and walkthrough topics) for common
 -  [Select a Range](../Cells-and-Ranges/select-a-range.md)
     
       - Describes how to select the used range and the data range on a worksheet.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

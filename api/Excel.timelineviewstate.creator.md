@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: ba8e2368-a38a-143f-7c3c-bc6097cc5af0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TimelineViewState.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [TimelineViewState Object (Excel)](Excel.timelineviewstate.md) object.
+_expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md) object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

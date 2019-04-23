@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3a57eb9b-3218-4b2e-82b6-f510a5c30457
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.IsPublished Property (Project)](http://msdn.microsoft.com/library/ace2c679-37fe-a3fc-b5f4-de55128efd05%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CalendarModule.Session Property (Outlook)
+title: CalendarModule.Session property (Outlook)
 keywords: vbaol11.chm2824
 f1_keywords:
 - vbaol11.chm2824
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CalendarModule.Session
 ms.assetid: df23c975-9ac9-4ed9-0369-dce6b59e518a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarModule.Session Property (Outlook)
+# CalendarModule.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
+_expression_ A variable that represents a [CalendarModule](Outlook.CalendarModule.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [CalendarModule Object](Outlook.CalendarModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

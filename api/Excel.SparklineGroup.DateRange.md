@@ -8,6 +8,7 @@ api_name:
 - Excel.SparklineGroup.DateRange
 ms.assetid: 4944aa78-89cc-8252-2c5e-148ca4229579
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Gets or sets the date range for the sparkline group. Read/write.
 
 ## Syntax
 
- _expression_. `DateRange`
+_expression_. `DateRange`
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value
@@ -44,3 +45,4 @@ Empty cells and non-date values in the date range are not displayed.
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

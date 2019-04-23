@@ -1,5 +1,5 @@
 ---
-title: Documents.CheckOut Method (Visio)
+title: Documents.CheckOut method (Visio)
 keywords: vis_sdr.chm10652035
 f1_keywords:
 - vis_sdr.chm10652035
@@ -8,17 +8,18 @@ api_name:
 - Visio.Documents.CheckOut
 ms.assetid: eda3b173-0874-47b6-e18d-a0036e6a31e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents.CheckOut Method (Visio)
+# Documents.CheckOut method (Visio)
 
 Marks a specified document as checked out and assigns edit privileges to the current user.
 
 
 ## Syntax
 
- _expression_. `CheckOut`( `_FileName_` )
+_expression_. `CheckOut`( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
@@ -73,4 +74,4 @@ Sub DocOut()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

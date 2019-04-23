@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.CenterVertically
 ms.assetid: ffd5897b-fe25-f52f-eb94-cb42659bcedd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.CenterVertically property (Excel)
 
- **True** if the sheet is centered vertically on the page when it's printed. Read/write **Boolean** .
+ **True** if the sheet is centered vertically on the page when it's printed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CenterVertically`
+_expression_. `CenterVertically`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets("Sheet1").PageSetup.CenterVertically = True
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

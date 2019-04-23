@@ -1,14 +1,15 @@
 ---
-title: PpUpdateOption Enumeration (PowerPoint)
+title: PpUpdateOption enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpUpdateOption
 ms.assetid: 0ede58db-7c6a-fbda-538a-e3762fe26248
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpUpdateOption Enumeration (PowerPoint)
+# PpUpdateOption enumeration (PowerPoint)
 
 Constants that specify how hyperlinks in presentaitons should be updated, passed to and returned by the  **AutoUpdate** property of the **LinkFormat** object.
 
@@ -20,3 +21,4 @@ Constants that specify how hyperlinks in presentaitons should be updated, passed
 |**ppUpdateOptionManual**|1|Link will be updated only when the user specifically asks to update the presentation.|
 |**ppUpdateOptionMixed**|-2|Mixed|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

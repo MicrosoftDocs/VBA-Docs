@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a07f656f-bac1-4e14-8b52-56ade5f8eca9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationButton.Gradient property (Access)](http://msdn.microsoft.com/library/b23fb655-67bf-645f-f510-c4baafe02e58%28Office.15%29.aspx)
 [TabControl.Gradient property (Access)](http://msdn.microsoft.com/library/0fa97694-025d-4064-5fc1-d95d873ad3fc%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

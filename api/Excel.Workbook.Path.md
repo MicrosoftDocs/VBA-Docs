@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Path
 ms.assetid: f4cbf76a-2ed3-63b7-3262-45403d6f086e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** that represents the complete path to the workbook/file tha
 
 ## Syntax
 
- _expression_. `Path`
+_expression_.**Path**
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** that represents the complete path to the workbook/file tha
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

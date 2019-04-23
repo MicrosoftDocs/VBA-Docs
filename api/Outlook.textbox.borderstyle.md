@@ -3,6 +3,7 @@ title: TextBox.BorderStyle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c71b8117-a731-d0ab-89a7-84dd9aa089c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets an  **Integer** that specifies the type of border of the control
 
 ## Syntax
 
- _expression_. **BorderStyle**
+_expression_.**BorderStyle**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ You can use either  **BorderStyle** or **[SpecialEffect](Outlook.textbox.special
 
  **BorderStyle** uses **[BorderColor](Outlook.textbox.bordercolor.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

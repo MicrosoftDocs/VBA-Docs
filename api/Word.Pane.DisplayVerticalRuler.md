@@ -1,5 +1,5 @@
 ---
-title: Pane.DisplayVerticalRuler Property (Word)
+title: Pane.DisplayVerticalRuler property (Word)
 keywords: vbawd10.chm157286405
 f1_keywords:
 - vbawd10.chm157286405
@@ -8,24 +8,25 @@ api_name:
 - Word.Pane.DisplayVerticalRuler
 ms.assetid: 66899d6f-8e78-6d54-e0b0-d4a2bace428e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.DisplayVerticalRuler Property (Word)
+# Pane.DisplayVerticalRuler property (Word)
 
- **True** if a vertical ruler is displayed for the specified pane. Read/write **Boolean** .
+ **True** if a vertical ruler is displayed for the specified pane. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayVerticalRuler`
+_expression_. `DisplayVerticalRuler`
 
  _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Remarks
 
-A vertical ruler appears only in print layout view, and only if the  **DisplayRulers** property is set to **True** .
+A vertical ruler appears only in print layout view, and only if the  **DisplayRulers** property is set to **True**.
 
 
 ## Example
@@ -47,3 +48,4 @@ End With
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

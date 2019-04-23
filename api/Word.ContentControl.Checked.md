@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Checked Property (Word)
+title: ContentControl.Checked property (Word)
 keywords: vbawd10.chm266534940
 f1_keywords:
 - vbawd10.chm266534940
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.Checked
 ms.assetid: 43315939-8ecb-788f-ddd5-3256cca5c9b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.Checked Property (Word)
+# ContentControl.Checked property (Word)
 
 Returns or sets a  **Boolean** that represents the current state (checked/unchecked) for a check box. Read/Write.
 
 
 ## Syntax
 
- _expression_. `Checked`
+_expression_. `Checked`
 
  _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 
@@ -48,3 +49,4 @@ objCC.Checked = true
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

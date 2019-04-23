@@ -1,12 +1,13 @@
 ---
-title: xlDataLabelsType Enumeration (Word)
+title: XlDataLabelsType enumeration (Word)
 ms.prod: word
 ms.assetid: 66b0b21f-7f33-0fbd-6d24-db722109d330
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDataLabelsType Enumeration (Word)
+# XlDataLabelsType enumeration (Word)
 
 Specifies the type of data label to apply.
 
@@ -21,3 +22,4 @@ Specifies the type of data label to apply.
 | **xlDataLabelsShowPercent**|3|The percentage of the total. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowValue**|2|The default value for the point (assumed if this argument is not specified).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

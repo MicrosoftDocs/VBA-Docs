@@ -1,5 +1,5 @@
 ---
-title: Characters.RunEnd Property (Visio)
+title: Characters.RunEnd property (Visio)
 keywords: vis_sdr.chm10214280
 f1_keywords:
 - vis_sdr.chm10214280
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.RunEnd
 ms.assetid: 4c9d0f81-8b6d-d5c3-98a1-1d0b39f8193a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.RunEnd Property (Visio)
+# Characters.RunEnd property (Visio)
 
 Returns the ending index of a type of run?a sequence of characters that share a particular attribute, such as character, paragraph, or tab formatting; or a word, paragraph, or field. Read-only.
 
 
 ## Syntax
 
- _expression_. `RunEnd`( `_RunType_` )
+_expression_. `RunEnd`( `_RunType_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -46,6 +47,6 @@ Use the  **RunEnd** property to determine the end of a sequence of identically f
 
 The index that the  **RunEnd** property returns is greater than or equal to the ending index of a **Characters** object. If the **End** property of the **Characters** object is already at the end of a run, the value of the **RunEnd** property is equal to the value of the **End** property.
 
-Use the  _RunType_ argument to specify the type of run you want. You can use any of the constants declared by the Visio type library in **[VisRunTypes Constants](Visio.visruntypes.md)** . To find a list of _RunType_ values, see the **RunBegin** property.
+Use the  _RunType_ argument to specify the type of run you want. You can use any of the constants declared by the Visio type library in **[VisRunTypes Constants](Visio.visruntypes.md)**. To find a list of _RunType_ values, see the **RunBegin** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentations.CanCheckOut Method (PowerPoint)
+title: Presentations.CanCheckOut method (PowerPoint)
 keywords: vbapp10.chm522008
 f1_keywords:
 - vbapp10.chm522008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentations.CanCheckOut
 ms.assetid: 60393f0c-11e1-169d-2ead-c6556f1d1364
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentations.CanCheckOut Method (PowerPoint)
+# Presentations.CanCheckOut method (PowerPoint)
 
 Returns  **True** if Microsoft PowerPoint can check out a specified presentation from a server.
 
 
 ## Syntax
 
- _expression_. `CanCheckOut`( `_FileName_` )
+_expression_. `CanCheckOut`( `_FileName_` )
 
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
@@ -75,3 +76,4 @@ End Sub
 
 [Presentations Object](PowerPoint.Presentations.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

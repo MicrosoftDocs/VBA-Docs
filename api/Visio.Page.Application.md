@@ -1,5 +1,5 @@
 ---
-title: Page.Application Property (Visio)
+title: Page.Application property (Visio)
 keywords: vis_sdr.chm10913090
 f1_keywords:
 - vis_sdr.chm10913090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Application
 ms.assetid: e4f0a4ad-d99c-efec-d4e9-8a5fc625288e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Application Property (Visio)
+# Page.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -57,4 +58,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

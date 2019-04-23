@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSet.Item
 ms.assetid: 4208ddeb-dedb-3d96-c705-adddfcd9a2fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[Icon](Excel.Icon.md)** object that represents a single icon from 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
+_expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ The value of the  _Index_ parameter cannot be greater than the number of icons i
 
 [IconSet Object](Excel.IconSet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

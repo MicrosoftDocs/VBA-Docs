@@ -1,5 +1,5 @@
 ---
-title: Borders.Parent Property (PowerPoint)
+title: Borders.Parent property (PowerPoint)
 keywords: vbapp10.chm629002
 f1_keywords:
 - vbapp10.chm629002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Borders.Parent
 ms.assetid: c6805f83-89a3-cb90-1e2b-9a76b067899a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.Parent Property (PowerPoint)
+# Borders.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Borders](./PowerPoint.Borders.md) object.
+_expression_ A variable that represents a [Borders](./PowerPoint.Borders.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [Borders Object](PowerPoint.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

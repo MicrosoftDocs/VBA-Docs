@@ -3,6 +3,7 @@ title: ToggleButton.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5c3ff165-c5b6-43f2-1f62-398ad5219a43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ RGB(15,200,75)
 
 You can only see the background color of an object if the  **[BackStyle](Outlook.togglebutton.backstyle.md)** property is set to 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

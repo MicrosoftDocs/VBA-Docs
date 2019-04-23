@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b7772645-6f7d-4e09-aafa-e0a86aae290c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ObjectFrame.RowSourceType property (Access)](http://msdn.microsoft.com/library/d450ce8b-c2e9-f51b-61af-b46a64ab7d32%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

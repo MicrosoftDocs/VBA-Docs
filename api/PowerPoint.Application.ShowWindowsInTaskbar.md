@@ -1,5 +1,5 @@
 ---
-title: Application.ShowWindowsInTaskbar Property (PowerPoint)
+title: Application.ShowWindowsInTaskbar property (PowerPoint)
 keywords: vbapp10.chm502041
 f1_keywords:
 - vbapp10.chm502041
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.ShowWindowsInTaskbar
 ms.assetid: ad386fe5-9985-a1cc-cc52-1552bc12cad4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ShowWindowsInTaskbar Property (PowerPoint)
+# Application.ShowWindowsInTaskbar property (PowerPoint)
 
 Determines whether there is a separate Windows taskbar button for each open presentation. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowWindowsInTaskbar`
+_expression_. `ShowWindowsInTaskbar`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -36,7 +37,7 @@ The value of the  **ShowWindowsInTaskbar** property can be one of these **MsoTri
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|There is not a separate Windows taskbar button for each open presentation.|
 |**msoTrue**| The default. There is a separate Windows taskbar button for each open presentation.|
@@ -56,3 +57,4 @@ Application.ShowWindowsInTaskbar = msoFalse
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

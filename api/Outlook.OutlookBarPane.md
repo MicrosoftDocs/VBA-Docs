@@ -1,5 +1,5 @@
 ---
-title: OutlookBarPane Object (Outlook)
+title: OutlookBarPane object (Outlook)
 keywords: vbaol11.chm3003
 f1_keywords:
 - vbaol11.chm3003
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OutlookBarPane
 ms.assetid: f8e6aa05-7a66-64f2-5a6a-ea639b6bbc59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarPane Object (Outlook)
+# OutlookBarPane object (Outlook)
 
 Represents the  **Shortcuts** pane in an explorer window.
 
@@ -35,7 +36,7 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeNavigate](Outlook.OutlookBarPane.BeforeNavigate.md)|
 
@@ -43,7 +44,7 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarPane.Application.md)|
 |[Class](Outlook.OutlookBarPane.Class.md)|
@@ -56,4 +57,6 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.SaveAsEx Method (Visio)
+title: Document.SaveAsEx method (Visio)
 keywords: vis_sdr.chm10516505
 f1_keywords:
 - vis_sdr.chm10516505
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.SaveAsEx
 ms.assetid: c0bef38d-1849-67ab-606f-8178de46c7c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SaveAsEx Method (Visio)
+# Document.SaveAsEx method (Visio)
 
 Saves a document with a file name using extra information passed in an argument.
 
 
 ## Syntax
 
- _expression_. `SaveAsEx`( `_FileName_` , `_SaveFlags_` )
+_expression_. `SaveAsEx`( `_FileName_` , `_SaveFlags_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -45,7 +46,7 @@ The  _SaveFlags_ argument should be a combination of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSaveAsRO**|&H1|The document is saved as read-only.|
 | **visSaveAsWS**|&H2|The current workspace is saved with the file.|
@@ -67,4 +68,4 @@ Public Sub SaveAsEx_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

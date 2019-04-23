@@ -3,6 +3,7 @@ title: Invalid Memo or OLE Object in subquery <name>. (Error 3342)
 ms.prod: access
 ms.assetid: 30b600bc-0942-0256-32bd-d44deb5a5488
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ A subquery cannot return a Memo or OLE Object, and it cannot be compared to a Me
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlCellType enumeration (Excel)
+title: XlCellType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCellType
 ms.assetid: 9b0dedec-60a4-6004-0049-4dda1009ef22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCellType enumeration (Excel)
+# XlCellType enumeration (Excel)
 
 Specifies the type of cells.
 
@@ -27,3 +28,4 @@ Specifies the type of cells.
 | **xlCellTypeSameValidation**|-4175|Cells having the same validation criteria.|
 | **xlCellTypeVisible**|12|All visible cells.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

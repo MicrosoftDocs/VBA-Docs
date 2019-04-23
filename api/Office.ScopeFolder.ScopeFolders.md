@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder.ScopeFolders Property (Office)
+title: ScopeFolder.ScopeFolders property (Office)
 keywords: vbaof11.chm259003
 f1_keywords:
 - vbaof11.chm259003
@@ -7,25 +7,26 @@ ms.prod: office
 api_name:
 - Office.ScopeFolder.ScopeFolders
 ms.assetid: e3e6ef0f-46b9-1b8c-c115-ab4832c3fb8a
-ms.date: 06/08/2017
+ms.date: 01/23/2019
+localization_priority: Normal
 ---
 
 
-# ScopeFolder.ScopeFolders Property (Office)
+# ScopeFolder.ScopeFolders property (Office)
 
-Gets a  **ScopeFolders** collection. The items in this collection correspond to the subfolders of the parent **ScopeFolder** object. Read-only.
+Gets a **ScopeFolders** collection. The items in this collection correspond to the subfolders of the parent **ScopeFolder** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ScopeFolders`
+_expression_.**ScopeFolders**
 
- _expression_ A variable that represents a [ScopeFolder](./Office.ScopeFolder.md) object.
+_expression_ A variable that represents a **[ScopeFolder](Office.ScopeFolder.md)** object.
 
 
 ## Example
 
-The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the  **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be "A:\", "C:\", etc.
+The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be `A:\`, `C:\`, etc.
 
 
 ```vb
@@ -60,10 +61,8 @@ End Sub
 
 ## See also
 
-
-[ScopeFolder Object](Office.ScopeFolder.md)
-
+- [ScopeFolder object members](overview/Library-Reference/scopefolder-members-office.md)
 
 
-[ScopeFolder Object Members](./overview/Library-Reference/scopefolder-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

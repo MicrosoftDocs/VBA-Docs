@@ -1,5 +1,5 @@
 ---
-title: Application.ImportCommitment Method (Project)
+title: Application.ImportCommitment method (Project)
 keywords: vbapj.chm2098
 f1_keywords:
 - vbapj.chm2098
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ImportCommitment
 ms.assetid: ad87bf6a-5409-bd10-b658-b81a3ba501f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ImportCommitment Method (Project)
+# Application.ImportCommitment method (Project)
 
 Imports the specified deliverable into a project.
 
 
 ## Syntax
 
- _expression_. `ImportCommitment`( ` _CommitmentDate_`, ` _CommitmentGuid_` )
+_expression_. `ImportCommitment`( `_CommitmentDate_`, `_CommitmentGuid_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Imports the specified deliverable into a project.
 
 In this method, the term  _commitment_ is synonymous with the _deliverable_ feature in Project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

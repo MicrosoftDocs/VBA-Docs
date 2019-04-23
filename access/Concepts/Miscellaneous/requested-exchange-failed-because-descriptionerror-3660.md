@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: ff56c1cd-14ac-5759-3ed6-7101a1887179
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ If you are conducting replication with Microsoft Access, you can open the exchan
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

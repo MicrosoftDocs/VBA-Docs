@@ -1,5 +1,5 @@
 ---
-title: AccountSelector.Session Property (Outlook)
+title: AccountSelector.Session property (Outlook)
 keywords: vbaol11.chm3451
 f1_keywords:
 - vbaol11.chm3451
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AccountSelector.Session
 ms.assetid: aca5ce47-5597-8bb3-588b-0c58d704b158
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccountSelector.Session Property (Outlook)
+# AccountSelector.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSelector.md)' object.
+_expression_ A variable that represents an '[AccountSelector](Outlook.AccountSelector.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ You can use the  **Session** property and the **[GetNamespace](Outlook.Applicati
 
 [AccountSelector Object](Outlook.AccountSelector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

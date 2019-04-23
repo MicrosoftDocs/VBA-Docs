@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: ce86613a-5c0d-90d2-2878-726103632c43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-Microsoft Outlook/Exchange IISAM uses the Messaging API (MAPI) to obtain folder or address book information. To get MAPI onto your machine you must install one of the Microsoft e-mail clients that uses MAPI, such as Outlook Client, Outlook Express, or Exchange Client. Until you do this, the Outlook/Exchange IISAM cannot work.
+Microsoft Outlook/Exchange IISAM uses the Messaging API (MAPI) to obtain folder or address book information. To get MAPI onto your machine you must install one of the Microsoft email clients that uses MAPI, such as Outlook Client, Outlook Express, or Exchange Client. Until you do this, the Outlook/Exchange IISAM cannot work.
 
 ## See also
 
@@ -25,3 +26,5 @@ Microsoft Outlook/Exchange IISAM uses the Messaging API (MAPI) to obtain folder 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

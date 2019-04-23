@@ -1,5 +1,5 @@
 ---
-title: Selection.SortAscending Method (Word)
+title: Selection.SortAscending method (Word)
 keywords: vbawd10.chm158662825
 f1_keywords:
 - vbawd10.chm158662825
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.SortAscending
 ms.assetid: 8092fdac-b89c-9a6e-1151-9611f69d0dc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SortAscending Method (Word)
+# Selection.SortAscending method (Word)
 
 Sorts paragraphs or table rows in ascending alphanumeric order.
 
 
 ## Syntax
 
- _expression_. `SortAscending`
+_expression_. `SortAscending`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Sorts paragraphs or table rows in ascending alphanumeric order.
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

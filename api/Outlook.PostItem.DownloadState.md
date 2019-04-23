@@ -1,5 +1,5 @@
 ---
-title: PostItem.DownloadState Property (Outlook)
+title: PostItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1559
 f1_keywords:
 - vbaol11.chm1559
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PostItem.DownloadState
 ms.assetid: e1b4a5d4-2b2b-fbe6-f8c7-154b80d7ec28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.DownloadState Property (Outlook)
+# PostItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

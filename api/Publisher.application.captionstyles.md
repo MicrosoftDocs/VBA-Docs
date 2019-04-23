@@ -1,22 +1,23 @@
 ---
-title: Application.CaptionStyles Property (Publisher)
+title: Application.CaptionStyles property (Publisher)
 keywords: vbapb10.chm131192
 f1_keywords:
 - vbapb10.chm131192
 ms.prod: publisher
 ms.assetid: d843db6a-b0e0-4ee0-a3ae-824c0c8391a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CaptionStyles Property (Publisher)
+# Application.CaptionStyles property (Publisher)
 
 Returns a  **[CaptionStyles](Publisher.Documents.md)** collection that represents all the available caption styles. Read-only.
 
 
 ## Syntax
 
- _expression_. **CaptionStyles**
+_expression_.**CaptionStyles**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -25,4 +26,4 @@ Returns a  **[CaptionStyles](Publisher.Documents.md)** collection that represent
 
  **CaptionStyles**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

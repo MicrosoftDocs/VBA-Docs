@@ -1,5 +1,5 @@
 ---
-title: Exception Object (Project)
+title: Exception object (Project)
 keywords: vbapj.chm131287
 f1_keywords:
 - vbapj.chm131287
@@ -8,10 +8,11 @@ api_name:
 - Project.Exception
 ms.assetid: 105372cd-2e8b-0fd0-f565-0a75c907a40a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exception Object (Project)
+# Exception object (Project)
 
 Represents a single calendar exception. The  **Exception** object is a member of the **[Exceptions](./Project.exceptions.md)** collection.
 
@@ -27,7 +28,7 @@ Use the  **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** metho
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Project.Exception.Delete.md)|
 
@@ -35,7 +36,7 @@ Use the  **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** metho
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Exception.Application.md)|
 |[DaysOfWeek](./Project.Exception.DaysOfWeek.md)|
@@ -61,3 +62,5 @@ Use the  **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** metho
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

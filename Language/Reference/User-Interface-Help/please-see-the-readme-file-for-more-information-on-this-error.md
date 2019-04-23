@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8382cc05-efa7-8556-1236-33dfff3a7ede
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Some topics were added to this product after Help was completed. Help explanatio
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

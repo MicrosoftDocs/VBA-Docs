@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartGroups Method (PowerPoint)
+title: Chart.ChartGroups method (PowerPoint)
 keywords: vbapp10.chm684018
 f1_keywords:
 - vbapp10.chm684018
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.ChartGroups
 ms.assetid: 23339025-6d5f-b51a-e2b4-6fc15a903cea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartGroups Method (PowerPoint)
+# Chart.ChartGroups method (PowerPoint)
 
 Returns an object that represents either a single chart group or a collection of all the chart groups in the chart.
 
 
 ## Syntax
 
- _expression_. `ChartGroups`( `_Index_` )
+_expression_. `ChartGroups` (_Index_)
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Returns an object that represents either a single chart group or a collection of
 
 ## Example
 
-This example turns on up and down bars for the first chart group of the first chart, and then sets their colors. The example should be run on a 2-D line chart containing two series that intersect at one or more data points.
+This example turns on up and down bars for the first chart group of the first chart, and then sets their colors. The example should be run on a 2D line chart containing two series that intersect at one or more data points.
 
 
 ```vb
@@ -54,3 +55,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.Apply Method (Project)
+title: ShapeRange.Apply method (Project)
 ms.prod: project-server
 ms.assetid: 5b100f4a-99a0-77f2-772a-203b2f836293
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Apply Method (Project)
+# ShapeRange.Apply method (Project)
 Applies formatting to a shape range, where the formatting information has been copied by using the  **[PickUp](Project.shape.pickup.md)** method.
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -62,3 +63,5 @@ End Sub
 [ShapeRange Object](Project.shaperange.md)
 [PickUp Method](Project.shape.pickup.md)
 [Shape.Apply Method](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 4dc61073-a674-b786-418e-60b46c79d0c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,7 +19,7 @@ You can use an OLE programmatic identifier (sometimes called a ProgID) to create
  [Microsoft Access](#OLEMicrosoftAccess)
 
  [Microsoft Excel](#OLEMicrosoftExcel)
- [Microsoft Graph](#OLEMicrosoftGraph)
+ [Graph](#OLEMicrosoftGraph)
  [Microsoft Outlook](#OLEMicrosoftOutlook)
  [Microsoft PowerPoint](#OLEMicrosoftPowerPoint)
  [Microsoft Word](#OLEMicrosoftWord)
@@ -75,10 +76,10 @@ To create the Microsoft Excel objects listed in the following table, use one of 
 | **Workbook**|Excel.Chart|Returns a workbook containing two worksheets; one for the chart and one for its data. The chart worksheet is the active worksheet.|
 | **Workbook**|Excel.Sheet|Returns a workbook with one worksheet.|
 
-## Microsoft Graph
+## Graph
 <a name="OLEMicrosoftGraph"> </a>
 
-To create the Microsoft Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph available on the machine where the macro is running.
+To create the Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph available on the machine where the macro is running.
 
 
 
@@ -146,3 +147,4 @@ To create the Microsoft Word objects listed in the following table, use one of t
 | **Document**|Word.Document, Word.Template|
 | **Global**|Word.Global|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

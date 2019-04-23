@@ -1,5 +1,5 @@
 ---
-title: Selection.Paste Method (Word)
+title: Selection.Paste method (Word)
 keywords: vbawd10.chm158662777
 f1_keywords:
 - vbawd10.chm158662777
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Paste
 ms.assetid: f09e3a0f-2c24-6bcb-0a97-eb33318fe6f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Paste Method (Word)
+# Selection.Paste method (Word)
 
 Inserts the contents of the Clipboard at the specified selection.
 
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_.**Paste**
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ Selection.Paste
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

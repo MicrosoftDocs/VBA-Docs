@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3837645e-cd17-f2a5-7ea4-4baacee17758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The HTTP address specified is not valid for this replica set. The HTTP address s
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Dist Method (Excel)
+title: WorksheetFunction.T_Dist method (Excel)
 keywords: vbaxl10.chm137383
 f1_keywords:
 - vbaxl10.chm137383
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.T_Dist
 ms.assetid: a6b7ad29-d00f-f779-9531-4d05bc216036
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.T_Dist Method (Excel)
+# WorksheetFunction.T_Dist method (Excel)
 
 Returns a Student t-distribution where a numeric value (x) is a calculated value of t for which the Percentage Points are computed.
 
 
 ## Syntax
 
- _expression_. `T_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `T_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

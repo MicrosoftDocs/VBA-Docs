@@ -1,15 +1,16 @@
 ---
-title: VisFieldFormats Enumeration (Visio)
+title: VisFieldFormats enumeration (Visio)
 keywords: vis_sdr.chm70145
 f1_keywords:
 - vis_sdr.chm70145
 ms.prod: visio
 ms.assetid: ae671032-b96f-6652-f527-feb194a0261d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisFieldFormats Enumeration (Visio)
+# VisFieldFormats enumeration (Visio)
 
 Text field formats.
 
@@ -114,3 +115,4 @@ Text field formats.
 | **visFmtTimeHMMAMPM**|35|
 | **visFmtTimeHMM**|31|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

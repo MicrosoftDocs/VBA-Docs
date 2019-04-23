@@ -1,5 +1,5 @@
 ---
-title: View.Zoom Property (Word)
+title: View.Zoom property (Word)
 keywords: vbawd10.chm161808394
 f1_keywords:
 - vbawd10.chm161808394
@@ -8,17 +8,18 @@ api_name:
 - Word.View.Zoom
 ms.assetid: 587c2f80-461a-76f8-35b8-a14f73fb80ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Zoom Property (Word)
+# View.Zoom property (Word)
 
 Returns a  **[Zoom](Word.Zoom.md)** object that represents the magnification for the specified view.
 
 
 ## Syntax
 
- _expression_. `Zoom`
+_expression_. `Zoom`
 
  _expression_ An expression that returns one of a '[View](Word.View.md)' object.
 
@@ -53,3 +54,4 @@ ActiveDocument.ActiveWindow.View.Zoom.PageFit = wdPageFitBestFit
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

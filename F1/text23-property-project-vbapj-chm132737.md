@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1563b8d8-4864-4ed9-9795-b5ecc8bbda8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TimeScaleValue.Value Property (Project)](http://msdn.microsoft.com/library/30665b24-bc19-a6a2-cb1b-a70c3736b05b%28Office.15%29.aspx)
 [Resource.Text23 Property (Project)](http://msdn.microsoft.com/library/dc3cb6f1-9303-281e-f1af-f46acdea7a2a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

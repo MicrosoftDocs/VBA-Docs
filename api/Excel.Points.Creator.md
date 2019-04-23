@@ -8,19 +8,20 @@ api_name:
 - Excel.Points.Creator
 ms.assetid: 2924d441-34b8-6a19-9591-57a2824248d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Points.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [Points](Excel.Points(object).md) object.
+_expression_ A variable that represents a [Points](Excel.Points(object).md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Points Object](Excel.Points(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

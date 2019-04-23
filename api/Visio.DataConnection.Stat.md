@@ -1,5 +1,5 @@
 ---
-title: DataConnection.Stat Property (Visio)
+title: DataConnection.Stat property (Visio)
 keywords: vis_sdr.chm16514420
 f1_keywords:
 - vis_sdr.chm16514420
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataConnection.Stat
 ms.assetid: 1735764f-3014-34d9-eb16-d3a160ac6412
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataConnection.Stat Property (Visio)
+# DataConnection.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
@@ -21,7 +22,7 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [DataConnection](./Visio.DataConnection.md) object.
 
@@ -39,4 +40,4 @@ If an object is a reference to an entity that has been deleted, the  **Stat** pr
 
 A Component Object Model (COM) object, such as a Microsoft Visio  **Document** object, lives as long as it is held (pointed to) by a client, even if the object is logically in a deleted or closed state.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

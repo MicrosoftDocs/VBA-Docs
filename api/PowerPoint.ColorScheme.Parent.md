@@ -1,5 +1,5 @@
 ---
-title: ColorScheme.Parent Property (PowerPoint)
+title: ColorScheme.Parent property (PowerPoint)
 keywords: vbapp10.chm537002
 f1_keywords:
 - vbapp10.chm537002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ColorScheme.Parent
 ms.assetid: a71aa839-3a0e-7864-4c98-4b9f65aa16d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorScheme.Parent Property (PowerPoint)
+# ColorScheme.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
+_expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ End With
 
 [ColorScheme Object](PowerPoint.ColorScheme.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

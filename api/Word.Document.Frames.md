@@ -1,5 +1,5 @@
 ---
-title: Document.Frames Property (Word)
+title: Document.Frames property (Word)
 keywords: vbawd10.chm158007319
 f1_keywords:
 - vbawd10.chm158007319
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.Frames
 ms.assetid: 61b7d5dc-6ab4-d29c-6c6e-daac6a2431ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Frames Property (Word)
+# Document.Frames property (Word)
 
 Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Frames`
+_expression_. `Frames`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set myFrame = ActiveDocument.Frames.Add(Range:=Selection.Range)
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

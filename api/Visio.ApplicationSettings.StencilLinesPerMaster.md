@@ -1,5 +1,5 @@
 ---
-title: ApplicationSettings.StencilLinesPerMaster Property (Visio)
+title: ApplicationSettings.StencilLinesPerMaster property (Visio)
 keywords: vis_sdr.chm16251520
 f1_keywords:
 - vis_sdr.chm16251520
@@ -8,17 +8,18 @@ api_name:
 - Visio.ApplicationSettings.StencilLinesPerMaster
 ms.assetid: 0d962d29-2cb5-5a9f-342f-1a35905a3438
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ApplicationSettings.StencilLinesPerMaster Property (Visio)
+# ApplicationSettings.StencilLinesPerMaster property (Visio)
 
 For shapes on stencils in Microsoft Visio, determines how many lines of text of each shape's name can appear below the shape before the text is truncated and "..." is appended. Read/write.
 
 
 ## Syntax
 
- _expression_. `StencilLinesPerMaster`
+_expression_. `StencilLinesPerMaster`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
@@ -56,4 +57,4 @@ Public Sub StencilLinesPerMaster_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

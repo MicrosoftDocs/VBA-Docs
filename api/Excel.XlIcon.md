@@ -1,14 +1,15 @@
 ---
-title: xlIcon enumeration (Excel)
+title: XlIcon enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlIcon
 ms.assetid: 0e94ae01-fde3-5b04-928e-a23d4805a16a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlIcon enumeration (Excel)
+# XlIcon enumeration (Excel)
 
 Specifies the icon for a criterion in an icon set conditional formatting rule.
 
@@ -74,4 +75,4 @@ Specifies the icon for a criterion in an icon set conditional formatting rule.
 
 Specify the icon for a criterion in an icon set conditional formatting rule by using the  **[Icon](Excel.IconCriterion.Icon.md)** property of the **[IconCriterion](Excel.IconCriterion.md)** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

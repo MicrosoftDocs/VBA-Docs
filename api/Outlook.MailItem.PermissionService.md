@@ -1,5 +1,5 @@
 ---
-title: MailItem.PermissionService Property (Outlook)
+title: MailItem.PermissionService property (Outlook)
 keywords: vbaol11.chm1387
 f1_keywords:
 - vbaol11.chm1387
@@ -8,26 +8,27 @@ api_name:
 - Outlook.MailItem.PermissionService
 ms.assetid: c999b215-f360-17b1-4915-45c3b525d3e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.PermissionService Property (Outlook)
+# MailItem.PermissionService property (Outlook)
 
 Sets or returns an  **[OlPermissionService](Outlook.OlPermissionService.md)** constant that determines the permission service that will be used when sending a message protected by Information Rights Management (IRM). Read/write.
 
 
 ## Syntax
 
- _expression_. `PermissionService`
+_expression_. `PermissionService`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
 
 This property is useful only if you have more than one permission identity for a particular SMTP address. 
 
-While you can view content that is protected by IRM on any computer running the 2007 Microsoft Office system or a later version, you must have Microsoft Office Professional Edition 2003, Microsoft Office Outlook 2007, or a later version of Outlook to create or send an e-mail that is protected by IRM.
+While you can view content that is protected by IRM on any computer running the 2007 Microsoft Office system or a later version, you must have Microsoft Office Professional Edition 2003, Microsoft Office Outlook 2007, or a later version of Outlook to create or send an email that is protected by IRM.
 
 
 ## Example
@@ -59,3 +60,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

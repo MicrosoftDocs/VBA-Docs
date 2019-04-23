@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMinorGridlines Property (Word)
+title: Axis.HasMinorGridlines property (Word)
 keywords: vbawd10.chm113049613
 f1_keywords:
 - vbawd10.chm113049613
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.HasMinorGridlines
 ms.assetid: f835dab5-1256-bd4c-0219-2e3016120d18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.HasMinorGridlines Property (Word)
+# Axis.HasMinorGridlines property (Word)
 
- **True** if the axis has minor gridlines. Read/write **Boolean** .
+ **True** if the axis has minor gridlines. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasMinorGridlines`
+_expression_.**HasMinorGridlines**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MappedDataField Object (Word)
+title: MappedDataField object (Word)
 keywords: vbawd10.chm1641
 f1_keywords:
 - vbawd10.chm1641
@@ -8,10 +8,11 @@ api_name:
 - Word.MappedDataField
 ms.assetid: 35b9b770-bf18-8922-7c3a-431f454561e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MappedDataField Object (Word)
+# MappedDataField object (Word)
 
 A mapped data field is a field contained within Microsoft Word that represents commonly used name or address information, such as "First Name." If a data source contains a "First Name" field or a variation (such as "First_Name," "FirstName," "First," or "FName"), the field in the data source will automatically map to the corresponding mapped data field in Word. If a document or template is to be merged with more than one data source, mapped data fields make it unnecessary to reenter the fields into the document to agree with the field names in the database.
 
@@ -44,6 +45,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

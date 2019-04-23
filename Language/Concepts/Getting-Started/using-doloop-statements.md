@@ -1,27 +1,25 @@
 ---
-title: Using Do...Loop Statements
+title: Using Do...Loop statements (VBA)
 keywords: vbcn6.chm1076681
 f1_keywords:
 - vbcn6.chm1076681
 ms.prod: office
 ms.assetid: aa3322b6-80a6-d3c6-86b7-4ea6151f0616
-ms.date: 06/08/2017
+ms.date: 12/26/2018
+localization_priority: Normal
 ---
 
 
-# Using Do...Loop Statements
+# Using Do...Loop statements
 
-You can use  **Do...Loop** statements to run a block of[statements](../../Glossary/vbe-glossary.md#statement) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
-
-
-## Repeating Statements While a Condition is True
-
-There are two ways to use the  **While**[keyword](../../Glossary/vbe-glossary.md#keyword) to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop , or you can check it after the loop has run at least once.
-
-In the following  `ChkFirstWhile` procedure, you check the condition before you enter the loop. If `myNum` is set to 9 instead of 20, the statements inside the loop will never run. In the `ChkLastWhile` procedure, the statements inside the loop run only once before the condition becomes **False**.
+You can use **[Do...Loop](../../reference/user-interface-help/doloop-statement.md)** statements to run a block of [statements](../../Glossary/vbe-glossary.md#statement) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
 
 
+## Repeating statements while a condition is True
 
+There are two ways to use the **While** [keyword](../../Glossary/vbe-glossary.md#keyword) to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop, or you can check it after the loop has run at least once.
+
+In the following `ChkFirstWhile` procedure, you check the condition before you enter the loop. If `myNum` is set to 9 instead of 20, the statements inside the loop will never run. In the `ChkLastWhile` procedure, the statements inside the loop run only once before the condition becomes **False**.
 
 ```vb
 Sub ChkFirstWhile() 
@@ -46,9 +44,9 @@ End Sub
 ```
 
 
-## Repeating Statements Until a Condition Becomes True
+## Repeating statements until a condition becomes True
 
-There are two ways to use the  **Until** keyword to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop (as shown in the `ChkFirstUntil` procedure), or you can check it after the loop has run at least once (as shown in the `ChkLastUntil` procedure). Looping continues while the condition remains **False**.
+There are two ways to use the **Until** keyword to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop (as shown in the `ChkFirstUntil` procedure), or you can check it after the loop has run at least once (as shown in the `ChkLastUntil` procedure). Looping continues while the condition remains **False**.
 
 
 ```vb
@@ -74,14 +72,11 @@ End Sub
 ```
 
 
-## Exiting a Do...Loop Statement from Inside the Loop
+## Exiting a Do...Loop statement from inside the loop
 
-You can exit a  **Do...Loop** using the **Exit Do** statement. For example, to exit an endless loop, use the **Exit Do** statement in the **True** statement block of either an **If...Then...Else** statement or a **Select Case** statement. If the condition is **False**, the loop will run as usual.
+You can exit a **Do...Loop** by using the **[Exit Do](../../reference/user-interface-help/exit-statement.md)** statement. For example, to exit an endless loop, use the **Exit Do** statement in the **True** statement block of either an **[If...Then...Else](../../reference/user-interface-help/ifthenelse-statement.md)** statement or a **[Select Case](../../reference/user-interface-help/select-case-statement.md)** statement. If the condition is **False**, the loop will run as usual.
 
-In the following example,  `myNum` is assigned a value that creates an endless loop. The **If...Then...Else** statement checks for this condition, and then exits, preventing endless looping.
-
-
-
+In the following example `myNum` is assigned a value that creates an endless loop. The **If...Then...Else** statement checks for this condition, and then exits, preventing endless looping.
 
 ```vb
 Sub ExitExample() 
@@ -96,7 +91,11 @@ Sub ExitExample()
 End Sub
 ```
 
+> [!NOTE] 
+> To stop an endless loop, press ESC or CTRL+BREAK.
 
- **Note**  To stop an endless loop, press ESC or CTRL+BREAK.
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

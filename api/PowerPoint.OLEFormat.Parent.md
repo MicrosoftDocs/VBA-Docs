@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Parent Property (PowerPoint)
+title: OLEFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm562002
 f1_keywords:
 - vbapp10.chm562002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.OLEFormat.Parent
 ms.assetid: 2eb7c4bf-5d11-d0e6-74b3-bde215ca3701
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Parent Property (PowerPoint)
+# OLEFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [OLEFormat Object](PowerPoint.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

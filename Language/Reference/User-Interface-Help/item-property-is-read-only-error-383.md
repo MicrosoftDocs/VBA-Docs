@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6ef3eb14-5e32-5639-e297-990184249393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,6 +17,5 @@ The [property](../../Glossary/vbe-glossary.md#property) is read-only at both[des
 
 
 - You tried to set or change a property whose value can only be read. Remove the reference to the property from your code or change the reference to only return the value of the property at run time.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

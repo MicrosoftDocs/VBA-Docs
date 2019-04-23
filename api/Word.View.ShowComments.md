@@ -1,5 +1,5 @@
 ---
-title: View.ShowComments Property (Word)
+title: View.ShowComments property (Word)
 keywords: vbawd10.chm161808419
 f1_keywords:
 - vbawd10.chm161808419
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowComments
 ms.assetid: 01d688e8-9a5c-acd3-1626-d45a24a6b3b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowComments Property (Word)
+# View.ShowComments property (Word)
 
- **True** for Microsoft Word to display the comments in a document. Read/write **Boolean** .
+ **True** for Microsoft Word to display the comments in a document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowComments`
+_expression_. `ShowComments`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -45,3 +46,4 @@ End Sub
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

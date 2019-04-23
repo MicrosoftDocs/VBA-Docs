@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4cdf216b-95fc-4366-896e-5400ff946168
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -32,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TaskRequestUpdateItem.PropertyChange Event (Outlook)](http://msdn.microsoft.com/library/47121ba2-cd73-405a-9bd0-d8fc4a77a535%28Office.15%29.aspx)
 [JournalItem.PropertyChange Event (Outlook)](http://msdn.microsoft.com/library/a04a13ea-85ce-f93e-37af-fa7b77757204%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

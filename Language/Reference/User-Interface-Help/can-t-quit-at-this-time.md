@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4d614194-7d15-157e-1edc-92fdbc7577af
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You can't quit Windows while Visual Basic is in run mode or [break mode](../../Glossary/vbe-glossary.md#break-mode). You also can't quit Windows while a dialog box or message box is displayed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

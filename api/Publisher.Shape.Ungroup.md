@@ -1,5 +1,5 @@
 ---
-title: Shape.Ungroup Method (Publisher)
+title: Shape.Ungroup method (Publisher)
 keywords: vbapb10.chm2228265
 f1_keywords:
 - vbapb10.chm2228265
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Ungroup
 ms.assetid: 2edd16fc-d607-856f-0524-bdef1e58a9da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Ungroup Method (Publisher)
+# Shape.Ungroup method (Publisher)
 
 Ungroups the specified group of shapes or any groups of shapes in the specified shape range. If the specified shape is a picture or OLE object, Microsoft Publisher will break it apart and convert it to an ungrouped set of shapes. (For example, an embedded Microsoft Office Excel spreadsheet is converted into lines and text boxes.) Returns the ungrouped shapes as a single  **[ShapeRange](Publisher.ShapeRange.md)** object.
 
 
 ## Syntax
 
- _expression_. **Ungroup**
+_expression_.**Ungroup**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -49,4 +50,4 @@ Next shpLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

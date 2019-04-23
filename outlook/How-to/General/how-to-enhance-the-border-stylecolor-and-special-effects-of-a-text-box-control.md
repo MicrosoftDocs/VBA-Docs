@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 250de388-e1e8-98a6-95bd-df3ff3eb6a0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control
+# Enhance the Border Style, Color, and Special Effects of a Text Box Control
 
 The following example demonstrates the  **[BorderColor](../../../api/Outlook.textbox.bordercolor.md)** and **[SpecialEffect](../../../api/Outlook.textbox.specialeffect.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](../../../api/Outlook.textbox.backcolor.md)**,  **[BackStyle](../../../api/Outlook.textbox.backstyle.md)**,  **BorderColor**, and  **[ForeColor](../../../api/Outlook.textbox.forecolor.md)** properties.
 
@@ -124,4 +125,4 @@ End If
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

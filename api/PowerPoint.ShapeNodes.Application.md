@@ -1,21 +1,22 @@
 ---
-title: ShapeNodes.Application Property (PowerPoint)
+title: ShapeNodes.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.Application
 ms.assetid: 592142a3-ced3-17df-ab13-5dae22ddf08b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Application Property (PowerPoint)
+# ShapeNodes.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
@@ -63,3 +64,4 @@ Next
 
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

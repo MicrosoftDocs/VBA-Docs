@@ -1,5 +1,5 @@
 ---
-title: WizardValue Object (Publisher)
+title: WizardValue object (Publisher)
 keywords: vbapb10.chm2162687
 f1_keywords:
 - vbapb10.chm2162687
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WizardValue
 ms.assetid: 15b60632-d1b1-c62b-0264-72d65bd1fe82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardValue Object (Publisher)
+# WizardValue object (Publisher)
 
 Represents a possible value for the specified wizard property.
  
@@ -46,10 +47,11 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WizardValue.Application.md)|
 |[ID](Publisher.WizardValue.ID.md)|
 |[Name](Publisher.WizardValue.Name.md)|
 |[Parent](Publisher.WizardValue.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

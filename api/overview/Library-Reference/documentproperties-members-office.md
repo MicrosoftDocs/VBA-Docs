@@ -2,7 +2,8 @@
 title: DocumentProperties members (Office)
 ms.prod: office
 ms.assetid: bb388713-3029-796e-3328-6193eb14d1bf
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,14 +14,14 @@ A collection of **DocumentProperty** objects. Each **DocumentProperty** object r
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.DocumentProperties.Add.md)|Creates a new custom document property. You can add a new document property only to the custom **DocumentProperties** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentProperties.Application.md)|Gets an **Application** object that represents the container application for the **DocumentProperties** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.DocumentProperties.Count.md)|Gets a **Long** indicating the number of items in the **DocumentProperties** collection. Read-only.|
@@ -28,3 +29,4 @@ A collection of **DocumentProperty** objects. Each **DocumentProperty** object r
 |[Item](../../Office.DocumentProperties.Item.md)|Gets a **DocumentProperty** object from the **DocumentProperties** collection. Read-only.|
 |[Parent](../../Office.DocumentProperties.Parent.md)|Gets the **Parent** object for the **DocumentProperties** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

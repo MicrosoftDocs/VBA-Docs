@@ -1,5 +1,5 @@
 ---
-title: Field Object (Publisher)
+title: Field object (Publisher)
 keywords: vbapb10.chm6160383
 f1_keywords:
 - vbapb10.chm6160383
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Field
 ms.assetid: 93da311a-b834-f990-60e9-786d4f6a16f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Field Object (Publisher)
+# Field object (Publisher)
 
 Represents a field. The  **Field** object is a member of the **[Fields](Publisher.Fields.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
  
@@ -59,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Unlink](Publisher.Field.Unlink.md)|
 
@@ -67,7 +68,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Field.Application.md)|
 |[Code](Publisher.Field.Code.md)|
@@ -78,3 +79,4 @@ End Sub
 |[TextRange](Publisher.Field.TextRange.md)|
 |[Type](Publisher.field.type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

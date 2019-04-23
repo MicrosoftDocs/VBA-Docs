@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.NumberOfColumns
 ms.assetid: 9d4d1d8c-723d-3e90-96ae-a0faa1980077
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the number of columns in the specified slicer. Read/write.
 
 ## Syntax
 
- _expression_. `NumberOfColumns`
+_expression_. `NumberOfColumns`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The default value is 1.
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

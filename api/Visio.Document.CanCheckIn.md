@@ -1,5 +1,5 @@
 ---
-title: Document.CanCheckIn Method (Visio)
+title: Document.CanCheckIn method (Visio)
 keywords: vis_sdr.chm10552020
 f1_keywords:
 - vis_sdr.chm10552020
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.CanCheckIn
 ms.assetid: 99922339-631b-f60e-1d07-3ae9df134cf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CanCheckIn Method (Visio)
+# Document.CanCheckIn method (Visio)
 
 Specifies whether a document can be checked into a Microsoft SharePoint Server computer.
 
 
 ## Syntax
 
- _expression_. `CanCheckIn`
+_expression_. `CanCheckIn`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -65,4 +66,4 @@ Sub DocIn()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

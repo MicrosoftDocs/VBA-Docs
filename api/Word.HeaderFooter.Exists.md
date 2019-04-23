@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Exists Property (Word)
+title: HeaderFooter.Exists property (Word)
 keywords: vbawd10.chm159711236
 f1_keywords:
 - vbawd10.chm159711236
@@ -8,17 +8,18 @@ api_name:
 - Word.HeaderFooter.Exists
 ms.assetid: 84ce3ac9-a4be-f99a-eb4b-1a145373659f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Exists Property (Word)
+# HeaderFooter.Exists property (Word)
 
- **True** if the specified **HeaderFooter** object exists. Read/write **Boolean** .
+ **True** if the specified **HeaderFooter** object exists. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Exists`
+_expression_. `Exists`
 
  _expression_ A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
@@ -49,3 +50,4 @@ End If
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

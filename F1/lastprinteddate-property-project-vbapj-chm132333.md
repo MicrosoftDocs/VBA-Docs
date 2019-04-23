@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d40b8595-311b-4890-b402-02614f8201f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.HasPassword Property (Project)](http://msdn.microsoft.com/library/2c00e008-94d9-5d0a-d3b9-dcb57af04a19%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

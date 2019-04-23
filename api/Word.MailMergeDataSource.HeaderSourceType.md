@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.HeaderSourceType Property (Word)
+title: MailMergeDataSource.HeaderSourceType property (Word)
 keywords: vbawd10.chm152895492
 f1_keywords:
 - vbawd10.chm152895492
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeDataSource.HeaderSourceType
 ms.assetid: e3ac1282-5f61-1425-07d7-d23a027decaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.HeaderSourceType Property (Word)
+# MailMergeDataSource.HeaderSourceType property (Word)
 
-Returns a value that indicates the way the header source is being supplied for the mail merge operation. Read-only  **WdMailMergeDataSource** .
+Returns a value that indicates the way the header source is being supplied for the mail merge operation. Read-only  **WdMailMergeDataSource**.
 
 
 ## Syntax
 
- _expression_. `HeaderSourceType`
+_expression_. `HeaderSourceType`
 
- _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End If
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,7 +3,8 @@ title: WorkflowTask members (Office)
 description: Represents a single workflow task in a WorkflowTasks collection.
 ms.prod: office
 ms.assetid: 035ead58-23bb-4518-2720-8862051aeb41
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -14,14 +15,14 @@ Represents a single workflow task in a **WorkflowTasks** collection.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Show](../../Office.WorkflowTask.Show.md)|Displays a workflow task edit user interface for the specified **WorkflowTask** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.WorkflowTask.Application.md)|Gets an **Application** object that represents the container application for the **WorkflowTask** object. Read-only.|
 |[AssignedTo](../../Office.WorkflowTask.AssignedTo.md)|Gets the name of the person that the workflow task is assigned to. Read-only.|
@@ -35,3 +36,4 @@ Represents a single workflow task in a **WorkflowTasks** collection.
 |[Name](../../Office.WorkflowTask.Name.md)|Gets the name of the **WorkflowTask** object. Read-only.|
 |[WorkflowID](../../Office.WorkflowTask.WorkflowID.md)|Gets the ID of the workflow associated with a workflow task. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

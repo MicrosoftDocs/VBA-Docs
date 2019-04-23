@@ -3,6 +3,7 @@ title: Create Address Labels from a Spreadsheet
 ms.prod: excel
 ms.assetid: 6c08634c-8137-9c27-f4de-390a2b8ffb4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -92,6 +93,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
+MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

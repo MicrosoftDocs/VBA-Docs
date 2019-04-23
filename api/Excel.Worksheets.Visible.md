@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheets.Visible
 ms.assetid: 914518bd-4383-fc14-8ddf-6279dd613e91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value that determines whether the object is visib
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
+_expression_ A variable that represents a [Worksheets](Excel.Worksheets.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Variant** value that determines whether the object is visib
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

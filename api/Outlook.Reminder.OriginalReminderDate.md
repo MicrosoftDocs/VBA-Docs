@@ -1,5 +1,5 @@
 ---
-title: Reminder.OriginalReminderDate Property (Outlook)
+title: Reminder.OriginalReminderDate property (Outlook)
 keywords: vbaol11.chm564
 f1_keywords:
 - vbaol11.chm564
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Reminder.OriginalReminderDate
 ms.assetid: ecc3f0c4-0e20-1d02-94b5-40807523ad2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reminder.OriginalReminderDate Property (Outlook)
+# Reminder.OriginalReminderDate property (Outlook)
 
 Returns a  **Date** that specifies the original date and time that the specified reminder is set to occur. Read-only.
 
 
 ## Syntax
 
- _expression_. `OriginalReminderDate`
+_expression_. `OriginalReminderDate`
 
- _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object.
 
 
 ## Remarks
@@ -87,3 +88,4 @@ End Sub
 
 [Reminder Object](Outlook.Reminder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

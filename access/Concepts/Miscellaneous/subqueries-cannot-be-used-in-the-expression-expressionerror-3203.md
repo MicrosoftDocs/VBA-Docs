@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 08f9c7e0-0c79-e88d-8194-ede635c49f49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -41,3 +42,5 @@ PIVOT ShipName;
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

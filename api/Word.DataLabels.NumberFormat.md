@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormat Property (Word)
+title: DataLabels.NumberFormat property (Word)
 keywords: vbawd10.chm207487169
 f1_keywords:
 - vbawd10.chm207487169
@@ -8,17 +8,18 @@ api_name:
 - Word.DataLabels.NumberFormat
 ms.assetid: af8b0dab-0584-5ee4-15f9-e182d9967f4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.NumberFormat Property (Word)
+# DataLabels.NumberFormat property (Word)
 
-Returns or sets the format code for the object. Read/write  **String** .
+Returns or sets the format code for the object. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
  _expression_ A variable that represents a '[DataLabels](Word.DataLabels.md)' object.
 
@@ -33,3 +34,4 @@ The format code is the same string as the  **Format Codes** option in the **Form
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

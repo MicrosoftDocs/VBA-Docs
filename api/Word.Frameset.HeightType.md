@@ -1,5 +1,5 @@
 ---
-title: Frameset.HeightType Property (Word)
+title: Frameset.HeightType property (Word)
 keywords: vbawd10.chm165806082
 f1_keywords:
 - vbawd10.chm165806082
@@ -8,19 +8,20 @@ api_name:
 - Word.Frameset.HeightType
 ms.assetid: 4d83e41c-d33c-a5b8-853c-e7581170ba4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frameset.HeightType Property (Word)
+# Frameset.HeightType property (Word)
 
-Returns or sets the width type for the specified frame on a frames page. Read/write  **WdFramesetSizeType** .
+Returns or sets the width type for the specified frame on a frames page. Read/write  **WdFramesetSizeType**.
 
 
 ## Syntax
 
- _expression_. `HeightType`
+_expression_. `HeightType`
 
- _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
+_expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

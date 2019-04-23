@@ -1,5 +1,5 @@
-﻿---
-title: Application Object (Word)
+---
+title: Application object (Word)
 keywords: vbawd10.chm2416
 f1_keywords:
 - vbawd10.chm2416
@@ -8,10 +8,11 @@ api_name:
 - Word.Application
 ms.assetid: d1cf6f8f-4e88-bf01-93b4-90a83f79cb44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application Object (Word)
+# Application object (Word)
 
 Represents the Microsoft Word application. The  **Application** object includes properties and methods that return top-level objects. For example, the **[ActiveDocument](./Word.Application.ActiveDocument.md)** property returns a **[Document](Word.Document.md)** object.
 
@@ -46,7 +47,7 @@ Set wrd = Nothing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DocumentBeforeClose](./Word.Application.DocumentBeforeClose.md)|
 |[DocumentBeforePrint](./Word.Application.DocumentBeforePrint.md)|
@@ -87,7 +88,7 @@ Set wrd = Nothing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Word.Application.Activate.md)|
 |[AddAddress](./Word.Application.AddAddress.md)|
@@ -158,7 +159,7 @@ Set wrd = Nothing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveDocument](./Word.Application.ActiveDocument.md)|
 |[ActiveEncryptionSession](./Word.Application.ActiveEncryptionSession.md)|
@@ -284,5 +285,6 @@ Set wrd = Nothing
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

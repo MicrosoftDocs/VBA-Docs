@@ -1,12 +1,13 @@
 ---
-title: Shapes Object (Project)
+title: Shapes object (Project)
 ms.prod: project-server
 ms.assetid: 6e42040c-dd5a-de4c-afa8-f9e33d1e5054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes Object (Project)
+# Shapes object (Project)
 Represents a collection of  **[Shape](./Project.shape.md)** objects in a custom report.
 
 ## Example
@@ -60,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCallout](./Project.shapes.addcallout.md)|
 |[AddChart](./Project.shapes.addchart.md)|
@@ -82,7 +83,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Background](./Project.shapes.background.md)|
 |[Count](./Project.shapes.count.md)|
@@ -96,3 +97,5 @@ End Sub
 [Shape Object](./Project.shape.md)
 [Report Object](./Project.report.md)
 [ShapeRange Object](./Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

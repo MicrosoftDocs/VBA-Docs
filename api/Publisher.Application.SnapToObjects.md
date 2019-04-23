@@ -1,5 +1,5 @@
 ---
-title: Application.SnapToObjects Property (Publisher)
+title: Application.SnapToObjects property (Publisher)
 keywords: vbapb10.chm131111
 f1_keywords:
 - vbapb10.chm131111
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.SnapToObjects
 ms.assetid: 84fcb808-bf3b-49f7-666e-915ac6b04a96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SnapToObjects Property (Publisher)
+# Application.SnapToObjects property (Publisher)
 
  **True** for Microsoft Publisher to use objects on a page to line up other objects. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **SnapToObjects**
+_expression_.**SnapToObjects**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -61,3 +62,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

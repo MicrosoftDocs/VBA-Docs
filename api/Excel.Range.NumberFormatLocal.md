@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.NumberFormatLocal
 ms.assetid: e34e6f52-9279-7961-adfa-4aa84c44937a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Range.NumberFormatLocal property (Excel)
@@ -16,9 +17,9 @@ Returns or sets a **Variant** value that represents the format code for the obje
 
 ## Syntax
 
-_expression_. `NumberFormatLocal`
+_expression_.**NumberFormatLocal**
 
-_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 ## Remarks
 
@@ -37,3 +38,5 @@ MsgBox "The number format for cell A1 is " & _
 
 - [Range object](Excel.Range(object).md)
 - [Number format codes (Microsoft Support)](https://support.office.com/article/number-format-codes-5026bbd6-04bc-48cd-bf33-80f18b4eae68)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 2d7c5eb8-dbf8-9c71-8606-06b665094ac7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TimelineState.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[TimelineState Object (Excel)](Excel.timelinestate.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [TimelineState](Excel.timelinestate.md) object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [TimelineState Object (Excel)](Excel.timelinestate.md) object.
+_expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns an  **Object** that represents the parent object of the specified[Timeli
 
 [TimelineState Object](Excel.timelinestate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

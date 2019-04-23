@@ -1,14 +1,15 @@
 ---
-title: PjDocExportType Enumeration (Project)
+title: PjDocExportType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDocExportType
 ms.assetid: c8455b20-20d9-b4d0-b211-09d3b8a00553
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjDocExportType Enumeration (Project)
+# PjDocExportType enumeration (Project)
 
 Contains constants that specify the type of document export.
 
@@ -19,3 +20,4 @@ Contains constants that specify the type of document export.
 |**pjPDF**|0|Export to a PDF document.|
 |**pjXPS**|1|Export to an XPS document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

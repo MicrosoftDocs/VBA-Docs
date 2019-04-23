@@ -1,14 +1,15 @@
 ---
-title: PjSummaryCalc Enumeration (Project)
+title: PjSummaryCalc enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjSummaryCalc
 ms.assetid: 90f7ebf7-cc66-c92d-e1d5-6f3d7cd942be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjSummaryCalc Enumeration (Project)
+# PjSummaryCalc enumeration (Project)
 
 Contains constants that specify the type of calculation to be performed for summary.
 
@@ -29,3 +30,4 @@ Contains constants that specify the type of calculation to be performed for summ
 |**pjCalcRollupOr**|0|Rollup Or.|
 |**pjCalcRollupSum**|3|Rollup Sum.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

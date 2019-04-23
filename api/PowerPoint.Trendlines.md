@@ -1,5 +1,5 @@
 ---
-title: Trendlines Object (PowerPoint)
+title: Trendlines object (PowerPoint)
 keywords: vbapp10.chm721000
 f1_keywords:
 - vbapp10.chm721000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Trendlines
 ms.assetid: 8ac46695-aae0-3611-ebf7-c7339ea733ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines Object (PowerPoint)
+# Trendlines object (PowerPoint)
 
 Represents a collection of all the  **[Trendline](PowerPoint.Trendline.md)** objects for the specified series.
 
@@ -94,3 +95,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

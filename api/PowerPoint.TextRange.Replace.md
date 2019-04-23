@@ -1,5 +1,5 @@
 ---
-title: TextRange.Replace Method (PowerPoint)
+title: TextRange.Replace method (PowerPoint)
 keywords: vbapp10.chm569035
 f1_keywords:
 - vbapp10.chm569035
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Replace
 ms.assetid: 046d1c3d-fd3e-7871-e31e-6529b77fcd60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Replace Method (PowerPoint)
+# TextRange.Replace method (PowerPoint)
 
 Finds specific text in a text range, replaces the found text with a specified string, and returns a  **TextRange** object that represents the first occurrence of the found text. Returns **Nothing** if no match is found.
 
 
 ## Syntax
 
- _expression_. `Replace`( `_FindWhat_`, `_ReplaceWhat_`, `_After_`, `_MatchCase_`, `_WholeWords_` )
+_expression_. `Replace`( `_FindWhat_`, `_ReplaceWhat_`, `_After_`, `_MatchCase_`, `_WholeWords_` )
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -46,7 +47,7 @@ The  _MatchCase_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not distinguish between uppercase and lowercase characters.|
 |**msoTrue**|Distinguish between uppercase and lowercase characters.|
@@ -55,7 +56,7 @@ The  _WholeWords_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not find only entire words.|
 |**msoTrue**|Finds only entire words.|
@@ -112,3 +113,4 @@ End Sub
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

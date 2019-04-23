@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: baf6feed-80f7-4d33-89a6-6e373e91575c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.PageAdded Event (Visio)](http://msdn.microsoft.com/library/e3a27500-16c3-f0d5-be44-9389b7bd3055%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: Sentences Object (Word)
+title: Sentences object (Word)
 ms.prod: word
 ms.assetid: bcb9653d-bada-8e51-f47d-58f17dae19fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sentences Object (Word)
+# Sentences object (Word)
 
 A collection of  **[Range](Word.Range.md)** objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
 
@@ -48,7 +49,7 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Sentences.Item.md)|
 
@@ -56,7 +57,7 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Sentences.Application.md)|
 |[Count](Word.Sentences.Count.md)|
@@ -68,4 +69,6 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

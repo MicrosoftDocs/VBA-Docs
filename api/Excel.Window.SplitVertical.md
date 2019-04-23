@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.SplitVertical
 ms.assetid: 2e683391-b5c3-0d4d-94a3-0afe82e3965a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.SplitVertical property (Excel)
 
-Returns or sets the location of the vertical window split, in points. Read/write  **Double** .
+Returns or sets the location of the vertical window split, in points. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `SplitVertical`
+_expression_. `SplitVertical`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -39,3 +40,4 @@ ActiveWindow.SplitVertical = 216
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

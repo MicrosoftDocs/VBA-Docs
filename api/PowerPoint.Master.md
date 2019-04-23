@@ -1,5 +1,5 @@
 ---
-title: Master Object (PowerPoint)
+title: Master object (PowerPoint)
 keywords: vbapp10.chm638000
 f1_keywords:
 - vbapp10.chm638000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Master
 ms.assetid: 22e8805e-6469-1a34-7f7b-f1ea5c6c49ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master Object (PowerPoint)
+# Master object (PowerPoint)
 
 Represents a slide master, title master, handout master, notes master, or design master.
 
@@ -41,7 +42,7 @@ ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyTheme](./PowerPoint.Master.ApplyTheme.md)|
 |[Delete](./PowerPoint.Master.Delete.md)|
@@ -50,7 +51,7 @@ ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Master.Application.md)|
 |[Background](./PowerPoint.Master.Background.md)|
@@ -75,4 +76,6 @@ ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.HiddenItemsList
 ms.assetid: 279eeb80-75cd-c758-98b5-668754417482
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** specifying an array of strings that are hidden it
 
 ## Syntax
 
- _expression_. `HiddenItemsList`
+_expression_. `HiddenItemsList`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End Sub
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailItem.Forward Method (Outlook)
+title: MailItem.Forward method (Outlook)
 keywords: vbaol11.chm1366
 f1_keywords:
 - vbaol11.chm1366
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.Forward
 ms.assetid: 5b8c2261-c5ac-fd80-8acf-dfa645a04a1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Forward Method (Outlook)
+# MailItem.Forward method (Outlook)
 
 Executes the  **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## Syntax
 
- _expression_. `Forward`
+_expression_. `Forward`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Return value
@@ -79,3 +80,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

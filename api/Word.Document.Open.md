@@ -1,5 +1,5 @@
 ---
-title: Document.Open Event (Word)
+title: Document.Open event (Word)
 keywords: vbawd10.chm4001005
 f1_keywords:
 - vbawd10.chm4001005
@@ -8,10 +8,11 @@ api_name:
 - Word.Document.Open
 ms.assetid: 80ad090c-69bf-b50e-3171-eab5414309a2
 ms.date: 08/20/2018
+localization_priority: Normal
 ---
 
 
-# Document.Open Event (Word)
+# Document.Open event (Word)
 
 Occurs when a document is opened.
 
@@ -49,3 +50,4 @@ End Sub
 
 - [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

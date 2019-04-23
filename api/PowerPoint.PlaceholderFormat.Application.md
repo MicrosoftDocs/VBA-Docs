@@ -1,5 +1,5 @@
 ---
-title: PlaceholderFormat.Application Property (PowerPoint)
+title: PlaceholderFormat.Application property (PowerPoint)
 keywords: vbapp10.chm545001
 f1_keywords:
 - vbapp10.chm545001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PlaceholderFormat.Application
 ms.assetid: 02251603-1827-2199-c9c5-79e06d139e06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlaceholderFormat.Application Property (PowerPoint)
+# PlaceholderFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PlaceholderFormat](./PowerPoint.PlaceholderFormat.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

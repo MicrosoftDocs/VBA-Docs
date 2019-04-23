@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DisplayAsIcon Property (Word)
+title: OLEFormat.DisplayAsIcon property (Word)
 keywords: vbawd10.chm154337283
 f1_keywords:
 - vbawd10.chm154337283
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.DisplayAsIcon
 ms.assetid: eb27a24c-69f0-a94d-b2cb-0fc0ccb54a1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.DisplayAsIcon Property (Word)
+# OLEFormat.DisplayAsIcon property (Word)
 
- **True** if the specified object is displayed as an icon. Read/write **Boolean** .
+ **True** if the specified object is displayed as an icon. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayAsIcon`
+_expression_. `DisplayAsIcon`
 
  _expression_ A variable that represents a '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -59,3 +60,4 @@ objNew.OLEFormat.DisplayAsIcon = True
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

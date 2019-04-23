@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Transparency Property (Word)
+title: LineFormat.Transparency property (Word)
 keywords: vbawd10.chm164233327
 f1_keywords:
 - vbawd10.chm164233327
@@ -8,19 +8,20 @@ api_name:
 - Word.LineFormat.Transparency
 ms.assetid: c9b3adcb-c884-cfd1-6500-f430fdf86423
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Transparency Property (Word)
+# LineFormat.Transparency property (Word)
 
-Returns or sets the degree of transparency of line. Read/write  **Single** .
+Returns or sets the degree of transparency of line. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Transparency`
+_expression_. `Transparency`
 
- _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
+_expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.CubeField.ShowInFieldList
 ms.assetid: 9a9163f3-b398-5059-9dce-b993413e850b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # CubeField.ShowInFieldList property (Excel)
 
-When set to  **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean** .
+When set to  **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowInFieldList`
+_expression_. `ShowInFieldList`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Example
@@ -53,3 +54,4 @@ End Sub
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

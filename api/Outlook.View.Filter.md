@@ -1,5 +1,5 @@
 ---
-title: View.Filter Property (Outlook)
+title: View.Filter property (Outlook)
 keywords: vbaol11.chm2497
 f1_keywords:
 - vbaol11.chm2497
@@ -8,19 +8,20 @@ api_name:
 - Outlook.View.Filter
 ms.assetid: 9a4b4b27-d543-df82-3058-e0a6ad2f51a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Filter Property (Outlook)
+# View.Filter property (Outlook)
 
 Returns or sets a  **String** value that represents the filter for a view. Read/write.
 
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](Outlook.View.md) object.
 
 
 ## Remarks
@@ -69,3 +70,4 @@ End Sub
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

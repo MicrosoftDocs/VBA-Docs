@@ -1,17 +1,18 @@
 ---
-title: Shape.ScaleHeight Method (Project)
+title: Shape.ScaleHeight method (Project)
 ms.prod: project-server
 ms.assetid: 9dd7a3ee-9149-4aa2-c4ad-5fc0ca45ee21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleHeight Method (Project)
+# Shape.ScaleHeight method (Project)
 Scales the height of the shape by a specified factor.
 
 ## Syntax
 
- _expression_. `ScaleHeight` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+_expression_. `ScaleHeight` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
 
  _expression_ A variable that represents a 'Shape' object.
 
@@ -74,3 +75,5 @@ End Sub
 [Shape Object](Project.shape.md)
 [MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
 [MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

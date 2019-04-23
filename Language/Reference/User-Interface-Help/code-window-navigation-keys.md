@@ -1,22 +1,21 @@
 ---
-title: Code Window Navigation Keys
+title: Code window navigation keys
 keywords: vbui6.chm1075334
 f1_keywords:
 - vbui6.chm1075334
 ms.prod: office
 ms.assetid: 71da4560-a359-a8ee-9258-7a022abdf589
-ms.date: 06/08/2017
+ms.date: 11/21/2018
+localization_priority: Normal
 ---
 
 
-# Code Window Navigation Keys
+# Code window navigation keys
 
-Use these key combinations to navigate in the  **Code** window:
+Use these key combinations to navigate in the [Code window](code-window.md).
 
-
-
-|**Press**|**To**|
-|:-----|:-----|
+|Press|To|
+|:----|:--|
 |CTRL+F2|Move the insertion point into the Object box.|
 |SHIFT+F2|Go to the definition of the selected procedure.|
 |CTRL+DOWN ARROW|Display the next procedure.|
@@ -32,5 +31,6 @@ Use these key combinations to navigate in the  **Code** window:
 |HOME|Go to the beginning of the line.|
 |CTRL+PAGE DOWN|Go to the bottom of the current procedure.|
 |CTRL+PAGE UP|Go to the top of the current procedure.|
-|F6|Switch between  **Code** window panes (when the window is split).|
+|F6|Switch between Code window panes (when the window is split).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

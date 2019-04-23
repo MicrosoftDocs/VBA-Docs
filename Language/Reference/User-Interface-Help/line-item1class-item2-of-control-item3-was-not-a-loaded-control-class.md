@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4652a549-e07e-15b7-c771-fab4b7b45bee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains a control class that Visual Basic doesn't recognize. Add the custom control with this [class](../../Glossary/vbe-glossary.md#class) to your[project](../../Glossary/vbe-glossary.md#project).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

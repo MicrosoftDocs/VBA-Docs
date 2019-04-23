@@ -1,5 +1,5 @@
 ---
-title: Shape.ParentGroupShape Property (Publisher)
+title: Shape.ParentGroupShape property (Publisher)
 keywords: vbapb10.chm2228338
 f1_keywords:
 - vbapb10.chm2228338
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.ParentGroupShape
 ms.assetid: ced4c348-4ef5-c703-fdea-65c33d37b4c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ParentGroupShape Property (Publisher)
+# Shape.ParentGroupShape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
 ## Syntax
 
- _expression_. **ParentGroupShape**
+_expression_.**ParentGroupShape**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -52,4 +53,4 @@ Sub ParentGroupShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

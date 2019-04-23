@@ -1,5 +1,5 @@
 ---
-title: Find.MatchWildcards Property (Word)
+title: Find.MatchWildcards property (Word)
 keywords: vbawd10.chm162529295
 f1_keywords:
 - vbawd10.chm162529295
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.MatchWildcards
 ms.assetid: d2aae410-691e-f718-b888-19e90372d18e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.MatchWildcards Property (Word)
+# Find.MatchWildcards property (Word)
 
- **True** if the text to find contains wildcards. Read/write **Boolean** .
+ **True** if the text to find contains wildcards. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MatchWildcards`
+_expression_. `MatchWildcards`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
@@ -53,3 +54,4 @@ End With
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

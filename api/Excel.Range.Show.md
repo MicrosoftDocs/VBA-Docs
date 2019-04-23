@@ -1,5 +1,5 @@
 ---
-title: Range.Show Method (Excel)
+title: Range.Show method (Excel)
 keywords: vbaxl10.chm144194
 f1_keywords:
 - vbaxl10.chm144194
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Show
 ms.assetid: c04cbae7-c424-befd-df73-e92bbe9e2e41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Show Method (Excel)
+# Range.Show method (Excel)
 
 Scrolls through the contents of the active window to move the range into view. The range must consist of a single cell in the active document.
 
 
 ## Syntax
 
- _expression_. `Show`
+_expression_.**Show**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Variant
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

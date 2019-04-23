@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 1236ef08-7788-a345-e2a6-a3c647fe2675
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Long** that specifies the amount of movement that occurs wh
 
 ## Syntax
 
- _expression_. **LargeChange**
+_expression_.**LargeChange**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ The value of  **LargeChange** is the amount by which the **ScrollBar** control's
 
  **LargeChange** does not have units. Any integer is a valid setting for **LargeChange**. The recommended range of values is from -32,767 to +32,767, and the value must be between the values of the  **[Max](Outlook.scrollbar.max.md)** and **[Min](Outlook.scrollbar.min.md)** properties of the **ScrollBar**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

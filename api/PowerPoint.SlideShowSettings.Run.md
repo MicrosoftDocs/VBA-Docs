@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings.Run Method (PowerPoint)
+title: SlideShowSettings.Run method (PowerPoint)
 keywords: vbapp10.chm514008
 f1_keywords:
 - vbapp10.chm514008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowSettings.Run
 ms.assetid: 497fae3b-b6a3-dc26-20d9-bdc8057ddc09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowSettings.Run Method (PowerPoint)
+# SlideShowSettings.Run method (PowerPoint)
 
 Runs a slide show of the specified presentation. Returns a  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object.
 
 
 ## Syntax
 
- _expression_. `Run`
+_expression_. `Run`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
@@ -71,3 +72,4 @@ End With
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: Application.CellChanged Event (Visio)
+title: Application.CellChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.CellChanged
 ms.assetid: 8c07be33-8d0d-4957-7f08-daef8b798f28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CellChanged Event (Visio)
+# Application.CellChanged event (Visio)
 
 Occurs after the value changes in a cell in a document.
 
@@ -73,4 +74,4 @@ Private Sub vsoApplication_CellChanged(ByVal vsoCell As IVCell)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

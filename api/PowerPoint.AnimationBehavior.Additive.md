@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Additive Property (PowerPoint)
+title: AnimationBehavior.Additive property (PowerPoint)
 keywords: vbapp10.chm657003
 f1_keywords:
 - vbapp10.chm657003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.Additive
 ms.assetid: 29dabc4f-a333-9b11-97a5-36237a95dcb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Additive Property (PowerPoint)
+# AnimationBehavior.Additive property (PowerPoint)
 
 Sets or returns whether the current animation behavior is combined with other running animations. Read/write.
 
 
 ## Syntax
 
- _expression_. `Additive`
+_expression_. `Additive`
 
- _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **Additive** property can be one of these **MsoAnimAdditive** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAnimAdditiveAddBase**|Does not combine current animation with other animations. The default.|
 |**msoAnimAdditiveAddSum**| Combines the current animation with other running animations.|
@@ -66,3 +67,4 @@ End Sub
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

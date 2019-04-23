@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: b9732bd7-a1fc-e60f-c4fb-ce5591886350
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,5 @@ An OLE Automation function called failed. Try reinstalling the application that 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

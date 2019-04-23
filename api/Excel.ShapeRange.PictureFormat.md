@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.PictureFormat
 ms.assetid: b7d8ec5c-b0b3-3628-475d-16939c467ad6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object that contains pict
 
 ## Syntax
 
- _expression_. `PictureFormat`
+_expression_. `PictureFormat`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
 
-This example sets the brightness and contrast for shape one on  `myDocument`. Shape one must be a picture or an OLE object.
+This example sets the brightness and contrast for shape one on  _myDocument_. Shape one must be a picture or an OLE object.
 
 
 ```vb
@@ -42,3 +43,4 @@ End With
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

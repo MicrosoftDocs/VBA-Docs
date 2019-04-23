@@ -1,14 +1,15 @@
 ---
-title: PjDateLabel Enumeration (Project)
+title: PjDateLabel enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjDateLabel
 ms.assetid: ece69c4d-35fc-a795-8acb-1ff79df9fe1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjDateLabel Enumeration (Project)
+# PjDateLabel enumeration (Project)
 
 Contains constants that specify the display format for date and time labels in a timescale.
 
@@ -165,3 +166,4 @@ Contains constants that specify the display format for date and time labels in a
 |**pjYearFromStart_yy**|74|Examples: -1, 1, 2|
 |**pjYearFromStart_Yyy**|73|Examples: Y-1, Y1, Y2|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

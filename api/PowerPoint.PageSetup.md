@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (PowerPoint)
+title: PageSetup object (PowerPoint)
 keywords: vbapp10.chm527000
 f1_keywords:
 - vbapp10.chm527000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.PageSetup
 ms.assetid: aed5649c-59d7-08d2-0a01-3385e5a9b5ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup Object (PowerPoint)
+# PageSetup object (PowerPoint)
 
 Contains information about the page setup for slides, notes pages, handouts, and outlines in a presentation.
 
@@ -39,3 +40,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

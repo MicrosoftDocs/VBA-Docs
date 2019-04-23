@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.GroupLevel.GroupOn
 ms.assetid: 7fb9551f-5742-39a2-1cf3-7b3975ae517a
-ms.date: 06/08/2017
+ms.date: 03/20/2019
+localization_priority: Normal
 ---
 
 
 # GroupLevel.GroupOn property (Access)
 
-You can use the  **GroupOn** property in a report to specify how to group data in a field or expression by data type. For example, this property lets you group a Date field by month. Read/write **Integer**.
+You can use the **GroupOn** property in a report to specify how to group data in a field or expression by data type. For example, this property lets you group a **Date** field by month. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `GroupOn`
+_expression_.**GroupOn**
 
-_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a **[GroupLevel](Access.GroupLevel.md)** object.
 
 
 ## Remarks
 
-The  **GroupOn** property settings available for a field depend on its data type, as the following table shows. For an expression, all of the settings are available. The default setting for all data types is Each Value.
+The **GroupOn** property settings available for a field depend on its data type, as the following table shows. For an expression, all the settings are available. The default setting for all data types is Each Value.
 
-
-
-|**Field data type**|**Setting**|**Groups records with**|**Visual Basic**|
+|Field data type|Setting|Groups records with|Visual Basic|
 |:-----|:-----|:-----|:-----|
 |Text|(Default) Each Value|The same value in the field or expression.|0|
 ||Prefix Characters|The same first  _n_ number of characters in the field or expression.|1|
@@ -42,17 +41,16 @@ The  **GroupOn** property settings available for a field depend on its data type
 ||Hour|Times in the same hour.|7|
 ||Minute|Times in the same minute.|8|
 |AutoNumber, Currency, Number|(Default) Each Value|The same value in the field or expression.|0|
-||Interval|Values within an interval you specify.|9|
+||Interval|Values within an interval that you specify.|9|
 
-In Visual Basic, you set this property in the  **[Open](Access.Report.Open.md)** event procedure of a report.
+In Visual Basic, you set this property in the **[Open](Access.Report.Open.md)** event procedure of a report.
 
-To set the  **GroupOn** property to a value other than Each Value, you must first set the **GroupHeader** or **GroupFooter** property or both to Yes for the selected field or expression.
+To set the **GroupOn** property to a value other than Each Value, you must first set the **GroupHeader** or **GroupFooter** property or both to Yes for the selected field or expression.
 
 
 ## Example
 
-The following example sets the  **SortOrder** and grouping properties for the first group level in the Products By Category report to create an alphabetical list of products.
-
+The following example sets the **SortOrder** and grouping properties for the first group level in the **Products By Category** report to create an alphabetical list of products.
 
 ```vb
 Private Sub Report_Open(Cancel As Integer) 
@@ -68,8 +66,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[GroupLevel Object](Access.GroupLevel.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

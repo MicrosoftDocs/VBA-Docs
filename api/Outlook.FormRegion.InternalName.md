@@ -1,5 +1,5 @@
 ---
-title: FormRegion.InternalName Property (Outlook)
+title: FormRegion.InternalName property (Outlook)
 keywords: vbaol11.chm2400
 f1_keywords:
 - vbaol11.chm2400
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormRegion.InternalName
 ms.assetid: 2478d44e-887c-c245-6cfa-70a6a1e2c828
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegion.InternalName Property (Outlook)
+# FormRegion.InternalName property (Outlook)
 
 Returns a  **String** that represents the internal programmatic name of the form region as defined in the manifest for the form region. Read-only.
 
 
 ## Syntax
 
- _expression_. `InternalName`
+_expression_. `InternalName`
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The value of the  **InternalName** property is used by the add-in or Microsoft O
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: CommandEffect.Command Property (PowerPoint)
+title: CommandEffect.Command property (PowerPoint)
 keywords: vbapp10.chm668004
 f1_keywords:
 - vbapp10.chm668004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.CommandEffect.Command
 ms.assetid: 64440745-d84a-f0e8-6857-ca0f7ada42b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CommandEffect.Command Property (PowerPoint)
+# CommandEffect.Command property (PowerPoint)
 
 Represents the command to be executed for the command effect. Read/write.
 
 
 ## Syntax
 
- _expression_. `Command`
+_expression_. `Command`
 
- _expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
+_expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
 
 
 ## Return value
@@ -62,3 +63,4 @@ The following example shows how to set a command effect animation behavior.
 
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

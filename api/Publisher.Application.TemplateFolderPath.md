@@ -1,5 +1,5 @@
 ---
-title: Application.TemplateFolderPath Property (Publisher)
+title: Application.TemplateFolderPath property (Publisher)
 keywords: vbapb10.chm131120
 f1_keywords:
 - vbapb10.chm131120
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.TemplateFolderPath
 ms.assetid: e2256af9-9432-6205-864a-10bb7dec41c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TemplateFolderPath Property (Publisher)
+# Application.TemplateFolderPath property (Publisher)
 
 Returns a  **String** that represents the location where Microsoft Publisher templates are stored. Read-only.
 
 
 ## Syntax
 
- _expression_. **TemplateFolderPath**
+_expression_.**TemplateFolderPath**
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -70,3 +71,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ceb4a4ff-166d-4075-ab27-e7c392c2d205
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [WeekDay Object (Project)](http://msdn.microsoft.com/library/fc460e89-784b-6764-c22d-e1dcd8a9f297%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

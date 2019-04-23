@@ -1,23 +1,24 @@
 ---
-title: ChartGroup.HiLoLines Property (PowerPoint)
+title: ChartGroup.HiLoLines property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HiLoLines
 ms.assetid: 3b575e71-79c9-83d8-4c2d-dfc36480099f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.HiLoLines Property (PowerPoint)
+# ChartGroup.HiLoLines property (PowerPoint)
 
 Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines](PowerPoint.HiLoLines.md)**.
 
 
 ## Syntax
 
- _expression_. `HiLoLines`
+_expression_.**HiLoLines**
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Remarks
@@ -32,7 +33,7 @@ This property applies only to line charts.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example enables high-low lines for chart group one of the first chart in the active document and then sets their line style, weight, and color. You should run the example on a 2-D line chart that has three series of stock-quote-like data (high-low-close).
+The following example enables high-low lines for chart group one of the first chart in the active document and then sets their line style, weight, and color. You should run the example on a 2D line chart that has three series of stock-quote-like data (high-low-close).
 
 
 
@@ -71,3 +72,4 @@ End With
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

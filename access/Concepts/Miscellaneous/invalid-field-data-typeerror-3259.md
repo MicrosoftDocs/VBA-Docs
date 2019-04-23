@@ -3,6 +3,7 @@ title: Invalid field data type. (Error 3259)
 ms.prod: access
 ms.assetid: b3700b72-a1f7-8102-9796-c0e703dfecb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The data type specified in the  **Field** object's **Type** property is not vali
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

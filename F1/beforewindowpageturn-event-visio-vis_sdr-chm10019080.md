@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3944f89e-7fe1-4771-abcc-5ad2a2aac3aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeWindowPageTurn Event (Visio)](http://msdn.microsoft.com/library/ddb79c04-7cb4-61fd-a37d-d5969e445d5c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

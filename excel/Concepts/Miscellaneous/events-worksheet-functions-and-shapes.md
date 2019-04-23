@@ -3,6 +3,7 @@ title: Events, Worksheet Functions, and Shapes
 ms.prod: excel
 ms.assetid: c39bf746-c395-4744-9adf-7f95015b5fb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,5 +37,5 @@ ms.date: 06/08/2017
 -  [Using Events with the QueryTable Object](../Events-WorksheetFunctions-Shapes/using-events-with-the-querytable-object.md)
     
 -  [Invalid Procedure Name Error](../Events-WorksheetFunctions-Shapes/invalid-procedure-name-error.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

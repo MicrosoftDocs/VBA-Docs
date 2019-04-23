@@ -5,6 +5,7 @@ api_name:
 - Excel.TextEffectFormat.Application
 ms.assetid: 32568bbc-b3c9-b8d4-d195-34503edba9e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,14 +16,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
+_expression_ A variable that represents a [TextEffectFormat](Excel.TextEffectFormat.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -40,3 +41,4 @@ End If
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

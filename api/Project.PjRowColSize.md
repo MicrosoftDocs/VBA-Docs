@@ -1,14 +1,15 @@
 ---
-title: PjRowColSize Enumeration (Project)
+title: PjRowColSize enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjRowColSize
 ms.assetid: 63d7365b-4789-cba4-a0cd-d38011581fd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjRowColSize Enumeration (Project)
+# PjRowColSize enumeration (Project)
 
 Contains constants that specify the size of a row or a column.
 
@@ -19,3 +20,4 @@ Contains constants that specify the size of a row or a column.
 |**pjSizeBestFit**|0|Best fit.|
 |**pjSizeFixed**|1|Fixed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

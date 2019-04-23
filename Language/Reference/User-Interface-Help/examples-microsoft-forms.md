@@ -3,6 +3,7 @@ title: Examples (Microsoft Forms)
 ms.prod: office
 ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
 ms.date: 09/17/2018
+localization_priority: Normal
 ---
 
 
@@ -90,4 +91,8 @@ ms.date: 09/17/2018
 - [ZOrder method, TextBox control example](zorder-method-textbox-control-example.md)
 
     
+## See also
 
+- [Microsoft Forms](reference-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

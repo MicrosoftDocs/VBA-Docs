@@ -3,6 +3,7 @@ title: Tab.Visible Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 559ec217-e55f-698e-6779-a7e9e15529e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether a **[Tab](Outlook.tab.md)*
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_.**Visible**
 
- _expression_ A variable that represents a  **Tab** object.
+_expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ Use the  **Visible** property to control access to information without displayin
 
 All tabs are visible at design time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

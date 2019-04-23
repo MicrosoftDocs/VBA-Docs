@@ -1,21 +1,22 @@
 ---
-title: Shape.AddHyperlink Method (Visio)
+title: Shape.AddHyperlink method (Visio)
 ms.prod: visio
 api_name:
 - Visio.Shape.AddHyperlink
 ms.assetid: fbf77a65-88a1-e710-60a2-efde9e7df968
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.AddHyperlink Method (Visio)
+# Shape.AddHyperlink method (Visio)
 
 Adds a  **Hyperlink** object to a Microsoft Visio shape.
 
 
 ## Syntax
 
- _expression_. `AddHyperlink`
+_expression_. `AddHyperlink`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -74,4 +75,4 @@ Sub AddHyperlink_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

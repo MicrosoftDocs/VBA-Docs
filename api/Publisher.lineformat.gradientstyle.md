@@ -1,22 +1,23 @@
 ---
-title: LineFormat.GradientStyle Property (Publisher)
+title: LineFormat.GradientStyle property (Publisher)
 keywords: vbapb10.chm3408151
 f1_keywords:
 - vbapb10.chm3408151
 ms.prod: publisher
 ms.assetid: e5416db9-a145-8f71-2d75-1720191922bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.GradientStyle Property (Publisher)
+# LineFormat.GradientStyle property (Publisher)
 
 Returns the gradient style for the specified line. Read-only.
 
 
 ## Syntax
 
- _expression_. **GradientStyle**
+_expression_.**GradientStyle**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -36,3 +37,4 @@ Attempting to return this property for a line that doesn't have a gradient gener
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

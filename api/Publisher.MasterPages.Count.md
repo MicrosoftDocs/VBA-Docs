@@ -1,5 +1,5 @@
 ---
-title: MasterPages.Count Property (Publisher)
+title: MasterPages.Count property (Publisher)
 keywords: vbapb10.chm589827
 f1_keywords:
 - vbapb10.chm589827
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MasterPages.Count
 ms.assetid: adb14000-5dc4-9154-5c5f-8f63c89309b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterPages.Count Property (Publisher)
+# MasterPages.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **MasterPages** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Creator Property (Word)
+title: FreeformBuilder.Creator property (Word)
 keywords: vbawd10.chm164168681
 f1_keywords:
 - vbawd10.chm164168681
@@ -8,19 +8,20 @@ api_name:
 - Word.FreeformBuilder.Creator
 ms.assetid: f0e2b402-4de4-b864-ea35-8fc3c6e97a1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Creator Property (Word)
+# FreeformBuilder.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
+_expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

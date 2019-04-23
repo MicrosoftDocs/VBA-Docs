@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementContrast Method (Excel)
+title: PictureFormat.IncrementContrast method (Excel)
 keywords: vbaxl10.chm113021
 f1_keywords:
 - vbaxl10.chm113021
@@ -8,19 +8,20 @@ api_name:
 - Excel.PictureFormat.IncrementContrast
 ms.assetid: 6bb72eed-c291-fac2-f4ca-4ca847bd8458
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementContrast Method (Excel)
+# PictureFormat.IncrementContrast method (Excel)
 
 Changes the contrast of the picture by the specified amount. Use the  **[Contrast](Excel.PictureFormat.Contrast.md)** property to set the absolute contrast for the picture.
 
 
 ## Syntax
 
- _expression_. `IncrementContrast`( `_Increment_` )
+_expression_. `IncrementContrast`( `_Increment_` )
 
- _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ You cannot adjust the contrast of a picture past the upper or lower limit for th
 
 ## Example
 
-This example increases the contrast for all pictures on  `myDocument` that aren?t already set to maximum contrast.
+This example increases the contrast for all pictures on  _myDocument_ that aren't already set to maximum contrast.
 
 
 ```vb
@@ -56,3 +57,4 @@ Next
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

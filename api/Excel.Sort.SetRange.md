@@ -1,5 +1,5 @@
 ---
-title: Sort.SetRange Method (Excel)
+title: Sort.SetRange method (Excel)
 keywords: vbaxl10.chm847079
 f1_keywords:
 - vbaxl10.chm847079
@@ -8,19 +8,20 @@ api_name:
 - Excel.Sort.SetRange
 ms.assetid: 12a68fb7-379d-f9fa-d464-a6d5fe1e6f9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sort.SetRange Method (Excel)
+# Sort.SetRange method (Excel)
 
 Sets the range over which the sort occurs.
 
 
 ## Syntax
 
- _expression_. `SetRange`( `_Rng_` )
+_expression_. `SetRange`( `_Rng_` )
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](Excel.Sort.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Sets the range over which the sort occurs.
 
 [Sort Object](Excel.Sort.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

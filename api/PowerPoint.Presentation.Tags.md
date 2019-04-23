@@ -1,5 +1,5 @@
 ---
-title: Presentation.Tags Property (PowerPoint)
+title: Presentation.Tags property (PowerPoint)
 keywords: vbapp10.chm583018
 f1_keywords:
 - vbapp10.chm583018
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.Tags
 ms.assetid: 3b75d7ae-ce76-0023-c11e-1f39f4319ed5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.Tags Property (PowerPoint)
+# Presentation.Tags property (PowerPoint)
 
 Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Tags`
+_expression_. `Tags`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -93,3 +94,4 @@ Next
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

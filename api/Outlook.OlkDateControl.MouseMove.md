@@ -1,5 +1,5 @@
 ---
-title: OlkDateControl.MouseMove Event (Outlook)
+title: OlkDateControl.MouseMove event (Outlook)
 keywords: vbaol11.chm1000365
 f1_keywords:
 - vbaol11.chm1000365
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkDateControl.MouseMove
 ms.assetid: a4788848-a2dd-d19e-e969-fb353eddbfc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkDateControl.MouseMove Event (Outlook)
+# OlkDateControl.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

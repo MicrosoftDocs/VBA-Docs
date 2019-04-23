@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 594b1460-9990-57c6-9483-003827033d27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) that app
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

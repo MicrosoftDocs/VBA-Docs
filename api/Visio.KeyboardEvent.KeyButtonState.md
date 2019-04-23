@@ -1,5 +1,5 @@
 ---
-title: KeyboardEvent.KeyButtonState Property (Visio)
+title: KeyboardEvent.KeyButtonState property (Visio)
 keywords: vis_sdr.chm17051715
 f1_keywords:
 - vis_sdr.chm17051715
@@ -8,10 +8,11 @@ api_name:
 - Visio.KeyboardEvent.KeyButtonState
 ms.assetid: c2ab3fa3-39c6-fb34-1f56-342cf080d9d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# KeyboardEvent.KeyButtonState Property (Visio)
+# KeyboardEvent.KeyButtonState property (Visio)
 
 Returns the state of mouse buttons and the SHIFT and CTRL keys associated with a keyboard event. Read-only.
 
@@ -104,4 +105,4 @@ End Sub
 
 Save the document to initialize the class, and then press any key to fire a **KeyDown** event. In the Immediate window, the handler prints the code of the key that was pressed to fire the event and the state of the SHIFT and CTRL keys at the time the event fired.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObject.ShapeRange
 ms.assetid: 6f7b106e-8d9d-9910-c95a-06cab37dd541
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,7 +19,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the spec
 
 ## Syntax
 
- _expression_. `ShapeRange`
+_expression_.**ShapeRange**
 
  _expression_ An expression that returns a [OLEObject](Excel.OLEObject.md) object.
 
@@ -28,3 +29,4 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the spec
 
 [OLEObject Object](Excel.OLEObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Application.MultiThreadedCalculation
 ms.assetid: 85aed55f-3127-6b4e-cc29-54bb0199d74d
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.MultiThreadedCalculation property (Excel)
 
-Returns a  **MultiThreadedCalculation** object that controls the multi-threaded recalculation settings. Read-only.
+Returns a **[MultiThreadedCalculation](excel.multithreadedcalculation.md)** object that controls the multi-threaded recalculation settings. Read-only.
 
 
 ## Syntax
 
- _expression_. `MultiThreadedCalculation`
+_expression_.**MultiThreadedCalculation**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
-[Application Object](Excel.Application(object).md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

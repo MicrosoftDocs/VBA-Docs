@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Tag Property (Visio)
+title: GraphicItem.Tag property (Visio)
 keywords: vis_sdr.chm16960435
 f1_keywords:
 - vis_sdr.chm16960435
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItem.Tag
 ms.assetid: 1f355106-eb71-0bab-cd6b-497bda447ccc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem.Tag Property (Visio)
+# GraphicItem.Tag property (Visio)
 
 Gets or sets a user-defined string expression that can store extra data related to your program. Read/write.
 
@@ -21,7 +22,7 @@ Gets or sets a user-defined string expression that can store extra data related 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_.**Tag**
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
@@ -40,4 +41,4 @@ For example, you can assign a  **Tag** property value to a particular graphic it
 
  **Note**  Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open a copy of the data graphic master that contains the graphic item for editing. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

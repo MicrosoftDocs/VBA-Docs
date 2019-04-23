@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginDisconnect Method (Publisher)
+title: ConnectorFormat.BeginDisconnect method (Publisher)
 keywords: vbapb10.chm3211281
 f1_keywords:
 - vbapb10.chm3211281
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.BeginDisconnect
 ms.assetid: 30d8ffc0-e8a5-6d9e-a098-8c06d5fde3a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginDisconnect Method (Publisher)
+# ConnectorFormat.BeginDisconnect method (Publisher)
 
 Detaches the beginning of the specified connector from the shape to which it is attached.
 
 
 ## Syntax
 
- _expression_. **BeginDisconnect**
+_expression_.**BeginDisconnect**
 
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
@@ -69,4 +70,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

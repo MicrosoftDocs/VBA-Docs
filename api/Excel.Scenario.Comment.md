@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenario.Comment
 ms.assetid: 0fe0a22d-b9d0-4e7c-e5db-258a676f222e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the comment associated with 
 
 ## Syntax
 
- _expression_. `Comment`
+_expression_. `Comment`
 
- _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
+_expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Worksheets("Sheet1").Scenarios(1).Comment = _
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

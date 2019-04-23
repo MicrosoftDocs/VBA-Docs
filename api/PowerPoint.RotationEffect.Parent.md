@@ -1,5 +1,5 @@
 ---
-title: RotationEffect.Parent Property (PowerPoint)
+title: RotationEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm661002
 f1_keywords:
 - vbapp10.chm661002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.RotationEffect.Parent
 ms.assetid: 1355565d-c2cb-2bc3-0749-c6b06efb7c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RotationEffect.Parent Property (PowerPoint)
+# RotationEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [RotationEffect Object](PowerPoint.RotationEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

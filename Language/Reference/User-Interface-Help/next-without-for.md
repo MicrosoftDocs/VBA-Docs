@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 304e0911-95b7-93e5-79dd-d2ceaaceddd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A  **Next** statement must have a preceding **For** statement that matches. This
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

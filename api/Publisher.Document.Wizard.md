@@ -1,5 +1,5 @@
 ---
-title: Document.Wizard Property (Publisher)
+title: Document.Wizard property (Publisher)
 keywords: vbapb10.chm196673
 f1_keywords:
 - vbapb10.chm196673
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.Wizard
 ms.assetid: 26603c80-2b03-9889-27d7-623e71f84b74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Wizard Property (Publisher)
+# Document.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 
 
 ## Syntax
 
- _expression_. **Wizard**
+_expression_.**Wizard**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -58,4 +59,4 @@ End With
 > [!NOTE] 
 > Depending on the language version of Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard](Publisher.Wizard.md)** object .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 3db98bbc-fa35-ed1f-d937-9ffeed45aed3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **String** that specifies text in a **[ComboBox](Outlook.comb
 
 ## Syntax
 
- _expression_. **Text**
+_expression_.**Text**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -33,4 +34,4 @@ You cannot use  **Text** to change the value of an entry in a **ComboBox**; use 
 
 The  **[ForeColor](Outlook.combobox.forecolor.md)** property determines the color of the text.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

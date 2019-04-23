@@ -1,5 +1,5 @@
 ---
-title: DistListItem.SaveAs Method (Outlook)
+title: DistListItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1147
 f1_keywords:
 - vbaol11.chm1147
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.SaveAs
 ms.assetid: 6c551868-5142-81ec-c6cb-76fe54bf570c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.SaveAs Method (Outlook)
+# DistListItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_Path_` , `_Type_` )
+_expression_. `SaveAs`( `_Path_` , `_Type_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **[OlSaveAsType](Outlook.OlSaveAsType.md)** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **[OlSaveAsType](Outlook.OlSaveAsType.md)** constants: **olHTML**, **olMSG**, **olRTF**, **olTemplate**, **olDoc**, **olTXT**, **olVCal**, **olVCard**, **olICal**, or **olMSGUnicode**.|
 
 ## Remarks
 
@@ -87,3 +88,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

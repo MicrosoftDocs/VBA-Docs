@@ -3,6 +3,7 @@ title: Add a Folder to the Favorite Folders Group
 ms.prod: outlook
 ms.assetid: 5d0b448e-2f43-a58c-e44d-eecb9971f7ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -86,4 +87,4 @@ ErrRoutine:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

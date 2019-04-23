@@ -1,5 +1,5 @@
 ---
-title: Options.AutoCreateNewDrawings Property (Word)
+title: Options.AutoCreateNewDrawings property (Word)
 keywords: vbawd10.chm162988483
 f1_keywords:
 - vbawd10.chm162988483
@@ -8,24 +8,25 @@ api_name:
 - Word.Options.AutoCreateNewDrawings
 ms.assetid: d774e700-d62d-1418-e860-b3cd05281468
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoCreateNewDrawings Property (Word)
+# Options.AutoCreateNewDrawings property (Word)
 
- **True** for Microsoft Word to draw newly created shapes in a drawing canvas. Read/write **Boolean** .
+ **True** for Microsoft Word to draw newly created shapes in a drawing canvas. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoCreateNewDrawings`
+_expression_. `AutoCreateNewDrawings`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
 
 ## Remarks
 
-The  **AutoCreateNewDrawings** property only affects shapes as they are added from within Word. If shapes are added through Visual Basic for Applications code, they are added as specified in the code regardless of whether this option is set to **True** or **False** .
+The  **AutoCreateNewDrawings** property only affects shapes as they are added from within Word. If shapes are added through Visual Basic for Applications code, they are added as specified in the code regardless of whether this option is set to **True** or **False**.
 
 
 ## Example
@@ -45,3 +46,4 @@ End Sub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

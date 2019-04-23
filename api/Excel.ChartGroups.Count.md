@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.ChartGroups.Count
 ms.assetid: 8c0237cd-d16f-9823-b2a6-d42b618ccf9c
-ms.date: 06/08/2017
+ms.date: 04/20/2019
+localization_priority: Normal
 ---
 
 
 # ChartGroups.Count property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [ChartGroups](Excel.ChartGroups(object).md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ChartGroups](Excel.ChartGroups(object).md)** object.
 
 
-[ChartGroups Object](Excel.ChartGroups(object).md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

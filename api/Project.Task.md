@@ -1,5 +1,5 @@
 ---
-title: Task Object (Project)
+title: Task object (Project)
 keywords: vbapj.chm131335
 f1_keywords:
 - vbapj.chm131335
@@ -8,16 +8,17 @@ api_name:
 - Project.Task
 ms.assetid: bc6bb4a5-95a6-9d1f-3e28-92b9548a544a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task Object (Project)
+# Task object (Project)
 
 
 
 Represents a task. The  **Task** object is a member of the **[Tasks](Project.tasks(object).md)** collection.
  **Using the Task Object**
-Use  **Tasks** ( _Index_ ), where _Index_ is the task index number or task name, to return a single **Task** object. The following example prints the name of every resource assigned to every task in the active project.
+Use  **Tasks** (_index_), where _index_ is the task index number or task name, to return a single **Task** object. The following example prints the name of every resource assigned to every task in the active project.
  **Using the Tasks Collection**
 Use the  **[Tasks](./Project.Selection.Tasks.md)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
 Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
@@ -26,7 +27,7 @@ Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to th
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppendNotes](./Project.Task.AppendNotes.md)|
 |[Delete](./Project.Task.Delete.md)|
@@ -48,7 +49,7 @@ Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to th
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./Project.Task.Active.md)|
 |[ActualCost](./Project.Task.ActualCost.md)|
@@ -512,3 +513,4 @@ Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to th
 |[WorkVariance](./Project.Task.WorkVariance.md)|
 |[Compliant](./Project.task.compliant.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

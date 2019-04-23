@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColor Property (Publisher)
+title: ThreeDFormat.ExtrusionColor property (Publisher)
 keywords: vbapb10.chm3801345
 f1_keywords:
 - vbapb10.chm3801345
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.ExtrusionColor
 ms.assetid: 209a47fd-a219-9533-1a4a-572dfa4312f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.ExtrusionColor Property (Publisher)
+# ThreeDFormat.ExtrusionColor property (Publisher)
 
 Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the color of the shape's extrusion.
 
 
 ## Syntax
 
- _expression_. **ExtrusionColor**
+_expression_.**ExtrusionColor**
 
  _expression_ A variable that represents an  **ThreeDFormat** object.
 
@@ -41,7 +42,7 @@ Set shpNew = ActiveDocument.Pages(1).Shapes _
  .AddShape(Type:=msoShapeOval, _ 
  Left:=90, Top:=90, Width:=90, Height:=40) 
  
-' Format the 3-D properties of the oval. 
+' Format the 3D properties of the oval. 
 With shpNew.ThreeD 
  .Visible = True 
  .Depth = 50 
@@ -50,4 +51,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

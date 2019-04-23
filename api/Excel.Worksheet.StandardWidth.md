@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.StandardWidth
 ms.assetid: 6792ce79-0a73-fcbd-ea52-7d7aee7b9932
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.StandardWidth property (Excel)
 
-Returns or sets the standard (default) width of all the columns in the worksheet. Read/write  **Double** .
+Returns or sets the standard (default) width of all the columns in the worksheet. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `StandardWidth`
+_expression_. `StandardWidth`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Worksheets("Sheet1").Columns(1).ColumnWidth = _
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.Parent Property (Publisher)
+title: Shape.Parent property (Publisher)
 keywords: vbapb10.chm2228226
 f1_keywords:
 - vbapb10.chm2228226
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Parent
 ms.assetid: 579a8ddf-5da6-905a-2784-f9083d4a1ad6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Parent Property (Publisher)
+# Shape.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

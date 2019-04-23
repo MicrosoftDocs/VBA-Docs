@@ -1,5 +1,5 @@
 ---
-title: TextRange.LanguageID Property (Publisher)
+title: TextRange.LanguageID property (Publisher)
 keywords: vbapb10.chm5308471
 f1_keywords:
 - vbapb10.chm5308471
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.LanguageID
 ms.assetid: 1007c821-cafd-0cb3-94f4-4ac25decad30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.LanguageID Property (Publisher)
+# TextRange.LanguageID property (Publisher)
 
 Returns or sets a  **MsoLanguageID** constant that represents the language for the specified object. Read/write.
 
 
 ## Syntax
 
- _expression_. **LanguageID**
+_expression_.**LanguageID**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -30,7 +31,7 @@ MsoLanguageID
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](./Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
+The  **LanguageID** property value can be one of the **[MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -44,4 +45,4 @@ Sub SetLanguage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

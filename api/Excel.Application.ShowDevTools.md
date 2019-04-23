@@ -7,29 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.Application.ShowDevTools
 ms.assetid: de2c027f-cab2-f860-33aa-6c5fc63a5f73
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.ShowDevTools property (Excel)
 
-Returns or sets a  **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write **Boolean** .
+Returns or sets a **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowDevTools`
+_expression_.**ShowDevTools**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
-This property corresponds to the  **Show Developer tab in the Ribbon** check box in the **Excel Options** dialog box.
+This property corresponds to the **Show Developer tab in the Ribbon** check box in the **Excel Options** dialog box.
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

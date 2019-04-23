@@ -7,31 +7,30 @@ ms.prod: access
 api_name:
 - Access.Application.ColumnHistory
 ms.assetid: e2c1b71f-6561-b38d-8173-9926bc4bd9da
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.ColumnHistory method (Access)
 
-Gets the history of values that have been stored in a Memo field.
+Gets the history of values that have been stored in a **Memo** field.
 
 
 ## Syntax
 
-_expression_. `ColumnHistory`( ` _TableName_`, ` _ColumnName_`, ` _queryString_` )
+_expression_.**ColumnHistory** (_TableName_, _ColumnName_, _queryString_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TableName_|Required|**String**|The name of the table that contains the Append Only field.|
+| _TableName_|Required|**String**|The name of the table that contains the **Append Only** field.|
 | _ColumnName_|Required|**String**|The name of the field to display the history for.|
-| _queryString_|Required|**String**|A  **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
+| _queryString_|Required|**String**|A **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
 
 ## Return value
 
@@ -40,7 +39,7 @@ String
 
 ## Remarks
 
-A Memo field's  **AppendOnly** property must be set to **True** in order for Access to store the change history for the field.
+A **Memo** field's **AppendOnly** property must be set to **True** for Access to store the change history for the field.
 
 
 ## Example
@@ -58,8 +57,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Application Object](Access.Application.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

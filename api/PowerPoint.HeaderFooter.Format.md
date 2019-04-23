@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Format Property (PowerPoint)
+title: HeaderFooter.Format property (PowerPoint)
 keywords: vbapp10.chm582006
 f1_keywords:
 - vbapp10.chm582006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.HeaderFooter.Format
 ms.assetid: ba8f2afa-8c57-60e0-cd84-9366c016efd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Format Property (PowerPoint)
+# HeaderFooter.Format property (PowerPoint)
 
 Returns or sets the format for the automatically updated date and time. Read/write.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_.**Format**
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -77,3 +78,4 @@ End With
 
 [HeaderFooter Object](PowerPoint.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

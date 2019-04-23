@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cac2b471-cd7e-7c71-e671-71b9d55b8bd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ An  **End**_procedure_ statement must match the [procedure](../../Glossary/vbe-g
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

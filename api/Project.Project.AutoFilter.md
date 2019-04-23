@@ -1,21 +1,22 @@
 ---
-title: Project.AutoFilter Property (Project)
+title: Project.AutoFilter property (Project)
 ms.prod: project-server
 api_name:
 - Project.Project.AutoFilter
 ms.assetid: 3e6960f7-8a8a-6300-d74b-4e009fbcfca2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.AutoFilter Property (Project)
+# Project.AutoFilter property (Project)
 
 Gets or sets whether the AutoFilter feature is turned on for a project. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFilter`
+_expression_. `AutoFilter`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -36,4 +37,4 @@ Sub turnOnAutoFilter()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

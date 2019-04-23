@@ -1,5 +1,5 @@
 ---
-title: Timing.SmoothStart Property (PowerPoint)
+title: Timing.SmoothStart property (PowerPoint)
 keywords: vbapp10.chm653013
 f1_keywords:
 - vbapp10.chm653013
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Timing.SmoothStart
 ms.assetid: 7e2f3578-7367-748d-7e3c-cd4643a71e9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Timing.SmoothStart Property (PowerPoint)
+# Timing.SmoothStart property (PowerPoint)
 
 Determines whether an animation should accelerate when it starts. Read/write.
 
 
 ## Syntax
 
- _expression_. `SmoothStart`
+_expression_. `SmoothStart`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **SmoothStart** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. The animation does not accelerate when it starts. |
 |**msoTrue**| The animation accelerates when it starts.|
@@ -71,3 +72,4 @@ End Sub
 
 [Timing Object](PowerPoint.Timing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

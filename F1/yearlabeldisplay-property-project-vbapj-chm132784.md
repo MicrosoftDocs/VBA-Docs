@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 07289afe-f74f-4d28-b521-920d5ba57d71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.VAC Property (Project)](http://msdn.microsoft.com/library/0d72b0a0-0020-cd8b-648b-e86593cbaeef%28Office.15%29.aspx)
 [Assignment.VAC Property (Project)](http://msdn.microsoft.com/library/27188491-ee6a-f9cf-60d9-ec2876b0c528%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

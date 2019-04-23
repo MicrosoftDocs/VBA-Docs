@@ -1,5 +1,5 @@
 ---
-title: DistListItem.MarkAsTask Method (Outlook)
+title: DistListItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3035
 f1_keywords:
 - vbaol11.chm3035
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.MarkAsTask
 ms.assetid: a8f5a666-95d6-9a97-14bb-ca0b6481e7a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.MarkAsTask Method (Outlook)
+# DistListItem.MarkAsTask method (Outlook)
 
 Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax
 
- _expression_. `MarkAsTask`( `_MarkInterval_` )
+_expression_. `MarkAsTask`( `_MarkInterval_` )
 
- _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
+ _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assign
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **DistListItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **DistListItem**.|
 
 ## Remarks
 
@@ -41,3 +42,4 @@ Calling this method sets the value of several other properties, depending on the
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

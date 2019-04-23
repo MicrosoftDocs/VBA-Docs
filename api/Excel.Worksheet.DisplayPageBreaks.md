@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.DisplayPageBreaks
 ms.assetid: 95152278-2618-f200-9933-b6574a49e256
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.DisplayPageBreaks property (Excel)
 
- **True** if page breaks (both automatic and manual) on the specified worksheet are displayed. Read/write **Boolean** .
+ **True** if page breaks (both automatic and manual) on the specified worksheet are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayPageBreaks`
+_expression_. `DisplayPageBreaks`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").DisplayPageBreaks = True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

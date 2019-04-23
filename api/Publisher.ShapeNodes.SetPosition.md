@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (Publisher)
+title: ShapeNodes.SetPosition method (Publisher)
 keywords: vbapb10.chm3473428
 f1_keywords:
 - vbapb10.chm3473428
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeNodes.SetPosition
 ms.assetid: f1a3bf8c-9778-b994-9c79-55987c6fa632
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.SetPosition Method (Publisher)
+# ShapeNodes.SetPosition method (Publisher)
 
 Sets the position of the specified node. Depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
 ## Syntax
 
- _expression_. **SetPosition**(**_Index_**,  **_X1_**,  **_Y1_**)
+_expression_.**SetPosition**(**_Index_**,  **_X1_**,  **_Y1_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 
@@ -57,4 +58,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontSize Property (Word)
+title: TextEffectFormat.FontSize property (Word)
 keywords: vbawd10.chm164561000
 f1_keywords:
 - vbawd10.chm164561000
@@ -8,17 +8,18 @@ api_name:
 - Word.TextEffectFormat.FontSize
 ms.assetid: 14538296-38d0-0545-0681-e6a7714dcaf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.FontSize Property (Word)
+# TextEffectFormat.FontSize property (Word)
 
-Returns or sets the font size for the specified WordArt, in points. Read/write  **Single** .
+Returns or sets the font size for the specified WordArt, in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `FontSize`
+_expression_. `FontSize`
 
  _expression_ A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 
@@ -41,3 +42,4 @@ docActive.Shapes("WordArt 2").TextEffect.FontSize = 16
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

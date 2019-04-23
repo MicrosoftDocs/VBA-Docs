@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton Object (Publisher)
+title: WebCommandButton object (Publisher)
 keywords: vbapb10.chm3997695
 f1_keywords:
 - vbapb10.chm3997695
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebCommandButton
 ms.assetid: 86605945-eca1-ab80-1a1a-f8a5977d9282
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCommandButton Object (Publisher)
+# WebCommandButton object (Publisher)
 
 Represents a Web command button control. The  **WebCommandButton** object is a member of the **Shape** object.
  
@@ -42,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionURL](Publisher.WebCommandButton.ActionURL.md)|
 |[Application](Publisher.WebCommandButton.Application.md)|
@@ -57,3 +58,4 @@ End Sub
 |[Parent](Publisher.WebCommandButton.Parent.md)|
 |[PostFormData](Publisher.WebCommandButton.PostFormData.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

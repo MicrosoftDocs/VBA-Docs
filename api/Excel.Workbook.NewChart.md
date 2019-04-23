@@ -1,5 +1,5 @@
 ---
-title: Workbook.NewChart Event (Excel)
+title: Workbook.NewChart event (Excel)
 keywords: vbaxl10.chm503108
 f1_keywords:
 - vbaxl10.chm503108
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.NewChart
 ms.assetid: 76e7f325-9244-fd8c-b38d-063f0193a5e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.NewChart Event (Excel)
+# Workbook.NewChart event (Excel)
 
 Occurs when a new chart is created in the workbook.
 
 
 ## Syntax
 
- _expression_. `NewChart`( `_Ch_` )
+_expression_. `NewChart`( `_Ch_` )
 
- _expression_ A variable that returns a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that returns a '[Workbook](Excel.Workbook.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

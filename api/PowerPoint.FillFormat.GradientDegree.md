@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientDegree Property (PowerPoint)
+title: FillFormat.GradientDegree property (PowerPoint)
 keywords: vbapp10.chm552014
 f1_keywords:
 - vbapp10.chm552014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.GradientDegree
 ms.assetid: 201380df-f7b4-a38c-e615-2eb490b7042c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientDegree Property (PowerPoint)
+# FillFormat.GradientDegree property (PowerPoint)
 
 Returns a value that indicates how dark or light a one-color gradient fill is. Read-only.
 
 
 ## Syntax
 
- _expression_. `GradientDegree`
+_expression_. `GradientDegree`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -37,7 +38,7 @@ This property is read-only. Use the  **[OneColorGradient](PowerPoint.FillFormat.
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and sets the degree of its fill gradient to match that of the shape named "Rectangle 2." If Rectangle 2 doesn't have a one-color gradient fill, this example fails.
+This example adds a rectangle to  _myDocument_ and sets the degree of its fill gradient to match that of the shape named "Rectangle 2." If Rectangle 2 doesn't have a one-color gradient fill, this example fails.
 
 
 ```vb
@@ -64,3 +65,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

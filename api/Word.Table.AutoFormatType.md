@@ -1,5 +1,5 @@
 ---
-title: Table.AutoFormatType Property (Word)
+title: Table.AutoFormatType property (Word)
 keywords: vbawd10.chm156303466
 f1_keywords:
 - vbawd10.chm156303466
@@ -8,17 +8,18 @@ api_name:
 - Word.Table.AutoFormatType
 ms.assetid: 366dbfab-f40e-b570-d174-96f4fe07a063
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.AutoFormatType Property (Word)
+# Table.AutoFormatType property (Word)
 
-Returns the type of automatic formatting that's been applied to the specified table. Read-only  **Long** .
+Returns the type of automatic formatting that's been applied to the specified table. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatType`
+_expression_. `AutoFormatType`
 
  _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 
@@ -48,3 +49,4 @@ End If
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

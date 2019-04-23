@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.GroupAdd Event (Outlook)
+title: OutlookBarGroups.GroupAdd event (Outlook)
 keywords: vbaol11.chm355
 f1_keywords:
 - vbaol11.chm355
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarGroups.GroupAdd
 ms.assetid: 5fae2579-b4db-d645-27d4-dce867e64242
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.GroupAdd Event (Outlook)
+# OutlookBarGroups.GroupAdd event (Outlook)
 
 Occurs when a new group has been added to the  **Shortcuts** pane.
 
 
 ## Syntax
 
- _expression_. `GroupAdd`( `_NewGroup_` )
+_expression_. `GroupAdd`( `_NewGroup_` )
 
- _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ End Sub
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

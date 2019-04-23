@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationX Property (Publisher)
+title: ThreeDFormat.RotationX property (Publisher)
 keywords: vbapb10.chm3801353
 f1_keywords:
 - vbapb10.chm3801353
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ThreeDFormat.RotationX
 ms.assetid: 1ee394cb-746b-02f0-f2af-aa4a6fffd172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationX Property (Publisher)
+# ThreeDFormat.RotationX property (Publisher)
 
 Returns or sets the rotation of the extruded shape around the x-axis in degrees. Can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. **RotationX**
+_expression_.**RotationX**
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
@@ -60,4 +61,4 @@ Sub SetRotationX()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

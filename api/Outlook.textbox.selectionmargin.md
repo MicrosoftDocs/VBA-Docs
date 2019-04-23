@@ -3,6 +3,7 @@ title: TextBox.SelectionMargin Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: afa418ab-4da0-df67-5545-dc4633e057e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether the user can select a line
 
 ## Syntax
 
- _expression_. **SelectionMargin**
+_expression_.**SelectionMargin**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ When the  **SelectionMargin** property is **True**, the selection margin occupie
 
 If the  **SelectionMargin** property is set to **True** when a control is printed, the selection margin also prints.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

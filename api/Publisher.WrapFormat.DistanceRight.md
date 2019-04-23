@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceRight Property (Publisher)
+title: WrapFormat.DistanceRight property (Publisher)
 keywords: vbapb10.chm786441
 f1_keywords:
 - vbapb10.chm786441
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WrapFormat.DistanceRight
 ms.assetid: f7d15011-c4a8-98ca-8303-690f88f564b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceRight Property (Publisher)
+# WrapFormat.DistanceRight property (Publisher)
 
 When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the right edge of the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **DistanceRight**
+_expression_.**DistanceRight**
 
  _expression_ A variable that represents a  **WrapFormat** object.
 
@@ -47,4 +48,4 @@ Sub AddNewShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

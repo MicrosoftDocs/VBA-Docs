@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a9fa0a48-5cf8-4340-b965-120284416b08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.PMText Property (Project)](http://msdn.microsoft.com/library/a52193c7-2a74-c3b8-357b-ea7637309d14%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

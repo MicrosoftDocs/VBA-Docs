@@ -1,5 +1,5 @@
 ---
-title: Selection.CreateTextbox Method (Word)
+title: Selection.CreateTextbox method (Word)
 keywords: vbawd10.chm158663179
 f1_keywords:
 - vbawd10.chm158663179
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.CreateTextbox
 ms.assetid: e3c567ee-949f-5e87-43c2-633cdae334b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.CreateTextbox Method (Word)
+# Selection.CreateTextbox method (Word)
 
 Adds a default-size text box around the selection.
 
 
 ## Syntax
 
- _expression_. `CreateTextbox`
+_expression_. `CreateTextbox`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End If
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

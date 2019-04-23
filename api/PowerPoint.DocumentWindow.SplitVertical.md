@@ -1,5 +1,5 @@
 ---
-title: DocumentWindow.SplitVertical Property (PowerPoint)
+title: DocumentWindow.SplitVertical property (PowerPoint)
 keywords: vbapp10.chm511024
 f1_keywords:
 - vbapp10.chm511024
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DocumentWindow.SplitVertical
 ms.assetid: 8a26332f-d00d-9816-30e1-48411db07a62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DocumentWindow.SplitVertical Property (PowerPoint)
+# DocumentWindow.SplitVertical property (PowerPoint)
 
 Returns or sets the percentage of the document window height that the slide pane occupies in normal view. Corresponds to the pane divider position between the slide and notes panes. Read/write.
 
 
 ## Syntax
 
- _expression_. `SplitVertical`
+_expression_. `SplitVertical`
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Return value
@@ -48,4 +49,4 @@ ActiveWindow.SplitVertical = 60
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

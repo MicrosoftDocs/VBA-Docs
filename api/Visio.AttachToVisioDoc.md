@@ -5,6 +5,7 @@ api_name:
 - Visio.AttachToVisioDoc
 ms.assetid: ed2aba12-21b0-d953-8f5b-0634255f03b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Indicates which document to save as a Web page.
 
 ## Syntax
 
- _expression_. **AttachToVisioDoc**(**_docObj_**)
+_expression_.**AttachToVisioDoc**(**_docObj_**)
 
- _expression_An expression that returns a  ** [VisSaveAsWeb](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisSaveAsWeb](overview/Visio.md)** object.
 
 
 ## Parameters
@@ -65,4 +66,4 @@ Public Sub AttachToVisioDoc_Example ()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

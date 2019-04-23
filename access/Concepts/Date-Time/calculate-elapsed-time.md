@@ -3,6 +3,7 @@ title: Calculate elapsed time
 ms.prod: access
 ms.assetid: 90e46152-6d97-0860-a414-a17cc8ba40cf
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -148,4 +149,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum.
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

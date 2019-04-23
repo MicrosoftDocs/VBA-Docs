@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.CurrentProject.AddSharedImage
 ms.assetid: c6c02f12-6c5f-852a-65b7-a0ffbb3346fd
-ms.date: 06/08/2017
+ms.date: 02/27/2019
+localization_priority: Normal
 ---
 
 
 # CurrentProject.AddSharedImage method (Access)
 
-Imports the specified image into the database and adds it to the  **[SharedResources](Access.SharedResources.md)** collection.
+Imports the specified image into the database and adds it to the **[SharedResources](Access.SharedResources.md)** collection.
 
 
 ## Syntax
 
-_expression_. `AddSharedImage`( ` _SharedImageName_`, ` _FileName_` )
+_expression_.**AddSharedImage** (_SharedImageName_, _FileName_)
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,11 +33,7 @@ _expression_ A variable that represents a [CurrentProject](Access.CurrentProject
 
 ## Remarks
 
-Use the  **AddSharedImage** method when you have an image that you want to use repeatedly, such as a companny logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
+Use the **AddSharedImage** method when you have an image that you want to use repeatedly, such as a company logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group on the **Design** tab.
 
 
-## See also
-
-
-[CurrentProject Object](Access.CurrentProject.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

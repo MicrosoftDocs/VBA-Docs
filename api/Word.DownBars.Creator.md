@@ -1,5 +1,5 @@
 ---
-title: DownBars.Creator Property (Word)
+title: DownBars.Creator property (Word)
 keywords: vbawd10.chm107151509
 f1_keywords:
 - vbawd10.chm107151509
@@ -8,17 +8,18 @@ api_name:
 - Word.DownBars.Creator
 ms.assetid: 0aacdc29-f4bc-5ea5-9dd9-3cc638a14ecb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DownBars.Creator Property (Word)
+# DownBars.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[DownBars](Word.DownBars.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [DownBars Object](Word.DownBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

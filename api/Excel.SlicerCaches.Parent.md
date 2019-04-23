@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCaches.Parent
 ms.assetid: da3c9e59-6486-4b6f-de34-b04195bc14c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent  **[Workbook](Excel.Workbook.md)** object for the collection.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
+_expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the parent  **[Workbook](Excel.Workbook.md)** object for the collection.
 
 [SlicerCaches Object](Excel.SlicerCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

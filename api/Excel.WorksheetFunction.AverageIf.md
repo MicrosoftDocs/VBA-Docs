@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AverageIf Method (Excel)
+title: WorksheetFunction.AverageIf method (Excel)
 keywords: vbaxl10.chm137355
 f1_keywords:
 - vbaxl10.chm137355
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.AverageIf
 ms.assetid: 5409428c-ee42-8a36-42f2-f6d4ca8030d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.AverageIf Method (Excel)
+# WorksheetFunction.AverageIf method (Excel)
 
 Returns the average (arithmetic mean) of all the cells in a range that meet a given criteria.
 
 
 ## Syntax
 
- _expression_. `AverageIf`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `AverageIf`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -82,3 +83,4 @@ For a symmetrical distribution of a group of numbers, these three measures of ce
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

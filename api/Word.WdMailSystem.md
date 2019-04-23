@@ -1,14 +1,15 @@
 ---
-title: WdMailSystem Enumeration (Word)
+title: WdMailSystem enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailSystem
 ms.assetid: 20cf9349-6d0b-e9fb-1654-fbebe723d07f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdMailSystem Enumeration (Word)
+# WdMailSystem enumeration (Word)
 
 Specifies the type of mail system.
 
@@ -21,3 +22,4 @@ Specifies the type of mail system.
 | **wdNoMailSystem**|0|No mail system.|
 | **wdPowerTalk**|2|PowerTalk mail system.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

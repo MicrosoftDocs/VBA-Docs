@@ -7,45 +7,43 @@ ms.prod: access
 api_name:
 - Access.Form.AfterInsert
 ms.assetid: 07140c13-ce7c-91f2-7451-d7f834653ef2
-ms.date: 06/08/2017
+ms.date: 03/08/2019
+localization_priority: Normal
 ---
 
 
 # Form.AfterInsert event (Access)
 
-The  **AfterInsert** event occurs after a new record is added.
+The **AfterInsert** event occurs after a new record is added.
 
 
 ## Syntax
 
-_expression_. `AfterInsert`
+_expression_.**AfterInsert**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Return value
 
-nothing
+Nothing
 
 
 ## Remarks
 
+> [!NOTE] 
+> Setting the value of a control by using a macro or Visual Basic doesn't trigger these events.
 
- **Note**  Setting the value of a control by using a macro or Visual Basic doesn't trigger these events.
+You can use an **AfterInsert** event procedure or macro to requery a recordset whenever a new record is added.
 
-You can use an  **AfterInsert** event procedure or macro to requery a recordset whenever a new record is added.
-
-To run a macro or event procedure when the  **AfterInsert** event occurs, set the **OnAfterInsert** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when the **AfterInsert** event occurs, set the **OnAfterInsert** property to the name of the macro or to [Event Procedure].
 
 
 ## Example
 
-This example shows how you can use a  **BeforeInsert** event procedure to verify that the user wants to create a new record, and an **AfterInsert** event procedure to requery the record source for the Employees form after a record has been added.
+This example shows how you can use a **BeforeInsert** event procedure to verify that the user wants to create a new record, and an **AfterInsert** event procedure to requery the record source for the **Employees** form after a record has been added.
 
-To try the example, add the following event procedure to a form named Employees that is based on a table or query. Switch to form Datasheet view and try to insert a record.
-
-
-
+To try the example, add the following event procedure to a form named **Employees** that is based on a table or query. Switch to form Datasheet view and try to insert a record.
 
 ```vb
 Private Sub Form_BeforeInsert(Cancel As Integer) 
@@ -61,8 +59,6 @@ End Sub
 ```
 
 
-## See also
 
 
-[Form Object](Access.Form.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Application.CreateAccessProject
 ms.assetid: 66628c62-20db-e3a3-5d27-9da3846f0514
-ms.date: 06/08/2017
+ms.date: 02/05/2019
+localization_priority: Normal
 ---
 
 
@@ -17,9 +18,9 @@ You can use the **CreateAccessProject** method to create a new Microsoft Access 
 
 ## Syntax
 
-_expression_. CreateAccessProject( _filepath_, _Connect_ )
+_expression_.**CreateAccessProject** (_filepath_, _Connect_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -36,11 +37,11 @@ Nothing
 
 ## Remarks
 
-The **CreateAccessProject** method enables you to create a new Access project from within Microsoft Access or another application through Automation, formally called OLE Automation. For example, you can use the **CreateAccessProject** method from Microsoft Excel to create a new Access project on disk. Once you have created an instance of Microsoft Access from another application, you must also create a new Access project.
+The **CreateAccessProject** method enables you to create a new Access project from within Microsoft Access or another application through Automation, formally called OLE Automation. For example, you can use the **CreateAccessProject** method from Microsoft Excel to create a new Access project on disk. After you have created an instance of Microsoft Access from another application, you must also create a new Access project.
 
-If the Access project identified by  _projname_ already exists, an error occurs.
+If the Access project identified by _projname_ already exists, an error occurs.
 
-To create and open a new Access project as the current Access project in the Access window, use the **[NewAccessProject](Access.Application.NewAccessProject.md)** method of the **[Application](Access.Application.md)** object.
+To create and open a new Access project as the current Access project in the Access window, use the **[NewAccessProject](Access.Application.NewAccessProject.md)** method of the **Application** object.
 
 To open an existing Access project as the current Access project in the Access window, use the **[OpenAccessProject](Access.Application.OpenAccessProject.md)** method of the **Application** object.
 
@@ -55,4 +56,4 @@ Application.CreateAccessProject "C:\Order Entry.adp"
 ```
 
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

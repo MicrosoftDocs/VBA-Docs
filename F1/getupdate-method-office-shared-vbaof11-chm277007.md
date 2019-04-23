@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: cffefbca-cca4-4a63-904b-c1c455522ed0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DocumentProperty.LinkToContent Property (Office)](http://msdn.microsoft.com/library/062df6df-cdee-81fc-3244-e229dacaa64e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ListAlignment Property (Visio)
+title: ContainerProperties.ListAlignment property (Visio)
 keywords: vis_sdr.chm17662595
 f1_keywords:
 - vis_sdr.chm17662595
@@ -8,17 +8,18 @@ api_name:
 - Visio.ContainerProperties.ListAlignment
 ms.assetid: f8d62807-9663-b5ac-0154-d37fea1f9816
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContainerProperties.ListAlignment Property (Visio)
+# ContainerProperties.ListAlignment property (Visio)
 
 Specifies how to align and arrange a list shape that you want positioned perpendicular to the main list direction. Read/write.
 
 
 ## Syntax
 
- _expression_. `ListAlignment`
+_expression_. `ListAlignment`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
@@ -34,7 +35,7 @@ Use the  **ListAlignment** property to position shapes along the axis that is pe
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visListAlignLeftOrTop**|0|Left-align or top-align shapes.|
 | **visListDirCenterOrMiddle**|1|Center-align or middle-align shapes.|
@@ -42,4 +43,4 @@ Use the  **ListAlignment** property to position shapes along the axis that is pe
 
 If the container is not a list, Microsoft Visio returns an  **Invalid Source** error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

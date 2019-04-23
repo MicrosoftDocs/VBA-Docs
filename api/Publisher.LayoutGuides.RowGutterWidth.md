@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.RowGutterWidth Property (Publisher)
+title: LayoutGuides.RowGutterWidth property (Publisher)
 keywords: vbapb10.chm1114129
 f1_keywords:
 - vbapb10.chm1114129
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.RowGutterWidth
 ms.assetid: a7629683-68d2-4953-4c95-7e79e431f9c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.RowGutterWidth Property (Publisher)
+# LayoutGuides.RowGutterWidth property (Publisher)
 
 Returns or sets the width of the row gutters that are used by the  **LayoutGuides** object to aid in the process of laying out design elements. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. **RowGutterWidth**
+_expression_.**RowGutterWidth**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -54,4 +55,4 @@ With theLayoutGuides
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

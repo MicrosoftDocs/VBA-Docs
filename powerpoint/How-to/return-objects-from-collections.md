@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: d81e1323-aa12-fa1a-aa75-3cc21d06c75f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -60,4 +61,4 @@ With ActivePresentation.SlideMaster _
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

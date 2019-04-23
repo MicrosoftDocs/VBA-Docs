@@ -1,5 +1,5 @@
 ---
-title: FormRegion.Session Property (Outlook)
+title: FormRegion.Session property (Outlook)
 keywords: vbaol11.chm2387
 f1_keywords:
 - vbaol11.chm2387
@@ -8,19 +8,20 @@ api_name:
 - Outlook.FormRegion.Session
 ms.assetid: 13b9a148-c898-a3ef-8341-073767ce665e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormRegion.Session Property (Outlook)
+# FormRegion.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

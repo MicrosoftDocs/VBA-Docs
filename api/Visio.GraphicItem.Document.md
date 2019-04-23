@@ -1,5 +1,5 @@
 ---
-title: GraphicItem.Document Property (Visio)
+title: GraphicItem.Document property (Visio)
 keywords: vis_sdr.chm16913430
 f1_keywords:
 - vis_sdr.chm16913430
@@ -8,10 +8,11 @@ api_name:
 - Visio.GraphicItem.Document
 ms.assetid: 1e441ed9-2a42-67ba-3860-1211abbc8d29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# GraphicItem.Document Property (Visio)
+# GraphicItem.Document property (Visio)
 
 Gets the  **Document** object that contains the **Master** object of type **visTypeDataGraphic** that contains the **GraphicItem** object. Read-only.
 
@@ -21,7 +22,7 @@ Gets the  **Document** object that contains the **Master** object of type **visT
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
@@ -30,4 +31,4 @@ Gets the  **Document** object that contains the **Master** object of type **visT
 
 Document
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

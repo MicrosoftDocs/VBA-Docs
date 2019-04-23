@@ -1,14 +1,15 @@
 ---
-title: PjMailField Enumeration (Project)
+title: PjMailField enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjMailField
 ms.assetid: 431e1115-431d-aab2-0f48-c55aa655284e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjMailField Enumeration (Project)
+# PjMailField enumeration (Project)
 
 Contains constants that specify the mail field. Obsolete.
 
@@ -161,3 +162,4 @@ Contains constants that specify the mail field. Obsolete.
 |**pjMailTaskWBS**|188743696|Represents the WBS (Task) field.|
 |**pjMailWork**|32772|Represents the Work field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Column.Application Property (PowerPoint)
+title: Column.Application property (PowerPoint)
 keywords: vbapp10.chm624001
 f1_keywords:
 - vbapp10.chm624001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Column.Application
 ms.assetid: c6d261d9-6939-e3c1-a697-ff68319b4e9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Column.Application Property (PowerPoint)
+# Column.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
+_expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [Column Object](PowerPoint.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

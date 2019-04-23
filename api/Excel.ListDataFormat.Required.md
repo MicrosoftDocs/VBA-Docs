@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.Required
 ms.assetid: ccd31ca3-906e-cacc-5ba1-48e60056d46e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.Required property (Excel)
 
- Returns a **Boolean** value indicating whether the schema definition of a column requires data before the row is committed. Read-only **Boolean** .
+ Returns a **Boolean** value indicating whether the schema definition of a column requires data before the row is committed. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Required`
+_expression_. `Required`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -52,3 +53,4 @@ End Sub
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

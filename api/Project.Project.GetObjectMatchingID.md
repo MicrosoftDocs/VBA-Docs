@@ -1,5 +1,5 @@
 ---
-title: Project.GetObjectMatchingID Method (Project)
+title: Project.GetObjectMatchingID method (Project)
 keywords: vbapj.chm132294
 f1_keywords:
 - vbapj.chm132294
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.GetObjectMatchingID
 ms.assetid: 6e20f9a9-2090-6ea5-e476-70652e866cdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.GetObjectMatchingID Method (Project)
+# Project.GetObjectMatchingID method (Project)
 
 Returns the matching identification name of an object.
 
 
 ## Syntax
 
- _expression_. `GetObjectMatchingID`( ` _ObjectType_`, ` _ObjectName_` )
+_expression_. `GetObjectMatchingID`( `_ObjectType_`, `_ObjectName_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -51,4 +52,4 @@ The following example gets the Matching ID of a View object with the display nam
 MsgBox(ActiveProject.GetObjectMatchingID(pjView, "Gantt Chart"))
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

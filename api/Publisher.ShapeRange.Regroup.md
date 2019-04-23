@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Regroup Method (Publisher)
+title: ShapeRange.Regroup method (Publisher)
 keywords: vbapb10.chm2294019
 f1_keywords:
 - vbapb10.chm2294019
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Regroup
 ms.assetid: 29342a78-9425-2356-963c-36a62a7f3091
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Regroup Method (Publisher)
+# ShapeRange.Regroup method (Publisher)
 
 Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single  **Shape** object.
 
 
 ## Syntax
 
- _expression_. **Regroup**
+_expression_.**Regroup**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -46,4 +47,4 @@ This example regroups the selected shapes in the active publication. If the shap
 ActiveDocument.Selection.ShapeRange.Regroup
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

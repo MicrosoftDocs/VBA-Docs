@@ -1,22 +1,23 @@
 ---
-title: Document.IsInAutosave Property (Word)
+title: Document.IsInAutosave property (Word)
 keywords: vbawd10.chm158007915
 f1_keywords:
 - vbawd10.chm158007915
 ms.prod: word
 ms.assetid: 89438dfd-3b5a-e90b-5059-a62f1e47afeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.IsInAutosave Property (Word)
+# Document.IsInAutosave property (Word)
 
-Returns  **False** if the most recent firing of the [Application.DocumentBeforeSave Event (Word)](Word.Application.DocumentBeforeSave.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
+Returns  **False** if the most recent firing of the [Application.DocumentBeforeSave event (Word)](Word.Application.DocumentBeforeSave.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsInAutosave`
+_expression_. `IsInAutosave`
 
  _expression_ A variable that represents a [Document](./Word.Document.md) object.
 
@@ -53,3 +54,4 @@ End If
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

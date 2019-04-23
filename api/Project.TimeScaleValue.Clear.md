@@ -1,21 +1,22 @@
 ---
-title: TimeScaleValue.Clear Method (Project)
+title: TimeScaleValue.Clear method (Project)
 ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Clear
 ms.assetid: 3ed3a584-5496-cdf4-eafa-e0ecdd01edfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimeScaleValue.Clear Method (Project)
+# TimeScaleValue.Clear method (Project)
 
 Clears the value of a timescaled data item.
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_.**Clear**
 
  _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 
@@ -36,4 +37,4 @@ Sub HalfDayFridays()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

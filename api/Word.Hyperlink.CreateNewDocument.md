@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateNewDocument Method (Word)
+title: Hyperlink.CreateNewDocument method (Word)
 keywords: vbawd10.chm161284202
 f1_keywords:
 - vbawd10.chm161284202
@@ -8,19 +8,20 @@ api_name:
 - Word.Hyperlink.CreateNewDocument
 ms.assetid: e3077a0d-6a83-e36d-7199-8ec6aca8dfa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.CreateNewDocument Method (Word)
+# Hyperlink.CreateNewDocument method (Word)
 
 Creates a new document linked to the specified hyperlink.
 
 
 ## Syntax
 
- _expression_. `CreateNewDocument`( `_FileName_` , `_EditNow_` , `_Overwrite_` )
+_expression_. `CreateNewDocument`( `_FileName_` , `_EditNow_` , `_Overwrite_` )
 
- _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
+_expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Parameters
@@ -30,8 +31,8 @@ Creates a new document linked to the specified hyperlink.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name of the specified document.|
-| _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment. The default value is **True** .|
-| _Overwrite_|Required| **Boolean**| **True** to overwrite any existing file of the same name in the same folder. **False** if any existing file of the same name is preserved and the FileName argument specifies a new file name. The default value is **False** .|
+| _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment. The default value is **True**.|
+| _Overwrite_|Required| **Boolean**| **True** to overwrite any existing file of the same name in the same folder. **False** if any existing file of the same name is preserved and the FileName argument specifies a new file name. The default value is **False**.|
 
 ## Example
 
@@ -55,3 +56,4 @@ End With
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

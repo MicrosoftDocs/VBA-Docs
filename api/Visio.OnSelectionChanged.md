@@ -5,6 +5,7 @@ api_name:
 - Visio.OnSelectionChanged
 ms.assetid: 825a9f43-8a7f-7237-af84-3f13b8d19a04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Occurs when the shape selection is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnSelectionChanged**(**_ShapeIndex_**)
+_expression_.**OnSelectionChanged**(**_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -57,4 +58,4 @@ Private Sub vsoViewer_OnSelectionChanged(ByVal ShapeIndex As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

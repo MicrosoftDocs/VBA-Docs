@@ -8,24 +8,25 @@ api_name:
 - Excel.ThreeDFormat.PresetThreeDFormat
 ms.assetid: 678fa7f1-7cdc-ce05-98f7-bc6252eb3df1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ThreeDFormat.PresetThreeDFormat property (Excel)
 
-Returns the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion. Read-only  **MsoPresetThreeDFormat** .
+Returns the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion. Read-only  **MsoPresetThreeDFormat**.
 
 
 ## Syntax
 
- _expression_. `PresetThreeDFormat`
+_expression_. `PresetThreeDFormat`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Remarks
 
-If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed** .
+If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**.
 
 
 
@@ -57,7 +58,7 @@ This property is read-only. To set the preset extrusion format, use the  **[SetT
 
 ## Example
 
-This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
+This example sets the extrusion format for shape one on  _myDocument_ to 3D Style 12 if the shape initially has a custom extrusion format.
 
 
 ```vb
@@ -75,3 +76,4 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

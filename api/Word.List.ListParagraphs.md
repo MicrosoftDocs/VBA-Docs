@@ -1,5 +1,5 @@
 ---
-title: List.ListParagraphs Property (Word)
+title: List.ListParagraphs property (Word)
 keywords: vbawd10.chm160563202
 f1_keywords:
 - vbawd10.chm160563202
@@ -8,17 +8,18 @@ api_name:
 - Word.List.ListParagraphs
 ms.assetid: 3360f8dd-155a-3b44-1b0c-395ddbac2b51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# List.ListParagraphs Property (Word)
+# List.ListParagraphs property (Word)
 
 Returns a  **[ListParagraphs](Word.listparagraphs.md)** collection that represents all the numbered paragraphs in the list, document, or range. Read-only.
 
 
 ## Syntax
 
- _expression_. `ListParagraphs`
+_expression_. `ListParagraphs`
 
  _expression_ A variable that represents a '[List](Word.List.md)' object.
 
@@ -45,3 +46,4 @@ Next mypara
 
 [List Object](Word.List.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

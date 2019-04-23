@@ -1,5 +1,5 @@
 ---
-title: Row Object (Publisher)
+title: Row object (Publisher)
 keywords: vbapb10.chm4915199
 f1_keywords:
 - vbapb10.chm4915199
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Row
 ms.assetid: 11f4688b-b94e-fa09-7c1b-4cbcca330936
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row Object (Publisher)
+# Row object (Publisher)
 
 Represents a row in a table. The  **Row** object is a member of the **[Rows](Publisher.Rows.md)** collection. The **Rows** collection includes all the rows in a specified table.
  
@@ -98,7 +99,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Row.Delete.md)|
 
@@ -106,10 +107,11 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Row.Application.md)|
 |[Cells](Publisher.Row.Cells.md)|
 |[Height](Publisher.Row.Height.md)|
 |[Parent](Publisher.Row.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

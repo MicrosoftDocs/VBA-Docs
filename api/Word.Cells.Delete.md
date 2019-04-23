@@ -1,5 +1,5 @@
 ---
-title: Cells.Delete Method (Word)
+title: Cells.Delete method (Word)
 keywords: vbawd10.chm155844808
 f1_keywords:
 - vbawd10.chm155844808
@@ -8,19 +8,20 @@ api_name:
 - Word.Cells.Delete
 ms.assetid: 891c21b7-ef8d-9ba1-9408-6560dac146c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cells.Delete Method (Word)
+# Cells.Delete method (Word)
 
 Deletes a table cell or cells and optionally controls how the remaining cells are shifted.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_ShiftCells_` )
+_expression_.**Delete**( `_ShiftCells_` )
 
- _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
+_expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Deletes a table cell or cells and optionally controls how the remaining cells ar
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

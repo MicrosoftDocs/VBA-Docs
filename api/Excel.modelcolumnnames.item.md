@@ -1,42 +1,37 @@
 ---
-title: ModelColumnNames.Item Method (Excel)
+title: ModelColumnNames.Item method (Excel)
 keywords: vbaxl10.chm964074
 f1_keywords:
 - vbaxl10.chm964074
 ms.prod: excel
 ms.assetid: 49db4920-ef4b-db88-1c6f-e7d4450fd09e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ModelColumnNames.Item Method (Excel)
+# ModelColumnNames.Item method (Excel)
 
-Returns a single object from the [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection.
+Returns a single object from the **ModelColumnNames** collection.
 
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) object.
+_expression_ A variable that represents a **[ModelColumnNames](Excel.modelcolumnnames.md)** object.
 
 
 ## Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|VARIANT|The index number or name for the object.|
+| _Index_|Required|**Variant**|The index number or name for the object.|
 
 ## Return value
 
-A [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object contained in the collection.
-
-
-## See also
+A **[ModelColumnName](Excel.modelcolumnname.md)** object contained in the collection.
 
 
 
-[ModelColumnNames Object](Excel.modelcolumnnames.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

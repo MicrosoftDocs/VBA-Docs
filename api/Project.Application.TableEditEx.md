@@ -1,5 +1,5 @@
 ---
-title: Application.TableEditEx Method (Project)
+title: Application.TableEditEx method (Project)
 keywords: vbapj.chm2172
 f1_keywords:
 - vbapj.chm2172
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TableEditEx
 ms.assetid: 953cdbf6-24ac-5e39-9c23-ec05ec9e4809
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TableEditEx Method (Project)
+# Application.TableEditEx method (Project)
 
 Creates, edits, or copies a table that can wrap text and include the  **Add New Column** feature.
 
 
 ## Syntax
 
- _expression_. `TableEditEx`( ` _Name_`, ` _TaskTable_`, ` _Create_`, ` _OverwriteExisting_`, ` _NewName_`, ` _FieldName_`, ` _NewFieldName_`, ` _Title_`, ` _Width_`, ` _Align_`, ` _ShowInMenu_`, ` _LockFirstColumn_`, ` _DateFormat_`, ` _RowHeight_`, ` _ColumnPosition_`, ` _AlignTitle_`, ` _HeaderAutoRowHeightAdjustment_`, ` _HeaderTextWrap_`, ` _WrapText_`, ` _ShowAddNewColumn_` )
+_expression_. `TableEditEx`( `_Name_`, `_TaskTable_`, `_Create_`, `_OverwriteExisting_`, `_NewName_`, `_FieldName_`, `_NewFieldName_`, `_Title_`, `_Width_`, `_Align_`, `_ShowInMenu_`, `_LockFirstColumn_`, `_DateFormat_`, `_RowHeight_`, `_ColumnPosition_`, `_AlignTitle_`, `_HeaderAutoRowHeightAdjustment_`, `_HeaderTextWrap_`, `_WrapText_`, `_ShowAddNewColumn_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -48,7 +49,7 @@ Creates, edits, or copies a table that can wrap text and include the  **Add New 
 | _HeaderAutoRowHeightAdjustment_|Optional|**Boolean**|**True** if Project automatically adjusts the row height of the table; otherwise, **False**. The default value is **True**.|
 | _HeaderTextWrap_|Optional|**Boolean**|**True** if Project wraps text in the header of the table; otherwise, **False**. The default value is **True**.|
 | _WrapText_|Optional|**Boolean**|**True** if the table wraps text in the rows; otherwise, **False**.|
-| _ShowAddNewColumn_|Optional|**Boolean**|True if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
+| _ShowAddNewColumn_|Optional|**Boolean**|**True** if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
 
 ## Return value
 
@@ -81,4 +82,4 @@ Sub CreateNewTaskUsageTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

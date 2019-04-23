@@ -3,6 +3,7 @@ title: Specify Locale-Specific User Interface for a Form Region
 ms.prod: outlook
 ms.assetid: 74cf8452-5e75-c939-2bf8-91607241bb76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -165,4 +166,4 @@ The following example specifies a description for a form region localized for th
     </stringOverride>
   ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

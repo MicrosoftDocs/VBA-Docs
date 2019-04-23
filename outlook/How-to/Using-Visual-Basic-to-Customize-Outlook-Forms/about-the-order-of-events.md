@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 04fc8833-90be-a7d1-d196-be10d1852aee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,4 +43,4 @@ The following events occur in the order specified when a user completes an actio
 
 The  **Click** event occurs only when you have defined it for a control in the Script Editor.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

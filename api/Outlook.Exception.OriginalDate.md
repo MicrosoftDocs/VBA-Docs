@@ -1,5 +1,5 @@
 ---
-title: Exception.OriginalDate Property (Outlook)
+title: Exception.OriginalDate property (Outlook)
 keywords: vbaol11.chm303
 f1_keywords:
 - vbaol11.chm303
@@ -8,24 +8,25 @@ api_name:
 - Outlook.Exception.OriginalDate
 ms.assetid: 0777de75-b32d-fe23-03d8-bb3deb18a69e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exception.OriginalDate Property (Outlook)
+# Exception.OriginalDate property (Outlook)
 
 Returns a  **Date** indicating the original date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)** before it was altered. This property will return the original date even if the **AppointmentItem** has been deleted. However, it will not return the original time if deletion has occurred. Read-only.
 
 
 ## Syntax
 
- _expression_. `OriginalDate`
+_expression_. `OriginalDate`
 
- _expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
+_expression_ A variable that represents an [Exception](Outlook.Exception.md) object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an **[AppointmentItem](Outlook.AppointmentItem.md)** object. The **[RecurrencePattern](Outlook.RecurrencePattern.md)** is obtained for this item using the **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method. By setting the these properties: **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** , **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** , and **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** , the appointments are now a recurring series that occur on a daily basis for the period of one year. An **[Exception](Outlook.Exception.md)** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](Outlook.RecurrencePattern.GetOccurrence.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](Outlook.Exceptions.md)** collection associated with this series. Message boxes display the original **[Subject](Outlook.AppointmentItem.Subject.md)** and **[OriginalDate](Outlook.Exception.OriginalDate.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
+This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an **[AppointmentItem](Outlook.AppointmentItem.md)** object. The **[RecurrencePattern](Outlook.RecurrencePattern.md)** is obtained for this item using the **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method. By setting the these properties: **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)**, **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)**, and **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)**, the appointments are now a recurring series that occur on a daily basis for the period of one year. An **[Exception](Outlook.Exception.md)** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](Outlook.RecurrencePattern.GetOccurrence.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](Outlook.Exceptions.md)** collection associated with this series. Message boxes display the original **[Subject](Outlook.AppointmentItem.Subject.md)** and **[OriginalDate](Outlook.Exception.OriginalDate.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
 
 
 ```vb
@@ -164,3 +165,4 @@ End Sub
 
 [Exception Object](Outlook.Exception.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

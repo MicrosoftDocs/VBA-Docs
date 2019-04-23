@@ -1,5 +1,5 @@
 ---
-title: Range.End Property (Word)
+title: Range.End property (Word)
 keywords: vbawd10.chm157155332
 f1_keywords:
 - vbawd10.chm157155332
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.End
 ms.assetid: fe90f321-c7b5-bea2-fa60-e6b750b33cf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.End Property (Word)
+# Range.End property (Word)
 
-Returns or sets the ending character position of a range. Read/write  **Long** .
+Returns or sets the ending character position of a range. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -46,3 +47,4 @@ myRange.End = myRange.End - 1
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

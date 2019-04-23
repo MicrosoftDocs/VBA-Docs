@@ -1,5 +1,5 @@
 ---
-title: Fonts.ItemFromID Property (Visio)
+title: Fonts.ItemFromID property (Visio)
 keywords: vis_sdr.chm12113775
 f1_keywords:
 - vis_sdr.chm12113775
@@ -8,17 +8,18 @@ api_name:
 - Visio.Fonts.ItemFromID
 ms.assetid: 84db4505-fb6c-4471-6e45-56deb3b09c47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fonts.ItemFromID Property (Visio)
+# Fonts.ItemFromID property (Visio)
 
 Returns an item of a collection using the ID of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_nID_` )
+_expression_. `ItemFromID`( `_nID_` )
 
  _expression_ A variable that represents a [Fonts](./Visio.Fonts.md) collection.
 
@@ -46,4 +47,4 @@ The ID of a  **Font** object corresponds to the number stored in the Font cell o
 
 The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

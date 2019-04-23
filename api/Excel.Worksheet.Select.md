@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Select Method (Excel)
+title: Worksheet.Select method (Excel)
 keywords: vbaxl10.chm174095
 f1_keywords:
 - vbaxl10.chm174095
@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.Select
 ms.assetid: 2010145e-d36f-7d2b-cfbf-8419c15b31a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Worksheet.Select Method (Excel)
+# Worksheet.Select method (Excel)
 
 Selects the object.
 
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_.**Select** (_Replace_)
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ To select a sheet or multiple sheets, use the  **Select** method. To make a sing
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

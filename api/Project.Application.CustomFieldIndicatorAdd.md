@@ -1,5 +1,5 @@
 ---
-title: Application.CustomFieldIndicatorAdd Method (Project)
+title: Application.CustomFieldIndicatorAdd method (Project)
 keywords: vbapj.chm38
 f1_keywords:
 - vbapj.chm38
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.CustomFieldIndicatorAdd
 ms.assetid: dc5d071b-3cf8-fe56-df16-c5a6051142da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.CustomFieldIndicatorAdd Method (Project)
+# Application.CustomFieldIndicatorAdd method (Project)
 
 Creates a test condition against the value of a custom field to determine which graphical indicator to display in place of the actual data.
 
 
 ## Syntax
 
- _expression_. `CustomFieldIndicatorAdd`( ` _FieldID_`, ` _Test_`, ` _Value_`, ` _IndicatorID_`, ` _CriteriaList_`, ` _Index_` )
+_expression_. `CustomFieldIndicatorAdd`( `_FieldID_`, `_Test_`, `_Value_`, `_IndicatorID_`, `_CriteriaList_`, `_Index_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -45,4 +46,4 @@ Creates a test condition against the value of a custom field to determine which 
 
 The  **CustomFieldIndicatorAdd** method returns a trappable error (error code 1004) if the list specified by _CriteriaList_ is read-only because it has been set to inherit values from another list.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

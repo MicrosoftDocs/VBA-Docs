@@ -1,5 +1,5 @@
 ---
-title: Options.IgnoreMixedDigits Property (Word)
+title: Options.IgnoreMixedDigits property (Word)
 keywords: vbawd10.chm162988313
 f1_keywords:
 - vbawd10.chm162988313
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.IgnoreMixedDigits
 ms.assetid: 3603afd8-a922-dec6-2239-6ae1d330995e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.IgnoreMixedDigits Property (Word)
+# Options.IgnoreMixedDigits property (Word)
 
- **True** if words that contain numbers are ignored while checking spelling. Read/write **Boolean** .
+ **True** if words that contain numbers are ignored while checking spelling. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IgnoreMixedDigits`
+_expression_. `IgnoreMixedDigits`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnTemp = Options.IgnoreMixedDigits
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

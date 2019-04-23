@@ -1,5 +1,5 @@
 ---
-title: Selection.Footnotes Property (Word)
+title: Selection.Footnotes property (Word)
 keywords: vbawd10.chm158662710
 f1_keywords:
 - vbawd10.chm158662710
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Footnotes
 ms.assetid: 61829c93-46e9-c1c5-1424-fb34a812a76d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Footnotes Property (Word)
+# Selection.Footnotes property (Word)
 
 Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a range, selection, or document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Footnotes`
+_expression_. `Footnotes`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ Selection.Footnotes.Add Range:=Selection.Range, _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlSaveConflictResolution enumeration (Excel)
+title: XlSaveConflictResolution enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSaveConflictResolution
 ms.assetid: 1cdccb5a-c356-4572-9429-49850338b31b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlSaveConflictResolution enumeration (Excel)
+# XlSaveConflictResolution enumeration (Excel)
 
 Specifies the way that conflicts are to be resolved whenever a shared workbook is updated.
 
@@ -20,3 +21,4 @@ Specifies the way that conflicts are to be resolved whenever a shared workbook i
 | **xlOtherSessionChanges**|3|The local user's changes are always rejected.|
 | **xlUserResolution**|1|A dialog box asks the user to resolve the conflict.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

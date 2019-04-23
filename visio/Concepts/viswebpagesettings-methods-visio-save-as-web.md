@@ -4,6 +4,7 @@ ms.prod: visio
 ms.assetid: 95fb870f-bc90-4f5b-8b84-94b0b6ea6d21
 ROBOTS: NOINDEX
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,5 +22,5 @@ ms.date: 06/08/2017
 -  [VisWebPageSettings.ListFormats Method (Visio Save As Web)](../../api/Visio.ListFormats.md)
     
 -  [VisWebPageSettings.SaveSettings Method (Visio Save As Web)](../../api/Visio.SaveSettings.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

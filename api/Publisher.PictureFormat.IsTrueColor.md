@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsTrueColor Property (Publisher)
+title: PictureFormat.IsTrueColor property (Publisher)
 keywords: vbapb10.chm3604770
 f1_keywords:
 - vbapb10.chm3604770
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.IsTrueColor
 ms.assetid: 63708d40-996a-67ca-b4eb-dd53c83d1764
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.IsTrueColor Property (Publisher)
+# PictureFormat.IsTrueColor property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsTrueColor**
+_expression_.**IsTrueColor**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -36,7 +37,7 @@ The  **IsTrueColor** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified picture does not contain color data of 24 bits per channel or greater.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -69,4 +70,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

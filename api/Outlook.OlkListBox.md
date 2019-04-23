@@ -1,5 +1,5 @@
 ---
-title: OlkListBox Object (Outlook)
+title: OlkListBox object (Outlook)
 keywords: vbaol11.chm1000293
 f1_keywords:
 - vbaol11.chm1000293
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkListBox
 ms.assetid: 373d2a00-97e5-2ed3-f15f-577d97b32334
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkListBox Object (Outlook)
+# OlkListBox object (Outlook)
 
 A control that supports displaying a scrollable list of items.
 
@@ -34,7 +35,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkListBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkListBox.BeforeUpdate.md)|
@@ -54,7 +55,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddItem](Outlook.OlkListBox.AddItem.md)|
 |[Clear](Outlook.OlkListBox.Clear.md)|
@@ -69,7 +70,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BackColor](Outlook.OlkListBox.BackColor.md)|
 |[BorderStyle](Outlook.OlkListBox.BorderStyle.md)|
@@ -91,4 +92,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

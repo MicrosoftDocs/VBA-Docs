@@ -1,5 +1,5 @@
 ---
-title: UpBars Object (PowerPoint)
+title: UpBars object (PowerPoint)
 keywords: vbapp10.chm722000
 f1_keywords:
 - vbapp10.chm722000
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.UpBars
 ms.assetid: 8a176f01-01a6-86bc-a69b-29763ebb1481
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UpBars Object (PowerPoint)
+# UpBars object (PowerPoint)
 
 Represents the up bars in a chart group.
 
 
 ## Remarks
 
-Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2-D line groups that contain at least two series can have up bars. This object is not a collection. There is no object that represents a single up bar; you either enable up bars for all points in a chart group or you disable them.
+Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2D line groups that contain at least two series can have up bars. This object is not a collection. There is no object that represents a single up bar; you either enable up bars for all points in a chart group or you disable them.
 
 If the  **[HasUpDownBars](PowerPoint.ChartGroup.HasUpDownBars.md)** property is **False**, most properties of the **UpBars** object are disabled.
 
@@ -61,3 +62,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

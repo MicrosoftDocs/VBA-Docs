@@ -1,5 +1,5 @@
 ---
-title: XMLNode.SetValidationError Method (Word)
+title: XMLNode.SetValidationError method (Word)
 keywords: vbawd10.chm37748841
 f1_keywords:
 - vbawd10.chm37748841
@@ -8,19 +8,20 @@ api_name:
 - Word.XMLNode.SetValidationError
 ms.assetid: 19e2cb53-5e57-4cfe-52d6-c1d42154bc46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.SetValidationError Method (Word)
+# XMLNode.SetValidationError method (Word)
 
 Changes the validation error text displayed to a user for a specified node and forces Word to report a node as invalid.
 
 
 ## Syntax
 
- _expression_. `SetValidationError`( `_Status_` , `_ErrorText_` , `_ClearedAutomatically_` )
+_expression_. `SetValidationError`( `_Status_` , `_ErrorText_` , `_ClearedAutomatically_` )
 
- _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
+_expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Changes the validation error text displayed to a user for a specified node and f
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required| **WdXMLValidationStatus**|Specifies whether to set the validation status error text (**wdXMLValidationStatusCustom**) or to clear the validation status error text (**wdXMLValidationStatusOK**).|
-| _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to  **wdXMLValidationStatusOK** .|
+| _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to  **wdXMLValidationStatusOK**.|
 | _ClearedAutomatically_|Optional| **Boolean**| **True** automatically clears the error message as soon as the next validation event occurs on the specified node. **False** requires running the **SetValidationError** method with a Status parameter of **wdXMLValidationStatusOK** to clear the custom error text.|
 
 ## Remarks
@@ -57,3 +58,4 @@ objNode.SetValidationError wdXMLValidationStatusCustom, _
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

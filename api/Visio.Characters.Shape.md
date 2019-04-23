@@ -1,5 +1,5 @@
 ---
-title: Characters.Shape Property (Visio)
+title: Characters.Shape property (Visio)
 keywords: vis_sdr.chm10214320
 f1_keywords:
 - vis_sdr.chm10214320
@@ -8,17 +8,18 @@ api_name:
 - Visio.Characters.Shape
 ms.assetid: 24565a24-3b95-2a89-1903-ae1759d3d8e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Characters.Shape Property (Visio)
+# Characters.Shape property (Visio)
 
-Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
+Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
@@ -68,4 +69,4 @@ Public Sub Shape_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkAxes.Horizontal
 ms.assetid: 7519ca71-d22f-2312-b0ae-0defa3ff1991
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object for 
 
 ## Syntax
 
- _expression_. `Horizontal`
+_expression_. `Horizontal`
 
- _expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
+_expression_ A variable that represents a [SparkAxes](Excel.SparkAxes.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the  **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object for 
 
 [SparkAxes Object](Excel.SparkAxes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 186f0164-0d7d-0068-b8ec-2e1bc6e561cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Occurs when the user clicks inside the control.
 
 ## Syntax
 
- _expression_. **Click**
+_expression_.**Click**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -57,4 +58,4 @@ End Select
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

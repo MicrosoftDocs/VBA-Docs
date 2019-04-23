@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 50ea26b3-763b-beed-6f06-30afbd205f02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Specify Control Tip Text for Controls
+# Specify Control Tip Text for Controls
 
 The following example defines the  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for three **[CommandButton](../../../api/Outlook.commandbutton.md)** controls and two **[Page](../../../api/Outlook.page.md)** objects in a **[MultiPage](../../../api/Outlook.multipage.md)**.
 
@@ -46,4 +47,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

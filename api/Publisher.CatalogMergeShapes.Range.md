@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.Range Method (Publisher)
+title: CatalogMergeShapes.Range method (Publisher)
 keywords: vbapb10.chm8388612
 f1_keywords:
 - vbapb10.chm8388612
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CatalogMergeShapes.Range
 ms.assetid: e92dcac4-4694-8a22-61da-09fcd98c72ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.Range Method (Publisher)
+# CatalogMergeShapes.Range method (Publisher)
 
 Returns a **[ShapeRange](Publisher.ShapeRange.md)** object that represents a subset of the shapes in a **Shapes** collection.
 
 
 ## Syntax
 
-_expression_. **Range**(**_Index_**)
+_expression_.**Range**(**_Index_**)
 
 _expression_ A variable that represents a **CatalogMergeShapes** object.
 
@@ -131,4 +132,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

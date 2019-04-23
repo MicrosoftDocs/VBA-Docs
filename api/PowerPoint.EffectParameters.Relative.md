@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Relative Property (PowerPoint)
+title: EffectParameters.Relative property (PowerPoint)
 keywords: vbapp10.chm654007
 f1_keywords:
 - vbapp10.chm654007
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.EffectParameters.Relative
 ms.assetid: 2675d451-6123-d9df-8c83-a009037d5108
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectParameters.Relative Property (PowerPoint)
+# EffectParameters.Relative property (PowerPoint)
 
 Determines whether to set the motion position relative to the position of the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `Relative`
+_expression_. `Relative`
 
- _expression_ A variable that represents a [EffectParameters](./PowerPoint.EffectParameters.md) object.
+_expression_ A variable that represents a [EffectParameters](./PowerPoint.EffectParameters.md) object.
 
 
 ## Return value
@@ -36,7 +37,7 @@ The value of the  **Relative** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. The motion path is absolute.|
 |**msoTrue**| The motion path is relative.|
@@ -75,3 +76,4 @@ End Sub
 
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

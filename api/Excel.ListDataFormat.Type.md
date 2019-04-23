@@ -8,6 +8,7 @@ api_name:
 - Excel.ListDataFormat.Type
 ms.assetid: 9e9b7b28-a948-9c67-8c88-ba6068ed162c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents 
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

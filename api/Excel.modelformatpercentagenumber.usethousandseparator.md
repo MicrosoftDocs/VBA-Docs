@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: f5f585ed-58db-f44a-525e-5c44c1a32168
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
 ## Syntax
 
- _expression_. `UseThousandSeparator`
+_expression_. `UseThousandSeparator`
 
- _expression_ A variable that represents a 'ModelFormatPercentageNumber' object.
+_expression_ A variable that represents a 'ModelFormatPercentageNumber' object.
 
 
 ## See also
@@ -26,4 +27,4 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
 [ModelFormatPercentageNumber Object](Excel.modelformatpercentagenumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

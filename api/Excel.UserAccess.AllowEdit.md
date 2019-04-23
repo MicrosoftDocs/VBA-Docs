@@ -8,6 +8,7 @@ api_name:
 - Excel.UserAccess.AllowEdit
 ms.assetid: 11fc172a-4757-bd14-e0ab-63c9048df981
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Boolean** value that indicates if the user is allowed acces
 
 ## Syntax
 
- _expression_. `AllowEdit`
+_expression_. `AllowEdit`
 
- _expression_ A variable that represents an [UserAccess](./Excel.UserAccess.md) object.
+_expression_ A variable that represents an [UserAccess](Excel.UserAccess.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Boolean** value that indicates if the user is allowed acces
 
 [UserAccess Object](Excel.UserAccess.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

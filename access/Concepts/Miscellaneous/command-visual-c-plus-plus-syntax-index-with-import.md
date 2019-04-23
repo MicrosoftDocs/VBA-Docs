@@ -3,6 +3,7 @@ title: Command (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 9c3763f1-6242-a69c-bc2a-9d885f2b122a
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -10,7 +11,7 @@ ms.date: 10/12/2018
 
 **Applies to:** Access 2013 | Access 2016
 
-### Methods
+## Methods
 
 ```csharp
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml( ); 
@@ -24,7 +25,7 @@ _ParameterPtr Invalid DDUE based on source, error:link not allowed in code, link
 
 ```
 
-### Properties
+## Properties
 
 ```cs
 _ConnectionPtr GetActiveConnection( ); 
@@ -74,3 +75,5 @@ __declspec(property(get=GetState)) long Invalid DDUE based on source, error:link
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

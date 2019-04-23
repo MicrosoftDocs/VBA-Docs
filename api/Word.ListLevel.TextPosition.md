@@ -1,5 +1,5 @@
 ---
-title: ListLevel.TextPosition Property (Word)
+title: ListLevel.TextPosition property (Word)
 keywords: vbawd10.chm160235527
 f1_keywords:
 - vbawd10.chm160235527
@@ -8,17 +8,18 @@ api_name:
 - Word.ListLevel.TextPosition
 ms.assetid: ed0ea5ae-d017-a0a8-be0a-cd49015e3bfb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListLevel.TextPosition Property (Word)
+# ListLevel.TextPosition property (Word)
 
-Returns or sets the position (in points) for the second line of wrapping text for the specified  **ListLevel** object. Read/write **Single** .
+Returns or sets the position (in points) for the second line of wrapping text for the specified  **ListLevel** object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `TextPosition`
+_expression_. `TextPosition`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
@@ -47,3 +48,4 @@ Next lev
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

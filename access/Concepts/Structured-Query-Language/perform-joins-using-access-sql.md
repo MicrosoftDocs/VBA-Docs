@@ -3,6 +3,7 @@ title: Perform joins using Access SQL
 ms.prod: access
 ms.assetid: 1a19bc56-afd3-3917-b503-44b77078483d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -77,7 +78,7 @@ SELECT tblCustomers.[Last Name],
 
 An **[OUTER JOIN](../../../api/overview/Access.md)** is used to retrieve records from multiple tables while preserving records from one of the tables, even if there is no matching record in the other table. There are two types of **OUTER JOINs** that the Access database engine supports: **LEFT OUTER JOINs** and **RIGHT OUTER JOINs**. 
 
-Think of two tables that are beside each other, a table on the left and a table on the right. The ** LEFT OUTER JOIN** selects all rows in the right table that match the relational comparison criteria, and also selects all rows from the left table, even if no match exists in the right table. The **RIGHT OUTER JOIN** is simply the reverse of the **LEFT OUTER JOIN**; all rows in the right table are preserved instead.
+Think of two tables that are beside each other, a table on the left and a table on the right. The **LEFT OUTER JOIN** selects all rows in the right table that match the relational comparison criteria, and also selects all rows from the left table, even if no match exists in the right table. The **RIGHT OUTER JOIN** is simply the reverse of the **LEFT OUTER JOIN**; all rows in the right table are preserved instead.
 
 As an example, suppose that you want to determine the total amount invoiced to each customer, but if a customer has no invoices, you want to show it by displaying the word "NONE."
 
@@ -112,7 +113,7 @@ This is not a good thing, especially with tables that contain hundreds or thousa
 
 ## The UNION operator
 
-Although the **[UNION](../../../api/overview/Access.md)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields do not have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and e-mail addresses by combining both tables.
+Although the **[UNION](../../../api/overview/Access.md)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields do not have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and email addresses by combining both tables.
 
 
 ```sql
@@ -182,4 +183,4 @@ PIVOT Format(InvoiceDate, 'yyyy')
 
 Be aware that the aggregating function is the **[Sum](../Criteria-Expressions/sum-function-microsoft-access-sql.md)** function, the vertical headings are in the **[GROUP BY](group-by-clause-microsoft-access-sql.md)** clause of the **SELECT** statement, and the horizontal headings are determined by the field listed after the **PIVOT** keyword.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

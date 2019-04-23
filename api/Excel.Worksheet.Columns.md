@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Columns
 ms.assetid: 41c18561-2a87-b975-e212-97f39fe10393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the co
 
 ## Syntax
 
- _expression_. `Columns`
+_expression_. `Columns`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Worksheets("Sheet1").Columns(1).Font.Bold = True
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

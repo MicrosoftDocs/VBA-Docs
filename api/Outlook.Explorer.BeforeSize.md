@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeSize Event (Outlook)
+title: Explorer.BeforeSize event (Outlook)
 keywords: vbaol11.chm460
 f1_keywords:
 - vbaol11.chm460
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeSize
 ms.assetid: 2df91a98-89e2-82af-acfc-49f8e9f40952
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeSize Event (Outlook)
+# Explorer.BeforeSize event (Outlook)
 
-Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)** .
+Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)**.
 
 
 ## Syntax
 
- _expression_. `BeforeSize`( `_Cancel_` )
+_expression_. `BeforeSize`( `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the **Explorer** is not sized.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the **Explorer** is not sized.|
 
 ## Remarks
 
@@ -46,7 +47,7 @@ Public WithEvents myIns As Outlook.Inspector
  
  
  
-Public Sub Initalize_Handler() 
+Public Sub Initialize_Handler() 
  
  Set myIns = Application.ActiveInspector 
  
@@ -81,3 +82,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Sharing Calendars
 ms.prod: outlook
 ms.assetid: 03e0b693-5446-ca62-f868-69a583087966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,4 +32,4 @@ The **[GetCalendarExporter](../../../api/Outlook.Folder.GetCalendarExporter.md)*
 
 Once exported, an iCalendar calendar file can be opened by using the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

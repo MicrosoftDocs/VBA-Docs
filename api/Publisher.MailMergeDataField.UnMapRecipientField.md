@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.UnMapRecipientField Method (Publisher)
+title: MailMergeDataField.UnMapRecipientField method (Publisher)
 keywords: vbapb10.chm6422564
 f1_keywords:
 - vbapb10.chm6422564
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataField.UnMapRecipientField
 ms.assetid: 0063dfa7-1168-3701-56a3-f1908cf0d23a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataField.UnMapRecipientField Method (Publisher)
+# MailMergeDataField.UnMapRecipientField method (Publisher)
 
 Undoes the mapping between the parent  **MailMergeDataField** object in a particular data source and the recipient field in the master data source (combined mail-merge recipient list) to which it is currently mapped.
 
 
 ## Syntax
 
- _expression_. **UnMapRecipientField**
+_expression_.**UnMapRecipientField**
 
  _expression_ A variable that represents a  **MailMergeDataField** object.
 
@@ -51,7 +52,7 @@ Public Sub UnmapRecipientField_Example()
  If pubMailMergeDataField.IsMapped Then 
  
  pubMailMergeDataField.UnMapRecipientField 
- Debug.Print "Field unmapped succesfully." 
+ Debug.Print "Field unmapped successfully." 
  
  Else 
  
@@ -62,4 +63,4 @@ Public Sub UnmapRecipientField_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

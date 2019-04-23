@@ -1,5 +1,5 @@
 ---
-title: Range.MoveEndWhile Method (Word)
+title: Range.MoveEndWhile method (Word)
 keywords: vbawd10.chm157155442
 f1_keywords:
 - vbawd10.chm157155442
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.MoveEndWhile
 ms.assetid: 9fab0517-a66a-2ae3-1900-77047b61cafa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.MoveEndWhile Method (Word)
+# Range.MoveEndWhile method (Word)
 
 Moves the ending character position of a range while any of the specified characters are found in the document.
 
 
 ## Syntax
 
- _expression_. `MoveEndWhile`( `_Cset_` , `_Count_` )
+_expression_. `MoveEndWhile`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the ending character position of a range while any of the specified charac
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document. If it is a negative number, the range is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the range is moved forward in the document. If it is a negative number, the range is moved backward. The default value is **wdForward**.|
 
 ## Remarks
 
@@ -61,3 +62,4 @@ Selection.Range.MoveEndWhile Cset:="abcdefgh", Count:=10
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

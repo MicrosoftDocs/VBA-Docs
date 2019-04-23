@@ -1,5 +1,5 @@
 ---
-title: Pages.Item Property (Publisher)
+title: Pages.Item property (Publisher)
 keywords: vbapb10.chm458752
 f1_keywords:
 - vbapb10.chm458752
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Pages.Item
 ms.assetid: b220d9bf-321d-808a-d3cf-63a641e691e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.Item Property (Publisher)
+# Pages.Item property (Publisher)
 
 Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or **MasterPages** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Item**(**_Item_**)
+_expression_.**Item**(**_Item_**)
 
  _expression_ A variable that represents a  **Pages** object.
 
@@ -44,4 +45,4 @@ With ActiveDocument.Pages.Item(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

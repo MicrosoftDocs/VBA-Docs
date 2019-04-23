@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Obscured Property (Publisher)
+title: ShadowFormat.Obscured property (Publisher)
 keywords: vbapb10.chm3670273
 f1_keywords:
 - vbapb10.chm3670273
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShadowFormat.Obscured
 ms.assetid: 9bc7382e-50cf-0364-6b5a-8aa46a12d8fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Obscured Property (Publisher)
+# ShadowFormat.Obscured property (Publisher)
 
 Returns or sets an  **MsoTriState** value indicating whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 
 
 ## Syntax
 
- _expression_. **Obscured**
+_expression_.**Obscured**
 
  _expression_ A variable that represents an  **ShadowFormat** object.
 
@@ -34,7 +35,7 @@ The  **Obscured** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shadow of the specified shape does not appear filled in and is not obscured by the shape if the shape has no fill.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -55,4 +56,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

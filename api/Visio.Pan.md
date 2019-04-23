@@ -5,6 +5,7 @@ api_name:
 - Visio.Pan
 ms.assetid: 5cfeabcd-37fa-ade7-2fe0-b1e19259f6cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Moves the page by the specified coordinate values, in pixels, in Microsoft Visio
 
 ## Syntax
 
- _expression_. **Pan**(**_DeltaX_**,  **_DeltaY_**)
+_expression_.**Pan**(**_DeltaX_**,  **_DeltaY_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -48,4 +49,4 @@ The following code moves the page 100 pixels to the right (horizontally) and 200
 vsoViewer.Pan 100, 200
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

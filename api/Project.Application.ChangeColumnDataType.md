@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeColumnDataType Method (Project)
+title: Application.ChangeColumnDataType method (Project)
 keywords: vbapj.chm711
 f1_keywords:
 - vbapj.chm711
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ChangeColumnDataType
 ms.assetid: 25cbcb73-4cbd-3ea7-ff16-90a4d3028af9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ChangeColumnDataType Method (Project)
+# Application.ChangeColumnDataType method (Project)
 
 Changes the data type of a local custom field column in a table.
 
 
 ## Syntax
 
- _expression_. `ChangeColumnDataType`( ` _Type_`, ` _Column_` )
+_expression_. `ChangeColumnDataType`( `_Type_`, `_Column_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -102,4 +103,4 @@ Sub SwitchNumberAndText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

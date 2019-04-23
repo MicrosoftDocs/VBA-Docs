@@ -1,5 +1,5 @@
 ---
-title: Sections Object (Publisher)
+title: Sections object (Publisher)
 keywords: vbapb10.chm7405567
 f1_keywords:
 - vbapb10.chm7405567
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Sections
 ms.assetid: 429c03b8-b574-86db-c39d-551a4c753b04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Sections Object (Publisher)
+# Sections object (Publisher)
 
 A collection of all the  **Section** objects in the document.
  
@@ -53,7 +54,7 @@ Use  **Sections**.Count to return the number of sections in the publication. The
 MsgBox Documents(1).Sections.Count
 ```
 
-Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to reutrn a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a new section to the second page of the active document.
+Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to return a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a new section to the second page of the active document.
  
 
  
@@ -89,7 +90,7 @@ Next i
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Sections.Add.md)|
 
@@ -97,10 +98,11 @@ Next i
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Sections.Application.md)|
 |[Count](Publisher.Sections.Count.md)|
 |[Item](Publisher.Sections.Item.md)|
 |[Parent](Publisher.Sections.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

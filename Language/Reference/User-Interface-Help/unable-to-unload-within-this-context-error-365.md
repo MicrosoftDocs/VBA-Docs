@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 845a5c20-95d1-4920-eb1c-df62dbefc97b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,7 +18,7 @@ In some situations you are not allowed to unload a form or a control on a form. 
 
 - There is an  **Unload** statement in the Paint event for the form or for a control on the form that has the Paint event. Remove the **Unload** statement from the Paint event.
     
-- There is an  **Unload** statement in the Change, Click, or DropDown events of a **ComboBox**. Remove the **Unload** statement from the event.
+- There is an  **Unload** statement in the Change, Click, or DropDown events of a **[ComboBox](combobox-control.md)**. Remove the **Unload** statement from the event.
     
 - There is an  **Unload** statement in the Scroll event of an **HScrollBar** or **VScrollBar** control. Remove the **Unload** statement from the event.
     
@@ -28,6 +29,5 @@ In some situations you are not allowed to unload a form or a control on a form. 
 - There is an  **Unload** statement in the RePosition event or Validate event of a **Data** control. Remove the **Unload** statement from the event.
     
 - There is an  **Unload** statement in the ObjectMove event of an **OLE Container** control. Remove the **Unload** statement from the event.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

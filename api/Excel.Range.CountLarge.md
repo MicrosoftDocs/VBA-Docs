@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.CountLarge
 ms.assetid: 3a46ef6d-a339-b15e-990d-b11f462fb602
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.CountLarge property (Excel)
 
-Returns a value that represents the number of objects in the collection. Read-only  **Variant** .
+Returns a value that represents the number of objects in the collection. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CountLarge`
+_expression_. `CountLarge`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The  **CountLarge** property is functionally the same as the **[Count](Excel.Ran
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

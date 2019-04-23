@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CanvasCropBottom Method (Word)
+title: ShapeRange.CanvasCropBottom method (Word)
 keywords: vbawd10.chm162857103
 f1_keywords:
 - vbawd10.chm162857103
@@ -8,19 +8,20 @@ api_name:
 - Word.ShapeRange.CanvasCropBottom
 ms.assetid: d602f76d-561d-cbb7-085a-e41de7c3fbb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.CanvasCropBottom Method (Word)
+# ShapeRange.CanvasCropBottom method (Word)
 
 Crops a percentage of the height of a drawing canvas from the bottom of the canvas.
 
 
 ## Syntax
 
- _expression_. `CanvasCropBottom`( `_Increment_` )
+_expression_. `CanvasCropBottom`( `_Increment_` )
 
- _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
+_expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ End Sub
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

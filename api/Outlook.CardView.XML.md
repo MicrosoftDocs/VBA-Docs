@@ -1,5 +1,5 @@
 ---
-title: CardView.XML Property (Outlook)
+title: CardView.XML property (Outlook)
 keywords: vbaol11.chm2594
 f1_keywords:
 - vbaol11.chm2594
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CardView.XML
 ms.assetid: a2be1e50-ae77-785c-0dc3-2b56c3a47cc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CardView.XML Property (Outlook)
+# CardView.XML property (Outlook)
 
 Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ To determine how the XML should be structured when creating views, you can creat
 
 [CardView Object](Outlook.CardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9c902917-8452-49b2-ae5c-1a9a82a10d87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.RemainingOvertimeWork Property (Project)](http://msdn.microsoft.com/library/6db49689-8fb9-e42c-d279-aadca2154bc6%28Office.15%29.aspx)
 [Resource.RemainingOvertimeWork Property (Project)](http://msdn.microsoft.com/library/f5b3ae63-5983-60e4-517b-b484b35505c0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

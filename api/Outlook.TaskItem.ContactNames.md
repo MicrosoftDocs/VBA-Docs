@@ -1,5 +1,5 @@
 ---
-title: TaskItem.ContactNames Property (Outlook)
+title: TaskItem.ContactNames property (Outlook)
 keywords: vbaol11.chm1724
 f1_keywords:
 - vbaol11.chm1724
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskItem.ContactNames
 ms.assetid: 2cbafecb-4984-ed71-efec-c0a565966218
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskItem.ContactNames Property (Outlook)
+# TaskItem.ContactNames property (Outlook)
 
 Returns or sets a  **String** representing the contact names associated with the Outlook item. Read/write.
 
 
 ## Syntax
 
- _expression_. `ContactNames`
+_expression_. `ContactNames`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** representing the contact names associated with the
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

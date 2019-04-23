@@ -8,6 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.Color
 ms.assetid: 53f6ee3b-af89-d039-1a67-0db2960afe93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
- _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
+_expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ ms.date: 06/08/2017
 
 [NegativeBarFormat Object](Excel.NegativeBarFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

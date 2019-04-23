@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: dffb2409-fc12-7632-58e4-118f331072a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the selection behavior when enter
 
 ## Syntax
 
- _expression_. **EnterFieldBehavior**
+_expression_.**EnterFieldBehavior**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **EnterFieldBehavior** property controls the way text is selected when the 
 
 You can combine the effects of the  **EnterFieldBehavior** property and **[DragBehavior](Outlook.OlkComboBox.DragBehavior.md)** to create a large number of combo box styles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

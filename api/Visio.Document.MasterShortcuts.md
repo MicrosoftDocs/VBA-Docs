@@ -1,5 +1,5 @@
 ---
-title: Document.MasterShortcuts Property (Visio)
+title: Document.MasterShortcuts property (Visio)
 keywords: vis_sdr.chm10513885
 f1_keywords:
 - vis_sdr.chm10513885
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.MasterShortcuts
 ms.assetid: 7d156dfe-ac70-355a-5927-eb7ebb28bb21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.MasterShortcuts Property (Visio)
+# Document.MasterShortcuts property (Visio)
 
 Returns the  **MasterShortcuts** collection for a document stencil. Read-only.
 
 
 ## Syntax
 
- _expression_. `MasterShortcuts`
+_expression_. `MasterShortcuts`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -34,7 +35,7 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 
 
-Before running this example, replace the reference to  _StencilWithShortucts.vss_ with a reference to a valid .vss file that contains master shortcuts.
+Before running this example, replace the reference to  _StencilWithShortcuts.vss_ with a reference to a valid .vss file that contains master shortcuts.
 
 
 ### To create a stencil that contains master shortcuts:
@@ -99,4 +100,4 @@ Public Sub MasterShortcuts_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

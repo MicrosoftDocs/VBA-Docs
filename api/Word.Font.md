@@ -1,5 +1,5 @@
 ---
-title: Font Object (Word)
+title: Font object (Word)
 keywords: vbawd10.chm2386
 f1_keywords:
 - vbawd10.chm2386
@@ -8,10 +8,11 @@ api_name:
 - Word.Font
 ms.assetid: bc97f4df-fc81-d6c8-e99a-d50dc793b7ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font Object (Word)
+# Font object (Word)
 
 Contains font attributes (such as font name, font size and color) for an object.
 
@@ -80,5 +81,6 @@ ActiveDocument.Styles.Add(Name:="Italics", _
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

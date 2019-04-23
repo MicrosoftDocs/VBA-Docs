@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 012c4b16-8c4d-fd11-39cc-9fe1799630c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies whether cycling includes controls
 
 ## Syntax
 
- _expression_. **Cycle**
+_expression_.**Cycle**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -33,4 +34,4 @@ The 0 setting transfers the focus to the first control of the next  **Frame** on
 
 The 2 setting transfers the focus to the first control of the same form or the  **Frame** when the user tabs from the last control in the tab order.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

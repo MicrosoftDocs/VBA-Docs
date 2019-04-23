@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 keywords: vbawd10.chm165347591
 f1_keywords:
 - vbawd10.chm165347591
@@ -8,24 +8,25 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyNumberedLists
 ms.assetid: 39e50b47-1e1c-4ed8-197c-b99476423187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 
- **True** if paragraphs are automatically formatted as numbered lists. Read/write **Boolean** .
+ **True** if paragraphs are automatically formatted as numbered lists. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatAsYouTypeApplyNumberedLists`
+_expression_. `AutoFormatAsYouTypeApplyNumberedLists`
 
  _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
 
 ## Remarks
 
- If set to **True** , numbered lists use a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character when the ENTER key is pressed.
+ If set to **True**, numbered lists use a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character when the ENTER key is pressed.
 
 
 ## Example
@@ -54,3 +55,4 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyNumberedLists
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

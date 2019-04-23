@@ -1,15 +1,17 @@
 ---
-title: Directories and Files Keyword Summary
+title: Directories and files keyword summary
 ms.prod: office
 ms.assetid: 2749d5cc-48b2-8311-0383-e24115452cd7
-ms.date: 06/08/2017
+ms.date: 11/29/2018
+localization_priority: Normal
 ---
 
 
-# Directories and Files Keyword Summary
+# Directories and files keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Change directory or folder.|[ChDir](chdir-statement.md)|
 |Change the drive.|[ChDrive](chdrive-statement.md)|
@@ -24,3 +26,8 @@ ms.date: 06/08/2017
 |Return file name or volume label.|[Dir](dir-function.md)|
 |Set attribute information for a file.|[SetAttr](setattr-statement.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

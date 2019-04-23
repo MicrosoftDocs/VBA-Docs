@@ -1,5 +1,5 @@
 ---
-title: UserAccessList.Add Method (Excel)
+title: UserAccessList.Add method (Excel)
 keywords: vbaxl10.chm726075
 f1_keywords:
 - vbaxl10.chm726075
@@ -8,19 +8,20 @@ api_name:
 - Excel.UserAccessList.Add
 ms.assetid: dd3b3bc4-8618-b680-7409-c431a12374b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserAccessList.Add Method (Excel)
+# UserAccessList.Add method (Excel)
 
 Adds a user access list.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` , `_AllowEdit_` )
+_expression_.**Add**( `_Name_` , `_AllowEdit_` )
 
- _expression_ A variable that represents an [UserAccessList](./Excel.UserAccessList.md) object.
+_expression_ A variable that represents an [UserAccessList](Excel.UserAccessList.md) object.
 
 
 ## Parameters
@@ -42,3 +43,4 @@ A  **[UserAccess](Excel.UserAccess.md)** object that represents the new user acc
 
 [UserAccessList Object](Excel.UserAccessList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

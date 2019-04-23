@@ -1,5 +1,5 @@
 ---
-title: PbTextUnit Enumeration (Publisher)
+title: PbTextUnit enumeration (Publisher)
 keywords: vbapb10.chm65544
 f1_keywords:
 - vbapb10.chm65544
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbTextUnit
 ms.assetid: 5d64cefa-76f1-1af7-49ef-2b9b804b5ee2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbTextUnit Enumeration (Publisher)
+# PbTextUnit enumeration (Publisher)
 
 The unit by which to expand a range.
 
@@ -37,3 +38,4 @@ The unit by which to expand a range.
 | **pbTextUnitWindow**|11|Expand by a window|
 | **pbTextUnitWord**|2|Expand by a word|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

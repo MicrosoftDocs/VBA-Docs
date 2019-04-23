@@ -1,5 +1,5 @@
 ---
-title: Application.SelectTaskAssns Method (Project)
+title: Application.SelectTaskAssns method (Project)
 keywords: vbapj.chm1511
 f1_keywords:
 - vbapj.chm1511
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectTaskAssns
 ms.assetid: 80683610-657f-f298-0275-831da215a93a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectTaskAssns Method (Project)
+# Application.SelectTaskAssns method (Project)
 
 Selects all assignments for a selected task in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `SelectTaskAssns`
+_expression_. `SelectTaskAssns`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -46,4 +47,4 @@ Sub SelectAssignments()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

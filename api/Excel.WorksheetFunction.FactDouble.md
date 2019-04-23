@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FactDouble Method (Excel)
+title: WorksheetFunction.FactDouble method (Excel)
 keywords: vbaxl10.chm137292
 f1_keywords:
 - vbaxl10.chm137292
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.FactDouble
 ms.assetid: 71d8d537-b06c-7614-d6d6-b6c57ed8c68f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.FactDouble Method (Excel)
+# WorksheetFunction.FactDouble method (Excel)
 
 Returns the double factorial of a number.
 
 
 ## Syntax
 
- _expression_. `FactDouble`( `_Arg1_` )
+_expression_. `FactDouble`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

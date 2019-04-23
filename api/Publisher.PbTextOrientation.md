@@ -1,5 +1,5 @@
 ---
-title: PbTextOrientation Enumeration (Publisher)
+title: PbTextOrientation enumeration (Publisher)
 keywords: vbapb10.chm65555
 f1_keywords:
 - vbapb10.chm65555
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbTextOrientation
 ms.assetid: aafe3dbf-0f22-5f18-8943-19a1ff878790
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbTextOrientation Enumeration (Publisher)
+# PbTextOrientation enumeration (Publisher)
 
 Represents how text flows in a text box.
 
@@ -24,3 +25,4 @@ Represents how text flows in a text box.
 | **pbTextOrientationRightToLeft**|256|RightToLeft text orientation|
 | **pbTextOrientationVerticalEastAsia**|2|VerticalEastAsia text orientation|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

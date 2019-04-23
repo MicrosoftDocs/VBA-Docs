@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6190c447-7ff5-67b1-25ec-19e1b9628238
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ You are using one kind of  **Property** procedure where a different kind is expe
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

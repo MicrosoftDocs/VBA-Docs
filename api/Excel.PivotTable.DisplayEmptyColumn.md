@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.DisplayEmptyColumn
 ms.assetid: 5911c818-282e-bb61-06c2-351cc4c2086d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.DisplayEmptyColumn property (Excel)
 
-Returns  **True** when the non-empty MDX keyword is included in the query to the OLAP provider for the value axis. The OLAP provider will not return empty columns in the result set. Returns **False** when the non-empty keyword is omitted. Read/write **Boolean** .
+Returns  **True** when the non-empty MDX keyword is included in the query to the OLAP provider for the value axis. The OLAP provider will not return empty columns in the result set. Returns **False** when the non-empty keyword is omitted. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayEmptyColumn`
+_expression_. `DisplayEmptyColumn`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.ButtonType Property (Publisher)
+title: WebCommandButton.ButtonType property (Publisher)
 keywords: vbapb10.chm3932178
 f1_keywords:
 - vbapb10.chm3932178
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCommandButton.ButtonType
 ms.assetid: 9ccec0bc-4f0a-9851-0066-05ee1f144c5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCommandButton.ButtonType Property (Publisher)
+# WebCommandButton.ButtonType property (Publisher)
 
 Returns or sets a  **PbCommandButtonType** constant that indicates whether a Web command button will clear or submit form data. Read/write.
 
 
 ## Syntax
 
- _expression_. **ButtonType**
+_expression_.**ButtonType**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 
@@ -35,7 +36,7 @@ The  **ButtonType** property value can be one of the **[PbCommandButtonType](Pub
 
 ## Example
 
-This example creates a new Web command submit button, assigns text to appear on its face, and specifies an e-mail address to which to send the form data.
+This example creates a new Web command submit button, assigns text to appear on its face, and specifies an email address to which to send the form data.
 
 
 ```vb
@@ -53,4 +54,4 @@ Sub NewWebForm()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

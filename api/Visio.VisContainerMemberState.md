@@ -1,5 +1,5 @@
 ---
-title: VisContainerMemberState Enumeration (Visio)
+title: VisContainerMemberState enumeration (Visio)
 keywords: vis_sdr.chm70605
 f1_keywords:
 - vis_sdr.chm70605
@@ -8,10 +8,11 @@ api_name:
 - Visio.VisContainerMemberState
 ms.assetid: 41b5c521-79b7-d7ce-38b3-17841815d429
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisContainerMemberState Enumeration (Visio)
+# VisContainerMemberState enumeration (Visio)
 
 Specifies constants that denote the state of the input member shape with respect to the container; returned by the  **[ContainerProperties.GetMemberState](Visio.ContainerProperties.GetMemberState.md)** method.
 
@@ -25,3 +26,4 @@ Specifies constants that denote the state of the input member shape with respect
 | **visContainerMemberOutside**|3|The member shape is outside the bounds of the container.|
 | **visContainerMemberInList**|4|The member shape is a list member.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

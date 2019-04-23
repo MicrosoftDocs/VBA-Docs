@@ -1,5 +1,5 @@
 ---
-title: Application.GetBuiltInStencilFile Method (Visio)
+title: Application.GetBuiltInStencilFile method (Visio)
 keywords: vis_sdr.chm10062110
 f1_keywords:
 - vis_sdr.chm10062110
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.GetBuiltInStencilFile
 ms.assetid: 2ae65aaa-d441-c7e8-3c8c-737bcca84738
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GetBuiltInStencilFile Method (Visio)
+# Application.GetBuiltInStencilFile method (Visio)
 
 Returns the file path to the specified built-in, hidden stencil used to populate certain galleries in the Microsoft Visio user interface.
 
 
 ## Syntax
 
- _expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
+_expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
 
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
@@ -43,7 +44,7 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the  **Backgrounds** gallery (**Design** tab).|
 | **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the  **Borders and Titles** gallery (**Design** tab).|
@@ -67,4 +68,4 @@ Public Sub GetBuiltInStencilFile_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

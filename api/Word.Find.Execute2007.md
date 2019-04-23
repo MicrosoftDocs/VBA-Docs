@@ -1,5 +1,5 @@
 ---
-title: Find.Execute2007 Method (Word)
+title: Find.Execute2007 method (Word)
 keywords: vbawd10.chm162529727
 f1_keywords:
 - vbawd10.chm162529727
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.Execute2007
 ms.assetid: 441de4b6-882c-e950-cafe-ee4463ef1007
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.Execute2007 Method (Word)
+# Find.Execute2007 method (Word)
 
 Runs the specified find operation. Returns  **True** if the find operation is successful.
 
 
 ## Syntax
 
- _expression_. `Execute2007`( `_FindText_` , `_MatchCase_` , `_MatchWholeWord_` , `_MatchWildcards_` , `_MatchSoundsLike_` , `_MatchAllWordForms_` , `_Forward_` , `_Wrap_` , `_Format_` , `_ReplaceWith_` , `_Replace_` , `_MatchKashida_` , `_MatchDiacritics_` , `_MatchAlefHamza_` , `_MatchControl_` , `_MatchPrefix_` , `_MatchSuffix_` , `_MatchPhrase_` , `_IgnoreSpace_` , `_IgnorePunct_` )
+_expression_. `Execute2007`( `_FindText_` , `_MatchCase_` , `_MatchWholeWord_` , `_MatchWildcards_` , `_MatchSoundsLike_` , `_MatchAllWordForms_` , `_Forward_` , `_Wrap_` , `_Format_` , `_ReplaceWith_` , `_Replace_` , `_MatchKashida_` , `_MatchDiacritics_` , `_MatchAlefHamza_` , `_MatchControl_` , `_MatchPrefix_` , `_MatchSuffix_` , `_MatchPhrase_` , `_IgnoreSpace_` , `_IgnorePunct_` )
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
@@ -57,13 +58,13 @@ A  **Boolean** value that indicates whether the find operation was successful.
 
 ## Remarks
 
-If MatchWildcards is  **True** , you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
+If MatchWildcards is  **True**, you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
 
 To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (?).
 
 Unless otherwise specified, replacement text inherits the formatting of the text it replaces in the document. For example, if you replace the string "abc" with "xyz", occurrences of "abc" with bold formatting are replaced with the string "xyz" with bold formatting.
 
-Also, if MatchCase is  **False** , occurrences of the search text that are uppercase will be replaced with an uppercase version of the replacement text, regardless of the case of the replacement text. Using the previous example, occurrences of "ABC" are replaced with "XYZ".
+Also, if MatchCase is  **False**, occurrences of the search text that are uppercase will be replaced with an uppercase version of the replacement text, regardless of the case of the replacement text. Using the previous example, occurrences of "ABC" are replaced with "XYZ".
 
 
 ## Example
@@ -97,3 +98,4 @@ myRange.Find.Execute2007 FindText:="hi", _
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

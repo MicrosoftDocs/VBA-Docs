@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Date1904
 ms.assetid: 0556311c-4e45-aea3-e922-24a5830b19d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.Date1904 property (Excel)
 
- **True** if the workbook uses the 1904 date system. Read/write **Boolean** .
+ **True** if the workbook uses the 1904 date system. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Date1904`
+_expression_. `Date1904`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveWorkbook.Date1904 = True
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

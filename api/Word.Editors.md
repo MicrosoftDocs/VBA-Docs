@@ -1,5 +1,5 @@
 ---
-title: Editors Object (Word)
+title: Editors object (Word)
 keywords: vbawd10.chm140
 f1_keywords:
 - vbawd10.chm140
@@ -8,10 +8,11 @@ api_name:
 - Word.Editors
 ms.assetid: acce718a-e3c1-deac-8b7f-fd8a5a9e47c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Editors Object (Word)
+# Editors object (Word)
 
 A collection of  **Editor** objects that represents a collection of users or groups of users who have been given specific permissions to edit portions of a document.
 
@@ -32,5 +33,6 @@ Set objEditor = Selection.Editors.Add(wdEditorCurrent)
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

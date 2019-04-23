@@ -1,14 +1,15 @@
 ---
-title: xlChartItem Enumeration (PowerPoint)
+title: XlChartItem enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartItem
 ms.assetid: b25cf8c6-58ba-2ddf-5000-a325ff6e98af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlChartItem Enumeration (PowerPoint)
+# XlChartItem enumeration (PowerPoint)
 
 Specifies the type of the chart item.
 
@@ -49,3 +50,4 @@ Specifies the type of the chart item.
 |**xlXErrorBars**|10|X error bars.|
 |**xlYErrorBars**|11|Y error bars.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

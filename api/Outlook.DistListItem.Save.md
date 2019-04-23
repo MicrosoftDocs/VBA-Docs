@@ -1,5 +1,5 @@
 ---
-title: DistListItem.Save Method (Outlook)
+title: DistListItem.Save method (Outlook)
 keywords: vbaol11.chm1146
 f1_keywords:
 - vbaol11.chm1146
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.Save
 ms.assetid: 36575c6f-fdf9-6343-f885-76b418b036a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.Save Method (Outlook)
+# DistListItem.Save method (Outlook)
 
 Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

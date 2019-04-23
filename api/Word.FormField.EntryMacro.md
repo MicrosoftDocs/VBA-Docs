@@ -1,5 +1,5 @@
 ---
-title: FormField.EntryMacro Property (Word)
+title: FormField.EntryMacro property (Word)
 keywords: vbawd10.chm153616387
 f1_keywords:
 - vbawd10.chm153616387
@@ -8,17 +8,18 @@ api_name:
 - Word.FormField.EntryMacro
 ms.assetid: db4ff78e-6795-0e8e-20db-56ceac01b8f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FormField.EntryMacro Property (Word)
+# FormField.EntryMacro property (Word)
 
-Returns or sets an entry macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write  **String** .
+Returns or sets an entry macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EntryMacro`
+_expression_. `EntryMacro`
 
  _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 
@@ -52,3 +53,4 @@ ActiveDocument.FormFields("Text1").EntryMacro = "Breadth"
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

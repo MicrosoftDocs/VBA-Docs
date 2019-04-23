@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.OutputType Property (PowerPoint)
+title: PrintOptions.OutputType property (PowerPoint)
 keywords: vbapp10.chm517007
 f1_keywords:
 - vbapp10.chm517007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.OutputType
 ms.assetid: 673bcc73-bd60-13f9-f383-dd927401e0f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.OutputType Property (PowerPoint)
+# PrintOptions.OutputType property (PowerPoint)
 
 Returns or sets a value that indicates which component (slides, handouts, notes pages, or an outline) of the presentation is to be printed. Read/write.
 
 
 ## Syntax
 
- _expression_. `OutputType`
+_expression_. `OutputType`
 
  _expression_ A variable that represents an [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -67,3 +68,4 @@ End With
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

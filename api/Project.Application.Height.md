@@ -1,21 +1,22 @@
 ---
-title: Application.Height Property (Project)
+title: Application.Height property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.Height
 ms.assetid: e980a85d-218c-b82d-1043-9670cab23560
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Height Property (Project)
+# Application.Height property (Project)
 
 Gets or sets the height of the main window in points. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_.**Height**
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ Sub PlaceProjectInLowerScreenHalf()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

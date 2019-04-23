@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 26fa6f8a-ae2e-dd7b-f7f3-fc598db8dc75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ If you are attempting to open the database in exclusive mode, it is possible tha
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

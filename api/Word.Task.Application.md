@@ -1,5 +1,5 @@
 ---
-title: Task.Application Property (Word)
+title: Task.Application property (Word)
 keywords: vbawd10.chm159515624
 f1_keywords:
 - vbawd10.chm159515624
@@ -8,19 +8,20 @@ api_name:
 - Word.Task.Application
 ms.assetid: 6427a5e3-7134-087c-f092-554762502299
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.Application Property (Word)
+# Task.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
+_expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Task Object](Word.Task.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

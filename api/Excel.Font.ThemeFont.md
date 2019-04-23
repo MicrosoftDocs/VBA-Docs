@@ -8,19 +8,20 @@ api_name:
 - Excel.Font.ThemeFont
 ms.assetid: 951cabda-b6d5-5309-5848-b73416952299
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.ThemeFont property (Excel)
 
-Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[XlThemeFont](Excel.XlThemeFont.md)** .
+Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[XlThemeFont](Excel.XlThemeFont.md)**.
 
 
 ## Syntax
 
- _expression_. `ThemeFont`
+_expression_. `ThemeFont`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the theme font in the applied font scheme that is associated wit
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

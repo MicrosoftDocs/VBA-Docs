@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (Publisher)
+title: ShapeNode.SegmentType property (Publisher)
 keywords: vbapb10.chm3539202
 f1_keywords:
 - vbapb10.chm3539202
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeNode.SegmentType
 ms.assetid: 471206b2-ca37-5e4a-678b-df8a47c90f96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNode.SegmentType Property (Publisher)
+# ShapeNode.SegmentType property (Publisher)
 
 Returns an  **MsoSegmentType** constant that indicates whether the segment associated with the specified node is straight or curved. Read-only.
 
 
 ## Syntax
 
- _expression_. **SegmentType**
+_expression_.**SegmentType**
 
  _expression_ A variable that represents a  **ShapeNode** object.
 
@@ -62,4 +63,4 @@ Sub ChangeSegmentTypes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

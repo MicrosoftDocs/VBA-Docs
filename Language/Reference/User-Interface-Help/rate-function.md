@@ -1,11 +1,12 @@
 ---
-title: Rate function
+title: Rate function (Visual Basic for Applications)
 keywords: vblr6.chm1009288
 f1_keywords:
 - vblr6.chm1009288
 ms.prod: office
 ms.assetid: fa2c01bd-e717-c199-00b1-e2e56ec86b01
-ms.date: 06/08/2017
+ms.date: 12/13/2018
+localization_priority: Normal
 ---
 
 
@@ -15,18 +16,20 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 ## Syntax
 
-**Rate( _nper_**, **_pmt_**, **_pv_**, [ **_fv_**, [ **_type_**, [ **_guess_** ]]] **)**
+**Rate**(_nper_, _pmt_, _pv_, [ _fv_, [ _type_, [ _guess_ ]]])
+
+<br/>
 
 The **Rate** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
-|**_nper_**|Required. **Double** specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
-|**_pmt_**|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
-|**_pv_**|Required. **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.|
-|**_fv_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying future value or cash balance you want after you make the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, then $50,000 is the future value. If omitted, 0 is assumed.|
-|**_type_**|Optional. **Variant** specifying a number indicating when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
-|**_guess_**|Optional. **Variant** specifying value you estimate will be returned by **Rate**. If omitted, **_guess_** is 0.1 (10 percent).|
+|_nper_|Required. **Double** specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
+|_pmt_|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
+|_pv_|Required. **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.|
+|_fv_|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying future value or cash balance you want after you make the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, $50,000 is the future value. If omitted, 0 is assumed.|
+|_type_|Optional. **Variant** specifying a number indicating when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
+|_guess_|Optional. **Variant** specifying value you estimate will be returned by **Rate**. If omitted, _guess_ is 0.1 (10 percent).|
 
 ## Remarks
 
@@ -34,7 +37,7 @@ An annuity is a series of fixed cash payments made over a period of time. An ann
 
 For all [arguments](../../Glossary/vbe-glossary.md#argument), cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
 
-**Rate** is calculated by iteration. Starting with the value of **_guess_**, **Rate** cycles through the calculation until the result is accurate to within 0.00001 percent. If **Rate** can't find a result after 20 tries, it fails. If your guess is 10 percent and **Rate** fails, try a different value for **_guess_**.
+**Rate** is calculated by iteration. Starting with the value of _guess_, **Rate** cycles through the calculation until the result is accurate to within 0.00001 percent. If **Rate** can't find a result after 20 tries, it fails. If your guess is 10 percent and **Rate** fails, try a different value for _guess_.
 
 ## Example
 
@@ -59,3 +62,8 @@ MsgBox "Your interest rate is " & Format(CInt(APR), Fmt) & " percent."
 ```
 
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

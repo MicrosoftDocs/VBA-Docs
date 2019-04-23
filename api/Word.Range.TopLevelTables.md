@@ -1,5 +1,5 @@
 ---
-title: Range.TopLevelTables Property (Word)
+title: Range.TopLevelTables property (Word)
 keywords: vbawd10.chm157155652
 f1_keywords:
 - vbawd10.chm157155652
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.TopLevelTables
 ms.assetid: 43cd13b8-f779-69cd-ee60-d4ba734008f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.TopLevelTables Property (Word)
+# Range.TopLevelTables property (Word)
 
 Returns a  **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.
 
 
 ## Syntax
 
- _expression_. `TopLevelTables`
+_expression_. `TopLevelTables`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -62,3 +63,4 @@ End With
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

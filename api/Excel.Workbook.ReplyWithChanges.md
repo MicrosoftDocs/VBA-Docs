@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReplyWithChanges Method (Excel)
+title: Workbook.ReplyWithChanges method (Excel)
 keywords: vbaxl10.chm199207
 f1_keywords:
 - vbaxl10.chm199207
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.ReplyWithChanges
 ms.assetid: 60424d69-0062-aa5e-ea8f-4fb07086167a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.ReplyWithChanges Method (Excel)
+# Workbook.ReplyWithChanges method (Excel)
 
-Sends an e-mail message to the author of a workbook that has been sent out for review, notifying them that a reviewer has completed review of the workbook.
+Sends an email message to the author of a workbook that has been sent out for review, notifying them that a reviewer has completed review of the workbook.
 
 
 ## Syntax
 
- _expression_. `ReplyWithChanges`( `_ShowMessage_` )
+_expression_. `ReplyWithChanges`( `_ShowMessage_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ Use the  **[SendForReview](Excel.Workbook.SendForReview.md)** method to start a 
 
 ## Example
 
-This example automatically sends a notification to the author of a review workbook that a reviewer has completed a review, without first displaying the e-mail message to the reviewer. This example assumes that the active workbook is part of a collaborative review cycle.
+This example automatically sends a notification to the author of a review workbook that a reviewer has completed a review, without first displaying the email message to the reviewer. This example assumes that the active workbook is part of a collaborative review cycle.
 
 
 ```vb
@@ -55,3 +56,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

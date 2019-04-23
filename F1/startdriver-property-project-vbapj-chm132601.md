@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8a92d96f-c9a0-4393-bffd-7af43b983e78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.ScheduledFinish Property (Project)](http://msdn.microsoft.com/library/2d3a8af8-8d88-e271-4e2f-377b328257ea%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 711cc827-78ee-4c90-a5a5-2d07d9842e1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ComboBox.FontWeight property (Access)](http://msdn.microsoft.com/library/4e1cf348-4114-788d-34a6-c0b17152ee4b%28Office.15%29.aspx)
 [CommandButton.FontWeight property (Access)](http://msdn.microsoft.com/library/a7c0b157-c25c-24e5-b05d-cc8ab726ac7b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ServerViewableItems
 ms.assetid: 2c10a647-2b2c-0640-9990-109b89444cd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Allows a developer to interact with the list of published objects in the workboo
 
 ## Syntax
 
- _expression_. `ServerViewableItems`
+_expression_. `ServerViewableItems`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property returns a collection of the items that could be published to Excel
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

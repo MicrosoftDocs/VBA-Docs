@@ -8,24 +8,25 @@ api_name:
 - Excel.Walls.PictureType
 ms.assetid: 832115e2-1711-9952-d845-d56aa16808cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Walls.PictureType property (Excel)
 
-Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3-D chart.
+Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3D chart.
 
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
- _expression_ A variable that represents a [Walls](./Excel.Walls-graph-property.md) object.
+_expression_ A variable that represents a [Walls](Excel.Walls-graph-property.md) object.
 
 
 ## Remarks
 
-This property can be set to one of the following constants:  **xlStack** or **xlStretch** .
+This property can be set to one of the following constants:  **xlStack** or **xlStretch**.
 
 
 ## See also
@@ -33,3 +34,4 @@ This property can be set to one of the following constants:  **xlStack** or **xl
 
 [Walls Object](Excel.Walls(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

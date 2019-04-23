@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5ef75417-01ac-43cd-a466-76f1a6ee2d6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarComboBox.TooltipText Property (Office)](http://msdn.microsoft.com/library/65bfb3ff-a36e-dfd5-4ae0-4d2ccfb69000%28Office.15%29.aspx)
 [CommandBarButton.TooltipText Property (Office)](http://msdn.microsoft.com/library/12126126-f8b6-e8a4-3d32-4d5604928e8a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockTypes Object (Word)
+title: BuildingBlockTypes object (Word)
 keywords: vbawd10.chm2896
 f1_keywords:
 - vbawd10.chm2896
@@ -8,10 +8,11 @@ api_name:
 - Word.BuildingBlockTypes
 ms.assetid: fb179437-b736-dd99-3aea-125346aa7a3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlockTypes Object (Word)
+# BuildingBlockTypes object (Word)
 
 Represents a collection of  **[BuildingBlockType](Word.BuildingBlockType.md)** objects.
 
@@ -44,6 +45,6 @@ For more information about building blocks, see [Working with Building Blocks](.
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

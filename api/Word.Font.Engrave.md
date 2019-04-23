@@ -1,5 +1,5 @@
 ---
-title: Font.Engrave Property (Word)
+title: Font.Engrave property (Word)
 keywords: vbawd10.chm156369046
 f1_keywords:
 - vbawd10.chm156369046
@@ -8,24 +8,25 @@ api_name:
 - Word.Font.Engrave
 ms.assetid: 9d062637-05c8-d1c9-2231-23439bed30b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Engrave Property (Word)
+# Font.Engrave property (Word)
 
- **True** if the font is formatted as engraved. Read/write **Long** .
+ **True** if the font is formatted as engraved. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Engrave`
+_expression_. `Engrave`
 
  _expression_ A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
 
-Returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** . Setting **Engrave** to **True** sets **[Emboss](Word.Font.Emboss.md)** to **False** , and vice versa.
+Returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**. Setting **Engrave** to **True** sets **[Emboss](Word.Font.Emboss.md)** to **False**, and vice versa.
 
 
 ## Example
@@ -62,3 +63,4 @@ End If
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

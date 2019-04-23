@@ -1,20 +1,20 @@
 ---
-title: ListBox Control, Column, ColumnCount, List Properties Example
+title: ListBox control, Column, ColumnCount, List properties example
 keywords: fm20.chm5225184
 f1_keywords:
 - fm20.chm5225184
 ms.prod: office
 ms.assetid: 30706933-a979-6392-848f-1527e3ec1847
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ListBox Control, Column, ColumnCount, List Properties Example
+# ListBox control, Column, ColumnCount, List properties example
 
-The following example loads a two-dimensional array with data and, in turn, loads two  **ListBox** controls using the **Column** and **List** properties. Note that the **Column** property transposes the array elements during loading.
+The following example loads a two-dimensional array with data and, in turn, loads two **[ListBox](listbox-control.md)** controls using the **[Column](column-property.md)** and **[List](list-property-microsoft-forms.md)** properties. Note that the **Column** property transposes the array elements during loading.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two  **ListBox** controls named ListBox1 and ListBox2.
-
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2.
 
 
 ```vb
@@ -54,4 +54,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

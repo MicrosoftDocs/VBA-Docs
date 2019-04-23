@@ -1,5 +1,5 @@
 ---
-title: Index.Filter Property (Word)
+title: Index.Filter property (Word)
 keywords: vbawd10.chm159186953
 f1_keywords:
 - vbawd10.chm159186953
@@ -8,17 +8,18 @@ api_name:
 - Word.Index.Filter
 ms.assetid: 87b5ad20-cc3d-b1d5-9622-ff23ea25120c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Index.Filter Property (Word)
+# Index.Filter property (Word)
 
-Returns or sets a value that specifies how Microsoft Word classifies the first character of entries in the specified index.read/write  **Long** . Can be one of the following **wdIndexFilter** constants.
+Returns or sets a value that specifies how Microsoft Word classifies the first character of entries in the specified index.read/write  **Long**. Can be one of the following **wdIndexFilter** constants.
 
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
  _expression_ A variable that represents an '[Index](Word.Index.md)' object.
 
@@ -42,3 +43,4 @@ ActiveDocument.Indexes.Add(Range:=myRange, Type:=wdIndexIndent, _
 
 [Index Object](Word.Index.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

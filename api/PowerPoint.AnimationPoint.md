@@ -1,5 +1,5 @@
 ---
-title: AnimationPoint Object (PowerPoint)
+title: AnimationPoint object (PowerPoint)
 keywords: vbapp10.chm664000
 f1_keywords:
 - vbapp10.chm664000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AnimationPoint
 ms.assetid: 79aa1a47-abab-f98f-955a-48be10a94c41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationPoint Object (PowerPoint)
+# AnimationPoint object (PowerPoint)
 
 Represents an individual animation point for an animation behavior. The  **AnimationPoint** object is a member of the **[AnimationPoints](PowerPoint.AnimationPoints.md)** collection. The **AnimationPoints** collection contains all the animation points for an animation behavior.
 
@@ -64,3 +65,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

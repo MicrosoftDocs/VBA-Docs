@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultBorderColor Property (Word)
+title: Options.DefaultBorderColor property (Word)
 keywords: vbawd10.chm162988376
 f1_keywords:
 - vbawd10.chm162988376
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.DefaultBorderColor
 ms.assetid: 382f9780-d10d-925b-206d-d7c624b6b744
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.DefaultBorderColor Property (Word)
+# Options.DefaultBorderColor property (Word)
 
 Returns or sets the default 24-bit color to use for new  **[Border](Word.Border.md)** objects. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultBorderColor`
+_expression_. `DefaultBorderColor`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Options.DefaultBorderColor = wdColorTeal
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

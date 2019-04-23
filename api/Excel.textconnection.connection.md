@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: f3b01fbb-64df-a98a-029d-56ff8479d574
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a string that contains text file names that enable Microsoft Exc
 
 ## Syntax
 
- _expression_. `Connection`
+_expression_. `Connection`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns or sets a string that contains text file names that enable Microsoft Exc
 
 [TextConnection Object](Excel.textconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

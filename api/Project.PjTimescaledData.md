@@ -1,14 +1,15 @@
 ---
-title: PjTimescaledData Enumeration (Project)
+title: PjTimescaledData enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTimescaledData
 ms.assetid: 3933e982-913a-d4de-789d-39d3a4a65ca4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTimescaledData Enumeration (Project)
+# PjTimescaledData enumeration (Project)
 
 Contains constants that specify the type of field for timescaled data in the Project database.
 
@@ -58,7 +59,7 @@ Contains constants that specify the type of field for timescaled data in the Pro
 |**pjBaseline4BudgetWork**|64|Baseline4 Budget Work field.|
 |**pjBaseline4Cost**|34|Baseline4 Cost field.|
 |**pjBaseline4CumulativeWork**|109|Baseline4 cumulative work.|
-|**pjBaseline1RemainingCumulativeWork**|87|Baseline4 remaining cumulative work.|
+|**pjBaseline4RemainingCumulativeWork**|87|Baseline4 remaining cumulative work.|
 |**pjBaseline4RemainingTasks**|98|Baseline4 remaining tasks.|
 |**pjBaseline4Work**|33|Baseline4 Work field.|
 |**pjBaseline5BudgetCost**|67|Baseline5 Budget Cost field.|
@@ -146,3 +147,5 @@ For more information about working with fields in Project, see the  _Available f
 
 
 [Available fields reference](https://support.office.com/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

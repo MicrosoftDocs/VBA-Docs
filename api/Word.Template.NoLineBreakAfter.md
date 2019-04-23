@@ -1,5 +1,5 @@
 ---
-title: Template.NoLineBreakAfter Property (Word)
+title: Template.NoLineBreakAfter property (Word)
 keywords: vbawd10.chm157941776
 f1_keywords:
 - vbawd10.chm157941776
@@ -8,17 +8,18 @@ api_name:
 - Word.Template.NoLineBreakAfter
 ms.assetid: efe38080-35b3-16d4-ce5c-0acb9a2a52ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template.NoLineBreakAfter Property (Word)
+# Template.NoLineBreakAfter property (Word)
 
-Returns or sets the kinsoku characters after which Microsoft Word will not break a line. Read/write  **String** .
+Returns or sets the kinsoku characters after which Microsoft Word will not break a line. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `NoLineBreakAfter`
+_expression_. `NoLineBreakAfter`
 
  _expression_ A variable that represents a '[Template](Word.Template.md)' object.
 
@@ -38,3 +39,4 @@ ActiveDocument.NoLineBreakAfter = "$([\{"
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

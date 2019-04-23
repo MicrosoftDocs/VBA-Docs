@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ddc2e94c-9de0-d1dc-2c3d-9d5486ccdfda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 To run this version of Visual Basic, you must be running the specified build of Windows 95 or Windows NT version 3.51.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

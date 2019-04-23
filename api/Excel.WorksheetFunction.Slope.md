@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Slope Method (Excel)
+title: WorksheetFunction.Slope method (Excel)
 keywords: vbaxl10.chm137219
 f1_keywords:
 - vbaxl10.chm137219
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Slope
 ms.assetid: 26191331-d4eb-d054-b124-c57ebf4fef13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Slope Method (Excel)
+# WorksheetFunction.Slope method (Excel)
 
 Returns the slope of the linear regression line through data points in known_y's and known_x's. The slope is the vertical distance divided by the horizontal distance between any two points on the line, which is the rate of change along the regression line.
 
@@ -19,7 +20,7 @@ Returns the slope of the linear regression line through data points in known_y's
 
 _expression_. `Slope`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ Double
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Options.ResetTips Method (Publisher)
+title: Options.ResetTips method (Publisher)
 keywords: vbapb10.chm1048616
 f1_keywords:
 - vbapb10.chm1048616
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Options.ResetTips
 ms.assetid: a119aacc-ba19-f430-e8af-6d84c438ec25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.ResetTips Method (Publisher)
+# Options.ResetTips method (Publisher)
 
 Resets tippages so that a user can view them when using features that have been used before.
 
 
 ## Syntax
 
- _expression_. **ResetTips**
+_expression_.**ResetTips**
 
  _expression_ A variable that represents an  **Options** object.
 
@@ -39,4 +40,4 @@ Sub ResetTippages()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

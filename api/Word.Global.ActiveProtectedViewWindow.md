@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveProtectedViewWindow Property (Word)
+title: Global.ActiveProtectedViewWindow property (Word)
 keywords: vbawd10.chm163119219
 f1_keywords:
 - vbawd10.chm163119219
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.ActiveProtectedViewWindow
 ms.assetid: 4023444a-f433-7f38-bbc8-6055ed03cb6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.ActiveProtectedViewWindow Property (Word)
+# Global.ActiveProtectedViewWindow property (Word)
 
 Returns a [ProtectedViewWindow](Word.ProtectedViewWindow.md) object that represents the active protected view window (the protected view window with the focus). Read-only.
 
 
 ## Syntax
 
- _expression_. `ActiveProtectedViewWindow`
+_expression_. `ActiveProtectedViewWindow`
 
  _expression_ An expression that returns a [Global](./Word.Global.md) object.
 
@@ -45,3 +46,4 @@ End Sub
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

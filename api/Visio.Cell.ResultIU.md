@@ -1,5 +1,5 @@
 ---
-title: Cell.ResultIU Property (Visio)
+title: Cell.ResultIU property (Visio)
 keywords: vis_sdr.chm10114220
 f1_keywords:
 - vis_sdr.chm10114220
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.ResultIU
 ms.assetid: 4d752d78-e112-bb45-08c7-5411d7d79beb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.ResultIU Property (Visio)
+# Cell.ResultIU property (Visio)
 
 Gets or sets a cell's value in internal units. Read/write.
 
 
 ## Syntax
 
- _expression_. `ResultIU`
+_expression_. `ResultIU`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
@@ -34,4 +35,4 @@ Use the  **ResultIU** property to set the value of an unguarded cell. If a cell'
 
 The units default to the Microsoft Visio internal units, which are inches for distance and radians for angles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

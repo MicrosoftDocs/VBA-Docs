@@ -3,6 +3,7 @@ title: Disk failure accessing dropbox folder <name>. (Error 3470)
 ms.prod: access
 ms.assetid: d4dbd5f6-bd4b-6223-35a1-9295d5b724dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The disk might have a corrupted sector.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Width
 ms.assetid: 75292953-ccd6-8550-f7ec-38df79ad1db1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the width of the specified slicer, in points. Read/write.
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Double
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

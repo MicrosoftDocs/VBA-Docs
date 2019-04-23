@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: bd37a922-f3f2-4af3-1c6d-68fb05f42d7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Data in the specified spreadsheet range of cells cannot be deleted. These cells 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

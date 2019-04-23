@@ -1,5 +1,5 @@
 ---
-title: Application.FeatureInstall Property (PowerPoint)
+title: Application.FeatureInstall property (PowerPoint)
 keywords: vbapp10.chm502043
 f1_keywords:
 - vbapp10.chm502043
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Application.FeatureInstall
 ms.assetid: 254fc432-9ee5-d978-19ac-5fa6f94daa94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FeatureInstall Property (PowerPoint)
+# Application.FeatureInstall property (PowerPoint)
 
 Returns or sets how Microsoft PowerPoint handles calls to methods and properties that require features not yet installed. Read/write.
 
 
 ## Syntax
 
- _expression_. `FeatureInstall`
+_expression_. `FeatureInstall`
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value
@@ -39,7 +40,7 @@ The value of the  **FeatureInstall** property can be one of these **MsoFeatureIn
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFeatureInstallNone**| The default. A trappable run-time automation error is generated when uninstalled features are called.|
 |**msoFeatureInstallOnDemand**| A dialog box is displayed prompting the user to install new features.|
@@ -74,3 +75,4 @@ End With
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

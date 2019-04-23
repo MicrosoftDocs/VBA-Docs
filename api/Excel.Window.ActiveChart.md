@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.ActiveChart
 ms.assetid: 505902dd-63c3-cd11-c3cc-a82680c11768
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.ActiveChart property (Excel)
 
-Returns a  **[Chart](Excel.Chart(object).md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing** .
+Returns a  **[Chart](Excel.Chart(object).md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing**.
 
 
 ## Syntax
 
- _expression_. `ActiveChart`
+_expression_. `ActiveChart`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveChart.HasLegend = True
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

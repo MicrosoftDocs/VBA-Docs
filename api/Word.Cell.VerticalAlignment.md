@@ -1,5 +1,5 @@
 ---
-title: Cell.VerticalAlignment Property (Word)
+title: Cell.VerticalAlignment property (Word)
 keywords: vbawd10.chm156107856
 f1_keywords:
 - vbawd10.chm156107856
@@ -8,19 +8,20 @@ api_name:
 - Word.Cell.VerticalAlignment
 ms.assetid: fc4308f0-755e-251b-f7f2-6d86b78dc0b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.VerticalAlignment Property (Word)
+# Cell.VerticalAlignment property (Word)
 
-Returns or sets the vertical alignment of text in one or more cells of a table. Read/write  **WdCellVerticalAlignment** .
+Returns or sets the vertical alignment of text in one or more cells of a table. Read/write  **WdCellVerticalAlignment**.
 
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_.**VerticalAlignment**
 
- _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
+_expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Example
@@ -48,3 +49,4 @@ End With
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

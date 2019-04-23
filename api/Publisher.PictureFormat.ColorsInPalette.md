@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorsInPalette Property (Publisher)
+title: PictureFormat.ColorsInPalette property (Publisher)
 keywords: vbapb10.chm3604754
 f1_keywords:
 - vbapb10.chm3604754
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.ColorsInPalette
 ms.assetid: 34e671b1-af0e-0dac-1429-246facae975b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.ColorsInPalette Property (Publisher)
+# PictureFormat.ColorsInPalette property (Publisher)
 
  Returns a **Long** that represents the number of colors in the picture's palette. Read-only.
 
 
 ## Syntax
 
- _expression_. **ColorsInPalette**
+_expression_.**ColorsInPalette**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -62,4 +63,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

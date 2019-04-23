@@ -1,5 +1,5 @@
 ---
-title: Envelope.RecipientNamefromLeft Property (Word)
+title: Envelope.RecipientNamefromLeft property (Word)
 keywords: vbawd10.chm152567831
 f1_keywords:
 - vbawd10.chm152567831
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.RecipientNamefromLeft
 ms.assetid: d3ae0485-584c-bed2-153a-65a09bfa7ab7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.RecipientNamefromLeft Property (Word)
+# Envelope.RecipientNamefromLeft property (Word)
 
 Returns or sets a  **Single** that represents the position, measured in points, of the recipient's name from the left edge of the envelope. Read/write.
 
 
 ## Syntax
 
- _expression_. `RecipientNamefromLeft`
+_expression_. `RecipientNamefromLeft`
 
  _expression_ An expression that returns an '[Envelope](Word.Envelope.md)' object.
 
@@ -60,3 +61,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl.MouseMove Event (Outlook)
+title: OlkBusinessCardControl.MouseMove event (Outlook)
 keywords: vbaol11.chm1000331
 f1_keywords:
 - vbaol11.chm1000331
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkBusinessCardControl.MouseMove
 ms.assetid: 99608b65-7b85-e865-5a59-8053d1ea0866
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl.MouseMove Event (Outlook)
+# OlkBusinessCardControl.MouseMove event (Outlook)
 
 Occurs after a mouse movement has been registered over the control.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseMove** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkBusinessCardControl](./Outlook.OlkBusinessCardControl.md) object.
+_expression_ A variable that represents an [OlkBusinessCardControl](Outlook.OlkBusinessCardControl.md) object.
 
 
 ## Parameters
@@ -44,3 +45,4 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkBusinessCardControl Object](Outlook.OlkBusinessCardControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

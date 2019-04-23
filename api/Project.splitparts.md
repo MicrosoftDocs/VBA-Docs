@@ -1,12 +1,13 @@
 ---
-title: SplitParts Object (Project)
+title: SplitParts object (Project)
 ms.prod: project-server
 ms.assetid: bc36310c-9289-a363-f2d6-c8a0991725e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SplitParts Object (Project)
+# SplitParts object (Project)
 
 Contains a collection of  **[SplitPart](Project.SplitPart.md)** objects.
  
@@ -94,7 +95,7 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.SplitParts.Add.md)|
 
@@ -102,7 +103,7 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.SplitParts.Application.md)|
 |[Count](Project.SplitParts.Count.md)|
@@ -114,3 +115,5 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

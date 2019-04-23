@@ -1,12 +1,13 @@
 ---
-title: RecentFiles Object (Word)
+title: RecentFiles object (Word)
 ms.prod: word
 ms.assetid: c2d5e0b1-0d79-2fa7-c475-e5cace59ba1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecentFiles Object (Word)
+# RecentFiles object (Word)
 
 A collection of  **[RecentFile](Word.RecentFile.md)** objects that represents the files that have been used recently. The items in the **RecentFiles** collection are displayed at the bottom of the **File** menu.
 
@@ -48,5 +49,6 @@ The  **SaveAs** and **Open** methods include an AddToRecentFiles argument that c
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

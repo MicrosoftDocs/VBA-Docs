@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c517af05-e59c-4a56-8f66-04aa7ab040ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.MouseMove event (Access)](http://msdn.microsoft.com/library/a5676866-db8b-078d-70dc-ee159c66671c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

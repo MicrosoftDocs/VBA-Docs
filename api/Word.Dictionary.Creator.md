@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Creator Property (Word)
+title: Dictionary.Creator property (Word)
 keywords: vbawd10.chm162333673
 f1_keywords:
 - vbawd10.chm162333673
@@ -8,19 +8,20 @@ api_name:
 - Word.Dictionary.Creator
 ms.assetid: bc739b16-50ab-254d-7620-61439ecbd7a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Dictionary.Creator Property (Word)
+# Dictionary.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
+_expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3ea30548-166c-2cfc-5014-6d624a75294e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,5 @@ To overwrite the other user's changes with your own, execute the  **Update** met
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

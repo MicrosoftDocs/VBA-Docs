@@ -1,5 +1,5 @@
 ---
-title: TextStyleLevel Object (PowerPoint)
+title: TextStyleLevel object (PowerPoint)
 keywords: vbapp10.chm581000
 f1_keywords:
 - vbapp10.chm581000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.TextStyleLevel
 ms.assetid: cf9a46d6-24f1-9679-4fe9-8c431d97ef92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyleLevel Object (PowerPoint)
+# TextStyleLevel object (PowerPoint)
 
 Contains character and paragraph formatting information for an outline level. 
 
@@ -47,3 +48,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

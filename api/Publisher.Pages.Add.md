@@ -1,5 +1,5 @@
 ---
-title: Pages.Add Method (Publisher)
+title: Pages.Add method (Publisher)
 keywords: vbapb10.chm458757
 f1_keywords:
 - vbapb10.chm458757
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Pages.Add
 ms.assetid: 3c22aa15-c1dc-94c8-62d6-a1bc9635cd89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.Add Method (Publisher)
+# Pages.Add method (Publisher)
 
 Adds a new  **Page** object to the specified **Pages** object and returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
+_expression_.**Add**(**_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
 
  _expression_ A variable that represents a  **Pages** object.
 
@@ -68,4 +69,4 @@ Set thePage = ActiveDocument.Pages.Add(Count:=2, _
 Set thePage2 = ActiveDocument.Pages.Add(Count:=1, After:=6)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

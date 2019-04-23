@@ -1,5 +1,5 @@
 ---
-title: Axis Object (PowerPoint)
+title: Axis object (PowerPoint)
 keywords: vbapp10.chm682000
 f1_keywords:
 - vbapp10.chm682000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Axis
 ms.assetid: 38d5e006-ac32-7bdb-f9f0-e8a858dcbf49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis Object (PowerPoint)
+# Axis object (PowerPoint)
 
 Represents a single axis in a chart.
 
@@ -58,7 +59,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./PowerPoint.Axis.Delete.md)|
 |[Select](./PowerPoint.Axis.Select.md)|
@@ -67,7 +68,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Axis.Application.md)|
 |[AxisBetweenCategories](./PowerPoint.Axis.AxisBetweenCategories.md)|
@@ -121,4 +122,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

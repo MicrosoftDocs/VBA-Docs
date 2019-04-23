@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences Object (Word)
+title: XMLSchemaReferences object (Word)
 keywords: vbawd10.chm1772
 f1_keywords:
 - vbawd10.chm1772
@@ -8,10 +8,11 @@ api_name:
 - Word.XMLSchemaReferences
 ms.assetid: 56bef973-805c-c77a-6d2a-54a39fbd1206
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLSchemaReferences Object (Word)
+# XMLSchemaReferences object (Word)
 
 A collection of  **XMLSchemaReference** objects that represent the unique namespaces that are attached to a document.
 
@@ -45,12 +46,13 @@ End Sub
 ```
 
 
- **Note**  The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, refer to the Smart Document SDK on the Microsoft Developer Network (MSDN) Web site.
+> [!NOTE] 
+> The SimpleSample schema is included in the Smart Document Software Development Kit (SDK). For more information, refer to the Smart Document SDK on the Microsoft Developer Network (MSDN) Web site.
 
 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Cell.Shape Property (PowerPoint)
+title: Cell.Shape property (PowerPoint)
 keywords: vbapp10.chm628003
 f1_keywords:
 - vbapp10.chm628003
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Cell.Shape
 ms.assetid: 942f67bd-b4ef-3f1f-153a-5a55aaa5663c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Shape Property (PowerPoint)
+# Cell.Shape property (PowerPoint)
 
 Returns a  **[Shape](PowerPoint.Shape.md)** object that represents a shape in a table cell. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
- _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
+_expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
 ## Return value
@@ -55,3 +56,4 @@ End With
 
 [Cell Object](PowerPoint.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

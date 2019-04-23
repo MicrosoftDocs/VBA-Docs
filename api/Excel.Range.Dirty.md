@@ -1,5 +1,5 @@
 ---
-title: Range.Dirty Method (Excel)
+title: Range.Dirty method (Excel)
 keywords: vbaxl10.chm144234
 f1_keywords:
 - vbaxl10.chm144234
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Dirty
 ms.assetid: c3f177ef-19b9-07e7-a42f-978874528207
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Dirty Method (Excel)
+# Range.Dirty method (Excel)
 
 Designates a range to be recalculated when the next recalculation occurs.
 
 
 ## Syntax
 
- _expression_. `Dirty`
+_expression_. `Dirty`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ End Sub
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

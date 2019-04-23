@@ -1,5 +1,5 @@
 ---
-title: Bookmark Object (Word)
+title: Bookmark object (Word)
 keywords: vbawd10.chm2408
 f1_keywords:
 - vbawd10.chm2408
@@ -8,10 +8,11 @@ api_name:
 - Word.Bookmark
 ms.assetid: be6b0c7b-60ca-97e7-ef19-6de335da3197
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmark Object (Word)
+# Bookmark object (Word)
 
 Represents a single bookmark in a document, selection, or range. The  **Bookmark** object is a member of the **[Bookmarks](Word.bookmarks.md)** collection. The **Bookmarks** collection includes all the bookmarks listed in the **Bookmark** dialog box (**Insert** menu).
 
@@ -83,7 +84,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](Word.Bookmark.Copy.md)|
 |[Delete](Word.Bookmark.Delete.md)|
@@ -93,7 +94,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Bookmark.Application.md)|
 |[Column](Word.Bookmark.Column.md)|
@@ -109,4 +110,6 @@ End If
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

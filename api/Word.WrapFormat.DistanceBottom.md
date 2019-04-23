@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceBottom Property (Word)
+title: WrapFormat.DistanceBottom property (Word)
 keywords: vbawd10.chm163774567
 f1_keywords:
 - vbawd10.chm163774567
@@ -8,17 +8,18 @@ api_name:
 - Word.WrapFormat.DistanceBottom
 ms.assetid: 3a7903a6-1ef7-eb87-0749-39cfde7c573e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WrapFormat.DistanceBottom Property (Word)
+# WrapFormat.DistanceBottom property (Word)
 
-Returns or sets the distance (in points) between the document text and the bottom edge of the text-free area surrounding the specified shape. Read/write  **Single** .
+Returns or sets the distance (in points) between the document text and the bottom edge of the text-free area surrounding the specified shape. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `DistanceBottom`
+_expression_. `DistanceBottom`
 
  _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
@@ -69,3 +70,4 @@ End With
 
 [WrapFormat Object](Word.WrapFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

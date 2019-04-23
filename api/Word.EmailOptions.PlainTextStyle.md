@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.PlainTextStyle Property (Word)
+title: EmailOptions.PlainTextStyle property (Word)
 keywords: vbawd10.chm165347445
 f1_keywords:
 - vbawd10.chm165347445
@@ -8,24 +8,25 @@ api_name:
 - Word.EmailOptions.PlainTextStyle
 ms.assetid: e3359d77-8ea6-4026-3125-c13436b4e34f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailOptions.PlainTextStyle Property (Word)
+# EmailOptions.PlainTextStyle property (Word)
 
-Returns the  **[Style](Word.Style.md)** object that represents the text attributes for e-mail messages that are sent or received using plain text.
+Returns the  **[Style](Word.Style.md)** object that represents the text attributes for email messages that are sent or received using plain text.
 
 
 ## Syntax
 
- _expression_. `PlainTextStyle`
+_expression_. `PlainTextStyle`
 
  _expression_ A variable that represents a '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Example
 
-This example sets the plain text font for e-mail messages to Tahoma, size 10.
+This example sets the plain text font for email messages to Tahoma, size 10.
 
 
 ```vb
@@ -43,3 +44,4 @@ End Sub
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

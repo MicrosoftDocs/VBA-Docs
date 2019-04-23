@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Edit Method (Excel)
+title: ProtectedViewWindow.Edit method (Excel)
 keywords: vbaxl10.chm914087
 f1_keywords:
 - vbaxl10.chm914087
@@ -8,19 +8,20 @@ api_name:
 - Excel.ProtectedViewWindow.Edit
 ms.assetid: bdb626b2-ed4a-06d2-076c-5d242d23a162
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ProtectedViewWindow.Edit Method (Excel)
+# ProtectedViewWindow.Edit method (Excel)
 
-Opens the workbook that is open in the specified  **Protected View** window for editing.
+Opens the workbook that is open in the specified Protected View window for editing.
 
 
 ## Syntax
 
- _expression_. `Edit`( `_WriteResPassword_` , `_UpdateLinks_` )
+_expression_. `Edit`( `_WriteResPassword_` , `_UpdateLinks_` )
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Parameters
@@ -45,14 +46,14 @@ You can specify one of the values, listed in the following table, in the  _Updat
 
 
 
-|**Value**|**Meaning**|
+|Value|Description|
 |:-----|:-----|
 |0|External references (links) will not be updated when the workbook is opened.|
 |3|External references (links) will be updated when the workbook is opened.|
 
 ## Example
 
-The following code example opens the workbook that is open in the active  **Protected View** window for editing.
+The following code example opens the workbook that is open in the active Protected View window for editing.
 
 
 ```vb
@@ -68,3 +69,4 @@ Set pvWbk = ActiveProtectedViewWindow.Edit
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

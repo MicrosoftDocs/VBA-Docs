@@ -3,6 +3,7 @@ title: Page.Enabled Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: ecfd8efd-d86d-a483-7869-016cb16cc37d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 ## Syntax
 
- _expression_. **Enabled**
+_expression_.**Enabled**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ Use the  **Enabled** property to enable and disable controls. A disabled control
 
 When the user tabs into an enabled  **[MultiPage](Outlook.multipage.md)**, the first page in the control receives the focus. If the first page of a  **MultiPage** is disabled, the first enabled page of that control receives the focus. If all pages of a **MultiPage** are disabled, the control is disabled and cannot receive the focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

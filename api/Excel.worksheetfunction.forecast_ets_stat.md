@@ -1,24 +1,25 @@
 ---
-title: WorksheetFunction.Forecast_ETS_STAT Method (Excel)
+title: WorksheetFunction.Forecast_ETS_STAT method (Excel)
 keywords: vbaxl10.chm137472
 f1_keywords:
 - vbaxl10.chm137472
 ms.assetid: 6b1c0256-3146-4dc5-3f8a-27e61a982fee
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Forecast_ETS_STAT Method (Excel)
+# WorksheetFunction.Forecast_ETS_STAT method (Excel)
 
 Returns a statistical value as a result of time series forecasting.
 
 
 ## Syntax
 
- _expression_. `Forecast_ETS_STAT`( _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_,  _Arg5_,  _Arg6_)
+_expression_. `Forecast_ETS_STAT`( _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_,  _Arg5_,  _Arg6_)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -26,12 +27,12 @@ Returns a statistical value as a result of time series forecasting.
 
 
 |||||
-| _Arg1_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg2_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg1_|Required|**Variant**|Values: the historical values, for which you want to forecast the next points.|
+| _Arg2_|Required|**Variant**|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
 | _Arg3_|Required|DOUBLE|Statistic_type:??? A numeric value between 1 and 8, indicating which statistic will be returned for the calculated forecast.|
-| _Arg4_|Optional|VARIANT|Confidence level: A numerical value between 0 and 1 (exclusive), indicating a confidence level for the calculated confidence interval. See Remarks.|
-| _Arg5_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS_STAT** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
-| _Arg6_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS_STAT** aggregates multiple points that have the same time stamp. See Remarks.|
+| _Arg4_|Optional|**Variant**|Confidence level: A numerical value between 0 and 1 (exclusive), indicating a confidence level for the calculated confidence interval. See Remarks.|
+| _Arg5_|Optional|**Variant**|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS_STAT** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
+| _Arg6_|Optional|**Variant**|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS_STAT** aggregates multiple points that have the same time stamp. See Remarks.|
 
 ## Return value
 
@@ -59,7 +60,7 @@ The statistic_type parameter ( _Arg3_) indicates which statistic is requested by
     
 -  **RMSE** metric. Returns the root mean squared error metric?a measure of the differences between predicted and observed values.
     
--  **Step size detected** .? Returns the step size detected in the historical timeline.
+-  **Step size detected**.? Returns the step size detected in the historical timeline.
     
 A confidence interval ( _Arg4_) of 95% means that 95% of future points are expected to fall within this radius from the result [Forecast_ETS](Excel.worksheetfunction.forecast_ets.md) forecasted (with normal distribution). Using confidence intervals can help you grasp the accuracy of the predicted model. A smaller interval implies more confidence in the prediction for this specific point.
 
@@ -75,3 +76,4 @@ The aggregation parameter ( _Arg6_) is a numeric value specifying the method to 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

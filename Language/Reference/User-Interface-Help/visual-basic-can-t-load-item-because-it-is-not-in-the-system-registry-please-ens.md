@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b5a8460b-440f-2cda-fa62-e15cef669758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Visual Basic couldn't load the [add-in](../../Glossary/vbe-glossary.md#add-in) that you tried to select from the **Available Add-Ins** list in the **Add-In Manager** dialog box, because it was not registered properly or is no longer registered in the system[registry](../../Glossary/vbe-glossary.md#registry).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

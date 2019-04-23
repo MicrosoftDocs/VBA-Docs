@@ -1,5 +1,5 @@
 ---
-title: Document.ViewHorizontalBaseLineGuides Property (Publisher)
+title: Document.ViewHorizontalBaseLineGuides property (Publisher)
 keywords: vbapb10.chm196728
 f1_keywords:
 - vbapb10.chm196728
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ViewHorizontalBaseLineGuides
 ms.assetid: e5471313-38e0-9454-04af-4c85d976b312
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ViewHorizontalBaseLineGuides Property (Publisher)
+# Document.ViewHorizontalBaseLineGuides property (Publisher)
 
 Sets or returns a  **Boolean** that represents whether or not the horizontal baseline guides are visible in the specified **Document** object. **True** if they are visible. **False** if they are not visible. Read/write.
 
 
 ## Syntax
 
- _expression_. ****
+_expression_.****
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -45,4 +46,4 @@ objDocument.ViewHorizontalBaseLineGuides = True
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

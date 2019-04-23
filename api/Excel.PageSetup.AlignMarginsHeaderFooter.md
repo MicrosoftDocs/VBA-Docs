@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.AlignMarginsHeaderFooter
 ms.assetid: b5fde8f6-3e77-e3f1-422b-af88ec31d6ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.AlignMarginsHeaderFooter property (Excel)
 
-Returns  **True** for Excel to align the header and the footer with the margins set in the page setup options. Read/write **Boolean** .
+Returns  **True** for Excel to align the header and the footer with the margins set in the page setup options. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AlignMarginsHeaderFooter`
+_expression_. `AlignMarginsHeaderFooter`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns  **True** for Excel to align the header and the footer with the margins 
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

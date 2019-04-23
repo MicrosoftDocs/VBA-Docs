@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.Application Property (PowerPoint)
+title: MotionEffect.Application property (PowerPoint)
 keywords: vbapp10.chm658001
 f1_keywords:
 - vbapp10.chm658001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect.Application
 ms.assetid: c85f081d-d6b7-d628-7cff-95c1da8eb74e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect.Application Property (PowerPoint)
+# MotionEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

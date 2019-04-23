@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.GetMemberShapes Method (Visio)
+title: ContainerProperties.GetMemberShapes method (Visio)
 keywords: vis_sdr.chm17662350
 f1_keywords:
 - vis_sdr.chm17662350
@@ -8,17 +8,18 @@ api_name:
 - Visio.ContainerProperties.GetMemberShapes
 ms.assetid: 4fb246c7-b86d-4e90-ef91-9cac988dbbb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContainerProperties.GetMemberShapes Method (Visio)
+# ContainerProperties.GetMemberShapes method (Visio)
 
 Returns the shape identifiers (IDs) of all members of the container, as specified.
 
 
 ## Syntax
 
- _expression_. `GetMemberShapes`( `_ContainerFlags_` )
+_expression_. `GetMemberShapes`( `_ContainerFlags_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
@@ -42,7 +43,7 @@ The _ContainerFlags_ parameter can be one or more of the following **VisContaine
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerFlagsDefault**|0|Returns all shape types and includes items in nested containers.|
 | **visContainerFlagsExcludeContainers**|1|Excludes member shapes that are containers.|
@@ -67,4 +68,4 @@ For Each memberID In vsoContainerShape.ContainerProperties.GetMemberShapes(visCo
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

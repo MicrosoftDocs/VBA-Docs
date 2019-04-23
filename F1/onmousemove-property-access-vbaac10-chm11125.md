@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e1e2e14b-e574-4203-94c3-57e8f45a8743
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.OnMouseMove property (Access)](http://msdn.microsoft.com/library/7201a61b-5b69-c13f-63bf-a2a5f329ecc5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

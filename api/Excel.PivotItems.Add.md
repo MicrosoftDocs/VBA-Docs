@@ -1,5 +1,5 @@
 ---
-title: PivotItems.Add Method (Excel)
+title: PivotItems.Add method (Excel)
 keywords: vbaxl10.chm248074
 f1_keywords:
 - vbaxl10.chm248074
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotItems.Add
 ms.assetid: 2d24bb3f-e765-c78c-bef0-787db82056c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotItems.Add Method (Excel)
+# PivotItems.Add method (Excel)
 
 Creates a new PivotTable item.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_.**Add** (_Name_)
 
- _expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
+_expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
 
 
 ## Parameters
@@ -46,3 +47,4 @@ Worksheets(1).PivotTables(1).PivotItems("Year").Add "1998"
 
 [PivotItems Object](Excel.PivotItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

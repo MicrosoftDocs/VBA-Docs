@@ -1,14 +1,15 @@
 ---
-title: PjTaskTimescaledData Enumeration (Project)
+title: PjTaskTimescaledData enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskTimescaledData
 ms.assetid: ece1e216-a43b-4d62-f866-83937f7a493a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTaskTimescaledData Enumeration (Project)
+# PjTaskTimescaledData enumeration (Project)
 
 Contains constants that specify the type of field for task timescaled data in the Project database. For more information about working with fields in Project, see the "Fields reference overview" topic in Project Help.
 
@@ -83,7 +84,7 @@ Contains constants that specify the type of field for task timescaled data in th
 |**pjTaskTimescaledBaseline8BudgetWork**|1233|Baseline8 Budget Work (task) field.|
 |**pjTaskTimescaledBaseline8Cost**|568|Baseline8 Cost (task) field.|
 |**pjTaskTimescaledBaseline8CumulativeWork**|1376|Baseline8 cumulative work (task) field.|
-|**pjTaskTimescaledBaseline4RemainingCumulativeWork**|1354|Baseline8 remaining cumulative work (task) field.|
+|**pjTaskTimescaledBaseline8RemainingCumulativeWork**|1354|Baseline8 remaining cumulative work (task) field.|
 |**pjTaskTimescaledBaseline8RemainingTasks**|1365|Baseline8 remaining tasks (task) field.|
 |**pjTaskTimescaledBaseline8Work**|569|Baseline8 Work (task) field.|
 |**pjTaskTimescaledBaseline9BudgetCost**|1241|Baseline9 Budget Cost (task) field.|
@@ -108,7 +109,7 @@ Contains constants that specify the type of field for task timescaled data in th
 |**pjTaskTimescaledCPI**|537|CPI (task) field.|
 |**pjTaskTimescaledCumulativeActualWork**|1341|Cumulative actual work (task) field.|
 |**pjTaskTimescaledCumulativeCost**|177|Cumulative Cost (task) field.|
-|**pjTaskTimescaledCumulativePercentComplete**|240|Cmulative Percent Complete (task) field.|
+|**pjTaskTimescaledCumulativePercentComplete**|240|Cumulative Percent Complete (task) field.|
 |**pjTaskTimescaledCumulativeWork**|176|Cumulative Work (task) field.|
 |**pjTaskTimescaledCV**|83|CV (task) field.|
 |**pjTaskTimescaledCVP**|539|CVP (task) field.|
@@ -137,3 +138,5 @@ For more information about working with fields in Project, see the  _Available f
 
 
 [Available fields reference](https://support.office.com/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,17 +1,18 @@
 ---
-title: Reports.Copy Method (Project)
+title: Reports.Copy method (Project)
 ms.prod: project-server
 ms.assetid: fd930e98-4200-05e0-67e3-f4d34ae26928
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reports.Copy Method (Project)
+# Reports.Copy method (Project)
 Copies a custom report and creates a new report with the same content.
 
 ## Syntax
 
- _expression_. `Copy` _(Source,_ _NewName)_
+_expression_.**Copy** (_Source_, _NewName_)
 
  _expression_ A variable that represents a 'Reports' object.
 
@@ -20,12 +21,12 @@ Copies a custom report and creates a new report with the same content.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**Variant**|Name or  **Report** object of the report to copy.|
 | _NewName_|Required|**String**|Name of the new report.|
-| _Source_|Required|VARIANT||
-| _NewName_|Required|STRING||
+| _Source_|Required|**Variant**||
+| _NewName_|Required|**String**||
 
 ## Return value
 
@@ -85,3 +86,5 @@ End Sub
 
 [Reports Object](Project.reports.md)
 [Report Object](Project.report.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

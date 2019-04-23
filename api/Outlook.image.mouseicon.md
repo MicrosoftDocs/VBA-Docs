@@ -3,6 +3,7 @@ title: Image.MouseIcon Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1c580dce-1f38-7e40-2ddb-0bb9e6ae0f6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns a  **String** that represents the full path name of a custom icon that i
 
 ## Syntax
 
- _expression_. **MouseIcon**
+_expression_.**MouseIcon**
 
- _expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks
@@ -24,4 +25,4 @@ The  **MouseIcon** property is valid when the **[MousePointer](Outlook.image.mou
 
 To assign an image for the mouse pointer, you can either assign a picture to the  **MouseIcon** property or load a picture from a file using the **LoadPicture** function in Visual Basic Scripting Edition.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

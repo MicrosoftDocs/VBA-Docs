@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.BlackWhiteMode Property (Publisher)
+title: ShapeRange.BlackWhiteMode property (Publisher)
 keywords: vbapb10.chm2293872
 f1_keywords:
 - vbapb10.chm2293872
@@ -8,24 +8,25 @@ api_name:
 - Publisher.ShapeRange.BlackWhiteMode
 ms.assetid: c85babbd-f05d-c3e1-3265-c08888eaf212
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.BlackWhiteMode Property (Publisher)
+# ShapeRange.BlackWhiteMode property (Publisher)
 
 Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified shape or shape range appears when the publication is viewed in black-and-white mode. Read/write.
 
 
 ## Syntax
 
- _expression_. **BlackWhiteMode**
+_expression_.**BlackWhiteMode**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks
 
-The  **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](./Office.MsoBlackWhiteMode.md)** constants declared in the Microsoft Office type library.
+The  **BlackWhiteMode** property value can be one of the **[MsoBlackWhiteMode](Office.MsoBlackWhiteMode.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -37,4 +38,4 @@ This example sets the first shape in the active publication to appear in black-a
 ActiveDocument.Pages(1).Shapes(1).BlackWhiteMode = msoBlackWhiteBlack
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,58 +7,54 @@ ms.prod: access
 api_name:
 - Access.Image.HyperlinkAddress
 ms.assetid: e92e7d7e-8447-9c9d-4d17-55c479d13228
-ms.date: 06/08/2017
+ms.date: 03/05/2019
+localization_priority: Normal
 ---
 
 
 # Image.HyperlinkAddress property (Access)
 
-You can use the  **HyperlinkAddress** property to specify or determine the path to an object, document, Web page or other destination for a hyperlink associated with a the specified control. Read/write **String**.
+You can use the **HyperlinkAddress** property to specify or determine the path to an object, document, web page, or other destination for a hyperlink associated with the specified control. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `HyperlinkAddress`
+_expression_.**HyperlinkAddress**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks
 
-The  **HyperlinkAddress** property is a string expression representing the path to a file (UNC path) or Web page (URL).
+The **HyperlinkAddress** property is a string expression representing the path to a file (UNC path) or web page (URL).
 
+When you set the **HyperlinkAddress** property, you automatically specify the **Address** property for the **[Hyperlink](access.hyperlink.md)** object associated with the control.
 
- **Note**  When you set the  **HyperlinkAddress** property, you automatically specify the **Address** property for the **Hyperlink** object associated with the control.
+> [!NOTE] 
+> When you create a hyperlink by using the **Insert Hyperlink** dialog box, Microsoft Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or web page name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.
 
+If you copy a hyperlink from another application and paste it into a form or report, Access creates a label control with its **Caption** property, **HyperlinkAddress** property, and **HyperlinkSubAddress** property automatically set.
 
- **Note**  When you create a hyperlink by using the  **Insert Hyperlink** dialog box, Microsoft Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or Web page name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.
+When you move the cursor over a command button, image control, or label control whose **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Choosing the control displays the object or web page specified by the link.
 
-If you copy a hyperlink from another application and paste it into a form or report, Microsoft Access creates a label control with its  **Caption** property, **HyperlinkAddress** property, and **HyperlinkSubAddress** property automatically set.
+To open objects in the current database, leave the **HyperlinkAddress** property blank and specify the object type and object name that you want to open in the **HyperlinkSubAddress** property by using the syntax _objecttype objectname_. If you want to open an object contained in another Access database, enter the database path and file name in the **HyperlinkAddress** property and specify the database object to open by using the **HyperlinkSubAddress** property.
 
-When you move the cursor over a command button, image control, or label control whose  **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or Web page specified by the link.
+The **HyperlinkAddress** property can contain an absolute or a relative path to a target document. An absolute path is a fully qualified URL or UNC path to a document. A relative path is a path related to the base path specified in the **Hyperlink Base** setting in the **Properties** dialog box (available by choosing **Database Properties** on the **File** menu) or to the current database path. If Access can't resolve the **HyperlinkAddress** property setting to a valid URL or UNC path, it will assume that you have specified a path relative to the base path contained in the **Hyperlink Base** setting or the current database path.
 
-To open objects in the current database, leave the  **HyperlinkAddress** property blank and specify the object type and object name you want to open in the **HyperlinkSubAddress** property by using the syntax "objecttype objectname". If you want to open an object contained in another Microsoft Access database, enter the database path and file name in the **HyperlinkAddress** property and specify the database object to open by using the **HyperlinkSubAddress** property.
+> [!NOTE] 
+> When you follow a hyperlink to another Access database object, the database Startup properties are applied. For example, if the destination database has a Display form set, that form is displayed when the database opens.
 
-The  **HyperlinkAddress** property can contain an absolute or a relative path to a target document. An absolute path is a fully qualified URL or UNC path to a document. A relative path is a path related to the base path specified in the **Hyperlink Base** setting in the **Properties** dialog box (available by clicking **Database Properties** on the **File** menu) or to the current database path. If Microsoft Access can't resolve the **HyperlinkAddress** property setting to a valid URL or UNC path, it will assume you've specified a path relative to the base path contained in the **Hyperlink Base** setting or the current database path.
+The following table contains examples of **HyperlinkAddress** and **HyperlinkSubAddress** property settings.
 
-
- **Note**  When you follow a hyperlink to another Microsoft Access database object, the database Startup properties are applied. For example, if the destination database has a Display form set, that form is displayed when the database opens.
-
-The following table contains examples of  **HyperlinkAddress** and **HyperlinkSubAddress** property settings.
-
-
-
-|**HyperlinkAddress**|**HyperlinkSubAddress**|**Description**|
+|HyperlinkAddress|HyperlinkSubAddress|Description|
 |:-----|:-----|:-----|
-|https://www.microsoft.com/||The Microsoft home page on the Web.|
-|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm||The Cajun Delights page in the Access sample applications subdirectory.|
-|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm|NewProducts|The "NewProducts" Name tag in the Cajun Delights page.|
-|C:\Personal\MyResume.doc|References|The bookmark named "References" in the Microsoft Word document "MyResume.doc".|
-|C:\Finance\First Quarter.xls|Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet "First Quarter.xls".|
-|C:\Presentation\NewPlans.ppt|10|The 10th slide in the Microsoft PowerPoint document "NewPlans.ppt".|
-
-## See also
+|https://www.microsoft.com/ ||The Microsoft home page on the web.|
+|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm ||The Cajun Delights page in the Access sample applications subdirectory.|
+|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm |NewProducts|The "NewProducts" Name tag on the Cajun Delights page.|
+|C:\Personal\MyResume.doc |References|The bookmark named "References" in the Microsoft Word document MyResume.doc.|
+|C:\Finance\FirstQuarter.xls |Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet FirstQuarter.xls.|
+|C:\Presentation\NewPlans.ppt |10|The tenth slide in the Microsoft PowerPoint document NewPlans.ppt.|
 
 
-[Image Object](Access.Image.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Workbook.AfterRemoteChange Event (Excel)
+title: Workbook.AfterRemoteChange event (Excel)
 keywords: vbaxl10.chm504121
 f1_keywords:
 - vbaxl10.chm504121
@@ -7,10 +7,11 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.AfterRemoteChange
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.AfterRemoteChange Event (Excel)
+# Workbook.AfterRemoteChange event (Excel)
 
 Occurs after a remote user's edits to the workbook are merged.
 
@@ -46,3 +47,5 @@ End Sub
 [coauthoring](../excel/Concepts/about-coauthoring-in-excel.md)
 
 [Workbook Object](Excel.Workbook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

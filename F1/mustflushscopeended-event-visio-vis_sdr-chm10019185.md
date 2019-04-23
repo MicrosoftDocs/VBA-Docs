@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7b0e3425-23a4-447e-9f55-6cafb57d3d7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.MustFlushScopeEnded Event (Visio)](http://msdn.microsoft.com/library/ba9ae16a-9cc6-79d6-d838-e5927937c142%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock Object (Publisher)
+title: BuildingBlock object (Publisher)
 keywords: vbapb10.chm9568255
 f1_keywords:
 - vbapb10.chm9568255
@@ -8,10 +8,11 @@ api_name:
 - Publisher.BuildingBlock
 ms.assetid: e0ffded4-2fc7-b163-a12b-a06cf75c2826
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlock Object (Publisher)
+# BuildingBlock object (Publisher)
 
 Represents a single building block. The  **BuildingBlock** object is a member of the **[BuildingBlocks](Publisher.BuildingBlocks.md)** collection.
  
@@ -21,7 +22,7 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.BuildingBlock.Delete.md)|
 
@@ -29,7 +30,7 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Category](Publisher.BuildingBlock.Category.md)|
 |[Description](Publisher.BuildingBlock.Description.md)|
@@ -39,3 +40,4 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 |[ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md)|
 |[Type](Publisher.BuildingBlock.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

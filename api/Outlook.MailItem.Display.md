@@ -1,5 +1,5 @@
 ---
-title: MailItem.Display Method (Outlook)
+title: MailItem.Display method (Outlook)
 keywords: vbaol11.chm1323
 f1_keywords:
 - vbaol11.chm1323
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.Display
 ms.assetid: 19ead642-b7bd-579f-e43b-ef5c5d0cfecb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.Display Method (Outlook)
+# MailItem.Display method (Outlook)
 
 Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 
 ## Syntax
 
- _expression_. `Display`( `_Modal_` )
+_expression_. `Display`( `_Modal_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
 
 ## Remarks
 
@@ -78,3 +79,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

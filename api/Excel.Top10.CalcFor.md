@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.CalcFor
 ms.assetid: 4ab81649-8221-a83d-5e51-0c4dbe01b175
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Returns or sets one of the constants of the  **[XlCalcFor](Excel.XlCalcFor.md)**
 
 ## Syntax
 
- _expression_. `CalcFor`
+_expression_.**CalcFor**
 
- _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
+_expression_ A variable that represents a [Top10](Excel.Top10.md) object.
 
 
 ## Remarks
 
 This property is applicable only when the conditional format is being applied to data in a PivotTable report.
 
-This property can be set to  **xlAllValues** , **xlColGroups** , or **xlRowGroups** only if the **[Top10.ScopeType](Excel.Top10.ScopeType.md)** property is set to **xlFieldsScope** .
+This property can be set to  **xlAllValues**, **xlColGroups**, or **xlRowGroups** only if the **[Top10.ScopeType](Excel.Top10.ScopeType.md)** property is set to **xlFieldsScope**.
 
 
 ## See also
@@ -35,3 +36,4 @@ This property can be set to  **xlAllValues** , **xlColGroups** , or **xlRowGroup
 
 [Top10 Object](Excel.Top10.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

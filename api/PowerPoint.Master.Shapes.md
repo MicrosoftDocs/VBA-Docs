@@ -1,5 +1,5 @@
 ---
-title: Master.Shapes Property (PowerPoint)
+title: Master.Shapes property (PowerPoint)
 keywords: vbapp10.chm533003
 f1_keywords:
 - vbapp10.chm533003
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Master.Shapes
 ms.assetid: a4620f02-d3d2-da87-6bbc-430557365c2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.Shapes Property (PowerPoint)
+# Master.Shapes property (PowerPoint)
 
 Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the elements that have been placed or inserted on the specified slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
@@ -98,3 +99,4 @@ testShape.TextFrame.TextRange.Text = "First Item" & _
 
 [Master Object](PowerPoint.Master.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

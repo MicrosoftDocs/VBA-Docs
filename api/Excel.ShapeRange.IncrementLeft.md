@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementLeft Method (Excel)
+title: ShapeRange.IncrementLeft method (Excel)
 keywords: vbaxl10.chm640083
 f1_keywords:
 - vbaxl10.chm640083
@@ -8,19 +8,20 @@ api_name:
 - Excel.ShapeRange.IncrementLeft
 ms.assetid: 604e8e92-b03a-da67-7022-4d73ebdf9872
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementLeft Method (Excel)
+# ShapeRange.IncrementLeft method (Excel)
 
 Moves the specified shape horizontally by the specified number of points.
 
 
 ## Syntax
 
- _expression_. `IncrementLeft`( `_Increment_` )
+_expression_. `IncrementLeft`( `_Increment_` )
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Parameters
@@ -33,7 +34,7 @@ Moves the specified shape horizontally by the specified number of points.
 
 ## Example
 
-This example duplicates shape one on  `myDocument`, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
+This example duplicates shape one on  _myDocument_, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
 
 
 ```vb
@@ -52,3 +53,4 @@ End With
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

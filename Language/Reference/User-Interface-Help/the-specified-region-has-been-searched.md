@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1fbad072-24ca-7b4c-b3a1-b7fc546e9e90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ When you click the  **Find Next** and **Replace** buttons in the **Replace** dia
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

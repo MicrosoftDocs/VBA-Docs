@@ -1,5 +1,5 @@
 ---
-title: Selection.Expand Method (Word)
+title: Selection.Expand method (Word)
 keywords: vbawd10.chm158662785
 f1_keywords:
 - vbawd10.chm158662785
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Expand
 ms.assetid: 8b716453-7656-e8b8-f6b0-0dc97ef2714d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Expand Method (Word)
+# Selection.Expand method (Word)
 
-Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long** .
+Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long**.
 
 
 ## Syntax
 
- _expression_. `Expand`( `_Unit_` )
+_expression_. `Expand`( `_Unit_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Expands the specified range or selection. Returns the number of characters added
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|A  **[WdUnits](Word.WdUnits.md)** constant that represents the unit by which to expand the range. The default value is **wdWord** .|
+| _Unit_|Optional| **Variant**|A  **[WdUnits](Word.WdUnits.md)** constant that represents the unit by which to expand the range. The default value is **wdWord**.|
 
 ## Example
 
@@ -49,3 +50,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Validation.Type
 ms.assetid: 77c7a82b-2bfc-3eff-9cef-4a0ea2ad7e13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value, containing a **[XlDVType](Excel.XlDVType.md)** consta
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value, containing a **[XlDVType](Excel.XlDVType.md)** consta
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

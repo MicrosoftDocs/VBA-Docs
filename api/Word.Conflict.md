@@ -1,5 +1,5 @@
 ---
-title: Conflict Object (Word)
+title: Conflict object (Word)
 keywords: vbawd10.chm1201
 f1_keywords:
 - vbawd10.chm1201
@@ -8,10 +8,11 @@ api_name:
 - Word.Conflict
 ms.assetid: e9fe0318-d3e3-7589-0c15-64210ac5b709
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Conflict Object (Word)
+# Conflict object (Word)
 
 Represents a conflicting edit in a co authored document. The type of a  **Conflict** object is specified by the [WdRevisionType](Word.WdRevisionType.md) enumeration.
 
@@ -47,5 +48,6 @@ Next con
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

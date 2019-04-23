@@ -1,5 +1,5 @@
 ---
-title: Application.SetTPField Method (Project)
+title: Application.SetTPField method (Project)
 keywords: vbapj.chm1513
 f1_keywords:
 - vbapj.chm1513
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetTPField
 ms.assetid: 66867c0a-e5a7-9492-463b-0cb955f020df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetTPField Method (Project)
+# Application.SetTPField method (Project)
 
 Sets a value for the percent complete field of one or more tasks in the Team Planner view.
 
 
 ## Syntax
 
- _expression_. `SetTPField`( ` _Field_`, ` _Value_`, ` _AllSelectedTasks_`, ` _Create_`, ` _TaskID_`, ` _ProjectName_` )
+_expression_. `SetTPField`( `_Field_`, `_Value_`, `_AllSelectedTasks_`, `_Create_`, `_TaskID_`, `_ProjectName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sub TestSetTPField()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

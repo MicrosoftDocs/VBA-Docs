@@ -1,5 +1,5 @@
 ---
-title: Range.CheckGrammar Method (Word)
+title: Range.CheckGrammar method (Word)
 keywords: vbawd10.chm157155532
 f1_keywords:
 - vbawd10.chm157155532
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.CheckGrammar
 ms.assetid: 3ae0e80f-0165-be96-af12-b231d1f3a1b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.CheckGrammar Method (Word)
+# Range.CheckGrammar method (Word)
 
 Begins a spelling and grammar check for the specified range.
 
 
 ## Syntax
 
- _expression_. `CheckGrammar`
+_expression_. `CheckGrammar`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ Selection.Range.CheckGrammar
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

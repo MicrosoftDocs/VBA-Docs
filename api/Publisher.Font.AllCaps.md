@@ -1,5 +1,5 @@
 ---
-title: Font.AllCaps Property (Publisher)
+title: Font.AllCaps property (Publisher)
 keywords: vbapb10.chm5373959
 f1_keywords:
 - vbapb10.chm5373959
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.AllCaps
 ms.assetid: e8394f91-de31-0075-51ac-8a372023f0ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.AllCaps Property (Publisher)
+# Font.AllCaps property (Publisher)
 
 Returns or sets  **msoTrue** if the font is formatted as all capital letters, or returns one of the other **MsoTriState** constants if it is not. Read/write.
 
 
 ## Syntax
 
- _expression_. **AllCaps**
+_expression_.**AllCaps**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -32,7 +33,7 @@ MsoTriState
 
 Setting the  **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
 
-The  **AllCaps** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **AllCaps** property value can be one of the **[MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -71,4 +72,4 @@ Public Sub MakeCaps()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

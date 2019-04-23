@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 3d4f2cc1-adb9-19bd-600b-2e267ddaea6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ To run this builder, click the  **Build** button next to the appropriate propert
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

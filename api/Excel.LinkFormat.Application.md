@@ -8,6 +8,7 @@ api_name:
 - Excel.LinkFormat.Application
 ms.assetid: 47e722cf-9fe3-15f2-495a-abcb680c846a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [LinkFormat](Excel.LinkFormat.md) object.
+_expression_ A variable that represents a [LinkFormat](Excel.LinkFormat.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [LinkFormat Object](Excel.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

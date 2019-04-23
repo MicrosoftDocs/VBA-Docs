@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderHorizontal Property (PowerPoint)
+title: DataTable.HasBorderHorizontal property (PowerPoint)
 keywords: vbapp10.chm698002
 f1_keywords:
 - vbapp10.chm698002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.DataTable.HasBorderHorizontal
 ms.assetid: 6fb381e0-f990-656d-89e7-cb2f43a84ece
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataTable.HasBorderHorizontal Property (PowerPoint)
+# DataTable.HasBorderHorizontal property (PowerPoint)
 
  **True** if the chart data table has horizontal cell borders. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasBorderHorizontal`
+_expression_. `HasBorderHorizontal`
 
- _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
+_expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
 
 
 ## Example
@@ -67,3 +68,4 @@ End With
 
 [DataTable Object](PowerPoint.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

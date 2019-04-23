@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCache.RecordCount
 ms.assetid: 5fcdcf2d-d52f-6ac1-ef09-8377fc5a1f4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotCache.RecordCount property (Excel)
 
-Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long** .
+Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `RecordCount`
+_expression_. `RecordCount`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ MsgBox Worksheets(1).PivotTables("Pivot1") _
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

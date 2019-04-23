@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ee23d8d9-d815-f09e-d87a-dd2db71ef093
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,4 +46,4 @@ Function Item_Open()
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

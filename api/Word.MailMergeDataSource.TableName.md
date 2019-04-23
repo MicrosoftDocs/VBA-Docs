@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.TableName Property (Word)
+title: MailMergeDataSource.TableName property (Word)
 keywords: vbawd10.chm152895505
 f1_keywords:
 - vbawd10.chm152895505
@@ -8,17 +8,18 @@ api_name:
 - Word.MailMergeDataSource.TableName
 ms.assetid: 0dd6f6de-a4b3-383f-d2eb-c76539540d73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.TableName Property (Word)
+# MailMergeDataSource.TableName property (Word)
 
 Returns a  **String** with the SQL query used to retrieve the records from the data source file attached to a mail merge document. Read-only.
 
 
 ## Syntax
 
- _expression_. `TableName`
+_expression_. `TableName`
 
  _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
@@ -54,3 +55,4 @@ End Sub
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

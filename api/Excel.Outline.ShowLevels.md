@@ -1,5 +1,5 @@
 ---
-title: Outline.ShowLevels Method (Excel)
+title: Outline.ShowLevels method (Excel)
 keywords: vbaxl10.chm455074
 f1_keywords:
 - vbaxl10.chm455074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Outline.ShowLevels
 ms.assetid: 2ebeb135-bbb9-aac1-57d7-02a141aa3ddb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Outline.ShowLevels Method (Excel)
+# Outline.ShowLevels method (Excel)
 
 Displays the specified number of row and/or column levels of an outline.
 
 
 ## Syntax
 
- _expression_. `ShowLevels`( `_RowLevels_` , `_ColumnLevels_` )
+_expression_. `ShowLevels`( `_RowLevels_` , `_ColumnLevels_` )
 
- _expression_ A variable that represents an [Outline](Excel.Outline.md) object.
+_expression_ A variable that represents an [Outline](Excel.Outline.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Worksheets("Sheet1").Outline _
 
 [Outline Object](Excel.Outline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

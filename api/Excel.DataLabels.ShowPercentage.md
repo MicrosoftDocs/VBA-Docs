@@ -8,19 +8,20 @@ api_name:
 - Excel.DataLabels.ShowPercentage
 ms.assetid: c8afd00d-3443-8366-6c74-d426237c6fd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DataLabels.ShowPercentage property (Excel)
 
- **True** to display the percentage value for the data labels on a chart. **False** to hide. Read/write **Boolean** .
+ **True** to display the percentage value for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowPercentage`
+_expression_. `ShowPercentage`
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End Sub
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

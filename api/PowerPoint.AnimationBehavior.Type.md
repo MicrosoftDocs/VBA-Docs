@@ -1,5 +1,5 @@
 ---
-title: AnimationBehavior.Type Property (PowerPoint)
+title: AnimationBehavior.Type property (PowerPoint)
 keywords: vbapp10.chm657005
 f1_keywords:
 - vbapp10.chm657005
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AnimationBehavior.Type
 ms.assetid: e809fec8-e5c7-6e04-b2a9-200e76d4c23b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehavior.Type Property (PowerPoint)
+# AnimationBehavior.Type property (PowerPoint)
 
 Represents the type of animation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
- _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
+_expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ## Return value
@@ -40,7 +41,7 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 |**MsoAnimTypeMotion**|
 |**MsoAnimTypeNone**|
 |**MsoAnimTypeProperty**|
-|**MsoAnimTypeRoatation**|
+|**MsoAnimTypeRotation**|
 |**MsoAnimTypeScale**|
 |**MsoAnimTypeTransition**|
 
@@ -49,3 +50,4 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Controls in a Custom Form
 ms.prod: outlook
 ms.assetid: fcba1b34-c526-5d01-8644-cb8852bd2348
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -124,5 +125,4 @@ The following summarizes the differences between Forms 2.0 controls and Outlook 
 |Controls displayed properly in runtime in Outlook 2003 or earlier|Yes|No|
 |Controls displayed properly in runtime in Office Outlook 2007 or later|Yes|Yes|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

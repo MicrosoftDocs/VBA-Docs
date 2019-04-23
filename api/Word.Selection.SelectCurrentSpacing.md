@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentSpacing Method (Word)
+title: Selection.SelectCurrentSpacing method (Word)
 keywords: vbawd10.chm158663175
 f1_keywords:
 - vbawd10.chm158663175
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.SelectCurrentSpacing
 ms.assetid: 1a49caa6-d261-e9d7-9d64-c564c30a7e29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.SelectCurrentSpacing Method (Word)
+# Selection.SelectCurrentSpacing method (Word)
 
 Extends the selection forward until a paragraph with different line spacing is encountered.
 
 
 ## Syntax
 
- _expression_. `SelectCurrentSpacing`
+_expression_. `SelectCurrentSpacing`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.MediaType Property (PowerPoint)
+title: Shape.MediaType property (PowerPoint)
 keywords: vbapp10.chm547054
 f1_keywords:
 - vbapp10.chm547054
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.MediaType
 ms.assetid: c42e3490-a4c9-d0bf-a201-71deff78d4b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.MediaType Property (PowerPoint)
+# Shape.MediaType property (PowerPoint)
 
 Returns the OLE media type. Read-only.
 
 
 ## Syntax
 
- _expression_. `MediaType`
+_expression_. `MediaType`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -67,3 +68,4 @@ Next
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

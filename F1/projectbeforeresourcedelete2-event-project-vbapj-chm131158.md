@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f7326d6d-eb2d-4376-bbd7-68dc7ff93997
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeResourceChange Event (Project)](http://msdn.microsoft.com/library/d676f2c7-8857-70d7-41c6-4c505a0bcbcc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

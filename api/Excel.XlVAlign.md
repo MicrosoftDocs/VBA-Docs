@@ -1,14 +1,15 @@
 ---
-title: xlVAlign enumeration (Excel)
+title: XlVAlign enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlVAlign
 ms.assetid: 89d342c9-6452-a8ca-363c-f0ea1b031070
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlVAlign enumeration (Excel)
+# XlVAlign enumeration (Excel)
 
 Specifies the vertical alignment for the object.
 
@@ -22,3 +23,4 @@ Specifies the vertical alignment for the object.
 | **xlVAlignJustify**|-4130|Justify|
 | **xlVAlignTop**|-4160|Top|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

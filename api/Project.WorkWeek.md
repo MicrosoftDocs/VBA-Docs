@@ -1,5 +1,5 @@
 ---
-title: WorkWeek Object (Project)
+title: WorkWeek object (Project)
 keywords: vbapj.chm131359
 f1_keywords:
 - vbapj.chm131359
@@ -8,10 +8,11 @@ api_name:
 - Project.WorkWeek
 ms.assetid: d2dc3a0a-a869-2675-5e1c-971157a9d499
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorkWeek Object (Project)
+# WorkWeek object (Project)
 
 Represents a single calendar work week. The  **WorkWeek** object is a member of the **[WorkWeeks](Project.workweeks.md)** collection.
  
@@ -32,7 +33,7 @@ Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collect
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.WorkWeek.Delete.md)|
 
@@ -40,7 +41,7 @@ Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collect
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WorkWeek.Application.md)|
 |[Finish](Project.WorkWeek.Finish.md)|
@@ -55,3 +56,5 @@ Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collect
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

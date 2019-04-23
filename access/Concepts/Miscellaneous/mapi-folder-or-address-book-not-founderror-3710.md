@@ -3,6 +3,7 @@ title: MAPI folder or address book not found. (Error 3710)
 ms.prod: access
 ms.assetid: 3c3cb861-033a-bcee-5072-146ffd53034e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -31,3 +32,5 @@ The Microsoft Outlook/Exchange driver could not find the folder or address book 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

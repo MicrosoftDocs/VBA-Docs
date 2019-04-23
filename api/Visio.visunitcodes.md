@@ -1,21 +1,22 @@
 ---
-title: VisUnitCodes Enumeration (Visio)
+title: VisUnitCodes enumeration (Visio)
 keywords: vis_sdr.chm70000
 f1_keywords:
 - vis_sdr.chm70000
 ms.prod: visio
 ms.assetid: fce91c1b-d5c2-6522-2446-0b8f6cacbc84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisUnitCodes Enumeration (Visio)
+# VisUnitCodes enumeration (Visio)
 
 Unit codes used in conjunction with  **Cell.Result** and similar properties.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAcre**|36|Acre|
 | **visAngleUnits**|80|Angle units|
@@ -65,3 +66,4 @@ Unit codes used in conjunction with  **Cell.Result** and similar properties.
 | **visUnitsString**|231|String units|
 | **visYards**|75|Yards|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

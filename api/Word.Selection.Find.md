@@ -1,5 +1,5 @@
 ---
-title: Selection.Find Property (Word)
+title: Selection.Find property (Word)
 keywords: vbawd10.chm158662918
 f1_keywords:
 - vbawd10.chm158662918
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Find
 ms.assetid: 66004412-4da2-586d-887c-6f9867e06ea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Find Property (Word)
+# Selection.Find property (Word)
 
 Returns a  **[Find](Word.Find.md)** object that contains the criteria for a find operation. Read-only.
 
 
 ## Syntax
 
- _expression_. `Find`
+_expression_. `Find`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End With
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

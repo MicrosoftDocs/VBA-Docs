@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DateDisplayFormat Property (Word)
+title: ContentControl.DateDisplayFormat property (Word)
 keywords: vbawd10.chm266534925
 f1_keywords:
 - vbawd10.chm266534925
@@ -8,17 +8,18 @@ api_name:
 - Word.ContentControl.DateDisplayFormat
 ms.assetid: 11b2f24e-22d6-177c-4e2a-10c5ebefc477
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContentControl.DateDisplayFormat Property (Word)
+# ContentControl.DateDisplayFormat property (Word)
 
 Returns or sets a  **String** that represents the format in which dates are displayed. Read/write.
 
 
 ## Syntax
 
- _expression_. `DateDisplayFormat`
+_expression_. `DateDisplayFormat`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
@@ -48,3 +49,4 @@ objCC.Range.Text = "January 1, 2007"
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

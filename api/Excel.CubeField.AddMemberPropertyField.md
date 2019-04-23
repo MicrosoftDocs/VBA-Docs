@@ -1,5 +1,5 @@
 ---
-title: CubeField.AddMemberPropertyField Method (Excel)
+title: CubeField.AddMemberPropertyField method (Excel)
 keywords: vbaxl10.chm668094
 f1_keywords:
 - vbaxl10.chm668094
@@ -8,19 +8,20 @@ api_name:
 - Excel.CubeField.AddMemberPropertyField
 ms.assetid: 721f9720-00c0-d9cf-1413-f3b0cc658595
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CubeField.AddMemberPropertyField Method (Excel)
+# CubeField.AddMemberPropertyField method (Excel)
 
 Adds a member property field to the display for the cube field.
 
 
 ## Syntax
 
- _expression_. `AddMemberPropertyField`( `_Property_` , `_PropertyOrder_` , `_PropertyDisplayedIn_` )
+_expression_. `AddMemberPropertyField`( `_Property_` , `_PropertyOrder_` , `_PropertyDisplayedIn_` )
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Parameters
@@ -69,3 +70,4 @@ End Sub
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

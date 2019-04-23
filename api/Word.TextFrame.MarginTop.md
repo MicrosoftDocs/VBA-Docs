@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginTop Property (Word)
+title: TextFrame.MarginTop property (Word)
 keywords: vbawd10.chm162660455
 f1_keywords:
 - vbawd10.chm162660455
@@ -8,17 +8,18 @@ api_name:
 - Word.TextFrame.MarginTop
 ms.assetid: 0ad83d75-432e-fcf2-2ed2-8ddee8cfc901
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.MarginTop Property (Word)
+# TextFrame.MarginTop property (Word)
 
-Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
+Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `MarginTop`
+_expression_. `MarginTop`
 
  _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

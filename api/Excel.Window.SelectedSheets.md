@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.SelectedSheets
 ms.assetid: 3be18be3-895b-131b-7416-270536b84e23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the sele
 
 ## Syntax
 
- _expression_. `SelectedSheets`
+_expression_. `SelectedSheets`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -43,3 +44,4 @@ Next
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Watch.Application
 ms.assetid: 3089a5d1-92b4-3f75-3c27-409e0a8008c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Watch](./Excel.Watch.md) object.
+_expression_ A variable that represents a [Watch](Excel.Watch.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [Watch Object](Excel.Watch.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

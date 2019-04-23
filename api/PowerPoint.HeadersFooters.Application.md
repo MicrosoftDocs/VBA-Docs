@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Application Property (PowerPoint)
+title: HeadersFooters.Application property (PowerPoint)
 keywords: vbapp10.chm542001
 f1_keywords:
 - vbapp10.chm542001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.HeadersFooters.Application
 ms.assetid: 789cb927-7f3d-f04a-99b8-92c98af682da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeadersFooters.Application Property (PowerPoint)
+# HeadersFooters.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

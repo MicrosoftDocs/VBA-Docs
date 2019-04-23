@@ -1,21 +1,22 @@
 ---
-title: OutlineCode.FieldID Property (Project)
+title: OutlineCode.FieldID property (Project)
 ms.prod: project-server
 api_name:
 - Project.OutlineCode.FieldID
 ms.assetid: eea0a697-08f9-c4f5-358a-6b90bd08271e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlineCode.FieldID Property (Project)
+# OutlineCode.FieldID property (Project)
 
 Gets the identification number of the local outline code. Read-only  **PjCustomField**.
 
 
 ## Syntax
 
- _expression_. `FieldID`
+_expression_. `FieldID`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
@@ -59,3 +60,4 @@ For a resource outline code, the  **FieldID** can be one of the following **PjCu
 |**pjCustomResourceOutlineCode9**|
 |**pjCustomResourceOutlineCode10**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

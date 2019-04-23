@@ -1,29 +1,29 @@
 ---
-title: Task.HyperlinkAddress Property (Project)
+title: Task.HyperlinkAddress property (Project)
 ms.prod: project-server
 api_name:
 - Project.Task.HyperlinkAddress
 ms.assetid: 0fd6c70e-df9e-1d6e-df65-aa1de2f98b44
-ms.date: 06/08/2017
+ms.date: 03/05/2019
+localization_priority: Normal
 ---
 
 
-# Task.HyperlinkAddress Property (Project)
+# Task.HyperlinkAddress property (Project)
 
-Gets or sets the URL or UNC path of a document. Read/write  **String**.
+Gets or sets the URL or UNC path of a document. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkAddress`
+_expression_.**HyperlinkAddress**
 
- _expression_ A variable that represents a [Task](./Project.Task.md) object.
+_expression_ A variable that represents a **[Task](Project.Task.md)** object.
 
 
 ## Example
 
-The following example adds a hyperlink to all tasks in the active project, including tasks in subprojects
-
+The following example adds a hyperlink to all tasks in the active project, including tasks in subprojects.
 
 ```vb
 Sub AddHyperlink() 
@@ -40,3 +40,4 @@ End Su
 ```
 
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

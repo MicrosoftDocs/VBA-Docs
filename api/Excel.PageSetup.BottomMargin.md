@@ -8,19 +8,20 @@ api_name:
 - Excel.PageSetup.BottomMargin
 ms.assetid: 4c1cd3e0-0ba6-9d2d-4d5a-69d9ee811704
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PageSetup.BottomMargin property (Excel)
 
-Returns or sets the size of the bottom margin, in points. Read/write  **Double** .
+Returns or sets the size of the bottom margin, in points. Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `BottomMargin`
+_expression_.**BottomMargin**
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ MsgBox "The current bottom margin is " & marginInches & " inches"
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

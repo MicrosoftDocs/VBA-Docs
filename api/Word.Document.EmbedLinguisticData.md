@@ -1,5 +1,5 @@
 ---
-title: Document.EmbedLinguisticData Property (Word)
+title: Document.EmbedLinguisticData property (Word)
 keywords: vbawd10.chm158007673
 f1_keywords:
 - vbawd10.chm158007673
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.EmbedLinguisticData
 ms.assetid: ad76bcba-dad3-6745-8cdb-a56797054af4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.EmbedLinguisticData Property (Word)
+# Document.EmbedLinguisticData property (Word)
 
- **True** for Microsoft Word to embed speech and handwriting so that data can be converted back to speech or handwriting. Read/write **Boolean** .
+ **True** for Microsoft Word to embed speech and handwriting so that data can be converted back to speech or handwriting. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EmbedLinguisticData`
+_expression_. `EmbedLinguisticData`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

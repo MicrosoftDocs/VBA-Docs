@@ -1,5 +1,5 @@
 ---
-title: Cell Object (Visio)
+title: Cell object (Visio)
 keywords: vis_sdr.chm10045
 f1_keywords:
 - vis_sdr.chm10045
@@ -8,10 +8,11 @@ api_name:
 - Visio.Cell
 ms.assetid: 06ac28a6-5749-6c70-94bf-c721e217f375
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell Object (Visio)
+# Cell object (Visio)
 
 Holds a formula that evaluates to some value.
 
@@ -29,7 +30,7 @@ A program can control a shape's appearance and behavior by working with the form
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CellChanged](./Visio.Cell.CellChanged.md)|
 |[FormulaChanged](./Visio.Cell.FormulaChanged.md)|
@@ -38,7 +39,7 @@ A program can control a shape's appearance and behavior by working with the form
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GlueTo](./Visio.Cell.GlueTo.md)|
 |[GlueToPos](./Visio.Cell.GlueToPos.md)|
@@ -48,7 +49,7 @@ A program can control a shape's appearance and behavior by working with the form
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Cell.Application.md)|
 |[Column](./Visio.Cell.Column.md)|
@@ -90,3 +91,4 @@ A program can control a shape's appearance and behavior by working with the form
 |[Style](./Visio.Cell.Style.md)|
 |[Units](./Visio.Cell.Units.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

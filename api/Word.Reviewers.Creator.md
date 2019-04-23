@@ -1,5 +1,5 @@
 ---
-title: Reviewers.Creator Property (Word)
+title: Reviewers.Creator property (Word)
 keywords: vbawd10.chm211420137
 f1_keywords:
 - vbawd10.chm211420137
@@ -8,19 +8,20 @@ api_name:
 - Word.Reviewers.Creator
 ms.assetid: 4a77f3a3-18ab-1d7a-ba8d-b773c1e6bc91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reviewers.Creator Property (Word)
+# Reviewers.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Reviewers](Word.Reviewers.md)' collection.
+_expression_ Required. A variable that represents a '[Reviewers](Word.Reviewers.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Reviewers Collection](Word.Reviewers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

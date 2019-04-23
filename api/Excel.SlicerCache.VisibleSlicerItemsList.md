@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.VisibleSlicerItemsList
 ms.assetid: 1002d654-8207-fe88-567e-8bd4e36fbeb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the list of MDX unique names for members at all levels of the hi
 
 ## Syntax
 
- _expression_. `VisibleSlicerItemsList`
+_expression_. `VisibleSlicerItemsList`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value
@@ -30,7 +31,7 @@ Returns or sets the list of MDX unique names for members at all levels of the hi
 
 ## Remarks
 
-The  **VisibleSlicerItemsList** property is only applicable for slicers that are based on OLAP data sources (**SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True**).
+The  **VisibleSlicerItemsList** property is only applicable for slicers that are based on OLAP data sources (**SlicerCache**. **[OLAP](Excel.SlicerCache.OLAP.md)** = **True**).
 
 
 ## See also
@@ -38,3 +39,4 @@ The  **VisibleSlicerItemsList** property is only applicable for slicers that are
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

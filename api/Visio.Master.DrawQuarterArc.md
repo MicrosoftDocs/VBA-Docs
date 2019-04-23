@@ -1,5 +1,5 @@
 ---
-title: Master.DrawQuarterArc Method (Visio)
+title: Master.DrawQuarterArc method (Visio)
 keywords: vis_sdr.chm10751385
 f1_keywords:
 - vis_sdr.chm10751385
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.DrawQuarterArc
 ms.assetid: 6c728c0c-8317-6114-70e5-e5cb68a5729f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.DrawQuarterArc Method (Visio)
+# Master.DrawQuarterArc method (Visio)
 
 Creates a shape whose path consists of an elliptical arc defined by the two points and the flag passed in as arguments.
 
 
 ## Syntax
 
- _expression_. `DrawQuarterArc`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_SweepFlag_` )
+_expression_. `DrawQuarterArc`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_SweepFlag_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -48,12 +49,12 @@ The following possible values for the  _SweepFlag_ argument are declared in **Vi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visArcSweepFlagConcave**|0|Concave arc|
 | **visArcSweepFlagConvex**|1|Convex arc|
 
-If  _SweepFlag_ is **visArcSweepFlagConcave** , the line joining the center of the ellipse to the arc sweeps through decreasing angles; if it is **visArcSweepFlagConvex** , it sweeps through increasing angles.
+If  _SweepFlag_ is **visArcSweepFlagConcave**, the line joining the center of the ellipse to the arc sweeps through decreasing angles; if it is **visArcSweepFlagConvex**, it sweeps through increasing angles.
 
 
 ## Example
@@ -70,4 +71,4 @@ Public Sub DrawQuarterArc_Example
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

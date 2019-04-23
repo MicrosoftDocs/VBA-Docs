@@ -1,5 +1,5 @@
 ---
-title: PivotCell.AllocateChange Method (Excel)
+title: PivotCell.AllocateChange method (Excel)
 keywords: vbaxl10.chm692085
 f1_keywords:
 - vbaxl10.chm692085
@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotCell.AllocateChange
 ms.assetid: 21865f48-a011-478b-b485-16eba786dd92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PivotCell.AllocateChange Method (Excel)
+# PivotCell.AllocateChange method (Excel)
 
 Performs a writeback operation on the specified cell in a PivotTable report based on an OLAP data source.
 
 
 ## Syntax
 
- _expression_. `AllocateChange`
+_expression_. `AllocateChange`
 
- _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
+_expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
 ## Return value
@@ -40,3 +41,4 @@ Running the  **AllocateChange** method for a cell in a PivotTable report based o
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

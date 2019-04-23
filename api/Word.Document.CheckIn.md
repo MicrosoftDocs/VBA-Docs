@@ -1,5 +1,5 @@
 ---
-title: Document.CheckIn Method (Word)
+title: Document.CheckIn method (Word)
 keywords: vbawd10.chm158007645
 f1_keywords:
 - vbawd10.chm158007645
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CheckIn
 ms.assetid: 3c0e5a48-65e1-c7f7-c9f1-cabaabdcb3cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CheckIn Method (Word)
+# Document.CheckIn method (Word)
 
 Returns a document from a local computer to a server, and sets the local document to read-only so that it cannot be edited locally.
 
 
 ## Syntax
 
- _expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
@@ -29,10 +30,10 @@ Returns a document from a local computer to a server, and sets the local documen
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Boolean**| **True** saves the document to the server location. The default is **True** .|
+| _SaveChanges_|Optional| **Boolean**| **True** saves the document to the server location. The default is **True**.|
 | _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (only applies if SaveChanges equals  **True**).|
 |||||
-| _MakePublic_|Optional| **Boolean**| **True** allows the user to perform a publish on the document after being checked in. This submits the document for the approval process, which can eventually result in a version of the document being published to users with read-only rights to the document (only applies if _SaveChanges_ equals **True**). The default is **False** .|
+| _MakePublic_|Optional| **Boolean**| **True** allows the user to perform a publish on the document after being checked in. This submits the document for the approval process, which can eventually result in a version of the document being published to users with read-only rights to the document (only applies if _SaveChanges_ equals **True**). The default is **False**.|
 |||||
 |||||
 
@@ -75,3 +76,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

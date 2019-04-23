@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Add Method (Excel)
+title: Hyperlinks.Add method (Excel)
 keywords: vbaxl10.chm534073
 f1_keywords:
 - vbaxl10.chm534073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Hyperlinks.Add
 ms.assetid: 6b1299b1-c204-f0f1-c328-768c8efdb0cd
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
-# Hyperlinks.Add Method (Excel)
+# Hyperlinks.Add method (Excel)
 
 Adds a hyperlink to the specified range or shape.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Anchor_` , `_Address_` , `_SubAddress_` , `_ScreenTip_` , `_TextToDisplay_` )
+_expression_.**Add**( `_Anchor_` , `_Address_` , `_SubAddress_` , `_ScreenTip_` , `_TextToDisplay_` )
 
- _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
+_expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
 
 
 ## Parameters
@@ -59,7 +60,7 @@ With Worksheets(1)
 End With
 ```
 
-This example adds an e-mail hyperlink to cell A5.
+This example adds an email hyperlink to cell A5.
 
 
 
@@ -80,3 +81,4 @@ End With
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

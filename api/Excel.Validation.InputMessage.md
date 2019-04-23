@@ -8,19 +8,20 @@ api_name:
 - Excel.Validation.InputMessage
 ms.assetid: cef219c7-4fb2-128c-b091-170f63f70a98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Validation.InputMessage property (Excel)
 
-Returns or sets the data validation input message. Read/write  **String** .
+Returns or sets the data validation input message. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `InputMessage`
+_expression_. `InputMessage`
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](Excel.Validation.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End With
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

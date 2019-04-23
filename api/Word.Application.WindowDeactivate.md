@@ -1,5 +1,5 @@
 ---
-title: Application.WindowDeactivate Event (Word)
+title: Application.WindowDeactivate event (Word)
 keywords: vbawd10.chm4000010
 f1_keywords:
 - vbawd10.chm4000010
@@ -8,10 +8,11 @@ api_name:
 - Word.Application.WindowDeactivate
 ms.assetid: 70b86ecc-40ba-6e70-b430-4fce6083ff2d
 ms.date: 08/20/2018
+localization_priority: Normal
 ---
 
 
-# Application.WindowDeactivate Event (Word)
+# Application.WindowDeactivate event (Word)
 
 Occurs when any document window is deactivated.
 
@@ -51,3 +52,4 @@ End Sub
 
 - [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

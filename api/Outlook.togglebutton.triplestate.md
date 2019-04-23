@@ -3,6 +3,7 @@ title: ToggleButton.TripleState Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: a82cbddf-3273-db90-57f7-26d12dac0c23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Boolean** that determines whether a user can specify, from 
 
 ## Syntax
 
- _expression_. **TripleState**
+_expression_.**TripleState**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks
@@ -30,4 +31,4 @@ A control set to  **Null** does not initiate the **[Click](Outlook.togglebutton.
 
 Regardless of the property setting, the  **Null** value can always be assigned programmatically to a **ToggleButton**, causing that control to appear shaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

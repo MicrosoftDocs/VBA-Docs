@@ -8,6 +8,7 @@ api_name:
 - Excel.Pages.Item
 ms.assetid: d5e15285-cdf8-f7dd-8a10-e7b045f76b7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Page** object that represents a collection of pages in a workbook. 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [Pages](Excel.Pages.md) object.
+_expression_ A variable that represents a [Pages](Excel.Pages.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a  **Page** object that represents a collection of pages in a workbook. 
 
 [Pages Object](Excel.Pages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

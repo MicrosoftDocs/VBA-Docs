@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 62dbc5dc-a933-4a04-b37a-669ea0fef2f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.RemainingDuration Property (Project)](http://msdn.microsoft.com/library/32d0129e-1f25-016a-b012-419407f17ad1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

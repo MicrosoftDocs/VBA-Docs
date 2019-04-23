@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.SlicerCaches
 ms.assetid: 1ebb7fd1-1742-815a-b4bb-4d25d6c9e705
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SlicerCaches](Excel.SlicerCaches.md)** object associated with th
 
 ## Syntax
 
- _expression_. `SlicerCaches`
+_expression_. `SlicerCaches`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ SlicerCaches
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

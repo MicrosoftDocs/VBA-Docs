@@ -3,6 +3,7 @@ title: OptionButton.Picture Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 7592d268-506b-0d8b-1224-8069d2ab3a74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns a  **String** that specifies the full path name of a bitmap to display o
 
 ## Syntax
 
- _expression_. **Picture**
+_expression_.**Picture**
 
- _expression_ A variable that represents an  **OptionButton** object.
+_expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks
@@ -28,4 +29,4 @@ For controls with captions, use the  **[PicturePosition](Outlook.optionbutton.pi
 
 Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.  **[Image](Outlook.image.md)** supports opaque images.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

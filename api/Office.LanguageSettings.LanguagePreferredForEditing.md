@@ -1,5 +1,5 @@
 ---
-title: LanguageSettings.LanguagePreferredForEditing Property (Office)
+title: LanguageSettings.LanguagePreferredForEditing property (Office)
 keywords: vbaof11.chm231002
 f1_keywords:
 - vbaof11.chm231002
@@ -7,33 +7,32 @@ ms.prod: office
 api_name:
 - Office.LanguageSettings.LanguagePreferredForEditing
 ms.assetid: 345e29df-6cb7-13cc-a8ec-22196f38fc62
-ms.date: 06/08/2017
+ms.date: 01/18/2019
+localization_priority: Normal
 ---
 
 
-# LanguageSettings.LanguagePreferredForEditing Property (Office)
+# LanguageSettings.LanguagePreferredForEditing property (Office)
 
-Gets  **True** if the value for the **MsoLanguageID** constant has been identified in the Windows registry as a preferred language for editing. Read-only.
+Gets **True** if the value for the **[MsoLanguageID](office.msolanguageid.md)** constant has been identified in the Windows registry as a preferred language for editing. Read-only.
 
 
 ## Syntax
 
- _expression_. `LanguagePreferredForEditing`( `_lid_` )
+_expression_.**LanguagePreferredForEditing**(_lid_)
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+_expression_ A variable that represents a **[LanguageSettings](Office.LanguageSettings.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _lid_|Required|**MsoLanguageID**|Returns one of the  **MsoLanguageID** enumerations.|
+| _lid_|Required|**MsoLanguageID**|Returns one of the **MsoLanguageID** enumerations.|
 
 ## Remarks
 
-You must test all valid  **msoLanguageID** values to enumerate the set of preferred languages.
+You must test all valid **MsoLanguageID** values to enumerate the set of preferred languages.
 
 
 ## Example
@@ -51,10 +50,10 @@ End If
 
 ## See also
 
-
-[LanguageSettings Object](Office.LanguageSettings.md)
-
+- [LanguageSettings object members](overview/Library-Reference/languagesettings-members-office.md)
 
 
-[LanguageSettings Object Members](./overview/Library-Reference/languagesettings-members-office.md)
 
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

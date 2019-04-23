@@ -3,6 +3,7 @@ title: Select a Range
 ms.prod: excel
 ms.assetid: 4ec2e533-74b3-448d-90aa-1e2a624490b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -79,6 +80,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
+MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

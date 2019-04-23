@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddGroupWizard Method (Publisher)
+title: Shapes.AddGroupWizard method (Publisher)
 keywords: vbapb10.chm2162727
 f1_keywords:
 - vbapb10.chm2162727
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddGroupWizard
 ms.assetid: 5a84f055-7f30-0757-f507-40ee34b214f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddGroupWizard Method (Publisher)
+# Shapes.AddGroupWizard method (Publisher)
 
 Adds a  **Shape** object representing a Design Gallery object to the publication.
 
 
 ## Syntax
 
- _expression_. **AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
+_expression_.**AddGroupWizard**(**_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -57,4 +58,4 @@ ActiveDocument.Pages(1).Shapes _
  Left:=100, Top:=100
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

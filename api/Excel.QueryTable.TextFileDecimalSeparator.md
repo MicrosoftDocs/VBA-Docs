@@ -8,19 +8,20 @@ api_name:
 - Excel.QueryTable.TextFileDecimalSeparator
 ms.assetid: 2877a4fc-d5fa-6085-81d0-40397fa3c548
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # QueryTable.TextFileDecimalSeparator property (Excel)
 
-Returns or sets the decimal separator character that Microsoft Excel uses when you import a text file into a query table. The default is the system decimal separator character. Read/write  **String** .
+Returns or sets the decimal separator character that Microsoft Excel uses when you import a text file into a query table. The default is the system decimal separator character. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `TextFileDecimalSeparator`
+_expression_. `TextFileDecimalSeparator`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks
@@ -41,7 +42,7 @@ The following table shows the results when you import text into Microsoft Excel 
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFileDecimalSeparator** property applies only to **QueryTable** objects.
 
@@ -64,3 +65,4 @@ Worksheets("Sheet1").QueryTables(1) _
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

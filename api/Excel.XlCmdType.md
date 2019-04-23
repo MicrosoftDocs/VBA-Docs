@@ -1,14 +1,15 @@
 ---
-title: xlCmdType enumeration (Excel)
+title: XlCmdType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCmdType
 ms.assetid: 4339b577-c29c-3c78-8433-df56c35b6633
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCmdType enumeration (Excel)
+# XlCmdType enumeration (Excel)
 
 Specifies the value of the  **CommandText** property.
 
@@ -25,3 +26,4 @@ Specifies the value of the  **CommandText** property.
 | **xlCmdTable**|3|Contains a table name for accessing OLE DB data sources.|
 | **xlCmdTableCollection**|6|Contains the name of a table collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

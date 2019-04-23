@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 503b16dd-51d8-450b-fa1f-0e114a3b9b04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control
+# Display the Name of Each Control on a Form or a Page of a MultiPage Control
 
 The following example uses the  **Item** method to access individual members of the Microsoft Forms 2.0 **Controls** collection and **[Pages](../../../api/Outlook.pages(object).md)** collection. The user chooses an option button for either the **Controls** collection or the **[MultiPage](../../../api/Outlook.multipage.md)**, and then clicks the  **[CommandButton](../../../api/Outlook.commandbutton.md)**. The name of the appropriate control is returned in the  **[Label](../../../api/Outlook.label.md)**.
 
@@ -69,4 +70,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

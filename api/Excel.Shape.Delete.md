@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Excel)
+title: Shape.Delete method (Excel)
 keywords: vbaxl10.chm636075
 f1_keywords:
 - vbaxl10.chm636075
@@ -8,19 +8,20 @@ api_name:
 - Excel.Shape.Delete
 ms.assetid: f4b046a9-aff8-e78d-90f4-25875336476a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Delete Method (Excel)
+# Shape.Delete method (Excel)
 
 Deletes the object.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Deletes the object.
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

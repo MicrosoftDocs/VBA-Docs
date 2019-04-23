@@ -8,14 +8,15 @@ api_name:
 - Access.AcDisplayAsHyperlink
 ms.assetid: fb9d9af3-9aff-3031-2f94-6715211d6ee4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # AcDisplayAsHyperlink enumeration (Access)
 
-Used with the  **DisplayAsHyperlink** property to specify whether to display the contents of a text box or combo box as a hyperlink.
+Used with the **DisplayAsHyperlink** property to specify whether to display the contents of a text box or combo box as a hyperlink.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Used with the  **DisplayAsHyperlink** property to specify whether to display the
 |**acDisplayAsHyperlinkIfHlink**|0|Display the contents of the control as a hyperlink only when its contents are in the form of a Uniform Resource Locator (URL).|
 |**acDisplayAsHyperlinkOnScreenOnly**|2|Display the contents of the control as a hyperlink only on the screen.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

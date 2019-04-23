@@ -1,5 +1,5 @@
 ---
-title: Application.ViewsEx Method (Project)
+title: Application.ViewsEx method (Project)
 keywords: vbapj.chm310
 f1_keywords:
 - vbapj.chm310
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewsEx
 ms.assetid: 42567343-54df-fbf2-64a3-79ba72d12866
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewsEx Method (Project)
+# Application.ViewsEx method (Project)
 
 Displays the  **More Views** dialog box with the specified pane of the current view selected, which prompts the user to manage views.
 
 
 ## Syntax
 
- _expression_. `ViewsEx`( ` _ApplyTo_` )
+_expression_. `ViewsEx`( `_ApplyTo_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -32,7 +33,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 | _ApplyTo_|Optional|**Integer**|Specifies which pane of a split view is selected. The value can be one of the following:
 |||
 |:-----|:-----|
-|**Value**|**Description**|
+|Value|Description|
 |0|Primary (usually the top) pane of a split view|
 |1|Secondary (usually the bottom) pane of a split view|
 |4|Active pane|
@@ -61,4 +62,4 @@ If the current view includes the Timeline and the Gantt Chart, where the Timelin
 application.ViewsEx ApplyTo:=5
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

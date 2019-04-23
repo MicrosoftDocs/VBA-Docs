@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Update Method (Publisher)
+title: LinkFormat.Update method (Publisher)
 keywords: vbapb10.chm4390916
 f1_keywords:
 - vbapb10.chm4390916
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LinkFormat.Update
 ms.assetid: a167a463-56bd-2c4e-ded5-70ea38b2ed2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.Update Method (Publisher)
+# LinkFormat.Update method (Publisher)
 
 Updates the specified linked OLE object.
 
 
 ## Syntax
 
- _expression_. **Update**
+_expression_.**Update**
 
  _expression_ A variable that represents a  **LinkFormat** object.
 
@@ -45,4 +46,4 @@ For Each pageLoop In ActiveDocument.Pages
 Next pageLoop
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.ShowSpellingErrors Property (Word)
+title: Document.ShowSpellingErrors property (Word)
 keywords: vbawd10.chm158007369
 f1_keywords:
 - vbawd10.chm158007369
@@ -8,24 +8,25 @@ api_name:
 - Word.Document.ShowSpellingErrors
 ms.assetid: 75b24653-f694-a5d7-bbb7-3f75f52d9e60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ShowSpellingErrors Property (Word)
+# Document.ShowSpellingErrors property (Word)
 
- **True** if Microsoft Word underlines spelling errors in the document. Read/write **Boolean** .
+ **True** if Microsoft Word underlines spelling errors in the document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowSpellingErrors`
+_expression_. `ShowSpellingErrors`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
 
-To view spelling errors in a document, you must set the  **[CheckSpellingAsYouType](Word.Options.CheckSpellingAsYouType.md)** property to **True** .
+To view spelling errors in a document, you must set the  **[CheckSpellingAsYouType](Word.Options.CheckSpellingAsYouType.md)** property to **True**.
 
 
 ## Example
@@ -62,3 +63,4 @@ temp = ActiveDocument.ShowSpellingErrors
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

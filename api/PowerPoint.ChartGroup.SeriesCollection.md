@@ -1,23 +1,24 @@
 ---
-title: ChartGroup.SeriesCollection Method (PowerPoint)
+title: ChartGroup.SeriesCollection method (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.SeriesCollection
 ms.assetid: 5d20f5b2-cd4c-06b6-a49c-0ab331157b2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartGroup.SeriesCollection Method (PowerPoint)
+# ChartGroup.SeriesCollection method (PowerPoint)
 
 Returns all the series in the chart group.
 
 
 ## Syntax
 
- _expression_. `SeriesCollection`( `_Index_` )
+_expression_.**SeriesCollection** (_Index_)
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End With
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

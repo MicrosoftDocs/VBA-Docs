@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Cut Method (Publisher)
+title: ShapeRange.Cut method (Publisher)
 keywords: vbapb10.chm2293777
 f1_keywords:
 - vbapb10.chm2293777
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Cut
 ms.assetid: 961d4646-8318-d2ff-ed98-649583d36115
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Cut Method (Publisher)
+# ShapeRange.Cut method (Publisher)
 
 Deletes the specified object and places it on the Clipboard.
 
 
 ## Syntax
 
- _expression_. **Cut**
+_expression_.**Cut**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -74,4 +75,4 @@ ActiveDocument
 .Pages(1).Shapes(1).TextFrame.TextRange.Cut
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

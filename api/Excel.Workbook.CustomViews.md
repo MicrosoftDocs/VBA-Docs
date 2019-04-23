@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.CustomViews
 ms.assetid: 286f6d5a-fb91-a339-8e74-9014ab7f4835
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[CustomViews](Excel.CustomViews.md)** collection that represents al
 
 ## Syntax
 
- _expression_. `CustomViews`
+_expression_. `CustomViews`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveWorkbook.CustomViews.Add "Summary", True, True
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

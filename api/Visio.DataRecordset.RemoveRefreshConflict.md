@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.RemoveRefreshConflict Method (Visio)
+title: DataRecordset.RemoveRefreshConflict method (Visio)
 keywords: vis_sdr.chm16460355
 f1_keywords:
 - vis_sdr.chm16460355
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.RemoveRefreshConflict
 ms.assetid: a92abdb7-f47c-b843-cacf-6acca68d9c66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.RemoveRefreshConflict Method (Visio)
+# DataRecordset.RemoveRefreshConflict method (Visio)
 
 Clears information about a conflict for a data-linked shape from the current document.
 
@@ -21,7 +22,7 @@ Clears information about a conflict for a data-linked shape from the current doc
 
 ## Syntax
 
- _expression_. `RemoveRefreshConflict`( `_ShapeInConflict_` )
+_expression_. `RemoveRefreshConflict`( `_ShapeInConflict_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -102,4 +103,4 @@ Public Sub RemoveRefreshConflicts_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.FilePageSetupFooter Method (Project)
+title: Application.FilePageSetupFooter method (Project)
 keywords: vbapj.chm2358
 f1_keywords:
 - vbapj.chm2358
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FilePageSetupFooter
 ms.assetid: 0ca38a3a-4004-d32b-5a8a-0a4fdb79b68b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FilePageSetupFooter Method (Project)
+# Application.FilePageSetupFooter method (Project)
 
 Sets up footers for printing.
 
 
 ## Syntax
 
- _expression_. `FilePageSetupFooter`( ` _Name_`, ` _Alignment_`, ` _Text_` )
+_expression_. `FilePageSetupFooter`( `_Name_`, `_Alignment_`, `_Text_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -96,4 +97,4 @@ Public Function GetFontFormatCode(strFontName As String) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

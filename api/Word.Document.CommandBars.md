@@ -1,5 +1,5 @@
 ---
-title: Document.CommandBars Property (Word)
+title: Document.CommandBars property (Word)
 keywords: vbawd10.chm158007353
 f1_keywords:
 - vbawd10.chm158007353
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CommandBars
 ms.assetid: 80b82381-691b-7995-aa3e-afdf764429d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CommandBars Property (Word)
+# Document.CommandBars property (Word)
 
 Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -75,3 +76,4 @@ CommandBars("Standard").Controls.Add Type:=msoControlButton, _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

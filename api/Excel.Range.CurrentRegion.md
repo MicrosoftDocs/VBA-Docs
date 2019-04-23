@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.CurrentRegion
 ms.assetid: 39277cc5-07ff-8453-7330-b272b365f9dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the curren
 
 ## Syntax
 
- _expression_. `CurrentRegion`
+_expression_. `CurrentRegion`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

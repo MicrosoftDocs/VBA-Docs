@@ -1,5 +1,5 @@
 ---
-title: Application.LevelingOptionsEx Method (Project)
+title: Application.LevelingOptionsEx method (Project)
 keywords: vbapj.chm2249
 f1_keywords:
 - vbapj.chm2249
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.LevelingOptionsEx
 ms.assetid: f8799750-fecf-48d1-7559-25cd7a8d3d28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.LevelingOptionsEx Method (Project)
+# Application.LevelingOptionsEx method (Project)
 
 Specifies leveling options for the active project, including leveling of manually scheduled tasks.
 
 
 ## Syntax
 
- _expression_. `LevelingOptionsEx`( ` _Automatic_`, ` _DelayInSlack_`, ` _AutoClearLeveling_`, ` _Order_`, ` _LevelEntireProject_`, ` _FromDate_`, ` _ToDate_`, ` _PeriodBasis_`, ` _LevelIndividualAssignments_`, ` _LevelingCanSplit_`, ` _LevelProposedBookings_`, ` _LevelPinnedTasks_` )
+_expression_. `LevelingOptionsEx`( `_Automatic_`, `_DelayInSlack_`, `_AutoClearLeveling_`, `_Order_`, `_LevelEntireProject_`, `_FromDate_`, `_ToDate_`, `_PeriodBasis_`, `_LevelIndividualAssignments_`, `_LevelingCanSplit_`, `_LevelProposedBookings_`, `_LevelPinnedTasks_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -69,4 +70,4 @@ Sub LevelOverallocatedResources()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

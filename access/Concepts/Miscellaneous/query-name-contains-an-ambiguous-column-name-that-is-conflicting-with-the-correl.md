@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 40113ce0-9911-8bb5-ffbf-35b558ca26c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -28,3 +29,5 @@ An example of this would be the following: CREATE TABLE Orders (OrderDate DATE, 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

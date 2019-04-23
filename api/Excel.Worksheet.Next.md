@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Next
 ms.assetid: 971d5df0-ba23-ac67-7862-67586452e992
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next s
 
 ## Syntax
 
- _expression_. `Next`
+_expression_.**Next**
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ ActiveCell.Next.Select
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Project.ResourcePoolName Property (Project)
+title: Project.ResourcePoolName property (Project)
 keywords: vbapj.chm132573
 f1_keywords:
 - vbapj.chm132573
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.ResourcePoolName
 ms.assetid: 74d426a7-00ed-7a29-5f25-e0f2391add4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.ResourcePoolName Property (Project)
+# Project.ResourcePoolName property (Project)
 
 Gets the name of the enterprise resource pool that a project uses in Project Professional. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `ResourcePoolName`
+_expression_. `ResourcePoolName`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -29,4 +30,4 @@ If the project is using enterprise resources,  **ResourcePoolName** gets the nam
 
 If the project is not using enterprise resources,  **ResourcePoolName** gets the path and name of the project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

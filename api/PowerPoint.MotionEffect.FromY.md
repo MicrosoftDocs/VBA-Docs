@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.FromY Property (PowerPoint)
+title: MotionEffect.FromY property (PowerPoint)
 keywords: vbapp10.chm658006
 f1_keywords:
 - vbapp10.chm658006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect.FromY
 ms.assetid: e9754587-f8bc-4af5-bd2b-ec6b1e3c4bc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect.FromY Property (PowerPoint)
+# MotionEffect.FromY property (PowerPoint)
 
 Returns or sets a  **Single** that represents the vertical position of a **[MotionEffect](PowerPoint.MotionEffect.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax
 
- _expression_. `FromY`
+_expression_. `FromY`
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
@@ -76,3 +77,4 @@ End Sub
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

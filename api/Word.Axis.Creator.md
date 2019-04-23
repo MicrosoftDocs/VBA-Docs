@@ -1,5 +1,5 @@
 ---
-title: Axis.Creator Property (Word)
+title: Axis.Creator property (Word)
 keywords: vbawd10.chm113049749
 f1_keywords:
 - vbawd10.chm113049749
@@ -8,19 +8,20 @@ api_name:
 - Word.Axis.Creator
 ms.assetid: c7015ed2-d78f-4eb7-477c-11e896a7f37f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.Creator Property (Word)
+# Axis.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
+ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

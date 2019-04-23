@@ -1,14 +1,15 @@
 ---
-title: PjFormatUnit Enumeration (Project)
+title: PjFormatUnit enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjFormatUnit
 ms.assetid: 51cbe9ff-f4af-c02b-365a-e1db0ee1fb57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjFormatUnit Enumeration (Project)
+# PjFormatUnit enumeration (Project)
 
 Contains constants that specify the format of the units.
 
@@ -37,3 +38,4 @@ Contains constants that specify the format of the units.
 |**pjWeeks**|9|Weeks.|
 |**pjWeeksEstimated**|41|Estimated weeks.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: WdCompatibilityMode Enumeration (Word)
+title: WdCompatibilityMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompatibilityMode
 ms.assetid: 244e1519-32ea-741c-7e2a-ff8a2e0713aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCompatibilityMode Enumeration (Word)
+# WdCompatibilityMode enumeration (Word)
 
 Specifies the compatibility mode that Word uses when opening a document.
 
@@ -22,3 +23,4 @@ Specifies the compatibility mode that Word uses when opening a document.
 | **wdWord2010**|14|Word is put into a mode that is most compatible with . Features new to Wordare disabled in this mode.|
 | **wdWord2013**|15|Default. All Word features are enabled.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

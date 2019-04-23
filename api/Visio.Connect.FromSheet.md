@@ -1,5 +1,5 @@
 ---
-title: Connect.FromSheet Property (Visio)
+title: Connect.FromSheet property (Visio)
 keywords: vis_sdr.chm10313590
 f1_keywords:
 - vis_sdr.chm10313590
@@ -8,17 +8,18 @@ api_name:
 - Visio.Connect.FromSheet
 ms.assetid: 621aa755-3d17-4c3c-118f-7513d3926b52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Connect.FromSheet Property (Visio)
+# Connect.FromSheet property (Visio)
 
 Returns the shape from which a connection or connections originate. Read-only.
 
 
 ## Syntax
 
- _expression_. `FromSheet`
+_expression_. `FromSheet`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
@@ -77,4 +78,4 @@ Public Sub FromSheet_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

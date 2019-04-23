@@ -1,5 +1,5 @@
 ---
-title: Borders.OutsideColor Property (Word)
+title: Borders.OutsideColor property (Word)
 keywords: vbawd10.chm154927137
 f1_keywords:
 - vbawd10.chm154927137
@@ -8,26 +8,27 @@ api_name:
 - Word.Borders.OutsideColor
 ms.assetid: 896fbfd8-d6fa-c89b-591d-3ee4a8a4b0b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Borders.OutsideColor Property (Word)
+# Borders.OutsideColor property (Word)
 
 Returns or sets the 24-bit color of the outside borders. .
 
 
 ## Syntax
 
- _expression_. `OutsideColor`
+_expression_. `OutsideColor`
 
- _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
+_expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Remarks
 
 This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
-If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
+If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
 
 
 ## Example
@@ -65,3 +66,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

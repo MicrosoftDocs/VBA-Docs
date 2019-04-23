@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSets.Application
 ms.assetid: d5a7decb-3ce7-78e8-0acf-dc7af7950829
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
+_expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [IconSets Object](Excel.IconSets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

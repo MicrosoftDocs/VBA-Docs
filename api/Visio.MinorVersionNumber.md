@@ -5,6 +5,7 @@ api_name:
 - Visio.MinorVersionNumber
 ms.assetid: 9bb21829-690c-0ff3-1e30-f9964cc903c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the minor version number of Microsoft Visio Viewer. Read-only.
 
 ## Syntax
 
- _expression_. **MinorVersionNumber**
+_expression_.**MinorVersionNumber**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -39,4 +40,4 @@ The following code displays the minor version number of Visio Viewer in the  **I
 Debug.Print vsoViewer.MinorVersionNumber
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

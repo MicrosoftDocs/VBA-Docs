@@ -1,5 +1,5 @@
 ---
-title: Application.TemplatePaths Property (Visio)
+title: Application.TemplatePaths property (Visio)
 keywords: vis_sdr.chm10014510
 f1_keywords:
 - vis_sdr.chm10014510
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.TemplatePaths
 ms.assetid: 149a9ef2-e255-3dad-2177-b29c173fa66d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TemplatePaths Property (Visio)
+# Application.TemplatePaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for templates. Read/write.
 
 
 ## Syntax
 
- _expression_. `TemplatePaths`
+_expression_. `TemplatePaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -96,4 +97,4 @@ Public Sub TemplatePaths_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

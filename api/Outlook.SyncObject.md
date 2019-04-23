@@ -1,5 +1,5 @@
 ---
-title: SyncObject Object (Outlook)
+title: SyncObject object (Outlook)
 keywords: vbaol11.chm2984
 f1_keywords:
 - vbaol11.chm2984
@@ -8,10 +8,11 @@ api_name:
 - Outlook.SyncObject
 ms.assetid: 099865b6-767f-8022-6839-875624f284f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SyncObject Object (Outlook)
+# SyncObject object (Outlook)
 
 Represents a  **Send\Receive** group for a user.
 
@@ -39,7 +40,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OnError](Outlook.SyncObject.OnError.md)|
 |[Progress](Outlook.SyncObject.Progress.md)|
@@ -50,7 +51,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Start](Outlook.SyncObject.Start.md)|
 |[Stop](Outlook.SyncObject.Stop.md)|
@@ -59,7 +60,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.SyncObject.Application.md)|
 |[Class](Outlook.SyncObject.Class.md)|
@@ -70,4 +71,6 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

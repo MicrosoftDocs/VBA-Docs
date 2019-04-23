@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BetaDist Method (Excel)
+title: WorksheetFunction.BetaDist method (Excel)
 keywords: vbaxl10.chm137174
 f1_keywords:
 - vbaxl10.chm137174
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.BetaDist
 ms.assetid: 0408bf55-6bfb-7b73-34e2-c1fd2a1b93c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.BetaDist Method (Excel)
+# WorksheetFunction.BetaDist method (Excel)
 
 Returns the beta cumulative distribution function.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [Beta_Dist](Excel.Worksheet
 
 ## Syntax
 
- _expression_. `BetaDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
+_expression_. `BetaDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ The beta distribution is commonly used to study variation in the percentage of s
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

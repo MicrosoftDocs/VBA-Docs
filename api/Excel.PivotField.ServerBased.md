@@ -8,26 +8,27 @@ api_name:
 - Excel.PivotField.ServerBased
 ms.assetid: 8c97a617-e852-b21e-7acf-f0d31363adf3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.ServerBased property (Excel)
 
- **True** if the data source for the specified PivotTable report is external and only the items matching the page field selection are retrieved. Read/write **Boolean** .
+ **True** if the data source for the specified PivotTable report is external and only the items matching the page field selection are retrieved. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ServerBased`
+_expression_. `ServerBased`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-This property doesn't apply to OLAP data sources and is always  **False** .
+This property doesn't apply to OLAP data sources and is always  **False**.
 
-When this property is  **True** , only records in the database that match the selected page field item are retrieved. From then on, whenever the user changes the page field selection, the newly selected page field item is passed to the query as a parameter, and the cache is refreshed.
+When this property is  **True**, only records in the database that match the selected page field item are retrieved. From then on, whenever the user changes the page field selection, the newly selected page field item is passed to the query as a parameter, and the cache is refreshed.
 
 This property cannot be set if any of the following conditions are true:
 
@@ -65,3 +66,4 @@ Next
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

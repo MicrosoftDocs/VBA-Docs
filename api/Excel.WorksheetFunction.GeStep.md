@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.GeStep Method (Excel)
+title: WorksheetFunction.GeStep method (Excel)
 keywords: vbaxl10.chm137296
 f1_keywords:
 - vbaxl10.chm137296
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.GeStep
 ms.assetid: dc39a836-c1eb-491f-7f5a-67999c52218a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.GeStep Method (Excel)
+# WorksheetFunction.GeStep method (Excel)
 
 Returns 1 if number ? step; returns 0 (zero) otherwise. Use this function to filter a set of values. For example, by summing several GESTEP functions you calculate the count of values that exceed a threshold.
 
 
 ## Syntax
 
- _expression_. `GeStep`( `_Arg1_` , `_Arg2_` )
+_expression_. `GeStep`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ If any argument is nonnumeric, GESTEP returns the #VALUE! error value.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

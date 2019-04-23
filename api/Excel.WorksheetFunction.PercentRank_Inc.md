@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PercentRank_Inc Method (Excel)
+title: WorksheetFunction.PercentRank_Inc method (Excel)
 keywords: vbaxl10.chm137375
 f1_keywords:
 - vbaxl10.chm137375
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.PercentRank_Inc
 ms.assetid: 589a4d54-d7ca-84ea-2b62-dccb5e6e3ad0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.PercentRank_Inc Method (Excel)
+# WorksheetFunction.PercentRank_Inc method (Excel)
 
 Returns the rank of a value in a data set as a percentage (0..1, inclusive) of the data set. This function can be used to evaluate the relative standing of a value within a data set. For example, you can use PERCENTRANK_INC to evaluate the standing of an aptitude test score among all scores for the test.
 
 
 ## Syntax
 
- _expression_. `PercentRank_Inc`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `PercentRank_Inc`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

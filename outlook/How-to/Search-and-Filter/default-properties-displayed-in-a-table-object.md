@@ -3,6 +3,7 @@ title: Default Properties Displayed in a Table Object
 ms.prod: outlook
 ms.assetid: 649c64f3-2d1e-23f1-bf13-3368da79e62b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -72,5 +73,4 @@ The following table shows the properties that are returned as default columns in
 |7| **PercentComplete**|
 |8| **IsRecurring**|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

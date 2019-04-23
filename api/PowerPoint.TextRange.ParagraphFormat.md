@@ -1,5 +1,5 @@
 ---
-title: TextRange.ParagraphFormat Property (PowerPoint)
+title: TextRange.ParagraphFormat property (PowerPoint)
 keywords: vbapp10.chm569024
 f1_keywords:
 - vbapp10.chm569024
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.ParagraphFormat
 ms.assetid: 41d3f0f3-70e3-ad1a-efcb-de849d4a03d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.ParagraphFormat Property (PowerPoint)
+# TextRange.ParagraphFormat property (PowerPoint)
 
 Returns a  **[ParagraphFormat](PowerPoint.ParagraphFormat.md)** object that represents paragraph formatting for the specified text. Read-only.
 
 
 ## Syntax
 
- _expression_. `ParagraphFormat`
+_expression_. `ParagraphFormat`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -61,3 +62,4 @@ End With
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

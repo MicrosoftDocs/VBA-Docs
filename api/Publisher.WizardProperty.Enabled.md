@@ -1,5 +1,5 @@
 ---
-title: WizardProperty.Enabled Property (Publisher)
+title: WizardProperty.Enabled property (Publisher)
 keywords: vbapb10.chm1572871
 f1_keywords:
 - vbapb10.chm1572871
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WizardProperty.Enabled
 ms.assetid: c66741c8-1493-ac90-4ecb-ed8d58743c69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WizardProperty.Enabled Property (Publisher)
+# WizardProperty.Enabled property (Publisher)
 
  **True** if a wizard property is enabled. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **Enabled**
+_expression_.**Enabled**
 
  _expression_ A variable that represents an  **WizardProperty** object.
 
@@ -44,4 +45,4 @@ Sub SetEnabledProperty()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

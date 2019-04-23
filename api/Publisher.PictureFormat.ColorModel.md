@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorModel Property (Publisher)
+title: PictureFormat.ColorModel property (Publisher)
 keywords: vbapb10.chm3604753
 f1_keywords:
 - vbapb10.chm3604753
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.ColorModel
 ms.assetid: 8e3e259c-943d-c1a9-f090-2ee0f0bb29f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.ColorModel Property (Publisher)
+# PictureFormat.ColorModel property (Publisher)
 
 Returns a  **PbColorModel** constant that represents the color model of the picture. Read-only.
 
 
 ## Syntax
 
- _expression_. **ColorModel**
+_expression_.**ColorModel**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -64,4 +65,4 @@ Dim shpLoop As Shape
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

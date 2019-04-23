@@ -3,6 +3,7 @@ title: ViewCtl.OpenSharedDefaultFolder Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 989d4a15-8aa6-4bc1-855f-1a4b2898ec35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Displays a specified user's default folder in the control.
 
 ## Syntax
 
- _expression_.  **OpenSharedDefaultFolder** **_(bstrRecipient, FolderType)_**
+_expression_.  **OpenSharedDefaultFolder** **_(bstrRecipient, FolderType)_**
 
- _expression _ A variable that represents a **ViewCtl** object.
+ _expression_ A variable that represents a **ViewCtl** object.
 
 
 ## Parameters
@@ -34,6 +35,6 @@ Displays a specified user's default folder in the control.
 
 ## Remarks
 
-An error occurs if the user running the control does not have permission to access the specified folder. 
+An error occurs if the user running the control does not have permission to access the specified folder.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

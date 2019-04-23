@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Application Property (Word)
+title: LegendKey.Application property (Word)
 keywords: vbawd10.chm266207380
 f1_keywords:
 - vbawd10.chm266207380
@@ -8,24 +8,25 @@ api_name:
 - Word.LegendKey.Application
 ms.assetid: 5882d7d6-ded9-89fe-7ed3-73abc8770921
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LegendKey.Application Property (Word)
+# LegendKey.Application property (Word)
 
 When used without an object qualifier, returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
 
 ## Example
 
-The following example displays a message about the application that created  `myObject`.
+The following example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [LegendKey Object](Word.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

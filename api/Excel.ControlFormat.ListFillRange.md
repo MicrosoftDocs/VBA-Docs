@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.ListFillRange
 ms.assetid: 1004b4a7-9315-7736-a71b-1d94d229fd7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ControlFormat.ListFillRange property (Excel)
 
-Returns or sets the worksheet range used to fill the specified list box. Setting this property destroys any existing list in the list box. Read/write  **String** .
+Returns or sets the worksheet range used to fill the specified list box. Setting this property destroys any existing list in the list box. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ListFillRange`
+_expression_. `ListFillRange`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End With
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

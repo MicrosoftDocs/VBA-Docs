@@ -1,5 +1,5 @@
 ---
-title: AnimationBehaviors Object (PowerPoint)
+title: AnimationBehaviors object (PowerPoint)
 keywords: vbapp10.chm656000
 f1_keywords:
 - vbapp10.chm656000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.AnimationBehaviors
 ms.assetid: 40e11093-5cbd-c8d3-04b5-4cd7de97bfa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AnimationBehaviors Object (PowerPoint)
+# AnimationBehaviors object (PowerPoint)
 
 Represents a collection of  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** objects.
 
@@ -49,3 +50,4 @@ End Sub
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

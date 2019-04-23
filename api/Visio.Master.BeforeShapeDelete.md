@@ -1,5 +1,5 @@
 ---
-title: Master.BeforeShapeDelete Event (Visio)
+title: Master.BeforeShapeDelete event (Visio)
 keywords: vis_sdr.chm10719065
 f1_keywords:
 - vis_sdr.chm10719065
@@ -8,10 +8,11 @@ api_name:
 - Visio.Master.BeforeShapeDelete
 ms.assetid: 21921e16-3e05-6232-ed89-76217b76149f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.BeforeShapeDelete Event (Visio)
+# Master.BeforeShapeDelete event (Visio)
 
 Occurs before a shape is deleted.
 
@@ -48,4 +49,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 For performance considerations, the  **Document** object's event set does not include the **BeforeShapeDelete** event. To sink the **BeforeShapeDelete** event from a **Document** object (and from the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

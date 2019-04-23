@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f8221415-f2dd-1076-f883-749f61ea449d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,6 +19,5 @@ This error has the following causes:
 - You loaded a form, User Control, User Document, or Property Page that contains objects with conflicting names. This can occur if the file was edited outside of Visual Basic.
     
 - This error can occur when you rename a form to the same name as the [project](../../Glossary/vbe-glossary.md#project), another form, or a [module](../../Glossary/vbe-glossary.md#module). It can also occur when you rename the project to the same name as a form or module.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

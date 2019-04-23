@@ -1,5 +1,5 @@
 ---
-title: Application.ViewCopy Method (Project)
+title: Application.ViewCopy method (Project)
 keywords: vbapj.chm300
 f1_keywords:
 - vbapj.chm300
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewCopy
 ms.assetid: b1ed6b3e-ad95-15f4-80bd-054d608ef9a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewCopy Method (Project)
+# Application.ViewCopy method (Project)
 
 Copies the current view.
 
 
 ## Syntax
 
- _expression_. `ViewCopy`( ` _Name_`, ` _ApplyTo_` )
+_expression_. `ViewCopy`( `_Name_`, `_ApplyTo_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -33,7 +34,7 @@ Copies the current view.
 | _ApplyTo_|Optional|**Integer**|Specifies which pane of a split view is copied. The value can be one of the following:
 |||
 |:-----|:-----|
-|**Value**|**Description**|
+|Value|Description|
 |0|Primary (usually the top) pane of a split view|
 |1|Secondary (usually the bottom) pane of a split view|
 |4|Active pane|
@@ -64,4 +65,4 @@ If the current view includes the Timeline in the top pane and the Gantt Chart in
 application.ViewCopy Name:="Copy of Timeline", ApplyTo:=1
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

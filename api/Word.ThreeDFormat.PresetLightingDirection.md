@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingDirection Property (Word)
+title: ThreeDFormat.PresetLightingDirection property (Word)
 keywords: vbawd10.chm164626537
 f1_keywords:
 - vbawd10.chm164626537
@@ -8,19 +8,20 @@ api_name:
 - Word.ThreeDFormat.PresetLightingDirection
 ms.assetid: 595b1541-c203-e736-2326-f7123f296d46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetLightingDirection Property (Word)
+# ThreeDFormat.PresetLightingDirection property (Word)
 
-Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection** .
+Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection**.
 
 
 ## Syntax
 
- _expression_. `PresetLightingDirection`
+_expression_. `PresetLightingDirection`
 
- _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
+_expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End With
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

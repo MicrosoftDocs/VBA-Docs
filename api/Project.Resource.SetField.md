@@ -1,21 +1,22 @@
 ---
-title: Resource.SetField Method (Project)
+title: Resource.SetField method (Project)
 ms.prod: project-server
 api_name:
 - Project.Resource.SetField
 ms.assetid: 9ac1e770-8716-2954-4459-7f5ff090e2ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Resource.SetField Method (Project)
+# Resource.SetField method (Project)
 
 Sets the value of the specified resource custom field.
 
 
 ## Syntax
 
- _expression_. `SetField`( ` _FieldID_`, ` _Value_` )
+_expression_. `SetField`( `_FieldID_`, `_Value_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
@@ -90,4 +91,4 @@ End Sub
 
 For an example that uses a local resource custom field, see the  **[GetField](Project.Resource.GetField.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

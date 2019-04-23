@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c6458c41-0434-4b29-ad89-d5e1cd6491a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.CostRateTables Property (Project)](http://msdn.microsoft.com/library/604d89ee-a16e-812e-0459-b93ed096340e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

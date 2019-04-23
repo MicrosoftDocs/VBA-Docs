@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementTop Method (Publisher)
+title: ShapeRange.IncrementTop method (Publisher)
 keywords: vbapb10.chm2293794
 f1_keywords:
 - vbapb10.chm2293794
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.IncrementTop
 ms.assetid: 8172406f-fac5-ad3d-49b8-cb4858d45c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.IncrementTop Method (Publisher)
+# ShapeRange.IncrementTop method (Publisher)
 
 Moves the specified shape or shape range vertically by the specified distance.
 
 
 ## Syntax
 
- _expression_. **IncrementTop**(**_Increment_**)
+_expression_.**IncrementTop**(**_Increment_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -55,4 +56,4 @@ With ActiveDocument.Pages(1).Shapes(1).Duplicate
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

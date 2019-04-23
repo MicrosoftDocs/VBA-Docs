@@ -5,6 +5,7 @@ api_name:
 - Excel.LineFormat.InsetPen
 ms.assetid: 7a9999ad-b3a5-bae5-e068-8d85cab5ecb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Returns or sets whether lines are drawn inside the specified shape's boundaries.
 
 ## Syntax
 
- _expression_. `InsetPen`
+_expression_. `InsetPen`
 
- _expression_ A variable that represents a '[LineFormat](Excel.LineFormat.md)' object.
+_expression_ A variable that represents a '[LineFormat](Excel.LineFormat.md)' object.
 
 
 ## Return value
@@ -61,3 +62,4 @@ End With
 
 [LineFormat Object](Excel.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

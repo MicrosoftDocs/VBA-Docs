@@ -3,6 +3,7 @@ title: ViewCtl.Folder Property (Outlook View Control)
 ms.prod: outlook
 ms.assetid: c48e2d86-c284-9a25-0c11-00f6e24094c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that represents the path of the folder displayed b
 
 ## Syntax
 
- _expression_. **Folder**
+_expression_.**Folder**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
@@ -26,4 +27,4 @@ If neither the  **[Namespace](Outlook.viewctl.namespa.md)** property nor the **F
 
 In addition to accepting a  **string** that represents a valid folder path, you can also set the **Folder** property to the EntryID of the folder that you want to display in the View Control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

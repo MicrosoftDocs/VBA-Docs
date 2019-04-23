@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 913a4bb4-461e-4f93-977c-99d8ef85a184
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.DefaultView property (Access)](http://msdn.microsoft.com/library/bb44eca9-1576-794a-0558-f67e2d37559b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

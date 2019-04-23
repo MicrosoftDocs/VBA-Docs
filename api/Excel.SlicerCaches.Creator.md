@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCaches.Creator
 ms.assetid: e7e2e448-189a-051d-33f2-0dbb8de272d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
+_expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
 ## Return value
@@ -38,3 +39,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [SlicerCaches Object](Excel.SlicerCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

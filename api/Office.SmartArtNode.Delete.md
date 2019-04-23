@@ -1,23 +1,24 @@
 ---
-title: SmartArtNode.Delete Method (Office)
+title: SmartArtNode.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Delete
 ms.assetid: 916b7ddb-7ec1-64d7-6c8f-0bc6de389026
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# SmartArtNode.Delete Method (Office)
+# SmartArtNode.Delete method (Office)
 
 Removes the current SmartArt node. 
 
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a **[SmartArtNode](Office.SmartArtNode.md)** object.
 
 
 ## Return value
@@ -42,6 +43,8 @@ When the node is deleted, the first child gets promoted. In the following data m
 
 ## See also
 
-- [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
+- [SmartArtNode object members](overview/Library-Reference/smartartnode-members-office.md)
 
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

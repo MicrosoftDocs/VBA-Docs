@@ -1,5 +1,5 @@
 ---
-title: Cell Object (Publisher)
+title: Cell object (Publisher)
 keywords: vbapb10.chm5177343
 f1_keywords:
 - vbapb10.chm5177343
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Cell
 ms.assetid: 5baafaa6-368e-9eae-30b9-90d2d89d5a5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell Object (Publisher)
+# Cell object (Publisher)
 
 Represents a single table cell. The  **Cell** object is a member of the **[CellRange](./Publisher.CellRange.md)** collection. The **CellRange** collection represents all the cells in the specified object.
 
@@ -50,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Merge](./Publisher.Cell.Merge.md)|
 |[Select](./Publisher.Cell.Select.md)|
@@ -60,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Cell.Application.md)|
 |[BorderBottom](./Publisher.Cell.BorderBottom.md)|
@@ -85,3 +86,4 @@ End Sub
 |[VerticalTextAlignment](./Publisher.Cell.VerticalTextAlignment.md)|
 |[Width](./Publisher.Cell.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

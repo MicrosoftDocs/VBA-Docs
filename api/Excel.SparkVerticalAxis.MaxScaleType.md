@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkVerticalAxis.MaxScaleType
 ms.assetid: 14d04182-d6d2-b884-db8f-04cef4673e82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets how the maximum value of the vertical axis of the sparkline is s
 
 ## Syntax
 
- _expression_. `MaxScaleType`
+_expression_. `MaxScaleType`
 
- _expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
+_expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns or sets how the maximum value of the vertical axis of the sparkline is s
 
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

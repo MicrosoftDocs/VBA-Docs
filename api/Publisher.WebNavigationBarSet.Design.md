@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSet.Design Property (Publisher)
+title: WebNavigationBarSet.Design property (Publisher)
 keywords: vbapb10.chm8519684
 f1_keywords:
 - vbapb10.chm8519684
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSet.Design
 ms.assetid: 643d0b88-3b6d-65fd-7607-2f81c593a568
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSet.Design Property (Publisher)
+# WebNavigationBarSet.Design property (Publisher)
 
 Sets or returns a  **PbWizardNavBarDesign** constant representing the design of the specified Web navigation bar set. Read/write.
 
 
 ## Syntax
 
- _expression_. **Design**
+_expression_.**Design**
 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
@@ -48,4 +49,4 @@ With objWebNav
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

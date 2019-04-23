@@ -1,5 +1,5 @@
 ---
-title: MailMerge.WizardState Property (Word)
+title: MailMerge.WizardState property (Word)
 keywords: vbawd10.chm153092110
 f1_keywords:
 - vbawd10.chm153092110
@@ -8,17 +8,18 @@ api_name:
 - Word.MailMerge.WizardState
 ms.assetid: 7dc71e03-cdc4-c307-d433-1d3984aa39d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge.WizardState Property (Word)
+# MailMerge.WizardState property (Word)
 
 Returns or sets a  **Long** indicating the current Mail Merge Wizard step for a document. The WizardState method returns a number that equates to the current Mail Merge Wizard step; a zero (0) means the Mail Merge Wizard is closed. Read/write.
 
 
 ## Syntax
 
- _expression_. `WizardState`
+_expression_. `WizardState`
 
  _expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
@@ -44,3 +45,4 @@ End Sub
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

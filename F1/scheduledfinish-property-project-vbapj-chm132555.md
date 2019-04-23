@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ac1e7976-f905-454c-8082-ef91622bd2f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Reports.Add Method (Project)](http://msdn.microsoft.com/library/3ce8e51c-54c6-6cc7-f5ec-c27e0a657f04%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

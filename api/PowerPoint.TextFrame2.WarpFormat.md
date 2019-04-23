@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WarpFormat Property (PowerPoint)
+title: TextFrame2.WarpFormat property (PowerPoint)
 keywords: vbapp10.chm678010
 f1_keywords:
 - vbapp10.chm678010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextFrame2.WarpFormat
 ms.assetid: 1b22dbf3-d54f-7a00-46b1-6dd1b84b0993
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.WarpFormat Property (PowerPoint)
+# TextFrame2.WarpFormat property (PowerPoint)
 
 Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. `WarpFormat`
+_expression_. `WarpFormat`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -30,7 +31,7 @@ MsoWarpFormat
 
 ## Remarks
 
-The value of the  **WarpFormat** property can be one of the **[MsoWarpFormat](./Office.MsoWarpFormat.md)** constants.
+The value of the  **WarpFormat** property can be one of the **[MsoWarpFormat](Office.MsoWarpFormat.md)** constants.
 
 
 ## Example
@@ -54,3 +55,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

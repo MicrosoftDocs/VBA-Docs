@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Module.Find
 ms.assetid: 6b8fcd1a-a490-19a0-1692-fb01f213c639
-ms.date: 06/08/2017
+ms.date: 03/22/2019
+localization_priority: Normal
 ---
 
 
@@ -18,22 +19,20 @@ Finds specified text in a standard module or class module.
 
 ## Syntax
 
-_expression_. `Find`( ` _Target_`, ` _StartLine_`, ` _StartColumn_`, ` _EndLine_`, ` _EndColumn_`, ` _WholeWord_`, ` _MatchCase_`, ` _PatternSearch_` )
+_expression_.**Find** (_Target_, _StartLine_, _StartColumn_, _EndLine_, _EndColumn_, _WholeWord_, _MatchCase_, _PatternSearch_)
 
-_expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required|**String**|The text that you want to find.|
-| _StartLine_|Required|**Long**|The line on which to begin searching. If a match is found, the value of the  _StartLine_ argument is set to the line on which the beginning character of the matching text is found.|
-| _StartColumn_|Required|**Long**|The column on which to begin searching. Each character in a line is in a separate column, beginning with zero on the left side of the module. If a match is found, the value of the  _StartColumn_ argument is set to the column on which the beginning character of the matching text is found.|
-| _EndLine_|Required|**Long**|The line on which to stop searching. If a match is found, the value of the  _EndLine_ argument is set to the line on which the ending character of the matching text is found.|
-| _EndColumn_|Required|**Long**|The column on which to stop searching. If a match is found, the value of the  _EndColumn_ argument is set to the column on which the beginning character of the matching text is found.|
+| _StartLine_|Required|**Long**|The line on which to begin searching. If a match is found, the value of the _StartLine_ argument is set to the line on which the beginning character of the matching text is found.|
+| _StartColumn_|Required|**Long**|The column on which to begin searching. Each character in a line is in a separate column, beginning with zero on the left side of the module. If a match is found, the value of the _StartColumn_ argument is set to the column in which the beginning character of the matching text is found.|
+| _EndLine_|Required|**Long**|The line on which to stop searching. If a match is found, the value of the _EndLine_ argument is set to the line on which the ending character of the matching text is found.|
+| _EndColumn_|Required|**Long**|The column on which to stop searching. If a match is found, the value of the _EndColumn_ argument is set to the column in which the beginning character of the matching text is found.|
 | _WholeWord_|Optional|**Boolean**|**True** results in a search for whole words only. The default is **False**.|
 | _MatchCase_|Optional|**Boolean**|**True** results in a search for words with case matching the _Target_ argument. The default is **False**.|
 | _PatternSearch_|Optional|**Boolean**|**True** results in a search in which the _Target_ argument may contain wildcard characters such as an asterisk (*) or a question mark (?). The default is **False**.|
@@ -45,17 +44,16 @@ Boolean
 
 ## Remarks
 
-The  **Find** method searches for the specified text string in a **Module** object. If the string is found, the **Find** method returns **True**.
+The **Find** method searches for the specified text string in a **Module** object. If the string is found, the **Find** method returns **True**.
 
-To determine the position in the module at which the search text was found, pass empty variables to the  **Find** method for the _StartLine_,  _StartColumn_,  _EndLine_, and  _EndColumn_ arguments. If a match is found, these arguments will contain the line number and column position at which the search text begins ( _StartLine_,  _StartColumn_) and ends ( _EndLine_,  _EndColumn_).
+To determine the position in the module at which the search text was found, pass empty variables to the **Find** method for the _StartLine_,  _StartColumn_,  _EndLine_, and  _EndColumn_ arguments. If a match is found, these arguments will contain the line number and column position at which the search text begins (_StartLine_, _StartColumn_) and ends (_EndLine_, _EndColumn_).
 
-For example, if the search text is found on line 5, begins at column 10, and ends at column 20, the values of these arguments will be:  _StartLine_ = 5, _StartColumn_ = 10, _EndLine_ = 5, _EndColumn_ = 20.
+For example, if the search text is found on line 5, begins at column 10, and ends at column 20, the values of these arguments will be _StartLine_ = 5, _StartColumn_ = 10, _EndLine_ = 5, _EndColumn_ = 20.
 
 
 ## Example
 
 The following function finds a specified string in a module and replaces the line that contains that string with a new specified line.
-
 
 ```vb
 Function FindAndReplace(strModuleName As String, _ 
@@ -111,8 +109,6 @@ End Function
 ```
 
 
-## See also
 
 
-[Module Object](Access.Module.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

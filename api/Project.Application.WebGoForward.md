@@ -1,5 +1,5 @@
 ---
-title: Application.WebGoForward Method (Project)
+title: Application.WebGoForward method (Project)
 keywords: vbapj.chm1301
 f1_keywords:
 - vbapj.chm1301
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.WebGoForward
 ms.assetid: 2692d709-58e3-cf21-2dce-f056e6144c7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WebGoForward Method (Project)
+# Application.WebGoForward method (Project)
 
 Goes to the next document in the history list.
 
 
 ## Syntax
 
- _expression_. `WebGoForward`
+_expression_. `WebGoForward`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -27,4 +28,4 @@ Goes to the next document in the history list.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

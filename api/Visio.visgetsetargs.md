@@ -1,21 +1,22 @@
 ---
-title: VisGetSetArgs Enumeration (Visio)
+title: VisGetSetArgs enumeration (Visio)
 keywords: vis_sdr.chm70055
 f1_keywords:
 - vis_sdr.chm70055
 ms.prod: visio
 ms.assetid: e6e35119-5c80-21af-5be3-47f17d616069
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisGetSetArgs Enumeration (Visio)
+# VisGetSetArgs enumeration (Visio)
 
-Flags to be passed to the  **GetResults** , **SetFormulas** , and **SetResults** methods.
+Flags to be passed to the  **GetResults**, **SetFormulas**, and **SetResults** methods.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetFloats**|0|Results returned as doubles (VT_R8).|
 | **visGetFormulasU**|5|Formulas returned in universal syntax (VT_BSTR).|
@@ -28,3 +29,4 @@ Flags to be passed to the  **GetResults** , **SetFormulas** , and **SetResults**
 | **visSetTestCircular**|4|Test for establishment of circular cell references.|
 | **visSetUniversalSyntax**|8|Formulas are in universal syntax.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

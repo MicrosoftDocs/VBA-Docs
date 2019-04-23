@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.ViewType Property (Word)
+title: TextRetrievalMode.ViewType property (Word)
 keywords: vbawd10.chm154730496
 f1_keywords:
 - vbawd10.chm154730496
@@ -8,19 +8,20 @@ api_name:
 - Word.TextRetrievalMode.ViewType
 ms.assetid: 1dbc3f48-6d99-84f4-b9db-73a25e8f07c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRetrievalMode.ViewType Property (Word)
+# TextRetrievalMode.ViewType property (Word)
 
-Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType** .
+Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType**.
 
 
 ## Syntax
 
- _expression_. `ViewType`
+_expression_. `ViewType`
 
- _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
+_expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ Msgbox myText
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

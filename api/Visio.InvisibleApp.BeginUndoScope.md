@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BeginUndoScope Method (Visio)
+title: InvisibleApp.BeginUndoScope method (Visio)
 keywords: vis_sdr.chm17516085
 f1_keywords:
 - vis_sdr.chm17516085
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.BeginUndoScope
 ms.assetid: f5f2f885-a42a-b031-5922-c7dbc274a976
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.BeginUndoScope Method (Visio)
+# InvisibleApp.BeginUndoScope method (Visio)
 
 Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 
 
 ## Syntax
 
- _expression_. `BeginUndoScope`( `_bstrUndoScopeName_` )
+_expression_. `BeginUndoScope`( `_bstrUndoScopeName_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -118,4 +119,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,17 +1,18 @@
 ---
-title: pbPresetWordArt Enumeration (Publisher)
+title: pbPresetWordArt enumeration (Publisher)
 keywords: vbapb10.chm65648
 f1_keywords:
 - vbapb10.chm65648
 ms.prod: publisher
 ms.assetid: b2c73df7-31f9-4886-92a3-e8ab236b554c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# pbPresetWordArt Enumeration (Publisher)
+# pbPresetWordArt enumeration (Publisher)
 
-Constants that specify the type of preset WordArt, passed to the  ** [Shapes.AddWordArt](Publisher.Shapes.AddWordArt.md)** method and passed to and returned by the ** [TextEffectFormat.PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)** property.
+Constants that specify the type of preset WordArt, passed to the  **[Shapes.AddWordArt](Publisher.Shapes.AddWordArt.md)** method and passed to and returned by the **[TextEffectFormat.PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)** property.
 
 
 
@@ -79,3 +80,4 @@ Constants that specify the type of preset WordArt, passed to the  ** [Shapes.Add
 | **pbPresetWordArt60**|59|Style 60|
 | **pbPresetWordArtMixed**|-2|A combination of styles|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

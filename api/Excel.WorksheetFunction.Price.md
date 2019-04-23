@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Price Method (Excel)
+title: WorksheetFunction.Price method (Excel)
 keywords: vbaxl10.chm137318
 f1_keywords:
 - vbaxl10.chm137318
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Price
 ms.assetid: 5b7b4a72-98a4-9650-a6f4-38f3c8bb9346
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Price Method (Excel)
+# WorksheetFunction.Price method (Excel)
 
 Returns the price per $100 face value of a security that pays periodic interest.
 
 
 ## Syntax
 
- _expression_. `Price`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
+_expression_. `Price`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -85,3 +86,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

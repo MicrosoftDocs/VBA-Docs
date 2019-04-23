@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.DisplayImmediateItems
 ms.assetid: 796529b1-1f19-4e86-b172-1b2e4173b045
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.DisplayImmediateItems property (Excel)
 
-Returns or sets a  **Boolean** that indicates whether items in the row and column areas are visible when the data area of the PivotTable is empty. Set this property to **False** to hide the items in the row and column areas when the data area of the PivotTable is empty. The default value is **True** .
+Returns or sets a  **Boolean** that indicates whether items in the row and column areas are visible when the data area of the PivotTable is empty. Set this property to **False** to hide the items in the row and column areas when the data area of the PivotTable is empty. The default value is **True**.
 
 
 ## Syntax
 
- _expression_. `DisplayImmediateItems`
+_expression_. `DisplayImmediateItems`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -51,3 +52,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

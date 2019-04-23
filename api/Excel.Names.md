@@ -1,5 +1,5 @@
-﻿---
-title: Names Object (Excel)
+---
+title: Names object (Excel)
 keywords: vbaxl10.chm487072
 f1_keywords:
 - vbaxl10.chm487072
@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Names
 ms.assetid: ffecf89d-7bae-c470-8e37-608857a9de2a
-ms.date: 06/08/2017
+ms.date: 03/30/2019
+localization_priority: Normal
 ---
 
 
-# Names Object (Excel)
+# Names object (Excel)
 
-A collection of all the  **[Name](Excel.Name.md)** objects in the application or workbook.
+A collection of all the **[Name](Excel.Name.md)** objects in the application or workbook.
 
 
 ## Remarks
 
- Each **Name** object represents a defined name for a range of cells. Names can be either built-in names—such as Database, Print_Area, and Auto_Open—or custom names.
+Each **Name** object represents a defined name for a range of cells. Names can be either built-in names—such as Database, Print_Area, and Auto_Open—or custom names.
 
-The  _RefersTo_ argument must be specified in A1-style notation, including dollar signs ($) where appropriate. For example, if cell A10 is selected on Sheet1 and you define a name by using the _RefersTo_ argument "=sheet1!A1:B1", the new name actually refers to cells A10:B10 (because you specified a relative reference). To specify an absolute reference, use "=sheet1!$A$1:$B$1".
+The _RefersTo_ argument must be specified in A1-style notation, including dollar signs ($) where appropriate. For example, if cell A10 is selected on Sheet1 and you define a name by using the _RefersTo_ argument "=sheet1!A1:B1", the new name actually refers to cells A10:B10 (because you specified a relative reference). To specify an absolute reference, use "=sheet1!$A$1:$B$1".
 
 
 ## Example
 
-Use the  **[Names](Excel.Workbook.Names.md)** property to return the **Names** collection. The following example creates a list of all the names in the active workbook, plus the addresses they refer to.
-
+Use the **[Names](Excel.Workbook.Names.md)** property of the **Workbook** object to return the **Names** collection. The following example creates a list of all the names in the active workbook, plus the addresses that they refer to.
 
 ```vb
 Set nms = ActiveWorkbook.Names 
@@ -37,30 +37,25 @@ For r = 1 To nms.Count
 Next
 ```
 
-Use the  **[Add](Excel.Names.Add.md)** method to create a name and add it to the collection.The following example creates a new name that refers to cells A1:C20 on the worksheet named "Sheet1."
+<br/>
 
-
-
+Use the **Add** method to create a name and add it to the collection. The following example creates a new name that refers to cells A1:C20 on the worksheet named Sheet1.
 
 ```vb
 Names.Add Name:="test", RefersTo:="=sheet1!$a$1:$c$20"
 ```
 
-Use  **Names** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name "mySortRange" from the active workbook.
+<br/>
 
-
-
+Use **Names** (_index_), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name mySortRange from the active workbook.
 
 ```vb
 ActiveWorkbook.Names("mySortRange").Delete
 ```
 
- **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
+<br/>
 
-This example uses a named range as the formula for data validation. This example requires the validation data to be on Sheet 2 in the range A2:A100. This validation data is used to validate data entered on Sheet 1 in the range D2:D10.
-
-
-
+This example uses a named range as the formula for data validation. This example requires the validation data to be on Sheet 2 in the range A2:A100. This validation data is used to validate data entered on Sheet1 in the range D2:D10.
 
 ```vb
 Sub Add_Data_Validation_From_Other_Worksheet()
@@ -108,19 +103,21 @@ End With
 End Sub
 ```
 
+## Methods
 
-### About the contributor
+- [Add](Excel.Names.Add.md)
+- [Item](Excel.Names.Item.md)
 
-Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+## Properties
+
+- [Application](Excel.Names.Application.md)
+- [Count](Excel.Names.Count.md)
+- [Creator](Excel.Names.Creator.md)
+- [Parent](Excel.Names.Parent.md)
 
 
 ## See also
 
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

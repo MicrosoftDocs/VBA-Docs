@@ -1,5 +1,5 @@
 ---
-title: Categories.Item Method (Word)
+title: Categories.Item method (Word)
 keywords: vbawd10.chm126550016
 f1_keywords:
 - vbawd10.chm126550016
@@ -8,17 +8,18 @@ api_name:
 - Word.Categories.Item
 ms.assetid: 49a3f591-3675-ec7f-73bc-adc1e5bb41cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Categories.Item Method (Word)
+# Categories.Item method (Word)
 
 Returns a  **Category** object that represents the specified item in the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a '[Categories](Word.Categories.md)' object.
 
@@ -41,3 +42,4 @@ Category
 
 [Categories Object](Word.Categories.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

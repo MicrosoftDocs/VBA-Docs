@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Application Property (Publisher)
+title: HeaderFooter.Application property (Publisher)
 keywords: vbapb10.chm7471106
 f1_keywords:
 - vbapb10.chm7471106
@@ -8,17 +8,18 @@ api_name:
 - Publisher.HeaderFooter.Application
 ms.assetid: a0da12ac-607f-4c14-41d0-1ab5b33af694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Application Property (Publisher)
+# HeaderFooter.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **HeaderFooter** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

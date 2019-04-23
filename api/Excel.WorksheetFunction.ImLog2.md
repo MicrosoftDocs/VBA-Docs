@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImLog2 Method (Excel)
+title: WorksheetFunction.ImLog2 method (Excel)
 keywords: vbaxl10.chm137279
 f1_keywords:
 - vbaxl10.chm137279
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ImLog2
 ms.assetid: 7eb55cd5-fec2-c110-981b-81c55b241900
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ImLog2 Method (Excel)
+# WorksheetFunction.ImLog2 method (Excel)
 
 Returns the base-2 logarithm of a complex number in x + yi or x + yj text format.
 
 
 ## Syntax
 
- _expression_. `ImLog2`( `_Arg1_` )
+_expression_. `ImLog2`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

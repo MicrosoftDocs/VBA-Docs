@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationY Property (PowerPoint)
+title: ThreeDFormat.RotationY property (PowerPoint)
 keywords: vbapp10.chm557017
 f1_keywords:
 - vbapp10.chm557017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.RotationY
 ms.assetid: 1e39544d-e95d-7419-8d6b-140696a43895
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.RotationY Property (PowerPoint)
+# ThreeDFormat.RotationY property (PowerPoint)
 
 Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Read/write.
 
 
 ## Syntax
 
- _expression_. `RotationY`
+_expression_. `RotationY`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -41,7 +42,7 @@ To change the direction of the extrusion's sweep path without rotating the front
 
 ## Example
 
-This example adds three identical extruded ovals to  `myDocument` and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
+This example adds three identical extruded ovals to  _myDocument_ and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
 
 
 ```vb
@@ -82,3 +83,4 @@ End With
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

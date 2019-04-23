@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 8aefcec0-c9fe-4f0c-9170-709632e52587
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Styles Object (Visio)](http://msdn.microsoft.com/library/327c9f05-ddb5-bf70-86bf-69eb0763512c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

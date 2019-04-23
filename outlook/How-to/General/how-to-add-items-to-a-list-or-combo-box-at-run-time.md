@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5dd25eb3-8c36-3e71-30ae-b35638ef6943
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Add Items To a List or Combo Box at Run Time
+# Add Items To a List or Combo Box at Run Time
 
 In a  **[ListBox](../../../api/Outlook.listbox.md)** or **[ComboBox](../../../api/Outlook.combobox.md)** with a single column, use the **AddItem** method to add an individual entry to the list.
 
@@ -26,5 +27,5 @@ In a multicolumn list box or combo box, you can use the  **List** and **Column**
       - Assign the array as the value of the  **List** property. The contents of the list box will match the contents of the array exactly.
     
   - Assign the array as the value of the  **Column** property. **Column** transposes rows and columns, so each row of the list box matches the corresponding column of the array.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

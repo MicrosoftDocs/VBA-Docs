@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 70c3ce6f-13ca-d9cd-d60c-26c19f803fd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ The use of an exclamation point between two [identifiers](../../Glossary/vbe-glo
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

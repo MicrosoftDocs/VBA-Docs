@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: f42aadc5-ecd9-090b-cdf0-aba0a1a024b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns or sets a  **Boolean** that specifies whether a control can accept and d
 
 ## Syntax
 
- _expression_. **MultiLine**
+_expression_.**MultiLine**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
 
-True if the text is displayed across multiple lines (default). Falase if the text is not displayed across multiple lines.
+**True** if the text is displayed across multiple lines (default). Falase if the text is not displayed across multiple lines.
 
 A multiline  **[TextBox](Outlook.textbox.md)** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
 
@@ -43,4 +44,4 @@ The  **[TabKeyBehavior](Outlook.textbox.tabkeybehavior.md)** and **MultiLine** p
 
 The effect of pressing  **CTRL+TAB** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+TAB** creates a new line regardless of the value of **TabKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+TAB** has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

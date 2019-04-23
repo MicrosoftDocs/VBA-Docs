@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.AutoRecoverInterval Property (Visio)
+title: InvisibleApp.AutoRecoverInterval property (Visio)
 keywords: vis_sdr.chm17514705
 f1_keywords:
 - vis_sdr.chm17514705
@@ -8,10 +8,11 @@ api_name:
 - Visio.InvisibleApp.AutoRecoverInterval
 ms.assetid: 0aeb2e8b-c6eb-c4c6-fc62-ff41d415f0bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.AutoRecoverInterval Property (Visio)
+# InvisibleApp.AutoRecoverInterval property (Visio)
 
 Represents the time interval (in minutes) for how often you want to save copies of open documents that have unsaved changes in case of a power failure or an application error. Read/write.
 
@@ -25,7 +26,7 @@ Version Added: Visio 2000 SR-1
 
 ## Syntax
 
- _expression_. `AutoRecoverInterval`
+_expression_. `AutoRecoverInterval`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -39,7 +40,7 @@ Integer
 
 Must be an integer value from zero (0) to 120, representing the interval in minutes. The default is 0. If the value of the  **AutoRecoverInterval** property is less than or equal to 0, no automatic recovery copies are created.
 
-If the value of the  **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False** .
+If the value of the  **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False**.
 
 
 ## Example
@@ -65,4 +66,4 @@ Public Sub DisableAutoRecover_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

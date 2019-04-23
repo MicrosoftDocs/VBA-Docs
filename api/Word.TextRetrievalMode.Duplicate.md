@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.Duplicate Property (Word)
+title: TextRetrievalMode.Duplicate property (Word)
 keywords: vbawd10.chm154730497
 f1_keywords:
 - vbawd10.chm154730497
@@ -8,19 +8,20 @@ api_name:
 - Word.TextRetrievalMode.Duplicate
 ms.assetid: 3ccc1c6a-c709-ea9a-052d-a5c3d566038f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRetrievalMode.Duplicate Property (Word)
+# TextRetrievalMode.Duplicate property (Word)
 
 Returns a read-only  **TextRetrievalMode** object that represents options related to retrieving text from a **Range** object.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
- _expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
+_expression_ Required. A variable that represents a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can use the  **Duplicate** property to pick up the settings of all the prope
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

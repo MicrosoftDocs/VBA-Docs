@@ -8,6 +8,7 @@ api_name:
 - Excel.Watch.Parent
 ms.assetid: 550dcfdc-9da8-c320-2af8-83eb92062284
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Watch](./Excel.Watch.md) object.
+_expression_ A variable that represents a [Watch](Excel.Watch.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [Watch Object](Excel.Watch.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

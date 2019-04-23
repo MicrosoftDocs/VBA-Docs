@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.MarkerBackgroundColor
 ms.assetid: a283c8d2-08f2-0865-b8fe-26bc45d497d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Point.MarkerBackgroundColor property (Excel)
 
-Sets the marker background color as an RGB value or returns the corresponding color index value. Applies only to line, scatter, and radar charts. Read/write  **Long** .
+Sets the marker background color as an RGB value or returns the corresponding color index value. Applies only to line, scatter, and radar charts. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerBackgroundColor`
+_expression_. `MarkerBackgroundColor`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

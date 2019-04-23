@@ -8,19 +8,20 @@ api_name:
 - Excel.ListObject.ShowTotals
 ms.assetid: 99a86f33-d718-98df-9869-76d52ddab0bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListObject.ShowTotals property (Excel)
 
-Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/write **Boolean** .
+Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowTotals`
+_expression_. `ShowTotals`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.ShowHidden Property (Word)
+title: Bookmarks.ShowHidden property (Word)
 keywords: vbawd10.chm157745156
 f1_keywords:
 - vbawd10.chm157745156
@@ -8,17 +8,18 @@ api_name:
 - Word.Bookmarks.ShowHidden
 ms.assetid: 35f9a36c-ea29-93f0-1b39-c52dd3718ee8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Bookmarks.ShowHidden Property (Word)
+# Bookmarks.ShowHidden property (Word)
 
- **True** if hidden bookmarks are included in the **Bookmarks** collection. Read/write **Boolean** .
+ **True** if hidden bookmarks are included in the **Bookmarks** collection. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowHidden`
+_expression_. `ShowHidden`
 
  _expression_ An expression that returns a '[Bookmarks](Word.bookmarks.md)' collection object.
 
@@ -56,3 +57,4 @@ Next aBookmark
 
 [Bookmarks Collection Object](Word.bookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

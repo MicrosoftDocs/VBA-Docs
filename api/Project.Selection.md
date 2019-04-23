@@ -1,14 +1,15 @@
 ---
-title: Selection Object (Project)
+title: Selection object (Project)
 ms.prod: project-server
 api_name:
 - Project.Selection
 ms.assetid: 06b2fc7e-5c72-3c13-132f-769e68057b43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection Object (Project)
+# Selection object (Project)
 
 
 
@@ -20,7 +21,7 @@ Use the  **ActiveSelection** property to return a **Selection** object. The foll
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Selection.Application.md)|
 |[FieldIDList](./Project.Selection.FieldIDList.md)|
@@ -29,3 +30,4 @@ Use the  **ActiveSelection** property to return a **Selection** object. The foll
 |[Resources](./Project.Selection.Resources.md)|
 |[Tasks](./Project.Selection.Tasks.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementBrightness Method (Excel)
+title: PictureFormat.IncrementBrightness method (Excel)
 keywords: vbaxl10.chm113020
 f1_keywords:
 - vbaxl10.chm113020
@@ -8,19 +8,20 @@ api_name:
 - Excel.PictureFormat.IncrementBrightness
 ms.assetid: 3f75ff17-6cd6-e397-468c-6bf0d1307578
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.IncrementBrightness Method (Excel)
+# PictureFormat.IncrementBrightness method (Excel)
 
 Changes the brightness of the picture by the specified amount. Use the  **[Brightness](Excel.PictureFormat.Brightness.md)** property to set the absolute brightness of the picture.
 
 
 ## Syntax
 
- _expression_. `IncrementBrightness`( `_Increment_` )
+_expression_. `IncrementBrightness`( `_Increment_` )
 
- _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
+_expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ You cannot adjust the brightness of a picture past the upper or lower limit for 
 
 ## Example
 
-This example creates a duplicate of shape one on  `myDocument` and then moves and darkens the duplicate. For the example to work, shape one must be either a picture or an OLE object.
+This example creates a duplicate of shape one on  _myDocument_ and then moves and darkens the duplicate. For the example to work, shape one must be either a picture or an OLE object.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

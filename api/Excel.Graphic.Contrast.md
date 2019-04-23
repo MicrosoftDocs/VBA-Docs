@@ -8,24 +8,25 @@ api_name:
 - Excel.Graphic.Contrast
 ms.assetid: 9715ee08-2d9b-1a5c-1fe9-3b5a73991668
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Graphic.Contrast property (Excel)
 
-Returns or sets the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write  **Single** .
+Returns or sets the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Contrast`
+_expression_. `Contrast`
 
  _expression_ An expression that returns a [Graphic](Excel.Graphic.md) object.
 
 
 ## Example
 
-This example sets the contrast for shape one on  `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the contrast for shape one on  _myDocument_. Shape one must be either a picture or an OLE object.
 
 
 ```vb
@@ -39,3 +40,4 @@ myDocument.Shapes(1).PictureFormat.Contrast = 0.8
 
 [Graphic Object](Excel.Graphic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: da08ca6a-0883-48ca-907d-64fc95be97e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ShapeRange Object (Project)](http://msdn.microsoft.com/library/315031aa-4b8c-424b-26e7-ce15897beb05%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

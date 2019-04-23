@@ -3,6 +3,7 @@ title: Error in evaluating a partial expression. (Error 3656)
 ms.prod: access
 ms.assetid: 4426220f-f086-8bd6-3a61-452e95c0b3da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ You have entered an invalid expression in a Boolean filter used to determine whi
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
-|A string|A criteria that a record must satisfy in order to appear in the replicated table. The string is similar to an SQL WHERE clause, but you cannot specify subqueries, aggregate functions (such as Count), or user defined functions within the criteria.|
+|A string|A criteria that a record must satisfy in order to appear in the replicated table. The string is similar to an SQL WHERE clause, but you cannot specify subqueries, aggregate functions (such as Count), or user-defined functions within the criteria.|
 |True|Replicate all records.|
 |False|(Default) Do not replicate any records.|
 
@@ -30,3 +31,5 @@ You have entered an invalid expression in a Boolean filter used to determine whi
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

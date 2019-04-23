@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: aff35cb5-ba98-9649-bd66-cecd0b3d7cf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Some of the attribute statements in a form, User Control, Property Page, User Document, or Class Module conflict with the required settings for their type. For example, forms must always have the  **VB_PredeclaredId** attribute equal to **True**. This error can occur if the file was modified by an editor other than Visual Basic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

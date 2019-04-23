@@ -1,5 +1,5 @@
 ---
-title: Application.SlideShowNextSlide Event (PowerPoint)
+title: Application.SlideShowNextSlide event (PowerPoint)
 keywords: vbapp10.chm621013
 f1_keywords:
 - vbapp10.chm621013
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Application.SlideShowNextSlide
 ms.assetid: a73d051e-9f53-43bd-1f41-b9111197e464
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SlideShowNextSlide Event (PowerPoint)
+# Application.SlideShowNextSlide event (PowerPoint)
 
 Occurs immediately before the transition to the next slide. For the first slide, occurs immediately after the  **[SlideShowBegin](PowerPoint.Application.SlideShowBegin.md)** event.
 
 
 ## Syntax
 
- _expression_. `SlideShowNextSlide`( `_Wn_` )
+_expression_. `SlideShowNextSlide`(_Wn_)
 
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
@@ -138,3 +139,4 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

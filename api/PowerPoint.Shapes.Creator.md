@@ -1,21 +1,22 @@
 ---
-title: Shapes.Creator Property (PowerPoint)
+title: Shapes.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Creator
 ms.assetid: 495a5a34-efdb-784e-8748-7bc6005e7ffd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Creator Property (PowerPoint)
+# Shapes.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

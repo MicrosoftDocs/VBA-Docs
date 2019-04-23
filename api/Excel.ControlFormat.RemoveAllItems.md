@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.RemoveAllItems Method (Excel)
+title: ControlFormat.RemoveAllItems method (Excel)
 keywords: vbaxl10.chm630074
 f1_keywords:
 - vbaxl10.chm630074
@@ -8,19 +8,20 @@ api_name:
 - Excel.ControlFormat.RemoveAllItems
 ms.assetid: de8e1721-45e1-eca9-d35d-7d72c32dc0bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ControlFormat.RemoveAllItems Method (Excel)
+# ControlFormat.RemoveAllItems method (Excel)
 
 Removes all entries from a Microsoft Excel list box or combo box.
 
 
 ## Syntax
 
- _expression_. `RemoveAllItems`
+_expression_. `RemoveAllItems`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).Shapes(2).ControlFormat.RemoveAllItems
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

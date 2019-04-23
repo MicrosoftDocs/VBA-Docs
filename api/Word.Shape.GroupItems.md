@@ -1,5 +1,5 @@
 ---
-title: Shape.GroupItems Property (Word)
+title: Shape.GroupItems property (Word)
 keywords: vbawd10.chm161480812
 f1_keywords:
 - vbawd10.chm161480812
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.GroupItems
 ms.assetid: c78ee480-b63a-cf0a-cbc0-94394f898912
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GroupItems Property (Word)
+# Shape.GroupItems property (Word)
 
 Returns a  **[GroupShapes](Word.groupshapes.md)** object that represents the individual shapes in the specified group. Read-only.
 
 
 ## Syntax
 
- _expression_. `GroupItems`
+_expression_. `GroupItems`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

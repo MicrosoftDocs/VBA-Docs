@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.ActiveSheetView
 ms.assetid: 75bdb4a6-0579-649c-20a4-6cd55fbd7e3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `ActiveSheetView`
+_expression_. `ActiveSheetView`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ ms.date: 06/08/2017
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

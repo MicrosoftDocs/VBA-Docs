@@ -1,5 +1,5 @@
 ---
-title: Shape.Shadow Property (Word)
+title: Shape.Shadow property (Word)
 keywords: vbawd10.chm161480823
 f1_keywords:
 - vbawd10.chm161480823
@@ -8,19 +8,20 @@ api_name:
 - Word.Shape.Shadow
 ms.assetid: 43e65f16-9bd6-ab41-48b0-d52fc67dd5ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Shadow Property (Word)
+# Shape.Shadow property (Word)
 
 Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_.**Shadow**
 
- _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
+_expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Example
@@ -41,3 +42,4 @@ myShape.Shadow.Type = msoShadow5
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

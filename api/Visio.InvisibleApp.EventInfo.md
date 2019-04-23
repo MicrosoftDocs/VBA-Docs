@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EventInfo Property (Visio)
+title: InvisibleApp.EventInfo property (Visio)
 keywords: vis_sdr.chm17513475
 f1_keywords:
 - vis_sdr.chm17513475
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.EventInfo
 ms.assetid: a2908ac3-6e92-5e07-5119-97e1d88416ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.EventInfo Property (Visio)
+# InvisibleApp.EventInfo property (Visio)
 
 Gets additional information associated with an event, if any exists. Read-only.
 
 
 ## Syntax
 
- _expression_. `EventInfo`( `_eventSeqNum_` )
+_expression_. `EventInfo`( `_eventSeqNum_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -38,7 +39,7 @@ String
 
 ## Remarks
 
-When Microsoft Visio fires an event, there are a small number of events for which additional information is available. These events are  **BeforeDocumentSaveAs** , **DocumentSavedAs** , **EnterScope** , **ExitScope** , **MarkerEvent** , **ShapesDeleted** , and **ShapeChanged** . Use the application's **EventInfo** property to obtain this information, when available.
+When Microsoft Visio fires an event, there are a small number of events for which additional information is available. These events are  **BeforeDocumentSaveAs**, **DocumentSavedAs**, **EnterScope**, **ExitScope**, **MarkerEvent**, **ShapesDeleted**, and **ShapeChanged**. Use the application's **EventInfo** property to obtain this information, when available.
 
 The  **EventInfo** property returns the following:
 
@@ -60,18 +61,16 @@ If an event target queries the  **EventInfo** property immediately after being t
 
 
 
- **Note**  Event handlers that use the Microsoft Visual Basic for Applications (VBA)  **WithEvents** keyword have access to only the most recent event and must use **visEvtIDMostRecent** .
+ **Note**  Event handlers that use the Microsoft Visual Basic for Applications (VBA)  **WithEvents** keyword have access to only the most recent event and must use **visEvtIDMostRecent**.
 
 To ensure that the information returned by the  **EventInfo** property is associated with the same event that triggered the add-on, the executable file can pass <sequence number> as an argument to the **EventInfo** property. You can obtain the sequence number of an event in the following ways:
 
 
 
 
-- If the  **Action** property of the **Event** object returns **visActCodeRunAddon** , the command line string passed to the add-on contains a substring of the form "/eventid=<sequence number>".
+- If the  **Action** property of the **Event** object returns **visActCodeRunAddon**, the command line string passed to the add-on contains a substring of the form "/eventid=<sequence number>".
     
      **Note**   Even though the substring is labeled "/eventid," don't confuse the <sequence number> passed in the command line string with the **ID** property of the firing **Event** object, which identifies the **Event** object in its **EventList** collection. The number being passed is actually the firing sequence number.
-- If the  **Action** property of the **Event** object returns **visActCodeAdvise** , the sequence number is passed as an argument to the **VisEventProc** procedure implemented by the target object.
-    
+- If the  **Action** property of the **Event** object returns **visActCodeAdvise**, the sequence number is passed as an argument to the **VisEventProc** procedure implemented by the target object.
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

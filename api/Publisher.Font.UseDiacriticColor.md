@@ -1,5 +1,5 @@
 ---
-title: Font.UseDiacriticColor Property (Publisher)
+title: Font.UseDiacriticColor property (Publisher)
 keywords: vbapb10.chm5374002
 f1_keywords:
 - vbapb10.chm5374002
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.UseDiacriticColor
 ms.assetid: 368d3599-b0b0-1790-0ce0-13f1936bccb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.UseDiacriticColor Property (Publisher)
+# Font.UseDiacriticColor property (Publisher)
 
 Returns or sets  **MsoTriState** constant indicating whether you can set the color of diacritics in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **UseDiacriticColor**
+_expression_.**UseDiacriticColor**
 
  _expression_ A variable that represents an  **Font** object.
 
@@ -34,7 +35,7 @@ The  **UseDiacriticColor** property value can be one of the **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The color of diacritics cannot be set in the specified text range.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -61,4 +62,4 @@ Sub UseDiaColor()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

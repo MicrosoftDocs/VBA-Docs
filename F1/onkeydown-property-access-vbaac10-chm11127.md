@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 47d5dccf-41a7-4c58-8717-c766f66b9dd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.OnKeyDown property (Access)](http://msdn.microsoft.com/library/8de375d7-da00-318a-2a1a-7d2fb26bd11d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

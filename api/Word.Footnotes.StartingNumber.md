@@ -1,5 +1,5 @@
 ---
-title: Footnotes.StartingNumber Property (Word)
+title: Footnotes.StartingNumber property (Word)
 keywords: vbawd10.chm155320422
 f1_keywords:
 - vbawd10.chm155320422
@@ -8,26 +8,27 @@ api_name:
 - Word.Footnotes.StartingNumber
 ms.assetid: c058fc5b-80d0-beba-5e89-2f8661264122
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Footnotes.StartingNumber Property (Word)
+# Footnotes.StartingNumber property (Word)
 
-Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
+Returns or sets the starting note number, line number, or page number. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `StartingNumber`
+_expression_. `StartingNumber`
 
- _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Remarks
 
 You must be in print layout view to see line numbering.
 
-When applied to page numbers, this property returns or sets the beginning page number for the specified  **HeaderFooter** object. This number may or may not be visible on the first page, depending on the setting of the **ShowFirstPageNumber** property. The **RestartNumberingAtSection** property, if set to **False** , will override the **StartingNumber** property so that page numbering can continue from the previous section.
+When applied to page numbers, this property returns or sets the beginning page number for the specified  **HeaderFooter** object. This number may or may not be visible on the first page, depending on the setting of the **ShowFirstPageNumber** property. The **RestartNumberingAtSection** property, if set to **False**, will override the **StartingNumber** property so that page numbering can continue from the previous section.
 
 
 ## Example
@@ -49,3 +50,4 @@ End With
 
 [Footnotes Collection Object](Word.footnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

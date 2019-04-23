@@ -1,18 +1,19 @@
 ---
-title: MsoRelativeNodePosition Enumeration (Office)
+title: MsoRelativeNodePosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoRelativeNodePosition
 ms.assetid: b449ed12-1661-3e7a-6a79-9a934be294fa
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoRelativeNodePosition Enumeration (Office)
+# MsoRelativeNodePosition enumeration (Office)
 
 Specifies where a node is added to a diagram relative to existing nodes.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -21,3 +22,4 @@ Specifies where a node is added to a diagram relative to existing nodes.
 |**msoBeforeFirstSibling**|3|Node is added before first sibling.|
 |**msoBeforeNode**|1|Node is added before current node.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

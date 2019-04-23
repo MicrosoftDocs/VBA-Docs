@@ -1,14 +1,15 @@
 ---
-title: PpBorderType Enumeration (PowerPoint)
+title: PpBorderType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpBorderType
 ms.assetid: feb0524b-59b9-6179-fd23-91b3595be30f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PpBorderType Enumeration (PowerPoint)
+# PpBorderType enumeration (PowerPoint)
 
 Indicates the direction in which a cell border or diagonal line is drawn.
 
@@ -23,3 +24,4 @@ Indicates the direction in which a cell border or diagonal line is drawn.
 |**ppBorderRight**|4|Right|
 |**ppBorderTop**|1|Top|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5c49a1ba-1238-5f31-1b6f-1e03a5da8022
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -20,3 +21,4 @@ This condition may or may not be serious. This error has the following cause and
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

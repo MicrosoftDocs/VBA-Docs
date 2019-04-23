@@ -1,28 +1,26 @@
 ---
-title: Like Operator
+title: Like operator
 keywords: vblr6.chm1008961
 f1_keywords:
 - vblr6.chm1008961
 ms.prod: office
 ms.assetid: 6df80925-8331-6c8c-4fd3-f397de0e44c1
-ms.date: 06/08/2017
+ms.date: 11/19/2018
+localization_priority: Normal
 ---
 
 
-# Like Operator
-
-
+# Like operator
 
 Used to compare two strings.
 
 ## Syntax
 
-_result_ **=** _string_ **Like** _pattern_
+_result_ = _string_ **Like** _pattern_
 
-The  **Like** operator syntax has these parts:
+The **Like** operator syntax has these parts:
 
-
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _string_|Required; any [string expression](../../Glossary/vbe-glossary.md#string-expression).|
@@ -30,49 +28,57 @@ The  **Like** operator syntax has these parts:
 
 ## Remarks
 
-If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is [Null](../../Glossary/vbe-glossary.md#null),  _result_ is **Null**.  
-The behavior of the  **Like** operator depends on the **Option Compare** statement. The default [string-comparison](../../Glossary/vbe-glossary.md#string-comparison) method for each [module](../../Glossary/vbe-glossary.md#module) is **Option Compare** **Binary**.  
+If _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is [Null](../../Glossary/vbe-glossary.md#null),  _result_ is **Null**. 
 
-**Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. Sort order is determined by the code page. In the following example, a typical binary sort order is shown:  
-A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø
+The behavior of the **Like** operator depends on the **Option Compare** statement. The default [string-comparison](../../Glossary/vbe-glossary.md#string-comparison) method for each [module](../../Glossary/vbe-glossary.md#module) is **Option Compare Binary**.  
+
+**Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. Sort order is determined by the code page. 
+
+In the following example, a typical binary sort order is shown:  
+
+`A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø`
  
-**Option Compare Text** results in string comparisons based on a case-insensitive, textual sort order determined by your system's [locale](../../Glossary/vbe-glossary.md#locale). When you sort the same characters using  **Option Compare Text**, the following text sort order is produced:  
-(A=a) < (À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø)
+**Option Compare Text** results in string comparisons based on a case-insensitive, textual sort order determined by your system's [locale](../../Glossary/vbe-glossary.md#locale). When you sort the same characters using **Option Compare Text**, the following text sort order is produced:
 
-Built-in pattern matching provides a versatile tool for string comparisons. The pattern-matching features allow you to use wildcard characters, character lists, or character ranges, in any combination, to match strings. The following table shows the characters allowed in  _pattern_ and what they match:
+`(A=a) < (À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø)`
 
+Built-in pattern matching provides a versatile tool for string comparisons. The pattern-matching features allow you to use wildcard characters, character lists, or character ranges, in any combination, to match strings. The following table shows the characters allowed in _pattern_ and what they match:
 
-|**Characters in  _pattern_**|**Matches in  _string_**|
+|Characters in  _pattern_|Matches in  _string_|
 |:-----|:-----|
 |**?**|Any single character.|
 |**\***|Zero or more characters.|
 |**#**|Any single digit (0-9).|
-|[ _charlist_ ]|Any single character in  _charlist_.|
-|[ **!**_charlist_ ]|Any single character not in  _charlist_.|
+|[ _charlist_ ]|Any single character in _charlist_.|
+|[ **!**_charlist_ ]|Any single character not in _charlist_.|
 
 A group of one or more characters ( _charlist_ ) enclosed in brackets (**[ ]**) can be used to match any single character in _string_ and can include almost any [character code](../../Glossary/vbe-glossary.md#character-code), including digits.
 
- **Note**  To match the special characters left bracket (**[**), question mark (**?**), number sign (**#**), and asterisk (**\***), enclose them in brackets. The right bracket (**]**) can't be used within a group to match itself, but it can be used outside a group as an individual character.
+> [!NOTE] 
+> To match the special characters left bracket (**[**), question mark (**?**), number sign (**#**), and asterisk (**\***), enclose them in brackets. The right bracket (**]**) can't be used within a group to match itself, but it can be used outside a group as an individual character.
 
 By using a hyphen (**-**) to separate the upper and lower bounds of the range, _charlist_ can specify a range of characters. For example, `[A-Z]` results in a match if the corresponding character position in _string_ contains any uppercase letters in the range A-Z. Multiple ranges are included within the brackets without delimiters.
+
 The meaning of a specified range depends on the character ordering valid at [run time](../../Glossary/vbe-glossary.md#run-time) (as determined by **Option Compare** and the [locale](../../Glossary/vbe-glossary.md#locale) setting of the system the code is running on). Using the **Option Compare Binary** example, the range `[A-E]` matches A, B and E. With **Option Compare Text**, `[A-E]` matches A, a, À, à, B, b, E, e. The range does not match Ê or ê because accented characters fall after unaccented characters in the sort order.
+
 Other important rules for pattern matching include the following:
 
 - An exclamation point (**!**) at the beginning of _charlist_ means that a match is made if any character except the characters in _charlist_ is found in _string_. When used outside brackets, the exclamation point matches itself.
     
 - A hyphen (**-**) can appear either at the beginning (after an exclamation point if one is used) or at the end of _charlist_ to match itself. In any other location, the hyphen is used to identify a range of characters.
     
-- When a range of characters is specified, they must appear in ascending sort order (from lowest to highest).  `[A-Z]` is a valid pattern, but `[Z-A]` is not.
+- When a range of characters is specified, they must appear in ascending sort order (from lowest to highest). `[A-Z]` is a valid pattern, but `[Z-A]` is not.
     
 - The character sequence  `[]` is considered a zero-length string ("").
     
 
-In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The  **Like** operator recognizes that the single special character and the two individual characters are equivalent.
-When a language that uses a special character is specified in the system locale settings, an occurrence of the single special character in either  _pattern_ or _string_ matches the equivalent 2-character sequence in the other string. Similarly, a single special character in _pattern_ enclosed in brackets (by itself, in a list, or in a range) matches the equivalent 2-character sequence in _string_.
+In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The **Like** operator recognizes that the single special character and the two individual characters are equivalent.
+
+When a language that uses a special character is specified in the system locale settings, an occurrence of the single special character in either _pattern_ or _string_ matches the equivalent 2-character sequence in the other string. Similarly, a single special character in _pattern_ enclosed in brackets (by itself, in a list, or in a range) matches the equivalent 2-character sequence in _string_.
 
 ## Example
 
-This example uses the  **Like** operator to compare a string to a pattern.
+This example uses the **Like** operator to compare a string to a pattern.
 
 
 ```vb
@@ -92,3 +98,11 @@ MyCheck = "a [xyz" Like "a [*"    ' Throws Error 93 (invalid pattern string).
 ```
 
 
+## See also
+
+- [Operator summary](operator-summary.md)
+
+
+<!-- See wildcard-characters-used-in-string-comparisons.md for more information to add to this page -->
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

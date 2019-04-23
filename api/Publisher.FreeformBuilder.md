@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (Publisher)
+title: FreeformBuilder object (Publisher)
 keywords: vbapb10.chm3342335
 f1_keywords:
 - vbapb10.chm3342335
@@ -8,10 +8,11 @@ api_name:
 - Publisher.FreeformBuilder
 ms.assetid: 542df9f7-f636-a98e-01de-11005b5797cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder Object (Publisher)
+# FreeformBuilder object (Publisher)
 
 Represents the geometry of a freeform while it is being built.
  
@@ -47,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddNodes](Publisher.FreeformBuilder.AddNodes.md)|
 |[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)|
@@ -56,8 +57,9 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.FreeformBuilder.Application.md)|
 |[Parent](Publisher.FreeformBuilder.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

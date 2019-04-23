@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.PageRangeCells
 ms.assetid: 1c3b0694-539a-7d2d-17df-c0c0405d19e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents only the c
 
 ## Syntax
 
- _expression_. `PageRangeCells`
+_expression_. `PageRangeCells`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).PivotTables(1).PageRangeCells.Select
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

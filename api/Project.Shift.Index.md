@@ -1,21 +1,22 @@
 ---
-title: Shift.Index Property (Project)
+title: Shift.Index property (Project)
 ms.prod: project-server
 api_name:
 - Project.Shift.Index
 ms.assetid: dae37122-f745-2728-5004-b3b3d7ad188a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shift.Index Property (Project)
+# Shift.Index property (Project)
 
 Gets the index of a  **Shift** object in the containing object. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 
@@ -51,4 +52,4 @@ The following command in the  **Immediate** window of the VBE prints the value 2
 ? ActiveProject.Calendar.WeekDays.Item(3).Shift2.Index
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

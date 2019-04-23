@@ -3,6 +3,7 @@ title: Security Concerns for Solution Storage
 ms.prod: outlook
 ms.assetid: 8c237cd0-043a-d394-91a5-d85aab459091
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,3 +17,4 @@ The  **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** method suppo
 
 However, there exist technologies outside of the Outlook object model that allow modifying or deleting data stored as hidden items in MAPI folders. Solutions that are concerned with the privacy of their data should encrypt their private data at the property level with their own encryption algorithms.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

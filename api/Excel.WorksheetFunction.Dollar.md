@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dollar Method (Excel)
+title: WorksheetFunction.Dollar method (Excel)
 keywords: vbaxl10.chm137083
 f1_keywords:
 - vbaxl10.chm137083
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Dollar
 ms.assetid: 246988c8-568a-640b-affb-fd1cd8907889
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Dollar Method (Excel)
+# WorksheetFunction.Dollar method (Excel)
 
 The function described in this Help topic converts a number to text format and applies a currency symbol. The name of the function (and the symbol that it applies) depends upon your language settings.
 
 
 ## Syntax
 
- _expression_. `Dollar`( `_Arg1_` , `_Arg2_` )
+_expression_. `Dollar`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ The major difference between formatting a cell that contains a number with the  
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

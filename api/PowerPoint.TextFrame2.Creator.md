@@ -1,21 +1,22 @@
 ---
-title: TextFrame2.Creator Property (PowerPoint)
+title: TextFrame2.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Creator
 ms.assetid: e591a997-2322-cf14-d79b-0b63aa9d9e46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame2.Creator Property (PowerPoint)
+# TextFrame2.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
@@ -65,3 +66,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

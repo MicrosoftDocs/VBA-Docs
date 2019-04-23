@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0ec466ec-f6d5-4721-8710-8d5404e1249c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Windows Object (Visio)](http://msdn.microsoft.com/library/7151eb44-29cd-877d-d885-d1e0ab5498ed.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

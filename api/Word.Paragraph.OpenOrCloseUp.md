@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OpenOrCloseUp Method (Word)
+title: Paragraph.OpenOrCloseUp method (Word)
 keywords: vbawd10.chm156696879
 f1_keywords:
 - vbawd10.chm156696879
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.OpenOrCloseUp
 ms.assetid: ab5a657f-9a8f-a191-76ac-f16aaa2758ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.OpenOrCloseUp Method (Word)
+# Paragraph.OpenOrCloseUp method (Word)
 
 Toggles the spacing before a paragraph.
 
 
 ## Syntax
 
- _expression_. `OpenOrCloseUp`
+_expression_. `OpenOrCloseUp`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.Paragraphs(1).OpenOrCloseUp
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

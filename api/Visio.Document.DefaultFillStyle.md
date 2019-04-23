@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultFillStyle Property (Visio)
+title: Document.DefaultFillStyle property (Visio)
 keywords: vis_sdr.chm10513380
 f1_keywords:
 - vis_sdr.chm10513380
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.DefaultFillStyle
 ms.assetid: c013a054-99ef-2bc1-196d-f3877289a278
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.DefaultFillStyle Property (Visio)
+# Document.DefaultFillStyle property (Visio)
 
 Gets or sets the default fill style of a document. Read/write.
 
 
 ## Syntax
 
- _expression_. `DefaultFillStyle`
+_expression_. `DefaultFillStyle`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -32,4 +33,4 @@ String
 
 The document's default fill style is applied to new shapes created with the Microsoft Visio drawing tools or with the  **Draw** methods by Automation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

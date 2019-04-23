@@ -1,14 +1,15 @@
 ---
-title: xlOrientation enumeration (Excel)
+title: XlOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOrientation
 ms.assetid: a160f0d2-7c3c-4206-dbc2-a6a456e177d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlOrientation enumeration (Excel)
+# XlOrientation enumeration (Excel)
 
 Specifies the text orientation.
 
@@ -21,3 +22,4 @@ Specifies the text orientation.
 | **xlUpward**|-4171|Text runs upward.|
 | **xlVertical**|-4166|Text runs downward and is centered in the cell.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

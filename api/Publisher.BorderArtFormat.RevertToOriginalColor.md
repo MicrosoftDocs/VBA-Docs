@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.RevertToOriginalColor Method (Publisher)
+title: BorderArtFormat.RevertToOriginalColor method (Publisher)
 keywords: vbapb10.chm7602192
 f1_keywords:
 - vbapb10.chm7602192
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArtFormat.RevertToOriginalColor
 ms.assetid: 6b966576-eac4-3e55-ffdc-c064341474c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat.RevertToOriginalColor Method (Publisher)
+# BorderArtFormat.RevertToOriginalColor method (Publisher)
 
 Sets the BorderArt on the specified shape back to its default color.
 
 
 ## Syntax
 
- _expression_. **RevertToOriginalColor**
+_expression_.**RevertToOriginalColor**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
@@ -60,3 +61,4 @@ End Sub
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

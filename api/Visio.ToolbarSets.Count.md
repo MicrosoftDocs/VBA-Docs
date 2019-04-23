@@ -1,5 +1,5 @@
 ---
-title: ToolbarSets.Count Property (Visio)
+title: ToolbarSets.Count property (Visio)
 keywords: vis_sdr.chm14013330
 f1_keywords:
 - vis_sdr.chm14013330
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarSets.Count
 ms.assetid: e6558729-e088-ab2f-28ab-772bde63505c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarSets.Count Property (Visio)
+# ToolbarSets.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [ToolbarSets](./Visio.ToolbarSets.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

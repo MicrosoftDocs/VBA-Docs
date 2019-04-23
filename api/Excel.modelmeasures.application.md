@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: bf2c2284-b45b-5a68-b02a-c2cc88babcd4
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'ModelMeasures' object.
+_expression_ A variable that represents a 'ModelMeasures' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -39,6 +40,6 @@ End If
 ## See also
 
 
-[ModelMeasures Object ](Excel.modelmeasures.md)
+[ModelMeasures Object](Excel.modelmeasures.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

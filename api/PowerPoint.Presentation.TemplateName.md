@@ -1,5 +1,5 @@
 ---
-title: Presentation.TemplateName Property (PowerPoint)
+title: Presentation.TemplateName property (PowerPoint)
 keywords: vbapp10.chm583008
 f1_keywords:
 - vbapp10.chm583008
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.TemplateName
 ms.assetid: 50cea27c-8181-eb32-20ae-88ae1f7ab34c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.TemplateName Property (PowerPoint)
+# Presentation.TemplateName property (PowerPoint)
 
 Returns the name of the design template associated with the specified presentation. Read-only.
 
 
 ## Syntax
 
- _expression_. `TemplateName`
+_expression_. `TemplateName`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -53,3 +54,4 @@ End With
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

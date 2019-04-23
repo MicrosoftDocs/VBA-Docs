@@ -1,5 +1,5 @@
 ---
-title: OlMultiSelect Enumeration (Outlook)
+title: OlMultiSelect enumeration (Outlook)
 keywords: vbaol11.chm1000027
 f1_keywords:
 - vbaol11.chm1000027
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlMultiSelect
 ms.assetid: 33d61773-515f-e267-d60a-a3d91f3be9d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlMultiSelect Enumeration (Outlook)
+# OlMultiSelect enumeration (Outlook)
 
 Specifies the type of selection that is supported in a list box control.
 
@@ -23,3 +24,4 @@ Specifies the type of selection that is supported in a list box control.
 | **olMultiSelectMulti**|1|Supports selection of one or more items at a time. Pressing  **SPACEBAR** or clicking the mouse toggles the selection of an item in the list.|
 | **olMultiSelectSingle**|0|Supports selection of only one item at a time.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

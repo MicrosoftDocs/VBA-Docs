@@ -1,5 +1,5 @@
 ---
-title: SlideRange.ColorScheme Property (PowerPoint)
+title: SlideRange.ColorScheme property (PowerPoint)
 keywords: vbapp10.chm532006
 f1_keywords:
 - vbapp10.chm532006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.ColorScheme
 ms.assetid: 6ae228d8-a105-5745-f7ce-a858bb0954e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.ColorScheme Property (PowerPoint)
+# SlideRange.ColorScheme property (PowerPoint)
 
 Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
 
 
 ## Syntax
 
- _expression_. `ColorScheme`
+_expression_. `ColorScheme`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -45,3 +46,4 @@ mySlides.ColorScheme.Colors(ppTitle).RGB = RGB(0, 255, 0)
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ViewField.ColumnFormat Property (Outlook)
+title: ViewField.ColumnFormat property (Outlook)
 keywords: vbaol11.chm2544
 f1_keywords:
 - vbaol11.chm2544
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ViewField.ColumnFormat
 ms.assetid: 0014f1d8-5380-3301-558a-7fd8d49afff9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ViewField.ColumnFormat Property (Outlook)
+# ViewField.ColumnFormat property (Outlook)
 
 Returns a  **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents the formatting information for the **[ViewField](Outlook.ViewField.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ColumnFormat`
+_expression_. `ColumnFormat`
 
- _expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
+_expression_ A variable that represents a [ViewField](Outlook.ViewField.md) object.
 
 
 ## Example
@@ -94,3 +95,4 @@ End Sub
 
 [ViewField Object](Outlook.ViewField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

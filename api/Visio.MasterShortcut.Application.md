@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.Application Property (Visio)
+title: MasterShortcut.Application property (Visio)
 keywords: vis_sdr.chm16013090
 f1_keywords:
 - vis_sdr.chm16013090
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.Application
 ms.assetid: ae6a5562-33b1-fe91-d7b7-56030d18c3e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.Application Property (Visio)
+# MasterShortcut.Application property (Visio)
 
 Returns the instance of Microsoft Visio that is associated with an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -49,4 +50,4 @@ Public Sub Application_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

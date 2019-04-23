@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementLeft Method (Publisher)
+title: Shape.IncrementLeft method (Publisher)
 keywords: vbapb10.chm2228256
 f1_keywords:
 - vbapb10.chm2228256
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.IncrementLeft
 ms.assetid: 447886ad-f515-9869-524a-a803ab025fa4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IncrementLeft Method (Publisher)
+# Shape.IncrementLeft method (Publisher)
 
 Moves the specified shape or shape range horizontally by the specified distance.
 
 
 ## Syntax
 
- _expression_. **IncrementLeft**(**_Increment_**)
+_expression_.**IncrementLeft**(**_Increment_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -56,4 +57,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

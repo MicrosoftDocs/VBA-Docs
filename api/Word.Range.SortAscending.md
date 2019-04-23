@@ -1,5 +1,5 @@
 ---
-title: Range.SortAscending Method (Word)
+title: Range.SortAscending method (Word)
 keywords: vbawd10.chm157155497
 f1_keywords:
 - vbawd10.chm157155497
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.SortAscending
 ms.assetid: 2e7cd40d-6ddd-c191-c082-1e5c852e80a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.SortAscending Method (Word)
+# Range.SortAscending method (Word)
 
 Sorts paragraphs or table rows in ascending alphanumeric order.
 
 
 ## Syntax
 
- _expression_. `SortAscending`
+_expression_. `SortAscending`
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The first paragraph or table row is considered a header record and isn't include
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

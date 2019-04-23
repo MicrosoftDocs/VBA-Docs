@@ -1,20 +1,21 @@
 ---
-title: Application.AddSiteColumn Method (Project)
+title: Application.AddSiteColumn method (Project)
 keywords: vbapj.chm1012
 f1_keywords:
 - vbapj.chm1012
 ms.prod: project-server
 ms.assetid: 0ec78b0b-b4bf-3dea-0ed6-af78798bd7cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AddSiteColumn Method (Project)
+# Application.AddSiteColumn method (Project)
 Adds a column that becomes available for the tasks list in the synchronized SharePoint site for the active project.
 
 ## Syntax
 
- _expression_. `AddSiteColumn` _(ProjectField_,  _SharePointName)_
+_expression_. `AddSiteColumn` _(ProjectField_,  _SharePointName)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -28,7 +29,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 | _ProjectField_|Optional|**[PjField](Project.PjField.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
 | _SharePointName_|Optional|**Variant**|The name of the new column.|
 | _ProjectField_|Optional|PJFIELD||
-| _SharePointName_|Optional|VARIANT||
+| _SharePointName_|Optional|**Variant**||
 |Name|Required/Optional|Data type|Description|
 
 ## Return value
@@ -156,3 +157,5 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 
 [LinkToTaskList Method](Project.application.linktotasklist.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

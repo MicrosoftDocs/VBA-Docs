@@ -1,5 +1,5 @@
 ---
-title: TextFrame.BreakForwardLink Method (Publisher)
+title: TextFrame.BreakForwardLink method (Publisher)
 keywords: vbapb10.chm3866661
 f1_keywords:
 - vbapb10.chm3866661
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.BreakForwardLink
 ms.assetid: 60a7a798-ebd3-e00d-032d-685dd0d5a042
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.BreakForwardLink Method (Publisher)
+# TextFrame.BreakForwardLink method (Publisher)
 
 Breaks the forward link for the specified text frame, if such a link exists.
 
 
 ## Syntax
 
- _expression_. **BreakForwardLink**
+_expression_.**BreakForwardLink**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -61,4 +62,4 @@ Sub BreakTextLink()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

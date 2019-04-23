@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2d17e520-0d31-4821-aee2-fc515391efcb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.StyleChanged Event (Visio)](http://msdn.microsoft.com/library/89b640c3-4aba-f31a-7562-a4372b3b3ebd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

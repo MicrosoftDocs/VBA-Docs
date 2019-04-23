@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectedShape Property (Publisher)
+title: ConnectorFormat.EndConnectedShape property (Publisher)
 keywords: vbapb10.chm3211524
 f1_keywords:
 - vbapb10.chm3211524
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ConnectorFormat.EndConnectedShape
 ms.assetid: 3ee4a031-228a-cac7-8268-29bfc3a888c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.EndConnectedShape Property (Publisher)
+# ConnectorFormat.EndConnectedShape property (Publisher)
 
 Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to which the end of the specified connector is attached.
 
 
 ## Syntax
 
- _expression_. **EndConnectedShape**
+_expression_.**EndConnectedShape**
 
  _expression_ A variable that represents an  **ConnectorFormat** object.
 
@@ -74,4 +75,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

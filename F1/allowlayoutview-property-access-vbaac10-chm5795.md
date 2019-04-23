@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 2e49c159-efab-45f8-9cb9-a24fbef8e60b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.AllowLayoutView property (Access)](http://msdn.microsoft.com/library/5388fcd8-32fb-781d-538c-ac114f8d5bd8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

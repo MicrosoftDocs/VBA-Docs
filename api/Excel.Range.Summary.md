@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.Summary
 ms.assetid: f9e18651-20b6-1094-2ee5-7cd23559498e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Range.Summary property (Excel)
 
- **True** if the range is an outlining summary row or column. The range should be a row or a column. Read-only **Variant** .
+ **True** if the range is an outlining summary row or column. The range should be a row or a column. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Summary`
+_expression_. `Summary`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Example
@@ -37,4 +38,4 @@ With Worksheets("Sheet1").Rows(4)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

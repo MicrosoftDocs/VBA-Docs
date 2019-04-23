@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Intercept Method (Excel)
+title: WorksheetFunction.Intercept method (Excel)
 keywords: vbaxl10.chm137215
 f1_keywords:
 - vbaxl10.chm137215
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Intercept
 ms.assetid: 8fa9d911-24af-6e1c-0c0b-b42b18e75e10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Intercept Method (Excel)
+# WorksheetFunction.Intercept method (Excel)
 
 Calculates the point at which a line will intersect the y-axis by using existing x-values and y-values. The intercept point is based on a best-fit regression line plotted through the known x-values and known y-values. Use the INTERCEPT function when you want to determine the value of the dependent variable when the independent variable is 0 (zero). For example, you can use the INTERCEPT function to predict a metal's electrical resistance at 0?C when your data points were taken at room temperature and higher.
 
@@ -20,7 +21,7 @@ Calculates the point at which a line will intersect the y-axis by using existing
 
 _expression_. `Intercept`(`Arg1`, `Arg2`)
 
-_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

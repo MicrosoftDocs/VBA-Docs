@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.TextDirection Property (PowerPoint)
+title: ParagraphFormat.TextDirection property (PowerPoint)
 keywords: vbapp10.chm576015
 f1_keywords:
 - vbapp10.chm576015
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ParagraphFormat.TextDirection
 ms.assetid: 42b8cd29-c467-07c9-c9c9-f644fdc824ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.TextDirection Property (PowerPoint)
+# ParagraphFormat.TextDirection property (PowerPoint)
 
 Returns or sets the text direction for the specified paragraph. Read/write.
 
 
 ## Syntax
 
- _expression_. `TextDirection`
+_expression_. `TextDirection`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
@@ -57,3 +58,4 @@ MsgBox ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

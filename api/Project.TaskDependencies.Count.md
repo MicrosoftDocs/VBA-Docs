@@ -1,21 +1,22 @@
 ---
-title: TaskDependencies.Count Property (Project)
+title: TaskDependencies.Count property (Project)
 ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Count
 ms.assetid: 499ae3c9-b99a-be2b-2d57-7f3dcb28d683
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskDependencies.Count Property (Project)
+# TaskDependencies.Count property (Project)
 
 Gets the number of items in the  **TaskDependencies** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a 'TaskDependencies' object.
 
@@ -29,3 +30,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [TaskDependencies Collection Object](Project.taskdependencies.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

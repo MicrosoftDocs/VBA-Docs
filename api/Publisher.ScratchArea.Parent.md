@@ -1,5 +1,5 @@
 ---
-title: ScratchArea.Parent Property (Publisher)
+title: ScratchArea.Parent property (Publisher)
 keywords: vbapb10.chm1179650
 f1_keywords:
 - vbapb10.chm1179650
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ScratchArea.Parent
 ms.assetid: dbff5ba1-0029-c385-bd70-adda900b1a39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScratchArea.Parent Property (Publisher)
+# ScratchArea.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **ScratchArea** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Presentation.DocumentInspectors Property (PowerPoint)
+title: Presentation.DocumentInspectors property (PowerPoint)
 keywords: vbapp10.chm583101
 f1_keywords:
 - vbapp10.chm583101
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Presentation.DocumentInspectors
 ms.assetid: 3f5c9fb1-de9c-170b-dca5-22215cad1dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Presentation.DocumentInspectors Property (PowerPoint)
+# Presentation.DocumentInspectors property (PowerPoint)
 
-Returns the Microsoft Office  **[DocumentInspectors](./Office.DocumentInspectors.md)** collection. Read-only.
+Returns the Microsoft Office  **[DocumentInspectors](Office.DocumentInspectors.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `DocumentInspectors`
+_expression_. `DocumentInspectors`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
@@ -38,3 +39,4 @@ The Document Inspector is a feature that helps you to examine and remove sensiti
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 44a08969-f0e9-291e-7663-b7cc2e3660db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -67,4 +68,4 @@ Public Sub Main()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

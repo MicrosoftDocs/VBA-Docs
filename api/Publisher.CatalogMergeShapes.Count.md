@@ -1,5 +1,5 @@
 ---
-title: CatalogMergeShapes.Count Property (Publisher)
+title: CatalogMergeShapes.Count property (Publisher)
 keywords: vbapb10.chm8388611
 f1_keywords:
 - vbapb10.chm8388611
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CatalogMergeShapes.Count
 ms.assetid: a871af2f-183c-f5a8-7ad0-c8d25c71e41f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CatalogMergeShapes.Count Property (Publisher)
+# CatalogMergeShapes.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **CatalogMergeShapes** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

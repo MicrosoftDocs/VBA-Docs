@@ -1,21 +1,22 @@
 ---
-title: Point.Explosion Property (PowerPoint)
+title: Point.Explosion property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Explosion
 ms.assetid: de7d81aa-bbee-3af5-f38a-74ff7b11c88e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Point.Explosion Property (PowerPoint)
+# Point.Explosion property (PowerPoint)
 
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Explosion`
+_expression_. `Explosion`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
@@ -55,3 +56,4 @@ End With
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

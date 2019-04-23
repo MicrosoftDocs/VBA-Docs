@@ -1,5 +1,5 @@
 ---
-title: Path.Points Method (Visio)
+title: Path.Points method (Visio)
 keywords: vis_sdr.chm15414090
 f1_keywords:
 - vis_sdr.chm15414090
@@ -8,17 +8,18 @@ api_name:
 - Visio.Path.Points
 ms.assetid: 3c14acdb-33ad-9bd9-96d9-320bd53fa5c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Path.Points Method (Visio)
+# Path.Points method (Visio)
 
 Returns an array of points that defines a polyline that approximates a  **Path** or **Curve** object within a given tolerance.
 
 
 ## Syntax
 
- _expression_. `Points`( `_Tolerance_` , `_xyArray()_` )
+_expression_. `Points`( `_Tolerance_` , `_xyArray()_` )
 
  _expression_ A variable that represents a [Path](./Visio.Path.md) object.
 
@@ -79,4 +80,4 @@ Public Sub Points_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

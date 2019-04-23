@@ -3,6 +3,7 @@ title: Database <name> is exclusively locked. (Error 3006)
 ms.prod: access
 ms.assetid: 068c6f26-eac4-b787-aa25-7273cd36601b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to use a database that is currently open for exclusive access by anoth
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

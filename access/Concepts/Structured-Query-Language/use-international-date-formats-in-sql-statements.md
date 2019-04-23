@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: b3ca8423-b15a-3934-ed8e-4129f0bf9700
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 You must use English (United States) date formats in SQL statements in Visual Basic. However, you can use international date formats in the query design grid.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

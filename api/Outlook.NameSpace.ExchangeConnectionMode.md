@@ -1,5 +1,5 @@
 ---
-title: NameSpace.ExchangeConnectionMode Property (Outlook)
+title: NameSpace.ExchangeConnectionMode property (Outlook)
 keywords: vbaol11.chm776
 f1_keywords:
 - vbaol11.chm776
@@ -8,24 +8,25 @@ api_name:
 - Outlook.NameSpace.ExchangeConnectionMode
 ms.assetid: 4b9f7917-5340-cf72-d690-ac5a7b8d4792
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.ExchangeConnectionMode Property (Outlook)
+# NameSpace.ExchangeConnectionMode property (Outlook)
 
 Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
 
 
 ## Syntax
 
- _expression_. `ExchangeConnectionMode`
+_expression_. `ExchangeConnectionMode`
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks
 
-If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected** , the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **NameSpace.Offline** property returns **False** .
+If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected**, the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True**. If the **ExchangeConnectionMode** property is **olOnline**, **olConnected**, or **olConnectedHeaders**, the **NameSpace.Offline** property returns **False**.
 
 
 ## Example
@@ -79,3 +80,4 @@ End Sub
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

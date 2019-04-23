@@ -1,5 +1,5 @@
 ---
-title: ErrorBars Object (Word)
+title: ErrorBars object (Word)
 keywords: vbawd10.chm1142
 f1_keywords:
 - vbawd10.chm1142
@@ -8,17 +8,18 @@ api_name:
 - Word.ErrorBars
 ms.assetid: 33949dd1-48fd-9fff-0bec-1439b65d8e04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ErrorBars Object (Word)
+# ErrorBars object (Word)
 
 Represents the error bars on a chart series.
 
 
 ## Remarks
 
- Error bars indicate the degree of uncertainty for chart data. Only series in area, bar, column, line, and scatter groups on a 2-D chart can have error bars. Only series in scatter groups can have x and y error bars. This object is not a collection. There is no object that represents a single error bar; you either enable x error bars or y error bars for all points in a series or you disable them.
+ Error bars indicate the degree of uncertainty for chart data. Only series in area, bar, column, line, and scatter groups on a 2D chart can have error bars. Only series in scatter groups can have x and y error bars. This object is not a collection. There is no object that represents a single error bar; you either enable x error bars or y error bars for all points in a series or you disable them.
 
 The  **[ErrorBar](Word.Series.ErrorBar.md)** method changes the error bar format and type.
 
@@ -41,6 +42,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

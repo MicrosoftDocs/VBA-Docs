@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: ddd8ce40-7df3-67ef-7365-9f728b3a8c39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,7 +27,7 @@ Macros and add-ons are programs that extend the functionality of Visio. Exactly 
 You can run a macro or add-on from the Visio application in several ways. Here are a few of the most common:
 
 
-- Choose a macro or add-on from the  **Macros** dialog box. (In the **Code** group on the [Developer](../How-to/run-visio-in-developer-mode.md) tab, click **Macros**.) If your program is an EXE file, before it can appear in the  **Macros** dialog box, it must be located in a folder along the **Add-ons** path in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) 
+- Choose a macro or add-on from the  **Macros** dialog box. (In the **Code** group on the [Developer](../How-to/run-visio-in-developer-mode.md) tab, click **Macros**.) If your program is an EXE file, before it can appear in the  **Macros** dialog box, it must be located in a folder along the **Add-ons** path in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click **File Locations**.) 
     
      **Note**  Starting with Microsoft Office Visio 2003, instead of specifying file paths to your Visio add-ons, you can publish your add-ons by using a Microsoft Windows Installer package. By doing so, you can take advantage of Microsoft Office application features such as language switching, installation on demand, and repair. For more information about using a Windows Installer package to publish your add-ons, search for "Microsoft Windows Installer" on MSDN, the Microsoft Developer Network Web site.
 - Double-click a shape associated with an add-on or macro. The program you want to run must be selected in the  **Run macro** list on the **Double-Click** tab in the **Behavior** dialog box for that shape. (Select the shape, and then, on the [Developer](../How-to/run-visio-in-developer-mode.md) tab, click **Behavior**).
@@ -42,4 +43,4 @@ Beginning with Visio 2002, you can use COM add-ins in the same standardized way 
 
 For more information about building COM add-ins, see MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

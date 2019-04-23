@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 93c58d6e-92dc-44e7-a55a-1128bf396f45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.OnResize property (Access)](http://msdn.microsoft.com/library/336eceb4-7f78-b0b0-cb8f-a6a35c8bea76%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

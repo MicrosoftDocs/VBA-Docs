@@ -1,21 +1,22 @@
 ---
-title: Application.WindowGoalAreaChange Event (Project)
+title: Application.WindowGoalAreaChange event (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.WindowGoalAreaChange
 ms.assetid: 1ae33d11-f8aa-e1a2-b59d-9736ce4a6283
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowGoalAreaChange Event (Project)
+# Application.WindowGoalAreaChange event (Project)
 
 Occurs after a user clicks a different goal area in the Project Guide.
 
 
 ## Syntax
 
- _expression_. `WindowGoalAreaChange`( ` _Window_`, ` _goalArea_` )
+_expression_. `WindowGoalAreaChange`( `_Window_`, `_goalArea_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ nothing
 
 Project events do not occur when the project is embedded in another document or application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

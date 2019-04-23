@@ -1,5 +1,5 @@
 ---
-title: Event.SetFilterCommands Method (Visio)
+title: Event.SetFilterCommands method (Visio)
 keywords: vis_sdr.chm12650830
 f1_keywords:
 - vis_sdr.chm12650830
@@ -8,17 +8,18 @@ api_name:
 - Visio.Event.SetFilterCommands
 ms.assetid: ef4550c8-e77b-032f-52b2-7e2d18b2316f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Event.SetFilterCommands Method (Visio)
+# Event.SetFilterCommands method (Visio)
 
 Specifies an array of command ranges and a  **True** or **False** value indicating how to filter events for each command range.
 
 
 ## Syntax
 
- _expression_. `SetFilterCommands`( `_Commands()_` )
+_expression_. `SetFilterCommands`( `_Commands()_` )
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
@@ -60,15 +61,15 @@ For an event to successfully pass through a command filter, it must satisfy the 
 
 - It must have a valid command ID.
     
-- If all filters are  **True** , the event must match at least one filter.
+- If all filters are  **True**, the event must match at least one filter.
     
-- If all filters are  **False** , the event must not match any filter.
+- If all filters are  **False**, the event must not match any filter.
     
-- If the filters are a mixture of  **True** and **False** , the event must match at least one **True** filter and not match any **False** filters.
+- If the filters are a mixture of  **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     
 
 
-If there are no  **True** ranges in the array, events are considered **True** .
+If there are no  **True** ranges in the array, events are considered **True**.
 
 For example, to set up an array that blocks out a single command, use the following: 
 
@@ -112,4 +113,4 @@ Or, to set up an array that listens only to the  **Send to Back** command:
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

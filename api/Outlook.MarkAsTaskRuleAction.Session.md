@@ -1,5 +1,5 @@
 ---
-title: MarkAsTaskRuleAction.Session Property (Outlook)
+title: MarkAsTaskRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2281
 f1_keywords:
 - vbaol11.chm2281
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MarkAsTaskRuleAction.Session
 ms.assetid: c98edd5e-e887-4dfe-9e92-1618f506a10b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MarkAsTaskRuleAction.Session Property (Outlook)
+# MarkAsTaskRuleAction.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
+_expression_ A variable that represents a [MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

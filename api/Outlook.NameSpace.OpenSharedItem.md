@@ -1,5 +1,5 @@
 ---
-title: NameSpace.OpenSharedItem Method (Outlook)
+title: NameSpace.OpenSharedItem method (Outlook)
 keywords: vbaol11.chm789
 f1_keywords:
 - vbaol11.chm789
@@ -8,17 +8,18 @@ api_name:
 - Outlook.NameSpace.OpenSharedItem
 ms.assetid: ebfed85c-0af5-eb72-7a58-ae9e8b655347
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NameSpace.OpenSharedItem Method (Outlook)
+# NameSpace.OpenSharedItem method (Outlook)
 
 Opens a shared item from a specified path or URL.
 
 
 ## Syntax
 
- _expression_. `OpenSharedItem`( `_Path_` )
+_expression_. `OpenSharedItem`( `_Path_` )
 
  _expression_ An expression that returns a '[NameSpace](Outlook.NameSpace.md)' object.
 
@@ -55,3 +56,4 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

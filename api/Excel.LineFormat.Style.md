@@ -8,6 +8,7 @@ api_name:
 - Excel.LineFormat.Style
 ms.assetid: d01ce275-e47c-d7ce-c9a7-01f70badb244
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **[MsoLineStyle](Office.MsoLineStyle.md)** value that represe
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **[MsoLineStyle](Office.MsoLineStyle.md)** value that represe
 
 [LineFormat Object](Excel.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

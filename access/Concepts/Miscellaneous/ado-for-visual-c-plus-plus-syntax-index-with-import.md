@@ -3,6 +3,7 @@ title: ADO for Visual C++ syntax index with import
 ms.prod: access
 ms.assetid: 68821c65-a96d-2524-d77c-030215db8e53
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -39,3 +40,5 @@ Method and property syntax in Visual C++ with the **#import** directive is liste
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

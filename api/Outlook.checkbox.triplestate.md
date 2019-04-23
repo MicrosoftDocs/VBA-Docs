@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 6d68324c-a551-b0d4-b89e-28e1045f0992
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that determines whether a user can specify, from 
 
 ## Syntax
 
- _expression_. **TripleState**
+_expression_.**TripleState**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -33,4 +34,4 @@ A control set to  **Null** does not initiate the **[Click](Outlook.checkbox.clic
 
 Regardless of the property setting, the  **Null** value can always be assigned programmatically to a **CheckBox**, causing that control to appear shaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

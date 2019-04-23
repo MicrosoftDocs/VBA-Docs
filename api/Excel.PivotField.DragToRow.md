@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotField.DragToRow
 ms.assetid: f10da457-1190-6b9f-ecc1-b9916c7fb4c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotField.DragToRow property (Excel)
 
- **True** if the field can be dragged to the row position. The default value is **True** . Read/write **Boolean** .
+ **True** if the field can be dragged to the row position. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DragToRow`
+_expression_. `DragToRow`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Worksheets(1).PivotTables("Pivot1") _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

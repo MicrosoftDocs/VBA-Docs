@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.GroupItems
 ms.assetid: 4b065113-df60-7348-a2da-898aece10f01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the in
 
 ## Syntax
 
- _expression_. `GroupItems`
+_expression_. `GroupItems`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example adds three triangles to  `myDocument`, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
+This example adds three triangles to  _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
 
 
 ```vb
@@ -50,3 +51,4 @@ End With
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

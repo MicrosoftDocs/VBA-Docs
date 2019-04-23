@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 00f79d48-51a8-2c21-5ffa-ff816824628c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the location of the picture relat
 
 ## Syntax
 
- _expression_. **PicturePosition**
+_expression_.**PicturePosition**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **PicturePosition** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The picture appears to the left of the caption. The caption is aligned with the top of the picture.|
 |1|The picture appears to the left of the caption. The caption is centered relative to the picture.|
@@ -47,4 +48,4 @@ The picture and the caption, as a unit, are centered on the control. If no capti
 
 This property is ignored if the  **[Picture](Outlook.checkbox.picture.md)** property does not specify a picture.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCErrors.Parent
 ms.assetid: 8e34809a-b780-f700-9809-7939f8b640e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents an [ODBCErrors](Excel.ODBCErrors.md) object.
+_expression_ A variable that represents an [ODBCErrors](Excel.ODBCErrors.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [ODBCErrors Object](Excel.ODBCErrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

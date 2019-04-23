@@ -1,5 +1,5 @@
 ---
-title: Shape.Wizard Property (Publisher)
+title: Shape.Wizard property (Publisher)
 keywords: vbapb10.chm2228345
 f1_keywords:
 - vbapb10.chm2228345
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Wizard
 ms.assetid: 89014daf-66dc-7913-0b0e-ac80f6e85791
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Wizard Property (Publisher)
+# Shape.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 
 
 ## Syntax
 
- _expression_. **Wizard**
+_expression_.**Wizard**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -57,4 +58,4 @@ End With
 > [!NOTE] 
 > Depending on the language version of Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard](Publisher.Wizard.md)** object .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

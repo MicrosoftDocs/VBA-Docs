@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: b8574796-ec7a-c61a-4e87-cebb90220c5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether a **[ListBox](Outlook.list
 
 ## Syntax
 
- _expression_. **IntegralHeight**
+_expression_.**IntegralHeight**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **IntegralHeight** property relates to the height of the list, just as the 
 
 If  **IntegralHeight** is **True**, the list box automatically resizes when necessary to show full rows. If  **False**, the list remains a fixed size; if items are taller than the available space in the list, the entire item is not shown.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

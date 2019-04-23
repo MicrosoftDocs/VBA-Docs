@@ -1,5 +1,5 @@
 ---
-title: Options.ApplyFarEastFontsToAscii Property (Word)
+title: Options.ApplyFarEastFontsToAscii property (Word)
 keywords: vbawd10.chm162988359
 f1_keywords:
 - vbawd10.chm162988359
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.ApplyFarEastFontsToAscii
 ms.assetid: b0487311-42ad-f87a-8f72-da47d37f71d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.ApplyFarEastFontsToAscii Property (Word)
+# Options.ApplyFarEastFontsToAscii property (Word)
 
- **True** if Microsoft Word applies East Asian fonts to Latin text. Read/write **Boolean** .
+ **True** if Microsoft Word applies East Asian fonts to Latin text. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ApplyFarEastFontsToAscii`
+_expression_. `ApplyFarEastFontsToAscii`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -43,3 +44,4 @@ Options.ApplyFarEastFontsToAscii = True
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

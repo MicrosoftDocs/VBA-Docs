@@ -1,12 +1,13 @@
 ---
-title: SeriesCollection Object (Project)
+title: SeriesCollection object (Project)
 ms.prod: project-server
 ms.assetid: 2065e328-f82c-266f-e34c-fa99100c862e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SeriesCollection Object (Project)
+# SeriesCollection object (Project)
 Represents a collection of data series (**[Series](Project.series.md)** objects) in a chart.
  
 
@@ -90,7 +91,7 @@ Series 3: Work
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Project.seriescollection.item.md)|
 
@@ -98,7 +99,7 @@ Series 3: Work
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.seriescollection.application.md)|
 |[Count](Project.seriescollection.count.md)|
@@ -112,3 +113,5 @@ Series 3: Work
 [Chart Object](Project.chart.md)
  
 [Series Object](Project.series.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

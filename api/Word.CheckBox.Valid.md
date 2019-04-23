@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Valid Property (Word)
+title: CheckBox.Valid property (Word)
 keywords: vbawd10.chm153485312
 f1_keywords:
 - vbawd10.chm153485312
@@ -8,17 +8,18 @@ api_name:
 - Word.CheckBox.Valid
 ms.assetid: 5f14faf3-8025-709d-67a4-7ba0ae46b467
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CheckBox.Valid Property (Word)
+# CheckBox.Valid property (Word)
 
- **True** if the specified form field object is a valid check box form field. Read-only **Boolean** .
+ **True** if the specified form field object is a valid check box form field. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Valid`
+_expression_. `Valid`
 
  _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
@@ -41,3 +42,4 @@ MsgBox myFormField.CheckBox.Valid
 
 [CheckBox Object](Word.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

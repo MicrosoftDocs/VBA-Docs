@@ -1,5 +1,5 @@
 ---
-title: Page.IsTrailing Property (Publisher)
+title: Page.IsTrailing property (Publisher)
 keywords: vbapb10.chm131101
 f1_keywords:
 - vbapb10.chm131101
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.IsTrailing
 ms.assetid: e0ed15dc-d2e8-d6b7-913d-4e72b2817e88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.IsTrailing Property (Publisher)
+# Page.IsTrailing property (Publisher)
 
  **True** if the specified **Page** object is a trailing page of a two-page spread. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsTrailing**
+_expression_.**IsTrailing**
 
  _expression_ A variable that represents an  **Page** object.
 
@@ -47,4 +48,4 @@ For Each objPage In ActiveDocument.Pages
 Next objPage
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,34 +1,35 @@
 ---
-title: Chart.SetSourceData Method (Project)
+title: Chart.SetSourceData method (Project)
 keywords: vbapj.chm131632
 f1_keywords:
 - vbapj.chm131632
 ms.prod: project-server
 ms.assetid: 723680bb-f2ec-3a8f-f392-a6c90eae7ff8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.SetSourceData Method (Project)
+# Chart.SetSourceData method (Project)
 Sets a source data range from Excel for a chart.
 
 ## Syntax
 
- _expression_. `SetSourceData` _(Source,_? _PlotBy)_
+_expression_. `SetSourceData` _(Source,_? _PlotBy)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The source data range.|
 | _PlotBy_|Optional|**Variant**|Specifies the way the data is plotted. Can be one of the following  **Office.XlRowCol** constants: **xlColumns** or **xlRows**.|
-| _Source_|Required|STRING||
-| _PlotBy_|Optional|VARIANT||
+| _Source_|Required|**String**||
+| _PlotBy_|Optional|**Variant**||
 
 ## Return value
 
@@ -44,3 +45,5 @@ A chart in a Project report can use a data range from Excel, if Project programm
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Delete Method (Publisher)
+title: ShapeNodes.Delete method (Publisher)
 keywords: vbapb10.chm3473425
 f1_keywords:
 - vbapb10.chm3473425
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeNodes.Delete
 ms.assetid: 09f7a8ef-cefd-5a68-f0a6-e99c2f111ea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeNodes.Delete Method (Publisher)
+# ShapeNodes.Delete method (Publisher)
 
 Deletes the specified shape node object.
 
 
 ## Syntax
 
- _expression_. **Delete**(**_Index_**)
+_expression_.**Delete**(**_Index_**)
 
  _expression_ A variable that represents a  **ShapeNodes** object.
 
@@ -42,4 +43,4 @@ Sub DeleteNode()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

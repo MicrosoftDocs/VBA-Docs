@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: 0aba8fb8-2ab4-e5c8-cef4-aa75e27fe122
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Language-specific help topics apply only if the language-specific feature is available. To learn about working in another language or installing the proofing tools for another language, see [Office.com](https://office.com), or see your system administrator for more information.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

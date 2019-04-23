@@ -1,5 +1,5 @@
 ---
-title: OlFormatPercent Enumeration (Outlook)
+title: OlFormatPercent enumeration (Outlook)
 keywords: vbaol11.chm3138
 f1_keywords:
 - vbaol11.chm3138
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlFormatPercent
 ms.assetid: f04c47fd-41b8-b593-63c8-b40ac28956b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlFormatPercent Enumeration (Outlook)
+# OlFormatPercent enumeration (Outlook)
 
 Indicates the format used to display percent Outlook item properties.
 
@@ -24,3 +25,4 @@ Indicates the format used to display percent Outlook item properties.
 | **olFormatPercentAllDigits**|4|Displays formatted number values, including any decimal places specified in the value, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.155 is displayed as "4,010.155%"|
 | **olFormatPercentRounded**|1|Displays formatted number values as integers, rounding all decimal values, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.155 is displayed as "4,010%". |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

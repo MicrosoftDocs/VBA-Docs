@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 46473142-1ffd-9a35-b8ce-a4bbc97e8075
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Using an ODBC connection, you tried to read from or write to an ODBC database, a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ceiling Method (Excel)
+title: WorksheetFunction.Ceiling method (Excel)
 keywords: vbaxl10.chm137192
 f1_keywords:
 - vbaxl10.chm137192
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Ceiling
 ms.assetid: 4994e7d0-e626-bca4-64fc-77946438f4ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Ceiling Method (Excel)
+# WorksheetFunction.Ceiling method (Excel)
 
 Returns number rounded up, away from zero, to the nearest multiple of significance.
 
@@ -22,9 +23,9 @@ For more information about the new function, see the [Ceiling_Precise](Excel.Wor
 
 ## Syntax
 
- _expression_. `Ceiling`( `_Arg1_` , `_Arg2_` )
+_expression_. `Ceiling`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -58,3 +59,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

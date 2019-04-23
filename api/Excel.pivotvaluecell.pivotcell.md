@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 18fa81bd-3169-9f08-9418-93ea5443efb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotValueCell.PivotCell property (Excel)
 
-Returns the [PivotCell Object (Excel)](Excel.PivotCell.md) that specifies the location of the **PivotValueCell** . Read-only
+Returns the [PivotCell](Excel.PivotCell.md) that specifies the location of the **PivotValueCell**. Read-only
 
 
 ## Syntax
 
- _expression_. `PivotCell`
+_expression_. `PivotCell`
 
- _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+_expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
 
 
 ## Example
@@ -46,3 +47,4 @@ End Sub
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

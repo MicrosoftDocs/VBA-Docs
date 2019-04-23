@@ -1,22 +1,23 @@
 ---
-title: LineFormat.Transparency Property (Publisher)
+title: LineFormat.Transparency property (Publisher)
 keywords: vbapb10.chm3408145
 f1_keywords:
 - vbapb10.chm3408145
 ms.prod: publisher
 ms.assetid: 67d57579-8f6b-3af9-17e8-298a8466e943
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Transparency Property (Publisher)
+# LineFormat.Transparency property (Publisher)
 
 Returns or sets the degree of transparency of lines. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. **Transparency**
+_expression_.**Transparency**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -36,3 +37,4 @@ The value of this property can be expressed as a value between 0.0 (opaque) and 
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

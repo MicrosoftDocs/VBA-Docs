@@ -1,14 +1,15 @@
 ---
-title: WdCellColor Enumeration (Word)
+title: WdCellColor enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCellColor
 ms.assetid: 177745e4-de08-9e65-0185-98ff2e7301ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdCellColor Enumeration (Word)
+# WdCellColor enumeration (Word)
 
 Specifies the color of highlighting for table cells that were added, deleted, or merged in the current document.
 
@@ -26,3 +27,4 @@ Specifies the color of highlighting for table cells that were added, deleted, or
 | **wdCellColorNoHighlight**|0|No highlighting.|
 | **wdCellColorPink**|1|Pink.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

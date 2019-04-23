@@ -1,5 +1,5 @@
 ---
-title: OlPictureAlignment Enumeration (Outlook)
+title: OlPictureAlignment enumeration (Outlook)
 keywords: vbaol11.chm1000499
 f1_keywords:
 - vbaol11.chm1000499
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlPictureAlignment
 ms.assetid: 69b9407f-a86a-393d-11ac-5272be88de6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlPictureAlignment Enumeration (Outlook)
+# OlPictureAlignment enumeration (Outlook)
 
 Specifies how an image is aligned with respect to text on a button.
 
@@ -26,4 +27,4 @@ Specifies how an image is aligned with respect to text on a button.
 
 In bidirectional text,  **olPictureAlignmentLeft** specifies that the image should be aligned to the right of the text and vertically centered on the button.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

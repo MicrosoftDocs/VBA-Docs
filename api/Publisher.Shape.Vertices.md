@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (Publisher)
+title: Shape.Vertices property (Publisher)
 keywords: vbapb10.chm2228309
 f1_keywords:
 - vbapb10.chm2228309
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Vertices
 ms.assetid: 40b4800f-b17c-eff4-cb87-1e2d44d53ee3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Vertices Property (Publisher)
+# Shape.Vertices property (Publisher)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_. **Vertices**
+_expression_.**Vertices**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -70,4 +71,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

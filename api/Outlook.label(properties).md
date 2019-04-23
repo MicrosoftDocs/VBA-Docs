@@ -3,6 +3,7 @@ title: Label Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: a5e25502-0915-4dfb-b6e1-fdfe2d3bc080
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,5 +43,5 @@ ms.date: 06/08/2017
 -  [Label.TextAlign Property (Outlook Forms Script)](Outlook.Label.textalign.md)
     
 -  [Label.WordWrap Property (Outlook Forms Script)](Outlook.Label.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: dc631816-f0a2-e2ca-9a5f-9c89caddb30c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ Remove the DISTINCT reserved word or the Memo or OLE Object field from the state
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

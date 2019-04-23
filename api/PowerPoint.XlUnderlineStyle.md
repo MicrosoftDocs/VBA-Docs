@@ -1,14 +1,15 @@
 ---
-title: xlUnderlineStyle Enumeration (PowerPoint)
+title: XlUnderlineStyle enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlUnderlineStyle
 ms.assetid: 226d40cc-d557-8c54-9fe5-1aeaebdad147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlUnderlineStyle Enumeration (PowerPoint)
+# XlUnderlineStyle enumeration (PowerPoint)
 
 Specifies the type of underline that is applied to a font.
 
@@ -22,3 +23,4 @@ Specifies the type of underline that is applied to a font.
 |**xlUnderlineStyleSingle**|2|Single underline.|
 |**xlUnderlineStyleSingleAccounting**|4|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

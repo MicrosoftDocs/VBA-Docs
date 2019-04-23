@@ -1,5 +1,5 @@
 ---
-title: Window.LargeScroll Method (Excel)
+title: Window.LargeScroll method (Excel)
 keywords: vbaxl10.chm356097
 f1_keywords:
 - vbaxl10.chm356097
@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.LargeScroll
 ms.assetid: f3d74426-ece5-559f-c8c2-c356eb532217
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.LargeScroll Method (Excel)
+# Window.LargeScroll method (Excel)
 
 Scrolls the contents of the window by pages.
 
 
 ## Syntax
 
- _expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Parameters
@@ -64,3 +65,4 @@ ActiveWindow.LargeScroll down:=3
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

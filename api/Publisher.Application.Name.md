@@ -1,5 +1,5 @@
 ---
-title: Application.Name Property (Publisher)
+title: Application.Name property (Publisher)
 keywords: vbapb10.chm131094
 f1_keywords:
 - vbapb10.chm131094
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.Name
 ms.assetid: 1abbf9ab-f7b4-1119-68c8-5c49d74a45b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Name Property (Publisher)
+# Application.Name property (Publisher)
 
 Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. **Name**
+_expression_.**Name**
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -35,3 +36,4 @@ The  **Name** property is the default property for the **BorderArt**,  **BorderA
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

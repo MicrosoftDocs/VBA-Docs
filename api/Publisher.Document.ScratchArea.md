@@ -1,5 +1,5 @@
 ---
-title: Document.ScratchArea Property (Publisher)
+title: Document.ScratchArea property (Publisher)
 keywords: vbapb10.chm196657
 f1_keywords:
 - vbapb10.chm196657
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ScratchArea
 ms.assetid: 782d9b7f-b620-60f0-c21d-04f588c37cc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ScratchArea Property (Publisher)
+# Document.ScratchArea property (Publisher)
 
 Returns a  **[ScratchArea](Publisher.ScratchArea.md)** object for an a given document.
 
 
 ## Syntax
 
- _expression_. **ScratchArea**
+_expression_.**ScratchArea**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -50,4 +51,4 @@ Sub ScratchPad()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

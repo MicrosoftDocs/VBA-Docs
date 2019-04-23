@@ -1,5 +1,5 @@
 ---
-title: Master.ID Property (Visio)
+title: Master.ID property (Visio)
 keywords: vis_sdr.chm10713675
 f1_keywords:
 - vis_sdr.chm10713675
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.ID
 ms.assetid: 9064e708-f939-9522-b8f7-24488d780bc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.ID Property (Visio)
+# Master.ID property (Visio)
 
 Gets the ID of an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -34,4 +35,4 @@ The ID of a shape is unique only within the scope of the page or master. The ID 
 
 If a shape, page, master, or style is deleted, future objects in the same scope may be assigned the same ID. Therefore, persisting shape or style IDs in separate data stores is generally not as sound as persisting unique IDs using the  **UniqueID** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

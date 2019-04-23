@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.Name
 ms.assetid: fbbdf2f9-6c5f-6ebe-35b1-74aab63971a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,7 +19,7 @@ Returns or sets a  **String** value that represents the name of the **[ListObjec
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
  _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
 
@@ -58,3 +59,4 @@ End Sub
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

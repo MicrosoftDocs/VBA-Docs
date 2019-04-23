@@ -1,5 +1,5 @@
 ---
-title: Project.StatusDate Property (Project)
+title: Project.StatusDate property (Project)
 keywords: vbapj.chm132611
 f1_keywords:
 - vbapj.chm132611
@@ -8,17 +8,18 @@ api_name:
 - Project.Project.StatusDate
 ms.assetid: 3d53790c-051c-e3d1-887a-1329c8ef98a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.StatusDate Property (Project)
+# Project.StatusDate property (Project)
 
 Gets or sets the current status date for the project. If there is no status date, returns "NA". Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `StatusDate`
+_expression_. `StatusDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -52,4 +53,4 @@ Sub SpreadPercentComplete()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

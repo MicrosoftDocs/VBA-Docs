@@ -1,21 +1,22 @@
 ---
-title: TextEffectFormat.Creator Property (PowerPoint)
+title: TextEffectFormat.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.Creator
 ms.assetid: 96e589f1-2321-47e2-5245-1c6b96bace92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextEffectFormat.Creator Property (PowerPoint)
+# TextEffectFormat.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

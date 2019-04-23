@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Forecast Method (Excel)
+title: WorksheetFunction.Forecast method (Excel)
 keywords: vbaxl10.chm137213
 f1_keywords:
 - vbaxl10.chm137213
@@ -8,10 +8,11 @@ api_name:
 - Excel.WorksheetFunction.Forecast
 ms.assetid: a4d178b3-7d68-bfc6-0f7a-e3c6d5984af6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Forecast Method (Excel)
+# WorksheetFunction.Forecast method (Excel)
 
 Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value. The known values are existing x-values and y-values, and the new value is predicted by using linear regression. You can use this function to predict future sales, inventory requirements, or consumer trends.
 
@@ -21,9 +22,9 @@ Calculates, or predicts, a future value by using existing values. The predicted 
 
 ## Syntax
 
- _expression_. `Forecast`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Forecast`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -62,3 +63,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

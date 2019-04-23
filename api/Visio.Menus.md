@@ -1,5 +1,5 @@
 ---
-title: Menus Object (Visio)
+title: Menus object (Visio)
 keywords: vis_sdr.chm10165
 f1_keywords:
 - vis_sdr.chm10165
@@ -8,10 +8,11 @@ api_name:
 - Visio.Menus
 ms.assetid: 0c487176-1857-d496-8b2e-6a6aae668c6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Menus Object (Visio)
+# Menus object (Visio)
 
 Includes a  **Menu** object for each menu in a Microsoft Visio menu set.
 
@@ -23,8 +24,8 @@ Includes a  **Menu** object for each menu in a Microsoft Visio menu set.
 
 To retrieve a  **Menus** collection, use the **Menus** property of a **MenuSet** object.
 
-The default property of a  **Menus** collection is **Item** .
+The default property of a  **Menus** collection is **Item**.
 
 Unlike other Visio collections, the  **Menus** collection is indexed starting with zero (0) rather than 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

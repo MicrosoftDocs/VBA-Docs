@@ -1,5 +1,5 @@
 ---
-title: Application.VisualReportsNewTemplate Method (Project)
+title: Application.VisualReportsNewTemplate method (Project)
 keywords: vbapj.chm2140
 f1_keywords:
 - vbapj.chm2140
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.VisualReportsNewTemplate
 ms.assetid: 46fbe1f2-a79a-a0e2-ccfb-2c02ed46b184
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.VisualReportsNewTemplate Method (Project)
+# Application.VisualReportsNewTemplate method (Project)
 
 Creates a Visual Reports template for Microsoft Excel or Microsoft Visio.
 
 
 ## Syntax
 
- _expression_. `VisualReportsNewTemplate`( ` _PjVisualReportsTemplateType_`, ` _PjVisualReportsCubeType_`, ` _ReportAlLFields_`, ` _PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsNewTemplate`( `_PjVisualReportsTemplateType_`, `_PjVisualReportsCubeType_`, `_ReportAlLFields_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -45,4 +46,4 @@ Setting the ReportAllFields parameter to  **True** can degrade performance.
 
 The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

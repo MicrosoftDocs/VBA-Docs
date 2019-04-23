@@ -8,6 +8,7 @@ api_name:
 - Access.AcOpenDataMode
 ms.assetid: e50b49fd-b77e-5ee5-d973-59ef46faddd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies the data entry mode when opening a table, query, stored procedure, view, or user-defined function.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,3 +24,4 @@ Specifies the data entry mode when opening a table, query, stored procedure, vie
 |**acEdit**|1|The user can view or edit existing records and add new records.|
 |**acReadOnly**|2|The user can only view records.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

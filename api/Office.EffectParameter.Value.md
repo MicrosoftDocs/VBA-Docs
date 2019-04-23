@@ -1,28 +1,29 @@
 ---
-title: EffectParameter.Value Property (Office)
+title: EffectParameter.Value property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameter.Value
 ms.assetid: 45bf51fe-c049-1c8e-cc3b-fdbd5d6d7157
-ms.date: 06/08/2017
+ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 
-# EffectParameter.Value Property (Office)
+# EffectParameter.Value property (Office)
 
-Retrieves or sets the value of the  **EffectParameter** object. Read/write
+Retrieves or sets the value of the **EffectParameter** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ An expression that returns a [EffectParameter](./Office.EffectParameter.md) object.
+_expression_ An expression that returns an **[EffectParameter](Office.EffectParameter.md)** object.
 
 
 ## Example
 
-The following code sets the first parameter of the  **PictureEffect** object as color temperature.
+The following code sets the first parameter of the **[PictureEffect](office.pictureeffect.md)** object as color temperature.
 
 
 ```vb
@@ -34,10 +35,6 @@ picEffect.EffectParameters(1).Value = MsoPictureEffectType.msoEffectColorTempera
 
 ## See also
 
+- [EffectParameter object members](overview/library-reference/effectparameter-members-office.md)
 
-[EffectParameter Object](Office.EffectParameter.md)
-
-
-
-[EffectParameter Object Members](./overview/Library-Reference/effectparameter-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

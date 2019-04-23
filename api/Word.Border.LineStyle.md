@@ -1,5 +1,5 @@
 ---
-title: Border.LineStyle Property (Word)
+title: Border.LineStyle property (Word)
 keywords: vbawd10.chm154861571
 f1_keywords:
 - vbawd10.chm154861571
@@ -8,19 +8,20 @@ api_name:
 - Word.Border.LineStyle
 ms.assetid: 1e95d9b9-1293-753a-efbd-8fc95e9dd8b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Border.LineStyle Property (Word)
+# Border.LineStyle property (Word)
 
-Returns or sets the border line style for the specified object. Read/write  **WdLineStyle** .
+Returns or sets the border line style for the specified object. Read/write  **WdLineStyle**.
 
 
 ## Syntax
 
- _expression_. `LineStyle`
+_expression_.**LineStyle**
 
- _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Remarks
@@ -74,3 +75,4 @@ ActiveDocument.Words(4).Borders(wdBorderTop) _
 
 [Border Object](Word.Border.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

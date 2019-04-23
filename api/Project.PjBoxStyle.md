@@ -1,14 +1,15 @@
 ---
-title: PjBoxStyle Enumeration (Project)
+title: PjBoxStyle enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjBoxStyle
 ms.assetid: c057bee9-5c28-f32a-2c0c-db8b56e9dc52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjBoxStyle Enumeration (Project)
+# PjBoxStyle enumeration (Project)
 
 Contains constants that specify the box style.
 
@@ -31,3 +32,4 @@ Contains constants that specify the box style.
 |**pjBoxNoncriticalSummary**|5|Noncritical summary style.|
 |**pjBoxProjectSummaryTask**|12|Project summary task style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

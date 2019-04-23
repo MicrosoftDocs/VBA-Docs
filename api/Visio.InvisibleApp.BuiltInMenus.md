@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.BuiltInMenus Property (Visio)
+title: InvisibleApp.BuiltInMenus property (Visio)
 keywords: vis_sdr.chm17513160
 f1_keywords:
 - vis_sdr.chm17513160
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.BuiltInMenus
 ms.assetid: 543cc95a-8ceb-439e-0d66-d7658bf5afcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.BuiltInMenus Property (Visio)
+# InvisibleApp.BuiltInMenus property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio menus and accelerators. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltInMenus`
+_expression_. `BuiltInMenus`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -90,4 +91,4 @@ Public Sub BuiltInMenus_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

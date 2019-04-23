@@ -1,5 +1,5 @@
 ---
-title: Page.LayoutIncremental Method (Visio)
+title: Page.LayoutIncremental method (Visio)
 keywords: vis_sdr.chm10962140
 f1_keywords:
 - vis_sdr.chm10962140
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.LayoutIncremental
 ms.assetid: db112261-120d-e2e8-18f0-91b1bba0a3a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.LayoutIncremental Method (Visio)
+# Page.LayoutIncremental method (Visio)
 
 Makes small adjustments to the position of shapes on the drawing page to better align the shapes or to space them evenly from other shapes.
 
 
 ## Syntax
 
- _expression_. `LayoutIncremental`( `_AlignOrSpace_` , `_AlignHorizontal_` , `_AlignVertical_` , `_SpaceHorizontal_` , `_SpaceVertical_` , `_UnitsNameOrCode_` )
+_expression_. `LayoutIncremental`( `_AlignOrSpace_` , `_AlignHorizontal_` , `_AlignVertical_` , `_SpaceHorizontal_` , `_SpaceVertical_` , `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
@@ -47,7 +48,7 @@ The  _AlignOrSpace_ parameter must be one or the combination of both (3) of the 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutIncrAlign**|1|Align shapes.|
 | **visLayoutIncrSpace**|2|Space shapes evenly.|
@@ -56,7 +57,7 @@ The  _AlignHorizontal_ parameter must be one of the following **VisLayoutHorzAli
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutHorzAlignNone**|0|Do not align horizontally.|
 | **visLayoutHorzAlignDefault**|1|Visio chooses how to align horizontally.|
@@ -68,7 +69,7 @@ The  _AlignVertical_ parameter must be one of the following **VisLayoutVertAlign
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutVertAlignNone**|0|Do not align vertically.|
 | **visLayoutVertAlignDefault**|1|Visio chooses how to align vertically.|
@@ -76,12 +77,12 @@ The  _AlignVertical_ parameter must be one of the following **VisLayoutVertAlign
 | **visLayoutVertAlignMiddle**|3|Align the middles of the shapes.|
 | **visLayoutVertAlignBottom**|4|Align the bottom edges of the shapes.|
 
-If  _AlignOrSpace_ is **visLayoutIncrAlign** , either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone** , or _AlignVertical_ must be a value other than **visLayoutVertAlignNone** .
+If  _AlignOrSpace_ is **visLayoutIncrAlign**, either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone**, or _AlignVertical_ must be a value other than **visLayoutVertAlignNone**.
 
-If  _AlignOrSpace_ is **visLayoutIncrSpace** , both _AlignHorizontal_ and _AlignVertical_ must be greater than zero.
+If  _AlignOrSpace_ is **visLayoutIncrSpace**, both _AlignHorizontal_ and _AlignVertical_ must be greater than zero.
 
-If  _AlignOrSpace_ is a combination of **visLayoutIncrAlign** and **visLayoutIncrSpace** , both of these conditions must be true.
+If  _AlignOrSpace_ is a combination of **visLayoutIncrAlign** and **visLayoutIncrSpace**, both of these conditions must be true.
 
 If the page layout style is circular, Visio uses only the  _AlignHorizontal_ value to determine whether to align, and only the _SpaceHorizontal_ value to determine whether to space, ignoring the _AlignVertical_ and _SpaceVertical_ values, respectively. In this case, if you pass anything other than **visLayoutHorzAlignNone** for _AlignHorizontal_ , Visio performs the alignment. Similarly, if you pass any value greater than zero for _SpaceHorizontal_ , Visio performs the spacing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Could not start session. (Error 3002)
 ms.prod: access
 ms.assetid: c03de0a5-39a6-8ddd-0f9d-0de274b85282
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to initiate an operation that requires a new session, but you have rea
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

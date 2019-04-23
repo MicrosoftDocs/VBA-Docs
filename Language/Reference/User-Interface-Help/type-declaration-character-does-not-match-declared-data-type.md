@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d3581bff-e345-a1ac-e092-7ccb993be618
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ The [data type](../../Glossary/vbe-glossary.md#data-type) of a [variable](../../
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

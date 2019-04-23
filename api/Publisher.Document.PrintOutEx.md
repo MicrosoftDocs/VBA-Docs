@@ -1,5 +1,5 @@
 ---
-title: Document.PrintOutEx Method (Publisher)
+title: Document.PrintOutEx method (Publisher)
 keywords: vbapb10.chm196755
 f1_keywords:
 - vbapb10.chm196755
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.PrintOutEx
 ms.assetid: f11b6f8b-08a0-28f6-5930-47d684585bef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PrintOutEx Method (Publisher)
+# Document.PrintOutEx method (Publisher)
 
 Prints all or part of the specified publication.
 
 
 ## Syntax
 
- _expression_. **PrintOut**(**_From_**,  **_To_**,  **_PrintToFile_**,  **_Copies_**,  **_Collate_**,  **_PrintStyle_**)
+_expression_.**PrintOut**(**_From_**,  **_To_**,  **_PrintToFile_**,  **_Copies_**,  **_Collate_**,  **_PrintStyle_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -54,4 +55,4 @@ Sub PrintActivePublication()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

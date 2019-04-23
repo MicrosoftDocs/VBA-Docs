@@ -1,5 +1,5 @@
 ---
-title: Window.WindowState Property (Publisher)
+title: Window.WindowState property (Publisher)
 keywords: vbapb10.chm262160
 f1_keywords:
 - vbapb10.chm262160
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Window.WindowState
 ms.assetid: 063ede5e-f279-09e3-5672-b634c752b927
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.WindowState Property (Publisher)
+# Window.WindowState property (Publisher)
 
 Returns or sets a  **PbWindowState** constant indicating the state of the Microsoft Publisher window. Read/write.
 
 
 ## Syntax
 
- _expression_. **WindowState**
+_expression_.**WindowState**
 
  _expression_ A variable that represents a  **Window** object.
 
@@ -50,4 +51,4 @@ This example maximizes the Publisher window.
 ActiveWindow.WindowState = pbWindowStateMaximized
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

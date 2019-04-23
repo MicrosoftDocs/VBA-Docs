@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 02a23478-d656-da99-dbd6-e8692b6d5394
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ A  **With** block must be terminated. This error has the following cause and sol
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

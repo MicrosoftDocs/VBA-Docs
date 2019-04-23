@@ -3,6 +3,7 @@ title: Work with attachments in DAO
 ms.prod: access
 ms.assetid: e175a47a-4d97-b93b-c152-809314ac5ba0
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -74,4 +75,4 @@ The following code example shows how to use the **SaveToFile** method to save al
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.DataFields Property (Publisher)
+title: MailMergeDataSource.DataFields property (Publisher)
 keywords: vbapb10.chm6291461
 f1_keywords:
 - vbapb10.chm6291461
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeDataSource.DataFields
 ms.assetid: 820af882-d54c-a205-2925-e7110fc0c02b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.DataFields Property (Publisher)
+# MailMergeDataSource.DataFields property (Publisher)
 
 Returns a  **[MailMergeDataFields](Publisher.MailMergeDataFields.md)** collection that represents the fields in the specified data source.
 
 
 ## Syntax
 
- _expression_. **DataFields**
+_expression_.**DataFields**
 
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
@@ -49,4 +50,4 @@ Sub ShowNameForActiveRecord()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

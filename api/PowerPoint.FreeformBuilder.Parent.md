@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Parent Property (PowerPoint)
+title: FreeformBuilder.Parent property (PowerPoint)
 keywords: vbapp10.chm546001
 f1_keywords:
 - vbapp10.chm546001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FreeformBuilder.Parent
 ms.assetid: e51f9590-325c-50ef-6e83-60b33308e3a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FreeformBuilder.Parent Property (PowerPoint)
+# FreeformBuilder.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [FreeformBuilder](./PowerPoint.FreeformBuilder.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [FreeformBuilder Object](PowerPoint.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.DialogFont Property (Visio)
+title: InvisibleApp.DialogFont property (Visio)
 keywords: vis_sdr.chm17552075
 f1_keywords:
 - vis_sdr.chm17552075
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.DialogFont
 ms.assetid: b9784c9b-99a5-7a48-01eb-dafbe6b2c4f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.DialogFont Property (Visio)
+# InvisibleApp.DialogFont property (Visio)
 
 Returns information about the fonts that Microsoft Visio uses in its dialog boxes. Read-only.
 
 
 ## Syntax
 
- _expression_. `DialogFont`
+_expression_. `DialogFont`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -45,7 +46,7 @@ COM (Component Object Model) provides a standard implementation of a font object
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdFont** .
+4. Under  **Classes**, examine the class named  **StdFont**.
     
 
 
@@ -80,4 +81,4 @@ Set objStdFont = Application.DialogFont
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

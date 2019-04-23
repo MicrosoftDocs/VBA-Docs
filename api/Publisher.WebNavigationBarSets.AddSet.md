@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarSets.AddSet Method (Publisher)
+title: WebNavigationBarSets.AddSet method (Publisher)
 keywords: vbapb10.chm8454148
 f1_keywords:
 - vbapb10.chm8454148
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebNavigationBarSets.AddSet
 ms.assetid: 5b998e14-b1eb-2a4a-2ed5-9a1ef16d69c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarSets.AddSet Method (Publisher)
+# WebNavigationBarSets.AddSet method (Publisher)
 
 Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set to the specified **WebNavigationBarSets** collection. .
 
 
 ## Syntax
 
- _expression_. **AddSet**(**_Name_**,  **_Design_**,  **_AutoUpdate_**)
+_expression_.**AddSet**(**_Name_**,  **_Design_**,  **_AutoUpdate_**)
 
  _expression_ A variable that represents a  **WebNavigationBarSets** object.
 
@@ -63,4 +64,4 @@ With objWebNavBarSet
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

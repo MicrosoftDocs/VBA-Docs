@@ -3,6 +3,7 @@ title: Select Multiple Controls and the Dominant Control
 ms.prod: outlook
 ms.assetid: b206fb74-2273-73c1-1558-1be91346054f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,6 +22,6 @@ You can select more than one control in three ways. When you select multiple con
 
 
 
- **Tip**  
+ **Tip**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

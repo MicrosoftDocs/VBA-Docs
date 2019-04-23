@@ -1,12 +1,13 @@
 ---
-title: TaskGroups Object (Project)
+title: TaskGroups object (Project)
 ms.prod: project-server
 ms.assetid: 76d01102-cc38-36c1-f2fb-c5155f3056db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskGroups Object (Project)
+# TaskGroups object (Project)
 
 Represents all the task-based group definitions.  **TaskGroups** is a collection of **[Group](Project.Group.md)** objects.
  
@@ -60,7 +61,7 @@ ActiveProject.TaskGroups("Overallocated Tasks").GroupCriteria(1).Ascending = Fal
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.TaskGroups.Add.md)|
 |[Copy](Project.TaskGroups.Copy.md)|
@@ -69,10 +70,11 @@ ActiveProject.TaskGroups("Overallocated Tasks").GroupCriteria(1).Ascending = Fal
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.TaskGroups.Application.md)|
 |[Count](Project.TaskGroups.Count.md)|
 |[Item](Project.TaskGroups.Item.md)|
 |[Parent](Project.TaskGroups.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

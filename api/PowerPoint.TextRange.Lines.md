@@ -1,5 +1,5 @@
 ---
-title: TextRange.Lines Method (PowerPoint)
+title: TextRange.Lines method (PowerPoint)
 keywords: vbapp10.chm569014
 f1_keywords:
 - vbapp10.chm569014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.TextRange.Lines
 ms.assetid: 8e9f344b-2e74-5a9d-06e8-3e6ff9ca6bd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Lines Method (PowerPoint)
+# TextRange.Lines method (PowerPoint)
 
 Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the specified subset of text lines. For information about counting or looping through the lines in a text range, see the **[TextRange](PowerPoint.TextRange.md)** object.
 
 
 ## Syntax
 
- _expression_. `Lines`( `_Start_`, `_Length_` )
+_expression_. `Lines`( `_Start_`, `_Length_` )
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -67,3 +68,4 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

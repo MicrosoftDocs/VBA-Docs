@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Creator Property (Word)
+title: Paragraph.Creator property (Word)
 keywords: vbawd10.chm156697577
 f1_keywords:
 - vbawd10.chm156697577
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Creator
 ms.assetid: ee452c2d-bbed-d2c4-c3a4-0ccd8e45eea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Creator Property (Word)
+# Paragraph.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: xlFormatConditionType enumeration (Excel)
+title: XlFormatConditionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormatConditionType
 ms.assetid: ae97c695-f56a-c9ee-91b0-dac413c93428
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlFormatConditionType enumeration (Excel)
+# XlFormatConditionType enumeration (Excel)
 
 Specifies whether the conditional format is based on a cell value or an expression.
 
@@ -29,3 +30,4 @@ Specifies whether the conditional format is based on a cell value or an expressi
 | **xlTop10**|5|Top 10 values|
 | **xlUniqueValues**|8|Unique values|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

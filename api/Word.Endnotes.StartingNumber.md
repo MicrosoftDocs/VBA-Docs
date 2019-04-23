@@ -1,5 +1,5 @@
 ---
-title: Endnotes.StartingNumber Property (Word)
+title: Endnotes.StartingNumber property (Word)
 keywords: vbawd10.chm155254886
 f1_keywords:
 - vbawd10.chm155254886
@@ -8,17 +8,18 @@ api_name:
 - Word.Endnotes.StartingNumber
 ms.assetid: 32e8e638-4782-a841-b971-d389406518db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Endnotes.StartingNumber Property (Word)
+# Endnotes.StartingNumber property (Word)
 
-Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
+Returns or sets the starting note number, line number, or page number. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `StartingNumber`
+_expression_. `StartingNumber`
 
  _expression_ An expression that represents a '[Endnotes](Word.endnotes.md)' object.
 
@@ -27,7 +28,7 @@ Returns or sets the starting note number, line number, or page number. Read/writ
 
 You must be in print layout view to see line numbering.
 
-When applied to page numbers, this property returns or sets the beginning page number for the specified  **HeaderFooter** object. This number may or may not be visible on the first page, depending on the setting of the **ShowFirstPageNumber** property. The **RestartNumberingAtSection** property, if set to **False** , will override the **StartingNumber** property so that page numbering can continue from the previous section.
+When applied to page numbers, this property returns or sets the beginning page number for the specified  **HeaderFooter** object. This number may or may not be visible on the first page, depending on the setting of the **ShowFirstPageNumber** property. The **RestartNumberingAtSection** property, if set to **False**, will override the **StartingNumber** property so that page numbering can continue from the previous section.
 
 
 ## Example
@@ -80,3 +81,4 @@ End With
 
 [Endnotes Collection Object](Word.endnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

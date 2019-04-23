@@ -7,36 +7,33 @@ ms.prod: excel
 api_name:
 - Excel.Application.ReferenceStyle
 ms.assetid: 86c4931b-ab1a-0363-d048-5195707a952b
-ms.date: 06/08/2017
+ms.date: 04/05/2019
+localization_priority: Normal
 ---
 
 
 # Application.ReferenceStyle property (Excel)
 
-Returns or sets how Microsoft Excel displays cell references and row and column headings in either A1 or R1C1 reference style. Read/write  **[XlReferenceStyle](Excel.XlReferenceStyle.md)** .
+Returns or sets how Microsoft Excel displays cell references and row and column headings in either A1 or R1C1 reference style. Read/write **[XlReferenceStyle](Excel.XlReferenceStyle.md)**.
 
 
 ## Syntax
 
- _expression_. `ReferenceStyle`
+_expression_.**ReferenceStyle**
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks
 
+**XlReferenceStyle** can be one of these constants:
 
-
-
-
-| **XlReferenceStyle** can be one of these **XlReferenceStyle** constants.|
-| **xlA1**|
-| **xlR1C1**|
+- **xlA1**
+- **xlR1C1**
 
 ## Example
 
 This example displays the current reference style.
-
 
 ```vb
 If Application.ReferenceStyle = xlR1C1 Then 
@@ -47,8 +44,6 @@ End If
 ```
 
 
-## See also
 
 
-[Application Object](Excel.Application(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

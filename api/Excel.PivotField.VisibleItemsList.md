@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.VisibleItemsList
 ms.assetid: ddcc2dce-30bf-ba50-22fa-a4baf41129f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** specifying an array of strings that represent inc
 
 ## Syntax
 
- _expression_. `VisibleItemsList`
+_expression_. `VisibleItemsList`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geograp
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

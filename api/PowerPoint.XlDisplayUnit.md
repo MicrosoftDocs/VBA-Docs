@@ -1,14 +1,15 @@
 ---
-title: xlDisplayUnit Enumeration (PowerPoint)
+title: XlDisplayUnit enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDisplayUnit
 ms.assetid: 21d841e6-95bd-ac4e-b998-11d5f7b26d69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDisplayUnit Enumeration (PowerPoint)
+# XlDisplayUnit enumeration (PowerPoint)
 
 Specifies the display unit label for an axis.
 
@@ -26,3 +27,4 @@ Specifies the display unit label for an axis.
 |**xlThousandMillions**|-9|Thousands of millions.|
 |**xlThousands**|-3|Thousands.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

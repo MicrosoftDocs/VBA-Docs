@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 01d6c98b-ab87-d968-011b-7acfa2058feb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that specifies whether a value entered in the tex
 
 ## Syntax
 
- _expression_. **MatchRequired**
+_expression_.**MatchRequired**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ If the  **MatchRequired** property is **True**, the user cannot exit the  **Comb
 
 Not all containers enforce this property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

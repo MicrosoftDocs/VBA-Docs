@@ -5,6 +5,7 @@ api_name:
 - Visio.PropertyDialogEnabled
 ms.assetid: 66055cb8-535d-16e5-386d-1e7a44faa669
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether the  **Properties and Settings** dia
 
 ## Syntax
 
- _expression_. **PropertyDialogEnabled**
+_expression_.**PropertyDialogEnabled**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -41,4 +42,4 @@ The following code gets a value that indicates whether the  **Properties and Set
 Debug.Print vsoViewer.PropertyDialogEnabled
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

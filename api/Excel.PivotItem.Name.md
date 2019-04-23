@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.Name
 ms.assetid: b3861675-1f05-9e0d-442c-1cd95385ca09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value representing the name of the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ When using the  **[Item](Excel.IconCriteria.Item.md)** property to reference a s
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

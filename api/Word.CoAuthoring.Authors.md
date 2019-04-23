@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Authors Property (Word)
+title: CoAuthoring.Authors property (Word)
 keywords: vbawd10.chm254869505
 f1_keywords:
 - vbawd10.chm254869505
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthoring.Authors
 ms.assetid: 95d7d241-505b-a282-1f20-4486149433ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthoring.Authors Property (Word)
+# CoAuthoring.Authors property (Word)
 
  Returns a **[CoAuthors](Word.CoAuthors.md)** collection that represents all the co authors currently editing the document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Authors`
+_expression_. `Authors`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 
@@ -44,3 +45,4 @@ Set allAuthors = ActiveDocument.CoAuthoring.Authors
 
 [CoAuthoring Object](Word.CoAuthoring.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

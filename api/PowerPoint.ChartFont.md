@@ -1,5 +1,5 @@
 ---
-title: ChartFont Object (PowerPoint)
+title: ChartFont object (PowerPoint)
 keywords: vbapp10.chm704000
 f1_keywords:
 - vbapp10.chm704000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.ChartFont
 ms.assetid: 185dfaa0-4ed9-01d2-6584-b0838b50ef8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartFont Object (PowerPoint)
+# ChartFont object (PowerPoint)
 
 Contains the font attributes (font name, font size, color, and so on) for an object chart.
 
@@ -47,3 +48,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

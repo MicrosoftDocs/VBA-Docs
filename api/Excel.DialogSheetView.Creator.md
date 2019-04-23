@@ -8,19 +8,20 @@ api_name:
 - Excel.DialogSheetView.Creator
 ms.assetid: 7118a311-7f47-f229-78a5-6b1fec2d7fd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DialogSheetView.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [DialogSheetView](Excel.DialogSheetView.md) object.
+_expression_ A variable that represents a [DialogSheetView](Excel.DialogSheetView.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [DialogSheetView Object](Excel.DialogSheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

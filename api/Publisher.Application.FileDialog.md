@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Publisher)
+title: Application.FileDialog property (Publisher)
 keywords: vbapb10.chm131089
 f1_keywords:
 - vbapb10.chm131089
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.FileDialog
 ms.assetid: 65d73a9d-be4c-d809-d10d-468181ef9eb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FileDialog Property (Publisher)
+# Application.FileDialog property (Publisher)
 
 Returns a  **FileDialog** object that represents a single instance of a file dialog box.
 
 
 ## Syntax
 
- _expression_. **FileDialog**(**_Type_**)
+_expression_.**FileDialog**(**_Type_**)
 
  _expression_ A variable that represents a  **Application** object.
 
@@ -38,7 +39,7 @@ FileDialog
 
 ## Remarks
 
-The Type parmater can be one of the  ** [MsoFileDialogType](./Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
+The Type parmater can be one of the  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -64,3 +65,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

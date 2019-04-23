@@ -1,12 +1,13 @@
 ---
-title: ListGalleries Object (Word)
+title: ListGalleries object (Word)
 ms.prod: word
 ms.assetid: 3ae91fbf-fb7c-e96f-fd13-e4e4e9c4f09e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListGalleries Object (Word)
+# ListGalleries object (Word)
 
 A collection of  **[ListGallery](Word.ListGallery.md)** objects that represent the three tabs in the **Bullets and Numbering** dialog box.
 
@@ -43,7 +44,7 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.ListGalleries.Item.md)|
 
@@ -51,7 +52,7 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListGalleries.Application.md)|
 |[Count](Word.ListGalleries.Count.md)|
@@ -61,4 +62,6 @@ To see whether the specified list template contains the formatting built into Wo
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

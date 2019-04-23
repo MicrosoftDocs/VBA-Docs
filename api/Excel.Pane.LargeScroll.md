@@ -1,5 +1,5 @@
 ---
-title: Pane.LargeScroll Method (Excel)
+title: Pane.LargeScroll method (Excel)
 keywords: vbaxl10.chm360075
 f1_keywords:
 - vbaxl10.chm360075
@@ -8,19 +8,20 @@ api_name:
 - Excel.Pane.LargeScroll
 ms.assetid: e785bf52-d19b-a6e6-212b-0c5b5de88910
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pane.LargeScroll Method (Excel)
+# Pane.LargeScroll method (Excel)
 
 Scrolls the contents of the window by pages.
 
 
 ## Syntax
 
- _expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
+_expression_. `LargeScroll`( `_Down_` , `_Up_` , `_ToRight_` , `_ToLeft_` )
 
- _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
+_expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
 ## Parameters
@@ -53,3 +54,4 @@ Any of the arguments can be a negative number.
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

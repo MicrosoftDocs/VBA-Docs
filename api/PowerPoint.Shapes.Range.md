@@ -1,5 +1,5 @@
 ---
-title: Shapes.Range Method (PowerPoint)
+title: Shapes.Range method (PowerPoint)
 keywords: vbapp10.chm543017
 f1_keywords:
 - vbapp10.chm543017
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shapes.Range
 ms.assetid: 5ee926d9-5b30-a26b-7365-f4709a1a7bdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.Range Method (PowerPoint)
+# Shapes.Range method (PowerPoint)
 
 Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](PowerPoint.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
@@ -47,7 +48,7 @@ To specify an array of integers or strings for  **Index**, you can use the **Arr
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  `myDocument`.
+This example sets the fill pattern for shapes one and three on  _myDocument_.
 
 
 ```vb
@@ -158,3 +159,4 @@ End With
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

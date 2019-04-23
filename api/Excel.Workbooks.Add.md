@@ -1,5 +1,5 @@
 ---
-title: Workbooks.Add Method (Excel)
+title: Workbooks.Add method (Excel)
 keywords: vbaxl10.chm203073
 f1_keywords:
 - vbaxl10.chm203073
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbooks.Add
 ms.assetid: ea9f2a2c-3cad-0c35-37b5-82da2f24b876
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbooks.Add Method (Excel)
+# Workbooks.Add method (Excel)
 
 Creates a new workbook. The new workbook becomes the active workbook.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Template_` )
+_expression_.**Add**( `_Template_` )
 
- _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Creates a new workbook. The new workbook becomes the active workbook.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Template_|Optional| **Variant**|Determines how the new workbook is created. If this argument is a string specifying the name of an existing Microsoft Excel file, the new workbook is created with the specified file as a template. If this argument is a constant, the new workbook contains a single sheet of the specified type. Can be one of the following [XlWBATemplate](Excel.XlWBATemplate.md) constants: **xlWBATChart** , **xlWBATExcel4IntlMacroSheet** , **xlWBATExcel4MacroSheet** , or **xlWBATWorksheet** . If this argument is omitted, Microsoft Excel creates a new workbook with a number of blank sheets (the number of sheets is set by the **[SheetsInNewWorkbook](Excel.Application.SheetsInNewWorkbook.md)** property).|
+| _Template_|Optional| **Variant**|Determines how the new workbook is created. If this argument is a string specifying the name of an existing Microsoft Excel file, the new workbook is created with the specified file as a template. If this argument is a constant, the new workbook contains a single sheet of the specified type. Can be one of the following [XlWBATemplate](Excel.XlWBATemplate.md) constants: **xlWBATChart**, **xlWBATExcel4IntlMacroSheet**, **xlWBATExcel4MacroSheet**, or **xlWBATWorksheet**. If this argument is omitted, Microsoft Excel creates a new workbook with a number of blank sheets (the number of sheets is set by the **[SheetsInNewWorkbook](Excel.Application.SheetsInNewWorkbook.md)** property).|
 
 ## Return value
 
@@ -46,3 +47,4 @@ If the  _Template_ argument specifies a file, the file name can include a path.
 
 [Workbooks Object](Excel.Workbooks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

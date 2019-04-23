@@ -1,5 +1,5 @@
 ---
-title: Axis.CategoryNames Property (PowerPoint)
+title: Axis.CategoryNames property (PowerPoint)
 keywords: vbapp10.chm682004
 f1_keywords:
 - vbapp10.chm682004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.CategoryNames
 ms.assetid: f076ad9f-819b-4ced-a967-2fbda72fdfe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.CategoryNames Property (PowerPoint)
+# Axis.CategoryNames property (PowerPoint)
 
 Returns or sets all the category names as a text array for the specified axis. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `CategoryNames`
+_expression_.**CategoryNames**
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Example
@@ -50,3 +51,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

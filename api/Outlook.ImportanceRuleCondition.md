@@ -1,5 +1,5 @@
 ---
-title: ImportanceRuleCondition Object (Outlook)
+title: ImportanceRuleCondition object (Outlook)
 keywords: vbaol11.chm3174
 f1_keywords:
 - vbaol11.chm3174
@@ -8,10 +8,11 @@ api_name:
 - Outlook.ImportanceRuleCondition
 ms.assetid: 52985055-f995-5613-d27f-7ad9618cfb46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ImportanceRuleCondition Object (Outlook)
+# ImportanceRuleCondition object (Outlook)
 
 Represents a rule condition that evaluates the importance of a message.
 
@@ -27,7 +28,7 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ImportanceRuleCondition.Application.md)|
 |[Class](Outlook.ImportanceRuleCondition.Class.md)|
@@ -40,4 +41,6 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

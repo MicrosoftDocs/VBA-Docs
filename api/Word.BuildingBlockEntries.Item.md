@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockEntries.Item Method (Word)
+title: BuildingBlockEntries.Item method (Word)
 keywords: vbawd10.chm36241408
 f1_keywords:
 - vbawd10.chm36241408
@@ -8,17 +8,18 @@ api_name:
 - Word.BuildingBlockEntries.Item
 ms.assetid: 6adb7a4a-0b0b-1933-7cb7-0a8a78c98098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BuildingBlockEntries.Item Method (Word)
+# BuildingBlockEntries.Item method (Word)
 
 Returns a  **BuildingBlock** object that represents the specified item in the collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 
@@ -41,3 +42,4 @@ BuildingBlock
 
 [BuildingBlockEntries Collection](Word.BuildingBlockEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

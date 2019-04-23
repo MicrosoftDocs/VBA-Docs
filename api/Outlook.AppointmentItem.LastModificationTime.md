@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.LastModificationTime Property (Outlook)
+title: AppointmentItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm855
 f1_keywords:
 - vbaol11.chm855
@@ -8,24 +8,25 @@ api_name:
 - Outlook.AppointmentItem.LastModificationTime
 ms.assetid: 723d152c-cd71-6038-1eed-06de4c96c32c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.LastModificationTime Property (Outlook)
+# AppointmentItem.LastModificationTime property (Outlook)
 
 Returns a  **Date** specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `LastModificationTime`
+_expression_. `LastModificationTime`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example
@@ -116,3 +117,4 @@ End Sub
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

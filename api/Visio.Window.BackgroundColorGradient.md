@@ -1,5 +1,5 @@
 ---
-title: Window.BackgroundColorGradient Property (Visio)
+title: Window.BackgroundColorGradient property (Visio)
 keywords: vis_sdr.chm11651910
 f1_keywords:
 - vis_sdr.chm11651910
@@ -8,17 +8,18 @@ api_name:
 - Visio.Window.BackgroundColorGradient
 ms.assetid: a23e1075-9a3f-e04a-c6eb-8e4d983b8970
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.BackgroundColorGradient Property (Visio)
+# Window.BackgroundColorGradient property (Visio)
 
 Determines the background gradient color of the active Microsoft Visio drawing window and its associated print preview and full-screen view windows. Read/write.
 
 
 ## Syntax
 
- _expression_. `BackgroundColorGradient`
+_expression_. `BackgroundColorGradient`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -43,13 +44,13 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
 
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties**window in the Visual Basic Editor editor displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the **Properties**window in the Visual Basic Editor editor displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR** .
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR**.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **vbBlack**|0x0|Black|
 | **vbRed**|0xFF|Red|
@@ -106,4 +107,4 @@ Public Sub BackgroundColorGradient_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

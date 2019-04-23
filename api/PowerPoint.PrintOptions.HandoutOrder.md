@@ -1,5 +1,5 @@
 ---
-title: PrintOptions.HandoutOrder Property (PowerPoint)
+title: PrintOptions.HandoutOrder property (PowerPoint)
 keywords: vbapp10.chm517016
 f1_keywords:
 - vbapp10.chm517016
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintOptions.HandoutOrder
 ms.assetid: d71782ef-42d6-6dd4-6812-3463d41e8173
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintOptions.HandoutOrder Property (PowerPoint)
+# PrintOptions.HandoutOrder property (PowerPoint)
 
 Returns or sets the page layout order in which slides appear on printed handouts that show multiple slides on one page. Read/write.
 
 
 ## Syntax
 
- _expression_. `HandoutOrder`
+_expression_. `HandoutOrder`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **HandoutOrder** property can be one of these **PpPrintHandout
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppPrintHandoutHorizontalFirst**|Slides are ordered horizontally, with the first slide in the upper-left corner and the second slide to the right of it. If your language setting specifies a right-to-left language, the first slide is in the upper-right corner with the second slide to the left of it.|
 |**ppPrintHandoutVerticalFirst**| Slides are ordered vertically, with the first slide in the upper-left corner and the second slide below it. If your language setting specifies a right-to-left language, the first slide is in the upper-right corner with the second slide below it.|
@@ -62,3 +63,4 @@ End With
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

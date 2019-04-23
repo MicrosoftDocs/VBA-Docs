@@ -1,5 +1,5 @@
 ---
-title: Shape.SmartArt Property (Word)
+title: Shape.SmartArt property (Word)
 keywords: vbawd10.chm161480860
 f1_keywords:
 - vbawd10.chm161480860
@@ -8,17 +8,18 @@ api_name:
 - Word.Shape.SmartArt
 ms.assetid: d2f3fd89-288d-ac1e-18bb-00e2d043d4cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SmartArt Property (Word)
+# Shape.SmartArt property (Word)
 
-Returns a [SmartArt](./Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified shape. Read-only.
+Returns a [SmartArt](Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `SmartArt`
+_expression_. `SmartArt`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
@@ -47,3 +48,4 @@ Set mySmartArt = myShape.SmartArt
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

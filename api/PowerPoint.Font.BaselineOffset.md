@@ -1,5 +1,5 @@
 ---
-title: Font.BaselineOffset Property (PowerPoint)
+title: Font.BaselineOffset property (PowerPoint)
 keywords: vbapp10.chm575011
 f1_keywords:
 - vbapp10.chm575011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Font.BaselineOffset
 ms.assetid: aa948e2e-957c-ff4c-16b9-480d7f5f2d24
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.BaselineOffset Property (PowerPoint)
+# Font.BaselineOffset property (PowerPoint)
 
 Returns or sets the baseline offset for the specified superscript or subscript characters. Read/write.
 
 
 ## Syntax
 
- _expression_. `BaselineOffset`
+_expression_. `BaselineOffset`
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
@@ -60,3 +61,4 @@ End With
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

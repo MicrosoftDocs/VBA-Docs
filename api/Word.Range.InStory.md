@@ -1,5 +1,5 @@
 ---
-title: Range.InStory Method (Word)
+title: Range.InStory method (Word)
 keywords: vbawd10.chm157155453
 f1_keywords:
 - vbawd10.chm157155453
@@ -8,19 +8,20 @@ api_name:
 - Word.Range.InStory
 ms.assetid: 62452309-4d4a-5207-3e1b-28b109ca1b1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.InStory Method (Word)
+# Range.InStory method (Word)
 
  **True** if the range to which this method is applied is in the same story as the range specified by the Range argument.
 
 
 ## Syntax
 
- _expression_. `InStory`( `_Range_` )
+_expression_. `InStory`( `_Range_` )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
+_expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ End If
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

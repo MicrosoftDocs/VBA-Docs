@@ -8,6 +8,7 @@ api_name:
 - Project.Application.BoxSet
 ms.assetid: 06bcae73-5208-824d-4f55-119f35b37718
 ms.date: 11/09/2018
+localization_priority: Normal
 ---
 
 
@@ -56,4 +57,6 @@ End Sub
 ```
 
 > [!NOTE] 
-> BoxSet does not currently work for subprojects. You can place the subproject name in the Project Name attribute and set the TaskID, but it does not perform the action to the box from the subproject in the Network Diagram. 
+> BoxSet does not currently work for subprojects. You can place the subproject name in the Project Name attribute and set the TaskID, but it does not perform the action to the box from the subproject in the Network Diagram.
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Store.IsDataFileStore Property (Outlook)
+title: Store.IsDataFileStore property (Outlook)
 keywords: vbaol11.chm805
 f1_keywords:
 - vbaol11.chm805
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Store.IsDataFileStore
 ms.assetid: 76dc73b7-1d19-465f-744f-1209211f2496
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Store.IsDataFileStore Property (Outlook)
+# Store.IsDataFileStore property (Outlook)
 
 Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a store for an Outlook data file, which is either a Personal Folders File (.pst) or an Offline Folder File (.ost). Read-only.
 
 
 ## Syntax
 
- _expression_. `IsDataFileStore`
+_expression_. `IsDataFileStore`
 
- _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 
 ## Remarks
@@ -29,9 +30,9 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 
 For Exchange stores,  **IsDataFileStore** will return **False** if the user profile is not using Cached Exchange mode. **IsDataFileStore** will also return **False** when the store is an Exchange Public Folder (that is, **[Store.ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** is **olExchangePublicFolder**).
 
- **IsDataFileStore** does not indicate whether the store is located on a local hard drive. For example, a .pst file could be located on a mapped network drive and **IsDataFileStore** would still return **True** .
+ **IsDataFileStore** does not indicate whether the store is located on a local hard drive. For example, a .pst file could be located on a mapped network drive and **IsDataFileStore** would still return **True**.
 
-The return value of  **IsDataFileStore** can change if the user is configured for classic Exchange offline mode. When the user is offline and using classic Exchange offline mode, **IsDataFileStore** will return **True** . When the user is online and using classic Exchange online mode, **IsDataFileStore** will return **False** .
+The return value of  **IsDataFileStore** can change if the user is configured for classic Exchange offline mode. When the user is offline and using classic Exchange offline mode, **IsDataFileStore** will return **True**. When the user is online and using classic Exchange online mode, **IsDataFileStore** will return **False**.
 
 
 ## See also
@@ -39,3 +40,4 @@ The return value of  **IsDataFileStore** can change if the user is configured fo
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

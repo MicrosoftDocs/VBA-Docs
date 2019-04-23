@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 68ba99db-ed07-4172-8259-074db516cc5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [GroupCriterion2.FontColor Property (Project)](http://msdn.microsoft.com/library/9a6d763b-b31a-4dc2-0eb2-a94ae2f15d04%28Office.15%29.aspx)
 [GroupCriterion2.FontColorEx Property (Project)](http://msdn.microsoft.com/library/5556ce54-315e-f676-6771-baec87853d8a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: XPath.SetValue Method (Excel)
+title: XPath.SetValue method (Excel)
 keywords: vbaxl10.chm760076
 f1_keywords:
 - vbaxl10.chm760076
@@ -8,19 +8,20 @@ api_name:
 - Excel.XPath.SetValue
 ms.assetid: 9d7e9eea-0962-cff8-6909-b31d349eb78a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XPath.SetValue Method (Excel)
+# XPath.SetValue method (Excel)
 
 Maps the specified  **[XPath](Excel.XPath.md)** object to a **[ListColumn](Excel.ListColumn.md)** object or **[Range](Excel.Range(object).md)** collection. If the **XPath** object has previously been mapped to the **ListColumn** object or **Range** collection, the **SetValue** method sets the properties of the **XPath** object.
 
 
 ## Syntax
 
- _expression_. `SetValue`( `_Map_` , `_XPath_` , `_SelectionNamespace_` , `_Repeating_` )
+_expression_. `SetValue`( `_Map_` , `_XPath_` , `_SelectionNamespace_` , `_Repeating_` )
 
- _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](Excel.XPath.md) object.
 
 
 ## Parameters
@@ -103,3 +104,4 @@ End Sub
 
 [XPath Object](Excel.XPath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

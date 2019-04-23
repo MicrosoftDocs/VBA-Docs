@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Line
 ms.assetid: 0db51c52-c77c-9c0d-9945-e467dbcce3a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line forma
 
 ## Syntax
 
- _expression_. `Line`
+_expression_.**Line**
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb
@@ -36,7 +37,7 @@ With myDocument.Shapes.AddLine(10, 10, 250, 250).Line
 End With
 ```
 
-This example adds a cross to  `myDocument` and then sets its border to be 8 points thick and red.
+This example adds a cross to  _myDocument_ and then sets its border to be 8 points thick and red.
 
 
 
@@ -55,3 +56,4 @@ End With
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

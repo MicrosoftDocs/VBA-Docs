@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Visible Property (Publisher)
+title: LineFormat.Visible property (Publisher)
 keywords: vbapb10.chm3408146
 f1_keywords:
 - vbapb10.chm3408146
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LineFormat.Visible
 ms.assetid: 508560d2-e143-2d0d-93e7-49141e44b521
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.Visible Property (Publisher)
+# LineFormat.Visible property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_.**Visible**
 
  _expression_ A variable that represents a  **LineFormat** object.
 
@@ -29,11 +30,11 @@ The  **Visible** property value can be one of the **MsoTriState** constants decl
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified object or formatting is not visible.|
 | **msoTriStateMixed**|Return value only. The specified shape range contains both objects with visible formatting and objects with invisible formatting.|
-| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisble.|
+| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisible.|
 | **msoTrue**|The specified object or formatting is visible.|
 
 ## Example
@@ -49,4 +50,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

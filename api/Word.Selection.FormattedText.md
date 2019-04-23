@@ -1,5 +1,5 @@
 ---
-title: Selection.FormattedText Property (Word)
+title: Selection.FormattedText property (Word)
 keywords: vbawd10.chm158662658
 f1_keywords:
 - vbawd10.chm158662658
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.FormattedText
 ms.assetid: b16da3f9-1aa6-e722-0a9c-8a4c30922450
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.FormattedText Property (Word)
+# Selection.FormattedText property (Word)
 
 Returns or sets a  **[Range](Word.Range.md)** object that includes the formatted text in the specified range or selection. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormattedText`
+_expression_. `FormattedText`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ Documents.Add.Content.FormattedText = myRange
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

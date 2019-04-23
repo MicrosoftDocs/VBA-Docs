@@ -1,5 +1,5 @@
 ---
-title: Pages.ContainerRelationshipAdded Event (Visio)
+title: Pages.ContainerRelationshipAdded event (Visio)
 keywords: vis_sdr.chm11062065
 f1_keywords:
 - vis_sdr.chm11062065
@@ -8,10 +8,11 @@ api_name:
 - Visio.Pages.ContainerRelationshipAdded
 ms.assetid: 8d7480e7-0131-8c02-11ad-d5784679e387
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Pages.ContainerRelationshipAdded Event (Visio)
+# Pages.ContainerRelationshipAdded event (Visio)
 
 Occurs when a new container relationship is added to the document.
 
@@ -39,4 +40,4 @@ If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), 
 
 If you want to create your own  **[Event](Visio.Event.md)** objects, use the **[EventList.Add](Visio.EventList.Add.md)** or **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method. To create an **Event** object that runs an add-on, use the **EventList.Add** method. To create an **Event** object that receives notification, use the **EventList.AddAdvise** method. To find an event code for the event you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

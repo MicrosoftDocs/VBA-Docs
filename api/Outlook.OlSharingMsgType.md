@@ -1,5 +1,5 @@
 ---
-title: OlSharingMsgType Enumeration (Outlook)
+title: OlSharingMsgType enumeration (Outlook)
 keywords: vbaol11.chm3147
 f1_keywords:
 - vbaol11.chm3147
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlSharingMsgType
 ms.assetid: c7764f85-5e33-9087-cf8f-3a90a9f78687
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlSharingMsgType Enumeration (Outlook)
+# OlSharingMsgType enumeration (Outlook)
 
 Indicates the type of sharing message represented by a  **[SharingItem](Outlook.SharingItem.md)** object.
 
@@ -26,3 +27,4 @@ Indicates the type of sharing message represented by a  **[SharingItem](Outlook.
 | **olSharingMsgTypeResponseDeny**|5|Represents a sharing response, which indicates that a sharing request or sharing invitation has been denied.|
 | **olSharingMsgTypeUnknown**|0|Represents an unknown type of sharing message.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

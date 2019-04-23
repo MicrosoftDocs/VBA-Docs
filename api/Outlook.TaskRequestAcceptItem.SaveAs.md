@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.SaveAs Method (Outlook)
+title: TaskRequestAcceptItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1807
 f1_keywords:
 - vbaol11.chm1807
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestAcceptItem.SaveAs
 ms.assetid: 8aca7d40-87d9-5891-9a9e-ed995053ceb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.SaveAs Method (Outlook)
+# TaskRequestAcceptItem.SaveAs method (Outlook)
 
 Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
 
 ## Syntax
 
- _expression_. `SaveAs`( `_Path_` , `_Type_` )
+_expression_. `SaveAs`( `_Path_` , `_Type_` )
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML**, **olMSG**, **olRTF**, **olTemplate**, **olDoc**, **olTXT**, **olVCal**, **olVCard**, **olICal**, or **olMSGUnicode**.|
 
 ## Remarks
 
@@ -42,3 +43,4 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

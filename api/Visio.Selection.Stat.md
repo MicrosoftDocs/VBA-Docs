@@ -1,5 +1,5 @@
 ---
-title: Selection.Stat Property (Visio)
+title: Selection.Stat property (Visio)
 keywords: vis_sdr.chm11114420
 f1_keywords:
 - vis_sdr.chm11114420
@@ -8,17 +8,18 @@ api_name:
 - Visio.Selection.Stat
 ms.assetid: cd7ecc8b-8513-d901-9f86-670569e53a4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Stat Property (Visio)
+# Selection.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

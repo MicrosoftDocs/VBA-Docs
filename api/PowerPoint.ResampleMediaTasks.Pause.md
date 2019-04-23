@@ -1,5 +1,5 @@
 ---
-title: ResampleMediaTasks.Pause Method (PowerPoint)
+title: ResampleMediaTasks.Pause method (PowerPoint)
 keywords: vbapp10.chm728002
 f1_keywords:
 - vbapp10.chm728002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ResampleMediaTasks.Pause
 ms.assetid: 2d4c52fb-5b4a-f867-6789-cadda6d4f4a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ResampleMediaTasks.Pause Method (PowerPoint)
+# ResampleMediaTasks.Pause method (PowerPoint)
 
 Pauses the media represented by the specified object.
 
 
 ## Syntax
 
- _expression_. `Pause`
+_expression_. `Pause`
 
  _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 
@@ -28,3 +29,4 @@ Pauses the media represented by the specified object.
 
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

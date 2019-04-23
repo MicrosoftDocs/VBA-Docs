@@ -1,5 +1,5 @@
 ---
-title: CustomerData.Delete Method (PowerPoint)
+title: CustomerData.Delete method (PowerPoint)
 keywords: vbapp10.chm675005
 f1_keywords:
 - vbapp10.chm675005
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.CustomerData.Delete
 ms.assetid: 7a7649f9-7efa-57e7-15db-a16991dc6f09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CustomerData.Delete Method (PowerPoint)
+# CustomerData.Delete method (PowerPoint)
 
-Deletes the specified  **[CustomXMLPart](./Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object.
+Deletes the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_Id_` )
+_expression_.**Delete**( `_Id_` )
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 
@@ -38,7 +39,7 @@ Individual  **CustomXMLPart** objects in the **CustomerData** collection are rep
 
 ## Example
 
-The following example shows how to use the Delete method to delete a custom XML part from the  **CustomerData** collection. It adds a new custom XML part to the **CustomerData** collection of the first shape on the first slide of the active presentaion. Then it gets the ID of the new part and passes it to the **Delete** method.
+The following example shows how to use the Delete method to delete a custom XML part from the  **CustomerData** collection. It adds a new custom XML part to the **CustomerData** collection of the first shape on the first slide of the active presentation. Then it gets the ID of the new part and passes it to the **Delete** method.
 
 
 ```vb
@@ -82,3 +83,4 @@ End Sub
 
 [CustomerData Collection](PowerPoint.CustomerData.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

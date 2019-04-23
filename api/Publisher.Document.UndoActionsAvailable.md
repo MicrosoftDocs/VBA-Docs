@@ -1,5 +1,5 @@
 ---
-title: Document.UndoActionsAvailable Property (Publisher)
+title: Document.UndoActionsAvailable property (Publisher)
 keywords: vbapb10.chm196726
 f1_keywords:
 - vbapb10.chm196726
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.UndoActionsAvailable
 ms.assetid: 1dd20295-3987-c36d-ccc1-9e18a7887f33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.UndoActionsAvailable Property (Publisher)
+# Document.UndoActionsAvailable property (Publisher)
 
 Returns the number of actions available on the undo stack. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. **UndoActionsAvailable**
+_expression_.**UndoActionsAvailable**
 
  _expression_ A variable that represents an  **Document** object.
 
@@ -69,4 +70,4 @@ With theDoc
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Application.Replace Method (Project)
+title: Application.Replace method (Project)
 keywords: vbapj.chm241
 f1_keywords:
 - vbapj.chm241
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.Replace
 ms.assetid: fd1c66ba-c611-ec97-ebb9-92ff0739c719
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Replace Method (Project)
+# Application.Replace method (Project)
 
 Searches for an unfiltered value and replaces it with the specified value.
 
 
 ## Syntax
 
-_expression_. **Replace** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_**, **_ReplaceAll_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
+_expression_.**Replace** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_**, **_ReplaceAll_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
 
 _expression_ A variable that represents an **Application** object.
 
@@ -39,7 +40,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### Comparison strings
+### Comparison strings
 
 |**Comparison string**|**Description**|
 |:-----|:-----|
@@ -83,3 +84,5 @@ Sub LowerPriority()
         Value:="800", Replacement:="600" 
 End Sub
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: DistListItem.ShowCategoriesDialog Method (Outlook)
+title: DistListItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1158
 f1_keywords:
 - vbaol11.chm1158
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.ShowCategoriesDialog
 ms.assetid: 47cb9ecd-6d2c-53d5-e083-09935d91a510
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.ShowCategoriesDialog Method (Outlook)
+# DistListItem.ShowCategoriesDialog method (Outlook)
 
 Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax
 
- _expression_. `ShowCategoriesDialog`
+_expression_. `ShowCategoriesDialog`
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Example
@@ -58,3 +59,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

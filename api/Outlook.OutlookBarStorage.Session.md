@@ -1,5 +1,5 @@
 ---
-title: OutlookBarStorage.Session Property (Outlook)
+title: OutlookBarStorage.Session property (Outlook)
 keywords: vbaol11.chm370
 f1_keywords:
 - vbaol11.chm370
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarStorage.Session
 ms.assetid: f3ba6302-aca2-f8ba-3a82-ae35f6b5b609
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarStorage.Session Property (Outlook)
+# OutlookBarStorage.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [OutlookBarStorage](./Outlook.OutlookBarStorage.md) object.
+_expression_ A variable that represents an [OutlookBarStorage](Outlook.OutlookBarStorage.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

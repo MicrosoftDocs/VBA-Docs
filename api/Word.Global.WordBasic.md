@@ -1,5 +1,5 @@
 ---
-title: Global.WordBasic Property (Word)
+title: Global.WordBasic property (Word)
 keywords: vbawd10.chm163119110
 f1_keywords:
 - vbawd10.chm163119110
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.WordBasic
 ms.assetid: be6209eb-d06c-3399-23b2-31b62642fe83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.WordBasic Property (Word)
+# Global.WordBasic property (Word)
 
 Returns an Automation object (Word.Basic) that includes methods for all the WordBasic statements and functions available in Word version 6.0 and Word for Windows 95. Read-only.
 
 
 ## Syntax
 
- _expression_. `WordBasic`
+_expression_. `WordBasic`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -52,3 +53,4 @@ End With
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

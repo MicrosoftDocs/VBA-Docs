@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dec2Bin Method (Excel)
+title: WorksheetFunction.Dec2Bin method (Excel)
 keywords: vbaxl10.chm137264
 f1_keywords:
 - vbaxl10.chm137264
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Dec2Bin
 ms.assetid: beb1848e-320d-eaef-074e-4df23c46009d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Dec2Bin Method (Excel)
+# WorksheetFunction.Dec2Bin method (Excel)
 
 Converts a decimal number to binary.
 
 
 ## Syntax
 
- _expression_. `Dec2Bin`( `_Arg1_` , `_Arg2_` )
+_expression_. `Dec2Bin`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

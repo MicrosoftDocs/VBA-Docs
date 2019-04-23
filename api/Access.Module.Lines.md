@@ -7,25 +7,24 @@ ms.prod: access
 api_name:
 - Access.Module.Lines
 ms.assetid: a230ffef-6640-178f-b3a5-edd1e171a8f6
-ms.date: 06/08/2017
+ms.date: 03/22/2019
+localization_priority: Normal
 ---
 
 
 # Module.Lines property (Access)
 
-The  **Lines** property returns a string containing the contents of a specified line or lines in a standard module or a class module. Read-only **String**.
+The **Lines** property returns a string containing the contents of a specified line or lines in a standard module or a class module. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `Lines`( ` _Line_`, ` _NumLines_` )
+_expression_.**Lines** (_Line_, _NumLines_)
 
-_expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,15 +33,14 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 ## Remarks
 
-Lines in a module are numbered beginning with 1. For example, if you read the  **Lines** property with a value of 1 for the _line_ argument and 1 for the _numlines_ argument, the **Lines** property returns a string containing the text of the first line in the module.
+Lines in a module are numbered beginning with 1. For example, if you read the **Lines** property with a value of 1 for the _Line_ argument and 1 for the _NumLines_ argument, the **Lines** property returns a string containing the text of the first line in the module.
 
-To insert a line of text into a module, use the  **[InsertLines](Access.Module.InsertLines.md)** method.
+To insert a line of text into a module, use the **[InsertLines](Access.Module.InsertLines.md)** method.
 
 
 ## Example
 
 The following example deletes a specified line from a module.
-
 
 ```vb
 Function DeleteWholeLine(strModuleName, strText As String) _ 
@@ -81,10 +79,9 @@ Error_DeleteWholeLine:
 End Function
 ```
 
+<br/>
+
 You could call this function from a procedure such as the following, which searches the module Module1 for a constant declaration and deletes it.
-
-
-
 
 ```vb
 Sub DeletePiConst() 
@@ -97,8 +94,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Module Object](Access.Module.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

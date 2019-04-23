@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ipmt Method (Excel)
+title: WorksheetFunction.Ipmt method (Excel)
 keywords: vbaxl10.chm137140
 f1_keywords:
 - vbaxl10.chm137140
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Ipmt
 ms.assetid: 42e022d1-c481-7343-f50c-a836060e9c00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Ipmt Method (Excel)
+# WorksheetFunction.Ipmt method (Excel)
 
 Returns the interest payment for a given period for an investment based on periodic, constant payments and a constant interest rate.
 
 
 ## Syntax
 
- _expression_. `Ipmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
+_expression_. `Ipmt`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

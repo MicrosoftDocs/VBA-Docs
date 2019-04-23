@@ -1,22 +1,23 @@
 ---
-title: Explorer.ActiveInlineResponseWordEditor Property (Outlook)
+title: Explorer.ActiveInlineResponseWordEditor property (Outlook)
 keywords: vbaol11.chm3597
 f1_keywords:
 - vbaol11.chm3597
 ms.assetid: b9058694-ab8f-4962-ab7d-afac1704dd29
 ms.date: 06/08/2017
 ms.prod: outlook
+localization_priority: Normal
 ---
 
 
-# Explorer.ActiveInlineResponseWordEditor Property (Outlook)
+# Explorer.ActiveInlineResponseWordEditor property (Outlook)
 Returns the Word [Document](./Word.Document.md) object of the active inline response that is displayed in the explorer Reading Pane. Read-only.
 
 ## Syntax
 
- _expression_. `ActiveInlineResponseWordEditor`
+_expression_. `ActiveInlineResponseWordEditor`
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ This property returns  **Null** (**Nothing** in Visual Basic) if no inline respo
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

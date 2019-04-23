@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.TabLeader Property (Word)
+title: TableOfAuthorities.TabLeader property (Word)
 keywords: vbawd10.chm152109068
 f1_keywords:
 - vbawd10.chm152109068
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfAuthorities.TabLeader
 ms.assetid: b437456d-30a2-8e47-2527-dab0b6a43755
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.TabLeader Property (Word)
+# TableOfAuthorities.TabLeader property (Word)
 
-Returns or sets the leader character that appears between entries and their associated page numbers in a table of authorities. Read/write  **WdTabLeader** .
+Returns or sets the leader character that appears between entries and their associated page numbers in a table of authorities. Read/write  **WdTabLeader**.
 
 
 ## Syntax
 
- _expression_. `TabLeader`
+_expression_. `TabLeader`
 
- _expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## Example
@@ -40,3 +41,4 @@ Next aTOA
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

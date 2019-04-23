@@ -1,5 +1,5 @@
 ---
-title: Window Object (Publisher)
+title: Window object (Publisher)
 keywords: vbapb10.chm327679
 f1_keywords:
 - vbapb10.chm327679
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Window
 ms.assetid: 342d77cd-5556-6ac3-a828-b1b60380f910
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window Object (Publisher)
+# Window object (Publisher)
 
 Represents a window. Many publication characteristics, such as scroll bars and rulers, are actually properties of the window.
  
@@ -48,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Publisher.Window.Activate.md)|
 |[Move](Publisher.Window.Move.md)|
@@ -58,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Window.Application.md)|
 |[Caption](Publisher.Window.Caption.md)|
@@ -71,3 +72,4 @@ End Sub
 |[Width](Publisher.Window.Width.md)|
 |[WindowState](Publisher.Window.WindowState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

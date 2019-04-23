@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: aca37428-83e9-cb54-f32a-675dfcac5d9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # TimelineState.SingleRangeFilterState property (Excel)
 
- **True** when the filtering state is a contiguous date range; **False** otherwise. **Boolean** Read-only
+ **True** when the filtering state is a contiguous date range; **False** otherwise. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SingleRangeFilterState`
+_expression_. `SingleRangeFilterState`
 
- _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
+_expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ ms.date: 06/08/2017
 
 [TimelineState Object](Excel.timelinestate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

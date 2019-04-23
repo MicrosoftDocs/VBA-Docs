@@ -1,5 +1,5 @@
 ---
-title: Cell.Diagonal Property (Publisher)
+title: Cell.Diagonal property (Publisher)
 keywords: vbapb10.chm5111816
 f1_keywords:
 - vbapb10.chm5111816
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.Diagonal
 ms.assetid: 4ec93690-38ef-7434-55a5-419f14c9ea73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Diagonal Property (Publisher)
+# Cell.Diagonal property (Publisher)
 
 Sets or returns a  **PbCellDiagonalType** constant that represents a cell that is diagonally split. Read/write.
 
 
 ## Syntax
 
- _expression_. **Diagonal**
+_expression_.**Diagonal**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -65,4 +66,4 @@ Sub CreateNewTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

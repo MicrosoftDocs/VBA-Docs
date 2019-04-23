@@ -1,5 +1,5 @@
 ---
-title: Shape.Id Property (PowerPoint)
+title: Shape.Id property (PowerPoint)
 keywords: vbapp10.chm547069
 f1_keywords:
 - vbapp10.chm547069
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Id
 ms.assetid: b8d1c2ed-08e6-2a1d-7603-d80387fa4ee4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Id Property (PowerPoint)
+# Shape.Id property (PowerPoint)
 
 Returns a  **Long** that identifies the shape or range of shapes. Read-only.
 
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -71,3 +72,4 @@ End Sub
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

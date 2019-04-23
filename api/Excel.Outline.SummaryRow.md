@@ -8,30 +8,31 @@ api_name:
 - Excel.Outline.SummaryRow
 ms.assetid: f36fac55-cafd-1ec6-4e85-a7f4fc665c04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Outline.SummaryRow property (Excel)
 
-Returns or sets the location of the summary rows in the outline. Read/write  **[XlSummaryRow](Excel.XlSummaryRow.md)** .
+Returns or sets the location of the summary rows in the outline. Read/write  **[XlSummaryRow](Excel.XlSummaryRow.md)**.
 
 
 ## Syntax
 
- _expression_. `SummaryRow`
+_expression_. `SummaryRow`
 
- _expression_ A variable that represents an [Outline](Excel.Outline.md) object.
+_expression_ A variable that represents an [Outline](Excel.Outline.md) object.
 
 
 ## Remarks
 
 
 
-| **XlSummaryRow** can be one of these **XlSummaryRow** constants.|
+| **xlSummaryRow** can be one of these **xlSummaryRow** constants.|
 | **xlSummaryBelow** The summary row will be positioned below the detail rows in the outline.|
 | **xlSummaryAbove** The summary row will be positioned above the detail rows in the outline.|
 
-Set  **XlSummaryRow** to **xlAbove** for Microsoft Word-style outlines, where category headers are above the detailed information. Set **XlSummaryRow** to **xlBelow** for accounting-style outlines, where summations are below the detailed information.
+Set  **xlSummaryRow** to **xlAbove** for Microsoft Word-style outlines, where category headers are above the detailed information. Set **xlSummaryRow** to **xlBelow** for accounting-style outlines, where summations are below the detailed information.
 
 
 ## Example
@@ -55,3 +56,4 @@ End With
 
 [Outline Object](Excel.Outline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

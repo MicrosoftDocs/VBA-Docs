@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.IsPercent
 ms.assetid: 34154cf9-358a-0db9-4b93-fe3b3f2b8dce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.IsPercent property (Excel)
 
-Returns a  **Boolean** value. Returns **True** only if the number data for the **[ListColumn](Excel.ListColumn.md)** object will be shown in percentage formatting. Read-only **Boolean** . Read-only.
+Returns a  **Boolean** value. Returns **True** only if the number data for the **[ListColumn](Excel.ListColumn.md)** object will be shown in percentage formatting. Read-only **Boolean**. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsPercent`
+_expression_. `IsPercent`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Function
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

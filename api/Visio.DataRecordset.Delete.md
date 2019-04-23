@@ -1,5 +1,5 @@
 ---
-title: DataRecordset.Delete Method (Visio)
+title: DataRecordset.Delete method (Visio)
 keywords: vis_sdr.chm16416165
 f1_keywords:
 - vis_sdr.chm16416165
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset.Delete
 ms.assetid: 9f3fa9b0-2ca9-cf28-fa27-18eef4be179d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset.Delete Method (Visio)
+# DataRecordset.Delete method (Visio)
 
 Deletes the  **[DataRecordset](Visio.DataRecordset.md)** object from the **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. .
 
@@ -21,7 +22,7 @@ Deletes the  **[DataRecordset](Visio.DataRecordset.md)** object from the **[Data
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents a [DataRecordset](./Visio.DataRecordset.md) object.
 
@@ -56,4 +57,4 @@ Public Sub Delete_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

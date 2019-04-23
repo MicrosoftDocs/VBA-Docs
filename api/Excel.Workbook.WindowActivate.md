@@ -1,5 +1,5 @@
 ---
-title: Workbook.WindowActivate Event (Excel)
+title: Workbook.WindowActivate event (Excel)
 keywords: vbaxl10.chm503083
 f1_keywords:
 - vbaxl10.chm503083
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.WindowActivate
 ms.assetid: e99d955c-1975-44c3-05b3-3aa6e851083c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.WindowActivate Event (Excel)
+# Workbook.WindowActivate event (Excel)
 
 Occurs when any workbook window is activated.
 
 
 ## Syntax
 
- _expression_. `WindowActivate`( `_Wn_` )
+_expression_. `WindowActivate`(_Wn_)
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -48,3 +49,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Global.IsSandboxed Property (Word)
+title: Global.IsSandboxed property (Word)
 keywords: vbawd10.chm163119220
 f1_keywords:
 - vbawd10.chm163119220
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.IsSandboxed
 ms.assetid: 12bef36b-7ec6-5b43-f8b8-dbb5dacef868
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.IsSandboxed Property (Word)
+# Global.IsSandboxed property (Word)
 
  **True** if the application window is a protected view window. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsSandboxed`
+_expression_. `IsSandboxed`
 
  _expression_ An expression that returns a '[Global](Word.Global.md)' object.
 
@@ -46,3 +47,4 @@ End If
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

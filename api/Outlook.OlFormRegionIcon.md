@@ -1,5 +1,5 @@
 ---
-title: OlFormRegionIcon Enumeration (Outlook)
+title: OlFormRegionIcon enumeration (Outlook)
 keywords: vbaol11.chm3306
 f1_keywords:
 - vbaol11.chm3306
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlFormRegionIcon
 ms.assetid: 22a9e2aa-e264-8392-b1ad-a2ab995b6440
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlFormRegionIcon Enumeration (Outlook)
+# OlFormRegionIcon enumeration (Outlook)
 
 Types of icons that Outlook can display for an item that uses a specified replacement form region.
 
@@ -32,3 +33,4 @@ Types of icons that Outlook can display for an item that uses a specified replac
 | **olFormRegionIconUnsent**|6|The icon to display when an item has not been sent.|
 | **olFormRegionIconWindow**|10|The icon to display on the Inspector when an item has been opened.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,12 +1,13 @@
 ---
-title: PayRates Object (Project)
+title: PayRates object (Project)
 ms.prod: project-server
 ms.assetid: 7aa54cc3-4e39-e3b1-f3aa-7599ac88d22a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PayRates Object (Project)
+# PayRates object (Project)
 
 Contains a collection of  **[PayRate](Project.PayRate.md)** objects.
  
@@ -70,7 +71,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.PayRates.Add.md)|
 
@@ -78,7 +79,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.PayRates.Application.md)|
 |[Count](Project.PayRates.Count.md)|
@@ -90,3 +91,5 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

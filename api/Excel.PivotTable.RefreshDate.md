@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.RefreshDate
 ms.assetid: 7c1a29c2-749e-98f8-ae14-eb2fa3ab2bb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.RefreshDate property (Excel)
 
-Returns the date on which the PivotTable report was last refreshed. Read-only  **Date** .
+Returns the date on which the PivotTable report was last refreshed. Read-only  **Date**.
 
 
 ## Syntax
 
- _expression_. `RefreshDate`
+_expression_. `RefreshDate`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -45,3 +46,4 @@ MsgBox "The data was last refreshed on " & dateString
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

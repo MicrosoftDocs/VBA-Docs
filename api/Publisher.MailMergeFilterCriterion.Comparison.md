@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilterCriterion.Comparison Property (Publisher)
+title: MailMergeFilterCriterion.Comparison property (Publisher)
 keywords: vbapb10.chm6815748
 f1_keywords:
 - vbapb10.chm6815748
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilterCriterion.Comparison
 ms.assetid: ba815a39-35d6-803e-39c4-deba30646e66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilterCriterion.Comparison Property (Publisher)
+# MailMergeFilterCriterion.Comparison property (Publisher)
 
 Returns or sets an  **MsoFilterComparison** constant that represents how to compare the [Column](Publisher.Cell.Column.md) and **[CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)** properties. Read/write.
 
 
 ## Syntax
 
- _expression_. **Comparison**
+_expression_.**Comparison**
 
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
@@ -30,7 +31,7 @@ MsoFilterComparison
 
 ## Remarks
 
-The  **Comparison** property value can be one of the ** [MsoFilterComparison](./Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
+The  **Comparison** property value can be one of the **[MsoFilterComparison](Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example
@@ -55,4 +56,4 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

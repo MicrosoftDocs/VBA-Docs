@@ -1,14 +1,15 @@
 ---
-title: xlChartSplitType Enumeration (Word)
+title: XlChartSplitType enumeration (Word)
 ms.prod: word
 ms.assetid: 8305530b-c62d-acaf-9b74-8c67797e2339
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlChartSplitType Enumeration (Word)
+# XlChartSplitType enumeration (Word)
 
-Specifies the values displayed in the second chart in a pie chart or a bar of pie chart.
+Specifies the values displayed in the second chart in a pie chart or a Bar of Pie chart.
 
 
 
@@ -19,3 +20,4 @@ Specifies the values displayed in the second chart in a pie chart or a bar of pi
 | **xlSplitByPosition**|1|The second chart displays the smallest values in the data series. The number of values to display is specified by the  **SplitValue** property.|
 | **xlSplitByValue**|2|The second chart displays values less than the value specified by the  **SplitValue** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

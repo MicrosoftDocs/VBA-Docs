@@ -1,5 +1,5 @@
 ---
-title: TabStops.Item Method (Word)
+title: TabStops.Item method (Word)
 keywords: vbawd10.chm156565504
 f1_keywords:
 - vbawd10.chm156565504
@@ -8,19 +8,20 @@ api_name:
 - Word.TabStops.Item
 ms.assetid: 25569e1e-ce5b-0e8f-97ab-8424852abeb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Item Method (Word)
+# TabStops.Item method (Word)
 
 Returns an individual  **TabStop** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
+_expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ TabStop
 
 [TabStops Collection Object](Word.tabstops.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

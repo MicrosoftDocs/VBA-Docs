@@ -1,5 +1,5 @@
 ---
-title: MailItem.SaveSentMessageFolder Property (Outlook)
+title: MailItem.SaveSentMessageFolder property (Outlook)
 keywords: vbaol11.chm1356
 f1_keywords:
 - vbaol11.chm1356
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.SaveSentMessageFolder
 ms.assetid: ab36ae3b-6c6d-842b-dbb4-88c37d8e7874
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.SaveSentMessageFolder Property (Outlook)
+# MailItem.SaveSentMessageFolder property (Outlook)
 
-Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder in which a copy of the e-mail message will be saved after being sent. Read/write.
+Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder in which a copy of the email message will be saved after being sent. Read/write.
 
 
 ## Syntax
 
- _expression_. `SaveSentMessageFolder`
+_expression_. `SaveSentMessageFolder`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Example
@@ -66,3 +67,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

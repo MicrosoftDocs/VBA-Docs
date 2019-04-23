@@ -1,5 +1,5 @@
 ---
-title: Workbook.XmlImport Method (Excel)
+title: Workbook.XmlImport method (Excel)
 keywords: vbaxl10.chm199226
 f1_keywords:
 - vbaxl10.chm199226
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.XmlImport
 ms.assetid: 97964c82-1fbe-7060-0a90-23c190e0b398
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.XmlImport Method (Excel)
+# Workbook.XmlImport method (Excel)
 
 Imports an XML data file into the current workbook.
 
 
 ## Syntax
 
- _expression_. `XmlImport`( `_Url_` , `_ImportMap_` , `_Overwrite_` , `_Destination_` )
+_expression_. `XmlImport`( `_Url_` , `_ImportMap_` , `_Overwrite_` , `_Destination_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Parameters
@@ -31,8 +32,8 @@ Imports an XML data file into the current workbook.
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|A uniform resource locator (URL) or a uniform naming convention (UNC) path to a XML data file.|
 | _ImportMap_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply when importing the file. If the data was previously imported, contains a reference to the  **XmlMap** object containing the data.|
-| _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to  **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True** . If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True** .|
-| _Destination_|Optional| **Variant**|Specifies the range where the list will be created. You only use the top left corner of the range.|
+| _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to  **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True**. If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True**.|
+| _Destination_|Optional| **Variant**|Specifies the range where the list will be created. You only use the top-left corner of the range.|
 
 ## Return value
 
@@ -43,10 +44,10 @@ Imports an XML data file into the current workbook.
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants.|
-| **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess** . The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
+| **xlXmlImportElementsTruncated**. The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
+| **xlXmlImportSuccess**. The XML data file was successfully imported.|
+| **xlXmlImportValidationFailed**. The data being imported failed schema validation, but was imported anyway.|
 
 This method allows you to import data into the workbook from a file path. Excel uses the first qualifying map found, or if the destination range is specified, Excel will automatically list the data.
 
@@ -71,3 +72,4 @@ Use the  **[XmlImportXml](Excel.Workbook.XmlImportXml.md)** method of the **[Wor
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Configuring Forms
 ms.prod: outlook
 ms.assetid: 8d10a5b1-4b62-4f0e-a2cf-8c515a7583c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,6 +28,6 @@ ms.date: 06/08/2017
     
 -  [Automatically Insert Prefix Text into the Subject Field of a Reply Form](../Configuring-Forms/automatically-insert-prefix-text-into-the-subject-field-of-a-reply-form.md)
     
--  [Pre-address a Reply Form to a Public Folder or an E-mail Address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
-    
+-  [Pre-address a Reply Form to a Public Folder or an Email Address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ToolbarItem.Style Property (Visio)
+title: ToolbarItem.Style property (Visio)
 keywords: vis_sdr.chm13551150
 f1_keywords:
 - vis_sdr.chm13551150
@@ -8,17 +8,18 @@ api_name:
 - Visio.ToolbarItem.Style
 ms.assetid: 3f4c624c-a80c-9b82-3ca5-34c395770bf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ToolbarItem.Style Property (Visio)
+# ToolbarItem.Style property (Visio)
 
 Determines whether a toolbar button shows an icon, a caption, or some combination. Read/write.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
@@ -33,7 +34,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Possible values for the  **Style** property are listed in the following table. These constants are declared by the Visio type library in **VisUIButtonStyle** .
+Possible values for the  **Style** property are listed in the following table. These constants are declared by the Visio type library in **VisUIButtonStyle**.
 
 
 
@@ -48,7 +49,7 @@ Possible values for the  **Style** property are listed in the following table. T
 
 This example shows how to use the  **Style** property to set the style of a toolbar button. The example adds a custom toolbar button and sets it to display both an icon and a caption. This button appears in the Visio user interface and is available while the document is active.
 
-Before running this code, replace  _path\filename_ with the full path to and name of a valid icone (.ico) file on your computer.
+Before running this code, replace  _path\filename_ with the full path to and name of a valid icon (.ico) file on your computer.
 
 To restore the built-in toolbars in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
 
@@ -106,4 +107,4 @@ Sub Style_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

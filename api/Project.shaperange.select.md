@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.Select Method (Project)
+title: ShapeRange.Select method (Project)
 ms.prod: project-server
 ms.assetid: 41e923f7-a34f-d79a-e05c-55c8d0129ed5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Select Method (Project)
+# ShapeRange.Select method (Project)
 Selects each shape in a shape range.
 
 ## Syntax
 
- _expression_. `Select` _(Replace)_
+_expression_.**Select** _(Replace)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -20,10 +21,10 @@ Selects each shape in a shape range.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional|**Variant**|**True** replaces the current selection with the new selection. **False** adds the new selection to the current selection. The default value is **True**.|
-| _Replace_|Optional|VARIANT||
+| _Replace_|Optional|**Variant**||
 
 ## Return value
 
@@ -70,3 +71,5 @@ End Sub
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

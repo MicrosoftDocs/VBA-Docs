@@ -3,6 +3,7 @@ title: Active Controls and Selected Controls (Outlook)
 ms.prod: outlook
 ms.assetid: 3ce5a242-b950-0272-4a34-b1f84fc5a011
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ In both the selected and the active state, you can use  **DEL**,  **CTRL+X**, an
 
  **Note**  For more information about design mode, see  [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

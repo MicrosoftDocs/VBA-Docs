@@ -1,26 +1,27 @@
 ---
-title: PictureEffects Object (Office)
+title: PictureEffects object (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects
 ms.assetid: bc0e1cfd-7328-360d-872e-c71ae93162ed
-ms.date: 06/08/2017
+ms.date: 01/23/2019
+localization_priority: Normal
 ---
 
 
-# PictureEffects Object (Office)
+# PictureEffects object (Office)
 
-Represents a collection of  **PictureEffects** objects.
+Represents a collection of **[PictureEffect](Office.PictureEffect.md)** objects.
 
 
 ## Remarks
 
-Picture Effects are processed as a chain composed of individual items which are applied in sequence to create the final composited image. An Effects chain will allow an effect to be added to the chain, reordered, or removed from the chain.
+Picture effects are processed as a chain composed of individual items that are applied in sequence to create the final composited image. An effects chain will allow an effect to be added to the chain, reordered, or removed from the chain.
 
 
 ## Example
 
-The following code sets several Picture Effect fill properties on a shape in a Microsoft PowerPoint slide.
+The following code sets several **PictureEffect** fill properties on a shape in a Microsoft PowerPoint slide.
 
 
 ```vb
@@ -50,9 +51,10 @@ End Sub
 
 ## See also
 
+- [PictureEffects object members](overview/Library-Reference/pictureeffects-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

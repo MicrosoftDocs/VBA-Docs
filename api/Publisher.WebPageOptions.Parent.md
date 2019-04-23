@@ -1,5 +1,5 @@
 ---
-title: WebPageOptions.Parent Property (Publisher)
+title: WebPageOptions.Parent property (Publisher)
 keywords: vbapb10.chm544770
 f1_keywords:
 - vbapb10.chm544770
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebPageOptions.Parent
 ms.assetid: aa55f1f2-a35e-2a46-ca07-24799ecab241
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebPageOptions.Parent Property (Publisher)
+# WebPageOptions.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **WebPageOptions** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

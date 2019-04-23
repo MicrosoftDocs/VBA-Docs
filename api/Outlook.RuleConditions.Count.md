@@ -1,5 +1,5 @@
 ---
-title: RuleConditions.Count Property (Outlook)
+title: RuleConditions.Count property (Outlook)
 keywords: vbaol11.chm2300
 f1_keywords:
 - vbaol11.chm2300
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RuleConditions.Count
 ms.assetid: 7950c105-4528-40aa-f263-b800a68ae1ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RuleConditions.Count Property (Outlook)
+# RuleConditions.Count property (Outlook)
 
 Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
+_expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can enumerate the  **[RuleConditions](Outlook.RuleConditions.md)** collectio
 
 [RuleConditions Object](Outlook.RuleConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

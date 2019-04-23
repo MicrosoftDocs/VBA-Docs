@@ -1,5 +1,5 @@
 ---
-title: OlItemType Enumeration (Outlook)
+title: OlItemType enumeration (Outlook)
 keywords: vbaol11.chm3064
 f1_keywords:
 - vbaol11.chm3064
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlItemType
 ms.assetid: d42959b8-6c91-4d9e-98db-7226780f9995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlItemType Enumeration (Outlook)
+# OlItemType enumeration (Outlook)
 
 Indicates the Outlook item type.
 
@@ -28,3 +29,4 @@ Indicates the Outlook item type.
 | **olPostItem**|6|A  **[PostItem](Outlook.PostItem.md)** object.|
 | **olTaskItem**|3|A  **[TaskItem](Outlook.TaskItem.md)** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

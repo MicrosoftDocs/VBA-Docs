@@ -1,5 +1,5 @@
 ---
-title: Page.GetShapesLinkedToData Method (Visio)
+title: Page.GetShapesLinkedToData method (Visio)
 keywords: vis_sdr.chm10960145
 f1_keywords:
 - vis_sdr.chm10960145
@@ -8,10 +8,11 @@ api_name:
 - Visio.Page.GetShapesLinkedToData
 ms.assetid: 3196f7f9-1b7c-8070-444d-c1a55f0c205f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.GetShapesLinkedToData Method (Visio)
+# Page.GetShapesLinkedToData method (Visio)
 
 Returns an array of all shapes on the active page linked to data in the specified data recordset.
 
@@ -21,7 +22,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 
 ## Syntax
 
- _expression_. `GetShapesLinkedToData`( `_DataRecordsetID_` , `_ShapeIDs()_` )
+_expression_. `GetShapesLinkedToData`( `_DataRecordsetID_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
@@ -42,9 +43,9 @@ Nothing
 
 ## Remarks
 
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . If there are no linked shapes on the page, **GetShapesLinkedToData** will return an empty array.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. If there are no linked shapes on the page, **GetShapesLinkedToData** will return an empty array.
 
-To determine the specific data row in the data recordset shapes are linked to, use the  **[Page.GetShapesLinkedToDataRow ](Visio.Page.GetShapesLinkedToDataRow.md)** method.
+To determine the specific data row in the data recordset shapes are linked to, use the  **[Page.GetShapesLinkedToDataRow](Visio.Page.GetShapesLinkedToDataRow.md)** method.
 
 
 ## Example
@@ -76,4 +77,4 @@ Public Sub GetShapesLinkedToData_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

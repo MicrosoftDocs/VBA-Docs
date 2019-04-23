@@ -5,6 +5,7 @@ api_name:
 - Visio.PageIndexToID
 ms.assetid: d354e9d4-1272-2fd1-44dd-5664e94bc6ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets the ID of the page at the specified index in the collection of pages in the
 
 ## Syntax
 
- _expression_. **PageIndexToID**(**_PageIndex_**)
+_expression_.**PageIndexToID**(**_PageIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -47,4 +48,4 @@ The following code shows how to get the ID of the page at index position 1 in th
 Debug.Print vsoViewer.PageIndexToID(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,8 @@ ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.Parent
 ms.assetid: d9f8adf3-739b-9bca-9725-12733feb2547
-ms.date: 06/08/2017
+ms.date: 04/23/2019
+localization_priority: Normal
 ---
 
 
@@ -18,13 +19,11 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
 
-[ConnectorFormat Object](Excel.ConnectorFormat.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

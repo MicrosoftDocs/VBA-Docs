@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.ErrorBars
 ms.assetid: 1a607e6f-e70a-e39c-4cc3-6060eb64e654
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns an  **[ErrorBars](Excel.ErrorBars(object).md)** object that represents t
 
 ## Syntax
 
- _expression_. `ErrorBars`
+_expression_. `ErrorBars`
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Example
 
-This example sets the error bar color for series one in Chart1. The example should be run on a 2-D line chart that has error bars for series one.
+This example sets the error bar color for series one in Chart1. The example should be run on a 2D line chart that has error bars for series one.
 
 
 ```vb
@@ -40,3 +41,4 @@ End With
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

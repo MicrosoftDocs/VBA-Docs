@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Syd Method (Excel)
+title: WorksheetFunction.Syd method (Excel)
 keywords: vbaxl10.chm137134
 f1_keywords:
 - vbaxl10.chm137134
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Syd
 ms.assetid: 5d63250b-5002-b159-e1b8-f47752b85e73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Syd Method (Excel)
+# WorksheetFunction.Syd method (Excel)
 
 Returns the sum-of-years' digits depreciation of an asset for a specified period.
 
 
 ## Syntax
 
- _expression_. `Syd`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Syd`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -55,3 +56,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

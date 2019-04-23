@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Hyperlink
 ms.assetid: 97c87fda-91a5-b5db-a82b-6ba1465442fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Hyperlink](Excel.Hyperlink.md)** object that represents the hyperl
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_.**Hyperlink**
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

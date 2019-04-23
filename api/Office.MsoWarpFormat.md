@@ -1,18 +1,19 @@
 ---
-title: MsoWarpFormat Enumeration (Office)
+title: MsoWarpFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoWarpFormat
 ms.assetid: 481cead3-900f-66b6-8200-21342b0ce21c
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoWarpFormat Enumeration (Office)
+# MsoWarpFormat enumeration (Office)
 
 Indicates various image warping formats.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -55,3 +56,4 @@ Indicates various image warping formats.
 |**msoWarpFormat9**|8|Specifies Warp Format 9.|
 |**msoWarpFormatMixed**|-2|Specifies a mix of warp formats.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

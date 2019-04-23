@@ -1,5 +1,5 @@
 ---
-title: Options.BackgroundSave Property (Word)
+title: Options.BackgroundSave property (Word)
 keywords: vbawd10.chm162988078
 f1_keywords:
 - vbawd10.chm162988078
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.BackgroundSave
 ms.assetid: a579d9ae-5ee2-543e-fe16-e642e48dcb61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.BackgroundSave Property (Word)
+# Options.BackgroundSave property (Word)
 
- **True** if Word saves documents in the background. When Word is saving in the background, users can continue to type and to choose commands. Read/write **Boolean** .
+ **True** if Word saves documents in the background. When Word is saving in the background, users can continue to type and to choose commands. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BackgroundSave`
+_expression_. `BackgroundSave`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -49,3 +50,4 @@ blnAutoSave = Options.BackgroundSave
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

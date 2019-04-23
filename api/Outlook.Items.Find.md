@@ -1,5 +1,5 @@
 ---
-title: Items.Find Method (Outlook)
+title: Items.Find method (Outlook)
 keywords: vbaol11.chm62
 f1_keywords:
 - vbaol11.chm62
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Items.Find
 ms.assetid: e7a791d8-b80b-df07-84a3-a85acabfcf80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.Find Method (Outlook)
+# Items.Find method (Outlook)
 
 Locates and returns a Microsoft Outlook item object that satisfies the given  _Filter_ .
 
 
 ## Syntax
 
- _expression_. `Find`( `_Filter_` )
+_expression_. `Find`( `_Filter_` )
 
- _expression_ An expression that returns a [Items](./Outlook.Items.md) object.
+ _expression_ An expression that returns a [Items](Outlook.Items.md) object.
 
 
 ## Parameters
@@ -57,7 +58,7 @@ The method will return an error with the following properties in the  _Filter_ :
 | **DLName**| **RecurrenceState**|
 | **Email1EntryID**| **ReplyRecipients**|
 | **Email2EntryID**| **ReceivedByEntryID**|
-| **Email3EntryID**| **RecevedOnBehalfOfEntryID**|
+| **Email3EntryID**| **ReceivedOnBehalfOfEntryID**|
 | **EntryID**| **ResponseState**|
 | **HTMLBody**| **Saved**|
 | **IsOnlineMeeting**| **Sent**|
@@ -246,3 +247,4 @@ sFilter = "[LastName] > 'LZZZ' And [LastName] < 'N'"
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

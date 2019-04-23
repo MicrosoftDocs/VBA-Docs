@@ -8,6 +8,7 @@ api_name:
 - Excel.Page.RightFooter
 ms.assetid: 457fb633-d748-bfc4-9188-87b0a46209dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Specifies a picture or text to be right aligned in the page footer.
 
 ## Syntax
 
- _expression_. `RightFooter`
+_expression_. `RightFooter`
 
- _expression_ A variable that represents a [Page](Excel.Page.md) object.
+_expression_ A variable that represents a [Page](Excel.Page.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Specifies a picture or text to be right aligned in the page footer.
 
 [Page Object](Excel.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

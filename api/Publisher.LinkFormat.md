@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (Publisher)
+title: LinkFormat object (Publisher)
 keywords: vbapb10.chm4456447
 f1_keywords:
 - vbapb10.chm4456447
@@ -8,10 +8,11 @@ api_name:
 - Publisher.LinkFormat
 ms.assetid: 5b588edd-b026-cfc7-4acb-77290ae4d297
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat Object (Publisher)
+# LinkFormat object (Publisher)
 
 Represents the linking characteristics for an OLE object or picture.
  
@@ -52,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Update](Publisher.LinkFormat.Update.md)|
 
@@ -60,9 +61,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.LinkFormat.Application.md)|
 |[Parent](Publisher.LinkFormat.Parent.md)|
 |[SourceFullName](Publisher.LinkFormat.SourceFullName.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Document.PaperHeight Property (Visio)
+title: Document.PaperHeight property (Visio)
 keywords: vis_sdr.chm10514015
 f1_keywords:
 - vis_sdr.chm10514015
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.PaperHeight
 ms.assetid: 305356e8-69d6-bae3-5136-d931fcf967b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.PaperHeight Property (Visio)
+# Document.PaperHeight property (Visio)
 
 Returns the height of a document's printed page. Read-only.
 
 
 ## Syntax
 
- _expression_. `PaperHeight`( `_UnitsNameOrCode_` )
+_expression_. `PaperHeight`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -38,6 +39,6 @@ Double
 
 ## Remarks
 
-The  **PaperHeight** property value can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](Visio.visunitcodes.md)** .
+The  **PaperHeight** property value can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](Visio.visunitcodes.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

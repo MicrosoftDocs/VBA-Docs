@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Parent Property (PowerPoint)
+title: ShadowFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm554001
 f1_keywords:
 - vbapp10.chm554001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ShadowFormat.Parent
 ms.assetid: 93245fb3-2704-b43b-391a-52213cf0759e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShadowFormat.Parent Property (PowerPoint)
+# ShadowFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

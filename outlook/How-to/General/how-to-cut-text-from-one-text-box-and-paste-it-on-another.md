@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 33339831-9567-6910-f596-6a9a398886e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Cut Text from One Text Box and Paste it on Another
+# Cut Text from One Text Box and Paste it on Another
 
 The following example uses the  **[Cut](../../../api/Outlook.textbox.cut.md)** and **[Paste](../../../api/Outlook.textbox.paste.md)** methods to cut text from one **[TextBox](../../../api/Outlook.textbox.md)** and paste it on another **TextBox**.
 
@@ -52,4 +53,4 @@ Sub CommandButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

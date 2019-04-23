@@ -1,5 +1,5 @@
 ---
-title: OlkTimeZoneControl.KeyPress Event (Outlook)
+title: OlkTimeZoneControl.KeyPress event (Outlook)
 keywords: vbaol11.chm1000524
 f1_keywords:
 - vbaol11.chm1000524
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkTimeZoneControl.KeyPress
 ms.assetid: 4b6f04be-85c2-70f8-001f-30f008fb9b4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeZoneControl.KeyPress Event (Outlook)
+# OlkTimeZoneControl.KeyPress event (Outlook)
 
 Occurs when the user presses an ANSI key.
 
 
 ## Syntax
 
- _expression_. `KeyPress`( `_KeyAscii_` )
+_expression_. `KeyPress`( `_KeyAscii_` )
 
- _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Parameters
@@ -54,3 +55,4 @@ A  **KeyPress** event does not occur under the following conditions:
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

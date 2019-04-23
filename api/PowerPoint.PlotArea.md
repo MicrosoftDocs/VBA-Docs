@@ -1,5 +1,5 @@
 ---
-title: PlotArea Object (PowerPoint)
+title: PlotArea object (PowerPoint)
 keywords: vbapp10.chm713000
 f1_keywords:
 - vbapp10.chm713000
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.PlotArea
 ms.assetid: c1b991b8-8be2-5342-8b5c-814a2e99fec2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PlotArea Object (PowerPoint)
+# PlotArea object (PowerPoint)
 
 Represents the plot area of a chart.
 
 
 ## Remarks
 
- This is the area where your chart data is plotted. The plot area on a 2-D chart contains the data markers, gridlines, data labels, trendlines, and optional chart items placed in the chart area. The plot area on a 3-D chart contains all the above items plus the walls, floor, axes, axis titles, and tick-mark labels in the chart.
+ This is the area where your chart data is plotted. The plot area on a 2D chart contains the data markers, gridlines, data labels, trendlines, and optional chart items placed in the chart area. The plot area on a 3D chart contains all the above items plus the walls, floor, axes, axis titles, and tick-mark labels in the chart.
 
-The plot area is surrounded by the chart area. The chart area on a 2-D chart contains the axes, the chart title, the axis titles, and the legend. The chart area on a 3-D chart contains the chart title and the legend. For information about formatting the chart area, see the  **[ChartArea](PowerPoint.ChartArea.md)** object.
+The plot area is surrounded by the chart area. The chart area on a 2D chart contains the axes, the chart title, the axis titles, and the legend. The chart area on a 3D chart contains the chart title and the legend. For information about formatting the chart area, see the  **[ChartArea](PowerPoint.ChartArea.md)** object.
 
 
 ## Example
@@ -59,3 +60,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

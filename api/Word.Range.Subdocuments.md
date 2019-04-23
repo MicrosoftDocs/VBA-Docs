@@ -1,5 +1,5 @@
 ---
-title: Range.Subdocuments Property (Word)
+title: Range.Subdocuments property (Word)
 keywords: vbawd10.chm157155487
 f1_keywords:
 - vbawd10.chm157155487
@@ -8,17 +8,18 @@ api_name:
 - Word.Range.Subdocuments
 ms.assetid: c06afeb9-7e83-d858-d863-9582962c8254
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.Subdocuments Property (Word)
+# Range.Subdocuments property (Word)
 
 Returns a  **Subdocuments** collection that represents all the subdocuments in the specified range or document. Read-only.
 
 
 ## Syntax
 
- _expression_. `Subdocuments`
+_expression_. `Subdocuments`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
@@ -43,3 +44,4 @@ MsgBox ActiveDocument.Range.Subdocuments.Count
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

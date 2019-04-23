@@ -1,5 +1,5 @@
 ---
-title: Shape.Duplicate Method (Visio)
+title: Shape.Duplicate method (Visio)
 keywords: vis_sdr.chm11216245
 f1_keywords:
 - vis_sdr.chm11216245
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Duplicate
 ms.assetid: a45fd247-e4ad-8149-3656-af9588f076ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Duplicate Method (Visio)
+# Shape.Duplicate method (Visio)
 
 Duplicates an object.
 
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_.**Duplicate**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -61,4 +62,4 @@ Public Sub Duplicate_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

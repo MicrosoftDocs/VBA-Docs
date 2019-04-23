@@ -1,5 +1,5 @@
 ---
-title: SetEffect.Parent Property (PowerPoint)
+title: SetEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm670002
 f1_keywords:
 - vbapp10.chm670002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SetEffect.Parent
 ms.assetid: 5d7ed1cf-c24c-cc13-e923-03b5308557dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SetEffect.Parent Property (PowerPoint)
+# SetEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [SetEffect](./PowerPoint.SetEffect.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [SetEffect Object](PowerPoint.SetEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

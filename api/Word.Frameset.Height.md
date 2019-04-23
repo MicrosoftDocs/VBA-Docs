@@ -1,5 +1,5 @@
 ---
-title: Frameset.Height Property (Word)
+title: Frameset.Height property (Word)
 keywords: vbawd10.chm165806084
 f1_keywords:
 - vbawd10.chm165806084
@@ -8,17 +8,18 @@ api_name:
 - Word.Frameset.Height
 ms.assetid: 4f577980-30ca-540f-932a-a707ab6d8b5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frameset.Height Property (Word)
+# Frameset.Height property (Word)
 
 Returns or sets a  **Float** that represents the height (in points) of the specified **Frameset** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_.**Height**
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
@@ -46,3 +47,4 @@ End With
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

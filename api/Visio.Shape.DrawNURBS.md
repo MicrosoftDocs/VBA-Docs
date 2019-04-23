@@ -1,5 +1,5 @@
 ---
-title: Shape.DrawNURBS Method (Visio)
+title: Shape.DrawNURBS method (Visio)
 keywords: vis_sdr.chm11216205
 f1_keywords:
 - vis_sdr.chm11216205
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.DrawNURBS
 ms.assetid: e1209142-3902-3231-a019-f6e091978847
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.DrawNURBS Method (Visio)
+# Shape.DrawNURBS method (Visio)
 
 Creates a new shape whose path consists of a single NURBS (nonuniform rational B-spline) segment.
 
 
 ## Syntax
 
- _expression_. `DrawNURBS`( `_degree_` , `_Flags_` , `_xyArray()_` , `_knots()_` , `_weights_` )
+_expression_. `DrawNURBS`( `_degree_` , `_Flags_` , `_xyArray()_` , `_knots()_` , `_weights_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -80,8 +81,8 @@ The following rules apply to the sizes of the lists. For a spline with n control
 
 The conventional non-periodic spline requires  _n_ + _degree_ + 1 _knots_, but the application implies the repeated  _knots_ at the end. For example, the _degree_ 2 knot list (0,0,0,2,5,8) is interpreted in the application as the conventional knot sequence (0,0,0,2,5,8,8,8).
 
-The  _Flags_ parameter is a bitmask that specifies options for drawing the new shape. Its value should be either zero (0) or **visSpline1D** (8). If _Flags_ is **visSpline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawNURBS** method produces a shape with one-dimensional (1-D) behavior; otherwise, it produces a shape with two-dimensional (2-D) behavior.
+The  _Flags_ parameter is a bitmask that specifies options for drawing the new shape. Its value should be either zero (0) or **visSpline1D** (8). If _Flags_ is **visSpline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawNURBS** method produces a shape with one-dimensional (1D) behavior; otherwise, it produces a shape with two-dimensional (2D) behavior.
 
 If the first and last points in  _xyArray_ do coincide, the **DrawNURBS** method produces a filled shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

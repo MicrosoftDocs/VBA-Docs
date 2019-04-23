@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 62fb4288-dc98-4831-a039-b2b81f407159
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a 'ModelFormatCurrency' object.
+_expression_ A variable that represents a 'ModelFormatCurrency' object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,4 +42,4 @@ End If
 
 [ModelFormatCurrency Object](Excel.modelformatcurrency.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

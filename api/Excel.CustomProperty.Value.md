@@ -8,19 +8,20 @@ api_name:
 - Excel.CustomProperty.Value
 ms.assetid: 3c549348-4df7-278a-433f-a8550950f8ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # CustomProperty.Value property (Excel)
 
-Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)** .
+Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [CustomProperty](Excel.CustomProperty.md) object.
+_expression_ A variable that represents a **[CustomProperty](Excel.CustomProperty.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)** .
 
 [CustomProperty Object](Excel.CustomProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

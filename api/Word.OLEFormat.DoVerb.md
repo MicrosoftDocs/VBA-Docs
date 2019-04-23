@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DoVerb Method (Word)
+title: OLEFormat.DoVerb method (Word)
 keywords: vbawd10.chm154337389
 f1_keywords:
 - vbawd10.chm154337389
@@ -8,19 +8,20 @@ api_name:
 - Word.OLEFormat.DoVerb
 ms.assetid: 9ef89849-e072-24a0-3d43-fa743154b1a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.DoVerb Method (Word)
+# OLEFormat.DoVerb method (Word)
 
 Requests that an OLE object perform one of its available verbs ? the actions an OLE object takes to activate its contents.
 
 
 ## Syntax
 
- _expression_. `DoVerb`( `_VerbIndex_` )
+_expression_. `DoVerb`( `_VerbIndex_` )
 
- _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
+_expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ ActiveDocument.Shapes(1).OLEFormat.DoVerb
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

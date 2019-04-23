@@ -3,6 +3,7 @@ title: Task Forms Overview
 ms.prod: outlook
 ms.assetid: b2378b5a-5eac-532d-ef6e-acd3dac5d777
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -14,4 +15,4 @@ By using form regions, you can customize the default pages of a form by adding a
 
 When tasks are used in a personal folder, you can assign tasks to other people. However, when task items are placed in a Microsoft Exchange public folder, they cannot be assigned. Instead, the  **Owner** field can be modified to reflect who currently owns the task. It is recommended that you create a custom view so that the tasks are grouped by their owner.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

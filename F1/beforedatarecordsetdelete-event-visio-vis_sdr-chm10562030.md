@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 26583a4d-63cd-4518-bd45-22e047e2b503
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.BeforeDataRecordsetDelete Event (Visio)](http://msdn.microsoft.com/library/70e30b15-6254-b12b-6f46-ce1f7ae07140%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

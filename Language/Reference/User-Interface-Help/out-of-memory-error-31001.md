@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 170c6c8e-85d9-082f-2160-37b22eccc1a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Your system could not allocate or access enough memory or disk space for the specified operation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

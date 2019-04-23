@@ -6,29 +6,27 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 344706b0-b9de-1cc2-ecc4-7201e4caa54e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ModelColumnName.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified **ModelColumnName** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object.
+_expression_ A variable that represents a **[ModelColumnName](Excel.modelcolumnname.md)** object.
 
 
 ## Property value
 
- **OBJECT**
-
-
-## See also
+**OBJECT**
 
 
 
-[ModelColumnName Object](Excel.modelcolumnname.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

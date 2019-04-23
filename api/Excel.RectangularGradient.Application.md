@@ -8,6 +8,7 @@ api_name:
 - Excel.RectangularGradient.Application
 ms.assetid: 5fedb7a5-7944-65ef-b0c8-32760546f53c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
+_expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Application
 
 [RectangularGradient Object](Excel.RectangularGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

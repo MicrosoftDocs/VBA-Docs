@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.IconSet
 ms.assetid: 8e0529d5-1c15-744e-2391-7229bcbcd043
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets an  **[IconSets](Excel.IconSets.md)** collection, which specifie
 
 ## Syntax
 
- _expression_. `IconSet`
+_expression_. `IconSet`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ You can assign the icon set by using the  **[IconSets](Excel.Workbook.IconSets.m
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

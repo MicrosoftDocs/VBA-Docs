@@ -1,21 +1,22 @@
 ---
-title: InvisibleApp.MouseMove Event (Visio)
+title: InvisibleApp.MouseMove event (Visio)
 ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MouseMove
 ms.assetid: 7f360b69-539e-bdf2-2ff5-1b67090e01ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.MouseMove Event (Visio)
+# InvisibleApp.MouseMove event (Visio)
 
 Occurs when the mouse is moved.
 
 
 ## Syntax
 
-Private Sub  _expression_ _'MouseMove'(**_ByVal Button As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal x As Double_** , **_ByVal y As Double_** , **_ByVal CancelDefault As Boolean_**)
+Private Sub  _expression_ _'MouseMove'(**_ByVal Button As Long_**, **_ByVal KeyButtonState As Long_**, **_ByVal x As Double_**, **_ByVal y As Double_**, **_ByVal CancelDefault As Boolean_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -30,7 +31,7 @@ Private Sub  _expression_ _'MouseMove'(**_ByVal Button As Long_** , **_ByVal Key
 | _KeyButtonState_|Required| **Long**|The state of the mouse buttons and the SHIFT and CTRL keys for the event. See Remarks for possible values.|
 | _x_|Required| **Double**|The x-coordinate of the mouse pointer.|
 | _y_|Required| **Double**|The y-coordinate of the mouse pointer.|
-| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True** .|
+| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
 
 ## Remarks
 
@@ -56,9 +57,9 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 | **visMouseMiddle**|16|
 | **visMouseRight**|2|
 
-If you set  _CancelDefault_ to **True** , Visio will not process the message received when the mouse button is clicked.
+If you set  _CancelDefault_ to **True**, Visio will not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events,  **MouseMove** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **MouseMove** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events,  **MouseMove** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **MouseMove**, either by setting _CancelDefault_ to **True**, or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -67,9 +68,9 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 ## Example
 
-This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown** , **MouseMove** , and **MouseUp** events.
+This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown**, **MouseMove**, and **MouseUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **MouseListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it  **MouseListener**, and insert the following code in the module.
 
 
 
@@ -156,4 +157,4 @@ End Sub
 
 Save the document to initialize the class, and then move the mouse briefly in the active window to fire a series of  **MouseMove** events. In the Immediate window, the handler prints a list of x- and y-position value pairs, each of which corresponds to the mouse position when a **MouseMove** event fired.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

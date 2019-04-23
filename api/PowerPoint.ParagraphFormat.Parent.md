@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Parent Property (PowerPoint)
+title: ParagraphFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm576002
 f1_keywords:
 - vbapp10.chm576002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ParagraphFormat.Parent
 ms.assetid: 5b86ae1b-7889-0e98-43f9-7e947341edd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Parent Property (PowerPoint)
+# ParagraphFormat.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

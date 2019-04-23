@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Apply Method (Excel)
+title: ShapeRange.Apply method (Excel)
 keywords: vbaxl10.chm640078
 f1_keywords:
 - vbaxl10.chm640078
@@ -8,24 +8,25 @@ api_name:
 - Excel.ShapeRange.Apply
 ms.assetid: 34acef44-7075-ffc1-199c-3396e17caafe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Apply Method (Excel)
+# ShapeRange.Apply method (Excel)
 
 Applies to the specified shape formatting that's been copied by using the  **[PickUp](Excel.ShapeRange.PickUp.md)** method.
 
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_.**Apply**
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a **[ShapeRange](Excel.shaperange.md)** object.
 
 
 ## Example
 
-This example copies the formatting of shape one on  `myDocument` and then applies the copied formatting to shape two.
+This example copies the formatting of shape one on  _myDocument_ and then applies the copied formatting to shape two.
 
 
 ```vb
@@ -42,3 +43,4 @@ End With
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

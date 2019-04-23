@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl Object (Outlook)
+title: OlkTimeControl object (Outlook)
 keywords: vbaol11.chm1000415
 f1_keywords:
 - vbaol11.chm1000415
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkTimeControl
 ms.assetid: b23f1741-b920-0caf-d4be-9892d8f2ae07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeControl Object (Outlook)
+# OlkTimeControl object (Outlook)
 
 A control that displays the Outlook time drop-down menu. 
 
@@ -40,7 +41,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkTimeControl.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkTimeControl.BeforeUpdate.md)|
@@ -61,7 +62,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DropDown](Outlook.OlkTimeControl.DropDown.md)|
 
@@ -69,7 +70,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkTimeControl.AutoSize.md)|
 |[AutoWordSelect](Outlook.OlkTimeControl.AutoWordSelect.md)|
@@ -94,4 +95,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

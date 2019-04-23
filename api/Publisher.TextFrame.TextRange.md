@@ -1,5 +1,5 @@
 ---
-title: TextFrame.TextRange Property (Publisher)
+title: TextFrame.TextRange property (Publisher)
 keywords: vbapb10.chm3866627
 f1_keywords:
 - vbapb10.chm3866627
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.TextRange
 ms.assetid: 44a8395e-81dc-7d06-f068-89f77a889f5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.TextRange Property (Publisher)
+# TextFrame.TextRange property (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the text that is attached to a shape, and properties and methods for manipulating the text.
 
 
 ## Syntax
 
- _expression_. **TextRange**
+_expression_.**TextRange**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -55,4 +56,4 @@ Sub AddTextToShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PublishObject.SourceType Property (PowerPoint)
+title: PublishObject.SourceType property (PowerPoint)
 keywords: vbapp10.chm635004
 f1_keywords:
 - vbapp10.chm635004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PublishObject.SourceType
 ms.assetid: 3714155e-b42f-8396-af66-6a1635f8631a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObject.SourceType Property (PowerPoint)
+# PublishObject.SourceType property (PowerPoint)
 
 Returns or sets the source type of the presentation to be published to HTML. Read/write.
 
 
 ## Syntax
 
- _expression_. `SourceType`
+_expression_. `SourceType`
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
@@ -69,3 +70,4 @@ End With
 
 [PublishObject Object](PowerPoint.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

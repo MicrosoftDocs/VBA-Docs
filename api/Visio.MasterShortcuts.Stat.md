@@ -1,5 +1,5 @@
 ---
-title: MasterShortcuts.Stat Property (Visio)
+title: MasterShortcuts.Stat property (Visio)
 keywords: vis_sdr.chm15914420
 f1_keywords:
 - vis_sdr.chm15914420
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcuts.Stat
 ms.assetid: 565a1781-d729-c67c-8126-8fadfb8ef8b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcuts.Stat Property (Visio)
+# MasterShortcuts.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 
@@ -55,4 +56,4 @@ Public Sub Stat_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

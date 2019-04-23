@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.Interior
 ms.assetid: c0687719-345c-4f64-d769-5be234489027
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that represents the
 
 ## Syntax
 
- _expression_. `Interior`
+_expression_.**Interior**
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Interior
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

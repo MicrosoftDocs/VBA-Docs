@@ -8,6 +8,7 @@ api_name:
 - Excel.FreeformBuilder.Application
 ms.assetid: 93f50afc-c753-1612-21d6-e7317ea9c150
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilder.md) object.
+_expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilder.md) object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -43,3 +44,4 @@ End If
 
 [FreeformBuilder Object](Excel.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

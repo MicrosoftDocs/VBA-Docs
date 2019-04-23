@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems.Selected Method (Publisher)
+title: WebListBoxItems.Selected method (Publisher)
 keywords: vbapb10.chm4128775
 f1_keywords:
 - vbapb10.chm4128775
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebListBoxItems.Selected
 ms.assetid: 2db3b8cb-2922-1cca-9613-67402772ee27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebListBoxItems.Selected Method (Publisher)
+# WebListBoxItems.Selected method (Publisher)
 
 Selects or cancels the selection of an item in a Web list box control.
 
 
 ## Syntax
 
- _expression_. **Selected**(**_Index_**,  **_SelectState_**)
+_expression_.**Selected**(**_Index_**,  **_SelectState_**)
 
  _expression_ A variable that represents a  **WebListBoxItems** object.
 
@@ -51,4 +52,4 @@ Sub SelectListBoxItem()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

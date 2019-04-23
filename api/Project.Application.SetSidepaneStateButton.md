@@ -1,21 +1,22 @@
 ---
-title: Application.SetSidepaneStateButton Method (Project)
+title: Application.SetSidepaneStateButton method (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.SetSidepaneStateButton
 ms.assetid: 21603c44-d9f3-96b6-ee42-df17eb58287a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetSidepaneStateButton Method (Project)
+# Application.SetSidepaneStateButton method (Project)
 
 Sets the state of the  **Toggle** button in the Project Guide. Deprecated in Project.
 
 
 ## Syntax
 
- _expression_. `SetSidepaneStateButton`( ` _DisplayState_` )
+_expression_. `SetSidepaneStateButton`( `_DisplayState_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -34,4 +35,4 @@ The Project Guide is disabled by default in Project. Although you can create and
 
 The state of the button should be depressed when the side pane is showing, normal when the side pane is hidden.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

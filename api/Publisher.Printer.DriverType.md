@@ -1,5 +1,5 @@
 ---
-title: Printer.DriverType Property (Publisher)
+title: Printer.DriverType property (Publisher)
 keywords: vbapb10.chm8978435
 f1_keywords:
 - vbapb10.chm8978435
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Printer.DriverType
 ms.assetid: 99c3b4e5-a55a-0f8d-3767-d035d9d6e4df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Printer.DriverType Property (Publisher)
+# Printer.DriverType property (Publisher)
 
 Specifies the type of driver supported by the printer. Read-only.
 
 
 ## Syntax
 
- _expression_. **DriverType**
+_expression_.**DriverType**
 
  _expression_ A variable that represents a  **Printer** object.
 
@@ -34,10 +35,11 @@ Possible values for the  **DriverType** property are declared in the **PbDriverT
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbDriverTypeNonPostScript**|1|Non PostScript|
 | **pbDriverTypePostScript1**|2|PostScript 1|
 | **pbDriverTypePostScript2**|3|PostScript 2|
 | **pbDriverTypePostScript3**|4|PostScript 3|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

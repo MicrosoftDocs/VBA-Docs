@@ -1,5 +1,5 @@
 ---
-title: UIObject.Clone Property (Visio)
+title: UIObject.Clone property (Visio)
 keywords: vis_sdr.chm14913245
 f1_keywords:
 - vis_sdr.chm14913245
@@ -8,17 +8,18 @@ api_name:
 - Visio.UIObject.Clone
 ms.assetid: 9fd3eb9b-8b01-9397-8f9f-58e3ce4a980e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UIObject.Clone Property (Visio)
+# UIObject.Clone property (Visio)
 
 Returns a copy of the  **UIObject** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Clone`
+_expression_. `Clone`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
@@ -87,4 +88,4 @@ Sub Clone_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

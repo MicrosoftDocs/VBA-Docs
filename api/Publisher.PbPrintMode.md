@@ -1,5 +1,5 @@
 ---
-title: PbPrintMode Enumeration (Publisher)
+title: PbPrintMode enumeration (Publisher)
 keywords: vbapb10.chm65581
 f1_keywords:
 - vbapb10.chm65581
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbPrintMode
 ms.assetid: d2c83c21-4d2e-c7a1-f774-1c3754f3f20d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbPrintMode Enumeration (Publisher)
+# PbPrintMode enumeration (Publisher)
 
 Represents whether the specified publication is printed as a composite or separations. 
 
@@ -24,3 +25,4 @@ Represents whether the specified publication is printed as a composite or separa
 | **pbPrintModeCompositeRGB**|1|Print a composite whose colors are defined by the RGB color model.|
 | **pbPrintModeSeparations**|2|Print a separate plate for each ink used in the publication.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

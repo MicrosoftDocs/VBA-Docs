@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.PropertyParentField
 ms.assetid: 98b4f7e5-0e41-19ea-b6bb-d938e2756f97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Returns a  **PivotField** object representing the field to which the properties 
 
 ## Syntax
 
- _expression_. `PropertyParentField`
+_expression_. `PropertyParentField`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
 Valid only for fields that are member property fields.
 
-If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False** , using the **PropertyParentField** property will return a run-time error.
+If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False**, using the **PropertyParentField** property will return a run-time error.
 
 
 ## Example
@@ -61,3 +62,4 @@ End Sub
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

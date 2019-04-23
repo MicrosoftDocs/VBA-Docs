@@ -1,5 +1,5 @@
 ---
-title: Shape.IsCustomPropertyLinked Method (Visio)
+title: Shape.IsCustomPropertyLinked method (Visio)
 keywords: vis_sdr.chm11260230
 f1_keywords:
 - vis_sdr.chm11260230
@@ -8,10 +8,11 @@ api_name:
 - Visio.Shape.IsCustomPropertyLinked
 ms.assetid: e75b910f-fb21-3e39-2ca3-ac0913adccf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.IsCustomPropertyLinked Method (Visio)
+# Shape.IsCustomPropertyLinked method (Visio)
 
 Returns whether the shape data (custom property) row in the Shape Data section of the shape's ShapeSheet spreadsheet is linked to a data row in the specified data recordset.
 
@@ -21,7 +22,7 @@ Returns whether the shape data (custom property) row in the Shape Data section o
 
 ## Syntax
 
- _expression_. `IsCustomPropertyLinked`( `_DataRecordsetID_` , `_CustomPropertyIndex_` )
+_expression_. `IsCustomPropertyLinked`( `_DataRecordsetID_` , `_CustomPropertyIndex_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
@@ -84,4 +85,4 @@ Public Sub IsCustomPropertyLinked_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

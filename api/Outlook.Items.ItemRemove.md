@@ -1,5 +1,5 @@
 ---
-title: Items.ItemRemove Event (Outlook)
+title: Items.ItemRemove event (Outlook)
 keywords: vbaol11.chm316
 f1_keywords:
 - vbaol11.chm316
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Items.ItemRemove
 ms.assetid: c1b2d9cd-ab32-2c4a-85fa-9412c190ac4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Items.ItemRemove Event (Outlook)
+# Items.ItemRemove event (Outlook)
 
 Occurs when an item is deleted from the specified collection.
 
 
 ## Syntax
 
- _expression_. `ItemRemove`
+_expression_. `ItemRemove`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Remarks
@@ -73,3 +74,4 @@ End Sub
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

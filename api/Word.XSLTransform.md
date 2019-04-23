@@ -1,5 +1,5 @@
 ---
-title: XSLTransform Object (Word)
+title: XSLTransform object (Word)
 keywords: vbawd10.chm1171
 f1_keywords:
 - vbawd10.chm1171
@@ -8,10 +8,11 @@ api_name:
 - Word.XSLTransform
 ms.assetid: cccf0383-8b21-0f46-b5b6-9a092599fd76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XSLTransform Object (Word)
+# XSLTransform object (Word)
 
 Represents a single registered Extensible Stylesheet Language Transformation (XSLT).
 
@@ -61,6 +62,6 @@ End Sub
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

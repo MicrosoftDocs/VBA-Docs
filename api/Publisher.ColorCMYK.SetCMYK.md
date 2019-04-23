@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.SetCMYK Method (Publisher)
+title: ColorCMYK.SetCMYK method (Publisher)
 keywords: vbapb10.chm2621447
 f1_keywords:
 - vbapb10.chm2621447
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorCMYK.SetCMYK
 ms.assetid: 9c7ec18b-73e9-66bc-57f4-cd6d62817630
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorCMYK.SetCMYK Method (Publisher)
+# ColorCMYK.SetCMYK method (Publisher)
 
 Sets a cyan-magenta-yellow-black (CMYK) color value.
 
 
 ## Syntax
 
- _expression_. **SetCMYK**(**_Cyan_**,  **_Magenta_**,  **_Yellow_**,  **_Black_**)
+_expression_.**SetCMYK**(**_Cyan_**,  **_Magenta_**,  **_Yellow_**,  **_Black_**)
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 
@@ -51,4 +52,4 @@ Sub SetCMYKColor()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

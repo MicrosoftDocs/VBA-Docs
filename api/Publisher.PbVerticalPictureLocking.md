@@ -1,5 +1,5 @@
 ---
-title: PbVerticalPictureLocking Enumeration (Publisher)
+title: PbVerticalPictureLocking enumeration (Publisher)
 keywords: vbapb10.chm65569
 f1_keywords:
 - vbapb10.chm65569
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PbVerticalPictureLocking
 ms.assetid: fdfef20e-6e61-ce7d-373d-aaee37b24577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PbVerticalPictureLocking Enumeration (Publisher)
+# PbVerticalPictureLocking enumeration (Publisher)
 
 Indicates where newly inserted pictures appear in relation to the specified frame.
 
@@ -24,3 +25,4 @@ Indicates where newly inserted pictures appear in relation to the specified fram
 | **pbVerticalLockingStretch**|3|New pictures are vertically stretched to the full height of the frame.|
 | **pbVerticalLockingTop**|1|New pictures are inserted along the top edge of the frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

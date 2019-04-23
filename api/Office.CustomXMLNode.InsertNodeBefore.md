@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.InsertNodeBefore Method (Office)
+title: CustomXMLNode.InsertNodeBefore method (Office)
 keywords: vbaof11.chm294023
 f1_keywords:
 - vbaof11.chm294023
@@ -7,37 +7,36 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.InsertNodeBefore
 ms.assetid: b2805906-16b7-aebd-ccde-ded736a1b69b
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLNode.InsertNodeBefore Method (Office)
+# CustomXMLNode.InsertNodeBefore method (Office)
 
 Inserts a new node just before the context node in the tree.
 
 
 ## Syntax
 
- _expression_. `InsertNodeBefore`( `_Name_`, `_NamespaceURI_`, `_NodeType_`, `_NodeValue_`, `_NextSibling_` )
+_expression_.**InsertNodeBefore**(_Name_, _NamespaceURI_, _NodeType_, _NodeValue_, _NextSibling_)
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Represents the base name of the node to be added.|
-| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type  **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
-| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of the node to be added. If the parameter is not specified, it is assumed to be a node of type  **msoCustomXMLNodeElement**.|
+| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**; otherwise, it is ignored.|
+| _NodeType_|Optional|**[MsoCustomXMLNodeType](office.msocustomxmlnodetype.md)**|Specifies the type of the node to be added. If the parameter is not specified, it is assumed to be a node of type **msoCustomXMLNodeElement**.|
 | _NodeValue_|Optional|**String**|Used to set the value of the node to be added for those nodes that allow text. If the node doesn't allow text, the parameter is ignored.|
 | _NextSibling_|Optional|**CustomXMLNode**|Represents the context node.|
 
 ## Remarks
 
-If the context node is not present when adding a node of type  **msoCustomXMLNodeElement**, **msoCustomXMLNodeComment**, or **msoCustomXMLNodeProcessingInstruction**, the new node is added to the last child of the context node. If the operation would result in an invalid tree structure, the insertion is not performed and an error message is displayed.
+If the context node is not present when adding a node of type **msoCustomXMLNodeElement**, **msoCustomXMLNodeComment**, or **msoCustomXMLNodeProcessingInstruction**, the new node is added to the last child of the context node. If the operation would result in an invalid tree structure, the insertion is not performed and an error message is displayed.
 
 
 ## Example
@@ -70,10 +69,6 @@ With ActiveDocument
 
 ## See also
 
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)
 
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

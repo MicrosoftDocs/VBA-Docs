@@ -1,32 +1,33 @@
 ---
-title: Chart.Select Method (Project)
+title: Chart.Select method (Project)
 keywords: vbapj.chm131638
 f1_keywords:
 - vbapj.chm131638
 ms.prod: project-server
 ms.assetid: dd4e1adf-3098-61a3-5913-8debc7d01351
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.Select Method (Project)
+# Chart.Select method (Project)
 Selects one or more charts in a report.
 
 ## Syntax
 
- _expression_. `Select` _(Replace)_
+_expression_.**Select** _(Replace)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional|**Variant**|**True** to replace the current selection with the specified chart. **False** to extend the current selection to include any previously selected charts.|
-| _Replace_|Optional|VARIANT||
+| _Replace_|Optional|**Variant**||
 
 ## Return value
 
@@ -58,3 +59,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

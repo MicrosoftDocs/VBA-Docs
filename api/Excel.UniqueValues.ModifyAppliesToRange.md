@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.ModifyAppliesToRange Method (Excel)
+title: UniqueValues.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm826085
 f1_keywords:
 - vbaxl10.chm826085
@@ -8,19 +8,20 @@ api_name:
 - Excel.UniqueValues.ModifyAppliesToRange
 ms.assetid: cde80c4b-747a-9bc8-d09f-748d57999bac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UniqueValues.ModifyAppliesToRange Method (Excel)
+# UniqueValues.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 
 
 ## Syntax
 
- _expression_. `ModifyAppliesToRange`( `_Range_` )
+_expression_.**ModifyAppliesToRange** (_Range_)
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## Parameters
@@ -43,3 +44,4 @@ You can also use a local defined name in any part of the range, but the name mus
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

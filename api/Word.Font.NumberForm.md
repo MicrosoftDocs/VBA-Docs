@@ -1,5 +1,5 @@
 ---
-title: Font.NumberForm Property (Word)
+title: Font.NumberForm property (Word)
 keywords: vbawd10.chm156369071
 f1_keywords:
 - vbawd10.chm156369071
@@ -8,17 +8,18 @@ api_name:
 - Word.Font.NumberForm
 ms.assetid: 730ce7a1-a0f4-3ed8-d7a0-5b4039f56817
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.NumberForm Property (Word)
+# Font.NumberForm property (Word)
 
 Returns or sets the number form setting for an OpenType font. Read/write [WdNumberForm](Word.WdNumberForm.md).
 
 
 ## Syntax
 
- _expression_. `NumberForm`
+_expression_. `NumberForm`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 
@@ -45,3 +46,4 @@ ActiveDocument.Range.Font.NumberForm = wdNumberFormOldStyle
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

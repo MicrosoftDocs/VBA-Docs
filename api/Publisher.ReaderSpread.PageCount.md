@@ -1,5 +1,5 @@
 ---
-title: ReaderSpread.PageCount Property (Publisher)
+title: ReaderSpread.PageCount property (Publisher)
 keywords: vbapb10.chm524294
 f1_keywords:
 - vbapb10.chm524294
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ReaderSpread.PageCount
 ms.assetid: 39d26cd7-f4b8-bbf3-a2a8-32a4c9362e30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReaderSpread.PageCount Property (Publisher)
+# ReaderSpread.PageCount property (Publisher)
 
 Returns a  **Long** indicating the number of pages in the specified reader spread. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageCount**
+_expression_.**PageCount**
 
  _expression_ A variable that represents a  **ReaderSpread** object.
 
@@ -48,4 +49,4 @@ Sub NumberOfPagesInSpread()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

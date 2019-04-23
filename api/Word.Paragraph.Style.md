@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Style Property (Word)
+title: Paragraph.Style property (Word)
 keywords: vbawd10.chm156696676
 f1_keywords:
 - vbawd10.chm156696676
@@ -8,19 +8,20 @@ api_name:
 - Word.Paragraph.Style
 ms.assetid: a6ac7009-4018-b873-8db5-6c86afd11a22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraph.Style Property (Word)
+# Paragraph.Style property (Word)
 
-Returns or sets the style for the specified object. Read/write  **Variant** .
+Returns or sets the style for the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
+_expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ Next i
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

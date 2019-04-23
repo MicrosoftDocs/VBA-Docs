@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 08d6eb49-c564-4d4e-a20d-a525ea81b264
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ShowValueFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/c56b12ac-71ef-a6b5-c66f-3cbe1c62a4c8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

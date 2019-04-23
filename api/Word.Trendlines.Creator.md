@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Creator Property (Word)
+title: Trendlines.Creator property (Word)
 keywords: vbawd10.chm102367381
 f1_keywords:
 - vbawd10.chm102367381
@@ -8,17 +8,18 @@ api_name:
 - Word.Trendlines.Creator
 ms.assetid: 25672f0a-eb06-ed62-ed57-8c96aca8a1a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendlines.Creator Property (Word)
+# Trendlines.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Trendlines Object](Word.Trendlines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

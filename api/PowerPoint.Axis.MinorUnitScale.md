@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnitScale Property (PowerPoint)
+title: Axis.MinorUnitScale property (PowerPoint)
 keywords: vbapp10.chm682036
 f1_keywords:
 - vbapp10.chm682036
@@ -8,24 +8,25 @@ api_name:
 - PowerPoint.Axis.MinorUnitScale
 ms.assetid: 15ce78c6-b054-afea-bd6c-6a40db7f93aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.MinorUnitScale Property (PowerPoint)
+# Axis.MinorUnitScale property (PowerPoint)
 
 Returns or sets the minor unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax
 
- _expression_. `MinorUnitScale`
+_expression_. `MinorUnitScale`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks
 
- **MinorUnitScale** can be one of the following **XlTimeUnit** constants:
+ **MinorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
 -  **xlMonths**
@@ -77,3 +78,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ExtraColors.Parent Property (PowerPoint)
+title: ExtraColors.Parent property (PowerPoint)
 keywords: vbapp10.chm529002
 f1_keywords:
 - vbapp10.chm529002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ExtraColors.Parent
 ms.assetid: 8b9bb359-331a-8aed-9597-9fb2e71df24e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ExtraColors.Parent Property (PowerPoint)
+# ExtraColors.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [ExtraColors Object](PowerPoint.ExtraColors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

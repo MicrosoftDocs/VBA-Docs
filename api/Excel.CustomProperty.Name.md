@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomProperty.Name
 ms.assetid: 1a090b32-eed9-6082-bb47-d309abf39fd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value representing the name of the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_.**Name**
 
- _expression_ A variable that represents a [CustomProperty](Excel.CustomProperty.md) object.
+_expression_ A variable that represents a **[CustomProperty](Excel.CustomProperty.md)** object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **String** value representing the name of the object.
 
 [CustomProperty Object](Excel.CustomProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

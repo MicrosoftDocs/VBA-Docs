@@ -9,6 +9,7 @@ api_name:
 - Access.AllowSpecialKeys
 ms.assetid: 5628e6b6-f253-a435-5bce-58b6727382cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,7 +24,7 @@ You can use the **AllowSpecialKeys** property to specify whether or not special 
 
 The **AllowSpecialKeys** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True** (-1)|Enable the special key sequences.|
 |**False** (0)|Disable the special key sequences.|
@@ -63,3 +64,5 @@ This property's setting doesn't take effect until the next time the application 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Slides.Range Method (PowerPoint)
+title: Slides.Range method (PowerPoint)
 keywords: vbapp10.chm530007
 f1_keywords:
 - vbapp10.chm530007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Slides.Range
 ms.assetid: f3950ce5-7873-86e8-5625-7ad2a0cb77dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Slides.Range Method (PowerPoint)
+# Slides.Range method (PowerPoint)
 
 Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the slides in a **[Slides](PowerPoint.Slides.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
@@ -118,3 +119,4 @@ rngTitleSlides.ColorScheme.Colors(ppTitle).RGB = RGB(255, 123, 99)
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

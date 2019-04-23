@@ -8,6 +8,7 @@ api_name:
 - Excel.RecentFile.Index
 ms.assetid: f06aa815-451f-9cfe-e380-27aaefdaab1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the index number of the object within 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the index number of the object within 
 
 [RecentFile Object](Excel.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

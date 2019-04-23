@@ -8,19 +8,20 @@ api_name:
 - Excel.Worksheet.ConsolidationOptions
 ms.assetid: 8c09aa4d-86fc-701f-3b89-f8e2be38b948
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Worksheet.ConsolidationOptions property (Excel)
 
-Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True** , that option is set. Read-only **Variant** .
+Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True**, that option is set. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `ConsolidationOptions`
+_expression_. `ConsolidationOptions`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Remarks
@@ -62,3 +63,4 @@ newSheet.Columns("A:B").AutoFit
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

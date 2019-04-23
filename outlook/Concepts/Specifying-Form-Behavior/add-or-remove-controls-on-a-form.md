@@ -3,6 +3,7 @@ title: Add or Remove Controls on a Form
 ms.prod: outlook
 ms.assetid: 179357f3-3e98-ad24-e916-63cf757f8c5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,5 +25,5 @@ You can add or remove controls on a form. In the Forms Designer, do one of the f
 
 
 1. Right-click the control, and then click  **Delete**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

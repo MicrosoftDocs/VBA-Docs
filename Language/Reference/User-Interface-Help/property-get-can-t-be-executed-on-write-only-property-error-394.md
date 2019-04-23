@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 36ff8f54-8157-5dcc-4e5e-ecd6b9970225
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Not all [properties](../../Glossary/vbe-glossary.md#property) return information
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

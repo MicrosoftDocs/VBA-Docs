@@ -1,5 +1,5 @@
 ---
-title: Cell.Dependents Property (Visio)
+title: Cell.Dependents property (Visio)
 keywords: vis_sdr.chm10151825
 f1_keywords:
 - vis_sdr.chm10151825
@@ -8,17 +8,18 @@ api_name:
 - Visio.Cell.Dependents
 ms.assetid: 99a1502b-c847-6836-2470-178b595345f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Dependents Property (Visio)
+# Cell.Dependents property (Visio)
 
 Returns an array of ShapeSheet cells that are dependent on a particular cell of a Microsoft Visio shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `Dependents`
+_expression_. `Dependents`
 
  _expression_ An expression that returns a [Cell](./Visio.Cell.md) object.
 
@@ -63,4 +64,4 @@ Public Sub Dependents_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

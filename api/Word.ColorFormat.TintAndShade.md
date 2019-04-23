@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.TintAndShade Property (Word)
+title: ColorFormat.TintAndShade property (Word)
 keywords: vbawd10.chm163971175
 f1_keywords:
 - vbawd10.chm163971175
@@ -8,17 +8,18 @@ api_name:
 - Word.ColorFormat.TintAndShade
 ms.assetid: e0b54e37-475c-0e6b-f530-aa69b8fe51b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.TintAndShade Property (Word)
+# ColorFormat.TintAndShade property (Word)
 
 Returns a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 
 
 ## Syntax
 
- _expression_. `TintAndShade`
+_expression_.**TintAndShade**
 
  _expression_ An expression that returns a '[ColorFormat](Word.ColorFormat.md)' object.
 
@@ -52,3 +53,4 @@ End Sub
 
 [ColorFormat Object](Word.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

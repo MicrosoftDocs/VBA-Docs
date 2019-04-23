@@ -1,33 +1,27 @@
 ---
-title: ListBox Control, ColumnCount, ColumnWidths Properties Example
+title: ListBox control, ColumnCount, ColumnWidths properties example
 keywords: fm20.chm5225185
 f1_keywords:
 - fm20.chm5225185
 ms.prod: office
 ms.assetid: f2f6e0f7-504d-1565-4dcb-d8bd2ff129c7
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# ListBox Control, ColumnCount, ColumnWidths Properties Example
+# ListBox control, ColumnCount, ColumnWidths properties example
 
-The following example uses the  **ColumnWidths** property to change the column widths of a multicolumn **ListBox**. The example uses three **TextBox** controls to specify the individual column widths and uses the **Exit** event to specify the units of measure of each **TextBox**.
+The following example uses the **[ColumnWidths](columnwidths-property.md)** property to change the column widths of a multicolumn **[ListBox](listbox-control.md)**. The example uses three **[TextBox](textbox-control.md)** controls to specify the individual column widths and uses the **[Exit](enter-exit-events.md)** event to specify the units of measure of each **TextBox**. See also the **[ColumnCount](columncount-property.md)** property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **ListBox** named ListBox1.
-    
-- Three  **TextBox** controls named TextBox1 through TextBox3.
-    
-- A  **CommandButton** named CommandButton1.
+- A **ListBox** named ListBox1.   
+- Three **TextBox** controls named TextBox1 through TextBox3.   
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 
 Try entering the value 0 to hide a column.
-
-
 
 ```vb
 Dim MyArray(2, 3) As String 
@@ -40,8 +34,7 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub TextBox1_Exit(ByVal Cancel As _ 
@@ -55,8 +48,7 @@ Private Sub TextBox1_Exit(ByVal Cancel As _
 End Sub
 ```
 
-
-
+<br/>
 
 ```vb
 Private Sub TextBox2_Exit(ByVal Cancel As _ 
@@ -70,7 +62,7 @@ Private Sub TextBox2_Exit(ByVal Cancel As _
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -84,7 +76,7 @@ Private Sub TextBox3_Exit(ByVal Cancel as MSForms.ReturnBoolean)
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb
@@ -108,4 +100,4 @@ TextBox3.Text = "1 in"
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

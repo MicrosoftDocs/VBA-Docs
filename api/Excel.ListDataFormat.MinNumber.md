@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.MinNumber
 ms.assetid: 97d5cc98-ab65-7355-0a54-3b48d7b15cf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.MinNumber property (Excel)
 
- Returns a **Variant** containing the minimum value allowed in this field in the list column. This can be a negative floating point number. Read-only **Variant** .
+ Returns a **Variant** containing the minimum value allowed in this field in the list column. This can be a negative floating point number. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `MinNumber`
+_expression_. `MinNumber`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ The following example displays the setting of the  **MinNumber** property for th
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

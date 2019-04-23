@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnected Property (PowerPoint)
+title: ConnectorFormat.BeginConnected property (PowerPoint)
 keywords: vbapp10.chm555006
 f1_keywords:
 - vbapp10.chm555006
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.ConnectorFormat.BeginConnected
 ms.assetid: c7c2c448-590c-b1b6-8dc5-9fcb44974fee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConnectorFormat.BeginConnected Property (PowerPoint)
+# ConnectorFormat.BeginConnected property (PowerPoint)
 
 Determines whether the beginning of the specified connector is connected to a shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `BeginConnected`
+_expression_. `BeginConnected`
 
- _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
 ## Return value
@@ -34,7 +35,7 @@ The value of the  **BeginConnected** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The beginning of the specified connector is not connected to a shape.|
 |**msoTrue**| The beginning of the specified connector is connected to a shape.|
@@ -76,3 +77,4 @@ End With
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

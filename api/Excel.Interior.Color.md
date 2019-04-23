@@ -8,17 +8,18 @@ api_name:
 - Excel.Interior.Color
 ms.assetid: eb19fc67-51b8-d6f0-d6e3-a02e3a90b4e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Interior.Color property (Excel)
 
-Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the **RGB** function to create a color value. Read/write **Variant** .
+Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the **RGB** function to create a color value. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
  _expression_ An expression that returns an [Interior](Excel.Interior-graph-property.md) object.
 
@@ -53,3 +54,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 [Interior Object](Excel.Interior(object).md)
 
 [RGB Function](../Language/Reference/User-Interface-Help/rgb-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

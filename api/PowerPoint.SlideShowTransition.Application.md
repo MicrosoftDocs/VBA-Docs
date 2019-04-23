@@ -1,5 +1,5 @@
 ---
-title: SlideShowTransition.Application Property (PowerPoint)
+title: SlideShowTransition.Application property (PowerPoint)
 keywords: vbapp10.chm539001
 f1_keywords:
 - vbapp10.chm539001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowTransition.Application
 ms.assetid: caf42275-9315-548a-07d9-23333ddbaaa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowTransition.Application Property (PowerPoint)
+# SlideShowTransition.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

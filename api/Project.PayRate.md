@@ -1,14 +1,15 @@
 ---
-title: PayRate Object (Project)
+title: PayRate object (Project)
 ms.prod: project-server
 api_name:
 - Project.PayRate
 ms.assetid: 4c8ba1f3-bf18-2179-5f50-c090c63e46b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PayRate Object (Project)
+# PayRate object (Project)
 
 
  
@@ -61,7 +62,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.PayRate.Delete.md)|
 
@@ -69,7 +70,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.PayRate.Application.md)|
 |[CostPerUse](Project.PayRate.CostPerUse.md)|
@@ -79,3 +80,4 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 |[Parent](Project.PayRate.Parent.md)|
 |[StandardRate](Project.PayRate.StandardRate.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

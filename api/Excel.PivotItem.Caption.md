@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.Caption
 ms.assetid: 5b7f3136-971e-6e11-f709-7fffbc86975a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the label text for the pivot item.
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -57,3 +58,4 @@ When using the  **Item** property to reference a specific member of a collection
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

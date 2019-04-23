@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateLinksAtPrint Property (Word)
+title: Options.UpdateLinksAtPrint property (Word)
 keywords: vbawd10.chm162988068
 f1_keywords:
 - vbawd10.chm162988068
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.UpdateLinksAtPrint
 ms.assetid: 45617b04-67ef-00f9-0161-9757fb12d1fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.UpdateLinksAtPrint Property (Word)
+# Options.UpdateLinksAtPrint property (Word)
 
- **True** if Microsoft Word updates embedded links to other files before printing a document. Read/write **Boolean** .
+ **True** if Microsoft Word updates embedded links to other files before printing a document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UpdateLinksAtPrint`
+_expression_. `UpdateLinksAtPrint`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -48,3 +49,4 @@ temp = Options.UpdateLinksAtPrint
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

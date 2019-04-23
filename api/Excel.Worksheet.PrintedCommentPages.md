@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.PrintedCommentPages
 ms.assetid: 3ade9c86-c6b9-08fa-3bc6-a040dd1da36a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the number of comment pages that will be printed for the current workshe
 
 ## Syntax
 
- _expression_. `PrintedCommentPages`
+_expression_.**PrintedCommentPages**
 
- _expression_ A variable that returns a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that returns a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **PrintedCommentPages** property will only return a number greater than zer
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fcf3762f-3f3f-6182-a7c9-4f055991d2c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -36,3 +37,4 @@ A static [array](../../Glossary/vbe-glossary.md#array) can only be dimensioned o
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

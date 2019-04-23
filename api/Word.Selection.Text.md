@@ -1,5 +1,5 @@
 ---
-title: Selection.Text Property (Word)
+title: Selection.Text property (Word)
 keywords: vbawd10.chm158662656
 f1_keywords:
 - vbawd10.chm158662656
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.Text
 ms.assetid: 2acf885b-8d4a-7ebc-79aa-902921bc33bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Text Property (Word)
+# Selection.Text property (Word)
 
-Returns or sets the text in the specified selection. Read/write  **String** .
+Returns or sets the text in the specified selection. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Text`
+_expression_.**Text**
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ Next i
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

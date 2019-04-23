@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 81d54db0-0bfe-3e21-b3ea-643980c8f48b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Control the Selection Behavior and Drag Behavior When Entering a Text Box
+# Control the Selection Behavior and Drag Behavior When Entering a Text Box
 
 The following example uses the  **[DragBehavior](../../../api/Outlook.textbox.dragbehavior.md)** and **[EnterFieldBehavior](../../../api/Outlook.OlkTextBox.EnterFieldBehavior.md)** properties to demonstrate the different effects that you can provide when entering a control and when dragging information from one control to another.
 
@@ -105,4 +106,4 @@ Sub ToggleButton4_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

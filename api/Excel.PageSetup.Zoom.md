@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.Zoom
 ms.assetid: 3deebce5-8605-c549-371c-033848073ffe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,16 +19,16 @@ Returns or sets a  **Variant** value that represents a percentage (between 10 an
 
 ## Syntax
 
- _expression_. `Zoom`
+_expression_. `Zoom`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
 
 This property applies only to worksheets.
 
-If this property is  **False** , the **[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)** and **[FitToPagesTall](Excel.PageSetup.FitToPagesTall.md)** properties control how the worksheet is scaled.
+If this property is  **False**, the **[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)** and **[FitToPagesTall](Excel.PageSetup.FitToPagesTall.md)** properties control how the worksheet is scaled.
 
 All scaling retains the aspect ratio of the original document.
 
@@ -47,3 +48,4 @@ Worksheets("Sheet1").PageSetup.Zoom = 150
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

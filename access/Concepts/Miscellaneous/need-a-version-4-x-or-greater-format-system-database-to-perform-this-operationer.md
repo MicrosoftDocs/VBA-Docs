@@ -3,6 +3,7 @@ title: Need a version 4.x or greater format system database to perform this oper
 ms.prod: access
 ms.assetid: 2b0d526b-16bb-2619-aabc-930d8e555930
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -12,7 +13,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-When using the Microsoft OLE DB Provider for Jet with security, it is necssary that the security database be in a Jet version 4.x file format. This can be done by compacting the existing security database or by creating a new one through the Microsoft OLE DB Provider for Jet.
+When using the Microsoft OLE DB Provider for Jet with security, it is necessary that the security database be in a Jet version 4.x file format. This can be done by compacting the existing security database or by creating a new one through the Microsoft OLE DB Provider for Jet.
 
 ## See also
 
@@ -22,3 +23,5 @@ When using the Microsoft OLE DB Provider for Jet with security, it is necssary t
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

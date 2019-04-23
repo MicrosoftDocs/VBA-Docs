@@ -8,19 +8,20 @@ api_name:
 - Excel.VPageBreaks.Creator
 ms.assetid: d8ff8785-8cf5-de2f-0425-8a605a72e6da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # VPageBreaks.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) object.
+_expression_ A variable that represents a [VPageBreaks](Excel.VPageBreaks.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

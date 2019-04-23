@@ -3,6 +3,7 @@ title: VisSaveAsWeb Object (Visio Save As Web)
 ms.prod: visio
 ms.assetid: 48e19e11-9b41-42ec-84e9-c4aab7f08784
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,7 +20,7 @@ The **VisSaveAsWeb** object contains the methods and property settings that are 
     
 - The supporting files associated with the project, for example, the graphics files (GIFs and JPGs), script files, data (XML) files, and cascading style sheet (CSS) files.
     
-To set the properties for your web page, use the **[WebPageSettings](Visio.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a **[VisWebPageSettings](./overview/Visio.md)** object. After the properties are set, perform the following steps.
+To set the properties for your web page, use the **[WebPageSettings](Visio.WebPageSettings.md)** property of the **VisSaveAsWeb** object to get a **[VisWebPageSettings](visio.viswebpagesettings.object.visio.save.md)** object. After the properties are set, perform the following steps.
 
 
 1. Call the **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method to specify the drawing to be saved as a web page. For example:
@@ -49,4 +50,4 @@ They can be organized as flat files or in a subfolder that has the same name as 
 > [!NOTE] 
 > To view the **VisSaveAsWeb** class in the Object Browser, make sure that you have a reference to the Save As Web Page DLL in your project (in the Visual Basic Editor window, click **References**, on the **Tools** menu, and then select the **Microsoft Visio 15.0 SaveAsWeb Type Library** check box in the **Available References** list).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

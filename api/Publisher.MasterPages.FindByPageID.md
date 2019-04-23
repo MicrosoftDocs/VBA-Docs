@@ -1,5 +1,5 @@
 ---
-title: MasterPages.FindByPageID Method (Publisher)
+title: MasterPages.FindByPageID method (Publisher)
 keywords: vbapb10.chm589830
 f1_keywords:
 - vbapb10.chm589830
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MasterPages.FindByPageID
 ms.assetid: 2d05a2ae-853d-bc4c-bff8-0f3489627052
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterPages.FindByPageID Method (Publisher)
+# MasterPages.FindByPageID method (Publisher)
 
 Returns a  **[Page](Publisher.Page.md)** object that represents the page with the specified page ID number. Each page is automatically assigned a unique ID number when it is created. Use the **[PageID](Publisher.Page.PageID.md)** property to return a page's ID number.
 
 
 ## Syntax
 
- _expression_. **FindByPageID**(**_PageID_**)
+_expression_.**FindByPageID**(**_PageID_**)
 
  _expression_ A variable that represents a  **MasterPages** object.
 
@@ -61,4 +62,4 @@ Sub FindPage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

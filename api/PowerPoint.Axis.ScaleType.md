@@ -1,5 +1,5 @@
 ---
-title: Axis.ScaleType Property (PowerPoint)
+title: Axis.ScaleType property (PowerPoint)
 keywords: vbapp10.chm682026
 f1_keywords:
 - vbapp10.chm682026
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Axis.ScaleType
 ms.assetid: baf40097-28a4-c2ec-fea9-2ce971f72ed5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axis.ScaleType Property (PowerPoint)
+# Axis.ScaleType property (PowerPoint)
 
 Returns or sets the value axis scale type. Read/write  **[XlScaleType](PowerPoint.XlScaleType.md)**.
 
 
 ## Syntax
 
- _expression_. `ScaleType`
+_expression_. `ScaleType`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Example
@@ -55,3 +56,4 @@ End With
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

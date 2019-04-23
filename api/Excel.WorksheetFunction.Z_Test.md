@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Z_Test Method (Excel)
+title: WorksheetFunction.Z_Test method (Excel)
 keywords: vbaxl10.chm137413
 f1_keywords:
 - vbaxl10.chm137413
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Z_Test
 ms.assetid: 86c2af95-965f-f249-7775-65ff5c41785d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Z_Test Method (Excel)
+# WorksheetFunction.Z_Test method (Excel)
 
 Returns the one-tailed probability-value of a z-test. For a given hypothesized population mean, Z_TEST returns the probability that the sample mean would be greater than the average of observations in the data set (array) ? that is, the observed sample mean.
 
 
 ## Syntax
 
- _expression_. `Z_Test`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Z_Test`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

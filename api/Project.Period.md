@@ -1,14 +1,15 @@
 ---
-title: Period Object (Project)
+title: Period object (Project)
 ms.prod: project-server
 api_name:
 - Project.Period
 ms.assetid: 84358c72-024f-e608-9424-8e9c6bad7259
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Period Object (Project)
+# Period object (Project)
 
 
  
@@ -24,7 +25,7 @@ Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Period.Default.md)|
 
@@ -32,7 +33,7 @@ Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Period.Application.md)|
 |[Calendar](Project.Period.Calendar.md)|
@@ -45,3 +46,4 @@ Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** 
 |[Shift5](Project.Period.Shift5.md)|
 |[Working](Project.Period.Working.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

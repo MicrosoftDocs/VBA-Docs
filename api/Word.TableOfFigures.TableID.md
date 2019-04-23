@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.TableID Property (Word)
+title: TableOfFigures.TableID property (Word)
 keywords: vbawd10.chm153157642
 f1_keywords:
 - vbawd10.chm153157642
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfFigures.TableID
 ms.assetid: b7154038-2af5-2542-e1d8-c4002ec96cdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfFigures.TableID Property (Word)
+# TableOfFigures.TableID property (Word)
 
-Returns or sets a one-letter identifier that is used to build a table of figures from TOC fields. Read/write  **String** .
+Returns or sets a one-letter identifier that is used to build a table of figures from TOC fields. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `TableID`
+_expression_. `TableID`
 
- _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Remarks
@@ -50,3 +51,4 @@ End With
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.End Property (Word)
+title: Selection.End property (Word)
 keywords: vbawd10.chm158662660
 f1_keywords:
 - vbawd10.chm158662660
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.End
 ms.assetid: 99e3bd79-a8f1-8057-1ac2-b9e76eab99ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.End Property (Word)
+# Selection.End property (Word)
 
-Returns or sets the ending character position of a selection. Read/write  **Long** .
+Returns or sets the ending character position of a selection. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
- _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ ActiveDocument.Fields.Add Range:=myRange, Type:=wdFieldAuthor
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

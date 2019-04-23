@@ -1,23 +1,24 @@
 ---
-title: DataLabels.ShowPercentage Property (PowerPoint)
+title: DataLabels.ShowPercentage property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowPercentage
 ms.assetid: c125433f-7166-871e-f433-9320b1613a70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataLabels.ShowPercentage Property (PowerPoint)
+# DataLabels.ShowPercentage property (PowerPoint)
 
  **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowPercentage`
+_expression_. `ShowPercentage`
 
- _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
+_expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End With
 
 [DataLabels Object](PowerPoint.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

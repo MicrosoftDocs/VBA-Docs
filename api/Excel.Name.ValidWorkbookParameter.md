@@ -8,19 +8,20 @@ api_name:
 - Excel.Name.ValidWorkbookParameter
 ms.assetid: fd8bef70-af4f-af01-1956-24b50ea210be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Name.ValidWorkbookParameter property (Excel)
 
-Returns  **True** if the specified **Name** object is a valid workbook parameter. Read-only **Boolean** .
+Returns  **True** if the specified **Name** object is a valid workbook parameter. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ValidWorkbookParameter`
+_expression_. `ValidWorkbookParameter`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns  **True** if the specified **Name** object is a valid workbook parameter
 
 [Name Object](Excel.Name.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

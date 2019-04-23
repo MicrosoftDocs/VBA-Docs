@@ -1,5 +1,5 @@
 ---
-title: Explorer.BeforeItemPaste Event (Outlook)
+title: Explorer.BeforeItemPaste event (Outlook)
 keywords: vbaol11.chm463
 f1_keywords:
 - vbaol11.chm463
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.BeforeItemPaste
 ms.assetid: a6d43429-5309-4b07-7b0b-68cddd2d7e59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.BeforeItemPaste Event (Outlook)
+# Explorer.BeforeItemPaste event (Outlook)
 
 Occurs when an Outlook item is pasted.
 
 
 ## Syntax
 
- _expression_. `BeforeItemPaste`( `_ClipboardContent_` , `_Target_` , `_Cancel_` )
+_expression_. `BeforeItemPaste`( `_ClipboardContent_` , `_Target_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](Outlook.Explorer.md) object.
 
 
 ## Parameters
@@ -31,7 +32,7 @@ Occurs when an Outlook item is pasted.
 |:-----|:-----|:-----|:-----|
 | _ClipboardContent_|Required| **Variant**|The content to be pasted.|
 | _Target_|Required| **Folder**|The destination of the paste.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the item is not deleted.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the item is not deleted.|
 
 ## Remarks
 
@@ -48,7 +49,7 @@ Public WithEvents myOlExp As Outlook.Explorer
  
  
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
  
  Set myOlExp = Application.ActiveExplorer 
  
@@ -81,3 +82,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

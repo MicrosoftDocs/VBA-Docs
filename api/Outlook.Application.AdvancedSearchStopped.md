@@ -1,5 +1,5 @@
 ---
-title: Application.AdvancedSearchStopped Event (Outlook)
+title: Application.AdvancedSearchStopped event (Outlook)
 keywords: vbaol11.chm436
 f1_keywords:
 - vbaol11.chm436
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.AdvancedSearchStopped
 ms.assetid: a1a4ec9f-c0e3-6acd-b63c-89194ed70efd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AdvancedSearchStopped Event (Outlook)
+# Application.AdvancedSearchStopped event (Outlook)
 
 Occurs when a specified  **[Search](Outlook.Search.md)** object's **[Stop](Outlook.Search.Stop.md)** method has been executed.
 
 
 ## Syntax
 
- _expression_. `AdvancedSearchStopped`( `_SearchObject_` )
+_expression_. `AdvancedSearchStopped`( `_SearchObject_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](Outlook.Application.md) object.
 
 
 ## Parameters
@@ -77,3 +78,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

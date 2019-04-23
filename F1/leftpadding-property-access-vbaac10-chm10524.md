@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 4fc8fd97-bb1a-435a-836c-a531fb21db78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.LeftPadding property (Access)](http://msdn.microsoft.com/library/a94afdff-4615-529e-04de-fcf3d9e63d2d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

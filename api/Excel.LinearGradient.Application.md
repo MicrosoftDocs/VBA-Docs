@@ -8,6 +8,7 @@ api_name:
 - Excel.LinearGradient.Application
 ms.assetid: ed52cc68-ff42-488c-3b79-a26a34a61095
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **Application**
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Application
 
 [LinearGradient Object](Excel.LinearGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

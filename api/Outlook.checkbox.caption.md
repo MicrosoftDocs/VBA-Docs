@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ee143257-1e0d-d50a-7ed1-44a53af4a1c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 ## Syntax
 
- _expression_. **Caption**
+_expression_.**Caption**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -31,4 +32,4 @@ The  **[ForeColor](Outlook.checkbox.forecolor.md)** property of the control dete
 
 Setting  **[AutoSize](Outlook.checkbox.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

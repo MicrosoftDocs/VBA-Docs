@@ -1,20 +1,21 @@
 ---
-title: Task.PathPredecessor Property (Project)
+title: Task.PathPredecessor property (Project)
 keywords: vbapj.chm132490
 f1_keywords:
 - vbapj.chm132490
 ms.prod: project-server
 ms.assetid: f0662677-cab5-10e2-e18c-fc291bfca28b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.PathPredecessor Property (Project)
+# Task.PathPredecessor property (Project)
 Gets a value that indicates whether the task is a predecessor of the selected task, when the  **Predecessors** item is selected in the **Task Path** drop-down list. Read-only **Boolean**.
 
 ## Syntax
 
- _expression_. `PathPredecessor`
+_expression_. `PathPredecessor`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -130,3 +131,5 @@ Selected task ID 4, name: T4
 [PathDrivingPredecessor Property](Project.task.pathdrivingpredecessor.md)
 [PathDrivenSuccessor Property](Project.task.pathdrivensuccessor.md)
 [PathSuccessor Property](Project.task.pathsuccessor.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

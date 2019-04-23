@@ -1,5 +1,5 @@
 ---
-title: Series.Formula Property (PowerPoint)
+title: Series.Formula property (PowerPoint)
 keywords: vbapp10.chm65797
 f1_keywords:
 - vbapp10.chm65797
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.Formula
 ms.assetid: 04d62f5d-e63d-1643-a6cd-eae0c37b73cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.Formula Property (PowerPoint)
+# Series.Formula property (PowerPoint)
 
 Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -37,3 +38,4 @@ If the range is a one- or two-dimensional range, you can set the formula to a Vi
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

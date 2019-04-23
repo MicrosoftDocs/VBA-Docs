@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.SchemaXml Property (Office)
+title: MetaProperties.SchemaXml property (Office)
 keywords: vbaof11.chm274007
 f1_keywords:
 - vbaof11.chm274007
@@ -7,20 +7,21 @@ ms.prod: office
 api_name:
 - Office.MetaProperties.SchemaXml
 ms.assetid: c51acc59-3014-8678-c697-425be9dc3aeb
-ms.date: 06/08/2017
+ms.date: 01/18/2019
+localization_priority: Normal
 ---
 
 
-# MetaProperties.SchemaXml Property (Office)
+# MetaProperties.SchemaXml property (Office)
 
-Gets the schema XML for the  **MetaProperties** object. Read-only.
+Gets the schema XML for the **MetaProperties** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `SchemaXml`
+_expression_.**SchemaXml**
 
- _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
+_expression_ An expression that returns a **[MetaProperties](Office.MetaProperties.md)** object.
 
 
 ## Return value
@@ -35,10 +36,11 @@ This property is used to return information representing various metadata proper
 
 ## See also
 
-
-[MetaProperties Object](Office.MetaProperties.md)
-
+- [MetaProperties object members](overview/Library-Reference/metaproperties-members-office.md)
 
 
-[MetaProperties Object Members](./overview/Library-Reference/metaproperties-members-office.md)
 
+
+
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Addons.GetNames Method (Visio)
+title: Addons.GetNames method (Visio)
 keywords: vis_sdr.chm12516315
 f1_keywords:
 - vis_sdr.chm12516315
@@ -8,17 +8,18 @@ api_name:
 - Visio.Addons.GetNames
 ms.assetid: b0f0fc37-0dfd-b61e-399e-10fb8c8b4b43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Addons.GetNames Method (Visio)
+# Addons.GetNames method (Visio)
 
 Returns the names of all items in a collection.
 
 
 ## Syntax
 
- _expression_. `GetNames`( `_NameArray()_` )
+_expression_. `GetNames`( `_NameArray()_` )
 
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) collection.
 
@@ -45,4 +46,4 @@ If the  **GetNames** method succeeds, _NameArray()_ returns a one-dimensional ar
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **GetNames** method to get the local name of more than one object. Use the **GetNamesU** method to get the universal name of more than one object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

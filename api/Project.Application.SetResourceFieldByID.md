@@ -1,5 +1,5 @@
 ---
-title: Application.SetResourceFieldByID Method (Project)
+title: Application.SetResourceFieldByID method (Project)
 keywords: vbapj.chm96
 f1_keywords:
 - vbapj.chm96
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SetResourceFieldByID
 ms.assetid: 1309ee61-6b66-db45-ed69-b0b3dd9b8dda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetResourceFieldByID Method (Project)
+# Application.SetResourceFieldByID method (Project)
 
 Sets the value of a resource field specified by the field identification number.
 
 
 ## Syntax
 
- _expression_. `SetResourceFieldByID`( ` _FieldID_`, ` _Value_`, ` _AllSelectedResources_`, ` _Create_`, ` _ResourceID_`, ` _ProjectName_` )
+_expression_. `SetResourceFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedResources_`, `_Create_`, `_ResourceID_`, `_ProjectName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -45,4 +46,4 @@ Sets the value of a resource field specified by the field identification number.
 
 To set a resource field by name, use the  **[SetResourceField](Project.Application.SetResourceField.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 03f53859-f944-b5c4-5b3d-e39e240c3120
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -37,3 +38,5 @@ To increase the number of file handles
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

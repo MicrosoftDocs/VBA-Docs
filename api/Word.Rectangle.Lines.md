@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Lines Property (Word)
+title: Rectangle.Lines property (Word)
 keywords: vbawd10.chm234029064
 f1_keywords:
 - vbawd10.chm234029064
@@ -8,17 +8,18 @@ api_name:
 - Word.Rectangle.Lines
 ms.assetid: 00faac63-97a8-8b65-885a-5bfa3729d70e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rectangle.Lines Property (Word)
+# Rectangle.Lines property (Word)
 
 Returns a  **[Lines](Word.Lines.md)** collection that represents the lines in a specified portion of text in a page.
 
 
 ## Syntax
 
- _expression_. `Lines`
+_expression_. `Lines`
 
  _expression_ An expression that returns a '[Rectangle](Word.Rectangle.md)' object.
 
@@ -50,3 +51,4 @@ If objRectangle.RectangleType = wdTextRectangle Then _
 
 [Rectangle Object](Word.Rectangle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

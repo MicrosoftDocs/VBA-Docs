@@ -1,5 +1,5 @@
 ---
-title: Application.RefreshFormRegionDefinition Method (Outlook)
+title: Application.RefreshFormRegionDefinition method (Outlook)
 keywords: vbaol11.chm3521
 f1_keywords:
 - vbaol11.chm3521
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.RefreshFormRegionDefinition
 ms.assetid: 35183f18-7c59-80c5-e281-af15afe39198
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.RefreshFormRegionDefinition Method (Outlook)
+# Application.RefreshFormRegionDefinition method (Outlook)
 
 Refreshes the cache by obtaining the current definition from the Windows registry for one or all of the form regions that are defined for the local machine and the current user.
 
 
 ## Syntax
 
- _expression_. `RefreshFormRegionDefinition`( `_RegionName_` )
+_expression_. `RefreshFormRegionDefinition`( `_RegionName_` )
 
- _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 
 
 ## Parameters
@@ -45,3 +46,4 @@ For more information about registering form regions, see [Specifying Form Region
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

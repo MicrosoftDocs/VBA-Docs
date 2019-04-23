@@ -1,5 +1,5 @@
 ---
-title: Rows Object (PowerPoint)
+title: Rows object (PowerPoint)
 keywords: vbapp10.chm625000
 f1_keywords:
 - vbapp10.chm625000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Rows
 ms.assetid: 9a72b6bb-2aec-e37b-f1a2-005f910e1335
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows Object (PowerPoint)
+# Rows object (PowerPoint)
 
 A collection of  **[Row](./PowerPoint.Row.md)** objects that represent the rows in a table.
 
@@ -58,7 +59,7 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./PowerPoint.Rows.Add.md)|
 |[Item](./PowerPoint.Rows.Item.md)|
@@ -67,7 +68,7 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Rows.Application.md)|
 |[Count](./PowerPoint.Rows.Count.md)|
@@ -76,4 +77,6 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

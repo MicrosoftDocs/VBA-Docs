@@ -1,5 +1,5 @@
 ---
-title: Application.Documents Property (Visio)
+title: Application.Documents property (Visio)
 keywords: vis_sdr.chm10013435
 f1_keywords:
 - vis_sdr.chm10013435
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Documents
 ms.assetid: dee2a72f-526c-7b10-57b4-c4fbca43b083
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Documents Property (Visio)
+# Application.Documents property (Visio)
 
 Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `Documents`
+_expression_. `Documents`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -36,5 +37,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVApplication.Documents**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

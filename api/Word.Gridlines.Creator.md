@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Creator Property (Word)
+title: Gridlines.Creator property (Word)
 keywords: vbawd10.chm11468949
 f1_keywords:
 - vbawd10.chm11468949
@@ -8,17 +8,18 @@ api_name:
 - Word.Gridlines.Creator
 ms.assetid: e3548aa9-1e88-b5ee-eb4a-417504d7bde5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Gridlines.Creator Property (Word)
+# Gridlines.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a '[GridLines](Word.GridLines.md)' object.
 
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [GridLines Object](Word.GridLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

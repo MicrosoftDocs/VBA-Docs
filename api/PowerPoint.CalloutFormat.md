@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (PowerPoint)
+title: CalloutFormat object (PowerPoint)
 keywords: vbapp10.chm559000
 f1_keywords:
 - vbapp10.chm559000
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.CalloutFormat
 ms.assetid: 7c06fe17-499e-b23c-3739-e53fe33d06f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat Object (PowerPoint)
+# CalloutFormat object (PowerPoint)
 
 Contains properties and methods that apply to line callouts.
 
 
 ## Example
 
-Use the  **Callout** property to return a **CalloutFormat** object. The following example specify the following attributes of shape three (a line callout) on `myDocument`:
+Use the  **Callout** property to return a **CalloutFormat** object. The following example specify the following attributes of shape three (a line callout) on _myDocument_:
 
 
 - The callout will have a vertical accent bar that separates the text from the callout line.
@@ -60,3 +61,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkVerticalAxis.Application
 ms.assetid: f92de9f0-9b57-ec63-d741-a8c548533b19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
+_expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

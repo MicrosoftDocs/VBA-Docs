@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 8c0b84c0-582b-32f7-68e0-6383d0661e74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,3 +16,4 @@ Information about returning a single object is available in the object topic its
 
 For more information, see the specific object or collection with which you want to work.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Application Property (PowerPoint)
+title: LinkFormat.Application property (PowerPoint)
 keywords: vbapp10.chm563001
 f1_keywords:
 - vbapp10.chm563001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.LinkFormat.Application
 ms.assetid: a0854949-7bbf-5af7-7c32-a2d67be468ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.Application Property (PowerPoint)
+# LinkFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [LinkFormat](./PowerPoint.LinkFormat.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [LinkFormat Object](PowerPoint.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

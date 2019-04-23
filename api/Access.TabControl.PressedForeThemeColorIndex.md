@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.TabControl.PressedForeThemeColorIndex
 ms.assetid: c7fed49b-7d46-f278-da70-2e3995554af4
-ms.date: 06/08/2017
+ms.date: 03/05/2019
+localization_priority: Normal
 ---
 
 
 # TabControl.PressedForeThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **PressedForeColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **PressedForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `PressedForeThemeColorIndex`
+_expression_.**PressedForeThemeColorIndex**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks
 
-The  **PressedForeThemeColorIndex** uses one of the values listed in the following table.
+The **PressedForeThemeColorIndex** uses one of the values listed in the following table.
 
-
-
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1 |Background 1|
@@ -44,13 +43,11 @@ The  **PressedForeThemeColorIndex** uses one of the values listed in the followi
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **PressedForeThemeColorIndex** property contains -1.
+If no theme is applied, the **PressedForeThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
 
 
-[TabControl Object](Access.TabControl.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

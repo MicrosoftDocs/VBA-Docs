@@ -1,5 +1,5 @@
 ---
-title: Series.XValues Property (PowerPoint)
+title: Series.XValues property (PowerPoint)
 keywords: vbapp10.chm66647
 f1_keywords:
 - vbapp10.chm66647
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.XValues
 ms.assetid: e1e83dc0-ed73-c29b-942a-575511ce94e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.XValues Property (PowerPoint)
+# Series.XValues property (PowerPoint)
 
 Returns or sets an array of x values for a chart series. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `XValues`
+_expression_. `XValues`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
@@ -79,3 +80,4 @@ End With
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

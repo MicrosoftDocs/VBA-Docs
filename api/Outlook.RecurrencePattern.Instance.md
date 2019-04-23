@@ -1,5 +1,5 @@
 ---
-title: RecurrencePattern.Instance Property (Outlook)
+title: RecurrencePattern.Instance property (Outlook)
 keywords: vbaol11.chm278
 f1_keywords:
 - vbaol11.chm278
@@ -8,19 +8,20 @@ api_name:
 - Outlook.RecurrencePattern.Instance
 ms.assetid: 3458aeff-97b7-02f8-e352-203ecc92dedd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RecurrencePattern.Instance Property (Outlook)
+# RecurrencePattern.Instance property (Outlook)
 
 Returns or sets a  **Long** specifying the count for which the recurrence pattern is valid for a given interval. Read/write.
 
 
 ## Syntax
 
- _expression_. `Instance`
+_expression_. `Instance`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property is only valid for recurrences of the  **olRecursMonthNth** and **o
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

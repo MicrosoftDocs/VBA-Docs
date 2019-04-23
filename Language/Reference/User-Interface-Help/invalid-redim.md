@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 32682d86-d3c1-bf15-677c-9b0efd5e9e75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -65,3 +66,4 @@ Dim MyVar, AnotherVar As Integer
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

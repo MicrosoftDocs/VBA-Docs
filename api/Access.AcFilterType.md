@@ -8,6 +8,7 @@ api_name:
 - Access.AcFilterType
 ms.assetid: 18d371a4-46fd-47d7-440d-3c321c679bd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,10 +16,11 @@ ms.date: 06/08/2017
 
 Not supported in Access.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFilterNormal**|0||
 |**acServerFilter**|1||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

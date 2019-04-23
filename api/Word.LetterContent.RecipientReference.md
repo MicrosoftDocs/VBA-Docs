@@ -1,5 +1,5 @@
 ---
-title: LetterContent.RecipientReference Property (Word)
+title: LetterContent.RecipientReference property (Word)
 keywords: vbawd10.chm161546352
 f1_keywords:
 - vbawd10.chm161546352
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.RecipientReference
 ms.assetid: e792b88e-b1f7-4a03-a966-ed519891b46d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.RecipientReference Property (Word)
+# LetterContent.RecipientReference property (Word)
 
-Returns or sets the reference line (for example, "In reply to:") for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the reference line (for example, "In reply to:") for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `RecipientReference`
+_expression_. `RecipientReference`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -44,3 +45,4 @@ Documents.Add.RunLetterWizard LetterContent:=myContent
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

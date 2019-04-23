@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasPreviousLink Property (Publisher)
+title: TextFrame.HasPreviousLink property (Publisher)
 keywords: vbapb10.chm3866641
 f1_keywords:
 - vbapb10.chm3866641
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.HasPreviousLink
 ms.assetid: 85e0b497-55c9-d49f-2b65-e199361c121a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.HasPreviousLink Property (Publisher)
+# TextFrame.HasPreviousLink property (Publisher)
 
 Returns  **msoTrue** if the specified text frame has a valid link to a backward text box and **msoFalse** if it does not. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasPreviousLink**
+_expression_.**HasPreviousLink**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -43,4 +44,4 @@ Sub AddPreviousNextLinkPages()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

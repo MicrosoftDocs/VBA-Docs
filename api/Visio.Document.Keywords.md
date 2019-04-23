@@ -1,5 +1,5 @@
 ---
-title: Document.Keywords Property (Visio)
+title: Document.Keywords property (Visio)
 keywords: vis_sdr.chm10513795
 f1_keywords:
 - vis_sdr.chm10513795
@@ -8,17 +8,18 @@ api_name:
 - Visio.Document.Keywords
 ms.assetid: c7717a93-c64f-8363-69a7-7e9ed40865dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.Keywords Property (Visio)
+# Document.Keywords property (Visio)
 
 Gets or sets the value of the  **Keywords** box in a document's **Properties** dialog box. Read/write.
 
 
 ## Syntax
 
- _expression_. `Keywords`
+_expression_. `Keywords`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -66,4 +67,4 @@ Public Sub Keywords_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

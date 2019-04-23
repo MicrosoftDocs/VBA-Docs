@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Me Property (Word)
+title: CoAuthoring.Me property (Word)
 keywords: vbawd10.chm254869506
 f1_keywords:
 - vbawd10.chm254869506
@@ -8,17 +8,18 @@ api_name:
 - Word.CoAuthoring.Me
 ms.assetid: 19c2875f-07ba-15c3-a622-254344c6480f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthoring.Me Property (Word)
+# CoAuthoring.Me property (Word)
 
 Returns a  **[CoAuthor](Word.CoAuthor.md)** object that represents the current user. Read-only.
 
 
 ## Syntax
 
- _expression_. `Me`
+_expression_. `Me`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 
@@ -42,3 +43,4 @@ MsgBox "The current user has " & coAuth.Locks.Count & _
 
 [CoAuthoring Object](Word.CoAuthoring.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

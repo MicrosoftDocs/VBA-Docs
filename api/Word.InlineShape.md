@@ -1,5 +1,5 @@
 ---
-title: InlineShape Object (Word)
+title: InlineShape object (Word)
 keywords: vbawd10.chm2472
 f1_keywords:
 - vbawd10.chm2472
@@ -8,10 +8,11 @@ api_name:
 - Word.InlineShape
 ms.assetid: a8fd110a-4aa7-c4b9-1559-32022787d955
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InlineShape Object (Word)
+# InlineShape object (Word)
 
 Represents an object in the text layer of a document. An inline shape can only be a picture, an OLE object, or an ActiveX control. The  **InlineShape** object is a member of the **[InlineShapes](Word.inlineshapes.md)** collection. The **InlineShapes** collection contains all the shapes that appear inline in a document, range, or selection.
 
@@ -38,6 +39,6 @@ ActiveDocument.InlineShapes(1).Activate
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

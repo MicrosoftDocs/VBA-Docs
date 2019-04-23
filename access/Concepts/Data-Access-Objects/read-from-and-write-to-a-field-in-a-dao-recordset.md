@@ -3,6 +3,7 @@ title: Read from and write to a field in a DAO Recordset
 ms.prod: access
 ms.assetid: 4fe0c334-9c44-773c-7aed-182b042213a7
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -79,3 +80,4 @@ A **Field** object on a **Recordset** also features the **[ValidateOnSet](../../
 
 For example, if you are adding data to a record that contains a large Memo or OLE Object field and that has the DAO **ValidationRule** property set, you should determine whether the new data violates the validation rule before trying to write the data. To do so, set the **ValidateOnSet** property to **True**. If you wait to check validation until the entire record is written to disk, you may waste time trying to write an invalid record to disk.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

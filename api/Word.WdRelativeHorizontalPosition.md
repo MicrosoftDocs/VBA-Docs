@@ -1,14 +1,15 @@
 ---
-title: WdRelativeHorizontalPosition Enumeration (Word)
+title: WdRelativeHorizontalPosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeHorizontalPosition
 ms.assetid: 155eefdf-bbf8-9895-1bc0-64fcda4e2635
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdRelativeHorizontalPosition Enumeration (Word)
+# WdRelativeHorizontalPosition enumeration (Word)
 
 Specifies to what the horizontal position of a frame, a shape, or a group of rows is relative.
 
@@ -25,3 +26,4 @@ Specifies to what the horizontal position of a frame, a shape, or a group of row
 | **wdRelativeHorizontalPositionOuterMarginArea**|7|Relative to outer margin area.|
 | **wdRelativeHorizontalPositionRightMarginArea**|5|Relative to right margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

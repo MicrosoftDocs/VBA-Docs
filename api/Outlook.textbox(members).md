@@ -3,6 +3,7 @@ title: TextBox Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 701d7f75-55f9-4111-99bb-9f7d8fb981e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ Displays information from a user or from an organized set of data.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Copy](Outlook.textbox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.textbox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
@@ -27,7 +28,7 @@ Displays information from a user or from an organized set of data.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [AutoSize](Outlook.textbox.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
 | [AutoTab](Outlook.textbox.autotab.md)|Returns or sets a  **Boolean** that specifies whether an automatic tab occurs when a user enters the maximum allowable number of characters into a [TextBox](Outlook.textbox.md). Read/write.|
@@ -68,5 +69,4 @@ Displays information from a user or from an organized set of data.
 | [Value](Outlook.textbox.value.md)|Returns or sets a  **Variant** that specifies text in the edit region. Read/write.|
 | [WordWrap](Outlook.textbox.wordwrap.md)|Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

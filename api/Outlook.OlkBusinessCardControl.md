@@ -1,5 +1,5 @@
 ---
-title: OlkBusinessCardControl Object (Outlook)
+title: OlkBusinessCardControl object (Outlook)
 keywords: vbaol11.chm1000333
 f1_keywords:
 - vbaol11.chm1000333
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlkBusinessCardControl
 ms.assetid: 9a2de42b-7a43-3fd9-7fcc-93fc1508ce0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkBusinessCardControl Object (Outlook)
+# OlkBusinessCardControl object (Outlook)
 
 This control displays a business card.
 
@@ -34,7 +35,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Outlook.OlkBusinessCardControl.Click.md)|
 |[DoubleClick](Outlook.OlkBusinessCardControl.DoubleClick.md)|
@@ -46,7 +47,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[MouseIcon](Outlook.OlkBusinessCardControl.MouseIcon.md)|
 |[MousePointer](Outlook.OlkBusinessCardControl.MousePointer.md)|
@@ -54,4 +55,6 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

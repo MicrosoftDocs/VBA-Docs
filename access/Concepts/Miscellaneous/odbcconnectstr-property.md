@@ -9,6 +9,7 @@ api_name:
 - Access.ODBCConnectStr
 ms.assetid: f1eba90d-ec30-7e71-a0ca-0d8ed81ac61b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -38,9 +39,7 @@ The default setting for this property is the string "ODBC;", which Microsoft Acc
 
 The connection string is different for different types of ODBC data sources. For example, to connect to the Human Resources data source on the HRSRVR server (a Microsoft SQL Server) by using the logon identification (ID) Smith and the password Sesame, you can use the following connection string.
 
-```
-ODBC;DSN=Human Resources;SERVER=HRSRVR;UID=Smith;PWD=Sesame;
-```
+    ODBC;DSN=Human Resources;SERVER=HRSRVR;UID=Smith;PWD=Sesame;
 
 ## See also
 
@@ -50,3 +49,5 @@ ODBC;DSN=Human Resources;SERVER=HRSRVR;UID=Smith;PWD=Sesame;
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

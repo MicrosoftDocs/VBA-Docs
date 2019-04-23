@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Shapes
 ms.assetid: 6206b5e8-742d-797f-12ee-daf3225a53dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shap
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_.**Shapes**
 
- _expression_ An expression that returns a [Worksheet](./Excel.Worksheet.md) object.
+ _expression_ An expression that returns a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

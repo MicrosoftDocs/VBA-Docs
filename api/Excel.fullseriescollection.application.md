@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 52dfb5aa-c6fb-201c-c1ed-880aff1efb45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,14 +17,14 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
+_expression_ A variable that represents a **[FullSeriesCollection](Excel.fullseriescollection.md)** object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created _myObject_.
 
 
 ```vb
@@ -41,9 +42,11 @@ End If
  **APPLICATION**
 
 
+
 ## See also
 
 
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

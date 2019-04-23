@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 994df18c-4d72-4859-a04a-5ac238870ffb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.Application Property (Visio)](http://msdn.microsoft.com/library/3d257372-c728-a758-9890-5cc695f70d89%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

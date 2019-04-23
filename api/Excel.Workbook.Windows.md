@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Windows
 ms.assetid: 2352d6c9-720e-b58d-6e7c-049bf21a090d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Windows](Excel.Windows.md)** collection that represents all the wi
 
 ## Syntax
 
- _expression_. `Windows`
+_expression_. `Windows`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ ActiveWorkbook.Windows("Consolidated Balance Sheet") _
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

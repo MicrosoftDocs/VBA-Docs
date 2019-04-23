@@ -3,6 +3,7 @@ title: ViewCtl.Filter Property (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 4074d1d3-e3b5-810f-3ba9-3cf5bd1507ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String**that represents the Distributed Authoring and Versi
 
 ## Syntax
 
- _expression_. **Filter**
+_expression_.**Filter**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ To reset a filter back to its default value, type the following line of code.
 object.Filter = " ""DAV:isfolder"" = False And ""DAV:ishidden"" = False "
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

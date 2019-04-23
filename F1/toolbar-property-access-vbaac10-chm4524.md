@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 13d4366f-2f1d-4a73-a2e9-f02b331452b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.Toolbar property (Access)](http://msdn.microsoft.com/library/a004200c-5404-c3ba-f00d-591c0f0a545d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

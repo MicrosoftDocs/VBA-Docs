@@ -1,5 +1,5 @@
 ---
-title: NoteItem Object (Outlook)
+title: NoteItem object (Outlook)
 keywords: vbaol11.chm3001
 f1_keywords:
 - vbaol11.chm3001
@@ -8,10 +8,11 @@ api_name:
 - Outlook.NoteItem
 ms.assetid: ddf5baaa-6e13-a6fb-96e8-311e7761fa98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# NoteItem Object (Outlook)
+# NoteItem object (Outlook)
 
 Represents a note in a Notes folder.
 
@@ -24,7 +25,7 @@ The  **[Subject](Outlook.NoteItem.Subject.md)** property of a **NoteItem** objec
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **NoteItem** object that represents a new note.
 
-Use  **[Items](Outlook.Items.Item.md)** ( _index_ ), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
+Use  **[Items](Outlook.Items.Item.md)** (_index_), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
 
 
 ## Example
@@ -41,7 +42,7 @@ Set myItem = Application.CreateItem(olNoteItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.NoteItem.Close.md)|
 |[Copy](Outlook.NoteItem.Copy.md)|
@@ -56,7 +57,7 @@ Set myItem = Application.CreateItem(olNoteItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NoteItem.Application.md)|
 |[AutoResolvedWinner](Outlook.NoteItem.AutoResolvedWinner.md)|
@@ -87,4 +88,6 @@ Set myItem = Application.CreateItem(olNoteItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

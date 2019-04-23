@@ -1,5 +1,5 @@
 ---
-title: Workbook.Activate Method (Excel)
+title: Workbook.Activate method (Excel)
 keywords: vbaxl10.chm199074
 f1_keywords:
 - vbaxl10.chm199074
@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Activate
 ms.assetid: 628e06b3-ca3f-28cb-e0fd-e696842f69f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Workbook.Activate Method (Excel)
+# Workbook.Activate method (Excel)
 
 Activates the first window associated with the workbook.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_.**Activate**
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Workbooks("BOOK4.XLS").Activate
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.CenterFooterPicture
 ms.assetid: 6df72e33-29d2-a638-7e42-2749a61ff9a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture fo
 
 ## Syntax
 
- _expression_. `CenterFooterPicture`
+_expression_. `CenterFooterPicture`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks
@@ -63,3 +64,4 @@ End Sub
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

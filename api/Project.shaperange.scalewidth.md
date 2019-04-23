@@ -1,17 +1,18 @@
 ---
-title: ShapeRange.ScaleWidth Method (Project)
+title: ShapeRange.ScaleWidth method (Project)
 ms.prod: project-server
 ms.assetid: 6087bb9c-c111-7f2e-95d9-334af18fe37d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.ScaleWidth Method (Project)
+# ShapeRange.ScaleWidth method (Project)
 Scales the width of the range of shapes by a specified factor.
 
 ## Syntax
 
- _expression_. `ScaleWidth` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+_expression_. `ScaleWidth` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
 
  _expression_ A variable that represents a 'ShapeRange' object.
 
@@ -20,7 +21,7 @@ Scales the width of the range of shapes by a specified factor.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required|**Single**|The ratio between the width of the shape after you resize it and the current width. For example, to make a rectangle 50 percent wider, specify 1.5 for the  _Factor_ parameter.|
 | _RelativeToOriginalSize_|Required|**[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**|**msoFalse** scales each shape relative to its current size. For Project, the value must be **msoFalse**.|
@@ -74,3 +75,5 @@ End Sub
 [ShapeRange Object](Project.shaperange.md)
 [MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
 [MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

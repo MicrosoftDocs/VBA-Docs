@@ -1,14 +1,15 @@
 ---
-title: PageNumber Object (Word)
+title: PageNumber object (Word)
 ms.prod: word
 api_name:
 - Word.PageNumber
 ms.assetid: 5b58f562-de19-ac9d-0b2c-7696603c1606
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageNumber Object (Word)
+# PageNumber object (Word)
 
 Represents a page number in a header or footer. The  **PageNumber** object is a member of the **[PageNumbers](Word.pagenumbers.md)** collection. The **PageNumbers** collection includes all the page numbers in a single header or footer.
 
@@ -41,5 +42,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

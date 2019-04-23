@@ -1,5 +1,5 @@
 ---
-title: Styles.Merge Method (Excel)
+title: Styles.Merge method (Excel)
 keywords: vbaxl10.chm179076
 f1_keywords:
 - vbaxl10.chm179076
@@ -8,19 +8,20 @@ api_name:
 - Excel.Styles.Merge
 ms.assetid: b2212f10-c16b-7108-8281-1c0375448f6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Styles.Merge Method (Excel)
+# Styles.Merge method (Excel)
 
 Merges the styles from another workbook into the  **[Styles](Excel.Styles.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Merge`( `_Workbook_` )
+_expression_. `Merge`( `_Workbook_` )
 
- _expression_ A variable that represents a [Styles](./Excel.Styles.md) object.
+_expression_ A variable that represents a [Styles](Excel.Styles.md) object.
 
 
 ## Parameters
@@ -51,3 +52,4 @@ ActiveWorkbook.Styles.Merge Workbook:=Workbooks("TEMPLATE.XLS")
 
 [Styles Object](Excel.Styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

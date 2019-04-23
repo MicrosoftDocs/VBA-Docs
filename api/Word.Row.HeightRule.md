@@ -1,5 +1,5 @@
 ---
-title: Row.HeightRule Property (Word)
+title: Row.HeightRule property (Word)
 keywords: vbawd10.chm156237832
 f1_keywords:
 - vbawd10.chm156237832
@@ -8,19 +8,20 @@ api_name:
 - Word.Row.HeightRule
 ms.assetid: 7dad51e9-e819-6c7b-a562-7e3b7ca58f3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row.HeightRule Property (Word)
+# Row.HeightRule property (Word)
 
-Returns or sets the rule for determining the height of the specified cells or rows. Read/write  **WdRowHeightRule** .
+Returns or sets the rule for determining the height of the specified cells or rows. Read/write  **WdRowHeightRule**.
 
 
 ## Syntax
 
- _expression_. `HeightRule`
+_expression_. `HeightRule`
 
- _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
+_expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Example
@@ -44,3 +45,4 @@ End With
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

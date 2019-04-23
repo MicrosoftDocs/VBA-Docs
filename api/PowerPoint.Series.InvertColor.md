@@ -1,5 +1,5 @@
 ---
-title: Series.InvertColor Property (PowerPoint)
+title: Series.InvertColor property (PowerPoint)
 keywords: vbapp10.chm716007
 f1_keywords:
 - vbapp10.chm716007
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Series.InvertColor
 ms.assetid: e2ca8473-11d0-98fe-587e-740f7a00e85b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Series.InvertColor Property (PowerPoint)
+# Series.InvertColor property (PowerPoint)
 
 Returns or sets the fill color for negative data points in a series. Read/write.
 
 
 ## Syntax
 
- _expression_. `InvertColor`
+_expression_. `InvertColor`
 
  _expression_ A variable that represents a [Series](./PowerPoint.Series.md) object.
 
@@ -54,3 +55,4 @@ ActiveChart.SeriesCollection(1).InvertColor = RGB(255, 0, 255)
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

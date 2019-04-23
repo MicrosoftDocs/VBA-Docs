@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Styles
 ms.assetid: c9a70be9-cab5-ea5f-2e3f-949b1acf43d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Styles](Excel.Styles.md)** collection that represents all the styl
 
 ## Syntax
 
- _expression_. `Styles`
+_expression_. `Styles`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveWorkbook.Styles("Stock Quote Style").Delete
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

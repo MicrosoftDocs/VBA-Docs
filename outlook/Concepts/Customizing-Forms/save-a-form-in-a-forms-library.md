@@ -3,6 +3,7 @@ title: Save a Form in a Forms Library
 ms.prod: outlook
 ms.assetid: de56fb4d-d6c0-b268-05c0-26be0166c4fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,5 +27,5 @@ ms.date: 06/08/2017
 5.  **(Exchange only)** To save the form in the Organizational Forms Library, click **Organizational Forms Library** in the **Forms Library** box. To save the form in the Outlook Folders Library, click **Outlook Folders**, and then click the folder where you want to save the form. To save the form in the Personal Forms Library, click  **Personal Forms Library**. 
     
 6. After you select the folder where you want to publish your form, click  **Publish**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

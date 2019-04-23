@@ -1,5 +1,5 @@
 ---
-title: Window.Resize Method (Publisher)
+title: Window.Resize method (Publisher)
 keywords: vbapb10.chm262164
 f1_keywords:
 - vbapb10.chm262164
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Window.Resize
 ms.assetid: 478e5f05-a2f9-c3b0-5dd0-3248272b2c37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.Resize Method (Publisher)
+# Window.Resize method (Publisher)
 
 Sizes the Microsoft Publisher application window.
 
 
 ## Syntax
 
- _expression_. **Resize**(**_Width_**,  **_Height_**)
+_expression_.**Resize**(**_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Window** object.
 
@@ -51,4 +52,4 @@ With Application.ActiveWindow
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

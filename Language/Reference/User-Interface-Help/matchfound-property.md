@@ -7,7 +7,8 @@ ms.prod: office
 api_name:
 - Office.MatchFound
 ms.assetid: db350684-1758-a849-c9e1-34714a00f1c3
-ms.date: 06/08/2017
+ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 
@@ -17,11 +18,11 @@ Indicates whether the text that a user has typed into a combo box matches any of
 
 ## Syntax
 
-_object_. **MatchFound**
+_object_.**MatchFound**
 
 The **MatchFound** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
@@ -29,7 +30,7 @@ The **MatchFound** property syntax has these parts:
 
 The **MatchFound** property return values are:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The contents of the **Value** property matches one of the records in the list.|
 |**False**|The contents of **Value** does not match any of the records in the list (default).|
@@ -38,3 +39,10 @@ The **MatchFound** property return values are:
 
 The **MatchFound** property is read-only. It is not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

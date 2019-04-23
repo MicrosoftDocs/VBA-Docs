@@ -1,5 +1,5 @@
 ---
-title: Designs.Application Property (PowerPoint)
+title: Designs.Application property (PowerPoint)
 keywords: vbapp10.chm643001
 f1_keywords:
 - vbapp10.chm643001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Designs.Application
 ms.assetid: 2e91c645-b2b3-9feb-ea5c-bc998424abd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Designs.Application Property (PowerPoint)
+# Designs.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
+_expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
 ## Return value
@@ -66,3 +67,4 @@ Next
 
 [Designs Object](PowerPoint.Designs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

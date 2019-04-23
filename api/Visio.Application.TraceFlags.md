@@ -1,5 +1,5 @@
 ---
-title: Application.TraceFlags Property (Visio)
+title: Application.TraceFlags property (Visio)
 keywords: vis_sdr.chm10014590
 f1_keywords:
 - vis_sdr.chm10014590
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.TraceFlags
 ms.assetid: aae7879a-7f21-f16e-cfcc-2520c70af7e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TraceFlags Property (Visio)
+# Application.TraceFlags property (Visio)
 
 Gets or sets events logged during a Microsoft Visio instance. Read/write.
 
 
 ## Syntax
 
- _expression_. `TraceFlags`
+_expression_. `TraceFlags`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -34,7 +35,7 @@ The value of the  **TraceFlags** property can be a combination of the following 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTraceEvents**|&H1|Event occurrences|
 | **visTraceAdvises**|&H2|Outgoing advise calls|
@@ -54,7 +55,7 @@ Here is a string Visio might log when  **visTraceEvents** is set:
 
 The number after -event: is the code of the event that occurred. In this case 0x8040 is the code for the  **ShapeAdded** event. The text following the event code differs from event to event.
 
-Setting the  **visTraceAdvises** flag writes a line to the Immediate window just before Visio calls an event handler procedure and another line just after the event handler returns. This includes event procedures in Microsoft Visual Basic for Applications (VBA) projects, for example, procedures in **ThisDocument** . Here is an example of what you might see:
+Setting the  **visTraceAdvises** flag writes a line to the Immediate window just before Visio calls an event handler procedure and another line just after the event handler returns. This includes event procedures in Microsoft Visual Basic for Applications (VBA) projects, for example, procedures in **ThisDocument**. Here is an example of what you might see:
 
 
 
@@ -113,4 +114,4 @@ Public Sub TraceFlags_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

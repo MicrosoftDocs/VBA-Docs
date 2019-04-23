@@ -1,21 +1,22 @@
 ---
-title: Trendline.Type Property (PowerPoint)
+title: Trendline.Type property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Type
 ms.assetid: 15eb494c-8e11-491a-5bf1-d7d0ea337e92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Trendline.Type Property (PowerPoint)
+# Trendline.Type property (PowerPoint)
 
 Returns or sets the trendline type. Read/write  **[XlTrendlineType](PowerPoint.XlTrendlineType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_.**Type**
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 
@@ -50,3 +51,4 @@ End With
 
 [Trendline Object](PowerPoint.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Fixed Method (Excel)
+title: WorksheetFunction.Fixed method (Excel)
 keywords: vbaxl10.chm137084
 f1_keywords:
 - vbaxl10.chm137084
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Fixed
 ms.assetid: befc65b2-0216-dbd7-e376-edbcbfe532c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Fixed Method (Excel)
+# WorksheetFunction.Fixed method (Excel)
 
 Rounds a number to the specified number of decimals, formats the number in decimal format using a period and commas, and returns the result as text.
 
 
 ## Syntax
 
- _expression_. `Fixed`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `Fixed`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ String
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

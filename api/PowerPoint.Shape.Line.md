@@ -1,5 +1,5 @@
 ---
-title: Shape.Line Property (PowerPoint)
+title: Shape.Line property (PowerPoint)
 keywords: vbapp10.chm547027
 f1_keywords:
 - vbapp10.chm547027
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.Line
 ms.assetid: edb5f40e-8b1e-fd3f-33da-0d4f1d465525
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Line Property (PowerPoint)
+# Shape.Line property (PowerPoint)
 
 Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.) Read-only.
 
 
 ## Syntax
 
- _expression_. `Line`
+_expression_.**Line**
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -30,7 +31,7 @@ LineFormat
 
 ## Example
 
-This example adds a blue dashed line to  `myDocument`.
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb
@@ -68,3 +69,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

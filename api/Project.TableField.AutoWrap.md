@@ -1,5 +1,5 @@
 ---
-title: TableField.AutoWrap Property (Project)
+title: TableField.AutoWrap property (Project)
 keywords: vbapj.chm132685
 f1_keywords:
 - vbapj.chm132685
@@ -8,18 +8,19 @@ api_name:
 - Project.TableField.AutoWrap
 ms.assetid: 03364d30-736e-ae90-8e68-bf702b40444e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableField.AutoWrap Property (Project)
+# TableField.AutoWrap property (Project)
 
  **True** if the text in table cells automatically wraps. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoWrap`
+_expression_. `AutoWrap`
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

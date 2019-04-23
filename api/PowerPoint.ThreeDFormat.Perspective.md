@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (PowerPoint)
+title: ThreeDFormat.Perspective property (PowerPoint)
 keywords: vbapp10.chm557010
 f1_keywords:
 - vbapp10.chm557010
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.Perspective
 ms.assetid: 1da4fd78-c1ae-16c8-0232-71cc0b2273e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.Perspective Property (PowerPoint)
+# ThreeDFormat.Perspective property (PowerPoint)
 
 Determines whether the extrusion appears in perspective. Read/write.
 
 
 ## Syntax
 
- _expression_. `Perspective`
+_expression_.**Perspective**
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -34,14 +35,14 @@ The value of the  **Perspective** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The extrusion is a parallel, or orthographic, projection?that is, if the walls don't narrow toward a vanishing point. |
 |**msoTrue**| The extrusion appears in perspective?that is, if the walls of the extrusion narrow toward a vanishing point.|
 
 ## Example
 
-This example sets the extrusion depth for shape one on  `myDocument` to 100 points and specifies that the extrusion be parallel, or orthographic.
+This example sets the extrusion depth for shape one on  _myDocument_ to 100 points and specifies that the extrusion be parallel, or orthographic.
 
 
 ```vb
@@ -58,4 +59,4 @@ With myDocument.Shapes(1).ThreeD
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

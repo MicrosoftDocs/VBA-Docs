@@ -1,30 +1,24 @@
 ---
-title: Page Object, MultiPage Control, Add, Clear, Remove Methods Example
+title: Page object, MultiPage control, Add, Clear, Remove methods example
 keywords: fm20.chm5225177
 f1_keywords:
 - fm20.chm5225177
 ms.prod: office
 ms.assetid: ba40e297-6f1f-b012-34a2-d8e6c6b0e462
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Page Object, MultiPage Control, Add, Clear, Remove Methods Example
+# Page object, MultiPage control, Add, Clear, Remove methods example
 
-The following example uses the  **Add**, **Clear**, and **Remove** methods to add and remove a control to a **Page** of a **MultiPage** at run time.
+The following example uses the **[Add](add-method-microsoft-forms.md)**, **[Clear](clear-method-microsoft-forms.md)**, and **[Remove](remove-method.md)** methods to add and remove a control to a **[Page](page-object.md)** of a **[MultiPage](multipage-control.md)** at run time.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.   
+- Three **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.
     
-- Three  **CommandButton** controls named CommandButton1 through CommandButton3.
-    
-
-
-
 
 ```vb
 Dim MyTextBox As Control 
@@ -51,4 +45,4 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextStyles.Add Method (Publisher)
+title: TextStyles.Add method (Publisher)
 keywords: vbapb10.chm5898244
 f1_keywords:
 - vbapb10.chm5898244
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextStyles.Add
 ms.assetid: 56bb84a2-5632-1baa-4b97-3c48d43367bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextStyles.Add Method (Publisher)
+# TextStyles.Add method (Publisher)
 
 Adds a new  **TextStyle** object to the specified **TextStyles** object and returns the new **TextStyle** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Font_**,  **_ParagraphFormat_**,  **_StyleName_**,  **_BasedOn_**)
+_expression_.**Add**(**_Font_**,  **_ParagraphFormat_**,  **_StyleName_**,  **_BasedOn_**)
 
  _expression_ A variable that represents a  **TextStyles** object.
 
@@ -51,4 +52,4 @@ Set tsNew = ActiveDocument.TextStyles _
  .Add(StyleName:="Title", BasedOn:="Normal")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

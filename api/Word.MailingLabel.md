@@ -1,5 +1,5 @@
 ---
-title: MailingLabel Object (Word)
+title: MailingLabel object (Word)
 keywords: vbawd10.chm2327
 f1_keywords:
 - vbawd10.chm2327
@@ -8,10 +8,11 @@ api_name:
 - Word.MailingLabel
 ms.assetid: 9dd073b7-5d53-0f1e-f19a-9abf6427b3f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailingLabel Object (Word)
+# MailingLabel object (Word)
 
 Represents a mailing label.
 
@@ -56,5 +57,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

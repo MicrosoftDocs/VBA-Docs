@@ -1,23 +1,24 @@
 ---
-title: PostItem.BeforeAttachmentPreview Event (Outlook)
+title: PostItem.BeforeAttachmentPreview event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAttachmentPreview
 ms.assetid: 1c807588-b910-d3ab-8614-d99e78b7f94b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PostItem.BeforeAttachmentPreview Event (Outlook)
+# PostItem.BeforeAttachmentPreview event (Outlook)
 
 Occurs before an attachment associated with an instance of the parent object is previewed.
 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ This event occurs before an attachment is previewed, either from the attachment 
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

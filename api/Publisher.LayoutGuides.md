@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides Object (Publisher)
+title: LayoutGuides object (Publisher)
 keywords: vbapb10.chm1179647
 f1_keywords:
 - vbapb10.chm1179647
@@ -8,10 +8,11 @@ api_name:
 - Publisher.LayoutGuides
 ms.assetid: 7430c1c4-c7f5-d9b6-cea8-b21fe9e2905f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides Object (Publisher)
+# LayoutGuides object (Publisher)
 
 Represents the measurement grid that appears superimposed on publication pages as an aid to laying out design elements.
  
@@ -48,7 +49,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.LayoutGuides.Application.md)|
 |[ColumnGutterWidth](Publisher.LayoutGuides.ColumnGutterWidth.md)|
@@ -67,3 +68,4 @@ End With
 |[VerticalBaseLineOffset](Publisher.LayoutGuides.VerticalBaseLineOffset.md)|
 |[VerticalBaseLineSpacing](Publisher.LayoutGuides.VerticalBaseLineSpacing.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

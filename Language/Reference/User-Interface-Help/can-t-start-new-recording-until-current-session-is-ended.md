@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d4337291-5941-0f9e-0702-2a8b2db983a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ You can't "nest" recordings. This error has the following cause and solution:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

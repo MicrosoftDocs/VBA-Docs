@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Parent Property (PowerPoint)
+title: HeaderFooter.Parent property (PowerPoint)
 keywords: vbapp10.chm582002
 f1_keywords:
 - vbapp10.chm582002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.HeaderFooter.Parent
 ms.assetid: b97fbcf9-b3e9-9843-eb99-f73b63c66197
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Parent Property (PowerPoint)
+# HeaderFooter.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
@@ -49,3 +50,4 @@ End With
 
 [HeaderFooter Object](PowerPoint.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Orientation Property (Word)
+title: TextFrame.Orientation property (Word)
 keywords: vbawd10.chm162660456
 f1_keywords:
 - vbawd10.chm162660456
@@ -8,19 +8,20 @@ api_name:
 - Word.TextFrame.Orientation
 ms.assetid: 480b0ebd-c39c-0159-06a1-c909111d9486
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.Orientation Property (Word)
+# TextFrame.Orientation property (Word)
 
-Returns or sets the orientation of the text inside the frame. Read/write  **MsoTextOrientation** .
+Returns or sets the orientation of the text inside the frame. Read/write  **MsoTextOrientation**.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_.**Orientation**
 
- _expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
+_expression_ Required. A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ mydoc.Shapes(1).TextFrame.Orientation = msoTextOrientationUpward
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

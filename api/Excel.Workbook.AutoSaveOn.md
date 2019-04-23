@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.AutoSaveOn
 ms.date: 07/28/2017
+localization_priority: Normal
 ---
 
 
@@ -49,3 +50,5 @@ End Sub
 [Co authoring](../excel/Concepts/about-coauthoring-in-excel.md)
 
 [Workbook Object](Excel.Workbook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

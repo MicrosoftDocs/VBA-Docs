@@ -1,21 +1,22 @@
 ---
-title: EffectParameter Object (Office)
+title: EffectParameter object (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameter
 ms.assetid: 975669fc-cf50-ac64-e6b5-84ff5397829b
-ms.date: 06/08/2017
+ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 
-# EffectParameter Object (Office)
+# EffectParameter object (Office)
 
 Describes a single Picture Effect parameter.
 
 
 ## Remarks
 
-Picture Effects are processed as a chain composed of individual items which are applied in sequence to create the final composited image. An Effects chain will allow an effect to be added to the chain, reordered, or removed from the chain. Effect Parameters specify properties of those effects.
+Picture Effects are processed as a chain composed of individual items that are applied in sequence to create the final composited image. An Effects chain will allow an effect to be added to the chain, reordered, or removed from the chain. Effect parameters specify properties of those effects.
 
 
 ## Example
@@ -47,21 +48,9 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.EffectParameter.Application.md)|
-|[Creator](Office.EffectParameter.Creator.md)|
-|[Name](Office.EffectParameter.Name.md)|
-|[Value](Office.EffectParameter.Value.md)|
-
 ## See also
 
+- [EffectParameter object members](overview/library-reference/effectparameter-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Update Method (Excel)
+title: OLEObject.Update method (Excel)
 keywords: vbaxl10.chm417079
 f1_keywords:
 - vbaxl10.chm417079
@@ -8,19 +8,20 @@ api_name:
 - Excel.OLEObject.Update
 ms.assetid: 7784b688-fef2-14b3-761a-df412dfa0282
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEObject.Update Method (Excel)
+# OLEObject.Update method (Excel)
 
 Updates the link.
 
 
 ## Syntax
 
- _expression_. `Update`
+_expression_. `Update`
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## Return value
@@ -43,3 +44,4 @@ Worksheets("Sheet1").OLEObjects(1).Update
 
 [OLEObject Object](Excel.OLEObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

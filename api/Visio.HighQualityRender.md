@@ -5,6 +5,7 @@ api_name:
 - Visio.HighQualityRender
 ms.assetid: 39f59bc2-36ad-7c74-97de-85a486eb42c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets a value that indicates whether high-quality rendering is enabled in
 
 ## Syntax
 
- _expression_. **HighQualityRender**
+_expression_.**HighQualityRender**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Return value
@@ -41,4 +42,4 @@ The following code gets a value that indicates whether high-quality rendering is
 Debug.Print vsoViewer.HighQualityRender
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

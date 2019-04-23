@@ -1,14 +1,15 @@
 ---
-title: WdPasteDataType Enumeration (Word)
+title: WdPasteDataType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPasteDataType
 ms.assetid: 64af8012-67d3-f5af-1e68-ebf910ca14f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdPasteDataType Enumeration (Word)
+# WdPasteDataType enumeration (Word)
 
 Specifies the format for the Clipboard contents when they are inserted into a document.
 
@@ -27,3 +28,4 @@ Specifies the format for the Clipboard contents when they are inserted into a do
 | **wdPasteShape**|8|Shape.|
 | **wdPasteText**|2|Text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

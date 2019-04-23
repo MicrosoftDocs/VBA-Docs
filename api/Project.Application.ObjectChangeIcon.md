@@ -1,5 +1,5 @@
 ---
-title: Application.ObjectChangeIcon Method (Project)
+title: Application.ObjectChangeIcon method (Project)
 keywords: vbapj.chm235
 f1_keywords:
 - vbapj.chm235
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ObjectChangeIcon
 ms.assetid: 8153748e-9b46-5d57-eaaf-0f09564c55e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ObjectChangeIcon Method (Project)
+# Application.ObjectChangeIcon method (Project)
 
 Displays the  **Change Icon** dialog box to enable changing the icon of an active bitmap or drawing object that is added in a Gantt chart or other view.
 
 
 ## Syntax
 
- _expression_. `ObjectChangeIcon`
+_expression_. `ObjectChangeIcon`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -44,7 +45,5 @@ The bitmap or drawing object must be displayed as an icon and selected. The  **O
 5. On the Gantt chart, choose  **Object** in the **Old Methods** tab. In the **Insert Object** dialog box, choose **Bitmap Image**. You can create a new image or add it from a file. Check  **Display As Icon**.
     
 6. Select the bitmap image object on the Gantt chart, and then choose  **Convert** on the **Old Methods** tab of the Ribbon. In the **Convert** dialog box, choose **Change Icon**.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

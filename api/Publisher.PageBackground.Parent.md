@@ -1,5 +1,5 @@
 ---
-title: PageBackground.Parent Property (Publisher)
+title: PageBackground.Parent property (Publisher)
 keywords: vbapb10.chm8126466
 f1_keywords:
 - vbapb10.chm8126466
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PageBackground.Parent
 ms.assetid: d9c10256-8c8a-4008-a892-57346b403173
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageBackground.Parent Property (Publisher)
+# PageBackground.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **PageBackground** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the VBA Excel object model.
 ms.prod: excel
 ms.assetid: c4e092c8-b843-44e1-bd87-419e545d1d10
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 
@@ -284,3 +285,5 @@ This section contains documentation for the enumerations in the Excel object mod
 ## See also
 
 - [Visual Basic constants](../language/reference/user-interface-help/visual-basic-constants.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

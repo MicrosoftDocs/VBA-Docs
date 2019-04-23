@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: b4d59611-58ee-de9b-488e-bde1be850d31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ You can export forms and [modules](../../Glossary/vbe-glossary.md#module), and r
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

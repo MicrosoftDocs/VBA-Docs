@@ -1,14 +1,15 @@
 ---
-title: MsoAnimFilterEffectType Enumeration (PowerPoint)
+title: MsoAnimFilterEffectType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimFilterEffectType
 ms.assetid: 763d5cc1-a0ea-4394-6567-8a5837ae4707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MsoAnimFilterEffectType Enumeration (PowerPoint)
+# MsoAnimFilterEffectType enumeration (PowerPoint)
 
 Constants that specify the type of animation filter effect, passed to and returned by the  **Type** property of the **FilterEffect** object.
 
@@ -36,3 +37,4 @@ Constants that specify the type of animation filter effect, passed to and return
 |**msoAnimFilterEffectTypeWheel**|17|Wheel|
 |**msoAnimFilterEffectTypeWipe**|18|Wipe|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: XmlMap.ExportXml Method (Excel)
+title: XmlMap.ExportXml method (Excel)
 keywords: vbaxl10.chm754090
 f1_keywords:
 - vbaxl10.chm754090
@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMap.ExportXml
 ms.assetid: ffb4e656-157e-e5f3-1ddd-314172ba5839
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XmlMap.ExportXml Method (Excel)
+# XmlMap.ExportXml method (Excel)
 
 Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.md)** object to a **String** variable.
 
 
 ## Syntax
 
- _expression_. `ExportXml`( `_Data_` )
+_expression_. `ExportXml`( `_Data_` )
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Parameters
@@ -40,9 +41,9 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 
 
-| **XlXmlExportResult** can be one of the following **XlXmlExportResult** constants.|
-| **xlXmlExportSuccess** . Export successful. No errors to report.|
-| **xlXmlExportValidationFailed** . The data being exported failed schema validation, but was exported anyway.|
+| **xlXmlExportResult** can be one of the following **xlXmlExportResult** constants.|
+| **xlXmlExportSuccess**. Export successful. No errors to report.|
+| **xlXmlExportValidationFailed**. The data being exported failed schema validation, but was exported anyway.|
 
 To export the contents of the mapped cells to an XML data file, use the  **[Export](Excel.XmlMap.Export.md)** method.
 
@@ -66,3 +67,4 @@ End Sub
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

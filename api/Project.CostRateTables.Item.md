@@ -1,21 +1,22 @@
 ---
-title: CostRateTables.Item Property (Project)
+title: CostRateTables.Item property (Project)
 ms.prod: project-server
 api_name:
 - Project.CostRateTables.Item
 ms.assetid: 8ed467d9-b7d8-b9ce-7cef-e4ed070725ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CostRateTables.Item Property (Project)
+# CostRateTables.Item property (Project)
 
 Gets a single  **CostRateTable** object from the **CostRateTables** collection. Read-only **CostRateTable**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'CostRateTables' object.
 
@@ -32,3 +33,5 @@ Gets a single  **CostRateTable** object from the **CostRateTables** collection. 
 
 
 [CostRateTables Collection Object](Project.costratetables.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

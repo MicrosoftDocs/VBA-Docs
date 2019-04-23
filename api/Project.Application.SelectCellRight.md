@@ -1,5 +1,5 @@
 ---
-title: Application.SelectCellRight Method (Project)
+title: Application.SelectCellRight method (Project)
 keywords: vbapj.chm2048
 f1_keywords:
 - vbapj.chm2048
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.SelectCellRight
 ms.assetid: 3753531a-5459-eb25-a9b9-2e9f748a0518
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SelectCellRight Method (Project)
+# Application.SelectCellRight method (Project)
 
 Selects cells to the right of the current selection.
 
 
 ## Syntax
 
- _expression_. `SelectCellRight`( ` _NumCells_`, ` _Extend_` )
+_expression_. `SelectCellRight`( `_NumCells_`, `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -41,4 +42,4 @@ Selects cells to the right of the current selection.
 
 The  **SelectCellRight** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

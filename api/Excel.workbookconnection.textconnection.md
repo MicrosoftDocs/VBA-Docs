@@ -6,19 +6,20 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: aaad8c33-4c0e-7565-fe7e-7500bced0004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # WorkbookConnection.TextConnection property (Excel)
 
-Returns a [TextConnection Object (Excel)](Excel.textconnection.md) object that contains the information on a query to a text file. Read-only
+Returns a [TextConnection](Excel.textconnection.md) object that contains the information on a query to a text file. Read-only
 
 
 ## Syntax
 
- _expression_. `TextConnection`
+_expression_. `TextConnection`
 
- _expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Property value
@@ -31,3 +32,4 @@ Returns a [TextConnection Object (Excel)](Excel.textconnection.md) object that c
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

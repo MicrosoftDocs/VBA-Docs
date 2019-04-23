@@ -1,5 +1,5 @@
 ---
-title: Border.ColorIndex Property (Word)
+title: Border.ColorIndex property (Word)
 keywords: vbawd10.chm154861569
 f1_keywords:
 - vbawd10.chm154861569
@@ -8,19 +8,20 @@ api_name:
 - Word.Border.ColorIndex
 ms.assetid: 649e96e8-b815-2a9e-bebe-d38c847c2e93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Border.ColorIndex Property (Word)
+# Border.ColorIndex property (Word)
 
-Returns or sets the color for the specified border or font object. Read/write  **WdColorIndex** .
+Returns or sets the color for the specified border or font object. Read/write  **WdColorIndex**.
 
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_.**ColorIndex**
 
- _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
+_expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End If
 
 [Border Object](Word.Border.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

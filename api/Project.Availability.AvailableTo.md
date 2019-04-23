@@ -1,5 +1,5 @@
 ---
-title: Availability.AvailableTo Property (Project)
+title: Availability.AvailableTo property (Project)
 keywords: vbapj.chm132560
 f1_keywords:
 - vbapj.chm132560
@@ -8,17 +8,18 @@ api_name:
 - Project.Availability.AvailableTo
 ms.assetid: fe1b9efc-b981-5dc0-fbaa-a29c098e2628
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Availability.AvailableTo Property (Project)
+# Availability.AvailableTo property (Project)
 
 Gets the latest date that a resource is available for work on the project, as specified in the  **Availability** row of the **Resource Availability** grid for the resource. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `AvailableTo`
+_expression_. `AvailableTo`
 
  _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 
@@ -39,4 +40,4 @@ The following line of code prints the latest date that the resource is available
 Debug.Print ActiveProject.Resources(1).Availabilities(2).AvailableFrom
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

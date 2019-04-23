@@ -1,49 +1,42 @@
 ---
-title: TextFrame2.PathFormat Property (Office)
+title: TextFrame2.PathFormat property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.PathFormat
 ms.assetid: 66148447-5bb8-5e15-0959-e2282fb4bd00
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextFrame2.PathFormat Property (Office)
+# TextFrame2.PathFormat property (Office)
 
-Returns or sets the path type for the specified text frame. Read/write
+Returns or sets the path type for the specified text frame. Read/write.
 
 
 ## Syntax
 
- _expression_. `PathFormat`
+_expression_.**PathFormat**
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+_expression_ An expression that returns a **[TextFrame2](Office.TextFrame2.md)** object.
 
 
 ## Remarks
 
-The value of the PathFormat property can be one of these MsoPathType constants. The value msoPathTypeMixed cannot be set. Setting the value msoPathTypeNone removes any existing path.
+The value of the **PathFormat** property can be one of these **[MsoPathFormat](office.msopathformat.md)** constants. The value **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
 
-
--  **msoPathType1**
-    
--  **msoPathType2**
-    
--  **msoPathType3**
-    
--  **msoPathType4**
-    
--  **msoPathTypeMixed**
-    
--  **msoPathTypeNone**
+- **msoPathType1**    
+- **msoPathType2**    
+- **msoPathType3**    
+- **msoPathType4**    
+- **msoPathTypeMixed**    
+- **msoPathTypeNone**
     
 
 ## See also
 
-
-[TextFrame2 Object](Office.TextFrame2.md)
-
+- [TextFrame2 object members](overview/Library-Reference/textframe2-members-office.md)
 
 
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -2,7 +2,8 @@
 title: BulletFormat2 members (Office)
 ms.prod: office
 ms.assetid: 1a86b4e3-0c8c-1900-708f-37486bf71169
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,14 +14,14 @@ Represents bullet formatting.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Picture](../../Office.BulletFormat2.Picture.md)|Sets the graphics file to be used for bullets in a bulleted list.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.BulletFormat2.Application.md)|Gets an object that represents the **BulletFormat2** object. Read-only.|
 |[Character](../../Office.BulletFormat2.Character.md)|Gets or sets the Unicode character value that is used for bullets in the specified text. Read/write.|
@@ -36,3 +37,4 @@ Represents bullet formatting.
 |[UseTextFont](../../Office.BulletFormat2.UseTextFont.md)|Determines whether the specified bullets are set to the font of the first text character in the paragraph. Read/write.|
 |[Visible](../../Office.BulletFormat2.Visible.md)|Gets or sets a value that specifies whether the bullet is visible. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

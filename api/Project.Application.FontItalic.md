@@ -1,5 +1,5 @@
 ---
-title: Application.FontItalic Method (Project)
+title: Application.FontItalic method (Project)
 keywords: vbapj.chm2321
 f1_keywords:
 - vbapj.chm2321
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.FontItalic
 ms.assetid: d5e79d03-af96-98fb-8f80-6c1fa583a215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.FontItalic Method (Project)
+# Application.FontItalic method (Project)
 
 Applies or removes italic formatting from the selected text.
 
 
 ## Syntax
 
- _expression_. `FontItalic`( ` _Set_` )
+_expression_. `FontItalic`( `_Set_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -35,4 +36,4 @@ Applies or removes italic formatting from the selected text.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

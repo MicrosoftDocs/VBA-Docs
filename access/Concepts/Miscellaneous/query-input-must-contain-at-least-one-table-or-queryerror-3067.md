@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7e5644a1-7c12-4ad5-63d0-82448b5479e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ In ODBCDirect databases, this error occurs if you attempt to execute a query tha
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

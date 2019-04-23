@@ -1,5 +1,5 @@
 ---
-title: Style.BuiltIn Property (Word)
+title: Style.BuiltIn property (Word)
 keywords: vbawd10.chm153878532
 f1_keywords:
 - vbawd10.chm153878532
@@ -8,17 +8,18 @@ api_name:
 - Word.Style.BuiltIn
 ms.assetid: dee6db94-7f87-3cfc-de76-b6bda8911cce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Style.BuiltIn Property (Word)
+# Style.BuiltIn property (Word)
 
- **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean** .
+ **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_. `BuiltIn`
 
  _expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
@@ -55,3 +56,4 @@ Next styleLoop
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

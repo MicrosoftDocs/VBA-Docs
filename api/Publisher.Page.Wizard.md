@@ -1,5 +1,5 @@
 ---
-title: Page.Wizard Property (Publisher)
+title: Page.Wizard property (Publisher)
 keywords: vbapb10.chm393234
 f1_keywords:
 - vbapb10.chm393234
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Wizard
 ms.assetid: 05cf1482-bde5-9ea2-4099-69a56a2dc61a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Wizard Property (Publisher)
+# Page.Wizard property (Publisher)
 
 Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 
 
 ## Syntax
 
- _expression_. **Wizard**
+_expression_.**Wizard**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -57,4 +58,4 @@ End With
 > [!NOTE] 
 > Depending on the language version of Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard](Publisher.Wizard.md)** object .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

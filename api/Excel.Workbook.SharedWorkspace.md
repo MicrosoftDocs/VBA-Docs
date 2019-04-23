@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.SharedWorkspace
 ms.assetid: 864fdee9-7149-360f-099d-e1a9b57a31db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ This object or member has been deprecated, but it remains part of the object mod
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

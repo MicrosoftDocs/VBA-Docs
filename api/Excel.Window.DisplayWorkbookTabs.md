@@ -8,19 +8,20 @@ api_name:
 - Excel.Window.DisplayWorkbookTabs
 ms.assetid: abb7580a-bca0-5940-4b41-4dfbaf52514a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Window.DisplayWorkbookTabs property (Excel)
 
- **True** if the workbook tabs are displayed. Read/write **Boolean** .
+ **True** if the workbook tabs are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayWorkbookTabs`
+_expression_. `DisplayWorkbookTabs`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](Excel.Window.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ ActiveWindow.DisplayWorkbookTabs = True
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

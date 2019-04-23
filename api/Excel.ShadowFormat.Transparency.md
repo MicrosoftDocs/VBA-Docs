@@ -8,19 +8,20 @@ api_name:
 - Excel.ShadowFormat.Transparency
 ms.assetid: c4a92bf1-3a29-16c0-0eb8-0b1faf75bd4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShadowFormat.Transparency property (Excel)
 
-Returns or sets the degree of transparency of the specified fill as a value from 0.0 (opaque) through 1.0 (clear). Read/write  **Double** .
+Returns or sets the degree of transparency of the specified fill as a value from 0.0 (opaque) through 1.0 (clear). Read/write  **Double**.
 
 
 ## Syntax
 
- _expression_. `Transparency`
+_expression_. `Transparency`
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End With
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

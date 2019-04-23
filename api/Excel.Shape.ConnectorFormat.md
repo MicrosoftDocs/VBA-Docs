@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.ConnectorFormat
 ms.assetid: 4c000a5c-eed2-e93c-e801-999c96750c9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains 
 
 ## Syntax
 
- _expression_. `ConnectorFormat`
+_expression_. `ConnectorFormat`
 
- _expression_ An expression that returns a [Shape](./Excel.Shape.md) object.
+ _expression_ An expression that returns a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example adds two rectangles to  `myDocument`, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
+This example adds two rectangles to  _myDocument_, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 
 ```vb
@@ -49,3 +50,4 @@ End With
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

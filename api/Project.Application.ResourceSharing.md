@@ -1,5 +1,5 @@
 ---
-title: Application.ResourceSharing Method (Project)
+title: Application.ResourceSharing method (Project)
 keywords: vbapj.chm105
 f1_keywords:
 - vbapj.chm105
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ResourceSharing
 ms.assetid: c11f9715-83c2-7872-1d53-fb538ed21c74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ResourceSharing Method (Project)
+# Application.ResourceSharing method (Project)
 
 Controls resource sharing, for local resources and projects.
 
 
 ## Syntax
 
- _expression_. `ResourceSharing`( ` _Share_`, ` _Name_`, ` _Pool_` )
+_expression_. `ResourceSharing`( `_Share_`, `_Name_`, `_Pool_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ In the following example, the project that contains the resources to share is na
 Application.ResourceSharing Share:=False, Name:="SharedResourcePool.mpp", Pool:=True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Interior.Pattern Property (PowerPoint)
+title: Interior.Pattern property (PowerPoint)
 keywords: vbapp10.chm707004
 f1_keywords:
 - vbapp10.chm707004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Interior.Pattern
 ms.assetid: f400b457-61ba-e923-debb-14abead41670
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Interior.Pattern Property (PowerPoint)
+# Interior.Pattern property (PowerPoint)
 
 Returns or sets a  **Variant** value, containing an **[XlPattern](PowerPoint.XlPattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ A variable that represents an '[Interior](PowerPoint.Interior.md)' object.
 
@@ -61,3 +62,4 @@ End With
 
 [Interior Object](PowerPoint.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

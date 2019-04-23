@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Application Property (Publisher)
+title: BorderArtFormat.Application property (Publisher)
 keywords: vbapb10.chm7602177
 f1_keywords:
 - vbapb10.chm7602177
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArtFormat.Application
 ms.assetid: 329de5c7-c469-b7c0-1398-cecbbc6107b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Application Property (Publisher)
+# BorderArtFormat.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
@@ -56,3 +57,4 @@ Next
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

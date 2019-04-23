@@ -3,6 +3,7 @@ title: Specifying Rule Actions
 ms.prod: outlook
 ms.assetid: c5f83c81-0e01-38aa-5ec7-3932b4443e43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -55,4 +56,4 @@ The following table lists all the rule actions supported by the Rules and Alerts
 |Reply using the specified template (.oft) file| **olRuleActionTemplate**|No|Yes|No|
 |Unrecognized rule action| **olRuleActionUnknown**|No|Yes|No|
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

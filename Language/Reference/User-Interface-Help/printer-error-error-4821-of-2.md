@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6fb63b55-46b5-a74b-01ad-8caeca190c12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,6 +23,5 @@ There is some problem that prevents printing. This error has the following cause
 - Your printer is jammed or out of paper. Physically correct the problem.
     
 - You tried to print a form to a printer that can accept only text. Switch to an installed printer that can print graphics.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

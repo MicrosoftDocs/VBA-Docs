@@ -1,5 +1,5 @@
 ---
-title: DistListItem.RemoveMembers Method (Outlook)
+title: DistListItem.RemoveMembers method (Outlook)
 keywords: vbaol11.chm1155
 f1_keywords:
 - vbaol11.chm1155
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.RemoveMembers
 ms.assetid: 7212e075-9982-57c8-ac22-a62d3e5b3d2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.RemoveMembers Method (Outlook)
+# DistListItem.RemoveMembers method (Outlook)
 
 Removes members from a distribution list.
 
 
 ## Syntax
 
- _expression_. `RemoveMembers`( `_Recipients_` )
+_expression_. `RemoveMembers`( `_Recipients_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Parameters
@@ -84,3 +85,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

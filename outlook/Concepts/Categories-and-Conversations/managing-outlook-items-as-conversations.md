@@ -3,6 +3,7 @@ title: Managing Outlook Items as Conversations
 ms.prod: outlook
 ms.assetid: d91959d7-07b2-7952-8e6d-a39422d355e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -42,3 +43,4 @@ In addition, you can apply actions to all existing and future items of a convers
 
  [How to: Obtain and Enumerate Selected Conversations](obtain-and-enumerate-selected-conversations.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

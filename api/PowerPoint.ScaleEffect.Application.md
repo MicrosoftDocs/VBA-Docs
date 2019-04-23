@@ -1,5 +1,5 @@
 ---
-title: ScaleEffect.Application Property (PowerPoint)
+title: ScaleEffect.Application property (PowerPoint)
 keywords: vbapp10.chm660001
 f1_keywords:
 - vbapp10.chm660001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ScaleEffect.Application
 ms.assetid: f8d2b629-76f9-be62-ea9f-a43427a211dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScaleEffect.Application Property (PowerPoint)
+# ScaleEffect.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

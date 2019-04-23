@@ -1,5 +1,5 @@
 ---
-title: BorderArtFormat.Set Method (Publisher)
+title: BorderArtFormat.Set method (Publisher)
 keywords: vbapb10.chm7602185
 f1_keywords:
 - vbapb10.chm7602185
@@ -8,17 +8,18 @@ api_name:
 - Publisher.BorderArtFormat.Set
 ms.assetid: e068037b-56b6-a114-6b22-568ea20d6b25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArtFormat.Set Method (Publisher)
+# BorderArtFormat.Set method (Publisher)
 
 Sets the type of BorderArt applied to the specified shape.
 
 
 ## Syntax
 
- _expression_. **Set**(**_BorderArtName_**)
+_expression_.**Set**(**_BorderArtName_**)
 
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
@@ -67,3 +68,4 @@ End Sub
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

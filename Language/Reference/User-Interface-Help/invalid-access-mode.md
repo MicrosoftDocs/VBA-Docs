@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a9bb907d-a3e7-993b-9964-d8e6dc163acc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,3 +25,4 @@ In your  **Open** statement, you specified a type of access that was invalid for
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

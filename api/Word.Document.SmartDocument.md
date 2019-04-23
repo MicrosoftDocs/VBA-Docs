@@ -1,5 +1,5 @@
 ---
-title: Document.SmartDocument Property (Word)
+title: Document.SmartDocument property (Word)
 keywords: vbawd10.chm158007758
 f1_keywords:
 - vbawd10.chm158007758
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.SmartDocument
 ms.assetid: f9671c26-208e-1682-c792-661b701308a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.SmartDocument Property (Word)
+# Document.SmartDocument property (Word)
 
 Returns a  **SmartDocument** object that represents the settings for a smart document solution.
 
 
 ## Syntax
 
- _expression_. `SmartDocument`
+_expression_. `SmartDocument`
 
- _expression_ An expression that returns a '[Document](Word.Document.md)' object.
+ _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.SmartDocument.PickSolution
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

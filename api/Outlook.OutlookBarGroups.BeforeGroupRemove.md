@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.BeforeGroupRemove Event (Outlook)
+title: OutlookBarGroups.BeforeGroupRemove event (Outlook)
 keywords: vbaol11.chm357
 f1_keywords:
 - vbaol11.chm357
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarGroups.BeforeGroupRemove
 ms.assetid: b3ad5d29-c906-ebe7-02b7-145091ddccce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.BeforeGroupRemove Event (Outlook)
+# OutlookBarGroups.BeforeGroupRemove event (Outlook)
 
 Occurs before a new group is removed from the  **Shortcuts** pane, either as a result of user action or through program code.
 
 
 ## Syntax
 
- _expression_. `BeforeGroupRemove`( `_Group_` , `_Cancel_` )
+_expression_. `BeforeGroupRemove`( `_Group_` , `_Cancel_` )
 
- _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Occurs before a new group is removed from the  **Shortcuts** pane, either as a r
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Group_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The  **OutlookBarGroup** that is being removed.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the group is not removed from the **Shortcuts** pane.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the group is not removed from the **Shortcuts** pane.|
 
 ## Remarks
 
@@ -62,3 +63,4 @@ End Sub
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TimelineView.LockUserChanges Property (Outlook)
+title: TimelineView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2652
 f1_keywords:
 - vbaol11.chm2652
@@ -8,29 +8,30 @@ api_name:
 - Outlook.TimelineView.LockUserChanges
 ms.assetid: 1e7dcc85-58a2-5599-9a48-8405331d04c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TimelineView.LockUserChanges Property (Outlook)
+# TimelineView.LockUserChanges property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 
 
 ## Syntax
 
- _expression_. `LockUserChanges`
+_expression_. `LockUserChanges`
 
- _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 
 
 ## Remarks
 
-If  **True** , the user can modify the settings of the specified view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If  **True**, the user can modify the settings of the specified view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example, the procedure is always called with the **Boolean** value set to **True** .
+The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example, the procedure is always called with the **Boolean** value set to **True**.
 
 
 ```vb
@@ -115,3 +116,4 @@ End Sub
 
 [TimelineView Object](Outlook.TimelineView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

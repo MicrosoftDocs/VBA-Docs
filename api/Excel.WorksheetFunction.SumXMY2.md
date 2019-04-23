@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumXMY2 Method (Excel)
+title: WorksheetFunction.SumXMY2 method (Excel)
 keywords: vbaxl10.chm137207
 f1_keywords:
 - vbaxl10.chm137207
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.SumXMY2
 ms.assetid: 189d23bd-742e-96b7-3638-ea7af795f583
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.SumXMY2 Method (Excel)
+# WorksheetFunction.SumXMY2 method (Excel)
 
 Returns the sum of squares of differences of corresponding values in two arrays.
 
 
 ## Syntax
 
- _expression_. `SumXMY2`( `_Arg1_` , `_Arg2_` )
+_expression_. `SumXMY2`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

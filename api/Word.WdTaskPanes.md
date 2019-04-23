@@ -1,14 +1,15 @@
 ---
-title: WdTaskPanes Enumeration (Word)
+title: WdTaskPanes enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTaskPanes
 ms.assetid: 7b187018-8ccc-99ff-cc35-ba51ec83dcca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdTaskPanes Enumeration (Word)
+# WdTaskPanes enumeration (Word)
 
 Specifies the type of task pane.
 
@@ -36,3 +37,4 @@ Specifies the type of task pane.
 | **wdTaskPaneXMLMapping**|21|XML mapping pane.|
 | **wdTaskPaneXMLStructure**|5|XML structure pane.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

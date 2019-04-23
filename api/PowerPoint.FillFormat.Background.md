@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Background Method (PowerPoint)
+title: FillFormat.Background method (PowerPoint)
 keywords: vbapp10.chm552002
 f1_keywords:
 - vbapp10.chm552002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.Background
 ms.assetid: 4c82e3d3-86cd-d18f-ead1-9fc2dda5efd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Background Method (PowerPoint)
+# FillFormat.Background method (PowerPoint)
 
 Specifies that the shape's fill should match the slide background. If you change the slide background after applying this method to a fill, the fill will also change.
 
 
 ## Syntax
 
- _expression_. `Background`
+_expression_. `Background`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -69,3 +70,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

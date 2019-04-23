@@ -3,6 +3,7 @@ title: Search the Inbox for Items with Subject Containing "Office"
 ms.prod: outlook
 ms.assetid: 2a2fa978-8652-edd4-ad8f-efeffc8faf65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -84,4 +85,4 @@ Sub TestSearchWithTable()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

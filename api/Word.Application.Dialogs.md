@@ -1,5 +1,5 @@
 ---
-title: Application.Dialogs Property (Word)
+title: Application.Dialogs property (Word)
 keywords: vbawd10.chm158334995
 f1_keywords:
 - vbawd10.chm158334995
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.Dialogs
 ms.assetid: 17acdfab-32d2-ddb8-04aa-692f9ffb20b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Dialogs Property (Word)
+# Application.Dialogs property (Word)
 
 Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 
 
 ## Syntax
 
- _expression_. `Dialogs`
+_expression_. `Dialogs`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -73,3 +74,4 @@ Dialogs(wdDialogFilePrint).Execute
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

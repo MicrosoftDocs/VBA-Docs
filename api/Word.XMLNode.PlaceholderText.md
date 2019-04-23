@@ -1,5 +1,5 @@
 ---
-title: XMLNode.PlaceholderText Property (Word)
+title: XMLNode.PlaceholderText property (Word)
 keywords: vbawd10.chm37748761
 f1_keywords:
 - vbawd10.chm37748761
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLNode.PlaceholderText
 ms.assetid: a7c8fc01-ecb7-3587-8ae1-3c340446a304
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLNode.PlaceholderText Property (Word)
+# XMLNode.PlaceholderText property (Word)
 
 Sets or returns a  **String** that represents the text displayed for an element that contains no text.
 
 
 ## Syntax
 
- _expression_. `PlaceholderText`
+_expression_. `PlaceholderText`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
@@ -47,3 +48,4 @@ objNode.PlaceholderText = "Enter Book Information Here"
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

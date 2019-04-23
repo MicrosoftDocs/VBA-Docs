@@ -2,6 +2,7 @@
 title: idMSOs supported in Excel for Mac
 ms.prod: office
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 # idMSOs supported in Excel for Mac
 
@@ -627,12 +628,12 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |PictureArtisticEffectsGallery|gallery|
 |PictureArtisticEffectsReset|button|
 |PictureBackgroundRemoval|toggleButton|
-|PictureBrightnessAndContrastGallery|galler|
+|PictureBrightnessAndContrastGallery|gallery|
 |PictureChange|button|
 |PictureColorDialog|button|
 |PictureColorMenu|menu|
 |PictureColorReset|button|
-|PictureColorTempertatureGallery|galler|
+|PictureColorTempertatureGallery|gallery|
 |PictureCorrectionsDialog|button|
 |PictureCorrectionsMenu|menu|
 |PictureCorrectionsReset|button|
@@ -658,18 +659,18 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |PictureFillCrop|button|
 |PictureFitCrop|button|
 |PictureInsertFromFile|button|
-|PictureRecolorGallery|galler|
+|PictureRecolorGallery|gallery|
 |PictureRecolorMoreColorsDialog|button|
 |PictureReflectionGallery|gallery|
 |PictureReset|button|
 |PictureResetAndSize|button|
 |PictureResetSplitButton|splitButton|
 |PictureRotationGallery|gallery|
-|PictureSaturationGallery|galler|
+|PictureSaturationGallery|gallery|
 |PicturesCompress|button|
 |PictureSetTransparentColor|toggleButton|
 |PictureShapeGallery|gallery|
-|PictureSharpenSoftenGallery|galler|
+|PictureSharpenSoftenGallery|gallery|
 |PictureStylesGallery|gallery|
 |PictureTransparencyGallery|gallery|
 |PivotClearAll|button|
@@ -1047,3 +1048,5 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |ZoomCurrent100|button|
 |ZoomIn|button|
 |ZoomOut|button|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

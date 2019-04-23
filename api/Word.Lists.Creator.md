@@ -1,5 +1,5 @@
 ---
-title: Lists.Creator Property (Word)
+title: Lists.Creator property (Word)
 keywords: vbawd10.chm160629737
 f1_keywords:
 - vbawd10.chm160629737
@@ -8,19 +8,20 @@ api_name:
 - Word.Lists.Creator
 ms.assetid: 9c7a1ba2-479b-30af-1a9c-4f0f7fb73bf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Lists.Creator Property (Word)
+# Lists.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Lists](Word.lists.md)' collection.
+_expression_ Required. A variable that represents a '[Lists](Word.lists.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Lists Collection Object](Word.lists.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

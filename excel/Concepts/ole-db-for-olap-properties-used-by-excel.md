@@ -1,20 +1,21 @@
 ---
-title: OLE DB for OLAP Properties Used by Excel
+title: OLE DB for OLAP properties used by Excel
 ms.prod: excel
 ms.assetid: 5caa2240-1f7b-08d7-c87b-ec30f3bcb441
-ms.date: 06/08/2017
+ms.date: 01/18/2019
+localization_priority: Normal
 ---
 
 
-# OLE DB for OLAP Properties Used by Excel
+# OLE DB for OLAP properties used by Excel
 
 Microsoft Excel uses an OLE DB for OLAP (OnLine Analytical Processing) provider to connect to OLAP cubes. When connecting to an OLAP cube, Excel reads and sets various OLE DB and OLE DB for OLAP properties. Excel considers Connection properties, Data Source Information Properties, Schema Rowset Queries, and Cell properties. 
 
 Rather than address all the existing properties, this topic focuses on the properties that have a unique relationship with Excel. OLAP connections in Excel are used for PivotTables and OLAP Formulas. When you are testing an existing OLAP provider, it is recommended that you have Excel read a set of provider properties to determine whether an OLAP provider supports the features required for OLAP PivotTable design and functionality. If the provider does not support certain capabilities, the features that depend on these capabilities are either disabled or limited. Other properties are set in order to get desired behavior, and if these properties are not implemented for an OLAP provider, Excel might not work with it.
 
-## Connection Properties
+## Connection properties
 
-|**Property Set**|**Property**|**Set if**|**Set to**|
+|Property set|Property|Set if|Set to|
 |:-----|:-----|:-----|:-----|
 |DBPROPSET_MSOLAPINIT|DBPROP_MSMD_SAFETY_OPTIONS|Supported|OLAPUDFSecurity reg key or DBPROPVAL_MSMD_SAFETY_OPTIONS_ALLOW_SAFESee also: [Safety Options Property](https://msdn.microsoft.com/library/aa237323.aspx).|
 |DBPROPSET_MSOLAPINIT|DBPROP_MSMD_MDXCOMPATIBILITY|Supported|DBPROP_MSMD_MDXCOMPATIBILITY_70See also: [MDX Compatibility Property](https://msdn.microsoft.com/library/aa256070.aspx).|
@@ -28,14 +29,14 @@ Rather than address all the existing properties, this topic focuses on the prope
 |DBPROPSET_DBINIT|DBPROP_CMD_PROMPT|Supported|Not OLAP specific. Set before making the connection.|
 |DBPROPSET_DBINIT|DBPROP_CMD_HWND|Supported|Not OLAP specific. Set before making the connection.|
 
-## Data Source Information
+## Data source information
 
-|**Property Set**|**Property**|**Value**|**Use**|
+|Property set|Property|Value|Use|
 |:-----|:-----|:-----|:-----|
 |DBPROPSET_MDX_EXTENSIONS|DBPROP_MSMD_MDX_DDL_EXTENSIONS|If bit set for DBPROPVAL_MDX_DLL_CREATESESSIONCUBE.|The grouping feature of OLAP PivotTables is enabled if  `CREATE SESSION CUBE` is supported.|
 |DBPROPSET_MDX_EXTENSIONS|DBPROP_MSMD_MDX_DDL_EXTENSIONS|If bit set for DBPROPVAL_MDX_DDL_REFRESHCUBE.|If  `REFRESH CUBE` command is supported, Excel executes it when an OLAP PivotTable is refreshed.|
 |DBPROPSET_MDX_EXTENSIONS|DBPROP_MSMD_MDX_CALCMEMB_EXTENSIONS|If bit set for DBPROPVAL_MDX_CALCMEMB_ADD.|The show calculated members feature in OLAP PivotTable is enabled if  `ADDCALCULATEDMEMBERS` is supported in MDX (Multidimensional Expressions).|
-|DBPROPSET_DATASOURCEINFO| [MDPROP_MDX_FORMULAS ](https://msdn.microsoft.com/library/ms709719.aspx)|If both bits set MDPROPVAL_MF_SCOPE_SESSION, MDPROPVAL_MF_CREATE_CALCMEMBERS.|If the provider supports creating session members ( `CREATE SESSION MEMBER`), Excel enables this feature in OLAP PivotTables (only available in the object model in Excel).|
+|DBPROPSET_DATASOURCEINFO| [MDPROP_MDX_FORMULAS](https://msdn.microsoft.com/library/ms709719.aspx)|If both bits set MDPROPVAL_MF_SCOPE_SESSION, MDPROPVAL_MF_CREATE_CALCMEMBERS.|If the provider supports creating session members ( `CREATE SESSION MEMBER`), Excel enables this feature in OLAP PivotTables (only available in the object model in Excel).|
 |DBPROPSET_SESSION|DBPROP_VISUALMODE|If supported (and subselect not supported, see MDPROP_MDX_SUBQUERIES below). |Enables control of Include hidden items in totals (toggle visual totals).|
 |DBPROPSET_DATASOURCEINFO|MDPROP_MDX_SUBQUERIES|If the two lowest bits are set (with this, Excel does not support non-visual totals, see DBPROP_VISUALMODE above).|Enables Label, Date, and Value filtering in Excel PivotTables. Generally uses Excel MDX query construction. Note that this property is introduced with SQL Server 2005 Service Pack 2. Value is always  `VARIANT_TRUE` in msolap90.dll.|
 |DBPROPSET_DATASOURCEINFO|MDPROP_MDX_DRILL_FUNCTIONS||If the two lowest bits of this property are set, Excel interprets it as the server supporting tuple-based drilling with the  `DrillDownLevel` and `DrillDownMember` functions.However, Excel only allows attribute drilling if the lowest two bits of  `MDPROP_MDX_SUBQUERIES` are also set (subselects supported).|
@@ -44,11 +45,11 @@ Rather than address all the existing properties, this topic focuses on the prope
 |DBPROPSET_DATASOURCEINFO| [MDPROP_MDX_SET_FUNCTIONS](https://msdn.microsoft.com/library/ms711600.aspx)||Excel queries for this property, but it has no feature-relevant effect.|
 |DBPROPSET_DATASOURCEINFO| [DBPROP_DBMSVER](https://msdn.microsoft.com/library/ms719676.aspx)|Excel checks whether this value is a string.|Excel does not check the actual value of this property; it only verifies whether it is a string. If it is not a string, Excel fails to connect.|
 |DBPROPSET_DATASOURCEINFO| [DBPROP_DATASOURCE_TYPE](https://msdn.microsoft.com/library/ms722595.aspx)|Excel checks whether the second lowest bit is set (DBPROPVAL_DST_MDP).|If the lowest bit is set, the provider is considered a multidimensional (OLAP) provider.|
-|DBPROPSET_ROWSET| [DBPROP_ROWSET_ASYNCH](https://msdn.microsoft.com/library/ms717927.aspx)|If supported.|Excel tries to set this to  `DBPROPVAL_ASYNCH_INITIALIZE` but if this fails, Excel falls back into synchronous mode.If supported, it enables Excel to support the user pressing the  **Esc** key to stop query execution before it is finished.|
+|DBPROPSET_ROWSET| [DBPROP_ROWSET_ASYNCH](https://msdn.microsoft.com/library/ms717927.aspx)|If supported.|Excel tries to set this to  `DBPROPVAL_ASYNCH_INITIALIZE` but if this fails, Excel falls back into synchronous mode.If supported, it enables Excel to support the user pressing the **Esc** key to stop query execution before it is finished.|
 
-## Schema Rowset Queries
+## Schema rowset queries
 
-|**Schema Rowset**|**Column**|**Value**|**Controls**|
+|Schema rowset|Column|Value|Controls|
 |:-----|:-----|:-----|:-----|
 | [MDSCHEMA_CUBES](https://msdn.microsoft.com/library/aa179343.aspx)|IS_DRILLTHROUGH_ENABLED|TRUE|If set to TRUE, the drill-through (Show Details) feature is enabled for cells in the OLAP PivotTable values area.|
 | [MDSCHEMA_HIERARCHIES](https://msdn.microsoft.com/library/aa179350.aspx)|STRUCTURE|MD_STRUCTURE_UNBALANCED|Excel has special handling of filtering for unbalanced hierarchies, so these are marked as such for control purposes.|
@@ -62,19 +63,42 @@ Rather than address all the existing properties, this topic focuses on the prope
 | [MDSCHEMA_KPIS](https://msdn.microsoft.com/library/ms126258.aspx)|KPI_PARENT_KPI_NAME||Excel reads this property to place child KPIs in subfolders under their parent KPI in the PivotTable Field List (if display folders are defined, those are used instead).|
 | [MDSCHEMA_KPIS](https://msdn.microsoft.com/library/ms126258.aspx)|KPI_TREND_GRAPHIC||Excel reads this property and, based on the value, maps it to the closest conditional formatting icon set in Excel when Trend is added to the PivotTable.|
 | [MDSCHEMA_KPIS](https://msdn.microsoft.com/library/ms126258.aspx)|KPI_STATUS_GRAPHIC||Excel reads this property and, based on the value, maps it to the closest conditional formatting icon set in Excel when Status is added to the PivotTable.|
-| [MDSCHEMA_ACTIONS](https://msdn.microsoft.com/library/ms126032.aspx)|||Additional Actions feature. Excel exposes server-defined actions in the shortcut menu of an OLAP PivotTable report when actions exist on the server for the selected context.|
-| [MDSCHEMA_MEASURES](https://msdn.microsoft.com/library/ms126250.aspx)|MEASURE_DISPLAY_FOLDER||Read by Excel so it can place measures in the correct display folder in the PivotTable Field List.|
-| [MDSCHEMA_MEASURES](https://msdn.microsoft.com/library/ms126250.aspx)|EXPRESSION||Read by Excel to determine whether a measure is calculated. If it is a string and not empty, Excel considers it a calculated measure.|
-| [MDSCHEMA_PROPERTIES](https://msdn.microsoft.com/library/ms126309.aspx)|PROPERTY_NAME|"MEMBER_VALUE" This schema also used for getting regular member properties. The "MEMBER_VALUE" value is a special case, but there are other usage.|Excel gets the member value property of the key attribute in a dimension by restricting to "MEMBER_VALUE" in the PROPERTY_NAME column.If the data type (DATA_TYPE) of the MEMBER_VALUE property of the key attribute of a Time dimension is  **Date**, the PivotTable exposes date filtering instead of label filtering. The actual date filtering is done based on the member value property of the key independent of which hierarchy of that dimension is filtered.<table><tr><th>**Note**</th></tr><tr><td>Date filtering requires support for subselects (see MDPROP_MDX_SUBQUERIES above).</td></tr></table>|
+| [MDSCHEMA_ACTIONS](https://docs.microsoft.com/previous-versions/sql/sql-server-2012/ms126032(v%3dsql.110))|||Additional Actions feature. Excel exposes server-defined actions in the shortcut menu of an OLAP PivotTable report when actions exist on the server for the selected context.|
+| [MDSCHEMA_MEASURES](https://docs.microsoft.com/previous-versions/sql/sql-server-2012/ms126250(v%3dsql.110))|MEASURE_DISPLAY_FOLDER||Read by Excel so it can place measures in the correct display folder in the PivotTable Field List.|
+| [MDSCHEMA_MEASURES](https://docs.microsoft.com/previous-versions/sql/sql-server-2012/ms126250(v%3dsql.110)))|EXPRESSION||Read by Excel to determine whether a measure is calculated. If it is a string and not empty, Excel considers it a calculated measure.|
+| [MDSCHEMA_PROPERTIES](https://msdn.microsoft.com/library/ms126309.aspx)|PROPERTY_NAME|"MEMBER_VALUE" This schema also used for getting regular member properties. The "MEMBER_VALUE" value is a special case, but there are other usage.|Excel gets the member value property of the key attribute in a dimension by restricting to "MEMBER_VALUE" in the PROPERTY_NAME column.If the data type (DATA_TYPE) of the MEMBER_VALUE property of the key attribute of a Time dimension is **Date**, the PivotTable exposes date filtering instead of label filtering. The actual date filtering is done based on the member value property of the key independent of which hierarchy of that dimension is filtered.<table><tr><th>**Note**</th></tr><tr><td>Date filtering requires support for subselects (see MDPROP_MDX_SUBQUERIES above).</td></tr></table>|
 |MDSCHEMA_DISCOVER|RESTRICTIONS||Depending on usage, Excel restricts on hierarchies, levels, or measures when reading the MDSCHEMA_DISCOVER rowset to get the RESTRICTIONS. Excel reads schema row by row and finds list of restrictions for all other relevant schemas to obtain the index of the restrictions that affect Excel. The RESTRICTIONS column has a chapter handle to another row set from which Excel looks at the NAME column. In the NAME column, Excel expects to find the strings HIERARCHY_VISIBILITY, MEASURE_VISIBILITY, LEVEL_VISIBILITY (if the provider supports restriction on visibility). If Excel cannot find <xxx&gt;_VISIBILITY strings (or if MDSCHEMA_DISCOVER is not supported) it will assume that provider doesn't support returning hidden items, and it will not query for them.|
 | [MDSCHEMA_LEVELS](https://msdn.microsoft.com/library/ms126038.aspx)|LEVEL_ATTRIBUTE_HIERARCHY_NAME||Used by Excel to hide special grouping levels with system-generated names. Note that this is not needed with Microsoft SQL Server 2005 Analysis Services Service Pack 2.|
 | [MDSCHEMA_LEVELS](https://msdn.microsoft.com/library/ms126038.aspx)|CUSTOM_ROLLUP_SETTINGS|0|If not 0, Excel assumes the level has custom rollup. Excel checks this for all levels of each hierarchy, and if custom rollup is present, some operations are disabled (such as grouping).|
 
-## Cell Properties
+## Cell properties
 
-|**Property Name**|**Use**|
-|:-----|:-----|
-| **Language**|<p>LCID for determining how to interpret  `FORMAT_STRING` when it is **CURRENCY**.</p> <p>Excel uses this property to determine which currency symbol to use when formatting values with  `FORMAT_STRING` set to **Currency**.</p>  <p>[Retrieving Cell Properties](https://msdn.microsoft.com/library/ms715853.aspx)</p><p>Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up: </p><p>```CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit]``` </p><p> ```AS``` </p><p> ```[Measures].[Internet Sales Amount]```  </p><p> ```-``` </p><p> ```[Measures].[Internet Total Product Cost],  ``` </p><p> ```FORMAT_STRING = "Currency",``` </p><p> ```BACK_COLOR = 12615680 /*R=0, G=128, B=192*/,``` </p><p> ```FORE_COLOR = 65408 /*R=128, G=255, B=0*/, ```</p><p>```FONT_FLAGS = 3 /*Bold, Italic*/, ```</p><p>```NON_EMPTY_BEHAVIOR = { [Internet Sales Amount], [Internet Total Product Cost] },``` </p><p> ```VISIBLE = 1,``` </p><p> ```LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;```</p>|
+### Property name
+
+**Language**
+
+### Use
+
+LCID for determining how to interpret `FORMAT_STRING` when it is **CURRENCY**.
+
+Excel uses this property to determine which currency symbol to use when formatting values with `FORMAT_STRING` set to **Currency**. For more information, see [Retrieving cell properties](https://docs.microsoft.com/previous-versions/windows/desktop/ms715853(v=vs.85)).
+
+Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up:
+
+```vb
+CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit]
+AS
+[Measures].[Internet Sales Amount]
+-
+[Measures].[Internet Total Product Cost],
+FORMAT_STRING = "Currency",
+BACK_COLOR = 12615680 /*R=0, G=128, B=192*/,
+FORE_COLOR = 65408 /*R=128, G=255, B=0*/,
+FONT_FLAGS = 3 /*Bold, Italic*/,
+NON_EMPTY_BEHAVIOR = { [Internet Sales Amount], [Internet Total Product Cost] },
+VISIBLE = 1,
+LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;|
+```
 
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

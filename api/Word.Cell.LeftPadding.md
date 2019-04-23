@@ -1,5 +1,5 @@
 ---
-title: Cell.LeftPadding Property (Word)
+title: Cell.LeftPadding property (Word)
 keywords: vbawd10.chm156106865
 f1_keywords:
 - vbawd10.chm156106865
@@ -8,17 +8,18 @@ api_name:
 - Word.Cell.LeftPadding
 ms.assetid: b80dba74-7f12-0258-de03-e9941b6b1f4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.LeftPadding Property (Word)
+# Cell.LeftPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the left of the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the left of the contents of a single cell or all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 
@@ -44,3 +45,4 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).LeftPadding = _
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

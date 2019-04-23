@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane Object (Office)
+title: CustomTaskPane object (Office)
 keywords: vbaof11.chm3030000
 f1_keywords:
 - vbaof11.chm3030000
@@ -7,21 +7,22 @@ ms.prod: office
 api_name:
 - Office.CustomTaskPane
 ms.assetid: 7ed379b7-d070-4d7b-abe1-92dc73d3d137
-ms.date: 06/08/2017
+ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 
-# CustomTaskPane Object (Office)
+# CustomTaskPane object (Office)
 
 Represents a custom task pane in the container application.
 
 
 ## Example
 
-The following example, written in C#, creates an instance of a  **CustomTaskPane** object and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **ICTPFactory** object to the add-in, which you can use during the add-in's lifetime to create a task pane by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also references a Microsoft ActiveX® control, SampleActiveX.myControl, that was created in a separate project.
+The following example, written in C#, creates an instance of a **CustomTaskPane** object and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **ICTPFactory** object to the add-in, which you can use during the add-in's lifetime to create a task pane by using the **CreateCTP** method. Note that the example assumes that the task pane is part of a COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also references a Microsoft ActiveX control, **SampleActiveX.myControl**, that was created in a separate project.
 
 
-```vb
+```cs
 public class Connect : Object, Extensibility.IDTExtensibility2, ICustomTaskPaneConsumer 
 ... 
 object missing = Type.Missing; 
@@ -39,46 +40,12 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 > [!NOTE] 
-> You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files. For example, Microsoft Visual Basic® 6.0, Microsoft Visual Basic .NET, Microsoft Visual C++®, Microsoft Visual C++ .NET, and Microsoft Visual C#®. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
+> You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files; for example, Microsoft Visual Basic 6.0, Visual Basic .NET, Visual C++, Visual C++ .NET, and Visual C#. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
 
-
-## Events
-
-
-
-|**Name**|
-|:-----|
-|[DockPositionStateChange](Office.CustomTaskPane.DockPositionStateChange.md)|
-|[VisibleStateChange](Office.CustomTaskPane.VisibleStateChange.md)|
-
-## Methods
-
-
-
-|**Name**|
-|:-----|
-|[Delete](Office.CustomTaskPane.Delete.md)|
-
-## Properties
-
-
-
-|**Name**|
-|:-----|
-|[Application](Office.CustomTaskPane.Application.md)|
-|[ContentControl](Office.CustomTaskPane.ContentControl.md)|
-|[DockPosition](Office.CustomTaskPane.DockPosition.md)|
-|[DockPositionRestrict](Office.CustomTaskPane.DockPositionRestrict.md)|
-|[Height](Office.CustomTaskPane.Height.md)|
-|[Title](Office.CustomTaskPane.Title.md)|
-|[Visible](Office.CustomTaskPane.Visible.md)|
-|[Width](Office.CustomTaskPane.Width.md)|
-|[Window](Office.CustomTaskPane.Window.md)|
 
 ## See also
 
+- [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Extending a Form Region with an Add-in
 ms.prod: outlook
 ms.assetid: b1a28a20-a0b8-cc57-7672-da51ec8bb097
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,7 +36,7 @@ In the same class that implements the **IDTExtensibility2** interface of your CO
 
 ## GetFormRegionStorage
 
-When Outlook is about to display a form region that is controlled by an add-in, Outlook will call the **GetFormRegionStorage** method. When the add-in receives a call from Outlook to **GetFormRegionStorage** specifying information for a form region, the add-in will return information for the layout. This information can be a local path to the layout file (.OFS file), a Microsoft Windows **IStorage** object, or a byte array with the contents of the OFS file, which allows an add-in to store the OFS as a resoruce. Outlook will use the returned information to instantiate controls and calculate the layout for the form region. Outlook will also instantiate a **[FormRegion](../../../api/Outlook.FormRegion.md)** object for the form region. The method prototype for **GetFormRegionStorage** in Microsoft Visual Basic and Microsoft C# are shown below.
+When Outlook is about to display a form region that is controlled by an add-in, Outlook will call the **GetFormRegionStorage** method. When the add-in receives a call from Outlook to **GetFormRegionStorage** specifying information for a form region, the add-in will return information for the layout. This information can be a local path to the layout file (.OFS file), a Microsoft Windows **IStorage** object, or a byte array with the contents of the OFS file, which allows an add-in to store the OFS as a resource. Outlook will use the returned information to instantiate controls and calculate the layout for the form region. Outlook will also instantiate a **[FormRegion](../../../api/Outlook.FormRegion.md)** object for the form region. The method prototype for **GetFormRegionStorage** in Microsoft Visual Basic and Microsoft C# are shown below.
 
 In Visual Basic: 
 
@@ -226,4 +227,4 @@ In C#:
 public object GetFormRegionIcon(string FormRegionName, int LCID, Outlook.OlFormRegionIcon Icon)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

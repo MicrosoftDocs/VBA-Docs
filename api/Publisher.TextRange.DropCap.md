@@ -1,5 +1,5 @@
 ---
-title: TextRange.DropCap Property (Publisher)
+title: TextRange.DropCap property (Publisher)
 keywords: vbapb10.chm5308472
 f1_keywords:
 - vbapb10.chm5308472
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.DropCap
 ms.assetid: a5c29dd4-62f4-39fb-4b76-390d62bd8e32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.DropCap Property (Publisher)
+# TextRange.DropCap property (Publisher)
 
 Returns a  **[DropCap](Publisher.DropCap.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
 
 
 ## Syntax
 
- _expression_. **DropCap**
+_expression_.**DropCap**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -46,4 +47,4 @@ Sub SetDropCap()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

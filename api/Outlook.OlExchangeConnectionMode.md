@@ -1,5 +1,5 @@
 ---
-title: OlExchangeConnectionMode Enumeration (Outlook)
+title: OlExchangeConnectionMode enumeration (Outlook)
 keywords: vbaol11.chm3098
 f1_keywords:
 - vbaol11.chm3098
@@ -8,10 +8,11 @@ api_name:
 - Outlook.OlExchangeConnectionMode
 ms.assetid: ab43999d-f578-65ab-1f3d-455c66022901
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlExchangeConnectionMode Enumeration (Outlook)
+# OlExchangeConnectionMode enumeration (Outlook)
 
 Specifies whether the account is connected to an Exchange server and if so, the connection mode.
 
@@ -29,3 +30,4 @@ Specifies whether the account is connected to an Exchange server and if so, the 
 | **olOffline**|100|The account is not connected to an Exchange server and is in the classic offline mode. This also occurs when the user selects  **Work Offline** from the **File** menu.|
 | **olOnline**|800|The account is connected to an Exchange server and is in the classic online mode.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

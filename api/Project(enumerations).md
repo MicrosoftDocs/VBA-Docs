@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the Project object model.
 ms.prod: project-server
 ms.assetid: 40a46a69-d5d5-48e8-ad97-06e5695deccd
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 
@@ -184,3 +185,4 @@ This section contains documentation for the enumerations in the Project object m
 - [PjWorkContourType](Project.PjWorkContourType.md)
 - [PjYesNoAutomatic](Project.PjYesNoAutomatic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

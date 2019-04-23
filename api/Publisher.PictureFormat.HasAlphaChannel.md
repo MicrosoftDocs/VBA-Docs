@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.HasAlphaChannel Property (Publisher)
+title: PictureFormat.HasAlphaChannel property (Publisher)
 keywords: vbapb10.chm3604758
 f1_keywords:
 - vbapb10.chm3604758
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.HasAlphaChannel
 ms.assetid: 97739201-cd0d-cc78-a28e-935fb11da5b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.HasAlphaChannel Property (Publisher)
+# PictureFormat.HasAlphaChannel property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified picture contains an alpha channel. Read-only.
 
 
 ## Syntax
 
- _expression_. **HasAlphaChannel**
+_expression_.**HasAlphaChannel**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -36,7 +37,7 @@ The  **HasAlphaChannel** property value can be one of the **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified picture does not contain an alpha channel.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -64,4 +65,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

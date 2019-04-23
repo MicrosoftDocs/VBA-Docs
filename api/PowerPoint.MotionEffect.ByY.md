@@ -1,5 +1,5 @@
 ---
-title: MotionEffect.ByY Property (PowerPoint)
+title: MotionEffect.ByY property (PowerPoint)
 keywords: vbapp10.chm658004
 f1_keywords:
 - vbapp10.chm658004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.MotionEffect.ByY
 ms.assetid: 6797b2bd-edab-9bd2-e234-ffb9da57352a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MotionEffect.ByY Property (PowerPoint)
+# MotionEffect.ByY property (PowerPoint)
 
 Sets or returns a  **Single** that represents scaling or moving an object VERTICALLY by a specified percentage of the screen width, depending on whether it is used in conjunction with a **[ScaleEffect](PowerPoint.ScaleEffect.md)** or **[MotionEffect](PowerPoint.MotionEffect.md)** object, respectively. Read/write.
 
 
 ## Syntax
 
- _expression_. `ByY`
+_expression_. `ByY`
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
@@ -77,3 +78,4 @@ End Sub
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

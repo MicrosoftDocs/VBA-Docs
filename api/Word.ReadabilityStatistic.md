@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistic Object (Word)
+title: ReadabilityStatistic object (Word)
 keywords: vbawd10.chm2479
 f1_keywords:
 - vbawd10.chm2479
@@ -8,10 +8,11 @@ api_name:
 - Word.ReadabilityStatistic
 ms.assetid: 5e82c44d-fc6d-9586-816b-0c46c4a01f3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReadabilityStatistic Object (Word)
+# ReadabilityStatistic object (Word)
 
 Represents one of the readability statistics for a document or range. The  **ReadabilityStatistic** object is a member of the **ReadabilityStatistics** collection.
 
@@ -29,6 +30,6 @@ Msgbox ActiveDocument.Content.ReadabilityStatistics(2).Value
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

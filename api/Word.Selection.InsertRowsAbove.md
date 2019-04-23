@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertRowsAbove Method (Word)
+title: Selection.InsertRowsAbove method (Word)
 keywords: vbawd10.chm158663195
 f1_keywords:
 - vbawd10.chm158663195
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.InsertRowsAbove
 ms.assetid: f5387043-34d0-cd84-6550-bfd96bf661b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.InsertRowsAbove Method (Word)
+# Selection.InsertRowsAbove method (Word)
 
 Inserts rows above the current selection.
 
 
 ## Syntax
 
- _expression_. `InsertRowsAbove`
+_expression_. `InsertRowsAbove`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Selection.InsertRowsAbove
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

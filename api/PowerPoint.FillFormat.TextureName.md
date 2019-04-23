@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (PowerPoint)
+title: FillFormat.TextureName property (PowerPoint)
 keywords: vbapp10.chm552020
 f1_keywords:
 - vbapp10.chm552020
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.FillFormat.TextureName
 ms.assetid: c8ca47e7-90c8-50b8-2e7e-29e56ec0f70e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureName Property (PowerPoint)
+# FillFormat.TextureName property (PowerPoint)
 
 Returns the name of the custom texture file for the specified fill. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextureName`
+_expression_. `TextureName`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -60,3 +61,4 @@ End With
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

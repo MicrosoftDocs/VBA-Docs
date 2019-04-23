@@ -1,5 +1,5 @@
 ---
-title: PageSetup.OtherPagesTray Property (Word)
+title: PageSetup.OtherPagesTray property (Word)
 keywords: vbawd10.chm158400621
 f1_keywords:
 - vbawd10.chm158400621
@@ -8,19 +8,20 @@ api_name:
 - Word.PageSetup.OtherPagesTray
 ms.assetid: df6a8e6d-2b49-d633-cd2b-5d3099410a73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.OtherPagesTray Property (Word)
+# PageSetup.OtherPagesTray property (Word)
 
-Returns or sets the paper tray to be used for all but the first page of a document or section. Read/write  **WdPaperTray** .
+Returns or sets the paper tray to be used for all but the first page of a document or section. Read/write  **WdPaperTray**.
 
 
 ## Syntax
 
- _expression_. `OtherPagesTray`
+_expression_. `OtherPagesTray`
 
- _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
+_expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Example
@@ -47,3 +48,4 @@ Selection.PageSetup.OtherPagesTray = wdPrinterLowerBin
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

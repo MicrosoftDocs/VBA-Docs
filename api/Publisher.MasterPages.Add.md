@@ -1,5 +1,5 @@
 ---
-title: MasterPages.Add Method (Publisher)
+title: MasterPages.Add method (Publisher)
 keywords: vbapb10.chm589828
 f1_keywords:
 - vbapb10.chm589828
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MasterPages.Add
 ms.assetid: af237acb-9e4c-f9d8-685c-c86d58e9ee01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterPages.Add Method (Publisher)
+# MasterPages.Add method (Publisher)
 
 Adds a new  **Page** object to the specified **MasterPages** object and returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_IsTwoPageMaster_**,  **_Abbreviation_**,  **_Description_**, )
+_expression_.**Add**(**_IsTwoPageMaster_**,  **_Abbreviation_**,  **_Description_**, )
 
  _expression_ A variable that represents a  **MasterPages** object.
 
@@ -51,4 +52,4 @@ ActiveDocument.MasterPages.Add _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

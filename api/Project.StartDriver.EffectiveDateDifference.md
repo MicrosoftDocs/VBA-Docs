@@ -1,21 +1,22 @@
 ---
-title: StartDriver.EffectiveDateDifference Property (Project)
+title: StartDriver.EffectiveDateDifference property (Project)
 ms.prod: project-server
 api_name:
 - Project.StartDriver.EffectiveDateDifference
 ms.assetid: 9b825839-31de-71f8-9804-015dfd5a293c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# StartDriver.EffectiveDateDifference Property (Project)
+# StartDriver.EffectiveDateDifference property (Project)
 
 Gets the duration between two dates in minutes, using the effective calendar for a manually scheduled task. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `EffectiveDateDifference`( ` _StartDate_`, ` _FinishDate_` )
+_expression_. `EffectiveDateDifference`( `_StartDate_`, `_FinishDate_` )
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 
@@ -56,4 +57,4 @@ The following statement returns the value -840, which shows that the finish date
 Debug.Print ActiveProject.Tasks(3).StartDriver.EffectiveDateDifference("7/1/2009 3:00:00 PM", "6/30/2009 8:00:00 AM")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

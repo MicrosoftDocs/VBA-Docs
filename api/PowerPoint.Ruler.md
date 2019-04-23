@@ -1,5 +1,5 @@
 ---
-title: Ruler Object (PowerPoint)
+title: Ruler object (PowerPoint)
 keywords: vbapp10.chm570000
 f1_keywords:
 - vbapp10.chm570000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Ruler
 ms.assetid: dc6b78ae-4745-0bc8-1d28-831b1f30f86c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Ruler Object (PowerPoint)
+# Ruler object (PowerPoint)
 
 Represents the ruler for the text in the specified shape or for all text in the specified text style. Contains tab stops and the indentation settings for text outline levels.
 
@@ -52,3 +53,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

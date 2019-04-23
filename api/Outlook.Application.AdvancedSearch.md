@@ -1,5 +1,5 @@
 ---
-title: Application.AdvancedSearch Method (Outlook)
+title: Application.AdvancedSearch method (Outlook)
 keywords: vbaol11.chm728
 f1_keywords:
 - vbaol11.chm728
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Application.AdvancedSearch
 ms.assetid: 7b433d8b-08b9-dff1-b854-287d76b47a90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.AdvancedSearch Method (Outlook)
+# Application.AdvancedSearch method (Outlook)
 
 Performs a search based on a specified DAV Searching and Locating (DASL) search string.
 
 
 ## Syntax
 
- _expression_. `AdvancedSearch`( `_Scope_` , `_Filter_` , `_SearchSubFolders_` , `_Tag_` )
+_expression_. `AdvancedSearch`( `_Scope_` , `_Filter_` , `_SearchSubFolders_` , `_Tag_` )
 
- _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 
 
 ## Parameters
@@ -67,7 +68,7 @@ The  _Filter_ parameter can be any valid DASL query. For additional information 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example searches the  **Inbox** for items with subject equal to _Test_ and displays the names of the senders of the e-mail items returned by the search. The **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
+The following Visual Basic for Applications (VBA) example searches the  **Inbox** for items with subject equal to _Test_ and displays the names of the senders of the email items returned by the search. The **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
 
 
 ```vb
@@ -99,7 +100,7 @@ Sub TestAdvancedSearchComplete()
 End Sub
 ```
 
-The following Microsoft Visual Basic for Applications example uses the  **AdvancedSearch** method to create a new search. The parameters of the search, as specified by the _Filter_ argument of the **AdvancedSearch** method, will return all items in the Inbox and Sent Items folders where the Subject phrase-matches or contains "Office". The user's Inbox and Sent Items folders are specified as the scope of the search and the **[SearchSubFolders](Outlook.Search.SearchSubFolders.md)** property is set to **True** . When the search is complete, the **[GetTable](Outlook.Search.GetTable.md)** method is called on the **[Search](Outlook.Search.md)** object for performant enumeration of search results.
+The following Microsoft Visual Basic for Applications example uses the  **AdvancedSearch** method to create a new search. The parameters of the search, as specified by the _Filter_ argument of the **AdvancedSearch** method, will return all items in the Inbox and Sent Items folders where the Subject phrase-matches or contains "Office". The user's Inbox and Sent Items folders are specified as the scope of the search and the **[SearchSubFolders](Outlook.Search.SearchSubFolders.md)** property is set to **True**. When the search is complete, the **[GetTable](Outlook.Search.GetTable.md)** method is called on the **[Search](Outlook.Search.md)** object for performant enumeration of search results.
 
 
 
@@ -152,3 +153,4 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

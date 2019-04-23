@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (Publisher)
+title: ShapeRange.Select method (Publisher)
 keywords: vbapb10.chm2293799
 f1_keywords:
 - vbapb10.chm2293799
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Select
 ms.assetid: 3252ba74-d051-8c28-a9ed-c6f5ca711dec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Select Method (Publisher)
+# ShapeRange.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**(**_Replace_**)
+_expression_.**Select**(**_Replace_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -50,4 +51,4 @@ ActiveDocument.Pages(1).Shapes.Range(Array(2, 4)) _
  .Select Replace:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

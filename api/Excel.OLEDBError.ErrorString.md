@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBError.ErrorString
 ms.assetid: 64f4780a-e8bc-fbbf-9b06-02a78ebcb181
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the ODBC error string.
 
 ## Syntax
 
- _expression_. `ErrorString`
+_expression_. `ErrorString`
 
- _expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
+_expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** value that represents the ODBC error string.
 
 [OLEDBError Object](Excel.OLEDBError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

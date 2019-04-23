@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.Creator Property (Word)
+title: MailMergeFields.Creator property (Word)
 keywords: vbawd10.chm153027561
 f1_keywords:
 - vbawd10.chm153027561
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeFields.Creator
 ms.assetid: 959eab24-89b2-649b-7e8c-aabda9751c30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFields.Creator Property (Word)
+# MailMergeFields.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
+_expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

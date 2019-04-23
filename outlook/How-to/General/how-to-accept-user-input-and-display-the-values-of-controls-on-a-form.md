@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 5966b34a-7334-a82a-afbc-55d466c06d53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Accept User Input and Display the Values of Controls on a Form
+# Accept User Input and Display the Values of Controls on a Form
 
 The following example demonstrates the values that the different types of controls can have by displaying the  **Value** property of a selected control. The user chooses a control by pressing TAB or by clicking on the control. Depending on the type of control, the user can also specify a value for the control by typing in the text area of the control, by clicking one or more times on the control, or by selecting an item, page, or tab within the control. The user can display the value of the selected control by clicking the appropriately labeled **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 
@@ -79,4 +80,4 @@ Sub Item_Open()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

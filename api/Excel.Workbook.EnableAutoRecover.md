@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.EnableAutoRecover
 ms.assetid: 04a82e4d-0231-adf1-1289-35514372c995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.EnableAutoRecover property (Excel)
 
-Saves changed files, of all formats, on a timed interval. Read/write  **Boolean** .
+Saves changed files, of all formats, on a timed interval. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableAutoRecover`
+_expression_. `EnableAutoRecover`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -53,3 +54,4 @@ End Sub
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

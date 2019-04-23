@@ -1,5 +1,5 @@
 ---
-title: Selection.RtlRun Method (Word)
+title: Selection.RtlRun method (Word)
 keywords: vbawd10.chm158663256
 f1_keywords:
 - vbawd10.chm158663256
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.RtlRun
 ms.assetid: 759a16cd-24d7-7c0a-6315-47d395560c73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.RtlRun Method (Word)
+# Selection.RtlRun method (Word)
 
 Sets the reading order and alignment of the specified run to right-to-left.
 
 
 ## Syntax
 
- _expression_. `RtlRun`
+_expression_. `RtlRun`
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ If Selection.Style <> "Normal" Then _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

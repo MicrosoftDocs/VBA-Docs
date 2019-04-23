@@ -1,5 +1,5 @@
 ---
-title: Results.ItemChange Event (Outlook)
+title: Results.ItemChange event (Outlook)
 keywords: vbaol11.chm515
 f1_keywords:
 - vbaol11.chm515
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Results.ItemChange
 ms.assetid: 14c96a47-00b8-6160-f1aa-386947ef50d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Results.ItemChange Event (Outlook)
+# Results.ItemChange event (Outlook)
 
 Occurs when an item in the specified collection is changed.
 
 
 ## Syntax
 
- _expression_. `ItemChange`( `_Item_` )
+_expression_. `ItemChange`( `_Item_` )
 
- _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-This example uses the  **[Start](Outlook.AppointmentItem.Start.md)** property of the **[AppointmentItem](Outlook.AppointmentItem.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](Outlook.AppointmentItem.Sensitivity.md)** property of the **AppointmentItem** object is not already set to **olPrivate** , the example offers to mark the appointment as private.
+This example uses the  **[Start](Outlook.AppointmentItem.Start.md)** property of the **[AppointmentItem](Outlook.AppointmentItem.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](Outlook.AppointmentItem.Sensitivity.md)** property of the **AppointmentItem** object is not already set to **olPrivate**, the example offers to mark the appointment as private.
 
 
 ```vb
@@ -81,3 +82,4 @@ End Sub
 
 [Results Object](Outlook.Results.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

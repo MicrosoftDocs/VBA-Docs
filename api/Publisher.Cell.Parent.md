@@ -1,5 +1,5 @@
 ---
-title: Cell.Parent Property (Publisher)
+title: Cell.Parent property (Publisher)
 keywords: vbapb10.chm5111830
 f1_keywords:
 - vbapb10.chm5111830
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Cell.Parent
 ms.assetid: 2eecfc29-e349-4dfe-0751-b2c43dce2f7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Cell.Parent Property (Publisher)
+# Cell.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **Cell** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

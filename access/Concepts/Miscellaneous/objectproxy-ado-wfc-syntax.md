@@ -3,6 +3,7 @@ title: ObjectProxy (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 8e3224b7-0b1d-1e08-eaa7-ceb0b6f5411c
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 
@@ -59,3 +60,5 @@ _args_
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

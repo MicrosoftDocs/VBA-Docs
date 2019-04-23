@@ -1,5 +1,5 @@
 ---
-title: MailMergeFilters.Count Property (Publisher)
+title: MailMergeFilters.Count property (Publisher)
 keywords: vbapb10.chm6750209
 f1_keywords:
 - vbapb10.chm6750209
@@ -8,17 +8,18 @@ api_name:
 - Publisher.MailMergeFilters.Count
 ms.assetid: 6ed658be-d3d0-ae5c-548d-ea724c9a8434
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeFilters.Count Property (Publisher)
+# MailMergeFilters.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **MailMergeFilters** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

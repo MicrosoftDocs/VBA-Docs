@@ -1,15 +1,16 @@
 ---
-title: Windows2 Object (Project)
+title: Windows2 object (Project)
 keywords: vbapj.chm131358
 f1_keywords:
 - vbapj.chm131358
 ms.prod: project-server
 ms.assetid: a58383c6-12c7-81b3-10e8-81ba9180404c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Windows2 Object (Project)
+# Windows2 object (Project)
 
 Represents a collection of windows in the application or project.
  
@@ -116,7 +117,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveWindow](Project.Windows2.ActiveWindow.md)|
 |[Application](Project.Windows2.Application.md)|
@@ -129,3 +130,5 @@ End If
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

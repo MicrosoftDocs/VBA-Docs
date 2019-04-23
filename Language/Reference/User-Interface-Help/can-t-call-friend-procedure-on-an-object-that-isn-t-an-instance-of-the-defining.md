@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: a926e392-f2b3-5f65-41a7-211eeb31e92e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,4 @@ A  **Friend** procedure is callable from a [module](../../Glossary/vbe-glossary.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

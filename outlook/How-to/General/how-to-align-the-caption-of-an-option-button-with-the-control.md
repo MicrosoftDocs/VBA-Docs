@@ -6,10 +6,11 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 4331a16a-6d73-855a-68d3-ef1fee6145bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# How to: Align the Caption of an Option Button with the Control
+# Align the Caption of an Option Button with the Control
 
 The following example demonstrates the  **[Alignment](../../../api/Outlook.optionbutton.alignment.md)** property used with several **[OptionButton](../../../api/Outlook.optionbutton.md)** controls. In this example, the user can change the alignment by clicking a **[ToggleButton](../../../api/Outlook.togglebutton.md)**.
 
@@ -58,4 +59,4 @@ Sub ToggleButton1_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

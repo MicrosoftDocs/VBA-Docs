@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.EnumDirectories Method (Visio)
+title: InvisibleApp.EnumDirectories method (Visio)
 keywords: vis_sdr.chm17516255
 f1_keywords:
 - vis_sdr.chm17516255
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.EnumDirectories
 ms.assetid: a9a1c421-b188-4b0d-fa96-e5934efae598
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.EnumDirectories Method (Visio)
+# InvisibleApp.EnumDirectories method (Visio)
 
 Returns an array naming the folders Microsoft Visio would search, given a list of paths.
 
 
 ## Syntax
 
- _expression_. `EnumDirectories`( `_PathsString_` , `_NameArray()_` )
+_expression_. `EnumDirectories`( `_PathsString_` , `_NameArray()_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -45,7 +46,7 @@ The purpose of the  **EnumDirectories** method is to accept a string such as one
 
 If the  **EnumDirectories** method succeeds, _NameArray()_ returns a one-dimensional array of _n_ strings indexed from 0 to _n_ - 1. Each string is the fully qualified name of a folder that exists. The list names those folders designated in the path list that exist and all their subfolders.
 
-The  _NameArray()_ paramter is an out parameter that is allocated by the **EnumDirectories** method, and ownership is passed back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Visual Basic for Applications automatically free the strings referenced by the array's entries.)
+The  _NameArray()_ parameter is an out parameter that is allocated by the **EnumDirectories** method, and ownership is passed back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Visual Basic for Applications automatically free the strings referenced by the array's entries.)
 
 
 ## Example
@@ -74,4 +75,4 @@ Public Sub EnumDirectories_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

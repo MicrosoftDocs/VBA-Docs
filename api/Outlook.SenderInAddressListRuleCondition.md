@@ -1,5 +1,5 @@
 ---
-title: SenderInAddressListRuleCondition Object (Outlook)
+title: SenderInAddressListRuleCondition object (Outlook)
 keywords: vbaol11.chm3182
 f1_keywords:
 - vbaol11.chm3182
@@ -8,10 +8,11 @@ api_name:
 - Outlook.SenderInAddressListRuleCondition
 ms.assetid: c43aa055-8d4f-e264-07dd-4c5519faf1c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SenderInAddressListRuleCondition Object (Outlook)
+# SenderInAddressListRuleCondition object (Outlook)
 
 Represents a rule condition that the sender's address is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 
@@ -27,7 +28,7 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddressList](Outlook.SenderInAddressListRuleCondition.AddressList.md)|
 |[Application](Outlook.SenderInAddressListRuleCondition.Application.md)|
@@ -40,4 +41,6 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

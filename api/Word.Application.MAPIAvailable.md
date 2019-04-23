@@ -1,5 +1,5 @@
 ---
-title: Application.MAPIAvailable Property (Word)
+title: Application.MAPIAvailable property (Word)
 keywords: vbawd10.chm158335074
 f1_keywords:
 - vbawd10.chm158335074
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.MAPIAvailable
 ms.assetid: 2cb2fc8c-1ef6-98b8-fa72-0705637ad3ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MAPIAvailable Property (Word)
+# Application.MAPIAvailable property (Word)
 
- **True** if MAPI is installed. Read-only **Boolean** .
+ **True** if MAPI is installed. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MAPIAvailable`
+_expression_. `MAPIAvailable`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
@@ -40,3 +41,4 @@ End If
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

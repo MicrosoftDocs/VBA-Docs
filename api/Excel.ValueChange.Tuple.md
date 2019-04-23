@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.Tuple
 ms.assetid: 911c65e3-a15c-81b3-316b-155d2ff55ea4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the MDX tuple of the value was changed in the OLAP data source. Read-onl
 
 ## Syntax
 
- _expression_. `Tuple`
+_expression_. `Tuple`
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ Returns the MDX tuple of the value was changed in the OLAP data source. Read-onl
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

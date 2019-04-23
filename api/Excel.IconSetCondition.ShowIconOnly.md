@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.ShowIconOnly
 ms.assetid: 4613f7ae-8282-755f-4a1c-fd6b01de0141
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns or sets a  **Boolean** value indicating if only the icon is displayed fo
 
 ## Syntax
 
- _expression_. `ShowIconOnly`
+_expression_. `ShowIconOnly`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
 
-The default value for this property is  **False** .
+The default value for this property is  **False**.
 
 
 ## See also
@@ -33,3 +34,4 @@ The default value for this property is  **False** .
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

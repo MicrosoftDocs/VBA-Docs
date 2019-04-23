@@ -1,11 +1,12 @@
 ---
-title: On...GoSub, On...GoTo statements
+title: On...GoSub, On...GoTo statements (VBA)
 keywords: vblr6.chm1008986
 f1_keywords:
 - vblr6.chm1008986
 ms.prod: office
 ms.assetid: 9c182e3e-55ba-0d0e-b66c-6ae00189fec5
-ms.date: 06/08/2017
+ms.date: 12/03/2018
+localization_priority: Normal
 ---
 
 
@@ -15,31 +16,30 @@ Branch to one of several specified lines, depending on the value of an [expressi
 
 ## Syntax
 
-**On**_expression_**GoSub**_destinationlist_
+**On** _expression_ **GoSub** _destinationlist_ <br/>
+**On** _expression_ **GoTo** _destinationlist_
 
-**On**_expression_**GoTo**_destinationlist_
+<br/>
 
-The **On...GoSub** and **On...GoTo** statement syntax has these parts.
+The **On...GoSub** and **On...GoTo** statement syntax has these parts:
 
-
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that evaluates to a whole number between 0 and 255, inclusive. If _expression_ is any number other than a whole number, it is rounded before it is evaluated.|
 | _destinationlist_|Required. List of [line numbers](../../Glossary/vbe-glossary.md#line-number) or [line labels](../../Glossary/vbe-glossary.md#line-label) separated by commas.|
 
 ## Remarks
 
-The value of  _expression_ determines which line is branched to in _destinationlist_. If the value of _expression_ is less than 1 or greater than the number of items in the list, one of the following results occurs:
+The value of _expression_ determines which line is branched to in _destinationlist_. If the value of _expression_ is less than 1 or greater than the number of items in the list, one of the following results occurs:
 
-
-|**If  _expression_ is**|**Then**|
+|If  _expression_ is|Then|
 |:-----|:-----|
 |Equal to 0|Control drops to the [statement](../../Glossary/vbe-glossary.md#statement) following **On...GoSub** or **On...GoTo**.|
 |Greater than number of items in list|Control drops to the statement following **On...GoSub** or **On...GoTo**.|
 |Negative|An error occurs.|
 |Greater than 255|An error occurs.|
 
-You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with  **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the [line-continuation character](../../Glossary/vbe-glossary.md#line-continuation-character) to continue the logical line onto the next physical line.
+You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the [line-continuation character](../../Glossary/vbe-glossary.md#line-continuation-character) to continue the logical line onto the next physical line.
 
 > [!TIP] 
 > **Select Case** provides a more structured and flexible way to perform multiple branching.
@@ -71,4 +71,9 @@ Line2:
 End Sub
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

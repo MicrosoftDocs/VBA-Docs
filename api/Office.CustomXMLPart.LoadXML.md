@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.LoadXML Method (Office)
+title: CustomXMLPart.LoadXML method (Office)
 keywords: vbaof11.chm295011
 f1_keywords:
 - vbaof11.chm295011
@@ -7,25 +7,24 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPart.LoadXML
 ms.assetid: efdbb098-48ec-1c64-9d9d-b0a64a5c3753
-ms.date: 06/08/2017
+ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 
-# CustomXMLPart.LoadXML Method (Office)
+# CustomXMLPart.LoadXML method (Office)
 
-Allows the template author to populate a  **CustomXMLPart** object from an XML string. Returns **True** if the load was successful.
+Allows the template author to populate a **CustomXMLPart** object from an XML string. Returns **True** if the load was successful.
 
 
 ## Syntax
 
- _expression_. `LoadXML`( `_XML_` )
+_expression_.**LoadXML**(_XML_)
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+_expression_ An expression that returns a **[CustomXMLPart](Office.CustomXMLPart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -63,10 +62,6 @@ End Sub
 
 ## See also
 
+- [CustomXMLPart object members](overview/library-reference/customxmlpart-members-office.md)
 
-[CustomXMLPart Object](Office.CustomXMLPart.md)
-
-
-
-[CustomXMLPart Object Members](./overview/Library-Reference/customxmlpart-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

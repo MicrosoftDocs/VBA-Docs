@@ -1,5 +1,5 @@
 ---
-title: Frame.LockAnchor Property (Word)
+title: Frame.LockAnchor property (Word)
 keywords: vbawd10.chm153747462
 f1_keywords:
 - vbawd10.chm153747462
@@ -8,19 +8,20 @@ api_name:
 - Word.Frame.LockAnchor
 ms.assetid: 654dc51d-12bb-4168-f737-69f8de7da17a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.LockAnchor Property (Word)
+# Frame.LockAnchor property (Word)
 
- **True** if the specified frame is locked. Read/write **Boolean** .
+ **True** if the specified frame is locked. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LockAnchor`
+_expression_. `LockAnchor`
 
- _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
+_expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End If
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

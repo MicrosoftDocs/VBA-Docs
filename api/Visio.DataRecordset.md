@@ -1,5 +1,5 @@
 ---
-title: DataRecordset Object (Visio)
+title: DataRecordset object (Visio)
 keywords: vis_sdr.chm61005
 f1_keywords:
 - vis_sdr.chm61005
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordset
 ms.assetid: 272d5fbb-d8a7-1fe8-07a3-7d7f71b62936
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordset Object (Visio)
+# DataRecordset object (Visio)
 
 Stores, formats, refreshes, and exposes data queried from a database in Microsoft Visio.
 
@@ -59,7 +60,7 @@ Once you have created a data recordset, the connection string and query command 
 
 If the data recordset is associated with a  **[DataConnection](Visio.DataConnection.md)** object—that is, if you added it to the **DataRecordsets** collection by using either the **Add** or **AddFromConnectionFile** method—you can use the **[DataConnection](Visio.DataRecordset.DataConnection.md)** property of the **DataRecordset** object to get the associated **DataConnection** object.
 
-The default property of a  **DataRecordset** object is **[ID](Visio.DataRecordset.ID.md)** . The **ID** property value identifies the **DataRecordset** in the **DataRecordsets** collection, and is unique within the collection for any given document.
+The default property of a  **DataRecordset** object is **[ID](Visio.DataRecordset.ID.md)**. The **ID** property value identifies the **DataRecordset** in the **DataRecordsets** collection, and is unique within the collection for any given document.
 
 You can use the  **[Name](Visio.DataRecordset.Name.md)** property of the **DataRecordset** object to associate a display name with the data recordset.
 
@@ -71,11 +72,11 @@ Setting a primary key column for a data recordset can help prevent broken links 
 
 When data changes in the data source, you can refresh the data in a connected (non-XML) data recordset to reflect those changes. You can specify that Visio refresh data automatically at a specified interval by setting the  **[RefreshInterval](Visio.DataRecordset.RefreshInterval.md)** property, or you can refresh data programmatically by calling the **[Refresh](Visio.DataRecordset.Refresh.md)** method.
 
-When you refresh data from a data source that has changed since the last time you refreshed data, conflicts can occur. Conflicts can result when a single shape is linked to more than one row in the same data source, or when a shape is linked to a row in the data source that has been deleted. You can discover and resolve the conflicts that arise from refreshing data by using the  **[GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)** , **[GetMatchingRowsForRefreshConflict](Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)** , and **[RemoveRefreshConflict](Visio.DataRecordset.RemoveRefreshConflict.md)** methods.
+When you refresh data from a data source that has changed since the last time you refreshed data, conflicts can occur. Conflicts can result when a single shape is linked to more than one row in the same data source, or when a shape is linked to a row in the data source that has been deleted. You can discover and resolve the conflicts that arise from refreshing data by using the  **[GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)**, **[GetMatchingRowsForRefreshConflict](Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)**, and **[RemoveRefreshConflict](Visio.DataRecordset.RemoveRefreshConflict.md)** methods.
 
 
 
 
  **Note**  When you save a Visio document that contains one or more data recordsets, all the data in the recordset is saved in the Visio file. For recordsets that contain a large amount of data, this can create large Visio files, which can affect performance. Consequently, you should consider filtering large data sources before importing them into Visio.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,23 +1,24 @@
 ---
-title: ReportItem.Unload Event (Outlook)
+title: ReportItem.Unload event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Unload
 ms.assetid: 934c4793-0809-65dc-4805-de28a54634cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ReportItem.Unload Event (Outlook)
+# ReportItem.Unload event (Outlook)
 
 Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. 
 
 
 ## Syntax
 
- _expression_. `Unload`
+_expression_. `Unload`
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

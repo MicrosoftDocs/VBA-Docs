@@ -8,19 +8,20 @@ api_name:
 - Excel.LineFormat.EndArrowheadLength
 ms.assetid: e6dd340b-9732-db7e-2efb-7003bca0aea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # LineFormat.EndArrowheadLength property (Excel)
 
-Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadLength](Office.MsoArrowheadLength.md)** .
+Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadLength](Office.MsoArrowheadLength.md)**.
 
 
 ## Syntax
 
- _expression_. `EndArrowheadLength`
+_expression_. `EndArrowheadLength`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Remarks
@@ -37,7 +38,7 @@ Returns or sets the length of the arrowhead at the end of the specified line. Re
 
 ## Example
 
-This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its end point.
+This example adds a line to  _myDocument_. There's a short, narrow oval on the line's starting point and a long, wide triangle on its end point.
 
 
 ```vb
@@ -58,3 +59,4 @@ End With
 
 [LineFormat Object](Excel.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

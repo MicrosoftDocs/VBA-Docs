@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.ObjectType Property (Visio)
+title: OLEObjects.ObjectType property (Visio)
 keywords: vis_sdr.chm15113960
 f1_keywords:
 - vis_sdr.chm15113960
@@ -8,17 +8,18 @@ api_name:
 - Visio.OLEObjects.ObjectType
 ms.assetid: e8f0b333-261f-f83f-a556-16b8f27170d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEObjects.ObjectType Property (Visio)
+# OLEObjects.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents an [OLEObjects](./Visio.OLEObjects.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveEndWhile Method (Word)
+title: Selection.MoveEndWhile method (Word)
 keywords: vbawd10.chm158662770
 f1_keywords:
 - vbawd10.chm158662770
@@ -8,19 +8,20 @@ api_name:
 - Word.Selection.MoveEndWhile
 ms.assetid: c1cd97cc-9836-a61f-3b7a-4e178bc3d1e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.MoveEndWhile Method (Word)
+# Selection.MoveEndWhile method (Word)
 
 Moves the ending character position of a selection while any of the specified characters are found in the document.
 
 
 ## Syntax
 
- _expression_. `MoveEndWhile`( `_Cset_` , `_Count_` )
+_expression_. `MoveEndWhile`( `_Cset_` , `_Count_` )
 
- _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
+_expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Moves the ending character position of a selection while any of the specified ch
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the selection is to be moved. Can be a number or either  **wdForward** or **wdBackward** . If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the selection is to be moved. Can be a number or either  **wdForward** or **wdBackward**. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
 
 ## Remarks
 
@@ -61,3 +62,4 @@ Selection.MoveEndWhile Cset:="abcdefgh", Count:=10
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

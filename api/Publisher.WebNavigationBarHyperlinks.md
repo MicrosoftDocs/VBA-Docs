@@ -1,5 +1,5 @@
 ---
-title: WebNavigationBarHyperlinks Object (Publisher)
+title: WebNavigationBarHyperlinks object (Publisher)
 keywords: vbapb10.chm540671
 f1_keywords:
 - vbapb10.chm540671
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks
 ms.assetid: 4dfa7273-4770-d77c-275c-6b7eeae04aa5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebNavigationBarHyperlinks Object (Publisher)
+# WebNavigationBarHyperlinks object (Publisher)
 
 The  **WebNavigationBarHyperlinks** represents a collection of all the **Hyperlink** objects of the specified **WebNavigationBarSet** object.
  
@@ -58,7 +59,7 @@ MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.WebNavigationBarHyperlinks.Add.md)|
 |[Item](Publisher.WebNavigationBarHyperlinks.Item.md)|
@@ -67,9 +68,10 @@ MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebNavigationBarHyperlinks.Application.md)|
 |[Count](Publisher.WebNavigationBarHyperlinks.Count.md)|
 |[Parent](Publisher.WebNavigationBarHyperlinks.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

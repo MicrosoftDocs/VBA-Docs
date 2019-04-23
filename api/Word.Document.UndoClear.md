@@ -1,5 +1,5 @@
 ---
-title: Document.UndoClear Method (Word)
+title: Document.UndoClear method (Word)
 keywords: vbawd10.chm158007550
 f1_keywords:
 - vbawd10.chm158007550
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.UndoClear
 ms.assetid: 4ff5856a-ee8d-a9c8-a0a5-1d9c0a0dc9e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.UndoClear Method (Word)
+# Document.UndoClear method (Word)
 
 Clears the list of actions that can be undone for the specified document.
 
 
 ## Syntax
 
- _expression_. `UndoClear`
+_expression_. `UndoClear`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ ActiveDocument.UndoClear
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

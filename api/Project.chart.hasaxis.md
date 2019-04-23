@@ -1,19 +1,20 @@
 ---
-title: Chart.HasAxis Property (Project)
+title: Chart.HasAxis property (Project)
 ms.prod: project-server
 ms.assetid: f1059a7e-01ac-cd41-78d6-dc88f52943f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.HasAxis Property (Project)
+# Chart.HasAxis property (Project)
 Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `HasAxis`
+_expression_.**HasAxis**
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
@@ -22,8 +23,8 @@ Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **Office.XlAxisType** constants.|
-| _AxisGroup_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
+| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **Office.XlAxisType** constants.|
+| _AxisGroup_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
 
 ## Return value
 
@@ -64,3 +65,5 @@ End Sub
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

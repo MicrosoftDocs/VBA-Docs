@@ -1,5 +1,5 @@
 ---
-title: TableView.MultiLineWidth Property (Outlook)
+title: TableView.MultiLineWidth property (Outlook)
 keywords: vbaol11.chm2525
 f1_keywords:
 - vbaol11.chm2525
@@ -8,31 +8,32 @@ api_name:
 - Outlook.TableView.MultiLineWidth
 ms.assetid: 4b2a7d06-f6f7-fa9f-8957-bdc451e248e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.MultiLineWidth Property (Outlook)
+# TableView.MultiLineWidth property (Outlook)
 
 Returns or sets a  **Long** value that represents the text width (in characters) needed to trigger multiline mode in the **[TableView](Outlook.TableView.md)** object . Read/write
 
 
 ## Syntax
 
- _expression_. `MultiLineWidth`
+_expression_. `MultiLineWidth`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks
 
 This property can be set to a value between 1 and 999. If this property is set to a value less than 1, the property is set to 1. If this property is set to a value greater than 999, the property is set to 999. The default value for this property is 100.
 
-This property only applies if the  **[Multiline](Outlook.TableView.Multiline.md)** property of the **TableView** object is set to **olWidthMultiLine** . The value of this property determines the point at which the **TableView** object displays text for an Outlook item in multiline mode.
+This property only applies if the  **[Multiline](Outlook.TableView.Multiline.md)** property of the **TableView** object is set to **olWidthMultiLine**. The value of this property determines the point at which the **TableView** object displays text for an Outlook item in multiline mode.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TableView** object so that, if text in the view is longer than 50 characters, the text is displayed in multiline mode. The **MultiLine** property cannot be set to **olWidthMultiLine** unless the **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumnSizing.md)** property is set to **True** .
+The following Visual Basic for Applications (VBA) example configures the current  **TableView** object so that, if text in the view is longer than 50 characters, the text is displayed in multiline mode. The **MultiLine** property cannot be set to **olWidthMultiLine** unless the **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumnSizing.md)** property is set to **True**.
 
 
 ```vb
@@ -93,3 +94,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

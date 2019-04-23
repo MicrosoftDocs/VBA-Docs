@@ -1,5 +1,5 @@
 ---
-title: Selection.Application Property (PowerPoint)
+title: Selection.Application property (PowerPoint)
 keywords: vbapp10.chm508001
 f1_keywords:
 - vbapp10.chm508001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Selection.Application
 ms.assetid: eb1591fe-f6ce-1f9c-21e1-fab39589c527
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Application Property (PowerPoint)
+# Selection.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

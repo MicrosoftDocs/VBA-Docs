@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchWholeWord Property (Publisher)
+title: FindReplace.MatchWholeWord property (Publisher)
 keywords: vbapb10.chm8323083
 f1_keywords:
 - vbapb10.chm8323083
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.MatchWholeWord
 ms.assetid: 512d37bc-c900-ee17-8a8e-5875db0a2f85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.MatchWholeWord Property (Publisher)
+# FindReplace.MatchWholeWord property (Publisher)
 
 Sets or returns a  **Boolean** that represents whether the whole word will be matched in the search operation. Read/write. **Boolean**.
 
 
 ## Syntax
 
- _expression_. **MatchWholeWord**
+_expression_.**MatchWholeWord**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -69,4 +70,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

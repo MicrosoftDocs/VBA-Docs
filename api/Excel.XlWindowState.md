@@ -1,14 +1,15 @@
 ---
-title: xlWindowState enumeration (Excel)
+title: XlWindowState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowState
 ms.assetid: 80d2ba14-7644-6998-5bff-d8a651502226
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlWindowState enumeration (Excel)
+# XlWindowState enumeration (Excel)
 
 Specifies the state of the window.
 
@@ -20,3 +21,4 @@ Specifies the state of the window.
 | **xlMinimized**|-4140|Minimized|
 | **xlNormal**|-4143|Normal|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

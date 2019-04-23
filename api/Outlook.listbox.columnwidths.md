@@ -3,6 +3,7 @@ title: ListBox.ColumnWidths Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 380ded70-6467-3767-17b2-3c4e84dc60dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **String** that specifies the width of each column in a multi
 
 ## Syntax
 
- _expression_. **ColumnWidths**
+_expression_.**ColumnWidths**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks
@@ -44,3 +45,4 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |2 in;;2 in|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

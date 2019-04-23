@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Fonts Property (Word)
+title: DefaultWebOptions.Fonts property (Word)
 keywords: vbawd10.chm165871631
 f1_keywords:
 - vbawd10.chm165871631
@@ -8,17 +8,18 @@ api_name:
 - Word.DefaultWebOptions.Fonts
 ms.assetid: 3a3247af-ae74-33f1-2944-0371bf13be6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DefaultWebOptions.Fonts Property (Word)
+# DefaultWebOptions.Fonts property (Word)
 
 Returns the  **WebPageFonts** collection representing the set of fonts that Microsoft Word uses when you open a Web page in Word.
 
 
 ## Syntax
 
- _expression_. `Fonts`
+_expression_. `Fonts`
 
  _expression_ An expression that returns a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

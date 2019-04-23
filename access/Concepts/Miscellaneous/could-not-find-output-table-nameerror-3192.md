@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 1c1d8d7b-33d8-2a58-cf62-d7d9aece4a38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -27,3 +28,5 @@ If you are attempting to execute a make-table query that creates the table for y
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

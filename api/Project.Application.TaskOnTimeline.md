@@ -1,5 +1,5 @@
 ---
-title: Application.TaskOnTimeline Method (Project)
+title: Application.TaskOnTimeline method (Project)
 keywords: vbapj.chm60
 f1_keywords:
 - vbapj.chm60
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.TaskOnTimeline
 ms.assetid: 8201380b-f0ae-4e53-7461-e323ad6fe5e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.TaskOnTimeline Method (Project)
+# Application.TaskOnTimeline method (Project)
 
 Manages tasks on the Timeline pane or for a specified custom timeline.
 
 
 ## Syntax
 
- _expression_. `TaskOnTimeline`( ` _TaskID_`, ` _Remove_`, ` _TimelineViewName_` )
+_expression_. `TaskOnTimeline`( `_TaskID_`, `_Remove_`, `_TimelineViewName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -64,4 +65,4 @@ If the built-in Timeline pane is active and a custom timeline named "My Timeline
 application.TaskOnTimeline TaskID:=3, TimelineViewName:="My Timeline"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

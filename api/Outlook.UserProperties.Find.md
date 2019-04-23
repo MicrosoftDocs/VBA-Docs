@@ -1,5 +1,5 @@
 ---
-title: UserProperties.Find Method (Outlook)
+title: UserProperties.Find method (Outlook)
 keywords: vbaol11.chm210
 f1_keywords:
 - vbaol11.chm210
@@ -8,19 +8,20 @@ api_name:
 - Outlook.UserProperties.Find
 ms.assetid: 3b71ce5a-4bb0-fdab-a24e-02c631816b80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# UserProperties.Find Method (Outlook)
+# UserProperties.Find method (Outlook)
 
 Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for the requested property name, if it exists.
 
 
 ## Syntax
 
- _expression_. `Find`( `_Name_` , `_Custom_` )
+_expression_. `Find`( `_Name_` , `_Custom_` )
 
- _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
+_expression_ A variable that represents an [UserProperties](Outlook.UserProperties.md) object.
 
 
 ## Parameters
@@ -39,7 +40,7 @@ If you use  **UserProperties.Find** to look for a custom property and the call s
 
 ## Remarks
 
-If  _Custom_ parameter is **True** , only custom user properties will be searched. The default value is **True** . To find a non custom property such as **Subject** , specify _Custom_ parameter as **False** , otherwise will return **Nothing** .
+If  _Custom_ parameter is **True**, only custom user properties will be searched. The default value is **True**. To find a non custom property such as **Subject**, specify _Custom_ parameter as **False**, otherwise will return **Nothing**.
 
 
 ## See also
@@ -47,3 +48,4 @@ If  _Custom_ parameter is **True** , only custom user properties will be searche
 
 [UserProperties Object](Outlook.UserProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.SaveAsODC Method (Excel)
+title: ODBCConnection.SaveAsODC method (Excel)
 keywords: vbaxl10.chm796085
 f1_keywords:
 - vbaxl10.chm796085
@@ -8,19 +8,20 @@ api_name:
 - Excel.ODBCConnection.SaveAsODC
 ms.assetid: a499de7c-ee4a-22d2-ff35-33489fcf4fe1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ODBCConnection.SaveAsODC Method (Excel)
+# ODBCConnection.SaveAsODC method (Excel)
 
 Saves the ODBC connection as a Microsoft Office Data Connection file.
 
 
 ## Syntax
 
- _expression_. `SaveAsODC`( `_ODCFileName_` , `_Description_` , `_Keywords_` )
+_expression_. `SaveAsODC`( `_ODCFileName_` , `_Description_` , `_Keywords_` )
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Parameters
@@ -57,3 +58,4 @@ End Sub
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TaskRequestAcceptItem.Delete Method (Outlook)
+title: TaskRequestAcceptItem.Delete method (Outlook)
 keywords: vbaol11.chm1802
 f1_keywords:
 - vbaol11.chm1802
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Delete
 ms.assetid: c674b324-9027-700e-8eeb-5696edbab684
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestAcceptItem.Delete Method (Outlook)
+# TaskRequestAcceptItem.Delete method (Outlook)
 
 Removes the item from the folder that contains the item.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks
@@ -40,3 +41,4 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

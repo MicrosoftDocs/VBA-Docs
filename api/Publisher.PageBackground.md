@@ -1,5 +1,5 @@
 ---
-title: PageBackground Object (Publisher)
+title: PageBackground object (Publisher)
 keywords: vbapb10.chm8191999
 f1_keywords:
 - vbapb10.chm8191999
@@ -8,10 +8,11 @@ api_name:
 - Publisher.PageBackground
 ms.assetid: 647f5a84-0971-2f69-d281-c9ab402968a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageBackground Object (Publisher)
+# PageBackground object (Publisher)
 
 Represents the background of a page.
  
@@ -87,7 +88,7 @@ ActiveDocument.Pages(1).Background.Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Create](Publisher.PageBackground.Create.md)|
 |[Delete](Publisher.PageBackground.Delete.md)|
@@ -96,10 +97,11 @@ ActiveDocument.Pages(1).Background.Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.PageBackground.Application.md)|
 |[Exists](Publisher.PageBackground.Exists.md)|
 |[Fill](Publisher.PageBackground.Fill.md)|
 |[Parent](Publisher.PageBackground.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

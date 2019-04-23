@@ -1,5 +1,5 @@
 ---
-title: System.VerticalResolution Property (Word)
+title: System.VerticalResolution property (Word)
 keywords: vbawd10.chm154468360
 f1_keywords:
 - vbawd10.chm154468360
@@ -8,17 +8,18 @@ api_name:
 - Word.System.VerticalResolution
 ms.assetid: f93b0eed-1b0c-654c-8c73-60da0d13ab11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# System.VerticalResolution Property (Word)
+# System.VerticalResolution property (Word)
 
-Returns the vertical screen resolution in pixels. Read-only  **Long** .
+Returns the vertical screen resolution in pixels. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `VerticalResolution`
+_expression_. `VerticalResolution`
 
  _expression_ An expression that returns a '[System](Word.System.md)' object.
 
@@ -40,3 +41,4 @@ MsgBox "Resolution = " & horz & " x " & vert
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

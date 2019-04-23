@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotItem.ParentShowDetail
 ms.assetid: 7700aa5c-e90a-864f-b907-a84656ecdaaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotItem.ParentShowDetail property (Excel)
 
- **True** if the specified item is showing because one of its parents is showing detail. **False** if the specified item isn't showing because one of its parents is hiding detail. This property is available only if the item is grouped. Read-only **Boolean** .
+ **True** if the specified item is showing because one of its parents is showing detail. **False** if the specified item isn't showing because one of its parents is hiding detail. This property is available only if the item is grouped. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ParentShowDetail`
+_expression_. `ParentShowDetail`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks
@@ -47,3 +48,4 @@ End If
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

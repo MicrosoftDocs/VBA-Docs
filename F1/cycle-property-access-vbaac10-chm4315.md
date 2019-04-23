@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 737e6639-e937-4917-8efb-48d38e88c456
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.Cycle property (Access)](http://msdn.microsoft.com/library/031194ca-f058-3a73-3551-f67d4e9bc27a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

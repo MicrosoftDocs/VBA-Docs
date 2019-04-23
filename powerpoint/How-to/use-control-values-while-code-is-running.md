@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: a885309e-4525-c866-114f-994b56bf0488
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -62,4 +63,4 @@ Sub LaunchSalesPersonForm()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

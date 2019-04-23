@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BackColor Property (Word)
+title: LineFormat.BackColor property (Word)
 keywords: vbawd10.chm164233316
 f1_keywords:
 - vbawd10.chm164233316
@@ -8,17 +8,18 @@ api_name:
 - Word.LineFormat.BackColor
 ms.assetid: 30c282ca-f20b-9d20-8e6c-6f2c37d0cd7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.BackColor Property (Word)
+# LineFormat.BackColor property (Word)
 
 Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the background color for a patterned line. Read/write.
 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
  _expression_ A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
@@ -47,3 +48,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

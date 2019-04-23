@@ -1,5 +1,5 @@
 ---
-title: Template.CustomDocumentProperties Property (Word)
+title: Template.CustomDocumentProperties property (Word)
 keywords: vbawd10.chm157941769
 f1_keywords:
 - vbawd10.chm157941769
@@ -8,19 +8,20 @@ api_name:
 - Word.Template.CustomDocumentProperties
 ms.assetid: b11e705f-7042-014c-4efc-2d2fba135ab2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Template.CustomDocumentProperties Property (Word)
+# Template.CustomDocumentProperties property (Word)
 
 Returns a  **DocumentProperties** collection that represents all the custom document properties for the specified document.
 
 
 ## Syntax
 
- _expression_. `CustomDocumentProperties`
+_expression_. `CustomDocumentProperties`
 
- _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
+_expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ For information about returning a single member of a collection, see [Returning 
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Story Object (Publisher)
+title: Story object (Publisher)
 keywords: vbapb10.chm5898239
 f1_keywords:
 - vbapb10.chm5898239
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Story
 ms.assetid: 0385b4be-0046-9198-a186-0d992601780e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Story Object (Publisher)
+# Story object (Publisher)
 
 Represents the text in an unlinked text frame, text flowing between linked text frames, or text in a table cell. The  **Story** object is a member of the **TextFrame** and **TextRange** objects and the **Stories** collection.
 
@@ -53,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Story.Application.md)|
 |[HasTable](./Publisher.Story.HasTable.md)|
@@ -64,3 +65,4 @@ End Sub
 |[TextRange](./Publisher.Story.TextRange.md)|
 |[Type](./Publisher.Story.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

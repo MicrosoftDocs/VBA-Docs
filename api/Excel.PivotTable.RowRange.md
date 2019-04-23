@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.RowRange
 ms.assetid: 3b586599-9b2a-d0fc-c205-b8e3c6e7074f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `RowRange`
+_expression_. `RowRange`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -40,3 +41,4 @@ ActiveCell.PivotTable.RowRange.Select
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

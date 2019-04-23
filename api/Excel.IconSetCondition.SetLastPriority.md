@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.SetLastPriority Method (Excel)
+title: IconSetCondition.SetLastPriority method (Excel)
 keywords: vbaxl10.chm812081
 f1_keywords:
 - vbaxl10.chm812081
@@ -8,19 +8,20 @@ api_name:
 - Excel.IconSetCondition.SetLastPriority
 ms.assetid: b1003681-b5ac-85ab-dd9c-8a13685694d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# IconSetCondition.SetLastPriority Method (Excel)
+# IconSetCondition.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 
 
 ## Syntax
 
- _expression_. `SetLastPriority`
+_expression_.**SetLastPriority**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
@@ -36,3 +37,4 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

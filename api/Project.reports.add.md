@@ -1,17 +1,18 @@
 ---
-title: Reports.Add Method (Project)
+title: Reports.Add method (Project)
 ms.prod: project-server
 ms.assetid: 3ce8e51c-54c6-6cc7-f5ec-c27e0a657f04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Reports.Add Method (Project)
+# Reports.Add method (Project)
 Adds a custom report to the  **Reports** collection.
 
 ## Syntax
 
- _expression_. `Add` _(Name)_
+_expression_.**Add** _(Name)_
 
  _expression_ A variable that represents a 'Reports' object.
 
@@ -20,10 +21,10 @@ Adds a custom report to the  **Reports** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the report.|
-| _Name_|Required|STRING||
+| _Name_|Required|**String**||
 
 ## Return value
 
@@ -77,3 +78,5 @@ End Sub
 [Reports Object](Project.reports.md)
 [Report Object](Project.report.md)
 [Shapes](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

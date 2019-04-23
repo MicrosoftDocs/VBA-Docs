@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.ErrorString
 ms.assetid: 7f00d151-9f92-a3b3-c95f-60c0600cf594
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.ErrorString property (Excel)
 
-Returns or sets a  **String** value that represents the string displayed in cells that contain errors when the **[DisplayErrorString](Excel.PivotTable.DisplayErrorString.md)** property is **True** .
+Returns or sets a  **String** value that represents the string displayed in cells that contain errors when the **[DisplayErrorString](Excel.PivotTable.DisplayErrorString.md)** property is **True**.
 
 
 ## Syntax
 
- _expression_. `ErrorString`
+_expression_. `ErrorString`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ End With
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

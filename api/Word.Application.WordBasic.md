@@ -1,5 +1,5 @@
 ---
-title: Application.WordBasic Property (Word)
+title: Application.WordBasic property (Word)
 keywords: vbawd10.chm158334977
 f1_keywords:
 - vbawd10.chm158334977
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.WordBasic
 ms.assetid: 8c405ea6-0073-f994-42b2-cacb986f1f1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WordBasic Property (Word)
+# Application.WordBasic property (Word)
 
 Returns an automation object (WordBasic) that includes methods for all the WordBasic statements and functions available in Word version 6.0 and Word for Windows 95. Read-only.
 
 
 ## Syntax
 
- _expression_. `WordBasic`
+_expression_. `WordBasic`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -52,3 +53,4 @@ End With
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

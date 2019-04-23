@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Application Property (Publisher)
+title: PictureFormat.Application property (Publisher)
 keywords: vbapb10.chm3604481
 f1_keywords:
 - vbapb10.chm3604481
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.Application
 ms.assetid: 9ba0c997-b954-c02a-f568-c16617d5b5e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.Application Property (Publisher)
+# PictureFormat.Application property (Publisher)
 
 Used without an object qualifier, this property returns an  **[Application](Publisher.Application.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
- _expression_. **Application**
+_expression_.**Application**
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
@@ -50,4 +51,4 @@ For Each shpOle In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Exceptions Object (Outlook)
+title: Exceptions object (Outlook)
 keywords: vbaol11.chm289
 f1_keywords:
 - vbaol11.chm289
@@ -8,10 +8,11 @@ api_name:
 - Outlook.Exceptions
 ms.assetid: fa3b6c2e-33b0-0f04-4e60-af2c582f2caa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exceptions Object (Outlook)
+# Exceptions object (Outlook)
 
 Contains a group of  **[Exception](Outlook.Exception.md)** objects.
 
@@ -37,7 +38,7 @@ Set myExceptions = myRecurrencePattern.Exceptions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.Exceptions.Item.md)|
 
@@ -45,7 +46,7 @@ Set myExceptions = myRecurrencePattern.Exceptions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Exceptions.Application.md)|
 |[Class](Outlook.Exceptions.Class.md)|
@@ -56,4 +57,6 @@ Set myExceptions = myRecurrencePattern.Exceptions
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

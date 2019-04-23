@@ -1,5 +1,5 @@
 ---
-title: Font.StylisticSets Property (Publisher)
+title: Font.StylisticSets property (Publisher)
 keywords: vbapb10.chm5374016
 f1_keywords:
 - vbapb10.chm5374016
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.StylisticSets
 ms.assetid: 0d25fbf3-8d68-c10f-0d1b-526314700329
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.StylisticSets Property (Publisher)
+# Font.StylisticSets property (Publisher)
 
 Returns or sets a  **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **StylisticSets**
+_expression_.**StylisticSets**
 
  _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
@@ -44,4 +45,4 @@ The number of stylistic sets available varies, depending on the font.
 > [!NOTE] 
 > The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

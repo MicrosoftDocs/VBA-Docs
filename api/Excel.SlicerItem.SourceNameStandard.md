@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerItem.SourceNameStandard
 ms.assetid: fb2cba30-5ef5-1aa4-23f0-8dd0a4e6102a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the slicer item's source name in standard English (United States) format
 
 ## Syntax
 
- _expression_. `SourceNameStandard`
+_expression_. `SourceNameStandard`
 
- _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
+_expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
 
 
 ## Return value
@@ -32,4 +33,4 @@ String
 
 This property is used when a slicer item has a localized version and its  **SourceNameStandard** property value differs from the **[SourceName](Excel.SlicerItem.SourceName.md)** property value, such as with date formatting.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

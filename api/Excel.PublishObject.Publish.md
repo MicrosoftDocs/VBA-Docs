@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Publish Method (Excel)
+title: PublishObject.Publish method (Excel)
 keywords: vbaxl10.chm652074
 f1_keywords:
 - vbaxl10.chm652074
@@ -8,19 +8,20 @@ api_name:
 - Excel.PublishObject.Publish
 ms.assetid: 3bb70102-c440-8e49-1734-d72945324d5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PublishObject.Publish Method (Excel)
+# PublishObject.Publish method (Excel)
 
-Saves an item or a collection of items in a document to a Web page.
+Saves an item or a collection of items in a document to a web page.
 
 
 ## Syntax
 
- _expression_. `Publish`( `_Create_` )
+_expression_. `Publish`( `_Create_` )
 
- _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
+_expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ The  **[FileName](Excel.PublishObject.Filename.md)** property returns or sets th
 
 ## Example
 
-This example saves the range D5:D9 on the First Quarter worksheet in the active workbook to a Web page named stockreport.htm. The Spreadsheet component is used to make the Web page interactive.
+This example saves the range D5:D9 on the First Quarter worksheet in the active workbook to a web page named stockreport.htm. The Spreadsheet component is used to make the web page interactive.
 
 
 ```vb
@@ -56,3 +57,4 @@ End With
 
 [PublishObject Object](Excel.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,6 +3,7 @@ title: Search the Calendar for Appointments Within a Date Range that Contain a S
 ms.prod: outlook
 ms.assetid: 92b6f569-e10e-d2cd-c941-0f062183d2bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -78,4 +79,4 @@ Sub FindAppts()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

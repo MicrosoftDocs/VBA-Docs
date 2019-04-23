@@ -1,5 +1,5 @@
 ---
-title: DrawingControl Object (Visio)
+title: DrawingControl object (Visio)
 keywords: vis_sdr.chm0
 f1_keywords:
 - vis_sdr.chm0
@@ -8,10 +8,11 @@ api_name:
 - Visio.DrawingControl
 ms.assetid: ad7c6abf-5bbd-5b84-4a63-eceaf90991a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl Object (Visio)
+# DrawingControl object (Visio)
 
 A programmable ActiveX control that enables you to build Microsoft Visio functionality into programs you create in Microsoft Visual Studio and other development platforms.
 
@@ -35,4 +36,4 @@ Use the  **Window** property of the **DrawingControl** object to get the Visio *
 
 The  **DrawingControl** object has no default property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.Workbook.Final
 ms.assetid: 55d3a155-ca0c-1f7c-8612-80aac91a8eb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Workbook.Final property (Excel)
 
-Returns or sets a  **Boolean** that indicates whether a workbook is final. Read/write **Boolean** .
+Returns or sets a  **Boolean** that indicates whether a workbook is final. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Final`
+_expression_. `Final`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ Setting the value to  **True** marks the workbook as final, notifies recipients 
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

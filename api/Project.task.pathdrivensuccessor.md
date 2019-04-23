@@ -1,17 +1,18 @@
 ---
-title: Task.PathDrivenSuccessor Property (Project)
+title: Task.PathDrivenSuccessor property (Project)
 ms.prod: project-server
 ms.assetid: ec77b34e-a98c-142e-14ba-868ff93deaad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.PathDrivenSuccessor Property (Project)
+# Task.PathDrivenSuccessor property (Project)
 Gets a value that indicates whether the task is a successor that is driven by the selected task, when the  **DrivenSuccessors** item is selected in the **Task Path** drop-down list. Read-only **Boolean**.
 
 ## Syntax
 
- _expression_. `PathDrivenSuccessor`
+_expression_. `PathDrivenSuccessor`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -127,3 +128,5 @@ Selected task ID 4, name: T4
 [PathDrivingPredecessor Property](Project.task.pathdrivingpredecessor.md)
 [PathPredecessor Property](Project.task.pathpredecessor.md)
 [PathSuccessor Property](Project.task.pathsuccessor.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

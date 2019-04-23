@@ -1,5 +1,5 @@
 ---
-title: Section.ShowHeaderFooterOnFirstPage Property (Publisher)
+title: Section.ShowHeaderFooterOnFirstPage property (Publisher)
 keywords: vbapb10.chm7405574
 f1_keywords:
 - vbapb10.chm7405574
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Section.ShowHeaderFooterOnFirstPage
 ms.assetid: 6c814884-9bee-72ae-3a40-5118bebd6f02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section.ShowHeaderFooterOnFirstPage Property (Publisher)
+# Section.ShowHeaderFooterOnFirstPage property (Publisher)
 
  **True** if the header and footer of the specified section will be visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **ShowHeaderFooterOnFirstPage**
+_expression_.**ShowHeaderFooterOnFirstPage**
 
  _expression_ A variable that represents a  **Section** object.
 
@@ -43,4 +44,4 @@ End With
 objSection.ShowHeaderFooterOnFirstPage = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

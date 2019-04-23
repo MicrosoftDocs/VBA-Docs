@@ -1,5 +1,5 @@
 ---
-title: Global.DDEInitiate Method (Word)
+title: Global.DDEInitiate method (Word)
 keywords: vbawd10.chm163119415
 f1_keywords:
 - vbawd10.chm163119415
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.DDEInitiate
 ms.assetid: 4b27c9dc-6d81-50e7-968b-f583cd1f23b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.DDEInitiate Method (Word)
+# Global.DDEInitiate method (Word)
 
 Opens a dynamic data exchange (DDE) channel to another application, and returns the channel number.
 
 
 ## Syntax
 
- _expression_. `DDEInitiate`( `_App_` , `_Topic_` )
+_expression_. `DDEInitiate`( `_App_` , `_Topic_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
@@ -65,3 +66,4 @@ DDETerminate Channel:=lngChannel
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

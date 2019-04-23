@@ -1,5 +1,5 @@
 ---
-title: MailMerge Object (Word)
+title: MailMerge object (Word)
 keywords: vbawd10.chm2336
 f1_keywords:
 - vbawd10.chm2336
@@ -8,10 +8,11 @@ api_name:
 - Word.MailMerge
 ms.assetid: b228c4d6-9ca7-8795-12f6-d32e62844a83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMerge Object (Word)
+# MailMerge object (Word)
 
 Represents the mail merge functionality in Word.
 
@@ -52,5 +53,6 @@ End With
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

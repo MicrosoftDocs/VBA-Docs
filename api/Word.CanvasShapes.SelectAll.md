@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.SelectAll Method (Word)
+title: CanvasShapes.SelectAll method (Word)
 keywords: vbawd10.chm7536662
 f1_keywords:
 - vbawd10.chm7536662
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.SelectAll
 ms.assetid: c11c375a-8fb3-535d-b49a-2262560021dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.SelectAll Method (Word)
+# CanvasShapes.SelectAll method (Word)
 
 Selects all the shapes in a canvas.
 
 
 ## Syntax
 
- _expression_. `SelectAll`
+_expression_. `SelectAll`
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Remarks
@@ -48,3 +49,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

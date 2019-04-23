@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Amount Property (PowerPoint)
+title: EffectParameters.Amount property (PowerPoint)
 keywords: vbapp10.chm654004
 f1_keywords:
 - vbapp10.chm654004
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.EffectParameters.Amount
 ms.assetid: dcc17dbf-6064-64b1-5474-29918bc4e0c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EffectParameters.Amount Property (PowerPoint)
+# EffectParameters.Amount property (PowerPoint)
 
 Returns or sets a  **Single** that represents the number of degrees an animated shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 
 
 ## Syntax
 
- _expression_. `Amount`
+_expression_. `Amount`
 
- _expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
+_expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
 
 
 ## Return value
@@ -59,4 +60,4 @@ End Sub
 
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

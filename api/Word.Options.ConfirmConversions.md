@@ -1,5 +1,5 @@
 ---
-title: Options.ConfirmConversions Property (Word)
+title: Options.ConfirmConversions property (Word)
 keywords: vbawd10.chm162988054
 f1_keywords:
 - vbawd10.chm162988054
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.ConfirmConversions
 ms.assetid: 4bdea504-e8c7-193c-c671-1a8ec84d93ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.ConfirmConversions Property (Word)
+# Options.ConfirmConversions property (Word)
 
- **True** if Word displays the **Convert File** dialog box before it opens or inserts a file that isn't a Word document or template. In the **Convert File** dialog box, the user chooses the format to convert the file from. Read/write **Boolean** .
+ **True** if Word displays the **Convert File** dialog box before it opens or inserts a file that isn't a Word document or template. In the **Convert File** dialog box, the user chooses the format to convert the file from. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ConfirmConversions`
+_expression_. `ConfirmConversions`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
@@ -49,3 +50,4 @@ blnConfirm= Options.ConfirmConversions
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

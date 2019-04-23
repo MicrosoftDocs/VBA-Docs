@@ -1,5 +1,5 @@
 ---
-title: DataRecordsets.Add Method (Visio)
+title: DataRecordsets.Add method (Visio)
 keywords: vis_sdr.chm16316005
 f1_keywords:
 - vis_sdr.chm16316005
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsets.Add
 ms.assetid: 9eb136ce-d543-75c3-3a72-cb23dfc8df78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsets.Add Method (Visio)
+# DataRecordsets.Add method (Visio)
 
 Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecordsets](Visio.DataRecordsets.md)** collection by connecting to and retrieving data from an OLEDB or ODBC data source.
 
@@ -21,7 +22,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 ## Syntax
 
- _expression_. `Add`( `_ConnectionIDOrString_` , `_CommandString_` , `_AddOptions_` , `_Name_` )
+_expression_.**Add**( `_ConnectionIDOrString_` , `_CommandString_` , `_AddOptions_` , `_Name_` )
 
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
@@ -34,7 +35,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 |:-----|:-----|:-----|:-----|
 | _ConnectionIDOrString_|Required| **Variant**|The ID of an existing  **[DataConnection](Visio.DataConnection.md)** object or the connection string to specify a new data-source connection.|
 | _CommandString_|Required| **String**|Query string that specifies the database table or Excel worksheet and the fields (columns) within the table or worksheet that contain the data you want to query.|
-| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)** . For more information, see Remarks.|
+| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)**. For more information, see Remarks.|
 | _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
 
 ## Return value
@@ -61,7 +62,7 @@ The AddOptions parameter can be a combination of one or more of the following va
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the  **External Data** window.|
 | **visDataRecordsetNoRefreshUI**|2|Prevents the data recordset from being displayed in the  **Refresh Data** dialog box.|
@@ -85,11 +86,11 @@ If the  **Add** method succeeds, it performs the following actions:
 Unless you pass  **visDataRecordsetDelayQuery** as part of the AddOptions parameter, the **Add** method also does the following:
 
 
-- Executes the query string specified in the CommandString parameter and retreive the resulting data.
+- Executes the query string specified in the CommandString parameter and retrieve the resulting data.
     
-- Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined** , **Chapter** , and **IDispatch** .
+- Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined**, **Chapter**, and **IDispatch**.
     
--  Assigns a row ID to each row in the data recordset. For more information about row IDs, see **[DataRecordset.GetDataRowIDs ](Visio.DataRecordset.GetDataRowIDs.md)** topic.
+-  Assigns a row ID to each row in the data recordset. For more information about row IDs, see **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** topic.
     
 
 
@@ -129,4 +130,4 @@ Public Sub AddDataRecordset_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

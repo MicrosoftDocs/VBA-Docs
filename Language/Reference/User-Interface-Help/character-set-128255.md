@@ -6,12 +6,13 @@ f1_keywords:
 ms.prod: office
 ms.assetid: fef53aff-a726-fcaf-d109-a5e92d97bb4b
 ms.date: 08/24/2018
+localization_priority: Normal
 ---
 
 
 # Character set (128 - 255)
 
-|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|
+|Code|Character|Code|Character|Code|Character|Code|Character|
 |-----:|:-----|-----:|:-----|-----:|:-----|-----:|:-----|
 |128|€|160|[space]|192|À|224|à|
 |129||161|¡|193|Á|225|á|
@@ -55,3 +56,5 @@ The values in the table are the Windows default. However, values in the ANSI cha
 ## See also
 
 - [Chr Function](chr-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

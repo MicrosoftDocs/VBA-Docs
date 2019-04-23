@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: cfe2d03e-68ff-e16a-5daf-5eb8bdef17e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -39,4 +40,4 @@ End Sub
 
  **Note**  If you want to use a folder other than a default folder, use the  **[Folders](../../../api/Outlook.Folders.md)** collection object to refer to any folder that is available in your Folder List.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (Publisher)
+title: FillFormat.PresetGradient method (Publisher)
 keywords: vbapb10.chm2359315
 f1_keywords:
 - vbapb10.chm2359315
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FillFormat.PresetGradient
 ms.assetid: d97c4ce8-5cef-6f53-d0c8-8bcf9ab8bb80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.PresetGradient Method (Publisher)
+# FillFormat.PresetGradient method (Publisher)
 
 Sets the specified fill to a preset gradient.
 
 
 ## Syntax
 
- _expression_. **PresetGradient**(**_Style_**,  **_Variant_**,  **_PresetGradientType_**)
+_expression_.**PresetGradient**(**_Style_**,  **_Variant_**,  **_PresetGradientType_**)
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -30,7 +31,7 @@ Sets the specified fill to a preset gradient.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The style of the gradient.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|**Variant**|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 |PresetGradientType|Required| **MsoPresetGradientType**|The gradient type.|
 
 ## Remarks
@@ -89,4 +90,4 @@ ActiveDocument.Pages(1).Shapes _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

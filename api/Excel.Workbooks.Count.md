@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbooks.Count
 ms.assetid: 71fe409c-3cee-3f05-9669-baf89d32b2ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
- _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](Excel.Workbooks.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 [Workbooks Object](Excel.Workbooks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

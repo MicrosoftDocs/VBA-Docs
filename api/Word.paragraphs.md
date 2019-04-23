@@ -1,12 +1,13 @@
 ---
-title: Paragraphs Object (Word)
+title: Paragraphs object (Word)
 ms.prod: word
 ms.assetid: bdc7a183-2a98-7d47-c86a-5cecd6c91449
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Paragraphs Object (Word)
+# Paragraphs object (Word)
 
 A collection of  **[Paragraph](Word.Paragraph.md)** objects in a selection, range, or document.
 
@@ -23,7 +24,7 @@ With Selection.Paragraphs
 End With
 ```
 
-Use the  **Add** , **InsertParagraph** , **InsertParagraphAfter** , or **InsertParagraphBefore** method to add a new paragraph to a document. The following example adds a new paragraph before the first paragraph in the selection.
+Use the  **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new paragraph to a document. The following example adds a new paragraph before the first paragraph in the selection.
 
 
 
@@ -56,6 +57,6 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.ProtectedViewWindow.SourcePath
 ms.assetid: add00cce-b8e9-5a11-b1cb-27ac63798491
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ProtectedViewWindow.SourcePath property (Excel)
 
-Returns the path of the source file that is open in the specified  **Protected View** window. Read-only
+Returns the path of the source file that is open in the specified Protected View window. Read-only
 
 
 ## Syntax
 
- _expression_. `SourcePath`
+_expression_. `SourcePath`
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 
 
 ## Return value
@@ -48,3 +49,4 @@ MsgBox ActiveProtectedViewWindow.SourcePath & Application.PathSeparator _
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

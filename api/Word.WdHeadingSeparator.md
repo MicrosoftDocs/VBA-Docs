@@ -1,14 +1,15 @@
 ---
-title: WdHeadingSeparator Enumeration (Word)
+title: WdHeadingSeparator enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHeadingSeparator
 ms.assetid: 44bf82de-7cc1-c028-e0be-8b622661c864
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdHeadingSeparator Enumeration (Word)
+# WdHeadingSeparator enumeration (Word)
 
 Specifies the type of text separator to place between headings in an index.
 
@@ -22,3 +23,4 @@ Specifies the type of text separator to place between headings in an index.
 | **wdHeadingSeparatorLetterLow**|3|A designated lowercase letter.|
 | **wdHeadingSeparatorNone**|0|No separator.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

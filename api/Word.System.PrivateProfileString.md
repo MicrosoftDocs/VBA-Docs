@@ -1,5 +1,5 @@
 ---
-title: System.PrivateProfileString Property (Word)
+title: System.PrivateProfileString property (Word)
 keywords: vbawd10.chm154468362
 f1_keywords:
 - vbawd10.chm154468362
@@ -8,17 +8,18 @@ api_name:
 - Word.System.PrivateProfileString
 ms.assetid: 737fb157-4665-5e31-240a-347bd7334005
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# System.PrivateProfileString Property (Word)
+# System.PrivateProfileString property (Word)
 
-Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write  **String** .
+Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PrivateProfileString`( `_FileName_` , `_Section_` , `_Key_` )
+_expression_. `PrivateProfileString`( `_FileName_` , `_Section_` , `_Key_` )
 
  _expression_ An expression that returns a '[System](Word.System.md)' object.
 
@@ -77,3 +78,4 @@ MsgBox aName
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

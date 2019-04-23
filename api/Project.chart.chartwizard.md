@@ -1,26 +1,27 @@
 ---
-title: Chart.ChartWizard Method (Project)
+title: Chart.ChartWizard method (Project)
 ms.prod: project-server
 ms.assetid: 7626dc1f-89e1-3f18-0859-ebe2e0771de0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.ChartWizard Method (Project)
+# Chart.ChartWizard method (Project)
 Modifies the properties and formatting of a chart.
 
 ## Syntax
 
- _expression_. `ChartWizard` _(varSource,_ _varGallery,_ _varFormat,_ _varPlotBy,_ _varCategoryLabels,_ _varSeriesLabels,_ _varHasLegend,_ _varTitle,_ _varCategoryTitle,_ _varValueTitle,_ _varExtraTitle)_
+_expression_. `ChartWizard` _(varSource,_ _varGallery,_ _varFormat,_ _varPlotBy,_ _varCategoryLabels,_ _varSeriesLabels,_ _varHasLegend,_ _varTitle,_ _varCategoryTitle,_ _varValueTitle,_ _varExtraTitle)_
 
- _expression_ A variable that represents a 'Chart' object.
+_expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varSource_|Optional|**Variant**|The source data for a new chart. If the  _varSource_ argument is omitted, Project edits the active report or the selected chart on the active report.|
 | _varGallery_|Optional|**Variant**|One of the constants of the  **Office.XlChartType** enumeration, which specifies the chart type.|
@@ -32,18 +33,18 @@ Modifies the properties and formatting of a chart.
 | _varTitle_|Optional|**Variant**|The chart title.|
 | _varCategoryTitle_|Optional|**Variant**|The category axis title.|
 | _varValueTitle_|Optional|**Variant**|The value axis title.|
-| _varExtraTitle_|Optional|**Variant**|The series axis title for 3-D charts or the second value axis title for 2-D charts.|
-| _varSource_|Optional|VARIANT||
-| _varGallery_|Optional|VARIANT||
-| _varFormat_|Optional|VARIANT||
-| _varPlotBy_|Optional|VARIANT||
-| _varCategoryLabels_|Optional|VARIANT||
-| _varSeriesLabels_|Optional|VARIANT||
-| _varHasLegend_|Optional|VARIANT||
-| _varTitle_|Optional|VARIANT||
-| _varCategoryTitle_|Optional|VARIANT||
-| _varValueTitle_|Optional|VARIANT||
-| _varExtraTitle_|Optional|VARIANT||
+| _varExtraTitle_|Optional|**Variant**|The series axis title for 3D charts or the second value axis title for 2D charts.|
+| _varSource_|Optional|**Variant**||
+| _varGallery_|Optional|**Variant**||
+| _varFormat_|Optional|**Variant**||
+| _varPlotBy_|Optional|**Variant**||
+| _varCategoryLabels_|Optional|**Variant**||
+| _varSeriesLabels_|Optional|**Variant**||
+| _varHasLegend_|Optional|**Variant**||
+| _varTitle_|Optional|**Variant**||
+| _varCategoryTitle_|Optional|**Variant**||
+| _varValueTitle_|Optional|**Variant**||
+| _varExtraTitle_|Optional|**Variant**||
 
 ## Return value
 
@@ -80,3 +81,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [AutoFormat Method](Project.chart.autoformat.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

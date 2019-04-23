@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TBillEq Method (Excel)
+title: WorksheetFunction.TBillEq method (Excel)
 keywords: vbaxl10.chm137315
 f1_keywords:
 - vbaxl10.chm137315
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.TBillEq
 ms.assetid: 4b52fbb3-5d25-3fae-cdf8-ec3d406ce787
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.TBillEq Method (Excel)
+# WorksheetFunction.TBillEq method (Excel)
 
 Returns the bond-equivalent yield for a Treasury bill.
 
 
 ## Syntax
 
- _expression_. `TBillEq`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `TBillEq`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -63,3 +64,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

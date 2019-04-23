@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.AddToFavorites Method (Visio)
+title: Hyperlink.AddToFavorites method (Visio)
 keywords: vis_sdr.chm15016065
 f1_keywords:
 - vis_sdr.chm15016065
@@ -8,17 +8,18 @@ api_name:
 - Visio.Hyperlink.AddToFavorites
 ms.assetid: 21a86316-6a59-dc7e-b4f1-0a3d034ba32a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Hyperlink.AddToFavorites Method (Visio)
+# Hyperlink.AddToFavorites method (Visio)
 
 Adds a shortcut for a hyperlink address in the presently registered Favorites folder.
 
 
 ## Syntax
 
- _expression_. `AddToFavorites`( `_FavoritesTitle_` )
+_expression_. `AddToFavorites`( `_FavoritesTitle_` )
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
@@ -103,4 +104,4 @@ Sub AddToFavorites_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

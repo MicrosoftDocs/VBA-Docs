@@ -8,6 +8,7 @@ api_name:
 - Excel.GroupShapes.Range
 ms.assetid: b02b1915-2cd2-353b-0243-a5d60470e897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
- _expression_ A variable that represents a [GroupShapes](Excel.GroupShapes.md) object.
+_expression_ A variable that represents a [GroupShapes](Excel.GroupShapes.md) object.
 
 
 ## Parameters
@@ -38,7 +39,7 @@ Although you can use the  **[Range](Excel.GroupShapes.Range.md)** property to re
 
 ## Example
 
-This example sets the fill pattern for shapes one and three on  `myDocument`.
+This example sets the fill pattern for shapes one and three on  _myDocument_.
 
 
 ```vb
@@ -47,7 +48,7 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-To specify an array of integers or strings for  **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
 
 
@@ -71,7 +72,7 @@ set sr = Selection.ShapeRange ' create ShapeRange
  
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  `myDocument`.
+This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  _myDocument_.
 
 
 
@@ -85,7 +86,7 @@ Set objRange = myDocument.Shapes.Range(arShapes)
 objRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for shape one on  `myDocument`.
+This example sets the fill pattern for shape one on  _myDocument_.
 
 
 
@@ -96,7 +97,7 @@ Set myRange = myDocument.Shapes.Range(1)
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example creates an array that contains all the AutoShapes on  `myDocument`, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
+This example creates an array that contains all the AutoShapes on  _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 
 
 
@@ -129,3 +130,4 @@ End With
 
 [GroupShapes Object](Excel.GroupShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

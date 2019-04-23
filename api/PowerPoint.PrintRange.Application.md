@@ -1,5 +1,5 @@
 ---
-title: PrintRange.Application Property (PowerPoint)
+title: PrintRange.Application property (PowerPoint)
 keywords: vbapp10.chm519001
 f1_keywords:
 - vbapp10.chm519001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.PrintRange.Application
 ms.assetid: 3aa187da-6f23-b0ec-6036-bc2000d6020a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PrintRange.Application Property (PowerPoint)
+# PrintRange.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [PrintRange](./PowerPoint.PrintRange.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [PrintRange Object](PowerPoint.PrintRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

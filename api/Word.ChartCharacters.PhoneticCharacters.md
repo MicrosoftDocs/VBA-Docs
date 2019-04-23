@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.PhoneticCharacters Property (Word)
+title: ChartCharacters.PhoneticCharacters property (Word)
 keywords: vbawd10.chm250742258
 f1_keywords:
 - vbawd10.chm250742258
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartCharacters.PhoneticCharacters
 ms.assetid: 3bf59590-d83c-1d11-f092-61b190cd24ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartCharacters.PhoneticCharacters Property (Word)
+# ChartCharacters.PhoneticCharacters property (Word)
 
-Returns or sets the phonetic text for the object. Read/write  **String** .
+Returns or sets the phonetic text for the object. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PhoneticCharacters`
+_expression_.**PhoneticCharacters**
 
  _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 
@@ -42,3 +43,4 @@ End With
 
 [ChartCharacters Object](Word.ChartCharacters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

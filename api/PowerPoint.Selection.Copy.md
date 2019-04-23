@@ -1,5 +1,5 @@
 ---
-title: Selection.Copy Method (PowerPoint)
+title: Selection.Copy method (PowerPoint)
 keywords: vbapp10.chm508004
 f1_keywords:
 - vbapp10.chm508004
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Selection.Copy
 ms.assetid: 954106da-a2a9-0c55-114a-5a79f578e0c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Selection.Copy Method (PowerPoint)
+# Selection.Copy method (PowerPoint)
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_.**Copy**
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
@@ -45,3 +46,4 @@ Windows(2).View.Paste
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

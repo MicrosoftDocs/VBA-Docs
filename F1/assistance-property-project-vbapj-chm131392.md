@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 60f28503-0f78-4ab7-9c79-6321beaeeb7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.AllowTaskDelegation Property (Project)](http://msdn.microsoft.com/library/ff8501bf-28a0-c53b-36a6-a697f5e160b7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

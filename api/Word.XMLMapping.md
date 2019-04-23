@@ -1,5 +1,5 @@
 ---
-title: XMLMapping Object (Word)
+title: XMLMapping object (Word)
 keywords: vbawd10.chm3047
 f1_keywords:
 - vbawd10.chm3047
@@ -8,10 +8,11 @@ api_name:
 - Word.XMLMapping
 ms.assetid: cf76802b-f93d-0f3b-4936-ca357a7d7ff8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLMapping Object (Word)
+# XMLMapping object (Word)
 
 Represents the XML mapping on a  **[ContentControl](Word.ContentControl.md)** object between custom XML and a content control. An XML mapping is a link between the text in a content control and an XML element in the custom XML data store for this document.
 
@@ -141,5 +142,6 @@ Use the  **[CustomXMLNode](Word.XMLMapping.CustomXMLNode.md)** property to acces
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.CustomXMLPart Property (Word)
+title: XMLMapping.CustomXMLPart property (Word)
 keywords: vbawd10.chm199688193
 f1_keywords:
 - vbawd10.chm199688193
@@ -8,17 +8,18 @@ api_name:
 - Word.XMLMapping.CustomXMLPart
 ms.assetid: a9eac7d6-0088-7251-e0b2-fef529fee278
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XMLMapping.CustomXMLPart Property (Word)
+# XMLMapping.CustomXMLPart property (Word)
 
 Returns a  **CustomXMLPart** object that represents the custom XML part to which the content control in the document maps.
 
 
 ## Syntax
 
- _expression_. `CustomXMLPart`
+_expression_. `CustomXMLPart`
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
@@ -48,3 +49,4 @@ objNode.Text = "Mystery of the Empty Chair"
 
 [XMLMapping Object](Word.XMLMapping.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

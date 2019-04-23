@@ -1,14 +1,15 @@
 ---
-title: PjResourceGraphPattern Enumeration (Project)
+title: PjResourceGraphPattern enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjResourceGraphPattern
 ms.assetid: d852fc68-d1c1-4df7-b3e4-6bead6e2c09f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjResourceGraphPattern Enumeration (Project)
+# PjResourceGraphPattern enumeration (Project)
 
 Contains constants that specify the pattern of a resource graph.
 
@@ -34,3 +35,4 @@ Contains constants that specify the pattern of a resource graph.
 |**pjNoGraphLine**|0|No graph line.|
 |**pjSolidFill**|1|Solid fill.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

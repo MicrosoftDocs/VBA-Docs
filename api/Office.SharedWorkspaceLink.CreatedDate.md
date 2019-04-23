@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.CreatedDate Property (Office)
+title: SharedWorkspaceLink.CreatedDate property (Office)
 keywords: vbaof11.chm270005
 f1_keywords:
 - vbaof11.chm270005
@@ -7,11 +7,12 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.CreatedDate
 ms.assetid: 4d3a905c-4472-d0e9-ad2d-556ec34b1801
-ms.date: 06/08/2017
+ms.date: 01/24/2019
+localization_priority: Normal
 ---
 
 
-# SharedWorkspaceLink.CreatedDate Property (Office)
+# SharedWorkspaceLink.CreatedDate property (Office)
 
 Gets the date and time when the shared workspace object was created. Read-only.
 
@@ -21,9 +22,9 @@ Gets the date and time when the shared workspace object was created. Read-only.
 
 ## Syntax
 
- _expression_. `CreatedDate`
+_expression_.**CreatedDate**
 
- _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceLink](Office.SharedWorkspaceLink.md)** object.
 
 
 ## Return value
@@ -33,10 +34,8 @@ Variant
 
 ## See also
 
-
-[SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-
+- [SharedWorkspaceLink object members](overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 
-[SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

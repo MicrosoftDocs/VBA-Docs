@@ -1,5 +1,5 @@
 ---
-title: Axes Object (PowerPoint)
+title: Axes object (PowerPoint)
 keywords: vbapp10.chm681000
 f1_keywords:
 - vbapp10.chm681000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.Axes
 ms.assetid: 71f1e1fc-7086-a84e-1e05-6fa50597b49b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Axes Object (PowerPoint)
+# Axes object (PowerPoint)
 
 Represents a collection of all the  **[Axis](PowerPoint.Axis.md)** objects in the specified chart.
 
@@ -81,3 +82,4 @@ End With
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a4a177f5-a4d3-e452-ae59-8709fc582246
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-Unabe to delete a file on the internet server. Make sure the server is running and the FTP share folder is configured properly with read/write access.
+Unable to delete a file on the internet server. Make sure the server is running and the FTP share folder is configured properly with read/write access.
 
 ## See also
 
@@ -25,3 +26,5 @@ Unabe to delete a file on the internet server. Make sure the server is running a
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: MsoAnimTriggerType Enumeration (PowerPoint)
+title: MsoAnimTriggerType enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimTriggerType
 ms.assetid: 09ad45bc-7a8b-46ec-6d69-b3f826ec8772
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MsoAnimTriggerType Enumeration (PowerPoint)
+# MsoAnimTriggerType enumeration (PowerPoint)
 
 The action that triggers the animation effect. The default value is  **msoAnimTriggerOnPageClick**.
 
@@ -23,3 +24,4 @@ The action that triggers the animation effect. The default value is  **msoAnimTr
 |**msoAnimTriggerOnShapeClick**|4|When a shape is clicked.|
 |**msoAnimTriggerWithPrevious**|2|When the  **Previous** button is clicked.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

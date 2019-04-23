@@ -1,5 +1,5 @@
 ---
-title: Application.EditPasteSpecial Method (Project)
+title: Application.EditPasteSpecial method (Project)
 keywords: vbapj.chm232
 f1_keywords:
 - vbapj.chm232
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EditPasteSpecial
 ms.assetid: afbe96f1-a4f6-e879-cacc-115761f5e1c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EditPasteSpecial Method (Project)
+# Application.EditPasteSpecial method (Project)
 
 Copies or links data from the Clipboard into the active selection.
 
 
 ## Syntax
 
- _expression_. `EditPasteSpecial`( ` _Link_`, ` _Type_`, ` _DisplayAsIcon_` )
+_expression_. `EditPasteSpecial`( `_Link_`, `_Type_`, `_DisplayAsIcon_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sub Edit_PasteSpecial()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

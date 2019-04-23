@@ -1,5 +1,5 @@
 ---
-title: Application.UpdateProject Method (Project)
+title: Application.UpdateProject method (Project)
 keywords: vbapj.chm611
 f1_keywords:
 - vbapj.chm611
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.UpdateProject
 ms.assetid: a6f80334-7faf-ca95-b5ed-0a9fba516169
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UpdateProject Method (Project)
+# Application.UpdateProject method (Project)
 
 Updates progress information and reschedules work for tasks in a project.
 
 
 ## Syntax
 
- _expression_. `UpdateProject`( ` _All_`, ` _UpdateDate_`, ` _Action_` )
+_expression_. `UpdateProject`( `_All_`, `_UpdateDate_`, `_Action_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -65,4 +66,4 @@ Sub Update_Project()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

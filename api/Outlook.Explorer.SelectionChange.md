@@ -1,5 +1,5 @@
 ---
-title: Explorer.SelectionChange Event (Outlook)
+title: Explorer.SelectionChange event (Outlook)
 keywords: vbaol11.chm455
 f1_keywords:
 - vbaol11.chm455
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Explorer.SelectionChange
 ms.assetid: ef0d976f-b9f6-2080-7657-e48d1c64ccb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Explorer.SelectionChange Event (Outlook)
+# Explorer.SelectionChange event (Outlook)
 
 Occurs when the user selects a different or additional Microsoft Outlook item programmatically or by interacting with the user interface.
 
 
 ## Syntax
 
- _expression_. `SelectionChange`
+_expression_. `SelectionChange`
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks
@@ -59,3 +60,4 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

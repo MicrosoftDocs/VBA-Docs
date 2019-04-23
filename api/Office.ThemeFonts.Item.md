@@ -1,32 +1,31 @@
 ---
-title: ThemeFonts.Item Method (Office)
+title: ThemeFonts.Item method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts.Item
 ms.assetid: 09b437dd-9be3-223e-4b81-f83a1d44d53f
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# ThemeFonts.Item Method (Office)
+# ThemeFonts.Item method (Office)
 
-Gets one of the three language fonts contained in the  **ThemeFonts** collection.
+Gets one of the three language fonts contained in the **ThemeFonts** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item**(_Index_)
 
- _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
+_expression_ An expression that returns a **[ThemeFonts](Office.ThemeFonts.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**MsoFontLanguageIndex**|The index value of the  **ThemeFont** object.|
+| _Index_|Required|**[MsoFontLanguageIndex](office.msofontlanguageindex.md)**|The index value of the **ThemeFont** object.|
 
 ## Return value
 
@@ -49,10 +48,7 @@ Set latinMinorFont = tfThemeFonts(msoThemeLatin)
 
 ## See also
 
-
-[ThemeFonts Object](Office.ThemeFonts.md)
-
+- [ThemeFonts object members](overview/Library-Reference/themefonts-members-office.md)
 
 
-[ThemeFonts Object Members](./overview/Library-Reference/themefonts-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

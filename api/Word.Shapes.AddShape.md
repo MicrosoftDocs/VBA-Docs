@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (Word)
+title: Shapes.AddShape method (Word)
 keywords: vbawd10.chm161415185
 f1_keywords:
 - vbawd10.chm161415185
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.AddShape
 ms.assetid: a0f1ce85-a641-5e9f-eb3c-4ebf01fdc32a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddShape Method (Word)
+# Shapes.AddShape method (Word)
 
 Adds an AutoShape to a document. Returns a  **[Shape](Word.Shape.md)** object that represents the AutoShape and adds it to the **[Shapes](Word.shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. `AddShape`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_. `AddShape`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -50,3 +51,4 @@ To change the type of an AutoShape that you've added, set the  **AutoShapeType**
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

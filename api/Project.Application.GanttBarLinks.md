@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarLinks Method (Project)
+title: Application.GanttBarLinks method (Project)
 keywords: vbapj.chm2071
 f1_keywords:
 - vbapj.chm2071
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GanttBarLinks
 ms.assetid: 80f8fdaa-e08f-3c5e-64dc-43d3dccd7f86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GanttBarLinks Method (Project)
+# Application.GanttBarLinks method (Project)
 
 Shows or hides task links on the Gantt Chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarLinks`( ` _Display_` )
+_expression_. `GanttBarLinks`( `_Display_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -51,4 +52,4 @@ Sub GanttBar_Links()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

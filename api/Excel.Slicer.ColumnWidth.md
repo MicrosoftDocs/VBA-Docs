@@ -8,19 +8,20 @@ api_name:
 - Excel.Slicer.ColumnWidth
 ms.assetid: ff97ad0c-952b-1d83-93e8-9a6144b09ceb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Slicer.ColumnWidth property (Excel)
 
-Returns or sets the width, in points, of each column in the slicer. Read/write
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of each column in the slicer. Read/write
 
 
 ## Syntax
 
- _expression_. `ColumnWidth`
+_expression_.**ColumnWidth**
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value
@@ -38,3 +39,4 @@ The  **[Width](Excel.Slicer.Width.md)** property of the **[Slicer](Excel.Slicer.
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

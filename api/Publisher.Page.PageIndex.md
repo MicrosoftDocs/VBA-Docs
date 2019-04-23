@@ -1,5 +1,5 @@
 ---
-title: Page.PageIndex Property (Publisher)
+title: Page.PageIndex property (Publisher)
 keywords: vbapb10.chm393224
 f1_keywords:
 - vbapb10.chm393224
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.PageIndex
 ms.assetid: f64cc275-0474-7b97-d840-22e1e576d6f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.PageIndex Property (Publisher)
+# Page.PageIndex property (Publisher)
 
 Gets the index of the page in the  **Pages** collection of the active document. Read-only.
 
 
 ## Syntax
 
- _expression_. **PageIndex**
+_expression_.**PageIndex**
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -49,4 +50,4 @@ End With
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

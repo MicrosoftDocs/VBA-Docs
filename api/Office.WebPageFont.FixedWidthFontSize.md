@@ -1,5 +1,5 @@
 ---
-title: WebPageFont.FixedWidthFontSize Property (Office)
+title: WebPageFont.FixedWidthFontSize property (Office)
 keywords: vbaof11.chm224004
 f1_keywords:
 - vbaof11.chm224004
@@ -7,30 +7,31 @@ ms.prod: office
 api_name:
 - Office.WebPageFont.FixedWidthFontSize
 ms.assetid: a3f68d85-219d-c94b-15d2-c55374158fc2
-ms.date: 06/08/2017
+ms.date: 01/29/2019
+localization_priority: Normal
 ---
 
 
-# WebPageFont.FixedWidthFontSize Property (Office)
+# WebPageFont.FixedWidthFontSize property (Office)
 
 Sets or gets the fixed-width font size setting in the host application, in points. Read/write.
 
 
 ## Syntax
 
- _expression_. `FixedWidthFontSize`
+_expression_.**FixedWidthFontSize**
 
- _expression_ A variable that represents a [WebPageFont](./Office.WebPageFont.md) object.
+_expression_ A variable that represents a **[WebPageFont](Office.WebPageFont.md)** object.
 
 
 ## Remarks
 
-When you set the  **FixedWidthFontSize** property, the host application does not check the value for validity. If you enter an invalid value, such as a nonnumber, the host application sets the size to 0 points. You can enter half-point sizes; if you enter other fractional point sizes, they are rounded up or down to the nearest half-point.
+When you set the **FixedWidthFontSize** property, the host application does not check the value for validity. If you enter an invalid value, such as a nonnumber, the host application sets the size to 0 points. You can enter half-point sizes; if you enter other fractional point sizes, they are rounded up or down to the nearest half-point.
 
 
 ## Example
 
-This example sets the fixed-width font and fixed-width font size for the English/Western European/Other Latin Script character set in the active application.
+This example sets the fixed-width font and fixed-width font size for the **English/Western European/Other Latin Script** character set in the active application.
 
 
 ```vb
@@ -45,10 +46,7 @@ Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _
 
 ## See also
 
-
-[WebPageFont Object](Office.WebPageFont.md)
-
+- [WebPageFont object members](overview/Library-Reference/webpagefont-members-office.md)
 
 
-[WebPageFont Object Members](./overview/Library-Reference/webpagefont-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

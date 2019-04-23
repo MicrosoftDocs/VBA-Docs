@@ -1,5 +1,5 @@
 ---
-title: ConversationHeader.GetConversation Method (Outlook)
+title: ConversationHeader.GetConversation method (Outlook)
 keywords: vbaol11.chm3541
 f1_keywords:
 - vbaol11.chm3541
@@ -8,19 +8,20 @@ api_name:
 - Outlook.ConversationHeader.GetConversation
 ms.assetid: c6a98d31-9973-1e75-3aa6-edb37d82d7d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ConversationHeader.GetConversation Method (Outlook)
+# ConversationHeader.GetConversation method (Outlook)
 
 Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this conversation header belongs.
 
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
+_expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 
 
 ## Return value
@@ -49,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this conver
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

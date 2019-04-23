@@ -1,5 +1,5 @@
 ---
-title: Shape.TransformXYTo Method (Visio)
+title: Shape.TransformXYTo method (Visio)
 keywords: vis_sdr.chm11216605
 f1_keywords:
 - vis_sdr.chm11216605
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.TransformXYTo
 ms.assetid: dc85cf08-0d83-34ff-8389-94a0f5f05c5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.TransformXYTo Method (Visio)
+# Shape.TransformXYTo method (Visio)
 
 Transforms a point expressed in the local coordinate system of one  **Shape** object to an equivalent point expressed in the local coordinate system of another **Shape** object.
 
 
 ## Syntax
 
- _expression_. `TransformXYTo`( `_OtherShape_` , `_x_` , `_y_` , `_xprime_` , `_yprime_` )
+_expression_. `TransformXYTo`( `_OtherShape_` , `_x_` , `_y_` , `_xprime_` , `_yprime_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -46,4 +47,4 @@ The points  _x_,  _y_,  _xprime_ and _yprime_ are all treated as internal drawin
 
 An exception is raised if object is not a  **Shape** object of a **Page** or **Master** object, or if _OtherShape_ is not in the same **Page** or **Master** object as _object_.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

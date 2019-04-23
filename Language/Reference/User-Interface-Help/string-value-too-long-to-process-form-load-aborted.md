@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: f6efb30b-fa24-5547-1e23-03cb20f41dc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 A string embedded in the form being loaded was too long to process.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

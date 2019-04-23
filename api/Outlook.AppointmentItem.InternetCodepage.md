@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.InternetCodepage Property (Outlook)
+title: AppointmentItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm916
 f1_keywords:
 - vbaol11.chm916
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.InternetCodepage
 ms.assetid: 7ebb4076-7ba0-cae4-f6d4-e85d37675a8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.InternetCodepage Property (Outlook)
+# AppointmentItem.InternetCodepage property (Outlook)
 
 Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
 
 
 ## Syntax
 
- _expression_. `InternetCodepage`
+_expression_. `InternetCodepage`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Remarks
@@ -67,7 +68,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 |Western European (ISO)| iso-8859-1|28591|
 |Western European (Windows)|Windows-1252|1252|
 
-The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
+The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
 
 
@@ -102,3 +103,4 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

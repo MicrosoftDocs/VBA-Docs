@@ -1,5 +1,5 @@
 ---
-title: Section.Count Property (Visio)
+title: Section.Count property (Visio)
 keywords: vis_sdr.chm15713330
 f1_keywords:
 - vis_sdr.chm15713330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Section.Count
 ms.assetid: 915dc7cd-ec14-77e3-63e0-217bd3e17abf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Section.Count Property (Visio)
+# Section.Count property (Visio)
 
 Returns the number of objects in a collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
@@ -51,4 +52,4 @@ Public Sub Count_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

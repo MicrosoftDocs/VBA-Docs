@@ -1,5 +1,5 @@
 ---
-title: Document.BorderArts Property (Publisher)
+title: Document.BorderArts property (Publisher)
 keywords: vbapb10.chm196721
 f1_keywords:
 - vbapb10.chm196721
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.BorderArts
 ms.assetid: 5639ffce-f711-71b6-78f8-2de63fe50a3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.BorderArts Property (Publisher)
+# Document.BorderArts property (Publisher)
 
 Returns a  **[BorderArts](Publisher.BorderArts.md)** collection that represents the BorderArt types available for use in the specified publication. Read-only.
 
 
 ## Syntax
 
- _expression_. **BorderArts**
+_expression_.**BorderArts**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -53,4 +54,4 @@ Next bdaLoop
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

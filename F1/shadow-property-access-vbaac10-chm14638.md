@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 6dccd8af-7eef-410b-acae-83d64296acd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ToggleButton.Shadow property (Access)](http://msdn.microsoft.com/library/0095ff4e-56f0-9b56-73e2-2e3066ee8b03%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

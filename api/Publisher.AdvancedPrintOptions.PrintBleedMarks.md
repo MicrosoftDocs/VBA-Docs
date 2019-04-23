@@ -1,5 +1,5 @@
 ---
-title: AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
+title: AdvancedPrintOptions.PrintBleedMarks property (Publisher)
 keywords: vbapb10.chm7077907
 f1_keywords:
 - vbapb10.chm7077907
@@ -8,17 +8,18 @@ api_name:
 - Publisher.AdvancedPrintOptions.PrintBleedMarks
 ms.assetid: f0c69d5f-4bfd-7a4c-3607-714859bcc86c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
+# AdvancedPrintOptions.PrintBleedMarks property (Publisher)
 
  **True** to print bleed marks in the specified publication. The default is **False**. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. **PrintBleedMarks**
+_expression_.**PrintBleedMarks**
 
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
@@ -57,3 +58,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

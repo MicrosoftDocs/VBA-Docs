@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Shapes Property (Word)
+title: HeaderFooter.Shapes property (Word)
 keywords: vbawd10.chm159711239
 f1_keywords:
 - vbawd10.chm159711239
@@ -8,17 +8,18 @@ api_name:
 - Word.HeaderFooter.Shapes
 ms.assetid: dc38943b-b4fa-51c5-ff3d-8180ff51c279
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# HeaderFooter.Shapes Property (Word)
+# HeaderFooter.Shapes property (Word)
 
 Returns a  **Shapes** collection that represents all the **Shape** objects in a header or footer. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
@@ -46,3 +47,4 @@ MsgBox ActiveDocument.Sections(1). _
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

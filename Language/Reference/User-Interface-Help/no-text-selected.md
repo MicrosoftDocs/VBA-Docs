@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1466a713-cbb5-fa3a-5ed0-ea36761020c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ You must select some text to perform this operation. This error has the followin
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

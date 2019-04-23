@@ -8,19 +8,20 @@ api_name:
 - Excel.FileExportConverter.Creator
 ms.assetid: f008a8c9-89a6-a0a9-4f26-acffdde29e6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # FileExportConverter.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a '[FileExportConverter](Excel.FileExportConverter.md)' object.
+_expression_ A variable that represents a '[FileExportConverter](Excel.FileExportConverter.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the hexadeci
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

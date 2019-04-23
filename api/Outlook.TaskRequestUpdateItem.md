@@ -1,5 +1,5 @@
 ---
-title: TaskRequestUpdateItem Object (Outlook)
+title: TaskRequestUpdateItem object (Outlook)
 keywords: vbaol11.chm3011
 f1_keywords:
 - vbaol11.chm3011
@@ -8,10 +8,11 @@ api_name:
 - Outlook.TaskRequestUpdateItem
 ms.assetid: 5bc407fe-b3f6-3e46-8b91-e2ed96292cec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TaskRequestUpdateItem Object (Outlook)
+# TaskRequestUpdateItem object (Outlook)
 
 Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 
@@ -29,7 +30,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.TaskRequestUpdateItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.TaskRequestUpdateItem.AttachmentAdd.md)|
@@ -62,7 +63,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.TaskRequestUpdateItem.Close(method).md)|
 |[Copy](Outlook.TaskRequestUpdateItem.Copy.md)|
@@ -80,7 +81,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.TaskRequestUpdateItem.Actions.md)|
 |[Application](Outlook.TaskRequestUpdateItem.Application.md)|
@@ -124,4 +125,6 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.m
 ## See also
 
 
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+[Outlook Object Model Reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

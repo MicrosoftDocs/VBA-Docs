@@ -1,5 +1,5 @@
 ---
-title: Application.IsSandboxed Property (Word)
+title: Application.IsSandboxed property (Word)
 keywords: vbawd10.chm158335468
 f1_keywords:
 - vbawd10.chm158335468
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.IsSandboxed
 ms.assetid: 13fbfbda-b9e5-4f5d-46e2-2d8b157c77a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.IsSandboxed Property (Word)
+# Application.IsSandboxed property (Word)
 
  **True** if the application window is a protected view window. Read-only.
 
 
 ## Syntax
 
- _expression_. `IsSandboxed`
+_expression_. `IsSandboxed`
 
  _expression_ An expression that returns a [Application](./Word.Application.md) object.
 
@@ -45,3 +46,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

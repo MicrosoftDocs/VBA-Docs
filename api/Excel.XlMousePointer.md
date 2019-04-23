@@ -1,14 +1,15 @@
 ---
-title: xlMousePointer enumeration (Excel)
+title: XlMousePointer enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMousePointer
 ms.assetid: 5aa7dbb9-6473-a492-98c0-74c801e09939
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlMousePointer enumeration (Excel)
+# XlMousePointer enumeration (Excel)
 
 Specifies the appearance of the mouse pointer in Excel.
 
@@ -21,3 +22,4 @@ Specifies the appearance of the mouse pointer in Excel.
 | **xlNorthwestArrow**|1|The northwest-arrow pointer.|
 | **xlWait**|2|The hourglass pointer.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

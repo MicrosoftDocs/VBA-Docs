@@ -1,5 +1,5 @@
 ---
-title: Folder.GetCalendarExporter Method (Outlook)
+title: Folder.GetCalendarExporter method (Outlook)
 keywords: vbaol11.chm2020
 f1_keywords:
 - vbaol11.chm2020
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Folder.GetCalendarExporter
 ms.assetid: 7c67e208-65dd-8904-4b6f-8ec2df4e530d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Folder.GetCalendarExporter Method (Outlook)
+# Folder.GetCalendarExporter method (Outlook)
 
-Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)** .
+Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)**.
 
 
 ## Syntax
 
- _expression_. `GetCalendarExporter`
+_expression_. `GetCalendarExporter`
 
- _expression_ An expression that returns a [Folder](./Outlook.Folder.md) object.
+ _expression_ An expression that returns a [Folder](Outlook.Folder.md) object.
 
 
 ## Return value
@@ -41,3 +42,4 @@ The  **GetCalendarExporter** method automatically sets the defaults for the **Ca
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

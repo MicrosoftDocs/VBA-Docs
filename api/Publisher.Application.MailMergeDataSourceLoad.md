@@ -1,5 +1,5 @@
 ---
-title: Application.MailMergeDataSourceLoad Event (Publisher)
+title: Application.MailMergeDataSourceLoad event (Publisher)
 keywords: vbapb10.chm268435475
 f1_keywords:
 - vbapb10.chm268435475
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.MailMergeDataSourceLoad
 ms.assetid: afca3a05-d6a6-15f1-8cbf-593777066757
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MailMergeDataSourceLoad Event (Publisher)
+# Application.MailMergeDataSourceLoad event (Publisher)
 
 Occurs when the data source is loaded for a mail merge.
 
 
 ## Syntax
 
- _expression_. **MailMergeDataSourceLoad**(**_Doc_**)
+_expression_.**MailMergeDataSourceLoad**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -78,3 +79,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

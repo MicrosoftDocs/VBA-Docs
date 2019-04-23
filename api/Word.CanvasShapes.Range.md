@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Range Method (Word)
+title: CanvasShapes.Range method (Word)
 keywords: vbawd10.chm7536661
 f1_keywords:
 - vbawd10.chm7536661
@@ -8,19 +8,20 @@ api_name:
 - Word.CanvasShapes.Range
 ms.assetid: 4e0e24aa-7510-a002-63d2-e6dbb5bc3398
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CanvasShapes.Range Method (Word)
+# CanvasShapes.Range method (Word)
 
 Returns a  **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. `Range`( `_Index_` )
+_expression_.**Range** (_Index_)
 
- _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
+_expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ## Parameters
@@ -65,3 +66,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.ForeColor Property (Word)
+title: LineFormat.ForeColor property (Word)
 keywords: vbawd10.chm164233324
 f1_keywords:
 - vbawd10.chm164233324
@@ -8,17 +8,18 @@ api_name:
 - Word.LineFormat.ForeColor
 ms.assetid: 16f8ddbe-21d8-4c09-ac54-feeb8f71146b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LineFormat.ForeColor Property (Word)
+# LineFormat.ForeColor property (Word)
 
 Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the line. Read/write.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
  _expression_ A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 
@@ -50,3 +51,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

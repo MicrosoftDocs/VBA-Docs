@@ -2,7 +2,8 @@
 title: MetaProperties members (Office)
 ms.prod: office
 ms.assetid: 0e2efa13-130c-59ad-07ee-8499f502064a
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,7 +14,7 @@ Represents a collection of properties describing the metadata stored in a docume
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GetItemByInternalName](../../Office.MetaProperties.GetItemByInternalName.md)|Gets a property's value specifying its name as opposed to its index value.|
 |[Validate](../../Office.MetaProperties.Validate.md)|Validates all of the properties in a **MetaProperties** collection object according to a schema.|
@@ -21,7 +22,7 @@ Represents a collection of properties describing the metadata stored in a docume
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.MetaProperties.Application.md)|Gets an **Application** object that represents the container application for the **MetaProperties** object. Read-only.|
 |[Count](../../Office.MetaProperties.Count.md)|Gets a **Long** indicating the number of items in the **MetaProperties** collection. Read-only.|
@@ -30,3 +31,4 @@ Represents a collection of properties describing the metadata stored in a docume
 |[Parent](../../Office.MetaProperties.Parent.md)|Gets the **Parent** object for the **MetaProperties** object. Read-only.|
 |[SchemaXml](../../Office.MetaProperties.SchemaXml.md)|Gets the schema XML for the **MetaProperties** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

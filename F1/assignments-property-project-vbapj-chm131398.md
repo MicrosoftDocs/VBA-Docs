@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 7eddf5d7-3267-4b07-bc70-9bc227693f6b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.AutoLevel Property (Project)](http://msdn.microsoft.com/library/dc4fbd05-0493-7699-eb39-ea2af8fddde1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

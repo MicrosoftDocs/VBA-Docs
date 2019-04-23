@@ -1,14 +1,15 @@
 ---
-title: DrawingControl.ShapeDataGraphicChanged Event (Visio)
+title: DrawingControl.ShapeDataGraphicChanged event (Visio)
 ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeDataGraphicChanged
 ms.assetid: 25f42728-a982-679e-cfb7-57cfa59e7cf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DrawingControl.ShapeDataGraphicChanged Event (Visio)
+# DrawingControl.ShapeDataGraphicChanged event (Visio)
 
 Occurs after a data graphic is applied to or deleted from a shape.
 
@@ -33,10 +34,10 @@ Private Sub  _expression_ _'ShapeDataGraphicChanged'(**_ByVal Shape As IVSHAPE_*
 
 ## Remarks
 
-A data graphic is a  **Master** object of type **visTypeDataGraphic** . When the same master that is already applied to a shape is re-applied to the shape, the **ShapeDataGraphicChanged** event does not fire, even if the master has been modified since it was applied originally. If, however, a different data graphic master is applied to the shape, the event does fire.
+A data graphic is a  **Master** object of type **visTypeDataGraphic**. When the same master that is already applied to a shape is re-applied to the shape, the **ShapeDataGraphicChanged** event does not fire, even if the master has been modified since it was applied originally. If, however, a different data graphic master is applied to the shape, the event does fire.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

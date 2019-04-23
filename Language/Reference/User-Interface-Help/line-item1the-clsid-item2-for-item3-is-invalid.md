@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 387a5394-7ec3-3387-e889-7fae66a3090b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 An object could not be loaded while loading a Form, User Control, User Document, or Property Page from a text file. The CLSID specified in the file is not valid. Applies only to objects that are properties, such as the  **Font** object. This message is written to the error log file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

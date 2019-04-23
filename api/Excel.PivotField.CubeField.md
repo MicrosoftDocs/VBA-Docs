@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.CubeField
 ms.assetid: d49d9454-6505-b892-a3c5-32c002326a31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[CubeField](Excel.CubeField.md)** object from which the specified
 
 ## Syntax
 
- _expression_. `CubeField`
+_expression_. `CubeField`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Example
@@ -53,3 +54,4 @@ End Sub
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

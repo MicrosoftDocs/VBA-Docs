@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 96993c18-598d-6270-8582-d6c7aa69f8b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Name of the data source for the table. If the table has no data source, the call
 
 ## Syntax
 
- _expression_. `SourceName`
+_expression_. `SourceName`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a **[ModelTable](Excel.modeltable.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Name of the data source for the table. If the table has no data source, the call
 
 [ModelTable Object](Excel.modeltable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

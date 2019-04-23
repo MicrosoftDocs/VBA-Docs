@@ -1,5 +1,5 @@
 ---
-title: Layers.ObjectType Property (Visio)
+title: Layers.ObjectType property (Visio)
 keywords: vis_sdr.chm11913960
 f1_keywords:
 - vis_sdr.chm11913960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Layers.ObjectType
 ms.assetid: c5542132-81b7-bd14-22b3-a2e33c828543
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layers.ObjectType Property (Visio)
+# Layers.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

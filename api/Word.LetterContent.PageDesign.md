@@ -1,5 +1,5 @@
 ---
-title: LetterContent.PageDesign Property (Word)
+title: LetterContent.PageDesign property (Word)
 keywords: vbawd10.chm161546343
 f1_keywords:
 - vbawd10.chm161546343
@@ -8,17 +8,18 @@ api_name:
 - Word.LetterContent.PageDesign
 ms.assetid: 8544d8c1-3e43-22f5-794f-8bd7636f8a0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LetterContent.PageDesign Property (Word)
+# LetterContent.PageDesign property (Word)
 
-Returns or sets the name of the template attached to the document created by the Letter Wizard. Read/write  **String** .
+Returns or sets the name of the template attached to the document created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `PageDesign`
+_expression_. `PageDesign`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
@@ -44,3 +45,4 @@ Documents.Add.RunLetterWizard LetterContent:=myContent
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

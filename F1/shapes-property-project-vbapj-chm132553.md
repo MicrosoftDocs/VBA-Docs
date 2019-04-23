@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5776915f-75bc-4b87-a4ab-fe1f34a872b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ScheduleFromStart Property (Project)](http://msdn.microsoft.com/library/e6f792cf-3b91-9bcd-92c0-e9b2418477d0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

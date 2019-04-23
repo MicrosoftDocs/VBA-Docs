@@ -1,5 +1,5 @@
 ---
-title: Application.GanttBarStyleDelete Method (Project)
+title: Application.GanttBarStyleDelete method (Project)
 keywords: vbapj.chm2059
 f1_keywords:
 - vbapj.chm2059
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.GanttBarStyleDelete
 ms.assetid: 3cac2b37-147c-f1bf-bc94-d2bc9bffa14b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.GanttBarStyleDelete Method (Project)
+# Application.GanttBarStyleDelete method (Project)
 
 Deletes a Gantt bar style from the active Gantt Chart.
 
 
 ## Syntax
 
- _expression_. `GanttBarStyleDelete`( ` _Item_` )
+_expression_. `GanttBarStyleDelete`( `_Item_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -50,4 +51,4 @@ The following command deletes style number 41 in the  **Bar Styles** dialog box.
 GanttBarStyleDelete Item:="41"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

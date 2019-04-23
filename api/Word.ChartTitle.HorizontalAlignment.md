@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.HorizontalAlignment Property (Word)
+title: ChartTitle.HorizontalAlignment property (Word)
 keywords: vbawd10.chm65273860
 f1_keywords:
 - vbawd10.chm65273860
@@ -8,17 +8,18 @@ api_name:
 - Word.ChartTitle.HorizontalAlignment
 ms.assetid: 5a3f1310-074f-d60c-c6d8-b252331cc602
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ChartTitle.HorizontalAlignment Property (Word)
+# ChartTitle.HorizontalAlignment property (Word)
 
-Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
+Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_.**HorizontalAlignment**
 
  _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
@@ -48,3 +49,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [ChartTitle Object](Word.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

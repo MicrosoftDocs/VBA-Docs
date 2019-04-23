@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.FormatResult Method (Visio)
+title: InvisibleApp.FormatResult method (Visio)
 keywords: vis_sdr.chm17516300
 f1_keywords:
 - vis_sdr.chm17516300
@@ -8,10 +8,11 @@ api_name:
 - Visio.InvisibleApp.FormatResult
 ms.assetid: c3ade8aa-41dc-c718-6e98-1781b977c763
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.FormatResult Method (Visio)
+# InvisibleApp.FormatResult method (Visio)
 
 Formats a string or number into a string according to a format picture. Uses specified units for scaling and formatting.
 
@@ -145,4 +146,4 @@ Public Sub FormatResult_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

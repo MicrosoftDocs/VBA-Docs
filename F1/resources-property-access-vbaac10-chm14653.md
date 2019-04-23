@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d4f208d5-0d28-461c-8830-633380fd2c1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeProject.Resources property (Access)](http://msdn.microsoft.com/library/630b6b57-5f6d-bf9e-6026-3858d314d329%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

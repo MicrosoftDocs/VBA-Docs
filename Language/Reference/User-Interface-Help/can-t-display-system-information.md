@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5400e8b3-1257-38ee-2859-1851dcadaf06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 Visual Basic can't display system information when you choose  **System Info** from the **About Microsoft Visual Basic** dialog box. Your system may not have enough memory, or a required file may be corrupted or missing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

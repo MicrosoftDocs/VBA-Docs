@@ -1,5 +1,5 @@
 ---
-title: FindReplace.MatchWidth Property (Publisher)
+title: FindReplace.MatchWidth property (Publisher)
 keywords: vbapb10.chm8323084
 f1_keywords:
 - vbapb10.chm8323084
@@ -8,17 +8,18 @@ api_name:
 - Publisher.FindReplace.MatchWidth
 ms.assetid: b9f89092-6ac0-bbf9-4bfd-d3cce2359b80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FindReplace.MatchWidth Property (Publisher)
+# FindReplace.MatchWidth property (Publisher)
 
 Sets or returns a  **Boolean** representing whether or not a search operation will match the character width of the searched text. Read/Write.
 
 
 ## Syntax
 
- _expression_. **MatchWidth**
+_expression_.**MatchWidth**
 
  _expression_ A variable that represents a  **FindReplace** object.
 
@@ -71,4 +72,4 @@ With objDocument.Find
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: cd8b6b7f-118a-1cda-00af-11ab74f6617a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the amount of movement that occur
 
 ## Syntax
 
- _expression_. **SmallChange**
+_expression_.**SmallChange**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **SmallChange** property does not have units.
 
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

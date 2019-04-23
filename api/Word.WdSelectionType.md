@@ -1,14 +1,15 @@
 ---
-title: WdSelectionType Enumeration (Word)
+title: WdSelectionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSelectionType
 ms.assetid: c99831f8-1e0b-f4cb-15b1-831c4142bc1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdSelectionType Enumeration (Word)
+# WdSelectionType enumeration (Word)
 
 Specifies the type of selection.
 
@@ -26,3 +27,4 @@ Specifies the type of selection.
 | **wdSelectionRow**|5|A row selection.|
 | **wdSelectionShape**|8|A shape selection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

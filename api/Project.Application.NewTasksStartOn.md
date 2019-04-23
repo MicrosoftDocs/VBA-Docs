@@ -1,5 +1,5 @@
 ---
-title: Application.NewTasksStartOn Method (Project)
+title: Application.NewTasksStartOn method (Project)
 keywords: vbapj.chm2295
 f1_keywords:
 - vbapj.chm2295
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.NewTasksStartOn
 ms.assetid: c5009674-105e-a861-56f0-4847926d6c36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.NewTasksStartOn Method (Project)
+# Application.NewTasksStartOn method (Project)
 
 Specifies how the start date of a new task is set.
 
 
 ## Syntax
 
- _expression_. `NewTasksStartOn`( ` _StartOnDate_` )
+_expression_. `NewTasksStartOn`( `_StartOnDate_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -40,4 +41,4 @@ Specifies how the start date of a new task is set.
 
 The  **NewTasksStartOn** method corresponds to the **New tasks created** setting on the **Schedule** tab of the **Project Options** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

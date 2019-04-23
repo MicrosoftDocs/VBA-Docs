@@ -1,5 +1,5 @@
 ---
-title: OutlookBarGroups.Remove Method (Outlook)
+title: OutlookBarGroups.Remove method (Outlook)
 keywords: vbaol11.chm353
 f1_keywords:
 - vbaol11.chm353
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OutlookBarGroups.Remove
 ms.assetid: 997db21c-9d4a-5691-f6b9-c156bdc73b2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OutlookBarGroups.Remove Method (Outlook)
+# OutlookBarGroups.Remove method (Outlook)
 
 Removes an object from the collection.
 
 
 ## Syntax
 
- _expression_. `Remove` `_Index_`
+_expression_.**Remove** (_Index_)
 
- _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Removes an object from the collection.
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

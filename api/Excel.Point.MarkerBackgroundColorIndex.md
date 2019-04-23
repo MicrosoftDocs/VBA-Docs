@@ -8,19 +8,20 @@ api_name:
 - Excel.Point.MarkerBackgroundColorIndex
 ms.assetid: 67201623-5c76-1983-1710-441d7e54b8a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Point.MarkerBackgroundColorIndex property (Excel)
 
-Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Applies only to line, scatter, and radar charts. Read/write **Long** .
+Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Applies only to line, scatter, and radar charts. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `MarkerBackgroundColorIndex`
+_expression_. `MarkerBackgroundColorIndex`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Example
@@ -41,3 +42,4 @@ End With
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

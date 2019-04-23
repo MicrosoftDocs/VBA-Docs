@@ -1,22 +1,23 @@
 ---
-title: FillFormat.GradientAngle Property (Publisher)
+title: FillFormat.GradientAngle property (Publisher)
 keywords: vbapb10.chm2359587
 f1_keywords:
 - vbapb10.chm2359587
 ms.prod: publisher
 ms.assetid: c43df0d0-1bb8-4e61-64d3-fb5f76daa6dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.GradientAngle Property (Publisher)
+# FillFormat.GradientAngle property (Publisher)
 
 Returns or sets the angle of the gradient fill for the specified fill format. Read/write.
 
 
 ## Syntax
 
- _expression_. **GradientAngle**
+_expression_.**GradientAngle**
 
  _expression_ A variable that represents a  **FillFormat** object.
 
@@ -36,3 +37,4 @@ You can specify a gradient fill in the formatting for various shapes. The valid 
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

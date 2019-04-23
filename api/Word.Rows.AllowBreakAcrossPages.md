@@ -1,5 +1,5 @@
 ---
-title: Rows.AllowBreakAcrossPages Property (Word)
+title: Rows.AllowBreakAcrossPages property (Word)
 keywords: vbawd10.chm155975683
 f1_keywords:
 - vbawd10.chm155975683
@@ -8,24 +8,25 @@ api_name:
 - Word.Rows.AllowBreakAcrossPages
 ms.assetid: 6e5c0794-1dcc-9e70-7968-12a11adf6e56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Rows.AllowBreakAcrossPages Property (Word)
+# Rows.AllowBreakAcrossPages property (Word)
 
- **True** if the text in a table row or rows are allowed to split across a page break. Read/write **Long** .
+ **True** if the text in a table row or rows are allowed to split across a page break. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `AllowBreakAcrossPages`
+_expression_. `AllowBreakAcrossPages`
 
- _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
+_expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Remarks
 
-This property can be  **True** , **False** or **wdUndefined** (only some of the specified text is allowed to split).
+This property can be  **True**, **False** or **wdUndefined** (only some of the specified text is allowed to split).
 
 
 ## Example
@@ -66,3 +67,4 @@ End If
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

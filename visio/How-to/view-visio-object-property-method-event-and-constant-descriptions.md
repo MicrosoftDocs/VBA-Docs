@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: d3cc5cbb-0577-4f49-88e3-8cb695fe5668
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,4 +19,4 @@ ms.date: 06/08/2017
 
  **Note**   You also can view additional information about an item by selecting the item and pressing F1 for Help.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

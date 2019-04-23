@@ -1,5 +1,5 @@
 ---
-title: InvisibleApp.FullBuild Property (Visio)
+title: InvisibleApp.FullBuild property (Visio)
 keywords: vis_sdr.chm17551220
 f1_keywords:
 - vis_sdr.chm17551220
@@ -8,17 +8,18 @@ api_name:
 - Visio.InvisibleApp.FullBuild
 ms.assetid: f5c7fc4a-6627-888b-0465-0e251936b7b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# InvisibleApp.FullBuild Property (Visio)
+# InvisibleApp.FullBuild property (Visio)
 
 Returns the full build number of the running instance. Read-only.
 
 
 ## Syntax
 
- _expression_. `FullBuild`
+_expression_. `FullBuild`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -98,4 +99,4 @@ Public Sub ParseFullBuildProperty(ByRef lngFullBuild As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

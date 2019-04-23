@@ -1,5 +1,5 @@
 ---
-title: Documents Object (Publisher)
+title: Documents object (Publisher)
 keywords: vbapb10.chm8716287
 f1_keywords:
 - vbapb10.chm8716287
@@ -8,10 +8,11 @@ api_name:
 - Publisher.Documents
 ms.assetid: 855b1677-4072-1e17-c22c-6db08e0c7569
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Documents Object (Publisher)
+# Documents object (Publisher)
 
 Represents all open publications. The  **Documents** collection contains all **Document** objects that are open in Microsoft Publisher.
 
@@ -77,7 +78,7 @@ Next objDocument
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Publisher.Documents.Add.md)|
 
@@ -85,10 +86,11 @@ Next objDocument
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Documents.Application.md)|
 |[Count](./Publisher.Documents.Count.md)|
 |[Item](./Publisher.Documents.Item.md)|
 |[Parent](./Publisher.Documents.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.DownBars.Creator
 ms.assetid: 157413a9-f3f7-8d98-294c-8580dfabdd2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # DownBars.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
+_expression_ A variable that represents a [DownBars](Excel.DownBars-graph-property.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [DownBars Object](Excel.DownBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,19 +8,20 @@ api_name:
 - Excel.LegendEntry.Top
 ms.assetid: cedb367e-d205-aa15-c041-afef98870583
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # LegendEntry.Top property (Excel)
 
-Returns a  **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
+Returns a  **Double** value that represents the distance, in [points](../language/glossary/vbe-glossary.md#point), from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_.**Top**
 
- _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
+_expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Double** value that represents the distance, in points, from the to
 
 [LegendEntry Object](Excel.LegendEntry(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

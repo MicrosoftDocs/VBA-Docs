@@ -1,14 +1,15 @@
 ---
-title: Application.MustFlushScopeBeginning Event (Visio)
+title: Application.MustFlushScopeBeginning event (Visio)
 ms.prod: visio
 api_name:
 - Visio.Application.MustFlushScopeBeginning
 ms.assetid: 98a47603-19c0-4588-3d65-1f9d3fe118c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.MustFlushScopeBeginning Event (Visio)
+# Application.MustFlushScopeBeginning event (Visio)
 
 Occurs before the Microsoft Visio instance is forced to flush its event queue.
 
@@ -63,8 +64,8 @@ An event is fired both before (**BeforeShapeDeleted** event) and after (**Shapes
 
  The sequence number of a **MustFlushScopeBeginning** event may be higher than the sequence number of events the client sees after it has received the **MustFlushScopeBeginning** event because Visio assigns sequence numbers to events as they occur. Any events that were queued when the forced flush began have a lower sequence number than the **MustFlushScopeBeginning** event, even though the **MustFlushScopeBeginning** event fires first.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,24 +7,23 @@ ms.prod: excel
 api_name:
 - Excel.Action.Caption
 ms.assetid: f59938e8-17ad-2376-cf2d-f5592a3c6244
-ms.date: 06/08/2017
+ms.date: 03/27/2019
+localization_priority: Normal
 ---
 
 
 # Action.Caption property (Excel)
 
-Returns the caption assigned to the  **Action** object. Read-only **String** .
+Returns the caption assigned to the **Action** object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_.**Caption**
 
- _expression_ A variable that represents an [Action](Excel.Action.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[Action](Excel.Action.md)** object.
 
 
-[Action Object](Excel.Action.md)
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

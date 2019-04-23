@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTexture Property (Word)
+title: FillFormat.PresetTexture property (Word)
 keywords: vbawd10.chm164102252
 f1_keywords:
 - vbawd10.chm164102252
@@ -8,19 +8,20 @@ api_name:
 - Word.FillFormat.PresetTexture
 ms.assetid: 90503151-0351-26f3-de16-65cb21992f46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.PresetTexture Property (Word)
+# FillFormat.PresetTexture property (Word)
 
-Returns the preset texture for the specified fill. Read-only  **MsoPresetTexture** .
+Returns the preset texture for the specified fill. Read-only  **MsoPresetTexture**.
 
 
 ## Syntax
 
- _expression_. `PresetTexture`
+_expression_. `PresetTexture`
 
- _expression_ Required. An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
+_expression_ Required. An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks
@@ -30,7 +31,7 @@ Use the  **[PresetTextured](Word.FillFormat.PresetTextured.md)** method to speci
 
 ## Example
 
-This example adds a rectangle to  `myDocument` and sets its preset texture to match that of shape two. For the example to work, shape two must have a preset textured fill.
+This example adds a rectangle to  _myDocument_ and sets its preset texture to match that of shape two. For the example to work, shape two must have a preset textured fill.
 
 
 ```vb
@@ -48,3 +49,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

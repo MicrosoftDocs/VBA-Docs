@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.ColumnItems
 ms.assetid: 66936e2f-740e-e3de-5d20-47885bee9691
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[PivotItemList](Excel.PivotItemList.md)** collection that correspon
 
 ## Syntax
 
- _expression_. `ColumnItems`
+_expression_. `ColumnItems`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Example
@@ -47,3 +48,4 @@ End Sub
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

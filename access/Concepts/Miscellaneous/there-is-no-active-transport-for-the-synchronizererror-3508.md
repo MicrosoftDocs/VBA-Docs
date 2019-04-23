@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 678214e8-0c0f-7d1c-6777-11a476e0a01d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -35,3 +36,5 @@ You must reconfigure the Replication Manager.
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

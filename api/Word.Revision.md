@@ -1,5 +1,5 @@
 ---
-title: Revision Object (Word)
+title: Revision object (Word)
 keywords: vbawd10.chm2433
 f1_keywords:
 - vbawd10.chm2433
@@ -8,10 +8,11 @@ api_name:
 - Word.Revision
 ms.assetid: e6f64467-a438-88f1-60f9-975365a1430e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Revision Object (Word)
+# Revision object (Word)
 
 Represents a change marked with a revision mark. The  **Revision** object is a member of the **[Revisions](Word.revisions.md)** collection. The **Revisions** collection includes all the revision marks in a range or document.
 
@@ -40,7 +41,7 @@ Selection.InsertBefore "Action "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accept](Word.Revision.Accept.md)|
 |[Reject](Word.Revision.Reject.md)|
@@ -49,7 +50,7 @@ Selection.InsertBefore "Action "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Revision.Application.md)|
 |[Author](Word.Revision.Author.md)|
@@ -67,4 +68,6 @@ Selection.InsertBefore "Action "
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

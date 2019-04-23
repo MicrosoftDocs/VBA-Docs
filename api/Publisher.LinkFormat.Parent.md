@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Parent Property (Publisher)
+title: LinkFormat.Parent property (Publisher)
 keywords: vbapb10.chm4390914
 f1_keywords:
 - vbapb10.chm4390914
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LinkFormat.Parent
 ms.assetid: 634b98bf-0383-3656-b1cc-452b4fd11f80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.Parent Property (Publisher)
+# LinkFormat.Parent property (Publisher)
 
 Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](Publisher.TextFrame.md)** object, returns a **[Shape](Publisher.Shape.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **Parent**
+_expression_.**Parent**
 
  _expression_ A variable that represents a  **LinkFormat** object.
 
@@ -54,4 +55,4 @@ Sub ParentShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

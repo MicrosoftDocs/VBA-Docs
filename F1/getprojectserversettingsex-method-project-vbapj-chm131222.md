@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 04543eea-4e9a-450d-a05f-a0c1d51433df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.GoalAreaTaskHighlight Method (Project)](http://msdn.microsoft.com/library/32616617-d34a-c9f4-8ddd-17fa3f1c7e74%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

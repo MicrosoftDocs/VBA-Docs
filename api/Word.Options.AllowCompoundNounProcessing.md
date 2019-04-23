@@ -1,5 +1,5 @@
 ---
-title: Options.AllowCompoundNounProcessing Property (Word)
+title: Options.AllowCompoundNounProcessing property (Word)
 keywords: vbawd10.chm162988379
 f1_keywords:
 - vbawd10.chm162988379
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AllowCompoundNounProcessing
 ms.assetid: 78da1977-2d44-7686-5e31-2e7c340f726f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AllowCompoundNounProcessing Property (Word)
+# Options.AllowCompoundNounProcessing property (Word)
 
- **True** if Microsoft Word ignores compound nouns when checking spelling in a Korean language document. Read/write **Boolean** .
+ **True** if Microsoft Word ignores compound nouns when checking spelling in a Korean language document. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowCompoundNounProcessing`
+_expression_. `AllowCompoundNounProcessing`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -51,3 +52,4 @@ End If
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

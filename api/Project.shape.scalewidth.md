@@ -1,17 +1,18 @@
 ---
-title: Shape.ScaleWidth Method (Project)
+title: Shape.ScaleWidth method (Project)
 ms.prod: project-server
 ms.assetid: 78ab4771-8364-ab1d-5d52-924d7605b833
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ScaleWidth Method (Project)
+# Shape.ScaleWidth method (Project)
 Scales the width of the shape by a specified factor.
 
 ## Syntax
 
- _expression_. `ScaleWidth` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+_expression_. `ScaleWidth` _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
 
  _expression_ A variable that represents a 'Shape' object.
 
@@ -74,3 +75,5 @@ End Sub
 [Shape Object](Project.shape.md)
 [MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
 [MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

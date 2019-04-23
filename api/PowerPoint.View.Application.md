@@ -1,5 +1,5 @@
 ---
-title: View.Application Property (PowerPoint)
+title: View.Application property (PowerPoint)
 keywords: vbapp10.chm512001
 f1_keywords:
 - vbapp10.chm512001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.View.Application
 ms.assetid: 88ee59e8-8fcc-b933-95d3-399f83485477
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.Application Property (PowerPoint)
+# View.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [View Object](PowerPoint.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

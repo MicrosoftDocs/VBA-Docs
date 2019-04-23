@@ -1,5 +1,5 @@
 ---
-title: ApplyCustomType Method
+title: ApplyCustomType method (Excel Graph)
 keywords: vbagr10.chm66937
 f1_keywords:
 - vbagr10.chm66937
@@ -7,192 +7,57 @@ ms.prod: excel
 api_name:
 - Excel.ApplyCustomType
 ms.assetid: 5385d195-96ce-bdd3-e84d-596fd4236904
-ms.date: 06/08/2017
+ms.date: 04/06/2019
+localization_priority: Normal
 ---
 
 
-# ApplyCustomType Method
+# ApplyCustomType method (Excel Graph)
 
-ApplyCustomType method as it applies to the  **Series** object.
+The **ApplyCustomType** method as it applies to the **Series** and **Chart** objects.
+
+## Series object
 
 Applies a standard or custom chart type to a series.
 
- _expression_. `ApplyCustomType`( `_ChartType_`)
+### Syntax
 
- _expression_ Required. An expression that returns one of the above objects.
- **ChartType**Required 
- **XlChartType**
-. A standard chart type.
+_expression_.**ApplyCustomType** (_ChartType_)
+
+_expression_ Required. An expression that returns a **[Series](excel.series-graph-object.md)** object.
+
+### Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type. Can be one of the **XlChartType** constants. |
 
 
-|XlChartType can be one of these XlChartType constants.|
-| **xl3DAreaStacked**|
-| **xlConeCol**|
-| **xlConeColStacked**|
-| **xlCylinderBarClustered**|
-| **xlCylinderBarStacked100**|
-| **xlCylinderColClustered**|
-| **xlCylinderColStacked100**|
-| **xlDoughnutExploded**|
-| **xlLineMarkers**|
-| **xlLineMarkersStacked100**|
-| **xlLineStacked100**|
-| **xlPieExploded**|
-| **xlPyramidBarClustered**|
-| **xlPyramidBarStacked100**|
-| **xlPyramidColClustered**|
-| **xlPyramidColStacked100**|
-| **xlRadarFilled**|
-| **xlStockHLC**|
-| **xlStockVHLC**|
-| **xlSurface**|
-| **xlSurfaceTopViewWireframe**|
-| **xlXYScatter**|
-| **xlXYScatterLinesNoMarkers**|
-| **xlXYScatterSmoothNoMarkers**|
-| **xl3DArea**|
-| **xl3DAreaStacked100**|
-| **xl3DBarClustered**|
-| **xl3DBarStacked**|
-| **xl3DBarStacked100**|
-| **xl3DColumn**|
-| **xl3DColumnClustered**|
-| **xl3DColumnStacked**|
-| **xl3DColumnStacked100**|
-| **xl3DLine**|
-| **xl3DPie**|
-| **xl3DPieExploded**|
-| **xlArea**|
-| **xlAreaStacked**|
-| **xlAreaStacked100**|
-| **xlBarClustered**|
-| **xlBarOfPie**|
-| **xlBarStacked**|
-| **xlBarStacked100**|
-| **xlBubble**|
-| **xlBubble3DEffect**|
-| **xlColumnClustered**|
-| **xlColumnStacked**|
-| **xlColumnStacked100**|
-| **xlConeBarClustered**|
-| **xlConeBarStacked**|
-| **xlConeBarStacked100**|
-| **xlConeColClustered**|
-| **xlConeColStacked100**|
-| **xlCylinderBarStacked**|
-| **xlCylinderCol**|
-| **xlCylinderColStacked**|
-| **xlDoughnut**|
-| **xlLine**|
-| **xlLineMarkersStacked**|
-| **xlLineStacked**|
-| **xlPie**|
-| **xlPieOfPie**|
-| **xlPyramidBarStacked**|
-| **xlPyramidCol**|
-| **xlPyramidColStacked**|
-| **xlRadar**|
-| **xlRadarMarkers**|
-| **xlStockOHLC**|
-| **xlStockVOHLC**|
-| **xlSurfaceTopView**|
-| **xlSurfaceWireframe**|
-| **xlXYScatterLines**|
-| **xlXYScatterSmooth**|
+## Chart object
 
-ApplyCustomType method as it applies to the  **Chart** object.
 Applies a standard or custom chart type to a chart.
- _expression_. **ApplyCustomType**(**_ChartType_**,  **_TypeName_**)
- _expression_ Required. An expression that returns one of the above objects.
- **ChartType**Required 
- **XlChartType**
-. A standard chart type.
 
+### Syntax
 
-|XlChartType can be one of these XlChartType constants.|
-| **xl3DAreaStacked**|
-| **xlConeCol**|
-| **xlConeColStacked**|
-| **xlCylinderBarClustered**|
-| **xlCylinderBarStacked100**|
-| **xlCylinderColClustered**|
-| **xlCylinderColStacked100**|
-| **xlDoughnutExploded**|
-| **xlLineMarkers**|
-| **xlLineMarkersStacked100**|
-| **xlLineStacked100**|
-| **xlPieExploded**|
-| **xlPyramidBarClustered**|
-| **xlPyramidBarStacked100**|
-| **xlPyramidColClustered**|
-| **xlPyramidColStacked100**|
-| **xlRadarFilled**|
-| **xlStockHLC**|
-| **xlStockVHLC**|
-| **xlSurface**|
-| **xlSurfaceTopViewWireframe**|
-| **xlXYScatter**|
-| **xlXYScatterLinesNoMarkers**|
-| **xlXYScatterSmoothNoMarkers**|
-| **xl3DArea**|
-| **xl3DAreaStacked100**|
-| **xl3DBarClustered**|
-| **xl3DBarStacked**|
-| **xl3DBarStacked100**|
-| **xl3DColumn**|
-| **xl3DColumnClustered**|
-| **xl3DColumnStacked**|
-| **xl3DColumnStacked100**|
-| **xl3DLine**|
-| **xl3DPie**|
-| **xl3DPieExploded**|
-| **xlArea**|
-| **xlAreaStacked**|
-| **xlAreaStacked100**|
-| **xlBarClustered**|
-| **xlBarOfPie**|
-| **xlBarStacked**|
-| **xlBarStacked100**|
-| **xlBubble**|
-| **xlBubble3DEffect**|
-| **xlColumnClustered**|
-| **xlColumnStacked**|
-| **xlColumnStacked100**|
-| **xlConeBarClustered**|
-| **xlConeBarStacked**|
-| **xlConeBarStacked100**|
-| **xlConeColClustered**|
-| **xlConeColStacked100**|
-| **xlCylinderBarStacked**|
-| **xlCylinderCol**|
-| **xlCylinderColStacked**|
-| **xlDoughnut**|
-| **xlLine**|
-| **xlLineMarkersStacked**|
-| **xlLineStacked**|
-| **xlPie**|
-| **xlPieOfPie**|
-| **xlPyramidBarStacked**|
-| **xlPyramidCol**|
-| **xlPyramidColStacked**|
-| **xlRadar**|
-| **xlRadarMarkers**|
-| **xlStockOHLC**|
-| **xlStockVOHLC**|
-| **xlSurfaceTopView**|
-| **xlSurfaceWireframe**|
-| **xlXYScatterLines**|
-| **xlXYScatterSmooth**|
+_expression_.**ApplyCustomType** (_ChartType_, _TypeName_)
 
- **TypeName**Optional  **Variant**. A  **String** naming the custom chart type when **_ChartType_** specifies a custom chart gallery.
+_expression_ Required. An expression that returns a **[Chart](excel.chart-graph-object.md)** object.
+
+### Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+|_ChartType_ |Required |**[XlChartType](excel.xlcharttype.md)** |A standard chart type. Can be one of the **XlChartType** constants.|
+|_TypeName_|Optional |**Variant**|A **String** naming the custom chart type when _ChartType_ specifies a custom chart gallery.|
 
 ## Example
 
 This example applies the line with the markers chart type.
-
 
 ```vb
 myChart.ApplyCustomType xlLineMarkers
 ```
 
 
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

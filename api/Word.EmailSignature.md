@@ -1,5 +1,5 @@
 ---
-title: EmailSignature Object (Word)
+title: EmailSignature object (Word)
 keywords: vbawd10.chm2524
 f1_keywords:
 - vbawd10.chm2524
@@ -8,19 +8,20 @@ api_name:
 - Word.EmailSignature
 ms.assetid: 9d641321-d52b-ab9a-4117-6f9e11dedbba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# EmailSignature Object (Word)
+# EmailSignature object (Word)
 
-Contains information about the e-mail signatures used by Microsoft Word when you create and edit e-mail messages and replies.
+Contains information about the email signatures used by Microsoft Word when you create and edit email messages and replies.
 
 
 ## Remarks
 
 Use the  **EmailSignature** property to return the **EmailSignature** object.
 
-This example changes the signatures Word appends to new outgoing e-mail messages and e-mail message replies.
+This example changes the signatures Word appends to new outgoing email messages and email message replies.
 
 
 
@@ -39,6 +40,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

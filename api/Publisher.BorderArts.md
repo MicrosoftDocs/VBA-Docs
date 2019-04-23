@@ -1,5 +1,5 @@
 ---
-title: BorderArts Object (Publisher)
+title: BorderArts object (Publisher)
 keywords: vbapb10.chm7798783
 f1_keywords:
 - vbapb10.chm7798783
@@ -8,10 +8,11 @@ api_name:
 - Publisher.BorderArts
 ms.assetid: 0fc016f6-154e-3591-34b3-e094bbad9d16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BorderArts Object (Publisher)
+# BorderArts object (Publisher)
 
 A collection of all BorderArt available for use in the specified publication. BorderArt is predefined picture borders that can be applied to text boxes, picture frames, or rectangles.
  
@@ -61,7 +62,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.BorderArts.Item.md)|
 
@@ -69,9 +70,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.BorderArts.Application.md)|
 |[Count](Publisher.BorderArts.Count.md)|
 |[Parent](Publisher.BorderArts.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

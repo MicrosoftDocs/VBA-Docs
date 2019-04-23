@@ -8,6 +8,7 @@ api_name:
 - Excel.RectangularGradient.ColorStops
 ms.assetid: 92ca6107-4d6f-2f69-1f89-87acb138c277
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[ColorStops](Excel.ColorStops.md)** collection for the **Rectangu
 
 ## Syntax
 
- _expression_. `ColorStops`
+_expression_. `ColorStops`
 
- _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
+_expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
 ## Return value
@@ -33,3 +34,4 @@ ColorStops
 
 [RectangularGradient Object](Excel.RectangularGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

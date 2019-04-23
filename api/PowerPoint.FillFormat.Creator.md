@@ -1,21 +1,22 @@
 ---
-title: FillFormat.Creator Property (PowerPoint)
+title: FillFormat.Creator property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Creator
 ms.assetid: f2d09239-4438-ac63-41d6-414cda762802
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.Creator Property (PowerPoint)
+# FillFormat.Creator property (PowerPoint)
 
 Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
@@ -55,3 +56,4 @@ End If
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

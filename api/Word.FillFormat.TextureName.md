@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (Word)
+title: FillFormat.TextureName property (Word)
 keywords: vbawd10.chm164102253
 f1_keywords:
 - vbawd10.chm164102253
@@ -8,17 +8,18 @@ api_name:
 - Word.FillFormat.TextureName
 ms.assetid: 9eb01e1b-3cd1-16ad-4a7b-a430e27782d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.TextureName Property (Word)
+# FillFormat.TextureName property (Word)
 
-Returns the name of the custom texture file for the specified fill. Read-only  **String** .
+Returns the name of the custom texture file for the specified fill. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `TextureName`
+_expression_. `TextureName`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
@@ -52,3 +53,4 @@ End With
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

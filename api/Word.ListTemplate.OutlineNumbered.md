@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.OutlineNumbered Property (Word)
+title: ListTemplate.OutlineNumbered property (Word)
 keywords: vbawd10.chm160366593
 f1_keywords:
 - vbawd10.chm160366593
@@ -8,17 +8,18 @@ api_name:
 - Word.ListTemplate.OutlineNumbered
 ms.assetid: 0d728c52-b33d-7764-a0ef-6573040ed1ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListTemplate.OutlineNumbered Property (Word)
+# ListTemplate.OutlineNumbered property (Word)
 
- **True** if the specified **ListTemplate** object is outline numbered. Read/write **Boolean** .
+ **True** if the specified **ListTemplate** object is outline numbered. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `OutlineNumbered`
+_expression_. `OutlineNumbered`
 
  _expression_ An expression that returns a '[ListTemplate](Word.ListTemplate.md)' object.
 
@@ -59,3 +60,4 @@ If num = True Then ActiveDocument.Lists(3).ApplyListTemplate _
 
 [ListTemplate Object](Word.ListTemplate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

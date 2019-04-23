@@ -1,5 +1,5 @@
 ---
-title: Table.TableDirection Property (Publisher)
+title: Table.TableDirection property (Publisher)
 keywords: vbapb10.chm4784135
 f1_keywords:
 - vbapb10.chm4784135
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Table.TableDirection
 ms.assetid: ffd664a8-781f-8fdc-055c-1ea7309b3b38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Table.TableDirection Property (Publisher)
+# Table.TableDirection property (Publisher)
 
 Returns or sets a  **PbTableDirectionType** constant that represents whether text in a table is read from left to right or from right to left. Read/write.
 
 
 ## Syntax
 
- _expression_. **TableDirection**
+_expression_.**TableDirection**
 
  _expression_ A variable that represents a  **Table** object.
 
@@ -69,4 +70,4 @@ Sub CountCellsByColumn()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

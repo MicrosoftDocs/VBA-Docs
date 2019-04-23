@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 96a779ad-b5d5-44d4-87fc-e5fb35d6d512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape.Glow Property (Publisher)](http://msdn.microsoft.com/library/f138e966-4b01-8cd2-36e7-d9d10b33062f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

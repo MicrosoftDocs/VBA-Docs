@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Creator Property (Word)
+title: Footnotes.Creator property (Word)
 keywords: vbawd10.chm155321321
 f1_keywords:
 - vbawd10.chm155321321
@@ -8,19 +8,20 @@ api_name:
 - Word.Footnotes.Creator
 ms.assetid: 9a085ea3-0e6b-cb51-1b1f-5d758f024016
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Footnotes.Creator Property (Word)
+# Footnotes.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
+_expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Footnotes Collection Object](Word.footnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

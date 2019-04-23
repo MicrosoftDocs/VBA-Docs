@@ -1,5 +1,5 @@
 ---
-title: TextRange.InsertPageNumber Method (Publisher)
+title: TextRange.InsertPageNumber method (Publisher)
 keywords: vbapb10.chm5308486
 f1_keywords:
 - vbapb10.chm5308486
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.InsertPageNumber
 ms.assetid: f71d3b40-0263-93fa-d7e3-d815b90f71f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.InsertPageNumber Method (Publisher)
+# TextRange.InsertPageNumber method (Publisher)
 
 Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page number field in a publication.
 
 
 ## Syntax
 
- _expression_. **InsertPageNumber**(**_Type_**)
+_expression_.**InsertPageNumber**(**_Type_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -42,7 +43,7 @@ Type can be one of these  **PbPageNumberType** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbPageNumberCurrent**|The default.|
 | **pbPageNumberNextInStory**|Inserts the page number of the next linked text box.|
@@ -67,4 +68,4 @@ Sub PageNumberShape()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

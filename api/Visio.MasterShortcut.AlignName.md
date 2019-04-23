@@ -1,5 +1,5 @@
 ---
-title: MasterShortcut.AlignName Property (Visio)
+title: MasterShortcut.AlignName property (Visio)
 keywords: vis_sdr.chm16013075
 f1_keywords:
 - vis_sdr.chm16013075
@@ -8,17 +8,18 @@ api_name:
 - Visio.MasterShortcut.AlignName
 ms.assetid: 022fdf3a-17f4-740f-191e-a06684ee3112
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MasterShortcut.AlignName Property (Visio)
+# MasterShortcut.AlignName property (Visio)
 
 Gets or sets the position of a master name in a stencil window. Read/write.
 
 
 ## Syntax
 
- _expression_. `AlignName`
+_expression_. `AlignName`
 
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
@@ -42,3 +43,4 @@ The following constants declared by the Visio type library show the possible ali
 | **visCenter**|2|
 | **visRight**|3|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

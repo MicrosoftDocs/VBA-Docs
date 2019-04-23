@@ -1,14 +1,15 @@
 ---
-title: xlSourceType enumeration (Excel)
+title: XlSourceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSourceType
 ms.assetid: d2effec0-3c7b-4347-99c0-0044c7471555
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlSourceType enumeration (Excel)
+# XlSourceType enumeration (Excel)
 
 Identifies the source object.
 
@@ -30,3 +31,4 @@ Identifies the source object.
 | **xlSourceSheet**|1|An entire worksheet|
 | **xlSourceWorkbook**|0|A workbook|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

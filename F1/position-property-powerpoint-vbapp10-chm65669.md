@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5f2c7045-a45f-45cc-a202-47ba9dd6fc7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.Position Property (PowerPoint)](http://msdn.microsoft.com/library/3edff433-2d69-84b4-671b-060824c88531%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

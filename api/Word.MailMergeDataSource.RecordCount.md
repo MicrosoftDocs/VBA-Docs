@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.RecordCount Property (Word)
+title: MailMergeDataSource.RecordCount property (Word)
 keywords: vbawd10.chm152895500
 f1_keywords:
 - vbawd10.chm152895500
@@ -8,17 +8,18 @@ api_name:
 - Word.MailMergeDataSource.RecordCount
 ms.assetid: d69db5d2-7ef0-dd9a-7e03-0029f6defd37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.RecordCount Property (Word)
+# MailMergeDataSource.RecordCount property (Word)
 
 Returns a  **Long** that represents the number of records in the data source. Read-only.
 
 
 ## Syntax
 
- _expression_. `RecordCount`
+_expression_. `RecordCount`
 
  _expression_ An expression that returns a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
@@ -70,3 +71,4 @@ End Sub
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

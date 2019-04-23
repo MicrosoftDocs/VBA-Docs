@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Visio)
+title: Shape.Delete method (Visio)
 keywords: vis_sdr.chm11216165
 f1_keywords:
 - vis_sdr.chm11216165
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.Delete
 ms.assetid: 0960d9e1-b091-ea8c-0724-e10a68d8821a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Delete Method (Visio)
+# Shape.Delete method (Visio)
 
 Deletes an object or selection.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -54,4 +55,4 @@ Public Sub Delete_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

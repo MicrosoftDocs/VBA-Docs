@@ -3,6 +3,7 @@ title: Method not applicable for this object. (Error 3273)
 ms.prod: access
 ms.assetid: 00385cbd-bf8e-ac59-732e-b75519fa4d8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ You tried to use a method on an object that does not support that method. Refer 
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1662a421-43d4-466f-8ef8-8f974073924a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Calendar.Period Method (Project)](http://msdn.microsoft.com/library/b717bcbe-654b-5791-2002-d65e2a96617f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

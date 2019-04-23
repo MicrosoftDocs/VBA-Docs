@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 0b83e75a-4fd7-e903-754f-8395316ea13d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ All controls must be instantiated before you can exit design mode. This error ha
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

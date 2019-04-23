@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Import Method (Excel)
+title: XmlMap.Import method (Excel)
 keywords: vbaxl10.chm754087
 f1_keywords:
 - vbaxl10.chm754087
@@ -8,19 +8,20 @@ api_name:
 - Excel.XmlMap.Import
 ms.assetid: 60265bbd-4994-8fba-7072-ec5dada885d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# XmlMap.Import Method (Excel)
+# XmlMap.Import method (Excel)
 
 Imports data from the specified XML data file into cells that have been mapped to the specified  **[XmlMap](Excel.XmlMap.md)** object.
 
 
 ## Syntax
 
- _expression_. `Import`( `_Url_` , `_Overwrite_` )
+_expression_. `Import`( `_Url_` , `_Overwrite_` )
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Parameters
@@ -30,7 +31,7 @@ Imports data from the specified XML data file into cells that have been mapped t
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path to the XML data to import. The path can be specified in Universal Naming convention (UNC) or Uniform Resource Locator (URL) format. The file can be an XML data file.|
-| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False** .|
+| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False**.|
 
 ## Return value
 
@@ -39,7 +40,7 @@ A  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the 
 
 ## Remarks
 
-This method returns one of the following  **XlXmlImportResult** constants:
+This method returns one of the following  **xlXmlImportResult** constants:
 
 
 
@@ -60,3 +61,4 @@ If either of the following conditions is true, a runtime error will occur. If mo
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

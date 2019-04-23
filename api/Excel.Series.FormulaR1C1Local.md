@@ -8,19 +8,20 @@ api_name:
 - Excel.Series.FormulaR1C1Local
 ms.assetid: 06037c27-3371-c2ac-4754-a5bb7ebb2058
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Series.FormulaR1C1Local property (Excel)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String** .
+Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `FormulaR1C1Local`
+_expression_.**FormulaR1C1Local**
 
- _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
+_expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Remarks
@@ -39,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

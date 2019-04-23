@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ce8748e0-cd65-45db-98b6-c261c7df92a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.TaskGroups Property (Project)](http://msdn.microsoft.com/library/fca3e169-396b-714d-8710-f54d8f777aeb%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

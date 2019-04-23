@@ -8,19 +8,20 @@ api_name:
 - Excel.ShadowFormat.Size
 ms.assetid: 7e82b4ac-b664-b351-0724-b3ed826c8be8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ShadowFormat.Size property (Excel)
 
-Returns or sets the size of the specified shadow. Read/write  **Single** .
+Returns or sets the size of the specified shadow. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](Excel.ShadowFormat.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the size of the specified shadow. Read/write  **Single** .
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

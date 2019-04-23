@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring Object (Word)
+title: CoAuthoring object (Word)
 keywords: vbawd10.chm3889
 f1_keywords:
 - vbawd10.chm3889
@@ -8,10 +8,11 @@ api_name:
 - Word.CoAuthoring
 ms.assetid: d36ac5a7-6479-6565-dbb0-969d06b31f30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CoAuthoring Object (Word)
+# CoAuthoring object (Word)
 
 Provides the primary entry point to the co authoring object model.
 
@@ -42,5 +43,6 @@ End Sub
 
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

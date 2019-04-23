@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 50c7fd52-c48a-464b-bac6-7712486e8fa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -20,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TableFields.Add Method (Project)](http://msdn.microsoft.com/library/d4e6af9f-6d95-49f0-8828-dcd39dbb9f13%28Office.15%29.aspx)
 [Assignment.Start6 Property (Project)](http://msdn.microsoft.com/library/677a30a3-1f69-0488-ee40-ee336ef7f501%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

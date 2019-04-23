@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ClassType Property (Word)
+title: OLEFormat.ClassType property (Word)
 keywords: vbawd10.chm154337282
 f1_keywords:
 - vbawd10.chm154337282
@@ -8,17 +8,18 @@ api_name:
 - Word.OLEFormat.ClassType
 ms.assetid: 4c9ecec9-f7a9-f644-3a79-f88b9468200e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.ClassType Property (Word)
+# OLEFormat.ClassType property (Word)
 
-Returns or sets the class type for the specified OLE object, picture, or field. Read/write  **String** .
+Returns or sets the class type for the specified OLE object, picture, or field. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `ClassType`
+_expression_. `ClassType`
 
  _expression_ A variable that represents a '[OLEFormat](Word.OLEFormat.md)' object.
 
@@ -55,3 +56,4 @@ Next
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Chart.Elevation Property (Word)
+title: Chart.Elevation property (Word)
 keywords: vbawd10.chm79364102
 f1_keywords:
 - vbawd10.chm79364102
@@ -8,32 +8,33 @@ api_name:
 - Word.Chart.Elevation
 ms.assetid: 2913dce4-e35a-31ff-3ea0-237c85dbad23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.Elevation Property (Word)
+# Chart.Elevation property (Word)
 
-Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write  **Long** .
+Returns or sets the elevation, in degrees, of the 3D chart view. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Elevation`
+_expression_.**Elevation**
 
- _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
 ## Remarks
 
-The chart elevation is the height, in degrees, at which you view the chart. The default is 15 for most chart types. The value of this property must be between -90 and 90, except for 3-D bar charts, where it must be between 0 and 44.
+The chart elevation is the height, in degrees, at which you view the chart. The default is 15 for most chart types. The value of this property must be between -90 and 90, except for 3D bar charts, where it must be between 0 and 44.
 
 
- **Note**  This property applies only to 3-D charts.
+ **Note**  This property applies only to 3D charts.
 
 
 ## Example
 
-The following example sets the chart elevation of the first chart in the active document to 34 degrees. You should run the example on a 3-D chart.
+The following example sets the chart elevation of the first chart in the active document to 34 degrees. You should run the example on a 3D chart.
 
 
 ```vb
@@ -50,3 +51,4 @@ End With
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

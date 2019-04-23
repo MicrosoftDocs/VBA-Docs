@@ -1,5 +1,5 @@
 ---
-title: Application.Active Property (Visio)
+title: Application.Active property (Visio)
 keywords: vis_sdr.chm10013020
 f1_keywords:
 - vis_sdr.chm10013020
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.Active
 ms.assetid: d2e8e683-15b8-9c6e-f945-5a1d17a177b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.Active Property (Visio)
+# Application.Active property (Visio)
 
 Indicates whether the instance of Microsoft Visio represented by the  **Application** object is the active application on the Microsoft Windows desktop—the application that has the highlighted title bar. Read-only.
 
 
 ## Syntax
 
- _expression_. `Active`
+_expression_.**Active**
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -37,13 +38,13 @@ For example, suppose you start one instance of Visio and one of another applicat
 
 
 
-- If the instance of Visio is the active application on your desktop,  **GetObject** (, "visio.application") retrieves that instance, and its **Active** property is **True** .
+- If the instance of Visio is the active application on your desktop,  **GetObject** (, "visio.application") retrieves that instance, and its **Active** property is **True**.
     
-- If you activate the instance of Microsoft Excel,  **GetObject** (, "visio.application") retrieves the same instance of Visio, but its **Active** property is **False** .
+- If you activate the instance of Microsoft Excel,  **GetObject** (, "visio.application") retrieves the same instance of Visio, but its **Active** property is **False**.
     
 
 
-If an  **Application** object's **Active** property is **True** , you can assume that the corresponding instance of Visio is the active instance of Visio unless the **InPlace** property is also **True** . If an instance of Visio is activated for in-place editing in a container application, that instance may not necessarily report itself as the active instance of Visio.
+If an  **Application** object's **Active** property is **True**, you can assume that the corresponding instance of Visio is the active instance of Visio unless the **InPlace** property is also **True**. If an instance of Visio is activated for in-place editing in a container application, that instance may not necessarily report itself as the active instance of Visio.
 
 
 ## Example
@@ -72,4 +73,4 @@ Public Sub Active_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

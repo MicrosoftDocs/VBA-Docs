@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesCollection Method (PowerPoint)
+title: Chart.SeriesCollection method (PowerPoint)
 keywords: vbapp10.chm684043
 f1_keywords:
 - vbapp10.chm684043
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Chart.SeriesCollection
 ms.assetid: 8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Chart.SeriesCollection Method (PowerPoint)
+# Chart.SeriesCollection method (PowerPoint)
 
 Returns all the series in the chart.
 
 
 ## Syntax
 
- _expression_. `SeriesCollection`( `_Index_` )
+_expression_.**SeriesCollection** (_Index_)
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 
 
 ## Return value
@@ -60,3 +61,4 @@ End With
 
 [Chart Object](PowerPoint.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

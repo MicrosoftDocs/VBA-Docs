@@ -7,29 +7,28 @@ ms.prod: access
 api_name:
 - Access.Report.CurrentView
 ms.assetid: d1c33390-75f1-4e11-0735-a8860211b4ce
-ms.date: 06/08/2017
+ms.date: 03/15/2019
+localization_priority: Normal
 ---
 
 
 # Report.CurrentView property (Access)
 
-You can use the  **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
+You can use the **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `CurrentView`
+_expression_.**CurrentView**
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks
 
-The  **CurrentView** property uses the following settings.
+The **CurrentView** property uses the following settings.
 
-
-
-|**Setting**|**Report Displayed In:**|
+|Setting|Report displayed in:|
 |:-----|:-----|
 |0|Design view|
 |5|Print Preview|
@@ -39,8 +38,6 @@ The  **CurrentView** property uses the following settings.
 Use this property to perform different tasks depending on the current view. For example, an event procedure could determine which view the form is displayed in and perform one task if the form is displayed in Form view or another task if it's displayed in Datasheet view.
 
 
-## See also
 
 
-[Report Object](Access.Report.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

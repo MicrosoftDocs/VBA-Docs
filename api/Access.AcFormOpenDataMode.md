@@ -8,6 +8,7 @@ api_name:
 - Access.AcFormOpenDataMode
 ms.assetid: 24c39abb-154c-39cd-3097-77be75fe917c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,7 +16,7 @@ ms.date: 06/08/2017
 
 Specifies the data entry mode of a form.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -24,3 +25,4 @@ Specifies the data entry mode of a form.
 |**acFormPropertySettings**|-1|The user can only change the form's properties.|
 |**acFormReadOnly**|2|The user can only view records.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Row Object (Visio)
+title: Row object (Visio)
 keywords: vis_sdr.chm10210
 f1_keywords:
 - vis_sdr.chm10210
@@ -8,16 +8,17 @@ api_name:
 - Visio.Row
 ms.assetid: d3956bc6-ab74-5e85-2130-cc5ccf64f664
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Row Object (Visio)
+# Row object (Visio)
 
 Enables you to access and manipulate a row in a section.
 
 
 ## Remarks
 
-The default property of a  **Row** object is **Cell** .
+The default property of a  **Row** object is **Cell**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

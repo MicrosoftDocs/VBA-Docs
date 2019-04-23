@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObjects.Placement
 ms.assetid: 97e34b24-b990-4dcf-b786-e24c546d3a13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlac
 
 ## Syntax
 
- _expression_. `Placement`
+_expression_.**Placement**
 
- _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlac
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

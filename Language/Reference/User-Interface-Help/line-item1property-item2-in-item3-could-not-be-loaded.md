@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: e617aa55-eeaf-05a6-9956-02d488504e8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,4 +14,4 @@ ms.date: 06/08/2017
 
 The ASCII file contains an unknown [property](../../Glossary/vbe-glossary.md#property). The property will be skipped when loading the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.PTCondition
 ms.assetid: 66b29dd4-83e3-2f85-7ff5-7ed948b93e50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 ## Syntax
 
- _expression_. `PTCondition`
+_expression_.**PTCondition**
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

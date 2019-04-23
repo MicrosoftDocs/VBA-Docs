@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Gap Property (Publisher)
+title: CalloutFormat.Gap property (Publisher)
 keywords: vbapb10.chm2490631
 f1_keywords:
 - vbapb10.chm2490631
@@ -8,17 +8,18 @@ api_name:
 - Publisher.CalloutFormat.Gap
 ms.assetid: fd7cdac7-5f09-a574-e9ef-08feebd81cff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Gap Property (Publisher)
+# CalloutFormat.Gap property (Publisher)
 
 Returns or sets a  **Variant** indicating the horizontal distance between the end of the callout line and the text bounding box. Read/write.
 
 
 ## Syntax
 
- _expression_. **Gap**
+_expression_.**Gap**
 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
@@ -42,4 +43,4 @@ This example sets the distance between the callout line and the text bounding bo
 ActiveDocument.Pages(1).Shapes(1).Callout.Gap = 3
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

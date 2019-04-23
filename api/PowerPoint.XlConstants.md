@@ -1,14 +1,15 @@
 ---
-title: xlConstants Enumeration (PowerPoint)
+title: XlConstants enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlConstants
 ms.assetid: fe30391f-83ee-3259-620f-d1224ab92d5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlConstants Enumeration (PowerPoint)
+# XlConstants enumeration (PowerPoint)
 
 Specifies a miscellaneous constant in Microsoft Word.
 
@@ -80,3 +81,4 @@ Specifies a miscellaneous constant in Microsoft Word.
 |**xlTransparent**|2|Transparent fill.|
 |**xlTriangle**|3|Triangle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: RulerGuides.Add Method (Publisher)
+title: RulerGuides.Add method (Publisher)
 keywords: vbapb10.chm720900
 f1_keywords:
 - vbapb10.chm720900
@@ -8,17 +8,18 @@ api_name:
 - Publisher.RulerGuides.Add
 ms.assetid: 3986452a-73da-04c2-4e11-8369d61cd974
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# RulerGuides.Add Method (Publisher)
+# RulerGuides.Add method (Publisher)
 
 Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Position_**,  **_Type_**)
+_expression_.**Add**(**_Position_**,  **_Type_**)
 
  _expression_ A variable that represents a  **RulerGuides** object.
 
@@ -53,4 +54,4 @@ With ActiveDocument.Pages(1).RulerGuides
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

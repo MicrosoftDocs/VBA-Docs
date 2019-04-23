@@ -1,14 +1,15 @@
 ---
-title: WdOLEVerb Enumeration (Word)
+title: WdOLEVerb enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOLEVerb
 ms.assetid: 0a5ef4a2-0982-8fb8-7173-39286c599e6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdOLEVerb Enumeration (Word)
+# WdOLEVerb enumeration (Word)
 
 Specifies the action associated with the verb that the OLE object should perform.
 
@@ -24,3 +25,4 @@ Specifies the action associated with the verb that the OLE object should perform
 | **wdOLEVerbShow**|-1|Shows the object to the user for editing or viewing. Use it to show a newly inserted object for initial editing.|
 | **wdOLEVerbUIActivate**|-4|Activates the object in place and displays any user-interface tools that the object needs, such as menus or toolbars.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

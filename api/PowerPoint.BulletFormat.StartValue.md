@@ -1,5 +1,5 @@
 ---
-title: BulletFormat.StartValue Property (PowerPoint)
+title: BulletFormat.StartValue property (PowerPoint)
 keywords: vbapp10.chm577011
 f1_keywords:
 - vbapp10.chm577011
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.BulletFormat.StartValue
 ms.assetid: d243b5b4-93f6-8486-d432-a91a39ee4f81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# BulletFormat.StartValue Property (PowerPoint)
+# BulletFormat.StartValue property (PowerPoint)
 
 Returns or sets the beginning value of a bulleted list when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read/write.
 
 
 ## Syntax
 
- _expression_. `StartValue`
+_expression_. `StartValue`
 
- _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
+_expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ## Return value
@@ -60,3 +61,4 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

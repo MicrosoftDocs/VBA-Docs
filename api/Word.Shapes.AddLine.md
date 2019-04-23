@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLine Method (Word)
+title: Shapes.AddLine method (Word)
 keywords: vbawd10.chm161415182
 f1_keywords:
 - vbawd10.chm161415182
@@ -8,19 +8,20 @@ api_name:
 - Word.Shapes.AddLine
 ms.assetid: d1c609c3-d5d1-80e8-4f95-184a9a536feb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddLine Method (Word)
+# Shapes.AddLine method (Word)
 
 Adds a line to a drawing canvas.
 
 
 ## Syntax
 
- _expression_. `AddLine`( `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
+_expression_. `AddLine`( `_BeginX_` , `_BeginY_` , `_EndX_` , `_EndY_` )
 
- _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
+_expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Parameters
@@ -78,3 +79,4 @@ End Sub
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

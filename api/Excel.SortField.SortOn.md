@@ -8,19 +8,20 @@ api_name:
 - Excel.SortField.SortOn
 ms.assetid: 126b83e7-901c-639f-9bdf-5e1f85ab057a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # SortField.SortOn property (Excel)
 
-Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn](Excel.XlSortOn.md)** .
+Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn](Excel.XlSortOn.md)**.
 
 
 ## Syntax
 
- _expression_. `SortOn`
+_expression_. `SortOn`
 
- _expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
+_expression_ A variable that represents a [SortField](Excel.SortField.md) object.
 
 
 ## Remarks
@@ -29,7 +30,7 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn]
 
 
 
-|XlSortOn can be one of these  **XlSortOn** constants.|
+|XlSortOn can be one of these  **xlSortOn** constants.|
 | **SortOnCellColor**|
 | **SortOnFontColor**|
 | **SortOnIcon**|
@@ -40,3 +41,4 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn]
 
 [SortField Object](Excel.SortField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

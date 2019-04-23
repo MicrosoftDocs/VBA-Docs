@@ -1,5 +1,5 @@
 ---
-title: OlkInfoBar.MouseDown Event (Outlook)
+title: OlkInfoBar.MouseDown event (Outlook)
 keywords: vbaol11.chm1000301
 f1_keywords:
 - vbaol11.chm1000301
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkInfoBar.MouseDown
 ms.assetid: a158b599-0f02-49e4-f4fe-5495540a3676
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkInfoBar.MouseDown Event (Outlook)
+# OlkInfoBar.MouseDown event (Outlook)
 
 Occurs when the user presses a mouse button on the control.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_.**MouseDown** (_Button_, _Shift_, _x_, _y_)
 
- _expression_ A variable that represents an [OlkInfoBar](./Outlook.OlkInfoBar.md) object.
+_expression_ A variable that represents an [OlkInfoBar](Outlook.OlkInfoBar.md) object.
 
 
 ## Parameters
@@ -39,3 +40,4 @@ Occurs when the user presses a mouse button on the control.
 
 [OlkInfoBar Object](Outlook.OlkInfoBar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

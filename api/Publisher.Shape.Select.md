@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (Publisher)
+title: Shape.Select method (Publisher)
 keywords: vbapb10.chm2228263
 f1_keywords:
 - vbapb10.chm2228263
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Select
 ms.assetid: d18914fd-7679-e922-090c-78affdb39d6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Select Method (Publisher)
+# Shape.Select method (Publisher)
 
 Selects the specified object.
 
 
 ## Syntax
 
- _expression_. **Select**(**_Replace_**)
+_expression_.**Select**(**_Replace_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -50,4 +51,4 @@ ActiveDocument.Pages(1).Shapes.Range(Array(2, 4)) _
  .Select Replace:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

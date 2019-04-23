@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.IncludeInLayout Property (Word)
+title: AxisTitle.IncludeInLayout property (Word)
 keywords: vbawd10.chm98240882
 f1_keywords:
 - vbawd10.chm98240882
@@ -8,17 +8,18 @@ api_name:
 - Word.AxisTitle.IncludeInLayout
 ms.assetid: be578a06-8a5f-80b5-79bd-ff2c0bee1311
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.IncludeInLayout Property (Word)
+# AxisTitle.IncludeInLayout property (Word)
 
- **True** if an axis title will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
+ **True** if an axis title will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ An expression that returns a '[AxisTitle](Word.AxisTitle.md)' object.
 
@@ -33,3 +34,4 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

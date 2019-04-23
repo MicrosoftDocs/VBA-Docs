@@ -3,6 +3,7 @@ title: ScrollBar.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: b87d125a-f568-99c4-6018-2d60639a943b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks
@@ -27,4 +28,4 @@ You can use any integer that represents a valid color. You can also specify a co
 RGB(15,200,75)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

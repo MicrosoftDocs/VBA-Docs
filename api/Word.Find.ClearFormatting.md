@@ -1,5 +1,5 @@
 ---
-title: Find.ClearFormatting Method (Word)
+title: Find.ClearFormatting method (Word)
 keywords: vbawd10.chm162529311
 f1_keywords:
 - vbawd10.chm162529311
@@ -8,17 +8,18 @@ api_name:
 - Word.Find.ClearFormatting
 ms.assetid: 9b25fb62-13e1-d953-90f2-57059221d820
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Find.ClearFormatting Method (Word)
+# Find.ClearFormatting method (Word)
 
 Removes text and paragraph formatting from the text specified in a find or replace operation.
 
 
 ## Syntax
 
- _expression_. `ClearFormatting`
+_expression_.**ClearFormatting**
 
  _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
@@ -48,3 +49,4 @@ End Sub
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

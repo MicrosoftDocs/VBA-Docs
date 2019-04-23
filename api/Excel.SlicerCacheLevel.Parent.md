@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.Parent
 ms.assetid: 74e71f1e-8f42-db30-459d-80250c54af4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object for the specified **
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [SlicerCacheLevel](./Excel.SlicerCacheLevel.md) object.
+_expression_ A variable that represents a [SlicerCacheLevel](Excel.SlicerCacheLevel.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object for the specified **
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

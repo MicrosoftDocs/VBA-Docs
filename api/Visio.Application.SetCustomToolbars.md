@@ -1,5 +1,5 @@
 ---
-title: Application.SetCustomToolbars Method (Visio)
+title: Application.SetCustomToolbars method (Visio)
 keywords: vis_sdr.chm10016565
 f1_keywords:
 - vis_sdr.chm10016565
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.SetCustomToolbars
 ms.assetid: fe5a3e40-83ea-d02f-03cd-d0ad758aa408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.SetCustomToolbars Method (Visio)
+# Application.SetCustomToolbars method (Visio)
 
 Replaces the current built-in or custom toolbars of an application or document.
 
 
 ## Syntax
 
- _expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
+_expression_. `SetCustomToolbars`( `_ToolbarsObject_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -100,4 +101,4 @@ Public Sub SetCustomToolbarItems_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

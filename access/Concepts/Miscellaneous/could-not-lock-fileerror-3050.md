@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 7feb2a13-7f00-f1e3-edc2-b427aa8d8ecc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -25,3 +26,5 @@ The operating system will not allow the Microsoft Access database engine to crea
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

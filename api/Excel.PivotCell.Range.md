@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.Range
 ms.assetid: b0b52ca0-a73b-acc3-25a8-330da27e4f92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_.**Range**
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Example
@@ -50,3 +51,4 @@ ActiveWindow.ScrollColumn = hr.Column
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

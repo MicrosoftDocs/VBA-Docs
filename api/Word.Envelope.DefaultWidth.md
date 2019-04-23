@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultWidth Property (Word)
+title: Envelope.DefaultWidth property (Word)
 keywords: vbawd10.chm152567815
 f1_keywords:
 - vbawd10.chm152567815
@@ -8,17 +8,18 @@ api_name:
 - Word.Envelope.DefaultWidth
 ms.assetid: 2b593322-0959-a4a4-8607-65e2f9e91f7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Envelope.DefaultWidth Property (Word)
+# Envelope.DefaultWidth property (Word)
 
-Returns or sets the default envelope width, in points. Read/write  **Single** .
+Returns or sets the default envelope width, in points. Read/write  **Single**.
 
 
 ## Syntax
 
- _expression_. `DefaultWidth`
+_expression_. `DefaultWidth`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 
@@ -57,3 +58,4 @@ ActiveDocument.Envelope.Insert _
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

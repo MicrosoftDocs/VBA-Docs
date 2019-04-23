@@ -1,5 +1,5 @@
 ---
-title: Application.DrawingPaths Property (Visio)
+title: Application.DrawingPaths property (Visio)
 keywords: vis_sdr.chm10013445
 f1_keywords:
 - vis_sdr.chm10013445
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.DrawingPaths
 ms.assetid: 46a0a769-8ef4-1cc3-9206-24c23b0982ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.DrawingPaths Property (Visio)
+# Application.DrawingPaths property (Visio)
 
 Gets or sets the paths where Microsoft Visio looks for drawings. Read/write.
 
 
 ## Syntax
 
- _expression_. `DrawingPaths`
+_expression_. `DrawingPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -32,7 +33,7 @@ String
 
 The  **DrawingPaths** property is set to an empty string ("") by default.
 
-The string passed to and received from the  **DrawingPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\DrawingsPath** subkey.
+The string passed to and received from the  **DrawingPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click **File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\DrawingsPath** subkey.
 
 Visio looks for drawings in all paths named in the  **DrawingPaths** property and all the subfolders of those paths. If you pass the **DrawingPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 
@@ -48,4 +49,4 @@ Application.DrawingPaths = Application.DrawingPaths & ";" & "newpath ".
 
  **Note**  Modifying the registry in any manner, whether in the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Task.FixedCost Property (Project)
+title: Task.FixedCost property (Project)
 keywords: vbapj.chm132231
 f1_keywords:
 - vbapj.chm132231
@@ -8,17 +8,18 @@ api_name:
 - Project.Task.FixedCost
 ms.assetid: 09fb9edb-00b6-d084-b0da-0b0fc5463960
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Task.FixedCost Property (Project)
+# Task.FixedCost property (Project)
 
 Gets or sets a fixed cost for a task. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `FixedCost`
+_expression_. `FixedCost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
@@ -52,4 +53,4 @@ Sub IncreaseFixedCosts()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 93a33aa6-9928-4556-9251-991fa03852f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.StartYearIn Property (Project)](http://msdn.microsoft.com/library/7662b30f-572d-a7a7-22d1-6a3bb6e1ea5d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

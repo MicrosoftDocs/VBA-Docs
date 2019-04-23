@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 67e4caed-6512-e8bd-39d0-6dca18114b18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,7 +23,7 @@ SELECT  _fieldlist_ FROM _tableexpression_ WHERE _criteria_
 A SELECT statement containing a WHERE clause has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
 | _tableexpression_|The name of the table or tables from which data is retrieved.|
@@ -133,3 +134,5 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

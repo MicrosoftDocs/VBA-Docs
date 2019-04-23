@@ -1,5 +1,5 @@
 ---
-title: Layer Object (Visio)
+title: Layer object (Visio)
 keywords: vis_sdr.chm10120
 f1_keywords:
 - vis_sdr.chm10120
@@ -8,10 +8,11 @@ api_name:
 - Visio.Layer
 ms.assetid: 4442cd68-e071-943d-7fec-7ff9596cf4b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Layer Object (Visio)
+# Layer object (Visio)
 
 Represents a layer of a page or master. You can assign shapes to or remove them from the layer.
 
@@ -29,7 +30,7 @@ A layer's  **Index** and **Row** properties typically have different values. The
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Visio.Layer.Add.md)|
 |[Delete](./Visio.Layer.Delete.md)|
@@ -39,7 +40,7 @@ A layer's  **Index** and **Row** properties typically have different values. The
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Layer.Application.md)|
 |[CellsC](./Visio.Layer.CellsC.md)|
@@ -55,3 +56,4 @@ A layer's  **Index** and **Row** properties typically have different values. The
 |[Row](./Visio.Layer.Row.md)|
 |[Stat](./Visio.Layer.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

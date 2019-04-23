@@ -1,5 +1,5 @@
 ---
-title: TabStops.Add Method (Publisher)
+title: TabStops.Add method (Publisher)
 keywords: vbapb10.chm5570565
 f1_keywords:
 - vbapb10.chm5570565
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TabStops.Add
 ms.assetid: 23536810-e851-c0ac-22e2-fab41582d612
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops.Add Method (Publisher)
+# TabStops.Add method (Publisher)
 
 Adds a new tab stop to the specified  **TabStops** collection.
 
 
 ## Syntax
 
- _expression_. **Add**(**_Position_**,  **_Alignment_**,  **_Leader_**)
+_expression_.**Add**(**_Position_**,  **_Alignment_**,  **_Leader_**)
 
  _expression_ A variable that represents a  **TabStops** object.
 
@@ -67,4 +68,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
  Leader:=pbTabLeaderNone
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

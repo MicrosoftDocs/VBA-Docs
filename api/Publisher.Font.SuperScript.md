@@ -1,5 +1,5 @@
 ---
-title: Font.SuperScript Property (Publisher)
+title: Font.SuperScript property (Publisher)
 keywords: vbapb10.chm5373972
 f1_keywords:
 - vbapb10.chm5373972
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Font.SuperScript
 ms.assetid: 582c02c9-4dcb-f826-8ec0-e9e10702f717
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.SuperScript Property (Publisher)
+# Font.SuperScript property (Publisher)
 
 Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as superscript in the specified text range. Read/write.
 
 
 ## Syntax
 
- _expression_. **SuperScript**
+_expression_.**SuperScript**
 
  _expression_ A variable that represents a  **Font** object.
 
@@ -34,7 +35,7 @@ The  **SuperScript** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| No characters in the range are formatted as superscript.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -66,4 +67,4 @@ Sub SuperScript()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

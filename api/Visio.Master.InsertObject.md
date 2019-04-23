@@ -1,5 +1,5 @@
 ---
-title: Master.InsertObject Method (Visio)
+title: Master.InsertObject method (Visio)
 keywords: vis_sdr.chm10716370
 f1_keywords:
 - vis_sdr.chm10716370
@@ -8,17 +8,18 @@ api_name:
 - Visio.Master.InsertObject
 ms.assetid: 7b663eef-ed40-486b-2b5b-e7c7066c2300
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Master.InsertObject Method (Visio)
+# Master.InsertObject method (Visio)
 
 Adds a new embedded object or ActiveX control to a page, master, or group.
 
 
 ## Syntax
 
- _expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
+_expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
@@ -56,7 +57,7 @@ The  _Flags_ argument is a bitmask that can include one of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visInsertIcon**|&H10|Displays the new shape as an icon.|
 | **visInsertDontShow**|&H1000|Does not execute the new object's show verb.|
@@ -82,4 +83,4 @@ In rare cases, Visio 5.0 or later versions may insert a control whereas earlier 
 > [!CAUTION] 
 > Modifying the registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

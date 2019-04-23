@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d18a662b-43d6-40ed-a61b-5a9a00789364
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Cell.Text Property (Project)](http://msdn.microsoft.com/library/015a9f11-6a4e-5c02-cbeb-e9fd398b2f3c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

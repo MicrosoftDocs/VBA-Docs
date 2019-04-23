@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ceiling_Precise Method (Excel)
+title: WorksheetFunction.Ceiling_Precise method (Excel)
 keywords: vbaxl10.chm137419
 f1_keywords:
 - vbaxl10.chm137419
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Ceiling_Precise
 ms.assetid: 638b4577-fd80-bd94-9a31-84fe4f3ff9d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Ceiling_Precise Method (Excel)
+# WorksheetFunction.Ceiling_Precise method (Excel)
 
 Returns the specified number rounded to the nearest multiple of significance.
 
 
 ## Syntax
 
- _expression_. `Ceiling_Precise`( `_Arg1_` , `_Arg2_` )
+_expression_. `Ceiling_Precise`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -67,3 +68,4 @@ Depending on the sign of the number and significance arguments, the  **Ceiling_P
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

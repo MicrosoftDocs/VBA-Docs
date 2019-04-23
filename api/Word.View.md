@@ -1,5 +1,5 @@
 ---
-title: View Object (Word)
+title: View object (Word)
 keywords: vbawd10.chm2469
 f1_keywords:
 - vbawd10.chm2469
@@ -8,10 +8,11 @@ api_name:
 - Word.View
 ms.assetid: 8bf5b26b-14c0-1985-65b2-3e034360baeb
 ms.date: 08/15/2017
+localization_priority: Normal
 ---
 
 
-# View Object (Word)
+# View object (Word)
 
 Contains the view attributes (such as show all, field shading, and table gridlines) for a window or pane.
 
@@ -64,14 +65,14 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CollapseAllHeadings](Word.view.collapseallheadings.md)|
 |[CollapseOutline](Word.View.CollapseOutline.md)|
 |[ExpandAllHeadings](Word.view.expandallheadings.md)|
 |[ExpandOutline](Word.View.ExpandOutline.md)|
-|[ForceLowresUpdate](./overview/Word.md)|
-|[ForceOffscreenUpdate](./overview/Word.md)|
+|[ForceLowresUpdate](overview/Word.md)|
+|[ForceOffscreenUpdate](overview/Word.md)|
 |[NextHeaderFooter](Word.View.NextHeaderFooter.md)|
 |[PreviousHeaderFooter](Word.View.PreviousHeaderFooter.md)|
 |[ShowAllHeadings](Word.View.ShowAllHeadings.md)|
@@ -81,7 +82,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.View.Application.md)|
 |[ColumnWidth](Word.view.columnwidth.md)|
@@ -144,4 +145,6 @@ End With
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

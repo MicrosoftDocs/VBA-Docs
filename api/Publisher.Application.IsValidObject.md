@@ -1,5 +1,5 @@
 ---
-title: Application.IsValidObject Method (Publisher)
+title: Application.IsValidObject method (Publisher)
 keywords: vbapb10.chm131126
 f1_keywords:
 - vbapb10.chm131126
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.IsValidObject
 ms.assetid: 56b2bc3a-3e8e-058c-046a-146f0fbb294a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.IsValidObject Method (Publisher)
+# Application.IsValidObject method (Publisher)
 
 Determines whether the specified object variable references a valid object and returns a  **Boolean** value: **True** if the specified variable that references an object is valid, **False** if the object referenced by the variable has been deleted.
 
 
 ## Syntax
 
- _expression_. **IsValidObject**(**_Object_**)
+_expression_.**IsValidObject**(**_Object_**)
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -72,3 +73,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

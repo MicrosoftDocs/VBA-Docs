@@ -1,5 +1,5 @@
 ---
-title: SlideShowView.Application Property (PowerPoint)
+title: SlideShowView.Application property (PowerPoint)
 keywords: vbapp10.chm513001
 f1_keywords:
 - vbapp10.chm513001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideShowView.Application
 ms.assetid: bdfbaf89-cd91-2a3a-481c-346c11b889e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowView.Application Property (PowerPoint)
+# SlideShowView.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

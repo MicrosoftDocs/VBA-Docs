@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d43e2a82-7f04-cae9-34bf-e4c819c02c74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -29,3 +30,4 @@ You can place nothing but a [comment](../../Glossary/vbe-glossary.md#comment) be
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

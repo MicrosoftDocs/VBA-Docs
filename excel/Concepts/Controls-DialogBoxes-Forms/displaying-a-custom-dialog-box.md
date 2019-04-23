@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 75f7a1f2-3682-fca1-320b-a5bd5d65158b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,4 +24,4 @@ Private Sub GetUserName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

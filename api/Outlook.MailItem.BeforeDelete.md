@@ -1,23 +1,24 @@
 ---
-title: MailItem.BeforeDelete Event (Outlook)
+title: MailItem.BeforeDelete event (Outlook)
 ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeDelete
 ms.assetid: 10fb2ac0-0382-2d7b-13ab-3edf06e50c81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.BeforeDelete Event (Outlook)
+# MailItem.BeforeDelete event (Outlook)
 
 Occurs before an item (which is an instance of the parent object) is deleted.
 
 
 ## Syntax
 
- _expression_. `BeforeDelete`( `_Item_` , `_Cancel_` )
+_expression_. `BeforeDelete`( `_Item_` , `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Parameters
@@ -27,18 +28,18 @@ Occurs before an item (which is an instance of the parent object) is deleted.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item being deleted.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the item is not deleted.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the item is not deleted.|
 
 ## Remarks
 
-In order for this event to fire when an e-mail message, distribution list, journal entry, task, contact, or post are deleted through an action, an inspector must be open.
+In order for this event to fire when an email message, distribution list, journal entry, task, contact, or post are deleted through an action, an inspector must be open.
 
 The event occurs each time an item is deleted.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example prompts the user regarding whether to delete the item currently open. For this example to run, you need to have an open e-mail item that can be deleted. If you click  **No**, the item will not be deleted. If this event is canceled, Microsoft Outlook displays an error message. Therefore, you need to capture this event in your code. One way to do this is shown below. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `DeleteMail()` procedure should be called before the event procedure can be called by Outlook.
+The following Visual Basic for Applications (VBA) example prompts the user regarding whether to delete the item currently open. For this example to run, you need to have an open email item that can be deleted. If you click  **No**, the item will not be deleted. If this event is canceled, Microsoft Outlook displays an error message. Therefore, you need to capture this event in your code. One way to do this is shown below. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `DeleteMail()` procedure should be called before the event procedure can be called by Outlook.
 
 
 ```vb
@@ -109,3 +110,4 @@ End Sub
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

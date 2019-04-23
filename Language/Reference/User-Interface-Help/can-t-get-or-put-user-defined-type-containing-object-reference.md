@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 138dcd9a-75a5-3ded-a6ed-9d2fae2c9b14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -30,3 +31,4 @@ An object reference is temporary and can easily become invalid between closing a
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

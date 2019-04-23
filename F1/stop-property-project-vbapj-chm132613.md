@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ecd1acb4-508f-4676-a9c0-2857fdb01cf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.SetObjectMatchingID Method (Project)](http://msdn.microsoft.com/library/d0d79e0a-bfec-9882-bfe9-72f7c51f0baf%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: ScratchArea.Shapes Property (Publisher)
+title: ScratchArea.Shapes property (Publisher)
 keywords: vbapb10.chm1179651
 f1_keywords:
 - vbapb10.chm1179651
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ScratchArea.Shapes
 ms.assetid: 0d867fec-42f4-fd61-c6c3-745be955e5d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ScratchArea.Shapes Property (Publisher)
+# ScratchArea.Shapes property (Publisher)
 
 Returns a  **[Shapes](Publisher.Shapes.md)** collection that represents all the  **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 
 
 ## Syntax
 
- _expression_. **Shapes**
+_expression_.**Shapes**
 
  _expression_ A variable that represents a  **ScratchArea** object.
 
@@ -77,4 +78,4 @@ Sub CountShapesOnFirstPage()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

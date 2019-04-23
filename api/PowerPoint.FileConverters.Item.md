@@ -1,5 +1,5 @@
 ---
-title: FileConverters.Item Method (PowerPoint)
+title: FileConverters.Item method (PowerPoint)
 keywords: vbapp10.chm679001
 f1_keywords:
 - vbapp10.chm679001
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.FileConverters.Item
 ms.assetid: 4bd61f6b-6c43-4581-caaa-77e17ee6a354
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverters.Item Method (PowerPoint)
+# FileConverters.Item method (PowerPoint)
 
 Returns an individual  **FileConverter** object in a collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[FileConverters](PowerPoint.FileConverters.md)' collection.
+_expression_ Required. A variable that represents a '[FileConverters](PowerPoint.FileConverters.md)' collection.
 
 
 ## Parameters
@@ -41,3 +42,4 @@ FileConverter
 
 [FileConverters Object](PowerPoint.FileConverters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

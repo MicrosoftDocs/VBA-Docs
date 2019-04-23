@@ -1,5 +1,5 @@
 ---
-title: ContainerProperties.ResizeAsNeeded Property (Visio)
+title: ContainerProperties.ResizeAsNeeded property (Visio)
 keywords: vis_sdr.chm17662610
 f1_keywords:
 - vis_sdr.chm17662610
@@ -8,17 +8,18 @@ api_name:
 - Visio.ContainerProperties.ResizeAsNeeded
 ms.assetid: 13bd0493-95fd-73bf-454c-a39c69589bcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ContainerProperties.ResizeAsNeeded Property (Visio)
+# ContainerProperties.ResizeAsNeeded property (Visio)
 
 Determines whether the container boundary resizes automatically to fit its contents. Read/write.
 
 
 ## Syntax
 
- _expression_. `ResizeAsNeeded`
+_expression_. `ResizeAsNeeded`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
@@ -34,7 +35,7 @@ The value of the  **ResizeAsNeeded** property can be one of the following **VisC
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerAutoResizeNone**|0|Do not automatically resize container.|
 | **visContainerAutoResizeExpand**|1|Automatically expand the container size, but do not contract.|
@@ -42,4 +43,4 @@ The value of the  **ResizeAsNeeded** property can be one of the following **VisC
 
 The setting of the  **ResizeAsNeeded** property corresponds to the selection in the **Automatic Resize** drop-down list in the **Size** group on the **Container Tools Format** tab.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

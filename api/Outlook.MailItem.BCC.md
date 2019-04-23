@@ -1,5 +1,5 @@
 ---
-title: MailItem.BCC Property (Outlook)
+title: MailItem.BCC property (Outlook)
 keywords: vbaol11.chm1330
 f1_keywords:
 - vbaol11.chm1330
@@ -8,19 +8,20 @@ api_name:
 - Outlook.MailItem.BCC
 ms.assetid: 6454f9b1-1bfa-d4d4-ca95-7a19db920977
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailItem.BCC Property (Outlook)
+# MailItem.BCC property (Outlook)
 
-Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)** . Read/write.
+Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `BCC`
+_expression_. `BCC`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ This property contains the display names only. The  **[Recipients](Outlook.Recip
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

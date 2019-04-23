@@ -1,5 +1,5 @@
 ---
-title: Exception.Session Property (Outlook)
+title: Exception.Session property (Outlook)
 keywords: vbaol11.chm299
 f1_keywords:
 - vbaol11.chm299
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Exception.Session
 ms.assetid: b8663ef0-1042-e3c4-81ca-76d4b76a3351
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Exception.Session Property (Outlook)
+# Exception.Session property (Outlook)
 
 Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
- _expression_. `Session`
+_expression_.**Session**
 
- _expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
+_expression_ A variable that represents an [Exception](Outlook.Exception.md) object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Set objSession = Application.Session
 
 [Exception Object](Outlook.Exception.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.BarBorder
 ms.assetid: d573e56e-cd02-c67e-ace8-8e8bdf2efd00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns an object that specifies the border of a data bar. Read-only
 
 ## Syntax
 
- _expression_. `BarBorder`
+_expression_. `BarBorder`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value
@@ -52,3 +53,4 @@ End With
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

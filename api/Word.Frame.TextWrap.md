@@ -1,5 +1,5 @@
 ---
-title: Frame.TextWrap Property (Word)
+title: Frame.TextWrap property (Word)
 keywords: vbawd10.chm153747468
 f1_keywords:
 - vbawd10.chm153747468
@@ -8,17 +8,18 @@ api_name:
 - Word.Frame.TextWrap
 ms.assetid: 457175c6-4b32-539a-c78d-889647459724
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Frame.TextWrap Property (Word)
+# Frame.TextWrap property (Word)
 
- **True** if document text wraps around the specified frame. Read/write **Boolean** .
+ **True** if document text wraps around the specified frame. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TextWrap`
+_expression_. `TextWrap`
 
  _expression_ An expression that returns a '[Frame](Word.Frame.md)' object.
 
@@ -51,3 +52,4 @@ Next aFrame
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

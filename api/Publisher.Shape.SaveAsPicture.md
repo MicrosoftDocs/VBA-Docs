@@ -1,5 +1,5 @@
 ---
-title: Shape.SaveAsPicture Method (Publisher)
+title: Shape.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm2228375
 f1_keywords:
 - vbapb10.chm2228375
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.SaveAsPicture
 ms.assetid: 2cc18a83-b947-ca8c-eab4-71a03b79b82b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.SaveAsPicture Method (Publisher)
+# Shape.SaveAsPicture method (Publisher)
 
 Saves a single shape as a picture file.
 
 
 ## Syntax
 
- _expression_. **SaveAsPicture**(**_Filename_**,  **_pbResolution_**)
+_expression_.**SaveAsPicture**(**_FileName_**,  **_pbResolution_**)
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -54,4 +55,4 @@ Public Sub SaveAsPicture_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

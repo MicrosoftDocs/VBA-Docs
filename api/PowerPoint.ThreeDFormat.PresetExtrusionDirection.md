@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetExtrusionDirection Property (PowerPoint)
+title: ThreeDFormat.PresetExtrusionDirection property (PowerPoint)
 keywords: vbapp10.chm557011
 f1_keywords:
 - vbapp10.chm557011
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: 9bc0ba5b-c091-c385-3ef2-46994ed81347
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.PresetExtrusionDirection Property (PowerPoint)
+# ThreeDFormat.PresetExtrusionDirection property (PowerPoint)
 
 Returns the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Read-only.
 
 
 ## Syntax
 
- _expression_. `PresetExtrusionDirection`
+_expression_. `PresetExtrusionDirection`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
@@ -50,7 +51,7 @@ The value of the  **PresetExtrusionDirection** property can be one of these **Ms
 
 ## Example
 
-This example changes each extrusion on  `myDocument` that extends toward the upper-left corner of the extrusion's front face to an extrusion that extends toward the lower-right corner of the front face.
+This example changes each extrusion on  _myDocument_ that extends toward the upper-left corner of the extrusion's front face to an extrusion that extends toward the lower-right corner of the front face.
 
 
 ```vb
@@ -77,3 +78,4 @@ Next
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrder Method (PowerPoint)
+title: Shape.ZOrder method (PowerPoint)
 keywords: vbapp10.chm547014
 f1_keywords:
 - vbapp10.chm547014
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.Shape.ZOrder
 ms.assetid: 3317b5c3-611f-7cf8-3ce3-6d09255aa75f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.ZOrder Method (PowerPoint)
+# Shape.ZOrder method (PowerPoint)
 
 Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 
 
 ## Syntax
 
- _expression_. `ZOrder`( `_ZOrderCmd_` )
+_expression_.**ZOrder** (_ZOrderCmd_)
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
@@ -52,7 +53,7 @@ Use the  **ZOrderPosition** property to determine a shape's current position in 
 
 ## Example
 
-This example adds an oval to  `myDocument` and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
+This example adds an oval to  _myDocument_ and then places the oval second from the back in the z-order if there is at least one other shape on the slide.
 
 
 ```vb
@@ -75,3 +76,4 @@ End With
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

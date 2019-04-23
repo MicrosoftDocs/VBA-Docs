@@ -1,33 +1,34 @@
 ---
-title: MsoPatternType Enumeration (Office)
+title: MsoPatternType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPatternType
 ms.assetid: b95a7e43-329f-b93b-3664-04d8f570c747
-ms.date: 06/08/2017
+ms.date: 01/31/2019
+localization_priority: Normal
 ---
 
 
-# MsoPatternType Enumeration (Office)
+# MsoPatternType enumeration (Office)
 
 Specifies the fill pattern used in a shape.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**msoPattern10Percent**|2|10% of the foreground color.|
-|**msoPattern20Percent**|3|20% of the foreground color.|
-|**msoPattern25Percent**|4|25% of the foreground color.|
-|**msoPattern30Percent**|5|30% of the foreground color.|
-|**msoPattern40Percent**|6|40% of the foreground color.|
-|**msoPattern50Percent**|7|50% of the foreground color.|
-|**msoPattern5Percent**|1|5% of the foreground color.|
-|**msoPattern60Percent**|8|60% of the foreground color.|
-|**msoPattern70Percent**|9|70% of the foreground color.|
-|**msoPattern75Percent**|10|75% of the foreground color.|
-|**msoPattern80Percent**|11|80% of the foreground color.|
-|**msoPattern90Percent**|12|90% of the foreground color.|
+|**msoPattern10Percent**|2|10% of the foreground color |
+|**msoPattern20Percent**|3|20% of the foreground color |
+|**msoPattern25Percent**|4|25% of the foreground color |
+|**msoPattern30Percent**|5|30% of the foreground color |
+|**msoPattern40Percent**|6|40% of the foreground color |
+|**msoPattern50Percent**|7|50% of the foreground color |
+|**msoPattern5Percent**|1|5% of the foreground color |
+|**msoPattern60Percent**|8|60% of the foreground color |
+|**msoPattern70Percent**|9|70% of the foreground color |
+|**msoPattern75Percent**|10|75% of the foreground color |
+|**msoPattern80Percent**|11|80% of the foreground color |
+|**msoPattern90Percent**|12|90% of the foreground color |
 |**msoPatternCross**|51|Cross|
 |**msoPatternDarkDownwardDiagonal**|15|Dark Downward Diagonal|
 |**msoPatternDarkHorizontal**|13|Dark Horizontal|
@@ -72,3 +73,4 @@ Specifies the fill pattern used in a shape.
 |**msoPatternWideUpwardDiagonal**|26|Wide Upward Diagonal|
 |**msoPatternZigZag**|38|Zig Zag|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

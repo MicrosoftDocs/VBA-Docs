@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (Publisher)
+title: Columns.Add method (Publisher)
 keywords: vbapb10.chm5046276
 f1_keywords:
 - vbapb10.chm5046276
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Columns.Add
 ms.assetid: b3dfb892-6bda-d2c4-11f7-9bd29bf257aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Columns.Add Method (Publisher)
+# Columns.Add method (Publisher)
 
 Adds a new  **Column** object to the specified **Columns** collection and returns the new **Column** object.
 
 
 ## Syntax
 
- _expression_. **Add**(**_BeforeColumn_**)
+_expression_.**Add**(**_BeforeColumn_**)
 
  _expression_ A variable that represents a  **Columns** object.
 
@@ -48,4 +49,4 @@ Set colNew = ActiveDocument.Pages(1).Shapes(1) _
  .Table.Columns.Add(BeforeColumn:=3)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

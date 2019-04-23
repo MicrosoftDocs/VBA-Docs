@@ -1,5 +1,5 @@
 ---
-title: SlideRange.NotesPage Property (PowerPoint)
+title: SlideRange.NotesPage property (PowerPoint)
 keywords: vbapp10.chm532022
 f1_keywords:
 - vbapp10.chm532022
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SlideRange.NotesPage
 ms.assetid: 15300d0d-3ece-6071-83b5-23108b6be512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideRange.NotesPage Property (PowerPoint)
+# SlideRange.NotesPage property (PowerPoint)
 
 Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents the notes pages for the specified slide or range of slides. Read-only.
 
 
 ## Syntax
 
- _expression_. `NotesPage`
+_expression_. `NotesPage`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
@@ -55,3 +56,4 @@ End With
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

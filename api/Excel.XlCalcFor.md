@@ -1,14 +1,15 @@
 ---
-title: xlCalcFor enumeration (Excel)
+title: XlCalcFor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCalcFor
 ms.assetid: 81a6cf29-8ecb-1153-d908-587d3ffe87da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlCalcFor enumeration (Excel)
+# XlCalcFor enumeration (Excel)
 
 Specifies what should be calculated.
 
@@ -20,3 +21,4 @@ Specifies what should be calculated.
 | **xlColGroups**|2|Column groups.|
 | **xlRowGroups**|1|Row groups.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

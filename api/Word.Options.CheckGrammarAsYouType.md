@@ -1,5 +1,5 @@
 ---
-title: Options.CheckGrammarAsYouType Property (Word)
+title: Options.CheckGrammarAsYouType property (Word)
 keywords: vbawd10.chm162988309
 f1_keywords:
 - vbawd10.chm162988309
@@ -8,24 +8,25 @@ api_name:
 - Word.Options.CheckGrammarAsYouType
 ms.assetid: 11e4c676-bd8d-26e0-a0d4-74537508fc88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.CheckGrammarAsYouType Property (Word)
+# Options.CheckGrammarAsYouType property (Word)
 
- **True** if Word checks grammar and marks errors automatically as you type. Read/write **Boolean** .
+ **True** if Word checks grammar and marks errors automatically as you type. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CheckGrammarAsYouType`
+_expression_. `CheckGrammarAsYouType`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 
 ## Remarks
 
-This property marks grammatical errors, but to see them on screen, you must set the  **[ShowGrammaticalErrors](Word.Document.ShowGrammaticalErrors.md)** property to **True** .
+This property marks grammatical errors, but to see them on screen, you must set the  **[ShowGrammaticalErrors](Word.Document.ShowGrammaticalErrors.md)** property to **True**.
 
 
 ## Example
@@ -55,3 +56,4 @@ blnCheck = Options.CheckGrammarAsYouType
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

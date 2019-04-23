@@ -3,6 +3,7 @@ title: Save a Form as a File
 ms.prod: outlook
 ms.assetid: 605deaaf-2f03-7a2d-e694-997cda60b026
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -24,6 +25,6 @@ When you save a form that is customized with form regions, you must save each fo
     
 4. In the  **Save as type** box, click a file type.
     
-    To save the form as an Outlook template, click  **Outlook Template**, and then save the form in the Templates folder. 
-    
+    To save the form as an Outlook template, click  **Outlook Template**, and then save the form in the Templates folder.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

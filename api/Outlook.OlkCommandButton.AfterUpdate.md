@@ -1,5 +1,5 @@
 ---
-title: OlkCommandButton.AfterUpdate Event (Outlook)
+title: OlkCommandButton.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000130
 f1_keywords:
 - vbaol11.chm1000130
@@ -8,19 +8,20 @@ api_name:
 - Outlook.OlkCommandButton.AfterUpdate
 ms.assetid: 2f968ed1-7043-a3de-8219-927c27e12832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkCommandButton.AfterUpdate Event (Outlook)
+# OlkCommandButton.AfterUpdate event (Outlook)
 
 Occurs after the data in the control has been changed through the user interface.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
- _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks
@@ -46,3 +47,4 @@ Occurs after the data in the control has been changed through the user interface
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

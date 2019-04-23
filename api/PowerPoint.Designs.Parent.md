@@ -1,5 +1,5 @@
 ---
-title: Designs.Parent Property (PowerPoint)
+title: Designs.Parent property (PowerPoint)
 keywords: vbapp10.chm643002
 f1_keywords:
 - vbapp10.chm643002
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Designs.Parent
 ms.assetid: 3bb0007d-2136-6eb8-1d34-ec9f9f7e9e5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Designs.Parent Property (PowerPoint)
+# Designs.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
+_expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
 ## Return value
@@ -51,3 +52,4 @@ End With
 
 [Designs Object](PowerPoint.Designs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

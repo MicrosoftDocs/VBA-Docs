@@ -1,5 +1,5 @@
 ---
-title: LayoutGuides.MarginRight Property (Publisher)
+title: LayoutGuides.MarginRight property (Publisher)
 keywords: vbapb10.chm1114117
 f1_keywords:
 - vbapb10.chm1114117
@@ -8,17 +8,18 @@ api_name:
 - Publisher.LayoutGuides.MarginRight
 ms.assetid: 5dbfc999-59d6-c9d0-4d9d-bc1a4ee622aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LayoutGuides.MarginRight Property (Publisher)
+# LayoutGuides.MarginRight property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the right edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
- _expression_. **MarginRight**
+_expression_.**MarginRight**
 
  _expression_ A variable that represents a  **LayoutGuides** object.
 
@@ -41,4 +42,4 @@ Sub SetPageMargins()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,17 +8,18 @@ api_name:
 - Excel.Font.Color
 ms.assetid: a6acd8b8-f04b-6d43-15d4-78ee20b0b14d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Font.Color property (Excel)
 
-Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant** .
+Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Color`
+_expression_.**Color**
 
  _expression_ An expression that returns a [Font](Excel.Font-graph-property.md) object.
 
@@ -53,3 +54,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 [Font Object](Excel.Font(object).md)
 
 [RGB Function](../Language/Reference/User-Interface-Help/rgb-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

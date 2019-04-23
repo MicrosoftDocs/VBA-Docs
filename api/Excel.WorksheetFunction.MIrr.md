@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MIrr Method (Excel)
+title: WorksheetFunction.MIrr method (Excel)
 keywords: vbaxl10.chm137112
 f1_keywords:
 - vbaxl10.chm137112
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.MIrr
 ms.assetid: 5c11a445-0b5a-ce7f-d881-e5f85cdf648a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.MIrr Method (Excel)
+# WorksheetFunction.MIrr method (Excel)
 
 Returns the modified internal rate of return for a series of periodic cash flows. MIRR considers both the cost of the investment and the interest received on reinvestment of cash.
 
 
 ## Syntax
 
- _expression_. `MIrr`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `MIrr`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -61,3 +62,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

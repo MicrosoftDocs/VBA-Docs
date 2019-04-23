@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 7787fce4-564a-ad9e-6e54-d4cd6a0a3e8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies the type of pointer displayed whe
 
 ## Syntax
 
- _expression_. **MousePointer**
+_expression_.**MousePointer**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **MousePointer** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Standard pointer. The image is determined by the object (default).|
 |1|Arrow.|
@@ -49,4 +50,4 @@ Use the  **MousePointer** property when you want to indicate changes in function
 
 Some icons vary depending on system settings, such as the icons associated with desktop themes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

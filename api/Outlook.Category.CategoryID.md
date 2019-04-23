@@ -1,5 +1,5 @@
 ---
-title: Category.CategoryID Property (Outlook)
+title: Category.CategoryID property (Outlook)
 keywords: vbaol11.chm2429
 f1_keywords:
 - vbaol11.chm2429
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Category.CategoryID
 ms.assetid: e75ed17a-940f-2325-8739-1367329854d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Category.CategoryID Property (Outlook)
+# Category.CategoryID property (Outlook)
 
 Returns a  **String** value that represents the unique identifier for the **[Category](Outlook.Category.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `CategoryID`
+_expression_. `CategoryID`
 
- _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](Outlook.Category.md) object.
 
 
 ## Remarks
@@ -106,3 +107,4 @@ End Sub
 
 [Category Object](Outlook.Category.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

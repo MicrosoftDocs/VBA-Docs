@@ -1,14 +1,15 @@
 ---
-title: PjTaskFixedType Enumeration (Project)
+title: PjTaskFixedType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTaskFixedType
 ms.assetid: 6fa3e67c-eee6-0402-a176-63d7f87a058f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTaskFixedType Enumeration (Project)
+# PjTaskFixedType enumeration (Project)
 
 Contains constants that specify the task type.
 
@@ -20,3 +21,4 @@ Contains constants that specify the task type.
 |**pjFixedUnits**|0|Fixed units.|
 |**pjFixedWork**|2|Fixed work.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

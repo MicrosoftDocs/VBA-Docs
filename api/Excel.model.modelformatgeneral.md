@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: bac1d3bb-430e-8b0c-effb-81b2bc0ecf8c
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 
@@ -16,12 +17,11 @@ Returns a [ModelFormatGeneral](Excel.modelformatgeneral.md) object that represen
 
 ## Syntax
 
- _expression_. `ModelFormatGeneral`
+_expression_. `ModelFormatGeneral`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

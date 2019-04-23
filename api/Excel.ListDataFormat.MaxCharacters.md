@@ -8,19 +8,20 @@ api_name:
 - Excel.ListDataFormat.MaxCharacters
 ms.assetid: b8d73844-6f2b-7888-8268-a27cbfcc709c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # ListDataFormat.MaxCharacters property (Excel)
 
-Returns a  **Long** containing the maximum number of characters allowed in the **[ListColumn](Excel.ListColumn.md)** object if the **[Type](Excel.ListDataFormat.Type.md)** property is set to **xlListDataTypeText** or **xlListDataTypeMultiLineText** . Read-only **Long** .
+Returns a  **Long** containing the maximum number of characters allowed in the **[ListColumn](Excel.ListColumn.md)** object if the **[Type](Excel.ListDataFormat.Type.md)** property is set to **xlListDataTypeText** or **xlListDataTypeMultiLineText**. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `MaxCharacters`
+_expression_. `MaxCharacters`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ The following example displays the setting of the  **MaxCharacters** property fo
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: View.ShowRevisionsAndComments Property (Word)
+title: View.ShowRevisionsAndComments property (Word)
 keywords: vbawd10.chm161808418
 f1_keywords:
 - vbawd10.chm161808418
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowRevisionsAndComments
 ms.assetid: b59de20c-cff0-0621-cb0d-aa04d77f1347
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowRevisionsAndComments Property (Word)
+# View.ShowRevisionsAndComments property (Word)
 
- **True** for Microsoft Word to display revisions and comments that were made to a document with Track Changes enabled. Read/write **Boolean** .
+ **True** for Microsoft Word to display revisions and comments that were made to a document with Track Changes enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowRevisionsAndComments`
+_expression_. `ShowRevisionsAndComments`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -40,3 +41,4 @@ End Sub
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

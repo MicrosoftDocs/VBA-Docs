@@ -1,14 +1,15 @@
 ---
-title: WdAutoFitBehavior Enumeration (Word)
+title: WdAutoFitBehavior enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAutoFitBehavior
 ms.assetid: 018a463f-1c0f-8600-3ac4-fe3940dcfb2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WdAutoFitBehavior Enumeration (Word)
+# WdAutoFitBehavior enumeration (Word)
 
 Specifies how Microsoft Word resizes a table when the AutoFit feature is used.
 
@@ -20,3 +21,4 @@ Specifies how Microsoft Word resizes a table when the AutoFit feature is used.
 | **wdAutoFitFixed**|0|The table is set to a fixed size, regardless of the content, and is not automatically sized.|
 | **wdAutoFitWindow**|2|The table is automatically sized to the width of the active window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 89bfc71a-a639-d62a-3179-008ae18525bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -26,3 +27,4 @@ No search text was found. This error has the following causes and solutions:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

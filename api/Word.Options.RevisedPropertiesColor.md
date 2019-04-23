@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedPropertiesColor Property (Word)
+title: Options.RevisedPropertiesColor property (Word)
 keywords: vbawd10.chm162988109
 f1_keywords:
 - vbawd10.chm162988109
@@ -8,19 +8,20 @@ api_name:
 - Word.Options.RevisedPropertiesColor
 ms.assetid: 00b04099-0cb2-31e1-dc34-ad9203919f52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.RevisedPropertiesColor Property (Word)
+# Options.RevisedPropertiesColor property (Word)
 
-Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write  **WdColorIndex** .
+Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write  **WdColorIndex**.
 
 
 ## Syntax
 
- _expression_. `RevisedPropertiesColor`
+_expression_. `RevisedPropertiesColor`
 
- _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
+_expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks
@@ -54,3 +55,4 @@ temp = Options.RevisedPropertiesColor
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

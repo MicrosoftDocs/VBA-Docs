@@ -8,24 +8,25 @@ api_name:
 - Excel.OLEDBConnection.EnableRefresh
 ms.assetid: 080b6002-303e-62ce-f19e-0cb7af6a5291
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # OLEDBConnection.EnableRefresh property (Excel)
 
- **True** if the connection can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
+ **True** if the connection can be refreshed by the user. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableRefresh`
+_expression_. `EnableRefresh`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False** .
+The  **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False**.
 
 
 ## See also
@@ -33,3 +34,4 @@ The  **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** propert
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

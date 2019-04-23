@@ -1,5 +1,5 @@
 ---
-title: Application.BuiltInToolbars Property (Visio)
+title: Application.BuiltInToolbars property (Visio)
 keywords: vis_sdr.chm10013165
 f1_keywords:
 - vis_sdr.chm10013165
@@ -8,17 +8,18 @@ api_name:
 - Visio.Application.BuiltInToolbars
 ms.assetid: e0460fa5-23da-f452-f541-feabe8e3bffb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.BuiltInToolbars Property (Visio)
+# Application.BuiltInToolbars property (Visio)
 
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio toolbars. Read-only.
 
 
 ## Syntax
 
- _expression_. `BuiltInToolbars`( `_fIgnored_` )
+_expression_. `BuiltInToolbars`( `_fIgnored_` )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -29,7 +30,7 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _fIgnored_|Required| **Integer**| Required **Integer** . Required for backward compatibility, but ignored. It is suggested that you pass zero (0).|
+| _fIgnored_|Required| **Integer**| Required **Integer**. Required for backward compatibility, but ignored. It is suggested that you pass zero (0).|
 
 ## Return value
 
@@ -93,4 +94,4 @@ Public Sub BuiltInToolbars_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

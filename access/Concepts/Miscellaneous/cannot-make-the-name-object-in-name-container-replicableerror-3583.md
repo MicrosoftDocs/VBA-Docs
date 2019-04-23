@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: baffb8a7-82a5-8282-ced7-cdea59aba150
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,7 +18,7 @@ ms.date: 06/08/2017
 
 An object (table, form, report, module, macro) in the indicated container cannot be made replicable.
 
-An example of an object that cannot be made replicable is a table that has 253 or more fields. Since replication needs to add a minumum of 3 additional fields, this would exceed the 255 field limit.
+An example of an object that cannot be made replicable is a table that has 253 or more fields. Since replication needs to add a minimum of 3 additional fields, this would exceed the 255 field limit.
 
 ## See also
 
@@ -27,3 +28,5 @@ An example of an object that cannot be made replicable is a table that has 253 o
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

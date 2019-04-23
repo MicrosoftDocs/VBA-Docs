@@ -1,30 +1,26 @@
 ---
-title: Layout Event, OldLeft, OldTop, OldHeight, OldWidth Properties Example
+title: Layout event, OldLeft, OldTop, OldHeight, OldWidth properties example
 keywords: fm20.chm5225125
 f1_keywords:
 - fm20.chm5225125
 ms.prod: office
 ms.assetid: de288917-b1f5-0681-d31f-5847c81b6f29
-ms.date: 06/08/2017
+ms.date: 11/14/2018
+localization_priority: Normal
 ---
 
 
-# Layout Event, OldLeft, OldTop, OldHeight, OldWidth Properties Example
+# Layout event, OldLeft, OldTop, OldHeight, OldWidth properties example
 
-The following example uses the  **OldLeft**, **OldTop**, **OldHeight**, and **OldWidth** properties within the **Layout** event to keep a control at its current position and size. The user clicks the **CommandButton** labeled **Move ComboBox** to move the control, and then responds to a message box. The user can click the **CommandButton** labeled **Reset ComboBox** to reset the control for another repetition.
+The following example uses the **[OldLeft and OldTop](oldleft-oldtop-properties.md)** properties and **[OldHeight and OldWidth](oldheight-oldwidth-properties.md)** properties within the **[Layout](layout-event.md)** event to keep a control at its current position and size. 
+
+The user clicks the **[CommandButton](commandbutton-control.md)** labeled **Move ComboBox** to move the control, and then responds to a message box. The user can click the **CommandButton** labeled **Reset ComboBox** to reset the control for another repetition.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.    
+- A **[ComboBox](combobox-control.md)** named ComboBox1.
     
-- A  **ComboBox** named ComboBox1.
-    
-
-
-
 
 ```vb
 Dim Initialize As Integer 
@@ -71,4 +67,4 @@ Private Sub CommandButton2_Click()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.OddAndEvenPagesHeaderFooter Property (Word)
+title: PageSetup.OddAndEvenPagesHeaderFooter property (Word)
 keywords: vbawd10.chm158400627
 f1_keywords:
 - vbawd10.chm158400627
@@ -8,24 +8,25 @@ api_name:
 - Word.PageSetup.OddAndEvenPagesHeaderFooter
 ms.assetid: 82b6d6f1-30fe-2946-241a-cdb0077cabf6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PageSetup.OddAndEvenPagesHeaderFooter Property (Word)
+# PageSetup.OddAndEvenPagesHeaderFooter property (Word)
 
- **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Long** .
+ **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `OddAndEvenPagesHeaderFooter`
+_expression_. `OddAndEvenPagesHeaderFooter`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Remarks
 
-The  **OddAndEvenPagesHeaderFooter** property can be **True** , **False** , or **wdUndefined** .
+The  **OddAndEvenPagesHeaderFooter** property can be **True**, **False**, or **wdUndefined**.
 
 
 ## Example
@@ -50,3 +51,4 @@ End With
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

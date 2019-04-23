@@ -1,14 +1,15 @@
 ---
-title: PjGroupOn Enumeration (Project)
+title: PjGroupOn enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjGroupOn
 ms.assetid: 72b06ac4-6028-2845-7bac-d4cde3c79c33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjGroupOn Enumeration (Project)
+# PjGroupOn enumeration (Project)
 
 Contains constants that specify the type of grouping.
 
@@ -44,3 +45,4 @@ Contains constants that specify the type of grouping.
 |**pjGroupOnTextEachValue**|50|Group on each text value.|
 |**pjGroupOnTextPrefix**|51|Group on the text prefix.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

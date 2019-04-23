@@ -1,5 +1,5 @@
 ---
-title: Document.ColorScheme Property (Publisher)
+title: Document.ColorScheme property (Publisher)
 keywords: vbapb10.chm196614
 f1_keywords:
 - vbapb10.chm196614
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Document.ColorScheme
 ms.assetid: b7748b48-eff3-bdf0-e6ce-a9a2e788d0f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.ColorScheme Property (Publisher)
+# Document.ColorScheme property (Publisher)
 
 Returns or sets the  **[ColorScheme](Publisher.ColorScheme.md)** object that represents the scheme colors for the specified publication. Read/write.
 
 
 ## Syntax
 
- _expression_. **ColorScheme**
+_expression_.**ColorScheme**
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -49,4 +50,4 @@ ActiveDocument.ColorScheme _
  = Application.ColorSchemes("Alpine")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

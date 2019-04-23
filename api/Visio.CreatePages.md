@@ -5,6 +5,7 @@ api_name:
 - Visio.CreatePages
 ms.assetid: 48094af2-55fb-9732-19bf-8a73827d1afb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Initiates Web page creation.
 
 ## Syntax
 
- _expression_. **CreatePages**
+_expression_.**CreatePages**
 
- _expression_An expression that returns a  ** [VisSaveAsWeb](./overview/Visio.md)** object.
+ _expression_ An expression that returns a  **[VisSaveAsWeb](overview/Visio.md)** object.
 
 
 ## Return value
@@ -27,7 +28,7 @@ Initiates Web page creation.
 
 ## Remarks
 
-Because the  **VisSaveAsWeb** object uses the settings in its ** [VisWebPageSettings](./overview/Visio.md)** object to create the Web page, you should call the **CreatePages** method after you make any required changes to the **VisWebPageSettings** object.
+Because the  **VisSaveAsWeb** object uses the settings in its **[VisWebPageSettings](overview/Visio.md)** object to create the Web page, you should call the **CreatePages** method after you make any required changes to the **VisWebPageSettings** object.
 
 To specify which document to save as a Web page, use the  **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method. If no document is specified, Microsoft Visio saves the active document by default.
 
@@ -56,4 +57,4 @@ Public Sub CreatePages_Example ()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

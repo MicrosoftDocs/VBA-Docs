@@ -1,12 +1,13 @@
 ---
-title: Report Object (Project)
+title: Report object (Project)
 ms.prod: project-server
 ms.assetid: 38ef993e-e5cd-b451-06aa-41eb0e93450e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Report Object (Project)
+# Report object (Project)
 Represents a report in Project that can contain Office Art objects such as a  **Shape**,  **ReportTable**, or  **Chart**. The  **Report** object is a member of the **Reports** collection.
  
 
@@ -70,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Project.report.apply.md)|
 |[Delete](Project.report.delete.md)|
@@ -79,7 +80,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.report.application.md)|
 |[Index](Project.report.index.md)|
@@ -100,3 +101,5 @@ End Sub
 [Shape Object](Project.shape.md)
  
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

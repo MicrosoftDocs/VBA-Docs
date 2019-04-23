@@ -1,17 +1,18 @@
 ---
-title: VisUIIconIDs Enumeration (Visio)
+title: VisUIIconIDs enumeration (Visio)
 keywords: vis_sdr.chm70200
 f1_keywords:
 - vis_sdr.chm70200
 ms.prod: visio
 ms.assetid: 068f266e-30d5-7b36-7af6-378af0d6c9e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# VisUIIconIDs Enumeration (Visio)
+# VisUIIconIDs enumeration (Visio)
 
-Icon identifiers used in conjunction with the  **FaceID** property of the **Menu** , **MenuItem** , and **ToolbarItem** objects.
+Icon identifiers used in conjunction with the  **FaceID** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
@@ -267,3 +268,4 @@ Icon identifiers used in conjunction with the  **FaceID** property of the **Menu
 | **visIconIXZOOMIN**|16|
 | **visIconIXZOOMOUT**|15|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

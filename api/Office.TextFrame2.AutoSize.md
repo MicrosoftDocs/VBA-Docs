@@ -1,36 +1,34 @@
 ---
-title: TextFrame2.AutoSize Property (Office)
+title: TextFrame2.AutoSize property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.AutoSize
 ms.assetid: f5d6da56-bd8a-2485-6176-1ddafb19629d
-ms.date: 06/08/2017
+ms.date: 01/25/2019
+localization_priority: Normal
 ---
 
 
-# TextFrame2.AutoSize Property (Office)
+# TextFrame2.AutoSize property (Office)
 
- Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write
+Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoSize`
+_expression_.**AutoSize**
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+_expression_ An expression that returns a **[TextFrame2](Office.TextFrame2.md)** object.
 
 
 ## Remarks
 
-The value of the  **AutoSize** property can be one of the following **MsoAutoSize** constants.
+The value of the **AutoSize** property can be one of the following **[MsoAutoSize](office.msoautosize.md)** constants:
 
-
-||
-|:-----|
-|**msoAutoSizeMixed**|
-|**msoAutoSizeNone**|
-|**msoAutoSizeShapeToFitText**|
-|**msoAutoSizeTextToFitShape**|
+- **msoAutoSizeMixed**
+- **msoAutoSizeNone**
+- **msoAutoSizeShapeToFitText**
+- **msoAutoSizeTextToFitShape**
 
 ## Example
 
@@ -50,10 +48,8 @@ End With
 
 ## See also
 
-
-[TextFrame2 Object](Office.TextFrame2.md)
-
+- [TextFrame2 object members](overview/Library-Reference/textframe2-members-office.md)
 
 
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,24 +8,25 @@ api_name:
 - Excel.Shape.HorizontalFlip
 ms.assetid: e9b64a81-3aef-5d42-0a65-5d03d564a71f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # Shape.HorizontalFlip property (Excel)
 
- **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
+ **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
 
- _expression_. `HorizontalFlip`
+_expression_. `HorizontalFlip`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](Excel.Shape.md) object.
 
 
 ## Example
 
-This example restores each shape on  `myDocument` to its original state if it's been flipped horizontally or vertically.
+This example restores each shape on  _myDocument_ to its original state if it's been flipped horizontally or vertically.
 
 
 ```vb
@@ -42,3 +43,4 @@ Next
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

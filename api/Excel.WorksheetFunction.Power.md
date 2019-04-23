@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Power Method (Excel)
+title: WorksheetFunction.Power method (Excel)
 keywords: vbaxl10.chm137237
 f1_keywords:
 - vbaxl10.chm137237
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.Power
 ms.assetid: 5c8b0c32-1afb-8bc3-923f-8f71eb88d43f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.Power Method (Excel)
+# WorksheetFunction.Power method (Excel)
 
 Returns the result of a number raised to a power.
 
 
 ## Syntax
 
- _expression_. `Power`( `_Arg1_` , `_Arg2_` )
+_expression_. `Power`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ The "^" operator can be used instead of POWER to indicate to what power the base
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

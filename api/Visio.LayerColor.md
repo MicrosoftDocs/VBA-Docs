@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerColor
 ms.assetid: 5e1bb40e-3e50-7ab9-a43d-606df8e0d14f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -15,9 +16,9 @@ Gets or sets the color of the layer at the specified index position in the curre
 
 ## Syntax
 
- _expression_. **LayerColor**(**_LayerIndex_**)
+_expression_.**LayerColor**(**_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_ An expression that returns a  **Viewer** object.
 
 
 ## Parameters
@@ -51,4 +52,4 @@ The following code shows how to get the color of the layer at index position 1 i
 Debug.Print vsoViewer.LayerColor(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

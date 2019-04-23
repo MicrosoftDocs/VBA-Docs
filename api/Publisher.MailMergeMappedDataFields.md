@@ -1,5 +1,5 @@
 ---
-title: MailMergeMappedDataFields Object (Publisher)
+title: MailMergeMappedDataFields object (Publisher)
 keywords: vbapb10.chm6553599
 f1_keywords:
 - vbapb10.chm6553599
@@ -8,10 +8,11 @@ api_name:
 - Publisher.MailMergeMappedDataFields
 ms.assetid: 7f33bf07-9cbb-e171-d276-d5ccb06abb95
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeMappedDataFields Object (Publisher)
+# MailMergeMappedDataFields object (Publisher)
 
 A collection of  **[MailMergeMappedDataField](Publisher.MailMergeMappedDataField.md)** objects that represents the mapped data fields available in Microsoft Publisher.
  
@@ -73,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.MailMergeMappedDataFields.Item.md)|
 
@@ -81,9 +82,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeMappedDataFields.Application.md)|
 |[Count](Publisher.MailMergeMappedDataFields.Count.md)|
 |[Parent](Publisher.MailMergeMappedDataFields.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

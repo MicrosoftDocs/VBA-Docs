@@ -1,5 +1,5 @@
 ---
-title: FillFormat.RotateWithObject Property (Word)
+title: FillFormat.RotateWithObject property (Word)
 keywords: vbawd10.chm164102265
 f1_keywords:
 - vbawd10.chm164102265
@@ -8,28 +8,29 @@ api_name:
 - Word.FillFormat.RotateWithObject
 ms.assetid: 96a0a7e9-be99-fb36-b245-8850297fa765
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FillFormat.RotateWithObject Property (Word)
+# FillFormat.RotateWithObject property (Word)
 
 Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 
 ## Syntax
 
- _expression_. `RotateWithObject`
+_expression_. `RotateWithObject`
 
  _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 
 
 ## Remarks
 
-The value returned by the  **RotateWithObject** property can be one of the [MsoTriState](./Office.MsoTriState.md) constants listed in the following table.
+The value returned by the  **RotateWithObject** property can be one of the [MsoTriState](Office.MsoTriState.md) constants listed in the following table.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The fill does not rotate with the shape.|
 | **msoTrue**|The fill rotates with the shape.|
@@ -45,3 +46,4 @@ The setting of the  **RotateWithObject** property corresponds to the setting of 
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

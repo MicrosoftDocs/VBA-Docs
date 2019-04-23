@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.EnableDataValueEditing
 ms.assetid: 57b4ed51-46d5-0d9f-d947-cdc45e523095
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.EnableDataValueEditing property (Excel)
 
- **True** to disable the alert for when the user overwrites values in the data area of the PivotTable. **True** also allows the user to change data values that previously could not be changed. The default value is **False** . Read/write **Boolean** .
+ **True** to disable the alert for when the user overwrites values in the data area of the PivotTable. **True** also allows the user to change data values that previously could not be changed. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnableDataValueEditing`
+_expression_. `EnableDataValueEditing`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks
@@ -56,3 +57,4 @@ End Sub
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

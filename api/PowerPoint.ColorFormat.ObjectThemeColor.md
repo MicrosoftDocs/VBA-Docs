@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.ObjectThemeColor Property (PowerPoint)
+title: ColorFormat.ObjectThemeColor property (PowerPoint)
 keywords: vbapp10.chm506006
 f1_keywords:
 - vbapp10.chm506006
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.ColorFormat.ObjectThemeColor
 ms.assetid: 40264b94-b16d-2a52-9adc-8e8510ec581d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorFormat.ObjectThemeColor Property (PowerPoint)
+# ColorFormat.ObjectThemeColor property (PowerPoint)
 
 Returns or sets the theme color of the specified  **ColorFormat** object. Read/Write.
 
 
 ## Syntax
 
- _expression_. `ObjectThemeColor`
+_expression_. `ObjectThemeColor`
 
  _expression_ An expression that returns a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
@@ -30,7 +31,7 @@ MsoThemeColorIndex
 
 ## Remarks
 
-The value of the  **ObjectThemeColor** property can be one of these **[MsoThemeColorIndex](./Office.MsoThemeColorIndex.md)** constants.
+The value of the  **ObjectThemeColor** property can be one of these **[MsoThemeColorIndex](Office.MsoThemeColorIndex.md)** constants.
 
 
 ## Example
@@ -52,3 +53,4 @@ End Sub
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

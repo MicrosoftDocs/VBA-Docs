@@ -1,20 +1,21 @@
 ---
-title: Project.HideCheckoutMsgBar Method (Project)
+title: Project.HideCheckoutMsgBar method (Project)
 keywords: vbapj.chm131099
 f1_keywords:
 - vbapj.chm131099
 ms.prod: project-server
 ms.assetid: 2a62080f-1e23-dda5-346f-4b0194173190
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Project.HideCheckoutMsgBar Method (Project)
+# Project.HideCheckoutMsgBar method (Project)
 Hides the project checkout message bar.
 
 ## Syntax
 
- _expression_. `HideCheckoutMsgBar`
+_expression_. `HideCheckoutMsgBar`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
@@ -52,3 +53,5 @@ End Sub
 
 [IsCheckoutMsgBarVisible Property](Project.project.ischeckoutmsgbarvisible.md)
 [CheckoutProject Method](Project.project.checkoutproject.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

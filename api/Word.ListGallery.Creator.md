@@ -1,5 +1,5 @@
 ---
-title: ListGallery.Creator Property (Word)
+title: ListGallery.Creator property (Word)
 keywords: vbawd10.chm160695273
 f1_keywords:
 - vbawd10.chm160695273
@@ -8,19 +8,20 @@ api_name:
 - Word.ListGallery.Creator
 ms.assetid: 9f9a95b1-9563-0fee-330c-a235e500f53a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListGallery.Creator Property (Word)
+# ListGallery.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[ListGallery](Word.ListGallery.md)' object.
+_expression_ Required. A variable that represents a '[ListGallery](Word.ListGallery.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ListGallery Object](Word.ListGallery.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

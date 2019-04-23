@@ -1,5 +1,5 @@
 ---
-title: Document.MakeCompatibilityDefault Method (Word)
+title: Document.MakeCompatibilityDefault method (Word)
 keywords: vbawd10.chm158007415
 f1_keywords:
 - vbawd10.chm158007415
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.MakeCompatibilityDefault
 ms.assetid: 06c3cede-312c-aacf-3780-4d79dd7c6fc3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.MakeCompatibilityDefault Method (Word)
+# Document.MakeCompatibilityDefault method (Word)
 
 Sets the compatibility options.
 
 
 ## Syntax
 
- _expression_. `MakeCompatibilityDefault`
+_expression_. `MakeCompatibilityDefault`
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -49,3 +50,4 @@ End With
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

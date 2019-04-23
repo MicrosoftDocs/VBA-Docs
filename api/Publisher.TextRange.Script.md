@@ -1,5 +1,5 @@
 ---
-title: TextRange.Script Property (Publisher)
+title: TextRange.Script property (Publisher)
 keywords: vbapb10.chm5308484
 f1_keywords:
 - vbapb10.chm5308484
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextRange.Script
 ms.assetid: 54e5a19f-9cb0-0fbc-5ebe-cd4db6c0de8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Script Property (Publisher)
+# TextRange.Script property (Publisher)
 
 Returns a  **PbFontScriptType** constant that represents the font script for a text range. Read-only.
 
 
 ## Syntax
 
- _expression_. **Script**
+_expression_.**Script**
 
  _expression_ A variable that represents a  **TextRange** object.
 
@@ -47,4 +48,4 @@ Sub DisplayScriptType()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3378d45f-6342-4d77-827c-0df6d5953711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.MinMaxButtons property (Access)](http://msdn.microsoft.com/library/12f2a0b1-1f45-544b-b116-8d5aa51d6897%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TabStops Object (Publisher)
+title: TabStops object (Publisher)
 keywords: vbapb10.chm5636095
 f1_keywords:
 - vbapb10.chm5636095
@@ -8,10 +8,11 @@ api_name:
 - Publisher.TabStops
 ms.assetid: fbaa194c-754a-3437-c3d5-fa70c951ca4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TabStops Object (Publisher)
+# TabStops object (Publisher)
 
 A collection of  **[TabStop](Publisher.TabStop.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
  
@@ -105,7 +106,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.TabStops.Add.md)|
 |[ClearAll](Publisher.TabStops.ClearAll.md)|
@@ -115,9 +116,10 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.TabStops.Application.md)|
 |[Count](Publisher.TabStops.Count.md)|
 |[Parent](Publisher.TabStops.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

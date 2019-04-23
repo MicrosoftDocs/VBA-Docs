@@ -1,5 +1,5 @@
 ---
-title: Font.Grow Method (Word)
+title: Font.Grow method (Word)
 keywords: vbawd10.chm156368996
 f1_keywords:
 - vbawd10.chm156368996
@@ -8,19 +8,20 @@ api_name:
 - Word.Font.Grow
 ms.assetid: 0bce9195-07df-d604-9208-1b1222a81b3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.Grow Method (Word)
+# Font.Grow method (Word)
 
 Increases the font size to the next available size.
 
 
 ## Syntax
 
- _expression_. `Grow`
+_expression_. `Grow`
 
- _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
+_expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Remarks
@@ -61,3 +62,4 @@ End If
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

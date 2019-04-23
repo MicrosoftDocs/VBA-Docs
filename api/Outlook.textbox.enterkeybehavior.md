@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 2af4a64e-4939-ae46-0d25-67fe986d413a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets a  **Boolean** that defines the effect of pressing **ENTER** in 
 
 ## Syntax
 
- _expression_. **EnterKeyBehavior**
+_expression_.**EnterKeyBehavior**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ The  **EnterKeyBehavior** and **[MultiLine](Outlook.textbox.multiline.md)** prop
 
 The effect of pressing  **CTRL+ENTER** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+ENTER** creates a new line regardless of the value of **EnterKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+ENTER** has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

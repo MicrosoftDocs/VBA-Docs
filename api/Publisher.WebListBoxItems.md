@@ -1,5 +1,5 @@
 ---
-title: WebListBoxItems Object (Publisher)
+title: WebListBoxItems object (Publisher)
 keywords: vbapb10.chm4194303
 f1_keywords:
 - vbapb10.chm4194303
@@ -8,10 +8,11 @@ api_name:
 - Publisher.WebListBoxItems
 ms.assetid: 6d1b6755-426b-b518-c95c-7b30f9acceba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebListBoxItems Object (Publisher)
+# WebListBoxItems object (Publisher)
 
 Represents the items in a Web list box control.
  
@@ -45,4 +46,4 @@ Sub CreateWebListBox()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

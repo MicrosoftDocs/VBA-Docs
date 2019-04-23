@@ -1,5 +1,5 @@
 ---
-title: Application.ViewApply Method (Project)
+title: Application.ViewApply method (Project)
 keywords: vbapj.chm302
 f1_keywords:
 - vbapj.chm302
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.ViewApply
 ms.assetid: 3e0d3fbd-5aa7-ceb8-b926-79646986d464
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.ViewApply Method (Project)
+# Application.ViewApply method (Project)
 
 Applies a view to the active window.
 
 
 ## Syntax
 
- _expression_. `ViewApply`( ` _Name_`, ` _SinglePane_`, ` _Toggle_` )
+_expression_. `ViewApply`( `_Name_`, `_SinglePane_`, `_Toggle_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -54,4 +55,4 @@ Sub ChangeWindowToResourceSheet()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

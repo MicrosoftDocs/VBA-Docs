@@ -1,5 +1,5 @@
 ---
-title: Search.Filter Property (Outlook)
+title: Search.Filter property (Outlook)
 keywords: vbaol11.chm2253
 f1_keywords:
 - vbaol11.chm2253
@@ -8,19 +8,20 @@ api_name:
 - Outlook.Search.Filter
 ms.assetid: f6040465-da73-56f6-edb7-06d93bb8b531
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Search.Filter Property (Outlook)
+# Search.Filter property (Outlook)
 
 Returns a  **String** value that represents the DASL statement used to restrict the search to a specified subset of data. Read-only
 
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 
 ## Remarks
@@ -119,3 +120,4 @@ End Sub
 
 [Search Object](Outlook.Search.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

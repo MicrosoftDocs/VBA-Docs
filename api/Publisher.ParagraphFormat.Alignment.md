@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Alignment Property (Publisher)
+title: ParagraphFormat.Alignment property (Publisher)
 keywords: vbapb10.chm5439491
 f1_keywords:
 - vbapb10.chm5439491
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ParagraphFormat.Alignment
 ms.assetid: db66f8b8-a813-418c-2735-e5299e6a6045
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.Alignment Property (Publisher)
+# ParagraphFormat.Alignment property (Publisher)
 
 Returns or sets a  **PbParagraphAlignmentType** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
- _expression_. **Alignment**
+_expression_.**Alignment**
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
@@ -51,4 +52,4 @@ Sub NewTextFrame()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

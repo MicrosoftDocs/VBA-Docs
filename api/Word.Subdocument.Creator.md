@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Creator Property (Word)
+title: Subdocument.Creator property (Word)
 keywords: vbawd10.chm159974377
 f1_keywords:
 - vbawd10.chm159974377
@@ -8,19 +8,20 @@ api_name:
 - Word.Subdocument.Creator
 ms.assetid: 9b602f8e-433c-4679-cea5-37f6eea5f62d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Subdocument.Creator Property (Word)
+# Subdocument.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
+_expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Subdocument Object](Word.Subdocument.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

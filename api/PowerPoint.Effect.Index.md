@@ -1,5 +1,5 @@
 ---
-title: Effect.Index Property (PowerPoint)
+title: Effect.Index property (PowerPoint)
 keywords: vbapp10.chm652008
 f1_keywords:
 - vbapp10.chm652008
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.Effect.Index
 ms.assetid: 1eac9295-e24c-c31e-3cd6-ace59f5ac04a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Effect.Index Property (PowerPoint)
+# Effect.Index property (PowerPoint)
 
 Returns a  **Long** that represents the index number for an animation effect or design. Read-only.
 
 
 ## Syntax
 
- _expression_. `Index`
+_expression_.**Index**
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value
@@ -58,3 +59,4 @@ End Sub
 
 [Effect Object](PowerPoint.Effect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

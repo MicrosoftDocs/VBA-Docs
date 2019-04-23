@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.Characters
 ms.assetid: 42e0518f-204d-c0cd-2401-dd1fb8f142e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_.**Characters** (_Start_, _Length_)
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Parameters
@@ -47,3 +48,4 @@ The  **Characters** object is not a collection.
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

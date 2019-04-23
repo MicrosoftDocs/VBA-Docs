@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.FormulaR1C1 Property (PowerPoint)
+title: AxisTitle.FormulaR1C1 property (PowerPoint)
 keywords: vbapp10.chm683025
 f1_keywords:
 - vbapp10.chm683025
@@ -8,19 +8,20 @@ api_name:
 - PowerPoint.AxisTitle.FormulaR1C1
 ms.assetid: 2a600229-e441-32d8-e00e-f83cbdcb2e9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AxisTitle.FormulaR1C1 Property (PowerPoint)
+# AxisTitle.FormulaR1C1 property (PowerPoint)
 
 Returns or sets the formula for the object by using R1C1-style notation. Read/write.
 
 
 ## Syntax
 
- _expression_. `FormulaR1C1`
+_expression_.**FormulaR1C1**
 
- _expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
+_expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the formula for the object by using R1C1-style notation. Read/wr
 
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

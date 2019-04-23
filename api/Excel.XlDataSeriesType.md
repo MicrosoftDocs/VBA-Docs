@@ -1,14 +1,15 @@
 ---
-title: xlDataSeriesType enumeration (Excel)
+title: XlDataSeriesType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataSeriesType
 ms.assetid: 250af7ce-5e12-6f6d-274c-d35a581b2b63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# xlDataSeriesType enumeration (Excel)
+# XlDataSeriesType enumeration (Excel)
 
 Specifies the data series to create.
 
@@ -21,3 +22,4 @@ Specifies the data series to create.
 | **xlDataSeriesLinear**|-4132|Extend values, assuming an additive progression (for example, '1, 2' is extended as '3, 4, 5').|
 | **xlGrowth**|2|Extend values, assuming a multiplicative progression (for example, '1, 2' is extended as '4, 8, 16').|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

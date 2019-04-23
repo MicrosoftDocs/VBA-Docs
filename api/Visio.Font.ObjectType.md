@@ -1,5 +1,5 @@
 ---
-title: Font.ObjectType Property (Visio)
+title: Font.ObjectType property (Visio)
 keywords: vis_sdr.chm12013960
 f1_keywords:
 - vis_sdr.chm12013960
@@ -8,17 +8,18 @@ api_name:
 - Visio.Font.ObjectType
 ms.assetid: ed363d74-0158-ea77-72b2-d7a1beaa0c3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Font.ObjectType Property (Visio)
+# Font.ObjectType property (Visio)
 
 Returns an object's type. Read-only.
 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
@@ -30,7 +31,7 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)** .
+Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Example
@@ -95,4 +96,4 @@ Function GetTopShape(vsoShape As Visio.Shape) As String
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

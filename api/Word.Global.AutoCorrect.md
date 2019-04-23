@@ -1,5 +1,5 @@
 ---
-title: Global.AutoCorrect Property (Word)
+title: Global.AutoCorrect property (Word)
 keywords: vbawd10.chm163119114
 f1_keywords:
 - vbawd10.chm163119114
@@ -8,17 +8,18 @@ api_name:
 - Word.Global.AutoCorrect
 ms.assetid: 3565507b-c2b7-da6c-a725-ab925d695c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Global.AutoCorrect Property (Word)
+# Global.AutoCorrect property (Word)
 
 Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
 
 
 ## Syntax
 
- _expression_. `AutoCorrect`
+_expression_. `AutoCorrect`
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
@@ -72,3 +73,4 @@ End If
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

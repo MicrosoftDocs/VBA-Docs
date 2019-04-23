@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: cc4ac909-de5c-4505-ead2-5a7d209a35a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns or sets an  **Integer** that specifies how to display the background pic
 
 ## Syntax
 
- _expression_. **PictureSizeMode**
+_expression_.**PictureSizeMode**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks
@@ -27,7 +28,7 @@ The settings for  **PictureSizeMode** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Crops any part of the picture that is larger than the form or page (default).|
 |1|Stretches the picture to fill the form or page. This setting distorts the picture in either the horizontal or vertical direction.|
@@ -37,4 +38,4 @@ The 1 and 3 settings both enlarge the image, but 1 causes distortion. The 1 sett
 
 Setting the  **PictureSizeMode** property to 2 overrides **[PictureAlignment](Outlook.frame.picturealignment.md)**. When  **PictureSizeMode** is set to 2, the picture fills the entire control or container.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

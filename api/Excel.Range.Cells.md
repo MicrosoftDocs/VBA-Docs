@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Cells
 ms.assetid: 32a6ecc7-2366-2cec-1feb-0966241a435d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 
 ## Syntax
 
- _expression_. `Cells`
+_expression_.**Cells**
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Remarks
@@ -91,4 +92,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

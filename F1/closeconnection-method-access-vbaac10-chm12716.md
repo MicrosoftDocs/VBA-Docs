@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: dbdf5763-dee5-4c1a-8e58-a3861cf000f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeProject.CloseConnection method (Access)](http://msdn.microsoft.com/library/850a09c8-45a8-26e4-79f5-e688599a990a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

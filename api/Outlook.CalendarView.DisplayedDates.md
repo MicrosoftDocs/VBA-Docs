@@ -1,5 +1,5 @@
 ---
-title: CalendarView.DisplayedDates Property (Outlook)
+title: CalendarView.DisplayedDates property (Outlook)
 keywords: vbaol11.chm3028
 f1_keywords:
 - vbaol11.chm3028
@@ -8,19 +8,20 @@ api_name:
 - Outlook.CalendarView.DisplayedDates
 ms.assetid: 45d77ff9-b93e-4439-3594-ff9dcf1f180b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalendarView.DisplayedDates Property (Outlook)
+# CalendarView.DisplayedDates property (Outlook)
 
 Returns a  **Variant** array containing strings that represent the days displayed in a **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `DisplayedDates`
+_expression_. `DisplayedDates`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 
 
 ## Remarks
@@ -101,3 +102,4 @@ End Sub
 
 [CalendarView Object](Outlook.CalendarView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.SlicerCacheLevels
 ms.assetid: 0fa9bd67-2276-196d-15e6-2570d8c9770a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,14 @@ Returns the collection of  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** obj
 
 ## Syntax
 
- _expression_. `SlicerCacheLevels`
+_expression_. `SlicerCacheLevels`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Remarks
 
-The  **SlicerCacheLevels** property applies only to slicers that filter OLAP data sources (**SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True**). Attempting to access this property from non-OLAP slicers will generate a run-time error.
+The  **SlicerCacheLevels** property applies only to slicers that filter OLAP data sources (**SlicerCache**. **[OLAP](Excel.SlicerCache.OLAP.md)** = **True**). Attempting to access this property from non-OLAP slicers will generate a run-time error.
 
 
 ## See also
@@ -33,3 +34,4 @@ The  **SlicerCacheLevels** property applies only to slicers that filter OLAP dat
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

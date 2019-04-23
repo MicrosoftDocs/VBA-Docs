@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IsEmpty Property (Publisher)
+title: PictureFormat.IsEmpty property (Publisher)
 keywords: vbapb10.chm3604788
 f1_keywords:
 - vbapb10.chm3604788
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.IsEmpty
 ms.assetid: 493cbb8f-e069-14a9-a827-7f7631eb3a09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.IsEmpty Property (Publisher)
+# PictureFormat.IsEmpty property (Publisher)
 
 Returns a  **MsoTriState** constant that represents whether the specified shape is an empty picture frame. Read-only.
 
 
 ## Syntax
 
- _expression_. **IsEmpty**
+_expression_.**IsEmpty**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -34,7 +35,7 @@ The  **IsEmpty** property value can be one of the **MsoTriState** constants decl
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified shape is not an empty picture frame.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -72,4 +73,4 @@ Next pgLoop
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

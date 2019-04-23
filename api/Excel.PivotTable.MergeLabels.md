@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotTable.MergeLabels
 ms.assetid: 2c658f34-1ec5-e1c8-59f7-b4401efc2646
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotTable.MergeLabels property (Excel)
 
- **True** if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells. Read/write **Boolean** .
+ **True** if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `MergeLabels`
+_expression_. `MergeLabels`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -38,3 +39,4 @@ Worksheets(1).PivotTables(1).MergeLabels = True
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

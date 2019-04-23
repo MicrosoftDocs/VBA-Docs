@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Creator Property (Word)
+title: MailMergeDataSource.Creator property (Word)
 keywords: vbawd10.chm152896489
 f1_keywords:
 - vbawd10.chm152896489
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMergeDataSource.Creator
 ms.assetid: eeb7afa8-177d-38e3-d367-36b9a49538da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMergeDataSource.Creator Property (Word)
+# MailMergeDataSource.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
+_expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

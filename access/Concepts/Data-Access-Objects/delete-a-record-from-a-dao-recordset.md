@@ -3,6 +3,7 @@ title: Delete a record from a DAO Recordset
 ms.prod: access
 ms.assetid: 7407b757-4c00-2ea7-c93f-303c09afff26
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 
@@ -54,3 +55,4 @@ If you try to access a record after deleting it on a table-type **Recordset**, y
 
 If you have a **Recordset** clone positioned at the deleted record, and you try to read its value, you will see error 3167 regardless of the type of **Recordset** object. Trying to use a bookmark to move to a deleted record will also result in error 3167.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

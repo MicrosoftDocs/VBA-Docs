@@ -1,5 +1,5 @@
 ---
-title: PropertyPageSite.OnStatusChange Method (Outlook)
+title: PropertyPageSite.OnStatusChange method (Outlook)
 keywords: vbaol11.chm389
 f1_keywords:
 - vbaol11.chm389
@@ -8,19 +8,20 @@ api_name:
 - Outlook.PropertyPageSite.OnStatusChange
 ms.assetid: d314f8fc-33f5-0a6f-22c0-e26548e21a4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PropertyPageSite.OnStatusChange Method (Outlook)
+# PropertyPageSite.OnStatusChange method (Outlook)
 
 Notifies Microsoft Outlook that a custom property page has changed.
 
 
 ## Syntax
 
- _expression_. `OnStatusChange`
+_expression_. `OnStatusChange`
 
- _expression_ A variable that represents a [PropertyPageSite](./Outlook.PropertyPageSite.md) object.
+_expression_ A variable that represents a [PropertyPageSite](Outlook.PropertyPageSite.md) object.
 
 
 ## Example
@@ -66,3 +67,4 @@ End Sub
 
 [PropertyPageSite Object](Outlook.PropertyPageSite.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

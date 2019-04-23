@@ -2,7 +2,8 @@
 title: DocumentProperty members (Office)
 ms.prod: office
 ms.assetid: 568da0ff-fa90-150a-06ec-611de886334e
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,14 +14,14 @@ Represents a custom or built-in document property of a container document. The *
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.DocumentProperty.Delete.md)|Removes a custom document property.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentProperty.Application.md)|Gets an **Application** object that represents the container application for the **DocumentProperty** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.DocumentProperty.Creator.md)|Gets a 32-bit integer that indicates the application in which the **DocumentProperty** object was created. Read-only.|
@@ -31,3 +32,4 @@ Represents a custom or built-in document property of a container document. The *
 |[Type](../../Office.DocumentProperty.Type.md)|Gets or sets the document property type. Read-only for built-in document properties; read/write for custom document properties.|
 |[Value](../../Office.DocumentProperty.Value.md)|Gets or sets the value of a document property. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

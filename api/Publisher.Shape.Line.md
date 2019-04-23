@@ -1,5 +1,5 @@
 ---
-title: Shape.Line Property (Publisher)
+title: Shape.Line property (Publisher)
 keywords: vbapb10.chm2228290
 f1_keywords:
 - vbapb10.chm2228290
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shape.Line
 ms.assetid: 3d53f917-87ad-159d-65c3-e6fdfa72b15e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.Line Property (Publisher)
+# Shape.Line property (Publisher)
 
 Returns a  **[LineFormat](Publisher.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.).
 
 
 ## Syntax
 
- _expression_. **Line**
+_expression_.**Line**
 
  _expression_ A variable that represents a  **Shape** object.
 
@@ -51,4 +52,4 @@ With ActiveDocument.Pages(1).Shapes _
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

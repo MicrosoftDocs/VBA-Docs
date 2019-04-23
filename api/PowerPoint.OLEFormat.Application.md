@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Application Property (PowerPoint)
+title: OLEFormat.Application property (PowerPoint)
 keywords: vbapp10.chm562001
 f1_keywords:
 - vbapp10.chm562001
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.OLEFormat.Application
 ms.assetid: 095419ed-7d4b-16d0-a306-dc0da5c21d9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OLEFormat.Application Property (PowerPoint)
+# OLEFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
  _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
@@ -66,3 +67,4 @@ Next
 
 [OLEFormat Object](PowerPoint.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

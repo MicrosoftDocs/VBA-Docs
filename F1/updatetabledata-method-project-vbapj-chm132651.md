@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 22068fe2-013a-49c8-994a-2ceb67f020d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.OpenUndoTransaction Method (Project)](http://msdn.microsoft.com/library/b94b2c87-786c-46d6-50d3-d20614493f8f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

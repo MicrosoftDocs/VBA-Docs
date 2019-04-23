@@ -1,5 +1,5 @@
 ---
-title: Application.KeyBindings Property (Word)
+title: Application.KeyBindings property (Word)
 keywords: vbawd10.chm158335045
 f1_keywords:
 - vbawd10.chm158335045
@@ -8,17 +8,18 @@ api_name:
 - Word.Application.KeyBindings
 ms.assetid: 68e08a9a-6547-f722-078e-b603b9f3e9cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.KeyBindings Property (Word)
+# Application.KeyBindings property (Word)
 
 Returns a  **[KeyBindings](Word.keybindings.md)** collection that represents customized key assignments, which include a key code, a key category, and a command.
 
 
 ## Syntax
 
- _expression_. `KeyBindings`
+_expression_. `KeyBindings`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
@@ -57,3 +58,4 @@ Next kbLoop
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

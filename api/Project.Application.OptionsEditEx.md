@@ -1,5 +1,5 @@
 ---
-title: Application.OptionsEditEx Method (Project)
+title: Application.OptionsEditEx method (Project)
 keywords: vbapj.chm2159
 f1_keywords:
 - vbapj.chm2159
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.OptionsEditEx
 ms.assetid: d735d118-f004-ba67-7aa5-290ff256da10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.OptionsEditEx Method (Project)
+# Application.OptionsEditEx method (Project)
 
 Sets options for Project, where colors can be hexadecimal values, or opens the  **Project Options** dialog box.
 
 
 ## Syntax
 
- _expression_. `OptionsEditEx`( ` _MoveAfterReturn_`, ` _DragAndDrop_`, ` _UpdateLinks_`, ` _CopyResourceUsageHeader_`, ` _PhoneticInfo_`, ` _PhoneticType_`, ` _MinuteLabelDisplay_`, ` _HourLabelDisplay_`, ` _DayLabelDisplay_`, ` _WeekLabelDisplay_`, ` _YearLabelDisplay_`, ` _SpaceBeforeTimeLabel_`, ` _SetDefaults_`, ` _MonthLabelDisplay_`, ` _SetDefaultsTimeUnits_`, ` _HyperlinkColor_`, ` _FollowedHyperlinkColor_`, ` _UnderlineHyperlinks_`, ` _SetDefaultsHyperlink_`, ` _InCellEditing_` )
+_expression_. `OptionsEditEx`( `_MoveAfterReturn_`, `_DragAndDrop_`, `_UpdateLinks_`, `_CopyResourceUsageHeader_`, `_PhoneticInfo_`, `_PhoneticType_`, `_MinuteLabelDisplay_`, `_HourLabelDisplay_`, `_DayLabelDisplay_`, `_WeekLabelDisplay_`, `_YearLabelDisplay_`, `_SpaceBeforeTimeLabel_`, `_SetDefaults_`, `_MonthLabelDisplay_`, `_SetDefaultsTimeUnits_`, `_HyperlinkColor_`, `_FollowedHyperlinkColor_`, `_UnderlineHyperlinks_`, `_SetDefaultsHyperlink_`, `_InCellEditing_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
@@ -61,4 +62,4 @@ If an argument is omitted, its default value is specified by the current setting
 
 Using the  **OptionsEditEx** method with no arguments displays the **Project Options** dialog box with the **General** tab selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

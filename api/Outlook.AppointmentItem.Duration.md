@@ -1,5 +1,5 @@
 ---
-title: AppointmentItem.Duration Property (Outlook)
+title: AppointmentItem.Duration property (Outlook)
 keywords: vbaol11.chm878
 f1_keywords:
 - vbaol11.chm878
@@ -8,19 +8,20 @@ api_name:
 - Outlook.AppointmentItem.Duration
 ms.assetid: eea64bdd-c19b-01c7-4fdb-111df86de2c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AppointmentItem.Duration Property (Outlook)
+# AppointmentItem.Duration property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[AppointmentItem](Outlook.AppointmentItem.md)** . Read/write.
+Returns or sets a  **Long** indicating the duration (in minutes) of the **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
 
 ## Syntax
 
- _expression_. `Duration`
+_expression_. `Duration`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 
 
 ## Example
@@ -76,3 +77,4 @@ End Sub
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

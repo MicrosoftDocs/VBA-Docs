@@ -1,23 +1,24 @@
 ---
-title: CalloutFormat.Application Property (PowerPoint)
+title: CalloutFormat.Application property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Application
 ms.assetid: 0c276f4f-5c1d-5c4a-caeb-2367c5822b26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# CalloutFormat.Application Property (PowerPoint)
+# CalloutFormat.Application property (PowerPoint)
 
 Returns an  **[Application](PowerPoint.Application.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value
@@ -63,3 +64,4 @@ Next
 
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

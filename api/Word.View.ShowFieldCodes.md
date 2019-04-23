@@ -1,5 +1,5 @@
 ---
-title: View.ShowFieldCodes Property (Word)
+title: View.ShowFieldCodes property (Word)
 keywords: vbawd10.chm161808388
 f1_keywords:
 - vbawd10.chm161808388
@@ -8,17 +8,18 @@ api_name:
 - Word.View.ShowFieldCodes
 ms.assetid: f872636f-9c9f-4dad-d2a0-e18c82d33c68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# View.ShowFieldCodes Property (Word)
+# View.ShowFieldCodes property (Word)
 
- **True** if field codes are displayed. Read/write **Boolean** .
+ **True** if field codes are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowFieldCodes`
+_expression_. `ShowFieldCodes`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 
@@ -57,3 +58,4 @@ ActiveDocument.ActiveWindow.View.ShowFieldCodes = _
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

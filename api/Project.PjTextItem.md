@@ -1,14 +1,15 @@
 ---
-title: PjTextItem Enumeration (Project)
+title: PjTextItem enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjTextItem
 ms.assetid: 0ebefb9f-91f0-56c5-b7f8-a11fade79eb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PjTextItem Enumeration (Project)
+# PjTextItem enumeration (Project)
 
 Contains constants that specify the text item in the Project database. For more information about working with fields in Project, see the "Fields reference" topics in Project Help.
 
@@ -59,3 +60,4 @@ Contains constants that specify the text item in the Project database. For more 
 |**pjTickLabels**|5|Represents the Tick Labels text item.|
 |**pjWeeklyTitles**|10|Represents the Weekly Titles text item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

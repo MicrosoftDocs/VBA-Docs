@@ -1,21 +1,22 @@
 ---
-title: TextRange.Count Property (PowerPoint)
+title: TextRange.Count property (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Count
 ms.assetid: 9c514376-18ef-1eac-661a-c1fc46514b32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextRange.Count Property (PowerPoint)
+# TextRange.Count property (PowerPoint)
 
 Returns the number of objects in the specified collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_.**Count**
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
@@ -48,3 +49,4 @@ End With
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

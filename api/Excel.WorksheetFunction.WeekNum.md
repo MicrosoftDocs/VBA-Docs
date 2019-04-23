@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.WeekNum Method (Excel)
+title: WorksheetFunction.WeekNum method (Excel)
 keywords: vbaxl10.chm137341
 f1_keywords:
 - vbaxl10.chm137341
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.WeekNum
 ms.assetid: 9a99ad5a-76ba-da98-34d9-b5ee09647b10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.WeekNum Method (Excel)
+# WorksheetFunction.WeekNum method (Excel)
 
 Returns a number that indicates where the week falls numerically within a year.
 
 
 ## Syntax
 
- _expression_. `WeekNum`( `_Arg1_` , `_Arg2_` )
+_expression_. `WeekNum`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
@@ -60,3 +61,4 @@ Microsoft Excel stores dates as sequential serial numbers so they can be used in
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

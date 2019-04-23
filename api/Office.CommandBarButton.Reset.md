@@ -1,26 +1,27 @@
 ---
-title: CommandBarButton.Reset Method (Office)
+title: CommandBarButton.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Reset
 ms.assetid: 0e39c960-3928-f91a-cf7e-1df5a2fd217b
-ms.date: 06/08/2017
+ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 
-# CommandBarButton.Reset Method (Office)
+# CommandBarButton.Reset method (Office)
 
-Resets a built-in  **CommandBarButton** control to its original function and face.
+Resets a built-in **CommandBarButton** control to its original function and face.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_.**Reset**
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
@@ -49,10 +50,6 @@ End With
 
 ## See also
 
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

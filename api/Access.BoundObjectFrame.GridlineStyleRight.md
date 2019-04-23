@@ -7,41 +7,38 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineStyleRight
 ms.assetid: 498ba715-b84b-d5d9-51a1-5e085a67422b
-ms.date: 06/08/2017
+ms.date: 02/08/2019
+localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.GridlineStyleRight property (Access)
 
-Gets or sets the right gridline style of the specified frame. Read/write  **Byte**.
+Gets or sets the right gridline style of the specified frame. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleRight`
+_expression_.**GridlineStyleRight**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **RightGridlineStyle** property uses the following settings.
+The **GridlineStyleRight** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Category Property (Word)
+title: TableOfAuthorities.Category property (Word)
 keywords: vbawd10.chm152109059
 f1_keywords:
 - vbawd10.chm152109059
@@ -8,17 +8,18 @@ api_name:
 - Word.TableOfAuthorities.Category
 ms.assetid: 29ca2198-c539-e26b-cd63-6fd5e1733e80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.Category Property (Word)
+# TableOfAuthorities.Category property (Word)
 
-Returns or sets the category of entries to be included in a table of authorities. Read/write  **Long** .
+Returns or sets the category of entries to be included in a table of authorities. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Category`
+_expression_. `Category`
 
  _expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
@@ -55,3 +56,4 @@ End If
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

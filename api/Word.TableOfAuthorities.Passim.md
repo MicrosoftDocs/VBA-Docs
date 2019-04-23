@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Passim Property (Word)
+title: TableOfAuthorities.Passim property (Word)
 keywords: vbawd10.chm152109057
 f1_keywords:
 - vbawd10.chm152109057
@@ -8,17 +8,18 @@ api_name:
 - Word.TableOfAuthorities.Passim
 ms.assetid: 5df50485-69c7-ff9e-710c-7cdfdaaaeada
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.Passim Property (Word)
+# TableOfAuthorities.Passim property (Word)
 
- **True** if five or more page references to the same authority are replaced with "Passim." Read/write **Boolean** .
+ **True** if five or more page references to the same authority are replaced with "Passim." Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Passim`
+_expression_. `Passim`
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
@@ -54,3 +55,4 @@ Next myTOA
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

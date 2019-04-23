@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 90ae4267-c4c1-44b1-9a87-eb801833e451
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.HyperlinkColorEx Property (Project)](http://msdn.microsoft.com/library/ee305b13-9375-47d4-4cae-c81af86f3606%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

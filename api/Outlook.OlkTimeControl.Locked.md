@@ -1,5 +1,5 @@
 ---
-title: OlkTimeControl.Locked Property (Outlook)
+title: OlkTimeControl.Locked property (Outlook)
 keywords: vbaol11.chm1000388
 f1_keywords:
 - vbaol11.chm1000388
@@ -8,24 +8,25 @@ api_name:
 - Outlook.OlkTimeControl.Locked
 ms.assetid: 3e448a76-c4cd-1f39-0989-b8bba93e719b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# OlkTimeControl.Locked Property (Outlook)
+# OlkTimeControl.Locked property (Outlook)
 
 Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_.**Locked**
 
- _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks
 
-The default value is  **False** .
+The default value is  **False**.
 
 When the control is locked, the control does not have a "disabled" appearance, but the user cannot edit the contents of the control. 
 
@@ -35,3 +36,4 @@ When the control is locked, the control does not have a "disabled" appearance, b
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

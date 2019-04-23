@@ -1,5 +1,5 @@
 ---
-title: Shape.GluedShapes Method (Visio)
+title: Shape.GluedShapes method (Visio)
 keywords: vis_sdr.chm11262245
 f1_keywords:
 - vis_sdr.chm11262245
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.GluedShapes
 ms.assetid: 0c9c551d-ce28-f7c6-4656-8120962e8d34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.GluedShapes Method (Visio)
+# Shape.GluedShapes method (Visio)
 
 Returns an array that contains the identifiers of the shapes that are glued to a shape.
 
 
 ## Syntax
 
- _expression_. `GluedShapes`( `_Flags_` , `_CategoryFilter_` , `_pOtherConnectedShape_` )
+_expression_. `GluedShapes`( `_Flags_` , `_CategoryFilter_` , `_pOtherConnectedShape_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
@@ -44,14 +45,14 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
-| **visGluedShapesAll1D**|0|Return all 1-D shapes that are glued to this shape.|
-| **visGluedShapesIncoming1D**|1|Return 1-D shapes whose end points are glued to this shape.|
-| **visGluedShapesOutgoing1D**|2|Return 1-D shapes whose begin points are glued to this shape.|
-| **visGluedShapesAll2D**|3|Return all 2-D shapes that are glued to this shape and all 2-D shapes to which this shape is glued. |
-| **visGluedShapesIncoming2D**|4|If the source object is a 1-D shape, return the 2-D shape to which the begin point is glued. If the source object is a 2-D shape, return the 2-D shapes that are glued to this shape.|
-| **visGluedShapesOutgoing2D**|5|If the source object is a 1-D shape, return the 2-D shape to which the end point is glued. If the source object is a 2-D shape, return the 2-D shapes to which this shape is glued.|
+| **visGluedShapesAll1D**|0|Return all 1D shapes that are glued to this shape.|
+| **visGluedShapesIncoming1D**|1|Return 1D shapes whose end points are glued to this shape.|
+| **visGluedShapesOutgoing1D**|2|Return 1D shapes whose begin points are glued to this shape.|
+| **visGluedShapesAll2D**|3|Return all 2D shapes that are glued to this shape and all 2D shapes to which this shape is glued. |
+| **visGluedShapesIncoming2D**|4|If the source object is a 1D shape, return the 2D shape to which the begin point is glued. If the source object is a 2D shape, return the 2D shapes that are glued to this shape.|
+| **visGluedShapesOutgoing2D**|5|If the source object is a 1D shape, return the 2D shape to which the end point is glued. If the source object is a 2D shape, return the 2D shapes to which this shape is glued.|
 
 Categories are user-defined strings that you can use to categorize shapes and thereby to restrict membership in a container. You can define categories in the User.msvShapeCategories cell in the ShapeSheet for a shape. You can define multiple categories for a shape by separating those categories with semi-colons.
 
@@ -63,4 +64,4 @@ If you specify an invalid shape for  _pOtherConnectedShape_ , Microsoft Visio re
 
  **GluedShapes** returns an empty array if there are no qualifying shapes to return.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

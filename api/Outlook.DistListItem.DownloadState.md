@@ -1,5 +1,5 @@
 ---
-title: DistListItem.DownloadState Property (Outlook)
+title: DistListItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1157
 f1_keywords:
 - vbaol11.chm1157
@@ -8,19 +8,20 @@ api_name:
 - Outlook.DistListItem.DownloadState
 ms.assetid: caaf02de-0a33-6b5a-7546-46b4672d5a58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DistListItem.DownloadState Property (Outlook)
+# DistListItem.DownloadState property (Outlook)
 
 Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 
 
 ## Example
@@ -80,3 +81,4 @@ End Sub
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

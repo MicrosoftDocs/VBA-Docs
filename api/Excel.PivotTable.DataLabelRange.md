@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DataLabelRange
 ms.assetid: 9a4a6ee0-f918-2dd3-f423-e5ced6fdba20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `DataLabelRange`
+_expression_. `DataLabelRange`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example
@@ -40,3 +41,4 @@ ActiveCell.PivotTable.DataLabelRange.Select
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

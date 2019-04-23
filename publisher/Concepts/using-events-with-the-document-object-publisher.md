@@ -3,6 +3,7 @@ title: Using Events with the Document Object (Publisher)
 ms.prod: publisher
 ms.assetid: 0f5cfe67-bfa1-0ec7-11c9-c4c1337ebe50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -50,4 +51,4 @@ End Sub
 
  **Note**  For information on creating event procedures for the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md) .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

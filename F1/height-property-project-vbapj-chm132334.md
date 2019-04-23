@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 1e835b28-76f5-4177-918b-24d5a0d611d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -19,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.LastSaveDate Property (Project)](http://msdn.microsoft.com/library/0f9e43d6-18dd-06fe-3a82-e3c49610e1f2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

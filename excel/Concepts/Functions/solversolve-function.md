@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 40ef53c8-ff54-bdc8-9f8b-bf9a4445ce51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -91,4 +92,4 @@ Function ShowTrial(Reason As Integer)
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

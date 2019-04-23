@@ -3,6 +3,7 @@ title: Network I/O error. (Error 3566)
 ms.prod: access
 ms.assetid: 886a1f5b-1a6b-4177-a893-ec8f0369ad1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -22,3 +23,5 @@ The communication between your computer and the network is experiencing a proble
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

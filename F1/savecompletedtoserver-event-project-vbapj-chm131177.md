@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 20bef3e3-531e-44db-9fae-b25eef661e82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.JobCompleted Event (Project)](http://msdn.microsoft.com/library/44f7987c-92e0-a302-a775-7e62dab2ef86%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

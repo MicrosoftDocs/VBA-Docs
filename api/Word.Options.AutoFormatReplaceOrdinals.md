@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceOrdinals Property (Word)
+title: Options.AutoFormatReplaceOrdinals property (Word)
 keywords: vbawd10.chm162988288
 f1_keywords:
 - vbawd10.chm162988288
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.AutoFormatReplaceOrdinals
 ms.assetid: 7dd6d253-53e5-5fec-aafa-181899afe02b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.AutoFormatReplaceOrdinals Property (Word)
+# Options.AutoFormatReplaceOrdinals property (Word)
 
- **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript when Word formats a document or range automatically. For example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean** .
+ **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript when Word formats a document or range automatically. For example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoFormatReplaceOrdinals`
+_expression_. `AutoFormatReplaceOrdinals`
 
  _expression_ A variable that represents an '[Options](Word.Options.md)' object.
 
@@ -50,3 +51,4 @@ blnAutoFormat = Options.AutoFormatReplaceOrdinals
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

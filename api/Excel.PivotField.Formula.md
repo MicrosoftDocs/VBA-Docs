@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.Formula
 ms.assetid: 59be8f8e-4c8e-e770-f906-b02971d7df27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets a  **String** value that represents the object's formula in A1-s
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_.**Formula**
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
@@ -41,3 +42,4 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

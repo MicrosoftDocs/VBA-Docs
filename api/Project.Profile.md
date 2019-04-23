@@ -1,14 +1,15 @@
 ---
-title: Profile Object (Project)
+title: Profile object (Project)
 ms.prod: project-server
 api_name:
 - Project.Profile
 ms.assetid: 92ae9d1a-ea4d-1814-1655-f0798f4b18d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Profile Object (Project)
+# Profile object (Project)
 
 
  
@@ -36,7 +37,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.Profile.Delete.md)|
 
@@ -44,7 +45,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ConnectionState](Project.Profile.ConnectionState.md)|
 |[LoginType](Project.Profile.LoginType.md)|
@@ -54,3 +55,4 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 |[Type](Project.Profile.Type.md)|
 |[UserName](Project.Profile.UserName.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

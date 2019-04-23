@@ -1,5 +1,5 @@
 ---
-title: Application.EnterpriseResourcesOpen Method (Project)
+title: Application.EnterpriseResourcesOpen method (Project)
 keywords: vbapj.chm2088
 f1_keywords:
 - vbapj.chm2088
@@ -8,17 +8,18 @@ api_name:
 - Project.Application.EnterpriseResourcesOpen
 ms.assetid: 343b5391-2a28-043d-8ee9-34c71003126c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.EnterpriseResourcesOpen Method (Project)
+# Application.EnterpriseResourcesOpen method (Project)
 
 Opens the pool of enterprise resources for viewing in a temporary project. Available in Project Professional only.
 
 
 ## Syntax
 
- _expression_. `EnterpriseResourcesOpen`( ` _EUID_`, ` _OpenType_` )
+_expression_. `EnterpriseResourcesOpen`( `_EUID_`, `_OpenType_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -36,4 +37,4 @@ Opens the pool of enterprise resources for viewing in a temporary project. Avail
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

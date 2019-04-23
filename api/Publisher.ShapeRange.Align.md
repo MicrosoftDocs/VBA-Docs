@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Align Method (Publisher)
+title: ShapeRange.Align method (Publisher)
 keywords: vbapb10.chm2294016
 f1_keywords:
 - vbapb10.chm2294016
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.Align
 ms.assetid: ef522d47-3fc7-cfca-5b9a-44ff020f8b31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.Align Method (Publisher)
+# ShapeRange.Align method (Publisher)
 
 Aligns all the shapes in the specified  **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. **Align**(**_AlignCmd_**,  **_RelativeTo_**)
+_expression_.**Align**(**_AlignCmd_**,  **_RelativeTo_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -40,7 +41,7 @@ The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoAlignBottoms**|Aligns shapes along their bottom edges. If  _RelativeTo_ is **msoFalse**, the bottommost shape determines the line against which the other shapes are aligned.|
 | **msoAlignCenters**|Aligns shapes on a vertical line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the left- and rightmost shapes.|
@@ -53,7 +54,7 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Aligns shapes relative to one another.|
 | **msoTrue**|Aligns shapes relative to the page.|
@@ -70,4 +71,4 @@ ActiveDocument.Pages(1).Shapes.Range.Align _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

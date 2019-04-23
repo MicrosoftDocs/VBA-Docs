@@ -1,5 +1,5 @@
 ---
-title: Fields.Count Property (Publisher)
+title: Fields.Count property (Publisher)
 keywords: vbapb10.chm6029315
 f1_keywords:
 - vbapb10.chm6029315
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Fields.Count
 ms.assetid: a8a6b0d4-b029-0b45-6d76-6fb237c31c97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Fields.Count Property (Publisher)
+# Fields.Count property (Publisher)
 
 Returns a  **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
- _expression_. **Count**
+_expression_.**Count**
 
  _expression_ A variable that represents a  **Fields** object.
 
@@ -53,4 +54,4 @@ Sub CountNumberOfShapes()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

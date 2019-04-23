@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.OriginalIsTrueColor Property (Publisher)
+title: PictureFormat.OriginalIsTrueColor property (Publisher)
 keywords: vbapb10.chm3604775
 f1_keywords:
 - vbapb10.chm3604775
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PictureFormat.OriginalIsTrueColor
 ms.assetid: 837109d4-3479-2500-a1fa-b4c00e0f8672
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PictureFormat.OriginalIsTrueColor Property (Publisher)
+# PictureFormat.OriginalIsTrueColor property (Publisher)
 
 Returns an  **MsoTriState** constant indicating whether the specified linked picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
 
 
 ## Syntax
 
- _expression_. **OriginalIsTrueColor**
+_expression_.**OriginalIsTrueColor**
 
  _expression_ A variable that represents an  **PictureFormat** object.
 
@@ -38,7 +39,7 @@ The  **OriginalIsTrueColor** property value can be one of the **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified linked picture does not contain color data of 24 bits per channel or greater.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
@@ -81,4 +82,4 @@ Next pgLoop
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

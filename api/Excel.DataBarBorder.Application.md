@@ -8,6 +8,7 @@ api_name:
 - Excel.DataBarBorder.Application
 ms.assetid: aac44b32-cbb0-c14a-ab3a-cb87692db215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_.**Application**
 
- _expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
+_expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
 
 
 ## See also
@@ -28,3 +29,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [DataBarBorder Object](Excel.DataBarBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

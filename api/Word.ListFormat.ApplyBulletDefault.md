@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ApplyBulletDefault Method (Word)
+title: ListFormat.ApplyBulletDefault method (Word)
 keywords: vbawd10.chm163578068
 f1_keywords:
 - vbawd10.chm163578068
@@ -8,19 +8,20 @@ api_name:
 - Word.ListFormat.ApplyBulletDefault
 ms.assetid: 40e0b8f6-9360-441b-a7fc-52bff8953ea8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ListFormat.ApplyBulletDefault Method (Word)
+# ListFormat.ApplyBulletDefault method (Word)
 
 Adds bullets and formatting to the paragraphs in the range for the specified  **ListFormat** object.
 
 
 ## Syntax
 
- _expression_. `ApplyBulletDefault`( `_DefaultListBehavior_` )
+_expression_. `ApplyBulletDefault`( `_DefaultListBehavior_` )
 
- _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
+_expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Parameters
@@ -29,7 +30,7 @@ Adds bullets and formatting to the paragraphs in the range for the specified  **
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following constants:  **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
+| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following constants:  **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior**, but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
 
 ## Remarks
 
@@ -76,3 +77,4 @@ End If
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

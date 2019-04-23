@@ -1,5 +1,5 @@
 ---
-title: ColorCMYK.Magenta Property (Publisher)
+title: ColorCMYK.Magenta property (Publisher)
 keywords: vbapb10.chm2621444
 f1_keywords:
 - vbapb10.chm2621444
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ColorCMYK.Magenta
 ms.assetid: 2996279e-d5f6-9734-ca1a-0e80d7991e5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ColorCMYK.Magenta Property (Publisher)
+# ColorCMYK.Magenta property (Publisher)
 
 Sets or returns a  **Long** that represents the magenta component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 
 
 ## Syntax
 
- _expression_. **Magenta**
+_expression_.**Magenta**
 
  _expression_ A variable that represents a  **ColorCMYK** object.
 
@@ -64,4 +65,4 @@ Sub ReturnAndSetCMYK()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

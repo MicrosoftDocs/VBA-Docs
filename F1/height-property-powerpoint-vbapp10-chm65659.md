@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 545a7e33-1ddb-40f0-8347-4150141c0d2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -21,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [LegendKey.Height Property (PowerPoint)](http://msdn.microsoft.com/library/f12c9287-99a8-3d68-1c22-79c8e84b02e9%28Office.15%29.aspx)
 [LegendEntry.Height Property (PowerPoint)](http://msdn.microsoft.com/library/eaf854c0-ee67-d6f7-df4c-eb8d67d489d0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

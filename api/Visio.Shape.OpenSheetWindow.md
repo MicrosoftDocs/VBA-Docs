@@ -1,5 +1,5 @@
 ---
-title: Shape.OpenSheetWindow Method (Visio)
+title: Shape.OpenSheetWindow method (Visio)
 keywords: vis_sdr.chm11216415
 f1_keywords:
 - vis_sdr.chm11216415
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.OpenSheetWindow
 ms.assetid: 744b72f5-381a-48fc-407f-20ffe815c54e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.OpenSheetWindow Method (Visio)
+# Shape.OpenSheetWindow method (Visio)
 
 Opens a ShapeSheet window for a  **Shape** object.
 
 
 ## Syntax
 
- _expression_. `OpenSheetWindow`
+_expression_. `OpenSheetWindow`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -54,4 +55,4 @@ Public Sub OpenSheetWindow_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

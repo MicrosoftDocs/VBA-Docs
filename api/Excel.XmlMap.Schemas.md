@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.Schemas
 ms.assetid: 9027625d-3eb2-216d-5b50-a4bb84c19a8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Schemas`
+_expression_. `Schemas`
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](Excel.XmlMap.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ The first item in the returned  **XmlSchemas** collection is the schema that is 
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

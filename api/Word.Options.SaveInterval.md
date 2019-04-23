@@ -1,5 +1,5 @@
 ---
-title: Options.SaveInterval Property (Word)
+title: Options.SaveInterval property (Word)
 keywords: vbawd10.chm162988077
 f1_keywords:
 - vbawd10.chm162988077
@@ -8,17 +8,18 @@ api_name:
 - Word.Options.SaveInterval
 ms.assetid: 0f0ce021-f883-60d3-6dfe-f17c626dd07e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Options.SaveInterval Property (Word)
+# Options.SaveInterval property (Word)
 
-Returns or sets the time interval in minutes for saving AutoRecover information. Read/write  **Long** .
+Returns or sets the time interval in minutes for saving AutoRecover information. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `SaveInterval`
+_expression_. `SaveInterval`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
@@ -61,3 +62,4 @@ temp = Options.SaveInterval
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

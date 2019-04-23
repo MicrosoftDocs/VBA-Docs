@@ -7,24 +7,22 @@ ms.prod: access
 api_name:
 - Access.Printer.LeftMargin
 ms.assetid: 60c43199-1d31-35f5-67fc-344baac19cde
-ms.date: 06/08/2017
+ms.date: 02/28/2019
+localization_priority: Normal
 ---
 
 
 # Printer.LeftMargin property (Access)
 
-Along with the  **TopMargin**, **RightMargin**, and **BottomMargin** properties, specifies the margins for a printed page. Read/write **Long**.
+Along with the **TopMargin**, **RightMargin**, and **BottomMargin** properties, specifies the margins for a printed page. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `LeftMargin`
+_expression_.**LeftMargin**
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
-[Printer Object](Access.Printer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

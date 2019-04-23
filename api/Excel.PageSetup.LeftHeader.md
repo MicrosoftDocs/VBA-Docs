@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.LeftHeader
 ms.assetid: 9d566b06-1178-9409-a299-f9da6debddaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns or sets the alignment of text on the left header of a workbook or sectio
 
 ## Syntax
 
- _expression_. `LeftHeader`
+_expression_. `LeftHeader`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns or sets the alignment of text on the left header of a workbook or sectio
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

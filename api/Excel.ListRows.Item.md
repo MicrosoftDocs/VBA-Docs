@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRows.Item
 ms.assetid: 45b82814-e8ee-43b2-3b57-2ca7f1f152c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
+_expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
 
 
 ## Parameters
@@ -36,3 +37,4 @@ Returns a single object from a collection.
 
 [ListRows Object](Excel.ListRows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Page.Shapes Property (Visio)
+title: Page.Shapes property (Visio)
 keywords: vis_sdr.chm10914330
 f1_keywords:
 - vis_sdr.chm10914330
@@ -8,17 +8,18 @@ api_name:
 - Visio.Page.Shapes
 ms.assetid: b6a5c174-c1d6-049b-8aec-8337c47341d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Shapes Property (Visio)
+# Page.Shapes property (Visio)
 
 Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_.**Shapes**
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
@@ -72,4 +73,4 @@ Public Sub Shapes_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

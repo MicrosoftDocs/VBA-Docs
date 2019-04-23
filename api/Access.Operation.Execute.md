@@ -7,7 +7,8 @@ ms.prod: access
 api_name:
 - Access.Operation.Execute
 ms.assetid: d8663d82-609f-3b6f-8d42-6f9aab7fff7c
-ms.date: 06/08/2017
+ms.date: 03/23/2019
+localization_priority: Normal
 ---
 
 
@@ -18,14 +19,12 @@ Executes the specified operation.
 
 ## Syntax
 
-_expression_. `Execute`( ` _bstrParameters_` )
+_expression_.**Execute** (_bstrParameters_)
 
-_expression_ A variable that represents an [Operation](Access.Operation.md) object.
+_expression_ A variable that represents an **[Operation](Access.Operation.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,8 +35,6 @@ _expression_ A variable that represents an [Operation](Access.Operation.md) obje
 Variant
 
 
-## See also
 
 
-[Operation Object](Access.Operation.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

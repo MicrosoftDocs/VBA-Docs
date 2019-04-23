@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: 25e27f90-d0d0-9d9c-fdf6-fc07c17c5da6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -23,4 +24,4 @@ Private Sub GetUserName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

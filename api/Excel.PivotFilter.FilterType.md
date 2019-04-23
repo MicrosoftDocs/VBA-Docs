@@ -8,19 +8,20 @@ api_name:
 - Excel.PivotFilter.FilterType
 ms.assetid: 0c7b7a0c-1472-8a36-2876-62353568ec90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PivotFilter.FilterType property (Excel)
 
-Specifies the type of filter to be applied. Read-only  **xlPivotFilterType** .
+Specifies the type of filter to be applied. Read-only  **xlPivotFilterType**.
 
 
 ## Syntax
 
- _expression_. `FilterType`
+_expression_. `FilterType`
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks
@@ -105,3 +106,4 @@ The following table shows the new filter types, the arguments that must be suppl
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

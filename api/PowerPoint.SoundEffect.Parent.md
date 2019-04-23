@@ -1,5 +1,5 @@
 ---
-title: SoundEffect.Parent Property (PowerPoint)
+title: SoundEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm540002
 f1_keywords:
 - vbapp10.chm540002
@@ -8,17 +8,18 @@ api_name:
 - PowerPoint.SoundEffect.Parent
 ms.assetid: 1a00d850-733d-3ec7-8d37-24cd869a3f3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SoundEffect.Parent Property (PowerPoint)
+# SoundEffect.Parent property (PowerPoint)
 
 Returns the parent object for the specified object.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
  _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 
@@ -51,3 +52,4 @@ End With
 
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

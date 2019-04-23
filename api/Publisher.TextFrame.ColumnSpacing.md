@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ColumnSpacing Property (Publisher)
+title: TextFrame.ColumnSpacing property (Publisher)
 keywords: vbapb10.chm3866633
 f1_keywords:
 - vbapb10.chm3866633
@@ -8,17 +8,18 @@ api_name:
 - Publisher.TextFrame.ColumnSpacing
 ms.assetid: 3b650d29-3716-e9b1-eaf0-92bdc0b77c5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TextFrame.ColumnSpacing Property (Publisher)
+# TextFrame.ColumnSpacing property (Publisher)
 
 Returns or sets a  **Variant** that represents the amount of space between text columns. Read/write.
 
 
 ## Syntax
 
- _expression_. **ColumnSpacing**
+_expression_.**ColumnSpacing**
 
  _expression_ A variable that represents a  **TextFrame** object.
 
@@ -47,4 +48,4 @@ Sub SetColumnsAndSpacing()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

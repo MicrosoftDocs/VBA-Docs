@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Creator Property (Word)
+title: TableOfAuthorities.Creator property (Word)
 keywords: vbawd10.chm152110057
 f1_keywords:
 - vbawd10.chm152110057
@@ -8,19 +8,20 @@ api_name:
 - Word.TableOfAuthorities.Creator
 ms.assetid: 22eda540-1af4-af1e-ef99-db471774f383
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableOfAuthorities.Creator Property (Word)
+# TableOfAuthorities.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
+_expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

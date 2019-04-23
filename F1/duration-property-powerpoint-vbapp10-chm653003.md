@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 37790a52-469f-437a-b971-9560f90356f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SlideShowTransition.Duration Property (PowerPoint)](http://msdn.microsoft.com/library/f8c47dda-9687-e437-8038-dae11c022914%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.Value
 ms.assetid: 7677efe6-bb2c-4d3a-37b3-aa555ba973ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns a  **String** value that represents the name of the specified style.
 
 ## Syntax
 
- _expression_. `Value`
+_expression_.**Value**
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](Excel.Style.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns a  **String** value that represents the name of the specified style.
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

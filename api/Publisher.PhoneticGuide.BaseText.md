@@ -1,5 +1,5 @@
 ---
-title: PhoneticGuide.BaseText Property (Publisher)
+title: PhoneticGuide.BaseText property (Publisher)
 keywords: vbapb10.chm6160391
 f1_keywords:
 - vbapb10.chm6160391
@@ -8,17 +8,18 @@ api_name:
 - Publisher.PhoneticGuide.BaseText
 ms.assetid: e59ef54f-c650-1a3e-717b-b4b603f312c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# PhoneticGuide.BaseText Property (Publisher)
+# PhoneticGuide.BaseText property (Publisher)
 
 Returns a  **String** that represents the text to which the specified phonetic text applies. Read-only.
 
 
 ## Syntax
 
- _expression_. **BaseText**
+_expression_.**BaseText**
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 
@@ -42,4 +43,4 @@ Sub AddPhoneticText()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

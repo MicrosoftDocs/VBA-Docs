@@ -8,19 +8,20 @@ api_name:
 - Excel.WorkbookConnection.Description
 ms.assetid: a0ba84a8-6bea-71aa-92be-2d875ec23a42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # WorkbookConnection.Description property (Excel)
 
-Returns or sets a brief description for a  **WorkbookConnection** object. Read/write **String** .
+Returns or sets a brief description for a  **WorkbookConnection** object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks
@@ -35,3 +36,4 @@ The maximum size of a description is 255 characters. If the user specifies a des
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

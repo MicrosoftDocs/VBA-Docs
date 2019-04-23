@@ -7,35 +7,33 @@ ms.prod: access
 api_name:
 - Access.ComboBox.InSelection
 ms.assetid: 0e0bf471-8d24-52a8-c14c-3e4441a2fc8d
-ms.date: 06/08/2017
+ms.date: 02/22/2019
+localization_priority: Normal
 ---
 
 
 # ComboBox.InSelection property (Access)
 
-You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
+You can use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `InSelection`
+_expression_.**InSelection**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
-When a control is selected, its sizing handles are visible and it can be resized by the user. More than one control can be selected at a time.
+When a control is selected, its sizing handles are visible, and it can be resized by the user. More than one control can be selected at a time.
 
 
 ## Example
 
-The following function uses the  **InSelection** property to determine whether the `strControlName` control on a form is selected.
+The following function uses the **InSelection** property to determine whether the **strControlName** control on a form is selected.
 
-To test this code, paste the IsControlSelected function code in the Declarations section of a code module in the Northwind sample database, open the Customers form in Design view, and select the CompanyName control. Then enter the following line in the Debug window:
-
-
-
+To test this code, paste the **IsControlSelected** function code in the Declarations section of a code module in the Northwind sample database, open the **Customers** form in Design view, and select the **CompanyName** control. Enter the following line in the Debug window.
 
 ```vb
 ? IsControlSelected (Forms!Customers, "CompanyName") 
@@ -64,8 +62,6 @@ End Function
 ```
 
 
-## See also
 
 
-[ComboBox Object](Access.ComboBox.md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

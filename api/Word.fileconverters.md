@@ -1,12 +1,13 @@
 ---
-title: FileConverters Object (Word)
+title: FileConverters object (Word)
 ms.prod: word
 ms.assetid: b9b8fc53-1c8e-224d-726a-4edf172ca647
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverters Object (Word)
+# FileConverters object (Word)
 
 A collection of  **FileConverter** objects that represent all the file converters available for opening and saving files.
 
@@ -26,7 +27,7 @@ Next conv
 
 The  **Add** method isn't available for the **FileConverters** collection. **[FileConverter](Word.FileConverter.md)** objects are added during installation of Microsoft Office or by installing supplemental converters.
 
-Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](Word.FileConverter.md)** object. The following example displays the extensions associated wtih the Microsoft Excel worksheet converter.
+Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](Word.FileConverter.md)** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
 
 
 
@@ -50,6 +51,6 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 ## See also
 
 
-[Word Object Model Reference](./overview/Word/object-model.md)
+[Word Object Model Reference](overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

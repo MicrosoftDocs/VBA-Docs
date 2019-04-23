@@ -1,5 +1,5 @@
 ---
-title: MailMessage.Creator Property (Word)
+title: MailMessage.Creator property (Word)
 keywords: vbawd10.chm163185641
 f1_keywords:
 - vbawd10.chm163185641
@@ -8,19 +8,20 @@ api_name:
 - Word.MailMessage.Creator
 ms.assetid: 6e5fbcf4-965d-c932-fc6c-0f6d61cb53c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MailMessage.Creator Property (Word)
+# MailMessage.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
+_expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [MailMessage Object](Word.MailMessage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

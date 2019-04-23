@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.MirrorIndents Property (Word)
+title: ParagraphFormat.MirrorIndents property (Word)
 keywords: vbawd10.chm156434566
 f1_keywords:
 - vbawd10.chm156434566
@@ -8,17 +8,18 @@ api_name:
 - Word.ParagraphFormat.MirrorIndents
 ms.assetid: 51521bd0-f492-c83c-1688-04779fa5cd53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ParagraphFormat.MirrorIndents Property (Word)
+# ParagraphFormat.MirrorIndents property (Word)
 
-Returns or sets a  **Long** that represents whether left and right indents are the same width. Can be **True** , **False** , or **wdUndefined** . Read/write.
+Returns or sets a  **Long** that represents whether left and right indents are the same width. Can be **True**, **False**, or **wdUndefined**. Read/write.
 
 
 ## Syntax
 
- _expression_. `MirrorIndents`
+_expression_. `MirrorIndents`
 
  _expression_ An expression that returns a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
@@ -28,3 +29,4 @@ Returns or sets a  **Long** that represents whether left and right indents are t
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: FileConverters Object (PowerPoint)
+title: FileConverters object (PowerPoint)
 keywords: vbapp10.chm679000
 f1_keywords:
 - vbapp10.chm679000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.FileConverters
 ms.assetid: b175c08d-a910-636e-cdbe-d4f0e6af595e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# FileConverters Object (PowerPoint)
+# FileConverters object (PowerPoint)
 
 A collection of  **[FileConverter](PowerPoint.FileConverter.md)** objects that represent all the file converters available for opening and saving files.
 
@@ -35,7 +36,7 @@ Next conv
 
 The  **Add** method isn't available for the **FileConverters** collection. **[FileConverter](PowerPoint.FileConverter.md)** objects are added during installation of Microsoft Office or by installing supplemental converters.
 
-Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](PowerPoint.FileConverter.md)** object. The following example displays the extensions associated wtih the Microsoft Excel worksheet converter.
+Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](PowerPoint.FileConverter.md)** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
 
 
 
@@ -61,3 +62,4 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

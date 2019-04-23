@@ -1,5 +1,5 @@
 ---
-title: Document.New Event (Word)
+title: Document.New event (Word)
 keywords: vbawd10.chm4001004
 f1_keywords:
 - vbawd10.chm4001004
@@ -8,10 +8,11 @@ api_name:
 - Word.Document.New
 ms.assetid: c37f7e20-f429-e921-3d17-609d536e8baa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.New Event (Word)
+# Document.New event (Word)
 
 Occurs when a new document based on the template is created. A procedure for the  **New** event will run only if it is stored in a template.
 
@@ -20,7 +21,7 @@ Occurs when a new document based on the template is created. A procedure for the
 
 Private Sub  _expression_ _'Private Sub Document_New'
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -60,3 +61,4 @@ End Sub
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

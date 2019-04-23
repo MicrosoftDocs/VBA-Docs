@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.AutoUpdate Property (Word)
+title: LinkFormat.AutoUpdate property (Word)
 keywords: vbawd10.chm154206209
 f1_keywords:
 - vbawd10.chm154206209
@@ -8,17 +8,18 @@ api_name:
 - Word.LinkFormat.AutoUpdate
 ms.assetid: 39525118-e17e-d19e-33b8-98dc52d895f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# LinkFormat.AutoUpdate Property (Word)
+# LinkFormat.AutoUpdate property (Word)
 
- **True** if the specified link is updated automatically when the container file is opened or when the source file is changed. Read/write **Boolean** .
+ **True** if the specified link is updated automatically when the container file is opened or when the source file is changed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoUpdate`
+_expression_. `AutoUpdate`
 
  _expression_ A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
@@ -62,3 +63,4 @@ Next fieldLoop
 
 [LinkFormat Object](Word.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotAxis.PivotLines
 ms.assetid: 1172bb70-d8e2-246f-5942-4d66c8b1d97a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -18,9 +19,9 @@ Returns the PivotLines attached to the specified  **PivotAxis** object. Read-onl
 
 ## Syntax
 
- _expression_. `PivotLines`
+_expression_. `PivotLines`
 
- _expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
+_expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
 
 
 ## See also
@@ -28,3 +29,4 @@ Returns the PivotLines attached to the specified  **PivotAxis** object. Read-onl
 
 [PivotAxis Object](Excel.PivotAxis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

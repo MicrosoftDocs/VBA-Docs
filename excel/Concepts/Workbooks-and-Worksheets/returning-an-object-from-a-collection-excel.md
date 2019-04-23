@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: f8a36459-f9dd-9f4c-ef7a-b188173434d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -45,7 +46,7 @@ End With
 
 ## Predefined Index Values
 
-Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify an  **XlBordersIndex** constant with the **Item** property of the **Borders** collection to return a single border.
+Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify an  **xlBordersIndex** constant with the **Item** property of the **Borders** collection to return a single border.
 
 The following example sets the bottom border of cells A1:G1 on Sheet1 to a double line.
 
@@ -57,4 +58,4 @@ Worksheets("Sheet1").Range("A1:A1"). _
  Borders.Item(xlEdgeBottom).LineStyle = xlDouble
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

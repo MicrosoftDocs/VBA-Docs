@@ -1,5 +1,5 @@
 ---
-title: Page.Move Method (Publisher)
+title: Page.Move method (Publisher)
 keywords: vbapb10.chm393250
 f1_keywords:
 - vbapb10.chm393250
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.Move
 ms.assetid: 754cfe41-0853-a2cf-59ee-85db68fb871a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.Move Method (Publisher)
+# Page.Move method (Publisher)
 
 Moves the specified page to the specified index in the  **Pages** collection.
 
 
 ## Syntax
 
- _expression_. **Move**(**_Page_**,  **_After_**)
+_expression_.**Move**(**_Page_**,  **_After_**)
 
  _expression_ A variable that represents a  **Page** object.
 
@@ -41,4 +42,4 @@ This example moves the first page of the publication before the third page of th
 ActiveDocument.Pages(1).Move page:=3, After:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCallout Method (Publisher)
+title: Shapes.AddCallout method (Publisher)
 keywords: vbapb10.chm2162704
 f1_keywords:
 - vbapb10.chm2162704
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Shapes.AddCallout
 ms.assetid: bbf5f913-fcf0-b700-0c7e-9f0bdc7c6aea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shapes.AddCallout Method (Publisher)
+# Shapes.AddCallout method (Publisher)
 
 Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless line callout to the specified **[Shapes](Publisher.Shapes.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddCallout**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+_expression_.**AddCallout**(**_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 
@@ -67,4 +68,4 @@ Set shpCallout = ActiveDocument.Pages(1).Shapes.AddCallout _
  Width:=36, Height:=72)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

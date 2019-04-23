@@ -3,6 +3,7 @@ title: Access the Values of a Multi-valued Property in a Table
 ms.prod: outlook
 ms.assetid: e914b32b-d290-705b-d4fc-fecfba85fd8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -62,4 +63,4 @@ Sub TableCategories()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

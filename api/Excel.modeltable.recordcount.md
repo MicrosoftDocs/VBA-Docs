@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 7590a472-d250-5df1-a48d-bed99b5c2665
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -16,9 +17,9 @@ Returns the total row count for the model table.  **Integer** Read-only
 
 ## Syntax
 
- _expression_. `RecordCount`
+_expression_. `RecordCount`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a **[ModelTable](Excel.modeltable.md)** object.
 
 
 ## Property value
@@ -32,3 +33,4 @@ Returns the total row count for the model table.  **Integer** Read-only
 
 [ModelTable Object](Excel.modeltable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

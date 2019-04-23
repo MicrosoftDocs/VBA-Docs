@@ -2,7 +2,8 @@
 title: SharedWorkspaceFiles members (Office)
 ms.prod: office
 ms.assetid: 30e841ce-c8f1-249a-3bc7-6f204be64536
-ms.date: 09/07/2018
+ms.date: 01/30/2019
+localization_priority: Normal
 ---
 
 
@@ -13,14 +14,14 @@ A collection of the **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceFiles.Add.md)|Adds a file to the document library in a shared workspace. Returns a **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceFiles.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SharedWorkspaceFiles.Count.md)|Gets a **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.|
@@ -29,3 +30,4 @@ A collection of the **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)
 |[ItemCountExceeded](../../Office.SharedWorkspaceFiles.ItemCountExceeded.md)|Gets a **Boolean** value indicating whether the number of files allowed in the shared workspace has been exceeded. Read-only.|
 |[Parent](../../Office.SharedWorkspaceFiles.Parent.md)|Gets the **Parent** object for the **SharedWorkspaceFiles** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

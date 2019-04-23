@@ -1,27 +1,26 @@
 ---
-title: Xor Operator
+title: Xor operator
 keywords: vblr6.chm1009062
 f1_keywords:
 - vblr6.chm1009062
 ms.prod: office
 ms.assetid: 30f2f390-e777-8793-a287-038fb9a18ce6
-ms.date: 06/08/2017
+ms.date: 11/19/2018
+localization_priority: Normal
 ---
 
 
-# Xor Operator
-
-
+# Xor operator
 
 Used to perform a logical exclusion on two [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
-[ _result_**=** ] _expression1_ **Xor** _expression2_
-The  **Xor** operator syntax has these parts:
+[ _result_ = ] _expression1_ **Xor** _expression2_
 
+The **Xor** operator syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Optional; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|
@@ -29,20 +28,22 @@ The  **Xor** operator syntax has these parts:
 
 ## Remarks
 
-If one, and only one, of the expressions evaluates to  **True**, _result_ is **True**. However, if either expression is [Null](../../Glossary/vbe-glossary.md#null),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
+If one, and only one, of the expressions evaluates to **True**, _result_ is **True**. However, if either expression is [Null](../../Glossary/vbe-glossary.md#null), _result_ is also **Null**. 
 
+When neither expression is **Null**, _result_ is determined according to the following table.
 
-|**If  _expression1_ is**|**And  _expression2_ is**|**Then  _result_ is**|
+|If _expression1_ is|And _expression2_ is|Then _result_ is|
 |:-----|:-----|:-----|
 |**True**|**True**|**False**|
 |**True**|**False**|**True**|
 |**False**|**True**|**True**|
 |**False**|**False**|**False**|
 
-The  **Xor** operator performs as both a logical and bitwise operator. A [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of two [expressions](../../Glossary/vbe-glossary.md#expression) using exclusive-or logic to form the result, as shown in the following table:
+<br/>
 
+The **Xor** operator performs as both a logical and bitwise operator. A [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of two [expressions](../../Glossary/vbe-glossary.md#expression) using exclusive-or logic to form the result, is shown in the following table.
 
-|**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**Then  _result_ is**|
+|If bit in _expression1_ is|And bit in _expression2_ is|Then _result_ is|
 |:-----|:-----|:-----|
 |0|0|0|
 |0|1|1|
@@ -51,8 +52,7 @@ The  **Xor** operator performs as both a logical and bitwise operator. A [bitwis
 
 ## Example
 
-This example uses the  **Xor** operator to perform logical exclusion on two expressions.
-
+This example uses the **Xor** operator to perform logical exclusion on two expressions.
 
 ```vb
 Dim A, B, C, D, MyCheck
@@ -64,4 +64,8 @@ MyCheck = B > D Xor A > B    ' Returns Null.
 MyCheck = A Xor B    ' Returns 2 (bitwise comparison).
 ```
 
+## See also
 
+- [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

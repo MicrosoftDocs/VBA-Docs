@@ -7,26 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.Chart.AutoScaling
 ms.assetid: fecafb42-56fb-3c33-dc03-cb290b4a28df
-ms.date: 06/08/2017
+ms.date: 04/16/2019
+localization_priority: Normal
 ---
 
 
 # Chart.AutoScaling property (Excel)
 
- **True** if Microsoft Excel scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property must be **True** . Read/write **Boolean** .
+**True** if Microsoft Excel scales a 3D chart so that it's closer in size to the equivalent 2D chart. The **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoScaling`
+_expression_.**AutoScaling**
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Example
 
-This example automatically scales Chart1. The example should be run on a 3-D chart.
-
+This example automatically scales Chart1. The example should be run on a 3D chart.
 
 ```vb
 With Charts("Chart1") 
@@ -36,8 +36,5 @@ End With
 ```
 
 
-## See also
 
-
-[Chart Object](Excel.Chart(object).md)
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

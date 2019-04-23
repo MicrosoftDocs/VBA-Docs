@@ -1,5 +1,5 @@
 ---
-title: Range.FindNext Method (Excel)
+title: Range.FindNext method (Excel)
 keywords: vbaxl10.chm144129
 f1_keywords:
 - vbaxl10.chm144129
@@ -8,19 +8,20 @@ api_name:
 - Excel.Range.FindNext
 ms.assetid: 308c6241-2398-13e6-ba68-17ec713376f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Range.FindNext Method (Excel)
+# Range.FindNext method (Excel)
 
 Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the next cell that matches those same conditions and returns a **[Range](Excel.Range(object).md)** object that represents that cell. This does not affect the selection or the active cell.
 
 
 ## Syntax
 
- _expression_. `FindNext`( `_After_` )
+_expression_. `FindNext`( `_After_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
 
 ## Parameters
@@ -151,4 +152,4 @@ Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .N
 
 [Range Object](Excel.Range(object).md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

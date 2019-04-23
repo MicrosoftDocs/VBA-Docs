@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: ddbdb531-23d1-4aac-b719-bf11d52a3fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.GridlineColor property (Access)](http://msdn.microsoft.com/library/21502538-377c-fd82-62bb-c68cabd1b2cd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

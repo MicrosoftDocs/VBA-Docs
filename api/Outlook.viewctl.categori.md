@@ -3,6 +3,7 @@ title: ViewCtl.Categories Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 82c7b144-8c11-dabf-ee48-e1bfd8e0ca31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,13 +14,13 @@ Displays the Microsoft Outlook  **Categories** dialog box for the currently sele
 
 ## Syntax
 
- _expression_. **Categories**
+_expression_.**Categories**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks
 
 This method gives the user the ability to select categories for the selected items or to modify the master category list.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

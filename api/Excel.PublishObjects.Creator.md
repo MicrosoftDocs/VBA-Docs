@@ -8,19 +8,20 @@ api_name:
 - Excel.PublishObjects.Creator
 ms.assetid: 10cbdf25-3e7e-4bc5-8a32-8dbe2f7bbb46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
 # PublishObjects.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
+_expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
 
 
 ## Remarks
@@ -33,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PublishObjects Object](Excel.PublishObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

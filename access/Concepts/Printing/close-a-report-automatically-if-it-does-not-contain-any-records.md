@@ -3,6 +3,7 @@ title: Close a report automatically if it does not contain any records
 ms.prod: access
 ms.assetid: 9b160bd3-6eca-f907-ae5b-4327c3c1618e
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 
@@ -23,4 +24,4 @@ Private Sub Report_NoData (Cancel As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

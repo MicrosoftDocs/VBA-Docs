@@ -1,5 +1,5 @@
 ---
-title: Shape.NameID Property (Visio)
+title: Shape.NameID property (Visio)
 keywords: vis_sdr.chm11213935
 f1_keywords:
 - vis_sdr.chm11213935
@@ -8,17 +8,18 @@ api_name:
 - Visio.Shape.NameID
 ms.assetid: ae658ed9-124f-22f2-53be-5c9b6ebaa382
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Shape.NameID Property (Visio)
+# Shape.NameID property (Visio)
 
 Returns a unique name for a shape. Read-only.
 
 
 ## Syntax
 
- _expression_. `NameID`
+_expression_. `NameID`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
@@ -36,4 +37,4 @@ The value of a shape's  **UniqueID** property is unique across pages and masters
 
 Also,  **NameID** properties are reused. If a shape whose **NameID** property is sheet. _N_ is deleted, a shape subsequently added to the same context may be assigned sheet.N as its **NameID** property. Therefore, persisting **NameID** properties in separate data stores is generally not as sound as persisting **UniqueID** properties.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,14 +1,15 @@
 ---
-title: MsoAnimProperty Enumeration (PowerPoint)
+title: MsoAnimProperty enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimProperty
 ms.assetid: 6e5d3977-5dd4-15d7-0e09-4514aead8ce8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# MsoAnimProperty Enumeration (PowerPoint)
+# MsoAnimProperty enumeration (PowerPoint)
 
 Represents an animation property. 
 
@@ -60,3 +61,4 @@ Represents an animation property.
 |**msoAnimX**|1|X coordinate|
 |**msoAnimY**|2|Y coordinate|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

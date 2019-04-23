@@ -1,23 +1,24 @@
 ---
-title: ThreeDFormat.IncrementRotationHorizontal Method (Excel)
+title: ThreeDFormat.IncrementRotationHorizontal method (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationHorizontal
 ms.assetid: 2f0d0123-59a9-a9ad-fbae-a008dd631c26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ThreeDFormat.IncrementRotationHorizontal Method (Excel)
+# ThreeDFormat.IncrementRotationHorizontal method (Excel)
 
 Changes the rotation of the specified shape horizontally by the specified number of degrees.
 
 
 ## Syntax
 
- _expression_. `IncrementRotationHorizontal`( `_Increment_` )
+_expression_. `IncrementRotationHorizontal`( `_Increment_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](Excel.ThreeDFormat.md) object.
 
 
 ## Parameters
@@ -33,3 +34,4 @@ Changes the rotation of the specified shape horizontally by the specified number
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

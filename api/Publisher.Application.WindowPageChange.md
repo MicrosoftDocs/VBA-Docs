@@ -1,5 +1,5 @@
 ---
-title: Application.WindowPageChange Event (Publisher)
+title: Application.WindowPageChange event (Publisher)
 keywords: vbapb10.chm268435460
 f1_keywords:
 - vbapb10.chm268435460
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Application.WindowPageChange
 ms.assetid: bb636f6e-da4b-7271-9f59-2b7000270c16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.WindowPageChange Event (Publisher)
+# Application.WindowPageChange event (Publisher)
 
 Occurs when switching the view from one page to another page in a publication.
 
 
 ## Syntax
 
- _expression_. **WindowPageChange**(**_Vw_**, )
+_expression_.**WindowPageChange**(**_Vw_**, )
 
  _expression_ A variable that represents an  **Application** object.
 
@@ -54,3 +55,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

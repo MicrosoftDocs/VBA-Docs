@@ -1,5 +1,5 @@
 ---
-title: DataRecordsetChangedEvent.Stat Property (Visio)
+title: DataRecordsetChangedEvent.Stat property (Visio)
 keywords: vis_sdr.chm17214420
 f1_keywords:
 - vis_sdr.chm17214420
@@ -8,10 +8,11 @@ api_name:
 - Visio.DataRecordsetChangedEvent.Stat
 ms.assetid: e67e1a54-26da-1052-fe0b-82f3213a3136
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# DataRecordsetChangedEvent.Stat Property (Visio)
+# DataRecordsetChangedEvent.Stat property (Visio)
 
 Returns status information for an object. Read-only.
 
@@ -21,7 +22,7 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
@@ -39,4 +40,4 @@ If an object is a reference to an entity that has been deleted, the  **Stat** pr
 
 A Component Object Model (COM) object, such as a Microsoft Visio  **Document** object, lives as long as it is held (pointed to) by a client, even if the object is logically in a deleted or closed state.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

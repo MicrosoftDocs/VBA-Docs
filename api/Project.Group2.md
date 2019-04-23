@@ -1,14 +1,15 @@
 ---
-title: Group2 Object (Project)
+title: Group2 object (Project)
 ms.prod: project-server
 api_name:
 - Project.Group2
 ms.assetid: a7a61fa4-e752-006e-a47e-03987b04f01c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Group2 Object (Project)
+# Group2 object (Project)
 
 Represents a group definition where the group hierarchy can be maintained. A  **Group2** object is a member of a **[Groups2](Project.groups2.md)**, **[ResourceGroups2](Project.resourcegroups2(object).md)**, or **[TaskGroups2](Project.taskgroups2(object).md)** collection.
  
@@ -45,7 +46,7 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.Group2.Delete.md)|
 
@@ -53,7 +54,7 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Group2.Application.md)|
 |[GroupAssignments](Project.Group2.GroupAssignments.md)|
@@ -69,3 +70,5 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

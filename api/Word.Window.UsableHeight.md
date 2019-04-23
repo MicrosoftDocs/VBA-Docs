@@ -1,5 +1,5 @@
 ---
-title: Window.UsableHeight Property (Word)
+title: Window.UsableHeight property (Word)
 keywords: vbawd10.chm157417504
 f1_keywords:
 - vbawd10.chm157417504
@@ -8,17 +8,18 @@ api_name:
 - Word.Window.UsableHeight
 ms.assetid: 7b6458ba-41fa-d742-74e7-a606eb862a70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Window.UsableHeight Property (Word)
+# Window.UsableHeight property (Word)
 
-Returns the height (in points) of the active working area in the specified document window. Read-only  **Long** . .
+Returns the height (in points) of the active working area in the specified document window. Read-only  **Long**. .
 
 
 ## Syntax
 
- _expression_. `UsableHeight`
+_expression_. `UsableHeight`
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
@@ -48,3 +49,4 @@ End With
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

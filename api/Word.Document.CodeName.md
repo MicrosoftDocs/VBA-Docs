@@ -1,5 +1,5 @@
 ---
-title: Document.CodeName Property (Word)
+title: Document.CodeName property (Word)
 keywords: vbawd10.chm158007558
 f1_keywords:
 - vbawd10.chm158007558
@@ -8,19 +8,20 @@ api_name:
 - Word.Document.CodeName
 ms.assetid: 684f885d-9468-9bc9-d381-ef73286330ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Document.CodeName Property (Word)
+# Document.CodeName property (Word)
 
-Returns the code name for the specified document. Read-only  **String** .
+Returns the code name for the specified document. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `CodeName`
+_expression_. `CodeName`
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object.
+ _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Remarks
@@ -43,3 +44,4 @@ Msgbox ActiveDocument.CodeName
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

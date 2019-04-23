@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NetworkDays_Intl Method (Excel)
+title: WorksheetFunction.NetworkDays_Intl method (Excel)
 keywords: vbaxl10.chm137391
 f1_keywords:
 - vbaxl10.chm137391
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.NetworkDays_Intl
 ms.assetid: 04f1b585-396c-f981-9491-70d1b7948e6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.NetworkDays_Intl Method (Excel)
+# WorksheetFunction.NetworkDays_Intl method (Excel)
 
 Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days. Weekend days and any days that are specified as holidays are not considered as workdays.
 
 
 ## Syntax
 
- _expression_. `NetworkDays_Intl`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `NetworkDays_Intl`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -56,3 +57,4 @@ Double
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

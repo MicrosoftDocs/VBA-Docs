@@ -1,5 +1,5 @@
 ---
-title: Page.IsTwoPageMaster Property (Publisher)
+title: Page.IsTwoPageMaster property (Publisher)
 keywords: vbapb10.chm131100
 f1_keywords:
 - vbapb10.chm131100
@@ -8,17 +8,18 @@ api_name:
 - Publisher.Page.IsTwoPageMaster
 ms.assetid: dbfc3c21-0070-3f0a-c0b0-746d83c46765
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Page.IsTwoPageMaster Property (Publisher)
+# Page.IsTwoPageMaster property (Publisher)
 
  **True** if the specified **Page** object is a two-page master. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. **IsTwoPageMaster**
+_expression_.**IsTwoPageMaster**
 
  _expression_ A variable that represents an  **Page** object.
 
@@ -57,4 +58,4 @@ Next i
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

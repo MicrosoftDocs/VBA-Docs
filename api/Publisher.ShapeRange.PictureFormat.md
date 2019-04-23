@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.PictureFormat Property (Publisher)
+title: ShapeRange.PictureFormat property (Publisher)
 keywords: vbapb10.chm2293831
 f1_keywords:
 - vbapb10.chm2293831
@@ -8,17 +8,18 @@ api_name:
 - Publisher.ShapeRange.PictureFormat
 ms.assetid: 3d693c6b-b76b-0fe1-e7df-63fb08782f6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# ShapeRange.PictureFormat Property (Publisher)
+# ShapeRange.PictureFormat property (Publisher)
 
 Returns a  **[PictureFormat](Publisher.PictureFormat.md)** object that contains picture formatting properties for the specified object. Applies to  **[Shape](Publisher.Shape.md)** or **[ShapeRange](Publisher.ShapeRange.md)** objects that represent pictures or OLE objects. Read-only.
 
 
 ## Syntax
 
- _expression_. **PictureFormat**
+_expression_.**PictureFormat**
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
@@ -42,4 +43,4 @@ Sub FixPictureContrastBrightness()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: SlideShowSettings Object (PowerPoint)
+title: SlideShowSettings object (PowerPoint)
 keywords: vbapp10.chm514000
 f1_keywords:
 - vbapp10.chm514000
@@ -8,10 +8,11 @@ api_name:
 - PowerPoint.SlideShowSettings
 ms.assetid: d58c7c3b-a1cc-d819-b386-fd3fb7f967a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# SlideShowSettings Object (PowerPoint)
+# SlideShowSettings object (PowerPoint)
 
 Represents the slide show setup for a presentation.
 
@@ -58,7 +59,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Run](./PowerPoint.SlideShowSettings.Run.md)|
 
@@ -66,7 +67,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvanceMode](./PowerPoint.SlideShowSettings.AdvanceMode.md)|
 |[Application](./PowerPoint.SlideShowSettings.Application.md)|
@@ -88,4 +89,6 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

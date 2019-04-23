@@ -1,5 +1,5 @@
 ---
-title: TableView.Standard Property (Outlook)
+title: TableView.Standard property (Outlook)
 keywords: vbaol11.chm2512
 f1_keywords:
 - vbaol11.chm2512
@@ -8,24 +8,25 @@ api_name:
 - Outlook.TableView.Standard
 ms.assetid: ad60a066-aefc-2043-b582-e5442a038f5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.Standard Property (Outlook)
+# TableView.Standard property (Outlook)
 
 Returns a  **Boolean** value that indicates whether the **[TableView](Outlook.TableView.md)** object is a built-in Outlook view. Read-only.
 
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 
 
 ## Remarks
 
-The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True** .
+The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
 
 
 ## Example
@@ -73,3 +74,4 @@ End Sub
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

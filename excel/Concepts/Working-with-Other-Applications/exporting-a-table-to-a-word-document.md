@@ -3,6 +3,7 @@ title: Exporting a Table to a Word Document
 ms.prod: excel
 ms.assetid: 56ad67de-6f8b-4a55-a29e-4c2b5c88dfd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Exporting a Table to a Word Document
@@ -34,7 +35,7 @@ Sub Export_Table_Word()
     Set wsSheet = wbBook.Worksheets("Sheet1")
     Set rnReport = wsSheet.Range("Table1")
     
-    'Initialize the Word objets.
+    'Initialize the Word objects.
     Set wdApp = New Word.Application
     Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordReport)
     Set wdbmRange = wdDoc.Bookmarks("Report").Range
@@ -92,6 +93,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

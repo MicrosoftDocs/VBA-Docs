@@ -1,5 +1,5 @@
 ---
-title: WebCommandButton.DataFileName Property (Publisher)
+title: WebCommandButton.DataFileName property (Publisher)
 keywords: vbapb10.chm3932165
 f1_keywords:
 - vbapb10.chm3932165
@@ -8,17 +8,18 @@ api_name:
 - Publisher.WebCommandButton.DataFileName
 ms.assetid: 5fd2bac7-7067-4833-4b34-26897c39ea58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WebCommandButton.DataFileName Property (Publisher)
+# WebCommandButton.DataFileName property (Publisher)
 
 Returns or sets a  **String** that represents the name of the file in which to save data from a Web form. Read/write.
 
 
 ## Syntax
 
- _expression_. **DataFileName**
+_expression_.**DataFileName**
 
  _expression_ A variable that represents a  **WebCommandButton** object.
 
@@ -43,4 +44,4 @@ Sub WebDataFile()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

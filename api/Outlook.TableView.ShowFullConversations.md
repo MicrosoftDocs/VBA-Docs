@@ -1,5 +1,5 @@
 ---
-title: TableView.ShowFullConversations Property (Outlook)
+title: TableView.ShowFullConversations property (Outlook)
 keywords: vbaol11.chm3516
 f1_keywords:
 - vbaol11.chm3516
@@ -8,19 +8,20 @@ api_name:
 - Outlook.TableView.ShowFullConversations
 ms.assetid: 126cab84-5276-43bd-c19c-2d442e5a2aad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# TableView.ShowFullConversations Property (Outlook)
+# TableView.ShowFullConversations property (Outlook)
 
 Returns or sets a  **Boolean** value that indicates whether to display conversation items from other folders, such as the Sent Items folder, as part of the conversation in the table view. Read/write.
 
 
 ## Syntax
 
- _expression_. `ShowFullConversations`
+_expression_. `ShowFullConversations`
 
- _expression_ A variable that represents a '[TableView](Outlook.TableView.md)' object.
+_expression_ A variable that represents a '[TableView](Outlook.TableView.md)' object.
 
 
 ## Remarks
@@ -37,3 +38,4 @@ The  **ShowFullConversations** property is analogous to selecting **Show Message
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

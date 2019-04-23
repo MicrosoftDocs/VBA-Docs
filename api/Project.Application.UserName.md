@@ -1,21 +1,22 @@
 ---
-title: Application.UserName Property (Project)
+title: Application.UserName property (Project)
 ms.prod: project-server
 api_name:
 - Project.Application.UserName
 ms.assetid: c501ef16-f4c8-3c08-69b8-3e9756db8336
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# Application.UserName Property (Project)
+# Application.UserName property (Project)
 
 Gets or sets the local name of the current user. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `UserName`
+_expression_. `UserName`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -55,4 +56,4 @@ Sub GetUserName()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

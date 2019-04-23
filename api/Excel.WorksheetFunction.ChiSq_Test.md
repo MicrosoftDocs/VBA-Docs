@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Test Method (Excel)
+title: WorksheetFunction.ChiSq_Test method (Excel)
 keywords: vbaxl10.chm137361
 f1_keywords:
 - vbaxl10.chm137361
@@ -8,19 +8,20 @@ api_name:
 - Excel.WorksheetFunction.ChiSq_Test
 ms.assetid: d8f1de5c-2ddc-40a0-8e1b-6d38ab5a3f69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# WorksheetFunction.ChiSq_Test Method (Excel)
+# WorksheetFunction.ChiSq_Test method (Excel)
 
 Returns the test for independence.
 
 
 ## Syntax
 
- _expression_. `ChiSq_Test`( `_Arg1_` , `_Arg2_` )
+_expression_. `ChiSq_Test`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters
@@ -59,3 +60,4 @@ ChiSq_Test returns the value from the chi-squared ( 2 ) distribution for the sta
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

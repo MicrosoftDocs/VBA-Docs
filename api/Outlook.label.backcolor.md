@@ -3,6 +3,7 @@ title: Label.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 2795bda5-04ab-56e8-a5ad-2e18b75b6ce5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -13,9 +14,9 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
 ## Syntax
 
- _expression_. **BackColor**
+_expression_.**BackColor**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks
@@ -29,4 +30,4 @@ RGB(15,200,75)
 
 You can only see the background color of an object if the  **[BackStyle](Outlook.label.backstyle.md)** property is set to 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

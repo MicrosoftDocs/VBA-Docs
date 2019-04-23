@@ -1,5 +1,5 @@
 ---
-title: AccelItem.AddOnName Property (Visio)
+title: AccelItem.AddOnName property (Visio)
 keywords: vis_sdr.chm14513050
 f1_keywords:
 - vis_sdr.chm14513050
@@ -8,17 +8,18 @@ api_name:
 - Visio.AccelItem.AddOnName
 ms.assetid: 5775be57-b4aa-6cdf-89d0-84a646fb8e55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
-# AccelItem.AddOnName Property (Visio)
+# AccelItem.AddOnName property (Visio)
 
 Gets or sets the name of an add-on or procedure that is run when its associated accelerator key is pressed. Read/write.
 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 
@@ -45,4 +46,4 @@ If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** pro
 
  **Note**  Beginning with Visio 2002, the  **AddOnName** property cannot execute a string that contains arbitrary VBA code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move the code to a procedure in a document's VBA project that is called from the **AddOnName** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

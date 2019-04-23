@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: c62ac290-6555-4e00-adb3-f7e1cfa78847
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.EnterScope Event (Visio)](http://msdn.microsoft.com/library/f7935021-2458-cc8e-dd25-d8d2eb16fa6d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 766beb9a-0789-4b23-9bb6-a7f6acec77fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
@@ -17,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.DiagramServicesEnabled Property (Visio)f56fd833-ffdd-ed7e-6d92-bc6d2da921fd](http://msdn.microsoft.com/library/f56fd833-ffdd-ed7e-6d92-bc6d2da921fd.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
